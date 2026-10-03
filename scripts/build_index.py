@@ -5,6 +5,8 @@ Writes index/<genre>.json files in the jambuddy.live tune-index schema (version 
 index/genres.json listing them. Besides the fields the app reads, each tune has:
   category   normalized tune type (reel, jig, ...); from R:, or from a compound M: when R: is absent
   meter      the tune's M: field
+index/search/<genre>.json holds the same tunes with only the fields the app reads, so the
+app can download every genre cheaply; genres.json records each file's sha256.
   genre      musical tradition (irish, scottish, nordic, ...); see genres.py
   tune       group id shared by settings with the same normalized title and category
   duplicates other copies of an identical setting, which are omitted from `tunes`
@@ -14,6 +16,7 @@ import hashlib
 import json
 import re
 import shutil
+import urllib.parse
 import unicodedata
 from pathlib import Path
 
@@ -23,6 +26,8 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCES = ROOT / 'sources'
 OUTPUT = ROOT / 'index'
 MIN_NOTES = 8
+# The fields AbcTuneCatalog on Android reads.
+SEARCH_FIELDS = ('id', 'titles', 'url', 'x', 'ordinal', 'source', 'setting', 'encoding')
 MAX_DUPLICATES = 3  # Fallback copies listed per tune; some sites repeat a tune dozens of times.
 DEFAULT_BASE = 'https://raw.githubusercontent.com/stewing-co/jambuddy-abc/main/'
 
@@ -95,7 +100,7 @@ def parse_file(path, source, base, sources=SOURCES):
         text, encoding = data.decode('windows-1252', errors='replace'), 'windows-1252'
     text = text.replace('\r\n', '\n').replace('\r', '\n').lstrip('\ufeff')
     relative = path.relative_to(sources).as_posix()
-    url = base + 'sources/' + relative
+    url = base + 'sources/' + urllib.parse.quote(relative)
     tunes = []
     for ordinal, part in enumerate(re.split(r'(?m)(?=^X:\s*\S)', text)[1:]):
         titles = list(dict.fromkeys(fields(part, 'T')))
@@ -200,8 +205,15 @@ def main():
                    'sources': [source for source in catalog['sources'] if source['id'] in used], 'tunes': tunes}
         path = OUTPUT / f'{name}.json'
         path.write_text(json.dumps(payload, ensure_ascii=False, separators=(',', ':')) + '\n')
+        search = json.dumps({'version': 1, 'genre': name, 'tunes': [
+            {field: tune[field] for field in SEARCH_FIELDS if field in tune} for tune in tunes]},
+            ensure_ascii=False, separators=(',', ':')).encode() + b'\n'
+        (OUTPUT / 'search').mkdir(exist_ok=True)
+        (OUTPUT / 'search' / f'{name}.json').write_bytes(search)
         manifest.append({'genre': name, 'name': GENRES[name], 'file': f'{name}.json', 'tunes': len(tunes),
-                         'bytes': path.stat().st_size, 'categories': count(tunes, 'category')})
+                         'bytes': path.stat().st_size, 'search_file': f'search/{name}.json',
+                         'search_bytes': len(search), 'search_sha256': hashlib.sha256(search).hexdigest(),
+                         'categories': count(tunes, 'category')})
     (OUTPUT / 'genres.json').write_text(json.dumps(
         {'version': 1, 'base_url': args.base_url + 'index/', 'genres': manifest}, indent=1) + '\n')
     total = sum(entry['tunes'] for entry in manifest)
