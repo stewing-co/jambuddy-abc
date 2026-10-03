@@ -1,0 +1,916 @@
+% Various collections: French & Breton tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T: Acku Dantza
+O: France
+M: 2/4
+L: 1/16
+K: Dm octave=1
+%%MIDI drum d2ddd2d2 41 41 41 41 41
+%%MIDI drumon
+|:f2 gf e2 fe|dzg2 g2f2  |\
+  e2c2 e2g2  |b2ag f2f2  |
+  f2 gf e2 fe|dzg2 g2f2  |\
+  e2c2 e2g2  |b2ag f4    :|
+|:c2ee e2c2  |d2ff f2d2  |\
+  d2ef g2f2  |e2d2 e2c2  |
+  c2ee e2c2  |d2ff f2d2  |\
+  d2ef g2f2  |[1 e2d2 e4 :|\
+  [2 e2d2 d4 |
+% Source: sources/ifdo-ca/_seymour/runabc/intl.abc
+
+X:2
+T:Adieu les Filles de Mon Pays
+R:March
+C:Trad.
+O:France; Morvan
+M:4/4
+L:1/4
+K:G
+"G"G2 B>A|"G"G2 B>A|"G"GA Bc|"G"d4|
+"G"B3d|"G"dB GA|1 "G"B2"Am"c>B|"D"A4:|[2 "D"B3 A|"G"G4||
+|:"G"d2 g>f|"C"e3d|"Am"c2 e2|"G"d4|
+"G"B3 d|"G"dB GA|1 "G"B2"Am"c>B|"D"A4:|[2 "D"B3 A|"G"G4|]
+% Source: sources/almeleysteadysession-wordpress-com/pages/october-hessian-camp-adieu-les-filles-de-mon-pays-and-a-set-with-them-both.abc
+
+X:3
+T: Andromadere
+O: France (shottis)
+S: Ad vielle que poura
+M: 2/4
+L: 1/8
+Q: 1/4=84
+P:ABABCCDDEEDD
+K: Am
+P:A
+%%MIDI program 21
+%%MIDI bassprog 24
+%%MIDI bassvol 60
+%%MIDI gchord fzfz
+  E                        |:"a" AA "d" Bc/B/          |"a" AA "d" Bc/B/             |\
+  "a" AA c/B/c             |"a" e/d/4z/4c/4d/4c/Bc/d/  ::"a" AA "d" Bc/B/           |
+  "a" AA "d" Bc/B/         |"a" AA c/B/c               |[1 "e" e/dc/4d/4c/4B/4-B/2E  :|\
+  [2e/dc/4d/4c/4B/4-B/2c/d/|
+P:B
+|:"a" eA Ac/e/             |"d" d/c/B/A/ Bc/d/         |\
+  "a"eA Ac/e/              |"d" d/c/B/A/ "a" Ac/d/     :|
+P:C
+|:"a" E/F/E/D/ E/A,/A,/E/  |A/c/B/A/ B/E/E/D/          |\
+  E/F/E/D/ E/A,/A,/C/      |B,/A,/G,/A,/ A,E           :|
+P:D
+|:"a" A,A, FF              |A,A, G,G,                  |[1 A,A, CC                   |\
+  DD E2                    :|A,C DB,                   |A,4                          |
+P:E
+K:Em
+|:"a" A2 cB                |AG ED/E/                   |[1FG ED/E/                   |\
+  F/G/F/G/ E2              :|[2 FGED/C/                | B,2 A,2                     |
+% Source: sources/ifdo-ca/_seymour/runabc/intl.abc
+
+X:4
+T:Are You Sleeping?
+O:Old French
+%R: air, march
+B:"The Everyday Song Book", 1927
+F:http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z:2017 John Chambers <jc:trillian.mit.edu>
+M:4/4
+L:1/8
+K:Cmaj
+"^1"C2 D2 E2 C2| C2 D2 E2 C2|"^2"E2 F2 G4| E2 F2 G4|
+w:1.~Are you sleep-ing, are you sleep-ing, Bro-ther John, Bro-ther John,
+w:Fr\`e-re Jac-ques, Fr\`e-re Jac-ques, Dor-mez-vous, dor-mez-vous?
+%
+"^3"G A G F E2 C2| G A G F E2 C2|"^4"C2 G,2 C4| C2 G,2 C4 |]
+w:Morn-ing bells are ring-ing, Morn-ing bells are ring-ing; Ding, ding, dong, ding, ding, dong.
+w:Son-nez les ma-ti-nes, son-nez les ma-ti-nes, Bim, bim, bom, bim, bim, bom.
+% Source: sources/alijc-github-io/music/friendly-house-senior-choir.abc
+
+X:5
+T:AU CLAIR DE LA LUNE
+M:4/4
+L:1/8
+Q:200
+K:G
+G2 G2 G2 A2 | B4 A4 | G2 B2 A2 A2 | G8 :|]  A2 A2 A2 A2 | E4 E4 | A2 G2 F2 E2 | D8 |  G2 G2 G2  A2 | B4 A4 | G2 B2 A2 A2 | G4 |]
+% Source: sources/mudcat-org/pages/thread.cfm_d2438819.abc
+
+X:6
+T:Bourree
+Z:Jack Campin, http://www.campin.me.uk/
+F:Jack Campin's Nine-Note Tunebook
+% last edit 03-02-2013
+S:Cam-French Tune Book
+O:trad. Auvergne
+M:3/8
+L:1/16
+Q:3/8=69
+P:ABCCD
+K:F
+[P:A] F4  E2|F4  E2|F6   ||
+[P:B] GAGFEG|F2FGAB|c2BcBA|   GAG2F2|
+      GAGFEG|F2FGAB|ccBcBA|[1 G2 c4:|\
+                           [2 G6   ||
+[P:C] GABAGA|F2GAGF|E2DCDE|[1 F2 G4:|\
+                           [2 F6   ||
+[P:D] F2ABcd|c2ABAG|F4  E2|   F6   |]
+% Source: sources/campin-me-uk/Music/Chalumeau.abc
+
+X:7
+T:Bourrée à Bérot
+C:Dominique Forges
+M:2/4
+R:bourrée 2 temps
+Q:250
+L:1/8
+K:Gm
+B4|c4|A>d cB|AG/A/ BG|B4|c4|A>d cB|A4:|
+|:G>A BG|d>c BA|G>A BG|A2 D2|G>A BG|d>c BA|G>A B^F|G4:|
+% Source: sources/domren-free-fr/pages/ABC.htm.abc
+
+X:8
+T:Bourrée d'Aurore Sand
+C:trad.
+M:2/4
+R:bourrée 2 temps
+Q:250
+L:1/8
+K:Dm
+A|:D>E FG|A3 A|Ad ^cd|A3 A|B>A GE|F>E DF|ED EF|1E3A:|2D4||
+|:A>G FG|A>G FG|A>G AB|AG FG|A>G FG|A>G AB|AG FE|D4:|
+% Source: sources/domren-free-fr/pages/ABC.htm.abc
+
+X:9
+T:Bourrée de Concours
+C:Serge Durin
+M:2/4
+R:bourrée 2 temps
+Q:250
+L:1/8
+K:Gm
+d2^cd|B3A|G>A BG|1AD ED:|2A4:|
+D>=E ^FD|G>A BG|1^F>G AG|^F2 D2:|2^F>G AF|G4:|
+% Source: sources/domren-free-fr/pages/ABC.htm.abc
+
+X:10
+T:Chassepain
+C:Gilles Chabenat
+M:2/4
+R:bourrée 2 temps
+Q:250
+L:1/8
+K:G
+"G"g>d dg|"F"=fe de|1"Am"A>B ce|"G"dA BG:|2"Am"A>B cd|"D"ef ga:|
+|:"Am"ec A"G"g-|gc A"Am"a-|1af "G"de|fg fd:|2af "G"dB|cd BG:|
+% Source: sources/domren-free-fr/pages/ABC.htm.abc
+
+X:11
+T:Chavouisses
+C:Phillipe Prieur
+I:Les "Chavouisses" sont les femmes des "Chavans"
+I:ou "Chat-Huants", soit les gars de La Chavannée de Montbel
+M:2/4
+R:bourrée 2 temps
+Q:250
+L:1/8
+K:GMix
+BB2A|G>A Bc|1AA2G|=F>G AF:|2A>G =FA|G4:|
+|:d>c BG|=F>G AB|1c>B Ac|B/c/B/A/ GA:|2cB A=F|G4:|
+% Source: sources/domren-free-fr/pages/ABC.htm.abc
+
+X:12
+T:Corelli's Gavot
+C:A.  Corelli
+R:Gavot
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/4=112
+M:2/4
+L:1/16
+%%MIDI gchord fzczfzcz
+N:This is a notier version of "Corelli's Maggot".
+K:F
+P:A
+|: c2 | "F"f2c2 f2c2 | "C"g6 c2 | "F"a2fg agfa | "C"g6 c2 |\
+"F"a2c2 a2gf | "C"g2ag "F"agfe | "F"agfe "G7"d3c | "C"c6 :|
+P:B
+|: c2 | "F"fefg agfe | "Bb"d2F2 B,2d2 | "Gm"gfga bagf | "C"e2G2 C2g2 |\
+"F"c'2f2 "Bb"b2ag | "F"a2c2 "Bb"f4 | "Bb"fagf "C7"c2fe | "F"f6 :|
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:13
+T:Crested hens
+T:Cockscomb bourree
+C:Gilles Chabenat
+O:Brittany
+R:Bourree
+D:Solas
+S:Solas, IrTrad
+Z:Brian Duffy
+M:3/4
+L:1/8
+K:D
+"Em"E3 G FE|B4 Bc|"Bm"dc Be dc|dc BA GF|"Em"E3 G FE|B4 Bc|\
+"Bm"dc BA GA|[1 B3 G FD:|[2 B4 ef|]
+|:"Em"gB Bg gB|"Am"=c4ef|"C"gf ag fe|\
+"B"^d2e2f2|"Em"gB Bg gB|"Am"=c4ef|"C"gf ag "Bm"fd|\
+[1 "Em"e3e ef:|[2 "Em"e3G FD|]
+% Source: sources/pacholo-com/mike/tunebook/KSS.abc
+
+X:14
+T: Crue d'Amour
+C: Philippe Prieur
+O: France
+Z: abc transcription Anahata <anahata@treewind.co.uk>
+N: From PDF supplied by Jean Blanchard
+L: 1/4
+M: 3/4
+Q: 186
+K: C
+e>d | c3 | -ce>d |c3 | -cBA | Bcd | GAB | c/B/ c/d/ e/f/| ge>d | 
+c3 |-c e>d |c3 |-cBA | Bcd | GAB | c3- |1 c e>d :|2 c2 d/e/ |
+fdB | ABd | cec |G2 c | B>c d/e/| fg a/b/ | c'ba | g2 d/e/ |
+fdB | ABd | cec | G2 c | B>c d/e/ |fdB | c3 |1 -c2 d/e/:|2 c z |]
+% Source: sources/maryanahata-co-uk/media/abc/cruedamour.abc
+
+X:15
+T:An dro 1
+R:Reel
+O:Brittany 
+S:Claus Steinort, Ir-Trad, 3/97
+S:oneila~1.abc
+Z:Transcription:??, chords:Mike Long
+M:C|
+L:1/8
+K:Bm
+"Bm"Bffe ~f3e|"D"dfef d2B2|"A"cded cBA2|[1 "Bm"BdcA "A"BAFA:|[2 "Bm"BdcA ~B3A|]
+|:"Bm"BdcB "A"A2A2|"A"ABcd "Bm"cBBA|"Bm"BdcB "A"A2A2|"A"ABcd "Bm"~B3A:|
+% Source: sources/pacholo-com/mike/tunebook/KSS.abc
+
+X:16
+T:An dro 2
+R:Reel
+O:Brittany 
+S:From Jeff
+Z:Transcription, chords:Mike Long
+M:C|
+L:1/8
+K:D
+"Bm"B2f2 f2f2|"A"e2d2 c2dc|"Bm"B2f2 f2f2|"A"e2d2 c3c:|
+|:"Bm"BcdB "A"c2cd|"A"e2fe "Bm"d2c2|"Bm"BcdB "A"c2ed|"A"c2d2 "Bm"B3B:|
+% Source: sources/pacholo-com/mike/tunebook/KSS.abc
+
+X:17
+T:An dro 3
+R:Reel
+O:Brittany 
+Z:Transcription:?, chords:Mike Long
+M:C|
+L:1/8
+K:Bb
+"Gm"G2d2 d2de|"F"c2cd "Gm"B4|"F"ABcA "Gm"B2G2|[1 "Gm"GFGA B2A2:|[2 "Bb"BG"F"AF "Gm"G4|]
+|:"F"ABcA "Gm"B2G2|"Gm"GFGA B2A2|"F"ABcA "Gm"B2G2|"Bb"BG"F"AF "Gm"G4:|
+% Source: sources/pacholo-com/mike/tunebook/KSS.abc
+
+X:18
+T:An Dro 906
+Q:1/4=120
+M:4/4
+L:1/16
+%%MIDI gchord fcHcfcIc
+C:Traditional Breton
+S:http://www.cambridgefolk.org.uk/cam-french/cam-french.abc
+R:An Dro
+N:Play entire tune twice, then 907 twice and back to 906
+K:C
+|: "G"GABc d3c B2G2 d2d2 | "/"GABc d3c B2G2d4 :|
+|: "G"B2cd B3d "C"cBA2 "G"B2G2 | "G"B2cd B3d "C"cBA2 "G"G4 :|
+N:Replace by blank line and X field
+T:An Dro 907
+Q:1/4=120
+M:4/4
+L:1/8
+%%MIDI gchord fcHcfcIc
+C:Tradition Breton
+R:An Dro
+K:C
+|: "G"GG d2 "F"cd c/B/A | "G"GG d2 "F"cd/c/A2 :|
+|: "F"cd/c/ "G"BG "F"AB"G"Gd | "G"GA/B/ "F"c>d "F"c/B/A "G"G2 :|
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:19
+T:An enez e-kreiz ar mor
+% Ton Doubl
+C:Hengounel
+O:Breizhat
+M:6/8
+K:G
+W:1. Barzh un enez e kreizh ar mor
+W:   Me 'm boa lakaet ma yar en gor
+W:2  Seitek vi dezhi am boa lakaet
+W:   Naonteg lapoused am boa bet
+W:3. D'an taol-se oan ket bet war goll
+W:   Da gaout ul lapous war an holl
+%E:12
+|:ded B2A|B2c A3|ded B2G|B2A G3:|G2A B2B|c2B A2d|%*
+e2d B2A|B2c A3|G2A B2B|c2B A2d|e2d B2G|B2A G3||%**
+% Diwezh
+% Source: sources/moinejf-free-fr/dansou.abc
+
+X:20
+T:Fil et bobine
+C:Jean Blanchard
+R:bourree a trois temps
+A:France
+F:http://simonwascher.info
+Z:abc transcription Simon Wascher
+M:3/8
+L:1/16
+K:D
+FG |\
+A2d2c2 | A3GAB | =c2B2G2 | ABAGFG |
+A2d2c2 | A3GAB | =c2B2G2 | A4 :|
+|: FG |\
+A2F2D2 | E3DEF | G2F2D2 | EFG2FG |
+A2F2D2 | E3DEF |1 G2F2D2 | E4 :|\
+               [2 G2F2E2 | D4 |]
+% Source: sources/simonwascher-info/TradArchiv_bourree_3/bourree.A2d2c2A3GAB.abc
+
+X:21
+T:Gasp\'e Reel
+O:French Canadian
+M:C|
+L:1/8
+K:D
+|: "D"f2ef e2dB | AFA2 B2A2 | "A7"g2fg fecA |1 BABc ~B2A2 :|2 "A7"B2c2 "D"d4 :|
+|: "A7"e2f2 g2fe | "D"f2g2 a4 | "A7"e2f2 gecA |1 "(G)"BABc "A7"~B2A2 :|2 "A7"B2c2 "D"d4 :|
+% Source: sources/domren-free-fr/pages/ABC.htm.abc
+
+X:22
+T:A Gavot
+C:Ashover Book, 1775
+M:2/2
+R:Gavot
+L:1/8
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/2=80
+%%MIDI program 74
+%%MIDI chordprog 54
+%%MIDI bassprog 54
+%%MIDI bassvol 30
+%%MIDI gchord bcbc
+K:D
+[| "D"d2"A"c2"D"d2A2 | "G"B2"A"c2"D"d4 | "G"g2"D"f2"G"b2"D"a2 | "Em"gfed "A"c4 |
+"D"(df) "Em"(eg) "D"(fd) "G"(ge) | "D"f2"A"g2"D"a4 | "D"fd "A"ec "Bm"dB "A"ac | "Bm"dB"E7"A^G "A"A4 |]
+[| "D"d2"B7"^d2"A"ecBA | "A7"ceag "D"f2-"D7"f2 | "B7"babf "Em"gefg | "F#7"fedc "Bm"B4 |\
+"D"d2"A"c2"D"d2A2 | "G"Bagf "F#7"f4 | "Bm"b2B2"G"c2d2 | "Em"egfe "A"Tc4 |
+"D"FAdf "Em"GBeg | "F#m"Acfa "G"Bdgb | "Em"gfga bceg | "A7"fedc "D"d4 |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:23
+T:hanter dro 01
+R:hanter dro
+C:trad breton
+F:http://www.boombaltunes.be/tunes/abc/ht_hanter_dro_01.abc	 2008-12-09 21:27:08 UT
+M:6/4
+L:1/4
+K:Amin
+||e e/f/ ed c2|e d/c/ B d c A|e e/f/ ed c2|e d/c/ B d c A||
+|: A/G/ A/B/ c/B/ c/d/ e z|d>f a g/f/ e z|e/c/ d/e/ f e d c|B>d c B A2:|
+% Source: sources/slainte-ch/abc/own.txt.abc
+
+X:24
+T:Hanter-dro 1
+M:3/4
+L:1/16
+Q:C2=116
+C:Traditionnel
+S:Tonioù Breizh-Izel 1926 (Pleuigner)
+R:Hanter-dro
+P:A5
+K:C
+P:A
+|: "C"{CD}CB,/2C/2 "Dm"(DF) "Em"{EF}EC | "F"(DE/2)F/2 "G"GF "Am"{EF}EC |
+\
+"C"{CD}CB,/2C/2 "Dm"(DF) "Em"{EF}EC | "F"(DE/2)F/2 "G"G{FE}F D2 :|
+|: "C"{EF}ED/2E/2 "Dm"GG "Am"(EC) | "F"{CD}CB,/2C/2 "Dm"(ED/2)C/2 "G"D2
+|
+"C"{EF}ED/2E/2 "Em"GF "Am"(EC) | "F"{CD}CB,/2C/2 "G"(DE) "C"C2 :|
+\bigskip
+% Source: sources/hurdy-gurdy-org-uk/French.zip/ABC_Music.abc
+
+X:25
+T:Hanter-dro 2
+G:Kazimodal
+R:Hanter-dro
+C:Traditionnel
+Q:C2=116
+P:B5
+M:3/4
+S:Tonioù Breizh-Izel 1925 (Pleskob)
+K:Dm
+P:B
+(gf/2)e/2 df (e/2d/2)c | {de}dc/2B/2 Ad (d/2e/2)f |\
+(gf/2)e/2 df (e/2d/2)c | (dc/2)B/2 Ad d2
+|: (de/2)f/2 ge (f/2e/2)d | {de}de/2f/2 gf e2 :|
+(gf/2)e/2 df (e/2d/2)c | dc/2B/2 Ad (d/2e/2)f |\
+(gf/2)e/2 df (e/2d/2)c | {de}(dc/2)B/2 (Ad) d2 ||
+\bigskip
+% Source: sources/hurdy-gurdy-org-uk/French.zip/ABC_Music.abc
+
+X:26
+T:Horse's Bransle (Brawl)
+T:Branle des Chevaux
+R:Reel
+C:From Arbeau, Orchesographie, 1689
+O:France
+M:2/2
+L:1/8
+K:G
+"G"G3A B2B2|"C"c2B2A2c2|"G"B2A2G2F2|"C"E4 "D"D4|"G"G3A B2B2|"C"c2B2A2c2|"G"BAG2 "D"G2F2|"G"G4G4:|:
+"G"d2cB A2B2|"C"c2BA G2B2|"G"A2G2F2G2|"D"A4A4|"G"d2cB A2B2|"C"c2BA G2B2|"G"A2G2 "D"G2F2|"G"G4G4:|:
+"Gm"_B2AG B2AG|"D"F2G2A4|"D"D2>E2F2G2|"D"A2_B2A2G2|"Gm"_B2AG B2AG|"D"F2G2A4|"D"D2E2F2<(G2|"G"G2)^F2 "Gm"G4:||
+% Source: sources/almeleysteadysession-wordpress-com/pages/october-2022.abc
+
+X:27
+T:Horses' Brawl
+T:Branle des Chevaux
+R:Reel
+C:Trad 16th Century
+O:France
+M:2/2
+L:1/8
+Q:160
+K:G
+"G"G3A B2B2|"C"c2B2"D"A2c2|"G"B2A2G2F2|"Em"E4 "D"D4|"G"G3A B2B2|"C"c2B2"D"A2c2|"Em"B2G2 "D"A2A2|"G"G4G4:|
+|:"G"d2cB "D"A2B2|"C"c2BA G2B2|"Am"A2G2F2G2|"D"A4A4|"G"d2cB "D"A2B2|"C"c2BA G2B2|"Am"A2G2 "D"G2F2|"G"G4G4:|
+|:"Gm"_B2AG B2AG|"D"F2G2A4|D2E2F2G2|"Gm"A2_B2A2G2|_B2AG B2AG|"D"F2G2A4|D2E2F2G2|G2F2 "Gm"G4:|
+% Source: sources/altonsteadysession-wordpress-com/pages/about/tune-of-the-month/horses-brawl.abc
+
+X:28
+T:Jig : Saddle the pony
+Z:Roger NÃ©garet (Juillet 2000)
+R:
+C:Trad.
+S:Blackflute ?
+A:Irlande
+M:6/8
+L:1/8
+K:G
+"D" z3 z2 D |: "G"GBA G2 B | def gdB | GBA G2 B |
+"D"AFD AFD | "G"GBA G2 B | def gfg | "Em"ege dBG |1
+"G"ABA G2 D :|2 "G"ABA G2 d |:
+"Em"ege edB | "G"def gfg | "Em"ege edB |1
+"D"dBA A2 d :|2 "G"ABA G2 d :|3 "D"dBA A2 d :|4 "G"ABA G2 D |]
+% Source: sources/natunelist-net/pages/saddle-the-pony.abc
+
+X:29
+T:Johnny Faa
+T:Wae's Me For Prince Charlie
+T:The Bonnie House O' Airlie
+C:Traditional
+C:Arrgt: Renaud Olgiati 2019
+R:Lament
+M:4/4
+Q:75
+K:HP
+%%vskip 1cm
+yye1|{g}A2{G}A1B1 {GdGc}d3 c1|{gBd}B3/2{G}A/2 B1{GdGc}d1 {g}e3 f1|{g}A3B1 {GdGc}d/2f3/2 {g}e/2d3/2|{cece}B4 {G}A3 G1 |!
+yyy{g}A2{G}A1B1 {GdGc}d3 c1|{gBd}B3/2{G}A/2 B1{GdGc}d1 {g}e3 f1|{g}A3B1 {GdGc}d/2f3/2 {g}e/2d3/2|{cece}B4 {G}A3|!
+ yyyyd1 |{g}e2{G}e1f1 {ag}a3f1|a/2f3/2 {g}e3/2f/2 {GdGc}d3f1|{g}e3f1 {ag}a3g1|{fg}f4 {g}e3d1|!
+yyy{g}e2{G}e1f1 {ag}a3f1|{gf}a/2f3/2 {g}e3/2d/2 {g}e3 f1|{g}A3B1 {GdGc}d/2f3/2 {g}e/2d3/2|{BdBd}B4 {G}A4|]
+% Source: sources/partitions-bzh/fichier/2082_Johnny_Faa.abc
+
+X:30
+T:Kimiad ur Soudard Yaouank
+% Ton Doubl
+C:Prosper Proux
+O:Breizhat
+M:C|
+L:1/8
+K:G
+W:1. Ma c'halon a zo frailhet dre nerzh ma enkreziou
+W:   Ma daoulagad entanet tra li de lo tra lon la le
+W:   di le da n'o deus mui a zaero\`u
+W:2. Deuet eo siwazh an devezh ma rankan dilezel
+W:   Lec'h ka\"er ma bugaleaj tra... ma bro ga\"er Breizh-Izel
+W:3. Keno, keno, Mamm ha Tad, brema\~n n'esperit mui
+W:   E chomfe ho mab karet tra... da harpa\~n ho kozhni.
+%E:20
+% Tamm Kentan         % Eil tamm
+|:DBBG GFG2|EEGE D2D2::DBBG FGA2|%*
+ABBG FGA2|ABBG GFG2|EEGE D2D2:|%**
+% Diwezh
+% Source: sources/moinejf-free-fr/dansou.abc
+
+X:31
+T:Kitty McGee
+R: jig
+M:6/8
+N: Q: 3/8=120
+L:1/8
+K:D
+"D"d2d AFA|"D"d3 "G"efg|"D"f2d e2d|"A"cec ABc|
+"D"d2d AFA|"D"d3 "G"efg|"D"f2d "A"e2c|"D"dddd2A:|
+|:"D"d2f agf|"G"e2f g3|"D"f2d e2d|"A"cec A3|
+"D"aaa g2f|"G"e2f "Em"g3|"D"f2d "A"e2c|"D"dddd2A:|
+w: v1
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/KittyMcGee.txt.abc
+
+X:32
+T:La jambe me fait mal
+A:Valle d'Aosta
+B:
+C:Nicolas Saboly (1614-1675)
+O:France
+N:Thibaut Plantevin
+Z:Gian Mario Navillod
+Q:1/4=120
+V:1
+M:2/4
+L:1/16
+K:C
+c4 d2B2 |c6 _e2 |d2_e2 f2d2 |_e4 d4 |
+w:Y a bien de dzen qui van en pe le ri na dzo 
+c4 d2B2 |c6 _e2 |d2_e2 f2d2 |_e8 |
+w:Y a bien de dzen qui van a Be te le en 
+g4 f2_e2 |f6 _e2 |d2_e2 c2d2 |B4 G4 |
+w:Dze voui lle ala se trou vo lo co a dzo 
+g4 f2_e2 |f6 _e2 |d2c2 B2c2 |G6 G2 |
+w:Dze voui lle ala, se pou io en co en La 
+c3B c2d2 |_e4 d2e2 |f2f2 _e2d2 |_e4 d3g |
+w:tsam ba me fe mo Beu ta sel la, beu ta sel la La 
+c3B c2d2 |_e4 d2e2 |f2f2 _e2d2 |c8 |]
+w:tsam ba i me fe mo Beu ta sel la ou men tse vo 
+     %End of file
+% Source: sources/tapazovaldoten-altervista-org/canzoni/la_jambe_me_fait_mal/la_jambe_me_fait_mal_abc.abc
+
+X:33
+T:La Marianne
+C:Frederic Paris
+M:3/4
+L:1/4
+Q:170
+R:Valse
+O:France
+A:Bourbonnais
+K:C
+cec | g3 | faf | ed2 | cec | g3 | fed | c3 |
+cec | g3 | faf | ed2 | cec | g3 | fef | g3 ||
+|: f a/f/d/f/ | e g/e/c/e/ | d f/d/B/d/ | c e/c/g/c/ |
+f a/f/d/f/ | e g/e/c/e/ | d f/d/B/d/ | c3 :|]
+% Source: sources/maryanahata-co-uk/media/abc/lamarianne.abc
+
+X:34
+T:La Royal Loverie Gavot.
+R:Gavotte
+M:2/4
+L:1/16
+Q:1/4=108
+I: :: ::
+Z:Jack Campin * www.campin.me.uk * 2009
+K:D
+d2cd e2dc|d2A2 F2A2|f2ef g2fe|   f2d2 A2d2|\
+a4   b4  |c4   d4  |f2ef g2f2|{f}e8      ::
+a2ga b2b2|G2b2 E2b2|g2fg a2a2|   F2a2 D2a2|\
+g2ef g2g2|E2g2 A2g2|f2ed e2c2|   d4   d4 :|
+% Source: sources/campin-me-uk/Aird/Aird-v3.abc
+
+X:35
+T: Le Maitre de la Maison
+O: France
+F: http://www.youtube.com/watch?v=rIyugiKt0S0
+F: http://www.youtube.com/watch?v=RyPpOWPEsKk
+F: http://www.youtube.com/watch?v=yWkobsHDIGo
+M: 4/4
+L: 1/8
+K: Em
+Q:1/4=120
+%%MIDI program 65 Alto Sax
+%%MIDI bassprog 32 Acoustic Bass
+%%MIDI gchord fzzz
+"Em"G2 B2 F2 B2|E8         |:
+"Em"B2 BA B2 G2|B2 AG F4   |\
+BB BA B2 G2    |B2 AG F4   |
+EG F2 EG F2    |EG F2 EG F2|\
+"Bm"EF G2 B2 FE|"Em"E8     :|
+% Source: sources/ifdo-ca/_seymour/runabc/intl.abc
+
+X:36
+T:Les trois bons droles
+A:Valle d'Aosta
+B:Julien Tiersot, Chansons populaires recueillies dans les Alpes francaises, Grenoble Moutiers, 1903
+C:trad.
+O:France
+N:Raccolta da Julien Tiersot e Joseph-Siméon Favre
+Z:Gian Mario Navillod
+Q:1/4=160
+V:1
+M:6/8
+L:1/8
+K:G
+D E F |G2 B (Ac) A |G3 D3-|Dz z D E F |
+w:Nous é tions trois gar çons_ bons dro _les, Mais tous les 
+G2 B (Ac) A |G6 |z2 z G A B |c2 c (Bd) c |
+w:trois du meme_ ac cord Voy a geant dans tout le_ pa 
+A2 B G2 A |(B2d) A3-|Az z G A B |(ce) c B2 A |
+w:ys, Cher chant for tu_ _ne. En leur che min_ on ren con 
+G2 A (Bd) B |A3 G z z |]
+w:tré Trois jo_ lies bru nes. 
+     %End of file
+% Source: sources/tapazovaldoten-altervista-org/canzoni/les_trois_bons_droles/les_trois_bons_droles_abc.abc
+
+X:37
+T:Mardi Gras
+C:trad
+N:original url: www.wolfram.claranet.de
+O:Poitou
+M:2/4
+L:1/16
+Q:1/4=140
+K:D
+Bcdef2Pf2| e2a2Pe2c2| A2c2Bcde| f2f2f4| Bcdef2Pf2| e2a2Pe2c2| A2c2Bcdc| B4B2z2:|
+|: FDB,DF2F2| d2c2A4| A2F^GA2A2| F2A2B4| FDB,DF2F2| d2c2A4| A2F^GA2A2| F2A2B4:|
+% Source: sources/natunelist-net/pages/mardi-gras-tune.abc
+
+X:38
+T:Mazurka d'Auvergne
+T:Mazurka Gentiane
+F:http://www.banjolin.co.uk/tunes/abcs/mazurkadauvergne.abc
+R:Mazurka
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/4=120
+M:3/4
+%%MIDI beat 100 95 80
+L:1/8
+O:France
+K:G
+P:A
+|: "G"DG GF G2 | "/"DB BA B2 | "Am"cB AG FG | "D7"AG FE ED |
+"G"DG GF G2 | "/"DB BA B2 | "Am"cB AG "D7"FA |1 "G"G2G2 z2 :|2 "G"G2G2 Bc |
+P:B
+|: "G"d2 de dc | "Em"B2G2 AB | "Am"cB cd cB | "D7"A4 Bc |
+"G"d2 de dc | "Em"B2G2 AB | "Am"cB AG "D7"FA |1 "G"G4 Bc :|2 "G"G2G2 z2 |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:39
+T:Mazurka d'Auvergne
+B:Mel Steven's Book (Rosbif)
+O:France
+M:3/4
+L:1/8
+K:G
+z2|DGGFGB|DGGFGB|cBAGFG|AGFED2|\
+DGGFGB|DGGFGB|cBAGFA|G2G2:|
+|:Bc|d2dedc|B2G2AB|c2cdcB|A4Bc|\
+d2dedc|B2G2AB|cBAGFA|G2G2:|
+%%text From Mel Stevens' book
+% Source: sources/maryanahata-co-uk/media/abc/mazurka_d_auvergne.abc
+
+X:40
+T:Metig
+% Ton Simpl
+C:Hengounel
+O:Breizhat
+M:C|
+L:1/8
+R:Gavotenn
+K:Am
+W:1. Me 'zo ur c'hloareg yaouank deus eskopti Kemper
+W:   O vont d'ober e studi en eskopti Treger
+W:2. War vord ar mod on ganet, e bourc'h Sant-Wenole
+W:   Ha biskoazh nemet glac'har n'am eus bet em vuhez
+W:3. Glac'har ar wir garantez, setu ma flanedenn
+W:   Planedenn rust ha kalet, da heulia\~n penn da benn.
+%E:20
+% Tamm kentan
+|:AGAB cdd2|cBGB A2A2::AGAB cdd2|cBGA G2G2:| 
+% Diwezh
+% Source: sources/moinejf-free-fr/dansou.abc
+
+X:41
+T:Music for a found harmonium
+R:Other
+O:France
+C:Simon Jeffes
+S:Penguin Cafe Orchestra: "Broadcasting from Home" (EG Records 1984)
+S:ricke~11.abc
+Z:Transcription:??, chords:Mike Long
+Z:This is the whole thing as played on the album.
+M:4/4
+L:1/8
+K:D 
+D|\
+"D"FDGD FDDD|FDGD FDCD|FDGD FDDD|"A"EDCD "D"FDD:|\
+|:D|"A"EDCD EDCD|
+"D"FDCD FDCD|"G"GDED "A"CDGD|"D"FDDD D2D:|\
+|:D|"D"FDGD FDDD|FDGD FDCD|FDGD FDDD|
+"A"EDCD "D"FDD:|\
+|:D|"A"EDCD EDCD|"D"FDCD FDCD|"G"GDED "A"CDGD|"D"FDDD D2D:|
+K:C
+|:F|"F"cFEF GF2F|"F"cFEF "E"E3F|"F"cFEF GF2F|"F"cFEF "E"E3:|\
+K:F
+[|F|"Gm"BFDF GF2F|BFDF GF2F|
+BFEF GE2F|BFEF GE2|]\
+K:D
+[|G|"A"cGEG CG2G|cGEG CG2G|cGEG CG2G|cGEG CG2|]
+|:D|"D"FDGD FDDD|FDGD FDCD|FDGD FDDD|"A"EDC"D"D FDD:|\
+|:D|"A"EDCD EDCD|
+"D"FD=CD FD=CD|"G"GDB,D "A"GDCD|"D"FDDD D2D:|\
+K:C
+|:F|"F"cFEF GF2F|"F"cFEF "E"E3F|
+"F"cFEF GF2F|"F"cFEF "E"E3:|\
+K:F
+[|F|"Gm"BFDF GF2F|BFDF GF2F|BFEF GE2F|
+BFEF GE2|]\
+K:D
+[|G|"A"cGEG CG2G|cGEG CG2G|cGEG CG2G|cGEG CG2|]
+|:D|"D"FDGD FDDD|FDGD FDCD|FDGD FDDD|"A"EDCD "D"FDD:|\
+|:D|"A"EDCD EDCD|
+"D"FDCD FDCD|"G"GDED "A"CDGD|"D"FDDD D2D:|\
+|:D|"D"FDGD FDDD|FDGD FDCD|
+FDGD FDDD|"A"EDCD "D"FDD:|\
+|:D|"A"EDCD EDCD|"D"FDCD FDCD|"G"GDED "A"CDGD|
+"D"FDDD D2D:|\
+|:D|"A"EDCD EDCD|"D"FDCD FDCD|"G"GDED "A"CDGD|"D"FDDD D2D:|
+% Source: sources/pacholo-com/mike/tunebook/KSS.abc
+
+X:42
+T:Polka de l'Aveyron
+O:France
+M:2/2
+Q:1/4=100
+L:1/8
+K:C
+D2EF G2G2|FGAF G4|ABcA B2G2|A2G2 FED2|
+D2EF G2G2|FGAF G4|ABcA B2G2|A2F2 G4::
+A2Bc d2d2|c2B2 A3B|c2A2B2G2|A3G FED2|
+A2Bcd2d2|c2B2A3B|c2A2BAG2|A2F2G4:|
+% Source: sources/maryanahata-co-uk/media/abc/aveyron.abc
+
+X:43
+T:Poolside Polka
+M:2/4
+L:1/16
+C:Cliff Stapleton
+R:Polka
+K:G
+B2d2 g2ba|g2fe d4|egfe d2B2|cBcd A4|B2d2 g2ba|g2fe d4|egfe dfab|1a2g2 g4
+:|2a2g2 B2|:c3c e2dc|B6 d2|defg agfe|d6 B2|c3c e2dc|B6 d2|defg agfa|1g2b
+2g2:|2g2b2g2 Bc|:d2d2 dBdg|d2d2 dBdg|edce dcBd|cBAB cABc|d2d2 dBdg|d2d2
+dBdg|edce dcBd|cBAB G4:|
+% Source: sources/hurdy-gurdy-org-uk/French.zip/ABC_Music.abc
+
+X:44
+T:Reel de Pere Leon
+M:4/4
+L:1/8
+O:French Canadian
+K:G
+|:ef | "G"g2gf gedc | B2Ac BGG2 | "Em"B2BB cBAG | "Am"FGAB "D7"A2 ef |
+"G"g2gf gedc | "Bm"B2Ac "Em"BGG2 | "Am"B2BB cBAG | "D7"FGAF "G"G2 :|
+|: A2 | "G"B3B cBAG | "Em"BGBd cBAG | "Am"B3B cBAG | "D7"FGAB A2D2 |
+"G"B3B cBAG |"Em"BGBd cBAG | "C"B3B "Am"cBAG | "D7"FGAF "G"G2 :|
+% Source: sources/natunelist-net/pages/pere-leon.abc
+
+X:45
+T:Sarabande
+C:Anonymous
+C:Arr. Anthony Bailes
+M:3/4
+K:F clef=treble-8
+L:1/8
+Q:60
+"II"D3/d/ A2 d2 | "3"^C3/"1"e/ A2 [fD]2 | "I"G,"1"B "2"g"4"a df | "II""1"[eA,]3 d [dD]2 :|
+|: "I"F,3/"4"c/ F2 "4"c2 | [cA,]2 c2 "1"B,d/ | G,3/"1"B/ "2"e3 d | "2"[A,c]3 d [dAFD,]2 :|]
+% Source: sources/gitlab-com/chrisspen/abc-music/12-string-baroque-lute/sarabande.abc
+
+X:46
+T:Sarabande
+C:Anonymous
+C:Arr. Anthony Bailes
+L:1/8
+M:3/4
+K:F clef=treble-8
+Q:60
+"II"z d- d2 d2 & x2 A4 & D6 | z "1"e z2 f2 & x2 A4 & "3"^C4 D2 | "I"z2 "2"g"4"a df & z "1"B- B4 & G,6 | "II"{f} "1"e3 d d2 & A,4 D2 & x6 :|
+|: "I"z "3"c F2 "3"c2 & F,6 & x6 | c2 c3 d- & A,4 "1"B,2 & x6 | d2{f} "2"e2 d2 & z "1"B- B4 & G,6 | "II"{d}"3"^c3 d [dAF]2 & A,4 D,2 :|]
+% Source: sources/gitlab-com/chrisspen/abc-music/12-string-baroque-lute/sarabande2.abc
+
+X:47
+T:Schottische á Virmoux
+C:Trad.
+L:1/8
+M:2/2
+O:France
+Q:150
+R:Schottische
+Z:Steve Mansfield
+K:D major
+|:FAGFA3F|GFGA  B2A2|AdAF  G2FE|FAFDE4| FAGFA3F| GFGA B2A2|AdAF G2FE|DA GF  D4:|:
+d2A2d3c|BABc  dedB| A2D2A2GF|EFGA  BABc|d2A2d3c|BABc  dedB|A2D2A2GF|EFGA D4:||
+% Source: sources/natunelist-net/pages/schottishe-a-virmoux-aka-crown-russe.abc
+
+X:48
+T:Sun Assembly
+M:2/4
+L:1/8
+Q:180
+R:gavotte 32
+K:A
+"A"a2e2|"A"c2BA|"D"f2A2|"E7"G2FE|
+"A"Ac ec|"B7"B^d fa|"E"ge "B7"f^d|"E7"e2E2|!
+"A"a2e2|"A"c2BA|"D"f2A2|"E7"G2FE|
+"D"FA dF|"E7"EG Bd|"Bm"cB "E7"AG|"A"A2A,2|!
+"A"ce ag|"D"f2ed|"A"ce ag|"D"f2ed|
+"A"ce ag|"D"gf fe|"Bm"ed dc|"E7"c2B2|!
+"D"dc BA|"E7"G/A/BE2|"D"dc BA|"D"f/g/a"E7"g2|
+"D"fA af|"A"ec BA|"E7"E2G2|"A"A4||
+% Source: sources/natunelist-net/pages/sun-assembly.abc
+
+X:49
+T:Tyrolienne des Pyrénées, Montagnes Valdotaines
+A:Pirenei francesi
+B:Chansonnier Valdtain, ed. F. Blanchi, Torino 1912
+C:Alfred Roland (Paroles et Musique)
+O:France
+N:
+Z:Gian Mario Navillod
+Q:1/4=120
+V:1
+M:2/4
+L:1/16
+K:C
+G4 |G6 A2 |G6 E2 |G6 c2 |
+w:Mon ta gnes Py rŽ nŽ *
+e4 z2 c2 |d6 ^c2 |d6 e2 |Hc4 z2 G2 |
+w:es Vous e tes mes a mours Ca 
+G6 A2 |G6 E2 |G6 c2 |e4 z2 c2 |
+w:ban nes for tu nŽ *es Vous 
+d6 ^c2 |d6 e2 |c6 z2 |d4 d3 e |
+w:me plai rez tou jours Rien n'est si 
+d3 c B3 A |G7 c |e6 z2 |d4 d3 e |
+w:beau que ma pa tri *e Rien n'est si 
+d3 c B3 A |G7 c |e4 z2 G z |G6 A2 |
+w:doux que mon a mi *e O mon ta 
+G4 z2 e2 |(e4d2) (gf) |e4 z2 G2 |G6 A2 |
+w:gnards O mon_ ta *gnards chan tez en 
+G4 z2 e2 |e4 d2gf |e4 z2 e2 |f2 e2 d2 c2 |
+w:choeur Chan tez en Choeu *r De mon pa ys de 
+B2 A2 G4 |z2 d2 e2 a2 |g8 |f8 |
+w:mon pa ys La paix et le bon 
+e4 z2 e2 |f2 e2 d2 c2 |B2 A2 G2 z2 |z2 d2 e2 a2 |
+w:heur De mon pa ys de mon pa ys La paix et 
+g8 |f8 |e8 |z4 z2 G G |
+w:le bon heur hal te 
+G2 c c c2 e e |e4 z2 c2 |d2 d2 d2 e2 |c2 c2 c z G G |
+w:lˆ hal te lˆ hal te lˆ les mon ta gnards les mon ta gnards Hal te 
+G2 c c c2 e e |e4 z2 c2 |d2 d2 d2 e2 |c4 z2 f2 |
+w:lˆ hal te lˆ Hal te lˆ Les mon ta gnards sont lˆ les 
+e4 d4 |e4 f4 |e4 d4 |g8 |
+w:mon ta gnards les mon ta gnards 
+B8 |c8 |]
+w:sont lˆ 
+     %End of file
+% Source: sources/tapazovaldoten-altervista-org/montagnes_valdotaines/montagnes_valdotaines1912_abc.abc
+
+X:50
+T:Valsounette
+C:Jacky Mollard
+D:Pennou Skoulm #1
+O:Breizhat
+%Q:C4=45
+Q:1/4=45
+M:6/8
+L:1/16
+K:Am
+% Tamm kentan
+%E:10
+|:EAcBAG FAcBA^G|ABceab c'3c'ba|gebage ^f3^gaf|^geedBA ^GAB^G=F2|%*
+EAcBAG FAcBA^G|ABceab c'3abc'|d'c'bad'c' b3efb|e^gbec'b|1 a2BAGA:|2 a4^ga||%*
+% Eil tamm
+%E:9
+b^ggeeb b^ggeec'|c'aaeec' c'aaeeb|b^ggeeb b^ggee2|FEFGAB (3cBc(3dcd(3e^ga|%*
+%E:10
+b^ggeeb b^ggeec'|c'aaeec' c'aaebc'|d'c'bad'c' b3efb|e^gbec'b |1 a4^ga:|2 a2BAGA|%**
+% Diwezh
+% Source: sources/moinejf-free-fr/dansou.abc
+
+X:51
+T:Waltz of the toys
+R:Waltz
+C:Michel Faubert
+O:France?
+S:Henrik Norbeck
+Z:Transcription:Henrik Norbeck(?), chords:Mike Long
+M:3/4
+L:1/8
+K:D
+"D"fe fg fe|dB AF D2|fe fg fe|dB AF D2|\
+"A"e2 ef ed|c3 d cB|A^G AB cA|"D"dB AF D2|
+"D"fe fg fe|dB AF D2|fe fg fe|dB AF D2|\
+"A"e2 ef ed|c3 d cB|"G"AB AG FE|[1 "D"D3 F Ad:|[2 D3 d dc|]
+|:"Bm/D"dA FA dA|"G"B3 d dB|"A"cA Bc de|"D"f3 f df|\
+"Bm"bf df bf|"Em"g3 e ed|"A"ce Ac ae|"D"f3 d dc|
+"Bm"BF FB BF|"Em"G3 e ed|"A"cB AG FE|"F#m"F4 F2|\
+"G"GF GA Bc|"D"de f2 d2|"A"ge cA Bc|[1 "D"d3 d dc:|[2 "D"d3 F Ad|]
+% Source: sources/pacholo-com/mike/tunebook/KSS.abc

@@ -1,0 +1,419 @@
+% ABC repositories on GitHub (David Jacobs, Eric Conrad and others): Central & Western European tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p56
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+M:2/4
+L:1/16
+R:march
+K:G
+P:A
+|: D2 | (G4 D2B2) | (G4 D2).d2 | .B2.G2.D2.B2 | (G4 .D2) (ab) |
+.a2(ab) .a2(ab) | .a2(ab) .a2(ab) | a2g2f2e2 | d4 z2 :|
+P:B
+|: A,2 | D4 D3D | F4 F3F | A4 A3A | [Dc]4 z2(de) |
+.d2.d2 z2(ga) | .d2.d2 z2g2 | .a2.a2.f2.f2 | g4 z2 :|
+P:C
+|: D2 | !p!(G4 F2)E2 | (E4 E2)D2 | (E4 D2)C2 | (C2B,2) B,4 |
+!f![B,G]2 [B,G]4 [B,G]2 | [GB]2 [GB]4 [GB]2 | d2c2B2A2 | G4 z2 :|
+
+%
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:2
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p56
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+M:3/4
+L:1/4
+R:waltz
+K:Dmix
+P:A
+|: d2 | [DAf]2 d | [DAa]2 f | g/e/c/A/ f | d d d |
+[DAf]2 d | [DAa]2 f | g/e/c/A/ f | d z :|
+P:B
+|: d/4e/4f/4g/4 | a a a | d'2 A | (g/>e/) (g/>e/) (f/>d/) | (g/>e/) (g/>e/) (f/>d/) |
+a a a | d2 a | g/e/c/A/ f | d z :|
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:3
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p57
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 The forte dynamic mark at tune start is missing in the MS
+M:3/4
+L:1/8
+K:Eb
+P:A
+|: "_NB1"e2 | !f!E4F2 | (G4A2) | .B2(B2G2) | A2F2z2 |
+!p!(A4F2) | (A4F2) | D2DEFE | E2z2 :|
+P:B
+|: !f!B,=A, | B,2B2B2 | FGFEDC | B,2d2d2 | fedcB2 |
+!p!(A4F2) | (A4F2) | D2DEFD | E2z2 :|
+
+%
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:4
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p57
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+M:3/4
+L:1/8
+K:A
+P:A
+|: {g}a2 | (Ace)cec | !sfz![de]4B2 | GEGEc2 | A2A2 {g}a2 |
+(Ace)cec | [de]4B2 | GFGFc2 | A2z2 :|
+P:B
+|: c2 | {e}d4A2 | {e}d4A2 | GBGBc2 | B2B2c2 |
+{e}d4A2 | {e}d4A2 | G2BGEG | A2z2 :|
+
+%
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:5
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p57
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 The start of repeat in A is missing in MS, assuming here that it comes after the pickup.
+N:NB2 The last measure of B in MS is | D2z2 :| (short measure).
+M:3/4
+L:1/8
+K:D
+P:A
+D/C/ |: "_NB1"D2[df]2[df]2 | D2[df]2[df]2 | [Ag]4e2 | A,2[ce]2[ce]2 | A,2[ce]2[ce]2 | f4d2 :|
+P:B
+|: (A4F2) | (G4E2) | F2(FG)F2 | F2(FG)F2 | (A4F2) | G4E2 | F2FGFE | "_NB2"D4z2 :|
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:6
+T:(Danse des Paysans - concluded)
+T:peasant dance from the Bj\/orgvin Diocese, Norway
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p79
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+N:NB1) Rest omitted in MS.
+M:3/4
+L:1/8
+Q:"Allegro"
+K:Ddor
+P:A
+|: A2d(^cde) | f2ed^c2 | (def)d(e^c) | (df)(e^c)A2 |
+A2d(^cde) | f2ed^c2 | (ded)d(e^c) | cd4z :|
+P:B
+|: a2_baga | fefga2 | (d^cd)f(e^c) | d(fe)^cA2 |
+a2_baga | fefgf2 | d^cdfe^c | cd4"_NB1"z :|
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:7
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p80
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+M:3/4
+L:1/8
+K:Cmin
+P:A
+|: g2g2ge | g2f2{gf}ef | g2afge | g2{g}f2e2 :|
+P:B
+|: c2eg(df) | (ec)egd2 | c2edfg | dec4 :|
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:8
+T:(untitled)
+F:https://www.vwml.org/record/Malchair/3619/p80
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+Z:Eric Conrad Mar 2020
+M:3/4
+L:1/8
+K:Cm
+P:A
+|: g2eg!trill!f2 | ec df !trill!e2 | (g2c2)c2 :| \
+P:B
+|: g2eg!trill!f2 | ec df !trill!e2 | G2g2!trill!f2 | \
+(ec) (df) !trill!e2 | G2c2c2 :|
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:9
+T:(untitled)
+T:Musique pour le Lour - continued
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p81
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+M:C
+L:1/8
+K:G
+%%MIDI program 68 % oboe (MIDI's take on a powerful woodwind - does this resemble the sound of the lur?)
+P:A
+G>GB>d d2c2 | B>GA>F G>AB>G | G>GB>d d2c2 | B>G {B}AG/F/ G4 ||
+K:Gm
+P:B
+G>BA>G G2^F2 | G>AB>c d2D2 | G>BA>G G2^F2 | G>AB>c d3c |
+{c}B2AG {B}A2G^F | G2G2 z4 | \
+% Malchair uses a single bar line here
+M:3/4
+B>dc>ed2 | BB/d/ cc/e/ d2 |
+d^fgabd | d2c2z2 | ABcABG | BBA^FD2 |
+ABcBcB | BBA^FD2 | ABcABG | B/A/G/^F/ G2G2 ||
+M:C
+K:G
+P:C
+G>GB>d d2c2 | B>GA>F G>AB>G | G>GB>d d2c2 | B>G (B/A/)(G/F/) !fermata!G4 |]
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:10
+T:(untitled)
+T:Musique pour le Lour - concluded
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p81
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+M:3/8
+L:1/8
+K:G
+%%MIDI program 68 % oboe (MIDI's take on a powerful woodwind - does this resemble the sound of the lur?)
+B | d/B/ GB | A/F/ GB | d/B/ GB | A/F/ GB | \
+d/B/ Gg | e/c/ d2 | d/B/ GB | A/F/ G2 |]
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:11
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p119
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+W:From a hand organ in the Street, Oxon.
+W:Nov.21.1794
+M:2/4
+L:1/16
+K:Bb
+P:A
+|: "_NB1"F2 | BABc d2d2 | BABc d2d2 | {f/}e2de c2c2 | {f/}e2de c2c2 |
+BABc d2d2 | BABc d2d2 | fede c2d2 | B4 B2 :|
+P:B
+|: de | fede f2f2 | b4 g4 | {f/}e2de c2c2 | {f/}e2de c2c2 |
+fede f2f2 | b4 g4 | fede c2d2 | B4 B2 :|
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:12
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p119
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+N:NB2 MS has maximal beaming.  Beaming here is consistent with 2/4 meter.
+N:   i.e. "| ABCD |" rebeamed here as "| AB CD |"
+N:NB3 MS has this measure garbled.  This is my best guess.  Note stem up vs stem down.
+N:NB4 MS has a correction.  Stem down notes in start of measure have been blotched out.
+N:   [A "blotch" is a big dark inked are, here clearly deliberate.]
+N:   Before blotch, stem down: "edde"  (full measure: "e2de & edde")
+N:   After blotch, stem down: "x2de" <- as here.
+N:NB5 Abc2midi v3.98 has trouble with the stem down notes in these measures.  Your mileage may vary.
+W:an Irish tune noted down from the playing of [?] Oxford Militia Band Oxon March 1800.
+M:2/4
+L:1/8
+K:C
+P:A
+|: "_NB1,2"d | e2 de | d2 dc | edde | "_NB3,5"d3d & x3d/d/ | \
+    egag | fedc | (de).d.e | d3 :|
+|: d | egga | g3e/f/ | eaab | a3g/a/ | c'gag | fedc | \
+    "_NB4,5"e2de & x2de | d3c | edde | d3 :|
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:13
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p120
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+N:NB2 Some harmony notes have been obscured by MS erasures and corrections.
+N:NB3 MS unclear: "[GA]dd", "Add" and "Gdd" are all possible readings.
+N:NB4 MS has chord "[ceg]", with possible removal of "[eg]".
+N:NB5 MS has stem up "c2x" over stem down "ceg", but marked suggesting that the stem up note is wrong.
+W:Austrian tune played by [?] Oxford Militia band Oxon March 1800.
+M:6/8
+L:1/16
+K:C
+P:A
+|: "_NB1,2"g2 | e2efg2 e2efg2 | f2e2f2 d4f2 | e2c2c2 A2d2d2 | B2dcBA G4g2 |
+e2efg2 g2c'2g2 | f2e2f2 d4f2 | e2c2c2 A2d2d2 | B2AGAB "_NB4"c4 :|
+P:B
+|: e2 | g2d2B2 c2e2g2 | f2d2B2 c4de | f2d2B2 "_NB5"c2e2g2 | g2agfe d4f2 |
+e2efg2 e2efg2 | f2e2f2 d4f2 | e2c2c2 A2d2d2 | B2dcBA G4g2 |
+e2efg2 g2c'2g2 | f2e2f2 d4f2 | e2c2c2 A2d2d2 | B2AGAB c4 :|
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:14
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p125
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 No time signature is indicated in the MS, but barring indicates 3/2 meter.
+N:NB2 The large handwriting suggests that this was the work of a beginning student.
+N:NB3 MS has a bar before this note.
+M:3/2   % no time signature but barred as 3/2
+L:1/4
+%%score {(S A) (T B)}
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass octave=-1
+V:B clef=bass octave=-2
+K:A
+% line 1
+V:S
+"^NB1,2"E2 | EA c2 B2 | AF E2 E2 | E[EA] c2 A2 | B4 ||
+V:A
+C2 | CC E2 D2 | CD C2 C2 | CC C2 C2 | E4 ||
+V:T
+A2 | AA A2 G2 | AA A2 A2 | AA A2 A2 | G4 ||
+V:B
+A2 | AA A2 e2 | fd A2 A2 | Ax f2 f2 | e4 ||
+% line 2
+V:S
+"^NB3"d2 | cB A2 B2 | cA F2 E2 | EA c2 B2 | A4 ||
+V:A
+F2 | ED c2 D2 | EE D2 B,2 | CC E2 D2 | C4 ||
+V:T
+A2 | AG A2 G2 | AA A2 G2 | AA A2 G2 | A4 ||
+V:B
+d2 | xe f2 e2 | xc d2 e2 | cf e2 e2 | A4 ||
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:15
+T:(untitled hymn)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p126
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Only notes are entered.  There is no clef, no key signature and no time signature.
+N: Assuming key=G major (not G Mixolydian), 3/2 as barred, with top staff treble and bottom staff bass.
+N:NB2 Tempo added
+N:NB3 This note is stemless (i.e. whole note) in the MS.  But the cluster above it has a stem.
+N:NB4 This two-note cluster has a stem in the MS, unlike the two notes in the treble staff.
+N:NB5 This appears to be incomplete.  The tune might be AABA.
+M:3/2 % no time signature in MS, but barring is 3/2
+Q:"NB2" 1/2=160
+L:1/4
+V:A clef=treble
+V:B clef=bass octave=-1
+%%staff {A B}
+% clefs are omitted in the MS
+K:G
+V:A
+"_NB1"[GB]4 G2 | [DGB]4 [DGd]2 | [CFA]3 [B,EG] [CFA]2 | [B,G]6 :|
+[DB]4 [DA]2 | G2 [FA]4 | [Ac]4 [GB]2 | [FA]2 [GB]4 |]
+V:B
+% The second D in measure C is missing its stem,
+% but it is written below the three note chord in the upper staff.
+% The final note in the lower staff is a half note, as transcribed here. 
+[GD]4 [GB]2 | G4 B,2 | D4 "_NB3"D2 | G,6 :|
+G4 [FA]2 | [EB]2 [Dd]4 | [Fd]4 [Gd]2 | [Dd]2 "_NB4,5"[Gd]4 |]
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:16
+T:(untitled hymn - played AABA)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p126
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Only notes are entered.  There is no clef, no key signature and no time signature.
+N: Assuming key=G major (not G Mixolydian), 3/2 as barred, with top staff treble and bottom staff bass.
+N:NB2 Tempo added
+N:NB3 This note is stemless (i.e. whole note) in the MS.  But the cluster above it has a stem.
+N:NB4 This two-note cluster has a stem in the MS, unlike the two notes in the treble staff.
+N:NB5 This appears to be incomplete.  The tune might be AABA.
+N:NB6 One time through the A strain added here for resolution.
+M:3/2 % no time signature in MS, but barring is 3/2
+Q:"NB2" 1/2=160
+L:1/4
+V:A clef=treble
+V:B clef=bass octave=-1
+%%staff {A B}
+% clefs are omitted in the MS
+K:G
+V:A
+"_NB1"[GB]4 G2 | [DGB]4 [DGd]2 | [CFA]3 [B,EG] [CFA]2 | [B,G]6 :|
+[DB]4 [DA]2 | G2 [FA]4 | [Ac]4 [GB]2 | [FA]2 [GB]4 ||
+"^NB6"[GB]4 G2 | [DGB]4 [DGd]2 | [CFA]3 [B,EG] [CFA]2 | [B,G]6 |]
+V:B
+% The second D in measure C is missing its stem,
+% but it is written below the three note chord in the upper staff.
+% The final note in the lower staff is a half note, as transcribed here. 
+[GD]4 [GB]2 | G4 B,2 | D4 "_NB3"D2 | G,6 :|
+G4 [FA]2 | [EB]2 [Dd]4 | [Fd]4 [Gd]2 | [Dd]2 "_NB4,5"[Gd]4 ||
+[GD]4 [GB]2 | G4 B,2 | D4 "_NB3"D2 | G,6 |]
+
+
+% Pages 127-130 are all missing
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:17
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p131
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Added tempo.  Name that English Country Dance tune!
+N:NB2 Added initial repeat. Not strictly required but it fixes a warning from abc2midi.
+N:NB3 Rest added. The measure has just five beats in the MS.
+M:6/4
+Q:"NB1" 3/4=110
+L:1/4
+V:S     % top staff, stems up
+V:A     % top staff, stems down
+V:B     % bottom staff
+%%score {(S A) B}
+K:D
+P:A
+V:S
+% measure 4 is short as in MS.
+|: "^NB2"A | d2e f2g | a3 b3 | agf e2f | g3 [df]2 "^NB3"z | edc d2e | [EA]3 [EA]2 :|
+V:A
+|: x | [FA]2c d2e | f3 g3 | fed c2d | B2c A2 z | c^GA FG2 | C3 C2 :|
+V:B octave=-2 clef=F
+|: z | [Dd-]3 d3 | x6 | x6 | x6 | a3 a3 | a3 [Aa]2 :|
+P:B
+V:S
+|: f | edc d2e | e3 e2f | edc d2e | a3 a2f |
+ edc B2c |  d2e f2b | abg f2e | d3 d2 :|
+V:A
+|: x | x3 AB2 | d3 d2z | czz cB2 | [de]3 [Ace]2A |
+ c^G[FA] zDG | FA2 A2d | d3 c2x | [GA]3 [FA]2 :|
+V:B octave=0 clef=G
+|: D | A3 F^GE | A3 A3 | A3 F^GE | [CA]3 [CA]2D |
+V:B octave=-2 clef=F
+ a3 g2e | d2c d2G | F2E A2x | d3- [Dd]2 :|
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc
+
+X:18
+T:(practice scale)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p131
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+% This is in a student's hand, probably a child.  A double bar appears at the end.
+M:none
+L:1/4
+K:C
+CDEFGABcdefg |]
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc

@@ -1,0 +1,123 @@
+% Various collections: Early Music & Classical tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T:Andantino
+T:baroque lute
+C:M. Carcassi
+L:1/8
+M:4/4
+K:G clef=treble-8
+L:1/4
+!mf! G G F F & B,/D/B,/D/ A,/D/A,/D/ | A A G G & C/D/C/D/ B,/D/B,/D/ | !<(! B B c c !<)! & G,/D/G,/D/ A,/D/A,/D/ | !>(! F F G2 !>)! & D,/D/D,/D/ G,2 :|
+|: B B c c & G/D/G/D/ A/D/A/D/ | B B c c & ^G/D/G/D/ A/D/A/D/ | !<(! ^c c d d & G/A,/G/A,/ F/A,/F/A,/ | ^c c d2 !<)! & G/A,/G/A,/ [F2D2] |
+!mf! G G F F & B,/D/B,/D/ A,/D/A,/D/ | A A G G & C/D/C/D/ B,/D/B,/D/ | !<(! B B c c !<)! & G,/D/G,/D/ A,/D/A,/D/ | !>(! F F G2 !>)! & D,/D/D,/D/ G,2 :|
+% Source: sources/gitlab-com/chrisspen/abc-music/12-string-baroque-lute/andantino-carcassi-g.abc
+
+X:2
+T:Andantino
+C:M. Carcassi
+L:1/8
+M:4/4
+K:C
+L:1/4
+!mf! c c B B & E/G/E/G/ D/G/D/G/ | d d c c & F/G/F/G/ E/G/E/G/ | !<(! e e f f !<)! & C/G/C/G/ D/G/D/G/ | !>(! B B c2 !>)! & G,/G/G,/G/ C2 :|
+|: e e f f & c/G/c/G/ d/G/d/G/ | e e f f & ^c/G/c/G/ d/G/d/G/ | !<(! ^f f g g & c/D/c/D/ B/D/B/D/ | ^f f g2 !<)! & c/D/c/D/ [B2G2] |
+!mf! c c B B & E/G/E/G/ D/G/D/G/ | d d c c & F/G/F/G/ E/G/E/G/ | !<(! e e f f !<)! & C/G/C/G/ D/G/D/G/ | !>(! B B c2 !>)! & G,/G/G,/G/ C2 :|
+% Source: sources/gitlab-com/chrisspen/abc-music/suzuki-guitar-book-2/08-andantino.abc
+
+X:3
+T:Baurenmädl
+N:Musiksammlung der Österreichischen Nationalbibliothek, Wien, Sign. S. M. 9659.
+N:Gitarre
+I:160
+R:Menuett
+M:3/4
+L:1/8
+%%staves (1 2)
+K:D
+V:1
+[d2a2] f2 g2 | [d2a2] f2 g2 | f2 gfed | c2 bc A2 | 
+dcdA [d2a2] | fefd [c2e2] | dcdA [d2a2] | fefd [c2e2] |
+fg {a}~g2>f2 | [c6e6] :: [c2e2] c2 d2 | [c2e2] fg a2 | 
+c2 dcBA | ^G6 | z2 A,cBd | c2 ed e2 | 
+a2 edcB | A4 A2 | [d2a2] f2 g2 | [d2a2] f2 g2 |
+f2 gfed | c2 Bc A2 | dcdA [d2a2] | fefd [c2e2] | 
+dcdA [d2a2] | fefd [c2e2] | fgaefc | D6 :|
+V:2
+F2 D2 E2 | F2 D2 E2 | D6 | A,6 | 
+D4 F2 | D4 A,2 | D4 F2 | D4 A,2 |
+z2 D4 | A,6 :: A,4 D2 | A,6 |
+A,6 | z2 E2 D2 | E2 A,4 | A,6 |
+A,6 | z2 A,4 | F2 D2 E2 | F2 D2 E2 |
+D6 | A,6 | D4 F2 | D4 A,2 | 
+D4 F2 | D4 A,2 | z2 z2 z2 | D6 :|
+% Source: sources/atrilcoral-com/Partituras_ABC/b.zip/b.abc
+
+X:4
+T:D'r. Maia
+R:branle
+N:Gary Chapin
+M:2/4
+L:1/8
+K:A Minor
+E|A3 A|B3 B|c2 BA|Bd cB|A3 A|B3 B|c BA|B4|B>c dB|c3 B|AA cB|_A3E|_A>=A B
+_A|(=A4|A3)||
+% Source: sources/atrilcoral-com/Partituras_ABC/d.zip/d.abc
+
+X:5
+T:John Small's Minuet
+R:Minuet
+M:3/8
+K:G
+D2|\
+G3AB2| B2dBAG| A2B2d2| "tr"e4 g2| G3AB2| B2g2(Bd)| "tr"A4 G2| G4::
+D2|\
+(E2G2).G2| g4 ga| "tr"f4 fa| f3ed2| \
+B2e2e2| "tr"e4d2| efgefd| "tr"e3dB2|
+d2e2f2| .g2(ag)(fe)| .f2(gf)(ed)| (edef).g2|\
+G3AB2| B2g2Bd| "tr"A4 G2| G4:|
+% Source: sources/atrilcoral-com/Partituras_ABC/i-j.zip/i-j.abc
+
+X:6
+T:Lola's Smile
+B:AN
+C:Susan Reid
+Z:Jean RhÃ©aume
+R:Menuet
+M:3/4
+L:1/8
+Q:1/4=130
+P:A2.B2
+K:Dmaj
+%%MIDI gchord fzczfzczfzcz
+P:A
+"D"f>g ad "A"cA | "G"B/2c/2d "A"cA "G"BG | Bd-de "A"cA | "G"B/2c/2d ef "A7"³g2 |
+"D"f>g ad "A"cA | "G"B/2c/2d "A"cA "G"BG | Bd-de "A"cA | "D"d>f "A"ec"D"d2 ||
+P:B
+"G"BG- Ge "A"cA | "G"GB- Bd "A"cA | "G"BG- Ge "A"cA |"G"B/2c/2d ef"A7"³g2 |
+"G"BG- Ge "A"cA | "G"GB- Bd "A"cA | "G"BG- Ge "A"cA |"D"d>f "A"ec"D"d2 |]
+% Source: sources/natunelist-net/pages/lolas-smile.abc
+
+X:7
+T:Minuet Della Cour.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p58
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+M:3/4
+L:1/16
+R:minuet
+K:D
+%%text playd by the Same Savoyard.
+P:A
+F4 FGFG A2A2 | A4 G4 F4 | D2F2D2F2D2F2 | G4 E8 |
+F4 FGFG A2A2 | A4 G4 F4 | E2GE D4 C4 | D12 ||
+P:B
+E4 E2E2E2E2 | F4 {EF}D8 | F4 F2F2 A2F2 | {G}F4 {EF}E8 |
+A4 A2A2A2A2 | B4 B2B2B2B2 | c4 c2c2c2c2 | d12 |
+d6 B2c2A2 | d6 B2c2A2 | B4 A4 ^G4 | A6 A2B2A2 |
+G2F2E2G2A2G2 | F2E2D2A2B2A2 | G2F2E2G2A2G2 | F2E2D2A2d2c2 |
+B8 A4 | G8 F4 | E2F2 G4 F4 | F4 E8 |
+F4 FGFG A2A2 | A4 G4 F4 | E2GE D4 C4 | D12 |]
+% Source: sources/github-com/econrad003/music-abc/Malchair.abc

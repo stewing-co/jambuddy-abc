@@ -47,6 +47,13 @@ Each file uses the jambuddy.live tune-index schema (version 1), with these extra
   decorations, grace notes, spacing and bar-line style. Only one copy is indexed.
   Tunes with fewer than 8 notes (empty placeholders) are skipped.
 
+`books/` holds generated tunebooks for the jambuddy.live collection picker, listed in
+`index/books.json`. In each genre, a file with at least 10 of the genre's tunes (making up
+80% or more of the file) is offered as its own tunebook. Each source's other tunes in that
+genre are combined into `books/<genre>/<source>.abc` (split every 2,000 tunes, renumbered
+from X:1, each tune noting its source file). Sources with fewer than 10 tunes in a genre
+share `books/<genre>/various.abc`.
+
 To fix a misclassified site, add or change its folder in `FOLDERS` in `genres.py`.
 
 Pass `--base-url` if the repository is published somewhere other than

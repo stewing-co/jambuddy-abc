@@ -1,0 +1,301 @@
+% Seymour Shlien's collections, including the Essen Folk Song Database: Swedish & Nordic tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T: Der heimkehrende Soldat
+N: Q3103E
+O: Suedeuropa, Italien
+N: Melodievergleich zu Q0103A, anderes Lied.
+R: Tanz, Tedesca
+M: 2/4
+L: 1/32
+K: G
+D4 | G6G2G6B2 | B6A2A6d2 | B8z4
+D4 | G6G2G6B2 | B6A2A6d2 | B8z4
+B4 | B6d2d6d2 | d6c2c8 |
+B6B2B6cd | A6A2A6
+d2 | B6B2A6GA | G8z4
+% Source: sources/ifdo-ca/_seymour/runabc/esac/ballad50.abc
+
+X:2
+T: Die Schlangenkoechin
+N: Q2079T
+O: Suedeuropa, Italien, Lombardei
+N: Italienische Fassung der Ballade.
+N: Zweite, vierte und letzte Zeile = Refrain.
+R: Ballade, Mord; Reigen - Tanz, antiphonal
+M: 6/8
+L: 1/8
+K: G
+D | G2GG2A | _BA
+GG2A | _BAGBAG | A2z3
+^c | d2AA2_B | _B6- | B2Az2
+D | G2GG2A | _BA
+GG2A | _BAGBAG | A3z2
+d | _e2AA_Bc | c3_B2
+A | G2G_B2A | G2z3
+% Source: sources/ifdo-ca/_seymour/runabc/esac/ballad40.abc
+
+X:3
+T: Die Schlangenkoechin
+N: Q2079U
+O: Suedeuropa, Italien
+N: Italienische Fassung der Ballade.
+N: Zweite Zeile = Refrain.
+R: Ballade, Mord; Reigen - Tanz, antiphonal
+M: 6/8
+L: 1/8
+K: G
+D | G2BA2d | cB
+AGAB | A2GBAG | A3-A2
+B | c2ed2c | B3G2
+B | AABc2F | G3-G2z
+% Source: sources/ifdo-ca/_seymour/runabc/esac/ballad40.abc
+
+X:4
+T: Goteborgsk Mazurka
+O: Scandinavia
+F: http://www.youtube.com/watch?v=gxT7Q7B2s6g
+M: 3/4
+L: 1/8
+Q: 1/4=120
+K: G
+%%MIDI program 41
+%%MIDI chordprog 24
+%%MIDI bassprog 26
+  "G" B,DD GGB|Bc/B/AGA2|"D"AddcBA  |"G"G2 G2 z2       |
+|:"G"B,DD GGB |Bc/B/AGA2|"D"Add cAF |"G"G2 A2 B2       |
+  "G"B,DD GGB |Bc/B/AGA2|"D"Add cAF |"G"G2 G2 z2       :|
+|:"G"Bd g2d2  |B2 GDGB  |"D"A2 Ad dc|"G"B>A B/c/B/A/ G2|
+  Bd g2d2     |B2 GDGB  |"D"A2 Ad dc|"D"G2 G2 z2       :|
+% Source: sources/ifdo-ca/_seymour/runabc/intl.abc
+
+X:5
+T: Graf und Nonne (Die Nonne)
+N: Q2155z
+O: Nordeuropa, Norwegen
+N: Norwegische Fassung der Ballade.
+R: Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage
+M: 4/4
+L: 1/8
+K: G
+G_B | d2d2c2cd | _B2BAG2
+GB | d2ddc_Bc2 | d4z2
+_e2 | =f2fd_e2ed | dcc2c3
+d | _B2A2G3
+G | A3GF2F2 | G4z2
+% Source: sources/ifdo-ca/_seymour/runabc/esac/ballad80.abc
+
+X:6
+T: Jatkan Lauantai
+O: Finland
+F: http://www.youtube.com/watch?v=BKUoX_yi9Pw
+M: 2/4
+L: 1/8
+Q: 1/4=160
+K: G clef=treble
+%%MIDI gchord fc
+%%MIDI program 110
+%%MIDI bassprog 45
+%%MIDI chordprog 45
+%%MIDI bassvol 35
+%%MIDI chordvol 34
+"C"E2 EE|E4       |"D"D2 DD   |D4         |\
+D,D, D,2|"G"C2 B,2|"Am"A,2 A,2|"G"G,G, G,2|z4|
+"G"D2 DE|DCB,A,   |G,2B,D     |G2B2       |\
+"D"A2 AB|c2 A2    |"G"GFGE    |D2 EE      |
+"C"EFG2 |E2 DD    |"G"GA B2   |B2A2       |\
+"D"D2D2 |B2A2     |"G"GG G2   |z4         |
+"C"BGDG |B2AB     |"C"cAEA    |c2z2       |\
+"D"DDDD |D2DE     |"G"GFGA    |B4         |
+"C"e2 ee|e4       |"D"d2 dd   |d4         |\
+DD D2   |c2 B2    |A2 A2      |"G"GG G2   |z4|
+% Source: sources/ifdo-ca/_seymour/runabc/intl.abc
+
+X:7
+T: Langdans
+O: Scandinavia
+S: Jean Gravel
+F: http://www.youtube.com/watch?v=TuaEinmxYy4
+M: 6/8
+L: 1/8
+Q: 1/4=132
+K: D
+%%MIDI program 41
+%%MIDI drum d2z2d2 35 35
+%%MIDI drumon
+|:[E3/2B,3/2][EB,][E3/2B,3/2] [=F=C][EB,]|[D3/2A,3/2][DA,][D3/2A,3/2][CG,][DA,]|\
+  [E3/2B,3/2][EB,][E3/2B,3/2] [=F=C][EB,]|[D3A,3] [D3A,3]                      |
+  [E2B,2][EB,][EB,] [=F=C][EB,]          |[D2A,2][DA,][DA,][CG,][DA,]          |\
+  [EB,][DA,][EB,] [GD][=F=C][EB,]        |[D3A,3] [D3A,3]                      :|
+|:[AE][=F-=C-][=F4=C4]                   |[AE][E-B,-] [E4B,4]                  |\
+  [AE][=F=C-][=F4=C4]                    |[AE][E-B,-] [E4B,4]                  |
+  [EB,][DA,][EB,][=F=C][EB,][GD]         |[=F=C][EB,][D4A,4]                   :|
+% Source: sources/ifdo-ca/_seymour/runabc/intl.abc
+
+X:8
+T: Langdans
+O: Scandinavia
+S: Jean Gravel
+F: http://www.youtube.com/watch?v=TuaEinmxYy4
+M: 6/8
+L: 1/8
+K: D
+Q: 1/4=132
+%%MIDI program 41
+%%MIDI drum d2z2d2 35 35
+%%MIDI drumon
+|:[e2B2][eB][eb] [=fc][eB]    |[d2A2][dA][dA][cG][dA] |\
+  [e2b2][eB][eB] [=fc][eB]    |[d3A3] [d3A3]          | |
+  [e2B2][eB][eB] [=f=c][eB]   |[d2A2][dA][dA][cG][dA] |\
+  [eB][dA][eB] [gd][=f=c][eB] |[d3A3] [d3A3]          :|
+|:[ae][=f-=c-][=f4=c4]        |[ae][e-B-] [e4B4]      |\
+  [ae][=f=c-][=f4=c4]         |[ae][e-B-] [e4B4]      |
+  [eB][dA][eB][=f=c][eB][gd]  |[=f=c][eB][d4A4]       :|
+% Source: sources/ifdo-ca/_seymour/runabc/intl.abc
+
+X:9
+T: Mets\"akukkia (Woodland Flowers)
+O: Trad Finland
+Z: 1998 by John Chambers <jc@trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: Gm
+z4 \
+| "Gm"D2 G2 A2 | B2 A2 G2 | d6- | d6 
+| D2 G2 A2 | B2 A2 G2 | "Cm"e6- | e6 
+| c2 d2 e2 | e2 d2 c2 | "Gm"d6- | [d6B6] 
+| "D7"D2 ^F2 A2 | c2 B2 A2 | "Gm"G6- | G2 :: g3f \
+| "F7"f6- | f2 g3 e | "Bb"d6- | d2 e3 d \
+| "D7"c6- | c2 d3 c | "Gm"B6- | B2 d2 d2 
+| "Gm"d6- | d2 c2 B2 | "D7"A6- | A2 B2 A2 \
+| D2 ^C2 D2 | B4 A2 | "Gm"G6- | G2 :: z2 ~g>^f \
+| "Gm"g z3 ~d>^c | d  z3 ~B>A | B z3  ~G>^F | G4 d2 
+| "Cm"e4 d2 | c2 e2 g2 | "Gm"d6- | d6 \
+| "D7"D2 ^F3 G | A6 | "Gm"D2 G3 A | B6 \
+| "D7"D2 ^F3 A | B4 A2 | "Gm"G6- | G2 :|
+% Source: sources/ifdo-ca/_seymour/runabc/allklez.abc
+
+X:10
+T: Rorospols
+T: Roros Pols
+O: Norway
+M: 3/4
+L: 1/8
+Q: 1/4=120
+P: AABB
+K: G
+%%MIDI program 41
+%%MIDI bassprog 24
+%%MIDI chordprog 24
+P:A
+|:"D"[G2d2]B2[d2B2]|dg [G2B2] [G2e2]|\
+"D7"dc A2 F2|\
+[1 [F2A2] [F4d4]:|[2"G"[F2A2] G4|
+P:B
+"D"[d3/2B3/2][c/A/][G3/2D3/2][F/D/][G2D2] |\
+ "C"[e3/2c3/2][d/B/][c3/2A3/2][B/G/][A2F2]|\
+"C"[A3/2F3/2][G/E/]"D"[F2D2][F2D2]|\
+"C"[A2c2][A2c2]z2|
+"D"[d3/2B3/2][c/A/][G3/2D3/2][F/D/][G2D2] |\
+"C"[e3/2c3/2][d/B/][c3/2A3/2][B/G/][A2F2]|\
+[A3/2F3/2][G/E/]"D"[F2D2][F2D2]|\
+"G"[A2F2]G2z2|
+% Source: sources/ifdo-ca/_seymour/runabc/intl.abc
+
+X:11
+T: Rorospols 3
+O: Norway
+Z: Deborah Jones VIFD II
+W: VIFD (Vancouver International Folk Dancers) Music Books by Deborah Jones
+M: 3/4
+L: 1/8
+Q: 1/4=160
+K: D
+%%MIDI program 41
+%%MIDI bassprog 33
+%%MIDI chordprog 24
+V:1
+|:"D" F2 A<F D>F|"Em" G2 B<G E2 |"A7" c2 e<c A>c|"D" D2 f<d "A7" A>G|
+V:2
+|:D2 F<D A,>D   | E2 G<E B,2    |A2 c<A E>A     |A2 d<A G>E         |
+V:1
+  "D" F2 A<F D>F|"Em" G2 B<G E2 |"A7" c2 e<c A>c|"D" D2 D4          :|
+V:2
+  D2 F<D A,>D   | E2 G<E B,2    |A2 c<A E>A     |F2 F4              :|
+V:1
+|:"D" f2 f<d f>a|"Em" g2 g>f e>d|"A7"c2 e<c e>g |"D" f2 f>e d2      |
+V:2
+|:d2 d<A d>f    | e2 e>d c>B    |A2 c<A c>e     |d2 d>A F>A         |
+V:1
+  "D" f2 f<d f>a|"Em" g2 g>f e>d|"A7"c2 e<c e>g |"D" d2 d4          :|
+V:2
+  d2 d<A d>f    | e2 e>d c>B    |A2 c<A c>e     |F2 F4              :|
+% Source: sources/ifdo-ca/_seymour/runabc/intl.abc
+
+X:12
+T: Schloss in Oesterreich
+N: Q2024H
+O: Nordeuropa, Norwegen
+N: Norwegische Fassung der Ballade.
+R: Ballade, Gefangenschaft, Hinrichtung, Tod, Vergeltung
+M: 6/4
+L: 1/8
+K: D
+A2 | A3AG2A4d2 | d4=c2A3A
+c2 | _B4A2G4=F2 | G2A4-A4
+d2 | d4=c2A4_B2 | A4G2E3=F
+A2 | =c4_B2A3G=F2 | E2D4-D4
+% Source: sources/ifdo-ca/_seymour/runabc/esac/ballad10.abc
+
+X:13
+T:Snoa
+O:Sweden
+M:2/4
+L:1/8
+Q:1/4=180
+K:D
+%%MIDI gchord zf
+%%MIDI program 41
+%%MIDI bassprog 33
+FG|\
+|:"D"AB GA|"F#"FG FE|"D"D2 f2|"F#"fe f2|
+  "D"A2 e2|"A"ed e2|[1A2 d2|dc FG:|[2"D" d2 f2|d2 FG|
+|:"D"AB GA|"F#"FG FE|"D"D2 f2|"F#"fe f2|
+  "D"A2 e2|"A"ed e2|[1A2 d2|dc FG:|[2"D" d2 f2|d2 FG|
+|:"A"e2 ed|e2 e2|"D"de dc|B2z2|[1de dc|B2 f2|
+  fe fe|c2 cd:|[2"D"Ba ^gf|"E"ed cB|"A"A4| A4| 
+|:"A"e2 ed|e2 e2|"D"de dc|B2z2|[1de dc|B2 f2|
+  fe fe|c2 cd:|[2"D"Ba ^gf|"E"ed cB|"A"A4| A4|
+% Source: sources/ifdo-ca/_seymour/runabc/intl.abc
+
+X:14
+T: Tod der Geschwister
+N: Q3107C
+O: Suedeuropa, Italien, Sizilien
+N: Melodievergleich zu Q0107B, anderes Lied. Verzierung (Vorschlag) .
+R: ???
+M: none
+L: 1/16
+K: G
+G2B2c2d6d2(3_e2=f2e2d6c2B8B4
+e2e4d4B4G4(3c2d2c2_B3_AG4G8
+% Source: sources/ifdo-ca/_seymour/runabc/esac/ballad50.abc
+
+X:15
+T: WENN DER LENZ ERWACHT UND IN BLUETHENPRACHT
+N: B0123
+O: Europa, Mitteleuropa, Deutschland; Norwegen
+R: Ballade, Romanze
+M: 3/4
+L: 1/16
+K: D
+ | A,3_B,G,2B,2A,4 | D3=FE3DC4 |
+A,3_B,G,3B,A,3C | C4D8 |
+A,3_B,G,2B,2A,4 | D3=FE3DC4 |
+A,3_B,G,3B,A,3C | C4D8 |
+E3=FG3EF3C | D3=FE3DC4 |
+E3FG3EF3C | D3=FE3DC4 |
+A,3_B,G,2B,2A,4 | D3=FE3DC4 |
+A,3_B,G,3B,A,3C | C4D8
+% Source: sources/ifdo-ca/_seymour/runabc/esac/boehme10.abc

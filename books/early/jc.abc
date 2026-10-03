@@ -1,0 +1,1088 @@
+% John Chambers' ABC archive: Early Music & Classical tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T: Aldersgate Bars
+P: Longways for as many as will
+R: minuet
+B: "Caledonian Country Dances" printed by John Walsh for John Johnson, London
+S: 1: http://imslp.org/wiki/Caledonian_Country_Dances_with_a_Thorough_Bass_(Various) p.54
+Z: 2013 John Chambers <jc:trillian.mit.edu>
+N: Repeats added to satisfy the "Each Strain twice" instruction.
+M: 3/2
+L: 1/8
+K: Gm
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 1
+|: dcBA BcBA G2GA | B2AB cBAG ^F2A2 | dcBA BcBA G2A2 | BABc d2^f2 g4 :|
+|: bagf gdcB edcB | A2gf edcB A2^F2 | dcBA BcBA Gg^fa | gdcB ABcA B2G2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 2 clef=bass middle=d
+|: G4 g4 B2A2 | G4 c4 d4 | z4 G4 B2A2 | G4 B2d2 G4 :|
+|: d4 e4 c4 | d4 c4 d4 | B4 G4 e4 | B4 c2d2 G4 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%center Each Strain twice.
+%%begintext align
+The 1st Cu. lead forward and take hands across and go half round .|,
+then the same back again :|
+The 1st and 2d Cu double figure and turn the 1st & 2d Man casting down into the 2d Wo. Place .|
+then the two We. do the same on the Men's side :|
+%%endtext
+
+%%sep 2 1 500
+%%sep 1 1 500
+% Source: sources/jc/CCD/alltunes.abc
+
+X:2
+T: Andantino
+C: Gaetano Brandi
+Q: "Andantino"
+B: "Man of Feeling", Gaetano Brandi, ed. v.1 p.82-83
+F: http://archive.org/details/manoffeelingorge00rugg
+Z: 2012 John Chambers <jc:trillian.mit.edu>
+N: Odd positioning of dynamic markings; adjusted to indicate the probable intent for each voice.
+M: C
+L: 1/16
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 has staff lengths to match our small-scale page layout.
+V: 1
+|:\
+!p!d8- d2z!f!d (e3d) | !p!d8- d2z!f!d (e3d) |\
+"_cres"(d4 e4) (f4 g4) | !f!f4 {f/}(e2de) d4 z4 |\
+!f!(c6 B2) A4 z4 | (d6 c2) B4 z4 |\
+!p!d6 (ed) !f!(g2d2c2B2) | (B8 A4) z4 :|
+|:\
+!p!c8- c2z!f!A (d3c) | B4 !f!{d/}(c2Bc) d4 z4 |\
+!p!c8- c2z!f!A (d3c) | B4 {d/}(c2Bc) d4 z4 |\
+!f!(e6 f2) g4 z4 | !f!d6 (f2 g4) z4 |\
+!f!{f}e4 (d2c2) {d/}(c2B2) {c/}(B2A2) | (A8 G4) z4 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff line breaks.
+V: 2
+|:\
+z2 !f!(G2B2c2) B4 z4 | z2 !f!(G2B2c2) B4 z4 |
+"_cres"(B4 c4) (A4 B4) | !f!d4 {d/}(c2Bc) B4 z4 | (A6 G2) F2D2F2D2 |
+(B6 A2) (G2G2B2G2) | !p!B6 (cB) !f!(B2B2A2G2) | (G8 F4) z4 :|
+|:\
+z2 !f!(D2F2G2) !f!A4 z4 | G4 {B/}(A2GA) B4 z4 | z2 !p!(D2F2G2) !f!A4 z4 |
+G4 {B/}(A2GA) B4 z4 | !f!(c6 d2) (e2c2B2A2) | !f!B6 (c2 B2)(d2c2B2) |
+!f!{d}c4 (B2A2) {B/}(A2G2) {A/}(G2F2) | (F8 G4) z4 :|
+%
+%%center -
+% Source: sources/jc/MoF/10821_Andantino.abc
+
+X:3
+T: Dusty Miller
+P: Longways for as many as will
+R: minuet
+B: "Caledonian Country Dances" printed by John Walsh for John Johnson, London
+S: 1: http://imslp.org/wiki/Caledonian_Country_Dances_with_a_Thorough_Bass_(Various) p.16
+Z: 2013 John Chambers <jc:trillian.mit.edu>
+M: 3/2
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 1
+|: B3c d2B2 TA2G2 | F2 A4 c2 B2A2 | B3c d2B2 A2G2 | D2 G4 B2 A2G2 :|
+|: B3c d2e2 f2g2 | a2 A4 c2 TB2 A2 | B3c d2e2 Tf3e/f/ | g3a g2B2 A2G2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 2 clef=bass middle=d
+|: g4 B4 c4 | d4 f4 d4 | g4 B4 c4 | d4 D4 G4 :|
+|: g4 f4 e4 | d4 f4 d4 | g4 b4 a4 | g4 G8 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+Lead thro' the 2d Cu. and on the outside of the 3d Cu. meet and turn .|
+the same up :|
+turn Corners :|
+Foot :|
+and turn :|
+%%endtext
+
+%%sep 2 1 500
+%%sep 1 1 500
+% Source: sources/jc/CCD/alltunes.abc
+
+X:4
+T: Easter Thursday
+P: Longways for as many as will
+R: minuet
+B: "Caledonian Country Dances" printed by John Walsh for John Johnson, London
+S: 1: http://imslp.org/wiki/Caledonian_Country_Dances_with_a_Thorough_Bass_(Various) p.93
+Z: 2013 John Chambers <jc:trillian.mit.edu>
+M: 3/2
+L: 1/8
+K: Dm
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 1
+[| d4 def2 e2d2 | e2 A4 c2 B2A2 | B4 Bcd2 c2B2 | c2 F4 c2 B2A2 | GAB2 AGF2 GFE2 | FED2 FGA2 HD4 |]
+[| agfe f2a2 d2a2 | bagf e2g2 c2g2 | agfe d2f2 B2f2 | gfed ^c2e2 A2F2- | F2 G4 A4 B2- | B2 A4 d2 e2^c2 "_D.C."|]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 2 clef=bass middle=d
+[| d4 z2d2 ^c2d2 | A4 a4 d4 | g2f2 e2d2 e4 | f4 a4 g2^f2 | g4 d4 a4 | d4 z4 HD4 |]
+[| ^c4 d4 f4 | g4 c4 e4 | f4 b4 d4 | e4 a4 f4 | d4 e4 f4 | g4 f2d2 g2a2 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+The first Cu. Back to Back with the 2d Cu. and then with their Partners .|
+the first Cu. turn the 2d Cu. then turn their own :|
+Me?? all 4 and sett then turn single and clap Hands all 4 going quite round .|
+then the 1st Cu. go the figure thro' the 2d Cu. and cross over and turn their own Partners :|
+%%endtext
+
+%%sep 2 1 500
+%%sep 1 1 500
+% Source: sources/jc/CCD/alltunes.abc
+
+X:5
+T: The Emperor
+T: De Keiser
+C: old Dutch, arr. Pat Shaw
+B: Pat Shaw's New Wine in Old Bottles p.52
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: Formation:- Longways set for 4 couples, 3rd & 4th couples improper, progressive
+N: Minuet step throughout, 1 minuet step takes two bars of music (see Notes on some figures).
+P: 4 x (AABB)
+Q: "Minuet tempo"
+R: minuet
+M: 3/4
+L: 1/8
+K: C
+"A"|:\
+"C"c2G2G2 | "G"d2G2G2 | "C"e2"F"fedc | "G"dcdede |\
+"C"c2G2G2 | "G"d2G2G2 | "C"e2"F"fe"G"de | "C"c6 :|
+"B"|:\
+"C"g2c2c2 | "F"a2"C"g2c2 | "C"g2c2c2 | "F"a2"C"g2c2 |\
+"C"e2efg2 | "G"B2Bcd2 | "G7"G2c2B2 | "C"c2G2G2 |
+"G"d2G2G2 | "C"e2"F"fedc | "G"dcdede | "Dm"fefg"G7"fg |\
+"C"edefg2 | "F"a2"G"d3c | "C"c6 :|
+
+
+%%sep 5 1 500
+% Source: sources/jc/PatShaw/NewWineInOldBottles.abc
+
+X:6
+T: The Gaveson
+R: minuet
+B: John Walsh "Caledonian Country Dances"
+S: 2: http://petrucci.mus.auth.gr/imglnks/usimg/5/50/IMSLP98359-PMLP202128-walsh_caledonian_country_dance_vol2.1.pdf p.9 #269
+Z: 2013 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: F
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 1
+|: (Tf3/e//f//) ((3aef) Tf2 | (Tf3/e//f//) ((3aef) f2 | d>f c>f B>f | (3AcB (3AGF (3EDC :|
+|: (3GBA (3GAB (3ABc | (3Beg (3Beg f2 | (3GBA (3GAB (3ABc | (3dba (3gfe f2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 2 clef=bass middle=d
+|: f2 f2 f2 | f2 f2 f2 | b2 c'2 c2 | d2 F2 c2 :|
+|: c2 c2 f2 | g2 c2 f2 | e2 c2 f2 | B2 c2 F2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+Lead down between the 2d Cu. and without sides the 3d Cu. and turn your Partner .|
+Lead up to the top foot and cast off :|
+Hands round with the 3d Cu. .|
+Right hand and left with the 2d Cu. :|:
+%%endtext
+
+%%sep 2 1 500
+%%sep 1 1 500
+% Source: sources/jc/CCD/alltunes.abc
+
+X:7
+T: Geminiani's Minuet
+P: Longways for as many as will
+R: minuet
+B: "Caledonian Country Dances" printed by John Walsh for John Johnson, London
+S: 1: http://imslp.org/wiki/Caledonian_Country_Dances_with_a_Thorough_Bass_(Various) p.74
+Z: 2013 John Chambers <jc:trillian.mit.edu>
+N: The 2nd part has initial repeat but no final repeat; fixed to match the dance instructions.
+M: 3/8
+L: 1/16
+K: Cm
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 reformatted to make 4- and 12-bar staff/line breaks:
+V: 1
+|: g6 | a2g2((3fga) | g2c2d2 | e4d2 |\
+f2e2d2 | g2fedc | de=B4 | Hc6 :|\
+e6 | c6 | f2agfe | d3cB2 |
+e2f2g2 | a2gfg2 | eff3e | edcdef |\
+g6 | a2g2((3gfa) | g2c2d2 | e4d2 |\
+f2e2d2 | g2fedc | d2=B4 | c6 |
+g2a2b2 | =e4f2 | a2b2c'2 | ^f4g2 |\
+G2A2=B2 | cdd2cd | ((3edc)f4 | ((3edc)a4 |\
+g6 | agfedc | =Bcc2Bc | "^D.C."d6 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff breaks:
+V: 2 clef=bass middle=d
+|: z2c'2c2 | f2e2d2 | e4d2 | c2g4 |d2c2=B2 | c2d2e2 | f2g2G2 | c6 :|\
+z2c'2c2 | z2agfe | d2B2=A2 | B2c2d2 | c2d2e2 | A2B2e2 | a2b2B2 | e4z2 | z2c'2c2 |
+f2e2d2 | e4d2 | B2g4 | d2c2=B2 | c2d2e2 | f2g2G2 | c6 | =e4g2 | c'2c2f2 |\
+^f4a2 | d'2d2g2 | z2z2g2 | f2=B4 | c2d2=B2 | c2fed2 | ((3edc)c'4 | f4f2 | g2c4 | "^D.C."g6 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%center First Part twice, the 2d but once.
+%%begintext align
+The 1st Man Minuet to the 2d Wo. & turn her round with his Right Hand, then 1st
+Wo. do the same to the 2d Man. (this to the first Strain play'd twice) then first Cu.
+Hands round with the 2d Cu. then cast off & lead thro' the 3d Cu. & thro' the 2d
+Cu. & turn single in 2d Cu. Place, then first Man change Places with the 2d Wo.
+and the 1st Wo. with the 2d Man and go quite round, then Right and Left quite
+round with the 2d Cu. & lead thro' the 3d Cu. and turn.
+%%endtext
+
+%%sep 2 1 500
+%%sep 1 1 500
+% Source: sources/jc/CCD/alltunes.abc
+
+X:8
+T: Hard Times
+T: O ongelukkige Tijt
+C: old Dutch, arr. Pat Shaw
+B: Pat Shaw's New Wine in Old Bottles p.42
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: Formation:- 3 couples in line, partners facing, progressive
+N: Minuet step throughout
+P: 3 x (AABB)
+Q: "Minuet tempo"
+R: minuet
+M: 3/4
+L: 1/8
+K: Dm
+"A"|:\
+"Dm"{D}z2 F2 ED | "Am"A4 A2 | "Bb"d3 ^cde | "A"^c3 =B A2 |\
+"Dm"z2 d2 A2 | "Gm"B4 B2 | "C"AG TG3 F | "F"F6 |
+"F"z2 A2 GF | "C"c4 c2 | "Dm"d3 e"G7"fg | "C"e3 d c2 |\
+"Am"z2 e3 e | "Dm"e2 d3 d | "eAm"c=B "E"TB3 A | "Am"A6 :|
+"B"|:\
+"Dm"z2 e2 f2 | "A"^c3 c "Dm"d2 | "Gm"AB B3 A | "C7"B3 G "F"c2 |\
+"Dm"A3 ABc | "Bb"d3 d "C"e2 | "Dm"f2 f3 "C7"e | "F"f2 A3 A |
+"Gm"G3 G "Dm"A2 | "eC7"B3 "C"c "F"A2 | "Bb"d/e/f "C"e3 d | "A"^c2 e3 "c#A"e |\
+"Dm"f2 "f#D"^f3 f | "Gm"g3 "A7"=B "c#A7"^c2 | "Dm"de "A"Te3 d | "Dm"d6 :|
+
+
+%%sep 5 1 500
+% Source: sources/jc/PatShaw/NewWineInOldBottles.abc
+
+X:9
+T: LINCOLN'S INN GARDEN
+R: minuet
+M: 3/2
+L: 1/8
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.12
+P: AA BB ad lib.
+Q: 1/2=80 "sweeping"
+K: Bb
+%----------------------------------------
+% V:1 arranged to give fewer, longer staff lines.
+V: 1
+"A"|:\
+f4 d4 (ga) (gf) | g2 b4 d2 c2B2 |\
+f2d2 B3A GAB2 | ABc2 f2A2 G2F2 :|\
+"B"|:\
+D2F2 Bcd2 G4 | g3g f2e2 d2c2 |
+A2c2 fga2 d2a2 | b3a g2ab g2f2 |\
+b2a2 g2f2 b2d2 | gfed c2B2 c2F2 |\
+GAB2 ABc2 def2 | g3f e2d2 c2B2 :|
+%----------------------------------------
+V: 2
+|:\
+D4 F4 E2D2 | E4 D2B,2 A,2B,2 | C2D2 G4 C4 | C4 C2F2 =E2F2 :| 
+|:\
+D4 D4 _E2D2 | C4 =B,2C2 D2E2 | F4 D2C2 D4 | D2 G4 F2 =E2F2 |
+F4 G2A2 B4 | B4 A2B2 A2F2 | E2G2 A4 B4 | G4 A2B2 A2B2 :|
+%----------------------------------------
+V: 3 clef=bass middle=d
+|:\
+"Bb"B8 "Eb"B2-"Bb"B2 | "Eb"e4 "Bb"B4 "F"f2"Bb"B2 | "F"A2"Bb"B2 "Eb"e4 "C"=e4 | "F"f4 A2F2 "C"c2"F"F2 :|
+|:\
+"Bb"B8 "Eb"e4 | "Cm"e4 "G"d2"Cm"c2 "G"g2"Cm"c2 | "F"f8 "Dm"f4 | "Gm"g3f "C"=e2"F"f2 "C"c2"F"f2 |
+"Bb"d4 "Eb"_e2"Dm"d2 "Gm"g2g2 | "Eb"e4 "F"f2"Bb"B2 "F"f2"Bb"d2 | "Eb"e4 "F"f4 "Bb"B4 | "Eb"e3d "F"c2"Bb"B2 "F"f2"Bb"B2 :|
+% Source: sources/jc/ThomasBraysCountryDances1699/04_LincolnsInnGarden.abc
+
+X:10
+T: MINUET
+C: By Simon Stubley
+R: minuet, waltz
+Z: 2014 John Chambers <jc:trillian.mit.edu>
+S: The Gentleman's Magazine v.23, April 1753, p.191
+M: 3/8
+L: 1/16
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 has 2 long staff lines.
+V: 1
+|:\
+G2B2d2 | g4 f2 | egfedc | B2ABG2 |\
+G2B2d2 | g4 f2 | e2B2T^c2 | d6 :|
+|:\
+d2edcB | cedcBA | BdcBAG | FGAFED |\
+d2e2f2 | g2fedc | B2c2TA2 | G6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff lines.
+V:2 clef=bass middle=d
+|:\
+z6 | G2B2d2 | g4 f2 | g2d2B2 | G2g2f2 | e2^c2d2 |
+g2a2A2 | d6 :||: b2g2e2 | a2f2d2 | g2e2c2 |
+d2d'2c'2 | b4 a2 | g4 f2 | g2c2d2 | G6 :|
+% Source: sources/jc/GM/Minuet_by_Simon_Stubley.abc
+
+X:11
+T: Minuet
+C: Michael Dabney (c.1760)
+R: minuet
+B: Michael Dabney "Twelve Minuets and Twelve Dances" p.1 #1
+S: http://imslp.org/wiki/12_Minuets_and_12_Dances_(Dabney,_Michael)
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: Figured bass rewritten as chords for ABC software and people who don't understand figured bass.
+M: 3/4
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 produces mostly 4- or 8-bar staffs.
+V: 1
+|:\
+d4 (c/B/A/G/) | (A3 B/c/) B2 | (3AcA G2 TF2 | {F2}G4 z2 |\
+G/F/G/A/ GA B2 | A/G/A/B/ AB c2 | BdgdcB | {B2}A6 :|
+|:\
+A3 cBd | Tc>Bc>d c2 | B3 dce | Td>^cd>e d2 |\
+e2 =ceac | d2 BdgB | {d}cB/A/ G2 TF2 | {F2}G6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the staff breaks in the book.
+V: 2 clef=bass middle=d
+|:\
+"G"g6 | "D"f2 d2 "G"g2 | "Am"c2 "G"d2 "D"D2 | "G"G2 Bd G2 |\
+"G"g2 "D"d2 "G"G2 | "D"d2 f2 "D7"d2 | "G"g4 G2 | "D"d2 D2 z2 :|
+|:\
+"D"d2 f2 "G"g2 | "Am"a2 "D7"f2 d2 | "G"g2 G2 z2 | "G"g4 b2 |\
+"Am"c'2 z2 c'2 | "G"b2 z2 b2 | "Am"c'2 "G"d'2 "D"d2 | "G"g2 G4 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/MichaelDabney/12Minuets12Dances-1760-V1.abc
+
+X:12
+T: Minuet
+C: Michael Dabney (c.1760)
+R: minuet
+B: Michael Dabney "Twelve Minuets and Twelve Dances" p.1 #2
+S: http://imslp.org/wiki/12_Minuets_and_12_Dances_(Dabney,_Michael)
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: Figured bass rewritten as chords for ABC software and people who don't understand figured bass.
+M: 3/4
+L: 1/8
+K: F
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 produces mostly 4- or 8-bar staffs.
+V: 1
+|:\
+FAcA fd | Tc2 (B2 A2) | G>BAGFE | {E2}F4 z2 |\
+G>A B2 A2 | B>c d2 e2 | f>c B2 TA2 | {A2}G6 :|
+|: c2 fcac | B2 dBgB | A>BcAGF | E>FGE C2 |\
+FAcA fd | {d}c2 BAGF | (3GAB AGFE | {E2}F6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the staff breaks in the book.
+V: 2 clef=bass middle=d
+|:\
+"F"f4 "Bb"b2 | "F"a2 "C7"g2 "F"f2 | "Gm"B2 "F"c2 "C"c2 | "F"FAcA F2 |\
+z2 z2 "F"f2 | "Gm"g>a b2 "C"g2 | "F"a2 "C7"g2 "F"f2 | "C"c6 :|\
+|: "F"f4 f2 |
+"Gm"g2 "C7"e2 c2 | "F"f2 A2 "G7"=B2 | "C"c4 C2 |\
+z2 "F"f2 "Bb"b2 | "F"a2 f2 "Dm"d2 | "Gm"B2 "F"c2 "C"C2 | "F"F6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/MichaelDabney/12Minuets12Dances-1760-V1.abc
+
+X:13
+T: Minuet
+C: Michael Dabney (c.1760)
+R: minuet
+B: Michael Dabney "Twelve Minuets and Twelve Dances" p.2 #1
+S: http://imslp.org/wiki/12_Minuets_and_12_Dances_(Dabney,_Michael)
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: Eb
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 produces mostly 4- or 8-bar staffs.
+V: 1
+|:\
+e3 gfd | e>B TB4 | c3 dec | B>G E4 |\
+E2 TG2 B2 | e3 fge | d/e/f/g/ a2 g2 | Tg2 f2 z2 :|
+|:\
+b4 (ag) | f2 =e2 f2 | a4 (gf) | e2 d2 e2 |\
+B>dc>ed>f | e>gf>ag>a | b2 c'bag | g2 f2 z2 |
+e3 gfd | e>B TB4 | c3 dec | B>G E4 |\
+E2 G2 B2 | e3 g e2 | (3(faf) e2 d2 | e6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the staff breaks in the book.
+V: 2 clef=bass middle=d
+|:\
+"Eb"e2 b2 "Bb7"a2 | "Eb"g2 f2 e2 | "Ab"a2 "Fm"f2 "Ab"a2 | "Eb"g3 agf |\
+"Eb"e6 | "Eb"e2 g2 e2 | "Bb7"f2 d2 "Eb"e2 | "Eb"b2 "Bb"B2 z2 :|\
+|:\
+z2 "Eb"g2 e2 | "Fm"a2 "C"g2 "Fm"f2 | z2 "Fm"f2 a2 | "Eb"g2 "Bb"f2 "Eb"e2 |
+z2 "Ab"a2 "Bb"f2 | "Eb"g2 "Bb"d2 "Eb"e>f | "Eb"g4 "Ab"a2 | "Eb"b2 "Bb"BcdB |\
+"Eb"e2 b2 "Bb7"a2 | "Eb"g2 f2 e2 | "Ab"a2 "Fm"f2 "Ab"a2 | "Eb"g3 agf |\
+"Eb"e4 gf | "Eb"e4 g2 | "Fm"a2 "Eb"b2 "Bb"B2 | "Eb"e2 B2 E2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/MichaelDabney/12Minuets12Dances-1760-V1.abc
+
+X:14
+T: Minuet
+C: Michael Dabney
+R: minuet
+B: Michael Dabney "Twelve Minuets and Twelve Dances" p.2 #2
+S: "http://imslp.org/wiki/12_Minuets_and_12_Dances_(Dabney,_Michael)"
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: D
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 produces mostly 4- or 8-bar staffs.
+V: 1
+|:\
+D>F A2 d2 | {B}A2 GFED | d2 fedc | (3(def) A4 |\
+B2 TB2 (3(Bcd) | A2 A2 (3(Bcd) | A2 BAGF | TF2 E2 z2 |
+F^GABcd | {f}e2 dcBA | FdcBA^G | {^G2}A6 :|\
+|:\
+A2 A2 GF | G>AGF E2 | DEFGAB | {B}A2 {A}G2 {G}F2 |
+(3(fed) c2B2 | e2 dcBA | (3(dcB) A2 T^G2 | A>BAGFE |\
+D2 DEFG | A2 ABcd | (3BAG F2 TE2 | D6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the staff breaks in the book.
+V: 2 clef=bass middle=d
+|:\
+"D"d4 d2 | "A"c2 "A7"A2 "D"d2 | "D"fg a2 "A"A2 | "D"d2 f2 d2 |\
+"G"g2 b2 g2 | "D"f2 d2 "G"g2 | "A"c2 "D"d2 "G"G2 | "D"A2 "A"c2 A2 |\
+z2 z2 AB | "A"c2 "E"B2 "A"A2 | "D"d2 "A"e2 "E"E2 | "A"A6 :|
+|:\
+"D"f4 d2 | "A7"e2 c2 A2 | "D"d3 efg | "D"f2 "A7"e2 "D"d2 |\
+z2 z2 d2 | "A"c2 z2 c2 | "Bm"d2 "A"e2 "E7"E2 | "A"A4 z2 |\
+"D"d4 d'2 | "A"c'2 a2 "D"f2 | "G"g2 "D"a2 "A"A2 | "D"D6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/MichaelDabney/12Minuets12Dances-1760-V1.abc
+
+X:15
+T: Minuet
+C: Michael Dabney
+R: minuet
+B: Michael Dabney "Twelve Minuets and Twelve Dances" p.3 #1
+S: http://imslp.org/wiki/12_Minuets_and_12_Dances_(Dabney,_Michael)
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: D
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 produces mostly 4- or 8-bar staffs.
+V: 1
+|:\
+[f2A2D2] afge | [f2A2D2] afge | (3fga (3Bcd (3cde | Td2 DEFD |\
+[f2A2D2] DfDf | e2 ceae | (3(fed) c2 TB2 | {B2}A6 :|
+|:\
+A2A2 GF | GAGF E2 | G2 G2 (FE) | FGFE D2 |\
+[B4D4] (3dcB | [A4D4] d2 | (3BAG F2 TE2 | D6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the staff breaks in the book.
+V: 2 clef=bass middle=d
+|:\
+"D"d2 f2 "A"a2 | "D"d2 f2 "A"a2 | "D"d'2 "G"g2 "A"a2 | "D"d2 "A"A2 "D"D2 |\
+"D"d6 | "A"c2 A2 c2 | "D"d2 "A"e2 "E"E2 | "A"A6 :|\
+|:\
+"D"d4 d2 |
+"Em"e2 "A"c2 A2 | "Em"e4 "A"c2 | "D"d2 "A"A2 "D"D2 |\
+"G"g2 G2 g2 | "D"f2 d2 f2 | "G"g2 "D"a2 "A"A2 | "D"D6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/MichaelDabney/12Minuets12Dances-1760-V1.abc
+
+X:16
+T: Minuet
+C: Michael Dabney
+R: minuet
+B: Michael Dabney "Twelve Minuets and Twelve Dances" p.3 #2
+S: http://imslp.org/wiki/12_Minuets_and_12_Dances_(Dabney,_Michael)
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: F
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 produces mostly 4- or 8-bar staffs.
+V: 1
+|:\
+c4 fd | {d2}c4 fd | {d}c2 BAGF | E>FGE F2 |\
+G>G G2 A2 | B>B B2 c2 | d>efcBA | TA2 G2 z2 :|
+|:\
+c4 ac | {d}c2 BA B2 | B4 gB | {c}B2 AG A2 |\
+F>GABcd | c>defc_e | dc/B/ A2 TG2 | F6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the staff breaks in the book.
+V: 2 clef=bass middle=d
+|:\
+"F"f2 a2 "Bb"b2 | "F"f2 a2 "Bb"b2 | "F"a2 f2 "Bb"b2 | "C"c'2 c2 "F"f2 |\
+"C"c>c c2 "F"f2 | "Edim"g>g g2 "F"a2 | "Bb"b2 "F"a2 gf | "C"c4 z2 :|
+|:\
+"F"a2 f2 "Dm7"d2 | "Gm"g6 | g2 "C7"e2 c2 | "F"f6 |\
+z2 z2 "Bb"b2 | "Am"a2 "Em"g2 "F7"a2 | "Bb"b2 "F"c'2 "C"c2 | "F"F6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/MichaelDabney/12Minuets12Dances-1760-V1.abc
+
+X:17
+T: Minuet
+C: Michael Dabney
+R: minuet
+B: Michael Dabney "Twelve Minuets and Twelve Dances" p.4 #1
+S: http://imslp.org/wiki/12_Minuets_and_12_Dances_(Dabney,_Michael)
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: Bar 14 has two odd "long dash" marks above the notes; it's not obvious what this means.
+M: 3/4
+L: 1/8
+K: Bb
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 produces mostly 4- or 8-bar staffs.
+V: 1
+|:\
+[B2D2] B,>CDE | F>GAF B2 | GedcBA | {A2}B6 |\
+E2 g4 |  (gf)(ed)(cB) | ABcded | d2 [c4F4] :|
+|:\
+[A3F3] GAB | c>Bc>de>d | gfedcB | ABcA F2 |\
+GEGBeG | FDFBdF | Ggfedc | {c2}[B6D6] :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the staff breaks in the book.
+V: 2 clef=bass middle=d
+|:\
+"Bb"B6 | "(F)"z2 "F"f2 "Bb"d2 | "Eb"e2 "F"f2 F2 | "Bb"B2 BcdB |\
+"Eb"g4 e2 | "Bb/d"d2 "Cm"c2 "Bb"B2 | "F"f2 z2 "Bb"B2 | "Bb"f2 "F"F4 :|
+|:\
+"F"f2 f2 f2 | "F"f4 z2 | "Eb"z2 e2 "Cm"c2 | "F"f2 z2 f2 |\
+"Eb"e2 e2 e2 | "Bb"d2 d2 d2 | "Eb"e2 "Bb"f2 "F"F2 | "Bb"G6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/MichaelDabney/12Minuets12Dances-1760-V1.abc
+
+X:18
+T: Minuet
+C: Michael Dabney
+R: minuet
+B: Michael Dabney "Twelve Minuets and Twelve Dances" p.4 #2
+S: http://imslp.org/wiki/12_Minuets_and_12_Dances_(Dabney,_Michael)
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: Bar 8 has a fermata only in the bass line.
+M: 3/4
+L: 1/8
+K: Eb
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 produces mostly 4- or 8-bar staffs.
+V: 1
+|:\
+e2 gegb | {g2}Tf2 edcB | c>Bcede | {c}TB2 AGFE |\
+A2 cAce | TG2 BGBe | cBAGFE | TB2 B,4 :|
+|:\
+f2 dfBf | geBG E2 | a2 g2 (3(fga) | (3gfe (3def e2 |\
+Tc2 Acec | TB2 GBeB | (3{d}cBA G2 TF2 | {F2}E6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the staff breaks in the book.
+V: 2 clef=bass middle=d
+|:\
+"Eb"e6 | "Bb"b4 "Gm"g2 | "F7"a2 f2 "Bb"b2 | "Eb"e2 "Bb7"B2 "Eb"E2 |\
+z2 "Ab"A2 A2 | z2 "Eb"G2 G2 | "Fm"A4 "F"=A2 | "Bb"HB2 BcdB :|
+|:\
+z2 "Bb"b2 B2 | "Eb"e6 | z2 z2 "Bb7"B2 | "Eb"e2 "Bb"B2 "Eb"E2 |\
+z2 "Ab"a2 a2 | "Eb"g2 e2 g2 | "Ab"a2 "Bb"b2 B2 | "Eb"E6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/MichaelDabney/12Minuets12Dances-1760-V1.abc
+
+X:19
+T: Minuet
+C: Michael Dabney
+R: minuet
+B: Michael Dabney "Twelve Minuets and Twelve Dances" p.5 #1
+S: http://imslp.org/wiki/12_Minuets_and_12_Dances_(Dabney,_Michael)
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: Modern chords used rather than figured bass, for ABC software that doesn't understand "escape" accidentals in annotations.
+M: 3/4
+L: 1/8
+K: F
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 produces mostly 4- or 8-bar staffs.
+V: 1
+|:\
+f2 f>ac>_e | d2 d>fA>c | (3(dcB) A2 TG2 | {G2}F4 z2 |\
+FAcf a2 | EGce g2 | (3(agf) e2 Td2 | c6 :|
+|:\
+c2 (3(cd_e) dc | dcBA B2 | d2 (3(def) ed | edc=B c2 |\
+f2 fac_e | d2 dfAc | (3(dcB) A2 TG2 | F6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the staff breaks in the book.
+V: 2 clef=bass middle=d
+|:\
+"F"f4 "F7"a2 | "Bb"b2 z2 "F"f2 | "Bb"B2 "F"c2 "C"C2 | "F"F2 Ac F2 |\
+"F"f2 a2 f2 | "C"c2 e2 c2 | "F"f2 "C"g2 "G"G2 | "C"Hc>dcBAG :|
+|:\
+"F"f2 "F7"a2 f2 | "Bb"b2 "F"f2 "Bb"B2 | "G"g2 "G7"=b2 g2 | "C"c'2 "G"g2 "C"c2 |\
+"F"z2 a2 "F7"f2 | "Bb"b2 z2 "F"f2 | "Bb"b2 "F"c'2 "C"c2 | "F"F6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/MichaelDabney/12Minuets12Dances-1760-V1.abc
+
+X:20
+T: Minuet
+C: Michael Dabney
+R: minuet
+B: Michael Dabney "Twelve Minuets and Twelve Dances" p.5 #2
+S: http://imslp.org/wiki/12_Minuets_and_12_Dances_(Dabney,_Michael)
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: C
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 produces mostly 4- or 8-bar staffs.
+V: 1
+|:\
+c>dcG FE | (3(FGA) A2 G2 | A2 fdcB | Tc>B c4 |\
+Tc2 (e>c)(e>c) | Td2 (f>d)(f>d) | e2 gedc | Tc2 B2 z2 :|
+|:\
+d>edcBA | G2 F2 E2 | a>gf>ed>c | Tc2 B2 z2 |\
+"_P.o"A^GABcd | e^defea | {g}fe/d/ Tc2 B2 | "for"A4 z2 |
+c>dcG FE | (3FGA A2 G2 | A2 fedc | Tc2 B2 z2 |\
+(G/c/B/c/) (e/c/B/c/) (G/c/B/c/) | (G/c/B/c/) (g/c/B/c/) (e/c/B/c/) |\
+{B}AG/F/ E2 TD2 | C6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the staff breaks in the book.
+V: 2 clef=bass middle=d
+|:\
+"C"c4 c2 | "F"f4 "C"e2 | "F"f2 "Dm"d2 "G"g2 | "C"c2 G2 C2 |\
+z2 "C"c4 | z2 "G"B4 | "C"c4 C2 | "G"G4 z2 :|\
+|:\
+z2 "G"g2 "G7"f2 | "C"e2 "Bdim"d2 "C"c2 | z2 z2 "Dm7"d2 |"Am"e3 "E"e^ge |
+"Am"a4 "G"b2 | "Am"c'2 z2 c'2 | "Dm"d'2 "Am"e'2 "E"e2 | "Am"a2 gfed |\
+"C"c4 c2 | "F"f4 "C"e2 | "F"f4 "D"^f2 | "C"g2 "G"G2 z2 |\
+"C"c2 z2 c2 | "C"c2 z2 e2 | "F"f2 "G"g2 G2 | "C"C6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/MichaelDabney/12Minuets12Dances-1760-V1.abc
+
+X:21
+T: Minuet
+C: Michael Dabney
+R: minuet
+B: Michael Dabney "Twelve Minuets and Twelve Dances" p.6 #1
+S: http://imslp.org/wiki/12_Minuets_and_12_Dances_(Dabney,_Michael)
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: F
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 produces mostly 4- or 8-bar staffs.
+V: 1
+|:\
+a4(ga) | bgecf2 | dfedcB | A2G2F2 |\
+fcAcfa | gecG Eg | (3(agf) e2 Td2 | c6 :|
+|:\
+{d}Tc2a2c2 | c2BA B2 | B2g2B2 | {c}TB2AGA2 |\
+[A3F3]AGB | Acdefc | (3dBG F2 TE2 | F6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the staff breaks in the book.
+V: 2 clef=bass middle=d
+|:\
+"F"f2 a2 f2 | "C"c'2 "C7"b2 "F"a2 | "Bb"b2 "C"c'2 c2 | "F"f6 |\
+z2 "F"f2 F2 | z2 "C"e2 c2 | "F"f2 "C"g2 "G"G2 | "C"c6 :|
+|:\
+"Am"a3 ABc | "D7"d4 "Gm"G2 | "Gm"g3 GAB | "C7"c4 "F"F2 |\
+"F"f4 "C7"e2 | "F"f2 "Edim"g2 "F"a2 | "Gm"b2 "F"c'2 "C"c2 | "F"F6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/MichaelDabney/12Minuets12Dances-1760-V1.abc
+
+X:22
+T: Minuet
+C: Michael Dabney
+R: minuet
+B: Michael Dabney "Twelve Minuets and Twelve Dances" p.6 #2
+S: http://imslp.org/wiki/12_Minuets_and_12_Dances_(Dabney,_Michael)
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 produces mostly 4- or 8-bar staffs.
+V: 1
+|:\
+d2BGce | e2d2gd | dcBAGF | G>FG2z2 |\
+GDGBB2 | ADFAc2 | BGBdgB | TB2A2z2 :|
+|:\
+dBdgbd | d2cBc2 | cAcfac | (dc)BAB2 |\
+GDGBAc | BGBdgd | ecBA GF | {F2}G6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the staff breaks in the book.
+V: 2 clef=bass middle=d
+|:\
+"G"g4 "(C)"z2 | "G"g4 b2 | "C"c'2 "G"d'2 "D"d2 | "G"g>dBd G2 |\
+z2 "G"g2 g2 | z2 "D"d2d2 | "G"g2 z2 g2 | "G"d2 "D"D2 z2 :|
+|:\
+"(G)"z2 z2 "G"b2 | "G"b2 "D7"ag "6"a2 | "Am"a2 "D7"f2 d2 | "G"g2 d2 G2 |\
+"(G)"z2 z2 "D"d2 | "G"g2 z2 B2 | "C"c2 "G"d2 "D"d2 | "G"G6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%newpage
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/MichaelDabney/12Minuets12Dances-1760-V1.abc
+
+X:23
+T: Now is the Month of Maying
+C: music: Thomas Morley.
+C: words: Orazio Vecchi
+N: based on the canzonet So ben mi ch'a bon tempo used by Orazio Vecchi in his 1590 Selva di varia ricreatione.
+%R: _
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+N: Oddly, the 1st strain has two identical endings, just the 1-bar G6 note. (Simplified here to one ending.)
+M: 4/4
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+G2 | G2 G2 A2 A2 | B4 B2 G2 | B3 A B2 ^c2 | d4 d2 |
+w: 1.~Now is the month of May-ing, When mer-ry lads are play-ing
+w: 2.~The spring all clad in glad-ness, Doth laugh at win-ter's sad-ness
+%
+A B | c2 c2 B2 G2 | A2 F2 D2 d c | B2 c2 A3 G | G6 :|
+w: Fa, la, la, la, la, la, la, la, la; Fa, la, la, la, la, la, la!
+%
+|: B2 | A2 d2 d2 ^c2 | d6 A2 | c2 c2 B2 B2 | A6 d c |
+w: Each with his bon-ny lass, A danc-ing on the grass, Fa, la,
+w: And to the bag-pipe's sound The nymphs tread out the ground, Fa, la,
+%
+B2 G2 d4 | D E F G A B c2 | B3 c B2 A2 | G6 :|
+w: la, la, la, Fa, la, la, la, la, la, la, Fa, la, la, la, la.
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:24
+T: Philida of Utrecht
+T: Philida van Utreght
+C: old Dutch, arr. Pat Shaw
+B: Pat Shaw's New Wine in Old Bottles p.56
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: Formation:- Square set for 4 couples, progressive
+N: Minuet step throughout, 1 minuet step takes two bars of music (see Notes on some figures)
+P: 2 or 4x (AABB)
+Q: "Minuet tempo"
+R: minuet, waltz
+M: 3/4
+L: 1/8
+K: G
+"A"|:\
+"G"B2 G4 | "D"d4 d2 |\
+"Em"e2 f3"A7"g | "D"~f3e "D7"d2 |\
+"G"g2 d2 "Em"e2 | "Am"c3 B "D7"c2 |\
+"bG"de "cAm"c3 B | "D"A4 A2 ||\
+"G"B2 G4 | "D"d4 d2 |
+"Em"e2 f3 "A7"g | "D"~f3 e d2 |\
+"Dm"=f2 e2 "E7"d^c | "A"a2 e2 "c#A7"e/^f/g |\
+"D"f3 e "A7"d^c | "D"d6 :|\
+"B"|:\
+"D"d2 A3 B | "Am"c4 "G7"B2 |
+"C"g2 e3 f | "B"^d4 B2 |\
+"cAm"A2 G2 FE | "F#dim"c3 F F/G/A |\
+"B7"GF ~F3 E | "Em"E6 ||\
+"Am"e2 c3 c | "D"d2 A3 "G7"B |
+"C"c2 d2 "c#A7"e/f/g | "D"fe d3 c |\
+"G"B2 g3 f | "C"e2 c3 B |\
+"A"A2 a3 "A7"e | "D"f4 "C"g2 |\
+"bB"d2 cB "Em"e2 | "Am"c2 BA "D"d2 |\
+"bG"B2 "D"d2 f2 | "G"g6 :|
+
+
+%%sep 5 1 500
+% Source: sources/jc/PatShaw/NewWineInOldBottles.abc
+
+X:25
+T: Punchanello's Hornpipe
+T: The Three Rusty Swords
+R: minuet
+B: "Caledonian Country Dances" printed by John Walsh for John Johnson, London
+S: 1: http://imslp.org/wiki/Caledonian_Country_Dances_with_a_Thorough_Bass_(Various) p.73
+Z: 2013 John Chambers <jc:trillian.mit.edu>
+N: The time signature was 2/3, which doesn't make sense in modern notation; changed to 3/2.
+N: The 2nd part has initial repeat but no final repeat.
+M: 3/2
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 1
+|: GABc d2G2 d2G2 | F2 A4 c2 B2A2 | GABc d2G2 B4 | D2 G4 B2 A2G2 :|
+|: g4   f4   e4   | f2 d4 f2 e2d2 | c4   B4   A4 | B2 G4 B2 A2G2 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 2 clef=bass middle=d
+|: g4   z2G2 B2c2 | d4 f4  g2d2  | G4   g4   G4   | B4 G4 d2G2 :|
+|: z2G2 d2B2 c2A2 | d4 d'4 c'2b2 | a2A2 G2g2 f2e2 | g4 G4 d2G2 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+The first Man and 2d Wo. dance the Hornpipe step & turn .|
+then the 2d Man and first Wo. do the same :|
+Then cross over below the 2d Cu. then below the 3d Cu & lead thro' both Couples & cast off & turn .|
+Then Men fall back, and the We. follow them dancing, and turn single.
+the We. fall back & the Men follow them and turn single dancing.
+%%endtext
+
+%%sep 2 1 500
+%%sep 1 1 500
+% Source: sources/jc/CCD/alltunes.abc
+
+X:26
+T: QUITE CARRI-ED AWAY or Joan Transported
+C: Pat Shaw
+R: waltz, minuet
+M: 3/4
+L: 1/8
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+B: Pat Shaw "Pat Shaw's Pinewoods" p.20
+P: AABB ad lib
+K: G
+"A"[|]dc |\
+"G"B2 Bcde | "D/f#"A2 AB cd | "Em"G2 GA "Am"Bc | "G/d"B4 "D"A2 | "G"B2 B^c"Em"de |
+"A"c2 "D/f#"defd | "Em"g2 B2 "A7"^c2 | "D"d4 "B":: "D7"ef | "G"g2 "C"ag"C/e"fe | "G/b"d4 "G"Bd |
+"C"edcB "Am"AG | "D"F2 "A7"EF "D"D2 | "C"E2 EF"Am"GA | "D"F2 FG"Bm"AB | "Em"G2 GA"Em/g"Bc |
+"Am"AB cd"D7"ef | "G(Em)"g2 "C"ag"C/e"fe | "G/b"Md2 "D7/a"Mc2 "G"MB2 | "C"((3ABc) "G/d"BG"D7"AF | "G"G4 :|
+%%begintext align
+NOTE: Although this need not be taken too slowly, it should have more of the character of
+the Minuet than of the Waltz. Musicians should take care to make the third beat of the bar
+really lead into the next in order to give the necessary flow to carry the dancers along.  Each
+movement of the A music should be exactly phrased, whereas the movements of the B music
+should flow into each other much more; though, of course, at the end of the B1 there should be
+a brief instant of rest when everyone is on the wrong side of the set.  The 1st couples after
+their left hand turn at the end of the B1 should not go straight into their right hand turn the
+shortest way, but should fall back into their progressed places, improper, on the last bar of B1.
+
+Joan Carr was Associate Director of CDSS when Pat was here.
+%%endtext
+
+
+%%sep 5 1 500
+% Source: sources/jc/PatShaw/Pinewoods.abc
+
+X:27
+T: Six and Sevens
+P: Longways for as many as will
+R: minuet, waltz
+B: "Caledonian Country Dances" printed by John Walsh for John Johnson, London
+S: 1: http://imslp.org/wiki/Caledonian_Country_Dances_with_a_Thorough_Bass_(Various) p.59
+Z: 2013 John Chambers <jc:trillian.mit.edu>
+N: Repeats added to satisfy the "Each Strain twice" instruction.
+N: The 1st phrase has 13 bars.
+M: 3/8
+L: 1/16
+K: Bb
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 preserves the original line breaks:
+V: 1
+|:\
+BdfdBd | cfAcFA | BdfdBd | c2F2f2 |\
+geeccA | fddBBG | eccAAF | fcgcac |\
+(fg)=e4 | f4z2 |
+fcgcac | (fg)=e4 | f6 :|\
+|:\
+cFAcfe | dfBdGB | EGcBAG | ^F4d2 |\
+gddBBG | eccedc |
+(Bc)A4 | G6 | BddggB | AccffA | (GB)BeeB |\
+AFBFcF | dFeFfF | BdfdBe | (dc) c3B | B6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original line breaks:
+V: 2 clef=bass middle=d
+|:\
+b4z2 | a4z2 | b4z2 | a4b2 | e2f4 | d2B2z2 |\
+A2f2z2 | d2B2z2 | A2f2z2 | d2B2z2 |
+d2e2z2 | f2e4 | f6 :|\
+|: f4z2 | B4z2 | e2cde2 | d4^f2 | g2b2g2 | ^f2d2g2 |
+c2d2D2 | G4z2 |\
+B4B2 | f4f2 | g2e2g2 | f2edc2 | B2A2B2 | b4z2 | B2f2F2 | B6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%center Each Strain twice.
+%%begintext align
+The 1st Cu lead thro' the 2d Cu. and cast up to the Top and cast off .|
+the 2d Cu do the same :|
+then the 1st Cu cast off & go the half figure .|
+then Right & Left quite round and turn :|
+%%endtext
+
+%%sep 2 1 500
+%%sep 1 1 500
+% Source: sources/jc/CCD/alltunes.abc
+
+X:28
+T: The Slof Galliard
+T: Galliarde Slof
+C: old Dutch, arr. Pat Shaw
+B: Pat Shaw's New Wine in Old Bottles p.54
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: Formation:- Longways set for 4 couples, progressive
+P: 4 x (AABB)
+Q: "Stately, but not too slow"
+R: galliarde, reel
+M: C|
+L: 1/8
+K: F
+"A"|:\
+"F"F4 A3B | "eAm"c4 "Dm"f3e | "Bb"d2c2 "Gm"B2A2 | "bG7"G2F2 "C7"E2C2 |\
+"F"F4 A3B | "Am"c4 "Dm"f3g | "Bb"a2f2 "C"g2e2 |1 "F"f8 :|2 "F"f6 ||
+"B"|: "D7"dc |\
+"Gm"B2A2 G2^F2 | "Gm"G4 G2GA | "Gm"B2A2 GABc | "Gm"d4 "C"d2"C7"de | "Dm"f2e2 "eC7"d2c2 |
+"F"f4 "Dm"A4 | "Gm"B2A2 "bG7"G2F2 | "C"G4 "eC7"C4 | "F"F4 A3B |\
+"Am"c4 "Dm"f3g | "Bb"a2f2 "C"g2e2 |1 "F"f6 :|2 "F"f8 |]
+
+
+%%sep 5 1 500
+% Source: sources/jc/PatShaw/NewWineInOldBottles.abc
+
+X:29
+T: Sulters of Selkerks
+P: Longways for &c.
+R: minuet, waltz
+B: "Caledonian Country Dances" printed by John Walsh for John Johnson, London
+S: 1: http://imslp.org/wiki/Caledonian_Country_Dances_with_a_Thorough_Bass_(Various) p.44
+Z: 2013 John Chambers <jc:trillian.mit.edu>
+N: This tune has 3- and 6-bar phrases.
+M: 3/4
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 1
+|:\
+Bc d2 e2 | d2 B2 g2 | (ed)(cB)(AG) | Bc d2 e2 |\
+d2 B2 g2 | Tf4 A2 | Bc d2 e2 | d2B2g2 |\
+(ed)(cB)(AG) | c3 d e2 | d2 B2 g2 | Tf4 A2 :|
+|:\
+g2 G2 B2 | g2 f2 e2 | d2 B2 G2 | g2 G2 B2 |\
+{ef}g2 Tf2 e2 | Tf4 A2 | g2 G2 B2 | g2 f2 e2 |\
+d2 g2 B2 | c3 e (c/d/)e | d2 B2 g2 | Tf4 A2 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 2 clef=bass middle=d
+|:\
+ga b2 c'2 | b2 g2 b2 | c'2 e'2 c'2 | ga b2 c'2 |\
+b2 g2 c'2 | d'2 defd | ga b2 c'2 | b2 g2 b2 |\
+c'2 e'2 c'2 | a2 f2 d2 | g4 G2 | d6 :|
+|:\
+G4 gf | e2 d2 c2 | B4 c2 | G4 gf |\
+e2 d2 c2 | dedcBA | G4 gf | e2 d2 c2 |\
+B4 g2 | a2 f2 d2 | g4 G2 | d6 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+The 1st Cu. lead off behind the 2d Cu. and go the figure of 8 till they come to
+their own Places. then 2d Cu cast up, and go the figure till they come in their
+own Places. The two Men take hands and lead thro' and then go about their
+own Partners into their own Places. the 1st Cu. take Hands and lead thro'
+below the 2d Cu. and cast up again. the two We. lead thro between the two
+Men. then the 1st Cu cast below 2d Cu. lead thro' and cast off again.
+%%endtext
+
+%%sep 2 1 500
+%%sep 1 1 500
+% Source: sources/jc/CCD/alltunes.abc
+
+X:30
+T: Tweedside
+P: Longways for as many as will
+R: minuet
+B: "Caledonian Country Dances" printed by John Walsh for John Johnson, London
+S: 1: http://imslp.org/wiki/Caledonian_Country_Dances_with_a_Thorough_Bass_(Various) p.39
+Z: 2013 John Chambers <jc:trillian.mit.edu>
+N: This tune has 3-bar phrases.
+M: 3/4
+L: 1/8
+K: A
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 1
+cB |\
+A2 E2 F2 | A3 B (A/B/)c | B4 cB |\
+A2 E2 F2 | A3 B cB | A4 |]
+cd |\
+e2 (dc)(BA) | e2 (fe)(dc) | B4 cd |\
+e2 c2 A2 | AGABcd | e4 (f/g/a) |
+e2 (dc)(BA) | f2 (ed)(cd) | B4 AB |\
+c2 (dc)(BA) | d2 B3 A | A4 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 2 clef=bass middle=d
+a2 |\
+c4 d2 | c2 d2 A2 | e4 a2 |\
+c4 d2 | c2 d2 e2 | A4 |] a2 |\
+c2 e2 a2 | c2 d2 A2 | e4 a2 |\
+c2 e2 a2 |
+d4 cB | A4 d2 |\
+c2 e2 a2 | d2 A2 a2 | e2E2 cB |\
+A2 a2 c2 | B2 e2 E2 | A4 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+First Man dance the Minuet Step with the 2d Wo .|
+right and left with the 3d Cu. :|
+then the 1st Man turn the 3d Wo. and the 1st Wo. with the 2d Man and then his own Partner .|
+then the 1st Man turn the 2d Wo. and the 1st Wo. the 3d Man and turn Partners :|
+%%endtext
+
+%%sep 2 1 500
+%%sep 1 1 500
+% Source: sources/jc/CCD/alltunes.abc
+
+X:31
+T: The Yellow Hair'd Laddie
+P: Longways for &c.
+R: minuet, waltz
+B: "Caledonian Country Dances" printed by John Walsh for John Johnson, London
+S: 1: http://imslp.org/wiki/Caledonian_Country_Dances_with_a_Thorough_Bass_(Various) p.64
+Z: 2013 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: D
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 1
+DE |\
+(FG) A2 (Bc) | (dc)(de) (d/e/f) | A2 (BA)(GF) | E4 (DE) |\
+(EF) A2 (Bc) | (dc)(de) (d/e/f) | A2 (gf)(ed) | d4 |]
+(de) |\
+(fg)(af)(ed) | (cd)(ec)(BA) | (Bc)(dB)(AG) | E4 (DE) |\
+(EF) A2 (Bc) | (dc)(de) (d/e/f) | ABAFED | D4 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 2 clef=bass middle=d
+z2 |\
+d2 f2 g2 | f3  e d2 | c2 d2 G2 | A6 |\
+d2 f2 g2 | f3  e d2 | fg a2 A2 | d4 |]
+z2 |\
+d2 f2 d2 | A2 c2 A2 | G2 B2 G2 | A6 |\
+d2 f2 g2 | f3  e d2 | fg a2 A2 | d4 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+The 1st Cu. lead thro the 2d Cu. & turn in their own Places, then back to Back and turn .|
+The 2d Cu. do the same with the 3d Cu. :|
+Then the 1st Cu cast behind the 3d Cu. and lead up to the Top and turn :|
+then Back to Back and Right Hand & Left to the end of the Tune |
+%%endtext
+% Source: sources/jc/CCD/alltunes.abc

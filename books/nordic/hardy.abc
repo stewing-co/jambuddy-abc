@@ -1,0 +1,328 @@
+% Paul Hardy's Tunebooks: Swedish & Nordic tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T:Appelbo Ganglat
+T:Gånglåt Från Äppelbo
+T:Swedish Walking Tune
+R:March
+C:Trad. 2nds M Arnberg, 3rds J McKenzie
+O:Sweden, Dalarna
+Z:Paul Hardy's Parts Tunebook 2024 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+L:1/8
+M:2/2
+Q:1/2=80
+U:t=tenuto
+%%score [1|2|3]
+K:G
+V:1
+%%voicecolor black
+%%MIDI program 23 % Tango Accordion
+D2|"G" G2 GD G2 B2|d4 d2 Bc|d2 dB d2 de|"D" cd cB A2 AB|
+"D" c2 cd e2 dc|"G" BcBA G2 FG|"D" ABAF D2 EF|"G" G4 G2:|
+|:Bd|"G" g2 g2 g2 fe|"D" f2 f2 f2 gf|"C" e2 e2 egfe|e2"D" d^c"G" d2 =cB|
+"D7" c2 cB A2 GA|"G" BcBA G2 FG|"D" ABAF D2 EF|"G" G4 G2:|
+V:2
+%%voicecolor maroon
+%%MIDI program 22 % Harmonica
+D2|B,2 G,2 B,2 D2|G4 G2 GA|B2 BG B2 Bc|ABAG F2 FG|
+A2 AB c2 BA|GAGD B,2 D2|FGFD A,2 CA,|B,4 B,2:|
+|:DG|B2 B2 B2 AG|A2 A2 A2 BA|c2 c2 cedc|c2 BA B2 AG|
+A2 AG F2 EF|G2 DB, G,B,DG|F2 FD A,2 CA,|B,4 B,2:|
+V:3
+%%voicecolor teal
+%%MIDI program 32 % Acoustic Bass
+GA|.B2 B2 d2 d2|tB2 B2 G3 F|G3 E G2 EF|A2 FE D2 F2|
+.A2 A2 c2 A2|tG2 G2 D3 B,|D3 A F2 E^C|DE FE D2:|
+|:GA|.B2 B2 d2 B2|.A2 A2 d3 A|.c2 c2 cBAG|A4- ABAG|
+.F2 F2 D2 F2|tG2 G2 D3 B,|D2 FA BAGF|[DG]6:|
+% Source: sources/hardy/pgh_parts_tunebook.abc
+
+X:2
+T:Appelbo Ganglat
+T:Gånglåt Från Äppelbo
+T:Swedish Walking Tune
+R:March
+C:Trad.
+O:Sweden; Dalarna
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:2/2
+L:1/8
+Q:1/2=80
+K:G
+D2|"G" G2 GD G2 B2|d4 d2 Bc|d2 dB d2 de|"D" cd cB A2 AB|
+"D" c2 cd e2 dc|"G" BcBA G2 FG|"D" ABAF D2 EF|"G" G4 G2:|
+|:Bd|"G" g2 g2 g2 fe|"D" f2 f2 f2 gf|"C" e2 e2 egfe|e2"D" d^c"G" d2 =cB|
+"D7"c2 cB A2 GA|"G" BcBA G2 FG|"D" ABAF D2 EF|"G" G4 G2:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:3
+T:Boda Waltz
+R:Waltz
+C:Trad.
+O:Sweden, Dalarna
+Z:Paul Hardy's Parts Tunebook 2024 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:3/4
+L:1/8
+Q:1/4=120
+%%score [1|2|3]
+K:G
+V:1 clef=treble
+%%voicecolor black
+%%MIDI program 23 % Tango Accordion
+"Em"B3 c BA|B3 c BA|B4 e2|B3 B ef|"C"g4 g2|"B7"f4 e2|"Bm"f3 g f2|"Em"B6|
+"C"e4 e2|"D"d4 c2|"Em"B4 A2|G3 E GA|B3 A GB|"B7"A3 G FB|"Em"E6|+fine+ E6||
+"C"e4 e2|g3 f e2|"G"d6|B6|"D7"A3 B c2|c3 B A2|"G"B4 c2|d6|
+"C"e4 e2|g3 f e2|"G"d6|B6|"D7"A3 B c2|D2 E2 F2|"G"G3 A GF|!D.C.!G6|]
+V:2 clef=treble-8
+%%voicecolor maroon
+%%MIDI program 42 % Cello
+G3 A GF|G3 A GF|E4 G2|G3 E GB|e4 e2|^d4 e2|d3 e d2|B6|
+c4 c2|B4 A2|G4 F2|E4 F2|G3 F EG|F3 E ^DF|E6|E6||
+c4 c2|e3 d c2|B6|G6|F3 G A2|A3 G F2|G4 A2|B6|
+c4 c2|e3 d c2|B6|G6|d4 d2|d2 ^c2 =c2|B4 c2|B6|]
+V:3 clef=treble-8
+%%voicecolor teal
+%%MIDI program 32 % Acoustic Bass
+E6|E6|E6|E6|C6|B,6|B,6|B,6|
+C6|G6|G6|E6|E6|A6|E6|E6||
+C4 C2|C4 C2|G,6|G,6|D4 D2|D4 D2|G,4 D2|G,6|
+C4 C2|C4 C2|G,6|G,6|D4 D2|D4 D2|G,4 G,2|G,6|]
+% Source: sources/hardy/pgh_parts_tunebook.abc
+
+X:4
+T:Boda Waltz
+R:Waltz
+C:Trad.
+O:Sweden
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/8
+Q:1/4=130
+K:Em
+"Em"B3 cBA|B3 cBA|B4 e2|B3 Bef|"C"g4 g2|"B7"f4 e2|"Bm"f3gf2|"Em"B6|
+"C"e4 e2|"D7"d4 c2|"Em"B4 A2|G3 EGA|B3 AGB|"B7"A3 GFB|"Em"E6-|+fine+E6||
+"C"e4 e2|g3 f e2|"G"d6|B6|"D7"A3 B c2|c2 B2 A2|"G"B4 c2|d6|
+"C"e4 e2|g3 f e2|"G"d6|B6|"D7"A3 B c2|D2 E2 F2|"G"G3 AGF|+D.C.+G6|]
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:5
+T:Emma
+T:Muistoja Karpaateilta
+R:Waltz
+C:Trad.
+O:Finland
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/4
+Q:1/4=140
+K:Em
+E/2G/2|"Em"B>cB|G E E/G/|B c/B/A/B/|G E G|"B"F2 F/2G/2|A G F|"Em"E>F G/2A/2|B2 E/2G/2|
+B>cB|G E E/G/|B c/B/A/B/|G E G|"B7"F2 F/2G/2|A G F|"Em"E>F G/2F/2|E2:|
+|:B|"C"e>e e|e d c|"G"B>B B|B A G|"B"F2 F/2G/2|A G F|"Em"E>F G/2A/2|B>E G/2B/2|
+"Am"c>c c|c d c|"Em"B>A B/2c/2|B A G|"B7"F2 F/2G/2|A G F|"Em"E>F G/2F/2|E2:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:6
+T:Gangar
+T:Gånglåt fra Smaalenen
+R:March
+C:Trad.
+O:Norway, Østfold
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+N:Popularised by Cutting/Walther
+M:4/4
+L:1/8
+Q:1/4=90
+K:G
+FE|"G"D2G2 "Em"G2AB|"Am"c2Bc "D"A2dc|"G"BABG "Em"E2FG|"Am"AGFE "D"EFD2|
+"G"D2G2 "Em"G2AB|"C"c2Bc "D"A2dc|"Em"BABG "C"E2FG|"G"GD "D7"BA "G"G2:|
+|:Bc|"G"d2d2 "Em7"d2ed|"C"c2Bc "D"A2dc|"G"BABG "Em"E2FG|"Am"AGFE "D"EFD2|
+"G"d2d2 "Bm"d2ed|"C"c2Bc "D"A2dc|"G"BABG "C"E2FG|"G"GD "D7"BA "G"G2:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:7
+T:Gaudete
+R:Air
+C:Trad. - Piae Cantiones, 1582
+O:Sweden
+Z:Paul Hardy's Xmas Tunebook 2019 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:2/2
+L:1/8
+Q:1/2=110
+K:C
+"Am"A4 A4|"G"G4 A2 B2|"Am"c4 c2 B2-|"G"B2 A2 G4|G4 G4|"Am"A4 "G"B4-|[M:6/4]B2 A2 G4 A2 B2-|[M:2/2]B2 A2 G4|"Am"A4 y+fine+A4||
+"Am"A2 A2 G2 A2|c2 B2 A4|"Dm"A2 F2 E2 F2|D4 D4|D2 D2 F2 D2|F2 G2 A4|"Am"c2 A2 "G"B2 c2|"Am"A4 A4|]
+W:Gaudete! Gaudete!
+W:Christus est natus ex Maria virgine. Gaudete!
+W:
+W:Tempus adest gratiae, hoc quod optabamus;
+W:Carmina laetitiae devote reddamus.
+% Source: sources/hardy/pgh_xmas_tunebook.abc
+
+X:8
+T:Good King Wenceslas
+R:March
+C:Trad. - Piae Cantiones, 1582
+O:Sweden
+Z:Paul Hardy's Xmas Tunebook 2019 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:4/4
+L:1/4
+Q:1/4=180
+K:G
+"G"G G G A|G G D2|"C"E D "D7"E F|"G"G2 G2:|
+"G"d c B A|"Em"B A G2|"C"E D "D7"E F|"G"G2 G2|
+"D"D D E F|"G"G G "D7"A2|"G"d c B A|"Em"G2 "C"c2|"G"G4|]
+W:Good King Wenceslas looked out
+W:On the feast of Stephen
+W:When the snow lay round about
+W:Deep and crisp and even
+W:
+W:Brightly shone the moon that night
+W:Though the frost was cruel
+W:When a poor man came in sight
+W:Gath'ring winter fuel
+W:
+W:(John Mason Neale, 1853, after Czech poem)
+% Source: sources/hardy/pgh_xmas_tunebook.abc
+
+X:9
+T:One Time In My Youth
+T:En Gång I Min Ungdom
+T:Smedsvisa från Uppland
+R:Quintuple
+C:Trad., Arr. John McKenzie 2019
+O:Sweden, Uppland
+Z:Paul Hardy's Parts Tunebook 2024 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+L:1/4
+Q:1/2=70
+M:5/2
+%%score [1|2|3]
+K:C
+V:1 clef=treble
+%%voicecolor black
+%%MIDI program 23 % Tango Accordion
+%%MIDI beatstring fmpfm
+%%MIDI gchord cfcfcfcfcf
+"C" c2 G G/F/ E c "F" A A/G/ A2|c2 A A/c/"G" B B/d/ "Am" c B/A/"G7" G2|"C" c2 G G/F/ E c "F" A A/G/ A2|c2 A A/c/"G7" B B/d/ "C" c2- c2||
+"C" e2 c c/d/ e c "G" d d/B/ G2|"F" A2 F F/G/ A F "Em" G G/E/"C" C2|"C" c2 G G/F/ E c "F" A A/G/ A2|c2 A A/c/"G7" B B/d/ "C" c2- c2|]
+V:2 clef=treble
+%%voicecolor maroon
+%%MIDI program 22 % Harmonica
+G z C E/D/ C G F F/E/ F C|A z C E/F/ G D E E/C/ B, G,|G z C E/D/ C G F F/E/ F C|A z C F/A/ G D C C/E/ G2||
+c z E G/B/ c G B B/G/ D B,|F z C C/D/ F D E E/B,/ A, G,|G z C E/D/ C G F F/E/ F C|A z C F/A/ G D E2- E2|]
+V:3 clef=treble-8
+%%voicecolor teal
+%%MIDI program 32 % Acoustic Bass
+C2 E E/F/ G E .C C/A,/ C2|F2 A A/F/ D G A G/E/ D2|C2 E E/F/ G E .C C/A,/ C2|F2 A A/F/ D F G G/B/ c2||
+G2 C C/D/ G E .G G/D/ B,2|c2 A A/B/ c A B B/G/ E2|C2 E E/F/ G E .C C/A,/ C2|F2 A A/F/ D G/B/ c2- !fermata![CEGc]2|]
+% Source: sources/hardy/pgh_parts_tunebook.abc
+
+X:10
+T:One Time In My Youth
+T:En Gång I Min Ungdom
+T:Smedsvisa från Uppland
+R:Quintuple
+C:Trad.
+O:Sweden; Uppland
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:5/2
+L:1/4
+Q:1/2=75
+K:C
+%%MIDI beatstring fmpfm
+%%MIDI gchord cfcfcfcfcf
+"C" c2 G G/F/ E c "F" A A/G/ A2|c2 A A/c/"G" B B/d/ "Am" c B/A/"G7" G2|"C" c2 G G/F/ E c "F" A A/G/ A2|c2 A A/c/"G7" B B/d/ "C" c2- c2||
+"C" e2 c c/d/ e c "G" d d/B/ G2|"F" A2 F F/G/ A F "Em" G G/E/"C" C2|"C" c2 G G/F/ E c "F" A A/G/ A2|c2 A A/c/"G7" B B/d/ "C" c2- c2|]
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:11
+T:Sommarvals
+T:Summer Waltz
+R:Waltz
+C:Ale Möller, 1996
+O:Sweden
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/4
+Q:1/4=120
+K:G
+d c|"G"B3/2 A/ G|"D"A2 F|"G"G3|"C"E3/2 F/ E|"G"D G A|"Am"c2 B|(3B/c/B/ A G|
+"D7"A d c|"G"B3/2 A/ G|"D"A2 F|"G"G3|"C"E3/2 F/ E|"G"D E G|"D7"G2 F|"G"G3-|G:|
+|:FG|"D"A3/2 A/ A|A F D|"D7"c3|"G"B3/2 A/ G/F/|"Am"E A/B/ c|"Bm"d3/2 c/ B/A/|"Em"G F G|
+"D"A B A|"Em"G3/2 A/ G|"Bm"F3/2 G/ F|"C"E3/2 F/ E|"D"D G A|"G"B3/2 A/ G|"D7"A/B/4c/4 dF|"G"G3-|G:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:12
+T:Streamers and Confetti
+T:Serpentiner och Konfetti
+R:Reijländer
+C:Mats Edén 1982
+O:Sweden
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:2/2
+L:1/8
+Q:1/2=75
+K:D
+AG|"D"FGAF "G"GABG|"Em"EFGA "D"F2Dd|"A"cded c3B|"G"BABc B2AG|
+"D"FGAF "G"GABG|"Em"EFGA "D"F2Dd|"A"cded cABc|"A7"e2dc "D"d2:|
+|:de|"D"f2f2 "G"g2fg|"D"agfg adfa|"G"b2b2 g3f|"A7"eceg "D"f2de|
+"D"f2f2 "G"g2fg|"D"agfg adfa|"G"b2b2 "A7"gfec|e2dc "D"d2:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:13
+T:Swedish Masquerade
+R:March, Waltz, Polka
+C:Trad.
+O:Denmark
+N:Danish parody of Swedish dance style
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:2/2
+L:1/8
+Q:1/2=75
+K:G
+R:March
+D2|"G"G4 G3G|G4 "D7"A2c2|"G"B4 B3B|B4"C"c2e2|"G"e2d2 B2d2|"D7"d2c2 A2F2|"G"G4 G3G|G2D2"D7"D2:|
+Q:1/4=150
+M:3/4
+R:Waltz
+|:Bc|"G"d2B2ge|d2B2ed|"D7"c2A2BA|"G"GFGABc|d2B2 ge|d2B2ed|"D7"c2A2F2|"G"G4:|
+Q:1/4=180
+M:4/4
+R:Polka
+|:Bc|"G"d2B2 g2>e2|d2B2 G2AB|"D7"cBAG FGAc|"G"e2d2 B2Bc|d2B2 g2>e2|d2B2 G2AB|"D7"cBAG FGAB|"G"G6:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:14
+T:Tribute to Lennart
+R:Hornpipe
+C:Lennart Alfredsson
+N:Lennart Alfredsson (1958-2018) was a founder member of Eken Morris in Stockholm in 1979.
+O:Sweden
+Z:Paul Hardy's Possible Tunebook 2026 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+(3DEF|"G"Gd BG "D"Dc AF|"G"Gg fg "Em"e2 "D"d2|"C"cd ec "G"Bc dB|"D"AG AB "D7"AD EF|
+"G"Gd BG "D"Dc AF|"G"Gg fg "Em"e2 "D"d2|"C"cd ec "G"Bc dB|"D7"A2 f2 "G"g2:|
+|:(3def|"G"g2 dc BA GB|DG Bd "D"DF Ac|"G"GB dg "C"e2 "D7"(3def|
+"G"g2 dc BA GB|DG Bd "D"DF Ac|"C"ed "D7"cF "G"G2:|
+% Source: sources/hardy/pgh_possible_tunebook.abc
+
+X:15
+T:Will You Patch My Pants For Me?
+T:Hedgehog Skin; Igelkottaskinnet
+R:Polka
+C:Trad.
+O:Sweden, via USA
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:2/2
+L:1/8
+Q:1/2=70
+K:D
+A|"D"A2 d2 d2 ed|"G"d2 cB "A"cB A2|ce e2 e2 ag|"D"f3e fe dc|
+"G"B2 B2 BdcB|"D"B2 AG F3A|"A"A2 ce "A7"gece|"D"d2 fe d3:|
+|:f|"D"a2 a2 a2 ba|"A"a2 gf gfef|"G"g2 g2 g2 ag|"D"f3e fedc|
+"G"B2 B2 BdcB|"D"B2 AG F3A|"A"A2 ce "A7"gece|"D"d2 d2 d3:|
+% Source: sources/hardy/pgh_session_tunebook.abc

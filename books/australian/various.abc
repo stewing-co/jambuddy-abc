@@ -1,0 +1,325 @@
+% Various collections: Australian tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T: Cecil Teague's Polka Mazurka
+O:Moonan Flat, NSW
+K: Gmajor
+M: 3/4
+|:(3 gfe |"G" d2 B2 (3cBA |"C" E2 E2 D>G|"D" A2 A2 B>c|"G" B4 (3gfe|
+"G" d2 B2 (3cBA|"C" E2 E2 D>G|A2 A>B c>A |"G" G4 :|
+|:D>G|"G" B2 B2 (3cBA |"C" E2 E2 D>G|"D" A2 A>B c>A|"G" B4 D>G|
+"G" B2 B2 (3cBA|"C" E2 E2 D>G|"D" A2 A>B c>A|"G" G4:|
+% Source: sources/github-com/ian-hayden/abc-music-files/Australian tunes/Cecil Teague's Polka Mazurka.abc
+
+X:2
+T:Click Go the Shears
+O:Australia
+L:1/8
+Q:1/4=116
+M:4/4
+I:linebreak $
+K:C
+%
+"C" EE GG C C3 |"F" c2 c>B A2 z c |$"Dm" D2 DE FG BA |"G7" G2 D2"C" E2 z E |$
+w:Twen- ty thou- sand a- cres|sounds like a lot. It|ain't when you're gra- zin' all the|sheep we've got. There's|
+"C" E/2E/2E B,B, C C2 C |"F" c2 cB A2 z c |$"G7" dc BA GF ED |"C" C2"F" c2"C" c2 z2 ||$
+w:plen- ty O' food and wa- ter, so|they nev- er kick. They're|hap- py till they hear the shears go|click, click, click.|
+"^Refrain" "G7" d2 d>c B2 G2 |"C" c2 e2 c2 z2 |$"F" A2 F>F c2 A>A |"C" GE cc"G7" D2 CD |$
+w:Click go the shears, boys,|click, click, click.|Wide is the blow and his|hands are mov- ing quick. Oh, you|
+"C" E E2 B, C2 CC |"F" c2 c>B A2 z c |$"G7" dc BA GF ED |"C" C2"F" c2 "C" c2 z2 |]
+w:pull out a sheep and he|lands you a kick, and|still you hear the shears a- go- ing|click, click, click.|
+%
+W: 2. You take off the belly wool anf finikle out the crutch
+W: Then you go up the neck, for the rules they are such,
+W: You clean 'round the horns and the first shoulder down,
+W: A long blow up the back and then you turn around.
+W: (Refrain)
+W:
+W: 3. And when the shearing's over and we've all got our check
+W: We'll roll up our blueys and we're off on the track.
+W: The first town we come to, well, there we'll have a spree,
+W: And ev'ry one that comes along 'll join in with me.
+W: (Refrain)
+%
+% Source: sources/dmc-lizmilner-com/pages/viewabc.vbhtml_8fe956aa.abc
+
+X:3
+T:The Fern Glade
+M:4/4
+L:1/8
+Q:q
+C:Sean Kenan (28 Dec 1985) Australia
+R:Reel
+O:Australia
+Z:Alex Burke Canberra 10/01/2001
+K:G
+"G"G3 B "D" AGFA | "C" G ~E3 "Em" B, ~E3 | "G" G ~B3 dBGF |"D" DFAF AcFA
+ |
+"G" GFGB "D" AGFA | "C" G ~E3 "Em" BGEB|"G"(3(GFE) B,A, "Em" B,EEF
+|1"G" GBFG "C" E2 DF:||2 "G" GBFG "C" E2 GB| |
+"Em" eBef "G" ~g2 fg |"Em"ebge "G" bgeg| "D" ~f3  a "G" gfdB | "C"cBcd "
+D"A GA
+ |=20
+"G" B ~G3  "D" cAFA | "G" BGED "Em" B, ~E3 |"G"(3(GFE) B,A, "Em" B
+,EEF| "G" GBFG "C" E2 GB :||
+% Source: sources/lesession-co-uk/music/woodenflute.abc
+
+X:4
+T:The Fern Glade - Harmony
+M:4/4
+L:1/8
+Q:q
+C:Sean Kenan (30 Dec 1985) Australia
+R:Reel
+O:Australia
+Z:Alex Burke Canberra 2001
+K:G
+"G"~B3 G "D" FGAF | "C" E ~G3 "Em"EDEG | "G" B ~G3 AGBA |"D" FADA (3(D
+EF) AF |
+"G"EABG "D"FGAF | "C" B, ~E3 "Em" EDEG |"G"(3(BAG) ED "Em" EGGA
+|1"G" BGAB "C" G2 FA:||2 "G" BGAB "C" G2 Bd||
+"Em" gega "G" ~b2 ab |"Em" geBg "G" eBge| "D" ~d3  A "G" BAGF | "C" GFGA
+"D" F2
+EF|
+"G" G ~B3  "D" dcAd | "G" gdBG "Em" E ~G3 | "G"(3(BAG)  ED "Em" EGG
+A| "G" BGAB "C" e2 Bd :||
+% Source: sources/lesession-co-uk/music/woodenflute.abc
+
+X:5
+T: Hokey Pokey
+O: Australian Folk Dance
+S: Viola Ruth "Pioneer Western Folk Tunes" 1948 p.36 #2
+R: reel, march
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+N: The book has M:4/4, but doubling the bar lines makes it fit better on differently-shaped pages or screens.
+M: 2/4
+L: 1/8
+K: G
+%%continueall yes
+V: 1 name="103"
+"_Lively"D | GGGG | B3D | GGGG | B3D |
+w: 1.~You put your right hand in, You put your right hand out, You
+GGGG | B2(BG) | FEFG | A3D | FEFG | AAAD |
+w: put your right hand in And you shake it all a-bout, You do the Ho-key Po-key Then you
+F2G2 | A4 |[1 D2DD | E2F2 | G4- | G3 :|[2 d2dd | e2f2 | g4- | g3 |]
+w: turn a-round. That's what it's all a-bout.* That's what it's all a-bout.*
+%%begintext align
+%% The rest of the verses just change "right hand" to some other body part.
+%% The book uses left hand, right foot, left foot, right side, left side, front side, back side, and head.
+%% Adapt the words to fit your crowd.
+%% Don't take the 2nd ending's higher octave too seriously.
+%%endtext
+
+%%sep 1 1 500
+% Source: sources/jc/ViolaRuth/PWFT.abc
+
+X:6
+T:Honey-Ant Song of Ljaba
+O:Central Australia
+G:song
+B:Charles Haywood, Folk Songs of the World
+M:6/8
+L:1/8
+Q:3/8=108
+K:C
+% lydian/major/mixolydian pentatonic
+e|(2(ed) (dc)c|c2c c3| c2 c c2:|
+e|(2(ed) (dc)c|c2c c3| c2 c c2c|
+  (2(AG) (GE)E|E2E E3|(ED)D C2E|
+     E3   E2 E|E2E E3|(ED)C C2C|
+     C3   C2 C|C2C C3| C2 C C2E|
+     E3   E2 E|E2E E3|(ED)C C2C|
+     C3   C2 C|C2C C3| C2 C C3|]
+
+Here's a bagpipe tune intended to sound Chinese.  It works since the pentatonic
+scale used is one also found in Chinese music.
+% Source: sources/campin-me-uk/Music/Modes/Modes-penta.abc
+
+X:7
+T:Jim French's Step Tune
+S:collected from Jim French, Moree NSW
+N:collected by Chris Sullivan
+N:Jim learnt the tune from Cecil Madden at Caroona Mission, near Quirindi NSW
+O: Moree NSW
+Q:1/4=170
+M:4/4
+L:1/8
+K:G
+A|"G"GBdB "D"~c2BA|"G"GBdB"D"c2A2|"G"GBdB"D"~c2A2|"D"FGAF D3A|
+"G"GBdB "D"ce BA|"G"GBdB "D"c2A2|"G"BdBG "D"DFAA|"G"G2Bdg2z2|
+"G"zGBd g2d2|"C"fece "G"d3d|defg "Am"a3a|agfe"D"d3z|
+"G"zGBd g2d2|"C"fece "D"d3c|"G"BdBG "D"DFAA|"G"G2Bdg4|]
+% Source: sources/github-com/ian-hayden/abc-music-files/Australian tunes/Jim French's Step Tune.abc
+
+X:8
+T:Knight of the Teapot
+O:Australia
+M:7/8
+C:Bill Anderson
+K:Cm
+|:GFGEDB,C|DEFE2DC|DEFE2DC|B,CDEFG_A|
+GFGEDB,C|DEFE2DC|DEFE2DC|B,G,B,C4:|
+|:CB,CE2F2|GFGF2E2|DE2D2C2|B,G,F,G,3B,|
+CB,CE2F2|FG2F2E2|DE2D2C2|B,G,B,C4:|
+|:FG2F2E2|DE2D2C2|DEFE2DC|B,G,F,G,4|
+B,G,B,C2D2|EF_GF2E2|CDEFEDC|B,G,B,C4:|
+% Source: sources/andyhornby-net/Thursday_night/greekturk_.abc
+
+X:9
+T:Mudgee Waltz
+R:Waltz
+C:Trad.
+O:Australia
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/8
+Q:1/4=140
+K:D
+AG|"D"F3 G A2|D2 E2 F2|"Em"G4 B2|E4 A2|"A7"c3 B A2|G2 F2 E2|"D"F2 G2 B2|"A"A4 AG|
+"D"F3 G A2|D2 E2 F2|"Em"G4 B2|"A"E4 A2|"A7"c3 B A2|G2 F2 E2|"D"D2 A2 F2|D4 "A"A2||
+"D"f3 e d2|F2 A2 d2|"G"c4 B2|"Em"E4 A2|"A"c3 B A2|G2 F2 E2|"D"F2 G2 B2|"A"A4 A2|
+"D"f3 e d2|F2 A2 d2|"G"c4 B2|"Em"E4 A2|"A"c3 B A2|G2 F2 E2|"D"D2 A2 F2|D4|]
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:10
+T:Orataba Waltz
+R:Waltz
+C:Trad.
+O:Australia
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/4
+Q:1/4=140
+K:G
+d/c/|"G"BDD|G2B|"Am"AEE|A2G|"D"FAc|f2 e/f/|"G"ed>d|"D"d2 d/c/|
+"G"BDD|G2B|"Am"AEE|A2 d/e/|"D"fed|c F>G|"G"G>A G/F/|G2B/A/||
+"G"GB>c|dg>g|"D"fAB|c2 f/g/|fAB|c2 e/f/|"G"ed>d|"D"d2 B/A/|
+"G"GB>c|dg>g|"D"fAB|c2 d/e/|fed|cF>G|"G"G>A G/F/|"G"G2|]
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:11
+T:Waltzing Matilda
+M:4/4
+C:
+S:
+N:used for Adderbury A.N. Other
+A:Seabright
+O:Australia
+R:Reel
+%P:A/2(AB)$^4$(A)
+P:A.(AB)4(A)
+K:G
+I:speed 400
+L:1/8
+P:A
+G>A | B2 B2  A2 A2 | G>AB>G E>F (3GFE | D2 G>B d2 c>B | A2 A>B A2 \
+G>A | B2 B2  A2 A2 | G>AB>G E>F (3GFE | D2 G>B d2 c>B | A2 G>F G2 ||\
+P:B
+z2  | d2 d>d d2 B2 | g2 g>g f2  e2    | d2 d>d e2 d2  | d2 c>B A2 \
+G>A | B2 B2  A2 A2 | G>AB>G E>F (3GFE | D2 G>B d2 c>B | A2 G>F G2 ||
+% Source: sources/ucolick-org/_sla/morris/music/Adderbury/waltzm.sms.abc
+
+X:12
+T:Waltzing Matilda
+M:4/4
+C:
+S:Barbara and Joe
+N:as used by Seabright 2009
+A:Field Town
+O:Australian
+R:Reel
+%P:A/2.(AB)$^3$
+P:A.(AB)3
+K:G
+I:speed 400
+P:A
+G>A | B2 B2  A2 A2 | G>A B>G E>F (3GFE | D2 G>B d2 c>B | A2 A>B A2 
+G>A | B2 B2  A2 A2 | G>A B>G E>F (3GFE | D2 G>B d2 c>B | A2 G>F G4 ||
+P:B
+      d2 d>d d2 B2 | g2  g>g f2  e2    | d2 d>d e2 d>d | d2 c>B A2 
+G>A | B2 B2  A2 A2 | G>A B>G E>F (3GFE | D2 G>B d2 c>B | A2 G>F G4 ||
+% Source: sources/ucolick-org/_sla/morris/music/FieldTown/waltzmat.abc
+
+X:13
+T:Wellerman, The
+R:Shanty
+C:Trad.
+O:New Zealand
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+N:See two-part and words version in Paul Hardy's Songs Tunebook.
+M:4/4
+L:1/8
+Q:1/4=130
+K:D
+F2|"Bm"B,2B,B, B,2D2|F2F2 F2FF|"Em"G2EE E2GG|"Bm"BBF2 F2|
+zF|"Bm"B,2CC D2EE|"F#m"FFF2 F2FF|"Bm"F2 E2 "F#m"DD C2|"Bm"B,6||
+"^Chorus"z2|"Bm"B4 "Em"B3G|"F#m"AAF2 F3F|"Em"G2E2 EFG2|"Bm"B2F2 F2|
+z2|"Bm"B4 "Em"B2GG|"F#m"AA F2 F3F|"Bm"F2E2 "F#m"D2C2|"Bm"B,6|]
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:14
+T:Wellerman, The
+R:Shanty
+C:Trad. Arr PGH after Mia Asano
+O:New Zealand
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=130
+K:D
+%%score [1|2]
+V:1
+%%voicecolor black
+%%MIDI program 23 % Tango Accordion
+F2|"Bm"B,2B,B, B,2D2|F2F2 F2FF|"Em"G2EE E2GG|"Bm"BBF2 F2|
+zF|"Bm"B,2CC D2EE|"F#m"FFF2 F2FF|"Bm"F2 E2 "F#m"DD C2|"Bm"B,6||
+"^Chorus"z2|"Bm"B4 "Em"B3G|"F#m"AAF2 F3F|"Em"G2E2 EFG2|"Bm"B2F2 F2|
+z2|"Bm"B4 "Em"B2GG|"F#m"AA F2 F3F|"Bm"F2E2 "F#m"D2C2|"Bm"B,6|]
+V:2
+%%voicecolor maroon
+%%MIDI program 73 % Flute
+A2|B2 BA Bcde|f2 f e f3 f|gfed efga|b2 ba b2|
+BA|B2 BA Bcde|e f2 e f2 f2|faba bc'd'c' &FABA Bcdc|d'c'ba b2 & dcBA B2||
+bf & BF|g2 gf gabc' & G2 GF GABc|d'c'ba f3 f & dcBA F3 F|edef gfed|efed B2|
+BF|GFGA Bcde|e f2 e f2 f2|fafe dedc|B6|]
+W:There once was a ship that put to sea
+W:And the name of that ship was the Billy o' Tea
+W:The winds blew hard, her bow dipped down
+W:Blow, me bully boys, blow
+W:
+W:Soon may the Wellerman come
+W:To bring us sugar and tea and rum
+W:One day, when the tonguing' is done
+W:We'll take our leave and go
+W:
+W:She had not been two weeks from shore
+W:When down on her a right whale bore
+W:The captain called all hands and swore
+W:He'd take that whale in tow ...
+W:
+W:Before the boat had hit the water
+W:The whale's tail came up and caught her
+W:All hands to the side, harpooned and fought her
+W:When she dived down below ...
+W:
+W:No line was cut, no whale was freed
+W:And the captain's mind was not on greed
+W:But he belonged to the Whaleman's creed
+W:She took that ship in tow ) ...
+W:
+W:For forty days or even more
+W:The line went slack then tight once more
+W:All boats were lost, there were only four
+W:And still that whale did go ...
+W:
+W:As far as I've heard, the fight's still on
+W:The line's not cut, and the whale's not gone
+W:The Wellerman makes his regular call
+W:To encourage the captain, crew and all
+W:
+W:Soon may the Wellerman come
+W:To bring us sugar and tea and rum
+W:One day, when the tonguing' is done
+W:We'll take our leave and go
+% Source: sources/hardy/pgh_songs_tunebook.abc

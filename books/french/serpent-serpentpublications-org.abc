@@ -1,0 +1,610 @@
+% Serpent Publications (Renaissance music): French & Breton tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T:[3] C'est une dure despartie
+T: Cantus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C|
+L:1/2
+N:Original clef, C on third line
+K:G mix
+z4 z2 z G G G A c c _B2 A2 G A2
+w:C'est u- ne du- re des- par- ti- * e
+ z E E > F G A > G G2 F G4
+w:De ce- luy ou j'ay _ mis mon cueur,
+z G G G A c c _B > A A2 G A2
+w:Dont m'en i- ray u- ser ma _ vi _ e
+"A"z E E > F G A2 G2 F G2
+w:A l'her- mi- ta- ge de lan- gueur;
+z c c B c G2 G E/  F/ G/ A/ B A2 G A/ B/ c/ B/ A/ G/ F/ E/ F2 "B"E2
+w:Et tous les jours _ au ma- * * * * ti- * * * * * * * * * * net
+z E E E G/ F/ G/ A/ B G A B G c2 B c2
+w:Je m'en i- ray * * * * chan' ter sur la ver- du- re,
+z c c > _B A G F > G A G > F D E E D4
+w:Soubz le _ _ cou ver * * d'ung * * buis- so net,
+z4 z G E > F G A B c B A2 G2 ^F G2
+w:La pei- * * ne qu pour luy je~en- du- * re,
+z G E > F G A B c B A2 G2 ^F G2 |]
+w:La pei- * * ne que pour luy je~en- du- * re.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/gardane/despartie/allparts.abc
+
+X:2
+T:[3] C'est une dure despartie
+T:Tenor
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on fourth line
+M:C|
+L:1/2
+%%MIDI transpose -12
+K:G mix -8va
+z8  z2 c c c d > e f f e2 d e2
+w:C'est u- ne du- re des- par- ti- * e
+z2 z c c c _B A e d2 c2 B c2
+w:De ce- luy ou j'ay  mis mon * * cueur,
+c c c d > e f f e2 d "A"e2
+w:Dont m'en i- ray u- ser ma vi _ e
+z2 z c c c _B A e d f/ e/ d/ c/ d2 c >  B G2
+w:A l'her- mi- ta- * ge de lan- * * * *  gueur; * *
+z2 z c c B c e f/ e/ d/ c/ d d "B"c
+w:Et tous les jours au ma- * * * *  ti-  net
+A A A c/ B/ c/ d/ e/ d/ e/ f/ g/ f/ e/ d/ c B e e d2 c4
+w:i- ray chan- ter * * * * * * * * * * * * sur la ver- du- re,
+z f f e d/ c/ d/ e/ f e2 d2 c A _B > A d2 ^c d2
+w:Soubz le cou- ver * * 8 8 d'ung  buis- * * so- * * * net,
+z B c > d e f d c d d c/ B/ A/ G/ A B > G c2 B c2
+w:La pei- * * ne qu pour luy je~en- du- * * * * * * * * re,
+z c B A  d d c/ B/ A/ G/ A2 G2 |]
+w:La pei- ne que pour luy * je~en- * du-  re.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/gardane/despartie/allparts.abc
+
+X:3
+T:[3] C'est une dure despartie
+T:Bassus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C|
+L:1/2
+%%MIDI transpose -12
+K:G mix -8va
+z G G G A >  B c c _B2 A2
+w:C'est u- ne du- re des- par- ti- e,
+z G2 F D E F > E C
+w:des- par- ti- * * * e
+c c c _B A e2 d c2 B c2 d2 c
+w:De ce- luy ou j'ay mis mon cueur, j'ay mis mon  cueur,
+C F > G A G2 F D E F > E "A"C
+w:Dont m'en i- ray u- ser ma _ vi _ e
+c c c _B A e2 d c2 B A2 G2
+w:A l'her- mi- ta- * ge de lan- * * gueur;
+z c c B c G2 A E2 A > G A/ B/ c > B B "B"c4
+w:Et tous les jours _ au ma- ti- * * * * * * net
+z4 z2 z E E E G G A A F > G A F c2
+w:Je m'en i- ray  chan- ter sur la ver- du- * re,
+z2 z c c _B A2 F G2 F E2 D 
+w:Soubz le cou vert  d'ung  buis- * so net,
+G E E A3/2 G// F// E D G A G D F G D2 E C G2
+w:La pei- ne que _ _ _ pour luy je~en- du- * * * * * * re,
+z c B A d e d D E2 D2 G2 |]
+w:La pei- ne que pour luy je~en- du- * re.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/gardane/despartie/allparts.abc
+
+X:4
+T:[1] Jennette, Marion se vont jouer
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -12
+M:C|
+L:1/2
+N: Original clef, C on third line
+K:G dor -8va
+G2 B/ A/ B/ c/ d B B3/2 A// G// F B
+w: Jen- net- te, Ma- ri- on se vont  _ _ jou- er, 
+z G B/ A/ B/ c/ d d g g f3 e/ d/ e d2 
+w: Jen- net- te, Ma- ri- on se vont jou- er, _ _ _ _
+g2 ^f g2
+w: aux _ champs, 
+z G B/ A/ B/ c/ d B B3/2 A// G// F 
+w: El- le~ont _ pleu- * mé leur con, _ _ _ 
+B/ c/ d z
+w: poil a poil,
+f f c2
+w: poil a poil,
+z z/ d/ d/ d/ d/ G/ A 
+w: El- le~ont pleu- mé leur con,
+f/ f/ c 
+w: poil a poil,
+c/ f/ d/
+w: poil a poil,
+g ^f/ g2
+w: en chan- tant,
+z2 g > g d d f3/2 e// d// c2
+w: El- le~al- loy- ent cer- _ _ chant,
+z2 g > g d d f3/2 e// d// c3/2
+w: El- le~al- loy- ent cer- * _ chant,
+d/ _e/ d/ _e/ c/ d3/2
+w: En- tre deux ga- bi- ons, 
+A/ B > A B/ G3/2 A3/2 
+w: En- tre deux ga- bi- ons, 
+d/ _e3/2 d/ d/ c3/2 d4
+w: En- tre deux ga- bi- ons, 
+z4 d g g f g _e f/ _e/ d/ c/ B 
+w: Pour i me- tre ung mer- chant _ _ _ _
+A B/ B/ G/ G/ A
+w: qui feust bon com- pag- non, 
+d f 
+w: bon, bon,
+z/ d/ f/ d/ _e/ f/ g 
+w: qui feust bon com- pag- non, 
+d _e/ d/ _e/ c/ B 
+w: Et bon be- la- ri- bon, 
+c d3/2 c// B// A2
+w: bon, bon, _ _ _
+A B B A B G A 
+w: Pour i me- tre ung mer- chant
+d f 
+w:qui feust
+z/ d/ f/ d/ _e/ f/ g
+w: qui feust bon com- pag- non, 
+f f/ d/ g/ ^f/ g
+w: Et bon be- la- ri- bon.
+d d/ B/ _e/ _e/ d/ B/ c/ _e/ d
+w: Et bon be- la- ri- bon, bon, bon, bon, bon,
+z/ d/ d/ B/ _e/ _e/ d/ B/ c/ _e/ Hd4 |]
+w: Et bon be- la- ri- bon, bon, bon, bon, bon.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/gardane/jenette/allparts.abc
+
+X:5
+T:[1] Jennette, Marion se vont jouer
+T:Tenor
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+N:Original clef, C on fourth line
+%%MIDI transpose -12
+K:G dor -8va
+z4 z4 z G B/ A/ B/ c/ d2 
+w: Jen- net- te, Ma- ri- on 
+z G B/ A/ B/ c/ d3/2 c// B// A/ G/ A/ B/ c d B3/2 A// G// A
+w: Jen- net- te, Ma- ri- on _ _ _ _ _  se vont jou- er, _ _ _
+A G
+w: aux champs, 
+G B/ A/ B/ c/ d2 G2 D2
+w: El- le~ont _  pleu- * mé leur con, 
+z G B/ A/ B/ c/ d 
+w: El- le~ont pleu- mé leur con,
+d/ d/ A2
+w: poil a poil,
+z A B/ A/ B/ c/ d 
+w: El- le~ont pleu- mé leur con,
+d/ d/ A
+w: poil a poil,
+A/ d/ B/ 
+w: poil a poil,
+c/ A G6
+w: en chan- tant,
+z2 d > d A A c3/2 B// A// G2
+w: El- le~al- loy- ent cer- * _ chant,
+z2 d > d A A c3/2 B// A// G3/2
+w: El- le~al- loy- ent cer- * _ chant,
+d/ _e > d d/ c3/2 d3/2
+w: En- tre deux ga- bi- ons, 
+A/ B3/2 A/ A/ G3/2 A2
+w: En- tre deux ga- bi- ons, 
+z2 G d d c d B A2
+w: Pour i me- tre ung mer- chant
+z4 G d d c d B A
+w: Pour i me- tre ung mer- chant
+z/ B/ c/ B/ c/ A/ G
+w: qui feust bon com- pag- non, 
+A B/ A/ B/ G/ F
+w: Et bon be- la- ri- bon, 
+G A2 
+w: bon, bon,
+z4 G d d c d B A3/2
+w: Pour i me- tre ung mer- chant
+B/ c/ B/ c/ A/ G
+w: qui feust bon com- pag- non, 
+A A/ B/ c/ A/ G8 HG8 |]
+w: Et bon be- la- ri- bon, bon.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/gardane/jenette/allparts.abc
+
+X:6
+T:[1] Jennette, Marion se vont jouer
+T:Bassus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+%%MIDI transpose -24
+K:G dor bass
+z4 G2 B/ A/ B/ c/ d G g g g2 g2
+w: Jen- net- te, Ma- ri- on _ se vont jou- er, 
+z G B/ A/ B/ c/ d f c g2 _e d
+w: Jen- net- te, Ma- ri- on  se vont jou- * er, 
+d g6
+w: aux champs, 
+z G B/ A/ B/ c/ d 
+w: El- le~ont  pleu- mé leur con,
+G g/ f/ g/_e/ d2
+w: El- le~ont pleu- mé leur con,
+f f c
+w: poil a poil,
+z/ d/ g/ f/ g/ _e/ d
+w: El- le~ont pleu- mé leur con,
+d/ d/ f
+w: poil a poil,
+f/ d/ g/
+w: poil a poil,
+c/ d G4
+w: en chan- tant,
+z2 g > g d d f3/2 e// d// c2 
+w: El- le~al- loy- ent cer- * _ chant,
+z2 g > g d d f3/2 e// d// c2
+w: El- le~al- loy- ent cer- * _ chant,
+z z/ d/ g > f g/ _e3/2 d3/2 
+w: En- tre deux ga- bi- ons, 
+d/ g3/2 d/ f/ _e3/2 d2
+w: En- tre deux ga- bi- ons, 
+d g g f g _e d 
+w: Pour i me- tre ung mer- chant
+G d2
+w: qui feust
+z2 d g g f g _e d3
+w: Pour i me- tre ung mer- chant
+g f/ g/ c/ d/ g 
+w: qui feust bon com- pag- non, 
+f g/ f/ g/ _e/ d 
+w: Et bon be- la- ri- bon, 
+_e d4
+w: bon, bon,
+d g g f g _e d 
+w: Pour i me- tre ung mer- chant
+d d  z/ g/ f/ g/ c/ d/ G
+w: qui feust, qui feust, bon com- pag- non, 
+d f/ g/ c/ d/ G
+w: Et bon be- la- ri- bon,
+z/ G/ G/ G/ c/ c/ G/ G/ c/ c/ G
+w: Et bon be- la- ri- bon, bon, bon, bon, bon,
+z/ G/ G/ G/ c/ c/ G c HG4 |]
+w: Et bon be- la- ri- bon, bon, bon.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/gardane/jenette/allparts.abc
+
+X:7
+T:[17] Quant je boy du vin claret tout tourne
+T:Cantus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Guillaume le heurteur
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on second line
+M:C|
+L:1/4
+K:F
+z4 C > D E/ F/ G/ E/ F A G/ A/ B/ G/ A/ B/ c > B B/ A// G// A2 G c > B B/ A// G// A > G F
+w:Quant je boy du vin cla- ret tout tour- * * * * * * * * * * * * * * * * * * * ne,
+F E/ D/ E/ C/ D/ E/ F2 E "A"F
+w:tout tour- * * * * * * * ne,
+F c > B A A G B > B A A G
+w:Et quant je n'en boy point tout ne tour- ne point, 
+z C G > G F F E G3/2 F// E// F/ G/ A G2 F2 E F2
+w:(Et quant je n'en boy point tout 8 8 * * * ne tour- ne point,)
+z2 z F c > B A/ G/ F/ E/ D C D F2 E F2
+w:Et quant n'ay mail- le ne de- nier je ne boyt * point,
+z2 z F c > B A/ G/ F/ E/ D C D F2 E F
+w:ne bel- le fil- le~a mon cou- cher tout ne tour- ne point,
+C F/ G/ A/ B/ A/ G/ c2 =B "B"c4
+w:(tout ne * * * * * tour- ne point.)
+z4 z G A > =B c G A =B c
+w:Et quant de ces vins blancs je boy
+C D E F C D E F
+w:Si ne sont d'An- jou ou d'Ar- boys,
+A A G B/ A G// F// G2 F2
+w:point ne me tour- * * * * ne;
+z C/ D/ E/ F/ G/ E/ F A G/ A/ B/ G/ A/ B/ c > B B/ A// G//  A2 G
+w:Quant je boy du vin cla- ret [tout] tour- * * * * *  * * * * * * ne,
+c > B B/ A// G// A > G F 
+w:tout * * * * tour- * ne,
+F E/ D/ E/ C/ D/ E/ F2 E F2 |]
+w:tout tour- * * * * * * * ne.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/heurteur/vin/allparts.abc
+
+X:8
+T:[17] Quant je boy du vin claret tout tourne
+T:Tenor
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Guillaume le heurteur
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on second line
+M:C|
+L:1/4
+K:F
+z4 z4 C > D E/ F/ G/ E/ F A G2 F2
+w:Quant je boy du vin cla- ret tout tour-  ne,
+z C/ D/ E/ F/ G/ E/ F F A2 G c B/ A/ A/ G// F// G2 "A"F2
+w:(Quant je boy du vin cla- ret)  tout tour- * * * * * * * *  ne,
+z F > F F E D F > F E E D/ E/ F/ D/ E D C
+w:Quant je n'en boy point tout ne tour- ne point, * * * * * *
+c > c B B A c > c B A G2
+w:(Quant je n'en boy point tout ne tour- ne point,)
+z F A/ B/ c/ A/ B A G G F2
+w:tout ne * * * * tour- * ne point,
+z2 z F c > B A/ G/ F/ E/ D C D/ E/ F/ D/ E E C2
+w:Et quant n'ay mail- le ne de- nier je ne  * * * * boyt  point,
+z2 z F c > B A/ G/ F/ E/ D F2 E D D "B"C2
+w:ne bel- le fil- le~a mon cou- cher tout ne tour- ne point,
+z C D E F C D E F > E C/ D/ E/ F/ D2 C
+w:Et quant de ces vins blancs je boy * * * * * * *
+F F G A c B A/ G/ A 
+w:Si ne sont d'An- jou ou d'Ar- * boys,
+F E/ D/ E/ F/ G F > E E/ D// E// F4
+w:point ne * * *  me tour- * * * * ne;
+z2 C > D E/ F/ G/ E/ F A G2 F2
+w:Quant je boy du vin cla- ret [tout] tour-  ne,
+z C/ D/ E/ F/ G/ E/ F F A2 G
+w:(Quant je boy du vin cla- ret tout tour- ne,)
+c B/ A/ A/ G// F// G2 F2 |]
+w:tout tour- * * * * * ne.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/heurteur/vin/allparts.abc
+
+X:9
+T:[17] Quant je boy du vin claret tout tourne
+T:Bassus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Guillaume le heurteur
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, F on third line
+M:C|
+L:1/4
+K:F -8va
+%%MIDI transpose -12
+C > D E/ F/ G/ E/ F A G2 F2
+w:Quant je boy du vin cla- ret tout tour- ne,
+z2 z C/ D/ E/ F/ G/ E/ F/ G/ A/ B/ c A G2
+w:(Quant je boy du vin cla- ret * * * tout tour- ne,)
+z F > G A/ B/ c A G F c2 "A"F4
+w:(Quant je boy du vin cla- ret tout tour- ne,)
+z4 z F c > c B A G B > B A A G
+w:Et quant je n'en boy point tout ne tour- ne point,
+z F > F E/ E/ D
+w:(tout  ne tour- ne point,)
+F c > B A/ G/ F/ E/ D C D F2 E F
+w:Et quant n'ay mail- le ne de- nier je ne boyt * point,
+F A/ B/ c/ A/ B d c C D > E F E D2 C
+w:(Et quant n'ay mail- le ne de- nier je ne * * * boyt  point,)
+c c/ B/ A/ G/ F E D2
+w:ne bel- le fil- le~a mon cou- cher 
+z C D F > E D/ C/ D C G2 "B"C2
+w:(tout ne  tour- * * * * * ne point.)
+z C G > G F A G G F2
+w:Et quant de ces vins blancs je boy
+z C F G A A B > A F/ G/ A/ B/ G G F2
+w:Si ne sont d'An- jou ou * * * * * * d'Ar- boys,
+C2 B, D C2 F
+w:point ne me tour-  ne;
+F > G A/ B/ c c F2
+w:Quant je boy du vin cla- ret 
+z2 z C/ D/ E/ F/ G/ E/ F/ G/ A/ B/ c A G2
+w:(Quant je boy du vin cla- ret) * * * [tout tour-  ne,]
+z F > G A/ B/ c A G F c2 F2 |]
+w:Quant je boy du vin cla- ret tout tour- ne.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/heurteur/vin/allparts.abc
+
+X:10
+T:[23] Si mon malheur my continue
+T:Cantus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on second line
+M:C|
+L:1/2
+K:F
+z F F C D E F G A B2 A G3/2 F// E// D/ C/ F2 E A3/2 G// F// E2 D2
+w: Si mon mal- heur my con- ti- nu- * * * * * * * * * * * * *  e,
+z F G A B
+w: Je ne sçay pas, 
+G A/ G/ A/ B/ c B > A A2 G A
+w: Je ne * dis * pas   que  * je fe- ray;
+c B A G c2 =B c/ d/ e/ c/ d c2 =B c
+w: A tout le moins je * chan- * * * * ge- * ray
+c c > B |: A > G F c d e f/ e/ d/ c/ B A G > F D F2 E |1 F c c > B :|2 HF4 |]
+w: Si le * * * *  cou- rai- ge ne * * * * my mu- * * * *  e, Si le * e.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/gardane/malheur/allparts.abc
+
+X:11
+T:[23] Si mon malheur my continue
+T:Tenor
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on second line
+M:C|
+L:1/2
+K:F
+z c c > B A G F E D > C D/ E/ F2 E F A G2 F2
+w: Si mon * *  mal- heur my con- * * *  *  ti- nu- * * e,
+z c d B c2 
+w: Je ne sçay pas, 
+z c d B c > B A d2 c B2 A2
+w: Je ne dis pas * * que je fe- ray;
+z c B A G F E/ F/ G/ E/ F/ E/ D/ C/ D D C2 
+w: A tout le moins je chan- * * * * * * * *  ge- ray
+z c |: c > B A G F E D > C D/ E/ F2 E F A G2 |1 F2 z c :|2 HF4 |]
+w: Si le  * * cou- rai- ge ne * * * *  my mu- * *  e, Si e.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/gardane/malheur/allparts.abc
+
+X:12
+T:[23] Si mon malheur my continue
+T:Bassus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, bass
+M:C|
+L:1/2
+K:F -8va
+z2 z F F C D E F G2 A B c B F c2
+w: Si mon mal- heur my con- * ti- nu- * * *  e,
+z F G A B 
+w: Je ne sçay pas, 
+G A F c3/2 B// A// G2 F3 D F2 G2 F2
+w: Je ne dis pas * * * que * je fe- ray;
+z2 z F E D C c B A G2 C4
+w: A tout le moins je chan- * ge- ray
+|: z F F E D C F G2 A B c B F c2 |1 F4 :|2 HF4 |]
+w: Si le cou- rai- ge ne * my mu- * * * *  e, e.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/gardane/malheur/allparts.abc
+
+X:13
+T:[18] Vignon, vignon, vignon, vignette (Transposed)
+T:Cantus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on second line
+M:C|
+L:1/4
+K:F
+z2 z c c c A2 z ddd c A 
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- te,
+z c c c F2 G F/ G/ A/ B/ c > d e/ f/ d c A > B c B > A F G2 "A"A c > B A/ G/ A2 G2
+w:Qui te plan- ta il  * * * * * * * * * * fust * * * * * preud- * * * * * * hom.
+z c c c A > B c d d c B A
+w:Tu fuz cou- pé * * e~a la ser- pet- te,
+z c c c A2 z d d d c A 
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- te,
+z c c c A > B c d d c B A
+w:Il me sem- ble~ad- * * vis que j'a- lec- te
+z2 z c B A F > G A F F E F/ G/ A/ B/ c B > A F G2 F
+w:Quant tu pas- ses * * mon gor- ge- ron * * * * * * * * *
+c c c |:A3/2 G// F// F2 z4 z c c c A2 z d d d c A2
+w:Vi- gnon, vi- gnon, * * * (vi- gnon, vi- gnon,) vi- gnon, vi- gnet- te,
+c B A F > G A B/ A/ G/ F/ F2 E |1 F c c c :|2 F4 |]
+w:Qui te plan- ta * * il 8 * * fust preud- hom, Vi- gnon, vi- hom.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/gardane/vignon/allparts.abc
+
+X:14
+T:[18] Vignon, vignon, vignon, vignette
+T:Tenor
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on second line
+M:C|
+L:1/4
+K:F
+z4 z4 z4 z c c c A2 z d d d c A2 
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- te,
+c B A F > G A B/ A/ G/ F/ F2 E "A"F2
+w:Qui te plan- ta * * il  * * *  fust  preud-  hom.
+z F F F E/ D/ E/ F/ G A A G F/ G/ A/ F/ G/ F/ E/ D/ E2 D F2 E F2
+w:Tu fuz cou- pé * * * *  e~a la ser- pet- * * * * * * * * * * * te,
+z F F F D F F F E C 
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- te,
+z c c c A F G A G F2 E F2
+w:Il me sem- ble~ad- vis que j'a- lec- * * te
+z4 z c B A F > G A B/ A/ G/ F/ F2 E F2
+w:Quant tu pas- ses *  *  mon * * * gor- ge- ron
+z c |: c c A2 z d d d c A 
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- te,
+z c c c F2 G F/ G/ A/ B/ c > d e/ f/ d c A > B c B > A F G2 |1 F2 z c :|2 F4 |]
+w:Qui te plan- ta il * * * * * * * * * * fust * * * * * preud- hom, Vi- hom.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/gardane/vignon/allparts.abc
+
+X:15
+T:[18] Vignon, vignon, vignon, vignette
+T:Bassus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C|
+L:1/4
+K:F -8va
+N:Original clef, F on fourth line
+%%MIDI transpose -12
+z c c c A2 z d d d B G 
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- te,
+z A A A F > G A B G B F2
+w:Qui te plan- ta * * il  fust  preud-  hom.
+z A B c d3/2 c// B// A G E F C2 "A"F4
+w:(Qui te plan- ta * * * il  fust  * preud-  hom.)
+z2 c c c A/ G/ A/ B/ c d d c B A2
+w:Tu fuz cou- pé * * * * e~a la ser- pet- te,
+z F G A F3 F B3 B A F G A > G F/ E/ F2
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- * * * * * * te,
+z2 z4 c2 B A G F B > A F A B c d3/2 c// B// A G2 A B c F4
+w:Quant tu pas- ses  * per * * mon gor- ge- ron * * * [per mon gor- ge- ron.]
+|:z F F F D2 z D F > G A F2 A2
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- * te,
+B G B F2 z A B c d3/2 c// B// A G E F C2 |1 F4 :|2 F4 |]
+w:Qui te plan- ta, qui te plan- ta * * * il  fust * preud- hom,  hom.
+% Source: sources/serpent-serpentpublications-org/_lconrad/music/gardane/vignon/allparts.abc

@@ -1,0 +1,295 @@
+% Pat Palmer's tunes: Swedish & Nordic tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T:Elaine's Hambo
+C:Andrea Hoag
+M:3/4
+L:1/8
+N: Q: 3/8=105
+R:Hambo
+K:A
+| d/2\ 
+|: "A"c3/2B/ A/G3/2 A3/2G/ | "D"F3/2E/ D/C3/2 D2 | "E7"B,3/2C/ D/E3/2 F3/2F/ | F3/2G/ E2- E3/2d/ |
+|  "A"c3/2B/ A/G3/2 A3/2G/ | "D"F3/2E/ D/C3/2 D2 | "E"E3/2F/ G3/2A/ B3/2c/ | d2 e4 |
+| "A"((3efg) a3/2e/ c3/2e/ | "D"d3/2c/ d/f3/2  B3/2A/ | "E"G3/2A/ B3/2c/ d3/2d/ |1 "E7"((3dBG) "A"A2-A3/2d/ :|2 "E7"((3dBG) "A"A2-A3/2g/ ||
+|: "D"f3/2e/ d3/2e/ f3/2g/ | "A"a3/2e/ ((3cec) A3/2c/ | "E7"B3/2A/ G3/2A/ B3/2B/ | "A"B/A3/2 A/c3/2 e3/2g/ |
+|  "D"f3/2e/ d3/2e/ f3/2g/ | "A"a3/2e/ ((3cec) A3/2c/ |1 "E7"B3/2A/ G3/2A/ B3/2G/ | "A"A2 A2-A3/2g/ :|2 "E7"B3/2c/ d3/2e/ f3/2g/ | "A"a2 a2-a3/2 z |]
+
+%%textfont Helvetica 10
+%%begintext
+Written for someone's 40th birthday, hence 40 measures.
+
+Ends on A part.
+
+version 1
+R&O 2017
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/elaines_hambo.txt.abc
+
+X:2
+T:Ganglat fran Mockfjärd
+C:efter Anders Frisell
+M:4/4
+N: Q: 1/2=120
+L:1/4
+K:D
+F G\
+|: "D"A3/2 B/ A G | F D F F/G/ | A/B/A/F/ A d | f2-f e/f/ |
+|  "G" g b/g/ "D"f a/f/ | "A"e g/e/ "D"d f/d/ |1 "A"c /e/c/ "E"E/^G/B/G/ | "A"A2 F G  :|2 "A"c /e/c/ A/c/e/c/ | "D"d3 e/f/ ||
+|: "G"g3/2 a/ g/f/g/a/ | b g d B | "D"A3/2 f/ f/e/f/g/| a3 f |
+|  "A"f e e/^d/e/f/ | g e c A |1 "D"d f/d/ "A"c /e/c/ | "G"B d/B/ "D"A /e/f/ :|2 "D"d /f/d/ "A"A/c/e/c/ | "D"d3 F/G/ |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2012, version 2
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/ganglat_fran_mockfjord.txt.abc
+
+X:3
+T: Gavells-Ella Hambo
+N: efter Sigard Stolt
+M: 3/4
+R: Hambo
+L: 1/8
+N: Q: 1/4=125
+K: G
+%%MIDI gchord fzczbz
+%%MIDI chordvol 40
+|: "G" D2 GA BG | "Am" E2 AB cA | "D" FA de dA | "G" GB de dE |\
+|  "G" D2 GA BG | "Am" E2 AB cA | "D" FA de dF | "G" G2 G4   :|
+K: C
+|: "C" e2 ed cA |    G2 EF  Gc  | "G" B2 DG Bd | "C" c2 EF Gc |\
+|  "C" e2 ed cA |    G2 EF  Gc  | "G" B2 DG Bd | "C" c2c4    :|
+|: "Am"c2 cB Ac |"E" B2 B^G E2  | "Am"c2 cB Ac | "E" e2 e3d   |\
+|  "F" c2 cB AA |"C" GA GF  E2  | "G" DE FG AB | "C" c2c4    :|]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2012 version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/gavells_ella_hambo.txt.abc
+
+X:4
+T: Gavells-Ella Hambo
+N: efter Sigard Stolt
+M: 3/4
+R: Hambo
+L: 1/8
+N: Q: 1/4=125
+K: G
+%%MIDI gchord fzczbz
+%%MIDI chordvol 40
+|: "G" D2 "G/D"GA "G"BG | "Am" E2 "Am/E"AB "Am"cA | "D" FA "D/A"de "D"dA | "G" GB "G/D"de "G"dE |
+|  "G" D2 "G/D"GA "G"BG | "Am" E2 "Am/E"AB "Am"cA  | "D" FA "D/A"de "D"dF | "G" G2 "G/D"G2-"G"G2   :|
+K: C
+|: "C" e2 "C/G"ed "C"cA |    "C"G2 "C/G"EF  "C"Gc  | "G" B2 "G/D"DG "G"Bd | "C" c2 "C/G"EF "C"Gc |
+|  "C" e2 "C/G"ed "C"cA |    "C"G2 "C/G"EF  "C"Gc  | "G" B2 "G/D"DG "G"Bd | "C" c2 "C/G"c2-"C"c2    :|
+|: "Am"c2 "Am/E"cB "Am"Ac |"E" B2 "E/B"B^G "E"E2  | "Am"c2 "Am/E"cB "Am"Ac | "E" "E/B"e2 "E"e3d   |
+|  "F" c2 "F/C"cB "F"AA |"C" GA "C/G"GF  "C"E2  | "G" DE "G/D"FG "G"AB | "C" c2"C/G"c2-"C"c2    :|]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2012 version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/gavells_ella_hambo_midi.txt.abc
+
+X:5
+T: Hambo p\345 Logen (with low harmony)
+C: Karl Salomonsson
+M: 3/4
+R: Hambo
+L: 1/8
+N: Q: 1/4=120
+K: G
+|:"G"[D2B,2] [D3/2B,3/2][E/C/] [D3/2B,3/2][C/A,/]  | [B,2G,2] [D3/2B,3/2][G/D/] [B2D2] | [G2B,2] [G3/2B,3/2][A/C/] [G3/2B,3/2]E/ | "D"[G2D2] [F4D4] |
+  "D"[D2A,2] [D3/2A,3/2][F/D/] [E3/2A,3/2][F/D/]   | [D2A,2]  [F3/2D3/2][A/F/] [d2F2] | [d2F2] [d3/2F3/2][e/G/] [d3/2F3/2][c/A/] | "G"[c2A2] [B4G4] |
+  "G"[D2B,2] [D3/2B,3/2][E/C/] [D3/2B,3/2][C/A,/]  | [B,2G,2] [D3/2B,3/2][G/D/] [B2D2] | [G2B,2] [G3/2B,3/2][A/C/] [G3/2B,3/2][F/D/] | "C"[F2C2] [E4C4]  |
+  "D"[c2D2] [c3/2D3/2][B/D/] [A3/2C3/2][c/E/]  | "G"[B2D2]  [B3/2D3/2][A/C/] [G3/2B,3/2][B/D/] | "D"[A2D2] [A3/2C3/2][G/B,/] [F3/2A,3/2][A/B,/] | "G"[G2B,2] [G4B,4]   :|
+|:"G"[B3/2D3/2][c/G/]  [d2B2] [d3/2G3/2][B/D/] | [G3/2D3/2][A/F/] [B4G4] | [G3/2D3/2][A/F/] [B2G2] [A3/2F3/2][G/E/] | "D"[G2E2] [F4D4] |
+  "D"[A3/2F3/2][B/G/]  [c2A2] [c3/2A3/2][B/G/] | [A3/2F3/2][G/E/] [F3D3] E | [F3/2D3/2][G/E/] [F2D2] [E3/2C3/2][F/D/] | "G"[E2C2] [D4B,4] |
+  "G"[B,3/2G,3/2][C/A,/] [D2B,2] [D3/2B,3/2][C/A,/] | [B,3/2G,3/2][D/B,/] [G4D4] | "D"[F3/2D3/2][G/E/] [A3/2-D3/2][A/C/] [A3/2-A,3/2][A/C/] | "G"[G2B,2] [A2C2] [B2D2] |
+  "C"[c3/2E3/2][d/D/] [e2C2] [c2F2] | "G"[B3/2G3/2][c/G/]  [d2D2] [B2G2D2] | "D"[A3/2F3/2][B/E/] [c3/2D3/2][A/C/] [F3/2A,3/2][A/C/] | "G"[G2C2] [G4B,4] :|
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2009, version 5
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Hambo_pa_Logen.txt.abc
+
+X:6
+T:A Jenta a Ja
+C: Ed Plante
+R:Hambo
+M:3/4
+L:1/4
+N: Q: 1/2=90
+K:G
+D\
+|: "G"B A/B/ G | B A/B/ G | "D7"A A/G/ F/G/ | A/G/ F/E/ D |
+|  "G"B A/B/ G | B A/B/ G | "D7"A A/G/ F/ G/ | "G"A G D :||
+|: "G" G/B/ d d | "C" c e/d/ c/B/ | "Am"A/B/ c c  | "G"B d/c/ B/A/ |
+|  "Em"G/A/ B B | "Am"A c/B/ A/ G/ | "D"F D/E/ F/G/| "G"A G D :|]
+
+
+%%textfont Helvetica 10
+%%begintext
+R&O XXXII, medley 24
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/a_jenta_a_ja.txt.abc
+
+X:7
+T: Lapp Nils Polska in D
+M: 3/4
+N: Q: 3/8=105
+R: Hambo
+L: 1/8
+K: D
+|: "D"D3/2F/ Ad f3/2a/ | "A"a3/2g/ ((3efg) "D"f2   | "A"((3efg) "D"fd "A"e3/2c/ |  "A"((3ABc) "D"dA ((3FAF) |
+|  "D"D3/2F/ Ad f3/2a/ | "A"a3/2g/ ((3efg) "D"f2   | "A"((3efg) "D"fd "A"e3/2c/ |1 "A"((3ABc) "D"d4 :|2 "A"((3ABc) "D"d3 c ||
+|: "G"BA/B/  d2 c3/2B/ | "D"A3/2a/ ((3faf) ((3dfd) | "A"A3/2g/ ((3ege) ((3cec)  |  "D"A3/2a/ ((3faf) ((3dfd) |
+|  "G"BA/B/  d2 c3/2B/ | "D"A3/2a/ ((3faf) ((3dfd) | "A"A3/2g/ ((3ege) ((3cec)  |1 "A"((3ABc) "D"d3 c:|2 "A"((3ABc) "D"d4 |]
+
+%%textfont Helvetica 10
+%%begintext
+Lapp-Nils triplets are bowed down-UP-UP.
+
+version 1, Rum and Onions 2017
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/lap_nils_polska_in_D.txt.abc
+
+X:8
+T:Late Night Hambo
+T:by Sara Hiebert
+M:3/4
+R:hambo
+L:1/8
+N: Q: 3/16=120
+N: R&O XXIX
+K:Dm
+P:A
+D3/2E/ \
+|: "Dm"F2 A3/2B/ A3/2F/  | "A"G2 E2-E3/2D/   | ^C3/2D/ E3/2F/ G3/2B/ | "Dm"A3/2^c/ d3/2A/ F/E3/2 |
+ D3/2E/ F3/2D/ B,3/2A,/  | "Gm"G,2 E2-E3/2D/ | "A7"^C3/2D/ E2 A2     |1 "Dm"F3/2E/ D2- D3/2E/ :|2 "Dm"F3/2E/ D4   ||
+P:B
+|:"C"C2 E3/2F/ G3/2B/ | "F" A3/2G/ F2- F3/2E/    | "D"D2 ^F3/2G/ A3/2c/  | "Gm"B3/2A/ G2- G3/2A/ |
+ B3/2A/ G3/2A/ B/d3/2 | "Dm"A3/2G/ F3/2G/ A/d3/2 | "Gm"B3/2G/ "A7"A3/2F/ E3/2A/ |1 "Dm"D2 D4   :|2 "Dm"D2 D2 D3/2E/   |]
+w: v2
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Late_Night_Hambo.txt.abc
+
+X:9
+T:Late Night Hambo (harmony)
+T:by Sara Hiebert
+M:3/4
+R:hambo
+L:1/8
+N: Q: 3/16=120
+N: R&O XXIX
+K:Dm
+P:A
+F3/2G/ \
+|: "Dm"A2 d3/2e/ d3/2A/  | "A"^c2 A2-A3/2G/   | E3/2F/ G3/2A/ B3/2d/ | "Dm"^c3/2e/ f3/2d/ A/G3/2 |
+ F3/2G/ A3/2F/ D3/2C/  | "Gm"B,2 B4 | "A7"A2 A3/2=B/ ^c2    |1 "Dm"d3/2A/ F2- F3/2G/ :|2 "Dm"d3/2A/ F4   ||
+P:B
+|:"C"E2 G3/2A/ B3/2d/ | "F" c3/2B/ A2- A3/2G/    | "D"^F2 A3/2B/ d3/2_e/  | "Gm"d3/2c/ B2- B3/2c/ |
+ d3/2c/ B3/2c/ d/g3/2 | "Dm"d3/2B/ A3/2^c/ d/f3/2 | "Gm"d3/2B/ "A7"^c3/2A/ A3/2c/ |1 "Dm"d2 d4   :|2 "Dm"d2 d2 F3/2G/   |]
+w: v2
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Late_Night_Hambo_harmony.txt.abc
+
+X:10
+T:Skinnbräcka med lucku
+O: Sweden
+M: 3/4
+N: Q: 3/8=105
+L: 1/8
+R:Hambo
+K:D
+(A2\
+|: "D"{B/c/}d2) F2 !downbow!G3/2!upbow!A/  | "D"B2 A3 (A | "D"{B/c/}d2) F2 !downbow!G3/2!upbow!A/ | "D"B2 A4 | "G"g2 (B3/2g/) !downbow!B3/2!upbow!g/ | 
+| "D"f2 A3/2f/ !downbow!A3/2!upbow!f/ |1 "A"e3/2(f/ e3/2)(d/ c3/2)B/ | "A"A3/2(B/ A3/2)(G/ F3/2)A/ :|2 "A"e2 (c3/2e/) a3/2c/ | "D"(c/d3/2) d3/2 z/ A2 ||
+|: "D" f2 (f3/2g/) !downbow!f3/2!upbow!e/   | "D" d2 (d3/2e/) !downbow!d3/2!upbow!c/   | "G"B2 (G3/2B/) !downbow!d3/2!upbow!B/ | "D"B2 A3 A |
+|1 "A" e2 (e3/2f/) !downbow!e3/2!upbow!d/   | "A"c2 (c3/2d/) !downbow!c3/2!upbow!B/  | "A"A2 (A3/2B/) !downbow!A3/2!upbow!G/ | "D"(G3/2F/) F2 !downbow!F3/2!upbow!A/ :|
+|2 "A" (A3/2B/) (c3/2d/) !downbow!e3/2!upbow!f/ | "A"g2 (c3/2d/) !downbow!e3/2!upbow!f/ | "A"{f/}g2 B2 !downbow!c3/2!upbow!c/ | "D"(c/d3/2) d4 |]
+
+%%textfont Helvetica 10
+%%begintext
+version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/skinnbracka_med_lucku.txt.abc
+
+X:11
+T:Skinnbräcka med lucku (harmony)
+O: Sweden
+M: 3/4
+N: Q: 3/8=105
+L: 1/8
+R:Hambo
+K:D
+(D2\
+|: "D"{D/E/}F2) D2 !downbow!B,3/2!upbow!F/  | "D"G2 F3 (D | "D"{D/E/}F2) D2 !downbow!B,3/2!upbow!F/  | "D"G2 F4  | "G"B2 (G3/2B/) !downbow!G3/2!upbow!B/ | 
+| "D"A2 F3/2A/ !downbow!F3/2!upbow!A/ |1 "A"c3/2(d/ c3/2)(B/ A3/2)G/ | "A"F3/2(G/ F3/2)(E/ D2 :|2 "A"c2 (G3/2c/) e3/2G/ | "D"(G/F3/2) F3/2 z/ D2 ||
+|: "D" A2 (A3/2B/) !downbow!A3/2!upbow!G/   | "D" F2 (F3/2G/) !downbow!F3/2!upbow!E/   | "G"D2 (B,3/2D/) !downbow!G3/2!upbow!G/ | "D"G2 F3 F |
+|1 "A" c2 (c3/2d/) !downbow!c3/2!upbow!B/   | "A"A2 (A3/2B/) !downbow!A3/2!upbow!G/  | "A"F2 (F3/2G/) !downbow!F3/2!upbow!D/ | "D"(B,3/2A,/) B,2 !downbow!D3/2!upbow!F/ :|
+|2 "A" (F3/2G/) (A3/2B/) !downbow!c3/2!upbow!d/ | "A"B2 (e3/2A/) !downbow!c3/2!upbow!d/ | "A"B2 G2 !downbow!G3/2!upbow!G/ | "D"(G/F3/2) F4 |]
+
+%%textfont Helvetica 10
+%%begintext
+version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/skinnbracka_med_lucku_harmony.txt.abc
+
+X:12
+T: Sl\"angpolskor Set
+M: 3/4
+L: 1/8
+N: Q: 3/8=105
+R: polska
+K: G
+P: I
+|: "G"dd BB dd | "C"ed "D"cB "G"d2 | "G"dd BB dd | "C"ed "D"cB "G"d2  |
+|     BB G2 AB | "C"cB "D"AG "G"d2 | "G"BB G2 AB | "C"cB "D"AA "G"G2 :|
+P: II
+|: "G"d2 Bc de | "D"c2 cd Bc | "G"d2 Bc de |1 "D"cc "G"B4 :|2 "D"c2 "G"B4 |
+|  "G"G2 AA BB | "G"G2 "D"AA "G"B2 | G2 AA BB | "G"G2 "D"A2 "G"B2  |
+|  "G"d2 cc B2 |    d2    cc    BB | d2 cc B2 | "D7"A2 "G"G4 |
+P: III
+|: "G"GG GG BG | BB BB dB | dd G2 dc | "D"BA A2 "G"G2 :|
+|: "G"Bd/B/ "D"AA AA | "G"Bd/B/ "D"AA AA | "G"BB "D"c2 "G"Bd | "G"d/c/B/d/ "D"A2 "G"G2 :|
+
+%%textfont Helvetica 10
+%%begintext
+version 1
+R&O 2017
+
+From FIKA by Lydia Ievans and Andrea Larson.
+This is 3 different slängpolskas, played one after the other.
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/slangpolskor_set.txt.abc
+
+X:13
+T: Varvindar Friska
+C: trad.
+Z: R&O VIII, harmonies by Robert Mills, chords Barbara Greenberg
+M: 3/4
+R: Hambo
+L: 1/8
+N: Q: 1/4=120
+K: Am
+P: Melody
+E2\
+|:"Am"A(A-A>B) A>B | c(c-c>d) c>d  | e2 "E"(e>d) B>c | "Am"A2 A>^G "E"E2 |
+  "Am"A(A-A>B) A>B | c(c-c>d) c>d  | e2 "E"(e>d) B>c | "Am"A2 A4        :|
+|:"C"e2 (e>f) g>e    | "G"d2 d>c "E"B2 | "Am"c2 (c>d) e>c| "E"B2 B>^G E2     |
+  "Am"A(A-A>B) A>B | c(c-c>d) c>d  | e2 "E"(e>d) B>c | "A"A2 A4         :|
+P:Harmony 1
+|:E(E-E>^G) E>^G | A(A-A>B) A>B | c2 B>B (^G>A) | E2 E>D B,2   |
+  E(E-E>^G) E>^G | A(A-A>B) A>B | c2 B>B (^G>A) | E2 E4       :|
+|:c2 (c>d) e>c     | B2 B>A ^G2      | A2 (A>B) c>A | ^G2 G>E B,2 |
+  E((E E)>^G) E>^G | A((A A>)B) A>B | c2 B>B (^G>A) | E2 E4       :|
+P:Harmony 2
+|:C(C-C>E) C>E | E(E-E>^G) E>G | A2 ^G>G E>E | C2 C>B, ^G,2   |
+  C(C-C>E) C>E | E(E-E>^G) E>G | A2 ^G>G E>E | C2 C4       :|
+|:G2 (G>B) c>G   | G2 G>E E2      | E2 (E>^G) A>E | E2 E>B, ^G,2 |
+  C(C-C>E) C>E | E((E E>)^G) E>G | A2 ^G>G E>E  | C2 C4       :|
+w: v4
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Varvindar_Friska.txt.abc

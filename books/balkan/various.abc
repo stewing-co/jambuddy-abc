@@ -1,0 +1,798 @@
+% Various collections: Balkan, Klezmer & Eastern European tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T:Acano mlada nevesto
+Z:Jack Campin, http://www.campin.me.uk/
+F:Jack Campin's Nine-Note Tunebook
+% last edit 03-02-2013
+S:Ralph B. Iverson
+Z:http://voluntocracy.org/Music
+O:Vardar, Macedonia
+M:11/8
+L:1/8
+Q:3/8=120
+K:DPhr % actually hijaz
+|:D3  d2 d2 c2B2| A2G G2^FG A4 :|
+|:G2G c2 B2 A2G2|^F2E E2DE  F2ED|
+  G2G c2 B2 A2G2|^F2A GFED  D4 :|
+|:DEC DE^FG ABAG| ABc BABG  ADDD|
+  DEC DE^FG ABAG|^FGA GFED  D4 :|
+% Source: sources/campin-me-uk/Music/Chalumeau.abc
+
+X:2
+T:Alunelul
+Z:Jack Campin, http://www.campin.me.uk/
+F:Jack Campin's Nine-Note Tunebook
+% last edit 03-02-2013
+O:Romania
+M:4/4
+L:1/8
+Q:1/2=94
+K:DMin
+Mc.=B.c.d (c_B).A.G|.F2 .G2 .A2 z2|Mc.=B.c.d (c_B)AG|.F2 .E2 .D2 z2:|
+ F2   A2  TG4      |.F2 .A2 Tc4   |.F2  .A2  TG4    |.F2 .E2 .D2 z2:|
+% Source: sources/campin-me-uk/Music/Chalumeau.abc
+
+X:3
+T: Ana Lugojana
+R: hategana
+O: Romania
+C: Trad.
+M: 2/4
+L: 1/8
+Q: 1/4=140
+%%MIDI channel 1
+%%MIDI program 1 15
+%%MIDI chordprog 42
+%%MIDI chordvol 55
+%%MIDI bassprog 43
+%%MIDI bassvol 55
+%%MIDI beat 120 100 60 2
+K: Em
+P: A
+%%MIDI program 1 15
+|: "G"b zz c'|"D"a zz b|"G"gf ef|g2 d2|bb c'b|"F#m"ag ag|"B"fe BB |"Em"e zz2 :|
+P: B
+|:"Em"e3f|gb ag|"D"gf ef|"G"g2 d2|"Em"e3f|gb ag|"B"fe BB|1"Em"ezz2:|2"Em"e zz E||
+P: C
+"C"Ee ed|ed cB|"D"d2 B2|"G"cB AG|"C"Ge ed|ed cB|"D"d2 B2|"G"cB AG||
+|:"Em"GA BG|AG FE|e2 B2|cB AG|GA BG|AG FE|"B"FE B,B,|1"Em"Ezz2:|2"Em"E zz D||
+P: D
+|:"G"DG DG|BG d2|"D"cB Ac|"G"Bc/2B/2 AG|DG DG|BG d2|"D"cB AB|"G"Gzz2:|
+W:
+W:
+W:Arrangement Copyright 1999 Voluntocracy.
+W:
+W:Permission is granted to copy and distribute modified or unmodified versions of this music
+W:provided the copyright notice and this permission notice are preserved on all copies and the
+W:entire such work is distributed under the terms of a permission notice identical to this one.
+% Source: sources/terrytraub-org/abc/ana_lugojana.abc
+
+X:4
+T: Anniversary Waltz
+T: Chanesse Valts
+O: Eastern European Jewish
+M: 3/4
+L: 1/8
+N: Q: 3/8=105
+R: waltz
+K: Gm
+|: "D7"D3- |D ^F G | A3- | A ^F D | "Gm"B3- | B A G | d3- | "G7"d3 |
+|  "Cm"e3- | e d c | "Gm"d3- | d c B | "D7"A3- | A B A | "Gm"G3- | G3 :|
+|: {GABcdef}"Eb"[ge] [ge]>[ge] | [ge] [ge]>[ge] | "Bb"[ge] [fd]>[=e^c] | [f3d] \
+| "Cm"[ec] [ec]>[ec] | [ec] [ec]>[ec]  | "Gm"[ec] [dB]>[^cA] | [d3B] |
+| "D7"[cA] [cA]>[cA] | [cA] [cA]>[cA]  | "Gm"[cA] [BG]>[A^F] | [G2D] [gB] \
+| "Cm"[ec] [cG] [AE] | "D7"[B2D] [A^F] | "Gm"[G3G-] | [G3G] :|]
+
+%%textfont Helvetica 10
+%%begintext
+version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Anniv_Waltz_Gm.txt.abc
+
+X:5
+T: Anniversary Waltz
+T: Chanesse Valts
+O: Eastern European Jewish
+M: 3/4
+L: 1/8
+N: Q: 3/8=105
+R: waltz
+K: Dm
+|: "A7"A,3- | A, ^C D | E3- | E ^C A, | "Dm"F3- | F E D | A3- | "D7"A3 |
+|  "Gm"B3-  | B A G | "Dm"A3- | A G F | "A7"E3- | E F E | "Dm"D3- | D3 :|
+|: {DEFGABc}"Bb"[dB] [dB]>[dB] | [dB] [dB]>[dB] | "F"[dB] [cA]>[=B^G] | [c3A] \
+| "Gm"[BG] [BG]>[BG]  | [BG] [BG]>[BG] | "Dm"[BG] [AF]>[^GE] | [A3F] |
+| "A7"[GE] [GE]>[GE]  | [GE] [GE]>[GE] | "Dm"[GE] [FD]>[E^C] | [D2A,] [dF] \
+| "Gm"[BG] [GD] [EB,] | "A7"[F2A,] [E^C] | "Dm"[D3D-] | [D3D] :|]
+
+%%textfont Helvetica 10
+%%begintext
+version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/anniv_waltz_dm.txt.abc
+
+X:6
+T: Anniversary Waltz
+T: Chanesse Valts
+O: Eastern European Jewish
+Z: 1997 John Chambers <jc:trillian.mit.edu>
+L: 1/4
+M: 3/4
+R: Waltz
+K: C
+|: "E7"E3- |E ^G A | B3- | B ^G E | "Am"c3- | c B A | e3- | "A7"e3 |
+| "Dm"f3- | f e d | "Am"e3- | e d c | "E7"B3- | B c B | "Am"A3- | A3 :|
+|: {ABcdefg}"F"[af] [af]>[af] | [af] [af]>[af] | "C"[af] [ge]>[^f^d] | [g3e] \
+| "Dm"[fd] [fd]>[fd] | [fd] [fd]>[fd] | "Am"[fd] [ec]>[^dB] | [e3c] |
+| "E7"[dB] [dB]>[dB] | [dB] [dB]>[dB] | "Am"[dB] [cA]>[B^G] | [A2E] [ac] \
+| "Dm"[fd] [dA] [BF] | "E7"[c2E] [B^G] | "Am"[A3A]- | [A3A] :|
+% Source: sources/terrytraub-org/abc/AnniversaryW.abc
+
+X:7
+T: Ba-shana ha-ba'a
+O: Israel
+Z: John Chambers <jc@trillian.mit.edu>
+M: 4/4
+L: 1/8
+K: Dm
+Af \
+| "Dm"d2 Af d3 f | "Gm"g>f ed "Am"cA Ac |\
+ "Bb"B2 Bd "A7"^c2 de | "Dm"d6 Af |
+ "Dm"d2 Af d3 f | "Gm"b>b ag "Dm"af Af |\
+ "Gm"d2 ef "A7"e2fg | "Dm"f2 g2 "D7"a2 ga ||
+ "Gm"b2 bb "C7"b2 ag | "F"a2 fe "Dm"f2 [ge][af]| \
+ "Gm"g2 gf "A7"e2 fg | "Dm"f2 g2 "D7"a2 ga |
+ "Gm"b2 bb "C7"b2 ag | "F"a2 fe "Dm"f2 ga| \
+ "Gm"g2 gf "A7"e2 d^c | "Dm"d6 |]
+T:or an octave down
+A,F \
+| "Dm"D2 A,F D3 F | "Gm"G>F ED "Am"CA, A,C |\
+"Bb"B,2 B,D "A7"^C2 DE | "Dm"D6 A,F |
+"Dm"D2 A,F D3 F | "Gm"B>B AG "Dm"AF A,F |\
+"Gm"D2 EF "A7"E2FG | "Dm"F2 G2 "D7"A2 GA ||
+"Gm"B2 BB "C7"B2 AG | "F"A2 FE "Dm"F2 [GE][AF]| \
+"Gm"G2 GF "A7"E2 FG | "Dm"F2 G2 "D7"A2 GA |
+"Gm"B2 BB "C7"B2 AG | "F"A2 FE "Dm"F2 GA |\
+"Gm"G2 GF "A7"E2 D^C | "Dm"D6 |]
+%%text TS63 - Craig's Birthday
+% Source: sources/spuds-thursdaycontra-com/TuneSwaps/0_SPUDS_TuneSwap_All.abc
+
+X:8
+T: Boiereasca
+O: Romanian klezmer
+S: Dick Crum, Ron Wixman
+M: 4/4
+L: 1/16
+K: Ador
+E2 \
+| "Am"A3B c2e ^d2c2 e4 \
+| ^defg agfe fedc dcBA \
+| ^defg agfe d3c dcBA |
+| ^deae agfe d2e2 z2E2 \
+|| "Am"A3B c2e ^d2c2 e4 \
+| ^defg agfe fedc dcBA |
+| A^GAE cBcA e^dec g4 \
+"\=>Coda"\
+| "B7"fe^dc "E7"dcBA BcA2 z2 \
+:: e2 \
+| "Am"a3e agfe aeae agfe |
+| c'bag fe^dc d3c dcBA \
+| BcAc ^dece gfed "E7"e4 \
+|| "Am"a3e agfe aeae agfe |
+| c'bag fe^dc B2c2- c2ce \
+| "B7"^d3c "E7"cBBA "Am"A4 z2 \
+:|[K:Amix=g]|: e2 \
+| "A"c16 |
+| {^d}e16 \
+| cdef gfed dccB BAe2 \
+| ^deee eeee agfe ^d2e2 |
+| ^defg agfe =c'bag fe=dc \
+| "B7"^defe "E7"=d3c "A"^BcA2 z2 :|\
+"Coda"\
+[| "E7"ze^de =f^f=g^g "A"a2z2 "E7"e2z2 "Am"HA4 |]
+% Source: sources/terrytraub-org/abc/boiereasca.abc
+
+X:9
+T:Bulgaros
+T:Lerem, lerem
+Z:Jack Campin, http://www.campin.me.uk/
+F:Jack Campin's Nine-Note Tunebook
+% last edit 03-02-2013
+O:Csango Hungarian dance tune from Moldavia
+M:C|
+L:1/8
+Q:1/2=96
+K:DMin
+A3F A3F   |A2A2   G2F2|G3F    G3F   |A2A2   G2F2:|
+D3E F>EG>E|F>EG>E F2E2|D3E    F>EG>E|F>DE>C D4   |
+D3E F>EG>E|F>ED>E F2G2|A>FG>E F>EG>E|F>DE>C D4  ||
+% Source: sources/campin-me-uk/Music/Chalumeau.abc
+
+X:10
+T:Cerdetshni
+S:Forgotten
+O:Russia
+Z:Nigel Gatherer
+S:Nigel Gatherer to CoMandoList TOW
+M:2/4
+L:1/8
+K:Dm
+f/e/f/d/ ^cA|df ea|g/f/e/d/ ^cA|df e2|f/e/f/d/ ^cA|df ea|
+g/f/e/d/ ^cA|df/e/ d2||A{^g}a A{^g}a|A{^g}a =g/f/e/d/|A{^g}a A{^g}a|
+A{^g}a d2|A{^g}a A{^g}a|A{^g}a =g/f/e/d/|A{^g}a A{^g}a|=ge d2|]
+% Source: sources/mandozine-com/music/TOW/TOW.txt.abc
+
+X:11
+T: Circle Cs\'ard\'as
+R: csardas
+O: Hungary
+B:
+D:
+Z: John Chambers <jc@trillian.mit.edu> http://trillian.mit.edu/~jc/music/
+M: 4/4
+L: 1/8
+K: Dm
+((3A/=B/^c/ \
+|| "Dm"d2)A2 "Gm"A2G2 | "Dm"FFAG "A7"FE3 | "Dm"D2"A7"{E}D^C "Dm"D2z2 ||
+|| "F"f2a2 "C7"a2eg | "Dm"f3d "F"dc3 | "Gm"d4 "A7"A4 ||
+|| "F"f2a2 "C7"a2eg | "Dm"f3d "F"dc3 | "Bb"d4 "A7"AA=B^c ||
+|| "Dm"d2A2 "Gm"A2G2 | "Dm"FFAG "A7"FE3 | "Dm"D2"A7"{E}D^C "Dm"D2z2 |]
+% Source: sources/terrytraub-org/abc/circle_csardas.abc
+
+X:12
+T:Dvajspetorka
+O:Macedonia
+B:Linsey Pollak Macedonian Folk Music
+Z:Anahata <anahata@treewind.co.uk>
+M:25/8
+L:1/8
+K:D
+|: f2d fg ag: f2d fg ag fe: ed d2A def |
+f2d fg ag: f2d fg ag: feed d2A d2 z2 :|
+adb ag fd: adb ag fd: feed d2A defA |
+adb ag fd: adb ag fd: feed d2A d2 z2 |
+fdg fe ed: fdg fe ed: feed d2A defA |
+fdg fe ed: fdg fe ed: feed d2A d2 z2 |
+fga f2fd: fga f2 fd: aA gA f2e defA |
+fga f2fd: fga f2 fd: aA gA f2e "fine" d2 z2 :|]
+b=c'd' b2ba: gab g2gf: g2gf efd ef ga |
+b=c'd' b2ba: gab g2gf: g2gf efd e2 z2 |
+dcd e2eB: dcd e2ed: fggf efd efga |
+dcd e2eB: dcd e2ed: efgf efd "^DC al fine"e2 z2 ||
+% Source: sources/maryanahata-co-uk/media/abc/dvajspetorka-d.abc
+
+X:13
+T:Expectation Waltz
+T:Ozhidanie
+R:Waltz
+C:Trad.
+O:Russia
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/4
+Q:1/4=160
+K:Em
+z B,|"Em"C2 B,|E2 F|G3-|G E F|G E F|G E G|"B7"F3-|F z B,|"B7"C2 B,|F2 G|
+A3-|A F G|A F G|A B c|"Em"B3-|B z B,|"Em"C2 B,|E2 F|G3-|G z E/F/|G z F/G/|
+"D7"A z G/A/|"G"B3-|B c B|"B7"A3-|A B A|"Em"G3-|G A G|"B7"F2 c|B2 ^D|"Em"E3-|+fine+E:|
+|:B G|"Em"B3-|B B G|B3-|B c A|"Am"c3-|c c A|c3-|
+c F G|"B7"A3-|A G A|"Em"B3-|B A G|"B7"F> Bc/B/|^D> Bc/B/|"Em"E3-|E:|
+|:e d|"D7"d3-|d c A|"G"B> B B|z =f e|"E7"e3-|e d B|"Am"c> c c|
+"Am"z A B|"D7"c3-|c A e|"G"d3-|d B G|"D7"D> FA/c/|e2 d|"G"G3-|".DC."G:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:14
+T:Hava Nagila
+T:Let Us Rejoice
+R:Klezmer
+C:Trad.
+N:Note E Phrygian Dominant key signature with just G# (Freygish)
+O:Israel
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=180
+K:EPhr ^G
+"E"E2 z2 E4|E2 G2 F2 E2|G2 z2 G4|G2 B2 A2 G2|"Am"A2 z2 A4|A2 c2 B2 A2|"E"G4 FE F2|E8:|
+|:"E"G2 G2-G2 F2|E2 E2 E2 z2|"Dm"F2 F2-F2 E2|D2 D2 D2 z2|D4 F3 E|D2 DD A4|"E"G4 FE F2|E8:|
+"Am"A8|c8|A4 e4|c4 A4|AA A2 c3 B|A2 c2 B2 A2|AA A2 c3 B|A2 c2 B2 A2|"Dm"BB B2 d3 c|B2 d2 c2 B2|
+"Dm"BB B2 d3 c|B2 d2 c2 B2|"E"BB B2 e4|e8|BB B2 E4|E4 -E2 E2|"Am"c4 B4|"E"A4 G4|"Am"A8|]
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:15
+T:Hineh Ma Tov
+O:Israel
+L:1/8
+M:4/4
+K:Dm
+D2|:"Gm".G2 .G2 .G2 AG|"Dm" F2 FE D4| F2 ED"Am"E2C2|[1"Dm" D2 D4 D2:|2"Dm"D2D3C =B,C||
+|:"Dm" D2 D2 "Am"DC =B,C|"Dm" D6 EF|"C" G2 FE "Bb"FEDC|[1"Dm" D4-DC =B,C:|[2"Dm"D6z2||
+"F"A2A2A2cA|"Eb"GFG4FG|"F"A2A2A2cA|"Gm"GFG4FE|
+"Dm"F2F2F2GF|"C"EDE4DC|"Bb"D2D2"Am"DC =B,C|D6z2|]
+%%text TS14 - Go-To Tunes
+% Source: sources/spuds-thursdaycontra-com/TuneSwaps/0_SPUDS_TuneSwap_All.abc
+
+X:16
+T: Hora Fetelor
+O: Romania
+Z: http://swissnet.ai.mit.edu/~jaffer/CFO.html
+M: 6/8
+L: 1/8
+Q: 3/8=100
+K: G
+V: 1 name=panpipes snm=panp
+%%MIDI channel 1
+%%MIDI program 1 75
+D|:D2G4 |A2B4 |(c3-(4cBA^G) |A3-A2 G |B2c2c2 |d_ef edc|
+ d6 |z3z2D |D2G4 |A2B4 |(c3-(4cBA^G) |A3-A2 G |
+ Bcd cB_A |cB_A AGF |G6 |1 z3 z2D :|2 z2B c2d |
+|: _e4-ed |d4-dc |Bcd c2B |c2A4 |B2c2c2 |d_ef edc |
+ d4 z2 |z2d _e2f |g4f2 |(4_e2d2c2B2 |gfe dcB |c2A-Az2 |
+ Bcd cB_A |cB_A AGF |1G6 |z2B c2d :|2 G3 D3 |G3z3 ||
+V: 2 name=cymbalom snm=cymb
+%%MIDI channel 1
+%%MIDI program 1 75
+%%MIDI channel 2
+%%MIDI program 2 15
+%%MIDI control 2 70
+%%MIDI gchord f3c3
+%%MIDI chordprog 42
+%%MIDI chordvol 40
+%%MIDI bassprog 43
+%%MIDI bassvol 60
+z|:"G"G,2B,D2B, |"F"F,2A,C2A, |"E"E,2^GB,2G |"Am"A,2CE2C |"Adim7"A,2C_E2C |G2C_E2C |
+ "G"G,2B,D2B, |G2B,D2B, |"G"G,2B,D2B, |"F"F,2A,C2A, |"E"E,2^GB,2G |"Am"A,2CE2C |
+ "Adim7"A,2C_E2C |G2C_E2C |"G"G,2B,D2B, |1 G2B,D2B, :|2 G2B,D2B, |
+|: "Cm"C2_EG2E |"G"G,2B,D2B, |"E"E,2^GB,2G |"Am"A,2CE2C |"Adim7"A,2C_E2C |G2C_E2C |
+ "G"G,2B,D2B, |G2B,D2B, |"Cm"C2_EG2E |"G"G,2B,D2B, |"E"E,2^GB,2G |"Am"A,2CE2C |
+ "Adim7"A,2C_E2C |G2C_E2C |1"G"G,2B,D2B, |G2B,D2B, :|2 "G"G,2B,D2B, |"G"G3 \
+%%MIDI gchordoff
+ z3 ||
+% Source: sources/terrytraub-org/abc/hora_fetelor.abc
+
+X:17
+T:Katyusha
+R:March
+C:Matvei Blanter 1938, after earlier trad.
+O:Russia
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:2/4
+L:1/8
+Q:1/4=120
+K:Em
+"Em"E3F|G3E|GG FE|"B7"F2B,2|F3G|A3F|AA GF|"Em"E>F GA|
+|:"Em"B2"C"e2|"G"d2"E7"ed|"Am"cc BA|"Em"B2 E2|"Am"zc2A|"Em"B3G|"B7"AA GF|"Em"E4:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:18
+T:Keresel
+Z:Jack Campin, http://www.campin.me.uk/
+F:Jack Campin's Nine-Note Tunebook
+% last edit 03-02-2013
+O:Csango Hungarian dance tune from Moldavia
+M:2/2
+L:1/8
+Q:1/2=90
+K:G
+BGDG     BGDG|ABcA {BA}B4  |AFDF     AFDF|{BA}BGAF G4:|
+D2GF {EF}E2D2|DFAF     GAB2|D2GF {EF}E2D2|    DFAF G4:|
+% Source: sources/campin-me-uk/Music/Chalumeau.abc
+
+X:19
+T:Ma Nishtana
+T:Why is Tonight Different?
+T:Four Questions, The
+R:Air
+C:Trad. Song.
+N:Questions asked at Jewish Passover Seder meal
+O:Israel
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/4
+Q:1/4=140
+K:F
+"Dm"F D/D/ D D|F D/D/ D A|("F"c B) "Gm"G B|"Dm"A3 A|("F"c B) "Gm"G B|"Dm"A3 D/D/|
+"Dm"F D/D/ D2|F D/D/ D A|("F"c B) "Gm"G B|"Dm"A3 A|("F"c B) "Gm"G B|"Dm"A3 F|
+"Dm"A A/A/ "C"G E|"Dm"F D/D/ D F|"A"A A/A/ "C"G E|"Dm"F D/D/ D (F|"A"E) A, (^C E)|"Dm"D4|]
+W:Ma nishtana haleilah hazeh mikol haleilot? Mikol haleilot?
+W:Shebechol haleilot anu ochlin chametz umatzah, chametz umatzah.
+W:Haleilah hazeh, haleilah hazeh. Haleilah hazeh, haleilah hazeh - kulo matzah.
+% Source: sources/hardy/pgh_songs_tunebook.abc
+
+X:20
+T: Moshe Emes 
+M: 2/4 
+L: 1/8 
+O: trad. Hassidic 
+I: E Freygish (Phrygian) mode 
+D: Andy Statman & David Grisman "Songs of Our Fathers" 
+S: Seth Austin to CoMandoList TOW 
+K: Am 
+"Pt A"\ 
+|:"E"^G>F EE | EE E2 | ^GA Bc | BA B2 \ 
+| "E"^G>F EE | EE E2 | ^GA "Dm"^G>F | "E"F E3 :| 
+"Pt B"\ 
+|:"E"^G2 "Am"A2 | "E"^GB "Am"A2 | "E"^GA Bc | BA B2 \ 
+| "E"^G2 "Am"A2 | "E"^GB "Am"A2 | "E"^GA "Dm"^G>F | "E"F E3 :| 
+"Pt C"\ 
+|:"Am"c4 | "E"B4 | "Am"A>^G A>^G | AB c{B}A \ 
+| "Am"c4 | "E"B4 | "Am"A>^G A>^G | "E"A ^G3 :| 
+"Pt D"\ 
+|:"E"^G2 "Am"A2 | "E"^GB "Am"A2 | "E"^GA Bc | BA B2 \ 
+| "E"^G2 "Am"A2 | "E"^GB "Am"A2 | "E"^GA "Dm"^G>F | "E"F E3 :|
+% Source: sources/mandozine-com/music/TOW-abc/TOW-2008-abc.txt.abc
+
+X:21
+T: Moshe Emes 
+C: trad. Hassidic (Klezmer) 
+S: Seth Austin to CoMandoList TOW 
+I: D Freygish (Phrygian) mode 
+L: 1/8 
+Q: 240 
+M: 2/4 
+K: G 
+"Pt A"\ 
+|: "D"F3/2_E/ DD | DD D2 | FG A_B | AG A2 \ 
+| F3/2_E/ DD | "D"DD D2 | "Cm"FG F3/2_E/ | "D"_ED z2 :| 
+"Pt B"\ 
+|: "D"F2 "Gm"G2 | "D"FA "Gm"G2 | "D"FG A_B | AG A2 \ 
+| "D"F2 "Gm"G2 | "D"FA "Gm"G2 | "Cm"FG F3/2_E/ | "D"_ED z2 :| 
+"Pt C"\ 
+|: "Gm"[_B4D4G,4] | "D"[A4D4] | "Gm"[G3/2G,3/2]F/ G3/2F/ | GA _B/A/G \ 
+| "Gm"[_B4D4G,4] | "D"[A4D4] | "Cm"G3/2F/ G3/2F/ | "D"GF z2 :| 
+"Pt D"\ 
+|: "D"F2 "Gm"G2 | "D"FA "Gm"G2 | "D"FG A_B | AG A2 \ 
+| "D"F2 "Gm"G2 | "D"FA "Gm"G2 | "Cm"FG F3/2_E/ | "D"_ED z2 :|
+% Source: sources/mandozine-com/music/TOW-abc/TOW-2008-abc.txt.abc
+
+X:22
+T: Ol\'ahos
+O: Hungary
+B: Geisler
+Z: 1998 by John Chambers <jc@trillian.mit.edu> http://trillian.mit.edu/~jc/music/
+M: 2/4
+L: 1/8
+K: Ddor
+|: "Dm"MA,D/E/ F/E/D | MA,D/E/ F/E/D | AA ^GF | "A7"E2 E2 :|
+|: "F"A>B cc | dc BA | BA ^GF | "A7"E2 E2 \
+|  "F"A>B cc | dc BA | "A7"BA FE | "Dm"D2 D2 :|
+% Source: sources/terrytraub-org/abc/olahos.abc
+
+X:23
+T:Paharelul
+Z:Jack Campin, http://www.campin.me.uk/
+F:Jack Campin's Nine-Note Tunebook
+% last edit 03-02-2013
+O:Romania
+M:3/2
+L:1/8
+Q:1/2=104
+K:DMin
+  DA3  GF2E G2FE|DA3  GF2E G2FE |
+|:DEFE ED2C G2FE|DEFE ED2C D2D2:|
+% Source: sources/campin-me-uk/Music/Chalumeau.abc
+
+X:24
+T:Papuselele
+T:ABCA
+Z:Jack Campin, http://www.campin.me.uk/
+F:Jack Campin's Nine-Note Tunebook
+% last edit 03-02-2013
+O:Dobrogea, Romania
+N:see YouTube for the dance
+M:12/8
+L:1/8
+Q:3/4=62
+N:each bar is 6/8+3/4
+P:ABCA
+K:DDor
+[P:A]      D2C D2C DE F2 E2|D2C D2C DE  F2 E2|\
+           D2C D2C DE F2 E2|D3  A3  D2  D4  :|
+[P:B]      G2F G2F GF E2 D2|D2C D2C DE  F2 E2|\
+           G2F G2F GF E2 D2|D3  A3  D2  D4  :|
+[P:C][K:D] d2d A2A GF E2 D2|D2D A3  F^G A2 z2|\
+           d2d A2A GF E2 D2|D2D A3  D2  D4  :|
+% Source: sources/campin-me-uk/Music/Chalumeau.abc
+
+X:25
+T:Pretzels [Dm]
+O:Russia
+M: C|
+L: 1/4 
+K: Dm
+zA, DE \
+| "Dm"F2 ED- | DG FE | F2 ED- | DD FA \
+| d2 ^cd- | df ed | A4 | zA B=B |
+ "F"c2 BA- | Ad cB | A2 GF- | FA cB \
+| "Dm"A2 GF- | FG "A7"FE | "Dm"D4 ||
+ "C7"zC FG \
+| "F"A2 GF- | Fc _cB | A2 GF- | FC FA \
+| c2 =Bc- | cf ed | "Dm"A4 | "A7"zA de |
+ "Dm"f2 ed- | dA cB | A2 GF- | "Dm"FA cB \
+| "Dm"A2 GF- | FG "A7"FE | "Dm"D4 |]"_last time" FA "A7"^cA | "Dm"d4 |]
+%%text TS61  - Steve and Feet
+% Source: sources/spuds-thursdaycontra-com/TuneSwaps/0_SPUDS_TuneSwap_All.abc
+
+X:26
+%%scale 0.65
+%%text 6
+T:Pretzels (Em)
+O:Russia
+M: C|
+L: 1/4 
+K:Em
+zB, EF \
+| "Em"G2 FE- | EA GF | G2 FE- | EE GB \
+| e2 ^de- | eg fe | B4 | zB c^c |
+ "G"d2 cB- | Be dc | B2 AG- | GB dc \
+| "Em"B2 AG- | GA "B7"GF | "Em"E4 ||
+ "D7"zD GA \
+| "G"B2 AG- | Gd _dc | B2 AG- | GD GB \
+| d2 ^cd- | dg fe | "Em"B4 | "B7"zB ef |
+ "Em"g2 fe- | eB dc | B2 AG- | "Em"GB dc \
+| "Em"B2 AG- | GA "B7"GF | "Em"E4 |]"_last time" GB "B7"^dB | "Em"e4 |]
+% Source: sources/spuds-thursdaycontra-com/sets/archive/2015-10-22SPUDsCompact.abc
+
+X:27
+T:Seikilos epitaph
+C:Hellenistic Ionic hymn
+C:Greek tombstone
+O:Tralles [near Aydin, Turkey], ~ 1st c CE
+S:https://en.wikipedia.org/wiki/Seikilos_epitaph
+Z:transcribed into ABC by Eric Conrad
+M:6/8
+L:1/8
+R:jig
+K:Amix % missing VI (i.e. F#)
+Ae2e3 | (cde) d3 | c2d e(dc) | BA2 (BG2) |
+w:Ὅ-σον ζῇς φαί__ \-\ νου μη-δὲν ὅ-λως_ σὺ λυ-ποῦ_
+w:While you live, shine,___ Have no grief__ at all.__
+Ace d(cd) | cA2 (BA2) | AcB dec | AA2 (AGE) || [D3A3] [A3E3A,3] |]
+w:πρὸς ὀ-λί-γον ἐσ_ \-\ τὶ τὸ ζῆν_ τὸ τέ-λος ὁ χρό-νος ἀ-παι-τεῖ__ ~ ~
+w:Life ex-ists on-ly for a short while,_ And__ time de_ \-\ mands an end.__ [A-men.]
+%%text
+%%text The last two notes are not part of the epitaph.
+%%text For more information, consult Wikipedia: https://en.wikipedia.org/wiki/Seikilos_epitaph
+% Source: sources/github-com/econrad003/music-abc/Ancient Greek Hymns.abc
+
+X:28
+T:Shalom chaverim
+C:anon.
+O:Israel
+M:C
+L:1/4
+K:Dm
+"^1" A,|DD/2E/2F "^2" D|FF/2G/2A "^3" A|d3c|A3 "^4" A|
+w:Sha-lom cha-ve-rim sha-lom cha-ve-rim sha-lom sha-lom l'-
+dA/2G/2FG|AF/2E/2DA,|D3E/2F/2|D3 z|]
+w:hit ra-*ot l'-hit ra-*ot sha-lom sha-*lom
+% Source: sources/alijc-github-io/music/friendly-house-senior-choir.abc
+
+X:29
+T:Skudrinka
+Z:Jack Campin, http://www.campin.me.uk/
+F:Jack Campin's Nine-Note Tunebook
+% last edit 03-02-2013
+O:Macedonia
+M:2/4
+L:1/16
+Q:1/4=120
+K:DMin
+E2D2 D2AG|FEF2 G2C2 |E2D2 D2AG|FEF2 G2C2|
+E2D2 D2AG|FEF2 G2C2 |E2D2 D2G2|D4   D4 :|
+ABcd cBAG|F3C  F>GEC|E2D2 DCAG|F3C  FGEC|
+ABcd cBAG|F3C  FGEC |EDDC G2C2|D4   D4 :|
+% Source: sources/campin-me-uk/Music/Chalumeau.abc
+
+X:30
+T: Somogyi Karik\'azo
+N: Women's circle dance
+O: Hungary
+C: Trad.
+Z: John Chambers <jc@trillian.mit.edu> http://trillian.mit.edu/~jc/music/
+Z: http://swissnet.ai.mit.edu/~jaffer/CFO.html
+M: 2/2
+L: 1/4
+K: Em
+P: A x 4; legato
+Q: 1/2=65
+| "E"e2 e2 | B3 ^c | "Bm"d2 B2 | "E"e2 e2 | B3 A | ^G2 E2 |
+| "D"A2 A2 | E3 F | "C"G2 A2 | "Am"B2 A2 | "D"E3 D | "Em"E2 Ez ||
+P: B x 3; lighter
+Q: 1/2=75
+| "Em"B<B eB | "Am"A E "B7"G<F | "Em"E2 Ez \
+| "C"e e e e | "D7"AB c<d | "G"B2 Bz |
+| "C"e e e e | "D7"AB c<d | "G"B2 Gz \
+| "Am"AA Bc | "Em"BE "B7"G<F | "Em"E2 E/F/4G/4 A/4B/4c/4d/4 |
+"C"[eG][eG] [eG][eG] | "D7"[AC][BD] [cE]<[dF] | "G"[B2D2] [G2B,2] \
+| "Am"[AC][AC]  [BD][cE] | "Em"[BE][EB,] "B7"[GB,]<[FA,] \
+| "Em"[EG,][EG,] [EG,]z ||
+% Source: sources/terrytraub-org/abc/somogyi_karikazo.abc
+
+X:31
+T:Sto Mi E Milo
+O:Macedonia
+M:7/8
+L:1/8
+K:D
+|: "D"D3 F2 G2 | A3 A4 | "G"B3 "D"AG FG | "D"A3 A4 |
+  "G"B3 A2GF | "Asus4"E2E "G"A2 G2 | "D"F3 "A"EF ED | "D"D3 D4 :|
+|: "D"DCD "A"E2 D2 | E3 E4 | "D"F3 FE DE | "D"F3 F4 |
+  "D"A3 BA GF | "Asus4"E2E "G"A2 AG | "D"F3 "A"EF ED | "D"D3 D4 :|
+P:Harmony
+|: "D"D3 D2 [E2D2] | [FD]3 [F-A,]2 [FC]2 | "G"[GD]3 "D"[FD]E [DA,]E | "D"[FA,]2 C [FD]4 |
+  "G"[GD]3 [FD]2 [EA,-][DA,] | "Asus4"[DA,]2[DA,] "G"[DB,]2[DB,]2 |\
+ "D"[DA,]3 "A"[CA,]2 [CA,]2 | "D"A,2 G, A,4 :|
+|: "D"DCD "A"C2 B,2 | [CA,]3 [CA,]4 | "D"[DA,]3 [DA,]2 [DA,]2 | "D"D3 D4 |
+  "D"[FD-]3 [GD][FD] [EA,-][DA,]| "Asus4"[DA,]2[DA,] "G"[DB,]2[DB,]2 |\
+ "D"[DA,]3 "A"[CA,]2 [CA,]2 | "D"A,2 G, A,4 :|
+%%text TS4 - Irregular Tunes
+%%text TS31 - Alt Patriotic Tunes
+% Source: sources/spuds-thursdaycontra-com/TuneSwaps/0_SPUDS_TuneSwap_All.abc
+
+X:32
+T: Syrtos Kritikos
+T: Ta mavra rukha
+R: syrtos
+Z: 1998 by John Chambers <jc@trillian.mit.edu> http://trillian.mit.edu/~jc/music/
+L: 1/8
+M: 4/4
+K: Ador
+P: Instr.
+|: "Dm"z~d2c ~d2cB | "Am"z~c2B ~c2BA | "G"z~d2B ~c2BG |1 "Am"ABcd "Dm"~e2d2 :|2 "Am"A>B AG FGA2 :|
+P: Vocal
+| A8- | A8 \
+w: Ama-an!
+|: "Dm"zd2c d2cB | "Am"zc2B c2BA | "G"zd2B c2BB |1 "Am"ABcd "Dm"edd2 :|2 "Am"A8 :|
+% Source: sources/terrytraub-org/abc/syrtos_kritikos.abc
+
+X:33
+T:Tzadik Katamar
+O:Israel
+M:C|
+L:1/8
+K:Em
+P:Intro
+B|"Am"cccB "D"AG/A/ FA|"G"BBBA "D"GF/G/ EG|"B7"FE^D^C DB,DF|"Em"E2z2z2zB,|
+P:A
+|:"Em"EE/F/ GE "B"^DEFB,|"Em"EE/F/ GE "B"B3B,|"Em"EE/F/ GE "B"^DEFB,|"Em"EE/F/ GE"E7"B3B|
+P:B
+"Am"cccB "D"AG/A/ FA|"G"BBBA "C"GF/G/ EG|"B"FE^D^C DB,DF|"Em"B4"E7"z2zB|
+"Am"cccB "D"AG/A/ FA|"G"BBBA "C"GF/G/ EG|"B"FE^D^C DB,DF|1"Em"E4z2zB,:|2"Em"E4z2zE||
+P:C
+K:C
+|:"Am"AA/B/ cA "E"^GABE|"Am"AA/B/ cA "E"ez2z|"Am"AA/B/ cA "E"^GABE|"Am"AA/B/ cA "A7"ez2e|
+P:D
+"Dm"fffe "G"dc/d/ Bd|"C"eeed "F"cB/c/ Ac|"E7"BA^G^F GEGB|"Am"e4"A7"z2ze|
+"Dm"fffe "G"dc/d/ Bd|"C"eeed "F"cB/c/ Ac|"E7"BA^G^F GEGB|1,2"Am"A4z2E:|3"LastTime" "Am"A4z2.A2|]
+%%text TS31 - Alt Patriotic Tunes
+% Source: sources/spuds-thursdaycontra-com/TuneSwaps/0_SPUDS_TuneSwap_All.abc
+
+X:34
+T:Ukrainian National Anthem
+T:Shche Ne Vmerla Ukrayiny
+R:March
+C:Mykhaylo Verbytsky (1815-1870)
+O:Ukraine
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=100
+K:G
+"G"B3B "Em"BABc|"G"d3c "Em"B2A2|"G"G2B2"B7"F2B2|"Em"E3F G2A2|
+"G"B3B "Em"BABc|"G"d3c "Em"B2A2|"G"G2B2"B7"F2B2|"Em"E4 E2z2||
+"B"F3F "Em"BAGF|EFGE "B"F2F2|"Em"G2G2"D"A2A2|"G"B4 B2z2|
+"B"F3F "Em"BAGF|EFGE "B"F2F2|"Em"G2B2"B"F2B2|"Em"E3F "G"GABc||
+"G"d3^c d2B2|"D"A2A2 dcBA|"Em"G2G2 "D"A2A2|"G"B3A "Em"GABc|
+"G"d3^c d2B2|"D"A2A2 dcBA|"Em"G2B2 "B7"F2B2|"Em"e4 e4|]
+W:The glory and freedom of Ukraine has not yet perished
+W:Luck will still smile on us brother Ukrainians.
+W:
+W:Our enemies will die, as the dew does in the sunshine,
+W:and we, too, brothers, we'll live happily in our land.
+W:
+W:We'll not spare either our souls or bodies to get freedom
+W:and we'll prove that we brothers are of Kozak kin.
+% Source: sources/hardy/pgh_songs_tunebook.abc
+
+X:35
+T: Varis Hasapikos II 
+T: Slow Hasapikos 
+R: hasapikos 
+O: Traditional - Greece 
+Z: John Chambers <jc@trillian.mit.edu>  
+F: http://trillian.mit.edu/~jc/music/abc/Greece/VariHasapikos2.abc 
+Z: abc format edited by Wendy Anthony 23/04/2008 PST 
+S: Scott Minter to CoMandoList TOW 
+L: 1/8 
+Q: 240 
+M: 4/4 
+K: Am 
+z4 z3/2e/ d3/2e/ |: "Dm"(3fff (3fff (3fff e3/2d/ | "Am"e3d c3/2e/ d3/2e/ | "Dm"f2 a2 g2 f2 | 
+"Am"e4 z3/2e/ d3/2e/ | "Dm"(3fff (3fff (3fff e3/2d/ | "Am"e3d c3/2B/ c3/2d/ | "E7"(3efe (3ded (3cdc (3BcB | 
+|1 "Am"A2 "E7"E2 "Am"A3/2e/ d3/2e/ :|2 "Am"A2 "E7"E2 "Am"Az E3/2A/ | 
+|: "Am"c4 c3/2B/ c3/2d/ | "G"B4 z3/2A/ B3/2c/ | "F"A2 A2 G2 F2 |1 "E7"E4 z2 E3/2A/ :|2 "E7"E4 z2 A3/2c/ | 
+|: "Am"e4 z3/2e/ d3/2e/ | "Dm"f2 z3/2e/ d3/2c/ d3/2e/ | f2 a2 g2 f2 | "Am"e6 A3/2c/ | "Am"e4 z3/2e/ d3/2e/ | 
+"Dm"f2 z3/2e/ d3/2c/ d3/2f/ | "E7"(3efe (3ded (3cdc (3BcB |1 "Am"A2 "E7"E2 "Am"A2 A3/2c/ :|2 "Am"A2 "E7"E2 "Am"A4 |
+% Source: sources/mandozine-com/music/TOW-abc/TOW-2008-abc.txt.abc
+
+X:36
+T: Vesper Hymn
+O: Russian Melody
+Q: "Moderato."
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 4/4
+L: 1/4
+K: Eb
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[|\
+GB AB | GB FB | GB AF | DD E2 |
+w: 1.~Hark! the ves-per hymn is steal-ing     O'er the wa-ters, soft and clear;
+w: 2.~Now, like moon-light waves re-treat-ing To the shore, it dies a-long;
+%
+GB AB | GB FB | GB AF | DD E2 |
+w: Near-er yet, and near-er peal-ing,  Now it bursts up-on the ear;
+w: Now, like might-y sur-ges meet-ing, Breaks the min-gled tide of song;
+%
+|: "^mf"ed eB | AF GB | ed eB | "^dim."A "Repeat pp."F E2 :|
+w: Ju-bi-la-te, far-ther steal-ing, Soft it fades up-on the ear;
+w: Ju-bi-la-te, waves re-treat-ing  To the shore, it dies a-long;
+%
+"^p"E>E EE | F>F FF | "^dim."EE E(G>F) | ED E2 |]
+w: Far-ther now, now far-ther steal-ing, Soft it fades up - on the ear.
+w: Hark! a-gain, like waves re-treat-ing To the shore it* dies a-long.
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:37
+T:Yellow Stockings Kopanitsa
+T:ECD - Longways Duple Minor, play AA BB
+C:arr. T. Traub 8-3-2003 / SD Epstein 6-20-2021
+M:7/8
+R:Kopanitsa
+K:C
+L:1/8
+|: A|"Am"cd cA cAA|"Am"cd cA "G"B2 G|"Am"cd cA cAA|"G"Bc de "Em"B2 G :|
+|: "C"cd ge gee|"C"cd ge "G"f2 d|"C"cd ge gee|"Dm"f2 d|d "G"B2 G :|
+% Source: sources/spuds-thursdaycontra-com/TuneSwaps/SPUDS_TS30_ChameleonTunes.abc
+
+X:38
+T:Yoshke (Tantz, Tantz, Yidelekh)
+O:klezmer
+M:C|
+L:1/8
+K:Am
+|  "E"EF^GA BcBA | ^G2GE "Am"A4 | "E"B2B2 dcBA | ^G2GE "Am"A4 \
+|  "E"EF^GA BcBA | ^G2GE "Am"A4 | "E"^G2G2 "Dm"FEFD | "E"E4 z2 |]
+[| "G"[G2B] \
+|  "C"cde4 e2 | "G"dedB G4 | "G7"GABc defd | "C"e3f "E"edcB \
+|  "Am"ABc4 c2 | "E"BcB^G E4 | EF^GA Bc^GB | "Am"A4 z2 |]
+[| ^GF \
+|  "E"E2^G2 E2G2 | "Am"A2A2 dcBA | "E"^G2G2 "Am"AGAc | "E"B2e2 ~e4 \
+|  "E"E2^G2 E2G2 | "Am"A2A2 dcBA | "E"^G2G2 "Dm"FEFD | "E"E4 z2 |]
+[| "G"[G2B] \
+|  "C"cde4 e2 | "G"dedB G4 | "G7"GABc defd | "C"e3f "E"edcB \
+|  "Am"ABc4 c2 | "E"BcB^G E4 | EF^GA Bc^GB | "Am"A4 z2 |]
+%%text TS16 - Light
+% Source: sources/spuds-thursdaycontra-com/TuneSwaps/0_SPUDS_TuneSwap_All.abc
+
+X:39
+T:Zum gali
+C:anon.
+O:Israel
+R:Work song
+M:4/4
+L:1/4
+K:Dm
+"^1" D D/2E/2 F/2E/2 F/2E/2|D D/2D/2 A, C:|
+w:Zum ga-li ga-li ga-li, zum ga-li ga-li.
+"^2" z F/2G/2 A A | G F/2G/2 A z | z F/2G/2 A A | G F/2E/2 D z |]
+w:He-cha-lutz le-ma'an a-vo-dah He-cha-lutz le-ma'an a-vo-dah
+% Source: sources/alijc-github-io/music/friendly-house-senior-choir.abc

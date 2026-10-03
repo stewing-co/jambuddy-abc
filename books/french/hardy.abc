@@ -1,0 +1,519 @@
+% Paul Hardy's Tunebooks: French & Breton tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T:Angels From the Realms of Glory
+R:March
+C:Trad.
+O:France - Iris
+N:Words by James Montgomery, 1816
+Z:Paul Hardy's Xmas Parts Tunebook 2024 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:4/4
+L:1/8
+Q:1/4=125
+%%score [1 2 3]
+K:G
+V:1
+%%MIDI program 23 % Tango Accordion
+%%voicecolor black
+"G" B2 BA B2 d2|"D" d2>c2"G"B2 G2|B2 BA B2 d2|"D" d2>c2"G"B4|
+"G" B2 B2 B2 d2|"D" d2>c2 "G" B2 G2|B2 BA B2 d2|"D" d2>c2"G"B4||
+"G" d4 "Em"edcB|"Am" c4 "D7"dcBA|"G" B4 "C"cBAG|"D" A4 D4|"G" G2 "D" A2 "G" B2 "C" c2|"G" B4 "D" A4|
+"G" d4 "Em"edcB|"Am" c4 "D7"dcBA|"G" B4 "C"cBAG|"D" A4 D4|"G" G2 "D" A2 "G" B2 "C" c2|"G" B4 "D" A4|"G" G8:|
+V:2 transpose =-12
+%%voicecolor maroon
+%%MIDI program 42 % Cello
+G4 G4|F2 A2 G4|D4 B,4|A,2 D2 G4|G4 D4|F2 F2 G4|G2 D2 D2 G,2|F2 D2 G4||
+B2 A2 ^G2 E2|A2 G2 F2 D2|G2 F2 E2 C2|D2 E2 F2 D2|E2 F2 G2 A2|G4 F4|
+B2 A2 ^G2 E2|A2 G2 F2 D2|G2 F2 E2 C2|D2 E2 F2 G2|E2 F2 G2 G2|G4 F4|[G8D8]:|
+V:3
+%%voicecolor teal
+%%MIDI program 32 % Acoustic Bass
+D2 D2 G4|D4 D4|G4 G4|F4 G4|D2 G2 B4|A4 G4|E4 B,4|F4 D4||
+B4 ^G4|A4 F4|G4 E4|F8|E2 F2 G2 C2|D4 [F4D4]|
+B4 ^G4|A4 F4|G4 E4|[A8F8]|E4 D2 C2|D4 D4|B,8:|
+% Source: sources/hardy/pgh_xmas_parts_tunebook.abc
+
+X:2
+T:Angels from the Realms of Glory
+R:March
+C:Trad.
+O:France
+Z:Paul Hardy's Xmas Tunebook 2019 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:4/4
+L:1/4
+Q:1/4=140
+K:G
+"G" B B/A/ B d|"D" d>c"G"B G|B B/A/ B d|"D" d>c"G"B2|
+"G" B B B d|"D" d>c "G" B G|B B/A/ B d|"D" d>c"G"B2||
+"G" d2 "Em"e/d/c/B/|"Am" c2 "D7"d/c/B/A/|"G" B2 "C"c/B/A/G/|"D" A2 D2|"G" G "D" A "G" B "C" c|"G" B2 "D" A2|
+"G" d2 "Em"e/d/c/B/|"Am" c2 "D7"d/c/B/A/|"G" B2 "C"c/B/A/G/|"D" A2 D2|"G" G "D" A "G" B "C" c|"G" B2 "D" A2|"G" G4|]
+W:Angels from the realms of glory
+W:Wing your flight o'er all the earth;
+W:Ye who sang creation's story;
+W:Now proclaim Messiah's birth:
+W:
+W:Come and worship, Come and worship;
+W:Worship Christ, the newborn King!
+% Source: sources/hardy/pgh_xmas_tunebook.abc
+
+X:3
+T:Bourrées Carrées de la Châtre
+R:Bourrée
+C:Trad.
+O:France
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+T:Ruban Bleu, Le
+"G" d2 BG|"D" F>G AB|"D7" c2 AF|"G" G>A Bc|"G" d2 BG|"D" F>G AB|"D7" c2 AF|"G"G4:|
+|:"D" F>A FA|"G" G>B GB|"D" A>c Ac|"G" B2 G2|"D" F>A FA|"G" G>B GB|"D7" d>c BA|"G"G4:|
+T:En Passant la Rivière
+|:"G"G>A Bc|d2d2|"C"e>f ge|"G"d>c BA|G>A Bc|d2d2|"C"e>f ge|"G"d3 d:|
+|:"G"B>G Bd|"Am"c>B AB|"D7"c>B ce|"G"d>c Bd|"G"B>GBd|"Am"c/2d/2c/2B/2 AB|"D7"c>d ef|"G"g3 d:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:4
+T:Canal en Octobre, Le
+R:Scottische
+C:Frédéric Paris, 1987
+O:France
+N:Work subject to copyright. With kind permission of Editions PARSIPARLA.
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Arrangement Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=110
+K:G
+A2|"G"B2BB cBAG|"Em"B2BB cBAG|"C"EFGB "D"A2-AG|FGEF "G"D4|
+B2BB cBAG|"Em"B2BB cBAG|"C"EFGB "D"A2 AF|"G"G6:|
+|:(3ABc|"G"d2dd cBAG|"Em"d2dd cBAG|"C"EFGB "D"A2-AG|FGEF "G"D4|
+d2dd cBAG|"Em"d2dd cBAG|"C"EFGB "D"A2AF|"G"G6:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:5
+T:Cotillion, The
+T:Chain Cotillion
+R:Rigaudon
+C:Trad.
+O:France
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:2/2
+L:1/8
+Q:1/2=80
+K:G
+D2|"G"G4 "D"d4|"G"B2 AB G2 AB|"C"c2 B2 "D"A2 G2|"A7"F2 EF "D"D3 D|"Em"E4 "Bm"F4|"G"GFGA .G2 d2|"C"cBAG "D7"BAGF|"G"G6:|
+|:d2|"D"dedc "G".B2 d2|"D"dedc "G".B2 d2|"Em"e2 d2 "D"e2 f2|"G"g4 "D"d2 ef|"Em"g2 fe "G"d2 cB|"C"e2 dc "G"B2 AB|
+"C"c2 B2 "D"A2 G2|"A7"F2 EF "D"D3 D|"Em"E4 "D"F4|"G"GFGA G2 d2|"C"cBAG "D"BAGF|"G"G6:|
+|:d2|"G"gfga g2 d2|g6 d2|Bc .d2 Bc .d2|BcBA G2 d2|gfga g2 d2|g6 d2|Bc .d2 Bc .d2|B6:|
+|:B2|"Am"B2 .A2 A2 Bc|"G"d6 g2|.d2 .d2d2 cB|"D"AGAB A2 GA|"G"BcBA GABc|"D"dcde "G"d2 g2|"Em"B2 g2 "D"GABA|"G"G6:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:6
+T:Ding Dong Merrily on High
+R:March
+C:Arbeau 1589
+O:France
+Z:Paul Hardy's Xmas Tunebook 2019 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:2/2
+L:1/4
+Q:1/2=100
+K:G
+"G"GG "D" A/2G/2F/2E/2|"G"D3 D|"C"EG "D7"GF|"G"G2 G2:|
+|:"G"d>c "Em"B/2c/2d/2B/2|"Am"c>B "D7"A/2B/2c/2A/2|"G"B>A "Em"G/2A/2B/2G/2|"Am"A>G "D7"F/2G/2A/2F/2|
+"Em"G>F "C" E/2F/2G/2E/2|"D"F>E DD|"C"EG "D7"GF|"G"G2 G2:|
+W:Ding dong! merrily on high
+W:In heav'n the bells are ringing:
+W:Ding dong! verily the sky
+W:Is riv'n with Angel singing.
+W:Gloria; Hosanna in excelsis!
+W:
+W:(George Ratcliffe Woodward, 1924)
+% Source: sources/hardy/pgh_xmas_tunebook.abc
+
+X:7
+T:Eric's Waltz
+T:Valse à Eric
+R:Waltz
+C:Eric Elsener
+O:France
+Z:Paul Hardy's Session Tunebook 2021 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+D2|"G"G4 A2|"Bm"B4 d2|"C"c2 cd cB|"D"A4 c2|"G"B2 Bc BA|"Em"G4 B2|"A7"A2 AG FG|"D"A4 D2|
+"G"G4 A2|"Bm"B4 d2|"C"c2 cd cB|"D"A4 c2|"G"B2 Bc BA|"D"G2 A2 F2|"G"G2 "D"FG BA|"G"G4 d2|
+"C"c2 cd cB|"D"A4 c2|"G"B2 Bc BA|"Em"G4 B2|"Am"A2 AB AG|"D"F2 G2 A2|"G"B2 BA GA|"Bm"B4 d2|
+"C"c2 cd cB|"D"A4 c2|"G"B2 Bc BA|"Em"G4 B2|"Am"A2 AB AG|"D"F2 G2 A2|"G"G2 "D"FG BA|"G"G4|]
+% Source: sources/hardy/pgh_basic_tunebook.abc
+
+X:8
+T:Fête du Village, La
+T:Fete du Village
+R:Bourrée
+C:Trad.
+O:France
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:2/2
+L:1/8
+Q:1/2=80
+K:G
+"G"d3c B2AB|"C"c2B2 "D"A4|"G"B2G2 GFGB|"D"AGFE D2Bc|"G"d3c B2AB|"C"c2B2 "D"A4|"G"B2d2 "D7"cBAF|"G"G4 G4:|
+|:"G"DGBG "D"DFAF|"G"DGBG "D"DFAF|"G"G2d2 "C"c2B2|"D"AGAB A4|"G"DGBG "D"DFAF|"G"DGBG "D"DFAF|"G"D2d2 "D7"cBAF|"G"G4 G4:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:9
+T:Filles de Mon Pays, Les
+T:Adieu les Filles de Mon Pays
+R:March
+C:Trad.
+O:France; Morvan
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/4
+Q:1/4=120
+K:G
+"G"G2 B>A|G2 B>A|GA Bc|"Bm"d4|B3d|"G"dB GA|1 "Em"B2"Am"c>B|"D7"A4:|[2 "D7"B2 A2|"G"G4||
+|:"G"d2 g>f|"Em"e3d|"Am"c2 e2|"Bm"d4|"G"B2 B>d|dB GA|1 "Em"B2"Am"c>B|"D7"A4:|[2 "D7"B2 A2|"G"G4|]
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:10
+T:Ganivelle
+R:Scottische
+C:Frédéric Paris, 1986
+O:France
+N:Work subject to copyright. With kind permission of Editions PARSIPARLA.
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Arrangement Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=100
+K:G
+GA|"G"B4 "D"A2GA|"G"B2.G2 G2AB|"C"cBcd cBAG|"D"A6 GA|
+"G"B2Bc "D"A2GA|"G"B2G2 G2AB|"C"cB cd "Am"ed cB|"D7"A6:|
+|:d2|"C"e2ed "D"c2Bc|"G"d2G2 GB cd|"C"e2-ed "D"c2Bc|"G"d2-de dG Bd|
+"C"e2ed "D"c2Bc|"G"d2G2 G2AB|"C"c2-cd "Am"cB AG|1"D"A6:|2"_Out""G"G6|]
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:11
+T:Horse's Brawl
+T:Branle des Chevaux
+R:Reel
+C:From Arbeau, Orchesographie, 1689
+O:France
+Z:Paul Hardy's Session Tunebook 2021 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:2/2
+L:1/8
+Q:1/2=90
+K:G
+"G"G3A B2B2|"C"c2B2A2c2|"G"B2A2G2F2|"C"E4 "D"D4|"G"G3A B2B2|"C"c2B2A2c2|"G"BAG2 "D"G2F2|"G"G4G4:|
+|:"G"d2cB A2B2|"C"c2BA "Em"G2B2|"G"A2G2F2G2|"D"A4A4|"G"d2cB A2B2|"C"c2BA "Em"G2B2|"G"A2G2 "D"G2F2|"G"G4G4:|
+|:"Gm"_B2AG B2AG|"D"F2G2A4|D2E2F2G2|A2_B2A2G2|"Gm"_B2AG B2AG|"D"F2G2A4|D2E2F2G2|G2^F2 "Gm"G4:|
+% Source: sources/hardy/pgh_basic_tunebook.abc
+
+X:12
+T:Il Est Né le Divin Enfant
+T:He Is Born, the Holy Child
+R:March
+C:Trad.
+O:France
+Z:Paul Hardy's Xmas Tunebook 2019 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:4/4
+L:1/4
+Q:1/4=140
+K:G
+"G"D G G B/G/|D G G2|G G/A/ B c/B/|1 "D"A G A/F/ D:|2 "D"A d "G"G2||
+|:"G"B cd c/B/|"C"c e "D"d2|"G"Bc d e/d/|1 "C"c B "D7"B A:|2 "C"c B "D"A2|]
+W:Il est né le divin enfant,
+W:Jouez hautbois, résonnez musette.
+W:Il est né le divin enfant,
+W:Chantons tous son avènement.
+W:
+W:He is born, the holy Child,
+W:Play the oboe and bagpipes merrily!
+W:He is born, the holy Child,
+W:Sing we all of the Savior mild.
+% Source: sources/hardy/pgh_xmas_tunebook.abc
+
+X:13
+T:Marianne, La
+R:Waltz
+C:Trad. Popularised by Frédéric Paris
+O:France
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/8
+Q:1/4=160
+K:G
+"G"G2B2G2|"Bm"d6|"C"c2e2c2|"D7"B4A2|"G"G2B2G2|"Bm"d6|"D7"c2B2A2|1 "G"G6:|2 "D7"d6||
+|:"Am"c2ecAc|"G"B2dBGB|"D7"A2cAFA|"G"G2BGBd|"Am"c2ecAc|"G"B2dBGB|"D7"A2cAFA|"G"G6:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:14
+T:Mazurka d'Auvergne
+T:Mazurka Gentiane
+R:Mazurka
+C:Trad.
+O:France
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+FE|"G"D>G G>F G2|D>B B>A B2|"Am"cB AG FG|"D"AG FE ED|"G"D>G G>F G2|D>B B>A B2|"Am"cB AG "D7"FA|"G"G2G2:|
+|:Bc|"G"d2 d>e d>c|"Em"B2G2 AB|"Am"cB cd cB|"D"A4 Bc|"G"d2 d>e d>c|"Em"B2G2 AB|"Am"cB AG "D7"FA|"G"G4:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:15
+T:Mazurka d'Auvergne
+T:Mazurka Gentiane
+R:Mazurka
+C:Trad.
+O:France
+Q:1/4=120
+M:3/4
+L:1/8
+K:G
+(3GFE| "G"D>G G>F G2 | D>B B>A B2 | "Am"cB AG FG | "D"AG FE ED |
+"G"D>G G>F G2 | D>B B>A B2 | "Am"cB AG "D7"FA | "G"G2G2 :|
+|: Bc |"G"d2 de dc | "Em"B2G2 AB | "Am"cB cd cB | "D"A4 Bc |
+"G"d2 de dc | "Em"B2G2 AB | "Am"cB AG "D7"FA | "G"G4 :|
+% Source: sources/hardy/pgh_sets_tunebook.abc
+
+X:16
+T:O Come, O Come Emmanuel
+T:Veni Emmanuel
+R:March
+C:Trad. 15C, Arr Anderson (PD)
+O:France
+Z:Paul Hardy's Xmas Parts Tunebook 2022 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:4/4
+L:1/4
+Q:1/4=120
+P:AB2
+K:Em
+P:A
+V:1
+%%score [1]
+%%partsbox 1
+%%voicecolor black
+%%MIDI program 23 % Tango Accd.
+A|B G E G|A F E D|E3||
+%%score [1 2 3 4]
+P:B
+V:1
+%%voicecolor black
+%%MIDI program 23 % Tango Accd.
+E|"Em"G B BB|"Am"A c "D"B A|"G"G3 A|"Em"B G EG|"D"A F ED|"Em" E3A|
+"Am" A E EF|"C"G2 FE|"D"D3G|"Em" A B B B|"Am"A c "D"B A|"G"G3 d||
+"D"d3 B|"B7"B3 "Em"B|"Am"A c "D"B A|"G"G3 A|"Em"B G E G|"Am"A F "D"E D|"Em"E3|]
+V:2
+%%voicecolor maroon
+%%MIDI program 65 % Alto Sax
+E|E B, D G|G3 F|D3 D|D D C D|(E C B,) B,|B,3 (E/D/)|
+C A, E ^D|(E =D D) ^C|D3 B,|D D D G|G3 F|G3 G|
+F3 G|F3 G|G3 F|G3 F|G D C D|(E C B,) B,|B,3|]
+V:3 clef=treble-8 transpose = -12
+%%voicecolor teal
+%%MIDI program 42 % Cello
+G|B F G d|(e2 d) c|B3 F|G G G B|(A2 G) F|G3 A|
+A c B A|(G2 A) G|F3 G|F F G d|(e2 d) c|B3 B|
+A3 e|d3 d|(e2 d) c|B3 d|d G G B|(A2 G) F|G3|]
+V:4 clef=treble-8 transpose= -12
+%%voicecolor blue
+%%MIDI program 32 % Acoustic Bass
+E|E D B, G,|(C A, B,) D|G3 D|G, B, C B,|(C A, B,) B,|E3 (C/2B,/2)|
+A, A G F|(E B, A,) A,|F3 G|F B, G, B,|(C A, B,) D|G,3 G|
+D3 E|B,3 G,|(C A, B,) D|E3 D|G, B, C B,|(C A,) B, B,|E3|]
+W:O come, O come, Emmanuel,
+W:And ransom captive Israel,
+W:That mourns in lonely exile here
+W:Until the Son of God appear.
+W:Rejoice! Rejoice!
+W:Emmanuel shall come to thee, O Israel.
+W:
+W:(Trans. John Neale of 12C Veni, veni, Emmanuel)
+% Source: sources/hardy/pgh_xmas_parts_tunebook.abc
+
+X:17
+T:O Come, O Come Emmanuel
+T:Veni Emmanuel
+R:March
+C:Trad. 15C
+O:France
+Z:Paul Hardy's Xmas Tunebook 2019 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:4/4
+L:1/4
+Q:1/4=120
+K:Em
+E |"Em"G B BB |"Am"A c "D"B A| "G"G3 A| "Em"B G EG |"D"A F ED|"Em" E3A|
+"Am" A E EF |"C"G2 FE |"D"D3G|"Em" A B B B |"Am"A c "D"B A |"G"G3 d||
+"D"d3 B|"B7"B3 "Em"B |"Am"A c "D"B A| "G"G3 A | "Em"B G E G |"Am"A F "D"E D |"Em"E3 |]
+W:O come, O come, Emmanuel,
+W:And ransom captive Israel,
+W:That mourns in lonely exile here
+W:Until the Son of God appear.
+W:
+W:Rejoice! Rejoice!
+W:Emmanuel shall come to thee, O Israel.
+W:
+W:(Trans. John Neale of 12C Veni, veni, Emmanuel)
+% Source: sources/hardy/pgh_xmas_tunebook.abc
+
+X:18
+T:O Holy Night
+T:Cantique de Noël
+R:Jig
+C:Adolphe Adam (1803-1856)
+O:France
+Z:Paul Hardy's Xmas Tunebook 2019 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:6/8
+L:1/8
+Q:3/8=100
+K:D
+"D"F3 F2 F|A3- A2 A|"G"B2 B G2 B|"D"d6|A2 A F2 E|D3 F2 G|"A"A3 G2 E|"D"D6-|D4 z2|
+"D"F3 F2 F|A3- A2 A|"G"B2 B G2 B|"D"d6|A2 A ^G2 F|"F#m"c3 A2 B|"C#"c3 d2 c|"F#m"F6-|F3 z2A|
+"A"A3 B3|E3 A3|"D"B2 A d2 F|B3 A2 A|"A"A3 B3|E3 A3|"D"B2 A d2 F|A3- A2 z||
+"Bm"d6-|d2 z c2 B|"F#m"c6-|c2 z c3|"Em"e6-|e z B B2 B|"Bm"d6-|d3 z2 d|
+"D"f6|"A"e3- e2 A|"D"d6-|"G"d2 z c2 B|"D"A6-|"A"A z A B2 A|"D"A6-|A2 z d3|
+"A"e6-|e2 z A3|"D"f6-|f3 "A"e3|"D"d3- d2 z|"A"c3 d2 e|"D"d6-|d4 z2|]
+W:O Holy night, the stars are brightly shining. It is the night of our dear savior's birth.
+W:Long lay the world in sin and error pining,'Til he appeared and the soul felt its worth.
+W:A thrill of hope, the weary world rejoices,For yonder breaks a new and glorious morn.
+W:Fall on your knees. Oh, hear the angels voices.
+W:Oh, night divine. Oh, night when Christ was born.
+W:Oh, night. Oh, holy night. Oh, night divine.
+W:
+W:(Translation by by John Dwight, of Minuit Chrétien by Placide Cappeau, 1847)
+% Source: sources/hardy/pgh_xmas_tunebook.abc
+
+X:19
+T:Patapan
+R:March
+C:Bernard de La Monnoye 1720
+O:France
+Z:Paul Hardy's Xmas Tunebook 2019 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:2/2
+L:1/8
+Q:1/4=120
+K:Em
+"Em"E2E2 B2B2|A2B2 G2FG|"D"A2F2 "Em"B4|G4 "B7"F4||"B7"F2G2 F2^D2|"Em"E2F2 G4|
+EFGA B4|"Am"ABAG "B7"F4|"B7"F2G2 F2^D2|"Em"E2F2 G2 FG|"Am"A2 GA "B7"B4|F4"Em"E4|]
+W:Willie, bring your little drum;
+W:Robin, bring your flute and come;
+W:And be merry while you play,
+W:Tu-re-lu-re-lu, Pat-a-pat-a-pan,
+W:Come be merry while you play,
+W:On this joyous Holiday!
+W:
+W:Guillaume, prends ton tambourin,
+W:Toi, prends ta flûte, Robin;
+W:Au son de ces instruments,
+W:Turelurelu, patapatapan,
+W:Au son de ces instruments,
+W:Je dirai Noël gaîment.
+% --------------------------------- Q ---------------------------------------
+% --------------------------------- R ---------------------------------------
+% Source: sources/hardy/pgh_xmas_tunebook.abc
+
+X:20
+T:Plaisir d'Amour
+R:Waltz
+C:Jean-Paul Martini (1785) Arr. PGH 2021
+O:France
+Z:Paul Hardy's Parts Tunebook 2024 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:3/4
+L:1/8
+Q:1/4=120
+%%score [1|2]
+K:G
+V:1
+%%voicecolor black
+%%MIDI program 23 % Tango Accordion
+zD|"G"G6|"D"A6|"G"B6|B4 z B|"C"c6|"G"B3 G B2|"D"A6|A4 z D|
+"C"E6|"D"F6|"G"G2 A2 B2|"C"E2 A3 c|"G"B6|"D"A6|"G"G6-|G4|]
+V:2
+%%voicecolor maroon
+%%MIDI program 65 % Alto Sax
+zd|G3 B d2|D2 A2 d2|G3 B D2|G2 B2 d2|e3 G c2|G2 B2 G2|D2 F2 A2|D3 F A2|
+C2 G2 E2|C2 F2 A2|B,2 A,2 G,2|C4 A2|D3 B d2|D2 c2 d2|GA Bc dc|G4|]
+% Source: sources/hardy/pgh_parts_tunebook.abc
+
+X:21
+T:Plaisir d'Amour
+R:Waltz
+C:Jean-Paul Martini (1785)
+O:France
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+zD|"G"G6|"D"A6|"G"B6|B4 z B|"C"c6|"G"B3 G B2|"D"A6|A4 z D|
+"C"E6|"D"F6|"G"G2 A2 B2|"C"E2 A3 c|"G"B6|"D"A6|"G"G6-|G4|]
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:22
+T:Plane Tree, The
+T:Mominette; Schottische à Bethanie
+R:Jig
+C:U Hornby after J-F Heintzen 1981
+O:France
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:6/8
+L:1/8
+Q:3/8=100
+K:G
+"Em"EGB EGB|"Am"cBA "Em"B2 B|"Am"cde "G"dcB|"Am"AGA "Em"B3|
+"Em"EGB EGB|"Am"cBA "Em"B2 B|"Am"cde "G"dcB|"D"AGF "Em"E3:|
+|:"Em"efg "D"f2e|"G"ded BAB|"Am"cde "G"dcB|"Am"AGA "Em"B3|
+"Em"efg "D"f2e|"G"ded BAB|"Am"cde "G"dcB|"D"AGF "Em"E3:|
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:23
+T:Poules Huppées, Les
+T:Crested Hens, The
+R:Bourrée
+C:Gilles Chabenat, 1983
+O:France
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/8
+Q:1/4=120
+K:D
+"Em"E3 GFE|B4 Bc|"Bm"dc Be dc|"D"dc BA GF|"Em"E3 GFE|B4 Bc|"D"dc BA GA|1"Em"B3 G FD:|2"Em"B4 ef||
+|:"Em"gB Bg gB|"C"=c4 ef|"D"gf ag fe|"B7"^d2 e2 f2|"Em"gB Bg gB|"C"=c4 ef|"D"gf ag fd|1"Em"e3 e ef:|2"Em"e3 G FD|]
+% Source: sources/hardy/pgh_session_tunebook.abc
+
+X:24
+T:Rosbif Waltz
+R:Waltz
+C:Trad.
+O:France
+Z:Paul Hardy's Possible Tunebook 2026 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/8
+Q:1/4=120
+K:Am
+AB|"Am"c2AB cA|c2AB cA|"Em"B2GA BG|"Am"A2A4|"Am"c2AB cA|c2AB cA|"Em"BA GA BG|"Am"e2e4|
+"Am"e2cd ec|"Dm"d2d4|"Am"c2AB cA|"Em"B2B4|"Am"c2AB cA|cB AB cA|"Em"BA GA BG|"Am"A2A2:|
+|:A2|"Am"e2f2e2|c4c2|e2f2e2|"Dm"d4d2|"G"d2dB GB|d2dB GB|"Dm"d4c2|"Am"A4:|
+|:A2|"Am"c3B c2|"Dm"d4d2|"C"e2g2f2|"Am"e3d c2|"Dm"a3g f2|"Am"e3d c2|"Dm"d4c2|"Am"A4:|
+% Source: sources/hardy/pgh_possible_tunebook.abc
+
+X:25
+T:Roulante, La
+T:LNB Polka, The
+R:Polka
+C:Jean Blanchard, 1980s
+O:France
+N:A 'Roulante' was a wheeled kitchen to feed troops in WWI.
+Z:Paul Hardy's Session Tunebook 2026 (see pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:2/2
+L:1/4
+Q:1/2=80
+K:Dmix
+"D"dA "C"c>B|"D"AF "G"GF/G/|"D"A>B A/B/A/G/|"A7"FA E2|"D"dA "C"c>B|"D"AF "G"GF/G/|"D"A>B "A7"A/B/A/G/|FE "D"D2:|
+|:"Em"GE B/E/G/B/|G/E/B BA/G/|"D"FD A/D/F/A/|F/D/A AG/F/|"Em"GE B/E/G/B/|G/E/B B2|"D"A>B "A7"A/B/A/G/|FE "D"D2:|
+% Source: sources/hardy/pgh_session_tunebook.abc

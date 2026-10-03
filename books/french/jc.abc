@@ -1,0 +1,637 @@
+% John Chambers' ABC archive: French & Breton tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T: Alouette
+O: French Canadian Folk Song
+%R: air, _
+B: "The Golden Book of Favorite Songs", 1923
+S: https://ia802507.us.archive.org/33/items/goldenbookoffavo00beat_0/goldenbookoffavo00beat_0.pdf
+Z: 2020 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Ab
+%%continueall 0
+V: 1 brace=2
+V: 2 clef=bass middle=D
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[V:1][| [A3E3][BE] [c2A2][c2A2] | [BG]>[AA] [GB]>[cG] [A2E2][E2] |[A3E3][BE] [c2A2][c2A2] | [BG]>[AA] [BG]>[cG] "^FINE"[A4A4] |]
+w: 1.~ A-lou-et-te, gentile A-lou-et-te, A-lou-et-te, Je te plu-me-rae.
+w: 2.~ A-lou-et-te, gentile A-lou-et-te, A-lou-et-te, Je te plu-me-rae.
+[V:2][| [c3A3][dA] [e2A2][e2A2] | [dE]>[cE] [dE]>[eE] [c2A2][c2A2] | [c3A3][dA] [e2A2][e2A2] | [dE]>[cE] [dE]>[eE] [c4A4] |]
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[V:1]| [EE]>[EE] [AA]>[GG] [AA]>[cc] [e2e2] | [eG]>[fG] [eG]>[dG] [cG]>[BG] [A2A2] | [ee]>[ee] [e2] z4 | "_D.C."He8 |]
+w: 1.~Je te plu-me-rai la tete, Je te plu-me-rai la tete, Et la tete, "Oh!"
+w: 2.~Je te plu-me-rai la tete, Je te plu-me-rai la tete, Et la bec, *
+w:   |                        |                         | Et la tete, *
+[V:2]| [EE]>[EE] [AA]>[GG] [AA]>[cc] [e2e2] | [BE]>[BE] [BE]>[BE] [eE]>[dE] [c2A2] | z4 [EE]>[EE] [E2E2] | HE8 |]
+w: | | | 1.~Et la tete. *
+w: | | | 2.~Et la bec.  *
+w: | | |    Et la tete, *
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%%text 3. Le nez.  4. Le dos.  5. Les Pattes.  6.Le cou.
+%%vskip 10pt
+%%begintext align
+%% In the measure before the Oh!, and the D.C. where whe women's voices are echoed by the men's,
+%% a word is added as each verse is sung and the words of preceding verses are sung in reverse order.
+%% Thus, in the last verse, the duet between women and men would run as follows:
+%% Et le cou, et le cou; et les pattes, et les pattes; et le dos,  et le dos;
+%% et le nez, et le nez; et la  bec,    et la  bec;    et la tete, et la tete; Oh!
+%% and then back to the beginning to the Fine.
+%%endtext
+% Source: sources/jc/GoldenBookOfFavoriteSongs/GoldenBookOfFavoriteSongs2.abc
+
+X:2
+T: ANDANTE
+O: French air, arranged by Adam Kurek.
+B: Oliver Ditson "The Boston Collection of Instrumental Music" 1910 p.155 #2
+F: http://conquest.imslp.info/files/imglnks/usimg/8/8f/IMSLP175643-PMLP309456-bostoncollection00bost_bw.pdf
+%: 2012 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/8
+K: Bb
+% -------------------------
+V: 1
+"1st VIOLIN"!p!z | (DFAF) | (CFAF) | (DF) (BF) |\
+A(e/d/) cz | (3zDF (3BFD | (3zCF (3cAF | (3DFB (3CFA |
+[BD][dF][BD]z  !mf! |: A2!trem2!c2 | B2!trem2!d2 :|\
+!p!DFBF | CFAF | [BF][BF][AF][AF] | [BD][dF][BD] H|]
+% -------------------------
+V: 2
+K: C
+"2d VIOLIN"!p!z | ([D4B,4] | [E4C4] | [D4B,4]) |\
+[FC](c/B/) Az | ([D4B,4] | [E4C4]) | ([D2B,2][E2C2]) |\
+[DB,][DB,][DB,]z !mf!|: (F2!trem2!A2) | (G2!trem2!B2 :|\
+!p![D4B,4] | [E4C4]) | [DB,][DB,] [EC][EC] | [DB,][DB,][DB,] H|]
+% -------------------------
+V: 3
+K: C
+"Bb CLAR."!p!g | g2e>e | f2d z/d/ | eg c'>e |\
+d2 zg/g/ | g2e>e | f2d z/f/ | ee {e}d/c/d/e/ |\
+c2 zz/!mf!g/ |: ffdd | g2eg :|\
+!p!g2 ee | f2 dd | ee {e}d/c/d/e/ | cec H|]
+% -------------------------
+V: 4 clef=bass middle=d
+"BASE"!p!z | B2z2 | f2z2 | B2z2 |\
+Fffz | B2z2 | F2z2 | B2F2 |\
+Bbbz !mf!|: afaf | "^>"bfbf :|\
+!p!B2z2 | F2z2 | B2f2 | bBB H|]
+% Source: sources/jc/BostonCollection/1552_ANDANTE.abc
+
+X:3
+T: AU CLAIR DE LA LUNE
+Q: "Allegretto"
+%R: march
+B: "Edinburgh Repository of Music" v.2 p.78 #2
+F: http://digital.nls.uk/special-collections-of-printed-music/pageturner.cfm?id=87776133
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: The 2nd strain has initial repeat but no final repeat; not fixed.
+M: 2/4
+L: 1/8
+K: G
+|:\
+ggga | b2a2 |\
+gb aa/b/ | g2z2 :|\
+|:\
+aaaa | e2e2 |\
+agfe | dc'ba |\
+ggga | b2a2 |\
+gb aa/b/ | g2z2 |]
+% Source: sources/jc/ERM/20782_Au_Clair_de_la_Lune.abc
+
+X:4
+T: C'EST L'AMOUR.--O! 'TIS LOVE.
+O: French air.
+Q: "With spirit."
+%R: air, jig
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.4 #4 (and p.5 #1)
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: Bb
+%%slurgraces yes
+%%graceslurs yes
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+[|\
+F2F F2F | F2F F2F | B2B {c}BAB | (=B3 c2)z |\
+F2F F2F | F2F F2F | c2c cdc | B2z H|]\
+FGA |\
+B2B BcB | B2A AB=B | c2c cdc | B2z FGA |
+B2B BcB | B2A AB=B | c2c cdc | B2z |]\
+z2F |\
+e3 cde | d3 dcB | A2A AGA | B3- B2F |\
+e3 cde | d3 dcB | A2A AGA | Bdc BA"^D.C."G |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+% (Continued from previous page)
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc
+
+X:5
+T: CE FUT UNE NUIT SOLENNELLE.
+O: Popular French melody.
+Q: "Moderate."
+%R: air, waltz
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.59 #1
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+N: This tune has 6-bar phrases.
+M: 3/8
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+[|\
+DGA | B2B | (ABc) | c2B | ABA | G2z |\
+DGA | B2B | (ABc) | c2B | ABA | G2z |\
+ABc | d2d | (c>d)c | B2G | DGB | A2z |\
+ABc | d2d | (c>d)c | B2B | ABA | G2z |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc
+
+X:6
+T: CHARMANTE GABRIELLE
+O: Old French air.
+%R: air, waltz
+B: W. Hamilton "Universal Tune-Book" Vol. 1 Glasgow 1844 p.20 #2
+S: http://imslp.org/wiki/Hamilton's_Universal_Tune-Book_(Various)
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+N: The phrase lengths are 6, 6, 5, 5 bars.
+M: 3/4
+L: 1/8
+K: Bb
+%%slurgraces yes
+%%graceslurs yes
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+[|\
+F2F2B2 | (A2G2)F2 |\
+B2B2d2 | f4d2 |\
+(B>cd2)d2 | B6 |\
+F2F2B2 | (A2G2)F2 |\
+B2B2d2 | f4d2 |\
+({c}B>cd2){d}c2 | B6 |
+B2c2d2 | (B2A2)G2 |\
+c2A2B2 | c2e4 |\
+{d}c6 | B2c2d2 |\
+(B2A2)G2 | (c2A2)B2 |\
+c2{d}c4 | B6 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB1-1844-V1.abc
+
+X:7
+T: Jan Ulrich Christian
+T: Jan Ulrich Christiaen
+C: old Dutch, arr. Pat Shaw
+B: Pat Shaw's New Wine in Old Bottles p.71
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: Formation:- Longways set for 8 couples, progressive
+P: 2 x (AABB)
+Q: "Govotte tempo"
+R: gavotte, reel
+M: C|
+L: 1/8
+K: D
+"A"[|] "D"A2de |\
+"A"cBAG "D"F2d2 | "A"c2A2 e2a2 | "D"f2ed "A"edcA | "D"d2"A7"AG "D"F2d2 |\
+"A"c2A2 e2a2 | "D"f2d2 "Bm"fedc | "E"B^GAB "c#A"Tc3"E7"B/A/ | "A"A4 :|
+"B"|: e2cB |\
+"A"A2e2 "D"f2f2 | "D"f3c "Bm"d2cB | "Em"e3f "A7"gc"Bm"dB | "F#"^A2F2 "Bm"B2F2 |\
+"F#"c2F2 "Bm"d2F2 | "F#"c2F2 "Bm"B2"F#"c2 | "G"dBed "F#"Tc3B | "Bm"B4 ||
+"D"d2AG |\
+"D"F2A2 "D7"BAB=c | "G"B4 "E"e2BA | "E7"^G2B2 "A"cBcd | "A"c2e2 "c#A7"a2e2 |\
+"D"f2d2 "A"e2a2 | "D"f2d2 "G"g2f2 | "Em"e2d2 "A"d3c | "D"d4 :|
+
+
+%%sep 5 1 500
+% Source: sources/jc/PatShaw/NewWineInOldBottles.abc
+
+X:8
+T: L' Ordnance
+O: French NB.
+N: The tunes on p.23 are numbered 594,595, but they're between 583 (p.222) and 586 (p.224).
+R: jig
+P: The upper part for the Ger. Flute
+B: G. Goulding "A Selection of Scotch, English, Irish & Foreign Airs" Vol.3 1788
+B: O'Neill collection "Rare Small M5", 1842 V.3 p.223 #2
+S: https://curate.nd.edu/show/5999n299v8t
+Z: 2023 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: A
+% = = = = = = = = = =
+|:\
+c3 ({e}dcd) | e2e e3 | a2e a2e | ({e}d2c) B2A ||\
+c3 ({e}dcd) | e2e e3 | a2e a2e | dcB A3 ::\
+[c3C3] [d2D2][eE] | [f2F2][fF] [f3F3] | [B3B,3] [c2C2][dD] | [e2E2][eE] [e3E3] ||
+[c2C2][AA,] [a2A2][aA] | [e2E2][cC] [a2A2][aA] | [eE][fF][eE] [d2D2][cC] | [c3C3] [B2B,2]z ||\
+c3 de2 | f2f f3 | B3 c2d | e2e e3 ||\
+e2c a2a | e2c a2a | efe {e}d2c |
+c3 B3 ::\
+c | dcd Bcd | cBc A2c | B2A B2c | B2B B2c ||\
+dcd Bcd | cBc Aec | B2A B2c | AA2 A2z :|
+% Source: sources/jc/ONeills/Rare_Small/SSEIFA.abc
+
+X:9
+T: La FLEUR DE LA ROSE
+O: French air.
+%R: air, waltz
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.102 #3 (and p.103 #1)
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+N: Rest split in last bar to get correct placing of the "D.C.".
+M: 3/8
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 formatted for compact staff layout.
+V: 1 staves=2
+|:\
+(GBd) | g2f | {f}e2d | {f}e2d |\
+(def) | (gab) | {b}c'2b | {b}a2F |\
+GBd | g2f | {f}e2d | {f}e2d |\
+gbd' | (^c'=c'b) | {b}agf | "Fine."g2z H:|
+b2b | afd | (ef).g | g2f |\
+(dfa) | (d'^c')b | (ag)f | {f}e2a |\
+b2b | (af).d | (ef)g | Tg2f |\
+(ad').^c' | (ba).g | (fg)e | Hd3 |\
+"_ad lib."d(e^c | B)c"^D.C."A |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff layout.
+V: 2
+|:\
+z3 | GBd | G2B | {d}c2B |\
+BcA | (Bdg) | {b}a2g | (f/e/d/c/B/A/) |\
+BGB | e2d | {d}c2B |
+{d}c2B |\
+B/d/G/d/B/d/ | Aed | {d}cBF | "Fine."B2z H:|\
+G2g | fAd | (^cd).e | e2d |\
+(F/A/)df | (fe)g |
+(fe)d | {d}^c2F |\
+GBd | FAd | (^cde) | Te2d |\
+(fb).a | (gf).e | (de)G | HF3 |\
+z3 | z2"^D.C."z |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+% (Continued from previous page)
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc
+
+X:10
+T: la PIPE TABAC
+O: FRENCH AIR
+Q: "Allegretto"
+%R: reel
+B: "Edinburgh Repository of Music" v.2 p.92 #2
+F: http://digital.nls.uk/special-collections-of-printed-music/pageturner.cfm?id=87776133
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/16
+K: C
+c>de>f |\
+g2c'2 a3f | (ag)g2 (gf)(df) | e2g2 d2ed | c4 c>de>f |\
+g2c'2 a3f | (ag)g2 (gf)df | (e2g2) (d2g2) | e4 (gf)(df) | e2c'2 {e}d>cde | c4 :|
+% Source: sources/jc/ERM/20922_Pipe_Tabac.abc
+
+X:11
+T: La SUISSESSE AU BORD DU LAC
+O: French air.
+Q: "Moderate."
+%R: air, waltz, jig
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.77 #1
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: G
+%%slurgraces yes
+%%graceslurs yes
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+[|\
+B3 A2B | G3 GDG | B3 BAB | d2c A2z |\
+A3 cBA | E3 E2F | G2G GAB | (A3 {cB}A2)z |\
+d3 DEF | G3- G2D | BAG BAG | d3 A2z |
+B2A c2B | A3- A2G | F2G E2F | D3- D2z |:\
+d3 B2G | (A3 {cB}A2)z | d3 B2G | {B}A3- A2z |\
+B3 Bcd | E^GA cBA | G3 B2A | G3 G2z :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% The song beginning "Far o'er the lake," &c. is sung to the above air.
+%%endtext
+%%sep 1 1 300
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc
+
+X:12
+T: La Varsouvienne
+T: Or My New Shoes
+S: Viola Ruth "Pioneer Western Folk Tunes" 1948 p.13 #3
+R: mazurka, varsouvienne
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+M: 3/4	% The book has 4/4, but that's obviously wrong.
+L: 1/8
+Q: "(Moderate Don't drag)"
+K: D
+V: 1 name="34"
+A>d | "^^"f>g "^^"f2 A>d | "^^"f>g "^^"f2 "_V"A>d | "^^"ff "^^"g2 "^^"f2 | "^^"e4 A>c | "^^"e>f "^^"e2 A>c |
+"^^"e>f "^^"e2 "_V"A>c | MeMe Mf2 Me2 | "^^"d3 ("_V"ABc) || Md2 Mc2 MB2 | "^^"A4 "^^"e>f | "^^"g2 "^^"f2 "^^"e2 |
+"^^"a3 ("_V"ABc) | Md2 Mc2 MB2 | "_V"A4 (MeMf) | "^^"g2 MB2 Mc2 | "^^"d4 |]
+
+%%sep 1 1 500
+% Source: sources/jc/ViolaRuth/PWFT.abc
+
+X:13
+T: Le RAMONNEUR
+O: French melody.
+P: "Repeat 8va"
+Q: "Lively dancing time."
+%R: march, reel
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.27 #2
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+N: Both parts have final repeat, but no initial repeat.
+M: 2/4
+L: 1/16
+K: Bb
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+F2 |\
+D2F2D2F2 | G2F2B2d2 | e2F2A2c2 | d2F2B2F2 |\
+D2F2D2F2 | G2F2B2d2 | e2F2A2c2 | B4 B2 :|
+Bc |\
+(d3e/d/) c2d2 | (e3f/e/) d2e2 | f2 f4 b2 | (ba)(ag) (gf)(fe) |\
+(d3e/d/) c2d2 | (e3f/e/) d2e2 | (g2fd) (f2ec) | B2B2B2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc
+
+X:14
+T: Le VAILLANT TROUBADOUR
+O: French air.
+Q: "Bold and with spirit."
+%R: air, march
+B: W. Hamilton "Universal Tune-Book" Vol. 1 Glasgow 1844 p.175 #1
+S: http://imslp.org/wiki/Hamilton's_Universal_Tune-Book_(Various)
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+%%stretchstaff 0
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+Af>d |\
+A3A AAB>A | A>GG2 zG A>G |\
+F2A>A B2e>e | (d4 c)Af>d |\
+A2AA A2B>A | ^G>Bd2 zB cd |\
+c2B>B A2^G>G | A2z2 z2A2 |
+=f3d d3d | (c2A2) z2A2 |\
+^f3d d3d | (c2A2) z !segno!:|\
+|: A B>c |\
+d2d>d (fe)dc | B2 g4 f>e |\
+d2A>A A2B>c | d2z2 z2 !segno!:|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB1-1844-V1.abc
+
+X:15
+T: The Little Dairymaid
+O: Old French
+%R: air, waltz, jig
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: A
+% - - - - - - - - - - - - - - -
+E | A2 B c2 B | A3 E2 E | F2 F E2 E |
+w: 1.~It was a shep-herd maid-en,       Tra, la, la, la, Tra,
+w: 2.~She made a cheese so tas-ty,      Tra, la, la, la, Tra,
+w: 3.~The cat stood by and watched her, Tra, la, la, la, Tra,
+w: 4.~"If you do dip your foot in,      Tra, la, la, la, Tra,
+w: 5.~She did not dip her foot in,      Tra, la, la, la, Tra,
+%
+%
+    F2 F E2 E | A2 B c2 B | A3 E2 e | c2 A
+w: la, la, la,  It was a shep-herd maid-en        Who guard-ed
+w: la, la, la,  She made a cheese so tas-ty,      Of ewes' milk
+w: la, la, la,  The cat stood by and watched her, So sly-ly
+w: la, la, la,  "If you do dip your foot in,      The stick you'll
+w: la, la, la,  She did not dip her foot in,      She drank it
+%
+    B2 G | A2 A A2 e | c2 A B2 G | A3- A2 |]
+w: well her sheep,   tra la,   Who guard-ed well her sheep.*
+w: made the cheese,  tra, la,  Of ewes' milk made the cheese.*
+w: watched the milk, tra, la,  So sly-ly watched the milk.*
+w: sure-ly get.      tra, la,  The stick you'll sure-ly get."*
+w: up in-stead,      tra, la,  She drank it up in-stead.*
+% - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:16
+T: MALBROOK
+O: French Air
+Q: "Allegretto"
+%R: jig
+B: "Edinburgh Repository of Music" v.2 p.78 #1
+F: http://digital.nls.uk/special-collections-of-printed-music/pageturner.cfm?id=87776133
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: G
+g/a/ |\
+b2b bab | c'3 {c'}bc'b | a2a {b}aga | b3 g(ga) |\
+b2b bab | c'3 b2d' | b2g {b}aga | g3- g2 |]\
+(b/c'/) |\
+d'2be'2e' | d'3- d'2b/c'/ |
+d'2b e'2e' | d'3- d'2g/a/ |\
+b2b bab | c'3 {c'}bc'b | a2a {b}aga | b3 gga |\
+b2b {c'}bab | c'3 b2d' | b2g {b}aga | g3 g2 |]
+% Source: sources/jc/ERM/20781_Malbrook.abc
+
+X:17
+T: MALBROUGH VA-T-EN GUERRE.
+O: French popular melody.
+Q: "Wigh spirit."
+%R: air, jig
+B: W. Hamilton "Universal Tune-Book" Vol. 1 Glasgow 1844 p.97 #3
+S: http://imslp.org/wiki/Hamilton's_Universal_Tune-Book_(Various)
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+N: Both strains have final repeats but no initial repeats; fixed.
+N: The rhythms at strain boundaries are wrong; not fixed.
+M: 6/8
+L: 1/8
+K: G
+%%stretchstaff 0
+%%slurgraces yes
+%%graceslurs yes
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+GA !p!|\
+B2B (BAB) | c3 (BcB) | A2A (AGA) | (B3 G2)A |\
+B2B {c}BAB | d^c=c B2c/B/ | A2A ABA | G3- G2 :|\
+|: !f!Bc |\
+d2B e2e | d3- dBc |
+d2d (efg) | d3- d(^c=c) |\
+B2B (BAB) | c3 (BcB) | A2A (AGA) | (B3 G2)A |\
+B2B BAB | (d^c=c) B2c/B/ | A2A ABA | G3- G2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB1-1844-V1.abc
+
+X:18
+T: The ORIGINAL STOP WALTZ
+O: French.
+Q: "Allegretto."
+%R: waltz
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.99 #1
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: D
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+FG |\
+(BA)(AE)(GB) | AffAAf | GeeGGe | FddFFG |\
+BAAFGB | AffAAf | GeeGGe | d3 |]\
+AFD |\
+CEEGGc | ceeggb | baaff2 | BAAFD2 |
+CEEGGc | ceeggb | afdfec | d3 |]\
+Ade |\
+f3 AFD | A3 Aef | g3 AEF | G3 agf |\
+f3 faf | e3 ege | dcdfec | d4 |]
+A2 |\
+Acceeg | Addffa | EGGcce | FAAddf |\
+z6 | z2zAde | f3 AFD | A3 Aef |\
+g3 AEF | G3 agf | f3 faf | e3 ege |\
+dcdfec | d3 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc
+
+X:19
+T: PARTANT POUR LA SYRIE
+T: Romance of Dunois
+O: French air.
+Q: "Moderate."
+%R: air, march
+B: W. Hamilton "Universal Tune-Book" Vol. 1 Glasgow 1844 p.56 #3 (and p.57 #1)
+S: http://imslp.org/wiki/Hamilton's_Universal_Tune-Book_(Various)
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+N: There are two endings, but no repeat symbols.
+M: C
+L: 1/8
+K: F
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+c2 !f!|\
+c3c d2e2 | f3f e2ze |\
+f3c A2c2 | G4 z2c2 |\
+=B3B c2d2 | e3d c2zc |\
+d2c2 =B2d2 | c4 z2 |]\
+!p!c2 |\
+(B2c2) (A2c2) | (B3A G2)zc |\
+(B2c2) (A2c2) |
+G4 z2(cB) |\
+A3"cres."B (cd).e.f | g3e c2zc |\
+!f!f3f e>fg>e | f4 z2c>B |\
+A3B (cd).ef | g3e c2zc |\
+[1 fcba agfe | f4 z2 |]\
+[2 f3d (cBA).G | F4 z2 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+% (Continued from previous page)
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB1-1844-V1.abc
+
+X:20
+T: Round: Are You Sleeping?
+O: Old French
+Q: "Moderato."
+%R: air, march
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: G
+"^1"G2 A2 | B2 G2 G2 A2 | B2 G2 "^2"B2 c2 | d4 B2 c2 | d4 "^3"d e d c |
+w: 1.~Are you sleep-ing, are you sleep-ing, Bro-ther John, Bro-ther John, Morn-ing bells are
+w:    Fr\`e-re Jac-ques, Fr\`e-re Jac-ques, Dor-mez-vous, dor-mez-vous?  Son-nez les ma-
+%
+B2 G2 d e d c | B2 G2 "^4"G2 D2 | G4 G2 D2 | G4 |]
+w: ring-ing, Morn-ing bells are ring-ing; Ding, ding, dong, ding, ding, dong.
+w: ti-nes,   son-nez les ma-ti-nes,       Bim, bim, bom, bim, bim, bom.
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:21
+T: ROUSSEAU'S DREAM
+O: French air.
+%R: air, march
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.163 #2
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: C	% The time signature is missing in this tune.
+L: 1/8
+K: D
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+|:\
+f2(f>e) d2d2 | e2e2 f2d2 |\
+a2a>g f2f2 | {f}e>de>f d4 :|\
+|:\
+f2(f>g) a2a2 | b2(b>g) a2f2 |\
+f2(f>g) a2a2 | b2(d'>b) a2^g=g |\
+f2(f>e) d2d2 | e2e2f2d2 |\
+a2(a>g) f2f2 | {f}e>de>f d4 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc
+
+X:22
+T: WATERS OF ELLE
+O: French air.
+Q: "Moderate with feeling."
+%R: air, march
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.100 #3
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+[|\
+d2 (cde) d3e | f>f (3(age) d2{d}c2 |\
+d2 (3(cde) d2B2 | A>A (3(ABc) (e2dz) |\
+e2f>f g3f | e>e (3(def) (f2e)z |\
+f2e>e a2 (3(bag) | d>de>e (g2f2) |\
+f2e>e a2 (3(age) | d>df>e (e2d)z |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc

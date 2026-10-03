@@ -1,0 +1,625 @@
+% Steve Mansfield's abc tunes from Le Grand Session de Manchester, the woodenflute mailing list and others: French & Breton tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T:Aï Vist Lou Loup
+R:Bourrée
+M:3/8
+L:1/8
+N:La Bourrée 4th edition 1929, page 81
+Z:Steve Mansfield www.lesession.co.uk June 2012
+K:Am
+c B c | A2 c | B G2 | c B c | 
+(AB) G | A3 :| E ^F G | A2 (G/^F/) | E A2 | 
+E ^F G | A2 G | ^F3 | E ^F G | A2 (G/^F/) | 
+E A2 | E ^F G | (AB) A | G3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:2
+T:Baï, Baï, Baï, Comidjiado
+M:3/8
+L:1/8
+R:Bourrée
+N:La Bourrée 4th edition 1929, page 50
+Z:Steve Mansfield www.lesession.co.uk May 2012
+K:G
+!p! B2 B | c B A | B2 G | B2 B | c B A | d3 :|
+G A B | A2 G/ F/ | E D2 | G A B | c B A | G3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:3
+T:Baudimic
+R:Bourree
+M:2/4
+L:1/8
+C:Gilles Chabenat
+D:Gilles Chabenat 'Bleu Nuit'
+D:Clays Chabenat Paris Decombel 'Live En Flandre' WBM21070
+Z:Steve Mansfield
+K:D
+F>G AG/A/ | B>A GF |E>A BA- | AA BA |
+D>E FD | G>F ED |1 EF GA- | AG/F/ ED :|2 AD ED- | D4 |
+d>c Ac | BG EA- | AB c/B/A | Bc ed- | dc A>c |
+BG DF- | FE DA | GE cd- | d>c Ac | BG EA- |AB c/B/A |
+Bc ed- | dc A>c | BG ED- | DE FD | E2 A2 ||
+
+% a small block of my own tunes
+% Source: sources/lesession-co-uk/music/posts.abc
+
+X:4
+T:Beanfield
+M:2/4
+L:1/8
+C:Jon Swayne
+R:Bourree
+Z:Steve Mansfield
+K:C
+GddG | eeGf | g>fe_B | a>gf_B | GddG | eeGf |
+g>fe_B | A4::[K:G] dBBe | ccfd | dgee |
+a>gfA | dBBe | ccfd | dge>d | c4 :|
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:5
+T:Bourree
+M:2/4
+L:1/8
+R:Bourree
+Z:Steve Mansfield
+K:C
+B2 cB | d3 e | f3 g | d>e f/e/d/c/ | B2cB | d3 e |
+f3 g | d4 ::[L:1/16] BABc dGBd | f2e2 d2c2 | BABc dGAd |
+f2ed e2c2 | BABc dGBd | f2e2 d2c2 | BABc d2B2 | c8 :|
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:6
+T:Bourree (2 time)
+M:3/8
+L:1/8
+R:Bourree
+Z:Steve Mansfield
+K:G
+A |: A_BG | FDA | A_BG | FDD | G>FG |1 A>GA |
+_Bdc | A3 :|2 A>G A/_B/ | A2F | G3 |: AFd | BGB | A/B/A/G/F/E/ |
+F D/E/F/G/ | AFd | BGB | A/B/A/G/F/E/ |1 D>E F/G/ :|2 D2 ||
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:7
+T:Bourree (3 time)
+M:3/8
+L:1/16
+R:3/8 Bourree
+Z:Steve Mansfield
+K:D
+e2a2g2 | a2 ef g2 | eagfed | c2 ABcd | e2a2g2 | a2 ef g2 | eagfec|
+|1 d6 :|2 d4 A/B/c/d/ |: d2e2f2 | d2c2d2 | e2 gfgf | e3 cAc|
+| d2e2f2 | d2c2d2 | e2 gfgf |1 e3c Ac :|2 e6 ||
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:8
+T:Bourree a Huit
+M:3/8
+L:1/8
+R:Bourree (3 time)
+Z:Steve Mansfield
+K:C
+g2^f | g2d/e/ | fed | ecc |g2^f | g2d/e/ |
+fed |1 c3 :|2 c2 |: G | cBc | G2c |B/c/dg |
+ecc | cBc | G2c | B/c/dB |1 c3 :|2 c2 ||
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:9
+T:Bourree a Jenzat
+M:2/4
+L:1/8
+C:Traditional
+R:Bourree
+Z:Steve Mansfield
+K:D minor
+D |: G2 A2 | d3 c | A>B cA | B2 AD | G2 A2 | d3 c | 
+A>B cA |1B2 AD :|2 B2 A2|:[K:G] A>B cA | G>A BG | 
+F>G AF | D2 D2 | A>B cA | Bd BG | A>c AF | G4 :|
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:10
+T:Bourree de Brand
+M:2/4
+L:1/8
+R:Bourree
+Z:Steve Mansfield
+K:G
+d>B GB | c3g | f>d ef | ga bg | d>B GB | c3g |
+f>d ef | g4 :: c2e2 | g=fd2 | e=f/e/ de/d/ |
+cB AG | c2e2 | g=fd2 | e=f/e/ dB | c4 :|
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:11
+T:Bourree du Pere Duret
+M:3/8
+L:1/8
+R:Bourree (3 time)
+Z:Steve Mansfield
+K:G
+B/c/ | ddc/d/ | eed/e/ | ffe/f/ | gdB/c/ | ddc/d/ |
+eed/e/ | ffe/f/ | g2 :: B/c/ | ded | c2A/B/ | cdc | B2G/A/ |
+BcB |1 A2A/B/ | c/B/c/d/e/c/| ed:|2 ABc | d/e/d/c/B/A/| G2 ||
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:12
+T:Bourree Hansi
+M:2/4
+L:1/8
+R:Bourree
+N:http://www.lesession.co.uk
+Z:Steve Mansfield 1998-2001
+K:C
+c2 Gc | d2 Gd | _e/d/c/d/ _ec | d/_e/d/c/ BG | 
+c2 Gc | d2 Gd | _e/d/c/d/ _ef | g4 :: 
+ce ge | ce d2 | d/e/d/c/ BG | c/B/c/d/ ec | 
+ce ge | ce d2 | d/e/d/c/ BG | c4 :|
+% Source: sources/lesession-co-uk/music/ShakeThe.abc
+
+X:13
+T:Chabreli Chabrela
+R:Bourrée
+M:2/4
+L:1/16
+N:Assez animé
+N:La Bourrée 4th edition 1929, page 45
+Z:Steve Mansfield www.lesession.co.uk May 2012
+K:C
+|:c d e c d d (d/e/) d | c d e c d4 :|
+(gf) e d c2 G2 | c d e c d4 |
+(gf) e d c2 G2 | c d e d c4 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:14
+T:Chez Jutier
+M:2/4
+L:1/8
+R:Bourree
+Z:Steve Mansfield
+K:C
+d>c de | f3 e/d/ | c>B cd | A4 | d>c de | fd g>e |
+ed/c/ dB | c4:: d>e AB| GA/B/cB | d>e AB |
+GA/B/ c2 | d>e AB | GA/B/ cB/c/ | d>e fd | gd c2:|
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:15
+T:De Dessaï, De Delaï
+R:Bourrée
+M:3/8
+L:1/8
+N:La Bourrée 4th edition 1929, page 60
+Z:Steve Mansfield www.lesession.co.uk May 2012
+K:Cm
+D/ D/ |: G2 A | G/ A/ B c | B A B/ A/ |
+G2 A | G/ A/ B B |1 A2 D/ D/ :|2 A2 D/ D/ |
+E2 D/ D/ | E2 D | E/ F/ G A | G F D/ D/ |
+E2 D/ D/ | E2 D | E/ F/ G A | G3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:16
+T:Delaï Lou Rivotel
+R:Bourrée
+M:3/8
+L:1/8
+N:La Bourrée 4th edition 1929, page 77
+Z:Steve Mansfield www.lesession.co.uk May 2012
+K:Bb
+F || B/ B/ B B | c f f | e d c | 
+d B F | B/ B/ B B | c f f | e d c | 
+B2 F || B A/ B/ c/ d/ | c f f | e d c | 
+d B F | B A/ B/ c/ d/ | c f f | e d c | B3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:17
+T:An dro
+M:4/4
+L:1/4
+Q:1/4=80
+S:Jean-Michel Veillon
+R:An dro
+N:Posted to woodenflute 28/10/2000
+Z:Steve Mansfield
+K:G
+BB/c/ BB/G/ | AA/G/ F/G/F/E/ | BB/c/ BB/G/|1 AG/A/ FE :|2 AG/A/F>G|
+|:E F/G/ A A/B/| A G/A/ B/c/B/G/ | E F/G/ A B/A/ | G E/A/ A/G/F/G/|
+E F/G/ A A/B/ | A G/A/ B/c/B/G/ | E F/G/ A B/A/ | G/E/F/D/ EE:|
+% Source: sources/lesession-co-uk/music/posts.abc
+
+X:18
+T:An dro
+M:4/4
+L:1/4
+Q:1/4=80
+S:Jean-Michel Veillon
+R:An dro
+Z:Steve Mansfield &amp; Michael Hogan
+K:Em
+B B/c/ B B/G/ | A A/G/ F/G/F/E/ | B B/c/ BB/G/|1 AG/A/ FE :|2 AG/A/
+F&gt;G|
+|:E F/G/ A A/B/| A G/A/ B/c/B/G/ | E F/G/ A B/A/ | G E/A/ A/G/F/G/|
+E F/G/ A A/B/ | A G/A/ B/c/B/G/ | E F/G/ A B/A/ | G/E/F/D/ EE:|
+% Source: sources/lesession-co-uk/music/woodenflute.abc
+
+X:19
+T:E Para Lou Loup
+R:Bourrée
+M:3/8
+L:1/8
+N:La Bourrée 4th edition 1929, page 28
+Z:Steve Mansfield www.lesession.co.uk April 2012
+K:Am
+A | c e d | e/ d/ c A | c e d |
+e2 A | c e d | e/ d/ c A | c e d |
+e2 A | c e d  | B B d | c/ B/ A c |
+B E2 | c e d | B B d | c/ B/ A G | A3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:20
+T:Evelyn's Bourree
+M:3/8
+L:1/8
+C:Evelyne Girardon
+R:Bourree
+Z:Steve Mansfield
+K:G
+Bc | dgf | d>cd/e/ | =fec | de dc Bc | dgf |
+d>cd/e/ | =fec | d3 :: dBG | A>GA/B/ | cBG |
+A/B/cB/c/ | dBG | A>GA/B/ |1 cBA | d3 :|2 cBA | G3 ||
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:21
+T:Halfway To Yoghurt
+M:2/4
+R:Bourree
+L:1/8
+C:Steve Mansfield August 2003
+N:Rather than throw it away, we put a pint of milk
+N: in the car before driving down to Sidmouth for the festival.
+N: When we reached our flat, however, the milk was ...
+Z:Steve Mansfield 20070808
+K:Bm
+EG Be- | ed ef | ed/c/ Be | d/c/B AG | EG Be- | ed ef |
+ed/c/ B=c |1 B4 :|2 B3 c || de fB- | B4 |
+ed eA- | AB c/B/A | de fB- | Bc dB | e4- | e4 |
+de fB- | B4 | ed eA- | AB c/B/A | de fd | cd Ad | B4- | B4 ||
+% Source: sources/lesession-co-uk/music/posts.abc
+
+X:22
+T:L'Etoile
+M:3/8
+L:1/8
+C:Traditional
+R:Bourree
+Z:Steve Mansfield
+K:G
+B/A/ |: GBd | g2f | e/g/fe | dBA | GBd | g2f |
+e/g/fe |1 d2B/A/ :|2 d2B/c/ |: ded | c2A | B/c/AB |
+G/A/Bc | ded | c2A | B/c/AB |1G2d :|2 G2B/A/ ||G3||
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:23
+T:L'Omour De Lo Morianno
+R:Bourrée
+M:3/8
+L:1/8
+N:La Bourrée 4th edition 1929, page 57
+Z:Steve Mansfield www.lesession.co.uk May 2012
+K:Gm
+G |: A/ B/ A G | F D G | A/ B/ A F |
+1 G2 G :|2 G2 G | A/ B/ c A | d e d | c B2 |
+A2 G | A/ B/ c A | d2 c | B/ A/ G F | G3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:24
+T:La Bobine
+M:3/8
+L:1/8
+C:Patrick Bouffard
+R:Bourree
+Z:Steve Mansfield
+K:G
+BAG | B/A/G2 | B/A/G/A/B/c/ | da/f/a/d/ | AGF | A/G/F2 |
+|1 d/e/d/c/A/c/ | B2G :|2 d/e/d/c/B/A/ | G3 |: B>AG | F/G/A/B/c/d/ |
+edB | cBG | A/B/AG | F>DF/A/ | d^cd |1 B2G :|2 G3 ||
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:25
+T:La Chien au Fenetre (3 time)
+M:3/8
+L:1/8
+R:Bourree (3 time)
+Z:Steve Mansfield
+K:G
+d | gdB | G>e d/B/ | cAA | A2d | fed | cde | d3 | def |
+gdB | G>e d/B/ | cAA | A2e | fed | cBA | GGG | G2 ||
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:26
+T:A La Pouncha D'Un Suquetou
+R:Bourrée
+M:2/4
+L:1/8
+N:Recuillie et notée par MM J.-B. Chèse Léon Branchet et Johannès Plantadis
+N:La Bourrée 4th edition 1929, page 70
+Z:Steve Mansfield www.lesession.co.uk May 2012
+K:Gm
+G B/ A/ | G A B c | d2 c d/ e/ | d d c B | 
+A (A/B/) c B | A G (GF) | D4- | D z G F/ G/ | 
+A B A G | F G A d | d c (BA) | G4 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:27
+T:Le Pont
+M:2/4
+L:1/16
+C:Frederic Paris
+R:Bourree
+Z:Steve Mansfield
+K:Dm
+A3B A2A2 | GAGF EDEF | A3B A2A2 | GFGA BABc | A3B A2A2 | GAGF EDEF |
+A3B A2A2 | GABc A4 :: dcde c=Bcd | =BABc A2A2 | GAGF EDEF |
+GAGF E2D2 | dcde c=Bcd | =BABc A2(3ABc | d2d2 cedc |d2c2 d4 :|
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:28
+T:Levo Lou Ped Droullotto
+R:Bourrée
+M:3/8
+L:1/8
+N:La Bourrée 4th edition 1929, page 48
+Z:Steve Mansfield www.lesession.co.uk June 2012
+K:C
+(d/e/) c e | d2 e | d c2 | | (d/e/) c e | 
+d c2 | d3 :| A/B/ c A | d2 c/ B/ | 
+A G2 | A/ B/ c A | d2 c/ B/ | c3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:29
+T:Lo Bouoli, Lo Morianno
+R:Bourrée
+M:3/8
+L:1/8
+N:La Bourrée 4th edition 1929, page 69
+Z:Steve Mansfield www.lesession.co.uk May 2012
+K:F
+!f! c |: c/ B/ A B | c d c | c/ B/ A G |
+[1 F2 c :|2 F2 F/ G/ | A2 A | A G F | G G2 |
+G2 A/ B/ | c2 d | d c B | A G2 | F3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:30
+T:Lo Glaudo
+R:Bourrée
+M:3/8
+L:1/8
+N:Très légere
+N:La Bourrée 4th edition 1929, page 82
+Z:Steve Mansfield www.lesession.co.uk June 2012
+K:C
+G |: c e z | d/ e/ f e | d/ e/ d G | 
+c e z | d/ e/ f e | d2 G :| A d z | e/ d/ c B |
+c/ d/ c G | c d z | e/ d/ c B | c3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:31
+T:Lou Diziou Bè
+R:Bourrée
+M:3/8
+L:1/8
+N:La Bourrée 4th edition 1929, page 87
+Z:Steve Mansfield www.lesession.co.uk June 2012
+K:Am
+G |: A d2 | c2 d | e/ d/ c d | 
+c A G | A d2 | c2 d | e/ d/ c d |1 A2 G :|
+[2 A2 c | B A2 | D2 G | ^F/ G/ A c | 
+B A c | B A2 | D2 G | ^F/ G/ A B | G3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:32
+T:Lou Pitchiout Omé
+M:3/8
+L:1/8
+R:Bourrée
+N:La Bourrée 4th edition 1929, page 36
+Z:Steve Mansfield www.lesession.co.uk May 2012
+K:C
+G | c2 d | d/ d/ f e | d e d | c2 d |
+d/ d/ f e | d2 d/ d/ | g f/ e/ d | c - c/ d/ e/ d/ |
+c c d/ d/ | g f/ e/ d | c/ d/ e/ d/ c/ B/ | !fermata! c3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:33
+T:Malhurous Qu'o Uno Fenno
+M:3/8
+L:1/8
+R:Bourrée
+N:La Bourrée 4th edition 1929, page 40
+Z:Steve Mansfield www.lesession.co.uk May 2012
+K:F
+F/ A/ | c c/ c/ c | d c d/ e/ | f e d |
+c2 F/ A/ | c c/ c/ c | d c d/ e/ | f e d |
+c2 F/ A/ | c c c | A F G/ A/ | B/ B/ G E | F3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:34
+T:Malochet
+M:2/4
+L:1/8
+Q:70
+R:Bourree
+N:http://www.lesession.co.uk
+Z:Steve Mansfield 1998-2001
+K:G
+B2 c2 | d3 g | f>d ef | e2 d2 | 
+B2 c2 | d3 g | f>d ef |1 g4 :|2 g3 d |: 
+g2 ab | ag fd | e/d/e/f/ ge | d3 d | 
+c/B/c/d/ ec | B2 GB |1 AB cd |e4 :|2 AB/c/ de/f/ | g4 ||
+% Source: sources/lesession-co-uk/music/ShakeThe.abc
+
+X:35
+T:Mazurka
+M:3/4
+L:1/8
+R:Mazurka
+N:Posted to tradtunes 12/05/2001
+O:French, composer unknown to transcriber
+Z:Steve Mansfield 12/3/2000, updated May 2001
+K:G
+G>A |: B2 d2 g>f | e2 d2 c>B | A>B c>^c d>e |
+d3 B G>A | B2 d2 g>f | e2 d2 d>c | A>B c>A F>A |
+[1 G3 F G>A :|2 G4 F2 |: E>G B>d ^c>d | D>F A>c B>A |
+E>F G>A B>c | A>F D2 G>F | E>G B>d ^c>d | D>F A>c B>A |
+E>F G>A B>c |1 A4 G>F :|2 d4 ||
+% Source: sources/lesession-co-uk/music/posts.abc
+
+X:36
+T:Mazurka
+M:3/4
+L:1/8
+R:Mazurka
+O:French, composer unknown to transcriber
+Z:Steve Mansfield 12/3/2000
+K:G
+G&gt;A|:B2d2g&gt;f|e2d2c&gt;B|A&gt;B c&gt;d d&gt;e|d3 GG&gt;A|B2d2g&gt;f|e2d2d&gt;c|A&gt;B c&gt;A F&gt;A|1G3
+FG&gt;A:|2G4F2|
+:E&gt;G B&gt;d ^c&gt;d|D&gt;F A&gt;c B&gt;A|E&gt;F G&gt;A B&gt;c|A&gt;F D2G&gt;F|E&gt;G B&gt;d ^c&gt;d|D&gt;F A&gt;c B&gt;A
+|E&gt;F G&gt;A B&gt;^c|1d4G&gt;F:|2d4||
+% Source: sources/lesession-co-uk/music/woodenflute.abc
+
+X:37
+T:Mo Maire
+R:Bourrée
+M:3/8
+L:1/8
+N:La Bourrée 4th edition 1929, page 54
+Z:Steve Mansfield www.lesession.co.uk May 2012
+K:Flyd
+F | G c2 | B/ c/ d c | _B/ A/ G A |
+_B c2 | G _B A | G2 _B | A F2 | G/ A/ G E |
+F/ G/ A _B | A F2 | G/ A/ G E | F3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:38
+T:Montagnarde de Ste Anne
+M:3/8
+L:1/8
+C:Eric Elsener
+R:Bourree
+Z:Steve Mansfield
+K:GMajor
+AcB | A2 G | F/G/A/F/D/F/ | BG/F/G | AcB | A2 G |
+F/G/A/F/D/F/ |1 G3 :|2 G2 A|: _BA/B/A/G/ | F2 E | D/E/FG| 
+_BA/G/A | _BA/B/A/G/ | F2 E | D/E/FA |1 G2 A :|2 G3 ||
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:39
+T:Nau Sorré Sion
+R:Bourrée
+M:2/4
+L:1/8
+N:Mouvt de ronde
+N:La Bourrée 4th edition 1929, page 68
+Z:Steve Mansfield www.lesession.co.uk May 2012
+K:Bb
+"Refrain" e2 d c | d2 B B/ B/ | c c B A/ A/ |
+G2 F2 | e2 d c | d2 B A/ B/ | c c B2 !Fine! ||
+z2 (3B B B | c f e f | c c (3 B B B |
+c f e f | c c (3 B B B | c f e f | c2 c2 !D.C.!||
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:40
+T:Obal Dins Lou Limouzi
+R:Bourrée
+M:3/8
+L:1/8
+N:La Bourrée 4th edition 1929, page 93
+Z:Steve Mansfield www.lesession.co.uk June 2012
+K:Bb
+f | f e/ f/ e/ d/ | c/ d/ e f | 
+f e/ f/ e/ d/ | c2 f | f e/ f/ e/ d/ | c/ d/ e f |
+f e/ f/ e/ d/ | c2 B || c/ d/ e c | c B c | d c2 |
+F2 B | c/ d/ e c | c B c | d c2 | B3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:41
+T:Sès Moridodouno
+M:3/8
+L:1/8
+R:Bourrée
+N:La Bourrée 4th edition 1929, page 78
+Z:Steve Mansfield www.lesession.co.uk April 2012
+K:G
+!p!(BB/) A/ B/ c/ | d/ e/ d d | (BB/) A/ B/ c/ |
+B G2 :| g d c | BG2 | A/ B/ A D |
+G/ A/ B G |  g d c | BG2 | A/ B/ A D | G3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:42
+T:Soun (3)
+M:2/4
+L:1/8
+C:Stephane Rogowski
+D:Les Brayauds : Jusqu'au Petit Matin, Silex Y225202
+R:Bourree
+Z:Steve Mansfield
+K:C
+fe2d | g4 | ga-ag | fe de | fe2d | g4 | fe2c |1 d2 e2 :|2 f4 |: fe2c |
+d3 c/d/ | ed2c | Ac de | fe2c | d4| ge2c |1d2e2 :|2 f4 ||
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:43
+T:Soun (1)
+M:2/4
+L:1/8
+C:Stephane Rogowski
+D:Les Brayauds : Jusqu'au Petit Matin, Silex Y225202
+R:Bourree
+Z:Steve Mansfield
+K:C
+g>e cg- | g>e ce | f>d Bf | dB d/c/d/e/ | g>e cg- | g>e cg |
+|1 c'2b2 | e/d/c/d/ e/c/d :|2 fe d2 | c2 de/d/ |: e>d eg- |g>f ed |
+d>c df- |f>e dc | e>d eg- | g>f eg |1 a2g2 | e/d/c/d/ e/c/d :|2 a2g>f | edc2 ||
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc
+
+X:44
+T:Soun Pas D'Oici
+R:Bourrée
+M:3/8
+L:1/8
+N:La Bourrée 4th edition 1929, page 67
+Z:Steve Mansfield www.lesession.co.uk May 2012
+K:G
+!f! d d e | d c/ d/ c/ B/ | A/ B/ c c |
+d d e | d c/ d/ c/ B/ | A3 :| D/ D/ G A |
+c A/ B/ G/ A/ | B A2 | D/ D/ G A | c2 A/ B/ A | G3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:45
+T:Tont Que T'Aimabé
+R:Bourrée
+M:3/8
+L:1/8
+N:La Bourrée 4th edition 1929, page 32
+Z:Steve Mansfield www.lesession.co.uk April 2012
+K:Bb
+!f!f e d | e f2 | c/ d/ e f | e/ d/ c B |
+f e d | e f2 | c/ d/ e/ d/ c | B2 F |
+B/ c/ B F | B c2 | c/ d/ e f | e/ d/ c B |
+d/ c/ B F | B c2 | c/ d/ e f | B3 |]
+% Source: sources/lesession-co-uk/music/La_Bourree.abc
+
+X:46
+T:Wedding An Dro
+M:2/4
+L:1/8
+R:An Dro
+Z:Steve Mansfield
+K:Em
+EB AB | GB FB | EB AB | G2 E2 | EB AB | GB FB | EB AB | G2E2 |
+cB AG | EF GA | cB AG | E4 | DA GA | FA EA | DA GA | F2D2 |
+DA GA | FA EA | DA GA | F2D2 | BA GF | BA GF | B2A2 | G2F2 |
+E2G2 | B2e2 | d3c | Bc dB | c3B | AB cA | F3G |
+AF GF | E2G2 | B2e2 | d3c | Bc dB | c3B | ABcA | F4 ||
+% Source: sources/lesession-co-uk/music/lgsdmweb.abc

@@ -1,0 +1,692 @@
+% Tunes from Ben Paley: Swedish & Nordic tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T:Adventslåten av Gustav Jernberg
+T:"Advent Tune" by Gustav Jernberg
+L:1/16
+M:3/4
+C:Gustav Jernberg arr. © 2005 Ben Paley
+N:For some reason I mistook this tune for a really long time, and called it "Polska efter Karl
+N:Lindblad". That was a mistake. I'm very sorry for any confusion I've caused, not least to
+N:myself!
+O:Gästrikland, Sweden
+Q:1/4=70
+R:Polska
+D:Sven Ahlbäck & Anton Jernberg, "Gästriketon", 1981
+Z:Ben Paley <ben.paley@benpaley.com>
+K:G Dorian
+P:A
+|: B2AG AFAF G3D | G3A BABc d4 | g2^fg a2af d3e | f2gf ecec d4 |
+B2AG AFAF G3D | G3A BABc d4 | B,2DB, A,2DA, G,2Ac | BAG^F G8 :|
+P:B
+|: G3A B2c2 d4 | g2^fg BABc A4 | G3A B2GB BAF2 | DFEC C2D2 D3D |
+G3A B2c2 d4 | g2^fg a2af d4 | dc_ec cBdB A2Dc | BAG^F G8 :|
+P:C
+|: d4 b4 a4 | g2^fg d2cd B4 | f2e2 c2e2 g2f2 | d3c BABd A4 |
+d4 b4 a4 | g2^fg a2fa g4 | BcBA GABc d2B2 | A2G^F G8 :|
+% Source: sources/benpaley-com/pages/resources/dots/_bc58ec12.abc
+
+X:2
+T:Áines Brudpolska
+L:1/16
+M:3/4
+C:©1997 Ben Paley
+N:I wrote this for the wedding of my dear friends Áine King and Anthony Hodgson in 1997. They're
+N:still married, so it obviously worked, right?
+Q:1/4=87
+R:Polska
+D:Tom & Ben Paley, "Svenska Låtar", 1999
+Z:Ben Paley <ben.paley@benpaley.com>
+K:Am
+P:A
+|: E4 ^G2EG B3G | E^GBd cBAG A2AB | c3G ECEG c2ec | d3e f2ag e4 :|
+P:B
+|: e2a2 abag f2a2 | abag e2c2 B4 | B4 G3B d3B | dedc A2c2 e4 |
+e2a2 abag f2a2 | abag e4   c4 | B4 G3B d3B | dedc A8 :|
+% Source: sources/benpaley-com/pages/resources/dots/_2c6193c1.abc
+
+X:3
+T:Äppelbo Gånglåt
+T:Walking tune from Äpplebo
+L:1/8
+M:C
+C:Trad arr. ©2026 Ben Paley
+N:This is a very popular tune in Sweden, and relatively well-known elsewhere. One of those tunes
+N:that probably gets overplayed because it's really good.
+O:Äpplebo, Dalarna, Sweden
+Q:1/4=150
+R:March
+D:Ben Paley, "Swedish Fiddle Music", 1993
+Z:Ben Paley <ben.paley@benpaley.com>
+K:G
+V:M clef=treble name="Melody" snm="M"
+V:H clef=treble name="Harmony" snm="H"
+%%score M|H
+P:A
+[V:M] D2 |: G3 D G2 B2 | d6 Bc | d2 dB d2 de | c2 cB A2 AB |
+[V:H] D2 |: B,3 G, B,2 D2 | G6 GA | B2 BG B2 Bc | A2 AG F2 FG |
+%
+[V:M] c2 cd e2 dc | Bc BA G2 FG | AB AF D2 EF |1 G6 D2 :|2 G6 Bd |
+[V:H] A2 AB c2 BA | GA GD B,2 DG | F2 FD C2 A,2 |1 B,6 A,2 :|2 B,4 D2 G2 |
+P:B
+[V:M] |: g2 g2 g2 fe | f2 f2 f2 gf | e2 ec eg fe | ed d^c d2 =cB |
+[V:H] |: B2 B2 B2 AG | A2 F2 F2 AB | c2 c2 ce dc | cB BA B2 cB |
+%
+[V:M] c2 cB A2 Ac | Bc BA G2 FG | AB AF D2 EF |1 G6 Bd :|2 G6 |]
+[V:H] A2 AF DF AF | G2 DB, G,B, DG | F2 FD C2 A,2 |1 B,4 D2 G2 :|2 B,6 |]
+% Source: sources/benpaley-com/pages/resources/dots/_09b38176.abc
+
+X:4
+T:Blågeta
+T:Blue Goat
+L:1/8
+M:3/4
+C:Trad. arr © 2010 Ben Paley
+O:Dalarna, Sweden
+R:Polska
+D:Ola Bäckström & Per Gudmundson, "Ola och Per", 2001
+Z:Ben Paley <ben.paley@benpaley.com>
+K:Am
+V:M clef=treble  name="Melody"   snm="M"
+V:H clef=treble  name="Harmony"   snm="H"
+%%score M|H
+P:A
+[V:M]A>B A2 B2 | c>e e<d B>G | A2 A4 |
+[V:H]E>G E2 G2 | A>G A<B E>E | [B,2E2] [C4E4] |
+[V:M]e>d e2 ^f2 | g>^f ^g<a ^f>d | e2 e4 :|
+[V:H]c>B c2 d2 | d>d d2 d>B | [^F2B2] [^G4B4] :|
+P:B
+[V:M]|: e2 a2 e>f | e2 d/2e/d/2B/2 c>A | B<c B4 |
+[V:H]|: A2 e2 c>d | c2 B/2c/2B/2^G/2 A>^F | ^G<A ^G4 |
+[V:M]A>B A2 B2 | c>e e<d B2 | c>e e<d B>^G | A2 A4 :|
+[V:H]E>^G E2 ^G2 | A>c c<B ^G2 | A>c c<B ^G>E | [B,2E2] [C4E4] :|
+% Source: sources/benpaley-com/pages/resources/dots/_1a2329b6.abc
+
+X:5
+T:Brudmarsch från Nås
+T:Wedding March from Nås
+L:1/8
+M:2/4
+C:Trad arr. © 2012 Ben Paley
+N:This beautiful tune appears in my book <a
+N:href="https://www.lulu.com/shop/ben-paley/swedish-fiddle-music-an-anthology/paperback/product-2
+N:3852695.html">Swedish Fiddle Music, an Anthology</a>, and featured on the accompanying cassette
+N:which is <a
+N:href="https://benpaley-fiddle.bandcamp.com/album/swedish-fiddle-music-an-anthology">now
+N:available for download</a>. Or you can <a
+N:href="https://benpaley-fiddle.bandcamp.com/track/brudmarsch-fr-n-n-s-48">download just this
+N:track</a>.
+O:Sweden
+R:March
+Z:Ben Paley <ben.paley@benpaley.com>
+K:Gm
+V:M clef=treble  name="Melody"   snm="M"
+V:H clef=treble  name="Harmony"   snm="H"
+%%score M|H
+P:A
+[V:M]|: D^F  GA  | B2 B2 | AG Ac  | cd d2 | dc AB  |
+[V:H]|: G,A, B,D | G2 G2 | DC D^F | AB B2 | BA ^FG |
+[V:M] G2 BA  | ^FD FA  |1 AG   =EG | ^F2 D2  :|2 G3 A/2B/2  | GA  Bc |
+[V:H] D2 G^F | DA, D^F |1 ^F=E C=E | D2  A,2 :|2 D3 ^F/2G/2 | D^F GA |
+P:B
+[V:M][| d2 Bd | dc A2  | c2 Ac  | cB G2 |
+[V:H][| B2 GB | BA ^F2 | A2 ^FA | AG D2 |
+[V:M] B2 AG   | ^FD FA  | AG   =EG | ^F2 D2  |
+[V:H] G2 ^F=E | DA, D^F | ^F=E C=E | D2  A,2 |
+[V:M] d2 Bd | dc A2  | c2 Ac  | cB G2 |
+[V:H] B2 GB | BA ^F2 | A2 ^FA | AG D2 |
+[V:M] B2 AG   | ^FD FA  | G3 A/2B/2  | GA Bc |
+[V:H] G2 ^F=E | DA, D^F | D3 ^F/2G/2 | D^F GA |
+[V:M] d2 Bd | dc A2 | c2 Ac | cB G2 |
+[V:H] B2 GB | BA F2 | A2 FA | AG D2 |
+[V:M] B2 AG   | ^FD FA  | AG   =EG | ^F2 D2  |
+[V:H] G2 ^F=E | DA, D^F | ^F=E C=E | D2  A,2 |
+[V:M] d2 Bd | dc A2 | c2 Ac | cB G2 |
+[V:H] B2 FB | BA F2 | A2 FA | AG D2 |
+[V:M] B2 AG   | ^FD FA  | G3 A/2B/2  | G4 |]
+[V:H] G2 ^F=E | DA, D^F | D3 ^F/2G/2 | D4 |]
+% Source: sources/benpaley-com/pages/resources/dots/_2065031a.abc
+
+X:6
+T:Faut Margit lieken efter Einar Britt
+T:Margit the Bailiff's tune (?) from the playing of Einar Britt
+L:1/16
+M:3/4
+C:Trad arr. ©2026 Ben Paley
+N:This tune looks a little simple and repetitive written down. It's not complicated at all, apart
+N:from being a polska, but there is so much that can be done with it. I first heard it on the
+N:1989 album by Simon Simonssons kvartett, <em>Längs gamala stigar och färdevägar</em>, and
+N:they turn this little tune into a jewel.
+N:I've transcribed it in D Major just to avoid accidentals, but it doesn't seem to me to spend
+N:much time actually in D.
+N:The second part does a little XXY thing I really like, that always reminds me of the trilithons
+N:at Stonehenge: a short phrase that's played twice like the sarsen stones, then a single short
+N:phrase to cap them off, like the lintel stone.
+N:Finally: it's a polska, the beats are not all the same length: please please please don't try
+N:and play it without listening to Simon Simonsson's Quartet first. I've tried using triplets to
+N:express the rhythm of some bars, do you think it works?
+O:Älvdalen, Dalarna, Sweden
+Q:1/4=110
+R:Polska
+D:Simon Simonssons Kvartet, "Längs Gamla Stigar och Färdeväger", 1989
+D:Filip Jers Quartet, "Filip Jers Quartet Plays Swedish Folk", 2015
+D:Tant Parant, "Ro och trevnad, lycklig levnad", 2024
+Z:Ben Paley <ben.paley@benpaley.com>
+K:D
+P:A
+|: (3 A4 c4 d4 e3c | (3 d4 B2 G6 B4- | -B4 f2gf e2fe | d4 B8 :|
+P:B
+|: B4 G2FG A3F | (3 F4 E4 G4 B4- | -B4 G2FG A3F |
+(3 F4 E4 G4 B4- | -B4 G2FG A3F | FE3 E8 :|
+% Source: sources/benpaley-com/pages/resources/dots/_09b38176.abc
+
+X:7
+T:Gills Brudpolska
+T:Gill's Wedding Polska
+L:1/8
+M:3/4
+C:© 2002 Ben Paley
+N:I wrote this tune for the wedding of Tab Hunter and Gill Emerson in 2002.
+N:I managed to work around what I thought was a bug in either abcm2ps or abc2midi to do with
+N:first and second time bars in harmony parts. Turns out I needed to add "%%score M|H" at the top
+N:of the tune (where I'd labelled the voices "M" and "H").
+R:Polska
+Z:Ben Paley <ben.paley@benpaley.com>
+K:D Dorian
+%%score M|H
+V:M
+P:A
+%
+A2 d>c A>c | e2 dc A2 | B>G D<^F G>A | B>A A<c (A2 |
+A2) d>c A>c | e2 dc A2 | A>F D<E F>G |1 A>F G3^F :|2 A>F G3E |
+P:B
+|: F>G A<c _BA/2G/2 | A>F ED/2C/2 D2 | d>e f<a ga/2g/2 | fe/2d/2 e2 A2 |
+f>d e<c d2 | _BA/2G/2 A>F E2 | A>F D<E F>G | A<F G4 :|
+V:H
+P:A
+D2 A>^F D>^F | A2 G^F (D2 | D)>C B,<A, (B,2 | B,)>A, B,<C (D2 |
+D2) ^F>E D>^F | A2 G^F (D2 | D)>C A,<G, A,>B, |1 C<D  B,3(A, :|2 C<D B,4 |
+P:B
+|: D>E F<A G>E | F>D ED/2C/2 A,2 | F>G A<c (d2 | d)>B ^c2 A2 |
+d>A _B<G A2 | D>F A>F E2 | D>C A,2 A,>B, | C<D B,4 :|
+% Source: sources/benpaley-com/pages/resources/dots/_23bab0d4.abc
+
+X:8
+T:Halling efter Per Löf
+T:Halling from the playing of Per Löf
+L:1/8
+M:2/4
+C:Trad arr. © 2010 Ben Paley
+O:Värmland, Sweden
+Q:1/2=86
+R:Halling
+D:Bo i Rannsätt and Bengt Lindroth, "Värmlandslåtar", 1979
+Z:Ben Paley <ben.paley@benpaley.com>
+K:D Dorian
+P:A
+-[DA]agb a3a- | -ageg T[Af]3e | [Af]2ag [Ae]2ef | [Dd]fed T^c2[EA]2 |
+[DA]agb a3a- | -ageg T[Af]3e | [Af]2ag [Ae]2ef | [Dd]fe^c [Dd]3 [DA]- :|
+P:B
+|: -[DA]2d^c  d2[Ae]2- | -[Ae]2fe  Tf2e^c Add^c  d2eg | fed^c [D^c][Dd][DA]F |
+D2d^c d2[Ae]2- | -[Ae]2fe Tf2e^c | Add^c d2eg |1 fed^c [Dd]3[DA]- :|2 fed^c [Dd]4 |]
+% Source: sources/benpaley-com/pages/resources/dots/_190c4045.abc
+
+X:9
+T:Hjortingens Polska av Hjort Anders Olsson
+T:Hjortingen's Polska, by Hjort Anders Olsson
+L:1/8
+M:3/4
+C:© Hjort Anders Olsson, arr. © 2022 Ben Paley
+N:I can't remember where I got my version of this tune, I think possibly from Staffan Larsson.
+N:It's a bit different from Hjort Olsson's version.
+N:Don't be scared of all the double stops — they are much less complicated than they seem to
+N:look at.
+N:Once through the tune is AA, BB, CC and back to BB.
+O:Dalarna, Sweden
+P:ABCB
+Q:1/4=104
+R:Polska
+Z:Ben Paley <ben.paley@benpaley.com>
+K:A
+P:A
+-E |: A>B cc/2d/2 c>B | ce/2c/2 A2 [EA]2 - | [EA]a ag fe/2^d/2 |
+ef/2g/2 ab/2a/2 gf | e^d/2e/2 f^d eB | [1 GB/2G/2 E3 E - :| [2 GB/2G/2 E3 E - |
+P:B
+|: [EA]>[EA] [AA][EA] [FA]2 | [FA]>[FA] [FB][FB] [GB]2 | [GB]>[GB] [Ge][GB] [cE]2 | [ce]>[ce] [cf][cf] [^df]2 | [^df]>[df] [db][df] [Bg]2 |
+gf/2e/2 ^d/2e/2f/2g/2 ae/2c/2 | AB/2c/2 df/2e/2 d/2c/2B/2A/2 | [1 GB/2G/2 A3 E - :| [2 GB/2G/2 A3 c !fine! |]
+P:C
+|: ef/2e/2 d/2c/2B/2A/2 G/2A/2B/2c/2 | df e3 c | ef/2e/2 d/2c/2B/2A/2 G/2A/2B/2c/2 | [1 BA A3 c :| [2  BA A3 E - |
+% Source: sources/benpaley-com/pages/resources/dots/_7486c7cf.abc
+
+X:10
+T:Kruspolskan
+T:Something like "Tankard Polska", perhaps?
+L:1/8
+M:3/4
+C:Trad arr. © 2022 Ben Paley
+N:Styrbjörn Bergelt plays this tune on his 1979 album "Tagelharpa och Videflöjt" and there's a
+N:very different version by Hedingarna from 1991 on "Kaksi!".
+Q:1/4=105
+R:Polska
+D:Styrbjörn Bergelt, "Tagelharpa och Videflöjt", 1979
+D:Hedningarna, "Kaksi!", 1991
+Z:Ben Paley <ben.paley@benpaley.com>
+K:Dm
+P:A
+|: A>F DD FF | GG =BB A2 | F>A cA FF | GG =BB A2 |
+A>c ee dd | cc AA FF | GE ED D2 :|
+P:B
+|: D>E FD E2 | ED/2E/2 FD D2 | D>E FD E2 | ED/2E/2 F2 D2 :|
+% Source: sources/benpaley-com/pages/resources/dots/_68715e0e.abc
+
+X:11
+T:Little Acorn
+L:1/8
+M:3/4
+C:© 2025 Ben Paley
+N:Another grandaughter, another tune. This is way more melancholy than little Nella deserves, but
+N:hopefully she'll think it's pretty.
+Q:1/4=140
+R:Polska
+Z:Ben Paley <ben.paley@benpaley.com>
+K:G Dorian
+P:A
+|: DG GF FD | D2 B,4 | DG GF FD | D2 B,3F |
+[1,2 E2 C3 E | D2 B,4 :|[3 E2 CE GF | D4 D2 |
+P:B
+|: GA Bd fa | ge ce gf | dB GB dB | A2 FA cA |
+GA Bc dB | ce g2 ^f2 |1 d4 D2 :|2 d4 d2 |
+P:C
+[| g3 a g2 | f2 d2 c2 | B3 A B2 | c4 Bc |
+d2 b2 ag | fd c2 A2 | G6 |]
+% Source: sources/benpaley-com/pages/resources/dots/_35b8a384.abc
+
+X:12
+T:Marsch efter Hans Dalfors från Ore
+T:March from the playing of Hans Dalfors from Ore
+L:1/8
+M:C|
+C:Trad arr. © 2022 Ben Paley
+N:In the A part you'll notice that I'm anticipating the first note of bar 7, starting it in bar
+N:6. This is only a suggestion*, of course and, as written, it comes out as quite an extreme
+N:syncopation - extreme in the context, at least. You might like to de-emphasise this in your
+N:playing, or ignore it completely.
+N:In the third bar of the harmony, I've written both B to D and B to G. I think it sits very
+N:nicely like this, providing some movement against the repetition in the melody, but you might
+N:like to play one note both times: I offer them as alternatives.
+N:[*this is a joke, because the Swedish word for suggestion, "förslag", has a technical meaning
+N:in music to do with anticipating and retarding notes. Do you love puns that have to be
+N:explained? I do.]
+O:Dalarna, Sweden
+R:March
+D:Ola Bäckström and Per Gudmundsson, "Ola & Per", 2001
+Z:Ben Paley <ben.paley@benpaley.com>
+K:D
+V:M clef=treble  name="Melody"   snm="M"
+V:H clef=treble  name="Harmony"   snm="H"
+%%score M|H
+%
+%
+P:A
+[V:M] A2 |: d2fe d2f2 | A3B A2GF | G2AB  G2B2  | ABAG FDFA  |
+[V:H] D2 |: F2AG F2A2 | D3E F2ED | B,2D2 B,2G2 | FGFE DA,DE |
+%
+[V:M] d2fe d2f2 | efed e2FG   - | GAGF     GAB=c |1 A6 A2 :|2 A6 GF  |
+[V:H] F2AG F2A2 | cdcB c2A,B, - | B,=CB,A, B,DGA |1 F6 D2 :|2 F6 DB, |
+%
+%
+P:B
+[V:M] |: G2g2  g2=fe | d2e=f f2ed | cdef ^gabg | a6 GF  |
+[V:H] |: G,2_B2 B2AG | =F2Ad d2cB | ABcd efeB  | c6 DB, |
+%
+[V:M] G2g2  g2=fe | d2e=f f2ed | cdef gbac | d3f efec |1 d6 GF  :|2 d6 |]
+[V:H] G,2_B2 B2AG  | =F2Ad d2cB | ABcd cBAG | F3A GAGE |1 F6 DB, :|2 F6 |]
+% Source: sources/benpaley-com/pages/resources/dots/_14973525.abc
+
+X:13
+T:Melodi från Vest-Agder
+T:The Four-Note Tune
+L:1/16
+M:2/4
+C:Trad arr. © 2025 Ben Paley
+N:What's fascinating to me about this tune is how much it does with so little. The second part
+N:feels like a revelation, like the sun coming out after the overcast of the first  part, and yet
+N:they're so very nearly identical. Each part has what I think of as being a "Stonehenge"
+N:structure, with a phrase repeated and then capped by a second phrase.
+N:Obviously the mystery resides in the performance. For intonation, rhythm and variation \u2014
+N:for the soul of the tune, that is \u2014 please listen to Styrbjörn Bergelt's beautiful
+N:version on YouTube, https://www.youtube.com/watch?v=-t6sOiyEvbc.
+N:I play this in D, but I think Bergelt plays it in A. I just like the way it sounds and falls
+N:under the fingers in D, and since the recording isn't played on the fiddle, I feel comfortable
+N:to do whatever feels right. In the recording, there's a drone on the Dominant below the melody,
+N:which is a bit harder on the fiddle, so I drone on the A  string more than on the A below,
+N:because I do not want the bother of retuning. But you could retune your G string up to A: that
+N:would sound great if you don't mind the faff.
+N:Or \u2014 and I haven't tried this, but \u2014 you could play it in A, retuned to CAEA: then
+N:you'd have the Mediant above and the Dominant below!
+O:The county of Vest-Agder (now part of Agder) in Norway.
+Q:1/4=65
+D:Styrbjörn Bergelt, "Tagelharpa och Videflöjt", 1979
+Z:Ben Paley <ben.paley@benpaley.com>
+K:Dm
+P:A
+DE |: F2FD E2EF | G2GF D2DE | F2FD E2EF |
+G2GF D2DE | F2GF EDE2 | D6DE :|
+P:B
+|: FDF2 E2EF | GEG2 F2DE | FDF2 E2EF |
+GEG2 F2DE | F2GF E2E2 |1 D6DE :|2 D6 |]
+% Source: sources/benpaley-com/pages/resources/dots/_06797859.abc
+
+X:14
+T:Polska efter Blank Anders
+T:Polska from the playing of Blank Anders
+L:1/16
+M:3/4
+C:Trad arr. © 2019 Ben Paley
+O:Dalarna, Sweden
+Q:1/4=87
+R:Polska
+D:Kalle Almlöf, Björn Ståbi and Pers Hans, "Tre Spelmän"
+D:Ben Paley, "Homunculus Mellitus", 2019
+Z:Ben Paley <ben.paley@benpaley.com>
+K:Gm
+V:M clef=treble  name="Melody"   snm="M"
+V:H clef=treble  name="Harmony"   snm="H"
+%%score M|H
+P:A
+[V:M] |: -gagf  d4 B3d | cdcA  B2cB  A3^F | G3A  BABc  d3c | B2AG   A6g2- |
+[V:H] |: -d=edc B4 G3B | ABA^F G2F=E D3C  | B,3D G^FGA B3A | G2^F=E D6d2- |
+%
+[V:M] -gagf  d4 B3d | cdcA  B2cB A3^F | G3A  BABc  d3c  |1 B2A^F G6g2- :|2 B2A^F G6  d^c |
+[V:H] -d=edc B4 G3B | ABA^F G2F=E D3C  | B,3D G^FGA B3A |1 G2DC B,6d2- :|2 G2DC  B,6 B,A,|
+%
+P:B
+[V:M] |: d4  g2^fg A'3f| gag=f d4 B3A | G3A  BABc  d3c | B2AG  A6  d^c |
+[V:H] |: G,4 B2AB  c3B | ABcA  B4 G3D | B,3D G^FGA B3A | G2^F=E D6 D2-  |
+%
+[V:M]  d4 g2^fg a3f | gag=f d4 B3A | G3A  BABc  d3c |1 B2A^F G6  d^c  :|2 B2A^F G8  |]
+[V:H] -D4 B2AB  c3B | ABcA  B4 G3D | B,3D G^FGA B3A |1 G2DC  B,6 B,A, :|2 G2DC  B,8 |]
+% Source: sources/benpaley-com/pages/resources/dots/_4e3b3c48.abc
+
+X:15
+T:Polska efter Kings Selma Olofsdotter
+T:Polska from the playing of Kings Selma Olofsdotter
+T:Kings Selma
+L:1/16
+M:3/4
+C:Trad arr. © 2020 Ben Paley
+N:There's something wonderful about a tune with an empty first beat! I've written the tune as I
+N:analyse the rhythm, but you should listen to these versions to make your own mind up,
+N:especially if you're not familiar with polskas:
+N:https://www.youtube.com/watch?v=Exibow2_GEM
+N:https://www.youtube.com/watch?v=Ty48tLp2CqE
+N:https://www.youtube.com/watch?v=FnAwU66Pllw
+N:...the last of which has some different notes, altering the mood slightly and emphasising the
+N:sun-coming-out-from-behind-the-clouds feeling of the second part. And listen to the way the
+N:harmony varies under the repeated phrase in the first part. These three versions together make
+N:a fascinating comparison!
+O:Dalarna, Sweden
+Q:1/4=106
+R:Polska
+D:Hedningarna, '"Kaksi!", 1991
+Z:Ben Paley <ben.paley@benpaley.com>
+K:D Dorian
+P:A
+|: z4 G2F2 E2DE | F4 A4 c3A | B4 G2F2 E2DE | F4 A2F2 D4 |
+z4 G2F2 E2DE | F4 A4 c3A | B4 G2F2 E2DE |[1 F4 D8 :|[2 F4 D6A2 |]
+P:B
+|: _B3c d4 _B3d | d4 c2A2 F3A |  _B3c d4 _B3d | d4 cdcA F3A |
+G3B BA3 F4 |[1 E4 D6A2 :|[2 E4 D8 |]
+% Source: sources/benpaley-com/pages/resources/dots/_3aa68847.abc
+
+X:16
+T:Polska efter Lars i Kontere
+T:Polska from the playing of Lars i Kontere
+L:1/8
+M:3/4
+C:Trad arr. © 2019 Ben Paley
+N:You can hear me playing this tune on my album "Homunculus Mellitus" on my Bandcamp page,
+N:benpaley-fiddle.bandcamp.com
+O:Värmland, Sweden
+Q:1/4=150
+R:Polska
+D:Bengt Lindroth, Bo i Ransätt, Erik Gustavsson and Rune Åsell, "Spelmanslåtar från
+D:Värmland", 1975
+D:Ben Paley, "Homunculus Mellitus", 2019
+Z:Ben Paley <ben.paley@benpaley.com>
+K:A
+P:A
+|: Ac e2 B2 | Bd ee fg |  a2 fd fa | g2 e4 |
+Ac e2 B2 | Bd ee fg |  a2 fd cA | BG A4 :|
+P:B
+|: ed cc ce | dc Be fg | a2 fd fa | g2 e4 |
+ed cc ce | dc Be fg | a2 fd cA | BG A4 :|
+% Source: sources/benpaley-com/pages/resources/dots/_1bee690f.abc
+
+X:17
+T:Polska efter 'Mofatt' Anders Jonasson
+T:Polska from the playing of Anders "Mofatt" Jonasson
+L:1/8
+M:3/4
+C:Trad arr. © 2010 Ben Paley
+O:Värmland, Sweden
+Q:1/4=135
+R:Polska
+D:Marianne Skagerlind and Einar Hansander, "Låtar på Dal", 1981
+D:Ben Paley, "Swedish Fiddle Music - An Anthology", 1993
+D:The Long Hill Ramblers, "Beauty and Butchery", 2013
+Z:Ben Paley <ben.paley@benpaley.com>
+K:Dm
+P:A
+Ad |: d2 ^cd e2 | f2 fe ^cd | ef ed ef | ed ^c=B Ad |
+d2 ^cd ef | f2 ea e2 | (3 aba (3 geg (3 fe^c |1 d4 Ad :|2 d4 f2 |
+P:B
+|: a2 a2 (3 a=ba | ^g2 ef ed | ^cd ef ed | ef ed ^c=B |
+Aa a2 (3 a=ba | ^g2 ef ea |  (3 aba (3 geg (3 fe^c |1 d4 A2 :|2 d4 |]
+% Source: sources/benpaley-com/pages/resources/dots/_0c6de919.abc
+
+X:18
+T:Polska efter Pål Karl Persson
+T:Polska from the playing of Pål Karl Persson
+L:1/8
+M:3/4
+C:Trad arr. © 2019 Ben Paley
+N:This appears on the album "Längs Gamla Stigar och Färdeväger" by Simon Simonssons Kvartet
+N:from 1989 — it's a fantastic version with interesting modern instrumentation and imaginative
+N:tonality and, at last, I found it on YouTube. There is a version with me playing it, some years
+N:ago, with my friend Tab — it's the second of two the tunes here:
+N:https://www.youtube.com/watch?v=hPKAuqKfRb8 — and the Simon Simonsson version is here:
+N:https://www.youtube.com/watch?v=HKJJqK8qyME.
+N:The first beat of some bars is short, the second long — but this can vary bar by bar. It's
+N:the essence of a certain sort of polska, and the phenomenon is more or less impossible to
+N:describe except by demonstration. In the first bar of the A part, for instance, the first three
+N:notes can be played so as each to take up a more-or-less equal amount of time, as though they
+N:were quarter note triplets. Personally, I analyze them in the way I've written them — as
+N:uneven beat lengths — but I suspect listening will prove more useful than reading in this
+N:case.
+N:On top of that there are the ambiguous Fs — I play the Fs at the beginning of the second and
+N:fourth bars of the B part as F-sharps, Simon Simonssons Kvartett plays them pretty solidly as
+N:F-naturals. I think the underlying situation is that they both represent a half-sharp, which
+N:melody players choose to represent as either a sharp or natural under the influence of fretted
+N:instruments. I daresay PhD theses have been written about the influence of frets on traditional
+N:tonalities. Just do your best.
+N:All in all, Swedish music can appear at first as a sea of notes and fragmentary harmony which
+N:strongly hints at some elusive form, but the more you listen to it the more it starts to make
+N:sense.
+N:Good luck, have fun, and remember it doesn't matter!
+O:Dalarna, Sweden
+R:Polska
+D:Simon Simonssons Kvartet, "Längs Gamla Stigar och Färdeväger", 1989
+Z:Ben Paley <ben.paley@benpaley.com>
+K:Am
+P:A
+|: A2 dB c>c | d2 ^fe/2d/2 e>c | A2 dB c>c | d2 ^fe/2d/2 e2 | e>g a2 a>g | =fe/2d/2 e4 :|
+P:B
+|: A2 ag a>e | ^f2 fe/d/2 e>c | A2 ag a>e | ^f2 fe/d/2 e>A | d>c A<c BA/2G/2 | B<c A4 :|
+% Source: sources/benpaley-com/pages/resources/dots/_b66a6577.abc
+
+X:19
+T:Säckpiplåt efter Carl Valström
+T:Bagpipe tune
+L:1/8
+M:2/4
+C:Trad arr. © 2011 Ben Paley
+O:Värmland, Sweden
+Q:1/4=140
+Z:Ben Paley <ben.paley@benpaley.com>
+K:D Mixolydian
+P:A
+DE |: =F2 EF | D2 E=F | G2 FG | E2 FG |
+A2 BA | GF EF | D2 D2 | A,2 DE |
+=F2 EF | D2 E=F | G2 FG | E2 FG |
+A2 BA | GF EF | D4- |1 -D2 DE :|2 D2 DF |
+P:B
+|: A2 FA | cB GB | BA ce | d2 dc |
+A2 FA | cB GB | BA AG | FE FG |
+A2 FA | cB GB | BA ce | d3 c |
+A2 BA | GF EF | D4- |1 -D2 DF :|2 D2 |]
+% Source: sources/benpaley-com/pages/resources/dots/_6e95521c.abc
+
+X:20
+T:Skrammelpolskan efter Karl Lindblad
+T:Rattle-polska from the playing of Karl Lindblad
+L:1/16
+M:C|
+C:Trad arr. ©2026 Ben Paley
+N:This is a lovely big polska. Lots of shifts of tonality, but on the other hand the rhythm is
+N:pretty straight.
+O:Gästrikland, Sweden
+Q:1/4=95
+R:Polska
+D:Tony Wrethling, Ulf Hermansson and Per Börjesson, "Felan Går - Danslåtar från
+D:Gästrikland", 1979
+D:Sven Ahlbäck, "Gästriketon", 1981 (as "Polska efter Karl Lindblad")
+Z:Ben Paley <ben.paley@benpaley.com>
+K:A
+P:A
+|: A4 c2Ac e4- | -e2a2 gegb a4 | e3=c ABcd e2c2 | B2AG A2E2 =C2A,2 |
+A4 c2Ac e4- | -e2a2 gegb a4 | e3=c ABcd e2c2 | B2AG A8 :|]
+P:B
+|: A2Bc d2A2 B2=c2 |  B3A =G2F2 G4- |1 =G4 e2B2 c2d2 | c2BA GABG A4 :|2 =G4 e4 d4 | c3c B2cB A4 |
+P:C
+|: D3D F2DF A2F2 | E2A,2 A,CEC A,CEC :|
+P:D
+|: D3D F2DF A2FA | d2Ad f2df a4 |
+|1 b2ge a2fd =g2ec | dcdf edcB A=GFE :|2 b2ge a2fd =g2ed | c2Bc d8 |]
+% Source: sources/benpaley-com/pages/resources/dots/_09b38176.abc
+
+X:21
+T:Sörmländsk Brudlåt
+T:Wedding tune from Södermanland
+L:1/8
+M:C|
+C:Trad arr. © 2022 Ben Paley
+N:Another tune I first heard on Styrbjörn Bergelt's "Tagelharpa och Videflöjt"
+O:Södermanland, Sweden
+D:Styrbjörn Bergelt, "Tagelharpa och Videflöjt", 1979
+Z:Ben Paley <ben.paley@benpaley.com>
+K:Dm
+P:A
+DF |: A3G FEDE | F4 G2FG | A2BA GDDF |[1 D6 DF :|[2 D6 AB |
+P:B
+| c2c2 B2AG | A3G F2F2 | G3A B2AG | A6 DF |
+A3G FEDE | F4 G2FG | A2BA GDDF | D6 |]
+% Source: sources/benpaley-com/pages/resources/dots/_50188e6a.abc
+
+X:22
+T:Springlek från Malung efter Troskari Erik
+T:Springlek from Malung from the playing of Troskari Erik
+L:1/16
+M:3/4
+C:Trad. arr © 2016 Ben Paley
+N:The album <em>Tre Spelmän</em> (Three Fiddlers) is just... I don't even know what to say, it's
+N:a work of such sublime genius. Buy the album if you can! But in the meantime, <a
+N:href="https://youtu.be/O5Gsj-3Nmzs">this track exists on YouTube</a>!
+O:Malung, Dalarna, Sweden
+R:Springlek
+D:Kalle Almlöf, Pers Hans and Björn Ståbi, "Tre Spelmän", 1977
+Z:Ben Paley <ben.paley@benpaley.com>
+K:D
+P:A
+f2 |: a3b ga3 f3e | (3f2a2g2 ef3 d3c | d3e fg3 f4 | d2c2 d2e2 f2d2 | c4 A6 f2 |
+a3b ga3 f3e | (3f2a2g2 ef3 d3c | d3e fg3 f4 | (3d2f2a2 g3f de3 |1 c4 d6 f2 :|2 c4 d6 d2 |
+P:B
+|: c4 A2B2 G2A2 | F4 D2F2 A3F | E4 C2E2 D3c | d3e fg3 f4 | d2c2 d2e2 f2d2 | c2 A6 A2 |
+c4 A2B2 G2A2 | F4 D2F2 A3F | E4 C2E2 D3c | d3e fg3 f4 | (3d2f2e2 g3f de3 |1 c4 d6 d2 :|2 c4 d6 ||
+% Source: sources/benpaley-com/pages/resources/dots/_55977f8b.abc
+
+X:23
+T:Vals efter Carl Johann Björklund
+T:Waltz from the playing of Carl Johann Björklund
+L:1/8
+M:3/4
+C:Trad arr. © 2022 Ben Paley
+N:If you can find it, listen to the 1979 album "Värmlandslåtar" [Fabo SLP 33118] by Bo i
+N:Rannsätt and Bengt Lindroth. Their version of this tune is wonderful.
+O:Värmland, Sweden
+Q:1/4=150
+R:Waltz
+D:Bo i Rannsätt and Bengt Lindroth, "Värmlandslåtar" [Fabo SLP 33118], 1979
+Z:Ben Paley <ben.paley@benpaley.com>
+K:Dm
+V:M clef=treble  name="Melody"   snm="M"
+V:H clef=treble  name="Harmony"   snm="H"
+%%score M|H
+V:M
+P:A
+A2|:d3 f ed | ^c2 d2 e2 | f2 a2 ^ga | =ba gf ef |
+d3 f ed | ^c2 d2 e2 | f2 a2 ^c2 |1 d4 A2 :|2 d4 f2 |
+P:B
+|:a2 ^ga =b2 | a2 a2 g2 | f3 a gf | e4 g2 |
+f2 e2 d2 | ^c2 d2 e2 | f2 a2 ^c2 |1 d4 f2 :|2 d4||
+V:H
+P:A
+E2|:F3 A GF | E2 F2 A2 | d2 f2  ef | gf ed AG |
+F3 A GF | E2 F2 A2 | d2 A2 G2 |1 F4 E2 :|2 F4 d2 |
+P:B
+|:f2  ef  g2 | f2 f2 e2 | d3 f ed | ^c4 e2 |
+d2 ^c2 B2 | A2 B2 ^c2 | d2 A2 G2 |1 F4 d2 :|2 F4||
+% Source: sources/benpaley-com/pages/resources/dots/_332e0c81.abc
+
+X:24
+T:Vals efter Erik "Nirsa" Nilsson
+L:1/8
+M:3/4
+C:Trad arr. © 2005 Ben Paley
+O:Jämtland, Sweden
+Q:1/4=163
+R:Waltz
+Z:Ben Paley <ben.paley@benpaley.com>
+K:D Dor ^c
+P:A
+|: A2 a2 a2 | a2 ^ga ba | a2 g2 g2 | g2 fg ag |
+A2 f2 f2 | f2 ef ag | f2 e2 e2 | eg fe d^c |
+A2 a2 a2 | a2 ^ga ba | a2 g2 g2 | g2 fg ag |
+f2 ag fe | d2 cd eg | fe d2 d2 | d4 A2 :|
+P:B
+|: A2 d2 d2 | d2 e2 f2 | fe d2 e2 | c4 A2 |
+A2 f2 f2 | f2 ef ag | f2 e2 e2 | eg fe dc |
+A2 d2 d2 | d2 e2 f2 | fe d2 e2 | c4 e2 |
+f2 ag fe | d2 cd eg | fe d2 d2 | d6 :|
+% Source: sources/benpaley-com/pages/resources/dots/_91aee4d2.abc
+
+X:25
+T:Vals efter Lasse Nilsson från Skåne
+T:Waltz from the playing of Lasse Nilsson from Skåne
+L:1/8
+M:3/4
+C:Trad arr. © 2012 Ben Paley
+O:Sweden
+Q:1/4=170
+R:Waltz
+Z:Ben Paley <ben.paley@benpaley.com>
+K:Dm
+P:A
+|: a2 ga f2 | e2 c2 A2 | F2 A2 c2 | fe fg a2 |
+a2 ga f2 | e2 c2 A2 | E2 A2 ce |1 d4 a2 :|2 d6 |
+P:B
+|: fe de fg | a4 a2 | c'2 a2 c'2 | a6 |
+fe de fg | a4 a2 | c'2 a2 c'2 | a6 |
+a2 ga f2 | e2 c2 A2 | E2 A2 ce |1 d4 f2 :|2 d6 |]
+% Source: sources/benpaley-com/pages/resources/dots/_2065031a.abc

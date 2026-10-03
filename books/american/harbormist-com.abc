@@ -1,0 +1,892 @@
+% Pat Palmer's tunes: Old-time & North American tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T: Bees Wax, Sheep Skin
+C: Michel Bourdeleau
+M: 2/2
+N: Q: 1/2=120
+L: 1/8
+K: G
+"A"EAA/2A/2A BAGB | "A"AGAa gfef | "G"gefd efed | "D"Beed BAAG |
+"A"EAA/2A/2A BAGB | "A"AGAa gfef | "G"gefd efed |1 "D"Beed "Em"BAAG :|2 "D/F#"Beed "G"BAAe||
+|:"A"a2ab agga | "A"bagf edef | "G"gefd efed | "D"Beed BAA2 |
+  "A"a2ab agga | "A"bagf edef | "G"gefd efed |1 "D/F#"Beed "G"BAAe:|2 "D/F#"Beed "G"BAAG|]
+w: v2
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Bees_Wax.txt.abc
+
+X:2
+T:Benton's Dream
+C:Benton Flippen
+M:C|
+L:1/8
+N: Q: 1/2=120
+K:Amix
+ce\
+|: "A"a2a2- aba2 | "G"g2g2- gag2 | "A"e3 f edcB | A3 B A2 cB |
+|  "A"A2 F2 EFAB | "E"=cBcB AFEF | "A"A2 A3 F EF |1 A2 A4 ce :|2 A2 A4 |
+|: A2 | "G"G2 BG AGBG | AB-BA B2 D2 | G2 BG AGBG | AB-BA B2 B2 |
+|  "A" A2 A4 AB | "A"ceaf "G"ecBc | "A"A2 A3 F EF |1 "A"A2 A4 :|2 "A"A2 A4 ce |]
+
+%%textfont Helvetica 10
+%%begintext
+R&0 2011, version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Bentons_Dream.txt.abc
+
+X:3
+T:Bill's French Tune
+C:© Bill Quern
+M:C|
+L:1/4
+N: Q: 1/2=112
+K:Dm
+|: "Dm" A2 d2 | c =B A2 | FA "Am"EA| "Dm" DEFG |
+|  "Dm" A2 d2 | c =B A2 | fd "A7"e ^c |1 "Bb" d2 d2 :|2 "Dm"d2 d d/e/ ||
+|: "Dm" fd "A/C#" e^c | "Bb" dc  BA | "Dm"fd "A/C#"e^c | "Dm"d a-"A"a a |
+|  "Dm" fd "A/C#" e^c | "Bb" dc  BA | "Dm"FA "A7"EA |1 "Bb" D3 d/e/ :|2 "Dm" D4 |]
+
+%%textfont Helvetica 10
+%%begintext
+version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/bills_french_tune.txt.abc
+
+X:4
+T:Blue Jig
+C:Joel Mabus
+M:6/8
+N: Q: 3/8=120
+L:1/8
+K:Am
+"A7"A3 cBA| cBA a3| age _edc| "D7"d^de d=dc| "A7"A3 cBA| 
+cBA a3| age "D7"cAG| "E7"_EDC "A"A,3:|\
+|:"D7"^FAB cBA| ^FAB cBA| "A7(C#7)"^ce^f gfe| 
+"(F#7)"^ce^f gfe|"D7"^FAB cBA| ^FAB cBA| "A7"age "D7(C7)"cAG| "E7(B7)"_EDC "A(Bb7)"A,3 :|
+P:B harmony
+"^twice"Acd ^d=dc || "^twice"ega ^a=ag || "^twice"Acd ^d=dc || age cAG| _EDC A,3 |]
+
+%%textfont Helvetica 10
+%%begintext
+PCD version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Blue_Jig.txt.abc
+
+X:5
+T: Bobcat Shuffle
+C: ©1981 Bob Pasquarello
+R: reel
+M: C|
+N: Q: 1/2=120
+L: 1/8
+K: Am
+|:"Am" A2 B2 "G"c2 d2   | "F"ea2 b "Em"aged  | "Am"ea2 b "G" aged | "F"cBAc "E"B4 |
+  "Am" A2 B2 "G"c2 d2   | "F"ea2 b "Em"aged  | "Am"cBcd  "Dm"efed | "Em"c2 "E7"B2 "Am"A4 :|
+|:"D#dim" ^d4 "Am"e2 AB | "F"cBcd  "Em"e2 e2 | "Am"cBcd  "G"efed  | "F"cBAc "E"B4 |
+  "D#dim" ^d4 "Am"e2 AB | "F"cBcd  "Em"e2 e2 | "Am"cBcd  "Dm"efed | "Em"c2 "E7"B2 "Am"A4 :]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2009, version 2
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Bobcat_Shuffle.txt.abc
+
+X:6
+T: Bobcat Shuffle (1 octave lower)
+C: ©1981 Bob Pasquarello
+R: reel
+M: C|
+N: Q: 1/2=120
+L: 1/8
+K:Am
+|:"Am" A,2 B,2 "G"C2 D2   | "F"EA2 B "Em"AGED  | "Am"EA2 B "G" AGED | "F"CB,A,C      "E"B,4 |
+  "Am" A,2 B,2 "G"C2 D2   | "F"EA2 B "Em"AGED  | "Am"CB,CD "Dm"EFED | "Em"C2 "E7"B,2 "Am"A,4 :|
+|:"D#dim" ^D4 "Am"E2 A,B, | "F"CB,CD "Em"E2 E2 | "Am"CB,CD "G"EFED  | "F"CB,A,C      "E"B,4 |
+  "D#dim" ^D4 "Am"E2 A,B, | "F"CB,CD "Em"E2 E2 | "Am"CB,CD "Dm"EFED | "Em"C2 "E7"B,2 "Am"A,4 :]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2009, version 2
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Bobcat_Shuffle.txt.abc
+
+X:7
+T: Cold Frosty Morning II
+R: reel
+M: 4/4
+Q: 1/2=120
+L: 1/8
+K: Ador
+|"Am"EDEG A2 AB|cAcd e2 DF|"G"G2BAG2GF|GABcd4|
+"Am"EDEGA2AB|cAcde2AB|"Am"cBAc "G"BAG2|"Am"A4A4 :|
+|:"Am"e2a2a4|abag edcd|"G"edef gagf|"G"edcd"E7"e4 |
+"Am"A4"Am/G"c2c2|"F"dcd2"E7"e2AB|"Dm"cBAc "Em"BAG2|"Am"A4A4:|
+w: v1
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Cold_Frosty_Mornin.txt.abc
+
+X:8
+T: Dancing Bear, The
+I:
+C: © Bob McQuillen 2/22/78
+M: C|
+L: 1/8
+N: Q: 1/2=120
+R: reel
+K: Em
+"Em"EFGF EFGF| EFGA G2E2| "A"EFGF EFGF| EFGA G2E2|
+"Em"EFGF EFGF| EFGA B2e2| "B7"B2Bc BAGF| "Em"G2E2 E4 :|
+|:"Em"e2ef gfef| gfe2 e4| "A"e2ef gfef| gfe2 e4|
+"Em"e2ef gfef| gfe2 e2dc| "B7"BABc BAGF| "Em"GFE2 E4 :|]
+
+%%textfont Helvetica 10
+%%begintext
+Measures A5 and B5 may have C chord as a variation
+%%endtext
+
+%%textfont Helvetica 9
+%%begintext
+R&O XXXI, medley 7
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/dancing_bear_the.txt.abc
+
+X:9
+T:Devil in the Strawstack
+M:C|
+N: Q: 1/2=115
+L:1/8
+K:Gm
+|: "Gm"GFDF GFDF | GFDF "F"C4 | "Gm"GFDF G2(d2 | "Dm"d)cAc    dcAc  |
+|  "Gm"GFDF GFDF | GFDF "F"C4 | "Gm"GFDF G2(d2 |     d)cA2     G4   :|
+|: "Gm"d2g2 g4   | gagf    d4 |  "F"fAgA fAgf  |     dcAc "Dm"d4    |
+|  "Gm"d2g2 g4   | gagf    d4 |  "F"fAgA fAgf  | "Dm"dcA2 "Gm"G4   :|]
+
+%%textfont Helvetica 10
+%%begintext
+v2
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/devil_in_the_strawstack.txt.abc
+
+X:10
+T:Dominion Reel
+C:trad.
+R:Reel
+N: Q: 1/2=120
+M: 4/4
+L: 1/8
+N: R&O XXVIII
+K: C
+|:G2| "C"c2 c2 "G7"BcdB|"C"cega gece|"F"f2 fd "C"e2 ec| "G"dcBA G2 AB |
+ "C"c2 c2 "G7"BcdB|"C"cega gece|"F"f2 fd "C"e2 ec| "G7"dcBd "C"c2 :|
+|:G2| "C"cege cege|"G7"defe dcBd|"C"cege cege |"D"dg^fa "G"g2 G2 |
+ "C"cege cege|"F"f2 fe dcBA|"G7"GABc defg|"C"ec"G7"dB "C"c2:|
+w: v5
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Dominion_Reel.txt.abc
+
+X:11
+T: Good For the Tongue
+C: Trad.
+Z: Transcribed by Debbie Knight (http://roaringjelly.org/music/reel/R147_Good_For_the_Tongue.abc)
+Z: As played in R&O XXVII (2006)
+M: C|
+L: 1/8
+N: Q: 1/2=120
+R: reel
+K:A
+"A"ABcd ecAe| "D"fA"(E)"gA "A"aAAA| "D"FAAA "A"EAAB| "Bm"cdBG "E"AGFE|
+"A"ABcd ecAe| "D"fA"(E)"gA "A"aAAA| "D"FAAA "A"EAAB| "E"cdBG "A"A4  :|
+"A"eAAA eAAA| "D"aAfA "A"eAAA|"D"aAfA "A"eAAB | "Bm"cdBG "E"AGFE |
+|1"A"eAAA eAAA| "D"aAfA "A"eAAA| "D"aAfA "A"eAAB|  "E"cdBG "A"A4  :|
+|2"Last time only""A"eAAA eAAA| "D"aAfA "A"e2 z2|"D"a3 f e2 d2|"E"c2 B2 "A"A4|]
+
+
+%%textfont Helvetica 10
+%%begintext
+R&O XXVII, medley 9
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Good_for_the_Tongue.txt.abc
+
+X:12
+T: Hollow Poplar
+M: C|
+N: Q: 1/2=120
+L: 1/8
+R: reel
+K: G
+|: Bc | "G"d4   d2Bc | d2 B2 AGAB  | "C"c4       c2 AB | "D"c2 B2 AGEG |
+        "G"DEGA Bdef | g2 f2 edBA  | "C"G2 BG "D"AG F2 | "G"G6 :|
+|: Bc | "G"d4   g4   | g2 f2 e2 d2 | "Am"fa-a2   a2 fg | "D"a2 f2 edef |
+        "G"gfef gfef | g2 f2 edBA  | "C"G2 BG "D"AG F2 | "G"G6 :|
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2009, version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Hollow_Poplar.txt.abc
+
+X:13
+T:Hunting the Buffalo
+M:C|
+N: Q: 1/2=120
+R:reel
+K:A
+|: "E"B2 \
+|  "A"c4  cBAB | cBAGF2E2 | c4cBAB | cBce"D"f2e2   |
+|  "A"c4  cBAB | cBAGF2E2 | c4cBA2 | "F#m"F3EF2   :||
+|: "E"E2 \
+|  "D"F3E F2E2 | FEFGA2E2 |     FEFG A2AB       | "A"  c2c2 ((3BcB) A2  |
+|  "D"F3E F2E2 | FEFGA2AB | "A" c2c2 ((3BcB) A2 | "F#m"F3E  F2      :|]
+
+%%textfont Helvetica 10
+%%begintext
+version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/hunting_the_buffalo.txt.abc
+
+X:14
+T:Jefferson and Liberty
+T:(same melody as The Gobby-O)
+R:jig
+N: Q: 3/8=120
+M:6/8
+L:1/8
+K:Bm
+B/c/|\
+"Bm"d2B B^AB | F2B Bcd |"A" c2A ABc | ecA ABc |
+"Bm"d2B B^AB | F2B B2f | "Bm"fed "F#7"cdc | "Bm"F2B B2:|
+|:d|\
+"Bm"B2c d2e | "D"f2g a3  | "D"f2g a2f | "A"ecA A2F |
+"Bm"B2c d2e | fga "Em"b3  | "Bm"fed "F#7"cdc | "Bm"F2B B2:|
+w: v1
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Jefferson_and_Liberty.txt.abc
+
+X:15
+T: Lady of the Lake
+O: trad New England
+M: C|
+N: Q: 1/2=120
+L:1/8
+K: G
+ B,A,\
+|: "G"G,B,DG    BAGB |    dBGA       BAGB | "C"cdcB "Am"AGFG |  "D"AGFE     DCB,A,  |
+|  "G"G,B,DG    BAGB |    dBGA       BAGB | "C"cdcB "Am"AGFE |1 "D"DGGF  "G"G2B,A, :|2 "D"DGGF "G"GABc   ||
+|: "G"d2B2 "G/B"g3f  | "C"e2c2 "A/C#"a3g  | "D"f2fg     fedf |  "A"ed^ce "D"d=cBc   |
+|  "G"dcBd "G/B"g2gf | "C"ecAe "A/C#"a3g  | "D"fedB     cAFD |1 "G"G2GF     GABc   :|2 "G"G2GF    G2B,A, |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O XXXIII (2012), medley 8
+%%endtext
+
+%%textfont Helvetica 9
+%%begintext
+version 2
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/lady_of_the_lake.txt.abc
+
+X:16
+T:Marie, Sauce ton Pain
+M:4/4
+L:1/8
+N: Q: 1/2=120
+K:G
+| d2\
+|: "G"gage "G/B"d2B2 | "C"c2d2 "D" e2f2  | "G"gage "Em"d2G2  |  "D" B2d2 "G"G2 z2   | 
+|  "G"gage "G/B"d2B2 | "C"c2d2 "D" e2f2  | "G"gage "Em"d2 Bd |1 "D7"cAFA "G"G2 d2  :|2 "D7"cAFA "G"G2 DG |
+|: "G"B3B  "G/B"B2AG | "C"Eccc c2 BA | "G"GBBB B2 AG |  "D" FADF    A2 DG  |
+|  "G"B3B  "G/B"B2AG | "C"Eccc c2 e2 | "G"d2Bd "D" cAFA  |1 "D7"GBAF "G"G2 DG :|2 "D7"GBAF "G"G2 d2  |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2013, version 2
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/marie_sauce_ton_pain.txt.abc
+
+X:17
+T:Maureen of Gibberland
+T:Leather Away the Wattle O
+M:C|
+N: Q: 1/2=120
+L:1/8
+K:D
+fe \
+|:"D" d2A2 F2A2 |d3c d2f2 |"A" e3d c2d2 | (e2f2 g2)fg|
+| "D"a2f2 "A"e2c2 |"G" dedB "D"A3F |"G" G2B2 "A" ABAG |1"D" F2D2 D2 fe:|2"D" F2D2 D2 z2||
+|:"D" f3e f2d2 |"G" z2g2 g2z2 |"D" f3e f2a2 |"Em" g2f2 "A"e2fg |
+| "D"a2f2 "A"e2c2|"G"dedB"D" A3F| "G"G2B2 "A"ABAG |1"D"F2D2 D2 z2 :|2"D"F2D2 D2 fe||
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/maureen_of_gibberland.txt.abc
+
+X:18
+T:Maureen of Gibberland
+T:(version 2)
+T:Leather Away the Wattle O
+M:C|
+N: Q: 1/2=120
+L:1/8
+K:D
+|:"D" A3G F2A2 |d3c d2f2 |"A" e3d c2d2 | (e2f2 g2)fg|
+| "D"a2f2 "A"e2c2 |"G" dedB "D"A3F |"G" G2B2 "A" ABAG |1"D" F2D2 D2 FG:|2"D" F2D2 D2 z2||
+|:"D" f3e f2d2 |"G" z2g2 g2z2 |"D" f3e f2a2 |"Em" g2f2 "A"e2fg |
+| "D"a2f2 "A"e2c2|"G"dedB"D" A3F| "G"G2B2 "A"ABAG |1"D"F2D2 D2 z2 :|2"D"F2D2 D2 fe||
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/maureen_of_gibberland2.txt.abc
+
+X:19
+T:Nail That Catfish to a Tree
+C:Steve Rosen
+M:4/4
+L:1/8
+N: Q: 1/2=120
+K:G
+D2|"G"B2 BB A2 B2|cB A2 B4|"D"ABAG FDFG|AB AG ((3FGF) D2|
+"G"B2 BB A2 B2|cB A2 B4|"D"ABAG FDEF|"G"G6:|
+D2|:"C"E4 G4|c6 zG|"D"ABAG FDFG|AB AG ((3FGF) D2|
+"C"E4 G4|c6 zc|1"D"ABAG FDEF|"G"G6 D2:|2"D"d2 c2 BA-A2|"G"G2 z2 G2|]
+
+%%textfont Helvetica 10
+%%begintext
+version 2
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/nail_that_catfish.txt.abc
+
+X:20
+T: North Carolina Breakdown
+M: 2/4
+N: Q: 1/4=120
+L: 1/16
+K: G
+|: D2 | "G"G2G2 EDEF | GFGA Bdef | "Em"g2f2 edef |    gagf "D7"edBA |
+        "G"G2G2 EDEF | GFGA Bdef | "Em"g2f2 edBA | "D"dBA2 "G"G2 :|
+P:   
+|: z2 | "C"e6e2- | e2e2 eee2 | "G"d6        d2-  |    d2d2 ddd2 |
+        "C"e6b2- | b2b2 agef | "G"gagf  "C"edBA  | "D"dBA2 "G"G2 |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2009, version 2 - B2, measures 7-8 variation: play only D chords
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/North_Carolina_Breakdown.txt.abc
+
+X:21
+T: Old French
+R: reel
+M: C|
+N: Q: 1/2=120
+L:1/8
+K:D
+((3ABc)\
+|: "D"d2cd BdAF | DFAd f2ed | "A7"cdef gece| "D"defd "A7"A2 ((3ABc)|
+|  "D"d2cd BdAF | DFAd f2ed | "A7"cdef gece |1 "D"d2f2 d2 ((3ABc) :|2 "D"d2f2 d2 cd ||
+|: "A7"efed c2A2 | AEAc e2dc | "G"BGBd gfed |  "A"cAce a2cd  |
+|  "A7"efed c2A2 | AEAc e2dc | "G"BGBd gfed |1 "A"c2A2 A2cd :|2 "A"c2A2 A2 ((3ABc) |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2012, version 3
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/old_french.txt.abc
+
+X:22
+T: Old Madeira Waltz
+D: Skip Gorman
+Z: Transcription and abc notation Sarah Gowan 2009
+M: 3/4
+L: 1/8
+N: Q: 3/8=105
+R: waltz
+K:G
+|: "G"d4 de                | "G/F#"=f/e/d-d4         | "G/F"d2d3/2e/ d3/2c/      |  "G/E"_B3/2A/ G3/2F/ D3/2F/ | 
+|  "G"G3/2A/ B3/2c/ d3/2e/ | "C"   =f2eg  d3/2c/     | "D7" {A}_B2B2B3/2G/       |1 "G"G6                     :|2 "G"G4 D2 || 
+|: "G"G3/2A/ B2 ((3AGE)    | "Am7" G3/2A/ B2 ((3AGE) | "Bm7"G3/2A/ B3/2d/ A3/2G/ |  "C"E4 DE                   | 
+|  "G"G3/2A/ B2 ((3AGE)    | "C"   G3/2A/ B3/2c/ d2- | "D7" d3z ((3_BAG)         |1 "G"G4D2                   :|2 "G"G6 |]
+
+%%textfont Helvetica 10
+%%begintext
+version 1
+as performed by Skip Gorman on the album "Greener Prairie"
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Old_Madeira_Waltz.txt.abc
+
+X:23
+T: Old Mother Flanagan
+C: trad.
+M:C|
+L:1/8
+N: Q: 1/2=120
+L: 1/8
+Z: R&O XXIX
+R: reel
+K:A
+e2 |\
+"A"a2 a2 fecd | efec "D"BAEF | "A"ABAF EFAB | "A" c2 d2 "E"e2 e2 |
+"A"a2 a2 fecd | efec "D"BAEF | "A"ABAF "D"EFAB | "E"cABc "A"A2 :|
+|: E2 |\
+"A"A2 A2 FEFA | cAcA BAFG | ABAF EFAB | "A"c2 d2 "E"e2 Bc |
+"D"d2 fd "A"c2 ec | "Bm"BAcA "E"BAFG | "A"ABAF "D"EFAB | "E"cABc "A"A2 :|
+w: v2
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Old_Mother_Flanagan.txt.abc
+
+X:24
+T:Over the Waterfall
+M:4/4
+N: Q: 1/2=120
+L:1/8
+K:D
+de |"D"f2a2 "A7"gfe2 | "D"d2B2 A2de | "D"f2a2  "A7"gfe2 | "D"d4d2de|
+"D"f2a2 "A7"gfe2 | "D"d2B2 A2AB |"C" =c2cd cBA2 | "G"G4-G2 :|
+|:FG |"D" A2A2"G" B2B2 | "D"ABAG F2FG |"D" A2d2  "A7"cdec |"D" d4 d2FG
+"D"A2A2 "G"B2B2 |"D" ABAG F2FG | "A7"A2D2  F2E2 | "D"D4-D2 :|
+w: v1
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/OverTheWaterfall.txt.abc
+
+X:25
+T: Pretty Little Dog
+R: reel
+M: C|
+N: Q: 1/2=120
+L: 1/8
+K: Ador
+eg\
+|:"Am"a2 e2 g2 ag | edcB A2 G2 | "Am"A2 AA     c2 d2 | "G"e4 e2 eg |\
+  "Am"a2 e2 g2 ag | edcB A2 G2 | 
+"Am"A2 AB "G"cA G2 |1 "Am"A4 A2 eg  :|2 "Am"A4 A2 AB  |\
+|:"Am"c2 AB cBcd  | edcB A2 G2 | "Am"A2 AA c2 d2 | 
+"G"e4 e2 eg |\
+  "Am"a2 e2 g2 ag | edcB A2 G2 | "Am"A2 AB "G"cAG2 |1 "Am"A4 A2 AB :|2"Am"A4 z2 eg |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2009, version 2
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Pretty_Little_Dog.txt.abc
+
+X:26
+T:Ragtime Annie
+N:from R&O XVIII (with high A changed to G in Part B measure 10)
+R:Reel
+M:C|
+L:1/8
+N: Q:1/2=120
+N: 108
+K:D
+P:A
+DE |\
+"D"F2 BF AFBF | AFBF A2 DE | F2 BF AFBF | "A"A c2 c c2 cB |
+"A"ABcA B2 cB | ABcA B2 cB | ABcd egfe | "D"d2 dc d2 :|
+P:B
+fg |\
+"D"a2 a2 fe d2 | A6 fg | a2 a2 fe d2 | "G"B6 ef |
+"A7"gfef gfef | gfed c4 | cdcB ABAG | "D"F6 fg |
+"D"a2 a2 fe d2 | f3 g f2 e2 | d d2 d "D7"c2 =c2 | "G"B6 ef |
+"G"g b2 g b2 g2 | "D"f a2 f a2 f2 | "A7"ABcd egfe | "D"d2 de "D7"d=cBA |]
+K:G
+P:C
+|:\
+"G"G2 GA BGAB | "C"cBcd e4 | "D"d2 de fdef | "G"gfga "D"bgdB |
+"G"G2 GA BGAB | "C"cBcd e4 | "D7"dedc BGAF |1 "G"G4 z2 D2  :|2 "G"G6 |]
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/RagtimeAnnie3.txt.abc
+
+X:27
+T: Rampant Tolerance (Am)
+C: Owen Morrison
+M: 6/8
+L: 1/8
+N: Q: 3/8=120
+K: Am
+|: "Am"cAA ABc | "F" cAA Acd | "C" ecc cde | "G"  dBB     Bcd  |
+|  "Am"cAA ABc | "F" cAA Acd | "C" ecc cde | "G"  Bdc "Em"BAG :| 
+|  "F" A3  ABc | "C" cGc edc | "G" dBB Bcd | "Am" cAA     A2G  | 
+|  "F" A3  ABc | "C" cGc edc | "G" dBB Bcd | "Am" cAA     A2G  | 
+|  "F" A3  ABc | "C" e3  edc | "G" dBB Bgf | "Am" eAA     A2G  | 
+|  "F" A3  ABc | "C" cGc edc | "G" d2d d2B | "G"  Bdc "Em"BAG  |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2012 version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/rampant_tolerance_Am.txt.abc
+
+X:28
+T: Rampant Tolerance
+C: Owen Morrison
+M: 6/8
+N: Q: 3/8=120
+L: 1/8
+K: F#m
+|: "F#m"AFF FGA | "D" AFF FAB | "A" cAA ABc | "E"  BGG      GAB  | 
+|  "F#m"AFF FGA | "D" AFF FAB | "A" cAA ABc | "E"  GBA "C#m"GFE :| 
+|  "D"  F3  FGA | "A" AEA cBA | "E" BGG GAB | "F#m"AFF      F2E  | 
+|  "D"  F3  FGA | "A" AEA cBA | "E" BGG GAB | "F#m"AFF      F2E  | 
+|  "D"  F3  FGA | "A" c3  cBA | "E" BGG Ged | "F#m"cFF      F2e  | 
+|  "D"  F3  FGA | "A" AEA cBA | "E" B2B B2G | "E"  GBA "C#m" GFE |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2012 version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/rampant_tolerance_FsharpM.txt.abc
+
+X:29
+T: Reel de Montreal
+O: Traditional
+R: reel
+M: 4/4
+N: Q: 1/2=120
+L: 1/8
+K: G
+|:d2| "G"g2 fe dcBA | GBDG B2AG | "D7"FADF AcBA | "G"GBDG B2d2 |
+| "G"g2 fe dcBA | GBDG B2AG | "D7"FGAB cdef | "G"g2gf g2 z2 :|
+K: D
+|: "D"A2 FA d2Ad | f2df a2ab | "A7"a2g2 e2g2 | "D"b2a2 f2d2 |
+| "D"A2 FA d2Ad | f2df a2ab | "G"a2g2 "A7"e2c2 |1 "D"(d4 "A7"d4) :|2 "D"(d4d2) "D7" |]
+w: v1
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/ReelDeMontreal.txt.abc
+
+X:30
+T: Reign of Love
+C: Keith Murphy © Black Isle Music BMI
+R: March
+M: C|
+N: Q: 1/2=120
+L: 1/4
+K:Em
+|: "Em"EF/G/ AB | G2 F2 | "D"AG/F/ EA | | G/F/E F/E/D | 
+|  "Em"EF/G/ AB | G2 F2 | "D"AG/F/ E/F/D |1 "A"E3 D :|2"A"E4 | 
+|: "Em"eB dA- | AB/A/ GF | "D"AG/F/ EA | | "G"BG d2 | 
+|  "Em"eB dA- | AB/A/ GF | "D"AG/F/ E/F/D |1 "A"E4 :|2"A"E3 D |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2014, version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/reign_of_love.txt.abc
+
+X:31
+T: Road to California
+R: reel
+M: C|
+N: R&O XXIX
+L: 1/8
+N: Q: 1/2=120
+K: D
+|: "D"D3E FEFE| DFAB AD-D2| "G"dcBA GFED| "A"CDE2 Ez A,2 |
+  "D"D3E FEFE| DFAB AD-D2| "G"dcBA GFED|1 "A"CDE2 "D"D2 "A7"[E2A,2] :|2 "A"CDE2 "D"D4 |]
+|:\
+"G"D2B2 B3 A | BABc dedB | "D"F2A2 ABAG| FGAB AFEF|
+"G"D2B2 B3 A | BABc dedB | "Bm"F2D2 DEFD|1 "A"EC-C2 "D"D4 :|2 "A"EC-C2 "D"D2 "A7"[E2A,2] |]
+w: v1
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Road_to_California.txt.abc
+
+X:32
+T: Road to California (cello)
+R: reel
+M: C|
+N: R&O XXIX
+L: 1/8
+N: Q: 1/2=120
+K: D clef=bass middle=D
+|: "D"D3E FEFE| DFAB AD-D2| "G"dcBA GFED| "A"CDE2 Ez A,2 |
+  "D"D3E FEFE| DFAB AD-D2| "G"dcBA GFED|1 "A"CDE2 "D"D2 "A7"[E2A,2] :|2 "A"CDE2 "D"D4 |]
+|:\
+"G"D2B2 B3 A | BABc dedB | "D"F2A2 ABAG| FGAB AFEF|
+"G"D2B2 B3 A | BABc dedB | "Bm"F2D2 DEFD|1 "A"EC-C2 "D"D4 :|2 "A"EC-C2 "D"D2 "A7"[E2A,2] |]
+w: v1
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Road_to_California_cello.txt.abc
+
+X:33
+T: Round the Horn
+C: Jay Ungar
+R: reel
+M: C|
+L: 1/8
+N: Q: 1/2=120
+K:G
+((3DEF) \
+|: "G"G2GA    BAGA |     Bd2B    d4   | "C"cdef "Am"e2g2 |  "D" a6 ga |
+|  "G"b2g2 "D"a2f2 | "Em"gfed "G"BAGB | "D"A2d2 "G" BAG2 |1 "C" E6 ((3DEF :|2 "C" E6 z2 ||
+|: "C"e3f  "D"e2d2 | "G" Bd2B    d4   | "D"A3A  "Em"G2A2 |  "Bm"Bd2B d4 |
+|  "C"g3a     gfe2 | "D" dedc "G"BAGB | "D"A2d2 "G" BAG2 |  "C" E6 z2 :|]
+
+%%textfont Helvetica 10
+%%begintext
+version 1
+R&O XXXI (2010)
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/round_the_horn.txt.abc
+
+X:34
+T: Sandy Boys
+C: trad.
+M: 4/4
+N: Q: 1/2=120
+L: 1/4
+R: march
+N: R&O XXVIII
+K: D
+g |:"A"ag eg | e/d/c Aa-|ag eg | a>b aa-|ag eg| e/d/ c A2 | c e "G"d/c/-c |1 "A"A3 g :|2 "A"A3 c/d/ ||
+|:"A"e2e2 |d/c/-cA2 | "A"ce"D"d2 |"A"ce"D"d/c/A |"A"e2 e2 |d/c3/2 A2 |"A"ce "G"d/c/-c |1 "A"A3 c/d/ :|2"A"A3 g ||
+P: Harmony
+|:c'b ab| a/g/ e c c'-|c'b ab | c'3/2d'/ c'c'-|c'b ab| a/g/ e c2| ea f/e/-e|c3 z :|
+|: [c'2a2] [c'2a2] | [b/f/][a/-e/-][ae][e2c2] | [ae][c'a][b2f2]|[ae][c'a][b/f/][a/e/][ec] |\
+ [c'2a2][c'2a2] | [b/f/][a/-e/-][ae][e2c2] | [ae][c'a][b/f/][a/e/][ae] | [e3c3] z :|
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2009, version 2
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Sandy_Boys.txt.abc
+
+X:35
+T: Schottische fran Havero
+C: Swedish
+M: C|
+R: hornpipe
+N: Q: 1/2=80
+L: 1/8
+K:Dm
+|:\
+"Dm"D2 DE FGFE | D2 A2 "A"[E4A4] | "Dm"d^cde f2 f2|"A"efe^c     A4  |
+"Dm"D2 DE FGFE | D2 A2 "A"[E4A4] | "Dm"d^cde f2 f2|"A"efe^c "Dm"d4 :|
+|:\
+"Dm"a2 a^g a2 a2 | fgfe f4 | "A"efe^c A2A2 | "Dm"FGFE FE D2 |
+"Dm"a2 a^g a2 a2 | fgfe f4 | "A"efe^c Acec | "Dm"d2 d^c d4 :|]
+
+%%textfont AvantGarde-Book 10
+%%begintext
+Harbor Mystics, version 2
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Schottische_Fran_Havero.txt.abc
+
+X:36
+T:Scollay's Reel
+M: C | 
+N: Q: 1/2=120
+L: 1/8
+R:Reel
+K:Em
+|: "Em"E3F  G3A  | BcBA GEGA |    B2E2   EFG2    | "D"FGAF  D2F2 | 
+   "Em"E3F  G3A  | BcBA GEGA | "Bm"B3c   BAFA    | "Em"G2E2 E4  :| 
+|: "Em"efge B2B2 | g2g2 B4   | "Am"c2BA "Em"G2G2 | "D"FGAF  D2F2 | 
+   "Em"E3F  G3A  | BABd e2d2 | "Bm"B3c   BAFA    | "Em"G2E2 E4  :|]
+%%textfont AvantGarde-Book 10
+%%begintext
+PCD version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Scollays.txt.abc
+
+X:37
+T: Seneca Square Dance
+S: PCD version from R&O
+M: C
+R: march
+N: Q: 1/2=120
+N: rec'd speed 108
+L:1/4
+K: G
+| DG \
+|: "G"B2 B3/2B/   | dB-B2       | "G"B2            B3/2B/  |  "F"A"C"G-GA  |
+|  "G"B2 B3/2B/   | dB-BA/G/    | "C"A/B/A/G/   "D"E F     |1 "G"G2    DG :|2 "G"G2 Bd |
+|: "G"g2 g3/2e/   | dB3         | "G"gf      "G/F#"g3/2 a/ |  "Em"b e3     |
+|  "C"g/a/b/a/ ge | "G"d3/2B/- B/A/G | "C" A/B/A/G/ "D7"EF      |1 "G"G2    Bd :|2 "G"G2 DG |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2013, version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/seneca_square_dance.txt.abc
+
+X:38
+T:Shenandoah Falls
+R: reel
+M: C|
+N: Q: 1/2=120
+L: 1/8
+K: A
+|: cd | "A"e2 ef edcB | AB ('(3cBA) "D"d3 e | "A"c3c "F#m"B2Ac | "Bm"BAGF "E"E2 cd |
+        "A"e2 ef edcB | AB ('(3cBA) "D"d3 d | "A"cBAc "E"BA G2 | "A" A4-A2  :|
+|: BA | "Bm"F4 B4     | F2 A B2 A F2 | "A"E2 cA   BcAB | cABc2 B A2 |
+        "Bm"F4 B4     | F2 A B2 fed | "A"cBAc "E"BAG2 | "A"A4-A2   :|
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2016, version 2
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Shenandoah_Falls.txt.abc
+
+X:39
+T: Silver and Gold Two-Step
+M: C|
+N: Q: 1/2=120
+L:1/8
+R: two-step
+K: D
+f2g2\
+| "D" a4 f2d2 | A4 d2f2 | "A7"a2 g4 f2  | g4 e2f2  |
+| "A7"g4 e2c2 | A4 c2e2 | "D" b2 a4 ^g2 | a4 f2g2 |
+| "D" a4 f2d2 | A4 d2f2 | "G" a2 g4 f2  | g4 e2f2  |
+| "A7"g4 e2c2 | A4 c2e2 | "D" d4 "G"d3c | "D"d4 F2G2 ||
+| "D" A2f2 A2f2 | A2f2-fefg | "A7"f2  e4 ^d2 |     e4 E2F2 |
+| "A7"G2e2 G2e2 | G2e2-edef | "D" e2  d4 c2  |     d4 F2G2 |
+| "D" A2f2 A2f2 | A2f2-fefg | "G" a2  g4 e2  | "Em"B4 c2d2 |
+| "A7"f2   e4c2 | A4   B2c2 | "D" d4 "G"d3c  | "D" d4 f2g2 |]
+
+%%textfont Helvetica 10
+%%begintext
+From Ted Sannella's book, "Balance and Swing"
+R&O 2012, version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/silver_and_gold_two_step.txt.abc
+
+X:40
+T:Swinging on a Gate
+M:4/4
+N: Q: 1/2=120
+L:1/8
+K:G
+P:A
+"G"gedB G2AB|"Am"cABG "D7"AGEG|"G"DGBd g2g2|"Am"fgag "D7"fdef|
+"G"gedB G2AB|"Am"cABG "D7"AGEG|"C"cABG AGEG|"D7"DGGF "G"G2d2:|
+P:B
+|:"G"gfga bagf|"Em"gfed B2AG|"Am"EAAB cBAG|"Am"EAAB "D7"cdef|
+"G"gfga bagf|"Em"gfed edBd|"C"cABG "(Am)"AGEG|"D7"DGGA "G"G4:|
+w: v1
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Swinging_on_Gate.txt.abc
+
+X:41
+T:Tenpenny Bit
+M:6/8
+N: Q: 3/8=120
+L: 1/8
+K:Ador
+e|"Am"eAA eAA|"G"BAB GBd|"Am"eAA eAA|"G"def gfg|
+"Am"eAA eAA|"G"BAB GBd|"Em"edB "G"gBB|"Am"BAA A2:|
+B|"Am"A2a aga|"Em"bge "G"dBG|"Am"A2a aga|"Em"bge g2d|
+"Am"A2a aga|"Em"bge "G"dBd|"Em"edB gBB|"Am"BAA A2:|
+w: v1
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/TenpennyBit.txt.abc
+
+X:42
+T: Walkin' Up Town
+R: march
+N: Q: 1/2=120
+M: 4/4
+L: 1/4
+N: R&O XXIX
+K: C 
+P:A
+"G7"G/F/|\
+"C"E G "F"A f | "C"e ^d/e/-"C7"e/=d/c | "F"A/^G/A/f/- f/c/A | "C"G3 G/F/ |\
+"C"E G "F"A f | "C"e ^d/e/-e/=d/c |
+"D7"d/^c/d/e/ ^f/d/e/f/ | "G7"g-"/F"g-"/E"g "/D"G/F/ ||\
+"C"E G "F"A f | "C"e ^d/e/-"C7"e/=d/c | 
+"F"A/^G/A/f/- f/c/A | "C"G3 G/F/ |\
+"C"E G "F"A f | "C"e ^d/e/-"Am"e/=d/c | "D7"d/e/d/c/ "G7"B/G/A/B/ | "C"c3 z ||\
+"C"g/^f/g/a/-a/g/ e | "C"c2 "C7"e2 | 
+"F"A/^G/A/d/-d/c/ A | "C"G3 z |\
+"C"g/^f/g/a/-a/g/ e | "C"c2 "A7"e2 | "D7"d/^c/d/e/ ^f/d/e/f/ | "G7"g-"/F"g-"/E"g "/D"z ||\ 
+"C"g/^f/g/a/-a/g/ e | "C"c2 "C7"e2  |  
+"F"A/^G/A/f/- f/c/A | "C"G3 G/F/ |\
+"C" E G "F"c f | "C"e ^d/e/-"Am"e/=d/c | "D7"d/e/d/c/ "G7"B/G/A/B/ | "C"c3 z |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O XXIX, version 4
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Walkin_Up_Town.txt.abc
+
+X:43
+T: Washington's March
+N: R&O XXVIII
+M: 4/4
+N: Q: 1/2=120
+L: 1/8
+R: reel
+K: Dmaj
+|: z2 | "D"DEFG AB=cA|"G(C)"GBAG "D"FD2D|DEFG AGFG|"A"Ad2c "D"d4|\
+"D"DEFG AB=cA | 
+"G(C)"GBAG "D"FDDD |\
+DEFG A2f2| "A"edc2 "D"d2 :|\
+|: de |"D"fdad fdad|"A"edcd eg2g|"D"fdad fdad|
+"A"edc2 "D"d2 de|\
+"D"fdad fdad|"A"edcd eg2g|1 "D"f2ff"G"g2f2|"A"edc2"D"d2 :|2 "D"a2g2 "G"fed2|"A"edc2 "D"d2 |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O XXVIII, version 2
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Washingtons_March.txt.abc
+
+X:44
+T: Whiskey Before Breakfast
+M: 4/4
+N: Q: 1/2=120
+R: Reel
+K:D
+"D"DEFG A2 AA | ABAG FDEF |"G" G2 BG"D" F2 AF | "A"EDEF EDB,A, |
+"D"DEFG A2 AA | ABAG FDEF |"G" G2 BG"D" F2 AF | "A"EDEF "D"D4  :|
+|:"D"DFAcd2ef | gfed cBA2 | "Em"e2efe2ef | "G" gfed "A"cABc |
+"D"d2 fd "A"c2 ec | "G"BABc "D"BAFD |"G" G2 BG "D"F2 AF | "A"EDEF "D"D4 :|]
+
+%%textfont Helvetica 10
+%%begintext
+version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/whiskey_before_breakfast.txt.abc
+
+X:45
+T: Wild One
+C: Mer Pantaleoni Boel
+M: 6/8
+L: 1/8
+N: Q: 3/8=120
+R: jig
+K:Dmin
+|:A,|\
+"Dm"DEF D!accent!GD | "(F)"!accent!ADc AGF | "(Gm)"DEF D!accent!GD | "Am"!accent!ADF EDC  | 
+"Dm"DEF D!accent!GD | "(F)"!accent!ADc AGF | "Gm"  dcA GAF         | "Am"EDC     "Dm"D2 :|
+|:A |\ 
+"Dm"d2c A2c | "(F)"dcA cdc | "(Gm)"  d2c A2G | "Am"FGE     FED |
+"Dm"d2c A2c | "(F)"dcA cdc | "Gm(Bb)"dcA GAF | "Am"EDC "Dm"D2 :|]
+
+%%textfont AvantGarde-Book 10
+%%begintext
+version 2
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Wild_One.txt.abc
+
+X:46
+T: The Wren ("Cuil Aodha", "Johnny Mickey’s")
+R: polka
+N: Q: 1/4=120
+M: 2/4
+L: 1/8
+N: R&O XXVIII
+K: A
+|: "A"Ac "E" EF   | "A"A2 "D"Af | "A"ec "D"BA | "E"e/f/e/c/ BA  | "A"Ac "E"EF | "A"A2    "D"Af |
+   "A"ec "E"BA/B/ | "A"cA A2   :| |: "A" ce ce | "D"a2       af  | "A"ec "D"BA | "E"e/f/e/c/ BA |1
+   "A" ce      ce | "D"a2    af | "A"ec "E"BA/B/ | "A"cA A2  :|2\
+   "A" Ac  "E" EF | "A"A2 "D"Af | "A"ec "E"BA/B/ | "A"cA A2  |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O XXVIII, version 3
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Polka_Wren.txt.abc
+
+X:47
+T: The Wren
+M: C|
+N: Q: 1/2=120
+L: 1/8
+R: reel
+K:D
+|:"Bm"B2f2 f2ef | "Em"g2 e2 edcd | "A"eAce efed | "A/F#m"c2c2     dcBA   |\
+  "Bm"B2f2 f2ef | "Em"g2 e2 edcd | 
+  "A"eAce efed | "A" c2B2 "Bm"BAFA :|\
+|:"Bm"B3A Bcdc | "Bm"B2B2 "A"c3d | eAce efed | 
+  "A"c2c2 "A/F#m"dcBA   |\
+  "G" B3A Bcdc | "G" B2B2 "A"c3d | eAce efed | "A"c2B2 "Bm"B2A2 :|
+
+%%textfont Helvetica 10
+%%begintext
+PCD version 1
+%%endtext
+% Source: sources/harbormist-com/tunes1/abc.zip/abc/Wren.txt.abc

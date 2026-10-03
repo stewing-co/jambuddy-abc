@@ -1,0 +1,933 @@
+% Henrik Norbeck's ABC Tunes: Balkan, Klezmer & Eastern European tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T:Buchimish
+T:Bucimis
+R:buchimish
+O:Bulgaria
+M:2+2+2+2+3+2+2/16
+L:1/16
+Q:1/8=220
+K:Ador
+|: A2de eAeA e2d dcde | cEBE cEBE GFG A2AE :|
+|: cEBE cEBE GFG ABcd | cEBE cEBE GFG A2AE :|
+|: cddB cABG A2B c2cG | cddB cABG A2d A2A2 :|
+|: FGAB cEBE GFG AAAD | cEBE cEBE GFG AAAD |
+FGAB cEBE GFG AAAD | cEBE cEBE GFG AAA2 :|
+|: AE~G2 AE~G2 EFG A2AE | A^c_BA AEG2 EFG A2AE |
+AE~G2 AE~G2 EFG A2AE | A^c_BA AEG2 EFG A2A2 :|
+% Source: sources/norbeck/m/hnbuchimish0.abc
+
+X:2
+T:Bulcenska racenica
+R:rachenitsa
+H:Originally in Cmix but transposed to fit the simple system flute
+O:Bulgaria
+Z:id:hn-rachenitsa-5
+M:2+2+3/16
+L:1/16
+Q:1/8=220
+K:Dmix
+defg ggf | fcde ffe | ecde eed | dAde ffd | 
+   d2ag aag | fcde ffe | ecde eed | d2aA d3 :| !fine!
+|: a2aa aaa | a2a2 agf | a2aa aaa | az3 eed :|
+|: defg ggf | fcde ffe | ecde eed | dAde ffd | 
+   d2ag aag | fcde ffe | ecde eed | d2aA d3 :|
+|: a2aa aaa | a2a2 agf | a2aa aaa | az3 eed :|
+K:Ddor
+|: aAga =fga | =ffed daA | aAgA =fga | =ffed dAd |
+   aAga =fga | =ffed daA | Aaga =fga | =ffed dAd :|
+K:Dmix
+|: cddd agf | fdga fff | cddA =fAe | eAe=f dAA |
+   cddd agf | fdga fff | cddA =fAe | eAe=f dz2 :|
+K:Ddor
+|: aAga =fga | =ffed daA | aAgA =fga | =ffed dAd |
+   aAga =fga | =ffed daA | Aaga =fga | =ffed dAd :|
+K:Dphr ^f
+|: d_efg agf | f_edc gcc | gff_e fg2 |1 f_edc cGc :|2 f_edc cz2 ||
+|: gff_e fg2 | f_edc gcc | gff_e fg2 |1 f_edc cGc :|2 f_edc cz2 ||
+K:Dmix
+|: cddd agf | fdga fff | cddA =fAe | eAe=f dAA |
+   cddd agf | fdga fff | cddA =fAe | eAe=f dz2 :|
+!D.C. al fine!
+% Source: sources/norbeck/m/hnrachenitsa0.abc
+
+X:3
+T:Bulchenska Rachenitsa
+R:rachenitsa
+D:Ivo Papasov
+O:Bulgaria
+Z:id:hn-rachenitsa-3
+M:2+2+3/16
+L:1/16
+Q:1/8=220
+K:Aphr ^c
+A2a2 gag | ^f2fe fed | e^fgf g=fe | e2ed ^c_BA |
+   A^cea gag | ^f2fe fed | e^fgf g=fe |1 e2ea e3 :|2 e2ea e=f^f ||
+|: gfed ^c_BA | _B2BA BAG | A_B^cd dcB | A_B^cd e=f^f |
+   g=fed ^c_BA | _B2BA BAG | A_B^cd dcB | A2AE A3 :|
+A2a2 g2a | ^f4 fed | e^fgf g=fe | e2e2 eee |
+   A^cea gag | ^f4 fed | e^fga g=fe | e2z2 e=f^f ||
+|: gfed ^c_BA | A_B3 BAG | A_B^cd dcB | A_B^cd e=f^f |
+   g=fed ^c_BA | A_B3 BAG | A_B^cd dcB | A2AE A3 :|
+|: f2d2 ~d3 | f2gf gfe | e2^c2 ~c3 | e2fe fed |
+   d2_B2 ~B3 | d2ed ed^c | A^cea g_ba | gfed ^c_BA :|
+% Source: sources/norbeck/m/hnrachenitsa0.abc
+
+X:4
+T:Cadaneasca
+R:cadaneasca
+H:Last part played as intro
+D:Trio Polifonic
+O:Romania
+Z:id:hn-cadaneasca-1
+M:2+2+2+3/16
+L:1/16
+Q:1/8=220
+K:Aphr ^c
+|: ABcd e2 ffd | cedc BA eeA | ABcd e2 ffd | cedc BG A3 :|
+|: cddd dd fed | ^Bccc cc edc | ABBB BB dcB | ABcd e2 eeA |
+cddd dd fed | ^Bccc cc edc | ABBB BB dcB | cedc BG A3 :|
+|: ABcd e2 ffc | defa fa ffd | ABcd e2 ffd | cedc BG A3 :|
+|: cddd dd fed | ^Bccc cc edc | ABBB BB dcB | ABcd e2 eeA |
+cddd dd fed | ^Bccc cc edc | ABBB BB dcB | cedc BG A3 :|
+|: cedc BA eeA | cedc BG AAA | cedc BA eeA | cedc BG A3 :|
+% Source: sources/norbeck/m/hncadaneasca0.abc
+
+X:5
+T:Cadaneasca
+R:cadaneasca
+Z:id:hn-cadaneasca-2
+M:2+2+2+3/16
+L:1/16
+Q:1/8=220
+K:Aphr ^c
+cedc BA ccA | cedc BA eeA | cedc BA ccA | cedc BG A3 :|
+|: ABcd e2 fed | cedc BA eeA | ABcd e2 fed | cedc BG A3 :|
+|: cddd dd fed | cedc BA eeA | cddd dd fed | cedc BG A3 :|
+% Source: sources/norbeck/m/hncadaneasca0.abc
+
+X:6
+T:Cadaneasca
+R:cadaneasca
+O:Romania
+Z:id:hn-cadaneasca-4
+M:2+2+2+3/16
+L:1/16
+Q:1/8=220
+K:Am
+^gaea ga e2d | dccB cd eeB | cde^g ae e2d | dBcA BG A3 :|
+Bc d2d2 fed | dccB cd eec | Bc d2d2 fed | dBcA BG A3 |
+Bc d2d2 fed | dccB cd eeB | cde^g ae e2d | dBcA BG A3 ||
+% Source: sources/norbeck/m/hncadaneasca0.abc
+
+X:7
+T:Cadaneasca dreapta can Dobrogea
+R:cadaneasca
+O:Romania
+Z:id:hn-cadaneasca-3
+M:2+2+2+3/16
+L:1/16
+Q:1/8=220
+K:Aphr ^c
+ABcd e2 fed | cedc BA eee | ABcd e2 fed | cedc BG AAA :|
+|: cdd2 d2 fed | ^Bcc2 c2 edc | ABB2 B2 dcB | A2^ga ec AAA |
+cdd2 d2 fed | gfed cB AAA | GABG ce dcB | cedc BG AAA :|
+|: cdeA eA fed | cdeA eA ^gaA | cdeA eA fed | cedc BG AAA :|
+|: ^gaeA cA eeA | ^gaeA cA eeA | ^gaeA cA eed | cedc BG AAA :|
+|: cddd dd fed | ^Bccc cc edc | ABBB BB dcB | A2^ga ec AAA |
+cddd dd fed | gfed cB AAA | GABG ce dcB | cedc BG A3 :|
+P:variations
+|: ABcd e2 fed | cedc BA deA | ABcd e2 fed | cedc BG A3 :|
+|: cddd dd fed | ^Bccc cc edc | ABBB BB dcB | cedc BA deA |
+cddd dd fed | ^gaeA cA eee | ABBB BB dcB | cedc BG A3 :|
+|: cdeA eA fed | cdeA eA ^gaA | cdeA eA fed | cedc BG A3 :|
+|: ^gaeA cA eee | ^gaeA cA eee | ^gaeA cA eed | cedc BG A3 :|
+|: cddd dd fed | ^Bccc cc edc | ABBB BB dcB | cedc BA deA |
+cddd dd fed | a^gfe dc BBB | GABG c2 dcB | cedc BG A3 :|
+% Source: sources/norbeck/m/hncadaneasca0.abc
+
+X:8
+T:Delijska Rachenitsa
+R:rachenitsa
+C:Ivan Shibilev
+O:Bulgaria
+Z:id:hn-rachenitsa-1
+M:2+2+3/16
+L:1/16
+Q:1/8=220
+K:Dphr ^f
+|: d2^fg a2a | a2a2 ~a2g | abb2 a2g | gag^f edc |
+[1 d2^fg a2a | a2a2 ~a2g | abb2 a2g | g2a2 z3 :|
+[2 c2de e2e | d2e2 ^f2g | agg^f edc | dAd2 d3 ||
+|: c2de e2e | d2e2 ^f2g | agg^f edc | de^fg ~a2d |
+   c2de e2e | d2e2 ^f2g | agg^f edc | dAd2 d3 :|
+|: d'4-d'3 | c'4-c'3 | bc'ba g^fg | abbd b2d |
+   a2b2 c'2d' | c'2b2 a2g | gag^f edc |1 de^fg abc' :|2 dAd2 d3 ||
+|: a2b2 c'2d' | c'2b2 a2g | gag^f edc | de^fg ~a2d |
+   a2b2 c'2d' | c'2b2 a2g | gag^f edc | dAd2 d3 :|
+|: ga^f2 gag | ^fAde ~f2d | gA^f2 edc | de^fg ~a2d |
+   ga^f2 gag | ^fAde ~f2d | gA^f2 edc | dAd2 d3 :|
+% Source: sources/norbeck/m/hnrachenitsa0.abc
+
+X:9
+T:Di Zilberne Kasene
+T:Silver Wedding, The
+R:frailach
+O:Klezmer
+Z:id:hn-frailach-1
+M:4/4
+L:1/8
+Q:1/4=140
+K:Dm
+A de | f4 zA de | ff3 zA de | f2 ed ee d^c | a4 zA ^cd |
+e4 zA ^cd | ee3 zA ^cd | e2 g2 fe f/e/d |
+[1 ^c/d/e d/^c/B A :|2 ^c/d/e d/^c/B A2 z2 ||
+|: AB ^cd ef ga | b8 | a8 | g8 | f8 | eA ^ce dz z2 |
+eA ^ce dz ef | g/f/e f/e/d e/d/^c d/^c/B | A8 :|
+|: ^c/d/e d/^c/B AB ^c2- | ^cA ^ce d^c BA  | ^c/d/e d/^c/B AB ^cz |
+e/d/^c d/^c/B A2 z2 :|
+% Source: sources/norbeck/m/hnfrailach0.abc
+
+X:10
+T:Gankino Horo
+R:kopanitsa
+S:Boris Karlov
+O:Bulgaria
+Z:id:hn-kopanitsa-3
+M:2+2+3+2+2/16
+L:1/16
+Q:1/8=220
+K:Ddor ^g =f
+|: "Dm"D2^cd dzd d=cBA | cBA^G GFA G2FE | D2EF FDA ^G2FA | ^G2FE EDF "E"EEED :|
+|: "Dm"D2EF FDA ^G2FE | D2dd dcB A^GFE | D2EF FDA ^G2FA | ^G2FE EDF "E"EEED :|
+K:A
+|: "E7"Bcdd dBd "A"cccA | "E7"ecdd dBd "A"cccA |
+   "E7"Bcdd dBd "A"cccA | "E"BAGA BBe B2 z2 :|
+K:Ddor ^g =f
+|: "E"AB^G2 "Dm"FED "E"EEEB, | "E"AB ^G2 "Dm"FED "E"EEEB, |
+   "E"AB^G2 ABG ABGz | "E"AB^G2 "Dm"FED EEEB, :|
+K:D
+|: "A7"efgg geg "D"fffd | "A7"afgg geg "D"fffd |
+   "A7"efgg geg "D"fffd | "A"edcd "E7"eea "A"ezz2 :|
+% Source: sources/norbeck/m/hnkopanitsa0.abc
+
+X:11
+T:Geampara
+R:geampara
+D:Roar Engelberg
+O:Romania
+Z:id:hn-geampara-1
+M:2+2+3/16
+L:1/16
+Q:1/8=220
+K:Ador ^d =c
+Bccc ccc | eddc cBA | Bce2 ABc | eddc cBA |
+defd efg | a2gf edc | d2cB ABc | B4-B3 :|
+|: def^g aga | b2a^g af=g | aa=gg efe | =dddB ^ccA |
+^defd efg | aagg ee=c | eecc ABc | B4-B3 :|
+|: Bccc ccc | edcc cBA | BceE ABc | edcc cBA |
+defd efg | aagf eec | edcc ABc | B4-B3 :|
+|: EDE^G AB^c | defd efg | aagg eae | =dddB ^ccA |
+^defd efg | aagg ee=c | edcc ABc | B4-B3 :|
+|: Bccc ccc | edcc cBA | BceE ABc | edcc cBA |
+defd efg | aagg eec | edcc ABc | B4-B3 :|
+% Source: sources/norbeck/m/hngeampara0.abc
+
+X:12
+T:Geampara
+R:geampara
+O:Romania
+Z:id:hn-geampara-2
+M:2+2+3/16
+L:1/16
+Q:1/8=220
+K:Gdor ^c
+AAAG _BAG | D2E^F GGF | AAG^F DEF | G^FGA =B3 |
+AAAG _BAG | ^FGA_B ^cde | =fed^c _BAG | G^FFE E3 :| !fine!
+|: eeed =fed | ^cde=f eed | =fed^c _BAG | G^FFE =B3 |
+eeed =fed | ^cde=f eed | =fed^c _BAG | G^FFE E3 :|
+% Source: sources/norbeck/m/hngeampara0.abc
+
+X:13
+T:Hora
+R:hora
+S:Youtube "Hora Nr.172"
+O:Romania
+Z:id:hn-hora-4
+M:C|
+L:1/8
+K:Ephr ^g =f
+|: d^c=cB ABAG | GEFD EGB2 | d^c=cB ABAG | GEFD E4 :|
+|: EEB,E EEEE | FEDF EEEB, | EFGA BBAG | GEFD EGB2 |
+   EEB,E EEEE | FEDF EEEB, | EFGA BBAG | GEFD E4 :|
+|: AGAB ccBA | AGAB cABc | ddcB BAAG | GEFD EGB2 |
+   AGAB ccBA | AGAB cABc | ddcB BAAG | GEFD E4 :|
+|: dcBA ABAG | GEFD EGB2 | dcBA ABAG | GEFD E4 :|
+% Source: sources/norbeck/m/hnhora0.abc
+
+X:14
+T:Hora batrineasca
+R:hora
+H:First part also played one octave down
+H:See also #2
+O:Romania
+Z:id:hn-hora-3
+M:C|
+K:Ador ^d =c
+|: ABc^d eA^de | cABc ^d3c | eA^de cAc2 | ^deec e4 |
+   ABc^d eA^de | cABc ^d3c | eA^de cAec | Aece A4 :|
+|: aefg afgf | e3c ^d3c | eA^dA cAc2 | ^deec e4 |
+   g2a2- a2g2 | fefe ^dddc | e2^d2 cAec | Aece A4 :|
+|: eA^de eA^de | cAc2 ^d3c | eA^de cAc2 | ^deec e4 |
+   [1 eA^de eA^de | cAc2 ^d3c | eA^de cAec | Aece A4 :|
+   [2 ABc^d eA^de | cAc2 ^d3c | eA^de cAec | Aece A4 ||
+% Source: sources/norbeck/m/hnhora0.abc
+
+X:15
+T:Hora ca din la caval
+R:hora
+H:A version of #3
+D:Gheorghe Zamfir
+O:Romania
+Z:id:hn-hora-2
+M:C|
+L:1/8
+Q:1/2=120
+K:Ador ^d =c
+"Am"e2^d2 "Am/E"e2d2 | "Am"cAc2 "D#dim"^d3c | 
+   "E"e2^d2 "E/G#"cAc2 | "Am"^deec "Am/E"e4 |
+   [1 "Am"e2^d2 "Am7/G"e2d2 | "F#m7b5"cAc2 "D#dim"^d3c | 
+      "E"e2^d2 "E/G#"ceec | "Am"A4 A4 :|
+   [2 "Am"ABc^d "Am7/G"e2^d2 | "F#m7b5"cAc2 "D#dim"^d3c | 
+      "E"e2^d2 "E/G#"ceec | "Am"A4 A4 || 
+|: "Am"ABc^d "Am/E"e2^d2 | "Am"cAc2 "D#dim"^d3c | 
+   "E"e2^d2 "E/G#"cAc2 | "Am"^deec "Am/E"e4 | 
+   "Am"ABc^d "Am7/G"e2^d2 | "F#m7b5"cAc2 "D#dim"^d3c | 
+   "E"e2^d2 "E/G#"ceec | "Am"A4 A4 :| 
+|: "C"efgf "C/G"aggf | "C"fee^d "D#dim"dddc | 
+   "E"e2^d2 "E/G#"cAc2 | "Am"^deec "Am/E"e4 | 
+   "Am"a2a2-"Am7/G"a2g2 | "F#m7b5"fefe "D#dim"^dddc | 
+   "E"e2^d2 "E/G#"ceec | "Am"A4 A4 :|
+% Source: sources/norbeck/m/hnhora0.abc
+
+X:16
+T:Hora de la Gaesti
+R:hora
+S:Trio Polifonic on Youtube
+H:Played in Bbmix on the recording, but transposed here to a more decent key.
+Z:id:hn-hora-9
+M:C|
+L:1/8
+K:Amix
+cdec decd | BBBA BcdB | cBdc ed=f2 | eAcd e3B |
+cde2 decd | BBBA Bcde | g2=fe ecde | c_BGB A4 |
+d2d3 Bc^A | BBBA BcdB | cBdc ed=f2 | eAcd e3B |
+cde2 decd | BBBA Bcde | g2=fe ecde | c_BGB A3=B ||
+|: cBA3 EAB | cde2 e4 | a2b2- b2a^g | f^gf^d e3e |
+f^gaf b2ag | f^gf^d eee=d | e=ddc cBBc | dccB cde2 |
+cBA3 EAB | cde2 e4 | a2b2- b2a^g | f^gf^d e3e |
+f^gaf b2ag | f^gf^d eee=d | e=ddc cBBc | dB^GB A3B :|
+% Source: sources/norbeck/m/hnhora0.abc
+
+X:17
+T:Hora Din Arges
+R:hora
+S:Youtube "Hora Nr 137"
+O:Romania
+Z:id:hn-hora-5
+M:C|
+L:1/8
+K:Bphr ^d =c
+|: BcAc BBBF | BcAc BBBF | Bcde fed2 | dBde f4 |
+   aaaf gag2 | gefg dddB | cdc2 cABc | B2F2 B4 :|
+|: B2f2 fede | ddcd cBcA | B2f2 fede | d2cd cBcA |
+   B2f2 fede | fgab c'bag | agf2 fed2 | cBAc B4 :|
+|: BcAc BBBF | BcAc BBBF | Bcde fed2 | dBde f4 |
+   aaaf gag2 | gefg dddB | cdc2 cBAc | B2F2 B4 :|
+|: Bcde fed2 | dBde fffc | defg agf2 | fdfg a4 |
+   fgab c'ba2 | agfg fffc | ded2 cBAc | B2F2 B4 :|
+|: BcAc BBBF | BcAc BBBF | Bcde fed2 | dBde f4 |
+   aaaf gag2 | gefg dddB | cdc2 cBAc | B2F2 B4 :|
+% Source: sources/norbeck/m/hnhora0.abc
+
+X:18
+T:Hora floraselor
+R:hora
+S:Marcel Budala on Youtube
+Z:id:hn-hora-7
+M:C|
+L:1/8
+K:Dphr ^f
+cdd2 d2dc | dcfd cBAG | Bcc2 c2c2 | cBcd cBAG |
+Bcc2 cBBA | cFGA BGAB | cBBA AFGA | FECE D4 :|
+|: GFGA BAAG | GFGA BGAB | cBBA AFGA | FECE DDDD |
+GFGA B2AG | GFGA BGAB | cBBA AFGA | FECE D4 :|
+|: DEFD FGFD | DEFG GAFD | FCDE FGFD | EA,C2 DA,FA, |
+DEFD FGFD | DEFG GAFD | FCDE FGFD | EA,C2 D4 :|
+|: AB^c2 cdBA | AFGA ABAG | FCDE FGFD | EA,C2 D4 |
+AB^c2 cdBA | AFGA ABAG | FCDE FGFD | EA,C2 D4 :|
+|: DEFD FGFD | DEFG GAFD | FCDE FGFD | EA,C2 D4 |
+DEFD FGFD | DEFG GAFD | FCDE FGFD | EA,C2 D4 :|
+% Source: sources/norbeck/m/hnhora0.abc
+
+X:19
+T:Hora Lautareasca
+R:hora
+O:Romania
+Z:id:hn-hora-1
+M:C|
+L:1/8
+Q:1/2=120
+K:Bphr ^d =c
+B^df |: "B"b^a^c'b "B/F#"bac'b | "B"b^a^c'^a "B/F#"b3^g |
+   "Am-5"=a^gba "Am-5/D#"agba | "Am-5"a^gbg "Am-5/D#"a2B2 |
+   "Em"z^def "Em/B"=ge^ab | "Em"^c'2b^a "Em/B"gefg |
+   [1 "A#dim"=a2gf "A#dim/E"e^deg | "B"f3B "B/F#"^dfa2 :|
+   [2 "A#dim"=a2gf "A#dim/E"efe^d | "B"^dB=cA "B/F#"B3e ||
+|: "B"^defg "B/F#"afg2 | "B"e^deg "B/F#"fffB |
+   "Em/G"ggg2 "B7/F#"fffB | "Em/G"ggg2 "B7/F#"fffe |
+   "B"^defg "B/F#"afg2 | "B"e^deg "B/F#"fffB |
+   "Am-5"g2fg "Am-5/D#"efe^d |1 "B"^dB=cA "B/F#"B3e :|2 "B"^dB=cA "B/F#"B3B ||
+|: "Am-5"B=cAB "Am-5/D#"cABc | "Am-5"^dB=cd "Am-5/D#"edcB |
+   "Am-5"AB=c^d "Am-5/D#"efe^d |1 "B"^dB=cA "B/F#"Bdf2 |
+   "Am-5"B=cAB "Am-5/D#"cABc | "Am-5"^dB=cd "Am-5/D#"e3a |
+   "Am-5"aggf "Am-5/D#"efe^d | "B"^dB=cA "B/F#"B3B :|2 "B"^dB=cA "B/F#"B3g |
+   "Am-5"a^gba "Am-5/D#"a=ggf | "Am-5"fee^d "Am-5/D#"d=ccB | 
+   "Am-5"AB=c^d "Am-5/D#"efed | "B"^dB=cA "B/F#"B ||
+% Source: sources/norbeck/m/hnhora0.abc
+
+X:20
+T:Hora lui Florian
+R:hora
+S:Trio Polifonic on Youtube
+H:Played in F on the recording, but transposed here.
+Z:id:hn-hora-8
+M:C|
+L:1/8
+K:G
+^FGBd fg=fd | e=fd2 zcde | =f2ec dBcA | Bcd^f gdBG |
+^FGBd fg=fd | e=fd2 zcde | =f2ec dBcA | B7g |
+^fg_b2 fg=fd | e=fd2 zcde | =f2ec dBcA | Bcd^f gdBG |
+^FGBd fg=fd | e=fd2 zcde | =f2ec dBcA | B4 zcde ||
+|: =f2ec dBcA | B^FGA Bcde | =f2ec dBcA | Bcd^f gdBG |
+=f2ec dBcA | B^FGA Bcde | =f2ec dBcA |1 B4 zcde :|2 B4 z^FG^G ||
+A^GA=G FDFA | dfag fffd | e^deA ggge | fde^c d^FG^G |
+A^GA=G FDFA | dfag fffd | e^deA ggge | fde^c d^FG^G |
+ABAG F2a^g | abag fffd | e^deA ggge | fde^c d^FG^G |
+A^GA=G FDFA | dfag fffd | e^deA ggge | fde^c d=cBA ||
+% Source: sources/norbeck/m/hnhora0.abc
+
+X:21
+T:Hora moldoveneasca
+R:hora
+D:Marcel Budala
+Z:id:hn-hora-6
+M:C|
+L:1/8
+K:Em
+cBAF GGGF | AF^DF EGB2 | cBAF GGGF | AF^DF E4 :|
+|: B2ee e^def | gfe^c d3c | e^cd2 zB=cA | B8 |
+B2ee e^def | gfe^c d3c | eedB ^cd^Ac | B8 :|
+|: Bcde dccB | BAAG FGAB | c2AG FDEF | GFGA BcdG |
+Bcde dccB | BAAG FGAB | c2BA GEF^D | E8 :|
+|: cBAF GGGF | AF^DF EGB2 | cBAF GGGF | AF^DF E4 :|
+% Source: sources/norbeck/m/hnhora0.abc
+
+X:22
+T:Kolev's Kopanitsa
+R:kopanitsa
+H:Originally in Ddor, but transposed for the simple system flute.
+O:Bulgaria
+Z:id:hn-kopanitsa-1
+M:2+2+3+2+2/16
+L:1/16
+Q:1/8=220
+K:Edor
+|: GAAG ~B2A AGBA | GFFE GAB G2G2 | 
+   GAAG ~B2G AGBA | GFFD ~E2B, ~E2E2 :| 
+|: GFFD ~E2B, CDEF | GFFD ~E2B, GAAB, | 
+   GFFD ~E2B, CDEF | GFFD ~E2B, ~E2E2 :| 
+|: eddc Bcd ~e2eB | eBgf efd ~e2eB | 
+   eddc Bcd ~e2eB | eBgf efd ~e2e2 :| 
+|: eAgf efd eAcd | eAgf efd e2a2 | 
+   eAgf efd eAcd | eAgf efd ~e2e2 :| 
+|: eAgf efd eAcd | efga aga ~g2gd | 
+   gabd bag gfag | gffd ~e2A ~e2e2 :| 
+|: gabd bag gdbd | gabd bag ~g2gd :| 
+|: GAAD BAG GE~F2 | FD~E2 DEF G2A2 | 
+   GAAD BAG GE~F2 | FD~E2 DEA E2E2 :| 
+|: GFEF DEF ~G2GD | GFEF DEF ~E2EA, | 
+   GFEF DEF ~G2GD | GFEF DEF ~E2E2 :|
+% Source: sources/norbeck/m/hnkopanitsa0.abc
+
+X:23
+T:Kolo iz Srbije
+R:kolo
+D:Radojka i Tine Zivkovic
+O:Serbia
+Z:id:hn-kolo-3
+M:2/4
+L:1/16
+Q:1/4=120
+K:Bphr ^d =c
+fagf egfe | ^dfed c2cA | ^dfed c2dc | B2BA Bc^de | 
+fagf egfe | ^dfed c2cA | ^dfed c2dc | B2B^G E4 :| 
+K:Ador ^d =c
+|: A3A e^dc2 | B2c2 BB^GE | e^dc2 A2c2 | B3A ^GEFG | 
+   A3A e^dc2 | B2c2 BBBB | e^dc2 A2c2 | BBB^G E4 :| 
+K:A
+|: AAcA eAcA | f/g/f/e/f2 e2c2 | d2d2 B2cd |1 edc2 cBA2 :|2 edc2 c4 || 
+|: AAcA eAcA | eAcA eAcA | d2d2 B2cd |1 edc2 cBA2 :|2 edc2 c4 || 
+|: f2f2 d2ef | gfe2 e2c2 | d2d2 B2cd | edc2 cAcA | 
+   f2f2 d2ef | gfe2 e2c2 | d2d2 B2cd |1 edc2 c4 :|2 edc2 GABc || 
+|: d2z2 c2cA | B4 G2de | fed2 dcB2 | ABcd fdec | 
+   d2z2 c2cA | B4 G2de | fed2 dcB2 |1 B2e2 GABc :|2 B2e2 B2E2 || 
+K:Bm
+|: fgaf agf2 | f2a2 afaf | agf2 f2a2 | afaf a2a2 | 
+   fgaf agf2 | f2a2 afaf | agf2 fedc |1 dcB2 BABA :|2 dcB2 BABc || 
+K:A
+|: d2z2 c2cA | B4 G2de | fed2 dcB2 | ABcd fdec | 
+   d2z2 c2cA | B4 G2de | fed2 dcB2 |1 B2e2 GABc :|2 B2e2 B2E2 ||
+% Source: sources/norbeck/m/hnkolo0.abc
+
+X:24
+T:Kopanitsa a la Turka
+R:kopanitsa
+S:Serdar Deli on Youtube. Variations from Balkanatolia.
+H:Originally played in Ephr #g, C#phr ^d or Aphr ^c but transposed for
+H:simple system flute.
+O:Bulgaria
+Z:id:hn-kopanitsa-2
+M:2+2+3+2+2/16
+L:1/16
+Q:1/8=220
+K:Bphr ^d =c
+Bcde fge f{e}ff{e}f | fa{f}gf ede f{e}ff{e}f |
+   Bcde fge f{e}ff{e}f |1 df{d}ed cBA BFBF :|2 df{d}ed cBA Bz3 ||
+|: Ja4-a^gb a=g{e}fe | fg{f}g{f}g gfa {f}gfed | defg a^gb a=gfe |
+   [1 fgfe {c}d2c BFBz :|2 fgge {c}d2c Bz3 ||
+|: df{ef}ed cBA Bcde |1 df{ef}ed cBA BFB2 :|2 df{ef}ed cBA Bz3 ||
+|: def{e}f def def{e}f | def{e}f edc Bcde | def{e}f def def{e}f |
+   [1 def{e}f edc BFBz :|2 def{e}f edc Bz3 ||
+P:variations for parts 1&2
+|: Bcde fge fzf{e}f | fa{f}gf ede fzf{e}f |
+   Bcde fge fzf{e}f |1 df{d}ed cBA BFBF :|2 df{d}ed cBA Bz3 ||
+|: ^gaa2 a^gb a=g{e}fe | fgg2 gfa {f}gfed | defg a2g f2e2 |
+   [1 d2ed cBA BFBz :|2 d2ed cBA Bz3 ||
+|: df{ef}ed cBA Bcde | df{ef}ed cBA BFB2 | df{ef}ed cBA Bcde |
+   [1 df{ef}ed cBA BFBz :|2 df{ef}ed cBA Bz3 ||
+|: def{e}f def def{e}f | def{e}f edc Bcde | def{e}f def def{e}f |
+   [1 def{e}f edc BFBz :|2 def{e}f edc Bz3 ||
+% Source: sources/norbeck/m/hnkopanitsa0.abc
+
+X:25
+T:Kopanitza
+R:kopanitsa
+D:Bagad Kemper: Breizh Balkanik
+Z:id:hn-kopanitsa-5
+M:11/16
+L:1/16
+K:Ador
+G2A2 AAA e2ed | dcde ddd A2Ac | dcde ddd cBAB | cABG A2d A2A2 :| 
+|: cddc d2d cBAB | cddc e2d cBA2 | cddc ddd cBAB | cABG A2d A2A2 :|
+|: G2A2 AAA e2ed | dcde ddd A2Ac | dcde ddd cBAB | cABG A2d A2A2 :| 
+|: cddc d2d cBAB | cddc e2d cBA2 | cddc ddd cBAB | cABG A2d A2A2 :|
+|: deeA d2A deeA | deeA d2c BAA2 | deeA d2A deeA | deeA d2c BAA2 |
+cddG c2B cddG | cddG c2B B2AG | cddG c2B cddG | dcBG A2e A2A2 :|
+K:Amix
+|: edcA BAA cdeA | edcA BAA cde2 | edcA BAA cdeA | edcA B2e B2B2 :|
+|: ABBd cBd cBe2 | ABBd cBd cBBA | ABBd cBd cBe2 | ABBd cBd cBB2 :|
+|: edcA BAA cdeA | edcA BAA cde2 | edcA BAA cdeA | edcA B2e B2B2 :|
+|: ABBd cBd cBe2 | ABBd cBd cBBA | ABBd cBd cBe2 | ABBd cBd cBB2 :|
+K:Amix _B
+|: c2_BA A2A c2_BA | c2_BA A2A cde2 | c2_BA A2A c2_BA | c2_BA GA_B A2A2 :|
+% Source: sources/norbeck/m/hnkopanitsa0.abc
+
+X:26
+T:Krivo sadovsko horo
+R:krivo sadovsko horo
+H:Parts B and C played together and repeated.
+Z:id:hn-miscbalkan-2
+M:2+2+2+3+2+2/16
+L:1/16
+Q:2/16=220
+K:Ephr ^g =f
+E2EF GA BcA BBB2 | BdcB A2 cBA BBB2 | E2EF GA BcA BBB2 | GBAG F2 AGF EEE2 :|
+|: GBAG F2 AGF EFGG | GBAG F2 AGF EEE2 :|
+|: BdcB A2 cBA GABB | BdcB A2 cBA GGG2 :| !fine!
+|: dee2 e2 e2d dcd2 | cdd2 d2 d2c cBc2 | Bcc2 c2 c2B BAB2 | GABB Bd cBA BBB2 |
+[Q:2/16=140] eff2 f2 f2e ede2 | [Q:2/16=180]dee2 e2 e2d dcd2 |
+[Q:2/16=220]GABB Bd cBA BBB2 | GBAG F2 AGF EEE2 :|
+|: BdcB A2 cBA GABB | BdcB A2 cBA GGG2 | BdcB A2 cBA GABB | BdcB A2 cBA GGG2 :|
+|: dee^c d2 dcB edcB | ^ABB2 G2 d^cB cAB2 | dee^c d2 dcB edcB | ^ABB2 G2 d^cB B4 :|
+|: ^ABBE G2 d^cB cAB2 | ^ABBE G2 d^cB cAB2 | ^ABBE G2 d^cB cAB2 | ^ABBE G2 d^cB cAB2 :|
+K:Amix _B
+|: GAAG AE dcB AGA2 | GAAG AE dcB AEA2 | GAAG AE dcB AGA2 | GAAG AE dcB A4 :|
+|: GAAG A2 dcA d2c2 | GAAG A2 =c=BG c2B2 | GAAG A2 dcA d2c2 | GAAG AE dcB A4 :|
+K:Amix
+|: Bcc2 A2 B2A ABc2 | Bcc2 A2 B2A cBA2 :|
+|: Bcc2 c2 d2c fedc | Bcc2 A2 B2A ABc2 | Bcc2 c2 d2c fedc | Bcc2 A2 B2A cBA2 :|
+|: Bcc2 A2 B2A ABc2 | Bcc2 A2 B2A cBA2 | Bcc2 A2 B2A ABc2 | Bcc2 A2 B2A cBA2 :|
+% Source: sources/norbeck/m/hnmiscbalkan0.abc
+
+X:27
+T:Mileva ruchenitsa
+R:rachenitsa
+C:Ivan Milev
+H:Played: AABBAABBCCDD solos AABB
+O:Bulgaria
+Z:id:hn-rachenitsa-6
+M:2+2+3/16
+L:1/16
+Q:1/8=220
+K:Ephr ^g =f
+^G2A2 B2B | B2B2 B2A | BdcB A^GA | B2z2 z2E |
+^G2A2 B2B | B2B2 B2A | ^GBAG FED |1 EF^GA B2E :|2 E2EB, E3 ||
+|: BccB A2A | ABBA ^G2G | ^GAAG FED | EF^GA B2E |
+dccB A2A | ABBA ^G2G | ^GAAG FED | E2EB, E3 :|
+|: B2cd d2d | d2d2 d2c | cAc2 c2c | c2c2 c2B |
+EFDE F^GA | BccB A^GF | ^GAAG FED | EF^GA B2E |
+B2cd d2d | d2d2 d2c | cAc2 c2c | c2c2 c2B |
+EFDE F^GA | BccB A^GF | ^GAAG FED | E2EB, E3 :|
+|: EFDE F^GA | BccB A^GF | ^GAAG FED | EF^GA B2E |
+A2A2 ABc | dccB A^GF | ^GAAG FED | E2EB, E3 :|
+% Source: sources/norbeck/m/hnrachenitsa0.abc
+
+X:28
+T:Moravac Kolo
+R:kolo
+O:Serbia
+Z:id:hn-kolo-4
+M:2/4
+L:1/16
+K:Dmix
+D4 G2F2 | EDGF E2E2 | F2D2 EDGF | E2E2 E2ED |
+DFAF G2F2 | EDGF E2E2 | F2D2 EDGF | EEEA EEE2 :|
+|: F4 A2FA | G2GF GAFD | F2A2 AFBA | G2GF GAFD :|
+|: A,DEF G2F2 | FEGF E2EA | G2F2 FEGF |1 E2EA E2E2 :|2 EDEF GABc ||
+|: dcBA GBAG | FAGF E2E2 | G2F2 FEGF |1 EDEF GABc :|2 E2EA E2E2 ||
+P:variations
+|: ~E2ED ~E2ED | ~E2ED ~E2ED | ~E2ED ~E2ED |1 ~E2EA ~E2ED :|2 ~E2EA E4 ||
+|: D4 G2F2 | FDGF ~E2ED | G2F2 FDGF | ~E2EA E2ED |
+D2AF G2F2 | FDGF ~E2ED | G2F2 FDGF | ~E2EA E4 :|
+F4 A2AF | G2GE GAFD | F2FD A2BA | G2GE GAFD |
+F2FD dcBA | G2GE GAFD | F2FD A2BA | G2GE GAFD ||
+|: ^CDEF G2F2 | FDGF E2ED | G2F2 FDGF |1 E2EA E2ED :|2 EDEF GABc ||
+|: dcBA GBAG | FAGF E2ED | G2F2 FDGF |1 EDEF GABc :|2 E2EA E4 ||
+% Source: sources/norbeck/m/hnkolo0.abc
+
+X:29
+T:Oi u luzi chervona kalyna
+R:misc
+C:Stepan Charnetsky (1881-1944)
+O:Ukraine
+Z:id:hn-misc-28
+M:C|
+L:1/8
+K:Bm
+B2B2 d3B | cdcB ^A2F2 | B3c d2c2 | B8 |
+B2B2 e3B | dcB^A B2F2 | B3c d2c2 | B4 =A4 ||
+d2d2 d2=A2 | efgf edcB | ^A2f6 |
+B2d2 f3e | fgfe d2B2 | f2f2 f2e2 | d3c B4 ||
+% Source: sources/norbeck/m/hnmisc0.abc
+
+X:30
+T:Paidushko Choro
+R:paidushko horo
+H:See also #1
+O:Bulgaria
+M:5/8
+L:1/8
+K:G
+B2 ddd | B2 ccc | cB A2G | B2 BBB |
+B2 ddd | B2 ccc | cB A2G | A2 AAA :|
+|: cB A2G | FG A2G | cB A2G | B2 ddd |
+cB A2G | FG A2G | cB A2G | A2 AAA :| !fine!
+|: B2 ddd | B2 ccc | cB A2G | B2 BBB |
+B2 ddd | B2 ccc | cB A2G | A2 AAA :|
+|: cB A2G | FG A2G | cB A2G | B2 ddd |
+cB A2G | FG A2G | cB A2G | A2 AAA :|
+K:Amix
+|: A2 e2A | e2 edc | A2 e2A | e2 B2A |
+A2 e2A | e2 edc | A2 e2A | e2 B2A :|
+|: A2 ABc | d2 d2c | d2 Ad2 | c2 B2A |
+A2 ABc | d2 d2c | d2 Ad2 | c2 B2A :|
+|: d2 Ad2 | d2 d2c | d2 Ad2 | c2 B2A |
+d2 Ad2 | d2 d2c | d2 Ad2 | c2 B2A :|
+% Source: sources/norbeck/m/hnpaidushko0.abc
+
+X:31
+T:Paidushko horo
+T:Djinovsko horo
+R:paidushko horo
+H:The tune is mislabelled on the Lunasa album. It's not a djinovsko horo
+H:(which is in 6/8 time), but a paidushko horo (pajdusko oro in Macedonia).
+H:See also #3
+D:Lunasa: The Kinnitty Sessions
+Z:id:hn-paidushkohoro-1
+M:5/8
+L:1/8
+Q:2/8=180
+K:G
+G |: BG d2G | BG c2G | cB A2G | AG B2G |
+BG d2G | BG c2G | cB A2G |1 AE A2G :|2 AE A2E ||
+|: cB A2G | FG A2E | cB A2G | BG dGG |
+cB A2G | FG A2E | cB A2G |1 AE A2E :|2 AE A2B ||
+|: cd cBA | BG A2G | BG A2G | GA B2G |
+cd cBA | BG A2G | BG A2G | GD G2G :|
+|: BG A2G | GA B2G | BG A2G | GG DGG |
+BG A2G | GA B2G | BG A2G | GD G2G :|
+% Source: sources/norbeck/m/hnpaidushko0.abc
+
+X:32
+T:Paidushko horo
+R:paidushko horo
+O:Bulgaria
+M:5/8
+L:1/8
+K:Am
+AB c2d | ed c2B | AE A2E | AB c2B |
+AB c2d | ed c2B | AE AcB | A2 A3 :|
+|: de e2d | ga e2A | dA d2A | ed c3 :|
+|: d2 d2A | ed c2B | A2 A2G | AB cBc |
+d2 d2A | ed c2B | A2 AcB | A2 A3 :|
+|: de e2d | ga e2A | dA d2A | ed c3 :|
+|: d2 d2A | ed c2B | A2 A2G | AB cBc |
+d2 d2A | ed c2B | A2 AcB | A2 A3 :|
+|: ^fg gfg | a2 g=fe | f2 fed | de edc :|
+|: ef fed | de edc | de c2B | AB cde |
+f2 fed | e2 edc | de c2B | A2 A3 :|
+|: ^fg gfg | a2 g=fe | f2 fed | de edc :|
+|: ef fed | de edc | de c2B | AB cde |
+f2 fed | e2 edc | de c2B | A2 A3 :|
+% Source: sources/norbeck/m/hnpaidushko0.abc
+
+X:33
+T:Pazardjishka kopanitsa
+T:Pazardzhishka kopanitsa
+R:kopanitsa
+O:Bulgaria
+Z:id:hn-kopanitsa-4
+M:11/16
+L:1/16
+Q:1/8=220
+K:Amix
+ABcd Bcc cBBG | BGA2 Bcc cBBG | ABcd Bcc cBBG | BGA2 A3 A2A2 :|
+|: eAcd dAc cAB2 | cABc c2B B2A2 | BGB2 c2B B2Bc |1 B2AE ABc dce2 :|2 B2A2 A3 A2A2 ||
+|: ABc2 cd2 c2B2 | Bcd2 Bc2 cBA2 | GABc c2A c2c2 | B2A2 A3 A2A2 :|
+|: eAcd dAc cAB2 | cABc c2B B2A2 | BGB2 c2B B2Bc |1 B2AE ABc dce2 :|2 B2AE A3 A2A2 ||
+|: BGB2 c2B B2Bc | B2AE ABc dce2 | BGB2 c2B B2Bc | B2AE A3 A2A2 :|
+K:Amix _b
+|: ecd2 dc_B c2BA | AEG2 A_BA AGFE | A_BB2 GBe c2BA | AEG2 A_Bc dce2 |
+ecd2 dc_B c2BA | AEG2 A_BA AGFE | A_BB2 GBe c2BA | AEG2 A_BA AEA2 :|
+|: A_BB2 GBe c2_BA | AEG2 A_BA AGFE | A_BB2 GBe c2_BA | AEG2 A_BA AEA2 :|
+K:Amix
+|: deed dcB c2BA | cddc cBA AGFE | FCF2 FAB c2c2 |1 cddc Bde c2c2 :|2 dccB BAG FCF2 ||
+|: FCF2 FAB c2c2 | cddc Bde c2c2 | cddc Bde c2c2 |1 dccB BAG F^GA2 :|2 dccB BAG FCF2 ||
+cAc2 ABc ddd2 | deed dcB cccA | c2c2 ABc d2d2 | dccB BAG F^GA2 |
+cAc2 ABc ddd2 | deed dcB cccA | cAc2 ABc d2dA | dccB BAG F^GAB ||
+K:Amix _b
+|: ecd2 dc_B c2BA | AEG2 A_BA AGFE | A_BB2 GBe c2BA | AEG2 A_Bc dce2 |
+ecd2 dc_B c2BA | AEG2 A_BA AGFE | A_BB2 GBe c2BA | AEG2 A_BA AEA2 :|
+|: A_BB2 GBe c2_BA | AEG2 A_BA AGFE | A_BB2 GBe c2_BA | AEG2 A_BA AEA2 :|
+% Source: sources/norbeck/m/hnkopanitsa0.abc
+
+X:34
+T:Sandansko horo
+R:sandansko horo
+S:Sylvain Barou on Youtube
+H:See also #2
+O:Bulgaria
+O:Macedonia
+Z:id:hn-sandanskohoro-1
+M:22/16
+L:1/16
+Q:2/16=180
+K:Em
+E2B2A2 B2A GAAGBA A2G GFFE |1 EFG2GF A2G GFFEFD E2D EFGA :|
+[2 EFG2GF A2G GFFEFD E2B E2E2 ||
+|: EFG2GF A2G F2FEFG A2B AGFE | EFG2GF A2G F2FEFD E2B E2E2 :|
+|: e2b2a2 b2a gaagba a2g gffe |1 efg2gf a2g gffefd e2d efga :|
+[2 efg2gf a2g gffefd e2B e2e2 ||
+|: efg2gf a2g f2fefg a2b agfe | efg2gf a2g f2fefd e2B e2e2 :|
+|: GAAGBE A2G GFFEEF G2E GFFE | GAAGBE A2G GFFEFD E2B E2E2 :|
+|: EFFDE2 F2D EFGAF2 E3 BGFE | EFFDE2 F2D EFGAF2 E3 E2E2 :|
+% Source: sources/norbeck/m/hnsandansko0.abc
+
+X:35
+T:Sandansko horo
+R:sandansko horo
+H:See also #1
+D:Theodosii Spassov Quartet
+O:Bulgaria
+Z:id:hn-sandanskohoro-2
+M:22/16
+L:1/16
+Q:2/16=180
+K:Edor
+E2B2A2 B3 GAAGBA A2G GFFE |1 EFG2GF A2G GFFEFE E2D EFGA :|
+[2 EFG2GF A2G GFFEFE EEE E2E2 ||
+|: EFG2GF A2G GFFEGA A2B AGGF | EFG2GF A2G GFFEFE EEE E2E2 :|
+|: e2beae b2b a2agba a2g gffe |1 efg2gf a2g gffefe e2e efga :|
+[2 efg2gf a2g gffefe e2e e2e2 ||
+|: efg2gf a2g gffega a2b aggf | efg2gf a2g gffefe e2e e2e2 :| !fine!
+|: fga2ag g2f fgabc'b a2g fggf |1 fga2ag g2f fgabag gfg f2fd :|
+[2 fga2ag g2f fgabag gfg f2f2 ||
+% Source: sources/norbeck/m/hnsandansko0.abc
+
+X:36
+T:Shche ne vmerla Ukrainy i slava, i volia
+R:misc
+C:Mykhailo Verbytsky (1815-1870)
+H:Ukrainian national anthem
+O:Ukraine
+Z:id:hn-misc-29
+M:C|
+L:1/8
+K:Em
+B3B BABc | d3c B2A2 | G2B2 F2B2 | E3F G2A2 |
+B3B BABc | d3c B2A2 | G2B2 F2B2 | E4 E4 ||
+F3F BAGF | EFGE F2F2 | G2G2 A2A2 | B4 B4 |
+F3F BAGF | EFGE F2F2 | G2B2 F2B2 | E3F GABc ||
+|: d3^c d2B2 | A2A2 d=cBA | G2G2 A2A2 | B3A GABc |
+d3^c d2B2 | A2A2 d=cBA | G2B2 F2B2 | E4 E4 :|
+% Source: sources/norbeck/m/hnmisc0.abc
+
+X:37
+T:Smeseno Horo
+T:Smeceno Horo
+T:Bulgarian Bulge
+R:smeseno horo
+H:"Smeseno Horo" means "Crooked Dance"
+H:15/16 bars are 4+4+3+4/16. 18/16 bars are 4+2+3+2+3+4/16.
+O:Bulgaria
+Z:id:hn-miscbalkan-1
+M:15/16
+L:1/16
+Q:1/8=240
+K:Dmix
+^cdd=c cBBA cBA B2AG | [M:18/16] F2FD ED F2D ED cBA B^GA2 |
+[M:15/16] ^cdd=c cBBA cBA B2AG | [M:18/16] F2FD ED F2D ED F2D E^CD2 :|
+M:18/16
+|: F2FD ED F2D ED cBA B2AG | F2FD ED F2D ED cBA B^GA2 |
+F2FD ED F2D ED cBA B2AG | F2FD ED F2D ED F2D E^CD2 :|
+|:[M:15/16] A2AD E=F^GA cBA B2A=G |[M:18/16] ^F2FD ED F2D ED cBA B^GA2 |
+[M:15/16] A2AD E=F^GA cBA B2A=G |[M:18/16] ^F2FD ED F2D ED F2D E^CD2 :|
+M:18/16
+|: F2FD ED F2D ED F2D E^CDE | F2FD ED F2D ED F2D E^CD2 :|
+|: ABBA AG F2D FG ABA AGFD | ABBA AG F2D FG ABA AGF2 :|
+|: BdcB BG A2G FD G2F FGAD | BdcB BG A2G FD G2F FDE2 :|
+|: E=F^GA BE cBA Bc B2A ^GABc | dc2B2A cBA ^GA GA=F ^GDE2 :|
+|: dc2B2A cBA ^GA GA=F ^GABc | dc2B2A cBA ^GA GA=F ^GDE2 :|
+% Source: sources/norbeck/m/hnmiscbalkan0.abc
+
+X:38
+T:Svatbarska Rachenitsa
+R:rachenitsa
+O:Bulgaria
+Z:id:hn-rachenitsa-4
+M:2+2+3/16
+L:1/16
+Q:1/8=220
+K:Am
+c2de ~e2d | dced ~d2c | cddc cBG | AGAB ~c2G |
+   c2de ~e2d | dced ~d2c | cddc cBG | ~A2AE A3 :|
+|: cddA cdd | cBAB ~c2G | cd~B2 GAB | AGAB ~c2G |
+   cddA cdd | cBAB ~c2G | eddc cBG | ~A2cd ~A3 :| !fine!
+K:A
+|: Aede ~c2c | AB{c}BA ~c2c | eAde ~c2c | AB{c}BA AEA |
+   Aede ~c2c | AB{c}BA ~c2c | eAde ~c2c | AB{c}BA A3 :|
+|: AB~B2 dcA | c2cA ~B3 | B2de cde | c2cA ~B3 |
+   AB~B2 dcA | c2cA ~B3 | B2de cde | c2BA A3 :|
+K:Aphr ^c
+|: =fedc _BA=G | A_B~c2 Acd | =fedc _BA=G | ~A2AE cde |
+   =fedc _BA=G | A_B~c2 Acd | =fedc _BA=G | ~A2AE A3 :|
+K:A
+|: Aede ~c2c | AB{c}BA ~c2c | eAde ~c2c | AB{c}BA AEA |
+   Aede ~c2c | AB{c}BA ~c2c | eAde ~c2c | AB{c}BA AEA :|
+!D.C. al fine!
+% Source: sources/norbeck/m/hnrachenitsa0.abc
+
+X:39
+T:Tabanovacko Kolo
+R:kolo
+H:Original key F#dor ^B =A
+D:Tihomir Paunovic
+O:Serbia
+Z:id:hn-kolo-2
+M:2/4
+L:1/16
+Q:1/4=120
+K:Edor ^A =G
+^ABGB ABGB | ^ABGB AGFE | ^ABcd eBdc | dcB^A B4 | 
+^ABGB ABGB | ^ABGB AGFE | FGB2 BGFE | B^AGF E4 :| 
+|: FGFG =AGFE | cdcd edcB | ^ABcd cBAG | ^ABGB AGFE | 
+   FGFG =AGFE | cdcd edcB | ^ABcd cBAG | B^AGF E4 :| 
+|: ^deeB e=dcB | ^ABdc BABE | FGFG B^ABE | FGB^A GFGE | 
+   FGFG B^ABE | FGB^A GFGE | FGB2 BGFE | F2FB F4 :| 
+|: FGFG B^ABE | FGB^A GFGE | FGFG B^ABE | FGB^A GFGE | 
+   FGFG B^ABE | FGB^A GFGE | FGB2 BGFE | F2FB F4 :|
+% Source: sources/norbeck/m/hnkolo0.abc
+
+X:40
+T:Varbishka Ratchenitsa
+R:rachenitsa
+H:Originally in C, but Kornog transposed it for the simple system flute.
+O:Bulgaria
+Z:id:hn-rachenitsa-2
+M:2+2+3/16
+L:1/16
+Q:1/8=220
+K:D
+|: g2z2 g2f | fdff fed | eeez eez | dAde ffd | gdag g2f | fdff fed | eeez eez | dAdA d3 :|
+!segno!|: d2ff fed | gggd ggf | fdff fed | eeeA ez2 | d2ff fed | gggd ggf | fdff fed | eeeA e3 !fine! :|
+|: g2z2 g2f | fdff fed | eeeA eeA | dAde ffd | gdag g2f | fdff fed | eeeA eeA | dAdA d3 :|
+|: d2ff fed | gggd g2f | fdff fed | eeeA eeA | d2ff fed | gggd ggf | fdff fed | eeeA e3 :|
+|: e2bb bag | aaad agf | a2gf efd | eeee a2b | e2bb bag | aaad agf | a2gf efd | eeeB e3 :|
+|: aagf efd | eeee a2b | aagf efd | eeee dcB | aagf efd | eeee a2b | aagf efd | eeeB e3 :|
+K:Dphr ^f
+=B=cd_e fga | agf_e fAd | fggf f_e_b | agf_e dd=c | d_ef2 fag | f_ed2 fga | agff f_ed | d=c=BA d3 |
+=B=cd_e fga | agf_e fAd | fagf f_e_b | agf_e dd=c | _b=c'c'b bag | gff_e fga | agff f_ed | d=c=BA d3 ||
+K:Cmix ^f
+|: ^fggg _bag | g=c_ba g=fe | ^fga2 g_ba | g=fee gG=c | ^fggg _bag | g=c_ba g=fe | ^fga2 g_ba | g=fee =c3 :|
+K:Dphr ^f
+|: =c2dd dgf | fAdg gf_e | fffA =cgf | fd_ed daA | =c2dd dgf | fAdg gf_e | fffA =cgf | fd_ed d3 :| 
+P:Kornog version
+K:D
+|: g2z2 g2f | fdff fed | eeeA eeA | dAde ffd | ggag g2f | fdff fed | eeeA eeA | dAdA d3 :|
+!segno!|: d2f2 fed | ~g3d g2e | fdff fed | eeeA eee | d2f2 fed | ~g3d g2e | fdff fed | eeeA e3 !fine! :|
+|: g2z2 g2f | fdff fed | eeeA eeA | dAde ffd | ggag g2f | fdff fed | eeeA eeA | dAdA d3 :| 
+|: d2f2 fed | ~g3d g2e | fdff fed | eeeA eee | d2f2 fed | ~g3d g2e | fdff fed | eeeA e3 :| 
+|: e2bb bag | ~a3d agf | a2g2 efd | ~e3e abb | e2bb bag | ~a3d agf | a2gg efd | ~e3B e3 :|
+|: aagf efd | ~e3e a2b | aagf efd | ~e3e dcB | aagf efd | ~e3e a2b | aagf efd | ~e3B e3 :|
+K:Dphr ^f
+|: =B=cd_e fga | agf_e ffe | fgaf agf | agf_e ddA |1 d_efg fag | f_ed2 fga | agff f_ee |
+  d=cBA d3 :|2 b=c'c'b bag | gff_e fga | agff f_ee | d=c=BA d3 || 
+K:Cmix ^f
+|: ^fg~g2 _bag | g=c_ba gge | ^fga2 gaa | ggee g=ce | ^fg~g2 _bag | g=c_ba gge | ^fga2 gaa | ggee =c3 :|
+K:Dphr ^f
+|: =cdd2 fgf | fdfg gfd | ~f3d =cgf | fd_ed d3 | =cdd2 fgf | fdfg gfd | ~f3d =cgf | fd_ed d3 :|
+% Source: sources/norbeck/m/hnrachenitsa0.abc
+
+X:41
+T:Varvarinsko Kolo
+R:kolo
+D:Sava Jeremic
+O:Serbia
+Z:id:hn-kolo-1
+M:2/4
+L:1/16
+Q:1/4=120
+K:Ador ^d =c
+e8 | e^dcA cBc2 | c2e2 e^dcA | e^dc2 cBc2 |
+e8 | e^dcA cBc2 | c2e2 e^dcA | e^dcA c4 :|
+|: A6 Bc | =dcBA B2BE | ^GABc =dcBA | B2e2 BAB2 |
+A6 Bc | =dcBA B2BE | Bce^d BA^GA | B2B^G E4 :|
+K:Edor
+|: ^AB3-B4 | B^AGE G4 | G2B2 G2B2 | B^AGE G4 |
+^AB3-B4 | B^AGE G4 | G2B2 G2B2 | B^AGE G4 :|
+|: E6 FG | =AGFE F4 | E2FG =AGFE | F4 B,4 |
+E6 FG | =AGFE F4 | E2FG =AGFE | F4 F4 :|
+% Source: sources/norbeck/m/hnkolo0.abc

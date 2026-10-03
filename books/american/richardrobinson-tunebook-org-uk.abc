@@ -1,0 +1,536 @@
+% Richard Robinson's TuneBook Live!: Old-time & North American tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T:ABC Notation Monster Tune, The
+T:Alternate Titles in the Header Appear Here.
+T:In the Manner of Kesh Jig (Embedded title - new Staff Line)
+A:Wisconsin
+C:Composer Name (C:)
+D:Play several tunes in any order, using the Select Tunes window. The
+D:play program can run by itself with command line parameters or
+D:selections from a menu.  You can use it as a practice tutor.  If you
+D:enter a tempo above, Play will use that. Double-click on the music
+D:window, to play the tune skipping repeats.
+H:This sample tune demonstrates a range of functions in ABC2Win. New
+H:features include: slurs, new chord and slur notation, words in the
+L:1/8
+M:7/16
+N:Double click on any blue box to expand the view. Each box can hold
+N:about 600 characters. Word wrap is automatic. These comments are
+N:written to the tune file as multiple lines with the appropriate prefix
+N:(H:, W:, etc.) Each line will be 72 or fewer characters long. Double
+N:click to close the box.
+O:USA
+Q:200
+R:Rhythm (R:)
+S:Source of Tune (S:)
+W:Words appearing within the tune (W: lines)
+Z:Features include the paste button which will parse an ABC tune copied
+Z:from the clipboard. Select some or all of the abc notation in the box
+Z:below, open another tune or a new tune and paste. You can also lauch
+Z:this program from the command line with a file name following the
+Z:program name.
+K:B minor
+"Scale Sample"C,D,E,F,G,A,B,|(CDEFGAB)|cdefgab|"Extended"(c'd'e'f'g'a'b'c'') 
+%Create new lines among the abc's with Shift-Enter.
+|"Dbl Flat bb, Sharp ^^"__A3Bc3A c3^^BA3G|"Broken Rhythms > <" \
+A>BA>c  c3B1A6G2 F12G4|"###"A<c c>BA<GA>B*|]
+"Thick or thick/thin bar ends"A>>c c<<B[| |A>>>c c<<<B|"Staccato .".D4.E4 .F4.G4| \
+"New Key"\
+K:Emin %Key change within the tune 
+A8A6G12|"Rests z"z8 z4 z2|
+Q:135 %Set a new tempo in preparation for meter change
+"Meter Change"
+M:6/8 %Meter change within the tune.
+A/2A/4A/8A/        |  "Roll ~"~G3 BAG|1{g}bag gab|"Quadruplet"(4ABcd +G2d2+:|2 
+"Grace Notes"{dcB}(3{a}g{a}f{a}e (3(gze) (3(zge) (3(gez) g| \
+|"Chords [ ]"[EA][FA] [EF]|{a}[de]{b}[de]|[egb][dfb]|"Am  G"ABcd|"Ties ( )"A2-A2-|A4 G2|||
+"Slur + ties"e (A-|A4|Bc)d|| \
+"K:Bb minor"GA_G "G"     G__AB| \ 
+K:G Ionian
+"K:G"ABA ABd|"D"edd "Fmin7"gdB
+W:Are printed beneath the current staff.
+|1AG_E ~G2 D:|2AGF ~[^D3G3] AA:|3A3Bc3A c3BA3G:|4D4E4 F4G4|adae| \
+L:1/16  % change the default note length on the fly. 
+(7cdefgab|| 
+% Output from ABC2Win  Version 2.1 d on 3/28/97
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:2
+T:Argyle Bowling Green
+M:4/4
+N:I think I originally found a version of this somewhere on the 'net,
+N: but I've no idea where and suspect my playing has changed it by now.
+O:USA
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+K:D major
+|:F | \
+DF d2 defe | dABd AdAF | DFd2 defe | dBAF E2 E:|
+d | \
+AFdF AFFB | AFdF A2 AB | AFdF AFFG | ABAF E2 Eb |
+afd'f affb | afd'f a2 ab | afd'f affg | abaf e2 e ||
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:3
+T:Argyle Bowling Green
+M:4/4
+N:I think I originally found a version of this somewhere on the 'net,
+N: but I've no idea where and suspect my playing has changed it by now.
+O:USA
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+%%tocval:Reels
+K:D major
+|:F | \
+DF d2 defe | dABd AdAF | DFd2 defe | dBAF E2 E:|
+d | \
+AFdF AFFB | AFdF A2 AB | AFdF AFFG | ABAF E2 Eb |
+afd'f affb | afd'f a2 ab | afd'f affg | abaf e2 e ||
+
+
+
+\newpage
+\LARGE \center Kitty's Wedding / the Home Ruler
+% Source: sources/richardrobinson-tunebook-org-uk/docs/0/03/31_Mysets.abc
+
+X:4
+T:Bill Cheathams
+M:C
+N:the 'chords' in bar 5 second part are alternative lines
+O:USA
+R:Reel
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+K:D major
+A,B,DE F2DE| FDEF EDB,A,| B,2G2 G2DE| =FDEF EDB,D|
+A,2^F2 F2DE| FDEF EDB,D| \
+GFGA BcdB|1 AGFE D4 :|2 AGFE D2FG|:
+AFAd BGBd| cABc d2Ac| dcdA BdAG| FAFD E2FG|
+[AA][DF][FA][Ad] [BB][DG][GB][Bd]|cABc d2Ac|\
+dcdA BdAG|1 F2E2 D2FG :|2 F2E2 D4|]
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:5
+T:Blackberry Blossom
+L:1/8
+M:4/4
+O:USA
+R:Reel
+Z:Nigel Gatherer
+K:G major
+gabg fgaf | efge dBAG | EFGE DFGA | BdBG Adef |
+gabg fgaf | efge dBAG | EFGE DFGA | BdAF G4  :|
+E2 eB d2 e2 | E2 eB dBAG | E2 eB d2 e2 | fefg afed |
+E2 eB d2 e2 | E2 eB dBAB | cBcd efge | dBAF G4 :|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:6
+T:Cajun 2-step
+M:C
+O:USA
+R:Reel
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+S:Andy Hornby
+K:D mixolydian
+EFFF EFFF| EFF(A A)FED| DEE(E E)EDE| FABA FEDE|
+EFFF EFFF| EFF(A A)FED| EFED A,2B,D|1\
+D3(D D)A,B,D :|2(D4 D)DFA|:
+c2cB cBA=F| ^FAF(D D)DFA| c2cB cBA=F|(^F4 F)DFA|
+c2cB cBA=F| ^FAF(D D)A,B,D| E=FED A,2B,D| (D4 D)DFA:|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:7
+T:Chris' Gallop
+C:Andrea Hoag
+M:2/4
+N:said to be for Chris Parkinson
+O:USA
+R:Polka
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+%%Copyright:Andrea Hoag
+S:Felicity Patterson
+K:D major
+B|\
+A2d2 d2A2|B=cB2 A2d2|c2e2 edc2|d2{e}f2 A3B|\
+A2d2 d2A2|B=cB2 A2d2|c2g2 a2c2|d6:|
+|:A2|\
+[BF][BF][BF][BF] [B2F2][A2F2]|\
+[BF][BF][BF][BF] [B2F2][B2F2]|\
+A2c2 cBA2|d2f2 fed2|\
+[BF][BF][BF][BF] [B2F2][A2F2]|\
+[BF][BF][BF][BF] [B2F2][B2F2]|\
+A2c2 cBA2|d6:|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:8
+T: The Clog Waltz
+I:abc2nwc
+L:1/8
+M:3/4
+O:Canada
+K:G major
+B2EF GE|B2EF GE|c4cd|c2B4|
+B2EF GE|B2EF GE|F4AA|A2G2F2||
+B2EF GE|B2EF GE|c4cd|c2B4|
+B3c B2|A2G2F2|E2GE BE|[1e6:|[2e4-e
+|:D|E2c3E|F4E2|D2B2D2|E4D2|
+C2E2G2|F2G2A2|G2F2E2|D4-DD|
+E2c3E|F4E2|D2B3D|E4D2|
+E2G3E|F2G2A2|[1G6|G4-G:|[2G2BG Bd|g6|]
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:9
+T:Coire an Lochan
+C:D. Muir
+D:Buddy MacMaster - "Judique on the Floor" ACD 9020
+M:4/4
+O:Canada
+A:Cape Breton
+R:Reel
+K:A dorian
+z | \
+A2ed e2A2 | edea gedc | BABd G2GA | BcdB edBG |
+A<Aed e2A2 | edeg a2ag | efge dcBd | e2dB | AAA ::
+B | \
+c2gf g2c2 | agea gedc | B2AB GABc | dBGB gdBG |
+c<cgf g2c2 | cdeg a2ag | efge dcBd | e2dB AAA :|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:10
+T:Fair Jenny
+D:Rodney Millar "Airplang"
+L:1/8
+M:6/8
+O:USA
+Q:3/8=125
+R:32-bar Jig
+K:D major
+f3 fgf | ecA ecA | Bcd e2A | Bcd efg | \
+f3 fgf | ecA ecA | Bcd e2c | ABc d3 ::
+[K:G] \
+B3 BcB | G2B BcB | A2A d2d | ^c2c AB=c | \
+B3 BcB | G2B BcB | A2A AB^c |1 d3 d3 :|2 d3 d3 |]
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:11
+T:French-Canadian Waltz
+M:3/4
+N:From playing of Joseph Guilmette
+O:Canada
+R:Waltz
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+S:Simon Booth
+K:E minor
+B2 EFGE | B2 EFGE | \
+c4 c2 | c2 B2 A2 |1 \
+B2 EFGE | B2 EFGE | \
+F2 B,2 B,2 | F2 B,2 B,2 :|2
+B2 c2 B2 | A2 G2 F2 | E2 G2 B2 | e4:: \
+D2 |\
+E2 c3E | F4 E2 | \
+D2 B3 D | E4 E2 |
+E2 c3E | F2 E2 F2 \
+|1 A2 G2 E2 | D4 :|2 G2 B2 d2 | g4 |]
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:12
+T:Garfields Hornpipe
+M:4/4
+O:USA
+R:Hornpipe
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+K:G major
+GDB,D GDB,D| GFGA BABc| dAFA dAFA| defe dcBA|
+GDB,D GDB,D| GFGA BABc| defe dcBA| G2B2 G2::
+g>f|\
+ecG3/(E/ E3/)Gce| dBG3/(D/ D3/)GBd|\
+cAed cAed| BGed BGgf|
+ecG3/(E/ E3/)Gce| dBG3/(D/ D3/)GBd|\
+defe dcBA| G2B2 G2:|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:13
+T:In Christ there is no East or West
+D:Rodney Millar "Airplang"
+N:Also a John Fahey version or two, that I'd like to check also
+O:USA
+Q:1/4 = 78
+M:C
+K:D mixolydian
+DF | A2 A2 A2 AB | c2 c2 B3A | Bd-dd dBAB | d6 \
+de | f3d    BA3  | G2 F4  DE | FA-AB AFE2 | D6 |]
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:14
+T:la Grande Chaine
+M:4/4
+O:Canada
+R:Reel
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+S:Boys ot Lough, I think.
+K:G major
+BGAG E2D2 | BGAB cedc | BGAG E2D2 | BGAF G4::\
+g2fg edBd | gedc BGGd | ! g2fg edBd | eaag fdef |\
+g2fg edBd | gedc BGG2 | EFGA BcAF | G6:|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:15
+T:La Grande Chaine
+O:Canada
+A:French Canadian
+R:Reel
+N:I have no idea where I got this version from. I may have folk-processed it.
+M:4/4
+K:G major
+D2 | \
+B2Bc BAGB | d2 d2 BDGB | c2cB A2A2 | dedc BDGA |
+B2Bc BAGB | d2d2 BDGB | cdcB AcBA | G6 ::
+Bd | \
+g2 gf efge | dedc BDGB  | c2cB A2A2 | dedc BGBd |
+g2 gf efge | dedc BGBd | cdcB AcBA | G6 |]
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:16
+T:La Grande Chaine
+O:Canada
+A:French Canadian
+R:Reel
+N:I have no idea where I got this version from. I may have folk-processed it.
+M:4/4
+%%tocval:Reels
+K:G major
+D2 | \
+B2Bc BAGB | d2 d2 BDGB | c2cB A2A2 | dedc BDGA |
+B2Bc BAGB | d2d2 BDGB | cdcB AcBA | G6 ::
+Bd | \
+g2 gf efge | dedc BDGB  | c2cB A2A2 | dedc BGBd |
+g2 gf efge | dedc BGBd | cdcB AcBA | G6 |]
+
+
+
+\newpage
+\LARGE \center Gånglåts
+% Source: sources/richardrobinson-tunebook-org-uk/docs/0/03/31_Mysets.abc
+
+X:17
+T:Midnight on the Water
+C:Luke Thomasson
+M:3/4
+O:USA
+R:Waltz
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+K:D major
+D>E|\
+F2 F3E|F2 F3E|F(A A2 A)B|AF (3E/F/E/D DE|\
+F2d2 B2|A3F DE|F2AF (3E/F/E/D|D4 ::
+(3ABc|\
+d2 d3e|dc BA Bc|d3B AF|D4 d2|\
+e2e3 f|e2 d2 de|f3a fe|dc BA (3ABc|
+d3 c de|dc BA (3ABc|d3B AF|D3A, DE|\
+F2A2dB|A3F DE|F2AF EF|D4:|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:18
+T:Midnight on the Water
+I:abc2nwc
+L:1/8
+M:3/4
+O:USA
+K:G major
+D/2 G3/2A/2|B2B3/2A/2 B3/2G/2|F2B3/2A/2 B3/2c/2|d2d3/2B/2 c3/2e/2|d2-d3/2B/2 G3/2A/2|
+B2g2e2|d2-d3/2B/2 G3/2A/2|B2d3/2B/2 A3/2B/2|[1G2-G3/2:|[2G4
+[|d/2 e3/2f/2|g2g3/2a/2 g3/2f/2|g3/2f/2 e3/2d/2 e3/2f/2|g2g3/2e/2 d3/2B/2|G2-G3/2g/2 f3/2g/2|
+a2a3/2g/2 a3/2b/2|a2-a3/2g/2 a3/2g/2|b2b3/2c'/2 b3/2a/2|g3/2f/2 e3/2d/2 e3/2f/2||
+g3/2e/2 c3/2e/2 g3/2a/2|g2g3/2f/2 e3/2d/2|g2g3/2e/2 d3/2B/2|c3/2B/2 A3/2B/2 G3/2A/2|
+B2g2e2|d2-d3/2B/2 G3/2A/2|B2d3/2B/2 A3/2B/2|G2-G3/2|]
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:19
+T:the Mouth of the Tobique
+M:4/4
+N:This is as I've heard it in sessions on Orkney
+R:Reel
+O:Canada
+K:G major
+(3DEF | \
+GFGA Bded | BdBG DGBG | ABAF DFAF | GABc D2 (3DEF | 
+GFGA Bded | BdBG DGBG | ABAF DFAF | GBAF G2 ::
+Bd | \
+g2gf gbag | fdAd f2gf | ecAG FGAF | GABc d2ef | 
+g2gf gbag | fdAd f2gf | ecAG FGAF | GBAF G2::
+DEF | \
+G2BG GcGG | BGGc GGBG | FGAB cAFD | GABc dDEF |
+G2BG GcGG | BGGc GGBG | FGAB cAFD | GBAF G2 :|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:20
+T:the Mouth of the Tobique
+M:4/4
+N:This is as I've heard it in sessions on Orkney
+R:Reel
+O:Canada
+K:G major
+(3DEF | \
+GFGA Bded | BdBG DGBG | ABAF DFAF | GABc D2 (3DEF | 
+GFGA Bded | BdBG DGBG | ABAF DFAF | GBAF G2 ::
+Bd | \
+g2gf gbag | fdAd f2gf | ecAG FGAF | GABc d2ef | 
+g2gf gbag | fdAd f2gf | ecAG FGAF | GBAF G2::
+DEF | \
+G2BG GcGG | BGGc GGBG | FGAB cAFD | GABc dDEF |
+G2BG GcGG | BGGc GGBG | FGAB cAFD | GBAF G2 :|
+
+\newpage
+% Source: sources/richardrobinson-tunebook-org-uk/docs/0/24/244_RichardsScratchpad.abc
+
+X:21
+T:Old French
+M:4/4
+O:Canada
+R:Reel
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+K:D major
+(3ABc|\
+d2cd BdAF | DFAd f2ed | cdef gecA |1 defd A2 :|2 d2dc d2 ::
+(e2|\
+e)fed c2A2 | AEAc e2dc | BGBd gfed |1 cAce a2 :|2 c2A2 A2 :|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:22
+T:Red Wing
+L:1/8
+M:2/4
+O:USA
+O:England
+Q:1/8=280
+R:Polka
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+K:G major
+D|:\
+GG/G/ GB  | d2 dG     |  ce g/f/e | d3       B | \
+c3/2B/ Ac | B3/2A/ GB |1 AE FG    | A/B/A/F/ ED :|2 AE FD | G2 gf |:
+e2 e3/2e/ | eg fe |  d2 B2 | Bd ed  | \
+d2 A2     | Ad ed |1 d2 B2 | B2 gf :|2 Ac BA | G4 |]
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:23
+T:the Sailors Hornpipe
+M:4/4
+O:England
+O:USA
+R:Hornpipe
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+K:G major
+gf | \
+g2G2 G2dc | Bdgf gbag | a2A2 A2AG | FAd2 d2ef|
+gfed edcB | cBAG GFED | EGFA GBAc | B2G2G2 ::
+dc |\
+Bdgd Bdgd | e2c2 c2ed | ^ceae ceae | f2d2 d2ef|
+gfed edcB | cBAG GFED | EGFA GBAc | B2G2G2:|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:24
+T:Salimony Waltz
+D:Rodney Millar "Airplang"
+L:1/8
+M:3/4
+N:From Rodney Millar's version. The phrase marked "1" is only played the very first time you come to it. Subsquent occurrences are all "2". Likewise, 1st time through the tunes goes AAB, 2nd time goes AABB.
+O:USA
+Q:1/4=120
+R:Waltz
+K:D major
+FA- A2 -AB | A2 FE D2  \
+|1 B3G DB, | G,2 DG- GE  | FA- A2 -AB |  A2 FE D2  || 
+|2 B3A   B>d | B4  A>G | F3E    F>G | A3B   A>F || \
+E3D   E>F | G2 F2   E2 | 
+FA- A2 -AB | A2 FE D2  | B3A   B>c | d4     d>e | \
+f4     f>d | A2 F2 F>A | G2 F2 E2  | D6 ::
+%
+f3e     f>g | a3f    ed  | c4   (3cBA | E6 | \
+c3B     c>d | e2 f2  g2  | f4    e>d  | B2 d4 |
+{A}d3e  f>g | a4     a2  | b4    gd   | B4 d>e | \
+f4      f>d | A2 F2  F>A | G2 F2 E2   | D6 :|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:25
+T:The Successful Premedical Student (for Krissi)
+C:Alex Furches
+M:4/4
+O:USA
+K:D major
+fe|\
+dA (3cBA dDFA|dA (3cBA BGBd|\
+eA (3cBA eA (3cBA|egfd ecAc|
+dA (3cBA dA (3cBA|dDFA BGBd|\
+eA (3cBA egfd|ec (3ABc d2::
+gf|\
+eBGB gBGB|efgf eBGB|\
+efgf edBd|Ad Bd Ad Bd|
+eBGB gBGB|efgf eBGB|\
+efga {^a}b2 ag|(3fed (3edc d2:|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:26
+T:Thunderhead
+T:Jig Brest St Marc
+C:Grey Larsen
+Z:Nigel Gatherer
+D:Hamish Moore & Dick Lee, The Bees Knees
+M:12/8
+L:1/8
+K:Bm
+B3 fBB eBB dBA| B3  fgf edB ABd | B3  fBB eBB def | gfe fed edB ABd ::
+afd edB ABd c3| Bcc Bcc dcB c3  | afd edB ABd c3  | BdB cAa gec d3:]
+[|:\
+[M:3+3+3+4/8] BBB fBB  eBB dBBA | \
+[M:3+4+3+4/8] BBB  fggf edB  ABBd |\
+[M:3+3+3+3/8] BBB fBB  eBB def  | \
+[M:4+3+4+3/8] gffe fed  eddB ABd ::
+[M:3+4+3+3/8] afd eddB ABd cBc  | \
+[M:4+3+4+3/8] Bcc2 Bcc  dccB cBc |\
+[M:3+4+3+3/8] afd eddB ABd cBc  | \
+[M:3+3+3+3/8] BdB  cAa  gec  d3 :]
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:27
+T:Trip to Windsor
+A:Cape Breton
+C:Dan R. MacDonald
+M:4/4
+O:Canada
+R:Reel
+R:Hornpipe
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+%%RRGroups:Sessionbook
+%%tocval:Reels
+K:A major
+E|\
+A2 AA Ace=g | (f4 f)efg | agfe fgaf | ecBc AFEF|\
+A2 AB Ace=g | f2fg fefg |
+agfe fgaf | ecBc A3::\
+c|\
+efec efae | faec BAcB | AFEC EFAE | FAEC B,A,CB,|
+A,2CE FECE | AEcB Aceg | agfe fgaf\
+|1 ecBd cAA :|2 ecBc A4|]
+
+
+
+\newpage
+\LARGE \center Galopede / Petronella
+% Source: sources/richardrobinson-tunebook-org-uk/docs/0/03/31_Mysets.abc
+
+X:28
+T:Wissahockin Drive
+C:Liz Carroll
+M:4/4
+O:USA
+R:Reel
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+%%Copyright:Liz Carroll
+K:A major
+EFAB cBAB|c2ef ecBA|F2dF eFde|feef edcA|
+EFAB cBAB|c2ef eAce|fagf eAcA|1BEGB A3E:|2BEGB A2ce|]
+a2ga baga|fAde fagf|eAce aece|aedc BEGB|
+a2ga baga|fAde fagf|eAce aedc|BEGB A2ce|
+a2ga baga|fAde fagf|eAce aece|aedc BEGB|
+A2ce ac'ba|fAde fagf|eAce aedc|BEGB A3E|]
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc

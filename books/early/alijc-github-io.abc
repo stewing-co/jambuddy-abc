@@ -1,0 +1,452 @@
+% Ali Corbin's transcriptions of medieval music (some in abc): Early Music & Classical tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T:Alleluia/The Birks Of Aberfeldie
+M:4/4
+L:1/16
+K:C
+V:1
+% vibes
+%%MIDI program 11
+c4 G4 A4 E4| F4 (E2D2) G4 E4| C4 (D2E2) F4 G4| A4 B4 (c2B2) c4||
+w:Al-le-lu-ia Al-le-*lu-ia Al-le-*lu-ia Al-le-lu-*ia
+c4 G4 A4 E4| F4 (E2D2) G4 E4| C4 (D2E2) F4 G4| A4 B4 (c2B2) c4||
+w:Al-le-lu-ia Al-le-*lu-ia Al-le-*lu-ia Al-le-lu-*ia
+c4 G4 A4 E4| F4 (E2D2) G4 E4| C4 (D2E2) F4 G4| A4 B4 (c2B2) c4||
+w:Al-le-lu-ia Al-le-*lu-ia Al-le-*lu-ia Al-le-lu-*ia
+c4 G4 A4 E4| F4 (E2D2) G4 E4| C4 (D2E2) F4 G4| A4 B4 (c2B2) c4||
+w:Al-le-lu-ia Al-le-*lu-ia Al-le-*lu-ia Al-le-lu-*ia
+V:2
+% cello
+%%MIDI program 42
+z16|z16|z16|z16|z16|C3D E2G2 c3c (c2A2)| c3d (c2A2) (Bc)d2 (cde2)| C3D E2G2 c3d e2ed|c3A G2E2 D4 A2C2| C3D E2c2 G2C2 G2C2| G2C2 E2G2 (AG)(FE) D3E|C3D E2G2 c3d e2ed| c3A G2E2 D4 A4||
+w: Bon-nie las-sie, will ye go,* will ye go,* will* ye go,** Bon-nie las-sie, will ye go To the birks of A-ber-fel-die? Now sim-mer blinks on flow'-ry braes, And o'er the crys-tal stream-*let* plays, Come, let us spend the light-some days In the birks of A-ber-fel-die!
+% Source: sources/alijc-github-io/music/quodlibets.abc
+
+X:2
+T: Ay Deus se sabora meu amigo
+F:https://en.wikipedia.org/wiki/Martin_Codax
+F:https://es.wikisource.org/wiki/Archivo:Martim_Codax_Cantigas_de_Amigo.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 3/4
+L: 1/4
+Q: 1/4=100
+K: A Phrygian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  F | G   A2| A2 (A/G/)|A (B/A/A/G/)|A (G/F/G/A/)|(AG) 
+w:Ay Deus se sab' o-*  ra  meu***    a- mi-***     go.*
+ (F/E/)| F G2|(BA) (A/G/)|A  (B/A/A/G/)|A (G/F/G/A/)|A2 z|
+w:com'* eu se-nnei-*ra*   es- tou***    en vi-***    go.
+M:4/4
+  (B/A/A/G/) (3(BAG)|(F/G/) E F2|(GA2) z||
+w: E***         vou**  na-* mo-ra- da.*
+%
+W:Ay Deus se sab'ora meu amigo		% Ay God, if knows my friend
+W:com' eu senneira estou en Vigo. 	% how lonely I.am in Vigo.
+W:E vou namorada. 			% And I.go enamored
+W:
+W:Ay Deus se sab'ora meu amado. 	% Ay God, if knows my beloved 
+W:com' eu en Vigo senneira manno. 	% how I in Vigo lonely I.flow.
+W:E vou namorada. 			% And I.go enamored
+W:
+W:Com' eu senneira estou en Vigo 	% How lonely I.am in Vigo 		
+W:e nullas gardas non ei comigo 	% and no protection I.have with.me
+W:E vou namorada. 			% And I.go enamored
+W:
+W:Com' eu senneira en Vigo manno 	% How lonely in Vigo I.flow 
+W:e nullas gardas migo non trago 	% and no protection with.me I.bring
+W:E vou namorada. 			% And I.go enamored
+W:
+W:E nullas gardas non ei comigo. 	% And no protection I.have with.me 
+W:ergas meus olhos que choran migo. 	% except my eyes weep with.me.
+W:E vou namorada. 			% And I.go enamored
+W:
+W:E nullas gardas migo non trago 	% And no protection with.me I.bring
+W:ergas meus ollos que choran ambos 	% except my eyes they.weep both.
+W:E vou namorada. 			% And I.go enamored
+% Source: sources/alijc-github-io/music/MartinCodax.abc
+
+X:3
+T: Ay ondas que eu vin 
+F:https://en.wikipedia.org/wiki/Martin_Codax
+F:https://es.wikisource.org/wiki/Archivo:Martim_Codax_Cantigas_de_Amigo.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 4/4
+L: 1/4
+Q: 1/4=100
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  E2 F2| G   A3|(B/A/G/F/) (F/G/F/E/)|(FEF) (G/A/|BAG A/G/)|
+w:Ay on-das que  eu***      vin***     ve-** er**** * * *       
+ (F/E/D/E/) F2| G A3|(B/A/G/F/) (F/G/F/E/)|(FEF) (G/A/|BAG A/G/)|
+w:se***     me sa-be- re-***     des***     di-** zer******    
+ (F/E/D/E/) (GF)|(FEF)  A|(B/A/G) (B/A/G)|(F/E/D/E/) (F/E/D/C/)|(C3D/E/)|F4||
+w:por***    que* tar-**da  meu**   a-**    mi-***     go***      sen** min.
+%
+W:Ay ondas que eu vin veer		% Ay waves, that I came to.see
+W:se me saberedes dizer 		% to.me would you.be.knowing.how to.say
+W:por que tarda meu amigo sen min.	% why delays my friend from me?
+W:
+W:Ay ondas eu u mirar 			% Ay waves, I where to.watch 
+W:se me saberedes contar 		% to.me would you.be.knowing.how to.recount 
+W:por que tarda meu amigo sen min.	% why delays my friend from me?
+% Source: sources/alijc-github-io/music/MartinCodax.abc
+
+X:4
+T:Benjy Met the Bear / Taps / My Dame Had a Lame Tame Crane
+M:4/4
+L:1/16
+K:C
+V:1
+% oboe
+%%MIDI program 68
+E3 E E3 E B6 B2| e4 d4 c4 B3 B| c4 B4 A4 G3 G| A4 G4 F4 E4||E3 E E3 E B6 B2| e4 d4 c4 B3 B| c4 B4 A4 G3 G| A4 G4 F4 E4||E3 E E3 E B6 B2| e4 d4 c4 B3 B| c4 B4 A4 G3 G| A4 G4 F4 E4||E3 E E3 E B6 B2| e4 d4 c4 B3 B| c4 B4 A4 G3 G| A4 G4 F4 E4||z16|z16|z16|z16|z16|z16||
+w:Ben-jy met the bear, the bear met Ben-jy, the bear was bul-gy, the bulge was Ben-jy.
+V:2
+% trumpet
+%%MIDI program 56
+z16|z16|z16|z8 z4 G3 G| c12 G3 c| e12 G3 c| e4 G3 c e4 G3 c| e12 c3 e| g8 e4 c4| G12 G3 G|c8 z4 G3 G| c12 G3 c| e12 G3 c| e4 G3 c e4 G3 c| e12 c3 e| g8 e4 c4| G12 G3 G|c8 z8||z16|z16|z16|z16||
+w:Day is done Gone the sun From the lake From the hill From the sky All is well Safe-ly rest God is nigh.
+V:3
+% cello
+%%MIDI program 42
+z16|z16|z16|z16|z16|z8 z4 G,4| C4 B,2C2 D4 G,4| C12 G,4| E4 D2E2 F4 E2D2| G16| G4 G2E2 F4 E2D2|E4 C4 D4 G,4| C4 B,2C2 D4 G,4| C12 G,4| C4 B,2C2 D4 G,4| C12 G,4| E4 D2E2 F4 E2D2| G16| G4 G2E2 F4 E2D2|E4 C4 D4 G,4| C4 B,2C2 D4 G,4| C12 z4||
+w:My dame had a lame tame crane. My dame had a crane that was lame. Come, Mis-tress Jane, can my dame's lame tame crane Fly and re-turn a-gain
+% Source: sources/alijc-github-io/music/quodlibets.abc
+
+X:5
+T: Cantiga 412: Virgen Madre groriosa
+N: harmony Ali Corbin
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+%%MIDI program 1       71 clarinet
+%%MIDI program 2       74 flute
+%%%MIDI program 3       72 piccolo
+V:1 clef=treble
+V:2 clef=treble
+%V:3 clef=treble
+%%leftmargin 2cm
+[V:1]  D3|(A3/2B/c/B/)|(BAG) |A3 |B3|c3|(B/A/GF)|(G/A/B/c/B/A/)|
+w:     Vir- gen***       Ma-**dre gro-ri- o-***    sa,*****
+[V:2]  (AGF)|F3|G3|(G/FE/D)|(EDE/F/)|F3|E3|D3|
+[V:1]  D3|(A3/2B/c/B/)|(BAG)|A3 |B3|c3|(B/A/GF)|(G/A/B/c/B/A/)| 
+w:     de  Deus***      fi-**lla e  e-  spo-***  sa,*****
+[V:2] (AGF)|F3|G3|(G/FE/D)|(EDE/F/)|F3|E3|D3|
+[V:1] (AGA/B/)|(AG2)|(G/FE/D)|E3 | F3|(GFG/A/)|(G/F/ED)|(EDC) |
+w:     san-***  ta,*  no-***  bre, pre- ci-***   o-***    sa,**
+[V:2]  D3|E3|F3|(EF/GA/)| (AGA/B/)|c3|B3|A3|
+[V:1]   C3|D3|E3|F3|G3|F3|(E/D/E2)|D3 | c3|d3|(c/B/AB/c/)|(d/BA/G)|
+w:    quen te lo-ar sa-be- ri-**   a  ou po- di-****     a?***
+[V:2]   c3|(BAG)|(GF/ED/)|(D/E/DC)|E3|F3|(A3/2B/c/B/)|A3| (G/F/ED)|(E/DC/D)|E3|G3|
+[V:1]  B3| G3|(B2c/d/)|d2 c  |A3|F3|(G/F/E/D/C)|
+w:     Ca Deus que**   é lum' e  di- a,****
+[V:2]  (G/F/E2)|(F/E/DE)|E3|D3|(EFG)|(A3/2B/c/B/)|G3|
+[V:1]  C3| D3  |E3|F3| G3|F3|(E/D/E2)|D3|
+w:     se-gund' a  no-ssa na- tu-**   ra
+[V:2]  c3|(BAG)|(GF/ED/)|(D/E/DC)|E3|F3|(A3/2B/c/B/)|A3|
+[V:1]   E  G2| E  G2|A3|(c/B/A3/2G/)|(FED)|(EDC)|
+w:     non vi-ra-mos sa  fi-***       gu-** ra**
+[V:2]  (B3/2B/A/G/)|(G3/2G/F/E/)|(FEF)|G3|A3|c3|
+[V:1]  C3| D3|C3 |D3 | E3| F3 |(AG2)|(G/F/ED)|(EF/ED/)|D3|
+w:     se-non por ti, que fust' al-*  ****     ****    va.
+[V:2]  (c/B/AB/c/)|(dB/AG/)|(A/cB/A)|A3|(GAG/F/)|(FD2)|E3|F3|G3|A3|
+% Source: sources/alijc-github-io/music/Virgen-Madre-groriosa.abc
+
+X:6
+T: Cantiga 412: Virgen Madre groriosa
+N: harmony Ali Corbin
+M: 3/4
+L: 1/4
+Q: 1/4=200
+K: D Dorian
+%%MIDI program 1       71 clarinet
+%%MIDI program 2       74 flute
+%%%%MIDI program 3       70 bassoon
+%%MIDI program 3       68
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble
+[V:1]  D3|(A3/2B/c/B/)|(BAG) |A3 |B3|c3|(B/A/GF)|(G/A/B/c/B/A/)|
+w:    Vir- gen***       Ma-**dre gro-ri- o-***    sa,*****
+[V:2]  (AG/FE/)|D3|E3|(FG/AF/)|(E3/2F/G/A/)|A3|B3|d3|
+[V:3]  d3|c3|B3|A3|G3|F3|E3|D3|
+%
+[V:1]  D3|(A3/2B/c/B/)|(BAG)|A3 |B3|c3|(B/A/GF)|(G/A/B/c/B/A/)| 
+w:     de  Deus***      fi-**lla e  e-  spo-***  sa,*****
+[V:2]  d3|c3|B3|A3|G3|F3|E3|D3|
+[V:3]  (AG/FE/)|D3|E3|(FG/AF/)|(E3/2F/G/A/)|A3|B3|d3|
+[V:1] (AGA/B/)|(AG2)|(G/FE/D)|E3 | F3|(GFG/A/)|(G/F/ED)|(EDC) |
+w:     san-***  ta,*  no-***  bre, pre- ci-***   o-***    sa,**
+[V:2]  D3|(E3/2F/G/A/)|A3|B3|(c3/2d/e/d/)|c3|d3|c3|
+[V:3]  d3|(c2B)|(AG3/2F/)|(F/ED/C)|C3|C3|(D/E/F/G/A/B/)|A3|
+[V:1]   C3 |D3|E3|F3|G3|F3|(E/D/E2)|D3 |
+w:     quen te lo-ar sa-be- ri-**   a	
+[V:2]   (c/B/A>G)|(A3/2B/c/B/)|(B3/2c/d/c/)|c3|d3|c3|B3|(BAG)|
+[V:3]   G3|F3|E3|C3|(D/EF/G)|(AB/cd/)|e3|d3|
+[V:1]  c3|d3|(c/B/AB/c/)|(d/BA/G)|
+w:     ou po- di-****     a?***   
+[V:2]  (A/GF/E)|D3|A3|B3|
+[V:3]  c3|(BAG)|F3|E3|
+[V:1]  B3| G3|(B2c/d/)|d2 c  |A3|F3|(G/F/E/D/C)|
+w:     Ca Deus que**   é lum' e  di- a,****	 
+[V:2]  B3|d3|e3| A3|(B/AG/F)|(G/FE/D)|C3|
+[V:3] (ED/EF/)|(G/F/ED)|(EDC)|D3|E3|F3|(GA/B/c)|
+[V:1]  C3| D3  |E3|F3| G3|F3|(E/D/E2)|D3|
+w:     se-gund' a  no-ssa na- tu-**   ra
+[V:2] (G3/2A/B/c/)|(dc/B/A)|(B3/2c/d/c/)|c3|(dcB)|(cBA)|B3|d3|
+[V:3]   c3|A3|G3|(FG/FE/)|D3|(CD/EF/)|(G3/2A/B/A/)|A3|
+[V:1]   E  G2| E  G2|A3|(c/B/A3/2G/)|(FED)|(EDC)|
+w:     non vi-ra-mos sa  fi-***       gu-** ra**
+[V:2]  (c/BA/G)|(A/GF/E)|D3|C3|D3|(EFG)|
+[V:3]  (G2E)|(C2E)|(FG/AB/)|c3|A3|c3|
+[V:1]  C3| D3|C3 |D3 | E3| F3 |(AG2)|(G/F/ED)|(EF/ED/)|D3|
+w:     se-non por ti, que fust' al-*  ****     ****    va.
+[V:2]  G3|(FG/AB/)|c3|(cB/cd/)|e3|c3|(c3/2d/e/d/)|c2d|e3|d3|
+[V:3]  (d/cB/A)|A3|(G3/2A/B/A/)|A3|(B2A)|(G/FE/D)|C3|(DEF/G/)|(A2B)|A3|
+% Source: sources/alijc-github-io/music/Virgen-Madre-groriosa.abc
+
+X:7
+T:He's got the whole world/She'll be coming round the mountain/When the saints
+M:4/4
+L:1/8
+Q:1/4=100
+K:Cmaj
+V:1
+% cello
+%%MIDI program 42
+ G G E | G4 (E2C2)| G2 A2 G G G E| F2 F2 (D2B,2)| G2 A2 G G G E| G4 (E2C2)|G2 A2 G G G E| G2 G2 F2 D2 |C4 z
+w:He's got the whole world* in His hand, He's got the whole wide world* in His hand, He's got the whole world* in His hand, He's got the whole world in His hand
+ G G E | G4 (E2C2)| G2 A2 G G G E| F2 F2 (D2B,2)| G2 A2 G G G E| G4 (E2C2)|G2 A2 G G G E| G2 G2 F2 D2 |C8 ||
+V:2
+% tuba
+%%MIDI program 58
+zzzzzzzzz GA |cc cc AG EG|c6 cd|ee ee gg ge|d6 gf|ee ee dc3|cc cc ff3|ee ee dd dd|c6
+w:She'll be co-ming round the moun-tain when she comes, She'll be co-ming round the moun-tain when she comes, She'll be co-ming round the moun-tain, co-ming round the moun-tain, co-ming round the moun-tain when she comes
+GA |cc cc AG EG|c6 cd|ee ee gg ge|d6 gf|ee ee dc3|cc cc ff3|ee ee dd dd|c8 ||
+V:3
+% Saxophone
+%%MIDI program 65
+zzzzzzzz zzz|z8|z8|z8|z8|z8|z8|z8|z4 z
+ C E F|G4 z C E F|G4 z C E F|G2 E2 C2 E2|D4 z E E D|C3C E2 G G| GF3 z2 E F| G2 E2 D2 D2| C8||
+w:Oh when the saints, go mar-ching in,  Oh when the saints go mar-ching in, Oh Lord I want to be in that num-ber, when the saints go mar-ching in.
+% Source: sources/alijc-github-io/music/quodlibets.abc
+
+X:8
+T:I Will Bow and be Simple/This Train/Whiskey Johnny
+M:4/4
+L:1/16
+K:Cmaj
+V:1
+% cello
+%%MIDI program 42
+G,4 A,4|C8  C4 C4|A,4 G,4  G,4 A,4|C8  C4 E4|G8  E4 G4|A6 G2- G4 E4|E4 C4 C4 C4|A,6 G,2 G,4(A,2C2)|C8  G,4 A,4|C6  C2 C4 C4|A,4 G,4  G,4 A,4|C6 C2 C4 E4|G8  E4 G4|A6 G2 G4 E4|E4 C4  C4 C4|A,6 G,2 G,4(A,2C2)|C8 G,4 A,4|C8  C4 C4|A,4 G,4  G,4 A,4|C8  C4 E4|G8  E4 G4|A6 G2- G4 E4|E4 C4 C4 C4|A,6 G,2 G,4(A,2C2)|C8 z8||
+w:I will bow and be sim-ple, I will bow and be free, I will bow and* be hum-ble, Yea, bow like the wil-low* tree. I will bow, this is the to-ken, I will wear the ea-sy yoke, I will bow and will be bro-ken, Yea, I'll fall u-pon the* rock. I will bow and be sim-ple, I will bow and be free, I will bow and* be hum-ble, Yea, bow like the wil-low* tree. 
+V:2
+% barisax
+%%MIDI program 67
+z8|z16|z16|z16|z16|z16|z16||C2 C4 E2 D3 C A,2G,2| C2 C2- C8 z4| G2 G4 c2 A3 G E2G2| G2 G2- G8 z4| G2 G4 c2 A3 G E2C2|D2D2 CC CC EE CC A,2G,2| C2 C4 E2 D3 C A,2G,2| C2 C2- C8 z4|C2 C4 E2 D3 C A,2G,2| C2 C2- C8 z4| G2 G4 c2 A3 G E2G2| G2 G2- G8 z4| G2 G4 c2 A3 G E2C2|D2D2 CC CC EE CC A,2G,2| C2 C4 E2 D3 C A,2G,2| C2 C2- C8 z4|z16|z16|
+w:This train is bound for glo-ry, this train,* This train is bound for glo-ry, this train,* This train is bound for glo-ry, Don't ride no-thin' but the right-eous an' the ho-ly This train is bound for glo-ry, this train* This train is bound for glo-ry, this train,* This train is bound for glo-ry, this train,* This train is bound for glo-ry, Don't ride no-thin' but the right-eous an' the ho-ly This train is bound for glo-ry, this train*
+V:3
+% bassoon
+%%MIDI program 70
+z8|z16|z16|z16|z16|z16|z16|z16|z16|z16|z16|z16|z16|C4 E4 C4 G,4| C4 E4 C8| C4 E12| C4 E8 G4| F6 E2 D4 C4| B,4 D4 G,8| C4 E4 G6 G2|E4 C12|z16|z16|z16|z16|
+w:Whis-key is the life of man Whis-key, John-ny! Oh, I'll drink whis-key while I can Whis-key for my John-ny!
+% Source: sources/alijc-github-io/music/quodlibets.abc
+
+X:9
+T: Mandad'ei comigo
+F:https://en.wikipedia.org/wiki/Martin_Codax
+F:https://es.wikisource.org/wiki/Archivo:Martim_Codax_Cantigas_de_Amigo.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 3/4
+L: 1/4
+Q: 1/4=160
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+ (BG2)|(AB2)|(Bd2)|(cBA)|(BA>G)|G3|
+w:Man-* dad'* ei*   co-** mi-** go
+ (AG2)|(AB2)|(Bd2)|(cBA)|G3|(GF2)|
+w:ca*   ven* meu*   a-** mi- go.*
+ (GA2)|B3|(AG2)|(AGF)|(GA/B/c)|(BAB)|G3||
+w:E*   i- rei*  madr** a***     vi-**go. 
+%
+W:Mandad' ei comigo 		% Message I.have with.me
+W:ca ven meu amigo. 		% because comes my friend.
+W:E irei madr' a Vigo. 		% And I.will.go, mother, to Vigo. 
+W:
+W:Comig' ei mandado 		% With.me I.have message
+W:ca ven meu amado. 		% because comes my beloved 
+W:E irei madr' a Vigo. 		% And I.will.go, mother, to Vigo.
+W:
+W:Ca ven meu amigo		% Because comes my friend 
+W:e ven san' e vivo. 		% and comes safe and alive.
+W:E irei madr' a Vigo. 		% And I.will.go, mother, to Vigo.
+W:
+W:Ca ven meu amado 		% Because comes my beloved
+W:e ven viv' e sano. 		% and comes alive and safe.
+W:E irei madr' a Vigo. 		% And I.will.go, mother, to Vigo.
+W:
+W:Ca ven san' e vivo 		% Because he.comes safe and alive
+W:e del rei amigo. 		% and of.the king friend.
+W:E irei madr' a Vigo. 		% And I.will.go, mother, to Vigo.
+W:
+W:Ca ven vivo e sano 		% Because he.comes alive and safe
+W:e del rei privado. 		% and of.the king familiar.
+W:E irei madr' a Vigo. 		% And I.will.go, mother, to Vigo.
+% Source: sources/alijc-github-io/music/MartinCodax.abc
+
+X:10
+T: Mia yrmana fremosa
+F:https://en.wikipedia.org/wiki/Martin_Codax
+F:https://es.wikisource.org/wiki/Archivo:Martim_Codax_Cantigas_de_Amigo.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 4/4
+L: 1/4
+Q: 1/4=160
+K: F Ionian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+  F2 F G |A2  A  A |B2 A2|(G/F/) E  F > F|(AGA2)|(GF) z2|
+w:Mi-a yr-ma-na fre-mo-sa  tre-* i-des co- mi-** go*
+  F2 F G| A2  A A |B2 A2|(G/F/) E   F > G|A4|(AG) z2|
+w:a la y-gre-ja de Vi-g'u é *   o  mar sa-li- do*   
+M:3/4
+  F2 (F/E/)|(DFE)|(DC2)|(DF2)|A2 (G/F/)|F3||
+w:E   mi-*   ra-**  re-* mos* las  on-* das.
+%
+W:Mia yrmana fremosa, treides comigo. 	% My beautiful sister, come with.me
+W:a la ygreja de Vig', u é o mar salido % to the church of Vigo where the sea is departed 
+W:E miraremos las ondas.		% and we.will.watch the waves.
+W:
+W:Mia yrmana fremosa, treides de grado. % My beautiful sister come willingly
+W:a la ygreja de Vig', u é o mar levado.% to the church of Vigo where the sea is arisen 
+W:E miraremos las ondas. 		% and we.will.watch the waves.
+W:
+W:A la ygreja de Vig', u é o mar levado.% To the church of Vigo where the sea is arisen 
+W:e verra y, mia madre, o meu amado. 	% and I.might.see there, my mother, my own beloved.
+W:E miraremos las ondas. 		% and we.will.watch the waves.
+W:
+W:A la ygreja de Vig', u é o mar salido.% To the church of Vigo where the sea is departed
+W:e verra y, mia madre, o meu amigo. 	% and I.might.see there, my mother, my own friend 
+W:E miraremos las ondas. 		% and we.will.watch the waves.
+W:
+% Source: sources/alijc-github-io/music/MartinCodax.abc
+
+X:11
+T: Ondas do mar de Vigo
+F:https://en.wikipedia.org/wiki/Martin_Codax
+F:https://es.wikisource.org/wiki/Archivo:Martim_Codax_Cantigas_de_Amigo.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 3/4
+L: 1/4
+Q: 1/4=120
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+ (G/A/) c2|(B/c/dc)|(cBA)|c3|(B/c/dc/B/|ABA)|(AG2)|
+w:On-* das  do***   mar** de  vi-*** *  ***   go*
+   A  c2|(B/c/dc)|(cBA)|c3|(B/c/dc|d/c/B/A/B/A/)|(A G2)|
+w:se vis- tes***  meu** a-  mi-*** * * * *  * *   go.*
+ (G/A/) (B/A/A/G/)|(GF2)|(G/A/) c2|(B/c/)(dc)|(d/c/c/B/A|B2A)|(AG2)||
+w:E*     ay***     Deus*  se*  ver- ra*   **   ce-** * * * *   do.*
+%
+W:Ondas do mar de Vigo		% Waves of.the sea of Vigo,
+W:se vistes meu amigo?		% saw.you my friend?
+W:E ay Deus se verra cedo. 	% And, ay God, if I could see him soon.
+W:
+W:Ondas do mar levado 		% Waves of.the sea arisen,
+W:se vistes meu amado? 		% saw.you my beloved?
+W:E ay Deus se verra cedo. 	% And, ay God, if I could see him soon.
+W:
+W:Se vistes meu amigo 		% Saw.you my friend,
+W:o porque eu sospiro?		% him for whom I sigh?
+W:E ay Deus se verra cedo. 	% And, ay God, if I could see him soon.
+W:
+W:Se vistes meu amado 		% Saw.you my beloved,
+W:porque ei gran coidado?	% for whom I.have great care?
+W:E ay deus se verra cedo.	% And, ay God, if I could see him soon.
+% Source: sources/alijc-github-io/music/MartinCodax.abc
+
+X:12
+T: Quantas sabedes amar amigo.
+F:https://en.wikipedia.org/wiki/Martin_Codax
+F:https://es.wikisource.org/wiki/Archivo:Martim_Codax_Cantigas_de_Amigo.jpg
+Z:Ali Corbin <ali.corbin:gmail.com>
+N: 
+M: 3/4
+L: 1/4
+Q: 1/4=120
+K: G Mixolydian
+V:1
+%Staff 1
+%%MIDI program 74
+%
+    A | c  c2|c2  B |A  c2|(B/c/) (B/A/A/G/)| G2 
+w:Quan-tas sa-be-des a-mar  a-*    mi-***     go. 
+    A | c  c2|(d/c/c/B/) B|A   c2|(B/c/) (B/A/A/G/)|G2 
+w:Trei-des co- mig'***   a-lo mar  de*    vi-***    go. 		
+  G|(B/A/A/G/) (G/F/)| G (A/B/) c |(B/c/) (B/A/A/G/)|G3 ||
+w:E  ban-***    nar*  nos e-*  mos nas*    on-***   das. 		
+%
+W:Quantas sabedes amar amigo. 		% How.much you.know to.love friend.
+W:Treides comig' a lo mar de Vigo. 	% come with.me to the sea of Vigo 
+W:E bannar nos emos nas ondas. 		% and to.bathe us in.them in.the waves 
+W:
+W:Quantas sabedes d'amor amado. 	% How.much you.know of love beloved
+W:treides comig' alo mar levado. 	% come with.me to.the sea arisen 
+W:e bannar nos emos nas ondas. 		% and to.bathe us in.them in.the waves 
+W:
+W:Treides comig' a lo mar de Vigo. 	% Come with.me to.the sea of Vigo 
+W:e veeremo-lo meu amigo.		% and we.will.see my own friend
+W:e bannar nos emos nas ondas.		% and to.bathe us in.them in.the waves 
+W:
+W:Treides comig' a lo mar levado. 	% Come with.me to the sea arisen
+W:e veeremo-lo meu amado		% and we.will.see my own beloved 
+W:e bannar nos emos nas ondas.		% and to.bathe us in.them in.the waves 
+W:
+W:
+W:
+% Source: sources/alijc-github-io/music/MartinCodax.abc
+
+X:13
+T:Rose, Rose, Rose / Buttermilk Hill / Black Fox
+M:4/4
+L:1/16
+K:Cmaj
+V:1
+% oboe
+%%MIDI program 68
+A8 G8|A8 E8| A4 A4 B4B4|c4d4 B8| e8 d4e4|c4d4 e8| c8 B8|A8 E8||A8 G8|A8 E8| A4 A4 B4B4|c4d4 B8| e8 d4e4|c4d4 e8| c8 B8|A8 E8||
+w:Rose, Rose, Rose, Rose Will I ne-ver see thee wed?  I'll mar-ry at thy will, At thy will, Sir.
+V:2
+% bassoon
+%%MIDI program 70
+z16|z16|c4 c4 B4 B4| A2A2 A4 E8| G6 E2 G6 E2| G2G2 G4 C6 D2| E4 E4 E4(D2C2)|E4 A4 c8| c2c2 c4 B4 A2G2| A8 A8||c4 c4 B4 B4| A2A2 A4 E8| G6 E2 G6 E2| G2G2 G4 C6 D2| E4 E4 E4(D2C2)|E4 A4 c8| c2c2 c4 B4 A2G2| A8 A8||z16|z16|
+w:Here I sit on But-ter-milk Hill Who can blame me, cry-in' my fill And ev'-ry tear would* turn a mill, John-ny has gone for a sol-dier.
+V:3
+% clarinet
+%%MIDI program 71
+z16|z16|z16|z8 z4 E4| E4 A4 (G2E2) D4| E4 E8 D4| E4 A4 (G2E2) D4| E12 D4| E4 A4 G4 E2D2| E4 (C2B,2) A,4 A,2B,2|C4 C2C2 (D2C2) B,4| A,12  E4| E4 A4 (G2E2) D4| E4 E8 D4| E4 A4 (G2E2) D4| E12 D4| E4 A4 G4 E2D2| E4 (C2B,2) A,4 A,2B,2|C4 C2C2 (D2C2) B,4| A,12 z4||
+w:As we were out* a hun-ting One mor-ning in* the spring Both hounds and hor-ses were run-ning* well Made the hills and the val-*leys ring
+% Source: sources/alijc-github-io/music/quodlibets.abc

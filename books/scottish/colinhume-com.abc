@@ -1,0 +1,361 @@
+% Colin Hume's tunes: Scottish & Cape Breton tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T:The Bonnie Lass of Bon Accord
+T:The Belle of Bon Accord
+C:James Scott Skinner
+N:John Drewry also specified this for "The Belle of Bon Accord" but most bands don't use it.
+M:4/4
+R:Strathspey
+L:1/8
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/4=120
+%%MIDI program 22
+%%MIDI bassprog 33
+K:A
+P:A
+|: "E7"E2 | "A"A3B "E7"c3B | "A"A2 A,2 "/"C2 E2 | "A"A>G A<f "F#m"e>c B<A | "Bm"B4- "E7"B2 c>B |
+"A"A3B "E7"c3B | "A"A2 C2 "A7"E2 =G2 | "D"F>D F<A "E7"G>E G<B | "A"A2- "D"A2- "A"A2 :|
+P:B
+(3efg | "A"a3c "D"d2 f2 | "A"e2A2 "D"a2 gf | "A"e2 A2 "F#m"f>e dc | "Bm"B4- "E7"B2 (3efg |
+"A"a3c "D"d2 f2 | "A"e2 A2 "D"a2 "A7"=G2 | "D"F>D F<A "E7"G>E G<B | "A"A2- "D"A2- "A"A2 ||
+(3efg | "A"a3c "D"d2 f2 | "A"e2A2 "D"a2 gf | "A"e2 A2 "F#7"f>e dc | "B7"B4- "E7"B2c2 |
+"A"A,CEA "E7/G#"c3B | "F#m"A2 C2 "A7/E"E2 =G2 | "D"F>D F<A "E7"G>E G<B | "A"A2- "D"A2- "A"A2 |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:2
+T:Bonnie Lossie
+C:J Scott Skinner
+L:1/8
+M:4/4
+R:Strathspey
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/4=112
+%%MIDI program 22
+%%MIDI bassprog 33
+K:F
+P:A
+[| c | "F"a>g f>e "Bb"e<d d<f | "F"c<A G>F "C"G2-G>c | "F"a>g f>c "Bb"ed df | "F"c<a "C7"g>f "F"f2 fc |
+"F"a>g f>e "Bb"e<d d<f | "F"c<A "G7"G>F "C"G2-G>c | "F"a>g f>c "Bb"ed df | "F"c<a "C7"g>f "F"f2 fB |]
+P:B
+[| "F7"A>B c>A "Bb"B2 B<d | "F"c<A G>F "C7"G2 G>B | "F"A>B "F7"c>A "Bb"B>c d>B | "F"c<f "C7"A>G "F"F2-F>B |
+"F7"A>B c>A "Bb"B2 B<d | "F"c<A "G7"G>F "C7"G2 G>B | "F"A/B/c "F7"F/G/A "Bb"(3Bc^c "G7"(3dgf | "C7"(3edc (3BAG "F"F2 F |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:3
+T:Comin' thro' the Rye
+R:Strathspey
+B:W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.44 #1
+B:http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+C:A: Traditional Scottish.  B: Colin Hume, 2018.
+M:4/4
+L:1/8
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+%%MIDI program 21     Accordion
+%%MIDI chordprog 21   Accordion
+%%MIDI bassprog 33    Electric Bass (finger)
+Q:1/4=118
+K:G
+%%center Play the tune 6 times for 3 times through the dance.
+P:A
+"G"D>D D<B "Am"A>G A<B | "D7"D<D E>D "G"G4 | "G"D>D d<B "Am"A>G A<B | "D7"D>D E<D "G"G4 |
+"G"d>B G<B "D7"A>G A<B | "G7"d>B (3GBd "C"e3e | "G"d>B "Am"c>A "G/B"B>G "C"A>B | "D7"D<D E>D "G"G4 |
+P:B
+"D"F<A A>B "D7"A>F E<D | "G"G<B B>c "G7"B3B | "C"c>B ce "G"dB AG | "A7"E<A A>B"D"A4 |
+"D"F<A A>B "D7"A>F E<D | "G"G<B B>c "G7"B3d | "C"e>c "G/B"d>B "Am"c>A "G"B>d | "D7"D<D E>D "G"G4 |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:4
+T:Comin' thro' the Rye (3x32)
+C:A: Traditional Scottish.  B: Colin Hume, 2018.
+M:4/4
+R:Strathspey
+L:1/8
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+%%MIDI program 21     Accordion
+%%MIDI chordprog 21   Accordion
+%%MIDI bassprog 33    Electric Bass (finger)
+Q:1/4=118
+K:G treble
+%%center To create a recording of 3 times through the dance with starting and ending chords.
+[G,B,-D-G-]2 [D,,B,-D-G-]2 [G,,,G,,B,DG]2 z2 |: "G"D>D D<B "Am"A>G A<B | "D7"D<D E>D "G"G4 | "G"D>D d<B "Am"A>G A<B | "D7"D>D E<D "G"G4 |
+"G"d>B G<B "D7"A>G A<B | "G7"d>B (3GBd "C"e3e | "G"d>B "Am"c>A "G/B"B>G "C"A>B | "D7"D<D E>D "G"G4 |
+"D"F<A A>B "D7"A>F E<D | "G"G<B B>c "G7"B3B | "C"c>B ce "G"dB AG | "A7"E<A A>B"D"A4 |
+"D"F<A A>B "D7"A>F E<D | "G"G<B B>c "G7"B3d | "C"e>c "G/B"d>B "Am"c>A "G"B>d |1 "D7"D<D E>D "G"G4 :| "D7"D<D E>D "G"G2-"A7"G2 |
+%%MIDI program 71     Clarinet
+%%MIDI chordprog 24   Acoustic Guitar (nylon)
+%%MIDI bassprog 32    Acoustic Bass
+K:D
+|: "D"A,>A, A,<F "Em"E>D E<F | "A7"A,<A, B,>A, "D"D4 | "D"A,>A, A<F "Em"E>D E<F | "A7"A,>A, B,<A, "D"D4 |
+"D"A>F D<F "A7"E>D E<F | "D7"A>F (3DFA "G"B3B | "D"A>F "Em"G>E "D/F#"F>D "G"E>F | "A7"A,<A, B,>A, "D"D4 |
+"A"C<E E>F "A7"E>C B,<A, | "D"D<F F>G "D7"F3F | "G"G>F GB "D"AF ED | "E7"B,<E E>F"A"E4 |
+"A"C<E E>F "A7"E>C B,<A, | "D"D<F F>G "D7"F3A | "G"B>G "D/F#"A>F "Em"G>E "D"F>A |1 "A7"A,<A, B,>A, "D"D4 :|2 "A7"A,<A, B,>A, "D7"D4 |
+%%MIDI program 21     Accordion
+%%MIDI chordprog 21   Accordion
+%%MIDI bassprog 33    Electric Bass (finger)
+K:G
+|: "G"D>D D<B "Am"A>G A<B | "D7"D<D E>D "G"G4 | "G"D>D d<B "Am"A>G A<B | "D7"D>D E<D "G"G4 |
+"G"d>B G<B "D7"A>G A<B | "G7"d>B (3GBd "C"e3e | "G"d>B "Am"c>A "G/B"B>G "C"A>B | "D7"D<D E>D "G"G4 |
+"D"F<A A>B "D7"A>F E<D | "G"G<B B>c "G7"B3B | "C"c>B ce "G"dB AG | "A7"E<A A>B"D"A4 |
+"D"F<A A>B "D7"A>F E<D | "G"G<B B>c "G7"B3d | "C"e>c "G/B"d>B "Am"c>A "G"B>d |1 "D7"D<D E>D "G"G4 :|2 "D7"D<D E>D [I:MIDI=gchordoff] [G,,G,B,DG] z3 | z [G,,G,B,DG]6 z |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:5
+T:The Duchess Tree
+C:J. Scott Skinner
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/4=112
+%%MIDI chordname dim 0 3 6 9
+M:4/4
+R:Strathspey
+L:1/8
+K:A
+A>B | "A"c2 c2 "A7"c2 Bc | "D"d2 F2 "(Bm)"F2 "(E7)"G>F | "A"E2 A2 e2 c2 | "E7"(c2B4) A>B |
+"A"c2 c2 "A7"c2 Bc | "D"d2 F2 "(Bm)"F2 "(E7)"G>F | "A"EF GA "E7"c2 B2 | "A"x2 "(D)"x2 "(A)"x2 "A7"x2 & A6 B>c |
+| "D"d2 d2 d2 A>B | "A"c2 c2 "A"c2 "(D)"A>F | "A"E2 A2 "F#m"e2 c2 | "B7"(c2B2- "E7"B2) A>B |
+"A"c2 c2 "A7"c2 B>c | "D"d2 F2 "Adim/D#"F2 GF | "A/E"EF GA "E7"c2 B2 | "A"A6 |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:6
+T:The Flower of the Quern
+C:J. Scott Skinner
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/4=120
+M:4/4
+R:Strathspey
+L:1/4
+K:G
+D | "G"GG "D"FE/D/ | "C"c"(D7)"c "G"B"(D)"d | "G"d"(D/F#)"B/A/ "Em"GA/B/ | "A7"x2 "D7"x2 & A3 D |\
+"G"GG "D"FE/D/ | "C"c"(D7)"c "G"B"E7/G#"d | "Am"d/c/ E/A/ "D"GF | "G"x"(C)"x "G"x"(G7)"x & G3 G ||
+"C"cc/>c/ ce/>e/ | "G"d d/>B/ dg/>d/ | "G"dB/>A/ "Em"GA/B/ | "A7"x2 "D7"x2 & A3 D |\
+"G"G G "D"F E/D/ | "C"c "D7"c "G"B"E7/G#"d | "Am"d/c/ E/A/ "D"G/F/ B/>A/ | "G"G3 |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:7
+T:The Glasgow Highlanders
+C:Malcolm B. McCallum
+R:Strathspey
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/4=130
+M:4/4
+L:1/8
+%%MIDI gchord fzbzfzbz
+%%MIDI chordprog 21     % Accordion
+%%MIDI bassprog 21      % Accordion
+%%MIDI program 21       % Accordion
+K:D
+P:A
+|: "D"D>EF>G A2 A2 | "/"A>cd>e f2 a2 | "Em"g>e"D"f>d "A/C#"e>c"Bm"d>B | "A7"A>BA>F E>GF>E |
+"D"D>EF>G A2 A2 | "/"A>cd>e f2 a2 | "Em"g>e"D"f>d "A/C#"e2 "/"a2 | "A7"(3 AAA (B>c) "D"d4 :|
+P:B
+|: "D"x2 "A/C#"x2 "Bm"x2 "A7"x2 & a2 g2 f3 e | "Bm"x2"/A"x2 "G"x2"/F#"x2 & d>fe>d B4 | "Em"g>e"D/F#"f>d "Em/G"e2 "E7/G#"d2 | "A"x2 "E7"x2 "A"x2"A7"x2 & ((3 cfe) ((3 dcB) A4 |
+"D"x2 "A/C#"x2 "Bm"x2 "A7"x2 & a2 g2 f3 e | "Bm"x2"/A"x2 "G"x2"/F#"x2 & d>fe>d B4 | "Em"g>e"D"f>d "A/C#"e2 a2 | "A7"(3 AAA (B>c) "D"d4 :|
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:8
+T:Kinfauns Castle
+T:Lady Ann Hope
+C:Kerr's First
+Z:Terry Traub 10-26-98
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/4=120
+M:4/4
+R:Strathspey
+L:1/8
+K:G
+|: D | "G"G<G G>B "Am"A>G E2 | "C"c<c c>e "G"d>c B<g | "G"B<B "(Em)"B>G "Am"c>A "G"B>G | "Am"E>A "D7"G/F/E/D/ "G"{D}G2- G :|
+d | "G"g2 d>g B>g d>f | "G"g<g b>g "C"e2 e>f | "G"(3gab "D"(3agf "C"(3efg "G"(3dcB | "C"(3cde "D"(3def "G"(3ged "D"(3cBA |
+"G"G<gd>g B>g d>f | "Em"g<g b>g "C"e2 e>f | "G"(3gab "D"(3agf "Em"(3gfe "Bm"(3dcB | "Am"(3cde "D"(3def "G"g2 g<b |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:9
+T:Les Fleurs Fran\ccaises
+C:John Ritchie
+L:1/8
+M:4/4
+R:Strathspey
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/4=110
+K:D
+P:A
+|: "A7"A2 | "D"D>D F>G "/"A>A A<d | "Bm"D>D F>A "A7"E2- E3/F/4E/4 | "D"D>D F>G "/"A>F d2 | "Bm"(3fed "A7"(3ABc "D"d2 :|
+P:B
+|: "A7"e2 | "D"f>e d>a "A7"e>d (3cBA | "Bm"f>e (3dfa "A7"e2- e>e | "D"(3fed "A7/C#"(3edc "Bm"(3dcB "A7"A2 | "G"B<d "A7"c>e "D"d2 :|
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:10
+T:Lochnagar Strathspey
+C:Traditional Canadian/Scottish
+B:Kerr's Violin #2
+Z:John Chambers <jc:trillian.mit.edu>
+R:Strathspey
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/4=120
+M:4/4
+L:1/8
+K:D
+|: A>F | "D"D2 D>F A2 A>B | "D"d>e f>e e<d d>B | "D"A>B d>B "Bm"A<F F>D |1 "Em"E>D E<F "A7"E2 :|2 "A7"E>D E<F "D"D2 |]
+yA2 | "D"d2 f>e e<d d>A | "G"B2 d>B "D"B<A F>G | "D"A<F E>D "Bm"D<d d>B | "Em"A<F F>D "A7"E2 f>g |
+"D"a>g f>e f<d d>e | "G"f>e d>B "A7"A2 F>G | "D"A2 B>A "Bm"A2 a>g | "Em"f2 "A7"e>d "D"d2 |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:11
+T:MacDonald of the Isles
+T:The Smith's a Gallant Fireman (Carrick's Rant)
+C:Traditional Scottish
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/2=56
+M:4/4
+R:Strathspey
+L:1/8
+K:D
+[| "D"~D2 D>F {F}A2 A>B | A>B d>A F2 D2 | "Em"~E2 E>G {G}B2 B>f | g>f e>d "A7"B>A B/c/d |
+| "D"~D2 D>F {F}A2 A>B | A>B d>A F2 D>F | "G"G>B G<B "D"F>A F<A | "Em"E>F G>A "A7"B>A B>c ||
+|| "D"d2 f>e e<d d>B | A>B d>A F2 D2 | "Em"e2 g>f e<e e>f | "G"g>f e>d "A7"B>A B>c |
+| "D"d2 f>e e<d d>B | A>B d>A F2 D2 | "G"G>B G<B "D"F>A F<A | "Em"E>F G>A "A7"B>A B/c/d |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:12
+T:The Marquis of Huntly's Highlanders
+C:Traditional Scottish
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/4=120
+M:4/4
+R:Strathspey
+L:1/8
+K:A
+P:A
+f | "A"e>A c/B/A e>A c>A | "G"B<=GG>B d<GG>B | "A"e>A c/B/A e>A c>A | "Em"B>=G "G"E>d "A"c<AA>d |
+"A"e>A c/B/A e>A c>A | "G"B<=GG>B d<GG>B | "A"e>A c/B/A e>A c>A | "Em"B>=G "G"E>d "A"c<AA> ||
+P:B
+B | "A"A<ag>a "D"f>a"A"e>d | "G"B<=gd>=c B<=GG>B | "A"A<ag>a e>A c>A | "D"f<a"E7"e>d "A"c<AA>B |
+"A"A<ag>a "D"f>a"A"e>d | "G"B<=gd>=c B<=GG>B | "A"c>A e>A a>A e>A | "G"d>B =G>B "A"c<AA |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:13
+T:The Marquis of Huntly's Strathspey
+C:William Marshall
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+N:Originally in Gm (or G Dorian)
+Q:1/4=120
+M:4/4
+R:Strathspey
+L:1/8
+K:Em
+P:A
+|: D | "Em"B,<E {F}E>D B,<E E>F | "D"D>E F>G A/G/F/E/ D<F | "Em"B,<E {F}E>D B,<E E>e | "D"d>A "B7"B/A/G/F/ "Em"G<E E :|
+P:B
+B | "Em"e>f g>e B<e g>e | "D"f/e/d/B/ A>c d<A f>d | "Em"e>f g>e B<e g>e | "D"g/f/e/d/ "B7"B>^d "Em"~e3 |]
+B | "Em"e>f g>e "B7"f<^d "Em"e>c | "D"d>B A<d F<D A>D | "Em"B,<E {F}E>D B,<E E>e | "D"d>A "B7"B/A/G/F/ "Em"G<E E |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:14
+T:McGinty's Meal and Ale
+T:Butterscotch and Honey
+C:Jean Attwood leaflet
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/2=56
+M:4/4
+R:Strathspey
+L:1/16
+K:D
+P:A
+|: A3F | "D"D4 D3F A4 A3d | "G"B3A Bd3 "D"A4 F4 | "G"G4 G3G "D"F4 F3D | "E7"E3F E3D "A7"CE3 A3F |
+| "D"D4 D3F A4 A3d | "G"B3A Bd3 "D"A4 A3F | "Em"G4 G3G "D"F4 A3F | "Bm"D3D "A7"E3C "D"D4 :|
+P:B
+|: A2Bc | "D"d3d d3d "D"f3f "A/F#"e3e | "Bm"d3d "F#m/A"c3c "G"B3B "D/F#"A3A | "Em"G4 G3E "D"F4 F3D | "E7"E3F E3D "A7"CE3 A4 |
+| "D"D4 D3F A4 A3d | "G"B3A Bd3 "D"A3B A3F | "Em"G3F G3A "D"F4 A3F | "G"D3D "A7"E3C "D"D4 :|
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:15
+T:Mr Felton's Retirement
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+C:Colin Hume, 2012
+L:1/8
+M:3/4
+R:Triple-time Strathspey
+Q:1/4=110
+K:G
+%%MIDI gchord bfb
+%%MIDI beat 80 80 80
+%%MIDI program 73       % Flute
+%%center The A-music is not a waltz but a Triple-time Strathspey with Scotch snaps!
+P:A
+|: B/d3/ d3D & [I:MIDI=chordprog 45] [I:MIDI=bassprog 45]"G"x2 "/"x2 "/"x2 | E/G3/ G3E & "C"x2 "/"x2 "Am"x2 | D/G3/ G3A & "G"x2 "/"x2 "Em"x2 | B2 A3B & "D"x2 "/"x2 "G7"x2 |
+c3/d/ ec BA & "C"x2 "/"x2 "Am"x2 | G3/A/ BG ED & "G/B"x2 "/"x2 "Em"x2 | E/G3/ G2 A3/F/ & "Am"x2 "/"x2 "D7"x2 |1 G6 & "G"x2 "/"x2 "/"x2 :|2 G4-G [I:MIDI=program 71] F/G/ & "G"x2 "/"x2 "/"x2 [I:MIDI=gchordoff] |]
+P:B
+K:D
+M:6/8
+R:Jig
+Q:3/8=110
+%%MIDI chordprog 24   Acoustic Guitar (nylon)
+%%MIDI bassprog 32    Acoustic Bass
+%%MIDI chordvol 40
+"D"A2A "/"dAd | "A7"eAe "D"fed | "G"Lg2 Lg "/"fed | "A"Le2 Le "/"dcB |\
+"D"A2A "/"dAd | "A7"eAe "Bm/G#"fed | "D/A"La2 La "A7"gfe | "D"d3- "D7"d2=c |
+P:C
+"G"BGB "/"d^cB | "D"AFA "/"dcd | "A7"ecA "/"efg | "D"f3- "/"f2 f/g/ |\
+"D"afd "/"AFD | "G"GBd "/"g2a | "D"fed "A7"edc | "D"d3 "/F#"=c3 |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:16
+T:Mrs Hume's Strathspey
+C:Colin Hume
+L:1/8
+M:4/4
+R:Strathspey
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/4=112
+N:For the dance by Anselm Lingnau, 2000
+K:G
+P:A
+|: "G"B<d d>e "/"d>c B<G | "F"A<c c>d "/"c>_B A<=F |\
+"G"B<d d>e "/"d>c B<G | "D7"A2 d>c "G"B<G G2 :|
+P:B
+"G"d2 "D/F#"d>c "Em"B2 (3GAB | "F"c2 "C/E"c>B "D"A2 (3FGA |\
+"Em"B2 B>A "C"G<E "/B"E2 | "Am"A>B "A7/C#"A>G "D"F<D D2 |
+"G"d2 "D/F#"d>c "Em"B2 (3GAB | "F"c2 "C/E"c>B "D"A2 (3FGA |\
+"Em"B2 B>A "C"G<E "/B"E2 | "G"D<G "D7"B>A "G"G4 |
+P:C
+|: "D"F<A A>B "/"A2 G/F/E/D/ | "G"G<B B>c "/"B2 A/G/F/E/ |\
+"D"D<A A>B "/"c<A d>c | "G"B<G "D7"A<F "G"G4 :|
+P:D
+"C"e2 e>f "G/B"g2d2 | "Am"c2 c>d "Em/G"e2B2 |\
+"F"A2A>B "C/E"c2G2 | "Dm"=F2 "D7"d>c "G"B2 "D7"A2 |
+"G"B<d d>e "/"d>c B<G | "F"A<c c>d "/"c>_B A<=F |\
+"G"B<d d>B "C"c<e e>c | "G"d<g "D7"f<a "G"g4 |]
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:17
+T:The Rose of Allendale
+C:Sidney Nelson, 1830s
+N:For the dance "Mrs Milne of Kinneff"
+R:Strathspey
+B:RSCDS L32-2
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/4=116
+M:4/4
+%%MIDI chordname dim 0 3 6 9
+L:1/8
+K:C
+G2 | "C"e2 ed c3 B | "F"dc BA "C"G3 G | "C"G2 c2 "D7"c2 de | "G"d6 G2 |\
+"C"e2 "E7"ed "Am"c3 B | "F"dc BA "C"G3 G | "F"A c2 A "G7"Bc de | "C"c6 G2 |
+"G"d2 dB "G7"G2 G2 | "C"e2 ec G3 G | "Dm"f2 "G7"fd "C"e2 "D7"ec | "G"d6 G2 |\
+"C"e2 "E7"ed "Am"c3 B | "F"dc BA "C"G3 G | "F"A c2 A "G7"Bc de | "C"c4 c2 |: "G7"g2 |
+"C"g3 e e2 "E7"c2 | "F"B2 A4 A2 | "Dm"f3 e "D7"d2 c2 | "G"B2 G4 "E7"^G2 |\
+"F"A3 B "D7"dc BA | "C"G2 c2 "C#dim"e3 G | "F"A c2 A "G7"Bc de | "C"c6 :|
+% Source: sources/colinhume-com/ABC.txt.abc
+
+X:18
+T:She's Ower Young to Marry Yet
+C:Traditional Scottish
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/4=120
+M:4/4
+R:Strathspey
+L:1/8
+K:D
+|: D | "D"F<A A>B "Bm"d>e f>e | "G"d>B A>B "A7"e>f eE | "D"F<A A>B "Bm"d>e f>e | "D"f<a "A7"e>f "D"d<D D :|
+|: a | "D"f>d a>d "Bm"f>g a>b | "D"f<d a<d "A7"f<e e>a | "D"f>d a>d "Bm"f>g a>b | "Em"f<d "A7"e>c "D"d<D D :|
+% Source: sources/colinhume-com/ABC.txt.abc

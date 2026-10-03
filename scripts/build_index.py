@@ -5,6 +5,9 @@ Writes index/<genre>.json files in the jambuddy.live tune-index schema (version 
 index/genres.json listing them. Besides the fields the app reads, each tune has:
   category   normalized tune type (reel, jig, ...); from R:, or from a compound M: when R: is absent
   meter      the tune's M: field
+books/<genre>/<source>[-N].abc gather each source's tunes that aren't in a single-genre
+tunebook file of their own (single-tune files, mixed compilations), renumbered X:1..n, and
+index/books.json lists every genre's tunebooks for the jambuddy.live collection picker.
 index/collections.json lists, per genre, each source and its files with tune counts (for
 browsing on jambuddy.live). index/search/<genre>.json holds the same tunes with only the fields the app reads, so the
 app can download every genre cheaply; genres.json records each file's sha256.
@@ -27,6 +30,12 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCES = ROOT / 'sources'
 OUTPUT = ROOT / 'index'
 MIN_NOTES = 8
+BOOKS = ROOT / 'books'
+# A file is offered as its own tunebook in a genre when it has this many of the genre's tunes,
+# and they make up at least BOOK_PURITY of the file; other tunes go into combined books.
+BOOK_MIN_TUNES = 10
+BOOK_PURITY = 0.8
+BOOK_MAX_TUNES = 2000
 # The fields AbcTuneCatalog on Android reads.
 SEARCH_FIELDS = ('id', 'titles', 'url', 'x', 'ordinal', 'source', 'setting', 'encoding')
 MAX_DUPLICATES = 3  # Fallback copies listed per tune; some sites repeat a tune dozens of times.
@@ -207,6 +216,79 @@ def collections(catalog, base):
     return {'version': 1, 'base_url': base, 'genres': result}
 
 
+def read_tunes(path):
+    """The ABC text of each tune in a file, by ordinal (as numbered by parse_file)."""
+    data = path.read_bytes()
+    try:
+        text = data.decode('utf-8')
+    except UnicodeDecodeError:
+        text = data.decode('windows-1252', errors='replace')
+    text = text.replace('\r\n', '\n').replace('\r', '\n').lstrip('\ufeff')
+    return re.split(r'(?m)(?=^X:\s*\S)', text)[1:]
+
+
+def books(catalog, base):
+    """Writes books/ and returns books.json: per genre, its tunebooks grouped by source."""
+    if BOOKS.exists():
+        shutil.rmtree(BOOKS)
+    names = {source['id']: source['name'] for source in catalog['sources']}
+    file_totals = {}
+    for tunes in catalog['genres'].values():
+        for tune in tunes:
+            file_totals[tune['url']] = file_totals.get(tune['url'], 0) + 1
+    result = []
+    for genre_id, tunes in catalog['genres'].items():
+        if not tunes:
+            continue
+        by_source = {}
+        for tune in tunes:
+            by_source.setdefault(tune['source'], {}).setdefault(tune['url'], []).append(tune)
+        # Sources with only a few tunes in this genre share one "Various collections" book.
+        various = {}
+        for source in [source for source, files in by_source.items() if sum(map(len, files.values())) < BOOK_MIN_TUNES]:
+            for url, file_tunes in by_source.pop(source).items():
+                various.setdefault(url, []).extend(file_tunes)
+        if various:
+            by_source['various'] = various
+        sources = []
+        for source, files in by_source.items():
+            entries, leftovers = [], []
+            for url, file_tunes in files.items():
+                if len(file_tunes) >= BOOK_MIN_TUNES and len(file_tunes) >= BOOK_PURITY * file_totals[url]:
+                    path = urllib.parse.unquote(url[len(base):])
+                    label = path.split('/', 2)[2].rsplit('.', 1)[0]
+                    entries.append({'label': label, 'path': path, 'tunes': file_totals[url]})
+                else:
+                    leftovers.extend(file_tunes)
+            entries.sort(key=lambda entry: entry['label'].lower())
+            leftovers.sort(key=lambda tune: (normalize_title(tune['titles'][0]), tune['url'], tune['ordinal']))
+            parts = [leftovers[i:i + BOOK_MAX_TUNES] for i in range(0, len(leftovers), BOOK_MAX_TUNES)]
+            for number, part in enumerate(parts, 1):
+                suffix = f'-{number}' if len(parts) > 1 else ''
+                path = f'books/{genre_id}/{source}{suffix}.abc'
+                title = 'Various collections' if source == 'various' else names.get(source, source)
+                cache, chunks = {}, [f'% {title}: {GENRES[genre_id]} tunes\n'
+                                     f'% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.\n']
+                for x, tune in enumerate(part, 1):
+                    relative = urllib.parse.unquote(tune['url'][len(base):])
+                    if relative not in cache:
+                        cache[relative] = read_tunes(ROOT / relative)
+                    body = cache[relative][tune['ordinal']].strip()
+                    body = re.sub(r'^X:[^\n]*', f'X:{x}', body, count=1)
+                    chunks.append(f'{body}\n% Source: {relative}\n')
+                target = ROOT / path
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_text('\n'.join(chunks))
+                label = ('More tunes' if entries else 'All tunes') + (f' (part {number} of {len(parts)})' if len(parts) > 1 else '')
+                entries.append({'label': label, 'path': path, 'tunes': len(part)})
+            sources.append({'id': source, 'name': 'Various collections' if source == 'various' else names.get(source, source),
+                            'tunes': sum(len(f) for f in files.values()),
+                            'books': entries})
+        result.append({'genre': genre_id, 'name': GENRES[genre_id], 'tunes': len(tunes),
+                       'sources': sorted(sources, key=lambda source: (source['id'] == 'various', source['name'].lower()))})
+    return {'version': 1, 'base_url': base, 'genres': result}
+
+
 def count(tunes, field):
     totals = {}
     for tune in tunes:
@@ -240,6 +322,8 @@ def main():
                          'bytes': path.stat().st_size, 'search_file': f'search/{name}.json',
                          'search_bytes': len(search), 'search_sha256': hashlib.sha256(search).hexdigest(),
                          'categories': count(tunes, 'category')})
+    (OUTPUT / 'books.json').write_text(json.dumps(
+        books(catalog, args.base_url), ensure_ascii=False, separators=(',', ':')) + '\n')
     (OUTPUT / 'collections.json').write_text(json.dumps(
         collections(catalog, args.base_url), ensure_ascii=False, separators=(',', ':')) + '\n')
     (OUTPUT / 'genres.json').write_text(json.dumps(

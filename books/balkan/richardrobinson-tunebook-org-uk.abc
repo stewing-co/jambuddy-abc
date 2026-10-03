@@ -1,0 +1,232 @@
+% Richard Robinson's TuneBook Live!: Balkan, Klezmer & Eastern European tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T:Aptelikos
+M:9/8
+O:Greece
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+K:G major
+B/B/B/A/ GB B/A/A/G/ G/A/B/c/d | B/B/B/A/ GB B/A/A/G/ GG2 :|
+c2 c2 c/d/c/B/ d^c/d/B | z/d/e/=f/ g/>f/e/d/ ^c/>d/e/c/ dd2 |\
+c2 c2 c/d/c/B/ d^c/d/B | zd/e/>d/ d/>B/A/G/ F/>G/A/F/ GG2 |]
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:2
+T:Barinya
+A:Poltava - Dynkanka
+N:town of Dynkan'ka, Poltava
+N:Russian Dance from Ukraine
+L:1/16
+M:2/4
+O:Ethnic Russian
+O:Ukraine
+Q:72
+Z:Orest Lechnowsky <olechnowsky@monarch.papillion.ne.us>
+K:D major
+e2A2 A2a2 | a2f2    gfed   | cdcB A2A2 | {g}a2a2 aga2   | \
+ede2 e2fg | {g}a2f2 gfed   | cdcB A2A2 | {g}a2f2 (gf)ed |\
+e4   e2fg | {g}a2f2 (gf)ed | cdcB A2A2 | {g}a2f2 gfe{fgabc'd'}e' | \
+e4   efed | cdec    d2(fd) | cdec ABcd | cdec d2(fd) | \
+cdec ABcd | cdec    d2(fd) | cdcB ABcd | cdec d4 ||
+|: \
+{cdefg}a4 {cdefg}a4 | {cdefg}a4 {c}d2f2 | \
+edcB           ABcd | cdec d4 ::\
+e'2 e'2e'2d'2 | c'2c'2d'2d'2 |
+e'2e'2e'2d'2 | c'2c'2d'2e'2 ::\
+ {g}a4 e2d2 | cdec d2d2 | ABcd efed | cde c d2d2 :|
+{g}a4 e2d2 | cdec d2d2 | ABcd efed | cdec d2d2 ||\
+|: A2c2 e2dc | cdec d2d2 |
+A2c2 e2dc | cdec d2d2 ::\
+{cdefg}a4 {cdefg}a4 | {cdefg}a4 fe c2 |
+cdc2 BcB2 | cdc2 d4 :| \
+A2c2 e2dc | cdc2 BcB2 | cdc2 d4 | d4 d2d2 | d4 z4 |]
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:3
+T:Bulgarian 4 (?)
+M:7/16
+N:the turn symbols represent trills
+O:Bulgaria ?
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+S:Cecil#House, via Ian McArdle
+K:A minor
+"G"(GABc) (dD)d|(dD)(cd) (~B2A)|   \
+(GABc) (dD)d|(ed)(cd) (~B2A)::  \
+"Am"(GA)(AE) (AcB)|(BG)~A2 (G^FE)| \
+(^FGAD) (AcB)|(BG)~A2 (AeA)|    \
+(GA)(AE) (AcB)|(BG)~A2 (G^FE)| \
+(^FGAE) (edc)|(BA)(BG) A3 ::
+"A"(^cd)(dA) (~c2A)|(B^c)(cB) (~B2A)|   \
+(ed)(dA) (~^c2A)|(B^c)(cA) (~B2A) ::
+"A"~e2(de) (^cde)|~e2(de) ~^c2A|       \
+~e2(de) (^cde)|~e2(de) c3     ::
+{ag}"Am"a2(bg) (~a2g)|(gfed) (~e2e)| \
+"Em"(eB){gf}(g2 g)(fd) \
+|1 "Am"~e2ee {ga}(a2a) :|2 e4 e3 ||
+"G"(~dA2G) (~G2D)|{AG}"Dm"A2(Ac) "G"(~B2D)|  \
+(~dA2)G (~G2D)|{AG}"Dm"A2(A=F) "G"G3:|       \
+"G"(~d'3d) (d'=c'd')|~b2(c'd') (gab)|   \
+(c'd')(d'd) (d'c'd')|~b2(c'd') (~a2g)| \
+{gf}(g3d) (d'c'd)|(bd)(c'd') (gab)|    \
+(c'd')(d'd) (d'c'd')|~b2(c'd') g3 ||
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:4
+T:Hijaz
+D:Hassan Erraji & Arabesque, "Nikriz"
+D:"Music of the Turkish Gypsies", the Erköse Brothers
+M:7/8
+N:the 2 versions pretty much the same except for different repeat counts
+N:Turkish vn in E, Moroccan in F, I like A
+N:I don't know how many abc progs will like this key signature. It should
+N:read, Bb, f#, c#
+O:Morocco
+O:Turkey
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+K:A mixolydian _B ^f ^c
+c2 Bc BAG | A2 B2 cde | c2 Bc BAG | A2A2 A3 ::
+A2 dc BAB | c2 d2 ede | A2 dc BAG |1,3 d2 ce d3 :|2,4 A2 A2 A3 ::\
+[K:D]
+d2 dc d2d | e2 ed e2e | a2 gf fed |1,3 f2 ed cBA :|2,4 d2 d2 d3 :|
+a2a2aaa| a2a2aaa|:
+b2 ag fef | g2 ab a2a | b2 ag fef | ga fe d3 ::\
+[K:Amix _B ^f ^c]
+aa ag/2f/2 g2f/2e/2 | f2 fe/2d/2 e2d/2c/2 | fe de c2B |1,3 AB cd efg :|2,4 A2A2A3 ::
+GA Bc d2c | fe dc BAB | c2 dc BAG |1,3 d2 ce d3 :|2,4 G2G2G3::
+G2 G2 BAG | G2 G2 BAG | G2 dc BAG |1,3 d2 ce d3 :|2,4 A2A2A3 |]
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:5
+T:Krepatka
+M:11/16
+N:the 'turn' ornament is a trill
+O:Bulgaria
+Q:1/16=360
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+S:Cecil#House, via Ian McArdle
+K:A minor
+A2e2 e2e e2^f2|edd^c c2d e2^f2|\
+(ed)(d^c) c2B (cd)(ed)|^cBBA A3 A2A2:|
+|:(ed)(d^c) c3 (e2e2)|edd^c c2B A2A2|\
+edd^c c2B cded|^c2BA A3 (A2A2):|
+|:G2A_B ~^c3 B2A2|G2A_B ^c2d ed^cd|\
+G2A_B ~^c3 B2G2|A2^FG A3 A2A2:|
+|:A2EA d^c_B cBA2|A2EA d^c_B cBA2| \
+A2EA d^c_B cBA2| AG^FG A3 (A2A2):|
+|:{^c}d2d2 {c}d3 d2d2| {^c}d2d2 {c}d3 d2d2| \
+^c2d_B A2E c2dB|^c2d_B A2E c2dB:|
+|:^c2d_B A2E c2dB| ^c2d_B A2E c2dB| \
+^c2d_B A2E c2dB| ^c2d_B A2E c2dB|
+^c2d_B A2E c2dB| ^c2d_B A2E c2dB| \
+%%%^c2d_B A2E c2dB| _BA((3GAG) ^F3 ^c2d_B :|
+   ^c2d_B A2E c2dB| _BA(3GAG   ^F3 ^c2d_B :|
+%%%|:gfed e2f ed^c_B| ^c2_B2((3BAB) G3 (d2d2)|\
+   |:gfed e2f ed^c_B| ^c2_B2(3BAB   G3 (d2d2)|\
+%%%gfed e2f ed^c_B| ^c_B((3BAB) G3 (G2G2):|
+   gfed e2f ed^c_B| ^c_B(3BAB   G3 (G2G2):|
+%%%|:^c2d_B A2E ^c2d_B|_BA((3GAG) ^F3 ^c2d_B|\
+   |:^c2d_B A2E ^c2d_B|_BA(3GAG   ^F3 ^c2d_B|\
+%%%^c2d_B A2E ^c2dB|_BA((3GAG) A3 (A2A2) :|
+   ^c2d_B A2E ^c2dB|_BA(3GAG   A3 (A2A2) :|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:6
+T:Misir Las
+M:4/4
+N:whoever transcribed this says that the doublebar in the middle
+N:is some sort of repeat, but they can't remember what.
+O:Greece
+Z:Richard Robinson <URL:http://www.qualmograph.org.uk/contact.html>
+K:G _e_A
+GG2A B2 c2 | dd2e ^f2ed | d8- | d8 |:
+ed2 ed2 c2 | dc2 dc2 BA | G8- | G8 |\
+dc2 dc2 B2 | BA2 BA2 G2 | G8 ||
+zG ^FG A<=A_B=B | c8-  | c4 cc2 B/c/ | d8- | \
+d4 dd2c/d/      | e6 de| ^f6 df      | g8- |
+g8 | ag2 ag2 f2 | gf2 gf2 e2 | d8- | \
+d8 | fe2 fe2 d2 | dc2 dc2 B2 | G8- | G8 |]
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:7
+T:Pishla B Na Muzyky
+L:1/8
+M:2/4
+O:Ukraine
+Q:120
+Z:Orest Lechnowsky <olechnowsky@monarch.papillion.ne.us>
+K:F major
+A2  G2  | A F B B | A c (B/A/) G | A F B2 | \
+c B A G | A F B B | c B A G | A F B2 | \
+c2  G2  | A F B B |
+A2 (c>B) | (A/2G/2) F B B | \
+A A (c>B) | A F B2 | A (A/2c/2) G2 | F F F2 |: \
+(f3c) | (f3B) | A (A/c/) G2 | F F F2 :|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:8
+T:Polka Koketka
+N:village of Zyatkivtsi, Vinnyts'ky
+L:1/8
+M:2/4
+O:Ukraine
+A:Vinnytskiy - Zyatkivtsi
+Q:216
+R:Polka
+Z:Orest Lechnowsky <olechnowsky@monarch.papillion.ne.us>
+K:C major
+ea^ga | efed | ee c2 | dcBA | \
+ea^ga | efed | eec'b | a2a2 ::
+geae | gggB | BBdd | feee | \
+geae | gggB | BBdd | c2c2 :|
+P:Another Version from a differant source
+K:G
+Q:144
+M:2/4
+L:1/16
+B2e2^d2e2 | c2(cB) (AB)(cA) | \
+B2B2 BAGF | A2.G2.F2.E2 | \
+B2e2^d2e2 | .c2(cB) (AB)c2 | \
+(BA)(Bc) g2f2 | e4 e2 z2 :|
+(d2^c)d  .g2(B2   | d2)c2 (cB)(AG) | \
+(FG)(AB) (cB)(ce) | e2d2 dcB2 | \
+(d^c)d2  .g2(B2   | d2)c2 (cB)(AG) | \
+(FGAB) (cdef) | g4 g4 |]
+W:W:H. Tantsyur
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:9
+T:Tanner's March
+C:Tanner
+L:1/8
+M:3/4
+O:Russia
+Q:1/4=140
+R:March
+%%Copyright:Tanner
+K:E minor
+|: \
+G2EG2E | G2Bc3 | G2EG2E  | G2BA3 |\
+G2EG2E | G2Bc3 | cBA BAG |AGF G3 :|
+|: \
+d2d GBc | d2Bd3 | d2d GBc | d2BA3 |\
+d2d GBc | d2Bd3 |dcBc2B |1AGA BAG :|2 AGF G3||
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc
+
+X:10
+T:Too Much Beer
+C:Mikhail Krasnikov AKA Edwin
+L:1/16
+M:2/4
+O:Russia
+Q:1/4=112
+R:Polka
+%%Copyright:Mikhail Krasnikov AKA Edwin
+K:B minor
+|:F2 |\
+B2BB B2f2 | e2d2 cBAc | B2ef B2d2 | c2A2 F2A2 |\
+B2df B2f2 | e2c2 A2Bc | d2B2 A2c2 | B4B2 :|
+|:A2|\
+d2ga d2a2 | g2f2 edef | d2ga d2d'2 | b2a2 f2F2 |\
+B2ef B2f2 | e2d2 c2Bc | d2B2 c2A2  | B4B2 :|
+% Source: sources/richardrobinson-tunebook-org-uk/data/tunebook.abc

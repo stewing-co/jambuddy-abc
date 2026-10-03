@@ -1,0 +1,907 @@
+% John Chambers' ABC archive: Central & Western European tunes
+% Gathered by github.com/stewing-co/jambuddy-abc; each tune notes its source file.
+
+X:1
+T: The Atholl Highlanders Jig
+T: Lord Athlone's March
+O: Trad
+R: jig-time march
+Z: John Chambers <jc@trillian.mit.edu>
+N: The G chords are often "modernized" to E7, except for the last line, which always has G.
+N: Hebert p.20
+N: Lord Athlone's March on Banff SBS5406
+D: Graham Townsend on the Piper's Broken Finger
+D: Boys of the Lough, cut 4A
+M: 6/8
+L: 1/8
+K: AMix
+c/d/ |: "A"e3 e>cA  | ecA "G"Bcd  |1 "A"e3 e>cA  | "G"Bcd "(E)"cBA :|2 "A"e-<ae "D"fed | "E"cdB "A"A2 :|
+c/B/ |: "A"A>ce Ace | "D"A>df Adf |1 "A"A>ce Ace | "G"Bcd "(E)"c2B :|2 "A"e-<ae "D"fed | "E"cdB "A"A2 :|
+ e   |: "A"a2e edc  | a2e edc     |1  a2e edc    | "G"Bcd "(E)"cBA :|2 "A"e-<ae "D"fed | "E"cdB "A"A2 :|
+ B   |: "A"c>Ac cAc | "G"d-<Bd dBd |1 "A"c-<Ac cAc | "G"B-<GB Bcd :|2 "A"e-<ae "D"fed | "E"cdB "A"A2 :|
+%%sep 5 5 234
+K:C
+x8 x8 x8 x8 |
+x8 x8 x8 x8 |
+x8 x8 x8 x8 |
+x8 x8 x8 x8 |
+% Source: sources/jc/500/AthollHighlandersJ_x.abc
+
+X:2
+T: Bird in the Greenwood Tree
+O: German (Swabian Tune)
+N: Copyright, 1916, by the Cable Company.
+%R: air, waltz
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/4
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[| G G G | B A G | A A A | c B A |
+w: 1.~Bird in the green-wood tree, Sing-ing so mer-ri-ly,
+w: 2.~Glad-ly I'd fly with your    Swift-ly thro' morn-ing dew,
+%
+B d G | A c E | F D A | G3 |]
+w: Chant-ing so cheer-i-ly  From morn till night.
+w: Up in the heav-en blue,  In sun-shine bright.
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:3
+T: CA-- CA-- GESCHMAUSET.
+O: German Burschen melody.
+Q: "With force and spirit."
+%R: air, waltz
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.24 #2
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: F
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+[|\
+c2 A2 c2 | c2 (BA) B2 | B2 G2 B2 | ABAG A2 |\
+c2 A2 c2 | f2 e2 d2 | c2 d2 =B2 | c2 z2 z2 |]\
+c2 c2 c2 | c4 A2 | B2G2 c2 | ABAG F2 |
+c2 c2 c2 | c4 A2 | B2 G2 c2 | F2 z2 z2 |:\
+c3 B A2 | c3 B A2 | f3 e d2 | c4 A2 |\
+c2 c2 c2 | c3 B A2 |1 c3 F E2 | F2 z2 z2 :|2 c3 B G2 | z2 F2 z2 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc
+
+X:4
+T: Christmas Song
+N: Copyright, 1916, by The Cable Company.
+O: Old German
+%R: air, waltz
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 3/8
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - -
+d | d2 B | B2 G | Ac A | G2 d | d2 B |
+w: 1.~We greet Thee bless-ed Christ-*mas Child, We greet Thee,
+w: 2.~In peace-ful slum-ber dost* Thou lie,     In peace-ful
+%
+B2 G | Ac A | G2 B | A2 c | c2 A |
+w: bless-ed Christ-*mas Child; In songs of praise our
+w: slum-ber dost* Thou lie;    And watch we'll keep while
+%
+G2 B | d2 B | A2 c | c2 A | GB A | G2 |]
+w: voi-ces raise    In songs of praise our voi-*ces raise.
+w: Thou dost sleep, And watch we'll keep while Thou* dost sleep.
+% - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:5
+T: Come, Birds!
+O: German
+Q: "Allegretto."
+%R: air, march
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[|\
+[d2B2] [c2A2] | !mf![B2G2] z2 | [AF] [BG] [cA] [AF] | [G2G2] z2 | [BG] [cA] [dB] [BG] |
+w: 1.~Come, come, come!    Bird-lings, has-ten home!  Spring has bro't the
+w: 2.~Build, build, build! Soon shall nest be filled; Here a straw and
+%
+[AF] [BG] [cA] [AF] | "cres."[BG] [cA] [dB] [BG] | [AF] [BG] [cA] [AF] |
+w: buds and flow-ers, Clad with green and leaf-y bow-ers;
+w: there a feath-er   Neat-ly wov-en all to-geth-er;
+%
+!f![dB] [dB] [cA] [cA] | [B2G2] z2 | !mf![AF] [BG] [cA] [AF] | [G2G2] z2 |]
+w: Bees be-gin to hum,     Hap-py bird-lings, come!
+w: Sun-beams want to gild, Hap-py bird-lings, build!
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:6
+T: Cradle Song.
+T: (Wiegenlied.)
+C: words: Karl Simrock.
+C: music: Johannes Brahms
+O: GERMAN
+Q: "With gentle motion."
+%R: air, waltz
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: Eb
+%%slurgraces 1
+%%graceslurs 1
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+z | z6 | z2 z2 G G | B3 G G2 | B2 z2 (GB) |
+w: 1.~Lul-la-by and good-night, with*
+w: 2.~Lul-la-by and good-night, thy*
+%
+e2 d3 c | (c2 B2) (FG) | A2 F2 (FG) | A2 z2 (FA) | (dc) B2 d2 |
+w: ro-ses be-dight,*    With* lil-ies o'er-*spread, is* ba-*by's wee
+w: moth-er's de-light,* Bright* an-gels a-*bove,    my* dar-*ling will
+%
+e2 z2 E E | e4 c A | B4 G E | A2 B2 c2 |
+w: bed;  Lay thee down now and rest,     may thy slum-ber be
+w: love; They will guard thee from harm, thou shalt wake in my
+%
+{F}B4 E E | e4 c A | B4 G E | A2{BA} G2 F2 | E4 z |]
+w: blest, Lay thee down now and rest,     may thy slum-ber be blest.
+w: arm,   They will guard thee from harm, thou shalt wake in my arm.
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:7
+T: CRAMBABMULL
+O: German Burschen melody.
+Q: "With animation."
+%R: march
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.138 #2
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/8
+K: D
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+A |\
+d2(cB) | A3A | (BA)(Bc) | d2AA |\
+BAGF | A2A2 | A3 :: A |\
+F>AA>A | B>AA>A | F>AA>A | B>AA>A |\
+"_>"d2 "_>"e2 | ({g}"_>"f>e)dd | "_>"e2"_>"c2 | d3 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc
+
+X:8
+T: Cuckoo, You Sing So Clear
+O: German
+Q: "Allegretto."
+%R: air, waltz
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/4
+K: Bb
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[| f d z !mf!| f d z | c B c | B2 z | c c d | e2 c |
+w: 1.~Cuck-oo, Cuck-oo, you sing so clear!    Win-ter is go-ing,
+w: 2.~Cuck-oo, Cuck-oo, wel-come thy song!    Sweet birds are com-ing,
+w: 3.~Cuck-oo, Cuck-oo, loud your notes ring, Joy-ous-ly swell-ing,
+%
+d d e | f2 d | f2 d | f2 d | e d c | B2 z |]
+w: Soft breez-es blow-ing,    Spring-time, spring-time, soon will be here.
+w: Flow'rs will be bloom-ing, Spring-time, spring-time, has-ten a-long,
+w: Glad-ly fore-tell-ing      Spring-time, spring-time, beau-ti-ful spring.
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:9
+T: Der ALPINE SANGER
+O: German air.
+%R: air, waltz, jig
+B: W. Hamilton "Universal Tune-Book" Vol. 1 Glasgow 1844 p.103 #3
+S: http://imslp.org/wiki/Hamilton's_Universal_Tune-Book_(Various)
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: F
+%%stretchstaff 0
+%%slurgraces yes
+%%graceslurs yes
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+c2B |\
+Acf a3- | a2e gfd | c2f F3- | F2A AGF |\
+EGB e3- | edc BAG | A2A {c}BAB | c3- cdB |\
+Acf a3- | a2e gfd | c2f F3- | F2A AGF |
+EGB e3- | edc BAG | FAG FAc | f3 H|: G2F |\
+EGB e3- | e(fd cdB) | FAc f3- | f(ge dec) |\
+=Bdf b3- | bag fed | ced ceg | "^D.C."[c'3c3] :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB1-1844-V1.abc
+
+X:10
+T: Des REITENDEN J\"AGERS ABSCHIED
+T: The HUNTSMAN'S FAREWELL.
+C: A. Methfessel.
+O: German air.
+%R: air, march
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.116 #2
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+D2 |\
+G2B2 G2D2 | (G>A)(B>c) d2G2 |\
+c2c2 B2G2 | e2e2 d2B2 |\
+A2d2 (^c>d)(e>c) | d4 D2 |: D2 |\
+(A>B)(A>G) A2d2 | (B>A)(G>A) B2G2 |\
+e2d2 c2B2 | A4 G2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc
+
+X:11
+T: FRISCH AUF, MEIN VOLK!
+T: CHEER UP MY MEN.
+C: T. H. C. Barnhardt.
+O: German Soldier's song.
+Q: "With energy but not to quick."
+%R: march
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.88 #2
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: C
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+GAB |\
+c3c dddd | (e>d)cz zedc |\
+B3G cGce | d2z2 zGAB |\
+c3c dddd | (e>d)c2 zGGG |\
+d3d eeee | (f>e)d2 zddd |\
+e2c2 AAdd | G2z2 zGGA |
+B3c BBBc | (ed)d2 zfed |\
+c3c cce>c | B2z2 zGGA |\
+B3c defB | (dc)c2 zecA |\
+G3G GGAB | c2z2 zecA |\
+G2e2 ffBB | c2z2 z |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc
+
+X:12
+T: Gentle Winds of Evening!
+O: German
+Q: "Moderato. dolce."
+%R: air, march
+N: This is version 1, for ABC software that doesn't understand crescendo/diminuendo symbols.
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 4/4
+L: 1/4
+K: C
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[| E E G G | F2 D2 | C D E F | D3 z |
+w: 1.~Gen-tle winds of even-ing,   Whis-per through the bow'rs,
+w: 2.~Friend-ly moon, be shin-ing  Through the peace-ful hours,
+w: 3.~Night-in-gales, be sing-ing  With your sweet-est pow'rs,
+%
+F "^cres."F E E | "^dim."A2 G2 | G F E D | C3 z |]
+w: Whis-per peace and qui-et  To my pret-ty flow'rs!
+w: Send-ing qui-et slum-ber   To my pret-ty flow'rs!
+w: And good night be tell-ing To my pret-ty flow'rs!
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:13
+T: Gentle Winds of Evening!
+O: German
+Q: "Moderato. dolce."
+%R: air, march
+N: This is version 2, for ABC software that understands crescendo/diminuendo symbols.
+% dim/cres..endo symbols:
+U: p=!crescendo(!
+U: P=!crescendo)!
+U: Q=!diminuendo(!
+U: q=!diminuendo)!
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 4/4
+L: 1/4
+K: C
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[| E E G G | F2 D2 | C D E F | D3 z |
+w: 1.~Gen-tle winds of even-ing,   Whis-per through the bow'rs,
+w: 2.~Friend-ly moon, be shin-ing  Through the peace-ful hours,
+w: 3.~Night-in-gales, be sing-ing  With your sweet-est pow'rs,
+%
+pF FP E QE | qA2 G2 | G F E D | C3 z |]
+w: Whis-per peace and qui-et  To my pret-ty flow'rs!
+w: Send-ing qui-et slum-ber   To my pret-ty flow'rs!
+w: And good night be tell-ing To my pret-ty flow'rs!
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook2.abc
+
+X:14
+T: Good Morning to Meadow and Hill.
+O: German
+Q: "Allegretto."
+%R: waltz
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+D2 | G2 "^p"G2 A2 | B3 c B2 | (BA) (AG) (AB) | G4 "^cres."G2 | B2 B2 c2 |
+w: 1.~Good morn-ing, good morn-ing to mead-*ow* and* Hil; Good morn-ing, good
+w: 2.~Good morn-ing, good morn-ing to blos-*som* and* bee; Good morn-ing, good
+w: 3.~Good morn-ing, good morn-ing to birds* of* the* glen; Good morn-ing, good
+d3 e2 d2 | (dc) (cB) (cd) | B4 "^mf"d2 | "^>"d3 c c2 | c3 B B2 |
+w: morn-ing to val-*ley* and* rill! How fra-grant the lil-ies, the
+w: morn-ing to flow-*'ret* and* tree; A-long the green path-way, re-
+w: morn-ing to rob-*in* and* wren, To voi-ces that war-ble in
+A2 A2 A2 | B4 d2 | d3 c c2 | "^>"c3 B B2 | B2 A2 AB | G4 |]
+w: soft blush-ing rose, How bright o'er the moun-tain the fair sun-light* glows!
+w: splen-dent with dew, The shin-ing leaves whis-per, "Good morn-ing to* you!"
+w: wood-land and grove, Good morn-ing, good morn-ing to all that I* love!
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:15
+T: Hymn of Praise
+O: German.
+Q: "Maestoso, man non troppo lento."
+%R: air, waltz
+N: This is version 1, for ABC software that doesn't understand voice overlays.
+N: Neither version can correctly represent the slurs in bars 3 and 11.
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/4
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[|\
+[G2B,2] [GB,] | ([GB,] [FA,]) [GB,] | ([AFD] [GE]) [AF] | [B2G2] z | [B2G2] [BG] |
+w: Gra-cious God,_ to Thee_ be praise; Lord art
+%
+([BG] [cA]) [dB] | ([dB] [cA]) [BG] | [BG] [AF] z | [G2B,2] [GB,] | ([GB,] [FA,]) [GB,] |
+w: Thou_ of all* cre-a-tion! All the earth_ Thee
+%
+([AFD] [GE]) [AF] | [B2G2] z | [B2G2] [BG] | ([BG] [cA]) [dB] | ([dB] [cA]) [BG] | [BG] [AF] z | [A2F2] [cA] |
+w: hom-*age pays, Bows to Thee_ in ad - o-ra-tion; As for
+%
+([cA] [BG]) [AF] | [B2G2] [cA] | [d3B3] | [e2c2] [ec] | ([dB] [cA]) [BG] | ([cA] [BG]) [AF] | [G2G2] z |]
+w: a - ges here-to-fore, Thou shalt be_ for ev - er-more.
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:16
+T: Hymn of Praise
+O: German.
+Q: "Maestoso, man non troppo lento."
+%R: air, waltz
+N: This is version 2, for ABC software that understands voice overlays.
+N: Neither version can correctly represent the slurs in bars 3 and 11.
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/4
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[|\
+G2G & B,2B, | (GF)G & (B,A,)B, | (AG)A & ([FD]E)F | B2z & G2x | B2B & G2G |
+w: Gra-cious God,_ to Thee_ be praise; Lord art
+%
+(Bc)d & (GA)B | (dc)B & (BA)G | BAz & GFx | G2G & B,2B, | (GF)G & (B,A,)B, |
+w: Thou_ of all* cre-a-tion! All the earth_ Thee
+%
+(AG)A & ([FD]E)F | B2z & G2x | B2B & G2G | (Bc)d & (GA)B | (dc)B & (BA)G | BAz & GFx | A2c & F2A |
+w: hom-*age pays, Bows to Thee_ in ad - o-ra-tion; As for
+%
+(cB)A & (AG)F | B2c & G2A | d3 & B3 | e2e & c2c | (dc)B & (BA)G | (cB)A & (AG)F | G2z & G2x |]
+w: a - ges here-to-fore, Thou shalt be_ for ev - er-more.
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook2.abc
+
+X:17
+T: La Belle Frene __
+O: Austrian Dance
+R: march, reel
+M: 2/4
+L: 1/16
+Z: 2010 John Chambers <jc:trillian.mit.edu>
+B: Cantelo ed. "Twenty Four American Country Dances", London 1785 (Longman & Broderip)
+K: A
+V: 1
+|: c4(edcd) | e6e2 | f3da2f2 | (f4e4) | c4(edcd) | e6c2 | (d2B2).A2.G2 | {G}A8 :|
+|: E4(e3d) | (d3c)(c3B) | (B3A)(A3G) | (ABcd) (efga) | E4(e3d) | (d3c)(c3B) | (B3A)(A3G) | {G}A8 :|
+|: c4c3c | (c2B2)(B2c2) | .d2.d2(f3d) | {e}d4c4 | f6g2 | a2e2d2c2 | {fg}a2e2d2c2 | c3BB4 |
+|  c4c3c | (c3B)(B3c) | .d2.d2(f3d) | {e}d4c4 | f8 | e4 =gfed | c4B4 | {B}A8 :|
+|: .A2.e2.c2.e2 | .f2.d2.B2.d2 | .c2.A2.B2.G2 | (AGAB) .A2.A2 | .A2.e2.c2.e2 | f2d2B2d2 | (dc)(BA) (cB)(AG) | {G}A8 :|
+V: 2 clef=bass middle=d
+|: [a4A4][a4A4] | a2A2c2A2 | [d4D4][d4D4] | a4A4 | [a4A4][a4A4] | a2A2c2A2 | d4e4 | a4A4 :|
+|: E2e2E2e2 | E2e2E2e2 | E2e2E2e2 | a2e2 c2A2 | E2e2E2e2 | E2e2E2e2 | E2e2E2e2 | A2a2 A4 :|
+|: z2A2c2A2 | e4E4 | z2e2f2g2 | a4A4 | d8 | c8| A8 | e4E4 |
+|  z2A2c2A2 | e4E4 | z2e2f2g2 | a2A2B2c2 | d2e2f2g2 | a4 d4 | e4 E4 | A2a2e2c2 :|
+|: A4a4 | D4d4 | e4E4 | A2a2e2c2 | A4a4 | D4d4 | e4E4 | A2a2A4 :|
+
+
+%%sep 5 1 500
+% Source: sources/jc/24CountryDances/24AmericanCountryDances_1785_Cantelo.abc
+
+X:18
+T: LILLA'S A LADY.
+O: German air.
+%R: air, waltz
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.68 #4
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+N: Bars 10,12 have an extra 1/6 note; not fixed.
+N: The 2-note pickup doesn't fit with the last measure's rhythm; not fixed.
+M: 3/8
+L: 1/16
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+(d2c2) |\
+(B2d2).d2 | (e2d2).d2 | (B2d2).d2 | d4(cB) |\
+cBcdef | (g2f2)e2 | (e2d2)d2 | d4B2 |\
+(d2c2)c2 | a6 c | (c2B2)B2 | g6 d |\
+(d2c2)c2 | (c2B2)B2 | d^ced=cA | G6 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc
+
+X:19
+T: Rabbit In the Hollow
+O: German
+N: (Game Song. For directions, see page 8.)
+%R: air, march
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/8
+K: F
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[| F G A B | c2 (dB) | Az Gz | F2 z2 |
+w: Rab-bit in the hol-low* sits and sleeps,
+%
+[| F G A B | c2 (dB) | Az Gz | F2 z2 |
+w: Hun-ter in the for-est* hear-er creeps;
+%
+c> B A c | B A G z | c> B A> c |
+w: Lit-tle rab-bit have a care,  Deep with-in the
+%
+B A G z | F G A B | (cf) d B | Az Gz | F2 z2 |]
+w: hol-low there  Quick-ly to your home* you must run, run run.
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:20
+T: Round: Come, Ye Schoolmates
+O: German
+%R: air, march
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 4/4
+L: 1/8
+K: F
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+!mf![| "^1"F2 G2 | A2 F2 | "^2"A2 B2 | c4 | "^3"f f e e | f c A F | "^4"c2 C2 | F4 |]
+w: Come, ye shool-mates, come and sing, Come and make the air with mer-ry voi-ces ring!
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:21
+T: SIR DAVID HUNTER BLAIR'S REEL
+O: German air.
+%R: air, reel
+B: W. Hamilton "Universal Tune-Book" Vol. 1 Glasgow 1844 p.103 #1
+S: http://imslp.org/wiki/Hamilton's_Universal_Tune-Book_(Various)
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/16
+K: F
+%%stretchstaff 0
+%%slurgraces yes
+%%graceslurs yes
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+|:\
+f4Tc3d | Tc3dTc3d | c3fa4 | c3f a4 |\
+b4Tg3a | Tg3aTg3a | {a}g3fe3f | g3ec4 ::\
+a3ff4 | c2f2A2c2 | F2A2c2f2 | e3gTg4 |\
+a3fTf4 | c2f2A2c2 | F2A2c2f2 | g3eTf4 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB1-1844-V1.abc
+
+X:22
+T: Spring is Returning.
+O: German.
+%R: waltz
+N: This is version 1, for ABC software that doesn't understand voice overlays or crescendo symbols.
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: Eb
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+(EF) | [G2E2] [G3E3] [AF] | [c2A2] [B3G3] [GE] | ([BG]> [AF]) [A2F2] [B2D2] | [G4E4] ||
+w: 1.~The* spring is re-turn-ing, The trees are all in bloom,
+w: 2.~A-*way then, a-way then, While sun-*shine pre-vails,
+w: 3.~O* Joy-ful, O joy-ful, To wan-der thus a-broad,
+%
+(EF) | [G2E2] [G3E3] [AF] | [c2A2] [B3G3] [GE] | ([BG]> [AF]) [A2F2] [B2D2] | [G4E4] ||
+w: Let* those now who will, With their cares* stay at home;
+w: To* roam o'er the moun-tains, To wan-der thro' the vales;
+w: To* see in their beau-ty The wond-rous works of God!
+%
+G2 | (F>B) "^cres."B3 B | (=A>c) c3 c | (f>e) (d>c) (B>=A) | B4 ||
+w: The white* clouds are sail-*ing a-long* the* blue* sky,
+w: The trees* whis-per soft-*ly, While mur-*mur* the* springs,
+w: De-light* swells my bo-*som, My heart* bounds* with* glee:
+%
+(B>[_AF]) | [GE]> [GE] [G3E3] [AF] | [c2A2] [B3G3] [GE] | ([BG]> [AF]) [A2F2] [B2D2] | [G4E4] |]
+w: Ah!* would that I with them Through the wide* world could Hie!
+w: My* heart is like a lark And with them* glad-ly sings.
+w: O* world so wide and bound-less, How fair art thou to see!
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:23
+T: Spring is Returning.
+O: German.
+%R: waltz
+N: This is version 2, for ABC software that understands voice overlays and crescendo symbols.
+U: p=!crescendo(!
+U: P=!crescendo)!
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: Eb
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+(EF) & (EF) | G2G3A & E2E3F | c2B3G & A2G3E | (B> A) A2B2 & (G> F) F2D2 | G4 & E4 ||
+w: 1.~The* spring is re-turn-ing, The trees are all in bloom,
+w: 2.~A-*way then, a-way then, While sun-*shine pre-vails,
+w: 3.~O* Joy-ful, O joy-ful, To wan-der thus a-broad,
+%
+(EF) & (EF) | G2G3A & E2E3F | c2B3G & A2G3E | (B> A) A2B2 & (G> F) F2D2 | G4 & E4 ||
+w: Let* those now who will, With their cares* stay at home;
+w: To* roam o'er the moun-tains, To wan-der thro' the vales;
+w: To* see in their beau-ty The wond-rous works of God!
+%
+G2 & G2 | (F>B) pB3 PB & (F>B) B3 B | (=A>c) c3 c & (=A>c) c3 c | (f>e) (d>c) (B>=A) & (f>e) (d>c) (B>=A) | B4 & B4 ||
+w: The white* clouds are sail-*ing a-long* the* blue* sky,
+w: The trees* whis-per soft-*ly, While mur-*mur* the* springs,
+w: De-light* swells my bo-*som, My heart* bounds* with* glee:
+%
+(B>_A) & (B>F) | G> G G3 A & E> E E3F | c2B3G & A2G3E | (B> A) A2B2 & (G> F) F2D2 | G4 & E4 ||
+w: Ah!* would that I with them Through the wide* world could Hie!
+w: My* heart is like a lark And with them* glad-ly sings.
+w: O* world so wide and bound-less, How fair art thou to see!
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook2.abc
+
+X:24
+T: Summer Dancing
+O: German
+%R: air, march
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+N: The two verses differ by only 2 words in bar 9.
+M: 2/4
+L: 1/8
+K: Bb
+% - - - - - - - - - - - - - - -
+F | B2 B c | d2 d d | c B c d | B3 F |
+w: 1.~In sum-mer, in sum-mer, We chil-dren laugh and sing; In
+w: 2.~In sum-mer, in sum-mer, We chil-dren laugh and sing; In
+%
+    B2 B c | d2 d d | c B c d | B3 c |
+w: sum-mer, in sum-mer, A-danc-ing in a ring. Our
+w: sum-mer, in sum-mer, A-danc-ing in a ring. Our
+%
+    c2 A c | c2 d c | B B G G | F3 F |
+w: hands clap the time, And our feet they gai-ly bound, And
+w: heads nod  the time, And our feet they gai-ly bound, And
+%
+    B2 B c | d2 d d | c B c d | B3 z |]
+w: then all to-geth-er We turn our part-ners round.
+w: then all to-geth-er We turn our part-ners round.
+% - - - - - - - - - - - - - - -
+% Source: sources/jc/EverydaySongBook/039_Summer_Dancing.abc
+
+X:25
+T: "TASTE LIFE'S GLAD MOMENTS."
+T: "FREUT EUCH DES LEBENS."
+C: H. G. N\"ageli.
+O: German air.
+Q: "Moderate."
+%R: air, jig
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.54 #2
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+[|\
+B3 (c>Bc) | (d2g) g2z | G2G A>GA | (B>c)B A2z |\
+B3 (c>B)c | (d2g) g2G | B2B (A>G)A | "Fin."G3- G2 H|]
+d |\
+d2c (A>B)c | d2B G2d | d2c (A>B)c | d2B G2d |\
+e2c g2e | d2B g2d | (d>e)d (dc)B | (B3 {cB}A2) "^D.C."z |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% This tune, sometimes attributed to Mozart,
+%% is the composition of H. G. H\"ageli.
+%%endtext
+%%sep 1 1 300
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc
+
+X:26
+T: To the Moon
+O: German Folksong.
+Q: "Tranquillamente."
+%R: march
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+N: In bar 6, the [cE] chord has only a part of a tail, but it's needed to get the rhythm right.
+M: C
+L: 1/8
+K: F
+%%continueall
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[cA]> [BG] | [A2F2] [A2F2] ([AF][BG]) ([cA][dB]) | ([cA][BG]) [G2E2] z2 [cE] [BG] |
+w: 1.~Sil-v'ry moon, so calm-*ly* glid-*ing 'Mid the
+w: 2.~Sil-v'ry moon, so soft-*ly* mov-*ing Thro' the
+w: 3.~Sil-v'ry moon, so mild* and* gen-*tle, Shin-ing
+%
+[A2F2] [A2F2] ([GE][FF]) ([GE2]A) | [F4F4] z2 [cA]> [BG] | [A2F2] [A2F2] ([AF][BG]) ([cA][dB]) |
+w: clouds that fload* on* High, 'Tis thy Ma-ker's will* that*
+w: dark and sol-*emn* night, Where by God, to tell* His*
+w: in the star-*ry* sky, Thro' the realms of light* e'er*
+%
+([cA][BG]) [G2E2] z2 [cE] [BG] | [A2F2] [A2F2] ([GE][FF]) ([GE2]A) | [F4F4] z2 |]
+w: guides* thee On thy course a-long* the* sky.
+w: glo-*ry, Thou wert set to give* us* light;
+w: glid-*ing, In thy si-lent maj-*es-*ty,
+%
+[GE]> [AF] | [B2G2] [G2E2] z2 [AF]> [BG] | [c2A2] [A2F2] z2 [cA] [fA] |
+w: Shed thy ra-diance on the wea-ry, As they
+w: Look thou kind-ly on us mor-tals, Let on
+w: Sweet con-sol-er sent from heav-en, High on
+%
+[d3B3] [cA] ([dB][cA]) ([BG][AF]) | ([A2F2] [G2E2]) z2 [cA]> [BG] | [A2F2] [A2F2] ([AF][BG]) ([cA][dB]) |
+w: seek ttheir qui-*et* rest;* Let thy light bring peace* and*
+w: us thy mild* rays* fall;* Keep us e'er from harm,* and*
+w: clouds of peace* thy* throne,* To the fair-est dawn* dost*
+%
+([cA][BG]) [G2E2] z2 [cE] [BG] | [A2F2] [A2F2] ([GE][FF]) ([GE2]A) | [F4F4] z2 |]
+w: com-*fort To each heart that's sore* op-*prest.
+w: show* us How God loves us, one* and* all.
+w: lead* us, Thanks to thee, O sil-*v'ry* moon.
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:27
+T: Violet With Tear-Dimmed Eye
+O: German
+Q: "Andante."
+%R: air, march
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/4
+K: Ab
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[| A B | c c | B B | A z | c d | e e | d d | c z |
+w: 1.~Vi-o-let with tear-dimmed eye,  Lov-liest flow'er be-neath the sky;
+w: 2.~Rays of love the sun-beams dart Deep in-to thy ver-y heart;
+%
+B c | d d | c d | e z | f f | e d | c B | A z |]
+w: Vi-o-let, re-joice with me!       Al-so smiles the sun on thee!
+w: Wipe the tear from off thine eye, Vi-o-let, re-joice with me!
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:28
+T: WAS BLASEN DIE TROMPETEN?
+T: WHY SOUNDS THE TRUMPET?
+O: German melody.
+Q: "March time."
+%R: march
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846 p.47 #2
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+A |\
+d>ddd dafd | dBBB B2zg/g/ |\
+g>fed ceac | eddd d2z :|\
+a |\
+agee e2eg | gfdd d3a |
+(ag)fe (gf)ed | a2aa agfe |\
+d>ddd dfad | dBBB B3g |\
+g>fed ceac | eddd d2z |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB2-1846-V1.abc
+
+X:29
+T: WE MET
+O: German air.
+Q: "Moderate--may be played as a Waltz."
+%R: air, waltz
+B: W. Hamilton "Universal Tune-Book" Vol. 1 Glasgow 1844 p.20 #4
+S: http://imslp.org/wiki/Hamilton's_Universal_Tune-Book_(Various)
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: Bb
+%%slurgraces yes
+%%graceslurs yes
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+F2 |\
+d3FBd | d2z2FB | d2e2d2 | (d2c2)zF |\
+c3FAc | e3z(ce) | g2f2e2 | (e2d2)zF |\
+d3FBd | d2z2FB | d2e2d2 | (d2c2)zF |\
+c3FAc | "_>"e4(dc) | F2G2A2 | c2B2 |]
+(Bc) |\
+d3efg | (f2e)z (dc) | d3cBA | B2G2zd |\
+d3efg | (f2e)z (ed) | d3cBA | B2G2zF |\
+d3FBd | d3z2(FB) | d2e2d2 | (d2c2)z!f!F |\
+c3Fce | (gf)(ed)(cB) | F2G2A2 | c2{dc}B2 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/Hamilton/HUTB1-1844-V1.abc
+
+X:30
+T: Which Way Does the Wind Blow?
+O: Austrian Folk-tune
+%R: air, waltz
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+(Bc) | d2 B2 B2 | B2 A2 (AB) | c2 A2 A2 | B4 |]
+w: 1.~Which* way does the wind blow, Which* way does he go?
+w: 2.~O'er* wood and o'er val-ley,   And* o'er rock-y height,
+w: 3.~But* whence he both com-eth,   And* whith-er he goes
+%
+(B c) | d2 B2 B2 | B2 A2 (AB) | c2 F2 F2 | G4 |]
+w: He* rides o-ver wa-ter,         He* rides o-ver snow.
+w: Where the goat can-not trav-el, He* tak-eth his fight.
+w: There's* nev-er a schol-ar,     This* mys-ter-y knows.
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc
+
+X:31
+T: Winter, Adieu!
+O: German.
+Q: "Moderato."
+%R: air, waltz
+B: "The Everyday Song Book", 1927
+F: http://www.library.pitt.edu/happybirthday/pdf/The_Everyday_Song_Book.pdf
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/4
+K: Ab
+% - - - - - - - - - - - - - - -
+[| c c B | A3 | c c B | A3 | c d e | e (d/c/) d |
+w: 1.~Win-ter, a-dieu! Your time is through; Par-tings they say, are* sad,
+w: 2.~Win-ter, a-dieu! Your time is through; Quick-ly a-way you* go,
+w: 3.~Win-ter, a-dieu! Your time is through; Hie you, and quick-ly,* too,
+%
+B c d | d (c/ B/) c | c c d | e3 | c c B | A3 |]
+w: Part-ing with you makes me glad; Win-ter a-dieu! no time for you.
+w: Tak-ing your cold and your snow; Win-ter a-dieu! no time for you.
+w: Spring birds will laugh at* you; Win-ter a-dieu! no time for you.
+% - - - - - - - - - - - - - - -
+
+%%sep 1 1 500
+%%sep 1 1 500
+% Source: sources/jc/EverydaySongBook/EverydaySongBook1.abc

@@ -2,6 +2,7 @@ import json
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import patch
 
 import build_index
 from build_index import category, normalize_key, normalize_title
@@ -59,6 +60,33 @@ class IndexTests(unittest.TestCase):
         catalog = self.build({'ceolas/a.abc': REEL + '\n' + irish, 'unknown/b.abc': other})
         unknown = next(tune for tune in catalog['tunes'] if tune['source'] == 'unknown')
         self.assertEqual(('irish', True), (unknown['genre'], unknown['genre_inferred']))
+
+    def test_books_keep_single_genre_tunebooks_and_combine_the_rest(self):
+        def tune(x, title, origin, length):
+            # A distinct number of notes per tune, so none are merged as duplicates.
+            return f'X:{x}\nT:{title}\nO:{origin}\nM:4/4\nK:D\nABcd efga|{"B" * length}|\n'
+        book = '\n'.join(tune(i, f'Irish {i}', 'Ireland', i) for i in range(1, 11))
+        mixed = tune(1, 'Mixed Irish', 'Ireland', 11) + '\n' + tune(1, 'Mixed English', 'England', 12)
+        with tempfile.TemporaryDirectory() as root:
+            for path, text in {'site/book.abc': book, 'site/mixed.abc': mixed, 'tiny/one.abc': tune(5, 'Tiny', 'Ireland', 13)}.items():
+                target = Path(root) / 'sources' / path
+                target.parent.mkdir(parents=True, exist_ok=True)
+                target.write_text(text)
+            for source in ('site', 'tiny'):
+                (Path(root) / 'sources' / source / 'source.json').write_text(json.dumps({'name': source.title(), 'license': 'test'}))
+            with patch('build_index.ROOT', Path(root)), patch('build_index.BOOKS', Path(root) / 'books'):
+                catalog = build_index.build('https://example.test/', Path(root) / 'sources')
+                irish = next(g for g in build_index.books(catalog, 'https://example.test/')['genres'] if g['genre'] == 'irish')
+                self.assertEqual(['Site', 'Various collections'], [source['name'] for source in irish['sources']])
+                site, various = irish['sources']
+                self.assertEqual([('book', 'sources/site/book.abc', 10), ('More tunes', 'books/irish/site.abc', 1)],
+                                 [(b['label'], b['path'], b['tunes']) for b in site['books']])
+                self.assertEqual([('All tunes', 'books/irish/various.abc', 1)],
+                                 [(b['label'], b['path'], b['tunes']) for b in various['books']])
+                combined = (Path(root) / 'books/irish/site.abc').read_text()
+                self.assertIn('X:1\nT:Mixed Irish', combined)
+                self.assertNotIn('Mixed English', combined)
+                self.assertIn('% Source: sources/site/mixed.abc', combined)
 
     def test_genres(self):
         self.assertEqual('nordic', genre(['Dalarna, Sweden'], 'reel', 'irish-site/a.abc'))
