@@ -243,7 +243,8 @@ def main():
     (OUTPUT / 'collections.json').write_text(json.dumps(
         collections(catalog, args.base_url), ensure_ascii=False, separators=(',', ':')) + '\n')
     (OUTPUT / 'genres.json').write_text(json.dumps(
-        {'version': 1, 'base_url': args.base_url + 'index/', 'genres': manifest}, indent=1) + '\n')
+        {'version': 1, 'base_url': args.base_url + 'index/', 'genres': manifest,
+         'sources': {source['id']: source['name'] for source in catalog['sources']}}, indent=1) + '\n')
     total = sum(entry['tunes'] for entry in manifest)
     print(f"Indexed {total} settings ({catalog['duplicates_removed']} duplicates removed)")
     for entry in manifest:
