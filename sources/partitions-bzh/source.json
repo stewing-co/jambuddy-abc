@@ -1,5 +1,5 @@
 {
-  "name": "Briezh Partitions - free Celtic sheet music",
+  "name": "Breizh Partitions",
   "license": "Not stated; tunes believed traditional",
   "origin": [
     "http://www.partitions.bzh/"
@@ -11,12 +11,12 @@
   "pages_unvisited": 115865,
   "failures": [
     "https://www.partitions.bzh/brezhoneg/benveg/Koto/: <urlopen error _ssl.c:1015: The handshake operation timed out>",
-    "https://www.partitions.bzh/partition/500_Elle_est_o\u00f9_ma_valise_: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently",
+    "https://www.partitions.bzh/partition/500_Elle_est_où_ma_valise_: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently",
     "https://www.partitions.bzh/partition/713_Amaryllis: <urlopen error _ssl.c:1015: The handshake operation timed out>",
     "https://www.partitions.bzh/partition/faq.html: HTTP Error 404: Not Found",
-    "https://www.partitions.bzh/partition/322_Pelec\u2019h_ema\u00f1_an_heol_: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently",
+    "https://www.partitions.bzh/partition/322_Pelec’h_emañ_an_heol_: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently",
     "https://www.partitions.bzh/genre/Marche/page/2/: <urlopen error _ssl.c:1015: The handshake operation timed out>",
     "http://www.partitions.bzh/partition/faq.html: HTTP Error 404: Not Found",
-    "https://www.partitions.bzh/deutsch/partitur/500_Elle_est_o\u00f9_ma_valise_: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently"
+    "https://www.partitions.bzh/deutsch/partitur/500_Elle_est_où_ma_valise_: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently"
   ]
 }

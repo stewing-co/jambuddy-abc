@@ -5,7 +5,8 @@ Writes index/<genre>.json files in the jambuddy.live tune-index schema (version 
 index/genres.json listing them. Besides the fields the app reads, each tune has:
   category   normalized tune type (reel, jig, ...); from R:, or from a compound M: when R: is absent
   meter      the tune's M: field
-index/search/<genre>.json holds the same tunes with only the fields the app reads, so the
+index/collections.json lists, per genre, each source and its files with tune counts (for
+browsing on jambuddy.live). index/search/<genre>.json holds the same tunes with only the fields the app reads, so the
 app can download every genre cheaply; genres.json records each file's sha256.
   genre      musical tradition (irish, scottish, nordic, ...); see genres.py
   tune       group id shared by settings with the same normalized title and category
@@ -143,6 +144,7 @@ def build(base=DEFAULT_BASE, sources=SOURCES):
                 print(f'Skipping {path.relative_to(sources)}: {error}')
         settings.extend(found)
         reports.append({'id': directory.name, 'name': meta['name'], 'license': meta['license'],
+                        'origin': meta.get('origin'),
                         'files': len(files), 'settings': len(found), 'stale': False, 'failures': []})
     # Keep the first copy of each identical setting (sources sort alphabetically, then
     # by path) and list the others so clients can fall back to them.
@@ -181,6 +183,30 @@ def build(base=DEFAULT_BASE, sources=SOURCES):
     return {'sources': reports, 'duplicates_removed': len(settings) - len(kept), 'genres': by_genre}
 
 
+def collections(catalog, base):
+    """Per genre: sources, and their files with tune counts and first title, largest first."""
+    names = {source['id']: source for source in catalog['sources']}
+    result = []
+    for name, tunes in catalog['genres'].items():
+        files = {}
+        for tune in tunes:
+            path = urllib.parse.unquote(tune['url'][len(base):])
+            entry = files.setdefault(path, {'path': path, 'tunes': 0, 'first': tune['titles'][0], 'ordinal': tune['ordinal']})
+            entry['tunes'] += 1
+            if tune['ordinal'] < entry['ordinal']:
+                entry['first'], entry['ordinal'] = tune['titles'][0], tune['ordinal']
+        sources = {}
+        for entry in files.values():
+            source = entry['path'].split('/')[1]
+            sources.setdefault(source, []).append({key: entry[key] for key in ('path', 'tunes', 'first')})
+        result.append({'genre': name, 'name': GENRES[name], 'tunes': len(tunes), 'sources': sorted((
+            {'id': source, 'name': names.get(source, {}).get('name', source), 'origin': names.get(source, {}).get('origin'),
+             'tunes': sum(f['tunes'] for f in source_files),
+             'files': sorted(source_files, key=lambda f: (-f['tunes'], f['path']))}
+            for source, source_files in sources.items()), key=lambda s: -s['tunes'])})
+    return {'version': 1, 'base_url': base, 'genres': result}
+
+
 def count(tunes, field):
     totals = {}
     for tune in tunes:
@@ -214,6 +240,8 @@ def main():
                          'bytes': path.stat().st_size, 'search_file': f'search/{name}.json',
                          'search_bytes': len(search), 'search_sha256': hashlib.sha256(search).hexdigest(),
                          'categories': count(tunes, 'category')})
+    (OUTPUT / 'collections.json').write_text(json.dumps(
+        collections(catalog, args.base_url), ensure_ascii=False, separators=(',', ':')) + '\n')
     (OUTPUT / 'genres.json').write_text(json.dumps(
         {'version': 1, 'base_url': args.base_url + 'index/', 'genres': manifest}, indent=1) + '\n')
     total = sum(entry['tunes'] for entry in manifest)
