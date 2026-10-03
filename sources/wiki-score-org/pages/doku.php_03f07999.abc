@@ -1,0 +1,48 @@
+X:117
+T:Overtura
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 17 clef=tenor name="Tenore" sname="T."
+%%MIDI program 1 1
+%%staves [[ 17 ]]
+%-----------------------------------------------------------------------------------
+z// | Z87 || \
+[M:2/4] [K:C] [L:1/8] [Q: "Andantino" 1/2=30] z | Z23 || \
+[M:C] [Q: 1/2=70] Z8 || \
+[K: D] Z54 || \
+[K:F] [L:1/4] [Q: "Coro - Allegro Maestoso" 1/2=60] z3/8 | Z27 | \
+C2 A, C | C C2 C | C3/4 C1/4 C z F | E F E F | B, A, z2 |
+w: Re-gni l'ar-di-re in-tre-pi-do Del fie-ro Dio del' ar-mi
+E F3/4 F1/4 E F | B,3/4 B,1/4 A, z B, | B,3/4D1/4C3/4B,1/4 A,3/4G,1/4 F,3/4 E,1/4 | F, F, z2 | z4 | \
+w: Re-gni l'ar-di-re'in-tre-pi-do Del fie--ro-- Dio-- dell'-- ar-mi
+z4 | C C3/4 C1/4 C C | D3/4 D1/4 D z2 | D D3/4 D1/4 D D | C3/4 C1/4 C z C | A, A, D D | \
+w: Del cam-po'in mez-zo'ai ful-mi-ni Del cam-po'in mez-zo'ai ful-mi-ni Nel cuor d'o-gni guer-
+D z z2 | E E3/4 E1/4 E E | F3/4 F1/4 F z F | E E E E | F F z2 | \
+w: rier Re-gni l'ar-di-re'in-tre-pi-do Del fie-ro Dio dell' ar-mi
+C C3/4 C1/4 C C | D3/4 D1/4 D z2 | C C3/4 C1/4 E E | F3/4 F1/4 F z C | C C C =B, | \
+w: Del cam-po'in mez-zo'ai ful-mi-ni Del cam-po'in mez-zo'ai ful-mi-ni Nel cuor d'o-gni guer-
+C z z2 | z C =B, B, | C z z2 | z C =B, B, | C z z2| z4 | \
+w: rier  D'og-ni guer-rier D'og-ni guer-rier
+z4 | z4 | z4 | z4 | _E E3/4 E1/4 E E | _E3/4 _B,1/4 B, z2 | \
+w: Al rim-bom-bar ter-ri-bi-le
+_B, B,3/4 B,1/4 B, B, | _B,3/4 _G,1/4 G, z _B, | _B, B, B, B, | _B, B, z2 | z4 | \
+w: Al rim-bom-bar ter-ri-bi-le De' bel-li co-si car-mi
+z2 z _B, | _B, B, B, B, | _B, B, z2 | Z2 | \
+w: De' bel-li co-si car-mi
+D D3/4 D1/4 D D | D D z2 | =E E3/4 E1/4 E A, | A, A, z D | \
+w: O-gni fa-tal pe-ri-glio o-gni fa-tal pe-ri-glio l'af -
+D D D D | E z z2 | z4 | C2 A, C | C C2 C | C3/4 C1/4 C z E | \
+w: fre-ttia sos-te-ner. Re-gni l'ar-di-re in-tre-pi-do del
+E F E F | B, A, z2 | E F/ >F/ E F | E/> F/ F z C| D D D G, | G, G, z C| \
+w: fie-ro Dio dell' ar-mi Re-gni l'ar-di-re'in-tre-pi-do Del fie-ro Dio dell' ar-mi
+E E E E | C/ > C/ C z2 | z E E C | C/ > C/ C z C | B, F F E | \
+w: campo in mezzo ai ful-mi-ni in mezzo ai ful-mi-ni Nel cuor d'o-gni guer-
+F z z2 | B, B,/ > B,/ B, B, | A,/ > A,/ A, z A, | B, B, B, B, | A, A, z F | E F E F | B,/ > A,/ A, z \
+w: rier Re-gni l'ar-dire in-tre-pi-do Del fie-ro Dio dell' ar-mi del cam-po'in mez-zo'ai ful-mi-ni
+C | B,/>D/ C/>B,/ A,/>G,/ F,/>E,/ | F, z z B, | A, F E E | F z z B, | A, F E E | \
+w: nel cor-- d'o---gni guer-ri-er Nel cuor d'o-gni guer-rier Nel cuor d'o-gni guer-
+F F F E | F F F E | F z z2 | Z2 |]
+w: rier d'o-gni guer-rier d'o-gni guer-rier
+%------------------------------------------------------------------------------------

@@ -1,0 +1,17 @@
+X:103
+T:Moderadamente
+C:Antonio Thomaz de Lima
+M:4/8
+L:1/4
+K:B
+V: 3 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 3 ]
+%----------- edit between the lines ------------
+[Q:"Moderadamente, e com grandiosidade (a 4 tempos)"] !ff! "_marcado" !>![B,F]> !>![FA] | \
+[DA]/[GG,]/ [CG]/[F,C]/|| z/ [F,D]/ [E,A,]//B,//[E,C]/|| [B,F]/ D//E// D//C//B,/|\
+[CG]>[GG,]| [CA]/[D^^F]/ [G,D]/[^F,C]/||z/[G,D]/ !>!B/(!>!(5:4:5A/8B/8A/8G/8A/8)|| B/ z/ z|\
+D,>F,| F,/G,/ E,/F,/|| "^Mais Lento" F, E,|| \
+D,/ z/z// "_pizz." G// F/ |\
+E,>[D,^B,]|[E,C]/[D,^^F,]/ D,/^F,/||"^Mais Lento" [F,D] [E,C] || \
+%-----------------------------------------------

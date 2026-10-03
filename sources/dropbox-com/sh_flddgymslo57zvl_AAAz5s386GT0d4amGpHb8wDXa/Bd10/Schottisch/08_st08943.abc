@@ -1,0 +1,74 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch  FCBb
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.20 (st08943) orig. F,C,Bb-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"ccc2 !>!f4 | "Bb"ddd2 !>!b4 | "C7"a3g a3g | "F"g2f2 agf2 | ccc2 !>!f4 | "Bb"ddd2 !>!b4 | "C7"a3g a3g | "F"f2a2 f2z2 :: [K:C]
+"G7"ggg2 bbb2 | "C"c'c'c'2g4 | "G7"g2ag f2d2 | "C"cdefg4 | "G7"ggg2 bbb2 | "C"c'c'c'2g4 | "G7"g2ba g2B2 | 
+"C"c2c'2 c'2"_>Teil A"z2 :: [K:Bb] [L:1/8] "Bb"dfb2 | ba c'>b | "Cm"acg2 | za a>b | acg2 | "F7"zb a>g | "Bb"fB dz | 
+zf g>f | dfd'2 | za c'>b | "Cm"acg2 | zb a>b | acg2 | "F7"zd ga | "Bb".b2 !>!"F7"a2 | "Bb"bb bz :|
+W:Parts: ABAC
+W: Anm. H.C.: Oberiberg, Illgau/Muotatal, Ober\"ageri, Oberwyl/Zug, Vitznau, Altdorf, Schattdorf, Engelberg.
+W: Baselbiet, R\"uti/Zch.
+% st08943
+X:2
+T:Schottisch  CGF 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+"C"GGG2 !>!c4 | "F"AAA2 !>!f4 | "G7"e3d e3d | "C"d2c2 edc2 | GGG2 !>!c4 | "F"AAA2 !>!f4 | "G7"e3d e3d | "C"c2e2 c2z2 :: [K:G]
+"D7"ddd2 fff2 | "G"ggg2d4 | "D7"d2ed c2A2 | "G"GABcd4 | "D7"ddd2 fff2 | "G"ggg2d4 | "D7"d2fe d2F2 | 
+"G"G2g2 g2"_>Teil A"z2 :: [K:F] [L:1/8] "F"Acf2 | fe g>f | "Gm"eGd2 | ze e>f | eGd2 | "C7"zf e>d | "F"cF Az | 
+zc d>c | Aca2 | ze g>f | "Gm"eGd2 | zf e>f | eGd2 | "C7"zA de | "F".f2 !>!"C7"e2 | "F"ff fz :|
+W:Parts: ABAC
+% st08943
+X:3
+T:Schottisch  CGF (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"GGG2 !>!c4 | "F"AAA2 !>!f4 | "G7"e3d e3d | "C"d2c2 edc2 | GGG2 !>!c4 | "F"AAA2 !>!f4 | "G7"e3d e3d | "C"c2e2 c2z2 :: [K:G]
+"D7"ddd2 fff2 | "G"ggg2d4 | "D7"d2ed c2A2 | "G"GABcd4 | "D7"ddd2 fff2 | "G"ggg2d4 | "D7"d2fe d2F2 | 
+"G"G2g2 g2"_>Teil A"z2 :: [K:F] [L:1/8] "F"Acf2 | fe g>f | "Gm"eGd2 | ze e>f | eGd2 | "C7"zf e>d | "F"cF Az | 
+zc d>c | Aca2 | ze g>f | "Gm"eGd2 | zf e>f | eGd2 | "C7"zA de | "F".f2 !>!"C7"e2 | "F"ff fz :|
+W:Parts: ABAC
+% st08943
+X:4
+T:Schottisch DA&G (tinwhistle in D)
+T:st08943 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"AAA2 !>!d4 | "G"BBB2 !>!g4 | "A7"f3e f3e | "D"e2d2 fed2 | AAA2 !>!d4 | "G"BBB2 !>!g4 | "A7"f3e f3e | "D"d2f2 d2z2 :: [K:A]
+"E7"eee2 ggg2 | "A"aaa2e4 | "E7"e2fe d2B2 | "A"ABcde4 | "E7"eee2 ggg2 | "A"aaa2e4 | "E7"e2gf e2G2 | 
+"A"A2a2 a2"_>Teil A"z2 :: [K:G] [L:1/8] "G"Bdg2 | gf a>g | "Am"fAe2 | zf f>g | fAe2 | "D7"zg f>e | "G"dG Bz | 
+zd e>d | Bdb2 | zf a>g | "Am"fAe2 | zg f>g | fAe2 | "D7"zB ef | "G".g2 !>!"D7"f2 | "G"gg gz :|
+W:Parts: ABAC
+X:5
+T:Schottisch DA&G (tinwhistle in D) solo
+T:st08943 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D transpose=12
+AAA2 !>!d4 | BBB2 !>!g4 | f3e f3e | e2d2 fed2 | AAA2 !>!d4 | BBB2 !>!g4 | f3e f3e | d2f2 d2z2 :: [K:A]
+eee2 "_#"ggg2 | aaa2e4 | e2fe d2B2 | ABcde4 | eee2 "_#"ggg2 | aaa2e4 | e2"_#"gf e2G2 | 
+A2a2 a2"_>Teil A"z2 :: [K:G] [L:1/8] Bdg2 | gf a>g | fAe2 | zf f>g | fAe2 | zg f>e | dG Bz | 
+zd e>d | Bdb2 | zf a>g | fAe2 | zg f>g | fAe2 | zB ef | .g2 !>!f2 | gg gz :|
+W:Parts: ABAC
+% Aug 7, 2016

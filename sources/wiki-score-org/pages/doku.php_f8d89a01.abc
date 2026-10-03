@@ -1,0 +1,33 @@
+X:104
+T:[Orchestras]
+C:Giuseppe Totti (17__-1832)
+M:C
+L:1/4
+K:Bb
+V: 4 clef=treble name="Oboe II" sname="Ob.II"
+%%MIDI program 1 68
+%%staves [( 4 )]
+%----- edit between the lines ----
+[Q:"Allegro com spirito"]  !f! d>fd>f | dddz |  Z12 | z1 e e e | d d2 d |
+c e e e | d d2 d | c z3 | Z5 | B>F B>F|d3 B| g>dg>d | b3 g| =e g g g |
+f z3|  z g g g | f z z/2 a/4g/4 f/4_e/4d/4c/4 | B  z3 |
+z/2  B/2B/2B/2 B/2c/4d/4 =e/4f/4g/4a/4 | b z a z | g z f z | =e z f z |
+g z f z | =e/2c/2c/2c/2 c/2=B/4A/4 G/4F/4=E/4D/4| C z3 | z B A A |
+G =e f f |=e z3 | Z6|  z/4 G/4A/4B/4 c/4d/4=e/4f/4 g/2g/4f/4 e/2e/4d/4 |
+c z3 | Z5 | z/4 B/4c/4d/4 =e/4f/4g/4a/4 b/2b/4a/4 g/2g/4f/4 | =e z
+g/4f/4e/4d/4 c/4B/4A/4G/4| F z G2 | A z3 | z2 A2| B z3 | d2 =e2 | f2 _e2 | d2 f2 |
+f z3| a/4b/4a/4g/4 f2 =e | f z3 | Z2 |
+c3 B | A A c A | A A A A | A z3 | Z2|
+z3 e/2-f/2 | ^f/2-g/2 g2 a/4g/4=f/4=e/4 | f z3 | Z2 | z2 z/2 f/2g/2a/2 |
+g2 f/2 (f/2g/2a/2) | {a}g f2 =e | !f! f>c f>c | A A A z | Z | A z A z | A z3 |
+Z13| z c/2d/2 e/2e/2 {f}e/2d/4c/4 | g z3 | z d e e | d z3 | z d e e | \
+d z3 | z d e e | d/2e/2d/2e/2 {g}f e/2d/2 | e>B e>B | g3 e | b>g b>g | e z e z |
+e z3 | z c c c | d z d z | z c c c | d z d z | e z z/4 E/4F/4G/4 A/4B/4c/4d/4 |
+e z d z | c z B z | A z B z | c z B z | A/2f/2 f/2f/2 f/2=e/4d/4 c/4B/4A/4G/4 |
+F z3 | z c d d |c A B B |A z3 |
+Z5| z/4 E/4F/4G/4 A/4B/4c/4d/4 e/2e/4d/4 c/2c/4B/4 | A z3 | Z6 |
+z/4 E/4F/4G/4 A/4B/4c/4d/4 e/2e/4d/4 c/2c/4B/4 | A z a/4g/4f/4e/4 d/4c/4B/4A/4 |
+B !f! d e2 | d z3 | z d/2c/2 =B2 | c z3 | c4 | c4 |B z3 | B2 A2 | B z3 | Z2 |
+B2 A2 | B z3 | Z | z e d z | Z2| z c z d | z e d c | d e d c | d d d d |
+d B B B| B z B z | B z3 |] \
+%---------------------------------

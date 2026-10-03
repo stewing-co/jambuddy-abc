@@ -1,0 +1,29 @@
+X:106
+T:Gloria
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:D
+V: 6 clef=treble name="Oboe II" sname="Ob.II"
+%%MIDI program 1 68
+%%staves [( 6 )]
+Z23 || \
+[Q: "Andante"] z/// A///B///c/// | d A F/D/ z/d/ | e/A/ g/f//e// f//e//d/ z/ z/// a///b///c'/// | d'/d/ c/c'/ b/B/ A/a/  | \
+g/G/ F/f/ e z/d/ | c z/d/ c z/d/ | c/a/ a//g//f//e//  d z/F//>F// | F/D/ F/A//>A// A/F/ A/d//>d// |\
+d/A/ d/d//>d// c/e//d// c//B//A//G//  | F/d/ d/d/ d/d/d/d/ | c/c/ c/c/ c/c/ c/c/  | B/B/ B/B/ B/B/ B/B/ | \
+A/A/ A/A/ A/A/ A/A/ | G/G/ G/G/ G/G/ G/G/ | Fzzz/d/ | !trill!d4 -| \
+d4 | c/A//B// c//A//B//^G// A/c//d// e//d//c//e// | dcBA | f//e//d//f// e//d//c//e// d//c//B//d// c//B//A//c// | \
+dzcz | ^gggz/g/ | a/e//d// c/e/ Az | Z3| fzfz | fzfz | fzfz | \
+f [L:1/16] zfed cece cece | dfdf dfdf c4c4 | d2cB AGFE [L:1/4] \
+D/>d/ !trill!c | dzfz | dA F/D//>D// F/A/ | dcdz/A/ | \
+d A F/D/ z/f/ | e/A/ g/e/ a/g//f// e/d/ | c//B//A/ z/c//>c// c/A//B// c | z4 | \
+z/E//F// ^G z2 | Z4 |  z3 z/(3:e//f//^g// |a/A/ ^G/^g/ f/F/ E/e/ | \
+d/D/ E/A/ ^G z/A/ | ^G z/ A/ ^G/B/B/B/ | c/c/c/c/ A/A/ d/d/ | \
+B/B/B/B/ c/c/c/c/ | A/A/A/A/ B/B/B/B/  | ^G/G/G/G/ A/A/A/A/ | \
+F/F/F/F/ ^G/G/G/G/| E z/e/ d/f/ e/d/   | c z/ c//>c// c z | cz^Gz | Z2 | \
+z/ A//>B// c z2 | Z6 | z2 z/c//d// e/d/ | c/c//d// e/d/ c/B/ z | \
+^Gz z/c//d// e/d/ | c/A/ z  ^Gz | z4 | d z z2 | z4 | z z//A//c//B// A^G | \
+A/BA/A^G | Azec | dFGA | DzFz | dzfz | d a//g//f//e// d/A/d/f/ | dzBz | \
+g//a//b//a// g//f//e//d// !fermata!c z | c z3 | z2 d//c//B//A// G//F//E//D// | \
+{d}c2dz | d2-d/d/c/B/ | c2-c/e/d/c/ | B/B/B/B/ c/c/c/c/ | Bb^gz/g/ | \
+a/e//d// c/e/ Az | Z3 | fzfz | dA F/D//>D// F/A/ | dcdz || Z13 |]

@@ -1,0 +1,207 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:II. Joy, Joy doth so arise
+O: Canzonets, or Little Short songs to three voyces
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+C: Thomas Morley
+K:C
+T: Cantus
+N: Original clef, treble
+% %%LY voices oldclef="treble"
+N: Range D to g
+% %%LY voices range="<d'4 g''4>"
+M:C
+L:1/4
+z8 z4 d2    d   d   B>c    d   B   c3 B    A     G \
+w:      Joy, joy doth so a- rise and so con- tent con-
+L:1/8
+   ^F G A F  \
+w: tent _ _ _
+    G2   d2   d2  d2  B3 c  d2   B2  c6  B2 \
+w:  mee, Joy, joy doth so a- rise and so con-
+ A2     B2   A4  G8 z2 g2  g2 g2 e4   c4  f4 e4 d4   e2 d2 ^c2   A2    d6 ^c B \
+w: tent, con- tent mee, when I but see thee o my lifes, O my lifes faire trea - _ 
+L:1/4
+    ^c2   d     d    d  d    B>c   d    B   c3  B    A2  G2   A4   \
+w:  _     sure, Joy, joy doth so a- rise and so con- tent con- tent 
+"A"G2    d2   e2   ^c2 \
+w: mee, That see- ing
+    d2   B2  c       B   A4   d2     e2  ^f2  g4    ^f    d   f3  e    d2    c2  \
+w: makes mee blind, (a- las) through to great plea- sure, But if such blind- ing,
+   _B2   A     c     d     e    f3 e   d4    ^c    f    e       d  ^c   d  \
+w: sweet Love, sweet Love, doth so de- light thee, such blind- ing doth de-
+   e     d     ^c     d2   ^c     \
+w: light thee, sweet Love, come, 
+"B"d2 z2 z d    d     c  B2   A2    B>c     B \
+w: come, come, Love, and more thus, yet and yet
+   A2    G2    F   E      D   E2     ^F   \
+w: more, blind mee still and spight mee, 
+L:1/16
+  G6 ^F E ^F4  \
+w:and _ _ _
+L:1/4
+   G2     D2 z g    g      f \
+w:spight mee, come, Love, and
+  e     c    e    d   c    g    g     f   e    c     e  \
+w:more thus, more and more come Love, and more thus, more 
+L:1/8
+   d c  \
+w:and _
+  B2    G2 \
+w:more thus
+L:1/4
+   c     B   A     G    A2     \
+w: blind mee still and spight 
+"C"G    d     d     c   B>c      B     A2   G2 \
+w: mee, Come, Love, and more and more thus, more
+   ^F  G     g    g     f   e>f      e     d    ^c d2   ^c d    d2    c \
+w: and more, come, Love, and more and more thus, I thus, I thus, blind mee
+    B    G   B A   \
+w: still and spight _
+   G4 z g    g    f   e    c     e    d   c     c    G     ^F \
+w: mee, Come Love and more thus, more and more, thus blind mee
+L:1/8
+   G4     A2 G4 ^F E ^F4 \
+w: still and spight  _ _ _  
+  G4   d4 e4  e4 d6c2 \
+w:mee, I doe and spight  _
+   HB8 |]
+w: mee.
+
+X:2
+T:II. Joy, Joy doth so arise
+O: Canzonets, or Little Short songs to three voyces
+C: Thomas Morley
+%%MIDI nobarlines
+%%gchordfont Helvetica 12 box
+K:C
+T: Altus
+N: Original clef, treble
+N: Range D to g
+M:C
+L:1/4
+N: Original clef, treble
+    d2  d    d   B>c    d    B  c2  B2   A  G     A2 \
+w: Joy, joy doth so a- rise and so con- tent con- tent
+   G     g   g    g   e>f   g    e    f e    d c   B4 \
+w: mee, Joy, joy doth so a- rise and so con- tent _ mee,
+z  g    g   g   e>f   g    e    \
+w:Joy, joy doth so a- rise and 
+ ^f  g2  ^f   g    d    d d   B2   G2  c2 A2  d2  c4 \
+w:so con- tent mee, when I but see thee O my lifes faire 
+    B2   A2    G  F E     D     E2    ^F    G2 ^F \
+w: trea- sure, O my lifes faire trea- sure, trea - 
+   G4 z  G     G   G    ^F  D   G>   G \
+w:sure.  Joy,  joy doth so  a-  rise and
+   ^F G     G ^F  \
+w: so con- tent _
+"A" G4   G2  A2   ^F2 G2   E2  ^F    G2      ^F  G4   d4 ^c2  \
+w:  mee, that see- ing maks mee blind through to great plea -
+   d4    d2  f3 e    d2     c>_B       A     G    _B A    A3  \
+w: sure, But if such blind- ing, sweet Love, doth so de- light 
+L:1/8
+G F G4 \
+w: _ _ _
+L:1/4
+   A2 z  f  \
+w: thee, such 
+   e      d   ^c   d   e     f   e2   "B"d    \
+w: blind- ing doth de- light de- light thee, 
+   d    d    c   B>c      B    A2  \
+w: Come Love, and more and more thus,
+   G2    ^F  G    g     g     f   e>f      e    d     ^c d2   ^c d    d2    c  \
+w: more and more, Come, Love, and more and more thus, I thus, I thus, blind mee
+   B     G    B  A \
+w: still and spight _
+   G4 z g     g     f   e    c     e    d   c    c    G     ^F  \
+w: mee, come, Love, and more thus, more and more thus blind mee
+   G2    A   G2  \
+w: still and spight
+L:1/8
+^F E ^F4  \
+w: _ _ _
+L:1/4
+"C"G4 z  d    d      c  B2    A2    B>c     B   A2 \
+w: mee, Come, Love, and more thus, yet and yet more
+   G2    F   E     D   E2     ^F   \
+w: blind mee still and spight mee 
+L:1/16
+   G6 ^F E  \
+w: and _ _ 
+L:1/4
+   ^F G2  \
+w: _ spight
+   D2 z g    g      f  \
+w: mee, Come, Love, and
+   e    c     e    d   c     g     g    f   e    c     e  \
+w: more thus, more and more, Come, Love and more thus, more
+L:1/8
+   d c \
+w: and _
+L:1/4
+   B    G \
+w: more thus
+   c     B  A     G   A2     G2   B2 A2 G4 ^F2 \
+w: blind me still and spight mee, I and spight _
+ HG4 |]
+w: mee.
+
+X:3
+T:II. Joy, Joy doth so arise
+O: Canzonets, or Little Short songs to three voyces
+C: Thomas Morley
+K:C -8va
+T: Bassus
+N: Original clef, C on third line, so this is a tenor G clef, sounding an octave lower than written
+N: Range D, to G
+M:C
+%%MIDI nobarlines
+%%MIDI transpose -12
+L:1/4
+z4 g2   g    g   e>f   g     e  ^f  g2   ^f  g4 =
+w: Joy, joy doth so a- rise and so con- tent mee,
+    c4 d4 G4   G4   c4   \
+w: and so con- tent mee, 
+%%gchordfont Helvetica 12 box
+z d   d  d   B2  G    g \
+w:   when I but see thee, when
+   g  g  e2  c2    f2 _B2  c2    G4    A8 \
+w: I but see thee, O  my lifes faire trea- 
+   d4  z G    G    G   E> F  G    G   D2   E2 \
+w: sure, Joy, joy doth so a- rise and so con-
+   D4     \
+w: tent
+"A" G4 z4 d2  e2   c2 d4 G2     c2  d2     e4   d2    d2   d3 d \
+w:  mee, That blind I am through too great plea- sure, But if such
+   A2     _B2  F     f2    e    d3 c   _B4   A2    A2   A2 A2  A4    \
+w: blind- ing, sweet Love, doth so de- light thee, doth so de- light 
+"B"d2    d2  \
+w: thee, Come,
+   d2    d2 d3    d   G2    d2   A   c2    d   A4     d4 z g      g    f \
+w: Love, and more and more blynd mee still and spight mee, Come, Love, and
+   e    c    e     d   c3   d   e2   c     d    A     c2     d  G     c  \
+w: more yet, yet, yet, more and more blind mee still, blind mee still and
+   F       G   d4     \
+w: spight and spight 
+"C"G4   d2    d     d   d2    d2 G2   d2    A   c2    d \
+w: mee, Come, Love, and more and more blynd mee still and
+   A4     d4 z g     g     f  e      c    e    d    c3   d   e2   c     d \
+w: spight mee, Come, Love, and more, yet, yet, yet, more and more blind mee
+   A      c2    d    G    c   F       G    d4    G2   G2 c2   c2   d4    HG4 |]
+w: still, blind mee still and spight, and spight mee, (I doe) and spight mee.

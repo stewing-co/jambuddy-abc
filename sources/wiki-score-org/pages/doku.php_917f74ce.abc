@@ -1,0 +1,13 @@
+X:604
+T:Ns.8-9
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:D
+V: 4 clef=bass name="Cello" sname="Vc."
+%%MIDI program 1 1
+%%staves [ 4 ]
+%----------- edit between the lines ------------
+[Q:"Moderadamente"] Z | "^brincando" zz/ .A,/  | .D/.F/ x | X | z/ .D//.A,// !sfz! D,/ z/ | X2 | \
+(!>![D,,A,,]2 | [C,,A,,]) z  |"_TBC" X
+%-----------------------------------------------

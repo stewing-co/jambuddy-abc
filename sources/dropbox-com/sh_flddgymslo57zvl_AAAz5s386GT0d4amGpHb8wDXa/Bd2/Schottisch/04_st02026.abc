@@ -1,0 +1,73 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Burschenleben (Schottisch)  CF  (ABAC)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.277 (st02026) orig. C,F
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T:Überliefert vermutlich durch Joggi Stocker (1889-1956)
+%%MIDI program 21
+P:ABAC
+R:shottische
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G/G/ | [P:A] "C".e2.d2 | .c2.B2 | "G7"AG/G/ Gf | B3G/G/ | A>G Gf | B3G | "C"A>G Ge | 
+cG cd | .e2.d2 | .c2.B2 |  "G7"AG/G/ Gf | B3G | A>G Gf | G2AB | "C"c2 "G7"GA/B/ | 
+"C"cc cG/G/  [P:B] |: "D7"G>A B>c | df ed | "C"c>g e>g | e3c |1 "G7"B>g f>g | f3B | "C"c>g eg | 
+e3 G/G/ :|2 "F"A>f ed | "C"c>B AG | "G7"Gf AB | "C"cc c"_Teil A"z || [K:F] F/F/ [P:C] | "F"FA cf | 
+f3f/f/ | fA fA | "C7"B3G/G/ | GB Bg | g3f | e>d c/B/A/G/ | "F"Fdc2 | FA cf | 
+f3B/B/ | "Gm"Bc dg | g3f | "C7"e>d cd/e/ | "F"fA dc | "C7"ef/e/ de | "F"ff fz |]  
+W:Parts: AB-AC
+ % st02026 (H 071/TN 34)
+
+X:2
+T: Burschenleben (Schottisch)  CF  (st02026)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G/G/ | "C".e2.d2 | .c2.B2 | "G7"AG/G/ Gf | B3G/G/ | A>G Gf | B3G | "C"A>G Ge | 
+cG cd | .e2.d2 | .c2.B2 |  "G7"AG/G/ Gf | B3G | A>G Gf | G2AB | "C"c2 "G7"GA/B/ | 
+"C"cc cG/G/ |: "D7"G>A B>c | df ed | "C"c>g e>g | e3c |1 "G7"B>g f>g | f3B | "C"c>g eg | 
+e3 G/G/ :|2 "F"A>f ed | "C"c>B AG | "G7"Gf AB | "C"cc c"_Teil A"z || [K:F] F/F/ | "F"FA cf | 
+f3f/f/ | fA fA | "C7"B3G/G/ | GB Bg | g3f | e>d c/B/A/G/ | "F"Fdc2 | FA cf | 
+f3B/B/ | "Gm"Bc dg | g3f | "C7"e>d cd/e/ | "F"fA dc | "C7"ef/e/ de | "F"ff fz |]  
+W:Parts: AB-AC
+ % st02026 
+
+X:3
+T:Burschenleben (Schottisch)  GC 5-  (st02026)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+D/2D/2 | "G".B2.A2 | .G2.F2 | "D7"ED/2D/2 Dc | F3D/2D/2 | E>D Dc | F3D | "G"E>D DB | 
+GD GA | .B2.A2 | .G2.F2 | "D7"ED/2D/2 Dc | F3D | E>D Dc | D2EF | "G"G2 "D7"DE/2F/2 | 
+"G"GG GD/2D/2 |: "A7"D>E F>G | Ac BA | "G"G>d B>d | B3G |1 "D7"F>d c>d | c3F | "G"G>d Bd | 
+B3 D/2D/2 :|2 "C"E>c BA | "G"G>F ED | "D7"Dc EF | "G"GG G"_Teil A"z || [K:C] C/2C/2 | "C"CE Gc | 
+c3c/2c/2 | cE cE | "G7"F3D/2D/2 | DF Fd | d3c | B>A G/2F/2E/2D/2 | "C"CAG2 | CE Gc | 
+c3F/2F/2 | "Dm"FG Ad | d3c | "G7"B>A GA/2B/2 | "C"cE AG | "G7"Bc/2B/2 AB | "C"cc cz |] 
+W:Parts: AB-AC
+% st02026 
+
+X:4
+T:Burschenleben (Schottisch) D&G (tinwhistle in D) solo
+T:st02026 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:2/4
+L:1/8
+K:D transpose=12
+A/2A/2 | .f2.e2 | .d2.c2 | BA/2A/2 Ag | c3A/2A/2 | B>A Ag | c3A | B>A Af | 
+dA de | .f2.e2 | .d2.c2 | BA/2A/2 Ag | c3A | B>A Ag | A2Bc | d2 AB/2c/2 | 
+dd dA/2A/2 |: A>B c>d | eg fe | d>a f>a | f3d |1 c>a g>a | g3c | d>a fa | 
+f3 A/2A/2 :|2 B>g fe | d>c BA | Ag Bc | dd d"_Teil A"z |] [K:G] G/2G/2 | GB dg | 
+g3g/2g/2 | gB gB | "_c"c3A/2A/2 | Ac ca | a3g | f>e d/2c/2B/2A/2 | Ged2 | GB dg | 
+g3c/2c/2 | cd ea | a3g | f>e de/2f/2 | gB ed | fg/2f/2 ef | gg gz |]
+W:Parts: AB-AC
+% st02026 
+% Sep 27, 2016

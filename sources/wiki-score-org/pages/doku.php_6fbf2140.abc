@@ -1,0 +1,64 @@
+X:101
+T:[Kyrie]
+C:Carvalho, Jo\~ao de Sousa (1745-1798)
+M:C
+L:1/4
+K:C
+V: 1 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 1 )]
+%--------------------
+% p.4 (fol.1v)
+[Q:"Allegro con spirito"] g/2 | g/2e/2g/2c'/2 b1/4c'1/4b1/4a1/4 g/2f/2 | e z {f}e/2d1/4c1/4 {g}f/2e1/4d1/4 |g/2e/2g/2c'/2 b1/4c'1/4b1/4a1/4 g/2f/2 |e z/4 G/4A/4B/4 c1/4d1/4e1/4f1/4 g1/4f1/4e1/4d1/4|c z z2 | \
+% p.5 (fol.2r)
+z4 |z2 g2 | a2 d2 | e z z2 | z4 | z2 g2 | \
+% p.6 (fol.2v)
+a2 g2 | a4 | d/2 g d/2 e2 |d/2 g d/2 e2 | d z z2 |z4 | z4 | \
+% p.7 (fol.3r)
+z4 | z4 | a c'/2a/2 g/2e/2 {g}f/2e1/4d1/4 | c e1/4c1/4e1/4g1/4e e1/4c1/4e1/4g1/4|e g e z | g/2e/2 g/2c'/2 b1/4c'1/4b1/4a1/4 g/2f/2 | e z/ c/2 {f}e/2d1/4c1/4 {g}f/2e1/4d1/4 | \
+% p.8 (fol.3v)
+g/2e/2 g/2c'/2 b1/4c'1/4b1/4a1/4 g/2f/2 | e z/4 G/4A/4B/4 c1/4d1/4e1/4f1/4 g1/4f1/4e1/4d1/4 | c z z2 |z4 | z2 c'2 | a2 g2 | \
+%p.9 (fol.4r)
+a d e z | z4 | z4 | z2 c'2 | a2 (g2 | g) (c' c'/2)b/2a/2g/2 | \
+% p.10 (fol.4v)
+a g f e | d/2g/2 {a}g/2^f1/4g1/4 (g2 | g2) c'2 | b/2g/2 {a}g/2^f1/4g1/4 (g2 | g2) c'2 | b g/2d/2 e2 | \
+% p.11 (fol.5r)
+d b c'2 | b1/4c'1/4d'1/4c'1/4 b1/4c'1/4d'1/4c'1/4b z | z2 z/2 (B/2d/2B/2 )| A z z/2 (a/2c'/2b/2 )| {b} a z z/2 (c'/2b/2a/2 )| b z z/2 (b/2g/2d/2 )| {c} B z z/2 (b/2c'/2b/2 ) | \
+% p.12 (fol.5v)
+a z !f! g2 | a2 b2 | a4 | (g4 | g)g/2=f/2 e/2g/2e/2c/2 | B2 c2 | f2 e2 | \
+% p.13 (fol.6r)
+d/2z///d1/8e1/8^f1/8 g2 a/2c'/2 | b2 a2 | g z (!p!e2 | d) z z/ (c'/2b/2a/2 )| !f! (b/2a/2d/2 ) z/2 (e2 | d) z z/2 (c'/2b/2a/2 )| (b/2g/2)g/2b/2 g z | \
+% p.14 (fol.6v)
+z4 | z4 | z4 | !p! (d4 | c) z z2 | z4 |z4 | g4 | \
+% p.15 (fol.7r)
+g4 | {g} f g2 f | b4 | a4 | b2 a2 | b2 a2 | g b1/4a1/4g1/4^f1/4 g1/4a1/4b1/4a1/4 g1/4f1/4e1/4d1/4| \
+% p.16 (fol.7v)
+c c'1/4b1/4a1/4g1/4^f2 | g/2b/2 g2 d | e c' b a | g g1/4d1/4g1/4b1/4g g1/4d1/4g1/4b1/4| g b g z | d2 ^f2 | g z/2 G/2 {c}B/2A1/4G1/4 {d}c/2B1/4A1/4 | \
+% p.17 (fol.8r)
+d2 ^f2 | g z1/4D/4E1/4^F1/4 G1/4A1/4B1/4c1/4 d1/4c1/4B1/4A1/4| G z z2 | z4 | z2 g2 | g2> ^f2 | g4 | \
+% p.18 (fol.8v)
+g2 b2 | c' z1/4G1/4A1/4B1/4 c1/4d1/4e1/4f1/4 g1/4f1/4e1/4d1/4| c z z2 | z4 |z2 g2 |a2 c'2 | \
+% p.19 (fol.9r)
+g2 c'2 | c'4 | b g e c' |b g e c' | b g b !fermata! z ||[Q:"Andantino"] "^Soli"[M:2/4] [K: Bb] z1/4 (e1/4f1/4g1/4 _a1/4g1/4c'1/4a1/4)| g/2 z/2 z | \
+% p.20 (fol.9v)
+z/4 (d1/4e1/4f1/4 f1/4d1/4_a1/4f1/4 )| d/2 z/2 z | z/ (e1/4g1/4) e1/2 z/2| z/ (f/4d1/4 ) f/2 z/2 | z/4 (f1/4d1/4f1/4 _a/2 ) z/2 | z/2 (g/2e/2=B/2 )| (c2 | \
+% p.21 (fol.10r)
+c/2) (c'/2_a/2=e/2 )| f z | z2 | z2 | z/4 (e1/4f1/4g1/4 _a1/4g1/4c'1/4b1/4)|(a1/4g1/4f1/4e1/4 d1/4c1/4B1/4A1/4)|G/2 (b1/2g1/2 )z/2 | \
+% p.22 (fol.10v)
+z1/2 (d1/4e1/4 f1/4g1/4_a1/4g1/4 )|f/2 (a/2f/2 ) z/2 | z z/2 g/2 |(f1/4d1/4 ) f/2 z | z2 |z2 | z2 | \
+% p.23 (fol.11r)
+z z/2 g/2 | (g/2f1/4e1/4 d1/4e1/4f1/4g1/4 )| ._a/2.g1/4b/4 (b/4g/4b/4g/4)|.f/2.e/4(g/4 g/4e/4g/4e/4 )|z/4 d/4e/4(f/4 f/4d/4f/4d/4 )| e/z//e// .g/4 (g/4c'/4b/4)| (_a/4f/4a/4f/4) e/2d/2 |z/2 (c'/4=b/4 c'/4_b/4_a/4g/4 )| \
+% p.24 (fol.11v)
+(a/4f/4a/4f/4 e/2d/2 ) ||
+[Q:"Tempo Primo"][M:C] [K:C] c z z2 | !f! !p! "_cresc(?)" _b4 |(a2 g2)| !f!a2 b2 |c' g2 g/2f/2 | e z/2 c/2 {f}e/2d/4c/4 {g}f/2e/4d/4 | \
+% p.25 (fol.12r)
+g e d>f |e z/4 G/4A/4B/4 c/4d/4e/4f/4 g/4f/4e/4d/4 | c g a2 | g c'/2_b/2 a/2g/2a/2g/2 |e>f (g2 | g) d e2 | \
+% p.26 (fol.12v)
+d g2 c' | b c'2 b |c' z (a2 |g) z z/2 f/2e/2d/2 | e z (a2 |g) z z/2  f/2e/2d/2 | \
+% p.27 (fol.13r)
+e/2g/2c'/2g/2 e z | f2 z2 | z4 | z4 |z4 |z4 |z4 |z4 | \
+% p.28 (fol.13v)
+z2 _b2 |a2 c'2 | =b g a d |e2 (c'2 |c'2) b2 |c' e d g/2f/2 | e c' b c' | \
+% p.29 (fol.14)
+c' e/4c/4e/4g/4e e/4c/4e/4g/4| e/2x/8{f}g/8a/8c'/8 c'/2g/2 e/2c/2e/2g/2 | c' g e !fermata! z |]
+%---------------

@@ -1,0 +1,179 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XII. Thirsis
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+N: original clef: treble
+M:C
+K:A min
+T: Cantus
+L:1/4
+%1
+c4 B4 z e e e d > e c > d B e d g\
+w:Thir- sis, let, let, let pit- tie, pit- tie, let, let some some
+%2
+f e d2 e4 z c d > c B A B2 "A"^c A\
+w:pit- tie move thee, let o some pit- tie move thee, thou
+%3
+e d/ c/ B c d e c2 B c d c B2 c2 B e d e\
+w:knowest (o a- las) thy Clo- ris too too _  well _ doth love thee, to well,  doth
+%4
+e d "B"e4 z2 z e g f/ e/ d g f e d2 "C"e4 z c d > c\
+w:love _ thee, thou knowest (o a- las) to well doth love thee, Then why, o
+%5
+B A B2 A2 z2 e e > e d e c B2 z d e c B2 A2 \
+w:dost thou flye mee, I faint a- las o I faint: heere must I lye mee,
+%6
+z2 e e > e d e c B2 z d e c B2 "D"A2 z2 z a > g f\
+w:I faint, a- las, o I faint, heere must I lye mee, Cry a- las
+%7
+e d ^c f e d2 ^c d2 A d > c B A G\
+w:now for griefe since hee is bee- reft thee, up the hills downe the
+%8
+^F G A2 B e > d c B A ^G c B A2 ^G "E"A2 z2 \
+w:dales thou seest, deere, up the hills down the dales I have not left thee
+%1r
+z2 a2 g > g f > f e3/2 d// c// d d c d e2 d e f2\
+w:Ah can these trick- ling teares, _ _ _ these teares of myne, not pro- cure
+%2r
+e4 z2 z c d > d c3/2 B// A// B e d g f e2 d "F"e2 z e g > g\
+w:love? can not these trick - __ ling teares pro - cure _ love? what Shep-herd
+%3r
+f > f e3/2 d// c// d d c d e e d > e c > d B A\
+w:e- ver kild _ _ _ a Nimphe, what shep- herd e- ver kild a Nimphe for 
+%4r
+B2 "G"^c2 z2 z2 z A d > d c > c B c A2 ^G G A B c A ^G2\
+w:pure love? See cru- el, cru- el, see the beasts, see their teares they doe re- ward
+%5r
+A2 z B c d e3 c B2 H^c4 |]\
+w:mee, yet thou dost not re- gard mee.
+
+X:2
+T:XII. Thirsis
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+N: original clef: C on first line
+M:C
+K:A min
+T: Altus
+L:1/4
+%1
+A4 ^G4 z c c c B > c A > B G c B e\
+w:Thir- sis, let, let, let pit- tie, pit- tie, let some some pit-
+%2
+d c2 B c G c > B A A B > A ^G A2 ^G\
+w:tie move _ thee, let pit- tie  Thir- sis, pit- tie move _ _
+%3
+"A"A A c B/ A/ ^G A B ^G A2 G A B A A ^G A A\
+w:thee, thou knowest o a- las thy Clo- ris too too _ well doth love _ thee, to
+%4
+G c B c A2 "B"^G2 z B c B/ A/ G c B3 G A/ B/ c2 B\
+w:well, to well doth love thee, thou knowest, o a- las to well doth love _ _ _
+%5
+"C"c G c > B A A B > A ^G A A ^G A2 c c > c B  c A\
+w:thee, yet thou un- kind, yet thou un- kind dost flye _ mee, I faint a- las, see I
+%6
+^G A2 ^G A B c A ^G2 A2 c c > c B c A ^G A2 ^G\
+w: faint,  o I faint, heere must I lye mee, I faint a- las o I faint, O I
+%7
+A B c A ^G2 "D"A c > B A G F E A > G F E D\
+w:faint, heere must I lye mee, Cry a- las then for griefe, cry a- las now for
+%8
+^C F E2 D > E ^F ^G A d > c B A G2 ^F G2 E\
+w:griefe, since hee is bee - reft thee, up hil and downe dale thou seest, deere,
+%1r
+e > d c B A d c B2 "E"^c2 c2 B > B A/ G/ A/ B/ c/ G/ c2 B\
+w:up hill and downe I have not left thee, Ah can these trick _ _ _ _ ling teares of
+%2r
+c A2 ^G A > B c c B c2 B c G c > c B  B > A \
+w:myne, teares of myne, of myne not pro- cure _ love? ah can these trick- ling _
+%3r
+A2 ^G A A G c B G A c2 B/ A/ "F"^G G c > c\
+w:teares of myne, of myne, of myne, not pro- cure _ _ love? what Shep- herd
+%4r
+B3/2 A// G// A B c A3/2 ^G// ^F// ^G A > B c c B >  c A > B\
+w:e - _ _ ver yet killed _ _ a Nimphe what shep- herd e- ver kild a
+%5r
+^G A A ^G "G"A A c > c B B > A A2 ^G A E2 E2 D\
+w:Nimphe for pure _ love? See cru- ell, see cru- ell see these beasts, ah see the
+%6r
+E B, C D E C B,2 A, A G F E3 ^F ^G A2 ^G HA4 |]\
+w:beasts their teares they doe re- ward mee, but thou dost not re - gard _ mee.
+
+X:3
+T:XII. Thirsis
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI transpose -12
+N: original clef: C on third line
+M:C
+%K:A min
+K: A min -8va
+T: Bassus
+L:1/4
+%1
+A4 e4 z c c c g > e f > d e c g e f2\
+w:Thir- sis, O let, let pit- tie, pit- tie, o let some  pit- tie
+%2
+g2 c2 z c f > e d d e f e2 "A"A4 z4\
+w: move thee, let pit- tie  Thir- sis, pit- tie move thee:
+%3
+z A e d/ c/ B c d e A/ B/ c/ d/ e c g e f2\
+w:thou knowest o a- las thy Clo- ris too _ too _  well, thou knowest doth love
+%4
+"B"e3 e a g/ f/ e a g3 e f2 g2 "C"c2 z c f > e d d\
+w:thee, thou knowest, o a- las, to well doth love _ thee, yet thou un- kind dost
+%5
+e4 A2 a a > a g a f e2 z e f d c > d e2 A2\
+w:flye mee; I faint a- las o I faint; heere must, heere must I lye mee;
+%6
+a a > a g a f e2 z e f d c > d e2 "D"A a > g f\
+w: I faint,  a- las, o I faint, heere must, heere must I lye mee, Cry a- las
+%7
+e d ^c d A2 A A A4 D d > c B A G ^F G\
+w:now for griefe since he is be- reft thee; up the hills down the dales the
+%8
+d B d2 G c > B A ^G A e c d A e2 "E"A2 a2\
+w:hills and dales downe; up hill and downe I have not left not left thee, Ah
+%1r
+g > g f > f e c d2 c3/2 B// A// B B A f e c\
+w:can these trick- ling teares of myne, trick - _ _ ling teares theses teares no
+%2r
+g e d2 c3 A d > d c3/2 B// A// B B A f e c\
+w:whit pro- cure love? ah can these trick - _ _ ling teares, these teares of
+%3r
+g e d e f2 "F"e2 z A e > e d> d c3/2 B// A// B B\
+w:myne, no whit pro- cure love? what shep- herd e- ver kild _ _ _ a 
+%4r
+A f e c g > e f > d e f e2 "G"A3 A\
+w:Nimphe, what Shep- herd e- ver killd a Nimphe for pure love? See
+%5r
+d > d c3/2 B// A// B B A A G E F2 E4 z2 z E F2 G2\
+w:cru- ell, see _ _ _ the beasts their teares re- ward mee, yet thou dost
+%6r
+A3 A E4 HA4 |]\
+w:not re- gard mee.

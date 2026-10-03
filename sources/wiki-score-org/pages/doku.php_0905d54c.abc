@@ -1,0 +1,24 @@
+X:1406
+T:N.14 Brinde
+C:Fonseca, Eduardo da (1863-1938)
+M:2/4
+L:1/4
+K:Bb
+V: 6 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 6 ]
+%--------------
+[Q:"Marcial"] F,/=E,/F,/E,/ | _E,/D,/C,/B,,/ | A,,/z/ !>!(F, | B,,/)z/ (B, | F,D,) !segno!|: \
+C,/z/ F,/z/ | F,/z/ F,/z/ | B,,/z/ B,/z/ |  F,/z/ D,/z/ | C,/z/  F,/z/ | C,/z/  F,/z/ | B,,/z/ B,/z/ | \
+F,/z/ D,/z/|C,/z/ F,/z/|F,/z/ F,/z/|B,,/z/ B,/z/|F,/z/ D,/z/|C,/z/z|C,/z/z|F,/z/z|zz!f!|| \
+%----- 1 to 11 -----
+F,/z/z | F,/z/z | B,,/z/z | B,,/z/z | E,/z/z | E,/z/!>!E, | D,z | D,/z/D, | E,z | E,z | D,/z/z | \
+%------
+D,/z/z!p! | C,/z/z | F,/z/z | B,,/z/z | C,/z/z | \
+%----- 1 to 11 -----
+F,/z/z | F,/z/z | B,,/z/z | B,,/z/z | E,/z/z | E,/z/!>!E, | D,z | D,/z/D, | E,z | E,z | D,/z/z | \
+%------
+D,/z/z|E,E,|F,F,/F,/|\
+!fermata!F,2!coda!|[1 B,,/z/ B,/z/|F,/z/ D,/z/ !segno!:|2 B,,/z/z | F,/=E,/F,/E,/ || \
+_E,/D,/C,/B,,/ | A,,/z/!>!F,|B,,/z/ B,/z/!ff!|!fermata!B,,2-|B,,/z/z |]
+%-------------------

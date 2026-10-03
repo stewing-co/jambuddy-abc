@@ -1,0 +1,78 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Mazurka  CG
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.124 (mz09198) orig. C.G
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c>de4 | "G7"B>cd4 | g>a gf ed | "C"f>ec2c2 | c>de4 | "G"B>cd4 | "D7"d>c' ba g^f | "G"g2g2z2 :| [K:G]  "D7".a2!>!d4 | "G".b2 !>!g4 | 
+"D7"a>g fe dc | "G"B>ed2d2 | "D7".a2!>!d4 | "G".b2 !>!"(Em)"g4 | f>g fe d^c | "D"d2d2z2 | "D7".a2!>!d4 | "G".b2 !>!g4 | "D7"a>g fe dc | "G"B>ed2d2 | 
+"Am".a2!>!a4 | "E7".b2!>!b4 | "Am"c'>b ag "D7"fd | "G"g2g2z2 |: [K:C]  "C"eG!>!c4 | ea!>!g4 | "G7".b2 d>^cd2 | "C".c'2c>Bc2 |  eG!>!c4 | ea!>!g4 | 
+"G7".b2 d>^c d>g | "C"c2c2z2 :| [K:G] ("G"dB) g3f | "Am/C"f2e2e2 | "D7"dc'3ba | "G"gbd2d2 | (dB) g3f | "Am/C"f2e2e2 | "D7"d>e f>g a>b | "G"g2g2z2 |] 
+% mz09198
+X:2
+T:Mazurka  FC 7-
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"F>GA4 | "C7"E>FG4 | c>d cB AG | "F"B>AF2F2 | F>GA4 | "C"E>FG4 | "G7"G>f ed c=B | "C"c2c2z2 :| [K:C] "G7".d2!>!G4 | "C".e2 !>!c4 | 
+"G7"d>c BA GF | "C"E>AG2G2 | "G7".d2!>!G4 | "C".e2 !>!"(Am)"c4 | B>c BA G^F | "G"G2G2z2 | "G7".d2!>!G4 | "C".e2 !>!c4 | "G7"d>c BA GF | "C"E>AG2G2 | 
+"Dm".d2!>!d4 | "A7".e2!>!e4 | "Dm"f>e dc "G7"BG | "C"c2c2z2 |: [K:F] "F"AC!>!F4 | Ad!>!c4 | "C7".e2 G>^FG2 | "F".f2F>EF2 | AC!>!F4 | Ad!>!c4 | 
+"C7".e2 G>^F G>c | "F"F2F2z2 :| [K:C] ("C"GE) c3B | "Dm/F"B2A2A2 | "G7"Gf3ed | "C"ceG2G2 | (GE) c3B | "Dm/F"B2A2A2 | "G7"G>A B>c d>e | "C"c2c2z2 |] 
+% mz09198
+X:3
+T:Mazurka  CG (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"c>de4 | "G7"B>cd4 | g>a gf ed | "C"f>ec2c2 | c>de4 | "G"B>cd4 | "D7"d>c' ba g^f | "G"g2g2z2 :| [K:G]  "D7".a2!>!d4 | "G".b2 !>!g4 | 
+"D7"a>g fe dc | "G"B>ed2d2 | "D7".a2!>!d4 | "G".b2 !>!"(Em)"g4 | f>g fe d^c | "D"d2d2z2 | "D7".a2!>!d4 | "G".b2 !>!g4 | "D7"a>g fe dc | "G"B>ed2d2 | 
+"Am".a2!>!a4 | "E7".b2!>!b4 | "Am"c'>b ag "D7"fd | "G"g2g2z2 |: [K:C]  "C"eG!>!c4 | ea!>!g4 | "G7".b2 d>^cd2 | "C".c'2c>Bc2 |  eG!>!c4 | ea!>!g4 | 
+"G7".b2 d>^c d>g | "C"c2c2z2 :| [K:G] ("G"dB) g3f | "Am/C"f2e2e2 | "D7"dc'3ba | "G"gbd2d2 | (dB) g3f | "Am/C"f2e2e2 | "D7"d>e f>g a>b | "G"g2g2z2 |] 
+% mz09198
+X:4
+T:Mazurka  FC (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"F>GA4 | "C7"E>FG4 | c>d cB AG | "F"B>AF2F2 | F>GA4 | "C"E>FG4 | "G7"G>f ed c=B | "C"c2c2z2 :| [K:C] "G7".d2!>!G4 | "C".e2 !>!c4 | 
+"G7"d>c BA GF | "C"E>AG2G2 | "G7".d2!>!G4 | "C".e2 !>!"(Am)"c4 | B>c BA G^F | "G"G2G2z2 | "G7".d2!>!G4 | "C".e2 !>!c4 | "G7"d>c BA GF | "C"E>AG2G2 | 
+"Dm".d2!>!d4 | "A7".e2!>!e4 | "Dm"f>e dc "G7"BG | "C"c2c2z2 |: [K:F] "F"AC!>!F4 | Ad!>!c4 | "C7".e2 G>^FG2 | "F".f2F>EF2 | AC!>!F4 | Ad!>!c4 | 
+"C7".e2 G>^F G>c | "F"F2F2z2 :| [K:C] ("C"GE) c3B | "Dm/F"B2A2A2 | "G7"Gf3ed | "C"ceG2G2 | (GE) c3B | "Dm/F"B2A2A2 | "G7"G>A B>c d>e | "C"c2c2z2 |] 
+% mz09198
+X:5
+T:Mazurka G&D (tinwhistle in D)
+T:mz09198 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"G>AB4 | "D7"F>GA4 | d>e dc BA | "G"c>BG2G2 | G>AB4 | "D"F>GA4 | "A7"A>g fe d^c | "D"d2d2z2 :| [K:D] "A7".e2!>!A4 | "D".f2 !>!d4 | 
+"A7"e>d cB AG | "D"F>BA2A2 | "A7".e2!>!A4 | "D".f2 !>!"(Bm)"d4 | c>d cB A^G | "A"A2A2z2 | "A7".e2!>!A4 | "D".f2 !>!d4 | "A7"e>d cB AG | "D"F>BA2A2 | 
+"Em".e2!>!e4 | "B7".f2!>!f4 | "Em"g>f ed "A7"cA | "D"d2d2z2 |: [K:G] "G"BD!>!G4 | Be!>!d4 | "D7".f2 A>^GA2 | "G".g2G>FG2 | BD!>!G4 | Be!>!d4 | 
+"D7".f2 A>^G A>d | "G"G2G2z2 :| [K:D] ("D"AF) d3c | "Em/G"c2B2B2 | "A7"Ag3fe | "D"dfA2A2 | (AF) d3c | "Em/G"c2B2B2 | "A7"A>B c>d e>f | "D"d2d2z2 |] 
+X:6
+T:Mazurka G&D (tinwhistle in D) solo
+T:mz09198 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:G transpose=12
+G>AB4 | F>GA4 | d>e dc BA | "_c"c>BG2G2 | G>AB4 | F>GA4 | A>g fe d^c | d2d2z2 :| [K:D] .e2!>!A4 | .f2 !>!d4 | 
+e>d cB AG | F>BA2A2 | .e2!>!A4 | .f2 !>!d4 | c>d cB A^G | A2A2z2 | .e2!>!A4 | .f2 !>!d4 | e>d cB AG | F>BA2A2 | 
+.e2!>!e4 | .f2!>!f4 | g>f ed cA | d2d2z2 |: [K:G] BD!>!G4 | Be!>!d4 | .f2 A>^GA2 | .g2G>FG2 | BD!>!G4 | Be!>!d4 | 
+.f2 A>^G A>d | G2G2z2 :| [K:D] (AF) d3c | c2B2B2 | Ag3fe | dfA2A2 | (AF) d3c | c2B2B2 | A>B c>d e>f | d2d2z2 |]
+% Aug. 21, 2016

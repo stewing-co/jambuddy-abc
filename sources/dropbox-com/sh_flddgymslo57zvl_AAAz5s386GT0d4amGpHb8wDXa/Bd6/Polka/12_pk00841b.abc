@@ -1,0 +1,100 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Polka  G
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.195 (pk00841b) orig. G-Dur
+T:Gomser T\"anze. S.178-195.\"Uberliefert durch Theodor Franzen, 1870-1958, Fiesch.
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"d^cdB GBdg | "Am/C"b2a2 !>!e4 | "D7"f2fa c2ce | "G"d2dg B2B2 | d^cdB GBdg | 
+"Am/C"b2a2 !>!e4 | "D7"f2fa d^def | "G"g6z2 :: "G"bagf "C"agfe | "G"eddd e2d2 | "D7"dcBc d2c2 | 
+"G"Bdgb d'4 | bagf "C"agfe | "G"eddd e2d2 | "D7"dcBc a3f | "G"g6z2 :| 
+X:2
+T:Polka  C 7-
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"G^FGE CEGc | "Dm/F"e2d2 !>!A4 | "G7"B2Bd F2FA | "C"G2Gc E2E2 | G^FGE CEGc | 
+"Dm/F"e2d2 !>!A4 | "G7"B2Bd G^GAB | "C"c6z2 :: "C"edcB "F"dcBA | "C"AGGG A2G2 | "G7"GFEF G2F2 | 
+"C"EGce g4 | edcB "F"dcBA | "C"AGGG A2G2 | "G7"GFEF d3B | "C"c6z2 :| 
+% pk00841b
+X:3
+T:Polka  F 2-
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"c=BcA FAcf | "Gm/Bb"a2g2 !>!d4 | "C7"e2eg B2Bd | "F"c2cf A2A2 | c=BcA FAcf | 
+"Gm/Bb"a2g2 !>!d4 | "C7"e2eg c^cde | "F"f6z2 :: "F"agfe "Bb"gfed | "F"dccc d2c2 | "C7"cBAB c2B2 | 
+"F"Acfa c'4 | agfe "Bb"gfed | "F"dccc d2c2 | "C7"cBAB g3e | "F"f6z2 :| 
+% pk00841b
+X:4
+T: Polka  G (5letras transposed)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"d^cdB GBdg | "Am/C"b2a2 !>!e4 | "D7"f2fa c2ce | "G"d2dg B2B2 | d^cdB GBdg | 
+"Am/C"b2a2 !>!e4 | "D7"f2fa d^def | "G"g6z2 :: "G"bagf "C"agfe | "G"eddd e2d2 | "D7"dcBc d2c2 | 
+"G"Bdgb d'4 | bagf "C"agfe | "G"eddd e2d2 | "D7"dcBc a3f | "G"g6z2 :| 
+% pk00841b
+X:5
+T:Polka  C (5letras transposed)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"G^FGE CEGc | "Dm/F"e2d2 !>!A4 | "G7"B2Bd F2FA | "C"G2Gc E2E2 | G^FGE CEGc | 
+"Dm/F"e2d2 !>!A4 | "G7"B2Bd G^GAB | "C"c6z2 :: "C"edcB "F"dcBA | "C"AGGG A2G2 | "G7"GFEF G2F2 | 
+"C"EGce g4 | edcB "F"dcBA | "C"AGGG A2G2 | "G7"GFEF d3B | "C"c6z2 :| 
+% pk00841b
+X:6
+T:Polka  F (5letras transposed)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+"F"c=BcA FAcf | "Gm/Bb"a2g2 !>!d4 | "C7"e2eg B2Bd | "F"c2cf A2A2 | c=BcA FAcf | 
+"Gm/Bb"a2g2 !>!d4 | "C7"e2eg c^cde | "F"f6z2 :: "F"agfe "Bb"gfed | "F"dccc d2c2 | "C7"cBAB c2B2 | 
+"F"Acfa c'4 | agfe "Bb"gfed | "F"dccc d2c2 | "C7"cBAB g3e | "F"f6z2 :| 
+% pk00841b
+X:7
+T:Polka D (tinwhistle in D)
+T: pk00841b (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Polka
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"A^GAF DFAd | "Em/G"f2e2 !>!B4 | "A7"c2ce G2GB | "D"A2Ad F2F2 | A^GAF DFAd | 
+"Em/G"f2e2 !>!B4 | "A7"c2ce A^ABc | "D"d6z2 :: "D"fedc "G"edcB | "D"BAAA B2A2 | "A7"AGFG A2G2 | 
+"D"FAdf a4 | fedc "G"edcB | "D"BAAA B2A2 | "A7"AGFG e3c | "D"d6z2 :| 
+% pk00841b
+X:8
+T:Polka D (tinwhistle in D) solo
+T: pk00841b (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Polka
+M:2/4
+L:1/16
+K:D transpose=12
+A^GAF DFAd | f2e2 !>!B4 | c2ce G2GB | A2Ad F2F2 | A^GAF DFAd | 
+f2e2 !>!B4 | c2ce A^ABc | d6z2 :: fedc edcB | BAAA B2A2 | AGFG A2G2 | 
+FAdf a4 | fedc edcB | BAAA B2A2 | AGFG e3c | d6z2 :|
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 21, 2016
+

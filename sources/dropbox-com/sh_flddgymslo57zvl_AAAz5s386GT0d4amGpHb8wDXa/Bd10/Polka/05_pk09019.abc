@@ -1,0 +1,84 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Polka  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.56 (pk09019) orig. C,F-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"e2g2 "G7"d2f2 | "C"c2e2g4 | {/c}"G7"B2f2g4 | {/B}"C"cegc' g2g2 | e2g2 "G7"d2f2 | "C"c2e2g4 | {/c}"G7"B2f2g4 | {/B}"C"c2e2 c2z2 :: 
+"G7"g2f2 d2a2 | "C"g2e2c4 | "G7"Bcde fgab | "C"c'2ba g2g2 | "G7"g2f2 d2a2 | "C"g2e2 c'4 | "G7"Bcde fgab | 
+"C"c'2c'2 c'2z2 :: "C"cegc' "F"b2a2 | "C"agecg4 | "G7"gfdB b2b2 | "C"agec c'2c'2 | cegc' "F"b2a2 | "C"agec !>!g4 | 
+"G7"gfdB gfdB | "C"c2e2 c2z2 :: [K:F] [L:1/8] "F"cd ef |  a3z | a>a gf | "C7"c'e e2 | ce ga | b3z | b>b a>g | 
+"F"d'ff2 | cd ef | a3z | a>a g>f | "Bb"dbb2 | db ed | "F"ca fd | "C7"Bc e/e/e | "F"ff fz :| 
+% pk09019
+X:2
+T:Polka  GC 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"B2d2 "D7"A2c2 | "G"G2B2d4 | {/G}"D7"F2c2d4 | {/F}"G"GBdg d2d2 | B2d2 "D7"A2c2 | "G"G2B2d4 | {/G}"D7"F2c2d4 | {/F}"G"G2B2 G2z2 :: 
+"D7"d2c2 A2e2 | "G"d2B2G4 | "D7"FGAB cdef | "G"g2fe d2d2 | "D7"d2c2 A2e2 | "G"d2B2 g4 | "D7"FGAB cdef | 
+"G"g2g2 g2z2 :: "G"GBdg "C"f2e2 | "G"edBGd4 | "D7"dcAF f2f2 | "G"edBG g2g2 | GBdg "C"f2e2 | "G"edBG !>!d4 | 
+"D7"dcAF dcAF | "G"G2B2 G2z2 :: [K:C] [L:1/8] "C"GA Bc | e3z | e>e dc | "G7"gB B2 | GB de | f3z | f>f e>d | 
+"C"acc2 | GA Bc | e3z | e>e d>c | "F"Aff2 | Af BA | "C"Ge cA | "G7"FG B/2B/2B | "C"cc cz :| 
+% pk09019
+X:3
+T: Polka  CF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"e2g2 "G7"d2f2 | "C"c2e2g4 | {/c}"G7"B2f2g4 | {/B}"C"cegc' g2g2 | e2g2 "G7"d2f2 | "C"c2e2g4 | {/c}"G7"B2f2g4 | {/B}"C"c2e2 c2z2 :: 
+"G7"g2f2 d2a2 | "C"g2e2c4 | "G7"Bcde fgab | "C"c'2ba g2g2 | "G7"g2f2 d2a2 | "C"g2e2 c'4 | "G7"Bcde fgab | 
+"C"c'2c'2 c'2z2 :: "C"cegc' "F"b2a2 | "C"agecg4 | "G7"gfdB b2b2 | "C"agec c'2c'2 | cegc' "F"b2a2 | "C"agec !>!g4 | 
+"G7"gfdB gfdB | "C"c2e2 c2z2 :: [K:F] [L:1/8] "F"cd ef |  a3z | a>a gf | "C7"c'e e2 | ce ga | b3z | b>b a>g | 
+"F"d'ff2 | cd ef | a3z | a>a g>f | "Bb"dbb2 | db ed | "F"ca fd | "C7"Bc e/e/e | "F"ff fz :| 
+% pk09019
+X:4
+T:Polka  GC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"B2d2 "D7"A2c2 | "G"G2B2d4 | {/G}"D7"F2c2d4 | {/F}"G"GBdg d2d2 | B2d2 "D7"A2c2 | "G"G2B2d4 | {/G}"D7"F2c2d4 | {/F}"G"G2B2 G2z2 :: 
+"D7"d2c2 A2e2 | "G"d2B2G4 | "D7"FGAB cdef | "G"g2fe d2d2 | "D7"d2c2 A2e2 | "G"d2B2 g4 | "D7"FGAB cdef | 
+"G"g2g2 g2z2 :: "G"GBdg "C"f2e2 | "G"edBGd4 | "D7"dcAF f2f2 | "G"edBG g2g2 | GBdg "C"f2e2 | "G"edBG !>!d4 | 
+"D7"dcAF dcAF | "G"G2B2 G2z2 :: [K:C] [L:1/8] "C"GA Bc | e3z | e>e dc | "G7"gB B2 | GB de | f3z | f>f e>d | 
+"C"acc2 | GA Bc | e3z | e>e d>c | "F"Aff2 | Af BA | "C"Ge cA | "G7"FG B/2B/2B | "C"cc cz :| 
+% pk09019
+X:5
+T:Polka D&G (tinwhistle in D)
+T:pk09019 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"F2A2 "A7"E2G2 | "D"D2F2A4 | {/D}"A7"C2G2A4 | {/C}"D"DFAd A2A2 | F2A2 "A7"E2G2 | "D"D2F2A4 | {/D}"A7"C2G2A4 | {/C}"D"D2F2 D2z2 :: 
+"A7"A2G2 E2B2 | "D"A2F2D4 | "A7"CDEF GABc | "D"d2cB A2A2 | "A7"A2G2 E2B2 | "D"A2F2 d4 | "A7"CDEF GABc | 
+"D"d2d2 d2z2 :: "D"DFAd "G"c2B2 | "D"BAFDA4 | "A7"AGEC c2c2 | "D"BAFD d2d2 | DFAd "G"c2B2 | "D"BAFD !>!A4 | 
+"A7"AGEC AGEC | "D"D2F2 D2z2 :: [K:G] [L:1/8] "G"DE FG | B3z | B>B AG | "D7"dF F2 | DF AB | c3z | c>c B>A | 
+"G"eGG2 | DE FG | B3z | B>B A>G | "C"Ecc2 | Ec FE | "G"DB GE | "D7"CD F/2F/2F | "G"GG Gz :| 
+X:6
+T:Polka D&G (tinwhistle in D) solo
+T:pk09019 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+F2A2 E2G2 | D2F2A4 | {/D}"_=C"C2G2A4 | {/C}DFAd A2A2 | F2A2 E2G2 | D2F2A4 | {/D}"_=C"C2G2A4 | {/C}D2F2 D2z2 :: 
+A2G2 E2B2 | A2F2D4 | "_=C"CDEF GABc | d2cB A2A2 | A2G2 E2B2 | A2F2 d4 | CDEF GABc | 
+d2d2 d2z2 :: DFAd c2B2 | BAFDA4 | AGE"_=C"C c2c2 | BAFD d2d2 | DFAd c2B2 | BAFD !>!A4 | 
+AGE"_=C"C AGE"_=C"C | D2F2 D2z2 :: [K:G] [L:1/8] DE FG | B3z | B>B AG | dF F2 | DF AB | "_c"c3z | c>c B>A | 
+eGG2 | DE FG | B3z | B>B A>G | E"_c"cc2 | Ec FE | DB GE | "_=C"CD F/2F/2F | GG Gz :|
+% Aug 3, 2016

@@ -1,0 +1,134 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:The Silver Swan
+T:Cantus
+C: Orlando Gibbons
+%%gchordfont Helvetica 12 box
+%%MIDI gchord off
+%%MIDI nobarlines
+M:C
+L:1/4
+K:F
+z c c d e3 f d > c B A G3
+w:The sil- ver swan, who liv- ing had no note,
+G B > c d A c F G > F F2
+w:When death ap- proached un- locked her si- lent throat;
+z2 z f > f e d3 c =B c d > c c2 
+w:Lean- ing her breast a- gainst the reed- y shore,
+z g c f B d G A/ B/ c > B A2
+w:thus sung her first and last, and _ sung no more:
+z2 z f > f e d3 c =B c d > c c2 
+w:Fare- well, all joys; O death, come close mine eyes;
+z g c f B d G A/ B/ c > B HA4 |]
+w:More geese than swans now live, more _ fools than wise.
+
+X:2
+T:The Silver Swan
+T:Altus
+C: Orlando Gibbons
+%%gchordfont Helvetica 12 box
+%%MIDI gchord off
+%%MIDI nobarlines
+M:C
+L:1/4
+N:Original clef, C on third line
+K:F -8va
+z c c =B c3 c B B f f e3
+w:The sil- ver swan, who liv- ing had no note,
+e d > c B F G A G G A2 
+w:When death ap- proached un- locked her si- lent throat;
+z c > c B A A B > c d/ e/ f/ c/ _e e d2
+w:Lean- ing her breast a- gainst the reed- * _ _ _  y shore,
+g c d c2 d/ f/ _e d c2 c2 c2
+w:thus sung her first and _ last, and sung no more:
+z c > c B A A B > c d/ e/ f/ c/ _e e d2
+w:Fare- well, all joys; O death, come _ _ _ _  close  mine  eyes;
+g c d c2 d/ f/ _e d c2 c2 Hc4 |]
+w:More geese than swans now _ live, more fools than wise.
+
+X:3
+T:The Silver Swan
+T:Quintus
+C: Orlando Gibbons
+%%gchordfont Helvetica 12 box
+%%MIDI gchord off
+%%MIDI nobarlines
+M:C
+L:1/4
+N:Original clef, C on second line
+K:F
+z C F F E > F G A F > E D C3/2
+w:The sil- ver swan, who liv- ing had no _ note,
+D/ E/ F/ G G,2 D > E F E F2 E F
+w:When death ap- proached un- locked her  _ si- lent _ throat;
+A > A G F D/ E/ F/ G/ A D > E F/ G/ A/ F/ G3
+w:Lean- ing her breast a- * _ _ _ gainst the reed- * _ y shore,
+G E F G > G A F G > F E F2 E F
+w:thus sung her first and last, and sung no more,  no _ more:
+A > A G F D/ E/ F/ G/ A D > E F/ G/ A/ F/ G3
+w:Fare- well, all joys; O _ _ _ _ death, come close mine _ _  eyes;
+G E F G > G A F G > F E F2 E HF4 |]
+w:More geese than swans now live, more fools than wise, than _ wise.
+
+X:4
+T:The Silver Swan
+T:Tenor
+C: Orlando Gibbons
+%%gchordfont Helvetica 12 box
+%%MIDI gchord off
+%%MIDI nobarlines
+M:C
+L:1/4
+N:Original clef, C on fourth line
+K:F -8va
+z A A G/ F/ G > F E C D > E F/ G/ A/ B/ c
+w:The sil- ver _ swan, who liv- ing had no _ _ _ _ note,
+C > D E/ F/ G2 D2 E/ C/ c d c c3
+w:When _ death ap- proached un- locked _ her si- lent throat;
+C F > G A/ B/ c d2 
+w:a- gainst the reed- * y shore,
+z2 G c2 =B c A B c A d G/ G/ B2 A G2 F2
+w:thus sung her first and last, and sung no more, and sung no _ more:
+z C F > G A/ B/ c d2 z2 G c2 =B c 
+w:Fare- well, all joys; _ O death, come close mine eyes;
+A B c A d G/ G/ B2 A G2 HF4 |]
+w:More geese than swans now live, more fools than _ wise.
+
+
+X:5
+T:The Silver Swan
+T:Bassus
+C: Orlando Gibbons
+%%gchordfont Helvetica 12 box
+%%MIDI gchord off
+%%MIDI nobarlines
+M:C
+L:1/4
+K:F bass
+z f f d c3 A B > c d f c3/2
+w:The sil- ver swan, who liv- ing had no note,
+d/ e/ f/ g G B > c d c A B c F
+w:When death ap- proached un- locked her _ si- lent, si- lent throat;
+f > f e d3 c B/ B/ b2 a g4
+w:Lean- ing her breast a- gainst the reed- y shore,
+c f2 e f d _e B c3 c F
+w:thus sung her first and last, and sung no more:
+f > f e d3 c B/ B/ b2 a g4
+w:Fare- well, all joys; O death, come close mine eyes;
+c f2 e f d _e B c3 c HF4 |]
+w:More geese than swans now live, more fools than wise.

@@ -1,0 +1,70 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:37v. Deux que le trait d'Amour touche bien vivement
+T:Prima parte.
+T:Superius
+C:André Pevernage
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C
+L:1/4
+N:Original clef, C on first line
+K:F
+F4 A3 B A A A2 z F > G A D/ E/ F/ G/ A/ G/ A/ B/ c3/2 B// A// G/ F/ G/ A/ B/ A/ A/ G// F// G > G
+w:Deux que le trait d'A- mour touch- e bien vi- * * * * * * * * * * * * * * * * * * * * ve-
+"A"F2 z F F/ G/ A/ B/ c d d/ c/ B/ A/ G G ^F2 z G2 A G2 "(1)"z/ c > B A/ G/ F F F/E/ D/ E/ F/ G/ F/ D/ E/ F/ E/ F/ G/
+N:Original is a quarter rest
+w:ment N'ont rien * * * * qu'un seul * * * * pen- ser, qu'un de- sir, qu'u- * * * * ne fla- * * * * * * * * * * *
+A/ G/ A/ B/ c/ d/ c2 B/ A/ =B2 "B"c4 z F G A B B A2 z A2 A A2 d d c/ B/ A/ G/ F > G A/ B/ c > B A/ G/
+w:* * * * * * * * * * * me, ce n'est de dans deux corps qu'un es- prit et un- e a- * * * * * * * * * *
+F/ G/ A3/2 G// F// G "C"A2 z A G G/ A/ B2 A2 z c B B/ c/ d2 c c B G A F E2 z G F F/ G/ A2 G G
+w:* * * * * * me, Et leur sou- ver- ain bien, et leur sou- ver- ain bien gist en eux seu- le- ment, Et leur sou- ver- ain bien, et
+F F/ G/ A2 G2 z B A F G E D A G G/ A/ B2 A2 z d c A > G F/ E/ F G > F F2 E F16 |]
+w:leur sou- ver- ain bien gist en eux seu- le- ment, Et leur sou- ver- ain bien gist en eux * * * * seu- * * le- ment.
+
+X:2
+T:37v. Deux que le trait d'Amour touche bien vivement
+T:Prima parte.
+T:Alto.
+C:André Pevernage
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C
+L:1/4
+N:Original clef, C on third line
+%%MIDI transpose -12
+K:F -8va
+z2 f4 d3 ^c d d d2 z f > e d c/ B/ A/ G/ F/ G/ A/ B/ c/ d/ e/ f/ g/ f/ f2 e "A"f4
+w:Deux que le trait d'A- mour touch- e bien vi- * * * * * * * * * * * * * * ve ment
+z f f/ d/ c/ B/ G G/ A/ B/ c/ d d c2 z c2 =B c2 z F > G A/ B/ c c G/ A/ B/ c/ d/ c/ d/ e/ "(2)"f3/2 e/ f/ g/ f > e
+N:(2) Original has an eighth note here
+w:N'ont rien * * * qu'un seul * * * * pen- ser, qu'un de- sir, qu'u- * * * * ne fla- * * * *  * * * * * * * * * *
+d4 "B"c2 z f e d c c d2 z d2 d d2 A A B/ c/ d/ e/ f > e d3/2 c// B// A > B c d > c c/ B// A// B2 "C"A4
+w:me, ce n'est de- dans deux corps qu'un es- prit et une a- * * * * * * * * * * * * * * * * * me,
+z c   B    B/  c/   d2  c2 z _e   d  B   c     A  G2 z  d  c    c/   d/   _e2 d2 z  f   e  c   d     B  A     f   e    e/  f/   g2
+w:Et leur sou- ver- ain bien gist en eux seul- e- ment, Et leur sou- ver- ain bien gist en eux seul- e- ment, et leur sou- ver- ain
+f2 z g f d _e c B B c d d/ e/ f/ g/ a/ g/ f/ e/ f/ e/ d/ c/ d/ c/ B/ A/ B/ A/ G/ F/ G > G F16 |]
+w:bien gist en eux seul- e- ment gist en eux seu- * * * * * * * * * * * * * * * * * * * * le- ment.

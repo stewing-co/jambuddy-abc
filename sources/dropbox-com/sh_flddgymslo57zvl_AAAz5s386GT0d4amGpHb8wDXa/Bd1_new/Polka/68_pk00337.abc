@@ -1,0 +1,56 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Sennen-Polka EbBbAb (5letras) chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.286 (pk00337) orig. Eb,Bb,Ab-Dur
+T: Repertoire der <S\"achser Musig> 1880-1900, Weinigen ZH. S.275-296
+M:2/4
+L:1/16
+K:Eb %%MIDI gchordon
+"Bb7"BccB BAAG | "Eb"GeeGB4 | "Bb7"FddFA4 | "Eb"GeeGB4 | "Bb7"BccB BAAG | "Eb"GeeG"C7"c4 | 
+"Fm"Bcc2 "Bb7"cdd2 | "Eb"e2e2 e2z2 :: [K:Bb] "F7"FGGF FeeA | "Bb"B2Bd f2f2 | "F7"a3g fedc | "Bb"g3f edcB | 
+"F7"FAGF FeeF | "Bb"B2Bd f2f2 | "F7"a3g fedc | "Bb"B2BB B2"_>Teil A"B2 :: [K:Ab]"Ab"c3=B c3d | 
+"Bb7"c2B2 B=AB2 | "Eb7"GBdf e3d | "Ab"d2c2 c=Bc2 | c3=B c3d | "Bb7"c2B2 B=AB2 | "Eb7"GBdf e3G | "Ab"A2A2 A2z2 :| 
+
+X:2
+T: Sennen-Polka EbBbAb chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:Eb %%MIDI gchordon
+[P:A] "Bb7"BccB BAAG | "Eb"GeeGB4 | "Bb7"FddFA4 | "Eb"GeeGB4 | "Bb7"BccB BAAG | "Eb"GeeG"C7"c4 | 
+"Fm"Bcc2 "Bb7"cdd2 | "Eb"e2e2 e2z2 :: [P:B] [K:Bb] "F7"FGGF FeeA | "Bb"B2Bd f2f2 | "F7"a3g fedc | "Bb"g3f edcB | 
+"F7"FAGF FeeF | "Bb"B2Bd f2f2 | "F7"a3g fedc | "Bb"B2BB B2"_>Teil A"B2 :: [P:C] [K:Ab]"Ab"c3=B c3d | 
+"Bb7"c2B2 B=AB2 | "Eb7"GBdf e3d | "Ab"d2c2 c=Bc2 | c3=B c3d | "Bb7"c2B2 B=AB2 | "Eb7"GBdf e3G | "Ab"A2A2 A2z2 :| 
+
+X:3
+T:Sennen-Polka CGF 3+ chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"G7"GAAG GFFE | "C"EccEG4 | "G7"DBBDF4 | "C"EccEG4 | "G7"GAAG GFFE | "C"EccE"A7"A4 | 
+"Dm"GAA2 "G7"ABB2 | "C"c2c2 c2z2 :: [K:Gmaj] "D7"DEED DccF | "G"G2GB d2d2 | "D7"f3e dcBA | "G"e3d cBAG | 
+"D7"DFED DccD | "G"G2GB d2d2 | "D7"f3e dcBA | "G"G2GG G2"_>Teil A"G2 :: [K:Fmaj]"F"A3^G A3B | 
+"G7"A2G2 G^FG2 | "C7"EGBd c3B | "F"B2A2 A^GA2 | A3^G A3B | "G7"A2G2 G^FG2 | "C7"EGBd c3E | "F"F2F2 F2z2 :| 
+
+X:3
+T:Sennen-Polka CGF 3+ (solo)
+M:2/4
+L:1/16
+K:Cmaj
+"G7"GAAG GFFE | "C"EccEG4 | "G7"DBBDF4 | "C"EccEG4 | "G7"GAAG GFFE | "C"EccE"A7"A4 | 
+"Dm"GAA2 "G7"ABB2 | "C"c2c2 c2z2 :: [K:Gmaj] "D7"DEED DccF | "G"G2GB d2d2 | "D7"f3e dcBA | "G"e3d cBAG | 
+"D7"DFED DccD | "G"G2GB d2d2 | "D7"f3e dcBA | "G"G2GG G2"_>Teil A"G2 :: [K:Fmaj]"F"A3^G A3B | 
+"G7"A2G2 G^FG2 | "C7"EGBd c3B | "F"B2A2 A^GA2 | A3^G A3B | "G7"A2G2 G^FG2 | "C7"EGBd c3E | "F"F2F2 F2z2 :| 
+
+X:4
+T:Sennen-Polka CGF 3+ chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+[P:A] "G7"GAAG GFFE | "C"EccEG4 | "G7"DBBDF4 | "C"EccEG4 | "G7"GAAG GFFE | "C"EccE"A7"A4 | 
+"Dm"GAA2 "G7"ABB2 | "C"c2c2 c2z2 :: [P:B] [K:Gmaj] "D7"DEED DccF | "G"G2GB d2d2 | "D7"f3e dcBA | "G"e3d cBAG | 
+"D7"DFED DccD | "G"G2GB d2d2 | "D7"f3e dcBA | "G"G2GG G2"_>Teil A"G2 :: [P:C] [K:Fmaj]"F"A3^G A3B | 
+"G7"A2G2 G^FG2 | "C7"EGBd c3B | "F"B2A2 A^GA2 | A3^G A3B | "G7"A2G2 G^FG2 | "C7"EGBd c3E | "F"F2F2 F2z2 :| 

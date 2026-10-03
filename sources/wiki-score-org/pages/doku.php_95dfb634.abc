@@ -1,0 +1,35 @@
+X:808
+T:N.8 Conto do Sargento
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:G
+V: 8 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 8 }]
+%---
+(B,A,G, F,G,B,, | D,2)z  (!>!B,,3|C,2)z=D,3 | "_NB:ties still missing"G,,z[D,G,,] [G,,D,]z[D,G,,] || \
+G,,z[D,G,B,] [D,G,B,]z[D,G,B,] | G,,z[D,G,B,] [D,G,B,]z[D,G,B,] | G,,z[D,G,B,]  G,,z[D,G,B,]         | \
+A,,z[D,A,C] [D,A,C]z[D,A,C]    | D,,z[D,F,C] [D,F,C]z[D,F,C]    | D,,z[D,F,C] [D,F,C]z[D,F,C]        | \
+D,z[F,A,C] D,,z[D,F,C]         | z2G,- G,xx& !>!G,,3-G,,zz      | !p! G,,z[D,G,B,] [D,G,B,]z[D,G,B,] | \
+G,,z[D,G,B,] [D,G,B,]z[D,G,B,] |  E,,z[E,B,D] ^G,,z[E,^G,B,]    | A,,z[F,A,] [F,A,]z[F,A,]           | \
+A,,z[E,A,] C,z[E,A,]           | D,z[G,B,] B,,z[D,G,B,]         | \
+A,,z[D,F,C] D,,z[D,F,] | (!>!D,E,F,) G,2z & G,,3-G,,2x || \
+[Q: "Expressivo"][K:treble] !pp!(EFG) (GFE) | (!>!(c3B)AG) | (EFG) (GFE) | (!>!D3C2)z| \
+(C2DE2C) | (B,2B,E2F) | (GFE) (F^DB,) | E3(DE=F) | (E3D2E) | \
+C [K:bass] C, (!>!G,,.D,2)(!>!G,,|.E,2) (!G,,(D,2)E,) | !>!C,3-C,!fermata!z !f! [B,,,B,,] || \
+[M:3/4]"^Recit." [E,,E,]z z2 [B,,B,]z | z(.B,/.B,/)(.G,.B,) Ez| [D,,D,]2-[D,,D,]z [D,A,]z | \
+[K:treble] z(.D/.D/)(.B,.D) G2 | [K:bass] [F,B,]4-[F,^A,]2 |zF,/(F,/B,)(F,!fermata!B,2) || \
+[M:6/8][K:treble] ([EGB]FG) (GFE) | (c3BAG)| (EFG) (GFE) | (D3C3) | (CDE) (EDC) | \
+(.B,2.B,) (.E2.F) | (G2 E) (F^DB,) || \
+[M:3/4]"^Recit." [K:bass] ([E,]3!trem2!G,3) | ([D,]3!trem2!A,3) |([G,]3!trem2!B,3) | \
+([C,]2!trem2!G,2) (!/!A,,!/!F,) |([B,,]2!trem2!F,2) !f![B,,F,]z | \
+"_NB: ties missing" [^C,F,]4-[F,,F,]z | [B,,^D,F,]z z4 || \
+[M:6/8]"^1.o tempo" \
+G,,z[D,G,B,] [D,G,B,]z[D,G,B,] | G,,z[D,G,B,] [D,G,B,]z[D,G,B,] | G,,z[D,G,B,]  G,,z[D,G,B,]         | \
+A,,z[D,A,C] [D,A,C]z[D,A,C]    | D,,z[D,F,C] [D,F,C]z[D,F,C]    | D,,z[D,F,C] [D,F,C]z[D,F,C]        | \
+D,z[F,A,C] D,,z[D,F,C]         | z2G,- G,xx& !>!G,,3-G,,zz      | !p! G,,z[D,G,B,] [D,G,B,]z[D,G,B,] | \
+G,,z[D,G,B,] [D,G,B,]z[D,G,B,] |  E,,z[E,B,D] ^G,,z[E,^G,B,]    | A,,z[F,A,] [F,A,]z[F,A,]           | \
+A,,z[E,A,] C,z[E,A,]           | D,z[G,B,] B,,z[D,G,B,]         | (A,,2[D,F,C]) D,,!fermata!z[D,F,]  | \
+G,,B,,D, G,zz & G,,3-G,,x2     |] \
+%---

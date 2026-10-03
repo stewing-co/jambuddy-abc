@@ -1,0 +1,29 @@
+
+X:1
+T:'Twas in the time that Ceasar Ruled
+C:Arthur Richard Rivers 1857-1940
+O:Australia
+S:Nine Christmas Carols 1891 H.Diddams Pub, Brisbane
+%%score 1 2  3 4 
+L:1/8
+Q:1/4=60
+M:4/4
+K:F
+V:1 treble nm="Soprano" snm=S
+V:2 treble nm=Alto snm=A
+V:3 bass nm="Tenor" snm=T
+V:4 bass nm=Bass snm=B
+V:1
+[I: MIDI=program 74]C  | FGAB     cA/G/     FF   | FFFE        F3     F     | ccde     fe/d/ cc   | cccB        c2 A>G   | $ F/G/A/B/ cc F/G/A/B/ cc |
+                         fe/f/    ed        c3 c | FGAB        cA/G/  FF    | FFFE     F4        :|
+V:2
+[I: MIDI=program 75]C  | FEFE     CEFC           | DCB,B,      A,3    F     | cGGG     GBcG       | AGFF        E2 E2    | $ FF F/E/D/E/ FFFE        | FFFF E3 C |
+                         FEFE     CEFF           | DCB,B,      A,4         :|
+V:3
+[I: MIDI=program 71]C, | F,CCC    CC/B,/    A,F, | F,F,G,G,    A,3    F,    | CCB,C    CFEC       | CCDD        C2 B,C   | $ A,CB,C A,CB,C           |
+                         A,A,B,B, C3        C    | F,CCC       CC/B,/ A,F,  | F,F,G,G, A,4       :|
+V:4
+[I: MIDI=program 70]C, | F,C,F,G, A,C,D,A,,      | B,,A,,G,,C, F,,3   F,    | CE,G,C,  F,G,A,E,   | F,E,D,G,    C,2 C,2  | $
+                         F,F,G,G, F,F,G,G,       | F,F,G,G,    C3     C     | F,C,F,G, A,C,D,A,,  | B,,A,,G,,C, F,,4    :|
+
+

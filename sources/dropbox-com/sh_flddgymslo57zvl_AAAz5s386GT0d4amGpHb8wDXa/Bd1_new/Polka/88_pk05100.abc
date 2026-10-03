@@ -1,0 +1,42 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka CF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.365 (pk05100) orig. C,F-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"gag2 e2f2 | gag2 e4 | "G7"g2f2 fed2 | "C"e2g2 c'4 | gag2 e2f2 | gag2 e4 | "G7"g2f2 fed2 | "C"c2e2 c2z2::
+"G7"B2c2 d2e2 | f2fga4 | "C"g2gf e2g2 | e2edc4 | "G7"B2c2 d2e2 | f2fga4 | g2fe d2e2 | "C"c2e2 c2z2:: [K:F] 
+"F"a2ag f2a2 | c2cB A2f2 | "C7"e2c2 z2g2 | "F"f2c2 z2f2 | a2ag f2a2 | c2cB A2f2 | "C7"e2c2 z2g2 | "F"f2f2 f2z2 :: [K:C]
+"G7"g2>d2 g2>f2 | "C"f2e2 edc2 | "G7"e2d2 dcB2 | "C"d2c2 cdef | "G7"g2>d2 g2>f2 | "C"f2e2 edc2 | "G7"e2d2 dcB2 | "C"c2e2 c2z2 :| 
+% May 01, 2016
+X:2
+T:Polka GC 5- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"ded2 B2c2 | ded2 B4 | "D7"d2c2 cBA2 | "G"B2d2 g4 | ded2 B2c2 | ded2 B4 | "D7"d2c2 cBA2 | "G"G2B2 G2z2::
+"D7"F2G2 A2B2 | c2cde4 | "G"d2dc B2d2 | B2BAG4 | "D7"F2G2 A2B2 | c2cde4 | d2cB A2B2 | "G"G2B2 G2z2:: [K:Cmaj] 
+"C"e2ed c2e2 | G2GF E2c2 | "G7"B2G2 z2d2 | "C"c2G2 z2c2 | e2ed c2e2 | G2GF E2c2 | "G7"B2G2 z2d2 | "C"c2c2 c2z2 :: [K:Gmaj]
+"D7"d2>A2 d2>c2 | "G"c2B2 BAG2 | "D7"B2A2 AGF2 | "G"A2G2 GABc | "D7"d2>A2 d2>c2 | "G"c2B2 BAG2 | "D7"B2A2 AGF2 | "G"G2B2 G2z2 :| 
+X:3
+T: Polka CF (5letras transposed)
+M:2/4
+L:1/16
+K:C  transpose=3  %%MIDI gchordon
+"C"gag2 e2f2 | gag2 e4 | "G7"g2f2 fed2 | "C"e2g2 c'4 | gag2 e2f2 | gag2 e4 | "G7"g2f2 fed2 | "C"c2e2 c2z2::
+"G7"B2c2 d2e2 | f2fga4 | "C"g2gf e2g2 | e2edc4 | "G7"B2c2 d2e2 | f2fga4 | g2fe d2e2 | "C"c2e2 c2z2:: [K:F] 
+"F"a2ag f2a2 | c2cB A2f2 | "C7"e2c2 z2g2 | "F"f2c2 z2f2 | a2ag f2a2 | c2cB A2f2 | "C7"e2c2 z2g2 | "F"f2f2 f2z2 :: [K:C]
+"G7"g2>d2 g2>f2 | "C"f2e2 edc2 | "G7"e2d2 dcB2 | "C"d2c2 cdef | "G7"g2>d2 g2>f2 | "C"f2e2 edc2 | "G7"e2d2 dcB2 | "C"c2e2 c2z2 :| 
+X:4
+T:Polka GC (5letras transposed)
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"ded2 B2c2 | ded2 B4 | "D7"d2c2 cBA2 | "G"B2d2 g4 | ded2 B2c2 | ded2 B4 | "D7"d2c2 cBA2 | "G"G2B2 G2z2::
+"D7"F2G2 A2B2 | c2cde4 | "G"d2dc B2d2 | B2BAG4 | "D7"F2G2 A2B2 | c2cde4 | d2cB A2B2 | "G"G2B2 G2z2:: [K:Cmaj] 
+"C"e2ed c2e2 | G2GF E2c2 | "G7"B2G2 z2d2 | "C"c2G2 z2c2 | e2ed c2e2 | G2GF E2c2 | "G7"B2G2 z2d2 | "C"c2c2 c2z2 :: [K:Gmaj]
+"D7"d2>A2 d2>c2 | "G"c2B2 BAG2 | "D7"B2A2 AGF2 | "G"A2G2 GABc | "D7"d2>A2 d2>c2 | "G"c2B2 BAG2 | "D7"B2A2 AGF2 | "G"G2B2 G2z2 :| 

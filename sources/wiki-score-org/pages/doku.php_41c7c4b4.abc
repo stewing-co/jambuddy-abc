@@ -1,0 +1,25 @@
+X:1302
+T:Scena 7.a
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 2 clef=alto name="Corno II" sname="Cor. II"
+%%MIDI program 1 69
+%%staves [( 2 )]
+%----------------- edit between the lines ------------
+[K: bass] Z21 | z2 | Z22 || \
+[Q:"Allegro assai"] Z22 || \
+[Q:"Allegro"] [K:Eb] z | z4 | z/B,,/B,,/B,,/ B,, z | z4 | z/G,,/G,,/G,,/ G,, z | !p!E,,4 |z/G,,/G,,/G,,/ G,, z | !p!E,,4 | \
+Z4 | z2 B,,2 | !p!G,,/G,,/ G,, z/G,,/ G,, | z/G,,/ G,, z/G,,/ G,, | Z4 | \
+z/B,,/B,,/B,,/ B,,z | Z6 | B,,B,,B,,B,, | B,,B,,B,,z | F,4 | E,4 | F,zz2 | z4 | \
+z/F,/F,/F,/ F, z | z4 | z/F,/F,/F,/ F, z | z4 | z/F,/F,/F,/ F, z | Z28 | F,F,F,z | F,zz2 | Z2 | \
+!p!z/B,,/B,,/B,,/ B,,z | z4 | z/B,,/B,,/B,,/ B,,z | z4 | z/B,,/B,,/B,,/ B,,z | Z3 | \
+z/B,,/B,,/B,,/ B,,z | Z5 | B,,4 | E,4 | Z2 | B,, zz/B,,/B,,/B,,/ | B,, zz/B,,/B,,/B,,/ | B,,B,,B,,!fermata!z || \
+[Q:"Andante"] [M:2/4]  !fermata!A,,z | Z3 | z/F,/ C,/ z/ | Z5 | z//A,,//F,//C,// A,,/z/ | Z5 | \
+z//F,//F,//C,// A,,/z/ | Z6 | !p!F,2 | F,z | Z | !fermata! z2 | !fermata! z2 | !fermata! z2 | Z3 || \
+[Q:"Allegro"] [M:C] Z11 | z2 zB,, | B,,/z/zzB,, | z4 | zB,,B,,B,, | B,,zz2 | !p!E,2 B,,2 | G,,2 B,,2 | E,2 B,,2 | \
+G,2 B,,2 | !f!G,,4 | Z4 | z2 G,/F,/E,/B,,/ | !p!E,,4- | E,,4- | E,,4- | Z | \
+!p!E,,4- | E,,4- | !f!E,,4 | Z3 | z2E,B,, | G,,zz2 | Z6 | z2E,2 | A,4 | E,2B,,2 | G,,zz2 | Z6 | z2E,2 | A,4 | \
+E,2B,,2 | E,zz2 | F,2B,,2 | G,,zz2 | F,2B,,2 | G,,2E,2 | F,4 | E,4 | B,,4 | G,,G,G,F,| E,zB,,2 | G,,z B,,2| G,,G,,G,,z |] \
+%-----------------------------------------------------

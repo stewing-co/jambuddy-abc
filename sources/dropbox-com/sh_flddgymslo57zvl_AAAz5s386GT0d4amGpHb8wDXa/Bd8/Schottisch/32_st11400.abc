@@ -1,0 +1,59 @@
+I:abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X: 1
+T: Kilbi-Leben (Schottisch) FCBb chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.351 (st11400) orig. F,C,Bb-Dur
+T: Tänze aus Altdorf (Uri)
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"c2cA f2fc | "C7"e2ec' d2db | c2ca B2Bg | "F"f6Ac | dcAc a2f2 | "C7"e6EG | dc=Bc b2e2 | 
+"F"f6FA | c2cA f2fc | "C7"e2ec' d2db | c2ca B2Bg | "F"f6BB | "Bb"Bdgb d'4 | "F"Acfa c'4 | 
+"C7"bagf edce | "F"f2a2 f2z2 :: [K:C] "G7"g^fga g3=f | "C"e2g2 c2e2 | "G7"d2f2 B2d2 | "C"cc'ba g4 | "G7"g^fga g3=f | 
+"C"e2g2 c'2e2 | "G7"d2a2 gfed |1 "C"c2e2 c2z2 :|2 "C"c2e2 A2"_> Teil A"_B2 || [K:Bb] df |: "Bb"d'c'ba "Eb"c'bag | 
+"Bb"gfdB FBdf | "F7"gfec Acfa | "Bb"gfdf Bdfb | d'c'ba "Eb"c'bag | "Bb"gfdB FBdf | 
+"F7"gfef agfa |1 "Bb"bfdf B2df :|2 "Bb"b2d'2 b2FF |: "F7"FAce f2f2 | "Bb"Tg2f2 f=ef2 | Bdfd' b2d2 | 
+Tg2f2 fdfb | "Cm"b2c2 c2gg | "Bb"g2B2 B2ff | "F7"f2ff agfa |1 "Bb"b2fd B2d2 :|2 "Bb"b2d'2 b2z2 |] 
+
+X: 2
+T: Kilbi-Leben (Schottisch) FCBb chords Parts
+P:ABACD
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+[P:A] "F"c2cA f2fc | "C7"e2ec' d2db | c2ca B2Bg | "F"f6Ac | dcAc a2f2 | "C7"e6EG | dc=Bc b2e2 | 
+"F"f6FA | c2cA f2fc | "C7"e2ec' d2db | c2ca B2Bg | "F"f6BB | "Bb"Bdgb d'4 | "F"Acfa c'4 | 
+"C7"bagf edce | "F"f2a2 f2z2 :: [P:B] [K:C] "G7"g^fga g3=f | "C"e2g2 c2e2 | "G7"d2f2 B2d2 | "C"cc'ba g4 | "G7"g^fga g3=f | 
+"C"e2g2 c'2e2 | "G7"d2a2 gfed |1 "C"c2e2 c2z2 :|2 "C"c2e2 A2_B2 || [K:Bb] [P:C] |: "Bb"d'c'ba "Eb"c'bag | 
+"Bb"gfdB FBdf | "F7"gfec Acfa | "Bb"gfdf Bdfb | d'c'ba "Eb"c'bag | "Bb"gfdB FBdf | 
+"F7"gfef agfa |1 "Bb"bfdf B2df :|2 "Bb"b2d'2 b2FF [P:D] |: "F7"FAce f2f2 | "Bb"Tg2f2 f=ef2 | Bdfd' b2d2 | 
+Tg2f2 fdfb | "Cm"b2c2 c2gg | "Bb"g2B2 B2ff | "F7"f2ff agfa |1 "Bb"b2fd B2d2 :|2 "Bb"b2d'2 b2z2 |] 
+
+X:3
+T:Kilbi-Leben (Schottisch) CGF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"G2GE c2cG | "G7"B2Bg A2Af | G2Ge F2Fd | "C"c6EG | AGEG e2c2 | "G7"B6B,D | AG^FG f2B2 | 
+"C"c6CE | G2GE c2cG | "G7"B2Bg A2Af | G2Ge F2Fd | "C"c6FF | "F"FAdf a4 | "C"EGce g4 | 
+"G7"fedc BAGB | "C"c2e2 c2z2 :: [K:Gmaj] "D7"d^cde d3=c | "G"B2d2 G2B2 | "D7"A2c2 F2A2 | "G"Ggfe d4 | "D7"d^cde d3=c | 
+"G"B2d2 g2B2 | "D7"A2e2 dcBA |1 "G"G2B2 G2z2 :|2 "G"G2B2 E2"_> Teil A"=F2 || [K:Fmaj] Ac |: "F"agfe "Bb"gfed | 
+"F"dcAF CFAc | "C7"dcBG EGce | "F"dcAc FAcf | agfe "Bb"gfed | "F"dcAF CFAc | 
+"C7"dcBc edce |1 "F"fcAc F2Ac :|2 "F"f2a2 f2CC |: "C7"CEGB c2c2 | "F"Td2c2 c=Bc2 | FAca f2A2 | 
+Td2c2 cAcf | "Gm"f2G2 G2dd | "F"d2F2 F2cc | "C7"c2cc edce |1 "F"f2cA F2A2 :|2 "F"f2a2 f2z2 |] 
+
+X:4
+T:Kilbi-Leben (Schottisch) CGF 5- chords Parts
+P:ABACD
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+[P:A] "C"G2GE c2cG | "G7"B2Bg A2Af | G2Ge F2Fd | "C"c6EG | AGEG e2c2 | "G7"B6B,D | AG^FG f2B2 | 
+"C"c6CE | G2GE c2cG | "G7"B2Bg A2Af | G2Ge F2Fd | "C"c6FF | "F"FAdf a4 | "C"EGce g4 | 
+"G7"fedc BAGB | "C"c2e2 c2z2 :: [P:B] [K:Gmaj] "D7"d^cde d3=c | "G"B2d2 G2B2 | "D7"A2c2 F2A2 | "G"Ggfe d4 | "D7"d^cde d3=c | 
+"G"B2d2 g2B2 | "D7"A2e2 dcBA |1 "G"G2B2 G2z2 :|2 "G"G2B2 E2=F2 || [K:Fmaj] [P:C] |: "F"agfe "Bb"gfed | 
+"F"dcAF CFAc | "C7"dcBG EGce | "F"dcAc FAcf | agfe "Bb"gfed | "F"dcAF CFAc | 
+"C7"dcBc edce |1 "F"fcAc F2Ac :|2 "F"f2a2 f2CC [P:D] |: "C7"CEGB c2c2 | "F"Td2c2 c=Bc2 | FAca f2A2 | 
+Td2c2 cAcf | "Gm"f2G2 G2dd | "F"d2F2 F2cc | "C7"c2cc edce |1 "F"f2cA F2A2 :|2 "F"f2a2 f2z2 |] 

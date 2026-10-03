@@ -1,0 +1,86 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka  CF  (ABCAB)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.300f (mz02068) orig. F,C
+T: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+%%partsbox
+P:ABCAB
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+[P:A] "C"G>(G c>)(c e>)(e | a2) !>!a2 g>(e | a2)!>!a2 g>e |  "G7"f6 | G>(G B>)(B d>)(d | b2) !>!b2 a>g | b2!>!b2 a>g | 
+"C"e6 | G>(G c>)(c e>)(e | a2) !>!a2 g>e | a2!>!a2 g>e | "G"d6 | "D7"dd ee ^ff | "G"gg aa bb | 
+"D7".b2 (ac' ba) | "G"g2g2z2 || [P:B] "C"(g2a2c'2) | "G7".b2!>!f4 | (f2g2b2) | "C".a2!>!e4 | Gc eG ce | "G7"fG Bdg2 | GB dG Bf | 
+"C"eG ceg2 | (g2a2c'2) | "G7".b2f4 | (f2g2b2) | ."C"a2e4 | eg geg2 | "F"fa afa2 | "G7"g>b ag fd | "C"c2c2"_Fine"z2 || [P:C] [K:F]  
+("F"a2^g2a2) | f2 (edc2) | (f2e2d2) | "C7"e6 | (b2a2b2) | g2 (edc2) | (b2c'2b2) | "F"a6 | (a2^g2a2) | 
+f2 (edc2) | (f2g2a2) | "Bb"b6 | "C7"b>d' d'b d'2 | "F"a>c' c'a c'2 | "C7"g>c' c'b ag | "F"f2f2"_>Teil A"z2 |] 
+W:Parts: ABC-AB
+% mz02068  (Oct 3, 2016)
+
+X:2
+T:Mazurka  CF  (mz02068)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.300f (mz02068) orig. F,C
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"G>(G c>)(c e>)(e | a2) !>!a2 g>(e | a2)!>!a2 g>e |  "G7"f6 | G>(G B>)(B d>)(d | b2) !>!b2 a>g | b2!>!b2 a>g | 
+"C"e6 | G>(G c>)(c e>)(e | a2) !>!a2 g>e | a2!>!a2 g>e | "G"d6 | "D7"dd ee ^ff | "G"gg aa bb | 
+"D7".b2 (ac' ba) | "G"g2g2z2 || "C"(g2a2c'2) | "G7".b2!>!f4 | (f2g2b2) | "C".a2!>!e4 | Gc eG ce | "G7"fG Bdg2 | GB dG Bf | 
+"C"eG ceg2 | (g2a2c'2) | "G7".b2f4 | (f2g2b2) | ."C"a2e4 | eg geg2 | "F"fa afa2 | "G7"g>b ag fd | "C"c2c2"_Fine"z2 || [K:F]  
+("F"a2^g2a2) | f2 (edc2) | (f2e2d2) | "C7"e6 | (b2a2b2) | g2 (edc2) | (b2c'2b2) | "F"a6 | (a2^g2a2) | 
+f2 (edc2) | (f2g2a2) | "Bb"b6 | "C7"b>d' d'b d'2 | "F"a>c' c'a c'2 | "C7"g>c' c'b ag | "F"f2f2"_>Teil A"z2 |] 
+W:Parts: ABC-AB
+% mz02068  (Oct 3, 2016)
+
+X:3
+T:Mazurka  GC 5-  (mz02068)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.300f (mz02068) orig. F,C
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:mazurka
+M:3/4
+L:1/8
+K:G%%MIDI gchordon
+"G"D>(D G>)(G B>)(B | e2) !>!e2 d>(B | e2)!>!e2 d>B | "D7"c6 | D>(D F>)(F A>)(A | f2) !>!f2 e>d | f2!>!f2 e>d | 
+"G"B6 | D>(D G>)(G B>)(B | e2) !>!e2 d>B | e2!>!e2 d>B | "D"A6 | "A7"AA BB ^cc | "D"dd ee ff | 
+"A7".f2 (eg fe) | "D"d2d2z2 || "G"(d2e2g2) | "D7".f2!>!c4 | (c2d2f2) | "G".e2!>!B4 | DG BD GB | "D7"cD FAd2 | DF AD Fc | 
+"G"BD GBd2 | (d2e2g2) | "D7".f2c4 | (c2d2f2) | "G"e2B4 | Bd dBd2 | "C"ce ece2 | "D7"d>f ed cA | "G"G2G2"_Fine"z2 || [K:C] 
+("C"e2^d2e2) | c2 (BAG2) | (c2B2A2) | "G7"B6 | (f2e2f2) | d2 (BAG2) | (f2g2f2) | "C"e6 | (e2^d2e2) | 
+c2 (BAG2) | (c2d2e2) | "F"f6 | "G7"f>a af a2 | "C"e>g ge g2 | "G7"d>g gf ed | "C"c2c2"_>Teil A"z2 |] 
+W:Parts: ABC-AB
+% mz02068  (Oct 3, 2016)
+
+X:4
+T:Mazurka G (tinwhistle in D) var. solo
+T:mz02068 (Hanny Christen)
+%%MIDI program 72   % 111 / 74 / 79=whistle
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:mazurka
+M:3/4
+L:1/8
+K:G transpose=12
+D>(D G>)(G B>)(B | e2) !>!e2 d>(B | e2)!>!e2 d>B | c6 | D>(D F>)(F A>)(A | f2) !>!f2 e>d | f2!>!f2 e>d | 
+B6 | D>(D G>)(G B>)(B | e2) !>!e2 d>B | e2!>!e2 d>B | A6 | AA BB ^cc | dd ee ff | 
+.f2 (eg fe) | d2d2z2 || (d2e2g2) | .f2!>!c4 | (c2d2f2) | .e2!>!B4 | DG BD GB | cD FAd2 | DF AD Fc | 
+BD GBd2 | (d2e2g2) | .f2c4 | (c2d2f2) | e2B4 | Bd dBd2 | ce ece2 | d>f ed cA | G2G2"_Fine"z2 || 
+(B2^A2B2) | G2 (FED2) | (G2F2E2) | F6 | (c2B2c2) | A2 (FED2) | (c2d2c2) | B6 | (B2^A2B2) | 
+G2 (FED2) | (G2A2B2) | c6 | c>e ec e2 | B>d dB d2 | A>d dc BA | G2G2"_>Teil A"z2 |]
+W:Parts: ABC-AB
+% mz02068  (Oct 3, 2016)
+
+

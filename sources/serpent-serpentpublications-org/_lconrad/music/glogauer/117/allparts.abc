@@ -1,0 +1,115 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Hastu mir die laute bracht -- O rosa bella
+T:Quodlibet
+T:Cantus
+C:Glogauer Liederbuch, No. 117
+O:Germany
+B:Glogauer ms.
+Z:Transcribed by Laura Conrad http://www.laymusic.org
+M:C
+L:1/2
+N:Original clef, C on second line
+K:F
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+G3 E F > E G3/2 F// E// D2 z C D B, A,2 G,2 z F G B A/ G/ G3/2
+w:O _ ro- sa bel- la, _ _ o ro- sa bel- la, o ro- sa bel _ _
+^F/ ^F/ E/ G2 z D D D B, G, z D _E2 D2 C B, G,2 A,2 G,2 z F G2
+w: _ _ _ la, o ro- sa bel- la, o dol- ce a- ni- ma mi- a non me
+B2 A3 G G2 G F3/2 E// D// E3/2 D// C// D > ^C ^C/ =B,/ D2 z G F2 E2 D2 z C
+w:las- sar mo- rir, mo- rir _ _ _ _ _ _ _ _ _ _ in cor- te- sia, in
+B, D > C B,/ A,/ G,2 z F G A2 F G E D2 E F > G A B3/2 A// G// HF2 ||
+w:cor- te- si- * * a, in- cor- te- * si- * a, in cor- * te- si- * * a.
+F2 F F G3/2 F// E// D > E D3/2 C// B,// A,2 G,2 z D D D C2 E D2 ^C
+w:Ai las- so mi, _ _ _ ai las- so * * mi, ai las- so mi do- * * 
+D B, A, D > C B,/ A,/ G, C > =B, =B,/ A,/ C2 z G G2 F > D E D2 G F2
+w:len * * * * * * * * * * * te, don fi- ni- * * re, per ben
+E2 D C2 B, A,2 G,2 z2 G2 A2 A > F A2 B4
+w:ser- vi- * * * re e li- al- *  men- te
+A2 G3/2 F// E// D E F2 G A B c > B A/ G/ F B A/ G/ G > ^F ^F/ E/ HG4 |]
+w:a- ma- * * * * re, e li- al- men- * * * te a- ma * * * * * re.
+
+X:2
+T:Hastu mir die laute bracht -- O rosa bella
+T:Quodlibet
+T:Contratenores
+C:Glogauer Liederbuch, No. 117
+O:Germany
+B:Glogauer ms.
+Z:Transcribed by Laura Conrad http://www.laymusic.org
+M:C
+L:1/2
+N:Original clef, C on fourth line
+K:F -8va
+%%MIDI transpose -12
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+G G =B c d d G z G2 A A B3/2 A// G// F2 B2 A2 G4
+w:Ha- stu mir die lau- te bracht. Nu leid und meid _ _ _ _ der schön
+A2 G4 B > c d2 d2 G2 D2 _E2 G2 F2 _E2 D2 z2
+w:sten zu ge- * fal- len.  Nu lo- be lin- de lo- be.
+z d d d  d d G2 G z D A G F E2 D2 E2 D2 z2 d3/2 c// B// A A
+w:Es fur ein paur kein hol- ze auff und iff und aff. * * * Nos * * * a- 
+G z G2 B2 A2 G3/2 F// E// D2 
+w:mis.  E- * ne- len- de, * * 
+M:3/2
+L:1/2
+G2 G G2 G A2 A A2 A d d B HA2 ||
+w:Seid wil- com, herr fe- de- ler mit eu- er gei- gen.
+M:C
+L:1/2
+d2 B A G2 z G B B c c B2 G2 D G A2 A F E2
+w:Mein traut ge- sell.  Hoch lob ich auch frau zar- te eu- er tu- gend- li- che
+d2 D D D G2 E F D C z G2 G G B2 c d2 B A2
+w:art und da- zu eu- er klu- ge list.  Groß se- nen ich im her- * zen
+G3/2 F// E// D E F G A2 z2 B2 B B c c d2 d2 G G/ G/ D E
+w:trag. * * * Sint ich an sie.  Di li- be libt lib- li- chen lib- lich comt uns der
+F2 G2 z2 d d d d d c2 c c d d B A2 HG4 |]
+w:mei- e. Ma- don- na ka- the- ri- na vi- ci- na no * stra.
+
+X:3
+T:Hastu mir die laute bracht -- O rosa bella
+T:Quodlibet
+T:Tenores
+C:Glogauer Liederbuch, No. 117
+O:Germany
+B:Glogauer ms.
+Z:Transcribed by Laura Conrad http://www.laymusic.org
+M:C
+L:1/2
+K:F bass
+%%MIDI transpose -24
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+g4 d2 c =B/ A/ G2 d c B > c d2 G2 d2 z _e c G
+w:Ha- stu mir * * * die * lau- * te bracht. _ Nu leid und
+d2 G2 z g g3/2 f// _e// d2 G2 c2 B > A c2 z G d2 z g a2 g2
+w:meid. _ Der schön- sten * zu * ge- fal- * len. Nu lo- be lin- *
+_e g d d d2 z G2 d B A c/ B/ d A2 a a2 g a2 g2 d2 d z
+w:de. Es fur ein paur auff und iff und aff * * * es fur ein paur dein hol- ze.
+G3 G G2 d2 G d/ e/ f2 c2 B G z d c A G2 Hd2 ||
+w:Nos a- mis. * E- ne- len- de.  Seid wil- com, herr fe- de- ler. _
+d2 d d G2 B c G2 A2 B2 c G B2 A2 c d A2 
+w:Mein traut ge- sell, traut ge- sell. * Hoch lob ich auch _ frau _ zar-
+a2 z a f e > f g a/ f e/ g/ e c/ G4 z G c G2 G d2
+w:te eu- er tu- gend- li- che art und eur klu- ge list.  Groß se- nen, groß se-
+G2 B c d2 A2 B2 G4 z2 d2 d2 z G B c
+w:nen ich im her- * zen trag. Lib- lich komt uns der
+d2 G2 B c d2 G2 d A A F z d f g d2 HG4 |]
+w:mei, _ uns der mei. * Ka- the- ri- na vi- ci- na no- stra.

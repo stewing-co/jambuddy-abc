@@ -1,0 +1,84 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:39. Lungi da voi mia vita
+T:Superius.
+C:Cornello Verdouch.
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C
+L:1/4
+N:Original clef C on first line
+K:D dor
+z4 A2 D d c/ B/ A/ G/ F F _B > A G/ F/ G2 C2 F E2 "A"D A A > G F A
+w: Lun- gi da voi _ _ _ _  mia vi- * _ _ _  ta mia vi- ta, E l'a- ni ma e
+A > G F c c > B A c F G/ A/ _B2 "B"A2 A3 d c > c B A/ B/ c/ B/ d/ c/
+w:l'a- ni- ma E l'a- ni- ma sma- ri- * _ _  ta Pri- va d'o- gni con- ten- * _ _ _ _
+B/ c/ A/ B/ ^G/ A ^G/ "C"A2 A2 E G > G A B2 "D"E2 z E2 F2 E2 F2 E D2 "E"C E2 G2 D E F G2 E B c2 B c2 B A2
+w: _ _ _ _ _ _ _ to Pri- va d'o- gni con- ten- to In du- ro~af- fan- no~es- ten- to In du- ro~af- fan- no~es- ten- to In du- ro~af- fan- no~es- ten- 
+G2 c2 A _B2 A D E F2 E4 "F"E E > E ^C D E2  A A > A ^F G A d2 c2 B A2 A A2 G2 F E2
+w:to Et di duol fi nutr' e pas- ce, Et mil- le vol- te~il di Et mil- le vol- te~il di mo- r'e ri nas- ce mo- r'e ri- nas- 
+D D2 C2 F E2 D2 z A G F E2 D d2 c2 B A > B c/ B/ d3/2 c// B// c G _B "G"A2 A2 G2 F E D z A
+w:ce mo- r'e ri- nas- ce mo- r'e ri- nas- ce mo- r'e ri- nas- * _ _ _ _ _ _ _ _ ce mo- r'e ri- nas- ce mo- 
+G F E D/ D/ ^C D "H"E E > E ^C D E2 A A > A ^F G A d2 c2 B A2 A  A2 G2 F E2 D D2 C2 F
+w:r'e _ _ _  ri- nas- ce Et mil- le volt- e~il di Et mil- le volt- e~il di mor' e ri- nas- ce mor' e ri- nas- ce mor' e ri- 
+E2 D2 z A G F E2 D d2 c2 B A > B c/ B/ d3/2 c// B// c/ G/ _B A2 A2 G2 F E D z A G F 
+w:nas- ce, mor' e ri- nas- ce mor' e ri- nas- * _ _ _ _ _ _ _ _  ce mor' e ri- nas- ce mor' e ri- 
+E D/ D/ ^C D z2 A2 G2 F2 E4 HD4 |]
+w:nas- ce ri- nas- ce, mor' e ri- nas- ce.
+
+X:2
+T:39. Lungi da voi mia vita
+T:Alto.
+C:Cornello Verdouch.
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C
+L:1/4
+N:Original clef C on third line
+K:D dor -8va
+%%MIDI transpose -12
+d2 A a f/ e/ d/ c/ _B B f > e d/ c/ d2 G2 B c > d e/ f/ d2 ^c "A"d2
+w: Lun- gi da voi _ _ _ _ mia vi- * _ _ _ ta mia vi- * _ _ _ _ ta,
+z d d > e f F F > G A F f > e d/ A/ _B/ A/ G/ F/ G "B"F f2 c d > d e f/ e/
+w:E l'a- ni- ma E l'a- ni- ma sma- ri- * _ _ _ _ _ _ _ ta Pri- va d'o- gni con- ten- *
+d/ e/ c/ d/ e/ d/ f/ e/ d/ e/ c/ d/ B/ A/ B "C"A A2 d c > c B A2 ^G "D"A4 A2 c2 G A B c3/2 B// A// B "E"c4 B2 c2
+w:_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ to Pri- va d'o- gni con- ten- * to In du- ro~af- fan- no es- ten- * _ to In du- 
+B c2 B A/ B/ c/ d/ e > d e/ f/ g2 ^f z g e f2 d G A _B A/ G/ d4 ^c2 "F"z A A > A ^F G A2
+w:ro~af- fan- no~es- ten- * _ _ _ _ _ _ _  to Et di duol fi nutr- e pas- * _ _  ce, Et mil- le vol- te~il di
+z d2 c2 B A > B c/ A/ d > c c/ d//e// f2 e2 z A A > A ^F G A2 z d2 c2 B A > B c/ B/ d3/2 c// B// c/ G/
+w:mo- r'e ri- nas- * _ _ _ _ _ _ _ _ ce Et mil- le vol- te~il di mo- r'e ri- nas- * _ _ _ _ _ _ _
+%39v1
+_B2 A a2 g2 f e d e2 d "(1)"z "G"d d > d B c d d c B A A z a g f e d "H"z A A > A ^F G A2 z d2 c2 B
+N:Rest is editorial
+w:_ ce mor' e ri- nas- * _ ce, Et mil- le vol- te~il di, mor' e ri- nas- ce, mor' e ri- nas- ce Et mi- le volt' il di mor' e ri-
+%39v2
+A > B c/ A/ d > c c/ d// e// f2 e2  z A A > A ^F G A2 z d2 c2 B A > B c/ B/ d3/2 c// B// c/ G/ _B2 A a2 g2 f e d
+w:nas- * _ _ _ _ _ _ _ _ ce, Et mil- le volt- il di mor' e ri- nas- * _ _ _ _ _ _ _ _ ce, moro' e ri- nas- *
+%39v3
+e2 d d d > d B c d d c B A A z a g f e d z d2 c2 B A > B c/ A/ d3/2 c// B// c Hd4 |]
+w:_ ce Et mil- le volt' il di, mor' e ri- nas- ce, mor' e ri- nas- ce Et mil- le volt' il di, mor' e ri- * nas- ce.
+
+

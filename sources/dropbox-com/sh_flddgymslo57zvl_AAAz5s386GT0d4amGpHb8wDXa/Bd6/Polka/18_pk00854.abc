@@ -1,0 +1,98 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Die keusche Susanne (Polka)  CGF parts
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.218 (pk00854) orig. C,G,F-Dur
+T:L\"otschental. S.214-233. Repertoire von Xander Murmann, Weissenried, 1874-1948
+%%MIDI program 21
+P:ABAC
+R:polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+[P:A] "C"ce ee | "G7"ed d/e/f | Bd dd | "C"dc c/d/e | ce !>!ee | "G7"df !>!f2 | 
+Bg gd/e/ | "C"cc cz:: [P:B] [K:G] "G".d!>!d2d/c/ | .B!>!B2c/B/ | "D7"Ac df | "G"gf/e/ dB/c/ | 
+.d!>!d2d/c/ | .B!>!B2c/B/ | "D7"Ac df |1 "G"gd dd :|2 "G"gg g"_>Teil A"z ||
+[P:C] [K:F] |: "F"AB =Bc | d3c | cf ed | "C7"e3B | BA B=B | d3c | 
+Bd cB | "F"A3A | AB =Bc | d3 c | cf fA | "Bb"d3 d/e/ | 
+fe fd | "F"c=B cA | "C7"Bc de |1 "F"ff fF :|2 "F"ff fz |] 
+X:2
+T: Die keusche Susanne (Polka)  CGF
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"ce ee | "G7"ed d/e/f | Bd dd | "C"dc c/d/e | ce !>!ee | "G7"df !>!f2 | \
+Bg gd/e/ | "C"cc cz::  [K:G]
+ "G".d!>!d2d/c/ | .B!>!B2c/B/ | "D7"Ac df | "G"gf/e/ dB/c/ | \
+.d!>!d2d/c/ | .B!>!B2c/B/ | "D7"Ac df |1 "G"gd dd :|2
+ "G"gg g"_>Teil A"z  [K:F] \
+|: "F"AB =Bc | d3c | cf ed | "C7"e3B | BA B=B | d3c | \
+Bd cB | "F"A3A |
+ AB =Bc | d3 c | cf fA | "Bb"d3 d/e/ | \
+fe fd | "F"c=B cA | "C7"Bc de |1 "F"ff fF :|2 "F"ff fz |] 
+W: Parts: ABAC
+% pk00854
+X:3
+T: Die keusche Susanne (Polka)  CGF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"ce ee | "G7"ed d/e/f | Bd dd | "C"dc c/d/e | ce !>!ee | "G7"df !>!f2 | \
+Bg gd/e/ | "C"cc cz::  [K:G]
+ "G".d!>!d2d/c/ | .B!>!B2c/B/ | "D7"Ac df | "G"gf/e/ dB/c/ | \
+.d!>!d2d/c/ | .B!>!B2c/B/ | "D7"Ac df |1 "G"gd dd :|2
+ "G"gg g"_>Teil A"z  [K:F] \
+|: "F"AB =Bc | d3c | cf ed | "C7"e3B | BA B=B | d3c | \
+Bd cB | "F"A3A |
+ AB =Bc | d3 c | cf fA | "Bb"d3 d/e/ | \
+fe fd | "F"c=B cA | "C7"Bc de |1 "F"ff fF :|2 "F"ff fz |] 
+W: Parts: ABAC
+% pk00854
+X:4
+T:Die keusche Susanne (Polka) DA&G (tinwhistle in D)
+T:pk00854 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D%%MIDI gchordon
+"D"df ff | "A7"fe e/2f/2g | ce ee | "D"ed d/2e/2f | df !>!ff | "A7"eg !>!g2 | \
+ca ae/2f/2 | "D"dd dz:: [K:A]
+"A".e!>!e2e/2d/2 | .c!>!c2d/2c/2 | "E7"Bd eg | "A"ag/2f/2 ec/2d/2 | \
+.e!>!e2e/2d/2 | .c!>!c2d/2c/2 | "E7"Bd eg |1 "A"ae ee :|2
+"A"aa a"_>Teil A"z [K:G] \
+|: "G"Bc ^cd | e3d | dg fe | "D7"f3c | cB c^c | e3d | \
+ce dc | "G"B3B |
+Bc ^cd | e3 d | dg gB | "C"e3 e/2f/2 | \
+gf ge | "G"d^c dB | "D7"cd ef |1 "G"gg gG :|2 "G"gg gz |] 
+W:Parts: ABAC
+% pk00854
+X:5
+T:Die keusche Susanne (Polka) DA&G (tinwhistle in D) solo
+T:pk00854 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D transpose=12
+"D"df ff | "A7"fe e/2f/2""g | ce ee | "D"ed d/2e/2f | df !>!ff | "A7"eg !>!g2 | \
+ca ae/2f/2 | "D"dd dz:: [K:A]
+"A".e!>!e2e/2d/2 | .c!>!c2d/2c/2 | "E7"Bd e"_#"g | "A"a"_#"g/2f/2 ec/2d/2 | \
+.e!>!e2e/2d/2 | .c!>!c2d/2c/2 | "E7"Bd e"_#"g |1 "A"ae ee :|2
+"A"aa a"_>Teil A"z [K:G] \
+|: "G"Bc ^cd | e3d | dg fe | "D7"f3"_c"c | cB "_c"c^c | e3d | \
+"_c"ce dc | "G"B3B |
+Bc ^cd | e3 d | dg gB | "C"e3 e/2f/2 | \
+gf ge | "G"d^c dB | "D7""_c"cd ef |1 "G"gg gG :|2 "G"gg gz |] 
+W:Parts: ABAC
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 27, 2016

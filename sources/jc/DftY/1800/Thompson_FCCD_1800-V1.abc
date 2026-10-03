@@ -1,0 +1,484 @@
+
+X: 0
+T: A Favorite Collection of Country Dances for the Year 1800
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+B: Thompson "A Favorite Collection of Country Dances for the Year 1800", London 1800
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-straight1800
+K:
+%%center A
+%%center Favorite Collection of
+%%center COUNTRY DANCES
+%%center for the Year 1800
+%%center With Directions to each Dance, adapted for the
+%%center for Harpsichord of Piano-Forte.
+%%center -----------------------------------
+%%center London Printed for Mess.rs Thompson No.75, St. Paul's Church Yard.
+%%sep 5 2 500
+%%sep 2 5 500
+%%begintext align
+%% Transcription notes:
+%% Each tune is in a file with a name of the form PP_Title-K-B-S.abc,
+%% where PP is the 2-digit page number, Title is the tune's title with underscores
+%% for spaces, K is the key, B is the number of bars in one playing of the tune,
+%% and S is the number of staffs in the transcription.
+%%endtext
+%%begintext align
+%% The staffs have sometimes been reformatted to fit A4/US-letter pages, usually with
+%% a multiple of 4 bars per staff to go with a relatively small scale for proofreading.
+%% You should reformat the staffs to match your needs.
+%%endtext
+%%begintext align
+%% A few tunes use voice overlays (2 voices on one staff) that much ABC software can't handle.
+%% Two versions of these are provided: a PP-Title-K-B-S-V1.abc file that's arranged to work with
+%% such software, and a PP=Title-K-B-S-V2.abc file that contains the voice overlays.
+%% This is also used for the cases of "chord" appoggiaturas and some other features
+%% that aren't widely implemented yet.
+%% The '-' vs '=' after the page number is to make it easier for makefiles to tell them apart.
+%%endtext
+
+%%sep 1 1 500
+%%sep 1 1 500
+
+X: 01
+T: The Naval Pillar
+%R: reel
+B: Thompson "A Favourite Collection of Country Dances 1800", p.1
+F: https://deriv.nls.uk/dcn23/1205/2168/120521683.23.pdf
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/16
+K: A
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 formatted for a US-letter/A4 page size.
+V: 1
+c2c2 | BABc d2e2 | c2A2c2c2 | BABc d2^d2 | e4 :|
+|: agfe | e2^d2 bge=d | d2c2 agag  | aecA cBAG | A4 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff breaks.
+V: 2 clef=bass middle=d
+aeae | gege gege | aeae aeae | gege geaf | ed'c'b :|
+|: c'2c'2 | fafa gbgb | a2A2 c2e2 | a2c2 d2e2 | A4 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% Cast off one Cu: and swing your Partner round with the right hand _
+%% cast up & do the same wth the left _
+%% lead down the middle & up again _
+%% Allemand with the right hand & left
+%%endtext
+%%sep 2 2 400
+
+%%sep 1 1 500
+%%sep 1 1 500
+
+X: 02
+T: The East India Volunteers
+%R: jig
+B: Thompson "A Favourite Collection of Country Dances 1800", p.2
+F: https://deriv.nls.uk/dcn23/1205/2168/120521683.23.pdf
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: A
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 formatted for a US-letter/A4 page size.
+V: 1
+e/c/ |\
+AAA AcA | FFF F3 | FdB Gec | AAA A2 :: e | =ggg gec | ddd d/c/d/e/f/g/ |
+aaa af^d | eee e/f/e/=d/c/B/ | AAA AcA | FFF F3 | FdB Gec | AAA A2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff breaks.
+V: 2 clef=bass middle=d
+z | Ace aec | dAF D3 | d2z e2z | aec A2 :: z | Ace a2A | dfa d2z |
+B^df b2B | egb e2z | Ace aec | dAF D3 | d2z e2z | aec A2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% The 1st & 2d Cu: set & change sides .|
+%% back again .|.
+%% lead down 2 Cu & up again :|.
+%% hands 3 round with the same Gent :|:
+%% cross over 1 Cu .|.
+%% right & left .:|:.
+%%endtext
+%%sep 2 2 400
+
+%%sep 1 1 500
+%%sep 1 1 500
+
+X: 03
+T: Lord Duncan's Reel
+%R: reel
+B: Thompson "A Favourite Collection of Country Dances 1800", p.3
+F: https://deriv.nls.uk/dcn23/1205/2168/120521683.23.pdf
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: F
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 formatted for a US-letter/A4 page size.
+V: 1
+|: FEFA cAAc | FcAc G/G/G G2 | FAAc fcgc | abga f/f/f f2 :|
+|: fdcA FcAc | fdcA G/G/G G2 | fgaf cfcA | TG>FG>A F/F/F F2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff breaks.
+V: 2 clef=bass middle=d
+|: f2f2 f2f2 | F2F2 c2c2 | f2f2 f2e2 | f2c2 f2F2 :|
+|: f2f2 f2f2 | F2F2 c2c2 | f2f2 f2f2 | c2c2 F2F2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% Cast off 2 Cu .|
+%% up again .|.
+%% lead down the middle & up again .|
+%% cast off set corners & turn, lead outsides.
+%%endtext
+%%sep 2 2 400
+
+%%sep 1 1 500
+%%sep 1 1 500
+
+X: 04
+T: S.r Harry Neale's Waltz
+%R: waltz
+N: This is version 1, for ABC software that doesn't understand voice overlays.
+B: Thompson "A Favourite Collection of Country Dances 1800", p.4
+F: https://deriv.nls.uk/dcn23/1205/2168/120521683.23.pdf
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+M: 3/8
+L: 1/8
+K: D
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 formatted for a US-letter/A4 page size.
+V: 1
+F/G/ |\
+[A2F3]d | [A2F2][dF] | {e}[dG][cG][cG] | [c2G2][G/E/][F/D/] |\
+[E2C2][GE] | [E2C2][BG] | [BG][AF][AF] | [A2F2]d |\
+{e}dce | {f}edf |
+{g}feg | {a}gfa | b>c'd' | {a}^gfg | [ac][ac][ac] | [a2c2] :: [e/c/][f/d/] |\
+[=ge][ge][fd] | [ec][ec][dB] [cA][cA][BG] | [AF][AF][GE] | [FD]A/F/A/F/ |\
+B>cd | {d}cBc | [dF][dF][dF] | [d2F2] :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff breaks.
+V: 2 clef=bass middle=d
+z |\
+Ddd | Ddd | Eee | Eee | A,AA | A,AA | Ddd | Ddd |
+[g'3e'3] | [a'3f'3] | [a'3c'3] | [a'2d'2]f' | d'2b | e2e | aAA | A2 :: z |\
+A,2A | A,2A | A,2A | A,2A | D2d | G2g | A2a | ddd | d2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% First Lady go round the 2d Lady into 2d Gent's place .|
+%% her partner follow & back again .|.
+%% Lead down the middle & up again :|.
+%% Allemand & swing Corners :|:
+%%endtext
+%%sep 2 2 400
+
+%%sep 1 1 500
+%%sep 1 1 500
+
+X: 05
+T: Ramsgate Pier
+%R: reel, polka
+B: Thompson "A Favourite Collection of Country Dances 1800", p.5
+F: https://deriv.nls.uk/dcn23/1205/2168/120521683.23.pdf
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/16
+K: A
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 formatted for a US-letter/A4 page size.
+V: 1
+|:\
+A2AB dcBA | d2d2 d4 | B2Bc edcB | c2c2 c4 |\
+A3B cBcA | B3c dcdB | c2ce dcdB |
+A2A2 A4 H:|\
+a3b gefg | a2e2c2A2 | a3b gefg | a6 c2 |\
+d2f2e2c2 | B2d2c2A2 | [G2D2][G2D2] [A2C2][A2C2] | [B6G6E6] (3(EF"^D.C."G) |]
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff breaks.
+V: 2 clef=bass middle=D
+|:\
+Aece Aece | Bede Bede | GeBe GeBe | Aece Aece |\
+CAEA CAEA | DBFB DBFB | EcAc EeGe |
+Aece A4 H:|\
+Aece Bede | cece Aece | Aece Bede | cece A2E2 |\
+FAGA EAGA | C2G2E2C2 | B,2B,2A,2A,2 | E6 z2 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% 1st & 2d Cu: set & hands Cross & back again .|
+%% Lead down the middle & up again .|.
+%% Allemand :|:
+%% Swing Corners & lead outsides :|:
+%%endtext
+%%sep 2 2 400
+
+%%sep 1 1 500
+%%sep 1 1 500
+
+X: 06
+T: The Esplanade
+%R: jig
+N: This is version 1, for ABC software that doesn't understand voice overlays.
+B: Thompson "A Favourite Collection of Country Dances 1800", p.6
+F: https://deriv.nls.uk/dcn23/1205/2168/120521683.23.pdf
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+N: The 2nd strain has an initial repeat but no final repeat; fixed to match the dance.
+M: 6/8
+L: 1/8
+K: Eb
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 formatted for a US-letter/A4 page size.
+V: 1
+|:\
+b>ag gab | bc'a f2a | g>fe ede | f3 B2B |\
+c>de Bee | c>de Bee | d/c/ag gfe | e3 d2z :|
+|:\
+b>ag gab | bc'a f2a | g>fe ede | f3 B2B |\
+c>de Bee | c>de Bee | d/c/ag fed | d3 e3 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff breaks.
+V: 2 clef=bass middle=d
+|:\
+[g3e3] [g3e3] | a3 b3 | [g3e3] [g3e3] | [f3d3] [f2d2]e |\
+[a2e2][ae] [g2e2][ge] | [a2e2][ae] [g2e2][ge] | a3 a3 |
+b3 B2z :||:\
+[g3e3][g3e3] | a3 b3 | [g3e3] [g3e3] | [f3d3] [f2d2]e |\
+[a2e2][ae] [g2e2][ge] | [a2e2][ae] [g2e2][ge] | a3 b3 | e3 E3 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% Cast off [... illegible ...]
+%% lead down the middle & up again .|.
+%% cast off & Allemand :|:
+%% hands 6 round & back again .|.
+%% lead outsides with your Partner. .:|:.
+%%endtext
+%%sep 2 2 400
+
+%%sep 1 1 500
+%%sep 1 1 500
+
+X: 07
+T: The Travelling Curricle
+%R: march, reel
+B: Thompson "A Favourite Collection of Country Dances 1800", p.7
+F: https://deriv.nls.uk/dcn23/1205/2168/120521683.23.pdf
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/16
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 formatted for a US-letter/A4 page size.
+V: 1
+dBdB |\
+G2B2 A2c2 | B2d2 G2B2 | c2A2 E2A2 | F2D2 dBdB |\
+G2B2 A2c2 | B2d2 G2d2 | B2g2e2^c2 | d4 :|
+|: bgbg |\
+e2e2 bgbg | d2d2 gdgd | c2cd B2Bc | A4 bgbg |\
+e2e2 bgbg | d2d2 gdgd | BdBG AcAF | G4 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff breaks.
+V: 2 clef=bass middle=d
+z4 |\
+gd'bd' fd'ad' | gd'bd' ebgb | caea caea | dafa dd'bd' |\
+gd'bd' fd'ad' | gd'gd' gd'bd' |
+ge'be' ae'^c'e' | d'2d2 :|\
+|: z4 |\
+ebgb ebgb | dbgb dbgb | fd'ad' gd'bd' | dafa z4 |\
+ebgb ebgb | dbgb dbgb | dbgb dafa | g2G2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% First & 2d Cu: hands across & back again .|
+%% lead down the middle & up again .|.
+%% cross over 2 Cu: :|.
+%% right & left :|:
+%%endtext
+%%sep 2 2 400
+
+%%sep 1 1 500
+%%sep 1 1 500
+
+X: 08
+T: Rolla and Cora
+%R: reel, march
+B: Thompson "A Favourite Collection of Country Dances 1800", p.8
+F: https://deriv.nls.uk/dcn23/1205/2168/120521683.23.pdf
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+N: The 2nd strain has an initial repeat but no final repeat; fixed to match the dance.
+M: 2/4
+L: 1/16
+K: F
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 formatted for a US-letter/A4 page size.
+V: 1
+fg |\
+a2a2 bagf | e2g2 c2de | f2ga b2a2 | gfga g2fg |\
+a2a2 bagf | e2a2 A2=B^c | d2ef e2^c2 | d6 :|
+|: fg |\
+a2a2 bagf | e2a2 A2=B^c | d2ef g2f2 | {f}e6 de |\
+fefd gfge | agaf babg | a2f2 {a}g2fe | f6 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff breaks.
+V: 2 clef=bass middle=d
+z2 |\
+f2c'2a2c'2 | c2g2e2g2 | a2gf e2f2 | c2c'2c2z2 |\
+d2a2f2a2 | c2a2e2a2 | f2d2 a2A2 |
+d2A2D2 :||: z2 |\
+d2a2d2a2 | ^c2a2e2a2 | f2ed ^c2d2 | A2a2A2z2 |\
+d2B2e2c2 | f2d2g2e2 | f2a2c'2c2 | d2A2D2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% First Lady turn the 2d Gent .|
+%% 1st Gent. turn 2d Lady .|.
+%% Lead down 2 Cu: & foot it :|.
+%% Lead up again & Allemand :|:
+%%endtext
+%%sep 2 2 400
+
+%%sep 1 1 500
+%%sep 1 1 500
+
+X: 09
+T: Lady Charlotte Durham's Waltz
+%R: waltz
+B: Thompson "A Favourite Collection of Country Dances 1800", p.9
+F: https://deriv.nls.uk/dcn23/1205/2168/120521683.23.pdf
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+N: The 1st strain has 9 bars.
+M: 3/8
+L: 1/16
+K: A
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 formatted for a US-letter/A4 page size.
+V: 1
+E2 |\
+A2c2B2 | A2e2d2 | c2a2e2 | e4cA |\
+f4dB | e4cA | BcdcBA | BcdBAG | A4 :|
+|: cd |\
+e2ecAc | B2BGEF | GABcde | fgabc'd' |\
+e'4c'a | e2a2c'2 | bc'd'bag | a4 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff breaks.
+V: 2 clef=bass middle=d
+z2 |\
+A4e2 | a4e2 | A2e2c2 | A4a2 |\
+d4b2 | c4a2 | g2e2a2 | d2e2E2 | A4 :|
+|: z2 |\
+A2a2a2 | E2e2e2 | [e6-E6-] | [e4E4][d2D2] |\
+[c4C4]z2 | A2c2A2 | d2e2E2 | A4 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% First & 2d Cu: half right & left & back again .|
+%% lead down the middle & up again .|.
+%% cross over one Cu: :|.
+%% right & left at Top. :|:
+%%endtext
+%%sep 2 2 400
+
+%%sep 1 1 500
+%%sep 1 1 500
+
+X: 10
+T: The Siege of Acre
+%R: march, reel
+B: Thompson "A Favourite Collection of Country Dances 1800", p.10
+F: https://deriv.nls.uk/dcn23/1205/2168/120521683.23.pdf
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+N: The 2nd strain has initial repeat but no final repeat; fixed to match the D.C. and the dance.
+M: 2/4
+L: 1/16
+K: F
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 formatted for a US-letter/A4 page size.
+V: 1
+F2 |\
+A2F2 B2G2 | c2A2F2f2 | d2B2G2c2 | A3G F2FG |\
+A2F2 B2G2 | c2A2 F2f2 | d2B2 G2B2 | F6 H:|
+FG |\
+A2c2 G2B2 | A2F2G2E2 | F2A2E2G2 | F2D2E2C2 |\
+D2F2E2G2 | F2A2G2B2 | A2c2=B2d2 | Tc6 "_D.C."|]
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff breaks.
+V: 2 clef=bass middle=D
+z2 |\
+FcAc EcGc | FcAc FcAc | DBFB EcGc | FcAc FcAc |\
+FcAc EcGc | FcAc FcAc | B,FDF CGEG |
+F6 H:| z2 |\
+FcAc EcGc | FcAc GcBc | FcAc EcGc | DGFG CGEG |\
+B,FDF CGEG | CAFA DBGB | FcAc Gd=Bd | c6 "^D.C."|]
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% Turn your Partner with the right hand and left .|
+%% lead down the middle up again .|.
+%% cast off .|.
+%% hands 6 round :|:
+%%endtext
+%%sep 2 2 400
+
+%%sep 1 1 500
+%%sep 1 1 500
+
+X: 11
+T: The Village Fete
+%R: reel
+N: This is version 1, for ABC software that doesn't understand voice overlays.
+B: Thompson "A Favourite Collection of Country Dances 1800", p.11
+F: https://deriv.nls.uk/dcn23/1205/2168/120521683.23.pdf
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/16
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 formatted for a US-letter/A4 page size.
+V: 1
+|:\
+BcdB G2G2 | efge d4 | gaba gdBG | BcdB GFED |\
+BcdB G2G2 | efge d4 | gfgf gdBG | cAGF G4 :|
+|:\
+[BD8]ABc B3A | [AD8]B^cA d2d2 | [BD8]ABc B3A | [AD8]B^cA d4 ::\
+[B2G2][B2G2][d2F2][d2F2] | [^c2G2][c2G2] [=c4A4] | BgdB cgec | BAGF G4 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff breaks.
+V: 2 clef=bass middle=d
+|:\
+G2g2 B2B2 | c2c2 BcBA | G4 g4 | d4 z4 |\
+G2g2 B2B2 | c2c'2 bc'ba | b2d'2b2g2 | c'2d'2 g4 :|
+|:\
+gfga g3f | g2g2 f2f2 | gfga g3f | g2g2 f4 ::\
+g2g2 d2d2 | e2e2 f4 | g2g2 c'2c'2 | d'2d2 g4 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% 1st & 2d Cu: set & change sides .|.
+%% back again, lead down the middle up again :|.
+%% Cast off & Allemand :|:
+%%endtext
+%%sep 2 2 400
+
+%%sep 1 1 500
+%%sep 1 1 500
+
+X: 12
+T: Cambridge Heath
+%R: reel
+B: Thompson "A Favourite Collection of Country Dances 1800", p.12
+F: https://deriv.nls.uk/dcn23/1205/2168/120521683.23.pdf
+Z: 2019 John Chambers <jc:trillian.mit.edu>
+N: The first staff's right end is illegible; the repeat is inferred from the dance.
+M: C
+L: 1/8
+K: Bb
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 formatted for a US-letter/A4 page size.
+V: 1
+|: {B}b3f dfdB | edcB AcAF | {B}b3f dfdB | ecBA B2B2 :|
+|: c3e edcB | gfed cAGF | c3e defg | ecBA B2B2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff breaks.
+V: 2 clef=bass middle=d
+|: Bbfd B3d | e3=e f2z2 | Bbfd B3d | e2f2 B2z2 :|
+|: fgaf b2z2 | b2B2 f2z2 | fgaf b2z2 | e2f2 B2z2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% First & 2d Cu: hands across & back again .|
+%% lead down the middle & up again .|.
+%% cast off :|.
+%% right & left at top. |
+%%endtext
+%%sep 2 2 400

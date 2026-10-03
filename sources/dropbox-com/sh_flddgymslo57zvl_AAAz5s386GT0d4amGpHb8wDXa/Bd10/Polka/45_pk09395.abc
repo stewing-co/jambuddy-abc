@@ -1,0 +1,66 @@
+%%MIDI program 21
+%%partsbox
+
+X:1
+T:Bim Berti (Polka)  GC
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.218 (pk09395) orig. G,C
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+Bc | "G"d2b2 bgdb | "D7"c2a2 a2AB | c2a2 afdc | "G"B2g2 g2Bc | d2b2 bgdg | "D"f2a2 afdf | 
+"A7"e^deb agef | "D"d4 z2cB || "D7"(A4 A)^GAB | cBA^G ABcd | "tr""G"e2d2 dBdb | b4 z2db | "tr""D7"d2c2  cBcb | 
+a4z2cd | "tr""G"c2B2 B^ABb | g4z2cB | "D7"(A4 A)^GAB | cBA^G ABcd | "G"e2d2 dBdb | b6"tr"g2 | 
+"Am/C"a2a2 e^dba | "G"g2g2 Bdbg | "D7"fAdf edc'f | "G"g2b2 g2GF || [K:C] "C"E2G2 c2a2 | (e4 e)Gce | "tr"G2eG cEGc | 
+"G7"d2B2 F2G^F | =F2G2 B2g2 | (f4 f)GBd | g2fe dcBA | "C"AGGe c2GF | E2G2 c2a2 | e6e2 | 
+"tr""A7"a2eA ^ceae | "Dm"g2^f2 =f4 | "G7"fedc' b3a | "C"agc'a geGc | "G7"Bcde fgab | "C"c'geg .c'4 |] 
+W:
+W: Bim Berti (At Albert's)
+% pk09395 (HC 337/TN 28)
+X:2
+T:Bim Berti (Polka)  GC  (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+Bc | "G"d2b2 bgdb | "D7"c2a2 a2AB | c2a2 afdc | "G"B2g2 g2Bc | d2b2 bgdg | "D"f2a2 afdf | 
+"A7"e^deb agef | "D"d4 z2cB || "D7"(A4 A)^GAB | cBA^G ABcd | "tr""G"e2d2 dBdb | b4 z2db | "tr""D7"d2c2  cBcb | 
+a4z2cd | "tr""G"c2B2 B^ABb | g4z2cB | "D7"(A4 A)^GAB | cBA^G ABcd | "G"e2d2 dBdb | b6"tr"g2 | 
+"Am/C"a2a2 e^dba | "G"g2g2 Bdbg | "D7"fAdf edc'f | "G"g2b2 g2GF || [K:C] "C"E2G2 c2a2 | (e4 e)Gce | "tr"G2eG cEGc | 
+"G7"d2B2 F2G^F | =F2G2 B2g2 | (f4 f)GBd | g2fe dcBA | "C"AGGe c2GF | E2G2 c2a2 | e6e2 | 
+"tr""A7"a2eA ^ceae | "Dm"g2^f2 =f4 | "G7"fedc' b3a | "C"agc'a geGc | "G7"Bcde fgab | "C"c'geg .c'4 |] 
+% pk09395
+X:3
+T:Bim Berti (Polka)  CF 7-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+EF | "C"G2e2 ecGe | "G7"F2d2 d2DE | F2d2 dBGF | "C"E2c2 c2EF | G2e2 ecGc | "G"B2d2 dBGB | 
+"D7"A^GAe dcAB | "G"G4 z2FE || "G7"(D4 D)^CDE | FED^C DEFG | "tr""C"A2G2 GEGe | e4 z2Ge | "tr""G7"G2F2 FEFe | 
+d4z2FG | "tr""C"F2E2 E^DEe | c4z2FE | "G7"(D4 D)^CDE | FED^C DEFG | "C"A2G2 GEGe | e6"tr"c2 | 
+"Dm/F"d2d2 A^Ged | "C"c2c2 EGec | "G7"BDGB AGfB | "C"c2e2 c2CB, || [K:F] "F"A,2C2 F2d2 | (A4 A)CFA | "tr"C2AC FA,CF | 
+"C7"G2E2 B,2C=B, | _B,2C2 E2c2 | (B4 B)CEG | c2BA GFED | "F"DCCA F2CB, | A,2C2 F2d2 | A6A2 | 
+"tr""D7"d2AD ^FAdA | "Gm"c2=B2 _B4 | "C7"BAGf e3d | "F"dcfd cACF | "C7"EFGA Bcde | "F"fcAc .f4 |] 
+% pk09395
+X:4
+T:Bim Berti (Polka) D&G (tinwhistle in D) solo
+T:pk09395 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+FG | A2f2 fdAf | G2e2 e2EF | G2e2 ecAG | F2d2 d2FG | A2f2 fdAd | c2e2 ecAc | 
+B^ABf edBc | A4 z2GF || (E4 E)^DEF | GFE^D EFGA | TB2A2 AFAf | f4 z2Af | TA2G2 GFGf | 
+e4z2GA | TG2F2 F^EFf | d4z2GF | (E4 E)^DEF | GFE^D EFGA | B2A2 AFAf | f6Td2 | 
+e2e2 B^Afe | d2d2 FAfd | cEAc BAgc | d2f2 d2DC || [K:Gmaj] B,2D2 G2e2 | (B4 B)DGB | TD2BD GB,DG | 
+A2F2 C2D^C | =C2D2 F2d2 | ("_c"c4 c)DFA | d2cB AGFE | EDDB G2DC | B,2D2 G2e2 | B6B2 | 
+Te2BE ^GBeB | d2^c2 =c4 | cBAg f3e | edge dBDG | FGAB cdef | gdBd .g4 |]
+% pk09395
+% Sep. 15, 2016

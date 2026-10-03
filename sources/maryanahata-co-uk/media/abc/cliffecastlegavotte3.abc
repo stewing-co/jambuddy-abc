@@ -1,0 +1,76 @@
+% shrink1.abc - reduce size a bit, by reducing vertical spacing
+%%titlespace 0.1cm
+%%topspace 0.2cm
+%%musicspace 0.1cm
+%%textspace 0.0cm
+%%staffsep 1.1cm
+X:1
+T:Cliffe Castle Gavotte
+C:François Behr
+N:Remarks:
+Q:1/4=120
+M:4/4
+L:1/8
+K:C
+V:1
+V:2
+V:3 clef=bass octave=-2
+V:1
+.E.F .E.F |G z G2 .c.d.c.d |B4 BdcB |A z A2 AcBA |G z G2 EFEF |G z G2 .c.d.c.d |
+B4 Bcde |f z A z A z B z |c4 EFEF |G z G2 cdcd |B4 BdcB | A z A2 AcBA |
+G z G2 EFEF |G z G2 cdcd |B4 Bcde |f z A z A z B z | c4 cdcd |e2 B2 B2 e2 |
+c2 A2 ABc^c |d2 A2 A2 d2 |B2 G2 GAGA |G4 GAGA | G4 GAGA |G2 g2 G2 g2 |
+G2 g2 EFEF |G z G2 cdcd |B4 BdcB |A z A2 AcBA |
+G z G2 EFEF |G z G2 cdcd | B4 Bcde |f z A z A z B z |c4|:
+V:2
+CDCD|Ez E2 ABAB|G4 GBAG| FzF2 FAGF|EzE2 CDCD| EzE2 ABAB|
+G4 GABc|dz Fz Fz Gz|E4 CDCD|Ez E2 ABAB|G4 GBAG| FzF2 FAGF|
+EzE2 CDCD| EzE2 ABAB| G4 GABc|dz Fz Fz Gz|E4 CDCD|E2^G2G2E2|
+A4AG^FE|D2^F2F2D2|G4B,2A,2|B,4B,2B,2|C4EFEF|G2z2F2z2|D4CDCD|Ez E2 ABAB|G4 GBAG| FzF2 FAGF|
+EzE2 CDCD| EzE2 ABAB| G4 GABc|dz Fz Fz Gz|E4|:
+V:3
+z4|c2[ge']2c2[ge']2| d2[gf']2[gf']2z2| G2[fb]2f2g2| c2g2[ec']2g2|
+c2[ge']2c2[ge']2| d2[gf']2[gf']2z2| G2[bf]2G2[bf]2| c2[ge']2[ge']2z2|
+c2[ge']2c2[ge']2| d2[gf']2[gf']2z2| G2[fb]2f2g2| c2g2[ec']2g2|
+c2[ge']2c2[ge']2| d2[gf']2[gf']2z2| G2[bf]2G2[bf]2| c2[ge']2[ge']2z2|
+^G2[e'^g]2E2[e'^g]2| A2[ec']2[ec']2G2| ^F2[dc']2D2[fc']2| G2[db]2[gd']2[g^c']2|
+[d'2g2]G2[d'g]2[^d'g]2|[e'g]2G2[ec']2[e^c']2|[fd']2 G2B2d2|g2f2e2d2|
+c2[ge']2c2[ge']2| d2[gf']2[gf']2z2| G2[fb]2f2g2|
+c2[ge']2[ge']2z2|
+c2[ge']2c2[ge']2| d2[gf']2[gf']2z2| G2[bd]2G2[bd]2| c2[ge']2
+V:1
+|:cB ca |_B4 BABg |A4 Acfe | d2 df _d2 dg |c4 cBca |_B4 BABg |
+A4 Afgf |ecea B^ABe | A4 cBca | _B4 BABg |A4 Acfe |
+d2 df _d2 dg |c4 c=Bca |_B4 Bega |g3 f _ABed | cEF_B A z G z |F4 :|
+V:2
+F2GF|E6DE|F6A2|_B4F2G2|A4F2GF|E6DE|F8|A4^G2E2|E4F2GF|
+E6DE|F6A2_B4F2G2|A4F2GF|G4G4|A4E4|F2z2E2E2|F4:|
+CDCD|Ez E2 ABAB|G4 GBAG| FzF2 FAGF|
+EzE2 CDCD| EzE2 ABAB| G4 GABc|dz Fz Fz Gz|E4 CDCD|E2^G2G2E2|
+A4AG^FE|D2^F2F2D2|G4B,2A,2|B,4B,2B,2|C4EFEF|G2z2F2z2|D4CDCD|Ez E2 ABAB|\
+G4 GBAG| FzF2 FAGF|
+EzE2 CDCD| EzE2 ABAB| G4 B,CDE|FGAB cBcd|ez cz Az Fz|
+E z C z A z F z|E4E4|F2G2F3E|E4D4|E8|]
+V:3
+|:z4| cdegc'4|FGAcf4|_B2f2b4|fgac' f'4|
+cdegc'4|defad'4|e2c'2e2^g2|
+ae'c'ba4|cdegc'4|FGAcf4|_B2f2b4|fgac' f'4|
+cge'2^c_be'2| dafd=B2[_ad']2| c2[ca]2C2c2|F2[af]2:|
+V:1
+EF EF |G z G2 cdcd |B4 BdcB | A z A2 AcBA |G z G2 EFEF |
+G z G2 cdcd |B4 Bcde |f z A z A z B z | c4 cdcd |e2 B2 B2 e2 |
+c2 A2 ABc^c |d2 A2 A2 d2 |B2 G2 GAGA |G4 GAGA |G4 GAGA |
+G2 g2 G2 g2 | G2 g2 EFEF |G z G2 cdcd | B4 BdcB |A z A2 AcBA |G z G2 EFEF |
+G z G2 cdcd |B4 B,CDE | FGAB cdef | g z e z c z A z |
+G z e z c z A z |G4 A4 |A2 e2 d3 c | c4 G4 |C8 |]
+V:3
+z4|c2[ge']2c2[ge']2| d2[gf']2[gf']2z2| G2[fb]2f2g2|c2g2[ec']2g2|
+c2[ge']2c2[ge']2| d2[gf']2[gf']2z2| G2[bf]2G2[bf]2| c2[ge']2[ge']2z2|
+^G2[e'^g]2E2[e'^g]2| A2[ec']2[ec']2G2| ^F2[dc']2D2[fc']2| G2[db]2[gd']2[g^c']2|
+[d'2g2]G2[d'g]2[^d'g]2|[e'g]2G2[ec']2[e^c']2|[fd']2 G2B2d2|g2f2e2d2|
+c2[ge']2c2[ge']2| d2[gf']2[gf']2z2| G2[fb]2f2g2|
+c2[ge']2[ge']2z2|c2[ge']2c2[ge']2| d2[gf']2 GABc|
+defg a2g2|C2E2F2A2|c2e2f2a2|c'4^c'4|d'2c'2 g4|c4G4|C8|]
+
+%End of file
+

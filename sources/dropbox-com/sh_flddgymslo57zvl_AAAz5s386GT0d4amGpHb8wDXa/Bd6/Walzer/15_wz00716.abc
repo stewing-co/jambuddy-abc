@@ -1,0 +1,118 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Schlitten-Walzer  CF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.202 (wz00716) orig. C,F-Dur
+T:Walliser T\"anze. S.196-213.\"Uberliefert durch Josef Seewer und Marcel Tschopp, Leuk, 
+T: und Sepp Mutter, Ried/Brigerberg
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"G>AG | E2c | E2c | "G7"D2B | G>AG | F2d | F2d | 
+"C"E2c | G>AG | Ec/E/c | Ec/E/c | "G7"DB/D/B | G>AG | 
+Fd/F/d  | Ged | "C"czz |: [K:F] "C7"cba | g>gg | cag | "F"f>ff | 
+"C7"cgf | e>ee | "F"cf>f | fzz :| "C7"cd/b/ c/a/ | [Bg]>[Bg][Bg] | 
+c c/a/ B/g/ | "F"f>ff | "C7"c B/g/ A/f/ | G>GG | c G/e/ G/e/ | "F"fzz |] 
+X:2
+T:Schlitten-Walzer  GC 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"D>ED | B,2G | B,2G | "D7"A,2F | D>ED | C2A | C2A | 
+"G"B,2G | D>ED | B,G/2B,/2G | B,G/2B,/2G | "D7"A,F/2A,/2F | D>ED | 
+CA/2C/2A | DBA | "G"Gzz |: [K:C] "G7"Gfe | d>dd | Ged | "C"c>cc | 
+"G7"Gdc | B>BB | "C"Gc>c | czz :| "G7"GA/2f/2 G/2e/2 | [Fd]>[Fd][Fd] | 
+G G/2e/2 F/2d/2 | "C"c>cc | "G7"G F/2d/2 E/2c/2 | D>DD | G D/2B/2 D/2B/2 | "C"czz |] 
+% wz00716
+X:3
+T: Schlitten-Walzer  CF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"G>AG | E2c | E2c | "G7"D2B | G>AG | F2d | F2d | 
+"C"E2c | G>AG | Ec/E/c | Ec/E/c | "G7"DB/D/B | G>AG | 
+Fd/F/d  | Ged | "C"czz |: [K:F] "C7"cba | g>gg | cag | "F"f>ff | 
+"C7"cgf | e>ee | "F"cf>f | fzz :| "C7"cd/b/ c/a/ | [Bg]>[Bg][Bg] | 
+c c/a/ B/g/ | "F"f>ff | "C7"c B/g/ A/f/ | G>GG | c G/e/ G/e/ | "F"fzz |] 
+% wz00716
+X:4
+T:Schlitten-Walzer  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"D>ED | B,2G | B,2G | "D7"A,2F | D>ED | C2A | C2A | 
+"G"B,2G | D>ED | B,G/2B,/2G | B,G/2B,/2G | "D7"A,F/2A,/2F | D>ED | 
+CA/2C/2A | DBA | "G"Gzz |: [K:C] "G7"Gfe | d>dd | Ged | "C"c>cc | 
+"G7"Gdc | B>BB | "C"Gc>c | czz :| "G7"GA/2f/2 G/2e/2 | [Fd]>[Fd][Fd] | 
+G G/2e/2 F/2d/2 | "C"c>cc | "G7"G F/2d/2 E/2c/2 | D>DD | G D/2B/2 D/2B/2 | "C"czz |] 
+% wz00716
+X:5
+T:Schlitten-Walzer  A&D (tinwhistle in D)
+T: wz00716 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A%%MIDI gchordon
+"A"E>FE | C2A | C2A | "E7"B,2G | E>FE | D2B | D2B | 
+"A"C2A | E>FE | CA/2C/2A | CA/2C/2A | "E7"B,G/2B,/2G | E>FE | 
+DB/2D/2B | EcB | "A"Azz |: [K:D] "A7"Agf | e>ee | Afe | "D"d>dd | 
+"A7"Aed | c>cc | "D"Ad>d | dzz :| "A7"AB/2g/2 A/2f/2 | [Ge]>[Ge][Ge] | 
+A A/2f/2 G/2e/2 | "D"d>dd | "A7"A G/2e/2 F/2d/2 | E>EE | A E/2c/2 E/2c/2 | "D"dzz |] 
+% wz00716
+X:6
+T:Schlitten-Walzer  A&D (tinwhistle in D) solo
+T: wz00716 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A transpose=12
+E>FE | "_?"C2A | C2A | "_?"B,2G | E>FE | D2B | D2B | 
+C2A | E>FE | CA/2C/2A | CA/2C/2A | B,G/2B,/2G | E>FE | 
+DB/2D/2B | EcB | Azz |: [K:D] Agf | e>ee | Afe | d>dd | 
+Aed | c>cc | Ad>d | dzz :| AB/2g/2 A/2f/2 | [Ge]>[Ge][Ge] | 
+A A/2f/2 G/2e/2 | d>dd | A G/2e/2 F/2d/2 | E>EE | A E/2c/2 E/2c/2 | dzz |]
+
+X:7
+T:Schlitten-Walzer  A&D (tinwhistle in D) comb1 solo
+T: wz00716 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A transpose=12
+e>fe | c2a | c2a | B2"_#"g | e>fe | d2b | d2b | 
+c2a | e>fe | ca/2c/2a | ca/2c/2a | Bg/2B/2g | e>fe | 
+db/2d/2b | ec'b | azz |:  [K:D] Agf | e>ee | Afe | d>dd | 
+Aed | c>cc | Ad>d | dzz :| AB/2g/2 A/2f/2 | [Ge]>[Ge][Ge] | 
+A A/2f/2 G/2e/2 | d>dd | A G/2e/2 F/2d/2 | E>EE | A E/2c/2 E/2c/2 | dzz |]
+X:8
+T:Schlitten-Walzer  A&D (tinwhistle in D) comb2 solo
+T: wz00716 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+A>BA | F2d | F2d | E2c | A>BA | G2e | G2e | 
+F2d | A>BA | Fd/2F/2d | Fd/2F/2d | Ec/2E/2c | A>BA | 
+Ge/2G/2e | Afe | dzz |:  Agf | e>ee | Afe | d>dd | 
+Aed | c>cc | Ad>d | dzz :| AB/2g/2 A/2f/2 | [Ge]>[Ge][Ge] | 
+A A/2f/2 G/2e/2 | d>dd | A G/2e/2 F/2d/2 | E>EE | A E/2c/2 E/2c/2 | dzz |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 23, 2016
+

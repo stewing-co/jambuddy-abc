@@ -1,0 +1,29 @@
+X:1
+T:Äppelbo Gånglåt
+T:Walking tune from Äpplebo
+L:1/8
+M:C
+C:Trad arr. ©2026 Ben Paley
+N:This is a very popular tune in Sweden, and relatively well-known elsewhere. One of those tunes
+N:that probably gets overplayed because it's really good.
+O:Äpplebo, Dalarna, Sweden
+Q:1/4=150
+R:March
+D:Ben Paley, "Swedish Fiddle Music", 1993
+Z:Ben Paley <ben.paley@benpaley.com>
+K:G
+V:M clef=treble name="Melody" snm="M"
+V:H clef=treble name="Harmony" snm="H"
+%%score M|H
+P:A
+[V:M] D2 |: G3 D G2 B2 | d6 Bc | d2 dB d2 de | c2 cB A2 AB |
+[V:H] D2 |: B,3 G, B,2 D2 | G6 GA | B2 BG B2 Bc | A2 AG F2 FG |
+%
+[V:M] c2 cd e2 dc | Bc BA G2 FG | AB AF D2 EF |1 G6 D2 :|2 G6 Bd |
+[V:H] A2 AB c2 BA | GA GD B,2 DG | F2 FD C2 A,2 |1 B,6 A,2 :|2 B,4 D2 G2 |
+P:B
+[V:M] |: g2 g2 g2 fe | f2 f2 f2 gf | e2 ec eg fe | ed d^c d2 =cB |
+[V:H] |: B2 B2 B2 AG | A2 F2 F2 AB | c2 c2 ce dc | cB BA B2 cB |
+%
+[V:M] c2 cB A2 Ac | Bc BA G2 FG | AB AF D2 EF |1 G6 Bd :|2 G6 |]
+[V:H] A2 AF DF AF | G2 DB, G,B, DG | F2 FD C2 A,2 |1 B,4 D2 G2 :|2 B,6 |]

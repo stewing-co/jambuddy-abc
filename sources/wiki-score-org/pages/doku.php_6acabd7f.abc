@@ -1,0 +1,31 @@
+X:1106
+T:N.15 Mais lento
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 6 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 6 }]
+%----------- edit between the lines ------------
+[Q:"Mais lento, tranquilo"] \
+!p! z < [A,C] | z < [A,C] | z/ [DE]  z/ || \
+"^m.d."  z// !p! (A///8B///8 c//) (a/8b/8 c'/)  z/ |
+z// (A///B/// c//) (a///b/// c'/)  z/ | z// (B///c/// d//) (_b///c'/// d'/)z/|
+z// (a///b/// c'//) z// (c'///c''/// a'/) z//  | "_Ret." Z || \
+[K:D][M:4/8] "^Lentamente"  X | [K:bass]  z// (F,///A,/// B,//) (A,///B,/// D//) A,// z/ |\
+z// (G,///A,/// C//) (G,///A,/// E//)A,// z/ | \
+z// (A,///B,/// C//)A,// z//>(G,///A,//// !fermata!C/)  | \
+z// (F,///A,/// B,//) (A,///B,/// D//)A,// z/ | \
+z// (F,///A,/// B,//) (A,///B,/// D//)A,// z/ | \
+z// (G,///A,/// C,/) (G,///A,/// E//).A,// z// | \
+z// (A,///B,/// C//) A,// z//>(G,///A,//// !fermata!C/) | \
+z// (F,///A,/// B,/) (A,///B,/// D//).A,//z//  | \
+[K:treble] z// (D///A/// B/) z// (D///A/// ^G/) | \
+z// (A,///E/// G/) "_[check ms]" z//(G,///A,/// E//).A,// | \
+z// (G,///C/// E/) z// (^E,///C/// ^E//)z// | \
+z// [I:staff +1] (F,///A,/// B,//) (A,///B,/// D//)A,// [I:staff -1] z/ | \
+z// (D///A/// B//) z// (D///A/// ^G//) "_[check ms]" z/ | \
+!f! z// [I:staff +1] (G,///A,/// E//) [I:staff -1] (C///G/// B/) !fermata!z/ | \
+!p! z// (G,///C/// E/) !fermata!2z ||
+%-----------------------------------------------

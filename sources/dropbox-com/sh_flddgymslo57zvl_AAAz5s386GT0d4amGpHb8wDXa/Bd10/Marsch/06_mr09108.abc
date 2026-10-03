@@ -1,0 +1,55 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Marsch  FBb
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: Das Repertoire der B\"abi-Musig, Alpnach. S.62-108. S.91 (mr09108) orig. F,Bb
+T: \"Uberliefert durch Josef B\"abi , Alpnach, 1880
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"zc {/d}c/=B/c | "Gm"zd {/e}d/^c/d | "C7"ef ga | b2z2 |: "F"dA A/^G/A | dA A/^G/A | c2d>f | "C7"e4 | 
+dc B/A/B | dB B/A/B | e2 B>d | "F"c4 | dA A/^G/A | dA A/^G/A | c2 d>f | "C"e4 | ge "G7"d/^c/d | 
+"C"ge e/^d/e | "G7"g^g a=b |1 "C"c'c' c'z :|2 "C"c'e de || "F"f2e2 | d3A | "C7"Be ee | eB cd | e2d2 | 
+c3B | "F"Ad dd | dc de | f2e2 | d3A | "Gm"Bg gg | gB "C7"cd | "F"ca fd | ca fb | 
+"C7"ac a>g | "F"ff f(3f/g/a/ || [K:Bb] "Bb"b2z2 | z2zF || "Bb"f2f2 | f2f>e | d2d2 | d2c>B | "F7"A2g2 | 
+g2g>g | g2z2 | z2zF | e2e2 | e2e>d | c2c2 | c2B>c | "Bb"d2f2 | f2f>f | f2z2 | 
+z2zF | f2f2 | f2f>e | "Gm"d2d2 | d2c>B | "Cm"G2g2 | g2g>g | g2z2 | z2zb | 
+"F7"a2g2 | "Bb"f>b d>g | "F7"f>a e>g | "Bb"f>b d>d' | "F7"c'>b a>g | "Bb"f>b d>g | "F7"f2 a/g/a | "Bb"bb bz |] 
+% mr09108
+X:2
+T:Marsch  CF 5-
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"zG {/A}G/2^F/2G | "Dm"zA {/B}A/2^G/2A | "G7"Bc de | f2z2 |: "C"AE E/2^D/2E | AE E/2^D/2E | G2A>c | "G7"B4 | 
+AG F/2E/2F | AF F/2E/2F | B2 F>A | "C"G4 | AE E/2^D/2E | AE E/2^D/2E | G2 A>c | "G"B4 | dB "D7"A/2^G/2A | 
+"G"dB B/2^A/2B | "D7"d^d e^f |1 "G"gg gz :|2 "G"gB AB || "C"c2B2 | A3E | "G7"FB BB | BF GA | B2A2 | 
+G3F | "C"EA AA | AG AB | c2B2 | A3E | "Dm"Fd dd | dF "G7"GA | "C"Ge cA | Ge cf | 
+"G7"eG e>d | "C"cc c(3c/2d/2e/2 || [K:F] "F"f2z2 | z2zC || "F"c2c2 | c2c>B | A2A2 | A2G>F | "C7"E2d2 | 
+d2d>d | d2z2 | z2zC | B2B2 | B2B>A | G2G2 | G2F>G | "F"A2c2 | c2c>c | c2z2 | 
+z2zC | c2c2 | c2c>B | "Dm"A2A2 | A2G>F | "Gm"D2d2 | d2d>d | d2z2 | z2zf | 
+"C7"e2d2 | "F"c>f A>d | "C7"c>e B>d | "F"c>f A>a | "C7"g>f e>d | "F"c>f A>d | "C7"c2 e/2d/2e | "F"ff fz |] 
+% mr09108
+X:3
+T:Marsch  CF (5letras transposed)
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"zG {/A}G/2^F/2G | "Dm"zA {/B}A/2^G/2A | "G7"Bc de | f2z2 |: "C"AE E/2^D/2E | AE E/2^D/2E | G2A>c | "G7"B4 | 
+AG F/2E/2F | AF F/2E/2F | B2 F>A | "C"G4 | AE E/2^D/2E | AE E/2^D/2E | G2 A>c | "G"B4 | dB "D7"A/2^G/2A | 
+"G"dB B/2^A/2B | "D7"d^d e^f |1 "G"gg gz :|2 "G"gB AB || "C"c2B2 | A3E | "G7"FB BB | BF GA | B2A2 | 
+G3F | "C"EA AA | AG AB | c2B2 | A3E | "Dm"Fd dd | dF "G7"GA | "C"Ge cA | Ge cf | 
+"G7"eG e>d | "C"cc c(3c/2d/2e/2 || [K:F] "F"f2z2 | z2zC || "F"c2c2 | c2c>B | A2A2 | A2G>F | "C7"E2d2 | 
+d2d>d | d2z2 | z2zC | B2B2 | B2B>A | G2G2 | G2F>G | "F"A2c2 | c2c>c | c2z2 | 
+z2zC | c2c2 | c2c>B | "Dm"A2A2 | A2G>F | "Gm"D2d2 | d2d>d | d2z2 | z2zf | 
+"C7"e2d2 | "F"c>f A>d | "C7"c>e B>d | "F"c>f A>a | "C7"g>f e>d | "F"c>f A>d | "C7"c2 e/2d/2e | "F"ff fz |] 
+% mr09108
+% Aug 11, 2016

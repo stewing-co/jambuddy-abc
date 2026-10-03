@@ -1,0 +1,30 @@
+{
+  "name": "The Essen Folk Song Database - a huge collection converted into abc by Seymour Shlien",
+  "license": "Not stated; tunes believed traditional",
+  "origin": [
+    "http://ifdo.ca/~seymour/kern2abc/",
+    "http://ifdo.ca/~seymour/runabc/",
+    "http://ifdo.ca/~seymour/runabc/esac/",
+    "https://ifdo.ca/~seymour/kern2abc/",
+    "https://ifdo.ca/~seymour/runabc/",
+    "https://ifdo.ca/~seymour/runabc/esac/esacdatabase.html"
+  ],
+  "found_via": "https://abcnotation.com/tunes",
+  "downloaded": "2026-10-02",
+  "files": 163,
+  "pages_crawled": 10,
+  "pages_unvisited": 0,
+  "failures": [
+    "http://ifdo.ca/~seymour/kern2abc/pl-wtm.abc: exceeds size limit",
+    "http://ifdo.ca/~seymour/kern2abc/pl-kk.abc: exceeds size limit",
+    "http://ifdo.ca/~seymour/kern2abc/pl-cz.abc: exceeds size limit",
+    "http://ifdo.ca/~seymour/runabc/lmdExplorer.zip: HTTP Error 404: Not Found",
+    "http://ifdo.ca/~seymour/runabc/esac/: HTTP Error 403: Forbidden",
+    "https://ifdo.ca/~seymour/kern2abc/pl-wtm.abc: exceeds size limit",
+    "https://ifdo.ca/~seymour/kern2abc/pl-kk.abc: exceeds size limit",
+    "https://ifdo.ca/~seymour/kern2abc/pl-cz.abc: exceeds size limit",
+    "https://ifdo.ca/~seymour/runabc/lmdExplorer.zip: HTTP Error 404: Not Found",
+    "https://ifdo.ca/~seymour/runabc/esac/top.html: HTTP Error 404: Not Found",
+    "http://ifdo.ca/~seymour/runabc/esac/top.html: HTTP Error 404: Not Found"
+  ]
+}

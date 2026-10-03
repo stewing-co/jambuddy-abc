@@ -1,0 +1,28 @@
+X:1
+T:Departure
+Z:Jack Campin: "Embro, Embro", transcription (c) 2001
+F:19bye/abc/Depart4.abc
+C:Revd. A. Thomson
+S:R.A.Smith: The Edinburgh Sacred Harmony NLS Nha.Mus.30 (Dec 1829)
+M:C
+L:1/4
+Q:1/4=80 % that's what he says; extraordinarily slow
+V:1               % Treble
+V:2               % Counter Tenor
+V:3 transpose -12 % Tenor
+V:4 bass          % Bass
+K:Eb
+V:1 (E>F)|G3 F  |G3 A  |B2 (B>A)|(A2  G2) ||z2(G>A)|B3 B |e3 d  |
+V:2  E2  |E3 D  |E3 E  |E2 (D>F)|(F2  E2) ||z2(E>F)|G3 F |E3 F  |
+V:3 (G>A)|B3 B  |B3 c  |B2 (B>d)|(d2  e2) ||z2 B2  |B3 F |G3 B  |
+V:4  E,2| E,3B,,|E,3A,,|G,,2B,,2|(B,,2E,2)||z2 E,2 |E,3D,|C,3B,,|
+%
+V:1 (dc)(B=A)|({c}B2) z||B|B2(B>A)|(A2G)G|B2(AG)|(G2F2)||G2 G A |
+V:2  F2  F2  |    F2  z||A|G2(G>F)|(F2E)E|G2(FE)|(E2D2)||E2 G F |
+V:3 (Be)(dc) |({e}d2) z||z|z4     | z4   |z4    | z4   ||B2 B B |
+V:4  F,2 F,2 |    B,,2z||z|z4     | z4   |z4    | z4   ||E,2E,F,|
+%
+V:1  B2 (A G) | c2    (d e) |(e2d)c |(Be)(dc)|(BA)   (G({B}A)) |G2   F2   |    E4 |]
+V:2  E2 (D E) | E2    (A G) |(G2F)F | G2 (BA)|(GF)   (E({G}F)) |E2   D2   |    E4 |]
+V:3  B2  B2   | c2     B2   | B3  A |(GB) e2 |(ed)   (e    c)  |B2  (B A) |({A}G4)|]
+V:4  G,2(F,E,)|(A,>G,)(F,E,)| B,,3D,| E,2E,2 |(E,B,,)(C,   A,,)|B,,2 B,,2 |    E,4|]

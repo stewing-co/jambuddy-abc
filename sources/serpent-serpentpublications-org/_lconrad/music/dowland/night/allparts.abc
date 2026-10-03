@@ -1,0 +1,178 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:X. From silent night
+T:CANTUS.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:A min
+A > B c d e2 A a2 g/ f/ e > e d A > A d c > d e2 A2 
+w:From silent.
+z2 d3 c/ B/ A c > c d e3 e e2 d2 e4 A2 d2
+z d g3 f2 e/ d/ a2 e2 ^f6 g _b A2 d2
+"G.P."z2 d e2 c d2 e2 
+z A B/ G/ g > f d/ e/ f e/ d/ e2 A2 d2 ^c
+z/ f/ e/ d/ c B/ A/ G/ g f/ e3 d 
+c > B c/ A/ d2 c B A a g3 e d4 d2 e4
+z2 A2 d e2 d/ c/ g3 a2 A B > B c/ B/ A/ G/ d2 G2 c3 _B A2 =B G d > d 
+ e2 |: A =B > B c 
+z B e4 d ^g ^f2 e4
+z d B2 z e > f g c/ d/ e4 "(4)"d e6
+N:(4) Original has a half note
+z2 z e2 d/ c/ B G/ A/ B A B
+z z A B2 A2 B/ e d/ c B/ A/ B3 B  |1 ^c > d e d/ ^c/ d c/ B/ A c B > c d d :|2 ^c8 |] 
+
+X:2
+T:X. From silent night
+T:CANTUS.
+T:To my loving Country-man Mr. John Forster the younger, Merchant of Dublin in Ireland.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on first line
+K:A min
+z2 A4 F D |  A4 z4 |
+w: From si- lent night,
+w: Sor- row to  see
+w: If a- ny eye
+z2 c4 "(1)"_B3  | A F G (A2 A2) |
+w: true re- gis- ter of moanes, *
+w: my sor- rowes cause aug- ment- ed,
+w: there- fore can spare a teare *
+N:(1) Original has dot on the right side of the barline
+z4 z2 z d2 ^c2 c |  (d d)
+w:From sad- dest Soule  *
+w: and yet lesse sor- row
+w: to fill the well- *
+z A _B4 |
+w:con- sumde
+w: full were
+w: spring that
+z2 F2 E3 E | D8 |
+w:with deep- est sinnes,
+w:  my sor- rowes more:
+w: must wet my cheekes,
+z4 "G.P."z2 z G A2 _B2 c2 
+w: From hart quite rent 
+w: Griefe that my griefe
+w: O let that eye
+c2 | _B2 B z A2 
+w:  with sighes, with sighes 
+w: with griefe, with griefe
+w: to this, to this
+"(2)"A2 ^F2 G2 (A2  A2) |
+N:(2) Original has a quarter note
+w:  and hea- vie groanes, *
+w: is not pre- vent- ed,
+w: sad feast draw neere, *
+z2 z E2 (G  ^G3/2) ^G/ A4 |
+w:  My way- * ling Muse
+w: for griefe * it is 
+w: re- fuse * me not
+z2 z z/ d/ ^c2 
+w:  her woe, 
+w: must ease
+w: my hum-
+z c | B2 
+w:  her woe,
+w: must ease
+w: ble, hum-
+z _B A3 A | G4 - G G ^F2 |
+w:  her woe- full worke  * be- ginnes.
+w: must ease my griev- * ed sore.
+w: ble, hum- ble soule * be-  seekes:
+z2 z A _B =B c ^c d4 | G c > _B A
+w:  And to the world brings tunes of sad des- paire,
+w: Thus griefe and sor- row cares but how to grieve,
+w: For all the teares mine eyes have e- ver wept
+z4 | z4 z2 z =B |:  c ^c d ^d e E B3 B ^A2 |
+w:  And to the world brings tunes of sad des- paire,
+w: Thus griefe and sor- row cares but how to grieve,
+w: For all the teares mine eyes have e- ver wept
+z2 B3 ^G A2 | A2 z G c2 A2 |
+w:  Sound- ing nought else but sor- row,
+w: For * griefe and sor- * row 
+w: Were * now too lit- * tle,
+z2  A4 ^G2 |
+w:  sor- row,
+w: grief and
+w:lit- tle 
+z2 z e2 d/ c/ B  A | ^G E 
+w:  nought else, nought else but sor- row,
+w: sor- row, * griefe  and sor- row 
+w: lit- tle, * lit- tle, lit- tle, 
+z E2 F2 ^F | (G2 G2) ^F F
+w:  nought else but sor- * * row,
+w: must my must my * *  my 
+w: were now too lit- tle had  they
+A4 ^G2 |1 A4 z4 z2 z B |2 A8 |]
+w:  griefe and care. and care.
+w: cares re- lieve. thus lieve
+w: all beene kept. for kept.
+
+X:3
+T:X. From silent night
+T:BASSUS.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:A min bass
+A3 B ^c2 d3 d ^c2 d4
+w:From silent.
+A a2 g ^f2 g2 d3 e f4 e4 A2
+z d g2 a > g ^f > e d2 g3 G A8 D12
+"G.P."z8 z4 z2 z G d3 c2 c _B2 A > G F G A B c > d e > d c B A > G A F E
+z z d a A c > d e ^f g > G d d f F E4 D
+d > d c B c A2 G2
+z2 z4 z2 z D _E2 =E2 F2 ^F2 G g g > ^f
+|: e a/ g/ ^f B e3 d ^c B ^c2 B3 B ^c2 A2 d2 e2 A4
+z4 z e2 "(3)"^f ^g2 ^a2 e4
+N: (3) Original has e sharp followed by f natural
+z4 z A d3 d ^c d e8 |1 A3 A d e ^f e/ d/ g G g > f :|2 A8 |]
+
+

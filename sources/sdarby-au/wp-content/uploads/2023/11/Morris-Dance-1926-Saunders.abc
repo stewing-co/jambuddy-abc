@@ -1,0 +1,88 @@
+I:abc-charset utf-8
+X:1900
+T:Morris Dance
+C:Albert Saunders
+O:Australia
+S:National Library of Australia
+S:MUS N mba 786.2188 B862
+Z:Stephen Hamish Darby - All rights waived
+%%score 1 2 (3 4)
+L:1/8
+Q:1/4=150
+M:6/8
+I:linebreak $
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble transpose=-2 nm="B♭ Cornet" snm="B♭ Cnt."
+V:3 perc stafflines=1 nm="Drumset" snm="D. Set"
+K:none
+I:percmap E B 50 normal
+V:4 perc stafflines=1 
+K:none
+I:percmap E, B, 36 normal
+V:1
+[I: MIDI=program 75]z6 | .f2 z .c2 z | .d2 z .c2 a | fef a2 f |$ g2 g !>!c3 | .f2 z .c2 z | .d2 z .c2 a | 
+g^fg =b2 g |$ d'3 c'3 | f'2 c' c'ba | g2 d' d'3 | e2 b bag |$ f2 c' c'3 | .f2 z .c2 z | 
+.d2 z .c2 a | g2 b baf |$ f2 z [ff']2 z |: c2 f fef | d3 B3 | =B2 g g^fg |$ _e3 c2 z | f3 ^f3 | 
+g^fg a3 |1 bab a2 g |$ f3 [_ef]2 z :|2 agf g2 a | b6 ||[K:Bb]!f! dcB BAB |$ c=Bc d_BF | 
+!p! efe dcB | cdB AGF |!f! dcB BAB |$ c=Bc d_BF |!f! efe dcB | cGA B3 |!mf! d'c'b bab |$ 
+c'=bc' d'_bf | e'f'e' d'c'b | c'd'b agf | d'c'b bab |$ c'=bc' d'bf | e'f'e' d'c'b | c'2 b3 z || 
+[K:Eb] g2 z a2 z |$ =a3 bab | a2 z g2 z | f2 z e2 z | c=Bc e2 c |$ B=AB G2 G | =A2 A f2 f | 
+B2 B b2 z | g3 a3 |$ =a3 bab | a3 g3 | f3 e3 | c=Bc e2 c |$ B=AB G2 G | B3 f3 | e3 [ef]3 || 
+[K:F] .f2 z .c2 z |$ .d2 z .c2 a | fef a2 f | g2 g !>!c3 | .f2 z .c2 z | .d2 z .c2 a |$ 
+g^fg =b2 g | d'3 c'3 | f'2 c' c'ba | g2 d' d'3 |$ e2 b bag | f2 c' c'3 | .f2 z .c2 z | 
+.d2 z .c2 a |$ g2 b bag | f2 z f2 z || c2 f fef | d3 B3 |$ =G2 g g^fg | _e3 B2 z | f3 ^f3 | 
+g^fg a3 |1$ bab a2 g | f3 [_ef]3 :|2 agf g2 a | b6 ||$ .f2 z .c2 z | .d2 z .c2 a | fef a2 f | 
+g2 g !>!c3 | .f2 z .c2 z |$ .d2 z .c2 a | g^fg =b2 g | d'3 c'3 | f'2 c' c'ba |$ g2 d' d'3 | 
+e2 b bag | f2 c' c'3 | .f2 z .c2 z |$ .d2 z .c2 a | g2 b bag | f2 c cBA | G2 B BAG |$ F2 c cBA | 
+G2 B BAG | F3 f3 | f2 z f2 z | f6 |$ a4 z2 |{/f} f6 |] 
+V:2
+[I: MIDI=program 71]z6 | g2 z d3 | e2 z d3 | G6 |$ A2 A D2 z | g2 z d3 | e2 z d3 | ^c6 |$ e3 d3 | =B2 z B2 z | 
+c2 c c3 | d2 z d2 z |$ =B2 B B3 | G2 z =B2 z | c2 z =B2 z | ^F3 F3 |$ G2 z G2 z |: G2 =B BBB | 
+c3 G3 | A2 ^c ccc |$ d3 A3 | G3 ^G3 | =GGG G3 |1 c3 =B2 A |$ G3 G3 :|2 =BAG A2 G | CDE C2 z || 
+[K:Bb]!p! =edc c=Bc |$ d^cd =e=cG |!mf! fgf =edc | d=ec =BAG |!p! =edc c=Bc |$ d^cd =e=dG | 
+!p! fgf =edc | dA=B c2 z |!mf! G3 G3 |$ G3 G3 | G3 G3 | ^F3 =F3 | =E3 E3 |$ F3 D3 | F3 =E3 | 
+F3 =E3 ||[K:Eb] F3 G3 |$ ^G3 =A3 | B3 =A3 | G3 F3 | D4 z2 |$ C4 z2 | B,4 z2 | C4 z2 | F3 G3 |$ 
+^G3 =A3 | B3 =A3 | G3 F3 | D4 z2 |$ C4 z2 | C3 F3 | F2 z G2 z ||[K:F] g2 z d3 |$ e2 z d3 | G6 | 
+A2 A D2 z | g2 z d3 | e2 z d3 |$ ^c6 | e3 d3 | =B2 z B2 z | c2 c c3 |$ d2 z d2 z | =B2 B B3 | 
+G2 z =B2 z | c2 z =B3 |$ ^F3 F3 | G2 z G2 z || G2 =B BBB | c3 G3 |$ A2 ^c ccc | e3 A3 | G3 ^G3 | 
+=GGG G3 |1$ c3 =B2 A | G3 G3 :|2 =BAG A2 G | CDE C2 z ||$ g3 d3 | e2 z d3 | G6 | A2 A D2 z | 
+g2 z d3 |$ e3 d2 z | ^c6 | e3 d3 | =B2 z B2 z |$ c2 c c3 | d2 z d2 z | =B2 B B3 | G2 z =B2 z |$ 
+c2 z =B2 z | ^F3 F3 | G2 d dc=B | A2 c c=BA |$ G2 D DC=B, | A,[Cc][Cc] [=B,=B][A,A] z | G3 G3 | 
+G2 z G2 z | G6 |$ =B4 z2 |{/G} G6 |] 
+V:3
+[I: MIDI=program 116][K:C] E/ z/ E/ z/ E/ z/ E/E/E/E/E/ z/ | EE/ z/ E EE/ z/ E | EE/E/E EE/E/E | EE/E/E EE/E/E |$ 
+EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E |$ EE/E/E EE/E/E | EE/E/E EE/E/E | 
+EE/E/E EE/E/E | EE/E/E EE/E/E |$ EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E |$ 
+EE/E/E EE/E/E |: EE/ z/ E EE/ z/ E | EE/E/E EE/E/E | EE/E/E EE/E/E |$ EE/E/E EE/E/E | 
+EE/E/E EE/E/E | EE/E/E EE/E/E |1 EE/E/E EE/E/E |$ EE/E/E EE/E/E :|2 EE/E/E EE/E/E | 
+EE/E/E EE/E/E || EE/E/E EE/E/E |$ EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E |$ 
+EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E |$ EE/E/E EE/E/E | EE/E/E EE/E/E | 
+EE/E/E EE/E/E | EE/E/E EE/E/E |$ EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E || EE/E/E EE/E/E |$ 
+EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E |$ EE/E/E EE/E/E | EE/E/E EE/E/E | 
+EE/E/E EE/E/E | EE/E/E EE/E/E |$ EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E |$ 
+EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E || EE/E/E EE/E/E |$ EE/E/E EE/E/E | EE/E/E EE/E/E | 
+EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E |$ EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E | 
+EE/E/E EE/E/E |$ EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E |$ EE/E/E EE/E/E | 
+EE/E/E EE/E/E || EE/E/E EE/E/E | EE/E/E EE/E/E |$ EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E | 
+EE/E/E EE/E/E |1$ EE/E/E EE/E/E | EE/E/E EE/E/E :|2 EE/E/E EE/E/E | EE/E/E EE/E/E ||$ 
+EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E |$ EE/E/E EE/E/E | 
+EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E |$ EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E | 
+EE/E/E EE/E/E |$ EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E |$ EE/E/E EE/E/E | 
+EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E | EE/E/E EE/E/E |$ EE/E/E EE/E/E |{/E} E2 z2 z2 |] 
+V:4
+[I: MIDI=program 119][K:C] E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 |$ E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 |$ E,3 E,3 | 
+E,3 E,3 | E,3 E,3 | E,3 E,3 |$ E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 |$ E,3 E,3 |: E,3 E,3 | 
+E,3 E,3 | E,3 E,3 |$ E,3 E,3 | E,3 E,3 | E,3 E,3 |1 E,3 E,3 |$ E,3 E,3 :|2 E,3 E,3 | E,3 E,3 || 
+E,3 E,3 |$ E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 |$ E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 |$ 
+E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 |$ E,3 E,3 | E,3 E,3 | E,3 E,3 || E,3 E,3 |$ E,3 E,3 | 
+E,3 E,3 | E,3 E,3 | E,3 E,3 |$ E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 |$ E,3 E,3 | E,3 E,3 | 
+E,3 E,3 | E,3 E,3 |$ E,3 E,3 | E,3 E,3 | E,3 E,3 || E,3 E,3 |$ E,3 E,3 | E,3 E,3 | E,3 E,3 | 
+E,3 E,3 | E,3 E,3 |$ E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 |$ E,3 E,3 | E,3 E,3 | E,3 E,3 | 
+E,3 E,3 |$ E,3 E,3 | E,3 E,3 || E,3 E,3 | E,3 E,3 |$ E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 |1$ 
+E,3 E,3 | E,3 E,3 :|2 E,3 E,3 | E,3 E,3 ||$ E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 |$ 
+E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 |$ E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 |$ E,3 E,3 | 
+E,3 E,3 | E,3 E,3 | E,3 E,3 |$ E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 | E,3 E,3 |$ E,3 E,3 | x6 |] 
+
+
+

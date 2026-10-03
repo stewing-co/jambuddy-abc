@@ -1,0 +1,83 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Polka  FBb
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: Das Repertoire der B\"abi-Musig, Alpnach. S.62-108. S.84 (pk09089) orig. F,Bb
+T: \"Uberliefert durch Josef B\"abi, Alpnach, 1880
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"ABc2 ABc2 | ABcd c2c2 | "C7"e2d2 bag2 | "tr""F"g2f2f4 | ABc2 ABc2 | ABcd c2c2 | "C7"e2d2 bag2 | "F"f2f2 f2z2 :: 
+"C7"b2g^f gfg2 | "F"a2!>!f4c2 | "C7"e2dc BAB2 | "F"d2cB A2A2 | "C7"b2g^f gfg2 | "F"a2!>!f4c2 | "C7"e2dc B2AG | "F"F2f2 f2z2 :: [K:Bb] 
+"F7"ABcd e2e2 | "Bb"db!>!b4d2 | "F7"cg !>!g4A2 | "Bb"Bf!>!f4F2 | "F7"ABcd e2e2 | "Bb"db!>!b4d2 | "F7"cg !>!g4A2 | "Bb"B2B2 B2z2 :| 
+% pk09089
+X:2
+T:Polka  CF 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"EFG2 EFG2 | EFGA G2G2 | "G7"B2A2 fed2 | "tr""C"d2c2c4 | EFG2 EFG2 | EFGA G2G2 | "G7"B2A2 fed2 | "C"c2c2 c2z2 :: 
+"G7"f2d^c dcd2 | "C"e2!>!c4G2 | "G7"B2AG FEF2 | "C"A2GF E2E2 | "G7"f2d^c dcd2 | "C"e2!>!c4G2 | "G7"B2AG F2ED | "C"C2c2 c2z2 :: [K:F] 
+"C7"EFGA B2B2 | "F"Af!>!f4A2 | "C7"Gd !>!d4E2 | "F"Fc!>!c4C2 | "C7"EFGA B2B2 | "F"Af!>!f4A2 | "C7"Gd !>!d4E2 | "F"F2F2 F2z2 :| 
+% pk09089
+X:3
+T:Polka  GC 2+
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"Bcd2 Bcd2 | Bcde d2d2 | "D7"f2e2 c'ba2 | "tr""G"a2g2g4 | Bcd2 Bcd2 | Bcde d2d2 | "D7"f2e2 c'ba2 | "G"g2g2 g2z2 :: 
+"D7"c'2a^g aga2 | "G"b2!>!g4d2 | "D7"f2ed cBc2 | "G"e2dc B2B2 | "D7"c'2a^g aga2 | "G"b2!>!g4d2 | "D7"f2ed c2BA | "G"G2g2 g2z2 :: [K:C] 
+"G7"Bcde f2f2 | "C"ec'!>!c'4e2 | "G7"da !>!a4B2 | "C"cg!>!g4G2 | "G7"Bcde f2f2 | "C"ec'!>!c'4e2 | "G7"da !>!a4B2 | "C"c2c2 c2z2 :| 
+% pk09089
+X:4
+T:Polka  CF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"EFG2 EFG2 | EFGA G2G2 | "G7"B2A2 fed2 | "tr""C"d2c2c4 | EFG2 EFG2 | EFGA G2G2 | "G7"B2A2 fed2 | "C"c2c2 c2z2 :: 
+"G7"f2d^c dcd2 | "C"e2!>!c4G2 | "G7"B2AG FEF2 | "C"A2GF E2E2 | "G7"f2d^c dcd2 | "C"e2!>!c4G2 | "G7"B2AG F2ED | "C"C2c2 c2z2 :: [K:F] 
+"C7"EFGA B2B2 | "F"Af!>!f4A2 | "C7"Gd !>!d4E2 | "F"Fc!>!c4C2 | "C7"EFGA B2B2 | "F"Af!>!f4A2 | "C7"Gd !>!d4E2 | "F"F2F2 F2z2 :| 
+% pk09089
+X:5
+T:Polka  GC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"Bcd2 Bcd2 | Bcde d2d2 | "D7"f2e2 c'ba2 | "tr""G"a2g2g4 | Bcd2 Bcd2 | Bcde d2d2 | "D7"f2e2 c'ba2 | "G"g2g2 g2z2 :: 
+"D7"c'2a^g aga2 | "G"b2!>!g4d2 | "D7"f2ed cBc2 | "G"e2dc B2B2 | "D7"c'2a^g aga2 | "G"b2!>!g4d2 | "D7"f2ed c2BA | "G"G2g2 g2z2 :: [K:C] 
+"G7"Bcde f2f2 | "C"ec'!>!c'4e2 | "G7"da !>!a4B2 | "C"cg!>!g4G2 | "G7"Bcde f2f2 | "C"ec'!>!c'4e2 | "G7"da !>!a4B2 | "C"c2c2 c2z2 :| 
+% pk09089
+X:6
+T:Polka D&G (tinwhistle in D)
+T:pk09089 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"FGA2 FGA2 | FGAB A2A2 | "A7"c2B2 gfe2 | "tr""D"e2d2d4 | FGA2 FGA2 | FGAB A2A2 | "A7"c2B2 gfe2 | "D"d2d2 d2z2 :: 
+"A7"g2e^d ede2 | "D"f2!>!d4A2 | "A7"c2BA GFG2 | "D"B2AG F2F2 | "A7"g2e^d ede2 | "D"f2!>!d4A2 | "A7"c2BA G2FE | "D"D2d2 d2z2 :: [K:G] 
+"D7"FGAB c2c2 | "G"Bg!>!g4B2 | "D7"Ae !>!e4F2 | "G"Gd!>!d4D2 | "D7"FGAB c2c2 | "G"Bg!>!g4B2 | "D7"Ae !>!e4F2 | "G"G2G2 G2z2 :| 
+X:7
+T:Polka D&G (tinwhistle in D) solo
+T:pk09089 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+FGA2 FGA2 | FGAB A2A2 | c2B2 gfe2 | Te2d2d4 | FGA2 FGA2 | FGAB A2A2 | c2B2 gfe2 | d2d2 d2z2 :: 
+g2e^d ede2 | f2!>!d4A2 | c2BA GFG2 | B2AG F2F2 | g2e^d ede2 | f2!>!d4A2 | c2BA G2FE | D2d2 d2z2 :: [K:G] 
+FGAB "_c"c2c2 | Bg!>!g4B2 | Ae !>!e4F2 | Gd!>!d4D2 | FGAB "_c"c2c2 | Bg!>!g4B2 | Ae !>!e4F2 | G2G2 G2z2 :|
+% Aug 16, 2016

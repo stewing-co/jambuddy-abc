@@ -1,0 +1,359 @@
+%abc-2.2
+
+% Corrections and changes:
+%   22Jan2021 - EC - Corrected some transcriptions...
+%     Some tunes in the Festin Joyeux use the G clef to mark the first line of the staff
+%     as G.  I failed to notice this in my first pass.  For an explanation, see #6, #106
+%     and #206.  The affected tunes are:
+%       #6 Des canames.
+%       #7 D\`es le matin.
+%       #13 Mocquons nous.
+
+B:Festin joyeux ou la cuisine en musique, en vers libres.  Paris, 1738.
+% From the Gallica collection of the Biblioth\`eque Nationale de France
+%(BnF - the French National Library)...  A PDF copy (roughly 150 MB) of
+% the book is available online, free of charge and without registration.
+
+% Transcriber's Statement:
+%    Given the age of the work, it is likely in the public domain.  To the best of
+% my knowledge, I cannot claim a copyright in this partial transcription, nor do I
+% wish to make any such claim.
+%     If you make changes to the transcrption of a tune, please include a note to that
+% effect. You can do so with a Z: header placed after mine -- something like:
+%          X:999
+%          T:Sample tune [FJ999]
+%          S:Festin Joyeux, page 555.
+%          Z:transcribed by Eric Conrad, 2021
+%          Z:chords added by John and Jane Doe, 2127
+% -- Eric Conrad, 2021.
+
+% A collection of banquet menus (in French) that have been set to music.  Each menu
+% is set to one of 49 tunes whose music appears in an appendix.  See #3 for a partial
+% example of the result -- I've only set one stanza of the course to the music...
+
+% General Notes:
+% Obsolete Meter Notation:
+%    2 transcribed as 2/2
+%    3 transcribed as 3/4
+% 
+% The tunes are used to announce courses of a meal.  Most sections have banguet menus
+% for a dozen or more guests.  Presumably someone on the serving staff sang the menu
+% for a course as it was served.  Each service indicates a tune.  For an example, see
+% #3 Que C\'esar pousse Pomp\'ee -- I've only transcribed one verse.
+% 
+% Some notes appear in almost every tune.  In the MS, Repeats are not marked at the beginning
+% or end of a tune, but I've inserted the implicit repeats in this transcription.  Plus signs
+% (above or below the staff in the MS depending on the placement of the note, and always above
+% the in this transcription) probably indicate an ornament such as a trill or a roll.  Other
+% notes may indicate difficulties in the manuscript, and places where I the transcriber have
+% taken liberties in interpreting the MS.
+
+X:1
+T:Madame la Dauphine. [FJ1]
+S:Festin joyeux.  Music page 1.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "2"
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:2/2
+L:1/4
+K:C
+|: d | "^+"e>fgg | "^+"e2ee | "^+"dcde | "^+"e3d |
+e>fgg | "^+"e2ee | "^+"dcde | "^+"e3 :|
+|: e | "^+"e>def | "^+"e2ee | "^+"efge | d2d2 |
+efgg | ccd2 | ef"^+"d>c | c3 :|
+
+X:2
+T:Des sauts de Bordeaux [FJ2]
+% The title translates literally as "some jumps of Bordeaux".
+S:Festin joyeux.  Music page 2.
+Z:transcribed by Eric Conrad, 2021.
+M:2/2
+L:1/4
+N:NB Duple meter is given simply as "2"
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+K:C
+|: GG | ccdd | eeed | [M:3/2] cBc2d2 | [M:2/2] c2 :|
+|: Bc | dddc/B/ | "^+"AGGA | Gccd | e2ef |
+gf/e/ ed/c/ | dGGA | [M:3/2] Gcc2"^+"d2 | [M:2/2] c2 :|
+
+X:3
+T:Que C\'esar pousse Pomp\'ee. [FJ3]
+% roughly: "That Caesar would push/shove/prod/encourage Pompey"
+% the first choice is probably the best of these.
+S:Festin joyeux.  Music page 2.
+S:Festin joyeux.  Troisi\'eme service page 7.
+Z:transcribed by Eric Conrad, 2021.
+N:NB Duple meter is given simply as "2"
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:2/2
+L:1/4
+K:Gdor % one flat, ending on G
+|: G/A/ | ^FGA>B | cA2d/B/ | _ed"^+"c>d | d3 :|
+w:1.~Perd-rix en soupe a la rei-ne, Et bis-que de pi-geon-neaux.
+w:Po--tage \`a la Ju-li-enne, Ou de ca-nards aux poir-eaux.
+|: d/_e/ | fd_e>d | "^+"cc2B/A/ | GGE>E | A^F2G/A/ |
+w:On en fait \`a l'Es-pa-gnol-le, Aus-si la pro-fi-te-rol-le, A-vec
+B>c"^+"c>d | d3G/^F/ | G>AA>G | G3 :|
+w:cr\^ete et ris de veaux, Qui font po-tag-es nou-veaux.
+
+X:4
+T:Sommes-nous pas trop heureux. [FJ4]
+% literally: "Are we not too happy" - colloquial
+S:Festin joyeux.  Music page 3.
+Z:transcribed by Eric Conrad, 2021.
+N:NB Duple meter is given simply as "2"
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB1 MS has some erasures and corrections centered here.
+N:    These appear to be changes in note lengths...
+M:2/2
+L:1/4
+K:Ddor % no sharps or flats, ending on D
+|: D/E/ | FDA>d | "^+"^c3f/e/ | dc_BA | _BG2c/G/ |
+A_B"^+"G>F | GE2A/E/ | FG"^+"G>A | A3 :| \
+|: A/B/ | cAd>e | ff2c/c/ |
+d/c/_B/A/ A"^+"G/>F/ | F3c/_B/ | "_NB1"Ad"^+"^c>d | ee2f/B/ | ^cd2d/c/ | d3 :|
+
+X:5
+T:De la fronde. [FJ5]
+% literally "On the sling" [i.e. the weapon] or "On the rebellion"
+S:Festin joyeux.  Music page 3.
+Z:transcribed by Eric Conrad, 2021.
+N:NB Three-quarter meter is given simply as "3"
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB1 The notehead is largely blacked in.  Half-note is more likely than quarter-note.
+M:3/4
+L:1/4
+K:C
+|: ccG | A2G | "^+"F2E | "^+""_NB1"D2C | EEF | G2d | "^+"B3 :|
+|: ccB | A2E | F2G | F2D | EFG | D2A | B2c |
+"^+"A2G | AAB | G2c | "^+"B2A | A3 | Bcd | G2c | "^+"d2c | c3 :|
+
+X:6
+T:Des canames. [FJ6]
+S:Festin joyeux.  Music page 4.
+Z:transcribed by Eric Conrad, 2021.  Corrected 22Jan2021.
+N:NB Three-quarter meter is given simply as "3"
+N:NB In the MS, the G is the bottom line of the staff, though iu isn't clear from the first line.
+N:NB -- This is the first of a number of tunes marked in this way.
+N:NB Repeat marks were added at beginning and end.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB What do the plus signs mean?
+M:3/4
+L:1/4
+% K:C clef=treble1 % MS has G on line 1
+K:C % not A minor!
+|: c>de | "^+"e>dc | g>ag | "^+"f2e | g>de |
+"^+"e>fg | cde | "^+"d3 :: d>cd | e>fg | c>dB |
+"^+"A2G | d>cd | "^+"e>fg | f/e/"^+"d>c | c3 :|
+
+
+
+X:106
+T:Des canames, mistranscribed.
+W:This is my original transcription of the tune, where I failed to notice the placement of
+W:the G clef.  (On the first staff, it's ambiguous, but it's clear on the remaining two staves.
+W:Mea culpa!)  In #206, I show what it looks like using the modified G clef.  Despite the
+W:mistake on my part, this does sound very pretty, so I am including the mistake with an
+W:explanation.
+% very pretty!
+S:Festin joyeux.  Music page 4.
+Z:transcribed by Eric Conrad, 2021.
+N:NB Three-quarter meter is given simply as "3"
+N:NB In the MS, the G is the bottom line of the staff, though it isn't clear from the first line.
+N:NB -- This is the first of a number of tunes marked in this way.
+N:NB -- This is what the tune looks like if, as I did, you fail to notice clef placement!
+N:NB Repeat marks were added at beginning and end.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB What do the plus signs mean?
+M:3/4
+L:1/4
+% K:C clef=treble1 % MS has G on line 1
+K:Am
+|: A>Bc | "^+"c>BA | e>fe | "^+"d2c | e>Bc |
+"^+"c>de | ABc | "^+"B3 :: B>AB | c>de | A>BG |
+"^+"F2E | B>AB | "^+"c>de | d/c/"^+"B>A | A3 :|
+
+X:206
+T:Des canames. [FJ6]
+T:with G clef on first line...
+T:so lines of staff going up are Good Boys Do Fine Always (GBdfa)
+S:Festin joyeux.  Music page 4.
+Z:transcribed by Eric Conrad, 2021.  Corrected transcription.
+N:NB Three-quarter meter is given simply as "3"
+N:NB In the MS, the G is the bottom line of the staff, though it isn't clear from the first line.
+N:NB -- This is the first of a number of tunes marked in this way.
+N:NB Repeat marks were added at beginning and end.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB What do the plus signs mean?
+M:3/4
+L:1/4
+K:C clef=treble1 % MS has G on line 1
+% K:C % not A minor!
+|: c>de | "^+"e>dc | g>ag | "^+"f2e | g>de |
+"^+"e>fg | cde | "^+"d3 :: d>cd | e>fg | c>dB |
+"^+"A2G | d>cd | "^+"e>fg | f/e/"^+"d>c | c3 :|
+W:Warning: The bottom line is G, not E.  Look closely at the clef!
+
+
+X:7
+T:D\`es le matin. [FJ7]
+S:Festin joyeux.  Music page 4.
+Z:transcribed by Eric Conrad, 2021.  Corrected 22Jan2021.
+N:NB Three-quarter meter is given simply as "3"
+N:NB In the MS, the G is the bottom line of the staff, though iu isn't clear from the first line.
+N:NB Repeat marks were added at beginning and end.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB What do the plus signs mean?
+M:3/4
+L:1/4
+% K:C clef=treble1 % MS has G on line 1
+K:C % no sharps or flats, ending on C (not on A)
+|: cec | g2a | "^+"f2e | "^+"d2d | B>cd | gc2 | "^+"A2G | G3 :|
+|: GGG | c2A | B2c | d2d | e>fg | cf2 | "^+"d2c | c3 :|
+
+
+X:8
+T:Ah! mon mal ne vient. [FJ8]
+S:Festin joyeux.  Music page 4,5.
+Z:transcribed by Eric Conrad, 2021.
+N:NB Three-quarter meter is given simply as "3"
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:3/4
+L:1/4
+K:Gdor % 1 flat, final part ening on G
+|: GGA | B2A | B"^+"c2 | d3 | g2d | _e2d | "^+"c>Bc | d3 |
+BAB | c3 | BAG | ^F2G | ABA | d"^+"B2 | "^+"A3 :|
+|: g2d | _e2d | "^+"c>Bc | d3 | "^+"c>BA | "^+"d(c>B) | "^+"A3 | G3 :|
+
+
+X:9
+T:Les dieux compte nos jours. [FJ9]
+S:Festin joyeux.  Music page 5.
+Z:transcribed by Eric Conrad, 2021.
+N:NB Cut time (2/2) is given simply as "2"
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB1 MS intent is unclear, MS has single ending: |"^+"A3-:|
+N:NB2 MS intent is unclear, MS has single ending: |G3-:|G2|]
+M:2/2
+L:1/4
+K:Gdor % 1 flat ending on G
+|: G | BAG^F | G2z d/c/ | "^+"B3A/B/ | "^+"A2AG |
+BAG^F | G2z d/c/ | "^+"B3A/B/ |1 "^+""_NB1[--->"A3 :|2 "^+"A3- |: A-"_]" | Adcd |
+Bdcd | B3d | cBAG | ^F>G"^+"A>B | c>d"^+"B>A | (B2"^+"A2) |1 "_NB2[--->"G3 :|2 G4- | G2 z "_]"y |]
+
+X:10
+T:Dans nos champs. [FJ10]
+S:Festin joyeux.  Music page 6.
+Z:transcribed by Eric Conrad, 2021.
+N:NB Cut time (2/2) is given simply as "2"
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB1 Here as in MS unsharped.
+M:2/2
+L:1/4
+K:F
+|: A/>B/"^+"B | cGBA | GFBA | "^+"GA B/A/G/F/ | c2 :: de |
+fcde/f/ | c2f>e | "^+"dc _e/d/c/B/ | "^+"A2dc | "^+"BAcB |
+"^+"AGBA | "^+"GF A/G/B/A/ | "_NB1"F/G/A/B/ c2- | c2fc | AFfc | AF A/>B/ "^+"G | F2 :|
+
+
+X:11
+T:J'ay fait souvent. [FJ11]
+S:Festin joyeux.  Music page 6.
+Z:transcribed by Eric Conrad, 2021.
+N:NB Cut time (2/2) is given simply as "2"
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:2/2
+L:1/4
+K:Gdor % 1 flat ending on G
+|: G | d2c2 | "^+"B3c | dcBA | G2GG | d2c2 |
+"^+"B3c | dcBA | G3 :: G | c2B2 | A3B |
+AG^FG | A2AG | c2B2 | A3B | AGA^F | G3 :|
+
+X:12
+T:Ce n'est point la mine [FJ12]
+S:Festin joyeux.  Music page 7.
+Z:transcribed by Eric Conrad, 2021.
+N:NB First song in 3/2 meter.  No repeats are indicated.
+N:NB The MS seems to be missing a lot of dots in paired notes of the form "x>y" (where MS has "xy/").
+N:NB -- Too many of these to mark.  Ending rests were added for consistency with pickup.
+N:NB -- Lots of erasures and corrections.  Possibly the MS editor had difficulty with 3/2 meter?
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:3/2
+L:1/4
+K:Gdor % 1 flat ending on G
+z/G/ | G>G d>d e>g | ^f2 gz/e/ f>g | a>g f>g "^+"e2 |
+d3z/d/ d>e | f2 d2 c>d | B3B A>B | c>c c>d "^+"B2 | A3d d>e |
+f2 g2 ^f>g | d3B c>d | _e>d "^+"c>B "^+"A2 | G3 zz |]
+
+X:13
+T:Mocquons nous. [FJ13]
+S:Festin joyeux.  Music page 7.
+Z:transcribed by Eric Conrad, 2021.  Corrected 22Jan2021.
+N:NB First song in the collection with changes in meter.  The meters are cut time (2/2) marked as "2",
+N:NB -- 3/2 meter, and 3/4 time marked as "3".
+N:NB In the MS, the G clef is on line 1 so the staff there is GBdfA, not EGBdf!
+N:NB -- Here the G is on line 2.
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB1 Notes don't add up in MS.  Missing dot supplied in transcription.
+N:NB2 1st and 2nd endings are not separate in MS.  The MS has |f6-::f4|
+N:NB3 5/4 is not marked in the MS.
+M:2/2
+L:1/8
+% Note on key: The actual scale is FGA-cdef so this is F major (1 flat, not in MS)
+% K:F % one flat, but B flat is not used.
+K:Flyd % As in MS with no sharps or flats, ending in F
+%%text hexatonic (Lydian/Ionian)
+|: aa | a2a>g "^+"g3f | [M:3/2] f4 z2g2 "_NB1"g3g | [M:2/2] g2c2 d3g | "_NB1"(g3a) "^+"a4 | g4 aaa2 |
+a3gg3f | [M:3/2] f4 z2g2 g3g | [M:2/2] g2e2 f3g | (g3f) a4 |1 "_NB1"a6 :|2
+[M:5/4] "_NB3"a6- a4 |: [M:3/4] e3e f2 | g2 a4 | f2 ("^+"f3e) | g2 g2 a2 | "^+"e4 f2 | g2 "^+"g4 | f6 :|
+
+
+X:14
+T:Vous brillez seule. [FJ14]
+S:Festin joyeux.  Music page 8.
+Z:transcribed by Eric Conrad, 2021.
+N:NB 3/4 time marked as "3".
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:3/4
+L:1/8
+K:Am % harmonic minor, no sharps or flats in key signature, ending on A
+|: z2 zAAA | e3 dcB | c>B Acde | "^+"B2 c2 e2 |
+"^+"A2 A2 ^GA | "^+"^G6 :: z2 z2 zB | A4 de | f4 fd |
+e>dce e2 | A z/d/ d3B | c4 de | c2 "^+"B3A | A6 :|
+
+X:15
+T:Heureux l'amant. [FJ15]
+S:Festin joyeux.  Music page 8.
+Z:transcribed by Eric Conrad, 2021.
+N:NB 3/4 time marked as "3".
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:3/4
+L:1/4
+K:G
+|: GFG | A>BG | cBc | "^+"A2A | GFG | A>BG |
+c"^+"A>G | G3 :: GAB | c>BA | B c/B/A/G/ | "^+"F>ED |
+GFG | A>BG | cBc | "^+"A2A | GFG | A>BG | cA>G | G3 :|

@@ -1,0 +1,15 @@
+X:1001
+T:N.10 Dueto [2nd Act]
+C:Fonseca, Eduardo da (1863-1938)
+M:3/4
+L:1/4
+K:D
+V: 1 clef=treble name="Flauta" sname="Fl."
+%%MIDI program 1 73
+%%staves [ 1 ]
+[Q:"Moderato"] \
+!f! !>!d'/z/ (d'//e'//f'//g'//) (a'//g'//f'//e'//) | d'/z/ {abc'}d'/z/z || Z | \
+z/((3a//b//c'// d'//e'//f'//g'// g'/z/ )| Z5 |z/((3a//b//c'// d'//f'//a'//a// d'/z/ )||\
+[K: A]Z|(c/>d/e2)|Z |z/.e//.e// .a/.b/ .c'/z/ | Z|(c/>d/e>)e | "^rit" (f/a/)(ag) | a/z/zz||\
+[K: D]Z |z/z///(A///B///c/// d//e//f//g// a/)z/ | Z| z/(e/ f/g/b/a/) | Z3|z/z///A///B///c/// d//f//a//d'// b'//g'//d'//b// | \
+a//f'//d'//a// f'//a//d'//e'//!fermata!c' | d'/z/z2 |] \

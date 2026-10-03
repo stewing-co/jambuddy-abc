@@ -1,0 +1,182 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:VII. Stay time a while thy flying,
+T:CANTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on first line
+K:A min
+|: c4 B2 | c2 d2 B2 | c4 B4 | A2 G2 | 
+w:For fates and friends have left mee,
+w:T'is time that must be- friend me,
+w:Light griefes can speake their plea- sure,
+E3  F G2 | G2 E2 A4 ^G2 :|
+w:Stay and pit- * * tie me dy- ing
+w: And of com- * * fort be- reft mee.
+w:When thus friends * * doe dis- daine mee?
+w:Drown'd in sor- * * row to end mee.
+w:I feede by * * night, (oh cru- ell)
+w:Mine are dumbe * * pass- ing meas- ure.
+|: B2 | c4 "(1)"d3 | c B2 "(1)"c3 |  B A2 B2 | ^G2 E4 |
+N:(1) Original has dot on the other side of the "barline".
+w:Come, come close mine eyes, bet- ter to dye bless- ed,
+w:Come, come close mine eyes, bet- ter to dye bless- ed,
+w:Quicke, quicke, close mine eyes, bet- ter to dye bless- ed,
+z2 A2 G F | E3 G "(2)"F2 | E A ^G4 HA4 :|
+N:(2) Original has what looks like a quarter note, although it may be an authentic 17th century xerox smudge.
+w:Then to * live, to live thus di- stres- sed.
+w:Then to * live, to live thus di- stres- sed.
+w:Then here to live, to live dis- * tres- sed.
+
+X:2
+T:VII. Stay time a while thy flying,
+T:ALTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on second line
+K:A min
+|:A4 B2 A2 A2 ^G2 A4 ^G4
+w:1.~Stay time a while thy fly- ing, 
+w:For fates and friends have left mee,
+w:2.~To whom shall I com- plaine me,
+w:T'is time that must be- friend me,
+w:3.~Teares but aug- ment this se- well
+w:Light griefes can speake their plea- sure,
+C2 B,2 C > D E2 D2 B,2 C2 D2 E4 :|
+w:Stay and pit- * * tie me dy- * ing
+w: And of com- * * fort be- reft * mee.
+w:When thus friends * * doe dis- daine * mee?
+w:Drown'd in sor- * * row to end * mee.
+w:I feede by * * night, (oh cru- * ell)
+w:Mine are dumbe * * pass- ing meas- * ure.
+|:^G2 | A2 A4 B > A G4 A > G F2 F2 E4 B,2
+w:Come, come close, close mine eyes, bet- ter to dye bless- ed,
+w:Come, come close, close mine eyes, bet- ter to dye bless- ed,
+w:Quicke, quicke, close, close mine eyes, bet- ter to dye bless- ed,
+C4 D3 C2 E D2 C E E4 E4 :|
+w:Then to live, to live thus di- stres- sed.
+w:Then to live, to live thus di- stres- sed.
+w:Then here to live, to live dis-  tres- sed.
+
+X:3
+T:VII. Stay time a while thy flying,
+T:TENOR.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on third line
+K:A min -8va
+|: e4 e2 e2 f2 e2 e4 e4
+w:1.~Stay time a while thy fly- ing, 
+w:For fates and friends have left mee,
+w:2.~To whom shall I com- plaine me,
+w:T'is time that must be- friend me,
+w:3.~Teares but aug- ment this se- well
+w:Light griefes can speake their plea- sure,
+z A d > G G3 A B c d e2 c B > A B4 :|
+w:Stay, stay and pit- tie, pit- * tie me dy- * * ing
+w: And, and of com- fort, com- * fort be- reft * *  mee.
+w:When, when thus friends doe dis- daine, dis- * daine * * mee?
+w:Drown'd, drown'd in sor- row, sor- * row to end * * mee.
+w:I, I feede by night, by * night (oh cru- * * ell)
+w:Mine, mine are dumbe pass- ing, pass- * ing  meas- * * ure.
+|: e2 e3 e ^f > e d4 e > d c4 d > c B2 ^G4
+w:Come, come close mine * eyes, bet- ter to dye * bless- ed,
+w:Come, come close mine * eyes, bet- ter to dye * bless- ed,
+w:Quicke, quicke, close mine * eyes, bet- ter to dye * bless- ed,
+A3 c B A G3 c B2 A c B4 HA4 :|
+w:Then to * * live, to live thus di- stres- sed.
+w:Then to * * live, to live thus di- stres- sed.
+w:Then here * * to live, to live dis- tres- sed.
+
+X:4
+T:VII. Stay time a while thy flying,
+T:BASSUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+%%MIDI transpose -24
+K:A min bass
+|:a4 ^g2 a2 d2 e2 A4 e4
+w:1.~Stay time a while thy fly- ing, 
+w:For fates and friends have left mee,
+w:2.~To whom shall I com- plaine me,
+w:T'is time that must be- friend me,
+w:3.~Teares but aug- ment this se- well
+w:Light griefes can speake their plea- sure,
+f2 g2 c4 B2 G2 A2 F2 E4 :|
+w:Stay and pit- tie me dy- * ing
+w: And of com- fort be- reft * mee.
+w:When thus friends doe dis- daine * mee?
+w:Drown'd in sor- row to end * mee.
+w:I feede by night, (oh cru- * ell)
+w:Mine are dumbe pass- ing meas- * ure.
+|:e2 | a3 g ^f2 g3 ^f e2 f3 e d2 e2 e2 E2
+w:Come, come close, * close mine eyes, bet- ter to dye bless- ed,
+w:Come, come close, * close mine eyes, bet- ter to dye bless- ed,
+w:Quicke, quicke, close, * close mine eyes, bet- ter to dye bless- ed,
+A4 B2 c3 c G2 A A e4 HA4 :|
+w:Then to live, to live thus di- stres- sed.
+w:Then to live, to live thus di- stres- sed.
+w:Then here to live, to live di- stres- sed.

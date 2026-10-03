@@ -1,0 +1,52 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Bolzenschützen-Walzer FCBb (wz07437)  ABCDEFA
+T:Hanny Christen. Bd.IV  Aargau, Basel I.  S.341 (wz07437) orig. F,C,Bb
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABCDEFA
+R:Walzer
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+[P:A] "F"z/c/c^c | ("Bb"d2B) | "C7"z/e/ee | ("F"f2c) | z/a/aa | ("C7"b2e) | e/e/de | ("F"f2c) | z/c/c^c  | ("Bb"d2B) | 
+"C7"z/e/ee | ("F"f2c) | z/c'/ c'c' | ("Gm/Bb"d'2b) | "C7"z/b/be | "F"fz"_Fine"z :: [P:B]  "F"a/a/ a/a/ a/a/ | ("C7"c'g)g | ("F"f/e/ f/).a/ .g/.f/ | ("C7"fe)e | 
+("Bb"f/e/) .g/.f/ .e/.d/ | ("F"dc)c | ("C7"c/B/) .e/.d/ .c/B/  | ("F"BA)A | a/a/ a/a/ a/a/ | ("C7"c'g)g | ("F"f/e/ f/).a/ .g/.f/ | "C7"fee | 
+("Bb"f/e/) .g/.f/ .e/.d/ | ("F"dc)c | ("C7"c/b/)b>e | "F"fzz :: [P:C] [K:C] "C"g>^fg | c'>ag | e>^de | g2c | "G7"d>^cd | (g2f) | 
+"C"e>dc | "G7"G3 |  "C"g>^fg | c'>ag | e>^de | g2c | "G7"d>^cd | "C"a>ge | "G7"e/f/gB | "C"czz :| [P:D] [K:F] 
+|: "C7"ee/e/ e/e/ | (c'2e) | "F"ff/f/ f/f/ | a>gf | ("C7"e/g/)!>!g>f | "Bb"edd | (d/f/) !>!e>d | "F"cAA | "C7"ee/e/ e/e/ | (c'2e) | 
+"F"ff/f/ f/f/ | a>gf | ("C7"e/g/)!>!g>f | "Bb"edd | (d/d'/)d'"C7"e |1 "F"fzz :|2 "F"fzd/c/   [P:E] |: [K:Bb] ("Eb"B2g) | "Bb"f2(d/c/) | 
+("Eb"B2g) | "Bb"f2d' | ("F7"c'2a) | (c'2a) | ("Eb"b2g) | "F7"f2(d/c/) | ("Eb"B2g) | "Bb"f2 (d/c/) | ("Eb"B2g) | "Bb"f2d' | ("F7"c'2a) | 
+("F7"c'2e) | (f2a) |1 fz(d/c/) :|2 fzz [P:F] |: "Bb"f d'/d'/ d'/d'/ | "F7"f c'/c'/ c'/c'/ | "Bb"fb/b/ b/b/ | "Cm"a2g | "F7"ff/f/ f/f/ | a3 | 
+ff/f/ f/f/ | "Bb"b3 | f d'/d'/ d'/d'/ | "F7"f c'/c'/ c'/c'/ | "Bb"fb/b/ b/b/ | "Cm"a2g | "F7"zf/f/ f/f/ | f3 | e>GA | "Bb"B2"_>Teil A"z :| 
+% wz07437
+% Aug 27, 2017 (PikAs, Schaufel, Bube)
+
+X:2
+T:Bolzenschützen-Walzer CGF 5- (wz07437)  
+S:Hanny Christen. Bd.IV  Aargau, Basel I.  S.341 (wz07437) orig. F,C,Bb
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+"C"z/2G/2G^G | ("F"A2F) | "G7"z/2B/2BB | ("C"c2G) | z/2e/2ee | ("G7"f2B) | B/2B/2AB | ("C"c2G) | z/2G/2G^G | ("F"A2F) | 
+"G7"z/2B/2BB | ("C"c2G) | z/2g/2 gg | ("Dm/F"a2f) | "G7"z/2f/2fB | "C"cz"_Fine"z :||: "C"e/2e/2 e/2e/2 e/2e/2 | ("G7"gd)d | ("C"c/2B/2 c/2).e/2 .d/2.c/2 | ("G7"cB)B | 
+("F"c/2B/2) .d/2.c/2 .B/2.A/2 | ("C"AG)G | ("G7"G/2F/2) .B/2.A/2 .G/2F/2 | ("C"FE)E | e/2e/2 e/2e/2 e/2e/2 | ("G7"gd)d | ("C"c/2B/2 c/2).e/2 .d/2.c/2 | "G7"cBB | 
+("F"c/2B/2) .d/2.c/2 .B/2.A/2 | ("C"AG)G | ("G7"G/2f/2)f>B | "C"czz :: [K:G] "G"d>^cd | g>ed | B>^AB | d2G | "D7"A>^GA | (d2c) | 
+"G"B>AG | "D7"D3 | "G"d>^cd | g>ed | B>^AB | d2G | "D7"A>^GA | "G"e>dB | "D7"B/2c/2dF | "G"Gzz :| [K:C] 
+|: "G7"BB/2B/2 B/2B/2 | (g2B) | "C"cc/2c/2 c/2c/2 | e>dc | ("G7"B/2d/2)!>!d>c | "F"BAA | (A/2c/2) !>!B>A | "C"GEE | "G7"BB/2B/2 B/2B/2 | (g2B) | 
+"C"cc/2c/2 c/2c/2 | e>dc | ("G7"B/2d/2)!>!d>c | "F"BAA | (A/2a/2)a"G7"B |1 "C"czz :|2 "C"czA/2G/2 |: [K:F] ("Bb"F2d) | "F"c2(A/2G/2) | 
+("Bb"F2d) | "F"c2a | ("C7"g2e) | (g2e) | ("Bb"f2d) | "C7"c2(A/2G/2) | ("Bb"F2d) | "F"c2 (A/2G/2) | ("Bb"F2d) | "F"c2a | ("C7"g2e) | 
+("C7"g2B) | (c2e) |1 cz(A/2G/2) :|2 czz |: "F"c a/2a/2 a/2a/2 | "C7"c g/2g/2 g/2g/2 | "F"cf/2f/2 f/2f/2 | "Gm"e2d | "C7"cc/2c/2 c/2c/2 | e3 | 
+cc/2c/2 c/2c/2 | "F"f3 | c a/2a/2 a/2a/2 | "C7"c g/2g/2 g/2g/2 | "F"cf/2f/2 f/2f/2 | "Gm"e2d | "C7"zc/2c/2 c/2c/2 | c3 | B>DE | "F"F2"_>Teil A"z :| 
+W:Parts: ABCDEF-A
+% wz07437
+% Aug 27, 2017

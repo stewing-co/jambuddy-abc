@@ -1,0 +1,96 @@
+%%format ps.fmt
+%%topspace 0.7cm
+%%scale .97
+%%measurenb -1
+
+
+X:7
+T:guitar strings and fermatas
+L:1/4
+M:none
+K:none clef=treble-8
+[I:stemdir down]!a!!c1u!e !m!!c2u!B !i!!c3u!G [I:stemdir up]!dp!!c4d!D !dp!!c5d!A, !dp!!c6d(!E, !c5d(!!htf!C vvv!c5d)!qHD !c4u(!!sqf!E !kurtag!luu!c4u)!qF !c3d(!!kurtah!G !breath!vv!c3d)!!c6d)!qA||
+
+X:2
+T: special marks
+L: 1/4
+M: none
+K: none
+!tiu!g2!tid!G2| !tiru!b2 !tird!B,2| !upbow!G,,2
+!downbow!C,,2|!ppp!!wav!=d2|!fff!!wav!=d2|!
+[!brz!_G,_E_G__B]3 !beamon!|z| !rasgu![EGBe] !rasgd![EGBe] !rasgu![E,A,DGBe] !rasgd![E,A,DGBe]|!
+!turn!A3 TA !invertedturn!A3 P^A| !thumb!!()!C2 !tok!C !head-sb!!()!c [C!head-sb!!op!c] |!
+
+X:3
+T: special heads
+L: 1/4
+M: none
+K: none
+!head-wdmd!A3 !head-bdmd!A| !head-wtg!c3 !head-wtg!D3!head-btg!c !head-btg!B,| !head-wtgl!e3 !head-btgl!E| !head-wtrg!g3 !head-btrg!G,|!
+!head-wkre!g3 !head-bkre!g| !head-krex!c3 !head-krel!c| !head-curvx!b3 !1!!pII!!head-x!B,| !3!!head-ghost!F3 !4!!head-star!g| !head-nil!A/!head-nil!B/!head-nil!c|!
+!sprgs!C!sprgs!d2!sprgs!E!eolien!f2!eolien!A!head-pzfl!D!head-pzfl!G !head-nail!G !head-nail!e||
+
+%%newpage
+%%titlecaps 0
+%%scale .8
+%rightmargin 5cm
+%%stretchlast 1
+X:4
+T: linked stems crossing 2 staves
+T: deco XSTEM on the lower stave & ghost note-head
+M:2/4
+K:none
+%piano
+%%staves {1 2}
+V:1
+[L:1/16]!>.![^F=A].-!head-ghost![FA]3 z2 !>.![=a^f'].-!head-ghost![af'].-| [L:1/8]!head-ghost![a^f']z Hz2||
+V:2
+[L:1/16]!>!!sfp!!xstem!.[=G,_B,].-!head-ghost!!xstem!!pedal(![G,B,]3!pedal)!z2 !>!!sfp!!xstem!.[_B=g].-!head-ghost!!xstem!!pedal(![Bg].-| [L:1/8]!head-ghost!!xstem![_Bg] !pedal)!z Hz2||
+
+%%vskip 100
+%%staffsep 3cm
+%rightmargin 2cm
+X:5
+T: oposite stems for 1 voice crossing 2 staves
+T:and indications for left (mg) and right (md) hand
+M:2/4
+L:1/8
+K:none
+%piano
+%%barsperstaff 3
+%%staves {1 2}
+%%stretchlast 0
+V:1
+!>.!=d' x3| !>.!=c' x ('=B/!mgb!._b/) x| !mdb!!>.!_b x ('^G>.!mgb!=a)| !mgb!!>.!=b !mdb!('!_!=B^a) x|
+!>.!=a x (=c/!mgb!._b/) x| !mdb!.=a (_B=A) z|  x z ('_d{/!>!G}!mgb!!>!=c')- | [M:1/4]c'2||
+V:2 treble
+!f!z [I:staff 2] [=C=B][I:staff 1]=b z| z [I:staff 2] [=A,_B][I:staff 1]=A z| z [I:staff 2] [!mgc!_B,!mdc!=B][I:staff 1]=c z| z [I:staff 2] (,!mgb!=C=B)[I:staff 1]=a|
+z [I:staff 2][=B,_B][I:staff 1]=A z| z [I:staff 2] (,=G,^F>)[I:staff 1]^d| {/!>!!mgb!^F}!mdb!.=g [I:staff 2](,[_E=A]_B,)[I:staff 1]^f- | [I:staff 2][M:1/4][I:staff 1]^f2||
+
+%%newpage
+%%topspace 0cm
+%%staffsep 1.5cm
+X:6
+T: ornament fingering and brackets
+T:and sample of fingering over the stave or inside the stave
+M:none
+K:none clef=treble
+%%stretchlast 1
+!tr(!"_Right Hand Fingering ornament""^:(p a i m i m i a i)lo"!head-whol!^A4"^:(p a i m i )lo"!barrf!M[D^F]4!tr)!|\
+P"_Left Hand Fingering ornament""^:(1 2 1 3)lo"!brp!^A,4 T"^:(3 1 2 1 )lo"!brakket![E,D^F]4|!
+%%stretchlast 0
+!i!!rasgu![DGBe!4c!e']!dp!!rasgd!!head-wdmd![!4c!!tid!E!4c!!tid!A!4c!!tid!d!4c!!tiu!g!4c!!tiu!b!4c!!tiu!e'] !0!D!1!_E!2!=E!3!F!4!^F|  !c5d!!1i!!dp!C/!3i!!i!!c4d!G/!0i!!a!!c2d!B/!4i!!m!!c3d!c/|]
+
+X:7
+T:
+T:clips (horizontal brackets) without fingering (brk) and with fingering (agr)
+M:none
+V:1 treble
+K:none
+%%scale .75
+"^!brku!"!brku(!b!brku)!a | "_!agrd!"!agrd(!F,!agrd)!E,|
+"^!brkuu!"!brkuu(!b!brkuu)!a & E2 | e2 & "_!agrdd!"!agrdd(!F,!agrdd)!E,|
+"^!agru!"!agru(!!3i!b!agru)!!1i!a | "_!agrd! or !brkd!"!agrd(!!1i!F,!agrd)!!0i!E,|
+"^!agruu!"!agruu(!!3i!b!agruu)!!1i!a & E2 | e2 & "_!agrdd!"!agrdd(!!1i!F,!agrdd)!!0i!E,|
+"^!brkuu!"!brkuu(!!3i!b!brkuu)!!1i!a & E2 | e2 & "_!brkdd!"!brkdd(!!1i!F,!brkdd)!!0i!E,|]
+

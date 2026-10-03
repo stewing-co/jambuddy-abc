@@ -1,0 +1,44 @@
+I:abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Schottisch FBb chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.346 (st11389) orig. F,Bb-Dur
+T: Tänze aus Altdorf (Uri)
+C: Schottisch/Marsch, Baselbiet, "Wien bleibt Wien" , Elm/Glarus (H.C.)
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+F/A/ |: "F"cc z=B/c/ | dd zc/c/ | cf ed | "C7"e>c' bE/G/ | cc z=B/c/ | dd zc/c/ |  cb ag | 
+"F"f>c' aF/A/ | cc z=B/c/ | dd zc/c/ | cf ed | "C"e>a ge/f/ | "G7"gg zd/e/ | "C"fe zd/d/ | "G7"df ed |1 
+"C"c2 cF/A/ :|2 "C".c2+>+c2 |: "F"a3e | gf cA | "C7"B/c/c e/c/c | gc/c/ bc/c/ | b3a | gc Bc | 
+"F"A/c/c f/c/c | ac/c/ a/c/c | a3e | gf cA | "Bb"B>d dd | d3g/a/ | "C7"bb/a/ gg/f/ | ee/d/ ce | 
+"F".f2 "C7"c>e | "F"fa fz :: [K:Bb] "Bb"F2BF | G2B2 | "F7"A4 | e4 | F2AF | G2A2 | "Bb"B4 | d4 | .d2 d>d | 
+Td2 c>e | "F7"e2 e>e | e3 F/A/ | .c2 c>c | Tc2 Bc | "Bb".d2 d>d | d3z | F2BF | G2B2 | "F7"A4 | e4 | 
+F2AF | G2A2 | "Bb"B4 | d4 |"G7".d2d>d | d2 cd | "Cm/Eb"f3e | G3c | "F7"B3A | d3c | "Bb"B2"F7"a2 | "Bb"bb bz :|  
+
+X:2
+T:Schottisch CF 5- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+C/2E/2 |: "C"GG z^F/2G/2 | AA zG/2G/2 | Gc BA | "G7"B>g fB,/2D/2 | GG z^F/2G/2 | AA zG/2G/2 | Gf ed | 
+"C"c>g eC/2E/2 | GG z^F/2G/2 | AA zG/2G/2 | Gc BA | "G"B>e dB/2c/2 | "D7"dd zA/2B/2 | "G"cB zA/2A/2 | "D7"Ac BA |1 
+"G"G2 GC/2E/2 :|2 "G".G2!>!G2 |: "C"e3B | dc GE | "G7"F/2G/2G B/2G/2G | dG/2G/2 fG/2G/2 | f3e | dG FG | 
+"C"E/2G/2G c/2G/2G | eG/2G/2 e/2G/2G | e3B | dc GE | "F"F>A AA | A3d/2e/2 | "G7"ff/2e/2 dd/2c/2 | BB/2A/2 GB | 
+"C".c2 "G7"G>B | "C"ce cz :: [K:Fmaj] "F"C2FC | D2F2 | "C7"E4 | B4 | C2EC | D2E2 | "F"F4 | A4 | .A2 A>A | 
+TA2 G>B | "C7"B2 B>B | B3 C/2E/2 | .G2 G>G | TG2 FG | "F".A2 A>A | A3z | C2FC | D2F2 | "C7"E4 | B4 | 
+C2EC | D2E2 | "F"F4 | A4 |"D7".A2A>A | A2 GA | "Gm/Bb"c3B | D3G | "C7"F3E | A3G | "F"F2"C7"e2 | "F"ff fz :| 
+
+X:3
+T:Schottisch GC 2+ chords
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+G/2B/2 |: "G"dd z^c/2d/2 | ee zd/2d/2 | dg fe | "D7"f>d' c'F/2A/2 | dd z^c/2d/2 | ee zd/2d/2 | dc' ba | 
+"G"g>d' bG/2B/2 | dd z^c/2d/2 | ee zd/2d/2 | dg fe | "D"f>b af/2g/2 | "A7"aa ze/2f/2 | "D"gf ze/2e/2 | "A7"eg fe |1 
+"D"d2 dG/2B/2 :|2 "D".d2!>!d2 |: "G"b3f | ag dB | "D7"c/2d/2d f/2d/2d | ad/2d/2 c'd/2d/2 | c'3b | ad cd | 
+"G"B/2d/2d g/2d/2d | bd/2d/2 b/2d/2d | b3f | ag dB | "C"c>e ee | e3a/2b/2 | "D7"c'c'/2b/2 aa/2g/2 | ff/2e/2 df | 
+"G".g2 "D7"d>f | "G"gb gz :: [K:Cmaj] "C"G2cG | A2c2 | "G7"B4 | f4 | G2BG | A2B2 | "C"c4 | e4 | .e2 e>e | 
+Te2 d>f | "G7"f2 f>f | f3 G/2B/2 | .d2 d>d | Td2 cd | "C".e2 e>e | e3z | G2cG | A2c2 | "G7"B4 | f4 | 
+G2BG | A2B2 | "C"c4 | e4 |"A7".e2e>e | e2 de | "Dm/F"g3f | A3d | "G7"c3B | e3d | "C"c2"G7"b2 | "C"c'c' c'z :| 

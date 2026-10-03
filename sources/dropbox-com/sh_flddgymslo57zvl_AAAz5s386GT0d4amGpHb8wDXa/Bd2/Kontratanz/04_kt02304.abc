@@ -1,0 +1,68 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Les petites Allemandes (Kontratanz) D (kt02304)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.351 (kt02304) orig. D
+T: Kontratänze, Ftan (1773-1778, 8. Jan. 1952). S.350-357.
+T:Überliefert durch Martin Peider Schmid von Grüneck
+O:Switzerland
+%%MIDI program 21
+R:Kontratanz
+M:6/8
+L:1/8
+K:D %%MIDI gchordon
+"D"f>ga a>ba | "A7"a>gf e>fg | "D"a>fd "Bm"c2d | "A7"e3A3 | "D"f>ga a>ba | "A7"a>gf e>fg | "D"a>fd "A7"g>ec | 
+"D"d3d3 || "D"D>FA D>FA | "Em"B3B3 | "A7"A>ce A>ce | "D"f3f3 | D>FA D>FA | "Em"B2B B>GF | 
+"A7"E>gf  e>dc | "D"d3d3 || "D"A3 A>FA | "G"B>GB "D"A>FA |  "G"B>cd "A7"e>fg |  "D"f>ed "A7"c>BA  | 
+ "D"A3 A>FA | "G"B>GB "D"A>FA | "G"B>cd "A7"e>dc | "D"d3d2z || {fg}a2g f>ed | "A7"e2d c>BA | 
+"G"B>cd "A7"e>fg | "D"f>ed "A7"c>BA | {fg}"D"a2g f>ed | "A7"e2d c>BA | "G"B>cd "A7"e>dc | "D"d3d3 |] 
+W:
+W:"Diese (Kontra-)Tänze gehören zum Repertoire der um 1765 in Frankreich beliebten Tänze 
+W:und wurden vom Autor wahrscheinlich während seiner Militärzeit in Frankreich aufgeschrieben." Hrsg. S.350
+% kt02304  
+% Nov 16, 2016
+
+X:2
+T:Les petites Allemandes (Kontratanz) C 2- (kt02304)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.351 (kt02304) orig. D
+S:Kontratänze, Ftan (1773-1778, 8. Jan. 1952). S.350-357.
+S:Überliefert durch Martin Peider Schmid von Grüneck
+O:Switzerland
+%%MIDI program 21
+R:Kontratanz
+M:6/8
+L:1/8
+K:C %%MIDI gchordon
+"C"e>fg g>ag | "G7"g>fe d>ef | "C"g>ec "Am"B2c | "G7"d3G3 | "C"e>fg g>ag | "G7"g>fe d>ef | "C"g>ec "G7"f>dB | 
+"C"c3c3 || "C"C>EG C>EG | "Dm"A3A3 | "G7"G>Bd G>Bd | "C"e3e3 | C>EG C>EG | "Dm"A2A A>FE | 
+"G7"D>fe d>cB | "C"c3c3 || "C"G3 G>EG | "F"A>FA "C"G>EG | "F"A>Bc "G7"d>ef | "C"e>dc "G7"B>AG | 
+"C"G3 G>EG | "F"A>FA "C"G>EG | "F"A>Bc "G7"d>cB | "C"c3c2z || {ef}g2f e>dc | "G7"d2c B>AG | 
+"F"A>Bc "G7"d>ef | "C"e>dc "G7"B>AG | {ef}"C"g2f e>dc | "G7"d2c B>AG | "F"A>Bc "G7"d>cB | "C"c3c3 |] 
+% kt02304  
+% Nov 16, 2016
+
+X:3
+T:Les petites Allemandes (Kontratanz) D (tinwhistle in D)
+T:kt02304 (Hanny Christen)
+%%MIDI program 72   % 111 / 74 / 79=whistle
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.351 (kt02304) orig. D
+S: Kontratänze, Ftan (1773-1778, 8. Jan. 1952). S.350-357.
+S:Überliefert durch Martin Peider Schmid von Grüneck
+O:Switzerland
+R:Kontratanz
+M:6/8
+L:1/8
+K:D transpose=12 %%MIDI gchordon
+"D"f>ga a>ba | "A7"a>gf e>fg | "D"a>fd "Bm"c2d | "A7"e3A3 | "D"f>ga a>ba | "A7"a>gf e>fg | "D"a>fd "A7"g>ec | 
+"D"d3d3 || "D"D>FA D>FA | "Em"B3B3 | "A7"A>ce A>ce | "D"f3f3 | D>FA D>FA | "Em"B2B B>GF | 
+"A7"E>gf  e>dc | "D"d3d3 || "D"A3 A>FA | "G"B>GB "D"A>FA |  "G"B>cd "A7"e>fg |  "D"f>ed "A7"c>BA  | 
+ "D"A3 A>FA | "G"B>GB "D"A>FA | "G"B>cd "A7"e>dc | "D"d3d2z || {fg}a2g f>ed | "A7"e2d c>BA | 
+"G"B>cd "A7"e>fg | "D"f>ed "A7"c>BA | {fg}"D"a2g f>ed | "A7"e2d c>BA | "G"B>cd "A7"e>dc | "D"d3d3 |] 
+% kt02304  
+% Nov 16, 2016
+
+
+
+

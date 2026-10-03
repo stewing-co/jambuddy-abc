@@ -1,0 +1,81 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Kreupolka  FCBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.263 (kp00544) orig. F,C,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"c2c=B c2A2 | .F4!>!f4 | "Gm"d2d^c d2B2 | .G4!>!d4 | "C7"e2eb e2b2 | e2b2 bab2 | 
+"F"f2fa f2a2 | f2a2 a^ga2 | c2c=B c2A2 | F4f4 | "Gm"d2d^c d2B2 | G4d4 | 
+"C7"e2eb e2b2 | "F"c'2c'd' c'2c'd' | "C7"c'2c'd'  c'bag | "F"f2a2  f2z2 :: [K:C] "C"g2b2 a2g2 | "G7"f3ff4 | 
+g2b2 a2g2 | "C"e3ee4 | "Dm"edd2 a2d2 | "C"dcc2 g2c2 | "G7"cBB2 e3d | "C"c2e2 c2"_>Teil A"z2 :: [K:Bb] 
+"Bb"F2FB d2f2 | "F7"edcde4 | F2FA c2e2 | "Bb"dcBcd4 | "F7"d2c2 c2dc | 
+b2a2e4 |1 e2f2 a2ag | "Bb"f2e2d4 :|2 f2e2 e3a | "Bb"b2b2 b2z2 |] 
+
+X:2
+T: Kreupolka  FCBb chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+[P:A] "F"c2c=B c2A2 | .F4!>!f4 | "Gm"d2d^c d2B2 | .G4!>!d4 | "C7"e2eb e2b2 | e2b2 bab2 | 
+"F"f2fa f2a2 | f2a2 a^ga2 | c2c=B c2A2 | F4f4 | "Gm"d2d^c d2B2 | G4d4 | 
+"C7"e2eb e2b2 | "F"c'2c'd' c'2c'd' | "C7"c'2c'd'  c'bag | "F"f2a2  f2z2 :: [P:B] [K:C] "C"g2b2 a2g2 | "G7"f3ff4 | 
+g2b2 a2g2 | "C"e3ee4 | "Dm"edd2 a2d2 | "C"dcc2 g2c2 | "G7"cBB2 e3d | "C"c2e2 c2"_>Teil A"z2 :: [P:C] [K:Bb] 
+"Bb"F2FB d2f2 | "F7"edcde4 | F2FA c2e2 | "Bb"dcBcd4 | "F7"d2c2 c2dc | 
+b2a2e4 |1 e2f2 a2ag | "Bb"f2e2d4 :|2 f2e2 e3a | "Bb"b2b2 b2z2 |] 
+
+X:3
+T:Kreupolka  CGF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"G2G^F G2E2 | .C4!>!c4 | "Dm"A2A^G A2F2 | .D4!>!A4 | "G7"B2Bf B2f2 | B2f2 fef2 | 
+"C"c2ce c2e2 | c2e2 e^de2 | G2G^F G2E2 | C4c4 | "Dm"A2A^G A2F2 | D4A4 | 
+"G7"B2Bf B2f2 | "C"g2ga g2ga | "G7"g2ga gfed | "C"c2e2 c2z2 :: [K:Gmaj] "G"d2f2 e2d2 | "D7"c3cc4 | 
+d2f2 e2d2 | "G"B3BB4 | "Am"BAA2 e2A2 | "G"AGG2 d2G2 | "D7"GFF2 B3A | "G"G2B2 G2"_>Teil A"z2 :: [K:Fmaj] 
+"F"C2CF A2c2 | "C7"BAGAB4 | C2CE G2B2 | "F"AGFGA4 | "C7"A2G2 G2AG | 
+f2e2B4 |1 B2c2 e2ed | "F"c2B2A4 :|2 c2B2 B3e | "F"f2f2 f2z2 |] 
+
+X:4
+T:Kreupolka  CGF 5- chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+[P:A] "C"G2G^F G2E2 | .C4!>!c4 | "Dm"A2A^G A2F2 | .D4!>!A4 | "G7"B2Bf B2f2 | B2f2 fef2 | 
+"C"c2ce c2e2 | c2e2 e^de2 | G2G^F G2E2 | C4c4 | "Dm"A2A^G A2F2 | D4A4 | 
+"G7"B2Bf B2f2 | "C"g2ga g2ga | "G7"g2ga gfed | "C"c2e2 c2z2 :: [P:B] [K:Gmaj] "G"d2f2 e2d2 | "D7"c3cc4 | 
+d2f2 e2d2 | "G"B3BB4 | "Am"BAA2 e2A2 | "G"AGG2 d2G2 | "D7"GFF2 B3A | "G"G2B2 G2"_>Teil A"z2 :: [P:C] [K:Fmaj] 
+"F"C2CF A2c2 | "C7"BAGAB4 | C2CE G2B2 | "F"AGFGA4 | "C7"A2G2 G2AG | 
+f2e2B4 |1 B2c2 e2ed | "F"c2B2A4 :|2 c2B2 B3e | "F"f2f2 f2z2 |] 
+
+X:5
+T:Kreupolka EbBbAb (5letras) cf. CGF
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+"Eb"B2B=A B2G2 | .E4!>!e4 | "Fm"c2c=B c2A2 | .F4!>!c4 | "Bb7"d2da d2a2 | d2a2 aga2 | 
+"Eb"e2eg e2g2 | e2g2 g^fg2 | B2B=A B2G2 | E4e4 | "Fm"c2c=B c2A2 | F4c4 | 
+"Bb7"d2da d2a2 | "Eb"b2bc' b2bc' | "Bb7"b2bc' bagf | "Eb"e2g2 e2z2 :: [K:Bbmaj] "Bb"f2a2 g2f2 | "F7"e3ee4 | 
+f2a2 g2f2 | "Bb"d3dd4 | "Cm"dcc2 g2c2 | "Bb"cBB2 f2B2 | "F7"BAA2 d3c | "Bb"B2d2 B2"_>Teil A"z2 :: [K:Abmaj] 
+"Ab"E2EA c2e2 | "Eb7"dcBcd4 | E2EG B2d2 | "Ab"cBABc4 | "Eb7"c2B2 B2cB | 
+a2g2d4 |1 d2e2 g2gf | "Ab"e2d2c4 :|2 e2d2 d3g | "Ab"a2a2 a2z2 |] 
+
+X:6
+T:Kreupolka EbBbAb (5letras) cf. CGF 5- Parts
+P:ABAC
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+[P:A] "Eb"B2B=A B2G2 | .E4!>!e4 | "Fm"c2c=B c2A2 | .F4!>!c4 | "Bb7"d2da d2a2 | d2a2 aga2 | 
+"Eb"e2eg e2g2 | e2g2 g^fg2 | B2B=A B2G2 | E4e4 | "Fm"c2c=B c2A2 | F4c4 | 
+"Bb7"d2da d2a2 | "Eb"b2bc' b2bc' | "Bb7"b2bc' bagf | "Eb"e2g2 e2z2 :: [P:B] [K:Bbmaj] "Bb"f2a2 g2f2 | "F7"e3ee4 | 
+f2a2 g2f2 | "Bb"d3dd4 | "Cm"dcc2 g2c2 | "Bb"cBB2 f2B2 | "F7"BAA2 d3c | "Bb"B2d2 B2"_>Teil A"z2 :: [P:C] [K:Abmaj] 
+"Ab"E2EA c2e2 | "Eb7"dcBcd4 | E2EG B2d2 | "Ab"cBABc4 | "Eb7"c2B2 B2cB | 
+a2g2d4 |1 d2e2 g2gf | "Ab"e2d2c4 :|2 e2d2 d3g | "Ab"a2a2 a2z2 |] 
+
+

@@ -1,0 +1,74 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+
+X:1
+T:7r. Qui vult venire post me
+C:Orlando Lassusio
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:F -8va
+%%MIDI transpose -12
+N:Original clef, C on fourth line
+%1
+z4 c4-c4 A4 z2 G2 A4 B4 c4 B4 z2 c2 d4 c2 B3 A c2 G2 D2 F4 E3 F G2 A3 G F3 E/ D/ E2\
+w:Qui * vult ve- ni- re post me ve- ni- re post _ _ me ve- ni re _ _ post _ _ _ _ _
+%2
+"A"F4 z2 c2 A2 A4 B2 A4 G2 F2 z2 G2 E2 E4 F2 E2 D2 C2 F2 G2 A2 B3 A/ B/ c3 d "(1)"_e2  d2\
+w:me.  ab- ne- get se- met ip- sum ab- ne get se- met ip- sum et tol- lat cru- - - - - - cem
+N:(1) Original is e natural.
+%3
+c6 A2 z2 F2 G2 A2 B A/ B/ c4 B2 A3 G F E A3 G/ F/ G2 "B"A4 c4 B2 A4 G2 F3 G A B c2 z d2 c B2 A2\
+w:su- am, et tol- lat cru- - - - cem su- - - - - - - - am et se- qua- tur me _ _ _ _ et se- qua- tur
+%4
+z d2 c B2 A2 z B2 A G2 F2 z B2 A G2 F2 z d2 c B2 A2 z G2 F _E2 D2 C4 c4 A2 f3 e d c B2 A2 G4\
+w:et se- qua- tur et se- qua- tur et se- qua- tur et se- qua- tur et se- qua tur me di- cit Do- - - - - mi- nus,
+%5
+z2 F4 D2 B3 A G F F4 E2 
+w:di- cit Do- - - - - mi- 
+HF4 |]
+w:nus. *
+
+X:2
+T:7r. Qui vult venire post me
+C:Orlando Lassusio
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:F bass
+%%MIDI transpose -24
+N:Original clef, bass
+%1
+c4-c4 A4 z2 d2 e4 f4 g4 f4 z2 g2 a4 g2 f3 e g2 d2 a2 b4 a2 A3 B c A B c F G \
+w:Qui * vult ve- ni- re post me ve- ni- re post _ _ me ve- ni re post _ _ _ _ _ - -
+%2
+A3 B G4 "A"F4-F4 z2 f2 d2 d4 f2 e2 d2 c4 z2 c2 A2 A4 f2 e2 d2 c4 z2 d2 e2 f2 g3 f/ g/ a2 e2\
+w: - - - me. *  ab- ne- get se- met ip- sum ab- ne get se- met ip- sum et tol- lat cru- - - - cem
+%3
+f4 d4 z2 c2 d2 e2 f e/ f/ g2 f2 d3 c c B/ A/ B4 "B"A2 f4 _e2 d4 c2 B3 c d e f2 z a2 g f2 g d2 c B2 A2\
+w:su- am, et tol- lat cru- - - - cem su- - - - - -  am et se- qua- tur me _ _ _ _ et se- qua- tur
+%4
+z g2 f _e2 d2 z b2 a g2 f2 z B2 A G2 F2 z d2 c B2 A2 G4 z2 g2 e2 f3 e d c B3 c d e f4 e2 f4 B4\
+w:et se- qua- tur et se- qua- tur et se- qua- tur et se- qua- tur  me, di- cit Do- - - - - - - - - mi- nus, di-
+%5
+G2 B3 A A G/ F/ G3 G HF4 |]
+w:cit Do- - - - - - mi- nus. *
+W:Who wishes to come after me, let him leave his parents,
+W:And take up his cross, and follow me.  Thus says the Lord.

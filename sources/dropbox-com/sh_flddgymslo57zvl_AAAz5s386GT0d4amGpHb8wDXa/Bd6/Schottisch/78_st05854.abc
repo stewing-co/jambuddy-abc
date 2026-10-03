@@ -1,0 +1,96 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Manchester (Schottisch)  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.324 (st05854) orig. C-Dur
+T: "Riebg\"arteler", T\"anze aus Halisberg. S.319-338
+T: Aus dem Repertoire von Johann und Melchior Zenger.
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c'4 | "G"b4 | "F"a4 | "C"g4 | "G7"f>a g>f | "C"e>g f>e | "G7"d>f e>d | "C"c2z2 :| 
+"C"eGc2 | eGc2 | ce a>g | "G7"g2de | fGd2 | fGd2 | df b>a | "C"ag ^f=f | 
+eGc2 | eGc2 | eg c'>b | "G7"b2a2 | d'>c' b>a | "C"a>g ge | "G7"g>f e>d | "C"c2z2 |]  
+W:
+W:Anmerkung H:C.: Engelberg/Brienz/Meiringen, 17. Aug, 1953
+% st05854
+X:2
+T:Manchester (Schottisch)  G 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"g4 | "D"f4 | "C"e4 | "G"d4 | "D7"c>e d>c | "G"B>d c>B | "D7"A>c B>A | "G"G2z2 :| 
+"G"BDG2 | BDG2 | GB e>d | "D7"d2AB | cDA2 | cDA2 | Ac f>e | "G"ed ^c=c | 
+BDG2 | BDG2 | Bd g>f | "D7"f2e2 | a>g f>e | "G"e>d dB | "D7"d>c B>A | "G"G2z2 |] 
+% st05854
+X:3
+T:Manchester (Schottisch)  F 7-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"f4 | "C"e4 | "Bb"d4 | "F"c4 | "C7"B>d c>B | "F"A>c B>A | "C7"G>B A>G | "F"F2z2 :| 
+"F"ACF2 | ACF2 | FA d>c | "C7"c2GA | BCG2 | BCG2 | GB e>d | "F"dc =B_B | 
+ACF2 | ACF2 | Ac f>e | "C7"e2d2 | g>f e>d | "F"d>c cA | "C7"c>B A>G | "F"F2z2 |] 
+% st05854
+X:4
+T: Manchester (Schottisch)  C (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"c'4 | "G"b4 | "F"a4 | "C"g4 | "G7"f>a g>f | "C"e>g f>e | "G7"d>f e>d | "C"c2z2 :| 
+"C"eGc2 | eGc2 | ce a>g | "G7"g2de | fGd2 | fGd2 | df b>a | "C"ag ^f=f | 
+eGc2 | eGc2 | eg c'>b | "G7"b2a2 | d'>c' b>a | "C"a>g ge | "G7"g>f e>d | "C"c2z2 |]  
+% st05854
+X:5
+T:Manchester (Schottisch)  G (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"g4 | "D"f4 | "C"e4 | "G"d4 | "D7"c>e d>c | "G"B>d c>B | "D7"A>c B>A | "G"G2z2 :| 
+"G"BDG2 | BDG2 | GB e>d | "D7"d2AB | cDA2 | cDA2 | Ac f>e | "G"ed ^c=c | 
+BDG2 | BDG2 | Bd g>f | "D7"f2e2 | a>g f>e | "G"e>d dB | "D7"d>c B>A | "G"G2z2 |] 
+% st05854
+X:6
+T:Manchester (Schottisch)  F (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"f4 | "C"e4 | "Bb"d4 | "F"c4 | "C7"B>d c>B | "F"A>c B>A | "C7"G>B A>G | "F"F2z2 :| 
+"F"ACF2 | ACF2 | FA d>c | "C7"c2GA | BCG2 | BCG2 | GB e>d | "F"dc =B_B | 
+ACF2 | ACF2 | Ac f>e | "C7"e2d2 | g>f e>d | "F"d>c cA | "C7"c>B A>G | "F"F2z2 |] 
+% st05854
+X:7
+T:Manchester (Schottisch) G (tinwhistle in D)
+T:st05854 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"g4 | "D"f4 | "C"e4 | "G"d4 | "D7"c>e d>c | "G"B>d c>B | "D7"A>c B>A | "G"G2z2 :| 
+"G"BDG2 | BDG2 | GB e>d | "D7"d2AB | cDA2 | cDA2 | Ac f>e | "G"ed ^c=c | 
+BDG2 | BDG2 | Bd g>f | "D7"f2e2 | a>g f>e | "G"e>d dB | "D7"d>c B>A | "G"G2z2 |] 
+X:8
+T:Manchester (Schottisch) G (tinwhistle in D) solo
+T:st05854 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:G transpose=12
+g4 | f4 | e4 | d4 | "_c"c>e d>c | B>d "_c"c>B | A>"_c"c B>A | G2z2 :| 
+BDG2 | BDG2 | GB e>d | d2AB | "_c"cDA2 | "_c"cDA2 | A"_c"c f>e | ed ^c"_c"=c | 
+BDG2 | BDG2 | Bd g>f | f2e2 | a>g f>e | e>d dB | d>"_c"c B>A | G2z2 |]
+% July 22, 2016

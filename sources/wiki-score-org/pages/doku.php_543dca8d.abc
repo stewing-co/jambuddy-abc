@@ -1,0 +1,19 @@
+X:110
+T:[Kyrie]
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 10 clef=treble name="Corno in F/Eb (Fa/Eb) I" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 10 )]
+%------------------
+[Q:"Largo"][K:C] Z | !p!.c.c.c .czz | Z |  !p!.c.c.c .czz | Z3 | z2z!p! d3 | c2Gc2G | c2zz2z | Z | z2zz2!p!d | c2Gc2G | c2zz2e | \
+c2!f!ed2G | c2zz2z | Z3 | \
+!p!d3d3|G2zz2z| Z2 | !p!d6 | G2zz2z | \
+d3G2z| Z3 | !f!d3G2z | Z2 | !pp! G6- | G6- | G6- | G6 || "Segue;Christe" \
+[Q:"Allegretto"][M:3/8] Z7 | !f!GGG .| Z2 | G G G | G2z | Z2 | G G G | G2z | !f!G3- | GGG | \
+Z4 | !f!GGG | c2z | Z2 | c2z|Z|zz!f!G|c2z|Z5|!f!G G G|c2z|Z3|!f!G G G | G3-|G3-|G3-|G3-|G3-|!f!GGG|Gzz|!f!Gzz| G3-|G3-|G3-|!fermata!G3 || \
+[Q:"Largo"][M:6/8] !pp! c2Gc2G|c2zz2z|Z|z2zz2!p!d|!p!c2Gc2G|c2zz2!f!e|c2ed2G|c2zz2z| Z| z2z!p!d3|c2zz2z|z2z!p!d3|c2zz2z| \
+!pp!G6|!p!C6-|C6-|C6-|!fermata!C6|]\
+%------------------

@@ -1,0 +1,12 @@
+X:305
+T:N.5 Lentamente
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 5 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%----------- edit between the lines ------------
+"_[fol.10]" X | X| X|"_[fol.11]" X | X| X| X| X| X| X| X| X| "_[fol.12]"z z/  !p!  !fermata! !>(!!>)! C,3/2  ||
+%-----------------------------------------------

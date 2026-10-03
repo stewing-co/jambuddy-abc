@@ -1,0 +1,29 @@
+X:1
+T:Sonata III
+S:Allegro
+B:XII Suonate, a Flauto Solo, Con il suo Basso Continuo, per Violoncello ò Cembalo, Opera Seconda
+C:Benedetto Marcello, Nobile Veneto
+N:dilettante di Contrapunto, e Accademico Filarmonico, et Arcade
+%%MIDI ratio 3 1
+M:C
+L:1/8
+K:G dor
+V:1
+%%LY voices \partial 8
+|: d | gddb adda | bg g/a/b/c'/ d'ddd' | bagf "t."_e2 d_e  | f_e/d/ cB f>f g/f/g/_e/ | f > "Piano"f g/f/g/_e/ f3 "Forte"g | f_e/d/ c>B
+B/c/d/_e/ fg | ^f2 g3/2^f//g// a3 a | b/c'/a/b/g/a/f/g/ "t."e2 df | g/a/f/g/e/f/d/e/ ^cA d/e/f/g/ | ag/f/ e>d d>a b/a/b/g/ |
+"Piano"a>a b/a/b/g/ a3 "Forte."b | ag/f/ e>d d3 :: A | dAAf eAAe | fd d/e/f/g/ aAAa | b/c'/a/b/ g/a/f/g/ "t."e2 ff | g/a/f/g/ e/f/d/e/
+c>b ag | a2 g2 fc f2- | f/g/a/b/c'_e ed g2 - | g/a/=b/c'/ d'f fe a2 - |a/=b/^c'/d'/e'g gf "f"_b2 - | ba/g/ a3 g/f/ g2 - |
+gf/e/ fe/d/ ^c>a b/a/b/g/ | "Piano"a>a b/a/b/g/ ag/f/ z "Forte"b | ag/f/ e>d dA f2 - | f/g/a/b/ c'f fe g2 - | g/a/b/c'/ d'g g^f z a |
+b>a g/^f/g/a/ d>d _e/d/e/c/ | d>d _e/d/e/c/ d2 z _e | dc/B/ A>G G2 _e2 | z d dc ^fa c2 - | cd/_e/ d/c/B/A/ BG g2 - |
+g/^f/g/e/ ^f>g g4 :|
+V:2
+K:G dor bass
+%%LY voices \partial 8
+|: g | g2 z g ^f2 z2 | g2 _e2 d2 z2 | _e2 g2 a2 bc' | d'2 z2 b2 _e'2 | b2 _e2 B3 _e | d_e fF
+B2 z2 | a2 g2 d2 z2 | gf ed ^c2 d2 | B2 G2 A2 fe | dg aA d2 g2 |
+d2 g2 d3 g fg aA d3 :: d | d2 z d ^c2 z2 | d2 B2 A2 z f | ga bg cbaf | ba gf
+e2 f2 | c4 f3 g | a2 f2 b2 z2 | =b2 g2 c2 z2 | ^c2 a2 d'3 d | c3 c' b3 B |
+A2 ^G2 A2 e2 f2 g2 d2 z g | fg aA d2 z d | A2 a=b c2 z2 | _b3 c' d'2 z d |
+ga bc' d'2 a2 | b2 c'2 g2 z c' | bc' d'd G2 g2 | f2 _e2 d3 e | ^f4 g3 B |
+cB/c/ dD G4 :|

@@ -1,0 +1,77 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Erinnerungen an St. Niklausen (Mazurka)  FCBb
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.35 (mz08966) orig. F,C,Bb-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"FA cf ed | "tr"d2cFA2 | FA cf ed | "tr""C7"d2 cEB2 | EB cf ed | "tr"d2 cEB2 |  "tr"d2 cEB2 |1 
+"tr""F"d2 cFA2 :|2 "F"F2f2z2 |: [K:C] "G7"G>B d>f e>d | "C"c>e g>c' b>a | "G7"a>g B>ag2 | "C"a>g c>ag2 | 
+"G7"G>B d>f e>d | "C"c>e g>c' b>a | "G7"a>g B>g g>B | "C"c2c'2z2 :| [K:Bb] "Bb"d'c' c'b ba | ag gf fd | 
+"F7"ef ae ae | a4gf | ef ae ae | a4gf | "Bb"df bd bd | b4d'd' | d'c' c'b ba | 
+ag gf fd | "F7"ef ae ae | a4gf | efa3g | "Bb"gf d'3b | "F7"a>g f>e d>c | "Bb"B2b2z2 |] 
+W:Parts: ABAC
+W: Erinnerungen an ... (memories of ...)
+% mz08966
+X:2
+T:Erinnerungen an St. Niklausen (Mazurka)  CGF 5-
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"CE Gc BA | "tr"A2GCE2 | CE Gc BA | "tr""G7"A2 GB,F2 | B,F Gc BA | "tr"A2 GB,F2 | "tr"A2 GB,F2 |1 
+"tr""C"A2 GCE2 :|2 "C"C2c2z2 |: [K:G] "D7"D>F A>c B>A | "G"G>B d>g f>e | "D7"e>d F>ed2 | "G"e>d G>ed2 | 
+"D7"D>F A>c B>A | "G"G>B d>g f>e | "D7"e>d F>d d>F | "G"G2g2z2 :| [K:F] "F"ag gf fe | ed dc cA | 
+"C7"Bc eB eB | e4dc | Bc eB eB | e4dc | "F"Ac fA fA | f4aa | ag gf fe | 
+ed dc cA | "C7"Bc eB eB | e4dc | Bce3d | "F"dc a3f | "C7"e>d c>B A>G | "F"F2f2z2 |] 
+W:Parts: ABAC
+% mz08966
+X:3
+T:Erinnerungen an St. Niklausen CGF (5letras transposed)
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"CE Gc BA | "tr"A2GCE2 | CE Gc BA | "tr""G7"A2 GB,F2 | B,F Gc BA | "tr"A2 GB,F2 | "tr"A2 GB,F2 |1 
+"tr""C"A2 GCE2 :|2 "C"C2c2z2 |: [K:G] "D7"D>F A>c B>A | "G"G>B d>g f>e | "D7"e>d F>ed2 | "G"e>d G>ed2 | 
+"D7"D>F A>c B>A | "G"G>B d>g f>e | "D7"e>d F>d d>F | "G"G2g2z2 :| [K:F] "F"ag gf fe | ed dc cA | 
+"C7"Bc eB eB | e4dc | Bc eB eB | e4dc | "F"Ac fA fA | f4aa | ag gf fe | 
+ed dc cA | "C7"Bc eB eB | e4dc | Bce3d | "F"dc a3f | "C7"e>d c>B A>G | "F"F2f2z2 |] 
+W:Parts: ABAC
+% mz08966
+X:4
+T:Erinnerungen an St. Niklausen DA&G (tinwhistle in D)
+T:mz08966 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:marzurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"DF Ad cB | "tr"B2ADF2 | DF Ad cB | "tr""A7"B2 ACG2 | CG Ad cB | "tr"B2 ACG2 | "tr"B2 ACG2 |1 
+"tr""D"B2 ADF2 :|2 "D"D2d2z2 |: [K:A] "E7"E>G B>d c>B | "A"A>c e>a g>f | "E7"f>e G>fe2 | "A"f>e A>fe2 | 
+"E7"E>G B>d c>B | "A"A>c e>a g>f | "E7"f>e G>e e>G | "A"A2a2z2 :| [K:G] "G"ba ag gf | fe ed dB | 
+"D7"cd fc fc | f4ed | cd fc fc | f4ed | "G"Bd gB gB | g4bb | ba ag gf | 
+fe ed dB | "D7"cd fc fc | f4ed | cdf3e | "G"ed b3g | "D7"f>e d>c B>A | "G"G2g2z2 |] 
+W:Parts: ABAC
+X:5
+T:Erinnerungen an St. Niklausen DA&G (tinwhistle in D) solo
+T:mz08966 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:marzurka
+M:3/4
+L:1/8
+K:D transpose=12
+DF Ad cB | TB2ADF2 | DF Ad cB | TB2 A"_=C"EG2 | CG Ad cB | TB2 ACG2 | TB2 ACG2 |1 
+TB2 ADF2 :|2 D2d2z2 |: [K:A] E>"_#"G B>d c>B | A>c e>a "_#"g>f | f>e "_#"G>fe2 | f>e A>fe2 | 
+E>"_#"G B>d c>B | A>c e>a "_#"g>f | f>e "_#"G>e e>"_#"G | A2a2z2 :| [K:G] ba ag gf | fe ed dB | 
+"_c"cd f"_c"c fc | f4ed | "_c"cd fc fc | f4ed | Bd gB gB | g4bb | ba ag gf | 
+fe ed dB | "_c"cd fc fc | f4ed | "_c"cdf3e | ed b3g | f>e d>"_c"c B>A | G2g2z2 |]
+W:Parts: ABAC
+% July 29, 2016

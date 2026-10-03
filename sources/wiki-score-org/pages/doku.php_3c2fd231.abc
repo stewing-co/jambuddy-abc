@@ -1,0 +1,52 @@
+X:109
+T:[Kyrie]
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 9 clef=bass name="Basso" sname="B."
+%%MIDI program 1 1
+%%staves [[ 9 ]]
+%------------------
+[Q:"Largo"] Z8 | F,2C, F,> F, C,/ C,/ | F,2zz2z| Z2| \
+w: Ky-ri-e e-le-i-son
+!p!F,2 G, F,2 E, | F,2 !f! D, C,> C, A,,/ A,,/ | D, z/!f!D,/ =B,/ B,/ E, z/ E,/ C,/ C,/ | F,2 !p!(_B,C2^C)  | D2 =C =B,2C | =B,2z \
+w: Ky-ri-e e-lei-son e--le-i-son e-le-i-son e-le-i-son e-le-i-son e-le-i-son
+C2A,| =B,2 ^G, A,2 ^F, | G,2 !p! G, G,2 G, | C,2zz2z | \
+w: Ky-ri-e e-le-i-son e-le-i-son
+!p!G,3G,3 | G,2z z2 \
+w: Ky-ri-e
+!p!G, | G,3G,3 | C,2z \
+w: e-le-i-son
+!f! F,G, A, | =B,A, G, C2D | !>!E2 !p! E,F,2F, | G,2G, G,2G, | C,2z \
+w: Ky--ri-e_ e-le-i-son e-le-i-son e-le-i-son
+!f! (F,G,) A, | (=B,A,) G, C2D | !>!E2 !p! E,F,2F, | G,2G, G,2G, | C,2zz2z | z2z \
+w: Ky--ri-e_ e-le-i-son e-le-i-son e-le-i-son
+!p! C,2C, | C,2C, C,2C, | !p!!fermata!C,6 ||\
+w: Ky-ri-e e-le-i-son
+[Q:"Allegretto"][M:3/8] !p!F, G, A, | B,2A, | G,2!p!C, | F,2F, | E,2E, | A,2A,| G,2z | Z2 |\
+w: Chris-te e-le-i-son e-le-i-son e-le-i-son
+"^NB:?check ms! "=B,2z| \
+w: son(?)
+!f!C3|!f! C2!f!C|=B,3|=B,3|A,2z| zz \
+w:  Chris-te e-le-i-son
+!f!A,| G,3|C,3| Z4 | \
+w: e-lei-son
+!f!C, D, E, | F,2 D, | G,2 !f! E, | A,2 F, | F,2z | \
+w: Chris-te e-le-i-son e-le-i-son e-le-i-son
+_B, B, A, | G,2 !f!C, | F,2B,,|E,2!f!A,, | D,2z | \
+w: Chris-te e-le-i-son e-le-i-son
+!f! G, G, F, | E,2A,,| D,2D, | C,2C, | !f! F,2F, | E,2E, | A,2!f!A, | G,2G, | C2z | \
+w: Chris-te e-le-i-son e-le-i-son e-le-i-son  e-le-i-son
+!f!C, C, C, | C,2C, | C,2!f!C, | C,2C, | C,2z|Z3| \
+w: Chris-te e-le-i-son e-le-i-son
+!p!C,3|C,2C,|C,2C,|!p!!fermata!  C,3 || \
+w: Chris-te e-le-i-son
+%fol.20
+[Q:"Largo"][M:6/8] !p! F,2C, F,> F, C,/ C,/ | F,2z z2z | Z2 | \
+w: Ky-ri-e e-le-i-son
+!p!F,2G,F,2E, | "_cresc" F,2D, C,> C, A,,/ A,,/  | D, z/ \
+w: Ky-ri-e e-le-i-son e-le-i-son e-le-i-son e-le-i-son e-lei-son
+!f!D,/ =B,/ B,/ E, z/E,/ C,/ C,/ | F,2 !p! _B, C2^C | D2C=B,2B,|C2CC,2C,|!p!F,2E,D,2_D, | C,2 C, C,2 C,|F,2 !p!_E, D,2_D, | C,2C, C,2C, | F,2zz2z|Z2| !fermata!Z |]\
+w: e-le-i-son e-le-i-son e-le-i-son e-le-i-son e-le-i-son e-le-i-son e-le-i-son e-le-i-son e-le-i-son e-le-i-son
+%------------------

@@ -1,0 +1,39 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch CGFchords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.229 (st00473) orig. C,G,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"e>g gf | ef/e/ dc | "G7"B>d da | f3G | B2 a>g | fg/f/ ed | "C"c2 ec' | 
+"G7"g3G | "C"e2g>f | ef/e/ dc | "G7"B2da | f3G | B2d>a | fg/f/ ed | 
+"C"ce "G7"g>B | "C"cc' c'z |: [K:G] [L:1/16] "G"d2Bd g2dg | b2gb d'2d'2 | "D7"c'2d2 aaa2 | "G"b2d2 ggg2 | d2Bd g2dg | 
+b2gb d'2d'2 | "D7"d2c'2 b3a | "G"g2b2 g2z2 :: [K:C] "G7"gfdB gfdB | "C"agec agec | "G7"gfdB gfdB | 
+"C"cc'ba g4 | "G7"gfdB gfdB | "C"agec agec | "G7"gfdB G3B | "C"c2e2 c2z2 :| [K:F] [L:1/8] "F"FA cA | d3A | 
+c/c/c a>f | "C7"bb e2 | EG BG | d3G | c/c/c b>e | "F"aaf2 | FA cA | d3A | 
+c/c/c ag/f/ | "Gm/Bb"ed/^c/d2 | "Bb"db/a/ g/f/e/d/ | "F/C"cf/g/a2 | "C7"g/b/e/g/ c>e | "F"ff fz |] 
+
+X:2
+T: Schottisch CGFchords (align)
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"e>g gf | ef/e/ dc | "G7"B>d da | f3G | B2 a>g | fg/f/ ed | "C"c2 ec' | \
+"G7"g3G | "C"e2g>f |
+ ef/e/ dc | "G7"B2da | f3G | B2d>a | fg/f/ ed | \
+"C"ce "G7"g>B | "C"cc' c'z |: [K:G] [L:1/16] "G"d2Bd g2dg |
+ b2gb d'2d'2 | "D7"c'2d2 aaa2 | "G"b2d2 ggg2 | d2Bd g2dg | \
+b2gb d'2d'2 | "D7"d2c'2 b3a | "G"g2b2 g2z2 :: [K:C]
+ "G7"gfdB gfdB | "C"agec agec | "G7"gfdB gfdB | \
+"C"cc'ba g4 | "G7"gfdB gfdB | "C"agec agec |
+ "G7"gfdB G3B | "C"c2e2 c2z2 :| [K:F] [L:1/8] "F"FA cA | d3A | \
+c/c/c a>f | "C7""_b"bb "_e"e2 | "_e"E"_g"G "_b"BG | "_d"d3"_g"G | c/c/c "_b"b>"_e"e |
+ "F"aaf2 | FA cA | d3A | \
+c/c/c ag/"_ ="f/ | "Gm/Bb"ed/^c/d2 | "Bb"db/a/ g/f/e/d/ | "F/C"cf/g/"_ ="a2 | "C7""_g"g/"_b"b/"_e"e/g/ c>"_ ="e | "F"ff fz |] 
+
+
+
+

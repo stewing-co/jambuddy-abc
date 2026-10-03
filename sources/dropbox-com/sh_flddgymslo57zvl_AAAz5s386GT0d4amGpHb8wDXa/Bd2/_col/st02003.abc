@@ -1,0 +1,44 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Schottisch  FBb
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.268 (st02003) orig. F,Bb
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T:Überliefert vermutlich durch Joggi Stocker (1889-1956)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c |: "F"fe dA | c3A | d3A | "C7"B3c | fe dA | B3d | e3d | "F"A3c | fe dA | 
+c3A | "D7"_e3d | "Gm"g3g | "C7"gg/g/ ^fg | "F"ac fa | "C7"b2e2 |1 "F"ff fc :|2 "F"ff fz |: [K:Bb]  "Bb"bf"G7"a2 | 
+"Cm"geg2 | "F7"aeg2 | "Bb"fdf2 | BB/B/ cB | "F7"Afe2 |1 Ae/e/ ed/c/ | "Bb"Bgf2 :|2 "F7"f>g af | "Bb"bb bz |] 
+ % st02003 (H 071/TN 1)
+
+X:2
+T:Schottisch  CF 5-  (st02003)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G |: "C"cB AE | G3E | A3E | "G7"F3G | cB AE | F3A | B3A | "C"E3G | cB AE | 
+G3E | "A7"_B3A | "Dm"d3d | "G7"dd/2d/2 ^cd | "C"eG ce | "G7"f2B2 |1 "C"cc cG :|2 "C"cc cz |: [K:F] "F"fc"D7"e2 | 
+"Gm"dBd2 | "C7"eBd2 | "F"cAc2 | FF/2F/2 GF | "C7"EcB2 |1 EB/2B/2 BA/2G/2 | "F"Fdc2 :|2 "C7"c>d ec | "F"ff fz |] 
+% st02003
+
+X:3
+T:Schottisch  GC 7-  (st02003)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+d |: "G"gf eB | d3B | e3B | "D7"c3d | gf eB | c3e | f3e | "G"B3d | gf eB | 
+d3B | "E7"=f3e | "Am"a3a | "D7"aa/2a/2 ^ga | "G"bd gb | "D7"c'2f2 |1 "G"gg gd :|2 "G"gg gz |: [K:C] "C"c'g"A7"b2 | 
+"Dm"afa2 | "G7"bfa2 | "C"geg2 | cc/2c/2 dc | "G7"Bgf2 |1 Bf/2f/2 fe/2d/2 | "C"cag2 :|2 "G7"g>a bg | "C"c'c' c'z |] 
+% st02003
+% Sep 25, 2016

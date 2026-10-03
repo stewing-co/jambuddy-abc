@@ -1,0 +1,81 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Frühlingskinder (Mazurka)  CF (mz07759) ABCDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.377 (mz07759) orig. CF
+T: Alte Seltisberger Musik. S.354-377
+T:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+%%partsbox
+P:ABCDC
+R:Mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+[P:A] "C"c>e G2E>c | ("G7"cB)B2B2 | B>dG2F>d | ("C"dc)c2c2 | G>c e>g f>e | "G7".e2d4 | B>d f>a g>f | "C".f2e4 | c>e G2E>c | 
+("G7"cB)B2B2 | B>dG2F>d | ("C"dc)c2c2 | G>c e>g f>e | "Dm"d>aa4 | "G7"B>gg3B | "C".c2c2z2  :: [P:B] "G7"G>G G>B d>f | "C".e2G3e | 
+"G7".d2F3d | "C"c>EG2G2 | "G7"G>G G>B d>f | "C".e2G3e | "G7"d>fa2g>B | "C".c2c2 z2 :: [P:C] [K:F] "F"a2g2f2 | ("C7"eB)e4 | "Bb"f2e2d2 | ("F"cA)c4  | 
+c2B2A2 | ("Gm"Ge) d4 | "C7"d2c2B2 | ("F"Af)c4 | a2g2f2 | ("C7"eB)e4 | "Bb"f2e2d2 | "F"cAc4 | c2B2A2 | "Gm"Ged4 | "C7"c>d c>B A>G | "F".F2f2"_Fine"z2 :| [K:C] 
+[P:D] |: "C"e>e e>cG2 |  e>e e>cG2 | "G7"B>c d>e f>g | "C"a2(g^fg2) | e>e e>cG2 | e>e e>cG2 | "G7"B>c d>e f>B | "C".c2c2"_>Teil C"z2 :| 
+%W:Parts:ABCDC
+% mz07759 (H 274/TN 67)
+% Oct 23, 2017 (Either-Or > Sowohlalsauch)
+
+X:2
+T:Frühlingskinder (Mazurka)  CF (mz07759)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.377 (mz07759) orig. CF
+S: Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c>e G2E>c | ("G7"cB)B2B2 | B>dG2F>d | ("C"dc)c2c2 | G>c e>g f>e | "G7".e2d4 | B>d f>a g>f | "C".f2e4 | c>e G2E>c | 
+("G7"cB)B2B2 | B>dG2F>d | ("C"dc)c2c2 | G>c e>g f>e | "Dm"d>aa4 | "G7"B>gg3B | "C".c2c2z2  :: "G7"G>G G>B d>f | "C".e2G3e | 
+"G7".d2F3d | "C"c>EG2G2 | "G7"G>G G>B d>f | "C".e2G3e | "G7"d>fa2g>B | "C".c2c2 z2 :: [K:F] "F"a2g2f2 | ("C7"eB)e4 | "Bb"f2e2d2 | ("F"cA)c4  | 
+c2B2A2 | ("Gm"Ge) d4 | "C7"d2c2B2 | ("F"Af)c4 | a2g2f2 | ("C7"eB)e4 | "Bb"f2e2d2 | "F"cAc4 | c2B2A2 | "Gm"Ged4 | "C7"c>d c>B A>G | "F".F2f2"_Fine"z2 :| [K:C] 
+|: "C"e>e e>cG2 |  e>e e>cG2 | "G7"B>c d>e f>g | "C"a2(g^fg2) | e>e e>cG2 | e>e e>cG2 | "G7"B>c d>e f>B | "C".c2c2"_>Teil C"z2 :| 
+W:Parts:ABCDC
+% mz07759 (H 274/TN 67)
+% Oct 23, 2017
+
+X:3
+T:Frühlingskinder (Mazurka)  GC 7+ (mz07759)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.377 (mz07759) orig. CF
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"g>b d2B>g | ("D7"gf)f2f2 | f>ad2c>a | ("G"ag)g2g2 | d>g b>d' c'>b | "D7".b2a4 | f>a c'>e' d'>c' | "G".c'2b4 | g>b d2B>g | 
+("D7"gf)f2f2 | f>ad2c>a | ("G"ag)g2g2 | d>g b>d' c'>b | "Am"a>e'e'4 | "D7"f>d'd'3f | "G".g2g2z2 :: "D7"d>d d>f a>c' | "G".b2d3b | 
+"D7".a2c3a | "G"g>Bd2d2 | "D7"d>d d>f a>c' | "G".b2d3b | "D7"a>c'e'2d'>f | "G".g2g2 z2 :: [K:C] "C"e'2d'2c'2 | ("G7"bf)b4 | "F"c'2b2a2 | ("C"ge)g4 | 
+g2f2e2 | ("Dm"db) a4 | "G7"a2g2f2 | ("C"ec')g4 | e'2d'2c'2 | ("G7"bf)b4 | "F"c'2b2a2 | "C"geg4 | g2f2e2 | "Dm"dba4 | "G7"g>a g>f e>d | "C".c2c'2"_Fine"z2 :| [K:G] 
+|: "G"b>b b>gd2 | b>b b>gd2 | "D7"f>g a>b c'>d' | "G"e'2(d'^c'd'2) | b>b b>gd2 | b>b b>gd2 | "D7"f>g a>b c'>f | "G".g2g2"_>Teil C"z2 :| 
+W:Parts:ABCDC
+% mz07759 (H 274/TN 67)
+% Oct 23, 2017
+
+X:4
+T:Frühlingskinder (Mazurka)  GC 5- (mz07759)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.377 (mz07759) orig. CF
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"G>B D2B,>G | ("D7"GF)F2F2 | F>AD2C>A | ("G"AG)G2G2 | D>G B>d c>B | "D7".B2A4 | F>A c>e d>c | "G".c2B4 | G>B D2B,>G | 
+("D7"GF)F2F2 | F>AD2C>A | ("G"AG)G2G2 | D>G B>d c>B | "Am"A>ee4 | "D7"F>dd3F | "G".G2G2z2 :: "D7"D>D D>F A>c | "G".B2D3B | 
+"D7".A2C3A | "G"G>B,D2D2 | "D7"D>D D>F A>c | "G".B2D3B | "D7"A>ce2d>F | "G".G2G2 z2 :: [K:C] "C"e2d2c2 | ("G7"BF)B4 | "F"c2B2A2 | ("C"GE)G4 | 
+G2F2E2 | ("Dm"DB) A4 | "G7"A2G2F2 | ("C"Ec)G4 | e2d2c2 | ("G7"BF)B4 | "F"c2B2A2 | "C"GEG4 | G2F2E2 | "Dm"DBA4 | "G7"G>A G>F E>D | "C".C2c2"_Fine"z2 :| [K:G] 
+|: "G"B>B B>GD2 | B>B B>GD2 | "D7"F>G A>B c>d | "G"e2(d^cd2) | B>B B>GD2 | B>B B>GD2 | "D7"F>G A>B c>F | "G".G2G2"_>Teil C"z2 :| 
+W:Parts:ABCDC
+% mz07759 (H 274/TN 67)
+% Oct 23, 2017

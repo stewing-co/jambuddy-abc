@@ -1,0 +1,62 @@
+X:507
+T:Agnus Dei
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 7 clef=alto name="Contralto" sname="C."
+%%MIDI program 1 1
+%%staves [[ 7 ]]
+%------------------
+[Q:"Largetto"] !p! C2C !>!_D3 | C2^C D D _E | D D D [DF]2 ^G | A E z \
+w: A-gnus De-i qui tol-lis pec-ca-ta pec-ca-ta mun-di
+E2^C | D2D^C2E | F2^FG2E|=F2z \
+w: mi-se-re-re mi-se-re-re no--bis mi-se-re-re no-bis
+!p! A2G | F3F2F | F F F F F F |  F2 F G2D | E2z  \
+w: A-gnus De-i qui tol-lis pec-ca-ta pec-ca-ta mun--di
+!p! A> A A/ _A/ | G G z \
+w: mi-se-re-re no-bis
+F> =A G/ F/ | E Ez \
+w: mi-se-re-re no-bis
+F> A G/ F/ | E E z  \
+w: mi-se-re-re no-bis
+F> F "^check ms" F/ F/ | E E z z2z | Z |  \
+w: mi-se-re-re no-bis
+!f! E2E E E E | E E E E2E | E E !f! EE2E | D D F A2A | !p! A A A A2A | A3!fermata!A3 || \
+w: A-gnus De-i qui tol-lis  pec-ca-ta mun-di pec-ca-ta mun-di pec-ca-ta mun-di pec-ca-ta mun-di
+% fol.182
+[Q:"Allegro"][K:F][M:C|][L:1/4|] !f! F> G (A/B/) (c/d/) | G2Gz | \
+w: do-na no--bis_ pa-cem
+!p! FFED | F2Fz | \
+w: do-na no-bis pa-cem
+!f! BBAA | GFEz | \
+w: do-na no-bis pa--cem
+!>!^F2F2 | G2Gz | \
+w: do-na no-bis
+!f! ^FFFF | G2Gz | \
+w: do-na no-bis pa-cem
+!>!E2E2 | F2Fz | \
+w: do-na no-bis
+!f! EEEE | F2Fz | \
+w: do-na no-bis pa-cem
+!f! FF_AA | =A4 | B4 | Azz2 | Z5 | \
+w: do-na no-bis pa--cem
+!f! ^A2^c2 | d2dz | \
+w: do-na no-bis
+!f! G2=B2 | c2Ez | \
+w: no-bis pa-cem
+!p! F2F2 | F2_A2 | =A4 | B4 | Azz2 | Z3 | \
+w: do-na no-bis pa--cem
+!p! F2A2 | B2_A2 | =A4 | G4 | Fzz2 | \
+w: do-na no-bis pa--cem
+!f! _AAAA | =A4 | B4 | Az \
+w: do-na no-bis pa--cem
+!p! CC | C2C2 | _D4- | _D4 | Cz \
+w: do-na no-bis pa--cem
+!p! CC | C2C2 | !p! E4- | E4 | Fz \
+w: do-na no-bis pa--cem
+!p! CC | C2C2 | _D4- | _D4 | Cz \
+w: do-na no-bis pa--cem
+!p! CC | C2C2 | C4- | C4 | Czz2 | Z5 |] \
+w: do-na no-bis pa--cem
+%------------------

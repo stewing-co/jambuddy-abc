@@ -1,0 +1,31 @@
+X:3814
+T:Rondo [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:E
+V: 14 clef=bass name="[Basso]" sname="B."
+%%MIDI program 1 42
+%%staves [ 14 ]
+%---------------------------
+"_[fol.375]" [Q:"Andante"] z2 | !f! E,4 | E,E,!p!E,/z/ D,/z/ | E,/z/ D,/z/ !f! !/!E,2 | B,,/!trem2!B,/ B,,z2 | !f!!p!E,2 \
+"_[fol.376]" E,2 | E,E,E,/z/ D,/z/ | E,zz2 | B,,2 (C(B,) | A,)(G,F,E,)| !fermata! D,2 \
+"_[fol.377]" E,/z/ D,/z/ | E,/z/ G,/z/ A,/z/ B,,/z/ | E,/z/ G,/z/ A,/z/ B,/z/ | E,/z/ G,/z/ A,/z/ B,/B,,/| E,/E,/E,z2 | Z |\
+"_[fol.378]" z z/E,/ E,,z | z E,E, z | zB,,B,,z | zB,,B,,z| E,E,E,2| "_rinf" D,2 \
+"_[fol.379]" !p! (E,2 | "_rinf" D,2) !p! E,/z/ E,/z/ | D,/z/ E,/z/ F,/z/ F,,/z/ | B,,zB,,z | B,,zB,,2 | !fermata! B,,2z2 | !f!!p!E,4 | \
+"_[fol.380]" E,E,E,/z/ D,/z/ | E,zz2 | B,,2(CB,|A,G,)F,E, | !fermata!D,2E,/z/ D,/z/ | E,/z/ A,/z/ B,/z/ B,,/z/ | E,/z/ G,/z/ \
+"_[fol.381]" A,/z/ B, | E,/z/ z A,/z/ B,/B,,/ | !f! !/!E,2  !p! !/!E,2  !f!| E,/E,/E,/D,/ !p!C,2 | B,,2!fermata! z2 || \
+"_[fol.382]" [Q:"Allegro"] E,zz2 | Z | z2E,z | E,zB,,z | E,zz2 | Z | \
+"_[fol.383]" z2E,z | E,zB,,z | !/!E,4 | !/!E,4 | !/!E,4 | E,2z2 | \
+"_[fol.384]" z/E,/G,/E,/ B,/B,/B,,/B,,/ | !/!E,2 !/!G,2 | !/!A,4 | !/!B,4 | !/!B,,4 | !f! !/!E,2 \
+"_[fol.385]" !/!E,2 | !/!E,4 | !p! E,zE,z | E,zE,z | !/!"^8." E,4 | !/! E,4 | \
+"_[fol.386]" !p! E,zE,z | E,zE,z | !f! !/! E,2E,z | !p! A,zG,z | A,zA,z | ^A,zA,z | B,/B,,/B,,/B,,/ \
+"_[fol.387]" !/! B,,2 | !/! B,,4 | "_rinf" !/! B,,4 | !p! !/! B,,4 | !ff! !/! B,,4 |   !fermata! C,4 | !fermata! B,,4 | \
+"_[fol.388]" Z2 | z !p! E, z2 | F,zB,,z | E,2z2 | Z | \
+"_[fol.389]" zE,z2 | F,zB,,z | !/! E,2 !f! !/! E,2 | !/! E,2 !p! !/! E,2 | !/! E,4 | E,2 z2 | z/E,/G,/E,/ B,/B,/B,,/B,,/ | \
+"_[fol.390]" E,zE,z | B,,zB,,z |  E,zE,z | B,,zB,,z |  E,zz2 | E,zz2 | E,zz2 | \
+"_[fol.391]" E,zz2 |  !/! E,2  !/! E,2 |  !/! E,4 |  !/! E,2  !/! G,2 |  !/! A,4 | !/! A,4 | \
+"_[fol.392]" !/! B,2 !/! B,,2 | E,zz2 | Z3 |  E,zz2 |  E,zz2 | \
+"_[fol.393]" !/! E,4 | !/! A,4 | !/! A,4 | !/! A,4 | !/! B,4 | !/! B,,4 | E,zEE | F>EDD |
+"_[fol.394]" EE !/!G,2 | !/! A,4 | !/! B,4 | !/! B,,4 | E,EE,E, | E,2z2 |]
+%---------------------------

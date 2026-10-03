@@ -1,0 +1,69 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:When Laura Smiles
+T:Cantus
+C:tune by Philip Rosseter (1568-1626)
+C:words by Thomas Campion (1567-1620)
+C:from A Book of Ayres, 1601
+B:Campion, Thomas. Campion's Works. Percival Vivian
+B:CDSS News 164, Jan/Feb 2002
+H:Melody by Philip Rosseter in 1601
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:3/4
+L:1/4
+K:G mix
+%
+|:dBe  d/c/B/A/ G A/B/cB  A/G/^F/E/ D  GAA  G3 :|
+w:The earth and hea ~ - ~ ven viewes_ with de-light____ her wan-ton play,
+w: 2.~The dain- tie sprites * * * * that * still re- maine * * * * in fleet- ing aire
+w: Af- fect for pas- * * * time to * * un- twine * * * * her tress- ed haire,
+w: 3.~Di- an- a's eyes * * * * are * not a- dorn'd * * * * with great- er power
+w: Than Laur- a's when * * * * she * lists a- while * * * * for sport to loure,
+w: 4.~Love hath no fire * * * * but * what he steales * * * * from her bright eyes,
+w: Time hath no power, * * * * but * that which in * * * * her plea- sure lyes,
+%
+|:A2c  B2A  ^G2 A2 BB  c2A  B2c d2
+w:And her speech with ev-er flow-ing mu-sicke doth re-paire 
+w: And the birds thinke sweete Au- ro- ra morn- ings Queene doth shine
+w: But when she her eyes en- clos- eth, blind- nes doth ap- peare
+w: For she with her de- vine beau- ties all the world sub- dues,
+%
+d  A2B  c2c G2A  B3  A/G/ A A G3 :|
+w: The cru-ell wounds of sor-row and un-*tam'd des-paire.
+w: From her bright sphere when Lau- ra shewes her * lookes de- vine.
+w: The chief- est grace of beau- tie sweete- ly * seat- ed there.
+w: And fils with heav'n- ly spi- rits my hum- * * ble muse.
+
+X:2
+T:When Laura Smiles
+T:Bassus
+C:tune by Philip Rosseter (1568-1626)
+C:words by Thomas Campion (1567-1620)
+C:from A Book of Ayres, 1601
+B:Campion, Thomas. Campion's Works. Percival Vivian
+B:CDSS News 164, Jan/Feb 2002
+H:Melody by Philip Rosseter in 1601
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:3/4
+L:1/4
+K:G mix bass
+%%MIDI transpose -24
+|:g2c g3 f2g d > c B/ A/ G d2 G3 :|
+|:f2 c d2 f e2 c2 d e A2 a g > f e d3 f > e d c3 e > d c B2 e2 d2 G3 :|

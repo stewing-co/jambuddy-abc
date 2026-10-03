@@ -1,0 +1,61 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Walzer (nach Stamm) FCBb
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.362 (wz05078) orig. G,D,C-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+((3c/d/e/) | "F"f3 | f3 | f f/f/ f/f/ | fff | a3 | a3 | a a/a/ a/a/ | aaa | "C7"c'z c'/c'/ |  c'z c'/c'/ | 
+c'zz |  z2 c'/b/ |: [K:C] "F"a>^ga | c2 c'/b/ | a>^ga | c2b/a/ | "C7"g>^f g/=f/ | e>c d/e/ | "F"f/e/ f/g/ a/b/ |  
+c'2c'/b/ | a>^ga | c2c'/b/ | a>^ga | c2b/a/ | "C"g>^f g/a/ | g>=fe | "G7"g>f d/e/|1 "C"czc'/b/ :|2 "C"czz ||  
+[K:F] |:"C7"c2e | g2b | "F"b2a | c'>ba | "C7"a2g | b>ag | "F"g2f | a>gf | "C7"c2e | g2b | "F"b2a | 
+c'>b a | "C7"a2g | b>a g/e/ |1 ("F"f3 | f)zz :|2  ("F"f3 | f)zd/f/ || [K:Bb] "Bb"bzd/f/ | bzd/f/ | bbb | bbb | 
+|: "Bb"d2f | d'2c' | c'2b | b2a | "F7"c2e | g2f/e/ | g2f/e/ | "Bb"d3 | d2f | d'2c' | c'2b | b2a | 
+"F"c=Bc | a2f | "C7"g2=e |1 "F"fzz :|2 "F"f =e/f/ e/f/ || "F7"_e/e/ ec' | z d/e/ d/e/ | "Bb"d/d/db | z ^c/d/ c/d/ | "F7"=c/c/cg | zf>e | 
+"Bb"dfd' | z=e/f/ e/f/ | "F7"_e/e/ ec' | zd/e/ d/e/ | "Bb"d/d/db |  z ^c/d/ c/d/ | "F7"=c/c/cg | zfa | "Bb"B>BB | Bzz |] 
+% Apr 11, 2016
+
+X:2
+T:Walzer (nach Stamm) CGF 5-
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+((3G/2A/2B/2) | "C"c3 | c3 | c c/2c/2 c/2c/2 | ccc | e3 | e3 | e e/2e/2 e/2e/2 | eee | "G7"gz g/2g/2 | gz g/2g/2 | 
+gzz | z2 g/2f/2 |: [K:Gmaj] "C"e>^de | G2 g/2f/2 | e>^de | G2f/2e/2 | "G7"d>^c d/2=c/2 | B>G A/2B/2 | "C"c/2B/2 c/2d/2 e/2f/2 | 
+g2g/2f/2 | e>^de | G2g/2f/2 | e>^de | G2f/2e/2 | "G"d>^c d/2e/2 | d>=cB | "D7"d>c A/2B/2|1 "G"Gzg/2f/2 :|2 "G"Gzz || 
+[K:Cmaj] |:"G7"G2B | d2f | "C"f2e | g>fe | "G7"e2d | f>ed | "C"d2c | e>dc | "G7"G2B | d2f | "C"f2e | 
+g>f e | "G7"e2d | f>e d/2B/2 |1 ("C"c3 | c)zz :|2 ("C"c3 | c)zA/2c/2 || [K:Fmaj] "F"fzA/2c/2 | fzA/2c/2 | fff | fff | 
+|: "F"A2c | a2g | g2f | f2e | "C7"G2B | d2c/2B/2 | d2c/2B/2 | "F"A3 | A2c | a2g | g2f | f2e | 
+"C"G^FG | e2c | "G7"d2=B |1 "C"czz :|2 "C"c =B/2c/2 B/2c/2 || "C7"_B/2B/2 Bg | z A/2B/2 A/2B/2 | "F"A/2A/2Af | z ^G/2A/2 G/2A/2 | "C7"=G/2G/2Gd | zc>B | 
+"F"Aca | z=B/2c/2 B/2c/2 | "C7"_B/2B/2 Bg | zA/2B/2 A/2B/2 | "F"A/2A/2Af | z ^G/2A/2 G/2A/2 | "C7"=G/2G/2Gd | zce | "F"F>FF | Fzz |] 
+
+X:3
+T:Walzer (nach Stamm) EbBbAb (5letras)
+M:3/4
+L:1/4
+K:Ebmaj%%MIDI gchordon
+((3B/2c/2d/2) | "Eb"e3 | e3 | e e/2e/2 e/2e/2 | eee | g3 | g3 | g g/2g/2 g/2g/2 | ggg | "Bb7"bz b/2b/2 | bz b/2b/2 | 
+bzz | z2 b/2a/2 |: [K:Bbmaj] "Eb"g>^fg | B2 b/2a/2 | g>^fg | B2a/2g/2 | "Bb7"f>=e f/2_e/2 | d>B c/2d/2 | "Eb"e/2d/2 e/2f/2 g/2a/2 | 
+b2b/2a/2 | g>^fg | B2b/2a/2 | g>^fg | B2a/2g/2 | "Bb"f>=e f/2g/2 | f>_ed | "F7"f>e c/2d/2|1 "Bb"Bzb/2a/2 :|2 "Bb"Bzz || 
+[K:Ebmaj] |:"Bb7"B2d | f2a | "Eb"a2g | b>ag | "Bb7"g2f | a>gf | "Eb"f2e | g>fe | "Bb7"B2d | f2a | "Eb"a2g | 
+b>a g | "Bb7"g2f | a>g f/2d/2 |1 ("Eb"e3 | e)zz :|2 ("Eb"e3 | e)zc/2e/2 || [K:Abmaj] "Ab"azc/2e/2 | azc/2e/2 | aaa | aaa | 
+|: "Ab"c2e | c'2b | b2a | a2g | "Eb7"B2d | f2e/2d/2 | f2e/2d/2 | "Ab"c3 | c2e | c'2b | b2a | a2g | 
+"Eb"B=AB | g2e | "Bb7"f2=d |1 "Eb"ezz :|2 "Eb"e =d/2e/2 d/2e/2 || "Eb7"_d/2d/2 db | z c/2d/2 c/2d/2 | "Ab"c/2c/2ca | z =B/2c/2 B/2c/2 | "Eb7"_B/2B/2Bf | ze>d | 
+"Ab"cec' | z=d/2e/2 d/2e/2 | "Eb7"_d/2d/2 db | zc/2d/2 c/2d/2 | "Ab"c/2c/2ca | z =B/2c/2 B/2c/2 | "Eb7"_B/2B/2Bf | zeg | "Ab"A>AA | Azz |] 
+
+X:4
+T:Walzer (nach Stamm)  5letras (tranpose=3)
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+((3G/2A/2B/2) | "C"c3 | c3 | c c/2c/2 c/2c/2 | ccc | e3 | e3 | e e/2e/2 e/2e/2 | eee | "G7"gz g/2g/2 | gz g/2g/2 | 
+gzz | z2 g/2f/2 |: [K:Gmaj] "C"e>^de | G2 g/2f/2 | e>^de | G2f/2e/2 | "G7"d>^c d/2=c/2 | B>G A/2B/2 | "C"c/2B/2 c/2d/2 e/2f/2 | 
+g2g/2f/2 | e>^de | G2g/2f/2 | e>^de | G2f/2e/2 | "G"d>^c d/2e/2 | d>=cB | "D7"d>c A/2B/2|1 "G"Gzg/2f/2 :|2 "G"Gzz || 
+[K:Cmaj] |:"G7"G2B | d2f | "C"f2e | g>fe | "G7"e2d | f>ed | "C"d2c | e>dc | "G7"G2B | d2f | "C"f2e | 
+g>f e | "G7"e2d | f>e d/2B/2 |1 ("C"c3 | c)zz :|2 ("C"c3 | c)zA/2c/2 || [K:Fmaj] "F"fzA/2c/2 | fzA/2c/2 | fff | fff | 
+|: "F"A2c | a2g | g2f | f2e | "C7"G2B | d2c/2B/2 | d2c/2B/2 | "F"A3 | A2c | a2g | g2f | f2e | 
+"C"G^FG | e2c | "G7"d2=B |1 "C"czz :|2 "C"c =B/2c/2 B/2c/2 || "C7"_B/2B/2 Bg | z A/2B/2 A/2B/2 | "F"A/2A/2Af | z ^G/2A/2 G/2A/2 | "C7"=G/2G/2Gd | zc>B | 
+"F"Aca | z=B/2c/2 B/2c/2 | "C7"_B/2B/2 Bg | zA/2B/2 A/2B/2 | "F"A/2A/2Af | z ^G/2A/2 G/2A/2 | "C7"=G/2G/2Gd | zce | "F"F>FF | Fzz |] 

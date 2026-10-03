@@ -1,0 +1,18 @@
+X:2412
+T:[Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:Eb
+V: 12 clef=treble name="Violini II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 12 }]
+%-----------------------
+% "_[fol. 259]"
+[Q:"Presto"] G,//B,//G,//B,// G,/!trem2!B,/ B, z | \
+!//!E2 E z | z/B//B// F//F//D//D// B, z | z/>B/ B z2 | [G,E]2 !fermata! z2 || \
+[Q:"Andante"] [K: C] E/E/ z//C//F//E// D/D/ z//B,//E//D// | \
+C/E/E/E/ !/!E2 | F z C/z/ B,/z/ | C z z2 | z2 C/z/ B,/z/ |  C z c2 | \
+[Q:"Presto"] B//A//B//^f//  g1/4f1/4g1/4a1/4 b1/4g1/4b1/4g1/4 a1/4f1/4a1/4f1/4 | gzz2 | Z | \
+c1/2B1/4A1/4 G1/4F1/4E1/4D1/4 z2 | z//f//a//g// f//e//d//c// [BD] z | z [db] [ec']  z ||
+%-----------------------

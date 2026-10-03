@@ -1,0 +1,39 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Rosenwalzer  CF
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.270 (wz02014) orig. C,F
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T:Überliefert vermutlich durch Joggi Stocker (1889-1956)
+%%MIDI program 21
+%%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"E3E FG | G3E E2 | G3E GE |  "G7"DFF2z2 | DE FG AB | d2F4 |1 f3B Bf | "C"e2c4 :|2 
+F2D2F2 |  "C"E4z2 |: "G7"G4f2 | fe dc BA | "C"G4e2 | ed cB AG | "G7"F4B2 | B3FA2 |1 
+"C"A3GE2 | C6 :|2 "F"cc c2"G7"B2 | "C"c3z (3(cBc) |: [K:F] !>!"C7"b3g ec | "F"a3f cA | "C7"Bg ed cB | 
+"F"Ac fA cf | "C7"b3g ec | "F"a3f cA | "C7"Bg eB eg |1 "F"f3z(3(c=Bc) :|2 "F"f2z2z2 |] 
+% wz02014
+
+X:2
+T:Rosenwalzer  GC 5-
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.270 (wz02014) orig. C,F
+%%MIDI program 21
+%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"B,3B, CD | D3B, B,2 | D3B, DB, | "D7"A,CC2z2 | A,B, CD EF | A2C4 |1 c3F Fc | "G"B2G4 :|2 
+C2A,2C2 | "G"B,4z2 |: "D7"D4c2 | cB AG FE | "G"D4B2 | BA GF ED | "D7"C4F2 | F3CE2 |1 
+"G"E3DB,2 | G,6 :|2 "C"GG G2"D7"F2 | "G"G3z (3(GFG) |: [K:Cmaj] !>!"G7"f3d BG | "C"e3c GE | "G7"Fd BA GF | 
+"C"EG cE Gc | "G7"f3d BG | "C"e3c GE | "G7"Fd BF Bd |1 "C"c3z(3(G^FG) :|2 "C"c2z2z2 |] 
+% wz02014
+% Oct 3, 2016

@@ -1,0 +1,101 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:63. Galliard: The Fairie-round
+T:Cantus
+C: Anthony Holborne
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+L:1/4
+M:3/2
+K:C
+|:g2 e c2 A d2 B G2 c A3 d > c B c > B A G2 e d2 c B2 c
+f2 e d2 c B G c3 B c2 c c2 c :|
+|:G A B c > B A G2 A G2 f e2 d c2 B
+c > B A G2 e d2 e2 f e d4 c2 c e d2 c2 B2 B B2 B :|
+|:g2 G B2 c 
+d2 G d2 e f3 e d c B6  E F/ G/ A F G/ A/ B/ A/ G A/ B/ c A B/ c/ d/ c/ B G c3 B c2 c c2 c :|
+
+X:2
+T:63. Galliard: The Fairie-round
+T:Altus
+C: Anthony Holborne
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+L:1/4
+M:3/2
+N:Original clef, C on fourth line
+K:C
+|: G2 c2 A F2 D2 D G2 F2 A2 G2 G2 F E2 G G > F E D2 G
+A B c A2 G G2 G G G2 E6 :|
+|:E2 F G2 C/ D/ E2 F G E A B G A G2 F
+E E C/ D/ E > F G G2 G2 d c B A G2 G2 G2 G3 ^F G2 G G2 G :|
+|:G2 D G2 E
+D2 D G2 G F/ G/ A/ B/ c2 A2 G3 F/ E/ D2 C > D E D > E F E> F G F2 A G2 G G G2 E2 E E2 E :|
+
+X:3
+T:63. Galliard: The Fairie-round
+T:Quintus
+C: Anthony Holborne
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+L:1/4
+M:3/2
+%%MIDI transpose -12
+N:Original clef, C on third line
+K:C -8va
+|:e2 g e c2 d f g d e2 A a f > e d2 e2 c2 c2 d2 g d2 e
+A d g f2 e d2 e2 d2 c6 :|
+|:c2 B G2 A/ B/ c2 c c g f g2 d e2 d
+c c z G c2 d2 c e d3 c B A G A/ B/ c2 d B c2 d2 d d2 d :|
+|: d2 B d2 c
+B2 d d2 G d2 g2 f e d2 e d/ c/ B2 G A/ B/ c A B/ c/ d/ c/ B c/ d/ e c d/ e/ f/ e/ d2 e2 d2 c2 c c2 c :|
+
+X:4
+T:63. Galliard: The Fairie-round
+T:Tenor
+C: Anthony Holborne
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+L:1/4
+M:3/2
+%%MIDI transpose -12
+N:Original clef, C on fourth line
+K:C -8va
+|: G2 G2 A2 A2 B2 c3 A2 A B/ c/ d c G A/ B/ c G2 G2 G > A B G
+d2 G A > B c d2 G4 G4 G2 :|
+|: z2 z z G A/ B/ c > B A c > e d > c B A/ B/ c2 F
+G2 A/ B/ c2 G G3 c A2 B c d2 z2 G2 G2 C2 G2 G G2 G :|
+|:B > c d B G2 
+G > A B > c d c/ B/ A2 G2 A2 B2 G4 G2 E A D2 G3 A3 B2 c2 d2 G2 G G2 G :|
+
+X:5
+T:63. Galliard: The Fairie-round
+T:Bassus
+C: Anthony Holborne
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+L:1/4
+M:3/2
+%%MIDI transpose -24
+K:C bass
+|:c2 c2 f2 d2 g2 e2 f2 d2 g2 c2 f c2 c B2 c g > f e 
+d2 e f2 c g2 e c g G c6 :|
+|:c2 d e c f e c f e c d g2 f e c d
+e c f e c2 B2 c2 d2 g3 f e d c2 B G A2 G2 G G2 G :|
+|:G2 G G2 G 
+G2 G G2 c d2 e2 f2 g2 G2 G2  c3 d3 e3 f3 g2 e c g G c2 c c2 c :|

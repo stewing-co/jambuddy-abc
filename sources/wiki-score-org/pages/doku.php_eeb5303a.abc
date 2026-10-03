@@ -1,0 +1,34 @@
+X:103
+T:[Orchestras]
+C:Giuseppe Totti (17__-1832)
+M:C
+L:1/4
+K:Bb
+V: 3 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 3 )]
+%----- edit between the lines ----
+[Q:"Allegro com spirito"]  !f! b>fb>f | bbbz | Z12 | z1 a a a | b b2 b |
+a a c' a | b b2 b | a z3 | Z5 | b>f b>f|d'3 b| g>dg>d | b3 g| =e b b b |
+a z3|  z b b b | a z z/2 c'/4b/4 a/4g/4f/4e/4 | d  z3 |
+z/2  d/2d/2d/2 d/2e/4f/4 g/4a/4b/4c'/4 | d' z c' z | b z a z | g z a z |
+b z a z | g/2c'/2c'/2c'/2 c'/2=b/4a/4 g/4f/4e/4d/4| c z3 | z =e f f |
+=e g a a | g z3 | z2 z/2 c/2c/2c/2| "^legato" f>a g>c' | b/2a/2g/2f/2 =e/2d/2b/2g/2 |
+d'/2c'/2 c'2 =e | f z3 | Z | z/4 B/4c/4d/4 =e/4f/4g/4a/4 b/2b/4a/4 g/2g/4f/4 |
+=e z3 | Z5 | z/4 d/4=e/4f/4 g/4a/4b/4c'/4 d'/2d'/4c'/4 b/2b/4a/4 | g z \
+b/4a/4g/4f/4 e/4d/4c/4B/4| A z =e2 | f z3 | z2 ^f2| g z3 | b4 | a4 | b4 |
+a z3| c'/4d'/4c'/4b/4 a2 g | f z3 | Z2 | a3 g | f f a f | f c c c | c z3 | Z2|
+z3 g/2-a/2 | a/2-b/2 b2 c'/4b/4a/4g/4 | a z3 | Z2 | z2 z/2 a/2b/2c'/2 |
+b2 a/2 (a/2b/2c'/2) | {c'}b a2 g | !f! f>c f>c | f f f z | Z | f z f z | f z3 |
+Z13| z c/2d/2 e/2e/2 {f}e/2d/4c/4 | g z3 | z =b c' c' | =b z3 | z f g g \
+|f z3 | z f g g| f/2g/2f/2/g/2 {b}_a g/2f/2 | e>B e>B | g3 e | b>g b>g | e z g z |
+g z3 | z a a a | b z b z | z a a a | b z f z | g z z/4 G/4A/4B/4 c/4d/4e/4f/4 |
+g z f z | e z d e | c z d z | e z d z | c/2f/2 f/2f/2 f/2=e/4d/4 c/4B/4A/4G/4 |
+F z3 | z a b b |a c d d |c z3 |
+z2 z/2 f/2f/2f/2| b>d c>f | e/2d/2c/2b/2 A/2G/2e/2c/2 | g/2f/2 f2 A | B z3 |
+z/4 G/4A/4B/4 c/4d/4e/4f/4 g/2g/4f/4 e/2e/4d/4 | c z3 | Z6 |
+z/4 G/4A/4B/4 c/4d/4e/4f/4 g/2g/4f/4 e/2e/4d/4 | c z c'/4b/4a/4g/4 f/4e/4d/4c/4 |
+d !f! b a2 | b z3 | z f/2^f/2 g>=f | e z3 | e4 | e4 |d z3 | d2 c2 | d z3 | Z2 |
+d2 c2 | d z3 | X| z g f z | Z2| z a z b | z g f a | b g f a | b b b b |
+b d d d | d z f z| f z3  |]
+%---------------------------------

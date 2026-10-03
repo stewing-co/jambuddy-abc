@@ -1,0 +1,42 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Klettgauer-Schottisch CG chords
+T:Bottminger-Polka
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.345 (st04911) orig. CG-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"g3^f gc'e2 | "G7"f2B2 {c}BAB2 | f3e fbd2 | "C"a2c2 {d}cBc2 | g3^f gc'e2 | "G7"g2B2 {c}BAB2 | f3e faB2 | "C"c2e2 c2z2 ::
+"C"cde2 "G7"def2 | "C"efg2g4 | "G7"def2 !>!f4 | "C"cde2 !>!e4 | cde2 "G7"def2 | "C"efg2 "F"f2a2 | "C"g3g "G7"gfed | "C"c2c2 c2z2 :: [K:G] 
+"G"dddd b2d2 | "C"e3c' "G"b2Bc | dddd b2d2 | "D7"c3a "G"g2Bc | dddd b2d2 | "C"e3c' "G"b2g2 | dddd "D7"c'2ba | "G"g2g2 g2z2 :| 
+
+X:2
+T:Klettgauer-Schottisch FC 7- chords
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+"F"c3=B cfA2 | "C7"B2E2 {F}EDE2 | B3A BeG2 | "F"d2F2 {G}FEF2 | c3=B cfA2 | "C7"c2E2 {F}EDE2 | B3A BdE2 | "F"F2A2 F2z2 ::
+"F"FGA2 "C7"GAB2 | "F"ABc2c4 | "C7"GAB2 !>!B4 | "F"FGA2 !>!A4 | FGA2 "C7"GAB2 | "F"ABc2 "Bb"B2d2 | "F"c3c "C7"cBAG | "F"F2F2 F2z2 :: [K:Cmaj] 
+"C"GGGG e2G2 | "F"A3f "C"e2EF | GGGG e2G2 | "G7"F3d "C"c2EF | GGGG e2G2 | "F"A3f "C"e2c2 | GGGG "G7"f2ed | "C"c2c2 c2z2 :| 
+
+X:3
+T:Klettgauer-Schottisch EbBb (5letras) cf. CG
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+"Eb"b3=a be'g2 | "Bb7"a2d2 {e}dcd2 | a3g ad'f2 | "Eb"c'2e2 {f}ede2 | b3=a be'g2 | "Bb7"b2d2 {e}dcd2 | a3g ac'd2 | "Eb"e2g2 e2z2 ::
+"Eb"efg2 "Bb7"fga2 | "Eb"gab2b4 | "Bb7"fga2 !>!a4 | "Eb"efg2 !>!g4 | efg2 "Bb7"fga2 | "Eb"gab2 "Ab"a2c'2 | "Eb"b3b "Bb7"bagf | "Eb"e2e2 e2z2 :: [K:Bbmaj] 
+"Bb"ffff d'2f2 | "Eb"g3e' "Bb"d'2de | ffff d'2f2 | "F7"e3c' "Bb"b2de | ffff d'2f2 | "Eb"g3e' "Bb"d'2b2 | ffff "F7"e'2d'c' | "Bb"b2b2 b2z2 :| 
+
+X:4
+T:Klettgauer-Schottisch AbEbBb (5letras) cf. FC
+M:2/4
+L:1/16
+K:Abmaj%%MIDI gchordon
+"Ab"e3=d eac2 | "Eb7"d2G2 {A}GFG2 | d3c dgB2 | "Ab"f2A2 {B}AGA2 | e3=d eac2 | "Eb7"e2G2 {A}GFG2 | d3c dfG2 | "Ab"A2c2 A2z2 ::
+"Ab"ABc2 "Eb7"Bcd2 | "Ab"cde2e4 | "Eb7"Bcd2 !>!d4 | "Ab"ABc2 !>!c4 | ABc2 "Eb7"Bcd2 | "Ab"cde2 "Db"d2f2 | "Ab"e3e "Eb7"edcB | "Ab"A2A2 A2z2 :: [K:Ebmaj] 
+"Eb"BBBB g2B2 | "Ab"c3a "Eb"g2GA | BBBB g2B2 | "Bb7"A3f "Eb"e2GA | BBBB g2B2 | "Ab"c3a "Eb"g2e2 | BBBB "Bb7"a2gf | "Eb"e2e2 e2z2 :| 
+%Dec13,2015

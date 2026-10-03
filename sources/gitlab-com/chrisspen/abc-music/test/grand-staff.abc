@@ -1,0 +1,17 @@
+X:1
+T:Passacaglia
+C:H.I.F.Biber/G.A.Sautscheck
+M:3/4
+L:1/4
+K:C
+Q:100
+%%staves {V1 V2}
+V: V1 clef=treble-8
+V: V2 clef=bass-8
+[V: V1] x3 | x3 | x3 | x3 | x ^A3/ c/ | [fA]3 | x ^A3/ c/ |
+[V: V2] G,3 | F,3 | E,3 | D,3 | G,3 | F,3 | E,3 |
+[V: V1] [fd]3 | x ^A3/ c/ | ([fc] A2) | f c g | ^f3/ e/ d | x3/ ^A/ ^d | x3/ A/ d |
+[V: V2] D,3 | G,3 | F,3 | E,3 | D,3 | G,3 | F,3 |
+[V: V1] x3/ ^A/c | x3/ ^f/ A | x/3^A// ^d/(G/F/)D/ |
+[V: V2] E,3 | D,3 | G,3 | 
+

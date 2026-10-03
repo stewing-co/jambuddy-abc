@@ -1,0 +1,31 @@
+I:abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X: 1
+T: Male, Male (Schottisch) F chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.392 (st11568) orig. F-Dur
+T: Tänze aus Altdorf (Uri)
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"c>c dc | aaa2 | a>a gf | "C7"e4 | c>c dc | bbb2 | bb ag | "F"a4 :: "Bb"db bb | "F"aa f2 | 
+"C7"gg ee | "F"fa fz :: "F"c'2a2 | c'2a2 | aa gf | "C7"egg2 | b2g2 | b2g2 | ec ag | "F"fa fz :| 
+W:
+W: Anmerkung Hrsg.: Teil B: erster Takt bei H.C. \"uberz\"ahlig (gestrichen)
+
+X:2
+T:Male, Male (Schottisch) C 5- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"G>G AG | eee2 | e>e dc | "G7"B4 | G>G AG | fff2 | ff ed | "C"e4 :: "F"Af ff | "C"ee c2 | 
+"G7"dd BB | "C"ce cz :: "C"g2e2 | g2e2 | ee dc | "G7"Bdd2 | f2d2 | f2d2 | BG ed | "C"ce cz :| 
+
+X:3
+T:Male, Male (Schottisch) G 10- chords
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"D>D ED | BBB2 | B>B AG | "D7"F4 | D>D ED | ccc2 | cc BA | "G"B4 :: "C"Ec cc | "G"BB G2 | 
+"D7"AA FF | "G"GB Gz :: "G"d2B2 | d2B2 | BB AG | "D7"FAA2 | c2A2 | c2A2 | FD BA | "G"GB Gz :| 

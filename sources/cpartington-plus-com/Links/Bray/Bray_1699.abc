@@ -1,0 +1,769 @@
+%abc
+%%abc-alias My music
+%%abc-creator ABCexplorer 1.6.1 [03/05/2024]
+%THOMAS BRAY'S COUNTRY DANCES, 1699
+%Being a composition entirely new;
+%and the whole cast different from all that have yet been publish'd;
+%with bass and treble to each dance.
+%Also, the newest French dances in use, entryes, genteel and
+%grotesque, chacons, rigodoons, minuets, and other dancing tunes.
+%By Thomas Bray.
+%From a transcription by John Chambers in 2011, but with
+%the modern alto line and guitar chords removed by
+%Chris Partington, 2024
+
+X:0
+T: Thomas Bray's Country Dances 1699
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 (1988 edition by Christine Helwig and Marshall Barron)
+B: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bray1699 [photocopy]
+K:
+%%text This collection is transcribed from two sources:
+%%text 1. Christine Helwig and Marshall Barron's 1988 edition
+%%text 2. Photocopies of the original at www.vwml.org
+%%begintext align
+%% Both versions have problems. The Helwig/Baron edition is a  edition, which
+%% includes a middle voice of unknown origin, and is in modern notation
+%%(edit-removed in this edition). The original has
+%% the bass lines upside-down under the melody, which can be difficult to read on computer
+%% screens. Also, the original has the dance and music on different pages, with no titles
+%% on the music pages, so it's not clear which tune goes with which dance. I've used Helwig
+%% & Barron's mapping, but don't know why they decided what they did.
+%%endtext
+%%sep 5 1 500
+%%sep 1 5 500
+%%center to
+%%center His Highness the DUKE
+%%center of
+%%center GLOUCESTER.
+%%begintext align
+%% The unspeakable Honour which your Highness is pleased to bestow upon
+%% this Trifle, is such, that a pen more powerfull than I can pretend
+%% to, is not in any measure able to express it; But as your Highness
+%% has been pleas'd to Illustrate it by your Patronage, I have no reason
+%% to doubt, Sir, Your Pardon for the Authors presumption, in aspiring to such a
+%% Heighth, as Dedicating a work so worthless in it self, that it has nothing but
+%% Your Highnesses Espousal to Recommend it; And as it is Honour'd with so
+%% Glorious, and Youthfull a Champion, to fight its Cause, I need not dispute, but may
+%% with confidence assure my self of its Success and reception; For tho' it may want
+%% Beauties to Insinuate its self into the favour of some, yet the Nobleness of the
+%% Patron will assuredly plead for its Defects, and make it passable to all. And since
+%% Your Highness has pleas'd to Patronize this, I dare not question, but your
+%% Highness will also give the unworthy Author the liberty of Subscribing himself,
+%%endtext
+%%center Your Highnesses most Dutifully Obedient,
+%%center and devoted Servant,
+%%center Tho. Bray.
+%%sep 1 1 500
+
+X:1
+T: GLOUCESTER. TBr.01, THE
+Z:Amended by Chris Partington, 2024
+T: Round O
+C: John Lenton (1657-1719)
+M: 6/4
+L: 1/8
+Q: 3/4=80
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.4-5
+W:"A French Dance Composed by Mr Isaac"
+W: Longways for three couples
+K:Gm
+V: 1
+[P:A] d2 |B3AB2  G4b2 | a4g2  f3ed2 | e3de2  c2f2e2 | d6  B3cd2 |\\
+e2d2e2  c2f2e2 | d2g2f2  =e2a2e2 | ^f2d2g2  g4^f2 | g6  G4 :|
+[P:B] A2 |B3AB2 G2c2B2 | A6 F2f2e2 | d2g2f2 e2c2f2 | d6 B2c2d2 |\\
+e2c2f2 f2B2e2 | c2A2d2 B2G2e2 | d2c2B2 B4A2 | A6 D4 ||
+[P:C] a2 |b2a2g2 f2e2d2 | e6 c2f2e2 | d2c2B2 A2d2c2 | =B6 c2d2e2 |\\
+f2d2B2 b2f2d2 | e2g2c2 A2c2f2 | d2g2f2  =e2a2e2 | ^f6 d4 |]
+%
+V: 2 clef=bass
+G,2 |G,6 E,6 | C,6 D,4 G,2 | C,6 F,6 | B,,6- B,,4B,,2 |
+C,6 F,4A,,2 | B,,4=B,,2 C,4A,,2 | D,6 D,,6 | G,,6 G,,4 :|
+D,2 |G,,6 C,6 | F,,6 f,,4A,,2 | B,,6 C,4A,,2 | B,,6 B,6 |
+a,,6 g,,6 | A,4^F,2 G,6 | ^F,4G,2 G,,6 | D,6- D,4 ||
+D,2 |G,6 D,4G,2 | C,6 F,6 | ^F,6- F,4D,2 | G,4=F,2 E,6 |
+D,4G,2 G,,2A,,2B,,2 | C,6 F,6 | B,,4=B,,2 C,4A,,2 | D,6- D,4 |]
+
+X:2
+T: DUKE OF GLOUCESTER'S MARCH. TBr.02, THE
+Z:Amended by Chris Partington, 2024
+R: March
+M: C|
+L: 1/8
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.6
+C: From The Indian Queen, by Henry Purcell
+Q: 1/2=72
+K:F
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 1
+|:f2e>g f2c2 | f2e>g f2c2 | f>g f>g (Tg3f/g/) | a2 f4 a2 |\\
+c'2f>a g2c>f |
+d2B>d G2d>g |\\
+e2c>e d2=B2 | c8 :: g2d>f e2c>e | g2d>f e2c2 |\\
+fcdc BAGF |
+E2 G4 Gc |\\
+A2A>d c2c>e | d2d>f e2g>b | a2f>a g2e2 | f8 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 2 clef=bass
+|:F,,2C,2 F,2E,2 | D,2C,2 F,2 E,2 | D,2A,,2 B,,2C,2 | F,2 F,,4 G,,>A,, |
+A,,>G,, A,,>F,, C,2A,,2 | B,,4 =B,,2G,,2 | C,2E,,2 F,,2G,,2 | C,,8 :|
+|:C2=B,2 C2A,2 | G,2G,,2 C,2C2 | A,2F,2 B,2B,,2 | C,2C,D, E,D, E,C, |
+F,2F,G, A,G, A,F, | B,A, B,G, CC, E,C, | F,2A,,2 B,,2C,2 | F,,8 :|
+
+X:3
+T: ST. JAMES'S HOUSE. TBr.03
+Z:Amended by Chris Partington, 2024
+T:Rigodoon,aka
+M: 6/4
+L: 1/4
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.10
+Q: 3/4=80
+K:F
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 1
+a |f2e (fb)g | (ea)d (^ce)a |f2e (fb)a | f3 e2a |\\
+f2e (fb)g | (ea)d ^cea |
+f>ge e2d | d3- d2A/B/ |c3 ^c3 | def efg |\\
+fga gab | afc fcA |cAF fge |
+f3- f2g/a/ |b3 g3 | ab/a/g/f/ ga/g/f/e/ |\\
+fg/f/e/d/ ^c/d/eA | d3 e3 |fe/f/d/f/ e^c2 | d3- d2 |]
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 2 clef=bass
+D, |D,2^C, D,2E, | A,2B, A,2^C, | D,2A,, D,2^C, | D,3 A,2^C, |
+D,2^C, D,2E, | A,2B, A,2^C, | D,2G,, A,,3 | D,3- D,2F, |
+E,3 A,3 | D,2=B,, C,2C, | F,3 C,3 | F,3- F,3 |
+F,3 C,3 | F,,3 F,2E, | D,3 E,3 | F,2-F, E,2-E, |
+D,2G, A,2F, | B,3 A,3 | D,3 A,,3 | D,3- D,2|]
+
+X:4
+T: LINCOLN'S INN GARDEN. TBr.04
+Z:Amended by Chris Partington, 2024
+T:Highland Lass,aka
+T:Jumper's Chase,aka
+M: 3/2
+L: 1/8
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.12
+Q: 1/2=80
+K:Bb
+%----------------------------------------
+V: 1
+|:f4 d4 (ga) (gf) | g2 b4 d2 c2B2 |\\
+f2d2 B3A GAB2 | ABc2 f2A2 G2F2 :|\\
+|:D2F2 Bcd2 G4 | g3g f2e2 d2c2 |
+A2c2 fga2 d2a2 | b3a g2ab g2f2 |\\
+b2a2 g2f2 b2d2 | gfed c2B2 c2F2 |\\
+GAB2 ABc2 def2 | g3f e2d2 c2B2 :|
+%----------------------------------------
+V: 2 clef=bass
+|:B,,8 B,,2-B,,2 | E,4 B,,4 F,2B,,2 | A,,2B,,2 E,4 =E,4 | F,4 A,,2F,,2 C,2F,,2 :|
+|:B,,8 E,4 | E,4 D,2C,2 G,2C,2 | F,8 F,4 | G,3F, =E,2F,2 C,2F,2 |
+D,4 _E,2D,2 G,2G,2 | E,4 F,2B,,2 F,2D,2 | E,4 F,4 B,,4 | E,3D, C,2B,,2 F,2B,,2 :|
+
+X:5
+T: SPRING. TBr.05, THE
+Z:Amended by Chris Partington, 2024
+M: C|
+L: 1/8
+Z: 2011,2014 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.14
+C: from The Island Princess by Jeremiah Clark
+Q: 1/2=76
+K:Gm
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 1
+[|] G2 |d4 c2dc | B2c2 A2d2 |^F2D2 G2A2 | A4 G4 :|\\
+|:f2dc B2d2 | e2cB A2F2 |
+B2fe d2gc | c4 B2 f2 |b4 a2b2 | g2a2 ^f2d2 |\\
+g2dc B2eA | A4 G4 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+V: 2 clef=bass
+G,2 | G,4- G,2^F,2 | G,2C,2 D,2B,,C, | D,2D,C, B,,2C,2 |D,4 G,,4 :|
+|: A,,2B,,C, D,2B,,2 | C,2E,2 F,2F,E, | D,2F,2 B,2E,2 | F,4 B,,4 |
+B,,4 F,4 | G,4 D,4 | B,,2^F,,2 G,,2C,2 | D,4 G,,4 :|
+% - - - - - - - - Dance description - - - - - - - -
+%%center The Spring, a New Country Dance.
+%%begintext align
+%% The first and second Man move up two or three steps, and turn back to the left to their own places
+%% again; We. move down at the same time and do the same .| Each Man changing places with his
+%% Wo. with the right Hand, Men with their faces down, We. with theirs up, then all turn single to the
+%% left Hand from each other, to each others place; Men being Improper :| First Man and second Wo. goes
+%% half round their own Partners on the outside, and turn right Hands round, the first Man ends below,
+%% the second Wo. above .| The first Wo. and second Man do the same after them :| And so to the end
+%%endtext
+
+X:6
+T:WOMAN'S THE MAN. TBr.06, THE
+Z:Amended by Chris Partington, 2024
+M: C|
+L: 1/8
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.16
+Q: 1/2=80
+K:G
+%----------------------------------------
+V: 1
+|:GA BG d2B2 | e2fg f4 |gd eB cA BF | GE AG F2D2 |\\
+GA BG d2 B2 |
+e2fg f4 |gfed ^cA dB | ^cded d4 :|\\
+|:af df g2f2 | eg fe ^d4 |
+eB cA BGAB | AGFE E4 |\\
+cB AG F2D2 | GA Bc d4 |\\
+BcdB efed | cB AG G4 :|
+%----------------------------------------
+V: 2 clef=bass
+|:G,,4 G,,A,, B,,G,, | C,2 A,,2 D,E,D,C, | B,,2G,,2- G,,2D,2 | D,2^C,2 D,=C,B,,A,, |
+G,,4 G,,A,, B,,G,, | C,2A,,2 D,C,B,,A,, | G,,4 A,,2F,,D,, | A,,4 D,4 :|
+|:D,4 B,,4 | C,4 B,,A,,G,,F,, | E,,6 A,,2 | B,,4 E,,4 |
+A,,4 D,E, D,C, | B,,2G,,2 F,,2D,,2 | G,,4 C,4 | D,4 G,,4 :|
+
+X:7
+T: ROSAMOND'S POND. TBr.07
+Z:Amended by Chris Partington, 2024
+M: C|
+L: 1/8
+Z: 2011,2014 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.18
+Q: 1/2=88
+K:Dm
+%----------------------------------------
+V: 1
+[|] e2 |f2gf e2fe | d2e2 ^c2a2 |\\
+e2g2 f2e2 | f2e2 d2 e2 |\\
+f2c2 f2B2 | f2A2 G2g2 |\\
+c2f2 g2e2 | f6 :|
+|: A2 |A2AB c2f2 | c2A2 c2f2 |\\
+c2BA B2AG | F2E2 F2 g2 |\\
+a4 g2ag | f2gf e2(fe/f/) |\\
+g2ed ^c2ae | f2e2 d2 :|
+%----------------------------------------
+V: 2 clef=bass
+z2 | D2D,2 C,2C2 | B,2G,2 A,2A,,2 | ^C,2A,,2 D,2G,,2 | A,,2A,2 D,4 |
+A,4 G,4 | F,4 E,4 | F,2A,,2 B,,2C,2 |F,6 :|
+|: z2 |F,4 F,,4 | F,4 A,,4 | F,4 B,,4 | C,4 F,2E,2 |
+F,4 E,4 | D,4 ^C,2A,,2 | G,,2B,,2 A,,2A,G, | A,2A,,2 D,2 :|
+% - - - - - - - - Dance description - - - - - - - -
+%%center Rosamond Pond, a New Country Dance.
+%%begintext align
+%% The 1st Man take Hands with the 2d Wo. and left Hands a cross and turn S. both to the right
+%% Hand to their own places again; the 1st Wo. and 2d Man go half round, to each others place
+%% at the same time, then the 1st Wo. and 2d Man take right hands, and left Hands a cross, and turn S. to
+%% the right Hand to the same place again, and the 1st Man and 2. Wo. go half round at the same time .|
+%% Then the same thing again till they all come to their proper place as at first :| The 1st Man and 2d
+%% Wo. change places with both Hands, and turn S. to the right Hand, to each others place, the 1st Wo. and
+%% 2d Man do the same after them .|1st Man take his Wo. by both hands, and put her from him, till
+%% they come above, 2d Man take his Wo. by both Hands at the same time, and pull her to him till they come
+%% below, then the 1st cu. cross over and meet below; the 2d cu. cross up the middle and meet above .|
+%% And so to the end.
+%%endtext
+
+X:8
+T:PARSON'S CAP. TBr.08, THE
+Z:Amended by Chris Partington, 2024
+T:French Ambassador,aka, The
+M: C|
+L: 1/8
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.20
+Q: 1/2=92
+K:Bb
+%----------------------------------------
+V: 1
+[|] f2 | d2B2 F2A2 |B6 f2 | g2f2 gab2 | a6 g2 |\\
+f2d2 e2f2 | g2e2 c2g2 |_a2gf =efge | f6 :|
+f2 |g2f2 g2a2 | b2d2 d2d2 |g3a b2ag | ^f6 =ef |\\
+g2d2 d2cd | e2c2 c2Bc |d2cB ABAG | G6 G2 |
+A3B ABcd | c2F2 F2F2 |B3c d2cB | f6 ga |\\
+b2d2 g2c2 | f2B2 A2f2 |d2cB F2A2 | B6 |]
+%----------------------------------------
+V: 2 clef=bass
+z2 | B,,6 F,2 | D,2B,,2 F,,2D,,2 | E,,2D,,2 E,,F,,G,,2 | F,,4 F,2E,2 |
+D,2B,,2 C,2D,2 | E,2G,2 _A,2G,2 | F,2B,,2 C,2C,,2 |F,,6 :|
+F,2 |E,2D,2 E,2F,2 | G,4 F,4 | E,2D,2 C,4 | D,4 D2C2 |
+B,6 A,2 | G,4 A,2A,,2 | B,,2C,2 D,2D,,2 | G,,4 G,4 |
+F,4 F,,4 | F,6 E,2 | D,2C,2 B,,3C, | D,2C,B,, F,2E,2 |
+D,4 E,4 | D,2E,2 F,2A,,2 | B,,2E,2 F,2F,,2 | B,,6 |]
+
+X:9
+T:WIVES' VICTORY. TBr.09, THE
+Z:Amended by Chris Partington, 2024
+M: 6/8
+L: 1/8
+Z: 2011,2014 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.22
+Q: 3/8=92
+K:Gm
+%----------------------------------------
+V: 1
+[|] d |g>^fg a>ga | b>ag f>ed |\\
+g2d c>dB | A3- A2 B/c/ |d2z A2z |
+B2z f2z |c>de c2B | B3- B2 :|\\
+|: d/e/ |f>gf B>cd | e>dc d>=ef |
+=e>^fg a2b | ^f3- f2d/c/ |\\
+B2z e2z | A2z d2z |\\
+G>AB B>AG | G3- G2 :|
+%----------------------------------------
+V: 2 clef=bass
+G, |G,zz D,zz | G,,zz D,zz | E,zz C,zz |
+D,3- D,2D/2C/2 | B,>A,G, F,>E,D, | G,>F,E, D,>C,D, | E,>D,C, F,2F,, |
+B,,3- B,,2 :|
+|: B,, |B,,zz B,zz | A,zz =B,zz | Cz _B, A,z G, |
+D3- D2B,/2A,/2 | G,>^F,G, C,>D,E, | =F,>E,F, B,,>C,D, | E,>D,C, D,2D,, | G,,3- G,,2 :|
+% - - - - - - - - Dance description - - - - - - - -
+%%center The Wives Victory, a New Country Dance.
+%%begintext align
+%% The 1st Man take his Wo. by both hands, and pull her to him, and put her from him in the
+%% middle of the Room; the 2d Man puts his Wo. from him at the same time, and pulls her to him,
+%% till he comes into the middle of the Room, with his right shoulder to the 1st Wo. then the 2d Man and
+%% 1st Wo. change places with the right Hand, the 1st Wo. turns to her left hand into her Mans place, as at
+%% first; the 1st Man and 2d Wo. go half round at the same time, to their own Partners place as at first .|
+%% The same again, only the 1st Man and 2d Wo. must be with their right Shoulders to each other in the
+%% middle of the Room, and change places with the right Hand, and both turn to the left Hand to their proper
+%% places as at first, and the 1st Wo. and 2d Man go half round, at the same time to their places as at
+%% first :| Then both the Men change places with their We. with the right Hand, and back again with the
+%% left; 1st Man cross over with the 2d Wo. the other cu. do the same after them .| All four Hands half
+%% round to the left Hand, and all turn S. then all four Hands half round to the left Hand again, and each
+%% Man change places with his own :| And so to the end.
+%%endtext
+
+X:10
+T: GLEAMHAM HALL. TBr.10
+Z:Amended by Chris Partington, 2024
+M: 6/4
+L: 1/8
+Z: 2011,2014 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p._
+N: Duple minor longways
+N: Removed extra bass f note in bar 8.
+Q: 3/4=80
+K:Bb
+%----------------------------------------
+V: 1
+[|]F2 |BABcB2 cBcdc2 | d6 B4f2 |\\
+d2c2B2 A4B2 | c6- c4F2 |\\
+BABcB2 cBcdc2 |
+d6 B4d2 |c2B2A2 G4F2 | F6- F4 :|\\
+|: c2 |cBcdc2 AGABc2 | F6 f4g2 |
+f2d2B2 e4f2 | g6- g4a2 |\\
+b2a2b2 f4f2 | gfgag2 c4b2 |\\
+b2d2e2 c4B2 | B6- B4 :|
+%----------------------------------------
+V: 2 clef=bass
+B,,2 |B,,6 F,4F,2 | B,A,B,CB,2 G,4A,2 | B,2A,2G,2 F,4B,,2 | F,,4F,,2 F,E,F,G,F,2 |
+D,4 G,2 F,4 A,2 | B,A,B,CB,2 G,2A,2B,2 | A,2G,2F,2 C4C,2 |
+F,4F,,2 F,E,F,G, :|
+|: F,2 |F,,6 F,4E,2 | D,6- D,4E,2 | D,4G,2 G,4F,2 | E,4D,2 C,4F,2 |
+G,2F,2E,2 D,2C,2B,,2 | E,6 F,4D,2 | G,4E,2 F,4F,,2 | B,,6- B,,4 :|
+% - - - - - - - - Dance description - - - - - - - -
+%%center Gleamham-Hall, a New Country Dance
+%%begintext align
+%% The 1st Man and 2d Wo. go round to their own Partners on the outside to each others place, and
+%% meet in the middle of the Room, then cast back again to the left Hand to their own places, as at
+%% first .| The 1st Wo. and 2d Man the same after them, only they must cast back to their right Hand :|
+%% The 1st cu. cross over and meet below, the 2. cu. and leads up the middle, the 1st Man turn to the right
+%% Hand above the 2d Wo. and take her by the right Hand, the 1st Wo. doing the same at the same time,
+%% only turning to the left Hand, and take left Hands with the 2d Man, then all four slip up the Room
+%% two or three steps and close their feet and all turn single, quite round, 1st cu. move out, 2. cu. in,
+%% then 1st cu. in, and 2d cu. out, 1st cu. cast off and cross over below, 2d cu. cross over up the middle
+%% at the same time, and turn S. |: And so to the end.
+%%endtext
+
+X:11
+T: BRAYE'S MAGOTT. TBr.11
+Z:Amended by Chris Partington, 2024
+M: 9/8
+L: 1/8
+Z: 2011,2014 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.26
+N: Duple minor longways
+Q: 3/8=88
+K:A
+%----------------------------------------
+V: 1
+|:AcA ecA BGE | AcA ecA B2E |\\
+Acf ecf eca | ecf ece a2c :|
+[|]dfd afd ecA | dfd afd e2A |\\
+dfd afd ecA | dfd afd e2c |
+dfd ecd BcA | BFA FBA G2E |\\
+AcA ecf eca | ecf ece Ha2A |]
+%----------------------------------------
+V: 2 clef=bass
+|:A,,3 A,,3 E,>D,C,/2B,,/2 | A,,3 A,,3 E,3 | A,,3 A,,3 A,,3 | A,,2D, E,3 A,,3 :|
+D,3 D,3 A,>=G,F,/2E,/2 | D,3 D,3 A,3 | D,3 D,3 A,3 | D,3 D,3 A,3 |
+D,3 C,2B,, G,,2A,, | E,3 ^D,3 E,>=D,C,/2B,,/2 | A,,3 A,,3 A,,3 | A,,2D, E,3 A,,3 |]
+% - - - - - - - - Dance description - - - - - - - -
+%%center Braye's Maggott, a New Country Dance
+%%center First Strain twice, last but once.
+%%begintext align
+%% The 1st. Man goes on the outside of his Wo. till he comes betwixt the 1st and 2d Wo. then take
+%% his Wo. by the left Hand, the 2d. Wo. by the right and fall back all on a row, and lead in to the middle
+%% of the room, 2d. Man fall back when they fall back, and meet them in the middle of the Room right
+%% against the 1st Man .| The 1st Man goeth the Hay with both the We. till he comes to the same place
+%% again beginning on the inside of his own Wo. First the 2d. Man go round the other three at the same
+%% time, to the same place again with his left Hand to them :| Then the 2d Man goes the Hay, beginning
+%% with his Wo. first, and the 1st Man goes the round with his left Hand to them, as before.  This is half
+%% the last Strain. Then the 1st Man takes his Wo. by both Hands and pulls her to him into the 2d cu.
+%% place, as at first, 2d Man pulls his Wo. to him at the same time, and puts her into the 1st cu. place, as at
+%% first, then each Man turn his Wo. round with both hands.  And so to the end.
+%%endtext
+
+X:12
+T:CONCEAL'D HEALTH. TBr.12, A
+Z:Amended by Chris Partington, 2024
+M: C|
+L: 1/8
+Z: 2011,2014 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.30
+N: Duple minor longways
+Q: 1/2=88
+K:Cm
+%----------------------------------------
+V: 1
+[|]d2 |(ed)c2 d2G2 | (cB)A2 B2E2 | (AG)F2 G2c2 | =B2d2 z2d2 |\\
+(ed)c2 (fe)d2 | (gf)e2 (fe)(dc) | B2e2 def2 | g2e2 z2 :|
+[|]B2 |B2F2 FGA2 | G2c2 =A3A | d3d cB=AG | ^F2=A2 z2A2 |\\
+(Bc)d2 (cd)e2 | (de)f2 (=e^f)g2 | ^f2g2 =ABc2 | B2G2 z2G2 |
+(Bc)B2 (=Bc)B2 | (cd)c2 (de)d2 | e2de (fe)dc | =B2d2 z2d2 |\\
+(ef)e2 (=ef)e2 | (fg)f2 (ga)g2 | (ag)fe def2 | e2c2 z2 |]
+%----------------------------------------
+V: 2 clef=bass
+G,2 |C2z2 B,2z2 | A,2z2 G,2z2 | F,2z2 E,2C,2 | G,2G,A, G,F,E,D, |\\
+C,2z2 D,2z2 | E,2z2 B,2z2 | G,2E,2 B,2B,,2 |E,6 :|
+E,2 |D,2z2 B,,2z2 | E,2C,2 F,2z2 | B,,2z2 C,2z2 | D,2z2 D,,2z2 |\\
+G,,2z2 =A,,2z2 | B,,2z2 C,2z2 | D,2G,,2 D,2D,,2 | G,,2z2 D,2z2 |
+G,2z2 D,2z2 | E,2z2 =B,,2z2 | C,2z2 F,,2z2 | G,,2z2 G,2z2 |\\
+C2z2 G,2z2 | A,2z2 =E,2z2 | F,2z2 G,2z2 | C,6  |]
+% - - - - - - - - Dance description - - - - - - - -
+%%center A Conceal'd Health, a New Country Dance.
+%%center First Strain twice, last but once.
+%%begintext align
+%% The 1st Man and 2d Wo. cross over to each others place, and turn both to the right Hand, and
+%% stand with their Faces out, the other cu. doing the same after them .| Then all four go half
+%% round to their left Hands and stand as at first, then Men and We. Right and left twice, each Man
+%% beginning with his own Wo. first :| Then all four Hands half round to the left Hand, and each Man
+%% change places with his own; the Men being improper, then Men clap their Womens right Hand, and left
+%% Hand, and both their Hands against Wemens, and all turn single: This is half the last Strain. Then each
+%% Man turn his Wo. with the right Hand, three quarters round, and close their Feet, standing all on a row
+%% longways of the Room, with their right Shoulders to each other, the Men eing uppermost, and make a
+%% little stop;, and then turn the 1st cu. down, the 2d cu. up. And so to the end.
+%%endtext
+
+X:13
+T: SHORT AND SWEET. TBr.13
+Z:Amended by Chris Partington, 2024
+T:Lilliburlero,aka
+C: from The Gordian Knot Untyed by Henry Purcell
+M: 6/4
+L: 1/4
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.32
+N: The actual melody, Lilliburlero, is in the bass line.
+Q: 3/4=88
+K:G
+%----------------------------------------
+V: 1
+|:gde dGg | ga/g/f e2a |a/g/fb adg | g2f g3 ::\\
+dBd BdB | AdA GdF |
+GAB cBA | GAB cBA |B2c def | gfe d=fe |\\
+c2B c/B/AG | G2F G3 :|
+%----------------------------------------
+V: 2 clef=bass
+|: G,,2G,, B,,2B,, | A,,>B,,A,, C,3 | B,,/2C,/2D,G,, C,2B,, | A,,2D,, G,,3 :|
+|: G,2F, G,2D, | =F,2F, E,2D, | E,^F,G, G,2D, | E,D,B,, A,,3 |
+E,D,C, B,,C,D, | E,D,C, B,,C,D, | E,D,G,, C,2B,, | A,,2D,, G,,3 :|
+
+X:14
+T: BARTLETT HOUSE. TBr.14
+Z:Amended by Chris Partington, 2024
+M: C|
+L: 1/8
+Z: 2011,2014 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.34
+N: Duple minor longways, 1st couple improper
+Q: 1/2=88
+K:Bb
+%----------------------------------------
+V: 1
+|:bagf gfed | edcB A2F2 |GAB2 A2F2 | A2c2 c4 |\\
+efg2 e2g2 | def2 c2f2 |d2cB G2c2 | F2A2 B4 :|
+|:fdBd fdcB | AGAB cAGF |Bcde f2ga | b2g2 g3a |\\
+bfd2 g2c2 | fdB2 e2A2 |dBG2 F2f2 | d2B2 B4 :|
+%----------------------------------------
+V: 2 clef=bass
+|: B,,4- B,,4 | E,4 F,4 | E,4 F,4 | F,,4 F,2E,D, |
+C,4 C4 | B,4 A,4 | B,2D,2 E,2-E,2 | F,2F,,2 B,,4 :|
+|: B,,8 | F,,4 F,2E,2 | D,2B,,2 A,,2F,2 | G,2E,2 F,2E,2 |
+D,4 E,2-E,2 | D,4 C,2-C,2 | B,,2-B,,2 A,,2D,2 | E,2F,2 B,,4 :|
+% - - - - - - - - Dance description - - - - - - - -
+%%center Bartlett-House, a New Country Dance.
+%%center First Man begins Improper.
+%%begintext align
+%% The 1st Man cast off and turn up to the right Hand, to his own place, as at first, his Wo. following
+%% to the 2d Wo. place, the 2d Man casts up at the same time, and down again to his own place,
+%% as at first, his Wo. following at the same time to the 1st Wo. place, that is half round; then each Man
+%% lead his Wo. to the wall and back again .| The same again, only the We. do what the Men did, and
+%% the Men do what the We. did :| Then right Hands, and left Hands twice, each Man beginning with
+%% his own Wo. first, then foot it twice and close your Feet, the 1st Man and 2d Wo. standing with their left
+%% Shoulders to each other longways the Room, the 1st Wo. and 2d Man the same; then each Man go back
+%% with the contrary Wo. to the same place again .| Then all four cast off to the right Hand half round,
+%% and then right Hands and left three times beginning with the contrary Wo. first :| And so to the end.
+%%endtext
+
+X:15
+T: GRANADIER'S EXERCISE. TBr.15
+Z:Amended by Chris Partington, 2024
+M: C|
+L: 1/8
+Z: 2011,2014 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.36
+N: Duple minor longways
+Q: 1/2=92
+K:Bb
+%----------------------------------------
+V: 1
+|: B2BB B2B2 | B4   F4   | B2Bc d2de | f2d2 B2d2 |\\
+f2fg a2f2 | b2f2 d2g2 | c2f2 f3=e | f4   f4  :|
+|: f2fg a2f2 | b2f2 d2f2 | e2ef g2e2 | g2e2 c2e2 |\\
+d2de f2B2 | A2c2 F2f2 | d2cB c2A2 | B4   B4  :|
+%----------------------------------------
+V: 2 clef=bass
+|:B,8- | B,8 | B,,6 B,,2 | B,,8 |
+B,,4 F,2E,2 | D,4 B,,2-B,,2 | A,,2B,,2 C,2C,,2 | F,,8 :|
+|: F,6 E,2 | D,8 | C,2C,D, E,2C,2 | C4 A,2F,2 |
+B,2B,,C, D,2E,2 | F,2E,2 D,2A,,2 | B,,4 F,2F,,2 | B,,8 :|
+% - - - - - - - - Dance description - - - - - - - -
+%%center Granadiers Exercise, a New Country Dance.
+%%begintext align
+%% The 1st Man and Wo. change places with the right Hand, and lead down betwixt the 2d cu.
+%% and turn from each other, the 2d Cu. at the same time fall back, and cast up half way, the meet
+%% the 1st cu. with their Faces to each other all on a row, cross the Room; then the 1st Man pulls the 2d
+%% Wo. to him below, the 1st Wo. pulls the 2d Man to her above, at the same time then all turn S. .| The
+%% same again, only the 2d Man begins with the 1st Wo. and the 1st Man the 2d Wo. fall back and cast
+%% a little up as before, .| The 1st Man cast off and go round the 2d Wo. on the inside, his Wo.
+%% following him at the same time, and go round the 2d Man on the inside till they meet below the 2d cu.
+%% and then cross over with each other .| Then 1st Man cross over with the 2d Wo. 2d Man with the
+%% 1st Wo. after them; then 1st Man and 2d Wo. again, the other cu. the same :| And so to the end.
+%%endtext
+
+X:16
+T: LOVE AND A BOTTLE. TBr.16
+Z:Amended by Chris Partington, 2024
+M: C|
+L: 1/4
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.38
+N:Love and a Bottle is a 1698 comedy play by the Irish writer George Farquhar.
+N: Duple minor longways
+Q: 1/2=88
+K:G
+%----------------------------------------
+V: 1
+|:BG DG | (cB) A2 | dcBc | A4 |\\
+AF GA | B3 A | GF E/F/E/D/ |1 D3 D :|2 D3 |]
+|: A |FA Dd | B2 B2 | ^GB Ee | ^c2 BA |\\
+d2 ef | B2 ^cd | e2 d^c | d3 A |
+AA AB | c2 ed | (cB) (AG) | F2 ED |\\
+G2 z2 | D2 z2 | G2 D2 |1 G3 :|2 G4 |]
+%----------------------------------------
+V: 2 clef=bass
+|: G,4 | C,2 D,2 | B,,2 G,,2 | D,A,, F,,A,, | D,C, B,,A,, |
+G,,D, G,F, | E,D, A,,2 |1 D,3 z :|2 D,3 |]|: z | D,2- D,2 |
+G,,4 | E,,4 | A,,4 | F,,2 E,,D,, | G,,2- G,,F,, |
+E,,2 A,,2 | D,,4 | D,4 | C,4 | C,2 ^C,2 |
+D,4 | G,,G,,/2A,,/2 B,,A,, | G,,G,,/2A,,/2 B,,A,, | G,,D,, G,, D,, |1 G,,3 :|2 G,,4 |]
+% - - - - - - - - Dance description - - - - - - - -
+%%center Love and a Bottle, a New Country Dance.
+%%begintext align
+%% The 1st Man turn his Wo. with the right Hand half round, and both move to the 2d Man and take
+%% Hands with him, and all three go round to the left Hand, till the 1st Man comes to his own place
+%% as at first, 1st Wo. and 2d Man to each others places as at first, 2d Wo. stands still all this while .|
+%% The same again only the We. change places with the right Hand, and go to the 2d Man and take Hands
+%% and go round to the left Hand, each to his own place as at first, the 1st Man standing still as they go
+%% round :| The 1st Man turn the 2d Wo. round with the right hand, and fall back from her, the other
+%% cu. turn right Hand round as they fall back, then the 1st and 2d Wo. meet, and each Man turn his Wo.
+%% round with the left Hand, till they come all to their places as at first; Then Men Kiss their Wemens
+%% Hands, and there We. make a sign of Drinking immediately after, by lifting their left Hands, to their
+%% Mouths .| The 1st Man take his Wo. by the right Hand, and then by the left, and change places with
+%% her, the 2. cu. the same after them, 1st cu. cross over and meet below, the 2d cu. lead up the middle and
+%% turn single, then Kiss the Wemens Hands as before :| And so to the end.
+%%endtext
+
+X:17
+T:LOVER'S LUCK, THE. TBr.17
+Z:Amended by Chris Partington, 2024
+C: attributed to Thomas Tollett
+M: 3/4
+L: 1/16
+Z: 2011,2014 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.40
+N: Duple minor longways
+Q: 1/4=96
+K:Gm
+%----------------------------------------
+V: 1
+|:G2dc d2ed c2dc | B2cB A2BA G2AG |\\
+^F2 A4 B4 cd | e2d2 e2c2 d4 |\\
+G2dc d2ed c2dc |
+B2cB A2BA G2AG |\\
+^F2 B4 cd edcB | A6 G2 G4 :|\\
+|:d2B2 F2B2 d2B2 | c2f2 c2A2 c2F2 |
+B2G2 D2B2 A2G2 | ^F6 G2 A4 |\\
+B2cd c2de d2=ef | =e2ab a2g2 ^f2d2 |\\
+b2 g4 d2 c2d2 | B6 A2 G4 :|
+%----------------------------------------
+V: 2 clef=bass
+|: G,8 ^F,4 | G,4 =F,4 E,4 | D,8 B,,4 | C,4 A,,4 D,2^F,2 |
+G,8 ^F,4 | G,4 =F,4 E,4 | D,4- D,4 C,4 | D,4 D,,4 G,,4 :|
+|: B,,8 B,4 | A,8 A,4 | G,8 C,4 | D,8 ^F,4 |
+G,4 A,4 B,4 | C4 A,4 D4 | G,4 B,4 C4 | D4 D,4 G,4 :|
+% - - - - - - - - Dance description - - - - - - - -
+%%center The Lovers Luck, a New Country Dance.
+%%begintext align
+%% The 1st Man turn his Wo. with his right Hand, and fall betwixt the 2d cu. with his Face to his
+%% Wo. and his Wo. fall from him at the same time; 1st Man turn the 2d Wo. with the left Hand,
+%% till he comes to the middle of the Room above, his Wo. turns the 2d Man at the same time with the left
+%% Hand, till she comes into the middle of the Room below, then 1st Man and 1st Wo. go round each other to the
+%% left Hand, till they come to their places as at first, and then cast off .| The 2d cu. do the same after them :|
+%% Then 1st cu. lead up, 2d cu. lead down, and all turn S. then back again and turn S. then each Man turn his
+%% Wo. round with the right Hand, .|1st The Wo. cast off with the right Hand to the 2d Mans place, the
+%% 2d Man cast up to the 1st Womans place at the same time, the other cu. following their own Partners
+%% till they come all in a row, the 1st Man and 2d Wo. with their backs to each other, then all four turn to
+%% the left Hand, 1st cu. down, 2d cu. up, and each Man cross over with his own :| And so to the
+%% end.
+%%endtext
+
+X:18
+T:SCOTCH MEASURE. TBr.18, THE
+Z:Amended by Chris Partington, 2024
+C: from Amphitryon by Henry Purcell
+M: C|
+L: 1/8
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.42
+N: Duple minor longways
+Q: 1/2=76
+K:F
+%----------------------------------------
+V: 1
+|:F3 A (FA) (cA) | F2 f2 d3 e |\\
+(fd) (fd) (cA) (cA) | G2 g2 e3 e |\\
+f3 g (ga) (gf) |
+(ab) (ag) c3 f |\\
+(df) (ba) (ge) (ce) | f2 a2 f4 :|\\
+|:c'2 a2 (fa) (ba) | g2 e2 (ce) (fe) |
+(fd) (cB) (Ac) (dc) | d2 g2 e3 e |\\
+(eg) ag ab ag | (df) (gf) (ga) (gf) |\\
+(cd) (_ed) (cA) (cG) | A2 F2 F4 :|
+%----------------------------------------
+V: 2 clef=bass
+|: F,4 F,,4 | A,,2F,,2 B,,4 | B,4 F,4 | C2=B,2 CDC_B, |
+A,B,A,G, F,2F,,2 | G,,4 A,,4 | B,,4 C,4 | F,,8 :|
+|: F,4 F,,4 | C,6 C,2 | D,2E,2 F,2F,,2 | B,,2G,,2 C,4 |
+C4 G,2G,,2 | B,,2B,2 F,2F,,2 | A,,2B,,2 C,2C,,2 | F,,4- F,,4 :|
+% - - - - - - - - Dance description - - - - - - - -
+%%center The Scotch Measure a New Country Dance.
+%%begintext align
+%% The 1st Man and Wo. cross over, and meet below the 2d cu. and lead up all on a a Row, 1st Man
+%% turn the 2d Wo. round by the right Hand, his Wo. doing the same with 2d Man, then turn
+%% your own with your left Hand into your own places as at first .| The 2d cu. do the same only lead
+%% down all on a Row as the 1st cu. lead up :| All four Hands half round to the left Hand, 1st Man and
+%% 2d Wo. cross over with each other; then Hands half round to the left Hand again; 1st Wo. and 2d
+%% Man cross over with each other .| The 1st Man and 2d Wo. Sett and fall back, then Men and We.
+%% Sett to each other and fall back, 1st cu. cross over up the middle, 2d cu. cast off at the same time, then
+%% 1st cu. cast off and 2d cu. cross over up the middle :| And so to the end.
+%%endtext
+
+X:19
+T: CUPID'S BRIDGE. TBr.19
+Z:Amended by Chris Partington, 2024
+C: John Pratt
+M: 3/2
+L: 1/4
+Z: 2011,2014 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.44
+N:Cupid's Bridge was the colloquial term for the jetty
+N:on the south side of the Thames giving access to Cuper's Gardens aka Cupid's Garden, which
+N:was a popular pleasure garden and entertainment venue.
+N: Duple minor longways
+Q: 1/2=84
+K:Bb
+%----------------------------------------
+V: 1
+[|] FDF |\\
+B2 d2 cB | c3 F DF |\\
+B2 d2 cB | f3 g fd |\\
+e3 g f(e/d/) | c3 F DF |\\
+Bd fd e/d/c/B/ | B3 :|
+|: bgb |\\
+a2 ga g=e | f3 g _eg |\\
+fd bc dB | c3 gGB |\\
+c2 d2 Bc  | A3 F DF |\\
+Bd f(g/f/) (e/d/)(c/B/) | B3 :|
+%----------------------------------------
+V: 2 clef=bass
+B,,B,,2 |\\
+B,,2 B,,2 A,,B,, | F,,4 B,,2 | B,,2 B,,2 A,,B,, | F,,2 F,E, D,2 |
+C,2 E,2 D,E, | F,2 F,2 B,A, | G,2 D,G, C,F, | B,,3 :|
+|: B,,E,B,, |\\
+F,2 C,F, =E,C, | D,2 G,,B,, C,B,, | A,,B,, G,,A,, B,,2 | F,2 E,3 D, |
+C,A,, B,,B, D,E, | F,4 F,2 | G,2 D,E, F,F,, | B,,3 :|
+% - - - - - - - - Dance description - - - - - - - -
+%%center Cupid's Bridge, a New Country Dance.
+%%begintext align
+%% The 1st Man and Wo. meet with their left shoulder to each other and turn half round with their
+%% right shoulder to each other; the 2d cu. doing the same after them, standing all on a row longways
+%% the Room; then slip by each other, the 1st Man and 2d Wo. with their backs to each other, till they
+%% come to a square and all foot it; then all turn to the left hand, the 1st cu. below, the 2d above, the
+%% Men improper .| The same again :| The 1st cu. cross over and turn the 2d cu. with the right hand,
+%% and slip by each other, holding right Hands as they pass by into a square, Men with their Faces up,
+%% We. down, Men pass over before their We. and turn back to the right Hand to the same place again,
+%% coming back behind their we. .| Then We. the same thing after them, only turning to the left Hand,
+%% and pass back again behind the Men as before; then each Man turn his Wo. with his right Hand round,
+%% and all lead up and turn S. 1st cu. below, 2d cu. above :| And so to the end.
+%%endtext
+
+X:20
+T:LAST OF TWENTY. TBr.20, THE
+Z:Amended by Chris Partington, 2024
+M: 6/4
+L: 1/8
+R:Minuet
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+B: Thomas Bray's Country Dances 1699 p.46
+N: Duple minor longways
+Q: 1/4=108
+K:C
+%----------------------------------------
+V: 1
+|:g3ag2 f2e4 | defedc d4G2 | c2d4 edefef |\\
+g3ag2 f2e4 | defedc d4G2 | c2(d3c/d/) e6 :|
+|:g6 c2d2e2 | f2fga2 g4f2 | e2^f3e/f/ gfgag=f |\\
+e6 c2d2e2 | f2fga2 d4e2 | cdd3c c6 :|
+%----------------------------------------
+V: 2 clef=bass
+|:C4C,2 F,2C4 | B,2A,2-A,2 G,4E,2 | A,2G,4 C,6 |
+C,4C,2 B,,2C,4 | B,,2A,,2-A,,2 G,,2G,2E,2 | A,2G,2G,,2 C,6 :|
+|:C,2D,2E,2 F,4E,2 | D,3E,F,2 C,4F,2 | C2A,4 G,4B,,2|
+C,4C2 A,2B,2C2 | F,4F,2 G,4E,2 | A,F,G,2G,,2 | C,6 :|
+% - - - - - - - - Dance description - - - - - - - -
+%%center A Minuet Country Dance, call'd the last of Twenty.
+%%begintext align
+%% The 1st Man and Wo. cross over with their backs to each other, in three Minuett steps to each
+%% others place, and turn to the left Hand with their Faces in, the 2d cu. do the same at the same
+%% time, 1st Man and 2d Wo. chang [sic] places with the right Hand, and turn to the left in three Minuett
+%% steps, the 1st Wo. and 2d Man go half round at the same time, with their left Hand to the other cu.
+%% .| The same again, only, the 1st Wo. and 2d Man change places with the right Hand, and the other
+%% cu. change places as before, :| The 1st Man lead his Wo. up one Minuett step, and five to the left Hand
+%% round, till he comes to the 2d Womans place as at first; 2d Wo. at the same time lead her Man one step
+%% down, and five to the left Hand, to the 1st Mans place as at first; 1st Man and 2d Wo. fall back into
+%% the middle of the Room with their backs to each other, and stand all in a row cross the Room each
+%% with his Face to his Partner .|1st Man and 2d Wo. move three minuett steps to the left Hand, the Man
+%% up, the Wo. down, till they come on the outside, the 1st Wo. and 2d Man at the same time cross over
+%% and fall with their backs to each other as before, then each Man turn his Wo. with the right Hand,
+%% the 1st Cu. below, the 2d cu. above :| And so to the end,
+%%endtext
+
+

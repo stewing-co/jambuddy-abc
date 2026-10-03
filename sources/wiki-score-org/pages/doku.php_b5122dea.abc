@@ -1,0 +1,51 @@
+X:104
+T:Overtura
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 4 clef=treble name="Tromba II" sname="Trb.II"
+%%MIDI program 1 56
+%%staves [( 4 )]
+[I:MIDI= channel 4 MIDI= program 4 56]
+%
+[Q: "Allegro" 1/2=70] D//| D z3/4 F// F z3/4 A//| A A z z3/4 D//|D z3/4 F// F z3/4 A//| AAzd|AdAd| AAzd|AdAd|A2 z2| Z12 | z2 !fermata!z2 | Z8 | D4 |  \
+D4 | D4 | D D D z |z4 |  \
+z4| A2 d2 | A A A z | A4 |  \
+A z z2 | z/d/d/d/ d z | e4 | e z z2 |  \
+A A A z | z4 | A/>A/A/>A/ A/>A/A/>A/ | A z z2 |  \
+A/>A/A/>A/ A/>A/A/>A/ | A z z2 | A A A z| z4 |  \
+e z e e | e4 | A z A A | A4 |  \
+e z e e | e4 | Az z2 | z4 |  \
+z4 | z4 | z4 | z4 |  \
+z4 | z4 | A/A//A// A/A//A// A/A//A// A/A//A// | A/A//A// A/A//A// A/A//A// A/A//A// |  \
+A A A z | z4 | z4| z4 |  \
+z4 | z4 | z4 | z4 |  \
+A A A z | z4 | A A A z | z4 |  \
+A z A z | A z A z | A A d2 | A2 e e |  \
+A2 d2 | A2 e e | A A A A | A A A A |  \
+A2 !fermata!z2 ||
+[M:2/4] [K:C][L:1/8] [Q: "Andantino" 1/2=30] z | Z23 ||
+[M:C][L:1/4][Q:1/2=70] z4 | x4 | x4 | x4 | A z A d | A z A d | A A A A | A2 !fermata!z2 ||
+[K:D] Z8 | D4 | D4 | D4 |  \
+D4 | z4 | D z z2 | D d d/A/F/A/ |  \
+F z z2 | A4 | Z2 | d z/ d/ d/A/F/D/ |  \
+A z/ A/ A A | A A A z | D z z2 | Z7 |  \
+D z z2 | z4 | D z z2 | z4 |  \
+D4 | D4 | D4 | D4 |  \
+D4 | D4 | D/D/ D z2 | D z z2 |  \
+D z z2 | D4 | D z D z | d d A A |  \
+D z z2 | z4 | D z z2 | z4 |  \
+z/ A/d/A/ d/A/d/A/ | d F F F/>F/ | F z F z | F z z2 | ||
+"_(2)" [K:F] [L:1/4] [Q: "Coro - Allegro Maestoso" 1/2=60] x3/8 | Z2 | C z z2 | z4 |  \
+D z z2 | Z6 | C/>C/C/>C/ C/>C/C/>C/| C/>C/C/>C/ C/>C/C/>C/ |  \
+C C z2 | Z15 | C z z2 | Z6 |  \
+C4 | C4 | C4 | C4 |  \
+C4 | C z C z | z4 | G,/G,//G,// G, z2 |  \
+z4 | G,/G,//G,// G, z2 | Z2 | C4 |  \
+C4 | C4 | z4 | C z c G |  \
+E z z2 | c c G G | E z z2 | c c G G |  \
+E z E/G/E/G/ | E z E/G/E/G/ | E z z2 | Z8 |  \
+z2 z e/ z/ | f/ z/ e/ z/ d/ z/ c/ z/ | G2>e2 | f e d e |  \
+g G z e/z/ | f/ z/ e/ z/ d/ z/ c/ z/ | G/G//G// G/G/ G z | Z21 |  \
+F F F z | d4 | d d d z | d4 | d d d d | A F A F | Z11 |]

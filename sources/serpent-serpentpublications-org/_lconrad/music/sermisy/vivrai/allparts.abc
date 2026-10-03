@@ -1,0 +1,137 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Tant que vivrai
+T:Cantus
+C:Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+N:Original clef C on first line
+K:C maj -8va
+%%MIDI transpose -12
+|:g2 g f e3 e d g g ^f g2 z2
+w: Tant que vi- vray en aa- ge flo- ris- sant,
+w: Par plu- sieurs fois m'a te- nu lan- guis- sant,
+e2 e d c3 c f > e d c B4 
+w: Je ser- vi- ray d'A- mours le Dieu puis- sant,
+w: Mais a- pres deul m'a faict re- jo- ys- sant,
+c2 c d e/ d/ c/ B/ c d2 c c B c4 :|
+w: En faictz, en ditz * * *  en chan- sons et ac- cordz:
+w: Car j'ay l'a- mour * * * de la belle au gent corps: 
+c c/ d/ e e c c/ d/ e e 
+w: Son al- li- an- ce, c'est ma fi- an- ce, 
+g g/ f/ e2 g g/ f/ e2 
+w: Son cueur est mien, le mien est sien,
+c c/ d/ e e c c/ d/ e e 
+w: Fy de tri- stes- se, vi- ve ly- es- se, 
+|:g g/ f/ e2 g g/ f/ e d > c c2 B c4 :|
+w: Puis qu'en a- mour, puis qu'en a- mour a *  tant  de bien.
+
+X:2
+T:Tant que vivrai
+T:Altus
+C:Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+N:Original clef, C on third line
+K:C maj -8va
+%%MIDI transpose -12
+|:c2 c A c3 c B d d d B4
+w: Tant que vi- vray en aa- ge flo- ris- sant,
+w: Par plu- sieurs fois m'a te- nu lan- guis- sant,
+c2 c A A3 A c > B A A G4
+w: Je ser- vi- ray d'A- mours le Dieu puis- sant,
+w: Mais a- pres deul m'a faict re- jo- ys- sant,
+G2 A B c2 G A2 F G G E4 :|
+w: En faictz, en ditz  en chan- sons et ac- cordz:
+w: Car j'ay l'a- mour  de la belle au gent corps: 
+A A/ A/ B c 
+w: Son al- li- an- ce, 
+z2 z G > A B G2
+w: Son cueur est mien, 
+z4 A A/ A/ B c z4
+w: Fy de tri- stes- se, 
+|:c c/ A/ c2 c c/ A/ c B A F G2 G4 :|
+w: Puis qu'en a- mour, puis qu'en a- mour a tant * de bien.
+
+
+
+X:3
+T:Tant que vivrai
+T:Tenor
+C:Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+N:Original clef, C on third line
+K:C maj -8va
+%%MIDI transpose -12
+|:C2 E F G3 A B G A A G4
+w: Tant que vi- vray en aa- ge flo- ris- sant,
+w: Par plu- sieurs fois m'a te- nu lan- guis- sant,
+G2 G F E3 E A > G F E D4
+w: Je ser- vi- ray d'A- mours le Dieu puis- sant,
+w: Mais a- pres deul m'a faict re- jo- ys- sant,
+E2 E F G/ F/ E/ D/ E F E C D D A,4 :|
+w: En faictz, en ditz * * * * en chan- sons et ac- cordz:
+w: Car j'ay l'a- mour * * * * de la belle au gent corps: 
+z4 A A/ A/ B C
+w: c'est ma fi- an- ce, 
+z2 z G > A B G2
+w: Son cueur est mien, 
+z4 A A/ A/ B C
+w:  vi- ve ly- es- se, 
+|: E E/ F/ G2 E E/ F/ G G E C D2 C4 :|
+w: Puis qu'en a- mour, puis qu'en a- mour a tant * de bien.
+
+X:4
+T:Tant que vivrai
+T:Bassus
+C:Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+N:Original clef, F on third line
+K:C maj bass
+%%MIDI transpose -24
+|:c2 c d c3 c G G d d G4
+w: Tant que vi- vray en aa- ge flo- ris- sant,
+w: Par plu- sieurs fois m'a te- nu lan- guis- sant,
+c2 c d A3 A F > F F F G4
+w: Je ser- vi- ray d'A- mours le Dieu puis- sant,
+w: Mais a- pres deul m'a faict re- jo- ys- sant,
+c2 A d c3 F A A G  G c4 :|
+w: En faictz, en ditz en chan- sons et ac- cordz:
+w: Car j'ay l'a- mour de la belle au gent corps: 
+f f/ f/ e c f f/ f/ e c
+w: Son al- li- an- ce, c'est ma fi- an- ce, 
+c G/ G/ c2 c G/ G/ c2 
+w: Son cueur est mien, le mien est sien,
+f f/ f/ e c f f/ f/ e c
+w: Fy de tri- stes- se, vi- ve ly- es- se, 
+|:c c/ d/ c2 c c/ d/ c G A2 G2 c4 :|
+w: Puis qu'en a- mour, puis qu'en a- mour a tant de bien.

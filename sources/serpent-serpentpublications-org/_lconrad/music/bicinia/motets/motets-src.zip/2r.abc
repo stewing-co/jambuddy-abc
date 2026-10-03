@@ -1,0 +1,68 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:2r. Beatus vir
+C:Orlando Lassusio
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+N: original clef: C on first line
+K:D dorian
+M:C|
+L:1/4
+%1
+z4 z4 A4-A4 _B4 A4 D2 A4 A2 d3 c B A B2 E2 c3 B A2 G2 E2 G3 A B G c4 B3 A A4 G2\
+w:Be- a- tus vir qui in sa - - - - pi- en- - - ti- a mo- - - - - ra- - - bi-
+%2
+"A"A4-A4 z4 A4-A4 z2 A2 c2 A2 E F G A G3 F/ E/ F2 G2 A2 G A B c d3 c/ B/ A B\
+w:tur, * Et * qui in ju- sti- - - - - - - - - ti _me- - - - - - - - -
+%3
+c2 B2 A3 A G4 "B"z2 A4 D2 A4 F3 E F G A2 E4 ^F2 G3 E c4 A2 z2 A2 B2 c4 _B2 A4 G2 A3 B c A\
+w:- di- ta- bi- tur, et in sen- su _ _ _ _ co- gi- ta- - - bit cir- cun- spe- cti- o- nem De- - - - 
+%4
+B c d3 G _B2 A4 z2 ^F2 G2 A4 G2 F4 E2 c3 B A G A E F G A F G A G F F E/ D/ E4 HD4 |]\
+w:- - - - - i, cir- cunn- spe- cti- o- nem De- - - - - - - - - - - - - - - - - - i.
+
+X:2
+T:2r. Beatus vir
+C:Orlando Lassusio
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+N: original clef: C on third
+K:D dorian -8va
+%%MIDI transpose -12
+M:C|
+L:1/4
+%1
+d4-d4 ^c4 d4 G2 d4 d2 f3 e d c d2 A2 f3 e d2 c2 A2 c3 d e c g2\
+w:Be- * a- tus vir qui in sa- - - - pi- en- - - - ti- a mo- - - - -
+%2
+c d e c d e A B c A d e d c c B/ A/ B3 B "A"A4 z4 f4-f4 z2 d2 f2 d2\
+w: ra- - - - - - - - - - - - - - - - - - bi- tur, Et * qui in ju- 
+%3
+A B c d c3 B/ A/ B2 c2 d2 c3 d e f g3 f/ e/ d e f2 e2 g3 f f4 e2 "B" f4-f4 z2 d4 A2 d4 c2 A4 B2 c3 A\
+w:sti- - - - - - - -  ti- a me- - - - -  - - - - - di- ta- - -  bi- tur, * et in sen- su- co- gi- ta- - 
+%4
+f4 d4 z2 e2 f2 g4 f2 e2 d e f d e f g2 G A B c d3 e f2 d4 z2 ^c2 d2 e4 d2 c2 A2  f3 e d c d B\
+w:* bit cir- cun- spe- cti- o- nem _ _ _ _ _ _ De- - - - - - - i, cir- cunn- spe- cti- o- nem De- - - - -
+%5
+c d e f e d d3 c/ B/ c2 Hd4 |]\
+w: - - - - - - - - - - i.
+W:Ecclesiasticus 14:22
+W:
+W: Blessed is the man that shall continue in wisdom,
+W: And that shall meditate in his justice,
+W: And in his mind shall think of the all seeing eye of God.

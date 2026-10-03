@@ -1,0 +1,60 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka FC (mz06634)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.261 (mz06634) orig. G,C
+T: Repertoire der "Dorfmusig Aesch". S.255-269
+T:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F".A.c.f | "C7".f.e.e | .G.B.d | "F".d.c.c | .F.B.A | "C7".A.G.G | .C.A.G | "F".G.F.C | .A.c.f | 
+"C7".f.e.e | .G.B.d | "F".d.c.c | .F.B.A | "C7".A.G.d | dcG/>A/ | "F"FFz :: [K:C] [L:1/8] "C".E2.G2.c2 | "G7"B>B (B2.f2)  | 
+B>B (B2A2) | "C"G>G (G2.c2) | .E2.G2.c2 | "G7"B>B (B2.f2)  | G>G .G2de |1 "C".c2.c2z2 :|2 "C"c2c2c2 |: [K:F] "C7"d3c BG | 
+E>d.c2.c2 | "F"d3c AF | C>d .c2.c2 | "C7"f>e (e2B2) |f>e (e2B2) |  "F"d>c (c2F2) | (A4c2) | "C7"d3c BG | 
+E>d.c2.c2 | "F"d3c AF | C>d .c2.c2 | "B0"f>ff2=B2 | "F/C"f>f f2c2 | "C7"d>d dc GA | "F".F2.F2z2 :| 
+W: Anmerkung H.C.: B Cornet
+%% mz06634
+% May 4, 2017
+
+X:2
+T:Mazurka CG 7+ (mz06634)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.261 (mz06634) orig. G,C
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C".e.g.c' | "G7".c'.b.b | .d.f.a | "C".a.g.g | .c.f.e | "G7".e.d.d | .G.e.d | "C".d.c.G | .e.g.c' | 
+"G7".c'.b.b | .d.f.a | "C".a.g.g | .c.f.e | "G7".e.d.a | agd/2>e/2 | "C"ccz :: [K:G] [L:1/8] "G".B2.d2.g2 | "D7"f>f (f2.c'2) | 
+f>f (f2e2) | "G"d>d (d2.g2) | .B2.d2.g2 | "D7"f>f (f2.c'2) | d>d .d2ab |1 "G".g2.g2z2 :|2 "G"g2g2g2 |: [K:C] "G7"a3g fd | 
+B>a.g2.g2 | "C"a3g ec | G>a .g2.g2 | "G7"c'>b (b2f2) |c'>b (b2f2) | "C"a>g (g2c2) | (e4g2) | "G7"a3g fd | 
+B>a.g2.g2 | "C"a3g ec | G>a .g2.g2 | "F#0"c'>c'c'2^f2 | "C/G"c'>c' c'2g2 | "G7"a>a ag de | "C".c2.c2z2 :| 
+%W:Anmerkung H.C.: B Cornet
+%% mz06634
+% May 4, 2017
+
+X:3
+T:Mazurka CG 5- (mz06634)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.261 (mz06634) orig. G,C
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C".E.G.c | "G7".c.B.B | .D.F.A | "C".A.G.G | .C.F.E | "G7".E.D.D | .G,.E.D | "C".D.C.G, | .E.G.c | 
+"G7".c.B.B | .D.F.A | "C".A.G.G | .C.F.E | "G7".E.D.A | AGD/2>E/2 | "C"CCz :: [K:G] [L:1/8] "G".B,2.D2.G2 | "D7"F>F (F2.c2) | 
+F>F (F2E2) | "G"D>D (D2.G2) | .B,2.D2.G2 | "D7"F>F (F2.c2) | D>D .D2AB |1 "G".G2.G2z2 :|2 "G"G2G2G2 |: [K:C] "G7"A3G FD | 
+B,>A.G2.G2 | "C"A3G EC | G,>A .G2.G2 | "G7"c>B (B2F2) |c>B (B2F2) | "C"A>G (G2C2) | (E4G2) | "G7"A3G FD | 
+B,>A.G2.G2 | "C"A3G EC | G,>A .G2.G2 | "F#0"c>cc2^F2 | "C/G"c>c c2G2 | "G7"A>A AG DE | "C".C2.C2z2 :| 
+%W:Anmerkung H.C.: B Cornet
+%% mz06634
+% May 4, 2017

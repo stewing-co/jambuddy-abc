@@ -1,0 +1,72 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Mazurka  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.180 (mz09308) orig. C,F
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"g>e a>f b>g | c'6 | cB ce ga | "G7"b6 | d'a c'>g bf | "tr"g2B2B2 | d'a c'g bf | "tr""C"a2c2c2 | g>e a>f b>g | c'6 | 
+cB ce ga | "G7"b6 | d'a c'>g bf | "tr"a2B2B2 | "tr"g2B2B2 | "C"c2c2z2 :: "C"Gc ce eg | ("tr"ge)a2a2 | Gc ce eg |   ("tr""Dm"gf)a2a2 | 
+"G7"GB Bd dg | ("tr"gf)b2b2 | f2a2a2 | "C"e2g2g2 | Gc ce eg | ("tr"ge)a2a2 | Gc ce eg | ("tr""Dm"gf)a2a2 | ad' d'a d'a | 
+"C"gc' c'g c'g | "G7"ba gf ed | "C"c2c2z2 :: [K:F] "F"c2f2a2 | c'>c'a4 | ((3cfa) ((3cfa) ((3cfa) | "C7"b>bc4 | c2e2g2 | b>a g3f | 
+e>d c3B | "F"A>G F2z2 | c2f2a2 | c'>c'a4 | Ac fa c'a | "Gm"b>bd4 | db bd bd | "F"ca ac af | "C7"ce ec c'e | "F"f2f2z2 :| 
+% mz09308
+X:2
+T:Mazurka  GC 5-
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"d>B e>c f>d | g6 | GF GB de | "D7"f6 | ae g>d fc | "tr"d2F2F2 | ae gd fc | "tr""G"e2G2G2 | d>B e>c f>d | g6 | 
+GF GB de | "D7"f6 | ae g>d fc | "tr"e2F2F2 | "tr"d2F2F2 | "G"G2G2z2 :: "G"DG GB Bd | ("tr"dB)e2e2 | DG GB Bd | ("tr""Am"dc)e2e2 | 
+"D7"DF FA Ad | ("tr"dc)f2f2 | c2e2e2 | "G"B2d2d2 | DG GB Bd | ("tr"dB)e2e2 | DG GB Bd | ("tr""Am"dc)e2e2 | ea ae ae | 
+"G"dg gd gd | "D7"fe dc BA | "G"G2G2z2 :: [K:C] "C"G2c2e2 | g>ge4 | ((3Gce) ((3Gce) ((3Gce) | "G7"f>fG4 | G2B2d2 | f>e d3c | 
+B>A G3F | "C"E>D C2z2 | G2c2e2 | g>ge4 | EG ce ge | "Dm"f>fA4 | Af fA fA | "C"Ge eG ec | "G7"GB BG gB | "C"c2c2z2 :| 
+% mz09308
+X:3
+T:Mazurka  CF (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"g>e a>f b>g | c'6 | cB ce ga | "G7"b6 | d'a c'>g bf | "tr"g2B2B2 | d'a c'g bf | "tr""C"a2c2c2 | g>e a>f b>g | c'6 | 
+cB ce ga | "G7"b6 | d'a c'>g bf | "tr"a2B2B2 | "tr"g2B2B2 | "C"c2c2z2 :: "C"Gc ce eg | ("tr"ge)a2a2 | Gc ce eg |   ("tr""Dm"gf)a2a2 | 
+"G7"GB Bd dg | ("tr"gf)b2b2 | f2a2a2 | "C"e2g2g2 | Gc ce eg | ("tr"ge)a2a2 | Gc ce eg | ("tr""Dm"gf)a2a2 | ad' d'a d'a | 
+"C"gc' c'g c'g | "G7"ba gf ed | "C"c2c2z2 :: [K:F] "F"c2f2a2 | c'>c'a4 | ((3cfa) ((3cfa) ((3cfa) | "C7"b>bc4 | c2e2g2 | b>a g3f | 
+e>d c3B | "F"A>G F2z2 | c2f2a2 | c'>c'a4 | Ac fa c'a | "Gm"b>bd4 | db bd bd | "F"ca ac af | "C7"ce ec c'e | "F"f2f2z2 :| 
+% mz09308
+X:4
+T:Mazurka  GC (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"d>B e>c f>d | g6 | GF GB de | "D7"f6 | ae g>d fc | "tr"d2F2F2 | ae gd fc | "tr""G"e2G2G2 | d>B e>c f>d | g6 | 
+GF GB de | "D7"f6 | ae g>d fc | "tr"e2F2F2 | "tr"d2F2F2 | "G"G2G2z2 :: "G"DG GB Bd | ("tr"dB)e2e2 | DG GB Bd | ("tr""Am"dc)e2e2 | 
+"D7"DF FA Ad | ("tr"dc)f2f2 | c2e2e2 | "G"B2d2d2 | DG GB Bd | ("tr"dB)e2e2 | DG GB Bd | ("tr""Am"dc)e2e2 | ea ae ae | 
+"G"dg gd gd | "D7"fe dc BA | "G"G2G2z2 :: [K:C] "C"G2c2e2 | g>ge4 | ((3Gce) ((3Gce) ((3Gce) | "G7"f>fG4 | G2B2d2 | f>e d3c | 
+B>A G3F | "C"E>D C2z2 | G2c2e2 | g>ge4 | EG ce ge | "Dm"f>fA4 | Af fA fA | "C"Ge eG ec | "G7"GB BG gB | "C"c2c2z2 :| 
+% mz09308
+X:5
+T:Mazurka G&D (tinwhistle in D) var. solo
+T:mz09308 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:G transpose=12
+d>B e>c f>d | g6 | GF GB de | f6 | ae g>d fc | Td2F2F2 | ae gd fc | Te2G2G2 | d>B e>c f>d | g6 | 
+GF GB de | f6 | ae g>d fc | Te2F2F2 | Td2F2F2 | G2G2z2 :: DG GB Bd | (TdB)e2e2 | DG GB Bd | (Tdc)e2e2 | 
+DF FA Ad | (Tdc)f2f2 | c2e2e2 | B2d2d2 | DG GB Bd | (TdB)e2e2 | DG GB Bd | (Tdc)e2e2 | ea ae ae | 
+dg gd gd | fe dc BA | G2G2z2 :: [K:D] A2d2f2 | a>af4 | ((3Adf) ((3Adf) ((3Adf) | g>gA4 | A2c2e2 | g>f e3d | 
+c>B A3G | F>E D2z2 | A2d2f2 | a>af4 | FA df af | g>gB4 | Bg gB gB | Af fA fd | Ac cA ac | d2d2z2 :|
+% mz09308
+% Sep9, 2016

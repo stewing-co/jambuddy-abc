@@ -1,0 +1,65 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Mazurka  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.173 (mz00756) orig. C-Dur
+T: Zermatter T\"anze. S.166-177.\"Uberliefert durch Moritz Perren, "Hofmuri", 1874-1952.
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"g>^f g>f g>f | .a2!>!g4 | c'>b c'>b c'>d' | "G7".c'2!>!b4 | f>e f>e f>^f | .g2 !>!f4 | 
+g>a b>a g>f | "C"e>dc4 | g>^f g>f g>f | .a2!>!g4 | c>B c>B c>d | "Dm/F"e>dA4 | 
+A2A>B c>d | "C/G"e>d c>B A>G | B>A G>F E>D | "C"C2c2z2 :| "C"E2!>!A3E | "G7"G>D F4 | 
+F2!>!B3F | "C"A>EG4 | e>d e>d e>f | "G7"Pe2d2d2 | d>c d>c d>e | "C"Pd2c2c2 | 
+E2A3E | "G7"G>DF4 | F2B3F | "C"A>EG4 | G>A B>c d>e | "F"f>e d>c B>A | 
+"G7"G>A G>F E>D | "C"C2c2 z2 |: "C"e>G E>G A>G | "G7"B2g2g2 | "C"e>G E>G A>G | "G7"B2g2g2 | 
+f>G F>G A>G | B2g2g2 |1 B2a2a2 | "C"c2c'2c'2 :|2 "G7"b>a g>f e>d | "C"c2c'2z2 |] 
+X: 2
+T: Mazurka  C (5letras transposed)
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"g>^f g>f g>f | .a2!>!g4 | c'>b c'>b c'>d' | "G7".c'2!>!b4 | f>e f>e f>^f | .g2 !>!f4 | 
+g>a b>a g>f | "C"e>dc4 | g>^f g>f g>f | .a2!>!g4 | c>B c>B c>d | "Dm/F"e>dA4 | 
+A2A>B c>d | "C/G"e>d c>B A>G | B>A G>F E>D | "C"C2c2z2 :| "C"E2!>!A3E | "G7"G>D F4 | 
+F2!>!B3F | "C"A>EG4 | e>d e>d e>f | "G7"Pe2d2d2 | d>c d>c d>e | "C"Pd2c2c2 | 
+E2A3E | "G7"G>DF4 | F2B3F | "C"A>EG4 | G>A B>c d>e | "F"f>e d>c B>A | 
+"G7"G>A G>F E>D | "C"C2c2 z2 |: "C"e>G E>G A>G | "G7"B2g2g2 | "C"e>G E>G A>G | "G7"B2g2g2 | 
+f>G F>G A>G | B2g2g2 |1 B2a2a2 | "C"c2c'2c'2 :|2 "G7"b>a g>f e>d | "C"c2c'2z2 |] 
+% mz00756
+X:3
+T:Mazurka  G 5-
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"d>^c d>c d>c | .e2!>!d4 | g>f g>f g>a | "D7".g2!>!f4 | c>B c>B c>^c | .d2 !>!c4 | 
+d>e f>e d>c | "G"B>AG4 | d>^c d>c d>c | .e2!>!d4 | G>F G>F G>A | "Am/C"B>AE4 | 
+E2E>F G>A | "G/D"B>A G>F E>D | F>E D>C B,>A, | "G"G,2G2z2 :| "G"B,2!>!E3B, | "D7"D>A, C4 | 
+C2!>!F3C | "G"E>B,D4 | B>A B>A B>c | "D7"PB2A2A2 | A>G A>G A>B | "G"PA2G2G2 | 
+B,2E3B, | "D7"D>A,C4 | C2F3C | "G"E>B,D4 | D>E F>G A>B | "C"c>B A>G F>E | 
+"D7"D>E D>C B,>A, | "G"G,2G2 z2 |: "G"B>D B,>D E>D | "D7"F2d2d2 | "G"B>D B,>D E>D | "D7"F2d2d2 | 
+c>D C>D E>D | F2d2d2 |1 F2e2e2 | "G"G2g2g2 :|2 "D7"f>e d>c B>A | "G"G2g2z2 |] 
+% mz00756
+X:4
+T:Mazurka  G (5letras transposed)
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"d>^c d>c d>c | .e2!>!d4 | g>f g>f g>a | "D7".g2!>!f4 | c>B c>B c>^c | .d2 !>!c4 | 
+d>e f>e d>c | "G"B>AG4 | d>^c d>c d>c | .e2!>!d4 | G>F G>F G>A | "Am/C"B>AE4 | 
+E2E>F G>A | "G/D"B>A G>F E>D | F>E D>C B,>A, | "G"G,2G2z2 :| "G"B,2!>!E3B, | "D7"D>A, C4 | 
+C2!>!F3C | "G"E>B,D4 | B>A B>A B>c | "D7"PB2A2A2 | A>G A>G A>B | "G"PA2G2G2 | 
+B,2E3B, | "D7"D>A,C4 | C2F3C | "G"E>B,D4 | D>E F>G A>B | "C"c>B A>G F>E | 
+"D7"D>E D>C B,>A, | "G"G,2G2 z2 |: "G"B>D B,>D E>D | "D7"F2d2d2 | "G"B>D B,>D E>D | "D7"F2d2d2 | 
+c>D C>D E>D | F2d2d2 |1 F2e2e2 | "G"G2g2g2 :|2 "D7"f>e d>c B>A | "G"G2g2z2 |] 
+% mz00756
+
+

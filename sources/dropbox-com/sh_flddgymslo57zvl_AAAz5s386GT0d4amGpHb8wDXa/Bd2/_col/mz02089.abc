@@ -1,0 +1,67 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka  GDC (mz02089) ABAC
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.309 (mz02089) orig. G,D,C
+T: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+%%partsbox
+P:ABAC
+R:mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+[P:A] "G"de/d/ ^c2 d2 | e>dg4 | B2^AB ed | "C"c6 | e2^d2e2 | g>ec4 | "D7"DF Ac f>e | "G"e>dB4 | 
+de/d/ ^c2d2 | e>d g4 | .B2.c2"E7".d2 | !>!"Am"e6 | "D7"f>e A3c | "G"e>d G3B | "D7"B>A e2d2 | "G"G2G2z2 |] [K:D] 
+[P:B] |: "D"f>g f>d A>d | f>g f>d A>d | f>a g2f2 | ("A7"f4e2) | e>f e>c A>c | e>f e>c A>c |  e>gf2e2 |1 "D"e4d2 :|2 
+"D"d2d2"_>Teil A"z2 |] [P:C] [K:C] "C".G2.c2.d2 | e3fe2 | e2 (de fe) | "G7"g4f2 | G2B2c2 | d3ed2 |  .d2 (^cd ef) | 
+"C"a4g2 | G2c2d2 | e3fe2  | ef eB dc | ("F"B4A2) | "G7".d2.e2.f2 | "C"g3ec2 | "G7"f3d A>B | "C"c2c2z2 |] 
+%W:Parts: ABAC
+% mz02089  (Oct 29, 2016)
+
+X:2
+T:Mazurka  GDC  (mz02089)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.309 (mz02089) orig. G,D,C
+S: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"de/d/ ^c2 d2 | e>dg4 | B2^AB ed | "C"c6 | e2^d2e2 | g>ec4 | "D7"DF Ac f>e | "G"e>dB4 | 
+de/d/ ^c2d2 | e>d g4 | .B2.c2"E7".d2 | !>!"Am"e6 | "D7"f>e A3c | "G"e>d G3B | "D7"B>A e2d2 | "G"G2G2z2 |] [K:D] 
+|: "D"f>g f>d A>d | f>g f>d A>d | f>a g2f2 | ("A7"f4e2) | e>f e>c A>c | e>f e>c A>c |  e>gf2e2 |1 "D"e4d2 :|2 
+"D"d2d2"_>Teil A"z2 |] [K:C] "C".G2.c2.d2 | e3fe2 | e2 (de fe) | "G7"g4f2 | G2B2c2 | d3ed2 |  .d2 (^cd ef) | 
+"C"a4g2 | G2c2d2 | e3fe2  | ef eB dc | ("F"B4A2) | "G7".d2.e2.f2 | "C"g3ec2 | "G7"f3d A>B | "C"c2c2z2 |] 
+W:Parts: ABAC
+% mz02089  (Oct 29, 2016)
+
+X:3
+T:Mazurka  CGF 7-
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.309 (mz02089) orig. G,D,C
+S:Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+%%partsbox
+R:mazurka
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"GA/2G/2 ^F2 G2 | A>Gc4 | E2^DE AG | "F"F6 | A2^G2A2 | c>AF4 | "G7"G,B, DF B>A | "C"A>GE4 | 
+GA/2G/2 ^F2G2 | A>G c4 | .E2.F2"A7".G2 | !>!"Dm"A6 | "G7"B>A D3F | "C"A>G C3E | "G7"E>D A2G2 | "C"C2C2z2 |] [K:Gmaj] 
+|: "G"B>c B>G D>G | B>c B>G D>G | B>d c2B2 | ("D7"B4A2) | A>B A>F D>F | A>B A>F D>F | A>cB2A2 |1 "G"A4G2 :|2 
+"G"G2G2"_>Teil A"z2 |] [K:Fmaj] "F".C2.F2.G2 | A3BA2 | A2 (GA BA) | "C7"c4B2 | C2E2F2 | G3AG2 | .G2 (^FG AB) | 
+"F"d4c2 | C2F2G2 | A3BA2 | AB AE GF | ("Bb"E4D2) | "C7".G2.A2.B2 | "F"c3AF2 | "C7"B3G D>E | "F"F2F2z2 |] 
+W:Parts: ABAC
+% mz02089  (Oct 29, 2016)
+
+
+

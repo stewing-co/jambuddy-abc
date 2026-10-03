@@ -1,0 +1,50 @@
+X:1
+T:Zensko Krsteno
+O:Macedonia
+Z:http://voluntocracy.org/Music
+P:(ABC)2DEAB
+M:7/8
+L:1/16
+Q:1/4=120
+K:Cm
+%%MIDI channel 1
+%%MIDI program 1 71
+%%MIDI chordprog 21
+%%MIDI bassprog 21
+%%MIDI beat 120 100 60 2
+%%MIDI drumon
+%%MIDI drum d4d3dd2d2d2 41 43 37 41 37 37
+P:A
+|:\
+%%MIDI gchord c2z2z3
+%%MIDI program 1 21
+"Bb"B,2z2 BAGF EFEEDD | B,2z2 BAGF EFEEDD |
+    B,2z2 BAGF EFEEDD |\
+%%MIDI gchord c2f2cc2
+"Cm"E2>D2 EFDB, CG,C4:|
+P:B
+%%MIDI gchord f2f2cc2
+%%MIDI program 1 21
+|:"Bb"B,DD2 DB,GF EFEEDD | B,DD2 DB,GF EFEEDD |
+      B,DD2 DB,GF EFEEDD |"Cm" E2>D2 EFDB, CG,C4:|
+P:C
+%%MIDI gchord f2f2cc2
+%%MIDI program 1 21
+|:"C"=EFGG ACFG E_DCB,CD | =EEE_D CB,CD EFGGGC |
+     =EFGG ACFG E_DCB,CD |"Bbm" =EEE_D CB,CD "C"CG,C4:|
+P:D
+%%MIDI gchord f2f2cc2
+%%MIDI program 1 71
+ "C"gafg-g4-g6|-g4-g4-g4 f2|b2=a2g2f2 b2c'2d'2|c'2b2 =a2f2 gafg-g2|-g4-g4-g6|-g4-g4-g4 z2|
+P:E
+%%MIDI gchord f2f2cc2
+%%MIDI program 1 71
+|:"C"agff =eefg aagcgc | agff =e_dcB ccefgg |
+     agff =eefg aagcgc |"Bbm" agff =e_dcB "C"cGc4:|
+W:
+W:
+W:Arrangement Copyright (C) 2008 Voluntocracy.
+W:
+W:Permission is granted to copy and distribute modified or unmodified versions of this music
+W:provided the copyright notice and this permission notice are preserved on all copies and the
+W:entire such work is distributed under the terms of a permission notice identical to this one.

@@ -1,0 +1,54 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:s'Schwabenlisel (Schottisch) FCBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.89 (st00109) orig. F,C,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+cf |: "F"+>+a4 +>+a4 | a2^ga b3a | "C7"g3^f g2=f2 | e2d2c4 | "F"+>+a4 +>+a4 | a2^ga b3a |
+"C7"g3^f g2e2 |1 "F"f2f2 f2cf :|2 "F"f2f2 f2z2 || [K:C] "G7"+>+g4 +>+g4 | "C"g2^fg a3g | "G7"f3e f2e2 | d2c2B4 | 
++>+g4 +>+g4 | "C"g2^fg a3g | "G7"f3e f2b2 | "C"c'4 b2"_> Teil A"_b2 || [K:Bb] "Bb"d'2ff f2f2 | b3d d2d2 | 
+"F7"cdef gabc' | "Bb"d'2b2 f4 | d'2ff f2f2 | b3d d2d2 | "C7"=efga bd'c'b | "F7"a2g2f4 | "Bb"d'2ff f2f2 | 
+b2dd d2d2 | "F7"cdef gabc' | "Bb"d'2b2f4 | "Cm/Eb"g2cc g2c2 | "Bb"f2BB f2B2 | "F7"ABcd efga | "Bb"b2b2 b2z2 |] 
+
+X:2
+T:s'Schwabenlisel (Schottisch) FCBb chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+cf [P:A] |: "F"+>+a4 +>+a4 | a2^ga b3a | "C7"g3^f g2=f2 | e2d2c4 | "F"+>+a4 +>+a4 | a2^ga b3a |
+"C7"g3^f g2e2 |1 "F"f2f2 f2cf :|2 "F"f2f2 f2z2 || [P:B] [K:C] "G7"+>+g4 +>+g4 | "C"g2^fg a3g | "G7"f3e f2e2 | d2c2B4 | 
++>+g4 +>+g4 | "C"g2^fg a3g | "G7"f3e f2b2 | "C"c'4 b2"_> Teil A"_b2 || [P:C] [K:Bb] "Bb"d'2ff f2f2 | b3d d2d2 | 
+"F7"cdef gabc' | "Bb"d'2b2 f4 | d'2ff f2f2 | b3d d2d2 | "C7"=efga bd'c'b | "F7"a2g2f4 | "Bb"d'2ff f2f2 | 
+b2dd d2d2 | "F7"cdef gabc' | "Bb"d'2b2f4 | "Cm/Eb"g2cc g2c2 | "Bb"f2BB f2B2 | "F7"ABcd efga | "Bb"b2b2 b2z2 |] 
+
+
+
+X:3
+T:s'Schwabenlisel (Schottisch) CGF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+Gc |: "C"!>!e4 !>!e4 | e2^de f3e | "G7"d3^c d2=c2 | B2A2G4 | "C"!>!e4 !>!e4 | e2^de f3e |
+"G7"d3^c d2B2 |1 "C"c2c2 c2Gc :|2 "C"c2c2 c2z2 || [K:Gmaj] "D7"!>!d4 !>!d4 | "G"d2^cd e3d | "D7"c3B c2B2 | A2G2F4 | 
+!>!d4 !>!d4 | "G"d2^cd e3d | "D7"c3B c2f2 | "G"g4 f2"_> Teil A"=f2 || [K:Fmaj] "F"a2cc c2c2 | f3A A2A2 | 
+"C7"GABc defg | "F"a2f2 c4 | a2cc c2c2 | f3A A2A2 | "G7"=Bcde fagf | "C7"e2d2c4 | "F"a2cc c2c2 | 
+f2AA A2A2 | "C7"GABc defg | "F"a2f2c4 | "Gm/Bb"d2GG d2G2 | "F"c2FF c2F2 | "C7"EFGA Bcde | "F"f2f2 f2z2 |] 
+
+X:4
+T:s'Schwabenlisel (Schottisch) CGF 5- chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+Gc [P:A] |: "C"!>!e4 !>!e4 | e2^de f3e | "G7"d3^c d2=c2 | B2A2G4 | "C"!>!e4 !>!e4 | e2^de f3e |
+"G7"d3^c d2B2 |1 "C"c2c2 c2Gc :|2 "C"c2c2 c2z2 || [P:B] [K:Gmaj] "D7"!>!d4 !>!d4 | "G"d2^cd e3d | "D7"c3B c2B2 | A2G2F4 | 
+!>!d4 !>!d4 | "G"d2^cd e3d | "D7"c3B c2f2 | "G"g4 f2"_> Teil A"=f2 || [P:C] [K:Fmaj] "F"a2cc c2c2 | f3A A2A2 | 
+"C7"GABc defg | "F"a2f2 c4 | a2cc c2c2 | f3A A2A2 | "G7"=Bcde fagf | "C7"e2d2c4 | "F"a2cc c2c2 | 
+f2AA A2A2 | "C7"GABc defg | "F"a2f2c4 | "Gm/Bb"d2GG d2G2 | "F"c2FF c2F2 | "C7"EFGA Bcde | "F"f2f2 f2z2 |] 
+
+

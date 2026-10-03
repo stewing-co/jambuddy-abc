@@ -1,0 +1,95 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Zermatter-Polka  CF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.175 (pk00785) orig. C,F-Dur
+T: Zermatter T\"anze. S.166-177.\"Uberliefert durch Moritz Perren, "Hofmuri", 1874-1952.
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+ef |: "C"g2ec e2ef | "G7"g2fd f2gc' | bd'a2 abf2 | "C"agea g2"_viol."eg | g2ec e2ef | 
+"G7"g2fd f2gc' | b3a gfed |1 "C"c6ef :|2 "C"c6 "_clar."cd |: "C"e3d edea | "G7"Pg2B2 B2de |  
+fede fgab | "C"c'bag e2cd | e3d edea | "G7"g2B2 B2de | fede fgab | "C"c'2gec4 :| [K:F] 
+|: "_viol.""C7"Pc'2g2 Pc'2g2 | "F"a2fc Acfa | "C7"g2ec =Bceg | "F"a2fc Acf"_ clar."a | "C7"Pc'2g2 Pc'2g2 | "F"a2fc Acfa | 
+"C7"g2d'c' bgeg |1 "F"f2a2f2z2 :|2 "F"f2a2 f2ef |: [K:C] "C"g2g2 gc'ba | a2g^f g3a | "G7"g2fe f3g | 
+"C"f2ed e2ef | g2g2 gc'ba | a2g^f g2a2 | "C"e2de "G7"f3B |1 "C"c2e2 c2cf :|2 "C"c2e2 c2"_d.C."z2 |] 
+X:2
+T:Zermatter-Polka  GC 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+Bc |: "G"d2BG B2Bc | "D7"d2cA c2dg | fae2 efc2 | "G"edBe d2Bd | d2BG B2Bc | 
+"D7"d2cA c2dg | f3e dcBA |1 "G"G6Bc :|2 "G"G6 GA |: "G"B3A BABe | "D7"Pd2F2 F2AB | 
+cBAB cdef | "G"gfed B2GA | B3A BABe | "D7"d2F2 F2AB | cBAB cdef | "G"g2dBG4 :| [K:C] 
+|: "G7"Pg2d2 Pg2d2 | "C"e2cG EGce | "G7"d2BG ^FGBd | "C"e2cG EGce | "G7"Pg2d2 Pg2d2 | "C"e2cG EGce | 
+"G7"d2ag fdBd |1 "C"c2e2c2z2 :|2 "C"c2e2 c2Bc |: [K:G] "G"d2d2 dgfe | e2d^c d3e | "D7"d2cB c3d | 
+"G"c2BA B2Bc | d2d2 dgfe | e2d^c d2e2 | "G"B2AB "D7"c3F |1 "G"G2B2 G2Gc :|2 "G"G2B2 G2"_d.C."z2 |] 
+% pk00785
+X: 3
+T: Zermatter-Polka  CF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+ef |: "C"g2ec e2ef | "G7"g2fd f2gc' | bd'a2 abf2 | "C"agea g2eg | g2ec e2ef | 
+"G7"g2fd f2gc' | b3a gfed |1 "C"c6ef :|2 "C"c6 cd |: "C"e3d edea | "G7"Pg2B2 B2de |  
+fede fgab | "C"c'bag e2cd | e3d edea | "G7"g2B2 B2de | fede fgab | "C"c'2gec4 :| [K:F] 
+|: "C7"Pc'2g2 Pc'2g2 | "F"a2fc Acfa | "C7"g2ec =Bceg | "F"a2fc Acfa | "C7"Pc'2g2 Pc'2g2 | "F"a2fc Acfa | 
+"C7"g2d'c' bgeg |1 "F"f2a2f2z2 :|2 "F"f2a2 f2ef |: [K:C] "C"g2g2 gc'ba | a2g^f g3a | "G7"g2fe f3g | 
+"C"f2ed e2ef | g2g2 gc'ba | a2g^f g2a2 | "C"e2de "G7"f3B |1 "C"c2e2 c2cf :|2 "C"c2e2 c2"_d.C."z2 |] 
+% pk00785
+X:4
+T:Zermatter-Polka  GC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+Bc |: "G"d2BG B2Bc | "D7"d2cA c2dg | fae2 efc2 | "G"edBe d2Bd | d2BG B2Bc | 
+"D7"d2cA c2dg | f3e dcBA |1 "G"G6Bc :|2 "G"G6 GA |: "G"B3A BABe | "D7"Pd2F2 F2AB | 
+cBAB cdef | "G"gfed B2GA | B3A BABe | "D7"d2F2 F2AB | cBAB cdef | "G"g2dBG4 :| [K:C] 
+|: "G7"Pg2d2 Pg2d2 | "C"e2cG EGce | "G7"d2BG ^FGBd | "C"e2cG EGce | "G7"Pg2d2 Pg2d2 | "C"e2cG EGce | 
+"G7"d2ag fdBd |1 "C"c2e2 c2z2 :|2 "C"c2e2 c2Bc |: [K:G] "G"d2d2 dgfe | e2d^c d3e | "D7"d2cB c3d | 
+"G"c2BA B2Bc | d2d2 dgfe | e2d^c d2e2 | "G"B2AB "D7"c3F |1 "G"G2B2 G2Gc :|2 "G"G2B2 G2"_d.C."z2 |] 
+% pk00785
+X:5
+T:Zermatter-Polka  D&G (tinwhistle in D)
+T: pk00785 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D%%MIDI gchordon
+FG |: "D"A2FD F2FG | "A7"A2GE G2Ad | ceB2 BcG2 | "D"BAFB A2FA | A2FD F2FG | 
+"A7"A2GE G2Ad | c3B AGFE |1 "D"D6FG :|2 "D"D6 DE |: "D"F3E FEFB | "A7"PA2C2 C2EF | 
+GFEF GABc | "D"dcBA F2DE | F3E FEFB | "A7"A2C2 C2EF | GFEF GABc | "D"d2AFD4 :| [K:G] 
+|: "D7"Pd2A2 Pd2A2 | "G"B2GD B,DGB | "D7"A2FD ^CDFA | "G"B2GD B,DGB | "D7"Pd2A2 Pd2A2 | "G"B2GD B,DGB | 
+"D7"A2ed "_c"cAFA |1 "G"G2B2G2z2 :|2 "G"G2B2 G2FG |: [K:D] "D"A2A2 AdcB | B2A^G A3B | "A7"A2GF G3A | 
+"D"G2FE F2FG | A2A2 AdcB | B2A^G A2B2 | "D"F2EF "A7"G3C |1 "D"D2F2 D2DG :|2 "D"D2F2 D2"_d.C."z2 |] 
+X:6
+T:Zermatter-Polka  D&G (tinwhistle in D) solo
+T: pk00785 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+FG |: A2FD F2FG | A2GE G2Ad | ceB2 BcG2 | BAFB A2FA | A2FD F2FG | 
+A2GE G2Ad | c3B AGFE |1 D6FG :|2 D6 DE |: F3E FEFB | PA2"_?"C2 C2EF | 
+GFEF GABc | dcBA F2DE | F3E FEFB | A2C2 C2EF | GFEF GABc | d2AFD4 :| [K:G] 
+|: Pd2A2 Pd2A2 | B2GD "_?"B,DGB | A2FD "_?"^CDFA | B2GD B,DGB | Pd2A2 Pd2A2 | B2GD B,DGB | 
+A2ed "_c"cAFA |1 G2B2G2z2 :|2 G2B2 G2FG |: [K:D] A2A2 AdcB | B2A^G A3B | A2GF G3A | 
+G2FE F2FG | A2A2 AdcB | B2A^G A2B2 | F2EF G3"_=C"E |1 D2F2 D2DG :|2 D2F2 D2"_d.C."z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 20, 2016
+

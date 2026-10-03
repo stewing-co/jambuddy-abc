@@ -1,0 +1,53 @@
+X:211
+T:Gloria
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:D
+V: 11 clef=treble name="Corno in F/Eb (Fa/Eb) II" sname="Cor.II"
+%%MIDI program 1 69
+%%staves [( 11 )]
+%------------------
+[Q:"Allegro"][K:C] "^Corno in D" !f!(c2G2 | C)zz2 | Z2 | !f!(c2G2 | C)zz2 | Z |  !pp!c4 | G4 | !p! C4- | C4- | "_cresc" C4 |\
+!f! G4 | c c/>c/ cc | !f! G4 | GCCz | !f! A4 | Addz | !f! G4 | C4- | C4- | Cz!f!G,2- | G,2G,2- | G,zz2 | Z3 | \
+!pp! G,4 | C4- | Czz2 | Z | zz/ !f! c//c//cz | zz/c//c//cz | zz/c//c//cz | zz/c//c//cz | !fermata!z4 | Z13 | !p!C4- | Czz2 | \
+Z | !f! zf2f- | fzz2 || [M:3/4][Q:"Sostenutto"][K:C] G3 | G3 | !p! d3- | !fermata!d3 || \
+[Q:"Allegretto"] [M:3/4] [K:clef=bass] !p! Z15 | !p! F,2E, | !f!F,F,z | Z | !f! C,3 | F,F,z | !f! F,3 | C,2 !f!C, | C,C,C, | C,zz | Z13 | \
+!f!E,,E,,E,, | E,,>E,, E,,/2E,,/2 | E,,zz | C,zz | Z5 | !f! E,,3 | C,3 | !f! F,F,z | Z | !f! C,2C,| F,F,z | !f!C,>C, C,/2C,/2 | C,C,C, | !f! C,>C, C,/2C,/2 | C,C,C, | C,zz | z!fermata!z || [K:clef=treble] \
+[Q:"Largetto"][K:] [M:3/4] z | Z5 | !p! AAz | Z5 | | "_cres." d3 | A/A/Az | !p!dzz | !f! C3- | C/z/zz | Z2 ||\
+[Q:"Allegro Moderato"] [K:][M:C] Z6 |  !p! "_cres." G,4- | G,2-G,/G,/G,/G,/ | Czz2 | Z3 | \
+!f! G,zG,z | Cz!f!CC | G,zz2 | Z3 | !f! dzz2 | !f! dzz2 | G,zz2 | Z | !f! gfef | ezz2 || \
+[Q:"Largo"][M:3/4][K:] !f! d/z/z d/>d/ | A/z/z!f!A/>A/ | d/z/zz | Z7 |\
+[Q:"Allegro Moderato"][M:C][K:] Z2 | !p! A4 | dzz2 | Z12 | !p! C4- | Czz2 | !p! C4- | Czz2 | \
+!p! f4- | f zz2 | Z3 | !p! A4 | dzz2 | !f!d4- | dzz2 | !f! d4- | dzz2 |
+!f! C2C2- | Czz2 | !f! C2C2- | Czz2 | Z2 | !f! C4- | C4- | C4- | Czz2 | Z5 | !fermata! Z || \
+[Q:"Sostenuto"] [K:][M:3/4] "^Corno in Eb" z/ | Z16 || \
+[Q:"Allegro Moderato"][K:] [M:C|] Z19 | !f! A2Bc | d2GG | Czz2 | z2 !f! e2 | Azz2 |Z3 | !f!G2A=B | czz2 | Z | \
+!f! e4 | Azz2 | Z4 | z2 !f! e2 | A2d2 | Azz2 | Z | z2 !f! e2 | Azz2 | Z | !f! E4- | E4 | \
+!f! E4- | E4- | E4- | E4- | Ezz2 | Z | !p! (G4 | c)zz2 |  Z3 | !p! c4 | !fermata! G4 || \
+[Q:"Largo"][K:bass][M:6/8][L:1/8] E,,2z z2z | !p! E,,E,,E,, E,,2z | Z2 | !pp! (B,,3E,3 | B,,2)z z2z | Z | \
+!pp! (B,,6 | E,3 G,,2)z | Z4 | z2z !p! (E,3 | B,,3 E,3) | .B,,.B,,.B,, .B,,2z | !f! B,,,2B,,,B,,,2B,,, | E,,2E,,E,,2z | \
+!pp! (B,,6 | E,2B,, E,,2)z | !f! B,,,2B,,, B,,,2B,,, | E,,2zz2z | Z10 | \
+!f! E,,E,,E,, E,,E,,E,, | !f! E,,E,,E,, E,,E,,E,, | !f! E,,E,,E,, E,,E,,E,, | !>!E,,3-E,,2z | Z4 | \
+!f! B,,2B,,B,,2B,, | E,,2z E,,2z  | !f! B,,2B,,B,,2B,,| E,,2E,,E,,2z | !f! E,,2E,,-E,,2z | B,,,2B,,,-B,,,2z | Z | \
+!pp! (E,3B,,3) || \
+%-----------
+[Q:"Allegro"][K:][M:C] [L:1/4] E,,/z/zz2 | Z3 | !pp! E,,4- | E,,E,,E,,z | !p! (B,,4 | E,)E,,E,,z | \
+!p! E,,4- | E,,zz2 | !p! E,,4- | E,,zz2 | Z3 | !f! C,/C,/ C,z2 | !f! E,,/E,,/E,,zE,, | B,,,zz2 | Z | \
+z !p! .E,.E,z | Z | z !p! .B,,,.B,,,z | !f! E,zB,,z | E,,E,,E,,z | Z | !f! F,zz2 | F,zz2 | Z2 | \
+!pp! (G,,2B,,2 | E,2B,,2 | G,,)zz2 | z2 !p! C,2- | C,4- | C,z !f! B,,B,, | E,,z !pp! E,,2- | E,,4- | E,,z !p! E,,2- | E,,4- | E,,zz2 | \
+!f! F,/F,/F,z2 | !f! B,,/B,,/B,,z2 | !f! G,/G,/G,z2 | C,/C,/C,z2 | z2 !f! F,F, | z2 !f! F,2 | z2 !f! F,F, | z2 !f! B,,,B,,, | \
+Z3 | !fermata! Z || \
+[Q:"Sostenuto"] [K:treble][M:2/4] "^Corno in D" Z19 | !fermata! Z || \
+[Q:"Allegro Moderato"][K:D] [M:C|] !pp! C4- | C4- | C4- | C4 | \
+!p! C4- | C4- | C2z2 | !f! CzCz | !pp! G4- | G4- | G4- | G4- | G4- | G4- | Gz !f! G,G, | CzGz | C2C2 | C2C2 | Czz2 | Z | \
+!pp! G,4- | G,4- | G,4- | G,4- | G,4- | G,zz2 | !f! G,zG,z | CCCz | !f! G,zG,z | Czz2 | Z | !f! CzCz | Z6 | \
+!f! fffz | Z | !f! C4- | C4- | C4- | Czz2 | Z2 | !f! CzCz | Z | !f! AzAz | Z3 | \
+!f! CzCz | G,zG,z | Czz2 | !f! CzCz | G,G,G,2 | G,2G,2 | G,zz2 | Z | !f! EzEz | GzGz | czz2 | z2 !f! G,z | \
+EzEz | GzGz | cz!f!cz | dzGz | !f! C4 | CzCz | !f! CzCz | z2 !f! G,2 | Czz2 | Z15 | !p! (c4 | G4) | \
+!p! C4- | C4- | C4- | C4- | Czz2 | Z | !f!EzEz | GzGz | !f!c4 | G4 | Czz2 | Z3 | !f! c2c>c | c2c2 | G,zz2 | Z5 | !f! CCCz | \
+CCCz | !f! dddz | !f! G,4 | CCCz | Z | !f! c2c>c | \
+c2c2 | !f! G2G>G | G2G2 | !p! C4- | C4 | !p! C4- | \
+C4 | !p! C4- | C4- | C4- | C4- | Czz2 | \
+!p! C2z2 | C2z2 | !p! C2z2 |] \
+%------------------

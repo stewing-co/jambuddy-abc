@@ -1,0 +1,92 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Der luschtig Giger (Schottisch)  CG
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.256 (st00952) orig. C,G-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"gg g>f | ee e>d | ce ae | "G7"g2f2 | ff f>e | dd d>c |1 Bd gd | "C"f2e2 :|2 Bd gB | 
+"C"c2c2 |: [K:G] "G"Bdd2 | GBB2 | B>B AG | "D7"FAA2 | cee2 | dff2 | df/e/ df | "G"gg gz :| 
+W:
+W: Anmerkung H.C.: Radio Bern Aufnahme mit Marcel Tschopp 20. Apr. 1952.
+W: cf. Giger (=Geiger), a violin player
+% st00952
+X:2
+T:Der luschtig Giger (Schottisch)  FC 7-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F%%MIDI gchordon
+"F"cc c>B | AA A>G | FA dA | "C7"c2B2 | BB B>A | GG G>F |1 EG cG | "F"B2A2 :|2 EG cE | 
+"F"F2F2 |: [K:C] "C"EGG2 | CEE2 | E>E DC | "G7"B,DD2 | FAA2 | GBB2 | GB/2A/2 GB | "C"cc cz :| 
+% st00952
+X:3
+T:Der luschtig Giger (Schottisch)  FC 5+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F%%MIDI gchordon
+"F"c'c' c'>b | aa a>g | fa d'a | "C7"c'2b2 | bb b>a | gg g>f |1 eg c'g | "F"b2a2 :|2 eg c'e | 
+"F"f2f2 |: [K:C] "C"egg2 | cee2 | e>e dc | "G7"Bdd2 | faa2 | gbb2 | gb/2a/2 gb | "C"c'c' c'z :| 
+% st00952
+X:4
+T: Der luschtig Giger (Schottisch)  CG (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"gg g>f | ee e>d | ce ae | "G7"g2f2 | ff f>e | dd d>c |1 Bd gd | "C"f2e2 :|2 Bd gB | 
+"C"c2c2 |: [K:G] "G"Bdd2 | GBB2 | B>B AG | "D7"FAA2 | cee2 | dff2 | df/e/ df | "G"gg gz :| 
+% st00952
+X:5
+T:Der luschtig Giger (Schottisch)  FC (5letras transposed)
+R:shottishe
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"cc c>B | AA A>G | FA dA | "C7"c2B2 | BB B>A | GG G>F |1 EG cG | "F"B2A2 :|2 EG cE | 
+"F"F2F2 |: [K:C] "C"EGG2 | CEE2 | E>E DC | "G7"B,DD2 | FAA2 | GBB2 | GB/2A/2 GB | "C"cc cz :| 
+% st00952
+X:6
+T:Der luschtig Giger (Schottisch)  FC (5letras transposed)
+R:shottishe
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"c'c' c'>b | aa a>g | fa d'a | "C7"c'2b2 | bb b>a | gg g>f |1 eg c'g | "F"b2a2 :|2 eg c'e | 
+"F"f2f2 |: [K:C] "C"egg2 | cee2 | e>e dc | "G7"Bdd2 | faa2 | gbb2 | gb/2a/2 gb | "C"c'c' c'z :| 
+% st00952
+X:7
+T:Der luschtig Giger (Schottisch) G&D (tinwhistle in D)
+T:st00952 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"dd d>c | BB B>A | GB eB | "D7"d2c2 | cc c>B | AA A>G |1 FA dA | "G"c2B2 :|2 FA dF | 
+"G"G2G2 |: [K:D] "D"FAA2 | DFF2 | F>F ED | "A7"CEE2 | GBB2 | Acc2 | Ac/2B/2 Ac | "D"dd dz :| 
+X:8
+T:Der luschtig Giger (Schottisch) G&D (tinwhistle in D) solo
+T:st00952 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:G transpose=12
+dd d>c | BB B>A | GB eB | d2c2 | cc c>B | AA A>G |1 FA dA | c2B2 :|2 FA dF | 
+G2G2 |: [K:D] FAA2 | DFF2 | F>F ED | "_=C E"FEE2 | GBB2 | Acc2 | Ac/2B/2 Ac | dd dz :|
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 29, 2016

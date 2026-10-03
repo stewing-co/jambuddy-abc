@@ -1,0 +1,26 @@
+X:1204
+T:N.12 Cancao do soldado
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:D
+V: 4 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 4 ]
+%-----
+[Q:"Marcial"] [A,D]zz [A,D]zz | [A,D]zz [A,D]zz |: [A,D]zz [A,D]zz  | \
+zz .[A,D]/.[A,D]/ .[A,D] z z | zz (.[A,E]/.[A,E]/) .[A,E] z z | \
+zz (.[A,D]/.[A,D]/) .[A,D] z z | [A,D]zz [A,D]zz | \
+zz (.[A,E]/.[A,E]/) .[A,E] z z | ^G,zz B,zz | zz (.[A,E]/.[A,E]/) .[A,E] z z | [A,E]zz [A,E]zz | \
+zz .[A,D]/.[A,D]/ .[A,D] z z | zz (.[A,E]/.[A,E]/) .[A,E] z z | zz .[A,D]/.[A,D]/ .[A,D] z z | \
+[A,D] z z [A,D] z z | [G,D] z z !>!^E2z | [A,F] z z [A,E] z z | \
+z2 .A,/.A,/ .Dz!fermata!z "un poco meno" !coda!||\
+(F,3G,3) | (F,3G,3) | (F,3 E,>F,E,) | D,3-D,zz | (B,6 | "_ritard. "A,6 | \
+B,3 C2B,) | !fermata!^A,3z2z || [A,D]zz [A,D]zz  | \
+zz .[A,D]/.[A,D]/ .[A,D] z z | zz (.[A,E]/.[A,E]/) .[A,E] z z | \
+zz (.[A,D]/.[A,D]/) .[A,D] z z | [A,D]zz [A,D]zz | \
+zz (.[A,E]/.[A,E]/) .[A,E] z z | ^G,zz B,zz | zz (.[A,E]/.[A,E]/) .[A,E] z z | [A,E]zz [A,E]zz | \
+zz .[A,D]/.[A,D]/ .[A,D] z z | zz (.[A,E]/.[A,E]/) .[A,E] z z | zz .[A,D]/.[A,D]/ .[A,D] z z | \
+[A,D] z z [A,D] z z | [G,D] z z !>!^E2z | [A,F] z z [A,E] z z | \
+z2 .A,/.A,/ .Dzz |]
+%-----

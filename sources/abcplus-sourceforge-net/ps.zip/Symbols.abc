@@ -1,0 +1,102 @@
+%%format ps.fmt
+%oneperpage
+%%measurenb -1
+%%scale 1
+%%staffsep 2.cm
+%%stretchlast 0
+
+
+X:1
+T:barr\'es & fret positions
+M:none
+K:none clef=treble
+"^one function per fret and one other per kind of barr\'e (Ist to XIVten)"!/I(!_Ac!/I)!f !//I(!_E_Ac!//I)!f !I(!F,_B,_E_Ac!I)!uuHqf|
+ "_one function per all frets"!pXII(!gb!pXII)!He' !pI(!_Ac!pI)!f !pXIII(! _Ac!pXIII)!f|
+%postscript logme
+
+X:2
+T: accents
+M:none
+K:none clef=treble
+.b2 .B,2 !_!g !_!D !>!c'2 !>!C2  !v!g2 !v!G,2 !v.!a2 !v.!A,2 !>.!c2 !>.!G2 !_.!e2 !_.!E2 !>_!B2 [V:1 stem=up]!>_!B2 [V:1 stem=auto]!>_!b2 !>_!B,2||
+%postscript logme
+
+X:3
+T: text
+M:none
+K:none clef=treble
+[P:B1a] !cresc!!<(!CDEFlv!<)!q| !dim!!>(!FDEC!>)!| "^:(avanzando)btx"GABc| "^accel" defg| "^rit."agfe|
+"^:(B1z)bl" "^:(rall.)ll"dcBA|!
+[Q: "a Tempo"] A,4| CDEF!fine!|| z4!D.C.!|| z4!D.S.!|| z4!alcoda!||z4| [M:3]"^allarg." C/D/E/!beamon!"_:(beamon for beaming crossing the measure-bars)ll"|[M:5]^^F/"^stringendo"G/A/B/c/|!
+
+
+%%newpage
+%%stretchlast 1
+%%scale .8
+
+X:4
+T:arpeggios & braces
+L: 1/4
+%staves {1 2}
+M:none
+K:none
+V:1
+!arpeggio![CEGc]4|!arpu![^C^E^G^c]4| !arpd![CEGc]4 !biarp![DFAd]4| !arps![CEGc]4| "2 voices""^:(!arps! --- !brd!)ll"!arps!_b||
+V:2
+z4| z4|   !pedal(!z4 z4!pedal)!| !ped!!arpe! [C,,E,,G,,C,]4|!ped-end!!brd!^D,||
+
+%%vskip 80
+
+X:5
+T:dynamiques 
+M:none
+K:none clef=treble
+%%dynalign 0
+[I:volume 1]
+"_One function (pf)"!mp!c!p!A!pp!G!ppp!E!pppp!C|!mf!C!f!C!ff!C!fff!C!ffff!C|
+"_(idem (pf)"!mfp!C!mfpp!C!fp!C!fpp!C!ffp!C!ffpp!C!fffp!C!fffpp!C!fmp!C!ffmp!C!fffmp!C|
+[I:volume 0]
+"^One function (apx)"!smp!C!smf!C!sf!C!sff!C!sfff!C!sffff!C|
+"^(idem (apx)"!smfp!C!smfpp!C!sfp!C!sfpp!C!sffp!C!sffpp!C!sfffp!C!sfffpp!C!sfmp!C!sffmp!C!sfffmp!C|
+ "^One function for pi\`u (piu)," "^another one for meno (meno)"!pif!C!pip!C!mnp!C!mnf!C| "^One function (apz)"!smpz!C!smfz!E!sfz!F!sffz!G!sfffz!_B!sffffz!c|
+
+%%newpage
+
+X:8
+T:Quatertones
+M:1/1
+L:1/1
+Q:1/4=40
+V:1
+V:2
+V:3
+%%MIDI program 1 79
+%%MIDI program 2 79
+%%MIDI program 3 79
+K:none
+[V:1] x[|]x ^3/2F | =G  |^/G  | ^G  | _/A | =A  | ^/A | ^A  | ^3/2A| =B  | ^/B| =c  | 
+[V:2]x[|]x  ^F   |  ^F |  ^F |  ^F |  ^F |  ^F |  ^F |  ^F |  ^F  |  ^F |  ^F | ^F  |
+[V:3]x[|]x ^/F   | ^E  | ^/E | =E  |^3/2D | ^D  | ^/D | =D  | _/D | ^C  |^/C  | =C  |
+
+%%vskip 80
+
+X:9
+T:manipulating colors with postscript info
+M:none
+L:1/16
+Q: 1/4=40
+K:C
+%%postscript /SL{1 0 0 setrgbcolor M RC RL RC closepath fill 0 0 0 setrgbcolor}!
+%%postscript /dSL{1 0 0 setrgbcolor M [4] 0 setdash .8 SLW RC stroke  0 0 0 setrgbcolor [] 0 setdash}!
+%%staves [1 2]
+%%tuplets 2 0 2
+V:1 clef=treble
+[M:2/4][I:postscript /hd{xymove 0 1 0 RGB 3.5 2 RM -2 3.5 -9 -0.5 -7 -4 RC 2 -3.5 9 0.5 7 4 RC fill 0 0 0 RGB}def](14:8(ABcdefgagfedcB) | [M:1/2] [I:postscript /Hd{xymove 0 0 1 RGB 3 1.6 RM -1 1.8 -7 -1.4 -6 -3.2 RC 1 -1.8 7 1.4 6 3.2 RC 0.5 0.3 RM 2 -3.8 -5 -7.6 -7 -3.8 RC -2 3.8 5 7.6 7 3.8 RC fill 0 0 0 RGB}def]c'8| [I:postscript /HD{xymove 1 1 0 RGB -2.7 1.4 RM 1.5 2.8 6.9 0 5.3 -2.7 RC -1.5 -2.8 -6.9 0 -5.3 2.7 RC 8.3 -1.4 RM 0 1.5 -2.2 3 -5.6 3 RC -3.4 0 -5.6 -1.5 -5.6 -3 RC 0 -1.5 2.2 -3 5.6 -3 RC 3.4 0 5.6 1.5 5.6 3 RC fill 0 0 0 RGB}def][M:1/1]C16 |](abc'd')|
+V:2 clef=bass
+[M:1/8]  [I:postscript /hd{xymove .7 .3 0 RGB 3.5 2 RM -2 3.5 -9 -0.5 -7 -4 RC 2 -3.5 9 0.5 7 4 RC fill 0 0 0 RGB}def].(.G,2| [M:3/8].C2.G,2.C2 | [M:1/2] [I:postscript /Hd{xymove 1 0 0 RGB 3 1.6 RM -1 1.8 -7 -1.4 -6 -3.2 RC 1 -1.8 7 1.4 6 3.2 RC 0.5 0.3 RM 2 -3.8 -5 -7.6 -7 -3.8 RC -2 3.8 5 7.6 7 3.8 RC fill 0 0 0 RGB}def]C,8| [I:postscript /HD{xymove 1 0 1 RGB -2.7 1.4 RM 1.5 2.8 6.9 0 5.3 -2.7 RC -1.5 -2.8 -6.9 0 -5.3 2.7 RC 8.3 -1.4 RM 0 1.5 -2.2 3 -5.6 3 RC -3.4 0 -5.6 -1.5 -5.6 -3 RC 0 -1.5 2.2 -3 5.6 -3 RC 3.4 0 5.6 1.5 5.6 3 RC fill 0 0 0 RGB}def][M:1/1] C16) |]z4|
+
+
+
+%END OF Symboles.abc
+%see too SpecialHeadsAndMarks.abc
+

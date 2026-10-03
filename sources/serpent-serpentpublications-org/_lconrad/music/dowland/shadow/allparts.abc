@@ -1,0 +1,362 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XII. In this trembling shadow
+T:CANTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on first line
+K:G dor
+z8 | z8 | z4 A3 A | =B2 c2 d3 d (_e > e )
+w: 1.~In this trem- bling, trem- bling sha- dow, 
+w: 2.~As I sing, sweet flow- ers  Ile * strow,
+w: 3.~Mu- sicke all thy sweet- nesse, sweet- nesse lend
+d2 c B2 _A | G G c4 =B2 |
+w: cast from those boughes which thy wings(2) shake,
+N:(2) It's really wings here and windes in the other three parts.  Probably this one is the mistake.
+w: from the fruit- full val- lies brought:
+w: while of his high power I speake,
+z4 z2 "(1)"d3 | A A > A c4 - | c c
+N:Original has dot to right of barline
+w: Farre from hu- mane trou- * bles,
+w: Prais- ing him by whom  * they 
+w: On whom all * pow- * ers 
+G > A B > A G/ ^F/ G (A3 A) |
+w: hu- * * mane * * * trou- bles,
+w: grow * * by * * * whom, by
+w: all * * pow- * * * ers *
+(G4 G) G ^F2
+w: trou- * bles plac'd:
+w: whom * they grow,
+w: else * de- pend,
+z2 |: (B3 B) B2 B4 |
+w: Songs to the Lord,
+w: him * that heaven,
+w: but * my brest 
+z2 B c d2 
+w: to the Lord
+w: that heaven and 
+w: is now  too
+A A A4 |
+w: would I make,
+w: earth hath wrought,
+w: weeke, too weeke,
+z2 d2 c4
+w: Dark- nesse,
+w: Him that
+w: trum- pets
+B4 A4 |
+w: Dark- nesse,
+w: Him that
+w: trum- pets
+G G B3 A G2 ^F2
+w: from my minde then * take,
+w: all things framde * of nought,
+w: shrill the ayre * should breake,
+z2 | z8 | z2 B B c2 
+w: For thy rites, 
+w: Him that all,
+w: All in vaine
+c2 d3
+w: thy rites
+w: that all
+w: in vaine
+d c B B4 A2 B4 |
+w: none * * may be- gin,
+w: for man * * did make,
+w: my sounds * * I raise
+z2 G G ^F2 B2 A2 
+w: Till they feele thy light
+w: But made man for his
+w: Bound- lesse pow- er askes
+d c | B2 c3 B 
+w: Till they feele thy light
+w: But made man for his
+w: Bound- lesse pow- er askes 
+A > G HG4 :|
+w:  with- * in.
+w: own * sake.
+w: bound- lesse praise.
+
+X:2
+T:XII. In this trembling shadow
+T:ALTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on second line
+K:G dor
+z4 E3 E ^F2 G2 A3 A B > A G2
+w: 1.~In this trem- bling, trem- bling sha- * dow, 
+w: 2.~As I sing, sweet flow- ers  Ile * strow,
+w: 3.~Mu- sicke all thy sweet- nesse, sweet- nesse lend
+z4 z G2 G _A > A G2 G c > c
+w: In this trem- bling, trem- bling sha-  dow, 
+w: As I sing, sweet flow- ers  Ile  strow,
+w: Mu- sicke all thy sweet- nesse, sweet- nesse lend
+B _A G2 F _E > F G3 F D2 C4
+w: cast from those boughes which thy windes, thy windes shake,
+w: from the fruit- full val- lies, val- * lies brought:
+w: while of his high * pow- er I speake,
+z4 D4 E2 F3 E/ D/ _E2 D2 
+w: Farre from hu- mane * trou- bles,
+w: Prais- ing him by * whom   they 
+w: On whom all * pow- * ers 
+z D/ E/ F > E D/ C/ D 
+w: hu- * * mane * * * trou- bles,
+w: grow * * by * * * whom, by
+w: all * * pow- * * * ers *
+D ^C/ =B,/ ^C ^C D6
+w: trou- * bles plac'd:
+w: whom * they grow,
+w: else * de- pend,
+|:z2  _E3 E _E2 F2 G D
+w: Songs to the, to the Lord,
+w: him  that heaven, that heaven and
+w: but  my brest, my brest is now
+D E ^F2
+w: would I make,
+w: earth hath wrought,
+w:  too weeke,
+z D E2 F F2 
+w: Songs to the  Lord,
+w: him * that heaven
+w: but  my brest
+G F D 
+w: would I make,
+w: earth hath wrought,
+w: is now too weeke,
+_E4 D4 
+w: Dark- nesse,
+w: Him that
+w: trum- pets
+C3 D _E2 D2 F2 B, C D2 
+w: from my minde, my minde then * take,
+w: all things framde, things framde of * nought,
+w: shrill the ayre, the ayre  should * breake,
+D2 C3 C D3 D C B, B,4 A,2 B,2
+w: For thy rites, 
+w: Him that all,
+w: All in vaine
+F2 G3 
+w: none
+w: for
+w: my
+F _E2 C F2 _E D4 C2 D6
+w: none * * may be- gin, thy rites, thy rites none may none may be- gin,
+w: for * * man  did make, that all, that all for man for man did make,
+w: my * * sounds  I raise, in vaine my sounds, my sounds I raise, I raise,
+z F/ F/ G F _E2 D D 
+w: Till they feele, they feele thy light
+w: But made man, made man for his
+w: Bound- lesse, bound- lesse power askes
+D2 HD4    :|
+w:  with- in.
+w: own  sake.
+w: bound- lesse praise.
+
+X:3
+T:XII. In this trembling shadow
+T:TENOR.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+%%MIDI transpose -12
+N: Original clef, C on third line
+K:G dor -8va
+d6 c2 B2 A G c A d3 c d B 
+w: 1.~In this trem- bling, * trem- bling sha- * * dow, 
+w: 2.~As I sing, sweet * flow- ers,   Ile *  *  strow,
+w: 3.~Mu- sicke all thy * sweet- nesse, sweet-  nesse * lend 
+c3 d _e3 e d c2 =B c/ d/ _e/ c/ 
+w: In this trem- bling, * trem- bling sha- * * dow, 
+w: As I sing, sweet * flow- ers  Ile * * strow,
+w: Mu- sicke all thy * sweet- nesse, sweet- nesse lend *
+d g e3 c2 e2 d/ c/ d2
+w: cast from those boughes which thy windes shake,
+w: from the fruit- full val- lies * brought:
+w: while of his high power I * speake,
+z G2 _A > G c B > A ^F G2 ^F/ E/ ^F2 G A2 G/ F/ G
+w: cast, cast from those boughes which thy windes * * * shake, thy windes * shake,
+w: from, from the fruit- full val- lies * * * * brought: val- lies * brought,
+w: while, while of his high power I * * * * speake, power I * speake,
+z c G > A B/ c/ d B A F/ G/ A D
+w: Farre from * * hu- * mane trou- * * * bles,
+w: Prais- ing * * him * by whom * * * they 
+w: On whom * * all * pow- * *  ers * *
+z2 G > A B2 A2 G2
+w: hu- mane trou- bles plac'd:
+w: by * whom  they grow,
+w: pow- ers else  de- pend,
+|:z2  G3 G G2 B2
+w: Songs to the Lord,
+w: him * that heaven,
+w: but * my brest 
+G A B
+w: to the Lord
+w: that heaven and 
+w: is now  too
+A/ G/ A3
+w: would I make,
+w: earth hath wrought,
+w: weeke, too weeke,
+F/ F/ E2 
+w: to the Lord
+w: that heaven and 
+w: is now  too
+A A d4
+w: would I make,
+w: earth hath wrought,
+w: weeke, too weeke,
+z4 z2 z G A B
+w: Dark- * nesse,
+w: Him * that
+w: trum- * pets
+ c  B/ A/ B3 c d3 G A2
+w: from my * minde, my minde then  take,
+w: all things * framde, things framde  of nought,
+w: shrill the * ayre, the ayre  should breake,
+B2 B2 A2
+w: For thy rites, 
+w: Him that all,
+w: All in vaine
+(B2 B2) G
+w: thy * rites
+w: that * all
+w: in * vaine
+g2 f _e2 c2 f3
+w: none *  may be- gin,
+w: for * man  did make,
+w: my * sounds   I raise
+B e2 d2 c4 B3 A G3  G A2
+w:thy rites, thy rites none, none may be- gin,
+w:that all, that all for * man did  make,
+w: in vaine, in vaine my, my sounds I raise,
+z G/ G/ ^F2 B A G3 A ^F ^G2 
+w: Till they feele thy * light,  thy light, 
+w: But made man for * his, for his, 
+w: Bound- lesse pow- er * askes,  
+F HG4    :|
+w:  with- * in.
+w: own * sake.
+w: bound- * lesse * praise.
+
+X:4
+T:XII. In this trembling shadow
+T:BASSUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+%%MIDI transpose -24
+K:G dor bass
+z16 g6 f2 _e2 d c f d g2 c2
+w: 1.~In this trem- bling, * trem- bling sha- dow, 
+w: 2.~As I sing, sweet * flow- ers  Ile  strow,
+w: 3.~Mu- sicke all thy * sweet- nesse lend *
+g2 _a e2 f (c3 c) g4 c2 _e2 d8 c6
+w: cast from those boughes which thy windes shake, thy windes shake,
+w: from the fruit- full val- * lies brought, val- lies brought:
+w: while of his high pow- er I speake, power I speake,
+z c G > A B G/ G/ d > e f f e3 e (d3 d) G2
+w: Farre from * * hu- mane trou- * * bles, hu- mane trou- bles placed
+w: Prais- ing * * him by whom  * *  they, by whom they * grow
+w: On whom * * all pow-  ers, * *  pow- ers else  de- *  pend
+|:z2  ( _e3 e ) e2 d2 
+w: Songs to the Lord, to the Lord (songs)
+w: him * that heaven, him that heaven (and)
+w: but * my brest  but my brest (is)
+_e f g2 d4 ^c2 d2 B3
+w: would I make,
+w: earth hath wrought,
+w: weeke, too weeke,
+b3 a3 
+w: Dark- nesse, *
+w: Him that *
+w: trum- pets *
+g g4 ^f2 g3 f d2 _e2 d3
+w: from my minde, my minde then  take,
+w: all things framde, things framde  of nought,
+w: shrill the ayre, the ayre  should breake,
+d _e2 f2
+w: For thy rites, 
+w: Him that all,
+w: All in vaine
+B4 _e2 d2 c4 B4
+w: none, none may be- gin,
+w: for man, man did make,
+w: my sounds, sounds  I raise
+z4 z2 f2 g3
+w: thy rites, 
+w:  that all,
+w:  in vaine
+f _e3 e d2 
+w: none  may be- gin,
+w: for man  did make,
+w: my sounds  I raise
+G G d2 B2 _e d c2 d3 
+w: Till they feele, they feele thy * light
+w: But made man, made man for * his
+w: Bound- lesse pow- er  askes, power askes
+d HG4    :|
+w:  with-  in.
+w: own sake.
+w: bound- lesse praise.

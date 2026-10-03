@@ -1,0 +1,67 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Myrten-Polka  FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.62 (pk00045) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"A2AB c4 | caa2 g2f2 | "Bb"fef2 d2f2 | "C7"c2ee dcBG | "F"A2AB c4 | caa2 g2f2 | 
+"Bb"dbb2 "F"caa2 | "C7"cgg2 "F"f2z2 :| "F"caaa  c2ab | "C7"a2g^f g2c2 | cggg c2ga | 
+"F"g2fe f2A2 | caaa  c2ab | "C7"a2g^f g2c2 | b2c2 efg2 | "F"f2f2 f2z2 || [K:Bb]  
+"Bb"d2f2 "Eb"e2g2 | "Bb"d2df b4 | "Eb"g2e2 "F7"c2A2 | "Bb"b2f2 fed2 | d2f2 "Eb"e2g2 | "Bb"d2df b4 | 
+"Eb"g2e2 "F"c2fd | "Bb"B2d2 B2"_fine"z2 || [K:F] "F"aba^g a2f2 | cdc=B c2A2 | FAcf a2c'2 | 
+"C7"aggb e4 | gag^f g2e2 | BcBA B2G2 | EGce gbeg | "F"f2_e2 d2"_>Teil C"c2 |]  
+
+X:2
+T: Myrten-Polka  FBb chords Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+[P:A] "F"A2AB c4 | caa2 g2f2 | "Bb"fef2 d2f2 | "C7"c2ee dcBG | "F"A2AB c4 | caa2 g2f2 | 
+"Bb"dbb2 "F"caa2 | "C7"cgg2 "F"f2z2 :| [P:B] "F"caaa  c2ab | "C7"a2g^f g2c2 | cggg c2ga | 
+"F"g2fe f2A2 | caaa  c2ab | "C7"a2g^f g2c2 | b2c2 efg2 | "F"f2f2 f2z2 || [P:C] [K:Bb]  
+"Bb"d2f2 "Eb"e2g2 | "Bb"d2df b4 | "Eb"g2e2 "F7"c2A2 | "Bb"b2f2 fed2 | d2f2 "Eb"e2g2 | "Bb"d2df b4 | 
+"Eb"g2e2 "F"c2fd | "Bb"B2d2 B2"_fine"z2 || [P:D] [K:F] "F"aba^g a2f2 | cdc=B c2A2 | FAcf a2c'2 | 
+"C7"aggb e4 | gag^f g2e2 | BcBA B2G2 | EGce gbeg | "F"f2_e2 d2"_>Teil C"c2 |]  
+
+X:3
+T:Myrten-Polka  CF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"E2EF G4 | Gee2 d2c2 | "F"cBc2 A2c2 | "G7"G2BB AGFD | "C"E2EF G4 | Gee2 d2c2 | 
+"F"Aff2 "C"Gee2 | "G7"Gdd2 "C"c2z2 :| "C"Geee G2ef | "G7"e2d^c d2G2 | Gddd G2de | 
+"C"d2cB c2E2 | Geee G2ef | "G7"e2d^c d2G2 | f2G2 Bcd2 | "C"c2c2 c2z2 || [K:Fmaj] 
+"F"A2c2 "Bb"B2d2 | "F"A2Ac f4 | "Bb"d2B2 "C7"G2E2 | "F"f2c2 cBA2 | A2c2 "Bb"B2d2 | "F"A2Ac f4 | 
+"Bb"d2B2 "C"G2cA | "F"F2A2 F2"_fine"z2 || [K:Cmaj] "C"efe^d e2c2 | GAG^F G2E2 | CEGc e2g2 | 
+"G7"eddf B4 | ded^c d2B2 | FGFE F2D2 | B,DGB dfBd | "C"c2_B2 A2"_>Teil C"G2 |] 
+
+X:4
+T:Myrten-Polka  CF 5- chords Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+[P:A] "C"E2EF G4 | Gee2 d2c2 | "F"cBc2 A2c2 | "G7"G2BB AGFD | "C"E2EF G4 | Gee2 d2c2 | 
+"F"Aff2 "C"Gee2 | "G7"Gdd2 "C"c2z2 :| [P:B] "C"Geee G2ef | "G7"e2d^c d2G2 | Gddd G2de | 
+"C"d2cB c2E2 | Geee G2ef | "G7"e2d^c d2G2 | f2G2 Bcd2 | "C"c2c2 c2z2 || [P:C] [K:Fmaj] 
+"F"A2c2 "Bb"B2d2 | "F"A2Ac f4 | "Bb"d2B2 "C7"G2E2 | "F"f2c2 cBA2 | A2c2 "Bb"B2d2 | "F"A2Ac f4 | 
+"Bb"d2B2 "C"G2cA | "F"F2A2 F2"_fine"z2 || [P:D] [K:Cmaj] "C"efe^d e2c2 | GAG^F G2E2 | CEGc e2g2 | 
+"G7"eddf B4 | ded^c d2B2 | FGFE F2D2 | B,DGB dfBd | "C"c2_B2 A2"_>Teil C"G2 |] 
+
+X:5
+T:Myrten-Polka  EbAb (5letras) cf. CF 5- chords Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+[P:A] "Eb"G2GA B4 | Bgg2 f2e2 | "Ab"ede2 c2e2 | "Bb7"B2dd cBAF | "Eb"G2GA B4 | Bgg2 f2e2 | 
+"Ab"caa2 "Eb"Bgg2 | "Bb7"Bff2 "Eb"e2z2 :| [P:B] "Eb"Bggg B2ga | "Bb7"g2f=e f2B2 | Bfff B2fg | 
+"Eb"f2ed e2G2 | Bggg B2ga | "Bb7"g2f=e f2B2 | a2B2 def2 | "Eb"e2e2 e2z2 || [P:C] [K:Abmaj] 
+"Ab"c2e2 "Db"d2f2 | "Ab"c2ce a4 | "Db"f2d2 "Eb7"B2G2 | "Ab"a2e2 edc2 | c2e2 "Db"d2f2 | "Ab"c2ce a4 | 
+"Db"f2d2 "Eb"B2ec | "Ab"A2c2 A2"_fine"z2 || [P:D] [K:Ebmaj] "Eb"gag^f g2e2 | BcB=A B2G2 | EGBe g2b2 | 
+"Bb7"gffa d4 | fgf=e f2d2 | ABAG A2F2 | DFBd fadf | "Eb"e2_d2 c2"_>Teil C"B2 |] 

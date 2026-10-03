@@ -1,0 +1,41 @@
+X:1
+T: The Boys Of The Town 
+C: (arr. 8leen8)
+M:6/8
+Q:3/8=96
+V:1 clef=treble
+V:2 clef=bass
+%%staves [1 2]
+K:G
+V:1
+G2B GBd | edB dBA | G2B GBd | edB AFD|
+V:2
+[G,,G,]3-[G,,G,]2A,|-A,2B, -B,3|[E,G,D]3-[E,G,D]2C|-C3-B,3|
+V:1
+G2B GBd| edB gfg | edB AGA | BGF G3|
+V:2
+[G,,z]2-[G,,D,G,]-[G,,D,G,]2 B, |.Cz2 [C,E,B,]3| z2[B,,D,A,] -[B,,D,A,] z[C,E,G,]|-[C,E,G,]3-[C,E,G,]3|
+V:1
+G2B GBd | edB dBA | G2B GBd | edB AFD|
+V:2
+[G,,G,]3-[G,,G,]2A,|-A,2B, -B,3|[E,G,D]3-[E,G,D]2C|-C3-B,3|
+V:1
+G2B GBd| edB gfg | edB AGA | BGF G3|
+V:2
+[G,,z]2-[G,,D,G,]-[G,,D,G,]2 B, |.Cz2 [C,E,B,]3| z2[B,,D,A,] -[B,,D,A,] z[C,E,G,]|-[C,E,G,]6|
+V:1
+def gfg | afd edB | def gfg  | afd e2e |
+V:2 clef=treble
+G,DA B3|[DFA]3 [CEG]3|G,DA B3|z2 [DFA] -[DFA]3|
+V:1
+def gfg | afd efg | edB AGA | BGF G3 |
+V:2
+G,DA B3|z3 [B,DF]3 |z2 C -C2 D| -D3   G,3|
+V:1
+def gfg | afd edB | def gfg  | afd e2e |
+V:2
+G,DA B3|[DFA]3 [CEG]3|G,DA B3|z2 [DFA] -[DFA]3|
+V:1
+def gfg | afd efg | edB AGA | BGF G3 |]
+V:2
+G,DA B3|z3 [DFA]3 |z2 G -G2 D| -D3   G,3|]

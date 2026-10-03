@@ -1,0 +1,25 @@
+X:2103
+T:Coro
+C:Pugnani, Gaetano (1731-1798)
+M:2/4
+L:1/4
+K:C
+V: 3 clef=treble name="Tromba I" sname="Trb. I"
+%%MIDI program 1 56
+%%staves [( 3 )]
+%-------------------------------
+[Q:"Andantino"] "^Clarini - Vi.8a.al." \
+(g/4f/4).e/4.f/4 .g/4(g/4c'/4b/4) | (b/4a/4g/4a/4) (g/4e/4a/4g/4) | \
+(f/4d/4g/4f/4) (e/4c/4f/4e/4) | (e/4f/4^f/4g/4) (d/4e/4e/4f/4) | f/2 d/8f/8e/8g/8 !//!f | \
+b c'/4(c'/4b/4a/4) | g/4(e/4a/4g/4) (g/4f/4e/4d/4) | e/4.g/4.g/4.g/4 a/4c'/4b/4a/4 | \
+!/!g a/4c'/4b/4a/4 | (g/4c'/4a/4f/4) (f/4e/4e/4d/4) | c/2 (f/4g/8f/8) e/ z/ | \
+(g/4f/4e/4f/4) .g/4(g/4c'/4b/4) | (b/4a/4g/4a/4) .g/4(e/4a/4g/4) | f/4d/4g/4f/4 e/4c/4f/4e/4 |
+e/4(f/4^f/4g/4) (d/4e/4e/4f/4) | f/2 (d/8f/8e/8g/8) !//!f | b c'/4b/4a/4g/4 | \
+fe | e/4f/4^f/4g/4 d/2z/2 | d'/d'c'/ | c'//b//b/ c'/4b/4a/4g/4 | \
+fe | e/4(f/4^f/4g/4) d/2z/2 | d'/d'c'/ | c'//b//b/ c'/4b/4a/4g/4 | \
+fe | (e/4f/4^f/4g/4) d/z/ | e2 | fe/z/ | e2 | fe/z/ | a2 | \
+g/z//c'// b//a//g//f// | e/>g/ f//e//f//d// | "_[check]" c/g/ a/4c'/4b/4a/4 | \
+g/4e/4!sfz!g/4g/4 a/4c'/4b/4a/4 | g/4e/4!sfz!g/4g/4 a/4c'/4b/4a/4 | \
+g/4e/4!sfz!g/4g/4 a/4c'/4b/4a/4 | eB | c2 | a a//c'//b//a// | gf | \
+g z//c'//b//a// | gf | e/f/e/z/ |]
+%-------------------------------

@@ -1,0 +1,93 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Walzer FBb (wz06940)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.242 (wz06940) orig. F,Bb
+T: Aus dem Repertoire der "Bottmiger Musig". S.237-254
+T:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"F3 | (A2d) | (c3 | f)zz | (A^GA) | (dcF) | ("C7"E3 | E)zz | G3 | (B2d) | 
+(c3 | e2)z | cEG | dcG | "F"A>AA | Azz | F3 | (A2d) | c3 | fzz |  (A^GA) | 
+(c2f) | "C"e3 | G3 | ("G7"=B^AB) | g2f | "C"e>ee | e(Gc) | "G7"d>dd | dGd | "C"c>cc | czz | 
+|: "F"d>cc | A3 | "C7"z(EG) | c3 | d>cc | B3 | "F"zFA | c2z | d>cc | zAf | 
+"Bb"e>dd | f3 | "F"cFA | "C7"cEG | "F"F>FF |1 Fc>c :|2 FzF |: [K:Bb] "F7"F3 | (A2c) |  "Bb"z(FB) | 
+d2z | ("Eb"e3 | e)dc | ("Bb"d3 | d)cB | "F7"F3 | (A2c) | "Bb"d3 | (cBG) | F2D | "F7"F2A  | 
+"Bb"B>BB |1 BzF :|2 BzB |: "Cm".e!>!e>G  | "F7"c2 (=B/c/) | "Bb".d!>!d>F | B2(c/B/) | "C7"B2(A/B/) | "F7"A2(G/A/) | "Bb"G2(F/=E/) | Fzd | 
+"Cm".e!>!e>G  | "F7"c2 (=B/c/) | "Bb".d!>!d>F | B2(c/B/) | "F7"Aze |1 fze | "Bb"d>dd | dzd :|2 dzA | "Bb"B>BB | Bzz |] 
+W:
+W: Anmerkung Hrsg.: Teil D, 2. Schluss ergänzt
+% wz06940
+% March 31, 2017
+
+X:2
+T:Walzer GC 2+ (wz06940)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.242 (wz06940) orig. F,Bb
+S:Aus dem Repertoire der "Bottmiger Musig". S.237-254
+S:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+"G"G3 | (B2e) | (d3 | g)zz | (B^AB) | (edG) | ("D7"F3 | F)zz | A3 | (c2e) | 
+(d3 | f2)z | dFA | edA | "G"B>BB | Bzz | G3 | (B2e) | d3 | gzz | (B^AB) | 
+(d2g) | "D"f3 | A3 | ("A7"^c^Bc) | a2g | "D"f>ff | f(Ad) | "A7"e>ee | eAe | "D"d>dd | dzz | 
+|: "G"e>dd | B3 | "D7"z(FA) | d3 | e>dd | c3 | "G"zGB | d2z | e>dd | zBg | 
+"C"f>ee | g3 | "G"dGB | "D7"dFA | "G"G>GG |1 Gd>d :|2 GzG |: [K:Cmaj] "G7"G3 | (B2d) | "C"z(Gc) | 
+e2z | ("F"f3 | f)ed | ("C"e3 | e)dc | "G7"G3 | (B2d) | "C"e3 | (dcA) | G2E | "G7"G2B | 
+"C"c>cc |1 czG :|2 czc |: "Dm".f!>!f>A | "G7"d2 (^c/2d/2) | "C".e!>!e>G | c2(d/2c/2) | "D7"c2(B/2c/2) | "G7"B2(A/2B/2) | "C"A2(G/2^F/2) | Gze | 
+"Dm".f!>!f>A | "G7"d2 (^c/2d/2) | "C".e!>!e>G | c2(d/2c/2) | "G7"Bzf |1 gzf | "C"e>ee | eze :|2 ezB | "C"c>cc | czz |] 
+%W:Anmerkung Hrsg.: Teil D, 2. Schluss ergänzt
+% wz06940
+% March 31, 2017
+
+X:3
+T:Walzer CF 5+ (wz06940)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.242 (wz06940) orig. F,Bb
+S:Aus dem Repertoire der "Bottmiger Musig". S.237-254
+S:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+"C"c3 | (e2a) | (g3 | c')zz | (e^de) | (agc) | ("G7"B3 | B)zz | d3 | (f2a) | 
+(g3 | b2)z | gBd | agd | "C"e>ee | ezz | c3 | (e2a) | g3 | c'zz | (e^de) | 
+(g2c') | "G"b3 | d3 | ("D7"^f^ef) | d'2c' | "G"b>bb | b(dg) | "D7"a>aa | ada | "G"g>gg | gzz | 
+|: "C"a>gg | e3 | "G7"z(Bd) | g3 | a>gg | f3 | "C"zce | g2z | a>gg | zec' | 
+"F"b>aa | c'3 | "C"gce | "G7"gBd | "C"c>cc |1 cg>g :|2 czc |: [K:Fmaj] "C7"c3 | (e2g) | "F"z(cf) | 
+a2z | ("Bb"b3 | b)ag | ("F"a3 | a)gf | "C7"c3 | (e2g) | "F"a3 | (gfd) | c2A | "C7"c2e | 
+"F"f>ff |1 fzc :|2 fzf |: "Gm".b!>!b>d | "C7"g2 (^f/2g/2) | "F".a!>!a>c | f2(g/2f/2) | "G7"f2(e/2f/2) | "C7"e2(d/2e/2) | "F"d2(c/2=B/2) | cza | 
+"Gm".b!>!b>d | "C7"g2 (^f/2g/2) | "F".a!>!a>c | f2(g/2f/2) | "C7"ezb |1 c'zb | "F"a>aa | aza :|2 aze | "F"f>ff | fzz |] 
+%W:Anmerkung Hrsg.: Teil D, 2. Schluss ergänzt
+% wz06940
+% March 31, 2017
+
+
+X:4
+T:Walzer CF 7- (wz06940)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.242 (wz06940) orig. F,Bb
+S:Aus dem Repertoire der "Bottmiger Musig". S.237-254
+S:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+"C"C3 | (E2A) | (G3 | c)zz | (E^DE) | (AGC) | ("G7"B,3 | B,)zz | D3 | (F2A) | 
+(G3 | B2)z | GB,D | AGD | "C"E>EE | Ezz | C3 | (E2A) | G3 | czz | (E^DE) | 
+(G2c) | "G"B3 | D3 | ("D7"^F^EF) | d2c | "G"B>BB | B(DG) | "D7"A>AA | ADA | "G"G>GG | Gzz | 
+|: "C"A>GG | E3 | "G7"z(B,D) | G3 | A>GG | F3 | "C"zCE | G2z | A>GG | zEc | 
+"F"B>AA | c3 | "C"GCE | "G7"GB,D | "C"C>CC |1 CG>G :|2 CzC |: [K:Fmaj] "C7"C3 | (E2G) | "F"z(CF) | 
+A2z | ("Bb"B3 | B)AG | ("F"A3 | A)GF | "C7"C3 | (E2G) | "F"A3 | (GFD) | C2A, | "C7"C2E | 
+"F"F>FF |1 FzC :|2 FzF |: "Gm".B!>!B>D | "C7"G2 (^F/2G/2) | "F".A!>!A>C | F2(G/2F/2) | "G7"F2(E/2F/2) | "C7"E2(D/2E/2) | "F"D2(C/2=B,/2) | CzA | 
+"Gm".B!>!B>D | "C7"G2 (^F/2G/2) | "F".A!>!A>C | F2(G/2F/2) | "C7"EzB |1 czB | "F"A>AA | AzA :|2 AzE | "F"F>FF | Fzz |] 
+%W:Anmerkung Hrsg.: Teil D, 2. Schluss ergänzt
+% wz06940
+% March 31, 2017

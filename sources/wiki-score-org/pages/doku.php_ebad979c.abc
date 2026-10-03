@@ -1,0 +1,24 @@
+X:306
+T:N.3 Josepha, Ambrosio e Raimundo
+C:Fonseca, Eduardo da (1863-1938)
+M:2/4
+L:1/4
+K:C
+V: 6 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 6 ]
+%---------------------
+z/G,//G,// G,/G,/ | G,G,| C,/z/ [G,,G,]/z/ |C,/z/ [G,,G,]/z/ !segno! || \
+"_com v/cello " !p! C,/ z/ G,,/z/ |  C,/ z/ E,/z/ | D,/ z/ G,,/z/ | \
+D,/ z/ G,,/z/ | D,/ z/ G,,/z/ |D,/ z/ G,,/z/ | C,/z/ C,/z/ | E,/z/ G,/z/ | C,/z/ G,/z/ | \
+"_com vcello"  C,/z/E, | B,,2 | B,,2 | B,,z | B,,z | (E,2 | D,/)z/ !>!G,/z/|| \
+C,/z/ G,/z/ |  C,/z/ G,/z/ |  C,/z/ G,/z/ |  C,/z/ G,/z/ | \
+C,/z/ G,/z/ |  C,/z/ G,/z/ |  C,/z/ G,/z/ |  C,/z/ G,/z/ |  C,/z/ G,/z/ | \
+[C,C]_B,|_A,A,| ^F,/z/ z | G,/z/ G,/z/ | B,/z/ G,/z/ | C/z/z| Z || \
+[K:F] F,C, | "_com o Vcello" !>!A,!>!F,| !>!(G,/>A,/) !>!(G,/>!>!E,/) | !>!C,z | \
+!>!G,!>!C, | !>!B,!>!G, | !>!(A,/>B,/) (!>!A,/>G,/) | !>!F,z | \
+!>!F,!>!C, | !>!A,!>!F,| E,/>^D,/ E,/>A,/ | Cz |  E,/>^D,/ E,/>F,/ | E,=B, | A,/>^G,/ A,/>E,/ | \
+C,/z/E,|| F,C,| A,F,| (G,/>A,/) (G,/>E,/) | C,z | \
+G,C, | B,G, | A,/>B,/ A,/>G,/ | F,z | F,C, | A,F,| (G,/>^F,/) (G,/>B,/) | D2 | C/>A,/ F,/>A,/ | C/>B,/ G,/>A,/ | \
+F,/z/!>!C, | F,/z/z  ||  "_D.S. al coda" !coda!C,/z/ !/!G, | C,/z/ C,/z/ |]  \
+%---------------------

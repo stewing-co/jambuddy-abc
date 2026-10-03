@@ -1,0 +1,16 @@
+X:104
+T:Moderadamente
+C:Antonio Thomaz de Lima
+M:4/8
+L:1/4
+K:B
+V: 4 clef=bass name="Cello" sname="Vc."
+%%MIDI program 1 1
+%%staves [ 4 ]
+%----------- edit between the lines ------------
+[Q:"Moderadamente, e com grandiosidade (a 4 tempos)"] !ff!  z/ "_marcado" !>!F,,/!>!B,,/ z/  |\
+Z|| !>![F,,B,,] !>!C,|| !>![D,B,]/ z/ z// F,,// B,,/ | z/ !>!G,,/!>!C,/ z/ | Z || F,, F, ||\
+B,//A,//G,//F,// E,//D,//C,//B,,// | [F,B,,] > [G,,C,] | [D,,A,,]/[G,,D,]/ [C,,G,,]/[F,,C,]/ ||\
+"^Mais Lento" [F,,D,] A,,//B,,//C,/ || [F,,B,,]/ z/ z// "_pizz." F,// B,/ | z/ G,,/C,/ [G,,D,]/ | [C,,G,,]/[D,,A,,]/ [G,,D,]/[F,,C,]/ ||\
+"^Mais Lento" [F,,B,,] [F,,C,] ||
+%-----------------------------------------------

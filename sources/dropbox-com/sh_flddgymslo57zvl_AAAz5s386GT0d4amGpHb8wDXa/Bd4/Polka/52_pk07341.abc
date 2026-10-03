@@ -1,0 +1,63 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka GDC (pk07341)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.286 (pk07341) orig. G,D,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+!>!"G"d4!>!g4  | ("D7"gf)(fe)d4 | "A7"e2A2 "D7"c2F2 | "G"(AG)(GB) D4 | !>!d4!>!g4 |  ("D7"gf)(fe)"G"d4 | "A7"e2A2 "D7"c2F2 | "G"G2GF .G4 :|  [K:D] 
+!>!"A7"g4 .f2.e2 | "D"d2AB A2d2 | "A7"c2(AB) .A2.G2 | ("D"FA).d.f .a2.a2 | !>!"A7"g4f2e2 | "D"d2AB A2d2 | "A7"c2AB A2A2 | "D".d4"_>Teil A"z4 ||  [K:C] 
+|: "C"GGGz "F"AAAz | "C"GGGz !>!e4 | "Dm"d2^c2 "G7"d2B2 | "C"dcBA G2G2 | GGGz "F"AAAz | "C"GGGz !>!c4 |1 
+"B7"B2BB B2^d2 | "Em"e2e^d .e4 :|2 "C"e2ce "G7"g2B2 |  "C"c2cB .c4 |: "G"gggz "D7"^fffz | "G"gggz !>!G4 |  
+gggz "D7"^fffz | "G"gggz !>!G4 | "C"GGGz "F"AAAz | "C"GGGz !>!c4 | .e2(ce) "G7"g2B2 | "C".c2(cB) "_Fine".c4 :| 
+W:
+W:Anmerkung H.C.: Arisdorf, Muttenz, Oberiberg, Schleitheim, Lötschental, Radio Bern 1950
+%%% pk07341
+% June 26, 2017
+
+X:2
+T:Polka CGF 5+ (pk07341)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.286 (pk07341) orig. G,D,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+!>!"C"g4!>!c'4 | ("G7"c'b)(ba)g4 | "D7"a2d2 "G7"f2B2 | "C"(dc)(ce) G4 | !>!g4!>!c'4 | ("G7"c'b)(ba)"C"g4 | "D7"a2d2 "G7"f2B2 | "C"c2cB .c4 :| [K:G] 
+!>!"D7"c'4 .b2.a2 | "G"g2de d2g2 | "D7"f2(de) .d2.c2 | ("G"Bd).g.b .d'2.d'2 | !>!"D7"c'4b2a2 | "G"g2de d2g2 | "D7"f2de d2d2 | "G".g4"_>Teil A"z4 || [K:F] 
+|: "F"cccz "Bb"dddz | "F"cccz !>!a4 | "Gm"g2^f2 "C7"g2e2 | "F"gfed c2c2 | cccz "Bb"dddz | "F"cccz !>!f4 |1 
+"E7"e2ee e2^g2 | "Am"a2a^g .a4 :|2 "F"a2fa "C7"c'2e2 | "F"f2fe .f4 |: "C"c'c'c'z "G7"=bbbz | "C"c'c'c'z !>!c4 | 
+c'c'c'z "G7"=bbbz | "C"c'c'c'z !>!c4 | "F"cccz "Bb"dddz | "F"cccz !>!f4 | .a2(fa) "C7"c'2e2 | "F".f2(fe) "_Fine".f4 :| 
+W:Parts: ABACD
+%W:Anmerkung H.C.: Arisdorf, Muttenz, Oberiberg, Schleitheim, Lötschental, Radio Bern 1950
+%%% pk07341
+% June 26, 2017
+
+X:3
+T:Polka CGF 7- (pk07341)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.286 (pk07341) orig. G,D,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+!>!"C"G4!>!c4 | ("G7"cB)(BA)G4 | "D7"A2D2 "G7"F2B,2 | "C"(DC)(CE) G,4 | !>!G4!>!c4 | ("G7"cB)(BA)"C"G4 | "D7"A2D2 "G7"F2B,2 | "C"C2CB, .C4 :| [K:G] 
+!>!"D7"c4 .B2.A2 | "G"G2DE D2G2 | "D7"F2(DE) .D2.C2 | ("G"B,D).G.B .d2.d2 | !>!"D7"c4B2A2 | "G"G2DE D2G2 | "D7"F2DE D2D2 | "G".G4"_>Teil A"z4 || [K:F] 
+|: "F"CCCz "Bb"DDDz | "F"CCCz !>!A4 | "Gm"G2^F2 "C7"G2E2 | "F"GFED C2C2 | CCCz "Bb"DDDz | "F"CCCz !>!F4 |1 
+"E7"E2EE E2^G2 | "Am"A2A^G .A4 :|2 "F"A2FA "C7"c2E2 | "F"F2FE .F4 |: "C"cccz "G7"=BBBz | "C"cccz !>!C4 | 
+cccz "G7"=BBBz | "C"cccz !>!C4 | "F"CCCz "Bb"DDDz | "F"CCCz !>!F4 | .A2(FA) "C7"c2E2 | "F".F2(FE) "_Fine".F4 :| 
+W:Parts: ABACD
+%W:Anmerkung H.C.: Arisdorf, Muttenz, Oberiberg, Schleitheim, Lötschental, Radio Bern 1950
+%%% pk07341
+% June 26, 2017

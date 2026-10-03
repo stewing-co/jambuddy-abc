@@ -1,0 +1,15 @@
+X:704
+T:N.10 Moderado
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:D
+V: 4 clef=bass name="Cello" sname="Vc."
+%%MIDI program 1 1
+%%staves [ 4 ]
+%----------- edit between the lines ------------
+!mf! "^pizz" [A,,D,]/ z/ z/ [A,,D,]/ |  [A,,D,]/ z/ z/ [A,,D,]/ | [A,,D,]/ z/ z/ [A,,D,]/ |  [A,,D,]/ z/ z/ [A,,D,]/ |\
+[A,,D,]/ z/ z/ [A,,D,]/ |  [A,,D,]/ z/ z/ [A,,D,]/ | "^arco"  [A,,D,,]/[A,,D,,]//[A,,D,,]// [A,,D,,]/[A,,D,,]/ | \
+G,,/E,,//G,,// A,,/A,,/ |  \
+"_TBC" X
+%-----------------------------------------------

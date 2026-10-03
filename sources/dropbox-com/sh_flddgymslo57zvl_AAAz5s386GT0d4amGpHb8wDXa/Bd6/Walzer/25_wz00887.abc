@@ -1,0 +1,169 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Schaukel-Walzer  CF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.229 (wz00887) orig. C,F-Dur
+T:L\"otschental. S.214-233. Repertoire von Xander Murmann, Weissenried, 1874-1948
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+("C"G3 | G)EG | ("F"A3 | A)FA | ("G7"B3 | B)GB | "C"d3 | czz | 
+(e3 | e)dc | "F"BA>A | A2z | "G7"cB>B |1 B3 | "C"dc>c | c3 :|2 
+Bed | ("C"c3 | c)EG || "G7"Fze | dzF | "C"Ezd | czE | "G7"FzD/E/ | 
+FEF | "C"A3 | GzG | "G7"Fze | dzF | "C"Ezd | czE | "G7"FzD/E/ | FGB | 
+("C"c3 | c)zc || [K:F] "F"f2e | d2c | "C7"c3 | G2c | c2G | GAB | "F"A3 | 
+z2c | f2e | f2e | "Bb"e(!>!d2 | d).c.B | "F"A2c | "C7"G2c | "F"F>FF | Fzz |]  
+X:2
+T: Schaukel-Walzer  CF (align)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+("C"G3 | G)EG | ("F"A3 | A)FA | ("G7"B3 | B)GB | "C"d3 | czz | \
+(e3 | e)dc |
+ "F"BA>A | A2z | "G7"cB>B |1 B3 | "C"dc>c | c3 :|2 \
+Bed | ("C"c3 | c)EG || "G7"Fze |
+ dzF | "C"Ezd | czE | "G7"FzD/E/ | \
+FEF | "C"A3 | GzG | "G7"Fze | dzF |
+ "C"Ezd | czE | "G7"FzD/E/ | FGB | \
+("C"c3 | c)zc |] [K:F] "F"f2e | d2c | "C7"c3 | G2c |
+ c2G | GAB | "F"A3 | \
+z2c | f2e | f2e | "Bb"e(!>!d2 | d).c.B | "F"A2c | "C7"G2c | "F"F>FF | Fzz |]  
+% wz00887
+X:3
+T:Schaukel-Walzer  GC 7+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G%%MIDI gchordon
+("G"d3 | d)Bd | ("C"e3 | e)ce | ("D7"f3 | f)df | "G"a3 | gzz | \
+(b3 | b)ag |
+"C"fe>e | e2z | "D7"gf>f |1 f3 | "G"ag>g | g3 :|2 \
+fba | ("G"g3 | g)Bd || "D7"czb |
+azc | "G"Bza | gzB | "D7"czA/2B/2 | \
+cBc | "G"e3 | dzd | "D7"czb | azc |
+"G"Bza | gzB | "D7"czA/2B/2 | cdf | \
+("G"g3 | g)zg |] [K:C] "C"c'2b | a2g | "G7"g3 | d2g |
+g2d | def | "C"e3 | \
+z2g | c'2b | c'2b | "F"b(!>!a2 | a).g.f | "C"e2g | "G7"d2g | "C"c>cc | czz |] 
+% wz00887
+
+X:4
+T:Schaukel-Walzer  GC 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G%%MIDI gchordon
+("G"D3 | D)B,D | ("C"E3 | E)CE | ("D7"F3 | F)DF | "G"A3 | Gzz | \
+(B3 | B)AG |
+"C"FE>E | E2z | "D7"GF>F |1 F3 | "G"AG>G | G3 :|2 \
+FBA | ("G"G3 | G)B,D || "D7"CzB |
+AzC | "G"B,zA | GzB, | "D7"CzA,/2B,/2 | \
+CB,C | "G"E3 | DzD | "D7"CzB | AzC |
+"G"B,zA | GzB, | "D7"CzA,/2B,/2 | CDF | \
+("G"G3 | G)zG |] [K:C] "C"c2B | A2G | "G7"G3 | D2G |
+G2D | DEF | "C"E3 | \
+z2G | c2B | c2B | "F"B(!>!A2 | A).G.F | "C"E2G | "G7"D2G | "C"C>CC | Czz |] 
+% wz00887
+X:5
+T: Schaukel-Walzer  CF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+("C"G3 | G)EG | ("F"A3 | A)FA | ("G7"B3 | B)GB | "C"d3 | czz | \
+(e3 | e)dc |
+ "F"BA>A | A2z | "G7"cB>B |1 B3 | "C"dc>c | c3 :|2 \
+Bed | ("C"c3 | c)EG || "G7"Fze |
+ dzF | "C"Ezd | czE | "G7"FzD/E/ | \
+FEF | "C"A3 | GzG | "G7"Fze | dzF |
+ "C"Ezd | czE | "G7"FzD/E/ | FGB | \
+("C"c3 | c)zc |] [K:F] "F"f2e | d2c | "C7"c3 | G2c |
+ c2G | GAB | "F"A3 | \
+z2c | f2e | f2e | "Bb"e(!>!d2 | d).c.B | "F"A2c | "C7"G2c | "F"F>FF | Fzz |]  
+% wz00887
+X:6
+T:Schaukel-Walzer  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+("G"d3 | d)Bd | ("C"e3 | e)ce | ("D7"f3 | f)df | "G"a3 | gzz | \
+(b3 | b)ag |
+"C"fe>e | e2z | "D7"gf>f |1 f3 | "G"ag>g | g3 :|2 \
+fba | ("G"g3 | g)Bd || "D7"czb |
+azc | "G"Bza | gzB | "D7"czA/2B/2 | \
+cBc | "G"e3 | dzd | "D7"czb | azc |
+"G"Bza | gzB | "D7"czA/2B/2 | cdf | \
+("G"g3 | g)zg |] [K:C] "C"c'2b | a2g | "G7"g3 | d2g |
+g2d | def | "C"e3 | \
+z2g | c'2b | c'2b | "F"b(!>!a2 | a).g.f | "C"e2g | "G7"d2g | "C"c>cc | czz |] 
+% wz00887
+X:7
+T:Schaukel-Walzer  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+("G"D3 | D)B,D | ("C"E3 | E)CE | ("D7"F3 | F)DF | "G"A3 | Gzz | \
+(B3 | B)AG |
+"C"FE>E | E2z | "D7"GF>F |1 F3 | "G"AG>G | G3 :|2 \
+FBA | ("G"G3 | G)B,D || "D7"CzB |
+AzC | "G"B,zA | GzB, | "D7"CzA,/2B,/2 | \
+CB,C | "G"E3 | DzD | "D7"CzB | AzC |
+"G"B,zA | GzB, | "D7"CzA,/2B,/2 | CDF | \
+("G"G3 | G)zG |] [K:C] "C"c2B | A2G | "G7"G3 | D2G |
+G2D | DEF | "C"E3 | \
+z2G | c2B | c2B | "F"B(!>!A2 | A).G.F | "C"E2G | "G7"D2G | "C"C>CC | Czz |] 
+% wz00887
+X:8
+T:Schaukel-Walzer D&G (tinwhistle in D)
+T:wz00887 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+("D"A3 | A)FA | ("G"B3 | B)GB | ("A7"c3 | c)Ac | "D"e3 | dzz | \
+(f3 | f)ed |
+"G"cB>B | B2z | "A7"dc>c |1 c3 | "D"ed>d | d3 :|2 \
+cfe | ("D"d3 | d)FA || "A7"Gzf |
+ezG | "D"Fze | dzF | "A7"GzE/2F/2 | \
+GFG | "D"B3 | AzA | "A7"Gzf | ezG |
+"D"Fze | dzF | "A7"GzE/2F/2 | GAc | \
+("D"d3 | d)zd |] [K:G] "G"g2f | e2d | "D7"d3 | A2d |
+d2A | ABc | "G"B3 | \
+z2d | g2f | g2f | "C"f(!>!e2 | e).d.c | "G"B2d | "D7"A2d | "G"G>GG | Gzz |] 
+X:9
+T:Schaukel-Walzer D&G (tinwhistle in D) solo
+T:wz00887 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+(A3 | A)FA | (B3 | B)GB | (c3 | c)Ac | e3 | dzz | \
+(f3 | f)ed |
+cB>B | B2z | dc>c |1 c3 | ed>d | d3 :|2 \
+cfe | (d3 | d)FA || Gzf |
+ezG | Fze | dzF | GzE/2F/2 | \
+GFG | B3 | AzA | Gzf | ezG |
+Fze | dzF | GzE/2F/2 | GAc | \
+(d3 | d)zd |] [K:G] g2f | e2d | d3 | A2d |
+d2A | AB"_c"c | B3 | \
+z2d | g2f | g2f | f(!>!e2 | e).d"_c".c | B2d | A2d | G>GG | Gzz |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 27, 2016

@@ -1,0 +1,16 @@
+X:2101
+T:Coro
+C:Pugnani, Gaetano (1731-1798)
+M:2/4
+L:1/4
+K:C
+V: 1 clef=alto name="Corno I" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 1 )]
+%-------------------------------
+[Q:"Andantino"] [K:treble] "^Cut" c/z/ c/z/ | cc/z/ |f/z/ e/z/ | e/z/ d/z/ | G/z/z | Z | \
+e/z/ d/z/ | cc/z/ | cc/z/ | c/z/ e/d/ | c/d/c/z/| c/ z/c/c/ | c c/z/ | f/z/ e/z/ | \
+e/e/ d/z/ | G/z/z | G/z/z | fe | e/z/ d | G2- |  G2- |  G2 | G/G/ G/z/ | G2- |  G2 | \
+fe | e/e/ d | c2 | cc/z/ | c2- | c c/z/ | cz | ez| ed | c/z/ c- | c/z/ c | c/z/c | c/z/c | c2 | c/z/z | \
+cz | ed | cc | ed | c/d/c/z/ |]
+%-------------------------------

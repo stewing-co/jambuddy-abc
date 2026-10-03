@@ -1,0 +1,47 @@
+X:1313
+T:Scena 7.a
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 13 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 13 ]
+%----------------- edit between the lines ------------
+Z21 | z2 | Z22 || \
+[Q:"Allegro assai"] E/4G/4E/4G/4 E/4G/4E/4G/4 !//!D2 | \
+C!trem2!E !//! D2 | Cz "_nb: check this" x2 | "_nb: empty bar?" Z | \
+x2 F,!trem2!A, |F,!trem2!_B, !//!G,2 | F,z z2 | \
+z/ (_B,/8C/8D/8E/8) (F/8G/8A/8G/8) (F/8E/8D/8C/8) _B,/z/z | z4 | \
+G/8G/8G/8G/8 _A/8A/8A/8A/8 G/8G/8G/8G/8 _A/8A/8A/8A/8 Gz  |\
+z/>D/ Dz2 | z/>G/ Gz2 | z/>D/ Dz2 | z/>C/ Cz2 | C2 F/f/c/A/ |FzF2 | Fz_B,2| \
+!//!_E2Ez | G2_A2- | _A2 G2 | z2 _E2- | _E2 Dz || \
+[Q:"Allegro"] [K:Eb] z | !//!G4 | !//!A4 | !//!D4 | \
+E/ [EG,]//[EG,]// !/![EG,] [EG,]/E/E/E/!p! | !/!E4 | []\
+!f!E/ [EG,]//[EG,]// !/![EG,] [EG,]/E/E/E/ | !p!!/!E4 | "_nb: check empty bars" Z24 | \
+!f!!/!_D2Dz | !p!_A,2_G,2| F,/!f!_D/D/D/ D z | !p!_A,2_G,2| F,/ !f!_D/D/D/ D !p!F | \
+F2F/FF/ | Fz_Dz| Z6 | "> 1." D4-  & "_2."B,4- | D4 & B,4 | E4- & =A,4- | E4 & A,4 | \
+D4-  & B,4- | D4 & B,4 | E4- & =A,4- | E4 & A,4 |  D4 & B,4 |  D4 & =B,4 | E4 & C4 | \
+E2>G2 & C4 | F4- & C4 | F4 & =A,4 | B,FED & B,x3 | \
+E2F2 | G2F2 | E2F2 | _G2F2 | C4 | CCCz | =A,4 | B,4 | =A,4 | \
+!/!B,4 |!/!B,4 | !f!B,/B/F/D/ !p!!/!B,2 | !/!B,4 | !f!B,/B/F/D/ !p!!/!B,2 | \
+=A,4 | B,4 | =A,4 | B,/B/F/D/ B,z | !//!F4 | E/GF/ E/GF/ | !p!!/!E2 !/!F2 | Bzz2 | \
+!/!D2Fz | !sfz!!/!B,2 !sfz!!/!D2 | !sfz!!/!E2 !sfz!!/!E2 | !p!!/!F4| \
+!f!!/!F4 | B,zz/B/F/D/ | B,zz/B/F/D/ | B,BB,!fermata!z || \
+[Q:"Andante"] [M:2/4] !fermata!Fz| !p!F/z/ F/z/ | F/z/z| C/z/ C/z/ | \
+AG/x/&FE/z/| "_nb: assming 'C:' until fol.180" \
+F/z/ F/z/ | F/z/ F/z/ | C/z/ C/z/ | C/z/ =E/z/ | F/z/ C/z/ | \
+Fz | F/z/ F/z/ | F/z/ F/z/ | C/z/ C/z/ | C/z/ =E/z/ | \
+F/z/ C/z/ | F/z/ F/z/ | G/z/ G/z/ | C/z/ E/z/ |  F/z/ ^F/z/ | G/z/ G/z/ | \
+C/F/ G/G,/ | Cz | F/z/ F/z/ | F/z/ F/z/ | c/z/ C/z/ | C !fermata!=E | \
+F/ !fermata!z/ C | D !fermata!z/ z/ | B/z/ c/C/ | F2 |B/z/ c/C/ || \
+[Q:"Allegro"] [M:C] Fzz2 | z4 | !f!!/!_D4 | !f!CzCz | =A,zA,z | \
+"_nb: check" F zz2 | z4 | !//!_D4 | !//!_D4 |  !//!F2!//!F!//!B, | z/B,/B,/B,/ z/B,/B,/B,/ | \
+B,_A,B,!f!B,- | B,_A,B, !//!B, | !//! _C4 |  B,B,B,B, | B,2z2 | E2FD | \
+EEDF | EEDF | EEDF | !/!E4 | "^C:" !p!!/!G,4 | \
+!f!!/!A,4 | !p!!/!A,2 A,/A,/=A,/A,/ | B,B,G,E, | B,2-B,/A,/G,/F,/ | G,4 | \
+A,2 C F/E/ | D/DDDD/ | "^C:" !f!E,/G,/B,/G,/ E,/G,/B,/G,/ | E/G,G,G,G,/ | A,2 C F/E/ | \
+D/DDDD/ | !f! !//!E2 E !p!E | E/z/ =B,/z/ C/z/ G,/z/ | A,A, "^[staff empty]" xx | X11 | \
+B,4 - |  B,4 - |  B,4 - |  B,2 B,2 | EzEz | EzEz | DzDz | E "^C:" z !f!!p!!/!G,2 | \
+!f!!p!!/!A,2 !f!!p!!/!A,2 | !f!!/!B,4 | "^[staff empty]" X12 |]
+%-----------------------------------------------------

@@ -1,0 +1,58 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Schottisch  FCBb (st06922)  ABACD
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.249 (st06922) orig. F,C,Bb
+T: Aus dem Repertoire der "Bottmiger Musig". S.237-254
+T:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+%%partsbox
+P:ABACD
+R:Schottisch
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A]  "F"FA A/B/A | ("Gm"AG)G2 | ("C7"^c/d/).d (c/d/).d | "F"dc c/=B/c | FA A/B/A | ("Gm"AG)G2 | "C7"ed BG | "F"FF Fz :| [K:C] 
+[P:B]  |: "C"G>G Ge | "G7"ed (d/^c/d) | G>G Gf | "C"fe (e/^d/e) | G>G Ge | "F"A>A Af | "C"eG "G7"Bd | "C"cc c"_>Teil A"z :| [K:Bb] 
+[P:C]  |: "Bb"d2 (e/d/c/B/) | ("F7"BA) .Ag/g/ | gA Af/f/ | "Bb"fB BF/B/ | d2 (e/d/c/B/) | ("F7"BA) .Ag/g/ | gf Ac | "Bb"BB Bz :| 
+[P:D]  |: "Eb"GB/A/ !>!B2 | "Bb"FB/A/ !>!B2 | "F7"eA c>c | "Bb"dF B>B | "Eb"GB/A/ !>!B2 | "Bb"FB/A/!>!B2 | "F7"eF A>c | "Bb"BB B"_Fine"z :| 
+% st06922
+% April 15, 2017
+
+X:2
+T:Schottisch  CGF 7+ (st06922)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.249 (st06922) orig. F,C,Bb
+S:Aus dem Repertoire der "Bottmiger Musig". S.237-254
+S:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+"C"ce e/2f/2e | ("Dm"ed)d2 | ("G7"^g/2a/2).a (g/2a/2).a | "C"ag g/2^f/2g | ce e/2f/2e | ("Dm"ed)d2 | "G7"ba fd | "C"cc cz :| [K:G] 
+|: "G"d>d db | "D7"ba (a/2^g/2a) | d>d dc' | "G"c'b (b/2^a/2b) | d>d db | "C"e>e ec' | "G"bd "D7"fa | "G"gg g"_>Teil A"z :| [K:F] 
+|: "F"a2 (b/2a/2g/2f/2) | ("C7"fe) .ed'/2d'/2 | d'e ec'/2c'/2 | "F"c'f fc/2f/2 | a2 (b/2a/2g/2f/2) | ("C7"fe) .ed'/2d'/2 | d'c' eg | "F"ff fz :| 
+|: "Bb"df/2e/2 !>!f2 | "F"cf/2e/2 !>!f2 | "C7"be g>g | "F"ac f>f | "Bb"df/2e/2 !>!f2 | "F"cf/2e/2!>!f2 | "C7"bc e>g | "F"ff f"_Fine"z :| 
+W:Parts: ABACD
+% st06922
+% April 15, 2017
+
+X:3
+T:Schottisch  CGF 5- (st06922)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.249 (st06922) orig. F,C,Bb
+S:Aus dem Repertoire der "Bottmiger Musig". S.237-254
+S:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+"C"CE E/2F/2E | ("Dm"ED)D2 | ("G7"^G/2A/2).A (G/2A/2).A | "C"AG G/2^F/2G | CE E/2F/2E | ("Dm"ED)D2 | "G7"BA FD | "C"CC Cz :| [K:G] 
+|: "G"D>D DB | "D7"BA (A/2^G/2A) | D>D Dc | "G"cB (B/2^A/2B) | D>D DB | "C"E>E Ec | "G"BD "D7"FA | "G"GG G"_>Teil A"z :| [K:F] 
+|: "F"A2 (B/2A/2G/2F/2) | ("C7"FE) .Ed/2d/2 | dE Ec/2c/2 | "F"cF FC/2F/2 | A2 (B/2A/2G/2F/2) | ("C7"FE) .Ed/2d/2 | dc EG | "F"FF Fz :| 
+|: "Bb"DF/2E/2 !>!F2 | "F"CF/2E/2 !>!F2 | "C7"BE G>G | "F"AC F>F | "Bb"DF/2E/2 !>!F2 | "F"CF/2E/2!>!F2 | "C7"BC E>G | "F"FF F"_Fine"z :| 
+W:Parts: ABACD
+% st06922
+% April 15, 2017

@@ -1,0 +1,55 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch CF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.219 (st00451) orig. C,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"c2ee e2e2 | "Dm"d2ff f2f2 | "G7"g2g2 f3B | "C"c2c2e4 | c2ee e2e2 | "Dm"d2ff f2f2 | "G7"g2g2 f2gf |1 
+"C"e2e2 e2z2 :|2 "C"e2e2 e2cc |: "C"c2e2 g2e2 | a6g2 | e2e2 (d2c2) | "G7"B3g f4 | B2d2 f2d2 | 
+b6a2 |1 g2g2 f2f2 | "C"ageg c'4 :|2 "G7"g2g2 f2gf | "C"e2e2 e2aa || [K:F] "F"a2c2 a2c2 | a6a2 | 
+b2a2 g2f2 | "C7"e6gg | g2c2 g2c2 | g6e2 | g2f2 e2d2 | c6aa | "F"a2c2 a2c2 | 
+a6a2 | "Gm"g2a2 b2d2 | b6aa | "C7"a2g4ga | "F"g2f4f2 | "C7"egg2 c2e2 | "F"f2f2 f2z2 |] 
+
+X:2
+T: Schottisch CF chords (align)
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"c2ee e2e2 | "Dm"d2ff f2f2 | "G7"g2g2 f3B | "C"c2c2e4 | c2ee e2e2 | "Dm"d2ff f2f2 | "G7"g2g2 f2gf |1 \
+"C"e2e2 e2z2 :|2
+ "C"e2e2 e2cc |: "C"c2e2 g2e2 | a6g2 | e2e2 (d2c2) | "G7"B3g f4 | B2d2 f2d2 | \
+b6a2 |1 g2g2 f2f2 | "C"ageg c'4 :|2
+ "G7"g2g2 f2gf | "C"e2e2 e2aa || [K:F] "F"a2c2 a2c2 | a6a2 | \ 
+b2a2 g2f2 | "C7"e6gg | g2c2 g2c2 | g6e2 |
+ g2f2 e2d2 | c6aa | "F"a2c2 a2c2 | \
+a6a2 | "Gm"g2a2 b2d2 | b6aa | "C7"a2g4ga | "F"g2f4f2 | "C7"egg2 c2e2 | "F"f2f2 f2z2 |] 
+
+X:3
+T:Schottisch GC 5- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"G2BB B2B2 | "Am"A2cc c2c2 | "D7"d2d2 c3F | "G"G2G2B4 | G2BB B2B2 | "Am"A2cc c2c2 | "D7"d2d2 c2dc |1 
+"G"B2B2 B2z2 :|2 "G"B2B2 B2GG |: "G"G2B2 d2B2 | e6d2 | B2B2 (A2G2) | "D7"F3d c4 | F2A2 c2A2 | 
+f6e2 |1 d2d2 c2c2 | "G"edBd g4 :|2 "D7"d2d2 c2dc | "G"B2B2 B2ee || [K:Cmaj] "C"e2G2 e2G2 | e6e2 | 
+f2e2 d2c2 | "G7"B6dd | d2G2 d2G2 | d6B2 | d2c2 B2A2 | G6ee | "C"e2G2 e2G2 | 
+e6e2 | "Dm"d2e2 f2A2 | f6ee | "G7"e2d4de | "C"d2c4c2 | "G7"Bdd2 G2B2 | "C"c2c2 c2z2 |] 
+
+X:4
+T:Schottisch GC 5- chords (align)
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"G2BB B2B2 | "Am"A2cc c2c2 | "D7"d2d2 c3F | "G"G2G2B4 | G2BB B2B2 | "Am"A2cc c2c2 | "D7"d2d2 c2dc |1 \
+"G"B2B2 B2z2 :|2
+"G"B2B2 B2GG |: "G"G2B2 d2B2 | e6d2 | B2B2 (A2G2) | "D7"F3d c4 | F2A2 c2A2 | \
+f6e2 |1 d2d2 c2c2 | "G"edBd g4 :|2
+"D7"d2d2 c2dc | "G"B2B2 B2ee || [K:Cmaj] "C"e2G2 e2G2 | e6e2 | \ 
+f2e2 d2c2 | "G7"B6dd | d2G2 d2G2 | d6B2 |
+d2c2 B2A2 | G6ee | "C"e2G2 e2G2 | \
+e6e2 | "Dm"d2e2 f2A2 | f6ee | "G7"e2d4de | "C"d2c4c2 | "G7"Bdd2 G2B2 | "C"c2c2 c2z2 |] 
+

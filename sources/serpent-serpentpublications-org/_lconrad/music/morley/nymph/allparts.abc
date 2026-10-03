@@ -1,0 +1,102 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+
+X:1
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:III. Sweet Nimphe:
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+M:C
+K:F
+L:1/8
+T:Cantus
+N: Original clef, C on first line
+L:1/8
+K:F treble
+M:C
+%1
+F4 A2 B2 c B A G F2 G2 A2 F4 B4 A2 G4 A2 F2 \
+w:Sweet Nimphe come to _ _ _ _ thy lo- ver, to thy lo- ver, sweet
+%2
+  A2     B2   c B A G F2 G2  A2  F4 "A"c2 c2 =B2 c2 F2 D2 G2 C4 z2 C2 
+w:Nymphe come to _ _ _ _ thy lo- ver, Lo here a- lone Lo heere a- lone. our 
+%3
+c3 B A2 A2 G4 A2 F2 A2 B2 c B A G F2 G2 A2 F4 B4 A2 G4 A2 F2 \
+w:loves wee may dis- co-ver, Sweet Nimph come to _ _ _ _ thy lov- er, to thy lov- er,  Sweet
+%4
+   A2    B2   c B A G F2 G2  A2   F4 c2 c2 =B2 c2 F2 D2 G2 C4 z2 C2 c3 B A2 A2 G4 \
+w: Nimph come to _ _ _ _ thy lov- er, lo heere a- lone, lo heere a- lone, our loves wee may dis- co- 
+"B"A2 c2  F2
+w:ver, Wher the
+%5
+ G2 A2 F2 A2 B2 c B A G F2 G2 C2 c2 B2 _e2 d2 c4 =B2 \
+w: sweet Night- in- gale with wan - * _ _ _  ton with wan- ton glo -
+%6
+"C"c2   c2   B2  A2   G2 F2   B3 A G2 F2 E2 A2 G2 F4 E2 F4 z2 
+w: ses, hark hir love to dis- clo - * _ ses to dis- clo - ses, 
+f2 e2 d2 c2 B2 A2 d2 c2 B2 \
+w:hark hir love to dis- clo -  ses dis- 
+%7
+   A4 G4 "D"A2 c2 F2 G2 A2 F2 A2 B2 c B A G F2 G2 C2 c2 B2 _e2 d2 c4 =B2 \
+w: clo - ses, where the sweet Night- in- gale with wan - * _ _ _ ton with wan- ton glo - *
+%8
+"E"c2 c2 B2 A2 G2 F2 B3 A G2 F2 E2 A2 G2 F4 E2 F4 z2 f2 e2 d2 c2 B2 A2 d2 c2 
+w:  ses, hark hir love to dis- clo - * _ ses to dis- clo -  ses. hark hir love to dis- clo -  ses 
+B2 A4 G4 HA16 |]
+w:to dis- clo- ses.
+
+
+X:2 
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:III. Sweet Nimphe:
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+M:C
+K:F
+L:1/8
+T:Tenor
+N:Original clef, C on first line
+L:1/8
+%1
+z8 C4 D2 E2 F E D C D2 B, C D E F4 E2 F8 Z2 F2 A2 B2 \
+w:Sweet Nimphe come to _ _ _ _ thy _ _ _ _ lo- ver, sweet Nimphe come
+%2
+  c B A G F2 "A"A2 G4 C2 c2 c2 =B2 c2 G2 c3 B A2 G3 F F4 E2 \
+w:to _ _ _ _ thy lo- ver, Lo here a- lone our loves wee may dis -  co-
+%3
+  F8 z2 C2    D2    E2   F E D C D2 B, C D E F4 E2 F8 z2 F2 A2 B2 c B A G F2 A2 G4 C2 c2 \
+w:ver,  Sweet Nimph come to _ _ _ _ thy _ _ _ _ lov- er, Sweet Nimph come to _ _ _ _ thy lov- er, Lo
+%4
+  c2    =B2 c2   G2  c3    B   A2  G3 F   F4 E2 "B"F8 z2 c2 F2 G2 A2 F2 A2 B2 c2 A2 \
+w:heere a-  lone our loves wee may dis -  co - ver, Wher the sweet Night- in- gale with wan - 
+%5
+   G2  c2   B2  _e2  d4   "C"c4 z2 c2   B2  A2   G2 F2   B3 A G2 F2 E2 F2 G4 A2 f2 e2 d2 c2 B2 A2 d2 \
+w: ton with wan- ton glo- ses,  hark hir love to dis- clo - * _ _  _ _ ses. Hark hir love to dis- clo - 
+%6
+  c2  B2   A2 G3 F F4 E2 "D"F8 z2 c2    F2  G2    A2     F2  A2   B2   c2   A2  G2   c2   B2 _e2 d4 "E"c4 \
+w:ses dis- clo - * _ _      ses,  where the sweet Night- in- gale with wan - ton with wan- ton glo-  ses
+%7
+z2 c2   B2   A2  G2 F2   B3 A G2 F2 E2 F2 G4 A2 f2 e2 d2 c2 B2 A2 d2 c2 B2 A2 G3 F F4 E2 HF16 |] 
+w: hark hir love to dis- clo - * _ _ _ _ ses. hark hir love to dis- clo - * _ _ _ _ _ _ ses.
+
+

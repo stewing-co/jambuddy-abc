@@ -1,0 +1,39 @@
+X:403
+T:Verso Miserere
+C:Antonio da Silva Leite (1759-1833)
+M:C|
+L:1/4
+K:Bb
+V: 3 clef=bass name="Violoncelo" sname="Vc."
+%%MIDI program 1 1
+%%staves [ 3 ]
+%-------------------
+[L:1/8] !p!G,2 A,2 B,2 !f!^F,2 | !p!G,2 A,2 B,2 !f!^F,2 | G,2 G,2 =B,2 G,2 | C2 _B,2 A,2 G,2 | ^F,2 D,2 =E,2 F,2 | G,2 E,2 D,2 ^C,2 |\
+D,2 D,2 D,,2 z2 | G,,2 G,2 G,,2 z2 | D,4 DCB,A, || !p!G,2 A,2 B,2 !f!^F,2 | !p!G,2 A,2 B,2 !f!^F,2 | \
+% falta rever JJ
+[L:1/4] G, G, =B, G, | C _B, A, G, | ^F, D, =E, F, | G, A, B, ^F, | G, G, =B, G, | \
+%16
+C, D, _E,2 | D, D, D, ^F, | G, G,, G, A, | B, B,, B, ^F, | G, G,, D, D,, | G,,2 G, =B,, | \
+%22
+C, C, C, D, | E, E, E, =B,, | C, C, C, G,, | C, D, E, ^C, | D, D, D,, z | %27
+!p!G, A, B, !f!^F, | !p!G, A, B, !f!^F, | G, G, G,, G,, | G, G,, G,, z | !f!B,,2 z z | B,, B,, B,, B,, | \
+%33
+E, E, E,, z | C, C, C, C, | F, F, F,, z | F, z B,, z | F,, z B,, F, | \
+%38
+(E, C, D, B,,) | A,, A,, B,, B, | G, G, G, G, | F, F, F,, z | F,, F, F,, z | \
+%43
+B,, B, B,, z | !p!F,3/2 !f!=E,/ !p!F,3/2 !f!E,/ | !p!F,2 F, =E, | F, z z E, | D, B, C A, | \
+%47
+B, B,, F, F,, | B,, B, F, E, | D, B,, F, F,, | !/!B,,2 !/!E,2 | !/!F,2 !/!F,,2 | \
+%52
+B,,/B,/F,/D,/ B,, z | [C,C,,]3 C, | F,2 z F, | [G,G,,]3 F, | E, C, z C, | D,3 D, | \
+%58
+!p!G, A, B, !f!^F, | !p!G, A, B, !f!^F, | G,2 E,2 | D, D D, z | D, D, D,, z | G,, G, G,, z | \
+%64
+D,3/2 ^C,/ D,3/2 ^C,/ | !/!D,2 D, ^C, | D, z z C | B, G, A, ^F, | G, G,, D, D,, | G,, G, A, C | \
+%70
+B, G, A, D, |!/!G,2 !/!C,2 | !/!D,4 | !/!D,,4 | !p!G,3 !f!^F, | G,3 ^F,, | G,,2 !p!.G,, .G,, | \
+%77
+G,,2 z2 :| \
+%78
+%-------------------

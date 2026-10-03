@@ -1,0 +1,28 @@
+X:602
+T:Aria Euridice
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:Bb
+V: 2 clef=alto name="Corno II" sname="Cor. II"
+%%MIDI program 1 69
+%%staves [( 2 )]
+%-------------------------------------------------------------------
+"^Corni in BeFa" [K:C][Q:"Maestoso"][M:C][K:alto4] z | D,/D,/ D,D,D, | F,D,D,!fermata!z | \
+z/D,/D,/D,/ D, z | z/B,,/B,,/B,,/ B,, z |  z/F,/F,/F,/ F, z | z/D,/D,/D,/ D, z | \
+z/F,/ F, z/ B,/ B, | z/ F,/F,/F,/ F, z | z/D,/ D, z/ F,/ F, | z/ B,/B,/B,/ B, z | \
+"_// interpreted as = Cor.I" F,/>F,/F,/>F,/ F,/>F,/F,/>F,/ | F,/>F,/F,/>F,/ F,/>F,/F,/>F,/ | \
+F,F,F,!fermata!z || [Q:"Andante"][M:3/4] Z5 | z/F,/ D, !fermata!z || \
+[Q:"Andantino"][M:C] z | Z3 | zB,F,z | Z8 | zF,F,F, | z4 | zF,F,F, | z4 | !p!F,4- | F,4- | F,4 | \
+!f! F,/F,/ F, z2 | Z11 | !f! F,2z2 | Z8 | F,/F,/ F,F,F, | F,/F,/ F,F,F, | F,zzC | F,F,F,F, | F,F,!fermata!F,z || \
+[Q:"Andante"][M:3/4] z3 "_Tacet" | Z14 || \
+[Q:"Allegro assai"][M:C] D,/D,/ D,/z/ B,/B,/ B, | z/D,/D,/D,/ B,,2- | B,,4- | B,,4 | B,,zB,F, | B,,zz2| Z4 | \
+zF,F,z | Z2 | zD,D,z | Z2 | z2zF, | D,zz2 | z2zB, | F,zz2 |  \
+z2zF,| D,zz2| D,/z/ D,/z/ F,/z/ F,/z/ | zF,D,z |D,/z/ D,/z/ F,/z/ F,/z/ | D,D,D,z| z4 | \
+B,,4| C,zz2| Z2| D,B,F,2| D,zz2 | D,B,F,2| D,zz2| B,,4- | B,,4 | B,,z !fermata!z2 | !fermata!F,zz2 | \
+z4 | z/B,,/B,,/B,,/B,,z | B,zF,z | D,zz2 | z4 | z/B,,/B,,/B,,/B,,z | \
+B,zF,z| z/D,/D,/D,/ D,z| Z8 | z/B,,/B,,/B,,/ B,,z| Z5 | B,2F,2 | !f!D,/D,/ D,/z/ B,/B,/ B,/z/ | \
+B,,/B,,/B,,/B,,/ B,,2- | \
+%fol.76
+B,,4- | B,,4 | B,,zB,F, | D,D,D,D, | D,2 z2 |]
+%-------------------------------------------------------------------

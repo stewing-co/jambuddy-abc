@@ -1,0 +1,84 @@
+%abc-2.1
+I:abc-charset utf-8  % do not remove this line! See IMPORTANT NOTE below!
+
+% Two ancient Greek hymns.
+% 
+%                        IMPORTANT NOTE:
+% The abc-charset option (in line 2), though part of the abc 2.1 standard, is not recognized by
+% abc2midi.  A warning similar to the following warning will be issued:
+%   Error in line-char 7-0 : I: key ' abc-charset' not recognized
+% This warning may be ignored.  Greek characters are used in the transcription and will
+% present problems for abcm2ps and, if the abc-charset option is missing, Greek letters may be
+% replaced by question marks after a file save.
+
+
+X:1
+T:Seikilos epitaph
+C:Hellenistic Ionic hymn
+C:Greek tombstone
+O:Tralles [near Aydin, Turkey], ~ 1st c CE
+S:https://en.wikipedia.org/wiki/Seikilos_epitaph
+Z:transcribed into ABC by Eric Conrad
+M:6/8
+L:1/8
+R:jig
+K:Amix % missing VI (i.e. F#)
+Ae2e3 | (cde) d3 | c2d e(dc) | BA2 (BG2) |
+w:Ὅ-σον ζῇς φαί__ \-\ νου μη-δὲν ὅ-λως_ σὺ λυ-ποῦ_
+w:While you live, shine,___ Have no grief__ at all.__
+Ace d(cd) | cA2 (BA2) | AcB dec | AA2 (AGE) || [D3A3] [A3E3A,3] |]
+w:πρὸς ὀ-λί-γον ἐσ_ \-\ τὶ τὸ ζῆν_ τὸ τέ-λος ὁ χρό-νος ἀ-παι-τεῖ__ ~ ~
+w:Life ex-ists on-ly for a short while,_ And__ time de_ \-\ mands an end.__ [A-men.]
+%%text
+%%text The last two notes are not part of the epitaph.
+%%text For more information, consult Wikipedia: https://en.wikipedia.org/wiki/Seikilos_epitaph
+
+
+X:2
+T:First Delphic Hymn to Apollo
+T:Fragment
+C:Athenaios Athenaiou, c. 138 BCE
+C:Reconstructed (Weil and Reinach, 1893)
+S:https://en.wikipedia.org/wiki/Delphic_Hymns
+Z:ABC transcription by Eric Conrad
+M:5/8
+R:Cretic % "long short long" poetic foot
+L:1/8
+Q:"(50 mpm)" 1/8=250
+K:F#phr
+%%text Phrygian/Hyperphrygian with modulated V (transcribed in F\u266f Phrygian)
+%%MIDI beatstring fpmpp
+B2GBc | d2dcc | B2GB2 | BG GGB | Bc d(cB) | cB GB2 |
+B2B B2 | dd Bdd | (cB) GB2 | (BG) GB2 | D2 DF2 | FG GD2 |
+dd dfg | f2 df2 | f2 fd2 | (dd) BBd | c2 cBG | FG B(BG) |
+(Bc) d(cd) | e2 fge | (ef) gf2 | f2 dee | e2 =cc2 | B2 BBB |
+(BG) G(Bc) | (dc) BBB | F2 FF2 |]
+%%text
+%%text Source: Wikipedia: Delphic hymns (https://en.wikipedia.org/wiki/Delphic_Hymns)
+%%text Translation: http://www.ancientlyre.com/publicfiles/THE_ANCIENT_GREEK_LYRE_INSERT_NOTES1.pdf
+%%text
+W:Hear me, you who possess deep-wooded Helicon,
+W:fair-armed daughters of Zeus the magnificent!
+W:Fly to beguile with your accents your brother, golden-tressed Phoebus
+W:who, on the twin peak of this rock of Parnassus,
+W:escorted by illustrious maidens of Delphi,
+W:sets out for the limpid streams of Castalia, traversing,
+W:on the Delphic promontory, the prophetic pinnacle.
+W:Behold glorious Attica, nation of the great city which,
+W:thanks to the prayers of the Tritonid warrior,
+W:occupies a hillside sheltered from all harm.
+W:On the holy altars Hephaestos consumes the thighs of young bullocks,
+W:mingled with the flames, the Arabian vapor rises towards Olympos.
+W:The shrill rustling lotus murmurs its swelling song, and the golden kithara,
+W:the sweet-sounding kithara, answers the voice of men.
+W:And all the host of poets, dwellers in Attica, sing your glory, God,
+W:famed for playing the kithara, son of great Zeus,
+W:beside this snow-crowned peak, oh you who reveal to all mortals
+W:the eternal and infallible oracles.
+W:They sing how you conquered the prophetic tripod
+W:guarded by a fierce dragon when, with your darts
+W:you pierced the gaudy, tortuously coiling monster,
+W:so that, uttering many fearful hisses, the beast expired.
+W:They sing too, ...
+
+

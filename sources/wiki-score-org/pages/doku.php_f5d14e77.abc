@@ -1,0 +1,29 @@
+X:1301
+T:Scena 7.a
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 1 clef=alto name="Corno I" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 1 )]
+%----------------- edit between the lines ------------
+[K: bass] Z21 | z2 | Z22 || \
+[Q:"Allegro assai"] Z22 || \
+[Q:"Allegro"] [K:Eb] z | z4 | z/F,/F,/F,/ F, z | z4 | z/E,/E,/E,/ E, z | !p!E,4 |z/E,/E,/E,/ E, z | !p!E,4 | \
+z/E,/B,,/G,,/E,,z| Z3 | z2 G,2 | !p!E,/E,/ E, z/E,/ E, | z/E,/ E, z/E,/ E, | !p!F,4 | F,zz2 | z/F,/F,/F,/ !/!F,2 | \
+F,zz2 | z/G,/G,/G,/ G,z | Z5 | !p!F,4 | B,B,B,B, | B,B,B,z | A,4 | A,4 | A,zz2 | z4 | \
+z/A,/A,/A,/ A, z | z4 | z/A,/A,/A,/ A, z | z4 | z/A,/A,/A,/ A, z | Z4 | F,4 | F,zz2 | Z22 | \
+F,F,F,z | F,zz2 | F,zz2 | F,zz2 | !p!z/B,/B,/B,/ B,z | z4 | z/B,/B,/B,/ B,z | z4 | z/B,/B,/B,/ B,z  | \
+F,zz2 | F,zz2 | z4 | z/B,/B,/B,/ B,z | Z5 | B,4 | G,4 | F,4- | F,4 | B,z z/B,/B,/B,/ | B,z z/B,/B,/B,/ | \
+B,B,B,!fermata!z || \
+[Q:"Andante"] [M:2/4] "_Corni Refaut" !fermata!F,z | F,2 | F,/z/z| G,A,| z/A,/ A,/z/ | Z5 |\
+z//F,//A,//G,// F,/z/ | Z5 | z//A,//A,//G,// F,/z/ | Z6 | !p!F,2 | F,z | \
+"_Corni Elafa" Z | !fermata! z2 | !fermata! z2 | !fermata! z2 | Z3 || \
+[Q:"Allegro"] [M:C]  F,4- | F,4- | F,4 | Z2 | !p!B,,4- | "_cresc." B,,4- | !f! B,,4 | \
+Z3 | z2 zB, | B,/z/zzB, | z4 | zB,B,B, | B,zz2 | !p!G,2 F,2 | E,2 F,2 | G,2 F,2 | E,2 F,2 | !f!E,4 | \
+z4 | F,4 | z4 | zB,G,E, | B,,2 B,/A,/G,/F,/ | !p!E,4- | E,4- | E,4- | E,/G,/B,/G,/ E,/G,/B,/G,/ | \
+!p!E,4- | E,4- | E,4 | E,/G,/B,/G,/ E,z | z4 | A,4 | z2G,F, | E,zz2 | Z6 | \
+z2B,2 | A,4 | G,2F,2 | E,zz2 | Z6 | z2B,2 | A,4 | G,2F,2 | E,zz2 | A,2F,2 | E,zz2 | A,2F,2 | E,2G,2 | A,4 | G,4 | \
+F,4 | E,B,B,A,| G,zF,2|E,zF,2| E,E,E,z  |] \
+%-----------------------------------------------------

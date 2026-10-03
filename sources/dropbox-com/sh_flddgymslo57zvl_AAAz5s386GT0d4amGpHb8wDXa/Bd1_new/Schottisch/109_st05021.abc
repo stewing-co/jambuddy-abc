@@ -1,0 +1,92 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.318f (st05021) orig. C,G,F-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"cee2 "G7"dff2 | "C"egg2 cBc2 | "G7"faa2 dff2 | "C"egg2 cBc2 | cce2 "G7"dff2 |  "C"egg2 cBc2 |  
+"F"faa2 "G7"dfB2 | "C"c2c2 c2z2 :|  [K:G] "D7"e2d2 d^cd2 | "G"e2d2 d^cd2 | "D7"d2=f^f d2=f^f |  "G"d2fg d2fg |  
+"D7"e2d2 d^cd2 | "G"e2d2 d^cd2 | "D7"defg a2ba | "G"g4 z2gg ||  "G7"g2g2 g2g2 | g4"_>Teil A"z4 ||  [K:F]
+|:  "F"!>!a4 gfed | cdc=B c2f2 | "C7"efed e2g2 | "F"fgfe fAcf  | !>!a4 "Bb"gfed | "F"cdc=B c2f2 | "C7"efed e2g2 | "F"f2f2 f2z2 :| 
+"Dm"f2fe d2f2 | "A7"e2e2 !>!a4 | "Dm"f2fe d2f2 | "A7"e2e2 !>!A4 | "Dm"f2fe d2f2 | "A7"e2e2 !>!a4 | "Dm"f3e fefg | "A7"a4z4 | 
+|: "Gm/Bb"agg2 !>!d3g | "F/A"gff2 !>!c3f | "C7/G"f2e2 !>!b3e | "F"g2f2 !>!a4 | "Gm/Bb"agg2 !>!d3g | "F/A"gff2 !>!c3f | "C7"f2e2 d2e2 | "F"f2f2 f2z2 :| 
+
+X:2
+T: Schottisch CGF chords Parts
+P:ABACD
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+[P:A] "C"cee2 "G7"dff2 | "C"egg2 cBc2 | "G7"faa2 dff2 | "C"egg2 cBc2 | cce2 "G7"dff2 |  "C"egg2 cBc2 |  
+"F"faa2 "G7"dfB2 | "C"c2c2 c2z2 :|  [P:B] [K:G] "D7"e2d2 d^cd2 | "G"e2d2 d^cd2 | "D7"d2=f^f d2=f^f |  "G"d2fg d2fg |  
+"D7"e2d2 d^cd2 | "G"e2d2 d^cd2 | "D7"defg a2ba | "G"g4 z2gg ||  "G7"g2g2 g2g2 | g4"_>Teil A"z4 ||  [K:F]
+[P:C] |:  "F"!>!a4 gfed | cdc=B c2f2 | "C7"efed e2g2 | "F"fgfe fAcf  | !>!a4 "Bb"gfed | "F"cdc=B c2f2 | "C7"efed e2g2 | "F"f2f2 f2z2 :| 
+"Dm"f2fe d2f2 | "A7"e2e2 !>!a4 | "Dm"f2fe d2f2 | "A7"e2e2 !>!A4 | "Dm"f2fe d2f2 | "A7"e2e2 !>!a4 | "Dm"f3e fefg | "A7"a4z4 | 
+[P:D] |: "Gm/Bb"agg2 !>!d3g | "F/A"gff2 !>!c3f | "C7/G"f2e2 !>!b3e | "F"g2f2 !>!a4 | "Gm/Bb"agg2 !>!d3g | "F/A"gff2 !>!c3f | "C7"f2e2 d2e2 | "F"f2f2 f2z2 :| 
+
+X:3
+T:Schottisch EbBbAb (5letras) cf. CGF
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+"Eb"egg2 "Bb7"faa2 | "Eb"gbb2 ede2 | "Bb7"ac'c'2 faa2 | "Eb"gbb2 ede2 | eeg2 "Bb7"faa2 | "Eb"gbb2 ede2 | 
+"Ab"ac'c'2 "Bb7"fad2 | "Eb"e2e2 e2z2 :| [K:Bbmaj] "F7"g2f2 f=ef2 | "Bb"g2f2 f=ef2 | "F7"f2_a=a f2_a=a | "Bb"f2ab f2ab | 
+"F7"g2f2 f=ef2 | "Bb"g2f2 f=ef2 | "F7"fgab c'2d'c' | "Bb"b4 z2bb || "Bb7"b2b2 b2b2 | b4"_>Teil A"z4 || [K:Abmaj]
+|: "Ab"!>!c'4 bagf | efe=d e2a2 | "Eb7"gagf g2b2 | "Ab"abag acea | !>!c'4 "Db"bagf | "Ab"efe=d e2a2 | "Eb7"gagf g2b2 | "Ab"a2a2 a2z2 :| 
+"Fm"a2ag f2a2 | "C7"g2g2 !>!c'4 | "Fm"a2ag f2a2 | "C7"g2g2 !>!c4 | "Fm"a2ag f2a2 | "C7"g2g2 !>!c'4 | "Fm"a3g agab | "C7"c'4z4 | 
+|: "Bbm/Db"c'bb2 !>!f3b | "Ab/C"baa2 !>!e3a | "Eb7/Bb"a2g2 !>!d'3g | "Ab"b2a2 !>!c'4 | "Bbm/Db"c'bb2 !>!f3b | "Ab/C"baa2 !>!e3a | "Eb7"a2g2 f2g2 | "Ab"a2a2 a2z2 :| 
+
+X:4
+T:Schottisch EbBbAb (5letras) cf. CGF Parts
+P:ABACD
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+[P:A] "Eb"egg2 "Bb7"faa2 | "Eb"gbb2 ede2 | "Bb7"ac'c'2 faa2 | "Eb"gbb2 ede2 | eeg2 "Bb7"faa2 | "Eb"gbb2 ede2 | 
+"Ab"ac'c'2 "Bb7"fad2 | "Eb"e2e2 e2z2 :| [P:B] [K:Bbmaj] "F7"g2f2 f=ef2 | "Bb"g2f2 f=ef2 | "F7"f2_a=a f2_a=a | "Bb"f2ab f2ab | 
+"F7"g2f2 f=ef2 | "Bb"g2f2 f=ef2 | "F7"fgab c'2d'c' | "Bb"b4 z2bb || "Bb7"b2b2 b2b2 | b4"_>Teil A"z4 || [K:Abmaj]
+[P:C] |: "Ab"!>!c'4 bagf | efe=d e2a2 | "Eb7"gagf g2b2 | "Ab"abag acea | !>!c'4 "Db"bagf | "Ab"efe=d e2a2 | "Eb7"gagf g2b2 | "Ab"a2a2 a2z2 :| 
+"Fm"a2ag f2a2 | "C7"g2g2 !>!c'4 | "Fm"a2ag f2a2 | "C7"g2g2 !>!c4 | "Fm"a2ag f2a2 | "C7"g2g2 !>!c'4 | "Fm"a3g agab | "C7"c'4z4 | 
+[P:D] |: "Bbm/Db"c'bb2 !>!f3b | "Ab/C"baa2 !>!e3a | "Eb7/Bb"a2g2 !>!d'3g | "Ab"b2a2 !>!c'4 | "Bbm/Db"c'bb2 !>!f3b | "Ab/C"baa2 !>!e3a | "Eb7"a2g2 f2g2 | "Ab"a2a2 a2z2 :| 
+
+X:5
+T:Schottisch CGF oct chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"CEE2 "G7"DFF2 | "C"EGG2 CB,C2 | "G7"FAA2 DFF2 | "C"EGG2 CB,C2 | CCE2 "G7"DFF2 | "C"EGG2 CB,C2 | 
+"F"FAA2 "G7"DFB,2 | "C"C2C2 C2z2 :| [K:Gmaj] "D7"E2D2 D^CD2 | "G"E2D2 D^CD2 | "D7"D2=F^F D2=F^F | "G"D2FG D2FG | 
+"D7"E2D2 D^CD2 | "G"E2D2 D^CD2 | "D7"DEFG A2BA | "G"G4 z2GG || "G7"G2G2 G2G2 | G4"_>Teil A"z4 || [K:Fmaj]
+|: "F"!>!A4 GFED | CDC=B, C2F2 | "C7"EFED E2G2 | "F"FGFE FA,CF | !>!A4 "Bb"GFED | "F"CDC=B, C2F2 | "C7"EFED E2G2 | "F"F2F2 F2z2 :| 
+"Dm"F2FE D2F2 | "A7"E2E2 !>!A4 | "Dm"F2FE D2F2 | "A7"E2E2 !>!A,4 | "Dm"F2FE D2F2 | "A7"E2E2 !>!A4 | "Dm"F3E FEFG | "A7"A4z4 | 
+|: "Gm/Bb"AGG2 !>!D3G | "F/A"GFF2 !>!C3F | "C7/G"F2E2 !>!B3E | "F"G2F2 !>!A4 | "Gm/Bb"AGG2 !>!D3G | "F/A"GFF2 !>!C3F | "C7"F2E2 D2E2 | "F"F2F2 F2z2 :| 
+
+X:6
+T:Schottisch CGF oct chords Parts
+P:ABACD
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+[P:A] "C"CEE2 "G7"DFF2 | "C"EGG2 CB,C2 | "G7"FAA2 DFF2 | "C"EGG2 CB,C2 | CCE2 "G7"DFF2 | "C"EGG2 CB,C2 | 
+"F"FAA2 "G7"DFB,2 | "C"C2C2 C2z2 :| [P:B] [K:Gmaj] "D7"E2D2 D^CD2 | "G"E2D2 D^CD2 | "D7"D2=F^F D2=F^F | "G"D2FG D2FG | 
+"D7"E2D2 D^CD2 | "G"E2D2 D^CD2 | "D7"DEFG A2BA | "G"G4 z2GG || "G7"G2G2 G2G2 | G4"_>Teil A"z4 || [K:Fmaj]
+[P:C] |: "F"!>!A4 GFED | CDC=B, C2F2 | "C7"EFED E2G2 | "F"FGFE FA,CF | !>!A4 "Bb"GFED | "F"CDC=B, C2F2 | "C7"EFED E2G2 | "F"F2F2 F2z2 :| 
+"Dm"F2FE D2F2 | "A7"E2E2 !>!A4 | "Dm"F2FE D2F2 | "A7"E2E2 !>!A,4 | "Dm"F2FE D2F2 | "A7"E2E2 !>!A4 | "Dm"F3E FEFG | "A7"A4z4 | 
+[P:D] |: "Gm/Bb"AGG2 !>!D3G | "F/A"GFF2 !>!C3F | "C7/G"F2E2 !>!B3E | "F"G2F2 !>!A4 | "Gm/Bb"AGG2 !>!D3G | "F/A"GFF2 !>!C3F | "C7"F2E2 D2E2 | "F"F2F2 F2z2 :| 
+
+X:7
+T:Schottisch EbBbAb (5letras) cf. CGF oct Parts
+P:ABACD
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+[P:A] "Eb"EGG2 "Bb7"FAA2 | "Eb"GBB2 EDE2 | "Bb7"Acc2 FAA2 | "Eb"GBB2 EDE2 | EEG2 "Bb7"FAA2 | "Eb"GBB2 EDE2 | 
+"Ab"Acc2 "Bb7"FAD2 | "Eb"E2E2 E2z2 :| [P:B] [K:Bbmaj] "F7"G2F2 F=EF2 | "Bb"G2F2 F=EF2 | "F7"F2_A=A F2_A=A | "Bb"F2AB F2AB | 
+"F7"G2F2 F=EF2 | "Bb"G2F2 F=EF2 | "F7"FGAB c2dc | "Bb"B4 z2BB || "Bb7"B2B2 B2B2 | B4"_>Teil A"z4 || [K:Abmaj]
+[P:C] |: "Ab"!>!c4 BAGF | EFE=D E2A2 | "Eb7"GAGF G2B2 | "Ab"ABAG ACEA | !>!c4 "Db"BAGF | "Ab"EFE=D E2A2 | "Eb7"GAGF G2B2 | "Ab"A2A2 A2z2 :| 
+"Fm"A2AG F2A2 | "C7"G2G2 !>!c4 | "Fm"A2AG F2A2 | "C7"G2G2 !>!C4 | "Fm"A2AG F2A2 | "C7"G2G2 !>!c4 | "Fm"A3G AGAB | "C7"c4z4 | 
+[P:D] |: "Bbm/Db"cBB2 !>!F3B | "Ab/C"BAA2 !>!E3A | "Eb7/Bb"A2G2 !>!d3G | "Ab"B2A2 !>!c4 | "Bbm/Db"cBB2 !>!F3B | "Ab/C"BAA2 !>!E3A | "Eb7"A2G2 F2G2 | "Ab"A2A2 A2z2 :| 

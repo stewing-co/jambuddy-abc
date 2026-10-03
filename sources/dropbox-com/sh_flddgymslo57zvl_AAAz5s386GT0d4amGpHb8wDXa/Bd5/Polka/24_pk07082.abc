@@ -1,0 +1,59 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Rosenknospen-Polka  FCBb (pk07082)  ABACD
+T:Hanny Christen. Bd.V  Basel II, Jura. S.49  (pk07082) orig. Bb,F
+T: Basel II. Tänze aus Frenkendorf. S.43-53.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+%%partsbox
+P:ABACD
+R:Polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+C2 [P:A] |: "F"F2F2 FEFG | (A2F2) .F2(Ad) | ("C7"c2E2) .E2(Gd) | ("F"c2F2) .F2C2 | F2F2 FEFG | A2F2 .F2(Ad) | "C7"c2B2 E2G2 |1 "F"F2A2 F2C2 :|2 
+"F"F2A2 F2z2 [P:B] |: [K:C]  "C"e2eG d2dG | "G7"B2BF !>!A4 | B2BF !>!A4  | "C"c2cE!>!G4 | e2eG d2dG | "Dm"A2Ad !>!f4 | "C"eGce "G7"d3B |1. "C"c2e2 c2z2 :|2 
+"C"c2e2 c2"_>Teil A"C2 [P:C] |: [K:Bb] [L:1/8]  "Bb"d>A c>B | FFD2 | GF DB | "F7"A3F/A/ | e>A d>c | AAE2 | Fe GA | "Bb"BB Bz :| 
+[P:D] |: "F7"F/G/A/B/ cg | "Bb"ff d>g | "F7"ff c>e | "Bb"d/e/d/c/ BA/G/ | "F7"F/G/A/B/ cg | "Bb"ff d>f | "Cm"gc "F7"eA |1 "Bb"Bd BF :|2 "Bb"Bd Bz |] 
+W:
+% pk07082
+% Jan 9, 2018
+
+X:2
+T:Rosenknospen-Polka  CGF 7+ (pk07082) 
+S:Hanny Christen. Bd.V  Basel II, Jura. S.49  (pk07082) orig. Bb,F
+S:Basel II. Tänze aus Frenkendorf. S.43-53.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+G2 |: "C"c2c2 cBcd | (e2c2) .c2(ea) | ("G7"g2B2) .B2(da) | ("C"g2c2) .c2G2 | c2c2 cBcd | e2c2 .c2(ea) | "G7"g2f2 B2d2 |1 "C"c2e2 c2G2 :|2 
+"C"c2e2 c2z2 |: [K:Gmaj] "G"b2bd a2ad | "D7"f2fc !>!e4 | f2fc !>!e4 | "G"g2gB!>!d4 | b2bd a2ad | "Am"e2ea !>!c'4 | "G"bdgb "D7"a3f |1 "G"g2b2 g2z2 :|2 
+"G"g2b2 g2"_>Teil A"G2 |: [K:Fmaj] [L:1/8] "F"a>e g>f | ccA2 | dc Af | "C7"e3c/2e/2 | b>e a>g | eeB2 | cb de | "F"ff fz :| 
+|: "C7"c/2d/2e/2f/2 gd' | "F"c'c' a>d' | "C7"c'c' g>b | "F"a/2b/2a/2g/2 fe/2d/2 | "C7"c/2d/2e/2f/2 gd' | "F"c'c' a>c' | "Gm"d'g "C7"be |1 "F"fa fc :|2 "F"fa fz |] 
+W::Parts: ABACD
+% pk07082
+% Jan 13, 2018
+
+X:3
+T:Rosenknospen-Polka  CGF 5- (pk07082) 
+S:Hanny Christen. Bd.V  Basel II, Jura. S.49  (pk07082) orig. Bb,F
+S:Basel II. Tänze aus Frenkendorf. S.43-53.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+G,2 |: "C"C2C2 CB,CD | (E2C2) .C2(EA) | ("G7"G2B,2) .B,2(DA) | ("C"G2C2) .C2G,2 | C2C2 CB,CD | E2C2 .C2(EA) | "G7"G2F2 B,2D2 |1 "C"C2E2 C2G,2 :|2 
+"C"C2E2 C2z2 |: [K:Gmaj] "G"B2BD A2AD | "D7"F2FC !>!E4 | F2FC !>!E4 | "G"G2GB,!>!D4 | B2BD A2AD | "Am"E2EA !>!c4 | "G"BDGB "D7"A3F |1 "G"G2B2 G2z2 :|2 
+"G"G2B2 G2"_>Teil A"G,2 |: [K:Fmaj] [L:1/8] "F"A>E G>F | CCA,2 | DC A,F | "C7"E3C/2E/2 | B>E A>G | EEB,2 | CB DE | "F"FF Fz :| 
+|: "C7"C/2D/2E/2F/2 Gd | "F"cc A>d | "C7"cc G>B | "F"A/2B/2A/2G/2 FE/2D/2 | "C7"C/2D/2E/2F/2 Gd | "F"cc A>c | "Gm"dG "C7"BE |1 "F"FA FC :|2 "F"FA Fz |] 
+W::Parts: ABACD
+% pk07082
+% Jan 13, 2018

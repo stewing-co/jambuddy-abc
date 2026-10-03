@@ -1,0 +1,97 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+%abctab2ps format
+%
+%%titlefont Times-Roman 18
+T:Die Katzenpfote
+T:Diskantes
+C:Glogauer Liederbuch, Number 13
+Z:ABC transcription by Leonard Williams, arckon@dejazzd.com
+M:C|
+L:1/1
+N:Original clef, C on first line
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+K:C
+%%titlespace .50 in
+%%topspace .50 in
+%%pageheight 11 in
+%%staffwidth 6.5 in
+%%leftmargin .88 in
+%%indent .50 in
+%%scale 0.6
+%%systemsep 1.0 in
+%
+c2G2AGc2BBAdd/ d/ c>A Bc2 HB2B2d3/2 c//B//AGc B/A/A/ G/G>E ^F
+	G2zGG/EF/G A/c/c/dB/ c/A/B/G/EF/GA/Bc/dB/G/ cB/czcc
+	de e/c/cd B/G/ E/ A ^G/Az/D/ E/F/ GG/E/F/G/ Az/A/
+	B/c/dz/2e/ c/d/B c/A/ B/G/ AF F/D/ D/G/E/F/G/AB/ G/A/B/c/
+	c/A/ B/d/ A/c/ G/B/F/A/ E/G/ G/ DF/F/AEGB/B/Ace3/2
+	d/A/ B/d/ d/ cB/Hc4|] 
+%
+
+X:2
+%abctab2ps format
+%
+%%titlefont Times-Roman 18
+T:Die Katzenpfote
+T:Contratenores
+C:Glogauer Liederbuch, Number 13
+Z:ABC transcription by Leonard Williams, arckon@dejazzd.com
+M:C|
+L:1/1
+N:Original clef, C on third line
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+K:C
+%%titlespace .50 in
+%%topspace .50 in
+%%pageheight 11 in
+%%staffwidth 6.5 in
+%%leftmargin .88 in
+%%indent .50 in
+%%scale 0.6
+%%systemsep 1.0 in
+%
+z2C2FEC2G2F2ECD2C2 HG2z2D2FEC2DB,A,2G,4CG,/A,B,/CE/F/ G E/F/D/E/
+	C/A,B,/C D/E/E/F/ G E/C/ DC2z2FGA>FF G/E/C/A,/ B,A,z G,/A,/B,/C/
+	C A,/B,/C/D/ DD/E/F/G/ G A/F/G/E/ E/F/ D/E/ C/D/
+	D/B,/ B, G, C/A,/B,/C/ D E/C/D/E/F G/D/ F/C/ E/B,/D/A,/ CG,B,
+	DA,CEDFAcF/A/ G F/E/D HC4|]
+%
+
+X:3
+%abctab2ps format
+%
+%%titlefont Times-Roman 18
+T:Die Katzenpfote
+T:Tenores
+C:Glogauer Liederbuch, Number 13
+Z:ABC transcription by Leonard Williams, arckon@dejazzd.com
+M:C|
+L:1/1
+N:Original clef, C on fourth line
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -24
+K:C bass
+c2c2fgc2zef3/2 e//d//c2g2c/d/e/f/ Hg2g4dgc2g2d2e3/4c// e3/4f// g e/c/
+	c/ e d/g cc/f/ e a/d/g/c/a/dg/cg/c/c/d/ g c'/a/g
+	c d/e/fczc'c'fd/gcf/ezf e/f/g/c/c/z/ d/g/f/d/ fg/c/ d/g/ g/b/ c'/f/
+	e/ a d/ g/c/ fdz/g/ g/e/ c/d/g/c/ g e/a/ g/c/f e/g/ d/a/ e/g/
+	d/f/ ce g/d/d/a/ fac'fdgcz/f/g d/c/ gHc4]

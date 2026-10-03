@@ -1,0 +1,19 @@
+X:304
+T:Beata Dei Genitrix
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 4 clef=bass name="Guyao" sname="Gu."
+%%MIDI program 1 43
+%%staves [ 4 ]
+%-----------
+Z14 !segno!|| [M:3/2] Z11 | !fermata!z3 !fine!|] \
+[M:2/2] A,,>A,,| D,D,| C,A,,| E,2 | A,,E,| A,F,-|F,G,|C,2-| C,F,|E,2|F,2|E,2-|E,2| \
+A,E,|G,/ G,,/ B,,| D,/A,,/ C,| E,/> F,/ G,/A,/ | E,/A,,/ E, | A,,2-|A,,2| D,>A,, | C,A,, | \
+G,,/ G,/> F,/E,//D,// | C,D,| A,,A,,| \
+E,2|A,,/ A, E,/-|E,/F,C,/-|C,/D,A,,/-|A,,/ A,,/E,/E,/| A,,A,- | A,A,| E,E, | A,,>B,,| \
+C,G,,|D,2| A,,/G,,/A,,/B,,/ | C,/D,/E,/F,/| G,/A,/ G, | \
+C,/CG,/-|G,/A,E,/-|E,/F,C,/-|C,/D,A,,/-|A,,/ A,,/ E,/ E,/ | A,,A,|A,A,|E,E,|A,,/B,,/C,/D,/ | \
+E,C,|D,D,|E,>E,|A,,/D,^C,/|D,A,,|D,2|A,,2-|A,,2 !segno! |] \
+%-----------

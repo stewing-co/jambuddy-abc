@@ -1,0 +1,49 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch  CG chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.59 (st00043) orig. C,G-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+ef | "C"g2c'2 e2a2 | g2ee e2g2 | "G7"f2dd d2g2 | "C"e2cc c2ef | g2c'2 e2a2 | 
+g2ee e2g2 | "Dm"f2fe "G7"f2b2 | "C"c'2c'2c'4 || [K:G] "D7"d2dd d2c'2 | "G"b2a2g4 | "D7"f2e2c4 | "G"e2d2B4 | 
+"D7"d2dd d2c'2 | "G"b2a2g4 | "D7"f2e2 fff2 | "G"g2g2 g2e"_> Teil A"=f |: [K:C] "C"e'3b c'2g2 | 
+ggg2 e2c'2 | "G7"b2d'2 f2b2 | "C"c'egc' e'4 | e'3b c'2g2 | g2gg e2c'2 | "G7"b2d'2 g3b | "C"c'2c'2 c'2z2 :| 
+
+X:2
+T: Schottisch  CG chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+ef || [P:A] "C"g2c'2 e2a2 | g2ee e2g2 | "G7"f2dd d2g2 | "C"e2cc c2ef | g2c'2 e2a2 | 
+g2ee e2g2 | "Dm"f2fe "G7"f2b2 | "C"c'2c'2c'4 || [P:B] [K:G] "D7"d2dd d2c'2 | "G"b2a2g4 | "D7"f2e2c4 | "G"e2d2B4 | 
+"D7"d2dd d2c'2 | "G"b2a2g4 | "D7"f2e2 fff2 | "G"g2g2 g2e"_> Teil A"=f |]  [P:C] |: [K:C] "C"e'3b c'2g2 | 
+ggg2 e2c'2 | "G7"b2d'2 f2b2 | "C"c'egc' e'4 | e'3b c'2g2 | g2gg e2c'2 | "G7"b2d'2 g3b | "C"c'2c'2 c'2z2 :| 
+
+X:3
+T:Schottisch  FC 7- chords
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+AB | "F"c2f2 A2d2 | c2AA A2c2 | "C7"B2GG G2c2 | "F"A2FF F2AB | c2f2 A2d2 | 
+c2AA A2c2 | "Gm"B2BA "C7"B2e2 | "F"f2f2f4 || [K:Cmaj] "G7"G2GG G2f2 | "C"e2d2c4 | "G7"B2A2F4 | "C"A2G2E4 | 
+"G7"G2GG G2f2 | "C"e2d2c4 | "G7"B2A2 BBB2 | "C"c2c2 c2A"_> Teil A"_B |: [K:Fmaj] "F"a3e f2c2 | 
+ccc2 A2f2 | "C7"e2g2 B2e2 | "F"fAcf a4 | a3e f2c2 | c2cc A2f2 | "C7"e2g2 c3e | "F"f2f2 f2z2 :| 
+
+X:4
+T:Schottisch  FC 7- chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+AB || [P:A] "F"c2f2 A2d2 | c2AA A2c2 | "C7"B2GG G2c2 | "F"A2FF F2AB | c2f2 A2d2 | 
+c2AA A2c2 | "Gm"B2BA "C7"B2e2 | "F"f2f2f4 || [P:B] [K:Cmaj] "G7"G2GG G2f2 | "C"e2d2c4 | "G7"B2A2F4 | "C"A2G2E4 | 
+"G7"G2GG G2f2 | "C"e2d2c4 | "G7"B2A2 BBB2 | "C"c2c2 c2A"_> Teil A"_B |] [P:C] |: [K:Fmaj] "F"a3e f2c2 | 
+ccc2 A2f2 | "C7"e2g2 B2e2 | "F"fAcf a4 | a3e f2c2 | c2cc A2f2 | "C7"e2g2 c3e | "F"f2f2 f2z2 :| 
+
+
+

@@ -1,0 +1,37 @@
+X:208
+T:Allegro
+C:Joao de Sousa Carvalho (1745-1798)
+M:C
+L:1/4
+K:F
+V: 8 clef=alto name="Alto solo" sname="A."
+%%MIDI program 1 1
+%%staves [[ 8 ]]
+%------
+[Q:"Allegro"] Z2 | z2c2| c>AA>^F|"^NB: # missing in ms score" ^FzzD| d>BB>G|G\
+w: Quem ad--mo--dum spe-ra--vi--mus
+zzG|c>AB>G|^FzGz|A"_NB: no rests in the ms"x3| Z2 | \
+w: spe-ra--vi--mus in te
+z2B2 | B>GG>E|EzzC|c>AA>F|FzzF| B>GA>F| EzFz|Gzz2| Z3 | \
+w: Quem ad--mo--dum spe-ra--vi--mus spe-ra--vi--mus in te
+B4 | F2>^F2| G>^FG>F| G4|=F2>F2| =E2(DG)| {F}_E>EEz| z4 | \
+w: Fi-at mi-se--ri--cor-di-a tu--a Do-mi-ne
+c>G_A2|(Gc)=Bd/F/ | _Ezz2| z4 |  \
+w: su--per su--per--~ nos
+z2 c>B | {B}AAzz/F/| B>B B/G/ G/=E/ | F/> F/ F z \
+w: Fi-at fi-at que-mad-mo-dum-~ spe-ra-vi--mus
+z/F/ | B> B B/G/ G/E/ | Fzzz/F/ | F/> F/ Fz2| \
+w: spe-ra--vi--mus--te spe-ra-vi-mus
+{B}A>AAz/F/ | B2-(6:4 B/d/c/B/A/G/ | F2-F/c//B// A//G//F//_E// | D (3B/A/B/ (3G/B/G/ (3=E/G/E/ | F (3c/=B/c/ (3A/c/A/ (3^F/A/F/ | (3G/B/G/ (3B/d/c/ (3d/c/B/ (3A/B/ G/ | F2 PG2 | F \
+w: Do-mi-ne spe-ra----------------------------------------------vi-mus in-te
+zzz/G/ | AFB>G | {G}F/> F/ F zz/F/ | A>Fc>G | c4- | c4- | c4- | c/> {B/}A/ !fermata!F \
+w: quem ad mo-du spe-ra-vi-mus spe-ra-vi-mus spe-ra----vi-mus
+(A/F/A/c/) | c2 (B/G/B/d/) | E2 F/C/ D/B/ | C2 PG2 | Fzz2 | \
+w: spe-----------ra-vi--mus in te
+B2 G>E | c2A>F | d>B G>B | A zz\
+w: mi-se-ri-cor-di-a tu-a su-per nos
+B/> G/ | c/A/ F z B/> G/ | c/> A/ F z z/G/ | A/> A/ A z2 | z2z \
+w: fi-at fi--at(?) fi-at Do-mi-ne que-mad-mo-dum
+F | F>F!fermata!F>F | Fzz2 | Z9 |]
+w: spe-ra-vi-mus in te.
+%------

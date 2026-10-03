@@ -1,0 +1,60 @@
+I:abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Schottisch FCBb chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.344 (st11385) orig. F,C,Bb-Dur
+T: Tänze aus Altdorf (Uri)
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c/d/ |: "F"ca fc | d>c AF | "C7"EG Bc | +>+e2 ec/d/ | cb ec | d>c BE | "F"F>A cA | 
++>+f2 fc/d/ | ca fc | d>c A>F | "C7"EG Bc | +>+e2 ec/d/ | cb ec | cb ec | d>c BE | "F".F2 "C7"c>e |1 
+"F"ff fc/d/ :|2 "F"ff fe/e/ |: [K:C] "C"eG cc' | g3g/g/ | ge/g/ a>c | "G7"B/g/f/g/ bf/f/ | fG Ba | 
+g3g/g/ | ga/g/ fg/B/ | "C"c/e/G/c/ E/G/C | eG cc' | g3g/g/ | ge/g/ a>c | "G7"B/g/f/g/ bf/f/ | 
+fG Ba | g3g/g/ | ga/g/ fg/B/ | "C"cc/c/ c"_> Teil A"z :: [K:Bb] "Bb"f/f/f fd | Bc/B/ AB | 
+d/d/d dB | FG/F/ =EF | "F7"A/A/A AG | E2 DE | "Bb"G/G/G GF | DF Bd | f/f/f fd | 
+Bc/B/ AB | d/d/d dB | F3F | "Eb"G>A BA/G/ | "Bb"FB df/f/ | "F7"fg/f/ =e/f/g/a/ | "Bb"bb/b/ bz :| 
+
+X: 2
+T: Schottisch FCBb chords Parts
+P:ABAC
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c/d/ [P:A] |: "F"ca fc | d>c AF | "C7"EG Bc | +>+e2 ec/d/ | cb ec | d>c BE | "F"F>A cA | 
++>+f2 fc/d/ | ca fc | d>c A>F | "C7"EG Bc | +>+e2 ec/d/ | cb ec | cb ec | d>c BE | "F".F2 "C7"c>e |1 
+"F"ff fc/d/ :|2 "F"ff fe/e/ [P:B] |: [K:C] "C"eG cc' | g3g/g/ | ge/g/ a>c | "G7"B/g/f/g/ bf/f/ | fG Ba | 
+g3g/g/ | ga/g/ fg/B/ | "C"c/e/G/c/ E/G/C | eG cc' | g3g/g/ | ge/g/ a>c | "G7"B/g/f/g/ bf/f/ | 
+fG Ba | g3g/g/ | ga/g/ fg/B/ | "C"cc/c/ c"_> Teil A"z :: [P:C] [K:Bb] "Bb"f/f/f fd | Bc/B/ AB | 
+d/d/d dB | FG/F/ =EF | "F7"A/A/A AG | E2 DE | "Bb"G/G/G GF | DF Bd | f/f/f fd | 
+Bc/B/ AB | d/d/d dB | F3F | "Eb"G>A BA/G/ | "Bb"FB df/f/ | "F7"fg/f/ =e/f/g/a/ | "Bb"bb/b/ bz :| 
+
+X:3
+T:Schottisch CGF 5- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G/2A/2 |: "C"Ge cG | A>G EC | "G7"B,D FG | !>!B2 BG/2A/2 | Gf BG | A>G FB, | "C"C>E GE | 
+!>!c2 cG/2A/2 | Ge cG | A>G E>C | "G7"B,D FG | !>!B2 BG/2A/2 | Gf BG | Gf BG | A>G FB, | "C".C2 "G7"G>B |1 
+"C"cc cG/2A/2 :|2 "C"cc cB/2B/2 |: [K:Gmaj] "G"BD Gg | d3d/2d/2 | dB/2d/2 e>G | "D7"F/2d/2c/2d/2 fc/2c/2 | cD Fe | 
+d3d/2d/2 | de/2d/2 cd/2F/2 | "G"G/2B/2D/2G/2 B,/2D/2G, | BD Gg | d3d/2d/2 | dB/2d/2 e>G | "D7"F/2d/2c/2d/2 fc/2c/2 | 
+cD Fe | d3d/2d/2 | de/2d/2 cd/2F/2 | "G"GG/2G/2 G"_> Teil A"z :: [K:Fmaj] "F"c/2c/2c cA | FG/2F/2 EF | 
+A/2A/2A AF | CD/2C/2 =B,C | "C7"E/2E/2E ED | B,2 A,B, | "F"D/2D/2D DC | A,C FA | c/2c/2c cA | 
+FG/2F/2 EF | A/2A/2A AF | C3C | "Bb"D>E FE/2D/2 | "F"CF Ac/2c/2 | "C7"cd/2c/2 =B/2c/2d/2e/2 | "F"ff/2f/2 fz :| 
+
+X:4
+T:Schottisch CGF 5- chords Parts
+P:ABAC
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G/2A/2 [P:A] |: "C"Ge cG | A>G EC | "G7"B,D FG | !>!B2 BG/2A/2 | Gf BG | A>G FB, | "C"C>E GE | 
+!>!c2 cG/2A/2 | Ge cG | A>G E>C | "G7"B,D FG | !>!B2 BG/2A/2 | Gf BG | Gf BG | A>G FB, | "C".C2 "G7"G>B |1 
+"C"cc cG/2A/2 :|2 "C"cc cB/2B/2 [P:B] |: [K:Gmaj] "G"BD Gg | d3d/2d/2 | dB/2d/2 e>G | "D7"F/2d/2c/2d/2 fc/2c/2 | cD Fe | 
+d3d/2d/2 | de/2d/2 cd/2F/2 | "G"G/2B/2D/2G/2 B,/2D/2G, | BD Gg | d3d/2d/2 | dB/2d/2 e>G | "D7"F/2d/2c/2d/2 fc/2c/2 | 
+cD Fe | d3d/2d/2 | de/2d/2 cd/2F/2 | "G"GG/2G/2 G"_> Teil A"z :: [P:C] [K:Fmaj] "F"c/2c/2c cA | FG/2F/2 EF | 
+A/2A/2A AF | CD/2C/2 =B,C | "C7"E/2E/2E ED | B,2 A,B, | "F"D/2D/2D DC | A,C FA | c/2c/2c cA | 
+FG/2F/2 EF | A/2A/2A AF | C3C | "Bb"D>E FE/2D/2 | "F"CF Ac/2c/2 | "C7"cd/2c/2 =B/2c/2d/2e/2 | "F"ff/2f/2 fz :| 
+
+

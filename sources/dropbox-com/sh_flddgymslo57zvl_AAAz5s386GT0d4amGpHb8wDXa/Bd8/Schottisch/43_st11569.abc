@@ -1,0 +1,30 @@
+I:abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X: 1
+T: Schottisch FBb chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.392 (st11569) orig. F,Bb-Dur
+T: Tänze aus Altdorf (Uri)
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+cc |: "F"c2Ac dcAc | "C7"c2Bc e2cc | c2Bc e2cc | "F"c2Ac f2cc | c2Ac dcAc | "C7"c2Bce4 | c2ed c2de |1 "F"f2ag f2cc :|2 
+"F"f2ag f2f2 |: [K:Bb] "Bb"bagf d3f | "F7"e2f2 a3f | e2f2 a3e | "Bb"d2f2 b3f | bagf d3f | "F7"e2f2 a3f | e2f2 a3f | "Bb"b2fd B2z2 :| 
+
+X:2
+T:Schottisch CF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+GG |: "C"G2EG AGEG | "G7"G2FG B2GG | G2FG B2GG | "C"G2EG c2GG | G2EG AGEG | "G7"G2FGB4 | G2BA G2AB |1 "C"c2ed c2GG :|2 
+"C"c2ed c2c2 |: [K:Fmaj] "F"fedc A3c | "C7"B2c2 e3c | B2c2 e3B | "F"A2c2 f3c | fedc A3c | "C7"B2c2 e3c | B2c2 e3c | "F"f2cA F2z2 :| 
+
+X:3
+T:Schottisch GC 2+ chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+dd |: "G"d2Bd edBd | "D7"d2cd f2dd | d2cd f2dd | "G"d2Bd g2dd | d2Bd edBd | "D7"d2cdf4 | d2fe d2ef |1 "G"g2ba g2dd :|2 
+"G"g2ba g2g2 |: [K:Cmaj] "C"c'bag e3g | "G7"f2g2 b3g | f2g2 b3f | "C"e2g2 c'3g | c'bag e3g | "G7"f2g2 b3g | f2g2 b3g | "C"c'2ge c2z2 :| 
+

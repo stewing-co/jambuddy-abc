@@ -1,0 +1,19 @@
+X:1310
+T:N.13 Solo e coro
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:C
+V: 10 clef=treble name="Josepha" sname="Jos."
+%%MIDI program 1 1
+%%staves [[ 10 ]]
+%---------
+[Q:"Allegretto"] Z6 !segno! || \
+Z8 || Z7 || Z5 |: [Q: "1.o tempo"] G A G B A G | G c2-c3 | B A G F E D | (E/2F/2G2-)G3 | \
+w: 3.~Eu mor-ro-me de ven-tu-ra_ | an-te tal sa-tis-fa-\cc\~ao___ |
+w: 4.~Bem sa-beis que'o pen-sa-men-to_ | es-ta-r\'a ao p\'e de v\'os___
+G  A  G   B    A    G | G c2-c3  | B    A  G   A  G  ^F | G3-Gzz || \
+w: Ao en-con-trar meus a-v\'o-\'os_ n'es-ta lin-da po-voa-\cc\~ao_
+w: Em-bo-ra fi-que n'al-dei-a_ em ca-sa dos seus a-v\'os_
+Z8 :| \
+%----------------

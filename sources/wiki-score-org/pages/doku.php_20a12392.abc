@@ -1,0 +1,17 @@
+X:3711
+T:Scena ultima [Aria Demetrio]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:A
+V: 11 clef=treble name="Violini I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 11 }]
+%---------------
+c4- | c4 || \
+[Q:"Allegro"] [Dd]2 f/>d/ =g/>e/ | a3/2(d'//b//) a > a | "_[check ms]" (=g/b/a/b/) (a/b/c'/d'/) | \
+{a/}b a2 {b}a/g//f// | e/=g/f/a/ {a}=g f/e/ | d//d//e//f// =g//a//b//c'//  d'/d'/c'/b/ | \
+^a zz2 | z b !fermata! B, z | \
+[Q:"Adagio"] G/B/G/B/  !/! [AB]2 | GGGG | A2 G z | Z | B,3 C | G,(BG)z | z2 z/ > d'/ d' | \
+z2 z/ > a/e/>c/ | A zz2 | z2 z//d//e//f// =g//a//b//c'// | =d' z z/ > [B^g]/ [Bg]  | Z | z [B^g] [ca] "_Rondo" z ||
+%---------------

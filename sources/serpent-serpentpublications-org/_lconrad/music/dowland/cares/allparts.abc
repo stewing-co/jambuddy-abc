@@ -1,0 +1,132 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:IX. Goe nightly cares,
+T:Cantus.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+K:G dor
+B c d3 c c2 d2 A2 z2 d2 d3 A B c d3 c c2 d2 A2 z2 d e f F > G A2 G A/ B/ c B A B/ G/ d d > e f F G A B c d/ e/ f/ g/ a > a g/ f/ d/ e/ f/ d/ e/ c/
+w:Goe nightly cares
+d d "(2)"d3 ^c/ B/ ^c2 "A"d2 z2 d2 d e f g a > g f/ e/ d z/ d/ c/ A/ B3 A G2 z g f > e d e/ f/ g/ G/ c B c/ B/ A B c > c d3 c d/ e/ f/ e/ d a f > f c > c d/ e/ f/
+N:(2) Original is half note
+"(3)" e/ d a f > f g a d > d e > e ^f g a d d4
+N:(3) Original is missing this note
+M:3/2
+L:1/4
+G d > e f/ d/ e ^f g3 f/ e/ d c B A B/ c/ d > c A B G A2 B2 A3 B A > A G > A B/ c/ d > c A G4 z A
+B > A G A B A z d > e f B d > c B/ A/ B > c d4 d2 d2 d3 c2 A =B6
+M:C 
+L:1/4
+N:(1) The meter is written C 3.  My first guess is that the three is an error.
+"(1)"B > A G c z/ B c A/ d/ c/ B2 A2 "(4)" z d f g a/ g/ ^f/ g/ d "(5)" z2 z g ^f d z d g > g
+%N:(4) Quarter rest removed before this note.
+f > _e d2 d3 c d2 G G d2 z A B d z d B G z d > e ^f2 z ^f g G z c d > d G/ g f/ _e d c/ B/ G > A B G/ g f// e// d c g > d _e/ d/ c2 c =B A H=B4 |]
+
+X:2
+T:IX. Goe nightly cares,
+T:Altus.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+K:G dor
+z8 | z2 D2 c2 B2  | A4 z4 | 
+w:Goe night- ly cares, 
+w:False world fare- well
+z4 z2 D2 c2 B2 A3 F | E E D2 G4 | ^F2 z2 z4 | 
+w:Goe night- ly cares, the e- nem- y to rest,
+w:False world fare- well, the e- nem- y to rest,
+z d2 c2 B A/ A/ c2 B A D | E3 E D2
+w:For- beare, for- beare a while to vexe my griev- ed sprite,
+w:Now do, now do thy worst, I doe not weigh thy spight:
+z2 | z2 D2 D E F G A2 z2 | G2 G A B c d2 - | d3 c B A G > G | F4
+w:So long, so long your weight, so long, so long, your weight * hath lyne u- pon my brest,
+w:Free from, free from thy cares, free from, free from thy cares, I live * for  e- ver blest,
+z4 | z D F C D2 z2 | z D F C D D G F | B2 G c2 B A > A G4 |
+w:That loe I live, that loe I live, that loe I live of life be- reav- ed quite,
+w:En- joy- ing peace,  En- joy- ing peace, En- joy- ing peace, and heaven- ly true de- light.
+M:3/2
+L:1/4
+z6 | z6 | z D2 D2 D | "(1)"D12 | z2 z2 z D | D2 D D2 D D4 z2 
+N:(1) drawn as a breve in original
+w:O give me time to draw my wear- y breath, 
+w:De- light, whom woes nor sor- rowes shall a- mate
+D2 D2 D2 | D4 z D | F4 G2 | B3 G A2 | G6 |
+w:Or let me dye, as I de- sire * the death.
+w:nor feares or teares dis- turbe her hap- * py state.
+M:C
+L:1/4
+z8 | z D2 ^C F2 D2 | z2 z G2 ^F B G | z8 | z G2 ^F B G z2 |
+w:Wel- come sweete death, Wel- come sweete death, wel- come sweete death
+w:And thus I leave, And thus I leave, And thus I leave
+z2 z A F2 z F  - | F D z d B2 z d | A2 z z/ B/ G2 z2 | z G2 z G2 z G | z G > G G G G > F _E | D16 |]
+w:sweet death wel- * come, Oh life, no life, A hell, Then thus, and thus I bid the world fare- * well.
+w: And thus I * leave  thy hopes, thy joyes un- true, and thus, and thus vaine world a- gaine a- * due.
+
+X:3
+T:IX. Goe nightly cares,
+T:Bassus.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -24
+K:G min bass
+N:The bassus is written with 2 flats, where the other parts have one.
+G4 f2  e2 d3 c/ B/ A2 G2 d4 G2 z G f2 e2
+w:Goe night- ly cares
+d3 c/ B/ A2 G2 d3 d ^c2 d2 G4 z2 z d e4 d > e
+f F G/ A/ B/ c/ d A B G d c/ B/ A3 G ^F G > G
+F G A B c d4 z4 z2 G2 G A B c d > c B A G A B c
+F B > B A B2 F2 z B > B A B2 F2 z4 B > A G d B G c > c
+d4 G4
+M:3/2
+N:Original has incomplete circle with dot, and also the number 2.
+L:1/4
+g2 b2 a2 g2 d2 ^f2 g2 G2 d2 z g d f B > c
+d > e f B d2 G4 d > c B > A G3 ^F G4 d2 z g
+^f d g G B4 z G d3 c B A G > A B c A d G6
+M:C
+L:1/4
+g2 b a2 g > g ^f g2 a2 d > c B/ A/ A c d G B A2 G2
+d > e f d e2 f2 B > c d2 G c > c =B c e
+d2 z d B2 z B G2 z G ^F D z D G2 z ^c2  =B
+e > d c =B c e2 B c G =B  c > c =B c2 G16 |]

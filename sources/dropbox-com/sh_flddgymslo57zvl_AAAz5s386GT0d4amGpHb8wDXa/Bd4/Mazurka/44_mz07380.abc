@@ -1,0 +1,43 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka CF (mz07380)  ABACD
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.309 (mz07380) orig. CF
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACD
+R:Mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+[P:A] ("G7"[G/g/]B/)z !>!a2 g>f | ("C"^d/e/)z!>!c'2 b>a | ("G7"g/b/)z (f/a/)z !>!B>f | ("C"e/g/)z (c/e/)z "G7"[Gg]>[Gg] | ([G/g/]B/)z !>!a2 g>f | ("C"^d/e/)z!>!c'2 b>a | 
+"G7"a/g/z B>d a>g | "C".c2c'2z2 :| [P:B] "Am"e>^d e>fe2 | e>^d e>fe2 | a>bc'2b>a | "E7"b>^a b>^g e2 | "Am"e>^d e>fe2 | 
+e>^d e>fe2 | a>bc'2b>a | "E7".e'2!>!e2"_>Teil A"z2 || [K:F] A>B [P:C] |: ("F"=Bc a).a .a.a | ("Gm"ag) ^f>a g2 | ("C7"AB g).g .g.g | 
+"F"gf e>gf2 | (=Bc c').c' "F7".c'.c' | "Bb"c'b ^f>ag2 | ("C7"ag) (dc) a>g |1 "F".f2!>!f2 A>B :|2 "F".f2!>!f2z2 || [P:D] "Dm"f>e d>^c d>f | 
+"A7"e>^d e>^ca2 | "Dm"f>e d>^c d>f | "A7".a2!>!a4 | "F"a>g f>e f>a | "C7"g>^f g>e c>c' | "F"a>g f>a "C7"g>c' |  "F".f2!>!f2z2 |] 
+%% mz07380
+% July 18, 2017
+
+X:2
+T:Mazurka GC 5- (mz07380)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.309 (mz07380) orig. CF
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%P:ABACD
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+("D7"[D/2d/2]F/2)z !>!e2 d>c | ("G"^A/2B/2)z!>!g2 f>e | ("D7"d/2f/2)z (c/2e/2)z !>!F>c | ("G"B/2d/2)z (G/2B/2)z "D7"[Dd]>[Dd] | ([D/2d/2]F/2)z !>!e2 d>c | ("G"^A/2B/2)z!>!g2 f>e | 
+"D7"e/2d/2z F>A e>d | "G".G2g2z2 :| "Em"B>^A B>cB2 | B>^A B>cB2 | e>fg2f>e | "B7"f>^e f>^d B2 | "Em"B>^A B>cB2 | 
+B>^A B>cB2 | e>fg2f>e | "B7".b2!>!B2"_>Teil A"z2 || [K:C] E>F |: ("C"^FG e).e .e.e | ("Dm"ed) ^c>e d2 | ("G7"EF d).d .d.d | 
+"C"dc B>dc2 | (^FG g).g "C7".g.g | "F"gf ^c>ed2 | ("G7"ed) (AG) e>d |1 "C".c2!>!c2 E>F :|2 "C".c2!>!c2z2 || "Am"c>B A>^G A>c | 
+"E7"B>^A B>^Ge2 | "Am"c>B A>^G A>c | "E7".e2!>!e4 | "C"e>d c>B c>e | "G7"d>^c d>B G>g | "C"e>d c>e "G7"d>g | "C".c2!>!c2"_Fine"z2 |] 
+W:Parts: ABACD
+%% mz07380
+% July 18, 2017

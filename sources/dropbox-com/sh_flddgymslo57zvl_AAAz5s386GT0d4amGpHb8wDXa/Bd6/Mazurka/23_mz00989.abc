@@ -1,0 +1,61 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Mazurka  vom 'Birchi'  CF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.261 (mz00989) orig. C,F-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"g>g a2e2 | "G7"g2f>ef2 | G>G B2A2 | "C"G>G c2E2 | g>g a2e2 | "G"g2 f>ef2 | "D7"d>d b2a2 | "G"g2g2z2 ::
+"C"G2E3 c | "G7"B2D3E | F>E F2B2 | "C"ce Gc BA | G2E3c | "G7"B2D3E | F>E FG AB | "C"c2c2"_Fine"z2 :| [K:F]
+"F"c>c c2d2 | c>f A4 | ccc2d2 | c>fA4 | "C7"c>B G2G2 | "F"B>A F2F2 | "C7"A>G D2G2 | "F"f>e c4 | 
+c>cc2d2 | c>fA4 | A>A B2A2 | "Bb"G>FD4 | G>G F2D2 | "F"C>F A3B | "C7"A>G A>G A>G | "F"F2F2"_d.C.?"z2 |] 
+W:
+W: Anmerkung H.C.: Theodor Franzen 'Birchi Fiesch, August 1951
+X:2
+T: Mazurka  vom 'Birchi'  CF (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"g>g a2e2 | "G7"g2f>ef2 | G>G B2A2 | "C"G>G c2E2 | g>g a2e2 | "G"g2 f>ef2 | "D7"d>d b2a2 | "G"g2g2z2 ::
+"C"G2E3 c | "G7"B2D3E | F>E F2B2 | "C"ce Gc BA | G2E3c | "G7"B2D3E | F>E FG AB | "C"c2c2"_Fine"z2 :| [K:F]
+"F"c>c c2d2 | c>f A4 | ccc2d2 | c>fA4 | "C7"c>B G2G2 | "F"B>A F2F2 | "C7"A>G D2G2 | "F"f>e c4 | 
+c>cc2d2 | c>fA4 | A>A B2A2 | "Bb"G>FD4 | G>G F2D2 | "F"C>F A3B | "C7"A>G A>G A>G | "F"F2F2"_d.C.?"z2 |] 
+% mz00989
+X:3
+T:Mazurka  vom 'Birchi' D&G (tinwhistle in D)
+T:mz00989 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"a>a b2f2 | "A7"a2g>fg2 | A>A c2B2 | "D"A>A d2F2 | a>a b2f2 | "A"a2 g>fg2 | "E7"e>e c'2b2 | "A"a2a2z2 ::
+"D"A2F3 d | "A7"c2E3F | G>F G2c2 | "D"df Ad cB | A2F3d | "A7"c2E3F | G>F GA Bc | "D"d2d2"_Fine"z2 :| [K:G]
+"G"d>d d2e2 | d>g B4 | ddd2e2 | d>gB4 | "D7"d>c A2A2 | "G"c>B G2G2 | "D7"B>A E2A2 | "G"g>f d4 | 
+d>dd2e2 | d>gB4 | B>B c2B2 | "C"A>GE4 | A>A G2E2 | "G"D>G B3c | "D7"B>A B>A B>A | "G"G2G2"_d.C.?"z2 |] 
+X:4
+T:Mazurka  vom 'Birchi' D&G (tinwhistle in D) solo
+T:mz00989 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+a>a b2f2 | a2g>fg2 | A>A c2B2 | A>A d2F2 | a>a b2f2 | a2 g>fg2 | e>e c'2b2 | a2a2z2 ::
+A2F3 d | c2E3F | G>F G2c2 | df Ad cB | A2F3d | c2E3F | G>F GA Bc | d2d2"_Fine"z2 :| [K:G]
+d>d d2e2 | d>g B4 | ddd2e2 | d>gB4 | d>"_c"c A2A2 | "_c"c>B G2G2 | B>A E2A2 | g>f d4 | 
+d>dd2e2 | d>gB4 | B>B "_c"c2B2 | A>GE4 | A>A G2E2 | D>G B3"_c"c | B>A B>A B>A | G2G2"_d.C.?"z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 7, 2016
+

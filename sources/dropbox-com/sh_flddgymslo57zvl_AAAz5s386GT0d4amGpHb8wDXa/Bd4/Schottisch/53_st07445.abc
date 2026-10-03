@@ -1,0 +1,48 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Neu-Märkter-Schottisch. FCBb (st07445)  ABACA
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.344 (st07445) orig. F,C.Bb
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACA
+O:Switzerland
+R:Schottisch
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+[P:A] !>!{/c}"F"c'2af c2A2 | {/B}"Bb"d2d2 d2B2 | {/B}"C7"e2e2 "Bb"d2d2 | {/A}"F"c2c2 c2A2 | !>!{/c}c'2af c2A2 | {/B}"Bb"d2d2 d2B2 | {/B}"C7"e2e2 .d2(dE) | 
+"F"F2A2 F2"_>Fine"z2 |] [P:B] [K:C] "C".e.d.e.f .g.e.c.G | "G7".B.d.f.b "Dm/F".a2.a2 | "G7".g.^f.g.a .b.a.=f.d | "C".c.e.g.c' e'2e'2 | .e.d.e.f .g.e.c.G | 
+"G7".B.d.f.b "Dm/F".a2.a2 | "G7".g.^f.g.a .b.a.=f.d | "C"c2e2 c2"_>Teil A"z2 |] [P:C] [K:Bb] [L:1/8] "Bb"Tf3(=e/f/) | ("F7"g/f/).A .A.A | "Cm"Tg3("F7"^f/g/) | 
+("Bb"a/g/).B .B.B | b3(a/b/) | ("Cm"c'/b/).c cc | "F7"a/g/.A AA | ("Bb"g/f/).B BB | f3(=e/f/) | ("F7"g/f/).A AA | "Cm"Tg3("F7"^f/g/) | 
+("Bb"a/g/).B .B.B | Tb3(a/b/) | ("Cm"c'/b/).c cc |  ("F7"a/g/)c (a/g/)A | "Bb"Bd Bz || "F7"{/d}eA a/a/a/a/ | "Bb"{/e}fd d'/d'/d'/d'/ | 
+"Cm"{=b}c'c {^f}gc | "Bb"{/a}bd {/=e}fd | "F7"{/d}eA a/a/a/a/ | "Bb"{/=e}fd d'/d'/d'/d'/ | "Cm"{=b}c'c "F7"{^f}gA | "Bb"Bd B"_>Teil A"z |] 
+W:
+W:Neu-Märkter-Schottisch, nach Faust
+%% st07445 (C) Mülirad-Verlag 2007
+% Sep 8, 2017
+
+X:2
+T:Neu-Märkter-Schottisch. CGF 5- (st07445) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.344 (st07445) orig. F,C.Bb
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+!>!{/G}"C"g2ec G2E2 | {/F}"F"A2A2 A2F2 | {/F}"G7"B2B2 "F"A2A2 | {/E}"C"G2G2 G2E2 | !>!{/G}g2ec G2E2 | {/F}"F"A2A2 A2F2 | {/F}"G7"B2B2 .A2(AB,) | 
+"C"C2E2 C2"_Fine"z2 |] [K:Gmaj] "G".B.A.B.c .d.B.G.D | "D7".F.A.c.f "Am/C".e2.e2 | "D7".d.^c.d.e .f.e.=c.A | "G".G.B.d.g b2b2 | .B.A.B.c .d.B.G.D | 
+"D7".F.A.c.f "Am/C".e2.e2 | "D7".d.^c.d.e .f.e.=c.A | "G"G2B2 G2"_>Teil A"z2 |] [K:Fmaj] [L:1/8] "F"Tc3(=B/2c/2) | ("C7"d/2c/2).E .E.E | "Gm"Td3("C7"^c/2d/2) | 
+("F"e/2d/2).F .F.F | f3(e/2f/2) | ("Gm"g/2f/2).G GG | "C7"e/2d/2.E EE | ("F"d/2c/2).F FF | c3(=B/2c/2) | ("C7"d/2c/2).E EE | "Gm"Td3("C7"^c/2d/2) | 
+("F"e/2d/2).F .F.F | Tf3(e/2f/2) | ("Gm"g/2f/2).G GG | ("C7"e/2d/2)G (e/2d/2)E | "F"FA Fz |] "C7"{/A}BE e/2e/2e/2e/2 | "F"{/B}cA a/2a/2a/2a/2 | 
+"Gm"{^f}gG {^c}dG | "F"{/e}fA {/=B}cA | "C7"{/A}BE e/2e/2e/2e/2 | "F"{/=B}cA a/2a/2a/2a/2 | "Gm"{^f}gG "C7"{^c}dE | "F"FA F"_>Teil A"z |] 
+W:Parts: ABACDA
+%W:Neu-Märkter-Schottisch, nach Faust
+%% st07445 (C) Mülirad-Verlag 2007
+% Sep 8, 2017

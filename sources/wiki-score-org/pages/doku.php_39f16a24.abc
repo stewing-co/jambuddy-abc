@@ -1,0 +1,22 @@
+X:1912
+T:Scena 5.a [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:Eb
+V: 12 clef=treble name="Violini II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 12 }]
+%---------------------------------------------
+[Q:"Allegro"] E>B, E/B,/E/G/ | E/B,/E/G/ E/B,/E/G/ | \
+A/B//c// d//e//f//g// !fermata!az | F>B, F/B,/F/A/ | \
+F/B,/F/A/ F/B,/F/A/ | B/c//d// e//f//g//a// !fermata! bz | \
+z2zG | F(=EFG) | (F=EF)z | z2zF | E(DEF) | (EDE)z |\
+!//!=a4 | bz F/z/ E/z/ | Dz/>G/ F/z/ E/z/ | \
+D !//!F !//!E !//!D | [G,E]2z2 | Z | F/B,/F/A/ F/B,/F/B/ | A/B//c// d//e//f//g// az | \
+z/8B,/8D/8F/8 B/8d/8f/8b/8 a/z/z2 | z2 e/8f/8g/8a/8 b/8c'/8d'/8e'/8 e/z/ || \
+z =E-E/F//G// (A//G//F//=E//) | E//D// D/ zz2 | z =E-E/F//G// (A//G//F//=E//) | Dzz2 || \
+[Q:"Presto"] "_uniss." z//c//d//=e// f//g//=a//b// c'z | z//F//G//=A// _B//c//d//=e// fz | \
+z//F//G//=A// _B//c//d//_e// fz | z//B//c//d// _e//f//g//a// bz || \
+[Q:"Adagio"] z2 z/(E/D/C/) | z/(E/D/C/) !fermata! z A | GzFz | GB,G, "^Cavatina" z ||
+%---------------------------------------------

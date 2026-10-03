@@ -1,0 +1,20 @@
+X:1914
+T:Scena 5.a [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:Eb
+V: 14 clef=bass name="[Basso]" sname="B."
+%%MIDI program 1 42
+%%staves [ 14 ]
+%---------------------------------------------
+[Q:"Allegro"] "_[fol.237]" E,>B,, E,/B,,/E,/G,/ | E,/B,,/E,/G,/  E,/B,,/E,/G,/ | !/!F,2F,!fermata!z | \
+F,>B,, F,/B,,/F,/A,/ | F,/B,,/F,/A,/ F,/B,,/F,/A,/ | !/!G,2G,!fermata!z |\
+"_[fol.238]" z2z(=E, | F,)G,_A,(_E, | F,)C,F,,z | z2zD, | (E,F,G,D,) | E,B,,E,,z | !/!_C4 | \
+B,/B,,/B,,/B,,/!/!B,,2 |\
+"_[fol.239]" !/!B,,4|(B,,D,E,B,,)|E,2z2|Z| F,/B,,/F,/A,/ F,/B,,/F,/B,/ | \
+"_[fol.240]" !/! F,2 F, z | D, z z2 | z2  !///!E, E,/z/ || [Q:"Adagio"] "^[Andantino? ;Check]"!f! !p! G,4 | \
+"_[fol.241]" G, zz2 | !f!!p! G,4 - | G, zz2 || [Q:"Presto"] C,/C/G,/=E,/ C, z | F,/F/C/=A,/ D, z | \
+"_[fol.242]" _E,/E/C/=A,/ E, z | D,/D/_B,/F,/ D, z || [Q:"Adagio"] z2 _E, z | z2 !fermata! "_Cantabile (?)" z A, | \
+"_[fol.243]" B, z B,, z | !p! _E,2-_E, "^Cavatina" z ||
+%---------------------------------------------

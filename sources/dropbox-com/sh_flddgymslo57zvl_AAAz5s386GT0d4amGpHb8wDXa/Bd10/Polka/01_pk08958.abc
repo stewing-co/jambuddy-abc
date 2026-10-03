@@ -1,0 +1,58 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Polka  GC
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.31 (pk08958) orig. G,C-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"d2d2 dgg2 | "C"e2e2 eaa2 | "D7"fgab c'2f2 | "G"g2gbd4 | d2d2 dgg2 | "C"e2e2 eaa2 | "D7"fgab c'2f2 | 
+"G"g2b2 g2z2 :: "C"gee2 egge | "G"d2b2 bdbc' | "D7"b2a2 d'3c' | "G"b2a2g4 | "C"gee2 egge | "G"d2b2 bdbc' | 
+"D7"b2a2 d'c'ba | "G"g2b2 g2z2 :: [K:C] "C"G2Gc GEGA | GCEAG4 | "G7"fdBc' b3a | "C"ageag4  | 
+G2Gc GEGA | GCEAG4 | "G7"defg b2a2 |1 "C"g2c'2 g2z2 :|2 "C"g2c'2 g2ga || "G7"g2Bc d2ga | "C"g2cd e2d'c' | 
+"G7"bagf edef | "C"a2g2 g2ga | "G7"g2Bc d2ga | "C"g2cd e2d'c' | "G7"bagf edcB | "C"c2c2 c2z2 |]  
+% pk08958
+X:2
+T: Polka  GC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"d2d2 dgg2 | "C"e2e2 eaa2 | "D7"fgab c'2f2 | "G"g2gbd4 | d2d2 dgg2 | "C"e2e2 eaa2 | "D7"fgab c'2f2 | 
+"G"g2b2 g2z2 :: "C"gee2 egge | "G"d2b2 bdbc' | "D7"b2a2 d'3c' | "G"b2a2g4 | "C"gee2 egge | "G"d2b2 bdbc' | 
+"D7"b2a2 d'c'ba | "G"g2b2 g2z2 :: [K:C] "C"G2Gc GEGA | GCEAG4 | "G7"fdBc' b3a | "C"ageag4  | 
+G2Gc GEGA | GCEAG4 | "G7"defg b2a2 |1 "C"g2c'2 g2z2 :|2 "C"g2c'2 g2ga || "G7"g2Bc d2ga | "C"g2cd e2d'c' | 
+"G7"bagf edef | "C"a2g2 g2ga | "G7"g2Bc d2ga | "C"g2cd e2d'c' | "G7"bagf edcB | "C"c2c2 c2z2 |]  
+% pk08958
+X:3
+T:Polka D&G (tinwhistle in D)
+T:pk08958 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"A2A2 Add2 | "G"B2B2 Bee2 | "A7"cdef g2c2 | "D"d2dfA4 | A2A2 Add2 | "G"B2B2 Bee2 | "A7"cdef g2c2 | 
+"D"d2f2 d2z2 :: "G"dBB2 BddB | "D"A2f2 fAfg | "A7"f2e2 a3g | "D"f2e2d4 | "G"dBB2 BddB | "D"A2f2 fAfg | 
+"A7"f2e2 agfe | "D"d2f2 d2z2 :: [K:G] "G"D2DG DB,DE | DG,B,ED4 | "D7"cAFg f3e | "G"edBed4 | 
+D2DG DB,DE | DG,B,ED4 | "D7"ABcd f2e2 |1 "G"d2g2 d2z2 :|2 "G"d2g2 d2de || "D7"d2FG A2de | "G"d2GA B2ag | 
+"D7"fedc BABc | "G"e2d2 d2de | "D7"d2FG A2de | "G"d2GA B2ag | "D7"fedc BAGF | "G"G2G2 G2z2 |] 
+X:4
+T:Polka D&G (tinwhistle in D) solo
+T:pk08958 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+A2A2 Add2 | B2B2 Bee2 | cdef g2c2 | d2dfA4 | A2A2 Add2 | B2B2 Bee2 | cdef g2c2 | 
+d2f2 d2z2 :: dBB2 BddB | A2f2 fAfg | f2e2 a3g | f2e2d4 | dBB2 BddB | A2f2 fAfg | 
+f2e2 agfe | d2f2 d2z2 :: [K:G] D2DG D"_=B,"B,DE | D"_=G,"G,"_=B,"B,ED4 | "_c"cAFg f3e | edBed4 | 
+D2DG D"_=B,"B,DE | D"_=G,"G,"_=B,"B,ED4 | AB"_c"cd f2e2 |1 d2g2 d2z2 :|2 d2g2 d2de || d2FG A2de | d2GA B2ag | 
+fed"_c"c BAB"_c"c | e2d2 d2de | d2FG A2de | d2GA B2ag | fed"_c"c BAGF | G2G2 G2z2 |]
+% July 28, 2016

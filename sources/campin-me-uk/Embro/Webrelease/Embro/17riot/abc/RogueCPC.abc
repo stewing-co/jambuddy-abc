@@ -1,0 +1,27 @@
+X:1
+T:A parcel of Rogues in the Nation
+Z:Jack Campin: "Embro, Embro", transcription (c) 2001
+F:17riot/abc/RogueCPC.abc
+S:CPC v4 page 26
+M:C
+L:1/8
+Q:1/4=80
+K:D Minor
+"^slow"
+ Ac  | d2(Tc>A)   d3 e    | fd (Tc>A) F2(GA)   |(BA)(TG>F) G2 A>c |({c}d4)    (c<A)  :|
+(f>g)|(a>c')(g>a) f3(d/f/)|TcA  TGF   c2(de)   | f2 (Ted)  g2(f>g)|({g}a4)     d2(f>g)|
+       a>c'g>a   Tf3 d    |TcA  TGF   f2(f/g/a)| A2  TG>F  G2(A>c)|({c}d4) ({d}c2)   ||
+% Variation 1
+ Ac  |(dA)(fe)            (dA)(fe)       |    d(f/d/)    (c/A/G/A/)     F2(GA)        |\
+      (BA/B/)  (c/A/G/F/) (GA)(fe)       |    d4                    ({c}A2)          :|
+(f>g)| a(b/a/)  g/(b/a/g/) f>g (a/g/f/d/)|   (c/d/c/A/)  (c/A/G/F/)     c2(d/f/e/g/)  |\
+       fF       f(e/f/)   (ga)(fg)       |   (ag)(fe)                   d2(f>g)       |
+       a(a/c'/) g(g/a/)    fcdf          |    c(A/c/)    TGF            f>g (a/f/g/a/)|\
+      (c<A)   (TG>F)       G2  (A/G/A/c/)|({c}d4)                   ({c}A2)          ||
+% Variation 2
+ Ac       | d2         (a/g/f/e/)   dA        (a/g/f/e/)  |   (fe/d/      c/B/A/G/)     F2(G/B/A/c/) |\
+            B(g/f/      e/d/c/B/)  (AG/F/)    (G/A/f/e/)  |    d4                   ({c}A2)         :|
+(f/e/f/g/)|(a/c'/b/a/) (b/g/f/e/)  (f/a/g/f/) (e/d/c/B/)  |    A/(f/e/f/) (F/G/A/B/)   (A/B/c) (TB>A)|\
+            fF/f/       gE/g/       ad'        c'/(b/a/g/)|   (fe)(a^c)                 d2(f/e/f/g/) |
+           (a/c'/b/a/) (d'/b/a/g/) (a/f/e/g/) (f/d/c/B/)  |    A(G/F/)    (G/F/G/A/)    f2(f//g//a3/)|\
+           (c<A)      (TG>F)        G2     ({G}A>c)       |({c}d4)                  ({c}A2)         |]

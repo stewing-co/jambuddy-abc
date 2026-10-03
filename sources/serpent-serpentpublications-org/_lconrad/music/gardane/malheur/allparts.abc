@@ -1,0 +1,90 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:[23] Si mon malheur my continue
+T:Cantus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on second line
+M:C|
+L:1/2
+K:F
+z F F C D E F G A B2 A G3/2 F// E// D/ C/ F2 E A3/2 G// F// E2 D2
+w: Si mon mal- heur my con- ti- nu- * * * * * * * * * * * * *  e,
+z F G A B
+w: Je ne sçay pas, 
+G A/ G/ A/ B/ c B > A A2 G A
+w: Je ne * dis * pas   que  * je fe- ray;
+c B A G c2 =B c/ d/ e/ c/ d c2 =B c
+w: A tout le moins je * chan- * * * * ge- * ray
+c c > B |: A > G F c d e f/ e/ d/ c/ B A G > F D F2 E |1 F c c > B :|2 HF4 |]
+w: Si le * * * *  cou- rai- ge ne * * * * my mu- * * * *  e, Si le * e.
+
+X:2
+T:[23] Si mon malheur my continue
+T:Tenor
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on second line
+M:C|
+L:1/2
+K:F
+z c c > B A G F E D > C D/ E/ F2 E F A G2 F2
+w: Si mon * *  mal- heur my con- * * *  *  ti- nu- * * e,
+z c d B c2 
+w: Je ne sçay pas, 
+z c d B c > B A d2 c B2 A2
+w: Je ne dis pas * * que je fe- ray;
+z c B A G F E/ F/ G/ E/ F/ E/ D/ C/ D D C2 
+w: A tout le moins je chan- * * * * * * * *  ge- ray
+z c |: c > B A G F E D > C D/ E/ F2 E F A G2 |1 F2 z c :|2 HF4 |]
+w: Si le  * * cou- rai- ge ne * * * *  my mu- * *  e, Si e.
+
+X:3
+T:[23] Si mon malheur my continue
+T:Bassus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, bass
+M:C|
+L:1/2
+K:F -8va
+z2 z F F C D E F G2 A B c B F c2
+w: Si mon mal- heur my con- * ti- nu- * * *  e,
+z F G A B 
+w: Je ne sçay pas, 
+G A F c3/2 B// A// G2 F3 D F2 G2 F2
+w: Je ne dis pas * * * que * je fe- ray;
+z2 z F E D C c B A G2 C4
+w: A tout le moins je chan- * ge- ray
+|: z F F E D C F G2 A B c B F c2 |1 F4 :|2 HF4 |]
+w: Si le cou- rai- ge ne * my mu- * * * *  e, e.

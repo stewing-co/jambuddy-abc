@@ -1,0 +1,83 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Gige-Polka GD  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.104 (st05790) orig. G,D-Dur
+T: Berner Oberl\"ander T\"anze (Bern)
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+gfe |: "G"d2G2 zBAG | "D7"F2A2 zgfe | d2A2 (Ac)(BA) | "G"(G2B2) zgfe | (d2G2) (B2G2) | "D7"F2A2 zgfe |
+ d2c'2 c'faf |1 \
+"G"g2b2 ggfe :|2 "G"g2b2 g2z2 |: [K:D] "A7"ABcd efgc | "D"dfAf dfef |
+ "A7"ceAg cegA | "D"dfAf d4 | \
+ "A7"ABcd efgc | "D"dfAf dfef | "A7"ceAg cege | "D"d2f2 d2z2 :| 
+[K:G] "G"{/c}(B4B)DGB | e2d2 B4 | \
+edBe d2B2 | "D7"dcAd c4 |F4 FEFG | A2AB c4 | fedc fedc | "G"edBg d4 |  
+"G"{/c}(B4B)DGB | e2d2 B4 | \
+edBe d2B2 | "D7"dcAd c4 | \
+f2f2 fedc | "G"e2e2 edBG | "D7"FAfe dcBA | "G"G2B2 G2z2 |]   
+
+X: 2
+T: Gige-Polka GD  
+M:2/4
+L:1/16
+K:G
+gfe |: "G"d2G2 zBAG | "D7"F2A2 zgfe | d2A2 (Ac)(BA) | "G"(G2B2) zgfe | (d2G2) (B2G2) | "D7"F2A2 zgfe |
+ d2c'2 c'faf |1 \
+"G"g2b2 ggfe :|2 "G"g2b2 g2z2 |: [K:D] "A7"ABcd efgc | "D"dfAf dfef |
+ "A7"ceAg cegA | "D"dfAf d4 | \
+ "A7"ABcd efgc | "D"dfAf dfef | "A7"ceAg cege | "D"d2f2 d2z2 :| 
+[K:G] "G"{/c}(B4B)DGB | e2d2 B4 | \
+edBe d2B2 | "D7"dcAd c4 |F4 FEFG | A2AB c4 | fedc fedc | "G"edBg d4 |  
+"G"{/c}(B4B)DGB | e2d2 B4 | \
+edBe d2B2 | "D7"dcAd c4 | \
+f2f2 fedc | "G"e2e2 edBG | "D7"FAfe dcBA | "G"G2B2 G2z2 |]  
+
+X:3
+T:Gige-Polka FC 2-  chords
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+fed |: "F"c2F2 zAGF | "C7"E2G2 zfed | c2G2 (GB)(AG) | "F"(F2A2) zfed | (c2F2) (A2F2) | "C7"E2G2 zfed |
+c2b2 bege |1 \
+"F"f2a2 ffed :|2 "F"f2a2 f2z2 |: [K:Cmaj] "G7"GABc defB | "C"ceGe cede |
+"G7"BdGf BdfG | "C"ceGe c4 | \
+"G7"GABc defB | "C"ceGe cede | "G7"BdGf Bdfd | "C"c2e2 c2z2 :| 
+[K:Fmaj] "F"{/B}(A4A)CFA | d2c2 A4 | \
+dcAd c2A2 | "C7"cBGc B4 |E4 EDEF | G2GA B4 | edcB edcB | "F"dcAf c4 | 
+"F"{/B}(A4A)CFA | d2c2 A4 | \
+dcAd c2A2 | "C7"cBGc B4 | \
+e2e2 edcB | "F"d2d2 dcAF | "C7"EGed cBAG | "F"F2A2 F2z2 |] 
+
+X:4
+T:Gige-Polka FC 2-  
+M:2/4
+L:1/16
+K:Fmaj
+fed |: "F"c2F2 zAGF | "C7"E2G2 zfed | c2G2 (GB)(AG) | "F"(F2A2) zfed | (c2F2) (A2F2) | "C7"E2G2 zfed |
+c2b2 bege |1 \
+"F"f2a2 ffed :|2 "F"f2a2 f2z2 |: [K:Cmaj] "G7"GABc defB | "C"ceGe cede |
+"G7"BdGf BdfG | "C"ceGe c4 | \
+"G7"GABc defB | "C"ceGe cede | "G7"BdGf Bdfd | "C"c2e2 c2z2 :| 
+[K:Fmaj] "F"{/B}(A4A)CFA | d2c2 A4 | \
+dcAd c2A2 | "C7"cBGc B4 |E4 EDEF | G2GA B4 | edcB edcB | "F"dcAf c4 | 
+"F"{/B}(A4A)CFA | d2c2 A4 | \
+dcAd c2A2 | "C7"cBGc B4 | \
+e2e2 edcB | "F"d2d2 dcAF | "C7"EGed cBAG | "F"F2A2 F2z2 |] 
+
+X:5
+T:Gige-Polka FC 2-  Anm
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+fed |: "F"c2F2 zAGF | "C7""_e"E2"_g"G2 zf"_e"e"_d"d | "_c"c2"_g"G2 ("_g"G"_b"B)(A"_ g ="G) | "F"(F2A2) zfed | (c2F2) (A2F2) | "C7"E2G2 zfe"_ ="d |
+"" "C"c2"_b"b2 "_b"b"_e"e"_g"g"_ ="e |1 \
+"F"f2a2 ffed :|2 "F"f2a2 f2z2 |: [K:Cmaj] "G7"GABc defB | "C"ceGe cede |
+"" "G7"BdGf BdfG | "C"ceGe c4 | \
+"G7"GABc defB | "C"ceGe cede | "G7"BdGf Bdfd | "C"c2e2 c2z2 :| 
+[K:Fmaj]"" "F"{/B}(A4A)CFA | d2c2 A4 | \
+dcAd c2A2 | "C7"c"_b"B"_g"Gc "_b"B4 |"_e"E4 E"_d"D"_e"EF | "_g"G2GA "_b"B4 | "_e"e"_d"dc"_b"B "_e"e"_d"dc"_b"B | "F"dcAf c4 | 
+"F"{/B}(A4A)CFA | d2c2 A4 | \
+dcAd c2A2 | "C7"c"_b"B"_g"Gc "_b"B4 | \
+"_e"e2e2 e"_d"dc"_b"B | "F"d2d2 dcAF | "C7""_e"E"_g"G"_e"e"_d"d "_c"c"_b"BA"_ g ="G | "F"F2A2 F2z2 |] 

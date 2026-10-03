@@ -1,0 +1,81 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Der luschtig Appenzeller (Walzer)  CG
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.49 (wz09004) orig. G,C-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+d | "G"b3 | bag | ("D7"a3 | a)zd | (a3 | a)gf | ("G"g3 | g)zd | b3 | bag | "C"e3 | ec'a | 
+"G"g2b | "D7"d'2f | ("G"g3 | g)zd/g/ || "D7"g3 | f2c/e/ | "G"e3 | d2d/b/ | "D7"b3 | a2d/a/ | "G""_*"a3 | g2d/g/ | 
+"D7"g3 | f2c/e/ | "G"e3 | d2d/b/ | b3 | "D7"b2a | "G"g3 | gzz |] [K:C] "C"geg | a>a!>!g | ze>e | "G7"f>f!>!B | 
+zg>g | a>a!>!g | zf>f | "C"e>ec | geg | c'zb | c'z^c' | "Dm"d'2z | a2z | "G7"g^ga | bed | "C"c3 | czz |] 
+W:
+W: * Anmerkung Hrsg.: Titel HC; der lustig Appenzeller, Teil B, Takt 7: ergänzt
+W: luschtig (Swissgerman for lustig - funny)
+% wz09004
+X:2
+T:Der luschtig Appenzeller (Walzer)  CF 7-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+G | "C"e3 | edc | ("G7"d3 | d)zG | (d3 | d)cB | ("C"c3 | c)zG | e3 | edc | "F"A3 | Afd | 
+"C"c2e | "G7"g2B | ("C"c3 | c)zG/2c/2 |] "G7"c3 | B2F/2A/2 | "C"A3 | G2G/2e/2 | "G7"e3 | d2G/2d/2 | "C"d3 | c2G/2c/2 | 
+"G7"c3 | B2F/2A/2 | "C"A3 | G2G/2e/2 | e3 | "G7"e2d | "C"c3 | czz |] [K:F] "F"cAc | d>d!>!c | zA>A | "C7"B>B!>!E | 
+zc>c | d>d!>!c | zB>B | "F"A>AF | cAc | fze | fz^f | "Gm"g2z | d2z | "C7"c^cd | eAG | "F"F3 | Fzz |] 
+% wz09004
+X:3
+T: Der luschtig Appenzeller (Walzer)  CG (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+d | "G"b3 | bag | ("D7"a3 | a)zd | (a3 | a)gf | ("G"g3 | g)zd | b3 | bag | "C"e3 | ec'a | 
+"G"g2b | "D7"d'2f | ("G"g3 | g)zd/g/ || "D7"g3 | f2c/e/ | "G"e3 | d2d/b/ | "D7"b3 | a2d/a/ | "G"a3 | g2d/g/ | 
+"D7"g3 | f2c/e/ | "G"e3 | d2d/b/ | b3 | "D7"b2a | "G"g3 | gzz |] [K:C] "C"geg | a>a!>!g | ze>e | "G7"f>f!>!B | 
+zg>g | a>a!>!g | zf>f | "C"e>ec | geg | c'zb | c'z^c' | "Dm"d'2z | a2z | "G7"g^ga | bed | "C"c3 | czz |] 
+% wz09004
+X:4
+T:Der luschtig Appenzeller (Walzer)  CF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+G | "C"e3 | edc | ("G7"d3 | d)zG | (d3 | d)cB | ("C"c3 | c)zG | e3 | edc | "F"A3 | Afd | 
+"C"c2e | "G7"g2B | ("C"c3 | c)zG/2c/2 |] "G7"c3 | B2F/2A/2 | "C"A3 | G2G/2e/2 | "G7"e3 | d2G/2d/2 | "C"d3 | c2G/2c/2 | 
+"G7"c3 | B2F/2A/2 | "C"A3 | G2G/2e/2 | e3 | "G7"e2d | "C"c3 | czz |] [K:F] "F"cAc | d>d!>!c | zA>A | "C7"B>B!>!E | 
+zc>c | d>d!>!c | zB>B | "F"A>AF | cAc | fze | fz^f | "Gm"g2z | d2z | "C7"c^cd | eAG | "F"F3 | Fzz |] 
+% wz09004
+X:5
+T:Der luschtig Appenzeller D&G (tinwhistle in D)
+T:wz09004 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=3%%MIDI gchordon
+A | "D"f3 | fed | ("A7"e3 | e)zA | (e3 | e)dc | ("D"d3 | d)zA | f3 | fed | "G"B3 | Bge | 
+"D"d2f | "A7"a2c | ("D"d3 | d)zA/2d/2 || "A7"d3 | c2G/2B/2 | "D"B3 | A2A/2f/2 | "A7"f3 | e2A/2e/2 | "D"e3 | d2A/2d/2 | 
+"A7"d3 | c2G/2B/2 | "D"B3 | A2A/2f/2 | f3 | "A7"f2e | "D"d3 | dzz |] [K:G] "G"dBd | e>e!>!d | zB>B | "D7"c>c!>!F | 
+zd>d | e>e!>!d | zc>c | "G"B>BG | dBd | gzf | gz^g | "Am"a2z | e2z | "D7"d^de | fBA | "G"G3 | Gzz |] 
+X:6
+T:Der luschtig Appenzeller D&G (tinwhistle in D) solo
+T:wz09004 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+A | f3 | fed | (e3 | e)zA | (e3 | e)dc | (d3 | d)zA | f3 | fed | B3 | Bge | 
+d2f | a2c | (d3 | d)zA/2d/2 || d3 | c2G/2B/2 | B3 | A2A/2f/2 | f3 | e2A/2e/2 | e3 | d2A/2d/2 | 
+d3 | c2G/2B/2 | B3 | A2A/2f/2 | f3 | f2e | d3 | dzz |] [K:G] dBd | e>e!>!d | zB>B | "_c"c>c!>!F | 
+zd>d | e>e!>!d | z"_c"c>c | B>BG | dBd | gzf | gz^g | a2z | e2z | d^de | fBA | G3 | Gzz |]
+% Aug 1st, 2016

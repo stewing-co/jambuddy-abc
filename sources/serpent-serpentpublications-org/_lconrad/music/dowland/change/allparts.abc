@@ -1,0 +1,132 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:VII. Deare, if you change
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+%%MIDI nobarlines
+N: Original clef, C on first line
+M:C|
+L:1/4
+K:Amin
+E3 F/ G/ A2 A2 | B3 B c B A4 A2 ^G4 | z2 A3 D F2 |
+w:Deare, _ _ if you change, ile ne- ver chuse a- gaine.  Sweet, if you
+w:Earth _ _ with her flowers shall soon- er heaven a- dorne, Heaven her bright
+E3 F | G A E4 D2 E4 | z2 E2 G3 ^F | E3 e d2 B2 | c3 c B4 | z2 G2 A2
+w:shrinke, ile ne- ver thinke of love.  Faire, if you faile, ile judge all beau- tie vaine.  Wise, if
+w:starres through earths dim globe shall move, Fire heate shall lose, and frosts of flames be borne, Ayre made
+B2 | c4 A2 d4 c2 | B3 B A4 |: z2 e2 e4 | z2 e2 e2 z e |
+w:too weake, moe wits Ile ne- ver prove.  Deare, sweet, faire, wise, change,
+w:to shine as black as hell shall prove: Earth, heaven, fire, ayre, the
+d B c > d B4 | B c2 d2 e2 c2 d2 c | B3 B |1 A4 :|2 A4 |]
+w:shrink, nor be not weake: and, on my faith, my faith shall ne- ver  breake. | breake.
+w:world trans- form'd shall view, Ere I prove false to faith, or strange to you. you.
+
+
+
+X:2
+T:VII. Deare, if you change
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+N: Original clef, C on second line
+%%MIDI nobarlines
+M:C
+L:1/4
+N: yes, the altus and bassus really do have C instead of C|
+K:Amin
+%1
+E4 E2 E2 E3 D C3 E D2 C D E4 E4 F3 E/ D/ C D E3 D/ C/ B, C2
+w:Deare, if you change, ile ne- ver chuse a- * gaine.  Sweet, if you _ shrinke, you shrinke, ile _ ne- ver
+w:Earth with her flowers shall soon- er heaven a- * dorne, Heaven her bright _ starres, bright starres, through _ earths dim 
+%2
+B, A, A ^G4 G2 G F E2 D2 C3 B,/ A,/ B,3 E2 E E2 E4 z2 E2 A, A G > F E
+w:thinke _ of love.  Faire, if you faile, you faile, ile _ judge all beau- ty vaine.  Wise, if too weake, too weake,
+w:globe _ shall move, Fire heate shall lose, shall lose, and _ frosts of flames be borne, Ayre made to shine, to shine,
+%3
+D C3/2 D// E// F3 F E6 E2 ^C2 z E |: E4 z B2 "(1)"c B > c "(2)"A2 ^G2 z G G G E
+w:moe wits, moe _ wits, ile ne- ver prove.  Deare, sweet, deare, sweet, faire, _ _ wise, change, shrinke nor be
+w:as blacke, as _ blacke, as hell shall prove: Earth, heaven, earth, heaven fire, _ ayre, _ the world trans- form'd 
+N: (1)Original is a half note
+N: (2) Original is a quarter note
+%4
+A ^G4 z E C F D G E A A > D E E E3 D |1 ^C2 z E :|2 ^C4 |]
+w:not weake: and on my faith, and on my faith, my faith shall ne- ver  breake. Deare, | breake.
+w:shall view, ere I prove false to faith, to faith, or strange, or strange, to you. Earth, you.
+
+X:3
+T:VII. Deare, if you change
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+N:Original clef, C on third line
+%%MIDI transpose -12
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:Amin -8va
+c3 d c2 c2 B2 E2 e d c3 B A2 B4 c4 A3 B c B/ A/ G3 A B A2
+w:Deare, _ if you change, ile ne- ver chuse a- * gaine Sweet, if you shrink, you _ shrink, ile ne- ver
+w:Earth _ with her flowers shall soon- er heaven a- * dorne, Heaven her bright starres, bright _ starres, through earths dim 
+B/ c/ d > d B4 B4 B2 B2 G E A3 ^G/ F/ G2 A3 A ^G4 z2 B c2 d2 e2 f e c
+w:thinke _ _  of love.  Faire, if you faile, ile judge _ _ all beau- ty vaine.  Wise, if too weake, moe wits ile
+w:globe _ _ shall move, Fire heate shall lose, and frosts _ _ of flames be borne, Ayre made to shine as black as 
+d > c B A ^G G A3 ^G/ F/ G2 A2  c2- |: c1 B > c A ^G2 z e d > B "(3)"c2 B2 z c B
+w:ne- ver prove, moe wits ile ne- * _ ver prove.  Deare, * sweet, _ faire, wise, Deare, sweet, _ faire, wise, change, shrink
+w:hell shall prove, as black as hell _ _  shall prove, Earth, * hea- ven, fire, ayre, Earth, hea- ven fire ayre,  the world 
+N:(3) Original is a quarter note
+d c/ d/ e e4 G2 A2 B2 c2 A2 B A2 G/ ^F/ ^G > G |1 A2 c2-:|2 A4 |]
+w:nor bee _ not weake: and, on my faith, my faith shall ne- * _ ver breake. Deare, | breake.
+w:trans- form'd _ shall view, Ere I prove false to faith, or strange _ _ to you. Earth, you.
+
+X:4
+T:VII. Deare, if you change
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+%%MIDI nobarlines
+%%MIDI transpose -24
+M:C
+L:1/4
+N: Yes, the altus and bassus really do have C instead of C|
+K:Amin bass
+%1
+a4 a2 a2 ^g3 g a3 g f3 f
+w:Deare, if you change, ile ne- ver chuse a-
+w:Earth with her flowers shall soon- er heaven a-
+%2
+e4 A4 d3 d A > B c d
+w:gaine.  Sweet, if you shrinke, you shrinke, ile
+w:dorne.  Heaven her bright starres, bright starres, through 
+%3
+e > f g a f3 f e4 e4 e2 B2 c3 c
+w: ne- * _ ver thinke of love.  Faire, if you faile, ile
+w:earths _ _ dim globe shall move, Fire heate shall lose, and
+%4
+B2 e2 A3 A e4 e4 f2 g2 a3 a
+w:judge all beau- tie vaine.  Wise, if too weake, moe
+w:frosts of flames be borne, Ayre made to shine as 
+%5
+d3 d e6 e2 A3 a |:  ^g2 a2
+w: wits ile ne- ver prove.  Deare, sweet, faire,
+w: blacke as hell shall prove: Earth, heaven, fire, 
+%6
+e3 A ^G2 A2 e2 z c G g a A e4
+w:wise, deare, sweet, faire, wise, change, shrinke nor be not weak:
+w:ayre, earth, heaven fire, ayre, the world trans- form'd shall view,
+%7
+e2 f2 g2 a2 ^f2 ^g g e3 e |1 A3 a :|2 A4 |]
+w:and, on my faith, my faith shall ne- ver  breake. Deare, | breake.
+w:Ere I prove false to faith, or strange to you. Earth, you.
+

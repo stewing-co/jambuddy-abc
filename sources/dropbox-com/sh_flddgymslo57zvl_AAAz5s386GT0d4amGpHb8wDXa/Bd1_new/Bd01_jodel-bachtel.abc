@@ -1,0 +1,87 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Felder Jodel  F chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.103 (jd00130) orig. F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"fA cf Af | "C7"eB ceB2 | eB ce Bg | "F"fA cfA2 | fA cf Af | "C7"eB ceB2 | 
+eB ce Bg |  "F"!fermata!f4 z2 || "C7"eB eg Bg | "F"fA cf Af | "C7"eB ce Be | "F"fA cfA2 | 
+"C7"eB eg Bg | "F"fA cf Af | "C7"(eB c).e cg | "F"!fermata!f2 z"_langsam".f.e.d | !fermata!c3zf2 | "C7"e4g2 | "F"!fermata!f4z2 |] 
+
+X:2
+T: Felder Jodel  F chords (Anm)
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"fA cf A"_ ="f | "C7""_e"e"_b"B ceB2 | eB c"_e"e "_b"B"_g"g | "F"fA cfA2 | fA cf A"_ ="f | "C7""_e"e"_b"B ceB2 | 
+eB ce Bg |  "F"!fermata!"_ ="f4 z2 || "C7""_e"e"_b"B "_e"e"_g"g Bg | "F"fA cf Af | "C7"eB ce B"_ ="e | "F"fA cfA2 | 
+"C7"eB eg Bg | "F"fA cf A"_ ="f | "C7"(eB c).e cg | "F"!fermata!f2 z"_langsam".f.e.d | !fermata!c3z"_ ="f2 | "C7""_e"e4"_g"g2 | "F"!fermata!f4z2 |] 
+
+X:3
+T:Felder Jodel  C 5- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"cE Gc Ec | "G7"BF GBF2 | BF GB Fd | "C"cE GcE2 | cE Gc Ec | "G7"BF GBF2 | 
+BF GB Fd | "C"!fermata!c4 z2 || "G7"BF Bd Fd | "C"cE Gc Ec | "G7"BF GB FB | "C"cE GcE2 | 
+"G7"BF Bd Fd | "C"cE Gc Ec | "G7"(BF G).B Gd | "C"!fermata!c2 z"_langsam".c.B.A | !fermata!G3zc2 | "G7"B4d2 | "C"!fermata!c4z2 |] 
+
+X:4
+T:Felder Jodel  C 5- chords (Anm)
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"cE Gc E"_ ="c | "G7""_h"B"_f"F G"_h"BF2 | BF G"_h"B "_f"F"_d"d | "C"cE GcE2 | cE Gc Ec | "G7"BF GBF2 | 
+BF GB Fd | "C"!fermata!"_ ="c4 z2 || "G7""_h"B"_f"F "_h"B"_d"d Fd | "C"cE Gc Ec | "G7"BF GB F"_ ="B | "C"cE GcE2 | 
+"G7"BF Bd Fd | "C"cE Gc Ec | "G7"(BF G).B Gd | "C"!fermata!c2 z"_langsam".c.B.A | !fermata!G3zc2 | "G7"B4d2 | "C"!fermata!c4z2 |] 
+
+X:5
+T:Felder Jodel  G 10- chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"GB, DG B,G | "D7"FC DFC2 | FC DF CA | "G"GB, DGB,2 | GB, DG B,G | "D7"FC DFC2 | 
+FC DF CA | "G"!fermata!G4 z2 || "D7"FC FA CA | "G"GB, DG B,G | "D7"FC DF CF | "G"GB, DGB,2 | 
+"D7"FC FA CA | "G"GB, DG B,G | "D7"(FC D).F DA | "G"!fermata!G2 z"_langsam".G.F.E | !fermata!D3zG2 | "D7"F4A2 | "G"!fermata!G4z2 |] 
+
+X:6
+T:Felder Jodel  G 10- chords (Anm)
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"GB, DG B,"_ ="G | "D7""_#"F"_c"C D"_#"F"_c"C2 | FC D"_#"F "_c"C"_a"A | "G"GB, DGB,2 | GB, DG B,G | "D7"FC DFC2 | 
+FC D"_#"F "_c"C"_a"A | "G"!fermata!"_ ="G4 z2 || "D7""_#"F"_c"C "_#"F"_a"A CA | "G"GB, DG B,"_ ="G | "D7"FC DF C"_ ="F | "G"GB, DGB,2 | 
+"D7"FC FA CA | "G"GB, DG B,"_ ="G | "D7"(FC D).F DA | "G"!fermata!G2 z"_langsam".G.F.E | !fermata!D3z"_ ="G2 | "D7"F4A2 | "G"!fermata!G4z2 |] 
+
+X:7
+T:Felder Jodel  Ab (5letras)  cf. F chords
+M:3/4
+L:1/8
+K:Abmaj%%MIDI gchordon
+"Ab"ac ea ca | "Eb7"gd egd2 | gd eg db | "Ab"ac eac2 | ac ea ca | "Eb7"gd egd2 | 
+gd eg db | "Ab"!fermata!a4 z2 || "Eb7"gd gb db | "Ab"ac ea ca | "Eb7"gd eg dg | "Ab"ac eac2 | 
+"Eb7"gd gb db | "Ab"ac ea ca | "Eb7"(gd e).g eb | "Ab"!fermata!a2 z"_langsam".a.g.f | !fermata!e3za2 | "Eb7"g4b2 | "Ab"!fermata!a4z2 |] 
+
+X:8
+T:Felder Jodel  Eb (5letras)  cf. C 5- chords
+M:3/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+"Eb"eG Be Ge | "Bb7"dA BdA2 | dA Bd Af | "Eb"eG BeG2 | eG Be Ge | "Bb7"dA BdA2 | 
+dA Bd Af | "Eb"!fermata!e4 z2 || "Bb7"dA df Af | "Eb"eG Be Ge | "Bb7"dA Bd Ad | "Eb"eG BeG2 | 
+"Bb7"dA df Af | "Eb"eG Be Ge | "Bb7"(dA B).d Bf | "Eb"!fermata!e2 z"_langsam".e.d.c | !fermata!B3ze2 | "Bb7"d4f2 | "Eb"!fermata!e4z2 |] 
+
+X:9
+T:Felder Jodel  Bb (5letras)  cf. G 10- chords
+M:3/4
+L:1/8
+K:Bbmaj%%MIDI gchordon
+"Bb"BD FB DB | "F7"AE FAE2 | AE FA Ec | "Bb"BD FBD2 | BD FB DB | "F7"AE FAE2 | 
+AE FA Ec | "Bb"!fermata!B4 z2 || "F7"AE Ac Ec | "Bb"BD FB DB | "F7"AE FA EA | "Bb"BD FBD2 | 
+"F7"AE Ac Ec | "Bb"BD FB DB | "F7"(AE F).A Fc | "Bb"!fermata!B2 z"_langsam".B.A.G | !fermata!F3zB2 | "F7"A4c2 | "Bb"!fermata!B4z2 |] 
+
+

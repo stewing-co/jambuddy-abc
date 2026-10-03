@@ -1,0 +1,52 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch  CF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.69 (st00061) orig. C,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"c4e4 | g2gg f2^fg | a2g2 e2c2 | "G7"G4z2Bc || "G7"d2e2 f2g2 | "C"a2g2 g2e2 | "G7"g2f2 f2d2 | 
+"C"g^fg2e4 | "G7"d2e2 f2g2 | "C"a2g2 g2e2 | "G7"b3a gfed | "C"c2c2c4 || "F"c'c'c'2 b2a2 | "C"g2+>+e4g2 | 
+"Dm"fed2 "G7"agf2 | "C"e2f2g4 | "F"c'c'c'2 b2a2 | "C"g2+>+e4g2 | "Dm"f2ef "G7"gfed | "C"c2c2c4 || [K:F]  "F"a2ba "Bb"f2g2 | 
+"F"a4 fgab | "C7"a2g2 g2f2 | f2e2 efg2 | "F"a2ba "Bb"f2g2 | "F"a4 fgab | "C7"a2g2 gfe2 | "F"f2f2 f4 || [K:C]
+"G7"g2dd d2f2 | "C"e2g2c'4 | "G7"b2a2 g2f2 | "C"efed cdef | "G7"g2dd d2f2 | "C"e2g2 c'4 | "G7"b2ba gfed | "C"c4 "C7"de"_> Teil C"fg |] 
+
+X:2
+T: Schottisch  CF chords Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"c4e4 | g2gg f2^fg | a2g2 e2c2 | "G7"G4z2Bc || [P:A] "G7"d2e2 f2g2 | "C"a2g2 g2e2 | "G7"g2f2 f2d2 | 
+"C"g^fg2e4 | "G7"d2e2 f2g2 | "C"a2g2 g2e2 | "G7"b3a gfed | "C"c2c2c4 || [P:B] "F"c'c'c'2 b2a2 | "C"g2+>+e4g2 | 
+"Dm"fed2 "G7"agf2 | "C"e2f2g4 | "F"c'c'c'2 b2a2 | "C"g2+>+e4g2 | "Dm"f2ef "G7"gfed | "C"c2c2c4 || [P:C] [K:F]  "F"a2ba "Bb"f2g2 | 
+"F"a4 fgab | "C7"a2g2 g2f2 | f2e2 efg2 | "F"a2ba "Bb"f2g2 | "F"a4 fgab | "C7"a2g2 gfe2 | "F"f2f2 "_Fine"f4 || [P:D] [K:C]
+"G7"g2dd d2f2 | "C"e2g2c'4 | "G7"b2a2 g2f2 | "C"efed cdef | "G7"g2dd d2f2 | "C"e2g2 c'4 | "G7"b2ba gfed | "C"c4 "C7"de"_> Teil C"fg |] 
+
+X:3
+T:Schottisch  GC 5- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"G4B4 | d2dd c2^cd | e2d2 B2G2 | "D7"D4z2FG || "D7"A2B2 c2d2 | "G"e2d2 d2B2 | "D7"d2c2 c2A2 | 
+"G"d^cd2B4 | "D7"A2B2 c2d2 | "G"e2d2 d2B2 | "D7"f3e dcBA | "G"G2G2G4 || "C"ggg2 f2e2 | "G"d2!>!B4d2 | 
+"Am"cBA2 "D7"edc2 | "G"B2c2d4 | "C"ggg2 f2e2 | "G"d2!>!B4d2 | "Am"c2Bc "D7"dcBA | "G"G2G2G4 || [K:Cmaj] "C"e2fe "F"c2d2 | 
+"C"e4 cdef | "G7"e2d2 d2c2 | c2B2 Bcd2 | "C"e2fe "F"c2d2 | "C"e4 cdef | "G7"e2d2 dcB2 | "C"c2c2 c4 || [K:Gmaj]
+"D7"d2AA A2c2 | "G"B2d2g4 | "D7"f2e2 d2c2 | "G"BcBA GABc | "D7"d2AA A2c2 | "G"B2d2 g4 | "D7"f2fe dcBA | "G"G4 "G7"AB"_> Teil C"cd |] 
+
+X:4
+T:Schottisch  GC 5- chords Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"G4B4 | d2dd c2^cd | e2d2 B2G2 | "D7"D4z2FG || [P:A] "D7"A2B2 c2d2 | "G"e2d2 d2B2 | "D7"d2c2 c2A2 | 
+"G"d^cd2B4 | "D7"A2B2 c2d2 | "G"e2d2 d2B2 | "D7"f3e dcBA | "G"G2G2G4 || [P:B] "C"ggg2 f2e2 | "G"d2!>!B4d2 | 
+"Am"cBA2 "D7"edc2 | "G"B2c2d4 | "C"ggg2 f2e2 | "G"d2!>!B4d2 | "Am"c2Bc "D7"dcBA | "G"G2G2G4 || [P:C] [K:Cmaj] "C"e2fe "F"c2d2 | 
+"C"e4 cdef | "G7"e2d2 d2c2 | c2B2 Bcd2 | "C"e2fe "F"c2d2 | "C"e4 cdef | "G7"e2d2 dcB2 | "C"c2c2 "_Fine"c4 || [P:D] [K:Gmaj]
+"D7"d2AA A2c2 | "G"B2d2g4 | "D7"f2e2 d2c2 | "G"BcBA GABc | "D7"d2AA A2c2 | "G"B2d2 g4 | "D7"f2fe dcBA | "G"G4 "G7"AB"_> Teil C"cd |] 
+
+

@@ -1,0 +1,41 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Mazurka BbF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.267 (mz00613) orig. Bb,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/8
+K:Bb %%MIDI gchordon
+"Bb"b2a>c' "(Gm)"bg | "Bb"f>df2b2 | "F7"a>ga2c'2 | "Bb"b>c'd'2f2 | b2a>c' "(Gm)"bg | "Bb"f>df2b2 | "F7"a>ga2c'2 | "Bb"b2b2z2 :: [K:F]
+"F"c>d cB AG | F>Ac3f | "C7"e>d eG ce | "F"f>e fAc2 | "C7"c>d cB AG | "F"F>Ac3f | "C7"e>d eG ce | "F"f2f2z2:: [K:Bb]
+"Bb"d>fb2d>f | "F7"b>ac2c2 | e>gc'2e>g | "Bb"c'>bd2d2 | d>bb2f>b | "Eb"a2g2g2 | "F7"f>a a>c f>a | "Bb"b2b2z2 :| 
+
+X:2
+T:Mazurka FC 5- chords
+M:3/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+"F"f2e>g "(Dm)"fd | "F"c>Ac2f2 | "C7"e>de2g2 | "F"f>ga2c2 | f2e>g "(Dm)"fd | "F"c>Ac2f2 | "C7"e>de2g2 | "F"f2f2z2 :: [K:Cmaj]
+"C"G>A GF ED | C>EG3c | "G7"B>A BD GB | "C"c>B cEG2 | "G7"G>A GF ED | "C"C>EG3c | "G7"B>A BD GB | "C"c2c2z2:: [K:Fmaj]
+"F"A>cf2A>c | "C7"f>eG2G2 | B>dg2B>d | "F"g>fA2A2 | A>ff2c>f | "Bb"e2d2d2 | "C7"c>e e>G c>e | "F"f2f2z2 :| 
+
+X:3
+T:Mazurka CG 10- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"c2B>d "(Am)"cA | "C"G>EG2c2 | "G7"B>AB2d2 | "C"c>de2G2 | c2B>d "(Am)"cA | "C"G>EG2c2 | "G7"B>AB2d2 | "C"c2c2z2 :: [K:Gmaj]
+"G"D>E DC B,A, | G,>B,D3G | "D7"F>E FA, DF | "G"G>F GB,D2 | "D7"D>E DC B,A, | "G"G,>B,D3G | "D7"F>E FA, DF | "G"G2G2z2:: [K:Cmaj]
+"C"E>Gc2E>G | "G7"c>BD2D2 | F>Ad2F>A | "C"d>cE2E2 | E>cc2G>c | "F"B2A2A2 | "G7"G>B B>D G>B | "C"c2c2z2 :| 
+
+X:4
+T:Mazurka CG 2+ chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"c'2b>d' "(Am)"c'a | "C"g>eg2c'2 | "G7"b>ab2d'2 | "C"c'>d'e'2g2 | c'2b>d' "(Am)"c'a | "C"g>eg2c'2 | "G7"b>ab2d'2 | "C"c'2c'2z2 :: [K:Gmaj]
+"G"d>e dc BA | G>Bd3g | "D7"f>e fA df | "G"g>f gBd2 | "D7"d>e dc BA | "G"G>Bd3g | "D7"f>e fA df | "G"g2g2z2:: [K:Cmaj]
+"C"e>gc'2e>g | "G7"c'>bd2d2 | f>ad'2f>a | "C"d'>c'e2e2 | e>c'c'2g>c' | "F"b2a2a2 | "G7"g>b b>d g>b | "C"c'2c'2z2 :| 
+

@@ -1,0 +1,77 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka  CF (mz07703) ABAC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.358 (mz07703) orig. CF
+T: Alte Seltisberger Musik. S.354-377
+T:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+%%partsbox
+P:ABAC
+R:Mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+E>F [P:A] |: "C".G2!>!G2A>G | .e2!>!e2G>A | ("G7"G2F2) F>G | ("C"F2E2)E>F |  .G2!>!G2A>G | .e2!>!e2G>A | ("G7"G2F2) A>B |1 
+"C".c2!>!c2 E>F :|2 "C".c2!>!c2z2 ][P:B] |: "D7"D>D .c2!>!c2 | "G"D>D.B2!>!B2 | "D7"A>B .A2!>!A2 | "G"G>A.B2!>!B2 | "D7"D>D .c2!>!c2 | "G"D>D.B2!>!B2 | 
+"D7"A>BA2d>A |1 "G"G2G2z2 :|2 "G"G2G2 "_>Teil A"E>F ][P:C] |: [K:F] "F"A6 | c6 | A>Bc2!>!c2 | A>Bc2!>!c2 | "Gm"B6 | 
+"C7"g6 | "F"A6 | f6 | "C7"G>A G2B2 | G>A G2c2 |1 "F"F4A2 | F6 :|2 "F"F2A2c2 | f2z2"_fine"z2 |] 
+%W:Parts:ABAC
+% mz07703 (H 272/TN 11)
+% Sep 24, 2017 (Elfmeter)
+
+X:2
+T:Mazurka  CF (mz07703) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.358 (mz07703) orig. CF
+S: Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+E>F |: "C".G2!>!G2A>G | .e2!>!e2G>A | ("G7"G2F2) F>G | ("C"F2E2)E>F |  .G2!>!G2A>G | .e2!>!e2G>A | ("G7"G2F2) A>B |1 
+"C".c2!>!c2 E>F :|2 "C".c2!>!c2z2 ]|: "D7"D>D .c2!>!c2 | "G"D>D.B2!>!B2 | "D7"A>B .A2!>!A2 | "G"G>A.B2!>!B2 | "D7"D>D .c2!>!c2 | "G"D>D.B2!>!B2 | 
+"D7"A>BA2d>A |1 "G"G2G2z2 :|2 "G"G2G2 "_>Teil A"E>F ]|: [K:F] "F"A6 | c6 | A>Bc2!>!c2 | A>Bc2!>!c2 | "Gm"B6 | 
+"C7"g6 | "F"A6 | f6 | "C7"G>A G2B2 | G>A G2c2 |1 "F"F4A2 | F6 :|2 "F"F2A2c2 | f2z2"_fine"z2 |] 
+W:Parts:ABAC
+% mz07703 (H 272/TN 11)
+% Sep 24, 2017 (Elfmeter)
+
+X:3
+T:Mazurka  GC 7+ (mz07703) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.358 (mz07703) orig. CF
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+B>c |: "G".d2!>!d2e>d | .b2!>!b2d>e | ("D7"d2c2) c>d | ("G"c2B2)B>c | .d2!>!d2e>d | .b2!>!b2d>e | ("D7"d2c2) e>f |1 
+"G".g2!>!g2 B>c :|2 "G".g2!>!g2z2 ]|: "A7"A>A .g2!>!g2 | "D"A>A.f2!>!f2 | "A7"e>f .e2!>!e2 | "D"d>e.f2!>!f2 | "A7"A>A .g2!>!g2 | "D"A>A.f2!>!f2 | 
+"A7"e>fe2a>e |1 "D"d2d2z2 :|2 "D"d2d2 "_>Teil A"B>c ]|: [K:Cmaj] "C"e6 | g6 | e>fg2!>!g2 | e>fg2!>!g2 | "Dm"f6 | 
+"G7"d'6 | "C"e6 | c'6 | "G7"d>e d2f2 | d>e d2g2 |1 "C"c4e2 | c6 :|2 "C"c2e2g2 | c'2z2"_fine"z2 |] 
+W:Parts:ABAC
+% mz07703 (H 272/TN 11)
+% Sep 24, 2017 (Elfmeter)
+
+X:4
+T:Mazurka  GC 5- (mz07703) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.358 (mz07703) orig. CF
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+B,>C |: "G".D2!>!D2E>D | .B2!>!B2D>E | ("D7"D2C2) C>D | ("G"C2B,2)B,>C | .D2!>!D2E>D | .B2!>!B2D>E | ("D7"D2C2) E>F |1 
+"G".G2!>!G2 B,>C :|2 "G".G2!>!G2z2 ]|: "A7"A,>A, .G2!>!G2 | "D"A,>A,.F2!>!F2 | "A7"E>F .E2!>!E2 | "D"D>E.F2!>!F2 | "A7"A,>A, .G2!>!G2 | "D"A,>A,.F2!>!F2 | 
+"A7"E>FE2A>E |1 "D"D2D2z2 :|2 "D"D2D2 "_>Teil A"B,>C ]|: [K:Cmaj] "C"E6 | G6 | E>FG2!>!G2 | E>FG2!>!G2 | "Dm"F6 | 
+"G7"d6 | "C"E6 | c6 | "G7"D>E D2F2 | D>E D2G2 |1 "C"C4E2 | C6 :|2 "C"C2E2G2 | c2z2"_fine"z2 |] 
+W:Parts:ABAC
+% mz07703 (H 272/TN 11)
+% Sep 24, 2017 (Elfmeter)

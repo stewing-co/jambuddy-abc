@@ -1,0 +1,17 @@
+X:104
+T:Hodie Nobis
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 4 clef=bass name="Guyao" sname="Gu."
+%%MIDI program 1 43
+%%staves [ 4 ]
+%----------
+Z13 !segno!|| [M:3/2] Z16 !fine!|] \
+[M:2/2] A,>A, | A,/A,,/ A, | D,D, | A,,A,,| E,E, | A,,/A,^G,/ | A,D, | E,2-|E,2| A,,/A,/ G,/E,/ | \
+F,E,/C,/ | D,C,/A,,/| C,D,/E,/ | A,,2 | D,D,| C,/A,,A,,/|E,>G,|D,A,| E,2-|E,2| \
+E,E,|E,C,|G,,2| C,C,|F,2| G,2| C,C, | B,,/G,,/ A,,| E,G,| A,A,,| E,/C,/ D,| \
+A,,A,| A,A,| D,2| A,,A,,| E,D,|E,2|A,,A,| G,/E,/ F, | C,C,| D,/E,/A,,| E,A,| A,A,| \
+A,2|E,2|A,A,|G,2| C,C,|G,,D,| A,,A,,| E,E,| E,E, | A,,2| E,E,| A,,2| E,2-|E,2 !segno!|]\
+%----------

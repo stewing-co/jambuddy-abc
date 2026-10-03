@@ -1,0 +1,78 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Schottisch  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: Das Repertoire der B\"abi-Musig, Alpnach. S.62-108. S.67 (st09051) orig. C,F
+T: \"Uberliefert durch Josef B\"abi, Alpnach, 1880
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"tr"c |: "G7"BA G"tr"f | "C"ed cc' | "G7"b/d/g/b/ a/d/f/a/ | "C"g/c/e/a/ g"tr"c | "G7"BA G"tr"f | "C"ed cc' |  "G"b/d/g/b/ "D7"a/d/^f/a/ |1 
+"G"gg gc :|2 "G"gg gd/e/ |:"G7"f/G/B/d/ gb | df f"tr"f | "C"e/G/c/e/ gc' | eg ge' | "G7"d'd c'd | bd ad |1 "C"gc eG | 
+ce ed/e/ :|2 gd/e/ f/G/A/B/ | "C"cc' c'z |: [K:F] "F"Ac a>g | fe dc | "C7"AB g>f | e2z2 | AB g>f | ed cB | 
+"F"Ac a/e/f/d/ | c2A2 | Ac a>g | fe dc | "Bb"B2d^c/d/ | b2zg | "C7"ec/c/ cg | "F"fc/c/ ca | "C7"gc de | "F"ff fz :|    
+% st09051
+X:2
+T:Schottisch  GC 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+"tr"G |: "D7"FE D"tr"c | "G"BA Gg | "D7"f/2A/2d/2f/2 e/2A/2c/2e/2 | "G"d/2G/2B/2e/2 d"tr"G | "D7"FE D"tr"c | "G"BA Gg | "D"f/2A/2d/2f/2 "A7"e/2A/2^c/2e/2 |1 
+"D"dd dG :|2 "D"dd dA/2B/2 |:"D7"c/2D/2F/2A/2 df | Ac c"tr"c | "G"B/2D/2G/2B/2 dg | Bd db | "D7"aA gA | fA eA |1 "G"dG BD | 
+GB BA/2B/2 :|2 dA/2B/2 c/2D/2E/2F/2 | "G"Gg gz |: [K:C] "C"EG e>d | cB AG | "G7"EF d>c | B2z2 | EF d>c | BA GF | 
+"C"EG e/2B/2c/2A/2 | G2E2 | EG e>d | cB AG | "F"F2A^G/2A/2 | f2zd | "G7"BG/2G/2 Gd | "C"cG/2G/2 Ge | "G7"dG AB | "C"cc cz :| 
+% st09051
+X:3
+T: Schottisch  CF (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"tr"c |: "G7"BA G"tr"f | "C"ed cc' | "G7"b/d/g/b/ a/d/f/a/ | "C"g/c/e/a/ g"tr"c | "G7"BA G"tr"f | "C"ed cc' |  "G"b/d/g/b/ "D7"a/d/^f/a/ |1 
+"G"gg gc :|2 "G"gg gd/e/ |:"G7"f/G/B/d/ gb | df f"tr"f | "C"e/G/c/e/ gc' | eg ge' | "G7"d'd c'd | bd ad |1 "C"gc eG | 
+ce ed/e/ :|2 gd/e/ f/G/A/B/ | "C"cc' c'z |: [K:F] "F"Ac a>g | fe dc | "C7"AB g>f | e2z2 | AB g>f | ed cB | 
+"F"Ac a/e/f/d/ | c2A2 | Ac a>g | fe dc | "Bb"B2d^c/d/ | b2zg | "C7"ec/c/ cg | "F"fc/c/ ca | "C7"gc de | "F"ff fz :|    
+% st09051
+X:4
+T:Schottisch  GC (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"tr"G |: "D7"FE D"tr"c | "G"BA Gg | "D7"f/2A/2d/2f/2 e/2A/2c/2e/2 | "G"d/2G/2B/2e/2 d"tr"G | "D7"FE D"tr"c | "G"BA Gg | "D"f/2A/2d/2f/2 "A7"e/2A/2^c/2e/2 |1 
+"D"dd dG :|2 "D"dd dA/2B/2 |:"D7"c/2D/2F/2A/2 df | Ac c"tr"c | "G"B/2D/2G/2B/2 dg | Bd db | "D7"aA gA | fA eA |1 "G"dG BD | 
+GB BA/2B/2 :|2 dA/2B/2 c/2D/2E/2F/2 | "G"Gg gz |: [K:C] "C"EG e>d | cB AG | "G7"EF d>c | B2z2 | EF d>c | BA GF | 
+"C"EG e/2B/2c/2A/2 | G2E2 | EG e>d | cB AG | "F"F2A^G/2A/2 | f2zd | "G7"BG/2G/2 Gd | "C"cG/2G/2 Ge | "G7"dG AB | "C"cc cz :| 
+% st09051
+X:5
+T:Schottisch G&D (tinwhistle in D) var.
+T:st09051 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"tr"G |: "D7"FE D"tr"c | "G"BA Gg | "D7"f/2A/2d/2f/2 e/2A/2c/2e/2 | "G"d/2G/2B/2e/2 d"tr"G | "D7"FE D"tr"c | "G"BA Gg | "D"f/2A/2d/2f/2 "A7"e/2A/2^c/2e/2 |1 
+"D"dd dG :|2 "D"dd dA/2B/2 |:"D7"c/2D/2F/2A/2 df | Ac c"tr"c | "G"B/2D/2G/2B/2 dg | Bd db | "D7"aA gA | fA eA |1 "G"dG BD | 
+GB BA/2B/2 :|2 dA/2B/2 c/2D/2E/2F/2 | "G"Gg gz |: [K:D] "D"FA f>e | dc BA | "A7"FG e>d | c2z2 | FG e>d | cB AG | 
+"D"FA f/2c/2d/2B/2 | A2F2 | FA f>e | dc BA | "G"G2B^A/2B/2 | g2ze | "A7"cA/2A/2 Ae | "D"dA/2A/2 Af | "A7"eA Bc | "D"dd dz :| 
+X:6
+T:Schottisch G&D (tinwhistle in D) var. solo
+T:st09051 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:G transpose=12
+TG |: FE DT"_c"c | BA Gg | f/2A/2d/2f/2 e/2A/2"_c"c/2e/2 | d/2G/2B/2e/2 dTG | FE DTc | BA Gg | f/2A/2d/2f/2 e/2A/2^c/2e/2 |1 
+dd dG :|2 dd dA/2B/2 |:"_c"c/2D/2F/2A/2 df | A"_c"c cTc | B/2D/2G/2B/2 dg | Bd db | aA gA | fA eA |1 dG BD | 
+GB BA/2B/2 :|2 dA/2B/2 "_c"c/2D/2E/2F/2 | Gg gz |: [K:D] FA f>e | dc BA | FG e>d | c2z2 | FG e>d | cB AG | 
+FA f/2c/2d/2B/2 | A2F2 | FA f>e | dc BA | G2B^A/2B/2 | g2ze | cA/2A/2 Ae | dA/2A/2 Af | eA Bc | dd dz :|
+% Aug 15, 2016

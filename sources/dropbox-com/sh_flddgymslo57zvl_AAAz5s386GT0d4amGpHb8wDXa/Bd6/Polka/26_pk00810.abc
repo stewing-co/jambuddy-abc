@@ -1,0 +1,80 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Polka  D
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.239 (pk00810) orig. D-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+((3a/b/c'/) |: "D"d'f ad | "A7"gg/f/e2 | c'e gc | "D"df/e/ d2 | 
+d'f ad | "A7"gg/f/e2 | a/b/c'/b/ a/g/f/e/ | "D"df/a/ d'z :| 
+% pk00810
+X:2
+T:Polka  G 7-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+((3d/2e/2f/2) |: "G"gB dG | "D7"cc/2B/2A2 | fA cF | "G"GB/2A/2 G2 | 
+gB dG | "D7"cc/2B/2A2 | d/2e/2f/2e/2 d/2c/2B/2A/2 | "G"GB/2d/2 gz :| 
+% pk00810
+X:3
+T:Polka  F 9-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+((3c/2d/2e/2) |: "F"fA cF | "C7"BB/2A/2G2 | eG BE | "F"FA/2G/2 F2 | 
+fA cF | "C7"BB/2A/2G2 | c/2d/2e/2d/2 c/2B/2A/2G/2 | "F"FA/2c/2 fz :| 
+% pk00810
+X:4
+T:Polka  C 2-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+((3g/2a/2b/2) |: "C"c'e gc | "G7"ff/2e/2d2 | bd fB | "C"ce/2d/2 c2 | 
+c'e gc | "G7"ff/2e/2d2 | g/2a/2b/2a/2 g/2f/2e/2d/2 | "C"ce/2g/2 c'z :| 
+% pk00810
+X:5
+T:Polka  C 14-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+((3G/2A/2B/2) |: "C"cE GC | "G7"FF/2E/2D2 | BD FB, | "C"CE/2D/2 C2 | 
+cE GC | "G7"FF/2E/2D2 | G/2A/2B/2A/2 G/2F/2E/2D/2 | "C"CE/2G/2 cz :| 
+X:6
+T:Polka D (tinwhistle in D)
+T:pk00810 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:Dmaj%%MIDI gchordon
+((3A/2B/2c/2) |: "D"dF AD | "A7"GG/2F/2E2 | cE GC | "D"DF/2E/2 D2 | 
+dF AD | "A7"GG/2F/2E2 | A/2B/2c/2B/2 A/2G/2F/2E/2 | "D"DF/2A/2 dz :| 
+X:7
+T:Polka D (tinwhistle in D) solo
+T:pk00810 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D transpose=12
+((3A/2B/2c/2) |: dF AD | GG/2F/2E2 | cE G"_=C"E | DF/2E/2 D2 | 
+dF AD | GG/2F/2E2 | A/2B/2c/2B/2 A/2G/2F/2E/2 | DF/2A/2 dz :| 
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 3, 2016

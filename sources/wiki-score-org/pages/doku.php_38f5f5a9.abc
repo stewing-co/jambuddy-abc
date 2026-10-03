@@ -1,0 +1,12 @@
+X:2409
+T:[Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:Eb
+V: 9 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 9 )]
+%--------
+[Q:"Presto"] Z5 || [Q:"Andante"] [K:C] g4- | g c'2 _b | a- a//=b//c'//a// g/>e/f/>d/ | cz2z | z(a//=b//c'//a//) g/>e/f/>d/ | cz2z | [Q:"Presto"] Z6 |]
+%--------

@@ -1,0 +1,149 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XIX. The lowest trees have tops,
+T:CANTUS.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+K:G dor
+d2 G > A B G d2 | z B A > A G2 
+w: The low- est trees have tops, the Ant her gall,
+w: Where wa- ters smooth- est run, deep are the foords,
+z B | A > B c A B/ c/ d2 ^c d4 |
+w: The flie her spleene, the lit- tle sparke his heate,
+w: The di- all stirres, yet none per- ceives it move:
+z F E D G3 ^F | G/ A/ B B A B4 |
+w: And slen- der haires cast sha- * dowes though but small,
+w: The firm- est faith is in * the few- est words,
+z B G c F3 B | A G/ F/ G G F4
+w: And Bees have stings al- though they * be not great.
+w: The Tur- tles can- not sing, and * yet they love,
+|: d2 c B A2 z D | F G c B A2
+w: Seas have their source, and so have shal- lowe springs,
+w: True hearts have eyes and ears, no tongues to speake:
+z z/ B/ | G z/ c/ A z/ d/ B c A > A G4 :|
+w: And love is love in beg- gers and in kings.
+w: They heare, and see, and sigh, and then they breake.
+
+
+X:2
+T:XIX. The lowest trees have tops,
+T:ALTUS.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+K:G dor
+G4 G,/ G,/ G, > G, G D2 _E D/ C/ =B,2 
+w: The low- est trees have tops, the Ant her * gall,
+w: Where wa- ters smooth- est run, deep are the * foords,
+D > E F/ G/ A3/2 G ^F/ G > A B A/ G/ ^F4
+w: The * flie her spleene, the * lit- tle sparke his * heate,
+w: The * di- all stirres, yet * none per- ceives it * move:
+D2 E F D3 D D > E F F D4
+w: And slen- der haires cast sha- dowes though but small,
+w: The firm- est faith is in the few- est words,
+F2 E F D3 G G/ F/ F2 E F4
+w: And Bees have stings al- though they be not great.
+w: The Tur- tles can- not sing, and yet they love,
+|: F > G A G ^F2 A2 D > D E/ F/ G ^F D/ E/ F/ E/ D/ C/ B,
+w: Seas * have their source, and so have shal- * lowe springs, shal- * * * low * springs,
+w: True * hearts have eyes and ears, no tongues * to speake, tongues * * * to * speake,
+z/ _E/ C z/ F/ D/ D/ E/ G/ G/ F/ E/ "(2)"^F/ G4 :|
+N:(2) Original is a quarter note.
+w: And love is love in beg- gers and * in * kings.
+w: They heare, and see, and sigh, and then * they * breake.
+
+
+
+X:3
+T:XIX. The lowest trees have tops,
+T:TENOR.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+%%MIDI transpose -12
+K:G dor -8va
+B2 B > c d _e d B > A G2 ^F G2
+w: The low- est trees have tops, the * Ant her gall,
+w: Where wa- ters smooth- est run, deep * are the foords,
+B > c d > d c2 d g/ f/ e > e d4
+w: The * flie her spleene, the lit- tle sparke his heate,
+w: The * di- all stirres, yet none per- ceives it move:
+N:The clef is printed here on the second line, but that's clearly a mistake
+A2 A A B G B A G d3/2 c// B// c B4
+w: And slen- der haires cast sha- dowes though but * * * small,
+w: The firm- est faith is in the few- est * * * words,
+d2 c c B3 d c B/ A G/ c A4
+w: And Bees have stings al- though they * be not great.
+w: The Tur- tles can- not sing, and * yet they love,
+|: B f2 d d3 A A B c/ A/ d d4
+w: Seas have their source, and so have shal- * lowe springs,
+w: True hearts have eyes and ears, no tongues * to speake:
+z/ G/ G z/ A/ "(1)"A z/ B/ G/ c A/ d =B4 :|
+N:(1) Original has a half note here.
+w: And love is love in beg- gers and in kings.
+w: They heare, and see, and sigh, and then they breake.
+
+
+X:4
+T:XIX. The lowest trees have tops,
+T:BASSUS.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+%%MIDI transpose -24
+K:G dor bass
+g3 G2 c B G g > g c d G2
+w: The low- est trees have tops, the Ant her gall,
+w: Where wa- ters smooth- est run, deep are the foords,
+g2 d/ e/ f/ g/ a > a g > d g a d4
+w: The flie * * her spleene, the lit- tle sparke his heate,
+w: The di- * * all stirres, yet none per- ceives it move:
+d2 ^c d G/ A/ B/ c/ d > c B/ A/ G F f B4
+w: And slen- der haires * * cast sha- * * * dowes though but small,
+w: The firm- est faith * * is in * * * the few- est words,
+B2 c A B3 G A d c c F4
+w: And Bees have stings al- though they be not great.
+w: The Tur- tles can- not sing, and yet they love,
+|: B/ c/ d/ e/ f g d4 d c/ B/ A G d/ e/ f/ e/ d/ c/ B
+w: Seas * * * have their source, and so have shal- lowe springs, shal- * * * low springs,
+w: True * * * hearts have eyes and ears, no tongues to speake, tongues * * * to speake:
+z/ e/ c z/ f/ d z/ g/ c/ c/ d d G4 :|
+w: And love is love in beg- gers and in kings.
+w: They heare, and see, and sigh, and then they breake.
+

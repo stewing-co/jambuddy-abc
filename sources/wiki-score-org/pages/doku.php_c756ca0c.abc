@@ -1,0 +1,21 @@
+X:507
+T:N.7 Um pouco mais...
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 7 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%---- edit between the lines -----
+[K:6/8] [D,F,A,D]/>[G,B,D]/[D,F,A,D]/ [B,,F,,B,] !arpeggio![A,,E,A,C]/ |
+!ped!(3/2D,,//A,,//D,// x/ (3/2F//A//e// x/ [D,F,A,D]/[E,G,A,E]/ | \
+[F,A,DF]/>[=F,_B,D=F]/[^F,A,D^F]/ [G,B,DG]/[F,A,DF]/[D,F,A,D]/ | \
+[F,A,C]//([F,A,C]//[F,A,C]) [A,,E,A,C] [D,F,A,D]/ & x/ !ped!((3/2 A,,,//E,,//A,,// (3/2C,//E,//A,//)|
+[E,A,CE]/>[FA=CF]/[E,A,^CE]/ !arpeggio![A,E,C] !arpeggio![F,,C,A,]/ | \
+!ped!((3/2A,,//E,//A,// z/ [I: staff -1] "^m.s." (3/2c//e//a//) [I: staff +1] x/ !arpeggio![G,,C,E,B,]/ [F,,D,G,]/ |\
+[E,,B,,G,]/>[^D,,B,,F,]/[E,,B,,G,]/ !arpeggio![A,,E,C]/!arpeggio![A,,E,C]/!arpeggio![A,,E,C]/ ||
+[M:3/8] [D,F,A,D] [D,F,^A,D]/ & z/ [D,,,D,,] || [M:6/8] [G,,D,B,]/>[D,,D,]/ [G,,D,B,]/ [I: staff -1] [EGB]/[I: staff +1][E,G,B,]/[E,,E,,,]/|
+"_[check ms, cf triplets]" [F,,,F,,]3/2 A,,3/2  | A,,3/2 A,,3/2 |
+X | x x .B/.c/ & !arpeggio![CEG] !arpeggio![BEG] !arpeggio![A,EG]- | x !fermata!!>!B2 & !ppp! !fermata![A,EG]3 ||
+%---------------------------------

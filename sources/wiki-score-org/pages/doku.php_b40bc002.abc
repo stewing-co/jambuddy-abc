@@ -1,0 +1,14 @@
+X:401
+T:Menuet
+C:Giuseppe Tartini (1692-1770)
+M:3/4
+L:1/4
+K:A
+V: 1 clef=treble name="Violino" sname="Vl."
+%%MIDI program 1 40
+%%staves  1
+%----- edit between the lines ----
+(ef)e | e !trill! d c | (ef)e & cdc | e x2 & (c!trill!B)A | e (a/f/)(a/e/) | (e!trill!d)c | c (B/>c/d/>c/) & A A2 | {c}B3 & E3 :| B ((e/<c/)(e/<B/)) | (B !trill!A)G | \
+BBB & ((3F/E/F/) ((3G/F/G/) ((3A/G/A/) | BBx & ((3G/A/G/ (3F/G/F/) E | e ((a/<f/)(a/<e/)) | (e!trill!d)c | eee & ((3B/A/B/) ((3c/B/c/) ((3d/c/d/) | ee x & ((3c/d/c/ (3B/c/B/) A | =g x/g/ x/g/ & e (A/e/)(A/e/) | f3 & e2d | \
+f x/f/ x/f/ & d (A/d/)(A/d/) | e3 & d2c | ((3a/b/a/ (3g/a/g/ (3f/g/f/) & AAA| ((3e/f/e/ (3d/e/d/ (3c/B/c/) & Axx | ((3d/c/B/) !trill! B2 & DE2 | A3 |]
+%---------------------------------

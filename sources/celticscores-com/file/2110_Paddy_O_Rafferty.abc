@@ -1,0 +1,41 @@
+X:1
+T: Paddy O'Rafferty
+C: (arr. 8leen8)
+M:6/8
+Q:3/8=90
+V:1 clef=treble
+V:2 clef=bass
+%%staves [1 2]
+K:G
+V:1
+D|GAB D2D|GAB AGE|GAB D2E|GAG GED|
+V:2
+z|[G,,G,]6|[C,,C,]3 [D,,D,]3|[G,,G,]3-[G,,G,]2 [C,,C,]|-[C,,C,]3 [D,,D,]3|
+V:1
+GAB D2D|GAB d2e|dBA AGA|BGF G2D|
+V:2
+[G,,G,]6|[C,,C,]6|[D,,D,]3-[D,,D,]2 [D,,D,]|-[D,,D,]3[G,,G,]3|
+V:1
+GAB D2D|GAB AGE|GAB D2E|GAG GED|
+V:2
+[G,,G,]6|[C,,C,]3 [D,,D,]3|[G,,G,]3-[G,,G,]2 [C,,C,]|-[C,,C,]3 [D,,D,]3|
+V:1
+GAB D2E|GAB d2e|dBA AGA|BGF G2B|
+V:2
+[G,,G,]6|[A,,A,]6| [B,,B,]3- [B,,B,]2 [D,D]|-[D,D]3 [G,,G,]3|
+V:1
+dBB dBB|dcB A2B|ded B2B|AGF G2B|
+V:2 
+[G,B,D]3 -[G,B,D]2 F,|-F,3 E,3|C,3 -C,2 D,|-D,3 G,3|
+V:1
+dBB dBB|def g2e|dBA AGA|BGF G2B| 
+V:2
+[G,B,D,]6| [C E G]6|D3 -D2 D|-D3 G3|
+V:1
+dBB dBB|dcB A2B|ded B2B|AGF G2B|
+V:2 
+[G,B,D]3 -[G,B,D]2 F,|-F,3 E,3|C,3 -C,2 D,|-D,3 G,3|
+V:1
+dBB dBB|def g2e|dBA AGA|BGF G2B|]
+V:2
+[G,B,D,]6|-[G,B,D,] [CEG]2-[CEG]3|D3 -D2 D|-D3 G,3|]

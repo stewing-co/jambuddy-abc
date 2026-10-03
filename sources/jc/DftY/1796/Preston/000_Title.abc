@@ -1,0 +1,34 @@
+X: 000
+T: Twenty Four Country Dances for the Year 1796
+Z: 2014 John Chambers <jc:trillian.mit.edu>
+N: As of mid-August 2014, the last four tunes/dances are missing from the VWML version of this collection.
+B: Preston & Son, eds "Twenty Four Country Dances for the Year 1796", London 1796
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-prestons1796# 2014-8-10
+K:
+%%center Preston's
+%%center Twenty four COUNTRY DANCES for the Year 1796
+%%center With proper Tunes & Directions to each Dance,
+%%center as they are performed at
+%%center COURT, BATH, and all PUBLIC ASSEMBLIES
+%%center -----------------------------------
+%%center London, Printed & Sold by Preston & Son, at their Wholesale Warehouses 97 Strand
+%%begintext align
+%% Transcription notes:
+%%
+%% The tune numbers below the clef and key signature are used in the file names to preserve the dance order.
+%% Many abbreviations use small superscript letters with a dot underneath.
+%% Common terms like "1st", "2d" and "3d" are transcribed without the dots.
+%% Uncommon abbreviations includ the ".", to set off the letter(s) printed as a superscript.
+%% The original staff breaks are ignored, and the music is formatted to (mostly) have 4 or 8 bars per line.
+%% The lines are joined into staffs to look good at a small scale, but you may want to reformat the staffs.
+%% The dance descriptions are mostly transcribed with the original line breaks, but this isn't significant.
+%%
+%%   The file names start with the tune's number.
+%% But there are two "283" tunes in the collection, and no "292" tune,
+%% so the tunes in that range have been renumbered to make them tunes 284-292.
+%%endtext
+%%center -----------------------------------
+
+% Remove the first space to enable these for the whole collection:
+% %slurgraces yes
+% %graceslurs yes

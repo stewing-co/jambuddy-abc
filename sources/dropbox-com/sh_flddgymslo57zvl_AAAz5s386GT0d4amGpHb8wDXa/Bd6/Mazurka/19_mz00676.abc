@@ -1,0 +1,90 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Leigger-Mazurka (nach Seewer Seppi) GC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.247 (mz00676) orig. G,C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"d>^c d>gB2 | "D7"Bc A2A2 | c>B c2f2 | "G"g2fed2 | d>^c d>gB2 | "D7"BcA2A2 | 
+c>B c2f2 | "G"g2g2z2 :: "D7"f>e d2c2 | "G"B>e d2B2 | "D7"A>dc3F | "G"GA Bc de | 
+"D7"f>ed2c2 | "G"B>ed3B | "D7"Ac df ab | "G"g2g2z2 :: [K:C] "C"G>ce2d2 | c2B>AG2 | 
+"G7"g2B>AB2 | "C"g2c>Bc2 | G>ce2d2 | c2B>AG2 | g2c>e "G7"d>B | "C"c2c2z2 :| 
+X:2
+T:Leigger-Mazurka (nach Seewer Seppi) CF 7-
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"G>^F G>cE2 | "G7"EF D2D2 | F>E F2B2 | "C"c2BAG2 | G>^F G>cE2 | "G7"EFD2D2 | 
+F>E F2B2 | "C"c2c2z2 :: "G7"B>A G2F2 | "C"E>A G2E2 | "G7"D>GF3B, | "C"CD EF GA | 
+"G7"B>AG2F2 | "C"E>AG3E | "G7"DF GB de | "C"c2c2z2 :: [K:F] "F"C>FA2G2 | F2E>DC2 | 
+"C7"c2E>DE2 | "F"c2F>EF2 | C>FA2G2 | F2E>DC2 | c2F>A "C7"G>E | "F"F2F2z2 :| 
+% mz00676
+X:3
+T: Leigger-Mazurka (nach Seewer Seppi) GC (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"d>^c d>gB2 | "D7"Bc A2A2 | c>B c2f2 | "G"g2fed2 | d>^c d>gB2 | "D7"BcA2A2 | \
+c>B c2f2 | "G"g2g2z2 ::
+ "D7"f>e d2c2 | "G"B>e d2"_ ="B2 | "D7"A>dc3F | "G"GA Bc de | \
+"D7"f>ed2c2 | "G"B>ed3B | "D7"Ac df ab |
+ "G"g2g2z2 :: [K:C] "C"G>ce2d2 | c2B>AG2 | \
+"G7"g2B>AB2 | "C"g2c>Bc2 | G>ce2d2 | c2B>AG2 | g2c>e "G7"d>B | "C"c2c2z2 :| 
+% mz00676
+X:4
+T:Leigger-Mazurka (nach Seewer Seppi) CF (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"G>^F G>cE2 | "G7"EF D2D2 | F>E F2B2 | "C"c2BAG2 | G>^F G>cE2 | "G7"EFD2D2 | \
+F>E F2B2 | "C"c2c2z2 ::
+ "G7"B>A G2F2 | "C"E>A G2E2 | "G7"D>GF3B, | "C"CD EF GA | \
+"G7"B>AG2F2 | "C"E>AG3E | "G7"DF GB de |
+ "C"c2c2z2 :: [K:F] "F"C>FA2G2 | F2E>DC2 | \
+"C7"c2E>DE2 | "F"c2F>EF2 | C>FA2G2 | F2E>DC2 | c2F>A "C7"G>E | "F"F2F2z2 :| 
+% mz00676
+X:5
+T:Leigger-Mazurka (nach Seewer Seppi) D&G/D (tinwhistle in D)
+T:mz00676 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"A>^G A>dF2 | "A7"FG E2E2 | G>F G2c2 | "D"d2cBA2 | A>^G A>dF2 | "A7"FGE2E2 | 
+G>F G2c2 | "D"d2d2z2 :: "A7"c>B A2G2 | "D"F>B A2F2 | "A7"E>AG3C | "D"DE FG AB | 
+"A7"c>BA2G2 | "D"F>BA3F | "A7"EG Ac ef | "D"d2d2z2 :: [K:G] "G"D>GB2A2 | G2F>ED2 | 
+"D7"d2F>EF2 | "G"d2G>FG2 | D>GB2A2 | G2F>ED2 | d2G>B "D7"A>F | "G"G2G2z2 :| 
+X:6
+T:Leigger-Mazurka (nach Seewer Seppi) D&G/D (tinwhistle in D) solo
+T:mz00676 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+A>^G A>dF2 | FG E2E2 | G>F G2c2 | d2cBA2 | A>^G A>dF2 | FGE2E2 | \
+G>F G2c2 |
+ d2d2z2 :: c>B A2G2 | F>B A2F2 | E>AG3"_=C"E | DE FG AB | \
+c>BA2G2 | F>BA3F | EG Ac ef |
+ d2d2z2 :: D>GB2A2 | G2F>ED2 | \
+d2F>EF2 | d2G>FG2 | D>GB2A2 | G2F>ED2 | d2G>B A>F | G2G2z2 :|  
+
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 7, 2016
+

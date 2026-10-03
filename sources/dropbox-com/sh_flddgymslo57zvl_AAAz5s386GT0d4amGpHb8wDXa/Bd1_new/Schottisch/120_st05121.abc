@@ -1,0 +1,30 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Der Hans (Schottisch) CBb chords parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.372 (st05121) orig. C,Bb-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+[P:A] "C"G>c cc | "G7"BfB2 | G>f fB | "C"cec2 | G>c cc | "G7"BfB2 | G>f fB | "C"cc/c/ c2 :| 
+[P:B] |: "F"f>A Af | "C"e>G Ge | "G7"dG AB | "C"c/d/e/f/ ge | "F"f>A Af | "C"e>G Ge | "G7"dG AB | "C"cc/c/ cz :| 
+[P:C] |: [K:Bb]  "Bb"((3fgf) b>b |  ((3fgf) d2 | "F7""_es"e>d cf | "Bb"d>cB2 | ((3fgf) b>b | ((3fgf) d2 | "F7""_es"e>d c>A | "Bb"BB/B/ B2 :| 
+% June 8, 2016
+X:2
+T:Der Hans (Schottisch) GF 5- chords
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"D>G GG | "D7"FcF2 | D>c cF | "G"GBG2 | D>G GG | "D7"FcF2 | D>c cF | "G"GG/2G/2 G2 :| 
+|: "C"c>E Ec | "G"B>D DB | "D7"AD EF | "G"G/2A/2B/2c/2 dB | "C"c>E Ec | "G"B>D DB | "D7"AD EF | "G"GG/2G/2 Gz :| 
+|: [K:F] "F"((3cdc) f>f | ((3cdc) A2 | "C7"B>A Gc | "F"A>GF2 | ((3cdc) f>f | ((3cdc) A2 | "C7"B>A G>E | "F"FF/2F/2 F2 :| 
+X:3
+T:Der Hans (Schottisch) GF (5letras transposed)
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"D>G GG | "D7"FcF2 | D>c cF | "G"GBG2 | D>G GG | "D7"FcF2 | D>c cF | "G"GG/2G/2 G2 :| 
+|: "C"c>E Ec | "G"B>D DB | "D7"AD EF | "G"G/2A/2B/2c/2 dB | "C"c>E Ec | "G"B>D DB | "D7"AD EF | "G"GG/2G/2 Gz :| 
+|: [K:F] "F"((3cdc) f>f | ((3cdc) A2 | "C7"B>A Gc | "F"A>GF2 | ((3cdc) f>f | ((3cdc) A2 | "C7"B>A G>E | "F"FF/2F/2 F2 :| 

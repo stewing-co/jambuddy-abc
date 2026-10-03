@@ -1,0 +1,25 @@
+X:101
+T:Trio IV (Posato)
+C:Costa, Abade António da (1714-c1780)
+M:C
+L:1/4
+K:F
+V: 1 clef=treble name="Violino I.mo" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [ 1 ]
+%----- edit between the lines
+[Q:"Posato"] "_[fol.1v (7)]" z(fc2 | c)(dB)(G | A)(c3 | E)(GF)(A | G)(fc2 | c)(dB)(G |
+A)(c2A | =B)(d2B) | (d/<c/ =B2)(=b | =bee/>)(=g/=f | e3) (a | add/>)(=f/_e | d3) (g |
+gcc/>)(_e/_d | c3)(=d | =B)(c2A | d) G2(d | g4 | g)(c=Bd) |( g4 |
+g3^f) | (ag3 | g2a)(_b | ba) (g/>b/a | agg/>)(e/f | fee/>)(f/d |
+g2g/>)(_b/a | dgg/>)(b/a | agg/>)(e/f | fee/>)(f/d | g/>)(d/c2=B) | (dc/>e/
+c>)z :|: z (c'g2 | g)(af)(d | e) (g3 | =B)(dc)(e | d) (c'g2 | g)(af)(d |
+e)(g2e | ^f)(a2f) | (a/<g/^f2) =b | (^d2e2) | (^f2g2) | =B3.=b |
+"_[fol.2 (8)]" (^d2e2 | e^d) z (^f | ^f^d2)(e | e ^c2) (=d | d =B)(=c2 |
+c_B)(A2 | A^G)(A2 | A^G)z.e | (=G2A2) | (=B2c2) |
+.E3.e | (^G2A)(=G | G^F)z(a | a^f2)(=g | g=e2)(=f | fd)(=e2 | e=d)(c2 |
+c=Bc)(_B | B=A)z (B | B=A)(B2 | B=GA)(=D | G4 | G^F) z (G | G^F)(G2 | ^F)(G2=F |
+F=E)(F2 | =E3)(=e | ef)(c2 | c=d).G(c | cd) (c2 | cd) (_e2 | _edc/>)(_e/d | dc
+c/>)(A/ B | BAA/>)(B/G | c2 c/>)(_e/ d | Gcc/>)(_e/d | dcc/>)(A/B | B A A/>B/A |
+c/>)(F/F2E) | (F F/>A/ F)>z :|]
+%---------------------------------

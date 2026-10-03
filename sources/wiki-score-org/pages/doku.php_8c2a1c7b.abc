@@ -1,0 +1,20 @@
+X:1107
+T:N.11 Raymundo
+C:Fonseca, Eduardo da (1863-1938)
+M:4/4
+L:1/4
+K:G
+V: 7 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%--
+[Q:"Marcial"] (3d/d'/d/ (3d'/d/d'/ (3d/e/d/ (3c/B/A/ | (3G/G/B/ (3d/B/d/ [GBg]/z/z/ D/  !segno!|| \
+(G [B,D]/)z//G// (A [CD]/)z//A// | B/x/x3 & (3B/G/B/ (3d/B/d/ (3g/d/B/ G/z/ | \
+[DFc][DFc][DGB]/>A/ [^CG]/>B/ | (3[DA]/D/F/ (3A/F/A/ d/z/ z/D/ | (G[B,D])A[CD]/>A/ | \
+(3z/D/G/  (3B/G/B/ (3d/B/d/  (3g/d/G/ | (3z/A/d/  (3f/d/f/ (3a/e/^c/ (3A/G/E/ | \
+(3D/F/A/  (3d/f/a/  (3d'/d/d'/ (3d/d'/d/ | (3d'/d/d'/ (3d/d'/d/ (3d'/d/d'/ (3d/d'/d/ | \
+(3d'/d/f/ (3a/f/a/ d [cc'] | (3b/B/b/ (3B/b/B/ (3b/B/b/ (3B/b/B/ | \
+(3b/B/^d/ (3f/d/f/ b !>![_b_B] | (3[Aa]/E/A/ (3c/A/c/  (3e/c/A/ E/z/ | \
+(3z/D/G/ (3B/G/B/ (3d/B/G/ D/z/ | (3z/D/F/ (3A/F/A/ (3d/e/d/ (3c/B/A/ | \
+(3z/G/B/ (3d/B/d/ [GBg]/z/ z |] \
+%--

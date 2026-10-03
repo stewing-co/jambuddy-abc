@@ -1,0 +1,72 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Namenlos (nach G. Linder) Mazurka  GDC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.309 (mz06024) orig. G,D,C-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"Bd ^cd gf | "tr""Am"f2e2e2 | "D7"de fd ba | "tr""G"ag fe dc | Bd ^cd gf | "tr""Am"f2e2e2 | "D7"de fd ba | "G"g2g2z2:: [K:D]
+"D"fa ^ga ba | df ^ef gf | "tr""A7"f2 eA eA | "tr""D"e2 dA dA | fa ^ga ba | df ^ef gf | "tr""A7"f2 eA ac | "D"d2d2z2 :| [K:G]
+"D7"c'>b a3d | "G"b>ag3d | "D7"f2fe dc | "tr""G"e2d2d2 | "D7"c'>b a3d | "G"b>ag3d | "D7"f>e dc' fa | "G"g2g2z2 || [K:C] 
+"C"e>f g3c' | "G7"ba d2 de | fe de fb | "C"ag ecG2 | eaa3e | "tr""G7"g2f2f2 | fbb3f | "tr""C"a2g2g2 | 
+e>f g3c' | "G7"ba d2de | fe de fb | "C"ag ecG2 | eg ^fg ag | "F"fa ^ga ba | "G7"bg eg fd | "C"c2c'2z2 |] 
+% mz06024
+X:2
+T:Namenlos (nach G. Linder) Mazurka  CGF 7-
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"EG ^FG cB | "tr""Dm"B2A2A2 | "G7"GA BG ed | "tr""C"dc BA GF | EG ^FG cB | "tr""Dm"B2A2A2 | "G7"GA BG ed | "C"c2c2z2:: [K:G]
+"G"Bd ^cd ed | GB ^AB cB | "tr""D7"B2 AD AD | "tr""G"A2 GD GD | Bd ^cd ed | GB ^AB cB | "tr""D7"B2 AD dF | "G"G2G2z2 :| [K:C]
+"G7"f>e d3G | "C"e>dc3G | "G7"B2BA GF | "tr""C"A2G2G2 | "G7"f>e d3G | "C"e>dc3G | "G7"B>A Gf Bd | "C"c2c2z2 || [K:F] 
+"F"A>B c3f | "C7"ed G2 GA | BA GA Be | "F"dc AFC2 | Add3A | "tr""C7"c2B2B2 | Bee3B | "tr""F"d2c2c2 | 
+A>B c3f | "C7"ed G2GA | BA GA Be | "F"dc AFC2 | Ac =Bc dc | "Bb"Bd ^cd ed | "C7"ec Ac BG | "F"F2f2z2 |] 
+% mz06024
+X:3
+T:Namenlos (nach G. Linder) Mazurka  CGF (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"EG ^FG cB | "tr""Dm"B2A2A2 | "G7"GA BG ed | "tr""C"dc BA GF | EG ^FG cB | "tr""Dm"B2A2A2 | "G7"GA BG ed | "C"c2c2z2:: [K:G]
+"G"Bd ^cd ed | GB ^AB cB | "tr""D7"B2 AD AD | "tr""G"A2 GD GD | Bd ^cd ed | GB ^AB cB | "tr""D7"B2 AD d"_#"F | "G"G2G2z2 :| [K:C]
+"G7"f>e d3G | "C"e>dc3G | "G7"B2BA GF | "tr""C"A2G2G2 | "G7"f>e d3G | "C"e>dc3G | "G7"B>A Gf Bd | "C"c2c2z2 || [K:F] 
+"F"A>B c3f | "C7"ed G2 GA | BA GA Be | "F"dc AFC2 | Add3A | "tr""C7"c2B2B2 | Bee3B | "tr""F"d2c2c2 | 
+A>B c3f | "C7"ed G2GA | BA GA Be | "F"dc AFC2 | Ac =Bc dc | "Bb"Bd ^cd ed | "C7"ec Ac BG | "F"F2f2z2 |] 
+% mz06024
+X:4
+T:Namenlos (nach G. Linder) Mazurka DA&G (tinwhistle in D)
+T:mz06024 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"FA ^GA dc | "tr""Em"c2B2B2 | "A7"AB cA fe | "tr""D"ed cB AG | FA ^GA dc | "tr""Em"c2B2B2 | "A7"AB cA fe | "D"d2d2z2:: [K:A]
+"A"ce ^de fe | Ac ^Bc dc | "tr""E7"c2 BE BE | "tr""A"B2 AE AE | ce ^de fe | Ac ^Bc dc | "tr""E7"c2 BE eG | "A"A2A2z2 :| [K:D]
+"A7"g>f e3A | "D"f>ed3A | "A7"c2cB AG | "tr""D"B2A2A2 | "A7"g>f e3A | "D"f>ed3A | "A7"c>B Ag ce | "D"d2d2z2 || [K:G] 
+"G"B>c d3g | "D7"fe A2 AB | cB AB cf | "G"ed BGD2 | Bee3B | "tr""D7"d2c2c2 | cff3c | "tr""G"e2d2d2 | 
+B>c d3g | "D7"fe A2AB | cB AB cf | "G"ed BGD2 | Bd ^cd ed | "C"ce ^de fe | "D7"fd Bd cA | "G"G2g2z2 |] 
+X:5
+T:Namenlos (nach G. Linder) Mazurka DA&G (tinwhistle in D) solo
+T:mz06024 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+FA ^GA dc | Tc2B2B2 | AB cA fe | Ted cB AG | FA ^GA dc | Tc2B2B2 | AB cA fe | d2d2z2:: [K:A]
+ce ^de fe | Ac "_c"^Bc dc | Tc2 BE BE | TB2 AE AE | ce ^de fe | Ac ^Bc dc | Tc2 BE e"_#"G | A2A2z2 :| [K:D]
+g>f e3A | f>ed3A | c2cB AG | TB2A2A2 | g>f e3A | f>ed3A | c>B Ag ce | d2d2z2 || [K:G] 
+B>"_c"c d3g | fe A2 AB | "_c"cB AB cf | ed BGD2 | Bee3B | Td2"_c"c2c2 | "_c"cff3c | Te2d2d2 | 
+B>"_c"c d3g | fe A2AB | "_c"cB AB cf | ed BGD2 | Bd ^cd ed | ce ^de fe | fd Bd "_c"cA | G2g2z2 |]
+% July 16, 2016
+

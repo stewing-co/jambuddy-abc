@@ -1,0 +1,44 @@
+X:1402
+T:N.18-19
+C:Antonio Thomaz de Lima
+M:C
+L:1/4
+K:B
+V: 2 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+%----------- edit between the lines ------------
+!fff! !>![Bf] z/ !8va(! c//d// e//d//c//B// B//c//B//G// !8va)! |\
+Z3 |\
+!mf! z/ .[EC]/.[EC]/ z/ z/ .B,/.B,/ z/ |\
+z/ .=A,/.A,/ z/ z/ .[=DG,]/.[=DG,]/ z/ |\
+z/ .[=DG,]/.[=DG,]/ z/z/ .[=CE]/.[CE]/ z/ |\
+z/ .[=D=G,]/.[DG,]/ z/z/ .[=CE]/.[CE]/ z/ || \
+[M:2/4]
+Z ||\
+[M:C]
+!fff! [B,Fd]/ z/ z2 [A,Ec]/ z/ |\
+[B,Ge]/ z/ z2 [=A,F=d]/ z/ |\
+[=G,E=c=g]/ !downbow!=C/!downbow!C/!downbow!C/ !>!=D/>C/ B,//B,//B,//B,// |\
+!>!=C/>D/ C/E/ !>!=D/=F//D// !>!C/!>!G,/ |\
+!>!A,/ !mf! .=G//.G// .G//.G//.G//.G// !>!F/>.F/ .F/.F/ |\
+!>!=G/>.F/ .E/ [=GE=c=g]/ [G,=Dbg] [G,=Dbg] |\
+[=GE=c=g] [=GE=c=g] [=D=Af]/[=D=Af]/ [EB^g]/[EBg]/ |\
+"arco" [=G,E=ce]/ z/ z [G,=D=d]/ z/ z |\
+[G,E=ce]/ z/ z [=G,DB]/ z/ z |\
+z/ !8va(! !downbow!=C !downbow!=d/ !downbow!d/!downbow!c/ !downbow!d/!downbow!_B/ |\
+=c/ !8va)! z/ z3 |\
+z3 z/ !ff! !>![ef]/ ||\
+[M:4/8]
+!///![Bf]>!//![ca] |\
+!//![db]/!//![Bg]/ !//![cg]/!//![Af]/ |\
+!//![db]/!//![Bg]/ !//![cg]/!//![Af]/ |\
+!//![db]/!//![Bg]/ !//![cg]/!//![Af]/ |\
+!//![bf]/!//![bf]/ !///![=a=A] |\
+!//![df]/!//![Bf]/ !///![=A,=A] |\
+!//![FC]/!//![FB,]/ !//!A,/ !>!!//!B,/ |\
+!//![FA]/!>!!//![Fd]/ !//![ca]/!>!!//![db]/ |\
+!///![db]2 |\
+!sfz!(G,2 |\
+G,) z ||
+%-----------------------------------------------

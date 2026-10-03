@@ -1,0 +1,172 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XI. Lend your eares to my sorrow
+T:CANTUS.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on first line
+K:A min
+|: A B c3 B > A G2 ^F G2 |
+w: 1.~Lend your eares to my sor- * row 
+w: For no eyes wil I bor- * ow 
+w: 2.~Once I liv'd, once I knew de- light, 
+w: Grac'd with love, cheer'd with beau- ties sight,
+w: 3.~Cold as Ice fro- zen is that hart,
+w: Such of life reape the poor- est part
+B c2 d e c B e d > c c2 :|
+w: Good peo- ple that have a- ny pi- * tie:
+w: Mine own shal grace, my dole- ful dit- * ty:
+w: No griefe did sha- dowe then my plea- * sure
+w: I joyed a- lone true heav'n- ly trea- * sure,
+w: Where thought of love could no time en- * ter:
+w: Whose weight cleaves to this earth- ly cen-  * ter,
+z2 e3 d/ c/ B ^G | A d > d c B B 
+w: Chant then my voice though rude like to my ri- ming, 
+w: O what a Heav'n is love firme- ly em- brac- ed,
+w: Mu- tu- all joies in hearts tru- ly u- ni- ted
+z E | c3 B/ A/ ^G A B > B | [M:3/4] A2 G G2 
+w: And tell foorth my griefe which here in sad des- paire
+w: Such power a- * lone can fixe de- light
+w: Doe earth to _ heaven- ly state con- vert
+G [M:C][L:1/4] | A > B c3 d/ c/ B > A A4 |]
+w:  Can find no ease of tor- men- * ting.
+w: In For- tunes bo- some e- ver _  plac- * ed.
+w: Like heav'n still in it- selfe de- * light- * ed.
+
+X:2
+T:XI. Lend your eares to my sorrow
+T:ALTUS.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on third line
+K:A min
+|: E E E2 E2 E F D2 
+w: 1.~Lend your eares to my sor- row 
+w: For no eyes wil I bor- ow 
+w: 2.~Once I liv'd, once I knew de- light, 
+w: Grac'd with love, cheer'd with beau- ties sight,
+w: 3.~Cold as Ice fro- zen is that hart,
+w: Such of life reape the poor- est part
+^C2 G F/ F/ "?"E D/ D/ G G2 G/ G/ G > F E2 :|
+w: Good peo- ple, good * peo- ple that have a- ny pi- * tie:
+w: Mine own, mine * own, shal grace, my dole- ful * dit- * ty:
+w: No griefe, no * griefe did sha- dowe then my plea- * sure
+w: I joyed, I * joyed a- lone true heav'n- ly trea- * sure,
+w: Where thought, where * thought of love could no time en- * ter:
+w: Whose weight, whose * weight cleaves to this earth- ly cen- * ter,
+z2 G  G/ A/ E2 E2 D2 E E/ E/ E > D ^C 
+w: Chant then my voice though rude like to my ri- * ming, 
+w: O what a Heav'n is love firme- ly em- brac- * ed,
+w: Mu- tu- all joies in hearts tru- ly u- ni- * ted
+z/ A,/ E3 D/ C/ B, C D > D [M:3/4] D2 D C2
+w: And tell foorth my griefe which here in sad des- paire
+w: Such power a- * lone can fixe de- light
+w: Doe earth to heav- en- ly state con- vert
+ D [M:C][L:1/4]E > E E3 F/ F/ E > D ^C4 |]
+w:  Can find no ease of tor- men- * ting.
+w: In For- tunes bo- some e- ver * plac- * ed.
+w: Like heav'n still in it- selfe de- * light- * ed.
+
+
+X:3
+T:XI. Lend your eares to my sorrow
+T:TENOR.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -12
+N: Original clef, C on fourth line
+K:A min -8va
+|:c B A2 ^G2 A2 B2 E
+w: 1.~Lend your eares to my sor- row 
+w: For no eyes wil I bor- ow 
+w: 2.~Once I liv'd, once I knew de- light, 
+w: Grac'd with love, cheer'd with beau- ties sight,
+w: 3.~Cold as Ice fro- zen is that hart,
+w: Such of life reape the poor- est part
+e e2 A2 B e d/ e/ c2 B c2 :|
+w: Good peo- ple that have a- ny pi- * tie:
+w: Mine own shal grace, my dole- ful dit- * ty:
+w: No griefe did sha- dowe  my plea- * sure
+w: I joyed a- lone  heav'n- ly trea- * sure,
+w: Where thought of love could not en- * ter:
+w: Whose weight cleaves to this * cen- * ter,
+e3 d/ c/ B > A ^G B A B B/ B/ A2 ^G 
+w: Chant then my voice, my voice though rude like to my ri- ming, 
+w: O what a Heav'n, a Heav'n is love firme- ly em- brac- ed,
+w: Mu- tu- all joies in hearts tru- ly u- * * ni- ted
+%put dotted quarter eighth back when score is proofed
+%A c2 B/ A/ ^G A E2 G G [M:3/4]  A  ^F G E2 
+A c2 B/ A/ ^G A E2 G G > A [M:3/4] ^F G E2 
+w: And tell foorth my griefe which here in sad des- paire
+w: Such power a- * lone can fixe de- light
+w: Doe earth to * heaven- ly state con- vert
+G C [M:C][L:1/4] c2 B/ A/ ^G A2 ^G A4 |]
+w:  Can find no ease of tor- * men- * * ting.
+w: In For- tunes bo- some e- ver pla- * * * * ced.
+w: Like heav'n still in it- selfe de- light- * * * * ed.
+
+
+X:4
+T:XI. Lend your eares to my sorrow
+T:BASSUS.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -24
+K:A min bass
+|: a ^g a2 e > d ^c d B2 A2
+w: 1.~Lend your eares to _  my _ sor- row 
+w: For no eyes wil _ I _ bor- ow 
+w: 2.~Once I liv'd, once I knew de- light, _
+w: Grac'd with love, cheer'd with beau- ties sight, _
+w: 3.~Cold as Ice fro- zen is that hart, _
+w: Such of life reape the poor- est part _
+e a > g f e > f g e g2 c2 :|
+w: Good peo- *  ple that have a- ny pi- tie:
+w: Mine own shal grace, my * dole- ful dit- ty:
+w: No griefe did sha- dowe * then my plea- sure
+w: I joyed a- lone true * heav'n- ly trea- sure,
+w: Where thought of love could no time * en- ter:
+w: Whose weight cleaves to this * earth- ly cen- ter,
+c'3 b/ a/ ^g a e2 ^f2 ^g a e > e 
+w: Chaunt it my voice though rude like to my ri- ming, 
+w: O what a Heav'n is love firme- ly em- brac- ed,
+w: Mu- tu- all joies in hearts tru- ly u- ni- ted
+A a2 g/  f/ e3 d/ c/ B G [M:3/4]d2 G c2 B 
+w: And tell foorth my griefe which * here in sad des- paire
+w: Such power a- * lone can * fixe de- light
+w: Doe earth to * heaven- ly * state con- vert
+[M:C][L:1/4]A3 G/ F/ E D E2 A4 |]
+w:  Can find no ease of tor- men- ting.
+w: In For- tunes bo- some * e- ver pla- ced.
+w: Like heav'n still in it- * selfe de- light- ed.

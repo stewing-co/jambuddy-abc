@@ -1,0 +1,29 @@
+X:1
+T:Polska efter Blank Anders
+T:Polska from the playing of Blank Anders
+L:1/16
+M:3/4
+C:Trad arr. © 2019 Ben Paley
+O:Dalarna, Sweden
+Q:1/4=87
+R:Polska
+D:Kalle Almlöf, Björn Ståbi and Pers Hans, "Tre Spelmän"
+D:Ben Paley, "Homunculus Mellitus", 2019
+Z:Ben Paley <ben.paley@benpaley.com>
+K:Gm
+V:M clef=treble  name="Melody"   snm="M"
+V:H clef=treble  name="Harmony"   snm="H"
+%%score M|H
+P:A
+[V:M] |: -gagf  d4 B3d | cdcA  B2cB  A3^F | G3A  BABc  d3c | B2AG   A6g2- |
+[V:H] |: -d=edc B4 G3B | ABA^F G2F=E D3C  | B,3D G^FGA B3A | G2^F=E D6d2- |
+%
+[V:M] -gagf  d4 B3d | cdcA  B2cB A3^F | G3A  BABc  d3c  |1 B2A^F G6g2- :|2 B2A^F G6  d^c |
+[V:H] -d=edc B4 G3B | ABA^F G2F=E D3C  | B,3D G^FGA B3A |1 G2DC B,6d2- :|2 G2DC  B,6 B,A,|
+%
+P:B
+[V:M] |: d4  g2^fg A'3f| gag=f d4 B3A | G3A  BABc  d3c | B2AG  A6  d^c |
+[V:H] |: G,4 B2AB  c3B | ABcA  B4 G3D | B,3D G^FGA B3A | G2^F=E D6 D2-  |
+%
+[V:M]  d4 g2^fg a3f | gag=f d4 B3A | G3A  BABc  d3c |1 B2A^F G6  d^c  :|2 B2A^F G8  |]
+[V:H] -D4 B2AB  c3B | ABcA  B4 G3D | B,3D G^FGA B3A |1 G2DC  B,6 B,A, :|2 G2DC  B,8 |]

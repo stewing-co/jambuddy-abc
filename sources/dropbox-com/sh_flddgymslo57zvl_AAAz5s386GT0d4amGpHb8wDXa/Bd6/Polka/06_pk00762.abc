@@ -1,0 +1,59 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Schaukel-Polka  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.176f (pk00762) orig. C-Dur
+T: Zermatter T\"anze. S.166-177.\"Uberliefert durch Moritz Perren, "Hofmuri", 1874-1952.
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"G7"(5GAGFG e2d2 | "C"(5GAGFG d2c2 | "G7"BDGB F2GB | "C"cEGcE4 | "G7"(5GAGFG e2d2 | "C"(5GAGFG d2c2 |
+"G7"BDGB F2GB | "C"cGedc4 :| "C"efed cBcd | "(Am)"efedc4 | "G7"Bcde fgag | "C"ageg c'geg | 
+efed cBcd | "(Am)"efedc4 | "G7"Bcde fgab | "C"c'2ge c2z2 || "C"CEGc AGFC | "G7"B,DFB AGF2 | 
+B,DFB AGFB, | "C"CEGc AGE2 | CEGc AGFC |  "G7"B,DFB AGF2 | B,DFB AGFB, | "C"C2E2C2z2 |]  
+X: 2
+T: Schaukel-Polka  C (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"G7"(5GAGFG e2d2 | "C"(5GAGFG d2c2 | "G7"BDGB F2GB | "C"cEGcE4 | "G7"(5GAGFG e2d2 | "C"(5GAGFG d2c2 |
+"G7"BDGB F2GB | "C"cGedc4 :| "C"efed cBcd | "(Am)"efedc4 | "G7"Bcde fgag | "C"ageg c'geg | 
+efed cBcd | "(Am)"efedc4 | "G7"Bcde fgab | "C"c'2ge c2z2 || "C"CEGc AGFC | "G7"B,DFB AGF2 | 
+B,DFB AGFB, | "C"CEGc AGE2 | CEGc AGFC |  "G7"B,DFB AGF2 | B,DFB AGFB, | "C"C2E2C2z2 |]  
+% pk00762
+X:3
+T:Schaukel-Polka D (tinwhistle in D)
+T: pk00762 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"A7"(5ABAGA f2e2 | "D"(5ABAGA e2d2 | "A7"cEAc G2Ac | "D"dFAdF4 | "A7"(5ABAGA f2e2 | "D"(5ABAGA e2d2 |
+"A7"cEAc G2Ac | "D"dAfed4 :| "D"fgfe dcde | "(Bm)"fgfed4 | "A7"cdef gaba | "D"bafa d'afa | 
+fgfe dcde | "(Bm)"fgfed4 | "A7"cdef gabc' | "D"d'2af d2z2 || "D"DFAd BAGD | "A7"CEGc BAG2 | 
+CEGc BAGC | "D"DFAd BAF2 | DFAd BAGD | "A7"CEGc BAG2 | CEGc BAGC | "D"D2F2D2z2 |] 
+X:4
+T:Schaukel-Polka D (tinwhistle in D)
+T: pk00762 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+(5ABAGA f2e2 | (5ABAGA e2d2 | cEAc G2Ac | dFAdF4 | (5ABAGA f2e2 | (5ABAGA e2d2 |
+cEAc G2Ac | dAfed4 :| fgfe dcde | "(Bm)"fgfed4 | cdef gaba | bafa d'afa | 
+fgfe dcde | "(Bm)"fgfed4 | cdef gabc' | d'2af d2z2 || DFAd BAGD | CEGc BAG2 | 
+CEGc BAGC | DFAd BAF2 | DFAd BAGD | CEGc BAG2 | CEGc BAGC | D2F2D2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 20, 2016
+

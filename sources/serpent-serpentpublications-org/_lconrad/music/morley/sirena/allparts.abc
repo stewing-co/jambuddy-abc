@@ -1,0 +1,79 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+
+X:1
+T:Cantus
+T:XX. Fantaisie: La Serena?
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/4
+K: F
+N: Original clef, C on first line
+L:1/4
+D3 E F G A3 G G3 ^F/ E/ ^F2 G3 F E D E2 D2 d4 c2 B4
+w:1
+A4 z G B > c d D > E F/ G/ A F G2 F D G/ A/ B A G A2 D d
+w:2
+c B A G A2 G2 z d f > f e c d B A2 z G2 F B2 A2 z G F D E ^F G E D d
+w:3
+c A B/ A/ B/ c/ d G c B A2 "A"z G D > E F F _E C G3 F E2 D2 z A c3 B/ A/ G A B > A
+w:4
+G F/ E/ D d2 ^c d B A2 z G2 ^F G/ F/ E/ D/ E2 D d c B A G A2 G G B > B A F G A
+w:5
+D G2 F B2 A2 z G c > d B2 A d c A B c d D E ^F G/ ^F/ G/ A/ B2 A G2 ^F G2 z d
+w:6
+A > B c c B G/ A/ B/ c/ d2 ^c d D F3 E/ D/ C D E F G G,/ A,/ B,/ C/ D/ E/ F/ D/ F E2
+w:7
+D G2 ^F G/ A/ B A2 z d2 ^c d D E/ F/ G ^F G2 ^F HG4 |]
+w:8
+
+X:2 
+T:Tenor
+T:XX. Fantaisie: La Serena?
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/4
+K: F
+N: Original clef, C on first line
+L:1/4
+z2 d4 c2 B4 A2 z A B G d3 c/ B/ ^c2 d2 D E F G
+w:1
+A3 G G3 F/ E/ ^F2 G2 z G B > c d2 c d B/ A/ B/ c/ d/ e/ f e d
+w:2
+^c d2 ^c d D E/ F/ G ^F G2 ^F G G B > B A F G A D G2 F B2 A2 z G c > d
+w:3
+B2 A d c A B c d D E ^F G/ F/ G/ A/ B2 A G2 ^F "A"G2 z d A > B c c B G/ A/
+w:4
+ B/ c/ d2 ^c d D F3 E/ D/ C D E F G G,/ A,/ B,/ C/ D/ E/ F/ D/ F E2 D G2 ^F G/ A/ B
+w:5
+A2 z d2 ^c d D E/ F/ G ^F G2 F G2 z d f > f e c d B A2 z G2 F B2 A2 z G F D
+w:6
+E ^F G E D d c A B/ A/ B/ c/ d G c B A2 z G D > E F F _E C G3 F E2 D2 z A
+w:7
+c3 B/ A/ G A B > A G F/ E/ D d2 ^c d B A2 z G2 ^F G/ F/ E/ D/ E2 D d c B A G A2 H=B4 |]
+w:8
+
+
+

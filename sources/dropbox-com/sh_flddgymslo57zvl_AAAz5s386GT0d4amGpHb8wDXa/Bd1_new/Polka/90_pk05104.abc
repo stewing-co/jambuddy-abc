@@ -1,0 +1,45 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka CF chords parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.366 (pk05104) orig. C,F-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+cd [P:A] |: "C"e2ec G2ce | "G7"f2fd B4 | b2g2 b3a | "C"a2ge c2cd | e2ec G2ce | "G7"f2fd B4 | b3a gfed |1 "C"c2c2 c2cd :|2 "C"c2c2 c2z2 ||
+[P:B] |: "G7"!>!b4 !>!a4 | "C"g2gg g2eg | "G7"f2ff f2df | "C"e2ef g2g2 | "G7"!>!b4 "F"!>!a4 | "C"g2gg g2eg | "G7"fede fgab | "C"c'2c'2 c'2z2 :| [K:F]
+[P:C] |: "F"c4"Bb"d4 | "F"c2fa c'4 | "C7"d'2e2 e2dc | "F"a2f2f4 | c4"F0"d4 | "F"c2fa c'4 | "C7"d'2eg a3g | "F"f2f2 f2z2 :| 
+X:2
+T: Polka CF chords
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+cd |: "C"e2ec G2ce | "G7"f2fd B4 | b2g2 b3a | "C"a2ge c2cd | e2ec G2ce | "G7"f2fd B4 | b3a gfed |1 "C"c2c2 c2cd :|2 "C"c2c2 c2z2 ||
+|: "G7"!>!b4 !>!a4 | "C"g2gg g2eg | "G7"f2ff f2df | "C"e2ef g2g2 | "G7"!>!b4 "F"!>!a4 | "C"g2gg g2eg | "G7"fede fgab | "C"c'2c'2 c'2z2 :| [K:F]
+|: "F"c4"Bb"d4 | "F"c2fa c'4 | "C7"d'2e2 e2dc | "F"a2f2f4 | c4"F0"d4 | "F"c2fa c'4 | "C7"d'2eg a3g | "F"f2f2 f2z2 :| 
+X:3
+T:Polka GC 5- chords
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+GA |: "G"B2BG D2GB | "D7"c2cA F4 | f2d2 f3e | "G"e2dB G2GA | B2BG D2GB | "D7"c2cA F4 | f3e dcBA |1 "G"G2G2 G2GA :|2 "G"G2G2 G2z2 ||
+|: "D7"!>!f4 !>!e4 | "G"d2dd d2Bd | "D7"c2cc c2Ac | "G"B2Bc d2d2 | "D7"!>!f4 "C"!>!e4 | "G"d2dd d2Bd | "D7"cBAB cdef | "G"g2g2 g2z2 :| [K:Cmaj]
+|: "C"G4"F"A4 | "C"G2ce g4 | "G7"a2B2 B2AG | "C"e2c2c4 | G4"C0"A4 | "C"G2ce g4 | "G7"a2Bd e3d | "C"c2c2 c2z2 :| 
+X:4
+T: Polka CF (5letras transposed)
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+cd |: "C"e2ec G2ce | "G7"f2fd B4 | b2g2 b3a | "C"a2ge c2cd | e2ec G2ce | "G7"f2fd B4 | b3a gfed |1 "C"c2c2 c2cd :|2 "C"c2c2 c2z2 ||
+|: "G7"!>!b4 !>!a4 | "C"g2gg g2eg | "G7"f2ff f2df | "C"e2ef g2g2 | "G7"!>!b4 "F"!>!a4 | "C"g2gg g2eg | "G7"fede fgab | "C"c'2c'2 c'2z2 :| [K:F]
+|: "F"c4"Bb"d4 | "F"c2fa c'4 | "C7"d'2e2 e2dc | "F"a2f2f4 | c4"F0"d4 | "F"c2fa c'4 | "C7"d'2eg a3g | "F"f2f2 f2z2 :| 
+X:5
+T:Polka GC (5letras transposed)
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+GA |: "G"B2BG D2GB | "D7"c2cA F4 | f2d2 f3e | "G"e2dB G2GA | B2BG D2GB | "D7"c2cA F4 | f3e dcBA |1 "G"G2G2 G2GA :|2 "G"G2G2 G2z2 ||
+|: "D7"!>!f4 !>!e4 | "G"d2dd d2Bd | "D7"c2cc c2Ac | "G"B2Bc d2d2 | "D7"!>!f4 "C"!>!e4 | "G"d2dd d2Bd | "D7"cBAB cdef | "G"g2g2 g2z2 :| [K:Cmaj]
+|: "C"G4"F"A4 | "C"G2ce g4 | "G7"a2B2 B2AG | "C"e2c2c4 | G4"C0"A4 | "C"G2ce g4 | "G7"a2Bd e3d | "C"c2c2 c2z2 :| 

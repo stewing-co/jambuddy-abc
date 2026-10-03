@@ -1,0 +1,15 @@
+X:3709
+T:Scena ultima [Aria Demetrio]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:A
+V: 9 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 9 )]
+%----------------
+Z2 || \\
+[Q:"Allegro"] d2 f =g | a4 | b4 | b a2 {b}a/g//f// | ef {a}=g f/e/ | f2 fz | Z | z b !fermata! B, z || \
+[Q:"Adagio"] b4- | b a/>g/ g f/>e/ | d3/2e//f// e z | Z | \
+"^Adagio a tempo"  Z | Z7 | "_Rondo"  Z ||
+%---------------

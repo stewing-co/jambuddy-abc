@@ -1,0 +1,66 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Zuger Schottisch FCBb  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.185 (st05966)  orig. F,C,Bb-Dur
+T: T\"anze aus Saanen (Bern) S.170ff
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"FAca g3f | "Bb"e2d2 d^cd2 | "C7"e2g2 d'3c' | "F"f2a2 d'3c' | FAca g3f | "Bb"e2d2 d^cd2 | "C7"bagd' c'3e | "F"f2a2 f2z2 :| [K:C]
+"G7"g3g bag2 | "C"g3g c'ag2 | "G7"a2de f2B2 | "C"cegc' bag2 | "G7"g3g bag2 | "C"g3g c'ag2 | "Dm"a2de "G7"f2B2 | "C"c2e2 "_> Teil A"c2z2 || [K:Bb]
+|:"Bb"d2Bd f2g2 | =e2f2 e2f2 | b3d a3d | "F7"g2g2 A4 | c2Ac e4 | d2e2 d2e2 | agfg fedc | "Bb"B2b2 b2z2 :| [K:F]
+"C7"c2dc =Bcde | "F"g2f2 c2a2 | "C7"ag^fg b2e2 | "F"gfef a2cc | "C7"c2dc =Bcde | "F"g2f2 c2a2 | "C7"c'2ga b2e2 | "F"f2ff f2f2 || [K:Bb]
+|: "F7"f2e2 c'3a | "Bb"b2d2 f=ef2 | "F7"Aceg +>+f4 | "Bb"Bdfg +>+f4 | "F7"f2e2 c'3a | "Eb"c'2b2 c'bag | "Bb"fbag "F7"f3A | "Bb"B2b2 b2z2 :| 
+
+X: 2
+T: Zuger Schottisch FCBb  chords Parts
+M:2/4
+L:1/16
+P:ABACDE
+K:F %%MIDI gchordon
+[P:A] "F"FAca g3f | "Bb"e2d2 d^cd2 | "C7"e2g2 d'3c' | "F"f2a2 d'3c' | FAca g3f | "Bb"e2d2 d^cd2 | "C7"bagd' c'3e | "F"f2a2 f2z2 :| [K:C]
+[P:B] "G7"g3g bag2 | "C"g3g c'ag2 | "G7"a2de f2B2 | "C"cegc' bag2 | "G7"g3g bag2 | "C"g3g c'ag2 | "Dm"a2de "G7"f2B2 | "C"c2e2 "_> Teil A"c2z2 || [K:Bb]
+[P:C] |:"Bb"d2Bd f2g2 | =e2f2 e2f2 | b3d a3d | "F7"g2g2 A4 | c2Ac e4 | d2e2 d2e2 | agfg fedc | "Bb"B2b2 b2z2 :| [K:F]
+[P:D] "C7"c2dc =Bcde | "F"g2f2 c2a2 | "C7"ag^fg b2e2 | "F"gfef a2cc | "C7"c2dc =Bcde | "F"g2f2 c2a2 | "C7"c'2ga b2e2 | "F"f2ff f2f2 || [K:Bb]
+[P:E] |: "F7"f2e2 c'3a | "Bb"b2d2 f=ef2 | "F7"Aceg +>+f4 | "Bb"Bdfg +>+f4 | "F7"f2e2 c'3a | "Eb"c'2b2 c'bag | "Bb"fbag "F7"f3A | "Bb"B2b2 b2z2 :| 
+
+X:3
+T:Zuger Schottisch CGF 5-  chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"CEGe d3c | "F"B2A2 A^GA2 | "G7"B2d2 a3g | "C"c2e2 a3g | CEGe d3c | "F"B2A2 A^GA2 | "G7"feda g3B | "C"c2e2 c2z2 :| [K:Gmaj]
+"D7"d3d fed2 | "G"d3d ged2 | "D7"e2AB c2F2 | "G"GBdg fed2 | "D7"d3d fed2 | "G"d3d ged2 | "Am"e2AB "D7"c2F2 | "G"G2B2 "_> Teil A"G2z2 || [K:Fmaj]
+|:"F"A2FA c2d2 | =B2c2 B2c2 | f3A e3A | "C7"d2d2 E4 | G2EG B4 | A2B2 A2B2 | edcd cBAG | "F"F2f2 f2z2 :| [K:Cmaj]
+"G7"G2AG ^FGAB | "C"d2c2 G2e2 | "G7"ed^cd f2B2 | "C"dcBc e2GG | "G7"G2AG ^FGAB | "C"d2c2 G2e2 | "G7"g2de f2B2 | "C"c2cc c2c2 || [K:Fmaj]
+|: "C7"c2B2 g3e | "F"f2A2 c=Bc2 | "C7"EGBd !>!c4 | "F"FAcd !>!c4 | "C7"c2B2 g3e | "Bb"g2f2 gfed | "F"cfed "C7"c3E | "F"F2f2 f2z2 :| 
+
+X:4
+T:Zuger Schottisch CGF 5- chords Parts
+M:2/4
+L:1/16
+P:ABACDE
+K:Cmaj%%MIDI gchordon
+[P:A] "C"CEGe d3c | "F"B2A2 A^GA2 | "G7"B2d2 a3g | "C"c2e2 a3g | CEGe d3c | "F"B2A2 A^GA2 | "G7"feda g3B | "C"c2e2 c2z2 :| [K:Gmaj]
+[P:B] "D7"d3d fed2 | "G"d3d ged2 | "D7"e2AB c2F2 | "G"GBdg fed2 | "D7"d3d fed2 | "G"d3d ged2 | "Am"e2AB "D7"c2F2 | "G"G2B2 "_> Teil A"G2z2 || [K:Fmaj]
+[P:C] |:"F"A2FA c2d2 | =B2c2 B2c2 | f3A e3A | "C7"d2d2 E4 | G2EG B4 | A2B2 A2B2 | edcd cBAG | "F"F2f2 f2z2 :| [K:Cmaj]
+[P:D] "G7"G2AG ^FGAB | "C"d2c2 G2e2 | "G7"ed^cd f2B2 | "C"dcBc e2GG | "G7"G2AG ^FGAB | "C"d2c2 G2e2 | "G7"g2de f2B2 | "C"c2cc c2c2 || [K:Fmaj]
+[P:E] |: "C7"c2B2 g3e | "F"f2A2 c=Bc2 | "C7"EGBd !>!c4 | "F"FAcd !>!c4 | "C7"c2B2 g3e | "Bb"g2f2 gfed | "F"cfed "C7"c3E | "F"F2f2 f2z2 :| 
+
+X:5
+T:Zuger Schottisch CGF 5-  Anm
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"CEGe d3c | "F"B2A2 A"_g#""_ **"^GA2 | "G7"B2d2 a3g | "C"c2e2 a3g |\
+ CEGe d3c | "F"B2A2 A^GA2 | "G7"feda g3B | "C"c2e2 c2z2 :| [K:Gmaj]
+"D7"d3d "_#"f"_e"ed2 | "G"d3d ged2 | "D7""_e"e2"_a"AB "_c"c2"_ # ="F2 | "G"GBdg "_#""_?"fed2 |\
+ "D7"d3d "_#"f"_e"ed2 | "G"d3d ged2 | "Am""_e"e2"_a"AB "D7""_c"c2"_ # ="F2 | "G"G2B2 "_> Teil A"G2z2 || [K:Fmaj]
+|:"F"A2FA c2d2 | =B2c2 B2c2 | f3A e3A | "C7"d2d2 E4 |\
+ "_g"G2"_e"EG "_b"B4 | A2"_b"B2 A2"_b"B2 | "_e"e"_d"dc"_d"d c"_b"BA"_g="G | "F"F2f2 f2z2 :| [K:Cmaj]
+"G7"G2AG ^FGA"_b"B | "C"d2c2 G2e2 | "G7"ed^cd f2B2 | "C"dcBc e2GG |\
+ "G7"G2AG ^FGAB | "C"d2c2 G2e2 | "G7"g2de f2B2 | "C"c2cc c2c2 || [K:Fmaj]
+|: "C7"c2"_b"B2 "_g"g3"_ e ="e | "F"f2A2 c=Bc2 | "C7""_e"E"_g"G"_b"B"_d"d !>!c4 | "F"FAcd !>!c4 |\
+ "C7"c2"_b"B2"_g" g3"_e"e | "Bb"g2f2 gfed | "F"cfed "C7"c3E | "F"F2f2 f2z2 :| 
+

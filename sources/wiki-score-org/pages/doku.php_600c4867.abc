@@ -1,0 +1,30 @@
+X:207
+T:Ns.1-4
+C:Antonio Thomaz de Lima
+M:4/8
+L:1/4
+K:B
+V: 7 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%----------- edit between the lines ------------
+|| [Q:"Moderadamente, e alegre"]
+[F,,B,,D,]/ z/ z |
+z [F,,,F,,] | z/ [B,,,B,,]/ z/ [=A,,,=A,,]/ | z/ [^A,,,^A,,]/ z/ [F,,,F,,]/| [B,,,B,,]/ z/z/ [F,,,F,,]/ |\
+z/ [K:clef=treble] F//A// d/A//G//| F/ z/z/ !arpeggio![DFA]/ [K:clef=bass]|
+z/ E,,//G,,// C,/G,,//F,,//| E,/ z/z/ [K:clef=treble] !arpeggio![CEGc]/ [K:clef=bass]| !>![F,,F,,,] > [F,,F,,,] |\
+[B,,,F,,B,,] [G,,D,]||
+[M:3/4] [C,E,] !arpeggio![F,,D,F,] z/.[F,,,F,,]/ || [M:4/8] !mf! z/ .[F,,,F,,]/ z/ .[F,,,F,,]/ |\
+z/ .[F,,,F,,]/ z/ .[F,,,F,,]/ | !pp! z/ .[F,,,F,,]/ z/ .[F,,,F,,]/ |
+z/ .[F,,,F,,]/ z/ .[F,,,F,,]/ || [M:2/4] !f! !>![B,,,F,,B,,]2 | !>![B,,,F,,B,,]2 |
+!>![B,,,F,,B,,]2 | !>![B,,,F,,B,,]2 | [B,,,F,,B,,] !>![D,,D,]/!>![F,,F,]/ | !>![B,,B,]/ z/ z | !>![B,,,F,,B,,]2 |
+!>![B,,,F,,B,,]2 | !>![B,,,F,,B,,]2 | [B,,,F,,B,,] !>![D,,D,]/!>![F,,F,]/ | !>![B,,B,]/ z/ z | !ped! ((3/2 B,,//D,//F,//!>!G,/) z |
+!ped! ((3/2 F,//G,//B,//!>!D/) z [K:clef=treble] | !ped!((3/2 B,//D//F//!>!G/) z| ((3/2 D//F//G//!>!B/) [K:clef=bass] [F,,F,,,]/ [F,,F,,,]/|\
+!>![B,,,D,,F,,B,,]/ z/ ((3/2 G,//B,//C//!>!G/) | z [K:clef=treble] ((3/2 D//F//G//!>!B/) [K:clef=bass]|
+((3/2F,,//C,//E,//!>!B,/) z [K:clef=treble] | ((3/2 F//A//c//!>!d/) z | ((3/2 D//F//G//!>!B/) z | z/ [K:clef=bass] z// (F,// [F,B,D]/).[F,B,D]/|
+!>![B,,,F,,B,,]2 | !>![B,,,F,,B,,]2 | !>![B,,,E,,B,,]2 | !>![C,,C,]2 | !>![F,,,F,,]2 | (!>![F,,,F,,]2 |
+[F,,,F,,]/) z/ z |  X |  !ped! z z// =A//D//B,// | X | (B,,//E,//G,//B,// [I:staff -1]!>!G)[I:staff +1] | \
+(C,//=G,//B,//F// [I:staff -1] =G/B/) [I:staff +1] | !>![F,,,F,,]2 | (!>![F,,,F,,]2 | [F,,,F,,]/) z/ z | z z/ .F,,/ |
+.F,,,/ z/z/ [F,A,^^C]/| z/ [F,A,D]/ z/ [K:clef=treble] [EF=A]/| z/ [EF=A]/ z/ [EF=A]/ | [K:clef=bass] ([F,,,F,,]2 |
+z/z/z/z/| z [F,,,F,,]) | z/ [B,,,B,,]/ z/ [=A,,,=A,,]/| z/ [^A,,,^A,,]/ z/ [F,,,F,,]/ | [B,,,B,,]/ z/z/ !fermata![F,,,F,,]/  ||
+%-----------------------------------------------

@@ -1,0 +1,22 @@
+X:109
+T:N.1 Rataplan (Ambrosio)
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:D
+V: 9 clef=treble name="Ambrosio" sname="Amb."
+%%MIDI program 1 1
+%%staves [[ 9 ]]
+%--------------------------------------------
+[Q:"Marcial"]
+Z9 | z3 zzF/ A/ !segno!|| D z F D z F | A2 z z2 D | E2 E E D E | F2 z z F A | D z  F D z F | A z z z ^G F | E z E d z ^G | A  \
+w: 1.~Ra-ta-plan ta-plan ta-plan um mes-tre sou a to-car Ra-ta-plan ta-plan ta-plan E mais lon-ge'hei-de che-gar.
+w: 2.~Ra-ta-plan ta-plan ta-plan n\~ao ru-fo com per-fei-\cc\~ao Ra-ta-plan ta-plan ta-plan Co-mo quer o Ca-pi-t\~ao.
+zzz !/!F !/!A | D z F D z F | A2 z z2 D | E2 E E D E | F D z z !/!F !/!A | D z  F D z F | d2z \
+w: Ra-ta-plan ta-plan ta-plan ha'a-pe-nas so quin-ze di-as Ra-ta-plan ta-plan ta-plan
+w: Ra-ta-plan ta-plan ta-plan ten-ho pr'o tam-bor bom fun-do Ra-ta-plan ta-plan ta-plan
+z c B | A z F E z F | D D z z2 z !fine! |: \
+w: que'an-do em ca-va-la-ri-as.
+w: di-l'o Sar-gen-to Rai-mun-do.
+[K:A] [Q:"Um poco menos"] "_O personagem" "_Entretem tocando tambor" "_e marchando" Z10 |[1 Z6 :|2 Z6 !D.S.!|] \
+%--------------------------------------------

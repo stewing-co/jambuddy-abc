@@ -1,0 +1,60 @@
+X:228
+T:O Salutaris
+C:Giuseppe Totti (17__-1832)
+M:3/4
+L:1/4
+K:Eb
+V: 28 clef=alto name="Alto" sname="A."
+%%MIDI program 1 1
+%%staves [[ 28 ]]
+%----- edit between the lines ----
+[Q:"Largo com molto"]
+Z3 | "^soli" B B B | B A2 | A2 A | G2 z| \
+w:O-sa-lu-ta-ris Hos-ti-a,
+"^tutti" !f!B !p! B B|!f!B2!p! B|!f!B>G G|\
+w:O-sa-lu-ta-ris Hos-ti-a,
+Z3|F F F|F2 F|F1/2> F1/2 F z|\
+w:Quae cae-li pan-dis os-ti-um:
+Z4|=A A A|A2 A| B1/2 > F1/2 F z|\
+w:Quae cae-li pan-dis os-ti-um:
+Z9|!f!F !p!F F| !f!F2!p! F|!f!F1/2 > F1/2 F z|\
+w:O-sa-lu-ta-ris Hos-ti-a,
+Z3|!f!G !p!G G| !f!G2!p! G|!f!G1/2 > G1/2 G z|\
+w:O-sa-lu-ta-ris Hos-ti-a,
+Z2|G G G|G2 =A|G/2 G/2 G z|\
+w:Quae cae-li pan-dis os-ti-um:
+Z|z G G|G2 G|G3|\
+w:pan-dis os-ti-um
+Z2|B3|B3|B2 B|A A A|G/2 G/2 G z |\
+w:Bel-la pre-munt pre-munt hos-ti-li-a,
+Z3|z B2|F F z|\
+w:Da ro-bur,
+z c2|G G z|\
+w:Da ro-bur,
+z G2|\
+w:fer
+Z|z G =A|G/2 G/2 G z |\
+w:fer au-xi-li-um.
+Z|z G2|G G z|\
+w:Da ro-bur,
+Z|A2 B|A/2 A/2 A z|\
+w:fer au-xi-li-um.
+Z| z =A2 | A A z|\
+w:Da ro-bur,
+Z|G2 =A|G/2 G/2 G z|\
+w:fer au-xi-li-um.
+Z|(G> =B) d/2B/2|c2 G|(G> =B) d/2 B/2|c/2 G/2 G z|\
+w:Bel--la_ pre-munt pre--munt hos-ti-li-a,
+Z4|z z F| G2 G|G z \
+w:Da ro-bur, fer
+G| _A2 A|A z z|\
+w:Da ro-bur, fer
+Z5|!p! G3| F3| E2 D| E zz|\
+w:fer au-xi-li-um.
+Z10| (G3|G2)F|E z z |\
+w:A-men, a-men.
+Z5| zz F|G zz|\
+w:a-men
+zz F|G zz | Z5 |]
+w:a-men
+%---------------------------------

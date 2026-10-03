@@ -1,0 +1,49 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Walzer  FBb
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.191 (wz09333) orig. F,Bb
+T: \"Uberliefert durch Lina Krupski-Herger (1946), Lehrer Leuthold (1945), Edy Lussy und Melk Rohrer (1949)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"AB>A | "Gm"G2D | "C7"EFG | "F"F3 | AB>c | "Gm"e2d | "C7"cGB | "F"A3 | AB>A | "Gm"G2D | "C7"EFG | "F"F3 | 
+A=B>c | "C"G2e | "G7"dA=B | "C"czz :: "F"cfa | "C7"g3 | Bcg | "F"f3 | fad' | "C7"c'2g | a2b | "F"a3 | 
+cfa | "C7"g3 | gba | "F"g2f | "Bb"fed | "F"cfA | "C7"GcE |1 "F"Fzz :|2 "F"FzF |: [K:Bb] "Bb"d2e | d2F | 
+("F7"c3 | c)zF | c2d | c2F | ("Bb"B3 | B)zf | b2c' | b2f | ("F7"a3 | a)gf | (e3 |1 e)dc | 
+"Bb"d3 | d2F :|2 c'ga | ("Bb"b3 | b)df |: "Bb"b3 | agd | f3 | gdB | {/A}"F7"e3 | gfc | ("Bb"d3 | 
+d)df | b3 | agd | f3 | gfB | {/A}"F7"e2e | d2c | "Bb"B>bb |1 bdf :|2 bzz |]  
+% wz09333 (H 335/TN 28)
+X:2
+T:Walzer  CF
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"EF>E | "Dm"D2A, | "G7"B,CD | "C"C3 | EF>G | "Dm"B2A | "G7"GDF | "C"E3 | EF>E | "Dm"D2A, | "G7"B,CD | "C"C3 | 
+E^F>G | "G"D2B | "D7"AE^F | "G"Gzz :: "C"Gce | "G7"d3 | FGd | "C"c3 | cea | "G7"g2d | e2f | "C"e3 | 
+Gce | "G7"d3 | dfe | "C"d2c | "F"cBA | "C"GcE | "G7"DGB, |1 "C"Czz :|2 "C"CzC |: [K:F] "F"A2B | A2C | 
+("C7"G3 | G)zC | G2A | G2C | ("F"F3 | F)zc | f2g | f2c | ("C7"e3 | e)dc | (B3 |1 B)AG | 
+"F"A3 | A2C :|2 gde | ("F"f3 | f)Ac |: "F"f3 | edA | c3 | dAF | {/E}"C7"B3 | dcG | ("F"A3 | 
+A)Ac | f3 | edA | c3 | dcF | {/E}"C7"B2B | A2G | "F"F>ff |1 fAc :|2 fzz |] 
+% wz09333
+X:3
+T:Walzer D&G (tinwhistle in D) solo
+T:wz09333 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+FG>F | E2B, | CDE | D3 | FG>A | c2B | AEG | F3 | FG>F | E2B, | CDE | D3 | 
+F^G>A | E2c | BF^G | Azz :: Adf | e3 | GAe | d3 | dfb | a2e | f2g | f3 | 
+Adf | e3 | egf | e2d | dcB | AdF | EAC |1 Dzz :|2 DzD |: [K:G] B2c | B2D | 
+(A3 | A)zD | A2B | A2D | (G3 | G)zd | g2a | g2d | (f3 | f)ed | (c3 |1 c)BA | 
+B3 | B2D :|2 aef | (g3 | g)Bd |: g3 | feB | d3 | eBG | {/F}c3 | edA | (B3 | 
+B)Bd | g3 | feB | d3 | edG | {/F}c2c | B2A | G>gg |1 gBd :|2 gzz |]
+% wz09333
+% Sep 11, 2016

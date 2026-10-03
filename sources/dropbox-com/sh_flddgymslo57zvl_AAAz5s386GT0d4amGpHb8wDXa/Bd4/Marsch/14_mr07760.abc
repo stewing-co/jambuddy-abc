@@ -1,0 +1,60 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Marsch  CF (mr07760)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.375 (mr07760) orig. C,F
+T: Alte Seltisberger Musik. S.354-377
+T:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+R:Marsch
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+("C"c2G)G/c/ | (e2 c)c/e/ | "G7"gg/g/ gg | .g2 G>G |: ("C"G2E)>G | ("F"c2A>)A | "C"GE Gc | e2e>e | 
+"G7"d>d c>c | BF BA | ("C"A4 | G2)G>G | (G2E)>G | ("F"c2A>)A | "C"GE Gc | e2e>e | "D7"d2A>B | c2 E>^F | 
+("G"G4 |1 G2)G>G :|2 "G".G2 G>A |: "G7"BB BB | B2A>G | "C"ee ee |  c2B>c | "G7"dG(f2 | f)G A>B | "C"cG(e2 | 
+e2)d>c | "F"ff ff |  A2e>d |  "C"dc Bc |  G2c>c | "G7"B2f2 |  e2d2 | "C".c2c>c |1 .c2G>A :|2 .c2z2 || [K:F] [L:1/4]
+|: "F"F>E | FA | (c2 | A)A | GF | "C7"Ec | (B2 | B)E | G>^F | GB | d2 | 
+cB | "F"A>B | cd | (c2 | c)F | A>^G | Ac | f2 | gf | "Bb"e>d | d^c | 
+(d2 | d)d | "C7"e>e | de | ("F"f2 | A)d | "C7"c>B | AG |1 ("F"F2 | F)C :|2 "F".F f/>f | .fz |] 
+% mr07760
+% Oct 18, 2017 (Memories displaced)
+
+X:2
+T:Marsch  GC 7+ (mr07760)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.375 (mr07760) orig. C,F
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+R:Marsch
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+("G"g2d)d/2g/2 | (b2 g)g/2b/2 | "D7"d'd'/2d'/2 d'd' | .d'2 d>d |: ("G"d2B)>d | ("C"g2e>)e | "G"dB dg | b2b>b | 
+"D7"a>a g>g | fc fe | ("G"e4 | d2)d>d | (d2B)>d | ("C"g2e>)e | "G"dB dg | b2b>b | "A7"a2e>f | g2 B>^c | 
+("D"d4 |1 d2)d>d :|2 "D".d2 d>e |: "D7"ff ff | f2e>d | "G"bb bb | g2f>g | "D7"ad(c'2 | c')d e>f | "G"gd(b2 | 
+b2)a>g | "C"c'c' c'c' | e2b>a | "G"ag fg | d2g>g | "D7"f2c'2 | b2a2 | "G".g2g>g |1 .g2d>e :|2 .g2z2 || [K:C] [L:1/4]
+|: "C"c>B | ce | (g2 | e)e | dc | "G7"Bg | (f2 | f)B | d>^c | df | a2 | 
+gf | "C"e>f | ga | (g2 | g)c | e>^d | eg | c'2 | d'c' | "F"b>a | a^g | 
+(a2 | a)a | "G7"b>b | ab | ("C"c'2 | e)a | "G7"g>f | ed |1 ("C"c2 | c)G :|2 "C".c c'/2>c' | c'z |] 
+% mr07760
+% Oct 18, 2017 
+
+X:3
+T:Marsch  GC 5- (mr07760)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.375 (mr07760) orig. C,F
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+R:Marsch
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+("G"G2D)D/2G/2 | (B2 G)G/2B/2 | "D7"dd/2d/2 dd | .d2 D>D |: ("G"D2B,)>D | ("C"G2E>)E | "G"DB, DG | B2B>B | 
+"D7"A>A G>G | FC FE | ("G"E4 | D2)D>D | (D2B,)>D | ("C"G2E>)E | "G"DB, DG | B2B>B | "A7"A2E>F | G2 B,>^C | 
+("D"D4 |1 D2)D>D :|2 "D".D2 D>E |: "D7"FF FF | F2E>D | "G"BB BB | G2F>G | "D7"AD(c2 | c)D E>F | "G"GD(B2 | 
+B2)A>G | "C"cc cc | E2B>A | "G"AG FG | D2G>G | "D7"F2c2 | B2A2 | "G".G2G>G |1 .G2D>E :|2 .G2z2 || [K:C] [L:1/4]
+|: "C"C>B, | CE | (G2 | E)E | DC | "G7"B,G | (F2 | F)B, | D>^C | DF | A2 | 
+GF | "C"E>F | GA | (G2 | G)C | E>^D | EG | c2 | dc | "F"B>A | A^G | 
+(A2 | A)A | "G7"B>B | AB | ("C"c2 | E)A | "G7"G>F | ED |1 ("C"C2 | C)G, :|2 "C".C c/2>c | .cz |] 
+% mr07760
+% Oct 18, 2017

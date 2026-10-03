@@ -1,0 +1,78 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Ronde enfantine (Polka)  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.272 (pk00930) orig. C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"GcBA G2G2 | GcBA G4 | GAGE "G7"F4 | FGFD "C"E4 | EDEF G2G2 | Gc"G7"Bd "C"c4 |] 
+W:
+W: 'Ronde enfantine' is French, one of the 4 official languages spoken in Switzerland
+W: (German - French - Italian - Raetoroman/Rumantsch Grischun)
+W: cf. Ronde enfantine (Polka)  st/pk00931 & pk00932
+% pk00930
+X:2
+T:Ronde enfantine (Polka)  F 5+
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"cfed c2c2 | cfed c4 | cdcA "C7"B4 | BcBG "F"A4 | AGAB c2c2 | cf"C7"eg "F"f4 |] 
+% pk00930
+X:3
+T:Ronde enfantine (Polka)  G 7+
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"dgfe d2d2 | dgfe d4 | dedB "D7"c4 | cdcA "G"B4 | BABc d2d2 | dg"D7"fa "G"g4 |] 
+% pk00930
+X:4
+T:Ronde enfantine (Polka)  G 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"DGFE D2D2 | DGFE D4 | DEDB, "D7"C4 | CDCA, "G"B,4 | B,A,B,C D2D2 | DG"D7"FA "G"G4 |] 
+% pk00930
+X:5
+T:Ronde enfantine (Polka)  C (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"GcBA G2G2 | GcBA G4 | GAGE "G7"F4 | FGFD "C"E4 | EDEF G2G2 | Gc"G7"Bd "C"c4 |] 
+% pk00930
+X:6
+T:Ronde enfantine (Polka) D (tinwhistle in D)
+T:pk00930 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"AdcB A2A2 | AdcB A4 | ABAF "A7"G4 | GAGE "D"F4 | FEFG A2A2 | Ad"A7"ce "D"d4 |] 
+X:7
+T:Ronde enfantine (Polka) D (tinwhistle in D) solo
+T:pk00930 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+AdcB A2A2 | AdcB A4 | ABAF G4 | GAGE F4 | FEFG A2A2 | Adce d4 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 6, 2016

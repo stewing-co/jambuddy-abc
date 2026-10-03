@@ -1,0 +1,90 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walzer  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.141 (wz09233) orig. C,F
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+g|"C"e^de | c'ba | gc>d | e3 | "G7"gd>e | "tr"f2a | "C"gc>d | e2z | 
+{/f}e^de | "F"c'ba | "C"gc>d | e3 | "G7"gd>e | fA>B | "C"c>cc | czg || 
+"G7"e'zd' | "tr"f2e/f/ | "C"d'zc' | e2 a/g/ | "G7"g/f/ d/B/G | zb>a | "C"a/g/ e/c/ G | zc/e/ g/c'/ | 
+"G7"e'zd' | "tr"f2e/f/ | "C"d'zc' | e2c' | "G7"b/d'/ c'/a/ ^g/b/ | a/f/ e/g/ f/B/ | "C"c>c'c' | c'zb || [K:F] [L:1/8]
+"C7"ba gf ef | gf ed cB | "F"A2 cdc2 |  z2dc dc | "C7"G2cdc2 | z2dc dc | "F"Ac fa c'2 | "tr"d'4c'2 | 
+"Bb"ba gf ef | "C7"gf ed cB | "F"A2 cdc2 |  z2dc dc | "C7"Gc egc'2 | Gc egc'2 | "F"f3ff2 | f2z2z2 |] 
+% wz09233
+X:2
+T:Walzer  GC 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+d|"G"B^AB | gfe | dG>A | B3 | "D7"dA>B | "tr"c2e | "G"dG>A | B2z | 
+{/c}B^AB | "C"gfe | "G"dG>A | B3 | "D7"dA>B | cE>F | "G"G>GG | Gzd || 
+"D7"bza | "tr"c2B/2c/2 | "G"azg | B2 e/2d/2 | "D7"d/2c/2 A/2F/2D | zf>e | "G"e/2d/2 B/2G/2 D | zG/2B/2 d/2g/2 | 
+"D7"bza | "tr"c2B/2c/2 | "G"azg | B2g | "D7"f/2a/2 g/2e/2 ^d/2f/2 | e/2c/2 B/2d/2 c/2F/2 | "G"G>gg | gzf || [K:C] [L:1/8]
+"G7"fe dc Bc | dc BA GF | "C"E2 GAG2 | z2AG AG | "G7"D2GAG2 | z2AG AG | "C"EG ce g2 | "tr"a4g2 | 
+"F"fe dc Bc | "G7"dc BA GF | "C"E2 GAG2 | z2AG AG | "G7"DG Bdg2 | DG Bdg2 | "C"c3cc2 | c2z2z2 |] 
+% wz09233
+X:3
+T: Walzer  CF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+g|"C"e^de | c'ba | gc>d | e3 | "G7"gd>e | "tr"f2a | "C"gc>d | e2z | 
+{/f}e^de | "F"c'ba | "C"gc>d | e3 | "G7"gd>e | fA>B | "C"c>cc | czg || 
+"G7"e'zd' | "tr"f2e/f/ | "C"d'zc' | e2 a/g/ | "G7"g/f/ d/B/G | zb>a | "C"a/g/ e/c/ G | zc/e/ g/c'/ | 
+"G7"e'zd' | "tr"f2e/f/ | "C"d'zc' | e2c' | "G7"b/d'/ c'/a/ ^g/b/ | a/f/ e/g/ f/B/ | "C"c>c'c' | c'zb || [K:F] [L:1/8]
+"C7"ba gf ef | gf ed cB | "F"A2 cdc2 |  z2dc dc | "C7"G2cdc2 | z2dc dc | "F"Ac fa c'2 | "tr"d'4c'2 | 
+"Bb"ba gf ef | "C7"gf ed cB | "F"A2 cdc2 |  z2dc dc | "C7"Gc egc'2 | Gc egc'2 | "F"f3ff2 | f2z2z2 |] 
+% wz09233
+X:4
+T:Walzer  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+d|"G"B^AB | gfe | dG>A | B3 | "D7"dA>B | "tr"c2e | "G"dG>A | B2z | 
+{/c}B^AB | "C"gfe | "G"dG>A | B3 | "D7"dA>B | cE>F | "G"G>GG | Gzd || 
+"D7"bza | "tr"c2B/2c/2 | "G"azg | B2 e/2d/2 | "D7"d/2c/2 A/2F/2D | zf>e | "G"e/2d/2 B/2G/2 D | zG/2B/2 d/2g/2 | 
+"D7"bza | "tr"c2B/2c/2 | "G"azg | B2g | "D7"f/2a/2 g/2e/2 ^d/2f/2 | e/2c/2 B/2d/2 c/2F/2 | "G"G>gg | gzf || [K:C] [L:1/8]
+"G7"fe dc Bc | dc BA GF | "C"E2 GAG2 | z2AG AG | "G7"D2GAG2 | z2AG AG | "C"EG ce g2 | "tr"a4g2 | 
+"F"fe dc Bc | "G7"dc BA GF | "C"E2 GAG2 | z2AG AG | "G7"DG Bdg2 | DG Bdg2 | "C"c3cc2 | c2z2z2 |] 
+% wz09233
+X:5
+T:Walzer G&D (tinwhistle in D) var.
+T:wz09233 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+d|"G"B^AB | gfe | dG>A | B3 | "D7"dA>B | "tr"c2e | "G"dG>A | B2z | 
+{/c}B^AB | "C"gfe | "G"dG>A | B3 | "D7"dA>B | cE>F | "G"G>GG | Gzd || 
+"D7"bza | "tr"c2B/2c/2 | "G"azg | B2 e/2d/2 | "D7"d/2c/2 A/2F/2D | zf>e | "G"e/2d/2 B/2G/2 D | zG/2B/2 d/2g/2 | 
+"D7"bza | "tr"c2B/2c/2 | "G"azg | B2g | "D7"f/2a/2 g/2e/2 ^d/2f/2 | e/2c/2 B/2d/2 c/2F/2 | "G"G>gg | gzf || [K:D] [L:1/8]
+"A7"gf ed cd | ed cB AG | "D"F2 ABA2 | z2BA BA | "A7"E2ABA2 | z2BA BA | "D"FA df a2 | "tr"b4a2 | 
+"G"gf ed cd | "A7"ed cB AG | "D"F2 ABA2 | z2BA BA | "A7"EA cea2 | EA cea2 | "D"d3dd2 | d2z2z2 |] 
+X:6
+T:Walzer G&D (tinwhistle in D) var. solo
+T:wz09233 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=12
+d|B^AB | gfe | dG>A | B3 | dA>B | "_c"c2e | dG>A | B2z | 
+{/c}B^AB | gfe | dG>A | B3 | dA>B | cE>F | G>GG | Gzd || 
+bza | "_c"c2B/2"_c"c/2 | azg | B2 e/2d/2 | d/2"_c"c/2 A/2F/2D | zf>e | e/2d/2 B/2G/2 D | zG/2B/2 d/2g/2 | 
+bza | "_c"c2B/2c/2 | azg | B2g | f/2a/2 g/2e/2 ^d/2f/2 | e/2"_c"c/2 B/2d/2 "_c"c/2F/2 | G>gg | gzf || [K:D] [L:1/8]
+gf ed cd | ed cB AG | F2 ABA2 | z2BA BA | E2ABA2 | z2BA BA | FA df a2 | b4a2 | 
+gf ed cd | ed cB AG | F2 ABA2 | z2BA BA | EA cea2 | EA cea2 | d3dd2 | d2z2z2 |]
+% Aug 23, 2016

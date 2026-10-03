@@ -1,0 +1,24 @@
+X:104
+T:N.1 Rataplan (Ambrosio)
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:D
+V: 4 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 4 ]
+%--------------------
+[Q:"Marcial"]
+[A,D]zz [A,D]zz | [A,D]zz [A,D]zz | [A,D]zz [A,D]zz |[A,D]zz [A,D]zz  | [A,E]zz [A,E]zz | \
+[A,D]zz [A,D]zz | [A,D] z z  D3 -| D3 (^E3 | F) z z C z z | D z z z2z !segno!|| \
+[A,D]zz [A,D]zz | zz.[A,D]/.[A,D]/ [A,D]zz | zz.[A,E]/.[A,E]/ [A,E]zz | zz.[A,D]/.[A,D]/ [A,D]zz | \
+.[A,D]zz .[A,D]zz |  zz.[A,E]/.[A,E]/ [A,E]zz | ^G,zz B,zz | zz.[A,E]/.[A,E]/ [A,E]zz | \
+[A,D]zz .[A,D]zz |  zz.[A,D]/.[A,D]/ [A,D]zz | zz.[A,E]/.[A,E]/ [A,E]zz | \
+zz.[A,D]/.[A,D]/ [A,D]zz | .[A,D]zz .[A,D]zz  | .[G,D]zz ^Ezz | [A,F]zz [=G,E]zz | \
+[F,D]z (.A,/.A,/) .Dzz !fine! |: \
+[K:A] D2z B,3- | B,2z !>![G,D]2z | z2z !>![A,E]3 | z2z !>![A,E]2z | z2z !>![B,E]2z | z2z !>![B,E]2z | \
+z2z !>![A,E]3 | z2z !>![A,E]3 | z2z !>![G,E]3 | z2z !>![G,E]3 |[1 z2z !>![A,E]3 | z2z !>![F,A,]3 | \
+z2z !>![G,E,]3 | z2z [F,G,]3 | z2z !>![E,G,]3 | z2z !>![E,G,]3 :|2 \
+z2z !>![F,A,]3 | z2z !>![=F,A,]3 | z2z !>![E,A,]3 | z2z !>![E,B,]3 | \
+[E,A,]2z !>![E,B,]2z | [E,A,]2z z2z !D.S.! |]
+%---

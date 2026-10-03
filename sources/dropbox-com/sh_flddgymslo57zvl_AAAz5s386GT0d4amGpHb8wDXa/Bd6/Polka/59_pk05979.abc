@@ -1,0 +1,130 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Gedenke mein (Polka)  FBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.284 (pk05979) orig. F,Bb-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+ca |: "F"g2f2 fAcf | "tr""Gm"e2d2 d2db | "C7"agBb agda | "F"gfAd c2ca | "tr" g2f2 fAcf | "Gm"e2d2 d2db | ("C7"ag).c.e (ag).d.e |1 
+"F"f2a2 f2ca :|2 "F"f2a2 f2fe |: "Dm"d^cde fefg | agfe d2f2 | "A7"e2A2 a3g | "Dm"fgfe d2ed | "C7"c=Bcd e^def | 
+g^fga bag=f | ec=Bc a3g |1 "F"f2f2 f2fe :|2 "F"f2f2 f2Fd |: [K:Bb] (!>!"Bb"c4c)Bdg | (!>!f4 f)dfb | "F7"bacd e2ea | 
+("Bb"gf).d.B F2Fd | (c4c)Bdg | (!>!f4 f)dfb | "F7"agcd efga |1 "Bb"b2b2 b2Fd :|2 "Bb"b2b2 b2cd |: "Cm"edcd e2b2 | 
+"F7"a3^g agfe | "Bb"dcBc d2a2 | g3f gfdB | "F7"cdef a2g2 | "tr""Bb"g2f2 fbd2 | P"F7"f2e2 egc2 |1 "Bb"B2d2 B2cd :|2 "Bb"B2d2 B2z2 |] 
+W: Gedenke mein (Remember me)
+% pk05979
+X:2
+T:Gedenke mein (Polka)  CF 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+Ge |: "C"d2c2 cEGc | "tr""Dm"B2A2 A2Af | "G7"edFf edAe | "C"dcEA G2Ge | "tr" d2c2 cEGc | "Dm"B2A2 A2Af | ("G7"ed).G.B (ed).A.B |1 
+"C"c2e2 c2Ge :|2 "C"c2e2 c2cB |: "Am"A^GAB cBcd | edcB A2c2 | "E7"B2E2 e3d | "Am"cdcB A2BA | "G7"G^FGA B^ABc | 
+d^cde fed=c | BG^FG e3d |1 "C"c2c2 c2cB :|2 "C"c2c2 c2CA |: [K:F] (!>!"F"G4G)FAd | (!>!c4 c)Acf | "C7"feGA B2Be | 
+("F"dc).A.F C2CA | (G4G)FAd | (!>!c4 c)Acf | "C7"edGA Bcde |1 "F"f2f2 f2CA :|2 "F"f2f2 f2GA |: "Gm"BAGA B2f2 | 
+"C7"e3^d edcB | "F"AGFG A2e2 | d3c dcAF | "C7"GABc e2d2 | "tr""F"d2c2 cfA2 | P"C7"c2B2 BdG2 |1 "F"F2A2 F2GA :|2 "F"F2A2 F2z2 |] 
+% pk05979
+X:3
+T:Gedenke mein (Polka)  GC 2+
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+db |: "G"a2g2 gBdg | "tr""Am"f2e2 e2ec' | "D7"bacc' baeb | "G"agBe d2db | "tr" a2g2 gBdg | "Am"f2e2 e2ec' | ("D7"ba).d.f (ba).e.f |1 
+"G"g2b2 g2db :|2 "G"g2b2 g2gf |: "Em"e^def gfga | bagf e2g2 | "B7"f2B2 b3a | "Em"gagf e2fe | "D7"d^cde f^efg | 
+a^gab c'ba=g | fd^cd b3a |1 "G"g2g2 g2gf :|2 "G"g2g2 g2Ge |: [K:C] (!>!"C"d4d)cea | (!>!g4 g)egc' | "G7"c'bde f2fb | 
+("C"ag).e.c G2Ge | (d4d)cea | (!>!g4 g)egc' | "G7"bade fgab |1 "C"c'2c'2 c'2Ge :|2 "C"c'2c'2 c'2de |: "Dm"fede f2c'2 | 
+"G7"b3^a bagf | "C"edcd e2b2 | a3g agec | "G7"defg b2a2 | "tr""C"a2g2 gc'e2 | P"G7"g2f2 fad2 |1 "C"c2e2 c2de :|2 "C"c2e2 c2z2 |] 
+% pk05979
+X:4
+T:Gedenke mein (Polka)  GC 10-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+DB |: "G"A2G2 GB,DG | "tr""Am"F2E2 E2Ec | "D7"BACc BAEB | "G"AGB,E D2DB | "tr" A2G2 GB,DG | "Am"F2E2 E2Ec | ("D7"BA).D.F (BA).E.F |1 
+"G"G2B2 G2DB :|2 "G"G2B2 G2GF |: "Em"E^DEF GFGA | BAGF E2G2 | "B7"F2B,2 B3A | "Em"GAGF E2FE | "D7"D^CDE F^EFG | 
+A^GAB cBA=G | FD^CD B3A |1 "G"G2G2 G2GF :|2 "G"G2G2 G2G,E |: [K:C] (!>!"C"D4D)CEA | (!>!G4 G)EGc | "G7"cBDE F2FB | 
+("C"AG).E.C G,2G,E | (D4D)CEA | (!>!G4 G)EGc | "G7"BADE FGAB |1 "C"c2c2 c2G,E :|2 "C"c2c2 c2DE |: "Dm"FEDE F2c2 | 
+"G7"B3^A BAGF | "C"EDCD E2B2 | A3G AGEC | "G7"DEFG B2A2 | "tr""C"A2G2 GcE2 | P"G7"G2F2 FAD2 |1 "C"C2E2 C2DE :|2 "C"C2E2 C2z2 |] 
+% pk05979
+X:5
+T:Gedenke mein (Polka)  CF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+Ge |: "C"d2c2 cEGc | "tr""Dm"B2A2 A2Af | "G7"edFf edAe | "C"dcEA G2Ge | "tr" d2c2 cEGc | "Dm"B2A2 A2Af | ("G7"ed).G.B (ed).A.B |1 
+"C"c2e2 c2Ge :|2 "C"c2e2 c2cB |: "Am""_a"A"_#"^GA"_h"B c"_h"Bc"_d"d | edcB A2c2 | "E7"B2E2 e3"_ ="d | "Am"cdcB A2BA | "G7"G^FGA B^ABc | 
+d^cde fed=c | BG^FG e3d |1 "C"c2c2 c2cB :|2 "C"c2c2 c2CA |: [K:F] (!>!"F"G4G)FAd | (!>!c4 c)Acf | "C7"feGA B2Be | 
+("F"dc).A.F C2CA | (G4G)FAd | (!>!c4 c)Acf | "C7"edGA Bcde |1 "F"f2f2 f2CA :|2 "F"f2f2 f2GA |: "Gm"BAGA B2f2 | 
+"C7"e3^d edcB | "F"AGFG A2e2 | d3c dcAF | "C7"GABc e2d2 | "tr""F"d2c2 cfA2 | P"C7"c2B2 BdG2 |1 "F"F2A2 F2GA :|2 "F"F2A2 F2z2 |] 
+% pk05979
+X:6
+T:Gedenke mein (Polka)  GC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+db |: "G"a2g2 gBdg | "tr""Am"f2e2 e2ec' | "D7"bacc' baeb | "G"agBe d2db | "tr" a2g2 gBdg | "Am"f2e2 e2ec' | ("D7"ba).d.f (ba).e.f |1 
+"G"g2b2 g2db :|2 "G"g2b2 g2gf |: "Em"e^def gfga | bagf e2g2 | "B7"f2B2 b3a | "Em"gagf e2fe | "D7"d^cde f^efg | 
+a^gab c'ba=g | fd^cd b3a |1 "G"g2g2 g2gf :|2 "G"g2g2 g2Ge |: [K:C] (!>!"C"d4d)cea | (!>!g4 g)egc' | "G7"c'bde f2fb | 
+("C"ag).e.c G2Ge | (d4d)cea | (!>!g4 g)egc' | "G7"bade fgab |1 "C"c'2c'2 c'2Ge :|2 "C"c'2c'2 c'2de |: "Dm"fede f2c'2 | 
+"G7"b3^a bagf | "C"edcd e2b2 | a3g agec | "G7"defg b2a2 | "tr""C"a2g2 gc'e2 | P"G7"g2f2 fad2 |1 "C"c2e2 c2de :|2 "C"c2e2 c2z2 |] 
+% pk05979
+X:7
+T:Gedenke mein (Polka)  GC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+DB |: "G"A2G2 GB,DG | "tr""Am"F2E2 E2Ec | "D7"BACc BAEB | "G"AGB,E D2DB | "tr" A2G2 GB,DG | "Am"F2E2 E2Ec | ("D7"BA).D.F (BA).E.F |1 
+"G"G2B2 G2DB :|2 "G"G2B2 G2GF |: "Em"E^DEF GFGA | BAGF E2G2 | "B7"F2B,2 B3A | "Em"GAGF E2FE | "D7"D^CDE F^EFG | 
+A^GAB cBA=G | FD^CD B3A |1 "G"G2G2 G2GF :|2 "G"G2G2 G2G,E |: [K:C] (!>!"C"D4D)CEA | (!>!G4 G)EGc | "G7"cBDE F2FB | 
+("C"AG).E.C G,2G,E | (D4D)CEA | (!>!G4 G)EGc | "G7"BADE FGAB |1 "C"c2c2 c2G,E :|2 "C"c2c2 c2DE |: "Dm"FEDE F2c2 | 
+"G7"B3^A BAGF | "C"EDCD E2B2 | A3G AGEC | "G7"DEFG B2A2 | "tr""C"A2G2 GcE2 | P"G7"G2F2 FAD2 |1 "C"C2E2 C2DE :|2 "C"C2E2 C2z2 |] 
+% pk05979
+X:8
+T:Gedenke mein (Polka) D&G (tinwhistle in D)
+T:pk05979 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+Af |: "D"e2d2 dFAd | "tr""Em"c2B2 B2Bg | "A7"feGg feBf | "D"edFB A2Af | "tr" e2d2 dFAd | "Em"c2B2 B2Bg | ("A7"fe).A.c (fe).B.c |1 
+"D"d2f2 d2Af :|2 "D"d2f2 d2dc |: "Bm"B^ABc dcde | fedc B2d2 | "F#7"c2F2 f3e | "Bm"dedc B2cB | "A7"A^GAB c^Bcd | 
+e^def gfe=d | cA^GA f3e |1 "D"d2d2 d2dc :|2 "D"d2d2 d2DB |: [K:G] (!>!"G"A4A)GBe | (!>!d4 d)Bdg | "D7"gfAB c2cf | 
+("G"ed).B.G D2DB | (A4A)GBe | (!>!d4 d)Bdg | "D7"feAB cdef |1 "G"g2g2 g2DB :|2 "G"g2g2 g2AB |: "Am"cBAB c2g2 | 
+"D7"f3^e fedc | "G"BAGA B2f2 | e3d edBG | "D7"ABcd f2e2 | "tr""G"e2d2 dgB2 | P"D7"d2c2 ceA2 |1 "G"G2B2 G2AB :|2 "G"G2B2 G2z2 |] 
+X:9
+T:Gedenke mein (Polka) D&G (tinwhistle in D) solo
+T:pk05979 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+Af |: e2d2 dFAd | Tc2B2 B2Bg | feGg feBf | edFB A2Af | T e2d2 dFAd | c2B2 B2Bg | (fe).A.c (fe).B.c |1 
+d2f2 d2Af :|2 d2f2 d2dc |: B^ABc dcde | fedc B2d2 | c2F2 f3e | dedc B2cB | A^GAB c"_c"^Bcd | 
+e^def gfe=d | cA^GA f3e |1 d2d2 d2dc :|2 d2d2 d2DB |: [K:G] (!>!A4A)GBe | (!>!d4 d)Bdg | gfAB "_c"c2cf | 
+(ed).B.G D2DB | (A4A)GBe | (!>!d4 d)Bdg | feAB "_c"cdef |1 g2g2 g2DB :|2 g2g2 g2AB |: "_c"cBAB "_c"c2g2 | 
+f3^e f^ed"_c"c | BAGA B2f2 | e3d edBG | AB"_c"cd f2e2 | Te2d2 dgB2 | Pd2"_c"c2 ceA2 |1 G2B2 G2AB :|2 G2B2 G2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 15, 2016

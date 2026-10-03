@@ -1,0 +1,152 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:IX. Praise blindness eies,
+T: Canto.
+C: John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+L:1/2
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on first line
+N:(1) The underlay is confusing.  The Lenvoy section is printed after the first verse, which has one set of words and a repeat sign.  The verse printed at the bottom  of the canto part is two sets of words for the A music, but the Lenvoy section is specified to be sung only after the second set. The repeat signs occur in the lute part, at the end of the A section in the Canto part, and in Lenvoy for all parts, but not in the A section of any of the other vocal parts.  There are other reasonable interpretations, but I think Dowland probably meant Lenvoy to be sung (and repeated) after all three verses are sung.  I would not repeat any of the A section words, i.e., I would sing the A section 3 times with different words each time.
+N:(2) The Canto part is written with no flats or sharps in the key signature; all other parts are written with a key signature of one flat.
+K:D dor
+|: A d ^c d A c | A G F E3 | 
+A c B A > A B | c d > d ^c3 | 
+w:Bee dumbe vaine tongue, words are but flat- tering windes,
+w:Con- vey in- to thy head hopes to ob- taine,
+w:Af- fec- tion is not knowne till one be dead
+c c > G _B > A A | A G G A3 | 
+w:Breake hart and bleed for ther is no re- ceit,
+w:Then tell thy hear- ing thou art deafe by art,
+w:Re- ward for love are la- bours for his paines,
+A B ^c d > A F A G E D3 :|
+w:To purge in- con- stan- cy from most mens mindes.
+w:Now love is art that wont- ed to be plaine,
+w:Loves qui- ver made of gold his shafts of leade.
+P:Lenvoy:
+|: A F G E > c _B/ A/ | A2 G A3 | 
+w:And so I wackt a- mazd and could not move,
+d c _B A > d c | A G E D3 :|
+w:I know my dreame was true, and yet I love.
+
+X:2
+T:IX. Praise blindness eies,
+T:Alto.
+C: John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+L:1/2
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on second line
+K:D dor
+|:F F E D > F E F E D ^C3
+w:1.~Praise blind- ness eies, for see- ing is de- ceit,
+w:2.~And if thine eares false Har- alds to thy hart,
+w:3.~Now none is bald ex- cept they see his braines
+E3/2 A G/ F > F E/ D/ A2 G A3
+w:Bee dumbe vaine tongue, words are but flat- tering windes,
+w:Con- vey in- to thy head hopes to ob- taine,
+w:Af- fec- tion is not knowne till one be dead
+A > A G F > F E D3/2 F E/ F3
+w:Breake hart and bleed for ther is no re- ceit,
+w:Then tell thy hear- ing thou art deafe by art,
+w:Re- ward for love are la- bours for his paines,
+D G > E F > F D F E/ D ^C/ D3 :|
+w:To purge in- con- stan- cy from most mens _ mindes.
+w:Now love is art that wont- ed to  be _ plaine,
+w:Loves qui- ver made of gold his shafts of _ leade.
+P:Lenvoy:
+|:c B B A > C D/ E/ F > E D ^C3
+w:And so I wackt a- mazd and could not _ move,
+F3/4 G// A G F > F E F E/ D ^C/ HD3 :|
+w:I _ know my dreame was true, and yet I _ love.
+
+X:3
+T:IX. Praise blindness eies,
+T:Tenore.
+C: John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+L:1/2
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -12
+N:Original clef, C on third line
+K:D dor -8va
+|: d A > A A > A A c c A A3
+w:1.~Praise blind- ness eies, for see- ing is de- ceit,
+w:2.~And if thine eares false Har- alds to thy hart,
+w:3.~Now none is bald ex- cept they see his braines
+c3/4 d// e e c > c g/ g/ f > e d e3
+w:Bee _ dumbe vaine tongue, words are but flat- ter- ing windes,
+w:Con- * vey in- to thy head hopes to  * ob- taine,
+w:Af- * fec- tion is not knowne till one * be dead
+f > c c d > c c f3/4 e// d c c3 
+w:Breake hart and bleed for ther is * no re- ceit,
+w:Then tell thy hear- ing thou art * deafe by art,
+w:Re- ward for love are la- bours * for his paines,
+z/ f/ e e d > d A c B A HA3 :|
+w:To purge in- con- stan- cy from most mens mindes.
+w:Now love is art that wont- ed to be plaine,
+w:Loves qui- ver made of gold his shafts of leade.
+P:Lenvoy:
+|: f3/4 e// d d c3/4 d// e3/4 f// g c d > d e3
+w:And  * so I wackt * a- * mazd and could not move,
+d/ f c/ e/ d3/4 e// f3/4 g// a A/ c B A HA3 :|
+w:I know my dreame, my * dreame, was true, * and yet I love.
+
+X:4
+T:IX. Praise blindness eies,
+T:Basso.
+C: John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+L:1/2
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -24
+K:D min bass
+|: d3/4 e// f3/4 g// a/ A/ d > d A F c d A3 
+w:1.~Praise * * * blind- ness eies, for see- ing is de- ceit,
+w:2.~And * * * if thine eares false Har- alds to thy hart,
+w:3.~Now * * * none is bald ex- cept they see his braines
+A a e f > f g a b > b a3
+w:Bee dumbe vaine tongue, words are but flat- tering windes,
+w:Con- vey in- to thy head hopes to ob- taine,
+w:Af- fec- tion is not knowne till one be dead
+f > f e d > A c d B c F3
+w:Breake hart and bleed for ther is no re- ceit,
+w:Then tell thy hear- ing thou art deafe by art,
+w:Re- ward for love are la- bours for his paines,
+f g a d > d d z/ F/ G A HD3 :|
+w:To purge in- con- stan- cy from most mens mindes.
+w:Now love is art that wont- ed to be plaine,
+w:Loves qui- ver made of gold his shafts of leade.
+P:Lenvoy:
+|:F B G A > a g f b > b a3 
+w:And so I wackt a- mazd and could not move,
+z/ d/ f g d3/4 e// f3/4 g// a z/ F/ G A HD3 :|
+w:I know my dreame _ _ was true, and yet I love.
+

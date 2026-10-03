@@ -1,0 +1,81 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Walzer  FC
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.282f (wz02035) orig. F,C
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T:Überliefert vermutlich durch Joggi Stocker (1889-1956)
+%%MIDI program 21
+%%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"Acd | d2c | cf>g | "C7"e3 | Bcd | d2c | cg>a | "F"f3 | Acd | d2c | 
+"D7"ca>b | "Gm"g3 | "Gm/Bb"dg>g | "F/C"f2c | "C7"e2g | "F"f2z |: [K:C] "C".e.e.e |  .e G/B/ c/e/ | .g!>!a>"_*"e | "G7"f3 | 
+.f.f.f | .f G/B/ d/f/ | .g!>!a>d | "C"e3 | .e.e.e | .e G/B/ c/e/ | .g!>!c'>e | "Dm"a3 | da>d |  "C"g2c | 
+"G7"g2B |1 "C"czG :|2 "C"czc || [K:F] "C7"B2c | c2d | "F"d2c | c2a | "C7"a2g | e2e | "F"g2f | 
+c2c/A/ | "C7"B2c | d2d | "F"d2c | c2a | "C"g2e | "G7"g>f e/d/ | ("C"c3 | c)zc |: "C7"bb>b | 
+.b.a.g | "F"f>ff | .f.e.d | "C7"c2=B/c/ |1 e>d c/B/ | "F"A2 A/d/ | c2c :|2 "C7"c'2e | "F"f>ff | fzz |]  
+W:
+W:Anmerkung Hrsg.: Teil B, Takt 3: *HC: f
+% wz02035
+
+X:2
+T:Walzer  FC  (wz02035)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.282f (wz02035) orig. F,C
+%%MIDI program 21
+%%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"Acd | d2c | cf>g | "C7"e3 | Bcd | d2c | cg>a | "F"f3 | Acd | d2c | 
+"D7"ca>b | "Gm"g3 | "Gm/Bb"dg>g | "F/C"f2c | "C7"e2g | "F"f2z |: [K:C] "C".e.e.e |  .e G/B/ c/e/ | .g!>!a>e | "G7"f3 | 
+.f.f.f | .f G/B/ d/f/ | .g!>!a>d | "C"e3 | .e.e.e | .e G/B/ c/e/ | .g!>!c'>e | "Dm"a3 | da>d |  "C"g2c | 
+"G7"g2B |1 "C"czG :|2 "C"czc || [K:F] "C7"B2c | c2d | "F"d2c | c2a | "C7"a2g | e2e | "F"g2f | 
+c2c/A/ | "C7"B2c | d2d | "F"d2c | c2a | "C"g2e | "G7"g>f e/d/ | ("C"c3 | c)zc |: "C7"bb>b | 
+.b.a.g | "F"f>ff | .f.e.d | "C7"c2=B/c/ |1 e>d c/B/ | "F"A2 A/d/ | c2c :|2 "C7"c'2e | "F"f>ff | fzz |]  
+% wz02035
+
+X:3
+T:Walzer  CG 5-  (wz02035)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.282f (wz02035) orig. F,C
+%%MIDI program 21
+%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"EGA | A2G | Gc>d | "G7"B3 | FGA | A2G | Gd>e | "C"c3 | EGA | A2G | 
+"A7"Ge>f | "Dm"d3 | "Dm/F"Ad>d | "C/G"c2G | "G7"B2d | "C"c2z |: [K:G] "G".B.B.B | .B D/2F/2 G/2B/2 | .d!>!e>B | "D7"c3 | 
+.c.c.c | .c D/2F/2 A/2c/2 | .d!>!e>A | "G"B3 | .B.B.B | .B D/2F/2 G/2B/2 | .d!>!g>B | "Am"e3 | Ae>A | "G"d2G | 
+"D7"d2F |1 "G"GzD :|2 "G"GzG || [K:C] "G7"F2G | G2A | "C"A2G | G2e | "G7"e2d | B2B | "C"d2c | 
+G2G/2E/2 | "G7"F2G | A2A | "C"A2G | G2e | "G"d2B | "D7"d>c B/2A/2 | ("G"G3 | G)zG |: "G7"ff>f | 
+.f.e.d | "C"c>cc | .c.B.A | "G7"G2^F/2G/2 |1 B>A G/2F/2 | "C"E2 E/2A/2 | G2G :|2 "G7"g2B | "C"c>cc | czz |] 
+% wz02035
+
+X:4
+T:Walzer D&A (tinwhistle in D) solo
+T:GL02013 (Hanny Christen)
+%%MIDI program 72   % 111 / 74 / 79=whistle
+%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:D transpose=12
+FAB | B2A | Ad>e | c3 | GAB | B2A | Ae>f | d3 | FAB | B2A | 
+Af>g | e3 | Be>e | d2A | c2e | d2z |: [K:A] .c.c.c | .c E/2"_#"G/2 A/2c/2 | .e!>!f>c | d3 | 
+.d.d.d | .d E/2"_#"G/2 B/2d/2 | .e!>!f>B | c3 | .c.c.c | .c E/2"_#"G/2 A/2c/2 | .e!>!a>c | f3 | Bf>B | e2A | 
+e2"_#"G |1 AzE :|2 AzA || [K:D] G2A | A2B | B2A | A2f | f2e | c2c | e2d | 
+A2A/2F/2 | G2A | B2B | B2A | A2f | e2c | e>d c/2B/2 | (A3 | A)zA |: gg>g | 
+.g.f.e | d>dd | .d.c.B | A2^G/2A/2 |1 c>B A/2G/2 | F2 F/2B/2 | A2A :|2 a2c | d>dd | dzz |]
+% wz02035
+% Oct 3, 2016

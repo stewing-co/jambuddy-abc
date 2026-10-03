@@ -1,0 +1,36 @@
+X:708
+T:[Terceto]
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:G
+V: 8 clef=treble name="Violino II" sname="Vl.II"
+%%MIDI program 1 40
+%%staves [{ 8 }]
+%-------------------------------------------------------------------------------------------------------
+Z6 | z2 || z2 | Z2 || Z2 | !fermata!z4  || \
+[Q:"Allegro"] d/ | B d//c//d//c///B/// b/(d//e// "_unis." f//g//a//f//) | \
+d//c'// b a/ d'/(d//e// f//g//a//f//) | d//c'// b a/ b//b//b//b// ^c'//c'//c'//c'// | d'zd'z | \
+d'zz2| [L:1/16]ze^ce Aece Aaba Aaba | Baba Baba ^caba caba | daba  daba da=c'a dac'a | \
+[L:1/4] bzbz | zz/ d'/ [L:1/16] d'c'ba gfgf | d'c'ba gfgf gfed cBAG [L:1/4] | \
+!fermata!d zzz//d//e//f// | .g/.B/ .A/.d/ Gz| zz/!p!g/ g//e// {e}f3/2 | \
+zz/f/ g/B/z | zz/c/ c//A// {A}B3/2 | z2 z/d/d/d/ | dc B/d/e/d/ | e/E/ D/d/ e/E/D/d/ | \
+f//F//A//F// f//F//A//F// ^cd | ^c//B// A  a/ a//^c//e//c// a//^c//e//c// | \
+d/F/E/F/ z2 | !f!a z//d'//^c'//d'// a/f/ z//d'//^c'//d'// | \
+a//d//f//d// a//d//f//d// ^c//a//b//a// A//a//b//a// | \
+B//a//b//a// B//a//b//a// ^c//a//b//a// A//a//b//a// | \
+d//a//b//a// d//a//b//a// .d'/.f/ .e/.a/ | d/.F/ .E/.A/ Dz |  \
+zz/^c/ d/D/ z | z z/d/ d//B// {B}^c3/2 | z z/g/ g//e// {e}f3/2 | \
+z/e/e/e/ ed | z d z/a/b/a/ | b/B/ A/d/- d/^c/c/a/ | Be-e/dB/| \
+^c>c B/B/B/B/ | ^cd^c//d//ef/|^c//B//A3/2"_(error in ms: check)"-A/G/G/e/ | \
+FB-B/G/ E/c/ | B/B/B/B/ A>B | A>G{G}F>B |  Az/A/{A}G>"_(grace note?)"F | \
+{F}E>A G>B|Azz2| z/d//>e// f/g/ f/FG/ | AGz2| zz//g//b//g// d'/d//e// f//g//a//f// | \
+d//c'// ba/ b//b//b//b// ^c'//c'//c'//c'// | d'/B/zd'/d/z| d'/d/z3| \
+z//e//^c//e// A//e//^c//e// A//a//b//a// A//a//b//a// | \
+B//a//b//a// B//a//b//a// ^c//a//b//a// A//a//b//a// | \
+d//a//b//a// d//a//b//a// d//a//b//a// d//a//b//a// | g/G/zg/G/z| \
+zz/ d'/ [L:1/16] d'c'ba gfgf | d'c'ba gfgf gfed cBAG [L:1/4] | \
+!fermata!d zzz//d//e//f//| g/B/A/d/ G || z | z z/e/ e//^c// {c}^d3/2 | zz/b/ c'/e/ z | \
+z/e/f/e/ ^d>f|g/g/g/g/ fb-|ba ^d//a//b//a// e//a//b//a// | c//g//a//g// c//g//a//c// B/b//g// b/g/ | \
+f//A//d//A// f//A//d//A// Bz|ezaz|^dzz2|zB^Az| z4 | !fermata!z4 |] \
+%-------------------------------------------------------------------------------------------------------

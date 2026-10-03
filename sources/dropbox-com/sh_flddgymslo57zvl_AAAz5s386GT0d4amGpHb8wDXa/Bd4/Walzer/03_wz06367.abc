@@ -1,0 +1,66 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Ein schöner Traum (Walzer) GDC (wz06367)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.126 (wz06367) orig. G,D,C
+T: Basel - Repertoire der 'Holzmusig Allschwil'. S.118-139
+T:Überliefert durch Wihelm Lötscher-Schätzle (*1878, Uhrmacher)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+("G"B3 | B)A>B | (d3 | d)zz | ("C"e3 | e)c>e | (g3 | g)zz | "D7"fA>c | fze | 
+"G"ezd | zB>A | ("D7"d3 | d)cA | ("G"G3 | G)zz :: [K:D] "D"A (F/A/ d/f/) | d3 | A (F/A/ d/f/) | a3 | 
+"A7"g g/f/ f/g/ | (g/e/) (e/c/) (c/A/) | "D"BAA | BAA | A (F/A/ d/f/) | d3 | !>!A (F/A/ d/f/) | a3 | !>!"Em"g (B/e/) (e/g/) | 
+!>!"D"f (A/d/) (d/f/) | !>!"A7"e (A/c/) (c/e/) | "D"dzz :: [K:G] "G"d3 | B3 | g3 |  (f2e) | "D7"d3 | A2c | "G"BDG | 
+Bdg | "Am"A3 | c3 | (e3 | e)cA | "D7"F3 |1 d2A | "G"BGB | dgb :|2 ("D7"d2F) | 
+"G"[GB]3 | [GB]zz |: [K:C] "C"G>ce | e (d/c/ B/c/) | "Dm"azd | f3 | "G7"Gf>G  | (d2g) | "C"Ge>G | (c2g) | 
+G>c e | e (d/c/ B/c/) | "Dm"azd | f3 | "G7"G/A/ B/c/ d/e/ | f/e/ d/c/ B/A/ | G/B/ dg | "C"czz :| 
+W:
+W:Anmerkung H.C.: St. Stephan/Simmental, Benken 43, Binningen 43, Laupenberg 1.V.410
+% wz06367
+% Dez 7, 2016
+
+X:2
+T:Ein schöner Traum (Walzer) CGF 5+(wz06367)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.126 (wz06367) orig. G,D,C
+S:Basel - Repertoire der 'Holzmusig Allschwil'. S.118-139
+S:Überliefert durch Wihelm Lötscher-Schätzle (*1878, Uhrmacher)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+("C"e3 | e)d>e | (g3 | g)zz | ("F"a3 | a)f>a | (c'3 | c')zz | "G7"bd>f | bza | 
+"C"azg | ze>d | ("G7"g3 | g)fd | ("C"c3 | c)zz :: [K:G] "G"d (B/2d/2 g/2b/2) | g3 | d (B/2d/2 g/2b/2) | d'3 | 
+"D7"c' c'/2b/2 b/2c'/2 | (c'/2a/2) (a/2f/2) (f/2d/2) | "G"edd | edd | d (B/2d/2 g/2b/2) | g3 | !>!d (B/2d/2 g/2b/2) | d'3 | !>!"Am"c' (e/2a/2) (a/2c'/2) | 
+!>!"G"b (d/2g/2) (g/2b/2) | !>!"D7"a (d/2f/2) (f/2a/2) | "G"gzz :: [K:C] "C"g3 | e3 | c'3 | (b2a) | "G7"g3 | d2f | "C"eGc | 
+egc' | "Dm"d3 | f3 | (a3 | a)fd | "G7"B3 |1 g2d | "C"ece | gc'e' :|2 ("G7"g2B) | 
+"C"[ce]3 | [ce]zz |: [K:F] "F"c>fa | a (g/2f/2 e/2f/2) | "Gm"d'zg | b3 | "C7"cb>c | (g2c') | "F"ca>c | (f2c') | 
+c>f a | a (g/2f/2 e/2f/2) | "Gm"d'zg | b3 | "C7"c/2d/2 e/2f/2 g/2a/2 | b/2a/2 g/2f/2 e/2d/2 | c/2e/2 gc' | "F"fzz :| 
+% wz06367
+% Dez 7, 2016
+
+
+X:3
+T:Ein schöner Traum (Walzer) CGF 7- (wz06367)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.126 (wz06367) orig. G,D,C
+S:Basel - Repertoire der 'Holzmusig Allschwil'. S.118-139
+S:Überliefert durch Wihelm Lötscher-Schätzle (*1878, Uhrmacher)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+("C"E3 | E)D>E | (G3 | G)zz | ("F"A3 | A)F>A | (c3 | c)zz | "G7"BD>F | BzA | 
+"C"AzG | zE>D | ("G7"G3 | G)FD | ("C"C3 | C)zz :: [K:G] "G"D (B,/2D/2 G/2B/2) | G3 | D (B,/2D/2 G/2B/2) | d3 | 
+"D7"c c/2B/2 B/2c/2 | (c/2A/2) (A/2F/2) (F/2D/2) | "G"EDD | EDD | D (B,/2D/2 G/2B/2) | G3 | !>!D (B,/2D/2 G/2B/2) | d3 | !>!"Am"c (E/2A/2) (A/2c/2) | 
+!>!"G"B (D/2G/2) (G/2B/2) | !>!"D7"A (D/2F/2) (F/2A/2) | "G"Gzz :: [K:C] "C"G3 | E3 | c3 | (B2A) | "G7"G3 | D2F | "C"EG,C | 
+EGc | "Dm"D3 | F3 | (A3 | A)FD | "G7"B,3 |1 G2D | "C"ECE | Gce :|2 ("G7"G2B,) | 
+"C"[CE]3 | [CE]zz |: [K:F] "F"C>FA | A (G/2F/2 E/2F/2) | "Gm"dzG | B3 | "C7"CB>C | (G2c) | "F"CA>C | (F2c) | 
+C>F A | A (G/2F/2 E/2F/2) | "Gm"dzG | B3 | "C7"C/2D/2 E/2F/2 G/2A/2 | B/2A/2 G/2F/2 E/2D/2 | C/2E/2 Gc | "F"Fzz :| 
+% wz06367
+% Dez 7, 2016

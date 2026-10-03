@@ -1,0 +1,38 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka CF (pk07297)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.278 (pk07297) orig. C,F
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"(ce).e2 (eg).g2 | a2a2g4 | (gc').c'2 (c'b).a.g | "G7"(Tg2f2) {/g}fef2 | (Bd).d2 (df).f2  | g2g2f4 |1 (d2b2) bagf | "C"(Ta2g2) {/a}g^fg2 :|2 
+(d2b2) bagf |  "C"c2e2 c2z2 || "E7"e4 e'3b | "Am"d'2c'2 {/d'}(c'b)c'2 | "D7"d4 d'3a | "G"c'2b2 {/a}(b^a)b2 | "G7"(df).f2 z2B2  | "C"(cg).g2 z2e2 | "G7"(fa).a2 (aB).B2 | 
+"C"c2e2 c2z2 || [K:F] "F"a4 bafb | "C7"(Ta2g2) {/a}g^fg2 | g4 (ag).e.a | "F"(Tg2f2) {g}fef2 | a4 (ba).f.b | "C7"Ta2g2 {/a}g^fg2 | (gb).b2 z2e2 | "F"f2a2 f2"_Fine"z2 |] 
+W:
+W:Anmerkung H.C.: Mazurka 592, Schottisch 5/75, Polka 577, Mazurka 548
+% pk07297
+% June 1, 2017
+
+X:2
+T:Polka GC 5- (pk07297)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.278 (pk07297) orig. C,F
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"(GB).B2 (Bd).d2 | e2e2d4 | (dg).g2 (gf).e.d | "D7"(Td2c2) {/d}cBc2 | (FA).A2 (Ac).c2 | d2d2c4 |1 (A2f2) fedc | "G"(Te2d2) {/e}d^cd2 :|2 
+(A2f2) fedc | "G"G2B2 G2z2 || "B7"B4 b3f | "Em"a2g2 {/a}(gf)g2 | "A7"A4 a3e | "D"g2f2 {/e}(f^e)f2 | "D7"(Ac).c2 z2F2 | "G"(Gd).d2 z2B2 | "D7"(ce).e2 (eF).F2 | 
+"G"G2B2 G2z2 || [K:Cmaj] "C"e4 fecf | "G7"(Te2d2) {/e}d^cd2 | d4 (ed).B.e | "C"(Td2c2) {d}cBc2 | e4 (fe).c.f | "G7"Te2d2 {/e}d^cd2 | (df).f2 z2B2 | "C"c2e2 c2"_Fine"z2 |] 
+%W:Anmerkung H.C.: Mazurka 592, Schottisch 5/75, Polka 577, Mazurka 548
+% pk07297
+% June 1, 2017

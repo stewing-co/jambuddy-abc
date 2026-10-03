@@ -1,0 +1,308 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XIIII. Thou Mighty God
+S:The first Part.
+T:Cantus
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on first line
+K:A min
+^G6 A3 A ^G2 |
+w: Thou might- ie God,
+z2 e4 d4 c2 | B3 B A4 |
+w: that right- est e- very wrong,
+z4 z2 e3 d/ c/ B ^G |
+w: Lis- ten to pa- tience,
+z4 z2 z e2 e/ c/ B ^G |
+w: Lis- ten to pa- tience,
+z2 G3 G G2 G2 F2 |
+w: Lis- ten to pa- tience,
+F2 E2 D D 
+w: pa- tience in a
+G3 G/ 
+w:  dy- ing
+ ^G/ A3 A 
+w: a dy- ing 
+^G ^F |
+w: dy- ing 
+ "(3)"G3 z ||
+N:(3) Original has a fermata on this note.
+w: song.
+z2 ^F2 B6 ^F2 | G6 G2 A6 A2 | B3 B B4 |
+w: When Job had lost his Child- ren, Lands, and goods,
+z2 c4 G2 z4 |
+w: Pa- tience, 
+z2 d4 A 
+w: Pa- tience, 
+A  | c > d e4 d2 | c2 B2 A3 A ^G2 z2 
+w: as- swa- * * ged his ex- cess- ive paine,
+|: z2 E2 ^F3 
+w: And when 
+F ^G2 A2 |
+w: his sor- rowes
+B3 d2 c/ B/ 
+w: his sor- * rowes, 
+c4 "(1)"B3 A
+N:Facsimile has a barline here with the dot on the right of it
+w: sor- * rowes
+A3 G G2 |
+w: came as fast 
+^F2 G4 
+w: as flouds,
+F2 E4 |
+w: as flouds,
+z2 E E2 
+w: hope kept 
+D A 
+w: his hart, 
+B | c3
+w: his hart, 
+B2 A
+w: his hart, 
+^G "(2)"A > A G/ F/ E 
+N:(2)The facsimile has a barline here, with the dot on the right.
+w: till com- fort came a- gaine, 
+F2 E/ E/ A >A | ^G2
+w: till com- fort came a- gaine, 
+A2 ^G A2 ^G | HA4 :|
+w: came a- * *  gaine.
+
+
+X:2
+T:XIIII. Thou Mighty God
+S:The first Part.
+T:ALTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on third line
+K:A min
+z4 E8 B, B, 
+w: Thou might- ie
+C4  D2 E4
+w:might- y God,
+z E C/ D/ F2 E "(4)"E3 D/ C/ D2 E4
+N:(4)Original has a half note here.
+w: that * *  right- est e- very * * wrong,
+z2 E3 E D3 C/ B,/ C D E > E
+w: Lis- ten to * * * * pa- tience,
+z z/ G/ F E E > E
+w: Lis- ten to pa- tience,
+D2 E4 D4 C3 
+w: to pa- tience in 
+B,/ C/ B, A, 
+w:a * dy- ing,
+B,2 E2
+w:dy- ing,
+"(6)"E4- E3   z ||
+N:(6) Originally a breve, but all the other parts have a quarter rest here.
+w: song.  *
+ ^D6 E4 ^D2 B,2
+w: When Job had lost,
+E3 D E2
+w: had lost * 
+ D2 C3 D E4 E2 E6
+w:his Child- ren, Lands, and goods,
+z E2 E 
+w: Pa- tience, 
+E2 G3 G/
+w: as- swa- ged 
+ G/ F D2 
+w: as- swa- ged 
+G2 F/ E/ F > G A2 A2 G3 F E3 E A, 
+w: Pa- tience as- swa- * * ged his ex- cess- ive paine,
+C2 B,/ A,/ E4
+w: ex- cess- ive paine,
+|: z4 z4 z2 z E/ F/ G
+w: And * when 
+F E D
+w: his sor- rowes
+F2 E A2 G/ F/ G2
+w: his sor- * rowes * came,
+z D > A, C B, B, C4 B, B, A,4 ^G, B, > B, A,2 
+w: and when his sor- rowes, his sor- rowes came as fast, as fast 
+^G,/ ^F,/ ^G,2
+w: as * flouds,
+z z/ A,/ C 
+w: hope kept 
+D E2
+w: his hart, 
+F2 E2 E E2 D C2
+w: till com- fort came a- gaine, 
+z G2 F/ F/ E > D C
+w: till com- fort came a- gaine, 
+B,/ A,/ B, E E > E HE4 :|
+w:com- fort came a- gaine, a- gaine.
+
+X:3
+T:XIIII. Thou Mighty God
+S:The first Part.
+T:TENOR.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -12
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on fourth line
+K:A min -8va
+z4 B8 e ^G A3 
+w: Thou might- ie God,
+A B A B3 A2 ^G/ F/ ^G2 A3
+w: that right- est e- very * * * wrong,
+G F E F/ 
+w:e- * very wrong,
+D/ d2 c/ B/ c3 B/ A/ ^G E
+w: Lis- * ten to pa- tience, to pa- tience,
+z A2 c B2 e > d c B/ A/ ^G E z A G c > c B c3 B/ c/ d c B2 c2 z2 d3
+w: Lis- ten to pa- tience, Lis- ten to pa- tience, Lis- ten, lis- ten to pa- * * * tience, pa- tience, in
+c/ B/ c3 B/ c/ B A 
+w: a * dy- ing, * dy- ing 
+ B3 z ||
+w: song.
+B6 A G ^F2 B3 A G ^F G3 E F G A B c2 c d2 B2 ^G ^G4
+w: When Job had lost his * * * Child- ren, his *  * Child- ren Lands, Lands,  and goods,
+z ^G A2 G2
+w: Pa- * tience, 
+c2 _B3 B A2 _B B A3 D E2 c4 B2 c4 d e > e d2 c2 B - || "(7)"B A  > A ^G
+N:(7)Original has a repeat here, with a really different "first beginning", so I just unfolded the repeat, and marked the place the other parts repeat to with this double bar.
+w: as- swa- ged, Pa- tience as- swa- ged, as- swa- ged his ex- cess- ive paine, pain, ex- ces- * sive paine,
+A4 B2 
+w: And when 
+E A2 A 
+w: his sor- rowes
+^G2  z A2 G/ F/ E2 E2 ^F4 G2 E2 A3 G d6 c2 B3 
+w: came, and when his sor- rowes, his sor- rowes * came  as fast, as fast
+B A4
+w: as flouds,
+G A2 
+w: hope kept 
+B c > d B 
+w: his hart, his hart,
+c2 B2 A A G c2
+w: till com- fort came a- gaine, 
+B c > c d2 c 
+w: till com- fort, com- fort
+B > B A4 ||
+w: came a- gaine.
+^G A2 ^G A3 A B2 E A2 A ^G2
+w:And when his sor- rows came as fast as flouds
+z A2 G/ F/ E2 E2 ^F4 G2 E2 A3 G d6 c2 B3 
+w: and when his sor- rowes, his sor- rowes came  as fast, as fast
+B A4
+w: as flouds,
+G A2 
+w: hope kept 
+B c > d B 
+w: his hart, his hart,
+c2 B2 A A G c2
+w: till com- fort came a- gaine, 
+B c > c d2 c 
+w: till com- fort, com- fort
+B > B HA4 |]
+w: came a- gaine.
+
+X:4
+T:XIIII. Thou Mighty God
+S:The first Part.
+T:BASSUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -24
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:A min bass
+z4 e8 e3 e ^f4 
+w: Thou might- ie God,
+^g2 a > A (e2 e2) ^c4 (d3 d) A
+w: that right- est e- very wrong, e- very wrong,
+a2 g/ f/ e2 e2 ^f4 ^g2 a2 e3
+w: Lis- ten to pa- tience, to * pa- tience,
+z/ E/ A > B c/ d/ e/ f/ 
+w: Lis- ten * to * * *
+g2 e2 (a3 a ) 
+w: pa- tience in a
+ (g6 g2 ) ( e6 e2)
+w:  dy- ing, dy- ing 
+"(7)"e3 z ||
+N:(7) This was originally a longa.  This was apparently the kind of longa that was something like a fermata, not the kind that indicated that you count 4 whole notes before going on.  
+w: song.
+B8 B2 B2 e3 d c B c2 F3 G A4 - A ^G E4
+w: When Job had lost * * his * Child- ren,  Lands, * and goods,
+z e3 A2 c4 G A _B
+w: Pa- tience, pa- ti- * ence
+G d2 G2 d4 A3 B c2 G2 A a2 g f e f2 e4
+w: as- swa- ged, pa- tience as- swa- ged his ex- cess- * ive * paine:
+|: e4 - e e d4 
+w: And * when *
+c2 (B2  B2 )
+w: his sor- rowes
+A4 z8 G3 g d6 d2 e3 
+w: came, sor- rowes came as fast 
+e e4
+w: as flouds,
+f4 c2
+w: hope kept 
+d2 e3 e A B c 
+w: his hart, hope kept his heart
+A c3 d 
+w: till com- fort 
+e6 e2 HA4 :|
+w: came a- gaine.

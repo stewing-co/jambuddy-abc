@@ -1,0 +1,53 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:  Walzer  FC chords
+T:Hanny Christen. Bd.I  Z\"urich, Schaffhausen, St. Gallen I. S.128 (wz00188) orig. F,C-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"C7"agc | a2g | "F"f2c | d2c | "C7"b2c |1 d2c | "F"a2c | d2c :|2 "C7"d2e | "F"f>ff | fzg/g/ ||  
+|: [K:C] "C"gec | "F"c'2a | "C"gec | g2g/a/ | "G7"gzf |1 dzf/g/ | "C"fze | c2g/g/ :|2 
+"Dm/F"az"G7"b | "C"c'>g e/g/ | "C"czz |: [K:F] "Bb"d>^cd | "C7".b.a.g | "F"fA>d |   c d/c/ =B/c/ | 
+"C7"eG>d | c2e | "F"f/a/ g/f/ e/d/ | c2 A/c/ | "Bb"d>^cd | "C7"bag | "F"fA>d | 
+c2f | "C7".e.d.c | b2e | "F"f/a/ c/f/ A/c/ |1 "F"FzA/c/ :|2 "F"Fzz |] 
+
+X:2
+T:  Walzer  FC chords (align)
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"C7"agc | a2g | "F"f2c | d2c | "C7"b2c |1 d2c | "F"a2c | d2c :|2 "C7"d2e | "F"f>ff | fzg/g/ || 
+|: [K:C] "C"gec | "F"c'2a | "C"gec | g2g/a/ | "G7"gzf |1 dzf/g/ | "C"fze | c2g/g/ :|2 \
+"Dm/F"az"G7"b |
+ "C"c'>g e/g/ | "C"czz |: [K:F] "Bb"d>^cd | "C7".b.a.g | "F"fA>d |   c d/c/ =B/c/ | \
+"C7"eG>d | c2e | "F"f/a/ g/f/ e/d/ |
+ c2 A/c/ | "Bb"d>^cd | "C7"bag | "F"fA>d | \
+c2f | "C7".e.d.c | b2e | "F"f/a/ c/f/ A/c/ |1 "F"FzA/c/ :|2 "F"Fzz |] 
+
+X:3
+T:Walzer  CG 5- chords
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+"G7"edG | e2d | "C"c2G | A2G | "G7"f2G |1 A2G | "C"e2G | A2G :|2 "G7"A2B | "C"c>cc | czd/2d/2 || 
+|: [K:Gmaj] "G"dBG | "C"g2e | "G"dBG | d2d/2e/2 | "D7"dzc |1 Azc/2d/2 | "G"czB | G2d/2d/2 :|2 
+"Am/C"ez"D7"f | "G"g>d B/2d/2 | "G"Gzz |: [K:Cmaj] "F"A>^GA | "G7".f.e.d | "C"cE>A | G A/2G/2 ^F/2G/2 | 
+"G7"BD>A | G2B | "C"c/2e/2 d/2c/2 B/2A/2 | G2 E/2g,/2 | "F"A>^GA | "G7"fed | "C"cE>A | 
+G2c | "G7".B.A.G | f2B | "C"c/2e/2 G/2c/2 E/2G/2 |1 "C"CzE/2G/2 :|2 "C"Czz |] 
+
+X:4
+T:Walzer  CG 5- chords (align)
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+"G7"edG | e2d | "C"c2G | A2G | "G7"f2G |1 A2G | "C"e2G | A2G :|2 "G7"A2B | "C"c>cc | czd/2d/2 || 
+|: [K:Gmaj] "G"dBG | "C"g2e | "G"dBG | d2d/2e/2 | "D7"dzc |1 Azc/2d/2 | "G"czB | G2d/2d/2 :|2 \
+"Am/C"ez"D7"f |
+"G"g>d B/2d/2 | "G"Gzz |: [K:Cmaj] "F"A>^GA | "G7".f.e.d | "C"cE>A | G A/2G/2 ^F/2G/2 | \
+"G7"BD>A | G2B | "C"c/2e/2 d/2c/2 B/2A/2 |
+G2 E/2g,/2 | "F"A>^GA | "G7"fed | "C"cE>A | \
+G2c | "G7".B.A.G | f2B | "C"c/2e/2 G/2c/2 E/2G/2 |1 "C"CzE/2G/2 :|2 "C"Czz |] 
+

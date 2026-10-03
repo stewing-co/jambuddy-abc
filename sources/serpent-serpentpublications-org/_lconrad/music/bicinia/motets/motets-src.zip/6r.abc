@@ -1,0 +1,71 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+
+X:1
+T:6r. Justi tulerunt spolia impiorum
+C:Orlando Lassusio
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:F -8va
+%%MIDI transpose -12
+N:Original clef, C on third line
+%1
+f6 e d c4 d4 z2 e2 f2 d2 c3 c d4 z2 f4 e2 d4 c4 z2 _e4 d2 c4 B4 z2 c2 d c B A\
+w:Ju- - - -sti tu- ler- unt spo- li- a im- pi- o- rum im- pi- o- rum, et can- - - -
+%2
+G2 F2 G3 A B2 c2 z2 g4 f2 e4-e4 z2 A4 =B2 c4 d3 e f2 e2 d c c3 B/ A/ B2 "A"c4-c4 z2 c2\
+w:- ta ve- - - runt Do- mi- ne * no- men san- - - - - ctum tu- - - - - um * et
+%3
+e2 f4 B2 f3 e d c d2 B2 f4 d2 z2 f2 e2 c4 B A c2 B2 d3 c B G A B c2 B2 A4-A4 c6 c2 c4-c4 z2 f3 e d c B4 G4\
+w:vi- ctri- cem ma- - - - - num tu- um lau- da- ve- - - - runt pa- - - - - - - ri- ter * Do- mi- ne * de- - - - - us
+%4
+z2 B3 c d e f3 e/ d/ c3 d e2 f3 e d c B c A2 G4 HF4 |]\
+w:De- - - - - - - - - - us _ _ _ _ _ _ no- ster. *
+
+X:2
+T:6r. Justi tulerunt spolia impiorum
+C:Orlando Lassusio
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:F bass
+%%MIDI transpose -24
+N:Original clef, F on third line
+%1
+z4 z4 f6 e d c4 d4 z2 a2 b2 g2 f3 f g4 z2 b4 a2 g4 f4 z2 _e4 d2 c4 B4 z2 d2\
+w:Ju- - - - sti tu- le- runt spo- li- a im- pi- o- rum im- pi- o- rum, et
+%2
+c d e f g2 a2 g3 f e2 d2 z2 a4 g2 f4 d4 e2 f3 d b2 a3 g f e f2 d4 "A"c4\
+w:can- - - - - ta- ve- - - runt Do- mi- ne no- men san- - - ctum _ _ _ _ tu- um,
+%3
+z2 e2 g2 a4 d2 d'3 c' b a b3 a g f g2 a2 b4 a4-a4 f4 e2 g4 f e g2 f2 a2 g2 a4 z2 f4 f2 f4 z2 a3 g f e d4\
+w:et vi- ctri- cem ma- - - - - - - - - num tu- am * lau- da- ve- - - - runt pa- ri- ter Do- mi- ne de- - - - -
+%4
+B4 z2 d'3 c' b a g f _e d e2 B3 c d e f g a b c' a d'2 b3 a g f f3 e/ d/ e2 \
+w:us De- - - - - - - - - us _ _ _ _ _ _ _ _ _ _ no- - - - - - - - 
+Hf4 |]\
+w:ster. * 
+W:Wisdom, 10:19,20
+W:
+W:The just took the spoils of the wicked.
+W:And they sang to thy holy name, O Lord, 
+W:And they praised with one accord thy victorious hand,
+W:O Lord, our God.

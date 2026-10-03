@@ -1,0 +1,21 @@
+X:1201
+T:Scena Sesta
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:D
+V: 1 clef=alto name="Corno I" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 1 )]
+%-----------
+[Q:Allegro] DzFz | Azz/A/F/D/ | A,4- |  A,4- |  A,4- | A,4 | D2z2| D4 | AG2F | AG2F| EEEz|Z4|Ezz2|Ezz2|E2z2|\
+E3/4E//E3/4E// Ez| Z4 |!fermata!Z ||\
+[Q:"Andante"] Z9 || \
+[Q:Maestoso] [K:C] [K:treble]z//|c/z//c// c/z/ !p!G/z/ E/z/ | z/>!f!G/G!p!G/z/ G/z/ | !p!!f!c4-|!p!!f!c4| \
+c2fe|d/z/ d/z/ !fermata!dz|Z|zccz|Z| zccz|C4|Z2|z/e/d/c/c2|c4|czz2|Z4|zG/z/G!fermata!z||\
+[Q:Allegro] cz/ !f!"_check ms"  G/ cd|czc2|cced|czz2|c4|Gzz2|G4|czz2|z/!f!c/G/E/Cz|Z2|\
+z/G/G/G/ Gz|G4|!p!d4-|d4-|d4-|d4-|d4-|d4-|d4-|d4|G4|Z|G4|dddd|dddz|Z4|G2c2|dzd2|G2c2|dzd2|GGGz|Z8|\
+cccc|Z|zccc|Z|c2z2|Z2|!p!C4-|C4-|"_cresc."C4-|C4-|C4-|!f!C4|C/c/c/c/ cz|c4|\
+GGG!fermata!z|C4|Z|c4|Z|czz2|Z|czcz|czcz|e2d2|czz2|c2d2|czz2|c2d2|\
+cced|cced|c/c/c3|c/c/c3|cccd|cccc/>c/|czz2|]\
+%-----------

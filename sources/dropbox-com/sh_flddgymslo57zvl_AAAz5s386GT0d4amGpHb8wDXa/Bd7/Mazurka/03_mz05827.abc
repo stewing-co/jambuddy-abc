@@ -1,0 +1,83 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Mazurka DA  chords
+T: Hanny Christen. Bd.VII. Bern II, Solothurn. S.120 (mz05827) orig. D,A-Dur
+T: Berner Oberl\"ander T\"anze (Bern)
+C: nach Robert Oehrli, Lenk
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"Aa fA df | "A7"Aa gA ce | "D"Aa fA df | "A7"Aa gA c2 | "D"Aa fA df | "A7"Aa gA ce | Aa gA Bc | "D"d2d2z2 :: [K:A]
+"A"e2ce fe | "E7"e2deg2 | "A"e2ce fe | "E7"e2de b2 | "A"e2ce fe | "E7"e2deg2 | e2 de fg | "A"a2a2z2 || [K:D] 
+"D"a2 fA df | "A7"Af eA ce | a2 gA ce | "D"Ag fA d2 | a2 fA df | "A7"Af eA ce | a2 gA Bc | "D"d2"_> Teil B,A"d2z2 || 
+
+X: 2
+T: Mazurka DA chords Parts
+M:3/4
+L:1/8
+P:ABCBA
+K:D %%MIDI gchordon
+[P:A] "D"Aa fA df | "A7"Aa gA ce | "D"Aa fA df | "A7"Aa gA c2 | "D"Aa fA df | "A7"Aa gA ce | Aa gA Bc | "D"d2d2z2 :| [K:A]
+[P:B] "A"e2ce fe | "E7"e2deg2 | "A"e2ce fe | "E7"e2de b2 | "A"e2ce fe | "E7"e2deg2 | e2 de fg | "A"a2a2z2 || [K:D] 
+[P:C] "D"a2 fA df | "A7"Af eA ce | a2 gA ce | "D"Ag fA d2 | a2 fA df | "A7"Af eA ce | a2 gA Bc | "D"d2"_> Teil B,A"d2z2 |]
+
+X:3
+T:Mazurka CG 2-  chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"Gg eG ce | "G7"Gg fG Bd | "C"Gg eG ce | "G7"Gg fG B2 | "C"Gg eG ce | "G7"Gg fG Bd | Gg fG AB | "C"c2c2z2 :: [K:Gmaj]
+"G"d2Bd ed | "D7"d2cdf2 | "G"d2Bd ed | "D7"d2cd a2 | "G"d2Bd ed | "D7"d2cdf2 | d2 cd ef | "G"g2g2z2 || [K:Cmaj] 
+"C"g2 eG ce | "G7"Ge dG Bd | g2 fG Bd | "C"Gf eG c2 | g2 eG ce | "G7"Ge dG Bd | g2 fG AB | "C"c2"_> Teil B,A"c2z2 || 
+
+X:4
+T:Mazurka CG 2- chords Parts
+M:3/4
+L:1/8
+P:ABCBA
+K:Cmaj%%MIDI gchordon
+[P:A] "C"Gg eG ce | "G7"Gg fG Bd | "C"Gg eG ce | "G7"Gg fG B2 | "C"Gg eG ce | "G7"Gg fG Bd | Gg fG AB | "C"c2c2z2 :| [K:Gmaj]
+[P:B] "G"d2Bd ed | "D7"d2cdf2 | "G"d2Bd ed | "D7"d2cd a2 | "G"d2Bd ed | "D7"d2cdf2 | d2 cd ef | "G"g2g2z2 || [K:Cmaj] 
+[P:C] "C"g2 eG ce | "G7"Ge dG Bd | g2 fG Bd | "C"Gf eG c2 | g2 eG ce | "G7"Ge dG Bd | g2 fG AB | "C"c2"_> Teil B,A"c2z2 |]
+
+X:5
+T:Mazurka FC 3+  chords
+M:3/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+"F"cc' ac fa | "C7"cc' bc eg | "F"cc' ac fa | "C7"cc' bc e2 | "F"cc' ac fa | "C7"cc' bc eg | cc' bc de | "F"f2f2z2 :: [K:Cmaj]
+"C"g2eg ag | "G7"g2fgb2 | "C"g2eg ag | "G7"g2fg d'2 | "C"g2eg ag | "G7"g2fgb2 | g2 fg ab | "C"c'2c'2z2 || [K:Fmaj] 
+"F"c'2 ac fa | "C7"ca gc eg | c'2 bc eg | "F"cb ac f2 | c'2 ac fa | "C7"ca gc eg | c'2 bc de | "F"f2"_> Teil B,A"f2z2 || 
+
+X:6
+T:Mazurka FC 3+ chords Parts
+M:3/4
+L:1/8
+P:ABCBA
+K:Fmaj%%MIDI gchordon
+[P:A] "F"cc' ac fa | "C7"cc' bc eg | "F"cc' ac fa | "C7"cc' bc e2 | "F"cc' ac fa | "C7"cc' bc eg | cc' bc de | "F"f2f2z2 :| [K:Cmaj]
+[P:B] "C"g2eg ag | "G7"g2fgb2 | "C"g2eg ag | "G7"g2fg d'2 | "C"g2eg ag | "G7"g2fgb2 | g2 fg ab | "C"c'2c'2z2 || [K:Fmaj] 
+[P:C] "F"c'2 ac fa | "C7"ca gc eg | c'2 bc eg | "F"cb ac f2 | c'2 ac fa | "C7"ca gc eg | c'2 bc de | "F"f2"_> Teil B,A"f2z2 |]
+
+X:7
+T:Mazurka FC 9-  chords
+M:3/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+"F"Cc AC FA | "C7"Cc BC EG | "F"Cc AC FA | "C7"Cc BC E2 | "F"Cc AC FA | "C7"Cc BC EG | Cc BC DE | "F"F2F2z2 :: [K:Cmaj]
+"C"G2EG AG | "G7"G2FGB2 | "C"G2EG AG | "G7"G2FG d2 | "C"G2EG AG | "G7"G2FGB2 | G2 FG AB | "C"c2c2z2 || [K:Fmaj] 
+"F"c2 AC FA | "C7"CA GC EG | c2 BC EG | "F"CB AC F2 | c2 AC FA | "C7"CA GC EG | c2 BC DE | "F"F2"_> Teil B,A"F2z2 || 
+
+X:8
+T:Mazurka FC 9- chords Parts
+M:3/4
+L:1/8
+P:ABCBA
+K:Fmaj%%MIDI gchordon
+[P:A] "F"Cc AC FA | "C7"Cc BC EG | "F"Cc AC FA | "C7"Cc BC E2 | "F"Cc AC FA | "C7"Cc BC EG | Cc BC DE | "F"F2F2z2 :| [K:Cmaj]
+[P:B] "C"G2EG AG | "G7"G2FGB2 | "C"G2EG AG | "G7"G2FG d2 | "C"G2EG AG | "G7"G2FGB2 | G2 FG AB | "C"c2c2z2 || [K:Fmaj] 
+[P:C] "F"c2 AC FA | "C7"CA GC EG | c2 BC EG | "F"CB AC F2 | c2 AC FA | "C7"CA GC EG | c2 BC DE | "F"F2"_> Teil B,A"F2z2 |]
+
+
+

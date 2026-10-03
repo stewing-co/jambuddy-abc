@@ -1,0 +1,33 @@
+X:1101
+T:N.15 Mais lento
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 1 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%----------- edit between the lines ------------
+%% z [ad] | z [be]                                      |\ % Belongs to the previous section
+[Q:"Mais lento, tranquilo"] \
+!p! a-a//.e//.c//.e// | a-a//!crescendo(!.e//.c//.e//         |\
+!crescendo)! e-e//!diminuendo(!.d//.c//.B//    !diminuendo)!  ||\
+!p! A',3/2 z/                                        |\
+Z4                                                   ||\
+[M:4/8] [K:D]
+z z/"com muito sentimento" (A/ | d/) ((d/d//)c//)!crescendo(!d//e// !crescendo)!   |\
+((3d//e//d// c/)- (c/>d/ )                                                         |\
+e/e/!crescendo(! (e//!fermata!!crescendo)!g/e//)!diminuendo(!!diminuendo)!         |\
+((((3e///f///e///)d/>) d z//A//                                             |\
+d/(d/ - d//!crescendo(!c//)d//e//!crescendo)!                               |\
+(((3d//e//d//c/)- (c/)>d/)                                                  |\
+e/e/ (e//!fermata!g/e//)                                                    |\
+(((3e///f///e///)d//)(f/f/>)!crescendo(!(e/ !crescendo)!                    |\
+g/f/)(e//d/B//)                                                             |\
+(d/(c)!diminuendo(!c//)G//  !diminuendo)!                                   |\
+(c/B/) (B//A/^G//)                                                          |\
+"cresc."(B//A//)(ff//)(e//                                                  |\
+!crescendo(!g/f/) !crescendo)! (e//d/B//)                                   |\
+!f!((3d///e///d///)c//!fermata!(a!diminuendo(!a//)a//!diminuendo)!          |\
+(!p!f/e/) (B//!fermata!c/A//)                                               ||
+%-----------------------------------------------

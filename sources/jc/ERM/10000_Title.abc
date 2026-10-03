@@ -1,0 +1,26 @@
+X: 10000
+T: Edinburgh Repository of Music
+B: Thompson (pub.):  "Edinburgh Repository of Music" 1818
+F: http://digital.nls.uk/special-collections-of-printed-music/pageturner.cfm?id=87776133
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+K:
+%%sep 5 5 500
+%%center Edinburgh
+%%center Repository of Music
+%%center Containine the most Selece
+%%center English
+%%center SCOTTISH & IRISH AIRS
+%%center Reels, Strathspeys, &c.
+%%center ARRANGED FOR THE GERMAN-FLUTE OR VIOLIN
+%%center Vol: I   -------------------------
+%%center EDINBURGH
+%%center Printed and sold by J. Sutherland at his Book & Music Warehouse Calton Street
+%%sep 5 5 500
+%%center Transcription Notes
+%%begintext align
+%% The single-tune files have names of the form VPPPN_Title.abc, where V is the volume (1,2),
+%% PPP is the 3-digit page number, and N is the tune number on the page (usually 1, sometimes 2, rarely 3).
+%% VPPPN is also used for the tune's index (X:) number.
+%% Staff breaks are usually changed to work well with a small-scall "proofreading" format;
+%% download the ABC files and reformat the staffs for your needs.
+%%endtext

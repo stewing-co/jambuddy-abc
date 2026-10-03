@@ -1,0 +1,22 @@
+X:501
+T:N.5 Marcha e coro militar
+C:Fonseca, Eduardo da (1863-1938)
+M:2/4
+L:1/8
+K:A
+V: 1 clef=treble name="Flauta" sname="Fl."
+%%MIDI program 1 73
+%%staves [ 1 ]
+%------------------------------------
+[Q:"Marcial"]
+{efg}(aece) | (ae).a.b| !>!c'2!>!e'2|!>!c'2!>!b2| \
+{efg}(aece) | (ae)ac'|!>!b2!>!a2| !>!g3 (3(e/f/g/) | (aece) | (ae)ab | !>!c'2 !>!e'2 | \
+(!>!c'2 b2) | {bc'}(!>!d'c')ba| gf'e'd'|!>!c'2!>!b2| azz2 !segno!|: \
+!p!(c2e2 | a2) a2 | gabg | (b2a2) | (c2e2) | (a2>g2) | (fgab) | !>! (agfe) | \
+(c2e2) | a2a2| gabg | (b2a2) \
+||1 f2a2|c'2b2|agaf|ezz2 \
+:|2 g'2f'2|e'c'e'a| c'2b2|| "^Para seguir" azz2 "^A" || \
+z4| !p!z(cfa|gf^ec)| z3/2!f!(a//c'// f')z | Z3| z3/2!f!c'//c'// c'z| z4| !p!z(cfa|gf^ec)| \
+z(dfa)|(g2f2 | e)(cea | c')z bz | azz2 "B" || \
+"^DC ao segno;ate ao fim" X || "^Para acabar" [a]z {efg}!>![a]z |] \
+%------------------------------------

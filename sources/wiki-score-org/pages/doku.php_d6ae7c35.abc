@@ -1,0 +1,25 @@
+X:502
+T:Agnus Dei
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 2 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+%------------------
+[Q:"Largetto"] !p!  C3 (!>!_D3 | C2)^C D2_E | (D6 | ^C2)z  !>! (C3 | \
+% fol.178
+D2)D !>! (^C3 | !p! D2) (^FG2E) | =Fzz !p!(a2g) | f2f-f2 !p!f- | f2f-f2f | e2!p!ef2f | ezz !p!A/AA_A/ | \
+G/GGG/ F/FFF/ | Ezz !p!A/AAA/ | G/GGG/ A2-A/G/ | Gzz !p! (C2G, | C2G,) D/"_check ms "DDD/ | \
+!f! ^C-C/D/E/F/ G-G/F/E/D/ | ^C-C/D/E/F/ G-G/F/E/D/ | !f! ^C/eee/- e/eee/ | f/fff/ g/^ccd/  | !p! (e2fe2f) | !fermata!e6 || \
+% fol.182
+[Q:"Allegro"][K:F][M:C|][L:1/4|] !f! [Fc]zz2 | !>!G3z | Z2 | !f! [Ec]z[Fc]z | G(!>(!!>)!BA)z | Z2 | \
+z/ !f! ^FFFF/ | G/GG/Gz | Z2 | z/ !f! =EEEE/ | F/FF/Fz | !f! [Fd]z[Fd]z | \
+!f! [Af]z[Af]z | [Be]z[Be]z | [Af]!f! [A,F][A,F][A,F] | [CG][CG][CG][CG] | [CA]zz2 | Z3 | \
+!f! [A,E][A,E]2[A,E] | [A,F][A,F][A,F]z | !f! [=B,G][B,G]2[B,G] | [CG][CG][CG] z | \
+!p! c2^c2 | d2d2 | !f! [Af]zz2 | [Ge]zz2 | !f![A,F][A,F]2[A,F]- | [A,F][A,F][A,F]z | \
+!f! gfe_e | d2c2- | c zz2 | Z3 | z2 !f! =Bc | dzz2 | [Af]z[Af]z | [Ge]z[Ge]z | [Af]zz2 | !p! .Czz2 | \
+!p! _D4- | (_D4 | C)zz2 | .Czz2 | !p! C4- | C4- | .Czz2 | !p! Czz2 | !p! _D4- | (_D4 | C)zz2 | .Czz2 | \
+!p! G4- | (G4 | A)zz!p!C | CCCC | Czz2 | !p! Czz2 |Czz2 | !p! Czz2 |] \
+%------------------

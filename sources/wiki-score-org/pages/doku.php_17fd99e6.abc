@@ -1,0 +1,15 @@
+X:205
+T:N.2 Fado (Josepha)
+C:Fonseca, Eduardo da (1863-1938)
+M:C
+L:1/4
+K:C
+V: 5 clef=bass name="Cello" sname="Vc."
+%%MIDI program 1 1
+%%staves [ 5 ]
+%---
+(!>!C,2>!>!E,2) | (!>!D,2>!>!F,2) | (!>!G,,2>!>!D,2) | !>!C,2-C,!p!z |: \
+(C,2>!>!E,2 | D,3)z| (B,,3!>!F,|1 E,3)G,, :|2 \
+%  |(C,3!>!(E,) | D,3)z | (B,,3!>!F,|
+E,2)-E,z | _A,,4 | G,,4| F,,4| _E,,4| _A,,4 | G,,4| (G,,4|C,) (G,,C,,/)z/z |] \
+%---

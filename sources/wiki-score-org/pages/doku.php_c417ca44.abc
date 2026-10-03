@@ -1,0 +1,18 @@
+X:1910
+T:Scena 5.a [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:Eb
+V: 10 clef=treble name="Oboe II" sname="Ob.II"
+%%MIDI program 1 68
+%%staves [( 10 )]
+%---------------------------------------------
+[Q:"Allegro"] ez e>g | e>g e>e | d2 d !fermata! z | fzf>a | f>af>a | g2-g!fermata!z | \
+c4- | c4- | c2>cB/ | B4- | B4- | B2 Bz | e4 | d z f/z/ e/z/ | \
+dz/>g/ f/z/ e/z/ | d(fed) | e2z2 | Z | d>fd>f | d2-dz | Z | z2 e-e/z/ || \
+[Q:"Adagio"] z =e- e/f//g// (=a//g//f//=e//) | (=e//d// d/) z z2 | \
+z =e-e/f//g// (a//g//f//=e//) | (=e//d// d/) z z2 || \
+=e2-ez | =A2Az | =A2Az | d2-dz || \
+[Q:"Adagio"] z2 z/(e/d/c/) |  z/(e/d/c/) !fermata!z2 | Z | z G G "^Cavatina" z ||
+%---------------------------------------------

@@ -1,0 +1,30 @@
+X:103
+T:Allegro [assai]
+C:Davide Perez (1711-1778)
+M:C|
+L:1/4
+K:D
+V: 3 clef=treble name="Flauto Primo" sname="Fl.1"
+%%MIDI program 1 73
+%%staves [( 3 )]
+%-------
+[Q:"Allegro"] dzdz | A/F/A/d/ f z | fz d/A/d/f/ | azf A/d/ | f/d/f/a/ f/a/f/a/ | f/a/f/a/ fz | \
+bzaz | ezfz | bzaz | ez    f/a/a/g/ | f/a/g/f/ e/a/a/g/ | f/a/g/f/  \
+e/f/e/f/ | e/f/e/f/ e/c//d// e/f/ | ^G/A/B/c/ B/c//d// e/f/ | \
+^G/A/B/c/ B/c//d// e/d/ | c/B//A// (^G3/4A/8B/8)  Az | AzAz |  Az A {d}c/B//A// | \
+^G/A/B/c/ B {f/}e/d//c// | B/E/ {e/}d/c//B// .c/a/ {f/}e/d//c// | B/E/ {e/}d/c//B// c z/c/ | A z/f/ e z/e/ | \
+f z/f/ ez/e/ | f/c//d// c/B/ [A] A//B//A//^G// | Az A/E/A/c/ | e z A/E/A/c/ | e/A/c/e/ az |\
+azaz | azgz | gzgz | g g//g//g//g// f f/e/ | f/g/a/f/ e f/e/ | f/g/a/f/ e A//G//F//E// | \
+F zd D/F/ | A/F/A/d/ f z | d F/A/ d/F/ A/d/ | \
+f {g}f/e//d// c/d/e/f/ | e/a/ {g}f/e//d// c/d/e/f/ | e/a/a/g/ {g}f/e//d// c/d//e// | \
+d z/A//G// F/G/A/B/ | A/D/ z/A//G// F/G/A/B/ |  A/d/ e/f/ {a}g/f//e// e/f/ | {a}g/f//e// e/f/ {a}g/f//e// e/f/ | \
+{g}f/e//d// c/d/ {g}f/e//d// c/d/ | bcd z | D/F/A/d/ f z | \
+D/A/ d/f/ a d//e//d//c// | d z/f/ g z/g/ | f z/f/ g z/g/ | f z/f/ g a/d'/ | \
+{a/}g/f//g// f/d'/ b/d'/ a/d'/ | {a/}g/f//g// f/d/ B/d/ A/d/ |  {a/}g/f//e//  {g/}f/e//d// a c | \
+d f/a/ f/f/ e/e/ | d f/a/ a/a/ g/g/ | \
+"_NB: check ms" {g}f/e//d// c/d/ {g}f/e//d// c/d/ | e/f/g/f/ f/e//d// c/d/ |    {g}f/e//d// c/d/ e/f/{b/}g/f/ | \
+e/f/  {a/}g/f//e// e/f/  {a/}g/f//e// |\
+f z D/F/A/d/ | f z D/F/A/d/ | f f/a/ f f/a/ | \
+f/a/ f/a/f !fermata!z ||  \
+[Q:"Dolci assai"] [M:C|] e>f e/a/ e/f/ & A4| e>F E> F  | E/A/ E/F/ E !fermata!z   |] \
+%-------

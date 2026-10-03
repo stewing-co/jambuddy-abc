@@ -1,0 +1,14 @@
+X:105
+T:Moderadamente
+C:Antonio Thomaz de Lima
+M:4/8
+L:1/4
+K:B
+V: 5 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%----------- edit between the lines ------------
+[Q:"Moderadamente, e com grandiosidade (a 4 tempos)"] "_[fol.2]" !ff!  z/ "_marcado" !>!F,,/!>!B,,/ z/ |\
+Z || !>!B,,!>!F,|| !>!F,/ z/ z// F,,// B,,/ |z/ !>!F,,/!>!B,,/ z/| X || F,, F, || B,//A,//G,//F,//  E,//D,//C,//B,,//  | "_[fol.3]" z/ !>!F,,/!>!B,,/ z/ | Z || B,, F, || F,/ z/ z// "_pizz" F,// B,/ /|
+"_arco" z/ G,/C,/ z/ |  X || F, z ||
+%-----------------------------------------------

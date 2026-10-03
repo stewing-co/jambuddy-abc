@@ -1,0 +1,22 @@
+X:507
+T:N.5 Marcha e coro militar
+C:Fonseca, Eduardo da (1863-1938)
+M:2/4
+L:1/8
+K:A
+V: 7 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%---
+({EFG}[AC])ECE | !>![AC]E[AC][BE] | !>![Ac]2 !>![ce]2 | (!>![Ac]2 !>![GB]2) | \
+{EFG}AECE | !>![AC]E[AC][EAc] | !>![B,^DB]2 !>![B,DA]2 | !>![B,EG]3 ((3E/F/G/) |  \
+!>!AECE | !>![CA]E!>![CA]!>![BE] |  !>![Ac]2 !>![ce]2 | (!>![Ac]2 !>![GB]2) | \
+{Bc}!>![Dd][Cc][B,B][A,A] | [G,G][Ff][Ee][DFd] | !>![CEA]2 !>!([DEB]2 | \
+!>![CEA])[A,CE] z[A,CE] !segno!|: \
+z[A,CE]z[A,CE] | z[A,CE]z[A,CE] | z[G,DE]z[G,DE]| z[A,CE]z[A,CE]|z[A,CE]z[A,CE]| \
+z[A,CF]z[A,CF] | z[A,DF]z[A,DF]| !>!(AGFE) & [B,E]3 | z[A,CE]z[A,CE] |z[A,CE]z[A,CE] | \
+z[G,DE]z[G,DE] | z[A,C]z[A,C] ||1 z[A,C]z[A,C] | z[G,B,E]z[G,B,E] | z[A,B,^D]z[A,B,^D] | \
+[G,B,E]zz2 :|2 z[A,DG]z[A,=CF] | [A,^CE]C [A,CE][CEA] | [CAc]2[DGB]2|| \
+([CA]^B,CD) "^A" || "^Do A ao B""^16 comp" Z16  "_B" || "DC ao segno" "ate ao fim" X || \
+"^Final" [CA]z {EFG}[A,A]z |]
+%----

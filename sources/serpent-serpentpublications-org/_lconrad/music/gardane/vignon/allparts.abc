@@ -1,0 +1,111 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:[18] Vignon, vignon, vignon, vignette (Transposed)
+T:Cantus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on second line
+M:C|
+L:1/4
+K:F
+z2 z c c c A2 z ddd c A 
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- te,
+z c c c F2 G F/ G/ A/ B/ c > d e/ f/ d c A > B c B > A F G2 "A"A c > B A/ G/ A2 G2
+w:Qui te plan- ta il  * * * * * * * * * * fust * * * * * preud- * * * * * * hom.
+z c c c A > B c d d c B A
+w:Tu fuz cou- pé * * e~a la ser- pet- te,
+z c c c A2 z d d d c A 
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- te,
+z c c c A > B c d d c B A
+w:Il me sem- ble~ad- * * vis que j'a- lec- te
+z2 z c B A F > G A F F E F/ G/ A/ B/ c B > A F G2 F
+w:Quant tu pas- ses * * mon gor- ge- ron * * * * * * * * *
+c c c |:A3/2 G// F// F2 z4 z c c c A2 z d d d c A2
+w:Vi- gnon, vi- gnon, * * * (vi- gnon, vi- gnon,) vi- gnon, vi- gnet- te,
+c B A F > G A B/ A/ G/ F/ F2 E |1 F c c c :|2 F4 |]
+w:Qui te plan- ta * * il 8 * * fust preud- hom, Vi- gnon, vi- hom.
+
+X:2
+T:[18] Vignon, vignon, vignon, vignette
+T:Tenor
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on second line
+M:C|
+L:1/4
+K:F
+z4 z4 z4 z c c c A2 z d d d c A2 
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- te,
+c B A F > G A B/ A/ G/ F/ F2 E "A"F2
+w:Qui te plan- ta * * il  * * *  fust  preud-  hom.
+z F F F E/ D/ E/ F/ G A A G F/ G/ A/ F/ G/ F/ E/ D/ E2 D F2 E F2
+w:Tu fuz cou- pé * * * *  e~a la ser- pet- * * * * * * * * * * * te,
+z F F F D F F F E C 
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- te,
+z c c c A F G A G F2 E F2
+w:Il me sem- ble~ad- vis que j'a- lec- * * te
+z4 z c B A F > G A B/ A/ G/ F/ F2 E F2
+w:Quant tu pas- ses *  *  mon * * * gor- ge- ron
+z c |: c c A2 z d d d c A 
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- te,
+z c c c F2 G F/ G/ A/ B/ c > d e/ f/ d c A > B c B > A F G2 |1 F2 z c :|2 F4 |]
+w:Qui te plan- ta il * * * * * * * * * * fust * * * * * preud- hom, Vi- hom.
+
+
+X:3
+T:[18] Vignon, vignon, vignon, vignette
+T:Bassus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C|
+L:1/4
+K:F -8va
+N:Original clef, F on fourth line
+%%MIDI transpose -12
+z c c c A2 z d d d B G 
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- te,
+z A A A F > G A B G B F2
+w:Qui te plan- ta * * il  fust  preud-  hom.
+z A B c d3/2 c// B// A G E F C2 "A"F4
+w:(Qui te plan- ta * * * il  fust  * preud-  hom.)
+z2 c c c A/ G/ A/ B/ c d d c B A2
+w:Tu fuz cou- pé * * * * e~a la ser- pet- te,
+z F G A F3 F B3 B A F G A > G F/ E/ F2
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- * * * * * * te,
+z2 z4 c2 B A G F B > A F A B c d3/2 c// B// A G2 A B c F4
+w:Quant tu pas- ses  * per * * mon gor- ge- ron * * * [per mon gor- ge- ron.]
+|:z F F F D2 z D F > G A F2 A2
+w:Vi- gnon, vi- gnon, vi- gnon, vi- gnet- * te,
+B G B F2 z A B c d3/2 c// B// A G E F C2 |1 F4 :|2 F4 |]
+w:Qui te plan- ta, qui te plan- ta * * * il  fust * preud- hom,  hom.
+

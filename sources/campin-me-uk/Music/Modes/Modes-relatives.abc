@@ -1,0 +1,240 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+
+Relative Mode Shifts and Double-Tonic Tunes
+===========================================
+
+1. Shifts of Centre
+===================
+
+A common trick in classical music is to shift between major and minor keys
+using the same number of sharps or flats, like between C major and A minor;
+this involves shifting the tonal centre.  There are a few tunes in a
+traditional style that do this:
+
+X:0
+T:Thunderhead
+G:jig
+C:Gray Larsen
+N:as played around Edinburgh, drastically mutated from how Gray wrote it
+N:I believe Old Blind Dogs are responsible for this version
+N:lots of people believe this is a traditional Breton tune; it isn't
+M:6/8
+L:1/8
+Q:3/8=120
+K:BMin
+B>BB f>BB|e>BB d>BA|B>BB f>gf|e>cB A>Bc |
+B>BB f>BB|e>BB d>ef|g>fe f>ed|e>cB A>Bc:|
+K:D
+a>fd d>cd|A>dd c3  |B>dd A>dd|d>cB c2A  |
+a>fd d>cd|A>dd c3  |B>dd A>dd|gec  d3  :|
+
+This pipe arrangement of a tune already given here moves between
+mixolydian/dorian hexatonic in A and dorian in E:
+
+X:0
+T:The Ewie wi the Crookit Horn
+G:jig
+C:arr. John A MacLellan
+M:6/8
+L:1/8
+Q:3/8=120
+K:AMix
+   AAA A2B|G2A BGG|AAA A2B|d2B cAA|
+   d2c B2A|G2A BGG|A2B cAA|BGG A3:|
+   Bee e2f|d2e dBB|cee e2f|gee f2d|
+[1 Bee e2f|d2e dBB|cee efg|fdd e3:|
+[2 g2e fed|e2d cAA|Bee efg|fdd e3|]
+
+This is a natural way of getting tonal variety on a bagpipe, since
+changing the key signature is impossible.  It can be useful on other
+instruments.  Here's an example of a set I constructed to play with
+a friend who uses a lever harp.  It never changes the absolute pitch
+set, so she never needs to flip a lever.  And for the hell of it,
+there is no change in rhythmic pattern either, until the very last
+tune.  Instead the variety comes from a continual change in tonal
+centre.  It also alternates familiar and rarely-played tunes.
+
+X:0
+T:Two-Sharp Reel Set
+G:set of reels
+M:C|
+L:1/8
+Q:1/2=104
+K:AMix
+P:Kate Dalrymple
+% A major/mixolydian hexatonic
+A2Ac B2Bc|A2Ac B2Bc|A2a2 fedc|B2e2 c2A2:|
+e2ef edcd|e2a2 e2c2|e2a2 e2a2|e2a2 e2c2 |
+dddf ccce|BBBc edcB|A2a2 fedc|B2e2 c2A2|]
+P:Prince Charlie
+% E dorian 
+E2EF B2Bc|d2AG FDDF|E2EF B2Bc|dBAF GEEF |
+E2EF B2Bc|d2AG FDDF|EFGA B2Bg|fdBd e2eB||
+eBef geBg|fbag fddf|eBef geBg|bgaf e2eB |
+eBef geBg|fdAG FEDe|geBg AfGe|FdAF E4  |]
+P:Fairy dance
+% D major
+f2fd f2fd|f2fd cde2|f2fd gfed|cABc [1 d4  :|\
+                                   [2 defg||
+a2af b2ba|gfge a2ag|f2fd gfed|cABc [1 defg:|\
+                                   [2 d4  |]
+P:Hunter's Bog
+% B minor
+B2Bc d2ef|gfeg f2ed|c2BA e2dc|a3f  ecAc |
+B2Bc d2ef|gabg f2af|e3g  fece|d2B2 B2c2 |
+% D major
+dAFA defd|gfed ceAc|d2ba gfed|ceBc A2dc |
+B2gf edcB|Acdf a2gf|gbeg fadf|ceAc d2f2|]
+P:Tail Todle
+% D major/A mixolydian double tonic
+d2fd g2fe|d2fd e2cA|d2fd g2fe|fgaf e2cA:|
+g2dB B2dB|g2dB e2cA|g2dB B2dB|A2af e2cA:|
+P:Short Coated Mary
+% E mixolydian/dorian hexatonic
+E2B2 BABc|d2AF DEFD|E2B2 BABc|d2AF E2E2:|
+d2dB e2e2|d2d2 FFFD|d2dB e2e2|d2AF E2E2 |
+d2dB e2e2|d2d2 FFFD|E2B2 BABc|d2AF E2E2|]
+
+
+2. Double Tonic
+===============
+
+Some of the oldest tunes in the repertoire make systematic alternations
+in mode between two tonal centres one step apart; most commonly between
+the dorian mode and the relative major below it, or the mixolydian mode
+and the relative minor below it.  This technique is usually called a
+DOUBLE TONIC.  This is one way it is often used: the tune is centred on
+G at the start (there isn't much more to it than G major arpeggios) but
+ends with a broken chord of F.
+
+X:0
+T:Hielan Brochan
+M:C|
+L:1/8
+Q:1/2=110
+K:GMix
+Bc|d2ge dBGB|dBgB d2Bc|d2ge dBGB|AFFA c2:|
+Bc|dGBG dGGB|dGGB d2ge|dGBG dGGB|AFFA c2:|
+
+Double tonic seems to be particularly common in 9/8 tunes, like these two
+jigs where each half starts in the dorian and ends on the major a step
+below.  Almost all 9/8 tunes are circular dance melodies; the bars in the
+major are intended to lead back to a repeat.  (The first is also known in
+England and Ireland under a variety of names; the second is one of the
+oldest of a family of tunes which includes the recent Irish slip jig "The
+Butterfly").  This kind of tune probably originated in northern England
+late in the 17th century as a variant of the older 3/2 hornpipe.
+
+X:0
+T:Brose and Butter
+G:jig
+S:Bremner via Murdoch Henderson
+M:9/8
+L:1/8
+Q:3/8=120
+K:ADor
+cde AcA AcA|cde AcA B2G|cde AcA ABc|B2G Gge dBG:|
+cde ege ege|cde ege dBG|cde ege efg|f2d dge dBG:|
+
+X:0
+T:I Have a Wife of My Ain
+G:jig
+M:9/8
+L:1/8
+Q:3/8=120
+K:EDor
+EFE GGA B3|E2E G2A BGE |\
+E2E GGA B3|D2D dcB AFD||
+gag fgf e3|E2E G2A BGE |\
+g2g fgf e3|D2D dcB AFD|]
+
+Double tonic tunes may take a more emphatic form where the shift is not
+between two relative modes, but between two keys with different signatures.
+This tune hints at that.  It's mostly in E dorian, but each part ends
+in D, the same tonal shift as the previous two tunes.  The E tonality is
+reinforced by a sharpened leading note:
+
+X:0
+T:Mrs McDonalds Reel
+S:M. Murray's MS for piano, 1817 (in my possession)
+M:C|
+L:1/8
+Q:1/2=104
+K:EDor
+F|E2EF  BEEF|E2EF dFDF|E2EF EFGA|B/c/d AG FDD:|
+F|Eee^d eEEF|Eeec dDDF|Eeed Bcdc|Bbfe     dDD:|
+
+This tune by Niel Gow is the full monty, alternating between D major and
+C major:
+
+X:0
+T:Lady Charlotte Murray's Favorite
+C:Niel Gow
+G:jig
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A/G/|F2D DFD|dFD AFD |E/=F/GE =CEG|dGE =CEG|
+     F2D DFD|dFD AFD |G=cG     EFG|AFD  D2:|
+g   |f2d dfd|afd de=f|e2=c     cec|gec  efg|
+     f2d dfd|afd efg |fdf      ece|dAF  D2g|
+     f2d dfd|afd de=f|e2=c     cec|gec  efg|
+     afa geg|fdf edc |Adc      cBc|dAF  D2|]
+
+The country dance "Staten Island" (originally a Scottish tune from the late
+eighteenth century called "Burns' Hornpipe") almost sounds like a parody of
+that favourite compositional trick of Niel Gow's:
+
+X:0
+T:Staten Island
+G:reel, country dance
+M:C|
+L:1/8
+Q:1/2=108
+K:D
+AG|FDFG A2A2|dfed dcBA| B2GB A2FA | G2E2 E2AG |
+   FDFG A2A2|dfed dcBA| d2d2 efge | f2d2 d2  :|
+fg|a2fa g2eg|f2df ecA2|=c2c2 e=fge|=c2c2 e=fge|
+   a2fa g2eg|f2df ecA2| d2d2 efge | f2d2 d2  :|
+
+That tune may have been around for a while, but it still sounds more like a
+joke that caught on than an organic outgrowth of the older Scottish idiom.
+The earliest versions I've seen of it are in D major throughout.
+
+This is an example from far outside Scotland where the double tonic is
+explicitly marked by a moving drone.  It's a two-part song from Abkhazia,
+in dorian/minor hexatonic mode: each of the first seven phrases ends on
+the tonic but the ending drops a tone below, suggesting major/mixolydian
+hexatonic.
+
+X:0
+T:Untitled Abkhazian Song
+S:Garland Encyclopaedia of World Music: Europe, p.852
+M:2/4
+L:1/8
+Q:1/4=60
+K:G#Min
+[V:1] B4|[M:3/4] dB c2A2|G6 |[M:2/4] B4  |[M:3/4] dB c2 HA2 |[M:2/4] G4 |
+[V:2] z4|[M:3/4] z4   z2|G,6|[M:2/4] F,4-|[M:3/4] F,4-  HF,2|[M:2/4] G,4|
+%
+[V:1] B4  |dd c2|Bc A2|G4 |[M:3/4] B6  |dB c2 A2|[M:2/4] G4 |
+[V:2] F,4-|F,4- |F,4  |G,4|[M:3/4] F,6-|F,6     |[M:2/4] G,4|
+%
+[V:1] [M:3/4] B4 BB|(3dBc B2 A2|[M:2/4] G4 |B4 |(3BdB (3cBc|B2 A2|G4 |
+[V:2] [M:3/4] F,6- |  F,6      |[M:2/4] G,4|F,4|  F,4-     |F,4  |G,4|
+%
+[V:1] B4  |dB cc|B2 A2|G4 |B4  |AB A2|HF4 |]
+[V:2] F,4-|F,4- |F,4  |G,4|F,4-|F,4  |HF,4|]
+
+=============================================================================
+==  (c) Jack Campin         http://www.campin.me.uk/         October 2012  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

@@ -1,0 +1,77 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Bergeret sans roch, Reprise II
+T:(Basse dansse 2)
+C:Tielman Susato
+S:Tileman Susato: Danserye (1551)
+R:Basse dance
+M:3/2
+L:1/2
+K:C
+"^segno"EEE|F/E/F/G/F|EDC|B,2z|CD/E/F/D/|E2z|CD/E/F/D/|E2z|
+EEE|F/E/F/G/F|EDC|B,2z|E>D C/B,/|CD>C|C2B,|"^Fine"C2z|
+EEE|D/C/D/E/F/D/|G2^F|G2z|F>E D/C/|DE>D|D2^C|D2z|
+EEE|D/C/D/E/F/D/|G2^F|G2G|E>D C/B,/|CD>C|C2B,|"^D.S. al fine"C2z|]
+
+X:2
+T:Bergeret sans roch, Reprise II
+T:(Basse dansse 2)
+C:Tielman Susato
+S:Tileman Susato: Danserye (1551)
+R:Basse dance
+M:3/2
+L:1/2
+T: Altus
+K:C -8va
+ccc|c2c|cA/2_B/2G|G2z|GBA/2B/2|c2z|GBA/2B/2|c2z|
+ccc|c2c|zA/2_B/2G|G>AB|c2c|cA_B|GG2|G2z|
+ccc|B>cd|cd2|B2z|ddd|AcA|GA2|A2z|
+ccc|B>cd|cd2|B2B|c2c|cA_B|GG2|G2z|]
+
+X:3
+T:Bergeret sans roch, Reprise II
+T:(Basse dansse 2)
+C:Tielman Susato
+S:Tileman Susato: Danserye (1551)
+R:Basse dance
+M:3/2
+L:1/2
+T: Tenor
+K:C -8va
+GGG|A2A|GFE|D2z|EF/2G/2A/2F/2|G2z|EF/2G/2A/2F/2|G2z|
+GGG|A2A|GFE|D2z|EG/2F/2E/2D/2|EF>E|CD2|C2z|
+GGG|G2F|GA2|G2z|A>G F/2E/2|FGF|DE2|D2z|
+GGG|G2F|GA2|G2G|G>F E/2D/2|EF2|ED2|C2z|]
+
+X:4
+T:Bergeret sans roch, Reprise II
+T:(Basse dansse 2)
+C:Tielman Susato
+S:Tileman Susato: Danserye (1551)
+R:Basse dance
+M:3/2
+L:1/2
+T:Bassus
+K:C bass
+ccc|F2F|cd/2_B/2c|G2z|cB/2G/2d|c2z|zB/2G/2d|c2z|
+%
+ccc|F2F|cd/2_B/2c|G2z|c2c|Ad_B|cG2|c2z|
+%
+ccc|G2d|ed2|G2z|ddd|dcd|BA2|d2z|
+%
+ccc|G2d|ed2|G2G|c2c|Ad_B|cG2|c2z|]

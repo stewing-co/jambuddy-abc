@@ -1,0 +1,111 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:I. Lacrimae Antiquae.
+C: John Dowland
+O: From Lachrimae, or Seaven Teares figured in Seaven Passionate Pavans, 
+%N: with divers other Pavans, Galiards, and Almands, 
+%N: set forth for the Lute, Viols or Violons, in five parts
+T:Cantus
+%%MIDI nobarlines
+L:1/4
+M:C
+K:A minor
+N: Original clef, C on first line
+%1
+A3 G/ F/ E2 c4 B A ^G4 A2 E3 E G G F2 D2 E2 B2 c2 A2 B2 G2 A c > B A ^G2 c2 B A A4 ^G2 A4-A4 || c3 B
+%2
+A G c3 B/ A/ B2 c2 G2 z A2 ^G A F E2 z D F2 z F A2 z A c2 z G B > c d2 z D F > G A2 z c2 B c > B  A/ ^G/ A ^G4-G4 ||
+%3
+^G3 A B2 c2 B A A4 ^G2 A3 c B c A2 ^G4 z4 z2 e3 B d3 A c2 B2 A2 ^G2 c2 B A A4 ^G2 HA4-A4 |]
+
+X:2
+T:I. Lacrimae Antiquae.
+C: John Dowland
+O: From Lachrimae, or Seaven Teares figured in Seaven Passionate Pavans, 
+%N: with divers other Pavans, Galiards, and Almands, set forth for the Lute, Viols or Violons, in five parts
+T:Altus
+%%MIDI nobarlines
+N: Original clef, C on second line
+L:1/4
+M:C
+K:C -8va
+%%MIDI transpose -12
+%1
+c3 B c d e3 d/ c/ d2 e2 e3 e a2 g/ f/ e/ d/ c B2 A A4 ^G2 A2 c2 d2 e4 d2 e2 g2 f2 d2 e3 d ^c4-c4 || g4 e2 g2
+%2
+f4 e4 z2 z e c A a e f2 z f a2 z a c'2 z c e > f g2 z d f > g a2 z f2 e/ d/ e2 c/ d/ e2 d e4-e4 || e6 e2 g f e d e3 B
+%3
+c3 B/ A/ B e2 d e6 g3 c e2 d3 e f2 e2 g2 c2 z g2 e f2 d2 e3 d ^c4-c4 |]
+
+X:3
+T:I. Lacrimae Antiquae.
+C: John Dowland
+O: From Lachrimae, or Seaven Teares figured in Seaven Passionate Pavans, 
+%with divers other Pavans, Galiards, and Almands, set forth for the Lute, Viols or Violons, in five parts
+T:Quintus
+N: Original clef, C on fourth line
+%%MIDI nobarlines
+%%MIDI transpose -12
+L:1/4
+M:C
+K:C -8va
+%1
+E4 c3 B A2 F2 ^G2 E2 E4 E3 E F4 G2 E2 E e > d c B2 z e c2 d2 B E2 E F2 A2 e2 E2 E4-E4 || z2 G2 A2 G2 A2 F2 G2
+%2
+E4 z E2 D E2 z A F D C2 F2 E2 A2 z G2 B > c d2 D2 F > G A2 A E3 E A2 e2 E2 "(2)"E4 || B6 G4
+N:(2) Original has double whole note
+%3
+A2 B2 z e2 A c2 d e c d B4 E4 G2 A2 B4 c2 A2 B2 z A2 E G2 F4 G2 E2 E4-E4 |]
+
+X:4
+T:I. Lacrimae Antiquae.
+C: John Dowland
+%%MIDI nobarlines
+%%MIDI transpose -12
+O: From Lachrimae, or Seaven Teares figured in Seaven Passionate Pavans, 
+%with divers other Pavans, Galiards, and Almands, set forth for the Lute, Viols or Violons, in five parts
+T:Tenor
+N: Original clef, C on third line
+L:1/4
+M:C
+K:C -8va
+%1
+A6 A2 A4 B4 c2 c3 c e2 d c B A B4 A2 e2 g G B2 A4 B2 e2 d c2 "(1)"B/ A/ B4 A4-A4 || e4 c4 d4 G c B G
+N:(1) original has B and A quarter notes
+%2
+A c B2 A2 z A F D A2 z A c2 z c2 e > f g2 d > c B A2 z A2 c > d e c e > d c2 B/ A/ B4-B4 || z4 ^G3 A B2 c2 B4
+%3
+A/ B/ c/ d/ e > f g G A2 B e2 B c2 B3 A A4 ^G2 A2 z e2 B c A B2 e2 d c B A B4 HA4-A4 |]
+
+X:5
+T:I. Lacrimae Antiquae.
+C: John Dowland
+O: From Lachrimae, or Seaven Teares figured in Seaven Passionate Pavans, 
+%with divers other Pavans, Galiards, and Almands, set forth for the Lute, Viols or Violons, in five parts
+%%MIDI nobarlines
+%%MIDI transpose -24
+T:Bassus
+L:1/4
+M:C
+K:Am bass
+%1
+A4-A4 f4 e4 A3 A c4 d2 f2 e4 A3 a g2 e2 f4 e2 c2 d2 f2 e4 A4-A4 || c6 e2 d4 c2 z e
+%2
+c A e2 A d2 c d2 z D F2 z F A2 z A c2 z G B > c d2 z D F > G A3 ^G A2 F2 E4-E4 || e4-e4 e4-e4 A2 a2 g e f2
+%3
+e4 e3 B c4 B4 A4 G2 F2 E2 c2 d2 f2 e4 HA4-A4 |]

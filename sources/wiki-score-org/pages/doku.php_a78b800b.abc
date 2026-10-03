@@ -1,0 +1,16 @@
+X:301
+T:N.5 Lentamente
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 1 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%----------- edit between the lines ------------
+[Q:"Lentamente, e expressivo"] Z | \
+z z/z/!p!!<(!(d/e/!<)!) !<!|(f/>^e/f/) (b/a/g/)|!>(!(g/f)!>)! z/(d/e/|!<(!f/)!>!>!<)!(b/f/) (f/e/d/)| \
+(d/c) z/(d/e/)|(f/>^e/f/) (b/a/g/)|(g/(f) f/)!<(!(f/^g/)!<)!|(a/>^g/f/) (g/a/g/)|(f/c-)c/ !<(!(B//c//d/)!<)! | \
+(c/>B/A/) !tenuto!^G/>.F/!tenuto!^E/ | (F/"^ret.muito"f)-(f//B//).c//.d//(e//d// | \
+c/)!>!(C"^(4a corda)"c/)!>(!(!fermata!^G/>F/)!>)! ||
+%---------------------------------

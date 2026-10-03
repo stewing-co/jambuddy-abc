@@ -1,0 +1,37 @@
+X: 2
+T: from lieuxc_musique2.mid
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:G % 1 sharps
+%%staves [1  2  3 ] 4
+V:1
+K:G treble 
+%%MIDI program 0
+B4 BB B2 | E2 A2 cc c2 | B4 BB B2 | E2 A2 cc c2 :|
+B4 BB B2 | E2 A2 cc c2 | B4 BB B2 | E2 A2 cc c2  |
+B4 BB B2 | A,2 A2 BG G2 | E4 GB G2 | E2 A2 BG F2 |
+E4 dB G2 | F2 B2 cB B2 | B4 GB G2 | E2 A2 BG F2 |]
+V:2
+K:G treble 
+%%MIDI program 0
+G8 | G8 | G6 A2 | G6 G2 :|
+G8 | G8 | G6 A2 | G6 G2 |
+G8 | D8 | G8 | B,8 |
+G8 | D8 | G8 | z8  |]
+V:3
+K:G treble 
+%%MIDI program 0
+E8 | e8 | E4 G2 B2 | e4 A2 G2 :|
+E8 | e8 | E4 G2 B2 | e4 A2 G2 |
+E8 | A8 |[K:C bass] E,8 | G,8 |
+E,8 |[K:C treble] A8 |[K:C bass] C,4 B,4 | G,8 |]
+V:4
+K:G bass 
+%%MIDI program 0
+z8 | z8 | E,4 G,4 | E,4 A,G, G,2 :|
+E,4 E,G, A,2 | C2 A,2 C2 E,2 | E,4 G,E, E,2 | E,4 A,G, G,2 |
+
+x8 | x8 |x8 |x8 |
+x8 |x8 |x8 |x8 |]
+

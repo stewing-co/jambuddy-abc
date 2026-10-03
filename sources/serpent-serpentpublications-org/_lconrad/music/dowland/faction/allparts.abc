@@ -1,0 +1,212 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XIX. Faction that ever dwells
+T:Canto.
+C:John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%LY voices \property Voice.Slur \set #'dashed = #1
+N:Original clef, C on first line
+K:G mix
+G2 G G G2 A2 B4 |
+z2 G2 G2 G2 | A2 B2 c4 |
+w:In court where wits ex- cells
+w:The booke of Cu- pids arts
+w:A- theist that ho- nor not
+w:With love to live and die
+w:And love hir selfe is shee
+z2 d2 B4 G4 (A A3)  |
+w:hath set de- fi- ance, 
+w:Turne with hir wheele, *
+w:Na- ture thought good, *
+w:For- tune for- lorne. * 
+w:Jone faier and true, *
+|: A2 A G ^F2 E2 D4 |
+w:For- tune and love hath sworne,
+w:Sen- ces them- selves shall prove
+w:For- tune should e- ver dwell
+w:Ex- per- ience of my youth
+w:Jone that doth e- ver move
+z2 D2 G2 G2 A2A2 B4 |
+w:That they were ne- ver borne,
+w:Ven- ture hir place in love
+w:In court where wits ex- cell
+w:Made me thinke hum- ble truth
+w:Pas- sions of love with love
+z2 c2 A3 A (G G3) :|
+w:of one a- li- ance.
+w:Aske them that feele. * 
+w:Love keepe the wood. * 
+w:In de- sert borne. *
+w:For- tune a- diew. *
+
+X:2
+T:XVIII. Faction that ever dwells
+T:Alto.
+C:John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:C
+L:1/4
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+K:G mix
+N:Original clef, C on second line
+D2 D D D > G ^F2 G4
+w: 1.~Fact- ion that e- ver * dwels,
+w: 2.~For- tune sweares, weak- est * harts
+w: 3.~This dis- cord it be- * get
+w: 4.~So to the wood went * I
+w: 5.~My saint is deere to * mee,
+z2 D2 D2 D2 F2 F2 E4
+w: In court where wits ex- cells,
+w: The booke of Cu- pids arts
+w: A- theist that ho- nor not
+w: With love to live and die
+w: And love hir selfe is shee
+z2 G2 G6 E2 (^F F3)
+w: Hath set de- fi- ance, 
+w: Turne with hir wheele, *
+w: Na- ture thought good, *
+w: For- tune for- lorne. *
+w: Jone faier and true, *
+|:F2 D B A3 G ^F4
+w: For- tune and love hath sworne,
+w: Sen- ces them- selves shall prove
+w: For- tune should e- ver dwell
+w: Ex- per- ience of my youth
+w: Jone that doth e- ver move
+z2 ^F2 E ^F G3 ^F/ E/ ^F2 G4
+w: That they were ne- ver * * borne,
+w: Ven- ture hir place in * * love
+w: In court where wits ex- * * cell
+w: Made me thinke hum- ble * * truth
+w: Pas- sions of love with * * love
+z2 E2 D3 C (B,  B,3) :|
+w: of one a- li- ance.
+w: Aske them that feele. *
+w: Love keepe the wood. *
+w: In de- sert borne. * 
+w: For- tune a- diew. *
+
+X:3
+T:XVIII. Faction that ever dwells
+T:Tenore.
+C:John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%LY voices \property Voice.Slur \set #'dashed = #1
+N:Original clef, C on third line
+K:G mix -8va
+%%MIDI transpose -12
+B2 B B B2 d2 d4
+w: 1.~Fact- ion that e- ver dwels,
+w: 2.~For- tune sweares, weak- est harts
+w: 3.~This dis- cord it be- get
+w: 4.~So to the wood went I
+w: 5.~My saint is deere to mee,
+z2 B2 B2 B2 c2 d2 A4
+w: In court where wits ex- cells,
+w: The booke of Cu- pids arts
+w: A- theist that ho- nor not
+w: With love to live and die
+w: And love hir selfe is shee
+z2 B2 d6 ^c2 (A A3)
+w: Hath set de- fi- ance, 
+w: Turne with hir wheele, *
+w: Na- ture thought good, *
+w: For- tune for- lorne. *
+w: Jone faier and true, *
+|:d2 A B A d ^c2 d4
+w: For- tune and love hath * sworne,
+w: Sen- ces them- selves shall * prove
+w: For- tune should e- ver * dwell
+w: Ex- per- ience of my * youth
+w: Jone that doth e- ver * move
+z2 A2 c2 d2 e3 d/ c/ d4
+w: That they were ne- ver * borne,
+w: Ven- ture hir place in * love
+w: In court where wits ex- * cell
+w: Made me thinke hum- ble * truth
+w: Pas- sions of love with * love
+z2 G2 G2 ^F2 (G G3) :|
+w: of one a- li- ance.
+w: Aske them that feele. *
+w: Love keepe the wood. *
+w: In de- sert borne. * 
+w: For- tune a- diew. *
+
+
+X:4
+T:XVIII. Faction that ever dwells
+T:Basso.
+C:John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+K:G mix bass
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%MIDI transpose -24
+g2 g g g2 d2 G4
+w: 1.~Fact- ion that e- ver dwels,
+w: 2.~For- tune sweares, weak- est harts
+w: 3.~This dis- cord it be- get
+w: 4.~So to the wood went I
+w: 5.~My saint is deere to mee,
+z2 g2 g2 g2 f2 d2 c4
+w: In court where wits ex- cells,
+w: The booke of Cu- pids arts
+w: A- theist that ho- nor not
+w: With love to live and die
+w: And love hir selfe is shee
+z2 G2 g4 e4 (d d3)
+w: Hath set de- fi- ance, 
+w: Turne with hir wheele, *
+w: Na- ture thought good, *
+w: For- tune for- lorne. *
+w: Jone faier and true, *
+|: d2 d d d2 A2 d4 
+w: For- tune and love hath sworne,
+w: Sen- ces them- selves shall prove
+w: For- tune should e- ver dwell
+w: Ex- per- ience of my youth
+w: Jone that doth e- ver move
+z2 d2 c2 B2 A2 A2 G4
+w: That they were ne- ver borne,
+w: Ven- ture hir place in love
+w: In court where wits ex- cell
+w: Made me thinke hum- ble truth
+w: Pas- sions of love with love
+z2 c2 d3 d (G G3) :|
+w: of one a- li- ance.
+w: Aske them that feele. *
+w: Love keepe the wood. *
+w: In de- sert borne. * 
+w: For- tune a- diew. *

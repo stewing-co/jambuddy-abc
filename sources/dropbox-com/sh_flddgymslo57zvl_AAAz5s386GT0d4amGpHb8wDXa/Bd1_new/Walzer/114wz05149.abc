@@ -1,0 +1,104 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Alpenk\"onig (Walzer) GC chords parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.382 (wz05149) orig. G,C-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+R: waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+d [P:A] |: "G"b2f | "C"age | "G"d2B | g2B | "D7"e2d | AcB |1 "G"G F/G/ A/B/ |  "D7"c/d/ e/f/ g/a/ :|2 "G"G>gg | gzd ||  
+[P:B]  "G"d>b a/g/ | "D7"gff | f>e d/c/ | "G"cBB | G>g f/e/ | "C"ecc | "D7"eFF | "G"Gzz || [K:C] 
+[P:C] |: "C"^F/G/ c/e/g | B/c/ e/g/c' | "G7"a>g ^f/d/ | "C"^f>e c/G/ | ^F/G/ c/e/g | B/c/ e/g/c' | "G7"a>g f/d/ | "C"czz :| 
+[P:D] [K:G] "D7"dd/d/d | "G"d>ed | "D7"^c/d/ e/=c/ f/d/ | "G"g>ab | "D7"dd/d/d | "G"d>ed | "D7"^c/d/ e/=c/ f/d/ | "G"gzz |] 
+% June 5, 2016
+W: cf. "Volksmusik aus Liechten" (Hoerprobe)
+W: https://www.jpc.de/jpcng/poprock/detail/-/art/Various-Artists-Volksmusik-Aus-Liechten/hnum/4650733
+X:2
+T:Alpenk\"onig (Walzer) GC chords
+R: waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+d |: "G"b2f | "C"age | "G"d2B | g2B | "D7"e2d | AcB |1 "G"G F/G/ A/B/ |  "D7"c/d/ e/f/ g/a/ :|2 "G"G>gg | gzd ||  
+ "G"d>b a/g/ | "D7"gff | f>e d/c/ | "G"cBB | G>g f/e/ | "C"ecc | "D7"eFF | "G"Gzz || [K:C] 
+|: "C"^F/G/ c/e/g | B/c/ e/g/c' | "G7"a>g ^f/d/ | "C"^f>e c/G/ | ^F/G/ c/e/g | B/c/ e/g/c' | "G7"a>g f/d/ | "C"czz :| 
+ [K:G] "D7"dd/d/d | "G"d>ed | "D7"^c/d/ "_e"e/"_c"=c/ "_f#"f/d/ | "G"g>ab | "D7"dd/d/d | "G"d>ed | "D7"^c/d/ e/=c/ f/d/ | "G"gzz |] 
+X:3
+T:Alpenk\"onig (Walzer) CF chords
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G |: "C"e2B | "F"dcA | "C"G2E | c2E | "G7"A2G | DFE |1 "C"C B,/2C/2 D/2E/2 | "G7"F/2G/2 A/2B/2 c/2d/2 :|2 "C"C>cc | czG || 
+"C"G>e d/2c/2 | "G7"cBB | B>A G/2F/2 | "C"FEE | C>c B/2A/2 | "F"AFF | "G7"AB,B, | "C"Czz || [K:F] 
+|: "F"=B,/2C/2 F/2A/2c | E/2F/2 A/2c/2f | "C7"d>c =B/2G/2 | "F"=B>A F/2C/2 | =B,/2C/2 F/2A/2c | E/2F/2 A/2c/2f | "C7"d>c B/2G/2 | "F"Fzz :| 
+[K:C] "G7"GG/2G/2G | "C"G>AG | "G7"^F/2G/2 A/2=F/2 B/2G/2 | "C"c>de | "G7"GG/2G/2G | "C"G>AG | "G7"^F/2G/2 A/2=F/2 B/2G/2 | "C"czz |] 
+X:4
+T:Alpenk\"onig (Walzer) GC (5letras transposed)
+R: waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+d |: "G"b2f | "C"age | "G"d2B | g2B | "D7"e2d | AcB |1 "G"G F/G/ A/B/ |  "D7"c/d/ e/f/ g/a/ :|2 "G"G>gg | gzd ||  
+ "G"d>b a/g/ | "D7"gff | f>e d/c/ | "G"cBB | G>g f/e/ | "C"ecc | "D7"eFF | "G"Gzz || [K:C] 
+|: "C"^F/G/ c/e/g | B/c/ e/g/c' | "G7"a>g ^f/d/ | "C"^f>e c/G/ | ^F/G/ c/e/g | B/c/ e/g/c' | "G7"a>g f/d/ | "C"czz :| 
+ [K:G] "D7"dd/d/d | "G"d>ed | "D7"^c/d/ e/=c/ f/d/ | "G"g>ab | "D7"dd/d/d | "G"d>ed | "D7"^c/d/ e/=c/ f/d/ | "G"gzz |] 
+X:5
+T:Alpenk\"onig (Walzer) CF (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+G |: "C"e2B | "F"dcA | "C"G2E | c2E | "G7"A2G | DFE |1 "C"C B,/2C/2 D/2E/2 | "G7"F/2G/2 A/2B/2 c/2d/2 :|2 "C"C>cc | czG || 
+"C"G>e d/2c/2 | "G7"cBB | B>A G/2F/2 | "C"FEE | C>c B/2A/2 | "F"AFF | "G7"AB,B, | "C"Czz || [K:F] 
+|: "F"=B,/2C/2 F/2A/2c | E/2F/2 A/2c/2f | "C7"d>c =B/2G/2 | "F"=B>A F/2C/2 | =B,/2C/2 F/2A/2c | E/2F/2 A/2c/2f | "C7"d>c B/2G/2 | "F"Fzz :| 
+[K:Cmaj] "G7"GG/2G/2G | "C"G>AG | "G7"^F/2G/2 A/2=F/2 B/2G/2 | "C"c>de | "G7"GG/2G/2G | "C"G>AG | "G7"^F/2G/2 A/2=F/2 B/2G/2 | "C"czz |] 
+X:6
+T:Alpenk\"onig (Walzer) G (var.)
+R: waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+d |: "G"b2f | "C"age | "G"d2B | g2B | "D7"e2d | AcB |1 "G"G F/G/ A/B/ |  "D7"c/d/ e/f/ g/a/ :|2 "G"G>gg | gzd ||  
+ "G"d>b a/g/ | "D7"gff | f>e d/c/ | "G"cBB | G>g f/e/ | "C"ecc | "D7"eFF | "G"Gzz || 
+|: "C"F/G/ c/e/g | B/c/ e/g/c' | "G7"a>g f/d/ | "C"f>e c/G/ | F/G/ c/e/g | B/c/ e/g/c' | "G7"a>g =f/d/ | "C"czz :| 
+"D7"dd/d/d | "G"d>ed | "D7"^c/d/ e/=c/ f/d/ | "G"g>ab | "D7"dd/d/d | "G"d>ed | "D7"^c/d/ e/=c/ f/d/ | "G"gzz |] 
+X:7
+T:Alpenk\"onig (Walzer) F 2- (var.)
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+c |: "F"a2e | "Bb"gfd | "F"c2A | f2A | "C7"d2c | GBA |1 "F"F E/2F/2 G/2A/2 | "C7"B/2c/2 d/2e/2 f/2g/2 :|2 "F"F>ff | fzc || 
+"F"c>a g/2f/2 | "C7"fee | e>d c/2B/2 | "F"BAA | F>f e/2d/2 | "Bb"dBB | "C7"dEE | "F"Fzz || 
+|: "Bb"E/2F/2 B/2d/2f | A/2B/2 d/2f/2b | "F7"g>f e/2c/2 | "Bb"e>d B/2F/2 | E/2F/2 B/2d/2f | A/2B/2 d/2f/2b | "F7"g>f _e/2c/2 | "Bb"Bzz :| 
+"C7"cc/2c/2c | "F"c>dc | "C7"=B/2c/2 d/2_B/2 e/2c/2 | "F"f>ga | "C7"cc/2c/2c | "F"c>dc | "C7"=B/2c/2 d/2_B/2 e/2c/2 | "F"fzz |] 
+X:8
+T:Alpenk\"onig (Walzer) C 7- (var.)
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G |: "C"e2B | "F"dcA | "C"G2E | c2E | "G7"A2G | DFE |1 "C"C B,/2C/2 D/2E/2 | "G7"F/2G/2 A/2B/2 c/2d/2 :|2 "C"C>cc | czG || 
+"C"G>e d/2c/2 | "G7"cBB | B>A G/2F/2 | "C"FEE | C>c B/2A/2 | "F"AFF | "G7"AB,B, | "C"Czz || 
+|: "F"B,/2C/2 F/2A/2c | E/2F/2 A/2c/2f | "C7"d>c B/2G/2 | "F"B>A F/2C/2 | B,/2C/2 F/2A/2c | E/2F/2 A/2c/2f | "C7"d>c _B/2G/2 | "F"Fzz :| 
+"G7"GG/2G/2G | "C"G>AG | "G7"^F/2G/2 A/2=F/2 B/2G/2 | "C"c>de | "G7"GG/2G/2G | "C"G>AG | "G7"^F/2G/2 A/2=F/2 B/2G/2 | "C"czz |] 
+X:9
+T:Alpenk\"onig (Walzer) D (tin whistle)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:Dmaj%%MIDI gchordon
+A |: "D"f2c | "G"edB | "D"A2F | d2F | "A7"B2A | EGF |1 "D"D C/2D/2 E/2F/2 | "A7"G/2A/2 B/2c/2 d/2e/2 :|2 "D"D>dd | dzA || 
+"D"A>f e/2d/2 | "A7"dcc | c>B A/2G/2 | "D"GFF | D>d c/2B/2 | "G"BGG | "A7"BCC | "D"Dzz || 
+|: "G"C/2D/2 G/2B/2d | F/2G/2 B/2d/2g | "D7"e>d c/2A/2 | "G"c>B G/2D/2 | C/2D/2 G/2B/2d | F/2G/2 B/2d/2g | "D7"e>d =c/2A/2 | "G"Gzz :| 
+"A7"AA/2A/2A | "D"A>BA | "A7"^G/2A/2 B/2=G/2 c/2A/2 | "D"d>ef | "A7"AA/2A/2A | "D"A>BA | "A7"^G/2A/2 B/2=G/2 c/2A/2 | "D"dzz |] 
+W:
+W: for tin whistle TABs go to: 
+W: http://www.mandolintab.net/abcconverter.php
+W: Tablatur: Whistle - key: D
+
+

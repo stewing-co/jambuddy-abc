@@ -1,0 +1,56 @@
+%%MIDI program 21
+%%partsbox
+
+X:1
+T:Polka  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.194 (pk09340) orig. C,F
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+G2 |: "C"G2e2 c2a2 | g2ecG4 | "G7"d^cde d2G2 | "C"e^def e2E2 | G2e2 c2a2 | g2ecG4 | "G"d2^cd "D7"^fe=cA |1
+"G"G2g2 g2G2 :|2 "G"G2g2 g2g2 |: "G7"f2fe d2a2 | "C"g2gf e2c'2 | "G7"bdfb afda | "C"gcea g2c2 | "G7"f2fe d2a2 | 
+"C"g2gf e2c'2 | "G7"bdfb agfB |1 "C"c2e2 c2g2 :|2 "C"c2e2 c2z2 |: [K:F] "F"A4 AB=Bc | agfe f2c2 | 
+"C7"bag^f g2c2 | "F"agfe f2c2 | A4 AB=Bc | agfe f2c2 | "C7"bagf ecde | "F"f2a2 f2z2 :|  
+% pk09340
+X:2
+T:Polka  GC 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+D2 |: "G"D2B2 G2e2 | d2BGD4 | "D7"A^GAB A2D2 | "G"B^ABc B2B,2 | D2B2 G2e2 | d2BGD4 | "D"A2^GA "A7"^cB=GE |1
+"D"D2d2 d2D2 :|2 "D"D2d2 d2d2 |: "D7"c2cB A2e2 | "G"d2dc B2g2 | "D7"fAcf ecAe | "G"dGBe d2G2 | "D7"c2cB A2e2 | 
+"G"d2dc B2g2 | "D7"fAcf edcF |1 "G"G2B2 G2d2 :|2 "G"G2B2 G2z2 |: [K:Cmaj] "C"E4 EF^FG | edcB c2G2 | 
+"G7"fed^c d2G2 | "C"edcB c2G2 | E4 EF^FG | edcB c2G2 | "G7"fedc BGAB | "C"c2e2 c2z2 :| 
+% pk09340
+X:3
+T:Polka  CF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+G2 |: "C"G2e2 c2a2 | g2ecG4 | "G7"d^cde d2G2 | "C"e^def e2E2 | G2e2 c2a2 | g2ecG4 | "G"d2^cd "D7"^fe=cA |1
+"G"G2g2 g2G2 :|2 "G"G2g2 g2g2 |: "G7"f2fe d2a2 | "C"g2gf e2c'2 | "G7"bdfb afda | "C"gcea g2c2 | "G7"f2fe d2a2 | 
+"C"g2gf e2c'2 | "G7"bdfb agfB |1 "C"c2e2 c2g2 :|2 "C"c2e2 c2z2 |: [K:F] "F"A4 AB=Bc | agfe f2c2 | 
+"C7"bag^f g2c2 | "F"agfe f2c2 | A4 AB=Bc | agfe f2c2 | "C7"bagf ecde | "F"f2a2 f2z2 :|  
+% pk09340
+X:4
+T:Polka A&D (tinwhistle in D) solo
+T:pk09325 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:A transpose=12
+E2 |: E2c2 A2f2 | e2cAE4 | B^ABc B2E2 | c^Bcd c2"_=C"C2 | E2c2 A2f2 | e2cAE4 | B2^AB ^dc=AF |1
+E2e2 e2E2 :|2 E2e2 e2e2 |: d2dc B2f2 | e2ed c2a2 | gBdg fdBf | eAcf e2A2 | d2dc B2f2 | 
+e2ed c2a2 | gBdg fedG |1 A2c2 A2e2 :|2 A2c2 A2z2 |: [K:Dmaj] F4 FG^GA | fedc d2A2 | 
+gfe^d e2A2 | fedc d2A2 | F4 FG^GA | fedc d2A2 | gfed cABc | d2f2 d2z2 :|
+% pk09340
+% Sep. 12, 2016 (Little Janina's birthday)

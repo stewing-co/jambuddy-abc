@@ -1,0 +1,69 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Auf dem Z\"urisee (Walzer) BbEb
+T:Hanny Christen. Bd.I  Z\"urich, Schaffhausen, St. Gallen I. S.208  (wz00415) orig. Bb,Eb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/4
+K:Bb %%MIDI gchordon
+F| "Bb"BFB | dBd | f>gf | zgf | "F7"e>fe | zfe | "Bb"d>bf | "F7"zFA | 
+"Bb"BFB | dBd | f>gf | zgf | "F7"e>fe | zfa | "Bb"b>bb | bzz |: "Eb"geb | 
+g3 | "Bb"fdb | f3 | "F7"fcd | edc |1 "Bb"dBg | f3 :|2 "Bb"B>bb | bzz || [K:Eb] 
+|: "Eb"B3 | e3 | "Bb7"d3 | a3 | c3 | B2A | "Eb"G3 | E3 | B3 | 
+e3 | "Bb7"d3 | a3 | c3 | B2d | "Eb"(e3 | e)zz :: "Ab"e>ee | zf/e/ d/c/ | 
+"Eb"B>BB | zeg | "Bb7"a>dd | zcd |1 "Eb"e>BB | zGB :|2 "Eb"e>ee | ezz |] 
+W:
+W: Anmerkungen HC: <Einsiedler Walzer> Steinen 87, Spiez 13, Schafhuse/Emmental 2, Saanen 9 (Risener) 
+
+X:2
+T:Auf dem Z\"urisee (Walzer) GC 3-
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+D| "G"GDG | BGB | d>ed | zed | "D7"c>dc | zdc | "G"B>gd | "D7"zDF | 
+"G"GDG | BGB | d>ed | zed | "D7"c>dc | zdf | "G"g>gg | gzz |: "C"ecg | 
+e3 | "G"dBg | d3 | "D7"dAB | cBA |1 "G"BGe | d3 :|2 "G"G>gg | gzz || [K:Cmaj] 
+|: "C"G3 | c3 | "G7"B3 | f3 | A3 | G2F | "C"E3 | C3 | G3 | 
+c3 | "G7"B3 | f3 | A3 | G2B | "C"(c3 | c)zz :: "F"c>cc | zd/2c/2 B/2A/2 | 
+"C"G>GG | zce | "G7"f>BB | zAB |1 "C"c>GG | zEG :|2 "C"c>cc | czz |] 
+
+X:3
+T:Auf dem Z\"urisee (Walzer) BbEb 3+ (5letras) cf. GC 3-
+M:3/4
+L:1/4
+K:Bbmaj%%MIDI gchordon
+F| "Bb"BFB | dBd | f>gf | zgf | "F7"e>fe | zfe | "Bb"d>bf | "F7"zFA | 
+"Bb"BFB | dBd | f>gf | zgf | "F7"e>fe | zfa | "Bb"b>bb | bzz |: "Eb"geb | 
+g3 | "Bb"fdb | f3 | "F7"fcd | edc |1 "Bb"dBg | f3 :|2 "Bb"B>bb | bzz || [K:Ebmaj] 
+|: "Eb"B3 | e3 | "Bb7"d3 | a3 | c3 | B2A | "Eb"G3 | E3 | B3 | 
+e3 | "Bb7"d3 | a3 | c3 | B2d | "Eb"(e3 | e)zz :: "Ab"e>ee | zf/2e/2 d/2c/2 | 
+"Eb"B>BB | zeg | "Bb7"a>dd | zcd |1 "Eb"e>BB | zGB :|2 "Eb"e>ee | ezz |] 
+
+
+
+X:4
+T:Auf dem Z\"urisee (Walzer) CF 2+
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+G| "C"cGc | ece | g>ag | za"_ ="g | "G7"f>gf | zgf | "C"e>c'g | "G7"zG"_ ="B | 
+"C"cGc | ece | g>ag | za"_ ="g | "G7"f>gf | zgb | "C"c'>c'c' | c'zz |: "F"afc' | 
+a3 | "C"gec' | g3 | "G7"g"_d"de | "_f"fe"_ ="d |1 "C"eca | g3 :|2 "C"c>c'c' | c'zz || [K:Fmaj] 
+|: "F"c3 | "_ ="f3 | "C7""_e"e3 | "_b"b3 | d3 | c2"_ b ="B | "F"A3 | F3 | c3 | 
+"_ ="f3 | "C7"e3 | b3 | d3 | c2"_ ="e | "F"(f3 | f)zz :: "Bb"f>ff | zg/2f/2 e/2d/2 | 
+"F"c>cc | zfa | "C7""_b"b>"_e"ee | zd"_ ="e |1 "F"f>cc | zAc :|2 "F"f>ff | fzz |] 
+
+X:5
+T:Auf dem Z\"urisee (Walzer) EbAb 3+ (5letras) cf. CF 2+
+M:3/4
+L:1/4
+K:Ebmaj%%MIDI gchordon
+B| "Eb"eBe | geg | b>c'b | zc'b | "Bb7"a>ba | zba | "Eb"g>e'b | "Bb7"zBd | 
+"Eb"eBe | geg | b>c'b | zc'b | "Bb7"a>ba | zbd' | "Eb"e'>e'e' | e'zz |: "Ab"c'ae' | 
+c'3 | "Eb"bge' | b3 | "Bb7"bfg | agf |1 "Eb"gec' | b3 :|2 "Eb"e>e'e' | e'zz || [K:Abmaj] 
+|: "Ab"e3 | a3 | "Eb7"g3 | d'3 | f3 | e2d | "Ab"c3 | A3 | e3 | 
+a3 | "Eb7"g3 | d'3 | f3 | e2g | "Ab"(a3 | a)zz :: "Db"a>aa | zb/2a/2 g/2f/2 | 
+"Ab"e>ee | zac' | "Eb7"d'>gg | zfg |1 "Ab"a>ee | zce :|2 "Ab"a>aa | azz |] 
+

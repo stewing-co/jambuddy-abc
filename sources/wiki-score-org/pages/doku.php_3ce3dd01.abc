@@ -1,0 +1,40 @@
+X:214
+T:O Salutaris
+C:Giuseppe Totti (17__-1832)
+M:3/4
+L:1/4
+K:Eb
+V: 14 clef=bass name="Fagotto [I]" sname="Fg. I"
+%%MIDI program 1 68
+%%staves [( 14 )]
+%----- edit between the lines ----
+[V: 14] Z7 | "^col.bass" E/E,/ !p! B,/B,/D,/D,/ | !f! E,/E,/ !p! B,/B,/D,/D,/ | !f! E,/E,/E,/E,/E,/E,/ |
+E, E,, z | .B,, .B,, z | E, D, E, |
+"^col.bass" !f! B,,/B,,/D,/D,/F,/F,/ | B,,/B,,/D,/D,/F,/F,/ | B,,/B,,/D,/D,/F,/F,/ |
+B,,/B,,/B,,/B,,/B,,/B,,/ | B,, B,, z | .F, .F,, z |
+.B,, .=A,, .B,, | !f! F,/F,/=A,,/A,,/C,/C,/ | F,,/ F,/=A,/C/A,/F,/ |
+B,,/B,,/D,/D,/F,/F,/  |  B,/ B,,/D,/F,/D,/B,,/ | F, z/ C/C/C/      |
+(C//B,//=A,//B,// C/) E/E/E/ | (E//D//C//D//) E//D//C//B,// =A,//G,//F,//E,//  | D, z z   |
+Z8 | z z/ !p!(F/F/E/ "_cresc." |  D/C/=B,/_A,/G,/F,/ | !f!E,/) z/ z2 |
+"^col.bass" !f! C,/C,/!p!G,/G,/=B,,/B,,/  | !f! C,/C,/!p!G,/G,/=B,,/B,,/ |
+!f! C,/C,/C,/C,/C,/C,/ | C, !p! C, z | !p! .G,, z2 |
+!f! G,,/G,,/=B,,/B,,/G,,/G,,/ | C,/C,/ C/C/^F,/F,/  | G,/G,,/=B,,/B,,/ G,,/G,,/ |
+C,/C,/ C/C/^F,/F,/  | G,/G,/ =B,,/B,,/C,/C,/  | G,/G,/=B,,/B,,/C,/C,/ |
+G,,G,,  G,,/G,,/ | G,, !p!.G,, .G,, | .G,, !fermata!z2 ||
+"^Allegro Assai" E, z/ B,/G,/E,/ | B,, z/ F,/D,/B,,/  | E,/E,/D,/D,/E,/E,/ |
+A,/B,/ C D | E z/ B,/G,/E,/ |   B,, z/ F,/D,/B,,/  | B,/B,/=A,/A,/B,/B,/ | E,/F,/ G, =A, |
+B, B,, B,, | F, F, F, | C, C, C, | G, G, G, | C, C, C, | F, F, F, | C, C ^F, | G, G, =B,, |
+C, C, C | B, _D B, | G, B, G, | =E, G, E, |
+F,/ F,//G,// A,/F,/C/C,/ | F,,/ F,//G,// A,/F,/C/C,/ | F, F, F, | C E C |
+=A, C A, | ^F, z/ F,/=A,/F,/ | G,/ G,,//=A,,// B,,/G,,/D,/D,/ | G,/ G,,//=A,,// B,,/G,,/D,/D,/ |
+G, G,, z | G,2 > | G,4 > | G,4 > |
+C2 z/ C,/E,/G,/ | C, C,, z | F,2> | F,4> | F,4> |
+B,,B,,/ D, B,, | E, G, E, | C, E, C, |
+F, _A, F, | B,, D, B,, | E, !p! E,2 | E,2 > | E,4 > | !f! E,2 z z | !p!E, E, E,|
+A, A, A, | B, B, B,, |
+!p!B,> G,A,/C/ |  B,> G,A,/C/  | B,> G,A,/C/ |  B, z z  |
+"^col.bass" E, z z | !p! E, E, E, |
+A, A, A, | B, B, B,, | E, z z | Z2 | E, E, E, | E, E, E, | E, z z |
+Z2 | E, E, E, | E, E, E, | E, E, E, | E, E, E, | E, E, E, | E, E, E, |
+E, (G, E,) | .B,, .B,, .B,, | G,, (E, G,,) | .G,, .G,, .G,, | E,, z E,, | E,, z z |]
+%----------------------------------

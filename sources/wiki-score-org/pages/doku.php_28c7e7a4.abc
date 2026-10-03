@@ -1,0 +1,21 @@
+X:701
+T:Trio VI (Largo)
+C:Costa, Abade António da (1714-c1780)
+M:6/4
+L:1/4
+K:G
+V: 1 clef=treble name="Violino I.mo" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [ 1 ]
+%----- edit between the lines
+[Q:"Largo"] "_[fol.7 (18)]"  (^g | ^g a) (c'2 a) .c | (=g2=f2e) (g/f/ | =f/d2) e-e//(^c// de) | "^Canoni dell' Abate Portoghese"  (g f d3) (^c | ^c d) (f2  e) .B |
+(d2 =c2 B)(d/<c/ | B2) (_B A2) (=B/>=c/ | ^G/) (B A3/2 A/>B/ ^G) (e | =f e/>^f/a/<=g/ ^f/)>(g/ e e | e/>^f/ ^d)
+.B (=d/<=c/ B) (^d | e2) (b e3 | e2) (=d ^c2) .^f |(a/<=g/^f/<)(g/ e ^d/) (^f e3/2) | (=g/>=f/e/>)(f/ =d
+^c) (e<d) | (d =f/<e/ d2) (f/<_e/ d | ^c) (=e/ d2 =c/) e2- | e (=g/<=f/ e2) (g/4^f/)(g/4 e | ^d) (^f/ e3
+d/) z/  (B/ | e/) (b =g) (B/ =c/A/c/(e/)a/=c'/) | (b4 ^a2 | a b) (=a2 ^g2 | ^g a) (=g ^f2) (=f | e2) (^f/>=g/)
+(^d e) (^d | ^d e) .g/>(e/ B)>z :|: (^d | ^d e) (g2 e) .B | (=d2 =c2 B) (d/c/ | =c/ A2) B- B//(^G// A B) | (d c A3) (^G | ^G A) (c2 B) .^F |
+(A2 =G2) (B/<A/ G | G ^F) (G2 =F) (=B | E4) ^D2 | -D2 .B,3.B | (=d =c) (B2 ^A) (^c |  ^A/>^c/ B A) (c B) =A & x5 (^F | ^G/>B/ A ^G (B A2 & ^G/>B/ A ^G) x3  |
+^G/>B/ A G) (B A) =G & x5 (E | ^F/>A/ G ^F (A G2 & ^F/>A/ G ^F) x3 | G4 ^F) (G | =F/>=E/) .c3 =B (=A | G2 ^G2 A) (^F |
+A =G) (E2 =F) .E | (A G2 E =F)  (E | ^E/>^F/ E) (^D ^F > E) z/ (E/ | A/) (e =c) (E/ =F/D/F/)(A/d/=f/ | e4) (^d2 | ^d e)
+(=d2 ^c2 | ^c d) (=c B2) (_B | A2) (=B/>=c/ ^G A) (G | ^G A) .c/>(A/ E) > z :|
+%---------------------------------

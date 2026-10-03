@@ -1,0 +1,46 @@
+X: 8
+T: Le colosse
+N: from lieuxc_musique8.mid
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:Ab % 4 flats
+V:1
+%%MIDI program 0
+F/=E/ F/=E/ FC F/=E/ F/=E/ FC | AG F2 Ac A2 | G4 A>A c2 | dc A2 G4 |
+F/=E/ F/=E/ FC F/=E/ F/=E/ FC | AG F2 Ac A2 | G4 A>A c2 | dc A2 G4 |
+|: F/=E/ F/=E/ Fc A/=E/ A/=E/ AC | AG F2 Ac A2 | G4 A>A c2 | dc A2 G4 |
+   F/=E/ F/=E/ FC F/=E/ F/=E/ FC | AG F2 Ac A2 | G4 A>A c2 | dc A2 G4 :|
+V:2
+%%MIDI program 0
+F,3 G, F,3 G, | A,2 C,4 A,2 | G,4 C,>C, F,2 | G,2 A,3/C/ _E,4 |
+F,3 G, F,3 G, | A,2 C,4 A,2 | G,4 C,3/ C,/ F,2 | G,2 A,3/C/ E,4 |
+|: F,3 F, A,3 G, | A,2 C,2 C,2 A,2 | =E,4 C,3/ C,/ F,2 | G,2 A,3/ C/ G,4 |
+   F,3 G, F,3 G, | A,2 C,4 A,2 | G,4 C,3/ C,/ F,2 | G,2 A,3/ C/ _E,4 :|
+V:3
+%%MIDI program 0
+CC A2 CA C2 | C2 C2 =E,3/ G,/ F,2 | =E,3-=E,/ G,/ A,2 A,2 | =E,2 =E,3/ C,/ _E,4 |
+CC A2 CA C2 | C2 C2 =E,3/ G,/ F,2 | =E,3-=E,/ G,/ A,2 A,2 | =E,2 =E,3/ C,/ _E,4 |
+|: CC, C,2 A,A, F,2 | C2 CF =E,3/ G,/ F,2 | =E,3-=E,/ G,/ A,2 A,2 | =E,2 =E,3/ C,/ G,4 |
+   CC A2 CA C2 | C2 C2 =E,3/ G,/ F,2 | =E,3-=E,/ G,/ A,2 A,2 | =E,2 =E,3/ C,/ _E,4 :|
+V:4
+%%MIDI program 0
+F,,4 F,,A,, F,,2 | F,,2 =E,,4 F,,2 | =E,,4 C,2 F,,2 | =E,,4 _E,4- |
+E,8- | E,8- | E,8- | E,8 |
+|: F,,4 A,,4 | C,4 F,,4 | G,,4 F,,2 F,2 | C,4 G,,4 |
+   F,,4 F,,A,, F,,2 | F,,2 =E,,4 F,,2 | =E,,4 C,2 F,,2 | =E,,4 _E,4 :|
+V:5
+%%MIDI program 0
+F,F, A,2 CA, F,2 | C,,2 C,,4 F,B, | C4 F,3/ C,/ F,2 | =E,2 A,3/ C/ B,4- |
+B,8- | B,8- | B,8- | B,8- |
+|:B,8- | B,8- | B,8- | B,8 |
+F,F, A,2 CA, F,2 | C,,2 C,,4 F,B, | C4 F,3/ C,/ F,2 | =E,2 A,3/ C/ B,4- :|
+
+V:6
+%%MIDI program 10  %percu
+B,B, C2 B,B, CC/ C/ | B,2 B,2 B,2 B,2 | B,3/ B,<B,B,/ B,2 B,C | B,2 B,3/ C/ B,2 CC/ C/ |
+B,B, C2 B,B, CC/ C/ | B,2 B,2 B,2 B,2 | B,3/ B,<B,B,/ B,2 B,C | B,2 B,3/ C/ B,2 CC/ C/ |
+B,B, C2 B,/ B,/ B, CC/ C/ | B,2 B,B,/ B,/ B,2 B,2 | B,3/ B,<B,B,/ B,2 B,C | B,2 B,3/ C/ B,2 CC/ C/ |
+B,B, C2 B,B, CC/ C/ | B,2 B,2 B,2 B,2 | B,3/ B,<B,B,/ B,2 B,C | B,2 B,3/ C/ B,2 CC/ C/ |
+B,B, C2 B,/ B,/ B, CC/ C/ | B,2 B,B,/ B,/ B,2 B,2 | B,3/ B,<B,B,/ B,2 B,C | B,2 B,3/ C/ B,2 CC/ C/ |
+B,B, C2 B,B, CC/ C/ | B,2 B,2 B,2 B,2 | B,3/ B,<B,B,/ B,2 B,C | B,2 B,3/ C/ B,2 CC/  C/ |

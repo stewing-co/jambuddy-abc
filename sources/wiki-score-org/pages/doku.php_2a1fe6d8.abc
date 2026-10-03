@@ -1,0 +1,17 @@
+X:106
+T:[Orchestras]
+C:Giuseppe Totti (17__-1832)
+M:C
+L:1/4
+K:Bb
+V: 6 clef=treble name="Violini Secondo" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 6 }]
+%----- edit between the lines ----
+[Q:"Allegro com spirito"] !f! [Fd]>f[Fd]>f | [df]3 {e}(d/c//d//) | e. !p! .e.c.A | !f! [DB] z !f! [DB] z | \
+[DBf] z z2 | Z | z !p! .B/.B/ (B/D/)(D/=E/) | (=E/F/).F/.F/ (E/F/).F/.F/ | (D/_E/) E z2 | Z | \
+z2 z .c/.c/ | (c/e/).e/.e/  (e/g/).g/.g/ | g zz2 | Z | z [Af][Aa][Af] | f/ f f f f/ & d4 | \
+[Af][Af][Aa][Af] |  f/ f f f f/ & d4 | !f! !//!F2  !//!F2  | !//!F2  !//!F2   |!//!F2  !//!F2 | F z z2 | \
+Z2 | B>F B>F | d3 B | g> d g> d | B/ B B B/ G & d,4 | =E z [=Ecg] z | [acF] z [acF] [fcF] | [=Ec=e] z [=Ecg] z | \
+[acF] z [acF]/ a//g// f//_e//d//c// | [BD] z z2 |
+%---------------------------------

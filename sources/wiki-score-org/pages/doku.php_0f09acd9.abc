@@ -1,0 +1,45 @@
+X:107
+T:Motete
+C:Antonio da Silva Leite (1759-1833)
+M:3/4
+L:1/4
+K:F
+V: 7 clef=alto1 name="Voz" sname="V."
+%%MIDI program 1 1
+%%staves [[ 7 ]]
+%----- edit between the lines ------
+Z2| !fermata!z3 | !fermata!c>A!fermata!F | z/>F/ F/> F/ E/> F/ | \
+w: Do-mi-ne Si spon-sa tu-a
+{A}Gzz | z/>G/ G/> G/ F/> G/ | {B}Azz |
+w:sum Si spon-sa tu-a sum fac ut cor
+dzF/ F/ | F/>B/ B/ B/ c/ d/ | =B/>c/c=B//c// d//c// | cEE/> F/ | GGz |
+w:fac ut cor me--um et cor-pus me--um An--ge--lo-rum pu-ri-ta-tem
+G{B/A/}G/ G/ G/ A/ | B>EE | !fermata!"^          ad libitum" F3/2 {F/G/A/B/c/A/B/G/}F>A/G//!fermata!F | \
+w:Ma-tris que tu-o gra-ti-as ha--be--ant
+{A/}G/> G/ Gz/>G/ | G>=B/A// G/ A//B// |
+w:Do-mi-ne Si spon-sa*tu-a*
+{d}czz | _BzA//B// c//B// | {!/!B}A/ A/zz/A/ | G/B//A// G/ G/ ^F//G// B//G// | \
+w:sum fac ut*cor*me-um cor me*-um et cor--pus*
+EFF/ A//c// | !f!d!p!cF/ A//c// |
+w:me-um An-ge--lo-rum pu-ri-
+dcz | =BB/ B/ B/ c/ | (d/f)G/ A/=B/ | !fermata!c3/2{d/e/}=B//c//!fermata!C ||
+w:ta-tem Ma-tris que tu-o gra--ti-as*ha-be--ant.
+[Q:"Allegretto"] [M:C] z2z/A/ A/ A/ | (A//B//c//B//)Gz/G/ c/ G/ | {!/!B}AAzA/ A/ | \
+w:ad te Lau-dan**-dum et con-fi-ten-dum con-fi-
+A//B//c//A//Gzc/G/ | AAzz/f/ | d/> d/ dzz/d/ |
+w:ten**-dum Lau--dan-dum in om-ni-bus di-
+{!/!f}eez/c/d/e/ | (f/c)A/ (G//A//B//c// d//A//) B//G// | \
+w:e-bus di*-e--bus vi****-to
+F2!trill!G-G//F//A//G// | xxx/f//e// d//c// B//A//&Fzz/A/ A/ A/ |
+w:me***-a ad*te*Lau-
+(A//B//c//A//)Gz/d//c// B//A// B//G// | (A//B//c//A//)FzA/ A/ | \
+w:dan**-dum et*con--fi--ten**-dum con-fi-
+(A//B//c//B//)Gz/(d//c// B//A//B//G//) | (A//B//c//A//)Fzf/ c/ |
+w:ten**-dum Lau****-dan**-dum con-fi-
+ddzz/d/ | e/> e/ez/c/d/e/ | (f/c)A/ (G//A//B//c// d//A//) B//G// | \
+w:ten-dum in om-ni-bus di*-e--bus vi****-to
+F2G2{F/G/} | Af2A | G>Gc2 |
+w:me--a vi-to vi-to me-
+Af2A | G>Gc2 | Fzz2 | z4 | z4 | z4 | z4 |]
+w:a vi-to vi-to me-a.
+%-----------------------------------

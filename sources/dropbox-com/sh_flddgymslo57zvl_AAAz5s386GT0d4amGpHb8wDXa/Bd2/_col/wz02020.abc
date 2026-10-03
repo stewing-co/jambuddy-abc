@@ -1,0 +1,52 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Walzer  CF
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.274 (wz02020) orig. C,F
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T:Überliefert vermutlich durch Joggi Stocker (1889-1956)
+%%MIDI program 21
+R:walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G | "C"e2^d | e2^f | g2G | e2^d | e2g | "G7"f3 | d2G | d2e | f3 | fba | 
+gd>e | f>ed | "C"ce>d | c3 |: [K:F] [L:1/8] "F"c2 dc BA | "C7"BA GF EG | c2 eg Be | "F"fe fga2 | 
+c2dc BA | "C7"BA GF EG | c2eg ce | "F"f6 :| [K:C] "C"e3gg2 | e3GG2 | e3G ce | 
+"G7"fe dc B2 | d^c de fg | a3BB2 | f2 Bf ed | "C"cB ceg2 | e3gg2 | 
+e3GG2 | e3G ce | "G7"fe dcB2 | "Dm"daa2z2 | "C"cgg2z2 | "G7"BA Gf ed | "C"c6 |] 
+W:
+W:Anmerkung Hrsg.: 1. Teil: 14 Takte? Vermutlich fehlt nach Takt drei eine punktierte Halbe auf g.
+% wz02020 (H 071/TN 18)
+
+X:2
+T:Walzer  CF (5letras transposed)  (wz02020)
+%%MIDI program 21
+R:walzer
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+G | "C"e2^d | e2^f | g2G | e2^d | e2g | "G7"f3 | d2G | d2e | f3 | fba | 
+gd>e | f>ed | "C"ce>d | c3 |: [K:F] [L:1/8] "F"c2 dc BA | "C7"BA GF EG | c2 eg Be | "F"fe fga2 | 
+c2dc BA | "C7"BA GF EG | c2eg ce | "F"f6 :| [K:C] "C"e3gg2 | e3GG2 | e3G ce | 
+"G7"fe dc B2 | d^c de fg | a3BB2 | f2 Bf ed | "C"cB ceg2 | e3gg2 | 
+e3GG2 | e3G ce | "G7"fe dcB2 | "Dm"daa2z2 | "C"cgg2z2 | "G7"BA Gf ed | "C"c6 |] 
+% wz02020
+
+X:3
+T:Walzer  GC 5-  (wz02020)
+%%MIDI program 21
+R:walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+D | "G"B2^A | B2^c | d2D | B2^A | B2d | "D7"c3 | A2D | A2B | c3 | cfe | 
+dA>B | c>BA | "G"GB>A | G3 |: [K:Cmaj] [L:1/8] "C"G2 AG FE | "G7"FE DC B,D | G2 Bd FB | "C"cB cde2 | 
+G2AG FE | "G7"FE DC B,D | G2Bd GB | "C"c6 :| [K:Gmaj] "G"B3dd2 | B3DD2 | B3D GB | 
+"D7"cB AG F2 | A^G AB cd | e3FF2 | c2 Fc BA | "G"GF GBd2 | B3dd2 | 
+B3DD2 | B3D GB | "D7"cB AGF2 | "Am"Aee2z2 | "G"Gdd2z2 | "D7"FE Dc BA | "G"G6 |] 
+% wz02020
+% Sep 26, 2016

@@ -1,0 +1,89 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Fischerin, du kleine (Walzer)  D
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.323 (wz02117) orig. F
+T: Graubünden. Gla Genua, Sent. S.299-329. T: Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:Walzer
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+"D"d2e | f2g | a3 | b3 | "A7"e3 | a3 | ("D"d3 | d)zf | 
+"Bm"b2f | b2f | b3 | d'3 |1 "E7"c'2b | f2^g | ("A"a3 | "A7"a)zz :|2 
+"E7"e2e | f2^g | ("A"a3 | a)zb || ("A7"g2f) | (e2^d) | (e2f) | g2b | g2f |  
+e2^d | e2f | g2A | "D"d2e | f2g | a3 | "Bm"b3 | "C#7"c'2b | ^g2 a | 
+("F#m"f3 | f)za/a/ | "A7"aze | cza/a/ | az^g | az^g |  (a3 | a)zA | 
+|: "D"a2f | d2A | B3 | A3 | a2f | d2f | "Em"e3 | B3 | 
+b2g | e2d |1 "A7"c>bb | b2z | c>bb | b2c | "D"d>bb | a2z :|2 
+"A7"c>c'c' | c'3 | a>aa | b2c' | ("D"d'3 | d')zz |] 
+% wz02117  (Oct 4, 2016)
+
+X:2
+T:Fischerin, du kleine (Walzer)  G 7-  (wz02117)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.323 (wz02117) orig. F
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:Walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"G2A | B2c | d3 | e3 | "D7"A3 | d3 | ("G"G3 | G)zB | 
+"Em"e2B | e2B | e3 | g3 |1 "A7"f2e | B2^c | ("D"d3 | "D7"d)zz :|2 
+"A7"A2A | B2^c | ("D"d3 | d)ze || ("D7"c2B) | (A2^G) | (A2B) | c2e | c2B | 
+A2^G | A2B | c2D | "G"G2A | B2c | d3 | "Em"e3 | "F#7"f2e | ^c2 d | 
+("Bm"B3 | B)zd/2d/2 | "D7"dzA | Fzd/2d/2 | dz^c | dz^c | (d3 | d)zD | 
+|: "G"d2B | G2D | E3 | D3 | d2B | G2B | "Am"A3 | E3 | 
+e2c | A2G |1 "D7"F>ee | e2z | F>ee | e2F | "G"G>ee | d2z :|2 
+"D7"F>ff | f3 | d>dd | e2f | ("G"g3 | g)zz |] 
+% wz02117  (Oct 4, 2016)
+
+X:3
+T:Fischerin, du kleine (Walzer)  C 2-  (wz02117)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.323 (wz02117) orig. F
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:Walzer
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+"C"c2d | e2f | g3 | a3 | "G7"d3 | g3 | ("C"c3 | c)ze | 
+"Am"a2e | a2e | a3 | c'3 |1 "D7"b2a | e2^f | ("G"g3 | "G7"g)zz :|2 
+"D7"d2d | e2^f | ("G"g3 | g)za || ("G7"f2e) | (d2^c) | (d2e) | f2a | f2e | 
+d2^c | d2e | f2G | "C"c2d | e2f | g3 | "Am"a3 | "B7"b2a | ^f2 g | 
+("Em"e3 | e)zg/2g/2 | "G7"gzd | Bzg/2g/2 | gz^f | gz^f | (g3 | g)zG | 
+|: "C"g2e | c2G | A3 | G3 | g2e | c2e | "Dm"d3 | A3 | 
+a2f | d2c |1 "G7"B>aa | a2z | B>aa | a2B | "C"c>aa | g2z :|2 
+"G7"B>bb | b3 | g>gg | a2b | ("C"c'3 | c')zz |] 
+% wz02117  (Oct 4, 2016)
+
+X:4
+T:Fischerin, du kleine (Walzer)  F 9-  (wz02117)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.323 (wz02117) orig. F
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:Walzer
+M:3/4
+L:1/4
+K:Fmaj%%MIDI gchordon
+"F"F2G | A2B | c3 | d3 | "C7"G3 | c3 | ("F"F3 | F)zA | 
+"Dm"d2A | d2A | d3 | f3 |1 "G7"e2d | A2=B | ("C"c3 | "C7"c)zz :|2 
+"G7"G2G | A2=B | ("C"c3 | c)zd || ("C7"B2A) | (G2^F) | (G2A) | B2d | B2A | 
+G2^F | G2A | B2C | "F"F2G | A2B | c3 | "Dm"d3 | "E7"e2d | =B2 c | 
+("Am"A3 | A)zc/2c/2 | "C7"czG | Ezc/2c/2 | cz=B | cz=B | (c3 | c)zC | 
+|: "F"c2A | F2C | D3 | C3 | c2A | F2A | "Gm"G3 | D3 | 
+d2B | G2F |1 "C7"E>dd | d2z | E>dd | d2E | "F"F>dd | c2z :|2 
+"C7"E>ee | e3 | c>cc | d2e | ("F"f3 | f)zz |] 
+% wz02117  (Oct 4, 2016)
+
+
+
+
+

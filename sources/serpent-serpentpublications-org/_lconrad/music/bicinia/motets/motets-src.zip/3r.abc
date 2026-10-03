@@ -1,0 +1,63 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:3r. O Maria mater pia,
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:D dorian 
+N:Original clef, C on first line
+%1
+A4 G2 A3 B c A B2 c3 B A2 G2 A2 A2 G F E4 "A"D4 z2 D2 F4 E2 F2 G E A4 G2 "B"A4-A4\
+w: O Ma- ri- - - - - a _ _ ma- ter pi- - - - a, Me- di- a- trix ho- - - mi- num *
+%2
+z2 A2 A2 A2 D2 D E F E F G A B c A B A d3 c/ B/ c2 "C"d2 A2 A2 A2 D2 D E\
+w: Fun- de pre- ces nun- - - - - - - - - - - quá ces- - - - ses, Fun- de pre- ces nun- -
+%3
+F G A3 B c2 A2 d3 c B A B4 "D"A4-A4 z2 A2 c4 B2 c2 d2 B2 A2 c2 c B A G F2 G2 E4 z2 D2 F4 E2 F2 G2 E2\
+w: - - - - - quam ces- - - - - ses, * pro no bis ad do- mi- num, ad do- - - - - min-num, pro no- bis ad do- mi-
+%4 
+D2 d2 c B A G F3 E F G A B c A d4 c2 Hd4 |]\
+w:num, ad Do- - - - - - - - - - - - - mi- num. *
+
+X:2
+T:3r. O Maria mater pia,
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:D dorian 
+N:Original clef, C on first line
+%1
+z4 z4 A4 G2 A3 B c A B2 c2 A2 d4 c2 "A"d4-d4 z2 A2 c4 B2 A2 B3 B "B"A4 z2 A2 A2 A2 D3 E\
+w: O Ma- ri- - - - - a ma- ter- pi- a, * Me- di- a- trix ho- mi- num, Fun- de- pre- ces _
+%2
+F E F G A2 D E F G A F G2 F2 E4 "C"D4 z2 A2 A2 A2 D2 D E F G A B\
+w: _ _ _ _ _ nun- - - - - - - quá ces- ses, Fun- de pre- ces nun- - - - - -
+%3
+c2 B3 A A4 G2 "D"A4 z2 D2 F4 E2 F2 G2 E2 D2 G2 F E F G A B c3 A d4 c2 d4 z2 A2 c4 B2 c2 d2 B2 A2 c2\
+w: - quam _ _ ces- ses, pro no- bis ad Do- mi- num, ad Do- - - - - - - - - mi- num, pro no- bis ad Do- mi- num, pro
+%4 
+c B A G A2 F4 G2 E3 E HD4 |]\
+w:no- - - - - bis ad do- mi- num. *
+W:Text source unknown
+W:
+W:O Mary, kindest mother,
+W: who intercedes for men
+W: Pour out entreaties without ceasing
+W: For us to God.

@@ -1,0 +1,36 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.345 (pk04907) orig. C,G,F-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+"C"G2e2 e2de | "G7"f2f2B4 | G2f2 f2ef | "C"g2g2c4 | G2g2 g^fg2 | "Dm/F"a2a2d4 | "G7"f2f2 BAB2 | "C"c2c2 c2z2:: [K:G] 
+"G"d2dd e2d2 | Bdga !>!b4 | "D7"c'2c'2 c'ba2 | "G"b2b2 bag2 | ddd2 e2d2 | Bdga !>!b4 | "D7"c'2c'b adba | "G"g2g2 "_>Teil A"g2z2 :| [K:F] 
+|: "F"c2Ac f2cf | "Dm"a2a2f4 | "Bb"g3f e2d2 | "C7"cdcB"F"A4 | c2Ac f2cf | "Dm"a2a2f4 | "Bb"g3b "C7"g2e2 | "F"f2f2 f2z2 :: [K:C] 
+"C"gag^f  g=fed | e2ed c2c'2 | "G7"b2bd f2a2 | "C"g2gc e2ef | gag^f g=fed | e2ed c2c'2 | "G7"b2ba gfed | "C"c2c2 c2z2 :|  
+
+X:2
+T: Polka CGF chords Parts
+P:ABACD
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+[P:A] "C"G2e2 e2de | "G7"f2f2B4 | G2f2 f2ef | "C"g2g2c4 | G2g2 g^fg2 | "Dm/F"a2a2d4 | "G7"f2f2 BAB2 | "C"c2c2 c2z2:: [P:B] [K:G] 
+"G"d2dd e2d2 | Bdga !>!b4 | "D7"c'2c'2 c'ba2 | "G"b2b2 bag2 | ddd2 e2d2 | Bdga !>!b4 | "D7"c'2c'b adba | "G"g2g2 "_>Teil A"g2z2 :| [P:C] [K:F] 
+|: "F"c2Ac f2cf | "Dm"a2a2f4 | "Bb"g3f e2d2 | "C7"cdcB"F"A4 | c2Ac f2cf | "Dm"a2a2f4 | "Bb"g3b "C7"g2e2 | "F"f2f2 f2z2 :: [P:D] [K:C] 
+"C"gag^f  g=fed | e2ed c2c'2 | "G7"b2bd f2a2 | "C"g2gc e2ef | gag^f g=fed | e2ed c2c'2 | "G7"b2ba gfed | "C"c2c2 c2z2 :|  
+
+X:3
+T:Polka EbBbAb (5letras) cf. CGF Parts
+P:ABACD
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+[P:A] "Eb"B2g2 g2fg | "Bb7"a2a2d4 | B2a2 a2ga | "Eb"b2b2e4 | B2b2 b=ab2 | "Fm/Ab"c'2c'2f4 | "Bb7"a2a2 dcd2 | "Eb"e2e2 e2z2:: [P:B] [K:Bbmaj] 
+"Bb"f2ff g2f2 | dfbc' !>!d'4 | "F7"e'2e'2 e'd'c'2 | "Bb"d'2d'2 d'c'b2 | fff2 g2f2 | dfbc' !>!d'4 | "F7"e'2e'd' c'fd'c' | "Bb"b2b2 "_>Teil A"b2z2 :| [P:C] [K:Abmaj] 
+|: "Ab"e2ce a2ea | "Fm"c'2c'2a4 | "Db"b3a g2f2 | "Eb7"efed"Ab"c4 | e2ce a2ea | "Fm"c'2c'2a4 | "Db"b3d' "Eb7"b2g2 | "Ab"a2a2 a2z2 :: [P:D] [K:Ebmaj] 
+"Eb"bc'b=a b_agf | g2gf e2e'2 | "Bb7"d'2d'f a2c'2 | "Eb"b2be g2ga | bc'b=a b_agf | g2gf e2e'2 | "Bb7"d'2d'c' bagf | "Eb"e2e2 e2z2 :| 

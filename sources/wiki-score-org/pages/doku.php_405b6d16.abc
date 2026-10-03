@@ -1,0 +1,22 @@
+X:606
+T:Ns.8-9
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:D
+V: 6 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 6 }]
+%----------- edit between the lines ------------
+[Q:"Moderadamente"] Z4 | \
+!p! z z/ "_[abc check 8va]" [a'd'']//[^g'c'']// | \
+x3/2.e'//.g'// &.d''/.[a'/f'/] .[e'/g'] c'/ | .f'/.d'/x&[ab] z |\
+Z | z !mf! [d3/4f3/4][d//f//] | \
+[g3/4b3/4].[g//b//] {d'/}!>![a//c'//].[g//b//].e'//.[g//b//] | \
+a3/4a// {c'/}b//a//e'//[f//a//] | x// ((7G/8A/8_B/8c/8d/8e/8f/8g//).G// f//a//e//a// & x !>![Ad]/!>![Ac]/ | \
+[dfad'] f3/4f// | b3/4b// c'3/4c'// | a3/4a// b3/4b// | g3/4g// [f/a/b/d'/][f/a/c'/e'/] |\
+z/ [a/a'/] z/ [F/B/d/f/]|  z/ [G/B/d/g/] z/ [B/b/] | z/ [A/d/a/] z/ [A/f/a/] | \
+[G/B/e/g/] z/ e//B//c//A// | e//c//B//A// A,/B,/ | =C2 | (^C6/4B,/) | \
+[K:bass] (A,6/4^E,/) | F,/ z/ z | Z | [K:treble] z/ !ff! [C//c//][D//d//] [E/e/] z/ | \
+z/ [G//g//][B//b//] [e/e'/] !ff! [c/g/a/c'/] || "_TBC"  X \
+%-----------------------------------------------

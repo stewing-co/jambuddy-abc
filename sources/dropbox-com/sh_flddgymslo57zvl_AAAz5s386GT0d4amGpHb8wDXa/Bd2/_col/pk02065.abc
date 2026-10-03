@@ -1,0 +1,69 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka CF  (ABACD)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.298 (pk02065) orig. C,F
+T: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+%%partsbox
+P:ABACD
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+[P:A] "C"EGce g3e | "G7"f2B2 Bc'ba | gbgf fagf |  "C"e2c2 c2GF  | EGce g3e | "F"f2a2 ac'ba |  
+"C"gc'ge "G7"f2B2 |1 "C"c2c2 c2GF :|2 "C"c2c2 c2z2 [P:B] |: "E7"e3B e3B | "Am"e2c2 A2AB | cfed "E7"edcB  | 
+"Am"ABcAE4 | "E7"e3B e3B | "Am"e2c2 A2AB | cfed "E7"edcB | "D7"ABcA"_>Teil A""G"G4 :| 
+[| [P:C]  [K:F] {/A}"F"c4 {/A}c4 | {/A}cfed cBc^c | "Bb"{/^c}d4 {/^c}d4 | {/^c}dgfe d2f2 | "C7"f2e2 edef | e6d2 | 
+"F"{/e}d2c2 Bdcd | A6AB | {/A}c4{/A}c4 | {/A}cfed cBc^c | "Bb"{/^c}d4 {/^c}d4 | {/^c}dgfe d2f2 | 
+"C7"g2f2 e2d2 | "F"c2A2 F2Af | "C7"e3d cBAG |  "F"F2F2 F2f2 || [P:D] "C7"e6c2 | d2c2 b2e2 | "F"f3A d3A | c6 (f2 | "C7"e3)(c d3)(B | c6) e2 | 
+ "F"f3c d3A | c6f2 | "C7"e6c2 | d2c2 b2e2 | "F"f3A d3A | c6c2 | "Bb"d3e f2g2 |  "F"a2f2 e2d2 | "C7"c2g2 e2c2 | "F"f2ff f2z2  |] 
+W:Parts: ABACD
+% pk02065  (Oct 3, 2016)
+
+X:2
+T:Polka CF  (pk02065)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.298 (pk02065) orig. F,C,Bb
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"EGce g3e | "G7"f2B2 Bc'ba | gbgf fagf |  "C"e2c2 c2GF  | EGce g3e | "F"f2a2 ac'ba |  
+"C"gc'ge "G7"f2B2 |1 "C"c2c2 c2GF :|2 "C"c2c2 c2z2 |: "E7"e3B e3B | "Am"e2c2 A2AB | cfed "E7"edcB  | 
+"Am"ABcAE4 | "E7"e3B e3B | "Am"e2c2 A2AB | cfed "E7"edcB | "D7"ABcA"_>Teil A""G"G4 :|  
+[K:F] "F"{/A}c4 {/A}c4 | {/A}cfed cBc^c | "Bb"{/^c}d4 {/^c}d4 | {/^c}dgfe d2f2 | "C7"f2e2 edef | e6d2 | 
+"F"{/e}d2c2 Bdcd | A6AB | {/A}c4{/A}c4 | {/A}cfed cBc^c | "Bb"{/^c}d4 {/^c}d4 | {/^c}dgfe d2f2 | 
+"C7"g2f2 e2d2 | "F"c2A2 F2Af | "C7"e3d cBAG |  "F"F2F2 F2f2 || "C7"e6c2 | d2c2 b2e2 | "F"f3A d3A | c6 (f2 | "C7"e3)(c d3)(B | c6) e2 | 
+ "F"f3c d3A | c6f2 | "C7"e6c2 | d2c2 b2e2 | "F"f3A d3A | c6c2 | "Bb"d3e f2g2 |  "F"a2f2 e2d2 | "C7"c2g2 e2c2 | "F"f2ff f2z2  |] 
+W:Parts: ABACD
+% pk02065
+
+X:3
+T:Polka GC 5-  (pk02065)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.298 (pk02065) orig. F,C,Bb
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"B,DGB d3B | "D7"c2F2 Fgfe | dfdc cedc | "G"B2G2 G2DC | B,DGB d3B | "C"c2e2 egfe | 
+"G"dgdB "D7"c2F2 |1 "G"G2G2 G2DC :|2 "G"G2G2 G2z2 |: "B7"B3F B3F | "Em"B2G2 E2EF | GcBA "B7"BAGF | 
+"Em"EFGEB,4 | "B7"B3F B3F | "Em"B2G2 E2EF | GcBA "B7"BAGF | "A7"EFGE"_>Teil A""D"D4 :| 
+[K:C] "C"{/E}G4 {/E}G4 | {/E}GcBA GFG^G | "F"{/^G}A4 {/^G}A4 | {/^G}AdcB A2c2 | "G7"c2B2 BABc | B6A2 | 
+"C"{/B}A2G2 FAGA | E6EF | {/E}G4{/E}G4 | {/E}GcBA GFG^G | "F"{/^G}A4 {/^G}A4 | {/^G}AdcB A2c2 | 
+"G7"d2c2 B2A2 | "C"G2E2 C2Ec | "G7"B3A GFED | "C"C2C2 C2c2 || "G7"B6G2 | A2G2 f2B2 | "C"c3E A3E | G6 (c2 | "G7"B3)(G A3)(F | G6) B2 | 
+"C"c3G A3E | G6c2 | "G7"B6G2 | A2G2 f2B2 | "C"c3E A3E | G6G2 | "F"A3B c2d2 | "C"e2c2 B2A2 | "G7"G2d2 B2G2 | "C"c2cc c2z2 |] 
+W:Parts: ABACD
+% pk02065
+% Oct 3, 2016  (cf. http://archive.folx.org/node/add/tune )
+

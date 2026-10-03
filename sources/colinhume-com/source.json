@@ -1,0 +1,22 @@
+{
+  "name": "Colin Hume's tunes",
+  "license": "Not stated; tunes believed traditional",
+  "origin": [
+    "http://colinhume.com/",
+    "https://colinhume.com/"
+  ],
+  "found_via": "https://abcnotation.com/tunes",
+  "downloaded": "2026-10-02",
+  "files": 1,
+  "pages_crawled": 3000,
+  "pages_unvisited": 2792,
+  "failures": [
+    "http://colinhume.com/abc.aspx?T=A_Minuet_Paspe: <urlopen error timed out>",
+    "http://colinhume.com/abc.aspx?R=Felicity%7COOTS%7CConnections%7CCDSBC14: timed out",
+    "http://colinhume.com/abc.aspx?T=Sunday_at_Morningside: timed out",
+    "http://colinhume.com/abc.aspx?T=My_Wife's_A_Wanton_Wee_Thing: timed out",
+    "http://colinhume.com/abc.aspx?T=Hare_Hatch: timed out",
+    "https://colinhume.com/abc.aspx?T=Young_Phillis: <urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "https://colinhume.com/abc.aspx?PI=JanetMurphy: <urlopen error [Errno 50] Network is down>"
+  ]
+}

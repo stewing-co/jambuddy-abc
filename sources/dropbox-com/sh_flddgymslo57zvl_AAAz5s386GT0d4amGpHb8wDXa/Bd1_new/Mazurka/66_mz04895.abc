@@ -1,0 +1,88 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Mazurka FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.340 (mz04895) orig. F,Bb-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"A7"A>B A>G ^F>G | "D"A2!>!A4 | "A7"A>B A>G F>E | "Dm"D2 !>!D4 | "A7"A>B A>G ^F>G | "D"A2!>!A4 | "A7"A>B A>G F>E | "Dm"D2 D2z2 :: 
+"F"C>FA4 | "Bb"D>FB4 | "C7"AG ^FG AG | "F"GFc2c2 | C>FA4 | "Bb"D>FB4 | "C7"AG ^FG BA | "F"F2f2z2 ::  
+"C7"e2ce ge | "F"f2cf af | "C7"g2eg Bd | "F"cA Fc AF | "Gm/Bb"d2dd d2 | "F/C"c2c4 | "C7"e>ee2e2 | "F"f2f2z2 :: 
+"F"c>c A2F2 | "Bb"f>fd4 | "C7"B>BG2E2 | "F"d>dc4 | c>cA2F2 | "Bb"f>fd4 | "C7"g>f e>d c>e | "F"f2f2z2 :: [K:Bb]
+"Bb"Bc ^cd  dc | dfd4 | "Dm"dfd4 | "F7/C"ecA4 | "F7"AB =Bc dc | "Cm"cec4 | "F7"e>ee2d2 | "Bb"c2{dc}B4 | 
+Bc ^cd ed | dfd4 | "Dm"dfd4 | "F7/C"ecA4 | "F7"AB cd ed | "Cm"cec4 | "F7"f>f!>!e2f2 | "Bb"B2B2z2 :| 
+
+X:2
+T:Mazurka CF 7+ chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"E7"e>f e>d ^c>d | "A"e2!>!e4 | "E7"e>f e>d c>B | "Am"A2 !>!A4 | "E7"e>f e>d ^c>d | "A"e2!>!e4 | "E7"e>f e>d c>B | "Am"A2 A2z2 :: 
+"C"G>ce4 | "F"A>cf4 | "G7"ed ^cd ed | "C"dcg2g2 | G>ce4 | "F"A>cf4 | "G7"ed ^cd fe | "C"c2c'2z2 :: 
+"G7"b2gb d'b | "C"c'2gc' e'c' | "G7"d'2bd' fa | "C"ge cg ec | "Dm/F"a2aa a2 | "C/G"g2g4 | "G7"b>bb2b2 | "C"c'2c'2z2 :: 
+"C"g>g e2c2 | "F"c'>c'a4 | "G7"f>fd2B2 | "C"a>ag4 | g>ge2c2 | "F"c'>c'a4 | "G7"d'>c' b>a g>b | "C"c'2c'2z2 :: [K:Fmaj]
+"F"fg ^ga ag | ac'a4 | "Am"ac'a4 | "C7/G"bge4 | "C7"ef ^fg ag | "Gm"gbg4 | "C7"b>bb2a2 | "F"g2{ag}f4 | 
+fg ^ga ba | ac'a4 | "Am"ac'a4 | "C7/G"bge4 | "C7"ef ga ba | "Gm"gbg4 | "C7"c'>c'!>!b2c'2 | "F"f2f2z2 :| 
+
+X:3
+T:Mazurka CF 5- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"E7"E>F E>D ^C>D | "A"E2!>!E4 | "E7"E>F E>D C>B, | "Am"A,2 !>!A,4 | "E7"E>F E>D ^C>D | "A"E2!>!E4 | "E7"E>F E>D C>B, | "Am"A,2 A,2z2 :: 
+"C"G,>CE4 | "F"A,>CF4 | "G7"ED ^CD ED | "C"DCG2G2 | G,>CE4 | "F"A,>CF4 | "G7"ED ^CD FE | "C"C2c2z2 :: 
+"G7"B2GB dB | "C"c2Gc ec | "G7"d2Bd FA | "C"GE CG EC | "Dm/F"A2AA A2 | "C/G"G2G4 | "G7"B>BB2B2 | "C"c2c2z2 :: 
+"C"G>G E2C2 | "F"c>cA4 | "G7"F>FD2B,2 | "C"A>AG4 | G>GE2C2 | "F"c>cA4 | "G7"d>c B>A G>B | "C"c2c2z2 :: [K:Fmaj]
+"F"FG ^GA AG | AcA4 | "Am"AcA4 | "C7/G"BGE4 | "C7"EF ^FG AG | "Gm"GBG4 | "C7"B>BB2A2 | "F"G2{AG}F4 | 
+FG ^GA BA | AcA4 | "Am"AcA4 | "C7/G"BGE4 | "C7"EF GA BA | "Gm"GBG4 | "C7"c>c!>!B2c2 | "F"F2F2z2 :| 
+
+X:4
+T:Mazurka GC 2+ chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"B7"B>c B>A ^G>A | "E"B2!>!B4 | "B7"B>c B>A G>F | "Em"E2 !>!E4 | "B7"B>c B>A ^G>A | "E"B2!>!B4 | "B7"B>c B>A G>F | "Em"E2 E2z2 :: 
+"G"D>GB4 | "C"E>Gc4 | "D7"BA ^GA BA | "G"AGd2d2 | D>GB4 | "C"E>Gc4 | "D7"BA ^GA cB | "G"G2g2z2 :: 
+"D7"f2df af | "G"g2dg bg | "D7"a2fa ce | "G"dB Gd BG | "Am/C"e2ee e2 | "G/D"d2d4 | "D7"f>ff2f2 | "G"g2g2z2 :: 
+"G"d>d B2G2 | "C"g>ge4 | "D7"c>cA2F2 | "G"e>ed4 | d>dB2G2 | "C"g>ge4 | "D7"a>g f>e d>f | "G"g2g2z2 :: [K:Cmaj]
+"C"cd ^de ed | ege4 | "Em"ege4 | "G7/D"fdB4 | "G7"Bc ^cd ed | "Dm"dfd4 | "G7"f>ff2e2 | "C"d2{ed}c4 | 
+cd ^de fe | ege4 | "Em"ege4 | "G7/D"fdB4 | "G7"Bc de fe | "Dm"dfd4 | "G7"g>g!>!f2g2 | "C"c2c2z2 :| 
+
+X:5
+T:Mazurka EbAb (5letras) cf. CF 7+
+M:3/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+"G7"g>a g>f =e>f | "C"g2!>!g4 | "G7"g>a g>f e>d | "Cm"c2 !>!c4 | "G7"g>a g>f =e>f | "C"g2!>!g4 | "G7"g>a g>f e>d | "Cm"c2 c2z2 :: 
+"Eb"B>eg4 | "Ab"c>ea4 | "Bb7"gf =ef gf | "Eb"feb2b2 | B>eg4 | "Ab"c>ea4 | "Bb7"gf =ef ag | "Eb"e2e'2z2 :: 
+"Bb7"d'2bd' f'd' | "Eb"e'2be' g'e' | "Bb7"f'2d'f' ac' | "Eb"bg eb ge | "Fm/Ab"c'2c'c' c'2 | "Eb/Bb"b2b4 | "Bb7"d'>d'd'2d'2 | "Eb"e'2e'2z2 :: 
+"Eb"b>b g2e2 | "Ab"e'>e'c'4 | "Bb7"a>af2d2 | "Eb"c'>c'b4 | b>bg2e2 | "Ab"e'>e'c'4 | "Bb7"f'>e' d'>c' b>d' | "Eb"e'2e'2z2 :: [K:Abmaj]
+"Ab"ab =bc' c'b | c'e'c'4 | "Cm"c'e'c'4 | "Eb7/Bb"d'bg4 | "Eb7"ga =ab c'b | "Bbm"bd'b4 | "Eb7"d'>d'd'2c'2 | "Ab"b2{c'b}a4 | 
+ab =bc' d'c' | c'e'c'4 | "Cm"c'e'c'4 | "Eb7/Bb"d'bg4 | "Eb7"ga bc' d'c' | "Bbm"bd'b4 | "Eb7"e'>e'!>!d'2e'2 | "Ab"a2a2z2 :| 
+
+X:6
+T:Mazurka EbAb (5letras) cf. CF 5-
+M:3/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+"G7"G>A G>F =E>F | "C"G2!>!G4 | "G7"G>A G>F E>D | "Cm"C2 !>!C4 | "G7"G>A G>F =E>F | "C"G2!>!G4 | "G7"G>A G>F E>D | "Cm"C2 C2z2 :: 
+"Eb"B,>EG4 | "Ab"C>EA4 | "Bb7"GF =EF GF | "Eb"FEB2B2 | B,>EG4 | "Ab"C>EA4 | "Bb7"GF =EF AG | "Eb"E2e2z2 :: 
+"Bb7"d2Bd fd | "Eb"e2Be ge | "Bb7"f2df Ac | "Eb"BG EB GE | "Fm/Ab"c2cc c2 | "Eb/Bb"B2B4 | "Bb7"d>dd2d2 | "Eb"e2e2z2 :: 
+"Eb"B>B G2E2 | "Ab"e>ec4 | "Bb7"A>AF2D2 | "Eb"c>cB4 | B>BG2E2 | "Ab"e>ec4 | "Bb7"f>e d>c B>d | "Eb"e2e2z2 :: [K:Abmaj]
+"Ab"AB =Bc cB | cec4 | "Cm"cec4 | "Eb7/Bb"dBG4 | "Eb7"GA =AB cB | "Bbm"BdB4 | "Eb7"d>dd2c2 | "Ab"B2{cB}A4 | 
+AB =Bc dc | cec4 | "Cm"cec4 | "Eb7/Bb"dBG4 | "Eb7"GA Bc dc | "Bbm"BdB4 | "Eb7"e>e!>!d2e2 | "Ab"A2A2z2 :| 
+
+X:7
+T:Mazurka BbEb (5letras) cf. GC
+M:3/4
+L:1/8
+K:Bbmaj%%MIDI gchordon
+"D7"d>e d>c =B>c | "G"d2!>!d4 | "D7"d>e d>c B>A | "Gm"G2 !>!G4 | "D7"d>e d>c =B>c | "G"d2!>!d4 | "D7"d>e d>c B>A | "Gm"G2 G2z2 :: 
+"Bb"F>Bd4 | "Eb"G>Be4 | "F7"dc =Bc dc | "Bb"cBf2f2 | F>Bd4 | "Eb"G>Be4 | "F7"dc =Bc ed | "Bb"B2b2z2 :: 
+"F7"a2fa c'a | "Bb"b2fb d'b | "F7"c'2ac' eg | "Bb"fd Bf dB | "Cm/Eb"g2gg g2 | "Bb/F"f2f4 | "F7"a>aa2a2 | "Bb"b2b2z2 :: 
+"Bb"f>f d2B2 | "Eb"b>bg4 | "F7"e>ec2A2 | "Bb"g>gf4 | f>fd2B2 | "Eb"b>bg4 | "F7"c'>b a>g f>a | "Bb"b2b2z2 :: [K:Ebmaj]
+"Eb"ef ^fg gf | gbg4 | "Gm"gbg4 | "Bb7/F"afd4 | "Bb7"de =ef gf | "Fm"faf4 | "Bb7"a>aa2g2 | "Eb"f2{gf}e4 | 
+ef ^fg ag | gbg4 | "Gm"gbg4 | "Bb7/F"afd4 | "Bb7"de fg ag | "Fm"faf4 | "Bb7"b>b!>!a2b2 | "Eb"e2e2z2 :| 

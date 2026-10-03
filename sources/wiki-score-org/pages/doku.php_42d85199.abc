@@ -1,0 +1,18 @@
+X:101
+T:N.1 Rataplan (Ambrosio)
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:D
+V: 1 clef=treble name="Flauta" sname="Fl."
+%%MIDI program 1 73
+%%staves [ 1 ]
+%--------------------
+[Q:"Marcial"]
+z6 | z3 z(fa) | dzf dzf | a3 zfd | e2 e {f}ede | f3 z (fa) | d2d f2a | (d'3 d')(c'b) | \
+a z f e z f | dzz z2z !segno!|| z2z z2(f | a2)z z2z | z6 | z2z z(fa|d)zz z2z | (a3-a^gf|e2) (ed'2^g|a2)z z2z | \
+z2z z2(f | a2)z z2z | z6 | z2z z(fa|d2)(d f2a | d'3)-d'(c'b | a2)fe2f| dz .a/.a/ d'zz !fine!|:
+[K:A] e2z!>!f3- | f(ef gab) | c'2z !>!c'3- | c'(ba gaf) | a2z !>!g3- | g(de fag) | f2z e3-|e(ce aec)| \
+e2z f3-|f(ef gab)|[1 c'2z c'3-|c'(ba agf|e2)z g3-|g(^de f^dg | e2)z e3-| (2:3eg (2:3f=f :|2 \
+c'2z!>!e'3-|e'(d'c' bab)|c'2ze3-|e(fa geb) | a2z efg| a2z z3 !D.C.! |] \
+%--------------------

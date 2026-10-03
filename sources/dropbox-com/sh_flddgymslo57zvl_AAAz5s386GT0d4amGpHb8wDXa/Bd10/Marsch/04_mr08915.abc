@@ -1,0 +1,100 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Alpnacher Marsch  FBb
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.13 (mr08915) orig. F,Bb-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"f2c>f | ag ga | "C7"g2c'2 | f2 d/c/=B/c/ || "F"ff ff | f2 g/f/e/f/ | aa aa | a2 c'/b/=b/c'/ | "C7"d'g2a | 
+bd2e | "F"gf ed | c2 d/c/=B/c/ |  ff ff |  f2 g/f/e/f/ | aa aa | a2 c'/=b/c'/d'/ | "C"e'g2c' | "G7"a2 a/g/f/d/ | 
+"C"cc'/c'/ c'c'/c'/ | c'2z2 || "F"a2 c/a/b/a/ | "C7"g{/b}c' g>d' | c'2 c'/b/^f/g/ | "F"a2 fc/f/ | a2 c/f/b/a/ | "C7"g{/b}c' g>d' | 
+c'/=b/_b/a/ a>g | "F"ff fz || [K:Bb] "Bb"d2"F7"e2 | g2"Bb"f2 | b2a2 | "Eb"a2g2 | c'>b a>g | "F7"gf2g | fe dc | 
+"Bb"d/A/B/G/ F2 | d2"F7"e2 | g2"Bb"f2 | b2a2 | "Eb"a2g2 | c'>b a>g | "Bb"fb/c'/ d'b | "F7"ag d'>c' | "Bb"bb bz |]  
+W:
+W:Anmerkung H.C.: B\"abi, Josef 1880
+% mr08915
+X:2
+T:Alpnacher Marsch  CF 5-
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c2G>c | ed de | "G7"d2g2 | c2 A/2G/2^F/2G/2 || "C"cc cc | c2 d/2c/2B/2c/2 | ee ee | e2 g/2f/2^f/2g/2 | "G7"ad2e | 
+fA2B | "C"dc BA | G2 A/2G/2^F/2G/2 | cc cc | c2 d/2c/2B/2c/2 | ee ee | e2 g/2^f/2g/2a/2 | "G"bd2g | "D7"e2 e/2d/2c/2A/2 | 
+"G"Gg/2g/2 gg/2g/2 | g2z2 || "C"e2 G/2e/2f/2e/2 | "G7"d{/f}g d>a | g2 g/2f/2^c/2d/2 | "C"e2 cG/2c/2 | e2 G/2c/2f/2e/2 | "G7"d{/f}g d>a | 
+g/2^f/2=f/2e/2 e>d | "C"cc cz || [K:F] "F"A2"C7"B2 | d2"F"c2 | f2e2 | "Bb"e2d2 | g>f e>d | "C7"dc2d | cB AG | 
+"F"A/2E/2F/2D/2 C2 | A2"C7"B2 | d2"F"c2 | f2e2 | "Bb"e2d2 | g>f e>d | "F"cf/2g/2 af | "C7"ed a>g | "F"ff fz |] 
+% mr08915
+X:3
+T:Alpnacher Marsch  CG 10-
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"G2D>G | BA AB | "D7"A2d2 | G2 E/2D/2^C/2D/2 || "G"GG GG | G2 A/2G/2F/2G/2 | BB BB | B2 d/2c/2^c/2d/2 | "D7"eA2B | 
+cE2F | "G"AG FE | D2 E/2D/2^C/2D/2 | GG GG | G2 A/2G/2F/2G/2 | BB BB | B2 d/2^c/2d/2e/2 | "D"fA2d | "A7"B2 B/2A/2G/2E/2 | 
+"D"Dd/2d/2 dd/2d/2 | d2z2 || "G"B2 D/2B/2c/2B/2 | "D7"A{/c}d A>e | d2 d/2c/2^G/2A/2 | "G"B2 GD/2G/2 | B2 D/2G/2c/2B/2 | "D7"A{/c}d A>e | 
+d/2^c/2=c/2B/2 B>A | "G"GG Gz || [K:C] "C"E2"G7"F2 | A2"C"G2 | c2B2 | "F"B2A2 | d>c B>A | "G7"AG2A | GF ED | 
+"C"E/2B,/2C/2A,/2 G,2 | E2"G7"F2 | A2"C"G2 | c2B2 | "F"B2A2 | d>c B>A | "C"Gc/2d/2 ec | "G7"BA e>d | "C"cc cz |] 
+% mr08915
+X:4
+T:Alpnacher Marsch  CF (5letras transposed)
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"c2G>c | ed de | "G7"d2g2 | c2 A/2G/2^F/2G/2 || "C"cc cc | c2 d/2c/2B/2c/2 | ee ee | e2 g/2f/2^f/2g/2 | "G7"ad2e | 
+fA2B | "C"dc BA | G2 A/2G/2^F/2G/2 | cc cc | c2 d/2c/2B/2c/2 | ee ee | e2 g/2^f/2g/2a/2 | "G"bd2g | "D7"e2 e/2d/2c/2A/2 | 
+"G"Gg/2g/2 gg/2g/2 | g2z2 || "C"e2 G/2e/2f/2e/2 | "G7"d{/f}g d>a | g2 g/2f/2^c/2d/2 | "C"e2 cG/2c/2 | e2 G/2c/2f/2e/2 | "G7"d{/f}g d>a | 
+g/2^f/2=f/2e/2 e>d | "C"cc cz || [K:F] "F"A2"C7"B2 | d2"F"c2 | f2e2 | "Bb"e2d2 | g>f e>d | "C7"dc2d | cB AG | 
+"F"A/2E/2F/2D/2 C2 | A2"C7"B2 | d2"F"c2 | f2e2 | "Bb"e2d2 | g>f e>d | "F"cf/2g/2 af | "C7"ed a>g | "F"ff fz |] 
+% mr08915
+X:5
+T:Alpnacher Marsch  CG (5letras transposed)
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"G2D>G | BA AB | "D7"A2d2 | G2 E/2D/2^C/2D/2 || "G"GG GG | G2 A/2G/2F/2G/2 | BB BB | B2 d/2c/2^c/2d/2 | "D7"eA2B | 
+cE2F | "G"AG FE | D2 E/2D/2^C/2D/2 | GG GG | G2 A/2G/2F/2G/2 | BB BB | B2 d/2^c/2d/2e/2 | "D"fA2d | "A7"B2 B/2A/2G/2E/2 | 
+"D"Dd/2d/2 dd/2d/2 | d2z2 || "G"B2 D/2B/2c/2B/2 | "D7"A{/c}d A>e | d2 d/2c/2^G/2A/2 | "G"B2 GD/2G/2 | B2 D/2G/2c/2B/2 | "D7"A{/c}d A>e | 
+d/2^c/2=c/2B/2 B>A | "G"GG Gz || [K:C] "C"E2"G7"F2 | A2"C"G2 | c2B2 | "F"B2A2 | d>c B>A | "G7"AG2A | GF ED | 
+"C"E/2B,/2C/2A,/2 G,2 | E2"G7"F2 | A2"C"G2 | c2B2 | "F"B2A2 | d>c B>A | "C"Gc/2d/2 ec | "G7"BA e>d | "C"cc cz |] 
+% mr08915
+X:6
+T:Alpnacher Marsch D&G (tinwhistle in D)
+T:mr08915 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:march
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"D"d2A>d | fe ef | "A7"e2a2 | d2 B/2A/2^G/2A/2 || "D"dd dd | d2 e/2d/2c/2d/2 | ff ff | f2 a/2g/2^g/2a/2 | "A7"be2f | 
+gB2c | "D"ed cB | A2 B/2A/2^G/2A/2 | dd dd | d2 e/2d/2c/2d/2 | ff ff | f2 a/2^g/2a/2b/2 | "A"c'e2a | "E7"f2 f/2e/2d/2B/2 | 
+"A"Aa/2a/2 aa/2a/2 | a2z2 || "D"f2 A/2f/2g/2f/2 | "A7"e{/g}a e>b | a2 a/2g/2^d/2e/2 | "D"f2 dA/2d/2 | f2 A/2d/2g/2f/2 | "A7"e{/g}a e>b | 
+a/2^g/2=g/2f/2 f>e | "D"dd dz || [K:G] "G"B2"D7"c2 | e2"G"d2 | g2f2 | "C"f2e2 | a>g f>e | "D7"ed2e | dc BA | 
+"G"B/2F/2G/2E/2 D2 | B2"D7"c2 | e2"G"d2 | g2f2 | "C"f2e2 | a>g f>e | "G"dg/2a/2 bg | "D7"fe b>a | "G"gg gz |] 
+X:7
+T:Alpnacher Marsch D&G (tinwhistle in D) solo
+T:mr08915 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:march
+M:2/4
+L:1/8
+K:D transpose=12
+d2A>d | fe ef | e2a2 | d2 B/2A/2^G/2A/2 || dd dd | d2 e/2d/2c/2d/2 | ff ff | f2 a/2g/2^g/2a/2 | be2f | 
+gB2c | ed cB | A2 B/2A/2^G/2A/2 | dd dd | d2 e/2d/2c/2d/2 | ff ff | f2 a/2^g/2a/2b/2 | c'e2a | f2 f/2e/2d/2B/2 | 
+Aa/2a/2 aa/2a/2 | a2z2 || f2 A/2f/2g/2f/2 | e{/g}a e>b | a2 a/2g/2^d/2e/2 | f2 dA/2d/2 | f2 A/2d/2g/2f/2 | e{/g}a e>b | 
+a/2^g/2=g/2f/2 f>e | dd dz || [K:G] B2"_c"c2 | e2d2 | g2f2 | f2e2 | a>g f>e | ed2e | d"_c"c BA | 
+B/2F/2G/2E/2 D2 | B2"_c"c2 | e2d2 | g2f2 | f2e2 | a>g f>e | dg/2a/2 bg | fe b>a | gg gz |]
+% Aug 8, 2016

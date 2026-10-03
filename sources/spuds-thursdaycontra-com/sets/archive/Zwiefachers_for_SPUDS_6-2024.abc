@@ -1,0 +1,232 @@
+﻿% Zwiefachers for SPUDS, June 2024% from the Mother Zwiefacher Orchestra collection% collected and transcribed by Rachel Hall% most edited by AW%%pagewidth 8.5in%%pageheight 11in
+%%topmargin 1.5cm
+%%titlefont Helvetica-Bold 13
+%%subtitlefont Helvetica-Bold 10
+%%titleleft true
+%%titlecaps
+%%composerfont Helvetica 10
+%%composerspace 0.3cm
+%%musicspace 0cm
+%%partsfont Helvetica-Bold 13
+%%vocalfont Helvetica-Bold 10
+%%textfont Helvetica-Bold 10
+%%vocalspace 15
+%%gchordfont Helvetica-Bold 16
+%%leftmargin .75in
+%  %%staffwidth 6.75in%%staffwidth 7in
+%%scale 0.8
+%staffsep   40%%staffsep 65pt % (between systems) trying this... need to tighten Wirt Vo Stoa
+%%sysstaffsep    35.0pt
+%%systemsep      55.0pt
+%%staves 1 2 
+%%gch=0
+%%textspace=0
+%%
+X:0
+T:Zwiefachers for SPUDS 6-2024
+K:
+%%text 1. Alte Kathe
+%%text 2. Bayerischer Bauer
+%%text 3. Eisenkeilnest
+%%text 4. Nudli
+%%text 5. 's Luada
+%%text 6. Schneider
+%%text 7. Der Wampertgust
+%%text 8. Wintergrun
+%%text 9. Wirt Vo Stoa
+%%text
+%%text
+%%text  Compiled and harmonized by Rachel Hall 
+
+%%newpage
+
+%%text
+
+%%newpage
+%%musiconly
+   
+%%partsbox true
+
+X:1
+T:Alte Kathe
+C:WWPPC:AABBAA
+M:3/4 2/4
+Q:1/4=184
+Z:Pinewoods
+K:C
+P:A
+V:1 brace=2 staves=2 
+|: "C"G3F EF|G2z2c2|"G"B2d2|"C"c2e2|G3F EF|G2z2c2|"G"B2d2|"C"c4:|
+%w:W*** W* P* P* etc.
+|:"F"A2 fe f2|"C"G2 e^d e2|"G"B2d2|"C"c2 e2|\
+"F""_[Intro..."A2fef2|"C"G2e^de2|"G"B2d2|"C""_...]"c4!fine!:|\
+%K:F 
+%|V:2
+|: E3D CD|E2z2E2|D2F2|E2G2|E3D CD|E2z2G2|G2F2|E4:|
+%w:W*** W* P* P* etc.
+|:F2 A^G A2|E2 G^F G2|G2F2|E2 G2|\
+F2A^GA2|E2G^FG2|G2F2|E4:|\
+%K:F 
+%|%%begintext right%%(repeat part A)%%endtext
+P:B
+V:1 brace=2 staves=2
+K:F %Transposed from C
+|: "F"c3B AB|c2z2f2|"C"e2g2|"F"f2a2|c3B AB|c2z2f2|"C"e2g2|"F"f4:|
+|:"Bb"d2 ba b2|"F"c2 a^g a2|"C"e2g2|"F"f2 a2|\
+"Bb"d2bab2|"F"c2a^ga2|"C"e2g2|"F"f4:|\
+%K:C 
+%|
+V:2
+K:F
+|: A3G FG|A2z2A2|G2B2|A2c2|A3G FG|A2z2c2|c2B2|A4:|
+%w:W*** W* P* P* etc.
+|:B2 d^c d2|A2 c=B c2|c2B2|A2 c2|\
+B2d^c d2|A2c=Bc2|c2B2|A4:|\
+%K:C 
+%|
+%%begintext right%%(repeat part B, then play part A twice to end)%%endtext
+
+
+X:2T:Bayerischer BauerC:(WWPP)x2 (WWWW) (PPW PPWW)C:Intro; ABAB%%stretchstaff false   % Staves are still stretched if they're "almost full width".Z:BarnesQ:1/4=184M:3/4 2/4K:CP:IntroV:1 brace=2 staves=2L:1/4"C"g>fe | efg | "F"d/e/ f"G"B | "C"c z/"^Pickup!"G/c/e/ |%w:W** W** W*** WV:2%%repbra 0L:1/4e>dc | cde | F/G/ A F | E z/ E/G/c/ |P:AV:1 brace=2 staves=2L:1/4|: "C"g>fe | efg | "F"a2 | "G"d2 |"G"f>ed | def | "C"g2 | e2 |%w:W** W** P P  W** W** P P"C"c/e/ e d/c/ | "G"B2 G | d/f/ f e/d/ | "C"c2 e | "C"eg | "F"fa |  %w:W**** W* W**** W* P* P"G"d f/e/ d | "C"eg | "Am"ce | "F"d/e/ f"G"B |1 "C"c z/G/c/e/ :|2 "C"c z/C/F/A/ ||\K:F|%w:W*** P* P* W*** W*** WV:2L:1/4|: e>dc | cde | f2 | B2 | d>cB | Bcd | e2 | c2 |G/c/ c B/G/ | G2 D | B/d/ d c/B/ | G2 c | ce | df |B d/c/ B | ce | AG | F/G/ A F |1 E z/ E/G/c/ :|2 E z/ A,/C/F/ ||\K:F"_(cont.)"|%%newpageP:BV:1 brace=2 staves=2K:FL:1/4|: "F"c>BA | ABc | "Bb"d2 | "C"G2 | "C"B>AG | GAB | "F"c2 | A2 |%w:***W** W** P P%w:W** W** P P "F"F/A/ A G/F/ | "C"E2 C | G/B/ B A/G/ | "F"F2 A | "F"Ac | "Bb"Bd |  %w:W**** W* W**** W"C"G B/A/ G | "F"Ac | "Dm"FA | "Bb"G/A/ B"C"E |1 "F"F z/C/F/A/ :|2 "F"F !fine!z/.|G/c/e/ ||\K:C|%w:P* P* W*** P* P* W*** W*** WV:2K:FL:1/4|: A>GF | FGA | B2 | E2 | G>FE | EFG | A2 | F2 |C/F/ F E/C/ | C2 G, | E/G/ G F/E/ | C2 F | FA | GB |E G/F/ E | FA | DC | B,/C/ D B, |1 A, z/ A,/C/F/ :|2 A, z/.| E/G/c/ ||\K:C|X:3
+T:EisenkeilnestC:PPWW PPWW PWPW PPWW
+C:ABABA
+R:Zwiefach
+Q:1/4=192
+Z:Pinewoods
+M:2/4 3/4  
+L:1/8
+K:G
+P:A
+V:1 brace=2 staves=2
+D2 |: "G"GFGA | BABc | d2d^cde | d2zd^cd |
+%w:* P*** P*** W**** W
+e2d2 | c2B2 | "D"BA A^G AB | A2z2d2 |
+%w:P* P* W***** W
+"G"B2G2 | "D"A2z2d2 | "G"B2G2 | "D"A2z2"_[Intro..."D2 |
+%w:P* W* P* W*
+"G"GFGA | BABc | "D"dd dc BA |1 "G"G2"_...]"z2 D2:|2 "G"G2 !fine!z2 .|G2 ||\
+K:C
+|
+%w:P*** P*** W***** W* W
+V:2%%repbra 0
+D2 |: B,A,B,D | GFGA | B2B^ABc | B2zB^AB |
+%w:* P*** P*** W**** W
+c2B2 | A2G2 | GF F=F ^FG | F2z2F2 |
+%w:P* P* W***** W
+G2B,2 | D2z2F2 | G2B,2 | D2z2D2 |
+%w:P* W* P* W*
+B,A,B,D | GFGA | FF FE DC |1 B,2z2 D2:|2 B,2 z2 .| G2 ||\
+K:C
+"_(cont.)"|%%newpage
+%w:P*** P*** W***** W* W
+P:B
+V:1 brace=2 staves=2
+K:C %Transposed from G
+|: "C"cBcd | edef | g2g^fga | g2zg^fg |
+%w:* P*** P*** W**** W
+a2g2 | f2e2 | "G"ed d^c de | d2z2g2 |
+%w:P* P* W***** W
+"C"e2c2 | "G"d2z2g2 | "C"e2c2 | "G"d2z2G2 |
+%w:P* W* P* W*
+"C"cBcd | edef | "G"gg gf ed |1 "C"c2z2 G2:|2 "C"c2 z2 "D.C."D2 ||\
+K:G
+|
+%w:P*** P*** W***** W* W
+V:2
+K:C
+|: EDEG | cBcd | e2e^def | e2ze^de |
+%w:* P*** P*** W**** W
+f2e2 | d2c2 | cB B^A Bc | B2z2B2 |
+%w:P* P* W***** W
+c2E2 | G2z2B2 | c2E2 | G2z2G2 |
+%w:P* W* P* W*
+EDEG | cBcd | BB BA GF |1 E2z2 G2:|2 E2 z2 D2 ||\
+K:G
+|
+%%newpage
+
+X:4T:NudliC:PPWWC:ABAB%A%%scale 0.75R:ZwiefachQ:1/4=184A:DeutschlandZ:PinewoodsM:2/4 3/4L:1/8K:CP:AV:1 brace=2 staves=2(3GAB !segno!|: "C"c2 G2 | "G"d2 G2 |"C"Ge e2 "G"d2 | "C"c2 BA G2 |%w:*** P* P* W*** W *etc."C""_[Intro..."c2 G2 | "G"d2 G2 | "C"Ge ec "G"dB |1 "C"c2 "_...]"z2 (3GAB :|2 "C"c2 z2 cd ||: "C"e2 c2 | "F"f2 d2 | "G"g2 ga gf | d2 dB G2 |"C"e2 c2 | "F"f2 d2 | "G"g2 ga ge |1 "C"c4 cd:|2 "C"c4 "^8va ad lib."(3CDE ||\K:F|V:2%%repbra 0(3G^F=F |: E2 C2 | F2 D2 | EG G2 F2 | E2 DC B,2 | E2 C2 | F2 D2 | EG GE FD |1 E2 z2 (3G^F=F :|2 E2 z2 EF ||: G2 E2 | A2 F2 | B2 Bc BA | B2 BG F2 | G2 E2 | A2 F2 | B2 Bc BG |1 E4 EF :|2 E4 "_8vb ad lib."(3cB_B ||\K:F"_(cont.)"|%%newpageP:BV:1 brace=2 staves=2K:F %Transposed from C|: "F"F2 C2 | "C"G2 C2 |"F"CA A2 "C"G2 | "F"F2 ED C2 |"F"F2 C2 | "C"G2 C2 | "F"CA AF "C"GE |1 "F"F2 z2 (3CDE :|2 "F"F2 z2 FG ||: "F"A2 F2 | "Bb"B2 G2 | "C"c2 cd cB | G2 GE C2 |"F"A2 F2 | "Bb"B2 G2 | "C"c2 cd cA |1 "F"F4 FG:|2 "F"F4 !fine!y .|"^loco"(3GAB  ||\K:C!D.S.!|V:2K:F|: A2 F2 | B2 G2 | Ac c2 B2 | A2 GF E2 | A2 F2 | B2 G2 | Ac cA BG |1 A2 z2 (3c=B_B :|2 A2 z2 AB ||: c2 A2 | d2 B2 | e2 ef ed | e2 ec B2 | c2 A2 | d2 B2 | e2 ef ec |1 A4 AB :|2 A4 .|(3G^F=F ||\K:C|X:5T:'s LuadaC: PPWW x4, P x32C: Intro; ABABA + double pivots at endZ:AW%Q: 1/4=192      %(more like 180-185)M: 2/4 3/4L: 1/4K: G%%partsbox true%%MIDI gchord b    % block chords%%MIDI gchordoff   % uncomment to turn off chords entirely% (Regular accomp. patterns (default OR explicit) get messed up by the mixed meter,%  and I don't feel like dealing with it.)%%begintext right%%endtext%%vskip 0in%%multicol start%%staffwidth 3.75inP: IntroV:1"G"d2 | B2 | "D7"B/c/ c/B/ A | "G"Gzz || V:2%%repbra 0  % don't print repeat brackets (1st/2nd endings) for this voiceB2 | G2 | G/A/ A/G/ F | Dzz || %%multicol end%%vskip 0inP: AV:1|: "G"d2 | B2 | \"D7"B/"<("">)"c/ c/B/ A | "G"A/"<("">)"B/ B/A/ G | \"G"d2 | B2 | "D7"B/"<("">)"c/ c/B/ A | \[1 "G"Gzz :|2 "G"Gz \g |: "D"ff | "C"ee | "G"dd | B2 | \"D"cc | AA | "G"B/A/ B/c/ | d g |%"_Very last time: play 3rd and 4th repeats, speeding up!;"\"D"ff | "C"ee | "G"dd | B2 | \"C"ee | "D"f3/2f/ \%|[1"^\(last time: 1-3\)" "G".gz | zg \%:|[2 "^\(last time: 4\)" "G"gg | gz y1 |]|[1"G".gz | zg \:|[2"G"gg | g!fine!z y1 |]K:DV:2|: B2 | G2 | \G/"<("">)"A/ A/G/ F | F/"<("">)"G/ G/F/ D | \B2 | G2 | G/"<("">)"A/ A/G/ F | \[1 Dzz :|2 Dz \B |: dd | cc | BB | G2 | \AA | FF | G/F/ G/A/ | B d |"_Very last time: play previous two lines 4x instead of 2x, speeding way up!;"\dd | cc | BB | G2 | \cc | c3/2c/ \|[1.Bz | zB \:|[2BB | "_(Steady tempo!)"Bz y1 |]K:D%%% %vskip 0in%%begintext right%%(cont.)%%endtext%%newpageP: BV:1|: "D"A2 | F2 | \"A7"F/2"<("">)"G/2 G/2F/2 E | "D"E/2"<("">)"F/2 F/2E/2 D | \"D"A2 | F2 | "A7"F/2"<("">)"G/2 G/2F/2 E | \ [1 "D"Dzz :|2 "D"Dz \d |: "A"cc | "G"BB | "D"AA | F2 | \"A"GG | EE | "D"F/2E/2 F/2G/2 | A d |"A"cc | "G"BB | "D"AA | F2 | \"G"BB | "A"c3/2c/2 | [1 "D".dz | zd :| [2 "D"dd | dz ||K:GV:2|: F2 | D2 | \D/2"<("">)"E/2 E/2D/2 C | C/2"<("">)"D/2 D/2C/2 A, | \F2 | D2 | D/2"<("">)"E/2 E/2D/2 C | \ [1 A,zz :|2 A,z \F |: AA | GG | FF | D2 | \EE | CC | D/2C/2 D/2E/2 | F A |AA | GG | FF | D2 | \GG | G3/2G/2 | [1 .Fz | zF :| [2 FF | "_(Steady tempo!)"Fz ||K:GX:6
+T:SchneiderC:(PPW PPWW)x2 (PPWP PPWW)x2
+%C:AABB AABB
+C:AABB AAZ:Pinewoods
+Q:1/4=192
+M:2/4 3/4
+K:G %Transposed from C
+P:A
+V:1 brace=2 staves=2
+L:1/4
+|: "G"GD | BG | "D"AFA | "G"BG | dB | "D"dcA |1 "G"Bzz :|2 "G"Gzz |
+%w:P* P* W** P* P* W** W W
+|: "C"Gc |ec | Gce | "G"dz | "_[Intro..."BG |dB | "D"dcA |1 "G"Bzz :|2 "G""_...]"Gz!fine!z |]\
+%K:C
+%|
+%w:P* P* W** P P* P* W** W W
+V:2
+%%repbra 0L:1/4
+|: DB | GD | FDF | GD | BG | FAF |1 Gzz :|2 Dzz |
+|: EG | cG | EGc | Bz | GD | BG | FAF |1 Gzz :|2 Dzz |]\
+%K:C
+%|%%begintext right%%(repeat part A)%%%%%%endtext
+P:B
+V:1 brace=2 staves=2
+K:C =f
+L:1/4
+|: "C"cG | ec | "G"dBd | "C"ec | ge | "G"gfd |1 "C"ezz :|2 "C"czz |V:2K:C =fL:1/4V:2|: Ge | cG | BGB | cG | ec | BdB |1 czz :|2 Gzz |%%vskip 0  % gets rid of courtesy "key change" at end of line,%            BUT requires a complete group of voices/staves before it!V:1K:C
+|: "F"cf |af | cfa | "C"gz | ec |ge | "G"gfd |1 "C"ezz :|2 "C"czz |]%\
+%K:G
+%|
+V:2
+K:C
+|: Ac | fc | Acf | ez | cG | ec | BdB |1 czz :|2 Gzz |]\
+%K:G
+%|
+%%begintext right%%(repeat part B, then play part A twice more to end)%%endtext
+
+%%newpage%%text%%newpage
+
+
+X:7T:Wampertgust, DerC: PPPPWWC:ABABAQ:1/4=176M:2/4 3/4K:GV:1 brace=2 staves=2L:1/4G/A/ |: "G"BG | d2 | BG | d2 | "D"c/B/ c/e/ d/c/ | "G"B g d |%w:** P* P P* P W***** W* etc."G"BG | d2 | BG | d2 | "D"c/B/ c/e/ d/c/ | "G"B z G/A/ :||: "D"F F/A/ | "G"G G/B/ | "D"A A/c/ | "G"B B/d/ | "Am"e c/e/ c/A/ | "G"d B/d/ B/G/ |"D""_[Intro..."F F/A/ | "G"G G/B/ | "D"A A/c/ | "G"B B/d/ | \   "D"e c/e/ c/A/ |1 "G"G "_...]"z G/A/ :|2 "G"G !fine!z .| "^8va;ad lib."C/D/ ||\K:C|V:2%%repbra 0L:1/4D/F/ |: GD | B2 | GD | B2 | A/G/ A/c/ B/A/ | GdB |GD | B2 | GD | B2 | A/G/ A/c/ B/A/ | G z D/F/ :||: D D/F/ | E E/G/ | F F/A/ | G G/B/ | c A/c/ A/E/ | B G/B/ G/D/ |D D/F/ | D D/G/ | F F/A/ | G G/B/ | c A/c/ A/E/ |1 D z D/F/ :|2 D z .| "_8vb;ad lib."G/B/ ||\K:C"_(cont.)"|%%newpageP:BV:1 brace=2 staves=2K:C %Transposed from GL:1/4 |: "C"EC | G2 | EC | G2 | "G"F/E/ F/A/ G/F/ | "C"Ec G |%w:** P* P P* P W***** W*etc."C"EC | G2 | EC | G2 | "G"F/E/ F/A/ G/F/ | "C"E z C/D/ :||: "G"B, B,/D/ | "C"C C/E/ | "G"D D/F/ | "C"E E/G/ | "Dm"A F/A/ F/D/ | "C"G E/G/ E/C/ |"G"B, B,/D/ | "C"C C/E/ | "G"D D/F/ | "C"E E/G/ | "G"A F/A/ F/D/ |1 "C"C z C/D/ :|2 "C"C z "^loco"G/A/ ||\K:G|V:2K:CL:1/4|: cG | e2 | cG | e2 | d/c/ d/f/ e/d/ | cge |cG | e2 | cG | e2 | d/c/ d/f/ e/d/ | c z G/B/ :||: G G/B/ | A A/c/ | B B/d/ | c c/e/ | f d/f/ d/A/ | e c/e/ c/G/ |G G/B/ | A A/c/ | B B/d/ | c c/e/ | f d/f/ d/A/ |1 G z G/B/ :|2 G z "_loco"D/F/ ||\K:G|X:8T:Wintergrun%%stretchstaff falseC:WWWW PPWW PPWWC:Intro; ABABABZ:BarnesQ:1/4=184M:3/4 2/4K:D %Transposed from CP:IntroV:1 brace=2 staves=2L:1/4"G"b2 | "D"a2 | "A"f/g/ gc | "D"d z "^Pickup"A |%w:P P W*** WV:2%%repbra 0L:1/4g2 | f2 | d/e/ e G | F z F |P:AV:1 brace=2 staves=2L:1/4|: "D"Adf | b>aa | Adf | "A"a>gg |"G"b2 | "D"a2 |%w:W** W** W** W** P P "A"f/g/ gc | "D"d/c/ d/e/ f |"G"b2 | "D"a2 | "A"f/g/ gc |1 "D"d z A :|2 "D"d z D ||\K:G|%w:W*** W**** P P W*** W* WV:2L:1/4|: FAd | g>ff | FAd | c>ee | g2 | f2 |d/e/ e A | F/E/ F/G/ A | g2 | f2 | d/e/ e G |1 F z F :|2 F z B ||\K:G|P:BV:1 brace=2 staves=2K:G|: "G"DGB | e>dd | DGB | "D"d>cc |\%w:*W** W** W** W "C"e2 | "G"d2 | "D"B/c/ cF | "G"G/F/ G/A/ B |\%w:P P W*** W"C"e2 | "G"d2 | "D"B/c/ cF |1 "G"G z D :|2 "G"G !fine!z .|A ||\K:D|%w:P P W*** W* WV:2K:GL:1/4|: B,DG | c>BB | B,DG | F>AA | c2 | B2 |G/A/ A D | B,/A,/ B,/C/ D | c2 | B2 | G/A/ A C |1 B, z B, :|2 B, z .|F ||K:D|X:9
+T:Wirt Vo Stoa%%staffsep 0.75in%%sysstaffsep 0.35in
+Z:PinewoodsC:WPP WPP WW
+C:Ax6; B
+Q:1/4=184
+M:3/4 2/4
+K:C %Transposed from F
+P:A
+V:1 brace=2 staves=2
+L:1/4
+|: "G7"GAB | "C"c z/G/ | Gz | "F"ABc | "G7"d z/c/ | Bz |
+%w:W** P* P W** P* P
+a/g/ f/d/ B/d/| "C"czz :: "C"c/e/ e/d/ c/e/ | ge | ag |
+%w:W***** W W***** P* P
+"G7"f f/d/ B/f/ | "C"e e/d/ | cz | "G7""_[Intro..."a/g/ f/d/ B/d/| "C"cz"_...]"z :|\
+K:F
+|
+%w:W**** P** P W***** W
+V:2
+L:1/4
+|: GFD | E z/E/ | E z | FGA | B z/A/ | Gz |
+f/e/ d/B/ G/F/ | E z z :: E/G/ G/F/ E/G/ | E c | f e |
+d d/B/ G/B/ | c G/F/ | E z | f/e/ d/B/ G/F/ | E z z :|\
+K:F
+|
+P:B (last time only)
+V:1 brace=2 staves=2
+K:F %Transposed from C
+L:1/4
+|: "C7"CDE | "F"F z/C/ | Cz | "Bb"DEF | "C7"G z/F/ | Ez |
+%w:W** P* P W** P* P
+d/c/ B/G/ E/G/| "F"Fzz :: "F"F/A/ A/G/ F/A/ | cA | dc |
+%w:W***** W W***** P* P
+"C7"B B/G/ E/B/ | "F"A A/G/ | Fz | "C7"d/c/ B/G/ E/G/| "F"Fzz :|
+%w:W**** P** P W***** W
+V:2
+K:F
+L:1/4
+|: CB,G, | A, z/A,/ | A, z | B,CD | E z/D/ | Cz |
+B/A/ G/E/ C/B,/ | A, z z :: A,/C/ C/B,/ A,/C/ | A, F | B A |
+G G/E/ C/E/ | F C/B,/ | A, z | B/A/ G/E/ C/B,/ | A, z z :|
+
+
+
+

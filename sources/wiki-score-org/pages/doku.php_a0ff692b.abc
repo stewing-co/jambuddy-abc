@@ -1,0 +1,26 @@
+X:1008
+T:N.10 Dueto [2nd Act]
+C:Fonseca, Eduardo da (1863-1938)
+M:3/4
+L:1/4
+K:D
+V: 8 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 8 }]
+%----
+[Q:"Moderato"] \
+!f! "_NB: some ties are missing"{D,,F,,A,,}!>![D,,F,,A,,D,]/z/ \
+{D,,F,,A,,}[D,,F,,A,,D,]/z/ !arpeggio![A,,C,E,A,]/!arpeggio![A,,C,E,A,]/ | \
+!arpeggio![D,,F,,A,,D,]/z/ {A,,B,,C,}[D,,D,]/z/z || \
+!p!D,/z/ D,/z//D,// (E,/z//C,//) | D,/z/ [B,D]/[A,E]/ [F,D]/z/ | \
+G,/z/ E,/F,/ G,/z//^G,// | A,/z/8(E,,/8F,,/8^G,,/8 A,,/)z/8(E,,/8F,,/8G,,/8 A,,/)z/ | \
+D,-D,/z//D,// ^D,/>B,,/ | E,-E,/z/ !>!G,, | (A,,/A,,/) A,, [A,,G,]/z//[A,,G,]// | \
+[D,F,]/z/ [DF]/[A,E]/ [F,D]/z/ || [K:A] (A,,/E,/) (E,,/E,/) (E,,/E,/) | \
+A,,/!>!E,/- E,/(E,/C,/A,,/) & A,,-A,,/z/x | D,,/D,/- D,/D,/D,/!>!B,,/ & D,,-D,,/z/x | \
+[A,,E,]2-[A,,E,]/z/ | (A,,/E,/) (E,,!trem1!E,) | A,,/!>!E,/- E,/(E,/C,/A,,/) & A,,-A,,/z/x | \
+D,/B,,/ E,-[E,E,,] | [A,,E,]/z/ zz || [K:D] D,/z/ D,/>D,/ E,/>C,/ | \
+D,/z/ [DF]/[A,E]/ [F,D]/z/ | G, (E,/F,/) (G,/>^G,/) | (A,2A,,) | \
+[D,A,] E,/>E,/  ^D,/>B,,/ | E,E,G,,| A,,A,,[A,,E,] | \
+[D,F,]/z/ [K:treble] .[DF]/.[DF]/ [K:bass] [G,B,D] | \
+[F,A,D][D,F,D]!>!!fermata!!arpeggio![A,,E,C] | D,/z// ((3A,,/8B,,/8C,/8 [D,,D,]/)z/ z |] \
+%----

@@ -1,0 +1,23 @@
+X:603
+T:Tristis est anima mea
+C:Frei Manuel Cardoso
+M:C|
+L:1/4
+K:C
+V: 3 clef=tenor name="Tenor" sname="T."
+%%MIDI program 1 1
+%%staves [ 3 ]
+[V: 3] =B,3 C | C2 B,2- | B, A, A,2 | B,2 A,2 | z C2 B, | A, A, G,2 |
+w: Tris-tis est a--ni-ma me-a us-que ad mor-tem
+%
+[V: 3] z D2 C- | C B,2 A, | B,2 D2- | D C C2- | C2 A,2 | =B,2 z =B, | =B, C C =B, |
+w:  us-que ~ ad mor-tem sus--ti-ne--te hic et vi-gi-la-te
+%
+[V: 3] C2 =B,2 | z C2 C | C3/ C/ C =B,| =B, C2 B, | B, C/ C/  A, D- | D D D B,/ B,/ | A,4 ||
+w: me-cum nunc vi-de-bi-tis tur-bam quae cir-cum-da-bit me quae ~ cir-cum-da-bit me.
+%
+[V: 3]  !segno! z A, B,2- | B, A, G, G, | A,2 G, C | B, A, B,2 | A, D2 C | A,3/ B,/ C C- | C B, A,2 |
+w: Vos fu--gam ca-pi e-tis et e-go va-dam im-mo-la---ri ~ pro vo--
+%
+[V: 3] !fine! G,4 || G,/  F,/ F,/G,/ G, z2 F,/ F,/ G,/B,/A,/ G, z2 B,/ B,/ A,/ B,/C/ A,/ B,/ A,/ F,/ F,/ G,/A,/B,/ !segno! G, ||
+w: bis. Vi-gi-la--te et o-ra---te ut non in-tre ~ tis in ten-ta-ti-o---nem

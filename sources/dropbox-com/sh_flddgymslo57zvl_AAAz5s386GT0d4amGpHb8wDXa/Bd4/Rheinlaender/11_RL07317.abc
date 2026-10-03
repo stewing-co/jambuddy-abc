@@ -1,0 +1,58 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Rheinländer GC (RL07317) ABCDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.288 (RL07317) orig. G.C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABCDC
+R:Rheinländer
+M:4/4
+L:1/8
+K:G %%MIDI gchordon
+[P:A] "G" {/e}d>^c d2.g2.b2 | "Am".b2.a2c'4 | "D7"{/e}d>^c d2 .f2.a2 | "G".a2.g2b4 | {/c}B>^A B2.d2.g2 | "Em"{f}e>^d e2 .g2.b2 | ("D"ad')f2("A7"gb)^c2 | "D"d2d2d2z2 || 
+[P:B] "D7"de fg ab c'a | "G".e'2d'4 c'b | "D7"(bc') f2 {/g}f>e f2 | "G"(gb) d2 {/e}d>^cd2 | "D7"de fg ab c'a | "G".e'2d'4 c'b | "D7"(c'e')f2 (c'e') f2 | "G"g2g2g2z2 || [P:C] [K:C] 
+"C".e.e .e.e ee de | "Dm".g2.f2!>!f3e | "G7"(e2d).c B2d2 | "C"(d2c).A G3f | ee ee ee de | "Dm".g2.f2!>!f3e | "G7"(e2d).c Bf ed | "C"c2c2c2"_Fine"z2 |] [P:D] [K:G] 
+"G"b2aff2g2 | d6(ed) | "D7"(dc Af)d2dd | "G"(ed Bg)d2dd | b2aff2g2 | d6 ed | "D7"(dc Af) (dc' ba) | ."G7"g2g2f2"_>Teil C"=f2 || 
+% RL07317
+% Juni 14, 2017
+
+X:2
+T:Rheinländer GC (RL07317)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.288 (RL07317) orig. G.C
+S: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Rheinländer
+M:4/4
+L:1/8
+K:G %%MIDI gchordon
+"G" {/e}d>^c d2.g2.b2 | "Am".b2.a2c'4 | "D7"{/e}d>^c d2 .f2.a2 | "G".a2.g2b4 | {/c}B>^A B2.d2.g2 | "Em"{f}e>^d e2 .g2.b2 | ("D"ad')f2("A7"gb)^c2 | "D"d2d2d2z2 || 
+"D7"de fg ab c'a | "G".e'2d'4 c'b | "D7"(bc') f2 {/g}f>e f2 | "G"(gb) d2 {/e}d>^cd2 | "D7"de fg ab c'a | "G".e'2d'4 c'b | "D7"(c'e')f2 (c'e') f2 | "G"g2g2g2z2 || [K:C] 
+"C".e.e .e.e ee de | "Dm".g2.f2!>!f3e | "G7"(e2d).c B2d2 | "C"(d2c).A G3f | ee ee ee de | "Dm".g2.f2!>!f3e | "G7"(e2d).c Bf ed | "C"c2c2c2"_Fine"z2 |] [K:G] 
+"G"b2aff2g2 | d6(ed) | "D7"(dc Af)d2dd | "G"(ed Bg)d2dd | b2aff2g2 | d6 ed | "D7"(dc Af) (dc' ba) | ."G7"g2g2f2"_>Teil C"=f2 || 
+W:Parts: ABCDC
+% RL07317
+% Juni 14, 2017
+
+X:3
+T:Rheinländer CF 7- (RL07317)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.288 (RL07317) orig. G.C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Rheinländer
+M:4/4
+L:1/8
+K:C %%MIDI gchordon
+"C" {/A}G>^F G2.c2.e2 | "Dm".e2.d2f4 | "G7"{/A}G>^F G2 .B2.d2 | "C".d2.c2e4 | {/F}E>^D E2.G2.c2 | "Am"{B}A>^G A2 .c2.e2 | ("G"dg)B2("D7"ce)^F2 | "G"G2G2G2z2 || 
+"G7"GA Bc de fd | "C".a2g4 fe | "G7"(ef) B2 {/c}B>A B2 | "C"(ce) G2 {/A}G>^FG2 | "G7"GA Bc de fd | "C".a2g4 fe | "G7"(fa)B2 (fa) B2 | "C"c2c2c2z2 || [K:F] 
+"F".A.A .A.A AA GA | "Gm".c2.B2!>!B3A | "C7"(A2G).F E2G2 | "F"(G2F).D C3B | AA AA AA GA | "Gm".c2.B2!>!B3A | "C7"(A2G).F EB AG | "F"F2F2F2"_Fine"z2 |] [K:C] 
+"C"e2dBB2c2 | G6(AG) | "G7"(GF DB)G2GG | "C"(AG Ec)G2GG | e2dBB2c2 | G6 AG | "G7"(GF DB) (Gf ed) | "C7"c2c2B2"_>Teil C"_B2 || 
+W:Parts: ABCDC
+% RL07317
+% Juni 14, 2017

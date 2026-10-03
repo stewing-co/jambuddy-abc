@@ -1,0 +1,43 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch BbFEb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.174 (st00283) orig. Bb,F,Eb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:Bb %%MIDI gchordon
+de |: "Bb"f3=e "(F7)"f3e | "Bb"f2=ef g2f2 | "F7"e2A2 c2e2 | "Bb"d2b2 "Eb"a2g2 | "Bb"f3=e "(F7)"f2e2 | "Bb"f2=ef g2f2 | 
+"F7"e2A2 c2a2 |1 "Bb"b2b2 b2de :|2 "Bb"b2b2 b2z2 || [K:F] "F"a2ba g2f2 | "C7"e6g2 | b2c'b a2g2 | "F"f6c2 | a2ba "F7"g2f2 | 
+"Bb"d2d'2 "F"c'4 | "C7"b3g e2c2 | "F"d2c2A4 | a2ba "F7"g2f2 | "Bb"d2d'2 "F"c'4 | "C7"b3g e2c2 | "F"f2f2 f2f2 || [K:Bb] "Eb"^f2g2 "F7"e2c2 | 
+"Bb"f6b2 | "F7"agf2 c'ba2 | "Bb"b2f2 e2d2 | "Eb"^f2g2 "F7"e2c2 | "Bb"f6b2 | "F7"agf2 c'2a2 | "Bb"b2b2 b2z2 || [K:Eb] "Eb"ggg2 ggg2 | 
+g2a2b4 | c'2b2 a2g2 | "F7"g4c4 | "Bb7"fff2 fff2 | f2g2a4 | d'2c'2 b2a2 | "Eb"g6B2 | ggg2 ggg2 | 
+g2a2b4 | "Eb7"eee2 f2g2 | "Ab"a4c4 | "Bb7"dcB2a4 | "Eb"gfe2b4 | "Bb7"c'2dd d2f2 | "Eb"e2e2 e2z2 |] 
+
+X:2
+T:Schottisch CGF 10- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+EF |: "C"G3^F "(G7)"G3F | "C"G2^FG A2G2 | "G7"F2B,2 D2F2 | "C"E2c2 "F"B2A2 | "C"G3^F "(G7)"G2F2 | "C"G2^FG A2G2 | 
+"G7"F2B,2 D2B2 |1 "C"c2c2 c2EF :|2 "C"c2c2 c2z2 || [K:Gmaj] "G"B2cB A2G2 | "D7"F6A2 | c2dc B2A2 | "G"G6D2 | B2cB "G7"A2G2 | 
+"C"E2e2 "G"d4 | "D7"c3A F2D2 | "G"E2D2B,4 | B2cB "G7"A2G2 | "C"E2e2 "G"d4 | "D7"c3A F2D2 | "G"G2G2 G2G2 || [K:Cmaj] "F"^G2A2 "G7"F2D2 | 
+"C"G6c2 | "G7"BAG2 dcB2 | "C"c2G2 F2E2 | "F"^G2A2 "G7"F2D2 | "C"G6c2 | "G7"BAG2 d2B2 | "C"c2c2 c2z2 || [K:Fmaj] "F"AAA2 AAA2 | 
+A2B2c4 | d2c2 B2A2 | "G7"A4D4 | "C7"GGG2 GGG2 | G2A2B4 | e2d2 c2B2 | "F"A6C2 | AAA2 AAA2 | 
+A2B2c4 | "F7"FFF2 G2A2 | "Bb"B4D4 | "C7"EDC2B4 | "F"AGF2c4 | "C7"d2EE E2G2 | "F"F2F2 F2z2 |] 
+
+X:3
+T:Schottisch FCBb chords
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+AB |: "F"c3=B "(C7)"c3B | "F"c2=Bc d2c2 | "C7"B2E2 G2B2 | "F"A2f2 "Bb"e2d2 | "F"c3=B "(C7)"c2B2 | "F"c2=Bc d2c2 | 
+"C7"B2E2 G2e2 |1 "F"f2f2 f2AB :|2 "F"f2f2 f2z2 || [K:Cmaj] "C"e2fe d2c2 | "G7"B6d2 | f2gf e2d2 | "C"c6G2 | e2fe "C7"d2c2 | 
+"F"A2a2 "C"g4 | "G7"f3d B2G2 | "C"A2G2E4 | e2fe "C7"d2c2 | "F"A2a2 "C"g4 | "G7"f3d B2G2 | "C"c2c2 c2c2 || [K:Fmaj] "Bb"^c2d2 "C7"B2G2 | 
+"F"c6f2 | "C7"edc2 gfe2 | "F"f2c2 B2A2 | "Bb"^c2d2 "C7"B2G2 | "F"c6f2 | "C7"edc2 g2e2 | "F"f2f2 f2z2 || [K:Bbmaj] "Bb"ddd2 ddd2 | 
+d2e2f4 | g2f2 e2d2 | "C7"d4G4 | "F7"ccc2 ccc2 | c2d2e4 | a2g2 f2e2 | "Bb"d6F2 | ddd2 ddd2 | 
+d2e2f4 | "Bb7"BBB2 c2d2 | "Eb"e4G4 | "F7"AGF2e4 | "Bb"dcB2f4 | "F7"g2AA A2c2 | "Bb"B2B2 B2z2 |] 
+
+
+

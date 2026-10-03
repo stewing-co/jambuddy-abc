@@ -1,0 +1,36 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: L\"andler C chords
+T:Hanny Christen. Bd.I Zürich, Schaffhause, St. Gallen I. S.139 (LD00207) orig. C-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"e2cg ^fg | "G7"f2dg ^fg | b3a gf | "C0"^d2 "C"eg ^fg | e2cg ^fg |  
+"G7"=f2dg ^fg | ^fg ag =fd | "C"c2z2z2 :: "G7"Bc de fg | "C"a2gG ce | "G7"g2fG Bd | 
+"C"ag ^fg "_(1)"=fe | "G7"Bc de fg | "C"a2gG ce | "G7"g2fG Bd | "C"c2z2z2 :| 
+W:
+W: (1) Anmerkung Hrsg: Takt 12: Aufl\"osungszeichen erg\"anzt
+
+X:2
+T:L\"andler F 7- chords
+T:Hanny Christen. Bd.I Zürich, Schaffhause, St. Gallen I. S.139 (LD00207) orig. C-Dur
+T:Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+"F"A2Fc =Bc | "C7"B2Gc =Bc | e3d cB | "F0"^G2 "F"Ac =Bc | A2Fc =Bc | 
+"C7"_B2Gc =Bc | =Bc dc _BG | "F"F2z2z2 :: "C7"EF GA Bc | "F"d2cC FA | "C7"c2BC EG | 
+"F"dc =Bc _BA | "C7"EF GA Bc | "F"d2cC FA | "C7"c2BC EG | "F"F2z2z2 :| 
+
+X:3
+T:L\"andler G 5- chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"B2Gd ^cd | "D7"c2Ad ^cd | f3e dc | "G0"^A2 "G"Bd ^cd | B2Gd ^cd | 
+"D7"=c2Ad ^cd | ^cd ed =cA | "G"G2z2z2 :: "D7"FG AB cd | "G"e2dD GB | "D7"d2cD FA | 
+"G"ed ^cd "_(1)"=cB | "D7"FG AB cd | "G"e2dD GB | "D7"d2cD FA | "G"G2z2z2 :| 
+

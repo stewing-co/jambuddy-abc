@@ -1,0 +1,18 @@
+X:705
+T:N.10 Moderado
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:D
+V: 5 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%----------- edit between the lines ------------
+"_[fol.23]" !mf! D,/ z/ z/ D,/ |  D,/ z/ z/ D,/ | D,/ z/ z/ D,/ | D,/ z/ z/ D,/ |\
+D,/ z/ z/ D,/ | D,/ z/ z/ D,/ | D,/ z/ D,/D,/ | G,,/z/ !>(!!>)!  A,,/A,,/ !p! |\
+"_[fol.24]" (D,2 | (D,2)| (D,2)| (D,2) | (D,2) |\
+M:3/4
+D,/) z/ z z ||
+M:2/4
+"_[fol.25]" "_Ret.sempre" Z | X6 | !fermata! Z ||
+%-----------------------------------------------

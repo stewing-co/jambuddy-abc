@@ -1,0 +1,67 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Fantasia Quarta.
+T:Superius.
+C:Orlando Lassusio.
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+%%MIDI gchord off
+M:C|
+L:1/4
+N:Original clef, C on first line
+K:G dor
+A6 G2 F2 B2 A4 z2 G2 B2 A2 B3 A/ G/ F4 z2 F G A B c A B2 A2 z2 A2 D2 F2 "A"E4 z2
+F4 C2 F4 G2 A2 F2 G3 A B A d3 c =B c F3 G A2 G2 z2 A2 B2 A2 c B A G "B"F4 z2 F2 E2 F2 D E F G
+A B c4 B2 A2 G2 C D E D F2 G2 c2 B3 A B G A2 G4 F2 "C"G4 z2 B2 A2 d3 c2 B A2 G2 z c B G
+A2 z c F G A2 z G C D E2 z D F E F > G A/ B/ c > B A/ G/ F E A C > D E/ F/ G/ A/ B/ c/
+d > c B/ A/  d c B2 A "D"B2 z F F F D2 z G G F E2 z A A G F2 B2 A2 c2 B2 A2 G2 F2 B2 z A d c
+A2 z c B G d > c B A d c B A G F B A/ G/ F > G A/ B/ c C/ D/ E/ F/ G/ A/ B/ c/ d > c A B2 G
+A2 F G2 E F2 D E F G E F G A > G F/ E/ D G > E E > C F > D B > G G A/ G/ F/ A/ G/ F/ E/ G/
+F/ E/ D/ C/ D B2 G B A > E G > D F > E E G > D ^F G2 F G16 |]
+
+
+X:2
+T:Fantasia Quarta.
+T:Tenor.
+C:Orlando Lassusio.
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+%%MIDI gchord off
+M:C|
+L:1/4
+N:Original clef, C on fourth line
+K:G dor -8va
+z8 d6 c2 B2 e2 d4 z2 G2 B2 A2 B3 A/ G/ F4 z2 F G A B c A B2 A c "A"A2 "(1)"z4 D3 B
+N:(1) this rest is the editor's interpretation of a smudge
+A4 B4 z2 F2 B2 c2 d2 G2 B2 G2 z A B A d3 c =B c F4 z2 F2 E2 "B"F2 D E F G A4 B A B2 A2 c B A G
+F E D4 E2 F2 G2 d c B c A2 G2 D3 E ^F2 G2 A4 "C"G8 z2 B2 A2 d3 c2 B A2 G2 z d c A B2 z A
+D E F2 z c F G A2 z D F E F > G A/ B/ c > B A/ G/ F c B/ A/ G/ A/ B/ c/ d > c B A d c2 "D"B4
+z B B B G2 z A A G F2 z B B A G d2 c2 "(2)"_e2 d2 c2 B2 A2 G A2 z A d c A2 z c B G
+N:(2) Looks like a quarter note in the original
+d > c B A G F B A G F B A/ G/ F > G A/ B/ c2 G/ A/ B/ c/ d/ e/ "(3)"f d _e2 c d2 B c2 A B2 G A B
+N:(3) this and the next note look like eighths in the original
+c A B c d > c B/ A/ G c > A A > F B > G e > c c d/ c/ B/ d/ c/ B/ A/ c/ B/ A/ G/ F/ G e2 d > A
+c > G B > A A c > G B A G A2 G16 |]

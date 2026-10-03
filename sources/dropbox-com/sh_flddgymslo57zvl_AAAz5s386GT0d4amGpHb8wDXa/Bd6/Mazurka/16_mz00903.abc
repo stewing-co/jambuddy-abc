@@ -1,0 +1,87 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Gommilfo (Mazurka)  BbFEb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.232 (mz00903) orig. Bb,F,Eb-Dur
+T:L\"otschental. S.214-233. Repertoire von Xander Murmann, Weissenried, 1874-1948
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:Bb %%MIDI gchordon
+"F7"f>ee4 | "Bb"f>dd4 | "F7"cd ed cB | A2z2z2 |: "Bb"FdB3A | "Cm"AGG2G2 | "F7"FeA3G | "Bb"GFF2F2 | 
+FdB3A | "Cm"AGG2G2 | "F7"ggf2A2 | "Bb"B2B2z2 :: [K:F] "C7"c4BG | "F"c4AF | "C7"(3EGB e3d | "F"dcc2c2 | 
+"C7"c4BG | "F"c4AF | "C7"E>G B>d c>E | "F"F2F2"_>Teil A"z2 :: [K:Eb] "Eb"G4Be | g3B fe | "Ab"dcc2c2 | c6 | 
+"Bb7"F4AB | d3 A dc | "Eb"cBB2B2 | B6 | G4Be | g3B fe | "Ab"dcc2c2 | c6 | "Bb7"FG AB cd | 
+"Eb"eGB3c | "Bb7"BFA3c | "Eb"BEG4 | "Bb7"FG AB cd | "Eb"eGB3e | "Bb7"d>c B>A G>F | "Eb"E2e2z2 :| 
+W:Parts: ABAC
+W:
+W: "Mer redet n\"ot T\"utsch und Franz\"osisch durenand, das w\"ar denn schon n\"od gommilfo".
+W:(You don't speak German and French at the same time, that wouldn't be <comme il faut>)
+W: that funny thing here is that the expression uses German and French in the same sentence
+W: cf. comme il faut (fr. 'properly, duly')
+X:2
+T:Gommilfo (Mazurka)  CGF 2-
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C%%MIDI gchordon
+"G7"g>ff4 | "C"g>ee4 | "G7"de fe dc | B2z2z2 |: "C"Gec3B | "Dm"BAA2A2 | "G7"GfB3A | "C"AGG2G2 | 
+Gec3B | "Dm"BAA2A2 | "G7"aag2B2 | "C"c2c2z2 :: [K:G] "D7"d4cA | "G"d4BG | "D7"(3FAc f3e | "G"edd2d2 | 
+"D7"d4cA | "G"d4BG | "D7"F>A c>e d>F | "G"G2G2"_>Teil A"z2 :: [K:F] "F"A4cf | a3c gf | "Bb"edd2d2 | d6 | 
+"C7"G4Bc | e3 B ed | "F"dcc2c2 | c6 | A4cf | a3c gf | "Bb"edd2d2 | d6 | "C7"GA Bc de | 
+"F"fAc3d | "C7"cGB3d | "F"cFA4 | "C7"GA Bc de | "F"fAc3f | "C7"e>d c>B A>G | "F"F2f2z2 :| 
+W:Parts: ABAC
+% mz00903
+X:3
+T:Gommilfo (Mazurka)  CGF (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"G7"g>ff4 | "C"g>ee4 | "G7"de fe dc | B2z2z2 |: "C"Gec3B | "Dm"BAA2A2 | "G7"GfB3A | "C"AGG2G2 | 
+Gec3B | "Dm"BAA2A2 | "G7"aag2B2 | "C"c2c2z2 :: [K:G] "D7"d4cA | "G"d4BG | "D7"(3FAc f3e | "G"edd2d2 | 
+"D7"d4cA | "G"d4BG | "D7"F>A c>e d>F | "G"G2G2"_>Teil A"z2 :: [K:F] "F"A4cf | a3c gf | "Bb"edd2d2 | d6 | 
+"C7"G4Bc | e3 B ed | "F"dcc2c2 | c6 | A4cf | a3c gf | "Bb"edd2d2 | d6 | "C7"GA Bc de | 
+"F"fAc3d | "C7"cGB3d | "F"cFA4 | "C7"GA Bc de | "F"fAc3f | "C7"e>d c>B A>G | "F"F2f2z2 :| 
+W:Parts: ABAC
+% mz00903
+
+
+X:4
+T:Gommilfo (Mazurka) DA&G (tinwhistle in D)
+T: mz00903 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D%%MIDI gchordon
+"A7"a>gg4 | "D"a>ff4 | "A7"ef gf ed | c2z2z2 |: "D"Afd3c | "Em"cBB2B2 | "A7"Agc3B | "D"BAA2A2 | 
+Afd3c | "Em"cBB2B2 | "A7"bba2c2 | "D"d2d2z2 :: [K:A] "E7"e4dB | "A"e4cA | "E7"(3GBd g3f | "A"fee2e2 | 
+"E7"e4dB | "A"e4cA | "E7"G>B d>f e>G | "A"A2A2"_>Teil A"z2 :: [K:G] "G"B4dg | b3d ag | "C"fee2e2 | e6 | 
+"D7"A4cd | f3 c fe | "G"edd2d2 | d6 | B4dg | b3d ag | "C"fee2e2 | e6 | "D7"AB cd ef | 
+"G"gBd3e | "D7"dAc3e | "G"dGB4 | "D7"AB cd ef | "G"gBd3g | "D7"f>e d>c B>A | "G"G2g2z2 :| 
+W:Parts: ABAC
+X:5
+T:Gommilfo (Mazurka) DA&G (tinwhistle in D) solo
+T: mz00903 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+a>gg4 | a>ff4 | ef gf ed | c2z2z2 |: Afd3c | cBB2B2 | Agc3B | BAA2A2 | 
+Afd3c | cBB2B2 | bba2c2 | d2d2z2 :: [K:A] e4dB | e4cA | (3GBd "_#"g3f | fee2e2 | 
+e4dB | e4cA | "_#"G>B d>f e>"_#"G | A2A2"_>Teil A"z2 :: [K:G] B4dg | b3d ag | fee2e2 | e6 | 
+A4"_c"cd | f3 "_c"c fe | edd2d2 | d6 | B4dg | b3d ag | fee2e2 | e6 | AB "_c"cd ef | 
+gBd3e | dA"_c"c3e | dGB4 | AB "_c"cd ef | gBd3g | f>e d>"_c"c B>A | G2g2z2 :|
+W:Parts: ABAC
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 26, 2016

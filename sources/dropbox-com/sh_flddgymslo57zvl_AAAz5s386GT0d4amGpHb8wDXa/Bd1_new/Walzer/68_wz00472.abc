@@ -1,0 +1,94 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Walzer  FBb
+T:Hanny Christen. Bd.I  Z\"urich, Schaffhausen, St. Gallen I. S.232f  (wz00472) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+A/c/ | "F"d>cc | Acc | "C7"GG/A/ B/c/ | e2c | d>cc |  G>cc | "F"A>cc | 
+f2c | d>cc | A>cc | "C7"GG/A/ B/c/ | e2c | edc | .b.a.g | "F"fa/f/ c/A/ | 
+Fz c/^c/ || "Gm"dd'g | "C7"bag | "F"cc'f | ag/f/ e/d/ | "C7"cc'e | bg/f/ e/d/ | "F"cc'f | 
+a2f/e/ | "Gm"dd'g | "C7"bag | "F"cc'f | a2e/d/ | "C7"cc'e | bag | "F"fa/f/ c/A/ | 
+Fzz ||  [K:Bb]"Bb"F2f | B2g | "F7"A2f | e3 | F2e | A2g | c2f | 
+"Bb"d3 | F2d | B2g | "F7"A2f | e3 | F2e | AfA | "Bb"BA/B/ d/f/ | bzz |] 
+
+X:2
+T:Walzer  CF 5-
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+E/2G/2 | "C"A>GG | EGG | "G7"DD/2E/2 F/2G/2 | B2G | A>GG | D>GG | "C"E>GG | 
+c2G | A>GG | E>GG | "G7"DD/2E/2 F/2G/2 | B2G | BAG | .f.e.d | "C"ce/2c/2 G/2E/2 | 
+Cz G/2^G/2 || "Dm"Aad | "G7"fed | "C"Ggc | ed/2c/2 B/2A/2 | "G7"GgB | fd/2c/2 B/2A/2 | "C"Ggc | 
+e2c/2B/2 | "Dm"Aad | "G7"fed | "C"Ggc | e2B/2A/2 | "G7"GgB | fed | "C"ce/2c/2 G/2E/2 | 
+Czz || [K:Fmaj]"F"C2c | F2d | "C7"E2c | B3 | C2B | E2d | G2c | 
+"F"A3 | C2A | F2d | "C7"E2c | B3 | C2B | EcE | "F"FE/2F/2 A/2c/2 | fzz |] 
+
+X:3
+T:Walzer  CF 5- (align)
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+E/2G/2 | "C"A>GG | EGG | "G7"DD/2E/2 F/2G/2 | B2G | A>GG | D>GG | "C"E>GG | \
+c2G |
+ A>GG | E>GG | "G7"DD/2E/2 F/2G/2 | B2G | BAG | .f.e.d | "C"ce/2c/2 G/2E/2 | \
+Cz G/2^G/2 || "Dm"Aad |
+ "G7"fed | "C"Ggc | ed/2c/2 B/2A/2 | "G7"GgB | fd/2c/2 B/2A/2 | "C"Ggc | \
+e2c/2B/2 | "Dm"Aad | "G7"fed |
+ "C"Ggc | e2B/2A/2 | "G7"GgB | fed | "C"ce/2c/2 G/2E/2 | \
+Czz || [K:Fmaj]"F"C2c | F2d | "C7"E2c | B3 |
+ C2B | E2d | G2c | \
+"F"A3 | C2A | F2d | "C7"E2c | B3 | C2B | EcE | "F"FE/2F/2 A/2c/2 | fzz |] 
+
+X:4
+T:Walzer  GC 2+
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+B/2d/2 | "G"e>dd | Bdd | "D7"AA/2B/2 c/2d/2 | f2d | e>dd | A>dd | "G"B>dd | \
+g2d |
+e>dd | B>dd | "D7"AA/2B/2 c/2d/2 | f2d | fed | .c'.b.a | "G"gb/2g/2 d/2B/2 | \
+Gz d/2^d/2 || "Am"ee'a |
+"D7"c'ba | "G"dd'g | ba/2g/2 f/2e/2 | "D7"dd'f | c'a/2g/2 f/2e/2 | "G"dd'g | \
+b2g/2f/2 | "Am"ee'a | "D7"c'ba |
+"G"dd'g | b2f/2e/2 | "D7"dd'f | c'ba | "G"gb/2g/2 d/2B/2 | \
+Gzz || [K:Cmaj]"C"G2g | c2a | "G7"B2g | f3 |
+G2f | B2a | d2g | \
+"C"e3 | G2e | c2a | "G7"B2g | f3 | G2f | BgB | "C"cB/2c/2 e/2g/2 | c'zz |] 
+
+X:5
+T:Walzer  EbAb (5letras) cf. CF
+M:3/4
+L:1/4
+K:Ebmaj%%MIDI gchordon
+G/2B/2 | "Eb"c>BB | GBB | "Bb7"FF/2G/2 A/2B/2 | d2B | c>BB | F>BB | "Eb"G>BB | \
+e2B |
+c>BB | G>BB | "Bb7"FF/2G/2 A/2B/2 | d2B | dcB | .a.g.f | "Eb"eg/2e/2 B/2G/2 | \
+Ez B/2=B/2 || "Fm"cc'f |
+"Bb7"agf | "Eb"Bbe | gf/2e/2 d/2c/2 | "Bb7"Bbd | af/2e/2 d/2c/2 | "Eb"Bbe | \
+g2e/2d/2 | "Fm"cc'f | "Bb7"agf |
+"Eb"Bbe | g2d/2c/2 | "Bb7"Bbd | agf | "Eb"eg/2e/2 B/2G/2 | \
+Ezz || [K:Abmaj]"Ab"E2e | A2f | "Eb7"G2e | d3 |
+E2d | G2f | B2e | \
+"Ab"c3 | E2c | A2f | "Eb7"G2e | d3 | E2d | GeG | "Ab"AG/2A/2 c/2e/2 | azz |] 
+
+X:6
+T:Walzer  BbEb (5letras) cf. GC
+M:3/4
+L:1/4
+K:Bbmaj%%MIDI gchordon
+d/2f/2 | "Bb"g>ff | dff | "F7"cc/2d/2 e/2f/2 | a2f | g>ff | c>ff | "Bb"d>ff | \
+b2f |
+g>ff | d>ff | "F7"cc/2d/2 e/2f/2 | a2f | agf | .e'.d'.c' | "Bb"bd'/2b/2 f/2d/2 | \
+Bz f/2^f/2 || "Cm"gg'c' |
+"F7"e'd'c' | "Bb"ff'b | d'c'/2b/2 a/2g/2 | "F7"ff'a | e'c'/2b/2 a/2g/2 | "Bb"ff'b | \
+d'2b/2a/2 | "Cm"gg'c' | "F7"e'd'c' |
+"Bb"ff'b | d'2a/2g/2 | "F7"ff'a | e'd'c' | "Bb"bd'/2b/2 f/2d/2 | \
+Bzz || [K:Ebmaj]"Eb"B2b | e2c' | "Bb7"d2b | a3 |
+B2a | d2c' | f2b | \
+"Eb"g3 | B2g | e2c' | "Bb7"d2b | a3 | B2a | dbd | "Eb"ed/2e/2 g/2b/2 | e'zz |] 
+
+

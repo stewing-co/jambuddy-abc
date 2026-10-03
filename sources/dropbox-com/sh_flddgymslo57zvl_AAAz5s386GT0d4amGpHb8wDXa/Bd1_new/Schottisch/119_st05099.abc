@@ -1,0 +1,67 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Dorfmusikante* (Schottisch) FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.364 (st05099) orig. F,Bb-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+ff | "F"f2cc c2aa | a2ff f2c'c' | "C7"c'2c2 d2e2 | "F"f4z4 |: "F"c'2c'2 a2c2 | d2ed c2c2 | aaa2 g2a2 | 
+"C7"b2ba g2g2 | c'2c'2 b2c2 | d2ed c2c2 | bbb2 d2e2 | "F"f2a2 f2z2 :: "F"c2ag f2f2 | c2ag f2f2 | a2aa g2a2 | 
+"C7"b2bg e2e2 | c2bg e2e2 | c2bg e2e2 | c'c'c'2 c2de |1 "F"f2a2 f2z2 :|2 "F"f4 f2>f2 |: [K:Bb] [L:1/8] "Bb"d'2b2 | f2d2 | 
+"F7"cd ed | c2>B2 |1 A2c2 | d2e2 | "Bb"d>e f>d' | b2z2 :|2 "F7"AB cd | ef ga | "Bb"b2d'2 | b2z2 |]  
+W: * "village musicians" (in Swiss German)
+% April 4, 2016
+X:2
+T:Dorfmusikante (Schottisch) CF 5-
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+cc | "C"c2GG G2ee | e2cc c2gg | "G7"g2G2 A2B2 | "C"c4z4 |: "C"g2g2 e2G2 | A2BA G2G2 | eee2 d2e2 | 
+"G7"f2fe d2d2 | g2g2 f2G2 | A2BA G2G2 | fff2 A2B2 | "C"c2e2 c2z2 :: "C"G2ed c2c2 | G2ed c2c2 | e2ee d2e2 | 
+"G7"f2fd B2B2 | G2fd B2B2 | G2fd B2B2 | ggg2 G2AB |1 "C"c2e2 c2z2 :|2 "C"c4 c2>c2 |: [K:Fmaj] [L:1/8] "F"a2f2 | c2A2 | 
+"C7"GA BA | G2>F2 |1 E2G2 | A2B2 | "F"A>B c>a | f2z2 :|2 "C7"EF GA | Bc de | "F"f2a2 | f2z2 |] 
+X:3
+T:Dorfmusikante (Schottisch) CF (5letras transposed)
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+cc | "C"c2GG G2ee | e2cc c2gg | "G7"g2G2 A2B2 | "C"c4z4 |: "C"g2g2 e2G2 | A2BA G2G2 | eee2 d2e2 | 
+"G7"f2fe d2d2 | g2g2 f2G2 | A2BA G2G2 | fff2 A2B2 | "C"c2e2 c2z2 :: "C"G2ed c2c2 | G2ed c2c2 | e2ee d2e2 | 
+"G7"f2fd B2B2 | G2fd B2B2 | G2fd B2B2 | ggg2 G2AB |1 "C"c2e2 c2z2 :|2 "C"c4 c2>c2 |: [K:Fmaj] [L:1/8] "F"a2f2 | c2A2 | 
+"C7"GA BA | G2>F2 |1 E2G2 | A2B2 | "F"A>B c>a | f2z2 :|2 "C7"EF GA | Bc de | "F"f2a2 | f2z2 |] 
+X:4
+T:Dorfmusikante (Schottisch) GC 10-
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+GG | "G"G2DD D2BB | B2GG G2dd | "D7"d2D2 E2F2 | "G"G4z4 |: "G"d2d2 B2D2 | E2FE D2D2 | BBB2 A2B2 | 
+"D7"c2cB A2A2 | d2d2 c2D2 | E2FE D2D2 | ccc2 E2F2 | "G"G2B2 G2z2 :: "G"D2BA G2G2 | D2BA G2G2 | B2BB A2B2 | 
+"D7"c2cA F2F2 | D2cA F2F2 | D2cA F2F2 | ddd2 D2EF |1 "G"G2B2 G2z2 :|2 "G"G4 G2>G2 |: [K:Cmaj] [L:1/8] "C"e2c2 | G2E2 | 
+"G7"DE FE | D2>C2 |1 B,2D2 | E2F2 | "C"E>F G>e | c2z2 :|2 "G7"B,C DE | FG AB | "C"c2e2 | c2z2 |] 
+X:5
+T:Dorfmusikante* (Schottisch) EbAb (5letras)
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+ee | "Eb"e2BB B2gg | g2ee e2bb | "Bb7"b2B2 c2d2 | "Eb"e4z4 |: "Eb"b2b2 g2B2 | c2dc B2B2 | ggg2 f2g2 | 
+"Bb7"a2ag f2f2 | b2b2 a2B2 | c2dc B2B2 | aaa2 c2d2 | "Eb"e2g2 e2z2 :: "Eb"B2gf e2e2 | B2gf e2e2 | g2gg f2g2 | 
+"Bb7"a2af d2d2 | B2af d2d2 | B2af d2d2 | bbb2 B2cd |1 "Eb"e2g2 e2z2 :|2 "Eb"e4 e2>e2 |: [K:Abmaj] [L:1/8] "Ab"c'2a2 | e2c2 | 
+"Eb7"Bc dc | B2>A2 |1 G2B2 | c2d2 | "Ab"c>d e>c' | a2z2 :|2 "Eb7"GA Bc | de fg | "Ab"a2c'2 | a2z2 |] 
+X:6
+T:Dorfmusikante (Schottisch) D&G (tinwhistle in D)
+%%MIDI program 72   % 111 /74 / 79=whistle
+T: st 05099 (Hanny Christen)
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+dd | "D"d2AA A2ff | f2dd d2aa | "A7"a2A2 B2c2 | "D"d4z4 |: "D"a2a2 f2A2 | B2cB A2A2 | fff2 e2f2 | 
+"A7"g2gf e2e2 | a2a2 g2A2 | B2cB A2A2 | ggg2 B2c2 | "D"d2f2 d2z2 :: "D"A2fe d2d2 | A2fe d2d2 | f2ff e2f2 | 
+"A7"g2ge c2c2 | A2ge c2c2 | A2ge c2c2 | aaa2 A2Bc |1 "D"d2f2 d2z2 :|2 "D"d4 d2>d2 |: [K:Gmaj] [L:1/8] "G"b2g2 | d2B2 | 
+"D7"AB "_c"cB | A2>G2 |1 F2A2 | B2"_c"c2 | "G"B>"_c"c d>b | g2z2 :|2 "D7"FG AB | "_c"cd ef | "G"g2b2 | g2z2 |] 
+W:
+W: for tin whistle TABs go to: 
+W: http://www.mandolintab.net/abcconverter.php
+W: " Tablatur: Whistle - key: D "

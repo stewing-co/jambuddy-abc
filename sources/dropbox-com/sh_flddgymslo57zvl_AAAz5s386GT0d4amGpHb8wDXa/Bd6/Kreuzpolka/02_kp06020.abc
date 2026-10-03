@@ -1,0 +1,78 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Kreuzpolka  FCBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.307 (pk06015) orig. F,C,Bb-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"ABc2 def2 | "C7"e2d2B4 |  GAB2 cde2 | "F"d2c2A4 | ca^ga caga |1 "tr""C7"a2g2g4 | Bg^fg Bgfg | "tr""F"g2f2f4 :|2 
+"Bb"c'2b2d4 | "F"cfef "C7"gcag | "F"f2a2 f2z2 |: [K:C]"C" efga geae | .g4!>!c'4 | cdef ecfc | .e4!>!g4 |1 
+"D7"e2d2 d2^c2 |  "G7"d2d2d4 | "C"d2c2 c2B2 | c2c2c4 :|2 "D7"e2d2 "G7"g2d2 | "C"d2c2 g2c2 | "G7"Bcd2 fed2 | "C"c2c2 c2"_>Teil A"z2 || 
+ |: [K:Bb] "Bb"f4 "Eb"b3e | "tr""Bb"g2f2d4 | "F7"fec2 fec2 | "Bb"fdB2 fdB2 | f4 "Eb"b3g | "Bb"g2f2d4 | "F7"fec2 fec2 | "Bb"B2B2 B2z2 :|   
+W:Parts: ABAC
+% kp06020
+X:2
+T:Kreuzpolka  CGF 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"EFG2 ABc2 | "G7"B2A2F4 | DEF2 GAB2 | "C"A2G2E4 | Ge^de Gede |1 "tr""G7"e2d2d4 | Fd^cd Fdcd | "tr""C"d2c2c4 :|2 
+"F"g2f2A4 | "C"GcBc "G7"dGed | "C"c2e2 c2z2 |: [K:G]"G" Bcde dBeB | .d4!>!g4 | GABc BGcG | .B4!>!d4 |1 
+"A7"B2A2 A2^G2 | "D7"A2A2A4 | "G"A2G2 G2F2 | G2G2G4 :|2 "A7"B2A2 "D7"d2A2 | "G"A2G2 d2G2 | "D7"FGA2 cBA2 | "G"G2G2 G2"_>Teil A"z2 || [K:F]
+|:  "F"c4 "Bb"f3B | "tr""F"d2c2A4 | "C7"cBG2 cBG2 | "F"cAF2 cAF2 | c4 "Bb"f3d | "F"d2c2A4 | "C7"cBG2 cBG2 | "F"F2F2 F2z2 :| 
+W:Parts: ABAC
+% kp06020
+X:3
+T:Kreuzpolka  CGF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"EFG2 ABc2 | "G7"B2A2F4 | DEF2 GAB2 | "C"A2G2E4 | Ge^de Gede |1 "tr""G7"e2d2d4 | Fd^cd Fdcd | "tr""C"d2c2c4 :|2 
+"F"g2f2A4 | "C"GcBc "G7"dGed | "C"c2e2 c2z2 |: [K:G]"G" Bcde dBeB | .d4!>!g4 | GABc BGcG | .B4!>!d4 |1 
+"A7"B2A2 A2^G2 | "D7"A2A2A4 | "G"A2G2 G2F2 | G2G2G4 :|2 "A7"B2A2 "D7"d2A2 | "G"A2G2 d2G2 | "D7"FGA2 cBA2 | "G"G2G2 G2"_>Teil A"z2 || [K:F]
+|:  "F"c4 "Bb"f3B | "tr""F"d2c2A4 | "C7"cBG2 cBG2 | "F"cAF2 cAF2 | c4 "Bb"f3d | "F"d2c2A4 | "C7"cBG2 cBG2 | "F"F2F2 F2z2 :| 
+W:Parts: ABAC
+% kp06020
+
+X:4
+T:Kreuzpolka DA&G (tinwhistle in D)
+T:kp06020 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"FGA2 Bcd2 | "A7"c2B2G4 | EFG2 ABc2 | "D"B2A2F4 | Af^ef Afef |1 "tr""A7"f2e2e4 | Ge^de Gede | "tr""D"e2d2d4 :|2 
+"G"a2g2B4 | "D"Adcd "A7"eAfe | "D"d2f2 d2z2 |: [K:Amaj]"A" cdef ecfc | .e4!>!a4 | ABcd cAdA | .c4!>!e4 |1 
+"B7"c2B2 B2^A2 | "E7"B2B2B4 | "A"B2A2 A2G2 | A2A2A4 :|2 "B7"c2B2 "E7"e2B2 | "A"B2A2 e2A2 | "E7"GAB2 dcB2 | "A"A2A2 A2"_>Teil A"z2 || [K:Gmaj]
+|: "G"d4 "C"g3c | "tr""G"e2d2B4 | "D7"dcA2 dcA2 | "G"dBG2 dBG2 | d4 "C"g3e | "G"e2d2B4 | "D7"dcA2 dcA2 | "G"G2G2 G2z2 :| 
+W:Parts: ABAC
+X:5
+T:Kreuzpolka DA&G (tinwhistle in D) solo
+T:kp06020 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+FGA2 Bcd2 | c2B2G4 | EFG2 ABc2 | B2A2F4 | Af^ef Afef |1 f2e2e4 | Ge^de Gede | e2d2d4 :|2 
+a2g2B4 | Adcd eAfe | d2f2 d2z2 |: [K:Amaj] cdef ecfc | .e4!>!a4 | ABcd cAdA | .c4!>!e4 |1 
+c2B2 B2^A2 | B2B2B4 | B2A2 A2"_#"G2 | A2A2A4 :|2 c2B2 e2B2 | B2A2 e2A2 | "_#"GAB2 dcB2 | A2A2 A2"_>Teil A"z2 || [K:Gmaj]
+|: d4 g3"_c"c | e2d2B4 | d"_c"cA2 dcA2 | dBG2 dBG2 | d4 g3e | e2d2B4 | dc"_c"A2 dcA2 | G2G2 G2z2 :|
+W:Parts: ABAC
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 7, 2016

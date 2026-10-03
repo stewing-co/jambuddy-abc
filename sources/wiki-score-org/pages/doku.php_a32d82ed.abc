@@ -1,0 +1,24 @@
+X:909
+T:Aria Emirena
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 9 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 9 )]
+%------
+[Q:"Andante"] z// |ezfz|(e/>d/) !fermata!d z2 || \
+[Q:"Allegro"] z(def)|z(efg)|z(def)| e4 |a4 |b4 | c'zz2 | c'zz2 | g4 | g4 | \
+a4 | a4 | gzg3/2e/ | fd'/c'/ (b/a/g/f/) | fzf3/2^d/ | ec'/b/ (c'/b/a/g/) | f2 f2 | d/z/ d/z/ d z || \
+[Q:"Adagio"]  z4 | !fermata! z4 || \
+[Q:"Allegro"] z (d e f) | z (e f g) | z (d e f) | \
+e4 | z4 | e4 | d4 | c4 | c z z2 | g d'2 a | g z z2 | (^f4 | ^f) z z2 | (g2 g3/2) ^f/ | \
+g z3 | ^f f f z | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | g4 | ^f4 | g2 ^f2 | g3 g | \
+a/^g/a/g/ a2 | g2 ^f f | g b g z | z4 | z/ g/g/g/ g z1 | c z z2 | Z12 | z3/4 _e//e3/4e// e !fermata! z || \
+[Q:"Adagio"] z3/4 f//f3/4f// f !fermata! z | z3/4 _e//e3/4e// e !fermata! z | ^f !fermata! z z2 || \
+[Q:"Tempo di Prima"] g2 g3/2 e1/2 | f d'1/2c'1/2 b1/2a1/2g1/2f1/2 | f z f3/2 ^c1/2 | e c'1/2b1/2 c'1/2g1/2f1/2e1/2 | \
+d c'bc' | b g g z | z4 | z4 | z4 | z efg | z4 | e4- | e4 | f4 | g4 | f4 | f z z c | B1/2g1/2g1/2g1/2 g z | z4 | z4 | \
+z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | e4 | d4 | g z z2 | z4 | z4 | z z1/2 g1/2 g1/2f1/2e1/2d1/2 | \
+c z z2 | c z z2 | g4 | g2 a2 | g e3/4g1/4 f e3/4d1/4 | c c c z |] \
+%------

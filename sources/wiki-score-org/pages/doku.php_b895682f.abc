@@ -1,0 +1,20 @@
+X:103
+T:Panis Angelicus
+C:Frei Manuel Cardoso
+M:C|
+L:1/4
+K:F
+V: 3 clef=tenor name="Tenor" sname="T."
+%%MIDI program 1 1
+%%staves [ 3 ]
+[K: alto]F,2 -B,2|G, C =B,2-|C3 C|F, F D3/2 C/ | B,/A,/ B, F,2 | A,2 D3/2 D/ | C4 | F,2 B,B, |
+w:Pa--nis An-ge--li-cus fit pa ----nis ho--mi-num dat pa-nis
+%
+[V:3] C2 F,2 | G,2 D2 | z D E E | F3/2 F/ B, G, | D3/2 C/ B, F, | B,3/2 B,/ C2 | z2 z F,| G, G, D3/2 C/|
+w:cae--li-tus dat pa-nis cae-li-tus dat pa --nis cae-li-tus fi-gu-ris ter -
+%
+[V:3]=B, C D2- |D2 z D | D2 E F- | F/F/ F E F- |F/E/D/C/ =B, C | G, _E D2 -| D2 z G |F3/2 E/ D ^C |
+w:- mi num ~ O Rex mi-ra - bi-lis man-du - - -  - - cat Do-mi-num ~ O Rex ~ ~ mi-
+%
+[V:3]D3/2 D/ C F, |F, G, A,2- | G,3/2 G,/ F,2 | B,2 G, C|C D D C/B,/ |  C3 C | F,4 |]
+w:ra-bi-lis man-du-cat Do - mi-num pau-per ser-vus et hu --- mi-lis.

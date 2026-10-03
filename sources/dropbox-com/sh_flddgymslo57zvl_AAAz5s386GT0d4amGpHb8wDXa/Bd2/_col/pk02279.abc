@@ -1,0 +1,77 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Bünder Polka FBb (pk02279)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.331 (pk02279) orig. F,Bb
+T: Bündner und Engadiner Tänze. S.330-349. Überliefert durch Giacomin Morell, Ardez.
+O:Switzerland
+%%MIDI program 21
+%%partsbox
+P:ABAC
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+((3c=Bc) [P:A] |: "C7"d2E2 E2((3c=Bc) | "F"f2F2 F2EF | "C7"G2GA B2c2 | "F"d4 c2((3c=Bc) | "C7"d2E2 E2((3c=Bc) | "F"f2F2 F2EF | 
+"C7"G2C2 E3G |1 "F"F2FF F2((3c=Bc) :|2 "F"F2FF F2((3FBd) [P:B] |: [K:Bb] "Bb"f6 ((3dBd) | F6 ((3dcB)  | "F7"Acc2 c3e | BdBG F2((3FBd) | 
+f6 ((3dBd) | F6 ((3dcB) | "F7"Acc2 c2dc |1 "Bb"B2B2 B2((3FBd) :|2 "Bb"B2B2 B2((3c=B"_>Teil A"c) [P:C] |: "Bb"F4B3d | 
+f6B2 | "F7"A2c2 f3e | "Bb"d4B4 | "Gm"B6AB | "C7"G6G2 | "F"F2FF "C7"F=EDF | "F"F2FF F2"_d.C."z2  :| 
+% pk02279  
+% Nov 5, 2016
+
+X:2
+T:Bünder Polka CF 5- (pk02279)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.331 (pk02279) orig. F,Bb
+S:Bündner und Engadiner Tänze. S.330-349. Überliefert durch Giacomin Morell, Ardez.
+O:Switzerland
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+((3G^FG) |: "G7"A2B,2 B,2((3G^FG) | "C"c2C2 C2B,C | "G7"D2DE F2G2 | "C"A4 G2((3G^FG) | "G7"A2B,2 B,2((3G^FG) | "C"c2C2 C2B,C | 
+"G7"D2G,2 B,3D |1 "C"C2CC C2((3G^FG) :|2 "C"C2CC C2((3CFA) |: [K:F] "F"c6 ((3AFA) | C6 ((3AGF) | "C7"EGG2 G3B | FAFD C2((3CFA) | 
+c6 ((3AFA) | C6 ((3AGF) | "C7"EGG2 G2AG |1 "F"F2F2 F2((3CFA) :|2 "F"F2F2 F2((3G^F"_>Teil A"G) |: "F"C4F3A | 
+c6F2 | "C7"E2G2 c3B | "F"A4F4 | "Dm"F6EF | "G7"D6D2 | "C"C2CC "G7"C=B,A,C | "C"C2CC C2"_d.C."z2 :| 
+W:Parts: ABAC-A...
+% pk02279  
+% Nov 5, 2016
+
+X:3
+T:Bünder Polka CF 7+ (pk02279)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.331 (pk02279) orig. F,Bb
+S:Bündner und Engadiner Tänze. S.330-349. Überliefert durch Giacomin Morell, Ardez.
+O:Switzerland
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+((3g^fg) |: "G7"a2B2 B2((3g^fg) | "C"c'2c2 c2Bc | "G7"d2de f2g2 | "C"a4 g2((3g^fg) | "G7"a2B2 B2((3g^fg) | "C"c'2c2 c2Bc | 
+"G7"d2G2 B3d |1 "C"c2cc c2((3g^fg) :|2 "C"c2cc c2((3cfa) |: [K:F] "F"c'6 ((3afa) | c6 ((3agf) | "C7"egg2 g3b | fafd c2((3cfa) | 
+c'6 ((3afa) | c6 ((3agf) | "C7"egg2 g2ag |1 "F"f2f2 f2((3cfa) :|2 "F"f2f2 f2((3g^f"_>Teil A"g) |: "F"c4f3a | 
+c'6f2 | "C7"e2g2 c'3b | "F"a4f4 | "Dm"f6ef | "G7"d6d2 | "C"c2cc "G7"c=BAc | "C"c2cc c2"_d.C."z2 :| 
+W:Parts: ABAC-A...
+% pk02279  
+% Nov 5, 2016
+
+X:4
+T:Bünder Polka GC  2+ (pk02279)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.331 (pk02279) orig. F,Bb
+S:Bündner und Engadiner Tänze. S.330-349. Überliefert durch Giacomin Morell, Ardez.
+O:Switzerland
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+((3d^cd) |: "D7"e2F2 F2((3d^cd) | "G"g2G2 G2FG | "D7"A2AB c2d2 | "G"e4 d2((3d^cd) | "D7"e2F2 F2((3d^cd) | "G"g2G2 G2FG | 
+"D7"A2D2 F3A |1 "G"G2GG G2((3d^cd) :|2 "G"G2GG G2((3Gce) |: [K:C] "C"g6 ((3ece) | G6 ((3edc) | "G7"Bdd2 d3f | cecA G2((3Gce) | 
+g6 ((3ece) | G6 ((3edc) | "G7"Bdd2 d2ed |1 "C"c2c2 c2((3Gce) :|2 "C"c2c2 c2((3d^c"_>Teil A"d) |: "C"G4c3e | 
+g6c2 | "G7"B2d2 g3f | "C"e4c4 | "Am"c6Bc | "D7"A6A2 | "G"G2GG "D7"G^FEG | "G"G2GG G2"_d.C."z2 :| 
+W:Parts: ABAC-A...
+% pk02279  
+% Nov 5, 2016
+

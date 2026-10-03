@@ -1,0 +1,18 @@
+X:403
+T:N.4 Duo de Josepha e Ambrosio
+C:Fonseca, Eduardo da (1863-1938)
+M:3/4
+L:1/4
+K:D
+V: 3 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 3 }]
+%---
+[Q:"Andante"] (AFG|F2)!fermata!z || A,2 (G,/C/) | (ED2) | z(.[B,D].[B,D]) | z(.[A,D].[A,D]) | \
+zA,A, | zB,B, | z((CD)|C)!/!A,2 || A,2z | (G,/A,/D2) | z [B,D] (B,/C/| ^A,2)C | ^D2B, | B,3 | \
+(B,DC|D)Dz || \
+[Q:"Piu animato"][K:G] z[B,D]z |  z[A,D][A,D] | z[CD][CD] | z[B,D][B,D] |  z[B,D]z | z[A,F][A,F] | z[A,G][A,G] | \
+[A,F]DD || z[B,D]z | z[A,F][A,F] | z[CD][CD] | z[B,D][B,D] | z[B,E][B,E] | \
+z[CE][CE] | "_pizz." "^rit." E/z/ D/z/ [CD]/z/ | [B,D]/z/ "_arco" [B,G]/z/ z || \
+[Q:"I tempo"][K:D] A,2 G,/A,/ | G,/A,/D2 | z B, (B,/C/) | ^A,2C | ^D2B, | zB,B, | B,DC | D [Fd] z |] \
+%---

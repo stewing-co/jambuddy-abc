@@ -1,0 +1,62 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka  CG (pk06842)  ABAC
+T:Hanny Christen. Bd.V  Basel II, Jura. S.25  (pk06842) orig. F,C
+T: Basel II. Tänze aus Augst. S.6-42.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+%%partsbox
+P:ABAC
+R:Polka
+M:2/4
+L:1/8
+K:C  %%MIDI gchordon
+[P:A] {g}"C"c'e e>a | "Dm"gf f>a | "G7"gd' d'>a | "C"g/e/g/a/ e>g | {/g}c'e e>a | "Dm"gf f>A' | "G7"bg d'>b | "C"c'c' c'z :| [P:B] [K:G] 
+|: "G"b{/b}d'  g{/g}b | "D7"afd'2 | d'{/d'}f d'{/d'}f  | "G"d'/b/g/a/ b2 | b{/b}d'  g{/g}b | "D7"afd'2 | fd/f/ a>f | 
+"G"gg g"_>Teil A"z :: [P:C] "G"GB d>e | (d2d/)G/B/d/ | ed g>a  | ("D7"g2.f2) | ff f>A | (d2d/)d/f/a/ | d'e' d'>g | 
+"G"b2gG | GB d>e | (d2d/)G/B/d/ | ed g>a  | ("D7"g2.f2)  | f/f/f e/e/e | d/d/d c/c/c | e/e/e da | "G"g"D7"f "G"gz :|  
+W:
+W:Anmerkung H.C.: Oberdorf 2
+% pk06842
+% Dec 4, 2017
+
+X:2
+T:Polka  CG (pk06842)  
+S:Hanny Christen. Bd.V  Basel II, Jura. S.25  (pk06842) orig. F,C
+S: Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:C  %%MIDI gchordon
+{g}"C"c'e e>a | "Dm"gf f>a | "G7"gd' d'>a | "C"g/e/g/a/ e>g | {/g}c'e e>a | "Dm"gf f>A' | "G7"bg d'>b | "C"c'c' c'z :| [K:G] 
+|: "G"b{/b}d'  g{/g}b | "D7"afd'2 | d'{/d'}f d'{/d'}f  | "G"d'/b/g/a/ b2 | b{/b}d'  g{/g}b | "D7"afd'2 | fd/f/ a>f | 
+"G"gg g"_>Teil A"z :: "G"GB d>e | (d2d/)G/B/d/ | ed g>a  | ("D7"g2.f2) | ff f>A | (d2d/)d/f/a/ | d'e' d'>g | 
+"G"b2gG | GB d>e | (d2d/)G/B/d/ | ed g>a  | ("D7"g2.f2)  | f/f/f e/e/e | d/d/d c/c/c | e/e/e da | "G"g"D7"f "G"gz :|  
+W:Parts: ABAC
+%W:Anmerkung H.C.: Oberdorf 2
+% pk06842
+% Dec 4, 2017
+
+X:3
+T:Polka  FC 7- (pk06842)  
+S:Hanny Christen. Bd.V  Basel II, Jura. S.25  (pk06842) orig. F,C
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+{c}"F"fA A>d | "Gm"cB B>d | "C7"cg g>d | "F"c/2A/2c/2d/2 A>c | {/c}fA A>d | "Gm"cB B>d | "C7"ec g>e | "F"ff fz :| [K:Cmaj] 
+|: "C"e{/e}g c{/c}e | "G7"dBg2 | g{/g}B g{/g}B | "C"g/2e/2c/2d/2 e2 | e{/e}g c{/c}e | "G7"dBg2 | BG/2B/2 d>B | 
+"C"cc c"_>Teil A"z :: "C"CE G>A | (G2G/2)C/2E/2G/2 | AG c>d | ("G7"c2.B2) | BB B>D | (G2G/2)G/2B/2d/2 | ga g>c | 
+"C"e2cC | CE G>A | (G2G/2)C/2E/2G/2 | AG c>d | ("G7"c2.B2) | B/2B/2B A/2A/2A | G/2G/2G F/2F/2F | A/2A/2A Gd | "C"c"G7"B "C"cz :| 
+W:Parts: ABAC
+%W:Anmerkung H.C.: Oberdorf 2
+% pk06842
+% Dec 4, 2017

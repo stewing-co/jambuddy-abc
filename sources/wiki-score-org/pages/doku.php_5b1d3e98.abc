@@ -1,0 +1,28 @@
+X:105
+T:Andante
+C:Joao de Sousa Carvalho (1745-1798)
+M:3/8
+L:1/8
+K:F
+V: 5 clef=treble name="Violini I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 5 }]
+%------
+[Q:"Andante a comodo"] !f! (C//D///E///) | F>>FA/>c/ | E>>EG/>c/ | \
+.D !p!(BA) | (A/G/^F/G/D/G/) | =FEz/ !f! (C//D///E///) | \
+F>>FA/>c/ | _E>>EA/>c/ | !p!D (cB- |B/^G/A/E/F/^C/) |  (D/d/.B/).G/.E/.c/  |  F2 z  | \
+z .a.g | z .f.c | z .c'.b| z.a.f| z.f.^f| g z .g/.b/ | d' z .e| \
+.f.a.c'| (e3 | .f).a.c'| (e3 | .f).a.c'| z f.^f| g z .g/.b/ | d' z .e | \
+f zz/ !f! (C//D///E///) | F>>FA/>c/ | E>>EG/>c/ | \
+.D !p!(BA) | (A/G/^F/G/D/G/) | =FE z/ !f! (C//D///E///) | F>>FA/>c/ | E>>EG/>c/ | \
+!p!D (BA- |A/G/^F/G/D/G/) | z (E//F//)G//G// E | z3  | \
+!p!zz/(G/F/E/) | z/D/D/D/D/D/ | z (E//F//)G//G// E | z3 | zz/(G/F/E/) | \
+z/D/D/D/D/D/ | z//(E//!sfz!F//G//) !p!Ez | z//(F//!sfz!G//A//) !p!Fz | z//G//!sfz!A//_B// !p!Gz  | \
+z/A/ z/A/ z/d/ | z/=B/ z/B/ z/d/ | z/EG^G/ | z/A/ z/A/ z/A/ | z/D/"_cresc."D/D/D/!f!D/ | \
+Ezz| z/!p!D/D/D/D/D/ | Cz!fermata!z | z .a.g | z .f.c | z .c'.b | \
+z.a.f | z.f.^f | g z .g/.b/ | d' z .e | .f.a.c' | !sfz!!p!_e3 | d .b.d' | \
+!sfz!!p!(=e3 | .f).a.c' | !sfz!!p!(_e3 | .d).b.d' | !sfz!!p!=e3 | \
+z/fff/- | f/AAA/ | z/A/ z/A/ z/A/ | z/G/ z/G/ z/G/ | z/G/ z/G/ z/G/ | z/G/ z/G/ z/G/ | \
+z/(c/!sfz!e/g/!p!b/^g/) | z/(a/f/c/A/F/) | \
+z/(c/!sfz!e/g/!p!b/^g/) | z/(a/f/c/A/F/) | z/.E/.G/.c/.e/.g/ | E zz/ !f! (C//D///E///) || "^[Allegro ; follows]"  X|\
+%------

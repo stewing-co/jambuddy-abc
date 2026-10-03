@@ -1,0 +1,33 @@
+% demo-percussions.abc         -*- abc -*-
+
+%%abc-include percussions.abh
+
+X: 1
+M: none
+T: Sibelius Drum Legend
+T: https://en.wikipedia.org/wiki/Percussion_notation
+L: 1/4
+V: 1 clef=perc
+K: C
+%
+[V:1 clef=perc]     % activate abc2xml.py map
+%%voicemap drummap  % activate abcm2ps/abc2svg map
+%%MIDI channel 10   % activate abc2midi map
+%
+   D        E          F          G          A             |
+w: pedal    bass       acoustic   low\-floor high\-floor 
+w: hi\-hat  drum~1     bass~drum  tom\-tom   tom\-tom 
+%
+   B        ^B         c          _c         ^c            |
+w: low      tambourine acoustic   electric   low
+w: tom\-tom *          snare      snare      wood~block
+%
+   =c       d          ^d         e          ^e            |
+w: side     low\-mid   high       high\-mid  cowbell
+w: stick    tom\-tom   wood~block tom\-tom   *
+%
+   f        ^f         g          ^g         a        ^a   |
+w: high     ride       closed     open       crash    open
+w: tom\-tom cymbal~1   hi\-hat    hi\-hat    cymbal~1 triangle
+
+% end of file demo-percussions.abc

@@ -1,0 +1,33 @@
+X:107
+T:Andante
+C:Joao de Sousa Carvalho (1745-1798)
+M:3/8
+L:1/8
+K:F
+V: 7 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 7 ]
+%------
+"_NB: next 15 bars marked [B:] in the ms" [Q:"Andante a comodo"] \
+!f!(C/4D/8E/8) | F>>FA/2>c/2 | E>>EG/2>c/2 | (D2C|B,2=B,)| .C.C z/2!f!(C/4D/8E/8) |\
+F>>FA/2>c/2 | _E>>EA/2>c/2 | D3 | =EFA, | B,2.C | F2z | F,2z | F2z| F,2z| F2z | \
+D3- | D.B,.G, | zCC | (F,/A,/F,/A,/F,/A,/) | \
+G,3 | (F,/A,/F,/A,/F,/A,/) | G,3| (F,/A,/F,/A,/F,/A,/) | D3-|D.B,.G,| B,CC |\
+"_NB: 13 bars marked [B:] in the ms"
+F,z3/2 !f!(C/4D/8E/8) | F>>FA/2>c/2 | E>>EG/2>c/2 | !p!(D2C | B,2)=B,|CC z/2!f!(C/4D/8E/8) | \
+%--"_[fol. 4b]"
+F>>FA/2>c/2 | E>>EG/2>c/2 | D2!p!C|B,2=B,| CC,z | C2z | \
+%-- "_[fol. 5a]"
+G,2z | z/G,/G,/G,/G,/G,/ | C2z | "_NB: 2 bars marked [B:] in the ms" C2z | G,2 z|  \
+z/G,/G,/G,/G,/G,/ | \
+"_NB: 7 bars marked [B:] in the ms" !sfz! C2z | !sfz! C2z | !sfz! C2z | \
+%--"_[fol. 6a]"
+^CCD|G,G,=B,| CCE | FFF | z/A,/A,/A,/A,/A,/ | G,zz | \
+"_NB: 6 bars marked [B:] in the ms" !p!G,G,G,| C2!fermata!z|F2z|F,2z|F2z| \
+%--"_[fol. 7a]"
+F,2z | D3- | D.B,.G, | B,CC | (F,/A,/F,/A,/F,/A,/) | A,3 | (B,/D/B,/D/B,/D/) | G,3 | \
+(F,/A,/F,/A,/F,/A,/) | A,3 | \
+(B,/D/B,/D/B,/D/) | G,3 | .A,.C.F | "_NB: 2 bars marked [B:] in the ms" DFD | \
+.A,.C.F | .A,.D.A, | D3 | D3 | "_NB: 6 bars marked [B:] in the ms" !sfz!C2!p!C | CCC | \
+!sfz!C2!p!C | CCC | C2C | C zz/ !f! (C,//D,///E,///) || "_[Allegro;follows]"  X | \
+%------

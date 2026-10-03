@@ -1,0 +1,37 @@
+X:409
+T:N.4 Duo de Josepha e Ambrosio
+C:Fonseca, Eduardo da (1863-1938)
+M:3/4
+L:1/4
+K:D
+V: 9 clef=treble name="Ambrosio" sname="Amb."
+%%MIDI program 1 1
+%%staves [[ 9 ]]
+%--------------------------
+[L:1/8][Q:"Andante"] \
+Z | z4 !fermata!z2 || "^Amoroso" F A F D E F | E2 D4 | \
+w: Nem tu sa-bes mi-nha Z\'e-fa
+B, D G F G E | F6 | \
+w: Como eu te ten-ho a-mor
+A E E ^D E F | E2 D4 | \
+w: A-mo-te mais, mui-to ma-is
+C D E F ^G E  | A4z2 || \
+w: Do que'ao meu q'ri-do tam-bor
+Z8 || \
+[Q:"Piu animato"][K:G] D> D D> D G> A | F2 c4 | \
+w: Se me fu-gis-ses um di-a
+c> B A> ^G A> ^A | B2G4 | \
+w: ti-nha da-nas, mi-nha'a-ma-da
+D> D D> D G> E | (F2 A4) | \
+w: De dar tan-to no tam-bo-or
+A> B A> G F> E | F2 D4 || \
+w: 't\'e por-lhe'a pel-le'ar-rom-ba-da
+Z8 || \
+[K:D][Q:"I tempo"]"_A duo" \
+F A F D E F | (E2 D4) | \
+w: Por is-so n\~ao fa-\ccas ta-al
+B, D G F G E | F4 z2 | \
+w: N\~ao me dei-xes meu a-mor
+Z2 | E G F D E C | D z z2 z2 |] \
+w: Co-mo n\~ao dei-xo'o tam-bor.
+%-----------------------

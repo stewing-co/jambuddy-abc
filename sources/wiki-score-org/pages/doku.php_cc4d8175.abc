@@ -1,0 +1,15 @@
+X:2414
+T:[Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:Eb
+V: 14 clef=bass name="[Basso]" sname="B."
+%%MIDI program 1 42
+%%staves [ 14 ]
+%-----------------------
+"_[fol. 259]" [Q:"Presto"] !/!E,2E,z | !/!C,2C,z | z/B,/F,/D,/B,, z | z/>D,/D,z2 | E,2 !fermata! z2 ||\
+"_[fol. 260]" [Q:"Andante"] [K:C] G,zG,,z | C,zC,z | F,z G,/z/ G,,/z/ | C,zz2 | z F,/z/ G,/z/ G,,/z/ | C,z A,,2 |
+"_[fol. 261]" [Q:"Presto"] !/! G,4 | G, zz2 | Z | !/! C,2C,z | \
+"_[fol. 262]" F,2F,z | zG,C, "_aria ; Euridice" z ||
+%-----------------------

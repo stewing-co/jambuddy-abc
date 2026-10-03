@@ -1,0 +1,27 @@
+X:109
+T:Andante
+C:Joao de Sousa Carvalho (1745-1798)
+M:3/8
+L:1/8
+K:F
+V: 9 clef=bass name="Basso" sname="B."
+%%MIDI program 1 43
+%%staves [ 9 ]
+%--------------------------------
+[Q:"Andante a comodo"] \
+"_[fol. 2a]"!f!(C,//D,///E,///) | F,>>F,A,/>C/ |  E,>>E,G,/>C/ | (D,2C,|B,,2=B,,)| .C,.C, z/!f!(C,//D,///E,///) | \
+"_[fol. 2b]" F,>>F,A,/>C/ | _E,>>E,A,/>C/ | D,3 | =E,F,A,, | B,,2.C, | F,2z | F,,2z | \
+"_[fol. 3a]" F,2z| F,,2z|  F,2z | D, z C,| B,,2G,, |  z C,C,| F,,2z | \
+"_[fol. 3b]" F,,3|F,,2z| F,,3| F,,2z| D, z C,| B,,2G,,| zC,C,| \
+"_[fol. 4a]" F,,z3/2 !f!(C,//D,///E,///) | F,>>F,A,/>C/ | E,>>E,G,/>C/ | !p!(D,2C, | B,,2)=B,,|C,C, z/!f!(C,//D,///E,///) | \
+"_[fol. 4b]" F,>>F,A,/>C/ | E,>>E,G,/>C/ | D,2!p!C,|B,,2=B,,| C,C,,z | C,2z | \
+"_[fol. 5a]" G,,2z |G,,2z|C,2z|C,2z|G,,2z| \
+"_[fol. 5b]" G,,2z | !sfz! C,2z | !sfz! C,2z | !sfz! C,2z | \
+"_[fol. 6a]" ^C,C,D,|G,,G,,=B,,|C,C,E,|F,F,F,| "_cresc" z/^F,/F,/F,/F,/!f!F,/| \
+"_[fol. 6b]" G,zz  | !p!G,,G,,G,,| C,2!fermata!z|F,2z|F,,2z|F,2z| \
+"_[fol. 7a]" F,,2z | D, z C,| B,,2G,,| zC,C,| F,,2z| !sfz!!p!F,,3- |  \
+"_[fol. 7b]" F,,2z | !sfz!!p!F,,3 | F,,2z | !sfz!!p!F,,3- | F,,2!sfz!!p!z | F,,3 | \
+"_[fol. 8a]" .F,.A,.F, | D,F,D, | .A,,.C,.F, | .B,,.D,.G, | .=B,,.D,.G, | .=B,,.D,.G, | \
+"_[fol. 8b]" !sfz!C,2!p!C, | C,C,C, | !sfz!C,2!p!C, | C,C,C, | C,2C, | C,  zz/ !f! (C,//D,///E,///) \
+|| "_[Allegro;follows]"  X | \
+%------

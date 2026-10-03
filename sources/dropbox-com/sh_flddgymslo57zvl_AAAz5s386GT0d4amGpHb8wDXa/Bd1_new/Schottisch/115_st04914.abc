@@ -1,0 +1,59 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Jetz wemmer go (Schottisch) GDC chords Parts
+% Now let's go (lit. 'Now want we go')
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.346 (st04905) orig. G,D,C-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+P:ABAC
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+d  [P:A] |: "G"bb "D7"aa | "G"gg d>e | "D7"ff e>f | "G"gg dd/g/ | bb "D7"aa | "G"gg d>e | 
+"D7"ff e>f |1 "G"gg gd :|2 "G"gg gd/f/ |: [P:B] [K:D] "D"a>b a^g | af f>b | "A7"ae e>g | "D"fd dd/f/ | 
+a>b a^g | af f>b | "A7"ae e/g/f/e/ |1 "D"dd dd/f/ :|2 "D"dd d"_>Teil A"z |: [P:C] [K:C]  "C"e>^d e>d | 
+eag2 | "G7"gf f/e/f | "C"ag g/^f/g | e>^d e>d | eag2 |1 "G"b>b "D7"a>a | "G7".g2 !>!>f2 :|2 "G7"b>a g/f/e/d/ | "C"cc cz |] 
+
+X:2
+T: Jetz wemmer go (Schottisch) GDC chords
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+d  |: "G"bb "D7"aa | "G"gg d>e | "D7"ff e>f | "G"gg dd/g/ | bb "D7"aa | "G"gg d>e | 
+"D7"ff e>f |1 "G"gg gd :|2 "G"gg gd/f/ |: [K:D] "D"a>b a^g | af f>b | "A7"ae e>g | "D"fd dd/f/ | 
+a>b a^g | af f>b | "A7"ae e/g/f/e/ |1 "D"dd dd/f/ :|2 "D"dd d"_>Teil A"z |: [K:C]  "C"e>^d e>d | 
+eag2 | "G7"gf f/e/f | "C"ag g/^f/g | e>^d e>d | eag2 |1 "G"b>b "D7"a>a | "G7".g2 !>!>f2 :|2 "G7"b>a g/f/e/d/ | "C"cc cz |] 
+
+X:3
+T:Jetz wemmer go (Schottisch) CGF 7- chords Parts
+P:ABAC
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G [P:A] |: "C"ee "G7"dd | "C"cc G>A | "G7"BB A>B | "C"cc GG/2c/2 | ee "G7"dd | "C"cc G>A | 
+"G7"BB A>B |1 "C"cc cG :|2 "C"cc cG/2B/2 |: [P:B] [K:Gmaj] "G"d>e d^c | dB B>e | "D7"dA A>c | "G"BG GG/2B/2 | 
+d>e d^c | dB B>e | "D7"dA A/2c/2B/2A/2 |1 "G"GG GG/2B/2 :|2 "G"GG G"_>Teil A"z |: [P:C] [K:Fmaj] "F"A>^G A>G | 
+Adc2 | "C7"cB B/2A/2B | "F"dc c/2=B/2c | A>^G A>G | Adc2 |1 "C"e>e "G7"d>d | "C7".c2 !>!>B2 :|2 "C7"e>d c/2B/2A/2G/2 | "F"FF Fz |] 
+
+X:4
+T:Jetz wemmer go (Schottisch) CGF 7- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G |: "C"ee "G7"dd | "C"cc G>A | "G7"BB A>B | "C"cc GG/2c/2 | ee "G7"dd | "C"cc G>A | 
+"G7"BB A>B |1 "C"cc cG :|2 "C"cc cG/2B/2 |: [K:Gmaj] "G"d>e d^c | dB B>e | "D7"dA A>c | "G"BG GG/2B/2 | 
+d>e d^c | dB B>e | "D7"dA A/2c/2B/2A/2 |1 "G"GG GG/2B/2 :|2 "G"GG G"_>Teil A"z |: [K:Fmaj] "F"A>^G A>G | 
+Adc2 | "C7"cB B/2A/2B | "F"dc c/2=B/2c | A>^G A>G | Adc2 |1 "C"e>e "G7"d>d | "C7".c2 !>!>B2 :|2 "C7"e>d c/2B/2A/2G/2 | "F"FF Fz |] 
+
+X:3
+T:Jetz wemmer go (Schottisch) EbBbAb (5letras) CGF Parts
+P:ABAC
+M:2/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+B [P:A] |: "Eb"gg "Bb7"ff | "Eb"ee B>c | "Bb7"dd c>d | "Eb"ee BB/2e/2 | gg "Bb7"ff | "Eb"ee B>c | 
+"Bb7"dd c>d |1 "Eb"ee eB :|2 "Eb"ee eB/2d/2 |: [P:B] [K:Bbmaj] "Bb"f>g f=e | fd d>g | "F7"fc c>e | "Bb"dB BB/2d/2 | 
+f>g f=e | fd d>g | "F7"fc c/2e/2d/2c/2 |1 "Bb"BB BB/2d/2 :|2 "Bb"BB B"_>Teil A"z |: [P:C] [K:Abmaj] "Ab"c>=B c>B | 
+cfe2 | "Eb7"ed d/2c/2d | "Ab"fe e/2=d/2e | c>=B c>B | cfe2 |1 "Eb"g>g "Bb7"f>f | "Eb7".e2 !>!>d2 :|2 "Eb7"g>f e/2d/2c/2B/2 | "Ab"AA Az |] 
+

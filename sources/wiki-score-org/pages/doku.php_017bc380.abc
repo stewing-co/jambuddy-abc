@@ -1,0 +1,17 @@
+X:202
+T:O Magnum Misterium
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 2 clef=alto1 name="Violim" sname="Vl."
+%%MIDI program 1 40
+%%staves [ 2 ]
+%------------
+Z19 !segno!|| [M:3/2] Z15 !fine!|] \
+[M:2/2] B2|Bd|e>d|ce| e2-|e2| ez|z/E/> E/  ^F/ | G//F//G//A//B//A//G//F// | \
+E//D//E//F//G//F//E//D// | C/cc/ | d/ed/-|d//c//B//A// G | z/GA/ | Bc | B2 | c/A/> A/G//F// | \
+E/ e/>e/d//c// | B/ G/>G/F//E// | D/ B/>B/ ^c/ | dd | ^c =c- | c/c/ B | AB|A2|Bc-|c/ c/A | \
+A2|ze|e2| z/e/>e/d//c// | B/ E/> E/ ^F/ | G/ c/>c/c/ | B/B/>B/^c/ | dd| ^c2| z c/c/ | A/>A/ G/G/ | AA| \
+B/de/| z/AG/ | z/FE/ | z/d^c/ | z/A/>A/A/ | G/G/ F/>F/ | E/>E/ D/>D/ | Cc|B2- | !fermata!B2 !segno! |]\
+%------------

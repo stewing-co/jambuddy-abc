@@ -1,0 +1,179 @@
+%%topmargin .5in
+%%leftmargin .75in
+%%staffwidth 6.5in
+%%gchordfont Helvetica 14
+%%footer SPUDs Tune Swap #8 - Modal Tunes August 27, 2020
+%%
+%%
+
+X:0
+T:SPUDS Tune Swap #8 
+T:Modal Tunes August 27, 2020
+K:
+%%text
+%%text 
+%%text 1. Cold Frosty Morning  [Am] Craig  
+%%text 2. Four Potatoes  [Gmix] Judy K  
+%%text 3. Micky the Moulder  [Amix] Laura 
+%%text 4. Redhouse  [Am] Steve  
+%%text 5. Waltz of the Sugar Plum Freygish  [D Freyg]  Adlai  
+%%text 6. Twin Sisters  [G mix] Kathryn  
+%%text 7. Venosc  [Dmix] Sarah & Bill   
+%%text 8. Gundercuff  [Dmix] Sarah & Bill 
+%%text 9. Nancy's Waltz  [Amix] Sarah & Bill 
+%%text 10. Nez  [Edor] Sarah & Bill  
+%%newpage
+
+X:1
+T: Cold Frosty Morning I (Minor-Major)
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+"Am"EDEG A2 A2|ABcd e2 (3DEF|"G"G2BAG2D2|GABcd2D2|
+ "Am"EDEGA2A2|ABcde2ed|"Am"cBAc "G"BAG2|"Am"A3BA2D2 :|
+|:"A"e2a2a2a2|abag ed^cd|"G"edef gfgf|edBde2e2 |
+| "Am"A2A2c2c2|dcd2e2ed|"Am"cBAc "G"BAG2|1"Am"A3BA4:|2"Am"A8|]
+
+X:2
+T:Four Potatoes
+C:Larry Unger 
+M:6/8
+L:1/8
+K:Gmix
+D |:"G"G2G BAG | "F"ABc ABc |"G"B2G GDG| "F"F2D D2F|
+"G"G2G BAG | "F" ABc ABc |"G"dBG "F" cAF | "G"G2G G2z:|
+|:"F"f3 "C" e3 | "G"d2G GAB | "F" cAF FGA | "G" Bdc Bde|
+"F"f3 "C"e3 | "G" d2G GAB | "F" cBA GFD | "G" G2G G2z:|
+
+X:3
+T: Mickey the Moulder
+C: Newfoundland tune, learned from Aaron Collis and Emilia Bartellas
+M: 6/8
+R:jig
+L: 1/8
+K:D
+|: "A"E2F "Em"GEG|"D"FDF "A"E3|CEE EDE|A3 A3|
+E2F "Em"GEG|"D"FDF "A"E3|CEE EDC|A,3 A,3:|
+|:"D"FAA AFA|"G"BcB "Fm"AFA| "Em"BEE E3|"A"CEE EDE|
+"D"FAA AFA|"G"BcB "Fm"AFA| "Em"BEE EDC|"A"A,3 A,3:|
+W: sheet music on www.collisandtellas.com, chords added by LA
+
+X:4
+T:Red House
+Z:ssg
+M:2/2
+L:1/8
+K:Am
+|: "Am"A2a4gf | e4c4 | "G"B2g4fe | d2ed "(E7)"edcB \
+| "Am"A2a4gf | e4c4 | "Dm(G)"dcBA "E7"^GABc |1 "Am"c2A2 A4 :|1 "Am"c2A2 A2 ||
+|: cd | "Am"edcB ABcd | e4 c4 | "G"dcBA GABc | d4 B4 \
+| "Am"edcB ABcd | e4 c4 | "Dm"dcBA "E7"^GAB2 | "Am"c2A2 A2 :|
+|: cd \
+| "C"e2ee e2cd | e2e2 e2Bc | "G"d2dd d2Bc | d2d2 d2cd \
+| "C"e2ee e2cd | "Am"e2e2 e2Bc | "Dm"dcBA "E7"^GAB2 | "Am"c2A2 A2 :|
+
+X:5
+T: Waltz of the Sugar Plum Freygish
+C: Jonathan Dinkin
+D: Lily's Hora (Jonathan Dinkin and Klezmercuse)
+F: https://soundcloud.com/judy-schmid/16-waltz-of-the-sugar-plum
+Z:AW
+M:3/4
+L:1/4
+K:Dphr _B_e^f   % sharp F not part of D phrygian; explicit flat B,E experiment for concertina.net
+%%partsbox true
+P: A
+|: "D"A3/2B/ G/B/ | A3 | "Gm"B>AG | "D"^FED | "D"D3/2^F/ A/F/ | "Gm"G3/2B/ A/G/ | "D"dA2- | A2 ^F/G/ | 
+"D"A3 | "Gm"B>AG | "D"^F>G A/F/ | D2 D | "Cm"E>D C | GE^F |[1 "D"D3- | D3 :|[2 "D"D3- | D 
+P: B
+|:^FG | "D"AAA | A^F>G | A3- | AB>A | "Gm"G3- | G^c>d | "D"A3- | A \
+^FG |
+"D" AAA | cB>A | "Gm"G3- | G D>=E | "D"^F3- | "C7"F G>=E |[1 "D"D3- | D :|[2 "D"D3- | D^FA ||
+P: C 
+K: Bm
+"Bm"^A/c/ B B | B2B | "F#"B/c/ ^A2- | A (ed | "F#"c) (ed | c)d>e | "Bm"d3- | d D>F | 
+"G"B3- | BD>F | "F#m"A3- | AG>F | "Em7"E2E | "Em6"EcB | "F#"^A3 | "A7"=A3 || 
+K:C         % forces cancellation of previous signature
+%             (doesn't happen in EasyABC when new sig. has explicit accidentals)
+K:Dphr _B_e^f   % real key
+P: A'
+"D"A3/2B/ G/B/ | A3 | "Gm"B>AG | "D"^FED | "D"D3/2^F/ A/F/ | "Gm"G3/2B/ A/G/ | "D"dA2- | A2 ^F/G/ | 
+"D"A3 | "Gm"B>AG | "D"^F>G A/F/ | D2 D | "Cm"E>D C | GE^F |"D"^F3- | F3 |
+"D"a3/2b/2 g/2b/2 | a3 | "Gm"b>ag | "D"^fed | "D"d3/2^f/2 a/2f/2 | "Gm"g3/2b/2 a/2g/2 | "D"d'a2- | a2 ^f/2g/2 | 
+"D"a3 | "Gm"b>ag | "D"^f>g a/2f/2 | d2 "_rit."d | "Cm"e>d c | ge^f | "D"d3- | d3 |]
+
+X:6
+T:Twin Sisters
+O: Sidna Myers (Hillsville,Virginia, mid-1960s)
+Z:transcribed by KBarnhardt (from the playing of Allison DeGroot, FH 2019)
+Z: chords suggested by Sarah Gowan
+M:4/4
+L:1/8
+K:Gmix clef=treble
+|:"Gm"D2G2 GD CG|"F"D2E2 FD CG|"Gm"D2G2 GD CG|"F"FE DC "Gm"G,2 G,2:|
+|:"Gm"D2C2 "F"F,2F,2|DC A,C "Gm"G,2 A,2|D2C2 "F"F,2 F,2|DC A,C"Gm"G,2G,2:|
+T:(up an octave)
+O: Sidna Myers (Hillsville,Virginia, mid-1960s)
+Z:transcribed by KBarnhardt (from Allison DeGroot, FH, 2019)
+Z:chords suggested by Sarah Gowan
+M:4/4
+L:1/8
+K:G mix
+|:"Gm"d2g2 gd cg| "F"d2e2 fd cg|"Gm"d2g2 gd cg|"F"fe dc "Gm"G2 G2:|
+|:"Gm"d2c2 "F"F2 F2|dc Ac "Gm"G2 A2|d2c2 "F"F2 F2|dc Ac "Gm"G2 G2:|
+
+X:7
+T:Venosc
+M:4/4
+L:1/4
+K:G
+|:"D"F>E DE|F2 DA|"C"A>B cd|c>B AG|\
+"D"F>E DE|F2 DA|"C"A>B cd|A4:|
+|:"Bm"dB BA|"Am"cA AG|"G" B>A GF|G/2F/2G/2A/2 B/2A/2B/2c/2|\
+"Bm"dB BA|"Am"cA AG|"G"B>A GF|G4:|
+
+X:8
+T:Gundercuff.Jig
+C:© 2003 Bill Quern  
+M:6/8
+R:Jig
+L:1/8
+K:D
+|:"D"FAA BAA|"C"=cAA BAG|"D"FGA B=cd|"Am7"e=fe d=cA|
+"D"FAA BAA|"C"=cAA BAG|"D"FGA "C" B=cd|"Am7"e=fe "D"d3:|
+|:"D"fed "A"edc|"D"d3A2B|"C"=cBA BAG|"Am7"A2F D2E|
+"F"=F2F3A|=cBA cBA|"G"A2dd2c|d3d3:|
+
+
+X:9
+T:Nancy's Waltz
+M:3/4
+L:1/8
+C:Chris Romaine, 1980
+K:Amix
+AB||"A"c4 cd|"A7"e3 f g2|"D"f3 e d2|"A"c A3 AB|"A"c4 cd|"F#m"e c3 A2|
+"G"G3 A B2|"D"A4 AB|"A"c4 cd|e a3 a2|"D"f3 e d2|"A"c A3 EF|
+"G"G3 A B2|"Em"d B3 G2|"D"A4 AB|[1"A"A4 AB:|[2"A"A4 e2||"D"f3 e d2|
+"A"c A3 EF|"G"G3 A B2|"A"A4 e2|"D"f3 e d2|"A"c a3 e2|"G"g3 e "D/F#"d2|"E7"e4 ab|
+"A"c'3 b af|e c3 Bc|"D"d3 e f2|"A"e c3 EF|"G"G3 A B2|"Em"d B3 G2|"D"A4 AB|"A"A6|]
+
+X:10
+T:Nez (Em)
+C:Loïc Etienne
+N:(original key Fm)
+O:La Ficelle
+F:https://www.youtube.com/watch?v=ubBahTkOD9w
+Z:Adlai Waksman
+M:3/4
+L:1/8
+K:Edor
+cdc | "Em (A)"B3 c dc | "(G)"G3 c dc | "(Em)"E6- | E2EG FE | \
+GE FG FE | dc B^A Bc | B6- | B3 cdc | 
+"Em"B3 c dc | G3 c dc | E6- | E2EG FE | \
+"Em"GE FG FE | dc B^A Bd | e6- |e6 ||
+%%vskip 0.4in
+"Em"eB eg e2 | eB eg e2 | "Asus2"eB ea e2 | eB ea e2 | \
+"Em"eB eg e2 | eB eg e2 | "Bm"fe dc de | f6 | 
+"Em"eB eg e2 | eB eg e2 | "Asus2"eB ea e2 | eB ea e2 | \
+"Em"eB eg e2 | eB eg eB | "Bm"f2 dc B2- | B6 |] 

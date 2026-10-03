@@ -1,0 +1,171 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+
+Pien Notes and Cheating
+=======================
+
+Many Scottish tunes almost have gaps; that is, some the notes in the pitch
+set are used only in inconspicuous places in the tune, and if these were
+omitted, the tune would be in one of the standard hexatonic or pentatonic
+modes.  The usual term for such notes is PIEN (from ancient Chinese theory,
+adopted for Western musicology by Zoltan Kodaly).  This tune is pentatonic,
+apart from the pien f-sharps in the last line:
+
+X:0
+T:Sunset on the Somme
+C:Pipe Major George S. McLennan
+G:Retreat March
+M:3/4
+L:1/8
+Q:1/4=56
+K:AMix
+B<d e2 e2|d>e g2 g2|B<d e2  e2|d>B B4 |
+A>B e2 e2|d>e g2 a2|ge  g2- gB|BA  A4:|
+B<d e2 e2|d>B B2 A2|G>B d2- de|dB  d4 |
+e>f g2 g2|a>g e2 d2|e>f g2- gB|BA  A4:|
+
+This tune is a bit ambiguous, but seems to be centred on G, despite
+the ending on A.  It would be lydian/major/mixolydian pentatonic if
+it weren't for the inconspicuous F sharp in a descending run:
+
+X:0
+T:The Night We Had the Goats
+G:Reel
+B:The Athole Collection
+M:C|
+L:1/8
+Q:1/2=100
+K:G
+e|d>G   G/G/G dBBd|e/e/e g2 dBBe|dG       G/G/G dBBd|egdB A2A:|
+g|e/e/e g2    dBBd|e/e/e g2 dBg2|b/a/g/f/ g2    dBBd|egdB A2A:|
+
+Often these nearly-gapped tunes are the result of a historical process of
+gap-filling.  Either going back to an older version of the tune, or else
+imagining a retrograde evolution to a gapped scale even if there never was
+one, may make it playable on a diatonic instrument that otherwise couldn't
+do it.  In practice, Scottish players do this instinctively all the time.
+
+X:0
+T:Johnnie Cope
+G:march
+S:Allan: 110 Songs of Scotland without Words
+M:4/4
+L:1/8
+Q:1/2=72
+K:AMin
+EG|A2A2 A2Bd|e2A2 A2GE|\
+   G2G2 GABc|dedc B2AG|
+   c2c2 d3d |e2g2 B2AG|\
+   E2g2 edcB|A4   A2 ||
+AB|c2cc cGEG|cdef g2dc|\
+   B2AG d2G2|Bcde d2cB|
+   cBcd edea|gedc B2AG|\
+   E2g2 edcB|A4   A2 |]
+
+Like almost all Scottish tunes in the minor mode, the sixth occurs rarely
+and only in the middle of a scale run: the F is a pien note.  Suppose you
+haven't got an F natural on your instrument, but do have all the other
+notes (for example, a tin whistle in D or a G/D melodeon).  Nobody will
+notice if you play this instead:
+
+X:0
+T:Johnnie Cope (cheat's version)
+G:march
+M:C|
+L:1/8
+Q:1/2=72
+K:AMin
+EG|A2A2 A2Bd|e2A2 A2GE|\
+   G2G2 GABc|dedc B2AG|
+   c2c2 d3d |e2g2 B2AG|\
+   E2g2 edcB|A4   A2 ||
+AB|c2cc cGEG|c2e2 g2dc|\
+   B2AG d2G2|Bcde d2cB|
+   cBcd edea|gedc B2AG|\
+   E2g2 edcB|A4   A2 |]
+
+Or if all you've got is a diatonic mouth organ in A, you can still play
+some mixolydian tunes from the pipe repertoire.  It's unusual for the
+high g's to really matter; lengthening the preceding note will generally
+cover their absence.  (The low G's are usually non-negotiable).
+
+This also works in the many tunes using the full major scale, but where
+the seventh only occurs in descending scale runs.  Again, lengthening the
+previous note will shift the tune into the major/mixolydian hexatonic and
+make it playable on more instruments.
+
+X:0
+T:The Stool of Repentance
+G:jig
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+g2d B2d|gfe dcB|gee e2d|ege e2d |
+g2d B2d|gfe dcB|c2d e2d|egB A2G:|
+BGG dGG|BGG dcB|cAA eAA|cAA edc |
+BGG dGG|BGG dcB|c2d e2d|egB A2G:|
+
+X:0
+T:The Stool of Repentance (cheat's version)
+G:jig
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+% tweaked to remove the f's
+g2d B2d|g2e dcB|gee e2d|ege e2d |
+g2d B2d|g2e dcB|c2d e2d|egB A2G:|
+BGG dGG|BGG dcB|cAA eAA|cAA edc |
+BGG dGG|BGG dcB|c2d e2d|egB A2G:|
+
+This tune, from a flute collection, is a reel probably composed for the
+fiddle:
+
+X:0
+T:Dalkeith Fair
+G:reel
+S:NLS Glen.127
+M:C
+L:1/8
+Q:1/2=108
+K:G
+g2dB g2dB|A>GAB A/A/A A2|g2dB g2dB|A>GAB G/G/G G2:|
+GBdB gBdB|GBdB  A/A/A A2|GBdB gBdB|A>GAB G/G/G G2:|
+g2bg afge|dBgB  A/A/A A2|g2bg afge|dBcA  G/G/G G2:|
+GBdB gbgd|GBdB  A/A/A A2|GBdB gbgB|dBcA  G/G/G G2:|
+
+The range is too wide for the pipes and the scale doesn't fit either.  It
+takes more than that to stop a determined piper from playing a tune; here
+it is in a pipe arrangement with the offending high B dropped a fourth and
+the C simply left out, even though it's too prominent to be pien and the
+change affects the implicit harmony.  The result is in a very unusual key
+for the pipes, G lydian/ionian hexatonic.
+
+X:0
+T:Dalkeith Fair
+G:reel
+S:Glen's Collection for the Great Highland Bagpipe part 3rd (Eighth Thousand)
+N:J. & R. Glen 497 Lawnmarket price 1/6
+N:see my Dalkeith site, <http://www.purr.demon.co.uk/dalkeith/Dalkeith.htm>
+N:for the full setting with the gracenotes
+M:C|
+L:1/8
+Q:1/2=96
+K:GLyd
+B|GBdB gBdB|GBg>B  AA<AB|GBdB efge|gfg>B  GG<G:|
+f|g2dB g2dB|AGAB   AA<AB|g2dB g2dB|AGAB   GGG>f|
+  g2dB g2dB|AGAB   AA<Af|efge afge|d<Bg>B GG<G||
+f|g2fg afge|d<Bg>B AA<Af|g2fg afge|d<Bg>B GG<Gf|
+  g2fg afge|d<Bg>B AA<Aa|geaf gaeg|d<Bg>B GG<G|]
+
+=============================================================================
+==  (c) Jack Campin         http://www.campin.me.uk/           April 2011  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

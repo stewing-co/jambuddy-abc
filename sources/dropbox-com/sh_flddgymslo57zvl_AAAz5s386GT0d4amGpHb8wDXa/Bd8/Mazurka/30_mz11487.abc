@@ -1,0 +1,25 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Mazurka FCBb chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.389 (mz11487) orig. C,F,Bb-Dur
+T: T\"anze aus Altdorf (Uri)
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"C7"((3ceg) b2b2 | "F"ac' f3f | "C7"e>g B2B2 | "F"A>cf2f2 | "C7"((3ceg) b2b2 | "F"ac' f3f | "C7"e>d c>b a>g | "F"f2f2z2 :: [K:C]
+"C"eg e'2 d'c' | "G7"df b3a | g2faB2 | "C"((3EGc) e>ag2 | eg e'd' d'c' | "G7"dc' b>f b>f | da B2 gB |1 "C"c2c2z2 :|2 "C"c2z2A_B || [K:F]
+"F"cA d3c | "C7"cB e2e2 | ec a3g | "F"f>a c2c2 | AB cd ef | "Bb"dbb3g | "C7"e3c BG | "F"F2f2z2 |: [K:Bb]
+"Bb"f3d Bd | f>d B>d f>b | "Cm"g3e ce | g>e c>e g>c' | "F7"ba ag gf | "Bb"e2dF Be | 
+"F7"d2 cF Ac | "Bb"Bd df fc' | "F7"ba ag gf | "Bb"e2dF Be | "F7"d2 cF Ac | "Bb"B2b2z2 :| 
+
+X:2
+T:Mazurka CGF 5- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"G7"((3GBd) f2f2 | "C"eg c3c | "G7"B>d F2F2 | "C"E>Gc2c2 | "G7"((3GBd) f2f2 | "C"eg c3c | "G7"B>A G>f e>d | "C"c2c2z2 :: [K:Gmaj]
+"G"Bd b2 ag | "D7"Ac f3e | d2ceF2 | "G"((3B,DG) B>ed2 | Bd ba ag | "D7"Ag f>c f>c | Ae F2 dF |1 "G"G2G2z2 :|2 "G"G2z2E=F || [K:Cmaj]
+"C"GE A3G | "G7"GF B2B2 | BG e3d | "C"c>e G2G2 | EF GA Bc | "F"Aff3d | "G7"B3G FD | "C"C2c2z2 |: [K:Fmaj]
+"F"c3A FA | c>A F>A c>f | "Gm"d3B GB | d>B G>B d>g | "C7"fe ed dc | "F"B2AC FB | 
+"C7"A2 GC EG | "F"FA Ac c"_ ="g | "C7"fe ed dc | "F"B2AC FB | "C7"A2 GC EG | "F"F2f2z2 :| 

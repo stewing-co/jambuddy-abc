@@ -1,0 +1,18 @@
+X:505
+T:N.7 Um pouco mais...
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 5 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%----------- edit between the lines ------------
+"_[fol.15]" D3/4G//D/ (B,A,/) | (D,3/2 D,/) D/E/  | F3/4=F//^F/ G/F/D/ | F//(E// E) A, D/ | \
+"_[fol.16]" E3//F//E/ A, F,/  | (A,3/ A,/) G,/F,/ | E,3//^D,//E,/ A,/A,/A,/ || \
+M:3/8
+z/ "_pizz" !>!D,/ "_arco" D/ || \
+M:6/8
+G,3//D,//G,/ z E,,/ | \
+"_[fol.17]" F,,3/ A,,3/ | A,,3/ "_pizz" A,,/ z/ z/ | X | X | X ||
+%-----------------------------------------------

@@ -1,0 +1,137 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+
+X:1
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:V. I goe before my darling.
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+% %%MIDI nobarlines
+M:C
+K:F
+L:1/8
+T:Cantus
+N: Original clef, C on first line
+M:C
+L:1/8
+%1
+c4 F2 A2 G2 B2 A G F E D E F4 E2 F2 f2 c2 e2 d3 f \
+w: I goe be- fore my dar- * _ _ _ _ _ _ ling, I go be- fore my
+%2
+   e2 c4 =B2 c2   c2 F2 A2  G   A   B3 A A \
+w: dar - * ling, I goe be- fore my dar - * 
+L:1/16
+   G F G8 A8   F8 C4  E4 \
+w: _ _ _ ling, I goe be- 
+%3
+L:1/8
+D E F4 E2 F2 c2 F2 A2 G2 B2 A G F G A B c4 =B2 c4 z2 G2 C2 E2 D E F D E F G3 F \
+w: fore my dar - ling, I goe be- fore my dar - * _ _ _ _ _ ling, I  goe be- for my dar - * _ _ _ _
+%4
+   F4 E2 "A"F8 c2 c2 A2 A B c2 A3 G c2 c2 =B2 c4 z2 
+w: _ _   ling, Fol- low thou to the bowre in the close al -  ley, 
+F G A B c2 A2 F G \
+w:ther wee will to- geth- er, sweet- ly
+%5
+A B c2 A2 A2 G2 B2 A4 G4 \
+w:kisse each ey- ther, And like two wan- tons, 
+M: 3/2
+L:1/8
+c6 A2 B2 G2 A6 F2 G2 E2 F3 G A2 c2 =B4 c8 z4 \
+w:Dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly
+%6
+G2 A2 B2 G2 A2 B2 c6 B2 A2 G2 B2 A2 G2 F2 G4 \
+w:dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly dal-
+M:C
+L:1/8
+A4 F G A B c2 A2 \
+w:ly.  There wee will to- ge- ther
+%7
+F G A B c2 A2 z2 F2 E2 G2 G2 ^F2 \
+w:Sweet- ly kisse each ey- ther, And lyke two wan -  
+M:3/2
+L:1/8
+G8 z4 z12 c6 A2 B2 G2 A3 G F2 A2 \
+w:tons, Dal- ly dal- ly dal- ly dal- ly 
+%8
+G4 C8 C2 D2 _E2 C2 D2 E2 F4 C4 F6 E2 D2 F2 E2 D2 E4 HF16|]
+w:dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly.
+
+
+X:2 
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:V. I goe before my darling.
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+% %%MIDI nobarlines
+M:C
+K:F
+L:1/8
+T:Tenor
+M:C
+K:F
+N: Original clef, C on first line
+L:1/8
+%1
+z8 z4 c4 F2 A2 G2 B2 A G F G A B c4 =B2 c4 z2 G2 C2 E2 \
+w: I goe be- fore my dar - * _ _ _ _ _  ling, I go be- 
+%2
+D E F D E F G3 F F4 E2 F8 c4 F2 A2 G2 B2 A G F E \
+w: fore my dar - * _ _ _ _ _ ling, I goe be- fore my dar - * _ 
+%3
+ D E F4 E2 F2 f2 c2 e2 d3 f e2 c4 =B2 c2 c2 F2 A2 G A B3 A A \
+w:_ _ _ _ ling, I goe be- for my dar - * ling, I goe be- fore my dar - * 
+L:1/16
+G F G8 "A"A8 \
+w: _ _ _ ling, 
+%4
+L:1/8
+c2 c2 A2 A B c4 z2 F3 C _E2 D4 C4 F G A B c2 A2 F G A B \
+w: Fol- low thou to the bowre in the close al- ley, Ther wee will to- geth- er, sweet- ly kisse each
+%5
+c2 A2 z2 F2 E2 G2 G2 ^F2 G4 z12
+w:ey- ther, And like two wan -   tons, 
+M: 3/2
+L:1/8
+ "(1)"c6 A2 \
+w:Dal- ly
+ B2 G2 A3 G F2 A2 G4 C8 C2 D2 _E2 C2 D2 E2
+w: dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly
+N: (1) Original c4 (half note)
+%6
+F4 C4 F6 E2 D2 F2 E2 D2 E4 \
+w:dal- ly dal- ly dal- ly dal- ly dal- 
+M:C
+L:1/8
+F4 z2 F G A B c2 A2 
+w:ly.  There wee will to- ge- ther 
+F G A B c2 A2 A2 \
+w:Sweet- ly kisse each ey- ther, And
+%7
+G2 B2 A4 \
+w: lyke two wan - 
+M:3/2
+L:1/8
+G8 z4 c6 A2 B2 G2 A6 F2 G2 E2 F3 G A2 c2 =B4 c8 z4 G2 A2 B2 G2 A2 B2 \
+w:tons, Dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly dal- ly 
+%8
+c6 B2 A2 G2 B2 A2 G2 F2 G4 HA16|]
+w: dal- ly dal- ly dal- ly dal- ly dal- ly.
+
+

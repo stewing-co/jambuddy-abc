@@ -1,0 +1,64 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka  BbF (pk07085) 
+T:Hanny Christen. Bd.V  Basel II, Jura. S.45  (pk07085) orig. Bb,F
+T: Basel II. Tänze aus Frenkendorf. S.43-53.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:Bb %%MIDI gchordon
+d/d/ |: "Bb".d.B (A/B/c/)B/ | ("Cm"AG) G>G | ("F7"GF) A>A | ("Bb"GF) Bd/d/ | .d.B (A/B/c/)B/ | ("Cm"AG) .e.G | "F7"F/A/A A/c/c |1 
+"Bb"Bd Bd/d/ :|2 "Bb"Bd B(A/B/) |: [K:F]  "F"cd c>A | ("C7"BE) E/F/G/A/ | Bc B>A | "F"AF/E/ F/G/A/B/ | cd c>A | 
+"Gm"Gd d/d/d | "F"cA "C7"B/A/G |1 "F"FA F(A/B/) :|2 "F"FA FF |: [K:Bb]  "Bb"d/d/d "F7"c/c/c | "Bb"B/B/B "Dm"A/A/A | "Bb"GF DF | 
+"F7"EA!>!A2 | "Cm"c/c/c "C7"B/B/B | "F7"A/A/A "Eb"G/G/G | "F7"F=E/F/ G/A/B/c/ | "Bb"dB/G/ !>!F2 | d/d/d "F7"c/c/c | "Bb"B/B/B "Dm"A/A/A | "Bb"GF DF | 
+"Cm"Gc !>!c2 | G/G/G c/c/c | "Bb"F/F/F B/B/B | "F7"BA GA |1 "Bb"BB BF :|2 "Bb"BB BF/F/ |: "Bb".F.B (A/B/c/B/) | ("Cm"AG) (G/^F/G) | 
+"F7"F=E/F/ Ac | "Bb"dB (B/A/B) | .F.B (A/B/c/B/) | "Cm"AG (G/^F/G) | "F7"F=E/F/ Ac |1 "Bb"BB BF :|2 "Bb"BB Bz |] 
+W:
+W:Anmerkungen H.C.: Bottmingen H 9, s.V. 1114
+% pk07085
+% Jan 9, 2018
+
+X:2
+T:Polka  FC 5- (pk07085) 
+S:Hanny Christen. Bd.V  Basel II, Jura. S.45  (pk07085) orig. Bb,F
+S:Basel II. Tänze aus Frenkendorf. S.43-53.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+A/2A/2 |: "F".A.F (E/2F/2G/2)F/2 | ("Gm"ED) D>D | ("C7"DC) E>E | ("F"DC) FA/2A/2 | .A.F (E/2F/2G/2)F/2 | ("Gm"ED) .B.D | "C7"C/2E/2E E/2G/2G |1 
+"F"FA FA/2A/2 :|2 "F"FA F(E/2F/2) |: [K:C] "C"GA G>E | ("G7"FB,) B,/2C/2D/2E/2 | FG F>E | "C"EC/2B,/2 C/2D/2E/2F/2 | GA G>E | 
+"Dm"DA A/2A/2A | "C"GE "G7"F/2E/2D |1 "C"CE C(E/2F/2) :|2 "C"CE CC |: [K:F] "F"A/2A/2A "C7"G/2G/2G | "F"F/2F/2F "Am"E/2E/2E | "F"DC A,C | 
+"C7"B,E!>!E2 | "Gm"G/2G/2G "G7"F/2F/2F | "C7"E/2E/2E "Bb"D/2D/2D | "C7"C=B,/2C/2 D/2E/2F/2G/2 | "F"AF/2D/2 !>!C2 | A/2A/2A "C7"G/2G/2G | "F"F/2F/2F "Am"E/2E/2E | "F"DC A,C | 
+"Gm"DG !>!G2 | D/2D/2D G/2G/2G | "F"C/2C/2C F/2F/2F | "C7"FE DE |1 "F"FF FC :|2 "F"FF FC/2C/2 |: "F".C.F (E/2F/2G/2F/2) | ("Gm"ED) (D/2^C/2D) | 
+"C7"C=B,/2C/2 EG | "F"AF (F/2E/2F) | .C.F (E/2F/2G/2F/2) | "Gm"ED (D/2^C/2D) | "C7"C=B,/2C/2 EG |1 "F"FF FC :|2 "F"FF Fz |] 
+%W:Anmerkungen H.C.: Bottmingen H 9, s.V. 1114
+% pk07085
+% Jan 9, 2018
+
+X:3
+T:Polka  CG 2+ (pk07085) 
+S:Hanny Christen. Bd.V  Basel II, Jura. S.45  (pk07085) orig. Bb,F
+S:Basel II. Tänze aus Frenkendorf. S.43-53.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+e/2e/2 |: "C".e.c (B/2c/2d/2)c/2 | ("Dm"BA) A>A | ("G7"AG) B>B | ("C"AG) ce/2e/2 | .e.c (B/2c/2d/2)c/2 | ("Dm"BA) .f.A | "G7"G/2B/2B B/2d/2d |1 
+"C"ce ce/2e/2 :|2 "C"ce c(B/2c/2) |: [K:G] "G"de d>B | ("D7"cF) F/2G/2A/2B/2 | cd c>B | "G"BG/2F/2 G/2A/2B/2c/2 | de d>B | 
+"Am"Ae e/2e/2e | "G"dB "D7"c/2B/2A |1 "G"GB G(B/2c/2) :|2 "G"GB GG |: [K:C] "C"e/2e/2e "G7"d/2d/2d | "C"c/2c/2c "Em"B/2B/2B | "C"AG EG | 
+"G7"FB!>!B2 | "Dm"d/2d/2d "D7"c/2c/2c | "G7"B/2B/2B "F"A/2A/2A | "G7"G^F/2G/2 A/2B/2c/2d/2 | "C"ec/2A/2 !>!G2 | e/2e/2e "G7"d/2d/2d | "C"c/2c/2c "Em"B/2B/2B | "C"AG EG | 
+"Dm"Ad !>!d2 | A/2A/2A d/2d/2d | "C"G/2G/2G c/2c/2c | "G7"cB AB |1 "C"cc cG :|2 "C"cc cG/2G/2 |: "C".G.c (B/2c/2d/2c/2) | ("Dm"BA) (A/2^G/2A) | 
+"G7"G^F/2G/2 Bd | "C"ec (c/2B/2c) | .G.c (B/2c/2d/2c/2) | "Dm"BA (A/2^G/2A) | "G7"G^F/2G/2 Bd |1 "C"cc cG :|2 "C"cc cz |] 
+%W:Anmerkungen H.C.: Bottmingen H 9, s.V. 1114
+% pk07085
+% Jan 9, 2018

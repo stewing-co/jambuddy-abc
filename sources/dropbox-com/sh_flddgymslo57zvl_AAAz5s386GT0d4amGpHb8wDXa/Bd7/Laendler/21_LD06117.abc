@@ -1,0 +1,64 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Der alt Meiringer L\"andler FBb chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.401 (LD06117) orig. F,Bb-Dur
+T: T\"anze aus dem Kanton Bern (Zusammenfassung) S.375ff
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+cc | "F"ca gf ed | cf ed cA | "C7"Bc eB ce | d3cc2 | Bc eB ce | d3cc2 | "F"Ac fA cf | d3cc2 | 
+ca gf ed | cf ed cA | "C7"Bc eB ce | d3cc2 | Bc eB ce | c'4e2 | "F"f2ef ag | f2z2gf || 
+"C7"e2+>+d'3c' | .b2.a2.g2 | "F"f3cA2 | Ac fA cf | "C7"e3dB2 | Bc eB ce | "F"f3cA2 |  z2g2f2 | 
+"C7"e2+>+d'3c' | .b2.a2.g2 | "F"f3cA2 | Ac fA cf | "C7"e3cB2 | dc =Bc de | "F"f2c2a2 | f2z2df | [K:Bb]
+|: "Bb".d'2.c'2.b2 | .a2.g2.f2 | "F7"fa af af | e3b ag | fa af af | e3b ag | "Bb"fb bf bf | d4df | 
+d'2c'2b2 | a2g2f2 | "F7"fa af af | e3b ag | fa a3g | fg fe dc | "Bb"B2d2f2 |1 b2z2df :|2 b2z2z2 |]  
+
+X:2
+T:Der alt Meiringer L\"andler CF 5- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+GG | "C"Ge dc BA | Gc BA GE | "G7"FG BF GB | A3GG2 | FG BF GB | A3GG2 | "C"EG cE Gc | A3GG2 | 
+Ge dc BA | Gc BA GE | "G7"FG BF GB | A3GG2 | FG BF GB | g4B2 | "C"c2Bc ed | c2z2dc || 
+"G7"B2!>!a3g | .f2.e2.d2 | "C"c3GE2 | EG cE Gc | "G7"B3AF2 | FG BF GB | "C"c3GE2 | z2d2c2 | 
+"G7"B2!>!a3g | .f2.e2.d2 | "C"c3GE2 | EG cE Gc | "G7"B3GF2 | AG ^FG AB | "C"c2G2e2 | c2z2Ac | [K:Fmaj]
+|: "F".a2.g2.f2 | .e2.d2.c2 | "C7"ce ec ec | B3f ed | ce ec ec | B3f ed | "F"cf fc fc | A4Ac | 
+a2g2f2 | e2d2c2 | "C7"ce ec ec | B3f ed | ce e3d | cd cB AG | "F"F2A2c2 |1 f2z2Ac :|2 f2z2z2 |] 
+
+X:3
+T:Der alt Meiringer L\"andler GC 10- chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+DD | "G"DB AG FE | DG FE DB, | "D7"CD FC DF | E3DD2 | CD FC DF | E3DD2 | "G"B,D GB, DG | E3DD2 | 
+DB AG FE | DG FE DB, | "D7"CD FC DF | E3DD2 | CD FC DF | d4F2 | "G"G2FG BA | G2z2AG || 
+"D7"F2!>!e3d | .c2.B2.A2 | "G"G3DB,2 | B,D GB, DG | "D7"F3EC2 | CD FC DF | "G"G3DB,2 | z2A2G2 | 
+"D7"F2!>!e3d | .c2.B2.A2 | "G"G3DB,2 | B,D GB, DG | "D7"F3DC2 | ED ^CD EF | "G"G2D2B2 | G2z2EG | [K:Cmaj]
+|: "C".e2.d2.c2 | .B2.A2.G2 | "G7"GB BG BG | F3c BA | GB BG BG | F3c BA | "C"Gc cG cG | E4EG | 
+e2d2c2 | B2A2G2 | "G7"GB BG BG | F3c BA | GB B3A | GA GF ED | "C"C2E2G2 |1 c2z2EG :|2 c2z2z2 |] 
+
+X:4
+T:Der alt Meiringer L\"andler EbAb (5letras) cf. CF
+M:3/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+BB | "Eb"Bg fe dc | Be dc BG | "Bb7"AB dA Bd | c3BB2 | AB dA Bd | c3BB2 | "Eb"GB eG Be | c3BB2 | 
+Bg fe dc | Be dc BG | "Bb7"AB dA Bd | c3BB2 | AB dA Bd | b4d2 | "Eb"e2de gf | e2z2fe || 
+"Bb7"d2!>!c'3b | .a2.g2.f2 | "Eb"e3BG2 | GB eG Be | "Bb7"d3cA2 | AB dA Bd | "Eb"e3BG2 | z2f2e2 | 
+"Bb7"d2!>!c'3b | .a2.g2.f2 | "Eb"e3BG2 | GB eG Be | "Bb7"d3BA2 | cB =AB cd | "Eb"e2B2g2 | e2z2ce | [K:Abmaj]
+|: "Ab".c'2.b2.a2 | .g2.f2.e2 | "Eb7"eg ge ge | d3a gf | eg ge ge | d3a gf | "Ab"ea ae ae | c4ce | 
+c'2b2a2 | g2f2e2 | "Eb7"eg ge ge | d3a gf | eg g3f | ef ed cB | "Ab"A2c2e2 |1 a2z2ce :|2 a2z2z2 |] 
+
+X:5
+T:Der alt Meiringer L\"andler BbEb (5letras) cf. GC
+M:3/4
+L:1/8
+K:Bbmaj%%MIDI gchordon
+FF | "Bb"Fd cB AG | FB AG FD | "F7"EF AE FA | G3FF2 | EF AE FA | G3FF2 | "Bb"DF BD FB | G3FF2 | 
+Fd cB AG | FB AG FD | "F7"EF AE FA | G3FF2 | EF AE FA | f4A2 | "Bb"B2AB dc | B2z2cB || 
+"F7"A2!>!g3f | .e2.d2.c2 | "Bb"B3FD2 | DF BD FB | "F7"A3GE2 | EF AE FA | "Bb"B3FD2 | z2c2B2 | 
+"F7"A2!>!g3f | .e2.d2.c2 | "Bb"B3FD2 | DF BD FB | "F7"A3FE2 | GF =EF GA | "Bb"B2F2d2 | B2z2GB | [K:Ebmaj]
+|: "Eb".g2.f2.e2 | .d2.c2.B2 | "Bb7"Bd dB dB | A3e dc | Bd dB dB | A3e dc | "Eb"Be eB eB | G4GB | 
+g2f2e2 | d2c2B2 | "Bb7"Bd dB dB | A3e dc | Bd d3c | Bc BA GF | "Eb"E2G2B2 |1 e2z2GB :|2 e2z2z2 |] 
+

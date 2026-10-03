@@ -1,0 +1,125 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+
+X:1
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:II. When loe, by break of morning
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/8
+M:C
+K:F
+T:Cantus
+N: Original Clef, treble
+%line 1
+   c2   c    c  d2    =B2 c  B A G F2 G2 C4 z4 c2   c   c  d2    =B2 
+w: When loe, by break of mor - * _ _  _  ning, when loe by break of
+%line 2
+   c    d e2 d4 e2  c2 d2   e2  f3   e  d2 c2 =B2 c2    d2    G2 A2  _B2  c3   B  \
+w: morn - * _ ing, My love hir self a- dor - *  _     ning, My love hir self a- 
+%line 3
+   A2    G2 F2 B2 A2 G F G4 F4    f2   f    f  g2    e2 f2  d2 e4    c2   c   c  d2    =B2 c4   C4 \
+w: dorn - * _  _  _ _ _  ning, When loe, by break of mor -  ning, When loe by break of morn- ing,
+%line 4
+    G2   G    G  A2     c4 =B2   c4 z2 c2 d2   e2  f3   e   d2   c4 =B2 c2    G2 A2   _B2  c3    B \
+w:  When loe, by breake of morn- ing,  My love hir selfe a- dor - *    ning, My love hir selfe a-
+%line 5
+   A2   G3 F F4 E2 F4  "A" c4   d3   d   c2    c2 =B4   c4"B"z4 c3   _B    A2    A   G  F2   c2  d2   A2 \ 
+w: dor - * _  _  ning, Doth walk the woods so dain- tie, Gath- ring sweet vi- o- lets and Cow- slips 
+ B2    F2 
+w: plen- ty,
+%line 6
+z4   f3  e    d2    d   c   B2  A2  G2   c4    =B2   c2  c2    A3 _B   c2   F G A F   G2   E2    F4    E2 F4 z2 F2 \
+w: Gath- ring sweet Vi- o- lets and Cow- slips plen- ty, sweet Vi- o- lets and _ _ _ Cow- slips plen -   ty,   The
+%line 7
+   c3    B   A2    F2 z2   
+w: birds en- a-    mour'd, 
+F2  B3    c   d2 G2     G2   c2  =B2    c2 d4   e4  g2  g    f  e2  c2  f4  d4 \
+w:The birds en- a- mour'd sing and praise my Flo- ra, Loe heere a new Au- ro- ra.
+%line 8
+   d2  d     c =B2 G2  c4  A4  _B2  B     A G2  F2  E2  A2 G2 F4 E2 F4 z2 F2  c3    B \
+w: Loe heere a new Au- ro- ra. Loe heere a new Au- ro - * _  _  ra.   The birds en-
+%line 9
+   A2 F2 z2  F2  B3    c  d2  G2    G2   c2  =B2    c2 d4   e4  g2  g     f e2  c2  f4  d4  d2  d     c \
+w: a- mor'd, The birds e- na- mor'd sing and praise my Flo- ra, Loe heere a new Au- ro- ra, Loe heere a
+%line 10
+  =B2 G2  c4  A4   _B2  B     A G2  F2  E2 A2 G2 F4 E2 HF8 |]
+w:new Au- ro- ra.  Loe heere a new Au- ro - * _ _    ra.
+
+
+X:2 
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:II. When loe, by break of morning
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/8
+M:C
+K:F
+T:Tenor
+N: Original Clef, treble
+%line 1
+z8 c2   c    c   d2  =B2 c  B A G F2 G2 C4     G2   G   G  A2    c2 =B4   c4 \
+w: When loe, by break of mor - * _ _  _  ning, when loe by break of morn- ing
+%line 2
+z2 c2  d2  e2  f3   e  d2 c4 =B2 c2    G2 A2   _B2  c3   B  A2   G3 F F4 E2 F8 \
+w: My love hir self a- dor - *   ning, My love hir self a- dorn - * _ _ ning.  
+%line 3
+   c2    c   c  d2    =B2 c  _B  A G A G F E D2 G2 C4    c2   c  c   d2    =B2 c    d e2 d4   e2   c2  d2  e2 \
+w: When loe, by break of mor - * _ _ _ _ _ _ _   ning, When loe by break of morn - *  _    ing, My love hir
+%line 4
+    f3   e  d2   c2 =B2 c2 d2    G2 A2   _B2  c3    B A2 G2 F2 B2 A2 G F G4 F4 "A" F4 B3   G   A2    F2 G4    C4 "B" 
+w: selfe a- dor - *  _  ning, my love hir selfe a- dor - * _  _  _  _ _ ning Doth walk the woods so dain- tie
+%line 5
+   c3    B    A2    A   G  F2   c2  d2   A2    B2    F2 z4 f3 e     d2    
+w: Gath- ring sweet Vi- o- lets and Cow- slips plen- ty, Gath- ring sweet 
+d   c   B2  B2  d    e     f3   e e \
+w:vi- o- lets and cow- slips plen - *
+L:1/16
+    d c d8 e8 \
+w:  _ _ _ ty
+%line 6
+L:1/8
+z2 c2    A3  B  c2 
+w: sweet Vi- o- lets
+  B2  B2   A2    G4    A2  F2  c3    B  A2  F4     c2  f3    e  d2  G2     B3   c \
+w: and Cow- slips plen- ty, The birds e- na- mour'd the birds e- na- mour'd sing and
+%line 7
+   d2     _e2 d2 c4 =B2 c8  c2  c     _B A2  F2  B4  G4  g2 g     f e2  c2  f4  d4  B2  B     A G2  F2 \
+w: praise my Flo - *   ra, Loe heere a new Au- ro- ra, Lo heere a new Au- ro- ra, Loe heere a new Au-
+%line 8
+  E2 F2 G4 A2 F2  c3    B   A2 F4     
+w:ro - * ra, The birds en- a- mor'd,
+c2  f3    e  d2  G2    B3   c   d2    _e2 d2 c4 =B2 c8 \
+w: the birds e- na- mor'd sing and praise my Flo - * ra,
+%line 9
+   c2  c     _B A2  F2  B4  G4  g2  g     f e2  c2  f4  d4  B2  B     A G2  F2  E2 F2 \
+w: Loe heere a new Au- ro- ra, Loe heere a new Au- ro- ra, Loe heere a new Au- ro - 
+%line 10
+   G4 HA8 |]
+w: * ra.
+
+

@@ -1,0 +1,82 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Polka  FCBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.283 (pk05977) orig. F,C,Bb-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+A/B/ |: "F"ca gf | P"C7"fe Pfe | eg fd | P"F"dc Pdc | ca gf | "Bb"dd!>!b2 | "C7"ag c/^c/d/e/ |1 "F"fa fa/B/ :|2 
+"F"fa fe/f/ |: [K:C] "G7"g/g/g ag | "C"e/e/e fe | "G7"ed g/f/e/d/ | "C"ca ge/f/ | "G7"g/g/g ag | "C"e/e/e fe | "Dm"da "G7"g>B |1 
+"C"ce ce/f/ :|2"C"ce cA/"_>Teil A"=B/ || [K:Bb] d | "Bb"d>^c de | "Cm"c3d | "F7"e>d ef | "Bb"d3d/f/ | ba gf | "tr""F7"fe!>!e2 | 
+"tr"fe eg | "Bb"f3d | d>^c de | "Cm"c3d | "F7"e>d ef | "Bb"d3d/f/ | ba gf | "Eb"gc'!>!c'2 | "F7"aa e'>c' | "Bb"bb bb |: 
+"Eb"b2g2 | "Bb"ff f/d/B/d/ | "F7"ff f/e/c/e/ | "Bb"dgf2 | "Eb"b2g2 | "Bb"ff f/d/B/d/ | "F7"ff f/e/d/c/ |1 "Bb"BB Bd :|2 "Bb"BB Bz |] 
+W:Parts: ABAC
+% pk05977
+X:2
+T:Polka  CGF 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+E/2F/2 |: "C"Ge dc | P"G7"cB PcB | Bd cA | P"C"AG PAG | Ge dc | "F"AA!>!f2 | "G7"ed G/2^G/2A/2B/2 |1 "C"ce ce/2F/2 :|2 
+"C"ce cB/2c/2 |: [K:G] "D7"d/2d/2d ed | "G"B/2B/2B cB | "D7"BA d/2c/2B/2A/2 | "G"Ge dB/2c/2 | "D7"d/2d/2d ed | "G"B/2B/2B cB | "Am"Ae "D7"d>F |1 
+"G"GB GB/2c/2 :|2"G"GB GE/2"_>Teil A"^F/2 || [K:F] A | "F"A>^G AB | "Gm"G3A | "C7"B>A Bc | "F"A3A/2c/2 | fe dc | "tr""C7"cB!>!B2 | 
+"tr"cB Bd | "F"c3A | A>^G AB | "Gm"G3A | "C7"B>A Bc | "F"A3A/2c/2 | fe dc | "Bb"dg!>!g2 | "C7"ee b>g | "F"ff ff |: 
+"Bb"f2d2 | "F"cc c/2A/2F/2A/2 | "C7"cc c/2B/2G/2B/2 | "F"Adc2 | "Bb"f2d2 | "F"cc c/2A/2F/2A/2 | "C7"cc c/2B/2A/2G/2 |1 "F"FF FA :|2 "F"FF Fz |] 
+W:Parts: ABAC
+% pk05977
+X:3
+T:Polka  CGF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+E/2F/2 |: "C"Ge dc | P"G7"cB PcB | Bd cA | P"C"AG PAG | Ge dc | "F"AA!>!f2 | "G7"e"_d"d G/2"_#"^G/2"_a"A/2"_h"B/2 |1 "C"ce ce/2F/2 :|2 
+"C"ce cB/2c/2 |: [K:G] "D7"d/2d/2d ed | "G"B/2B/2B cB | "D7"BA d/2c/2B/2A/2 | "G"Ge dB/2c/2 | "D7"d/2d/2d ed | "G"B/2B/2B cB | "Am"Ae "D7"d>F |1 
+"G"GB GB/2c/2 :|2"G"GB GE/2"_>Teil A"^F/2 || [K:F] A | "F"A>^G AB | "Gm"G3A | "C7"B>A Bc | "F"A3A/2c/2 | fe dc | "tr""C7"cB!>!B2 | 
+cB Bd | "F"c3A | A>^G AB | "Gm"G3A | "C7"B>A Bc | "F"A3A/2c/2 | fe dc | "Bb"dg!>!g2 | "C7"ee b>g | "F"ff ff |: 
+"Bb"f2d2 | "F"cc c/2A/2F/2A/2 | "C7"cc c/2B/2G/2B/2 | "F"Adc2 | "Bb"f2d2 | "F"cc c/2A/2F/2A/2 | "C7"cc c/2B/2A/2G/2 |1 "F"FF FA :|2 "F"FF Fz |] 
+W:Parts: ABAC
+% pk05977
+X:4
+T:Polka DA&G (tinwhistle in D)
+T:pk05977 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D transpose=3%%MIDI gchordon
+F/2G/2 |: "D"Af ed | P"A7"dc Pdc | ce dB | P"D"BA PBA | Af ed | "G"BB!>!g2 | "A7"fe A/2^A/2B/2c/2 |1 "D"df df/2G/2 :|2 
+"D"df dc/2d/2 |: [K:A] "E7"e/2e/2e fe | "A"c/2c/2c dc | "E7"cB e/2d/2c/2B/2 | "A"Af ec/2d/2 | "E7"e/2e/2e fe | "A"c/2c/2c dc | "Bm"Bf "E7"e>G |1 
+"A"Ac Ac/2d/2 :|2"A"Ac AF/2"_>Teil A"^G/2 || [K:G] B | "G"B>^A Bc | "Am"A3B | "D7"c>B cd | "G"B3B/2d/2 | gf ed | "tr""D7"dc!>!c2 | 
+"tr"dc ce | "G"d3B | B>^A Bc | "Am"A3B | "D7"c>B cd | "G"B3B/2d/2 | gf ed | "C"ea!>!a2 | "D7"ff c'>a | "G"gg gg |: 
+"C"g2e2 | "G"dd d/2B/2G/2B/2 | "D7"dd d/2c/2A/2c/2 | "G"Bed2 | "C"g2e2 | "G"dd d/2B/2G/2B/2 | "D7"dd d/2c/2B/2A/2 |1 "G"GG GB :|2 "G"GG Gz |] 
+W:Parts: ABAC
+X:5
+T:Polka DA&G (tinwhistle in D) solo
+T:pk05977 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D transpose=12
+F/2G/2 |: Af ed | Pdc Pdc | ce dB | PBA PBA | Af ed | BB!>!g2 | fe A/2^A/2B/2c/2 |1 df df/2G/2 :|2 
+df dc/2d/2 |: [K:A] e/2e/2e fe | c/2c/2c dc | cB e/2d/2c/2B/2 | Af ec/2d/2 | e/2e/2e fe | c/2c/2c dc | Bf e>"_#"G |1 
+Ac Ac/2d/2 :|2Ac AF/2"_>Teil A"^G/2 || [K:G] B | B>^A B"_c"c | A3B | "_c"c>B cd | B3B/2d/2 | gf ed | Td"_c"c!>!c2 | 
+Td"_c"c ce | d3B | B>^A B"_c"c | A3B | "_c"c>B cd | B3B/2d/2 | gf ed | ea!>!a2 | ff "_c"c'>a | gg gg |: 
+g2e2 | dd d/2B/2G/2B/2 | dd d/2c/2A/2"_c"c/2 | Bed2 | g2e2 | dd d/2B/2G/2B/2 | dd d/2"_c"c/2B/2A/2 |1 GG GB :|2 GG Gz |]
+W:Parts: ABAC
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 15, 2016

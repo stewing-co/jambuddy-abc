@@ -1,0 +1,37 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T:  Schotttisch FCBb  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.283 (st05411) orig. F,C,Bb-Dur
+T: T\"anze aus Guggisberg, Sch\"upfen und Plaffeien (Bern) S.257ff
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+cb |: "C7"a2g2 g^fga | "F"g2f2f4 | "C7"edc2 gfe2 | "F"fefg a4 | "C7"a2g2 g^fga | "F"g2f2f4 | "C7"edc2 bag2 |1 "F"f2f2 f2cb :|2 
+"F"f2f2 f2z2 |: [K:C] "C"G2cd e2e2 | c2ef g2g2 | "G7"gfd2 gfd2 | "C"e2e2c4 | G2cd e2e2 | c2ef g2g2 | "G7"gfd2 gfd2 |1 "C"c2c2 c2z2 :|2 
+"C"c2c2 c2c2 |: [K:F] "F"fff2 g2f2 | "C7"e6c2 | ggg2 a2g2 | "F"f6c2 | fff2 ccc2 | "Gm/Bb"ddd2 g2g2 | "C7"eee2 a2g2 |1 "F"f2f2 f2c2 :|2 
+"F"f2f2 f2z2 |: [K:Bb] [L:1/8] "Bb"d>^c d>c | dgf2 | dg +>+f2 | "F7"fb +>+a2 | c>=B c>B | cf e2 | ca a/g/f | "Bb"gf +>+d2 | 
+d>^c d>c | dg +>+f2 | dg +>+f2 | "Cm/Eb"ce +>+g2 | "F7"a/a/a gg | "Bb"f/f/f df | "F7"e/e/e ca | "Bb"bb bz :| 
+
+X:2
+T:Schotttisch GCF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+Gf |: "G7"e2d2 d^cde | "C"d2c2c4 | "G7"BAG2 dcB2 | "C"cBcd e4 | "G7"e2d2 d^cde | "C"d2c2c4 | "G7"BAG2 fed2 |1 "C"c2c2 c2Gf :|2 
+"C"c2c2 c2z2 |: [K:Gmaj] "G"D2GA B2B2 | G2Bc d2d2 | "D7"dcA2 dcA2 | "G"B2B2G4 | D2GA B2B2 | G2Bc d2d2 | "D7"dcA2 dcA2 |1 "G"G2G2 G2z2 :|2 
+"G"G2G2 G2G2 |: [K:Cmaj] "C"ccc2 d2c2 | "G7"B6G2 | ddd2 e2d2 | "C"c6G2 | ccc2 GGG2 | "Dm/F"AAA2 d2d2 | "G7"BBB2 e2d2 |1 "C"c2c2 c2G2 :|2 
+"C"c2c2 c2z2 |: [K:Fmaj] [L:1/8] "F"A>^G A>G | Adc2 | Ad !>!c2 | "C7"cf !>!e2 | G>^F G>F | Gc B2 | Ge e/2d/2c | "F"dc !>!A2 | 
+A>^G A>G | Ad !>!c2 | Ad !>!c2 | "Gm/Bb"GB !>!d2 | "C7"e/2e/2e dd | "F"c/2c/2c Ac | "C7"B/2B/2B Ge | "F"ff fz :| 
+
+
+X:3
+T:Schotttisch CGF 5- chords Anm
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+G"_ ="f |: "G7""_e"e2"_d"d2 d"_c#"^cde | "C"d2c2c4 | "G7""_h"B"_a"AG2 "_d"dc"_ h ="B2 | "C"cBcd e4 | "G7"e2d2 d^cde | "C"d2c2c4 | "G7"BAG2 fed2 |1 "C"c2c2 c2Gf :|2 
+"C"c2c2 c2z2 |: [K:Gmaj] "G"D2GA B2B2 | G2Bc d2d2 | "D7"d"_c"c"_a"A2 d"_c"c"_ a ="A2 | "G"B2B2G4 | D2GA B2B2 | G2Bc d2d2 | "D7"dcA2 dcA2 |1 "G"G2G2 G2z2 :|2 
+"G"G2G2 G2G2 |: [K:Cmaj] "C"ccc2 d2c2 | "G7"B6G2 | ddd2 e2d2 | "C"c6G2 | ccc2 GG"_  ="G2 | "Dm/F""_a"AAA2 "_d"d2d2 | "G7""_h"BBB2 e2"_d"d2 |1 "C"c2c2 c2G2 :|2 
+"C"c2c2 c2z2 |: [K:Fmaj] [L:1/8] "F"A>"_g#""_**"^G A>G | Adc2 | Ad !>!c2 | "C7"cf !>!e2 | G>^F G>F | Gc "_b"B2 | "_g"G"_e"e e/2d/2c | "F"dc !>!A2 | 
+A>^G A>G | Ad !>!c2 | Ad !>!c2 | "Gm/Bb""_g"GB !>!"_d"d2 | "C7""_e"e/2e/2e "_d"d"_ ="d | "F"c/2c/2c Ac | "C7""_b"B/2B/2B "_g"G"_ e ="e | "F"ff fz :| 

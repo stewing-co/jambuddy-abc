@@ -1,0 +1,43 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Glöckchen-Polka GDC (pk07421) ABACDCA
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.333 (pk07421) orig. G,D,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+% P:ABACDCA
+R:Polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+[P:A] "G"(Td2B2) (Td2B2) | "D7"d2c2 cBc2 | (Tf2c2) (Tf2c2) | "G"e2d2 d^cd2 | (Td2B2) "G7"d2g2 | "Am/C"f2e2 e^de2 | ("D7"^cd).f.e d=cBA | 
+"G"G2B2 G2"_fine"z2 :: [P:B] [K:D] "D"A2Bc d2f2 | A2Bc d2f2 | "A7"edc2 gfe2 | "D"b2a2 agf2 | A2Bc d2f2 | A2Bc d2f2 |1 
+"E7"^de^gf e=dcB | "A7"A2AA AAAA :|2 "A7"feag fedc | "D7".d4"_>Teil A"z4 |: [P:C] [K:C]  ("C"Ge).e2 c2c2 | ("G7"Ba).a2 B3G | 
+(Gf).f2 B2B2 | ("C"cg).g2 c3A | (Ge).e2 c2c2 | ("F"cc')c'2 "Dm"d3c | "G7"Bd!>!g4B2 | "C"c2e2 c2z2 :: [P:D] [K:G] "D7"d2^cd efga | "G"b2b2 (c'b)ag | 
+"D7"a2a2 (ba).g.f | "G"g2g2 fage | "D7"d2^cd efga | "G"b2b2 (c'b).a.g |1 "D7"a2a2 bagf | "G"g6G2 :|2 "G"G2dc "D7"B2A2 | "G7"G2G2  "_>Teil C+A"G2z2 |] 
+% pk07421
+% Aug 17, 2017
+
+X:2
+T:Glöckchen-Polka CGF 7- (pk07421)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.333 (pk07421) orig. G,D,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+R:Polka
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"(TG2E2) (TG2E2) | "G7"G2F2 FEF2 | (TB2F2) (TB2F2) | "C"A2G2 G^FG2 | (TG2E2) "C7"G2c2 | "Dm/F"B2A2 A^GA2 | ("G7"^FG).B.A G=FED | 
+"C"C2E2 C2"_fine"z2 :: [K:Gmaj] "G"D2EF G2B2 | D2EF G2B2 | "D7"AGF2 cBA2 | "G"e2d2 dcB2 | D2EF G2B2 | D2EF G2B2 |1 
+"A7"^GA^cB A=GFE | "D7"D2DD DDDD :|2 "D7"BAdc BAGF | "G7".G4"_>Teil A"z4 |: [K:Fmaj] ("F"CA).A2 F2F2 | ("C7"Ed).d2 E3C | 
+(CB).B2 E2E2 | ("F"Fc).c2 F3D | (CA).A2 F2F2 | ("Bb"Ff)f2 "Gm"G3F | "C7"EG!>!c4E2 | "F"F2A2 F2z2 :: [K:Cmaj] "G7"G2^FG ABcd | "C"e2e2 (fe)dc | 
+"G7"d2d2 (ed).c.B | "C"c2c2 BdcA | "G7"G2^FG ABcd | "C"e2e2 (fe).d.c |1 "G7"d2d2 edcB | "C"c6C2 :|2 "C"C2GF "G7"E2D2 | "C7"C2C2 "_>Teil C+A"C2z2 |] 
+W:Parts: ABA-CD-CA
+% pk07421
+% Aug 17, 2017

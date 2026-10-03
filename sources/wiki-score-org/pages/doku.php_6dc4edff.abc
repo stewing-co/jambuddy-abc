@@ -1,0 +1,62 @@
+X:506
+T:Agnus Dei
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 6 clef=alto1 name="Soprano" sname="S."
+%%MIDI program 1 1
+%%staves [[ 6 ]]
+%------------------
+[Q:"Largetto"] !p! F2A(G2E | F2) G F F F | [DF] [DF] [DF] d2=e/d/ | ^c Az \
+w: A-gnus De--i qui tol-lis pec-ca-ta pec-ca-ta_ mun-di
+[A^c]2[ce] | d2A!>!e2^c | d2=cB2c | A2z \
+w: mi-se-re-re mi-se-re-re no--bis mi-se-re-re no-bis
+!p! c2B | (A2_A)G2!>!_A | G G !>!_A G G d | c2cd2=B | c2z \
+w: A-gnus De--i qui tol-lis pec-ca-ta pec-ca-ta mun--di
+!p! f> f f/ f/ | [ce] [ce] z \
+w: mi-se-re-re no-bis
+d> f e/ d/ | c c z \
+w: mi-se-re-re no-bis
+d> f e/ d/ | c c z \
+w: mi-se-re-re no-bis
+d> f A/ =B/ | d c z z2z | Z |  \
+w: mi-se-re-re no-bis
+!f! A2A A A A | A A A A2 A | A A !f! A B2e | f f d g2 f | e e f e2 f | e3 !fermata! e3 || \
+w: A-gnus De-i qui tol-lis  pec-ca-ta mun-di pec-ca-ta mun-di pec-ca-ta mun-di pec-ca-ta mun-di
+% fol.182
+[Q:"Allegro"][K:F][M:C|][L:1/4|] !f! F> G (A/B/) (c/d/) | d2cz | \
+w: do-na no--bis_ pa-cem
+!p! BBAG | c2Az | \
+w: do-na no-bis pa-cem
+!f! eefd | (cB)Az | \
+w: do-na no-bis pa--cem
+!sfz! !>!_e2e2 | d2Gz | \
+w: do-na no-bis
+!f! _eeee | d2Gz | \
+w: do-na no-bis pa-cem
+!sfz! !>!_d2d2 | c2Fz | \
+w: do-na no-bis
+!f! _dddd | c2Fz | \
+w: do-na no-bis pa-cem
+!f! ddff | a4 | g4 | fzz2 | Z | z \
+w: do-na no-bis pa--cem
+!f! f2e | d2c2 | cdgf | e2d2 | ^ccz2 | \
+w: do-na no-bis pa-cem do-na no-bis pa-cem
+!f! d2f2 | =B2d2 | c2cz | \
+w: do-na no-bis pa-cem
+!p! f2 ^c2 | d2f2 | a4 | g4 | fzz2 | Z3 | \
+w: do-na no-bis pa--cem
+!p! f2f2 | f2d2 | c4 | B4 | Azz2 | \
+w: do-na no-bis pa--cem
+!f! ffff | a4 | g4 | fz \
+w: do-na no-bis pa--cem
+!p! FF | F2F2 | G4- | G4 | Fz \
+w: do-na no-bis pa--cem
+!p! FF | F2F2 | !p! c4- | c4 | A z \
+w: do-na no-bis pa--cem
+!p! FF | F2F2 | G4- | G4 | Fz \
+w: do-na no-bis pa--cem
+!p! FF | F2F2 | G4- | G4 | Fzz2 | Z5 |] \
+w: do-na no-bis pa--cem
+%------------------

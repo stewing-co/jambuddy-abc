@@ -1,0 +1,62 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Marsch CF (mr07700) 
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.358 (mr07700) orig. C,F
+T: Alte Seltisberger Musik. S.354-377
+T:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+R:Marsch
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"cG/G/.G2 | cG/G/.G2 | cG ce | "G7"g2z(G/e/) |: "C"e2z(G/e/) | e2z(G/c/) | ee (dc) | "G7"B2z(G/d/) | d2z(G/d/) | 
+d2z(G/d/) | .d.f (ed) | "C"c2z(G/c/) | "Am".e2.c2 | A3A | "G7"BB/B/ AB | "C"cd ez | .e2.c2 | "G"G3d | 
+"D7"ed e^f | "G7"g2z2 :: "C".e2.e2 | e2dc | ("G7"cB) .B.B | B2 B/c/d/e/ | .f2.f2 | f2 ed  | ("C"dc) .c.c | 
+c2z2 | .e2.e2 | c2 (de) | ("F"gf) .f.f | f2z2 | "C/G"e2(de) | "G7"f3B | "C"cc/c/ cc | c2z2 :| [K:F] 
+"F".F2.F2 | .F2.F2 |: "F"A3c | (cf f)A |  "Bb"G3d | d2z2 | "C7"E3G | (Ge e)d | "F"c3F | 
+A2z2 | F3A | (Ac gf) | "Bb"e3d | .d2.d2 | "C7"d3c | =Bc de | "F".f2 f>f | f2z2 :| 
+W:
+W:Anmerkung H.C.: Var. Arisdorf 30, Fricktal 16, Böckten 6, Rünenberg 9, 
+W:    Ziefen/Läufelfingen 14, Häfelfingen/Itingen 1
+% mr07700
+% Sep 22, 2017 (starting from dreams)
+
+X:2
+T:Marsch GC 7+ (mr07700)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.358 (mr07700) orig. C,F
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+R:Marsch
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"gd/2d/2.d2 | gd/2d/2.d2 | gd gb | "D7"d'2z(d/2b/2) |: "G"b2z(d/2b/2) | b2z(d/2g/2) | bb (ag) | "D7"f2z(d/2a/2) | a2z(d/2a/2) | 
+a2z(d/2a/2) | .a.c' (ba) | "G"g2z(d/2g/2) | "Em".b2.g2 | e3e | "D7"ff/2f/2 ef | "G"ga bz | .b2.g2 | "D"d3a | 
+"A7"ba b^c' | "D7"d'2z2 :: "G".b2.b2 | b2ag | ("D7"gf) .f.f | f2 f/2g/2a/2b/2 | .c'2.c'2 | c'2 ba | ("G"ag) .g.g | 
+g2z2 | .b2.b2 | g2 (ab) | ("C"d'c') .c'.c' | c'2z2 | "G/D"b2(ab) | "D7"c'3f | "G"gg/2g/2 gg | g2z2 :| [K:C] 
+"C".c2.c2 | .c2.c2 |: "C"e3g | (gc' c')e | "F"d3a | a2z2 | "G7"B3d | (db b)a | "C"g3c | 
+e2z2 | c3e | (eg d'c') | "F"b3a | .a2.a2 | "G7"a3g | ^fg ab | "C".c'2 c'>c' | c'2z2 :| 
+%W:Anmerkung H.C.: Var. Arisdorf 30, Fricktal 16, Böckten 6, Rünenberg 9, Ziefen/Läufelfingen 14, Häfelfingen/Itingen 1
+% mr07700
+% Sep 22, 2017
+
+X:3
+T:Marsch GC 5- (mr07700)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.358 (mr07700) orig. C,F
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+R:Marsch
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"GD/2D/2.D2 | GD/2D/2.D2 | GD GB | "D7"d2z(D/2B/2) |: "G"B2z(D/2B/2) | B2z(D/2G/2) | BB (AG) | "D7"F2z(D/2A/2) | A2z(D/2A/2) | 
+A2z(D/2A/2) | .A.c (BA) | "G"G2z(D/2G/2) | "Em".B2.G2 | E3E | "D7"FF/2F/2 EF | "G"GA Bz | .B2.G2 | "D"D3A | 
+"A7"BA B^c | "D7"d2z2 :: "G".B2.B2 | B2AG | ("D7"GF) .F.F | F2 F/2G/2A/2B/2 | .c2.c2 | c2 BA | ("G"AG) .G.G | 
+G2z2 | .B2.B2 | G2 (AB) | ("C"dc) .c.c | c2z2 | "G/D"B2(AB) | "D7"c3F | "G"GG/2G/2 GG | G2z2 :| [K:C] 
+"C".C2.C2 | .C2.C2 |: "C"E3G | (Gc c)E | "F"D3A | A2z2 | "G7"B,3D | (DB B)A | "C"G3C | 
+E2z2 | C3E | (EG dc) | "F"B3A | .A2.A2 | "G7"A3G | ^FG AB | "C".c2 c>c | c2z2 :| 
+%W:Anmerkung H.C.: Var. Arisdorf 30, Fricktal 16, Böckten 6, Rünenberg 9, Ziefen/Läufelfingen 14, Häfelfingen/Itingen 1
+% mr07700
+% Sep 22, 2017

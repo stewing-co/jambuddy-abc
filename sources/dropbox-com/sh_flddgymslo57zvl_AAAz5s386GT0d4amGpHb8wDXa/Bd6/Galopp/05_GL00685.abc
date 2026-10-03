@@ -1,0 +1,100 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Leigger-Galopp (nach Seewer Seppi)  DG
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.250 (GL00685) orig. D,G-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"G"agB2 | "D"gfA2 | "A7"d>c BA | "D"dba2 | "G"agB2 | "D"gfA2 | 
+"A7"dd/c/ Bc |1 "D"d2z2 :|2 "D"d3A/A/ |: "D"A2"G"B2 | "D"A3A | "A7"Ag f/g/g | 
+"D"Af e/f/f | A2"G"B2 | A3A | "A7"Aa B>c |1 "D"d3c/c/ :|2 "D"d3z |: [K:G] "G"dg/g/ ga | 
+"Am"ba/a/ ae | "D7"gf ed | "G"c2B2 | dg/g/ ga | "Am"ba/a/ ae | "D7"gf e>f | "G"g3z :|  
+X:2
+T:Leigger-Galopp (nach Seewer Seppi)  CF 2-
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+"F"gfA2 | "C"feG2 | "G7"c>B AG | "C"cag2 | "F"gfA2 | "C"feG2 | 
+"G7"cc/2B/2 AB |1 "C"c2z2 :|2 "C"c3G/2G/2 |: "C"G2"F"A2 | "C"G3G | "G7"Gf e/2f/2f | 
+"C"Ge d/2e/2e | G2"F"A2 | G3G | "G7"Gg A>B |1 "C"c3B/2B/2 :|2 "C"c3z |: [K:F] "F"cf/2f/2 fg | 
+"Gm"ag/2g/2 gd | "C7"fe dc | "F"B2A2 | cf/2f/2 fg | "Gm"ag/2g/2 gd | "C7"fe d>e | "F"f3z :| 
+% GL00685
+X:3
+T:Leigger-Galopp (nach Seewer Seppi)  GC 7-
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+"C"dcE2 | "G"cBD2 | "D7"G>F ED | "G"Ged2 | "C"dcE2 | "G"cBD2 | 
+"D7"GG/2F/2 EF |1 "G"G2z2 :|2 "G"G3D/2D/2 |: "G"D2"C"E2 | "G"D3D | "D7"Dc B/2c/2c | 
+"G"DB A/2B/2B | D2"C"E2 | D3D | "D7"Dd E>F |1 "G"G3F/2F/2 :|2 "G"G3z |: [K:C] "C"Gc/2c/2 cd | 
+"Dm"ed/2d/2 dA | "G7"cB AG | "C"F2E2 | Gc/2c/2 cd | "Dm"ed/2d/2 dA | "G7"cB A>B | "C"c3z :| 
+% GL00685
+X:4
+T:Leigger-Galopp (nach Seewer Seppi)  CF (5letras transposed)
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"F"gfA2 | "C"feG2 | "G7"c>B AG | "C"cag2 | "F"gfA2 | "C"feG2 | \
+"G7"cc/2B/2 AB |1 "C"c2z2 :|2 "C"c3G/2G/2 ||  
+|: "C"G2"F"A2 | "C"G3G | "G7"Gf e/2f/2f | \
+"C"Ge d/2e/2e | G2"F"A2 | G3G | "G7"Gg A>B |1 "C"c3B/2B/2 :|2
+ "C"c3z |: [K:F] "F"cf/2f/2 fg | \
+"Gm"ag/2g/2 gd | "C7"fe dc | "F"B2A2 | cf/2f/2 fg | "Gm"ag/2g/2 gd | "C7"fe d>e | "F"f3z :| 
+% GL00685
+X:5
+T:Leigger-Galopp (nach Seewer Seppi)  GC (5letras transposed)
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"C"dcE2 | "G"cBD2 | "D7"G>F ED | "G"Ged2 | "C"dcE2 | "G"cBD2 | \
+"D7"GG/2F/2 EF |1 "G"G2z2 :|2
+ "G"G3D/2D/2 |: "G"D2"C"E2 | "G"D3D | "D7"Dc B/2c/2c | \
+"G"DB A/2B/2B | D2"C"E2 | D3D | "D7"Dd E>F |1 "G"G3F/2F/2 :|2
+ "G"G3z |: [K:C] "C"Gc/2c/2 cd | \
+"Dm"ed/2d/2 dA | "G7"cB AG | "C"F2E2 | Gc/2c/2 cd | "Dm"ed/2d/2 dA | "G7"cB A>B | "C"c3z :| 
+% GL00685
+X:6
+T: Leigger-Galopp (nach Seewer Seppi)  D&G (tinwhistle in D)
+T:GL00685 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Galopp
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"G"agB2 | "D"gfA2 | "A7"d>c BA | "D"dba2 | "G"agB2 | "D"gfA2 | 
+"A7"dd/c/ Bc |1 "D"d2z2 :|2 "D"d3A/A/ |: "D"A2"G"B2 | "D"A3A | "A7"Ag f/g/g | 
+"D"Af e/f/f | A2"G"B2 | A3A | "A7"Aa B>c |1 "D"d3c/c/ :|2 "D"d3z |: [K:G] "G"dg/g/ ga | 
+"Am"ba/a/ ae | "D7"gf ed | "G"c2B2 | dg/g/ ga | "Am"ba/a/ ae | "D7"gf e>f | "G"g3z :|  
+X:7
+T: Leigger-Galopp (nach Seewer Seppi)  D&G (tinwhistle in D) solo
+T:GL00685 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Galopp
+M:2/4
+L:1/8
+K:D transpose=12
+agB2 | gfA2 | d>c BA | dba2 | agB2 | gfA2 | \
+dd/c/ Bc |1 d2z2 :|2 d3A/A/ ||
+|: A2B2 | A3A | Ag f/g/g | \
+Af e/f/f | A2B2 | A3A | Aa B>c |1 d3c/c/ :|2 d3z || [K:G] 
+|: dg/g/ ga | \
+ba/a/ ae | "D7"gf ed | c2B2 | dg/g/ ga | ba/a/ ae | gf e>f | g3z :|   
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 7, 2016

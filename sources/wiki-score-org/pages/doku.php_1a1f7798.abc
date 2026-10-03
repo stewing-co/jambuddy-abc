@@ -1,0 +1,19 @@
+X:511
+T:Agnus Dei
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 11 clef=treble name="Corno in F/Eb (Fa/Eb) II" sname="Cor.II"
+%%MIDI program 1 69
+%%staves [( 11 )]
+%------------------
+[Q:"Largetto"] [K:C] !p! C2C!>!C3 | Czzz2z | Z3 | z2zz2 !p! G, | C2zz2z | Z3 | \
+!pp! G,6- | G,6- | G,6- | G,6- | !p! G,/G,/G,/G,/G,/G,/ G,2z | G,2zz2z | \
+!f! e2ee2e | e2ee2e | e2!f!e d2d | c2zz2z | "_CheCk ms" !pp!e6- | e3 !fermata!z3 || \
+[Q:"Allegro"][K:F][M:C|][L:1/4|] !f! Czz2 | Z3 | !f!G,zCz | Z3 | !f! GGGz | Z4 | !f!CCCC | CzCz | \
+!f! cc/>c/cc | GzGz | !f! CCCz | G,zG,z |Czz2 | Z3 | !f! ezez | ezz2 | !f!dzdz | \
+GzGz | !p! c4- | czz2 | !f!czz2 | Gzz2 | !f! C4- | CCCz | Z6 | z2!f!CC | Czz2 | \
+!f! G,zG,z |G,zG,z | Czz2 | !p!Czz2 | Z2 | !p! .Czz2 | .Czz2 | !p! G,4- | G,4 | Czz2 | \
+!p! Czz2 | Z2 | !p!Czz2 | Czz2 | !p! G,4- | G,4 | Czz!p!C | CCCC | Czz2 | !p!Czz2 | !p!Czz2 | !p!Czz2 |]\
+%------------------

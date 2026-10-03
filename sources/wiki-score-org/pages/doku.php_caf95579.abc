@@ -1,0 +1,40 @@
+X:105
+T:Hodie Nobis
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 5 clef=alto1 name="Superius" sname="S."
+%%MIDI program 1 1
+%%staves [ 5 ]
+%----------
+% bars 1-13
+A2 | AA | ^G2 | A ^c | d2 | ^c A | A A/ A/ | G2 | Gc| BB/ B/ | A2 -| A2| ^G2 !segno! || \
+%
+w: Ho-di-e no-bis  de coe-lo pax ve-ra des-cen-dit pax ve-ra des-cen--dit
+% bars 12-..
+[M:3/2] ^G>GG | AAA| G3| GA2 | ^G>^FG | A>Bc | B3 | c2A | ^G>^FG | A>A^F | G3 | GG2 -| GFF | E3| E3 -| E3 !fine!|] \
+%
+w: Ho-di-e per to-tum mun-dum mel-li-flu-i fa-ct sunt coe-li mel-li-flu-i fa-cti sunt coe-li fa--cti sunt coe--li
+%
+[M:2/2] A2 -| AA | A2 | zA|^GG|A>B|^cd-|dc|B2|Az|Z3|z \
+%
+w: Ho--di-e i-lu-xit no-------bis
+%
+A-|A/ A/ A | cc| BB| A2-|A ^G/^F/ |^GE- | EE|GG|G2|GG|(A2|G2)|G2 | Z4 | \
+%
+w: Di--es re-dem-pti-o-nis no----vae re--pa-ra-ti-o-nis an-ti--quae
+%
+zE|EE|F2|EE/"^#"F/|^G/E/ A-|A^G|A2| Z3 | \
+%
+w: fe-li-ci-ta-tis ae----ter---nae
+%
+zA|AA|c2|B^G|Ac-|cB|c2|Z2| \
+%
+w: fe-li-ci-ta-tis ae-ter----nae
+%
+zB|BB|c2|B^G|A2-|A^G/^F/| ^G2 !segno!|] \
+%
+w: fe-li-ci-ta-tis ae-ter----nae
+%
+%----------

@@ -1,0 +1,49 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Fr\"anzli-L\"andler  F  (ABCAB)
+T:Hanny Christen. Bd.II  St. Gallen II, Graub\"unden, Tessin. S.271 (LD02010) orig. F
+T: Graub\"unden. Repertoire von Peter Davoli, Davos/Samedan
+T:\"Uberliefert vermutlich durch Joggi Stocker (1889-1956)
+%%partsbox
+%%MIDI program 21
+P:ABCAB
+O:Switzerland
+R:L\"andler
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A] "F"F3A Ac | "Gm"cdd2d2 | "C7"C2 EG ce | "F"ef f2f2 | F3A Ac | "Gm"cdd2d2 | "C7"C2 EG ce | "F"f2z2z2 :| 
+[P:B] |: "Gm"g3b "C7"ag | "F"fa gf ed | "C7"c2 ec BG | "F"FA cf af | "Gm"g3b "C7"ag | "F"fa gf ed | "C7"c2 ec BG | "F"F2"_Fine"z2z2 :| 
+[P:C] |: "Bb"B3d fb | "F7"aa ac f2 | fa ac f2 | "Bb"fb bd f2 | B3d fb | "F7"aa ac f2 | fa ac fa | "Bb"b2"_>Teil A"z2z2 :| 
+% LD02010
+
+X:2
+T:Fr\"anzli-L\"andler  F  (LD02010)
+O:Switzerland
+%%MIDI program 21
+R:L\"andler
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"F3A Ac | "Gm"cdd2d2 | "C7"C2 EG ce | "F"ef f2f2 | F3A Ac | "Gm"cdd2d2 | "C7"C2 EG ce | "F"f2z2z2 :| 
+|: "Gm"g3b "C7"ag | "F"fa gf ed | "C7"c2 ec BG | "F"FA cf af | "Gm"g3b "C7"ag | "F"fa gf ed | "C7"c2 ec BG | "F"F2"_Fine"z2z2 :| 
+|: "Bb"B3d fb | "F7"aa ac f2 | fa ac f2 | "Bb"fb bd f2 | B3d fb | "F7"aa ac f2 | fa ac fa | "Bb"b2"_>Teil A"z2z2 :| 
+W:Parts: ABC-AB
+% LD02010
+
+X:3
+T:Fr\"anzli-L\"andler  G 2+  (LD02010)
+O:Switzerland
+%%MIDI program 21
+R:L\"andler
+M:3/4
+L:1/8
+K:G%%MIDI gchordon
+"G"G3B Bd | "Am"dee2e2 | "D7"D2 FA df | "G"fg g2g2 | G3B Bd | "Am"dee2e2 | "D7"D2 FA df | "G"g2z2z2 :| 
+|: "Am"a3c' "D7"ba | "G"gb ag fe | "D7"d2 fd cA | "G"GB dg bg | "Am"a3c' "D7"ba | "G"gb ag fe | "D7"d2 fd cA | "G"G2"_Fine"z2z2 :| 
+|: "C"c3e gc' | "G7"bb bd g2 | gb bd g2 | "C"gc' c'e g2 | c3e gc' | "G7"bb bd g2 | gb bd gb | "C"c'2"_>Teil A"z2z2 :| 
+W:Parts: ABC-AB
+% LD02010
+% Sep 25, 2016

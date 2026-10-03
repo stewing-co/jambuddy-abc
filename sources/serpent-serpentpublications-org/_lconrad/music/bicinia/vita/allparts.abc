@@ -1,0 +1,92 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+
+X:1
+T:40v. La vita fugge
+T:Tenor.
+C:André Feuernage
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C
+L:1/4
+N:Original clef, C on fourth line
+K:A min -8va
+%%MIDI transpose -12
+z2 e4 B2 ^c2 d3 B/ c/ d/ B/ c/ A/ B/ G/ A/ B/ G/ A/ B/ c/ d/ B/ c/ A/ B2 "A"A2 z A ^G A c3 c c/ B/ A/ G/ A2 A2
+w: La vi- ta fug- * * * * * * * * * * * * * * * * * * * ge et non s'a- rest'- un ho- * * * * ra
+z c2 A F4 F2 F2 G4 A4 d3 c A/ B/ c/ d/ e/ d/ B/ c/ d/ c/ B/ A/ "(1)"B c > B A2 G A4
+N:(1) original is an eighth note
+w: Et la mor- te vié die- tr'a grá gio- ma- * * * * * * * * * * * * * * * * te,
+z A/ A/ A2 ^G A B ^G A B c2 c2
+w: Et le co- se pre- sen- té le pas- sa- te 
+z c d d c/ d/ B/ c/ A/ B/ G/ A/ B/ c B/ c2 z G c B A G d2 e2
+w: Mi dan'no guer- * * * * * * * * * * * ra, et le fu- tur'- an- co- ra
+z d c B A/ f/ e/ d/ c d e2 d2
+w: E'l ri- mé- brar et lá- spet- tar mác- co- ra, 
+z D D/ E/ F/ G/ A/ G/ A/ B/ c2 B2 z d d c/ B/ A/ G/ F/ E/ D d G G/ G/ A2 A2
+w: Hor quin- * * * * * * * * ci, hor quin- di- * * * * * * si ch´é ve- ri- ta- te 
+z c B/ A/ G/ A/ B/ c/ d/ e/ f3/2 e// d// c2 z e d > d c  c B/ B/ d2 "(3)"A2
+N:(3) Original is a quarter note.
+w: Se non * * * * * * * * * * * ch'io ho di me stes- so pie- ta- te,
+c B B A > A A A B G A2 A2 z e d d ^c > c c c d B c2 c2 z
+w: I fa- rei gia di que- sti pen- sier fo- ra, I fa-  rei gia di que- sti pen- sier fo- ra,
+e d d c z/ c/ B B A > c c c d B A3/4 B// c3/4 d// e3/4 f// g3/4 f// e3/4 d// c3/4 B// A3/4 G// F3/4 E// D3/4 E// F3/4 G// A A z2 
+w: I fa- rei gia I fa- rei gia di que- sti pen- sier fo- ra,
+"(2)"z/ A/ A/ A/ _B A2 G A16 |]
+N:(2) rest inserted by editor.
+w: di que- sti pen- sier fo- * * * * * * * * * * * * *  ra, di que- sti pen- sier fo- ra.
+
+X:2
+T:40v. La vita fugge
+T:Basso.
+C:André Feuernage
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C
+L:1/4
+K:A min bass
+%%MIDI transpose -24
+a4 e6 ^f2 g3 e/ f/ g/ e/ f/ d/ e/ c/ d/ e/ f/ g/ a2 ^g "A"a4 z f e f a3 f f/ e/ d/ c/ d2 A2
+w: La vi- ta fug- * * * * * * * * * * * * * * ge et non s'a- rest'- un ho- * * * * ra
+z f2 d _B4 B2 B2 c4 d4 g3 e d/ e/ f/ g/ a/ g/ f/ e/ d c/ B/ A/ B/ c/ A/ _B2 A2
+w: Et la mor- te vié die- tr'a grá gio- ma- * * * * * * * * * * * * * * * te,
+z d/ d/ d2 ^c d e ^c d e f2 f2
+w: Et le co- se pre- sen- té le pas- sa- te 
+z f f e d/ e/ f/ g/ a/ f/ g/ e/ f/ d/ e/ c/ d/ e/ d c4 z g d e ^f g c2 d2 
+w: Mi dan'no guer- * * * * * * * * * * * * * * * ra, et le fu- tur'- an- co- ra
+z e f g a/ c'/ b/ a/ g a _b2 a4
+w: E'l ri- mé- brar et lá- spet- tar mác- co- ra, 
+z A A/ B/ c/ d/ e/ d/ e/ f/ g2 f2 z a a g/ f/ e/ d/ c/ B/ A a d d/ d/ e2 e2
+w: Hor quin- * * * * * * * * ci, hor quin- di- * * * * * * si ch´é ve- ri- ta- te 
+z g f/ e/ d/ e/ f/ g/ a/ b/ c'3/2 b// a// g2 z a2 g > g f f e/ e/ g2 d2
+w: Se non * * * * * * * * * * *  ch'io ho di me stes- so pie- ta- te, 
+z f e e d > d d d e c d2 A2 
+w: I fa- rei gia di que- sti pen- sier fo- ra
+z a g g f2 z a g g f > f f f g e f2 c2
+w: I fa- rei gia I fa- rei gia di que- sti pen- sier fo- ra,
+g f f e > e e e f d f3/4 g// a3/4 g// f3/4 e// d3/4 e// f3/4 e// d3/4 c// d3/4 c// _B2 A16 |]
+w: I fa- rei gia di que- sti pen- sier fo- * * * * * * * * *  * * * * * ra.
+

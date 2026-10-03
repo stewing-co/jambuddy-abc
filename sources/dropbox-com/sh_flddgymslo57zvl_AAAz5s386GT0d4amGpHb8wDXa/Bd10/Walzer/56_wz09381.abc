@@ -1,0 +1,45 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Walzer  BbF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.211 (wz09381) orig. Bb,F
+T: \"Uberliefert durch Lina Krupski-Herger (1946), Lehrer Leuthold (1945), Edy Lussy und Melk Rohrer (1949)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:Bb %%MIDI gchordon
+"Bb"f2g | f2d | "F7"e2f | e3 | f/f/ fd' | c'ze | "Bb"d/d/dc' | b2d | f2g | f2d | 
+"F7"e2f | e2c | f2d' | c'2a | "Bb"b>bb | bzz :: [K:F] "F"c>cc | d/c/ B/A/ G/F/ | ("tr""C7"FE)E | E2G | 
+c>cc | e/d/ c/B/ A/G/ | ("tr""F"GF)F | F2A | c>cc | f/e/ d/c/ B/A/ | ("tr""Gm/Bb"AG)G | G2d | "F"c>dc | 
+"C7"c/d/cE | "F"F E/F/ A/c/ |1 fzF/A/ :|2 fzD || [K:Bb] "Bb"FzF | FB>d | "F7"cA>c | f3 | FzF | FA>c |  
+"Bb"dB>d | f3 | FzF | FB>d | "Cm/Eb"cc>e | g3 | "F7"f2e | g2a | "Bb"b/b/ d'/b/ f/d/ | Bzz |] 
+% wz09381 (H 337/TN 14)
+X:2
+T:Walzer  FC 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"c2d | c2A | "C7"B2c | B3 | c/2c/2 ca | gzB | "F"A/2A/2Ag | f2A | c2d | c2A | 
+"C7"B2c | B2G | c2a | g2e | "F"f>ff | fzz :: [K:C] "C"G>GG | A/2G/2 F/2E/2 D/2C/2 | ("tr""G7"CB,)B, | B,2D | 
+G>GG | B/2A/2 G/2F/2 E/2D/2 | ("tr""C"DC)C | C2E | G>GG | c/2B/2 A/2G/2 F/2E/2 | ("tr""Dm/F"ED)D | D2A | "C"G>AG | 
+"G7"G/2A/2GB, | "C"C B,/2C/2 E/2G/2 |1 czC/2E/2 :|2 czA, || [K:F] "F"CzC | CF>A | "C7"GE>G | c3 | CzC | CE>G | 
+"F"AF>A | c3 | CzC | CF>A | "Gm/Bb"GG>B | d3 | "C7"c2B | d2e | "F"f/2f/2 a/2f/2 c/2A/2 | Fzz |] 
+% wz09381
+X:3
+T:Walzer  FC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+"F"c2d | c2A | "C7"B2c | B3 | c/2c/2 ca | gzB | "F"A/2A/2Ag | f2A | c2d | c2A | 
+"C7"B2c | B2G | c2a | g2e | "F"f>ff | fzz :: [K:C] "C"G>GG | A/2G/2 F/2E/2 D/2C/2 | ("tr""G7"CB,)B, | B,2D | 
+G>GG | B/2A/2 G/2F/2 E/2D/2 | ("tr""C"DC)C | C2E | G>GG | c/2B/2 A/2G/2 F/2E/2 | ("tr""Dm/F"ED)D | D2A | "C"G>AG | 
+"G7"G/2A/2GB, | "C"C B,/2C/2 E/2G/2 |1 czC/2E/2 :|2 czA, || [K:F] "F"CzC | CF>A | "C7"GE>G | c3 | CzC | CE>G | 
+"F"AF>A | c3 | CzC | CF>A | "Gm/Bb"GG>B | d3 | "C7"c2B | d2e | "F"f/2f/2 a/2f/2 c/2A/2 | Fzz |] 
+% wz09381
+% Sep 22, 2016

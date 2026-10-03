@@ -1,0 +1,77 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Stutzi-Polka  GC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.267 (pk01011) orig. G,C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"Bddd eddd | Bddd b4 | "D7"baa2 ac'ba | "G"gbbgd4 | Bddd eddd | BdddB4 | 
+"D7"baa2 ac'ba |1 "G"g2g2 g2z2 :|2 "G"g2g2 g2gc' |: [K:C] "C"a2g2 e2c2 | "G7"d2G2 G2gb | a2g2 f2de | 
+"C"d2c2 c2gc' | a2g2 e2c2 | "G7"d2G2 G2gb | a2g2 gfed |1 "C"c2e2 c2bc' :|2 "C"c2e2 c2z2 |] 
+W:Anmerkung H.C.: Rittener Toni, Simplon Dorf, 22. Nov. 1955, Theod\"ul Rittener Fiesch 1899
+X:2
+T:Stutzi-Polka  CF 7-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"EGGG AGGG | EGGG e4 | "G7"edd2 dfed | "C"ceecG4 | EGGG AGGG | EGGGE4 | 
+"G7"edd2 dfed |1 "C"c2c2 c2z2 :|2 "C"c2c2 c2cf |: [K:Fmaj] "F"d2c2 A2F2 | "C7"G2C2 C2ce | d2c2 B2GA | 
+"F"G2F2 F2cf | d2c2 A2F2 | "C7"G2C2 C2ce | d2c2 cBAG |1 "F"F2A2 F2ef :|2 "F"F2A2 F2z2 |] 
+% pk01011
+X:3
+T:Stutzi-Polka  GC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"Bddd eddd | Bddd b4 | "D7"baa2 ac'ba | "G"gbbgd4 | Bddd eddd | BdddB4 | 
+"D7"baa2 ac'ba |1 "G"g2g2 g2z2 :|2 "G"g2g2 g2gc' |: [K:C] "C"a2g2 e2c2 | "G7"d2G2 G2gb | a2g2 f2de | 
+"C"d2c2 c2gc' | a2g2 e2c2 | "G7"d2G2 G2gb | a2g2 gfed |1 "C"c2e2 c2bc' :|2 "C"c2e2 c2z2 |] 
+% pk01011
+X:4
+T:Stutzi-Polka  CF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"EGGG AGGG | EGGG e4 | "G7"edd2 dfed | "C"ceecG4 | EGGG AGGG | EGGGE4 | 
+"G7"edd2 dfed |1 "C"c2c2 c2z2 :|2 "C"c2c2 c2cf |: [K:Fmaj] "F"d2c2 A2F2 | "C7"G2C2 C2ce | d2c2 B2GA | 
+"F"G2F2 F2cf | d2c2 A2F2 | "C7"G2C2 C2ce | d2c2 cBAG |1 "F"F2A2 F2ef :|2 "F"F2A2 F2z2 |] 
+% pk01011
+X:5
+T:Stutzi-Polka G&D (tinwhistle in D)
+T:pk01011 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:Dmaj%%MIDI gchordon
+"D"FAAA BAAA | FAAA f4 | "A7"fee2 egfe | "D"dffdA4 | FAAA BAAA | FAAAF4 | 
+"A7"fee2 egfe |1 "D"d2d2 d2z2 :|2 "D"d2d2 d2dg |: [K:Gmaj] "G"e2d2 B2G2 | "D7"A2D2 D2df | e2d2 c2AB | 
+"G"A2G2 G2dg | e2d2 B2G2 | "D7"A2D2 D2df | e2d2 dcBA |1 "G"G2B2 G2fg :|2 "G"G2B2 G2z2 |] 
+X:6
+T:Stutzi-Polka G&D (tinwhistle in D) solo
+T:pk01011 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+FAAA BAAA | FAAA f4 | fee2 egfe | dffdA4 | FAAA BAAA | FAAAF4 | 
+fee2 egfe |1 d2d2 d2z2 :|2 d2d2 d2dg |: [K:Gmaj] e2d2 B2G2 | A2D2 D2df | e2d2 "_c"c2AB | 
+A2G2 G2dg | e2d2 B2G2 | A2D2 D2df | e2d2 d"_c"cBA |1 G2B2 G2fg :|2 G2B2 G2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 5, 2016

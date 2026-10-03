@@ -1,0 +1,80 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Galopp 1844  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.17 (GL08925) orig. C,F-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c/c/c Ge | c2z2 |:"C"a>ge2 | a>ge2 | G>e e>d | c>B A>G | "G7"g>fd2 | g>fd2 |1 
+G>f f>e | d>c B>A :|2 [Gd]>[af] [eg]>[df] | "C"[ce]2z2 |: "G7"d>^c d>f | B>A G>F | "C"E>Gc2 | G>ce2 |  "G7"d>^c d>f | 
+B>A G>F | "C"E>G "G7"g>f | "C"ee ez :| [K:F] "F".f2.g2 | "F0"^g3a | "F"b3 a |  a!>!g2f | "C7".e2.f2 | g3^g | b>a ^g>a | 
+"F"f2z2 | .f2.g2 | "F0"^g3a | "F"b>a ^g>a | !>!c'2b>b | "Gm"b>a g>f | "C7"c'>b b>a | ^g>a =g>e | !>!"F"f2z2 |] 
+W: Anmerkung H.C.: Teil C, letzter Takt, HC: c, Teil B vermutlich 2. Stimme.
+% GL08925
+X:2
+T:Galopp 1844  GC 5-
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"G/2G/2G DB | G2z2 |:"G"e>dB2 | e>dB2 | D>B B>A | G>F E>D | "D7"d>cA2 | d>cA2 |1 
+D>c c>B | A>G F>E :|2 [DA]>[ec] [Bd]>[Ac] | "G"[GB]2z2 |: "D7"A>^G A>c | F>E D>C | "G"B,>DG2 | D>GB2 | "D7"A>^G A>c | 
+F>E D>C | "G"B,>D "D7"d>c | "G"BB Bz :| [K:C] "C".c2.d2 | "C0"^d3e | "C"f3 e | e!>!d2c | "G7".B2.c2 | d3^d | f>e ^d>e | 
+"C"c2z2 | .c2.d2 | "C0"^d3e | "C"f>e ^d>e | !>!g2f>f | "Dm"f>e d>c | "G7"g>f f>e | ^d>e =d>B | !>!"C"c2z2 |] 
+% GL08925
+X:3
+T: Galopp 1844  CF (5letras transposed)
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"c/c/c Ge | c2z2 |:"C"a>ge2 | a>ge2 | G>e e>d | c>B A>G | "G7"g>fd2 | g>fd2 |1 
+G>f f>e | d>c B>A :|2 [Gd]>[af] [eg]>[df] | "C"[ce]2z2 |: "G7"d>^c d>f | B>A G>F | "C"E>Gc2 | G>ce2 |  "G7"d>^c d>f | 
+B>A G>F | "C"E>G "G7"g>f | "C"ee ez :| [K:F] "F".f2.g2 | "F0"^g3a | "F"b3 a |  a!>!g2f | "C7".e2.f2 | g3^g | b>a ^g>a | 
+"F"f2z2 | .f2.g2 | "F0"^g3a | "F"b>a ^g>a | !>!c'2b>b | "Gm"b>a g>f | "C7"c'>b b>a | ^g>a =g>e | !>!"F"f2z2 |] 
+W: Anmerkung H.C.: Teil C, letzter Takt, HC: c, Teil B vermutlich 2. Stimme.
+% GL08925
+X:4
+T:Galopp 1844  GC (5letras transposed)
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"G/2G/2G DB | G2z2 |:"G"e>dB2 | e>dB2 | D>B B>A | G>F E>D | "D7"d>cA2 | d>cA2 |1 
+D>c c>B | A>G F>E :|2 [DA]>[ec] [Bd]>[Ac] | "G"[GB]2z2 |: "D7"A>^G A>c | F>E D>C | "G"B,>DG2 | D>GB2 | "D7"A>^G A>c | 
+F>E D>C | "G"B,>D "D7"d>c | "G"BB Bz :| [K:C] "C".c2.d2 | "C0"^d3e | "C"f3 e | e!>!d2c | "G7".B2.c2 | d3^d | f>e ^d>e | 
+"C"c2z2 | .c2.d2 | "C0"^d3e | "C"f>e ^d>e | !>!g2f>f | "Dm"f>e d>c | "G7"g>f f>e | ^d>e =d>B | !>!"C"c2z2 |] 
+% GL08925
+X:5
+T:Galopp 1844 A&D (tinwhistle in D)
+T:GL08925 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:galopp
+M:2/4
+L:1/8
+K:A %%MIDI gchordon
+"A"A/2A/2A Ec | A2z2 |:"A"f>ec2 | f>ec2 | E>c c>B | A>G F>E | "E7"e>dB2 | e>dB2 |1 
+E>d d>c | B>A G>F :|2 [EB]>[fd] [ce]>[Bd] | "A"[Ac]2z2 |: "E7"B>^A B>d | G>F E>D | "A"C>EA2 | E>Ac2 | "E7"B>^A B>d | 
+G>F E>D | "A"C>E "E7"e>d | "A"cc cz :| [K:D] "D".d2.e2 | "D0"^e3f | "D"g3 f | f!>!e2d | "A7".c2.d2 | e3^e | g>f ^e>f | 
+"D"d2z2 | .d2.e2 | "D0"^e3f | "D"g>f ^e>f | !>!a2g>g | "Em"g>f e>d | "A7"a>g g>f | ^e>f =e>c | !>!"D"d2z2 |] 
+X:6
+T:Galopp 1844 A&D (tinwhistle in D) solo
+T:GL08925 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:galopp
+M:2/4
+L:1/8
+K:A transpose=12
+A/2A/2A Ec | A2z2 |:f>ec2 | f>ec2 | E>c c>B | A>"_#"G F>E | e>dB2 | e>dB2 |1 
+E>d d>c | B>A "_#"G>F :|2 [EB]>[fd] [ce]>[Bd] | [Ac]2z2 |: B>^A B>d | "_#"G>F E>D | "_=C"C>EA2 | E>Ac2 | B>^A B>d | 
+"_#"G>F E>D | "_=C"C>E e>d | cc cz :| [K:D] .d2.e2 | "_f"^e3f | g3 f | f!>!e2d | .c2.d2 | e3"_f"^e | g>f "_f"^e>f | 
+d2z2 | .d2.e2 | "_f"^e3f | g>f "_f"^e>f | !>!a2g>g | g>f e>d | a>g g>f | "_f"^e>f =e>c | !>!d2z2 |]
+% Aug 8, 2016

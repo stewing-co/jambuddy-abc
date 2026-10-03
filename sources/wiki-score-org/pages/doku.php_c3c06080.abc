@@ -1,0 +1,29 @@
+X:206
+T:Andantino
+C:Pugnani, Gaetano (1731-1798)
+M:3/4
+L:1/4
+K:D
+V: 6 clef=treble name="Violino Secondo" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 6 }]
+%-------------
+[Q:"Andantino"] D3|-DDC|B,DD|B,CD| !f!B,3|A,/!p!AAD/ | CED| !trill!DC2| D3|-DDC|B,DD|B,CD| \
+!f!B,3|A,/AAD/ | DDC| D3 | Z4 | (^G,A,B, | {D}C>B,A,) |  (^G,A,B, | {D}C>B,A,) | \
+{E}(D/C//B,//) A,^G, | [A,A]>(DF/A/) | (=G/F/G/E/D/C/) | D3 | DDC | B,DD | B,CD | !f!B,3 | A,/AAD/ | \
+DDC | D3| Z14 |
+%-- (^G,A,B, | {D}C>B,A,) | (^G,A,B, | {D}C>B,A,) | ({E}D/C//B,//) A,^G, | [A,A]>(DF/A/) | (=G/F/G/E/D/C/)
+!p!D3- | DDC | B,DD | B,DD | !f!B,3 | A,/AAD/| DDC | !ff!D (D//E//F//G//) F/F/ | \
+(F/E/) (C//D//E//F//) E/E/ | E/D/  (D//E//F//G//) (F//G//E//F//) | (A//G//F//E//) DC | \
+D (D//E//F//=G//) F/F/ | \
+(F/E/) (C//D//E//F//) E/E/ | E/D/ D//C//D//E// F//G//E//F// | {A}(G/F//E//) DC | D3 | !fermata!C3! |: \
+[Q:"Allegro ma non troppo"] !p!A,3 | G,3 | (G,/G/)(G/F/)(F/E/)| !trill!ED2 | \
+!f![A,A] (A//E//)(A//E//) (F//A//)(F//D//) | A (A//E//)(A//E//) (F//A//)(F//D//) | \
+d//c//f//e// d//c//B//A// G//F//E//F// | F/>D/ C2 :| A3 & A=G2 | \
+(F//A//)(^G//A//) (G//A//)(G//A//) (=G//F//E//D//) | \
+A3 & A=G2 | (F//A//)(^G//A//) (G//A//)(G//A//) (A//F//=G//E//) | \
+!p!A,3 | G,3 | (G,/G/)(G/F/)(F/E/) | (E//D//C//D//) (F//E//D//E//) (F//G//E//F//) | {A/}G/F//E// DC | \
+!f!D//d//f//d//  D//f//a//f// d//f//a//d'// | g//b//a//g// f//f//d//f// {f/}e/d//c// | \
+d//f//a//f//  D//f//a//f// d//f//a//d'// | g//b//a//g// {g/}f/d//f// {f/}e/d//c// | \
+d//A//F//A// d//A//F//A// d//A//F//A// | [DAf]/a/ [DAf]/a/ [DAf]/a/ | [DAf]3 |]
+%-------------

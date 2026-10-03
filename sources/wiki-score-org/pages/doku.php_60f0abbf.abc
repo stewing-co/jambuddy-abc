@@ -1,0 +1,47 @@
+X:115
+T:[Orchestras]
+C:Giuseppe Totti (17__-1832)
+M:C
+L:1/4
+K:Bb
+V: 15 clef=bass name="Fagotto [II]" sname="Fg. II"
+%%MIDI program 1 68
+%%staves [( 15 )]
+%----- edit between the lines ----
+[Q:"Allegro com spirito"]  !f! B,, z B,, z | B,, z z2 | Z |\
+"^col.bass" B, > F, B, > F, | B, B,, B,, z | z !p! E, F, F, | !f! B,, z z2 |\
+Z | z2 !p! (G,2 | ^F,2 =F,2) | E, z z2 | Z | z2 E, z | E, z2 <E, =E,/ |\
+!f! F, F, F, F, | B,,/B,/D/F,/ B,/F,/D,/B,,/ | F, F, F, F, |\
+B,,/B,/D/F,/ B,/F,/D,/B,,/ | F,, z z2 | Z2 | z2 (F, G, | A,) z (F, G, |\
+A,) (B, C) A, | B, z B,, z2 | <B, F, <B, F,/ | G, z G,, z2 | <G, D, <G, D,/ |\
+C, z C, z | F, z F,, z | C, z C, C, | F, z z2 | B,, z B,, z | B,, z z2 |\
+B,, z F, z | =E, z F, z | C, z F, z | B,, z =B,, z | C, z z2 |\
+C,/C/C/C/ C/=B,//A,// G,//F,//=E,//D,// | C, z z2  | z C A, F, |\
+C, z/ "_violoncelo" !p! (C/ =B,/C/_B,/^G,/) | A,/(A,/B,/A,/ ^G,/A,/=G,/=E,/) |\
+F, z z2 | Z2 | z// F,,//G,,//A,,// B,,//C,//D,//=E,// F,/F,//E,// D,/D,//C,// |\
+B,, z z2 | Z6 | z// F,,//G,,//A,,// B,,//C,//D,//=E,// F,/F,//E,// D,/D,//C,// |\
+B,, z z2 | z// G,,//A,,//B,,// C,//D,//=E,//F,// G,//F,//E,//D,// C,//B,,//A,,//G,,// |\
+F,, z z2 | F, F, F, F, | F, z z2 | G, z D, D, | G, z/ G,/ C, z/ C/ |\
+F, z/ F,/ F,, z/ F,/ | B,, z/ B,/ B,, z/ B,,/ | F,,/ G,, A,,/ B,,/ C, _D,/ |\
+C,2 C,2 | F,, z z2 | F, z F, z | F,/ G, A,/ B,/ C _D/ | C2 C,2 | F, F,, F,, F,, |\
+F,,/F,/A,/F,/ C,/F,/A,,/C,/ | F,, z z (F,/G,/) | (^G,/A,) <A, F,/C,/A,,/ |\
+B,, z z2 | Z2 | z A,//^G,//A,//G,// A, A,//B,//A,//=G,// | F, z z2 | Z4 |\
+"^col.bass" F,, z F,, z | F,, z z x "_check!" | Z | F, > C, F, > C, | F, F,, F,, z |\
+z B,, C, C, | F,, z z2 | Z |z2 !p! (_A,2 | G,2) (D,2 | E,) z z2 | Z |\
+z2 (F,2 | E,2) =B,,2 | C, z z2 | Z | z2 C, z | C, z C, z | C, z z2 |\
+z =B, C C | =B, z z2 | Z2 | z F, G, G, | F, z z2 | D,/E,/D,/E,/ F, E,/D,/ |\
+"^col.bass" E, z E, z2 | <E, B,, <E, B,,/ | E, z E, z2 | <B, G, <B, G,/ |\
+E, z E, z | F, z F, z | F,2 F,2 | F, z F,, z | B,,2 B,,2 | E, z z2 | Z5 |\
+z/ F,/F,/F,/ F,/=E,//D,// C,//B,,//A,,//G,,// | F,,2 F,,2 | F,, F, D, B,, |\
+F,, [K: clef=alto4] z/ (F/ =E/F/_E/^C/) | D/ (D/E/D/ ^C/D/=C/A,/ |\
+B,) z z2 | Z2 | F, z F, z | B, z z2 [K: clef=F] |\
+z// C,//D,//E,// F,//G,//A,//B,// C/C//B,// A,/A,//G,// | F, z z2 |\
+Z4 | z// B,,//C,//D,// E,//F,//G,//A,// B,/B,//A,// G,/G,//F,// |\
+E, z z2 |z2 A,//G,//F,//E,// D,//C,//B,,//A,,// | B,, z z2 |\
+"^col.bass" B,,2 B,,2 | B,, z z2 | C,2 C,2 | C, z/ C/ C, z/ C/ |\
+F, z/ F,/ F,, z/ F,/ | B,,/ !sfz! C, D,/ E,/ !sfz! F, _G,/ |\
+F,2 F,,2 | B,, z z2 | B,, z z2 | B,,/ !sfz! C, D,/ E,/ !sfz! F, _G,/ |\
+F,2 F,2 | B,, z z2 | !p! B,, z z2 | B,, z z !f! B,, | F, z z2 |\
+Z | z2 z F, | B,, E, F, F,, | B,, E,, F,, F,, | B,, B,, B,, B,, |\
+B,,/B,/D/B,/ F,/B,/D,/F,/ | B,, z F,, z | B,, z z2 |]
+%---------------------------------

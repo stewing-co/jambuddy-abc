@@ -1,0 +1,58 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka GC (mz07310)  ABACDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.284f (mz07310) orig. G,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+% P:ABACDC
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+[P:A] "G"de dB "C"ce | ("G"dB).b2.b2 | ("D7"cA).a2.a2 | "G"B>g f>ed2 | de dB ("C"ce) | ("G"dB).b2.b2 | ("D7"cd) (df) b>a | "G"g4z2 :| 
+[P:B] "Em"bc' bg eg | "B7"Tf2.b2.b2 | bd'/c'/ b2a2 | "Em"g>a f>ge2 | "A7"ab ag eg | T"D"f2.d'2.d'2 | "A7"(^c'>b) (a>g) (f>e) | "D7"d2z!>!e !>!d"_>Teil A"!>!e |]
+ [P:C] [K:C] |: "C"E3F ^FG | "F"A6 | ("G7"A/G/)z (G/B/)z (B/d/)z | !>!"C"f2 e>^d e2 | E3F ^FG | "F"A6 | ("G7"A/G/)z (G/B/)z e>d | 
+"C"c4z2 :| [P:D]  ("G"Dd) !>!B3e  | ("Am"d/c/)z (c/B/)z !>!c2 | "C".e.d .c.B !>!"D7"c2 | "G"BA G^F !>!G2 | (Dd) !>!B3e  | ("Am"d/c/)z (c/B/)z !>!c2 | "C"ed cB "D7"c^F | "G"G4"_>Teil C"G2  |] 
+%% mz07310
+% June 11, 2017
+
+X:2
+T:Mazurka GC (mz07310)  
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.284f (mz07310) orig. G,C
+S: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"de dB "C"ce | ("G"dB).b2.b2 | ("D7"cA).a2.a2 | "G"B>g f>ed2 | de dB ("C"ce) | ("G"dB).b2.b2 | ("D7"cd) (df) b>a | "G"g4z2 :| 
+"Em"bc' bg eg | "B7"Tf2.b2.b2 | bd'/c'/ b2a2 | "Em"g>a f>ge2 | "A7"ab ag eg | T"D"f2.d'2.d'2 | "A7"(^c'>b) (a>g) (f>e) | "D7"d2z!>!e !>!d"_>Teil A"!>!e || [K:C]
+|: "C"E3F ^FG | "F"A6 | ("G7"A/G/)z (G/B/)z (B/d/)z | !>!"C"f2 e>^d e2 | E3F ^FG | "F"A6 | ("G7"A/G/)z (G/B/)z e>d | 
+"C"c4z2 :| ("G"Dd) !>!B3e  | ("Am"d/c/)z (c/B/)z !>!c2 | "C".e.d .c.B !>!"D7"c2 | "G"BA G^F !>!G2 | (Dd) !>!B3e  | ("Am"d/c/)z (c/B/)z !>!c2 | "C"ed cB "D7"c^F | "G"G4"_>Teil C"G2  |] 
+W:Parts: ABACDC
+%% mz07310
+% June 11, 2017
+
+X:3
+T:Mazurka CF 7- (mz07310)  
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.284f (mz07310) orig. G,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"GA GE "F"FA | ("C"GE).e2.e2 | ("G7"FD).d2.d2 | "C"E>c B>AG2 | GA GE ("F"FA) | ("C"GE).e2.e2 | ("G7"FG) (GB) e>d | "C"c4z2 :| 
+"Am"ef ec Ac | "E7"TB2.e2.e2 | eg/2f/2 e2d2 | "Am"c>d B>cA2 | "D7"de dc Ac | "G"B2.g2.g2 | "D7"(^f>e) (d>c) (B>A) | "G7"G2z!>!A !>!G"_>Teil A"!>!A || [K:F]
+|: "F"A,3B, =B,C | "Bb"D6 | ("C7"D/2C/2)z (C/2E/2)z (E/2G/2)z | !>!"F"B2 A>^G A2 | A,3B, =B,C | "Bb"D6 | ("C7"D/2C/2)z (C/2E/2)z A>G | 
+"F"F4z2 :| ("C"G,G) !>!E3A | ("Dm"G/2F/2)z (F/2E/2)z !>!F2 | "F".A.G .F.E !>!"G7"F2 | "C"ED C=B, !>!C2 | (G,G) !>!E3A | ("Dm"G/2F/2)z (F/2E/2)z !>!F2 | "F"AG FE "G7"F=B, | "C"C4"_>Teil C"C2 |] 
+W:Parts: ABACDC
+%% mz07310
+% June 11, 2017

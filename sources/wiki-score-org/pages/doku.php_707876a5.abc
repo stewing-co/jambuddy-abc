@@ -1,0 +1,14 @@
+X:3808
+T:Rondo [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:E
+V: 8 clef=treble name="Clarinete II" sname="Cl.II"
+%%MIDI program 1 71
+%%staves [( 8 )]
+%-----------------------------
+[Q:"Andante"] z2 | Z23 | z z/ e//>g// f z/ e/ | \
+d z/ e//>g// f z/ e/ | !fermata! d2 z2 | \
+"^[not playing again?; check ms]" Z | Z94 |]
+%-----------------------------

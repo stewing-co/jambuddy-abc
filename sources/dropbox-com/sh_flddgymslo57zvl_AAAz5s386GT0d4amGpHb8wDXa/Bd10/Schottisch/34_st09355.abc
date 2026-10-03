@@ -1,0 +1,102 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Schottisch  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.198 (st09355) orig. C,F
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+(ef) |: "C".g2(ge) .a2(ae) | "G7".g2(gd) .f2(fd) | .b2(bf) .a2(ae) | "C"g2e2 cdef | .g2(ge) .a2(ae)  | 
+"G7".g2(gd) .f2(fd) | .b2(ba) gfed |1 "C"c2e2 c2ef :|2 "C"c2e2 c2gg |:  !>!"C"g4 Gcea | !>!g4 Gcec' | "G7"b3f a3e | 
+"C"g2e2 cdef | !>!g4 Gcea | !>!g4 Gcec' | "G7".b2(bg) g2B2 |1 "C"c2e2 c2gg :|2 "C"c2e2 c2z2 |: [K:F] "C7"B4 (dc).A.B | 
+"F"c4 (dc).A.B | .c2.d2 .e2.f2 | "C7"(fe)(gf) e4 | .g2(gd) .f2fc | .e2(eB) .d2(dA) | .e2(eB) d4 | "F"c2A2F4 | 
+"C7"B4 (dc).A.B | "F"c4 (dc).A.B | .c2.d2 .e2.f2 | g3f !>!a4 | "Bb"a2dd d2dd | "F/C"a2cc "Bb"B2BB | "C7"c2e2 c'3g | "F"f2a2 f2z2 :| 
+W:
+W: Anmerkung H.C.: T\"anzli vo der Aelplerchilbi, Altdorf
+% st09355
+X:2
+T:Schottisch  GC 5-
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+(Bc) |: "G".d2(dB) .e2(eB) | "D7".d2(dA) .c2(cA) | .f2(fc) .e2(eB) | "G"d2B2 GABc | .d2(dB) .e2(eB) | 
+"D7".d2(dA) .c2(cA) | .f2(fe) dcBA |1 "G"G2B2 G2Bc :|2 "G"G2B2 G2dd |: !>!"G"d4 DGBe | !>!d4 DGBg | "D7"f3c e3B | 
+"G"d2B2 GABc | !>!d4 DGBe | !>!d4 DGBg | "D7".f2(fd) d2F2 |1 "G"G2B2 G2dd :|2 "G"G2B2 G2z2 |: [K:C] "G7"F4 (AG).E.F | 
+"C"G4 (AG).E.F | .G2.A2 .B2.c2 | "G7"(cB)(dc) B4 | .d2(dA) .c2cG | .B2(BF) .A2(AE) | .B2(BF) A4 | "C"G2E2C4 | 
+"G7"F4 (AG).E.F | "C"G4 (AG).E.F | .G2.A2 .B2.c2 | d3c !>!e4 | "F"e2AA A2AA | "C/G"e2GG "F"F2FF | "G7"G2B2 g3d | "C"c2e2 c2z2 :| 
+% st09355
+X:3
+T:Schottisch  CF (5letras transposed)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+(ef) |: "C".g2(ge) .a2(ae) | "G7".g2(gd) .f2(fd) | .b2(bf) .a2(ae) | "C"g2e2 cdef | .g2(ge) .a2(ae)  | 
+"G7".g2(gd) .f2(fd) | .b2(ba) gfed |1 "C"c2e2 c2ef :|2 "C"c2e2 c2gg |:  !>!"C"g4 Gcea | !>!g4 Gcec' | "G7"b3f a3e | 
+"C"g2e2 cdef | !>!g4 Gcea | !>!g4 Gcec' | "G7".b2(bg) g2B2 |1 "C"c2e2 c2gg :|2 "C"c2e2 c2z2 |: [K:F] "C7"B4 (dc).A.B | 
+"F"c4 (dc).A.B | .c2.d2 .e2.f2 | "C7"(fe)(gf) e4 | .g2(gd) .f2fc | .e2(eB) .d2(dA) | .e2(eB) d4 | "F"c2A2F4 | 
+"C7"B4 (dc).A.B | "F"c4 (dc).A.B | .c2.d2 .e2.f2 | g3f !>!a4 | "Bb"a2dd d2dd | "F/C"a2cc "Bb"B2BB | "C7"c2e2 c'3g | "F"f2a2 f2z2 :| 
+% st09355
+X:4
+T:Schottisch  GC (5letras transposed)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+(Bc) |: "G".d2(dB) .e2(eB) | "D7".d2(dA) .c2(cA) | .f2(fc) .e2(eB) | "G"d2B2 GABc | .d2(dB) .e2(eB) | 
+"D7".d2(dA) .c2(cA) | .f2(fe) dcBA |1 "G"G2B2 G2Bc :|2 "G"G2B2 G2dd |: !>!"G"d4 DGBe | !>!d4 DGBg | "D7"f3c e3B | 
+"G"d2B2 GABc | !>!d4 DGBe | !>!d4 DGBg | "D7".f2(fd) d2F2 |1 "G"G2B2 G2dd :|2 "G"G2B2 G2z2 |: [K:C] "G7"F4 (AG).E.F | 
+"C"G4 (AG).E.F | .G2.A2 .B2.c2 | "G7"(cB)(dc) B4 | .d2(dA) .c2cG | .B2(BF) .A2(AE) | .B2(BF) A4 | "C"G2E2C4 | 
+"G7"F4 (AG).E.F | "C"G4 (AG).E.F | .G2.A2 .B2.c2 | d3c !>!e4 | "F"e2AA A2AA | "C/G"e2GG "F"F2FF | "G7"G2B2 g3d | "C"c2e2 c2z2 :| 
+% st09355
+X:5
+T:Schottisch A&D (tinwhistle in D)
+T:st09355 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottische
+M:2/4
+L:1/16
+K:A %%MIDI gchordon
+(cd) |: "A".e2(ec) .f2(fc) | "E7".e2(eB) .d2(dB) | .g2(gd) .f2(fc) | "A"e2c2 ABcd | .e2(ec) .f2(fc) | 
+"E7".e2(eB) .d2(dB) | .g2(gf) edcB |1 "A"A2c2 A2cd :|2 "A"A2c2 A2ee |: !>!"A"e4 EAcf | !>!e4 EAca | "E7"g3d f3c | 
+"A"e2c2 ABcd | !>!e4 EAcf | !>!e4 EAca | "E7".g2(ge) e2G2 |1 "A"A2c2 A2ee :|2 "A"A2c2 A2z2 |: [K:D] "A7"G4 (BA).F.G | 
+"D"A4 (BA).F.G | .A2.B2 .c2.d2 | "A7"(dc)(ed) c4 | .e2(eB) .d2dA | .c2(cG) .B2(BF) | .c2(cG) B4 | "D"A2F2D4 | 
+"A7"G4 (BA).F.G | "D"A4 (BA).F.G | .A2.B2 .c2.d2 | e3d !>!f4 | "G"f2BB B2BB | "D/A"f2AA "G"G2GG | "A7"A2c2 a3e | "D"d2f2 d2z2 :| 
+% st09355
+X:6
+T:Schottisch A&D (tinwhistle in D) solo
+T:st09355 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottische
+M:2/4
+L:1/16
+K:A transpose=12
+(cd) |: .e2(ec) .f2(fc) | .e2(eB) .d2(dB) | .g2(gd) .f2(fc) | e2c2 ABcd | .e2(ec) .f2(fc) | 
+.e2(eB) .d2(dB) | "_#".g2(gf) edcB |1 A2c2 A2cd :|2 A2c2 A2ee |: !>!e4 EAcf | !>!e4 EAca | g3d f3c | 
+e2c2 ABcd | !>!e4 EAcf | !>!e4 EAca | "_#".g2(ge) e2G2 |1 A2c2 A2ee :|2 A2c2 A2z2 |: [K:D] G4 (BA).F.G | 
+A4 (BA).F.G | .A2.B2 .c2.d2 | (dc)(ed) c4 | .e2(eB) .d2dA | .c2(cG) .B2(BF) | .c2(cG) B4 | A2F2D4 | 
+G4 (BA).F.G | A4 (BA).F.G | .A2.B2 .c2.d2 | e3d !>!f4 | f2BB B2BB | f2AA G2GG | A2c2 a3e | d2f2 d2z2 :|
+% st09355
+X:7
+T:Schottisch G&D (tinwhistle in D) var. solo
+T:st09355 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottische
+M:2/4
+L:1/16
+K:G transpose=12
+(Bc) |: .d2(dB) .e2(eB) | .d2(dA) .c2(cA) | .f2(fc) .e2(eB) | d2B2 GABc | .d2(dB) .e2(eB) | 
+.d2(dA) .c2(cA) | .f2(fe) dcBA |1 G2B2 G2Bc :|2 G2B2 G2dd |: !>!d4 DGBe | !>!d4 DGBg | f3c e3B | 
+d2B2 GABc | !>!d4 DGBe | !>!d4 DGBg | .f2(fd) d2F2 |1 G2B2 G2dd :|2 G2B2 G2z2 |: [K:D] G4 (BA).F.G | 
+A4 (BA).F.G | .A2.B2 .c2.d2 | (dc)(ed) c4 | .e2(eB) .d2dA | .c2(cG) .B2(BF) | .c2(cG) B4 | A2F2D4 | 
+G4 (BA).F.G | A4 (BA).F.G | .A2.B2 .c2.d2 | e3d !>!f4 | f2BB B2BB | f2AA G2GG | A2c2 a3e | d2f2 d2z2 :|
+% st09355
+% Sep. 5, 2016

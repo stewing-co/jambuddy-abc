@@ -1,0 +1,68 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Mazurka  FBb (ABCAB)
+T:Hanny Christen. Bd.II  St. Gallen II, Graub\"unden, Tessin. S.267 (mz02004) orig. F,Bb
+T: Graub\"unden. Repertoire von Peter Davoli, Davos/Samedan
+T:\"Uberliefert vermutlich durch Joggi Stocker (1889-1956)
+%%partsbox
+%%MIDI program 21
+P:ABCAB
+R:mazurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A] "F".a2.g2.f2 | "C7"e>g B>AB2 | "Bb".f2.e2.d2 | "F"c>f A>GA2 | .A2 !>!d3A | "C7"B>A G>F E>G | .c2!>!e3g | "F"fa cf Ac | 
+.a2.g2.f2 | "C7"e>g B4 | "Bb".f2.e2.d2 | "F"c>f A4 | "D7".A2 !>!d3A  | "Gm"B>A G>F E>G | "C7".c2.e2.g2 | "F"f2f2z2 || 
+ [P:B] "C7".B2!>!g4 | "F".A2!>!f4 | "C7"eb ce ge | "F"fa cf Ac | "C7".B2!>!g4 | "F".A2 !>!f4 | "C7"e>d c>B A>G | "F"F2f2"_Fine"z2 :| 
+[P:C] [K:Bb] "Bb"d3A B>G | F>B .d2.d2 | d>c B>d g>f | "F7"f>e A2z2 | c3B A>c | a>g g2f2 | A>c f>c e>d | "Bb"d2B2B2 | 
+d3A B>G | F>B d2d2 | d>c B>d g>f | "F7"f>e A4 | ca a3g | "Bb"fd b3b | "F7"a>g f>e d>c | "Bb"B2B2"_>Teil A"z2 |] 
+% mz02004
+
+X:2
+T:Mazurka  CF 5-  (mz02004)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C%%MIDI gchordon
+"C".e2.d2.c2 | "G7"B>d F>EF2 | "F".c2.B2.A2 | "C"G>c E>DE2 | .E2 !>!A3E | "G7"F>E D>C B,>D | .G2!>!B3d | "C"ce Gc EG | 
+.e2.d2.c2 | "G7"B>d F4 | "F".c2.B2.A2 | "C"G>c E4 | "A7".E2 !>!A3E | "Dm"F>E D>C B,>D | "G7".G2.B2.d2 | "C"c2c2z2 || 
+"G7".F2!>!d4 | "C".E2!>!c4 | "G7"Bf GB dB | "C"ce Gc EG | "G7".F2!>!d4 | "C".E2 !>!c4 | "G7"B>A G>F E>D | "C"C2c2"_Fine"z2 :| [K:F] 
+"F"A3E F>D | C>F .A2.A2 | A>G F>A d>c | "C7"c>B E2z2 | G3F E>G | e>d d2c2 | E>G c>G B>A | "F"A2F2F2 | 
+A3E F>D | C>F A2A2 | A>G F>A d>c | "C7"c>B E4 | Ge e3d | "F"cA f3f | "C7"e>d c>B A>G | "F"F2F2"_>Teil A"z2 |] 
+W:Parts: ABC-AB
+% mz02004
+
+X:3
+T:Mazurka D&G (tinwhistle in D)
+T:mz02004 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D".f2.e2.d2 | "A7"c>e G>FG2 | "G".d2.c2.B2 | "D"A>d F>EF2 | .F2 !>!B3F | "A7"G>F E>D C>E | .A2!>!c3e | "D"df Ad FA | 
+.f2.e2.d2 | "A7"c>e G4 | "G".d2.c2.B2 | "D"A>d F4 | "B7".F2 !>!B3F | "Em"G>F E>D C>E | "A7".A2.c2.e2 | "D"d2d2z2 || 
+"A7".G2!>!e4 | "D".F2!>!d4 | "A7"cg Ac ec | "D"df Ad FA | "A7".G2!>!e4 | "D".F2 !>!d4 | "A7"c>B A>G F>E | "D"D2d2"_Fine"z2 :| [K:Gmaj] 
+"G"B3F G>E | D>G .B2.B2 | B>A G>B e>d | "D7"d>c F2z2 | A3G F>A | f>e e2d2 | F>A d>A c>B | "G"B2G2G2 | 
+B3F G>E | D>G B2B2 | B>A G>B e>d | "D7"d>c F4 | Af f3e | "G"dB g3g | "D7"f>e d>c B>A | "G"G2G2"_>Teil A"z2 |] 
+W:Parts: ABC-AB
+% mz02004
+
+X:4
+T:Mazurka D&G (tinwhistle in D) solo
+T:mz02004 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+.f2.e2.d2 | c>e G>FG2 | .d2.c2.B2 | A>d F>EF2 | .F2 !>!B3F | G>F E>D C>E | .A2!>!c3e | df Ad FA | 
+.f2.e2.d2 | c>e G4 | .d2.c2.B2 | A>d F4 | .F2 !>!B3F | G>F E>D C>E | .A2.c2.e2 | d2d2z2 || 
+.G2!>!e4 | .F2!>!d4 | cg Ac ec | df Ad FA | .G2!>!e4 | .F2 !>!d4 | c>B A>G F>E | D2d2"_Fine"z2 :| [K:Gmaj] 
+B3F G>E | D>G .B2.B2 | B>A G>B e>d | d>c F2z2 | A3G F>A | f>e e2d2 | F>A d>A c>B | B2G2G2 | 
+B3F G>E | D>G B2B2 | B>A G>B e>d | d>c F4 | Af f3e | dB g3g | f>e d>c B>A | G2G2"_>Teil A"z2 |]
+W:Parts: ABC-AB
+% mz02004
+% Sep 25, 2016

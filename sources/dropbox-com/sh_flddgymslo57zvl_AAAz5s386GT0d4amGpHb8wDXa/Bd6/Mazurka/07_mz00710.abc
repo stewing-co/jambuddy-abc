@@ -1,0 +1,99 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Mazurka  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.199 (mz00710) orig. C-Dur
+T:Walliser T\"anze. S.196-213.\"Uberliefert durch Josef Seewer und Marcel Tschopp, Leuk, 
+T: und Sepp Mutter, Ried/Brigerberg
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"G>G G>Ec2 | "G7"G>GG2d2 | G>G G>FB2 | "C"G>FG2c2 |  G>G G>Ec2 | "G7"G>G G>Fd2 | 
+G>G G>FB2 |1 "C"c2c2z2 :|2 "C"c2c2G>G |: "Dm/F"Af Ge Fd | "C"E>G cEG2 | "G7"D>F B>FG2 | 
+"C"E>G cE G>G | "Dm/F"Af Ge Fd | "C/G"E>G cEG2 | "G7"D>F BD FB |1 "C"c2c2G>G :|2 "C"c2c2z2 |]  
+X:2
+T:Mazurka  F 5+
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"c>c c>Af2 | "C7"c>cc2g2 | c>c c>Be2 | "F"c>Bc2f2 | c>c c>Af2 | "C7"c>c c>Bg2 | 
+c>c c>Be2 |1 "F"f2f2z2 :|2 "F"f2f2c>c |: "Gm/Bb"db ca Bg | "F"A>c fAc2 | "C7"G>B e>Bc2 | 
+"F"A>c fA c>c | "Gm/Bb"db ca Bg | "F/C"A>c fAc2 | "C7"G>B eG Be |1 "F"f2f2c>c :|2 "F"f2f2z2 |] 
+% mz00710
+X:3
+T:Mazurka  G 7+
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"d>d d>Bg2 | "D7"d>dd2a2 | d>d d>cf2 | "G"d>cd2g2 | d>d d>Bg2 | "D7"d>d d>ca2 | 
+d>d d>cf2 |1 "G"g2g2z2 :|2 "G"g2g2d>d |: "Am/C"ec' db ca | "G"B>d gBd2 | "D7"A>c f>cd2 | 
+"G"B>d gB d>d | "Am/C"ec' db ca | "G/D"B>d gBd2 | "D7"A>c fA cf |1 "G"g2g2d>d :|2 "G"g2g2z2 |] 
+% mz00710
+X:4
+T:Mazurka  C (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"G>G G>Ec2 | "G7"G>GG2d2 | G>G G>FB2 | "C"G>FG2c2 |  G>G G>Ec2 | "G7"G>G G>Fd2 | 
+G>G G>FB2 |1 "C"c2c2z2 :|2 "C"c2c2G>G |: "Dm/F"Af Ge Fd | "C"E>G cEG2 | "G7"D>F B>FG2 | 
+"C"E>G cE G>G | "Dm/F"Af Ge Fd | "C/G"E>G cEG2 | "G7"D>F BD FB |1 "C"c2c2G>G :|2 "C"c2c2z2 |]  
+% mz00710
+X:5
+T:Mazurka  F (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"c>c c>Af2 | "C7"c>cc2g2 | c>c c>Be2 | "F"c>Bc2f2 | c>c c>Af2 | "C7"c>c c>Bg2 | 
+c>c c>Be2 |1 "F"f2f2z2 :|2 "F"f2f2c>c |: "Gm/Bb"db ca Bg | "F"A>c fAc2 | "C7"G>B e>Bc2 | 
+"F"A>c fA c>c | "Gm/Bb"db ca Bg | "F/C"A>c fAc2 | "C7"G>B eG Be |1 "F"f2f2c>c :|2 "F"f2f2z2 |] 
+% mz00710
+X:6
+T:Mazurka  G (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"d>d d>Bg2 | "D7"d>dd2a2 | d>d d>cf2 | "G"d>cd2g2 | d>d d>Bg2 | "D7"d>d d>ca2 | 
+d>d d>cf2 |1 "G"g2g2z2 :|2 "G"g2g2d>d |: "Am/C"ec' db ca | "G"B>d gBd2 | "D7"A>c f>cd2 | 
+"G"B>d gB d>d | "Am/C"ec' db ca | "G/D"B>d gBd2 | "D7"A>c fA cf |1 "G"g2g2d>d :|2 "G"g2g2z2 |] 
+% mz00710
+X:7
+T:Mazurka  D (tinwhistle in D)
+T: mz00710 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"A>A A>Fd2 | "A7"A>AA2e2 | A>A A>Gc2 | "D"A>GA2d2 | A>A A>Fd2 | "A7"A>A A>Ge2 | 
+A>A A>Gc2 |1 "D"d2d2z2 :|2 "D"d2d2A>A |: "Em/G"Bg Af Ge | "D"F>A dFA2 | "A7"E>G c>GA2 | 
+"D"F>A dF A>A | "Em/G"Bg Af Ge | "D/A"F>A dFA2 | "A7"E>G cE Gc |1 "D"d2d2A>A :|2 "D"d2d2z2 |] 
+X:8
+T:Mazurka  D (tinwhistle in D) solo
+T: mz00710 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+A>A A>Fd2 | A>AA2e2 | A>A A>Gc2 | A>GA2d2 | A>A A>Fd2 | A>A A>Ge2 | 
+A>A A>Gc2 |1 d2d2z2 :|2 d2d2A>A |: Bg Af Ge | F>A dFA2 | E>G c>GA2 | 
+F>A dF A>A | Bg Af Ge | F>A dFA2 | E>G cE Gc |1 d2d2A>A :|2 d2d2z2 |]  
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 24, 2016

@@ -1,0 +1,22 @@
+X:701
+T:[Terceto]
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:G
+V: 1 clef=treble name="Tromba I" sname="Trb.I"
+%%MIDI program 1 56
+%%staves [( 1 )]
+%-------------------------------------------------------------------------------------------------------
+Z6 | z2 || z2 | Z2 || Z2 | !fermata!z4  || \
+[Q:"Allegro"]  z/ | Z3 | z/d/ d//e//d//A// d/f/ f//g//f//d// | f/a/ a//b//a//f// a/f//g// a//g//f//g// | \
+e/e//>e// e/e/ e z | z4 | z2 a/a//>a// a/a/ | bzgz | z/e/ d//d//d//d// d z | z4 | \
+!fermata! a z//d//e//f// .g/.b/.g/.d/ | .g/.b/ .a/.d/ g z | Z4 | \
+z2dz/d/|ez/d/dz/g/| f/f//>f// f/f/ .e.A | A2-A/A//>A// A/A/ | Fzz2 | \
+z/!f!a//b// a/f/ z/f//g// f/d/ | z/ f//>f// f/f/ ez | z4 | zz/A/ .d/.f/ .e/.a/ | \
+.d/.f/ .e/.a/ d z | Z4 | z2 a z | Z2 | z2zz/e/ | .e .d A/A//>A// A/A/ | A z z2 | \
+z4 | z2 z/ d//>d// d/D/ | Z4 | z/ a//>a// a/b/ az| Z3 | \
+z/d/ d//e//d//A// d/f/ f//g//f//d// | f/a/ a//b//a//f// a/f//g// a//g//f//g// | \
+e/e//>e// e/e/ e z | Z5 | \
+!fermata! a z//d//e//f// .g/.b/.a/.d/ | g/b/a/d/ g || z | Z11 | !fermata!z4 |] \
+%-------------------------------------------------------------------------------------------------------

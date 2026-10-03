@@ -1,0 +1,19 @@
+X:1301
+T:N.13 Solo e coro
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:C
+V: 1 clef=treble name="Flauta" sname="Fl."
+%%MIDI program 1 73
+%%staves [ 1 ]
+%---
+[Q: "Allegretto"] !f!(gag) ([b]ag) | g c'2- c'3 | ([b]ag) (fed) | c z2 z2 z |  Z2  !segno!|| \
+(gag) (bag) | g c'2-c'3 | bag fed | (e/f/g2)-g3 | (gag) (bag) | g c'2-c'3 | (bag) (ag^f) | g3-gzz || \
+d'c'b abc' | (c'g2) (egc') | bag fga | (ag2) g'f'e' | d'c'b abc' | (c'g2) (egc') | (bag) (d'c'b) !coda! || \
+c' [Q: "Lento"] zzz2z| Z4 |: "A" [Q: "1.o tempo"] (gag) (bag) | g c'2-c'3 | bag fed | (e/f/g2)-g3 | \
+(gag) (bag) | g c'2-c'3 | (bag) (ag^f) | g3-gzz || \
+(d'c'b) (abc') | c'g2-(gbc') | (bag) (d'c'b) | c' [Q:"Lento"] zzz2z| Z4 \
+"_Esta""_repeti\cc\~ao""_faz-se""_3 vezes" :| X [Q:"A tempo"] !segno!|| "_Repete" X !coda!|| \
+c'zz c'c'c' | c'2zc'2z| c'2zz2z|]
+%---

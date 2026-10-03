@@ -1,0 +1,52 @@
+X:1910
+T:A Voice From Dreamland
+T:from "A song-cycle of life and love" 
+C:G.W.L Marshall Hall 
+S:National Library of Australia MUS N m 783.247 M368 
+Z:Stephen Hamish Darby
+Q:1/4=90
+%%score 1 ( 2 3 ) ( 4 5 )
+L:1/8
+M:2/4
+I:linebreak $
+K:A
+V:1 treble nm="Voice" snm="Vo."
+V:2 treble nm="Melodica" snm="Mel."
+V:3 treble 
+V:4 treble nm="Melodica" snm="Mel."
+V:5 treble 
+V:1
+[I: MIDI=program 42] z4 | z4 | z4 | z3 C | C3 C | B,3 B, | E4 |$ C2 z2 | C2 ^D/C/^B,/C/ | G3 F | E4 | E z z E | F3 F | 
+^E3 =E |$ c4 | A2 z2 | B2 BA | c3 G | A4 | z4 | =c3 c |$ E3 E | ^D3 F | B2 z B | B3 B | 
+=D2 =F>E |$ E2 z A | A3 ^B/c/ | ^d>^B ^AG/G/ | G3 ^A/B/ |$ c>^A GF | F2 ^d2 | B2 ^D2 | F3 E | 
+^D2 z F |$ F2 =d2 | _B2 =F2 | =E4 | EA E>E | E4 | z4 |$ z4 | z4 |] 
+V:2
+[ec']3 [ec'] | [deb]3 [de] | [dbe']4 | [eac']2 z2 |[K:bass] [E,C]3 [E,C] | [D,B,]3 [D,B,] | 
+[D,B,E]4 |$ [E,A,C]2 z2 | z [^D,A,C]2 [D,A,C] | z .[^D,A,B,]2 .[D,A,B,] | z G,/E,/ F,C | E4 | 
+[K:treble] z [B,=DF]2 [B,DF] | z [B,=D^E]2 [B,DE] |$ z [G,B,C^E]2 =E | z [F,A,CF]2 [F,A,CF] | 
+z [A,B,D]2 [A,B,D] | z [G,DE]2 [G,DE] | z C/A,/ B,F | A4 | z [A,=C]/[G,B,]/ [A,^C][E,A,] |$ 
+z [=CE]/[B,^D]/ [CE][A,^C] | z [B,^D]/[A,^C]/ [B,D][F,B,] | z [^DF]/[^^C^E]/ [DF][B,D] | 
+z [B,=D]/[A,C]/ [B,D][D,B,] | z .[B,D]/.[^A,C]/ .[B,D].[D,B,] |$ z .[B,C]/.G,/ .A,.[CEA] | 
+[=D=F_B] [^C=E^A]2 [CEA] | AG/^^F/ G^d | [=B,=DG] [B,DG]2 [B,DG] |$ GF/^E/ Fc | ^DD DD | D^D DD | 
+F F2 F | [^DF] [DF]2 [DF] |$ FF =GG | [=F^G][FG] [FA][FA] | [DAB]4 | [DB]4 | [e=c']3 [e^c'] | 
+[=d=fb]3 [d^fb] |$ [dbe']4 | [ea^c']2 z2 |] 
+V:3
+x4 | x4 | z3 e | x4 |[K:bass] x4 | x4 | z3 E, |$ x4 | x4 | x4 | z E3 | [G,B,] [G,B,]2 [G,B,] | 
+[K:treble] x4 | x4 |$ x4 | x4 | x4 | x4 | A3 z | [CE] [CE]2 [=CE] | x4 |$ x4 | x4 | x4 | x4 | x4 |$ 
+x4 | x4 | [^B,^D] [=B,=D]3 | x4 |$ [^A,C] [A,C]3 | B,B,/^A,/ B,B,/A,/ | B,B,/^A,/ B,B,/A,/ | 
+[G,B,][G,B,]/[F,^A,]/ [G,B,][=A,C] | CB,/^A,/ B,F, |$ =DD/C/ DD/C/ | DD/C/ DD/C/ | x4 | AA/F/ Ge | 
+x4 | x4 |$ z3 e | x4 |] 
+V:4
+z E A2 | AA G2 | GA/F/ G z | [A,E]2 z2 |[K:bass] z E,, A,,2 | A,,A,, G,,2 | G,,A,,/F,,/ G,,G,, |$ 
+[A,,,E,,]E,, A,, z | F,,4 | B,,4 | E,,4 | E,,4 | B,,4 | G,,4 |$ A,,4 | A,,4 | =F,,4 | E,,4 | 
+A,,4 | A,,4 | A,,4 |$ A,,,4 | A,,4 | A,,,4 | G,,,4 | E,,,3 z |$ A,,,3 A,, | 
+A,,.=G,,/.F,,/ .^G,,=G, | F, F,,2 F,, | F,,.^E,,/.^^D,,/ .=E,,.E, |$ =E, =E,,2 ^A,,, | 
+[B,,,B,,]2 [^A,,,^A,,]2 | [G,,,G,,]2 [=G,,,=G,,]2 | [F,,,F,,]4 | [B,,,B,,]4 |$ 
+[B,,,,B,,,]2 [B,,,B,,]2 | [_B,,,_B,,]2 [A,,,A,,]2 | [E,,,E,,]4 | [E,,,E,,]4 | 
+[A,,,E,,][K:treble].E A2 | A.A G2 |$ GA/F/ G z | [A,E]2 z2 |] 
+V:5
+x4 | x4 | A,4 | x4 |[K:bass] x4 | x4 | A,,,4 |$ x4 | x4 | x4 | z E,/C,/ ^D,A, | x4 | x4 | x4 |$ 
+x4 | x4 | x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | 
+x4 | x4 |$ x4 | x4 | z .^F,/.^D,/ .E,C | B,4 | x[K:treble] x3 | x4 |$ A,4 | x4 |] 
+
+

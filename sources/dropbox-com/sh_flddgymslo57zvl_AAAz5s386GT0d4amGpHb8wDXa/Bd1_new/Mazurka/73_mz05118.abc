@@ -1,0 +1,39 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Mazurka CF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.372 (mz05118) orig. C,F-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c2 Ge dc | "G7"B2agf2 | B2ag fB | "C"c2 age2 |  c2 Ge dc | "G7"B2agf2 | B2ag fB | "C"c2c2z2 :: "F"c'2b2a2 | "C"g2ec ec' | 
+"G7"g2fB da | "C"g2 ec eg | "F"c'2b2a2 | "C"g2ec ea | "G7"g2 fB dB | "C"c2c2z2 :| [K:F] "F"A2c2f2 | a4e2 | "Bb".g2 .f2.d2 | "F"c6 | A>B c2f2 | 
+"C7"e>de2B2 | B>cd2e2 | "F"f>e f2c2 | A2c2f2 | a4e2 |  "Bb".g2 .f2.d2 | "F"c6 | c>cc2f2 | "Bb"d>dd2g2 | "C7"c2d2e2 | "F"f2f2z2 |] 
+% May 02, 2016
+X:2
+T:Mazurka GC 5- chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"G2 DB AG | "D7"F2edc2 | F2ed cF | "G"G2 edB2 | G2 DB AG | "D7"F2edc2 | F2ed cF | "G"G2G2z2 :: "C"g2f2e2 | "G"d2BG Bg | 
+"D7"d2cF Ae | "G"d2 BG Bd | "C"g2f2e2 | "G"d2BG Be | "D7"d2 cF AF | "G"G2G2z2 :| [K:Cmaj] "C"E2G2c2 | e4B2 | "F".d2 .c2.A2 | "C"G6 | E>F G2c2 | 
+"G7"B>AB2F2 | F>GA2B2 | "C"c>B c2G2 | E2G2c2 | e4B2 | "F".d2 .c2.A2 | "C"G6 | G>GG2c2 | "F"A>AA2d2 | "G7"G2A2B2 | "C"c2c2z2 |] 
+X:3
+T: Mazurka CF (5letras transposed)
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"c2 Ge dc | "G7"B2agf2 | B2ag fB | "C"c2 age2 |  c2 Ge dc | "G7"B2agf2 | B2ag fB | "C"c2c2z2 :: "F"c'2b2a2 | "C"g2ec ec' | 
+"G7"g2fB da | "C"g2 ec eg | "F"c'2b2a2 | "C"g2ec ea | "G7"g2 fB dB | "C"c2c2z2 :| [K:F] "F"A2c2f2 | a4e2 | "Bb".g2 .f2.d2 | "F"c6 | A>B c2f2 | 
+"C7"e>de2B2 | B>cd2e2 | "F"f>e f2c2 | A2c2f2 | a4e2 |  "Bb".g2 .f2.d2 | "F"c6 | c>cc2f2 | "Bb"d>dd2g2 | "C7"c2d2e2 | "F"f2f2z2 |] 
+X:4
+T:Mazurka GC (5letras transposed)
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"G2 DB AG | "D7"F2edc2 | F2ed cF | "G"G2 edB2 | G2 DB AG | "D7"F2edc2 | F2ed cF | "G"G2G2z2 :: "C"g2f2e2 | "G"d2BG Bg | 
+"D7"d2cF Ae | "G"d2 BG Bd | "C"g2f2e2 | "G"d2BG Be | "D7"d2 cF AF | "G"G2G2z2 :| [K:Cmaj] "C"E2G2c2 | e4B2 | "F".d2 .c2.A2 | "C"G6 | E>F G2c2 | 
+"G7"B>AB2F2 | F>GA2B2 | "C"c>B c2G2 | E2G2c2 | e4B2 | "F".d2 .c2.A2 | "C"G6 | G>GG2c2 | "F"A>AA2d2 | "G7"G2A2B2 | "C"c2c2z2 |] 
+

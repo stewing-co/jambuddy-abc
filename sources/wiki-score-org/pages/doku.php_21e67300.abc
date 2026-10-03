@@ -1,0 +1,14 @@
+X:1103
+T:N.15 Mais lento
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 3 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 3 ]
+%---- edit between the lines -----
+!p! z/(E,/F,) | z/(E,/F,) | z/(G,/ A,//.F//E//D//) || \
+!p! C > [A,E,] | [A,E,]>[A,E,] | [=F,_B,]>[F,B,] | \
+"_TBC" X
+%---------------------------------

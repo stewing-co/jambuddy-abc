@@ -1,0 +1,60 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Bummel-Petrus  (Polka)  Bb
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.324 (pk02121) orig. Bb
+T: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:polka
+M:2/4
+L:1/8
+K:Bb %%MIDI gchordon
+"Bb"df bf | "F7"e/f/e/d/c2 | c'c' c'>a | "Bb"b/a/b/c'/ d'2 | df bf | "F7"e/f/e/d/c2 | c'c' c'>a | "Bb"bb bz |] 
+ % pk02121  
+
+X:2
+T:Bummel-Petrus  (Polka)  C 10-  (pk02121)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.324 (pk02121) orig. Bb
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:polka
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"EG cG | "G7"F/2G/2F/2E/2D2 | dd d>B | "C"c/2B/2c/2d/2 e2 | EG cG | "G7"F/2G/2F/2E/2D2 | dd d>B | "C"cc cz |] 
+% pk02121 
+
+
+X:3
+T:Bummel-Petrus  (Polka)  G 3-  (pk02121)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.324 (pk02121) orig. Bb
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:polka
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"Bd gd | "D7"c/2d/2c/2B/2A2 | aa a>f | "G"g/2f/2g/2a/2 b2 | Bd gd | "D7"c/2d/2c/2B/2A2 | aa a>f | "G"gg gz |] 
+% pk02121 
+
+X:4
+T:Bummel-Petrus  (Polka)  F 5-  (pk02121)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.324 (pk02121) orig. Bb
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:polka
+M:2/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+"F"Ac fc | "C7"B/2c/2B/2A/2G2 | gg g>e | "F"f/2e/2f/2g/2 a2 | Ac fc | "C7"B/2c/2B/2A/2G2 | gg g>e | "F"ff fz |] 
+% pk02121 
+% Oct 5, 2016
+

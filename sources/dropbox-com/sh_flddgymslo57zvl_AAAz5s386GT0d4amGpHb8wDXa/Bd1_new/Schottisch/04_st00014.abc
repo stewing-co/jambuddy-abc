@@ -1,0 +1,55 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch  FCBbF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.47 (st00014) orig. F,C,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+fg |: "F"a2f2 d'2c'2 | "Gm/Bb"b2d2g4 | "C7"fedc =Bcdc | "F"a4 f2fg | a2f2 d'2c'2 | 
+"Gm/Bb"b2d2g4 | "C7"fedc =Bcde |1 "F"f2f2 f2fg :|2 "F"f2f2 f2z2 |: [K:C] [L:1/8] "C"e3g | e3g | 
+"Dm/F"fd "G7"af | "C"e2ee | e3g | e3g | "Dm/F"fd "G7"af | "C"e3"_> Teil A"f/g/ :| 
+[K:Bb] d/e/ |: "Bb"f>g f>g | fb dg | "F7"fec'2 | "Bb"edb2 | 
+f>g f>g | fb dg | "F7"fe c'a |1 "Bb"bb bd/e/ :|2 "Bb"bb bz |] 
+W:
+W: Anmerkung Hrsg.: Teil B: vermutlich Begleitstimme
+
+X:2
+T: Schottisch  FCBbF chords Parts
+P:ABAD
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+fg [P:A] |: "F"a2f2 d'2c'2 | "Gm/Bb"b2d2g4 | "C7"fedc =Bcdc | "F"a4 f2fg | a2f2 d'2c'2 | 
+"Gm/Bb"b2d2g4 | "C7"fedc =Bcde |1 "F"f2f2 f2fg :|2 "F"f2f2 f2z2 [P:B] |: [K:C] [L:1/8] "C"e3g | e3g | 
+"Dm/F"fd "G7"af | "C"e2ee | e3g | e3g | "Dm/F"fd "G7"af | "C"e3f/g/ :| 
+[K:Bb][P:C] d/e/ [P:D] |: "Bb"f>g f>g | fb dg | "F7"fec'2 | "Bb"edb2 | 
+f>g f>g | fb dg | "F7"fe c'a |1 "Bb"bb bd/e/ :|2 "Bb"bb bz |] 
+
+X:3
+T:Schottisch  CGF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+cd |: "C"e2c2 a2g2 | "Dm/F"f2A2d4 | "G7"cBAG ^FGAG | "C"e4 c2cd | e2c2 a2g2 | 
+"Dm/F"f2A2d4 | "G7"cBAG ^FGAB |1 "C"c2c2 c2cd :|2 "C"c2c2 c2z2 |: [K:Gmaj] [L:1/8] "G"B3d | B3d | 
+"Am/C"cA "D7"ec | "G"B2BB | B3d | B3d | "Am/C"cA "D7"ec | "G"B3"_> Teil A"c/2d/2 :| 
+[K:Fmaj] A/2B/2 |: "F"c>d c>d | cf Ad | "C7"cBg2 | "F"BAf2 | 
+c>d c>d | cf Ad | "C7"cB ge |1 "F"ff fA/2B/2 :|2 "F"ff fz |] 
+W:
+W:Anmerkung Hrsg.: Teil B: vermutlich Begleitstimme
+
+X:4
+T:Schottisch  CGF 5- chords Parts
+P:ABAD
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+cd [P:A] |: "C"e2c2 a2g2 | "Dm/F"f2A2d4 | "G7"cBAG ^FGAG | "C"e4 c2cd | e2c2 a2g2 | 
+"Dm/F"f2A2d4 | "G7"cBAG ^FGAB |1 "C"c2c2 c2cd :|2 "C"c2c2 c2z2 [P:B] |: [K:Gmaj] [L:1/8] "G"B3d | B3d | 
+"Am/C"cA "D7"ec | "G"B2BB | B3d | B3d | "Am/C"cA "D7"ec | "G"B3c/2d/2 :| 
+[K:Fmaj][P:C] A/2B/2 [P:D] |: "F"c>d c>d | cf Ad | "C7"cBg2 | "F"BAf2 | 
+c>d c>d | cf Ad | "C7"cB ge |1 "F"ff fA/2B/2 :|2 "F"ff fz |] 
+

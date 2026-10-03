@@ -1,0 +1,82 @@
+X:201
+T:Gloria.
+C:Carvalho, Jo\~ao de Sousa (1745-1798)
+M:C
+L:1/4
+K:G
+V: 1 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 1 )]
+%-------------------
+[Q:"Allegro Vivace"] g z/d/ g/ {a/}g//f// g/b/ | [a] z/d/ a/{b/}a//^g// a/c'/ | \
+b z/ g/ {a/}g//f//g//a// g/g/| e4 | d3 b | c'/b/a/g/ f/e/d/c/ | B z3 | \
+z "_soli." b (b/a/g/f/) | g b2 b | a z3 | z a (a/g/f/e/) | f a2 c' | b z/ d/ (b/a/g/f/) | (d//c//B//c//) d (g/f/e/d/) | (d//c//B//c//) d z2 | Z | \
+z/b/(c'/^a/ b/^f/g/^d/) | e z b a | g d/d/ B b | g d/d/ B g | b g d z | \
+d2-d/B/d/g/ | b2-b/d/g/b/ | a2-a/f/a/f/ | a2-a/f/a/c'/ | b z z/ (b/c'/a/) | (b/d'/b/g/ d/b/g/d/) | B z z/ (b/c'/a/) | \
+d z/ !f! g/ {a}g//f//g//a// g/g/ | g3 c' | b4 | c'4 | b3 g/b/ | a3 a/c'/ | b3 g/b/ | c'/b/a/g/ f/d/f/a/ | c'/b/a/g/ f a | \
+g g2 f | g z3 | z4 | z4 |z4 | z4 | \
+z (b/g/) (g/d/d/B/) | B z3 | z (a/f/ f/d/d/A/) | A z3 | a2 b2 | a2 b2 | \
+a d'2 d' | ^c' a2 b | e2-e/g/f/d/ | ^c d e/g/f/d/ | e/g/f/d/ ^c e | a4| \
+a d'/a/ b e | f z3 | z a-a/g/f/e/ | f/a/ f z2 | z a-a/g/f/e/ | f/a/b/g/ f e/a/|\
+f d'2 a | b2 e2 | f>a (d'/^c'/b/a/) | (a//g//f//g//) a (d'/^c'/b/a/) | a//g//f//g// a z2 | Z || \
+[Q:"Largetto"] [K: Bb][M: 3/4]
+Z3 | (d3 | e) d (f/d/) | c/ z/ (c//B//A//B// c//d//e//c//) | d/ z/ z2 | \
+z/ (f/_a/f/g/e/) | z (f//e//d//e// f//g//_a//f//) | g z2 | z3 | \
+z (c'//_b//c'//b// c'//_b//_a//g//) |a-(a//g//a//g// a/) z/ | z3 | \
+g-(g//d//d//_e// {g}f/e//d//) | e z2 | z/ (d/f/d/f/d/) | (e/g//f// e) z | z3 | z3 | \
+e>(^f g/a/) | (b//g//e//c//) (B A) | G/ z/ z2 | z3 | (a3 | ^f3 | d3) | \
+A !fermata!z2 || [Q:"Allegro"] [K:G] [M:C] b4 | a4 | b g2 b | g g2 f | g b2 b | c'4 | \
+b4 | c' c'2 c' | b3 g/b/ | a3 a/c'/ | b2 a2 | g z3 | \
+g b g z | z4 | (d2 e2 | =f2 e2 ) | (f>d) e ^g | a z3 | e2 ^f2 | \
+(g2 f2 | e>g) f f |  a z z/(f/a/g/) | f z2 (a/g/) | f a-a/a/d'/a/ | f a-a/a/d'/a/ | b z z/(g/b/a/) | \
+g z2 (g/a/) | b2-b/g/d/g/ | b2-b/g/g/b/ | (a4 | a) b c' b | a2-a/g/a/f/ | \
+b g2 f | g z/d/ (g/f/e/d/) | (d//c//B//c// d) (g/f/e/d/) | (d//c//B//c// d) (g/=f/e/f/) | f z3 | z4 | \
+z4 | z4 | z/(b/c'/^a/ b/f/g/^d/) | e g f2 | g/f/ a (g2 | g) f g b | \
+(a4 | a) b a2 | b2 a2 | b2 a2 | z4 | g d/d/ B g/b/ | g d d z || \
+[Q:"Andantino"] [K:D] [M:3/4] Z2 | Z100 || \
+[Q:"Allegro"] [K: Bb][M:C] Z100 | Z72 || \
+[Q:"Largetto non molto"] [K:Eb] [M:C] Z3 | "^Solo" (g4 | g///)^f///g///f/// g///f///g///f/// g///=b///d'///c'/// b///_a///g///f///  \
+(e///d///f///e///g/) z///e///d///c/// =b///c///a///g/// | f2-f///(d///f///a///g///f///=e///f/// d///f///a///g///f///_e///d///x///) "_missing note to be checked" | (e>=e f ^f) | g2-g//(e//e//f// g//e//g//e//) | .d//(f/e//) .d//(f/e//) d z | \
+z2 g2- | g///(^f///g///f///g///e///d///c///) =B///c///e///c///g///e///c'///g/// (a//f//) z// a// g//f//e//d// | .c/(c///e///d///c///) g///=b///c'///b///c'///_b///a///g/// a//f// z// a// g//f//e//d// | e z// (G//c//e//) (g//e//) z/ z// (e//g//e//) | d//f// z/ z// (d//f//d//) \
+e//g// z/ z//(g//c'//g//)| (a//f// d) a/ g z | g-g//(g//c'//b//) a/-a///g///a///g/// a///g///f///e/// d///c///B///A/// | G z3 |   \
+Z2 | z// (f//d//B// F//B//d//f//) (a2 | _g2)-g/ z/ g/ z/ | z/ (f///e///d///e/// f///^g///a///b///a///g///f///g///) a/ z/ z | z4 | \
+(z//g//b//g// e//g//e//B//) (A2 | B) z (b2 | a2 e2)- | e z3 | z// (b//c'//b//) g//g//a//g///f/// g z | \
+z2 b2- | (b///=a///b///a///b///a///b///a/// b///g///f///e///d///e///b///g///) g//f// z//c'// (c'//b//b//a//) | g///b///a///g///f///e///d///e/// B///e///g///e///c'///g///f///e/// (e//f//) z// a// (g//f//e//d//) | e z//(b//g//e//) (B//e//g//b//) z//(g//b//g//) | (f//a//f//a//) z//(f//a//f//) | \
+(g//b//g//b// b//a//g//f//) | g z3 | z2 z/g/-g//(b//a//f//) | g z3 | a>f =e/g/a/f/ | \
+=e z z//(f//_e//c//) (._d//d//c//=A//) | B/(_d//f// f//d//f//d//) (d/c/) z | z3 z//(a//c'//a//) | g/ z/ z//g//b//g// a/ z/ z | \
+g-g//(g//a//b//) a/ z/ z | z2 g2- | _g2 f z | z3 f- | (f e) z2 | \
+z/ (d'//=b// g//b//g//d//) =B/ z/ f- | e2 c'//e// z/ c'//e// z/ | z4 | g2-g///^f///g///f///g///f///g///f/// (g///=b///d'///c'///b///a///g///f///) | (e///f///g///f///e/ z///c///e///c///g///e///c'///g///)  \
+(a///b///c'///b///a/) f- | f///d///f///a///g///f///e///d/// e//c'/^f// g z | z2 g/-g///(f///e///d///) c//c//c//c// | a/-a///(g///f///e///) d//d//d//d// b/-b///(a///g///f///) =e//e//e//e// | f//(c'//a//g//) (^f g) z |  \
+z4 |z2 b2 | a2 a g | c'>e d>d | f !fermata!z z2 | z4 | \
+z2 z//(g//c'//a//) g/ z/ | z//g//c'//a// g/z/ z//(g/f//) .e//(g/f//) | e !fermata!z3 || \
+[K:Eb] [M:C] z// | b z/>g/ g/>b/b/>g/ | b z/>g/ g/>b/b/>g/ | g4 | a4 | z4 | G/E/F/G/ A/B/c/d/ | e/f/g/a/ g/f/g/=a/ | b f d z | z/(b/f/g/ _a/g/) !f!a/g//f// | g z3 | \
+Z10 | z (d//e//f//g// a//g//f//g// a//b//c'//a//) | g z3 | z/(c'/c'/g/) .a/(=a/b/^f/) | \
+g z3 | z4| b4- | b4- | b z/g/ !f!(a/g/) !f!(a/g/) | f z !f!b2 | \
+z4 | z4 | z "^soli" b//(b//c'//b//) !f!a/g//a// (f//g//a//b//) | g z3 | z4 | z4 | !f!b2 g e | \
+B/z///B///c///d/// e/B/ e g | b g b z | Z9 | b z/>b/ b/>g/g/>e/ | \
+e z/>f/ f/>e/e/>B/ | B z3 | z4 | !p!c4 | d z3 | \
+Z6 | z =a c' z | \
+z a c' z | z4 | z2 z/(e/g/e/) | d z3 | z2 z/(e/g/e/) | d z3 | \
+z (f//g//f//e// d) z | z (d//f//e//g//) f//e//d//e// f//g//_a//^f// | g z .g//(g//=a//b//) .e//(e//f//g//) | c z3 | z2 .f//(f//g//a//) .d//(d//e//f//) | B z3 | \
+z2 .e//(e//f//g//) .d//(c//d//e//) | =a z3 | =a2 c'2 | b .f//(f//g//f//) !f!e/d//e// c//d//e//f// | d z3 | z4 | \
+z4 | z// b//=a//b// c'//b//a//b// d'//c'//b//a// g//f//e//d// | c z3 | z// b//a//b// c'//b//a//b// d'//c'//b//a// g//f//e//d// | c z3 | z/(^f/g/e/) e/(=e/f/^c/) | \
+d z3 | z4 | z z/ !f!.b/ .f/.b/.f/.d/ | e/(e//f//) .g/.e/ c z | f4- | f4- | \
+f z/ (f/ _a2) | g z3 | z4 | z2 (e//f//g//f// e/) z/ | d z e//f//g//f// e/ z/ | d/b/ b2 b | \
+f z f z | g z b z | b4 | =a4 | b4 | =a4 | \
+d2 f b | g4 | f/B/c/d/ e/f/g/=a/ | b/a/b/c'/ (d'/b/) z/f/ | g>e d c | d z (d>e) | \
+d z (=a>c') | b f d z | z4 | z3 z/ "^Solo" f/ | b2-b/=a//b// c'//b//a//g// | f2-f/(^f/g/d/) | \
+(e//f//g//f//) e/ z/ e//f//d//e// c//d//B//c// | =A//B//c//B// A/ z/ z2 | B/c//d// e//f//g//a// b//c'//d'//c'// b/ z/ | z/ (e/d/f/ f/e/d/c/) | d f//e//d//e// f//g//_a//g// !f!a/g//f// | g z3 | \
+Z5 | b z/>g/ g/>b/b/>g/ | \
+g z/>g/ g/>b/b/>g/ | g b g z | Z6 | \
+z3 (f//e//d//e//) | f z2 (f//g//f//e//) | d2 f2 | e z3 | \
+z4 | z2 f//g//a//g// f//e//d//c// | B z3 | z2 e//f//g//f// e//d//c//B// | A z3 | z (f//g//f//e//) d/ z/ (f//g//a//f//) | g2-g/(b/g/=e/) | \
+f3-^f | g z3 | Z2 | z//a//g//a// b//a//g//a// B//c//d//e// f//g//a//f// | g z3 | \
+z//a//g//a// b//a//g//a// B//c//d//e// f//g//a//f// | g z3 | z4 | z d//e//f//g// a//g//f//g// a//b//c'//a// | g z3 | z/(b/c'/g/) a/(=a/b/^f/) | \
+g z3 | b4- | b4- | b4 | z4 | z b//b//c'//b// {b/}a/g//a// f//g//a//f// | \
+g z3 | g/b/g/e/ B/g/e/B/ | G z3 | z4 | f/ z/ z a/ z/ z | g/ z/ z3 | \
+g4 | f4 | e z g2- | g z g2- | g g2 g | g z !fermata!z2 | g2 b2 | \
+c'4 | b>b c' z | z z/ "Soli" (g/ b/a/g/f/) | g z3 | b !f!{b/}a/g//a// g/b/ !f!a/g//f// | e g//a//b//a// g g//a//b//a// | g z g/b/g/e/ | B b g !fermata!z ||
+[Q:"Andante"][K:C] [M:3/4] e3 | d3 | e ^f2 | g z2 | z3 | e3 | f3 | \
+e3 | d3- | d3 | !f!e g2 | g3 | a3 | c'3 | \
+b a z | (f e d ) | !f! (g/e/) z z | (g f e) | !f! (d/g/) z2 | (b/g/) z2 | !fermata!z3 ||
+%-------------------

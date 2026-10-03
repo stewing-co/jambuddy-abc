@@ -1,0 +1,96 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Leigger-Polka (nach Seewer Seppi)  CGF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.244 (pk00681) orig. C,G,F-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+e/g/ |: "G7"ff BB | "C"ccG2 | "G7"aaB2 | "C"gg ce/g/ | "G7"ff BB | 
+"C"ccG2 | "G7"aa BB/d/ |1 "C"cc ce/g/ :|2 "C"cc cz |: [K:G] "G"Bd!>!g2 | "C"fe!>!e2 | 
+"D7"dc c/B/c |  "G"ed d/^c/d | Bd!>!g2 | "C"fe!>!e2 |  "D7"dc  d>a |  
+"G"gb g"_>Teil A"z :: [K:F] "F"cc/c/ dc | cfa2 | aa/g/ ff | 
+"C7"gg/f/e2 | "F"cc/c/ dc | cfa2 | "C7"ag g>e | "F"ff fz :|  
+W:Parts: ABAC
+X:2
+T:Leigger-Polka (nach Seewer Seppi)  CGF (parts: ABAC)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+e/g/ |: "G7"ff BB | "C"ccG2 | "G7"aaB2 | "C"gg ce/g/ | "G7"ff BB | \
+"C"ccG2 | "G7"aa BB/d/ |1 "C"cc ce/g/ :|2
+ "C"cc cz |: [K:G] "G"Bd!>!g2 | "C"fe!>!e2 | \
+"D7"dc c/B/c |  "G"ed d/^c/d | Bd!>!g2 | "C"fe!>!e2 |  "D7"dc  d>a | \
+"G"gb g"_>Teil A"z [K:C] ::
+ "G7"ff BB | "C"ccG2 | "G7"aaB2 | "C"gg ce/g/ | "G7"ff BB | \
+"C"ccG2 | "G7"aa BB/d/ |1 "C"cc ce/g/ :|2
+ "C"cc cz |: [K:F] "F"cc/c/ dc | cfa2 | aa/g/ ff | \
+"C7"gg/f/e2 | "F"cc/c/ dc | cfa2 | "C7"ag g>e | "F"ff fz :|  
+W:Parts: ABAC
+% pk00681
+X:3
+T:Leigger-Polka (nach Seewer Seppi)  CGF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+e/g/ |: "G7"ff BB | "C"ccG2 | "G7"aaB2 | "C"gg ce/g/ | "G7"ff BB | \
+"C"ccG2 | "G7"aa BB/d/ |1 "C"cc ce/g/ :|2
+ "C"cc cz |: [K:G] "G"Bd!>!g2 | "C"fe!>!e2 | \
+"D7"dc c/B/c |  "G"ed d/^c/d | Bd!>!g2 | "C"fe!>!e2 |  "D7"dc  d>a | \
+"G"gb g"_>Teil A"z [K:C] ::
+ "G7"ff BB | "C"ccG2 | "G7"aaB2 | "C"gg ce/g/ | "G7"ff BB | \
+"C"ccG2 | "G7"aa BB/d/ |1 "C"cc ce/g/ :|2
+ "C"cc cz |: [K:F] "F"cc/c/ dc | cfa2 | aa/g/ ff | \
+"C7"gg/f/e2 | "F"cc/c/ dc | cfa2 | "C7"ag g>e | "F"ff fz :|  
+W:Parts: ABAC
+% pk00681
+X:4
+T:Leigger-Polka (nach Seewer Seppi) DA&G (tinwhistle in D)
+T:pk00681 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+f/2a/2 |: "A7"gg cc | "D"ddA2 | "A7"bbc2 | "D"aa df/2a/2 | "A7"gg cc | \
+"D"ddA2 | "A7"bb cc/2e/2 |1 "D"dd df/2a/2 :|2
+"D"dd dz |: [K:A] "A"ce!>!a2 | "D"gf!>!f2 | \
+"E7"ed d/2c/2d | "A"fe e/2^d/2e | ce!>!a2 | "D"gf!>!f2 | "E7"ed e>b | \
+"A"ac' a"_>Teil A"z [K:D] ::
+"A7"gg cc | "D"ddA2 | "A7"bbc2 | "D"aa df/2a/2 | "A7"gg cc | \
+"D"ddA2 | "A7"bb cc/2e/2 |1 "D"dd df/2a/2 :|2
+"D"dd dz |: [K:G] "G"dd/2d/2 ed | dgb2 | bb/2a/2 gg | \
+"D7"aa/2g/2f2 | "G"dd/2d/2 ed | dgb2 | "D7"ba a>f | "G"gg gz :| 
+W:Parts: ABAC
+X:5
+T:Leigger-Polka (nach Seewer Seppi) DA&G (tinwhistle in D) solo
+T:pk00681 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D transpose=12
+f/2a/2 |: gg cc | ddA2 | bbc2 | aa df/2a/2 | gg cc | \
+ddA2 | bb cc/2e/2 |1 dd df/2a/2 :|2
+dd dz |: [K:A] ce!>!a2 | "_#"gf!>!f2 | \
+ed d/2c/2d | fe e/2^d/2e | ce!>!a2 | "_#"gf!>!f2 | ed e>b | \
+ac' a"_>Teil A"z [K:D] ::
+gg cc | ddA2 | bbc2 | aa df/2a/2 | gg cc | \
+ddA2 | bb cc/2e/2 |1 dd df/2a/2 :|2
+dd dz |: [K:G] dd/2d/2 ed | dgb2 | bb/2a/2 gg | \
+aa/2g/2f2 | dd/2d/2 ed | dgb2 | ba a>f | gg gz :|
+W:Parts: ABAC
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 4, 2016

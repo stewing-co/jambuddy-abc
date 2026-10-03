@@ -1,0 +1,21 @@
+X:4009
+T:Coro [Antandro, Demetrio, Euridice, Emirena, Eumene]
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:D
+V: 9 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 9 )]
+%-------------------
+[Q:"Allegro"] A/>A/ | d A/>A/  f d/>d/ | f2e2 | f2e2 | !/!f2 gz | b4 | c'4 | \
+b4 | a4 | efc'd' | efc'd' | e/ "^NB: check ms" x/ x3 | X | X !segno! || \
+d A/>A/  f d/>d/ | a4 | a4 | f/f//f// f/f/ f z | b4 | a4 | \
+b4 | a4 | z c'2d' |  z c'2d' | b2fe | f4 | e4 | \
+f4 | e4 | f4 | z c'2d' | z c'2d' | b2fe | \
+f4 | e4 | f4 | e4 | d/d/f/a/ f/d/f/a/ | f f/>f/ f !fine!z |] \
+[Q:"Allegretto"][K:G] X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X | X || "^NB: check" "^DC al segno" X | \
+Z2 | z c//d//e//d// c z | Z | zc'c'z | Z | zaaz | Z5 | e^gez | ^g4 | a2ea | ^g2a2 | ^gggz | ^g4 | a4 | ^g2a2 | ^gggz | Z | \
+z e/f/ ez | Z3 | z!p!dcA | e4 | e4- |  e4- |  e4 | e^gez | Z |  \
+zfff | efe^g | a/z/z2z | z2f2 | efe^g | aza=g || "_NB: check" "_DC al segno" X | \
+%-------------------

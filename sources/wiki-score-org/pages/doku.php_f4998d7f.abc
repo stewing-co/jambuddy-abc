@@ -1,0 +1,26 @@
+X:105
+T:[Kyrie]
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 5 clef=bass name="Contra B." sname="CB."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%------------------
+"_[fol.8]"  [Q:"Largo"] (F,2G,F,2E,) | (F,3F,2E,) | !p!(D,2^C,D,2C,) | (D,3D,2=C,| =B,,2)zz2z | Z | Z | \
+"_[fol.9]"  Z | !pp! (F,2C,F,2C, | F,2)z z2z | Z | z2zzz!p!C,| (F,2G,F,2E,) | "_cresc" F,2D,C,2A,, | \
+"_[fol.10]" D,2!f!=B,,E,2C, | F,2zz2z| Z|zz!p!G,C2 (A, | =B,2 ^G, A,2 ^F,) | \
+"_[fol.11]" G,6 | C,G,G, !p! G,G,G, | G,G,G,  G,G,G, |  G,G,G,  G,G,G, |  G,G,G,  G,G,G, | "_cresc."C,D,E, F,G,A, | \
+"_[fol.12]" =B,A,G, C2D | !>!E2 !p! E,F,3 | G,6 | !f!C,D,E, F,G,A, | =B,A,G, C2D | !>!E2E, !p! F,3 | \
+"_[fol.13]" G,6 | !p!C,C,C, C,C,C, | C,C,C, C,C,C, | C,C,C, C,C,C, | !p!!fermata!C,6 || \
+"_[fol.14]" [Q:"Allegretto"][M:3/8] Z2 | !p!zzC,|F,3|E,3"_cresc."|A,3|G,3|Czz| Z | \
+"_[fol.15]" =B,2G, | !f!CCC | C2 C | !f!=B,B,B, | =B,2 B, | !f!A,A,A, | A,2 A, | !f! G,G,G, | G,3 | \
+"_[fol.16]" zz !f! C | =B,2 A, | !f! G,2F, | E,2D, | !f! C,D,E, | F,2 D, | G,2 !f! E, | A,2 F, | \
+"_[fol.17]" !f!F,G,A, | B,2A, | G,2 !f!C, | F,2B,,|E,2!f!A,,|D,E,F,| G,2F,|E,2!f!A,,|D,3 | \
+"_[fol.18]" C,3 | !f! F,3 | E,3 | !f! A,3 | G,3 | Czz | !f! C, C, C, |  C, C, C, |  C, C, C, |  C, C, C, | \
+"_[fol.19]" !f! C, C, C, | C, C, C, |  !f! C, z z |  !f! C, z z | !p! C,3- |  C,3- |  C,3 | !p!!fermata!  C,3 || \
+"_[fol.21]" [Q:"Largo"][M:6/8] !pp! F,2C,F,2C, | F,2z z2z | Z | z2zzz!p!C,| \
+"_[fol.22]" (F,2G,F,2E,) | "_cresc" F,2D,C,2A,, | D,2!f!=B,,E,2C, | F,2zz2z|\
+"_[fol.23]" Z | z2z !p! C,3 | F,2E, D,2_D, | C,2 C, C,2 C, | !p! F,2 _E, D,2_D, | C,2z C,2z | !p!F,F,F, F,3 |F,F,F, F,3 | F,2F, C,2A,, | !fermata!F,,6 |]
+%------------------

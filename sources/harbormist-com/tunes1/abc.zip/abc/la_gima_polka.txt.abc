@@ -1,0 +1,28 @@
+%%sysstaffsep .7 cm % space between staves in the same system
+%%staffsep 1.5 cm % space between different systems
+%%titlefont Times-Bold 16
+X: 1
+T: La Gima Polka
+R: polka
+M: 2/4
+N: Q: 1/2=55
+K: D
+AB\ 
+| "D" A2FF    F2 de | "D" d2AA      A2 fg  | "D"f2de       d2    AB  | "Em"AGEC "A"A,2 GA | 
+| "A" G2EE    E2 Bc | "Em"B2GG      G2 ed  | "A"cdcA   "A7"Bc    B^G | "D" ABAF    D2 AB  | 
+| "D" A2FF    F2 de | "D" d2AA      A2 fg  | "B"agfe       ^d=c  BA  | "Em"GEGB    e2 ef  | 
+| "Gm"e2_B=c  B2 de | "D" d2AB  "Bm"A2 ^GA | "D"BA^GA  "A" f2 e2     | "D" d2d2    d2 cd  ||
+K: A
+|: "A"  e2e2 "F#m"a2a2  | "D"d2d2   "Bm"f2f2 | "E7"G2G2      d2d2 | "A"cdBc  A4      | 
+|1 "A"  CEAc      eagf  | "Bm"^efdB "E" G4   |     B,DEG     Bdgf | "A"ef^de fe cA  :| 
+|2 "F#m"agfe      dcB^A | "Bm"B2F2      d2B2 | "D"f2d2   "E7"g2e2 | "A"a2a2  a2  z2  ||
+K: G
+| "G" ^cdBG DGBd  | "Am"^decA    EA c=d | "D7"  ed^cd     efga  | "G"bagf g d^cd | 
+| "G" bgaf  gefd  | "D" ecAF     DFAc   | "D7"  afge      fde^c | "G"dBGD B, DGB | 
+| "G" ^cdBG DGBd  | "Am"^decA    EAc=d  | "D7"  ed^cd     efga  | "G"bagf g2 dd  | 
+| "C"egc' ec'ec'e | "G" dgb d"G/B"bdbd  | "G/D" ed^c dbd"D"ad   | "G"g2g2 g4     |]
+
+%%textfont Helvetica 10
+%%begintext
+From R. Crumb and the Cheap Suit Serenaders (via S. Bartlett); played AABBCC; version 1
+%%endtext

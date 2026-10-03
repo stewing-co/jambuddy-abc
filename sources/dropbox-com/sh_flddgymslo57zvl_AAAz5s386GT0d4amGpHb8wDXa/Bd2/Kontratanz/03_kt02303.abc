@@ -1,0 +1,82 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:La Ballet Anglais (Kontratanz) D (kt02303)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.351 (kt02303) orig. D
+T: Kontratänze, Ftan (1773-1778, 8. Jan. 1952). S.350-357.
+T:Überliefert durch Martin Peider Schmid von Grüneck
+O:Switzerland
+%%MIDI program 21
+%%partsbox
+P:ABA
+R:Kontratanz
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+[P:A] "D"dA AB/c/ | dA Ad | "Em"g2f2 | "A7"e/d/e/f/ ee | "D"dA AB/c/ | dA Ad | "A7"F2E2 | "D"D2"_Fine"D2 ||
+[P:B] "D"aa ag/f/ | "A7"gg gf/e/ | "D"ff fe/d/ | "A7"eee2 | "D"AA AG/F/ |   "A7"GG GF/E/ | "D"FF "Bm"FE/D/  | "A7"E2"_>Teil A"E2 |] 
+W:
+W:"Diese (Kontra-)Tänze gehören zum Repertoire der um 1765 in Frankreich beliebten Tänze 
+W:und wurden vom Autor wahrscheinlich während seiner Militärzeit in Frankreich aufgeschrieben." Hrsg. S.350
+% kt02303  
+% Nov 16, 2016
+
+X:2
+T:La Ballet Anglais (Kontratanz) C 2- (kt02303)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.351 (kt02303) orig. D
+S:Kontratänze, Ftan (1773-1778, 8. Jan. 1952). S.350-357.
+S:Überliefert durch Martin Peider Schmid von Grüneck
+O:Switzerland
+%%MIDI program 21
+R:Kontratanz
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"cG GA/2B/2 | cG Gc | "Dm"f2e2 | "G7"d/2c/2d/2e/2 dd | "C"cG GA/2B/2 | cG Gc | "G7"E2D2 | "C"C2C2 ||
+"C"gg gf/2e/2 | "G7"ff fe/2d/2 | "C"ee ed/2c/2 | "G7"ddd2 | "C"GG GF/2E/2 | "G7"FF FE/2D/2 | "C"EE "Am"ED/2C/2 | "G7"D2D2 ||
+"C"cG GA/2B/2 | cG Gc | "Dm"f2e2 | "G7"d/2c/2d/2e/2 dd | "C"cG GA/2B/2 | cG Gc | "G7"E2D2 | "C"C2C2 |] 
+W:
+W:"Diese (Kontra-)Tänze gehören zum Repertoire der um 1765 in Frankreich beliebten Tänze 
+W:und wurden vom Autor wahrscheinlich während seiner Militärzeit in Frankreich aufgeschrieben." Hrsg. S.350
+% kt02303  
+% Nov 16, 2016
+
+X:3
+T:La Ballet Anglais (Kontratanz) F 3+ (kt02303)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.351 (kt02303) orig. D
+S:Kontratänze, Ftan (1773-1778, 8. Jan. 1952). S.350-357.
+S:Überliefert durch Martin Peider Schmid von Grüneck
+O:Switzerland
+%%MIDI program 21
+R:Kontratanz
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"fc cd/2e/2 | fc cf | "Gm"b2a2 | "C7"g/2f/2g/2a/2 gg | "F"fc cd/2e/2 | fc cf | "C7"A2G2 | "F"F2F2 ||
+"F"c'c' c'b/2a/2 | "C7"bb ba/2g/2 | "F"aa ag/2f/2 | "C7"ggg2 | "F"cc cB/2A/2 | "C7"BB BA/2G/2 | "F"AA "Dm"AG/2F/2 | "C7"G2G2 ||
+"F"fc cd/2e/2 | fc cf | "Gm"b2a2 | "C7"g/2f/2g/2a/2 gg | "F"fc cd/2e/2 | fc cf | "C7"A2G2 | "F"F2F2 |] 
+% kt02303  
+% Nov 16, 2016
+
+X:4
+T:La Ballet Anglais (Kontratanz) D (tinwhistle in D)
+T:kt02303 (Hanny Christen)
+%%MIDI program 72   % 111 / 74 / 79=whistle
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.351 (kt02303) orig. D
+S: Kontratänze, Ftan (1773-1778, 8. Jan. 1952). S.350-357.
+S:Überliefert durch Martin Peider Schmid von Grüneck
+O:Switzerland
+R:Kontratanz
+M:2/4
+L:1/8
+K:D transpose=12 %%MIDI gchordon
+"D"dA AB/c/ | dA Ad | "Em"g2f2 | "A7"e/d/e/f/ ee | "D"dA AB/c/ | dA Ad | "A7"F2E2 | "D"D2D2 ||
+"D"aa ag/f/ | "A7"gg gf/e/ | "D"ff fe/d/ | "A7"eee2 | "D"AA AG/F/ |   "A7"GG GF/E/ | "D"FF "Bm"FE/D/  | "A7"E2E2 ||
+"D"dA AB/c/ | dA Ad | "Em"g2f2 | "A7"e/d/e/f/ ee | "D"dA AB/c/ | dA Ad | "A7"F2E2 | "D"D2D2 |] 
+% kt02303  
+% Nov 16, 2016
+
+
+

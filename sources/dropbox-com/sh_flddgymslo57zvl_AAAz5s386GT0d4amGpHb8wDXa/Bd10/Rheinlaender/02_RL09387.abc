@@ -1,0 +1,102 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Rheinl\"ander  CGF  (ABAC)
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.214 (RL09387) orig. C,G,F
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+P:ABAC
+%%MIDI program 21
+R:
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+GG [P:A] |: !>!"C"g4 g2ee | "G7"f2B2d4 | gbb2 gaa2 | "C"gage c2GG | !>!g4 g2ee | "G7"f2B2d4 | 
+gbb2 a2B2 |1 "C"c2e2 c2GG :|2 "C"c2e2 c2Bc [P:B] |: [K:G] "G"dbdb d2d^d | "C"ec'ec' e2e=f | "D7"^fd'd'f "C"ec'c'e | 
+"G"dc'ba g2Bc | dbdb d2d^d | "C"ec'ec' e2e=f | "D7"^fd'd'f ec'ba |1 "G"g2b2 g2Bc :|2 "G"g2b2 g2G"_>Teil A"G ||  
+ [P:C] [K:F] |: [L:1/8] "F"c2 fe | d3A | d3A | "C7"Bfe2 | c2fe | d3B | d3B | 
+"F"Adc2 | c2fe | d3A | d3A | "Gm/Bb"Bag2 | d2ag | "F"f3A | "C7"d3c | "F"Ff fz :|
+W:Parts: ABAC
+% RL09387
+X:2
+T:Rheinl\"ander  CGF (parts)
+%%MIDI program 21
+R:
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+GG |: !>!"C"g4 g2ee | "G7"f2B2d4 | gbb2 gaa2 | "C"gage c2GG | !>!g4 g2ee | "G7"f2B2d4 | \
+gbb2 a2B2 |1 "C"c2e2 c2GG :|2
+ "C"c2e2 c2Bc |: [K:G] "G"dbdb d2d^d | "C"ec'ec' e2e=f | "D7"^fd'd'f "C"ec'c'e | \
+"G"dc'ba g2Bc | dbdb d2d^d |
+ "C"ec'ec' e2e=f | "D7"^fd'd'f ec'ba |1 "G"g2b2 g2Bc :|2 "G"g2b2 g2G"_>Teil A"G [K:C] \
+|: !>!"C"g4 g2ee | "G7"f2B2d4 | gbb2 gaa2 |
+ "C"gage c2GG | !>!g4 g2ee | "G7"f2B2d4 | \
+gbb2 a2B2 |1 "C"c2e2 c2GG :|2 "C"c2e2 c2Bc  \
+ [K:F] |: [L:1/8] "F"c2 fe | d3A | d3A |
+ "C7"Bfe2 | c2fe | d3B | d3B | \
+"F"Adc2 | c2fe | d3A | d3A | "Gm/Bb"Bag2 | d2ag | "F"f3A | "C7"d3c | "F"Ff fz :|
+W:(Parts: ABAC)
+% RL09387
+X:3
+T:Rheinl\"ander  CGF (5letras transposed)
+%%MIDI program 21
+R:
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+GG |: !>!"C"g4 g2ee | "G7"f2B2d4 | gbb2 gaa2 | "C"gage c2GG | !>!g4 g2ee | "G7"f2B2d4 | \
+gbb2 a2B2 |1 "C"c2e2 c2GG :|2
+ "C"c2e2 c2Bc |: [K:G] "G"dbdb d2d^d | "C"ec'ec' e2e=f | "D7"^fd'd'f "C"ec'c'e | \
+"G"dc'ba g2Bc | dbdb d2d^d |
+ "C"ec'ec' e2e=f | "D7"^fd'd'f ec'ba |1 "G"g2b2 g2Bc :|2 "G"g2b2 g2G"_>Teil A"G [K:C] \
+|: !>!"C"g4 g2ee | "G7"f2B2d4 | gbb2 gaa2 |
+ "C"gage c2GG | !>!g4 g2ee | "G7"f2B2d4 | \
+gbb2 a2B2 |1 "C"c2e2 c2GG :|2 "C"c2e2 c2Bc  \
+ [K:F] |: [L:1/8] "F"c2 fe | d3A | d3A |
+ "C7"Bfe2 | c2fe | d3B | d3B | \
+"F"Adc2 | c2fe | d3A | d3A | "Gm/Bb"Bag2 | d2ag | "F"f3A | "C7"d3c | "F"Ff fz :|
+W:(Parts: ABAC)
+% RL09387
+X:4
+T:Rheinl\"ander  EbBbAb (5letras)
+%%MIDI program 21
+R:
+M:2/4
+L:1/16
+K:Eb transpose=3%%MIDI gchordon
+B,B, |: !>!"Eb"B4 B2GG | "Bb7"A2D2F4 | Bdd2 Bcc2 | "Eb"BcBG E2B,B, | !>!B4 B2GG | "Bb7"A2D2F4 | \
+Bdd2 c2D2 |1 "Eb"E2G2 E2B,B, :|2
+"Eb"E2G2 E2DE |: [K:Bb] "Bb"FdFd F2F^F | "Eb"GeGe G2G_A | "F7"=AffA "Eb"GeeG | \
+"Bb"Fedc B2DE | FdFd F2F^F |
+"Eb"GeGe G2G_A | "F7"=AffA Gedc |1 "Bb"B2d2 B2DE :|2 "Bb"B2d2 B2B,"_>Teil A"B, [K:Eb] \
+|: !>!"Eb"B4 B2GG | "Bb7"A2D2F4 | Bdd2 Bcc2 |
+"Eb"BcBG E2B,B, | !>!B4 B2GG | "Bb7"A2D2F4 | \
+Bdd2 c2D2 |1 "Eb"E2G2 E2B,B, :|2 "Eb"E2G2 E2DE \
+[K:Ab] |: [L:1/8] "Ab"E2 AG | F3C | F3C |
+"Eb7"DAG2 | E2AG | F3D | F3D | \
+"Ab"CFE2 | E2AG | F3C | F3C | "Bbm/Db"DcB2 | F2cB | "Ab"A3C | "Eb7"F3E | "Ab"A,A Az :|
+W:(Parts: ABAC)
+% RL09387
+X:5
+T:Rheinl\"ander G&D (tinwhistle in D) var. solo
+T:RL09387 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:2/4
+L:1/16
+K:G transpose=12
+DD |: !>!d4 d2BB | c2F2A4 | dff2 dee2 | dedB G2DD | !>!d4 d2BB | c2F2A4 | \
+dff2 e2F2 |1 G2B2 G2DD :|2
+G2B2 G2FG |: [K:D] AfAf A2A^A | BgBg B2B=c | ^caac BggB | \
+Agfe d2FG | AfAf A2A^A |
+BgBg B2B=c | ^caac Bgfe |1 d2f2 d2FG :|2 d2f2 d2DD [K:G] \
+|: !>!d4 d2BB | c2F2A4 | dff2 dee2 |
+dedB G2DD | !>!d4 d2BB | c2F2A4 | \
+dff2 e2F2 |1 G2B2 G2DD :|2 G2B2 G2FG \
+[K:Dmaj] |: [L:1/8] A2 dc | B3F | B3F |
+Gdc2 | A2dc | B3G | B3G | \
+FBA2 | A2dc | B3F | B3F | Gfe2 | B2fe | d3F | B3A | Dd dz :|
+W:(Parts: ABAC)
+% RL09387
+% Sep. 4, 2016

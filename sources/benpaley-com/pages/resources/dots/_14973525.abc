@@ -1,0 +1,40 @@
+X:1
+T:Marsch efter Hans Dalfors från Ore
+T:March from the playing of Hans Dalfors from Ore
+L:1/8
+M:C|
+C:Trad arr. © 2022 Ben Paley
+N:In the A part you'll notice that I'm anticipating the first note of bar 7, starting it in bar
+N:6. This is only a suggestion*, of course and, as written, it comes out as quite an extreme
+N:syncopation - extreme in the context, at least. You might like to de-emphasise this in your
+N:playing, or ignore it completely.
+N:In the third bar of the harmony, I've written both B to D and B to G. I think it sits very
+N:nicely like this, providing some movement against the repetition in the melody, but you might
+N:like to play one note both times: I offer them as alternatives.
+N:[*this is a joke, because the Swedish word for suggestion, "förslag", has a technical meaning
+N:in music to do with anticipating and retarding notes. Do you love puns that have to be
+N:explained? I do.]
+O:Dalarna, Sweden
+R:March
+D:Ola Bäckström and Per Gudmundsson, "Ola & Per", 2001
+Z:Ben Paley <ben.paley@benpaley.com>
+K:D
+V:M clef=treble  name="Melody"   snm="M"
+V:H clef=treble  name="Harmony"   snm="H"
+%%score M|H
+%
+%
+P:A
+[V:M] A2 |: d2fe d2f2 | A3B A2GF | G2AB  G2B2  | ABAG FDFA  |
+[V:H] D2 |: F2AG F2A2 | D3E F2ED | B,2D2 B,2G2 | FGFE DA,DE |
+%
+[V:M] d2fe d2f2 | efed e2FG   - | GAGF     GAB=c |1 A6 A2 :|2 A6 GF  |
+[V:H] F2AG F2A2 | cdcB c2A,B, - | B,=CB,A, B,DGA |1 F6 D2 :|2 F6 DB, |
+%
+%
+P:B
+[V:M] |: G2g2  g2=fe | d2e=f f2ed | cdef ^gabg | a6 GF  |
+[V:H] |: G,2_B2 B2AG | =F2Ad d2cB | ABcd efeB  | c6 DB, |
+%
+[V:M] G2g2  g2=fe | d2e=f f2ed | cdef gbac | d3f efec |1 d6 GF  :|2 d6 |]
+[V:H] G,2_B2 B2AG  | =F2Ad d2cB | ABcd cBAG | F3A GAGE |1 F6 DB, :|2 F6 |]

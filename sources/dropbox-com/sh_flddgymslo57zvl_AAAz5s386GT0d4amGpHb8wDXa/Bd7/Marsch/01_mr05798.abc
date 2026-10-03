@@ -1,0 +1,25 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Oeppis vo Wissebach (H\"arfler-Marsch)  CGF  chords
+% 'Something from Weisenbach'
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.106 (mr05798) orig. C,G,F-Dur
+T: Berner Oberl\"ander T\"anze (Bern)
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G ce |: "C"g>a g>a | g2 a/g/e/a/ | ge f>e | "G7"fG Bd |"_?""Dm"b>a b>a | b3a | "G7"ga/g/ fg/f/ |1 "C"eG ce :|2 
+"C"e2z2 |: [K:G] "G"d^c/d/ bb | "Am"a2z2 | "D7"d^c/d/ aa | "G"g3B/c/ | dd d/B/d/g/ | "D7"ff f2 |1 dd d/c/d/a/ |"G" gg .gz :|2 
+d'>c' ba | "G".gG "_> Teil A"ce || [K:F] BA |"F"A2c2 | f2 ad' | "C7"c'2 bg | e3c | de/d/ cb | e3c | 
+"F"de/d/ ca | f2cB | A2c2 | f2 ad' | "C7"c'2 bg | e3c | de/d/ cb | ec' be | "F"f2 "C7"cd/e/ | "F"f2z2 |] 
+
+X: 2
+T: Oeppis vo Wissebach CGF chords Parts Anm
+M:2/4
+L:1/8
+P:ABAC
+K:C %%MIDI gchordon
+G ce[P:A] |: "C"g>a g>a | g2 a/g/e/a/ | ge f>e | "G7"fG Bd |"_?""Dm"b>a b>a | b3a | "G7"ga/g/ fg/f/ |1 "C"eG ce :|2 
+"C"e2z2 [P:B] |: [K:G] "G""_d"d"_c#"^c/d/ bb | "Am"a2z2 | "D7"d^c/d/ aa | "G"g3B/c/ | dd d/B/d/g/ | "D7""_f#"ff f2 |1 dd d/c/d/a/ |"G" gg .gz :|2 
+d'>c' ba | "G".gG "_> Teil A"ce ||[P:C]  [K:F] "_b"BA |"F"A2c2 | f2 ad' | "C7"c'2 "_b"b"_g"g | "_e"e3c | "_d"d"_e"e/d/ c"_b"b | "_e"e3"_ ="c | 
+"F"de/d/ ca | f2c"_b""_ **"B | A2c2 | f2 ad' | "C7"c'2 "_b"b"_g"g | e3c | de/d/ c"_b"b | ec' "_b"b"_ e ="e | "F"f2 "C7"cd/e/ | "F"f2z2 |] 

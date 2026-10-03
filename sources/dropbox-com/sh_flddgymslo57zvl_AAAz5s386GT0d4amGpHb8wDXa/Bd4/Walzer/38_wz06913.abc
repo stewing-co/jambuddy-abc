@@ -1,0 +1,39 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Walzer CF (wz06913)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.247 (wz06913) orig. C,F
+T: Aus dem Repertoire der "Bottmiger Musig". S.237-254
+T:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"G3 | (e3 | e)dc |  {/d}cBA | "G7"G>GG | (a3 | a)gf | ("C"^d2e) | G3 | (e3 | e)dc |
+  {/d}cBA | G>ce | .a!>!g>g | "G7"gBd | "C"czz :: "G7".fGG | (A/G/) (^F/G/) (B/d/) | "C".agg | (c/B/) (c/d/) (c/B/) | 
+"G7".AGG | .fBB | "C".ecc | e>ee | "G7".fGG | (A/G/) (^F/G/) (B/d/) | "C".agg | c/B/ c/d/ c/B/ |  "G7".A!>!G>G | 
+.f!>!B>B | B/B/gB |1 "C"czz :|2 [K:F] "C7"cAB |: ("F"c3 | "C7"c).d.c | "F"A3 | z=Bc | ("C7"d2c) | (b2e) | 
+"F"g2f | zAB | (c3 | "C7"c)dc | "F"A3 | z=Bc | ("Bb"d2c) | ("C7"b2e) | "F"f>ff |1 fAB :|2 fzz |]  
+ % wz06913
+% April 8, 2017
+
+X:2
+T:Walzer GC 5- (wz06913)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.247 (wz06913) orig. C,F
+S:Aus dem Repertoire der "Bottmiger Musig". S.237-254
+S:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"D3 | (B3 | B)AG | {/A}GFE | "D7"D>DD | (e3 | e)dc | ("G"^A2B) | D3 | (B3 | B)AG |
+{/A}GFE | D>GB | .e!>!d>d | "D7"dFA | "G"Gzz :: "D7".cDD | (E/2D/2) (^C/2D/2) (F/2A/2) | "G".edd | (G/2F/2) (G/2A/2) (G/2F/2) | 
+"D7".EDD | .cFF | "G".BGG | B>BB | "D7".cDD | (E/2D/2) (^C/2D/2) (F/2A/2) | "G".edd | G/2F/2 G/2A/2 G/2F/2 | "D7".E!>!D>D | 
+.c!>!F>F | F/2F/2dF |1 "G"Gzz :|2 [K:C] "G7"GEF |: ("C"G3 | "G7"G).A.G | "C"E3 | z^FG | ("G7"A2G) | (f2B) | 
+"C"d2c | zEF | (G3 | "G7"G)AG | "C"E3 | z^FG | ("F"A2G) | ("G7"f2B) | "C"c>cc |1 cEF :|2 czz |] 
+% wz06913
+% April 8, 2017

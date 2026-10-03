@@ -1,0 +1,83 @@
+%abc-2.1
+%%header "		$P / 2"
+X:1
+T:Zweistimmige Fuge
+T:für Orgel (WoO 31)
+C:L. van Beethoven
+M:C|
+L:1/4
+%%leftmargin .5cm
+%%rightmargin .5cm
+%%linebreak $
+Q:1/2=90
+K:D
+%%staves {1 2}
+V:1%clef=C1
+%%MIDI program 74
+D2F2|E2A2-|AFED|E4-|EA2^G|A3C|D2F2|
+V:2 clef=bass
+%%MIDI channel 1
+z4|z4|z4|A,2C2|B,2E2-|ECB,A,|B,4|
+V:1
+%%writefields Q 0
+E2A2-|AFED|G2B2|A2d2-|dBAG|FDEF|G2B2-|
+V:2
+C4|D,2=C2|zB,A,G,|F,D,E,F,|G,2B,2|A,2D2-|DB,A,G,|
+V:1
+BEFG|A4-|ADEF|G4-|GCDE|FEDC|B,B,CD|
+V:2
+C4-|CF,G,A,|B,4-|B,E,F,G,|A,4|D,4|G,4-|
+V:1
+E4-|ED/C/DB,|T^A,4|B,2zB-|B^A/^G/Ac|B2d2|c2f2-|
+V:2
+G,C,D,E,|F,4-|F,E,D,C,|B,,2D,2|C,2F,2-|F,D,C,B,,-|B,,^A,,/^G,,/A,,F,,|
+V:1
+fdcB|g4-|gedc|f4-|fdcB|e4-|ecB^A|
+V:2
+B,,2D,2|E,G,A,B,|=A,,2A,2|D,F,G,A,|G,,2B,,2|C,E,F,G,|F,4|
+V:1
+(PB^ABc)|(Pdcd^e)|fc=AF|^EC^DE|F^EF=E|^DB,CD|E2G2|
+V:2
+G,4-|G,4|F,2A,2|^G,2C2-|C3/B,/^A,F,|B,2=A,2|z=G,F,E,|
+%
+V:1
+F2B2-|BGFE|^DB,CD|E2B2|=cAFE|D2TA2|BGED|
+V:2
+^D,B,,C,D,|E,2G,2|F,2B,2-|B,G,F,E,|A,4-|A,F,E,D,|G,4-|
+V:1
+=C2TG2|AFD=C|{B,/}G2B2|A2d2-|dBAG|FDEF|Gd2=F|
+V:2
+G,E,D,=C,|F,4|zB,A,G,|F,D,E,F,|G,2B,2|A,2D2-|DB,A,G,|
+V:1
+E2=c2|=F=c2E|D2B2|EB2D|=CEA^C|DFAC|B,D^G^B,|
+V:2
+=CC/B,/CB,|A,2=F,2|B,B,/^A,/B,=A,|^G,2E,2|A,A,/^G,/A,=G,|^F,2D,2|^G,2F,2|
+V:1
+C^E^G=B,|{A,/}F2A2|^G2c2-|cA^GF|^EC^DE|Ffc=e|d2B2|EeBd|
+V:2
+^E,2C,2|zA,^G,F,|^E,C,^D,E,|F,2A,2|^G,2C2|A,2^A,2|B,,B,F,=A,|^G,2E,2|
+V:1
+c2A2-|A=GEC|D2F2|E2A2-|AFED|E4-|EA2^G|A2c2|
+V:2
+A,,A,E,^G,|A,4|zF,E,D,|C,A,,B,,C,|D,2F,2|A,2C2|B,2E2-|ECB,A,|
+%%staves {(1 3) 2}
+V:1
+dBA^G|A2z2|z2d2-|d2c2|d2f2|e2a2-|aB2g-|gA2f-|
+V:3
+%%MIDI channel 1
+x4|A,2C2|D2F2|E2A2-|AFED-|D2C2|D2E2|C2D2|
+V:2
+B,4|"_Pedal"[A,,A,]4-|[A,,A,]4-|[A,,A,]4-|[A,,A,]4-|[A,,A,]4-|[A,,A,]4-|[A,,A,]4-|
+V:1
+fG2e-|eF2d-|d2Tc2|d4|c4|\
+Q:1/2=80
+=c4-|\
+Q:1/2=72
+cB/A/\
+Q:1/2=60
+BB|Hd4]]
+V:3
+B,2C2|D4|E4|D2F2|E2A2-|AFED|[DG]3[DG]|[DFA]4]]
+V:2
+[A,,A,]4-|[A,,A,]4-|[A,,A,]4|[D,,D,]4-|[D,,D,]4-|[D,,D,]4|\
+ [G,,D,G,]4|H[D,,F,,A,,D,]4]]

@@ -1,0 +1,52 @@
+%abc2.1
+
+X:1
+T:Text and annotations
+C:Eric Conrad
+M:4/4
+L:1/4
+W:4. Are those shy Eurasian footwear,
+W:   cowboy chaps,
+W:   or jolly earthmoving headgear?
+W:
+W:5. With tenure,
+W:   Suzie\u2019d have all the more leisure
+W:   for yachting,
+W:   but her publications are no good.
+W:
+W:6. Additional words.
+K:C
+%%text This is some text.
+%%begintext align
+%% Example 1. Text block using align.
+%% The quick brown fox jumped over the lazy dog.
+%% Waltz, bad nymph, for quick jigs vex.
+%% How vexingly quick daft zebras jump!
+%%endtext
+%%begintext right
+%% Example 2.  Text block using right.
+%% The quick brown fox jumped over the lazy dog.
+%% Waltz, bad nymph, for quick jigs vex.
+%% How vexingly quick daft zebras jump!
+%%endtext
+("_below"C"^above"D"<left"E">right"F) | GAB(c | defg) |]
+w:1.~Cwm___ fjord bank glyphs~vext quiz.____
+w:2.~These are lyr-ics that are dis-play'd be-low the notes.
+
+X:2
+T:Midi channels
+T:Skip to my Lou
+C:Traditional
+M:4/4
+R:reel
+L:1/4
+Q:1/2=120
+K:G
+%%MIDI program 110 % fiddle for melody
+%%MIDI chordprog 105 % banjo for chords
+%%MIDI gchordbars 2 % the chord string covers two measures (default is 1)
+%%MIDI gchord GzcgIzcgGicgIhcg % boom chick-a rhythm, 2 boom chick-a's per bar, small variant in bar 2
+"G"B2G2 | BB/B/d2 | "D"A2F2 | AA/A/ "C"c2 |
+"G"B2G2 | BB/B/d2 | "C"Ac/c/ "D"AD | "G"G2 G2 |]
+
+

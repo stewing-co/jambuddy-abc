@@ -1,0 +1,14 @@
+X:305
+T:Te Deum
+C:Giuseppe Totti (17__-1832)
+M:C
+L:1/4
+K:D
+V: 5 clef=treble name="Violini Primo" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 5 }]
+%----- edit between the lines ----
+[Q:"Allegro non tanto"] !f! [dd']2 [Aa]2 | f d z/>d/c/>B/ | \
+A/>f/e/>d/ c/>a/a/>a/|a/>a/a/>a/ a/>a/a/>a/|a/d'/d'2c'/b/|a//b//a//g// f2 e|d zz2|E zz2|z/4 d//e//f// g//a//b//c'// d'2|\
+!//!d'2 !//!d'2 & d4|d// d//e//f// g//a//b//c'// d'2 & d//'
+%---------------------------------

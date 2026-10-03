@@ -1,0 +1,41 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch BbF chords 
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.273 (st00622) orig. Bb,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:Bb %%MIDI gchordon
+"Bb"ffb2 ffb2 | "F7"aaA2 cdef | aac2 aaA2 | "Bb"Bcde f2de | ffb2 ffb2 | 
+"F7"aac2 cdef | a2ac g2gA | "Bb"Bdfb d'2z2 :: [K:F] "F"caf2 {/g}fef2 |  "Gm"dbg2 {/a}g^fg2 | "C7"egc2 egc2 | 
+"F"Acfa d'3c' | caf2 {/g}fef2 | "Gm"dbg2 {/a}g^fg2 | "C7"egc2 ebag | "F"f2a2 f2z2 :| 
+
+X:2
+T:Schottisch FC 5- chords 
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+"F"ccf2 ccf2 | "C7"eeE2 GABc | eeG2 eeE2 | "F"FGAB c2AB | ccf2 ccf2 | 
+"C7"eeG2 GABc | e2eG d2dE | "F"FAcf a2z2 :: [K:Cmaj] "C"Gec2 {/d}cBc2 | "Dm"Afd2 {/e}d^cd2 | "G7"BdG2 BdG2 | 
+"C"EGce a3g | Gec2 {/d}cBc2 | "Dm"Afd2 {/e}d^cd2 | "G7"BdG2 Bfed | "C"c2e2 c2z2 :| 
+
+
+X:3
+T:Schottisch CG 10- chords 
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"GGc2 GGc2 | "G7"BBB,2 DEFG | BBD2 BBB,2 | "C"CDEF G2EF | GGc2 GGc2 | 
+"G7"BBD2 DEFG | B2BD A2AB, | "C"CEGc e2z2 :: [K:Gmaj] "G"DBG2 {/A}GFG2 | "Am"EcA2 {/B}A^GA2 | "D7"FAD2 FAD2 | 
+"G"B,DGB e3d | DBG2 {/A}GFG2 | "Am"EcA2 {/B}A^GA2 | "D7"FAD2 FcBA | "G"G2B2 G2z2 :| 
+
+X:4
+T:Schottisch CG 2+ chords 
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"ggc'2 ggc'2 | "G7"bbB2 defg | bbd2 bbB2 | "C"cdef g2ef | ggc'2 ggc'2 | 
+"G7"bbd2 defg | b2bd a2aB | "C"cegc' e'2z2 :: [K:Gmaj] "G"dbg2 {/a}gfg2 | "Am"ec'a2 {/b}a^ga2 | "D7"fad2 fad2 | 
+"G"Bdgb e'3d' | dbg2 {/a}gfg2 | "Am"ec'a2 {/b}a^ga2 | "D7"fad2 fc'ba | "G"g2b2 g2z2 :| 

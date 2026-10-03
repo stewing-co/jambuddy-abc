@@ -1,0 +1,168 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka  FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.81 (pk00085) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"cdc2 cff2 | cdc2 caa2 | "C7"agg2 gag2 | "F"gff2 fgf2 | cdc2 cff2 | 
+cdc2 caa2 | "C7"agg2 c2de | "F"f2f2 f2z2 :: "Bb"f2"_*"dfb4 | "F"f2cfa4 | "C7"^f2g2 =fedc | "F"f2ag fedc | 
+"Bb"f2"_*"dfb4 | "F"f2cfa4 | "C7"^f2g2 =fedc | "F"f2f2 f2z2 :: [K:Bb] "Bb"d3f d2b2 | f3d B2d2 | "F7"d2c2 c=Bc2 | 
+"Bb"g2f2 f=ef2 | d3f d2b2 | f3d B2d2 | "Cm"d2c2 "F7"g2ec | "Bb"B2d2 B2"_fine"z2 :| [K:F]"F"f2a2 c=Bc2 | "C7"c2bag4 | 
+gfe2 edc2 | "F"fefga4 | f2a2 c=Bc2 | "C7"c2bag4 | gfe2 ede2 | "F7"f2"_*"_e2 B2"_>Teil C"c2 |] 
+W:
+W: Anmerkung Hrsg.: akt 9 und 13: HC: c, letzter Takt: HC d-b/Bb-d
+
+X:2
+T: Polka  FBb chords Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+[P:A] "F"cdc2 cff2 | cdc2 caa2 | "C7"agg2 gag2 | "F"gff2 fgf2 | cdc2 cff2 | 
+cdc2 caa2 | "C7"agg2 c2de | "F"f2f2 f2z2 :: [P:B] "Bb"f2"_*"dfb4 | "F"f2cfa4 | "C7"^f2g2 =fedc | "F"f2ag fedc | 
+"Bb"f2"_*"dfb4 | "F"f2cfa4 | "C7"^f2g2 =fedc | "F"f2f2 f2z2 :: [P:C] [K:Bb] "Bb"d3f d2b2 | f3d B2d2 | "F7"d2c2 c=Bc2 | 
+"Bb"g2f2 f=ef2 | d3f d2b2 | f3d B2d2 | "Cm"d2c2 "F7"g2ec | "Bb"B2d2 B2"_fine"z2 :| [P:D] [K:F]"F"f2a2 c=Bc2 | "C7"c2bag4 | 
+gfe2 edc2 | "F"fefga4 | f2a2 c=Bc2 | "C7"c2bag4 | gfe2 ede2 | "F7"f2_e2 B2"_>Teil C"c2 |] 
+
+X:3
+T:Polka  CF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"GAG2 Gcc2 | GAG2 Gee2 | "G7"edd2 ded2 | "C"dcc2 cdc2 | GAG2 Gcc2 | 
+GAG2 Gee2 | "G7"edd2 G2AB | "C"c2c2 c2z2 :: "F"c2Acf4 | "C"c2Gce4 | "G7"^c2d2 =cBAG | "C"c2ed cBAG | 
+"F"c2Acf4 | "C"c2Gce4 | "G7"^c2d2 =cBAG | "C"c2c2 c2z2 :: [K:Fmaj] "F"A3c A2f2 | c3A F2A2 | "C7"A2G2 G^FG2 | 
+"F"d2c2 c=Bc2 | A3c A2f2 | c3A F2A2 | "Gm"A2G2 "C7"d2BG | "F"F2A2 F2"_fine"z2 :| [K:Cmaj]"C"c2e2 G^FG2 | "G7"G2fed4 | 
+dcB2 BAG2 | "C"cBcde4 | c2e2 G^FG2 | "G7"G2fed4 | dcB2 BAB2 | "C7"c2_B2 F2"_>Teil C"G2 |] 
+
+X:4
+T:Polka  CF 5- chords Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+[P:A] "C"GAG2 Gcc2 | GAG2 Gee2 | "G7"edd2 ded2 | "C"dcc2 cdc2 | GAG2 Gcc2 | 
+GAG2 Gee2 | "G7"edd2 G2AB | "C"c2c2 c2z2 :: [P:B] "F"c2Acf4 | "C"c2Gce4 | "G7"^c2d2 =cBAG | "C"c2ed cBAG | 
+"F"c2Acf4 | "C"c2Gce4 | "G7"^c2d2 =cBAG | "C"c2c2 c2z2 :: [P:C] [K:Fmaj] "F"A3c A2f2 | c3A F2A2 | "C7"A2G2 G^FG2 | 
+"F"d2c2 c=Bc2 | A3c A2f2 | c3A F2A2 | "Gm"A2G2 "C7"d2BG | "F"F2A2 F2"_fine"z2 :| [P:D] [K:Cmaj]"C"c2e2 G^FG2 | "G7"G2fed4 | 
+dcB2 BAG2 | "C"cBcde4 | c2e2 G^FG2 | "G7"G2fed4 | dcB2 BAB2 | "C7"c2_B2 F2"_>Teil C"G2 |] 
+
+X:5
+T:Polka  GC 10- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"DED2 DGG2 | DED2 DBB2 | "D7"BAA2 ABA2 | "G"AGG2 GAG2 | DED2 DGG2 | 
+DED2 DBB2 | "D7"BAA2 D2EF | "G"G2G2 G2z2 :: "C"G2EGc4 | "G"G2DGB4 | "D7"^G2A2 =GFED | "G"G2BA GFED | 
+"C"G2EGc4 | "G"G2DGB4 | "D7"^G2A2 =GFED | "G"G2G2 G2z2 :: [K:Cmaj] "C"E3G E2c2 | G3E C2E2 | "G7"E2D2 D^CD2 | 
+"C"A2G2 G^FG2 | E3G E2c2 | G3E C2E2 | "Dm"E2D2 "G7"A2FD | "C"C2E2 C2"_fine"z2 :| [K:Gmaj]"G"G2B2 D^CD2 | "D7"D2cBA4 | 
+AGF2 FED2 | "G"GFGAB4 | G2B2 D^CD2 | "D7"D2cBA4 | AGF2 FEF2 | "G7"G2=F2 C2"_>Teil C"D2 |] 
+
+X:6
+T:Polka  GC 10- chords Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+[P:A] "G"DED2 DGG2 | DED2 DBB2 | "D7"BAA2 ABA2 | "G"AGG2 GAG2 | DED2 DGG2 | 
+DED2 DBB2 | "D7"BAA2 D2EF | "G"G2G2 G2z2 :: [P:B] "C"G2EGc4 | "G"G2DGB4 | "D7"^G2A2 =GFED | "G"G2BA GFED | 
+"C"G2EGc4 | "G"G2DGB4 | "D7"^G2A2 =GFED | "G"G2G2 G2z2 :: [P:C] [K:Cmaj] "C"E3G E2c2 | G3E C2E2 | "G7"E2D2 D^CD2 | 
+"C"A2G2 G^FG2 | E3G E2c2 | G3E C2E2 | "Dm"E2D2 "G7"A2FD | "C"C2E2 C2"_fine"z2 :| [P:D] [K:Gmaj]"G"G2B2 D^CD2 | "D7"D2cBA4 | 
+AGF2 FED2 | "G"GFGAB4 | G2B2 D^CD2 | "D7"D2cBA4 | AGF2 FEF2 | "G7"G2=F2 C2"_>Teil C"D2 |] 
+
+X:7
+T:Polka  GC 2+ chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"ded2 dgg2 | ded2 dbb2 | "D7"baa2 aba2 | "G"agg2 gag2 | ded2 dgg2 | 
+ded2 dbb2 | "D7"baa2 d2ef | "G"g2g2 g2z2 :: "C"g2egc'4 | "G"g2dgb4 | "D7"^g2a2 =gfed | "G"g2ba gfed | 
+"C"g2egc'4 | "G"g2dgb4 | "D7"^g2a2 =gfed | "G"g2g2 g2z2 :: [K:Cmaj] "C"e3g e2c'2 | g3e c2e2 | "G7"e2d2 d^cd2 | 
+"C"a2g2 g^fg2 | e3g e2c'2 | g3e c2e2 | "Dm"e2d2 "G7"a2fd | "C"c2e2 c2"_fine"z2 :| [K:Gmaj]"G"g2b2 d^cd2 | "D7"d2c'ba4 | 
+agf2 fed2 | "G"gfgab4 | g2b2 d^cd2 | "D7"d2c'ba4 | agf2 fef2 | "G7"g2=f2 c2"_>Teil C"d2 |] 
+
+X:8
+T:Polka  GC 2+ chords Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+[P:A] "G"ded2 dgg2 | ded2 dbb2 | "D7"baa2 aba2 | "G"agg2 gag2 | ded2 dgg2 | 
+ded2 dbb2 | "D7"baa2 d2ef | "G"g2g2 g2z2 :: [P:B] "C"g2egc'4 | "G"g2dgb4 | "D7"^g2a2 =gfed | "G"g2ba gfed | 
+"C"g2egc'4 | "G"g2dgb4 | "D7"^g2a2 =gfed | "G"g2g2 g2z2 :: [P:C] [K:Cmaj] "C"e3g e2c'2 | g3e c2e2 | "G7"e2d2 d^cd2 | 
+"C"a2g2 g^fg2 | e3g e2c'2 | g3e c2e2 | "Dm"e2d2 "G7"a2fd | "C"c2e2 c2"_fine"z2 :| [P:D] [K:Gmaj]"G"g2b2 d^cd2 | "D7"d2c'ba4 | 
+agf2 fed2 | "G"gfgab4 | g2b2 d^cd2 | "D7"d2c'ba4 | agf2 fef2 | "G7"g2=f2 c2"_>Teil C"d2 |] 
+
+X:9
+T:Polka  EbAb (5letras) cf. CF 5- chords
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+"Eb"BcB2 Bee2 | BcB2 Bgg2 | "Bb7"gff2 fgf2 | "Eb"fee2 efe2 | BcB2 Bee2 | 
+BcB2 Bgg2 | "Bb7"gff2 B2cd | "Eb"e2e2 e2z2 :: "Ab"e2cea4 | "Eb"e2Beg4 | "Bb7"=e2f2 _edcB | "Eb"e2gf edcB | 
+"Ab"e2cea4 | "Eb"e2Beg4 | "Bb7"=e2f2 _edcB | "Eb"e2e2 e2z2 :: [K:Abmaj] "Ab"c3e c2a2 | e3c A2c2 | "Eb7"c2B2 B=AB2 | 
+"Ab"f2e2 e=de2 | c3e c2a2 | e3c A2c2 | "Bbm"c2B2 "Eb7"f2dB | "Ab"A2c2 A2"_fine"z2 :| [K:Ebmaj]"Eb"e2g2 B=AB2 | "Bb7"B2agf4 | 
+fed2 dcB2 | "Eb"edefg4 | e2g2 B=AB2 | "Bb7"B2agf4 | fed2 dcd2 | "Eb7"e2_d2 A2"_>Teil C"B2 |] 
+
+X:10
+T:Polka  EbAb (5letras) cf. CF 5-  Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+[P:A] "Eb"BcB2 Bee2 | BcB2 Bgg2 | "Bb7"gff2 fgf2 | "Eb"fee2 efe2 | BcB2 Bee2 | 
+BcB2 Bgg2 | "Bb7"gff2 B2cd | "Eb"e2e2 e2z2 :: [P:B] "Ab"e2cea4 | "Eb"e2Beg4 | "Bb7"=e2f2 _edcB | "Eb"e2gf edcB | 
+"Ab"e2cea4 | "Eb"e2Beg4 | "Bb7"=e2f2 _edcB | "Eb"e2e2 e2z2 :: [P:C] [K:Abmaj] "Ab"c3e c2a2 | e3c A2c2 | "Eb7"c2B2 B=AB2 | 
+"Ab"f2e2 e=de2 | c3e c2a2 | e3c A2c2 | "Bbm"c2B2 "Eb7"f2dB | "Ab"A2c2 A2"_fine"z2 :| [P:D] [K:Ebmaj]"Eb"e2g2 B=AB2 | "Bb7"B2agf4 | 
+fed2 dcB2 | "Eb"edefg4 | e2g2 B=AB2 | "Bb7"B2agf4 | fed2 dcd2 | "Eb7"e2_d2 A2"_>Teil C"B2 |] 
+
+X:11
+T:Polka  BbEb (5letras) cf. GC 10- 
+M:2/4
+L:1/16
+K:Bbmaj%%MIDI gchordon
+"Bb"FGF2 FBB2 | FGF2 Fdd2 | "F7"dcc2 cdc2 | "Bb"cBB2 BcB2 | FGF2 FBB2 | 
+FGF2 Fdd2 | "F7"dcc2 F2GA | "Bb"B2B2 B2z2 :: "Eb"B2GBe4 | "Bb"B2FBd4 | "F7"=B2c2 _BAGF | "Bb"B2dc BAGF | 
+"Eb"B2GBe4 | "Bb"B2FBd4 | "F7"=B2c2 _BAGF | "Bb"B2B2 B2z2 :: [K:Ebmaj] "Eb"G3B G2e2 | B3G E2G2 | "Bb7"G2F2 F=EF2 | 
+"Eb"c2B2 B=AB2 | G3B G2e2 | B3G E2G2 | "Fm"G2F2 "Bb7"c2AF | "Eb"E2G2 E2"_fine"z2 :| [K:Bbmaj]"Bb"B2d2 F=EF2 | "F7"F2edc4 | 
+cBA2 AGF2 | "Bb"BABcd4 | B2d2 F=EF2 | "F7"F2edc4 | cBA2 AGA2 | "Bb7"B2_A2 E2"_>Teil C"F2 |] 
+
+X:12
+T:Polka  BbEb (5letras) cf. GC 10-  Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:Bbmaj%%MIDI gchordon
+[P:A] "Bb"FGF2 FBB2 | FGF2 Fdd2 | "F7"dcc2 cdc2 | "Bb"cBB2 BcB2 | FGF2 FBB2 | 
+FGF2 Fdd2 | "F7"dcc2 F2GA | "Bb"B2B2 B2z2 :: [P:B] "Eb"B2GBe4 | "Bb"B2FBd4 | "F7"=B2c2 _BAGF | "Bb"B2dc BAGF | 
+"Eb"B2GBe4 | "Bb"B2FBd4 | "F7"=B2c2 _BAGF | "Bb"B2B2 B2z2 :: [P:C] [K:Ebmaj] "Eb"G3B G2e2 | B3G E2G2 | "Bb7"G2F2 F=EF2 | 
+"Eb"c2B2 B=AB2 | G3B G2e2 | B3G E2G2 | "Fm"G2F2 "Bb7"c2AF | "Eb"E2G2 E2"_fine"z2 :| [P:D] [K:Bbmaj]"Bb"B2d2 F=EF2 | "F7"F2edc4 | 
+cBA2 AGF2 | "Bb"BABcd4 | B2d2 F=EF2 | "F7"F2edc4 | cBA2 AGA2 | "Bb7"B2_A2 E2"_>Teil C"F2 |] 
+
+X:13
+T:Polka  BbEb (5letras) cf. GC 2+
+M:2/4
+L:1/16
+K:Bbmaj%%MIDI gchordon
+"Bb"fgf2 fbb2 | fgf2 fd'd'2 | "F7"d'c'c'2 c'd'c'2 | "Bb"c'bb2 bc'b2 | fgf2 fbb2 | 
+fgf2 fd'd'2 | "F7"d'c'c'2 f2ga | "Bb"b2b2 b2z2 :: "Eb"b2gbe'4 | "Bb"b2fbd'4 | "F7"=b2c'2 _bagf | "Bb"b2d'c' bagf | 
+"Eb"b2gbe'4 | "Bb"b2fbd'4 | "F7"=b2c'2 _bagf | "Bb"b2b2 b2z2 :: [K:Ebmaj] "Eb"g3b g2e'2 | b3g e2g2 | "Bb7"g2f2 f=ef2 | 
+"Eb"c'2b2 b=ab2 | g3b g2e'2 | b3g e2g2 | "Fm"g2f2 "Bb7"c'2af | "Eb"e2g2 e2"_fine"z2 :| [K:Bbmaj]"Bb"b2d'2 f=ef2 | "F7"f2e'd'c'4 | 
+c'ba2 agf2 | "Bb"babc'd'4 | b2d'2 f=ef2 | "F7"f2e'd'c'4 | c'ba2 aga2 | "Bb7"b2_a2 e2"_>Teil C"f2 |] 
+
+X:14
+T:Polka  BbEb (5letras) cf. GC 2+  Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:Bbmaj%%MIDI gchordon
+[P:A] "Bb"fgf2 fbb2 | fgf2 fd'd'2 | "F7"d'c'c'2 c'd'c'2 | "Bb"c'bb2 bc'b2 | fgf2 fbb2 | 
+fgf2 fd'd'2 | "F7"d'c'c'2 f2ga | "Bb"b2b2 b2z2 :: [P:B] "Eb"b2gbe'4 | "Bb"b2fbd'4 | "F7"=b2c'2 _bagf | "Bb"b2d'c' bagf | 
+"Eb"b2gbe'4 | "Bb"b2fbd'4 | "F7"=b2c'2 _bagf | "Bb"b2b2 b2z2 :: [P:C] [K:Ebmaj] "Eb"g3b g2e'2 | b3g e2g2 | "Bb7"g2f2 f=ef2 | 
+"Eb"c'2b2 b=ab2 | g3b g2e'2 | b3g e2g2 | "Fm"g2f2 "Bb7"c'2af | "Eb"e2g2 e2"_fine"z2 :| [P:D] [K:Bbmaj]"Bb"b2d'2 f=ef2 | "F7"f2e'd'c'4 | 
+c'ba2 agf2 | "Bb"babc'd'4 | b2d'2 f=ef2 | "F7"f2e'd'c'4 | c'ba2 aga2 | "Bb7"b2_a2 e2"_>Teil C"f2 |] 
+

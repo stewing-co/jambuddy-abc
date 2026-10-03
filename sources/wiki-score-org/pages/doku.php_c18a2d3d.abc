@@ -1,0 +1,25 @@
+X:205
+T:Gloria
+C:Carvalho, Jo\~ao de Sousa (1745-1798)
+M:C
+L:1/4
+K:G
+V: 5 clef=treble name="Tromba I" sname="Trb. I"
+%%MIDI program 1 56
+%%staves [( 5 )]
+%-------------------
+[Q: "Allegro Vivace"] Z9 | d d/d/ d>e | f/e/d/A/2 d/e/f/e/ | d z d d | Z5 | \
+e2 d d | d z z d | d z z d | d z2 z | Z2 | d2 d d/d/ | d2 d d/d/ | \
+"_MANY BARS MISSING" X42 ||
+[Q:"Largetto"] [K: Bb][M: 3/4]  "_MANY BARS MISSING" X28 || \
+[Q:"Allegro"]  [K:G] [M:C]  "_MANY BARS MISSING" X51 || \
+[Q:"Andantino"] [K:D] [M:3/4]  "_MANY BARS MISSING" Z99 | Z3||\
+[Q:"Allegro"] [K:C] [M:C] z B/2B/2 B B | z c/2c/2 c c | B z B z | c z c c | d z d d | \
+"_BARS MISSING" X5 | c2 c c | c c/2c/2 d d | c c/2c/2 d d |\
+c z z2 | Z3 | d2 c2 | B z B z | B B B z | Z7 | z2 z c | d z B z | Z2 | z c c c/2c/2 | \
+c z z2 | z c c c/2c/2 | c z z2 | Z3 | F4 | c c/2c/2 c/2c/2c/2c/2 | c z z2 | Z | c c/2c/2 c z | Z2 | \
+(F4 | F4) | Z | (F4 | F) c c c/2c/2 | c z z2 | c2 c c/2c/2 | c c/2c/2 c c | c z c z |\
+c c c z | Z4 | (F4 | F4) | B z z2 | Z3 | B z B z | B B B z | D z z2 | Z14 | B B/2B/2 B B | B z z2 | \
+d B/2B/2 B B | B z z2 | Z | B/2 z/2 z B/2 z/2 z | B/2 z/2 z B/2 z/2 z | B z c c/2c/2 | B z B z | \
+c z d d/2>c/2 | B B B D/2F/2 | B B B !fermata! z ||\
+%-------------------

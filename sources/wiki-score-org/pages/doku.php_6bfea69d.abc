@@ -1,0 +1,23 @@
+X:605
+T:Virtu
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/8
+K:C
+V: 5 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 5 )]
+%----------------------------------------------------------------------------------------------------
+Z17 || \
+[Q:"Allegro"][M:3/8][K:G] d' | b/>a/ gd | g/b/a/g/a/f/ | gdz| egz | egz  |egz | z3 | z3 | \
+Bdz |Bdz |Bdz | z3 | z f/>g/a/>b/ | af/>g/a/>b/ | af/>g/a/>b/ | c'ba | g2z|zgf| zed | \
+c/B/c/d/e/f/ | gGB | cAd | .e2B | cAd | G2z || \
+d2z | Z6 | !p!fez | fez| baz |baz | z g/f/g/a/ | f2z| zz.b |.g.e.a | d2z|zzf|gzz | \
+zfe|zd^c|zBA| zG/F/G/A/ | Ffd|gea|d2z|a2z| z3 | \
+!p!za2- | ag/>f/g | zg2- | gf/>e/f | zf2- | fe/>d/e | z3 | fez| fez | baz | z3| \
+b/a/g/f/e/d/ |  !trill!a3- | azz|!trill!d3|d2z|d2z| d2z| gzz|gzz|gzz|gzz| Z3 | \
+d/e/fz| e/f/gz | f/g/az| g/>a/ bG| cAd | {d}e2B|cAd|G2z| baz | baz | \
+zg/f/g/a/ | ff/>g/a/>b/ | af/>g/a/>b/ | af/>g/a/>b/ | c'ba | bGB|cAd| {d}e2B|cAd|G2 || \
+z| Z7 | zB^d | eee | eee | fff | f>fe/d/ | ^c/>B/ ^Af| .g.f.e | ba/g/f/e/ | .d.e.f | \
+!fermata!g2b | e^cf | !fermata!B2z |]
+%----------------------------------------------------------------------------------------------------

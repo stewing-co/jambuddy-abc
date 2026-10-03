@@ -1,0 +1,20 @@
+X:108
+T:Hodie Nobis
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 8 clef=bass name="Bassus" sname="B."
+%%MIDI program 1 1
+%%staves [ 8 ]
+%----------
+A,2|A,A,| E,2|A,,A,,|D,2|A,,A,|A, F,/ F,/ | G,2|C,C,|G,, G,,/ G,,/ | D, C,/B,,/| A,,/B,,/C,/D,/ | E,2 !segno!||\
+%
+w: Ho-di-e no-bis  de coe-lo pax ve-ra des-cen-dit pax ve-ra des-cen-------dit
+%
+[M:3/2] E,>E,E, | A,A,F, | G,3 | C,A,,2| E,>D,E, | A,,>G,,A,,| E,3 | A,,2A,|E,>E,E,|A,>A,D,|G,3|C,C,2-|C,D,D,|E,A,,2|E,3-|E,3 !fine!|] \
+%
+w: Ho-di-e per to-tum mun-dum mel-li-flu-i fa-ct sunt coe-li mel-li-flu-i fa-cti sunt coe-li fa--cti sunt coe--li
+%
+[M:2/2] Z57 !segno!|] \
+%----------

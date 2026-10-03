@@ -1,0 +1,84 @@
+X:3820
+T:Rondo [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:E
+V: 20 clef=alto1 name="Euridice" sname="Eur."
+%%MIDI program 1 1c/
+%%staves [[ 20 ]]
+%-------------
+[Q:"Andante"] z2 | Z3 | z2\
+(B B/>)e/ | g3/2(f//e//) d/>e/ d/>e/ | {e}cBB{c}B | B3/2 c//d// e//B//g//f// e// B//A//G// | F z \
+w: Ah-- la sor-te_ del_ mi-o co-re n\`o piu bel-la_ es----ser non__ pu'o;
+{c}A/z/ G | c B/> e/ d> e | !fermata! (3f/d/B/ A/ z/ \
+w: nel mio co-re, e dol-ce ar--do-re
+BB | B/ {e}e/ {e}c/ {c} A/ GF | e/8f/8g/8a/8 b/8g/8a/8f/8 e/ z//\
+w: s'i fe-li-ce o-gnor sa--ro_______
+=d// c//e// ^d//c// B//G// c//A// | e/8f/8g/8a/8 b/8g/8a/8f/8 e/ z//\
+w: fe-li--ce_ o--gnor_ sa--------ro
+=d// c/a//f// e/ f/ | e z3 | Z | \
+w: fe-li-ce'o--gnor sa-r\`o.
+z z B>A | A/ G/ z z/ \
+w: Ca-ra fia-mma,
+G/ A/ B/ | A//G// F/ z2 \
+w: e so-lo o-gget-to
+A/>G/ | {A}G/ F/ z2 \
+w: Fos-ti ogno-ra _
+c/ B/ | {B}A G/ z/ \
+w: del mio sen_
+e e//c// c//^A// | B/>d/ f/ z/ \
+w: E__ sa-rai_
+f/ e/- e//c// c//^A// | B/>d/ f/ z/ \
+w: di ques--- to_ pet--to
+(3c/e/d/ (3c/e/g/ | f (3g/e/c/ B {d} c | B z3 | Z | \
+w: Dol--ce'a-fet--to, e so----lo ben.
+z2 B- B/>d/ | g> f/e// d/>e/ d/>e/ | {e} c B B B | B> c/d// e//G//g//f// e//B//A//G// | A z \
+w: Ah_ la sor-te_ del_ mio_ co-re no piu bel-la_ es----ser__ non pu'o;
+{c}A/ z/ G | c B/ > e/ d > e | !fermata! (3f/d/B/ A/ z/  \
+w: nel mio co-re, e dol-ce ar--do-re
+B B | B/ {e}f/ {e}c/ {c}A/ G F | e///f///g///a/// b///g///a///f/// e/ =d/ c//e// ^d//c// B//G// A//F// |  e///f///g///a/// b///g///a///f/// e/ z// \
+w: s'i fe-li-ce o-gnor sa--ro________ fe-li--ce_ o--gnor_ sa--------ro
+=d// c/ a//g// e/ f/ | e z a> f/^d// | e/ e/ z z/  \
+w: fe-li-ce'o--gnor sa-ro Ca-ra_ fiam-ma,
+!fermata! e/ e/ ^A/ | !fermata! B B z2 || \
+w: e so-lo'og-get-to.
+[Q:"Allegro"] Z2 | z B2 g/e/ | {e}d c/B/ B>A | A G z2 | Z | \
+w: Gius-ti_ Dei pie-to-so a-mo-re
+z B2 g/e/ | {e}d c/B/ B>A | G z3 | \
+w: Poi mi_ fa-te_ giub-bi-lar.
+z2 (c/f/) (d/B/) | e/g/ G c/f/ d/B/ | e/g/ G e/B/ g/e/ | b>g f/e/ f/g/ | e//d//e//B// g//a//g//e// b//a//g//f// e//d//c//B// |c//A//B//c// ^d//e//f//g// f//g//a//g// f//e//d//c//| (B B//)e//g//e// b/g//e// b/g//e// | g2 f2 | ez z2 |  Z | \
+w: Ah-- la_ sor-te_ del_ mi-o co--re sen--to_ l'e-co re--pli--car _______________________________________ a__ re-pli-car
+e3 c/e/ | d>B c/A/ e/c/ | cBz2 | Z | \
+w: Ca-ra_ fia-mma, e_ so-lo'o-gget-to
+e3 c/e/ | d>B c/A/ e/c/ | B zz2 | \
+w: Fos-ti'o--gno-ra del_ mio_ sen
+c2 ^B2 | cczc | (cf2e) | ed c/e/ d/c/ | {c}B e/B/ B/A/ A/G/ | f, zz2 | \
+w: E sa-rai di ques-to__ pet-to dol--ce_ a-fet-to'e so--lo_ ben
+z e/B/ B/A/ A/G/ | f,zz2 | \
+w: e_ so--lo_ ben
+!fermata!e3 ^A | !fermata! BB z2 | Z2 | \
+w: Ca-ra fia-mma, e so-lo'o-gget-to
+z B2 g/e/ | {e}d c/B/ B> A | A g, z2 | Z | \
+w: Gius-ti_ Dei pie--to-so amo-re
+z B2 g/e/ | {e}d c/B/ B> A | g,z z2 | \
+w: Poi mi_ fa-te_ giub-bi-lar
+z2 (c/f/) (d/B/) | (e/g/) (Bc/f/) (d/B/) | (e/g/) B (e/B/) (g/e/) | b> g (f/>e/) f/g/ | e/g//a// b/b/ b z | \
+w: Ah_ la_ sor--te del_ mi-o co--re sen--to_ l'e-co re--pli--car_____
+z/f//g// a/a/ a z | z/g//a// b/b/ b z | z/f//g// a/a/ a z | \
+w: __________
+z B//e//a//b// a//g//f//e// d//c//B//A// | g, z z2 | \
+w: ______________
+z B//f//g//b// a//g//f//e// d//c//B//A// | G z3 | \
+w: _____________
+z e//g//f//e// d//e//f//g// a//g//a//g// | e g//b//a//g// f//g//a//b// c'//b//c'//b// | g//f//e//f// g//a//b//c'// =d'//c'//b//a// g//f//e//=d// | c z \
+w: _________________________________________
+c>c | f2 f/c/ a/f/ | e2 !mordent! f2 | g/g/ !mordent! g/ z/ \
+w:  sen-to l'e-co_ a_ re-pli-car__
+a/a/ !mordent! a/ z/ | b/b/ !mordent! b/ z/ a/a/ !mordent! a/ z/ | \
+w: ___
+g/g/ !mordent! g/ z/  a/a/ !mordent! a/ z/ | b/b/ !mordent! b/ z/ a/a/ !mordent! a/ z/ | g z3 | \
+w: _____________
+e2 B G | E2 =D2 | C2 E A | c2 e2 | a2- a/g//f// {e}e/d//c// | B4 | f4 | ez z2 | Z7  |]
+w: Sen-to_ l'e--co a__________ re-pli-car.
+%------------

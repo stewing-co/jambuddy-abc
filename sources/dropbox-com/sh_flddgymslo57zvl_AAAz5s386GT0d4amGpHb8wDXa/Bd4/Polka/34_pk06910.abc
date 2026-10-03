@@ -1,0 +1,62 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka CF (pk06910) ABCDAB
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.247 (pk06910) orig. C,F
+T: Aus dem Repertoire der "Bottmiger Musig". S.237-254
+T:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+%%partsbox
+P:ABCDAB
+R:Polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+(EF) [P:A] |: "C"G2e2 c2(G^G) | "Dm"A2f2 d2(dc) | ("G7"BG)(GB) (Bd)(df) | "C"a2gf e2EF | G2e2 c2(G^G) | "Dm"A2f2 d2(dc) | "G".B(d^cd) "D7".A(dcd) |1 
+"G7"G2G2 G2(EF) :|2 "G"G2G2 G2GG [P:B] |: "G7"G2f2 f2dd | "C"e2g2 c'2gg | "G7"g2B2 {/a}g2B2 |  ("C"ca).g.e c2GG | "G7"G2f2 f2dd | "C"e2g2 c'2aa | 
+(ag).e.c ("G7"gf).d.B |1 "C"c2e2 c2GG :|2 "C"c2e2 "_Fine?"c2z2 |: [P:C] [K:F]  "F"c2aa a2g2 | (fA)c4f2 | ("C7"eb).b3 (ce).e2 | "F"fgabc'4 | 
+c2aa a2g2 | (fA)c4f2 | "C"ef^fg ("G7"ag).=f.d |1 "C7"c2c2 c2z2 :|2 "C7"c2c2 c2c2 [P:D] |: ("Bb"^cd).d2 b2d2 | ("F"=Bc).c2 .a3c | 
+("C7"AB).B2 g2B2 |  ("F"^GA).A2 f3c   | ("Bb"^cd).d2 .d(bag) | ("F"=Bc).c2 .c(agf) | ("C7"eb).b2 .b.c.d.e  |1 "F"f2f2 f2c2 :|2 "F"f2f2 "_>Teil A...?"f2(EF) |] 
+% pk06910
+% April 10, 2017
+
+X:2
+T:Polka CF (pk06910)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.247 (pk06910) orig. C,F
+S: Aus dem Repertoire der "Bottmiger Musig". S.237-254
+S:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+(EF) |: "C"G2e2 c2(G^G) | "Dm"A2f2 d2(dc) | ("G7"BG)(GB) (Bd)(df) | "C"a2gf e2EF | G2e2 c2(G^G) | "Dm"A2f2 d2(dc) | "G".B(d^cd) "D7".A(dcd) |1 
+"G7"G2G2 G2(EF) :|2 "G"G2G2 G2GG |: "G7"G2f2 f2dd | "C"e2g2 c'2gg | "G7"g2B2 {/a}g2B2 |  ("C"ca).g.e c2GG | "G7"G2f2 f2dd | "C"e2g2 c'2aa | 
+(ag).e.c ("G7"gf).d.B |1 "C"c2e2 c2GG :|2 "C"c2e2 "_Fine?"c2z2 |: [K:F]  "F"c2aa a2g2 | (fA)c4f2 | ("C7"eb).b3 (ce).e2 | "F"fgabc'4 | 
+c2aa a2g2 | (fA)c4f2 | "C"ef^fg ("G7"ag).=f.d |1 "C7"c2c2 c2z2 :|2 "C7"c2c2 c2c2 |: ("Bb"^cd).d2 b2d2 | ("F"=Bc).c2 .a3c | 
+("C7"AB).B2 g2B2 |  ("F"^GA).A2 f3c   | ("Bb"^cd).d2 .d(bag) | ("F"=Bc).c2 .c(agf) | ("C7"eb).b2 .b.c.d.e  |1 "F"f2f2 f2c2 :|2 "F"f2f2 "_>Teil A...?"f2(EF) |] 
+W:Parts ABCD-A B?
+% pk06910
+% April 10, 2017
+
+X:3
+T:Polka GC 5- (pk06910)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.247 (pk06910) orig. C,F
+S:Aus dem Repertoire der "Bottmiger Musig". S.237-254
+S:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+(B,C) |: "G"D2B2 G2(D^D) | "Am"E2c2 A2(AG) | ("D7"FD)(DF) (FA)(Ac) | "G"e2dc B2B,C | D2B2 G2(D^D) | "Am"E2c2 A2(AG) | "D".F(A^GA) "A7".E(AGA) |1 
+"D7"D2D2 D2(B,C) :|2 "D"D2D2 D2DD |: "D7"D2c2 c2AA | "G"B2d2 g2dd | "D7"d2F2 {/e}d2F2 | ("G"Ge).d.B G2DD | "D7"D2c2 c2AA | "G"B2d2 g2ee | 
+(ed).B.G ("D7"dc).A.F |1 "G"G2B2 G2DD :|2 "G"G2B2 "_Fine?"G2z2 |: [K:Cmaj] "C"G2ee e2d2 | (cE)G4c2 | ("G7"Bf).f3 (GB).B2 | "C"cdefg4 | 
+G2ee e2d2 | (cE)G4c2 | "G"Bc^cd ("D7"ed).=c.A |1 "G7"G2G2 G2z2 :|2 "G7"G2G2 G2G2 |: ("F"^GA).A2 f2A2 | ("C"^FG).G2 .e3G | 
+("G7"EF).F2 d2F2 | ("C"^DE).E2 c3G | ("F"^GA).A2 .A(fed) | ("C"^FG).G2 .G(edc) | ("G7"Bf).f2 .f.G.A.B |1 "C"c2c2 c2G2 :|2 "C"c2c2 "_>Teil A...?"c2(B,C) |] 
+W:Parts ABCD-A B?
+% pk06910
+% April 10, 2017
+

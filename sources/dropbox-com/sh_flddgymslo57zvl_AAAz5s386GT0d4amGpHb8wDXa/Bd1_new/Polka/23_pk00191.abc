@@ -1,0 +1,61 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Luise-Polka  BbEb chords
+T:Hanny Christen. Bd.I Z\"urich, Schaffhausen, St. Gallen I. S.128 (pk00191) orig. Bb,Eb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:Bb %%MIDI gchordon
+d2e2 |: "Bb"f2d'2 "F7"e2c'2 | "Bb"d2b2 bfdB | "F7"A2g2 gfec | "Bb"B2g2 gfde | f2d'2 "F7"e2c'2 |
+"Bb"d2b2 bfdB | "F7"A2g2 gfeA |1 "Bb"B2b2 b2de :|2  "Bb"B2b2 b2ab ||  
+|: "F7"c'2c'2 baga | "Bb"b2b2 d3g | "F7"f2cg f2e2 | "Bb"defg f2f2 | "F7"c'2c'2 baga | 
+"Bb"b2b2 d3g | "F7"f2cg fedc | "Bb"B2b2 b2z2 :: [K:Eb] "Eb"e2B2 ggg2 | b2e2 ggg2 | "Bb7"b2f2 f=efa | 
+"Eb"g2e2 ede2 | e2B2 ggg2 | b2e2 ggg2 | "Bb7"b2f2 agf2 | "Eb"e2e2 e2z2 :| 
+W:
+W: Anmerkung HC: Peterszell 26
+
+X:2
+T:Luise-Polka  CF 10- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+E2F2 |: "C"G2e2 "G7"F2d2 | "C"E2c2 cGEC | "G7"B,2A2 AGFD | "C"C2A2 AGEF | G2e2 "G7"F2d2 |
+"C"E2c2 cGEC | "G7"B,2A2 AGFB, |1 "C"C2c2 c2EF :|2 "C"C2c2 c2Bc || 
+|: "G7"d2d2 cBAB | "C"c2c2 E3A | "G7"G2DA G2F2 | "C"EFGA G2G2 | "G7"d2d2 cBAB | 
+"C"c2c2 E3A | "G7"G2DA GFED | "C"C2c2 c2z2 :: [K:Fmaj] "F"F2C2 AAA2 | c2F2 AAA2 | "C7"c2G2 G^FGB | 
+"F"A2F2 FEF2 | F2C2 AAA2 | c2F2 AAA2 | "C7"c2G2 BAG2 | "F"F2F2 F2z2 :| 
+
+X:3
+T:Luise-Polka  GC 3- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+B2c2 |: "G"d2b2 "D7"c2a2 | "G"B2g2 gdBG | "D7"F2e2 edcA | "G"G2e2 edBc | d2b2 "D7"c2a2 |
+"G"B2g2 gdBG | "D7"F2e2 edcF |1 "G"G2g2 g2Bc :|2 "G"G2g2 g2fg || 
+|: "D7"a2a2 gfef | "G"g2g2 B3e | "D7"d2Ae d2c2 | "G"Bcde d2d2 | "D7"a2a2 gfef | 
+"G"g2g2 B3e | "D7"d2Ae dcBA | "G"G2g2 g2z2 :: [K:Cmaj] "C"c2G2 eee2 | g2c2 eee2 | "G7"g2d2 d^cdf | 
+"C"e2c2 cBc2 | c2G2 eee2 | g2c2 eee2 | "G7"g2d2 fed2 | "C"c2c2 c2z2 :| 
+
+X:4
+T:Luise-Polka  EbAb (5letras) cf. CF
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+G2A2 |: "Eb"B2g2 "Bb7"A2f2 | "Eb"G2e2 eBGE | "Bb7"D2c2 cBAF | "Eb"E2c2 cBGA | B2g2 "Bb7"A2f2 |
+"Eb"G2e2 eBGE | "Bb7"D2c2 cBAD |1 "Eb"E2e2 e2GA :|2 "Eb"E2e2 e2de || 
+|: "Bb7"f2f2 edcd | "Eb"e2e2 G3c | "Bb7"B2Fc B2A2 | "Eb"GABc B2B2 | "Bb7"f2f2 edcd | 
+"Eb"e2e2 G3c | "Bb7"B2Fc BAGF | "Eb"E2e2 e2z2 :: [K:Abmaj] "Ab"A2E2 ccc2 | e2A2 ccc2 | "Eb7"e2B2 B=ABd | 
+"Ab"c2A2 AGA2 | A2E2 ccc2 | e2A2 ccc2 | "Eb7"e2B2 dcB2 | "Ab"A2A2 A2z2 :| 
+
+X:5
+T:Luise-Polka  BbEb (5letras, orig.) cf. GC
+M:2/4
+L:1/16
+K:Bbmaj%%MIDI gchordon
+d2e2 |: "Bb"f2d'2 "F7"e2c'2 | "Bb"d2b2 bfdB | "F7"A2g2 gfec | "Bb"B2g2 gfde | f2d'2 "F7"e2c'2 |
+"Bb"d2b2 bfdB | "F7"A2g2 gfeA |1 "Bb"B2b2 b2de :|2 "Bb"B2b2 b2ab || 
+|: "F7"c'2c'2 baga | "Bb"b2b2 d3g | "F7"f2cg f2e2 | "Bb"defg f2f2 | "F7"c'2c'2 baga | 
+"Bb"b2b2 d3g | "F7"f2cg fedc | "Bb"B2b2 b2z2 :: [K:Ebmaj] "Eb"e2B2 ggg2 | b2e2 ggg2 | "Bb7"b2f2 f=efa | 
+"Eb"g2e2 ede2 | e2B2 ggg2 | b2e2 ggg2 | "Bb7"b2f2 agf2 | "Eb"e2e2 e2z2 :| 

@@ -1,0 +1,62 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Der Schöne (Polka)  BbFEb (pk07667)  ABACD
+T:Hanny Christen. Bd.V  Basel II, Jura. S.29  (pk07667) orig. Bb,F,Eb
+T: Basel II. Tänze aus Augst. S.6-42.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+%%partsbox
+P:ABACD
+R:Polka
+M:2/4
+L:1/16
+K:Bb  %%MIDI gchordon
+[P:A] !>!"Bb"f2fb !>!f2fb |  "F7"a2ac cdef  | a2ae  g2ge | "Bb"d^cdg f4 | !>!f2fb !>!f2fb |  "F7"a2ac cdef  | 
+a2ae  g2gA | "Bb"B2d2 B2z2 ::  [P:B] [K:F] "F"caf2 fef2 | "Bb"dbg2 g^fg2 | "C7"egc2 egB2 | "F"Acfa c'2c'2 | caf2 fef2 | 
+"Bb"dbg2 g^fg2 | ed'c'2 cbe2 | "F"f2a2 f2"_>Teil A"z2 :: [P:C] [K:Eb] "Eb"Bg^fg ag=fe | "Bb7"e2d2 d^cd2 | Baga bagf | 
+"Eb"f2e2 ede2 | Bg^fg ag=fe | "Ab"d2c2 cagf | "Eb"egb2 "Bb7"dfb2 | "Eb"e2g2 e2z2 :: [P:D] "Bb7"agfe dcBA | "Eb"GBeg b4 | 
+"Bb7"ABdf b4 | "Eb"GBeg c'2b2 | "Bb7"agfe dcBA | "Eb"GBeg b4 | "Bb7"ABdf bagf | "Eb"e2g2 e2z2 :|  
+%W:Parts: ABACD
+% pk07667
+% Dec 11, 2017 
+
+X:2
+T:Der Schöne (Polka)  CGF 10- (pk07667)
+S:Hanny Christen. Bd.V  Basel II, Jura. S.29  (pk07667) orig. Bb,F,Eb
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+!>!"C"G2Gc !>!G2Gc | "G7"B2BD DEFG | B2BF A2AF | "C"E^DEA G4 | !>!G2Gc !>!G2Gc | "G7"B2BD DEFG | 
+B2BF A2AB, | "C"C2E2 C2z2 :: [K:G] "G"DBG2 GFG2 | "C"EcA2 A^GA2 | "D7"FAD2 FAC2 | "G"B,DGB d2d2 | DBG2 GFG2 | 
+"C"EcA2 A^GA2 | Fed2 DcF2 | "G"G2B2 G2"_>Teil A"z2 :: [K:F] "F"CA^GA BA=GF | "C7"F2E2 E^DE2 | CBAB cBAG | 
+"F"G2F2 FEF2 | CA^GA BA=GF | "Bb"E2D2 DBAG | "F"FAc2 "C7"EGc2 | "F"F2A2 F2z2 :: "C7"BAGF EDCB, | "F"A,CFA c4 | 
+"C7"B,CEG c4 | "F"A,CFA d2c2 | "C7"BAGF EDCB, | "F"A,CFA c4 | "C7"B,CEG cBAG | "F"F2A2 F2"_Fine"z2 :| 
+W:Parts: ABACD
+% pk07667
+% Dec 11, 2017 
+
+X:3
+T:Der Schöne (Polka)  CGF 2+ (pk07667)
+S:Hanny Christen. Bd.V  Basel II, Jura. S.29  (pk07667) orig. Bb,F,Eb
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+!>!"C"g2gc' !>!g2gc' | "G7"b2bd defg | b2bf a2af | "C"e^dea g4 | !>!g2gc' !>!g2gc' | "G7"b2bd defg | 
+b2bf a2aB | "C"c2e2 c2z2 :: [K:G] "G"dbg2 gfg2 | "C"ec'a2 a^ga2 | "D7"fad2 fac2 | "G"Bdgb d'2d'2 | dbg2 gfg2 | 
+"C"ec'a2 a^ga2 | fe'd'2 dc'f2 | "G"g2b2 g2"_>Teil A"z2 :: [K:F] "F"ca^ga ba=gf | "C7"f2e2 e^de2 | cbab c'bag | 
+"F"g2f2 fef2 | ca^ga ba=gf | "Bb"e2d2 dbag | "F"fac'2 "C7"egc'2 | "F"f2a2 f2z2 :: "C7"bagf edcB | "F"Acfa c'4 | 
+"C7"Bceg c'4 | "F"Acfa d'2c'2 | "C7"bagf edcB | "F"Acfa c'4 | "C7"Bceg c'bag | "F"f2a2 f2"_Fine"z2 :| 
+W:Parts: ABACD
+% pk07667
+% Dec 11, 2017 

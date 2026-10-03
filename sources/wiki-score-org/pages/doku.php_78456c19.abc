@@ -1,0 +1,23 @@
+X:1210
+T:Scena Sesta
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:D
+V: 10 clef=treble name="Oboe II" sname="Ob.II"
+%%MIDI program 1 68
+%%staves [( 10 )]
+%--------------------
+[Q:Allegro] dzfz | azz/a/f/d/ | A zz2 | ^d4| (e2e)z | c4 | (d2d)z | d4 | ce2d | ce2d | cccz | \
+Z4 | e2^d2 | e2A2 | =Gzz2 | e/>e/e/>e/ ez | Z4 | !fermata! Z || [Q:"Andante"] Z9 || \
+[Q:Maestoso] [K:C]z// | e/z//e// g/z/ ec |  d/>f/ fdB | .c/(c/d/e/) f2 | .e/(c/d/e/) f2 | \
+e/(e/d/c/)dc|B/z/ B/z/ !fermata!Bz | Z | z (e//c//a//f//) e z | Z | z(e/d/) c z | Z3 | \
+z/c/d/e/ f2 | e2d2 | ezz2 | Z4 | z/B/z B !fermata! z || \
+[Q:Allegro] Ez/G/EG | c z c2 | cccd | ezz2 | E4 | Dzz2 | G4 | czz2 | z/e/e/e/ ez | Z2 | \
+z/B/B/B/ Bz | G4 | Dzz2 | z2zc | Bzzd | czzc | Bzz2 | z2zc | \
+BzzB|czzc|B4|^c4|^c4| ABAB| AAAz|Z4|B2c2|BzzA|B2c2|BzzA|BBBz|Z8|e4|Z|e4|Z|c2z2|Z2|B4|\
+A2B2|"_cresc."c4|f4|e4|c2B2|c/e/e/e/ ez | c2z2 | \
+BBB!fermata!z|c4|Z|c4|Z|czz2|Z|\
+c4|c4|c2B2|czz2|A2B2|czz2|A2B2|\
+c3d|c3G|Eef2|e2f2|ecdB|cccE/>E/|Ezz2 |]\
+%--------------------

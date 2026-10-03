@@ -1,0 +1,102 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Marie, back mer's Brot (Polka)  F
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.267 (pk01012) orig. G,C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+EF | "C7"G2C2 C2EF | G2C2 C2GA | B2B2 G2F2 | "F"F4 "C"E2EF | "C7"G2C2 C2EF | G2C2 C2GA | B2B2 A2G2 | "F"F4F4 |] 
+W:Anmerkung H.C.: Simplon Dorf 4. July 1956
+W: Marie, back(e) mir das Brot (Marie, bake me the bread)
+X:2
+T:Marie, back mer's Brot (Polka)  C 7+
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+Bc | "G7"d2G2 G2Bc | d2G2 G2de | f2f2 d2c2 | "C"c4 "G"B2Bc | "G7"d2G2 G2Bc | d2G2 G2de | f2f2 e2d2 | "C"c4c4 |] 
+% pk01012
+X:3
+T:Marie, back mer's Brot (Polka)  G 2+
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+FG | "D7"A2D2 D2FG | A2D2 D2AB | c2c2 A2G2 | "G"G4 "D"F2FG | "D7"A2D2 D2FG | A2D2 D2AB | c2c2 B2A2 | "G"G4G4 |] 
+% pk01012
+X:4
+T:Marie, back mer's Brot (Polka)  F (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+EF | "C7"G2C2 C2EF | G2C2 C2GA | B2B2 G2F2 | "F"F4 "C"E2EF | "C7"G2C2 C2EF | G2C2 C2GA | B2B2 A2G2 | "F"F4F4 |] 
+% pk01012
+X:5
+T:Marie, back mer's Brot (Polka)  C (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+Bc | "G7"d2G2 G2Bc | d2G2 G2de | f2f2 d2c2 | "C"c4 "G"B2Bc | "G7"d2G2 G2Bc | d2G2 G2de | f2f2 e2d2 | "C"c4c4 |] 
+% pk01012
+X:6
+T:Marie, back mer's Brot (Polka)  G (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+FG | "D7"A2D2 D2FG | A2D2 D2AB | c2c2 A2G2 | "G"G4 "D"F2FG | "D7"A2D2 D2FG | A2D2 D2AB | c2c2 B2A2 | "G"G4G4 |] 
+% pk01012
+X:7
+T:Marie, back mer's Brot (Polka) D (tinwhistle in D)
+T:pk01012 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D%%MIDI gchordon
+cd | "A7"e2A2 A2cd | e2A2 A2ef | g2g2 e2d2 | "D"d4 "A"c2cd | "A7"e2A2 A2cd | e2A2 A2ef | g2g2 f2e2 | "D"d4d4 |] 
+X:8
+T:Marie, back mer's Brot (Polka) G (tinwhistle in D)
+T:pk01012 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+FG | "D7"A2D2 D2FG | A2D2 D2AB | c2c2 A2G2 | "G"G4 "D"F2FG | "D7"A2D2 D2FG | A2D2 D2AB | c2c2 B2A2 | "G"G4G4 |] 
+X:9
+T:Marie, back mer's Brot (Polka) D (tinwhistle in D) solo
+T:pk01012 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+cd | e2A2 A2cd | e2A2 A2ef | g2g2 e2d2 | d4 c2cd | e2A2 A2cd | e2A2 A2ef | g2g2 f2e2 | d4d4 |]
+X:10
+T:Marie, back mer's Brot (Polka) G (tinwhistle in D) solo
+T:pk01012 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:G transpose=12
+FG | A2D2 D2FG | A2D2 D2AB | "_c"c2c2 A2G2 | G4 F2FG | A2D2 D2FG | A2D2 D2AB | "_c"c2c2 B2A2 | G4G4 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 6, 2016

@@ -1,0 +1,49 @@
+X:103
+T:Overtura
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 3 clef=treble name="Tromba I" sname="Trb. I"
+%%MIDI program 1 56
+%%staves [( 3 )]
+[I:MIDI= channel 3 MIDI= program  3 56]
+%
+[Q: "Allegro" 1/2=70] D//| D z3/4 F// F z3/4 A// | A A z z3/4 D// | D z3/4 F// F z3/4 A//| AAzf|efef| eezf|efef|e2 z2| X | Z | Z | \
+DFAz | Z | Z | Z | \
+z z/d/ A/d/A/d/ | A z/d/ A/d/A/d/ | AAAA | AAAA | \
+AAAA | A2 !fermata!z2 | Z | X | \
+X | X | X | X | \
+X | X | d4 -| d4-| d4| dddz | Z | \
+Z | e2 f2 | eeez| A4 | A z z2 | \
+z/ d/d/d/ d z | e4-| e z z2 | eee z | Z | \
+A/>A/A/>A/ A/>A/A/>A/| A z z2 | A/>A/A/>A/ A/>A/A/>A/| A z z2 | AAAz | x4| ezee | \
+e4| ezee|e4|ezee|e4|Azz2 | Z |z4 | Z |z4 | X | X | X | \
+A/A//A// A/A//A// A/A//A// A/A//A//|A/A//A// A/A//A// A/A//A// A/A//A//| AAAz | \
+Z |z4 | Z |z4 | Z |z4 | Z | AAAz | Z |AAAz | Z |AzAz|AzAz|Aef2| e2ee|A2f2|e2ee|AAAA|AAAA|A2 !fermata! z2 ||
+[M:2/4] [K:C] [L:1/8] [Q: "Andantino" 1/2=30] x| X | X | X | X | \
+X | X | X | X | X |x4 | X | X | X | X | X | X | X | X | X | X | X | X | X ||
+[M:C] [L:1/4] [Q:1/2=70] Z | X | X | X | Azed|ezed|eAAA|A2 !fermata! z2 ||
+[K: D] z4|x4 | X | X | X | \
+X | X  | Z | d4|d4-|d4-|d4| z4|dzz2| d f f/e/d/e/|dzz2|A4 | Z | Z | "_(1)" d z/ d/ d/A/F/D/ | A z/A/ A A | eeez | \
+d z z2 | Z | Z |z4 | Z | X | X | z4| dzz2 | Z |dzz2 | \
+X | z2d2|d4|d4|d4-|d4-|d4|d/d/ d z2|dzz2|dzz2|d4|dzdz|ffee|dzz2 | Z |dzz2 | Z |z/A/d/A/ d/A/d/A/|d d d d/>d/|dzdz|dzz2 || "_(2)"
+[K:F] [L:1/4] [Q: "Allegro Maestoso" 1/2=60] x3/8 | X | czz2 | \
+X | czz2 | X | X | \
+X | X | X | x4|d/>d/d/>d/ d/>d/d/>d/|d/>d/d/>d/ d/>d/d/>d/| d d z2 | \
+X | X | X | X | \
+X | X | X | X | \
+X | X | X | X | \
+X | X | X | czz2 | \
+X | X | X | X | \
+X | X | X | c4-|c4-|c4-|c4-|c4|czcz | \
+X | G/G//G// G z2| x4|G/G//G// G z2 | X | x4| c4-|c4-|c4- | \
+X | czed| czz2|eedd|czz2|eedd|czc/e/c/e/|czc/e/c/e/| czz2 | X | X | \
+X | X | X | X | \
+X | x4|"_(3)" x3 g/z/| a/ z/ g/ z/ f/ z/ e/ z/|d3 g|agbc'| bgzg/z/|a/ z/ g/ z/ f/ z/ e/ z/| d/d//d// d/d/ d z | X | X | \
+X | x4| X | X | X | \
+X | X | X | X | \
+X | X | X | X | \
+X | X | X | X | \
+X | x4|dddz|d4|dddz|d4|dddf|eded | X | X | \
+X | X | X | X | X | X | X | X | "_(4)" X |]

@@ -1,0 +1,59 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Walzer CG
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.292f (wz02056) orig. C,G
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T:Überliefert vermutlich durch Joggi Stocker (1889-1956)
+%%MIDI program 21
+%%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G | "C"^F2G | A2G | (e3 | e2)e | d2c | "G7"B2f | (B3 | B2)G | ^F2G | A2G | 
+(f3 | f2)f | f>e d/c/ | B>G B/d/ | "C"c>ea | g2G |  ^F2G | A2G | (e3 | e2)G | ^F2G | 
+A2G | ("Dm"f3 | f2)d | "G7"dfa | g2B | "C"cea | g2G | "G7"d>^c d/e/ | f2B | "C"c>G "G7"e/d/ | "_Fine""C"c3 |] [K:G]  
+"G"d3 | e2d | dB>A | G2B | def | ga>g | "D7"gf>c' | f3 | d3 | e2f | fe>d | 
+F2c' | c'b>a | aef | "G"gB>e | d3 | d3 | e2d | dB>G | G2b | bag | g>f e/d/ | 
+"Am"f>ee | e2c' | b2a | e2b | "G/D"a2g | d2g | "D7"f>ed | c'2f | "G"g>d "D7"b/a/ | "_Teil A""G"g3 |] 
+% wz02072 (H 073/TN 56)
+
+X:1
+T:Walzer CG  (wz02056)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.292f (wz02056) orig. C,G
+%%MIDI program 21
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G | "C"^F2G | A2G | (e3 | e2)e | d2c | "G7"B2f | (B3 | B2)G | ^F2G | A2G | 
+(f3 | f2)f | f>e d/c/ | B>G B/d/ | "C"c>ea | g2G |  ^F2G | A2G | (e3 | e2)G | ^F2G | 
+A2G | ("Dm"f3 | f2)d | "G7"dfa | g2B | "C"cea | g2G | "G7"d>^c d/e/ | f2B | "C"c>G "G7"e/d/ | "_Fine""C"c3 |] [K:G]  
+"G"d3 | e2d | dB>A | G2B | def | ga>g | "D7"gf>c' | f3 | d3 | e2f | fe>d | 
+F2c' | c'b>a | aef | "G"gB>e | d3 | d3 | e2d | dB>G | G2b | bag | g>f e/d/ | 
+"Am"f>ee | e2c' | b2a | e2b | "G/D"a2g | d2g | "D7"f>ed | c'2f | "G"g>d "D7"b/a/ | "_Teil A""G"g3 |] 
+% wz02072 
+
+X:1
+T:Walzer FC 7-
+%%MIDI program 21
+%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:F%%MIDI gchordon
+C | "F"=B,2C | D2C | (A3 | A2)A | G2F | "C7"E2B | (E3 | E2)C | =B,2C | D2C | 
+(B3 | B2)B | B>A G/2F/2 | E>C E/2G/2 | "F"F>Ad | c2C | =B,2C | D2C | (A3 | A2)C | =B,2C | 
+D2C | ("Gm"B3 | B2)G | "C7"GBd | c2E | "F"FAd | c2C | "C7"G>^F G/2A/2 | B2E | "F"F>C "C7"A/2G/2 | "_Fine""F"F3 |] [K:C] 
+"C"G3 | A2G | GE>D | C2E | GAB | cd>c | "G7"cB>f | B3 | G3 | A2B | BA>G | 
+B,2f | fe>d | dAB | "C"cE>A | G3 | G3 | A2G | GE>C | C2e | edc | c>B A/2G/2 | 
+"Dm"B>AA | A2f | e2d | A2e | "C/G"d2c | G2c | "G7"B>AG | f2B | "C"c>G "G7"e/2d/2 | "_Teil A""C"c3 |] 
+% wz02072
+% Sep 29, 2016

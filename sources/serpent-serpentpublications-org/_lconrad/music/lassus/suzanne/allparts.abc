@@ -1,0 +1,312 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Susanne un jour
+T: Superius
+C:Orlandus Lassus
+N: db: -c 25
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+%%MIDI gchord off
+M:C|
+L:1/2
+K:G dor
+G2 B3 c d4 
+w: Su- san- ne~un jour 
+G2 G d d e f d
+w: d'a- mour so- li- ci- té- e,
+z c c B A2
+w: Su- san- ne~un jour 
+z4 z d d d B d c/ B/ B3/2 A// G// A B4
+w: d'a- mour so- li- ci- té- * * * * * e,
+B2 A A B G A D E G3/2 ^F// E// F G
+w: Par deux viel- lards con- voi- tans sa beau- * * * té,
+G B3 c d4
+w: Fut en son coeur 
+G2 G d d e f d
+w: tri- ste~et dé- con- for- té- e
+z c c B A2
+w: Fut en son coeur 
+z4 z d d d B d c/ B/ B3/2 A// G// A B4
+w: tri- ste~et dé- con- for- té- * * * * * e
+B2 A A B G A D E G3/2 ^F// E// F G2
+w: Voy- ant l'ef- fort fait à sa chas- te- * * * té.
+z d _e e d A A A d d B2
+w: El- le leur dit: si par dé- loy- au- té 
+z d d d ^c c d B B B A2 A4
+w: de ce corps mien vous a- vez jou- is- san- ce,
+z2 A2 B d c
+w: C'est fait de moi, 
+z/ G/ d A =B2
+w: C'est fait de moi, 
+z c d d d A B3 F2
+w: si je fais ré- si- stan- ce,
+f2 e f c f2 _e d c3 c =B
+w: Vous me fe- rez mou- rir en dés- hon- neur.
+d c c d2
+w: Mais j'ai- me mieux
+%%%LY voices \bar "empty" \break
+z2 z d d d _e d c2 B2 - B4
+w: pé- rir en in- no- cen- ce, *
+z2 z d d d c B A G c2 A2 G
+w: Que d'of- fen- ser par pé- ché le Sei- gneur,
+d2 f f c > c _e e B2 B c B G2 d2 =B4 |]
+w: Que d'of- fen- ser, que d'of- fen- ser, par pé- ché le Sei- gneur.
+
+X:2
+T:Susanne un jour
+T:Altus
+C:Orlandus Lassus
+N: db: -c 25
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+%%MIDI gchord off
+M:C|
+L:1/2
+N:Original clef: C on second line
+K:G dor
+z2 z G _E C G2
+w: Su- san- ne~un jour,
+D2 _E E D 
+w: Su- san- ne~un jour  
+G, G E  A3 A F D
+w: d'a- mour so- li- ci- té- e,
+z A A A B A G F
+w: d'a- mour so- li- ci- té- e,
+D G2 G G F F2 D2
+w: d'a- mour so- li- ci- té- e
+z F F F F3 D F G G E D4
+w: Par deux viel- lards con- voi- tans sa beau- té,
+z G _E C G2
+w: Fut en son coeur,
+D2 _E E D 
+w: Fut en son coeur 
+G, G E A3 A F D
+w: tri- ste~et dé- con- for- té- e,
+z A A A B A G F
+w: tri- ste~et dé- con- for- té- e,
+D G2 G G F F2 D2
+w: tri- ste~et dé- con- for- té- e,
+z F F F F3 D F G G E D3
+w: Voy- ant l'ef- fort fait à sa chas- te- té.
+D G3 G F2 E F D D > E F/ G/ A G ^F 
+w: El- le leur dit: si par dé- loy- * * * * au- té 
+A A2 F2 G > F E E F D E A A2 ^F
+w: de ce corps mien * * vous a- vez jou- is- san- ce,
+F G > F E/ F/ G2 ^F G2
+w: C'est fait * * * *  de moi, 
+z E D D F F F2 F
+w: si je fais ré- si- stan- ce,
+B A A c2 c A2 B G > F E/ F/ G2 ^F G
+w: Vous me fe- rez mou- rir en dés- * hon- * * * neur.
+D E E F
+w: Mais j'ai- me mieux
+B A G F3/2 
+w: Mais j'ai- me mieux
+F/ F B G/ G/ B2 A B
+w: pé- rir en in- no- cen- * ce,
+F F F B, F F2 D
+w: pé- rir en in- no- cen- ce,
+B B B A G F B A/ G/ G2 ^F G
+w: Que d'of- fen- ser par pé- ché le * * Sei- gneur,
+B B B A2 G2 G G F F F D E/ F/ G2 ^F G4 |]
+w: Que d'of- fen- ser, que d'of- fen- ser, par pé- ché le * * Sei- gneur.
+
+X:3
+T:Susanne un jour
+T: Quintus
+C:Orlandus Lassus
+N: db: -c 25
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+%%MIDI gchord off
+M:C|
+L:1/2
+%%MIDI transpose -12
+N:Original clef, C on third line
+K:G dor -8va
+z4 z2 z G B3 c d2
+w: Su- san- ne~un jour 
+z A2 d c c A d3/2 ^c// =B// c d3/2
+w: d'a- mour so- li- ci- té- * * * e,
+d/ d d _e d G G 
+w: d'a- mour so- li- ci- té- e,
+z B G B F2
+w: Par deux viel- lards 
+z f2 B B F2
+w: Par deux viel- lards 
+c d > d d B G2
+w: con- voi- tans sa beau- té,
+z A B > c d d g3/2 f// e// d/ c/ B/ A/ G2
+w: Fut en * * son coeur * * * * * * *
+z G B3 c d
+w: Fut en son coeur,
+f f > f c/ c/ g e
+w: tri- ste~et dé- con- for- té- e
+e ^f f g/ G/ A B2
+w: tri- ste~et dé- con- for- té- e
+z d d d _e d c2 B2
+w: tri- ste~et dé- con- for- té- e
+d2 d d c2 B2 A G c2 A2 G
+w: Voy- ant l'ef- fort fait à sa chas- te- té.
+G d G G 
+w: El- le leur dit,
+G d d ^c
+w: el- le leur dit: 
+d f f f2 f d2 
+w: si par dé- loy- au- té 
+^f e e d2
+w: de ce corps mien 
+z2 z A A > A A f e2 d
+w: vous a- vez jou- is- san- ce,
+A G z/ d/ g e d4
+w: C'est fait, c'est fait de moi, 
+z g g f d c B F
+w: si je fais ré- si- stan- ce,
+z2 f2 g g c f f2
+w: Vous me fe- rez mou- rir 
+z d g/ f/ e/ d/ c c d
+w: en dés- * * * * hon- neur.
+=B c c F2
+w: Mais j'ai- me mieux
+z G B A B3/2
+w: Mais j'ai- me mieux
+G/ c B f
+w: Mais j'ai- me mieux
+f B > B B B G/ G/ B3/2 A// G// A B
+w: pé- rir, pe- rir en in- no- cen- * * * ce,
+f f f F G d _e c2 d2 G
+w: Que d'of- fen- ser par pé- ché le Sei- gneur,
+g f3 f _e4 d2 c g > f e d d d4 |]
+w: que d'of- fen- ser par pé- ché * * le Sei- gneur.
+
+
+X:4
+T:Susanne un jour
+T:Tenor
+C:Orlandus Lassus
+N: db: -c 25
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+%%MIDI gchord off
+M:C|
+L:1/2
+%%MIDI transpose -12
+N:Original clef, C on third line
+K:G dor -8va
+z8 z2 z G B3 c d 
+w: Su- san- ne~un jour 
+f f > f c/ c/ g e 
+w: d'a- mour so- li- ci- té- e,
+e ^f f g/ G/ A B2
+w: d'a- mour so- li- ci- té- e,
+z d d d _e d c2 B2
+w: d'a- mour so- li- ci- té- e,
+d2 d d c2 B2 A G c2 A2 G4
+w: Par deux viel- lards con- voi- tans sa beau- té,
+z2 G2 B3 c d2
+w: Fut en son coeur 
+z A2 d c c A d3/2 ^c// =B// c d3/2
+w: tri- ste~et dé- con- for- té- * * * e
+d/ d d _e d G G
+w: tri- ste~et dé- con- for- té- e
+z B G B F2
+w: Voy- ant l'ef- fort 
+z f2 B B F2
+w: Voy- ant l'ef- fort 
+c d > d d B G2
+w:fait à sa chas- te- té.
+z A =B4 c2 A2 A2 B/ A/ B/ c/ d d c B A4
+w: El- le leur dit: si par * * * *  dé- loy- au- té 
+z d d d ^c c d f e d2 ^c d3
+w: de ce corps mien vous a- vez jou- is- san- ce,
+B c2 A2 G2
+w: C'est fait de moi, 
+z G B A B c d2 d2
+w: si je fais ré- si- stan- ce,
+c2 c c A2 d2 c =B c2 A2 G3
+w: Vous me fe- rez mou- rir en dés- hon- neur.
+G B2 c2 d2
+w: Mais j'ai- me mieux
+z4 z2 z d d d _e d c2 B4
+w: pé- rir en in- no- cen- ce,
+z8 d2 d d c4 B4 A G c2 A2 G4 |]
+w: Que d'of- fen- ser par pé- ché le Sei- gneur.
+
+X:5
+T:Susanne un jour
+T:Bassus
+C:Orlandus Lassus
+N: db: -c 25
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+%%MIDI gchord off
+M:C|
+L:1/2
+N:Original clef, F on third line
+%%MIDI transpose -24
+K:G dor bass
+z8 z g _e c g2
+w: Su- san- ne~un jour 
+z2 d2 f3 g a2
+w: Su- san- ne~un jour 
+d2 g f _e B b > a g > f _e B
+w: d'a- mour so- li- ci- té- * * * * e,
+z f g b B3/2
+w: Par deux viel- lards 
+B/ B B f2
+w: Par deux viel- lards 
+z g d g c2 d2 G4
+w:con- voi- tans sa beau- té,
+z4 z g _e c g2
+w: Fut en son coeur 
+z2 d2 f3 g a2 
+w: Fut en son coeur 
+d2 g f _e B b > a g > f _e B
+w: tri- ste~et dé- con- for- té- * * * * e
+z f g b B3/2
+w: Voy- ant l'ef- fort 
+B/ B B f2
+w: Voy- ant l'ef- fort 
+z g d g c2 d2 G
+w: fait à sa chas- te- té.
+g g2 c2 d2 z d B3 B f g d2
+w: El- le leur dit: si par dé- loy- au- té 
+z a b b g2 a2 d d ^c d a2 d2
+w: de ce corps mien vous a- vez jou- is- san- ce,
+z g c2 d2 G2
+w: C'est fait de moi, 
+z c g d B f B B
+w: si je fais ré- si- stan- ce,
+b2 f f c c f > e d B c g c2
+w: Vous me fe- rez mou- rir * * en dés- hon- neur.
+z2 z g c c B3/2
+w: Mais j'ai- me mieux
+B/ f _e d2
+w: Mais j'ai- me mieux
+z4 z2 z B B B _e B f2 B4
+w: pé- rir en in- no- cen- ce,
+ z8 z g b b f2
+w: Que d'of- fen- ser 
+z c _e e B B f g c2 d2 G4 |]
+w: Que d'of- fen- ser par pé- ché le Sei- gneur.
+

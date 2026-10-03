@@ -1,0 +1,39 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka  CGF chords
+T:Hanny Christen. Bd.I Z\"urich, Schaffhausen, St. Gallen I. S.159 (pk00264) orig. C,G,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"g2eg g2c2 | "G7"c2B2 defg | b2b2 a2a2 | "C"g2g2 e3g | c'2bd' c'3e | "Dm/F"e2d2 defg |  
+"G7"a2a2 g3B | "C"c2e2 c2z2 :: [K:G] "G"dedc Bcde | d2g2 b^ab2 | "D7"d2f2 a^ga2 | "G"=g2fe d2dd | 
+dedc "D7"Bcde | "G"d2g2 b^ab2 | "D7"=abag f2a2 | "G"g2b2 g2z2 :: [K:C] "G7"G2f2 B2g2 | "C"cc'ba g^fg2 | 
+"Dm"a2de "G7"fef2 | "C"g2cd ede2 | "G7"G2f2 B2g2 | "C"c2c'e g^fg2 | "Dm"a2de "G7"f2B2 | "C"c2e2 c2z2 :: [K:F] "F"a2a2 "C7"g2g2 | 
+"F"f2f2 ABc2 | "C7"dceg !>!c'4 | "F"dcfa !>!c'4 | a2a2 "C7"g2g2 | "F"f2f2 ABc2 | "Gm"d2gf "C7"e2ag | "F"f2a2 f2z2 :| 
+
+X:2
+T:Polka EbBbAb 9- (5letras) cf. CGF chords
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+"Eb"B2GB B2E2 | "Bb7"E2D2 FGAB | d2d2 c2c2 | "Eb"B2B2 G3B | e2df e3G | "Fm/Ab"G2F2 FGAB | 
+"Bb7"c2c2 B3D | "Eb"E2G2 E2z2 :: [K:Bbmaj] "Bb"FGFE DEFG | F2B2 d^cd2 | "F7"F2A2 c=Bc2 | "Bb"_B2AG F2FF | 
+FGFE "F7"DEFG | "Bb"F2B2 d^cd2 | "F7"=cdcB A2c2 | "Bb"B2d2 B2z2 :: [K:Ebmaj] "Bb7"B,2A2 D2B2 | "Eb"Eedc B=AB2 | 
+"Fm"c2FG "Bb7"AGA2 | "Eb"B2EF GFG2 | "Bb7"B,2A2 D2B2 | "Eb"E2eG B=AB2 | "Fm"c2FG "Bb7"A2D2 | "Eb"E2G2 E2z2 :: [K:Abmaj] "Ab"c2c2 "Eb7"B2B2 | 
+"Ab"A2A2 CDE2 | "Eb7"FEGB !>!e4 | "Ab"FEAc !>!e4 | c2c2 "Eb7"B2B2 | "Ab"A2A2 CDE2 | "Bbm"F2BA "Eb7"G2cB | "Ab"A2c2 A2z2 :| 
+
+X:3
+T:Polka EbBbAb 3+ (5letras) cf. CGF chords
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+"Eb"b2gb b2e2 | "Bb7"e2d2 fgab | d'2d'2 c'2c'2 | "Eb"b2b2 g3b | e'2d'f' e'3g | "Fm/Ab"g2f2 fgab | 
+"Bb7"c'2c'2 b3d | "Eb"e2g2 e2z2 :: [K:Bbmaj] "Bb"fgfe defg | f2b2 d'^c'd'2 | "F7"f2a2 c'=bc'2 | "Bb"_b2ag f2ff | 
+fgfe "F7"defg | "Bb"f2b2 d'^c'd'2 | "F7"=c'd'c'b a2c'2 | "Bb"b2d'2 b2z2 :: [K:Ebmaj] "Bb7"B2a2 d2b2 | "Eb"ee'd'c' b=ab2 | 
+"Fm"c'2fg "Bb7"aga2 | "Eb"b2ef gfg2 | "Bb7"B2a2 d2b2 | "Eb"e2e'g b=ab2 | "Fm"c'2fg "Bb7"a2d2 | "Eb"e2g2 e2z2 :: [K:Abmaj] "Ab"c'2c'2 "Eb7"b2b2 | 
+"Ab"a2a2 cde2 | "Eb7"fegb !>!e'4 | "Ab"feac' !>!e'4 | c'2c'2 "Eb7"b2b2 | "Ab"a2a2 cde2 | "Bbm"f2ba "Eb7"g2c'b | "Ab"a2c'2 a2z2 :| 
+
+

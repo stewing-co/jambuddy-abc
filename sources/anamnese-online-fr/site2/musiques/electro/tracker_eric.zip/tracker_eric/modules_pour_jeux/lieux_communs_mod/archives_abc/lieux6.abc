@@ -1,0 +1,80 @@
+X: 6
+T: Des collines enneigees
+N: from lieuxc_musique6.mid
+M: 4/4
+L: 1/8
+Q:1/4=120
+% Last note suggests minor mode tune
+K:G % 1 sharps
+%%staves 1  2 3 (4 5)
+V:1
+%%MIDI program 0
+%%MIDI transpose 0
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+ED B,2 G,2 A,2 | E2 A6 | e3 e3 g2- | g g3 e4 |
+g3a f4 | f6 a2 | b3f3 b2- | bf3 e4 |
+ED B,2 G,2 A,2 | E2 A6 | e3 e3 g2- | g g3 e4 |
+g3a f4 | f6 a2 | b3f3 b2- | bf3 e4-|
+V:2
+%%MIDI program 0
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+c4 g4 | c'4 c'4- | c' g3 g3 a- | a2 a3a3-|
+ab4a3- | ab6-b- | ba3 e3a- | a2 e6|
+c4 g4 | c'4 c'4- | c'g3 g3a- | a2 a3 a3-|
+a b4 a3- | ab6-b- | ba3 e3a- | a2 e6-|
+e8- | e8- | e8- | e8-|
+e8- | e8- | e8- | e8 |
+c4 g4 | c'4 c'4- | c'g3 g3a- | a2 a3a3-|
+ab4a3- | ab6-b- | ba3 e3a- | a2 e6|
+c4 g4 | c'4 c'4- | c'g3 g3a- | a2 a3a3-|
+ab4a3- | ab6-b- | ba3 e3a-|a2 
+V:3
+%%MIDI program 0
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x e4 b3- | b b4 a3- | a2 b/ b2-b/ 2b/ b2-b/ | c'/ b2-b/ g3 b2-|
+b2 b4 b2- | b2 eb b4- | b2 g6 | g8-|
+ge4b3- | bb4a3- | a2 b/2b2-b/2b/2b2-b/2 | c'/2b2-b/2g3 b2-|
+b2 b4 b2- | b2 eb b4- | b2 g6 | g8-|
+g8- | g8- | g8- | g8-|
+g8- | g8- | g8- | g8-|
+ge4b3- | bb4a3- | a2 b/2b2-b/2b/2b2-b/2 | c'/ b2-b/ g3 b2-|
+b2 b4 b2- | b2 eb b4- | b2 g6 | g8-|
+ge4b3- | bb4a3- | a2 b/2b2-b/2b/2b2-b/2 | c'/2b2-b/2g3 b2-|
+b2 b4 b2- | b2 eb b4- | b2 g6|
+V:4     
+K:G bass-8                                                                                       
+%%MIDI program 0 
+%%MIDI transpose -12  
+E,4 E,4 | E,4 E,4 | E,3 E,3 E,2 | E,4 E,4 |                                                         
+E,B, B,2 F,A, A,2 | F,G, E,2 E,4- | E,8 | E,2 E,2 E,2 E,2 |                                        
+E,4 E,4 | E,4 E,4 | E,3E,3 E,2 | E,4 E,4 |                                                         
+E,B, B,2 F,A, A,2 | F,G, E,2 E,4- | E,8 | E,2 E,2 E,2 E,2 |                                        
+E,4 E,4 | E,4 E,4 | E,3E,3 E,2 | E,4 E,4 |                                                         
+E,B, B,2 F,A, A,2 | F,G, E,2 E,4- | E,8 | E,2 E,2 E,2 E,2 |                                        
+E,4 E,4 | E,4 E,4 | E,3E,3 E,2 | E,4 E,4 |                                                         
+E,B, B,2 F,A, A,2 | F,G, E,2 E,4- | E,8 | E,2 E,2 E,2 E,2 |                                        
+E,4 E,4 | E,4 E,4 | E,3E,3 E,2 | E,4 E,4 |                                                         
+E,B, B,2 F,A, A,2 | F,G, E,2 E,4- | E,8 | E,2 E,2 E,2 E,2 |                                        
+E,4 E,4 | E,4 E,4 | E,3E,3 E,2 | E,4 E,4 |                                                         
+E,B, B,2 F,A, A,2 | F,G, E,2 E,4- | E,8 | E,2 E,2 E,2 E,2 |                                        
+E,4 E,4 | E,4 E,4 | E,3E,3 E,2 | E,4 E,4 |                                                                    
+V:5      
+K:G bass-8                                                                                                                                                         
+%%MIDI program 0
+%%MIDI transpose -12
+x B, B,3 B, B,2  | CB, A,2 G,A, B,2- | B,B, B,2 B,3 B, | CB, A,2 G,A, B,2 |                      
+G,4 F,4 | B,4 F,G, A,2 | B,A, G,F, E,4- | E,8- |                                                   
+E,B,2<B,2B, B,2 | CB, A,2 G,A, B,2- | B,B, B,2 B,2<B,2 | CB, A,2 G,A, B,2 |                        
+G,4 F,4 | B,4 F,G, A,2 | B,A, G,F, E,4- | E,8- |                                                   
+E,B,2<B,2B, B,2 | CB, A,2 G,A, B,2- | B,B, B,2 B,2<B,2 | CB, A,2 G,A, B,2 |                        
+G,4 F,4 | B,4 F,G, A,2 | B,A, G,F, E,4- | E,8- |                                                   
+E,B,2<B,2B, B,2 | CB, A,2 G,A, B,2- | B,B, B,2 B,2<B,2 | CB, A,2 G,A, B,2 |                        
+G,4 F,4 | B,4 F,G, A,2 | B,A, G,F, E,4- | E,8- |                                                   
+E,B,2<B,2B, B,2 | CB, A,2 G,A, B,2- | B,B, B,2 B,2<B,2 | CB, A,2 G,A, B,2 |                        
+G,4 F,4 | B,4 F,G, A,2 | B,A, G,F, E,4- | E,8- |                                                   
+E,B,2<B,2B, B,2 | CB, A,2 G,A, B,2- | B,B, B,2 B,2<B,2 | CB, A,2 G,A, B,2 |                        
+G,4 F,4 | B,4 F,G, A,2 | B,A, G,F, E,4- | E,8- |                                                   
+E,B,2<B,2B, B,2 | CB, A,2 G,A, B,2- | B,B, B,2 B,2<B,2 | CB, A,2 G,A, B,2 |   

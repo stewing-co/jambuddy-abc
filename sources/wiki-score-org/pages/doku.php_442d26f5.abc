@@ -1,0 +1,48 @@
+X:229
+T:O Salutaris
+C:Giuseppe Totti (17__-1832)
+M:3/4
+L:1/4
+K:Eb
+V: 29 clef=tenor name="Tenore" sname="T."
+%%MIDI program 1 1
+%%staves [[ 29 ]]
+%----- edit between the lines ----
+[Q:"Largo com molto"]
+Z5| F D B, | E E, z |\
+w: O sa-lu-ta-ris
+G F F | (G F) F | G > E E |\
+w: O sa-lu-ta_ ris Hos-ti-a,
+Z3 | D D D | D2 E | D/2 > D/2 D z |\
+w: Quae cae-li pan-dis os-ti-um:
+Z4 | F F F | F2 F | F/2 > E/2 D z |\
+w: Quae cae-li pan-dis os-ti-um:
+Z9 | D F > E | D F > E | D/2 > D/2 D z |\
+w: O sa-lu-ta_ ris Hos-ti-a,
+Z3 | E G > F |  E G > F | E/2 > E/2 E z |\
+w: O sa-lu-ta_ ris Hos-ti-a,
+Z2 | D D D | E2  E |  D/2 D/2 D z |\
+w: Quae cae-li pan-dis os-ti-um:
+Z | z D E | D2 E | D3 | Z2 |\
+w: pan-dis os-ti-um:
+G3 | F3 | (G F) E | E E F | G/2 E/2 E z | Z3 |\
+w: Bel-la pre_ munt pre-munt hos-ti-li-a,
+z F2 | F C z | z G2 | G D z | z E2 | z3 | z E E | D/2 D/2 D z |\
+w: Da ro-bur, da ro-bur fer fer au-xi-li-um.
+z3 | z _E2 | E E z | Z | F2 G | F/2 C/2 C z | Z | z ^F2 |\
+w: Da ro-bur fer au-xi-li-um. Da
+F F z | Z | D2 D | D/2 D/2 D z | Z | (_B,>D) G/2D/2 | (E>G) E/2C/2 | (_B,>D) G/2 D/2 |\
+w: ro-bur fer au-xi-li-um. Bel_ la_ pre_ munt_ pre_ munt hos_
+E/2 E/2 E z | Z4 | z z D | E2 E | E z E |\
+w: ti-li-a, Da ro-bur, fer Da
+F2 F | F z z | Z5 | B,3 |\
+w: ro--bur fer
+C3 | B,2 B, | B, z z | Z10 |\
+w: au-xi-li-um.
+B,3 | B,3 | B, z z |\
+w: a--men.
+Z5 | z z D | E z z | z z D |\
+w: a-men a -
+E z z | Z5 |]
+w: men.
+%---------------------------------

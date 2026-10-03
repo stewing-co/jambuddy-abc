@@ -1,0 +1,59 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Die sch\"one Wehntalerin (Polka) FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.340 (pk04892) orig. F,Bb-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"{/d}c2FAc4 | "Gm/Bb"{/^c}d2GB d2GF | "C7"EFGA Bcde | "F"f2g2a4 | {/d}c2FAc4 | "Gm/Bb"{/^c}d2GB d2GF | "C7"EFGA Bcde |1 
+"F"f2f2 f2z2 :|2 "F"f2f2 f2((3c=B_B) |: "F"(A4 A)AB=B | (c4c)fed | "C7"e2G2 B3d | "F"c2F2 Ac=B_B | (A4A)AB=B | (c4c)fed | 
+"C7"e2d2 B3e |1 "F"f2f2 f2((3c=B_B) :|2 "F"f2f2 f2z2 |: "F"!>!c4 d2c2 | "Bb"(f4f)fed | "C7"!>!c4 cdcB | "F"A4F4 | !>!c4 d2c2 | "Bb"(f4f)fed | 
+"C7"c4cede | "F"f2e2 f2z2 :: [K:Bb] "D7"d2A2 "Gm"B3G | "D7"d8 | d2A2 "Gm"B3G | "D7"d8 | "Cm"e3d e3d | "F7"(e4e)Acd | e3d e3=e | "Bb"(f4 f)"Dm"DFA | 
+"D7"d3A "Gm"B3G | "D7"d^cde dcde | d2A2 "Gm"B3G | "D7"d^cde cded | "Cm"edef edef | edef edef | "F7"e2c2 e3f | "Bb"B2B2 B2z2 :|  
+
+X:2
+T:Die sch\"one Wehntalerin (Polka) CF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"{/A}G2CEG4 | "Dm/F"{/^G}A2DF A2DC | "G7"B,CDE FGAB | "C"c2d2e4 | {/A}G2CEG4 | "Dm/F"{/^G}A2DF A2DC | "G7"B,CDE FGAB |1 
+"C"c2c2 c2z2 :|2 "C"c2c2 c2((3G^F=F) |: "C"(E4 E)EF^F | (G4G)cBA | "G7"B2D2 F3A | "C"G2C2 EG^F=F | (E4E)EF^F | (G4G)cBA | 
+"G7"B2A2 F3B |1 "C"c2c2 c2((3G^F=F) :|2 "C"c2c2 c2z2 |: "C"!>!G4 A2G2 | "F"(c4c)cBA | "G7"!>!G4 GAGF | "C"E4C4 | !>!G4 A2G2 | "F"(c4c)cBA | 
+"G7"G4GBAB | "C"c2B2 c2z2 :: [K:Fmaj] "A7"A2E2 "Dm"F3D | "A7"A8 | A2E2 "Dm"F3D | "A7"A8 | "Gm"B3A B3A | "C7"(B4B)EGA | B3A B3=B | "F"(c4 c)"Am"A,CE | 
+"A7"A3E "Dm"F3D | "A7"A^GAB AGAB | A2E2 "Dm"F3D | "A7"A^GAB GABA | "Gm"BABc BABc | BABc BABc | "C7"B2G2 B3c | "F"F2F2 F2z2 :| 
+
+X:3
+T:Die sch\"one Wehntalerin (Polka) GC 2+ chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"{/e}d2GBd4 | "Am/C"{/^d}e2Ac e2AG | "D7"FGAB cdef | "G"g2a2b4 | {/e}d2GBd4 | "Am/C"{/^d}e2Ac e2AG | "D7"FGAB cdef |1 
+"G"g2g2 g2z2 :|2 "G"g2g2 g2((3d^c=c) |: "G"(B4 B)Bc^c | (d4d)gfe | "D7"f2A2 c3e | "G"d2G2 Bd^c=c | (B4B)Bc^c | (d4d)gfe | 
+"D7"f2e2 c3f |1 "G"g2g2 g2((3d^c=c) :|2 "G"g2g2 g2z2 |: "G"!>!d4 e2d2 | "C"(g4g)gfe | "D7"!>!d4 dedc | "G"B4G4 | !>!d4 e2d2 | "C"(g4g)gfe | 
+"D7"d4dfef | "G"g2f2 g2z2 :: [K:Cmaj] "E7"e2B2 "Am"c3A | "E7"e8 | e2B2 "Am"c3A | "E7"e8 | "Dm"f3e f3e | "G7"(f4f)Bde | f3e f3^f | "C"(g4 g)"Em"EGB | 
+"E7"e3B "Am"c3A | "E7"e^def edef | e2B2 "Am"c3A | "E7"e^def defe | "Dm"fefg fefg | fefg fefg | "G7"f2d2 f3g | "C"c2c2 c2z2 :| 
+
+X:4
+T:Die sch\"one Wehntalerin (Polka) EbAb (5letras) cf. CF
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+"Eb"{/c}B2EGB4 | "Fm/Ab"{/=B}c2FA c2FE | "Bb7"DEFG ABcd | "Eb"e2f2g4 | {/c}B2EGB4 | "Fm/Ab"{/=B}c2FA c2FE | "Bb7"DEFG ABcd |1 
+"Eb"e2e2 e2z2 :|2 "Eb"e2e2 e2((3B=A_A) |: "Eb"(G4 G)GA=A | (B4B)edc | "Bb7"d2F2 A3c | "Eb"B2E2 GB=A_A | (G4G)GA=A | (B4B)edc | 
+"Bb7"d2c2 A3d |1 "Eb"e2e2 e2((3B=A_A) :|2 "Eb"e2e2 e2z2 |: "Eb"!>!B4 c2B2 | "Ab"(e4e)edc | "Bb7"!>!B4 BcBA | "Eb"G4E4 | !>!B4 c2B2 | "Ab"(e4e)edc | 
+"Bb7"B4Bdcd | "Eb"e2d2 e2z2 :: [K:Abmaj] "C7"c2G2 "Fm"A3F | "C7"c8 | c2G2 "Fm"A3F | "C7"c8 | "Bbm"d3c d3c | "Eb7"(d4d)GBc | d3c d3=d | "Ab"(e4 e)"Cm"CEG | 
+"C7"c3G "Fm"A3F | "C7"c=Bcd cBcd | c2G2 "Fm"A3F | "C7"c=Bcd Bcdc | "Bbm"dcde dcde | dcde dcde | "Eb7"d2B2 d3e | "Ab"A2A2 A2z2 :| 
+
+X:5
+T:Die sch\"one Wehntalerin (Polka) BbEb (5letras) cf. GC
+M:2/4
+L:1/16
+K:Bbmaj%%MIDI gchordon
+"Bb"{/g}f2Bdf4 | "Cm/Eb"{/^f}g2ce g2cB | "F7"ABcd efga | "Bb"b2c'2d'4 | {/g}f2Bdf4 | "Cm/Eb"{/^f}g2ce g2cB | "F7"ABcd efga |1 
+"Bb"b2b2 b2z2 :|2 "Bb"b2b2 b2((3f=e_e) |: "Bb"(d4 d)de=e | (f4f)bag | "F7"a2c2 e3g | "Bb"f2B2 df=e_e | (d4d)de=e | (f4f)bag | 
+"F7"a2g2 e3a |1 "Bb"b2b2 b2((3f=e_e) :|2 "Bb"b2b2 b2z2 |: "Bb"!>!f4 g2f2 | "Eb"(b4b)bag | "F7"!>!f4 fgfe | "Bb"d4B4 | !>!f4 g2f2 | "Eb"(b4b)bag | 
+"F7"f4faga | "Bb"b2a2 b2z2 :: [K:Ebmaj] "G7"g2d2 "Cm"e3c | "G7"g8 | g2d2 "Cm"e3c | "G7"g8 | "Fm"a3g a3g | "Bb7"(a4a)dfg | a3g a3=a | "Eb"(b4 b)"Gm"GBd | 
+"G7"g3d "Cm"e3c | "G7"g^fga gfga | g2d2 "Cm"e3c | "G7"g^fga fgag | "Fm"agab agab | agab agab | "Bb7"a2f2 a3b | "Eb"e2e2 e2z2 :| 

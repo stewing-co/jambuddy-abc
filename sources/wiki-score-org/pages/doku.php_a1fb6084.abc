@@ -1,0 +1,20 @@
+X:407
+T:Beata Viscera Mariae Virgins
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 7 clef=tenor name="Tenor" sname="T."
+%%MIDI program 1 1
+%%staves [ 7 ]
+%------------------
+z G, | B, B, | C > C | B,/2 C/2 A,/2 A,/2 | ^G, > G, | A,/2 C/2 C/2 C/2 | B, C/2 G,/2| G,/2 > G,/2 G,/2 G,/2 | \
+w: Be-a-ta vis-ce-ra Ma-ri-ae Vir-gi-nis quae por-ta-ve-runt ae-ter-ni Pa-tris
+^F,>F,|G, B,-|B,C|CB,|A,>A, | B,/ B,/ B,/ B,/ | C/> C/ B,/ C/ | A,^G, | A,C-|CB,| A,>A,| ^G,2 !segno!|| \
+w: Fi-li-um Et ~ be-a-ta u-be-ra quae por-ta-ve-runt Chris-tum Do-mi-num Chris--tum Do-mi-num
+[M:3/2] z^G,2| A,2A, | ^G,B,B, | C2C | A,3 | A,2"_NB: sharp suggested"^C | A,>A,A, | B,>B,B, | C2C | \
+w: Qui ho-di-e pro sa-lu-te mun-di de Vir-gi-ne nas-ci di-gna-tus
+B,2D | D>DD | D>EC| D2B, | A,2C|C2C|B,3- | B,3 !fine! |] \
+w: est de Vir-gi-ne nas-ci di-gna-tus est di-gna-tus est.
+[M:2/2] Z51 !segno! |] \
+%------------------

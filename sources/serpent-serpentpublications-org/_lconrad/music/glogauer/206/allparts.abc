@@ -1,0 +1,95 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+%abctab2ps format
+%
+%%titlefont Times-Roman 18
+T:Ich bins erfreut
+T:Superius
+C:Glogauer Liederbuch, Number 206
+M:C
+L:1/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on first line
+K:F
+F A c A > B A/ G/ F E > D D2 ^C D/ E/ F/ G/ A/ B/ c B A/ F G/ F/ E// D// C F2 E F > G A3/2 G// F//
+E2 F > G A2 B2 c2 z d3/2 c// =B// c3/2 _B// A// B3/2 A// G// A > G G/ F/ A4 z A c > d
+e A z d c > B A2 z B A > G F > E D2 C > D E > F G/ A/ B A G2 F2 E HF4 |]
+
+X:2
+%abctab2ps format
+%
+%%titlefont Times-Roman 18
+T:Ich bins erfreut
+T:Contratenores
+C:Glogauer Liederbuch, Number 206
+M:C
+L:1/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on first line
+K:F
+F2 F > E F3/2 E// D// C > B, A, A2 G F/ G/ E/ B/ c A G F D/ E/ F/ G/ A/ B/ c > A B/ c/ A > E F3/2 E// D//
+C2 z c c c B G A/ G/ F/ E/ D A G c A d3/2 c// B// c2 B c > d e f e > d c3/2 B// A//
+G A > F G A > B c c/ A F/ G A2 z d d3/2 c// B// A3/2 G// F// E A G F > E F/ G/ A/ B/ c > A B/ c/ HA4 |]
+
+X:3
+%abctab2ps format
+%
+%%titlefont Times-Roman 18
+T:Ich bins erfreut
+T: Tenores
+C:Glogauer Liederbuch, Number 206
+M:C
+L:1/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N: Original clef, C on fourth line
+K:F -8va
+%%MIDI transpose -12
+F2 A c d c A2 F D E2 D2 F2 G A B2 A F G2 F2 z F
+w:1.~Ich bins er- freut _ aus ro- * tem mund von dir, du hoch- lib- * ste mein, in
+w:2.~In hoff- nung steht _ nach dir * mein sin, du tust von mir nit * ker- en, wann
+w:3.~Mein au- gen- trost, _ das tu * gar bald, daß ich nicht tro- stes wer- de an,(2)
+N:(2)  trostes an = ohne Trost
+c c A2 c2 d d c2 f2 e c d2 c A B2 A2 z A c d e2
+w:dei- ner li- be gar ent- zundt und wend * mir gro- * ße pein, die ich nun hab
+w:ich al- lein dein ei- gen bin, von dir so wil ich le- *  ren(1)
+N:(1)leren = lernen
+w:ge- dank die sind so man- nig- falt, die ich nach dein- er li- be hab.
+z f c > B A2 z c A G F2 D2 F > G A > B c > A B d c2 A F G2 HF4 |]
+w:mit gro- ßer klag bis ich dich wie- der se- * * * * * * * * hen * * mag.
+w: ganz freu- den vil, mein libst ge- spil tu mir setz- en ein recht- * * * * * * * *  es * * zil.
+w:Ver- giß mein nit, des ich dich bit ich bleib dir dein recht wie * * * * * * * * du * * wilt.
+
+X:4
+%abctab2ps format
+%
+%%titlefont Times-Roman 18
+T:Ich bins erfreut
+T:Bassus
+C:Glogauer Liederbuch, Number 206
+M:C
+L:1/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+K:F bass
+f2 f f B f/ e/ f c d/ c/ d A3/2 G// A// B3/2 A// G// F2 z f B/ c/ d/ e/ f d c2 F/ B/ A/ G/ F > G 
+A2 F2 z f d/ g g/ c/ f g/ f/ d/ f c z f g a f g2 z f c d c > B A > B
+c F A B/ A// G// F z f c/ f d/ e f > g a d B2 F2 z f _e3/4 d// B3/4 A// F/ f =e/ f/ d/ f c2 HF4 |]
+

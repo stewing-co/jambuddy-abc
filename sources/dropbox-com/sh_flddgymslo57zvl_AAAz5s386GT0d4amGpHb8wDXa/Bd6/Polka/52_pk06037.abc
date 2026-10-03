@@ -1,0 +1,97 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Im sch\"one Wiggertal (Polka)  FBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.315 (pk06037) orig. F,Bb-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"A2c2 {/d}c=Bc2 | "Bb"B2d2 {/e}d^cd2 | "C7"cdef gabc' | "F"bagf edcB | A2c2 {/d}c=Bc2 | "Bb"B2d2 {/e}d^cd2 | 
+"C7"cdef gabe | "F"f2a2 f2z2 :: "F"aaf2 aaf2 | "C7"g2g2 gab2 | gge2 gge2 | "F"fefe fac'2 | aaf2 aaf2 | 
+"C7"g2g2 gab2 | g2ge g2ge | "F"f2a2 f2z2 :| [K:Bb] "Bb"b4a4 | g4f4 | "F7"agag a2f2 | e2e2 e2fa | c'4b4 | a4g4 | agag a2f2 | 
+"Bb"d4zfga | bbb2 aaa2 | g2g2f4 | "Eb"g^fgf g2b2 | e'6g2 | "Bb"f2d'd' d'2f2 | "F7"e2c'c' c'2cd | e2f2 g2a2 | "Bb"b2d'2 b2z2 |] 
+W: cf. http://www.hvwiggertal.ch/ (Wiggertal - Heimatvereinigung)
+% pk06037
+X:2
+T:Im sch\"one Wiggertal (Polka)  CF 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+"C"E2G2 {/A}G^FG2 | "F"F2A2 {/B}A^GA2 | "G7"GABc defg | "C"fedc BAGF | E2G2 {/A}G^FG2 | "F"F2A2 {/B}A^GA2 | 
+"G7"GABc defB | "C"c2e2 c2z2 :: "C"eec2 eec2 | "G7"d2d2 def2 | ddB2 ddB2 | "C"cBcB ceg2 | eec2 eec2 | 
+"G7"d2d2 def2 | d2dB d2dB | "C"c2e2 c2z2 :| [K:F] "F"f4e4 | d4c4 | "C7"eded e2c2 | B2B2 B2ce | g4f4 | e4d4 | eded e2c2 | 
+"F"A4zcde | fff2 eee2 | d2d2c4 | "Bb"d^cdc d2f2 | b6d2 | "F"c2aa a2c2 | "C7"B2gg g2GA | B2c2 d2e2 | "F"f2a2 f2z2 |] 
+% pk06037
+X:3
+T:Im sch\"one Wiggertal (Polka)  GC 10-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+"G"B,2D2 {/E}D^CD2 | "C"C2E2 {/F}E^DE2 | "D7"DEFG ABcd | "G"cBAG FEDC | B,2D2 {/E}D^CD2 | "C"C2E2 {/F}E^DE2 | 
+"D7"DEFG ABcF | "G"G2B2 G2z2 :: "G"BBG2 BBG2 | "D7"A2A2 ABc2 | AAF2 AAF2 | "G"GFGF GBd2 | BBG2 BBG2 | 
+"D7"A2A2 ABc2 | A2AF A2AF | "G"G2B2 G2z2 :| [K:C] "C"c4B4 | A4G4 | "G7"BABA B2G2 | F2F2 F2GB | d4c4 | B4A4 | BABA B2G2 | 
+"C"E4zGAB | ccc2 BBB2 | A2A2G4 | "F"A^GAG A2c2 | f6A2 | "C"G2ee e2G2 | "G7"F2dd d2DE | F2G2 A2B2 | "C"c2e2 c2z2 |] 
+% pk06037
+X:4
+T:Im sch\"one Wiggertal (Polka)  CF (5letras transposed) 
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"E2G2 {/A}G^FG2 | "F"F2A2 {/B}A^GA2 | "G7"GABc defg | "C"fedc BAGF | E2G2 {/A}G^FG2 | "F"F2A2 {/B}A^GA2 | 
+"G7"GABc defB | "C"c2e2 c2z2 :: "C"eec2 eec2 | "G7"d2d2 def2 | ddB2 ddB2 | "C"cBcB ceg2 | eec2 eec2 | 
+"G7"d2d2 def2 | d2dB d2dB | "C"c2e2 c2z2 :| [K:F] "F"f4e4 | d4c4 | "C7"eded e2c2 | B2B2 B2ce | g4f4 | e4d4 | eded e2c2 | 
+"F"A4zcde | fff2 eee2 | d2d2c4 | "Bb"d^cdc d2f2 | b6d2 | "F"c2aa a2c2 | "C7"B2gg g2GA | B2c2 d2e2 | "F"f2a2 f2z2 |] 
+% pk06037
+X:5
+T:Im sch\"one Wiggertal (Polka)  GC (5letras transposed) 
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"B,2D2 {/E}D^CD2 | "C"C2E2 {/F}E^DE2 | "D7"DEFG ABcd | "G"cBAG FEDC | B,2D2 {/E}D^CD2 | "C"C2E2 {/F}E^DE2 | 
+"D7"DEFG ABcF | "G"G2B2 G2z2 :: "G"BBG2 BBG2 | "D7"A2A2 ABc2 | AAF2 AAF2 | "G"GFGF GBd2 | BBG2 BBG2 | 
+"D7"A2A2 ABc2 | A2AF A2AF | "G"G2B2 G2z2 :| [K:C] "C"c4B4 | A4G4 | "G7"BABA B2G2 | F2F2 F2GB | d4c4 | B4A4 | BABA B2G2 | 
+"C"E4zGAB | ccc2 BBB2 | A2A2G4 | "F"A^GAG A2c2 | f6A2 | "C"G2ee e2G2 | "G7"F2dd d2DE | F2G2 A2B2 | "C"c2e2 c2z2 |] 
+% pk06037
+X:6
+T:Im sch\"one Wiggertal (Polka) D&G (tinwhistle in D)
+T:pk06037 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"F2A2 {/B}A^GA2 | "G"G2B2 {/c}B^AB2 | "A7"ABcd efga | "D"gfed cBAG | F2A2 {/B}A^GA2 | "G"G2B2 {/c}B^AB2 | 
+"A7"ABcd efgc | "D"d2f2 d2z2 :: "D"ffd2 ffd2 | "A7"e2e2 efg2 | eec2 eec2 | "D"dcdc dfa2 | ffd2 ffd2 | 
+"A7"e2e2 efg2 | e2ec e2ec | "D"d2f2 d2z2 :| [K:G] "G"g4f4 | e4d4 | "D7"fefe f2d2 | c2c2 c2df | a4g4 | f4e4 | fefe f2d2 | 
+"G"B4zdef | ggg2 fff2 | e2e2d4 | "C"e^ded e2g2 | c'6e2 | "G"d2bb b2d2 | "D7"c2aa a2AB | c2d2 e2f2 | "G"g2b2 g2z2 |] 
+X:7
+T:Im sch\"one Wiggertal (Polka) D&G (tinwhistle in D) solo
+T:pk06037 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+F2A2 {/B}A^GA2 | G2B2 {/c}B^AB2 | ABcd efga | gfed cBAG | F2A2 {/B}A^GA2 | G2B2 {/c}B^AB2 | 
+ABcd efgc | d2f2 d2z2 :: ffd2 ffd2 | e2e2 efg2 | eec2 eec2 | dcdc dfa2 | ffd2 ffd2 | 
+e2e2 efg2 | e2ec e2ec | d2f2 d2z2 :| [K:G] g4f4 | e4d4 | fefe f2d2 | "_c"c2c2 c2df | a4g4 | f4e4 | fefe f2d2 | 
+B4zdef | ggg2 fff2 | e2e2d4 | e^ded e2g2 | "_c"c'6e2 | d2bb b2d2 | "_c"c2aa a2AB | "_c"c2d2 e2f2 | g2b2 g2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 13, 2016

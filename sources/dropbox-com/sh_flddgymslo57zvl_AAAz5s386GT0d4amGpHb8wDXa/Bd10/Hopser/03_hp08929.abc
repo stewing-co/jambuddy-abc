@@ -1,0 +1,52 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Hops-Walzer CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.20 (hp08929) orig. C,F-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G |: "C"gG "G7"fG | "C"ec GE | "G7"FD G,B | "C"cG Ce | gG "G7"fG | "C"ec GE | FD G,B |1"C"c2zG :|2 "C"c2 z/G/A/B/ ||
+|: "C"cB cd | ed ef | {a}"G7"g^f {/a}gf | gf ed | "C"cB cd | ed eg | "G7"gf dB |1 "C"c2 z/G/A/B/  :|2 "C"c2zc/_B/ || [K:F] 
+|: "F"Ac {/e}dc | ef cf | "C7"^fg cg | "F"ag/f/ e/d/c/B/ | Ac {/e}dc | ef cf | "C7"^fg be |1 "F"f2zc/B/ :|2 "F"f2z2 |] 
+% hp08929
+X:2
+T: Hops-Walzer CF (5letras transposed)
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+G |: "C"gG "G7"fG | "C"ec GE | "G7"FD G,B | "C"cG Ce | gG "G7"fG | "C"ec GE | FD G,B |1"C"c2zG :|2 "C"c2 z/G/A/B/ ||
+|: "C"cB cd | ed ef | {a}"G7"g^f {/a}gf | gf ed | "C"cB cd | ed eg | "G7"gf dB |1 "C"c2 z/G/A/B/  :|2 "C"c2zc/_B/ || [K:F] 
+|: "F"Ac {/e}dc | ef cf | "C7"^fg cg | "F"ag/f/ e/d/c/B/ | Ac {/e}dc | ef cf | "C7"^fg be |1 "F"f2zc/B/ :|2 "F"f2z2 |] 
+% hp08929
+X:3
+T:Hops-Walzer D&G (tinwhistle in D)
+T:hp08929 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+R:
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+A |: "D"aA "A7"gA | "D"fd AF | "A7"GE A,c | "D"dA Df | aA "A7"gA | "D"fd AF | GE A,c |1"D"d2zA :|2 "D"d2 z/2A/2B/2c/2 ||
+|: "D"dc de | fe fg | {b}"A7"a^g {/b}ag | ag fe | "D"dc de | fe fa | "A7"ag ec |1 "D"d2 z/2A/2B/2c/2 :|2 "D"d2zd/2=c/2 || [K:G] 
+|: "G"Bd {/f}ed | fg dg | "D7"^ga da | "G"ba/2g/2 f/2e/2d/2c/2 | Bd {/f}ed | fg dg | "D7"^ga c'f |1 "G"g2zd/2c/2 :|2 "G"g2z2 |] 
+X:4
+T:Hops-Walzer D&G (tinwhistle in D) solo
+T:hp08929 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+R:
+M:2/4
+L:1/8
+K:D transpose=12
+A |: aA gA | fd AF | GE "_=A,"A,c | dA Df | aA gA | fd AF | GE "_=A,"Ac |1d2zA :|2 d2 z/2A/2B/2c/2 ||
+|: dc de | fe fg | {b}a^g {/b}ag | ag fe | dc de | fe fa | ag ec |1 d2 z/2A/2B/2c/2 :|2 d2zd/2=c/2 || [K:G] 
+|: Bd {/f}ed | fg dg | ^ga da | ba/2g/2 f/2e/2d/2"_c"c/2 | Bd {/f}ed | fg dg | ^ga "_c"c'f |1 g2zd/2c/2 :|2 g2z2 |]
+% July 28, 2016

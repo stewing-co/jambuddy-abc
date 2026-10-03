@@ -1,0 +1,21 @@
+X:806
+T:N.8 Conto do Sargento
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:G
+V: 6 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 6 ]
+%---
+[Q:"Andantino"] z6| z2z !>!(B,,3 | C,2)z z2z  | !pp! "_Pizz." G,zz z2z || \
+G,zz z2z | G,zz z2z | G,zz B,zz  | G,zz z2z   | D,zz z2z | D,zz z2z  | D,zz z2z   | \
+G,zz z2z | G,zz z2z | G,zz z2z   | E,zz ^G,zz | A,zz z2z | A,zz C,zz | D,zz B,,zz | \
+A,,zz D,zz | G,3-G,2x || Z9 | !p!z(CG,) (!>!D2G,) | E2G,D2G,| C2G, C,!fermata!z "^A tempo"B,,|| \
+[M:3/4] "^Recitativo" E,z z2 B,,z| z6 | D,z z2 D,z | z6 | !///!F,6| !fermata!z6 || \
+[M:6/8] Z7 || [M:3/4] "^Recitativo"  !p! !///!E,6 | !///!D,6 | !///!G,,6 | \
+!///!^C,4!///!A,,2 | !///!B,,4-B,,z | Z2 || [M:6/8]"^1.o tempo" \
+G,zz z2z | G,zz z2z | G,zz B,zz  | G,zz z2z   | D,zz z2z | D,zz z2z  | D,zz z2z   | \
+G,zz z2z | G,zz z2z | G,zz z2z   | E,zz ^G,zz | A,zz z2z | A,zz C,zz | D,zz B,,zz | \
+A,,zz D,!fermata!D,D, | G,D,B, G,zz |] \
+%---

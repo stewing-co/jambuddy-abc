@@ -1,0 +1,83 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Riebg\"arteler Mazurka  GC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.320 (mz05862) orig. G,C-Dur
+T: "Riebg\"arteler", T\"anze aus Halisberg. S.319-338
+T: Aus dem Repertoire von Johann und Melchior Zenger.
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"B2d2e2 | "D7"d2cFA2 | Fd cF AF | "G"Ge BGB2 | B2d2e2 | "D7"d2cFA2 | Fd cA cf | "G"g2g2z2 ::
+"C"gfe2e2 | "G"dcB2B2 | "D7"cB Ac BA | "G"BAG4 | "C"gfe2e2 | "G"dcB2B2 | "D7"cB Ac BA | "G"G2G2z2 :: [K:C]
+"C"EGc2G2 | "G7"FGB2G2 | FG BG Bd | "C"e2c2c2 | EG c2G2 | "G7"FG B2G2 | FG BA Bd | "C"c2c2z2 :| 
+% mz05862
+X:2
+T:Riebg\"arteler Mazurka  CF 5+
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"e2g2a2 | "G7"g2fBd2 | Bg fB dB | "C"ca ece2 | e2g2a2 | "G7"g2fBd2 | Bg fd fb | "C"c'2c'2z2 ::
+"F"c'ba2a2 | "C"gfe2e2 | "G7"fe df ed | "C"edc4 | "F"c'ba2a2 | "C"gfe2e2 | "G7"fe df ed | "C"c2c2z2 :: [K:F]
+"F"Acf2c2 | "C7"Bce2c2 | Bc ec eg | "F"a2f2f2 | Ac f2c2 | "C7"Bc e2c2 | Bc ed eg | "F"f2f2z2 :| 
+% mz05862
+X:3
+T: Riebg\"arteler Mazurka  GC (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"B2d2e2 | "D7"d2cFA2 | Fd cF AF | "G"Ge BGB2 | B2d2e2 | "D7"d2cFA2 | Fd cA cf | "G"g2g2z2 ::
+"C"gfe2e2 | "G"dcB2B2 | "D7"cB Ac BA | "G"BAG4 | "C"gfe2e2 | "G"dcB2B2 | "D7"cB Ac BA | "G"G2G2z2 :: [K:C]
+"C"EGc2G2 | "G7"FGB2G2 | FG BG Bd | "C"e2c2c2 | EG c2G2 | "G7"FG B2G2 | FG BA Bd | "C"c2c2z2 :| 
+% mz05862
+X:4
+T:Riebg\"arteler Mazurka  CF (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"e2g2a2 | "G7"g2fBd2 | Bg fB dB | "C"ca ece2 | e2g2a2 | "G7"g2fBd2 | Bg fd fb | "C"c'2c'2z2 ::
+"F"c'ba2a2 | "C"gfe2e2 | "G7"fe df ed | "C"edc4 | "F"c'ba2a2 | "C"gfe2e2 | "G7"fe df ed | "C"c2c2z2 :: [K:F]
+"F"Acf2c2 | "C7"Bce2c2 | Bc ec eg | "F"a2f2f2 | Ac f2c2 | "C7"Bc e2c2 | Bc ed eg | "F"f2f2z2 :| 
+% mz05862
+X:5
+T:Riebg\"arteler Mazurka  CF (5letras transposed) var.
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3%%MIDI gchordon
+"C"E2G2A2 | "G7"G2FB,D2 | B,G FB, DB, | "C"CA ECE2 | E2G2A2 | "G7"G2FB,D2 | B,G FD FB | "C"c2c2z2 ::
+"F"cBA2A2 | "C"GFE2E2 | "G7"FE DF ED | "C"EDC4 | "F"cBA2A2 | "C"GFE2E2 | "G7"FE DF ED | "C"C2C2z2 :: [K:F]
+"F"Acf2c2 | "C7"Bce2c2 | Bc ec eg | "F"a2f2f2 | Ac f2c2 | "C7"Bc e2c2 | Bc ed eg | "F"f2f2z2 :| 
+% mz05862
+X:6
+T:Riebg\"arteler Mazurka A&D (tinwhistle in D)
+T:mz05862 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:A %%MIDI gchordon
+"A"c2e2f2 | "E7"e2dGB2 | Ge dG BG | "A"Af cAc2 | c2e2f2 | "E7"e2dGB2 | Ge dB dg | "A"a2a2z2 ::
+"D"agf2f2 | "A"edc2c2 | "E7"dc Bd cB | "A"cBA4 | "D"agf2f2 | "A"edc2c2 | "E7"dc Bd cB | "A"A2A2z2 :: [K:D]
+"D"FAd2A2 | "A7"GAc2A2 | GA cA ce | "D"f2d2d2 | FA d2A2 | "A7"GA c2A2 | GA cB ce | "D"d2d2z2 :| 
+X:7
+T:Riebg\"arteler Mazurka A&D (tinwhistle in D) solo
+T:mz05862 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:A transpose=12
+c2e2f2 | e2d"_#"GB2 | "_#"Ge d"_#"G B"_#"G | Af cAc2 | c2e2f2 | e2d"_#"GB2 | "_#"Ge dB d"_#"g | a2a2z2 ::
+a"_#"gf2f2 | edc2c2 | dc Bd cB | cBA4 | a"_#"gf2f2 | edc2c2 | dc Bd cB | A2A2z2 :: [K:D]
+FAd2A2 | GAc2A2 | GA cA ce | f2d2d2 | FA d2A2 | GA c2A2 | GA cB ce | d2d2z2 :|
+% July 23, 2016

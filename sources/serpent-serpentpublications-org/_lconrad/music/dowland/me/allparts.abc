@@ -1,0 +1,163 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:V. Me me and none but me,
+T: Cantus
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef C on first line
+K:G mix
+B B/ B/ B > B B3 
+w:Me me and none but me,
+w:Like to the sil-ver Swanne,
+B | c2 d3 c2 B/ c/ d4 |
+w:dart home O gen- tle _ death 
+w:be- fore my death I _ sing:
+z/ A/ A/A/ A 
+w:and quick- lie, for
+w:And yet a- live
+B | c2 A4 d4 c2 | B3 B A4 
+w: I draw too long this i- dle breath:
+w:my fa- tall knell I helpe to ring.
+|: z2 d3 c/ B/ A G | A3 A 
+w:O howe I long till I may 
+w:Still I de- sire from earth
+G > A B c d4 | 
+w:fly to heaven a- bove, 
+w:and earth- ly joyes to flie,
+z2 e4 e d/ c/  B c
+w:un- to my _ faith- full
+w:He ne- ver  _ hap- pie liv'd,
+d4 d c/ B/ | A > G
+w:un- to my _ faith- full
+w:He ne- ver  hap- pie liv'd,
+G/ A/ B/ c/ A3 A G4 :|
+w:and be- lov- ed tur- tle dove.
+w:that can- not love to die.
+
+X:2
+T:V. Me me and none but me,
+T:Altus.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on third line
+K:G mix
+G G/ G/ G G G3 
+w:Me me and none but me,
+w:Like to the sil-ver Swanne,
+G E G2 D E3 G ^F4
+w:dart home O gen- tle _ death 
+w:be- fore my death I _ sing:
+^F F/ F/ F
+w:and quick- lie, for
+w:And yet a- live
+ G A2 F4 ^F2 ^G2 A4 ^G2 A4
+w: I draw too long this i- dle breath:
+w:my fa- tall knell I helpe to ring.
+|:z G2 F/ E/ D3 E/ E/ F 
+w:O howe I long till I may 
+w:Still I de- sire from earth
+G2  F G3 G F4
+w:fly to heaven a- bove, 
+w:and earth- ly joyes to flie,
+E E2 F G3 G,2 
+w:un- to my  faith-  full
+w:He ne- ver   hap- pie 
+A, B, C D2 E2 ^F2 G4 ^F2 G4 :|
+w:and _ be- lov- ed tur-  _ tle dove.
+w:liv'd, _ that  can- not love _ to die.
+
+X:3
+T:V. Me me and none but me,
+T:Tenor.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on fourth line
+%%MIDI transpose -12
+K:G mix -8va
+D D/ D/ D > D D3
+w:Me me and none but me,
+w:Like to the sil-ver Swanne,
+D C2 G,2 G,3 G, A,4
+w:dart home O gen- tle  death 
+w:be- fore my death I  sing:
+D D/ D/ D 
+w:and quick- lie, for
+w:And yet a- live
+D F2 C2 D3 C B,2 A,2 E3 D ^C4
+w: I draw too long, too long, this i- dle breath:
+w:my fa- tall knell I helpe, I helpe,  to ring.
+|:D2 G, A, B, A,/ B,/ C3 B, 
+w:O howe I long till _ I may 
+w:Still I de- sire from _ earth
+A, D B, C > B, G, A,4
+w:fly to heaven a- * _ bove, 
+w:and earth- ly joyes to _ _ flie,
+C2 G,3 A, B, C D2 G,2 
+w:un- * to my _ faith- full
+w:He ne- ver _ _ hap- pie liv'd,
+G,3 A,2 C B, G, D3 C B,4 :|
+w:and be- lov- * ed tur- tle dove.
+w:that can- * not love to die.
+
+X:4
+T:V. Me me and none but me,
+T:Bassus.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI transpose -24
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+K:G mix bass
+g g/ g/ g g g3
+w:Me me and none but me,
+w:Like to the sil-ver Swanne,
+g c2 B2 c > d e e d4
+w:dart home O gen-  * _ tle death 
+w:be- fore my death _ _ I  sing:
+d d/ e/ d
+w:and quick- lie, for
+w:And yet a- live
+g f3 f d2 d2 e6 e2 A4
+w: I draw too long this i- dle breath:
+w:my fa- tall knell I helpe to ring.
+|:G G/ G/ G2 G3 G d2
+w:O howe I long till I may 
+w:Still I de- sire from earth
+d d e3 e d4 
+w:fly to heaven a- bove, 
+w:and earth- ly joyes to flie,
+c3 d e ^f g2 G3 
+w:un- * to my  faith- full
+w:He * ne- ver  hap- pie _ liv'd,
+A B2 c2 d2 e2 d3 d G4 :|
+w:and _ be- lov- ed tur- tle dove.
+w:that  can- not love to die.

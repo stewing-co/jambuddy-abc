@@ -1,0 +1,89 @@
+%abc
+%%abc-alias My music
+%%abc-creator ABCexplorer 1.6.1 [31/05/2023]
+
+X:1908
+T:Ancient Dance
+T:Melbourne 1908
+S:nla.obj-172049360
+C:August Siede (1845-1925)
+S:https://nla.gov.au/nla.obj-172049360
+%%score 1 2 3 4 5
+L:1/4
+M:4/4
+Q:1/4=140
+I:linebreak $
+K:Bb
+V:1 treble nm="S"
+V:2 treble nm="A"
+V:3 bass nm="T"
+V:4 bass nm="B"
+V:5 perc nm="drum"
+V:1
+[I:MIDI=program 58]!f!Z|G A B/A/ G | A B A2 | d c B/A/ G | A =E ^F/E/ D | G A B c | .d/.e/.d/.^c/ =c =B |$
+.c/.d/.c/.A/ .B/.c/.B/.G/ |$ A d G2 || G _A B c/d/ | e f g2 | f/g/f/e/ d c |$ d/e/d/=B/ c/d/c/A/ |
+B3/2 c/ B A | G _A B c/d/ | e B G2 |$ C2 _A2 | B c B/_A/ G | G/e/d/c/ G/_a/g/e/ | c d Te2 ||$
+G A B/A/ G | A B A2 | d c B/A/ G | A =E ^F/E/ D |$ .G .A .B .c | .d/.e/.d/.^c/ =c =B |
+.c/.d/.c/.A/ .B/.c/.B/.G/ | A d G2 ||$ d F G/A/ B | e d c2 | d c B3/2 A/ | B/A/B/d/ B A |
+d F G/A/ B | e d c2 | f d B c/e/ |$ d c/d/ B2 | f d e/f/ g | f/g/f/e/ d/c/ B | d ^F G/A/ B |
+c/d/c/B/ A/G/ F | d F G/A/ B | e d c2 |$ d c B c/d/ | d c/d/ B2 || G A B/A/ G | A B G ^F |
+d c B/A/ G | =e d ^c/=B/ A |$ d ^c d =e | f g a2 | d' c' b/a/ g | a =e f/e/ d | G A B c |
+[dd']/[ee']/[dd']/[^c^c']/ c' =b |$ [cc']/[dd']/[cc']/[Aa]/ [Bb]/[cc']/[Bb]/[Gg]/ ||[M:2/4] A c ||
+[M:4/4] g A =B/A/ G | A =B G ^F | [Gd] [^Fc] [G=B]/A/ G |$ A =E ^F/E/ D | G A =B c |
+d/e/d/^c/ =c B | c/d/c/A/ B/c/B/G/ | A d G2 | g f/e/ d/e/ f |$ e d/c/ B2 | d c/B/ A/B/ c |
+B A/G/ A d | g f/e/ d/e/ f | e d/c/ B2 | d c/B/ A/B/ c | B A/D/ G2 |$ [GB] [Fc] [GB] [Bd] |
+[eg] z [cf] z | [GB]2 z2 |]
+V:2
+[I:MIDI=program 72]!fff!Z|D E G D | E =E G ^F | D ^F z B, | ^C A, D D | D D D G | ^F =F d2 |$ E2 G2 |$ G ^F G2 || B,3 E |
+B2 B =B | _A2 e2 |$ F2 E2 | D E F D | B,3 E | E F G F |$ C4 | F2 D2 | E _G F =G | _A2 G2 ||$
+D E G D | G G G ^F | G ^F G D | ^C C D D |$ D D D G | ^F =F d2 | E2 G2 | G ^F G2 ||$ [DF]2 E F |
+E4 | D2 E F | =E2 [_Ec]2 | [DF]2 E F | F4 | d B G2 |$ F E D2 | _A2 G2 | A B F2 | ^F D D G |
+G2 F2 | [DF]2 E F | E4 |$ D2 E G | F E D2 || D E G D | E =E D2 | D D D B, | =E E E E |$ A A A A |
+d =e e2 | a ^f g d | ^c =A ^A A | [dg] [da] [db] [gc'] | ^f =f [df=d']2 |$ A ^d e/f/g/c'/ ||
+[M:2/4] [dga] [d^fd'] ||[M:4/4] G =E G D | [=EG] [EG] [DA]2 | D4 |$ =E ^C A,2 | D3 G | F =F [Fd]2 |
+E2 G2 | G F G2 | G2 F2 |$ G4 | [DF]2 E2 | E2 F2 | G2 F2 | G4 | [DF]2 E2 | D C B,2 |$
+[dg] [df] [dg] [gb] | [Aa]4 | [dg]3 z |]
+V:3
+[I:MIDI=program 69]Z|B, C D/C/ B, | C, ^C, D, =C, | B,, A,, G,, =F, | =E, ^C, D, =C, | B,, ^F, G, E, | D, _A, G, G,, |$
+z4 |$ D C B,2 || E, F, G, _A, | G, D, E, D, | C, =B,, C, E, |$ z4 | z4 | z4 | z z B,, B,, |$ z4 |
+z4 | z4 | z4 ||$ B, C D/C/ B, | C, ^C, D, =C, | B,, A,, G,, =F, | =E, ^C, D, =C, |$ z4 | z4 | z4 |
+D C B,2 ||$ B,2 B,2 | G,2 F,2 | F, ^F, G, B, | B, C, F, F,, | B,2 B,2 | G,2 F,2 | F, ^F, G,2 |$
+F, ^F, G,2 | B,, =B,, C, E, | F, G, B, D | A, C B,/C/ D | C2 C/B,/ A, | B,2 B,2 | G,2 F,2 |$
+F, ^F, G,2 | F,2 z B,, || B, C D/C/ B, | G, G, A,,2 | G, ^F, G, D, | A,, ^G,, A,, z |$
+D, =E, F, E, | F, G, A,,2 | D, C, B,,/A,,/ [G,,B,,] | A,, E, ^A,,/G,,/ z | B,, ^F, G, E, |
+D, _A, G, G,, |$ C, ^F, G,/A,/B,/E/ ||[M:2/4] D D, ||[M:4/4] D C D/C/ =B, | C, ^C, D, =C, |
+=B,, A,, G,, B,, |$ ^C, A,, D, =C, | =B,, ^F, G, =E, | D, _A, G, G,, | C, F, G,/A,/B,/E/ |
+D C B,2 | B,2 B,2 |$ B,4 | D,2 C2 | G, B, D2 | B,2 B,2 | B,4 | D,2 C2 | G, A, B,/A,/ G, |$
+G,, A,, B,,/A,,/ G,, | C,, z D,, z | G,,4 |]
+V:4
+[I:MIDI=program 71]Z|G, G, G, G, | E, E, D,2 | G,, D, z D, | A,, z D, ^F, | B,, ^F, G, E, | z z F,2 |$
+C, ^F, G,/A,/B,/E/ |$ D D, G,2 || E, F, G, _A, | G, D, G,,2 | C, =B,, G,,2 |$ _A, G, _G, F, |
+B,, C, D, F, | E, F, G, _A, | G, D, E, D, |$ _A, =E, F, _E, | D, _A,, B,, =B,, | C, E, D, E, |
+_A, B, E,2 ||$ G, G, G, G, | C, ^C, D,2 | B,, A,, G,, =F, | =E, ^C, D, =C, |$ B,, ^F, G, E, |
+D, _A, G, G,, | C, ^F, .G,/.A,/.B,/E/ | D B,, G,2 ||$ B,,2 E, D, | C, B,, A,, F,, | B,,2 E, D, |
+G,2 F,2 | B,,2 E, D, | C, B,, A,, F,, | B,,2 F, C, |$ F, ^F, G,2 | B,, =B,, C, E, | F, G, B, D |
+D,2 G,2 | E, =F, F,2 | B,,2 E, D, | C, B,, A,, F,, |$ B,,2 E, C, | F, F,, B,,2 || G, G, G, G, |
+C, ^C, D, =C, | B,, A,, G,, G, | ^C, B,, A,, G,, |$ F, =E, D, ^C, | D, B,, A,, G,, |
+^F,, D,, G,, =F,, | =E,, ^C,, D,, =C,, | B,,, ^F,, G,, E,, | D,, _A,, G,, G,,, |$
+C,, ^F,, G,,/A,,/B,,/E,/ ||[M:2/4] D, D,, ||[M:4/4] [G,=B,] G, G, G, | C, ^C, D, =C, |
+=B,, A,, G,, B,, |$ ^C, A,, D, =C, | =B,, ^F, G, =E, | D, _A, G, G,, | C, F, G,/A,/B,/E/ |
+D C G,2 | E,2 B,,2 |$ E,4 | D,2 A,,2 | E,2 D,2 | E,2 B,,2 | E,4 | D,2 A,,2 | D,2 G,,2 |$
+G,,, A,,, B,,,/A,,,/ G,,, | C,, z D,, z | G,,2 z2 |]
+V:5 clef=perc stafflines=1
+[I:MIDI=program 116]!f!cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ |
+cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ |
+cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ |
+cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ |
+cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ |
+cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ |
+cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ |
+cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ |
+cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ |
+cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ |
+cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ ||
+cc/c/|| cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ |
+cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ |
+cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ |
+cc/c/cc/c/ | cc/c/cc/c/ | cc/c/cc/c/ | !fff! cc/c/| (6cccccc(6cccccc|]
+
+

@@ -1,0 +1,20 @@
+X:901
+T:N.12
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 1 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%----------- edit between the lines ------------
+F/A/G/F/ |  c3/2 A//G// | c3/2 !crescendo(! c//c//!crescendo)! |\
+d/>c/ B/A/ | c/G G//A// |  B/c//B// A/G/                       |\
+F3/2 z/ | Z7| z z/ !mf! "pizz." C/                                     |\
+F//A//c//d// f/z/                                              |\
+z2 | z2 | z2| z z// !ff! e//d//c//                             |\
+!>!B/!>!d/!>!c/!>!B/ | [A3/2C3/2] z/                           |\
+z/!>!G//!>!^/G//  !>! F/!>!^/F/                                |\
+!>!E/!>!G//!>!A// !>!B//!>!A//!>!G//!>!F//                     |\
+!>!E/ z/ z                                                     ||
+%-----------------------------------------------

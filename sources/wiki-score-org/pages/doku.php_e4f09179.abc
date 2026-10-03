@@ -1,0 +1,44 @@
+X:609
+T:Tantum Ergo
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 9 clef=bass name="Basso" sname="B."
+%%MIDI program 1 1
+%%staves [[ 9 ]]
+%------------------
+[Q:"Andante"] !p! C,2C,2|=B,,2B,,2| C,3C, | (D,2_B,,2) | E,zz2 | Z2 | \
+w:Tan-tum Er-go Sa-cra-men--tum
+D>D=B,z | Z | \
+w: cer-nu-i
+_B,>B,=A,z | \
+w: cer-nu-i
+"^cres." _A,3A, | G,zz2 | \
+w: cer-nu-i
+!>!C3C | =B,>B,B,z | \
+w: Et an-ti-qu-um
+!p!C3 C | =B,2B,z | \
+w: do-cu-men-tum
+!p! C,E,D,_B,, | E,>E,E,z | \
+w: No-vo ce-dat ri-tu-i
+!p! CB,A,G, | CB,A,G, | !p! F,2B,,2 | E,2A,,2 | D,2G,,2 | C,zz2 | \
+w: Praes-tet fi-des sup-ple-men-tum Sen-su-um de-fe-ctu-i
+!p! F,F,^F,F, | G,3G, | _A,z \
+w: Sen-su-um de-fe-ctu-i
+!p!^F,2 | G,2G,2| C,zz2 | Z| !fermata! Z || \
+w: de-fe-ctu-i
+%fol.197]
+"^Genitori" [Q:"Moderato"][M:2/4] Z4 | !p! E,_D | CA, | G,E, | A,z | \
+w: Laus et ju-bi-la-ti-o
+!p! E,G, | A,A, | G,E, | A,z | \
+w: Laus et ju-bi-la-ti-o
+!f! =A,F, | B,B, | !p! =A,F, | B,B, | !f! =B,G, | CC | !p! =B,G, | CC | Z4 | \
+w: Sa-lus ho-nor vir-tus quo-que Sa-lus ho-nor vir-tus quo-que
+!f! F, _D | !>!C2 | _D D/ D/ | C2 | _DD/ D/ | _DD | _D>D | Dz | Z4 | \
+w: Pro-ce-den-ti ab u-tro-que Com-par sit lau-da-ti-o
+!f! G,G, | G,G, | !p! G,2 | G,2 | C,!p!.C, | .A,.B,, | .G,!p!E, | A,2 | A,2 | B,2 | B,,2 | E, !p! .C, | .A,.B,,| .G,!p!C, | F,2 | F,2 | G,2 | G,2 | C,z | Z7 | \
+w: Com-par sit lau-da-ti-o A-men A-men A-men A-men A-men A-men A-men A-men A-men A-men.
+!p! C,2-|C,2 | C,z ||  Z3 | "_finis" !fermata! Z |] \
+w: A--men.
+%------------------

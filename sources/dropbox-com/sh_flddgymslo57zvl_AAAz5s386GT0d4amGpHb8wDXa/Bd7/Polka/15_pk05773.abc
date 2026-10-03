@@ -1,0 +1,27 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Polka 8 GC  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.168 (pk05773) orig. G,C-Dur
+T: "Roesti Musig", St. Stephan (Bern)
+C: Singer, Utzensdorf, Gottfried R\"osti, St. Stephan (H.C.)
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"d2B2 e3d | "D7"d2c2 {/d}cBc2 | dedc' a4 | "G"dedb g4 | d2B2 e3d | "D7"d2c2 {/d}cBc2 | dedc' adef | "G"g2b2 g2z2 ::  
+"C"g2fg agfe | "G"edd2 dbb2 | "D7"dcc2 caa2 | "G"cBB2 Bgg2 | "C"g2fg agfe | "G"edd2 dbb2 | "D7"dcc2 cagf | "G"g2b2 g2z2 :: [K:C]
+"C"eee2 egfe | "G7"edd2 d2G2 | fff2 fagf | "C"fee2 e2c2 | ggg2 gbag | "F"fff2 fagf | "C"e2ag "G7"d2ag | "C"c2e2 c2z2 ::
+"F"agf2 c'ba2 | "C"g2e2 {/f}e^de2 | "G7"g2d2 {/e}d^cd2 | "C"e2c2 {/d}cBc2 | "F"agf2 c'ba2 | "C"g2e2 {/f}e^de2 | "G7"agd2 agB2 | "C"c2e2 c2z2 :| 
+
+X:2
+T:Polka 8 CF 7-  chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"G2E2 A3G | "G7"G2F2 {/G}FEF2 | GAGf d4 | "C"GAGe c4 | G2E2 A3G | "G7"G2F2 {/G}FEF2 | GAGf dGAB | "C"c2e2 c2z2 :: 
+"F"c2Bc dcBA | "C"AGG2 Gee2 | "G7"GFF2 Fdd2 | "C"FEE2 Ecc2 | "F"c2Bc dcBA | "C"AGG2 Gee2 | "G7"GFF2 FdcB | "C"c2e2 c2z2 :: [K:Fmaj]
+"F"AAA2 AcBA | "C7"AGG2 G2C2 | BBB2 BdcB | "F"BAA2 A2F2 | ccc2 cedc | "Bb"BBB2 BdcB | "F"A2dc "C7"G2dc | "F"F2A2 F2z2 ::
+"Bb"dcB2 fed2 | "F"c2A2 {/B}A^GA2 | "C7"c2G2 {/A}G^FG2 | "F"A2F2 {/G}FEF2 | "Bb"dcB2 fed2 | "F"c2A2 {/B}A^GA2 | "C7"dcG2 dcE2 | "F"F2A2 F2z2 :| 
+
+
+

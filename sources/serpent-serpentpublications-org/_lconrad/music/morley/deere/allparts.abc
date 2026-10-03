@@ -1,0 +1,211 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XIX. Say Deere, will you not have mee?
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+K:F
+T: Cantus
+L:1/4
+%1
+z8 z4 z f2 e d d \
+w:Say, deere, will you
+%2
+c c > c B A2 G c \
+w:not, will you not have me, here
+%3
+c =B c2 c B2 A \
+w:then, heere take your kisse you
+%4
+G2 "A"A4 F2 F G A B c2 F2 z f2 e d d c e \
+w:gave mee, Say, deere, will you not have mee? heere then that kisse, that kisse
+%5
+   d  g f/ e/   e/    d// c// d2 \
+w:take you gave, you _ _ _ gave 
+%%LY voices \property Staff.TimeSignature \set #'style = #'1style
+M:3/4
+L:1/4
+e2 f d > d c B > B A B \
+w:mee, You else wher par- haps thinck to be-
+%6
+G2 \
+w:stow 
+%%LY voices \property Staff.TimeSignature \override #'style = #'C
+M:C
+L:1/4
+"B"A2 c2 d e f d e2 d c2 =B c G A B c > c B A G2 A2 \
+w:it, and I as loth would bee to  owe _ it.  and I as loth would be to owe it.
+%7
+z c d e f d e2 c2 =B B c4 =B2 "C"c4 z2 z c2 f > f e f d \
+w:and I as loth a- gaine would be to owe _ it.  Or if you will not so
+%8
+c2 c d > d c d e f c d2 e2 f4 "D"e2 z c d2 z d \
+w:take, or if you will not so take the thing, once _ given: let mee, kisse
+%1r
+e2 z e f > e d d c2 d2 G2 z c d2 B2 c2 A2 G4 "E"A4 \
+w:you, let mee I say kisse you, kisse you: and so wee shall bee e- ven.
+%2r
+z2 z c2 f > f e f d c2 c d > d c d e f c d2 e2 f4 \
+w:Or if you will not so take, or if you will not so take the thing, once _
+%3r
+"F"e2 z c d2 z d e2 
+w:given, let mee kisse you, 
+z e f > e d d c2 d2 G2 z c \
+w:let mee I say kisse you, kisse you, and
+%4r
+d2 B2 c2 A2 G4 HA4 |]
+w:so wee shall bee e- ven.
+
+X:2
+T:XIX. Say Deere, will you not have mee?
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+K:F
+T: Altus
+N: Original clef, C on first line
+L:1/4
+%1
+z8 F2 F G A B \
+w:Say, deere, will you not 
+%2
+c2 F B2 A2 G F2 \
+w:have mee? will you not have
+%3
+E G F F E2 \
+w:mee? heere then your kisse,
+%4
+A G > F F2 E "A"F2 F2 F G A B c2 A2 d c2 =B \
+w:your kisse you gave _ mee, Say, deere, will you not have mee? heere then that
+%5
+c2 F B A G/ A/ =B G A/ B/ c2 =B \
+w:kisse, that kisse, heere you _ gave mee, you _ gave _ 
+%%LY voices \property Staff.TimeSignature \set #'style = #'1style
+M:3/4
+L:1/4
+c2 A B > B A \
+w:mee, You else wher par-
+%6
+ G G F F E2 \
+w:haps think to be- stow
+%%LY voices \property Staff.TimeSignature \override #'style = #'C
+M:C
+L:1/4
+"B"F2 z F2 G A B c2 B G A F G E F G \
+w: it, and I as loth am, I as loth a- gain as loth wold
+%7
+  A2  G  F2  E   F   B2  A2 G   A  B c C E F G2 E2 D4 "C"E2 G2 \
+w:bee to owe _   it, and I as loth a- gaine, would be, would bee to owe it.  Or
+%8
+A > A 
+w:if you 
+G A > A =B c c A _B A2 F2 z F2 B > B A \
+w:will not, you will not the thing once _ given: or if you will 
+%1r
+ B G2 
+w:not the 
+c2 =B/ A/ =B2 "D"c G A2 z F B2 z G c2 z A B2 \
+w:thing once  _ _ given: let mee, kisse you, let mee, kisse you,
+%2r
+A/ B/ c2 =B c G A2 F2 G3 F F4 E2 "E"F2 F2 A > A G 
+w:kisse I say kisse you, and so wee shall bee _ e- ven.  Or if you wil 
+A > A B \
+w:not, you wil
+%3r
+ c c A B A2 F2 z F2 B > B A B G2 c2 =B/ A/ =B2 \
+w:not the thing once _ given: or if you will not the thing once _ _
+%4r
+"F"c G A2 z F B2 z G c2 z A B2 A/ B/ c2 =B c G \
+w:given, Let mee kisse you, let mee kisse you, kisse I say kisse you, and
+%5r
+A2 F2 G3 F F4 E2 HF4 |]
+w:so wee shall bee _ e- ven.
+
+X:3
+T:XIX. Say Deere, will you not have mee?
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+K:F -8va
+%%MIDI transpose -12
+T: Bassus
+N: Original clef, C on third line
+L:1/4
+%1
+F2 F G A B \
+w:Say, deere, will you not
+%2
+c2 F f f e d d c A 
+w:have mee? Say, deere will you not have mee?
+%3
+B/ c/ d/ e/ f F2 G \
+w:wil you not have mee? here then
+%4
+A B c _e d2 c2 A B > A F c2 "A"F4 z4 z2 z f2 e \
+w:take your kisse you gave mee, that kisse you once gave mee;  here then
+%5
+d d c A B/ c/ d/ e/ f c 
+w:that kisse, that kisse, heere a- gaine the kisse, the 
+g e f a g2 \
+w:kisse you gave, you gave
+%6
+%%LY voices \property Staff.TimeSignature \set #'style = #'1style
+M:3/4
+L:1/4
+c2 f B > B F G/ A/ B/ c/ d B c2 \
+w:mee, You else wher par- haps would _ _ _ be- stow 
+%%LY voices \property Staff.TimeSignature \override #'style = #'C
+M:C
+L:1/4
+"B"F4 z4 z c d e f d c2 \
+w:it, and I as loth a- gaine
+%7
+z2 z F G A B c d B/ c/ d/ e/ f2 e d2 c2 c2 G8 "C" c2 c2 f > f \
+w:and I as loth a- gaine, I would be as loth to owe it, to ow it.  Or if you
+%8
+ e f > f d c c d B f F2 B > B A B G F F \
+w:will not, you will not the thing once given: or if you will not so take the
+%1r
+B2 c2 d4 "D"c2 z F B2 z G c2 z A d2 
+w:thing once _ given; let mee, kisse you, kisse you, 
+z B f > e d d c2 \
+w:let mee I say kisse you
+%2r
+z F B2 G2 A3 B c4 "E"F2 F2 f > f e f > f d c c d B \
+w:and so we shal bee e-ven.  Or if you will not, you will not the thing once
+%3r
+ f F2 B > B A B G F F B2 c2 d2 d2 "F"c2 z F \
+w:given: or if you will not so take the thing, the thing, once given: Let
+%4r
+B2 z G c2 z A d2 z B f > e d d c2 z F B2 G2 \
+w:mee kisse you, kisse you, let mee I say kisse you, and so wee 
+%5r
+A3 B c4 HF4 |]
+w:shall be e- ven.
+N: the underlay for bee even is written as a melisma on bee and a single syllable on even.
+N: I decided it would be easier for a speaker of modern English to think of it as
+N: bee as one syllable, and even as two, and wouldn't make much practical difference.

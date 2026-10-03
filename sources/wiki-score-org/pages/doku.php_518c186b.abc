@@ -1,0 +1,39 @@
+X:203
+T:Gloria
+C:Carvalho, Jo\~ao de Sousa (1745-1798)
+M:C
+L:1/4
+K:G
+V: 3 clef=bass name="Corni I" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 3 )]
+%-------------------
+[Q: "Allegro Vivace"] G, G,/G,/ G, z/B,/ | A,A,/A,/A,z/A,/ | G, G,/G,/ G,z | G,2 G,G, | G,2G,B,| A,z A,z | \
+G, G,/G,/ G,>A, | B,/A,/G,/D,/ G,/A,/B,/A,/ | G,zG,G,| A,zz2 | Z | zA,A,A, | !p! G,4- | G,4- | G, zz2 | Z2 | \
+!f! G,2B,A, | G,D,/D,/ B,,G, | G,D,/D,/ B,,G, | G,G,G,z | G,G,/G,/G,z | B,B,/B,/B,z | \
+A, A,/A,/ A, z | A, A,/A,/ A, z/A,/ | B, zz2 | G,4- | G, zz2 | G,2 G, G,| G,2 G, G, | G,2 B, B, | A, z A, A, | G, G,/G,/ G, z | \
+A, A,/A,/ A, z | B, B,/B,/ B, z | Z | z2 z A, | B, B, A, A, | G, G,/G,/ G,> A, | B,/A,/G,/D,/ G,/A,/B,/A,/ | G, z z2 | Z | z G,/G,/ G, {B,/}A,/G,//A,// |\
+B, z z2 | z B,/A,/ G,/A,/B,/B,/ | A, z z2 | Z | A, A, B, B, | A, A, B, B, | A, z z2 | Z | (A,4 | A,4 | A,) A, A, A, | A, z z2 | A, A, B, A, | A, z z2 | Z | A, z z2 |\
+Z | A, B,/B,/ A, A, | D,2 z A, | B, B,/B,/ A, A,/A,/ | A, z z2 | (D,4 | D,) z z2 | Z ||\
+[Q:"Largetto"] [K: Bb][M: 3/4] Z14 | (G,3 | G,/) z/ z z | (G,3 | G,/) z/ z z | Z | D,2 z | Z | z D, D,/D,/ | G,, z z | Z | (D,3 | D,3 | D,3 | D,) z !fermata! z ||\
+[Q:"Allegro"] [K:G] [M:C] G, G,/G,/ G, G, | A, A,/A,/ A, A, | B, G,/G,/ G, G, | G, z A, A, | B, G,/G,/ G, G, | G,2 G,2 | G,2 B, B, | A, z A, A, | G, G,/G,/ G, z |\
+A, A,/A,/ A, z | B, B, A, A, | G, G,/G,/ D, B,,/D,/ | G, G, G, z | Z | (G,4 | G,4 | G,2) z2 | A, z z2 | Z | Z | z2 z A, | A, z z2 | Z | z A, A, A, | A, A,/A,/ A, z |\
+G, G,/G,/ G,> A, | B,/A,/G,/D,/ G,/A,/B,/A,/ | G, G,/D,/ G,/B,/D/B,/ | G,/D,/B,/D,/ G z/ B/ | A,2 A,2 | A, B, A, B, | A, A,/A,/ A, A, | B, G,/G,/ B, A, | (G,4 | G,4 |\
+G,4) | Z5 | G, z A, A, | B, A, B, B,/B,/ | A, A, B, B,/B,/ | A,2 A, A,/A,/ | A, B, A, A, | B, B,/B,/ A, A, | B, B,/B,/ A, A, | G, z G, z | G, D,/D,/ B,,/G,,/B,,/D,/ |\
+G, G, G, z || \
+[Q:"Andantino"] [K:D] [M:3/4] Z51 Z51 ||\
+[Q:"Allegro"] [K: Bb][M:C] Z99 | Z73 ||\
+[Q:"Largetto non molto"] [K:Eb] [M:C] Z64 ||\
+[Q:"Allegro assai"] "^Corni cassa" z// | G, z/> G,/ G, G,/>G,/ | G, z/> E,/ E, E,/>E,/ | E,2 E, E, | E,4 | F, F,/F,/ F, F, | G, z z2 | E,/ z/ z z E,/E,/ | F, F,/F,/ F, F,/F,/ |\
+F, z z2 | Z9 | "Soli" z E,/E,/ E, {G,}F,/E,//F,// | G,//F,//G,//A,// B,/B,/ {C,}B,A,/G,/ | F, z z2 | (E,4 | E,) z z2 | Z2 | (B,,4 | B,,4 | B,,2) z2 | F, F,/F,/ G, z |\
+E, E, E, z | Z | (E,2 F,2) | G, z z2 | z B,/>A,/ G,/G,/F,/F,/ | E,/E,/ {G,/}F/E,//F,// G,/B,/ {B,/}A,/G,//F,// | E, z E, E, | E, E,/B,,/ E, E,/E,/ | E, E, E, z |\
+Z9 | E, z/> E,/ E, E,/>E,/ | E, z/> E,/ E, E,/>E,/ | E, z z2 | Z9 | z F, F, z | z F, F, z | Z | (B,,4 | B,,4 | B,,4 | B,,) z z2 | Z7 | z2 (F,2 | F,) F,/F,/ F, F, |\
+F, z z2 | Z8 | "Soli" z B,/B,/ B, {D,}C,/B,//C,// | D, z z2 | z F,/F,/ F, F,/F,/ | G, z z2 | (F,4 | F,4 | F,2) z2 | Z2 | (B,,2 B,,2) | B,,4 | F, F,/F,/ F, F, |\
+F,/ z/ z F,/ z/ z | G,/ z/ z G,/ z/ z | F, F,/F,/ F, F, | F, F,/F,/ F, F, | F, z/> F,/ F, F,/>F,/ | F, z/> F,/ F, F,/>F,/ | F,2 F, F, | G,2 G, G, | F, z z2 |\
+z2 F, F,/F,/ | G, G,/G,/ F, F, | F, z z F, | F, z z F, | F, F, F, z | Z8 | F,2 F, F, | E, z z2 | Z5 | E, z/> E,/ E, E,/>E,/ | E, z/> E,/ E, E,/>E,/ | E, E, E, z |\
+Z4 | z F, F, z | z F, F, z | z F, F, F, | E, z z2 | Z16 | "^Soli" E, E,/>E,/ E, {G,}F,/E,//F,// | G,//F,//G,//A,// B,/B,/ {C}B, A,/G,/ | F, z z2 | (E,4 | E,) z z2 |\
+Z | (B,,4 | B,,4 | B,,2) z2 | Z | E,4 | E,4 | E, E,/E,/ E,/G,/E,/B,,/ | G,, z z2 | Z | F,/ z/ z F,/ z/ z | E,/ z/ z z2 | z G, G, G, | F, F,/F,/ F, F, | E, z G, G, |\
+G, z G, z | z E, E, E, | B,, z !fermata! z2 |  (E,4 | E,4) | E, z z2 | Z | z "Soli" B,/>A,/ G,/G,/F,/F,/ | E,/E,/ {G,}F,/E,//F,// G,/B,/ {B,}A,/G,//F,// | E, z E, z |\
+E, E,/B,,/ G,, E, | E, G,, G,, !fermata! z || [Q:"Andante"] [K:C] [M: 3/4] Z4 | G,3 | C, z z | D,3 | E,3 | D,3 | D,3 | (E,3 | E,) C, C, | (C,3 | C,) C, C, |\
+G,3 - | G,3 | (G,3 | G,3) | G,3 | (G,3 | G,) z !fermata! z ||
+%-------------------

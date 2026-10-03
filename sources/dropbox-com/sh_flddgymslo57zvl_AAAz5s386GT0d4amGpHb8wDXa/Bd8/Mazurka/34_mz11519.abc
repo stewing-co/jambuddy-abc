@@ -1,0 +1,36 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Mazurka CF chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.401 (mz11519) orig. C,F-Dur
+T: T\"anze aus Altdorf (Uri)
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"g>^f g2c2 | "G7"Pc2B2B2 | a>g a2B2 | "C"Pd2c2c2 | c'>b c'2e2 | "Dm"Pe2d2d2 | "G7"aa g2B2 | "C"c2c'2z2 :| [K:F]
+"F"cd cB AB | c>f a2a2 | "C7"b>ag2g2 | "F"a>gf2f2 | cd cB AB | c>f a2a2 | "C7"b>a g>b a>g | "F"f2f2z2 | [K:C]
+|: "C"G3c ea | g4c'2 | G3c eg | "G7"f4b2 | G3B df | b3a gf | b3a gf | "C"ag eg c2 | 
+G3c ea | g4c'2 | G3c eg | "G7"f4b2 | G3B df | "C"ec' ba g2 | "G7"ba gf ed | "C"c2c'2z2 :: [K:F]
+"F"a2g2f2 | "C7"Pf2 e>b e2 | f2e2d2 | "F"Pd2 c>a f2 | a2g2f2 | "C7"f2 e>b e2 | dc eg be | "F"f2f2z2 :| 
+
+X: 2
+T: Mazurka CF chords Anm
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"g>"_**"^f g2c2 | "G7"Pc2"_h"B2B2 | "_a"a>g "_a"a2"_h"B2 | "C"Pd2c2c2 | c'>b c'2e2 | "Dm"Pe2"_d"d2d2 | "G7""_a"aa g2"_ h ="B2 | "C"c2c'2z2 :| [K:F]
+"F"cd c"_**"B A"_**"B | c>f a2a2 | "C7""_b"b>a"_g"g2"_ ="g2 | "F"a>gf2f2 | cd c"_**"B A"_**"B | c>f a2a2 | "C7""_b"b>a "_g"g>"_b"b a>"_g"g | "F"f2f2z2 | [K:C]
+|: "C"G3c ea | g4c'2 | G3c e"_ ="g | "G7""_f"f4"_h"b2 | G3"_h"B "_d"d"_f"f | "_h"b3"_a"a g"_f"f | b3a gf | "C"ag eg c2 | 
+G3c ea | g4c'2 | G3c e"_ ="g | "G7"f4b2 | G3B df | "C"ec' ba g2 | "G7""_h"b"_a"a g"_f"f e"_d"d | "C"c2c'2z2 :: [K:F]
+"F"a2g2f2 | "C7"Pf2 "_e"e>"_b"b e2 | f2"_e"e2"_d"d2 | "F"Pd2 c>a f2 | a2g2f2 | "C7"f2 "_e"e>"_b"b e2 | "_d"dc "_e"e"_g"g "_b"b"_ ="e | "F"f2f2z2 :| 
+
+X:3
+T:Mazurka GC 5- chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"d>^c d2G2 | "D7"PG2F2F2 | e>d e2F2 | "G"PA2G2G2 | g>f g2B2 | "Am"PB2A2A2 | "D7"ee d2F2 | "G"G2g2z2 :| [K:Cmaj]
+"C"GA GF EF | G>c e2e2 | "G7"f>ed2d2 | "C"e>dc2c2 | GA GF EF | G>c e2e2 | "G7"f>e d>f e>d | "C"c2c2z2 | [K:Gmaj]
+|: "G"D3G Be | d4g2 | D3G Bd | "D7"c4f2 | D3F Ac | f3e dc | f3e dc | "G"ed Bd G2 | 
+D3G Be | d4g2 | D3G Bd | "D7"c4f2 | D3F Ac | "G"Bg fe d2 | "D7"fe dc BA | "G"G2g2z2 :: [K:Cmaj]
+"C"e2d2c2 | "G7"Pc2 B>f B2 | c2B2A2 | "C"PA2 G>e c2 | e2d2c2 | "G7"c2 B>f B2 | AG Bd fB | "C"c2c2z2 :| 

@@ -1,0 +1,48 @@
+X:1213
+T:Scena Sesta
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:D
+V: 13 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 13 ]
+%----------------
+[Q:"Allegro"] DzFz | Azz/A/F/D/ | A,zz2 | z^D/F/ "^2.o" D!trem1!F | E!trem1!G (E/G/E/D/) | \
+C2!trem1!E2 | D2!trem1!F2 | !//!D4 | !/!A4 |  !/!A4 | AAAz | "^3 bars empty: ; bass+8ve" z4 | z2 (A/=c/)(^F/A/) | ^Dz \
+% "_[fol. 132]"
+z2 | ^F4 | "^4 bars empty: ; bass+8ve" E/B,/E/B,/ F!trem1!B, | G!trem1!B, ^D!trem1!B, | \
+Ez E//G//E//D// C//D//C//B,// | A,/>C/C/>C/ Cz | Z | !/!E2 E/E/E/D/ | Czz2 | \
+D/d/A/F/ B, z | z2z/G/ !fermata!G, || \
+% "_[fol. 134]"
+GzDz | GzB,z | =Cz D/z/  D/z/ | Gzz"_ad libit."D | z/G/Gz2 | z/>^G/ Gz2 | \
+z4 | z/>A/ Az2 | =F2Ez || \
+%[fol. 136]
+"^Aria" [Q:Maestoso] [K:C]z// | CzC2| G,zG,2 | C/ E/F/G/ A2 & C/C/D/E/ F2 | G/E/F/G/ A2 & E/C/D/E/ F2 | \
+G/G/F/E/ FE & E/E/D/C/ DC | D/z/ D/z/ D!fermata!z  & B,/z/ B,/z/ B,z | \
+C/z/  C/z/  C/z/  C/z/ | C/z/ C/z/ Cz | G,/z/ G,/z/ G,/z/ G,/z/ |Z4 | z/E/F/G/ A2 & z/C/D/E/ F2 | \
+G2F2 & E2D2 | E/x/ x3 & C/z/ C/z/ C/z/ C/z/ | B,/z/ B,/z/ B,/z/ B,/z/ | C/z/ C/z/ D/z/ D/z/ | E/z/ E/z/ D/z/ D/z/ | \
+%fol. 140]
+C/z/ C/z/ D/z/ D/z/ | G/z/ G,/z/ G, !fermata!z || \
+[Q:Allegro] C z/G,/ C/C/ !trill!D3/4C/8D/8 | E z E/E/ !trill!E3/4D/8E/8  | FFGG, | Czz2 | C/D/E/F/ G/A/B/C/ | \
+%fol. 141
+Gzz2 | G,/A,/B,/C/ D/E/^F/G/ | CzG,z | CCCz | z2 _E2 | !/!D4 | \
+%fol. 142]
+!f!GGG,z | G/^F/E/D/ C/B,/A,/G,/ | A,4|A,4 |B,4|C4|B,4|A,4|B,4|C4|\
+%fol. 143
+B,/A/B/c/ B/A/G/^F/ | "_cresc" !/!E4 | E4 | D/d/B/G/ D/d/B/G/ | DdDz | !p!GzGz| \
+%fol. 144
+GzGz | CzCz | DzDz | !/!G2!/!C2 | !/!D4 | !/!G2 !/!C2 | !/!D4 | \
+%fol. 145
+GzG,z | Gzz2 | !f!Gzz2 | !p!G,4 | Czz2 | Czz2 |CzEz | Fzz2 | GzG,z | \
+%fol. 146
+!f!!/!C4 | !p!C4 | !f!!/!C4 | !p!C4 | !f!Cz!p!Ez | FzFz | GzG,z | !p!!//!"_check ms"E4  | \
+%fol. 147
+!//!F2!//!D2|!//!E4|!//!F4|!//!E2!//!G2|!//!F2!//!D2|!/!C2Cz|E/C/E/G/ F/E/D/C/ | \
+%fol. 148
+GG,G,!fermata!z | !f!!/!C4 | !p!C4 |  !f!!/!C4 | !p!C4  | !f!Cz!p!Ez | FzGG, | \
+%fol. 149
+!f!C"_{check ms}"zEz | FzFz| !/!G2!/!F2 | E zz2 | !/!F2!/!G2 | E z !/!z2 | !/!F2!/!G2 | \
+%fol. 150
+CFGF | EFGG,| !/!C4 |  !/!C4 | CEFG | CcGE | Czz2 |]
+%----------------

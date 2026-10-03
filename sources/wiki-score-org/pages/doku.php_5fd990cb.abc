@@ -1,0 +1,18 @@
+X:402
+T:Beata Viscera Mariae Virgins
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 2 clef=alto1 name="Violim" sname="Vl."
+%%MIDI program 1 40
+%%staves [ 2 ]
+%------------------
+Z20 !segno!|| \
+[M:3/2] Z17 !fine! |] \
+[M:2/2] E2 | E/>E/E/E/ | E/^F/ G | G/A/G|G/>G/ F/D/| EE| E2| \
+e/d/d/e/-|e//d//c//B// c| B/c/G|G/G^F/ | GF | "_NB: sharps suggested" E//^F//^G//A// G//E//F//G// | AG | G/>G/ G/G/ | \
+G/G/A|B/de/-|e/ B/d| d/cB/-|B/ e/d| d/>d/d/d/ | cc|B2|^c2| "_NB:blank bar(?)" X | z/A^G/|AE|^F/G/F|G2|z2| \
+zE| E//D//E//F//G//A// G/-|G/ G/ E| E2-|E2| \
+E2|AA/A/| d>c| B//A//G//F// G//F//E//D// | Cc-|cB|c2-|c2| z/cc/| B/c/G-|G/ G/ E| E2-|EE| E2|E2-|E2!segno! |] \
+%------------------

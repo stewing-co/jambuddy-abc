@@ -1,0 +1,90 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:V. Mourne, mourne,
+T:Canto
+C: John Dowland
+O: From The Second Booke of songs or Ayres of 2/ 4/ amd 5/parts: with Tableture for the Lute or orpherian, with the Violl de Gamba.
+%%MIDI nobarlines
+%%LY voices \property Staff.TimeSignature \override #'style = #'C
+M:C
+L:1/4
+N: Original clef C on first line
+K:D dor
+d4 A4 | \
+%%LY voices \property Staff.TimeSignature \set #'style = #'1style
+M: 3/1
+L: 1/4 
+^F3 G A2 G4 ^F2 | E4 ^F2 B6 | A2 A2 ^G2 A6
+w:Mourne, mourne, day is with dark- nesse fled, what heaven then go- vernes earth,
+A2 d2 c _B A6 | A2 G2 F2 E6 | c4 _B2 A2 G3 G | ^F8 | \
+%%LY voices \property Staff.TimeSignature \override #'style = #'C
+M:C
+L:1/4
+ d4
+w:oh none, but _ hell in hea- vens stead, choaks with his mistes our mirth.  Mourne
+A4 \
+%%LY voices \property Staff.TimeSignature \set #'style = #'1style
+M:3/1
+L:1/4
+ F2 E2 F2 G4 F2 | E4 A2 ^G4 A2 | c2 B4 A6 c2 B2 A2 G4 F2 |
+w:mourne, looke now for no more day nor night, but that from hell, Then all must as they
+E6 F G A4 G F E3 E D6 | \
+%%LY voices \property Staff.TimeSignature \override #'style = #'C
+M:C
+L:1/4
+|: z G A B c3 B > A A2 G | A F E2 z d
+w:may in _ darke- nesse _ learne to dwell.  But yet this change, must _ needes change our de- light, that
+d d c4 z _B B B A A d c/ _B/ A G2 F E2 HD3 :|
+w:thus the sunne, that thus the Sunne, the Sun should _ har- bour with the night.
+
+X:2
+T:V. Mourne, mourne,
+T:Basso
+C: John Dowland
+O: From The Second Booke of songs or Ayres of 2/ 4/ amd 5/parts: with Tableture for the Lute or orpherian, with the Violl de Gamba.
+%%MIDI nobarlines
+%%MIDI transpose -24
+M:C
+L:1/4
+K:D dor bass
+z2 d6 \
+%%LY voices \property Staff.TimeSignature \set #'style = #'1style
+M:3/1
+L:1/2
+ d2 d G2 d A2 d G3 A B B A3 d
+w:Mourne daies with dark- nesse fled, What heaven then go- vernes earth, O
+d e f2 F2 G G A3 a2 g f e > e d4 \
+%%LY voices \property Staff.TimeSignature \override #'style = #'C
+M:C
+L:1/4
+z2 d6
+w:none but hell in hea- vens stead, Chokes with his mists our mirth.  Mourne
+%%LY voices \property Staff.TimeSignature \set #'style = #'1style
+M:3/1
+L:1/4
+d2 A2 d2 G > A _B c d2 A4 A2 e3 d c B A2 e4 A6 a2 e2 f2 c > d e c d2 A6
+w:looke now for no _  more _ _ day, nor night but _ that _ from hell, Then all must as _ _ they _ may,
+d3 e f2 g2 a2 A2 d6 \
+%%LY voices \property Staff.TimeSignature \override #'style = #'C
+M:C
+L:1/4
+|:c'3 b a3 ^g a d e > d ^c d > d a _B2 B2
+w:In _ dark- nesse learne to dwell, But _ yet this change, this change, must _ change must _ change de-
+A4 z g _b c' d' d2 e f g a3 A Hd3 :|
+w:light, That thus the Sunne should _ har- bour with the night. 
+

@@ -1,0 +1,458 @@
+%abc-2.2
+%%linebreak $
+%%graceslur 0
+
+%%deco uwwiw 3 uwwiw 12 4 4
+%%beginjs
+//function load_glyphs() {
+	tgls.uwwiw = {x:-4, y:0, c:"\ue599\ue59d\ue59d\ue59f\ue59e"}
+//}
+//load_glyphs()
+%%endjs
+
+%X:0
+T:Pastorella
+C:J.S. Bach
+%(Noel)
+%B:free-scores.com (~/abc/bach/..pastorale...pdf
+K:none
+
+X:1
+M:12/8
+L:1/8
+Q:3/8=50
+%%staves {(1 2) 3} | 4
+%%MIDI program 73	% Flute
+K:F
+V:1
+MF3-FACF3-FAG|AcB cfc Pdcdc3-|cfA BfA GfG AfG|
+V:2
+x12|x12z6z2E F2E|
+V:3 shift=cC
+z3F3-FACF3-|FAG AcAB3-BAG|A2cd2cB2Bc2B|
+V:4 shift=cC
+F,12-|F,12-|F,12-|
+V:1
+FfF EFGC6-|CEF DEF CEF B,EF|x12|
+V:2
+C2CB,3-B,A,B, B,A,B,|A,3B,3A,3G,3|A,3B,3A,3G,3|
+V:3
+A2AG2FE6|F6-F3z3|FEF DEF CEF B,EF|
+V:4
+F,12-|F,12-|F,12-|
+V:1
+x12|x12|x12|
+V:2
+F,FG, A,FB, CFB, CB,A,|B,BC DBE FBE FED|EBF GBA BgA BAG|
+V:3
+A,2B,C2D_E2D EDC|D2=EF2G_A2G AGF|G2=AB2cd2cd2e|
+V:4
+F,12-|F,12-|F,12-|
+% page 2
+V:1
+x12|g12- |g3c'3-c'6-|
+V:2
+ABc BcA PAGAG3|E3c3-ceGc3-|ced egef3-fed|
+V:3
+fga gaf f3-fed|c3-cegc3-ced|egf gc'g Pagag3-|
+V:4
+F,6C6-|C12-|C12-|
+V:1
+c'6-c'2=bc'2b|c'2e fef- f=bf fef|e3x3x3x3|
+V:2
+e2ga2gf2fg2f|e2zd3-d2dd2d|c3f3e3d3|
+V:3
+gc'e fc'e dc'd ec'd|cc'c=B3-B6&
+			x3=BcdG6|cx2x3x3x3&
+				G=Bc ABc GBc FBc|
+V:4
+C12-|C12-|C12-|
+V:1
+x12|x12|x12|
+V:2
+c=Bc ABc GBc FBc|E2FG2A_B2A BAG|A2=Bc2d_e2d edc|
+V:3
+E3F3E3D3|CcD EcF GcF GFE|FfG Af=B cfB cBA|
+V:4
+C12-|C12-|C12-|
+V:1
+x12|x12|x3x3x3g3-|
+V:2
+d2=ef2ga2ga2=b|c'2e decc3-c=BA|=Bdc BdcB3_B3-|
+V:3
+=Bfc dfe fd'e fed|efg fge eded3-|dGe fGe dGe fGd|
+V:4
+C12-|C6G,6-|G,12|
+% page 3
+V:1
+gca _bca gca bag|ac'b ac'ba3_a3-|abf gb=a bag fg_e|
+V:2
+Bxxx3x3_E3-|E3x3x3x3|x12|
+V:3
+egf egfe3c3-|cFd _eFd cFd edc|d2B_e2cd2B_a3-|
+V:4
+C12|F,12|B,12-|
+V:1
+d2b_e2c'd2b abc'|fga d_efBcd GAB-|BgA BAG FGAPG3|A2a^g2=g^f2=f- fed|
+V:2
+x12|x12|x12|x12|
+V:3
+abf gb=a bag fg_e|d_ec BcA GAF =EFD|^C3^c3def- fed|^c=BA Bdc dcd^G3|
+V:4
+B,12-|B,12|E,6D,3B,3|A,12-|
+V:1
+^cef =Bdc dcdG3-|GeGF3-FdF EFG|F^cd _Bcd Acd Gcd|
+V:2
+x12|x12|x12|
+V:3
+A2a^g2=g^f2=f- fed|^c3-ceAd3-d2^c&
+		x3x3z2^GA3-|d3z3z6&
+			A3=G3F3E3|
+V:4
+A,12-|A,12|D,12-|
+V:1
+F3G3F3E3|DdE FdG AdG AG^F|GgA Bgc dg^c dc=B|
+V:2
+x12|x12|x12|
+V:3
+D^cd _Bcd Acd Gcd|F2GA2B=c2B cBA|B2^FG2AB2A BAG|
+V:4
+D,12-|D,12-|D,12-|
+% page 4
+V:1
+^cgd egf g_ba bag|agf efd ^g^fea2d|c=Bc BABA6|]
+V:2
+x12|x3x3x3x2A|A3^G3E6|]
+V:3
+e2=B^c2d egf gfe|fed c=BA BA^Ge2f&
+			x3x3x3x2A|ede dcdc6&
+					E6-E6|]
+V:4
+D,12-D,6D,3C,2D,|E,6A,6|]
+
+X:2
+M:C
+L:1/16
+Q:1/4=66
+%%staves {1 *2 3}
+% %MIDI program 72	% Piccolo
+% %MIDI program 73	% Flute
+%%MIDI program 74	% Recorder
+K:C
+% page 4
+V:1
+[ce]2[Bd]4!tie(!c2 fga4g2&
+		x8!tie)!c4z4|fgfe/d/ efed/c/ P[Bd]2c2- cGcd|
+V:2
+G4F2E2 A3G F2E2|D4C2E2 F2ED E2F2|
+V:3 shift=cC
+c16-|c2B2c4-c8-|
+V:1
+ecBc dc/B/ce fcfg adgc|fgfe/d/ efed/c/d4-ddcd|
+V:2
+G4F2E2 A3GF2E2|D4C4-CCB,A, B,2G,2|
+V:3
+c16-|c2B2 c2C2G8|
+V:1
+ec^fc gcac BdAd Gd=Fd|Ed^Fd GcAc Bc/d/cd/e/ de/=f/ed|
+V:2
+C2D2E2^F2 G2C2B,4|C2D2E2^F2G8-|
+V:3
+G8-G6G2-|G8G2A2B2G2|
+V:1
+e^f2g df2g cBca gfed|c'bag a2P^f2g8&\
+%%pos stem up
+			x8xd3-'d4&\
+%%pos stem down
+			x8xdB2-B4:|
+V:2
+G2A4G2- G2^FED4-|D2z2z4G,4-G,4:|
+V:3
+c4B4A4z2^F2|G2B,2C2D2 z3DG,4:|
+V:1
+[Bd]2[Ac]4[!tie(!GB]2 cde2- e=fge&\
+		x8!tie)!G4z4|^cd/e/dc dcBA fef2- fdcd|
+V:2
+G4=F4E3DC2_B,2|A,8-'A,3A,D2G2|
+V:3
+G16-|G2E2F2^C2D6_B2|
+% page 5
+V:1
+eagf/e/ fd^Gf ed^cB A=GFE|FG/A/GF/E/ FD^CD EDCB, \
+%	[I:staff +1]A,G,F,E,[I:staff -1]|
+	A,G,F,E,|
+V:2
+^C2E2D2=B,2 C2E2C2A,2|D2A,2D,2F,2 A,2E,2^C,2A,,2|
+V:3
+x16|x16|
+V:1
+zAf2- fd^cd ga_b2- bagf|ef/g/fe/d/ Ade^cd4z4|
+V:2
+x16|x8zAF2- FAde|
+V:3
+D3Ad2F2 _B3A GFED|^C2D2A2A,2 D3A,D,4|
+V:1
+fed=c BfAf GABc dGeG|fedc BfAf GABc defd|
+V:2
+zG3-G4G8|G,16-|
+V:3
+zgfe d2c2B2dc B2A2|G2FE D2C2 B,2DC B,2G,2|
+V:1
+[ce]2[Bd]4c2 dc/B/c2- cGcd|ef/g/fe fedc _ba/g/a4g2-|\
+	g^fga gfed g=f/e/f2- fedf|
+V:2
+G,4F,2E,2 F,2E,D, E,2F,2|G,2_B,2A,2F,2 E,2F,G, F,A,C2-|C2A,2D2C2=B,8|
+V:3
+C16-|C8-C6_E2|D8-D2G2F2G2|
+V:1
+edeg fedc _ed/c/^f4ga|gb2c' feed db2c' dccB|\
+	gG2A- AB2cHc8&\
+%%pos stem down
+	zG3- G2F2 zG-[EG]-[CEG]-H[CEG]4|]
+V:2
+C2G,4^F,2 z3D, G,4|z2G,2C4-C2A,2F2D2-|[B,D]2[CE]4[G,-D]2G,4[C,,C,]4|]
+V:3
+C4B,2A,2G,4G2=F2|E4A2G2F8-|F2E2F2G2C4Hx4|]
+
+X:3
+M:3/8
+L:1/16
+Q:1/8=80
+%%staves {1 2}
+%%MIDI program 74	% Recorder
+% %MIDI program 75	% Pan Flute
+% %MIDI program 78	% Whistle
+K:Cm
+% page 6
+V:1
+Me6-|(3ede (3fed (3edc|d6-|(3d=Bc (3dde (3ffg|a6-|\
+%%tuplets 1 0 0 0
+(3agf (3gfe (3fed|
+V:2 shift=cC
+%%tuplets 1 0 0 0
+L:1/8
+[cg][cg][cg]|[ca][ca][cg]|[cfa][cfa][cfa]|\
+	[cfa][cfa][cfa]|[=Bd][Bd][Bd]|[G=Bd][GBd][GBd]|
+V:1
+Me2- (3efe (3dc=B|c2- (3cc=B (3cde|\
+	A6-|(3AFG (3ABc (3def|!uwwiw!A6-|(3Afe (3dcB (3BAG|
+V:2
+[Cc][CG][CF]|[CE][DF][EG]|F[Fc][Fc]|\
+	[Ec][Ec][EF]|[DF][DF][DF]|[B,D][CE][DF]|
+V:1
+(3GBd {d}e2- (3edc|(3Bde _g2- (3gfe|(3Pdcd (3edc (3dcB|B4z2|b6-|
+V:2
+[EG][EG][FA]|[GB][=Ac][FA]|\
+	BF_A-&
+	!tie(!B,3-|(3[!tie)!B,DA]/A/G/ (3F/E/D/ (3C/B,/A,/|\
+	G,[G_d][Fd]|
+V:1
+(3bg=e (3_dc=B c>_b|a6-|(3afd (3B=AB (3df_a|\
+	(3Pg^fg- (3gfg (3_afg|(3Pede- (3ede (3fde|
+V:2
+[=EG][EG][EG]|F[Fc][_Ec]|\
+	[=DB][DF][DB]|[EB][EB][DB-]|[CB][CA][B,G-]|
+V:1
+(3Pc=Bc- (3cBc (3dBc|=a2- (3ag^f (3edc|{c}B6-|\
+	(3B=AB (3cBA (3BAG|{G}=A6-|
+V:2
+[=A,G][C=A][EG]|[D^F][DF=A][DFAd-]|\
+	[Gd][Gd][Gd]|[Ge][Ge][Gd]|[Gce][Gce][Gce]|
+V:1
+(3A^FG (3=AAB (3ccd|{d}e6-|(3edc (3=ag^f (3gac|\
+	B2- (3BcB (3=AG^F|G2- (3Gg^f (3g_ab|
+V:2
+[Gce][Gce][Gce]|[^F=A][FA][FA]|[D^F=A][DFA][DAd]|\
+	[Gd][Gd][Gc]|[GB][=Ac][Bd]|
+% page 7
+V:1
+=e2 (3ee=d (3e=fg|_d2- (3dc=B (3c=eg|(3bag a2- (3agf|\
+	(3_gf=e (3f=ga (3_d_ef|(3=Bc=d A2- (3AG^F|
+V:2
+[B_d][GB][FGB]|[=EGB][EG][EGc]|[Fc][FAc][FB_d]|\
+	[FB_d][FAc][FA]|[FA][DF][CE]|
+V:1
+(3G=Bd f2- (3fed|(3edc _d2 (3dc=B|(3c_BA B2- (3BAG|A6-|
+V:2
+[=B,D][G,B,D][B,DG]|[CG][C=EG][CEG]|\
+	[CFA][CFG][C=EG]-|(3[CEG]/C/=E/ (3G/A/B/ (3c/d/=e/|
+V:1
+(3AGA (3BAG (3AGF|d6-|(3d=Bc (3dde (3ffg|a6-|
+V:2
+f [C=EG][CF]-|(3[CF]/D/F/ (3=B/c/d/ (3e/f/g/|\
+	a [CFA][CD-F-]|(3[=B,DF]/A/G/ (3F/E/D/ (3C/B,/D/|
+V:1
+(3agf (3gag (3fed|e2- (3efe (3dc=B|\
+	(3cde- (3efg- (3gab|(3bc_d- (3dcd (3ecd|
+V:2
+G,[G,CE][G,=B,DG-]|[CG][CEG][CFA]|\
+	[CEG] _D/>C/B,/>A,/|G,[GB][GB]|
+V:1
+(3GB_d f2- (3fed|(3cF_G- (3GFG (3AFG|\
+	(3CE_G B2- (3BAG|(3F=GA (3Bc_d (3GAB|
+V:2
+[EB][EGB][EGB]|[E_GA][CEA][CEA]|[A,EA][A,CE][A,CE]|_D[DF][DEB]|
+V:1
+E>A E2 (3P_DCD|C6-|C2- (3C_dc (3BAG|(3AGF (3_dFG (3AGF|
+V:2
+[CEAc][EAc][EGB]|(3[A,EA]/G/A/ (3_D/E/B,/ (3C/G,/A,/|\
+	(3=E,/F,/G,/ C,E,|F,[FA]B,|
+% page 8
+V:1
+(3GFE (3cEF (3_GFE|(3F=G=A (3Bc_d (3edc|\
+	(3 _dcB (3_gf=e f2-|
+V:2
+_E,[EG]A,|z2=A&
+	_D3-&
+	zF2-|BB_A&
+		D_DC&\
+%%pos stem up
+		Fx2|
+V:1
+(3f_a=g (3f=ef (3=Bc=d|(3FGA (3GF=E (3FEF|\
+	(3FDF (3A=Bc d>F|=E6|]
+V:2
+[=B,G][CA][DFA]|G,[G,=B,D][G,B,D]|zF[FA=B]&
+				CCC|[CGc]3|]
+
+X:4
+M:6/8
+L:1/16
+Q:3/8=50
+%%staves {1 *2 3}
+%%MIDI program 73	% Flute
+K:F
+% page 8
+V:1
+cdcBAG FEFGAB|cAFcdB cAFd_ec|dBF=efd efedcB|
+V:2
+%Z3|
+z12|z12|z12|
+V:3 shift=cC
+%Z3|
+z12|z12|z12|
+V:1
+Af =B3B c3Bcd|e4f2- f2efg2-|g2fga2-a2gfed|
+V:2
+FAGFED C=B,CDEF|GECGAF GECA_BG|AFC=BcA BcBAGF|
+V:3
+%Z3|
+z12|z12|z12|
+V:1
+e2f2g2- g2f2_e2-|e2d2B2- B2A2c2-|c2B2A2G2c2e2-|
+V:2
+G2A2_B2- B2A2G2|A2B2G2- G2F2A2-|A2G2F2G6|
+V:3
+cdcBAG FEFGAB|cAFcdB cAFd_ec|dBF=efd efedcB|
+V:1
+e2a2g2 ^fefgaf|d2g2=f2 edefge|c2f2_e2 d6|
+V:2
+c12|B12|A6-AcBAGF|
+V:3
+ABAG^FE DCDEFD|GAG=FED CB,CDEC|FEFGAFB6-|
+% page 9
+V:1
+cdcBAG FEFGAB|cAFcdB cAFd_ec|dBF=efd efedcB|
+V:2
+=EFEDC2- CCDEFD|E2C2B,2- B,2A,B,C2-|C2B,2A,2 G,6|
+V:3
+B4BBA6-|A2A2z2F6|B,6C2D2E2|
+V:1
+A12|G12|F6-FAGFED|
+V:2
+z2F2E2 DCDEFD|=B,2E2D2 CB,CDEC|A,2D2C2=B,6|
+V:3
+FGFEDC =B,A,B,CDB,|EFEDC=B, A,G,A,B,CA,|DCDEFDG6-|
+V:1
+EDEFGA =BABcdB|c=Bcde^fg6-|gagfed c=Bcdef|
+V:2
+C=B,CDEB, DCDEFD|EDEFGA=B6|c2z2z2 z2C4-|
+V:3
+G12-|G4z2 gag=fed|efedc=B|A4A2|
+V:1
+gecgaf gecabg|afa=bc'a bc'bagf|e2f2d2c6:|
+V:2
+C2C4-C2G,4|z2A,4G,2z2z2|z2d2=B2[EG]6:|
+V:3
+E4F2 E3CDE|F3DEF G^FGA=BG|c2F2G2C6:|
+V:1
+|:Z3|
+V:2
+|:X3|
+V:3
+|:C=B,CDEF GAGFED|CEGC=B,D CEG_B,A,C|B,EGA,G,B, A,F,G,A,B,C|
+V:1
+Z3|
+V:2
+F,E,F,G,A,B, CDCB,A,G,|F,A,CF,E,G, F,A,C_E,D,F,|_E,A,CD,C,E, D,C,D,=E,F,G,|
+V:3
+D2C2B,2- B,2A,2G,2|A,2F,2G,2 A,2F,2B,2|C2F,2A,2 B,2A,2G,2|
+% page 10
+V:1
+Z2|C=B,CDEF GAGFED|
+V:2
+A,6-A,G,A,=B,CA,|=B,6-B,A,B,CDB,|C2F,2E,2 D,2E,2F,2-|
+V:3
+F,E,F,G,A,=B, CB,CDEF|G,F,G,A,=B,C DCDEFG|A,6=B,6|
+V:1
+CEGC=B,D CEG_B,A,C|B,EGA,G,B, A,F,G,A,B,C|D6-DDE^FGA|
+V:2
+F,2E,2D,2E,4F,2-|F,2E,D,_E,2- E,2D,2C,2|B,,D,=E,^F,G,A, B,2z2z2|
+V:3
+C6-C2C4-|C6F,6|B,2z2z2 z2B,2A,2|
+V:1
+B6-BA=B^cde|fdefga _bagfed|^cegefd edc=BAg|
+V:2
+zAG=FED ^C2E2A,2|D2z2z2z6|z2^C2D2 A,2=B,2C2|
+V:3
+G,2z2z2z6|z2zDEF GFGABG|A6z6|
+V:1
+^fa=c'a_bg ag^fed=c|=Bd=fdec dcBAGf|eg_bgaf gfedc_B|
+V:2
+D12-|D2=B,2C2 G,2A,2B,2|C12-|
+V:3
+z2^F2G2 D2E2F2|G6z6|z2E2F2 C2D2E2|
+V:1
+A2c2f2- f2e2g2-|g2f2B2- B2A2d2-|d2c2_e2- e2d2c2-|
+V:2
+C4A2 G4B2|A4G2- G2F2B2-|B2A2c2-c2B2A2-|
+V:3
+FEFGAB cdcBAG|FAcFEG FAc_EDF|_EAcECE DB,CD=E^F|
+% page 11
+V:1
+c2BAB2- B2A2G2|^F2A2d2- d2c2B2|A^FGABc d_edcBA|
+V:2
+A2D2G2_E6-|E_EDCB,A, G,^F,G,A,B,C|D3CB,2 A,3_EDC|
+V:3
+GAG=F_ED CB,CDEC|D6=E6|^F2D2G2- G2F4|
+V:1
+GBdG^FA GBd=F_EG|F=Bd_EDF E2c2A2|^F2D2G2- GA!trill!A3G|
+V:2
+B,DG,B,A,C B,2=B,2C2-|C2=B,A,B,2C6-|CCB,A,G,^F,G,4F,2|
+V:3
+G2z2z2 z6|z6z_BAG^FE|D4_E2 C2D4|
+V:1
+G2d2g2- g2=f=ef2-|f=Bcdef gagfed|c2def2- f2_ede2-|
+V:2
+G,^F,G,A,B,C D=EDC=B,A,|G,2A,=B,C2- C2_B,A,B,2-|B,E,F,G,A,B, CDCB,A,G,|
+V:3
+G,2z2z2z6|z12|z12|
+%X2|
+V:1
+eABcd_e fgfedc|d2f2b2- b2aga2-|ac'bag^fg6-|
+V:2
+F,2G,A,B,2- B,2A,G,A,2|B,A,B,CD=E FGF_EDC|B,2F2B2- BdcBAG|
+V:3
+Z3|
+V:1
+gbagfe c'2e2f2- f2ede2 f2c2f2-|f2_e2d2- d2c2f2|
+V:2
+A6-AcBAGF|G6A6|G2A2B2- B2A2A2-|
+V:3
+z12|CDCB,A,G, F,E,F,G,A,B,|CA,F,CDB, CA,F,D_EC|
+V:1
+B6-B2AGc2|A2B2G2F6:|
+V:2
+A2D2G2 C6-|C2G2E2[A,C]6:|
+V:3
+DB,F,=EFD EGFEDC|F2B,2C2F,6:|

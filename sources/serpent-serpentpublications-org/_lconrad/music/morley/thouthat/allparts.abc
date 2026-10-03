@@ -1,0 +1,149 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+
+X:1
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:XVII. O thou that art so cruell.
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/4
+K:C
+T:Cantus
+L:1/4
+%1
+G2 G A G E G F E2 z c B > B A2 G G2 ^F \
+w:O Thou that art so cru- _ ell, My dain- tie love- ly jew -
+w:l.1
+%2 
+G2 
+w:ell, 
+w:l.2
+z G F > F \
+w:My dain- tie 
+E E D2 E G G A G E G F E2 z c \
+w:love- ly jew- ell, O thou that art so cru - ell, My
+%3 
+  B > B A2 G G2 ^F G2 z G F > F E E D2 E2 z "A"G2 E2 D E G ^F2 G2 z c \
+w:dain- tie love- ly jew - ell, my dain- tie love- ly jew- ell, Why thus in my tor- men- ting, Dost
+w:l.3
+%4
+c > B A G ^F/ E/ F/ G/ A d d > c B2 
+w:thou still use re- len - * _ ting? Dost thou still use 
+w:l.4
+A G2 ^F "B"G4 d4 c4 B2 d D F3 E \
+w: re- len - ting? A- las right out come slay _ 
+%5
+  D C D2 E2 z G/ A/ B 
+w:_ _ _ mee: doe not thus 
+w:l.5
+B/ B/ A/ G/ A/ B/ c2 G2 z D/ E/ F F/ F/ E/ D/ E/ F/ \
+w:still from time to time de- laye mee. do not thus still from time to time de-
+%6
+G2 D2 z A/ B/ c c/ c/ B/ A/ B/ c/ d2 D D/ E/ F 
+w:lay mee: doe not thus still from time to time de- lay mee. do not thus 
+w:l.6
+F/ F/ E/ D/ E/ F/ G E D2 "C"E4 G4 \
+w:still from time to time de lay _ _ mee. A-
+%7
+  F4 E2 G2 D F2 E D C D2 E2 z           G/ A/   B    B/ B/      A/ G/ \
+w:las right out come slaye _ _ _ _ mee: doe not thus still from time to 
+w:l.7
+A/ B/ c2 G2 \
+w:time de- lay mee.
+%8
+z D/ E/ F F/ F/ E/ D/ E/ F/ G2 D2 z A/ B/ c c/ c/ B/ A/ B/ c/ d2 \
+w:do not thus still from time to time de- lay mee. doe not thus still from time to time de- lay
+w:l.8
+%9
+D D/ E/ F F/ F/ E/ D/ E/ F/ G E D2 HE4 |]
+w:Mee. do not thus still from time to time de- lay _ _ mee.
+w:l.9
+
+
+X:2 
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:XVII. O thou that art so cruell.
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/4
+K:C
+T:Tenor
+K:C -8va
+N: Original clef, C on third line, so this is a tenor G clef, sounding an octave lower than written
+L:1/4
+%1
+z4 c2 c d c A c2 G g f > f e c d2 G c 
+w:O Thou that art so cru-  ell, My dain- tie love- ly jew-  ell, My 
+w:l.1
+B > B \
+w:dain- tie
+%2 
+A d2 c2 B c4 z c c d c A c2 G g f > f e c \
+w: love- ly jew - ell, O thou that art so cru- ell, My dain- tie love- ly
+w:l.2
+%3 
+   d2 G c         B > B A d2 c2 B c2 z "A"G2 c2 B c e d2 G c c > B A G ^F G \
+w: jew-  ell, my dain- tie love- ly jew - ell, Why thus in my tor- men- ting, Dost thou still use re- len -
+w:l.3
+%4
+   D     d     d > c     B   A   G/ A/ B/ c/ d e d2 "B"G2 g4 f4 e2 g G2 _B2 A/ G/ A/ B/ c/ A/ B c2 B \
+w: ting? Dost thou still use re- len - _  _ _ _ _ ting? A- las right out come slay _ _ _ _ _ _ _ _ _
+w:l.4
+%5
+c c/ d/ e e/ e/ d/ c/ d/ e/ f2 c2 z G/ A/ _B B/ B/ A/ G/ A/ B/ c2 G2 \
+w:mee: doe not tnus still from time to time de- laye mee. do not thus still from time to time de- lay mee.
+w:l.5
+K:C -8va
+%6
+z  d/ e/   f    f/ f/ e/ d/ e/ f/           g2 d     G/ A/ _B 
+w: doe not thus still from time to time de- lay mee. do not thus 
+w:l.6
+B/ B/ A/ G/ A/ B/ c A B c2 B \
+w:still from time to time de- lay _ _ _ _
+%7
+   "C"c2  c4 _B4 A2     c2  G    
+w: mee. A- las right out come 
+w:l.7
+_B2   A/ G/ A/ B/ c/ A/ B c2 B c c/ d/ e \
+w:slaye _ _ _ _ _ _ _ _ _  mee: doe not thus 
+e/ e/ \
+w:still from 
+%8
+ d/ c/ d/ e/ f2 c2 z G/ A/ _B B/ B/ A/ G/ A/ B/ \
+w:time to time de- lay mee. do not thus still from time to time de- 
+w:l.8
+c2 G2 z d/ e/ f f/ f/ \
+w:lay mee. doe not thus still from 
+%9
+  e/ d/ e/ f/       g2 d    G/ A/ _B \   
+w:time to time de- lay mee. do not thus 
+w:l.9
+B/ B/ A/ G/ A/ B/ c A B c2 B Hc4 |]
+w:still from time to time de- lay _ _ _ _  mee.
+
+
+

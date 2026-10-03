@@ -1,0 +1,131 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Walzer FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.298 (wz04920) orig. F,Bb-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+c2 | "F"a3ca2 | a3ca2 | a3e fd | c4 d'c' | "C7"c'3a be | g4 d'c' | "F"c'3f ac | f4c2 | 
+a3ca2 | a3ca2 | a3e fd | c4^c2 | "Dm"d^c de fg | a3fd2 | "A7"ab ag ef | "Dm"d2z2z2 |: 
+"C7"c=B cb ag | "F"fe fa gf | "C7"ef ga bc' | "F".d'2 !>!c'4 | "C7"c=B cb ag | "F"fe fa gf | "C7"ef ga be | "F"f2z2"_fine"z2 :| [K:Bb]
+"Bb"d4f2 | b4d2 | f4d2 | z2 ab ab | "F7"c'4e2 | z2de gf | "Bb"d4f2 | z2fg fe | 
+d4f2 | b4d2 | "C7"f4=e2 | z2=ef ga | "Gm"b2z2g2 | "C7"c'2z2=e2 | "F"f3ff2 | f2z2  (3(fga) || 
+"Bb"b6 | d4fg | "F7"f4e2 | e3de2 | c'6 | e4gf | "Bb"f4d2 | d3^cd2 | 
+b2def2 | f3=ef2 | "Eb"b2efg2 | g3^fg2 | "F7"c'2fga2 | a3ga2 | "Bb"b3bb2 | b2z2z2 |] 
+
+X:2
+T: Walzer FBb chords (Parts ?)
+P:ABCDB  % = ev. unvollst. (s. "fine" of Part B)
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+c2 | [P:A] "F"a3ca2 | a3ca2 | a3e fd | c4 d'c' | "C7"c'3a be | g4 d'c' | "F"c'3f ac | f4c2 | 
+a3ca2 | a3ca2 | a3e fd | c4^c2 | "Dm"d^c de fg | a3fd2 | "A7"ab ag ef | "Dm"d2z2z2 ||  
+[P:B]  |: "C7"c=B cb ag | "F"fe fa gf | "C7"ef ga bc' | "F".d'2 !>!c'4 | "C7"c=B cb ag | "F"fe fa gf | "C7"ef ga be | "F"f2z2"_fine"z2 :| [P:C] [K:Bb]
+"Bb"d4f2 | b4d2 | f4d2 | z2 ab ab | "F7"c'4e2 | z2de gf | "Bb"d4f2 | z2fg fe | 
+d4f2 | b4d2 | "C7"f4=e2 | z2=ef ga | "Gm"b2z2g2 | "C7"c'2z2=e2 | "F"f3ff2 | f2z2  (3(fga) || 
+[P:D] "Bb"b6 | d4fg | "F7"f4e2 | e3de2 | c'6 | e4gf | "Bb"f4d2 | d3^cd2 | 
+b2def2 | f3=ef2 | "Eb"b2efg2 | g3^fg2 | "F7"c'2fga2 | a3ga2 | "Bb"b3bb2 | b2z2z2 |] 
+
+X:3
+T:Walzer CF 5- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G2 | "C"e3Ge2 | e3Ge2 | e3B cA | G4 ag | "G7"g3e fB | d4 ag | "C"g3c eG | c4G2 | 
+e3Ge2 | e3Ge2 | e3B cA | G4^G2 | "Am"A^G AB cd | e3cA2 | "E7"ef ed Bc | "Am"A2z2z2 |: 
+"G7"G^F Gf ed | "C"cB ce dc | "G7"Bc de fg | "C".a2 !>!g4 | "G7"G^F Gf ed | "C"cB ce dc | "G7"Bc de fB | "C"c2z2"_fine"z2 :| [K:Fmaj]
+"F"A4c2 | f4A2 | c4A2 | z2 ef ef | "C7"g4B2 | z2AB dc | "F"A4c2 | z2cd cB | 
+A4c2 | f4A2 | "G7"c4=B2 | z2=Bc de | "Dm"f2z2d2 | "G7"g2z2=B2 | "C"c3cc2 | c2z2 (3(cde) || 
+"F"f6 | A4cd | "C7"c4B2 | B3AB2 | g6 | B4dc | "F"c4A2 | A3^GA2 | 
+f2ABc2 | c3=Bc2 | "Bb"f2Bcd2 | d3^cd2 | "C7"g2cde2 | e3de2 | "F"f3ff2 | f2z2z2 |] 
+
+X:4
+T:Walzer CF 5- chords (align)
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G2 | "C"e3Ge2 | e3Ge2 | e3B cA | G4 ag | "G7"g3e fB | d4 ag | "C"g3c eG | c4G2 | \
+e3Ge2 |
+ e3Ge2 | e3B cA | G4^G2 | "Am"A^G AB cd | e3cA2 | "E7"ef ed Bc | "Am"A2z2z2 |: \
+"G7"G^F Gf ed |
+ "C"cB ce dc | "G7"Bc de fg | "C".a2 !>!g4 | "G7"G^F Gf ed | "C"cB ce dc | "G7"Bc de fB | "C"c2z2"_fine"z2 :| [K:Fmaj] \
+"F"A4c2 |
+ f4A2 | c4A2 | z2 ef ef | "C7"g4B2 | z2AB dc | "F"A4c2 | z2cd cB | \
+A4c2 | f4A2 | "G7"c4=B2 |
+ z2=Bc de | "Dm"f2z2d2 | "G7"g2z2=B2 | "C"c3cc2 | c2z2 (3(cde) || \
+"F"f6 |
+ A4cd | "C7"c4B2 | B3AB2 | g6 | B4dc | "F"c4A2 | A3^GA2 | \
+f2ABc2 |
+ c3=Bc2 | "Bb"f2Bcd2 | d3^cd2 | "C7"g2cde2 | e3de2 | "F"f3ff2 | f2z2z2 |] 
+
+X:5
+T:Walzer CF 5- chords (Parts ?)
+P:ABCDB  % = ev. unvollst. (s. "fine" of Part B)
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G2 | [P:A] "C"e3Ge2 | e3Ge2 | e3B cA | G4 ag | "G7"g3e fB | d4 ag | "C"g3c eG | c4G2 | 
+e3Ge2 | e3Ge2 | e3B cA | G4^G2 | "Am"A^G AB cd | e3cA2 | "E7"ef ed Bc | "Am"A2z2z2 || 
+[P:B] |: "G7"G^F Gf ed | "C"cB ce dc | "G7"Bc de fg | "C".a2 !>!g4 | "G7"G^F Gf ed | "C"cB ce dc | "G7"Bc de fB | "C"c2z2"_fine"z2 :| [P:C] [K:Fmaj]
+"F"A4c2 | f4A2 | c4A2 | z2 ef ef | "C7"g4B2 | z2AB dc | "F"A4c2 | z2cd cB | 
+A4c2 | f4A2 | "G7"c4=B2 | z2=Bc de | "Dm"f2z2d2 | "G7"g2z2=B2 | "C"c3cc2 | c2z2 (3(cde) || 
+[P:D] "F"f6 | A4cd | "C7"c4B2 | B3AB2 | g6 | B4dc | "F"c4A2 | A3^GA2 | 
+f2ABc2 | c3=Bc2 | "Bb"f2Bcd2 | d3^cd2 | "C7"g2cde2 | e3de2 | "F"f3ff2 | f2z2z2 |] 
+
+X:6
+T:Walzer GC 10- chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+D2 | "G"B3DB2 | B3DB2 | B3F GE | D4 ed | "D7"d3B cF | A4 ed | "G"d3G BD | G4D2 | 
+B3DB2 | B3DB2 | B3F GE | D4^D2 | "Em"E^D EF GA | B3GE2 | "B7"Bc BA FG | "Em"E2z2z2 |: 
+"D7"D^C Dc BA | "G"GF GB AG | "D7"FG AB cd | "G".e2 !>!d4 | "D7"D^C Dc BA | "G"GF GB AG | "D7"FG AB cF | "G"G2z2"_fine"z2 :| [K:Cmaj]
+"C"E4G2 | c4E2 | G4E2 | z2 Bc Bc | "G7"d4F2 | z2EF AG | "C"E4G2 | z2GA GF | 
+E4G2 | c4E2 | "D7"G4^F2 | z2^FG AB | "Am"c2z2A2 | "D7"d2z2^F2 | "G"G3GG2 | G2z2 (3(GAB) || 
+"C"c6 | E4GA | "G7"G4F2 | F3EF2 | d6 | F4AG | "C"G4E2 | E3^DE2 | 
+c2EFG2 | G3^FG2 | "F"c2FGA2 | A3^GA2 | "G7"d2GAB2 | B3AB2 | "C"c3cc2 | c2z2z2 |] 
+
+X:7
+T:Walzer GC 10- chords (Parts ?)
+P:ABCDB  % = ev. unvollst. (s. "fine" of Part B)
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+D2 | [P:A] "G"B3DB2 | B3DB2 | B3F GE | D4 ed | "D7"d3B cF | A4 ed | "G"d3G BD | G4D2 | 
+B3DB2 | B3DB2 | B3F GE | D4^D2 | "Em"E^D EF GA | B3GE2 | "B7"Bc BA FG | "Em"E2z2z2 || 
+[P:B] |: "D7"D^C Dc BA | "G"GF GB AG | "D7"FG AB cd | "G".e2 !>!d4 | "D7"D^C Dc BA | "G"GF GB AG | "D7"FG AB cF | "G"G2z2"_fine"z2 :| [P:C] [K:Cmaj]
+"C"E4G2 | c4E2 | G4E2 | z2 Bc Bc | "G7"d4F2 | z2EF AG | "C"E4G2 | z2GA GF | 
+E4G2 | c4E2 | "D7"G4^F2 | z2^FG AB | "Am"c2z2A2 | "D7"d2z2^F2 | "G"G3GG2 | G2z2 (3(GAB) || 
+[P:D] "C"c6 | E4GA | "G7"G4F2 | F3EF2 | d6 | F4AG | "C"G4E2 | E3^DE2 | 
+c2EFG2 | G3^FG2 | "F"c2FGA2 | A3^GA2 | "G7"d2GAB2 | B3AB2 | "C"c3cc2 | c2z2z2 |] 
+
+X:8
+T:Walzer GC 2+ chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+d2 | "G"b3db2 | b3db2 | b3f ge | d4 e'd' | "D7"d'3b c'f | a4 e'd' | "G"d'3g bd | g4d2 | 
+b3db2 | b3db2 | b3f ge | d4^d2 | "Em"e^d ef ga | b3ge2 | "B7"bc' ba fg | "Em"e2z2z2 |: 
+"D7"d^c dc' ba | "G"gf gb ag | "D7"fg ab c'd' | "G".e'2 !>!d'4 | "D7"d^c dc' ba | "G"gf gb ag | "D7"fg ab c'f | "G"g2z2"_fine"z2 :| [K:Cmaj]
+"C"e4g2 | c'4e2 | g4e2 | z2 bc' bc' | "G7"d'4f2 | z2ef ag | "C"e4g2 | z2ga gf | 
+e4g2 | c'4e2 | "D7"g4^f2 | z2^fg ab | "Am"c'2z2a2 | "D7"d'2z2^f2 | "G"g3gg2 | g2z2 (3(gab) || 
+"C"c'6 | e4ga | "G7"g4f2 | f3ef2 | d'6 | f4ag | "C"g4e2 | e3^de2 | 
+c'2efg2 | g3^fg2 | "F"c'2fga2 | a3^ga2 | "G7"d'2gab2 | b3ab2 | "C"c'3c'c'2 | c'2z2z2 |] 
+
+X:9
+T:Walzer EbAb (5letras) cf. CF (Parts ?)
+P:ABCDB  % = ev. unvollst. (s. "fine" of Part B)
+M:3/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+B2 | [P:A] "Eb"g3Bg2 | g3Bg2 | g3d ec | B4 c'b | "Bb7"b3g ad | f4 c'b | "Eb"b3e gB | e4B2 | 
+g3Bg2 | g3Bg2 | g3d ec | B4=B2 | "Cm"c=B cd ef | g3ec2 | "G7"ga gf de | "Cm"c2z2z2 || 
+[P:B] |: "Bb7"B=A Ba gf | "Eb"ed eg fe | "Bb7"de fg ab | "Eb".c'2 !>!b4 | "Bb7"B=A Ba gf | "Eb"ed eg fe | "Bb7"de fg ad | "Eb"e2z2"_fine"z2 :| [P:C] [K:Abmaj]
+"Ab"c4e2 | a4c2 | e4c2 | z2 ga ga | "Eb7"b4d2 | z2cd fe | "Ab"c4e2 | z2ef ed | 
+c4e2 | a4c2 | "Bb7"e4=d2 | z2=de fg | "Fm"a2z2f2 | "Bb7"b2z2=d2 | "Eb"e3ee2 | e2z2 (3(efg) || 
+[P:D] "Ab"a6 | c4ef | "Eb7"e4d2 | d3cd2 | b6 | d4fe | "Ab"e4c2 | c3=Bc2 | 
+a2cde2 | e3=de2 | "Db"a2def2 | f3=ef2 | "Eb7"b2efg2 | g3fg2 | "Ab"a3aa2 | a2z2z2 |] 

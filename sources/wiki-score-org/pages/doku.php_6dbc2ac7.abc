@@ -1,0 +1,17 @@
+X:702
+T:N.7 Schottisch do 37
+C:Fonseca, Eduardo da (1863-1938)
+M:C|
+L:1/4
+K:G
+V: 2 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+%---
+!>!(e | d/)d/f/a/ d'([Ad] | [Bg])[Ad]  [Bg]/!fermata!z/ (e || e/)(D/F/A/ d) (c|B)!>!B2(c| \
+B/2)(B,/2^D/2F/2 B)(A|G)G2(F|E/2)(E/2A/2B/2 c/2)(c/2B/2A/2)|e/2(d/2B/2G/2D)(G|F/2)(F/2E/2D/2) (A/2^G/2A/2B/2) | \
+G2zb | b/a/g/e/ ^c/e/g/e/ | (ba2) g | {ga}g/(f/^e/f/) (=eg) | ed2B | {B^c}B/(^A/B/^c/) (ed) | \
+d[FA]-[FA]/A/^G/A/ | ^c/B/A/G/ (.F.E)| [FB][EG]2B| b/a/g/e/ ^c/e/g/e/ | ba2g| {ga}g/f/^e/f/ (=ef) | \
+ed2B| {B^c}B/^A/B/^d/ ed| d!>![FA]-[FA]/A/^G/A/ | ^c/B/A/G/ Fe | d2z(e||d/)D/F/A/ cc| \
+BB2(c|B/)B,/^D/F/ BA|GG2F| E/E/A/B/ c/c/B/A/ | e/d/B/G/ D(G|F/)F/E/D/ A/^G/A/B/ | G!>![Af]!>![Bg]/ z/ |] \
+%---

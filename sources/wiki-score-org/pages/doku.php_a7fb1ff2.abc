@@ -1,0 +1,24 @@
+X:1207
+T:N.12 Cancao do soldado
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:D
+V: 7 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%----
+!arpeggio![A,DF] z z !arpeggio![A,DF] z z  | !arpeggio![A,DF] z z !arpeggio![A,DF] z z  |: \
+!arpeggio![A,DF] z z !arpeggio![A,DF] z z  |  zz[F(D]/A,/) .[DF]zz | zz[G(C]/A,/) .[CG]zz | \
+zz[F(D]/A,/) .[DF]zz | [A,DF] z z [A,DF] z z | zz[E(C]/A,/) .[CE]zz | [DE]zz [D^Gd]zz | \
+zz[E(C]/A,/) .[CE]zz | !arpeggio!.[A,DF]zz !arpeggio!.[A,DF]zz | zz[F(D]/A,/) .[DF]zz | \
+zz[CEG]/A,/ .[CG]zz |  zz[F(D]/A,/) .[DF]zz | !arpeggio!.[A,DF]zz !arpeggio!.[A,DF]zz | \
+!arpeggio![B,DB]zz !arpeggio!.[D^G]zz | !arpeggio!.[DF]zz !arpeggio!.[CG]zz | !arpeggio![D]z !f!.A/.A/ [Dd]zz || \
+[DF]3 GFE & x3 G,3 | [DF]3 [CE]3 | [B,D]3 [^A,C]3 | B,3-B,zz | ([B,D]6 | ([A,DA]6) | G6) & B,2 D C2 B, | \
+!fermata![^A,F]3 z2z "_a tempo" || \
+!arpeggio![A,DF] z z !arpeggio![A,DF] z z | zz[F(D]/A,/) .[DF]zz |  zz([CG]/A,/) .[CG]zz | \
+zz[F(D]/A,/) .[DF]zz | !arpeggio![A,DF] z z !arpeggio![A,DF] z z  | zz[E(C]/A,/) .[CE]zz | \
+.[DE]zz .[D^Gd]zz | zz[E(C]/A,/) .[CE]zz | [A,DF] zz [A,DF] z z | \
+zz[F(D]/A,/) .[DF]zz |  zz([CG]/A,/) .[CG]zz |  zz[F(D]/A,/) .[DF]zz | [A,DF] zz [A,DF] z z | \
+[B,DG] zz [D^G] z z | .[DF] zz .[CE] z z | .Dz !f!.A/.A/ [Dd]zz |] \
+%---

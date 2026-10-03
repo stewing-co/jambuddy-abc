@@ -1,0 +1,35 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Walzer  FCBb chords 
+T:Hanny Christen. Bd.I  Z\"urich, Schaffhausen, St. Gallen I. S.160f  (wz00267) orig. F,C,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"c2=B2c2 | d3cc2 | a2g2f2 | "C7"f4e2 | B2A2B2 | c3BB2 | g2d2f2 | "F"fa gf ed | 
+c2=B2c2 | d3cc2 | a2g2f2 | "Gm"e4d2 | "C7"d^c de fg | "F"a2fdc2 | "C7"ccc2e2 |1 "F"f2z2A2 :|2 
+"F"f2z2gf |: [K:C] "C"ed cd ef | ga bc' d'c' | "Dm"b2a3f | d4dc | "G7"Bdg2g2 | 
+a3g g2 | "C"ceg2g2 | a3gg2 | ed cd ef | ga bc' d'c' | "Dm"ba fA df | "G7"b4a2 | 
+"C"gc' bag2 | "G7"ba gf ed | "C"ce gc eg | c'2z2_ba || [K:F] "Gm"g4B2 | d4ag | "F"f4A2 | 
+c4gf | "C7"e2z2c'2 | "Gm"d2z2b2 | "F"a2f3d | c4ba | "Gm"g4B2 | d4ag | "F"f4A2 | c4gf | 
+"C7"ef ga bc' | d'2c'3e | "F"fc af c'a | f3b ag |: [K:Bb] "Bb"f4B2 | d3cB2 | 
+"F7"Af e3c | A3b ag | f4e2 | Aed3c | "Bb"B2df bg | f3b ag | f4B2 | d3cB2 | 
+"F7"Afe3c | A3b ag | f2a3f | fe cf eA | "Bb"Bd fB df | b2z2z2 :| 
+
+X:2
+T:Walzer  CGF 5- chords 
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"G2^F2G2 | A3GG2 | e2d2c2 | "G7"c4B2 | F2E2F2 | G3FF2 | d2A2c2 | "C"ce dc BA | 
+G2^F2G2 | A3GG2 | e2d2c2 | "Dm"B4A2 | "G7"A^G AB cd | "C"e2cAG2 | "G7"GGG2B2 |1 "C"c2z2E2 :|2 
+"C"c2z2dc |: [K:Gmaj] "G"BA GA Bc | de fg ag | "Am"f2e3c | A4AG | "D7"FAd2d2 | 
+e3d d2 | "G"GBd2d2 | e3dd2 | BA GA Bc | de fg ag | "Am"fe cE Ac | "D7"f4e2 | 
+"G"dg fed2 | "D7"fe dc BA | "G"GB dG Bd | g2z2=fe || [K:Cmaj] "Dm"d4F2 | A4ed | "C"c4E2 | 
+G4dc | "G7"B2z2g2 | "Dm"A2z2f2 | "C"e2c3A | G4fe | "Dm"d4F2 | A4ed | "C"c4E2 | G4dc | 
+"G7"Bc de fg | a2g3B | "C"cG ec ge | c3f ed |: [K:Fmaj] "F"c4F2 | A3GF2 | 
+"C7"Ec B3G | E3f ed | c4B2 | EBA3G | "F"F2Ac fd | c3f ed | c4F2 | A3GF2 | 
+"C7"EcB3G | E3f ed | c2e3c | cB Gc BE | "F"FA cF Ac | f2z2z2 :| 
+

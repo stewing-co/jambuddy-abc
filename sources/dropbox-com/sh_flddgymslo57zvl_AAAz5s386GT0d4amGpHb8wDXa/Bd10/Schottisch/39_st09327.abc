@@ -1,0 +1,51 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Schottisch  FBb
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.188 (st09327) orig. F,Bb
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+cc |: ("C7"c4c)BGd | c2B2 E2cc | (c4c)BGd | "F"c2A2 F2ff | f2e2 g2f2 | "Bb"e4 d2d'd' | "C7"d'2d'2 c'2d'd' | 
+"F"d'2d'2 c'2cc | ("C7"c4c)BGd | c2G2 E2cc | c4cBGd | "F"c2A2 F2ff | f2f2 e2d2 | "C"c2a2 g2GG | "G7"G2g2 G2=B2 | 
+"C"c2c2 c2cc :: "C7"ce^de c2cc | cg^fg c2cc | cbab a2b2 | g6GA | BAGA Bcde | 
+"F"f2ag fedc | "C7"BcGc E3C | "F"FGABc4 | "C7"BAGA Bcde | "F"f2ag fedc | c=Bca "C7"_BABg |1 
+"F"f2f2 f2cc :|2 "F"f2f2 f2ff |: [K:Bb] !>!"Bb"F2Bd (f4 | f)DFB (d4 | d)B,DF B2c2 | "tr""F7"B2A2 A3f | f2^f2 g3=f | 
+"tr"f2=ef a3f | f2^f2 g3=f | "Bb"f2"tr"=ef b3F | !>!F2Bd (f4 | f)DFB (d4 | d)B,DF B2c2 | 
+"F7"B2A2 A3f | f2^f2 g3=f | f2=ef a3f | f2=ef ^fg^ga |1 "Bb"b2b2 b2ff :|2 "Bb"b2b2 b2z2 |] 
+% st09327
+X:2
+T:Schottisch  GC 2-
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+dd |: ("D7"d4d)cAe | d2c2 F2dd | (d4d)cAe | "G"d2B2 G2gg | g2f2 a2g2 | "C"f4 e2e'e' | "D7"e'2e'2 d'2e'e' | 
+"G"e'2e'2 d'2dd | ("D7"d4d)cAe | d2A2 F2dd | d4dcAe | "G"d2B2 G2gg | g2g2 f2e2 | "D"d2b2 a2AA | "A7"A2a2 A2^c2 | 
+"D"d2d2 d2dd :: "D7"df^ef d2dd | da^ga d2dd | dc'bc' b2c'2 | a6AB | cBAB cdef | 
+"G"g2ba gfed | "D7"cdAd F3D | "G"GABcd4 | "D7"cBAB cdef | "G"g2ba gfed | d^cdb "D7"=cBca |1 
+"G"g2g2 g2dd :|2 "G"g2g2 g2gg |: [K:C] !>!"C"G2ce (g4 | g)EGc (e4 | e)CEG c2d2 | "tr""G7"c2B2 B3g | g2^g2 a3=g | 
+"tr"g2^fg b3g | g2^g2 a3=g | "C"g2"tr"^fg c'3G | !>!G2ce (g4 | g)EGc (e4 | e)CEG c2d2 | 
+"G7"c2B2 B3g | g2^g2 a3=g | g2^fg b3g | g2^fg ^ga^ab |1 "C"c'2c'2 c'2gg :|2 "C"c'2c'2 c'2z2 |] 
+% st09327
+X:3
+T:Schottisch  GC (5letras transposed)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+dd |: ("D7"d4d)cAe | d2c2 F2dd | (d4d)cAe | "G"d2B2 G2gg | g2f2 a2g2 | "C"f4 e2e'e' | "D7"e'2e'2 d'2e'e' | 
+"G"e'2e'2 d'2dd | ("D7"d4d)cAe | d2A2 F2dd | d4dcAe | "G"d2B2 G2gg | g2g2 f2e2 | "D"d2b2 a2AA | "A7"A2a2 A2^c2 | 
+"D"d2d2 d2dd :: "D7"df^ef d2dd | da^ga d2dd | dc'bc' b2c'2 | a6AB | cBAB cdef | 
+"G"g2ba gfed | "D7"cdAd F3D | "G"GABcd4 | "D7"cBAB cdef | "G"g2ba gfed | d^cdb "D7"=cBca |1 
+"G"g2g2 g2dd :|2 "G"g2g2 g2gg |: [K:C] !>!"C"G2ce (g4 | g)EGc (e4 | e)CEG c2d2 | "tr""G7"c2B2 B3g | g2^g2 a3=g | 
+"tr"g2^fg b3g | g2^g2 a3=g | "C"g2"tr"^fg c'3G | !>!G2ce (g4 | g)EGc (e4 | e)CEG c2d2 | 
+"G7"c2B2 B3g | g2^g2 a3=g | g2^fg b3g | g2^fg ^ga^ab |1 "C"c'2c'2 c'2gg :|2 "C"c'2c'2 c'2z2 |] 
+% st09327
+% Sep. 7 2016

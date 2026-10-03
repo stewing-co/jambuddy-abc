@@ -1,0 +1,77 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Rheinl\"ander (Polka)  GDC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.307 (RL06019) orig. G,D,C-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"dBdg b3a | aggB d3g | "D7"gffA d3f | "G"aggB d4 | dBdg b3a | aggB d3g | 
+"D7"gffA d3f |  "G"g2b2 g2z2 :: [K:D] "A7"aceg bage | "D"f2A2 fed2 | "A7"caa2 age2 | "D"daa2 a2fd | 
+"A7"aceg bage | "D"f2A2 fed2 | "A7"caa2 age2 | "D"d2f2 d2"_>Teil A"z2 :: [K:C] "C"gaeg "G7"dfAB | "C"dcea g3c' | 
+"G7"c'bdf b3a | "C"agecG4 | gaeg "G7"dfAB | "C"dcea g3c' | "G7"b2da g2Bg | "C"c2e2 c2z2 :| 
+W:Parts: ABAC
+% RL06019
+X:2
+T:Rheinl\"ander (Polka)  CGF 7-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+"C"GEGc e3d | dccE G3c | "G7"cBBD G3B | "C"dccE G4 | GEGc e3d | dccE G3c | 
+"G7"cBBD G3B | "C"c2e2 c2z2 :: [K:G] "D7"dFAc edcA | "G"B2D2 BAG2 | "D7"Fdd2 dcA2 | "G"Gdd2 d2BG | 
+"D7"dFAc edcA | "G"B2D2 BAG2 | "D7"Fdd2 dcA2 | "G"G2B2 G2"_>Teil A"z2 :: [K:F] "F"cdAc "C7"GBDE | "F"GFAd c3f | 
+"C7"feGB e3d | "F"dcAFC4 | cdAc "C7"GBDE | "F"GFAd c3f | "C7"e2Gd c2Ec | "F"F2A2 F2z2 :| 
+W:Parts: ABAC
+% RL06019
+X:3
+T:Rheinl\"ander (Polka)  CGF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"GEGc e3d | dccE G3c | "G7"cBBD G3B | "C"dccE G4 | GEGc e3d | dccE G3c | 
+"G7"cBBD G3B | "C"c2e2 c2z2 :: [K:G] "D7"dFAc edcA | "G"B2D2 BAG2 | "D7"Fdd2 dcA2 | "G"Gdd2 d2BG | 
+"D7"dFAc edcA | "G"B2D2 BAG2 | "D7"Fdd2 dcA2 | "G"G2B2 G2"_>Teil A"z2 :: [K:F] "F"cdAc "C7"GBDE | "F"GFAd c3f | 
+"C7"feGB e3d | "F"dcAFC4 | cdAc "C7"GBDE | "F"GFAd c3f | "C7"e2Gd c2Ec | "F"F2A2 F2z2 :| 
+W:Parts: ABAC
+% RL06019
+X:4
+T:Rheinl\"ander (Polka) DA&G (tinwhistle in D)
+T:RL06019 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D%%MIDI gchordon
+"D"AFAd f3e | eddF A3d | "A7"dccE A3c | "D"eddF A4 | AFAd f3e | eddF A3d | 
+"A7"dccE A3c | "D"d2f2 d2z2 :: [K:A] "E7"eGBd fedB | "A"c2E2 cBA2 | "E7"Gee2 edB2 | "A"Aee2 e2cA | 
+"E7"eGBd fedB | "A"c2E2 cBA2 | "E7"Gee2 edB2 | "A"A2c2 A2"_>Teil A"z2 :: [K:G] "G"deBd "D7"AcEF | "G"AGBe d3g | 
+"D7"gfAc f3e | "G"edBGD4 | deBd "D7"AcEF | "G"AGBe d3g | "D7"f2Ae d2Fd | "G"G2B2 G2z2 :| 
+W:Parts: ABAC
+X:5
+T:Rheinl\"ander (Polka) DA&G (tinwhistle in D) solo
+T:RL06019 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+AFAd f3e | eddF A3d | dccE A3c | eddF A4 | AFAd f3e | eddF A3d | 
+dccE A3c | d2f2 d2z2 :: [K:A] eGBd fedB | c2E2 cBA2 | Gee2 edB2 | Aee2 e2cA | 
+eGBd fedB | c2E2 cBA2 | Gee2 edB2 | A2c2 A2"_>Teil A"z2 :: [K:G] deBd AcEF | AGBe d3g | 
+gfAc f3e | edBGD4 | deBd AcEF | AGBe d3g | f2Ae d2Fd | G2B2 G2z2 :|
+W:Parts: ABAC
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 8, 2016

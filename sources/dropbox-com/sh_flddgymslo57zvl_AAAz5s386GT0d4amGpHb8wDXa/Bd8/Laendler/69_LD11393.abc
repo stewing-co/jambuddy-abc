@@ -1,0 +1,48 @@
+%%partsbox
+%%MIDI program 21
+
+X: 1
+T: L\"andler FCBb chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.347 (LD11393) orig. F,C,Bb-Dur
+T: T\"anze aus Altdorf (Uri)
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"{/c}c'2 {/c}a2 {/c}f2 | d3cc2 | Ac fA cf | "C7"Bc eB ce | {/c}c'2 {/c}b2 {/c}e2 | d3cc2 | Bc eB ce |1  
+"F"Ac fA cf :|2 "F"f2z2GG |: [K:C] "C"Gc ea ge | Gc ea ge | "G7"GB dg fB | "C"ce eG ce | Gc ea ge | 
+Gc ea ge | "G7"GB df ed |1 "C"c2z2GG :|2 "C"c2z2"_> Teil A"z2 || [K:Bb] ff |: "Bb"f3b af | fd fb d'b | 
+"F7"ag fA eA | "Bb"Bd fg f2 | f3d d'b | "Eb"g3e c'b |  "F7"ag fA eA |1 "Bb"B2z2ff :|2 "Bb"B2z2z2 |]  
+
+X: 2
+T: L\"andler FCBb chords Parts
+P:ABAC
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A] "F"{/c}c'2 {/c}a2 {/c}f2 | d3cc2 | Ac fA cf | "C7"Bc eB ce | {/c}c'2 {/c}b2 {/c}e2 | d3cc2 | Bc eB ce |1  
+"F"Ac fA cf :|2 "F"f2z2GG [P:B] |: [K:C] "C"Gc ea ge | Gc ea ge | "G7"GB dg fB | "C"ce eG ce | Gc ea ge | 
+Gc ea ge | "G7"GB df ed |1 "C"c2z2GG :|2 "C"c2z2"_> Teil A"z2 || [K:Bb] [P:C] |: "Bb"f3b af | fd fb d'b | 
+"F7"ag fA eA | "Bb"Bd fg f2 | f3d d'b | "Eb"g3e c'b |  "F7"ag fA eA |1 "Bb"B2z2ff :|2 "Bb"B2z2z2 |]  
+
+X:3
+T:L\"andler CGF 5- chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.347 (LD11393) orig. F,C,Bb-Dur
+T:T\"anze aus Altdorf (Uri)
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"{/G}g2 {/G}e2 {/G}c2 | A3GG2 | EG cE Gc | "G7"FG BF GB | {/G}g2 {/G}f2 {/G}B2 | A3GG2 | FG BF GB |1 
+"C"EG cE Gc :|2 "C"c2z2DD |: [K:Gmaj] "G"DG Be dB | DG Be dB | "D7"DF Ad cF | "G"GB BD GB | DG Be dB | 
+DG Be dB | "D7"DF Ac BA |1 "G"G2z2DD :|2 "G"G2z2"_> Teil A"z2 || [K:Fmaj] cc |: "F"c3f ec | cA cf af | 
+"C7"ed cE BE | "F"FA cd c2 | c3A af | "Bb"d3B gf | "C7"ed cE BE |1 "F"F2z2cc :|2 "F"F2z2z2 |] 
+
+X:4
+T:L\"andler CGF 5- chords Parts
+P:ABAC
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+[P:A] "C"{/G}g2 {/G}e2 {/G}c2 | A3GG2 | EG cE Gc | "G7"FG BF GB | {/G}g2 {/G}f2 {/G}B2 | A3GG2 | FG BF GB |1 
+"C"EG cE Gc :|2 "C"c2z2DD [P:B] |: [K:Gmaj] "G"DG Be dB | DG Be dB | "D7"DF Ad cF | "G"GB BD GB | DG Be dB | 
+DG Be dB | "D7"DF Ac BA |1 "G"G2z2DD :|2 "G"G2z2"_> Teil A"z2 || [K:Fmaj] [P:C] |: "F"c3f ec | cA cf af | 
+"C7"ed cE BE | "F"FA cd c2 | c3A af | "Bb"d3B gf | "C7"ed cE BE |1 "F"F2z2cc :|2 "F"F2z2z2 |] 

@@ -1,0 +1,93 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Madeleine-Mazurka FCBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.296 (mz00328) orig. F,C,Bb-Dur
+T: Repertoire der <S\"achser Musig> 1880-1900, Weinigen ZH. S.275-296
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"F2A2c2 | f>Ac4 | d>dd3c | "C7"B>AB4 | E2G2B2 | c>GB4 | e>ee3d | "F"c>BA4 | 
+F2A2c2 | f>Ac4 | f>ff3e | "Gm"g>fd4 | "Bb"d^c df ed | "F"cfA4 | "C7"GBE2E2 | "F"F2F2z2 |: [K:C]  
+"G7"Gf fed2 | "C"Ge edc2 | "G7"[Bd][FB] [Bd]2 [Bd]2 | "Am"[Ac]E [Ac]2 [Ac]2 | "G7"Gf fed2 | "C"Ge edc2 | 
+"G7"Bc de fB | "C"c2c2z2 :: [K:F] "F"c>cc4 | A>AA4 | cd ef gf | "C7".f2 !>!e4 | 
+"C7"B>B B4 | G>GG4 | cd ef ag | "F"f2f2z2 :: [K:Bb] "Bb"F>E F2d2 | "Eb"e4G2 | 
+"F7"F>EF2e2 | "Bb"d4F2 | "Bb7"B>AB2^F2 | "Eb"G4F2 | "F7"d>^c d2 =c2 | "Bb"B2B2z2 :| 
+
+X:2
+T:Madeleine-Mazurka CGF 7+ chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"c2e2g2 | c'>eg4 | a>aa3g | "G7"f>ef4 | B2d2f2 | g>df4 | b>bb3a | "C"g>fe4 | 
+c2e2g2 | c'>eg4 | c'>c'c'3b | "Dm"d'>c'a4 | "F"a^g ac' ba | "C"gc'e4 | "G7"dfB2B2 | "C"c2c2z2 |: [K:Gmaj] 
+"D7"dc' c'ba2 | "G"db bag2 | "D7"[fa][cf] [fa]2 [fa]2 | "Em"[eg]B [eg]2 [eg]2 | "D7"dc' c'ba2 | "G"db bag2 | 
+"D7"fg ab c'f | "G"g2g2z2 :: [K:Cmaj] "C"g>gg4 | e>ee4 | ga bc' d'c' | "G7".c'2 !>!b4 | 
+"G7"f>f f4 | d>dd4 | ga bc' e'd' | "C"c'2c'2z2 :: [K:Fmaj] "F"c>B c2a2 | "Bb"b4d2 | 
+"C7"c>Bc2b2 | "F"a4c2 | "F7"f>ef2^c2 | "Bb"d4c2 | "C7"a>^g a2 =g2 | "F"f2f2z2 :| 
+
+X:3
+T:Madeleine-Mazurka CGF 7+ chords (align)
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"c2e2g2 | c'>eg4 | a>aa3g | "G7"f>ef4 | B2d2f2 | g>df4 | b>bb3a | "C"g>fe4 | 
+c2e2g2 | c'>eg4 | c'>c'c'3b | "Dm"d'>c'a4 | "F"a^g ac' ba | "C"gc'e4 | "G7"dfB2B2 | "C"c2c2z2 |: [K:Gmaj] 
+"D7"dc' c'ba2 | "G"db bag2 | "D7"[fa][cf] [fa]2 [fa]2 | "Em"[eg]B [eg]2 [eg]2 | "D7"dc' c'ba2 | "G"db bag2 | \
+"D7"fg ab c'f |
+ "G"g2g2z2 :: [K:Cmaj] "C"g>gg4 | e>ee4 | ga bc' d'c' | "G7".c'2 !>!b4 | \
+"G7"f>f f4 | d>dd4 | ga bc' e'd' |
+ "C"c'2c'2z2 :: [K:Fmaj] "F"c>B c2a2 | "Bb"b4d2 | \
+"C7"c>Bc2b2 | "F"a4c2 | "F7"f>ef2^c2 | "Bb"d4c2 | "C7"a>^g a2 =g2 | "F"f2f2z2 :| 
+
+X:4
+T:Madeleine-Mazurka CGF 5- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"C2E2G2 | c>EG4 | A>AA3G | "G7"F>EF4 | B,2D2F2 | G>DF4 | B>BB3A | "C"G>FE4 | 
+C2E2G2 | c>EG4 | c>cc3B | "Dm"d>cA4 | "F"A^G Ac BA | "C"GcE4 | "G7"DFB,2B,2 | "C"C2C2z2 |: [K:Gmaj] 
+"D7"Dc cBA2 | "G"DB BAG2 | "D7"[FA][CF] [FA]2 [FA]2 | "Em"[EG]B, [EG]2 [EG]2 | "D7"Dc cBA2 | "G"DB BAG2 | 
+"D7"FG AB cF | "G"G2G2z2 :: [K:Cmaj] "C"G>GG4 | E>EE4 | GA Bc dc | "G7".c2 !>!B4 | 
+"G7"F>F F4 | D>DD4 | GA Bc ed | "C"c2c2z2 :: [K:Fmaj] "F"C>B, C2A2 | "Bb"B4D2 | 
+"C7"C>B,C2B2 | "F"A4C2 | "F7"F>EF2^C2 | "Bb"D4C2 | "C7"A>^G A2 =G2 | "F"F2F2z2 :| 
+
+X:5
+T:Madeleine-Mazurka CGF 5- chords (align)
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"C2E2G2 | c>EG4 | A>AA3G | "G7"F>EF4 | B,2D2F2 | G>DF4 | B>BB3A | "C"G>FE4 | 
+C2E2G2 | c>EG4 | c>cc3B | "Dm"d>cA4 | "F"A^G Ac BA | "C"GcE4 | "G7"DFB,2B,2 | "C"C2C2z2 |: [K:Gmaj] 
+"D7"Dc cBA2 | "G"DB BAG2 | "D7"[FA][CF] [FA]2 [FA]2 | "Em"[EG]B, [EG]2 [EG]2 | "D7"Dc cBA2 | "G"DB BAG2 | \
+"D7"FG AB cF |
+"G"G2G2z2 :: [K:Cmaj] "C"G>GG4 | E>EE4 | GA Bc dc | "G7".c2 !>!B4 | \
+"G7"F>F F4 | D>DD4 | GA Bc ed |
+"C"c2c2z2 :: [K:Fmaj] "F"C>B, C2A2 | "Bb"B4D2 | \
+"C7"C>B,C2B2 | "F"A4C2 | "F7"F>EF2^C2 | "Bb"D4C2 | "C7"A>^G A2 =G2 | "F"F2F2z2 :| 
+
+X:6
+T:Madeleine-Mazurka EbBbAb (5letras) cf. CGF 7+
+M:3/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+"Eb"e2g2b2 | e'>gb4 | c'>c'c'3b | "Bb7"a>ga4 | d2f2a2 | b>fa4 | d'>d'd'3c' | "Eb"b>ag4 | 
+e2g2b2 | e'>gb4 | e'>e'e'3d' | "Fm"f'>e'c'4 | "Ab"c'=b c'e' d'c' | "Eb"be'g4 | "Bb7"fad2d2 | "Eb"e2e2z2 |: [K:Bbmaj] 
+"F7"fe' e'd'c'2 | "Bb"fd' d'c'b2 | "F7"[ac'][ea] [ac']2 [ac']2 | "Gm"[gb]d [gb]2 [gb]2 | "F7"fe' e'd'c'2 | "Bb"fd' d'c'b2 | 
+"F7"ab c'd' e'a | "Bb"b2b2z2 :: [K:Ebmaj] "Eb"b>bb4 | g>gg4 | bc' d'e' f'e' | "Bb7".e'2 !>!d'4 | 
+"Bb7"a>a a4 | f>ff4 | bc' d'e' g'f' | "Eb"e'2e'2z2 :: [K:Abmaj] "Ab"e>d e2c'2 | "Db"d'4f2 | 
+"Eb7"e>de2d'2 | "Ab"c'4e2 | "Ab7"a>ga2=e2 | "Db"f4e2 | "Eb7"c'>=b c'2 _b2 | "Ab"a2a2z2 :| 
+
+X:7
+T:Madeleine-Mazurka EbBbAb (5letras) cf. CGF 5-
+M:3/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+"Eb"E2G2B2 | e>GB4 | c>cc3B | "Bb7"A>GA4 | D2F2A2 | B>FA4 | d>dd3c | "Eb"B>AG4 | 
+E2G2B2 | e>GB4 | e>ee3d | "Fm"f>ec4 | "Ab"c=B ce dc | "Eb"BeG4 | "Bb7"FAD2D2 | "Eb"E2E2z2 |: [K:Bbmaj] 
+"F7"Fe edc2 | "Bb"Fd dcB2 | "F7"[Ac][EA] [Ac]2 [Ac]2 | "Gm"[GB]D [GB]2 [GB]2 | "F7"Fe edc2 | "Bb"Fd dcB2 | 
+"F7"AB cd eA | "Bb"B2B2z2 :: [K:Ebmaj] "Eb"B>BB4 | G>GG4 | Bc de fe | "Bb7".e2 !>!d4 | 
+"Bb7"A>A A4 | F>FF4 | Bc de gf | "Eb"e2e2z2 :: [K:Abmaj] "Ab"E>D E2c2 | "Db"d4F2 | 
+"Eb7"E>DE2d2 | "Ab"c4E2 | "Ab7"A>GA2=E2 | "Db"F4E2 | "Eb7"c>=B c2 _B2 | "Ab"A2A2z2 :| 
+

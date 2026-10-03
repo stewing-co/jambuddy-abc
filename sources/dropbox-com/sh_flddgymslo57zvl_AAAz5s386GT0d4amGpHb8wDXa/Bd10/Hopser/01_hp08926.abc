@@ -1,0 +1,127 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Hops-Walzer  D
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.17 (hp08926) orig. D-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+A |: "D".d.c .d.f | (ba) (^de) | (gf) .c.d |  ("A7"fe) .c.A | "D"dc df | (ba) ("A7"^de) | "D"fd/f/ ac |1 "D"d2zA :|2 "D"d2za || 
+|: "A7"ga gf | e2ce  | "D"de dc | "Em"B2Ga | "A7"ga gf | ed cB | "D"Af dB |1 "A7"c2za :|2 "A7"c2zA ||
+|: "D"df "A7"ef/e/ | "D"df "A7"ef/e/ | "D"de fg | "A7"eb/a/ ge |  "D"df "A7"ef/e/ | "D"df "A7"ef/e/ | "D"db/a/ "A7"ge |1 "D"d2zA :|2 "D"d2z2 |] 
+% hp08926
+X:2
+T:Hops-Walzer  C 2-
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G |: "C".c.B .c.e | (ag) (^cd) | (fe) .B.c | ("G7"ed) .B.G | "C"cB ce | (ag) ("G7"^cd) | "C"ec/2e/2 gB |1 "C"c2zG :|2 "C"c2zg || 
+|: "G7"fg fe | d2Bd | "C"cd cB | "Dm"A2Fg | "G7"fg fe | dc BA | "C"Ge cA |1 "G7"B2zg :|2 "G7"B2zG ||
+|: "C"ce "G7"de/2d/2 | "C"ce "G7"de/2d/2 | "C"cd ef | "G7"da/2g/2 fd | "C"ce "G7"de/2d/2 | "C"ce "G7"de/2d/2 | "C"ca/2g/2 "G7"fd |1 "C"c2zG :|2 "C"c2z2 |] 
+% hp08926
+X:3
+T:Hops-Walzer  G 7-
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+D |: "G".G.F .G.B | (ed) (^GA) | (cB) .F.G | ("D7"BA) .F.D | "G"GF GB | (ed) ("D7"^GA) | "G"BG/2B/2 dF |1 "G"G2zD :|2 "G"G2zd || 
+|: "D7"cd cB | A2FA | "G"GA GF | "Am"E2Cd | "D7"cd cB | AG FE | "G"DB GE |1 "D7"F2zd :|2 "D7"F2zD ||
+|: "G"GB "D7"AB/2A/2 | "G"GB "D7"AB/2A/2 | "G"GA Bc | "D7"Ae/2d/2 cA | "G"GB "D7"AB/2A/2 | "G"GB "D7"AB/2A/2 | "G"Ge/2d/2 "D7"cA |1 "G"G2zD :|2 "G"G2z2 |] 
+% hp08926
+X:4
+T:Hops-Walzer  F 9-
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+C |: "F".F.E .F.A | (dc) (^FG) | (BA) .E.F | ("C7"AG) .E.C | "F"FE FA | (dc) ("C7"^FG) | "F"AF/2A/2 cE |1 "F"F2zC :|2 "F"F2zc || 
+|: "C7"Bc BA | G2EG | "F"FG FE | "Gm"D2B,c | "C7"Bc BA | GF ED | "F"CA FD |1 "C7"E2zc :|2 "C7"E2zC ||
+|: "F"FA "C7"GA/2G/2 | "F"FA "C7"GA/2G/2 | "F"FG AB | "C7"Gd/2c/2 BG | "F"FA "C7"GA/2G/2 | "F"FA "C7"GA/2G/2 | "F"Fd/2c/2 "C7"BG |1 "F"F2zC :|2 "F"F2z2 |] 
+% hp08926
+X:5
+T:Hops-Walzer  C (5letras transposed)
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+G |: "C".c.B .c.e | (ag) (^cd) | (fe) .B.c | ("G7"ed) .B.G | "C"cB ce | (ag) ("G7"^cd) | "C"ec/2e/2 gB |1 "C"c2zG :|2 "C"c2zg || 
+|: "G7"fg fe | d2Bd | "C"cd cB | "Dm"A2Fg | "G7"fg fe | dc BA | "C"Ge cA |1 "G7"B2zg :|2 "G7"B2zG ||
+|: "C"ce "G7"de/2d/2 | "C"ce "G7"de/2d/2 | "C"cd ef | "G7"da/2g/2 fd | "C"ce "G7"de/2d/2 | "C"ce "G7"de/2d/2 | "C"ca/2g/2 "G7"fd |1 "C"c2zG :|2 "C"c2z2 |] 
+% hp08926
+X:6
+T:Hops-Walzer  G (5letras transposed)
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+D |: "G".G.F .G.B | (ed) (^GA) | (cB) .F.G | ("D7"BA) .F.D | "G"GF GB | (ed) ("D7"^GA) | "G"BG/2B/2 dF |1 "G"G2zD :|2 "G"G2zd || 
+|: "D7"cd cB | A2FA | "G"GA GF | "Am"E2Cd | "D7"cd cB | AG FE | "G"DB GE |1 "D7"F2zd :|2 "D7"F2zD ||
+|: "G"GB "D7"AB/2A/2 | "G"GB "D7"AB/2A/2 | "G"GA Bc | "D7"Ae/2d/2 cA | "G"GB "D7"AB/2A/2 | "G"GB "D7"AB/2A/2 | "G"Ge/2d/2 "D7"cA |1 "G"G2zD :|2 "G"G2z2 |] 
+% hp08926
+X:7
+T:Hops-Walzer  F (5letras transposed)
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+C |: "F".F.E .F.A | (dc) (^FG) | (BA) .E.F | ("C7"AG) .E.C | "F"FE FA | (dc) ("C7"^FG) | "F"AF/2A/2 cE |1 "F"F2zC :|2 "F"F2zc || 
+|: "C7"Bc BA | G2EG | "F"FG FE | "Gm"D2B,c | "C7"Bc BA | GF ED | "F"CA FD |1 "C7"E2zc :|2 "C7"E2zC ||
+|: "F"FA "C7"GA/2G/2 | "F"FA "C7"GA/2G/2 | "F"FG AB | "C7"Gd/2c/2 BG | "F"FA "C7"GA/2G/2 | "F"FA "C7"GA/2G/2 | "F"Fd/2c/2 "C7"BG |1 "F"F2zC :|2 "F"F2z2 |] 
+% hp08926
+X:8
+T: Hops-Walzer D (tinwhistle in D)
+T:hp08926 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+A |: "D".d.c .d.f | (ba) (^de) | (gf) .c.d |  ("A7"fe) .c.A | "D"dc df | (ba) ("A7"^de) | "D"fd/f/ ac |1 "D"d2zA :|2 "D"d2za || 
+|: "A7"ga gf | e2ce  | "D"de dc | "Em"B2Ga | "A7"ga gf | ed cB | "D"Af dB |1 "A7"c2za :|2 "A7"c2zA ||
+|: "D"df "A7"ef/e/ | "D"df "A7"ef/e/ | "D"de fg | "A7"eb/a/ ge |  "D"df "A7"ef/e/ | "D"df "A7"ef/e/ | "D"db/a/ "A7"ge |1 "D"d2zA :|2 "D"d2z2 |] 
+X:9
+T: Hops-Walzer D (tinwhistle in D) solo
+T:hp08926 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:2/4
+L:1/8
+K:D transpose=12
+A |: .d.c .d.f | (ba) (^de) | (gf) .c.d |  (fe) .c.A | dc df | (ba) (^de) | fd/f/ ac |1 d2zA :|2 d2za || 
+|: ga gf | e2ce  | de dc | B2Ga | ga gf | ed cB | Af dB |1 c2za :|2 c2zA ||
+|: df ef/e/ | df ef/e/ | de fg | eb/a/ ge |  df ef/e/ | df ef/e/ | db/a/ ge |1 d2zA :|2 d2z2 |]
+X:10
+T:Hops-Walzer G (tinwhistle in D)
+T:hp08926 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+D |: "G".G.F .G.B | (ed) (^GA) | (cB) .F.G | ("D7"BA) .F.D | "G"GF GB | (ed) ("D7"^GA) | "G"BG/2B/2 dF |1 "G"G2zD :|2 "G"G2zd || 
+|: "D7"cd cB | A2FA | "G"GA GF | "Am"E2Cd | "D7"cd cB | AG FE | "G"DB GE |1 "D7"F2zd :|2 "D7"F2zD ||
+|: "G"GB "D7"AB/2A/2 | "G"GB "D7"AB/2A/2 | "G"GA Bc | "D7"Ae/2d/2 cA | "G"GB "D7"AB/2A/2 | "G"GB "D7"AB/2A/2 | "G"Ge/2d/2 "D7"cA |1 "G"G2zD :|2 "G"G2z2 |] 
+X:11
+T:Hops-Walzer G (tinwhistle in D) solo
+T:hp08926 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:2/4
+L:1/8
+K:G transpose=12
+D |: .G.F .G.B | (ed) (^GA) | ("_c"cB) .F.G | (BA) .F.D | GF GB | (ed) (^GA) | BG/2B/2 dF |1 G2zD :|2 G2zd || 
+|: "_c"cd cB | A2FA | GA GF | E2Cd | "_c"cd cB | AG FE | DB GE |1 F2zd :|2 F2zD ||
+|: GB AB/2A/2 | GB AB/2A/2 | GA B"_c"c | Ae/2d/2 "_c"cA | GB AB/2A/2 | GB AB/2A/2 | Ge/2d/2 "_c"cA |1 G2zD :|2 G2z2 |]
+% July 27, 2016

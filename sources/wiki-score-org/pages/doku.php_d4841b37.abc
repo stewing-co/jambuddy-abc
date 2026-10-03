@@ -1,0 +1,16 @@
+X:202
+T:N.2 Fado (Josepha)
+C:Fonseca, Eduardo da (1863-1938)
+M:C
+L:1/4
+K:C
+V: 2 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+%---
+"pizz." z[G,E][G,G]z |  z[G,F][G,F]z |  z[G,F][G,F]z |  z[G,E][G,E]z  |: \
+zGGz | zGGG |zGGz |1 zGGG :|2 \
+% |zGGz |zGGG |  zGGz |
+zGGz |c2 (c/ !>!_e c/) |_B2-B>B |_A2 (A/ !>!c A/) |G2-G>G | ^F F-F/(_E/D/C/) | G "^col canto" e2-e/e/ |\
+([eG][dF]) ([dF]/ !>![fA] [eG]/) | [dF] ([cE][cE]/) z/z |] \
+%---

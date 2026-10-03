@@ -1,0 +1,109 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Der Munder (Monferina)  G
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.260 (mf00990) orig. G-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:G %%MIDI gchordon
+d | "G"dBd gfe | d2d B2d | "D7"c2c A2c | "G"B2B G2d | dBd gfe | d2d B2d | "D7"ded cBA | "G"G3z2d || 
+"D7"c2c A2e | "G"d2d B2d | "D7"c2c A2e | "G"d2d B2d | dBd gfe | d2d B2d | "D7"ded cBA | "G"G3z3 |] 
+X:2
+T:Der Munder (Monferina)  F 2-
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:F%%MIDI gchordon
+c | "F"cAc fed | c2c A2c | "C7"B2B G2B | "F"A2A F2c | cAc fed | c2c A2c | "C7"cdc BAG | "F"F3z2c || 
+"C7"B2B G2d | "F"c2c A2c | "C7"B2B G2d | "F"c2c A2c | cAc fed | c2c A2c | "C7"cdc BAG | "F"F3z3 |] 
+% mf00990
+X:3
+T:Der Munder (Monferina)  C 7-
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:C%%MIDI gchordon
+G | "C"GEG cBA | G2G E2G | "G7"F2F D2F | "C"E2E C2G | GEG cBA | G2G E2G | "G7"GAG FED | "C"C3z2G || 
+"G7"F2F D2A | "C"G2G E2G | "G7"F2F D2A | "C"G2G E2G | GEG cBA | G2G E2G | "G7"GAG FED | "C"C3z3 |] 
+% mf00990
+X:4
+T: Der Munder (Monferina)  G (5letras transposed)
+R:monferine
+M:6/8
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+d | "G"dBd gfe | d2d B2d | "D7"c2c A2c | "G"B2B G2d | dBd gfe | d2d B2d | "D7"ded cBA | "G"G3z2d || 
+"D7"c2c A2e | "G"d2d B2d | "D7"c2c A2e | "G"d2d B2d | dBd gfe | d2d B2d | "D7"ded cBA | "G"G3z3 |] 
+% mf00990
+X:5
+T:Der Munder (Monferina)  F (5letras transposed)
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+c | "F"cAc fed | c2c A2c | "C7"B2B G2B | "F"A2A F2c | cAc fed | c2c A2c | "C7"cdc BAG | "F"F3z2c || 
+"C7"B2B G2d | "F"c2c A2c | "C7"B2B G2d | "F"c2c A2c | cAc fed | c2c A2c | "C7"cdc BAG | "F"F3z3 |] 
+% mf00990
+X:6
+T:Der Munder (Monferina)  C (5letras transposed)
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+G | "C"GEG cBA | G2G E2G | "G7"F2F D2F | "C"E2E C2G | GEG cBA | G2G E2G | "G7"GAG FED | "C"C3z2G || 
+"G7"F2F D2A | "C"G2G E2G | "G7"F2F D2A | "C"G2G E2G | GEG cBA | G2G E2G | "G7"GAG FED | "C"C3z3 |] 
+% mf00990
+X:7
+T:Der Munder (Monferina) D (tinwhistle in D)
+T:mf00990 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:monferine
+M:6/8
+L:1/8
+K:D%%MIDI gchordon
+A | "D"AFA dcB | A2A F2A | "A7"G2G E2G | "D"F2F D2A | AFA dcB | A2A F2A | "A7"ABA GFE | "D"D3z2A || 
+"A7"G2G E2B | "D"A2A F2A | "A7"G2G E2B | "D"A2A F2A | AFA dcB | A2A F2A | "A7"ABA GFE | "D"D3z3 |] 
+X:8
+T:Der Munder (Monferina) D (tinwhistle in D) solo
+T:mf00990 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:monferine
+M:6/8
+L:1/8
+K:D transpose=12
+A | AFA dcB | A2A F2A | G2G E2G | F2F D2A | AFA dcB | A2A F2A | ABA GFE | D3z2A || 
+G2G E2B | A2A F2A | G2G E2B | A2A F2A | AFA dcB | A2A F2A | ABA GFE | D3z3 |]
+X:9
+T: Der Munder (Monferina) G (tinwhistle in D)
+T:mf00990 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:monferine
+M:6/8
+L:1/8
+K:G %%MIDI gchordon
+d | "G"dBd gfe | d2d B2d | "D7"c2c A2c | "G"B2B G2d | dBd gfe | d2d B2d | "D7"ded cBA | "G"G3z2d || 
+"D7"c2c A2e | "G"d2d B2d | "D7"c2c A2e | "G"d2d B2d | dBd gfe | d2d B2d | "D7"ded cBA | "G"G3z3 |] 
+X:10
+T: Der Munder (Monferina) G (tinwhistle in D) solo
+T:mf00990 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:monferine
+M:6/8
+L:1/8
+K:G transpose=12
+d | dBd gfe | d2d B2d | "_c"c2c A2c | B2B G2d | dBd gfe | d2d B2d | ded "_c"cBA | G3z2d || 
+"_c"c2c A2e | d2d B2d | "_c"c2c A2e | d2d B2d | dBd gfe | d2d B2d | ded "_c"cBA | G3z3 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 5, 2016

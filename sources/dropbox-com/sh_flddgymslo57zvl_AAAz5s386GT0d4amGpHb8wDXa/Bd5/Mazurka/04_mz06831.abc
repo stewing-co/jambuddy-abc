@@ -1,0 +1,59 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Straussens Lob (Mazurka)  CGF (mz06831) ABAC
+T:Hanny Christen. Bd.V  Basel II, Jura. S.21  (mz06831) orig. C,G,F
+T: Basel II. Tänze aus Augst. S.6-42.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+%%partsbox
+P:ABAC
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+[P:A] "C"ggg | e>cc | c'c'c' | "G7"b2z | ggg | f>dd | d'd'd' | "C"c'2z | ggg | e>cc | 
+c'c'c' | "F"a2z | "G7"gab | "C"c'>ba | "G7"agd | "C"e2z  :: [P:B] [K:G] "G"d/d/dd | b>gd | d/d/dd | "D7"c'>af | 
+d/d/dd | f>ed | dfa | d'3 | "G"d/d/dd | b>gd | d/d/dd | "D7"c'>af | d/d/dd | f>ed | 
+edf | "G"g2"_>Teil A"z :: [P:C] [K:F] "F"c'3 | a3 | "D7"c'/a/aa |  "Gm"c'/b/bb | d'3 | b3 | "C7"d'/b/bg/b/ | "F"aa"_Fine"z :| 
+%W:Parts: ABAC
+% mz06831
+% Dec 25, 2017
+
+X:2
+T:Straussens Lob (Mazurka)  CGF (mz06831) 
+S:Hanny Christen. Bd.V  Basel II, Jura. S.21  (mz06831) orig. C,G,F
+S: Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"ggg | e>cc | c'c'c' | "G7"b2z | ggg | f>dd | d'd'd' | "C"c'2z | ggg | e>cc | 
+c'c'c' | "F"a2z | "G7"gab | "C"c'>ba | "G7"agd | "C"e2z  :: [K:G] "G"d/d/dd | b>gd | d/d/dd | "D7"c'>af | 
+d/d/dd | f>ed | dfa | d'3 | "G"d/d/dd | b>gd | d/d/dd | "D7"c'>af | d/d/dd | f>ed | 
+edf | "G"g2"_>Teil A"z :: [K:F] "F"c'3 | a3 | "D7"c'/a/aa |  "Gm"c'/b/bb | d'3 | b3 | "C7"d'/b/bg/b/ | "F"aaz :| 
+W:Parts: ABAC
+% mz06831
+% Dec 25, 2017
+
+X:3
+T:Straussens Lob (Mazurka)  CGF 8v (mz06831) 
+S:Hanny Christen. Bd.V  Basel II, Jura. S.21  (mz06831) orig. C,G,F
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+"C"GGG | E>CC | ccc | "G7"B2z | GGG | F>DD | ddd | "C"c2z | GGG | E>CC | 
+ccc | "F"A2z | "G7"GAB | "C"c>BA | "G7"AGD | "C"E2z :: [K:Gmaj] "G"D/2D/2DD | B>GD | D/2D/2DD | "D7"c>AF | 
+D/2D/2DD | F>ED | DFA | d3 | "G"D/2D/2DD | B>GD | D/2D/2DD | "D7"c>AF | D/2D/2DD | F>ED | 
+EDF | "G"G2"_>Teil A"z :: [K:Fmaj] "F"c3 | A3 | "D7"c/2A/2AA | "Gm"c/2B/2BB | d3 | B3 | "C7"d/2B/2BG/2B/2 | "F"AAz :| 
+W:Parts: ABAC
+% mz06831
+% Dec 25, 2017

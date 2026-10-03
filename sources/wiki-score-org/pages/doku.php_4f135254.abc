@@ -1,0 +1,21 @@
+X:3114
+T:Scena 10.a - Antandro ed Emirena
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:Bb
+V: 14 clef=bass name="[Basso]" sname="B."
+%%MIDI program 1 42
+%%staves [ 14 ]
+%------------------
+"_[fol.324]" [K:C] =E,4 | =E,2F,2 | _E,4 | D,2 ^C,2 | D,4 | C,2 D,2 | F,2 A,2 | _B,4 | \
+z C F,  "^[Aria Antandro]" z || \
+"_[fol.325]" [Q:"Andantino"] [M:2/4] [K:F] z// | !p! F,/z/ C,/z/ | z/F,/z/ F,/ | F,/z/ B,,/z/ | C,/C,/C,/z/ | !f!B,2 !p! | A,z | \
+"_[fol.326]" B,,/z/ C,/z/ | F,/C,/ F,/z/ | F,/z/ C,/z/ | z/F,/ F,/z/ | F,/z/ B,,/z/ | z/ C,/ C,/C/ | \
+"_[fol.327]" !f! A,2 & x !p! x | A,/z/ A,/z/ | B,/z/ C/C,/ | F,/C,/ F,/z/ | F,/z/ F,/z/ | \
+"_[fol.328]" !f! G,/z/ G,/z/ | G,/z/ G,/z/ | z/C/ C,/z/ | (C_B,) | (_A,G,) | \
+"_[fol.329]" "_cresc." (F,!f!^F,) | G,z | !f! C,2- & x !p! x | C,2 | C,E,/z/ | F,/z/ G,/G,,/ | \
+"_[fol.330]" C, !fermata! z | F,/z/ C,/z/ | z/F,/ F,/z/ | F,/z/ B,,/z/ | C,/z/ C,/z/ | !f! B,2 & x !p! x | \
+"_[fol.331]" A,/z/ A,/z/ | B,,/z/ C,/C,/ | F,/z/ F,/C,/ | F,,/z/ F,/C,/ | !f! F,/z/ !//!F, | \
+"_[fol.332]" B,/z/ C/C,/ | F, z |]
+%------------------

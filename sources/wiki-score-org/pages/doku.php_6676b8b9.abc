@@ -1,0 +1,48 @@
+X:116
+T:Overtura
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 16 clef=alto name="Alto" sname="A."
+%%MIDI program 1 1
+%%staves [[ 16 ]]
+%-----------------------------------------------------------------------------------
+z// | Z87 || \
+[M:2/4] [K:C] [L:1/8] [Q: "Andantino" 1/2=30] z | Z23 || \
+[M:C] [Q:1/2=70] Z8 || \
+[K: D] Z54 || \
+[K:F] [L:1/4]  [Q: "Coro - Allegro Maestoso" 1/2=60]  z3/8 | Z27 | \
+A2 A A | A A2 G | G/> F/ F z F | G A G A | G F z2 | \
+w: Re-gni l'ar-di-re in-tre-pi-do Del fie-ro Dio dell' ar-mi
+G A/> A/ G A | G/> F/ F z F | F F E3/4G1/4 C/> C/ | C C z2 | z4 | z4 | \
+w: Re-gni l'ar-di-re'in-tre-pi-do Del fie-ro Dio-- dell'-- ar-mi
+G G/> G/ G G | B/> B/ B z2 | B B/> B/ B B | c/> G/ G z \
+w: Del cam-po'in mez-zo'ai ful-mi-ni Del cam-po'in mez-zo'ai ful-mi-ni tbc
+G | A A A A | G z z2 | G G/> G/ G G | G/> G/ G z G | G G G G | G G z2 | \
+w: Nel cuor d'o-gni guer-rier Re-gni l'ar-di-re'in-tre-pi-do Del fie-ro Dio dell' ar-mi
+G G/> G/ G G | =B/> B/ B z2 | c G/> G/ G G | A/> A/ A z \
+w: Del cam-po'in mez-zo'ai ful-mi-ni Del cam-po'in mez-zo'ai ful-mi-ni
+A | G A G G | G z z2 | z G G G | G z z2 | z G G G | G z z2 | Z5 | \
+w: Nel cuor d'o-gni guer-rier D'og-ni guer-rier D'og-ni guer-rier
+G G/> G/ G G | G/> G/ G z2 | \
+w: Al rim-bom-bar ter-ri-bi-le
+G G/> G/ G G | G/> G/ G z G | _A G F G | F D z2 | z4 | \
+w: Al rim-bom-bar ter-ri-bi-le De' bel-li co-si car-mi
+z2 z G | _A G F G | F D z2 | z4 | z4 | \
+w: De' bel-li co-si car-mi
+=A A/> A/ A A | G G z2 | A A/> A/ G G | F F z \
+w: O-gni fa-tal pe-ri-glio o-gni fa-tal pe-ri-glio
+F | ^G G G G | A z z2 | z4 | A2 A A | A A2 G | G/> G/ F z \
+w: L'af-fret-ti'a sos-te-ner. Re-gni l'ar-di-re in-tre-pi-do
+F | G F G F | G F z2 | G A/> A/ G A | G/> F/ F z F | G G G G | G G z \
+w: Del fie-ro Dio dell' ar-mi Re-gni l'ar-di-re'in-tre-pi-do Del fie-ro Dio dell' ar-mi
+G | G G G G | F/> F/ F z2 | z G G G | F/> F/ F z F | F A G F | A z z2 | \
+w: Del cam-po'in mez-zo'ai ful-mi-ni in mez-zo'ai ful-mi-ni Nel cuor d'o-gni guer-rier tbc
+F F/> F/ F F | F/> F/ F z F | F F F F | F F z F | G F G F | G/> F/ F z \
+w: e-gni l'ar-dire in-tre-pi-do Del fie-ro Dio dell' ar-mi del cam-po'in mez-zo'ai ful-mi-ni
+F | F F E/>G/ C | C z z F | F A G G | A z z  \
+w: Nel cuor d'o--gni guer-rier Nel cuor d'o-gni guer-rier
+F | F A G G | A B A G | A B A G | F z z2 | Z2 |]
+w: Nel cuor d'o-gni guer-rier d'o-gni guer-rier d'o-gni guer-rier.
+%-----------------------------------------------------------------------------------

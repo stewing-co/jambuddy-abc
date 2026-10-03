@@ -1,0 +1,42 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Schottisch.  CGA (st07305) ABACDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.283 (st07305) orig. G,D,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACDC
+R:Schottisch
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+[P:A] "C"ee e/f/e | gg g/a/g | "G7"ad d/e/d | "C"gc c/d/c | ee e/f/e | gg g/a/g | "G7"ad d/e/d | "C"cc cz :|  [P:B] [K:G] 
+("G"B/d/).g gg | ("Am"c/e/).a aa | "D7"c'f/f/ ba | "G"af/g/ !>!d2 | (B/d/).g gg | ("Am"c/e/).a aa | "D7"c'f/f/ ba | "G"g2 !>!"_>Teil A""G7"=f2 || [P:C] [K:C] 
+|: "F"ca ca | "C7"ag g/^f/g | c'e c'e | "F"af f/e/f | ca ca | "C7"ag g/^f/g | c'e c'e | "F"ff f"_Fine"z :| [P:D] [K:A]
+"A"a/a/a a/a/a | a/a/a c'2 | "E7"c'b b/^a/b | "A"ba a/g/a | a/a/a a/a/a | a/a/a c'2 | "E7"c'b b/^a/b | "A".a2 !>!"_>Teil C"c2 |] 
+W:ABACDC
+% st07305
+% June 7, 2017
+
+X:2
+T:Schottisch.  FCD 7- (st07305)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.283 (st07305) orig. G,D,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+"F"AA A/2B/2A | cc c/2d/2c | "C7"dG G/2A/2G | "F"cF F/2G/2F | AA A/2B/2A | cc c/2d/2c | "C7"dG G/2A/2G | "F"FF Fz :| [K:Cmaj] 
+("C"E/2G/2).c cc | ("Dm"F/2A/2).d dd | "G7"fB/2B/2 ed | "C"dB/2c/2 !>!G2 | (E/2G/2).c cc | ("Dm"F/2A/2).d dd | "G7"fB/2B/2 ed | "C"c2 !>!"_>Teil A""C7"_B2 || [K:Fmaj] 
+|: "Bb"Fd Fd | "F7"dc c/2=B/2c | fA fA | "Bb"dB B/2A/2B | Fd Fd | "F7"dc c/2=B/2c | fA fA | "Bb"BB B"_Fine"z :| [K:Dmaj]
+"D"d/2d/2d d/2d/2d | d/2d/2d f2 | "A7"fe e/2^d/2e | "D"ed d/2c/2d | d/2d/2d d/2d/2d | d/2d/2d f2 | "A7"fe e/2^d/2e | "D".d2 !>!"_>Teil C"F2 |] 
+W:ABACDC
+% st07305
+% June 7, 2017
+

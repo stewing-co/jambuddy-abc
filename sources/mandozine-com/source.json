@@ -1,0 +1,18 @@
+{
+  "name": "Tunes from Mandozine",
+  "license": "Not stated; tunes believed traditional",
+  "origin": [
+    "http://www.mandozine.com/music/",
+    "https://www.mandozine.com/music/index.html"
+  ],
+  "found_via": "https://abcnotation.com/tunes",
+  "downloaded": "2026-10-02",
+  "files": 6,
+  "pages_crawled": 1025,
+  "pages_unvisited": 0,
+  "failures": [
+    "http://www.mandozine.com/music/search_results.php?searchfor=Limehouse+Blues&tuneselectby=C&mandolevel=&category=&songkey=&artist=&transcriber=&sortby=T&sortorder=A&submit=Find+TableEdit+Files: [Errno 60] Operation timed out",
+    "https://www.mandozine.com/music/search_results.php?searchfor=And+Your+Bird+Can+Sing: <urlopen error [Errno 60] Operation timed out>",
+    "http://www.mandozine.com/music/zipfiles.php: HTTP Error 404: Not Found"
+  ]
+}

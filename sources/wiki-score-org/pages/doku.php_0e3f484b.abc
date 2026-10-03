@@ -1,0 +1,25 @@
+X:101
+T:[Kyrie]
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 1 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%------------------
+[Q:"Largo"] !pp!(F2EF2G | A3FAG) | !p!(F2EF2G | F3 D2F | !p!.G)(G_A) .G.G.G | c(ce/d/) (cBb) | (BAa) (AGg) | \
+(GFf) (FEd/c/) | !pp! (F2G A2 B) | Ac !p!f- fef-|fed- dcd-|dcd- d(cB/G/) | !p! (F2EF2G|"_cresc."A2[D=B])[Ec]2[E^c] | \
+[Fd]2 !f![^F^d][Ge]2[_Bg]|[A=f]2!p!(=dc2B|A2)z!>!d2z|!p!d2=Bc2e-|e2(dc2)!p!c|.c.c.c (d2=B)|c2zz2z|!p!(F6|E2)zz2z|
+!p!F6|E"_cresc"FE A=Bc | !f!d3e2d | !>!^c2!p!(e gf2) | e(d cd2=B) | !f!c=Bc de^f | g2=fe2d |
+!>!^c2!p!e gf2 | (ed =cd2=B | c2)z!p!(D3 | E3F3 | G2G)-G2!p!G- | !fermata!G6 || [Q:"Allegretto"][M:3/8]z3 | z3 | z3 |
+zz!p!a- | a^g=b- | =bac'- | c'=bd' | c'2!f!c'- | c'2c'- | d/ggg/ | !f![Ee][Ee][Ee] | [Ee]2z | !f![Ee][Ee][Ee] |
+[Ee]2z | !f![Ee][Ee][Ee] | [Ee]2z | !f![Ee][Ee][Ee] | [Ee]2z | c'=ba- | ag^f | aga/=b/ | !f!c'cd | edc |
+!f!A/ddd/ | =B/eee/ | !f!c/fff/ | !f![Ff][Ff][Ff] | fF!f!f- | f2e- | e2!f!d- | d2^c |
+!f!ddd | dGd- | d^ce- | edf- | feg- | gf!f!a- | a^g=b- | =ba!f!c'- | c'=bd' | c'/g/e/c/ G/E/ |
+!f!C/ccc/ | D/ddd/ | !f!E/eee/ | F/fff/ | !f!G/ggg/ | A/aaa/ | !f!(3b/a/c'/ (3b/a/g/ (3f/e/d/ |
+(3c/=B/d/ (3c/_B/A/ (3G/F/E/ | !p!D(C_D) | C(C_D) | !p!C(C_D) | !fermata!C3 || [Q:"Largo"][M:6/8]!pp!(F2GA2B |
+Ac) !p!f- fef- | fed- dcd- | dc=B (dc_B/G/) | !p!(F2EF2G) | "_cresc."A2[D=B][Ec]2[E^c] |
+[Fd]2[K:D]!f![Fd][Ge]2[_Bg] | [A=f]2!p!(=dc2B) | A3!p!d3- | dzz!p!E3 | F2z!p!f3- | f3g2e | f2f-f2f- |
+f2z!p![B,E]2z | [A,F]2z!>!G2E | F2F!>!G2E | F3!p!F3 | !fermata!F6 |]
+%------------------

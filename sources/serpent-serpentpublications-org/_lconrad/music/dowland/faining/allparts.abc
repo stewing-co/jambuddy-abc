@@ -1,0 +1,168 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XVI. Fie on this faining,
+T:CANTUS.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+K:D min
+A2 F G A2 A 
+w: 1.~Fie on this fain- ing, 
+w: 2.~Shew some re- lent- ing,
+w: 3.~Truth is not plac- ed
+d |  c A B > G A4 |
+w: Is love with- out de- sire,
+w: Or graunt thou doest now love,
+w: In words and forc- ed smiles,
+A2 F G A2 A 
+w: Heat still re- main- ing
+w: Two hearts con- sent- ing
+w: Love is not grac- ed
+d | c A B B A4 
+w: And yet no sparke of fire?
+w: Shall they no com- forts prove?
+w: With that which still be- guiles,
+|: z c d c f3 c | d c A > d ^c2 c2 |
+w: Thou art un- true, nor wert with fan- cie mov- ed,
+w: Yeeld, or con- fesse that love is with- out plea- sure,
+w: Love or dis- like, yeeld fire, or give no fu- ell,
+ d d e d g3 f | e d d ^c d2 d2  :|
+w: For de- sire hath powre on all that e- ver lov- ed.
+w: And that wo- mens boun- ties rob men of their trea- sure,
+w: So maist thou prove kind, or at the least lesse cru- ell.
+
+X:2
+T:XVI. Fie on this faining,
+T:ALTUS.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+N:Original clef, C on first line
+K:D min
+F2 D E F F
+w: 1.~Fie on this fain- ing, 
+w: 2.~Shew some re- lent- ing,
+w: 3.~Truth is not plac- ed
+A G > F F2 E F4
+w: Is love with- out de- sire:
+w: Or graunt thou doest now love,
+w: In words and forc- ed smiles,
+F2 D E F F
+w: Heat still re- main- ing,
+w: Two hearts con- sent- ing
+w: Love is not grac- ed
+A G > F F2 E F4
+w: And yet no sparke of fire?
+w: Shall they no com- forts prove?
+w: With that which still be- guiles,
+|: A2 F/ G/ A > B c > B A/ G/ F . E F/ G/ A A2 A2
+w: Thou art un- true, thou art un- true, nor wert with fan- * cie mov- ed,
+w: Yeeld, or con- fesse, yeeld, or con- fesse that love is with- * out plea- sure,
+w: Love or dis- like, love or dis- like yeeld fire, or give * no fu- ell,
+z F/ F/ B > A G F E D/ d/ c A B A/ G/ ^F2 F2  :|
+w: For de- sire hath powre on all, on * all that e- ver _ lov- ed.
+w: And that wo- mens boun- ties rob men, _ rob  men of their _ trea- sure,
+w: So maist thou prove kind, or at the least, the * least lesse _ cru- ell.
+
+X:3
+T:XVI. Fie on this faining,
+T:TENOR.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+N:Original clef, C on third line
+%%MIDI transpose -12
+K:D min -8va
+c2 d B c2 c
+w: 1.~Fie on this fain- ing, 
+w: 2.~Shew some re- lent- ing,
+w: 3.~Truth is not plac- ed
+d e d/ c d/ B c4
+w: Is love with- out de- * sire,
+w: Or graunt thou doest now * love,
+w: In words and forc- ed * smiles,
+c2 e B c2 c
+w: Heat still re- main- ing
+w: Two hearts con- sent- ing
+w: Love is not grac- ed
+d e d/ c d/ B c4
+w: And yet no sparke of _ fire?
+w: Shall they no com- forts _ prove?
+w: With that which still be- * guiles,
+|: f3 f/ g/ a > g f > e d f c f e e
+w: Thou art un- true, un- true nor wert with fan- cie mov- ed,
+w: Yeeld, or con- fesse, con- fesse  that love is with- out plea- sure,
+w: Love or dis- like, dis- like yeeld fire, or give no fu- ell,
+e/ e/ f > e d f/ G A/ B3 A G/ g/ f e e d2 d2 :|
+w: For de- sire, de- sire hath powre, hath powre on all _ that e- ver lov- ed.
+w: And that wo- mens, wo- mens boun- ties, boun- ties rob _ men of their trea- sure,
+w: So maist thou, maist thou prove kind, prove kind or at _ the least lesse cru- ell.
+
+X:4
+T:XVI. Fie on this faining,
+T:BASSUS.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+N:Original clef, F on third line
+%%MIDI transpose -24
+K:D min bass
+f2 b g f2 f
+w: 1.~Fie on this fain- ing, 
+w: 2.~Shew some re- lent- ing,
+w: 3.~Truth is not plac- ed
+b a f g g f4
+w: Is love with- out de- sire,
+w: Or graunt thou doest now love,
+w: In words and forc- ed smiles,
+f2 b a f2 f
+w: Heat still re- main- ing
+w: Two hearts con- sent- ing
+w: Love is not grac- ed
+b a f g g f4
+w: And yet no sparke of fire?
+w: Shall they no com- forts prove?
+w: With that which still be- guiles,
+|: f2 b g f3 f b a/ g/ f/ e/ d a a2
+w: Thou art un- true, nor wert with fan- * * cie mov- ed,
+w: Yeeld, or con- fesse that love is with- * * out plea- sure,
+w: Love or dis- like, yeeld fire, or give * * no fu- ell,
+a/ a/ b > a g f e d ^c d a f g a d2 d2  :|
+w: For de- sire, de- sire hath powre on all, on all that e- ver lov- ed.
+w: And that wo- mens, wo- mens boun- ties, boun- ties rob men of their trea- sure,
+w: So maist thou, maist thou prove kind, prove kind or at the least lesse cru- ell.

@@ -1,0 +1,63 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Giger sein, das ist fein (nach Seewer Seppi)  GCF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.251 (pk00690) orig. G,C,F-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"B2d2 !>!d4 | G2B2 !>!B4 | B2BB A2G2 | "D7"F2A2A4 | c2e2!>!e4 | d2f2 !>!f4 | 
+d2fe d2ef | "G"g4z4:: [K:C] "C"c'2g2 gfe2 | c'2g2 gfe2 | "G7"defg b2a2 | "C"a2g2g4 | 
+c'2g2 gfe2 | c'2g2 gfe2 | "G7"defg a2b2 | "C"c'6z2:: [K:F] "F"c2c2 c3B | A2A2 A3G | F2F2 d3c  | 
+"C7"c4B4 | B2BB B3A | G2G2 G3F |1 E2G2 c3B | "F"B4A4 :|2 E2G2 c3e | "F"f6z2 |] 
+X:2
+T:Giger sein, das ist fein (nach Seewer Seppi)  GCF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"B2d2 !>!d4 | G2B2 !>!B4 | B2BB A2G2 | "D7"F2A2A4 | c2e2!>!e4 | d2f2 !>!f4 | \
+d2fe d2ef | "G"g4z4:: [K:C] 
+"C"c'2g2 gfe2 | c'2g2 gfe2 | "G7"defg b2a2 | "C"a2g2g4 | \
+c'2g2 gfe2 | c'2g2 gfe2 | "G7"defg a2b2 | "C"c'6z2:: [K:F]
+ "F"c2c2 c3B | A2A2 A3G | F2F2 d3c  | \
+"C7"c4B4 | B2BB B3A | G2G2 G3F |1 E2G2 c3B | "F"B4A4 :|2 E2G2 c3e | "F"f6z2 |] 
+% pk00690
+X:3
+T:Giger sein, das ist fein (nach Seewer Seppi) AD&G (tinwhistle in D)
+T:pk00690 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:A%%MIDI gchordon
+"A"c2e2 !>!e4 | A2c2 !>!c4 | c2cc B2A2 | "E7"G2B2B4 | d2f2!>!f4 | e2g2 !>!g4 | 
+e2gf e2fg | "A"a4z4:: [K:D] "D"d'2a2 agf2 | d'2a2 agf2 | "A7"efga c'2b2 | "D"b2a2a4 | 
+d'2a2 agf2 | d'2a2 agf2 | "A7"efga b2c'2 | "D"d'6z2:: [K:G] "G"d2d2 d3c | B2B2 B3A | G2G2 e3d | 
+"D7"d4c4 | c2cc c3B | A2A2 A3G |1 F2A2 d3c | "G"c4B4 :|2 F2A2 d3f | "G"g6z2 |] 
+X:4
+T:Giger sein, das ist fein (nach Seewer) AD&G (tinwhistle in D) solo
+T:pk00690 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:A transpose=12
+c2e2 !>!e4 | A2c2 !>!c4 | c2cc B2A2 | "_#"G2B2B4 | d2f2!>!f4 | e2"_#"g2 !>!g4 | \
+e2"_#"gf e2f"_#"g | a4z4:: [K:D]
+ d2A2 AGF2 | d2A2 AGF2 | EFGA c2B2 | B2A2A4 | \
+d2A2 AGF2 | d2A2 AGF2 | EFGA B2c2 | d6z2:: [K:G]
+ d2d2 d3"_c"c | B2B2 B3A | G2G2 e3d | \
+d4"_c"c4 | c2cc c3B | A2A2 A3G |1 F2A2 d3"_"c | "_c"c4B4 :|2 F2A2 d3f | g6z2 |]
+% Part B 1 octave down
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 4, 2016

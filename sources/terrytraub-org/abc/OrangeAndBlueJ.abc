@@ -1,0 +1,24 @@
+X: 1
+P: Orange and Blue a.k.a. Hot Rum
+Q: "With spirit."
+C: from John Chambers / Hamilton Universal Tune-Book 1844
+R: jig
+B: W. Hamilton "Universal Tune-Book" Vol. 1 Glasgow 1844 p.17 #2
+S: http://imslp.org/wiki/Hamilton's_Universal_Tune-Book_(Various)
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+N: Rewrote last bar as 2 endings, since ABC doesn't represent alternate notes with different head sizes.
+M: 6/8
+L: 1/8
+K: C
+%%slurgraces yes
+%%graceslurs yes
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+g !segno!|:\
+"C"e2c {d}cBc | G2c E2c | e2c ege | c3 cde |\
+"Dm"f2d d2c | B2d d2c | "G"B2G BdB | GBc def |
+"C"e2c {d}cBc | G2c E2c | e2c ege | c3 ceg |\
+"F"a2f "C"g2e | "G"f2d "C"e2c | "G"BdB GAB | "C"c3 c2 |] f |
+"C"e2g gag | e2g gag | e2c ege | c3 cde |\
+"Dm"f2a aga | f2a aga | f2d faf | "G"d3 def |
+"C"efg gag | efg gag | ecd ege | ccd efg |\
+"F"afa "C"geg | "G"fdf "C"edc | "G"BdB GAB |1 "C"cag "G"fed !segno! :|2 "C"c3 c3 |]

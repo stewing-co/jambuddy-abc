@@ -1,0 +1,70 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:  Walzer  CF chords
+T:Hanny Christen. Bd.I  Z\"urich, Schaffhausen, St. Gallen I. S.122 (wz00173) orig. C,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"cec | (A3 | A)ec | G2z | Gce | "G7"(g3 | g)df | "C"e3 | 
+cec | (A3 | A)ec | (G3 | G)Bc | "G7"a2g | d2e | "C"c>cc | 
+cze/d/ || "Am"c2A | cBA | "E7"^G2e | e3 | ^g2e | B2d | "Am"c2B | 
+"Am"A2z | "Dm"a3 | "G7"dfa | "C"g3 | ceg | "G7"f3 | Bde | "C"c>cc | 
+czz || [K:F] "F"A3 | =B2c | a3 | f2z | cza | gzf | "Gm"ed>^c | 
+d2z | G3 | B2d | b3 | g2z | "C7"fe/^d/e | ec/=B/d | "F"dc/=B/c | "C7"d2c | 
+"F"A3 | =B2c |  a3 | f2z | czd | ezf | "Gm/Bb"^f2g | d3 | "Gm"b>ab | 
+dgb | "F"aga | cfa | "C7"g>^fg | ede | "F"f>ff | fzz |] 
+
+X:2
+T:  Walzer  CF chords (align)
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"cec | (A3 | A)ec | G2z | Gce | "G7"(g3 | g)df | "C"e3 | \
+cec | (A3 | A)ec |
+ (G3 | G)Bc | "G7"a2g | d2e | "C"c>cc | \
+cze/d/ || "Am"c2A | cBA | "E7"^G2e | e3 | ^g2e |
+ B2d | "Am"c2B | \
+"Am"A2z | "Dm"a3 | "G7"dfa | "C"g3 | ceg | "G7"f3 | Bde | "C"c>cc | \
+czz ||
+ [K:F] "F"A3 | =B2c | a3 | f2z | cza | gzf | "Gm"ed>^c | \
+d2z | G3 | B2d | b3 |
+ g2z | "C7"fe/^d/e | ec/=B/d | "F"dc/=B/c | "C7"d2c | \
+"F"A3 | =B2c |  a3 | f2z | czd |
+ ezf | "Gm/Bb"^f2g | d3 | "Gm"b>ab | \
+dgb | "F"aga | cfa | "C7"g>^fg | ede | "F"f>ff | fzz |] 
+
+X:3
+T:Walzer  GC 5- chords
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+"G"GBG | (E3 | E)BG | D2z | DGB | "D7"(d3 | d)Ac | "G"B3 | 
+GBG | (E3 | E)BG | (D3 | D)FG | "D7"e2d | A2B | "G"G>GG | 
+GzB/2A/2 || "Em"G2E | GFE | "B7"^D2B | B3 | ^d2B | F2A | "Em"G2F | 
+"Em"E2z | "Am"e3 | "D7"Ace | "G"d3 | GBd | "D7"c3 | FAB | "G"G>GG | 
+Gzz || [K:Cmaj] "C"E3 | ^F2G | e3 | c2z | Gze | dzc | "Dm"BA>^G | 
+A2z | D3 | F2A | f3 | d2z | "G7"cB/2^A/2B | BG/2^F/2A | "C"AG/2^F/2G | "G7"A2G | 
+"C"E3 | ^F2G | e3 | c2z | GzA | Bzc | "Dm/F"^c2d | A3 | "Dm"f>ef | 
+Adf | "C"ede | Gce | "G7"d>^cd | BAB | "C"c>cc | czz |] 
+
+X:4
+T:Walzer  GC 5- chords (align)
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+"G"GBG | (E3 | E)BG | D2z | DGB | "D7"(d3 | d)Ac | "G"B3 | \
+GBG | (E3 | E)BG |
+(D3 | D)FG | "D7"e2d | A2B | "G"G>GG | \
+GzB/2A/2 || "Em"G2E | GFE | "B7"^D2B | B3 | ^d2B |
+F2A | "Em"G2F | \
+"Em"E2z | "Am"e3 | "D7"Ace | "G"d3 | GBd | "D7"c3 | FAB | "G"G>GG | \
+Gzz ||
+[K:Cmaj] "C"E3 | ^F2G | e3 | c2z | Gze | dzc | "Dm"BA>^G | \
+A2z | D3 | F2A | f3 |
+d2z | "G7"cB/2^A/2B | BG/2^F/2A | "C"AG/2^F/2G | "G7"A2G | \
+"C"E3 | ^F2G | e3 | c2z | GzA |
+Bzc | "Dm/F"^c2d | A3 | "Dm"f>ef | \
+Adf | "C"ede | Gce | "G7"d>^cd | BAB | "C"c>cc | czz |] 

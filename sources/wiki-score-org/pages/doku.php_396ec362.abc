@@ -1,0 +1,33 @@
+X:101
+T:[D1] Allegro ma non troppo
+C:Costa, Abade António da (1714-c1780)
+M:2/4
+L:1/4
+K:Gb
+V: 1 clef=treble name="Violino I.mo" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [ 1 ]
+%----- edit between the lines
+[Q:"Allegro ma non troppo"] "_[fol.2]" [L:1/16] (c Beg)(b | c'ae)(c Beg)(b |faB)(c B=Bf)"^II"(b | a=g).e.B (_A=G).B.e | (_dcB)._F (E=G_B)(e | _d_c).A.E (DCE).A |
+(E=D2)(A2=F2)(c | c=D2)(=F AF=D)(c | BA).=d.=f .b.f.=d.B | (e_d) .=G.E (A_cB).D | (B_A_G)(B_g4 | e2) z2(B4 | _G2) z2 z4 |z4 z2 (B2 |: [K:Eb] [M:3/4] [L:1/8] "^L'istesso tempo." e=c2) (_B =A)(=g |
+_B=f2_A2)(f |=de)(G2=c)(=F | _B=D _E) z z (B | e3=c =A)(=g | _B =f2)(_A2 =d | _d =G2 _E =G)(=f | _A_e2) (_d=F)(_E | =GA) z2 ([ce]2 | [Be]2_d) z (=E2 |
+B2 E) z [Be-]2 | [eB] (_d2 c2) (b | =c')(_a e) z ([ce]2 | [Be]2 _d) z ([ec']2 | [_dc']2 b) z ([B_D]2 | [CB]2 =E) z =E z | c6 & (G2=A2 _B2 | z x (=a2 f) z & =A) z  | F6 & (C2=D2_E2 | z z d z =A z & D x3)( |
+f6 & (c2 =d2 _e2 | x6 & d) z (d'2 b) z | B6 & (F2 =G2 _A2 | z x (b2 _a2 & G) z x4 | _B)(=g =c2) (g2 | =A)(=f =c2) (=d2 | =G)(_e =f2) .c2 :|: (_e2 de =c)(f | _B_a =d)(=f b_e |
+_c) (_a2 =g2) (_B :| _e2 ed =c)(f |: b/) z// .f//  !trill!(f3/4=e/8f/8) .d/ z// B// !trill!(B3/4=A/8B/8) .F/ z//._A//  !trill!(A3/4G/8A/8) | .G/ z// .e// .B/  z// .g// .e/  z// .b// .g/  z// .e'// .b/ z/ (_d | =Ge B)(_D =G,)(E |
+A,/) z// .C// .A,/  z// .E// .C/  z// .A// .E/  z// .c// .A/ z/ (=f | _e/) z// .B//  !trill!(B3/4=A/8B/8) .G/ z// E// !trill!(E3/4D/8E/8) .B,/ z//._D//  !trill!(D3/4C/8D/8) | .C/ z// .A// .E/  z// .c// .A/  z// .e// .c/  z// .a// .e/ z/ (e |
+B/) z// .E//  !trill!(E3/4D/8E/8) .=c/ z// _A// !trill!(A3/4G/8A/8) ._B/ z//=F//  !trill!(F3/4=E/8F/8) | .=E/ z// .c// .G/  z// .=e// .c/  z// .g// .e/  z// .c'// .g/ z/ (g |  c'/) z// .g//  !trill!(g3/4^f/8g/8) .=e/ z// .c// !trill!(c3/4=B/8c/8) .G/ z// ._B//  !trill!(B3/4=A/8B/8) |
+=A/ z// .f// .c/  z// .=a// .f/  z// .c'// .=a/  z// .f'// .c'/ z/ (_e | =Af c)(_E =A,)(F | B,/) z// .D// .B,/ z// .F// .D/  z// .B// .F/  z// .d// .B/ z/ (c | f/) z// .c//  !trill!(c3/4=B/8c/8) .=A/ z// .=F// !trill!(F3/4=E/8F/8)
+.C/ z// ._E//  !trill!(E3/4D/8E/8) |  .D/ z// .B// .F/  z// .=d// .B/ z// .f// .d/  z// .b// .f/ z/ (f | "_fix" c/) z// .F//  !trill!(F3/4E/8F/8) .=d/ z// _B// !trill!(B3/4=A/8B/8) .=c/ z//G// !trill!(G3/4^F/8G/8) |.^F/ z// .d// .=A/  z//  .^f// .d/  z// .=a// .^f/ z// d'//
+=a/ z/ (=c | ^F=A d)(G _E)(=c | ^f)(=A =B)._e (G=f/) z// .d// | (_A/G/).c/ z// .=B// (_e/=d/).=f/ z// .=e// (g/f/)._a/ z// .g// | (f/=e/).g/ z// .=B//  (=d/c/).=f/ z// .=e// (_ag/) z/ |
+"_[fol.3]" (=E=G c)(F _D)(_B | =e)(=G =A)._d (F_e/) z// .=c// |
+(_G/F/).B/ z// .=A//  (_d/c/)._e/ z// .=d// (f/e/)._g/ z// .f// | (_e/=d/).f/ z// .=A//  (_d/c/)._e/ z// .=d// (_gf/) z/ | (FB, E).=D(B/=D/=F/_A/) |
+(E/=G/B/)(e/ =c _B/) (_D2=G,/) | (E/=C)(EB,).=G/ (=c/=E/G/_B/) | (F/=A/c/)(f/ =d =c/) (_E2 =A,/) | (F/B)(=d/ =c/)(=D=A/) (=d/^F/=A/=c/) | (G/=B/d/)(g/ _e/d) (=F2 =B,/) | (G/C)(=EF).=d/ (g/=B/d/=f/) |
+(c/_e/g/)(c'/ _b/g/)(=B c/G/)(_e/=A/ | ^F/)(d/=c/)(=A/ =G^F/)(d/ =A/)(D/^F/)(=A/ | =B/=c/).^F/.=A/ (d/_B/)._e/.=c/ (^f/=d/).g/.=e/ | (=a/^f/) .=F/.=c/ (_E/D/^F/)(d/ =A/)(D/^F/)(=A/ | =B/=c/).^F/.=A/ (d/_B/_e/)(^F/ G/_B/=A/)(c/ "^check this"||
+c/_B/).=A/.G/ (^F/G/) z z/ =f/"^4:"(f :|: =B/d/_e/)g/ (=f/d/a =d)(_B | _a2 =f2 _b)(=d | d e2 _B2) (=A | B=g =f2)(_A2 | A=G) .e2 (_G2 | _GF) (=c2 =A) z | f6 & (c2 =d2 e2 |
+X & d) z (D2 B,) z | B6 & (F2 =G2 _A2 | X & G) z (B'2 c') z | b6 & (f2 =g2 a2 | X & g) z (G2 E) z | e6 & (B2 c2 _d2 | X & c) z (e'c' _d')(g | X & a)(e f2 =d)c'- | c'(e b2) (_d2 | _db =ca2) (_c |
+c =f2 b2) (a | a =d2 f2) (B | a2 g)(B =Ag | B) .f2 (B Af | G) .e2 (A _Ge | =F) .c2 (=A gf | c) (e2 d c)(e |
+ed) z (c' =db | e)(B ca B)(f | a2 g)(a c'b | e)(B c a2) (d | aB g)(f Ge | e)(B _dc B)(_d | _d c2 e2) (a |
+c'2 af =d)(c' | e b2 g _d)(b | c a2 e _c)(a | B3 =f =d) z | [K:Gb] [M:2/4] [L:1/16] "_l'istesso tempo." z2 z (c Beg)(b |
+c'ae)(c Beg)(b | faB)(c B=d=f)(b | a=g).e.B (A=G).B.e | (dcB)_F (E=G"_check =+b"=B)(e | dc).A.E
+(DC).E.A  | (E=D2)(A2=F2)(c | c=D2)(F AF=D)(c | BA).=d.f (bf).d.B | (e_d) .=G.E (Ac B).=D | (BAG)(B _g4 | e2) z2 (B4 | G2) z2 |]
+%---------------------------------

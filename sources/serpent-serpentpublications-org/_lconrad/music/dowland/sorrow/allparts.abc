@@ -1,0 +1,76 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:III. Sorrow sorrow stay,
+T:Canto
+C: John Dowland
+O: From The Second Booke of songs or Ayres of 2/ 4/ amd 5/parts: with Tableture for the Lute or orpherian, with the Violl de Gamba.
+%%MIDI nobarlines
+%%gchordfont Helvetica 12 box
+N: Original clef C on first line
+M:C
+L:1/4
+K:G dor
+z2 B3 A A3 G G2 | z4 z2 z c | B G B B | A4 z4 |
+w:Sor- row sor- row stay, lend true re- pen- tant teares,
+z2 z G/ G/ G2 ^F2 | G3 A B > c A2 G4 z4 | z2 B2 z A2 c | B A2 G2 F
+w:to a woe- full, woe- full wretch- * ed wight, hence, hence, dis- paire with they tor-
+E > E D4 | z d d2 z d2 c/ B/ | A G c3 B A > A "A"G4 | z2 z G > G G/ G/ G G |
+w:ment- ing feares: doe not, O doe _ not my heart poore heart af- fright, pit- ty, pit- ty, pit- ty,
+z2 z A > A A/ A/ A A | z B A B c2 B2 | z d c F _B A > D G | ^F2 z d c F B A > D G ^F2 | z4 z2 z 
+w:pit- ty, pit- ty, pit- ty, help now or ne- ver, mark me not to end- * lesse paine, mark me not to end- * lesse paine, 
+c | B A G B A2 z2 | z2 z c B A G B | A2 z A A A B A | G2 ^F2 z B G2 | z c
+w: a- las I am con- dempne'd,  a- las I am con- dempne'd, I am con- demp- ned e- ver, no hope, no
+A2 z B A > A | "B"G2 z d2 c2 B2 A2 G > G ^F z d2 c2 B2 A2 G > G ^F z D |
+w:help, ther doth re- maine, but downe, down, down, down I fall, but downe, down, down, down I fall,  downe
+G A B2 | z F B c d8 | z B A > A | G2 z d2 c2 B2 A2
+w:and a- rise, downe and a- rise, I ne- ver shall, but downe, downe, downe
+G > G ^F z d2 c2 B2 A2 G > G ^F z D | G A B2 z F B c | d8
+w:downe, I fall, but downe, downe, downe, downe I fall, downe and a- rise, downe and a- rise, 
+"(1)"d8 | z B A > A HG8 |]
+w: * I ne- ver shall.
+N:(1)I suspect that there should be a tie between this and the previous note;
+N: Dowland has them on two separate lines, but doesn't provide a new word.
+
+X:2
+T:III. Sorrow sorrow stay,
+T:Basso
+C: John Dowland
+O: From The Second Booke of songs or Ayres of 2/ 4/ amd 5/parts: with Tableture for the Lute or orpherian, with the Violl de Gamba.
+%%MIDI nobarlines
+%%gchordfont Helvetica 12 box
+%%MIDI transpose -24
+M:C
+L:1/4
+K:G dor bass
+g4 ^f4 g3 g d3 d' =b c' a > a g2 z G d3 e f d f2 e4 d4 G2
+w:Sor- row sor- row stay, lend true re- pen- tant teares, lend true re- pen- tant re- pen- tant teares,
+g g g2 ^f2 g3 a b > c' a2 g2 z G d > e f c d > c B B A4 d2 g ^f G > G
+w:to a woe- full, woe- full wretch- * ed wight, hence, hence, dis- paire with they tor- ment- ing feares, with they tor- ment- ing 
+d > d B G B c d _e c2 d3 d "A"G4 c8 A6 d2 G g d g f2 B2 B2 A2
+w:feares, Oh doe not my poore heart my poore heart af- fright: pit- tie, pit- tie, help now or ne- ver, mark mee
+  G   d  B     G    d > c  B2   A2 G   d f     B      d2 g f2 d c B A2 G d B G A2 d > d c B A2 G d B G
+w:not to end- lesse paine, O mark me not to end- lesse paine, a- lasse I am con- dem- ned, con- dem- ned e- ver: a- lasse I am con- dem- ned, con-
+A2 d2 z d G ^F G2 d2 G2 z c A2 z d B G d > d "B"G2 g2 f2 _e2 d2 c B A2 G > g
+w:demn- ed, I am con- demn'd e- ver,  no hope, no help, ther doth re- maine, but downe, downe, downe, downe, downe I fall, but
+f2 _e2 d2 c B A > A G2 z d g a b2 z F B c d e ^f g2 ^f g G d > d G2 g2 f2 _e2
+w: downe, down, down, down, down, down I fall,  downe and a- rise, downe and a- * * rise, a- rise *  I ne- ver shall, but downe, downe,
+d2 c B A2 G > g f2 e2 d2 c B A > A G2 z d g a b2 z F B c d e ^f g2 ^f g d f
+w:downe, downe, downe I fall, but downe, downe, downe, downe, downe, downe I fall, downe and a- rise, downe and a- * * rise,  a- * rise, a- rise,
+B d G B ^F G > G d d HG8 |]
+w: a- rise, a- rise, a- rise I ne- ver shall.
+

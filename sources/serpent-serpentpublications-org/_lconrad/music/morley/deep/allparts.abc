@@ -1,0 +1,189 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:IX. Deep lamenting
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+N: original clef: C on first line
+M:C
+K:C
+T: Cantus
+L:1/4
+%1
+z4 d6  B2  B4   G6    c3    B A  G A B c3 B/ A/ B2 c2 B3 A G2\
+w:Deep la- men- ting, grief be - _ _ _ wray - _ _ ing: grief be- wray-
+%2
+  ^F4  d6   c2 B2   A2 G2   E2   ^F2  G3  E A3 G G4 ^F2 "A"G2 z d d/ c/ B/ A/\
+w:ing; pore A - min- tas thus sat, thus sat say - _ _ ing: Glut now, now glut thine
+%3
+G G c > d e2 d G B > c d B A2 B4 z2 G3 G G2 c3 B\
+w:eyes, glut now thine eies full, while I lye heere a dy- ing; kild with dis- daine, a-
+%4
+  A    G   ^F   G   A   B/ c/ d B A2  f4  e3   d  d4 ^c2 "B"d4 z4 z4 z4 d2 B c > B A\
+w:las, and pit- tie pit - _   _ _ ty, and pit- ty cry - ing.  Now, now maist thou laugh
+%5
+B/ c/ d/ B/ c/ B/ B/ A// G// A A B d d3 c B A G2 c2 c B A G ^F G\
+w:full _ _ _ _ _ _ _ _ me- ri- ly: for dead lo is the man, dead is thy mor- tall, mor- tall
+%6
+  G ^F "C"G4 z2 ^G4 ^G2 A2 E2 F4 E2 A4 A2 ^c2 ^c2 d3 c _B A B2 \
+w:e- ni my.  O no, no, no weep not, O no, no, O weep _ _ _ _
+%7
+A A d3 ^c/ B/ ^c2 d2 A2 B A B c d2 B d c/ B/ B/ A// G// A2 G z z2\
+w:not; O weep _ _ _ not, I can, I can- not bide this blind- _ _ _ _ _ _ nesse;
+%8
+A d2 ^c d B A2 B4 z G2 G c2 A d2 c2 B c e > d c\
+w:I can not bide this blind- nesse; all to late, to late now god wot, all to late
+%1r
+B A A ^G A2 z A > G F E D ^C c > B A G F\
+w:comes this kind - nesse, all too late now god wot, all too late, all too
+%2r
+  E     A > G  F    E    D     ^C   D    E2 "D"^F2 z A c3 c B G B2\
+w:late, all to late now, comes this your kind- nesse.  But if you would that death
+%3r
+  A2 z    d2    A   B2   G  G2   A ^F G2 ^F G4 z4 d6 c _B A2 A =B\
+w:should, death of life, of lyfe should de- prive _ mee, weep not a- las, weep not,
+%4r
+c d/ c/ B/ A/ G A B c2 B d2 e c d > c B A2 G A2 ^F2\
+w:least you _ _ _ _ re- vive _ mee weep not least you there - by least you ther-
+%5r
+G > F F/ E// D// E2 ^F G G ^F G4 z4 z G2 A ^F G2 F G d d c\
+w:by re _ _ _ vive mee, re- vive _ mee? ther- by re- vive _ mee, Ah cease, ah
+%6r
+B A/ G/ A2 G c B/ A/ B c2 G2 G c B A > G G3/2 ^F// E// ^F\
+w:cease to be- waile mee, cease to bee waile _ mee, cease to be wayle _ _ _ _ _
+%7r
+G2 z2 d2 d c B A/ G/ A A G ^F/ E/ ^F2 G2 z2 |]\
+w:mee, my life, my life now doth faile, my life now doth faile mee.
+
+X:2
+T:IX. Deep lamenting
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI transpose -12
+N: original clef: C on third line
+M:C
+K:C -8va
+%K: C
+T: Altus
+L:1/4
+%1
+d6 B2 B4 G6 c3 d e2 A2 f3 e e d/ c/ d4 e2\
+w:Deep la- men- ting, griefe be- wray- ing; griefe be - _ _ wray- ing;
+%2
+d3 A B2 A2 d4 c2 B2 e3 d d4 ^c2 d4 c6 B2 A4 "A"B G G/ A/\
+w:grief be- wray- ing: (all for- lorne) poore A- min - tas thus sat say- ing, Glut now, now
+%3
+ B/ c/ d2 z g g/ f/ e/ d/ c G B > c d2 G g2 ^f g2\
+w:glut thine eyes, glut now, now glut thine eies, while I lye heere a dy - ing;
+%4
+d3 d d2 e3 d c B A B/ c/ d B A G ^F G ^F G ^F2 d4 c2 f4 e4 "B"d2 d2\
+w:kild with dis- dain, a- las, and pit - _ _ _ tie pit- ty, pit- ty, pit- ty, and pit- ty cry- ing.  Now,
+%5
+B c > B A B/ c/ d/ B/ c B A G A2 G g2 e f > e d2 e/ ^f/\
+w:now maist thou laugh full _ _ _ _ _ _ mer- i- ly, now, now maist thou laugh me -
+%6
+g3/2 ^f// e// ^f g2 z2 g2 g3 f e d c d > c B A G A A "C"B4 z2 B4 B2\
+w:ri - _ _ ly: for dead lo is the man, dead is thy mor- tall en- i- my.  O no,
+%7
+A4 A2 d4 ^c B ^c2 e4 e2 d4 d2 g4 f2 e4 d4 z d2 g2 ^f g d\
+w:no, no weep _ _ not, O no, no, no, weep not; weep not, I can- not bide this
+%8
+e/ ^f/ g3/2 ^f// e// ^f g d2 g2 ^f g e ^f g2 ^f g d2 d g2 e2 e\
+w:blind - _ _ _ _ nesse; I can- not bide this _ blind - nesse; All to late now god
+%1r
+c2 f2 e d2 c2 z e > d c B B A a > g f e d ^c d e\
+w:wot, all to late now, all to late, all to late, all to late comes this kind - nesse,
+%2r
+a > g f e d ^c f > e d ^c d e d2 ^c "D"d d f3 e\
+w:all to late now to late, all to late comes this your kind - nesse. But if you
+%3r
+e c d e d g2 ^f g d z d d/ c/ B/ A/ B G2 c2 B A2\
+w:would that death should of life de- prive mee, of life, _ _ _ _ of life de- prive
+%4r
+G2 d4 c _B A3 G ^F2 G4 ^F2 G A B c2 d e ^f g2 g2\
+w:mee, weep not a- las, weep not, weep _ not, least you ther- by re- vive mee, weep
+%5r
+a ^f2 g2 ^f g e d d2 e ^c d2 ^c d c/ B/ A/ G/ A G2\
+w:not least you there- by re- vive mee, re - _ vive me, you a- gaine re- vive mee?
+%6r
+d2 e c d > c B/ A/ G G c2 B A2 B2 z2 z4 z g g f e d/ c/\
+w:least you ther- by, _ _ _ _ ther- by re- vive mee, Ah cease; ah cease to bee-
+%7r
+d d e2 d c > B B/ A// G// A2 G d d c B A/ G/ A A\
+w:waile, ah cease to bee - _ _ _ waile mee, my life, my life now doth faile, my
+%8r
+G ^F/ E/ ^F2 G2 z2 z4 |]\
+w:life now doth faile mee.
+
+X:3
+T:IX. Deep lamenting
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI transpose -24
+M:C
+K:C bass
+T: Bassus
+M:C
+L:1/4
+%1
+z8 g6 e2 e4 c4 f3 e f g a2 g4 c2 g3 ^f g2 d4\
+w:Deep la- men- ting, griefe be- wray - _ _ ing; grief be- wray- ing;
+%2
+z4 g6   f2 e4   d2  B2   c4   d8 "A"G4 z g g/ f/ e/ d/ c c\
+w:Poore A- min- tas thus satt say- ing.  Glut now, now glut thine eyes, glut
+%3
+c/ d/ e/ f/ g2 z G B > c d2 G2 g3 g g2 c'3 b a g\
+w:now, now glut thine eies, while I lye dy- ing; kild with dis- dain, a- las, and
+%4
+  ^f   g   d4   d4   d4   a4 a8 "B"d2 z g2 e f > e d2 e/ ^f/ g/ d/ ^f g2 ^f g2\
+w:pit- tie cry- ing, pit- ty cry- ing.  Now, now maist thou laugh full _ _ _ _ me- ri- ly;
+%5
+z2 z8 z2 g2 g3 f e d c B A G ^F G d2 d2 "C"G2 g4 e2 e4 ^c4 d4 A4\
+w:for dead lo is the man, dead is thy mor- tal en- i- my.  O no, no, no weep not;
+%6
+z2 a4 a2 ^f2 f2 g4 d4 z4 z2 d2 g ^f g e d2 G2 z2 z d g ^f\
+w:O no, no, no, weep not; I can not bide this blind- nesse; I can not
+%7
+g e d2 G A d4 G2 z g2 g c'2 a2 f2 g4 c c' > b a\
+w:bide this blind- nesse; this blind- nesse; All too late, all to late now; all to late
+%8
+  ^g  a  e2 z  f > e  d    ^c  d   A    d   a2  a2    a4   A4   A4    "D"d3 d\
+w:all to late, all to late now god wot, to late comes this your kind- nes.  But
+%1r
+a3 a g e g2 d2 B2 d2 G g g/ f/ e/ d/ e c d4\
+w:if you would that death should, that death should of lyfe _ _ _ _ de- prive
+%2r
+G4 g6 f e d6 d2 e ^f g/ f/ e/ d/ c B A2 G4 z4 d2\
+w:mee: weep not a- las, weep not least you  a - _ gaine re- vive mee, weep
+%3r
+e c d > c B/ A/ G A2 A2 d4 G2 z g2 a ^f g > f e/ d/ c c\
+w:not least you a - _ _ gaine re- vive mee.  least you there- by _ _ _ _ re- 
+%4r
+d4 G4 g2 g f e d/ c/ d d c B/ A/ B2 c2 z2 d2\
+w:vive mee; Ah cease, ah cease to be- waile, ah cease to be- waile mee; my
+%5r
+  d     c  B    A/  G/   A      A  G   ^F/  E/   ^F2   G2 z2 z8 |]\
+w:life, my life now doth faile, my life now doth fayle mee.

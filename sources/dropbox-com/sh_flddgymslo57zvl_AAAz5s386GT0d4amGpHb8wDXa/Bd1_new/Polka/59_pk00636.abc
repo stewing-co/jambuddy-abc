@@ -1,0 +1,35 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka  FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.270 (pk00636) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon 
+"F"c'2f2 fefg | "C7"f2e2e4 | d'2e2 e3d' | "F"c'2f2 f2ab | c'2f2 fefg | "C7"f2e2e4 | d'2e2 c'3e | 
+"F"f2a2 f2z2 :: "C7"EFGA Bced | "F"dccAF4 | "C7"cBBG E2G2 | "F"FAcf c2AF | "C7"EFGA Bced | 
+"F"dccAF4 | f2cA "C7"cBGA | "F"F2A2 F2z2 :: [K:Bb] "Bb"B2BB B3B | "F7"A2g2 !>!g4 | e2ec A2F2 | 
+"Bb"B=Bcd f4 | B2BB B3B | "F7"A2g2 !>!g4 | e2ec F2GA | "Bb"B2d2 B2z2 :| 
+
+X:2
+T:Polka  CF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon 
+"C"g2c2 cBcd | "G7"c2B2B4 | a2B2 B3a | "C"g2c2 c2ef | g2c2 cBcd | "G7"c2B2B4 | a2B2 g3B | 
+"C"c2e2 c2z2 :: "G7"B,CDE FGBA | "C"AGGEC4 | "G7"GFFD B,2D2 | "C"CEGc G2EC | "G7"B,CDE FGBA | 
+"C"AGGEC4 | c2GE "G7"GFDE | "C"C2E2 C2z2 :: [K:Fmaj] "F"F2FF F3F | "C7"E2d2 !>!d4 | B2BG E2C2 | 
+"F"F^FGA c4 | F2FF F3F | "C7"E2d2 !>!d4 | B2BG C2DE | "F"F2A2 F2z2 :| 
+
+X:3
+T:Polka EbAb (5letras) cf. CF 5- chords
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon 
+"Eb"b2e2 edef | "Bb7"e2d2d4 | c'2d2 d3c' | "Eb"b2e2 e2ga | b2e2 edef | "Bb7"e2d2d4 | c'2d2 b3d | 
+"Eb"e2g2 e2z2 :: "Bb7"DEFG ABdc | "Eb"cBBGE4 | "Bb7"BAAF D2F2 | "Eb"EGBe B2GE | "Bb7"DEFG ABdc | 
+"Eb"cBBGE4 | e2BG "Bb7"BAFG | "Eb"E2G2 E2z2 :: [K:Abmaj] "Ab"A2AA A3A | "Eb7"G2f2 !>!f4 | d2dB G2E2 | 
+"Ab"A=ABc e4 | A2AA A3A | "Eb7"G2f2 !>!f4 | d2dB E2FG | "Ab"A2c2 A2z2 :| 
+

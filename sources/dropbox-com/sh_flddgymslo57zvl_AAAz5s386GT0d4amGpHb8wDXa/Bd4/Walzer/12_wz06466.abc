@@ -1,0 +1,43 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Walzer CF (wz06466)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.169 (wz06466) orig. C,F
+T: Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+T:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+ef |: ("C"^f2g) | (c'd'>c') | ("G7"c'2b) | d'de | (f2a) | bba | ("C"a2g) | eef | (^f2g) | 
+(c'd'>b) | ("G"b2d') | e'd'>c' | "D7"d'c'a | (g/^f/)  (c'/a/) e/f/ | "C"g>gg |1 gef :|2 gzG || "C"c3 | e2f | 
+(^f/a/)g2 | edc | ("Dm"^c/e/) d2 | "G7"AcB | "C"A/^F/G2 | "G7"GAB | "C"c3 | e2f | (^f/a/)g2 | "F"c'ba | 
+("C"a/g/) .a/.g/ .e/.c/ | ("G7"B/c/) .d/.e/ .f/.g/ | ("C"c3 | c)zz |: [K:F] ("C7"c2B) | (e2d) | ("F"c2A) | (a2f) | "Gm"b>ag | "C7"f>ed | 
+"F"cAd | c3 | ("C7"c2B) | (e2d) | ("F"c2A) | (a2f) | ("C"e2g) | ("G7"d2g) | "C"c>cc | 
+ccc :: "F"c3 | (f2g) | a3 | ccc | (a2b) | c'3 | c'c'c' | ("C7"e'2d') |  
+(e2d') | "F"c'3 | aaa | ("Gm"b2a) | ("C7"g2a) | ("F"f3 |1 f)cc :|2 fzz |] 
+% wz06466
+% Dez 20, 2016
+
+X:2
+T:Walzer GC 5- (wz06466)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.169 (wz06466) orig. C,F
+S:Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+S:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+Bc |: ("G"^c2d) | (ga>g) | ("D7"g2f) | aAB | (c2e) | ffe | ("G"e2d) | BBc | (^c2d) | 
+(ga>f) | ("D"f2a) | ba>g | "A7"age | (d/2^c/2) (g/2e/2) B/2c/2 | "G"d>dd |1 dBc :|2 dzD || "G"G3 | B2c | 
+(^c/2e/2)d2 | BAG | ("Am"^G/2B/2) A2 | "D7"EGF | "G"E/2^C/2D2 | "D7"DEF | "G"G3 | B2c | (^c/2e/2)d2 | "C"gfe | 
+("G"e/2d/2) .e/2.d/2 .B/2.G/2 | ("D7"F/2G/2) .A/2.B/2 .c/2.d/2 | ("G"G3 | G)zz |: [K:C] ("G7"G2F) | (B2A) | ("C"G2E) | (e2c) | "Dm"f>ed | "G7"c>BA | 
+"C"GEA | G3 | ("G7"G2F) | (B2A) | ("C"G2E) | (e2c) | ("G"B2d) | ("D7"A2d) | "G"G>GG | 
+GGG :: "C"G3 | (c2d) | e3 | GGG | (e2f) | g3 | ggg | ("G7"b2a) | 
+(B2a) | "C"g3 | eee | ("Dm"f2e) | ("G7"d2e) | ("C"c3 |1 c)GG :|2 czz |] 
+% wz06466
+% Dez 20, 2016

@@ -1,0 +1,30 @@
+X:1820
+T:Scena 4.a
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 20 clef=alto1 name="Euridice" sname="Eur."
+%%MIDI program 1 1
+%%staves [[ 20 ]]
+%--------------------------------
+% fol.24 of the libretto
+[L:1/8] d2 d/ d/ c/ d/  B B z/\
+w: Ah son pur in-fe-li-ce!
+G/ G/ d/ | ^c/ "^(1)"c/ G/ G/ G G/ A/ ^F F d B/ A/ | ^G/ G/ B/ ^c/ d d/ ^c/ Az  \
+w: e d'on-de mai pos-so spe-rar so-cor-so? al-men po-tes-si il mi-o be-ne pla-car,
+^c B/ c/ | A/ A/ A/ A/ "^check ms" A/ A/ B/ G G e/ e/ G/ G/> A/ | ^F2 d d/ d/ _e  e z/ \
+w: dir-gli, che l'a-mo, dir-li che'il mio si-len-zio col-pe-vo-le non \`e, che di lui so-lo
+e/ =f/ c/ | d d z6 | Z7 | z2 z \
+w: ques-t'al-ma'ac-ce-sa
+f f _B z B | G G z6 | Z | z4 | Z3 | z6 \
+% fol.25 of the libretto
+w: Ma sap-pi, An-tan-dro
+zA | d d z6 | Z3 | z2 \
+w: a-scol-ta
+d2 d d c d "^Segue" || [Q:"Allegro assai"] [K:Bb] B2 \
+w: ma se sa-pest-ti'al-fin.
+z6| Z7 | [Q:"Andante"] Z2 "Rondo" || \
+[M:2/4] [K:G] [Q:"Larghetto"] Z40 || \
+[Q:"Allegro"] [M:C] [L:1/4] Z62 |] \
+%--------------------------------

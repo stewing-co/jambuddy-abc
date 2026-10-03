@@ -1,0 +1,29 @@
+X:608
+T:Virtu
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/8
+K:C
+V: 8 clef=treble name="Violino II" sname="Vl.II"
+%%MIDI program 1 40
+%%staves [{ 8 }]
+%----------------------------------------------------------------------------------------------------
+Z17 || \
+[Q:"Allegro"][M:3/8][K:G] [L:1/8] d' | b/>a/ gd | g/b/a/g/c'/a/ | b/>a/ gd | \
+e/g/d/g/B/g/ | e/g/d/g/B/g/ | e/g/d/g/B/g/ | (3:a/b/c'/ c'c' | c'c'c' | \
+b/d'/a/d'/f/d'/ | b/d'/a/d'/f/d'/ | b/d'/a/d'/f/d'/ | g/f/g/a/b/^c'/ | d'dz |d'dz |d'dz | agf  | \
+b/d/e/d/a/d/ | g/B/c/B/f/A/ | e/A/B/A/d/G/ | c/B/c/d/e/f/ | gGB | cAd | e2B | cAd | G2F || \
+[Q:"Allegro"] GBd | G/B/A/G/c/A/ | dBd | AFd | GEB | FDB | BAa | \
+f/a/e/a/^c/a/ | f/a/e/a/d/d'/ |  b/d'/a/d'/f/d'/ | b/d'/a/d'/f/d'/ | \
+g/f/g/a/b/^c'/ | "_NB: grace note?" d'2z | zz.b | .g.e.a | d2!f!a | (3f/e/f/ F/d/A/F/ | {ga} bag | \
+f/A/B/A/e/A/ | d/F/G/F/^c/F/ | B/E/F/E/A/D/ | {A}G/>F/G/A/B/^c/ | B.d.B | .gea | dD/E/F/G/ | A/G/ FA | f/g/f/d/g/e/ | \
+add'| b/d/!trill!b/>a/b/d/ | (3e/g/f/ (3e/d/^c/ g | a/^c/!trill!a/>g/a/c/ | (3d/f/e/  (3d/^c/B/ f | \
+g/B/!trill!g/>f/g/B/ | (3^c/e/d/ (3^c/B/A/ a  |  f/a/e/a/^c/a/ | f/a/e/a/d/d'/ |  b/d'/a/d'/f/d'/ |  b/^c'/d'/c'/b/a/ | \
+b/a/g/f/e/d/ | ^c/>A/ ce  | ^c2z | (3b/c'/d'/ d'd' | d'd'd'| d'/d'/d'/d'/d'/d'/ | d'/d'/d'/d'/d'/d'/ | \
+g/>a/ bc' | b/>a/ gg | g/>a/ bc' | b/a/ gd' |  d'/c'/b/a/g/=f/ | {=f}e2e'- | e'/d'/c'/b/a/g/ |\
+f/g/az | g/>a/bz| a/b/c'z| b/>c'/d'G | cAd | {d}e2B|cAd|G2d'| b/d'/a/d'/f/d'/ | b/d'/a/d'/f/d'/ | \
+g/f/g/a/b/^c'/ | d'dz |d'dz |d'dz | agf | gGB|cAd| {d}e2B|cAd|G2 || \
+!p!b | g/>f/ e^d | e/>f/ ge | c'b/a/g/f/ | g/f/ eg | fbf|e/>^d/ ec'| ^d/>e/ fe | e^db | B/B/B/B/B/B/ | c/c/c/c/c/c/ | \
+^c/c/c/c/c/c/ | d/^c/d/f/e/d/ | !trill!^c/>B/ ^A2 | =gfe | ba/g/f/e/ | .d.e.f | \
+!fermata!g2b | e^cf | !fermata!B2z |]
+%----------------------------------------------------------------------------------------------------

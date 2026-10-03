@@ -1,0 +1,85 @@
+X:107
+T:[Kyrie]
+C:Carvalho, Jo\~ao de Sousa (1745-1798)
+M:C
+L:1/4
+K:C
+V: 7 clef=treble name="Violini I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 7 }]
+%------------ edit between these lines
+[Q: "Allegro con spirito"]
+g/ |!f!g/e/g/c'/ b//c'//b//a// g/f/| e z/ c/ e/d//c// f/e//d//| g/e/g/c'/ b//c'//b//a// g/f/| e z// G//A//B// c//d//e//f// g//f//e//d//| c z z/ !p!(g/a/_b/)| \
+%(pag.2)
+(^g/a/) a z/ (d/e/f/)| (^d/e/) e z//!f! g//a//b// c'/c'/| a//b//c'//a// f//g//a//f// d//e//f//d// B//c//d//B//| c z z/ (g/a/_b/)| \
+(^g/a/) a z/ (d/e/f/)| (^d/e/) e z//!f! g//a//b// c'/c'/| \
+% (pag.3)
+a/a//b// c'/c'/ g/z/8^g///a///b/// c'/c'/| a//b//c'//b// a//g//f//e// d//e//^f//g// a//f//d//c//| B [DBg][Ece] [Gec']| [Gdb] [DBg] [Ece] [Gec']| \
+[Gdb] z z/!p! (f/g/a/)| z/(d/e/f/) z/.e/.g/.e/|.g/.e/.c/.G/ .e/.c/.G/.E/| \
+% (pag.3 notada)
+z/(F/G/A/) z/(D/E/F/)| z/.E/.G/.c/ .e/.g/.c'/.g/| [Aa] a//b//c'//a// g/e/ f/e//d//| c e//g//e//c// [ce] e//c//e//g//| [Ece] [Ecg] [Ece] z/ z// g//| \
+% (pag.4)
+g/e/g/c'/ b//c'//b//a// g/f/| e z/ c/ e/d//c// f/e//d//| g/e/g/c'/ b//c'//b//a// g/f/| e z// G//A//B// c//d//e//f// g//f//e//d//| \
+c z z/ !p!(g/a/_b/)| (^g/a/) a z/ (d/e/f/)| (^d/e/) e z//!f! g//a//b// c'/c'/| a/z/4a/8b/8 c'/c'/ g/z///^g///a///b/// c'/c'/| \
+% (pag.4 notada)
+[Aa] [DBg] c//d//e//f// g//f//e//d//| c z z/ !p!(g/a/_b/)| (^g/a/) a z/ (d/e/f/)| (^d/e/) e z//!f! g//a//b// c'/c'/| a/z//a/8b/8 c'/c'/ g/z/// ^g///a///b/// c'/c'/| \
+c'/z///^g///a///b/// c'/c'/ c'/b/a/g/| \
+% (pag.5)
+a/a/g/g/ f/f/e/e/| e/g/ g/^f//g// e/g/ g/^f//g//| d/g/ g/^f//g// c'/c'/ c'/b//c'//| b/g/ g/^f//g// e/g/ g/^f//g//| d/g/ g/f//g// c'/c'/ c'/b//c'//| b/g/g/d/ e/g/c'/c'/| \
+% (pag.5 notada)
+b/g/g/d/ e/g/c'/c'/| b//c'//d'//c'// b//c'//d'//c'// b z| .d/.B/.G/.D/ B, z| .A .B .c z| (d/c/B/A/) (d/c/B/A/)| .B .c .d z| (e/d/c/B/) (e/d/c/B/)| \
+% (pag.6)
+A !f![DA^f] [DBg] [DBg]| [DAa] d'/c'/ b/d'/b/g/| ^f/f//e// f/g/ a/f/a/c'/| b g/=f/ e/g/e/c/| B [Gdb] [Gec'] [Gec']| b/ g g g g/| \
+g//g//g//g// g//g//g//g// g//g//g//g// c'//c'//c'//c'//| \
+% (pag.6 notada)
+b/z///d///e///^f/// g/c'/ e//e//e//e// ^f//f//f//f//| g//g//g//g// b//b//b//b// a//a//a//a// a//a//a//a//| [DBg] z z/!p!(e/c/e/)| z/(d/B/d/) z/(c/B/A/)| \
+!f![DBg] [DBb] z/(e/c/e/)| z/(d/B/d/) z/(c/B/A/)| !f!g//a//b//a// g//^f//e//d// [Bb] z| \
+% (pag.7)
+z/(c/d/e/) z/(A/B/c/)| z/(B/d/B/) z/(B/g/B/)| z/(A/c/e/) z/(c/A/^F/)| z/.B/.d/.g/ .b/.g/.d/.B/| z/(c/d/e/) z/(A/B/c/)| z/(B/d/B/) z/(B/g/B/)| \
+z/(A/c/A/) z/(^F/A/F/)| z/.G/.B/.d/ !f!f//f//f//f// f//f//f//f//| \
+% (pag.7 notada)
+e//e//e//e// e//e//e//e// g//g//g//g// g//g//g//g//| ^f//f//f//f// g//g//g//g// g//g//g//g// f//f//f//f//| \
+g//g//g//g// g//g//g//g// b//b//b//b// b//b//b//b//| a//a//a//a// a//a//a//a// a//a//a//a// a//a//a//a//| \
+[DBb] [DBb] [DAa] [DAa]| [DBb] [DBb] [DAa] [DAa]| [DBg] b//a//g//^f// g//a//b//a// g//^f//e//d//| \
+% (pag.8)
+c c//B//A//G// ^F//G//A//G// F//E//D//C//| B, .d/.d/ g//a//b/ g/d/| e//^f//g/ c//d//e/ D [DA^f]| \
+[DBg] g//d//g//b// [DBg] g//d//g//b//| [DBg] [DBb] [DBg] z/ z//d//| d/g/b/g/ ^f//g//a//g// f//e//d//c//| B z/ G/ !f!B/A//G// !f!c/B//A//| \
+% (pag.8 notada)
+d/g/b/g/ ^f//g//a//g// f//e//d//c//| B z// D//E//^F// G//A//B//c// d//c//B//A//| G z z/!p!(d/e/=f/)| (^d/e/) e z/(A/B/c/)| \
+(^A/B/) B z// !f!d//e//^f// g/g/| g/e//^f// g/g/ e//f//g//e// f//g//a//f//| g/ g g g g/| \
+% (pag.9)
+g/ g g/ b/ b b/| c' z//G//A//B// c//d//e//f// g//f//e//d//| c z z/!p!(g/a/_b/)| (^g/a/) a z/ (d/e/f/)| (^d/e/) e z//!f! g//a//b// c'/c'/| \
+a/z//a///b/// c'/c'/ g/z///^g///a///b/// c'/c'/| \
+% (pag.9 notada)
+c'/ c' c' c' c'/| c'//c'//c'//c'// c'//c'//c'//c'// c'//c'//c'//c'// c'//c'//c'//c'//| b [DBg] [Ecg] [Gec']| [Geb] [DBg] [Ece] [Gec']| \
+[Gdb] [DBg] [DBb] !fermata!z || \
+[Q:"Andantino"] [M:2/4] [K:Bb] Z| z//!p!(G//_A//G//) z//(c//e//G//)| \
+% (pag.10)
+F/z/ z | z//(F//G//F//) z//(F//d//F//)| E/z/ z//(c//e//G//)| (G//F//F/) z//(D//F//=B//)| d/z/ z//(F//_A//F//)| (F//E//)E/ z//(G//=B,//D//)| \
+(C//E//)G/ z//c//=E//G//| \
+% (pag.10 notada)
+(F//_A//)c/ z//(f//=e//g//)| f//c//(_a//g// f//e//d//c//)| (=B//d//)f/ z//f//f//f//| e//g// z//g// (g//f//e//d//)| c/ z/ z| Z| (B/4>A/4)B/ z//(B//e//B//)| \
+% (pag.11)
+(B/4_A/4)A/ z/ F//G//| (_A/4>F/4)A/ z//(A//c//A//)|(_A//G//)G/ z//(b//g//e//)| d/f/ z//(f//d//B//)| z//e//(g//f// e//d//c//B//)| (A//c//)e/ z//(e//c//a//)| \
+z//d//(f//e// d//c//b//a//)| \
+% (pag.11 notada)
+G/e/ e//e//e//G//| (G/4>F/4)F/ z| !f! .a/.g/ z| .f/.e/ z| Z| !p!(G/4>E/4)G/ z//(G//c//b//)| (_A//F//A//F// E/D//F//)| E/z/ (c//B//_A//G//)| \
+% (pag.12)
+(_A//F//A//F//) E/D/|| [M:C] [K:C] "^Tempo Primo" C zz2| z2 [_Be]2| !p!f//g//a/ z g//a//_b/ z| a//=b//c'/ z b//c'//d'//c'// b//c'//d'//b//| \
+c'/g/g/c'/ b//c'//b//a// g/f/| e z/c/ e/d//c// f/e//d//| \
+% (pag.12 notada)
+g/e/g/c'/ b//c'//b//a// g/f/| e z//G//A//B// c//d//e//f// g//f//e//d//| c [Ece] [Fcf] [Fcf]| [Ecg] c'/_b/ a/g/a/f/| e/g/g/g/ g/c'/g/e/| \
+d [Gdb] [Gec] [Gec]| \
+% (pag.13)
+g/ g g g c'/| b//b//b//b// c'//c'//c'//c'// c'//c'//c'//c'// b//b//b//b//| c' z z/!p!(A/F/A/)|z/(G/E/G/) z/(F/E/D/)| !f![Ece] [Ecg] z/(A/F/A/)| \
+z/(G/E/G/) z/(F/E/D/)| \
+% (pag.13 notada)
+!f!e//c//e//g// e//c//e//g// c z| z/!p!(f/g/a/) z/(d/e/f/)| z/(e/g/e/) z/(c/e/c/)| z/(d/f/d/) z/(B/d/B/)| z/.e/.g/.e/ .g/.e/.d/.G/| \
+z/F/G/A/) z/(D/E/F/)| z/(E/G/E/) z/(G/c/G/)| z/(A/F/D/) z/(F/D/B,/)| \
+% (pÃƒÆ’Ã‚Â¡g.14)
+z2 !f!_b//b//b//b// b//b//b//b//| a//a//a//a// a//a//a//a// c'//c'//c'//c'// c'//c'//c'//c'//| =b//b//b//b// c'//c'//c'//c'// c'//c'//c'//c'// b//b//b//b//| \
+c'//c'//c'//c'// c'//c'//c'//c'// c'//c'//c'//c'// c'//c'//c'//c'//| c'//c'//c'//c'// c'//c'//c'//c'// b//b//b//b// b//b//b//b//| c' [Gec'] [Gdb] [Gdb]| \
+[Gec'] [Gec'] [Gdb] [Gdb]| \
+% (ult. pagina)
+[Gec'] e//c//e//g// [ce] e//c//e//c//| [ce]/z///G///A///B/// d/G/ E/C/E/G/| [G,Ec] [Ece] [Ecg] !fermata!z |]
+%------------

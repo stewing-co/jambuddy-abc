@@ -1,0 +1,12 @@
+X:304
+T:N.5 Lentamente
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 4 clef=bass name="Cello" sname="Vc."
+%%MIDI program 1 1
+%%staves [ 4 ]
+[K:alto4] (!>(!B,!>)! > B,) z/ [K:bass] !p! F,,/ | ((B,,>B,,2).F,,/) | ((B,,>B,,2).C,/) |\
+((D,>D,2).F,,/) | ((B,,>B,,2).F,,/) | ((^A,,>^A,,2).C,/) | ((B,,>B,,2).C,/) | ((D,>D,2).D,/) | ((C,>C,2).C,/)|\
+A,,A,,/ D,/ z/ B,,/| C,/ z/ F,/ ^E,/ z/ C,/| A,,/ z/ ^A,,/ ^B,,/ z/ ^G,,/| A,,/ z/ z/  !p!  !fermata! !>(!!>)! C,3/2  ||

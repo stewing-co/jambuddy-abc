@@ -1,0 +1,124 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Mazurka  FCBb
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.163 (mz09279) orig. F,C,Bb
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+P:ABACDC
+R:mazurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A] "F"A>c d2c2 | "C7"c>B e2e2 | B>c e2d2 | "F"d>c a2a2 | c>f a2a2 | "Gm"a>g b2b2 | {/f}"C7"e>^d e2g2 | 
+"F"f2f2z2 :: [P:B] [K:C] "C"G>e d2c2 | (3"G7"cBd f2f2 | G>f e2d2 | (3"C"dce g2g2 | (3gec' g2^g2 | "F"b>ba4 | 
+"G7"b>ba2 (3gfe |1 "C"c2c'2z2 :|2 "C7".c2"_>Teil A"!>!_B4 [P:C] |: [K:Bb]"Bb"d>^c d2d2 | "F7"fe edc2 | c>cc2e2 | 
+"Bb"ed dcB2 | d>dd2f2 | "Eb"e>ee2g2 | "F7"c>d e>g f>e |1 "Bb"d2b2"_Fine"z2 :|2 "Bb"d2b2 b>a || [P:D] [K:F]  "C7"g2c2 g>a | 
+"F"f2c2 (3agf  | "C7"e2 c'>e c'>e | "F"f>d' c'2c'2 | "C7"g2c2 g>a | "F"f2c2 (3agf | "C7"e2 c'>e c'>e | "F"f2e2"_> Teil C"_e2 |] 
+W:Parts: ABA CDC
+W:Anmerkung H.C.: 23. Aug 1952 (64 years ago)
+% mz09279
+X:2
+T:Mazurka  CGF 5-
+%%MIDI program 21
+%P:ABACDC
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"E>G A2G2 | "G7"G>F B2B2 | F>G B2A2 | "C"A>G e2e2 | G>c e2e2 | "Dm"e>d f2f2 | {/c}"G7"B>^A B2d2 | 
+"C"c2c2z2 :: [K:G] "G"D>B A2G2 | (3"D7"GFA c2c2 | D>c B2A2 | (3"G"AGB d2d2 | (3dBg d2^d2 | "C"f>fe4 | 
+"D7"f>fe2 (3dcB |1 "G"G2g2z2 :|2 "G7".G2"_>Teil A"!>!=F4 |: [K:F]"F"A>^G A2A2 | "C7"cB BAG2 | G>GG2B2 | 
+"F"BA AGF2 | A>AA2c2 | "Bb"B>BB2d2 | "C7"G>A B>d c>B |1 "F"A2f2"_Fine"z2 :|2 "F"A2f2 f>e || [K:C] "G7"d2G2 d>e | 
+"C"c2G2 (3edc | "G7"B2 g>B g>B | "C"c>a g2g2 | "G7"d2G2 d>e | "C"c2G2 (3edc | "G7"B2 g>B g>B | "C"c2B2"_> Teil C"_B2 |] 
+W:Parts: ABA CDC
+% mz09279
+X:3
+T:Mazurka  CGF 5- (parts)
+%%MIDI program 21
+%P:ABACDC
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"E>G A2G2 | "G7"G>F B2B2 | F>G B2A2 | "C"A>G e2e2 | G>c e2e2 | "Dm"e>d f2f2 | {/c}"G7"B>^A B2d2 | 
+"C"c2c2z2 :: [K:G] "G"D>B A2G2 | (3"D7"GFA c2c2 | D>c B2A2 | (3"G"AGB d2d2 | (3dBg d2^d2 | "C"f>fe4 | 
+"D7"f>fe2 (3dcB |1 "G"G2g2z2 :|2 "G7".G2!>!=F4 |: [K:C]  "C"E>G A2G2 | "G7"G>F B2B2 | F>G B2A2 | "C"A>G e2e2 |
+ G>c e2e2 | "Dm"e>d f2f2 | {/c}"G7"B>^A B2d2 | \
+"C"c2c2z2 :: [K:F]"F"A>^G A2A2 | "C7"cB BAG2 | G>GG2B2 | 
+"F"BA AGF2 | A>AA2c2 | "Bb"B>BB2d2 | "C7"G>A B>d c>B |1 "F"A2f2z2 :|2 "F"A2f2 f>e || [K:C] "G7"d2G2 d>e | 
+"C"c2G2 (3edc | "G7"B2 g>B g>B | "C"c>a g2g2 | "G7"d2G2 d>e | "C"c2G2 (3edc | "G7"B2 g>B g>B | "C"c2B2_B2 ||  
+|: [K:F]"F"A>^G A2A2 | "C7"cB BAG2 | G>GG2B2 | "F"BA AGF2 | A>AA2c2 | "Bb"B>BB2d2 | "C7"G>A B>d c>B |"F"A2f2"_Fine"z2 :|
+W:(Parts: ABA CDC)
+% mz09279
+X:4
+T:Mazurka  CGF  (5letras transposed) (parts)
+%%MIDI program 21
+%P:ABACDC
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"E>G A2G2 | "G7"G>F B2B2 | F>G B2A2 | "C"A>G e2e2 | G>c e2e2 | "Dm"e>d f2f2 | {/c}"G7"B>^A B2d2 | 
+"C"c2c2z2 :: [K:G] "G"D>B A2G2 | (3"D7"GFA c2c2 | D>c B2A2 | (3"G"AGB d2d2 | (3dBg d2^d2 | "C"f>fe4 | 
+"D7"f>fe2 (3dcB |1 "G"G2g2z2 :|2 "G7".G2!>!=F4 |: [K:C]  "C"E>G A2G2 | "G7"G>F B2B2 | F>G B2A2 | "C"A>G e2e2 |
+ G>c e2e2 | "Dm"e>d f2f2 | {/c}"G7"B>^A B2d2 | \
+"C"c2c2z2 :: [K:F]"F"A>^G A2A2 | "C7"cB BAG2 | G>GG2B2 | 
+"F"BA AGF2 | A>AA2c2 | "Bb"B>BB2d2 | "C7"G>A B>d c>B |1 "F"A2f2z2 :|2 "F"A2f2 f>e || [K:C] "G7"d2G2 d>e | 
+"C"c2G2 (3edc | "G7"B2 g>B g>B | "C"c>a g2g2 | "G7"d2G2 d>e | "C"c2G2 (3edc | "G7"B2 g>B g>B | "C"c2B2_B2 ||  
+|: [K:F]"F"A>^G A2A2 | "C7"cB BAG2 | G>GG2B2 | "F"BA AGF2 | A>AA2c2 | "Bb"B>BB2d2 | "C7"G>A B>d c>B |"F"A2f2"_Fine"z2 :|
+W:(Parts: ABA CDC)
+% mz09279
+X:5
+T:Mazurka  EbBbAb (5letras)
+%%MIDI program 21
+P:ABACDC
+R:mazurka
+M:3/4
+L:1/8
+K:Eb%%MIDI gchordon
+[P:A] "Eb"G>B c2B2 | "Bb7"B>A d2d2 | A>B d2c2 | "Eb"c>B g2g2 | B>e g2g2 | "Fm"g>f a2a2 | {/e}"Bb7"d>^c d2f2 | 
+"Eb"e2e2z2 :: [P:B] [K:Bb] "Bb"F>d c2B2 | (3"F7"BAc e2e2 | F>e d2c2 | (3"Bb"cBd f2f2 | (3fdb f2^f2 | "Eb"a>ag4 | 
+"F7"a>ag2 (3fed |1 "Bb"B2b2z2 :|2 "Bb7".B2"_>Teil A"!>!_A4 [P:C] |: [K:Ab]"Ab"c>=B c2c2 | "Eb7"ed dcB2 | B>BB2d2 | 
+"Ab"dc cBA2 | c>cc2e2 | "Db"d>dd2f2 | "Eb7"B>c d>f e>d |1 "Ab"c2a2"_Fine"z2 :|2 "Ab"c2a2 a>g || [P:D] [K:Eb] "Bb7"f2B2 f>g | 
+"Eb"e2B2 (3gfe | "Bb7"d2 b>d b>d | "Eb"e>c' b2b2 | "Bb7"f2B2 f>g | "Eb"e2B2 (3gfe | "Bb7"d2 b>d b>d | "Eb"e2d2"_> Teil C"_d2 |] 
+W:(Parts: ABA CDC)
+% mz09279
+X:6
+T:Mazurka  DA&G (tinwhistle in D)
+T:mz09279 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+%P:ABACDC
+R:mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"F>A B2A2 | "A7"A>G c2c2 | G>A c2B2 | "D"B>A f2f2 | A>d f2f2 | "Em"f>e g2g2 | {/d}"A7"c>^B c2e2 | 
+"D"d2d2z2 :: [K:A] "A"E>c B2A2 | (3"E7"AGB d2d2 | E>d c2B2 | (3"A"BAc e2e2 | (3eca e2^e2 | "D"g>gf4 | 
+"E7"g>gf2 (3edc |1 "A"A2a2z2 :|2 "A7".A2!>!=G4 |: [K:D] "D"F>A B2A2 | "A7"A>G c2c2 | G>A c2B2 | "D"B>A f2f2 |
+A>d f2f2 | "Em"f>e g2g2 | {/d}"A7"c>^B c2e2 | \
+"D"d2d2z2 :: [K:G]"G"B>^A B2B2 | "D7"dc cBA2 | A>AA2c2 | 
+"G"cB BAG2 | B>BB2d2 | "C"c>cc2e2 | "D7"A>B c>e d>c |1 "G"B2g2z2 :|2 "G"B2g2 g>f || [K:D] "A7"e2A2 e>f | 
+"D"d2A2 (3fed | "A7"c2 a>c a>c | "D"d>b a2a2 | "A7"e2A2 e>f | "D"d2A2 (3fed | "A7"c2 a>c a>c | "D"d2c2=c2 || [K:G]
+|: "G"B>^A B2B2 | "D7"dc cBA2 | A>AA2c2 | "G"cB BAG2 | B>BB2d2 | "C"c>cc2e2 | "D7"A>B c>e d>c |"G"B2g2"_Fine"z2 :|
+W:(Parts: ABA CDC)
+X:7
+T:Mazurka  DA&G (tinwhistle in D) solo
+T:mz09279 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+%P:ABACDC
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+F>A B2A2 | A>G c2c2 | G>A c2B2 | B>A f2f2 | A>d f2f2 | f>e g2g2 | {/d}c>"_c"^B c2e2 | 
+d2d2z2 :: [K:A] E>c B2A2 | (3A"_#"GB d2d2 | E>d c2B2 | (3BAc e2e2 | (3eca e2"_f"^e2 | g>gf4 | 
+g>gf2 (3edc |1 A2a2z2 :|2 .A2!>!=G4 |: [K:D] F>A B2A2 | A>G c2c2 | G>A c2B2 | B>A f2f2 |
+A>d f2f2 | f>e g2g2 | {/d}c>"_c"^B c2e2 | \
+d2d2z2 :: [K:G]B>^A B2B2 | d"_c"c cBA2 | A>AA2"_c"c2 | 
+"_c"cB BAG2 | B>BB2d2 | "_c"c>cc2e2 | A>B "_c"c>e d>c |1 B2g2z2 :|2 B2g2 g>f || [K:D] e2A2 e>f | 
+d2A2 (3fed | c2 a>c a>c | d>b a2a2 | e2A2 e>f | d2A2 (3fed | c2 a>c a>c | d2c2=c2 || [K:G]
+|: B>^A B2B2 | d"_c"c cBA2 | A>AA2"_c"c2 | cB BAG2 | B>BB2d2 | "_c"c>cc2e2 | A>B "_c"c>e d>c |B2g2"_Fine"z2 :|
+W:(Parts: ABA CDC)
+% Aug. 27, 2016

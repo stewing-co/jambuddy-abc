@@ -1,0 +1,23 @@
+X:801
+T:Trio VI (Allegretto)
+C:Costa, Abade António da (1714-c1780)
+M:C
+L:1/4
+K:C
+V: 1 clef=treble name="Violino I.mo" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [ 1 ]
+%----- edit between the lines
+[Q:"Allegretto"] "_[fol.7v (19)]"  z | z2 z (a/>g/ | f2 A) (c/>B/ | c/>e/ e d) (=g/<=f/ | e) .^G2 (e | e d E) (e |
+e d E) (e | e d3 | d ^c e) (a | a2 ^g) (=f | e) .b2 (e | e2 ^d) (=c |
+B ^d e) (g | ^f2) B2- | B (b ^g) (e | e ^d e) (g | ^f3) (=f | e3) (^f | ^d) (e3 |
+e ^d ^f) (=c' | b2 a) (=c' | b2 a) (=c' | b2 a > ^f) | (a/g/^f/e/) z :|:
+z | z2 z (e/>d/ | =c2 E) (G/>^F/ | B2 A) (=d/<=c/ | B) .^D2 (B |
+B A B,) (B |B A B,) (B | B A2 ^G) | (B A2) .^G | (B A2) .^G | (B A2) (_B |
+"_[fol.8 (20]"  _B A2) (=G | G ^F) z .^f | (g d2) .^f | (g d d) (^f | a) (g3 | g ^f)
+(=f2 | f =e) (_e2 | d3) (=f | =e) (c2 =B | B d) .G (b | b a2) (g | g =f2) (e |
+e d2) (c | B) (^D E) (=G | ^F) (A ^G) .e | .A (e2 =d | d) .^G (B2 | A) (^G A) (c |
+B) (d ^c) .a | .d (a2 =g | g) ..^c (e2 | d) (^c d) (f | e) .g2 (e | f) (e f) (=b |
+^g) .e2 (=c | B) (^f e ^d | ^d) (e =d ^c | ^c) (d2 ^c | ^c) (d =c2 | B4) |
+.d3 (=f | e2 d) (=f | e2 d) (=f | e2 d> B) | d/c/B/A/ z :|]
+%---------------------------------

@@ -1,0 +1,45 @@
+X:4011
+T:Coro [Antandro, Demetrio, Euridice, Emirena, Eumene]
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:D
+V: 11 clef=treble name="Violini I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 11 }]
+%-------------------
+[Q:"Allegro"]  A/>A/ | d A/>A/  f d/>d/ | a a//f//d//A// g g//e//c//A// | a a//f//d//A// g g//e//c//A// | \
+f//d//e//f// g//a//b//c'// d'z | d' d'/>d'/ d'3/4e'/8d'/8 c'/c'/ | a//d//e//f// g//a//b//c'// d'//c'//d'//c'// d'/z/ |  \
+d' d'/>d'/ (d'3/4e'/8d'/8) c'/c'/ | a//d//e//f// g//a//b//c'// d' z | \
+!//!c'!//!d'!//!g!//!f |  !//!c'!//!d'!//!g!//!f | e/a//a// a/c'/ a/a//a// a/c'/ | \
+a/A//A// A/A//A// A/c/e/c/ | AAAA/>A/ !segno! || \
+d A/>A/  f d/>d/ | a a//f//d//A// g g//e//c//A// | a a//f//d//A// g g//e//c//A// | \
+f//d//e//f// g//a//b//c'// d'z | d'/d'/ d' (d'3/4e'/8d'/8) c'/b/ | a//d//e//f// g//a//b//c'// d'z | \
+d'/d'/ d' (d'3/4e'/8d'/8) c'/b/ | a//d//e//f// g//a//b//c'// d'//c'//b//a// g//f//e//d// | \
+a//e//c//c// !turn!c c/>c/ d//f//f//a// | a//e//c//c// (c c/>c/) d//f//f//a// | !//!b2 !//!d' !//!c' | \
+d'//c'//d'//c'// d'//a//f//d// d'//c'//d'//c'// d'//a//f//d// | g//f//e//f// e//d//c//d// c//B//A//B// "_[to be checked in MS]" A//G//F//G// | \
+F//a//d'//a// d'//a//f//d// F//a//d'//a// d'//a//f//d// | g//f//e//f// e//d//c//d// c//B//A//B//  A//G//F//G// | \
+F//d//e//f// g//a//b//c'// !/!d'/!/!a/!/!f/!/!d/ | a//e//c//c// (c c/>c/) d//f//f//a// |  a//e//c//c// c c/>c/ d//f//f//a// | \
+!//!b2 !//!d' !//!c' | !//!d'4 | !//!d'2 !//!c'2 | !//!d'4 | !//!d'2 !//!c'2 | d'/d//d// !/!f/!/!a/ !/!f/!/!d/!/!f/!/!a/ | \
+d' d/>d/ d !fine!z |] \
+%--- "^Questo Coro" "^si replica" "^p.due volte(...)"
+[Q:"Allegretto"][K:G] z/!p!d/d/d/ z/c/c/c/ | z (B//c//d//c//) Bz | ze/>!p!g/ ed | dcB/G/B/d/ | z (^c//d//e//d//) ce | \
+z (d//e//f//e//) d/a/g/f/ | z (e//f//g//!p!f//) eg | (g/f/e/d/) (e/d/^c/B/) | \
+(B/A/d/f/) (f/e/d/^c/) | !f!d (A//B//A//B//) !p!A D/>D/ | !/!D2 ^C/D/E/>D/ | \
+D (C/4B,/4C/4B,/4) Cc | A c/2>d/2 e/2d/2c/2B/2 | A [Dda][Ddd']z | z/2=f/2f/2f/2 z/2f/2f/2f/2 | \
+z(e/4=f/4g/4f/4) e/2e/2g/2e/2 | de/2>c/2 (c/2B/2)(B/2A/2) | B/2c/2d/2e/2 !/!=f2 | \
+(e/4^d/4e/4d/4) e/4d/4e/4d/4 (e/4f/4g/4f/4) (g/4f/4g/4e/4) | e/d/B/>d/ d/c/B/A/ | Gzz2 || \
+"_NB: check" "_DC al segno" X | z/!p!e/e/a/ ez | ezcz/B/ | z !f!(A//B//c//B//) (!p!A/A/c/e/) | \
+z/d/d/d/ d2 | z (c//d//e//d//) c/e/e/=g/ | z/(f/e/^d/) eB | A a/>c'/ az | z/B/b/B/ z/B/b/B/ |\
+g/e/e/e/ z/d/d/d/ | z/(c/^B/c/) ^d/dd/ | (e/g/f/e/) z/(e/^d/c/) | B/e/e/g/ g/e/e/^d/ | \
+!f!e/b//g// e/B//G// E e/>e/ | ^g/bd'bg/ | a/c'//b// a//g//a//f// e a/>e/ | d[Ddb]e[Dca] |\
+^g/b//g// e/B//G// E e/>e/ | ^g/bd'bg/ | a/c'//b// a//g//a//f// e/f//g// a//g//f//e// | \
+d [Ecb]c[Eca] | ^g/b//g// e/B//G// Ez | !p!z/E/E/E/ F2 | z (E//G//A//F//) \
+%-- fol. 410
+Ez |z/E/E/E/ F2 | E a/>e/ c/c/e/=g/ | z/f/e/d/ {e}d/c/c/B/ | !f!A e/>e/ c/>c/ A/>A/ | !p!E3z | \
+%-- fol 411
+g a/e/ d/z/ c/z/ | z B/>e/ Ez | z/e/c/e/ e/d/d/c/ | z [EBg][EBe] z | z/A/A/A/ z/c/e/=g/ | \
+%--- fol 412
+z [fa][fd'] f//^g//a//f//& xDD!f!x | e f/>d/ c/e/d/B/ | c/d/e/f/ =g z/e/ | f/a/ f f/a/d'/f/ | e/e/f/d/ c/e/d/B/ | \
+Azz2 ||"_NB: check" "_DC al segno" X | \
+%--------------

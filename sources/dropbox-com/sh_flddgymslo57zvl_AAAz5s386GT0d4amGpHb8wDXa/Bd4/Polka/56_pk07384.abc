@@ -1,0 +1,58 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka CF (pk07384)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.317 (pk07384) orig. C,F
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"F"c'2g2 g2c'2 | e'2c'2 c'3e | "Dm"d>^cd>e "G7"f>ef>^f | "C"a>gf>a g2e2 | c'2g2 g2>c'2 | e'2c'2 c'3e | 
+"Dm"d>^cd>e "G7"f>ef>g | "C"c2e2 c2z2 || ("D7"ed)(d^c) .e2.d2 | ("G"ag)(g^f) .a2.g2 | ("D7"g^f)(fe') e'2d'2 | "G"c'>b^f>a g2d2 | 
+("D7"ed)(d^c) .e2.d2 | ("G"ag)(g^f) .a2.g2 | ("D7"g^f)(fe') .d'2.f2 | "G"g2b2 "G7"g2f2 | "C"e>^de>f g2e2 | c>Bc>d e2c2 | 
+"G7"B2a2 g3f | "C"e2d'2 c'3g   | e>^de>f g2e2 | c>Bc>d e2c2 | "G7"B>cd>e f>ga>b | "C"c'2c'2 c'2z2 || [K:F] 
+("F"c2f2) (fe)(gf) | ("C7"e2b2) (ba)(c'b) | e'2d'2 ggg2 | "F"d'2c'2 fff2 | (c2f2) (fe)(gf) | ("C7"e2b2) (ba)(c'b) | e'2d'2 ggg2 | "F"f2a2 f2z2 |]  
+%%% pk07384
+% July 20, 2017 (kurz darüber schlafen ...)
+
+X:2
+T:Polka CF 12- (pk07384)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.317 (pk07384) orig. C,F
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"F"c2G2 G2c2 | e2c2 c3E | "Dm"D>^CD>E "G7"F>EF>^F | "C"A>GF>A G2E2 | c2G2 G2>c2 | e2c2 c3E | 
+"Dm"D>^CD>E "G7"F>EF>G | "C"C2E2 C2z2 || ("D7"ED)(D^C) .E2.D2 | ("G"AG)(G^F) .A2.G2 | ("D7"G^F)(Fe) e2d2 | "G"c>B^F>A G2D2 | 
+("D7"ED)(D^C) .E2.D2 | ("G"AG)(G^F) .A2.G2 | ("D7"G^F)(Fe) .d2.F2 | "G"G2B2 "G7"G2F2 | "C"E>^DE>F G2E2 | C>B,C>D E2C2 | 
+"G7"B,2A2 G3F | "C"E2d2 c3G | E>^DE>F G2E2 | C>B,C>D E2C2 | "G7"B,>CD>E F>GA>B | "C"c2c2 c2z2 || [K:Fmaj] 
+("F"C2F2) (FE)(GF) | ("C7"E2B2) (BA)(cB) | e2d2 GGG2 | "F"d2c2 FFF2 | (C2F2) (FE)(GF) | ("C7"E2B2) (BA)(cB) | e2d2 GGG2 | "F"F2A2 F2z2 |] 
+%%% pk07384
+% July 20, 2017
+
+
+X:3
+T:Polka GC (pk07384)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.317 (pk07384) orig. C,F
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"C"g2d2 d2g2 | b2g2 g3B | "Am"A>^GA>B "D7"c>Bc>^c | "G"e>dc>e d2B2 | g2d2 d2>g2 | b2g2 g3B | 
+"Am"A>^GA>B "D7"c>Bc>d | "G"G2B2 G2z2 || ("A7"BA)(A^G) .B2.A2 | ("D"ed)(d^c) .e2.d2 | ("A7"d^c)(cb) b2a2 | "D"g>f^c>e d2A2 | 
+("A7"BA)(A^G) .B2.A2 | ("D"ed)(d^c) .e2.d2 | ("A7"d^c)(cb) .a2.c2 | "D"d2f2 "D7"d2c2 | "G"B>^AB>c d2B2 | G>FG>A B2G2 | 
+"D7"F2e2 d3c | "G"B2a2 g3d | B>^AB>c d2B2 | G>FG>A B2G2 | "D7"F>GA>B c>de>f | "G"g2g2 g2z2 || [K:Cmaj] 
+("C"G2c2) (cB)(dc) | ("G7"B2f2) (fe)(gf) | b2a2 ddd2 | "C"a2g2 ccc2 | (G2c2) (cB)(dc) | ("G7"B2f2) (fe)(gf) | b2a2 ddd2 | "C"c2e2 c2z2 |] 
+%%% pk07384
+% July 20, 2017

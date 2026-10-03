@@ -1,0 +1,36 @@
+
+X:1
+T:Twinkling Eyes
+C:Louis Lloyd Howarde(-1944)
+S:nla.obj-178274039
+%%score ( 1 2 )
+L:1/8
+M:4/4
+R:Schottische
+I:linebreak $
+Q: 1/8=120
+K:G
+V:1 treble nm="Bb Horn" snm="Horn"
+V:2 treble 
+V:1
+[I: MIDI=program 58](3CDE | =F>c A>F G2 (3CDE | =F>c A>F G2 (3CDE | =F>c A>c G>c F>D | E6 (3CD^D |$ 
+w:* 1 1 1 0 1 1 0 0 1 1 1 0 1 1 o o 1 1 1 0 1 0 0 0 1 1 1 0 1 2
+w:*3 2 **2 ***3 2 ** 2***3 2**2****3 2 * 2 3
+w:
+E>^D E>=F G>^F G2 | A>_B c>A =F>E F>A | G2 G2 G>D E>=F | G6 (3CDE |$ =F>c A>F G2 (3CDE | 
+w:1 2 1 1 0 1 0 1 1 0 1 1 1 1 1 0 0 0 1 1 1 0 0 1 1 1 0 1 1 0 0 1 1 
+w:2 3 2 * * * * 2 * * 2 * 2 * 2 * * * 3 2 * * * 3 2 * * 2 * * * 3 2
+w:
+=F>c A>F G>C D>E | =F4 F>A ^F>D | _B4 z4 | D2 _B,2 G,2 A>_B |$ c>d c>d c2 (3=FG^G | 
+w:1 0 1 1 0 0 1 1 1 1 1 2 1 1 1 1 1 1 1 0 1 0 1 0 1 0 2 
+w:* * 2 * * * 3 2 * * 2 * 3 * 3 * 3 2 * * * * * * * * 3 
+w:
+A>c B>c _B>G D>E | =F2 c2 =f2 z2 |] 
+w:1 0 2 0 1 0 1 1 1 0 1
+w:2 * * * * * 3 2
+V:2
+[I: MIDI=program 57]!fff!x2 | x8 | x8 | x8 | z2{/^c} d2{/^c} d2 z2 |$ x8 | x8 | x8 | z2{/^c} d2{/^c} d2 z2 |$ x8 | x8 | 
+x8 | z2 G2 G2 z2 | x8 |$ x8 | x8 | x8 |] 
+
+
+

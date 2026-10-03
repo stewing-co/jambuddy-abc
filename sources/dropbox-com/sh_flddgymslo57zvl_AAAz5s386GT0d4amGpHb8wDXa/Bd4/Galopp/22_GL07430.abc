@@ -1,0 +1,44 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Nur immer kreuzfidel. Galopp  FCBb (GL07430)  ABACA
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.338 (GL07430) orig. F,C,Bb
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACA
+R:Galopp
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c |"F"c'2zc | c'2zc | "C7"c'>c c>c | c>c c>c [P:A] |: "F"c>c c>c | c>A F>A |  c>a g>f |  "C7"e4 | 
+c>c c>c | c>B G>B | c>b a>g | "F"f4 | c>cc2 | "F7"c>a g>f | "Bb"d>d d>d | d>b a>g | "F"ac f2 | 
+"C7"gc e2 | "F".f2.a2 |1 f2z2 :|2 f2a2 |: [P:B] [K:C]   "G7"g2 f>d | B2 A>G | "C"G2 c>E | G3c | "G7"B2b2 | a3B | 
+"C"c2a2 | g3a | "G7"g2f>d | B2A>G | "C"G2c>E | G3c | "G7"B2b2 | b2ba | g2B>B |1 "C"c2a2 :|2 
+"C"cc c"_>Teil A"z || [K:Bb] F [P:C] |: "F7"F2f2 | F2f2 | "Bb"F2f2 | f3F | "F7"F2a2 | g3F | "Bb"F2g2 | 
+f3F | "F7"F2f2 | F2f2 | "Bb"F2g2 | f3F | "F7"F2a2 | a2g2 | "Cm"g2"F7"f2 |1 "Bb"bb bF :|2 "Bb"bb b"_>Teil A"z || 
+% GL07430
+% Sep 14, 2017 (No chance to succeed ...)
+
+X:2
+T:Nur immer kreuzfidel. Galopp  FBb (GL07430) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.338 (GL07430) orig. F,Bb
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G |"C"g2zG | g2zG | "G7"g>G G>G | G>G G>G |: "C"G>G G>G | G>E C>E | G>e d>c | "G7"B4 | 
+G>G G>G | G>F D>F | G>f e>d | "C"c4 | G>GG2 | "C7"G>e d>c | "F"A>A A>A | A>f e>d | "C"eG c2 | 
+"G7"dG B2 | "C".c2.e2 |1 c2z2 :|2 c2e2 |: [K:Gmaj] "D7"d2 c>A | F2 E>D | "G"D2 G>B, | D3G | "D7"F2f2 | e3F | 
+"G"G2e2 | d3e | "D7"d2c>A | F2E>D | "G"D2G>B, | D3G | "D7"F2f2 | f2fe | d2F>F |1 "G"G2e2 :|2 
+"G"GG G"_>Teil A"z || [K:Fmaj] C |: "C7"C2c2 | C2c2 | "F"C2c2 | c3C | "C7"C2e2 | d3C | "F"C2d2 | 
+c3C | "C7"C2c2 | C2c2 | "F"C2d2 | c3C | "C7"C2e2 | e2d2 | "Gm"d2"C7"c2 |1 "F"ff fC :|2 "F"ff f"_>Teil A"z || 
+W:Parts: ABACA
+% GL07430
+% Sep 14, 2017

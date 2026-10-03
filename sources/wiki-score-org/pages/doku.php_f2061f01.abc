@@ -1,0 +1,20 @@
+X:702
+T:Trio VI (Largo)
+C:Costa, Abade António da (1714-c1780)
+M:6/4
+L:1/4
+K:G
+V: 2 clef=treble name="Violino II.do" sname="Vl.II"
+%%MIDI program 1 40
+%%staves [ 2 ]
+%----- edit between the lines
+[Q:"Largo"] "_[fol.15 (34)]" .B | (d c) (a e2) (c | c e) (d =c3 |  B2) (_B A3 | A3 G2) .E | (G F) (d A2) (^G | ^G B) (A4 | A =G3)
+(=F2 |E2) (^D E2) (=d | d =c B c2) (^f | B2) (e2 ^d) (B | =c B/>)(^c/e//d3/4 d ^c/>)(d/ B | B/>^c/ ^A) .^F (=A/<=G/ ^F) (d |
+^c2 =c B2) c | (B2 _B A2) (=B | =c3 _B3) | (A2 ^G A =B) (^c | d3) (=c3 | B2) (^A B) (^F =A/)(^F/ |
+=G/E/G/)(B/e/)(=g/ ^f3 | f) (a g ^f3 | f2) (=f e3 | e4) d2- | d (c2 B3 | B2 e/)>(B/G)>z :|:
+.^F | (A G) (e B2) (^G | ^G B) (A =G3 | ^F2) (=F E3 | E3 D2) .B, | (D C) (A E2) (^D | ^D ^F) (E3 A) |
+(=D6| D =C) (^F B,2) .^F | (B A3 =G2 | G2) (^c ^F2) (=G | ^F4 F) (B |  E4 E) (=F |
+E4 E) (A | D4 D) (=F | _E2) (=A D3) | (G G/>=E/) (=F4 | =F =E4) (A | .^D) (E G) "_check"
+(^C D) (C | ^C E) (C2 D) (=C | B,4 B, =D/)(B,/ | =C/A,/C/)(E/A/)(=c/ B3-) |
+B (d c B3 | B2) (_B A3 | A4) G2- | G (F2 E3 | E2 A/)>(E/ C>z :|
+%---------------------------------

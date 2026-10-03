@@ -1,0 +1,53 @@
+I:abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X: 1
+T: Schottisch FCBb chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.389 (st11489) orig. F,C,Bb-Dur
+T: Tänze aus Altdorf (Uri)
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+d2 |: "C7"c2B2 A3G | "F"FGAB c2c2 | "C7"dbca g2ge | "F"fagf c2cd | "C7"c2B2 A3G | "F"FGAB c2c2 | "C7"dbca g2ge |1 
+"F"f2a2 f2d2 :|2 "F"f2a2 f2a2 |: [K:C] "G7"g2d2 GBdf | "C"e2c2 EGce | "G7"dcBA GFED | "C"CEGc e2ea | "G7"g2d2 GBdf | 
+"C"e2c2 EGce | "G7"dcBA GFED |1 "C"C2c2 c2a2 :|2 "C"C2c2 c2"_> Teil A"z2 |] [K:Bb] [L:1/8]d |: "Bb"df f>b | bf e>d | 
+"Cm"d>c cc | G2zB | "F7"B>A AA | Ag fc | "Bb"e>d dd | B2zd | df f>b | ba c'>b | 
+"Eb"a>g ge/c/ | G2zB | "F7"Ag gf/e/ | "Bb"df fe/d/ | "F7"ce G>A |1 "Bb"BB Bd :|2 "Bb"BB Bz |] 
+
+X: 2
+T: Schottisch FCBb chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+d2 [P:A] |: "C7"c2B2 A3G | "F"FGAB c2c2 | "C7"dbca g2ge | "F"fagf c2cd | "C7"c2B2 A3G | "F"FGAB c2c2 | "C7"dbca g2ge |1 
+"F"f2a2 f2d2 :|2 "F"f2a2 f2a2 [P:B] |: [K:C] "G7"g2d2 GBdf | "C"e2c2 EGce | "G7"dcBA GFED | "C"CEGc e2ea | "G7"g2d2 GBdf | 
+"C"e2c2 EGce | "G7"dcBA GFED |1 "C"C2c2 c2a2 :|2 "C"C2c2 c2"_> Teil A"z2 |] [K:Bb] [L:1/8][P:C] |: "Bb"df f>b | bf e>d | 
+"Cm"d>c cc | G2zB | "F7"B>A AA | Ag fc | "Bb"e>d dd | B2zd | df f>b | ba c'>b | 
+"Eb"a>g ge/c/ | G2zB | "F7"Ag gf/e/ | "Bb"df fe/d/ | "F7"ce G>A |1 "Bb"BB Bd :|2 "Bb"BB Bz |] 
+
+X:3
+T:Schottisch CGF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+A2 |: "G7"G2F2 E3D | "C"CDEF G2G2 | "G7"AfGe d2dB | "C"cedc G2GA | "G7"G2F2 E3D | "C"CDEF G2G2 | "G7"AfGe d2dB |1 
+"C"c2e2 c2A2 :|2 "C"c2e2 c2e2 |: [K:Gmaj] "D7"d2A2 DFAc | "G"B2G2 B,DGB | "D7"AGFE DCB,A, | "G"G,B,DG B2Be | "D7"d2A2 DFAc | 
+"G"B2G2 B,DGB | "D7"AGFE DCB,A, |1 "G"G,2G2 G2e2 :|2 "G"G,2G2 G2"_> Teil A"z2 |] [K:Fmaj] [L:1/8]A |: "F"Ac c>f | fc B>A | 
+"Gm"A>G GG | D2zF | "C7"F>E EE | Ed cG | "F"B>A AA | F2zA | Ac c>f | fe g>f | 
+"Bb"e>d dB/2G/2 | D2zF | "C7"Ed dc/2B/2 | "F"Ac cB/2A/2 | "C7"GB D>E |1 "F"FF FA :|2 "F"FF Fz |] 
+
+X:4
+T:Schottisch CGF 5- chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+A2 [P:A] |: "G7"G2F2 E3D | "C"CDEF G2G2 | "G7"AfGe d2dB | "C"cedc G2GA | "G7"G2F2 E3D | "C"CDEF G2G2 | "G7"AfGe d2dB |1 
+"C"c2e2 c2A2 :|2 "C"c2e2 c2e2 [P:B] |: [K:Gmaj] "D7"d2A2 DFAc | "G"B2G2 B,DGB | "D7"AGFE DCB,A, | "G"G,B,DG B2Be | "D7"d2A2 DFAc | 
+"G"B2G2 B,DGB | "D7"AGFE DCB,A, |1 "G"G,2G2 G2e2 :|2 "G"G,2G2 G2"_> Teil A"z2 |] [K:Fmaj] [L:1/8][P:C] |: "F"Ac c>f | fc B>A | 
+"Gm"A>G GG | D2zF | "C7"F>E EE | Ed cG | "F"B>A AA | F2zA | Ac c>f | fe g>f | 
+"Bb"e>d dB/2G/2 | D2zF | "C7"Ed dc/2B/2 | "F"Ac cB/2A/2 | "C7"GB D>E |1 "F"FF FA :|2 "F"FF Fz |] 
+
+

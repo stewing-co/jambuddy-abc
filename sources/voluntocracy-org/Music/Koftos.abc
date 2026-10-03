@@ -1,0 +1,64 @@
+X:1
+T:Koftos
+C:Trad.
+O:Greece
+A:Epirus
+Z:http://voluntocracy.org/Music
+Q:1/4=170
+M:4/4
+L:1/8
+K:Em
+V:1 name="clarinet" snm="clar"
+%%MIDI channel 1
+%%MIDI program 1 71
+%%MIDI beat 75 65 50 1
+D FG |:A2AG Bc dc | ~d2 cB ~A D F~G | A3~G B>c d>B | c>G EG ~c D F~G |
+ A3G ~Bc dc | ~d2 cB ~A2 zA | c>B A>c B>A G>B |1 ~A2 z2 z2 z2 :|2 ~A2 z2 z2 z G |
+|:e2 ~ed e>f g>a | g>=f ~ed ~cB ~AG | (e2~e)d e>f g>a | g>=f ~ed ~c2 z(G|
+e2) ~ed e>f g>a | g>=f ~ed ~cB ~AG | (~c~B) Ac (~B~A) GB |1 ~A2 z2 z2 z G :|2 ~A2 z2 z2 z2 ||
+V:2 name="santur" snm="sant"
+%%MIDI channel 1
+%%MIDI program 1 71
+%%MIDI channel 2
+%%MIDI program 2 15
+%%MIDI beat 120 110 95 2
+%%MIDI chordprog 24
+%%MIDI chordvol 50
+%%MIDI bassprog 24
+%%MIDI bassvol 50
+%%MIDI gchord fc2cf2c2
+D FG |:"Am"A2AG Bc dc | d2 cB A D FG | A3G B>c d>B |"C" c>G EG c D FG |
+"Am" A3G Bc dc | d2 cB A2 zA | "G" c>B A>c B>A G>B |1"Am" A \
+%%MIDI gchordoff
+%%MIDI beat 127 125 110 1
+ z F2G2^G2 \
+%%MIDI beat 120 110 95 2
+%%MIDI gchordon
+  :|2"Am" A \
+%%MIDI gchordoff
+%%MIDI beat 127 125 110 1
+ z A2_A2G2 |
+%%MIDI beat 120 110 95 2
+%%MIDI gchordon
+%%MIDI gchord fc2ccfc2
+|:"C"e2 ed e>f g>a | g>=f ed cB AG | e2ed e>f g>a | g>=f ed c2 z G|
+e2 ed e>f g>a | g>=f ed cB AG |"G" cB Ac BA GB |1"Am" A \
+%%MIDI gchordoff
+%%MIDI beat 127 125 110 1
+ z A2_A2G2 \
+%%MIDI beat 120 110 95 2
+%%MIDI gchordon
+  :|2"Am" A \
+%%MIDI gchordoff
+%%MIDI beat 0 0 0 0
+ z F2G2^G2 \
+%%MIDI beat 120 110 95 2
+%%MIDI gchordon
+ ||
+W:
+W:
+W:Arrangement Copyright (C) 2000, 2026 Voluntocracy.
+W:
+W:Permission is granted to copy and distribute modified or unmodified versions of this music
+W:provided the copyright notice and this permission notice are preserved on all copies and the
+W:entire such work is distributed under the terms of a permission notice identical to this one.

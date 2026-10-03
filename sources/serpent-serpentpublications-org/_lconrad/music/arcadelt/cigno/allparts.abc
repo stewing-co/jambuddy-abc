@@ -1,0 +1,210 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T: Il bianco e dolce cigno
+T: Cantus
+C:Jacques Arcadelt (1504? - 1568)
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+K:G
+G2 G3 G A A B2 G
+w:Il bian- co~e dol- ce ci- gno,
+G A B c2 B2
+w:can- tan- do mo- re.
+z G G/ G/ G A2 =F2
+w:Ed i- o pian- gen- do
+z F G G2 F E E D2 D2
+w: giung' al fin del vi- ver mi- o.
+z G G/ G/ G A2 A2
+w:Ed i- o pian- gen- do
+z A c B2 A > G G2 F G2
+w:giung' al fin' del vi- ver mi- o.
+z G G G A A B B 
+w: Stran' e di- ver- sa sor- te,
+z B B A B c B B
+w: ch'ei mo- re scon- so-la- to.
+z B B/ B/ A B c B > c d/ B/ c > B B2 A B6
+w: Ed i- o mo- ro be- a _ _ _ _ _ _ _ to.
+B2 B B B B c2 A3
+w: Mor- te che nel mo- ri- re 
+A B A G G 
+w: m'em- pie di gio- ia,
+F G E E D2 D2
+w: tut- t'e di de- si- re.
+F2 F F G3 E G E F F G2 F6
+w: Se nel mo- rir al- tro do- lor non sen- to,
+z2 z G c > B A G F
+w: di mil- le mort' il di
+A A/ G/ G2 F G4
+w: sa- rei con- ten- _ to.
+z G c > B A G F
+w: di mil- le mort' il di 
+A A/ G/ G2 F G8 - G
+w: sa- rei con- ten- _ to *
+G G2 G2 |]
+w: con- ten- to.
+
+X:2
+T: Il bianco e dolce cigno
+T:Altus
+C:Jacques Arcadelt (1504? - 1568)
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+K:G
+D2 E3 D E F G3/2 F//E// D
+w:Il bian- co~e dol- ce ci- _ _ gno,
+E E/ D/ G2 F G2
+w:can- tan- do mo- * re.
+D2 D/ D/ D =F2 C2
+w:Ed i- o pian- gen- do
+F2 E D2 D B, C A,2 B,2
+w: giung' al fin del vi- ver mi- o.
+D2 D/ D/ D =F2 =F2
+w:Ed i- o pian- gen- do
+F2 G G2 F E E D2 B,2
+w:giung' al fin' del vi- ver mi- o.
+z D E > D E F G G
+w: Stran' e di- ver- sa sor- te,
+z G2 F2 E F G F G 
+w: ch'ei mo- re scon- so-la- to.
+z F F/ F/ E F2 G A F G > F E2 ^D/ ^C/ ^D2 E2
+w: Ed i- o mo- ro be- a _ _ _ _ _ _ _ to.
+z G G G G G G2 F2
+w: Mor- te che nel mo- ri- re 
+z F F D D C D 
+w: m'em- pie di gio- ia,
+B, A, G,2 F, G,2
+w: tut- t'e di de- si- re.
+A,2 A, A, C3 G, C > B, A, D2 C D
+w: Se nel mo- rir al- tro do- lor non sen- to,
+A, D > C B, A, G, 
+w: di mil- le mort' il di
+D G3 F E E D2
+w: di mil- le mort' il di 
+z G, D > C B, > A, G,
+w: di mil- le mort' il di 
+D G3 F E E D2 
+w: di mil- le mort' il di 
+z G, D > C B, > A, G, 
+w: di mil- le mort' il di 
+B, C > D E > D C
+w: sa- rei _ _ _ _
+D E2 D2 |]
+w: con- ten- to.
+
+X:3
+T: Il bianco e dolce cigno
+T:Tenor
+C:Jacques Arcadelt (1504? - 1568)
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+%%MIDI transpose -12
+K:G -8va
+G2 c3 B c d G > A B
+w:Il bian- co~e dol- ce ci- * gno,
+c c B A2 G2
+w:can- tan- do mo- re.
+B2 B/ B/ B c2 A2
+w:Ed i- o pian- gen- do
+A2 c B2 A > G G2 F G2
+w: giung' al fin del vi- ver mi- o.
+B2 B/ B/ B c2 c2
+w:Ed i- o pian- gen- do
+d2 e d2 d B c A2 G2
+w:giung' al fin' del vi- ver mi- o.
+z G c > B c d > c B/ A/ G G
+w: Stran' e di- ver- sa _ _ _  sor- te,
+z d d c d e d d
+w: ch'ei mo- re scon- so-la- to.
+z d d/ d/ c d2
+w: Ed i- o mo- ro 
+z e e/ e/ B e e f4 g2
+w: Ed i- o mo- ro be- a to.
+z e e e d d e2 d2
+w: Mor- te che nel mo- ri- re 
+z d d d B G 
+w: m'em- pie di gio- ia,
+A G c > B A2 B2
+w: tut- t'e di de- si- re.
+z d d d e3 c e e d d G2 A2
+w: Se nel mo- rir al- tro do- lor non sen- to,
+z A d > c B > A G
+w: di mil- le mort' il di
+B e > d c > B A
+w: di mil- le mort' il di
+d B c A A/
+w: sa- rei con- ten-  to.
+A/ d > c B > A G 
+w: di mil- le mort' il di 
+B e > d c > B A
+w: di mil- le mort' il di 
+d B c A2 G
+w: sa- rei con- ten- to 
+d g > f e > d c > d e
+w: di mil- le mort' il di 
+ d c2 B2 |]
+w: sa- rei con- ten-  to.
+
+X:4
+T: Il bianco e dolce cigno
+T: Bassus
+C:Jacques Arcadelt (1504? - 1568)
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+%%MIDI transpose -24
+K:G bass
+z8 z8 z2 g2 g/ g/ g =f2 =f2
+w:Ed i- o pian- gen- do
+d2 c g2 d e c d2 G2
+w: giung' al fin del vi- ver mi- o.
+g2 g/ g/ g =f2 =f2
+w:Ed i- o pian- gen- do
+d2 c g2 d e c d2 G4
+w:giung' al fin' del vi- ver mi- o.
+z2 z  d g > f e e d d 
+w: Stran' e di- ver- sa sor- te,
+z8 z2 z b b/ b/ a b b c'2 b4 e2
+w:Ed i- o mo- ro be- a- _ to.
+z e e e g g c2 d2
+w: Mor- te che nel mo- ri- re 
+z d d d e e 
+w: m'em- pie di gio- ia,
+d e c c d2 G2
+w: tut- t'e di de- si- re.
+d2 d d c3 c c c d d e2 d4
+w: Se nel mo- rir al- tro do- lor non sen- to,
+z d g > f e > d c4 
+w: di mil- le mort' il di
+d2 e c d2 G
+w: sa- rei con- ten- to.
+G g > f e > d c4
+w: di mil- le mort' il di 
+d2 e c d d/
+w: sa- rei con- ten- to 
+d/ g > f e > d c2
+w: di mil- le mort' il di 
+z c c B c2  G2 |]%[d2 G2] |]
+w: sa- rei con- ten- to.
+

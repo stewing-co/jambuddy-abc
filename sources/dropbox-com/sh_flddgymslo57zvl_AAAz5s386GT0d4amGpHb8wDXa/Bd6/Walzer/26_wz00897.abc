@@ -1,0 +1,91 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walzer  CF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.230 (wz00897) orig. C,F-Dur
+T:L\"otschental. S.214-233. Repertoire von Xander Murmann, Weissenried, 1874-1948
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"c3 | "G7"B3 | "C"c>cc | czG |: ("C"e3 | e)d/c/ B/A/ |  G3 | EGc | "G7"B3 | GBd | "C"c3 | 
+GzG | (e3 | e)d/c/ B/A/ | G3 | EGc | "G7"B3 | Bed | "C"c>cc | czG :: "G7"FzG | BzG | 
+"C"EzG | cze | "G7"f/f/fG | d2c/d/ | "C"e/e/eG | c2G | "G7"FzG | BzG | "C"EzG | czB/A/ | 
+G>ce | "G7"G>Bd | "C"c>cc |1 "C"czG :|2 "C"czc/_B/ |: [K:F] "F"A3 | FAd | c3 | Acf | "C7"e3 | 
+"Bb"gfd | "F"d2c | Azc/B/ | A3 | FAd | c3 | Acf | a3 | "C7"g3 | "F"f>ff |1 fzc/B/ :|2 fzz |]  
+W:
+W: Anmerkung H.C.: 7. Jan. 1950
+% wz00897
+X:2
+T:Walzer  GC 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G%%MIDI gchordon
+"G"G3 | "D7"F3 | "G"G>GG | GzD |: ("G"B3 | B)A/2G/2 F/2E/2 | D3 | B,DG | "D7"F3 | DFA | "G"G3 | 
+DzD | (B3 | B)A/2G/2 F/2E/2 | D3 | B,DG | "D7"F3 | FBA | "G"G>GG | GzD :: "D7"CzD | FzD | 
+"G"B,zD | GzB | "D7"c/2c/2cD | A2G/2A/2 | "G"B/2B/2BD | G2D | "D7"CzD | FzD | "G"B,zD | GzF/2E/2 | 
+D>GB | "D7"D>FA | "G"G>GG |1 "G"GzD :|2 "G"GzG/2=F/2 |: [K:C] "C"E3 | CEA | G3 | EGc | "G7"B3 | 
+"F"dcA | "C"A2G | EzG/2F/2 | E3 | CEA | G3 | EGc | e3 | "G7"d3 | "C"c>cc |1 czG/2F/2 :|2 czz |] 
+% wz00897
+X:3
+T: Walzer  CF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"c3 | "G7"B3 | "C"c>cc | czG |: ("C"e3 | e)d/c/ B/A/ |  G3 | EGc | "G7"B3 | GBd | "C"c3 | 
+GzG | (e3 | e)d/c/ B/A/ | G3 | EGc | "G7"B3 | Bed | "C"c>cc | czG :: "G7"FzG | BzG | 
+"C"EzG | cze | "G7"f/f/fG | d2c/d/ | "C"e/e/eG | c2G | "G7"FzG | BzG | "C"EzG | czB/A/ | 
+G>ce | "G7"G>Bd | "C"c>cc |1 "C"czG :|2 "C"czc/_B/ |: [K:F] "F"A3 | FAd | c3 | Acf | "C7"e3 | 
+"Bb"gfd | "F"d2c | Azc/B/ | A3 | FAd | c3 | Acf | a3 | "C7"g3 | "F"f>ff |1 fzc/B/ :|2 fzz |]  
+% wz00897
+X:4
+T:Walzer  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"G3 | "D7"F3 | "G"G>GG | GzD |: ("G"B3 | B)A/2G/2 F/2E/2 | D3 | B,DG | "D7"F3 | DFA | "G"G3 | 
+DzD | (B3 | B)A/2G/2 F/2E/2 | D3 | B,DG | "D7"F3 | FBA | "G"G>GG | GzD :: "D7"CzD | FzD | 
+"G"B,zD | GzB | "D7"c/2c/2cD | A2G/2A/2 | "G"B/2B/2BD | G2D | "D7"CzD | FzD | "G"B,zD | GzF/2E/2 | 
+D>GB | "D7"D>FA | "G"G>GG |1 "G"GzD :|2 "G"GzG/2=F/2 |: [K:C] "C"E3 | CEA | G3 | EGc | "G7"B3 | 
+"F"dcA | "C"A2G | EzG/2F/2 | E3 | CEA | G3 | EGc | e3 | "G7"d3 | "C"c>cc |1 czG/2F/2 :|2 czz |] 
+% wz00897
+X:5
+T:Walzer D&G (tinwhistle in D)
+T:wz00897 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+"D"d3 | "A7"c3 | "D"d>dd | dzA |: ("D"f3 | f)e/2d/2 c/2B/2 | A3 | FAd | "A7"c3 | Ace | "D"d3 | 
+AzA | (f3 | f)e/2d/2 c/2B/2 | A3 | FAd | "A7"c3 | cfe | "D"d>dd | dzA :: "A7"GzA | czA | 
+"D"FzA | dzf | "A7"g/2g/2gA | e2d/2e/2 | "D"f/2f/2fA | d2A | "A7"GzA | czA | "D"FzA | dzc/2B/2 | 
+A>df | "A7"A>ce | "D"d>dd |1 "D"dzA :|2 "D"dzd/2=c/2 |: [K:G] "G"B3 | GBe | d3 | Bdg | "D7"f3 | 
+"C"age | "G"e2d | Bzd/2c/2 | B3 | GBe | d3 | Bdg | b3 | "D7"a3 | "G"g>gg |1 gzd/2c/2 :|2 gzz |] 
+X:6
+T:Walzer D&G (tinwhistle in D) solo
+T:wz00897 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+d3 | c3 | d>dd | dzA |: (f3 | f)e/2d/2 c/2B/2 | A3 | FAd | c3 | Ace | d3 | 
+AzA | (f3 | f)e/2d/2 c/2B/2 | A3 | FAd | c3 | cfe | d>dd | dzA :: GzA | czA | 
+FzA | dzf | g/2g/2gA | e2d/2e/2 | f/2f/2fA | d2A | GzA | czA | FzA | dzc/2B/2 | 
+A>df | A>ce | d>dd |1 dzA :|2 dzd/2=c/2 |: [K:G] B3 | GBe | d3 | Bdg | f3 | 
+age | e2d | Bzd/2"_c"c/2 | B3 | GBe | d3 | Bdg | b3 | a3 | g>gg |1 gzd/2"_c"c/2 :|2 gzz |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 27, 2016

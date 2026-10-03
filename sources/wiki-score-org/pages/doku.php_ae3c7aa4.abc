@@ -1,0 +1,23 @@
+X:605
+T:Tantum Ergo
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 5 clef=bass name="Contra B." sname="CB."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%------------------
+"_[fol.192]" [Q:"Andante"] !p! "^piz."CG,CG, | =B,G,B,G, | CG,CG, | D_B,DB, | EB,E"^arco"z | \
+"_[fol.193]" Z2 | !p!(C2!>(!!>)!=B,2) | Z | !p!(_B,2=A,2) | "_cresc." _A,A,A,A, | G, (!p!F,E,D,) | \
+"_[fol.194]" !p! .C,/z/ .G,/z/ .C,/z/ .G,/z/ | .=B,/z/ .G,/z/ .B,/z/ .G,/z/ | !p! .C/z/ .G,/z/ .C/z/ .G,/z/ | .=B,/z/ .G,/z/ .B,/z/ .G,/z/ | .C/z/zz2| z2 !p!E2- | \
+"_[fol.195]" E4- | E4 | !p! D2B,B, | C2A,A, | !p! D2B,B, | (C,D,E,=E,) |\
+"_[fol.196]" (F,2^F,2) | G,zG,z | _A,zz2 | Z | "_piz." CG,CG, | CzG,!p!z | "_arco" "^Segue;genitori" !fermata! C,4 || \
+"_[fol.197]" [Q:"Genitori"][Q:"Moderato"][M:2/4] Z6 | z "_piz." E,| A,A, | "^arco" !p!E,G, | A,2 | G,E, | \
+"_[fol.198]" A,A, | !f!=A,F, | B,z| Z2 | !f! =B,G, | Cz | Z2 | \
+"_[fol.199]" Z4 | !f! F, _D | CA, | !f! _DD | CA, | _Dz | \
+"_[fol.200]" Z2 | z!f!=D, | E,D, | E, !f! =E, | F,=E, | F, !f! ^F, | !>!G,2- | \
+"_[fol.201]" G,/z/z | Z2 | z "_piz" C, | F,B,, | G, E, | A,z | Z2 | \
+"_[fol.202]" Z | z "_piz" C, | A,B,, | G, C, | F,z | Z3 | "_piz" CG, |CG, | =B,G, | \
+"_[fol.203]" =B,G, | !p!CG, | CG, | !p!=B,G, | =B,G, | Cz | Cz | Cz || Z | "^arco"!p!C,z | C,z | C, "_finis" !fermata!z |]
+%------------------

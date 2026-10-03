@@ -1,0 +1,187 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XX. What poore Astronomers are they,
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+K:G mix
+z2 z A B/ c/ d c B | A > A G3/2 
+w: 1.~What poore _ A- stro- no- mers are they,
+w: 2.~And love _ it selfe is but a jeast.
+w: 3.~But yet _ it is a sport to see
+w: 4.~But such _ as will run mad with will,
+G/ c A B B A4 |
+w: Take wo- mens eies for stars
+w: De- visde by i- dle heads,
+w: How wit will run on wheeles,
+w: I can- not cleare their sight:
+z2 d3 c/ B/ c A | B ^c
+w: And set their thoughts in bat- tel ray
+w: To catch yong fan- cies in hte neast,
+w: While wit can- not per- swa- ded be
+w: But leave them to their stu- die still,
+d > B c G A A G4 
+w: To  fight such id- le warres,
+w: And  lay it in fooles beds.
+w: With  that which rea- son feeles:
+w: To  looke where is no light.
+|: A/ G/ ^F/ E/ D d > c B A2 |
+w: When in the _ end they shal ap- prove,
+w: That be- ing _ hatcht in beaut- ies eyes,
+w: That wo- mens _ eyes and starres are odde,
+w: Till time too _ late we make them crie,
+e3/2 d// c// B G B A G2 :|
+w: Tis but a jest drawne out of love.
+w: They may be flidge ere they be wise.
+w: And love is but a fain- ed god.
+w: They stu- dy false A- stro- no- mie.
+
+X:2
+T:XX. What poore Astronomers are they,
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+K:G mix
+z2 z ^F G G G G G ^F G3/2
+w: 1.~What poore A- stro- no- mers are they,
+w: 2.~And love it selfe is but a jeast.
+w: 3.~But yet it is a sport to see
+w: 4.~But such as will run mad with will,
+ E/ A > E F E E4
+w: Take wo- mens eies for stars
+w: De- visde by i- dle heads,
+w: How wit will run on wheeles,
+w: I can- not cleare their sight:
+D2 G2 D E2 D G > G ^F
+w: And set their thoughts in bat- tel ray
+w: To catch yong fan- cies in hte neast,
+w: While wit can- not per- swa- ded be
+w: But leave them to their stu- die still,
+G E G G ^F G4
+w: To fight such id- le warres,
+w: And lay it in fooles beds.
+w: With that which rea- son feeles:
+w: To looke where is no light.
+|:^F D/ E/ F G G > G ^F2 
+w: When in the end they shal ap- prove,
+w: That be- ing hatcht in beaut- ies eyes,
+w: That wo- mens eyes and starres are odde,
+w: Till time too late we make them crie,
+G G > G D/ E/ D > C B,2 :|
+w: Tis but a jest drawne out of love.
+w: They may be flidge ere they be wise.
+w: And love is but a fain- ed god.
+w: They stu- dy false A- stro- no- mie.
+
+X:3
+T:XX. What poore Astronomers are they,
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+%%MIDI transpose -12
+K:G mix -8va
+z2 z d d B e d d > c B3/2 
+w: 1.~What poore A- stro- no- mers are they,
+w: 2.~And love it selfe is but a jeast.
+w: 3.~But yet it is a sport to see
+w: 4.~But such as will run mad with will,
+c// d// e e d B ^c4
+w: Take _ wo- mens eies for stars
+w: De- * visde by i- dle heads,
+w: How _ wit will run on wheeles,
+w: I _ can- not cleare their sight:
+B3 A/ G/ A3 d d G A
+w: And set their thoughts in bat- tel ray
+w: To catch yong fan- cies in hte neast,
+w: While wit can- not per- swa- ded be
+w: But leave them to their stu- die still,
+B G c/ B/ d > c B4
+w: To fight such _ id- le warres,
+w: And lay it _ in fooles beds.
+w: With that which _ rea- son feeles:
+w: To looke where _ is no light.
+|: A A/ A/ A B > c d d2
+w: When in the end they shal ap- prove,
+w: That be- ing hatcht in beaut- ies eyes,
+w: That wo- mens eyes and starres are odde,
+w: Till time too late we make them crie,
+"(1)"e2 d/ d/ B/ G G/ ^F G2 :|
+w: Tis but a jest drawne out of love.
+w: They may be flidge ere they be wise.
+w: And love is but a fain- ed god.
+w: They stu- dy false A- stro- no- mie.
+N:(1) Original has a quarter note.
+
+X:4
+T:XX. What poore Astronomers are they,
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+%%MIDI transpose -24
+K:G mix bass
+z2 z d g > G c G d > d G3/2
+w: 1.~What poore A- stro- no- mers are they,
+w: 2.~And love it selfe is but a jeast.
+w: 3.~But yet it is a sport to see
+w: 4.~But such as will run mad with will,
+ c/ A c d e A4
+w: Take wo- mens eies for stars
+w: De- visde by i- dle heads,
+w: How wit will run on wheeles,
+w: I can- not cleare their sight:
+g3 f/ e/ f3 f e e d 
+w: And set their thoughts in bat- tel ray
+w: To catch yong fan- cies in hte neast,
+w: While wit can- not per- swa- ded be
+w: But leave them to their stu- die still,
+g c e d d G4
+w: To fight such id- le warres,
+w: And lay it in fooles beds.
+w: With that which rea- son feeles:
+w: To looke where is no light.
+|: d  d/ d/ d/ c/ B/ A/ G G d2
+w: When in the end _ they _ shal ap- prove,
+w: That be- ing hatcht _ in _ beaut- ies eyes,
+w: That wo- mens eyes _ and _ starres are odde,
+w: Till time too late _ we _ make them crie,
+c/ d/ e/ ^f/ g/ G/ B/ c/ d d G2 :|
+w: Tis _ but a jest drawne _ _ out of love.
+w: They _ may be flidge ere _ _ they be wise.
+w: And _ love is but a _ _ fain- ed god.
+w: They _ stu- dy false A- * _ stro- no- mie.
+

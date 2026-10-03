@@ -1,0 +1,445 @@
+%%continueall 1
+
+X:13
+T:Vanocni noc
+M:3/4
+L:1/4
+%%staves [(1 2) (3 4)] {(1I 2I) 3I}
+%%continueall 0
+K:Bb
+V:1 name=S
+FGA | B2B | c2c | (d3/c//d//)e | dc2 | B2z |
+FGA | B2B | c2c | (d3/c//d//)e | dc2 | B2z |
+ddc | d2c | dB2 | c2B | AG2 | F2z |
+ddc | d2c | dB2 | (c3/d/)e | dc2 | B3 |]
+V:2 name=A
+DD=E/F/ | G2D | F2G | (FD)G | G(CF)| D2x |
+DD=E/F/ | G2D | F2G | (FD)G | G(CF)| D2x |
+FFF | F2F | F(F=E) | F2B, | CC2 | C2x |
+DFF | F2F | F(F=E) | F2G | G(CF) | F3 |]
+V:3 name=T
+B,B,C | (G,3/A,/)B, | A,2G, | B,2C/B,/ | B,(B,A,) | B,2z |
+B,B,C | (G,3/A,/)B, | A,2G, | B,2C/B,/ | B,(B,A,) | B,2z |
+B,B,C | B,2C | B,(B,G,) | A,2G, | F,(F,=E,) | F,2z |
+F,B,C | B,2C | B,(B,G,) | (A,3/B,/)C | B,(B,A,) | B,3 |]
+V:4 name=B
+B,,B,,A,, | G,,2G, | F,2_E, | (D,B,,)E, | E,F,2 | B,,2x |
+B,,B,,A,, | G,,2G, | F,2_E, | (D,B,,)E, | E,F,2 | B,,2x |
+B,,B,,A,, | B,,2A,, | B,,G,,2 | F,,2G,, | A,,/B,,/ C,2 | F,,2x |
+B,,B,,A,, | B,,2A,, | B,,G,,2 | (F,,F,)E, | E,F,2 | B,,3 |]
+V:1I
+FD=E/F/ | G2D | F2G | F2G- | GF2 | D2z |
+FD=E/F/ | G2D | F2G | F2G- | GF2 | D2z |
+F3 | FBF | F2=E | F2D | FG2 | A2z |
+F3 | FBF | F2=E | FA/B/c | GF2 | F3 |]
+V:2I
+DB,C | B,2B, | A,2C | FDC | B,2A, | B,2x |
+DB,C | B,2B, | A,2C | FDC | B,2A, | B,2x |
+D2C | D2C | dB,2 | A,2B, | C3 | C2z |
+D2C | D2C | dB,2 | A,CG | EC2 | D3 |]
+V:3I
+B,,2A,, | G,,2G, | F,2E, | D,B,,E,- | E, F,2 | B,,2z |
+B,,2A,, | G,,2G, | F,2E, | D,B,,E,- | E, F,2 | B,,2z |
+B,,2A,, | B,,2A,, | B,,G,,2 | x2G,&F,,2G,, | F,2=E,&A,,/B,,/C,2 | F,2x&F,,2z | 
+B,,2A,, | B,,2A,, | B,,G,,2 | xxC&F,,F,E,- | B,2A,&E,F,2 | B,3&B,,3 |]
+
+
+X:12
+T:Joyeusement chantons Noël
+C:Musique : Adam Vaclav Michna
+C:Adaptation : Bernard Lallement
+M:3/4
+L:1/4
+Q:"Majestueusement"
+%%staves [1 2 3 4]
+K:C
+V:1 name=S
+Gcd | edf | d>cd | c2e | edc |
+d2G | A2B | c2z | cBc | dcB |
+A>GA | G2z | GAB | cde | d>cd | c3 :|
+V:2 name=A
+EEG | G2A | G2G | E2G | G2G |
+GDE | (AF)D | E2z | GGE | GcG&DEE |
+A>GF&^F>EF | G2z&D2x | GEG&EED | cGG&CGG | G3 | E3 :|
+V:3 name=T
+ccB | c2c | B>AB | c2c | cBA |
+B2c | d2d | c2z | edc | BAG |
+d3 | B2z | ccd | edc | B>AB | c3 :|
+V:4 name=B
+CA,G, | C,2F,, | G,,2G,, | C,2C, | C,2C, |
+G,2E, | (F,D,)G, | C,2z | C,G,,A,, | B,,C,C, |
+D,3 | G,2z | C,C,B,, | A,,B,,C, | G,,3 | C,3 :|
+
+
+X:11
+T:Suivant l'Étoile qui, du Ciel ...
+C:Musique : Adam Vaclav Michna
+C:Adaptation : Bernard Lallement
+M:3/4
+L:1/4
+Q:"Majestueusement"
+%%staves [1 2 3 4]
+K:C
+V:1 name=S
+ddd | d2A | B2^c | d3 | dA=c | cB2 | A2z |
+=ccc | _B2A | G2F | G3 | GA_B | (G/F/)E2 | D2z || [M:C|]
+(3EEE EE | EFG2 | GGG>F | A2A2 |
+(3AAA AA | A=Bc2 || [M:3/2] =Bcdd(^c3/ B//c//) | Hd4z2 :|
+V:2 name=A
+^FFF | ^F2D | D2E | ^F3 | ^FFE | EE2 | [E2^C2]z |
+FFF&A,CF | (D>E)F | E2D | E3 | EFG&E(D/C/)D | D(^C3/B,//C//) | D2z || [M:C|]
+(3^CCC CC | ^CDE2 | EEE>D | =F2F2 |
+(3^FFF FF | ^FGA2 || [M:3/2] DE=FFE2 H^F4z2 :|
+V:3 name=T
+AAA | A2A | G2G | A3 | A^FA | A(^G3/^F//G//) | A2z |
+AAA | G2F | c2A | c3 | cF_B | _B(EA) | A2z || [M:C|]
+(3AAA EA | AA=c2 | ccGc | c2c2 |
+(3ddd Ad | dd=f2&ddA2 || [M:3/2] dAAAA2&=BA/G/=FD(EA) | H[A4D4]z2 :|
+V:4 name=B
+D,D,D, | D,2^F, | G,2E, | D,3 | D,D,A,, | A,,E,2 | A,,2z |
+F,,F,,F,, | G,,2(A,,/_B,,/) | C,2D, | C,3 | C,(_B,,/A,,/) G,, | G,,A,,2 | D,2z || [M:C|]
+(3A,,A,,A,, A,,A,, | A,,D,=C,2 | C,C,C,C, | F,2F,2 |
+(3D,D,D, D,D, | D,G,=F,2 || [M:3/2] G,(=F,/E,/) D,D, A,,2 | HD,4z2 :|
+
+
+
+X:10
+T:Quand nous voyons Marie
+C:Musique : Adam Vaclav Michna
+C:Adaptation : Bernard Lallement
+M:C|
+L:1/4
+%%staves [1 2 3 4]
+K:Gm
+V:1 name=S
+G | BABc | A2 (Ad) | GABc | A2(AA) | BBcc | dd/f/ed | cBA2 | G3z :|
+V:2 name=A
+D | DFGE | D2DD | DFGE | D2DD | DDFF | FF/F/CF | FDD2 | D3 z :|
+V:3 name=T
+B | BdGA | ^F2FA | BdGA | ^F2FF | G/A/BBA | BB/d/GB | AGG^F | G3z :|]
+V:4 name=B
+G, | G,F,E,C, | D,2D,^F, | G,F,E,C, | D,2D,D, | G,G,F,F, | B,,B,,/B,,/C,D,/=E,/ | F,B,,D,2 | G,,3z :|
+
+
+
+X:9
+T:Ce soir est né, dans le froid
+C:Noël populaire de Bohême du XVIe s
+C:Harmonisation et libre adaptation française : Bernard Lallement
+M:3/4
+L:1/4
+%%staves [1 2 3 4]
+K:D
+V:1
+A F/E/ D | [M:2/4] F/G/A | [M:3/4] de c/A/ | BA2 |
+A B/c/ d | AG/F/E | GAF/D/ | !diminuendo(!ED2!diminuendo)! |
+AF/E/D | [M:2/4]F/G/A | [M:3/4] dec/A/ | BA2 |
+A B/c/ d | AG/F/E | GAF/D/ | !diminuendo(!ED2!diminuendo)! |
+!f!DE/F/G | =cB/A/G | de^c/A/ | B!crescendo(!A2 |!crescendo)! 
+AB/c/d | AG/F/E | GAF/D/ !diminuendo(! | E!diminuendo)!HD2 |]
+V:2
+A F/E/D | [M:2/4] D/E/F | [M:3/4] AcA/F/ | GE2 |
+(E/F/) G/ E/ A | F D/ D/ C | D F D/ D/ | CD2 |
+A F/E/D | [M:2/4] D/E/F | [M:3/4] AcA/F/ | GE2 |
+(E/F/) G/ E/ A | F D/ D/ C | D F D/ D/ | CD2 |
+!f!D E/F/G | GF/F/E | FAA/F/ | (G/E/)!crescendo(!F2 |!crescendo)!
+(F/E/)G/G/F | FD/D/C | EA,D/D/ | (D/C/)HD2 |]
+V:3
+AF/E/D | [M:2/4] A/A/A | [M:3/4] fee/c/ | dc2 |
+cd/e/f | dB/A/c | BdA/A/ | AA2 |
+AF/E/D | [M:2/4] A/A/A | [M:3/4] fee/c/ | dc2 |
+cd/e/f | dB/A/c | BdA/A/ | AA2 |
+!f!DE/F/G | ed/=c/B | !crescendo(!B^c!crescendo)!e/c/ | (d/B/)!crescendo(!c2 |!crescendo)!
+cd/e/(f/d/) | (c/d//c//) B/A/ c | BeA/A/ | AHA2 |]
+V:4
+A,F,/E,/D, | [M:2/4] D,/D,/ D, | [M:3/4] D,A,A,/A,/ | G,A,2 |
+A,G,/G,/F, | F,G,/D,/A, | G,D,D,/D,/ | A,,D,2 |
+A,F,/E,/D, | [M:2/4] D,/D,/ D, | [M:3/4] D,A,A,/A,/ | G,A,2 |
+A,G,/G,/F, | F,G,/D,/A, | G,D,D,/D,/ | A,,D,2 |
+!f!D, E,/F,/G, | =C, D,/D,/ E, | B,,A,,A,/A,/ | G, !crescendo(!F,2 |!crescendo)!
+(F,/A,/) G,/E,/ B, | F,G,/D,/ A, | E,C,D,/F,,/ | A,,HD,2 |]
+W:Harmonisation : Fontenay-aux-Roses, 13 avril 1988
+W:Adaptation française : Wolfenbuttel, 14 septembre 1997
+
+X:8
+T:La Noël passée
+T:(Noël du povret)
+C:Harmonisation
+C:Bernard Lallement
+C:Paroles de F. Lozet
+O:XVIIe siècle
+M:3/4
+L:1/4
+%%staves 1 {(2 3) (4 5)}
+K:Ab
+V:1 name="Baryton solo"
+C | FAc | G-G/z/ (G/A/) | BAG |
+AzC | FAc | G-G/z/ (G/A/) | BAG |
+F-F/z/ F | GGG | AAA | (B>A) G/F/ |
+=EzF | GGG | AAA | (B>A) G/F/ | Hc2 ||
+V:2 clef=treble
+z | F3- | F3- | F2=E |
+F2z | C3 | D3- | DCB, |
+C2z | =E3 | F3 | (G_ED) |
+!breath! C2F- | FED | C3 | (D2F) | H=E2 ||
+V:3
+x | C3 | D3- | DCB, |
+A,2x | A,3 | B,3 | G,A,B, |
+A,2x | C3- | C3 | ECB, |
+(G,!breath!C) B,- | B,3- | B,A,G, | F,2B, | C2 ||
+V:4 clef=bass
+z | A,3 | B,3 | G,A,D |
+C2z | F,3- | F,3- | F,2=E, |
+F,2z | G,3 | A,3 | B,>A, G,/F,/ |
+!breath!=E,2F, | G,3 | _E,3 | F,>A, G,/F,/ | HG,2 ||
+V:5 
+x | F,3- | F,3- | F,3- |
+F,2x | [C,3F,,3-] | [B,,3-F,,3-] | [B,,F,,3-]C,D, |
+[C,2F,,2]x | C,3 | F,3 | (E,A,,B,,) |
+C,2D, | E,3 | A,,3 | (D,B,,D,) | C,2 ||
+%%staves [1 2 3 4]
+K:F
+V:1 name=S
+C | FFG | AA/z/ (A/B/) | cAF |
+DD/z/D | GGA | BB/z/(B/c/) | dBG |
+EE/z/C | FAc | D-D/z/B | AGF |
+c-c/z/C | FAc | D-D/z/B | AG>F | F2 |]
+V:2 name=A
+C | CFE | FF/z/ F | FFC |
+CB,/z/D | DG^F | GG/z/G | GGD |
+DC/z/G, | CCC | (CB/)z/D | FED |
+D-D/z/G, | CCC | (CB/)z/D | FFE | F2 |]
+V:3 name=T
+C | Acc | cc/z/c | ccA | 
+FF/z/F | Bdd | dd/z/d | ddB |
+GG/z/E | FFF | F-F/z/G | ABA |
+G-G/z/E | FFF | F-F/z/G | Acc&xcB | c2&A2 |]
+V:4 name=B
+C, | F,,A,,C, | F,F,/z/ (F,/G,/) | A,F,F, |
+B,,B,,/z/B,, | A,,B,,D, | G,G,/z/(G,/A,/) | B,G,G, |
+C,C,/z/B,, | A,,F,,A,, | B,,-B,,/z/ G,, | C,C,C, |
+C,-C,/z/B,, | A,,F,,A,, | B,,-B,,/z/A,, | C,C,C, | F,,2 |] 
+
+
+X:7
+T:À la Noël, à la minuit
+C:Harmonisation
+C:Bernard Lallement
+C:
+O:Bas-Quercy (Quercy-Blanc)
+M:6/8
+L:1/8
+Q:"Bien allant"
+%%measurenb 1
+%%staves [1 2 3 4]
+K:Eb
+V:1 name=S
+"Solistes"GGG | c2d (ed)c | B3 ccc | G2F E2F |
+HG3 "Tutti" GGG | c2d (ed)c | B3 ccc | G2F E2F |
+G3- Gz G | "Solistes" G2A B2c | (cBA) G3 | (c/B/)cd e2e | d3-d "Tutti"zd |
+e2d c2{d}c | (B2A) G3 | (c/B/)cd e2B |1,2,3 Hc3 :|4 Hc6 |] 
+V:2 name=A
+GGG | G2B BA2 | G3 EEF | E2D EC2 |
+HB,3 EEE | E2G G2A | F3 AGF | E2C B,C2 |
+D3- Dz D | E2E F2A | (F2D) (E2F) | (G/F/)GA B2c | !breath!B3B3 |
+c2B A2A | (G2F/E/) D3 | (G/F/)GB B2B | HG3 :| B2A HG3 |]
+V:3 name=T
+eee | e2f (gf)e | d3 ccc | B2A GA2 |
+HB3 ccc | c2B (cd)e | d3 fec | B2A Gc2 |
+!diminuendo(!(c3 =B) !diminuendo)! z B | c2c d2e | (fec) (c2d) | (e/d/)cc B2f | !breath!g3 e3 |
+g2g e2e | (e2c) B3 | (c/d/)ef g2f | He3 :| f2d He3 |]
+V:4 name=B clef=bass
+CCC | C2B, E,F,2 | G,3 A,A,A, | E,2B,, C,A,2 |
+HE,3 CCB, | A,2G, (C,B,,)A,, | B,,3 A,,A,,A,, | E,2F, G,A,2 |
+G,3- G,z G, | C2C B,2A, | (B,2F,) C,3 | (C,/D,/)E,F, G,2A, | !breath!B,3 G,3 |
+C2G, A,2A, | (E,2F,) (G,2F,) | (E,/D,/)C,B,, E,2D, | HC,3 :| F,2F, HG,3 |]
+
+
+X:1
+T:Lorsqu'en la saison qu'il gèle
+C:Trad.
+C:Harmonisation : Bernard Lallement
+M:6/8
+L:1/8
+Q:"Avec bonhomie"
+%%measurenb 1
+%%staves [1 2 3 4]
+K:Am
+V:1 name=S
+d2d | c2e d2c | {Bc}B2A c2d | e2A B2{A}^G |
+!breath!A3 !p!A2A | A2G A2B | c3 A2A | F2A G2F |
+{EF}E2!breath!D (D2E) | F2F G>FG | !breath!A3A2A | F2AG2F |
+E2D (D2E) | F2F G>FG | !breath!A3 !crescendo(!A2B!crescendo)! | ^c2d ec2 !f!| Hc3 |]
+V:2 name=A
+A2A | (Ac)B (cB)A | (AG)E A2A | (Bc)A (FD)E |
+!breath!C3 E2E | E2E E2G | A3 E2E | D2(C/D/) E2D |
+C2!breath!A, (A,2D) | D2D E>FE | !breath!E3 E2E | D2F E2D |
+C2B, (A,2D) | D2D E>DE | !breath!F3 !crescendo(!A2A!crescendo)! | A2A GE2 !f!| H[A3D3] |]
+V:3 name=T clef=treble
+F2F | E2G (A/G/F)D | D2C E2F | (G/F/E)C D2 {C}B, |
+!breath!A,3 C2C | B,2B, C2D | E3 C2C | A,2A, C2A, |
+A,2!breath!F, (F,2G,) | A,2B, C>A,C | !breath!C3 C2C | A,2C B,2B |
+G,2G, (F,2G,) | A,2B, C>A,C | !breath!C3 !crescendo(! F2F !crescendo)! | E2D B,E2 !f!| HA,3 |] 
+V:4 name=B
+D,2F, | A,2G, (F,/E,/D,)F, | G,2A, A,2F, | (E,/D,/C,)F, (D,B,,)E, |
+!breath!A,,3 A,2A, | E,2(E,/D,/) C,2B,, | A,,3 A,,2A,, | D,2F, C,2D, |
+A,,2!breath!D, D,3 | D,2D, C,>D,C, | !breath!A,,3 A,,2A, | D,2D, G,,2G,, |
+C,2A,, D,3 | D,2D, C,>D,C, | !breath!F,3 !crescendo(! D,2D, !crescendo)! | A,2F, G,A,2 !f!| HD,3 |]
+
+X:2
+T:Eh ! Mon Dieu, la belle chose
+C:Trad.
+C:Harmonisation : Bernard Lallement
+M:6/8
+L:1/8
+%%measurenb 1
+%%staves [1 2 3 4]
+K:A
+V:1
+A2E | A2B cd2 | B2B A2E |
+A2B cd2 | !breath!B3 A2E | A2B cd2 | !breath!B3 A2G |
+F2E F2G | A2E A2G | F3 B>AB | 
+G2E A2G | F3 B>cB | A6- | A3 |]
+V:2
+A2E | A2B cd2 | B2B A2E |
+A2B cA2 | G3 A2E | A2G AB2 | !breath!G3 E2E |
+C2C A,2D | C2B, E2E | EDF F>ED |
+C2B, A,2E | ED>F G>FG | [A6E6]- | [A3E3] |]
+V:3
+A2E | A2B c2d | B2B A2E |
+A2e ef2 | e3 A2E | A2e ef2 | !breath!e3 c2B |
+A2G F2B | A2B c2c | A3 d>ef |
+e2e e2A | A3 d>ed | c6- | c3 |]
+V:4
+A,2E, | A,2B, CD2 | B,2B, A,2E, |
+A,2G, A,D,2 | E,3 A,2E, | A,2D CB,2 | !breath!E,3 A,2E, |
+F,2C, D,2B,, | F,2G, A,2A, | D,3 B,,>C,D, |
+E,2D, C,2C, | D,3 E,>E,E, | A,,6- | A,,3 |]
+
+
+
+X:3
+%%staves {(1 2) (3 4)}
+K:A
+V:1
+P:Intro et transition entre couplets
+A2G | F3 B>AB | B3 ||\
+%%staffbreak 1cm
+V:2
+A2G | F3 F>EF | G3 ||
+%%staffbreak 1cm
+V:3
+x3 | x6 | x3 ||
+%%staffbreak 1cm
+V:4
+A,2G, | F,3 D>CD | E3 ||
+%%staffbreak 1cm
+V:1
+P:Pour finir
+A2G | F3 B>cB | A6 |]
+V:2
+A2G | F3 | G>FG | E6 |]
+V:3
+A,2G, | F,3 D>ED | C6 |]
+V:4
+A,2G, | F,3 E,>E,E, | [F,6F,,6] |]
+
+
+X:4
+T:Le Christ est né ce soir
+O:Vannetais
+C:Harmonisation : Bernard Lallement
+C:Noël de Basse-Bretagne
+M:6/8
+L:1/8
+K:D
+V:1
+F | F2B B2A | B3 d3 | c2BA2B |
+F3 !breath! F2F | F2B B2A | B3d3 | c2B A2B | F3 F2z |
+B3 A2F | G2A F2G | F2E D2E | F3- !breath!F2F |
+F2B B2A | B3 d3 | c2e d2c | B6 |]
+V:2
+F | F2G G2F | F3 B3 | G2F E2(F/G/) |
+C3 !breath!C2D | D2G G2F | F3 B3 | G2F E2(D/C/) | B,3 B,2z |
+F3- FED | E2E D2D | D2C D2B, | !breath! C2A, B,2C |
+D3E3 | F3G3 | A2c B2A | F6 |]
+V:3
+d | d2d e2d | B3 f3 | e2B c2B !diminuendo(! |
+B3 !breath! !diminuendo)!A2B | B2d e2c | d3 f3 | e2B c2 (d/e/) !diminuendo(!| e3d2!diminuendo)! z |
+d3 c2A | B2c A2B | A2G F2B | (A3!breath!D2)F |
+F2G G2A | A2F B2e | (ef)g f2e | d6 |]
+V:4
+B, | B,2G, E,2F, | D,3 B,,3 | E,2D, C,2(D,/E,/) |
+F,3 !breath! F,2B, | B,2G, E,2F, | D,3 B,,3 | E,2D, C,2(B,,/A,,/) | B,,3 B,,2z |
+B,3 F,2F, | E,2A,, D,2G, | D,2A,, B,,2G,, | !breath!F,,2F,, G,,2A, |
+B,,3 C,3 | D,3 E,3 | F,2F, G,2A, | B,6 |]
+
+X:5
+T:Bergers, qui êtes ici-bas
+O:Haute-Bretagne (Pays de Guérande)
+C:Harmonisation
+C:Bernard Lallement
+C:
+N:Noël ancien recueilli à Batz
+M:C|
+%%measurenb 1
+%%staves [1 2 3 4]
+L:1/4
+K:C
+V:1 name=S
+GG/F/ GG | FF D2 | (G/F/)G/A/ GG |
+FF !breath!DA | A>G FG | AD zG |
+G>A G/F/G/A/ | G2 zA | A>G FG |
+AD zG | (G/F/)E FF | G4 |]
+V:2 name=A
+DD/E/ DD | DC B,2 | (D/C/)D/F/ DD | 
+DC !breath!B,F | F>D CD | FD zD |
+D>F D/C/D/F/ | D2 zF | F>D CD |
+FD zD | (D/C/)(E/D/) CC | D4 |]
+V:3 name=T
+BB/c/ BB | AA G2 | (B/A/)B/c/ BB |
+AA !breath! Gc | c>B AB | dA zB |
+B>c B/A/B/c/ | B2 zc | c>B AB |
+dA zB | (B/A/)G AA | B4 |]
+V:4 name=B
+G,G,/F,/ G,G, | D,D, G,2 | (G,/A,/)G,/F,/ G,G, |
+D,D, !breath!G,F, | F,>G, A,G, | D,F, zG, |
+G,>F, G,/A,/G,/F,/ | G,2 zF, | F,>G, A,G, |
+D,F, zG, | (G,,/A,,/)(C,/B,/) A,A, | A,4 |]
+ 
+
+X:6
+T:Noël pour l'amour de Marie
+C:Harmonisation
+C:Bernard Lallement
+C:Mélodie de la fin du XVe siècle
+M:3/4
+L:1/4
+%%measurenb 1
+%%staves {1 2} [3 4 5 6]
+K:F
+V:1 name="Sopr. solo"
+CFG |: A2A | c2c !diminuendo(! | A2 !diminuendo)!G !crescendo(! | A!crescendo)!BB |  
+A3 | cBA | !breath!G3 | CFG | A3 | ccc d2!breath!d |
+cBA | G2G | (FG)G |1,2,3  !breath! F3 | CFG :|4 F3- | HF3 |]
+V:2 name="Alto solo"
+CA,C |: F2F | (ED)C !diminuendo(! | C2 !diminuendo)!B, !crescendo(! | C!crescendo)!DE |
+F3 | FGF | !breath!D3 | CA,C | C3 | AGF | (FE)!breath!D |
+FGA | D2C | F2E | !breath!F3 | CA,C :| F3- | HF3 |] 
+V:3 name=S
+z3 |: !p! CFF | (GF)C- | CCF | FD2 |
+!crescendo(! CDF !crescendo)! | F2F | F2F | !diminuendo(! (ED !breath! E) !diminuendo)! | CA,C | (FG)A | (AG)F |
+C!breath!DF | F2E | D2E | (ED)E !breath! | F3 :| (ED)E | HF3 |]
+V:4 name=A clef=treble
+z3 |: !p! CCD | (EF)G- | GFD | C2B, |
+!crescendo(! CFE !crescendo)! | D2C | (CB,)A, | !diminuendo(!G,F,!breath!C !diminuendo)! | EEF | C2A, | (DE)F |
+F!breath!DA, | (DB,)C | (A,B,)G, | (A,F,)G, | !breath! A,3 :|(A,F,)G, | HA,3 |]  
+V:5 name=T
+z3 |: !p! AAA | (cA)G | A2B | AFG |
+!crescendo(! A2A !crescendo)! | F2A | d2d | (cA!breath!G) | AcA | (AG)A | (FG)B |
+A!breath!Bc | d2e | (fd)c | c2B | !breath!c3 :| c2B | Hc3 |] 
+V:6 name=B
+z3 |: !p! F,E,D, | (C,D,)E, | (F,A,,)B,, | F,,2F,, | 
+!crescendo(! F,D,C, !crescendo)! | B,,2F,, | (G,,A,,)B,, | (C,D,!breath!C,) | A,,G,,F,, | (F,E,)F, | (B,,C,)D, |
+A,,!breath!G,,F,, | (B,,G,,)C, | (D,B,,)C, | (A,,B,,)G,, | !breath!F,,3 :|(A,,B,,)G,, | HF,,3 |]  
+

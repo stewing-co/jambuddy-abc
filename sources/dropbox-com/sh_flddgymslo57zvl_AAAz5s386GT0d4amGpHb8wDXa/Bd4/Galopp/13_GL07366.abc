@@ -1,0 +1,43 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Galopp  FCBb (GL07366) 
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.308 (GL07366) orig. F,C,Bb
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F".f2.a2 | c'a/a/ (!>!f2 | f)e/f/ gf | "C7"edG2 | .c2.e2 | ge/e/ (!>!c2 | c)d/c/ =Bc | "F".d.c .Az | 
+.f2.a2 | c'a/a/ (!>!f2 | f)e/f/ gf | "C7"ed.G2 | .c2.b2 | "F".b2.a2 | "C7".a2.g2 | "F"ff fz || [K:C] 
+|: "G7"GB de | f2 e>d | "C".d2.c2 | !>!e4 | "G7".a2.g2 | !>!B4 | "C".a2.g2 | !>!c4 | "G7"GB de | f2e>d | "C".d2.c2 | 
+"C"!>!e4 | "Dm".a2.d'2 | "G7".b2.g2 |1 "C"(c'4 | c'2)z2 :|2 "C"(c'4 | "C7"c'2)_B2 |: [K:F] ("F"A4 | A)(B =Bc) | d(c =Bc) | f4 | 
+"C7"f(e ^de) | g4 | "F"g(f ef) | a4 | (A4 | A)(B =Bc) | d(c =Bc) | f4 |  ("Gm"d2g2) | "C7"fe de | 
+"F"f2 a>c | f2z2 :| [K:Bb] "Bb"f2 d>e | f2 b>a | "Cm"a2 g>^f | g4 | "F7"f2 A>B | c2.e2 | "Eb"e2 "F7"d>c | 
+"Bb"B4 | f2 d>e  | f2 b>a | .a2.g2 | !>!"Eb"^c'4 | "Bb/F"d'2 c'>b |  "F7"ba ga | "Bb".b2 b>b | b2z2 |] 
+% GL07366
+% July 10, 2017
+
+X:2
+T:Galopp  CGF 5- (GL07366) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.308 (GL07366) orig. F,C,Bb
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C".c2.e2 | ge/2e/2 (!>!c2 | c)B/2c/2 dc | "G7"BAD2 | .G2.B2 | dB/2B/2 (!>!G2 | G)A/2G/2 ^FG | "C".A.G .Ez | 
+.c2.e2 | ge/2e/2 (!>!c2 | c)B/2c/2 dc | "G7"BA.D2 | .G2.f2 | "C".f2.e2 | "G7".e2.d2 | "C"cc cz || [K:G] 
+|: "D7"DF AB | c2 B>A | "G".A2.G2 | !>!B4 | "D7".e2.d2 | !>!F4 | "G".e2.d2 | !>!G4 | "D7"DF AB | c2B>A | "G".A2.G2 | 
+"G"!>!B4 | "Am".e2.a2 | "D7".f2.d2 |1 "G"(g4 | g2)z2 :|2 "G"(g4 | "G7"g2)=F2 |: [K:C] ("C"E4 | E)(F ^FG) | A(G ^FG) | c4 | 
+"G7"c(B ^AB) | d4 | "C"d(c Bc) | e4 | (E4 | E)(F ^FG) | A(G ^FG) | c4 | ("Dm"A2d2) | "G7"cB AB | 
+"C"c2 e>G | c2z2 :| [K:F] "F"c2 A>B | c2 f>e | "Gm"e2 d>^c | d4 | "C7"c2 E>F | G2.B2 | "Bb"B2 "C7"A>G | 
+"F"F4 | c2 A>B | c2 f>e | .e2.d2 | !>!"Bb"^g4 | "F/C"a2 g>f | "C7"fe de | "F".f2 f>f | f2z2 |] 
+% GL07366
+% July 10, 2017

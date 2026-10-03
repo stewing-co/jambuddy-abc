@@ -1,0 +1,52 @@
+X:509
+T:Agnus Dei
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 9 clef=bass name="Basso" sname="B."
+%%MIDI program 1 1
+%%staves [[ 9 ]]
+%------------------
+[Q:"Largetto"] !p! F,2F,!>!F,3 | F,2 E, D, D, C, | B,, B,, B,, B,,2 B,, | A,, A,,z
+w: A-gnus De-i qui tol-lis pec-ca-ta pec-ca-ta mun-di
+!>! G,2G, | F,2F,G,3 | F,2D,/ D,/ G,2C, | F, F,zz2z | Z | z2zz2  \
+w: mi-se-re-re no-bis mi-se-re-re no-bis
+!p!G, | C2!p!A, F,2G, | C, !p! C, C, C,2C,  | C, C, z z2z | z \
+w: pe-ca-ta mun--di mi-se-re-re no-bis
+!p! C, C, C,2 C, | C, C, z \
+w: mi-se-re-re no-bis
+!p! C,2C,  | C,2 C, C,2G,, | C,2zz2z | \
+w: mi-se-re-re no--bis
+!f! A,2A, A, A, A, | A, A, A, A,2A, | A, A, !f!A, G,2G, | F, F, F, E,2E, | !p! A,6- | A,3 !fermata! A,3 || \
+w: A-gnus De-i qui tol-lis  pec-ca-ta mun-di pec-ca-ta mun-di pec-ca-ta mun--di
+% fol.182
+[Q:"Allegro"][K:F][M:C|][L:1/4|] Z6 | \
+w: A-gnus De-i qui tol-lis  pec-ca-ta mun-di pec-ca-ta mun-di pec-ca-ta mun--di
+!sfz! !>!C2C2 | =B,2B,z | \
+w: do-na no-bis
+!f!CCCC | =B,2B,z | \
+w: do-na no-bis pa-cem
+!>!B,2B,2 | A,2A,z | \
+w: do-na no-bis
+!f! B,B,B,B, | A,2A,z | \
+w: do-na no-bis pa-cem
+!f! B,B,=B,B, | C4 | C,4 | F,zz2 | Z5 | \
+w: do-na no-bis pa--cem
+!f! A,2G,2 | F,2 D,2 | !f! G,G,G,F, | E,2C,z | \
+w: do-na no-bis do-na no-bis pa-cem
+!p! F,2A,2 | B,2=B,2 | !f!C4 | C,4 | F,zz2 | Z3 |\
+w: do-na no-bis pa--cem
+!p! A,2F,2 | B,2=B,2 | !f!C4 | ^C4 | Dzz2 | \
+w: do-na no-bis pa--cem
+!f! =B,B,B,B, | C4 | C,4 | F,z \
+w: do-na no-bis pa--cem
+!p! F,F, | F,2F,2 | F,4- | F,4 | F,z \
+w: do-na no-bis pa--cem
+!p! F,F, | F,2F,2 | !p! C,4- | C,4 | F, z \
+w: do-na no-bis pa--cem
+!p! F,F, | F,2F,2 | F,4- | F,4 | F,z \
+w: do-na no-bis pa--cem
+!p! F,F, | F,2F,2 | C,4- | C,4 | F,zz2 | Z5 |] \
+w: do-na no-bis pa--cem
+%------------------

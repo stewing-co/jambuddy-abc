@@ -1,0 +1,137 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:VI. When Phoebus first did Daphne love,
+T:Cantus.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:3/4
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on first line
+K:G mix
+z z G B2 c |d2 B A2 A G2 |
+w:When Ph{\oe}- bus first did Daph- ne love, 
+w:If mai- dens then shal chance be sped
+   G c2 d e2 d c2 B c3 |
+w:And no meanes might her fa- vour move
+w:Ere they can scars- ly dress their head,
+e d c B3 | d d ^c d3 |
+w:He craved the cause, the cause quoth she
+w:yet par- don them, for they be loth
+B d A c2 G B2 A G3
+w:Is, I have vow'd vir-gin- i- tie,
+w:To make good Ph{\oe}- bus break his oth.
+|:A A A c2 B | A2 ^G A3 |
+w:Then in a rage he sware, and said,
+w:And bet- ter twere a child were borne
+c B G d3 | d > d d B A A G3 :|
+w:Past fif- teene none none but one should live a maid.
+w:Then that a god, that a god should be for- sworne.
+
+X:2
+T:VI. When Phoebus first did Daphne love,
+T:Altus
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:3/4
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on second line
+K:G mix
+z z D G2 G G2 G ^F > G ^F G2
+w:When Ph{\oe}- bus first did Daph- * ne love, 
+w:If mai- dens then shal chance _ be sped
+E E2 G G2 G G2 G E3
+w:And no meanes might her fa- vour move
+w:Ere they can scars- ly dress their head,
+G G E G3 A G G ^F3 
+w:He craved the cause, the cause quoth she
+w:yet par- don them, for they be loth
+D F C E E2 G2 ^F G3
+w:Is, I have vow'd vir-gin- i- tie,
+w:To make good Ph{\oe}- bus break his oth.
+|:F F D E2 E E E > D ^C3 
+w:Then in a rage he sware, and _ said,
+w:And bet- ter twere a child were _ borne
+E G > E ^F3 G > A G G G ^F G3 :|
+w:Past fif- teene none none but one should live a maid.
+w:Then that a god, a god, should be for- sworne.
+
+X:3
+T:VI. When Phoebus first did Daphne love,
+T:Tenor.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:3/4
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on first line
+%%MIDI transpose -12
+K:G mix -8va
+z z B d2 e B2 d d2 d B2 
+w:When Ph{\oe}- bus first did Daph- ne love, 
+w:If mai- dens then shal chance be sped
+c G > A B c2 B e d2 c3
+w:And no _ meanes might her fa- vour move
+w:Ere they _ can scars- ly dress their head,
+c B c d3 A B e A3
+w:He craved the cause, the cause quoth she
+w:yet par- don them, for they be loth
+G A A G c/ c/ B > c d > c B3
+w:Is, I have vow'd, I have vow'd vir-gin- i- tie,
+w:To make good Ph{\oe}- bus, good Ph{\oe}- bus break his oth.
+|:d A F A2 B c B2 A3
+w:Then in a rage he sware, and said,
+w:And bet- ter twere a child were borne
+A d c A3 B > A B d d > c B3 :|
+w:Past fif- teene none none but one should live a maid.
+w:Then that a god, that a god should be for- sworne.
+
+
+X:4
+T:VI. When Phoebus first did Daphne love,
+T:Bassus.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:3/4
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -24
+K:G mix bass
+z z g g2 c g2 G d2 d G2
+w:When Ph{\oe}- bus first did Daph- ne love, 
+w:If mai- dens then shal chance be sped
+c c2 g e > f g e g g c3
+w:And no meanes might _ _ her fa- vour move
+w:Ere they can scars- * - ly dress their head,
+c g a g3 ^f g e d3
+w:He craved the cause, the cause quoth she
+w:yet par- don them, for they be loth
+g d f c2 e2 d d G3
+w:Is, I have vow'd vir-gin- i- tie,
+w:To make good Ph{\oe}- bus break his oth.
+|:d d d A2 ^G A e2 A3
+w:Then in a rage he sware, and said,
+w:And bet- ter twere a child were borne
+A B e d3 g > ^f g G d d G3 :|
+w:Past fif- teene none none but one should live a maid.
+w:Then that a god, that a god should be for- sworne.

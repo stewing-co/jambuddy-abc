@@ -1,0 +1,172 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Adieu mes amours
+T: Cantus
+C:Jean Mouton
+B:db: -c 
+M:C|
+L:1/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on first line
+K:G dor
+"Ad semibrevem fuga in subdiatessaron"G2 B2 A2 G2 d2
+w: A- dieu mes a- mours,
+z c2 B A2 G2 F4
+w: a Dieu vous com- mand,
+z G A A c2 d2
+w: A- dieu je vous dy 
+z2 z G A A c2 d2
+w: A- dieu je vous dy 
+c2 B G A2 G2 F > G A/ B/ c > B G A > B c A D G2 ^F G2
+w: jus- quez * au bons temps, * * * * * * * * * * * * * *
+z A B B A > B c/ d/ c2 _B c 
+w: Je suis en sou- * * * * * ci 
+c B G A2 G2 B2 A F
+w: de quoy je vi- vray * * *
+z G A > B c/ d/ c2 _B c2
+w: La rai- * * * son pour quoy 
+z G D G2 ^F G2
+w: je le vous di- ray:
+z A B2 A2 G2 d2
+w: Je n'ay point d'ar- gent, 
+z c2 B A2 G2 F4
+w: vi- vray je du vent,
+z G A A c2 d2
+w: Si l'ar- gent du roy 
+z2 z G A A c2 d2
+w: Si l'ar- gent du roy 
+c2 B G A2 G2 F > G A/ B/ c > B G A > B c A D G2 ^F G2 A2 G6 |]
+w: ne vient * plus sou- vent. * * * * * * * * * * * *  * * * *
+
+ 
+
+X:2
+T:Adieu mes amours
+T:Altus
+C:Jean Mouton
+B:db: -c 
+M:C|
+L:1/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N: This part isn't in the original score, because it's in canon with the Cantus.
+%%MIDI transpose -12
+K:G dor -8va
+"Ad semibrevem fuga in subdiatessaron"z2 d2 f2 e2 d2 a2
+w: A- dieu mes a- mours,
+z g2 f e2 d2 c4
+w: a Dieu vous com- mand,
+z d e e g2 a2
+w: A- dieu je vous dy 
+z2 z d e e g2 a2 
+w: A- dieu je vous dy 
+g2 f d e2 d2 c > d e/ f/ g > f d e > f g e A d2 ^c d2
+w: jus- quez * au bons temps, * * * * * * * * * * * * * *
+z e f f e > f g/ a/ g2 ^f g
+w: Je suis en sou- * * * * * ci 
+g f d e2 d2 f2 e c
+w: de quoy je vi- vray * * *
+z d e > f g/ a/ g2 ^f g2
+w: La rai- * * *  son pour quoy 
+z d A d2 ^c d2
+w: je le vous di- ray:
+z e f2 e2 d2 a2
+w: Je n'ay point d'ar- gent, 
+z g2 f e2 d2 c4
+w: vi- vray je du vent,
+z d e e g2 a2
+w: Si l'ar- gent du roy 
+z2 z d e e g2 a2
+w: Si l'ar- gent du roy 
+g2 f d e2 d2 c > d e/ f/ g > f d e > f g e A d2 ^c d2 e2 d4 |]
+w: ne vient * plus sou- vent. * * * * * * * * * * * * * * * *
+
+X:3
+T:Adieu mes amours
+T:Tenor
+C:Jean Mouton
+B:db: -c 
+M:C|
+L:1/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -12
+N:Original clef, C on fourth line
+K:G dor -8va
+"Ad semibrevem fuga in subdiatessaron"z8 z8 G2 B2 A2 G2 d2
+w: A- dieu mes a- mours,
+z c2 B A2 G2 F2
+w: a Dieu vous com- mand,
+z8 z2 z G B2 A2 G2 d2
+w: A- dieu je vous dy 
+c2 B G A2 G2
+w: jus- quez au bons temps,
+z2 G2 d d c2 d2
+w: Je suis en sou- ci 
+z2 z4 c2 B G A2 G 
+w: de quoy je vi- vray
+G d d c2 d2
+w: La rai- son pour quoy 
+z2 c2 B G A2 G2
+w: je le vous di- ray:
+z8 z8 G2 B2 A2 G2 d2
+w: Je n'ay point d'ar- gent, 
+z c2 B A2 G2 F2
+w: vi- vray je du vent,
+z8 z2 G2 B2 A2 G2 d2 
+w: Se l'ar- gent du roy 
+c2 B G A2 G2 z2 c2 =B4 |]
+w: ne vient * * plus sou- vent.
+
+
+X:4
+T:Adieu mes amours
+T:Bassus
+C:Jean Mouton
+B:db: -c 
+M:C|
+L:1/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -24
+K:G dor bass
+"Ad semibrevem fuga in subdiatessaron"z8 z8 z2 d2 f2 e2 d2 a2
+w: A- dieu mes a- mours, 
+z g2 f e2 d2 c2 
+w: a Dieu vous com- mand,
+z2 z8 z d f2 e2 d2 a2
+w: A- dieu je vous dy 
+g2 f d e2 d2
+w: jus- quez au bons temps,
+z2 d2 a a g2 a2
+w: Je suis en sou- ci 
+z4 z2 g2 f d e2 d
+w: de quoy je vi- vray
+d a a g2 a2
+w: La rai- son pour quoy 
+z2 g2 f d e2 d2
+w: je le vous di- ray:
+z2 z8 z4 z2 d2 f2 e2 d2 a2
+w: Je n'ay point d'ar- gent, 
+z g2 f e2 d2 c2
+w: vi- vray je du vent,
+z2 z8 d2 f2 e2 d2 a2
+w: Se l'ar- gent du roy 
+g2 f d e2 d2 z2 g4 |]
+w: ne vient * plus sou- vent.

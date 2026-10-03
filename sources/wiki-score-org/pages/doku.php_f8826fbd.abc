@@ -1,0 +1,18 @@
+X:305
+T:Minuetto
+C:Davide Perez (1711-1778)
+M:3/4
+L:1/4
+K:D
+V: 5 clef=treble name="Violino Primo" sname="Vl.1"
+%%MIDI program 1 40
+%%staves [{ 5 }]
+%---------------
+d/>f/ f/>e/ g/>f/ | b/>a/ a2 | a/>d'/ d'/>a/ g/>f/ | {f}e/<d/ d2 | [DB]2d |  [DA]2d | e/>f/ g/>e/ f/>d/ | \
+c B/>c/ A | A c/>B/ d/>c/ | A e/<d/ f/<d/ | (3B/c/d/ c^G | AA,2 :: [Aa]2 c/<e/ | [Aa]2 c/<e/ | a g/<b/ ^d/<f/ |\
+eG2 | g2 c/<e/ | g2 c/<e/ | g f/<a/ c/<e/ | dD2 | \
+[DB]2d | [DA]2d | e/<f/ g/<e/ f/<d/ | c B/c/ A | d/<f/ f/<e/ g/<f/ | b/<a/ a2 | \
+a/<d'/ d'/<a/ g/<f/ | eA2 | [Dd] f/<e/ g/<f/ | [Dd] a/<g/ b/<a/ | (3e/f/g/ d[ce] | dD2 :| \
+[Q:"Presto"] [M:C|]
+[DAf] D//E//D//C// D/F/A/d/ | ff/a/ ff/a/ & [DA][DA][DA][DA]| f/a/ f/a/ f!fermata!z & [DA][DA][DA]|]
+%---------------

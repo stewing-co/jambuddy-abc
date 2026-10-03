@@ -1,0 +1,20 @@
+X:1
+T:The Edinburgh Musical Fund
+Z:Jack Campin: "Embro, Embro", transcription (c) 2001
+F:08play/abc/FundG.abc
+S:Gow Select Collection 2nd ed.
+B:Dundee, Wighton 10482
+N:a waltz country dance, arr. Nathaniel Gow
+N:multiple gracenote groups in the last part are written as
+N:turn-with-an-accidental and turn (first not implemented in
+N:BarFly as of Nov 2001, so I've had to expand this)
+M:6/8
+L:1/8
+Q:3/8=96
+K:G
+(d//e//f/)| g3         Tfed  | efg        d3  |   c3     BAG |   F>GA  DEF|
+            G2(B        B)cd | E2(c       c)de|   F2d    def |{f}g3    G2||
+ D        |.E.F.G      .A.B.c|(d2B)       g3  |   e2c    a2f |  .g(ga) b2D|
+           .E.F.G      .A.B.c|(d2B)       g3  |   e2c    a2f |   g(ga) g2||
+ d        |.d.d.d {ed^c}dgd  |.B.B.B {cBA}BdB |   G3   (TAGA)|   B3    z2d|
+            ddd   {ed^c}dgd  | BBB        Bga |{a}b2g {b}agf |   g3-   g2|]

@@ -1,0 +1,47 @@
+%%MIDI program 21
+%%partsbox
+
+X:1
+T:Schottisch  CF  (ABCA)
+T:Hanny Christen. Bd.II  St. Gallen II, Graub\"unden, Tessin. S.267 (st02005) orig. C,F
+T: Graub\"unden. Repertoire von Peter Davoli, Davos/Samedan
+T:\"Uberliefert vermutlich durch Joggi Stocker (1889-1956)
+%%MIDI program 21
+%%partsbox
+P:ABCA
+R:shottische
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+[P:A] "C"ef/e/ de | gG eG | "G7"fG dG | "C"eG cG  | ef/e/ de | "G7"gG eG | fG AB | "C"ce/d/ "_Fine"c2 :| 
+[P:B] |: "F"ab c'>a | "C"ag g/f/e | "G7"gf f/e/d | "C"ce/f/ gg | "F"a>b c'>a | "C"ag g/f/e | "G7"gf f/e/d | 
+"C"ce cz :: [P:C] [K:F] "F"A>c f>a | c'3c | f>a gf | "C7"eg/c'/ b2 | c>e e>g | b3c | b>c g>c | "F"fa/g/ fA | 
+A>c c>f | a3c | f>a gf | "C7"egB2 | c>e e>g | g3c | b>c g>c | "F"fa/g/"_>Teil A"f2 :| 
+% st02005 (H 071/TN 3)
+
+X:2
+T:Schottisch  CF  (st02005)
+R:shottische
+%%MIDI program 21
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"ef/e/ de | gG eG | "G7"fG dG | "C"eG cG  | ef/e/ de | "G7"gG eG | fG AB | "C"ce/d/ "_Fine"c2 :| 
+|: "F"ab c'>a | "C"ag g/f/e | "G7"gf f/e/d | "C"ce/f/ gg | "F"a>b c'>a | "C"ag g/f/e | "G7"gf f/e/d | 
+"C"ce cz :: [K:F] "F"A>c f>a | c'3c | f>a gf | "C7"eg/c'/ b2 | c>e e>g | b3c | b>c g>c | "F"fa/g/ fA | 
+A>c c>f | a3c | f>a gf | "C7"egB2 | c>e e>g | g3c | b>c g>c | "F"fa/g/"_>Teil A"f2 :| 
+% st02005
+
+X:3
+T:Schottisch  GC 5-  (st02005)
+R:shottische
+%%MIDI program 21
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"Bc/2B/2 AB | dD BD | "D7"cD AD | "G"BD GD | Bc/2B/2 AB | "D7"dD BD | cD EF | "G"GB/2A/2 "_Fine"G2 :| 
+|: "C"ef g>e | "G"ed d/2c/2B | "D7"dc c/2B/2A | "G"GB/2c/2 dd | "C"e>f g>e | "G"ed d/2c/2B | "D7"dc c/2B/2A | 
+"G"GB Gz :: [K:C] "C"E>G c>e | g3G | c>e dc | "G7"Bd/2g/2 f2 | G>B B>d | f3G | f>G d>G | "C"ce/2d/2 cE | 
+E>G G>c | e3G | c>e dc | "G7"BdF2 | G>B B>d | d3G | f>G d>G | "C"ce/2d/2"_>Teil A"c2 :| 
+% st02005
+% Sep 25, 2016

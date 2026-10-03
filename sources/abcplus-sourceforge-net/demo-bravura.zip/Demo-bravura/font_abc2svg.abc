@@ -1,0 +1,20 @@
+% abc2svg.abc
+
+%%musicfont local(abc2svg.ttf)
+%%pagescale 1.2
+
+X: 1
+T: Using the abc2svg music font
+M: 4/4
+L: 1/4
+K: C
+%
+%%text Note shapes
+%
+C4 | =C2 _C ^C | [CDEFGA]2 [CDEFGA] [GABcde] |
+%
+%%text Some decorations
+%
+!segno!!pp!C !mf!!^!E !invertedturn!G !turnx!c |\
+!ped!C !fermata!E !ped-up!G !sfz!c | \
+!mordent!C !uppermordent!E !upbow!G/ !downbow!G/ !coda!c |]

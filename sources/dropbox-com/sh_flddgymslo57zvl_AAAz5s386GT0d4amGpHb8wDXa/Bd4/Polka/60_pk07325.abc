@@ -1,0 +1,39 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Leutewitzer Polka GC (pk07325) 
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.325 (pk07325) orig. G,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+(Bc) |: "G".d2.d2 {/d}g2.g2 | "D7"{/g}f2.f2 .A2(AB)  | c2c2 {/c}e2e2 | "G"{/e}d2d2 .B2(Bc) | d2d2 {/d}b2b2 | "D7"b2a2 a2e'2 | e'3d' c'3a |1 "G"g2g2 g2Bc :|2 
+"G"g2g2 g2z2 |: "Am/C"ABA2 g2g2 | "D7"f2f2 fed2 | "G"BcB2 a2a2 | g2g2 gfe2 | "D7"ded2 a2a2 | "G"b4 agfe | "D7"d2fe d2c2 | "G"(Tc2B2) BcB2 | 
+"D7"ded^c dfga | "G"b4 agfe | "D7"d2fe d3F |1 "G"G2g2 g2z2 :|2 "G"G2g2 g2g2 |: [K:C] "C"e2e2 ("G7"dedB) | "C"ceg2 z2g2 | "Dm"f2f2 "G7"de.f.d | 
+"C".e.g.c'2 z2g2  | e2e2 ("G7"de).d.B | "C".c.e.g2 z2g2 | ("Dm"^fa).f.d "G7"=g2g2 | "C"c2c2 c2g2 :| "C7"e'2e'2 d'd'd'2 | "F"c'2c'2 "C7"_bbb2 | "F"a2a2 "C7"ggg2 | 
+"F"f4z2(dc) | "G7"B2d2 f2a2 | "C"a3g g2c'2 | "G7"c'2b2 d'2b2 | "C"d'2c'2 e'2(ec) | "G7"B2d2 f2a2 | "C"a3g g2c'2 | "G7"c'2b2 d'3b | "C"c'2c'2 c'2z2 |] 
+%%% pk07325
+% Aug 7, 2017
+
+X:2
+T:Leutewitzer Polka CF 7- (pk07325) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.325 (pk07325) orig. G,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+(EF) |: "C".G2.G2 {/G}c2.c2 | "G7"{/c}B2.B2 .D2(DE) | F2F2 {/F}A2A2 | "C"{/A}G2G2 .E2(EF) | G2G2 {/G}e2e2 | "G7"e2d2 d2a2 | a3g f3d |1 "C"c2c2 c2EF :|2 
+"C"c2c2 c2z2 |: "Dm/F"DED2 c2c2 | "G7"B2B2 BAG2 | "C"EFE2 d2d2 | c2c2 cBA2 | "G7"GAG2 d2d2 | "C"e4 dcBA | "G7"G2BA G2F2 | "C"(TF2E2) EFE2 | 
+"G7"GAG^F GBcd | "C"e4 dcBA | "G7"G2BA G3B, |1 "C"C2c2 c2z2 :|2 "C"C2c2 c2c2 |: [K:F] "F"A2A2 ("C7"GAGE) | "F"FAc2 z2c2 | "Gm"B2B2 "C7"GA.B.G | 
+"F".A.c.f2 z2c2 | A2A2 ("C7"GA).G.E | "F".F.A.c2 z2c2 | ("Gm"=Bd).B.G "C7"=c2c2 | "F"F2F2 F2c2 :| "F7"a2a2 ggg2 | "Bb"f2f2 "F7"_eee2 | "Bb"d2d2 "F7"ccc2 | 
+"Bb"B4z2(GF) | "C7"E2G2 B2d2 | "F"d3c c2f2 | "C7"f2e2 g2e2 | "F"g2f2 a2(AF) | "C7"E2G2 B2d2 | "F"d3c c2f2 | "C7"f2e2 g3e | "F"f2f2 f2z2 |] 
+%%% pk07325
+% Aug 7, 2017

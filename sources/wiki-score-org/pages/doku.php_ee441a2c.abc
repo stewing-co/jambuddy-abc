@@ -1,0 +1,20 @@
+X:905
+T:N.9 Duo de Josepha e Ambrosio
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:F
+V: 5 clef=bass name="Cello" sname="Vc."
+%%MIDI program 1 1
+%%staves [ 5 ]
+%---
+[Q:"Andante"] A,,2A, A,2A, | D,2A, D2A, || D,6 | ^C,6 | A,,6 | D,6 |  D,6 | ^C,6|(=B,,3E,,3)|\
+(A,,2E,A,3) | D,,z A, A,zA,| ^C,zA, A,zA, | A,,zE, A,zE, | D,zF, A,zF, | D,zF, A,zF, | \
+^C,zA, A,zA, | ^C,zA, A,,zA,, || \
+[K:D] (!>!D,,2A,, D,2A,,) |: (D,,2A,, D,2A,,) | (E,,2A,, E,2A,,) |(E,,2A,, E,2A,,) | \
+(D,,2A,, D,2A,,) | (!>!D,,2A,,) (!>!F,,2A,,) | (E,,2A,,) (.A,,2.A,,) | (.A,,2.A,,) (.A,,2.A,,) | \
+D,,2 (A,, D,2A,,) :| \
+G,,2D,[G,]2D, | A,,2A,[F,]2A, | E,2[A,] A,,2[A,] | D,2A,[D]2A, | \
+(G,,2D,[G,]2D,) | A,,2A,[F,]2A, | E,2[A,] A,,2[A,] | [D,]zz !>![E,]!>![C,]!>![A,,] | \
+[D,]2z z[D,]2|  [D,,]3-[D,,]zz |] \
+%---

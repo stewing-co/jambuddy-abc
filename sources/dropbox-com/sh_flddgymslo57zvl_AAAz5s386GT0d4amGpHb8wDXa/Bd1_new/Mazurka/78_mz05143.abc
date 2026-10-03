@@ -1,0 +1,71 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Mazurka GC chords parts
+T:Hanny Christen. Bd.I  Zürich, Schaffhausen, St. Gallen I. S.379 (mz05143) orig. G,C-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:3/4
+L:1/8
+P:ABABCD  % or ABACD?
+K:G %%MIDI gchordon
+[P:A] "G"g2d2e2 | d>c'b2b2 | "D7"c>ba2a2 | "G"B>ag2g2 | g2d2e2 | d>c'b2b2 | "D7"c>ba2 a>f | "G"g2g2z2::[P:B]  "A7"a2e2g2 | 
+"D"f>ef2d2 | "D7"c'2f2a2 | "G"g>fg2e2 | "A7"^c>ea2a2 | "D"d>fa2a2 | "D7"ab c'b c'b | c'd ^de =f"_>Teil A"^f || [P:C] [K:C] "C"g^f ag ec | 
+"G7"B>ag2g2 | gf ba fd | "C"c>ag2g2 | Ge Bc dc | "Dm"B>^GA2A2 | "G7"^fg ba =fd |  "C"e>Bc2c2 || [P:D] "Am"e>a c'2ba | "E7"^gbe2e2 | 
+"C"G>c e2dc | "G7"BdG2G2 | aBa2a2 | "C"{/a}g^f g2e2 | "G7"{/g}fef2d2 | "C".e2!>!g4 | "G7"aBa2a2 |  "C"{/a}g^f g2e2 | "G7"fef2d2 | "C"c2c2z2 |] 
+X:2
+T: Mazurka GC chords
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"g2d2e2 | d>c'b2b2 | "D7"c>ba2a2 | "G"B>ag2g2 | g2d2e2 | d>c'b2b2 | "D7"c>ba2 a>f | "G"g2g2z2:: "A7"a2e2g2 | 
+"D"f>ef2d2 | "D7"c'2f2a2 | "G"g>fg2e2 | "A7"^c>ea2a2 | "D"d>fa2a2 | "D7"ab c'b c'b | c'd ^de =f"_>Teil A"^f |] [K:C] "C"g^f ag ec | 
+"G7"B>ag2g2 | gf ba fd | "C"c>ag2g2 | Ge Bc dc | "Dm"B>^GA2A2 | "G7"^fg ba =fd |  "C"e>Bc2c2 |] "Am"e>a c'2ba | "E7"^gbe2e2 | 
+"C"G>c e2dc | "G7"BdG2G2 | aBa2a2 | "C"{/a}g^f g2e2 | "G7"{/g}fef2d2 | "C".e2!>!g4 | "G7"aBa2a2 |  "C"{/a}g^f g2e2 | "G7"fef2d2 | "C"c2c2z2 |] 
+X:3
+T:Mazurka GC oct chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"G2D2E2 | D>cB2B2 | "D7"C>BA2A2 | "G"B,>AG2G2 | G2D2E2 | D>cB2B2 | "D7"C>BA2 A>F | "G"G2G2z2:: "A7"A2E2G2 | 
+"D"F>EF2D2 | "D7"c2F2A2 | "G"G>FG2E2 | "A7"^C>EA2A2 | "D"D>FA2A2 | "D7"AB cB cB | cD ^DE =F"_>Teil A"^F |] [K:Cmaj] "C"G^F AG EC | 
+"G7"B,>AG2G2 | GF BA FD | "C"C>AG2G2 | G,E B,C DC | "Dm"B,>^G,A,2A,2 | "G7"^FG BA =FD | "C"E>B,C2C2 |] "Am"E>A c2BA | "E7"^GBE2E2 | 
+"C"G,>C E2DC | "G7"B,DG,2G,2 | AB,A2A2 | "C"{/A}G^F G2E2 | "G7"{/G}FEF2D2 | "C".E2!>!G4 | "G7"AB,A2A2 | "C"{/A}G^F G2E2 | "G7"FEF2D2 | "C"C2C2z2 |] 
+
+X:4
+T:Mazurka CF chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"c2G2A2 | G>fe2e2 | "G7"F>ed2d2 | "C"E>dc2c2 | c2G2A2 | G>fe2e2 | "G7"F>ed2 d>B | "C"c2c2z2:: "D7"d2A2c2 | 
+"G"B>AB2G2 | "G7"f2B2d2 | "C"c>Bc2A2 | "D7"^F>Ad2d2 | "G"G>Bd2d2 | "G7"de fe fe | fG ^GA _B"_>Teil A"=B |] [K:Fmaj] "F"c=B dc AF | 
+"C7"E>dc2c2 | cB ed BG | "F"F>dc2c2 | CA EF GF | "Gm"E>^CD2D2 | "C7"=Bc ed _BG | "F"A>EF2F2 |] "Dm"A>d f2ed | "A7"^ceA2A2 | 
+"F"C>F A2GF | "C7"EGC2C2 | dEd2d2 | "F"{/d}c=B c2A2 | "C7"{/c}BAB2G2 | "F".A2!>!c4 | "C7"dEd2d2 | "F"{/d}c=B c2A2 | "C7"BAB2G2 | "F"F2F2z2 |] 
+X:5
+T: Mazurka GC (5letras transposed)
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"g2d2e2 | d>c'b2b2 | "D7"c>ba2a2 | "G"B>ag2g2 | g2d2e2 | d>c'b2b2 | "D7"c>ba2 a>f | "G"g2g2z2:: "A7"a2e2g2 | 
+"D"f>ef2d2 | "D7"c'2f2a2 | "G"g>fg2e2 | "A7"^c>ea2a2 | "D"d>fa2a2 | "D7"ab c'b c'b | c'd ^de =f"_>Teil A"^f |] [K:C] "C"g^f ag ec | 
+"G7"B>ag2g2 | gf ba fd | "C"c>ag2g2 | Ge Bc dc | "Dm"B>^GA2A2 | "G7"^fg ba =fd |  "C"e>Bc2c2 |] "Am"e>a c'2ba | "E7"^gbe2e2 | 
+"C"G>c e2dc | "G7"BdG2G2 | aBa2a2 | "C"{/a}g^f g2e2 | "G7"{/g}fef2d2 | "C".e2!>!g4 | "G7"aBa2a2 |  "C"{/a}g^f g2e2 | "G7"fef2d2 | "C"c2c2z2 |] 
+X:6
+T:Mazurka GC oct (5letras transposed)
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"G2D2E2 | D>cB2B2 | "D7"C>BA2A2 | "G"B,>AG2G2 | G2D2E2 | D>cB2B2 | "D7"C>BA2 A>F | "G"G2G2z2:: "A7"A2E2G2 | 
+"D"F>EF2D2 | "D7"c2F2A2 | "G"G>FG2E2 | "A7"^C>EA2A2 | "D"D>FA2A2 | "D7"AB cB cB | cD ^DE =F"_>Teil A"^F |] [K:Cmaj] "C"G^F AG EC | 
+"G7"B,>AG2G2 | GF BA FD | "C"C>AG2G2 | G,E B,C DC | "Dm"B,>^G,A,2A,2 | "G7"^FG BA =FD | "C"E>B,C2C2 |] "Am"E>A c2BA | "E7"^GBE2E2 | 
+"C"G,>C E2DC | "G7"B,DG,2G,2 | AB,A2A2 | "C"{/A}G^F G2E2 | "G7"{/G}FEF2D2 | "C".E2!>!G4 | "G7"AB,A2A2 | "C"{/A}G^F G2E2 | "G7"FEF2D2 | "C"C2C2z2 |] 
+
+X:7
+T:Mazurka CF (5letras transposed)
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"c2G2A2 | G>fe2e2 | "G7"F>ed2d2 | "C"E>dc2c2 | c2G2A2 | G>fe2e2 | "G7"F>ed2 d>B | "C"c2c2z2:: "D7"d2A2c2 | 
+"G"B>AB2G2 | "G7"f2B2d2 | "C"c>Bc2A2 | "D7"^F>Ad2d2 | "G"G>Bd2d2 | "G7"de fe fe | fG ^GA _B"_>Teil A"=B |] [K:Fmaj] "F"c=B dc AF | 
+"C7"E>dc2c2 | cB ed BG | "F"F>dc2c2 | CA EF GF | "Gm"E>^CD2D2 | "C7"=Bc ed _BG | "F"A>EF2F2 |] "Dm"A>d f2ed | "A7"^ceA2A2 | 
+"F"C>F A2GF | "C7"EGC2C2 | dEd2d2 | "F"{/d}c=B c2A2 | "C7"{/c}BAB2G2 | "F".A2!>!c4 | "C7"dEd2d2 | "F"{/d}c=B c2A2 | "C7"BAB2G2 | "F"F2F2z2 |] 

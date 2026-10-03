@@ -1,0 +1,679 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+
+Tetrachords and Pentachords
+===========================
+
+For music theorists back as far as the ancient Greeks and as recently
+as present-day ethnomusicologists, it has often been useful to think
+of modes as constructed from smaller pieces; two chunks each spanning
+a fourth or a fifth.  This reduces the number of modes you need to
+think about, since the pieces can be put together in different orders.
+Curt Sachs, in his book "The Rise of Music in the Ancient World",
+theorizes that melodies gradually expanded in range from the earliest
+times, starting with tunes using very few notes, called "oligotonic"
+by some theorists.  These are found in music from many parts of the
+world.  In Maori music they seem to have arisen independently.  Unlike
+anywhere else in the world, pre-European New Zealand had an ecosystem
+dominated by birds, where birdsong was never silent anywhere and filled
+the forests with a volume of sound no human instrument could outplay.
+Maori music adapted to it by creating melodies that stayed within the
+narrow range used by birds, with the expressive interest created by
+delicate microtonal inflections and variations of ornamentation.  All
+human music was effectively a concerto with a bird orchestra.  But the
+music of peoples related to the Maori, in Polynesia and south-east Asia,
+uses wider range; the oligotonic idiom isn't necessarily a mark of the
+ancient and primitive, and for the Maori it can only be a thousand years
+old, younger than some notated Western chant.
+
+At some point in the history of many Asian and European musics there was
+a divergence in oligotonic music into two "oligo-modes" (this is not
+standard terminology).  One type of narrow-range melody spans a fourth,
+with the tonal centre at the top (so a melody may fall at the start after
+the tonal centre has been established, and will rise at the end to meet
+it), and the other spans a fifth, with the tonal centre at the bottom (so
+that a melody tends to rise at the start and fall at its close).  Within
+these spans, a variety of inner notes were added.
+
+There were other possibilities.  Chants used for the Hindu Sama Veda seem
+to be a relic of a fourth-span melody type from ancient times: its melodies
+usually descend from the fourth, and may have tightly clumped microtonal
+intervals at the bottom of the range.  It may derive from a period when
+only the extreme pitches of a tune were consistent, and those within the
+tetrachord could be varied at will.  The ancient Greek ENHARMONIC and
+INTENSE CHROMATIC tetrachords were similar to those of the Sama Veda, but
+the Greeks didn't write down any melodic examples of them or pass any on
+in tradition.
+
+At some later stage tetrachords and pentachords were combined into scales
+of a full octave, in one of two ways.  Putting the pentachord at the bottom
+and the tetrachord at the top gave an authentic mode (with the tonal centre
+at both ends) and the opposite procedure (historically older) gave a plagal
+mode.  Sometimes other things could happen.  The SABA tetrachord of Middle
+Eastern music was (and still is) usually extended upwards to a scale with
+no pure octave - the 8th step of the scale is about a semitone flat.
+
+This construction was done in hardware in some kinds of ancient music -
+double flutes or shawms had a tetrachord in one hand and a pentachord on
+the other, and you could create composite modes by choosing two appropriate
+instruments.  (The fingering was like a Highland pipe: at any moment, one
+or other hand was always fully closed, and since the overall length of both
+pipes was the same, each pipe acted as a drone for the other).  In Greece
+the double shawm (aulos) was frequently depicted in art; it survives as the
+triple pipe of Sardinia, the launeddas (it has a third pipe, a lower drone
+without fingerholes).  An instrument like the launeddas is depicted on a
+Pictish stone, so the idea may have been used in Scotland before either
+the Gaels or the Saxons got here, though there isn't much trace of it now.
+
+This list of tetrachords and pentachords is set up for constructing modes
+with tonal centre A, using Sachs's approach.  So the tetrachords have A at
+the top and the pentachords have A at the bottom.  The names correspond to
+the heptatonic modes you can make from them - in Scottish music the lydian
+and phrygian pentachords only match with one possible tetrachord, whereas
+the other pentachords and all three tetrachords have two possible partners.
+It's like an addition table:
+
+          TTS   TST   STT
+
+  TTTS    lyd    -     -
+  TTST    maj   mix    -
+  TSTT     -    dor   min
+  STTT     -     -    phr
+
+
+X:0
+T:The Lydian/Major Tetrachord, TTS
+M:6/4
+L:1/4
+K:A
+"_do"E2 "_re"F "_mi"G "_fa"A2 |\
+"_fa"A2 "_mi"G "_re"F "_do"E2|]
+
+X:0
+T:The Mixolydian/Dorian Tetrachord, TST
+M:6/4
+L:1/4
+K:ADor
+"_re"E2 "_mi"F "_fa"G "_so"A2 |\
+"_so"A2 "_fa"G "_mi"F "_re"E2|]
+
+X:0
+T:The Minor/Phrygian Tetrachord, STT
+M:6/4
+L:1/4
+K:AMin
+"_mi"E2 "_fa"F "_so"G "_la"A2 |\
+"_la"A2 "_so"G "_fa"F "_mi"E2|]
+
+X:0
+T:The Lydian Pentachord, TTTS
+M:7/4
+L:1/4
+K:ALyd
+"_fa"A2 "_so"B "_la"c "_ti"d "_do"e2 |\
+"_do"e2 "_ti"d "_la"c "_so"B "_fa"A2|]
+
+X:0
+T:The Major/Mixolydian Pentachord, TTST
+M:7/4
+L:1/4
+K:A
+"_do"A2 "_re"B "_mi"c "_fa"d "_so"e2 |\
+"_so"e2 "_fa"d "_mi"c "_re"B "_do"A2|]
+
+X:0
+T:The Dorian/Minor Pentachord, TSTT
+M:7/4
+L:1/4
+K:AMin
+"_re"A2 "_mi"B "_fa"c "_so"d "_la"e2 |\
+"_la"e2 "_so"d "_fa"c "_mi"B "_re"A2|]
+
+X:0
+T:The Phrygian Pentachord, STTT
+M:7/4
+L:1/4
+K:APhr
+"_mi"A2 "_fa"B "_so"c "_la"d "_ti"e2 |\
+"_ti"e2 "_la"d "_so"c "_fa"B "_mi"A2|]
+
+These can be gapped in the same way as modes spanning a full octave.
+
+Narrow range is typical of children's songs all over the world, so it makes
+sense to look for tetrachordal or pentachordal structures in Scottish
+children's songs too.  This song from 1950s Edinburgh is TTS-tetrachordal
+with an added (unimportant) note above the tonal centre:
+
+X:0
+T:One Two Three A-Leerie
+G:children's game song
+B:James Ritchie: The Golden City
+M:C|
+L:1/8
+Q:1/2=84
+K:C
+G2G2 GccB|A2A2 AddB |
+G2G2 GccB|AdAB c2c2|]
+
+while this one is gapped pentachordal, TTm:
+
+X:0
+T:How Many Miles to Babylon?
+G:children's game song
+B:James Ritchie: The Golden City
+M:C|
+L:1/8
+Q:1/2=76
+K:F
+AA/A/ AA GFF2|A2AA G3 A|cccc AFF2|GFGA     F4   |
+AA/A/ AA GFF2|AAAA GFF2|ccc2 AFF2|GF/F/ GA GFF2|]
+
+Another pentachordal children's song, maybe from England:
+
+X:0
+T:Merrily We Roll Along
+M:C|
+L:1/4
+Q:1/2=96
+K:D
+F>E DE|FF F2|
+EE  E2|FA A2|
+F>E DE|FF F2|
+EE  FE|D4  |]
+
+This one is basically TTST-pentachordal with an unimportant sixth:
+
+X:0
+T:Katie Bairdie
+G:children's game song
+M:2/4
+L:1/8
+Q:1/4=90
+K:F
+c>d c>B|A>B c2|B>c B>A|G>A B2 |
+c>d c>B|A>B c2|F2  A<F|G2  F2|]
+
+This Romanian "colinda" (Christmas carol) has a range of only
+a major third:
+
+X:0
+T:Intreaba s'intreaba
+S:Bartok, Rumanian Christmas Carols
+N:middle line is the chorus
+M:5/8
+L:1/8
+Q:1/4=126
+K:GMix
+        G A B2 A|[M:2/4] G2 G2||
+A B2 A|[M:3/8] B2 G|[M:2/4] A A A A||
+[M:5/8] G A B2 A|[M:2/4] G2 G2|]
+
+So does this Slovak lament:
+
+X:0
+T:Morena, Morena
+Z:Jack Campin, http://www.campin.me.uk/
+% last edit 26-02-2013
+S:Slovenske Ludove Pienske v.3
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+B2AG|B2AG |\
+B2AG|B2AG |
+B2AG|B2AG |\
+B2AG|B2AG |
+BBAG|BBA2 |\
+BBAG|BBA2 |
+BBAG|BBA2 |\
+BBAA|GGGz|]
+
+
+This Welsh lullaby uses the same range, apart from the appogiaturas
+(decorations added for the harp?):
+
+X:0
+T:Suo-Gan
+S:Davidson's Musical Miracles: 250 Welsh Airs, 1859
+M:C
+L:1/4
+Q:1/4=90
+K:C
+c d   {c}e2|d c     d3/ z/|c d   {c}e2|d e c2||
+c d {EGc}e2|d c {GB}d3/ z/|c d {EGc}e2|d e c2|]
+
+This Breton tune has the same range, apart from the outlying low A
+thrown in for dramatic effect (a common feature of Breton tunes):
+
+X:0
+T:Ronde de Landeda
+M:3/2
+L:1/8
+Q:1/2=60
+K:D
+f|fedd d>def f2ef|fedA d>def f2 [1 e :|[2 e2||
+  f2fe ede>f fefd|f2fe ede>f fe [1 d2:|[2 d |]
+
+This mediaeval art song uses a range from a third above to a semitone
+below the tonic (with the B as a reciting tone):
+
+X:0
+T:Under der linden an der heide
+C:Walther von der Vogelweide, c.1200
+S:composite of versions I've heard
+M:3/4
+L:1/4
+Q:1/2=60
+K:G
+B2 B/A/|B2 B/A/|G2 F|G3  | \
+B2 B/A/|B2 B/A/|G2 F|G3  |
+A2 A/G/|B2 B   |A2 B|F2 G| \
+A2 A/G/|B2 B   |G2 F|G3  |
+B2 B   |B2 B   |B2 B|B3  | \
+B2 B/F/|G3     |           \
+A2 A/G/|B2 B   |G2 F|G3 |]
+
+This chant-like Spanish song from Andalusia uses a fragment of the
+Phrygian scale, but doesn't go high or low enough to include the fifth:
+
+X:0
+T:Saeta
+B:Cancionero Musical, Madrid 1928
+M:3/4
+L:1/8
+Q:1/4=90
+K:APhr
+AA AA AG|(B3/A//G// A4) |
+c2 d4   | c B2 A      GA|(B>A) B4|
+AA AA AG|(B3/A//G// A4) |
+FG AB cB| AF-       F4  |
+GA AA AA|(A>G       A4)|]
+
+And there are some examples from adult music, like this TTST-pentachordal
+song from the North-East of Scotland:
+
+X:0
+T:The Lichtbob's Lassie
+M:2/4
+L:1/8
+Q:1/4=72
+K:F
+FF/F/ GA/A/|F3   F|A>A AB|A G3 |
+c>c   cc   |c F2 F|G>A BA|A G3|]
+
+showing that even pentachordal tunes don't need to end on the tonal centre.
+
+This pentachordal tune is a klezmer dance from southern Ukraine.  It uses
+a TTST pentachord most of the time with a break in the TSTT pentachord.
+Very few klezmer tunes are modally like this and its origins are unknown.
+
+X:0
+T:Khotinskaya
+S:Belf's Romanian Orchestra, 1912
+Z:Simon Carlyle
+M:2/4
+L:1/16
+Q:1/4=80
+P:ABCB
+K:G
+P:A
+  z2 |GGGG {AB}A2G2|{B}c2{Bc}B2    A2G2|{Bc}BGBd       c2A2|{B}c2B2   {cB}A2G2 |
+      GGGG {AB}A2G2|{B}c2{Bc}B2    A2G2|    BGBd       c2A2|   G6             :|
+P:B
+(3GAB|c2c2     G4  |{d}cBcB        A4  |{d} cB{e}dc {c}BAcB|{B}AGBA         G2:|
+P:C
+  z2 |d8           |   d8              |   Td4        Td4  |  Td4         Td4  |
+      d2G2  {G}d4  |   d{cd}c2B {G}d4  |    d2G2    {G}d4  |   d{cd}c2B {G}d4  |
+      c2G2  {G}c4  |{G}d2{_Bc}_B2  A2G2|   _BBBd       cccd|   G6             :|
+
+These Turkish songs are TSTT-pentachordal.  Minor tetrachordal and
+pentachordal tunes seem to be rare in Scotland.
+
+X:0
+T:Tren Gelir
+T:The Train Comes
+S:Eftal Dodur, Meshur Oyun Havalari, book 2
+G:Turkish children's song
+M:2/4
+L:1/16
+Q:1/4=100
+K:CDor
+F2F2 C2C2|F2F2 C4|E4   FGFG|EFDE C4:|
+E2ED C2C2|E2EF D4|EFEF D2E2|D2C2 C4:|
+F2F2 C2C2|F2F2 C4|E4   FGFG|EFDE C4:|
+
+X:0
+T:Hamsi Kurban O Goze
+G:Turkish ballad
+S:Hamdi Tanses, Oykuleriyle Halk Turkuleri, 2005
+M:5/8
+L:1/8
+Q:5/8=50
+K:DDor
+DA AA2|AA AGF|GG GEG|FE D3:|
+GG GEG|FE D2E|GG GEG|FE D3:|
+
+This dorian/minor hexatonic tune has a six-note range, with a note
+below the tonic and the gap at the top:
+
+X:0
+T:Alasdair of the Dun
+T:Hulla mucka doo
+D:Andrew Rankine
+Z:Nigel Gatherer
+M:2/4
+L:1/8
+Q:1/4=100
+K:GMin
+GG B2   |BA/G/ A2   |cc/c/ FF   |c/c/c/c/ FF |
+GG B2   |BA/G/ AB/c/|dB    cA   |G2       G2:|
+dc GA/c/|dc    G2   |cA    FA/B/|cA       F2 |
+dc GA/c/|dc    GA/c/|dB    cA   |G2       G2:|
+
+This French tune uses the same pitches:
+
+X:0
+T:Washerwoman's Branle
+M:C|
+L:1/4
+Q:1/2=92
+K:GDor
+  GGGG|FFB2|cBAG|GFG2::GdBd|cBAG:|
+|:GGF2|G2A2|AAAB|cBAG |\
+  GGF2|G2A2|cBAG|GFG2:|
+
+A Hungarian example:
+
+X:0
+T:Kinyilt a rozsa
+M:2/4
+L:1/8
+Q:1/4=100
+K:EMin
+B2 AA|B2 E2 |\
+A2 AA|B2 G2 |
+GA BB|BA GE |\
+DD DD|E2 E2|]
+
+This Hungarian one (one of the many Hungarian tunes for the ballad
+"Laszlo Feher", often known in English as "Anna Feher" or mangled
+into "Anathea" thanks to Judy Collins) has a Dorian sixth but the
+seventh is missing, both at the top and the bottom:
+
+X:0
+T:Feher Laszlo lovat lopott
+M:3/4
+L:1/8
+Q:1/4=80
+K:EDor
+EE EF GE|E G3   z2|\
+BB cB BE|G2  F2 z2|
+c3  B EF|GE E G2 z|\
+[M:2/4]FG AB|GG F2|[M:3/4] E4|]
+
+This kind of mode is so common in European folk music that it needs a name:
+I don't know of an existing one so I'll call it TOPLESS DORIAN and its
+relative TOPLESS MINOR.
+
+"Katie Bairdie" was extended to a popular dance tune (the title is from a
+19th century bawdy song) with an octave-range second part, but preserving
+the pentachordal original in the first half:
+
+X:0
+T:Kafoozalum
+M:C
+L:1/8
+K:D
+a2 a>g f>ga2|e>fg>f e>fg2|a2 a>g f>ga>f|d>ef>d e2d2:|
+f>dA>d f>df2|g>ec>e g>eg2|f>dA>d f>df2 |d>ef>d e2d2:|
+
+And this two-part English dance tune manages to stay strictly within a
+pentachord:
+
+X:0
+T:Shepherd's Hey
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+B2d2 c4 |BcdB A4|BcdB ccBc|d2A2 G4:|
+B2G2 c3A|B2G2 A4|BcdB cBcA|d2A2 G4:|
+
+This late mediaeval Spanish song uses the same pentachord:
+
+X:0
+T:De los alamos vengo
+N:15th century Spain
+B:Cancionero Musical, Madrid 1928
+M:2/4
+L:1/8
+Q:1/4=120
+K:A
+cd|e2 ed |c2 A2|B c2 B|c2
+cd|ee e>d|c2 AA|B4    |A4 |z2
+cd|e2 ed |c2 A2|B c2 B|c2
+cd|ee e>d|c2 AA|B4    |A2
+cd|ee e>d|c2 AA|B4    |A4 |z2
+cd|e2 ed |c2 A2|B4    |A2
+cd|e2 ed |c2 A2|B c2 B|A2
+cd|ee e>d|c2 AA|B4    |A4 |z2
+cd|e2 ed |c2 A2|B c2 B|c2
+cd|ee e>d|c2 AA|B4    |A2
+cd|ee e>d|c2 AA|B4    |A4-|A2|]
+
+There are many tunes where the first part is basically tetrachordal or
+pentachordal, but with some outlying notes added by octave shifts that
+make no real difference to the structure:
+
+X:0
+T:Glenburnie Rant
+T:Sma Coals for Nailers
+G:reel
+M:C
+L:1/8
+Q:1/2=112
+K:EMin
+% dorian/minor hexatonic, sharp D leading notes
+e2|E2EF E2EF|DEFG AFDF|E2EF E2B2|efe^d e2:|
+B2|e2ef g2fe|defg afdf|e2ef g2fe|efe^d e2
+B2|e2ef g2fe|defg afdf|g2ag f2gf|efe^d e2|]
+
+Where there is a large gap created this way, Russian ethnomusicologists
+call these tunes CHASMATONIC (maybe "chasm" doesn't sound as melodramatic
+in Russian).  This Hungarian nationalist song is in topless minor except
+for a chasmatonic low D:
+
+X:0
+T:Huszargyerek, huszargyerek
+M:C|
+L:1/8
+Q:1/2=96
+K:GMin
+BA3 GG3|dd3  dd3  |ed3  cB3 |A4 D2 z2 |
+BA3 GG3|dd3  dd3  |e3 d cB3 |A4 D2 z2 |
+cc3 dd3|d2A2 B2 zB|A2G2 d2d2|c4 F2 z2 |
+Bc3 dd3|d2c2 B2 zB|dc3  B2A2|G4 G2 z2|]
+
+The verse of this song is TTST-pentachordal with just one outlying note,
+the low E.  Like "Katie Bairdie", the second part has been extended in
+range:
+
+X:0
+T:Killiecrankie
+S:my memory of the singing of Bobby Eaglesham 20 years ago
+M:C|
+L:1/8
+Q:1/2=60
+K:G
+GA|B2 B2 B2 AG|c4    c2 BA|B2 B2 cB AG|B2 A2 A2
+GA|B2 B2 cB AG|c4    c2 BA|Bc dB A3  G|E2 G2 G2||
+Bc|d2 D2 D2 EF|G2 C2 C2 c2|B2 B2 cB AG|B2 A2 A2
+Bc|d2 D2 D2 EF|G2 C2 C2 c2|Bc dB A3  G|E2 G2 G2|]
+
+Indian and Middle Eastern music consciously retain the idea of ragas
+or makams being composed of stacked tetrachords - it's common for
+improvisations in these traditions to start in the lower tetrachord and
+stay there for some time before adding notes from the upper tetrachord.
+Some old Scottish tunes, like "Killiecrankie", have a similar form.  In
+the first half of this tune there is a melodic core that stays within the
+lower tetrachord, with the upper tetrachord used in a more stereotyped way,
+as a descending scale, only after the basic idea of the tune is established.
+Some of the higher notes sound as if they've been jumped up an octave as
+a trick dramatic effect, which stuck as part of the tune.
+
+X:0
+T:The White Cockade
+M:C
+L:1/8
+K:D
+DE|F2 F2 F2 ED|F2 F2 F2 d2|A2 F2 F2 ED|F2 E2 E2
+DE|F2 F2 GF ED|F2 A2 d2 de|fe dc ed cB|A2 F2 F2||
+FG|A2 F2 d2 F2|A2 A2 A2 B2|A2 F2 d2 cd|e2 E2 E2
+DE|F2 F2 GF ED|F2 A2 d2 de|fe dc ed cB|A2 F2 F2|]
+
+In this tune the chorus is the lower tetrachordal part.  Again the upper
+tetrachord is mainly used for descending patterns.
+
+X:0
+T:There's Nae Luck Aboot the Hoose
+G:song
+M:2/4
+L:1/8
+Q:1/4=90
+K:D
+   B   |d>B AF |G>G GB |d>B AF |E3
+[1 B   |d>B AF |G>G G>B|A>G F>E|D3:|
+[2 B   |d>B AF |G>A B>d|A>G F>E|D3||
+   D/E/|F2  F>D|G>G GE |F2  F>D|E3
+   D/E/|F2  F>D|G>A B>d|A>G F>E|D3|]
+
+It's common for Scottish tunes of wider range to have sections that
+stay mostly within separate tetrachords.  Song tunes don't often do
+that strictly: an instrument with wider range than the voice is more
+effective at drastic changes of register.  But there are many songs
+where for a few bars at a time, only a few exceptional notes fall
+outside the tetrachord.  This song (mixolydian/dorian hexatonic, also
+used as an instrumental strathspey, as a reel, and in Ireland as a
+polka) has fairly sharp separation of pitch ranges except for the
+closing bar:
+
+X:0
+T:The Haughs of Cromdale
+S:Hamish Henderson's singing, via "101 Scottish Songs"
+M:4/4
+L:1/8
+Q:1/4=100
+K:CDor
+B/A/|GC  D>F     G>F D>F    |G<C CD/C/ B,>C    D<F |
+     G>C C(D/F/) G>F DF     |GF  BD    C2      C3/||
+  d/|Cc  c(B/A/) BB  c(B/A/)|B>c BG    F(G/A/) B>F |
+     Gc  c(B/A/) Bd  c(B/A/)|GF  BD    C2      C  |]
+
+With song tunes, one frequent pattern is a four-line one, AABA, where
+the A lines have similar contours in a low tetrachord and the B one is
+in a higher range.
+
+This (lydian/major/mixolydian pentatonic) tune uses the same structure,
+though the subranges are hexachords:
+
+X:0
+T:Farewell to Tarwathie
+M:C
+L:1/4
+Q:1/4=120
+K:G
+G   |B G G|E D D|E  G A  |B2
+G/G/|B G G|E<D D|E< G A  |G2
+B/A/|G B d|e d B|A< G A  |B2
+G   |B G G|E D D|E/ G2 A/|G2|]
+
+This major/mixolydian hexatonic song uses almost the same pitches, again
+divided into two overlapping hexachords, but the structure is ABBA:
+
+X:0
+T:The Soor Milk Cairt
+M:C
+L:1/8
+Q:1/4=120
+K:G
+G>A|B>B D>D G>B   B>B|A>G G>G G3
+ B |c>d e>d d<B   G>B|d>B A<G A3
+ B |d>d e>d d2    B>c|d>B A>G A2
+G>A|B>B D>D G/A/B B>B|A>G G>G G2|]
+
+This English song uses a less symmetrical pitch arrangement - a lower
+seventh and an upper tetrachord - but the same ABBA structure.  (It's
+effectively pentatonic: the fourth and seventh only occur as "pien"
+passing notes).
+
+X:0
+T:The Lincolnshire Poacher
+M:6/8
+L:1/8
+Q:3/8=104
+K:A
+  E|A2A AGF|E2D C2E|A2A B2G|A3- A2
+  E|A2B c2d|e2c A2B|c2c cBA|B3- B2
+  E|A2B c2d|e2c A2B|c2c cBA|B3
+c2B|A2A AGF|E2D C2E|A2A B2G|A3- A2|]
+
+X:0
+T:Tail Toddle
+S:Ewan MacColl, Personal Choice
+M:C
+L:1/8
+Q:1/2=90
+K:ADor
+|:G2BG c2BA|GGBG A2FD|GGBB ccBA|GGBG A2FD:|
+|:cEEE EEE2|dEEE A2FD|cEEE EEFE|DDGG A2FD:|
+
+This tune has its pentatonic first part mostly in the lower tetrachord
+and the hexatonic second part in the upper one:
+
+X:0
+T:Wha Saw the 42nd
+M:2/4
+L:1/8
+Q:1/4=110
+K:A
+A2 A>B  |cB ce|A2 A>B  |ce B2|A2 A>B  |cB ce|fa ea|ca B2:|
+ce ef/g/|ae fe|ce ef/g/|ac B2|ce ef/g/|ae fe|fa ea|ca B2:|
+
+In this ballad tune, the first part is (apart from the low A upbeats) in
+an upper pentachord and the second part in a lower (gapped) one, the two
+combined to produce a dorian/minor hexatonic plagal scale.  The result is
+an oddly indefinite ending in each part, with the last note producing a
+dominant-like unresolved effect in both, as if the first part was centred
+on G and the second part on F.  If you were adding a chordal accompaniment,
+it might be an idea to put the final D minor chord in each part into some
+sort of inversion, to de-emphasize D as a tonal centre and preserve the
+calculated ambiguities of the tune.
+
+X:0
+T:Bonny Barbara Allan
+S:Kinsley, The Oxford Book of Ballads, from the Scots Musical Miscellany
+M:C
+L:1/8
+Q:1/4=90
+K:DDor
+A>A|d2 d>e f2 ed|c>d e>f g2 fe|d3 e fe dc|A2 d4||
+c2 |A2 c2  G2 AG|F3   G  A2 dc|A3 G F3  G|A2 d4|]
+
+Middle Eastern music (Turkish and Iranian art music in particular) exploits
+the idea of tetrachordal/pentachordal construction to modulate between
+different modes.  Typically one tetrachord of the mode will change at a
+time, and the tune will stay within the new tetrachord for long enough for
+the listener to register the change before it expands in range again.  This
+resembles the way Scottish music tends to shift mode in small steps, though
+there's no historical connection and the effect can be very different.
+
+=============================================================================
+==  (c) Jack Campin         http://www.campin.me.uk/            June 2016  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

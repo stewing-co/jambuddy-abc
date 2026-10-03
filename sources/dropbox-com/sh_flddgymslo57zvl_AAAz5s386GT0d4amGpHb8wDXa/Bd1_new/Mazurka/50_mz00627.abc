@@ -1,0 +1,31 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Mazurka CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.269 (mz00627) orig. C,G,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c>c' ag ec | "G7"B2a2a2 | B>b ag fB | "C"c2g2g2 | e>g e'c' ge | "G7"B>d ba fd | "Dm"B>d f>a "G7"g>B | 
+"C"c2c2z2 :: [K:G] "G"G>e d>G B>G | "D7"FA cf ag | e>c' d'f c'f | "G"g>b d>g B>d | G>e d>G B>G | "D7"FA cf ag | 
+f>e' d'c' ef |"_(1)""G"g2g2"_> Teil A"z2 :| [K:F] "F"c2 {/e}d3c | ca fc AF | "C7"E2 C>E G>c | e6 | 
+c2 {/e}d3c | cb ec GE | "F"F2F>A "Bb"d>f | "F"A6 | c2 {/e}d3c | caf3c | "Gm"B2 {e}d3^c | 
+dbg4 | "C7"e>e' d'c' be | "F"f>d' c'a fc | "C7"c>c' bc g>c | "F"f2f2z2 |] 
+W:
+W: (1) the orig. has "D7" here
+
+X:2
+T: Mazurka CGF chords Parts
+P:ABAC
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+[P:A] "C"c>c' ag ec | "G7"B2a2a2 | B>b ag fB | "C"c2g2g2 | e>g e'c' ge | "G7"B>d ba fd | "Dm"B>d f>a "G7"g>B | 
+"C"c2c2z2 :: [P:B] [K:G] "G"G>e d>G B>G | "D7"FA cf ag | e>c' d'f c'f | "G"g>b d>g B>d | G>e d>G B>G | "D7"FA cf ag | 
+f>e' d'c' ef | "G"g2g2z2 :| [P:C] [K:F] "F"c2 {/e}d3c | ca fc AF | "C7"E2 C>E G>c | e6 | 
+c2 {/e}d3c | cb ec GE | "F"F2F>A "Bb"d>f | "F"A6 | c2 {/e}d3c | caf3c | "Gm"B2 {e}d3^c | 
+dbg4 | "C7"e>e' d'c' be | "F"f>d' c'a fc | "C7"c>c' bc g>c | "F"f2f2z2 |] 
+
+

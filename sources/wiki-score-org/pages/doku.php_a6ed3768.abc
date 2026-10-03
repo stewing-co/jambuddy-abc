@@ -1,0 +1,28 @@
+X:208
+T:N.2 Fado (Josepha)
+C:Fonseca, Eduardo da (1863-1938)
+M:C
+L:1/4
+K:C
+V: 8 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 8 }]
+%
+%--- SOURCE C
+%
+(!>!C,2>!>!E,2) | (!>!D,2>!>!F,2) | (!>!G,,2>!>!D,2) | !>!C,2-C,z \
+|: (C,2>E,2 | D,3)z | (B,,2>F,2 | E,3)G,, :| \
+zG,-G,/z/z & E,2C,/x/x | [_E,_A,] (E,A,E,) & !>!_A,,4 | [_E,G,] (E,G,E,)  & !>!G,,4 | \
+[C,F,] (C,F,C,) & !>!F,,4 | [C,_E,] (C,_E,C,) & !>!_E,,4 | z_E,_A,/z/z & _A,,2-A,,/x/x | \
+zC,/E,/ G,/z/z & G,,2-G,,/x/x | z (G,B,G,) & G,,4 | \
+C,x[C,,C,]/z/z & C,G,x2 |] \
+%
+%--- SOURCE B
+%
+%   (!>!C,2>!>!E,2) | (!>!D,2>!>!F,2) | (!>!G,,2>!>!D,2) | !>!C,2-C,z \
+%   || (C,2>E,2 | D,3)z | (B,,2>F,2 | E,3)G,, | (C,2>!>!E,2 | D,2)>z2 | \
+%   (B,,2>F,2| E,2)-E,z | "_Check ABC"  x (_E,_A, E,) & _A,,2-A,,2 | z (_E,G,E,)  & G,,4 | z (C,F,C,) & F,,4 | \
+%   z (C,_E,C,) & _E,,4 | z (_E,_A,2) & _A,,4 | z (C,=E,G,) & G,,4 | z (G,[F,B,]G,) & G,,4 | \
+%   z (G,[E,C]/z/x) & C,G,,C,,/z/ z |] \
+%
+%---

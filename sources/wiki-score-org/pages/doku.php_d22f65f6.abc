@@ -1,0 +1,28 @@
+X:2601
+T:Scena 6.a [Aria Emirena]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 1 clef=alto name="Corno I" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 1 )]
+%------------------------
+[K: bass] Z16 || "^Corni ElaFa" \
+[Q: "Allegro"]  E,4 | F,4 | E,(3E,/E,/E,/ E, z | E,4 | z(3E,/E,/E,/ E, z | \
+E,4 | z(3E,/E,/E,/ E, z | E, z z2 | F,F,F,z | B,3C | B,B, A,A, |G,B,2 C | \
+B,B, A,A, | G, zz2 | G,2 F,2 | E, z F,2 | E,zG, F, | E,E,E,z | \
+!p! E,4 | F,4 | z !f! (3E,/E,/E,/ E, z | Z | z (3E,/E,/E,/ E, z | F,4 | \
+z !f! (3E,/E,/E,/ E, z | !p! G,4- | G,4- | G,4- | G,4 | !f! G,G,G,z | !p! F,4- | \
+F,4- | F,4- | F,4 | !f! B,B,B,z | Z3 |F,4 | \
+F,4- | F,4- | F,4 | !f! B,2 F,2 | B,zz2 | \
+Z2 | B,2 F,2 | B,zz2 | F,4- | F,4 | B,B,B,z | \
+B,zF,2 | B,zG,2 | F, z F,2 | B,B,B,z | !p! B,,4- | B,,4- | "_cresc." B,,4- | \
+B,,4- | B,,4 | B,,zz2 | B,B,B,z | !p! G,4 | G,4- | G,4 | G,zz2 | \
+Z3 | !f! E,2 z2 | !p!A,2 G,2 | !f! F,4 | \
+!fermata! Z | !fermata! B,,2z2 | !p! G,4 | F,4 | E,(3E,/E,/E,/ E, z | E,4 | \
+E,E, z2 | F,4 | E,4 | G, zz2 | G, zz2 | G,4 | \
+Z | !f! F,2 G, F, | E,E,E,2 | !f! E,4 | B,,4- | B,,4 | B,4 | \
+A,4 | G,2 F,2 | E, zz2 | Z | G,2 F,2 | E, zz2 | G,4 | \
+F,4 |  E,E,E,z | E,E,F,2 | E, zE, z |  G,2 F,2 | E, (3E,/E,/E,/ E,z |]
+%------------------------

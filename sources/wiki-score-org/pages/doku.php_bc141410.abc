@@ -1,0 +1,53 @@
+X:116
+T:[Orchestras]
+C:Giuseppe Totti (17__-1832)
+M:C
+L:1/4
+K:Bb
+V: 16 clef=treble name="Violino Primo" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 16 }]
+%----- edit between the lines ----
+[Q:"Allegro com spirito"]  !f!  [Fdb] z[Fdb]z |  \
+[Fdb] z zz | Z | !f! [Bb]>f [Bb]>f |  [Bb]3 {C''}(b/a//b//) | .c' .c' .a .f |\
+!f! [Fdb] z zz |  Z | z !p! .g/.g/ (g/B/)(B/^c/) | (^c/d/).d/.d/ (^c/d/).d/.d/ |\
+(=B/c/) c z2 | X | z .c/.c/ (c/e/).e/.e/ | (e/g/).g/.g/ (g/c'/).c'/.b/ |\
+a/ a a a a/| b [db] [dd'] [db] | a/ a a a a/ |  b [db] [dd'] [db]| [Fac] z z2 |\
+Z2 | zz/ (f/.A) {c}(B/A//B// | .c) z/ (f/.A) {c}(B/A//B// |\
+.c) {e}(d/c//d// .e) ({d}c/B//c// | [Fd]) z [Fdb] z |\
+[bB]>f [bB]>f | d'3 b | g>d g>d | b> g =e z | z2 z/ c/c/c/ |\
+c/c//c// =e//f//g//a// b [ec=E] | [fcF] z z2 | z/ d/d/d/ d/=e//f// g//a//b//c'//|\
+d' z z2 | !f! (b/a/)!p!.b/.b/ !f! (a/^g/)!p!.a/.a/ | !f! (g/^f/)!p!.g/.g/\
+!f! (f/=e/)!p!.f/.f/ | !f! (=e/^d/)!p!.e/.e/ !f! (f/e/)!p!.f/.f/ | !f! (g/^f/)!p!.g/.g/  !f! (=f/=e/)!p!.f/.f/ |\
+!f!=e z z2| z/ c/c/c/ c/=B//A// G//F//E//D// | C z [FA] z | \
+[CG] [Ec=e] [Fcf] [Fcf] | [Ec=e] z z2 | Z4 | [CF] z z/ !p! A//G// F/F//_E//|\
+D z z/ d//c// B/B//A// | G z z2 | Z2 | A z B z | A z z B | A A A G |\
+A z z/ !p! A//G// F/F//=E// | D z z2 | z G G G | F z z2 | !f! \
+z/ f//f// a//a//f//f// =e//e//g//g// c'//c'//b//b// | a z z2 |\
+z/ g//g// b//b//g//g// ^f//f//a//a// d'//d'//c'//c'// | b z/> (g//a/// b) z/> (g//b///| \
+a) z/> (a//b/// c') z/> (a//c'/// | b) z/> (b//c'/// d') z/> (f//b///) | a/ !sfz! g f/ f/ !sfz! f f/| \
+[Af] [Fca] [Afc'] [Gc=e] | [Fcf] z z2 | z/> (g//a/// .b/).b/ a/z// (b///c'/// .d'/).d'/| \
+.c'/ !sfz! b a/ .d'/ !sfz! c' =b/ | c' c'///b///a3/4 c'///b///a3/4 b///a///g3/4| \
+a [Af] [Fca] [Af] | [a,,Fc] [Af] [a,,Fc] [a,,Fc]| [a,,Fc] z3 | Z2 |\
+!f! z G//A//G//F// =E z | Z7 | [Fcf] z [Fcf] z | [Fcf] z z2 | z4 | [Af]> c [Af]> c|\
+[Af]3 {g}(f/=e//f//) |!p! .g .g .=e .c | .f z z2| z4 | z .b/.b/ (b/d/).d/.d/ |\
+(d/e/).e/.e/ (=e/f/).f/.f/ | (^f/g/) g z2 | z4 | z .g/.g/ (g/=B/).B/.B/ | \
+(B/c/).c/.c/ (^c/d/).d/.d/ |(d/e/) e z2 | z4 | z .c/.c/ (c/e/).e/.e/ | \
+(e/g/).g/.g/ (g/c'/).c'/.c'/ | c' z z2 | !f! z [Gd=b] [Gec'] [Gec'] | [Gd=b] z z2| \
+z e/f/ g/g/ {a}g/f//e// | b z z2| z [DBf] [EBg] [EBg] | [DBg] z z2 | z4 |\
+[B,Ge] z [B,Ge] z | [Ee]> B [Ee]> B | [g]3 e | [Bb]> g [Bb]> g| [e']3 c' |\
+=a z [Af] z | z/b/b/b/ b//a//g//f// e//d//c//B//| A z [Af] z | z/_a/a/a/ a//g//f//e// d//c//B//A//|\
+G/=A//B// c//d//e//f// g z| !f!(G/^F/)!p!.G/.G/ !f!(=F/=E/)!p!.F/.F/|\
+!f! (_E/D/)!p!.E/.E/ !f!(D/^C/)!p!.D/.D/| !f!(=C/=B,/)!p!.C/.C/ !f!(D/^C/)!p!.D/.D/ |\
+!f!(E/D/)!p!.E/.E/ !f!(D/^C/)!p!.D/.D/ | !f! =C z z2| z/ f/f/f/ f/=e//d// c//B//A//G//| \
+F z [DB] z| [FA] [Fca] [Fdb] [Fdb] | [Fca] z z2| Z4 | z2 z/(d//c//) B/(B//A//)| \
+G z z2 | z2 z/(e//d//) c/(c//B//| A) z z2| Z | F z F z | F z z .E| .D .D .D .C|\
+D z/ z d//c// B/B//A// | G z z2 | z4 | [Fdb] z z2 | z/ b//b// d'//d'//b//b// a//a//c'//c'// f//f//a//a// |\
+b z z2| z/ e//e// g//g//c'//c'// =b//b//d'//d'// g//g//b//b//| c' z/> (e//f/// g) z/> (c'//b/// | a) z/> (c//d/// e) z/> (c'//a///) |\
+.b/ !sfz! a b/ .B/ !sfz! B B/ | d d//f//d//f// c c//e//c//e// | [B,Fd] z z2|\
+z//d//e//f// g//f//g//a// b//f//g//a// b//a//b//c'// | d'/ !sfz! c' b/ .b/ !sfz! b b/|\
+b//d'//b//e'// b a//c'//a//c'// a | [Fdb] z z2 | z z/ (b/d) {f}e/d//e// |\
+f z z !f! [Fdb] | [Fca] z z2 | z z/ !p! (f/A) {c}B/A//B// | c z z !f! [Fca] |\
+[Fdb] [EBg] [DBf] [Fca] | [Fdb] [EBg] [DBf] [Fca] | [Fdb] [DB] [DB] [DB] |\
+[DB] [Fdb] [Fdb] [Fdb] | [Fdb] z [Fca] z | [Fdb] z z2 |]
+%---------------------------------

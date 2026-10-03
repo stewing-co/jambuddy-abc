@@ -1,0 +1,15 @@
+% heads.abc
+
+%%pagescale 2.0
+
+% %musicfont url(/usr/share/abcm2ps/Bravura.otf)
+% %format newheads
+
+X: 1
+T: Default Note Heads
+M: 4/4
+L: 1/4
+K: C
+%
+C4| [DEFG]2 [defg]2 | [FGABc] [GABcd] A B | c e g c |
+C/D/E/F/ G/ A/ B/ c/ | c/d/ e/d/ c/B/ C/ d/ |

@@ -1,0 +1,84 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Mazurka  FBb
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: Das Repertoire der B\"abi-Musig, Alpnach. S.62-108. S.102 (mz09135) orig. F,Bb
+T: \"Uberliefert durch Josef B\"abi, Alpnach, 1880
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"a>aa2g2 | f>ff2c2 | "Bb"de gf ed | "F"c>cc2z2 | "C7"g2b>ag2 | "F"f2a>gf2 | "G7"g>a g>f e>d | "C"c2c2z2 :: 
+"C7"ba gf ed | "F"cf agf2 | "C7"gc gcg2 | "F"ac aca2 | "Bb"ba gf ed | "F"cf cf!>!"D7"^f2 | "Gm"gd bg "C7"eg | "F"f2f2z2 :: [K:Bb] 
+"Bb"F2 GA Bc | d>e.f2!>!f2 | "F7"g>f e>d!>!e2 | "Bb"f>e d>c!>!d2 | F2 GA Bc | d>e.f2!>!f2 | "F7"g>f ec ec | "Bb"B2B2z2 :| 
+% Aug. 18, 2016 (Raksha Bandhan)
+% mz09135
+X:2
+T:Mazurka  CF 5-
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"e>ee2d2 | c>cc2G2 | "F"AB dc BA | "C"G>GG2z2 | "G7"d2f>ed2 | "C"c2e>dc2 | "D7"d>e d>c B>A | "G"G2G2z2 :: 
+"G7"fe dc BA | "C"Gc edc2 | "G7"dG dGd2 | "C"eG eGe2 | "F"fe dc BA | "C"Gc Gc!>!"A7"^c2 | "Dm"dA fd "G7"Bd | "C"c2c2z2 :: [K:F] 
+"F"C2 DE FG | A>B.c2!>!c2 | "C7"d>c B>A!>!B2 | "F"c>B A>G!>!A2 | C2 DE FG | A>B.c2!>!c2 | "C7"d>c BG BG | "F"F2F2z2 :| 
+% mz09135
+X:3
+T:Mazurka  GC 2+
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"b>bb2a2 | g>gg2d2 | "C"ef ag fe | "G"d>dd2z2 | "D7"a2c'>ba2 | "G"g2b>ag2 | "A7"a>b a>g f>e | "D"d2d2z2 :: 
+"D7"c'b ag fe | "G"dg bag2 | "D7"ad ada2 | "G"bd bdb2 | "C"c'b ag fe | "G"dg dg!>!"E7"^g2 | "Am"ae c'a "D7"fa | "G"g2g2z2 :: [K:C] 
+"C"G2 AB cd | e>f.g2!>!g2 | "G7"a>g f>e!>!f2 | "C"g>f e>d!>!e2 | G2 AB cd | e>f.g2!>!g2 | "G7"a>g fd fd | "C"c2c2z2 :| 
+% mz09135
+X:4
+T:Mazurka  CF (5letras transposed)
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"e>ee2d2 | c>cc2G2 | "F"AB dc BA | "C"G>GG2z2 | "G7"d2f>ed2 | "C"c2e>dc2 | "D7"d>e d>c B>A | "G"G2G2z2 :: 
+"G7"fe dc BA | "C"Gc edc2 | "G7"dG dGd2 | "C"eG eGe2 | "F"fe dc BA | "C"Gc Gc!>!"A7"^c2 | "Dm"dA fd "G7"Bd | "C"c2c2z2 :: [K:F] 
+"F"C2 DE FG | A>B.c2!>!c2 | "C7"d>c B>A!>!B2 | "F"c>B A>G!>!A2 | C2 DE FG | A>B.c2!>!c2 | "C7"d>c BG BG | "F"F2F2z2 :| 
+% mz09135
+X:5
+T:Mazurka  GC (5letras transposed)
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"b>bb2a2 | g>gg2d2 | "C"ef ag fe | "G"d>dd2z2 | "D7"a2c'>ba2 | "G"g2b>ag2 | "A7"a>b a>g f>e | "D"d2d2z2 :: 
+"D7"c'b ag fe | "G"dg bag2 | "D7"ad ada2 | "G"bd bdb2 | "C"c'b ag fe | "G"dg dg!>!"E7"^g2 | "Am"ae c'a "D7"fa | "G"g2g2z2 :: [K:C] 
+"C"G2 AB cd | e>f.g2!>!g2 | "G7"a>g f>e!>!f2 | "C"g>f e>d!>!e2 | G2 AB cd | e>f.g2!>!g2 | "G7"a>g fd fd | "C"c2c2z2 :| 
+% mz09135
+X:6
+T:Mazurka D&G (tinwhistle in D)
+T:mz09135 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:marzurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"f>ff2e2 | d>dd2A2 | "G"Bc ed cB | "D"A>AA2z2 | "A7"e2g>fe2 | "D"d2f>ed2 | "E7"e>f e>d c>B | "A"A2A2z2 :: 
+"A7"gf ed cB | "D"Ad fed2 | "A7"eA eAe2 | "D"fA fAf2 | "G"gf ed cB | "D"Ad Ad!>!"B7"^d2 | "Em"eB ge "A7"ce | "D"d2d2z2 :: [K:G] 
+"G"D2 EF GA | B>c.d2!>!d2 | "D7"e>d c>B!>!c2 | "G"d>c B>A!>!B2 | D2 EF GA | B>c.d2!>!d2 | "D7"e>d cA cA | "G"G2G2z2 :| 
+X:7
+T:Mazurka D&G (tinwhistle in D) solo
+T:mz09135 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:marzurka
+M:3/4
+L:1/8
+K:D transpose=12
+f>ff2e2 | d>dd2A2 | Bc ed cB | A>AA2z2 | e2g>fe2 | d2f>ed2 | e>f e>d c>B | A2A2z2 :: 
+gf ed cB | Ad fed2 | eA eAe2 | fA fAf2 | gf ed cB | Ad Ad!>!^d2 | eB ge ce | d2d2z2 :: [K:G] 
+D2 EF GA | B>"_c"c.d2!>!d2 | e>d "_c"c>B!>!c2 | d>"_c"c B>A!>!B2 | D2 EF GA | B>"_c"c.d2!>!d2 | e>d "_c"cA "_c"cA | G2G2z2 :|
+% Aug. 18, 2016 (Raksha Bandhan)

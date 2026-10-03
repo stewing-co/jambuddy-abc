@@ -1,0 +1,21 @@
+X:602
+T:Tantum Ergo
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 2 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+%------------------
+[Q:"Andante"] !p! .C/z/ .G,/z/ .C/z/ .G,/z/ | .D/z/ .G,/z/ .D/z/ .G,/z/ | Czz2 | !p!(A,4 | G,) zz !p!A | \
+G!p!(!>!AGF) | (E2D2) | (!>!E2D2) | (_D2C2) | (_D2C2) | "_cresc." c/cccc/ | =B !p!G2G| !p!G4- | Gzz2 |  !p!G4- | Gzz2 | \
+z !p! gf2 | (e>fg) !p!G | A(GcB)| A(GcB-) | B !p!f2f | ee2e | !p! dd2d | c(=Bc_B) | (_A2=A2) | .Gz.Fz|.Ezz2 | Z |\
+!p! .C/z/ .G,/z/ .C/z/ .G,/z/ | .Cz .G,z | "^Segue;genitori" !p! !fermata! G,4 || \
+[Q:"Genitori"][Q:"Moderato"][M:2/4] !p!(G2|A2)|!p!F(A|G2)| !p! (G2|A2|B2|A)!p!E|\
+e2-|e2-|e2-|eA|!f![Fc][Fc]| [F_d]z|Z2|!f![G=d][Gd] | [Ge]z|Z2|\
+!p!(=Bc|d2|c=B|c/) !f!GG/|!f!F/FF/|_G/GG/|!f!F/FF/|_G/GG/| Fz| Z2 | \
+z !f!B-|B/BB/-|B!f!c-|c/cc/-|c !f![c_e]-|[c_e]/!>![ce][ce]/|[ce]/z/z|Z2|\
+z "_piz" C|AB,|GE|Az|Z3| zC|AB,|GE|Az|Z3| \
+"_arco" !pp!G,2-|G,2|G,2-|G,2|!p!G,2-|G,2|!p!G,2-|G,2|"_piz" .G,z|.G,z|!p!.G,z||Z|"_arco"!p!.Cz|.Cz|!p!"_finis".C!fermata!z|]\
+%------------------

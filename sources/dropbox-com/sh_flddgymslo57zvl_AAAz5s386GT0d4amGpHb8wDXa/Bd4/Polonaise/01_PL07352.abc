@@ -1,0 +1,44 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polonaise CF (PL07352)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.286 (PL07352) orig. C,F
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polonaise
+M:3/4
+L:1/16
+K:C %%MIDI gchordon
+"C"(e3d) .c2.d2 .e2.f2 | (^fg).e.c "G7".c2.B2 .A2.G2 | (3G2B2A2 D4 (3D2F2E2 |  "C"(C3D) EFGA G4 | (e3d) .c2.d2 .e2.f2 | (^fg).e.c "G7".c2.B2 .A2.G2 | 
+"D7"d6 (cB) (BA)(A^F) | "G"G2GG .G4z4 :| "G7"GGGG ^G2A2 A2B2 | "C"(Bdc2) (EAG2) DFE2 | "G7"G2 !>!^F4=F2 E2D2 | "C"C3D EFGA G4 | 
+"G7"GGGG ^G2A2 A2B2 | ("C"Bdc2) (EAG2) (DFE2) | "G7"D2!>!B4(AG) ^F"*"G=fd | "C".c2(Bd) c2(Bd) .c4 || [K:F]  "F"a6 (gf) (efga) | (c3dc4)z4 | 
+"C7"b6(ag) (^fgag) | (c3dc4)z4 | ("F"Ac).f.a c'2b2a4 | ("Bb"ab).d2 "C7".b.a.g.f e2d2 | "F".c2(fg)a4 "C7"(c'b).g.a | "F"f2ff.f4z4 ||  
+"Dm".f.e!>!d4(fe) .d.e.f.g | "A7".a2(a^c) .a2.a.b .a.g.f.e | "Dm".f.e!>!d4(fe) .d.e.f.g | "A7".a4z4z4 | "C7"(a3b)(^f6g2) | "F"(b3a) (e6f2) | 
+"C7".c'2.b2 .^f2.g2 .d2.e2 | "F"f4 (Aefd) .c2.c2 | "C7"(A3B) ^F6G2 | ("F"B3A) E6F2 | "C7"c2B2 ^f2g2 d2e2 | "F"f2f2 f4z4 |] 
+W:
+W:* Anmerkung Hrsg.: Teil B, zweitletzer Takt, HC: g eine Oktave höher
+%%% PL07352
+% June 28, 2017
+
+X:2
+T:Polonaise GC 5- (PL07352)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.286 (PL07352) orig. C,F
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polonaise
+M:3/4
+L:1/16
+K:G %%MIDI gchordon
+"G"(B3A) .G2.A2 .B2.c2 | (^cd).B.G "D7".G2.F2 .E2.D2 | (3D2F2E2 A,4 (3A,2C2B,2 | "G"(G,3A,) B,CDE D4 | (B3A) .G2.A2 .B2.c2 | (^cd).B.G "D7".G2.F2 .E2.D2 | 
+"A7"A6 (GF) (FE)(E^C) | "D"D2DD .D4z4 :| "D7"DDDD ^D2E2 E2F2 | "G"(FAG2) (B,ED2) A,CB,2 | "D7"D2 !>!^C4=C2 B,2A,2 | "G"G,3A, B,CDE D4 | 
+"D7"DDDD ^D2E2 E2F2 | ("G"FAG2) (B,ED2) (A,CB,2) | "D7"A,2!>!F4(ED) ^C"*"D=cA | "G".G2(FA) G2(FA) .G4 || [K:C] "C"e6 (dc) (Bcde) | (G3AG4)z4 | 
+"G7"f6(ed) (^cded) | (G3AG4)z4 | ("C"EG).c.e g2f2e4 | ("F"ef).A2 "G7".f.e.d.c B2A2 | "C".G2(cd)e4 "G7"(gf).d.e | "C"c2cc.c4z4 || 
+"Am".c.B!>!A4(cB) .A.B.c.d | "E7".e2(e^G) .e2.e.f .e.d.c.B | "Am".c.B!>!A4(cB) .A.B.c.d | "E7".e4z4z4 | "G7"(e3f)(^c6d2) | "C"(f3e) (B6c2) | 
+"G7".g2.f2 .^c2.d2 .A2.B2 | "C"c4 (EBcA) .G2.G2 | "G7"(E3F) ^C6D2 | ("C"F3E) B,6C2 | "G7"G2F2 ^c2d2 A2B2 | "C"c2c2 c4z4 |] 
+%W:* Anmerkung Hrsg.: Teil B, zweitletzer Takt, HC: g eine Oktave höher
+%%% PL07352
+% June 28, 2017

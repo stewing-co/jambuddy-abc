@@ -1,0 +1,65 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Sicilienne. CF (mf07396) ABACA
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.320 (mf07396) orig. C,F
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACA
+R:Monferrina
+M:6/8
+L:1/8
+K:C %%MIDI gchordon
+[P:A] "C"ezc (eag) | ezc (eag) | "G7"fze fzc' | ("C"g3e)z2 | ezc (eag) | ezc (eag) | "D"^fzd (fba) |1 
+"G7"gag fed :|2 "G"gz2gz2 |] [P:B] "G7"gz(a g)z(f | "C"e)z(d c)z.B | .c.e.g (a2g) | Gce (f2e) | "Dm"ez(f e)z(d | 
+"G7"c)zB ezd |  "C"c2d c2d | c2e ef^f | "G7"gz(a g)z(f | "C"e)z(d c)z.B | .c.e.g !>!a2g | Gce !>!f2e | 
+"Dm"ed.aa3 | ("C"dc).gg3 | "G7"gag fed | "C"cz2 "_Fine"c"_>Teil A"z2 |] [P:C] [K:F] "F"f2f a2a | c'2c'a2a | 
+"C7"g2g gag | "F"f2a c'2a | f2f a2a | c'2c' a2a | "C7"g2g gag | gze cze | "F"f2f a2a | 
+c'2c' a2a | "C7"g2g c'2a | "F"f2f a2a | "Bb"b2b d'2d' | "C7"c'2c' c'bg | "F"fz2f"_>Teil A"z2 |] 
+W: Sicilienne (Monferrina)
+% mf07396
+% July 26, 2017
+
+X:2
+T:Sicilienne. CF (mf07396)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.320 (mf07396) orig. C,F
+S: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Monferrina
+M:6/8
+L:1/8
+K:C %%MIDI gchordon
+"C"ezc (eag) | ezc (eag) | "G7"fze fzc' | ("C"g3e)z2 | ezc (eag) | ezc (eag) | "D"^fzd (fba) |1 
+"G7"gag fed :|2 "G"gz2gz2 || "G7"gz(a g)z(f | "C"e)z(d c)z.B | .c.e.g (a2g) | Gce (f2e) | "Dm"ez(f e)z(d | 
+"G7"c)zB ezd |  "C"c2d c2d | c2e ef^f | "G7"gz(a g)z(f | "C"e)z(d c)z.B | .c.e.g !>!a2g | Gce !>!f2e | 
+"Dm"ed.aa3 | ("C"dc).gg3 | "G7"gag fed | "C"cz2 "_Fine"c"_  >Teil A"z2 |] [K:F] "F"f2f a2a | c'2c'a2a | 
+"C7"g2g gag | "F"f2a c'2a | f2f a2a | c'2c' a2a | "C7"g2g gag | gze cze | "F"f2f a2a | 
+c'2c' a2a | "C7"g2g c'2a | "F"f2f a2a | "Bb"b2b d'2d' | "C7"c'2c' c'bg | "F"fz2f"_>Teil A"z2 |] 
+W:Parts: ABACAB
+% mf07396
+% July 26, 2017
+
+X:3
+T:Sicilienne. GC 5- (mf07396)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.320 (mf07396) orig. C,F
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Monferrina
+M:6/8
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"BzG (Bed) | BzG (Bed) | "D7"czB czg | ("G"d3B)z2 | BzG (Bed) | BzG (Bed) | "A"^czA (cfe) |1 
+"D7"ded cBA :|2 "D"dz2dz2 || "D7"dz(e d)z(c | "G"B)z(A G)z.F | .G.B.d (e2d) | DGB (c2B) | "Am"Bz(c B)z(A | 
+"D7"G)zF BzA | "G"G2A G2A | G2B Bc^c | "D7"dz(e d)z(c | "G"B)z(A G)z.F | .G.B.d !>!e2d | DGB !>!c2B | 
+"Am"BA.ee3 | ("G"AG).dd3 | "D7"ded cBA | "G"Gz2 "_Fine"G"_  >Teil A"z2 |] [K:Cmaj] "C"c2c e2e | g2ge2e | 
+"G7"d2d ded | "C"c2e g2e | c2c e2e | g2g e2e | "G7"d2d ded | dzB GzB | "C"c2c e2e | 
+g2g e2e | "G7"d2d g2e | "C"c2c e2e | "F"f2f a2a | "G7"g2g gfd | "C"cz2c"_>Teil A"z2 |] 
+W:Parts: ABACAB
+% mf07396
+% July 26, 2017

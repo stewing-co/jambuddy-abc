@@ -1,0 +1,152 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Never Weather-beaten Saile
+O: Two Bookes of Ayres; The First Book 1619
+C: Thomas Campian
+%%gchordfont Helvetica 12 box
+%%MIDI ratio 3 1
+%%MIDI nobarlines
+K:C
+T: Cantus
+M:C
+L:1/4
+%1
+|: B B A>d c c B>e
+w: Nev- er tyr- ed Pil- grims limbs af-
+%2
+L:1/8
+d2 G2 A2 A2 G8 :| d2 A B c2  G A
+w:will- ing bent to shore, Than my _ wea- ry _
+w: fect- ed slum- ber more; 
+%3
+   B2 ^F G A3 A B A B c d3 e d c B c A4
+w: spright now _ longs to flye _ out _ of my trou- _ bled _ brest.
+%4
+|: E3 E ^F2 D2 G3 G A2 ^F2 B3 B c2 A2
+w: O come quick- ly, O come quick- ly, O come quick- ly,
+%5
+d c B A G2 E ^F G A B c A3 G HG8 :|
+w:sweet- _ est _ Lord, and _ take _ my _ soule to rest.
+W: Ever blooming are the joyes of heavens high paradise.
+W: Cold age defes not there our eares, nor vapour dims our eyes;
+W: Glory there the Sun outshines, whose beames the blessed onely see:
+W: O come quickly, O come quickly, O come quickly, 
+W: Glorious Lord, and raise my spright to thee.
+
+X:2
+T:Never Weather-beaten Saile
+O: Two Bookes of Ayres; The First Book 1619
+C: Thomas Campian
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%
+M:C
+N:Original clef, C on second line
+K:C
+T: Altus
+L:1/4
+%1
+K:C 
+|: G G ^F > ^F G A D >E ^F G G ^F G4 :|
+w:1.~Nev- er weath- er- beat- en Saile more will- ing bent to shore,
+w: Nev- er tyr- ed Pil- grims limbs af- ect- ed slum- ber more; 
+%2
+B A G G ^F A >G F/2 E/2 D E 
+w:  Than   my  wea-  ry  spright now _ longs _ to flye
+%3
+^F G A D/2 E/2 ^F2 |: C >C A, > A, D > E ^F D 
+w: out  of my trou-  bled brest. O come quick- ly,  O come quick- ly, 
+%4
+   D G    E     ^F/2 E/2 D      G/2 F/2 E    C    C     B, D     D  HD4 :|
+w: O come quick- ly, _   sweet- est _  Lord, and  take  my soule to rest.
+W: Ever blooming are the joyes of heavens high paradise.
+W: Cold age defes not there our eares, nor vapour dims our eyes;
+W: Glory there the Sun outshines, whose beames the blessed onely see:
+W: O come quickly, O come quickly, O come quickly, 
+W: Glorious Lord, and raise my spright to thee.
+
+
+X:3
+T:Never Weather-beaten Saile
+O: Two Bookes of Ayres; The First Book 1619
+C: Thomas Campian
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI transpose -12
+%%MIDI ratio 3 1
+%%
+M:C
+N:Original clef, C on third line
+K:C
+T: Tenor
+L:1/4
+%1
+K:C 
+|: d d d > A c A B > c A G 
+w:1.~Nev- er weath- er- beat- en Saile more will- ing
+w: Nev- er tyr- ed Pil- grims limbs af- ect- ed 
+%2
+d d B4 :|       B/2 c/2 d   G/2 A/2 B/2 c/2 d       A/2 B/2 ^c d
+w: bent to shore, Than _  my  wea- _  ry _  spright now _ longs to 
+w: slum- ber more; 
+%3
+  B    e    A B A G A2             |: G A    A     ^F    G B d > A 
+w:flye out  of my trou-  bled brest. O come quick- ly,  O come quick- ly, 
+%4
+B G A A B B c > B   A/2 G/2 g g ^f Hg4:|
+w:O come quick- ly, sweet- est  Lord, and take _ my soule to rest.
+W: Ever blooming are the joyes of heavens high paradise.
+W: Cold age defes not there our eares, nor vapour dims our eyes;
+W: Glory there the Sun outshines, whose beames the blessed onely see:
+W: O come quickly, O come quickly, O come quickly, 
+W: Glorious Lord, and raise my spright to thee.
+
+
+X:4
+T:Never Weather-beaten Saile
+O: Two Bookes of Ayres; The First Book 1619
+C: Thomas Campian
+%%gchordfont Helvetica 12 box
+%%MIDI transpose -24
+%%MIDI ratio 3 1
+%%MIDI nobarlines
+M:C
+K:C
+T: Bassus
+L:1/4
+%1
+K:C bass
+|: g g d>d e ^f g > c d e
+w:1.~Nev- er weath- er- beat- en Saile more will- ing
+w: Nev- er tyr- ed Pil- grims limbs af- ect- ed
+%2
+d d G4 :| g ^f e e d d A d g e 
+w: bent to shore, Than my  wea- ry  spright now  longs to flye  out 
+w: slum- ber more; 
+%3
+d g ^f g d2 |: c A d > c B G d > d
+w: of my trou-  bled brest. O come quick- ly, O come quick- ly, 
+%4
+  g e    A       >d     c/  B/ A/ G/   c > d       e/ ^f/ g d d HG4 :|
+w:O come quick-  ly,   sweet-  _ est _ Lord, and  take _ my soule to rest.
+W: Ever blooming are the joyes of heavens high paradise.
+W: Cold age defes not there our eares, nor vapour dims our eyes;
+W: Glory there the Sun outshines, whose beames the blessed onely see:
+W: O come quickly, O come quickly, O come quickly, 
+W: Glorious Lord, and raise my spright to thee.

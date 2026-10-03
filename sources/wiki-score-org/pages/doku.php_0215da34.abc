@@ -1,0 +1,63 @@
+X:107
+T:[Kyrie]
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 7 clef=alto name="Contralto" sname="C."
+%%MIDI program 1 1
+%%staves [[ 7 ]]
+%------------------
+[Q:"Largo"] Z8 | C2EF2G | A2 A B2 A | B2F E2 F | E2 F E2 z | \
+w: Ky-ri-e e-le-i-son e-le-i-son e-le-i-son
+!p! C2 C C2 C | C2 F E> E E/ E/ | F z/ \
+w: Ky-ri-e e-lei-son e--le-i-son e-le-i-son e-le-i-son
+!f!F/ ^F/ F/ G z/ \
+w:  e-le-i-son
+G/ B/ B/ | A2z \
+w: e-le-i-son
+!p!A2G | F2F F2F | F2z z2 \
+w: Ky-ri-e e-le-i-son
+!p!A | ^G2=B A2A | G3-G2F | E2z z2z | \
+w: e-le-i-son e-le--i-son
+!p!F3 F3 | E2z z2 \
+w: Ky-ri-e
+!p!E | F3 F3 | E2z z2z | \
+w: e-le-i-son
+!f!G2G G2G | _B2 B A2 _A | G3 "_check ms"  =F3 |E2z z2z | \
+w: Ky-ri-e e-le-i-son e-le-i-son
+!f! G2G G2G | _B2 B A2 _A | G3 F3 | E2z \
+w: Ky-ri-e e-le-i-son e-le-i-son
+!p!F2F | G2G A2A | B2!p!G G2G | !fermata!G6 || "Segue;Christe" \
+w: Ky-ri-e e-le-i-son e-le-i-son
+[Q:"Allegretto"][M:3/8] !p!F3 | F2F | (FE) G |(GF) !p!A, | =B,2D| C2C | D2=B, | C2!f!G | A2G | G2z | \
+w: Chris-te e-le--i-son_ e-le-i-son e-le-i-son e-le-i-son
+!f!G3 | G2!f!G | ^G3 | ^G3 | A2z | zz\
+w:  Chris-te e-le-i-son
+!f!A | B2B | Bzz | \
+w: e-le-i-son
+F2z | Z2 | \
+w: son
+!f! G3 | G2G | F2^F | G2^G | A2 A | !f! A G F | F2F | G2B | A2-A | G2-G | F2z | zz \
+w:  Chris-te e-le-i-son e-lei-son Chris-te e-le-i-son e-le--i--son
+!f!D | E2^C | D2 !f! F | G2G | F2!f!A | (A^G) =B | (=BA) c | (c=B) d | c2z | \
+w: e-le-i-son e-le-i-son e-le--i-son_ e-le--i-son
+!f!E E E | F2F|G2!f!G|A2A|B2z|Z|\
+w: Chris-te e-le-i-son e-le-i-son
+zz!f!G|G2G|G2z|Z2|!fermata!Z || \
+w: e-le-i-son
+[Q:"Largo"][M:6/8] !p! C2EF2G | A2AB2!p!A|B2FE2F|E2FE2z|\
+w: Ky-ri-e e-le-i-son e-le-i-son e-le-i-son
+!p!C2CC2C|C2"_cresc" F E> E E/ E/ | Fz/ \
+w: Ky-ri-e e-le-i-son e-le-i-son
+!f!F/ ^F/ F/ G z/ \
+w: e-le-i-son
+G/ _B/ B/ | A2 z \
+w: e-le-i-son
+!p!A2G | F2z \
+w: Ky-ri-e
+!>!"^NB: check ms"[F_A]2A | =A2FG2E | F2 z \
+w: Ky-ri-e e-le-i-son
+!p!F2F| F2FG2E|F2!p!FF2F|F2!p!AG2B|A2zz2z|Z2| !fermata!Z |]\
+w: Ky-ri-e e-le-i-son e-le-i-son e-le-i-son
+%------------------

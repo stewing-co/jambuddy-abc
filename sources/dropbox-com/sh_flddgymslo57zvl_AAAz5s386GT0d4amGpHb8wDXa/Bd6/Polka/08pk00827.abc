@@ -1,0 +1,94 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Polka  GC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.183 (pk00827) orig. G,C-Dur
+T:Gomser T\"anze. S.178-195.\"Uberliefert durch Theodor Franzen, 1870-1958, Fiesch.
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"Bc^cd dbgd | "D7"dcc2 cff2 | dcc2 caa2 | "G"edd2 dgg2 | Bc^cd dbag | 
+"C"fee2 egfe | "G"dgb2 "D7"cdfa | "G"g2b2g2z2 :: "G"bagf "C"agfe | "G"eddd e2d2 | 
+"D7"dcBc d2c2 | "G"Bdgb d'4 | bagf "C"agfe | "G"eddd e2d2 | "D7"dcBc a3f | 
+"G"g6z2 :: [K:C] "C"e2f2 ^f2g2 | "G7"a2a2d4 | bag2 fed2 | "C"cag^f g4 | e2f2 ^f2g2 | 
+"Dm/F"a2a2d4 | "G7"bag2 fed2 | "C"c2e2c4 :| "G7"Bcde fgab | "C"c'2c2 eag2 | 
+"G7"f2B2 dag2 | "C"e2G2 cfe2 | "G7"Bcde fgab | "C"c'2c2 eag2 | "G7"fBb2 bafB | "C"c2e2c2z2 |]  
+X:2
+T:Polka  CF 7-
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"EF^FG GecG | "G7"GFF2 FBB2 | GFF2 Fdd2 | "C"AGG2 Gcc2 | EF^FG Gedc | 
+"F"BAA2 AcBA | "C"Gce2 "G7"FGBd | "C"c2e2c2z2 :: "C"edcB "F"dcBA | "C"AGGG A2G2 | 
+"G7"GFEF G2F2 | "C"EGce g4 | edcB "F"dcBA | "C"AGGG A2G2 | "G7"GFEF d3B | 
+"C"c6z2 :: [K:F] "F"A2B2 =B2c2 | "C7"d2d2G4 | edc2 BAG2 | "F"Fdc=B c4 | A2B2 =B2c2 | 
+"Gm/Bb"d2d2G4 | "C7"edc2 BAG2 | "F"F2A2F4 :| "C7"EFGA Bcde | "F"f2F2 Adc2 | 
+"C7"B2E2 Gdc2 | "F"A2C2 FBA2 | "C7"EFGA Bcde | "F"f2F2 Adc2 | "C7"BEe2 edBE | "F"F2A2F2z2 |] 
+% pk00827
+X:3
+T:Polka  GC (5letras transposed)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"Bc^cd dbgd | "D7"dcc2 cff2 | dcc2 caa2 | "G"edd2 dgg2 | Bc^cd dbag | 
+"C"fee2 egfe | "G"dgb2 "D7"cdfa | "G"g2b2g2z2 :: "G"bagf "C"agfe | "G"eddd e2d2 | 
+"D7"dcBc d2c2 | "G"Bdgb d'4 | bagf "C"agfe | "G"eddd e2d2 | "D7"dcBc a3f | 
+"G"g6z2 :: [K:C] "C"e2f2 ^f2g2 | "G7"a2a2d4 | bag2 fed2 | "C"cag^f g4 | e2f2 ^f2g2 | 
+"Dm/F"a2a2d4 | "G7"bag2 fed2 | "C"c2e2c4 :| "G7"Bcde fgab | "C"c'2c2 eag2 | 
+"G7"f2B2 dag2 | "C"e2G2 cfe2 | "G7"Bcde fgab | "C"c'2c2 eag2 | "G7"fBb2 bafB | "C"c2e2c2z2 |] 
+% pk00827
+X:4
+T:Polka  CF (5letras transposed)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"EF^FG GecG | "G7"GFF2 FBB2 | GFF2 Fdd2 | "C"AGG2 Gcc2 | EF^FG Gedc | 
+"F"BAA2 AcBA | "C"Gce2 "G7"FGBd | "C"c2e2c2z2 :: "C"edcB "F"dcBA | "C"AGGG A2G2 | 
+"G7"GFEF G2F2 | "C"EGce g4 | edcB "F"dcBA | "C"AGGG A2G2 | "G7"GFEF d3B | 
+"C"c6z2 :: [K:F] "F"A2B2 =B2c2 | "C7"d2d2G4 | edc2 BAG2 | "F"Fdc=B c4 | A2B2 =B2c2 | 
+"Gm/Bb"d2d2G4 | "C7"edc2 BAG2 | "F"F2A2F4 :| "C7"EFGA Bcde | "F"f2F2 Adc2 | 
+"C7"B2E2 Gdc2 | "F"A2C2 FBA2 | "C7"EFGA Bcde | "F"f2F2 Adc2 | "C7"BEe2 edBE | "F"F2A2F2z2 |] 
+X:5
+T:Polka  D&G (tinwhistle in D)
+T: pk00827 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Polka
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"FG^GA AfdA | "A7"AGG2 Gcc2 | AGG2 Gee2 | "D"BAA2 Add2 | FG^GA Afed | 
+"G"cBB2 BdcB | "D"Adf2 "A7"GAce | "D"d2f2d2z2 :: "D"fedc "G"edcB | "D"BAAA B2A2 | 
+"A7"AGFG A2G2 | "D"FAdf a4 | fedc "G"edcB | "D"BAAA B2A2 | "A7"AGFG e3c | 
+"D"d6z2 :: [K:G] "G"B2c2 ^c2d2 | "D7"e2e2A4 | fed2 cBA2 | "G"Ged^c d4 | B2c2 ^c2d2 | 
+"Am/C"e2e2A4 | "D7"fed2 cBA2 | "G"G2B2G4 :| "D7"FGAB cdef | "G"g2G2 Bed2 | 
+"D7"c2F2 Aed2 | "G"B2D2 GcB2 | "D7"FGAB cdef | "G"g2G2 Bed2 | "D7"cFf2 fecF | "G"G2B2G2z2 |] 
+X:6
+T:Polka  D&G (tinwhistle in D) solo
+T: pk00827 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Polka
+M:2/4
+L:1/16
+K:D transpose=12
+FG^GA AfdA | AGG2 Gcc2 | AGG2 Gee2 | BAA2 Add2 | FG^GA Afed | 
+cBB2 BdcB | Adf2 GAce | d2f2d2z2 :: fedc edcB | BAAA B2A2 | 
+AGFG A2G2 | FAdf a4 | fedc edcB | BAAA B2A2 | AGFG e3c | 
+d6z2 :: [K:G] B2"_c"c2 ^c2d2 | e2e2A4 | fed2 "_c"cBA2 | Ged^c d4 | B2"_c"c2 ^c2d2 | 
+e2e2A4 | fed2 "_c"cBA2 | G2B2G4 :| FGAB "_c"cdef | g2G2 Bed2 | 
+"_c"c2F2 Aed2 | B2D2 GcB2 | FGAB "_c"cdef | g2G2 Bed2 | "_c"cFf2 fe"_c"cF | G2B2G2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 20, 2016
+

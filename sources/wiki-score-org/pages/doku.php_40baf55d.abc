@@ -1,0 +1,15 @@
+X:503
+T:N.7 Um pouco mais...
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 3 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 3 ]
+[F,D]2/4>[B,D]/[F,D]/ ([D,B,] [E,C]2/4) | \
+([F,D]> [F,D]) "D/E?"[DE,]2/4[G,E]2/4 | [DF]2/4>[D=F]/[D^F]2/4 [B,D]2/4[A,D]2/4[F,D]2/4 | [CF]1/4([CE]1/4 [CE]) [E,C] [F,D]2/4 | \
+[CE]2/4>[=CF]/[^CE]2/4 [CE] [A,F]2/4 | ([A,G]> [A,G]) [C,B,]2/4[D,A,]2/4 | [G,E,]2/4>F,/[G,E,]2/4 [CB]2/4[CA]2/4[CB]2/4 || \
+[M:3/8] [F,D] [DF,]/ || [M:6/8] [G,DB]2/4>[G,^A]/B2/4 [GB]2/4[G,B,]2/4E,2/4 | \
+[A,D]3/2  [B,E]3/2 |"dim."[G,B,]3/2 G,z/|\
+Z2| !fermata!Z||

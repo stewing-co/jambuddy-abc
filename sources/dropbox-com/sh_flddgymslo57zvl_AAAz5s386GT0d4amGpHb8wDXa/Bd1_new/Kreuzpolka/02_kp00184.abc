@@ -1,0 +1,51 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Kreupolka  FCBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhause, St. Gallen I. S.127 (kp00184) orig. F,C,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"c>f Ad | c2A2 | c>f af | "C7"c2B2 | c>c =Bc | eee2 | "Bb"ddd2 | "F"ccc2 | 
+c>f Ad | c2A2 | "F"c>f ef | "Bb"g2d2 | "C7"g>f ef | "F"caf2 | "C7"c/d/^d/e/ ag | "F"fa fz |: [K:C] 
+"G7"g>f ed | "C"a2g2 | "G7"b>b ab | "C"d'2c'2 | "G7"b>a g>f |1 "C"age2 | "G7"gfd2 | "C"age2 :|2  
+"C"eag2 | "G7"fB e>d | "C"cc c"_> Teil A"z |: [K:Bb] "Bb"d>d de | f2b2 | "Eb"g>g g>b | "Bb"f2d2 | 
+"F7"c'>c' c'b | agf2 |1 a>a ag | "Bb"fed2 :|2 "F7"f/=e/f/g/ d'c' | bd' bz |] 
+
+X:2
+T: Kreupolka  FCBb chords Parts
+P:ABAC
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A] "F"c>f Ad | c2A2 | c>f af | "C7"c2B2 | c>c =Bc | eee2 | "Bb"ddd2 | "F"ccc2 | 
+c>f Ad | c2A2 | "F"c>f ef | "Bb"g2d2 | "C7"g>f ef | "F"caf2 | "C7"c/d/^d/e/ ag | "F"fa fz [P:B] |: [K:C] 
+"G7"g>f ed | "C"a2g2 | "G7"b>b ab | "C"d'2c'2 | "G7"b>a g>f |1 "C"age2 | "G7"gfd2 | "C"age2 :|2  
+"C"eag2 | "G7"fB e>d | "C"cc cz |]  [P:C] |: [K:Bb] "Bb"d>d de | f2b2 | "Eb"g>g g>b | "Bb"f2d2 | 
+"F7"c'>c' c'b | agf2 |1 a>a ag | "Bb"fed2 :|2 "F7"f/=e/f/g/ d'c' | bd' bz |] 
+
+X:3
+T:Kreupolka  CGF 5- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"G>c EA | G2E2 | G>c ec | "G7"G2F2 | G>G ^FG | BBB2 | "F"AAA2 | "C"GGG2 | 
+G>c EA | G2E2 | "C"G>c Bc | "F"d2A2 | "G7"d>c Bc | "C"Gec2 | "G7"G/2A/2^A/2B/2 ed | "C"ce cz |: [K:Gmaj] 
+"D7"d>c BA | "G"e2d2 | "D7"f>f ef | "G"a2g2 | "D7"f>e d>c |1 "G"edB2 | "D7"dcA2 | "G"edB2 :|2 
+"G"Bed2 | "D7"cF B>A | "G"GG G"_> Teil A"z |: [K:Fmaj] "F"A>A AB | c2f2 | "Bb"d>d d>f | "F"c2A2 | 
+"C7"g>g gf | edc2 |1 e>e ed | "F"cBA2 :|2 "C7"c/2=B/2c/2d/2 ag | fa fz |] 
+
+X:4
+T:Kreupolka  CGF 5- chords Parts
+P:ABAC
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+[P:A] "C"G>c EA | G2E2 | G>c ec | "G7"G2F2 | G>G ^FG | BBB2 | "F"AAA2 | "C"GGG2 | 
+G>c EA | G2E2 | "C"G>c Bc | "F"d2A2 | "G7"d>c Bc | "C"Gec2 | "G7"G/2A/2^A/2B/2 ed | "C"ce cz [P:B] |: [K:Gmaj] 
+"D7"d>c BA | "G"e2d2 | "D7"f>f ef | "G"a2g2 | "D7"f>e d>c |1 "G"edB2 | "D7"dcA2 | "G"edB2 :|2 
+"G"Bed2 | "D7"cF B>A | "G"GG Gz |] [P:C] |: [K:Fmaj] "F"A>A AB | c2f2 | "Bb"d>d d>f | "F"c2A2 | 
+"C7"g>g gf | edc2 |1 e>e ed | "F"cBA2 :|2 "C7"c/2=B/2c/2d/2 ag | fa fz |] 
+

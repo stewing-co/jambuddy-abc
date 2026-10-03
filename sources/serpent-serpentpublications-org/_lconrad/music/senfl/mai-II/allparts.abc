@@ -1,0 +1,97 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Wohl kumbt der Mai
+S: Cantus
+C:Ludwig Senfl 
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+K:G
+G2 D G2 F/ E/ D2 C/ D/ E/ F/ G E A2 G E F > G A B2 A/ G/ A B G > A B2 E A2 "f"^G
+A2 z A A A c > B A/ G/ A2 G/ "f"=F/ E2 z A G > F E2 D2 z E F3 F E A2 G
+F E z E > D D2 "f"^C D4 z2 F2 G2 F > G A G2 F z G > F E/ D/
+C2 B, B > A G/ F/ E2 D d > c B/ A/ G/ F/ E/ D/ C c B2 G A > G G2 F HG8 |]
+
+X:2
+T:Wohl kumbt der Mai
+S: Altus
+C:Ludwig Senfl 
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+N: Original clef, C on second line
+K:G -8va
+d2 B e2 d/ c/ B2 A/ B/ c/ A/ B c A d2 "f"^c d > e f d g2 z G c2 B2 c "f"=f e > d
+c/ B/ A/ G/ "f"=F/ E/ e c > d e3 c c3 A2 G/ "f"=F/ E2 z E G > F E2 D2 F > G A E z G
+A c3 G2 A3 F2 E/ D/ E D A2 G2 d4 z D E C/ D/ E/ F/ G2 F G E/ F/ G/ A/ B2 A z B > A G/ F/ E2 A2 B > c d d e2 d2 HB8 |]
+
+X:3
+T:Wohl kumbt der Mai
+S: Tenor
+C:Ludwig Senfl 
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+N:Original clef, C on third line
+K:G -8va
+z8 z8 d4  d2 d2  e2 d e2 d/ c/ B B A4
+w: Wohl kumbt der Mai mit man- * * * cher lei 
+w: All's, das da lebt, sich  jetz * * * er- hebt, 
+w: Und sun- der- lich er- freu * * * ich mich
+z2 A2 A2 A2 c4 
+w: der blüem- lein zart,
+w: der Vo- gel G'sang,
+w: heim- lich- en des,
+z2 c2 B2 c2 d2 
+w: nach sei- ner art 
+w: wel- ches vor- lang
+w: ich weiß wohl, wes.
+A2 c2 B2
+w: er- quik- ket,
+w: versch- wie- gen was,
+w: Da- von man nicht 
+A2 A G > F E/ D/ E2 
+w: das ver- dor- * * *  ben 
+w: auch Laub und * * * Gras,
+w: viel sun- ders * * * spricht,
+D4 z2 d2 c B2 A/ G/ F G A2 G4
+w: Was durch Win * * * * * ters Gwalt:
+w: das grüen- et * * * * *   schon: 
+w: noch sa- gen * * * * *  soll:
+z2 B2 B2 c2 d2 B2 e3 d/ c/ d > c B A B c A2 HG8 |]
+w: Das freu- et sich ganz man- * * * * * * * * nig- falt.
+w: Des- halb ich auch nit tru- * * * * * * * * ren kann.
+w: Will es mir wohl, so geht's * * * * * * * * mir wohl.
+
+X:4
+T:Wohl kumbt der Mai
+S:Bassus
+C:Ludwig Senfl 
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+N:Original clef, C on fourth line
+K:G bass
+g4 g2 g2 a2 g a2 g/ "f"=f/ e e d2 z g2 f/ e/ f g c/ d/ e/ f/ g2 a d e2
+A8 z2 A2 A2 A2 c4 z2 c2 B > c d2 A c d e
+A2 c2 B2 A2 z2 a2 g f2 e/ d/ e2 d3 G d2 z e > d c/ B/
+A2 G g > f e/ d/ c2 B2 z e > d c/ B/ A2 G g2 f e c d2 HG8 |]

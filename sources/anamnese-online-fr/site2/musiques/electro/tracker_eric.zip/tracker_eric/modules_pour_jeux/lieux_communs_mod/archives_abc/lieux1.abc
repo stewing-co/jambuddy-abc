@@ -1,0 +1,41 @@
+X: 1
+T: À la croisée des lieux communs
+N: from lieuxc_musique1.mid
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C % 0 sharps
+V:1
+K:C bass
+%%MIDI program 0
+E,8 | E,4 D,2 F,2 | D,4 E,4 | C,4 E,4 |
+E,8 | E,4 D,2 F,2 | D,4 E,4 | C,4 E,4 |
+E,8 | E,4 D,2 F,2 | D,4 E,4 | C,2 D,2 E,4 :|
+|: E,8 | E,4 D,2 F,2 | D,4 E,4 | C,4 E,4|
+   E,8 | E,4 D,2 F,2 | D,4 E,4 | C,4 C,4 :|]
+V:2
+%%MIDI program 0
+K:C treble 
+E4 F2 ^D2 | G4 A2 ^F2 | =F4 E4 | B4 E4  |
+E4 F2 ^D2 | G4 A2 ^F2 | =F4 E4 | B4 E4  |
+   E6 ^D2 | G4 A2 =D,2 | F4 E4 | B4 E4  :|
+|: E4 F2 E,2 | A,4 A2 G,2 | F4 E4 | B4 E4|
+   E4 F2 E,2 | c4 A2 B2 | F4 E4 | B4 c4 :|]
+V:3
+%K:C treble
+%%MIDI program 0
+     E,8- | E,8-        | E,8-          | E,4 e2 de |
+     E,8- | E,8-        | E,8-          | E,4 e2 de |
+  E,4 B,4 | E,4 G,2 G,2 | E,4 C,2 ^D,2- | ^D,4 e2 =dc :|
+|:   A,8- | A,8           | G,4 A,4-     | A,4 e2 ec|
+     A,8- | A,2 F,F, F,4- | F,4 E,E, C,2 | D,4 e2 ec :|]
+V:4
+K:C treble 
+% Imported MIDI
+%%MIDI program 0
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 |
+x8 | x8 | x8 | x8 :|
+|: A8 | F,6 G2 | BA G2 A4- | A4 A2 BE  |
+   A8 | F,6 G2 | BA G2 A4- | A4 A2 BG :|
+

@@ -1,0 +1,193 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XIIII. Lady if I through grief
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+N: original clef: C on first line
+M:C
+K:G dor
+T: Cantus
+L:1/4
+%1
+z2 A A/ =B/ c A =B d ^c d d ^c d4 z2 A A/ =B/
+w:La- dy if I through grief and your dis- day - ning, La- dy if
+%2
+c A G2 A A2 G/ F/ E2 "A"^F2 A A/ A/ B A c c A A
+w:I through grief and your dis - day- ning? Judg'd bee to live in hell e- ter- nal-
+%3
+G F E2 ^F2 z d d d c C E F G G A A G > F E D E2 "B"^F4
+w:ly re- main- ing, ad- jud- ged be to live in hell, in hell e- ter- nal- ly re- main- ing.
+%4
+z4 z d d d A > B c c G > A B B F/ E/ F/ G/
+w:Of those my burn- ing flames, my bur- ning flames well shall I rest con-
+%5
+A A G/ F/ G/ A/ G F E2 "C"E2 z8 B6 A2 G2 F2 E3 E D4 z4
+w:tent, well shall I rest con- tent con- tent- ed.  O but you I waile, I waile,
+%6
+z2 d4 c2 B2 G2 B2 A2 G3 G F2 E2 D4 "D"^C4 z A A > A F F
+w:O but you I wayle, who there must be tor- ment- ed? For when I shall be- 
+%7
+B2 A A > A G2 F E2 "E"D2 z2 z4 z d d d c/ B/ A/ B/
+w:hould you, when I shall bee hould you, your eyes a- lone, a- lone your
+%8
+c c B G B2 A A A A G/ F/ E/ F/ G G F D F2
+w:eyes will so de- light mee, your eyes a- lone, a- lone your eyes will so de- light
+%1r
+E4 z4 z A A A G/ F/ E/ F/ G F E2 A2 A ^G/ ^F/ ^G2
+w:mee, your eyes a- lone a- lone your eyes will so de- light _ _ _
+%2r
+A A A A G2 z G G F E2 "F"^F4 z4 B B/ B/ A2 G2
+w:mee, that no great paine, can once af- fright mee, But this (a- las) o
+%3r
+F/ G/ A/ B/ c A G A B A A G A2  z A > E F E D
+w:would _ _ _ _ have kild mee doe not doubt _ you, there to have beene a-
+%4r
+^C D E2 ^C A > E F E D ^C D E D2 ^C "G"D4 z4
+w:lone with out you, there to have beene a- lone with out _ _ you.
+%5r
+B B/ B/ A2 G2 F/ G/ A/ B/ c A G A B A A G A2
+w:But this (a- las) o would _ _ _ _ have kild mee doe not doubt _ you;
+%6r
+z A > E F E D ^C D E2 ^C A > E F E D ^C D
+w:there to have been a- lone with- out you, there to have been a- lone with-
+%7r
+E D2 ^C HD4 |]
+w:out _ _ you.
+
+X:2
+T:XIIII. Lady if I through grief
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+N: original clef: C on second line
+M:C
+K:G dor
+T: Altus
+L:1/4
+%1
+D D/ E/ F D A A G F E D E2 D2
+w:La- dy if I through grief, through grief and your dis- day- ning,
+%2
+D D/ E/ F D C F E F F E F F F E/ D/ ^C2 "A"D2
+w:La- dy if I through grief, if I, if I through grief and your dis - dayn- ing:
+%3
+F F/ E/ D F E E F F E D ^C2 D2 z D F > G A A G F F E
+w:judg'd be to live in hell e- ter- nal- ly re- main- ing, ad- judg- ed be to live, to live in
+%4
+F F E D ^C D D ^C "B"D2 z A A A E > F G G D > E F F
+w:hell e- ter- nal- ly re- mai - ning: Of those my bur- ning flames, my burn- ing flames, my
+%5
+C > D E/ D/ E/ F/ G G D/ C/ D/ E/ F F E/ D/ E/ F/ E D
+w:burn- ing flames, _ _ _ _ I well shall rest con- tent, I well shall rest con- tent, con-
+%6
+^C2 "C"C2 z4 F4 E2 D4 C2 B, C D4 ^C2 D2 F4 E2 D2 G3 F F4 E2 F2
+w:tent- ed: O but you I waile A - _ las, O but you, you I wayle I waile
+%7
+E D2 ^C/ =B,/ ^C2 D2 A,4 G,2 "D"A, E E> E C C F2
+w:who there must _ _ bee tor- ment- ed? For when I shall bee- hould
+%8
+D/ E/ F2 E F F> F E > E D ^C2 "E"D F F F
+w:when I shall bee- hould, when I shall but bee- hould you, your eyes a- 
+%1r
+E/ D/ C/ D/ E E D G F D A E2 F G G G G
+w:lone, a- lone your eyes a- lone your eyes will so de- light mee, your eyes a-
+%2r
+F/ E/ D/ E/ F F E C E2 D2 A, D2 ^C/ =B,/ ^C2 D D D E
+w:lone, a- lone your eies a- lone will so de  - light _ _ _ mee, your eyes, La-
+%3r
+F F F F E/ F/ G/ F/ E D ^C2 C2 =B,4 ^C F F F
+w:dy, your eyes, your eyes a- lone will so de- light, de- light mee, that no great
+%4r
+E2 D2 ^C D D ^C "F"D4 D D/ D/ C C B,/ C/ D/ E/ F F
+w:paine can once af- fright _ mee; But this (a- las) would o but this a- las would
+%5r
+E E D2 C F E F D F > E D ^C4 z A > E F E D
+w:quight have kild me doubt not, O no, do not doubt you, ther to have been a- 
+%6r
+^C D E2 ^C A > E F E D ^C D E2 "G"^F4 D D/ D/ C C B,/ C/ 
+w:lone with- out you.  Ther to have been a- lone with- out you.  But this (a- las) would o but
+%7r
+ D/ E/ F F E E D2 C F E F D F > E D ^C4
+w:this (a- las) would quight have kild me doubt not, O no, doe not doubt you;
+%8r
+z A > E F E D ^C D E2 ^C A > E F E D ^C D E2 H^F4 |]
+w:ther to have been a- lone with- out you, ther to have been a- lone with- out you.
+
+X:3
+T:XIIII. Lady if I through grief
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+N: original clef: F on third line
+M:C
+K:Gdor bass
+T: Bassus
+%%MIDI transpose -24
+L:1/4
+%1
+z16 d d/ e/ f d c2 c2 f d f g
+w:La- dy if I through griefe, through griefe and your dis-
+%2
+a2 "A"d2 d' d'/ c'/ b d' c' c' f f g d a2 d2 z B B/ c/ d/ e/ 
+w:dayn- ing; judg'd be to live in hel e- ter- nal- ly re- main- ing, ad- judg- ed be (a-
+%3
+ f/ g/ a/ b/ c' a c' c' f f g g a b a2 "B"d d' d' d'
+w:las) to live in hell, to live in hell, e- ter- nal- ly re- main- ing: Of those my
+%4
+a > b c' c' g > a b b f > g a > b c' c'
+w:burn- ing flames, my burn- ing flames, of those my burn- ing flames, well
+%5
+g/ f/ g/ a/ b b f/ g/ a/ b/ c' c2 d a2 "C"a2 b6 a2 g4 f4
+w:shall I rest con- tent, well shall I rest con- tent, con - tent- ed: O but you I
+%6
+g4 a4 d2 d'4 c'2 b2 g2 b2 a2 g2 g2 d2 f2 e4 d2 c2
+w:grieve and wayle, O but you I wayle I wayle, who ther must be tor -
+%7
+B4 "D"A2 z a a > a f f b2 g2 f f > f c2 d a2
+w:ment- ed: For when I shall be hould you, for when I shal be hould
+%8
+"E"d d' d' d' c'/ b/ a/ b/ c' c' b g b2 f a a a
+w:you, your eyes a- lone, a- lone your eyes, will so de- light me, your eyes a-
+%1r
+g/ f/ e/ f/ g g d f f f c2 c c d4 A a
+w:lone, a- lone your eyes your eyes will so de- light mee, de- light mee, your
+%2r
+a a b/ a/ g/ a/ b g f f f f c'/ a/ c'/ d'/ c' d'
+w:eyes a- lone a- lone your eyes, La- dy, your eyes a- lone a- lone your eyes will
+%3r
+a2 a2 d4 a f f/ g/ a/ b/ c'2 b b a4 "F"d4 b b/ b/
+w:so de- light me, that once I know no paine can af- fright me; But this (a-
+%4r
+a2 g2 f/ g/ a/ b/ c' c d/ e/ f/ g/ a f c' a g a b2 a a > e f
+w:las) o would _ _ _ _ have kild _ _ _ _ me I, I, do not doubt you; ther to have
+%5r
+e d ^c d A4 A4 A4 A4 "G"d4 b b/ b/ a2 g2 f/ g/ a/ b/ c' c
+w:ben a- lone with out you, with out you, But this (a- las) o would _ _ _ _ have
+%6r
+d/ e/ f/ g/ a f c' a g a b2 a a > e f e d ^c d
+w:kild _ _ _ _ mee I, I, doe not doubt you; ther to have ben a- lone with
+%7r
+A4 A4 A4 A4 Hd4 |]
+w:out you, with out you.

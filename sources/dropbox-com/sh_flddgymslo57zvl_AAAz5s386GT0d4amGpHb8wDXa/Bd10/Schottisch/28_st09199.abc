@@ -1,0 +1,90 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Schottisch  GD
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.124f (st09199) orig. G,D
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"Bd b>a | gf ed | "D7"Ac a>g | f2z2 | Ac a>g | fe dc | "G"B>c d>e | d2z2 | Bd b>a | 
+gf ed | "Am/C"e2 c'b | a2z2 | "D7"d'c' ba | "G"b!>!d2b | "D7"a!>!d2a | "G"gg gz |: [K:D] [L:1/16] "D"d'2fga4 | a2def4 | 
+"A7"e2c'b g2c2 | "D"defga4 | "D7"d'2fga4 | a2def4 | "A7"e2ba g2c2 | "D"d2d2 d2z2 :: [L:1/8] "G".g2.d2 | !>!B4 | Bd B>g | "D7"f2z2 | 
+.a2.f2 | !>!d4 | cd b>a | "G"g4 |  .g2.d2 | !>!B4 | "D".d'2.a2 | !>!f4 | "A7"ag fe | "D"d2fd | "A7"c2gc | "D"dd dz :| 
+% st09199
+X:2
+T:Schottisch  CG 7-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"EG e>d | cB AG | "G7"DF d>c | B2z2 | DF d>c | BA GF | "C"E>F G>A | G2z2 | EG e>d | 
+cB AG | "Dm/F"A2 fe | d2z2 | "G7"gf ed | "C"e!>!G2e | "G7"d!>!G2d | "C"cc cz |: [K:G] [L:1/16] "G"g2Bcd4 | d2GAB4 | 
+"D7"A2fe c2F2 | "G"GABcd4 | "G7"g2Bcd4 | d2GAB4 | "D7"A2ed c2F2 | "G"G2G2 G2z2 :: [L:1/8] "C".c2.G2 | !>!E4 | EG E>c | "G7"B2z2 | 
+.d2.B2 | !>!G4 | FG e>d | "C"c4 | .c2.G2 | !>!E4 | "G".g2.d2 | !>!B4 | "D7"dc BA | "G"G2BG | "D7"F2cF | "G"GG Gz :| 
+% st09199
+X:3
+T:Schottisch  FC 2-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"Ac a>g | fe dc | "C7"GB g>f | e2z2 | GB g>f | ed cB | "F"A>B c>d | c2z2 | Ac a>g | 
+fe dc | "Gm/Bb"d2 ba | g2z2 | "C7"c'b ag | "F"a!>!c2a | "C7"g!>!c2g | "F"ff fz |: [K:C] [L:1/16] "C"c'2efg4 | g2cde4 | 
+"G7"d2ba f2B2 | "C"cdefg4 | "C7"c'2efg4 | g2cde4 | "G7"d2ag f2B2 | "C"c2c2 c2z2 :: [L:1/8] "F".f2.c2 | !>!A4 | Ac A>f | "C7"e2z2 | 
+.g2.e2 | !>!c4 | Bc a>g | "F"f4 | .f2.c2 | !>!A4 | "C".c'2.g2 | !>!e4 | "G7"gf ed | "C"c2ec | "G7"B2fB | "C"cc cz :| 
+% st09199
+X:4
+T:Schottisch  CG (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"EG e>d | cB AG | "G7"DF d>c | B2z2 | DF d>c | BA GF | "C"E>F G>A | G2z2 | EG e>d | 
+cB AG | "Dm/F"A2 fe | d2z2 | "G7"gf ed | "C"e!>!G2e | "G7"d!>!G2d | "C"cc cz |: [K:G] [L:1/16] "G"g2Bcd4 | d2GAB4 | 
+"D7"A2fe c2F2 | "G"GABcd4 | "G7"g2Bcd4 | d2GAB4 | "D7"A2ed c2F2 | "G"G2G2 G2z2 :: [L:1/8] "C".c2.G2 | !>!E4 | EG E>c | "G7"B2z2 | 
+.d2.B2 | !>!G4 | FG e>d | "C"c4 | .c2.G2 | !>!E4 | "G".g2.d2 | !>!B4 | "D7"dc BA | "G"G2BG | "D7"F2cF | "G"GG Gz :| 
+% st09199
+X:5
+T:Schottisch  FC (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"Ac a>g | fe dc | "C7"GB g>f | e2z2 | GB g>f | ed cB | "F"A>B c>d | c2z2 | Ac a>g | 
+fe dc | "Gm/Bb"d2 ba | g2z2 | "C7"c'b ag | "F"a!>!c2a | "C7"g!>!c2g | "F"ff fz |: [K:C] [L:1/16] "C"c'2efg4 | g2cde4 | 
+"G7"d2ba f2B2 | "C"cdefg4 | "C7"c'2efg4 | g2cde4 | "G7"d2ag f2B2 | "C"c2c2 c2z2 :: [L:1/8] "F".f2.c2 | !>!A4 | Ac A>f | "C7"e2z2 | 
+.g2.e2 | !>!c4 | Bc a>g | "F"f4 | .f2.c2 | !>!A4 | "C".c'2.g2 | !>!e4 | "G7"gf ed | "C"c2ec | "G7"B2fB | "C"cc cz :| 
+% st09199
+X:6
+T:Schottisch D&A (tinwhistle in D)
+T:st09199 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"D"FA f>e | dc BA | "A7"EG e>d | c2z2 | EG e>d | cB AG | "D"F>G A>B | A2z2 | FA f>e | 
+dc BA | "Em/G"B2 gf | e2z2 | "A7"ag fe | "D"f!>!A2f | "A7"e!>!A2e | "D"dd dz |: [K:A] [L:1/16] "A"a2cde4 | e2ABc4 | 
+"E7"B2gf d2G2 | "A"ABcde4 | "A7"a2cde4 | e2ABc4 | "E7"B2fe d2G2 | "A"A2A2 A2z2 :: [L:1/8] "D".d2.A2 | !>!F4 | FA F>d | "A7"c2z2 | 
+.e2.c2 | !>!A4 | GA f>e | "D"d4 | .d2.A2 | !>!F4 | "A".a2.e2 | !>!c4 | "E7"ed cB | "A"A2cA | "E7"G2dG | "A"AA Az :| 
+X:7
+T:Schottisch D&A (tinwhistle in D)
+T:st09199 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D transpose=12
+FA f>e | dc BA | EG e>d | c2z2 | EG e>d | cB AG | F>G A>B | A2z2 | FA f>e | 
+dc BA | B2 gf | e2z2 | ag fe | f!>!A2f | e!>!A2e | dd dz |: [K:A] [L:1/16] a2cde4 | e2ABc4 | 
+B2"_#"gf d2"_#"G2 | ABcde4 | a2cde4 | e2ABc4 | B2fe d2"_#"G2 | A2A2 A2z2 :: [L:1/8] .d2.A2 | !>!F4 | FA F>d | c2z2 | 
+.e2.c2 | !>!A4 | "_#"GA f>e | d4 | .d2.A2 | !>!F4 | .a2.e2 | !>!c4 | ed cB | A2cA | "_#"G2d"_#"G | AA Az :|
+% Aug 21, 2016

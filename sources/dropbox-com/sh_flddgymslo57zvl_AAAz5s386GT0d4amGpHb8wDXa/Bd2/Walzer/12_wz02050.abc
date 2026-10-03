@@ -1,0 +1,94 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Am Rheines Strand (Walzer)  FC  (ABCAC)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.290 (wz02050) orig. F,C
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T:Überliefert vermutlich durch Joggi Stocker (1889-1956)
+%%MIDI program 21
+%%abc-charset utf-8
+%%partsbox
+P:ABCAC
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+[P:A] c | "F"azc | "C7"gzc | e>BB | Bzc | bzc | gzc | "F"f/e/ f/g/ a/b/ | c'zc | azc | 
+gzc |  "Bb"f>ed | dzb | "F/C"a2c | "C7"c'2e | "F"f/e/ f/g/ "C7"a/g/  | "F"f2z || [P:B] [K:C] "C"g2^f/g/ | a2g | e3 | 
+c2e/g/ | c2e/g/ | c2g | ("G7"B3 | B)zg | ^f2g | a2g | b3 | bag | fe>d | 
+dcB | "C"ce>a | g3 | g2^f/g/ | a2g | e3 | c2e/g/ | c2e/g/ | c2g | ("G7"B3 | B)zz | 
+def | ba>B | "C"ce>a | gce | "G7"a2g | b2f | "C"c'>c'c' | "_Fine"c'zc || [P:C] [K:F] "F"c2c' | a2g | 
+g2f | c3 | f>e d/c/ | f>e d/c/ |  "C7"e/B/BB | Bzz | c2b | a2g | g2f | e2d | 
+cb>c | gce | "F"fa>c' | c'zc | c2b | a2g | g2f | c3 | c>fc | f>e d/c/ | 
+"C7"e/B/ BB | Bzz | "Bb"d2b | "C7"a2g | "F"gf>a | c'2c | "C7"aga | b2e | "F"f/e/ f/g/ "C7"a/g/ | "F"f"_Teil A"zz |] 
+W:Parts: ABCAC
+% wz02072
+
+X:2
+T:Am Rheines Strand (Walzer)  FC  (wz02050)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.290 (wz02050) orig. F,C
+%%MIDI program 21
+%%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+c | "F"azc | "C7"gzc | e>BB | Bzc | bzc | gzc | "F"f/e/ f/g/ a/b/ | c'zc | azc | 
+gzc |  "Bb"f>ed | dzb | "F/C"a2c | "C7"c'2e | "F"f/e/ f/g/ "C7"a/g/  | "F"f2z || [K:C] "C"g2^f/g/ | a2g | e3 | 
+c2e/g/ | c2e/g/ | c2g | ("G7"B3 | B)zg | ^f2g | a2g | b3 | bag | fe>d | 
+dcB | "C"ce>a | g3 | g2^f/g/ | a2g | e3 | c2e/g/ | c2e/g/ | c2g | ("G7"B3 | B)zz | 
+def | ba>B | "C"ce>a | gce | "G7"a2g | b2f | "C"c'>c'c' | "_Fine"c'zc || [K:F] "F"c2c' | a2g | 
+g2f | c3 | f>e d/c/ | f>e d/c/ |  "C7"e/B/BB | Bzz | c2b | a2g | g2f | e2d | 
+cb>c | gce | "F"fa>c' | c'zc | c2b | a2g | g2f | c3 | c>fc | f>e d/c/ | 
+"C7"e/B/ BB | Bzz | "Bb"d2b | "C7"a2g | "F"gf>a | c'2c | "C7"aga | b2e | "F"f/e/ f/g/ "C7"a/g/ | "F"f"_Teil A"zz |] 
+W:Parts: ABCAC
+% wz02072
+
+X:3
+T:Am Rheines Strand (Walzer)  CG 5-  (wz02050)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.290 (wz02050) orig. F,C
+%%MIDI program 21
+%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G | "C"ezG | "G7"dzG | B>FF | FzG | fzG | dzG | "C"c/2B/2 c/2d/2 e/2f/2 | gzG | ezG | 
+dzG | "F"c>BA | Azf | "C/G"e2G | "G7"g2B | "C"c/2B/2 c/2d/2 "G7"e/2d/2 | "C"c2z || [K:G] "G"d2^c/2d/2 | e2d | B3 | 
+G2B/2d/2 | G2B/2d/2 | G2d | ("D7"F3 | F)zd | ^c2d | e2d | f3 | fed | cB>A | 
+AGF | "G"GB>e | d3 | d2^c/2d/2 | e2d | B3 | G2B/2d/2 | G2B/2d/2 | G2d | ("D7"F3 | F)zz | 
+ABc | fe>F | "G"GB>e | dGB | "D7"e2d | f2c | "G"g>gg | "_Fine"gzG || [K:C] "C"G2g | e2d | 
+d2c | G3 | c>B A/2G/2 | c>B A/2G/2 | "G7"B/2F/2FF | Fzz | G2f | e2d | d2c | B2A | 
+Gf>G | dGB | "C"ce>g | gzG | G2f | e2d | d2c | G3 | G>cG | c>B A/2G/2 | 
+"G7"B/2F/2 FF | Fzz | "F"A2f | "G7"e2d | "C"dc>e | g2G | "G7"ede | f2B | "C"c/2B/2 c/2d/2 "G7"e/2d/2 | "C"c"_Teil A"zz |] 
+W:Parts: ABCAC
+% wz02072
+
+X:4
+T:Am Rheines Strand (Walzer) D&A (tinwhistle in D) var. solo
+T:GL02013 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:G transpose=12
+D | BzD | AzD | F>"_=C"CC | CzD | czD | AzD | G/2F/2 G/2A/2 B/2c/2 | dzD | BzD | 
+AzD | G>FE | Ezc | B2D | d2F | G/2F/2 G/2A/2 B/2A/2 | G2z || [K:D] A2^G/2A/2 | B2A | F3 | 
+D2F/2A/2 | D2F/2A/2 | D2A | ("_=C"C3 | C)zA | ^G2A | B2A | c3 | cBA | GF>E | 
+ED"_=C"E | DF>B | A3 | A2^G/2A/2 | B2A | F3 | D2F/2A/2 | D2F/2A/2 | D2A | (C3 | C)zz | 
+EFG | cB>"_=C"C | DF>B | ADF | B2A | c2G | d>dd | "_Fine"dzD || [K:G] D2d | B2A | 
+A2G | D3 | G>F E/2D/2 | G>F E/2D/2 | F/2"_=C"C/2CC | Czz | D2c | B2A | A2G | F2E | 
+D"_c"c>D | ADF | GB>d | dzD | D2c | B2A | A2G | D3 | D>GD | G>F E/2D/2 | 
+F/2"_=C"A/2 CC | Czz | E2"_c"c | B2A | AG>B | d2D | BAB | c2F | G/2F/2 G/2A/2 B/2A/2 | G"_Teil A"zz |]
+W:
+W:Parts: ABCAC
+% wz02072
+% Sep 30, 2016

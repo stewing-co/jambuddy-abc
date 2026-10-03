@@ -1,0 +1,21 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Neuenegger Marsch C chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.344 (mr08754) orig. C-Dur
+T: "Bibere Musig", Abraham F\"urst, Bibern bei Murten (Bern) S.296ff
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"e4c4 | G4 GEGc | e4c4 | G4 G^FG^G | "F"A2ff f2ff | "C"f2e2 ^d2e2 | "G7"e2dd d2cc | "C"c2B2 A2G2 |  
+"C"e4c4 | G4 GEGc | e4c4 | G4 G^FG^G | "F"A2ff f2ff | "C"f2e2 d2c2 | "G7"g2fe d2ed | "C"c2c2 c2z2 |]
+
+X: 2
+T: Neuenegger Marsch C chords (align)
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"e4c4 | G4 GEGc | e4c4 | G4 G^FG^G | "F"A2ff f2ff |1 "C"f2e2 ^d2e2 |
+ "G7"e2dd d2cc | "C"c2B2 A2G2 :|2 "C"f2e2 d2c2 | "G7"g2fe d2ed | "C"c2c2 c2z2 |]
+
+

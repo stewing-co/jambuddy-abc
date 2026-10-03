@@ -1,0 +1,212 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Les miens aussi brief
+S:Responce à Mille Regrets
+S: Cantus
+C:Tielman Susato
+O: LPM EML 234
+%%MIDI gchordoff
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%LY voices \override NoteHead    #'style = #'baroque
+M:C|
+L:1/4
+N:The LPM edition has the note values halved, so up this to ½  when through proofreading.
+N:Original clef, C on second line
+K:E phr
+z8 z2 E4 A2 A2 G4
+w: Les miens aus --  si
+c2 A c (B A2) G (A2 E2)
+w: brief ver --  ras de --  cli --  ner,
+z c A c (B A G B > A A2) ^G A2
+w: brief ver --  ras de --  cli --  ner,
+z E G2 F2 E4
+w: Voi --  ant au vray,
+z2 z4 z c d3 c A 
+w: Voi --  ant au vray,
+c c c B G A2 G
+w: que for --  tu --  ne~en vi --  eu --  se, 
+A A  A (G > F E/ D/ G) F (E2 D) E2
+w: que for --  tu --  ne~en vi --  eu --  se, 
+z2 z G A B c2 
+w: De no --  stre~a --  mour,
+z B c d e3
+w: De no --  stre~a --  mour,
+e d c B A (d c2 B/ A/) G2
+w: veult es --  tre cu --  ri --  eu --  se,
+z D G G c3
+w: Par ung dep --  part,
+B A > G (F E D2) C2 A,2
+w: le fai --  re de --  cli --  ner,
+z2 z A B c d3
+w: Par ung dep --  part,
+c (B A > G F/ E/ D/ E/ F > E C/ D/) E (F2 E2 ) D E8-E8 |]
+w: le fai --  re de --  cli --  ner.
+
+X:2
+T:Les miens aussi brief
+S:Responce à Mille Regrets
+S:Altus
+C:Tielman Susato
+O: LPM EML 234
+M:C|
+L:1/4
+%%MIDI gchordoff
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:The LPM edition has the note values halved, so up this to ½  when through proofreading.
+N:Original clef, C on third line
+K:E phr -8va
+z8 z4 z2 A4 e2 e2 c2
+w: Les miens aus --  si
+f2 d f e > d c 
+w: brief ver --  ras de --  cli --  ner,
+e2 (c d f2 e d2 ) B (e2 d) e2 c2
+w: brief ver --  ras de --  cli --  ner,
+z A e2 d2 c4
+w: Voi --  ant au vray,
+z2 z d f2 e2 d2
+w: Voi --  ant au vray,
+z f f f e c (d e2 d) e
+w: que for --  tu --  ne~en vi --  eu --  se, 
+f f e (e3 c d) e (A > B ) c 
+w: que for --  tu --  ne~en vi --  eu --  se, 
+e c d e2
+w: De no --  stre~a --  mour,
+z g e c g2
+w: De no --  stre~a --  mour,
+z g e > f g 
+w: De no --  stre~a --  mour,
+g g e (d/ e/ f > ) e (e2 d) e
+w: veult es --  tre cu --  ri --  eu --  se,
+e d d e2
+w: Par ung dep --  part,
+z A e e f3/2
+w: Par ung dep --  part,
+e/ d c f f e
+w: le fai --  re de --  cli --  ner,
+z/ A/ e e e3/2 
+w: Par ung dep --  part,
+d/ c c (B A2) "f"^G A
+w: le fai --  re de --  cli --  ner,
+c d e f3
+w: Par ung dep --  part,
+d c c (c A > B) c A2
+w: le fai --  re de --  cli --  ner,
+z E A B c3/2
+w: Par ung dep --  part,
+B/ A G (A B) c2 B4 |]
+w: le fai --  re de --  cli --  ner.
+
+X:3
+T:Les miens aussi brief
+S:Responce à Mille Regrets
+S:Tenor
+C:Tielman Susato
+S: LPM EML 234
+M:C|
+L:1/4
+%%MIDI gchordoff
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:The LPM edition has the note values halved, so up this to ½  when through proofreading.
+N:Original clef, C on fourth line
+K:E phr -8va
+E4 A2 A2 G4
+w: Les miens aus --  si
+c2 A (d > c A B2) (c > B) (A > G) F2
+w: brief ver --  ras de --  cli --  ner,
+z2 z2 c2 A c (B A2 G) F2 (E G A2 B2 A)
+w: brief ver --  ras de --  cli --  ner,
+A c3 B A
+w: Voi --  ant au vray,
+A A A (G > F E ) D F2 D
+w: que for --  tu --  ne~en vi --  eu --  se, 
+A A A F D (F > G) A2
+w: que for --  tu --  ne~en vi --  eu --  se, 
+z8 z c c c B G (A > G F2) E
+w: que for --  tu --  ne~en vi --  eu --  se, 
+G A B c
+w: De no --  stre~a --  mour,
+z/ B/ c d e
+w: De no --  stre~a --  mour,
+e e > d c B (A G c2) B
+w: veult es --  tre cu --  ri --  eu --  se,
+G2 (A2 G A2) B c2 B (c > B A/ G/ F) E2
+w: veult es --  tre cu --  ri --  eu --  se,
+z2 z2 D2 A A c3
+w: Par ung dep --  part,
+B A > G (F E) D2 E
+w: le fai --  re de --  cli --  ner,
+A B c d3/2 
+w: Par ung dep --  part,
+c/ B (A > G F E) (A> G G/ F// E// ) F2 E6
+w: le fai --  re de --  cli --  ner,
+z (c2 B) A2 ^G4 |]
+w: de --  cli --  ner.
+
+
+X:4
+T:Les miens aussi brief
+S:Responce à Mille Regrets
+S:Bassus
+C:Tielman Susato
+S: LPM EML 234
+M:C|
+L:1/4
+%%MIDI gchordoff
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:The LPM edition has the note values halved, so up this to ½  when through proofreading.
+K:E phr bass
+z4 A4 e2 e2 c2
+w: Les miens aus --  si
+f2 d f e > d c2
+w: brief ver --  ras de --  cli --  ner,
+z2 z4 c'2 a (c'> b a) (g f2c) d2 (e2 f2 e2 A4)
+w: brief ver --  ras de --  cli --  ner,
+z e f d a 
+w: Voi --  ant au vray,
+A c3 B A
+w: Voi --  ant au vray,
+d d d c A B2 F2
+w: que for --  tu --  ne~en vi --  eu --  se, 
+z a a a g e f2 e
+w: que for --  tu --  ne~en vi --  eu --  se, 
+z z2 z e e e d c d2 A
+w: que for --  tu --  ne~en vi --  eu --  se, 
+c f d c
+w: De no --  stre~a --  mour,
+e a g c2
+w: De no --  stre~a --  mour,
+z g a g c'
+w: De no --  stre~a --  mour,
+c (c/ d/ e/ f/ g) c (g f d) e (f2 e3/2 d//c// g2) c2
+w: veult es --  tre cu --  ri --  eu --  se,
+z2 z8 z2 A2 e e f3/2
+w: Par ung dep --  part,
+e/ d c B B A2
+w: le fai --  re de --  cli --  ner,
+z A d3 d f2 
+w: Par ung dep --  part,
+c d2 c d d A2
+w: le fai --  re de --  cli --  ner,
+z E A B c3/2
+w: Par ung dep --  part,
+B/ A G A A E4 |]
+w: le fai --  re de --  cli --  ner.

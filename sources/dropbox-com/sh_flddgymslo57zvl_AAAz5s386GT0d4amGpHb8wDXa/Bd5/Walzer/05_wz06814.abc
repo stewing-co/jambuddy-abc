@@ -1,0 +1,48 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Liseli-Walzer  BbFEb (wz06814)
+T:Hanny Christen. Bd.V  Basel II, Jura. S.15  (wz06814) orig. BbFEb
+T: Basel II. Tänze aus Augst. S.6-42.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%partsbox
+%%MIDI program 21
+P:ABAC
+R:Walzer
+M:3/4
+L:1/4
+K:Bb %%MIDI gchordon
+("Bb"B2F) | (d2B) | "F7"fff | FGA [P:A] || "Bb"Bzb | Bzb | "F7"A3 | AGF | e>eA | 
+AGF | "Bb"d>dB  | FGA | Bzb | Bzb |  "F7"A3 | AGF | e>eA | FGA | 
+"Bb"B>BB | Bzz || [P:B] [K:F] "F"c3 | (A2F) | "C7"E/B/BB | B3 | e3 | (d2B) | ("F"A/c/)cc | c3 | 
+a3 | (f2A) | ("Gm"G/d/)dd | d3 | ("C7"d/c/)cc | ("F"d/c/)cc | "C7"e/e/ee | "F"fz"_>Teil A"z || [P:C] [K:Eb] 
+"Eb"G3 | (B2e) | g>gg | g2e | "Bb7"fze | dzc | "Eb"B3 | G3 | 
+G3 | (B2e) | g>gg | (g2e) | ("Ab"c2f) | ("Bb7"B2d) | ("Eb"e3 | e)z"_fine"z |] 
+% wz06814 (Heft 235/TN 23)
+% Nov 10, 2017
+
+X:2
+T:Liseli-Walzer  CGF 2+ (wz06814)
+S:Hanny Christen. Bd.V  Basel II, Jura. S.15  (wz06814) orig. BbFEb
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+("C"c2G) | (e2c) | "G7"ggg | GAB [| "C"czc' | czc' | "G7"B3 | BAG | f>fB | \
+BAG |
+"C"e>ec | GAB | czc' | czc' | "G7"B3 | BAG | f>fB | GAB | \
+"C"c>cc |
+czz [| [K:G] "G"d3 | (B2G) | "D7"F/2c/2cc | c3 | f3 | (e2c) | ("G"B/2d/2)dd | d3 | \
+b3 | (g2B) |
+("Am"A/2e/2)ee | e3 | ("D7"e/2d/2)dd | ("G"e/2d/2)dd | "D7"f/2f/2ff | "G"gz"_>Teil A"z [| [K:F] \
+"F"A3 | (c2f) | a>aa | a2f |
+"C7"gzf | ezd | "F"c3 | A3 | \
+A3 | (c2f) | a>aa | (a2f) | ("Bb"d2g) | ("C7"c2e) | ("F"f3 | f)z"_fine"z |] 
+W:Parts: ABAC
+% wz06814 (Heft 235/TN 23)
+% Nov 10, 2017

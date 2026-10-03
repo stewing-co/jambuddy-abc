@@ -1,0 +1,39 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: L\"andler (nach S.Stamm) CG chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.338 (LD05069) orig. C,G-Dur
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+cc |: "C"c4eg | c4ea | "G7"ag fd B2 | "C"ag ecG2 | c4eg | c4ea | "G7"ag fd Bd |1 "C"c2z2cc :|2 "C"c2z2z2 ||  [K:G] 
+"D7"ed cA FD | "G"GB dgb2 | "D7"ag fe dc | "G"BG Bed2 | "D7"ed cA FD | "G"GB dgb2 | "D7"ag fd ef | "G"g2z2cc || [K:C]
+"C"c4eg | c4ea | "G7"ag fdB2 | "C"ag ecG2 | c4eg | c4ea | "G7"ag fd Bd | "C"c2z2z2 |] 
+
+X:2
+T:L\"andler (nach S.Stamm) FC 7- chords
+M:3/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+FF |: "F"F4Ac | F4Ad | "C7"dc BG E2 | "F"dc AFC2 | F4Ac | F4Ad | "C7"dc BG EG |1 "F"F2z2FF :|2 "F"F2z2z2 || [K:Cmaj] 
+"G7"AG FD B,G, | "C"CE Gce2 | "G7"dc BA GF | "C"EC EAG2 | "G7"AG FD B,G, | "C"CE Gce2 | "G7"dc BG AB | "C"c2z2FF || [K:Fmaj]
+"F"F4Ac | F4Ad | "C7"dc BGE2 | "F"dc AFC2 | F4Ac | F4Ad | "C7"dc BG EG | "F"F2z2z2 |] 
+
+X:3
+T:L\"andler (nach S.Stamm) EbBb (5letras) cf. CG
+M:3/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+ee |: "Eb"e4gb | e4gc' | "Bb7"c'b af d2 | "Eb"c'b geB2 | e4gb | e4gc' | "Bb7"c'b af df |1 "Eb"e2z2ee :|2 "Eb"e2z2z2 || [K:Bbmaj] 
+"F7"gf ec AF | "Bb"Bd fbd'2 | "F7"c'b ag fe | "Bb"dB dgf2 | "F7"gf ec AF | "Bb"Bd fbd'2 | "F7"c'b af ga | "Bb"b2z2ee || [K:Ebmaj]
+"Eb"e4gb | e4gc' | "Bb7"c'b afd2 | "Eb"c'b geB2 | e4gb | e4gc' | "Bb7"c'b af df | "Eb"e2z2z2 |] 
+
+X:4
+T:L\"andler (nach S.Stamm) AbEb (5letras) cf. FC
+M:3/4
+L:1/8
+K:Abmaj%%MIDI gchordon
+AA |: "Ab"A4ce | A4cf | "Eb7"fe dB G2 | "Ab"fe cAE2 | A4ce | A4cf | "Eb7"fe dB GB |1 "Ab"A2z2AA :|2 "Ab"A2z2z2 || [K:Ebmaj] 
+"Bb7"cB AF DB, | "Eb"EG Beg2 | "Bb7"fe dc BA | "Eb"GE GcB2 | "Bb7"cB AF DB, | "Eb"EG Beg2 | "Bb7"fe dB cd | "Eb"e2z2AA || [K:Abmaj]
+"Ab"A4ce | A4cf | "Eb7"fe dBG2 | "Ab"fe cAE2 | A4ce | A4cf | "Eb7"fe dB GB | "Ab"A2z2z2 |] 

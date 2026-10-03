@@ -1,0 +1,116 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Fr\"ohlich beim Wein (nach G. Linder)  FC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.305 (st06017) orig. F,C-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+cc |: "F"c2a2 f2A2 | ccc2 c2f2 | "C7"e2ec d2c2 | b6c2 | e2ec d2c2 | b2c2 d2e2 |1 "F"f2fc d2c2 | a2a2 a2cc :|2 
+"F".d4 "C7"c2de | "F"f2f2 f2z2 || [K:C] "G7"g3f gfdB | g3f gfdB | "C"a3g agec | G2G2G4 | "G7"fedc Bcde | f2f2f4 | 
+"C"e3G c2e2 | g2g2 g2z2 | "G7"g3f gfdB | g3f gfdB | "C"a3g agec | G2G2G4 | "F"A2ff f2A2 | "C"G2c2e4 | 
+"G7"B2dB gfdB | "C"c2c2 c2z2 || [K:F] [L:1/8] "F"A3c | aa zc | .a2g>f | "C7"ee e2 | G3B | ee zd | e2d2 | 
+"F"ccc2 | A3c | aa zc | "F"a2 "F7"g>f  | "Bb"ddd2 | "C7"gf ed | "F"c!>!f2A | "C7"c!>!B2E | "F"FF Fz |] 
+% fr\"ohlich (merry), Wein (wine)
+% st06017
+X:2
+T:Fr\"ohlich beim Wein (nach G. Linder)  CG 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+GG |: "C"G2e2 c2E2 | GGG2 G2c2 | "G7"B2BG A2G2 | f6G2 | B2BG A2G2 | f2G2 A2B2 |1 "C"c2cG A2G2 | e2e2 e2GG :|2 
+"C".A4 "G7"G2AB | "C"c2c2 c2z2 || [K:G] "D7"d3c dcAF | d3c dcAF | "G"e3d edBG | D2D2D4 | "D7"cBAG FGAB | c2c2c4 | 
+"G"B3D G2B2 | d2d2 d2z2 | "D7"d3c dcAF | d3c dcAF | "G"e3d edBG | D2D2D4 | "C"E2cc c2E2 | "G"D2G2B4 | 
+"D7"F2AF dcAF | "G"G2G2 G2z2 || [K:C] [L:1/8] "C"E3G | ee zG | .e2d>c | "G7"BB B2 | D3F | BB zA | B2A2 | 
+"C"GGG2 | E3G | ee zG | "C"e2 "C7"d>c | "F"AAA2 | "G7"dc BA | "C"G!>!c2E | "G7"G!>!F2B, | "C"CC Cz |] 
+% st06017
+X:3
+T: Fr\"ohlich beim Wein (nach G. Linder)  FC (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+cc |: "F"c2a2 f2A2 | ccc2 c2f2 | "C7"e2ec d2c2 | b6c2 | e2ec d2c2 | b2c2 d2e2 |1 "F"f2fc d2c2 | a2a2 a2cc :|2 
+"F".d4 "C7"c2de | "F"f2f2 f2z2 || [K:C] "G7"g3f gfdB | g3f gfdB | "C"a3g agec | G2G2G4 | "G7"fedc Bcde | f2f2f4 | 
+"C"e3G c2e2 | g2g2 g2z2 | "G7"g3f gfdB | g3f gfdB | "C"a3g agec | G2G2G4 | "F"A2ff f2A2 | "C"G2c2e4 | 
+"G7"B2dB gfdB | "C"c2c2 c2z2 || [K:F] [L:1/8] "F"A3c | aa zc | .a2g>f | "C7"ee e2 | G3B | ee zd | e2d2 | 
+"F"ccc2 | A3c | aa zc | "F"a2 "F7"g>f  | "Bb"ddd2 | "C7"gf ed | "F"c!>!f2A | "C7"c!>!B2E | "F"FF Fz |] 
+% st06017
+X:4
+T:Fr\"ohlich beim Wein (nach G. Linder)  CG (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+GG |: "C"G2e2 c2E2 | GGG2 G2c2 | "G7"B2BG A2G2 | f6G2 | B2BG A2G2 | f2G2 A2B2 |1 "C"c2cG A2G2 | e2e2 e2GG :|2 
+"C".A4 "G7"G2AB | "C"c2c2 c2z2 || [K:G] "D7"d3c dcAF | d3c dcAF | "G"e3d edBG | D2D2D4 | "D7"cBAG FGAB | c2c2c4 | 
+"G"B3D G2B2 | d2d2 d2z2 | "D7"d3c dcAF | d3c dcAF | "G"e3d edBG | D2D2D4 | "C"E2cc c2E2 | "G"D2G2B4 | 
+"D7"F2AF dcAF | "G"G2G2 G2z2 || [K:C] [L:1/8] "C"E3G | ee zG | .e2d>c | "G7"BB B2 | D3F | BB zA | B2A2 | 
+"C"GGG2 | E3G | ee zG | "C"e2 "C7"d>c | "F"AAA2 | "G7"dc BA | "C"G!>!c2E | "G7"G!>!F2B, | "C"CC Cz |] 
+% st06017
+X:5
+T:Fr\"ohlich beim Wein G&D (tinwhistle in D)
+T:st06017 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+dd |: "G"d2b2 g2B2 | ddd2 d2g2 | "D7"f2fd e2d2 | c'6d2 | f2fd e2d2 | c'2d2 e2f2 |1 "G"g2gd e2d2 | b2b2 b2dd :|2 
+"G".e4 "D7"d2ef | "G"g2g2 g2z2 || [K:D] "A7"a3g agec | a3g agec | "D"b3a bafd | A2A2A4 | "A7"gfed cdef | g2g2g4 | 
+"D"f3A d2f2 | a2a2 a2z2 | "A7"a3g agec | a3g agec | "D"b3a bafd | A2A2A4 | "G"B2gg g2B2 | "D"A2d2f4 | 
+"A7"c2ec agec | "D"d2d2 d2z2 || [K:G] [L:1/8] "G"B3d | bb zd | .b2a>g | "D7"ff f2 | A3c | ff ze | f2e2 | 
+"G"ddd2 | B3d | bb zd | "G"b2 "G7"a>g | "C"eee2 | "D7"ag fe | "G"d!>!g2B | "D7"d!>!c2F | "G"GG Gz |] 
+X:6
+T:Fr\"ohlich beim Wein D&A (tinwhistle in D)
+T:st06017 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+AA |: "D"A2f2 d2F2 | AAA2 A2d2 | "A7"c2cA B2A2 | g6A2 | c2cA B2A2 | g2A2 B2c2 |1 "D"d2dA B2A2 | f2f2 f2AA :|2 
+"D".B4 "A7"A2Bc | "D"d2d2 d2z2 || [K:A] "E7"e3d edBG | e3d edBG | "A"f3e fecA | E2E2E4 | "E7"dcBA GABc | d2d2d4 | 
+"A"c3E A2c2 | e2e2 e2z2 | "E7"e3d edBG | e3d edBG | "A"f3e fecA | E2E2E4 | "D"F2dd d2F2 | "A"E2A2c4 | 
+"E7"G2BG edBG | "A"A2A2 A2z2 || [K:D] [L:1/8] "D"F3A | ff zA | .f2e>d | "A7"cc c2 | E3G | cc zB | c2B2 | 
+"D"AAA2 | F3A | ff zA | "D"f2 "D7"e>d | "G"BBB2 | "A7"ed cB | "D"A!>!d2F | "A7"A!>!G2C | "D"DD Dz |] 
+X:7
+T:Fr\"ohlich beim Wein G&D (tinwhistle in D) solo
+T:st06017 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=12
+dd |: d2b2 g2B2 | ddd2 d2g2 | f2fd e2d2 | "_=c'"c6d2 | f2fd e2d2 | "_c"c'2d2 e2f2 |1 g2gd e2d2 | b2b2 b2dd :|2 
+.e4 d2ef | g2g2 g2z2 || [K:D] a3g agec | a3g agec | b3a bafd | A2A2A4 | gfed cdef | g2g2g4 | 
+f3A d2f2 | a2a2 a2z2 | a3g agec | a3g agec | b3a bafd | A2A2A4 | B2gg g2B2 | A2d2f4 | 
+c2ec agec | d2d2 d2z2 || [K:G] [L:1/8] B3d | bb zd | .b2a>g | ff f2 | A3"_c"c | ff ze | f2e2 | 
+ddd2 | B3d | bb zd | b2 a>g | eee2 | ag fe | d!>!g2B | d!>!"_c"c2F | GG Gz |]
+X:8
+T:Fr\"ohlich beim Wein D&A (tinwhistle in D) solo
+T:st06017 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D transpose=12
+AA |: A2f2 d2F2 | AAA2 A2d2 | c2cA B2A2 | g6A2 | c2cA B2A2 | g2A2 B2c2 |1 d2dA B2A2 | f2f2 f2AA :|2 
+.B4 A2Bc | d2d2 d2z2 || [K:A] e3d edB"_#"G | e3d edB"_#"G | f3e fecA | E2E2E4 | dcBA "_#"GABc | d2d2d4 | 
+c3E A2c2 | e2e2 e2z2 | e3d edB"_#"G | e3d edB"_#"G | f3e fecA | E2E2E4 | F2dd d2F2 | E2A2c4 | 
+"_#"G2B"_#"G edB"_#"G | A2A2 A2z2 || [K:D] [L:1/8] F3A | ff zA | .f2e>d | cc c2 | E3G | cc zB | c2B2 | 
+AAA2 | F3A | ff zA | f2 e>d | BBB2 | ed cB | A!>!d2F | A!>!G2"_=C"c | "_=DD"dd "_=D"dz |]
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 16, 2016

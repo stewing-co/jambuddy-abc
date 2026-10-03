@@ -1,0 +1,134 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Mattelotte (Monferina)  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.271 (mf00927) orig. C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:C %%MIDI gchordon
+G|:"C"c2c c2e | edc "G7"d2G | d2d d2f | fed "C"e2e | c2c c2e | edc "G7"B2z | def gfe | dcA G2g || 
+"C"e2e e2e | efg "G7"f2f | d2d d2d | def "C"e2e | c2c c2c | cde "G"d3 | a2a g2g | fed "C"c3 :| 
+W:
+W:"An old sailors' dance in double time, somewhat like a hornpipe."  fr.wiktionary
+W: "Danse pratiquée initialement par les marins français à partir de la fin du 17e siècle." fr.wiktionary
+W: cf. Matelote / matelotte (danse)  https://fr.wikipedia.org/wiki/Matelote_(danse) ; https://fr.wikipedia.org/wiki/Matelot 
+X:2
+T:Mattelotte (Monferina)  F 7-
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:F%%MIDI gchordon
+C|:"F"F2F F2A | AGF "C7"G2C | G2G G2B | BAG "F"A2A | F2F F2A | AGF "C7"E2z | GAB cBA | GFD C2c || 
+"F"A2A A2A | ABc "C7"B2B | G2G G2G | GAB "F"A2A | F2F F2F | FGA "C"G3 | d2d c2c | BAG "F"F3 :| 
+% mf00927
+X:3
+T:Mattelotte (Monferina)  F 5+
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:F%%MIDI gchordon
+c|:"F"f2f f2a | agf "C7"g2c | g2g g2b | bag "F"a2a | f2f f2a | agf "C7"e2z | gab c'ba | gfd c2c' || 
+"F"a2a a2a | abc' "C7"b2b | g2g g2g | gab "F"a2a | f2f f2f | fga "C"g3 | d'2d' c'2c' | bag "F"f3 :| 
+% mf00927
+X:4
+T:Mattelotte (Monferina)  G 5-
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:G%%MIDI gchordon
+D|:"G"G2G G2B | BAG "D7"A2D | A2A A2c | cBA "G"B2B | G2G G2B | BAG "D7"F2z | ABc dcB | AGE D2d || 
+"G"B2B B2B | Bcd "D7"c2c | A2A A2A | ABc "G"B2B | G2G G2G | GAB "D"A3 | e2e d2d | cBA "G"G3 :| 
+% mf00927
+X:5
+T: Mattelotte (Monferina)  C (5letras transposed)
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+G|:"C"c2c c2e | edc "G7"d2G | d2d d2f | fed "C"e2e | c2c c2e | edc "G7"B2z | def gfe | dcA G2g || 
+"C"e2e e2e | efg "G7"f2f | d2d d2d | def "C"e2e | c2c c2c | cde "G"d3 | a2a g2g | fed "C"c3 :| 
+% mf00927
+X:6
+T:Mattelotte (Monferina)  F (5letras transposed)
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+C|:"F"F2F F2A | AGF "C7"G2C | G2G G2B | BAG "F"A2A | F2F F2A | AGF "C7"E2z | GAB cBA | GFD C2c || 
+"F"A2A A2A | ABc "C7"B2B | G2G G2G | GAB "F"A2A | F2F F2F | FGA "C"G3 | d2d c2c | BAG "F"F3 :| 
+% mf00927
+X:7
+T:Mattelotte (Monferina)  F (5letras transposed)
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+c|:"F"f2f f2a | agf "C7"g2c | g2g g2b | bag "F"a2a | f2f f2a | agf "C7"e2z | gab c'ba | gfd c2c' || 
+"F"a2a a2a | abc' "C7"b2b | g2g g2g | gab "F"a2a | f2f f2f | fga "C"g3 | d'2d' c'2c' | bag "F"f3 :| 
+% mf00927
+X:8
+T:Mattelotte (Monferina)  G (5letras transposed)
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+D|:"G"G2G G2B | BAG "D7"A2D | A2A A2c | cBA "G"B2B | G2G G2B | BAG "D7"F2z | ABc dcB | AGE D2d || 
+"G"B2B B2B | Bcd "D7"c2c | A2A A2A | ABc "G"B2B | G2G G2G | GAB "D"A3 | e2e d2d | cBA "G"G3 :| 
+% mf00927
+X:9
+T:Mattelotte (Monferina) D (tinwhistle in D)
+T:mf00927 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:monferine
+M:6/8
+L:1/8
+K:D %%MIDI gchordon
+A|:"D"d2d d2f | fed "A7"e2A | e2e e2g | gfe "D"f2f | d2d d2f | fed "A7"c2z | efg agf | edB A2a || 
+"D"f2f f2f | fga "A7"g2g | e2e e2e | efg "D"f2f | d2d d2d | def "A"e3 | b2b a2a | gfe "D"d3 :| 
+X:10
+T:Mattelotte (Monferina) G (tinwhistle in D)
+T:mf00927 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:monferine
+M:6/8
+L:1/8
+K:G %%MIDI gchordon
+D|:"G"G2G G2B | BAG "D7"A2D | A2A A2c | cBA "G"B2B | G2G G2B | BAG "D7"F2z | ABc dcB | AGE D2d || 
+"G"B2B B2B | Bcd "D7"c2c | A2A A2A | ABc "G"B2B | G2G G2G | GAB "D"A3 | e2e d2d | cBA "G"G3 :| 
+X:11
+T:Mattelotte (Monferina) D (tinwhistle in D) solo
+T:mf00927 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:monferine
+M:6/8
+L:1/8
+K:D transpose=12
+A|:d2d d2f | fed e2A | e2e e2g | gfe f2f | d2d d2f | fed c2z | efg agf | edB A2a || 
+f2f f2f | fga g2g | e2e e2e | efg f2f | d2d d2d | def e3 | b2b a2a | gfe d3 :|
+X:12
+T:Mattelotte (Monferina) G (tinwhistle in D) solo
+T:mf00927 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:monferine
+M:6/8
+L:1/8
+K:G transpose=12
+D|:G2G G2B | BAG A2D | A2A A2"_c"c | cBA B2B | G2G G2B | BAG F2z | AB"_c"c d"_c"cB | AGE D2d || 
+B2B B2B | B"_c"cd c2c | A2A A2A | AB"_c"c B2B | G2G G2G | GAB A3 | e2e d2d | "_c"cBA G3 :|
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 1, 2016

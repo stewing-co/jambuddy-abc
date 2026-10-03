@@ -1,0 +1,121 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: \"Usserberger Walzer  D
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.251 (wz00939) orig. D-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+Ad |: "D"B2A2FD | "A7"C2E2Ac | B2A2GC | "D"D2F2Ad | B2A2FD | "A7"C2E2Ac | B2A2 gc |1 "D"d2z2Ad :|2 
+"D"d2z2z2 |: "G"GB BGB2 | "D"FA dFA2 | "A7"GE CA GC | "D"DA FAd2 | "G"GB BGB2 | "D"FA dFA2 | "A7"GE CA GC | "D"D2z2z2 :| 
+% wz00939
+X:2
+T:\"Usserberger Walzer  C 2-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:C%%MIDI gchordon
+Gc |: "C"A2G2EC | "G7"B,2D2GB | A2G2FB, | "C"C2E2Gc | A2G2EC | "G7"B,2D2GB | A2G2 fB |1 "C"c2z2Gc :|2 
+"C"c2z2z2 |: "F"FA AFA2 | "C"EG cEG2 | "G7"FD B,G FB, | "C"CG EGc2 | "F"FA AFA2 | "C"EG cEG2 | "G7"FD B,G FB, | "C"C2z2z2 :| 
+% wz00939
+X:3
+T:\"Usserberger Walzer  F 3+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:F%%MIDI gchordon
+cf |: "F"d2c2AF | "C7"E2G2ce | d2c2BE | "F"F2A2cf | d2c2AF | "C7"E2G2ce | d2c2 be |1 "F"f2z2cf :|2 
+"F"f2z2z2 |: "Bb"Bd dBd2 | "F"Ac fAc2 | "C7"BG Ec BE | "F"Fc Acf2 | "Bb"Bd dBd2 | "F"Ac fAc2 | "C7"BG Ec BE | "F"F2z2z2 :| 
+% wz00939
+X:4
+T:\"Usserberger Walzer  G 5+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:G%%MIDI gchordon
+dg |: "G"e2d2BG | "D7"F2A2df | e2d2cF | "G"G2B2dg | e2d2BG | "D7"F2A2df | e2d2 c'f |1 "G"g2z2dg :|2 
+"G"g2z2z2 |: "C"ce ece2 | "G"Bd gBd2 | "D7"cA Fd cF | "G"Gd Bdg2 | "C"ce ece2 | "G"Bd gBd2 | "D7"cA Fd cF | "G"G2z2z2 :| 
+% wz00939
+X:5
+T:\"Usserberger Walzer  C (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+Gc |: "C"A2G2EC | "G7"B,2D2GB | A2G2FB, | "C"C2E2Gc | A2G2EC | "G7"B,2D2GB | A2G2 fB |1 "C"c2z2Gc :|2 
+"C"c2z2z2 |: "F"FA AFA2 | "C"EG cEG2 | "G7"FD B,G FB, | "C"CG EGc2 | "F"FA AFA2 | "C"EG cEG2 | "G7"FD B,G FB, | "C"C2z2z2 :| 
+% wz00939
+X:6
+T:\"Usserberger Walzer  F (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+cf |: "F"d2c2AF | "C7"E2G2ce | d2c2BE | "F"F2A2cf | d2c2AF | "C7"E2G2ce | d2c2 be |1 "F"f2z2cf :|2 
+"F"f2z2z2 |: "Bb"Bd dBd2 | "F"Ac fAc2 | "C7"BG Ec BE | "F"Fc Acf2 | "Bb"Bd dBd2 | "F"Ac fAc2 | "C7"BG Ec BE | "F"F2z2z2 :| 
+% wz00939
+X:7
+T:\"Usserberger Walzer  G (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+dg |: "G"e2d2BG | "D7"F2A2df | e2d2cF | "G"G2B2dg | e2d2BG | "D7"F2A2df | e2d2 c'f |1 "G"g2z2dg :|2 
+"G"g2z2z2 |: "C"ce ece2 | "G"Bd gBd2 | "D7"cA Fd cF | "G"Gd Bdg2 | "C"ce ece2 | "G"Bd gBd2 | "D7"cA Fd cF | "G"G2z2z2 :| 
+% wz00939
+X:8
+T: \"Usserberger Walzer D (tinwhistle in D)
+T:wz00939 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+Ad |: "D"B2A2FD | "A7"C2E2Ac | B2A2GC | "D"D2F2Ad | B2A2FD | "A7"C2E2Ac | B2A2 gc |1 "D"d2z2Ad :|2 
+"D"d2z2z2 |: "G"GB BGB2 | "D"FA dFA2 | "A7"GE CA GC | "D"DA FAd2 | "G"GB BGB2 | "D"FA dFA2 | "A7"GE CA GC | "D"D2z2z2 :| 
+X:9
+T:\"Usserberger Walzer G (tinwhistle in D)
+T:wz00939 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+dg |: "G"e2d2BG | "D7"F2A2df | e2d2cF | "G"G2B2dg | e2d2BG | "D7"F2A2df | e2d2 c'f |1 "G"g2z2dg :|2 
+"G"g2z2z2 |: "C"ce ece2 | "G"Bd gBd2 | "D7"cA Fd cF | "G"Gd Bdg2 | "C"ce ece2 | "G"Bd gBd2 | "D7"cA Fd cF | "G"G2z2z2 :| 
+X:10
+T: \"Usserberger Walzer D (tinwhistle in D) solo
+T:wz00939 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/8
+K:D transpose=12
+Ad |: B2A2FD | C2E2Ac | B2A2GC | D2F2Ad | B2A2FD | C2E2Ac | B2A2 gc |1 d2z2Ad :|2 
+d2z2z2 |: GB BGB2 | FA dFA2 | GE CA GC | DA FAd2 | GB BGB2 | FA dFA2 | GE CA GC | D2z2z2 :|
+X:11
+T:\"Usserberger Walzer G (tinwhistle in D) solo
+T:wz00939 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/8
+K:G transpose=12
+dg |: e2d2BG | F2A2df | e2d2"_c"cF | G2B2dg | e2d2BG | F2A2df | e2d2 "_c"c'f |1 g2z2dg :|2 
+g2z2z2 |: "_c"ce ece2 | Bd gBd2 | "_c"cA Fd "_c"cF | Gd Bdg2 | "_c"ce ece2 | Bd gBd2 | "_c"cA Fd "_c"cF | G2z2z2 :|
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 2, 2016

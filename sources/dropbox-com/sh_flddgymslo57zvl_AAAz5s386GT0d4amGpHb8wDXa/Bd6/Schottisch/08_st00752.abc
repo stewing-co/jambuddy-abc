@@ -1,0 +1,49 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Schottisch  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.171 (st00752) orig. C-Dur
+T: Zermatter T\"anze. S.166-177.\"Uberliefert durch Moritz Perren, "Hofmuri", 1874-1952.
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"EGce d2c2 | "G7"Bdfa g2f2 | G2Bf e2d2 | "C"c2eg c'2ge | EGce d2c2 | 
+"G7"Bdfa g2f2 | g2ba gfed | "C"c2e2 c2z2 :: "F"A2A2 AcBA | "C"A2G2 G3A | 
+"G7"G2F2 F3G | "C"F2E2E4 | "F"A2A2 AcBA | "C"A2G2 G3c | "G7"G2F2 FGAB | "C"cGEG C4 :| 
+X:2
+T:Schottisch  G 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+"G"B,DGB A2G2 | "D7"FAce d2c2 | D2Fc B2A2 | "G"G2Bd g2dB | B,DGB A2G2 | 
+"D7"FAce d2c2 | d2fe dcBA | "G"G2B2 G2z2 :: "C"E2E2 EGFE | "G"E2D2 D3E | 
+"D7"D2C2 C3D | "G"C2B,2B,4 | "C"E2E2 EGFE | "G"E2D2 D3G | "D7"D2C2 CDEF | "G"GDB,D G,4 :| 
+% st00752
+X: 3
+T: Schottisch  C (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"EGce d2c2 | "G7"Bdfa g2f2 | G2Bf e2d2 | "C"c2eg c'2ge | EGce d2c2 | 
+"G7"Bdfa g2f2 | g2ba gfed | "C"c2e2 c2z2 :: "F"A2A2 AcBA | "C"A2G2 G3A | 
+"G7"G2F2 F3G | "C"F2E2E4 | "F"A2A2 AcBA | "C"A2G2 G3c | "G7"G2F2 FGAB | "C"cGEG C4 :| 
+% st00752
+X:4
+T:Schottisch  G (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"B,DGB A2G2 | "D7"FAce d2c2 | D2Fc B2A2 | "G"G2Bd g2dB | B,DGB A2G2 | 
+"D7"FAce d2c2 | d2fe dcBA | "G"G2B2 G2z2 :: "C"E2E2 EGFE | "G"E2D2 D3E | 
+"D7"D2C2 C3D | "G"C2B,2B,4 | "C"E2E2 EGFE | "G"E2D2 D3G | "D7"D2C2 CDEF | "G"GDB,D G,4 :| 
+% st00752
+% June 19, 2016
+

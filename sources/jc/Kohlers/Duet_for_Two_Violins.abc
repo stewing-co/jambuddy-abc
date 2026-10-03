@@ -1,0 +1,83 @@
+
+X: 32781
+T: DUET FOR TWO VIOLINS
+C: By Robert Baillie
+P: Violin Primo
+Q: "Allo. M." 1/4=120
+R: reel
+B: K\"ohler's Violin Repository, v.3, 1885 p.278 #1
+F: http://www.archive.org/details/klersviolinrepos03rugg
+Z: 2012 John Chambers <jc:trillian.mit.edu>
+N: This part lacked the Vln2 key change to D at bar 21, but has c naturals thereafter.  K:D inserted in bar 21.
+N: The ending spot isn't indicated, but only bar 20 makes sense.
+U: P=!crescendo(!
+U: p=!crescendo)!
+M: C
+L: 1/8
+K: G
+[|\
+!ff!vb4 ud'3ub | g4 ub3ug | (d^c).d.e (fe).f.g | (a^g).a.b c'2 !segno![|\
+ba | g2g2 a2a2 | b6 (c'b) | a2a2 (d'c')(.b.a) | g4 uc'2uc'2 |
+(ba).g.f (ed).c.B | A4 (GFGB) | (cB).A.G (Fe).d.c |\
+B6 (ag) | .g(gfg) .a(a^ga) | b6 (c'b) |
+.a(a^ga) (d'c')(.b.a) | g4 uc'2uc'2 | (ba).g.f (ed).c.B |\
+A4 (GFGB) | (cB).A.G F2[BD][AD] | [G2G,2][g2B2] [gB] !fine!|]
+K: D
+!f!uABc |\
+[d4D4] u[d3D3]u[dD] | ([d2D2]ed) (dc)BA | (fga^g) (ba=gf) |\
+([f2A2][gA][fA] [e2A2])(ugf) | !p!e2ba g2fe | d2ag f2ed |
+c2cd (cB).A^G | ([^G4B,4] [FA,])P(.A.Bp.c) | !f![d4D4] u[d3D3]u[dD] |\
+([d2D2]ed) (dc)BA | (fga^g) (ba=gf) | ([f2A2][gA][fA] [e2A2])(ugf) |
+!p!e2ba g2fe | d2ag f2A^A | (Bd).c.B uAzuc2 |\
+(e4 d2)z2 | vf2(.c>.d) c2g2 | f2uB>uc B2z2 |
+e2uB>uc B2=f2 | e2uA>B A2(A!ff!B) | "^fz"([=c4F4] [cF])>vBuA>uB |\
+"^fz"[^c4E4-] [cE]>vAuB>uc | (.[dE]>.c)(.B>.A) (.^G>.B)(.e>.d) | c2(.[aA]>.[aA]) [aA](ABc) |
+!f![d4D4] u[d3D3]u[dD] | ([d2D2]ed) (dc)_BA | (fga^g) (ba=gf) |\
+([f2A2][gA][fA] [e2A2]) (ugf) | !p!e2ba g2fe | d2ag f2ed |
+c2cd (cB)A^G | ([^G4B,4] P[FA,])(.Ap.B.c) | !f![d4D4] u[d3D3]u[dD] |\
+([d2D2]ed) (dc)BA | (fga^g) (ba=gf) | ([f2A2][gA][fA] [e2A2])(gf) |
+!p!e2ba g2fe | d2ag f2A^A | (Bd).c.B uAzuc2 | d2fd c2ec |\
+d2fd c2ec | (dc).d.e (fe).f.g | (a^g).a.b =c'2 !segno!"_D.C."|]
+
+%%newpage
+
+
+X: 32791
+T: DUET FOR TWO VIOLINS
+C: By Robert Baillie
+P: Violin Secundo
+Q: "Allo. M." 1/4=120
+R: reel
+B: K\"ohler's Violin Repository, v.3, 1885 p.279 #1
+F: http://www.archive.org/details/klersviolinrepos03rugg
+Z: 2012 John Chambers <jc:trillian.mit.edu>
+N: This part has a key change to D at bar 21 which makes sense but is missing in the Vln1 part.
+N: The ending spot isn't indicated, but only bar 20 makes sense.
+U: P=!crescendo(!
+U: p=!crescendo)!
+M: C
+L: 1/8
+K: G
+[|\
+!ff!vB4 ud3uB | G4 uB3uG | [FD]zz2 (ud^c).d.e | (fe).f.g a2 !segno![| z2 |\
+z4 z2!p!(ufe) | d2d2 e2e2 | f6 (gf) | e2e2 (ag)(.f.e) |
+d4 ug2ug2 | (fe).d.c (BA).G.=F | E4 (D^CDF) |\
+(GF).E.D G2z2 | z4 z2(ued) | .d(d^cd) .e(e^de) |
+f6 (gf) | .e(e^de) (ag)(.f.e) | d4 ug2ug2 |\
+(fe).d.c (BA)G=F | E4 (DA,D[DC]) | [D2B,2][D2G,2] [DG,] !fine!|]
+K: D
+!f!uA^G=G |\
+(FGA^G) (GA=GF) | (F2GF E)(.A.B.c) | [d4D4] u[d3D3][dD] |\
+([d2D2]ed) (dc)BA | !p!G2gf e2AG | F2fe d2[BE][B^E] |
+([A3F3]B) (A^G).F.^E | [c^E]C^DE PFA^Gp=G | !f!(FGA^G) (BAGF) |\
+(F2GF E)(.A.B.c) | [d4D4] u[d3D3][dD] | ([d2D2]ed) (dc)BA |
+!p!G2gf e2AG | F2(fe) d2[F2D2] | (GF).E.D (CA).G.E |\
+(cB).A.G F2z2 | (^AFAF AFAE) | (DFBF DFBF) |
+(DE^GE DEGD) | (CEAE C2)z2 | !ff!z2[A^D]/[AD]/[AD]/[AD]/ [AD]zz2 |\
+z2[AE]/[AE]/[AE]/[AE]/ [AE]zz2 | ([E4^G,4] [E2B,2][E2G,2]) | [E2A,2] (v[A2E2C2] v[AEC])A^G=G |
+!f!(FGA^G) (BA=GF) | (F2GF E)(.A.B.c) | [d4D4] u[d3D3]u[dD] |\
+([d2D2]ed) (dc)BA | !p!G2gf e2AG | F2fe d2[BE][B^E] |
+([A3F3]B) (A^G).F.^E | [c^E]C^DE FA^G=G | !f!(FGA^G) (BA=GF) |\
+(F2GF E)(.A.B.c) | [d4D4] u[d3D3]u[dD] | ([d2D2]ed) (dc)BA |
+!p!G2gf e2AG | F2(fe) d2[F2D2] | (GF).E.D (CA).G.E |\
+!f!(FAdF) (GAcG) | (FAdF) (GAc[AG]) | [AF]zz2 (udc).d.e | (fe).f.g a2 !segno!"_D.C."|]

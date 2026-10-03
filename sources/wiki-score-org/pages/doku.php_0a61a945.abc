@@ -1,0 +1,36 @@
+X:504
+T:Agnus Dei
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 4 clef=bass name="Violoncello" sname="Vc."
+%%MIDI program 1 42
+%%staves [ 4 ]
+%------------------
+[Q:"Largetto"] !p! F,,2F,,!>!F,,3 | !p! (F,,F,E,) D,2C, | B,,2B,,B,,2B,, | "_cres." A,,/=B,,/^C,/D,/E,/F,/ !>! (G,3 | \
+% fol.178]
+F,2)F,!>!G,3 | !p! F,2(D,G,2C,) | F,!p!F,A, C2^C) | D2(=C =B,2!p!C) | (=B,2C B,2)!p!G, | \
+C2!p!A, F,2G, | !p! C,/C,/C,/C,/C,/C,/ C,/C,/C,/C,/C,/C,/ |  C,/C,/C,/C,/C,/C,/ C,/C,/C,/C,/C,/C,/ |  C,/C,/C,/C,/C,/C,/ C,/C,/C,/C,/C,/C,/ | \
+% fol.180
+!p! C,/C,/C,/C,/C,/C,/ C,/C,/C,/C,/C,/C,/ | !p! C,/C,/C,/C,/C,/C,/ (C,2G,,) | (C,2G,,D,2_B,,) | !f! A,,2A,,A,,2A,, | A,,2A,,A,,2A,, | \
+% fol.181
+A,,2!f!A, G,2G, | F,2!f!F, E,2E, | !p! A,,2A,,A,,2A,, | !fermata! A,,6 || \
+% fol.182
+[Q:"Allegro"][K:F][M:C|][L:1/4|] !f![F,F,,]zz2 | !>!E3z | Z2 | !f! G,zF,z | \
+!>(!(ED!>)!^C)z | Z2 | !f! =CCCC | =B,B,B,z | Z2 | \
+% fol.184
+!f! B,B,B,B, | A,A,A,z | !f! B,z=B,z | !f! CzCz | C,zC,z | !f! F,F,F,F, | E,E,E,E, | \
+% fol.185
+F,zz2 | Z3 | !f! A,2G,2 | F,2 D,2 | !f! G,2 F,2 | \
+% fol.186
+E,2C,2 | !p! F,2A,2 | B,2=B,2 | !f!Czz2 | A,zz2 | !f!F,F,F,F, |F,F,F,F, | \
+%  fol.187
+!f!E,D,^C,=C, | =B,,2_B,,2 | A,,zz2 | Z3 | z2 !f!_B,B, | \
+% fol.188
+=B,zz2 | !f!CzCz | C,zC,z | F,zz2 | !p! F,zz2 | !p! F,4-| F,4 | .F,zz2 | !p! F,zz2 | \
+% fol.189
+!p! C,4- | C,4 | .F,zz2 | !p! .F,zz2 | !p! F,4- | F,4- | F,zz2 | !p! F,zz2 | !p! C,4- | C,4 | \
+% fol.190
+F,zz !p! F, | F,F,F,F, | F,zz2 | !p! F,zz2 | F,zz2 | !p! F,zz2 |] \
+%------------------

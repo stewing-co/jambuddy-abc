@@ -1,0 +1,32 @@
+X:3409
+T:Coro
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:E
+V: 9 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 9 )]
+%--------------------------------------
+[Q:"Allegro"] % fol.33
+g g/>g/ gg | a4 | a a/>a/ aa | gggz | b2a2 | gb2b | b2a2  | \
+% fol.33
+g4 | f2 z2 | z4 | z2 b-b/>g/ | f/>a/ g b b/>g/ |f/>a/ g b2 | a2 g f  | \
+% fol.33
+e g e z | g g/>g/ gg | aaa2 | aa/>a/aa | ggg2 | b2 a2  | \
+% fol.34
+g b2 b | b2 a2 | g4- | g4 | f4- | f2 ^a2  | \
+% fol.34
+b2 f2 | e2 ^a2 | b3 =a | g4 | f b2 =a | g4  | \
+% fol.34
+f2 b2 | g2 f ^a | b f2 f | e2 d2 | =d4 | b2 ^a2  | \
+% fol.34
+b z3 | g2 f ^a | b z3 | g2 f ^a | b f2 z | e2 d2  | \
+% fol.34
+c2 B2 | c2 g2 | f ^a b2 | ^a2 b2 | f4- | f4  | \
+% fol.34
+[K:D] f4 | f4- | f4 | f2 f a |c' d' z a | \
+% fol.34
+g f z a | (a>b/a//) g f | f e e z | Z6 | \
+g a/>b/ f e | f2 z2 ||
+%--------------------------------------

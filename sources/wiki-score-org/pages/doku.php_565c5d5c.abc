@@ -1,0 +1,35 @@
+X:105
+T:Motete
+C:Antonio da Silva Leite (1759-1833)
+M:3/4
+L:1/4
+K:F
+V: 5 clef=treble name="Orgao" sname="O."
+%%MIDI program 1 1
+%%staves [{ 5 }]
+%----- edit between the lines ------
+"^[1]" [A,CF]3/2  z//C// A,/z//C// | F/z//C// AF | !fermata!!trill!C3 | !fermata![A,CF]z!fermata!F, | [A,CF]zz |
+z/>C/ E/z//G// E/z//G// | Czz | z/>F/ A/z//c// A/z//F// |  z/(d//B//) F/F/F/F/ |
+z/(d//B//)!/!F2 | z/(c//A//)!/!F2 | z/(B//G//)!/!E2 | \
+z/(B//G//)!/!C2 | [EG]zz | z/[B,CE]/!/![B,CE]2 | !fermata![A,CF]3"_NB: check ms!"xx/ |
+z/(G//D//) =B,/D/ B,/G/ | z/[=B,DG]/!/![B,DG]2 | z/(c//G//) E/G/c/c/ | z/[FB]/!/![FB]2 | \
+z/[EA]/!/![EA]2 | z/[DG]/!/![DG]2 | EFz & x/C2x/ | d/f/cz & F2x |
+d/f/cf//e//d//c// & F2x | !/![F=B]2[FB]/[Ec]/ | [Fd][Fd][F=B] | !fermata![Ec]2!fermata!C || \
+[Q:"Allegretto"] [M:C] [FA]/C/ [FA]/C/ [FA]/C/ [FA]/C/ | [GB]/C/ [GB]/C/ [GB]/C/ [GB]/C/ |
+[FA]/C/ [FA]/C/ [FA]/C/ [FA]/C/ | [GB]/C/ [GB]/C/ [GB]/C/ [GB]/C/ | \
+[FA]/C/ [FA]/C/ F//G//A//B// c//d//e//f// | d/ [FBd]//[FBd]// [FBd]/[FBd]/[FBd]z |
+z/[Bce]//[Bce]// [Bce]/[Bce]/[Bce]z | [Acf]/[Ac]A/[DG][DG] | \
+[FA]/[FA]//[FA]// [FA]/[FA]/ [EG]/[EG]//[EG]// [EG]/[EG]/ | [FA]/C/ [FA]/C/ [FA]/C/ [FA]/C/ |
+[GB]/C/ [GB]/C/ [GB]/C/ [GB]/C/ | [FA]/C/ [FA]/C/ [FA]/C/ [FA]/C/ | \
+[GB]/C/ [GB]/C/ [GB]/C/ [GB]/C/ | [FA]/C/ [FA]/C/ F/A//c// f/c/ | z/[FBd]//[FBd]// [FBd]/[FBd]/[FBd]z |
+z/[Bce]//[Bce]// [Bce]/[Bce]/[Bce]z | [Acf]/[Ac]A/[DG][DG] | \
+[FA]/[FA]//[FA]// [FA]/[FA]/ [EG]/[EG]//[EG]// [EG]/[EG]/ | (A//F//A//c//)f2[FA] |
+[FG]/[FG]//[FG]// [FG]/[FG]/!/![Ec]2 | (A//F//A//c//)f2[FA] | \
+[FG]/[FG]//[FG]// [FG]/[FG]/!/![EGc]2 | f/f/ (g//f//e//f//) g/g/ (a//g//f//g//) |
+a/c'f/ g/(c'//b// a//g//f//e//) | f/f/ (g//f//e//f//) g/g/ (a//g//f//g//) | \
+a/c'f/ g/(c'//b// a//g//f//e//) | f[Acf][Acf]z |]
+%---
+W: Notes:
+W:[1] E instead of F in the first chord of the ms
+W:[2] Unsure about first beat of the third bar - tr?
+%-----------------------------------

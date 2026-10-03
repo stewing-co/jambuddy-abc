@@ -1,0 +1,40 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Walzer CFBb chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.370 (wz08865) orig. C,F,Bb-Dur
+T: T\"anze aus B\"uren an der Aare (Bern) S.353ff
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G | "C"e3 | edc | Bca | g3 | EGc | e^de | "G7"g3 | dzz | f3 | fed | 
+"C"cBc | "G7"d2^d | "C"eag | "G7"Bed | "C"cz"G7"B | "C"czz || "C"ggc' | "G7"c'2b | d'2f | "C"f2e | ggc' | 
+"G7"c'2b | d2f | "C"e3 | gc'b | "F"a2 a/a/ | ^gab | a2a | agf | "C"e2 g/c'/ | "G7"bc'd' | "C"c'zc || [K:F]
+"F"a3 | "Bb"a/g/fd | "F"c3 | cfa | "C7"b>eg | cec' | "F"a>cf | "C7"c d/e/ f/g/ | "F"a3 | "Bb"a/g/ fd | "F"c3 | 
+cfa | "C7"b3 | cde | "F"f3 | fzz || [K:Bb] "Bb"dfb | f3 | "Eb"egc' | g3 | "F7"fzA | A2 e/g/ | 
+"Bb"fzd | d2z | dfb | f3 | "C7"=egb | =e3 | "Bb/F"fzd | "F7"ezA | "Bb"B>bb | bzz |] 
+
+X:2
+T:Walzer GCF 5- chords
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+D | "G"B3 | BAG | FGe | d3 | B,DG | B^AB | "D7"d3 | Azz | c3 | cBA | 
+"G"GFG | "D7"A2^A | "G"Bed | "D7"FBA | "G"Gz"D7"F | "G"Gzz || "G"ddg | "D7"g2f | a2c | "G"c2B | ddg | 
+"D7"g2f | A2c | "G"B3 | dgf | "C"e2 e/2e/2 | ^def | e2e | edc | "G"B2 d/2g/2 | "D7"fga | "G"gzG || [K:Cmaj]
+"C"e3 | "F"e/2d/2cA | "C"G3 | Gce | "G7"f>Bd | GBg | "C"e>Gc | "G7"G A/2B/2 c/2d/2 | "C"e3 | "F"e/2d/2 cA | "C"G3 | 
+Gce | "G7"f3 | GAB | "C"c3 | czz || [K:Fmaj] "F"Acf | c3 | "Bb"Bdg | d3 | "C7"czE | E2 B/2d/2 | 
+"F"czA | A2z | Acf | c3 | "G7"=Bdf | =B3 | "F/C"czA | "C7"BzE | "F"F>ff | fzz |] 
+
+X:3
+T:Walzer GCF 5- chords Anm
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+D | "G"B3 | BAG | "_#"FGe | d3 | B,DG | B^AB | "D7""_d"d3 | "_a"Azz | c3 | c"_h"B"_ a ="A | 
+"G"G"_#"F"_ ="G | "D7""_a"A2"_b"^A | "G"Bed | "D7""_#"F"_h"B"_ a ="A | "G"Gz"D7""_#"F | "G"Gzz || "G"ddg | "D7"g2"_f#"f | "_a"a2"_c"c | "G"c2B | ddg | 
+"D7"g2"_f#"f | "_a"A2"_c"c | "G"B3 | dgf | "C"e2 e/2e/2 | "_es"^def | e2e | edc | "G"B2 d/2g/2 | "D7"fga | "G"gzG || [K:Cmaj]
+"C"e3 | "F"e/2d/2cA | "C"G3 | Gce | "G7""_f"f>"_h"B"_d"d | G"_h"Bg | "C"e>Gc | "G7"G "_a"A/2"_h"B/2 c/2"_ d ="d/2 | "C"e3 | "F"e/2d/2 cA | "C"G3 | 
+Gce | "G7""_f"f3 | G"_a"A"_ h ="B | "C"c3 | czz || [K:Fmaj] "F"Acf | c3 | "Bb""_b"B"_d"d"_g"g | "_d"d3 | "C7""_c"cz"_e"E | E2 "_b"B/2"_ d ="d/2 | 
+"F"czA | A2z | Acf | "_ (=)"c3 | "G7""_h"=B"_d"d"_f"f | "_ h ="=B3 | "F/C"cz"_ ="A | "C7""_b"Bz"_e"E | "F"F>ff | fzz |] 
+

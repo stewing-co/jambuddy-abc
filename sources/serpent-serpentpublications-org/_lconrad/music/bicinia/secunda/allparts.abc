@@ -1,0 +1,65 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:10. Fantasia secunda.
+T:Superius.
+C:Giovanni de Antiquis.
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+%%MIDI gchord off
+M:C
+L:1/4
+N:Original clef, C on first line
+K:F
+F2 D F G F > E F/ D/ E/ F/ G/ E/ F E F A G > F G/ E/ F/ G/ A/ B/ c/ B/ A/ G/ F2 E
+F/ G/ A/ G/ A/ B/ c/ A/ B/ c/ d c > B A/ G/ A G F2 E/ D/ E/ F/ G/ E/ F/ G/ A/ B/ c2 A c d c > Bc/ A/ B/ c/ d/ B/
+c/ B/ A/ G/ F > G A B2 A/ G/ A/ F/ G2 C > D E/ F/ G/ E/ F/ G/ A/ G/ A/ B/ c A G2 z F
+D F G F > E F/ D/ E/ F/ G/ E/ F E F G/ F/ E/ D/ E/ C/ D/ E/ F2 E F A > G F/ E/ D/ C/ F2 E D2
+z F A B > A F/ G/ A/ B/ c2 B c G2 A/ G/ F/ G/ A/ B/ c > B A/ G/ F/ E/ D2 z F A B > A F/ G/ A/ B/ c2 B
+c2 z C > D E/ F/ G/ A/ B/ c/ d/ B/ c > B A G F2 E F A B > A F/ G/ A/ B/ c/ A/ B/ c/ d2 c d > c c2 B
+c/ B/ A/ G/ F D/ E/ F/ G/ A/ B/ c G > A B/ G/ A/ B/ c/ B/ A/ G/ F E D/ C/ D/ E/ F2 E F16 |]
+
+X:2
+T:10. Fantasia secunda.
+T:Tenor.
+C:Giovanni de Antiquis.
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+%%MIDI gchord off
+M:C
+L:1/4
+N:Original clef, C on fourth line
+%%MIDI transpose -12
+K:F -8va
+z8 c2 A c d c > B c/ A/ B/ c/ d/ B/ c/ B/ A/ B/ F D F G F > E F/ D/E/ F/
+G/ E/ F/ G/ A/ B/ c2 A c d c > B c/ A/ B/ c/ d/ B/ c/ B/ A/ G/ F2 E D/ E/ F/ G/ A/ G/ A/ F/ G/ E/ F/ G/
+C F2 E F G F > E F/ D/ E/ F/ G/ E/ F/ G/ A/ B/ c/ A/ B/ c/ d/ e/ f d e f2 e f/ e/ d/ c/ B A G/ A/ B/ c/
+d2 z c A c d "(1)"c > B c/ A/ BA G2 z F A B > A F/ G/ A/ B/ c2 B c B A G/ A/ B/ c/ d/ e/ f e
+N:(1) Original does not have a dot.
+d2 z c e f > e c/ d/ e/ c/ f > e d/ c/ B/ A/ G2 F/ E/ F G D > E F E F G z C E F > E C/ D/ E/ F/ G/ E/
+N:(2)Original is a quarter note
+F/ G/ A/ B/ c > A B A B G F f d    B/ c/ d/ e/ f/ d/ e/ f/ g2 f e d e f d2 c F A B > A F/ G/ A/ B/ c/ "(2)"d/
+N:(2)Original is a quarter note
+e/ c/ d/ e/ f F > G A/ B/ c/ A/ B2 A G2 F16 |]

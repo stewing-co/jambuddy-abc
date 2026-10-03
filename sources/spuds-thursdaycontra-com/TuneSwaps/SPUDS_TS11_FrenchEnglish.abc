@@ -1,0 +1,203 @@
+%%topmargin .5in
+%%leftmargin .75in
+%%staffwidth 6.5in
+%%gchordfont Helvetica 14
+%%footer SPUDs Tune Swap #11 - French-English  October 8, 2020
+%%
+%%
+
+X:0
+T:SPUDS Tune Swap #11 
+T:French-English  October 8, 2020
+K:
+%%text 1. Bill's French Tune [Dm]  Craig
+%%text 2. An Dro [G] John Bunch
+%%text 3. Sylvia's Serenade [Dm ] Kirsten & Adlai
+%%text 4. The Dusty Miller [G] Sam
+%%text 5. Buxus Sempervirens [Am] Kathryn
+%%text 6. Key to the Cellar [Em] Steve
+%%text 7. Trip to Kilburn [Am]  Enid
+%%text 8. Beanfield [Am] Laura
+%%text 9. Bourrée de Montford [Em] Bill and Sarah
+%%text 10. Not the Worm -hanter dro [G] Adlai
+%%text 11. Horses' Brawl [G] Steve
+%%text 12. Elizabeth Clare [G] Sarah and Bill
+
+%%newpage
+
+X:1
+T:Bill's French Tune
+C:© 2004 Bill Quern  
+M:C
+L:1/4
+K:Dm
+|:"Dm" A2 d2|c =B A2|FA "Am"EA|"Dm" DEFG|\
+"Dm" A2 d2|c =B A2|fd "A7"e ^c|1"Bb" d2 d2:|2"Dm"d2 d d/e/||
+|:"Dm" fd "/C" e^c|"/Bb" dc "/A" BA|"Dm"fd "/C"e^c|"/Bb"d a"A"a a|\
+"Dm" fd "/C" e^c|"/Bb" dc "/A" BA|"Dm"FA "A7"EA|1"Bb" D3 d/e/:|2"Dm" D4|]
+
+X:2
+T:An Dro
+O:France
+A:Brittany
+M:4/4
+R:An dro
+K:Em
+%%text An Dro
+"Em"B3c B2A2| G2F2 E4|"D" A2A2 F2D2|"Em" EFGA"B7" B4|"Em"B3c B2A2| G2F2 E4|"D" A2A2 F2D2|"Em" EFGF E4||
+"Em"B2e2 E4| B2e2"D" F4| A2A2 F2D2|"Em" EFGA"B7" B4|"Em"B2e2 E4| B2e2"D" F4| A2A2 F2D2|"Em" EFGF E4||
+"C"E2DE "D"F2A2| "C"GFED E2G2| "C"E2DE"D" F2A2 | "C"GFED E4|"C"E2DE"D" F2A2| "C"GFED EFGF|"C" E2DE"D" F2A2| "C"GFED "Em"E4||
+"G"B2AB"D" c2A2| "Am"A2GA"Em" B2G2|"C" E2DE"D" F2A2|"C" GFED EFGA|"G"B2AB"D" c2A2| "Am"A2GA"Em" B2G2|"C" E2DE"D" F2A2|"C" GFED"Em" E4|]
+%%newpage
+
+X:3
+T:Sylvia's Serenade
+C:(chords: AW)
+F:https://thesession.org/tunes/18308#setting35756
+R:three-two
+M:3/2
+L:1/8
+K:Dmin
+%%MIDI gchord bbb
+%%gchordfont Times-Roman 16
+|:"Dm"D2AG F2A2 F2D2|"/f"A2dc "G6"=B2e2 "A"^c2A2|"Dm"f4 "Am/c"e4 "Bb"d4|"Gm6"e2gf efed "A"^c2A2|
+"Dm"D2AG F2A2 F2D2|"/f"A2dc "G6"=B2e2 "A"^c2A2|"Dm"f4 "Am/c"e4 "Bb"d4|"Gm6"e2gf "A7"efed "Dm"d4:|
+|:"F"A2cB A2c2 A2F2|Acfc Acfc A2F2|"Gm"G2BA G2B2 "C"G2E2| \
+"F"F2AG F2A2 "A7"G2E2|
+%%multicol start
+%%rightmargin 2.5in
+"Dm"f2ef "Gm"gfed "A"^c2e2|a3g f2e2 "Bb"d4|"Gm"BAGF "A7"EFED "Dm"D4:|
+%%multicol end
+
+
+X: 4
+T:Dusty Miller
+Z:ssg
+M:3/2
+L:1/8
+K:G
+P:2X tune = 1X dance
+"G"B3c d2B2A2G2|"D"F2A4c2B2A2|"G"B3c d2B2A2G2|"D"D2G4"G"B2A2G2:|
+|:"G"B3c d2g2g3 f/g/|"Am"a2A4"D"c2B2A2|"G"B3c d2g2"D"f3e/f/|"G"g2G4B2A2G2:|
+
+X:5
+T:Buxus Sempervirens [modified for dance]
+T:[A shrub similar to boxwood] 
+S:source:Etienne Grandjean
+S:source: Rachel Bell
+%%MIDI gchord fczcfc
+M:3/2
+L:1/8
+K:Am
+%%text Hanter Dro
+|:"Am"E2EDE2G2"D"^F2E2|1"Am"E2EDE2G2"D"^F4:|2"Am"E2EDE2G2"D"^F2ED||
+|:"Am"C2DEE2DC"G"B,4|"Em"B,2CDG,2B,C"Am"C2A,2|\
+"Am"C2DEE2DC"G"B,4|"Em"B,2CDD2CB,"Am"A,4:|
+
+
+X:6
+T:Key to the Cellar
+%%MIDI beat 100 95 80
+%%MIDI gchord fczcfc
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+M:3/2
+L:1/8
+K:Edor
+|: "Em"G2E2 E2D2 E4 | "Em"G2E2 E2G2 "D"FGA2 | "Em"G2E2 E2D2 E4 | "D"F2D2 D2B2 "B7"A2GF :|
+|: "Em"E2e2 e2d2 e4 | "Em"E2e2 e2f2 g2e2 | "Em"E2e2 e2dc "G"d3B | "D"A2F2 D2B2 "B7"A2GF :|
+
+
+X:7
+T:Trip to Kilburn
+T:To the tune Black and Grey (1686)
+Z:ssg
+M:C|     
+L:1/8    
+K:Am
+|:"Am"A2 A2 d2 B2 |c4 A2 d2 |"G"B4 G2 g2 |B4 G4 |\
+"Am"A2 A2 d2 B2 |c3 B A2 d2 |"G"B2 G2 BcdB |"Am"A4 e4 :|
+|:"Am"a2 e2 fedc |a2 e2 fedc |"G"g2 d2 BcdB |g2 d2 BcdB |\
+"Am"a2 e2 fgag |agfe fedc |"G"B2 G2 BcdB |"Am"A4 e4 :|
+
+X:8
+T:Beanfield
+M:2/4
+L:1/8
+C:Jon Swayne
+R:Bourree
+Q:70
+K:C
+"G5"Gd dG|ee Gf|"G5" g>f e_B|"F" a>g f_B|\
+"G5"GddG|eeGf|"G5"g>fe_B|"F" A4:|
+K:G
+|:"G"dB-Be|"C"c-c "D"fd-|dg "C"e-e|"D" a>g fA|\
+"G"dB-Be|"C" c-c "D"fd-|dg e>d|"C" c4:|
+
+X:9
+T:De Montfort (Em)
+C:Jo Freya
+K:Em
+M:2/4
+L:1/8
+%%text Bourrée 2 Temps
+"Em"EB2 E|"Am"c2 "Em"EB-|BG "Am"AB |"D"AG FG |\
+"Em"EB2 E|"Am"c2 E"Em"B-|BG "Am"AB |"D"A2 z2 :|
+|:"D" F>G AF-|FA GF |"C"G>F EG-|G/2F/2E FG |\
+"D"F>G AF-|FA GF |1 "Em"G2 "D" A2 |"Em"B/2c/2B/2A/2 GF :|2"Em" G2 "D"F2 |"Em"E4 |]
+
+
+X:10
+T:Not The Worm
+T:Hanter Dro (Pennec)
+C:Trad.
+Z:AW
+%%MIDI gchord fczcfc
+%%gchordfont Times-Roman 16
+% Learned at Northern Week at Ashokan
+M:3/2
+L:1/8
+K:G
+"G"G2DG B2c2 "D"A2A2 | "G"G2DG B2c2 "D"A4 | \
+"G"G2DG B2c2 "D"A2A2 | "G"G2DG B2c2 "D"A4 |
+|: "G"B2BA B2d2 "Em"G4 | "C"A2AB G2GB "D"(A2A2) | \
+   "G"B2BA B2d2 "Em"G4 | "C"A2Ac "D"BGAF "G"G4 :|
+
+X:11
+T:Horses' Brawl
+T:Branle des Chevaux
+C:Arbeau, Orchesography, 1689
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+%%MIDI program 22     Harmonica
+%%MIDI chordprog 58   Tuba
+%%MIDI bassprog 118   Synth Drum
+%%MIDI gchord b2z2bzbz
+N:Note values halved - notes were much shorter in those days.
+N:These are the notes Arbeau published - you'll find other version but they all derive from these.
+N:The chords on the other hand are mine - you can disagree with them as much as you like!
+M:2/2
+L:1/4
+K:G
+|: "G"GA BB | "C (F)"cBAc | "G (Em)"BAGF | "C"E2 "D"D2 |\
+"G"GA BB | "C (F)"cBAc | "G (Em)"BG "D"AA | "G"G2G2 :|
+|: "G"dc/B/ "D"AA/B/ | "C"cB/A/ "G"GB | "Am"AGFG | "D"A2A2 |\
+"G"dc/B/ "D"AA/B/ | "C"cB/A/ "G"GB | "Am"AG "D"GF | "G"G2G2 :|
+%%MIDI program 66     Tenor Sax
+|: "Gm"_BA/G/ BA/G/ | "D"FGA2 | "D"DEFG | "Cm"A_BAG |\
+"Gm"_BA/G/ BA/G/ | "D"FGA2 | "D"DEFG | "D"G^F "Gm"G2 :|
+
+X:12
+%%text waltz
+T:Elizabeth Clare
+C:Chris Wood
+M:3/4
+L:1/8
+R:Waltz
+K:G
+D GA|"G"B3 B cB|"D"A2 B3 A|"C"G2 E2 (3EGE|"D"D4 GA|\
+"G"B2 d2 "C"e2|"G"d3 BG2 |d3 cB2 |"D"A4 GA|
+"Em"B3 B cB|"D"A2 B3 A|"C"G2 E2 (3EGE |"D"D3 D GA|\
+"G"B2 d2 "C"e2|"G"d3 cB2|"D"A3 GF2|"G"G3||
+|G Bd|"Am7"e2 "Bm7"d3 B|"C"c2 "G"B3 c |d2 c2 B2|"D"A3 G AB|\
+"C"c3 dc2|"G"B3 cB2|"C"A2 G2 (3EGE|"D" D3 D GA|
+"Em"B3 cB2|"D"A3 BA2|"C"G2 E2 (3EGE|"D"D3 D GA|\
+"G"B2 d2 "C"e2|"G"d3 cB2|"D"A2 G2 F2|"G"G3|]

@@ -1,0 +1,70 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Ursula-Walzer FBb chords parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.373 (wz05116) orig. F,Bb-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+R: waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+[P:A] "F"Acc | d>cc | cfg | "C7"f>ee | Bcc | d>cc |1 cga | "F"g>ff :|2 "C7"ceg | "F"fzz || 
+ [P:B] |: "Bb"d2b | "F"c2a | "C7"g>fe | "F"fac | "Bb"d2b | "F"c2a | "C7"g>fe | "F"fzz :|  [P:C] [K:Bb] "Bb"d3 | dBg | "F7"f3 | e2z | 
+aza | gzg | "Bb"fdg | f2z | b3 | df>g | "Cm"f3 |  e2z | "F7"cgf | edc | "Bb"(B3 | B)zz |] 
+% June 2, 2016
+X:2
+T:Ursula-Walzer CF 5- chords
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"EGG | A>GG | Gcd | "G7"c>BB | FGG | A>GG |1 Gde | "C"d>cc :|2 "G7"GBd | "C"czz || 
+ |: "F"A2f | "C"G2e | "G7"d>cB | "C"ceG | "F"A2f | "C"G2e | "G7"d>cB | "C"czz :| [K:F] "F"A3 | AFd | "C7"c3 | B2z | 
+eze | dzd | "F"cAd | c2z | f3 | Ac>d | "Gm"c3 | B2z | "C7"Gdc | BAG | "F"(F3 | F)zz |] 
+X:3
+T:Ursula-Walzer GC 2+ chords
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"Bdd | e>dd | dga | "D7"g>ff | cdd | e>dd |1 dab | "G"a>gg :|2 "D7"dfa | "G"gzz || 
+|: "C"e2c' | "G"d2b | "D7"a>gf | "G"gbd | "C"e2c' | "G"d2b | "D7"a>gf | "G"gzz :| [K:C] "C"e3 | eca | "G7"g3 | f2z | 
+bzb | aza | "C"gea | g2z | c'3 | eg>a | "Dm"g3 | f2z | "G7"dag | fed | "C"(c3 | c)zz |] 
+X:4
+T:Ursula-Walzer GC 10- chords
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"B,DD | E>DD | DGA | "D7"G>FF | CDD | E>DD |1 DAB | "G"A>GG :|2 "D7"DFA | "G"Gzz || 
+|: "C"E2c | "G"D2B | "D7"A>GF | "G"GBD | "C"E2c | "G"D2B | "D7"A>GF | "G"Gzz :| [K:C] "C"E3 | ECA | "G7"G3 | F2z | 
+BzB | AzA | "C"GEA | G2z | c3 | EG>A | "Dm"G3 | F2z | "G7"DAG | FED | "C"(C3 | C)zz |] 
+X:5
+T:Ursula-Walzer CF (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"EGG | A>GG | Gcd | "G7"c>BB | FGG | A>GG |1 Gde | "C"d>cc :|2 "G7"GBd | "C"czz || 
+ |: "F"A2f | "C"G2e | "G7"d>cB | "C"ceG | "F"A2f | "C"G2e | "G7"d>cB | "C"czz :| [K:F] "F"A3 | AFd | "C7"c3 | B2z | 
+eze | dzd | "F"cAd | c2z | f3 | Ac>d | "Gm"c3 | B2z | "C7"Gdc | BAG | "F"(F3 | F)zz |] 
+X:6
+T:Ursula-Walzer GC (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"Bdd | e>dd | dga | "D7"g>ff | cdd | e>dd |1 dab | "G"a>gg :|2 "D7"dfa | "G"gzz || 
+|: "C"e2c' | "G"d2b | "D7"a>gf | "G"gbd | "C"e2c' | "G"d2b | "D7"a>gf | "G"gzz :| [K:C] "C"e3 | eca | "G7"g3 | f2z | 
+bzb | aza | "C"gea | g2z | c'3 | eg>a | "Dm"g3 | f2z | "G7"dag | fed | "C"(c3 | c)zz |] 
+X:7
+T:Ursula-Walzer GC (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"B,DD | E>DD | DGA | "D7"G>FF | CDD | E>DD |1 DAB | "G"A>GG :|2 "D7"DFA | "G"Gzz || 
+|: "C"E2c | "G"D2B | "D7"A>GF | "G"GBD | "C"E2c | "G"D2B | "D7"A>GF | "G"Gzz :| [K:C] "C"E3 | ECA | "G7"G3 | F2z | 
+BzB | AzA | "C"GEA | G2z | c3 | EG>A | "Dm"G3 | F2z | "G7"DAG | FED | "C"(C3 | C)zz |] 
+
+

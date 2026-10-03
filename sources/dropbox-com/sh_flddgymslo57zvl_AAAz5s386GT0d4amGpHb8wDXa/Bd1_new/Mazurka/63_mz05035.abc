@@ -1,0 +1,48 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: M\"arzbl\"umlein-Mazurka GC chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.325 (mz05035) orig. G,C-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"D7"d>^c d>e f>g | a>bc'2z2 |: "G"Bd b3a | Ta2g2g2 | "Em"Beg3f | "Am"Tf2e2e2 | "C"e2!>!g3e | "G"d4g2 | "D7"a3d a>a |  
+"G"b4g2 | Bdb3a | Ta2g2g2 | "Em"Beg3f | "Am"Tf2e2e2 | "A7"^c>ea3g | "D"f>ad'4 | "A7"^c'>b a>g f>e | "D"d2d2z2 ::
+"D7"c'>ba2d2 | "G"b>ag2d2 | "D7"g2f>ad'2 | "G"a2g>bd'2 | "D7"c'>ba2d2 |  "G"b>ag2d2 |  "D7"g2f>ad'2 |1 "G"{/f}g2 dd dd :|2 "G"g2g2z2 || [K:C]
+|:"C".e2 ee ee | eag4 | "A7"dfe4 | "Dm"^ced4 | "G7".f2 ff ff | fc'b4 | fba3f | "C"eag4 | 
+.e2 ee ee | eag4 | "A7"dfe4 | "Dm"^ced4 | f>ad'4 | "C"e>gc'4 | "G7"b>a g>f e>d | "C"c2c2z2 :| 
+
+X:2
+T:M\"arzbl\"umlein-Mazurka CF 5- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"G7"G>^F G>A B>c | d>ef2z2 |: "C"EG e3d | Td2c2c2 | "Am"EAc3B | "Dm"TB2A2A2 | "F"A2!>!c3A | "C"G4c2 | "G7"d3G d>d | 
+"C"e4c2 | EGe3d | Td2c2c2 | "Am"EAc3B | "Dm"TB2A2A2 | "D7"^F>Ad3c | "G"B>dg4 | "D7"^f>e d>c B>A | "G"G2G2z2 ::
+"G7"f>ed2G2 | "C"e>dc2G2 | "G7"c2B>dg2 | "C"d2c>eg2 | "G7"f>ed2G2 | "C"e>dc2G2 | "G7"c2B>dg2 |1 "C"{/B}c2 GG GG :|2 "C"c2c2z2 || [K:Fmaj]
+|:"F".A2 AA AA | Adc4 | "D7"GBA4 | "Gm"^FAG4 | "C7".B2 BB BB | Bfe4 | Bed3B | "F"Adc4 | 
+.A2 AA AA | Adc4 | "D7"GBA4 | "Gm"^FAG4 | B>dg4 | "F"A>cf4 | "C7"e>d c>B A>G | "F"F2F2z2 :| 
+
+X:3
+T:M\"arzbl\"umlein-Mazurka BbEb (5letras) cf. GC
+M:3/4
+L:1/8
+K:Bbmaj%%MIDI gchordon
+"F7"f>=e f>g a>b | c'>d'e'2z2 |: "Bb"df d'3c' | Tc'2b2b2 | "Gm"dgb3a | "Cm"Ta2g2g2 | "Eb"g2!>!b3g | "Bb"f4b2 | "F7"c'3f c'>c' | 
+"Bb"d'4b2 | dfd'3c' | Tc'2b2b2 | "Gm"dgb3a | "Cm"Ta2g2g2 | "C7"=e>gc'3b | "F"a>c'f'4 | "C7"=e'>d' c'>b a>g | "F"f2f2z2 ::
+"F7"e'>d'c'2f2 | "Bb"d'>c'b2f2 | "F7"b2a>c'f'2 | "Bb"c'2b>d'f'2 | "F7"e'>d'c'2f2 | "Bb"d'>c'b2f2 | "F7"b2a>c'f'2 |1 "Bb"{/a}b2 ff ff :|2 "Bb"b2b2z2 || [K:Ebmaj]
+|:"Eb".g2 gg gg | gc'b4 | "C7"fag4 | "Fm"=egf4 | "Bb7".a2 aa aa | ae'd'4 | ad'c'3a | "Eb"gc'b4 | 
+.g2 gg gg | gc'b4 | "C7"fag4 | "Fm"=egf4 | a>c'f'4 | "Eb"g>be'4 | "Bb7"d'>c' b>a g>f | "Eb"e2e2z2 :| 
+
+X:4
+T:M\"arzbl\"umlein-Mazurka EbAb (5letras) cf. CF
+M:3/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+"Bb7"B>=A B>c d>e | f>ga2z2 |: "Eb"GB g3f | Tf2e2e2 | "Cm"Gce3d | "Fm"Td2c2c2 | "Ab"c2!>!e3c | "Eb"B4e2 | "Bb7"f3B f>f | 
+"Eb"g4e2 | GBg3f | Tf2e2e2 | "Cm"Gce3d | "Fm"Td2c2c2 | "F7"=A>cf3e | "Bb"d>fb4 | "F7"=a>g f>e d>c | "Bb"B2B2z2 ::
+"Bb7"a>gf2B2 | "Eb"g>fe2B2 | "Bb7"e2d>fb2 | "Eb"f2e>gb2 | "Bb7"a>gf2B2 | "Eb"g>fe2B2 | "Bb7"e2d>fb2 |1 "Eb"{/d}e2 BB BB :|2 "Eb"e2e2z2 || [K:Abmaj]
+|:"Ab".c2 cc cc | cfe4 | "F7"Bdc4 | "Bbm"=AcB4 | "Eb7".d2 dd dd | dag4 | dgf3d | "Ab"cfe4 | 
+.c2 cc cc | cfe4 | "F7"Bdc4 | "Bbm"=AcB4 | d>fb4 | "Ab"c>ea4 | "Eb7"g>f e>d c>B | "Ab"A2A2z2 :| 

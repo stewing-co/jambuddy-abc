@@ -1,0 +1,49 @@
+%%partsbox
+%%MIDI program 21
+
+X:7
+T: L\"andler G (5letras transposed)
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+dB |: "G"G3B dg | "Am"f2e2e2 | "D7"F3A cf | "G"e2d2d2 | G3B dg | "Am"b2a2a2 | "D7"gf ed ef |1 "G"g2z2dB :|2 "G"g2z2dg || 
+|: "D7".b2!>!a3f | "G".a2!>!g3B | "D7"BA ed cA | "G"GD GB dg | "D7".b2!>!a3f | "G".a2!>!g3B | "D7"BA ed cA |1 "G"G2z2dg :|2 "G"G2z2z2 |]  
+X:8
+T:L\"andler C (5letras transposed)
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+GE |: "C"C3E Gc | "Dm"B2A2A2 | "G7"B,3D FB | "C"A2G2G2 | C3E Gc | "Dm"e2d2d2 | "G7"cB AG AB |1 "C"c2z2GE :|2 "C"c2z2Gc || 
+|: "G7".e2!>!d3B | "C".d2!>!c3E | "G7"ED AG FD | "C"CG, CE Gc | "G7".e2!>!d3B | "C".d2!>!c3E | "G7"ED AG FD |1 "C"C2z2Gc :|2 "C"C2z2z2 |] 
+X:9
+T:L\"andler F (5letras transposed)
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+cA |: "F"F3A cf | "Gm"e2d2d2 | "C7"E3G Be | "F"d2c2c2 | F3A cf | "Gm"a2g2g2 | "C7"fe dc de |1 "F"f2z2cA :|2 "F"f2z2cf || 
+|: "C7".a2!>!g3e | "F".g2!>!f3A | "C7"AG dc BG | "F"FC FA cf | "C7".a2!>!g3e | "F".g2!>!f3A | "C7"AG dc BG |1 "F"F2z2cf :|2 "F"F2z2z2 |] 
+X:10
+T: L\"andler G (tinwhistle in D)
+T:LD05068 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+dB |: "G"G3B dg | "Am"f2e2e2 | "D7"F3A "_c"cf | "G"e2d2d2 | G3B dg | "Am"b2a2a2 | "D7"gf ed ef |1 "G"g2z2dB :|2 "G"g2z2dg || 
+|: "D7".b2!>!a3f | "G".a2!>!g3B | "D7"BA ed "_c"cA | "G"GD GB dg | "D7".b2!>!a3f | "G".a2!>!g3B | "D7"BA ed "_c"cA |1 "G"G2z2dg :|2 "G"G2z2z2 |]  
+X:11
+T: L\"andler G (tinwhistle in D) solo
+T:LD05068 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:G transpose=12
+dB |: "G"G3B dg | "Am"f2e2e2 | "D7"F3A "_c"cf | "G"e2d2d2 | G3B dg | "Am"b2a2a2 | "D7"gf ed ef |1 "G"g2z2dB :|2 "G"g2z2dg || 
+|: "D7".b2!>!a3f | "G".a2!>!g3B | "D7"BA ed "_c"cA | "G"GD GB dg | "D7".b2!>!a3f | "G".a2!>!g3B | "D7"BA ed "_c"cA |1 "G"G2z2dg :|2 "G"G2z2z2 |]  
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 15,2016

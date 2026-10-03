@@ -1,0 +1,78 @@
+
+X:1
+T:Australian Spring
+T:1913
+C:Henry Tate 1873-1926
+O:Australia
+S:National Library of Australia MUS N mba 783.2421599 T216 
+%%score 1 ( 2 3 ) ( 4 5 )
+L:1/8
+M:2/4
+I:linebreak $
+Q:1/4=90
+K:C
+V:1 treble nm="Voice" snm="Vo."
+V:2 treble nm="Right Hand" snm="RH."
+V:3 treble 
+V:4 bass nm="Left Hand" snm="LH."
+V:5 bass 
+V:1
+[I: MIDI=program 42]z2 | z4 | z4 | z4 | z4 | z2 FG | AG GD | F2 z2 |$ z4 | z4 | z4 | z4 | z2 FG | AG DF | E3 E | 
+FG AF |$ E2 E2 | E2 z2 | z2 z E | ^FE F^G | B2 z d | c3 z | z2 z C |$ A>G AG | GF z E | F>E F>E | 
+ED z D | _B>A BA | AG z G | A>A AG |$ F3 F |!f! d3 c | e4 | e4 | z4 | z4 |$ z4 | z4 | z4 | z4 | 
+z4 | z2 FG | AG DE |$ F3 z | z4 | z4 | z4 | z4 | z2 FG | AG DF | E2 EE |$ FG AF | E4 | E3 z | 
+z2 z E | ^FE F^G | B3!f! d | cA FA |$ A3 G | F2 z2 | z2 z C | A>G AG | GF z F | F>E FE |$ ED z D | 
+_B3 A | AG z G | A>_B AG | GF z F | d3 c | [eg]4 |$ e4 | z4 | z4 | z4 | z4 | z4 |$ z4 | z4 | z4 | 
+z4 |] 
+V:2
+z B | c z z a | g z z G | e3 z | z2 cB | AD FG | AG GD | F3 g |$ g3 ^f | a3 g | e3 z | z2 cB | 
+AD FG | B,2 z2 | [A,C][A,C] [A,C]E | FG AF |$ ^GB ^ce | [eb]^g eB | GE B,E | ^FE F^G | DD ^G[Bd] | 
+z4 | c3 C |$ A>G AG | GF z E | F>E F>E | ED z D | _B>A =BA | AG z G | A>G AG |$ F3 F | 
+[FGB][FGB] [FGB] z | [EGc][EGc] [EGc][EGc] | [EGc][EGc] [EGc][EGc] | z4 | [B^dab]3 [B,B] |$ z4 | 
+z4 | z4 | [egc'e']4 | z2 cB | AD FG | AG DE |$ F3 g | g3 ^f | a3 g | e3 z | z2 cB | AD FG | 
+AG DF | [A,C][A,C] [A,CE]E |$ FG AF | ^GB ^ce | [eb]^g eB | GE B,E | ^FE F^G | DD ^GB | 
+[CFAc][CFA] [A,CF][CFA] |$ [_B,CE][B,CE] [B,CE] z | [A,C][A,C] [A,C] z | c3!p! C | A>G AG | 
+GF z F | F>E FE |$ ED z D | _B3 A | AG z G | A>_B AG | GF z!ff! F | d3 c | g4 |$ g4 | 
+!ff! [^GBe^g]3 [^c^c'] | [B^dab]3 [B,B] | [^G^B^d^g]4 | [Acfa]4 | [dgbd']4 |$ z z CE | Gc eg | 
+[cegc']2 [cegc']2 | z4 |] 
+V:3
+x2 | x4 | x4 | x4 | x4 | x4 | B,4 | x4 |$ z F F z | x4 | x4 | x4 | x4 | AG DF | E3 z | x4 |$ 
+z2 A2 | ^G4 | ^G3 z | D4 | B2 z2 | !arpeggio![Acf]3 d | x4 |$ x4 | x4 | x4 | x4 | x4 | x4 | x4 |$ 
+x4 | d3 c | e4 | e4 | [E^GBe]3 [c^c'] | x4 |$ [^G^B^d^g]4 | [Acfa]4 | [dgbd']4 | x4 | x4 | x4 | 
+x4 |$ x4 | z F F z | x4 | x4 | x4 | x4 | x4 | E2 z2 |$ x4 | x4 | ^G4 | ^G3 z | D4 | B3 d | x4 |$ 
+A3 G | F3 d | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 | [FGB][FGB] [FGB] z | 
+[Gce][Gce] [Gce][Gce] |$ [Gce][Gce] [Gce][Gce] | x4 | x4 | x4 | x4 | z z z2 |$ [egc'e']4 | x4 | 
+x4 | [cegc']4 |] 
+V:4
+z2 | z4 | z4 | [C,G,C][E,G,C] [E,G,C][E,G,C] | [E,G,C][E,G,C] z2 | [F,G,B,]2 D,2 | G,,2 [F,G,]2 | 
+D,,3 z |$ B,,,3 z | G,,,3 z | C,,3 z | z4 | z4 | G,,2 [B,,F,G,]2 | C,3 z | [D,A,D]4 |$ E,4 | 
+[E,B,E]4 | [^E,B,E]3 z | ^G,4 |[K:treble] E4 | F4 | z [_B,CE] [=B,CE] z |$ 
+[K:bass] z [F,A,D] [F,A,D][F,A,D] | z [F,A,D] [F,A,D][F,A,D] | z [E,^A,] [E,A,][E,A,] | 
+z [F,_B,] [F,B,][F,B,] | z [D,G,_B,] [D,G,B,][D,G,B,] | z [D,G,_B,] [D,G,=B,][D,G,B,] | 
+z [F,G,A,] [F,G,A,][F,G,A,] |$ z [F,A,D] [F,A,D][F,A,D] | z [F,G,B,D] [F,G,B,D] z | 
+z [E,G,C] [E,G,C][E,G,C] | [E,G,C][E,G,C] [E,G,C][E,G,C] | z [B,,E,^G,] [B,,E,G,][B,,E,G,] | 
+z [^D,^F,A,B,] [D,F,A,B,][D,F,A,] |$ z [^B,,^D,^G,^B,] [B,,D,G,B,][B,,D,G,B,] | 
+z [F,A,CF] [F,A,CF][F,A,CF] | z [F,G,B,D] [F,G,B,D][F,G,B,D] | z [E,G,C] [E,G,C][E,G,C] | 
+[E,G,C][E,G,C] [E,G,C] z | [F,G,B,]2 D,2 | G,,2 [F,G,]2 |$ D,,3 z | z4 | B,,,3 z | G,,,3 z | 
+C,,4 | z4 | G,,2 [B,,F,G,]2 | C,3 z |$ [D,A,D]4 | E,4 | [E,-^G,B,E]4 | [E,^G,B,E]3 z | ^G,4 | 
+[K:treble] E4 |[K:bass] [F,,,F,,]2 [F,,F,]2 |$ [C,,C,][C,G,] [C,G,] z | [F,,,F,,]3 z | E,,3 z | 
+z [F,A,D] [F,A,D][F,A,D] | z [F,A,D] [F,A,D][F,A,D] | z [E,A,^C] [E,A,C][E,A,C] |$ 
+z [F,_B,] [F,B,][F,B,] | z [D,G,_B,] [D,G,B,][D,G,B,] | z [D,G,_B,] [D,G,B,][D,G,B,] | 
+z [E,G,A,] [E,G,A,][E,G,A,] | z [F,A,D] [F,A,D][F,A,D] | z [F,G,B,D] [F,G,B,D] z | 
+z [G,CE] [G,CE][G,CE] |$ [G,CE][G,CE] [G,CE][G,CE] | z [B,,E,^G,] [B,,E,G,][B,,E,G,] | 
+[B,,,B,,]4 | [^G,,,^G,,]4 | [=F,,,=F,,]4 | [G,,,G,,]4 |$ E,G, z2 | z4 | z4 | z4 |] 
+V:5
+x2 | x4 | x4 | x4 | x4 | x4 | x4 | z [F,G,B,] [F,G,B,] z |$ z [G,B,] [G,B,] z | 
+z [F,B,D] [F,B,D] z | z [E,G,C] [E,G,C][E,G,C] | [E,G,C][E,G,C] [E,G,C]2 | [F,G,B,]2 D,2 | x4 | 
+x4 | x4 |$ E2 [A,E]2 | x4 | x4 | x4 |[K:treble] x4 | z [A,C] [A,C] z | x4 |$[K:bass] D,,4 | F,,4 | 
+A,,4 | _B,,4 | G,,4 | _B,,4 | ^C,4 |$ D,,4 | [G,,,G,,]4 | [C,,,C,,]4 | C,4 | [E,,E,]4 | 
+[B,,,G,,]4 |$ [^G,,,^G,,]4 | [=F,,,=F,,]4 | [G,,,G,,]4 | [C,,,C,,]4 | x4 | x4 | x4 |$ 
+z [F,G,B,] [F,G,B,] z | z [G,B,] [G,B,] z | z [F,B,D] [F,B,D] z | z [E,G,C] [E,G,C][E,G,C] | 
+z [E,G,C] [E,G,C][E,G,C] | [F,G,B,]2 D,2 | x4 | x4 |$ x4 | E2 [A,E]2 | x4 | x4 | x4 | 
+[K:treble] x4 |[K:bass] x4 |$ x4 | x4 | z [E,G,C] [E,G,C] z | D,,3 z | F,,4 | A,,4 |$ _B,,4 | 
+G,,4 | _B,,3 z | ^C,4 | D,,4 | [G,,,G,,]4 | [E,,,C,,]4 |$ [E,,,C,,]4 | [E,,E,]4 | 
+z [^D,^F,A,B,] [=D,=F,A,][D,F,A,] | z [^B,,^D,^G,^B,] [B,,D,G,B,][B,,D,G,B,] | 
+z [F,A,CF] [F,A,CF][F,A,CF] | z [F,G,B,D] [F,G,B,D][F,G,B,D] |$ [C,,G,,E,]4 | [C,,G,,E,]4 | 
+!arpeggio![C,,G,,E,]2 [C,G,E]2 | [C,,C,]4 |] 
+
+

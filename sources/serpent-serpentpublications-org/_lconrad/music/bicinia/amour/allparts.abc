@@ -1,0 +1,80 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:38. C'est amour qui si rare en la terre se treuve,\\\\Tierce partie.
+T:Superius.
+C:André Pevernage
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+Z: Transcribed by Laura Conrad http://www.laymusic.org
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C
+L:1/4
+N:Original clef, C on first line
+K:F
+z4 F F B2 A A c/ B/ A/ G/ F2 C C C2 C E D4 "A"C2 z c c c > B A
+w:C'est a- mour qui si ra- * * * re en la ter- re se treuv- e, Ne fait qu'un de noz
+F2 z G/ A/ B2 z A/ B/ c2 z B/ c/ d2 c2 B2 A3/2 G// F// G4 "B"F2 F G A2 A B
+w:c{\oe}urs  les ef- fets les ef- fets les ef- fets en sont preu- * * * ve; nous n'a- vons qu'un vou-
+c2 z c2 G G/ A/ B/ c/ d2 z d2 A A/ G/ A/ B/ c2 z A2 A A/ G/ F/ E/ d2 d d d/ c/ B/ A/ G2 z G2 A
+w:loir, qu'un ar- deur, * * * * qu'un de' * * * * sir, que nous peut * * * * ho- nor- rer * * * * d'as- sez
+B c > B A/ G/ A2 B A2 G/ F/ G2 "C"A2 z A G F c c d2 c/ B/ A/ G/ F2 z c c c d c/ B/
+w:dig- ne * * * * lou- an- * * * ge: L'es- prit que se de- vise * * * * * et qui se plaist * * * au chan- * *
+A c B/ A/ G/ A G/ A/ F/ G2 F2 z G A > G ^F F G/ F/ G/ F/ E/ D/ E/ D/ C2 z c d > c =B B c/ B/ c/ B/ A/ G/ A/ G/
+w:* * * * * ge, N'est point touch- \'e d'a- mour * * * * * * * *  N'est point touch- \'e d'a- mour * * * * * * *
+F2 z B2 A c2 B B A2 z G2 ^F A2 G G F2 z c2 =B d2 c c B2 z F2 E G2 F F E2 z G A > G
+w:* mais d'un sal- e plai- sir mais d'un sal- e plai- sir mais d'un sal- e plai- sir mais d'un sal- e plai- sir N'est point tou-
+^F F G/ F/ G/ F/ E/ D/ E/ D/ C2 z c d > c =B B c/ B/ C/ B/ A/ G/ A/ G/ F2 z B2 A c2 B B A2
+w:ch\'e d'a- mour * * * * * * * * N'est point tou- ch\'e d'a- mour * * * * * * * * mais d'un sal- e plai- sir
+z G2 ^F A2 G G F2 z c2 =B d2 c c B2 z F2 E G2 F F E G2 F A G/ A/ B/ G/ A > G F2 E F16 |]
+w:mais d'un sal- e plai- sir mais d'un sal- e plai- sir mais d'un sal- e plai- sir mais d'un sa- le * * * * * * plai- sir.
+
+X:2
+T:38. C'est amour qui si rare en la terre se treuve,\\\\Tierce partie.
+T:Alto.
+C:André Pevernage
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+Z: Transcribed by Laura Conrad http://www.laymusic.org
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C
+L:1/4
+N:Original clef, C on third line
+K:F -8va
+%%MIDI transpose -12
+f f c2 d d B/ c/ d/ e/ f2 F F F2 F F A/ G/ A/ B/ c3 B/ A/ =B2 "A"c4
+w:C'est a- mour qui si ra- * * * * r'en la ter- re se treu- * * * * * * * ve,
+z f f f > e d c2 z d/ e/ f2 z e/ f/ g2 z f/ g/ a a2 g2 f2 e/ d/ e2
+w:Ne fait qu'un de noz c{\oe}urs les ef- fets, les ef- fets les ef- fets en sont preu- * * * 
+"B"f4 F G A2 A B c2 z c2 G G/ A/ B/ c/ d2 z d2 A A/ G/ A/ B/ c2 z d2 d d/ c/ B/ A/ G2
+w:ve: Nous n'a- vons gu'un vou- loir, qu'un ar- deur * * * * qu'un de- sir, * * * * que nous peut * * * *
+g g g/ f/ e/ d/ c2 c2 d e f > e d/ c/ d2 c B4 "C"A4 z d e f B B A2 B/ c/ d/ e/ f4 z f f f g f/ e/
+w:ho- nor- er * * * * d'as- sez di- gne * * * * lou- an- ge:  L'es- prit qui se de- vise * * * * * et qui se plaist * * 
+d f e/ d/ e/ c/ d2 c2 z c d > c =B B c/ B/ c/ B/ A/ G/ A/ G/ F2 z f g > f e e f/ e/ f/ e/ d/ c/ d/ c/ B2
+w:* au chan- * * * * ge, N'est point tou- ch\'e d'a- mour, * * * * * * * * N'est point tou- ch\'e d'a- mour, * * * * * * * * 
+z f2 e g2 f f e2 z d2 ^c _e2 d d c2 z g2 ^f a2 g g f2 z c2 =B d2 c c B2 z c d > c
+w:mais d'un sa- le plai- sir mais d'un sa- le plai- sir mais d'un sa- le plai- sir mais d'un sa- le plai- sir N'est point tou-
+=B B c/ B/ c/ B/ A/ G/ A/ G/ F2 z f g > f e e f/ e/ f/ e/ d/ c/ d/ c/ B2 z f2 e g2 f f e2 z d2 ^c _e2
+w:ch\'e d'a- mour * * * * * * * * n'est point tou- ch\'e d'a- mour * * * * * * * * mais d'un sa- le plai- sir mais d'un sa- 
+d d c2 z g2 ^f a2 g g f2 z c2 =B d2 c c B2 z G2 F A2 G G F16 |]
+w:le plai- sir mais d'un sa- le plai- sir mais d'un sa- le plai- sir mais d'un sa- le plai- sir.

@@ -1,0 +1,85 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walzer  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: Das Repertoire der B\"abi-Musig, Alpnach. S.62-108. S.103 (wz09139) orig. C,F
+T: \"Uberliefert durch Josef B\"abi, Alpnach, 1880
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"e3 | ef^f | g2e | ca>g | "G7"g2f | da>g | "C"g2e | czz | e3 | ef^f | 
+g2e | ca>g | "G7"g2f | Ge>d | "C"czc/c/ | czz :: "C"gc'e | gce | "G7".dba/g/ | 
+f2z | .d!>!b a/g/ | f2z | "C".e!>!c'b/a/ | g2z | gc'e | gce | "G7".d!>!b a/g/ | f2z | 
+.d!>!b a/g/ | f2g | "C"czc/c/ | czz :: [K:F] "F"A3 | AB=B | .c!>!a>b | a2z | "C7".c!>!g>a | g2z | 
+.c!>!e>g | "F"f2z | A3 | AB=B | .ca>b | a2z | "C7".cg>a | g2e | "F"f>ff | fzz :| 
+% Aug 18, 2016 (Raksha Bandhana - Day of Protection of Relations; Full Moon 04:27 EST)
+% wz09139
+X:2
+T:Walzer  GC 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"B3 | Bc^c | d2B | Ge>d | "D7"d2c | Ae>d | "G"d2B | Gzz | B3 | Bc^c | 
+d2B | Ge>d | "D7"d2c | DB>A | "G"GzG/2G/2 | Gzz :: "G"dgB | dGB | "D7".Afe/2d/2 | 
+c2z | .A!>!f e/2d/2 | c2z | "G".B!>!gf/2e/2 | d2z | dgB | dGB | "D7".A!>!f e/2d/2 | c2z | 
+.A!>!f e/2d/2 | c2d | "G"GzG/2G/2 | Gzz :: [K:C] "C"E3 | EF^F | .G!>!e>f | e2z | "G7".G!>!d>e | d2z | 
+.G!>!B>d | "C"c2z | E3 | EF^F | .Ge>f | e2z | "G7".Gd>e | d2B | "C"c>cc | czz :| 
+% wz09139
+X:3
+T: Walzer  CF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"e3 | ef^f | g2e | ca>g | "G7"g2f | da>g | "C"g2e | czz | e3 | ef^f | 
+g2e | ca>g | "G7"g2f | Ge>d | "C"czc/c/ | czz :: "C"gc'e | gce | "G7".dba/g/ | 
+f2z | .d!>!b a/g/ | f2z | "C".e!>!c'b/a/ | g2z | gc'e | gce | "G7".d!>!b a/g/ | f2z | 
+.d!>!b a/g/ | f2g | "C"czc/c/ | czz :: [K:F] "F"A3 | AB=B | .c!>!a>b | a2z | "C7".c!>!g>a | g2z | 
+.c!>!e>g | "F"f2z | A3 | AB=B | .ca>b | a2z | "C7".cg>a | g2e | "F"f>ff | fzz :| 
+% wz09139
+X:4
+T:Walzer  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"B3 | Bc^c | d2B | Ge>d | "D7"d2c | Ae>d | "G"d2B | Gzz | B3 | Bc^c | 
+d2B | Ge>d | "D7"d2c | DB>A | "G"GzG/2G/2 | Gzz :: "G"dgB | dGB | "D7".Afe/2d/2 | 
+c2z | .A!>!f e/2d/2 | c2z | "G".B!>!gf/2e/2 | d2z | dgB | dGB | "D7".A!>!f e/2d/2 | c2z | 
+.A!>!f e/2d/2 | c2d | "G"GzG/2G/2 | Gzz :: [K:C] "C"E3 | EF^F | .G!>!e>f | e2z | "G7".G!>!d>e | d2z | 
+.G!>!B>d | "C"c2z | E3 | EF^F | .Ge>f | e2z | "G7".Gd>e | d2B | "C"c>cc | czz :| 
+% wz09139
+X:5
+T:Walzer A&D (tinwhistle in D)
+T:wz09139 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A %%MIDI gchordon
+"A"c3 | cd^d | e2c | Af>e | "E7"e2d | Bf>e | "A"e2c | Azz | c3 | cd^d | 
+e2c | Af>e | "E7"e2d | Ec>B | "A"AzA/2A/2 | Azz :: "A"eac | eAc | "E7".Bgf/2e/2 | 
+d2z | .B!>!g f/2e/2 | d2z | "A".c!>!ag/2f/2 | e2z | eac | eAc | "E7".B!>!g f/2e/2 | d2z | 
+.B!>!g f/2e/2 | d2e | "A"AzA/2A/2 | Azz :: [K:D] "D"F3 | FG^G | .A!>!f>g | f2z | "A7".A!>!e>f | e2z | 
+.A!>!c>e | "D"d2z | F3 | FG^G | .Af>g | f2z | "A7".Ae>f | e2c | "D"d>dd | dzz :| 
+X:6
+T:Walzer G&D (tinwhistle in D) var. solo
+T:wz09139 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=12
+B3 | B"_c"c^c | d2B | Ge>d | d2"_c"c | Ae>d | d2B | Gzz | B3 | B"_c"c^c | 
+d2B | Ge>d | d2"_c"c | DB>A | GzG/2G/2 | Gzz :: dgB | dGB | .Afe/2d/2 | 
+c2z | .A!>!f e/2d/2 | "_c"c2z | .B!>!gf/2e/2 | d2z | dgB | dGB | .A!>!f e/2d/2 | "_c"c2z | 
+.A!>!f e/2d/2 | "_c"c2d | GzG/2G/2 | Gzz :: [K:D] F3 | FG^G | .A!>!f>g | f2z | .A!>!e>f | e2z | 
+.A!>!c>e | d2z | F3 | FG^G | .Af>g | f2z | .Ae>f | e2c | d>dd | dzz :|
+% Aug 18, 2016 (Raksha Bandhana - Day of Protection of Relations; Full Moon 04:27 EST)

@@ -1,0 +1,60 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Bayerische Polka  FCBb
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.325 (pk02133) orig. F,C,Bb
+T: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+%%partsbox
+P:ABAC
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+=Bc [P:A] |: "F"dcAF dcAF | "C7"EGBe g3f | e2G2 B2AG | "F"FAcf ac=Bc | dcAF dcAF | "C7"EGBe g3f | 
+e2G2 B2AG |1 "F"F2A2 F2=Bc :|2 "F"F2A2 F2Gc [P:B] |: [K:C] "G7"B2G2 g3B | "C"c2ce (a4 | "G7"a)gBd !>!f2ed | !>!"C"c2ed cBAG | 
+"G7"B2G2 g3B | "C"c2ce ("G7"a4 | a)gBd f2ed |1 "C"c2e2 c2Gc :|2 "C"c2e2 c2"_>Teil A"z2 [P:C] |: [K:Bb] ("Bb"d4 d)^cde | 
+f2B2 d2cB | "F7"A2ce a2ec | "Bb"Bcde fgab | (d4 d)^cde | f2B2 d2cB | "F7"ABcd efga | "Bb"b2b2 b2z2 :| 
+% W:Parts: ABAC
+% pk02133  
+
+X:2
+T:Bayerische Polka  CGF 5- (pk02133)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.325 (pk02133) orig. F,C,Bb
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+^FG |: "C"AGEC AGEC | "G7"B,DFB d3c | B2D2 F2ED | "C"CEGc eG^FG | AGEC AGEC | "G7"B,DFB d3c | 
+B2D2 F2ED |1 "C"C2E2 C2^FG :|2 "C"C2E2 C2DG |: [K:G] "D7"F2D2 d3F | "G"G2GB (e4 | "D7"e)dFA !>!c2BA | !>!"G"G2BA GFED | 
+"D7"F2D2 d3F | "G"G2GB ("D7"e4 | e)dFA c2BA |1 "G"G2B2 G2DG :|2 "G"G2B2 G2"_>Teil A"z2 |: [K:F] ("F"A4 A)^GAB | 
+c2F2 A2GF | "C7"E2GB e2BG | "F"FGAB cdef | (A4 A)^GAB | c2F2 A2GF | "C7"EFGA Bcde | "F"f2f2 f2z2 :| 
+W:Parts: ABAC
+% pk02133  
+
+X:3
+T:Bayerische Polka  DA&G (tinwhistle in D) solo
+T:pk02133 (Hanny Christen)
+%%MIDI program 72   % 111 / 74 / 79=whistle
+O:Switzerland
+%abc-charset utf-8
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+^GA |: BAFD BAFD | "_=C"AEGc e3d | c2E2 G2FE | DFAd fA^GA | BAFD BAFD | CEGc e3d | 
+c2E2 G2FE |1 D2F2 D2^GA :|2 D2F2 D2EA |: [K:A] "_#"G2E2 e3"_#"G | A2Ac (f4 | f)e"_#"GB !>!d2cB | !>!A2cB A"_#"GFE | 
+"_#"G2E2 e3G | A2Ac (f4 | f)eGB d2cB |1 A2c2 A2EA :|2 A2c2 A2"_>Teil A"z2 |: [K:G] (B4 B)^AB"_c"c | 
+d2G2 B2AG | F2A"_c"c f2cA | GAB"_c"c defg | (B4 B)^AB"_c"c | d2G2 B2AG | FGAB "_c"cdef | g2g2 g2z2 :| 
+W:Parts: ABAC
+% pk02133  
+% Oct 5, 2016
+

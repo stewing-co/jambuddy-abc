@@ -1,0 +1,57 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walzer CF chords parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.381 (wz05148) orig. C,F-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+R: waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+[P:A] G/ A/B/ | "C"c2d | e2f | a2g | c'zg | "G7"g2f | azd | "C"f2e | g2G | c2d | e2f | 
+a2g | c'3 | "G"b>ag | "D7"a>g^f | "G"g>da | gzz [P:B] |: "G7"f2e | dza | "C"g2f | ezg | "G7"f>ef | 
+GAB |1 "C"c/B/ c/d/ e/f/ | gec :|2  "C"c/e/ g/f/ e/d/ | czc' || [P:C] [K:F] "F"afd | c3 | Acf | "C7"e3 | 
+Geg | "F"f>ef | czc' | afd | c3 | Acf | "C7"e2c' | eb>e | "F"f>ca | fzz |]  
+% June 5, 2016
+X:2
+T: Walzer CF chords
+R: waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+ G/ A/B/ | "C"c2d | e2f | a2g | c'zg | "G7"g2f | azd | "C"f2e | g2G | c2d | e2f | 
+a2g | c'3 | "G"b>ag | "D7"a>g^f | "G"g>da | gzz |: "G7"f2e | dza | "C"g2f | ezg | "G7"f>ef | 
+GAB |1 "C"c/B/ c/d/ e/f/ | gec :|2  "C"c/e/ g/f/ e/d/ | czc' || [K:F] "F"afd | c3 | Acf | "C7"e3 | 
+Geg | "F"f>ef | czc' | afd | c3 | Acf | "C7"e2c' | eb>e | "F"f>ca | fzz |]  
+X:3
+T:Walzer GC 5- chords
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+D/2 E/2F/2 | "G"G2A | B2c | e2d | gzd | "D7"d2c | ezA | "G"c2B | d2D | G2A | B2c | 
+e2d | g3 | "D"f>ed | "A7"e>d^c | "D"d>Ae | dzz |: "D7"c2B | Aze | "G"d2c | Bzd | "D7"c>Bc | 
+DEF |1 "G"G/2F/2 G/2A/2 B/2c/2 | dBG :|2 "G"G/2B/2 d/2c/2 B/2A/2 | Gzg || [K:C] "C"ecA | G3 | EGc | "G7"B3 | 
+DBd | "C"c>Bc | Gzg | ecA | G3 | EGc | "G7"B2g | Bf>B | "C"c>Ge | czz |] 
+X:4
+T: Walzer CF (5letras transposed)
+R: waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+ G/ A/B/ | "C"c2d | e2f | a2g | c'zg | "G7"g2f | azd | "C"f2e | g2G | c2d | e2f | 
+a2g | c'3 | "G"b>ag | "D7"a>g^f | "G"g>da | gzz |: "G7"f2e | dza | "C"g2f | ezg | "G7"f>ef | 
+GAB |1 "C"c/B/ c/d/ e/f/ | gec :|2  "C"c/e/ g/f/ e/d/ | czc' || [K:F] "F"afd | c3 | Acf | "C7"e3 | 
+Geg | "F"f>ef | czc' | afd | c3 | Acf | "C7"e2c' | eb>e | "F"f>ca | fzz |]  
+X:5
+T:Walzer GC (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+D/2 E/2F/2 | "G"G2A | B2c | e2d | gzd | "D7"d2c | ezA | "G"c2B | d2D | G2A | B2c | 
+e2d | g3 | "D"f>ed | "A7"e>d^c | "D"d>Ae | dzz |: "D7"c2B | Aze | "G"d2c | Bzd | "D7"c>Bc | 
+DEF |1 "G"G/2F/2 G/2A/2 B/2c/2 | dBG :|2 "G"G/2B/2 d/2c/2 B/2A/2 | Gzg || [K:C] "C"ecA | G3 | EGc | "G7"B3 | 
+DBd | "C"c>Bc | Gzg | ecA | G3 | EGc | "G7"B2g | Bf>B | "C"c>Ge | czz |] 
+
+

@@ -1,0 +1,54 @@
+X: 1
+T: Schottisch F,C,Bb
+T:Hanny Christen. Bd.IX Uri II, Schwyz, Unterwalden I. S.203 (st10738) orig. F,C,Bb-Dur
+M:2/4
+L:1/16
+K:F 
+"F"agfe "C7"gfed | "F"d2c2 Acfa | "C7"b2e2 cegb | "F"a2f2 c=Bcf | agfe "C7"gfed | "F"d2c2 Acfa | "C7"d'2e2 c'2e2 | "F"f2a2 f2z2 :: [K:C] 
+"C"c2Gc eGce | g2eg agfe | "G7"d2Bd gfed | "C"cegc' egce | c2Gc eGce |  g2eg agfe | "G7"d2Bd gfed | 
+"C"c2e2 c2z2 :: [K:Bb] "Bb"B6 df | B6 df | B2df B2df | g2g2 f4 | "F7"A2cf A2cf | g2g2 f4 | "Bb"B2df B2df | 
+g2g2 f4 | B6 df | B6 df | B2df B2df | g2g2 f4 | "F7"f2fg g2a2 | "Bb"b2d2 f4 | "F7"a3f gfec | "Bb"B2df b2 z2 :| 
+
+X: 2
+T: Schottisch F,C,Bb chords
+M:2/4
+L:1/16
+K:F %%MIDI gchordon 
+"F"agfe "C7"gfed | "F"d2c2 Acfa | "C7"b2e2 cegb | "F"a2f2 c=Bcf | agfe "C7"gfed | "F"d2c2 Acfa | "C7"d'2e2 c'2e2 | "F"f2a2 f2z2 :: [K:C] 
+"C"c2Gc eGce | g2eg agfe | "G7"d2Bd gfed | "C"cegc' egce | c2Gc eGce |  g2eg agfe | "G7"d2Bd gfed | 
+"C"c2e2 c2z2 :: [K:Bb] "Bb"B6 df | B6 df | B2df B2df | g2g2 f4 | "F7"A2cf A2cf | g2g2 f4 | "Bb"B2df B2df | 
+g2g2 f4 | B6 df | B6 df | B2df B2df | g2g2 f4 | "F7"f2fg g2a2 | "Bb"b2d2 f4 | "F7"a3f gfec | "Bb"B2df b2 z2 :| 
+
+X:3
+T:Schottisch CGF
+M:2/4
+L:1/16
+K:Cmaj
+"C"edcB "G7"dcBA | "C"A2G2 EGce | "G7"f2B2 GBdf | "C"e2c2 G^FGc | edcB "G7"dcBA | "C"A2G2 EGce | "G7"a2B2 g2B2 | "C"c2e2 c2z2 :: [K:Gmaj] 
+"G"G2DG BDGB | d2Bd edcB | "D7"A2FA dcBA | "G"GBdg BdGB | G2DG BDGB | d2Bd edcB | "D7"A2FA dcBA | 
+"G"G2B2 G2z2 :: [K:Fmaj] "F"F6 Ac | F6 Ac | F2Ac F2Ac | d2d2 c4 | "C7"E2Gc E2Gc | d2d2 c4 | "F"F2Ac F2Ac | 
+d2d2 c4 | F6 Ac | F6 Ac | F2Ac F2Ac | d2d2 c4 | "C7"c2cd d2e2 | "F"f2A2 c4 | "C7"e3c dcBG | "F"F2Ac f2 z2 :| 
+
+X:4
+T:Schottisch CGF chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon 
+"C"edcB "G7"dcBA | "C"A2G2 EGce | "G7"f2B2 GBdf | "C"e2c2 G^FGc | edcB "G7"dcBA | "C"A2G2 EGce | "G7"a2B2 g2B2 | "C"c2e2 c2z2 :: [K:Gmaj] 
+"G"G2DG BDGB | d2Bd edcB | "D7"A2FA dcBA | "G"GBdg BdGB | G2DG BDGB | d2Bd edcB | "D7"A2FA dcBA | 
+"G"G2B2 G2z2 :: [K:Fmaj] "F"F6 Ac | F6 Ac | F2Ac F2Ac | d2d2 c4 | "C7"E2Gc E2Gc | d2d2 c4 | "F"F2Ac F2Ac | 
+d2d2 c4 | F6 Ac | F6 Ac | F2Ac F2Ac | d2d2 c4 | "C7"c2cd d2e2 | "F"f2A2 c4 | "C7"e3c dcBG | "F"F2Ac f2 z2 :| 
+
+X:5
+T:Schottisch CGF Anm
+M:2/4
+L:1/16
+P: ABABC % or ABAC ?
+%%partsbox
+K:Cmaj%%MIDI gchordon 
+[P:A]"C"edcB "G7"dcBA | "C"A2G2 EGce | "G7"f2B2 GBdf | "C"e2c2 G^FGc | \
+edcB "G7"dcBA | "C"A2G2 EGce | "G7"a2B2 g2B2 | "C"c2e2 c2z2 :: [K:Gmaj] 
+ [P:B] "G"G2DG BDGB | d2Bd edc"_ h ="B | "D7""_a"A2"_f#"FA d"_c"cB"_  a ="A | "G"GBdg BdGB | \
+G2DG BDGB | d2Bd edcB | "D7""_a"A2"_f#"FA d"_c"cB"_a"A | 
+"G"G2B2 G2z2 :: [K:Fmaj][P:C] "F"F6 Ac | F6 Ac | F2Ac F2Ac | d2d2 c4 | "C7"E2Gc E2Gc | d2d2 c4 | "F"F2Ac F2Ac | 
+d2d2 c4 | F6 Ac | F6 Ac | F2Ac F2Ac | d2d2 c4 |"" "C7"c2cd d2e2 | "F"f2A2 c4 | "C7""_e"e3"_c"c d"_c"c"_b"B"_ g ="G | "F"F2Ac f2 z2 :| 

@@ -1,0 +1,54 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Klettgauer Galopp  C chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.347 (GL04913) orig. C-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"e>f gc | "G7"e/d/c/"_ ="B/ "C"cG | e>f "Dm"ag | "G7"d^d"C"e2 | e>f gc | "G7"e/d/c/"_ ="B/ "C"cG | "Dm"d>a "C"gc | "G7"e/d/g/B/"C"c2 :: 
+"C"c'g  g/^f/g | c'g g/^f/"_ ="g | "G7"fd d/^c/"_ ="d | "C"ec c/B/c | c'g  g/^f/g | c'g g/^f/g | "G7"fd d/^c/d | "C"ce cz :| 
+
+X:2
+T: Klettgauer Galopp  F -7 chords
+M:2/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+"F"A>B cF | "C7"A/2G/2F/2E/2 "F"FC | A>B "Gm"dc | "C7"G^G"F"A2 | A>B cF | "C7"A/2G/2F/2E/2 "F"FC | "Gm"G>d "F"cF | "C7"A/G/c/E/"F"F2 :: 
+"F"fc c/2=B/2c | fc c/2=B/2c | "C7"BG G/2^F/2G | "F"AF F/2E/2F | fc c/2=B/2c | fc c/2=B/2c | "C7"BG G/^F/"_ ="G | "F"FA Fz :| 
+
+
+X:3
+T: Klettgauer Galopp  G 5- chords
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"B>c dG | "D7"B/2A/2G/2F/2 "G"GD | B>c "Am"ed | "D7"A^A"G"B2 | B>c dG | "D7"B/2A/2G/2F/2 "G"GD | "Am"A>e "G"dG | "D7"B/2A/2d/2F/2"G"G2 :: 
+"G"gd d/2^c/2d | gd d/2^c/2d | "D7"cA A/2^G/2A | "G"BG G/2F/2G | gd d/2^c/2d | gd d/2^c/2d | "D7"cA A/^G/A | "G"GB Gz :| 
+
+X:4
+T: Klettgauer Galopp  Eb (5letras) cf. C
+M:2/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+"Eb"g>a be | "Bb7"g/2f/2e/2d/2 "Eb"eB | g>a "Fm"c'b | "Bb7"f^f"Eb"g2 | g>a be | "Bb7"g/2f/2e/2d/2 "Eb"eB | "Fm"f>c' "Eb"be | "Bb7"g/2f/2b/2d/2"Eb"e2 :: 
+"Eb"e'b b/2=a/2b | e'b b/2=a/2b | "Bb7"af f/2=e/2f | "Eb"ge e/2d/2e | e'b b/2=a/2b | e'b b/2=a/2b | "Bb7"af f/2=e/2f | "Eb"eg ez :| 
+
+X:5
+T: Klettgauer Galopp  Ab (5letras) cf. F
+M:2/4
+L:1/8
+K:Abmaj%%MIDI gchordon
+"Ab"c>d eA | "Eb7"c/2B/2A/2G/2 "Ab"AE | c>d "Bbm"fe | "Eb7"B=B"Ab"c2 | c>d eA | "Eb7"c/2B/2A/2G/2 "Ab"AE | "Bbm"B>f "Ab"eA | "Eb7"c/2B/2e/2G/2"Ab"A2 :: 
+"Ab"ae e/2=d/2e | ae e/2=d/2e | "Eb7"dB B/2=A/2B | "Ab"cA A/2G/2A | ae e/2=d/2e | ae e/2=d/2e | "Eb7"dB B/2=A/2B | "Ab"Ac Az :| 
+
+
+X:6
+T: Klettgauer Galopp  Bb (5letras) cf. G
+M:2/4
+L:1/8
+K:Bbmaj%%MIDI gchordon
+"Bb"d>e fB | "F7"d/2c/2B/2A/2 "Bb"BF | d>e "Cm"gf | "F7"c^c"Bb"d2 | d>e fB | "F7"d/2c/2B/2A/2 "Bb"BF | "Cm"c>g "Bb"fB | "F7"d/2c/2f/2A/2"Bb"B2 :: 
+"Bb"bf f/2=e/2f | bf f/2=e/2f | "F7"ec c/2=B/2c | "Bb"dB B/2A/2B | bf f/2=e/2f | bf f/2=e/2f | "F7"ec c/2=B/2c | "Bb"Bd Bz :| 

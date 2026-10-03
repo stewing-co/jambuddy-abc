@@ -1,0 +1,174 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XV. When David's life by Saul was often sought,
+S:The second Part.
+T:CANTUS. \footnotemark{2}
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on first line
+K:A min
+e2 e e ^G > A B c | B E E2 
+w: When Da- vids life by Saul was of- ten sought, 
+z2 A/ B/ c/ d/ | e A c B/ A/ ^G A A ^G | A4
+w: Da- * * vids life by Saul, by * Saul was of- ten  sought,
+z4 | z2 G3 (G  ^G3/2) ^G/ | A2 _B4 A2 | B A c4 B2 | A A ^G3 ^G A G | E2 F2  E4 
+w: And worlds * of woes, worlds of woes, of woes  did com- passe, com- passe  him a- bout, a- bout
+ z2 SG4 "(1)"c3 c A2 z d B G | z A2 c B3 B ^G A2 ^G |
+N:Original has a barline here, with the dot on the right side
+w: On  dire re- venge he ne- ver, ne- ver  had a thought, a thought
+z2 A4 G4 ^F2 | G3 F E2 D2 E3 E ^F3 ^F G3 
+w: But in his griefes, but in his griefes, his griefes, his griefes, 
+A | ^G > ^G A2 B2 E2 |
+w: Hope still did help him out, 
+z E c3 B A ^G | A6 A2 | HA4 || z2 SG4 c3 c
+w:Hope still did help him, help him out. On dire, etc.
+N:(2)This part doesn't have a repeat marked in the original
+
+X:2
+T:XV. When David's life by Saul was often sought,
+S:The second Part.
+T:ALTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on third line
+K:A min
+z2 E2 E E ^G, > A, B, C ^G, A, > B, C > D E2 F E D2 C B,2
+w: When Da- vids life, Da- * vids life,  by Saul, * by * Saul  was of- ten sought,
+z A,/ A,/ C > C B, E C D E4
+w:Da- vids life by Saul was of- ten sought,
+z E2 D ^C3/2 B,// C// D D E3 E D2
+w: And worlds of * * woes did com- passe him,
+z G E2 "(2)"E E3 E B, B, D2
+N:(2) original has a half note.
+w: And worlds of woes did com- passe him 
+A,2 D2 D C2 B,2
+w:com- passe him a- bout,
+ z2  SE4 F3 F F2
+w: On  dire re- venge 
+z E2 E2 E E2 ^D2 E > E F E E4
+w:he ne- ver, ne- ver  had a thought, a thought,
+z A, B, C D4 D E2 D2 C2
+w: But in his griefes, his griefes, his griefes,
+B,/ A,/ B, B, C4 D2 E2 E2 E6
+w:Hope still * did help, did help him out, 
+z C C > D E F E 
+w: But in his griefes, his griefes, 
+D E3 C F4 E2 HE4 ||  z2  SE4 F3 F
+w:Hope still did help him out. On dire etc.
+
+
+X:3
+T:XV. When David's life by Saul was often sought,
+S:The second Part.
+T:TENOR.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -12
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on fourth line
+K:A min -8v8
+z4 e2 e e ^G > A B c > d e/ d/ c > B A/ A/ A > ^G A B/ B/ A
+w: When Da- vids life by Saul, Da- vids life by Saul was of- ten sought, was * of- ten sought,
+z E E F2 E G/ G/ c > A B2 A/ G/ c4
+w: Da- vids life by Saul was of- ten sought, of- ten sought,
+B2 A G2 ^F G3 ^F/ E/ ^F2 (G2 ^G) A A ^G A c B3 
+w: And worlds * of woes, of * * woes *  did com- passe him a- bout,
+^F G A2 A2 A3 A E -  E
+w: did * com- passe him a- bout, 
+z2  Sc   c2 G A3/2 
+w: * On dire re- venge,
+B/ c c d2
+w: On dire re- venge 
+z B E/ E/ c > B A G A/ G/ ^F2 
+w:he ne- ver had  a  * thought, had a thought,
+z/ E/ c/ c/ d/ c/ B
+w:he ne- ver had a thought
+A3 G2 ^F G2 A/ B/ c2 B2 c G A B E G
+w: But in his griefes, in his * griefes, but in his griefes, his griefes, 
+z4 A3 A/ A/ E4
+w: but in his griefes,
+c3 B/ A/ ^G2 A2 E3 A G2 c > d c3 B A d > d ^c/ B/ H^c4 || z4  Sc   c2 G
+w:Hope still did help him out, Hope still did * help, did help, help him * * out. On dire etc.
+
+X:4
+T:XV. When David's life by Saul was often sought,
+S:The second Part.
+T:BASSUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -24
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:A min bass
+z8 z4 a2 a a  ^c > d e f e4 A4 e2 f2 c3 d e4
+w: When Da- vids life, Da- * vids life by Saul was of- ten sought,
+A2 d4 ^c2 d2 e4 e2 A2 e2 d4 ^c2 d d A4
+w: And worlds of woes, worlds of woes did com- passe him a- bout,
+ z4  Sc4 f3 f d2 z e c2 A2 B3 A e2
+w: On dire re- venge he ne- ver had a thought,
+z e ^c2 ^c2 d8 G c B d G2
+w: But in his griefes, but in his * griefes, 
+z g ^g2 a4 d4 ^c > d e4
+w:but in his griefes, his * griefes,
+z4 A4 c3 B A2 d4 A2 HA4 ||  z4  Sc4 f3 f 
+w:Hope still did help, help him out. On dire etc.

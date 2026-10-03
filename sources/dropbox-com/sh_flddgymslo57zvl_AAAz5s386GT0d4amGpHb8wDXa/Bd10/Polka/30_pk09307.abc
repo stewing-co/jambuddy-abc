@@ -1,0 +1,58 @@
+%%MIDI program 21
+X:1
+T:Polka  CGF  (ABAC)
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.179 (pk09307) orig. C,G,F
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+%%partsbox
+P:ABAC
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+[P:A] "C"efg2 c2c'2 | ("G7"bd).d.e f4 | def2 d2b2 | ("C"c'e).e.g g4 | efg2 c2c'2 | "G7"bddef4 | Bcde f2b2 | "C"c'2c'2 c'2z2 :|  [K:G] 
+[P:B] |: "G"dbb2 dgg2 | "D7"g2f2 fed2 | dc'c'2 daa2 | "G"aggb d2d2 |  dbb2 dgg2 |  "D7"g2f2 fed2 |  dc'c'2 dff2 | "G"g2b2 g2"_>Teil A"z2  :|  [K:F]
+[P:C] |: "F"ccc2 f2a2 | "C7"g2c2 c'c'c'2 | g2c2 c'2b2 | "F"agfd c2c2 | ccc2 f2a2 | "C7"g2c2 c'c'c'2 | c'2c'2 c2ag | "F"f2a2 f2z2 :| 
+W: (Parts: ABAC)
+% pk09307
+X:2
+T:Polka  CGF
+%%MIDI program 21
+%%partsbox
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"efg2 c2c'2 | ("G7"bd).d.e f4 | def2 d2b2 | ("C"c'e).e.g g4 | efg2 c2c'2 | "G7"bddef4 | Bcde f2b2 | "C"c'2c'2 c'2z2 :|  [K:G] 
+|: "G"dbb2 dgg2 | "D7"g2f2 fed2 | dc'c'2 daa2 | "G"aggb d2d2 |  dbb2 dgg2 |  "D7"g2f2 fed2 |  dc'c'2 dff2 | "G"g2b2 g2"_>Teil A"z2  :|  [K:F]
+|: "F"ccc2 f2a2 | "C7"g2c2 c'c'c'2 | g2c2 c'2b2 | "F"agfd c2c2 | ccc2 f2a2 | "C7"g2c2 c'c'c'2 | c'2c'2 c2ag | "F"f2a2 f2z2 :| 
+W: Parts: ABAC
+% pk09307
+X:3
+T:Polka  CGF (5letras transposed)
+%%MIDI program 21
+%%partsbox
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"efg2 c2c'2 | ("G7"bd).d.e f4 | def2 d2b2 | ("C"c'e).e.g g4 | efg2 c2c'2 | "G7"bddef4 | Bcde f2b2 | "C"c'2c'2 c'2z2 :|  [K:G] 
+|: "G"dbb2 dgg2 | "D7"g2f2 fed2 | dc'c'2 daa2 | "G"aggb d2d2 |  dbb2 dgg2 |  "D7"g2f2 fed2 |  dc'c'2 dff2 | "G"g2b2 g2"_>Teil A"z2  :|  [K:F]
+|: "F"ccc2 f2a2 | "C7"g2c2 c'c'c'2 | g2c2 c'2b2 | "F"agfd c2c2 | ccc2 f2a2 | "C7"g2c2 c'c'c'2 | c'2c'2 c2ag | "F"f2a2 f2z2 :| 
+W: Parts: ABAC
+% pk09307
+X:4
+T:Polka DA&G (tinwhistle in D) solo
+T:pk09307 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+"D"FGA2 D2d2 | ("A7"cE).E.F G4 | EFG2 E2c2 | ("D"dF).F.A A4 | FGA2 D2d2 | "A7"cEEFG4 | CDEF G2c2 | "D"d2d2 d2z2 :| [K:A] 
+|: "A"Ecc2 EAA2 | "E7"A2G2 GFE2 | Edd2 EBB2 | "A"BAAc E2E2 | Ecc2 EAA2 | "E7"A2G2 GFE2 | Edd2 EGG2 | "A"A2c2 A2"_>Teil A"z2 :| [K:G]
+|: "G"DDD2 G2B2 | "D7"A2D2 ddd2 | A2D2 d2c2 | "G"BAGE D2D2 | DDD2 G2B2 | "D7"A2D2 ddd2 | d2d2 D2BA | "G"G2B2 G2z2 :| 
+W:Parts: ABAC
+% pk09307
+% Sep. 9, 2016

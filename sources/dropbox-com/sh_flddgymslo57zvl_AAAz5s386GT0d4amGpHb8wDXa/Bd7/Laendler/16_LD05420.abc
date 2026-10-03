@@ -1,0 +1,39 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Der alt Meiringer L\"andler FBb  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.287 (LD05420) orig. F,Bb-Dur
+T: T\"anze aus Guggisberg, Sch\"upfen und Plaffeien (Bern) S.257ff
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+cc | "F"ca gf ed | cf ed cA | "C7"Bc eB ce | d3cc2 | Bc eB ce | d3cc2 | "F"Ac fA cf | d3cc2 | 
+ca gf ed | cf ed cA | "C7"Bc eB ce | d3cc2 | Bc eB ce | c'4e2 | "F"f2 ef ag | f2z2gf || 
+"C7"e2d'3c' | .b2.a2.g2 | "F"f3cA2 | Ac fA cf | "C7"e3dB2 | Bc eB ce | "F"f3cA2 | z2g2f2 | 
+"C7"e2d'3c' | .b2.a2.g2 | "F"f3cA2 | Ac fA cf | "C7"e3dB2 | dc =Bc de | "F"f2c2a2 | f2z2df | [K:Bb]
+|: "Bb".d'2.c'2.b2 | .a2.g2.f2 | "F7"fa af af | e3b ag | fa af af | e3b ag | "Bb"fb bf bf | d4df | 
+.d'2.c'2.b2 | .a2.g2.f2 | "F7"fa af af | e3b ag | fa +>+a3g | fg fe dc | "Bb"B2d2f2 | b2z2z2 :| 
+
+X:2
+T:Der alt Meiringer L\"andler CF 5- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+GG | "C"Ge dc BA | Gc BA GE | "G7"FG BF GB | A3GG2 | FG BF GB | A3GG2 | "C"EG cE Gc | A3GG2 | 
+Ge dc BA | Gc BA GE | "G7"FG BF GB | A3GG2 | FG BF GB | g4B2 | "C"c2 Bc ed | c2z2dc || 
+"G7"B2a3g | .f2.e2.d2 | "C"c3GE2 | EG cE Gc | "G7"B3AF2 | FG BF GB | "C"c3GE2 | z2d2c2 | 
+"G7"B2a3g | .f2.e2.d2 | "C"c3GE2 | EG cE Gc | "G7"B3AF2 | AG ^FG AB | "C"c2G2e2 | c2z2Ac | [K:Fmaj]
+|: "F".a2.g2.f2 | .e2.d2.c2 | "C7"ce ec ec | B3f ed | ce ec ec | B3f ed | "F"cf fc fc | A4Ac | 
+.a2.g2.f2 | .e2.d2.c2 | "C7"ce ec ec | B3f ed | ce !>!e3d | cd cB AG | "F"F2A2c2 | f2z2z2 :| 
+
+X:3
+T:Der alt Meiringer L\"andler CF 5- chords Anm
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+GG | "C"Ge dc BA | Gc BA G"_ ="E | "G7""_f"FG "_h"B"_f"F G"_h"B | "_a"A3GG2 | FG BF GB | A3GG2 | "C"EG cE Gc | A3GG2 | 
+Ge dc BA | Gc BA G"_ ="E | "G7"FG BF GB | A3GG2 | FG BF GB | g4"_ ="B2 | "C"c2 Bc ed | c2z2d"_ ="c || 
+"G7""_h"B2"_a"a3g | "_f".f2.e2"_d".d2 | "C"c3GE2 | EG cE G"_ ="c | "G7""_h"B3"_a"A"_f"F2 | FG "_h"B"_f"F G"_ h ="B | "C"c3GE2 | z2d2c2 | 
+"G7"B2a3g | .f2.e2.d2 | "C"c3GE2 | EG cE G"_ ="c | "G7""_h"B3"_a"A"_f"F2 | AG ^FG A"_ ="B | "C"c2G2e2 | c2z2Ac | [K:Fmaj]
+|: "F".a2.g2.f2 | .e2.d2.c2 | "C7"ce ec ec | "_b"B3f ed | ce ec ec | "_b"B3f ed | "F"cf fc fc | A4Ac | 
+.a2.g2.f2 | .e2.d2.c2 | "C7"ce ec ec | "_b"B3f ed | ce !>!e3d | cd c"_b"B AG | "F"F2A2c2 | f2z2z2 :| 

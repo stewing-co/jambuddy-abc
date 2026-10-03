@@ -1,0 +1,78 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Mazurka  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: Das Repertoire der B\"abi-Musig, Alpnach. S.62-108. S.104 (mz09144) orig. C,F
+T: \"Uberliefert durch Josef B\"abi, Alpnach, 1880
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c'2e2e2 | "G7"d>^c d>ef2 | a2B2B2 | "C"c>B c>eg2 | c'2e2e2 | "Dm/F"d>^c d>ef2 | "G7"a>g B>a gB | "C"c2c2z2 :| 
+|: "E7"e2c'3b | "Am"c'>b a>^g a2 | "E7"b2c'3b | "Am".b2!>!a4 | "D7"d2e3d | "G"b>a g>^fg2 | "D7"a2b3a | "G"g2^f2"_>Teil A"=f2 :| [K:F]
+|: "F"c'a d'3c' | "Gm"bdb3a | "C7"g2e3d | g2e3d | "F"d2c>BA2 | c'a d'3c' | "Gm"bd b3a | "C7".g2.c'3e | "F"f2f2z2 :| 
+W:Parts: ABAC
+% mz09144
+X:2
+T:Mazurka  GC 5-
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"g2B2B2 | "D7"A>^G A>Bc2 | e2F2F2 | "G"G>F G>Bd2 | g2B2B2 | "Am/C"A>^G A>Bc2 | "D7"e>d F>e dF | "G"G2G2z2 :| 
+|: "B7"B2g3f | "Em"g>f e>^d e2 | "B7"f2g3f | "Em".f2!>!e4 | "A7"A2B3A | "D"f>e d>^cd2 | "A7"e2f3e | "D"d2^c2"_>Teil A"=c2 :| [K:C]
+|: "C"ge a3g | "Dm"fAf3e | "G7"d2B3A | d2B3A | "C"A2G>FE2 | ge a3g | "Dm"fA f3e | "G7".d2.g3B | "C"c2c2z2 :| 
+W:Parts: ABAC
+% mz09144
+X:3
+T:Mazurka  CF (5letras transposed)
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"c'2e2e2 | "G7"d>^c d>ef2 | a2B2B2 | "C"c>B c>eg2 | c'2e2e2 | "Dm/F"d>^c d>ef2 | "G7"a>g B>a gB | "C"c2c2z2 :| 
+|: "E7"e2c'3b | "Am"c'>b a>^g a2 | "E7"b2c'3b | "Am".b2!>!a4 | "D7"d2e3d | "G"b>a g>^fg2 | "D7"a2b3a | "G"g2^f2"_>Teil A"=f2 :| [K:F]
+|: "F"c'a d'3c' | "Gm"bdb3a | "C7"g2e3d | g2e3d | "F"d2c>BA2 | c'a d'3c' | "Gm"bd b3a | "C7".g2.c'3e | "F"f2f2z2 :| 
+W:Parts: ABAC
+% mz09144
+X:4
+T:Mazurka  GC (5letras transposed)
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"g2B2B2 | "D7"A>^G A>Bc2 | e2F2F2 | "G"G>F G>Bd2 | g2B2B2 | "Am/C"A>^G A>Bc2 | "D7"e>d F>e dF | "G"G2G2z2 :| 
+|: "B7"B2g3f | "Em"g>f e>^d e2 | "B7"f2g3f | "Em".f2!>!e4 | "A7"A2B3A | "D"f>e d>^cd2 | "A7"e2f3e | "D"d2^c2"_>Teil A"=c2 :| [K:C]
+|: "C"ge a3g | "Dm"fAf3e | "G7"d2B3A | d2B3A | "C"A2G>FE2 | ge a3g | "Dm"fA f3e | "G7".d2.g3B | "C"c2c2z2 :| 
+W:Parts: ABAC
+% mz09144
+X:5
+T:Mazurka D&G (tinwhistle in D)
+T:mz09144 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:marzurka
+M:3/4
+L:1/8
+K:D transpose=3%%MIDI gchordon
+"D"d2F2F2 | "A7"E>^D E>FG2 | B2C2C2 | "D"D>C D>FA2 | d2F2F2 | "Em/G"E>^D E>FG2 | "A7"B>A C>B AC | "D"D2D2z2 :| 
+|: "F#7"F2d3c | "Bm"d>c B>^A B2 | "F#7"c2d3c | "Bm".c2!>!B4 | "E7"E2F3E | "A"c>B A>^GA2 | "E7"B2c3B | "A"A2^G2"_>Teil A"=G2 :| [K:G]
+|: "G"dB e3d | "Am"cEc3B | "D7"A2F3E | A2F3E | "G"E2D>CB,2 | dB e3d | "Am"cE c3B | "D7".A2.d3F | "G"G2G2z2 :| 
+W:Parts: ABAC
+X:6
+T:Mazurka D&G (tinwhistle in D)
+T:mz09144 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:marzurka
+M:3/4
+L:1/8
+K:D transpose=12
+d2F2F2 | E>^D E>FG2 | B2"_=C"C2"_=C"C2 | D>"_=C"C D>FA2 | d2F2F2 | "Em/G"E>^D E>FG2 | B>A "_=C"C>B A"_=C"C | D2D2z2 :| 
+|: "F#7"F2d3c | d>c B>^A B2 | "F#7"c2d3c | .c2!>!B4 | E2F3E | c>B A>^GA2 | B2c3B | A2^G2"_>Teil A"=G2 :| [K:G]
+|: dB e3d | cEc3B | A2F3E | A2F3E | E2D>C"_=B,"B,2 | dB e3d | cE c3B | .A2.d3F | G2G2z2 :|
+W:Parts: ABAC
+% Aug. 19, 2016

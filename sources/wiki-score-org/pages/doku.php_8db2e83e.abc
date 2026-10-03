@@ -1,0 +1,17 @@
+X:705
+T:N.7 Schottisch do 37
+C:Fonseca, Eduardo da (1863-1938)
+M:C|
+L:1/4
+K:G
+V: 5 clef=bass name="Cello" sname="Vc."
+%%MIDI program 1 1
+%%staves [ 5 ]
+%-----
+z | [D,A,]/z/zD,/C,/B,,/A,,/| G,,D,G,,/!fermata!z/z || (F,,D,)(D,,D,) | (G,,D,G,) z | \
+(^D,B,)(B,,B,) | E,B,,E,z | C,zA,,z| \
+D,zz2|D,,D,D,D,| G,D,G,,z| (^C,A,)(A,,A,) | (D,A,D)z |  (^A,,F,)(F,,F,) | (B,,F,B,)z | \
+(G,,D,G,)z| A,,A,Dz | E,A,A,,A,| D,B,Dz| ^C,A,A,,A, | D,A,D,z|  ^A,,F, F,,F, | B,,F,B,z| \
+G,,D,G,z| A,,B,Dz| E,A,A,,A,| D,A,,D,,z|| \
+F,,D,D,,D,| G,,D,G,z| ^D,B,B,,B, | E,B,,E,,z| C,zA,,z| D,zz2| D,,D, D,,D, | G,,D,G,,/z/ |] \
+%-----

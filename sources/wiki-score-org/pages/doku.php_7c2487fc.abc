@@ -1,0 +1,95 @@
+X:1824
+T:Scena 4.a
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 24 clef=alto1 name="Antandro" sname="Ant."
+%%MIDI program 1 1
+%%staves [[ 24 ]]
+%--------------------------------
+% fol.24 of the libretto
+[L:1/8] Z5 | z4 _B B B B/ c/ | d/ d/ d/ d/ f d/ d/ =B2 B B/ c/ | d d z \
+w: Ah non a-vrei gia-mai, prin-ci-pes-sa cru-del, tan-ta in-cos-tan-za
+G d d d > _e | c2 c c/ _B/ B/ B/ B/ B/  B  B/ c/ | d d z \
+w: cre-du-ta'nel tu-o cor! come po-tes-ti de-gli'a-man-ti il pi\`u fi-do
+f f > _A A > =B | G2 z2
+w: ab-ban-do-nar co-s\`i?
+_B2 B _e | _e/ _B/ B/ B/ B c/ _d/ c c _B B/ c/ | A A z \
+w: quan-to fi-no-ra il gior-no sos-pi-rai di ri-ve--der-ti!
+A c > c c > d | _B B z6 | \
+w: e qual ti tro-vo or mai!
+z2 "^(2)" z _B e B _A B | G/ G/ G/ G/ G G/ _A/ _B2 B c/ _d/ | _d G G _B/ c/ | _A z/ \
+% fol.25 of the libretto
+w: s\`o, che'in mez-zo all'ar-mi, sot-to qua-lun-que ciel sem-pre'Eu-ri-di-ce por-tai nel cor:
+c/ c/ c/ c/ B/ =A A z \
+w: che'il mio pen-si\`er pi\`u dol-ce
+A/ _B/ | c2 c d _B2 z/ \
+w: Eu-ri-di-ce fu'o-gnor;
+B/ B/ A/ | A/ A/ A/ A/ A A/ _B/ ^c c c d/ e/ | e G G G/ A/ F F F z | "^(3)"\
+w: che o-gnor chia-mai al-la pie-t\`a de Nu-mi di con-ser-var--la a me cos-tan-te,
+z2 z/ d/ B/ A/ ^G G e e/ B/ | c c z/ \
+w: E che di-rai? for--se, che m'a-mi?
+c/ c/ d/ _B/ B/ G/ B/ B B/ c/ | A A A > _B c c z \
+w: per-ch\`e ta-cer-lo'in fa-cci-a'del mio ri-val? Trop-po sos-peet-ti
+c | _e e e f d d z2 "^(3)"| Z "^Segue" || [Q:"Allegro assai"] [K:Bb] Z2 | \
+w: or so-no'i det-ti tu-oi.
+z4 d2 c d | _B B z2 z4 | z8 | \
+w: Pur trop-po, oh Dio!
+z B B/ B/ B/ c/ d2 d _e/ f/ | f _A z \
+w: in-ten-de-re mi fe la va-cil-lan-te
+F A A A B | G G z \
+w: con-fu-sa tua fa-vel-la,
+B/ B/ e2 e c | [Q:"Andante"] =A2 z2 z \
+w: ch'Eu-ri-di-ce cru-del,
+A A B | B F z2 z4 "Rondo" || [M:2/4] [K:G] [Q:"Larghetto"] Z8 | \
+w: no-n'\`e pi\`u quel-la.
+G>B B>d | dc Bz | d>B e>c | A>c Bz | d d z B | c c z2 | B2>{d}c2 | B>d Az | \
+w: Ah_ se_ quel--la | pi\'u_ non_ sei__ | al-ma in-gra-ta, t'ab-ban-do--no:
+c3B|A A z\
+w: Ma fra tan-ti
+D|d3c|B B z2|Z|z2z\
+w: af-fa-ni mi-ei,
+c/> e/| "^check ms" d/ e/c/A/ G A/>d/ | {c}B2 c> e | d/ e/c/A/ G {c}A|G2z2|\
+w: Ah che mai di me sa-r\`a! di--me ah che mai sa---r\`a! di-me
+B3 d/B/ | A A A> d | ^c c z \
+w: Ah se_ quel-la pi\'u non sei_
+c/> d/ | e/^c/ c/A/ A> G | G F z z | z2 \
+w: al-ma'in-gra--ta_ t'ab-ban-do-no.
+(A/d/) (B/G/) | (A/d/) A/> A/ (A/d/) (B/G/) | (A/d/) A d> =c|B> B A> [^ce] | fd (d/=c/) (B/c/) | B/{e}d/{c}B/ {A}G/ FE|D2z  \
+w: Ma_ fra_ tan--ti af-fa--ni_ mi--ei, ah che mai sa-r\`a! di-me_ ah_ che_ mai_ sa--r\`a! di-me
+d/> e/ | c c z !fermata!d/> B/ | A !fermata!A z2 || \
+w: al-ma'in-gra-ta t'ab-ban-do-no.
+[Q:"Allegro"] [M:C] [L:1/4] Z2 | d3c/B/ | e>ccc|{d}c3B/A/ | GGz2|Z|\
+w: Guar-da, oh Di--o! nel mio sem--bian-te
+d3c/B/| e>ccz|\
+w: il tor_ men--to
+{d}c3B/A/|GGz2|\
+w: del mio_ co-re
+_B3B|B/A//G//Gz\
+w: guar-da'oh Di---o
+G/> G/ | ^c>gg>c| ddz2| Z3| z2\
+w: il tor-men-to del mio co-re
+(3d/c/B/ (3e/c/A/ | G>G A/>B/ c/>d/ | cB (3d/c/B/ (3e/c/A/ | G>G A/>B/ c/>d/ | {c}B2{e}e^d/e/ | {e}d^c/d/ {d}=cB/c/ | {c}B^A/B/ e>e | d(3e/c/A/GA|Gzz2|Z|\
+w: ma__ non__ men-ta un al-ma a-man-te co-----si fie-ra cru--del--t\`a ma non_ men-ta_ un al-ma a-man-te co-si fie---ra cru-del-t\`a
+c3e/c/|(B/d/) (d/=f/)f>B|ccz2|\
+w: Ah se_ quel--la_ pi\'u non se-i
+c3c|(B/d/) (d/=f/)f>B|ccz2|\
+w: al-ma'in-gra--ta_ t'ab-ban-do-no.
+e3d|dc2^c|d3=c|cBz\
+w: Ma fra tan-ti af-fa-ni mi-ei
+G/> d/ | ^c>gg>c|dzz2|Z|z2\
+w: ah che mai sa-r\`a di-me
+(3d/c/B/ (3e/c/A/ | G>G A/>B/c/>d/|{d}cB(3d/c/B/ (3e/c/A/ |\
+w: ma__ non__ men-ta un_ al-ma'a-man-te co-----si
+G>G A/>B/c/>d/ | B z {f}e ^d/e/ | {e}d ^c/d/ {d}=c B/c/ | {c}B A/B/ e>e |
+w:
+d (3e/c/A/G A|d2 c/B/A/G/|e2 C2|g3 e|d3 B|c3 A|g2 e>e|
+w:
+d>B c>A|g2 e>e | d>B c>A | G z3 | Z4 |]
+%----------
+W: --------
+W: (1) In the libretto: "Deggio" instead of "posso".
+W: (2) In the libretto: "Io so" (foi.25).
+W: (3) Some text from the libretto (fol.25) is omitted at this point.
+%------------------------------------------

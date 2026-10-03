@@ -1,0 +1,35 @@
+X:308
+T:Virtu
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:F
+V: 8 clef=treble name="Violino II" sname="Vl.II"
+%%MIDI program 1 40
+%%staves [{ 8 }]
+% -----------------------------------------------------------------------------------------------------
+[Q:"Andante"] z//A//A//A// | A/(c///B///A///G///) F//f//f//f// f/(c///d///e///f///) F//a//a//a// | \
+a/(c///B///A///G///) F//a//f//c// [FAc]2 | z4 | z2 z/>B/B/>B/ | G2_A2| \
+z/>=E/E/>E/ [CFA]2 -| [CFA]4 | z//B//F//D// B,/f///_e///d///c/// B/F///_E///D///C/// B, | \
+F2 =E2 -| E4 -| E2 d2 -| d2 _e2 | z/>[d]/[d]/>[d]/ d2 -| d2 [Ac]2 -| [Ac]2 =B2 -| B2 z =B | \
+[Q:"Allegro"] c z//c//_e//g// c'//c//g///f///_e///d/// c/_e///d///c///B/// | \
+[_E_A]4|[F]4| z//F//B//d// f//d//f///d///c///B/// F z | \
+z2 e2 -| e4| d2-d2 | _e2 d2 | z4 | zedz || \
+[M:3/8][Q:"Afettuoso"][L:1/8] ab^c| {^c}d2^G| {^G}A2a|gfe|(3a/g/f/ ed | (3a/g/f/ ed | \
+(3a/g/f/ d^g|{^g}a2^c| ddd | ddd | ccc| BBB | BBB| AA^c|dDz| Z3 | \
+zzg | (3c'/c/d/ _ee | "_NB: no flat in ms" (3_e/d/^c/ {c}d2 | (3d'/d/e/ ff | (3f/e/d/ {d}e2 | \
+bag | (3d'/d/d/ dd | (3d'/d/d/ dd | (3d'/b/a/ (3g/f/e/ (3d/e/^c/ | \
+"NB: no sharp in ms" {^c}d3/2e///f///g///a/// b/>d/ | A ^c2 | dAF | !p!DGA | D2z| \
+^CA,C | D3/2D/C/B,/ |  A,A,A, | EEE | FFD | CEC | c2z | F2z | FFF | EGB- | BAG | FcA | F !trill!G2 | \
+F2b | (3a/g/f/ e2 | z/c/f/a/a/c/ | cB/>A/B | z/d/g/=b/b/d/ | dc/=B/c | aaa | ggg | ggg | fff | fez | \
+(3c'/c/c/ cc | (3d/d'/c'/ (3b/a/g/ (3f/g/e/ | \
+{e}f3/2g///a///b///c'/// d'/>f/ | c !trill!e2 | fcA | FB,C | A,FA | GE^C | D2z | DDD | \
+D^CD | DDB,| A,2^c | ddd | ddd | eef | \
+ed^c | dDD | CCC | A,^FD | G/A/ B^F | GB,B,| CCC | B,B,B,| G,EC | \
+Fcz | (3c'/c/d/ _ee | (3e/d/^c/ {c}d2 | (3d'/d/e/ ff | (3f/=e/d/ ee-|ed^c| \
+(3a/g/f/ ed |(3a/g/f/ ed | (3a/g/f/ d^g | {^g}!fermata!a2z| Z2 |\
+!f!ab^c|{^c}d2^G| {^G}A2a|gfe|(3d'/d/d/ dd|(3d'/d/d/ dd| (3d'/b/a/ (3g/f/e/ (3d/e/^c/ | \
+{^c}d3/2e///f///g///a/// b/>d/ | A^c2 | (3d/A/F/ D || \
+z | Z3 | zef | g2z | c2z|  ba/<g/f/<e/ | (3f/e/d/ fg | a2z | d2z | z3 | zg_e | \
+dba | ^gaf  | e^g>a | ea>=b | e=bz | !fermata!z3| Z3 |] \
+%-------------------------------------------------

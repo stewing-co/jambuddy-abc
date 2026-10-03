@@ -1,0 +1,111 @@
+X:211
+T:Gloria
+C:Carvalho, Jo\~ao de Sousa (1745-1798)
+M:C
+L:1/4
+K:G
+V: 11 clef=alto1 name="Soprano" sname="S."
+%%MIDI program 1 1
+%%staves [[ 11 ]]
+%-------------------
+Z21 | \
+d d/ d/ d/B/ B/d/ | g/d/ B z2 | d d/ d/ d/f/ f/d/ | d/A/  d z2 | z B/ d/ d/B/ c/A/ | B d z2 | z B/ d/ d/B/ c/A/ | B/ > d/ d z2 | \
+w: Glo-ri-a in_ ex--cel--sis Glo-ri-a in_ ex--cel--sis in ex-cel--sis-- De-o in ex-cel--sis_ Glo-ri-a
+"^Tutti" c2 e2 | g2 d2 | c c c c | c d z2 | d/> A/ A z2| d/> B/ B z2 | c/B/ A/G/ F/D/ F/A/ | c/B/ A/G/ F A/c/ | B2 A>A | B z1 z2 | Z |\
+w: In ex-cel-sis in ex-cel-sis De-o glo-ri-a glo-ri-a in_ ex_cel_sis_ De-o Glo______ri-a
+"^Soli" z/ (d>d)B/ e/d/ | d/B/ e/d/ d B/d/ | c B z2 |
+w: Glo__ria_ in_ ex--cel-sis_ De-o
+z2 g/d/ d/B/ | B/G/ B z2 | z2 f/d/ d/A/ | A/ F/ A z2| "^Tutti" d2 d2 | d2 d2 | d d d d | \
+w: in_  ex_cel_sis De_o_ glo-ri-a  in ex-cel-sis | |De_o_ glo-ri-a | in ex-cel-sis | in ex-cel-sis |
+^c e d> d | ^c z e/g/ f/d/ | ^c/e/ d e/g/ f/d/ | ^c/e/ d/f/ e ^c | d e/^c/ d e/c/ | d3 ^c | d z z2 | z4 | A/> d/ d z2 | z4 | d d d ^c | d2 d2- | d2 ^c2 | d z1 z2 | \
+w: De-o glo-ri-a in_ ex_cel_sis De_o_ glo___________ri_a | | glo-ri-a |  De-o glo-ri- | a glo- | ri- | a
+Z3 ||
+[Q:"Largetto"] [K: Bb][M: 3/4] z3 | z3 | z3 | \
+"^Soli" z/ d/ f/d/ B/F/ | z/ e/ d/B/ d/B/ | A z z | z3 | z d (e/G/) | G/> F/ F z | z3 | E E E | E z z | z3 | _A G ^F | D z z | z3 | z3 | z3 | \
+w: in te_rra_ in te_rra_ pax | | pax ho_mi-ni-bus | | in te-rra | pax | in te-rra | pax |
+e- e//c// e//c// c//B// B/ | B/ A/ z z | "^Tutti" A> A B/ c/ | B/c//A// G ^F | G z z | ^F z G | ^F F z | A3- | A z z | \
+w: bo__ne_ vol_lun-ta-tis | bo-ne vo-lun- | ta- | tis | pax in | te-rra | pax_ | |
+!fermata!z3 || [Q:"Allegro"] [K:G] [M:C] B4 | A4 | B z z B | c d e d/c/ | B z z2 | c2 e2 | g> g d2 | c c c c/ c/ | B z z> d | d A z d/ c/ | B2 A A | B z z2 | \
+w: Lau- da- | mus Lau- | da__ mus | te | be-ne | di-ci-mus | be-ne-di-ci-mus | te Lau- | da-mus be-ne- | di-ci-mus | te |
+z4 | "^Soli" d> B {d/}c B/A/ | G4- | G3 A/G/ | G z z2 | e> ^c {e/}d c/B/ | A4- | A3 {^c}B/A/ | A z z2 | z z/ d/ d> e | f/e/d/A/ d> e | f d/ d/ d d | d> f d A | z4 | \
+w: a_do__ra_mus_te | a_do_ | ra | _mus | te | glor-ri-fi- | ca_ | _mus glor-ri-fi- | ca__mus | | | | | |
+z4 | "^Tutti" z B B B | B d B B/ B/ | A2 A2 | A B c B | A2 A d | d c B A | B z z \
+w: glo-ri-fi-ca---mus glo-ri-fi-ca----mus glo- | ri-fi-ca-mus | te |
+"^Soli" (e/d/) | d/>c/ B z e/ d/ | d/> c/ B z2 | z4 | z4 | G B2 c/A/ | B d2 e/c/ | B z z2 | \
+w: Lau--da--mus be-ne | di-ci-mus | | | glo-ri-fi--ca----mus |
+"^Tutti" c c/ c/ A2 | B c B2 | A A B d/B/ | A2 A2 | A B A> A | B/ B/ d/ B/ c A | B/ B/ d/ B/ c A | B z z2 | Z2 || \
+w: glo-ri-fi-ca-mus te glo-ri-fi-ca-mus | te glo-ri-fi-ca-mus | te glo-ri-fi-ca-mus | te  glo-ri-fi-ca-mus | te
+[Q:"Andantino"] [K:D] [M:3/4] Z2 | Z100 || \
+[Q:"Allegro"] [K: Bb][M:C] Z26 | "^Solo" B2 d > B | f3 A/ c/ | B B z2 | e3 c/A/ | e> d B z | z/ c/e/g/ f/e/ d/c/ | B B z2 | e3 c/A/ |\
+w: Do-mi-ne | Do-mi-ne | De-us | rex cae_ | les--tis | De-----us | Pa-ter | De-us |
+f> d B z | c2 e2 | g3 B | A//c//B//d// c/ z/ c//_e//d//f// e/ z/ | e> c e/c/ {f/}e/d// c// | B/> B/ B z2 | Z |\
+w: Pa_ter | Pa_ | _ | _ | ____ ter_ om- | ni-po-tens
+B2 d> B | g3 A/ c/ | B B z2 | (B2 B/)c//d//c/ B/ | A/> c/ c z c/ g/ | d2 ^c/d/ A/ B/ | ^F/G/ d2 =F | {F/}=E E z2 | c2 g/e/ c/ B/ | A/c/ c z2 | c2 g/e/ c/B/ |\
+w: Do-mi-ne | Do-mi-ne | Fi-li | u-----ni_ | ge-ni-te u-ni | ge__ni-te | Je__su | Chris-te | Do__mi-ne | De_us | Ag__nus |
+A/c/ c z2 | (f2 f/)=e/ d/c/ | =B B z2 | (g2 g/)e/ c/ B/ | (A A//)c//B//c// A/c/_e/A/ | (B B//)d//c//d// B/d/f/=B/ |  |\
+w: De--i | A---gnus | De-i | Fi---li-us | Pa--------- | --------- |
+(c c//)_e//d//f// c/e/g/^c/ | (d d//)B//c//B// (=e e//)c//d//c// | f//g//f//e// f/ z/ f//g//f//e// f/ z/ | (f2 f/)d/c/=B/ | c c z2 | z4 |\
+w: ____ | ____ | ____ | _____ | ____ |
+z4 | (=e2 e/) e/f/g/ | {g/}f/e//d// c z2 | (=e2 e/) e/f/g/ | {g/}f/ e//d// c z2 | _e> c e> c |\
+w: rex-- ca- | les---tis | u--ni- | ge-ni--te | Ag--nus |
+B e z2 | z2 (f2 | f) =e/d/ ^c/d/ B/G/ | F2 G2 | F z z2 | (B2 B/)G/ =E/ B/ | A c z2 | (=e2 e/)c/ A/e/ | {e//}d d z2 | z2 (f2 | f) =e/d/ ^c/d/ B/A/ | F2 G2 |\
+w: Dei | fi- | ___li_us | Pa- | tris | Do__mi-ne | De-us | a---gnus | De-i | fi- | ----li--us | Pa- |
+F z {c}(B A/ G/) | {d}(c B/ A/) d =e/ e/ | f2 g2 | a g/f/ e/d/c/B/ | A4 | G4 | F z z2 | Z7 |\
+w:  tris Ag-nus | De-i_ fi-li-us | Pa_ | ____ | __ | tris |
+f2 c>B | A/G//F// F z2 | f/> c/ c z2 | (G2 G/)=B/d/f/ | {f/}e d/c/ =B> d | c c z2 | (F2 F/)A/ c/e/ | {e/}d c/B/ A> c | B B z B/ d/ | {c/}B A/B/ B> =E |\
+w: Do-mi-ne | De--us | Do-mi-ne | rex__ ca_ | les-tis De-us | Pa-ter | rex--- ca- | les-tis-- De-us | Pa-ter De-us | Pa---ter om- |
+F/> F/ F z2 | z4 | B2 d> B | f3 A/ c/ | B B z2 | e3 c/A/ | f> d B z | z/ c/e/g/ f/e/ d/c/ | B B z2 | Z | f> d B z | z/ c/e/g/ f/e/ d/c/ |\
+w: ni-po-tens | Do-mi-ne | Do-mi-ne | fi-li | u-ni_ | ge-ni-te | Je-----su | Chris-te | Je--su | Je-----su |
+B B z2| Z | f/> B/ B z2 | {c/}_A A2 A | G/B/ B/e/ e/d/ f/_A/ | {A/}G G z2 | g2 f/e/ d/c/ | f> d B z | A/e/ e2 d | {d/}c c2 B | A> F A/F/c/A/ | e//f//e//d// c e/c/e/c/ |\
+w: Chris-te | Do-mi-ne | de-us Ag-nus | de-i__ | a---gnus | De--i | fi--li-us | fi-li-us | Pa------ | ____ |
+B z/ F/ B/F/d/B/ | f//g//f//e// d f/d/f/d/ | c F//G//F//G// A//B//A//B// c//d//c//d// | e//f//d//e// c//d//B//c// A//B//G//A// F//G//E//F// |\
+w:  _____ | _______ | _____ | ______ |
+D z/ B/ {c//}B/A//B// {c//}B/A//B// | G/B/e/g/ f/e/d/e/ | ^c/d/ z/ B/ {c/}B/A//B// {c/}B/A//B// | (e2 =e2) | (f4 | f4 | (f3/2) =e//f// F) z |  Z | (e2 e/)c/ B/A/ |\
+w: _____ | _____ | ____ | ____ | ____ | ____ | __tris | rex--- ca- |
+f> d B z | (e2 e/)c/ B/A/ | f> d B z | _A> F _A> F | E G z2 | z2 (B2 | B) e/g/ f/e/ d/c/ | B2 c2 | B z z2 | (B2 B/)G/ =E/ B/ | A c z2 | d2 =e2 | f F z2 |\
+w: les--tis | u---ni_ | ge-ni-te | Ag_nus | De-i | fi- | ---li--us | Pa-- | tris | Do---mi-ne | De-us | A-gnus | De-i |
+z2 (B2 | B) e/g/ f/e/ d/c/ | B2 c2 | B z {e/}d c/ B/ | {f/}e d/ e/ {g/}f e/ f/ | g e z2 | z B B B | B2 !fermata! c2 | B z z2 | Z7 |\
+w: fi- | ---li--us | Pa_ | tris Ag-nus | De--i fi-li-us |  Pa-tris | fi-li-us | Pa- | tris |
+[Q:"Largetto non molto"] [K:Eb] [M:C] Z8 | z2 z z/ "^Solo" G/ | c2{^c//} (d d//) d//e// f// | {f//}e//d///c/// c/ z/ G/ _A/>f/ e//d// c//=B// | c/ c/ z z2 | Z4 |\
+w: Qui | to--llis__ pe- | cca---ta pe-cca----ta | mun-di |
+(e e//)d// c//B// {B}A/ A/ z |(f f//)d// B//A// G/B/ (e | e/)_g/ {f/}e/ =A/ B/ B/ z | z4 | z4 | z2 (A A//)F// c//A// |\
+w: mi----se-re-re | mi---se--re_ | ___re no-bis | mi---se- |
+G//e//{f}e//d///e/// {d}c//=B///c///{B}_A//G//  E F | E z A A | B4 | A _d2 d | c c B2 | B z z z/ B/ | e2 {=e}(f f//)d// B// _A// |\
+w: re_________re no- | bis mi-se- | re- | re mi-se- | re-re no- | bis qui | to----llis pe- |
+G/ B/ z/> e/ e//d/c// c//B// B//A// | G/ B/ z/> e/ e//F/c// B//A// G//F// | G//F///E/// E/ z3 | z4 | z2 {f}e/ d// c// B/ B/ | B> B B/ B/ z | z2 g//f// =e//d// c/ c/ |\
+w: cca-ta pe-cca-----ta | mun-di pe-cca-----ta | mun---di | sus-ci-pe de-pre- | ca-ti-o-nem | de--pre--ca-ti- |
+c> f c/ c/ z | z z/ c/ (f2 | (f//)_d//) d/ z/ f//d// d// c// c/ z/ c/ | g//=e//(c/ c//)_d// c// B// A/ c/ z | z4 | z4 | _d/ (d/ d//)f//g//a// g//=e// c/ z |\
+w: o-nem nos-tram | qui se- | --dex ad-- dex-te-ram ad | dex-----te-ram Pa-tris | mi-se----re---re |
+c/ (c/ c//)_e//f//_g// f//_d// B/ z | A A _G (F | F/)=B/ c/ E/ E/ D/ z | z4 | z4 | z2 z z/ g/ | e/ c/ z/ e/ d//=B// (G/ G//)B// d// f// | e/ c/ z z/ c/ A/ F/ |\
+w: mi-se----re---re | mi-se-re_ | ---re no-bis | qui | se-dex ad dex-----te-ram | Pa-tris qui se-dex |
+z z/ c/ g/f/ e/ c/ | =B/ B/ z (c c//)e// g//e// | d/ d/ z =e> e | (f ^f) g/=B/ c/ f//d// | c d c z | z2 B B | A c z _d/ d/ | c c c =B | c !fermata! z z2 |\
+w: ad dex--te-ram | Pa-tris mi---se- | re-re mi-se- | re-----re | no--bis | mi-se- | re-re mi-se- | re-re no-- | bis |
+(_B/A/) (B/A/) B A | G2 G z | z4 | !fermata! z4 ||\
+w: mi--se--re-re | no-bis |
+[Q:"Allegro assai"] "^Canto Solo" z// | Z38 | e3 e/d//c// | (B2 B/) (=B/c/G/) | A A z z/ A/ | f3 {e/}d | {c}B3 A | G B z z/ e/ | e> c {f}e d/ c/ | B/e/ e z g/e/ |\
+w: Quo-ni--- | am-- tu | so-lus tu | so-lus | so-lus | San-ctus tu | so-lus so--lus | San--ctus tu |
+d/f/ e/g/ {g}f (e/ d/) | e/> e/ e z2 | z4 | z4 | z4 | z2 z z/ f/ | (f2 f/)e/ e/ B/ | {B}=A/> A/ A z z/ e/ | (e2 e/)f/ c/ e/ | {e}d/> d/ d z z/ F/ | (B2 B/)d/ f/ d/ |\
+w: so--lus_ so-lus | Do-mi-nus | tu | so---lus al- | ti-ssi-mus tu | so---lus al- | ti-ssi-mus al- | ti---ssi-mus |
+{d}c> e {d}c> e | g {f}e {d}c> B | {B}=A A z z/ c/ | e/d//c// c z/ c/ f/ c/ | {e}d/c//d// B z/ B/e/f/ | (e2 e/)c/g/e/ | {e}d/c//d// B z/ B/d/f/ | (e2 e/)c/g/e/ |\
+w: Je_ | ---su | Chris-te tu | so---lus tu so-lus | San_ | __ | __ | __ |
+d z z B//d//c//e// | d z z d//f//e//g// | f z z2 | (g2 g/)(d/e/=B/) | (c2 c/)e/f/g/ | (f2 f/)(c/d/A/) | (B2 B/)d/e/f/ | (e2 e/)=B/c/G/ | =A> c c> e |\
+w: __ | __ | __ | __ | __ | __ | __ | ___ | ---ctus- |
+e> c {f/}e d/ c/ | B/> B/ B z z/ F/ | (B2 B/)d/ f/_a/ | ^f/g/d/f/ =B/c/ e/c/ | B2 c2 | B z z2 | f3 =A | B/> B/ B z2 | f3 =A | B B z2 |\
+w: So---lus | Do-mi-nus All- | ti---ssi-mus | Je------sus | Chris_ | te | So-lus | Do-mi-nus | So-lus | San-ctus |
+z2 z z/ c/ | d B z z/ g/ | f/> B/ B z2 | Z | (f4 | f4 | f2 f/) f/g/_a/ | g/d/e/=B/ c/G/ e/c/ | B2 c2 | B z e> c | d B e> c | d/> B/ B z2 | f4 | g2 G2 | F4 | c4 |\
+w: tu | So-lus All- | ti-ssi-mus | Je_ | _ | ____ | -------su | Chris- | te So-lus | San-ctus So-lus | Do-mi-nus | Je- | --su | Chris- | _ |
+B z z2 | Z9 | B3 {d/}c/B/ | (d2 d/) d/e/c/ | B B z z/ B/ | (f2 f/)^f/ g/d/ | e e z z/ c/ | (e2 e/)f/ c/e/ | d/> d/ d z f/d/ | c/e/ d/f/ {f/}e d/c/ | B/> B/ B z2 |\
+w: te | Quo-ni- | am-- tu | So-lus tu | So---lus | San-ctus | So---lus | Do-mi-nus tu | So--lus-- So--lus | Do-mi-nus |
+Z | (e2 e/)=B/ c/G/ | _A A z2 | (f2 f/)d/ B/A/ | G/> B/ B z g/e/ | d/f/ e/g/ {g/}f e/ d/ | e/> e/ e z2 | Z | z2 z z/ B/ | e/_d/ d2 d | {d/}c/> c/ c z z/ c/ |\
+w: So---lus | San-ctus | So---lus | Do-mi-nus tu | So--lus-- So--lus | Do-mi-nus | tu | So--lus All | ti-ssi-mus tu |
+f/e/ e2 e | {e/}d/> d/ d z B | c2 d2 | (e/g/) e2 G | {G/}F F z z/ B/ | d/c//B// B z z/ d/ | f/e//d// d z z/ B/ | e e2 B | (c2 c/)e//d// c/d//e// | (f2 f/)g/a/c/ |\
+w: So--lus All | ti-ssi-mus Je- | __ | ----su | Chris-te tu | So---lus tu | So---lus All- | ti-ssi-mus | ____ | ____ |
+(B2 B/)d//c// B/c//d// | (e2 e/)f/g/B/ | (A2 A/)c/f/e/ | d//e//d//c// B/ z/ f//g//f//e// d/ z/ | (e3 =e) | (f3 ^f) | g/d/e/=B/ c/G/ A/F/ | E2 F2 | E z z2|\
+w: ____ | ____ | ____ | ____ | ____ | ____ | -------su | Chris- | te |
+c2 d2 | e B z2 | c2 d2 | e/> B/ B z2 | z2 z z/ g/ | f/d/ B2 A | G/> B/ B z2 | z2 z z/ B/ | e e2 =A | (B4 | B4) | B z (e> =e) | f/c/ g/f/ e f | e z A> F |\
+w: So-lus | San-ctus | So-lus | Do-mi-nus | tu | So--lus All- | ti-ssi-mus | All- | ti-ssi-mus | Je- | _ | su Je- | ---su Chris- | te So-lus |
+G B A> F | G/> B/ B z2 | (e4 | (e/)c/) c z2 | f2 a2 | g f/>e/ d/>c/ B/>A/ | G4 | F4 | E z z2 | Z | (e4 | (e) E F2) | E z z2 | Z8 ||\
+w: San-ctus So-lus | Do-mi-nus | Je- | ---su | Je- | ------su | Chris- | _ | te | Je- | --su Chris- | te |
+[Q:"Andante"] [K:C] [M: 3/4] Z5 | G3 | G3 | G3 | A A A | G/> G/ G z | c3 | c c c | c2 c | c2 c | B B z | Z | c G z | Z | G/ G/ z z | B/ G/ z z | !fermata! z3 ||\
+w: Cum | San- | cto | Cum San-cto | spi-ri-tus | in | glo-ri-a | De-i | De-i | Pa-tris | De-i | Pa-tris | a-mem |
+%-------------------

@@ -1,0 +1,45 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Walzer GDC  (wz07309)
+T:Hanny Christen. Bd.IV  Aargau, Basel I.  S.284 (wz07309) orig. G,D,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"D7"f2d/d/ | ddd | (d3 | d)zz |:("G"dBc) | .db>a | (gBd) | (g2f) | "D7"cAB | .ca>g | (f/e'/)d'>^c' | 
+("G"d'2b) | (dBc) | .db>a | (gBd) | (g2f) | "Am"cAB | .ca>g | "D7"fga | "G"gzz :: [K:D] "D".d.d.d | (d2c) | 
+(c2B) | (B2A) | FB>A | "A7".G.C.E | Gc>B | "D".A.D.F | ddd | (d2c) | (c2B) | (B2A) | FB>A | 
+"A7"Ge>d | cBc | "D"dzz:: [K:G] "D7"(d/f/).c'.c' | (c'2f) | (c'2f) | "G"(b2g) | dz/b/b | "D7"cz/a/a | cz/a/a |  "G"Bz/g/g | 
+"D7"(d/f/).c'.c' | (c'2f) | (c'2f) | "G"(g2d) | "C"ez/g/g | "G"dz/b/b | "D7"c'/c'/c'f |1 "G"gzz :|2 "G"gzg/f/ |: [K:C]  "C"g3 |  c'3 | 
+(e'2e'/)z/ | {/f'}.e'.d'.c' | "G7"b2b | {/c'}(bab) | "C"c'2z | "E7/B"!>!e3 | "Am"e3 | a3 | c'3 | {/d}.c'.b.a | "E7"^g2g | 
+{/a}.^g.^f.g | "Am"a3 | zee | "F"fzf | "G7"zed | "C"dzc | zBA | "G7"AzG | zBA | "C"AzG | zee | 
+"F"fzf | "G7"zed | "C"dzc | zBA | "G7"AzG | zAB | "C"cz/c/c |1 cz g/^f/ :|2 cz"_d.c"z |] 
+ % wz07309
+% June 10, 2017
+
+X:2
+T:Walzer CGF 7-  (wz07309)
+S:Hanny Christen. Bd.IV  Aargau, Basel I.  S.284 (wz07309) orig. G,D,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"G7"B2G/2G/2 | GGG | (G3 | G)zz |:("C"GEF) | .Ge>d | (cEG) | (c2B) | "G7"FDE | .Fd>c | (B/2a/2)g>^f | 
+("C"g2e) | (GEF) | .Ge>d | (cEG) | (c2B) | "Dm"FDE | .Fd>c | "G7"Bcd | "C"czz :: [K:G] "G".G.G.G | (G2F) | 
+(F2E) | (E2D) | B,E>D | "D7".C"*".F.A, | CF>E | "G".D.G,.B, | GGG | (G2F) | (F2E) | (E2D) | B,E>D | 
+"D7"CA>G | FEF | "G"Gzz:: [K:C] "G7"(G/2B/2).f.f | (f2B) | (f2B) | "C"(e2c) | Gz/2e/2e | "G7"Fz/2d/2d | Fz/2d/2d | "C"Ez/2c/2c | 
+"G7"(G/2B/2).f.f | (f2B) | (f2B) | "C"(c2G) | "F"Az/2c/2c | "C"Gz/2e/2e | "G7"f/2f/2fB |1 "C"czz :|2 "C"czc/2B/2 |: [K:F] "F"c3 | f3 | 
+(a2a/2)z/2 | {/b}.a.g.f | "C7"e2e | {/f}(ede) | "F"f2z | "A7/E"!>!A3 | "Dm"A3 | d3 | f3 | {/G}.f.e.d | "A7"^c2c | 
+{/d}.^c.=B.c | "Dm"d3 | zAA | "Bb"BzB | "C7"zAG | "F"GzF | zED | "C7"DzC | zED | "F"DzC | zAA | 
+"Bb"BzB | "C7"zAG | "F"GzF | zED | "C7"DzC | zDE | "F"Fz/2F/2F |1 Fz c/2=B/2 :|2 Fz"_d.c"z |] 
+% wz07309
+% June 10, 2017

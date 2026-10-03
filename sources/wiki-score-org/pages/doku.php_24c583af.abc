@@ -1,0 +1,15 @@
+X:201
+T:Andantino
+C:Pugnani, Gaetano (1731-1798)
+M:3/4
+L:1/4
+K:D
+V: 1 clef=treble name="Corno Primo [in D.]" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 1 )]
+%-----------
+[Q:"Andantino"] Z56 | zz f|f/e/ee|e/f/fz|zfe|dzf| \
+f/e/ee | d/d/dz|zfe|d3|!fermata!A3  |: \
+[Q:"Allegro ma non troppo"] !p!Z4| e2f| | e2f|fzf|fe2:|A3|Azz|A3|Azz|d3-|d3|ezz|d3|zfe|d3|\
+zfe|d3|zfe|d/A/d/A/d/A/|ddd|dzz |]\
+%-----------

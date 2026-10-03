@@ -1,0 +1,95 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Bl\"umchen Wunderhold (Walzer)  CGF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.211 (wz00737) orig. C,G,F-Dur
+T:Walliser T\"anze. S.196-213.\"Uberliefert durch Josef Seewer und Marcel Tschopp, Leuk, 
+T: und Sepp Mutter, Ried/Brigerberg
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"e3 | d2c | G3 | EGc | e2a | g2c | "G7"c3 | 
+B3 | f3 | e2d | "C"c3 | ABc | "G7"G2e | d2B | 
+"C"c3 |1 czG :|2 czd || [K:G] "G"ba/g/ f/e/ | dge | "D7"fzf | f2f/e/ |
+ "D7"dzc' | azf/e/ | "G"dzb | gzd | ba/g/ f/e/ | dge | "D7"aza | 
+a>g f/e/ | "G"deB | dgb | "D7"dzA/B/ | "G"GGc || [K:C] "C"A>cG | zGc | 
+"Dm/F"B>dA | zBA | "G7"Gzb | a2f | "C"e2a |  gGc | A>cG | 
+zGc | "Dm/F"B>dA | zBA | "G7"G2b | a2B | "C"c>cc | ccf || [K:F] 
+"F".a c/a/.a | g/f/ e/f/ g/f/ | "Gm/Bb".e d/^c/.d | z.e.d | "C7"cc'g | g^fg | "F"cag | fef | 
+.a c/a/.a | g/f/ e/f/ g/f/ | "Gm/Bb".ed/^c/.d | z.e.d | "C7"caa | gde | "F"f>ff | fzz |]  
+X:2
+T:Bl\"umchen Wunderhold (Walzer)  CGF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"e3 | d2c | G3 | EGc | e2a | g2c | "G7"c3 | \
+B3 | f3 | e2d | "C"c3 | ABc |
+ "G7"G2e | d2B | \
+"C"c3 |1 czG :|2 czd || [K:G] "G"ba/g/ f/e/ | dge | "D7"fzf | f2f/e/ | 
+ "D7"dzc' | azf/e/ | "G"dzb | gzd | ba/g/ f/e/ | dge | "D7"aza | \
+a>g f/e/ |
+ "G"deB | dgb | "D7"dzA/B/ | "G"GGc || [K:C] "C"A>cG | zGc | \
+"Dm/F"B>dA | zBA | "G7"Gzb |
+ a2f | "C"e2a |  gGc | A>cG | \
+zGc | "Dm/F"B>dA | zBA | "G7"G2b | a2B | "C"c>cc |
+ ccf || [K:F] \
+"F".a c/a/.a | g/f/ e/f/ g/f/ | "Gm/Bb".e d/^c/.d | z.e.d | "C7"cc'g | g^fg | "F"cag |
+ fef | \
+.a c/a/.a | g/f/ e/f/ g/f/ | "Gm/Bb".ed/^c/.d | z.e.d | "C7"caa | gde | "F"f>ff | fzz |]  
+% wz00737
+X:3
+T:Bl\"umchen Wunderhold  DA&G (tinwhistle in D)
+T: wz00737 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+"D"f3 | e2d | A3 | FAd | f2b | a2d | "A7"d3 | \
+c3 | g3 | f2e | "D"d3 | Bcd |
+"A7"A2f | e2c | \
+"D"d3 |1 dzA :|2 dze || [K:A] "A"c'b/2a/2 g/2f/2 | eaf | "E7"gzg | g2g/2f/2 | 
+"E7"ezd' | bzg/2f/2 | "A"ezc' | aze | c'b/2a/2 g/2f/2 | eaf | "E7"bzb | \
+b>a g/2f/2 |
+"A"efc | eac' | "E7"ezB/2c/2 | "A"AAd || [K:D] "D"B>dA | zAd | \
+"Em/G"c>eB | zcB | "A7"Azc' |
+b2g | "D"f2b | aAd | B>dA | \
+zAd | "Em/G"c>eB | zcB | "A7"A2c' | b2c | "D"d>dd |
+ddg || [K:G] \
+"G".b d/2b/2.b | a/2g/2 f/2g/2 a/2g/2 | "Am/C".f e/2^d/2.e | z.f.e | "D7"dd'a | a^ga | "G"dba |
+gfg | \
+.b d/2b/2.b | a/2g/2 f/2g/2 a/2g/2 | "Am/C".fe/2^d/2.e | z.f.e | "D7"dbb | aef | "G"g>gg | gzz |] 
+X:4
+T:Bl\"umchen Wunderhold  DA&G (tinwhistle in D) solo
+T: wz00737 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+f3 | e2d | A3 | FAd | f2b | a2d | d3 | \
+c3 | g3 | f2e | d3 | Bcd |
+A2f | e2c | \
+d3 |1 dzA :|2 dze || [K:A] c'b/2a/2 "_#"g/2f/2 | eaf | "_#"gzg | g2g/2f/2 | 
+ezd' | bz"_#"g/2f/2 | ezc' | aze | c'b/2a/2 "_#"g/2f/2 | eaf | bzb | \
+b>a "_#"g/2f/2 |
+efc | eac' | ezB/2c/2 | AAd || [K:D] B>dA | zAd | \
+c>eB | zcB | Azc' |
+b2g | f2b | aAd | B>dA | \
+zAd | c>eB | zcB | A2c' | b2c | d>dd |
+ddg || [K:G] \
+.b d/2b/2.b | a/2g/2 f/2g/2 a/2g/2 | .f e/2^d/2.e | z.f.e | dd'a | a^ga | dba |
+gfg | \
+.b d/2b/2.b | a/2g/2 f/2g/2 a/2g/2 | .fe/2^d/2.e | z.f.e | dbb | aef | g>gg | gzz |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 24, 2016
+

@@ -1,0 +1,71 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Fasnachts-Rhyl\"ander  BbFEb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.235 (pk00798) orig. Bb,F,Eb-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:Bb %%MIDI gchordon
+"Bb"dB/c/ dB/c/ | dg f>d | "F7"d/c/c/=B/ c>F | "Bb"c/B/A/A/ Bc | dB/c/ dB/c/ | dg fe/d/ | 
+"F7"cf ed/c/ | "Bb"Bd Bz :: [K:F] "F"A/A/A cc | "C7"BBG2 | B/B/B dd | "F"ccA2 | 
+"Bb"ff f/e/e/d/ | "F"cc c/B/B/A/ | "C7"GG BA/G/ | "F"FA F"_>Teil A"z :: [K:Eb] 
+"Eb"g>f e>d | cBB2 | BB B/c/d/e/ | "Bb7"edd2 | f>e d>c | BAA2 | 
+A/d/c A/d/c | "Eb"BBG2 | g>f e>d | cBB2 | BB B/c/d/e/ | 
+"Fm/Ab"dcc2 | c/e/d/e/ f/e/d/c/ | "Eb"c/B/=A/B/ e>G | "Bb7"G/F/=E/F/ cB | "Eb"EG Ez |] 
+W: Parts: ABAC
+W: Rhyl\"ander (Rheinl\"ander)
+X:2
+T:Fasnachts-Rhyl\"ander  CGF (parts: ABAC)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+"C"ec/2d/2 ec/2d/2 | ea g>e | "G7"e/2d/2d/2^c/2 d>G | "C"d/2c/2B/2B/2 cd | ec/2d/2 ec/2d/2 | ea gf/2e/2 | "G7"dg fe/2d/2 | 
+ "C"ce cz :: [K:G] "G"B/2B/2B dd | "D7"ccA2 | c/2c/2c ee | "G"ddB2 | "C"gg g/2f/2f/2e/2 | "G"dd d/2c/2c/2B/2 | "D7"AA cB/2A/2 | 
+ "G"GB G"_>Teil A"z :: [K:C] "C"ec/2d/2 ec/2d/2 | ea g>e | "G7"e/2d/2d/2^c/2 d>G | "C"d/2c/2B/2B/2 cd | ec/2d/2 ec/2d/2 | ea gf/2e/2 | 
+"G7"dg fe/2d/2 | "C"ce cz ::  [K:F] "F"a>g f>e | dcc2 | cc c/2d/2e/2f/2 | "C7"fee2 | g>f e>d | cBB2 | \
+B/2e/2d B/2e/2d |
+ "F"ccA2 | a>g f>e | dcc2 | cc c/2d/2e/2f/2 | \
+"Gm/Bb"edd2 | d/2f/2e/2f/2 g/2f/2e/2d/2 | "F"d/2c/2=B/2c/2 f>A | "C7"A/2G/2^F/2G/2 dc | "F"FA Fz |] 
+% pk00798
+X:3
+T:Fasnachts-Rhyl\"ander  CGF 2+
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"ec/2d/2 ec/2d/2 | ea g>e | "G7"e/2d/2d/2^c/2 d>G | "C"d/2c/2B/2B/2 cd | ec/2d/2 ec/2d/2 | ea gf/2e/2 | \
+"G7"dg fe/2d/2 |
+ "C"ce cz :: [K:G] "G"B/2B/2B dd | "D7"ccA2 | c/2c/2c ee | "G"ddB2 | \
+"C"gg g/2f/2f/2e/2 | "G"dd d/2c/2c/2B/2 | "D7"AA cB/2A/2 |
+ "G"GB G"_>Teil A"z :: [K:F] \
+"F"a>g f>e | dcc2 | cc c/2d/2e/2f/2 | "C7"fee2 | g>f e>d | cBB2 | \
+B/2e/2d B/2e/2d | "F"ccA2 |
+ a>g f>e | dcc2 | cc c/2d/2e/2f/2 | \
+"Gm/Bb"edd2 | d/2f/2e/2f/2 g/2f/2e/2d/2 | "F"d/2c/2=B/2c/2 f>A | "C7"A/2G/2^F/2G/2 dc | "F"FA Fz |] 
+W:Parts: ABAC
+% pk00798
+X:4
+T:Fasnachts-Rhyl\"ander  CGF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"ec/2d/2 ec/2d/2 | ea g>e | "G7"e/2d/2d/2^c/2 d>G | "C"d/2c/2B/2B/2 cd | ec/2d/2 ec/2d/2 | ea gf/2e/2 | \
+"G7"dg fe/2d/2 |
+ "C"ce cz :: [K:G] "G"B/2B/2B dd | "D7"ccA2 | c/2c/2c ee | "G"ddB2 | \
+"C"gg g/2"_#"f/2f/2e/2 | "G"dd d/2c/2c/2B/2 | "D7"AA cB/2A/2 |
+ "G"GB G"_>Teil A"z :: [K:F] \
+"F"a>g f>e | dcc2 | cc c/2d/2e/2f/2 | "C7"fee2 | g>f e>d | cBB2 | \
+B/2e/2d B/2e/2d | "F"ccA2 |
+ a>g f>e | dcc2 | cc c/2d/2e/2f/2 | \
+"Gm/Bb"edd2 | d/2f/2e/2f/2 g/2f/2e/2d/2 | "F"d/2c/2=B/2c/2 f>A | "C7"A/2G/2^F/2G/2 dc | "F"FA Fz |] 
+W:Parts: ABAC
+% pk00798
+% July 3, 2016

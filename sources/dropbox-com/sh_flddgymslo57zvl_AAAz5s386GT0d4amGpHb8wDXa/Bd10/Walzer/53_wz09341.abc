@@ -1,0 +1,67 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Walzer  C
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.195 (wz09341) orig. C
+T: \"Uberliefert durch Lina Krupski-Herger (1946), Lehrer Leuthold (1945), Edy Lussy und Melk Rohrer (1949)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"e^de | age | "G7"g>ff | f3 | fef | bad | "C"a>gg | g3 | e^de | 
+age | "G"g>dd | d3 | "D7"dc'b | ae^f | "G"g>gg |1 g2z :|2 g2g |: "G7"e/d/ d/^c/ d/e/ | 
+f/g/ ba | "C"ag>e | g2e | "G7"ed>G | d2e | "C"dc>E | G2e | "G7"f/e/ d/^c/ d/e/ | 
+f/g/ba | "C"ag>e | g2g | "F#0"c'a^f | "C/G"ag>e | "G7"d/d/dg |1 "C"czg :|2 "C"czz |] 
+% wz09341 (H 335/TN 37)
+X:2
+T:Walzer  G 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"B^AB | edB | "D7"d>cc | c3 | cBc | feA | "G"e>dd | d3 | B^AB | 
+edB | "D"d>AA | A3 | "A7"Agf | eB^c | "D"d>dd |1 d2z :|2 d2d |: "D7"B/2A/2 A/2^G/2 A/2B/2 | 
+c/2d/2 fe | "G"ed>B | d2B | "D7"BA>D | A2B | "G"AG>B, | D2B | "D7"c/2B/2 A/2^G/2 A/2B/2 | 
+c/2d/2fe | "G"ed>B | d2d | "C#0"ge^c | "G/D"ed>B | "D7"A/2A/2Ad |1 "G"Gzd :|2 "G"Gzz |] 
+% wz09341 (H 335/TN 37)
+X:3
+T:Walzer  F 7-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"A^GA | dcA | "C7"c>BB | B3 | BAB | edG | "F"d>cc | c3 | A^GA | 
+dcA | "C"c>GG | G3 | "G7"Gfe | dA=B | "C"c>cc |1 c2z :|2 c2c |: "C7"A/2G/2 G/2^F/2 G/2A/2 | 
+B/2c/2 ed | "F"dc>A | c2A | "C7"AG>C | G2A | "F"GF>A, | C2A | "C7"B/2A/2 G/2^F/2 G/2A/2 | 
+B/2c/2ed | "F"dc>A | c2c | "B0"fd=B | "F/C"dc>A | "C7"G/2G/2Gc |1 "F"Fzc :|2 "F"Fzz |] 
+% wz09341 (H 335/TN 37)
+X:4
+T:Walzer  C (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"e^de | age | "G7"g>ff | f3 | fef | bad | "C"a>gg | g3 | e^de | 
+age | "G"g>dd | d3 | "D7"dc'b | ae^f | "G"g>gg |1 g2z :|2 g2g |: "G7"e/d/ d/^c/ d/e/ | 
+f/g/ ba | "C"ag>e | g2e | "G7"ed>G | d2e | "C"dc>E | G2e | "G7"f/e/ d/^c/ d/e/ | 
+f/g/ba | "C"ag>e | g2g | "F#0"c'a^f | "C/G"ag>e | "G7"d/d/dg |1 "C"czg :|2 "C"czz |] 
+% wz09341 (H 335/TN 37)
+X:5
+T:Walzer A (tinwhistle in D) solo
+T:wz09341 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A transpose=12
+c^Bc | fec | e>dd | d3 | dcd | "_#"gfB | f>ee | e3 | c^Bc | 
+fec | e>BB | B3 | Ba"_#"g | fc^d | e>ee |1 e2z :|2 e2e |: c/2B/2 B/2^A/2 B/2c/2 | 
+d/2e/2 "_#"gf | fe>c | e2c | cB>E | B2c | BA>"_=C"C | E2c | d/2c/2 B/2^A/2 B/2c/2 | 
+d/2e/2"_#"gf | fe>c | e2e | af^d | fe>c | B/2B/2Be |1 Aze :|2 Azz |]
+% wz09341 (H 335/TN 37)
+% Sep 12, 2016

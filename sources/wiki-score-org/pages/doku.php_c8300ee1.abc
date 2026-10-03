@@ -1,0 +1,91 @@
+X:1224
+T:Scena Sesta
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:D
+V: 24 clef=alto1 name="Antandro" sname="Ant."
+%%MIDI program 1 1
+%%staves [[ 24 ]]
+%--------------------
+[Q:Allegro] Z11 | z e/ e/ e d/ e/ | czz2| \
+w: Eu-ri-di-ce'in-fe-del?...
+B B/ B/ ^d/ d/ z | \
+w: Tol-ga-lo'il cie-lo!
+=c c/> c/ c> B | A/ A/ zz2 | Z2 | \
+w: Io di do-lor mor-rei,
+z2 A A/ B/ | c/ c/ z/c// c// c B/ c/ | Azz2 | \
+w: o nel tras-por-to d'un ge-lo-so fu-ror...
+z e g> ^c | d/ d/ z z d/ e/ | =c c/ d/ B !fermata!z || \
+w: ma che ra-gio-no? No, pos-si-bil non \'e...
+[Q:"Andante"] Z3 | z B-B//E//B//d// d/> c/ | B/ B/ "^[Some text omitted from libretto]" z \
+w: Bel----la mi-a spe-me
+d e/ =f/ | e/ e/ z/ \
+w: Oh quan-to ma-i
+e/ e/> e/ "^NB: check ms" e// B//z// B// | ^G/ G/ z \
+w: la lon-ta-nan-za, il tem-po
+d/ d// d// d/> e/ |  =c/ c/ z \
+w: fan-no per l'al-me'a-man-ti
+c/ c/ c/ B// A// | ^d A/ A// ^G// B/ B/ z || \
+w: nel va-gheg-giar-si'al-fin, dol-ci gl'is-tan-ti.
+[Q:"Maestoso"] [K:C] z// | Z5 | z2z !fermata! G | c>[ce] c> B | A G z \
+w: An-dr\'o van-tan-do'o-gno-ra
+d | {e}d {c}B G> A | F E z \
+w:la fiam-ma, che m'ac-cen-de;
+c | {B}A2 z/c/ B/ A/ | (c/>A/) G z \
+w: An-dr\'o van-tan-do'o-gno--ra
+^c | d/A/ f/d/ c>d | ccz2 | Z |\
+w: la fiam--ma-~  che m'ac-cen-de;
+!p!c B/> A/ A A | (d/>B/) G z \
+w: Tu nell'a-mar-mi an-co--ra
+G | A>A B>B | c3 z/ \
+w: A-vrai cos-tan-te'il cor.
+B/ | (3A/^G/A/ (3e/c/A/ G>{B}A | G z !fermata!z2 || \
+w: A-vrai__ cos---tan-te'il cor.
+[Q:"Allegro"] Z2 | z2z G | c>Ge>d | ccz2 | \
+w: Nas-con-di'o fier sos-pet-to,
+dG/> G/ f>e | edz2 | \
+w: l'em-pia cru-del tua fa-ce
+"{check ms}" e/c/ e/ g/ f/d/ B/G/ | cc z \
+w: l'em--pia cru-del-~ tu-a fa-ce:
+c | c>c c>c | c/A/ ^F d>c | cBz \
+w: Ne tur-bi la mia pa--ce la mia pa-ce
+d | g/^f/ e/ d/ c/B/ A/G/ | dzz2 | z2z\
+w: del fa--to il re--o fu-ror
+d | d3c/B/ | {d}c3c|BBz2|Z|\
+w: nas-con-di o fier sos-pet-to
+d3c/> B/ | c3c|cBz2|\
+w: l'em-pia cru-del tua fa-ce
+^c2c>e|g3^c|ddz2|z2z\
+w: l'em-pia cru-del tua fa-ce
+G| G/c/ c/B/ B/e/ e/d/ | d/>B/dz\
+w: ne tur--bi_ la_ mi-a pa--ce
+^d|eez\
+w: del fa-to
+e|d>Bc>A|g2e2|d/B/ g/> d/ d/c/ B/A/ | g2e2|d/B/ g/> d/ d/c/ B/A/ | Gzz2 | Z2 | z2z \
+w: del fa-to'il reo fu-ror del fa--to il re-o fu--ror del fa--to il re-o fu--ror
+G | c3e | {d}c3B|AGz\
+w: an-dr\'o van-tan-do'o-gno-ra
+^c|d3f/d/ | {d}c3B | ccz2 | \
+w: la fiam-ma_ che m'a-cen-de
+A/B/ c/ B/ d/c/ B/A/ | AGz \
+w: tu_ nel-l'a-mar--mi an-co-ra
+G | A/B/ c/B/ d/c/ B/A/ | Gz\
+w: au-rai_ cos--tan--te il cor
+^c2 | d2-d/A/ f/d/ | {e}dc2B|c2z\
+w: au-rai__ cos--tan-te il cor
+E | F>F F>F | FEz2 |\
+w: nas-cen-di o'fier sos-pet-to
+A A/> A/ AA|AGz2|\
+w: l'em-pia cru-del tua fa-ce
+ff/> f/f>f | eez\
+w: l'em-pia cru-del tua fa-ce
+d | e/c/ e/ g/ f/e/ d/c/ | !fermata!g !fermata!G !fermata!z2 | z2z\
+w: nas-con--di o fier_ sos--pet-to
+G | A/B/ c/B/ d/c/ B/A/ | AGz \
+w: ne tur--bi_ la_ mi-a pa-ce
+G | A/B/ c/B/ d/c/ B/A/ | Gz \
+w: del fa--to_ il re-o fu-ror
+_B2 | B/A/ f/d/ {d}cB | e2c2 |  f2 a2  & x2 A2 | B2d2 | g/f/ e/d/ c/B/ A/G/ | f2B2 |  g/f/ e/d/ c/B/ A/G/ | f2g2 | cagG | cagG | czz2 | Z4 |]
+w: del fa-to il_ reo fu-ror del fa-to'il reo fu-ror_ del_ fa--to il reo fu-ror_ del_ fa--to il reo fu-ror il mio fu-ror il mio fu-ror.
+%--------------------

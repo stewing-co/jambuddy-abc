@@ -1,0 +1,69 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Schottisch  FBb (st02067)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.300 (st02067) orig. F,Bb
+T: Graubünden. Gla Genua, Sent. S.299-329. T: Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%partsbox
+P:ABCAB
+R:schottisch
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+ c>f |[P:A] "C7"ee dd | !>!B2B>e | "F"dd cc | !>!A2A>c | ("C7"cB) (Be) | !>!e2B>d | "F"dc cf | 
+!>!c2 c>f | "C7"ee dd | B2B>e | "F"dd cc | A2c>c | "G7"=BB dd | !>!g3!>!f | "C"ef/e/ "G7"de/d/ | 
+"C"c2 (cd) || [P:B]  ("C7"e2g2 | b2) de | "F"f2 .a.f | .c2cf | "C7"e>c c>f | e>c cg | "F"f2 af | 
+c2 (cd) | ("C7"e2g2 | b2) de | "F"f2 af | c2cf  | "Bb"d>d dg | "C7"e>e de | "F"f2"C7"a>g | 
+"F"f2"_Fine"z2 [P:C] |: [K:Bb] ("Bb"d2f2 | g2f2) | d>d c>d | !>!"F7"e3z | (e2f2 |  a2g2) | fc =Bc | 
+"Bb"d3z | (d2f2 | g2f2) | "F"c>c Ac | f3z || [K:F] "C7"e>c de | "F"fg !>!a2 | "C7"ga !>!b2 | 
+{/b}"F"afc2 | "C7"d>c de | "F"fg !>!a2 |1 "C7"ga be | "F"ff fz :|2 "C7"c>c e/c/e/g/ | "F"c'2 "_>Teil A"c>f |] 
+W:
+W:Amerkung H.C.: Gramofon Jon Fontana
+% st02067  (Nov 1, 2016)
+
+X:2
+T:Schottisch  CF 5- (st02067)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.300 (st02067) orig. F,Bb
+S:Graubünden. Gla Genua, Sent. S.299-329. T: Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:schottisch
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G>c | "G7"BB AA | !>!F2F>B | "C"AA GG | !>!E2E>G | ("G7"GF) (FB) | !>!B2F>A | "C"AG Gc | 
+!>!G2 G>c | "G7"BB AA | F2F>B | "C"AA GG | E2G>G | "D7"^FF AA | !>!d3!>!c | "G"Bc/2B/2 "D7"AB/2A/2 | 
+"G"G2 (GA) || ("G7"B2d2 | f2) AB | "C"c2 .e.c | .G2Gc | "G7"B>G G>c | B>G Gd | "C"c2 ec | 
+G2 (GA) | ("G7"B2d2 | f2) AB | "C"c2 ec | G2Gc | "F"A>A Ad | "G7"B>B AB | "C"c2"G7"e>d | 
+"C"c2"_Fine"z2 |: [K:F] ("F"A2c2 | d2c2) | A>A G>A | !>!"C7"B3z | (B2c2 | e2d2) | cG ^FG | 
+"F"A3z | (A2c2 | d2c2) | "C"G>G EG | c3z || [K:C] "G7"B>G AB | "C"cd !>!e2 | "G7"de !>!f2 | 
+{/f}"C"ecG2 | "G7"A>G AB | "C"cd !>!e2 |1 "G7"de fB | "C"cc cz :|2 "G7"G>G B/2G/2B/2d/2 | "C"g2 "_>Teil A"G>c |] 
+W:Parts: ABC-AB
+% st02067  (Nov 1, 2016)
+
+X:3
+T:Schottisch  GC 10- (st02067)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.300 (st02067) orig. F,Bb
+S:Graubünden. Gla Genua, Sent. S.299-329. T: Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:schottisch
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+D>G | "D7"FF EE | !>!C2C>F | "G"EE DD | !>!B,2B,>D | ("D7"DC) (CF) | !>!F2C>E | "G"ED DG | 
+!>!D2 D>G | "D7"FF EE | C2C>F | "G"EE DD | B,2D>D | "A7"^CC EE | !>!A3!>!G | "D"FG/2F/2 "A7"EF/2E/2 | 
+"D"D2 (DE) || ("D7"F2A2 | c2) EF | "G"G2 .B.G | .D2DG | "D7"F>D D>G | F>D DA | "G"G2 BG | 
+D2 (DE) | ("D7"F2A2 | c2) EF | "G"G2 BG | D2DG | "C"E>E EA | "D7"F>F EF | "G"G2"D7"B>A | 
+"G"G2"_Fine"z2 |: [K:C] ("C"E2G2 | A2G2) | E>E D>E | !>!"G7"F3z | (F2G2 | B2A2) | GD ^CD | 
+"C"E3z | (E2G2 | A2G2) | "G"D>D B,D | G3z || [K:G] "D7"F>D EF | "G"GA !>!B2 | "D7"AB !>!c2 | 
+{/c}"G"BGD2 | "D7"E>D EF | "G"GA !>!B2 |1 "D7"AB cF | "G"GG Gz :|2 "D7"D>D F/2D/2F/2A/2 | "G"d2 "_>Teil A"D>G |] 
+W:Parts: ABC-AB
+% st02067  (Nov 1, 2016)
+

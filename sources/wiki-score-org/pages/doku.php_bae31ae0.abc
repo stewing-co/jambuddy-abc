@@ -1,0 +1,47 @@
+X:607
+T:Tantum Ergo
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 7 clef=alto name="Contralto" sname="C."
+%%MIDI program 1 1
+%%staves [[ 7 ]]
+%------------------
+[Q:"Andante"] !p! E2E2| D2 D2 | G3G | B2-A2 | Gzz2 | Z | \
+w:Tan-tum Er-go Sa-cra-men--tum
+!p!CC=B,B, | Z | \
+w: Ve-ne-re-mur
+!p! _B,B,=A,A, | Z | \
+w: Ve-ne-re-mur
+"^cres." ^F3F | Gzz2 | \
+w: cer-nu-i
+!>!G3G | G>GGz | \
+w: Et an-ti-qu-um
+!p!G3G | G2Gz | \
+w: do-cu-men-tum
+!p! GGFF | E>G,G,z | \
+w: No-vo ce-dat ri-tu-i
+!p! EEEE | EEEE | !p! F2A2 | G2 G2 | F3F | Ezz2 | \
+w: Praes-tet fi-des sup-ple-men-tum Sen-su-um de-fe-ctu-i
+!p! AA=AA | G3F | Ez \
+w: Sen-su-um de-fe-ctu-i
+!p! =A2 | G3F | Ezz2 | Z | "^Segue;genitori" !fermata! Z || \
+w: de-fe-ctu-i
+"^Genitori" [Q:"Moderato"][M:2/4] !p! GG | AA | !p! AA | GG | !p! GG | AA | BG | Az | \
+w: Ge-ni-to-ri ge-ni-to que Laus et ju-bi-la-ti-o
+GB | AA | BB | Az |\
+w: Laus et ju-bi-la-ti-o
+!f! FF | FF | !p! FF | F_D | !f! GG | GG | !p! GG | GE | !p! FF | FG | G=B | cz |\
+w: Sa-lus ho-nor vir-tus quo-que Sa-lus ho-nor vir-tus quo-que Sit et be-ne di-cti-o
+!f! AA | !>!A2| A!f! A/ A/ | !>!A2 | A!f! A/ A/ | AA | A>A | Az | Z4 | \
+w: Pro-ce-den-ti ab u-tro-que Com-par sit lau-da-ti-o
+!f! GG | !>!G(F/E/) | !p! D2 | F2 | Ez | Z | z \
+w: Com-par sit lau--da-ti-o
+!p!G | A2 | A2 | F2 | A2 | Gz | Z | z \
+w: A-men A-men A-men
+!p!G | F2 | F2 | D2 | F2 | Ez | Z7 | \
+w: A-men A-men A-men
+!p! E2- | E2 | Ez ||  Z3 | "_finis" !fermata! Z |] \
+w: A--men.
+%------------------

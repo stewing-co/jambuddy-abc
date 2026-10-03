@@ -1,0 +1,21 @@
+X:3712
+T:Scena ultima [Aria Demetrio]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:A
+V: 12 clef=treble name="Violini II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 12 }]
+%----------------
+E4- | E4 || \
+[Q:"Allegro"] F//D//A,//D//  F//D//A,//D// !//! D !//! E | \
+F//D//F//A// F//D//F//A// F//D//F//A// F//D//F//A// | \
+=G//D//G//B// G//D//G//B// G//D//G//B// G//D//G//B// | \
+F//D//F//A// F//D//F//A// F//D//F//A// F//A//F//D// | !//! C !//! D !//! E !//!  !//! C |\
+D//d//e//f// =g//a//b//c'//  d'/d'/c'/b/ | ^a zz2 | z b !fermata! B, z | \
+[Q:"Adagio"] E/B,/E/B,/ !/! [FB,]2 | EB,B,B,/E/ | F2 E z | Z | \
+[Q:"_Adagio a tempo"] G,3 A, | G, (GE) z | z2 z/ > [B^g]/ [Bg] | \
+z2  z/>A/E/>C/ | A,zz2 | z2 z//d//e//f// =g//a//b//c'// | \
+=d' z z/ > [B^g]/ [Bg] | Z | z [B^g] [ca] "_Rondo" z ||
+%---------------

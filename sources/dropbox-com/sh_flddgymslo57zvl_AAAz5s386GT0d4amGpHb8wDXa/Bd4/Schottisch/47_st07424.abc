@@ -1,0 +1,45 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Schottisch. GDC (st07424) ABACD
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.335 (st07424) orig. G,D,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACD
+R:Schottisch
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+[P:A] {/B}"G"dd {/B}dd | {/c}"D7"dd {/c}dd | F/A/c/d/ fe | (T"G"ed)d2 | B/c/e/f/ "G7"ag | {/g}"C"fe e/d/c | "D7"A/c/d/f/ ba | 
+(T"G"ag)g2 :: [P:B] [K:D] {/A}"D"aa "G"b/^a/b | ("D"b/a/).f/.d/ Ag | "A7"fe/c/ A/A/c' | "D"ba/f/ da | {/A}aa "G"b/^a/b | 
+("D"b/a/).f/.d/ Ag | "A7"fe e/d/c/e/ | "D"dd d"_>Teil A"z :: [P:C] [K:C] "C"Gc/e/ gg | aag2 | Gc/e/ gg | "F"bba2 |1 
+"G7"GB/d/ gg | aag2 | c'c'b2 | "C"d'd'c'2 :|2 "F"ad/^c/ d/e/f/g/ | (T"C"ag) .c.e | (T"G7"ed) AB | "C"ce cz || 
+[P:D] |: "Dm/F"A/d/f/a/ "G7"ba | (T"C"gc)  .f.e | (T"G7"gB) ed | "C"ag f/e/d/c/ |  "Dm/F"A/d/f/a/ "G7"ba | (T"C"gc) fe | (T"G7"gB) ed |  "C"ce c"_fine"z :| 
+%W:Parts: ABACD
+% st07424 (C) Mülirad-Verlag 2007
+% Aug 19, 2017
+
+X:2
+T:Schottisch. CGF 7- (st07424)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.335 (st07424) orig. G,D,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+%P:ABACD
+R:Schottisch
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+[P:A] {/E}"C"GG {/E}GG | {/F}"G7"GG {/F}GG | B,/2D/2F/2G/2 BA | ("C"AG)G2 | E/2F/2A/2B/2 "C7"dc | {/c}"F"BA A/2G/2F | "G7"D/2F/2G/2B/2 ed | 
+("C"dc)c2 :: [P:B] [K:G] {/D}"G"dd "C"e/2^d/2e | ("G"e/2d/2).B/2.G/2 Dc | "D7"BA/2F/2 D/2D/2f | "G"ed/2B/2 Gd | {/D}dd "C"e/2^d/2e | 
+("G"e/2d/2).B/2.G/2 Dc | "D7"BA A/2G/2F/2A/2 | "G"GG G"_>Teil A"z :: [P:C] [K:F] "F"CF/2A/2 cc | ddc2 | CF/2A/2 cc | "Bb"eed2 |1 
+"C7"CE/2G/2 cc | ddc2 | ffe2 | "F"ggf2 :|2 "Bb"dG/2^F/2 G/2A/2B/2c/2 | ("F"dc) .F.A | ("C7"AG) DE | "F"FA Fz || 
+[P:D] |: "Gm/Bb"D/2G/2B/2d/2 "C7"ed | ("F"cF) .B.A | ("C7"cE) AG | "F"dc B/2A/2G/2F/2 | "Gm/Bb"D/2G/2B/2d/2 "C7"ed | ("F"cF) BA | ("C7"cE) AG | "F"FA F"_fine"z :| 
+W:Parts: ABACD
+% st07424 (C) Mülirad-Verlag 2007
+% Aug 19, 2017

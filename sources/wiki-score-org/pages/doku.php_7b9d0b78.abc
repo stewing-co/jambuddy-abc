@@ -1,0 +1,45 @@
+X:3811
+T:Rondo [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:E
+V: 11 clef=treble name="Violini I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 11 }]
+%-------------
+[Q:"Andante"] !f! BB/>e/ | g g3/4f///e/// (d/>e/)(d/>e/) | \
+{d}cB z/2{a/}b/4a/8b/8 !p! z/2{a/}b/4a/8b/8 | z/2{a/}b/4a/8b/8 !p! z/2{a/}b/4a/8b/8 \
+!f! B/8E/8G/8B/8 e/8G/8B/8e/8 g/8B/8e/8g/8 b/8g/8e/8G/8 | F/z//B//B,z2 | \
+!f! B2 !p! A/>G/A/>G/ | AG b/z/ b/z/ | b/z z/e-e//(B//G//E//) | \
+F z z//e//e//e// z//e//e//e// | z//e//e//e// z//e//e//e// d e | !fermata! [Bf]2 b/z/ b/z/ | \
+B z z/ g/z/ f/ | e/ z z/ (c//e//d//c//) (B//G//A//F//) | e/ z/ z c/ z/ e/d/ | e/(g/ e) z2 | z4 | \
+z z/ (G/ E) z | z G E z | z A/>G/ F z | z A/>G/ F z | z G/ (g//f//) f2- | (f//f/8g/8) f//f// "_rinf" \
+!//! f !p! f2 | (f//f/8g/8) (f//f// g//f//e//d//) c/z/ g/z/ | \
+f/ z/ e/z/ d/z/ c/z/ | B zz2 | Z | !fermata! [B,F]2 z2 | B2 A/>G/A/>G/ | \
+AG b/z/ b/z/ | b/z/ z e-e//B//A//G// | F z z//e//e//e// z//e//e//e// |z//e//e//e// z//e//e//e// d e | \
+!fermata! f2 b/z/ b/z/ | b/z/ a/z/ g/z/ f/z/ | e/z/ z (c//e//d//c//) (B//G//A//F//) | e/z/ z c/ f/e/d/ | \
+G/8E/8B,/8E/8 G/8E/8B,/8E/8 G/8E/8B,/8E/8 G/8E/8B,/8E/8 A/8F/8D/8F/8 A/8F/8D/8F/8 A/8F/8D/8F/8 A/8F/8D/8F/8 | \
+G/8E/8B,/8E/8 G/8E/8B,/8E/8 G/8B/8e/8g/// e/8d/8c/8B/8 !fermata! ^A2 | \
+!fermata! B2 z2 || \
+[Q:"Allegro"] !f! b/b/ !mordent!b3/4^a/8/b/8 b/b/ b3/4^a/8/b/8 | b/b/ !mordent!b3/4^a/8/b/8 b/b/ b3/4^a/8/b/8 | \
+b/b/ b/!p! z/ B (e | d) z B>A | AG !f! b/b/ b3/4^a/8/b/8 | b/b/ !mordent!b3/4^a/8/b/8 b/b/ b3/4^a/8/b/8 | \
+b/b/b/z/ B e | {e}d (c/B/) B> A | G z c/(f/d/B/) | e/g/ Bcd | e/g/ Bcd | e/g/ B z2 | \
+z/g/g/g/ !mordent! f/>e/f/>g/ | !/! e2 !/! B2 | !/! c2 !/! c2 | B/g/g/g/ !/! g2 | gzfz | \
+e/4E//E//E// !//!E E/4A/4c//B// A/4G/4F/4E/4 | "_[check]" !//! D2 D//G//B//A// G/4F/4E/4D/4 | \
+C//E//E//E// !//! E E//A//c//B// A/4G/4F/4E/4 | !//! D D//B,//A,//B,//!//!CC/4E/4D//C// | \
+B,//E/4E/4E/4 !//! E E/4A/4c//B// A/4G/4F/4E/4 | !//! D2 D//G//B//A// G/4F/4E/4D/4 | \
+C//E//E//E// !//! E E//A//c//B// A/4G/4F/4E/4 | !//! D D//B,//A,//B,//!//!CC/4E/4D//C// | \
+B,/E/4C/4 B,/E/4C/4 B,z | z/c/c/c/ z/ ^B/B/B/ | z/c/c/c/ z/c/c/c/ | z/c/c/c/ z/e/e/e/ | ed c2 | \
+B2 B/A/A/G/ | F/B/B/B/ c/e/d/c/ | c/B/ !p! B (B/A/)(A/G/) | z// !f! B,//C//D// E//F//G//^A// B//c//d//e// f//g//^a//b// | \
+^a4 | !fermata! b2 z2 | !f! b/b/ !mordent!b3/4^a/8/b/8 b/b/ b3/4^a/8/b/8 | \
+b/b/ !mordent!b3/4^a/8/b/8 b/b/ b3/4^a/8/b/8 | \
+b/b/ !mordent!b/z/ Bc | {e}d>{c}B B>A | AG b/b/ !mordent!b3/4^a/8/b/8 | b/b/ b3/4^a/8/b/8 \
+b/b/ !mordent!b3/4^a/8/b/8 | b/b/ !mordent!b/z/ B (g/e/) | {e}d (c/B/) B> A | G z c/(f/d/B/) | e/g/ Bcd | e/g/ Bcd | e/g/ B z2 | \
+g2 f/>e/f/>g/ | e/z/ z z2 | Z7 | \
+z GFA | Gedf | !/!e2 !/! =e2 | c/e/ c/z/ !/!c2 | !/! f4 | !/!e2 !/!d2 | e/B,/E/B,/ F/B,/F/B,/ | \
+G!trem2!B,  F!trem2!B, |  E!trem2!B,  F!trem2!B,  |  G!trem2!B,  F!trem2!B, | Ezz2 | [EG,]z z2 | \
+Ez =Dz | !/!C4 | !/!c4 | !/!c4 | [Be]z z2 | fzz2 | !f! ez gg | a>gff | \
+bb e//g//f//e// b//g//=e//d// | c//^e//f//e// f//g//a//g// a//b//a//g// f//e//d//c// | B-B//e//g//e// b/g//e// b/g//e// |\
+!//!g2 !//! f2 | e[Bg] [EBe][EBe] |  [EBe] z z2  |]
+%-------------

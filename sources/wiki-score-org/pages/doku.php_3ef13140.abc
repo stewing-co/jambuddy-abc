@@ -1,0 +1,19 @@
+X:101
+T:I. Allegro assai
+C:Almeida, Francisco A. de (c.1702-?1755)
+M:2/4
+L:1/4
+K:F
+V: 1 clef=treble name="Oboe Primo" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 1 )]
+%-------------
+[Q:"Allegro assai"] z |fg|az|c'b|ac'|az|eg|ez|fd|gz|gf|ec|e2-|e2|ez|a/>g/f/>e/|d2-|d2|ed|ed|e3/2z//f// | \
+ed|cz/"_trio(?)"e//f//|gf|(e//d//c/)z/ a/|gf|(e//d//c/)z| Z4 | c'2-|c'2|b2-|b2|a2-|a2|g2|fa|az|aa|\
+aa|az|fz|ez| eg|ac'|ac'|a3/2z//b//|ag|f z/"_trio"f//g//| ag|(f//e//d/) z/b/|ag|(f//e//d/) z/d//_e//|f_e| \
+(d//c//B/) z/g/|f_e|(d//c//B/) z/B//c//|dc|(B//A//G/) z/_e/|dc|(B//A//G/) z/e//f//|gf|(e//d//c/) z/a/ | gf|ez| \
+a2-|a2|g2-|g2|f2-|fd|gz|^fz|ga|d^f|g2|_e2-|e2|d2-|d2|c2-|c2|B2-|B2|A2-|A2|Gz|\
+g^f|gz|dc|Bz|fg|az|c'b|ac'|az|eg|ez|fd|gz|gf|ec|e2-|e2|ez|a/>g/f/>e/|d2-|d2|=B2-|B2|Bd|Gz| \
+cc|c/>c/c/>c/|cz|f2|_ed|cB|_e2|dz|g2|f=e|dc|f2|ez|a2|gf|ed|g2|fz|g2|f=e|dc|f2|ez|c'2|ba|gf|b2|az|\
+f_e|dz|Bd|Gz|ee|ez|gg|cz|aa|aa|a3/2z//b//|ag|f3/2 z//B//|AG|Az||[M:C]Z7|] \
+%-------------

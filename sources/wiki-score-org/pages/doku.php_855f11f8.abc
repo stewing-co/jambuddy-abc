@@ -1,0 +1,14 @@
+X:107
+T:[Orchestras]
+C:Giuseppe Totti (17__-1832)
+M:C
+L:1/4
+K:Bb
+V: 7 clef=alto name="Viola" sname="V."
+%%MIDI program 1 41
+%%staves [ 7 ]
+%----- edit between the lines ----
+[Q:"Allegro com spirito"] !f! B>FB>F | BB,B,z | !p! z .E.F.F | !f! B,zB,z | B, zz2 | Z | z2!p! D2 | C3 C | B, z z2 | Z2 | \
+z .C/.C/ (C/E/).E/.E/ | E zz2 | !f! z/F/A/C/ F/C/A,/F,/ | B,B,B,B, | z/F/A/C/ F/C/A,/F,/ | B,B,B,B, | F z \
+!f! (F "_cresc" G | .A) z (F "_cresc" G | .A) (B .c) (B | A) z z2 | \
+%---------------------------------

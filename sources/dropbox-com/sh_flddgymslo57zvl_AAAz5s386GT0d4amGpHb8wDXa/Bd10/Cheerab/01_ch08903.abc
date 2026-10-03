@@ -1,0 +1,59 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Cheerab (Cherab) DGC
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.9 (ch08903) orig. D,G,C-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+A|: "D"d>e fg | a2 fa | "A7"g2 eg | "D"f2 df | "A7"ed cA | "D"d3f | "A7"eA/A/ AA | "D"fd/d/ dd | 
+"A7"eA/A/ AA | "D"fd/d/ dd | "A7"eA/A/ AA | "D"fd/d/ dd | "A7"eA/A/ AA |1 "D"d2zA :|2 "D"d2zD |: [K:G] "G"GG G>D | 
+"D7"FF F>C | "C"EE EG | "G"D3G | GB ed | "D7"F3D | FA ed | "G"G3D | GB gf | "C"e3d  | 
+"D7"f/f/f zF |1 "G"G2zD :|2 "G"G2zA |: [K:D] "A7"A>B AG | "D"FA dB | "A7"c/d/e  e/f/g | "D"faa2 | "A7"a>b ag | "D"fe dB | 
+"A7"c/d/e/f/ gc |1 "D"dd dA :|2 "D"dd dz |: [K:G] "D7"c/B/A g/f/e | "G"e/d/B G/B/d | "D7"e/d/c FA/d/ | "G"e/d/B GB | 
+"D7"c/B/A g/f/e | "G"e/d/B GB/d/ | "D7"e/d/c/e/ dF |1 "G"G3B :|2 "G"G3z || [M:3/4]  "G"d'2 bd gb | "D7"d'2 c'd fa | 
+d'2c'd fa | "G"d'2 bd gb | d'2 bd gb | "D7"d'2 c'd fa | d'2 c'd fa | "G"g2z2z2 :: [K:C] "C"g2 eG ce | "G7"g2 fG Bd | 
+g2 fG Bd | "C"g2 eG ce | g2 eG ce | "G7"g2 fG Bd | g2 fG Bd | "C"c2z2z2 :: [K:G] "D7"d2e2f2 | "G"gd bd gd | 
+"D7"fd c'd fd | "G"gd bdg2 | "D7"d2e2f2 | "G"gd bd gd | "D7"fd c'd ef | "G"g2g2z2 :|
+W: Anm. Hrsg.: Titel HC: Cherab
+% ch08903
+X:2
+T:Cheerab (Cherab) CFBb 2-
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G|: "C"c>d ef | g2 eg | "G7"f2 df | "C"e2 ce | "G7"dc BG | "C"c3e | "G7"dG/2G/2 GG | "C"ec/2c/2 cc | 
+"G7"dG/2G/2 GG | "C"ec/2c/2 cc | "G7"dG/2G/2 GG | "C"ec/2c/2 cc | "G7"dG/2G/2 GG |1 "C"c2zG :|2 "C"c2zC |: [K:F] "F"FF F>C | 
+"C7"EE E>B, | "Bb"DD DF | "F"C3F | FA dc | "C7"E3C | EG dc | "F"F3C | FA fe | "Bb"d3c | 
+"C7"e/2e/2e zE |1 "F"F2zC :|2 "F"F2zG |: [K:C] "G7"G>A GF | "C"EG cA | "G7"B/2c/2d d/2e/2f | "C"egg2 | "G7"g>a gf | "C"ed cA | 
+"G7"B/2c/2d/2e/2 fB |1 "C"cc cG :|2 "C"cc cz |: [K:F] "C7"B/2A/2G f/2e/2d | "F"d/2c/2A F/2A/2c | "C7"d/2c/2B EG/2c/2 | "F"d/2c/2A FA | 
+"C7"B/2A/2G f/2e/2d | "F"d/2c/2A FA/2c/2 | "C7"d/2c/2B/2d/2 cE |1 "F"F3A :|2 "F"F3z || [M:3/4] "F"c'2 ac fa | "C7"c'2 bc eg | 
+c'2bc eg | "F"c'2 ac fa | c'2 ac fa | "C7"c'2 bc eg | c'2 bc eg | "F"f2z2z2 :: [K:Bb] "Bb"f2 dF Bd | "F7"f2 eF Ac | 
+f2 eF Ac | "Bb"f2 dF Bd | f2 dF Bd | "F7"f2 eF Ac | f2 eF Ac | "Bb"B2z2z2 :: [K:F] "C7"c2d2e2 | "F"fc ac fc | 
+"C7"ec bc ec | "F"fc acf2 | "C7"c2d2e2 | "F"fc ac fc | "C7"ec bc de | "F"f2f2z2 :|
+% ch08903
+X:3
+T:Cheerab (Cherab) CFBb (5letras transposed)
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+G|: "C"c>d ef | g2 eg | "G7"f2 df | "C"e2 ce | "G7"dc BG | "C"c3e | "G7"dG/2G/2 GG | "C"ec/2c/2 cc | 
+"G7"dG/2G/2 GG | "C"ec/2c/2 cc | "G7"dG/2G/2 GG | "C"ec/2c/2 cc | "G7"dG/2G/2 GG |1 "C"c2zG :|2 "C"c2zC |: [K:F] "F"FF F>C | 
+"C7"EE E>B, | "Bb"DD DF | "F"C3F | FA dc | "C7"E3C | EG dc | "F"F3C | FA fe | "Bb"d3c | 
+"C7"e/2e/2e zE |1 "F"F2zC :|2 "F"F2zG |: [K:C] "G7"G>A GF | "C"EG cA | "G7"B/2c/2d d/2e/2f | "C"egg2 | "G7"g>a gf | "C"ed cA | 
+"G7"B/2c/2d/2e/2 fB |1 "C"cc cG :|2 "C"cc cz |: [K:F] "C7"B/2A/2G f/2e/2d | "F"d/2c/2A F/2A/2c | "C7"d/2c/2B EG/2c/2 | "F"d/2c/2A FA | 
+"C7"B/2A/2G f/2e/2d | "F"d/2c/2A FA/2c/2 | "C7"d/2c/2B/2d/2 cE |1 "F"F3A :|2 "F"F3z || [M:3/4] "F"c'2 ac fa | "C7"c'2 bc eg | 
+c'2bc eg | "F"c'2 ac fa | c'2 ac fa | "C7"c'2 bc eg | c'2 bc eg | "F"f2z2z2 :: [K:Bb] "Bb"f2 dF Bd | "F7""_f"f2 "_es"e"_f"F "_a"A"_c"c | 
+f2 eF Ac | "Bb"f2 dF Bd | f2 dF Bd | "F7"f2 eF Ac | f2 eF Ac | "Bb"B2z2z2 :: [K:F] "C7"c2d2e2 | "F"fc ac fc | 
+"C7"ec bc ec | "F"fc acf2 | "C7"c2d2e2 | "F"fc ac fc | "C7"ec bc de | "F"f2f2z2 :|
+% ch08903
+% Aug 9, 2016

@@ -1,0 +1,251 @@
+X:208
+T:Gloria
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:D
+V: 8 clef=tenor name="Tenore" sname="T."
+%%MIDI program 1 1
+%%staves [[ 8 ]]
+%------------------
+[Q:"Allegro"]  Z7 | !p!A,A,/ A,/ A,A, | A,A,A,A, | A,>F,F,z | Z2 | \
+w: Glo-ri-a in ex-cel-sis De-o Glo-ri-a
+!f!EE/ E/ EE| D2 DF/ F/ | EEEC | D>D D!f!D/ D/ | B,B,B,B, | B,>B, B,!f!B,/ B,/ | CCCC | D3D|Dzz2 | Z3 | \
+w: Glo-ri-a in ex-cel-sis in ex-cel-sis De-o Glo-ri-a in ex-cel-sis De-o Glo-ri-a in ex-cel-sis De-o Glo-ri-a
+!p!B,2B,2 | B,2B,2 | B,2_B,2 | !p!A,3A,|A,zz2 | Z3 | \
+w: et in ter-ra pax ho-mi-ni-bus
+!p!.Dzz2 | \
+w: pax
+.D!p!zD2 | D3=C | !p! !fermata!B,4 | !p! _B,B,B,=C | (=C2_B,2) | _B,z2z| \
+w: pax ho-mi-ni-bus bo-n\ae vo-lun-ta--tis
+z2z!pG,|=C3(D/_E/) | Dzz2|Z|\
+w: Lau-da-mus_ te
+!p!D2D2 | D2G,G, | =Czz2| Z | \
+w: Be-ne-di-ci-mus te
+z2!p!G,>G, | G,2G,2 | G, z \
+w: A-do-ra-mus te
+G,G, | ^F,3F,|G,zz2|Z2|| \
+w: A-do-ra-mus te
+[M:3/4][Q:"Sostenutto"][K:C] !f! C>CC | CCA, | !p!B,>C (B,/C/) |  !fermata!B,3 ||\
+w: Gra-ti-as a-gi-mus ti----bi
+[Q:"Allegretto"] !p! C2C|B,B,z | Z2 |\
+w: pro-pter ma-gnam
+!p! C2C|B,B,z | Z2 | \
+w: pro-pter ma-gnam
+!p! D2D | Czz | Z2| \
+w: Gra-ti-as
+!p! D2D |CCz | \
+w: pro-pter ma-gnam
+!p!B,CA, | B,B,z | \
+w: glo-ri-am tu-am
+!f!CCC| A,A,z | \
+w: Do-mi-ne De-us
+!f!D2D|CCz| \
+w: Rex c\ae-les-tis
+!f!E2E| E2E|!f!E2E/ E/ | ^F/> ^D/ Dz | Z4 | \
+w: De-us Pa-ter Pa-ter o-mni-po-tens
+!p!C3|B,3|A,2(B,/A,/)| G,zz | Z | \
+w: Je-su Cris---te
+!p! E2C/ C/ | B,B,z|z \
+w: Do-mi-ne De-us
+!p! CC|_B,B,/ B,/ B,/ B,/ |  =B,B,z| \
+w: A-gnus De-i Fi-li-us Pa-tris
+!f!B,B,B,|A,3|B,/ !p!D/ DD|DB,z|Z2| \
+w: Fi-li-us Pa-tris Do-mi-ne De-us
+!p!D2D | DB,z| \
+w: De-us Pa-ter
+!f!DDD|B,2^D|Ez/ \
+w: Pa-ter o-mni-po-tens
+E/ E/ E/ | D>D C/ C/ | !f!B,2B, | C z\
+w: Do-mi-ne Fi-li u-ni-ge-ni-te
+!f!E/ E/ | ^F^D/ D/ E/ E/ | ^DD!f!E/ E/ | ^DD/ D/ E/ E/ |  ^DD/ D/ E/ E/ | ^DD/ z/ z | z!fermata!z || [Q:"Largetto"][K:E] [M:3/4] z|Z12|\
+w: Je-su Cris-te Do-mi-ne De-us A-gnus Dei_ Fi-li-us Pa-tris Fi-li-us Pa-tris Fi-li-us Pa-tris
+"^Tutti"  !f!D>D D/ F/ | EEz | \
+w:  mi-se-re-re no-bis
+!f!A,>A, A,/ A,/ | =G,G,z| Z2 ||\
+w:  mi-se-re-re no-bis
+[Q:"Allegro Moderato"] [K:E][M:C] "^Tutti"  !p!D2DD|D3D|Dzz2|Z4| \
+w: Sus-ci-pe sus-ci-pe
+!f!C2CC|=D>DCz|\
+w: Sus-ci-pe sus-ci-pe
+=D^DE=F|=D2^D2|E2E,2|A,zz2|Z|\
+w: de-pre-ca-ti-o-nem nos--tram
+!f!A,C=B,D|CCD2|CE/ E/FG|F2F2|!f!F4|E4|A,zz2|Z3|| \
+w: de-pre-ca-ti-o-nem nos-tram de-pre-ca-ti-o-nem nos--tram
+[Q:"Largo"][K:E][M:3/4] !f!B,/> B,/B,z | \
+w: Gra-ti-as
+!f!D/> D/Dz | Z |\
+w: Gra-ti-as
+"^Solo" B,B,B,|CCC|B,B,z|\
+w: Gra-ti-as a-gi-mus ti-bi
+!p!EDC|EEz|\
+w: a-gi-mus ti-bi
+"^Tutti" !p!B,/> B,/B,z |\
+w: Gra-ti-as
+!p!B,/ B,// B,// B,/ B,/ z || \
+w: a-gi-mus ti-bi
+[Q:"Allegro Moderato"] [K:E] [M:C]!pp!G,2G,G,|G,>G,G,z|\
+w: Gra-ti-as a-gi-mus
+!p!B,2B,B,|B,2G,z|\
+w: a-gi-mus ti-bi
+!p!=C2CC|B,>B,B,z|\
+w: Gra-ti-as a-gi-mus
+!p!=C2CC|B,2B,z|Z4|\
+w: a-gi-mus ti-bi
+!p!=G,2G,2|A,2A,z|\
+w: pro-pter ma-gnam
+!p! G,2B,B,|=C2Cz | \
+w: glo-ri-am tu-am
+!p! =D2DD |=D2Dz | \
+w: Do-mi-ne De-us
+!p! =D3D | =D2Dz |\
+w: rex c\ae-les-tis
+=B,3D|=C2CC|^C3C|=DDDD|=CCCC|^D3D|Ezz2|\
+w: De-us Pa-ter o-mni-po-tens Do-mi-ne Fi-li u-ni-ge-ni-te
+!f!E2E2| E2Ez| \
+w: Je-su Cris-te
+!f!E2E2| E2Ez| \
+w: Je-su Cris-te
+!f!=D2DD | =D2Dz | \
+w: Do-mi-ne De-us
+!f!=D2DD | =D2Dz | \
+w: Do-mi-ne De-us
+!f!E4 | E4 | =DDz2|Z8 | !fermata!Z || [Q:"Sostenuto"] [K:Bb][M:3/4] z/ | Z9 | \
+w: A-gnus De-i
+"^Solo" !p!E/> E/ E/ E/ !>!E | Dzz| \
+w: Mi-se-re-re no-bis
+!p!_D/> D/ D//.C//.B,//._A,// .G,//.F,// .E,//.D,// | C,C,z | zz\
+w: Mi-se-re------re_ no-bis
+!p!B, | CCz/\
+w: Qui tol-lis
+E/ | EE!p!D || [Q:"Allegro Moderato"][K:Eb] [M:C|] Czz2 | Z3 | \
+w: pec-ca-ta mun-di
+!p!G,2=A,B,|C=A,DC|(B,CB,=A,)|(G,=A,B,=B,)|Cz\
+w: Sus-ci-pe de-pre-ca-ti-o---nem nos----tram
+!p!C2-|C2=B,2|Czz2|\
+w: Sus--ci-pe
+!p!E2^F,2 | G,zz2|\
+w: Sus-ci-pe
+!p!D3D|G,zz2|\
+w: Sus-ci-pe
+!p!G,3G,|Czz2|\
+w: Sus-ci-pe
+!f!D3D|Ez\
+w: Sus-ci-pe
+!f!C=B,|CCCC|F4|E4|D4|Czz2|Z6|\
+w: de-pre-ca-ti-o-nem nos---tram
+!f!G,2=A,=B,|Czz2|\
+w: Sus-ci--pe
+!f!A,2=B,^C|Dzz2|\
+w: Sus-ci--pe
+!f!=B,B,^C^D|=E2E2|D4|Czz2|\
+w: de-pre-ca-ti-o-nem nos-tram
+!f!B,2CD|ECFE|DC=B,2|Czz2|Z|\
+w: Sus-ci-pe de-pre-ca-ti-o-nem nos-tram
+!f!G,2=A,=B,|=A,2=B,C|!f!=B,B,CD|C2DE|F2E2|D2C2|=B,zz2|\
+w: Sus-ci-pe Sus-ci-pe de-pre-ca-ti-o-nem_ nos----tram
+!p!C2C2|B,2B,2|B,2C2|C2B,2|B,zz2| Z2|z2!fermata!z2|| [Q:"Largo"][K:Eb][M:6/8][L:1/8] Z14| \
+w: de-pre-ca-ti-o-nem nos--tram
+!p! B,2B,2/B,2B,2/|B,3B,2z|Z16|\
+w: mi-se-re-re no-bis
+!f!E2EE2E|E3 E E E | E3E3|E3!>!_G3|Fzzz2z|Z3|\
+w: mi-se-re-re no-bis mi-se-re-re no--bis
+!f!B,2B,B,2B,| B,3B,2z|\
+w: mi-se-re-re no-bis
+!f!B,2B,B,2B,| B,3E2!f!E/> E/| E3E2E/> E/ | E3E2z | Z2 ||\
+w: mi-se-re-re no-bis mi-se-re-re mi-se-re-re
+[Q:"Allegro"][K:Eb][M:C][L:1/4] (E,/F,/) (G,/A,/) (B,/C/) (D/E/) | F2FE|D3B,|B,2G,z/ \
+w: Quo--ni--am_ Tu_ so-lus Tu so-lus  San-ctus
+"^Solo" B,/|C>A, E>C | (B,>G,E,) z/\
+w: Tu so-lus so-lus San--ctus
+E/ | D2-D/C/ (B,/A,/)|G,>G,A,!f!E | E2 (G/F/) E | E>C A,z/\
+w: Tu so---lus_ Do-mi-nus Tu so-lus_ Al-tis-si-mus
+E,/|(E/_D/C/B,/) (A,/G,/) (F,/E,/) | D>C Cz |\
+w: Tu so----lus_ Al--tis-si-mus
+!>!E2C2|E3(D/C/)|(D2=B,2)|Czz2|Z11|z2\
+w: Je-su Je-su_ Chris--te
+!p!B,B,|B,Ez2|z2\
+w:Je-su Chris-te
+B,B,|GEz2|z2\
+w: Je-su Chris-te
+C/> C/ C/ C/ | CFz2 | zz/
+w: Quo-ni-am Tu so-lus San-ctus
+C/ CC | C> A,A,z|z2\
+w: Tu so-lus Do-mi-nus
+!p!DD|ECA,>_D|CA,z2| Z6 |\
+w: Je-su Chris-te Je-su Chris-te
+"^Tutti"!f! ^C/> C/ C/ C/ D =E/F/ | =E^C/ C/ DF|  =E/> ^C/ C/ C/ DE/ F/ | =E/> ^C/ C!f!DD | =E^Cz2 | Z | \
+w: Quo-ni-am Tu so-lus_ San-ctus Tu so-lus Do-mi-nus Tu so-lus Al-tis-si-mus Je-su Chris-te
+!p!D2=EF | =E2 !fermata!E2 || [Q:"Sostenuto"] [K:F][M:2/4] !p! A,A,/ A,/ | B,A,|A,z/ \
+w: Je-su_ Chris-te cum San-cto Spi-ri-tu
+!p! C/ | CC/ C/ | CC | EE | E2 | Ez | Z | \
+w: in glo-ri-a De-i Pa-tris A-men
+!p!F2|Fz|\
+w: A-men
+!>!=B,2|Cz|Z|\
+w: A-men
+!p! z/ A,/ A,/ A,/ | A,z|\
+w: A-men A-men
+!p! z/ A,/ A,/ A,/ | A,z|\
+w: A-men A-men
+!p! z/ ^C/ C/ C/ | ^C !fermata!z ||  [Q:"Allegro Moderato"][K:D] [M:C|] Z7 | \
+w: A-men A-men
+!f!D4|Ezz2|Z5|z2z\
+w: A-men
+!f!C|D2E2|Fzz2|Z3|\
+w: A-men A-men
+!p!A,2B,C|D2(ED)|Cz\
+w: Cum san-cto Spi-ri--tu
+!p!E2|A2^GF|E2!p!C2|D2ED|!f!C2CE|Dz\
+w: in glo-ri-a De-i Pa-tris_ A-men A-men
+!f!D2|E2C2|Dzz2|z2\
+w: A-men A-men
+!f!B,2|A,2A,2|G,zz2|Z5|z\
+w: A-men A-men
+!f!A,A,=B,|=Cz\
+w: A-men A-men
+!f!^C2|Dzz2|Z7|z\
+w: A-men
+!f!B,B,B,|C3C|B,zz\
+w: Cum San-cto Spi-ri-tu
+!f!B,|A,2A,A,|A,2A,2|A,2C2|D2=C2|B,2_B,2|A,A,A,A,|A,zz2|Z2| \
+w: in glo-ri-a De-i Pa-tris A--men A-men A-men A-men
+!f!A,A,/ A,/A, A,| A,2C2|D2F2|E2E2|Dz\
+w: Glo-ri-a in ex-cel-sis De-o Glo-ri-a
+!f!A,A,|A,2C2|D2D2|E2C2|Dz\
+w: in ex-cel-sis De-o Glo-ri-a
+!f!G,A,|G,2A,z|\
+w: in ex-cel-sis
+!f!DDDD|E4|D4|C3C|B,zz2|Z2|\
+w: in ex-cel-sis Deo Deo Glo-ri-a
+!p!.^A,z.A,z|.^A,z.A,z|.^A,z.A,z|B,3B,|B,zz2|\
+w: et in ter-ra pax ho-mi-ni-bus
+!p!.^A,z.A,z|.^A,z.A,z|B,4|B,zz2|Z4|\
+w: bo-n\ae vo-lun-ta-tis
+!p!F,2G,A,|B,2C2|!p!D2C2|B,2A,G,|F,2A,2|B,2C2|D2Dz|Z|\
+w: Cum San-cto Spi-ri-tu in glo-ri-a De-i Pa-tris A-men
+!f!D2DD|C3C|Dzz\
+w: Cum San-cto Spi-ri-tu
+!f!D|D2DD|D2D2|!f!D2D2|D4|Dzz2|\
+w: in glo-ri-a De-i Pa-tris A-men
+!p!A,4|B,2C2|D!p!F,G,A,|B,3B,|A,zz2 | Z2 |\
+w: A-men A-men Cum San-cto Spi-ri-tu
+!f!D2Dz |\
+w: A-men
+!f!E2Ez|\
+w: A-men
+!f!E4|Dzz2|z2\
+w: A-men
+!f!B,2|D2DD | \
+w: in glo-ri-a
+D2D2 | !f!E2E2 | C4 | Dzz2 | \
+w: De-i Pa-tris A-men
+!p!(B,2_B,2) | A,zz2 | \
+w: A--men
+!p!(^G,2=G,2)|F,zz2| \
+w: A--men
+!p!(B,2_B,2)|A,zz2|\
+w: A--men
+!p!(^G,2=G,2) | F,zz2 | Z3 |] \
+w: A--men
+%------------------

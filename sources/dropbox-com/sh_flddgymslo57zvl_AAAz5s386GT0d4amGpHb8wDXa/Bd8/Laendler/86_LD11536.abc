@@ -1,0 +1,25 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: L\"andler GC chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.396 (LD11536) orig. G,C-Dur
+T: T\"anze aus Altdorf (Uri)
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"G2B2d2 | "D7"+>+d2dBc2 | fA df Af | "G"gG Bd g2 | G2B2d2 | "D7"+>+d2dBc2 | fA df Af | "G"g2z2z2 ::
+"G"gB dg Bg | "D7"fA df a2 | fA df Af | "G"gB dg b2 | gB dg Bg | "D7"fA df a2 | fA df Af | "G"g2z2z2 :| 
+"C"e2c'4 | "G"d2b4 | "D7"ad fa df | "G"gB dg b2 | "C"e2c'4 | "G"d2b4 | "D7"af dA df | "G"g2z2g=f |: [K:C]
+"C"e2g2c'2 | "G7"b3df2 | b3df2 | "C"g3ce2 | e2g2c'2 | "G7"b3df2 | ba gf ed |1 "C"c2z2gf :|2 "C"c2z2gg ||  
+|: "C"g2ag ^fg | "G7"g2 ag ^fg | ba gf ed | "C"c2egc'2 |g2 ag ^fg |  "G7"g2 ag ^fg | ba gf ed | "C"c2z2z2 :|  
+
+X:2
+T:L\"andler CF 7- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"C2E2G2 | "G7"!>!G2GEF2 | BD GB DB | "C"cC EG c2 | C2E2G2 | "G7"!>!G2GEF2 | BD GB DB | "C"c2z2z2 ::
+"C"cE Gc Ec | "G7"BD GB d2 | BD GB DB | "C"cE Gc e2 | cE Gc Ec | "G7"BD GB d2 | BD GB DB | "C"c2z2z2 :| 
+"F"A2f4 | "C"G2e4 | "G7"dG Bd GB | "C"cE Gc e2 | "F"A2f4 | "C"G2e4 | "G7"dB GD GB | "C"c2z2c_B |: [K:Fmaj]
+"F"A2c2"_ ="f2 | "C7""_e"e3"_g"G"_b"B2 | e3GB2 | "F"c3FA2 | A2c2"_ ="f2 | "C7"e3GB2 | "_e"ed c"_b"B A"_ g ="G |1 "F"F2z2cB :|2 "F"F2z2cc || 
+|: "F"c2dc =Bc | "C7"c2 dc =Bc | "_e"ed c"_b"B A"_ g ="G | "F"F2Acf2 |c2 dc =Bc | "C7"c2 dc =Bc | ed cB AG | "F"F2z2z2 :| 

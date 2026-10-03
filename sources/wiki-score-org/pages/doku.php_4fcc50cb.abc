@@ -1,0 +1,48 @@
+X:115
+T:Overtura
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 15 clef=alto1 name="Canto" sname="C."
+%%MIDI program 1 1
+%%staves [[ 15 ]]
+%-----------------------------------------------------------------------------------
+[Q: "Allegro" 1/2=70] z// | Z87 || \
+[M:2/4] [K:C] [L:1/8] [Q: "Andantino" 1/2=30] z | Z23 || \
+[Q: 1/2=70] [M:C] Z8 || \
+[K: D] Z54 ||
+[K:F] [L:1/4] [Q: "Coro - Allegro Maestoso" 1/2=60] z3/8 | Z27 | \
+"_[Coro di Guerrieri]" c2 c c | c c2 B | B3/4 B1/4 A z c | c c c c | c c z2 | \
+w: Re-gni l'ar-di-re in-tre-pi-do Del fie-ro Dio dell' ar-mi
+c c3/4 c1/4 c c | c3/4 c1/4 c z c | d3/4f1/4e3/4d1/4 c3/4B1/4 A3/4 G1/4 | F F z2 | z4 | \
+w: Re-gni l'ar-di-re'in-tre-pi-do Del fie--ro-- Dio-- dell'-- ar-mi
+z4 | e e3/4 e1/4 e e | f3/4 f1/4 f z2 | f f3/4 f1/4 f f | e3/4 e1/4 e z \
+w: Del cam-po'in mez-zo'ai ful-mi-ni Del cam-po'in mez-zo'ai ful-mi-ni
+e | d d d c | =B z z2 | c c3/4 c1/4 G c | =B3/4 A1/4 A z d | c c G c | =B G z2 | \
+w: Nel cuor d'o-gni guer-rier Re-gni l'ar-di-re'in-tre-pi-do Del fie-ro Dio dell' ar-mi
+e e3/4 e1/4 e e | f3/4 f1/4 f z2 | e e3/4 c1/4 c _B | a3/4 c1/4 c z c | c c e d | \
+w: Del cam-po'in mez-zo'ai ful-mi-ni Del cam-po'in mez-zo'ai ful-mi-ni Nel cuor d'o-gni guer-
+e z z2 | z e d d | e z z2 | z e d d | c z z2 | z4 | \
+w: rier  D'og-ni guer-rier D'og-ni guer-rier
+z4 | z4 | z4 | z4 | _B B3/4 B1/4 B B | _B/> _e/ e z2 | \
+w: Al rim-bom-bar ter-ri-bi-le
+_e e3/4 e1/4 e e | _e3/4 e1/4 e z _B | c _B d "^NB: no flat in ms"_e | d _B z2 | z4 | \
+w: Al rim-bom-bar ter-ri-bi-le De' bel-li co-si car-mi
+z2 z _B | c _B d _e | d _B z2 | z4 | z4 | \
+w: De' bel-li co-si car-mi
+d d/> d/ c c | _B B z2 | =e e/> e/ e e | d d z d | d d d d | ^c z z2 | z4 |  \
+w: O-gni fa-tal pe-ri-glio o-gni fa-tal pe-ri-glio L'af-fret-ti'a sos-te-ner.
+c2 c c | c c2 B | B3/4 B1/4 A z c | c c c c | c c z2 | \
+w: Re-gni l'ar-di-re in-tre-pi-do Del fie-ro Dio dell' ar-mi
+c c/ > c/ c c | c/ > c/ c z c | d d d d | c c z  \
+w: Re-gni l'ar-di-re'in-tre-pi-do Del fie-ro Dio dell' ar-mi
+c | c c c e | f/ > c/ c z2 | z c c =e | f/ > c/ c z c | d d c c | c z z2 | \
+w: del cam-po'in mez-zo'ai ful-mi-ni in mez-zo'ai ful-mi-ni Nel cuor d'o-gni guer-rier
+d d/ > d/ d d | c/ > c/ c z c | d d d d | c c z c | c c c c | c/ > c/ c z \
+w: Re-gni l'ar-dire in-tre-pi-do Del fie-ro Dio dell' ar-mi del cam-po'in mez-zo'ai ful-mi-ni
+c | d/>f/ e/>d/ c/>B/ A/>G/ | F z z d | c c c c | c z z  \
+w: nel cor-- d'o---gni guer-ri-er Nel cuor d'o-gni guer-rier
+d | c c c c | c d c c | c d c c | c z z2 | Z2 |] \
+w: Nel cuor d'o-gni guer-rier d'o-gni guer-rier d'o-gni guer-rier.
+%-----------------------------------------------------------------------------------

@@ -1,0 +1,32 @@
+X:1201
+T:N.16 No movimento do Fado
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 1 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%----------- edit between the lines ------------
+[Q:"No movimento do Fado"] !fff! !>! d'2                |\
+!>!e'2                                               |\
+(!>!({e'/f'/g'/}a'3/2 )g'/)/                         |\
+(f'/>e'/) d'                                        ||\
+[M:4/8] !p!"expressivo" d'2                          |\
+a2                                                   |\
+(e',3/2f/)                                           |\
+(d!crescendo(!d//) (=f//e//f//)!crescendo)!          |\
+((3e///=f///e/// (d/)d//) d//(=c/_B//)               |\
+(d/A/A//)!crescendo(!(=c'//b//c'//)!crescendo)!      |\
+((3b///=c'///b///(a/)a//)a//(a/^g//)                 |\
+(b/!diminuendo(!d/- d//)!diminuendo)!(=f///e///d//).=c///.B///    |\
+(=c//g/)!tenuto!_e/(d// c//)._B///.A///              |\
+=c2                                                  |\
+B2                                                   |\
+"_ret.muito; e com expressão"                         \
+^A =A                                               ||\
+[M:2/4][Q:"a tempo"]                                  \
+(^G2 | ^G2)                                          |\
+!p!E2 | F2 | "_ret.sempre" E2| F2| "_a tempo" (^G2   |\
+"_cresc. muito" ^G2)                                ||
+%-----------------------------------------------

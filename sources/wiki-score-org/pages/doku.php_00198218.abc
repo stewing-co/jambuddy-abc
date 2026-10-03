@@ -1,0 +1,25 @@
+X:505
+T:Agnus Dei
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 5 clef=bass name="Contra B." sname="CB."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%------------------
+"_[fol.177]" [Q:"Largetto"] !p! F,2F,!>!F,3 | !p! F,2E, D,2C, | B,,2B,,B,,2B,, | "_cres." A,,/=B,,/^C,/D,/E,/F,/ !>! (G,3 | \
+"_[fol.178]" F,2)F,!>!G,3 | !p! F,2(D,G,2C, | F,2)zz2z | z2zz2 !p! C | =B,2CB,2!p!G, | \
+"_[fol.179]" C2!p!A, F,2G, | !p! C,/C,/C,/C,/C,/C,/ C,/C,/C,/C,/C,/C,/ |  C,/C,/C,/C,/C,/C,/ C,/C,/C,/C,/C,/C,/ |  C,/C,/C,/C,/C,/C,/ C,/C,/C,/C,/C,/C,/ | \
+"_[fol.180]" !p! C,/C,/C,/C,/C,/C,/ C,/C,/C,/C,/C,/C,/ | !p! C,/C,/C,/C,/C,/C,/ (C,2G,,) | (C,2G,,D,2_B,,) | !f! A,,2A,,A,,2A,, | A,,2A,,A,,2A,, | \
+"_[fol.181]" A,,2!f!A, G,2G, | F,2!f!F, E,2E, | !p! A,,2A,,A,,2A,, | !fermata! A,,6 || \
+"_[fol.182]" [Q:"Allegro"][K:F][M:C|][L:1/4|] !f!F,zz2 | Z3 | !f! G,zF,z | \
+"_[fol.183]" Z3 | !f! CCCC | =B,B,B,z | Z2 | \
+"_[fol.184]" !f! B,B,B,B, | A,A,A,z | !f! B,z=B,z | !f! CzCz | C,zC,z | !f! F,F,F,F, | E,E,E,E, | \
+"_[fol.185]" F,zz2 | Z3 | !f! A,2G,2 | F,2 D,2 | !f! G,2 F,2 | \
+"_[fol.186]" E,2C,2 | !p! F,2A,2 | B,2=B,2 | !f!Czz2 | A,zz2 | !f!F,F,F,F, |F,F,F,F, | \
+"_[fol.187]" !f!E,D,^C,=C, | =B,,2_B,,2 | A,,zz2 | Z3 | z2 !f!DC | \
+"_[fol.188]" =B,zz2 | !f!CzCz | C,zC,z | F,zz2 | !p! F,zz2 | !p! F,4-| F,4 | .F,zz2 | !p! F,zz2 | \
+"_[fol.189]" !p! C,4- | C,4 | .F,zz2 | !p! .F,zz2 | !p! F,4- | F,4- | F,zz2 | !p! F,zz2 | !p! C,4- | C,4 | \
+"_[fol.190]" F,zz !p! F, | F,F,F,F, | F,zz2 | !p! F,zz2 | F,zz2 | !p! F,zz2 |] \
+%-----------------

@@ -1,0 +1,122 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:X. Leave now mine eyes.
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+K:F
+L:1/4
+T:Cantus
+%1
+   G2    G   A    B    G   B    c d3 c/2 B/2 A     D    F       G \
+w: Leave now mine eyes la- men - *  _   _   ting, your teares, your
+%2 
+   A      F  G   A    B2   A    B2   G >  G  A   ^F G2 ^F  G     G \
+w: teares do but aug- ment aug- ment this my tor- men - * ting, Leave
+%3 
+   G   A    B    G   B   c   d2    D    E F      D   F   G   A     ^F   G  A B G/2 A/2 B/2 c/2 d \
+w: now mine eies la- men -   ting, your _ teares doe but aug- ment this my tor- men - _ _ _ _ _
+%4
+^c d2 ^c d A B c d > c B A > G G2 ^F "A"G d2 G B2 A2 z A2 D \
+w: * _ _ ting, this my tor- men - * _ _ _ _  ting, Death death come thou, death come
+%5
+   G   F E2    ^F4 z d2   A    B    G   F    D  A2 z f2  e    d3   A   B G/ A/ B/ G/ d2 ^c \
+w:thou re- lieve mee, death come thou re- lieve _ me Death come thou re- lieve _ _ _ _ _ _
+%6
+  d    A  B   d  c    B    A   G   ^F   D    E/    F/ G ^F G2 ^F G  d2 =B   d c =B A \
+w:mee, A- las to live for- sa- ken thus doth grieve _ _ _ _ _   mee, ah see now wher hee ly-
+  G2 z G2 E
+w:eth, Ah see,
+%7
+    G   F    E    G   c =B A    D   A G ^F    A    d     c =B     A G \
+w: see now where hee ly - eth, hee ly - eth, Then fare- wel false un- kinde,
+%8
+c2 =B > =B A > G G2 ^F "B"G d2 G B2 A2 z A2 D G F E2 ^F4 \
+w:fare- well thy Flo- ra dy - eth, Death, Death come thou, Death come thou re- lieve mee,
+%9
+z d2    A    B    G   F    D  A2 z f2    e    d3   A   B    G/ A/ B/ G/ d2 ^c d A B d c B A G \
+w:Death come thou re- lieve _ mee, Death come thou re- lieve _ _ _ _ _ _ mee, A- las to live for- sa- ken
+%1r
+   ^F    D   E/ F/ G ^F G2 ^F G    d2 =B  d c =B A G2 z G2 E G F \
+w: thus doth grieve _ _ _ _ _ mee, Ah see now where hee ly- eth, Ah see, see now
+%2r
+   E     G   c =B  A    D  A   G ^F   A    d     c    =B    A   G      c2    =B > =B   A > G 
+w: where hee ly - eth, he ly - eth, Then fare- well falce un- kinde, fare- well thy Flo- ra
+%3r
+G2 ^F HG4 |]
+w: dy -  eth.
+
+
+X:2 
+T:X. Leave now mine eyes.
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+K:F
+L:1/4
+T:Tenor
+%%MIDI transpose -12
+N: Original clef, C on third line, so this is a tenor G clef, sounding an octave lower than written.
+K:F -8va
+%1
+z4 G2 G A B G B c d3 c/ B/ A d B c \
+w: Leave now mine eyes la- men - *  _ _ ting, your teares doe
+%2
+d e f d _e2 c2 d4 G4 z G G A B G \
+w: but aug- ment  this my tor- men- ting, Leave now mine eies la-
+%3
+B c d3 c/ B/ A d e f g > g g f e d e2 d2 z A B c d > c \
+w: men - * _ _  ting, your teares doe but aug- ment this my tor- men- ting, this my tor- men - 
+%4
+B A/ G/ A2 "A"G4 z g2 d f > e d/ e/ f e d d ^c d d2 A B G ^F2 \
+w: * _ _ _ ting, Death death come _ _ _ _ thou re- lieve _ mee, Death come thou re- lieve
+%5
+G/ A/ B/ c/ d f2 e d2 A c B G ^F2 G g g f e2 d2 z d e g f e \
+w: _ _ _ _  mee, death come thou re- lieve _ _ _  me Death come  re- lieve mee, A- las to live for-
+   d B c _e 
+w: sa- ken thus doth
+K:F -8va
+%6
+d c/ B/ A/ G/ A G2 z g2 e g f e d c2 z c2 A c =B \
+w: grieve _ _ _ _ _ mee, ah see now wher hee ly- eth, Ah see, see now
+%7
+A G d > e f e d2 z A d c =B A ^F G D \
+w: wher hee ly - * _   eth, Then fare- wel false un- kinde, fare- wel 
+d =B > c d2 "B"G4 z g2 d \
+w:thy Flo- ra dy- eth.  Death, death
+%8
+f3/2 e/ d/ e/ f e d d ^c d d2 A B G ^F2 G/ A/ B/ c/ d f2 e d2 \
+w: come _ _ _ _  thou re- lieve _ mee, Death come thou re- leive _ _ _ _  mee, Death come thou 
+%1r
+A c B G ^F2 G g g f e2 d2 z d e g f e d B c _e d c/ B/ A/ G/ A \
+w:  re- lieve _ _ _ mee, Death come re- lieve mee, A- las to live for- sa- ken thus doth grieve _ _ _ _ _ 
+%2r
+G2 z g2 e g f e d c2 z c2 A c =B A G d > e f e d2 z A \
+w: mee, Ah see now where hee ly- eth, Ah see, see now where hee ly - * _ eth, Then 
+%3r
+   d     c    =B    A   ^F      G     D   d   =B > c  d2  HG4 |]
+w: fare- well falce un- kinde, fare- well thy Flo- ra dy-  eth.
+
+
+

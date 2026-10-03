@@ -1,0 +1,76 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Der N\"uy ['The New One']  GC  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.98 (st05777) orig. G,C-Dur
+T: Berner Oberl\"ander T\"anze (Bern)
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+B |: "G"d>d cd | "Am"e2A2 | "D7"c>c Bc | "G"d2G2 | B>B AG | "Am"A2e2 | "D7"d>c BA |1 "G"GG GB :|2 "G"GG GD || 
+|: "G"G/G/G D2 | BB/B/ d2 | "D7"A/A/A d2 | "G"BA GD | G/G/G D2 | BB/B/ d2 | Bd "D7"c/B/A |1 "G"GG GD :|2 "G"GG"_> Teil A" GB || 
+K:C
+|: "C"e2g2 | "G7"ff/e/ d2 | ff/e/ fa | [L:1/16]  "C"g^fgc' "G7"bag=f | "C"e4g4 | "G7"f2fe d4 | g^fga gbe'd' | "C"c'2c'2 c'2z2 :| 
+|: "F"a4c'4 | "C"g2ef g4 | "G7"Bcde fefa | "C"g^fga gc'ge | "F"a4c'4 | "C"g2ef g4 | "G7"g2ba gfed |1 "C"c2e2 c2z2 :|2 "_> Teil A""C"c4B4 |] 
+
+X: 2
+T: Der N\"uy  GC  chords  Parts
+M:2/4
+L:1/8
+P:ABACDA
+K:G %%MIDI gchordon
+B [P:A] |: "G"d>d cd | "Am"e2A2 | "D7"c>c Bc | "G"d2G2 | B>B AG | "Am"A2e2 | "D7"d>c BA |1 "G"GG GB :|2 "G"GG GD || 
+[P:B] |: "G"G/G/G D2 | BB/B/ d2 | "D7"A/A/A d2 | "G"BA GD | G/G/G D2 | BB/B/ d2 | Bd "D7"c/B/A |1 "G"GG GD :|2 "G"GG"_> Teil A" GB || 
+K:C
+[P:C] |: "C"e2g2 | "G7"ff/e/ d2 | ff/e/ fa | [L:1/16]  "C"g^fgc' "G7"bag=f | "C"e4g4 | "G7"f2fe d4 | g^fga gbe'd' | "C"c'2c'2 c'2z2 :| 
+[P:D] |: "F"a4c'4 | "C"g2ef g4 | "G7"Bcde fefa | "C"g^fga gc'ge | "F"a4c'4 | "C"g2ef g4 | "G7"g2ba gfed |1 "C"c2e2 c2z2 :|2 "_> Teil A""C"c4B4 |] 
+
+X: 3
+T: Der N\"uy GC
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+B |: "G"d>d cd | "Am"e2A2 | "D7"c>c Bc | "G"d2G2 | B>B AG | "Am"A2e2 | "D7"d>c BA |1 "G"GG GB :|2 "G"GG GD || 
+|: "G"G/G/G D2 | BB/B/ d2 | "D7"A/A/A d2 | "G"BA GD | G/G/G D2 | BB/B/ d2 | Bd "D7"c/B/A |1 "G"GG GD :|2 "G"GG"_> Teil A" GB || 
+K:C
+|: "C"e2g2 | "G7"ff/e/ d2 | ff/e/ fa | [L:1/16]  "C"g^fgc' "G7"bag=f | "C"e4g4 | "G7"f2fe d4 | g^fga gbe'd' | "C"c'2c'2 c'2z2 :| 
+|: "F"a4c'4 | "C"g2ef g4 | "G7"Bcde fefa | "C"g^fga gc'ge | "F"a4c'4 | "C"g2ef g4 | "G7"g2ba gfed |1 "C"c2e2 c2z2 :|2 "_> Teil A""C"c4B4 |] 
+
+X: 4
+T: Der N\"uy  GC Parts
+M:2/4
+L:1/8
+P:ABACDA
+K:G
+B [P:A] |: "G"d>d cd | "Am"e2A2 | "D7"c>c Bc | "G"d2G2 | B>B AG | "Am"A2e2 | "D7"d>c BA |1 "G"GG GB :|2 "G"GG GD || 
+[P:B] |: "G"G/G/G D2 | BB/B/ d2 | "D7"A/A/A d2 | "G"BA GD | G/G/G D2 | BB/B/ d2 | Bd "D7"c/B/A |1 "G"GG GD :|2 "G"GG"_> Teil A" GB || 
+K:C
+[P:C] |: "C"e2g2 | "G7"ff/e/ d2 | ff/e/ fa | [L:1/16]  "C"g^fgc' "G7"bag=f | "C"e4g4 | "G7"f2fe d4 | g^fga gbe'd' | "C"c'2c'2 c'2z2 :| 
+[P:D] |: "F"a4c'4 | "C"g2ef g4 | "G7"Bcde fefa | "C"g^fga gc'ge | "F"a4c'4 | "C"g2ef g4 | "G7"g2ba gfed |1 "C"c2e2 c2z2 :|2 "_> Teil A""C"c4B4 |] 
+
+X:5
+T:Der N\"uy CF 7- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+E |: "C"G>G FG | "Dm"A2D2 | "G7"F>F EF | "C"G2C2 | E>E DC | "Dm"D2A2 | "G7"G>F ED |1 "C"CC CE :|2 "C"CC CG, || 
+|: "C"C/2C/2C G,2 | EE/2E/2 G2 | "G7"D/2D/2D G2 | "C"ED CG, | C/2C/2C G,2 | EE/2E/2 G2 | EG "G7"F/2E/2D |1 "C"CC CG, :|2 "C"CC"_> Teil A" CE || 
+K:Fmaj
+|: "F"A2c2 | "C7"BB/2A/2 G2 | BB/2A/2 Bd | [L:1/16] "F"c=Bcf "C7"edc_B | "F"A4c4 | "C7"B2BA G4 | c=Bcd ceag | "F"f2f2 f2z2 :| 
+|: "Bb"d4f4 | "F"c2AB c4 | "C7"EFGA BABd | "F"c=Bcd cfcA | "Bb"d4f4 | "F"c2AB c4 | "C7"c2ed cBAG |1 "F"F2A2 F2z2 :|2 "_> Teil A""F"F4E4 |] 
+
+X:6
+T:Der N\"uy CF 7- chords Parts
+M:2/4
+L:1/8
+P:ABACDA
+K:Cmaj%%MIDI gchordon
+E [P:A] |: "C"G>G FG | "Dm"A2D2 | "G7"F>F EF | "C"G2C2 | E>E DC | "Dm"D2A2 | "G7"G>F ED |1 "C"CC CE :|2 "C"CC CG, || 
+[P:B] |: "C"C/2C/2C G,2 | EE/2E/2 G2 | "G7"D/2D/2D G2 | "C"ED CG, | C/2C/2C G,2 | EE/2E/2 G2 | EG "G7"F/2E/2D |1 "C"CC CG, :|2 "C"CC"_> Teil A" CE || 
+K:Fmaj
+[P:C] |: "F"A2c2 | "C7"BB/2A/2 G2 | BB/2A/2 Bd | [L:1/16] "F"c=Bcf "C7"edc_B | "F"A4c4 | "C7"B2BA G4 | c=Bcd ceag | "F"f2f2 f2z2 :| 
+[P:D] |: "Bb"d4f4 | "F"c2AB c4 | "C7"EFGA BABd | "F"c=Bcd cfcA | "Bb"d4f4 | "F"c2AB c4 | "C7"c2ed cBAG |1 "F"F2A2 F2z2 :|2 "_> Teil A""F"F4E4 |] 
+
+
+
+

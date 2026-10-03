@@ -1,0 +1,20 @@
+X:3113
+T:Scena 10.a - Antandro ed Emirena
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:Bb
+V: 13 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 13 ]
+%------------------
+[M:C] Z9 || [Q:"Andantino"] [M:2/4] [K:F] z// | "_[NB: same as bass +8oct?]" !p! \
+F/z/ C/z/ | z/F/z/ F/ | F/z/ B,/z/ | C/C/C/z/ | !f! B2 | !p! Az | \
+"_[these 2 notes ;written down ]" B,/z/ C/z/ | F/C/ F/z/ | F/z/ C/z/ | z F/ F/ | F/z/ B,/z/ | z/C/ C/c/ | \
+!f!!p!A2 | A/z/ A/z/ | B/z/ c/C/ | F/C/ F/z/ | F/z/ F/z/ | \
+!f! G/z/ G/z/ | G/z/ G/z/ | z/c/ C/z/ | [C_E]2- | [C_E]2 | [CD]2 | \
+"^ob." "_NB: ;'ob' interpreted as = oboi" D/ B,//C/4 (D/4E/4F/4E/4) & =B,/ G,//A,// (=B,//C//D//C//)  | \
+[CE] > z | "^C=" C2 | CE/z/ | F/z/ G/G,/ | "_[fol.330]" C, !fermata! z | F/z/ C/z/ | \
+z/F/ F/z/ | F/z/ B,/z/ | C/z/ C/z/ | !f! B,2 & x !p! x | A,/z/ A,/z/ | B,/z/ C/C,/ | \
+F,/z/ F,/C,/ | F,/z/ F/C/ | !f! F/z/ !//!F | B/z/ c/C/ | F z |]
+%------------------

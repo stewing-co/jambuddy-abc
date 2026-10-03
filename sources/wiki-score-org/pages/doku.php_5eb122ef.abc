@@ -1,0 +1,22 @@
+X:104
+T:Overture
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 4 clef=treble name="Oboe Secondo" sname="Ob.II"
+%%MIDI program 1 68
+%%staves [( 4 )]
+%---------------------------
+[Q: "Allegro con spirito"] dzdz | d/f/a/f/ g/e/B/c/ | dzdz | d/f/a/f/ g/e/B/c/ | d/f/a/f/ g/e/B/c/ | \
+d/f/a/f/ g/e/B/c/ | d2 c2 | d/f/a/f/ {f}e d/c/ | d2c2 | d/f/a/f/ {f}e d/c/ | d2=c2 | B4- | B4 | A4- | A4 | c4- | c4 |\
+d2c2 | ddce | dfge | fa^gf | e4 | =d4 | c4 | ^d4 | e4 | =d4 | c4 | ^d4 | e4 | e2 f^g | a e3 | f3 ^g | a/c/ c z2 | \
+Z1 | (^A/B/) B z2 | Z1 | A4 | Azz2 | czB2 | AAAz | "_Soli" (c3/2d//c//) fe | (ed) c2- | c B/A/ BB | A4 | \
+(c3/2d//c//) fe | (ed) c2- | c B/A/ BB | A4 | (f3/2g//f//)ba | (ag)f2- | f e/d/ee | d4 | (f3/2g//f//)ba | (ag)f2- | f fed | \
+(c<a) a2- | a4-  | a4- | a4- | a4- | a2 g/g/f/e/ | !f! !f!dzdz | d/f/a/f/ g/e/B/c/ | dzdz | d/f/a/g/ f/e/^d/=c/ | \
+B^def | e2 ^d/a/g/f/ | e2 ^d/a/g/f/ | \
+%--OK! ms is correct [ d: | "_NB: error in score? ; repetition of  this bar ; removed" ]
+g/f/e/^d/ e/=d/c/B/ | Acde | d2c/g/f/e/ |  d2c/g/f/e/ | d4 | c2dz |  c2dz | A4 | \
+B2c2| dcde | fgef | g4 | f2d2| cd{f}ed/c/ | df2d |  cd{f}ed/c/ | d2z2 | dzcz | dzze | \
+e/d/zze | e/d/zd2 | dzdz | d4 | d2c2 | dzz2 | Z11 | !fermata!z4 |] \
+%-------------------------

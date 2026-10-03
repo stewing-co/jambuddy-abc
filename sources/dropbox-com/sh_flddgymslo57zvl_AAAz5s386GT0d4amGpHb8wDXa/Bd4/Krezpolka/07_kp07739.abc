@@ -1,0 +1,47 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Kreuzpolka  GDC (kp07693) ABAC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.366 (kp07693) orig. G,D,C
+T: Alte Seltisberger Musik. S.354-377
+T:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+%%partsbox
+P:ABAC
+R:Kreuzpolka
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+[P:A]  "G"g>g dB | "D7".B2!>!A2 | a>f dc | "G".c2!>!B2 | B>d cB | "Am"Ae (e/^d/)e | "D7"A>c BA | "G"Ge d/^c/d | 
+g>g dB | "D7".B2!>!A2 | a>f dc | "G".c2!>!B2 | B>d cB | "Am"Ae (e/^d/)e | "D7"d(A/B/) c(E/F/) | "G"GB Gz :| 
+[P:B] [K:D] |: "D"zf Af | "Em".e2!>!G2 | "A7"ze Ge | "D".d2!>!F2 | zF Ad | "A7"d(c/B/)c2 | "G"z(e/d/) cB | "D"B(A/^G/)A2 | 
+zf Af | "Em".e2!>!G2 | "A7"ze Ge | "D".d2!>!F2 | zd AF |  "G"E(B/^A/) Bd | "D7"c(^B/c/) f>e | "D"dd "_>Teil  A"dz :| 
+[P:C] [K:C] |: "C"G>e  dc |  "G7"cBf2 |  G>f ed  | "C"dcg2 | "G7"A/B/B B/c/c | d^c/d/ fe | d>c BA | 
+("C"A2.G2) | c>e dc | "G7"cBf2 | G>f ed | "C"dce2 | "G7"A/B/B B/c/c | d^c/d/ fe | da g>B | "C"cc cz :| 
+W:
+W:Anmerkung H.C.: Rünenberg 12, Läufelfingen, s.V. 791
+% kp07693
+% Oct 5, 2016 (Krongasse)
+
+X:2
+T:Kreuzpolka  CGF 7- (kp07693)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.366 (kp07693) orig. G,D,C
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Kreuzpolka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c>c GE | "G7".E2!>!D2 | d>B GF | "C".F2!>!E2 | E>G FE | "Dm"DA (A/2^G/2)A | "G7"D>F ED | "C"CA G/2^F/2G | 
+c>c GE | "G7".E2!>!D2 | d>B GF | "C".F2!>!E2 | E>G FE | "Dm"DA (A/2^G/2)A | "G7"G(D/2E/2) F(A,/2B,/2) | "C"CE Cz :| 
+[K:G] |: "G"zB DB | "Am".A2!>!C2 | "D7"zA CA | "G".G2!>!B,2 | zB, DG | "D7"G(F/2E/2)F2 | "C"z(A/2G/2) FE | "G"E(D/2^C/2)D2 | 
+zB DB | "Am".A2!>!C2 | "D7"zA CA | "G".G2!>!B,2 | zG DB, | "C"A,(E/2^D/2) EG | "G7"F(^E/2F/2) B>A | "G"GG G"_>Teil  A"z :| 
+[K:F] |: "F"C>A GF | "C7"FEB2 | C>B AG | "F"GFc2 | "C7"D/2E/2E E/2F/2F | G^F/2G/2 BA | G>F ED | 
+("F"D2.C2) | F>A GF | "C7"FEB2 | C>B AG | "F"GFA2 | "C7"D/2E/2E E/2F/2F | G^F/2G/2 BA | Gd c>E | "F"FF F"_Fine"z :| 
+W:Parts: ABAC
+%W:Anmerkung H.C.: Rünenberg 12, Läufelfingen, s.V. 791
+% kp07693
+% Sep 16, 2016

@@ -1,0 +1,26 @@
+X:203
+T:Ns.1-4
+C:Antonio Thomaz de Lima
+M:4/8
+L:1/4
+K:B
+V: 3 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 3 ]
+%----------- edit between the lines ------------
+|| "^no mov. inicial" [E,B,]/ F,//G,// A,//G,//F,//E,// | \
+D,/ !p! .F/ .E/.F//.E// | !tenuto!D !tenuto!F-| F/.F//.G// .F/.E/ | \
+.D/.D//.E// .D/.C/|!sfz!F,2-|F,/ (!sfz!G,/F,/) z/|\
+!mf!!>![CE]2-|[CE]/ !<(!F,//G,//!>!!<)! [E,G,]/ z/| "^Ret. sempre"z/ F//G// F/E/| D (B,/D/)|| \
+[M:3/4](G,/A,/) [D,B,] (!>(!!>!E||[M:4/8]!mf!E!>)!) !>!F/.D//.B,//|"^dim. sempre"B, (!>(!C|!pp!C !>)!) "^ret."([E,G,]| \
+!>(![E,G,]) ([F,A,]!>)! || \
+"^Moderado, e alegre"[M:2/4][F,B,]/) z/ z | Z3 | z !f!!>!D/!>!F/|!>!B/ z/ z | Z3 | \
+z !f!!>!D/!>!F/|!>!B/ z/ (!>!C |D/) "_pizz"!>!G,/  z/!mf! !>!B,/| \
+z/ !>!D/ z/ !>!F/ | z/ !>!G/ z| z/ !>!B/ "_arco"!f! !>!D,//!>!D,//!>!F,//!>!F,//| !>![B,F]/ z/ z/ !mf!"_pizz"E/| z/ G/ z/ B/| \
+z/ !>!B,/ z/ !>!G/| z/ !>!e/ z/ !>(!!>!c/!>)!| z/ !>!B/ !f!"_arco"(A|B/) z/ z|\
+Z6|\
+[V:3 clef=treble] z/ !mf!.f/ .e/.f//.e//| d3/2 z/|[V:3 clef=alto] z/ "pizz"d/ z/ D/| "arco"z/ D/ z/ =A/| z E| \
+z !<(!E!<)!|Z2| [V:3 clef=treble] z/ !f!.f/ .e/.f//.e//| "^[check: error in manuscript]".d/ z/ z| \
+z/!ff! !>!E/ !>!D/!>!E//!>!D// |C/C/ (B, | B,/)^A,//B,// C/B,/ | !sfz!  E2- | \
+E> !>!E | !>!E/ !p!"^Ret. sempre".e/ .d/.e//.d// | c e- | e/.e//.=f// !<(! .e/.d/ !<)! |.=c/!>(!c//d//!>)! c/!fermata!B/ ||
+%-----------------------------------------------

@@ -1,0 +1,40 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Valser da mattinadas da Tschlin (Walzer) C (wz02195)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.376 (wz02195) orig. C
+T:Bündner Tanzmusik. S.367-383. Zusammenstellung von Hanny Christen. 
+O:Switzerland
+% %%MIDI program 21
+R:Walzer
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c2G3E | C6 | "F"c2A3F | "G7"D6 | d2 fe dc | B2 dc BA | G2 BA FD | "C"C2E2G2 | c2G3E | 
+C6 | "F"c2A3F | "G7"D6 | d2 fe dc | B2 dc BA | G2 BA FD | "C"C4z2 |: "G7"G3B df | 
+"C"eG ce Gg | "G7"g2 Bf Gf | "C"eG ce G2 | "G7"G3B df | "C"eG ce Gg | "G7"g2 Bf GB | "C"c4z2 :| 
+W:
+W:Anmerkung H.C.: Hauder Just, Raschvella
+W:
+W:Tschlin = Schleins (Unterengandin, Graubünden)
+W:mattinadas / mantinadas (< morning songs) - "ohrenbetäubende Katzenmusik" (far cavals)
+% wz02195
+% Nov 29 2016
+
+X:2
+T:Valser da mattinadas da Tschlin (Walzer) D (tinwhistle in D)
+T:wz02195 (Hanny Christen)
+%%MIDI program 72   % 111 / 74 / 79=whistle
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.376 (wz02195) orig. C
+S:Bündner Tanzmusik. S.367-383. Zusammenstellung von Hanny Christen. 
+O:Switzerland
+R:Walzer
+M:3/4
+L:1/8
+K:D transpose=12 %%MIDI gchordon
+"D"d2A3F | D6 | "G"d2B3G | "A7"E6 | e2 gf ed | c2 ed cB | A2 cB GE | "D"D2F2A2 | d2A3F | 
+D6 | "G"d2B3G | "A7"E6 | e2 gf ed | c2 ed cB | A2 cB GE | "D"D4z2 |: "A7"A3c eg | 
+"D"fA df Aa | "A7"a2 cg Ag | "D"fA df A2 | "A7"A3c eg | "D"fA df Aa | "A7"a2 cg Ac | "D"d4z2 :| 
+% wz02195
+% Nov 29 2016

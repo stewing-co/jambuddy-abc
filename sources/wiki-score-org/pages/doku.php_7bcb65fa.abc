@@ -1,0 +1,26 @@
+X:801
+T:N.11 Expressivo
+C:Antonio Thomaz de Lima
+M:C
+L:1/4
+K:A
+V: 1 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%----------- edit between the lines ------------
+[Q:"Expressivo"] "_com surdina"\
+(E/c/)     (A/F/)   D (F//E//D//C//)               | \
+(B,/D/)    (C/>B,/) A,3/2 !crescendo(!(c//d//)     | \
+!crescendo)!(e/c'/)   !diminuendo(! (a/f/)!diminuendo)! e (f//e//).d//.c// | \
+(B/d/)     (c/B/)   a,3/2  (A//G//)                            | \
+(F/A/G/F/)       c3/2   (A//G//)                               | \
+(F/A/G/F/)       c3/2  !crescendo(!  c//c//                    | \
+!crescendo)! (d/>c/)    (B/A/) !diminuendo(!   (c/G) !diminuendo)! G//A//     | \
+B/c//B//   (A/G/)  !sfz! (=G F/) !f! !crescendo(! c//c//                     | \
+!crescendo)! (d/>c/)   (B/A/)  !diminuendo(!  (c/G) !diminuendo)! G//A//      || \
+[M: 3/4] B/c//B//  (A/G/)!diminuendo(! (F || [M:3/8] !diminuendo)!F/)z/      || \
+[M:2/4] "_sem surdina" Z | z2 | z2  | z z/ !f!!>!c//!>!d//         | \
+!>!e/!>!c'/!>!a/!>!f/ | !>![eA] .f//.e//.d//.c//     | \
+!>!B/ z/ z/ !>![B/D/]                                || \
+[M:2/8] !f! [C/A/] A//G//                            ||
+%-----------------------------------------------

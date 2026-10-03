@@ -1,0 +1,85 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Allewander (Alewander)  CF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.327 (AL05857) orig. C,F-Dur
+T: "Riebg\"arteler", T\"anze aus Halisberg. S.319-338
+T: Aus dem Repertoire von Johann und Melchior Zenger.
+%%MIDI program 21
+R:alewander
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+e | "C"e>G G>e | e>G G>e |  ef ^fg | a2 gd |  "G7"d>G G>d | d>G Gd | de f^f | "C"a2ge | 
+e>G Ge | e>G Ge | "D7"e^f ga | "G"b2 dg | "D7"^f>e f>e | "G"e>d a>g | "D7"^fe cA | "G"G2zg || 
+"G7"g>d dg | "C"g>e ea | "A7"a>e ea | "Dm"a>f fa | !>!"G7"g2 ^f/g/a/b/  | ("C"c'b) .c'.e | {/a}"G7"g^f gB | {/f}"C"e^d ec | !>!"G7"g2 ^f/g/a/b/  | 
+("C"c'b) .c'.e | {/a}"G7"g^f .g.B | "C"cc cz |: [K:F] "F"A2A2 | A2dc | "C7"c>B BB | BG Bc | e2e2 | e2dc | 
+"F"a>f ff | f2AB | c2c2 | c2f>e | "Bb"d2d2 | db ag | "F/C"f2f2 | "C7"ef/e/ de | "F"f2f2 |1 f2 c>B :|2 f2z2 |] 
+% AL05857
+X:2
+T:Allewander (Alewander)  GC 5-
+%%MIDI program 21
+R:alewander
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+B | "G"B>D D>B | B>D D>B | Bc ^cd | e2 dA | "D7"A>D D>A | A>D DA | AB c^c | "G"e2dB | 
+B>D DB | B>D DB | "A7"B^c de | "D"f2 Ad | "A7"^c>B c>B | "D"B>A e>d | "A7"^cB GE | "D"D2zd || 
+"D7"d>A Ad | "G"d>B Be | "E7"e>B Be | "Am"e>c ce | !>!"D7"d2 ^c/2d/2e/2f/2 | ("G"gf) .g.B | {/e}"D7"d^c dF | {/c}"G"B^A BG | !>!"D7"d2 ^c/2d/2e/2f/2 | 
+("G"gf) .g.B | {/e}"D7"d^c .d.F | "G"GG Gz |: [K:C] "C"E2E2 | E2AG | "G7"G>F FF | FD FG | B2B2 | B2AG | 
+"C"e>c cc | c2EF | G2G2 | G2c>B | "F"A2A2 | Af ed | "C/G"c2c2 | "G7"Bc/2B/2 AB | "C"c2c2 |1 c2 G>F :|2 c2z2 |] 
+% AL05857
+X:3
+T: Allewander (Alewander)  CF (5letras transposed)
+%%MIDI program 21
+R:alewander
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+e | "C"e>G G>e | e>G G>e |  ef ^fg | a2 gd |  "G7"d>G G>d | d>G Gd | de f^f | "C"a2ge | 
+e>G Ge | e>G Ge | "D7"e^f ga | "G"b2 dg | "D7"^f>e f>e | "G"e>d a>g | "D7"^fe cA | "G"G2zg || 
+"G7"g>d dg | "C"g>e ea | "A7"a>e ea | "Dm"a>f fa | !>!"G7"g2 ^f/g/a/b/  | ("C"c'b) .c'.e | {/a}"G7"g^f gB | {/f}"C"e^d ec | !>!"G7"g2 ^f/g/a/b/  | 
+("C"c'b) .c'.e | {/a}"G7"g^f .g.B | "C"cc cz |: [K:F] "F"A2A2 | A2dc | "C7"c>B BB | BG Bc | e2e2 | e2dc | 
+"F"a>f ff | f2AB | c2c2 | c2f>e | "Bb"d2d2 | db ag | "F/C"f2f2 | "C7"ef/e/ de | "F"f2f2 |1 f2 c>B :|2 f2z2 |] 
+% AL05857
+X:4
+T:Allewander (Alewander)  GC (5letras transposed)
+%%MIDI program 21
+R:alewander
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+B | "G"B>D D>B | B>D D>B | Bc ^cd | e2 dA | "D7"A>D D>A | A>D DA | AB c^c | "G"e2dB | 
+B>D DB | B>D DB | "A7"B^c de | "D"f2 Ad | "A7"^c>B c>B | "D"B>A e>d | "A7"^cB GE | "D"D2zd || 
+"D7"d>A Ad | "G"d>B Be | "E7"e>B Be | "Am"e>c ce | !>!"D7"d2 ^c/2d/2e/2f/2 | ("G"gf) .g.B | {/e}"D7"d^c d"_#"F | {/c}"G"B^A BG | !>!"D7"d2 ^c/2d/2e/2f/2 | 
+("G"gf) .g.B | {/e}"D7"d^c .d.F | "G"GG Gz |: [K:C] "C"E2E2 | E2AG | "G7"G>F FF | FD FG | B2B2 | B2AG | 
+"C"e>c cc | c2EF | G2G2 | G2c>B | "F"A2A2 | Af ed | "C/G"c2c2 | "G7"Bc/2B/2 AB | "C"c2c2 |1 c2 G>F :|2 c2z2 |] 
+% AL05857
+X:5
+T:Allewander (Alewander) A&D (tinwhistle in D)
+T:AL05857 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:alewander
+M:2/4
+L:1/8
+K:A %%MIDI gchordon
+c | "A"c>E E>c | c>E E>c | cd ^de | f2 eB | "E7"B>E E>B | B>E EB | Bc d^d | "A"f2ec | 
+c>E Ec | c>E Ec | "B7"c^d ef | "E"g2 Be | "B7"^d>c d>c | "E"c>B f>e | "B7"^dc AF | "E"E2ze || 
+"E7"e>B Be | "A"e>c cf | "F#7"f>c cf | "Bm"f>d df | !>!"E7"e2 ^d/2e/2f/2g/2 | ("A"ag) .a.c | {/f}"E7"e^d eG | {/d}"A"c^B cA | !>!"E7"e2 ^d/2e/2f/2g/2 | 
+("A"ag) .a.c | {/f}"E7"e^d .e.G | "A"AA Az |: [K:D] "D"F2F2 | F2BA | "A7"A>G GG | GE GA | c2c2 | c2BA | 
+"D"f>d dd | d2FG | A2A2 | A2d>c | "G"B2B2 | Bg fe | "D/A"d2d2 | "A7"cd/2c/2 Bc | "D"d2d2 |1 d2 A>G :|2 d2z2 |] 
+% AL05857
+X:6
+T:Allewander (Alewander) A&D (tinwhistle in D) solo
+T:AL05857 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:alewander
+M:2/4
+L:1/8
+K:A transpose=12
+c | c>E E>c | c>E E>c | cd ^de | f2 eB | B>E E>B | B>E EB | Bc d^d | f2ec | 
+c>E Ec | c>E Ec | c^d ef | "_#"g2 Be | ^d>c d>c | c>B f>e | ^dc AF | E2ze || 
+e>B Be | e>c cf | f>c cf | f>d df | !>!e2 ^d/2e/2f/2"_#"g/2 | (a"_#"g) .a.c | {/f}e^d e"_#"G | {/d}c"_c"^B cA | !>!e2 ^d/2e/2f/2"_#"g/2 | 
+(a"_#"g) .a.c | {/f}e^d .e"_#".G | AA Az |: [K:D] F2F2 | F2BA | A>G GG | GE GA | c2c2 | c2BA | 
+f>d dd | d2FG | A2A2 | A2d>c | B2B2 | Bg fe | d2d2 | cd/2c/2 Bc | d2d2 |1 d2 A>G :|2 d2z2 |]
+% July 23, 2016

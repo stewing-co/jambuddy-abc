@@ -1,0 +1,18 @@
+X:1003
+T:N.10 Dueto [2nd Act]
+C:Fonseca, Eduardo da (1863-1938)
+M:3/4
+L:1/4
+K:D
+V: 3 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 3 }]
+%-------------------------------
+[Q:"Moderato"] !f! !>![DA]/z/ [DA]//E//F//G// A//G//F//E// | D/z/ {ABc}[Dd]/z/z || \
+A,/z/ A,/z//A,// A,/z//A,// |A,/"_Pizz."z/ .F/.E/ .D/z/ | \
+"_Arco"B,/z/B,-B,/z//D// | C/z/zz | A,-A,/z//A,// B,/>^D/ | E-E/z/D | (.D/.D/)(DC/)z//C// | \
+D/"_Pizz."z/ .F/.E/ .D/z/||[K:A]"_Arco"(CE/)D/ C/B,/ | (A,/>B,/C2) |(D/>E/ F/)E/D/D/ | A2z | \
+(CE/)(D/C/B,/) | (A,/>B,/C>)C | DCD | C/A,/A,A,||[K:D]A,/z/ A,/>A,/ A,/>A,/ | \
+A,/"_Pizz."z/ .F/.E/ .D/z/ | "_Arco"B,B,>D | C/(C/ D/E/G/C/) | DA,/>A,/ B,/>^D/ | E2D | D>DC |
+D(.D/.F/)!>![B,G] |[D2F2] !///!!fermata![EA] |[D/A/]z/ ({A,B,C} D/)z/z |] \
+%-------------------------------

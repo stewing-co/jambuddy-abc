@@ -1,0 +1,17 @@
+X:102
+T:Panis Angelicus
+C:Frei Manuel Cardoso
+M:C|
+L:1/4
+K:F
+V: 2 clef=alto name="Altus" sname="A."
+%%MIDI program 1 1
+%%staves [ 2 ]
+[K: alto2]
+[V: 2]	C2- D2 | D E D/E/ F- | F E/D/ E E | F A F2- | F2 F2 | E2 F3/2 F1/2
+w:Pa--nis An-ge-------li-cus fit pa- - nis ho--mi
+| G2 z G | A A B3/2 A1/2 | G G F A- | A/G/ G2 ^F/E/ | ^F F G2
+w: num dat pa-nis cae---li-tus cae-------li-tus
+%
+[V: 2]| z2 z G | A A B A | G D E E |
+w: dat pa-nis cae-li-tus fi-gu-ris

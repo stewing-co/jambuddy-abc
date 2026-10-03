@@ -1,0 +1,28 @@
+X:1
+T:Sonata III
+S:A Tempo Giusto
+B:XII Suonate, a Flauto Solo, Con il suo Basso Continuo, per Violoncello ò Cembalo, Opera Seconda
+C:Benedetto Marcello, Nobile Veneto
+N:dilettante di Contrapunto, e Accademico Filarmonico, et Arcade
+%%MIDI ratio 3 1
+M:3/8
+L:1/8
+K:G dor
+V:1
+|: "Presto"z G/A/B/c/ | d d d | B G g - | g ^f2 | g2 B | cAd | Bg/f/_e/d/ | _ecc | ff/_e/d/c/ | dBB | _ee/d/c/B/ | cAA |
+daa | adg - | ga/g/f/e/ | fd'd' | d'gc' - | c'd'/c'/b/a/ | b/ a/ g/ f/ e/ d/ | ^ca/g/f/e/ | fdd | gg/f/e/d/ | ecc | ff/e/d/c/ | dBB |
+eg/f/e/d/ | ^cAa | z Aa | z Gg- | gf>e | f e2 d3 :: z d/e/f/g/ | aaa | fdd' - | d' ^c'2 | d'2 f | gea | fd/e/f/d/ |
+ggg | _ec/d/_e/c/ | fff | d b2 - | b a2 | bg/f/_e/d/ | c3 | BB/c/d/_e/ | fff | _ec/d/_e/f/ | g g g | ^f2 z |
+z g/f/_e/d/ | _ecc | ff/_e/d/c/ | dBB | _ee/d/c/B/ | cAA | daa - | adg - | g/f/_ed | c/B/AG | ^fga | b a2 |
+gG/A/B/c/ | ddd | BGg - | g ^f2 | g2 B | cAd | B2 z | z c'/b/a/g/ | aff | bb/a/g/f/ | g_ee | aa/g/^f/e/ | ^fdd' |
+zdd' | zcc' - | c'b>a | b a2 | g "|"f z/ g/ | _e "|"d z/ _e/ | c B z/ B/ | Add' | z dd' | z cc' - | c'b>a | b a2 | g2 z :|
+V:2
+K:G dor bass
+%In lilypond the two measures of rest at the beginning of the line should both be R2.
+|: z2 z | z2 z | z g/a/b/c'/ | d'd'd' | bgg' - | g' ^f'2 | g'2 z | z c'/b/a/g/ | aff | bb/a/g/f/ | g_ee | aa/g/^f/e/ |
+^fdd | g3 | ^c3 | dd'/c'/b/a/ | g2 e ^f3 | g3 | a3 | z d'/c'/b/a/ | bgg | c'c'/b/a/g/ | aff | bb/a/g/f/ |
+gee | aa/g/f/e/ | dd'/c'/b/a/ | ge/d/^c/=B/ | adF | G A2 | d3 :: z2 z | z2 z | z d/e/f/g/ | aaa | fdd' -| d' ^c'2 | d'2 z |
+z g/a/b/g/ | c'c'c' | af/g/a/f/ | bB/c/d/_e/ | fff | dBb - | b a2 | b3 | z f/g/a/b/ | c'c'c' | bg/a/b/c'/ | d'd'd' |
+=b2 z | z c'/b/a/g/ | aff | bb/a/g/f/ | g_ee | aa/g/^f/e/ | ^fd/c/B/A/ | Gg/f/_e/d/ | _e3- | _e3 - | _ed/c/B/A/ | GdD |
+G2 z | z2 z | z g/a/b/c'/ | d'd'd' | bGg' - | g' ^f'2 | g' g'/f'/_e'/d'/ | e' c'c' | f'f'/_e'/ d'/ c'/ | d'bb | _e'e'/d'/c'/b/ | c'aa | d'd'/c'/b/a/ |
+gg'/f'/_e'/d'/ | c'a/g/^f/e/ | dgB | c d2 | G =B2 | c G2 | ^f g z/ g/ | dd'/c'/b/a/ | gg'/f'/_e'/d'/ | c'a/g/^f/e/ | dgB |  c d2 | G2 z :|

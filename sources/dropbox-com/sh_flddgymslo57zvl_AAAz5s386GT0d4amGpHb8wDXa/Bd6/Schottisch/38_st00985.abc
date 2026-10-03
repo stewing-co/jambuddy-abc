@@ -1,0 +1,62 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Mueter, was sy V\"ogeli? (Schottisch)  CGF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.260 (st00985) orig. C,G,F-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"eG ef | "G7"dG de | ff/e/ fg | "C"fe/d/ cd | eG ef | "G7"dG de | gf/e/ fe/d/ | "C"ce cz :: [K:G] "G"BG/B/ d2 | 
+dB/d/ g2 | "D7"f>e dc | "G"B/c/^c/d/ ed | BG/B/ d2 | dB/d/g2 | "D7"ff/e/ d/c/B/A/ | "G"GG G"_>Teil A"z :: [K:F] "F"AA/A/ AB | 
+c2f2 | "Bb"dd/d/ df | "F"c2A2 | "C7"gg/g/ gf | edc2 |1 cc/c/ cB | "F"AGF2 :|2 c>B BE | "F"FF Fz || 
+|: "C7"d>c e>c | "F"fc/=B/  cf | "C7"ec/=B/ c_B | "F"AG FC | "C7"d>c e>c | "F"fc/=B/ cA | "C7"B>E EC | "F"FA Fz :| 
+W: Parts: ABACD
+X:2
+T: Mueter, was sy V\"ogeli? (Schottisch)  CGF (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"eG ef | "G7"dG de | ff/e/ fg | "C"fe/d/ cd | eG ef | "G7"dG de | gf/e/ fe/d/ | "C"ce cz :: [K:G] "G"BG/B/ d2 | 
+dB/d/ g2 | "D7"f>e dc | "G"B/c/^c/d/ ed | BG/B/ d2 | dB/d/g2 | "D7"ff/e/ d/c/B/A/ | "G"GG G"_>Teil A"z :: [K:F] "F"AA/A/ AB | 
+c2f2 | "Bb"dd/d/ df | "F"c2A2 | "C7"gg/g/ gf | edc2 |1 cc/c/ cB | "F"AGF2 :|2 c>B BE | "F"FF Fz || 
+|: "C7"d>c e>c | "F"fc/=B/  cf | "C7"ec/=B/ c_B | "F"AG FC | "C7"d>c e>c | "F"fc/=B/ cA | "C7"B>E EC | "F"FA Fz :| 
+W: Parts: ABACD
+% st00985
+X:3
+T:Mueter, was sy V\"ogeli? (Schottisch) DA&G (tinwhistle in D)
+T:st00985 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"D"fA fg | "A7"eA ef | gg/2f/2 ga | "D"gf/2e/2 de | fA fg | "A7"eA ef | ag/2f/2 gf/2e/2 | "D"df dz :: [K:A] "A"cA/2c/2 e2 | 
+ec/2e/2 a2 | "E7"g>f ed | "A"c/2d/2^d/2e/2 fe | cA/2c/2 e2 | ec/2e/2a2 | "E7"gg/2f/2 e/2d/2c/2B/2 | "A"AA A"_>Teil A"z :: [K:G] "G"BB/2B/2 Bc | 
+d2g2 | "C"ee/2e/2 eg | "G"d2B2 | "D7"aa/2a/2 ag | fed2 |1 dd/2d/2 dc | "G"BAG2 :|2 d>c cF | "G"GG Gz || 
+|: "D7"e>d f>d | "G"gd/2^c/2 dg | "D7"fd/2^c/2 d=c | "G"BA GD | "D7"e>d f>d | "G"gd/2^c/2 dB | "D7"c>F FD | "G"GB Gz :| 
+W:Parts: ABACD
+X:4
+T:Mueter, was sy V\"ogeli? (Schottisch) DA&G (tinwhistle in D) solo
+T:st00985 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D transpose=12
+fA fg | eA ef | gg/2f/2 ga | gf/2e/2 de | fA fg | eA ef | ag/2f/2 gf/2e/2 | df dz :: [K:A] cA/2c/2 e2 | 
+ec/2e/2 a2 | "_#"g>f ed | c/2d/2^d/2e/2 fe | cA/2c/2 e2 | ec/2e/2a2 | "_#"gg/2f/2 e/2d/2c/2B/2 | AA A"_>Teil A"z :: [K:G] BB/2B/2 B"_c"c | 
+d2g2 | ee/2e/2 eg | d2B2 | aa/2a/2 ag | fed2 |1 dd/2d/2 d"_c"c | BAG2 :|2 d>"_c"c cF | GG Gz || 
+|: e>d f>d | gd/2^c/2 dg | fd/2^c/2 d=c | BA GD | e>d f>d | gd/2^c/2 dB | "_c"c>F FD | GB Gz :|
+W:Parts: ABACD
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 29, 2016

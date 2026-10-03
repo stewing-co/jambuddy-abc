@@ -1,0 +1,94 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:L\"andler  G
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.186 (LD09323) orig. G
+T: \"Uberliefert durch Lina Krupski-Herger (1946), Lehrer Leuthold (1945), Edy Lussy und Melk Rohrer (1949)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"GB Gd Bg | db gd' bg | "D7"da dc' ac | "G"Bg db gB | GB Gd Bg | db gd' bg | 
+"D7"da dc' ad |1 "G"g2z2z2 :|2 "G"g2z2zg |: "D7"c'b ag fa | "G"gb dg Bd | "D7"dc BA GF | 
+"G"GB dg bd' | "D7"c'b ag fa | "G"gb dg de | "D7"dc BA GF |1 "G"G2z2zg :|2 "G"G2z2z2 |] 
+% LD09323
+X:2
+T:L\"andler  F 2-
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"FA Fc Af | ca fc' af | "C7"cg cb gB | "F"Af ca fA | FA Fc Af | ca fc' af | 
+"C7"cg cb gc |1 "F"f2z2z2 :|2 "F"f2z2zf |: "C7"ba gf eg | "F"fa cf Ac | "C7"cB AG FE | 
+"F"FA cf ac' | "C7"ba gf eg | "F"fa cf cd | "C7"cB AG FE |1 "F"F2z2zf :|2 "F"F2z2z2 |] 
+% LD09323
+X:3
+T:L\"andler  C 7-
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"CE CG Ec | Ge cg ec | "G7"Gd Gf dF | "C"Ec Ge cE | CE CG Ec | Ge cg ec | 
+"G7"Gd Gf dG |1 "C"c2z2z2 :|2 "C"c2z2zc |: "G7"fe dc Bd | "C"ce Gc EG | "G7"GF ED CB, | 
+"C"CE Gc eg | "G7"fe dc Bd | "C"ce Gc GA | "G7"GF ED CB, |1 "C"C2z2zc :|2 "C"C2z2z2 |] 
+% LD09323
+X:4
+T:L\"andler  G (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"GB Gd Bg | db gd' bg | "D7"da dc' ac | "G"Bg db gB | GB Gd Bg | db gd' bg | 
+"D7"da dc' ad |1 "G"g2z2z2 :|2 "G"g2z2zg |: "D7"c'b ag fa | "G"gb dg Bd | "D7"dc BA GF | 
+"G"GB dg bd' | "D7"c'b ag fa | "G"gb dg de | "D7"dc BA GF |1 "G"G2z2zg :|2 "G"G2z2z2 |] 
+% LD09323
+X:5
+T:L\"andler  F (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"FA Fc Af | ca fc' af | "C7"cg cb gB | "F"Af ca fA | FA Fc Af | ca fc' af | 
+"C7"cg cb gc |1 "F"f2z2z2 :|2 "F"f2z2zf |: "C7"ba gf eg | "F"fa cf Ac | "C7"cB AG FE | 
+"F"FA cf ac' | "C7"ba gf eg | "F"fa cf cd | "C7"cB AG FE |1 "F"F2z2zf :|2 "F"F2z2z2 |] 
+% LD09323
+X:6
+T:L\"andler  C (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"CE CG Ec | Ge cg ec | "G7"Gd Gf dF | "C"Ec Ge cE | CE CG Ec | Ge cg ec | 
+"G7"Gd Gf dG |1 "C"c2z2z2 :|2 "C"c2z2zc |: "G7"fe dc Bd | "C"ce Gc EG | "G7"GF ED CB, | 
+"C"CE Gc eg | "G7"fe dc Bd | "C"ce Gc GA | "G7"GF ED CB, |1 "C"C2z2zc :|2 "C"C2z2z2 |] 
+% LD09323
+X:7
+T:L\"andler D (tinwhistle in D)
+T:LD09323 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"DF DA Fd | Af da fd | "A7"Ae Ag eG | "D"Fd Af dF | DF DA Fd | Af da fd | 
+"A7"Ae Ag eA |1 "D"d2z2z2 :|2 "D"d2z2zd |: "A7"gf ed ce | "D"df Ad FA | "A7"AG FE DC | 
+"D"DF Ad fa | "A7"gf ed ce | "D"df Ad AB | "A7"AG FE DC |1 "D"D2z2zd :|2 "D"D2z2z2 |] 
+X:8
+T:L\"andler D (tinwhistle in D) solo
+T:LD09323 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:D transpose=12
+DF DA Fd | Af da fd | Ae Ag eG | Fd Af dF | DF DA Fd | Af da fd | 
+Ae Ag eA |1 d2z2z2 :|2 d2z2zd |: gf ed ce | df Ad FA | AG FE D"_=C"C | 
+DF Ad fa | gf ed ce | df Ad AB | AG FE D"_=C"C |1 D2z2zd :|2 D2z2z2 |]
+% Aug.31, 2016

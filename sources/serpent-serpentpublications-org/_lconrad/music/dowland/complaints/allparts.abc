@@ -1,0 +1,160 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+M:3/2
+%%MIDI nobarlines
+L:1/2
+T:IIII. If my complaints
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+K:Gdor
+T:Cantus
+|:G B _e | d2 c B > A G | ^F2 z | 
+w:My pas- sions were e- nough _ to prove, 
+w:Is love my Judge, and yet I am condemnd?
+G A c | B > B A | G G ^F | G3 :|
+w:or make love see where- in I suf- fer wrong: 
+w:that my de- spaires had go- vernd mee too long.  
+w:Thou plen- ty hast, yet _ me dost _ scant:
+w:Thou made a God, and yet thy power con- temnd.
+|: A B c | d2 c/ B/ | B2 A | B2 z | 
+w:O love, I live and _ die in thee, 
+w:Thy wounds doe fresh- ly _ bleed in mee,
+w:That I do live, it _ is thy power:
+w:That I de- sire it _ is thy worth:
+d c A B3 "(1)"A G > G | ^F3 :|
+w: my heart for thy un- kind- nesse breakes: 
+w:thy griefe in my deepe sighes still speakes: 
+w:If love doth make mens lives too sowre,
+w:Let me not love, not live hence- forth.
+N:(1) original has quarter note
+|: d f _e | d2 _e | d2 c | d2 z | 
+w:thou saist thou canst my harmes re- paire, 
+w:Yet thou dost  hope when I de- spaire, 
+w:Die shall my hopes, but not my faith,
+w:May heere des- paire, which true- ly faith,
+d c d B > B A | G G ^F | G3 :|
+w:and when I hope, thou makst me hope in vaine.
+w:yet for re- dresse, thou letst me still com- plaine.
+w:That you that of my fall may hear- ers be
+w:I was more true to love than love to me.
+
+X:2
+M:3/2
+%%MIDI nobarlines
+L:1/4
+T:IIII. If my complaints
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+N: Original clef C on second line
+K:Gmin
+N:Yes, he really has two flats for the altus and only one on the other parts.
+T:Altus
+|:D2 G2 G2 G6 G2 F2 B, C D6 E2 C2 A,2 D2 G2 F2 C2
+w:1.If my com- plaints could pas- si- ons move, or make love see where- in I
+w:My pas- sions were e- nough _ to prove, that my de- spaires had go- vernd
+w:2.Can love be rich, and yet I _ want? Thou plen- ty hast, yet _ 
+w:Is love my Judge, and yet I am condemnd? Thou made a God, and yet thy 
+D3 C =B,6 :: F2 D2 E2 D > E F D G2 E2 F3 E D6 z D =E G2 ^F G3 F
+w: suf- fer wrong: O love, I live _ _ I live  and die in thee, thy griefe in _ my deepe
+w:  mee too long.  Thy wounds doe fresh- * _ ly fresh- ly bleed in mee, my heart for _ thy un- 
+w:me dost _ scant: That I do live, _ _ it is _ thy _ power: If _ love doth 
+w:power con- temnd. That I de- sire _ _ it is _ thy _ worth: Let _ me not love, _
+E D D4 C2 D6 :: F3 B2 A B3 A G2 F2 G3 G ^F6 z B A3 A
+w:  sighes deepe sighs  still speakes: Yet thou dost hope dost hope when I de- spaire, and when I 
+w:   kind un- kind- nesse breakes: thou saist thou canst thou canst my harmes re- paire, yet for re- 
+w: make _ mens _ lives too sowre, Die shall my hopes, _ but _ not my faith, That you that
+w: not _ live hence- forth. May heere des- paire, _ which _ true- ly faith, I was more
+G3 G F D B, C D3 C =B,6 :|
+w:hope, thou makst thou makst me hope in vaine.
+w:dresse, thou letst thou letst me still com- plaine.
+w:of my fall _ may _ hear- ers be
+w:true to love _ than _ love to me.
+
+X:3
+M:3/2
+%%MIDI transpose -12
+%%MIDI nobarlines
+L:1/4
+T:IIII. If my complaints
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+N: Original clef C on middle line
+K:Gdor -8va
+T:Tenor
+|:B2 d2 c2 B G B2 _e2 d2 d d2 G A4 z G G4 ^F2 G2
+w:1.~If my com- plaints could pas- sions move, could pas- sions move, or make love see
+w:My pas- sions were e- nough  to prove, e- nough to prove,  that my de- spaires
+w:2.~Can love be rich, and yet I want? and yet I want, Thou plen- ty hast, 
+w:Is love my Judge, and yet I am con- demnd? con- demned? Thou made a God,
+d2 d2 G2 A3 A G6 :: F3 B2 A B > c d f _e d c B c3 c B6 G2 c2
+w:where- in I suf- fer wrong: O love, I live _ and _ die, I live and die in thee, thy griefe
+w: had go- vernd mee too long.  Thy wounds doe fresh - ly  bleed _ do fresh- ly bleed  in mee, my hart
+w:yet me _ dost _ scant: That I do live, _ it _ is, I live it is thy power: If love
+w:and yet thy power con- temnd. That I de- sire _ it _ is, I de- sire it, thy worth: Let me
+d3 c B A G2 A2 B2 A G A6 :: B2 d2 c2 B4 c2 d2 _e4 d6 f2 f3 f
+w: in my  _ deepe sighes deepe sighs  still _ speakes: Yet thou dost hope when I de- spaire, and when I 
+w: for thy _ un- kind un- kind- nesse _ breakes: thou saist thou canst my harmes re- paire, yet for re- 
+w: doth make _ mens lives, mens lives, too _ sowre, Die shall my hopes, but not my faith, That you that
+w: not love, _ not live, not live, hence- * forth. May heere des- paire, which true- ly faith, I was more
+d4 z F G A B G A2 G6 :|
+w: hope, thou makst me hope in _ vaine. 
+w:dresse, thou letst me still com- * plaine. 
+w: of my fall may hear- ers _ be
+w: true to love than love to _ me.
+
+X:4
+M:3/2
+%%MIDI transpose -24
+%%MIDI nobarlines
+L:1/4
+T:IIII. If my complaints
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+K:Gdor bass
+T:Bassus
+|: G2 G2 G2 G6 G2 B2 _e2 d3 c
+w:1.~If my com- plaints could pas- sions move,  _
+w:My pas- sions were e- nough to prove,  _
+w:2.~Can love be rich, and yet I want? _
+w:Is love my Judge,~and yet I am con- demnd?
+=B2 c2 A4 G > A B c d2 _e2 d2 d2 G6 ::
+w:or make love see _ where- * in I suf- fer wrong: 
+w:that my de- spaires _ had _ go- vernd mee too long.  
+w:Thou plen- ty hast, _ yet _ me _ dost scant: _
+w:Thou made a God, _ and _ yet thy power con- temnd.
+d2 d2 c2 B4 _e2 g2 f4 B6 B2 A2 d2
+w:O love, I live and  die in thee, thy griefe thy 
+w:Thy wounds doe fresh- ly  bleed in mee, my heart my
+w:That I do live, it is thy power: If love, if love, doth
+w:That I de- sire it is thy worth: Let me, let me,  not
+G2 g3 g f2 _e3 e d6 ::
+w:griefe in my deepe sighes still speakes: 
+w:heart for thy un- kind- nesse breakes: 
+w: make mens lives too sowre,
+w: love, not live hence- forth.
+z16 "(1)"z4 B2 f2 d2 g G B c d2 _e2
+w:and when I hope, thou makst, thou makst, me 
+w:yet for re- dresse, thou letst, thou letst, me 
+w:That you that of my fall, my fall may
+w:I was more true to love, to love, than
+N:(1)Rest is editorial.
+d2 d2 G6 :|
+w:hope in vaine.
+w:still com- plaine.
+w: hear- ers be
+w: love to me.

@@ -1,0 +1,42 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Luterbacher (Walzer) CG (wz06595) 
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.255 (wz06595) orig. C,G
+T: Repertoire der "Dorfmusig Aesch". S.255-269
+T:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C".G2z(GE2) | "Am".c2z(cA2) | "G7".d2z(dB2) | G6 | "F".A2zAG2 | "G7".F2z(FD2) | ("C"G6 | G6) | .g2z(ge2) | 
+"Am".c2z(cA2) | "G7".d2z(dB2) | G6 | "F".A2 z(AG2) | "G7".F2z(FD2) | ("C"C6 | C2)z2B2 || [K:G]  ("G"Bd).d2.B2 | (GB).B2.G2 | 
+("D7"FA).A2.F2 | D4c2 | (ce).e2.c2 | (Ac).c2.F2 | "G"GD EF GA | Bc de fg | (Bd).d2.B2 | (GB).B2.G2 | 
+("D7"FA).A2.F2 | D4c2 | (ce).e2.c2 | (Ac).c2.F2 | ("G"GB).d2"D7".F2 | "G"G3GAB || [K:C] [L:1/4] "C"(Tc.E).E | (Tc.E).E | (E/G/)d>c | 
+"G7"(TB.D).D | (TB.D).D | (D/G/)e>d | "C"(Tc.E).E | (Tc.E).E | (E/G/)d>c | "G7"B(G/^F/G) | (e2d) | "C"cz"*"z |] 
+W: Anmerkung Hrsg.: * letzter Takt, Schlag 3, HC: 2 Achtel-Überleitung: c-b, vermutlich fehlt ein weiterer Teil.
+ % wz06595
+% April 26, 2017
+
+X:2
+T:Luterbacher (Walzer) FC 5+ (wz06595) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.255 (wz06595) orig. C,G
+S: Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+"F".c2z(cA2) | "Dm".f2z(fd2) | "C7".g2z(ge2) | c6 | "Bb".d2zdc2 | "C7".B2z(BG2) | ("F"c6 | c6) | .c'2z(c'a2) | 
+"Dm".f2z(fd2) | "C7".g2z(ge2) | c6 | "Bb".d2 z(dc2) | "C7".B2z(BG2) | ("F"F6 | F2)z2e2 || [K:Cmaj] ("C"eg).g2.e2 | (ce).e2.c2 | 
+("G7"Bd).d2.B2 | G4f2 | (fa).a2.f2 | (df).f2.B2 | "C"cG AB cd | ef ga bc' | (eg).g2.e2 | (ce).e2.c2 | 
+("G7"Bd).d2.B2 | G4f2 | (fa).a2.f2 | (df).f2.B2 | ("C"ce).g2"G7".B2 | "C"c3cde || [K:Fmaj] [L:1/4] "F"(Tf.A).A | (Tf.A).A | (A/2c/2)g>f | 
+"C7"(Te.G).G | (Te.G).G | (G/2c/2)a>g | "F"(Tf.A).A | (Tf.A).A | (A/2c/2)g>f | "C7"e(c/2=B/2c) | (a2g) | "F"fz"*"z |] 
+W:
+W:Anmerkung Hrsg.: * letzter Takt, Schlag 3, HC: 2 Achtel-Überleitung: [c-b], vermutlich fehlt ein weiterer Teil.
+% wz06595
+% April 26, 2017

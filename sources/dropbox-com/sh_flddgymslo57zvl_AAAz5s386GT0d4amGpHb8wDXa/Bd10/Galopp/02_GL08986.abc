@@ -1,0 +1,84 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Galopp 1870/75 1870/75  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.44(GL08986) orig. C,F-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"c2cc c2c2 | e6dc | "G7"B2A2 G2B2 | "C"c4z2GF || "C".G4.A4 | G2ee e2c2 | .G4.A4 | G2gg g2e2 | 
+{/e}"G7"d2^c2 d2e2 | .f4 B3c | .d4 E3F | "C"A4.G4 | .G4 .A4 | G2cc c2B2 | "F".A4.B4 | A2dd d2c2 | "G7"B2c2 d2e2 | 
+"F"f2g2a4 | "C"g2cd "G7"e2d2 | "C"c2c2 c2z2 |: [L:1/8] "G7"d3c | B>G ^FG | "C"e3d | c>G ^FG | "G7"fed2 | "C"edc2 | 
+"G7"gB/c/ de | "C"c2z2 :| [K:F] "F"A3B | =Bc f>e | "Gm"e3d | G2z2 | "C7"G3A | B>G e>d | "F"d3c | 
+A2z2 | A3B | =Bc f>e | "Gm"ed (!>!g2 | g).f .e.d | "C7"=Bc (!>!e2 | e)d  BG | "F"F2 f>f | f2z2 |] 
+% GL08986
+X:2
+T: Galopp 1870/75  GC 5-
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"G2GG G2G2 | B6AG | "D7"F2E2 D2F2 | "G"G4z2DC || "G".D4.E4 | D2BB B2G2 | .D4.E4 | D2dd d2B2 | 
+{/B}"D7"A2^G2 A2B2 | .c4 F3G | .A4 B,3C | "G"E4.D4 | .D4 .E4 | D2GG G2F2 | "C".E4.F4 | E2AA A2G2 | "D7"F2G2 A2B2 | 
+"C"c2d2e4 | "G"d2GA "D7"B2A2 | "G"G2G2 G2z2 |: [L:1/8] "D7"A3G | F>D ^CD | "G"B3A | G>D ^CD | "D7"cBA2 | "G"BAG2 | 
+"D7"dF/2G/2 AB | "G"G2z2 :| [K:C] "C"E3F | ^FG c>B | "Dm"B3A | D2z2 | "G7"D3E | F>D B>A | "C"A3G | 
+E2z2 | E3F | ^FG c>B | "Dm"BA (!>!d2 | d).c .B.A | "G7"^FG (!>!B2 | B)A FD | "C"C2 c>c | c2z2 |] 
+% GL08986
+X:3
+T: Galopp 1870/75 CF (5letras transposed)
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"c2cc c2c2 | e6dc | "G7"B2A2 G2B2 | "C"c4z2GF || "C".G4.A4 | G2ee e2c2 | .G4.A4 | G2gg g2e2 | 
+{/e}"G7"d2^c2 d2e2 | .f4 B3c | .d4 E3F | "C"A4.G4 | .G4 .A4 | G2cc c2B2 | "F".A4.B4 | A2dd d2c2 | "G7"B2c2 d2e2 | 
+"F"f2g2a4 | "C"g2cd "G7"e2d2 | "C"c2c2 c2z2 |: [L:1/8] "G7"d3c | B>G ^FG | "C"e3d | c>G ^FG | "G7"fed2 | "C"edc2 | 
+"G7"gB/c/ de | "C"c2z2 :| [K:F] "F"A3B | =Bc f>e | "Gm"e3d | G2z2 | "C7"G3A | B>G e>d | "F"d3c | 
+A2z2 | A3B | =Bc f>e | "Gm"ed (!>!g2 | g).f .e.d | "C7"=Bc (!>!e2 | e)d  BG | "F"F2 f>f | f2z2 |] 
+% GL08986
+X:4
+T: Galopp 1870/75  GC (5letras transposed)
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"G2GG G2G2 | B6AG | "D7"F2E2 D2F2 | "G"G4z2DC || "G".D4.E4 | D2BB B2G2 | .D4.E4 | D2dd d2B2 | 
+{/B}"D7"A2^G2 A2B2 | .c4 F3G | .A4 B,3C | "G"E4.D4 | .D4 .E4 | D2GG G2F2 | "C".E4.F4 | E2AA A2G2 | "D7"F2G2 A2B2 | 
+"C"c2d2e4 | "G"d2GA "D7"B2A2 | "G"G2G2 G2z2 |: [L:1/8] "D7"A3G | F>D ^CD | "G"B3A | G>D ^CD | "D7"cBA2 | "G"BAG2 | 
+"D7"dF/2G/2 AB | "G"G2z2 :| [K:C] "C"E3F | ^FG c>B | "Dm"B3A | D2z2 | "G7"D3E | F>D B>A | "C"A3G | 
+E2z2 | E3F | ^FG c>B | "Dm"BA (!>!d2 | d).c .B.A | "G7"^FG (!>!B2 | B)A FD | "C"C2 c>c | c2z2 |] 
+% GL08986
+X:5
+T: Galopp 1870/75 A&D (tinwhistle in D)
+T:GL08986 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:galopp
+M:2/4
+L:1/16
+K:A %%MIDI gchordon
+"A"A2AA A2A2 | c6BA | "E7"G2F2 E2G2 | "A"A4z2ED || "A".E4.F4 | E2cc c2A2 | .E4.F4 | E2ee e2c2 | 
+{/c}"E7"B2^A2 B2c2 | .d4 G3A | .B4 C3D | "A"F4.E4 | .E4 .F4 | E2AA A2G2 | "D".F4.G4 | F2BB B2A2 | "E7"G2A2 B2c2 | 
+"D"d2e2f4 | "A"e2AB "E7"c2B2 | "A"A2A2 A2z2 |: [L:1/8] "E7"B3A | G>E ^DE | "A"c3B | A>E ^DE | "E7"dcB2 | "A"cBA2 | 
+"E7"eG/2A/2 Bc | "A"A2z2 :| [K:D] "D"F3G | ^GA d>c | "Em"c3B | E2z2 | "A7"E3F | G>E c>B | "D"B3A | 
+F2z2 | F3G | ^GA d>c | "Em"cB (!>!e2 | e).d .c.B | "A7"^GA (!>!c2 | c)B GE | "D"D2 d>d | d2z2 |] 
+X:6
+T: Galopp 1870/75 A&D (tinwhistle in D) solo
+T:GL08986 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:galopp
+M:2/4
+L:1/16
+K:A transpose=12
+A2AA A2A2 | c6BA | "_#"G2F2 E2"_#"G2 | A4z2ED || .E4.F4 | E2cc c2A2 | .E4.F4 | E2ee e2c2 | 
+{/c}B2^A2 B2c2 | .d4 "_#"G3A | .B4 C3D | F4.E4 | .E4 .F4 | E2AA A2"_#"G2 | .F4"_#".G4 | F2BB B2A2 | "_#"G2A2 B2c2 | 
+d2e2f4 | e2AB c2B2 | A2A2 A2z2 |: [L:1/8] B3A | "_#"G>E ^DE | c3B | A>E ^DE | dcB2 | cBA2 | 
+e"_#"G/2A/2 Bc | A2z2 :| [K:D] F3G | ^GA d>c | c3B | E2z2 | E3F | G>E c>B | B3A | 
+F2z2 | F3G | ^GA d>c | cB (!>!e2 | e).d .c.B | ^GA (!>!c2 | c)B GE | D2 d>d | d2z2 |]
+% Aug 4, 2016

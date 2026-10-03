@@ -1,0 +1,60 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Galopp-Cherus FBb (GL06484) ABAC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.176 (GL06484) orig. F,Bb
+T: Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+T:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c [P:A] |: "F"az ag | f3c | (Ac) fa | c'3a | "Gm"bz bd' | gz gb | "C7"ez eg | c2zc | "F"az ag | f3c | (Ac) fa | 
+c'3a | "C"gz gc' | ez =ba | "G7"gf ed |1 "C"c2 zc :|2 "C"cc ag [P:B] |: ("F"f4 | f)(c fe) | ("Gm"d4 | d)(d gf) | ("C7"e4 | e)(c ed) | 
+("F"c4 | c)(c ag) | (f4 | f)(c fe) | ("Gm"d4 | d)d ef | "F"c3f | "C7"g3a | ("F"f4 |1 f)a ag :|2 fz z2 || [K:Bb] "Bb"bb/b/ bb  | 
+bz z2 | !>!"F7"c'2!>!d'2 | e'z z2 [P:C] |: "Bb"d4 | d2e2 | (f4 | .d2) z2 | b2b2 | a2g2 | ("F7"f4 | .e2)z2 | c4 | c2d2 | 
+(e4 | .c2)z2 | a2g2 | f2e2 |  ("Bb"dc) dg | f4 | d4 | d2e2 | (f4 | .d2)z2 | b2b2 | c'2d'2 | ("Eb"e'4 | 
+.g2)z2 | "F7"c'2b2 | a2g2 | ("Bb"f4 | .d2)z2 | "Cm"c2g2 |1 "F7"fe dc | "Bb"B2 B>B | .B2z2 :|2 "F"f2 cf | a2fa | "C7"c'c'/c'/ c'c' | "_Fine"c'2 z"_d.c."c |] 
+% GL06484 (H 223/TN 72)
+% Jan 1, 2017 Happy New Year
+
+X:2
+T:Galopp-Cherus CF 5- (GL06484) ABAC
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.176 (GL06484) orig. F,Bb
+S:Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+S:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G |: "C"ez ed | c3G | (EG) ce | g3e | "Dm"fz fa | dz df | "G7"Bz Bd | G2zG | "C"ez ed | c3G | (EG) ce | 
+g3e | "G"dz dg | Bz ^fe | "D7"dc BA |1 "G"G2 zG :|2 "G"GG ed |: ("C"c4 | c)(G cB) | ("Dm"A4 | A)(A dc) | ("G7"B4 | B)(G BA) | 
+("C"G4 | G)(G ed) | (c4 | c)(G cB) | ("Dm"A4 | A)A Bc | "C"G3c | "G7"d3e | ("C"c4 |1 c)e ed :|2 cz z2 || [K:Fmaj] "F"ff/2f/2 ff | 
+fz z2 | !>!"C7"g2!>!a2 | bz z2 |: "F"A4 | A2B2 | (c4 | .A2) z2 | f2f2 | e2d2 | ("C7"c4 | .B2)z2 | G4 | G2A2 | 
+(B4 | .G2)z2 | e2d2 | c2B2 | ("F"AG) Ad | c4 | A4 | A2B2 | (c4 | .A2)z2 | f2f2 | g2a2 | ("Bb"b4 | 
+.d2)z2 | "C7"g2f2 | e2d2 | ("F"c4 | .A2)z2 | "Gm"G2d2 |1 "C7"cB AG | "F"F2 F>F | .F2z2 :|2 "C"c2 Gc | e2ce | "G7"gg/2g/2 gg | "_Fine"g2 z"_d.c."G |] 
+% GL06484 (H 223/TN 72)
+% Jan 1, 2017 Happy New Year
+
+X:3
+T:Galopp-Cherus GC 10- (GL06484) ABAC
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.176 (GL06484) orig. F,Bb
+S:Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+S:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+D |: "G"Bz BA | G3D | (B,D) GB | d3B | "Am"cz ce | Az Ac | "D7"Fz FA | D2zD | "G"Bz BA | G3D | (B,D) GB | 
+d3B | "D"Az Ad | Fz ^cB | "A7"AG FE |1 "D"D2 zD :|2 "D"DD BA |: ("G"G4 | G)(D GF) | ("Am"E4 | E)(E AG) | ("D7"F4 | F)(D FE) | 
+("G"D4 | D)(D BA) | (G4 | G)(D GF) | ("Am"E4 | E)E FG | "G"D3G | "D7"A3B | ("G"G4 |1 G)B BA :|2 Gz z2 || [K:Cmaj] "C"cc/2c/2 cc | 
+cz z2 | !>!"G7"d2!>!e2 | fz z2 |: "C"E4 | E2F2 | (G4 | .E2) z2 | c2c2 | B2A2 | ("G7"G4 | .F2)z2 | D4 | D2E2 | 
+(F4 | .D2)z2 | B2A2 | G2F2 | ("C"ED) EA | G4 | E4 | E2F2 | (G4 | .E2)z2 | c2c2 | d2e2 | ("F"f4 | 
+.A2)z2 | "G7"d2c2 | B2A2 | ("C"G4 | .E2)z2 | "Dm"D2A2 |1 "G7"GF ED | "C"C2 C>C | .C2z2 :|2 "G"G2 DG | B2GB | "D7"dd/2d/2 dd | "_Fine"d2 z"_d.c."D |] 
+% GL06484 (H 223/TN 72)
+% Jan 1, 2017 Happy New Year

@@ -1,0 +1,91 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Schottisch  FBb
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.113 (st09170) orig. F,Bb
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"A2c2 c2f2 | f2a2 {/b}a^ga2 | "C7"c'2g2 {/a}g^fg2 | "F"a2f2 {/g}fef2 |  A2c2 c2f2 | f2a2 {/b}a^ga2 | "C7"c'2g2 {/a}g^fga  | "F"f2a2 f2z2 :: [K:F] 
+ !>!"F"c4!>!f4 | "C7"eee2 G2d2 | ccc2 b2e2 | "F"fff2 a2f2 | !>!c4!>!"Bb"f4 | "C7"eee2 G2d2 | ccc2 b2e2 | "F"fff2 .f4:: [K:Bb]
+"Bb"d2e2!>!f4 | b2d2 f2g2 |  "F7"g2cd e2f2 | "Bb"f2Bc d2F2 | d2e2!>!f4 | b2d2 f2g2 |  "F7"g2cd f2ec | "Bb"B2b2 b2z2:: 
+"Bb"f3B d3g | f2d2 dcB2 | "F7"f2e2 edc2 | "Bb"g2f2 a2b2 | f3B d3g | f2d2 dcB2 | "F7"f2e2 edc2 | "Bb"B2b2 b2z2 :| 
+W:Anmrekung H.C.: 26. Mai 1954
+% st09170
+X:2
+T:Schottisch  CF 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"E2G2 G2c2 | c2e2 {/f}e^de2 | "G7"g2d2 {/e}d^cd2 | "C"e2c2 {/d}cBc2 | E2G2 G2c2 | c2e2 {/f}e^de2 | "G7"g2d2 {/e}d^cde | "C"c2e2 c2z2 :: [K:C] 
+!>!"C"G4!>!c4 | "G7"BBB2 D2A2 | GGG2 f2B2 | "C"ccc2 e2c2 | !>!G4!>!"F"c4 | "G7"BBB2 D2A2 | GGG2 f2B2 | "C"ccc2 .c4:: [K:F]
+"F"A2B2!>!c4 | f2A2 c2d2 | "C7"d2GA B2c2 | "F"c2FG A2C2 | A2B2!>!c4 | f2A2 c2d2 | "C7"d2GA c2BG | "F"F2f2 f2z2:: 
+"F"c3F A3d | c2A2 AGF2 | "C7"c2B2 BAG2 | "F"d2c2 e2f2 | c3F A3d | c2A2 AGF2 | "C7"c2B2 BAG2 | "F"F2f2 f2z2 :| 
+% st09170
+X:3
+T:Schottisch  GC 2+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"B2d2 d2g2 | g2b2 {/c'}b^ab2 | "D7"d'2a2 {/b}a^ga2 | "G"b2g2 {/a}gfg2 | B2d2 d2g2 | g2b2 {/c'}b^ab2 | "D7"d'2a2 {/b}a^gab | "G"g2b2 g2z2 :: [K:G] 
+!>!"G"d4!>!g4 | "D7"fff2 A2e2 | ddd2 c'2f2 | "G"ggg2 b2g2 | !>!d4!>!"C"g4 | "D7"fff2 A2e2 | ddd2 c'2f2 | "G"ggg2 .g4:: [K:C]
+"C"e2f2!>!g4 | c'2e2 g2a2 | "G7"a2de f2g2 | "C"g2cd e2G2 | e2f2!>!g4 | c'2e2 g2a2 | "G7"a2de g2fd | "C"c2c'2 c'2z2:: 
+"C"g3c e3a | g2e2 edc2 | "G7"g2f2 fed2 | "C"a2g2 b2c'2 | g3c e3a | g2e2 edc2 | "G7"g2f2 fed2 | "C"c2c'2 c'2z2 :| 
+% st09170
+X:4
+T:Schottisch  CF (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"E2G2 G2c2 | c2e2 {/f}e^de2 | "G7"g2d2 {/e}d^cd2 | "C"e2c2 {/d}cBc2 | E2G2 G2c2 | c2e2 {/f}e^de2 | "G7"g2d2 {/e}d^cde | "C"c2e2 c2z2 :: [K:C] 
+!>!"C"G4!>!c4 | "G7"BBB2 D2A2 | GGG2 f2B2 | "C"ccc2 e2c2 | !>!G4!>!"F"c4 | "G7"BBB2 D2A2 | GGG2 f2B2 | "C"ccc2 .c4:: [K:F]
+"F"A2B2!>!c4 | f2A2 c2d2 | "C7"d2GA B2c2 | "F"c2FG A2C2 | A2B2!>!c4 | f2A2 c2d2 | "C7"d2GA c2BG | "F"F2f2 f2z2:: 
+"F"c3F A3d | c2A2 AGF2 | "C7"c2B2 BAG2 | "F"d2c2 e2f2 | c3F A3d | c2A2 AGF2 | "C7"c2B2 BAG2 | "F"F2f2 f2z2 :| 
+% st09170
+X:5
+T:Schottisch GC (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"B2d2 d2g2 | g2b2 {/c'}b^ab2 | "D7"d'2a2 {/b}a^ga2 | "G"b2g2 {/a}gfg2 | B2d2 d2g2 | g2b2 {/c'}b^ab2 | "D7"d'2a2 {/b}a^gab | "G"g2b2 g2z2 :: [K:G] 
+!>!"G"d4!>!g4 | "D7"fff2 A2e2 | ddd2 c'2f2 | "G"ggg2 b2g2 | !>!d4!>!"C"g4 | "D7"fff2 A2e2 | ddd2 c'2f2 | "G"ggg2 .g4:: [K:C]
+"C"e2f2!>!g4 | c'2e2 g2a2 | "G7"a2de f2g2 | "C"g2cd e2G2 | e2f2!>!g4 | c'2e2 g2a2 | "G7"a2de g2fd | "C"c2c'2 c'2z2:: 
+"C"g3c e3a | g2e2 edc2 | "G7"g2f2 fed2 | "C"a2g2 b2c'2 | g3c e3a | g2e2 edc2 | "G7"g2f2 fed2 | "C"c2c'2 c'2z2 :| 
+% st09170
+X:6
+T:Schottisch D&G (tinwhistle in D)
+T:st09170 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D transpose=3%%MIDI gchordon
+"D"F2A2 A2d2 | d2f2 {/g}f^ef2 | "A7"a2e2 {/f}e^de2 | "D"f2d2 {/e}dcd2 | F2A2 A2d2 | d2f2 {/g}f^ef2 | "A7"a2e2 {/f}e^def | "D"d2f2 d2z2 :: [K:D] 
+!>!"D"A4!>!d4 | "A7"ccc2 E2B2 | AAA2 g2c2 | "D"ddd2 f2d2 | !>!A4!>!"G"d4 | "A7"ccc2 E2B2 | AAA2 g2c2 | "D"ddd2 .d4:: [K:G]
+"G"B2c2!>!d4 | g2B2 d2e2 | "D7"e2AB c2d2 | "G"d2GA B2D2 | B2c2!>!d4 | g2B2 d2e2 | "D7"e2AB d2cA | "G"G2g2 g2z2:: 
+"G"d3G B3e | d2B2 BAG2 | "D7"d2c2 cBA2 | "G"e2d2 f2g2 | d3G B3e | d2B2 BAG2 | "D7"d2c2 cBA2 | "G"G2g2 g2z2 :| 
+X:7
+T:Schottisch D&G (tinwhistle in D) solo
+T:st09170 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D transpose=12
+F2A2 A2d2 | d2f2 {/g}f^ef2 | a2e2 {/f}e^de2 | f2d2 {/e}dcd2 | F2A2 A2d2 | d2f2 {/g}f^ef2 | a2e2 {/f}e^def | d2f2 d2z2 :: [K:D] 
+!>!A4!>!d4 | ccc2 E2B2 | AAA2 g2c2 | ddd2 f2d2 | !>!A4!>!d4 | ccc2 E2B2 | AAA2 g2c2 | ddd2 .d4:: [K:G]
+B2"_c"c2!>!d4 | g2B2 d2e2 | e2AB "_c"c2d2 | d2GA B2D2 | B2"_c"c2!>!d4 | g2B2 d2e2 | e2AB d2"_c"cA | G2g2 g2z2:: 
+d3G B3e | d2B2 BAG2 | d2"_c"c2 cBA2 | e2d2 f2g2 | d3G B3e | d2B2 BAG2 | d2"_c"c2 cBA2 | G2g2 g2z2 :|  
+% Aug 19, 2016

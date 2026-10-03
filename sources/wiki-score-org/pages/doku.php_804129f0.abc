@@ -1,0 +1,25 @@
+X:1503
+T:Eumene
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 3 clef=treble name="Tromba I" sname="Trb. I"
+%%MIDI program 1 56
+%%staves [( 3 )]
+%------
+[Q:"Allegro"] z | d4- | d4- | !/!d2dz | z/d/d/d/ d z | z/d/d/d/ d z | x4 | Az a/g/f/e/ | \
+!/!d2dz | z/e/e/e/ez | z/d/d/d/dz | z/e/e/e/ez | d4 | dzz2 | \
+f2e2 | dd/>d/dz | dzz2 | x4 | z/d/A/F/Dz | z/d/d/d/dz | z/d/d/d/dz | \
+zddz | x4 | x4 | d4 | d4 | dAFz | x4 | x4 | x4 | x4 | x4 | \
+e4- | e2e2 | e2z2 | x4 | e4- | e4- | e2z2 | x4 | x4 | x4 | eeez | x4 | x4 | x4 | d4 | \
+x4 | e/e/e/z/ f/f/f/z/ | ezez | e/e/e/z/ f/f/f/z/ | ezez | A2z2 | \
+f4 | ezz2 | e4 | A/A//A// A/A/Az | z/A/A/A/Az | z/A//A// A/A/Az | \
+z/A/A/A/Az | e2f2 | ezee | AAA!fermata!z || \
+[Q:"Andante"][M:3/4] x/ | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | \
+x3 | x3 | x3 | x3 | x3 || \
+[Q:"Allegro"][M:C] F4 | e4 | dzz2 | x4 | z/d/A/F/Dz | z/d/d/d/dz | z/d/d/d/dz | \
+d2z2 | x4 | x4 | d4- | d4 | dzz2 | x4 | x4 | x4 | A4- | A4 | AAAz | x4 | A4- | A4 | AAAz | x4 | \
+A4 | d4- | d4 | AAAz | dzz2 | x4 | x4 | dzz2 | x4 | d/d/d/z/ d/d/d/z/ | f2e2 | d4 | d4 | f4 | e4 | d/d//d// d/d/dz | z/e/e/e/ez | z/d//d// d/d/dz | \
+z/e/e/e/ez | d4 | ffze | dFFz |] \
+%-------

@@ -1,0 +1,26 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: D Chinder vo Jaun (Polka) CF  chords % 'The Children from Jaun'
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.236 (pk05361) orig. C,F-Dur
+T: "Pl\"otsch Musig" Guggisberg (Bern) S.186ff
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"G2c2 edef | "G7"e2d2 dcde | f2B2 dcB2 | "C"cdef g4 | G2c2 edef | "G7"e2d2 dcde | f2B2 dcB2 | "C"c2e2 c2z2 ::
+"G7"BGBd f4 | "C"eage c4 | "G7"Bcd2 GAB2 | "C"cBca g4 | "G7"BGBd f4 | "C"eage c4 | "G7"Bcd2 GAB2 | "C"c2e2 c2z2 :: [K:F]
+"F"A2cf d3A | "C7"c2B2 BAB2 | b2e2 b2e2 | "F"agag fdc2 | A2cf d3A | "C7"c2B2 BAB2 | b2e2 b2e2 | "F"f2ff f2z2 :| 
+
+X: 2
+T: D Chinder vo Jaun (Polka) CF  Anm
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"G2c2 ede"_ ="f | "G7"e2d2 dcde | "_f"f2"_h"B2 "_d"dc"_ h ="B2 | "C"cdef g4 |\
+   G2c2 ede"_ ="f | "G7"e2d2 dcde | f2B2 dcB2 | "C"c2e2 "_ ="c2z2 ::
+"" "G7""_= "BG"_h"B"_d"d "_f"f4 | "C"eage "_ ="c4 | "G7""_h"Bc"_d"d2 G"_a"A"_ h ="B2 | "C"cBca g4 |\
+ "G7"BGBd "_"f4 | "C"eage "_ ="c4 | "G7"Bcd2 GA"_ ="B2 | "C"c2e2 c2z2 :: [K:F]
+"" "F"A2cf d3A | "C7"c2"_b"B2 BA"_b"B2 | "_b"b2"_e"e2 b2e2 | "F"agag fdc2 |\
+   A2cf d3A | "C7"c2"_b"B2 BA"_b"B2 | "_b"b2"_e"e2 b2"_ ="e2 | "F"f2ff f2z2 :| 
+
+

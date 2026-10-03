@@ -1,0 +1,119 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:[3] C'est une dure despartie
+T: Cantus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C|
+L:1/2
+N:Original clef, C on third line
+K:G mix
+z4 z2 z G G G A c c _B2 A2 G A2
+w:C'est u- ne du- re des- par- ti- * e
+ z E E > F G A > G G2 F G4
+w:De ce- luy ou j'ay _ mis mon cueur,
+z G G G A c c _B > A A2 G A2
+w:Dont m'en i- ray u- ser ma _ vi _ e
+"A"z E E > F G A2 G2 F G2
+w:A l'her- mi- ta- ge de lan- gueur;
+z c c B c G2 G E/  F/ G/ A/ B A2 G A/ B/ c/ B/ A/ G/ F/ E/ F2 "B"E2
+w:Et tous les jours _ au ma- * * * * ti- * * * * * * * * * * net
+z E E E G/ F/ G/ A/ B G A B G c2 B c2
+w:Je m'en i- ray * * * * chan' ter sur la ver- du- re,
+z c c > _B A G F > G A G > F D E E D4
+w:Soubz le _ _ cou ver * * d'ung * * buis- so net,
+z4 z G E > F G A B c B A2 G2 ^F G2
+w:La pei- * * ne qu pour luy je~en- du- * re,
+z G E > F G A B c B A2 G2 ^F G2 |]
+w:La pei- * * ne que pour luy je~en- du- * re.
+
+X:2
+T:[3] C'est une dure despartie
+T:Tenor
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on fourth line
+M:C|
+L:1/2
+%%MIDI transpose -12
+K:G mix -8va
+z8  z2 c c c d > e f f e2 d e2
+w:C'est u- ne du- re des- par- ti- * e
+z2 z c c c _B A e d2 c2 B c2
+w:De ce- luy ou j'ay  mis mon * * cueur,
+c c c d > e f f e2 d "A"e2
+w:Dont m'en i- ray u- ser ma vi _ e
+z2 z c c c _B A e d f/ e/ d/ c/ d2 c >  B G2
+w:A l'her- mi- ta- * ge de lan- * * * *  gueur; * *
+z2 z c c B c e f/ e/ d/ c/ d d "B"c
+w:Et tous les jours au ma- * * * *  ti-  net
+A A A c/ B/ c/ d/ e/ d/ e/ f/ g/ f/ e/ d/ c B e e d2 c4
+w:i- ray chan- ter * * * * * * * * * * * * sur la ver- du- re,
+z f f e d/ c/ d/ e/ f e2 d2 c A _B > A d2 ^c d2
+w:Soubz le cou- ver * * 8 8 d'ung  buis- * * so- * * * net,
+z B c > d e f d c d d c/ B/ A/ G/ A B > G c2 B c2
+w:La pei- * * ne qu pour luy je~en- du- * * * * * * * * re,
+z c B A  d d c/ B/ A/ G/ A2 G2 |]
+w:La pei- ne que pour luy * je~en- * du-  re.
+
+X:3
+T:[3] C'est une dure despartie
+T:Bassus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C|
+L:1/2
+%%MIDI transpose -12
+K:G mix -8va
+z G G G A >  B c c _B2 A2
+w:C'est u- ne du- re des- par- ti- e,
+z G2 F D E F > E C
+w:des- par- ti- * * * e
+c c c _B A e2 d c2 B c2 d2 c
+w:De ce- luy ou j'ay mis mon cueur, j'ay mis mon  cueur,
+C F > G A G2 F D E F > E "A"C
+w:Dont m'en i- ray u- ser ma _ vi _ e
+c c c _B A e2 d c2 B A2 G2
+w:A l'her- mi- ta- * ge de lan- * * gueur;
+z c c B c G2 A E2 A > G A/ B/ c > B B "B"c4
+w:Et tous les jours _ au ma- ti- * * * * * * net
+z4 z2 z E E E G G A A F > G A F c2
+w:Je m'en i- ray  chan- ter sur la ver- du- * re,
+z2 z c c _B A2 F G2 F E2 D 
+w:Soubz le cou vert  d'ung  buis- * so net,
+G E E A3/2 G// F// E D G A G D F G D2 E C G2
+w:La pei- ne que _ _ _ pour luy je~en- du- * * * * * * re,
+z c B A d e d D E2 D2 G2 |]
+w:La pei- ne que pour luy je~en- du- * re.
+
+

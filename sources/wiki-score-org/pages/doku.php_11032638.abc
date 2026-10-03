@@ -1,0 +1,19 @@
+X:304
+T:Minuetto
+C:Davide Perez (1711-1778)
+M:3/4
+L:1/4
+K:D
+V: 4 clef=treble name="Flauto Secondo" sname="Fl.2"
+%%MIDI program 1 73
+%%staves [( 4 )]
+%-------
+d/>f/ f/>e/ g/>f/ | g/>f/ f2 | f/>a/ a/>f/ e/>d/ | \
+e/>d/ d2 | [B]2d |  [D]2d | e/>f/ g/>e/ f/>d/ | \
+c B/>c/ A | A c/>B/ d/>c/ | A e/>d/ f/>d/ | (3B/c/d/ c^G | A2z :: [A]2 c/<e/ | [a]2 c/<e/ | a g/<b/ ^d/<f/ |\
+eE2 | g2 c/<e/ | g2 c/<e/ | g f/<a/ c/<e/ | dD2 | \
+[D]2d | [A]2d | e/<f/ g/<e/ f/<d/ | c B/<c/ A | d/<f/ f/<e/ g/<f/ | g/<f/ f2 | \
+f/<a/ a/<f/ e/<d/ | eA2 | [d] d/<c/ e/<d/ | [d] f/<e/ g/<f/ | (3e/f/g/ de | dD2 :| \
+[Q:"Presto"] [M:C|]
+dzD F/A/ | A A/d/ A d/f/ | d/f/ d/f/ A  !fermata!z |] \
+%---------------

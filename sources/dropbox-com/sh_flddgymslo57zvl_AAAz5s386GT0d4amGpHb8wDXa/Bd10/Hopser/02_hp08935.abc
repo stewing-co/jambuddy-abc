@@ -1,0 +1,116 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Rutscher 1840 (nach Mayer) (Hopser)  GD
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns [Ch\"arns]. S.6-61. S.20 (hp08935) orig. G,D-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"b>a ge | Pe>d d>d | b>a ge | Pe>d d>d | "D7"c'b ag | Pe>d d>d | fa df | "G"g2z2 :: [K:D] 
+"A7"Ag fe | "D"dA {/c}BA | "A7"eA {/c}BA | "D"fc ed | "A7"Ag fe | "D"dc "E7"d^G | "D/A"Fd "A7"ce | "D"d2z2 :: [K:D] 
+"D7"dd ef | "G"{/a}gfg2 | "D7"a^g a^a | "G"b2a/g/f/e/ | "D7"dd ef | {/a}"G"gf "C"g>e | "G"dg "D7"fa | "G"g2z2 :| 
+% hp08935
+X:2
+T:Rutscher 1840 (nach Mayer) (Hopser)  FC 2-
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"a>g fd | Pd>c c>c | a>g fd | Pd>c c>c | "C7"ba gf | Pd>c c>c | eg ce | "F"f2z2 :: [K:C] 
+"G7"Gf ed | "C"cG {/B}AG | "G7"dG {/B}AG | "C"eB dc | "G7"Gf ed | "C"cB "D7"c^F | "C/G"Ec "G7"Bd | "C"c2z2 :: [K:C] 
+"C7"cc de | "F"{/g}fef2 | "C7"g^f g^g | "F"a2g/2f/2e/2d/2 | "C7"cc de | {/g}"F"fe "Bb"f>d | "F"cf "C7"eg | "F"f2z2 :| 
+% hp08935
+X:3
+T:Rutscher 1840 (nach Mayer) (Hopser)  CG (5letras transposed)
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"e>d cA | PA>G G>G | e>d cA | PA>G G>G | "G7"fe dc | PA>G G>G | Bd GB | "C"c2z2 :: [K:G] 
+"D7"Dc BA | "G"GD {/F}ED | "D7"AD {/F}ED | "G"BF AG | "D7"Dc BA | "G"GF "A7"G^C | "G/D"B,G "D7"FA | "G"G2z2 :: [K:G] 
+"G7"GG AB | "C"{/d}cBc2 | "G7"d^c d^d | "C"e2d/2c/2B/2A/2 | "G7"GG AB | {/d}"C"cB "F"c>A | "C"Gc "G7"Bd | "C"c2z2 :| 
+% hp08935
+X:4
+T:Rutscher 1840 (nach Mayer) (Hopser)  FC (5letras transposed)
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"a>g fd | Pd>c c>c | a>g fd | Pd>c c>c | "C7"ba gf | Pd>c c>c | eg ce | "F"f2z2 :: [K:C] 
+"G7"Gf ed | "C"cG {/B}AG | "G7"dG {/B}AG | "C"eB dc | "G7"Gf ed | "C"cB "D7"c^F | "C/G"Ec "G7"Bd | "C"c2z2 :: [K:C] 
+"C7"cc de | "F"{/g}fef2 | "C7"g^f g^g | "F"a2g/2f/2e/2d/2 | "C7"cc de | {/g}"F"fe "Bb"f>d | "F"cf "C7"eg | "F"f2z2 :| 
+% hp08935
+X:5
+T:Rutscher 1840 (nach Mayer) (Hopser)  CG 7-
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"e>d cA | PA>G G>G | e>d cA | PA>G G>G | "G7"fe dc | PA>G G>G | Bd GB | "C"c2z2 :: [K:G] 
+"D7"Dc BA | "G"GD {/F}ED | "D7"AD {/F}ED | "G"BF AG | "D7"Dc BA | "G"GF "A7"G^C | "G/D"B,G "D7"FA | "G"G2z2 :: [K:G] 
+"G7"GG AB | "C"{/d}cBc2 | "G7"d^c d^d | "C"e2d/2c/2B/2A/2 | "G7"GG AB | {/d}"C"cB "F"c>A | "C"Gc "G7"Bd | "C"c2z2 :| 
+% hp08935
+X:6
+T: Rutscher 1840 (Hopser) G&D (tinwhistle in D)
+T:hp08935 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"b>a ge | Pe>d d>d | b>a ge | Pe>d d>d | "D7"c'b ag | Pe>d d>d | fa df | "G"g2z2 :: [K:D] 
+"A7"Ag fe | "D"dA {/c}BA | "A7"eA {/c}BA | "D"fc ed | "A7"Ag fe | "D"dc "E7"d^G | "D/A"Fd "A7"ce | "D"d2z2 :: [K:D] 
+"D7"dd ef | "G"{/a}gfg2 | "D7"a^g a^a | "G"b2a/g/f/e/ | "D7"dd ef | {/a}"G"gf "C"g>e | "G"dg "D7"fa | "G"g2z2 :| 
+X:7
+T: Rutscher 1840 (Hopser) G&D (tinwhistle in D) solo
+T:hp08935 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:2/4
+L:1/8
+K:G transpose=12
+b>a ge | Pe>d d>d | b>a ge | Pe>d d>d | "_c"c'b ag | Pe>d d>d | fa df | g2z2 :: [K:D] 
+Ag fe | dA {/c}BA | eA {/c}BA | fc ed | Ag fe | dc d^G | Fd ce | d2z2 :: [K:D] 
+dd ef | {/a}gfg2 | a^g a^a | b2a/g/f/e/ | dd ef | {/a}gf g>e | dg fa | g2z2 :|
+X:8
+T: Rutscher 1840 (Hopser) G&D (tinwhistle in D) var. solo
+T:hp08935 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:2/4
+L:1/8
+K:G transpose=12
+B>A GE | PE>D D>D | B>A GE | PE>D D>D | "_c"cB AG | PE>D D>D | FA DF | G2z2 :: [K:D] 
+Ag fe | dA {/c}BA | eA {/c}BA | fc ed | Ag fe | dc d^G | Fd ce | d2z2 :: [K:D] 
+dd ef | {/a}gfg2 | a^g a^a | b2a/g/f/e/ | dd ef | {/a}gf g>e | dg fa | g2z2 :|
+X:9
+T:Rutscher 1840 (Hopser) D&A (tinwhistle in D)
+T:hp08935 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"D"f>e dB | PB>A A>A | f>e dB | PB>A A>A | "A7"gf ed | PB>A A>A | ce Ac | "D"d2z2 :: [K:A] 
+"E7"Ed cB | "A"AE {/G}FE | "E7"BE {/G}FE | "A"cG BA | "E7"Ed cB | "A"AG "B7"A^D | "A/E"CA "E7"GB | "A"A2z2 :: [K:A] 
+"A7"AA Bc | "D"{/e}dcd2 | "A7"e^d e^e | "D"f2e/2d/2c/2B/2 | "A7"AA Bc | {/e}"D"dc "G"d>B | "D"Ad "A7"ce | "D"d2z2 :| 
+X:10
+T:Rutscher 1840 (Hopser) D&A (tinwhistle in D) solo
+T:hp08935 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:2/4
+L:1/8
+K:D transpose=12
+f>e dB | PB>A A>A | f>e dB | PB>A A>A | gf ed | PB>A A>A | ce Ac | d2z2 :: [K:A] 
+Ed cB | AE {/G}FE | BE {/G}FE | c"_#"G BA | Ed cB | A"_#"G A^D | "_=C"CA "_#"GB | A2z2 :: [K:A] 
+AA Bc | {/e}dcd2 | e^d e^e | f2e/2d/2c/2B/2 | AA Bc | {/e}dc d>B | Ad ce | d2z2 :|
+% July 28, 2016

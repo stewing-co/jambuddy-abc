@@ -1,0 +1,17 @@
+%%pagescale 1.2
+
+X: 1
+T: Default shapes and decorations
+M: 4/4
+L: 1/4
+K: C
+%
+%%text Note shapes
+%
+C4 | =C2 _C ^C | [CDEFGA]2 [CDEFGA] [GABcde] |
+%
+%%text Some decorations
+%
+!segno!!pp!C !mf!E !invertedturn!G !turnx!c |\
+!ped!C !fermata!E !ped-up!G !sfz!c | \
+!mordent!C !uppermordent!E !D.S.!G !coda!c  |

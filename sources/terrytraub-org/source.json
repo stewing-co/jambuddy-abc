@@ -1,0 +1,23 @@
+{
+  "name": "Tunes from Terry Traub",
+  "license": "Not stated; tunes believed traditional",
+  "origin": [
+    "http://terrytraub.org/",
+    "http://terrytraub.org/abc/"
+  ],
+  "found_via": "https://abcnotation.com/tunes",
+  "downloaded": "2026-10-02",
+  "files": 1506,
+  "pages_crawled": 10,
+  "pages_unvisited": 0,
+  "failures": [
+    "http://terrytraub.org/abc/ToothFairyJ.abc: HTTP Error 403: Forbidden",
+    "http://terrytraub.org/abc/SkylarkR.abc: HTTP Error 403: Forbidden",
+    "http://terrytraub.org/abc/ManFromSkyeR.abc: [Errno 60] Operation timed out",
+    "http://terrytraub.org/abc/LaxoBurnR.abc: HTTP Error 403: Forbidden",
+    "http://terrytraub.org/abc/HjerdafeldR.abc: HTTP Error 403: Forbidden",
+    "http://terrytraub.org/abc/DrAngusAndEmilyMacDonaldsTripToSanFranciscoJ.abc: HTTP Error 403: Forbidden",
+    "http://terrytraub.org/abc/DaGrocerR.abc: HTTP Error 403: Forbidden",
+    "http://terrytraub.org/abc/DaFoulaReelJ.abc: [Errno 60] Operation timed out"
+  ]
+}

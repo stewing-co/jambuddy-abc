@@ -1,0 +1,22 @@
+X:406
+T:N.6 Mais lentamente
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 6 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 6 }]
+%---- edit between the lines -----
+[L:1/8] "_[check ms: spurious rests?]"[A,CF]3/2 .c/.f/ c'/f'/ !8va(!c''/ f''/!8va)! !f!  !ped! (3A//c//^e//a |\
+z A,//D//F//A// z z A,//C//E//G// z | z A,//D//F//A// d//A//F//D// f//d//A//F// d//A//F//D// A//F//D//A,// | \
+[K:bass] (3z/(F,/^A,/ (3E/A,/F,/ (3G/E/A,/ (3G/E/A,/ (3E/A,/F,/) ((3A,/C,/F,,/)| \
+(3z/(F,/B,/ (3F/B,/F,/) (3z/(F,/[^A,/E/]) (3z/(F,/B,/ (3F/B,/F,/) (3z/(C/F,/) | \
+[I: staff +1]  ((3G,,/E,/G,/) [I: staff -1] [K:treble]!ped! (3G,/E/G/B [C3E3G3] | \
+z2 ((3F/^E/F/) ((3G/F/G/) (^G/A/^A/B/) | \
+((3^A/G/E/) ((3C/[K:bass]^A,/G,/) ((3E,/C,/^A,,/) ((3F,,/C,/E,/) ((3A,/[K:treble]C/E/) ((3G/F/E/) |\
+((3D/F/B/) ((3z/[F/B/]B,/) ((3z/[F/^A/c/]C/) ((3z/[F/B/d/]D/) ((3z/[B/d/f/]F/) ((3z/[=c/^d/f/]F/) | \
+!ff! ((3z/[e/g/b/]B/) ((3z/[e/g/b/]B/) ((3z/[e/g/b/]B/) [B3c3e3] | z2  ((3F/^E/F/) ((3F/^E/F/) ^G/A/^A/B/ | \
+((3^A/G/E/) ((3C/[I: staff +1]^A,/G,/)[I: staff -1] z  [^A,3F3^A3] || \
+[M:3/8] !arpeggio![DFB] !ff! [FBdf]!arpeggio![Aceg] ||
+%---------------------------------

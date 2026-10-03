@@ -1,0 +1,46 @@
+X:608
+T:Tantum Ergo
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 8 clef=tenor name="Tenore" sname="T."
+%%MIDI program 1 1
+%%staves [[ 8 ]]
+%------------------
+[Q:"Andante"] !p! G,2G,2|G,2D2| C3C | (B,2 D2)| Ezz2 | Z2 |\
+w:Tan-tum Er-go Sa-cra-men--tum
+!p! E>EDz | Z | \
+w: cer-nu-i
+_D>DCz | \
+w: cer-nu-i
+"^cres." E3C | Dzz2 | \
+w: cer-nu-i
+!>!E3E | D>D Dz | \
+w: Et an-ti-qu-um
+!p!E3 C | D2Dz | Z | \
+w: do-cu-men-tum
+z2!p!E_D | CB,A,G, | CB,A,G, | !p!A,2D2 | E2C2 | C2=B,2 | Czz2 | \
+w: Praes-tet praes-tet fi-des sup-ple-men-tum Sen-su-um de-fe-ctu-i
+!p! CCCC | C2=B,2 | Cz \
+w: Sen-su-um de-fe-ctu-i
+!p! E2 | E2D2 | Czz2|  Z | "^Segue;genitori" !fermata! Z || \
+w: de-fe-ctu-i
+"^Genitori" [Q:"Moderato"][M:2/4] !p! EE | FF | !p! DD | EE | !p! EE | EE | EE | Ez | \
+w: Ge-ni-to-ri ge-ni-to que Laus et ju-bi-la-ti-o
+EE | EE | EE | Ez | \
+w: Laus et ju-bi-la-ti-o
+!f! CC | _DD | Z2 | \
+w: Sa-lus ho-nor
+!f! =D=B, | CC | Z2 | \
+!p! DC | =B,G, | CD | Ez | \
+!f! FF | !>!E2| F!f! F/ F/ | !>!E2 | F!f! F/ F/ | FF | F>F | Fz | Z4 | \
+!f! CC | C(D/E/) | !p! D2 | =B,2 | Cz | Z | z \
+w: Com-par sit lau--da-ti-o
+!p!E | C2 | C2 | D2 | D2 | Ez | Z | z \
+w: A-men A-men A-men
+!p!C | A,2 | A,2 | G,2 | =B,2 | Cz | Z7 | \
+w: A-men A-men A-men
+!p! G,2- | G,2 | G,z ||  Z3 | "_finis" !fermata! Z |] \
+w: A--men.
+%----------------

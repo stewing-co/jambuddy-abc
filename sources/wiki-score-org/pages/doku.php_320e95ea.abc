@@ -1,0 +1,27 @@
+X:805
+T:N.8 Conto do Sargento
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:G
+V: 5 clef=bass name="Cello" sname="Vc."
+%%MIDI program 1 1
+%%staves [ 5 ]
+%---
+B,A,(G, F,G,B,,) | D,2z (B,,3|C,2)zD,3 !pp!|G,,zD, G,zD,|| \
+G,,zD, G,zD, | G,,zD, G,zD, | G,,zD, B,,zD, | A,,zD, D,zD,   | D,,zD, D,zD, | D,,zD, D,zD, | D,zD, D,,zD, | \
+G,,3-G,,zz   | G,,zD, G,zD, | G,,zD, G,zD,  | E,,zE, ^G,,zE, | A,,zE, A,zE, | A,,zE, C,zE, | D,zG, B,,zD, | \
+A,,zD, D,,zD, | (D,E,F, G,2)z|| \
+[K:treble] (EFG) (GFE) | !>!c3 (BAG) | (EFG) (GFE) | \
+(D3C3) | !pp! (C2D)(E2D)| B,2(B,E2F) | (GFE) (F^DB,) | E3 "_rit."(DE=F)| E3D2E| \
+[K:bass] C(C,G,,) (D,2G,,) | (E,2G,,)(D,2G,,) | C,2G,, C,, !fermata!z"^A tempo"B,,|| \
+[M:3/4] "^Recitativo" E,z2 zB,,z | z.B,/.B,/ .G,.B, Ez | [G,,=D,]z z2 D,z | \
+z.D/.D/ .B,.D Gz | !///!F,6| !p! z.F,/.F,/ .B,(.F, !fermata!B,2) || [M:6/8]\
+[K:treble] !pp! (EFG) (GFE) | (!>!c3 BAG) | (EFG) (GFE) | \
+(D3C3) |  (CDE) (EDC)| (B,2B,) (E2F) | (G2E) (F2B,) || \
+[M:3/4] "^Recitativo" [K:bass] !p! !///!E,6 | !///!D,6 | !///!G,,6 | \
+!///!^C,4!///!A,,2 | !///!B,,4-B,,z | ^C,4-C,z| z6 || [M:6/8]"^1.o tempo" \
+G,,zD, G,zD, | G,,zD, G,zD, | G,,zD, B,,zD, | A,,zD, D,zD,   | D,,zD, D,zD, | D,,zD, D,zD, | D,zD, D,,zD, | \
+G,,3-G,,zz   | G,,zD, G,zD, | G,,zD, G,zD,  | E,,zE, ^G,,zE, | A,,zE, A,zE, | A,,zE, C,zE, | D,zG, B,,zD, | \
+A,,zD, D,!fermata!D,D, | G,D,B,, G,,zz |] \
+%---

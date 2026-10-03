@@ -1,0 +1,67 @@
+
+X:5
+T:Title
+C:Composer
+%%score 1 ( 2 3 ) ( 4 5 )
+L:1/4
+Q:1/4=170
+M:2/2
+I:linebreak $
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:4 bass nm="Tuba" snm="Tba."
+V:5 bass 
+V:1
+"^Swing" z4 | z4 | z4 | z4 | z4 | z4 |$ z4 | z4 || z4 | z4 |: d B c A | B G A D | G4- |$ G4 |$ 
+d B c A | B G A D | B4- | B4 |$ e B ^A B | c B3 | A4 | E2 F G |$ B A B A | G2 E2 | A4- | A3 z ||$ 
+D4- | D E F G | c4 | B4 |$ A4- | A ^G B A | E4- | E4 | G F3 |$ A2 E2 | G4 | F4 | A F3 | G2 A2 |$ 
+^A4 | B4 | d4- | d B A _A | G4- |$ G4 | ^G2 E2- | E2 c2 | B4 | A4 |$ D4- | D E F G | [de]4 | 
+c2 A2 | E4 | B4 |1$ G4- | G3 z :|2 G4- | G3 z |] 
+V:2
+D4 | z4 | z/ [^GB]/ [GB] [GB] [GB] | [EAc]/ z/ z A2 | E4 | B4 |$ G4 | G z [GBdg] z || 
+[dd'] B c A | B G A z |: D4 | D3 z | [DG] [Gg] f [Ge] |$ d [GB]/[F^A]/ [GB] [DG] |$ [Gd] B c A | 
+B G A D | [DGB] [Gdg] [Fcf] [EBe] | [DAd] [GB]/[F^A]/ [GB] [DG] |$ [EGe] [EGB] [EG^A] [EGB] | 
+[D^Ge] B3 | [^CA]4 | [G,E]2 F G |$ [^CGB] [CGA] [CGB] [CGA] | [^CG]2 [CE]2 | A4- | A z2 z ||$ 
+D4- | D E F G | c4 | B4 |$ A4- | [CEA] [^CE^G] [CEB] [CEA] | [^CE] [CE^G]/[CEG]/ [CEB] [CEA] | 
+[^CE]2 [CE]/^A,/^C/E/ | !arpeggio![A,=CDG] [A,CDF]3 |$ A2 E2 | G4 | F4 | A !arpeggio![CDF]3 | 
+G2 A2 |$ ^A4 | B4 | d4- | d B A _A | G4- |$ G4 | ^G2 E2- | E2 c2 | B4 | A4 |$ D4- | D E F G | 
+[DEde]4 | [EAc]/ z/ z A2 | E4 | B4 |1$ [B,G] [DBd] [EBd] [FBd] | 
+[ABd]/[ABd]/ [GBd] [FBd] [EBd] :|2 G4- | G z2 z |] 
+V:3
+z/ E/ [GB] [GB] [GB] | [DGB] [EBd] [FBd] [GBd] | [Ee]4 | z2 z [CE] | z [A,^C]/[A,C]/ z [A,C] | 
+z/ [DF]/ [DF] [DF] [=CDF] |$ B, [B,D]/[B,D]/ [^A,^C] [=A,=C] | [G,B,] z z2 || z D3 | D3 z |: 
+[Gd] B c A | B G A D | x4 |$ x4 |$ D4 | D3 z | x4 | x4 |$ x4 | z [D^G]2 E/D/ | 
+z [EG]/[EG]/ z [EG] | z [A,^C] [A,DF] [A,^C] |$ x4 | x4 | [=CF] [DF]/[DF]/ [EG] [^E^G] | 
+[DF] [FAce]/[FAcd]/ [FAce] [FAcd] ||$ z/ E/ [GB] [GB] [GB]- | [GB] [Bd] [Bd] [Bd] | 
+z/ [E^G]/ [EG] [EG] [EG] | z/ [DE^G]/ [DE^G] [DEG] [DEG] |$ z/ [^DF]/ [EG] [=DE] [^CE] | x4 | x4 | 
+x4 | x4 |$ z [CD]/[CD]/ z [CD]/[CD]/ | z C/D/ _E [A,C] | z/ [A,CD]/ D [A,C=E] [A,CD] | 
+!arpeggio![CDF] z z2 | z [B,E]/[B,E]/ z [CD]/[CD]/ |$ z ^C/E/ G [CE] | 
+z/ [B,D]/ [B,D] [B,E] [B,D] | =F [FB] [FB]/_B/ [FA]- | [FA] [D=F] F F | C [CE] [CE]/^D/ [CE]- |$ 
+[CE]{/^F} [EG] [EG]/[^D^F]/ [EG] | z [^G,D] [G,D]2 | [G,D] [^G,D] z [DE^G] | 
+z [DE] [DE]/=F/ [DE] | z [CE] [CE]/^F/ [CE] |$ z/ E/ [GB] [GB] [GB] | [GB] [Bd] [Bd] [Bd] | 
+z/ [^GB]/ [GB] [GB] [GB] | z3 [CE] | z [A,^C]/[A,C]/ z [A,C] | z/ [DF]/ [DF] [DF] [=CDF] |1$ x4 | 
+x4 :|2 B, [B,D]/[B,D]/ [^A,^C] [=A,=C] | [G,B,] z [GBdg] z |] 
+V:4
+[G,,G,] z D, z |{G,A,=A,} B, G, [F,,F,] [=F,,=F,] | [E,,E,] z B,, z | [A,,E,A,]/ z/ z C, z | 
+G,2 [A,,,A,,]/ z/ z | [D,F,] =C B, A, |$ G,,4 | [G,,D,] z !arpeggio![G,,D,B,] z || z4 | z4 |: 
+!arpeggio![G,,D,B,] G, A, F, | [G,B,]2 [D,F,C]2 | [G,B,] B, A, G, |$ F, D/^C/ D B, |$ 
+!arpeggio![G,,D,B,] G, A, F, | [G,B,]2 [D,F,C]2 | [G,B,] B, A, G, | F, D/^C/ D B, |$ 
+[E,,B,,E,] D C B, | E, =F, ^F, ^G, | [A,,A,] z D, z | A,, z D, z |$ E, A, A,, A, | 
+[E,,E,] G,/A,/ B, _B, | A, A, ^A, B, | C z z2 ||$ [G,,G,] z D, z |{G,A,^A,} B,2 D, z | 
+[E,,E,] z B,, z | [^C,A,] z A,, z |$ [^C,A,] z A,, z |{D,=F,^F,} G, ^G, B, A, | [E,,E,] z A,, z | 
+[E,,E,] A,/^G,/ =G,2 | A,, D, D,, D, |$ [F,,F,] z D, z | _E, z G, z | D,4 | F, D, A,, D, | 
+E, z F, z |$ [G,,G,] z E, z | z4 | z4 | z4 | z4 |$ z4 | [B,,E,] z ^G,, E,/^D,/ | E, z [E,,E,] z | 
+[^G,,^G,] z E, z | [A,,A,] z D, z |$ [G,,G,] z D, z |{G,A,^A,} B, [G,,G,] [F,,F,] [=F,,=F,] | 
+[E,,E,] z D, z | [A,,E,A,]/ z/ z C, z | G,2 [A,,,A,,]/ z/ z | [D,F,] =C B, A, |1$ G, D, E, F, | 
+A, G, F, E, :|2 G, =F, E, _D, | D, z !arpeggio![G,,D,B,] z |] 
+V:5
+x4 | x4 | x4 | x4 | x4 | x4 |$ G, =F, E, _E, | x4 || !arpeggio![G,,D,B,] G, A, F, | 
+G,2 [D,F,C] z |: x4 | x4 | x4 |$ x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 |$ x4 | x4 | D,4- | 
+D, z z2 ||$ x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | x4 | x4 | x4 | x4 |$ x4 | 
+[G,,G,]4 | [G,,G,] z D, z |{E,F,^F,} G,2 D, z | [E,,E,] z C, z |$ G,, G, E, C, | x4 | x4 | x4 | 
+x4 |$ x4 | x4 | x4 | x4 | x4 | x4 |1$ x4 | x4 :|2 G,,4- | G,, z z2 |] 
+
+
+

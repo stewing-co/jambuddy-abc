@@ -1,0 +1,26 @@
+% font_bravura.abc
+
+%%musicfont  local(Bravura.otf)
+%%format     smufl
+
+%%pagescale  1.2
+
+X: 1
+T: Using the Bravura music font
+M: 4/4
+L: 1/4
+K: C
+%
+%%text Note shapes
+%
+C4 | =C2 _C ^C | [CDEFGA]2 [CDEFGA] [GABcde] |
+%
+%%text Some decorations
+%
+!segno!!pp!C !mf!E !invertedturn!!ff!G !turnx!c |\
+!ped!C !fermata!E !ped-up!G !sfz!c | \
+!mordent!C !uppermordent!E !D.S.!G !coda!c  |
+%
+%%text Extensions: optional accidentals and dynamics
+%
+!(b)!C !(bb)!E !(#)!G !(x)!c | !(=)!C !(p)!E !(pp)!G !(f)!c/ !(ff)!c/ |

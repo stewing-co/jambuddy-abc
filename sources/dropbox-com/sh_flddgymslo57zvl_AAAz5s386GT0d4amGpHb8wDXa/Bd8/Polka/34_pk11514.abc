@@ -1,0 +1,27 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka  CF chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.399 (pk11514) orig. C,F-Dur
+T: T\"anze aus Altdorf (Uri)
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"egg2 c2e2 | "G7"fgg2 B2d2 | gbb2 faa2 | "C"egg2 c4 | egg2 c2e2 | "G7"fgg2 B2d2 | b3a gfed | "C"c2e2 c2z2 :: [K:F]
+"F"a3g "Bb"f2B2 | "F"d2c2 Acfg | "C7"f2ee Bcea | "F"g2f2 Acfg | a3g "Bb"f2d2 | "F"d2c2 Acfg | "C7"f2e2 a3g | "F"f2f2 f2z2 :: [K:C]
+"C".e.f.g2 (a2g2) | gc'c'2 e2g2 | "G7".f.e.d2 g2f2 | "C"efga g4 | efg2 a2g2 | gc'c'2 e2g2 | "G7"fed2 g2B2 | "C"c2c2 c2z2 :: [K:F]
+"F"ccc2 c'c'c'2 | "C7"a2g2 g3g | ccc2 ggg2 | "F"g2f2 f3f | ccc2 aaa2 | "Bb"c'2b2 b3g | "C7""_(1)"f2e2 a3g | "F"f2f2 f2z2 :| 
+W:
+W: Anmerkung H.C.: Sarnen
+W: (1) the orig. has "F7" here
+
+X:2
+T:Polka  GC 5- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"Bdd2 G2B2 | "D7"cdd2 F2A2 | dff2 cee2 | "G"Bdd2 G4 | Bdd2 G2B2 | "D7"cdd2 F2A2 | f3e dcBA | "G"G2B2 G2z2 :: [K:Cmaj]
+"C"e3d "F"c2F2 | "C"A2G2 EGcd | "G7"c2BB FGBe | "C"d2c2 EGcd | e3d "F"c2A2 | "C"A2G2 EGcd | "G7"c2B2 e3d | "C"c2c2 c2z2 :: [K:Gmaj]
+"G".B.c.d2 (e2d2) | dgg2 B2d2 | "D7".c.B.A2 d2c2 | "G"Bcde d4 | Bcd2 e2d2 | dgg2 B2d2 | "D7"cBA2 d2F2 | "G"G2G2 G2z2 :: [K:Cmaj]
+"C"GGG2 ggg2 | "G7"e2d2 d3d | GGG2 ddd2 | "C"d2c2 c3c | GGG2 eee2 | "F"g2f2 f3d | "G7"c2B2 e3d | "C"c2c2 c2z2 :| 

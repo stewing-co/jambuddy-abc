@@ -1,0 +1,26 @@
+X:502
+T:Trio V (Allegro)
+C:Costa, Abade António da (1714-c1780)
+M:C
+L:1/4
+K:G
+V: 2 clef=treble name="Violino II.do" sname="Vl.II"
+%%MIDI program 1 40
+%%staves [ 2 ]
+%----- edit between the lines
+[Q:"Allegro"] "_[fol.13v (31)]" z | z .E (A2 | A G) (c2 | c B) (e2 | e d) (a2 | a g2) (f | f e2) (d | d ^c)
+z (e | e a2)  (^c | d A) .g (A | ^c2 e) (a | a f) z2 | Z | z2 (e2 | =f4 | e4) |
+(d4 | c2) (_B2 | A2) ^G2- | G .d .=f (G | =B2 d) g | (g e) z2 | Z | z2 z (e | e a2) (^c |
+d A) (e2 | =f2 e) (_e | d2) (_e2 | d3) (G | c2) (_d2 | c3) (=d | d B) c2- | c2 (_B2 | A2)
+.d2 | A4 | (g2 ^f2) | (^c2 d2) | (A4 | e) (g2 ^f | e) (B e2 | e4 | e2 A2 | A3) (=c | c B2) (d |
+d ^c2) (e | e d2) (^c | c B2) (e | e A2) (B | B ^G) (A2 | e) .A2 (=c | c B2) (d | d ^c2) (e | e d2 ^c) |
+(e2 d) (f | d2) A2 | F2 z :|: z | z .B, (E2 | E D) (G2 | G F) (B2 | B A) (e2 | e d2) (^c |
+^c B2) (A | A ^G =c) (B | e) .^G2 (E | A) (^c3 | B4) |.^E z z (B | ^e) .G (^c B | A) ^C
+"_[fol.14 (32)]" (F2 | ^D3) .=E | (=g2 =f) (e | a) ^c2 (A | d) (^f3 | e4) | ^A z z (e | ^a) .^c (f e | d) .F (B2 |
+^G3) (=A | =c) .D z (d | e g) (f2 | g) (b a2 | a2) (d2 | d4 | d2 =B2) | (^c4 |d4) | (=c4 | B2) (c2 |
+c2 B2) | (c4 | _B4 | _B2) (A2 | A2 _B2 | _B2) _A2- | A4 | G4- | G4 | .=B, z z (d | d g2) .=B | (c G)
+=f (G | B2 d) (g | g e) z2 | Z | z2 (_e2 | d4 | d4) | ^c4- | c2 (d2 | d2 B2) | (d2 =c2 | B4 | B4) |
+(^A4 | B2F2) | (^G4 | =A2 E2) | (F4 | _G2 D2) | (^F2 _E2) | .D2 .c (D | ^F2 A) (d | d =B) z2 | Z |
+z2 z (A | A d d) .A | (G D2) (=F | =F E2) (G | G ^F2) (A | A G2) (F | F E2) (A | A E2) (E | E ^C)
+D2- | D3 (^F | F E2) (G | G ^F2) (A | A G2 F) | (A2 G) (B | G2) (D2 | B,2) z :|
+%---------------------------------

@@ -1,0 +1,24 @@
+X:4015
+T:Coro [Antandro, Demetrio, Euridice, Emirena, Eumene]
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:D
+V: 15 clef=alto1 name="Canto" sname="C."
+%%MIDI program 1 1
+%%staves [[ 15 ]]
+%-------------------
+[Q:"Allegro"] z | Z12 | z2zd/> d/ !segno!|| d d/> d/ d d/> d/ | d d/> d/ e e/> e/ | d d/> d/ e e/> e/ | ddz2| \
+w: Al-l'e-ven-to fe-li-ce gio-con-do fe-li-ce gio-con-do fe-li-ce gio-con-do
+d3d | ddzd | d2dd | d2z2 | c3d | cczc | d2 d>^c | dzz2 | \
+w: S'o-da'il mon-do d'ap-plau-si suo-nar s'o-da'il mon-do d'ap-plau-si suo-nar
+e3e | fdzd | e2 e>e | fdz2 | c3d | cczd | d2dc | d2d2 | d2 c>c | d2d2 | d2 c>c | dzz2 | z3!fine!z |] \
+%--- "^Questo Coro" "^si replica" "^p.due volte(...)"
+w: Al-l'e-ven-to fe-li-ce gio-con-do  s'o-da'il mon-do d'ap-plau-si suo-nar d'ap-plau-si suo-nar d'ap-plau-si suo-nar
+[Q:"Allegretto"][K:G] Z20 | z2zd/> d/ ||\
+w: Al-l'e
+"_NB: check" "_DC al segno" X | \
+Z38 | z2zd/> d/ ||\
+w: Al-l'e
+"_NB: check" "_DC al segno" X | \
+%----------------

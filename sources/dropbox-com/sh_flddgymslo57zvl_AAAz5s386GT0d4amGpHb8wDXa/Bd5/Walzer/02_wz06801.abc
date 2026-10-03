@@ -1,0 +1,72 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Albertine-Walzer  CF (wz06801)
+T:Hanny Christen. Bd.V  Basel II, Jura. S.8  (wz06801) orig. C,F
+T: Basel II. Tänze aus Augst. S.6-42.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+!>!"C"c2z | !>!B2z | cde | "Am"Azz | !>!"Dm"a2z | !>!^g2z | "F"abc' | "G7"gzz |: ("C"g2a) | g3 | 
+(c2d)  | e3 |  (e3 | "A7"e)f>e | ("Dm"d3 | d)zz | ("G7"B2c) | B3 | (d2e) | f3 | 
+a3 | abf | ("C"a2g) | e3 | (g2a) | g3 | (c2d) | e3 | efe | ("A7"e2^c) | 
+"Dm"d3 | dfe | "G7"dc'b | agf | (!>!"C"a2g) | "A7"zee | ("Dm"e2d) | ("G7"a2b) | "C"c'>c'c' | c'zz :| [K:F] 
+|: "F"a3 | afd | c3 | Acf | !>!"C7"e3 | gBe | (!>!"F"d2c) | (!>!d2c) | a3 | afd | c3 | Acf | 
+("C7"e2G) | (d2e) | "F"f>ff | fzz :: "F"fze | "C7"ezB | dzc | "F"czA/c/ | "C7"czB | Bzg/b/ | 
+"F"bza | a3 | fze | "C7"ezB | dzc | "F"czA/c/ | "C7"czg | bce | "F"f>ff | fzz :| 
+W:
+W:Anmerkung H.C.:Rünenberg 7, Böckten 16  Wynige/Zch. 38, Laufenberg s.V. 200
+% wz06801 (Heft 235/TN 8)
+% Nov 7, 2017
+
+X:2
+T:Albertine-Walzer  CF (wz06801) +
+S:Hanny Christen. Bd.V  Basel II, Jura. S.8  (wz06801) orig. C,F
+S: Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+O:Switzerland
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+!>!"C"c2z | !>!B2z | cde | "Am"Azz | !>!"Dm"a2z | !>!^g2z | "F"abc' | "G7"gzz |: ("C"g2a) | g3 | 
+(c2d)  | e3 |  (e3 | "A7"e)f>e | ("Dm"d3 | d)zz | ("G7"B2c) | B3 | (d2e) | f3 | \
+a3 | abf |
+ ("C"a2g) | e3 | (g2a) | g3 | (c2d) | e3 | efe | ("A7"e2^c) | \
+"Dm"d3 | dfe | "G7"dc'b |
+ agf | (!>!"C"a2g) | "A7"zee | ("Dm"e2d) | ("G7"a2b) | "C"c'>c'c' | c'zz :: [K:F] \
+ "F"a3 | afd | c3 |
+ Acf | !>!"C7"e3 | gBe | (!>!"F"d2c) | (!>!d2c) | a3 | afd | c3 | Acf | \
+("C7"e2G) | (d2e) | 
+"F"f>ff | fzz :: "F"fze | "C7"ezB | dzc | "F"czA/c/ | "C7"czB | Bzg/b/ | 
+"F"bza | a3 | fze | "C7"ezB | dzc | "F"czA/c/ | "C7"czg | bce | "F"f>ff | fzz :| 
+%W:Anmerkung H.C.:Rünenberg 7, Böckten 16  Wynige/Zch. 38, Laufenberg s.V. 200
+% wz06801 (Heft 235/TN 8)
+% Nov 7, 2017
+
+X:3
+T:Albertine-Walzer  GC 5- (wz06801)
+S:Hanny Christen. Bd.V  Basel II, Jura. S.8  (wz06801) orig. C,F
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+!>!"G"G2z | !>!F2z | GAB | "Em"Ezz | !>!"Am"e2z | !>!^d2z | "C"efg | "D7"dzz |: ("G"d2e) | d3 | 
+(G2A) | B3 | (B3 | "E7"B)c>B | ("Am"A3 | A)zz | ("D7"F2G) | F3 | (A2B) | c3 | 
+e3 | efc | ("G"e2d) | B3 | (d2e) | d3 | (G2A) | B3 | BcB | ("E7"B2^G) | 
+"Am"A3 | AcB | "D7"Agf | edc | (!>!"G"e2d) | "E7"zBB | ("Am"B2A) | ("D7"e2f) | "G"g>gg | gzz :| [K:C] 
+|: "C"e3 | ecA | G3 | EGc | !>!"G7"B3 | dFB | (!>!"C"A2G) | (!>!A2G) | e3 | ecA | G3 | EGc | 
+("G7"B2D) | (A2B) | "C"c>cc | czz :: "C"czB | "G7"BzF | AzG | "C"GzE/2G/2 | "G7"GzF | Fzd/2f/2 | 
+"C"fze | e3 | czB | "G7"BzF | AzG | "C"GzE/2G/2 | "G7"Gzd | fGB | "C"c>cc | czz :| 
+%W:Anmerkung H.C.:Rünenberg 7, Böckten 16  Wynige/Zch. 38, Laufenberg s.V. 200
+% wz06801 (Heft 235/TN 8)
+% Nov 7, 2017

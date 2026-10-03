@@ -1,0 +1,23 @@
+X:107
+T:N.1 Rataplan (Ambrosio)
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:D
+V: 7 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%----
+[Q:"Marcial"]
+!arpeggio![A,DF] z z !arpeggio![A,DF] z z  | !arpeggio![A,DF] z z !arpeggio![A,DF] z z  | \
+!arpeggio![A,DF] z z !arpeggio![A,DF] z z  | !arpeggio![A,DF] z z !arpeggio![A,DF] z z  |  \
+!arpeggio![A,CG]zz z3 | !arpeggio![A,DF]zz !arpeggio![A,DF]zz | D2D F2A & x3 F3 | (d3 d)(cB) & [DG]3 ^E3 | \
+[FA] z F [CE] z F | Dzz !p!z2z !segno!|| [A,DF]zz [A,DF]zz | zz[F(D]/A,/) .[DF]zz | zz[G(C]/A,/) .[CG]zz | \
+zz[F(D]/A,/) .[DF]zz | [A,DF] z z [A,DF] z z | zz[E(C]/A,/) .[CE]zz | [DE]zz [D^G]zz | \
+zz[A(C]/A,/) .[CA]zz | [A,DF] z z [A,DF] z z | zz[F(D]/A,/) .[DF]zz | zz[G(C]/A,/) .[CG]zz | \
+zz[F(D]/A,/) .[DF]zz | D2DF2A & x3 F3 | (d3 d)(cB) & [DG]3 ^E3 | [FA]zz [CE]zz | D !f!z.A/.A/ [Dd]zz !fine!|: \
+[K: A] "_Piano solo" [DE]2z [DF]3- | [FD](EF GAB | c2)z [CAc]3- | ([CAc]BA GAF | [DA]2)z [DG]3- | \
+[DG](DE FAG) | [CF]2z [CE]3-|[CE](CE AEC)| [DE]2z [DF]3-| [DF](EF GAB) |[1 c2z [CAc]3-|[CAc]BA GAF | \
+E2z !>!G3-| G(^DE F^DG| E2)z !>!E3-| (2:3EG (2:3F=F :|2 \
+c2z!>![Ee]3-|[Ee](dc BAB)|c2z !>!E3-| E(FA GEB) | A2z [DE]FG | [CA]2z !p!z2z !D.S.!|]
+%---

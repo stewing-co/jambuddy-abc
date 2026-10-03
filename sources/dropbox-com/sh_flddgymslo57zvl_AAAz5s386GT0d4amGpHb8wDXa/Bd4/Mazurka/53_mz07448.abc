@@ -1,0 +1,80 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka-Mazurka. Brennende Liebe  GC (mz07448) ABCDAB
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.346f (mz07448) orig. G,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABCDAB
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+G/ F>E [P:A] |: "D7"D>F .e2.e2 | !>!e7/c/ B>A | "G"G>B .g2.g2 | !>!g7/b/ a>g | !>!"D7"f7/c'/ e>c' | !>!f7/c'/ e>c' | 
+"G"e>c B>g f>e | d7/G/ F>E | "D7"D>F .e2.e2 | !>!e7/c/ B>A | "G"G>B .g2.g2 | g7/b/ ag | "D"f7/d'/  ^c'>b | 
+a>f e>d ^c'>b | "A7"b7/a/ e>f |1 "D"d2zz/G/ F>E :|2 "D7"d2zz/^c/ d>^d [P:B] |: "C".e2.e2.e2 | {/f}e^d ef ag | "G".d2.d2.d2 | 
+{/e}d^c d^d e=d | ("D7"cf).f2.f2 | .f2.g2.a2 | ("G"ba).g2.e2 | .e2.d2.d2 | "C".e2.e2.e2 | {/f}e^d ef ag | 
+"G".d2.d2.d2 | {/e}d^c d^d e=d | ("C"ec').c'2.b2 | .b2.a2.e2 | "D7"f2 {/g}f>e f>a |1"G"g2zz/^c d>^d :|2 "G"g2z2"_fine"z2 |]  
+[P:C]  [K:C] |: ("C"Ge)e4 | ("C0"^F^d)d4 | "G"=d2 {/e}d>^c d>e  | ("C"d2.c2)c2 | (cg)g4 |  ("D7"c^f)f4 | "G7"=f2 {/g}f>e f>g | ("C"f2.e2)e2 | 
+("C"Ge)e4 | ("C0"^F^d)d4 | "G"=d>e d>^c d>e | ("C"d2.c2)c2 |1 ("Eb"_Bg)g4 | ("G"=Bg)g2 (ab) | "D7"c'2 {/g}^f>e f>a | "G7"g2z2z2 :|2 
+("G7"Gg)g2^g2 | ("D7"Aa)a2d'2 | "G7"b2 {/c'}b>a bd' | "C"c'2z2z2 [P:D] |: "Am"e3.c .B.A | ("E7"^Gf).e2.e2 |  z.E .^F.^G .A.B | 
+"Am"{/d}c>B.A2.A2 | "C"g3.e .d.c | ("G7"B>a).g2.g2 | zG AB cd | ("C"e>d).c2.c2 | "Am"e3.c .B.A | ("E7"^G>f).e2.e2 | 
+z.F .^F.^G .A.B | "Am"{/d}c>B .A2.A2 | "G7"z.d .e.f .g.a |  "C"(a/g/)z (^d/e/)z (c/A/)z  | "G7"(^F/G/)z (^A/B/)z (e/d/)z | "C"c2z2"_>Teil A"z2 :| 
+W:
+W:Brennende Liebe (Polka-Mazurka), nach Otto Heyer
+%(% mz07448
+% Sep 13, 2017 (katatonisch?)
+
+X:2
+T:Polka-Mazurka. Brennende Liebe  GC (mz07448)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.346f (mz07448) orig. G,C
+S: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+G/ F>E |: "D7"D>F .e2.e2 | !>!e7/c/ B>A | "G"G>B .g2.g2 | !>!g7/b/ a>g | !>!"D7"f7/c'/ e>c' | !>!f7/c'/ e>c' | 
+"G"e>c B>g f>e | d7/G/ F>E | "D7"D>F .e2.e2 | !>!e7/c/ B>A | "G"G>B .g2.g2 | g7/b/ ag | "D"f7/d'/  ^c'>b | 
+a>f e>d ^c'>b | "A7"b7/a/ e>f |1 "D"d2zz/G/ F>E :|2 "D7"d2zz/^c/ d>^d |: "C".e2.e2.e2 | {/f}e^d ef ag | "G".d2.d2.d2 | 
+{/e}d^c d^d e=d | ("D7"cf).f2.f2 | .f2.g2.a2 | ("G"ba).g2.e2 | .e2.d2.d2 | "C".e2.e2.e2 | {/f}e^d ef ag | 
+"G".d2.d2.d2 | {/e}d^c d^d e=d | ("C"ec').c'2.b2 | .b2.a2.e2 | "D7"f2 {/g}f>e f>a |1"G"g2zz/^c d>^d :|2 "G"g2z2"_fine"z2 |]  
+[K:C] |: ("C"Ge)e4 | ("C0"^F^d)d4 | "G"=d2 {/e}d>^c d>e  | ("C"d2.c2)c2 | (cg)g4 |  ("D7"c^f)f4 | "G7"=f2 {/g}f>e f>g | ("C"f2.e2)e2 | 
+("C"Ge)e4 | ("C0"^F^d)d4 | "G"=d>e d>^c d>e | ("C"d2.c2)c2 |1 ("Eb"_Bg)g4 | ("G"=Bg)g2 (ab) | "D7"c'2 {/g}^f>e f>a | "G7"g2z2z2 :|2 
+("G7"Gg)g2^g2 | ("D7"Aa)a2d'2 | "G7"b2 {/c'}b>a bd' | "C"c'2z2z2 |: "Am"e3.c .B.A | ("E7"^Gf).e2.e2 |  z.E .^F.^G .A.B | 
+"Am"{/d}c>B.A2.A2 | "C"g3.e .d.c | ("G7"B>a).g2.g2 | zG AB cd | ("C"e>d).c2.c2 | "Am"e3.c .B.A | ("E7"^G>f).e2.e2 | 
+z.F .^F.^G .A.B | "Am"{/d}c>B .A2.A2 | "G7"z.d .e.f .g.a |  "C"(a/g/)z (^d/e/)z (c/A/)z  | "G7"(^F/G/)z (^A/B/)z (e/d/)z | "C"c2z2"_>Teil A"z2 :| 
+W:Parts: ABCDAB
+%W:Brennende Liebe (Polka-Mazurka), nach Otto Heyer
+%(% mz07448
+% Sep 13, 2017
+
+X:3
+T:Polka-Mazurka. Brennende Liebe  GC (mz07448)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.346f (mz07448) orig. G,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:C%%MIDI gchordon
+C/2 B,>A, |: "G7"G,>B, .A2.A2 | !>!A7/2F/2 E>D | "C"C>E .c2.c2 | !>!c7/2e/2 d>c | !>!"G7"B7/2f/2 A>f | !>!B7/2f/2 A>f | 
+"C"A>F E>c B>A | G7/2C/2 B,>A, | "G7"G,>B, .A2.A2 | !>!A7/2F/2 E>D | "C"C>E .c2.c2 | c7/2e/2 dc | "G"B7/2g/2 ^f>e | 
+d>B A>G ^f>e | "D7"e7/2d/2 A>B |1 "G"G2zz/2C/2 B,>A, :|2 "G7"G2zz/2^F/2 G>^G |: "F".A2.A2.A2 | {/B}A^G AB dc | "C".G2.G2.G2 | 
+{/A}G^F G^G A=G | ("G7"FB).B2.B2 | .B2.c2.d2 | ("C"ed).c2.A2 | .A2.G2.G2 | "F".A2.A2.A2 | {/B}A^G AB dc | 
+"C".G2.G2.G2 | {/A}G^F G^G A=G | ("F"Af).f2.e2 | .e2.d2.A2 | "G7"B2 {/c}B>A B>d |1"C"c2zz/2^F G>^G :|2 "C"c2z2"_fine"z2 |] 
+[K:F] |: ("F"CA)A4 | ("F0"=B,^G)G4 | "C"=G2 {/A}G>^F G>A | ("F"G2.F2)F2 | (Fc)c4 | ("G7"F=B)B4 | "C7"_B2 {/c}B>A B>c | ("F"B2.A2)A2 | 
+("F"CA)A4 | ("F0"=B,^G)G4 | "C"=G>A G>^F G>A | ("F"G2.F2)F2 |1 ("Ab"_Ec)c4 | ("C"=Ec)c2 (de) | "G7"f2 {/c}=B>A B>d | "C7"c2z2z2 :|2 
+("C7"Cc)c2^c2 | ("G7"Dd)d2g2 | "C7"e2 {/f}e>d eg | "F"f2z2z2 |: "Dm"A3.F .E.D | ("A7"^CB).A2.A2 | z.A, .=B,.^C .D.E | 
+"Dm"{/G}F>E.D2.D2 | "F"c3.A .G.F | ("C7"E>d).c2.c2 | zC DE FG | ("F"A>G).F2.F2 | "Dm"A3.F .E.D | ("A7"^C>B).A2.A2 | 
+z.B, .=B,.^C .D.E | "Dm"{/G}F>E .D2.D2 | "C7"z.G .A.B .c.d | "F"(d/2c/2)z (^G/2A/2)z (F/2D/2)z | "C7"(=B,/2C/2)z (^D/2E/2)z (A/2G/2)z | "F"F2z2"_>Teil A"z2 :| 
+W:Parts: ABCDAB
+%W:Brennende Liebe (Polka-Mazurka), nach Otto Heyer
+%(% mz07448
+% Sep 13, 2017

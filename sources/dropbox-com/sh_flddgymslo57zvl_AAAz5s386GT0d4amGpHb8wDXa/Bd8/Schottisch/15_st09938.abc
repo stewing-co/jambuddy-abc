@@ -1,0 +1,62 @@
+I:abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Schottisch GDC chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.280 (st09938) orig. G,D,C-Dur
+T: Tänze aus Vitznau (Luzern)
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"ddd2 g3f | "C"(fe^de) c'4 | "G"b2gd "D7"b2a2 | "G"a2g2 bag2 | ddd2 g3f | "C"fe^de c'4 | "G"b2d2 "D7"b3a | "G"g2g2 g2z2 :| 
+K:D
+"A7"aaa2 c'c'c'2 | "D"d'd'd'2 a4 | "A7"aaa2 g2c2 | "D"defg a4 | "A7"aaa2 c'c'c'2 | "D"d'd'd'2 a4 | "A7"aaa2 g2c2 | "D"d2d2 d2"_> Teil A"z2 :| 
+K:C 
+L:1/8
+"C"ce e2 | ec eg | "G7"gB f2 | za g>a | gB f2 | zg f>g | "C"fc e2 | ze fe | 
+ce c'2 | c'c' ba | "G7"gB (f2 | f)a g>a | gB f2 | ga/g/ fd | ."C"c2 +>+g2 | cc' cz :| 
+
+X: 2
+T: Schottisch GDC Parts
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"ddd2 g3f | "C"(fe^de) c'4 | "G"b2gd "D7"b2a2 | "G"a2g2 bag2 | ddd2 g3f | "C"fe^de c'4 | "G"b2d2 "D7"b3a | "G"g2g2 g2z2 :| 
+K:D
+"A7"aaa2 c'c'c'2 | "D"d'd'd'2 a4 | "A7"aaa2 g2c2 | "D"defg a4 | "A7"aaa2 c'c'c'2 | "D"d'd'd'2 a4 | "A7"aaa2 g2c2 | "D"d2d2 d2"_> Teil A"z2 :| 
+K:G
+"G"ddd2 g3f | "C"(fe^de) c'4 | "G"b2gd "D7"b2a2 | "G"a2g2 bag2 | ddd2 g3f | "C"fe^de c'4 | "G"b2d2 "D7"b3a | "G"g2g2 g2z2 :| 
+K:C 
+L:1/8
+"C"ce e2 | ec eg | "G7"gB f2 | za g>a | gB f2 | zg f>g | "C"fc e2 | ze fe | 
+ce c'2 | c'c' ba | "G7"gB (f2 | f)a g>a | gB f2 | ga/g/ fd | ."C"c2 +>+g2 | cc' cz :| 
+
+X:3
+T:Schottisch CGF 7- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"GGG2 c3B | "F"(BA^GA) f4 | "C"e2cG "G7"e2d2 | "C"d2c2 edc2 | GGG2 c3B | "F"BA^GA f4 | "C"e2G2 "G7"e3d | "C"c2c2 c2z2 :| 
+K:Gmaj
+"D7"ddd2 fff2 | "G"ggg2 d4 | "D7"ddd2 c2F2 | "G"GABc d4 | "D7"ddd2 fff2 | "G"ggg2 d4 | "D7"ddd2 c2F2 | "G"G2G2 G2"_> Teil A"z2 :| 
+K:Fmaj
+L:1/8
+"F"FA A2 | AF Ac | "C7"cE B2 | zd c>d | cE B2 | zc B>c | "F"BF A2 | zA BA | 
+FA f2 | ff ed | "C7"cE (B2 | B)d c>d | cE B2 | cd/2c/2 BG | "F"F2 !>!c2 | Ff Fz :| 
+
+X:4
+T:Schottisch CGF 7- Parts 
+M:2/4
+L:1/16
+Z: पियुश्
+K:Cmaj%%MIDI gchordon
+"C"GGG2 c3B | "F"(BA^GA) f4 | "C"e2cG "G7"e2d2 | "C"d2c2 edc2 | GGG2 c3B | "F"BA^GA f4 | "C"e2G2 "G7"e3d | "C"c2c2 c2z2 :| 
+K:Gmaj
+"D7"ddd2 fff2 | "G"ggg2 d4 | "D7"ddd2 c2F2 | "G"GABc d4 | "D7"ddd2 fff2 | "G"ggg2 d4 | "D7"ddd2 c2F2 | "G"G2G2 G2"_> Teil A"z2 :| 
+K:C  % Part A
+"C"GGG2 c3B | "F"(BA^GA) f4 | "C"e2cG "G7"e2d2 | "C"d2c2 edc2 | GGG2 c3B | "F"BA^GA f4 | "C"e2G2 "G7"e3d | "C"c2c2 c2z2 :| 
+K:Fmaj
+L:1/8
+"F"FA A2 | AF Ac | "C7"cE B2 | zd c>d | cE B2 | zc B>c | "F"BF A2 | zA BA | 
+FA f2 | ff ed | "C7"cE (B2 | B)d c>d | cE B2 | cd/2c/2 BG | "F"F2 !>!c2 | Ff Fz :| 
+

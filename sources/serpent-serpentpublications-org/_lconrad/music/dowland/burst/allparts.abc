@@ -1,0 +1,139 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:VIII. Burst forth my tears
+T:Cantus.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on first line
+K:G dorian
+z4 G4 z2 B4 G4 F4 B4 G2 | B2 A2 G3 A ^F4 | 
+z4 z2 A2 | F2 G2 A3 c | B2 A2 G3 G A4 | 
+w:And shew what pain im- per- ious love pro- vokes.
+w:At beau- ties gate in hope of pi- tie knocks;
+w:Yet are my sighes and sutes re- paid with mocks:
+z4 z2 D2 | D2 D2 D4 | z2 D4 G4 F2 | E3 E D4 | 
+w:Kinde ten- der lambes, la- ment loves scant re- liefe,
+w:But mer- cy sleepes  while deep dis- daine in- crease,
+w:I pleade, yet she re- pi- neth at my teene,
+z2 d2 c2 B2 | A2 G2 ^F2 G2 | A3 A G4 |
+w:And pine, since pen- sive care my free- dome yokes.
+w:And beau- tie hope in her faire bo- some yokes.
+w:O ruth- lesse ri- gour har- der then the rocks,
+|: z4 z2 c3 G B2 | A2 G2 ^F4 | z2 d3 A c2 | B2 G2 ^F2 G2 | A3 A G4 :|
+w:O pine, to see me pine, O pine, to see me pine my ten- der flockes.
+w:O grieve to heare my griefe, O grieve to heare my griefe, my ten- der flockes.
+w:That both the she- pheard kills, That both the she- pheard kills, and his poore flocks.
+
+X:2
+T:VIII. Burst forth my tears
+T:Altus.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on second line
+K:G min
+D4 z2 E4 D4 E2 D4 C2 D4 E3 D D4 C2 D4 
+w:1.~Burst, burst, forth my tears, as- sist my _ for- ward griefe,
+w:2.~Sad, sad, pin- ing care, that  ne- ver _ may have peace,
+w:3.~Like, like to the winds my sighs have _ wing- ed beene;
+D =E F D =E3 F D/D/ F > =E D ^C2 D3 G2 F D3 =E F D F G A c > G B A4
+w:And _ _ _ shew what pain, and shew what pain, im- per- i- ous love pro- vokes, im- per- i- ous love _ pro- vokes.
+w:At _ _ _ beau- ties gate, at beau- ties gate, in hope of pi-  tie *  knocks; in hope of pi- tie _ _ knocks;
+w:Yet _ _ _ are my sighes, yet are my sighes, and sutes re- paid _ with mocks: and sutes re- paid _ _ with mocks:
+z2 B3 A > B G ^F3 F G F =E D ^C2 D3 C/ B,/ C2
+w:Kinde ten- * der lambes, la- ment, la- ment loves scant re- * _ _ liefe,
+w:But mer- * cy sleepes  while deep, while deep dis- daine in- * _ _ crease,
+w:I pleade, * yet she, yet she re- pi- neth at my _ _ _ teene,
+ D2 F2 =E2 D2 =E2 F G2 F D2 C D3 D E D > C =B,4
+w:And pine, since pen- sive care my free- dome yokes. my free- dome _ yokes.
+w:And beau- tie hope in her faire bo- some yokes. faire bo- some _ yokes.
+w:O ruth- lesse ri- gour har- der then the rocks, har- der then the rocks,
+|: z2 G3 D F2 E2 D2 D4 z2 A3 E G2 G2 ^F2 G2 D2 D3 D E E D > C =B,4 :|
+w:O pine, to see me pine, O pine, to see me pine, to see me pine, my ten- der flockes.
+w:O grieve to heare my griefe, O grieve to heare my griefe, to heare my griefe, my ten- der flockes.
+w:That both the she- pheard kills, That both the she- pheard kills, the she- pheard kills, and his poore flocks.
+
+X:3
+T:VIII. Burst forth my tears
+T:Tenor.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on fourth line
+K:G dor -8va
+%%MIDI transpose -12
+G4 z4 G4 G2 c2 B4 A2 G4 D2 G2 F2 _E3 E D4 
+w:1.~Burst, burst forth my tears, as- sist, as- sist my for- ward griefe,
+w:2.~Sad, sad pin- ing care, that  ne- ver, ne- ver may have peace,
+w:3.~Like, like to the winds my sighs, my sighs have wing- ed beene;
+A2 A =B c2 A4 D2 E2 A2 d3 A B2 B2 A2 d2 d3 G ^F4
+w:And shew what pain, pain im- per- ious love pro- vokes, im- per- ious love pro- vokes.
+w:At beau- ties gate, gate in hope of pi- tie knocks; in hope of pi- tie knocks;
+w:Yet are my sighes, sighes and sutes re- paid with mocks: and sutes re- paid with mocks:
+z2 z G A c B2 A3 A B A G F E2 D2 A3 A ^F2 
+w:Kinde ten- * der lambes, la- ment la- ment loves scant re- liefe, re- liefe,
+w:But mer- * cy sleepes  while deep dis- daine, dis- daine in- crease, in- crease,
+w:I pleade, _ yet she, yet she re- pi- neth at my teene, my teene,
+z A2 G2 F A > A D2 z F G A B A2 G2 ^F/ E/ F2 G4
+w:And pine, since pen- sive care, since pen- sive care my free- * _ dome yokes.
+w:And beau- tie hope in her faire, in her faire bo- * _ _ some yokes.
+w:O ruth- lesse ri- gour har- der, ri- gour har- der then _ _ the rocks,
+|: c3 G B2 A A G2 z d2 A B2 A4 z2 G2 c2 A2 d2 B2 A2 G2 G2 ^F2 G4 :|
+w:O pine, to see me pine, to see me pine, O pine, to see me pine,  my ten- der flockes.
+w:O grieve to heare my griefe, to heare my griefe, O grieve to heare my griefe,   my ten- der flockes.
+w:That both the she- pheard kills, the she- pheard kills, That both the she- pheard kills, and his poore flocks.
+
+
+X:4
+T:VIII. Burst forth my tears
+T:Bassus.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+K:G dor bass
+%%MIDI transpose -24
+z16 z16 z8 d4 A4 B4 A2 ^F2 G2 d2 B2 G2 d3 e ^f2 g2 d4 z2 
+w:1.~And shew what pain im- per- ious love, im- per- ious love pro- vokes.
+w:2.~At beau- ties gate in hope of pi- tie, hope of pi- tie knocks;
+w:3.~Yet are my sighes and sutes re- paid, and sutes re- paid with mocks:
+g2 ^f2 g2 d3 d G2 G2 A6 A2 d2
+w:Kinde ten- der lambes, la- ment loves scant re- liefe,
+w:But mer- cy sleepes  while deep dis- daine in- crease,
+w:I pleade, yet she re- pi- neth at my teene,
+d2 c2 B2 A2 G2 d2 _e2 d2 B B c2 d2 G4 
+w:And pine, since pen- sive care my free- dome, my free- dome yokes.
+w:And beau- tie hope in her faire bo- some, faire bo- some yokes.
+w:O ruth- lesse ri- gour har- der then har- der then the rocks,
+|: z8  g3 d ^f2 g G d3 A c2 B2 A4 G4 d2 B B c2 d2 G4 :|
+w:O pine, to see me, pine, to see me pine my ten- der,  my ten- der flockes.
+w:O grieve to heare my griefe, to heare my griefe,  my ten- der, my ten- der flockes.
+w:That both the she- pheard,  both the she- pheard kills, she- pheard kills, and his poore flocks.
+

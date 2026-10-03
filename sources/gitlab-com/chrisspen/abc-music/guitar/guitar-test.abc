@@ -1,0 +1,13 @@
+X:1
+T:Example
+%%pos ornament below
+%%pos gchord below
+%%pos vocal above
+K:A
+%%text a short note or description above a staff
+Aab | Bcd | Cef
+w:I||*II %guitar position
+w:<fingering\ letter> %fingering letter
+s:!3! %fingering numbers
+s:"A7"| "Bb" | "C min" %chord symbols
+s:T*T*!tenuto!"^tempo rubato"!>!..  %other symbols

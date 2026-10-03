@@ -1,0 +1,44 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka FCBbEb (mz06518) ABACDCEA
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.187 (mz06518) orig. F,C,Bb,Eb
+T: Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+T:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+%%partsbox
+P:ABACDCEA
+R:Mazurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A] "F"A>c a>c a>c | "Gm"a>a .g2!>!g2 | "C7"B>c .g2!>!g2 | "F"A>c .f2!>!f2 | A>c a>c a>c | "Gm"a>a .g2!>!g2 | "C7"B>c g>c B>c | 
+."F"f2!>!f2"_Fine"z2 :| [P:B] [K:C] "C"EG ce fe | "G7"e2 {/e}d>^cd2 | FG Bd ed | "C"d2 {/d}c>Bc2 | EG ce fe | "G7"e2 {/e}d>^cd2 | 
+FG Bd ed | "C".c2!>!c2"_>Teil A"z2 :: [P:C] [K:Bb] "Bb"f>fd4 | "Cm"e>eg4 | "F7"A>A c>c F>F | "Bb"F>G F>Bd2 | 
+f>fd4 | "Cm"e>eg4 | "F7"A>A c>c F>F | "Bb".B2!>!B2z2 :| [P:D] [K:Eb] "Cm"e>e f>f !>!g2 |  e>e f>f !>!g2 |  "Bb7"g>B .g2!>!g2 |  
+"Eb"f>B .f2!>!e2 | "Cm"e>e f>f!>!g2 | e>e f>f!>!g2 | "Bb7"g>Bg2Bf | "Eb".e2!>!e2"_>Teil C"z2 |: [P:E] [K:Bb] "F7"e>=B c>dc2 | 
+"Bb"d>A B>cB2 | "F7"FG AB cd | {/c}"Bb"AB Bgf2 | "F7"e>=B c>dc2 | "Bb"d>A B>cB2 | "F7"F>G F>e d>c | "Bb".B2!>!B2"_>Teil A"z2 :| 
+% mz06518
+% Jan 13, 2017
+
+X:2
+T:Mazurka CGFBb 5- (mz06518)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.187 (mz06518) orig. F,C,Bb,Eb
+S:Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+S:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"E>G e>G e>G | "Dm"e>e .d2!>!d2 | "G7"F>G .d2!>!d2 | "C"E>G .c2!>!c2 | E>G e>G e>G | "Dm"e>e .d2!>!d2 | "G7"F>G d>G F>G | 
+"C"c2!>!c2"_Fine"z2 :| [K:G] "G"B,D GB cB | "D7"B2 {/B}A>^GA2 | CD FA BA | "G"A2 {/A}G>FG2 | B,D GB cB | "D7"B2 {/B}A>^GA2 | 
+CD FA BA | "G".G2!>!G2"_>Teil A"z2 :: [K:F] "F"c>cA4 | "Gm"B>Bd4 | "C7"E>E G>G C>C | "F"C>D C>FA2 | 
+c>cA4 | "Gm"B>Bd4 | "C7"E>E G>G C>C | "F".F2!>!F2z2 :| [K:Bb] "Gm"B>B c>c !>!d2 | B>B c>c !>!d2 | "F7"d>F .d2!>!d2 | 
+"Bb"c>F .c2!>!B2 | "Gm"B>B c>c!>!d2 | B>B c>c!>!d2 | "F7"d>Fd2Fc | "Bb".B2!>!B2"_>Teil C"z2 |: [K:F] "C7"B>^F G>AG2 | 
+"F"A>E F>GF2 | "C7"CD EF GA | {/G}"F"EF Fdc2 | "C7"B>^F G>AG2 | "F"A>E F>GF2 | "C7"C>D C>B A>G | "F".F2!>!F2"_>Teil A"z2 :| 
+W:Parts ABA-CDC-EA
+% mz06518
+% Jan 13, 2017

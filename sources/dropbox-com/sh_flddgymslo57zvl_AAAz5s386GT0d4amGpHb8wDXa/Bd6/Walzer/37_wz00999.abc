@@ -1,0 +1,112 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Der Chupfer-Tanz (Walzer)  D
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.263 (wz00999) orig. C,F-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+A|"D"A2B/c/ | d2c | ("A7"G3 | G)zA | A2B | c2B | ("D"F3 | F)zf | f2f | 
+g2f | "G"e2B | B3 | "A7"A^GA | f2e | "D"d>dd | dz(3A/B/c/ |: "D"dcB | AGF | "A7"E>AA | 
+c2A |1 G>AA | c>AG | "D"FzA | d>A B/c/ :|2 ^G2A | f2e | "D"d>dd | dzz |]   
+W:
+W: Chupfer - Kupfer (copper) C 2-
+X:2
+T:Der Chupfer-Tanz (Walzer)  C 2-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+G|"C"G2A/2B/2 | c2B | ("G7"F3 | F)zG | G2A | B2A | ("C"E3 | E)ze | e2e | 
+f2e | "F"d2A | A3 | "G7"G^FG | e2d | "C"c>cc | cz(3G/2A/2B/2 |: "C"cBA | GFE | "G7"D>GG | 
+B2G |1 F>GG | B>GF | "C"EzG | c>G A/2B/2 :|2 ^F2G | e2d | "C"c>cc | czz |] 
+% wz00999
+X:3
+T:Der Chupfer-Tanz (Walzer)  F 3+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F%%MIDI gchordon
+c|"F"c2d/2e/2 | f2e | ("C7"B3 | B)zc | c2d | e2d | ("F"A3 | A)za | a2a | 
+b2a | "Bb"g2d | d3 | "C7"c=Bc | a2g | "F"f>ff | fz(3c/2d/2e/2 |: "F"fed | cBA | "C7"G>cc | 
+e2c |1 B>cc | e>cB | "F"Azc | f>c d/2e/2 :|2 =B2c | a2g | "F"f>ff | fzz |] 
+% wz00999
+X:4
+T:Der Chupfer-Tanz (Walzer)  G 5+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G%%MIDI gchordon
+d|"G"d2e/2f/2 | g2f | ("D7"c3 | c)zd | d2e | f2e | ("G"B3 | B)zb | b2b | 
+c'2b | "C"a2e | e3 | "D7"d^cd | b2a | "G"g>gg | gz(3d/2e/2f/2 |: "G"gfe | dcB | "D7"A>dd | 
+f2d |1 c>dd | f>dc | "G"Bzd | g>d e/2f/2 :|2 ^c2d | b2a | "G"g>gg | gzz |] 
+% wz00999
+X:5
+T:Der Chupfer-Tanz (Walzer)  C (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+G|"C"G2A/2B/2 | c2B | ("G7"F3 | F)zG | G2A | B2A | ("C"E3 | E)ze | e2e | 
+f2e | "F"d2A | A3 | "G7"G^FG | e2d | "C"c>cc | cz(3G/2A/2B/2 |: "C"cBA | GFE | "G7"D>GG | 
+B2G |1 F>GG | B>GF | "C"EzG | c>G A/2B/2 :|2 ^F2"_g"G | "_e"e2"_ d ="d | "C"c>cc | czz |] 
+% wz00999
+X:6
+T:Der Chupfer-Tanz (Walzer)  F (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+c|"F"c2d/2e/2 | f2e | ("C7"B3 | B)zc | c2d | e2d | ("F"A3 | A)za | a2a | 
+b2a | "Bb"g2d | d3 | "C7"c=Bc | a2g | "F"f>ff | fz(3c/2d/2e/2 |: "F"fed | cBA | "C7"G>cc | 
+e2c |1 B>cc | e>cB | "F"Azc | f>c d/2e/2 :|2 =B2c | a2g | "F"f>ff | fzz |] 
+% wz00999
+X:7
+T:Der Chupfer-Tanz (Walzer)  G (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+d|"G"d2e/2f/2 | g2f | ("D7"c3 | c)zd | d2e | f2e | ("G"B3 | B)zb | b2b | 
+c'2b | "C"a2e | e3 | "D7"d^cd | b2a | "G"g>gg | gz(3d/2e/2f/2 |: "G"gfe | dcB | "D7"A>dd | 
+f2d |1 c>dd | f>dc | "G"Bzd | g>d e/2f/2 :|2 ^c2d | b2a | "G"g>gg | gzz |] 
+% wz00999
+X:8
+T: Der Chupfer-Tanz (Walzer) D (tinwhistle in D)
+T:wz00999 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+A|"D"A2B/c/ | d2c | ("A7"G3 | G)zA | A2B | c2B | ("D"F3 | F)zf | f2f | 
+g2f | "G"e2B | B3 | "A7"A^GA | f2e | "D"d>dd | dz(3A/B/c/ |: "D"dcB | AGF | "A7"E>AA | 
+c2A |1 G>AA | c>AG | "D"FzA | d>A B/c/ :|2 ^G2A | f2e | "D"d>dd | dzz |] 
+X:9
+T: Der Chupfer-Tanz (Walzer) D (tinwhistle in D) solo
+T:wz00999 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+A|A2B/c/ | d2c | (G3 | G)zA | A2B | c2B | (F3 | F)zf | f2f | \
+g2f |
+ e2B | B3 | A^GA | f2e | d>dd | dz(3A/B/c/ |: dcB | AGF | E>AA | 
+c2A |1 G>AA | c>AG | FzA | d>AB/c/ :|2 ^G2A | f2e | d>dd | dzz |]   
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 2, 2016

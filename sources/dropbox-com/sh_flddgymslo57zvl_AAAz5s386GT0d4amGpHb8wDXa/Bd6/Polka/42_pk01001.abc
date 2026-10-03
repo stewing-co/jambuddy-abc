@@ -1,0 +1,119 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Der 200-J\"ahrig (Polka)  GD
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.268 (pk01001) orig. G,D-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+D2 |: "G"G4 B2d2 | B2cB A2G2 | "D7"F2A2 c2f2 | c6D2 | F4A2d2 | c2dc B2A2 |1 "G"G2B2 d2g2 | B4z2D2 :|2 
+"G"G4B3A | G4z4 |: "C"e2c2 g2fe | "G"dbgd B{/d}cBA | "D7"FAcf c{/d}cBA | "G"GBdg B{/d}cAG | 
+"C"e2c2 g2fe | "G"dbgd B{/c}BAG | "D7"FAcf c{/d}cBA | "G"G2BA G2z2 :: [K:D] "G"B2G2 d2cB | "D"A2FBA4 | 
+"A7"G2FE A2G2 | "D"FEDE F2D2 | "G"B2G2 d2cB | "D"A2FBA4 | "A7"G2E2 AGFE | "D"D2FE D2z2 :| 
+W:Anmerkung H.C.: 11. Okt. 1952. Adolf Kreuzer
+X:2
+T:Der 200-J\"ahrig (Polka)  FC 2-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+C2 |: "F"F4 A2c2 | A2BA G2F2 | "C7"E2G2 B2e2 | B6C2 | E4G2c2 | B2cB A2G2 |1 "F"F2A2 c2f2 | A4z2C2 :|2 
+"F"F4A3G | F4z4 |: "Bb"d2B2 f2ed | "F"cafc A{/c}BAG | "C7"EGBe B{/c}BAG | "F"FAcf A{/c}BGF | 
+"Bb"d2B2 f2ed | "F"cafc A{/B}AGF | "C7"EGBe B{/c}BAG | "F"F2AG F2z2 :: [K:C] "F"A2F2 c2BA | "C"G2EAG4 | 
+"G7"F2ED G2F2 | "C"EDCD E2C2 | "F"A2F2 c2BA | "C"G2EAG4 | "G7"F2D2 GFED | "C"C2ED C2z2 :| 
+% pk01001
+X:3
+T:Der 200-J\"ahrig (Polka)  CG 5+
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+G2 |: "C"c4 e2g2 | e2fe d2c2 | "G7"B2d2 f2b2 | f6G2 | B4d2g2 | f2gf e2d2 |1 "C"c2e2 g2c'2 | e4z2G2 :|2 
+"C"c4e3d | c4z4 |: "F"a2f2 c'2ba | "C"ge'c'g e{/g}fed | "G7"Bdfb f{/g}fed | "C"cegc' e{/g}fdc | 
+"F"a2f2 c'2ba | "C"ge'c'g e{/f}edc | "G7"Bdfb f{/g}fed | "C"c2ed c2z2 :: [K:G] "C"e2c2 g2fe | "G"d2Bed4 | 
+"D7"c2BA d2c2 | "G"BAGA B2G2 | "C"e2c2 g2fe | "G"d2Bed4 | "D7"c2A2 dcBA | "G"G2BA G2z2 :| 
+% pk01001
+X:4
+T:Der 200-J\"ahrig (Polka)  CG 7-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+G,2 |: "C"C4 E2G2 | E2FE D2C2 | "G7"B,2D2 F2B2 | F6G,2 | B,4D2G2 | F2GF E2D2 |1 "C"C2E2 G2c2 | E4z2G,2 :|2 
+"C"C4E3D | C4z4 |: "F"A2F2 c2BA | "C"GecG E{/G}FED | "G7"B,DFB F{/G}FED | "C"CEGc E{/G}FDC | 
+"F"A2F2 c2BA | "C"GecG E{/F}EDC | "G7"B,DFB F{/G}FED | "C"C2ED C2z2 :: [K:G] "C"E2C2 G2FE | "G"D2B,ED4 | 
+"D7"C2B,A, D2C2 | "G"B,A,G,A, B,2G,2 | "C"E2C2 G2FE | "G"D2B,ED4 | "D7"C2A,2 DCB,A, | "G"G,2B,A, G,2z2 :| 
+% pk01001
+X:5
+T:Der 200-J\"ahrig (Polka)  FC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+C2 |: "F"F4 A2c2 | A2BA G2F2 | "C7"E2G2 B2e2 | B6C2 | E4G2c2 | B2cB A2G2 |1 "F"F2A2 c2f2 | A4z2C2 :|2 
+"F"F4A3G | F4z4 |: "Bb"d2B2 f2ed | "F"cafc A{/c}BAG | "C7"EGBe B{/c}BAG | "F"FAcf A{/c}BGF | 
+"Bb"d2B2 f2ed | "F"cafc A{/B}AGF | "C7"EGBe B{/c}BAG | "F"F2AG F2z2 :: [K:C] "F"A2F2 c2BA | "C"G2EAG4 | 
+"G7"F2ED G2F2 | "C"EDCD E2C2 | "F"A2F2 c2BA | "C"G2EAG4 | "G7"F2D2 GFED | "C"C2ED C2z2 :| 
+% pk01001
+X:6
+T:Der 200-J\"ahrig (Polka)  CG (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+G2 |: "C"c4 e2g2 | e2fe d2c2 | "G7"B2d2 f2b2 | f6G2 | B4d2g2 | f2gf e2d2 |1 "C"c2e2 g2c'2 | e4z2G2 :|2 
+"C"c4e3d | c4z4 |: "F"a2f2 c'2ba | "C"ge'c'g e{/g}fed | "G7"Bdfb f{/g}fed | "C"cegc' e{/g}fdc | 
+"F"a2f2 c'2ba | "C"ge'c'g e{/f}edc | "G7"Bdfb f{/g}fed | "C"c2ed c2z2 :: [K:G] "C"e2c2 g2fe | "G"d2Bed4 | 
+"D7"c2BA d2c2 | "G"BAGA B2G2 | "C"e2c2 g2fe | "G"d2Bed4 | "D7"c2A2 dcBA | "G"G2BA G2z2 :| 
+% pk01001
+X:7
+T:Der 200-J\"ahrig (Polka)  CG (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+G,2 |: "C"C4 E2G2 | E2FE D2C2 | "G7"B,2D2 F2B2 | F6G,2 | B,4D2G2 | F2GF E2D2 |1 "C"C2E2 G2c2 | E4z2G,2 :|2 
+"C"C4E3D | C4z4 |: "F"A2F2 c2BA | "C"GecG E{/G}FED | "G7"B,DFB F{/G}FED | "C"CEGc E{/G}FDC | 
+"F"A2F2 c2BA | "C"GecG E{/F}EDC | "G7"B,DFB F{/G}FED | "C"C2ED C2z2 :: [K:G] "C"E2C2 G2FE | "G"D2B,ED4 | 
+"D7"C2B,A, D2C2 | "G"B,A,G,A, B,2G,2 | "C"E2C2 G2FE | "G"D2B,ED4 | "D7"C2A,2 DCB,A, | "G"G,2B,A, G,2z2 :| 
+% pk01001
+X:8
+T:Der 200-J\"ahrig (Polka) G&D (tinwhistle in D)
+T:pk01001 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+D2 |: "G"G4 B2d2 | B2cB A2G2 | "D7"F2A2 c2f2 | c6D2 | F4A2d2 | c2dc B2A2 |1 "G"G2B2 d2g2 | B4z2D2 :|2 
+"G"G4B3A | G4z4 |: "C"e2c2 g2fe | "G"dbgd B{/d}cBA | "D7"FAcf c{/d}cBA | "G"GBdg B{/d}cAG | 
+"C"e2c2 g2fe | "G"dbgd B{/c}BAG | "D7"FAcf c{/d}cBA | "G"G2BA G2z2 :: [K:D] "G"B2G2 d2cB | "D"A2FBA4 | 
+"A7"G2FE A2G2 | "D"FEDE F2D2 | "G"B2G2 d2cB | "D"A2FBA4 | "A7"G2E2 AGFE | "D"D2FE D2z2 :| 
+X:9
+T:Der 200-J\"ahrig (Polka) G&D (tinwhistle in D) solo
+T:pk01001 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:G transpose=12
+D2 |: G4 B2d2 | B2cB A2G2 | F2A2 c2f2 | c6D2 | F4A2d2 | c2dc B2A2 |1 G2B2 d2g2 | B4z2D2 :|2 
+G4B3A | G4z4 |: e2c2 g2fe | dbgd B{/d}cBA | FAcf c{/d}cBA | GBdg B{/d}cAG | 
+e2c2 g2fe | dbgd B{/c}BAG | FAcf c{/d}cBA | G2BA G2z2 :: [K:D] B2G2 d2cB | A2FBA4 | 
+G2FE A2G2 | FEDE F2D2 | B2G2 d2cB | A2FBA4 | G2E2 AGFE | D2FE D2z2 :|
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 6, 2016

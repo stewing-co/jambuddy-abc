@@ -1,0 +1,34 @@
+X:207
+T:N.2 Fado (Josepha)
+C:Fonseca, Eduardo da (1863-1938)
+M:C
+L:1/4
+K:C
+V: 7 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%
+%--- SOURCE C ---
+%
+"^[NB: now using source C]"!mf!z/(G,/C/E/) !arpeggio![G,CEG]<z | z/(G,/B,/F/) !arpeggio![G,B,G]<z | \
+z/(G,/B,/F/)!arpeggio![G,B,FG]z | z/(G,/C/E/) !arpeggio![CEc]<z |: \
+z/(G,/C/E/) !arpeggio![G,CEG]<z | z/(G,/B,/F/) !arpeggio![G,B,FG]<z | \
+z/(G,/B,/F/) !arpeggio![G,DG]<z |1  z/(G,/C/E/) !arpeggio![G,CEG]/z/ !arpeggio![G,CEG]/z/ :|2 \
+z/(G,/C/E/) !arpeggio![CEc]<z | \
+[L:1/8] (C_E_Ac c'_a_ec) | (_B,EG_B _bg_e_B)  | (_A,CF_A _afcA) | (G,C_EG g_ecG) | \
+[L:1/4][C^F] [C^F]-[CF]/"_com o canto"(_E/D/C/)| (G/=e/) x3 & [C=E]/x/!>![Ge]2 z/[Ge]/ | \
+[Ge][Fd] [Fd]/ [=Af] [Ge]/ | [Fd] {ed}[Ec] [cec']/z/z |] \
+%
+%--- SOURCE B
+%
+%   z!arpeggio![G,CE]!arpeggio![G,EG]z | z!arpeggio![G,B,F]!arpeggio![G,B,F]z | \
+%   z!arpeggio![G,B,F]!arpeggio![G,B,F]z | z!arpeggio![G,CE]!arpeggio![G,CE]z || \
+%   z!arpeggio![G,CEG]!arpeggio![G,CEG]z | z!arpeggio![G,B,FG]!arpeggio![G,B,FG]!arpeggio![G,B,FG] | \
+%   z!arpeggio![G,CEG]!arpeggio![G,CEG]!arpeggio![G,CEG] |  z!arpeggio![G,CEG]!arpeggio![G,CEG]z | \
+%   z!arpeggio![G,B,FG]!arpeggio![G,B,FG]!arpeggio![G,B,FG] | \
+%   z!arpeggio![G,DFG]!arpeggio![G,DFG]z  | z!arpeggio![G,DFG]!arpeggio![G,DFG]z | \
+%   z!arpeggio![G,CEG]!arpeggio![G,CEG]z | \
+%   "_check ABC" (C4 & (_E4 & (c4 | _B,4) &_E4) & _B4) | _A,4&C4&_A4 | G,4&C4&G4| [C^F]2-[CF]/z/z| \
+%  "_col canto" [C=EG]4  | x4| x4 |] \
+%
+%---

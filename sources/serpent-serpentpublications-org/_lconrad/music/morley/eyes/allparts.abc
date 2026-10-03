@@ -1,0 +1,188 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:IIII. Ladie those eyes
+O: Canzonets, or Little Short songs to three voyces, 
+H: taken fromm the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+K:C
+T: Cantus
+N: Original clef, treble.
+M:C
+L:1/8
+%1
+      G4  G2  A2    B2    G2    B2   c2 d4     d2  c   B\
+w:    La- die those eyes, those eyes of yours, La- die those
+%2
+L:1/8
+   A2    d2    c2   A2 B2    d4  c2   B3    c     B2   A   G  ^F2   F2 \
+w: eyes, those eyes of yours La- die, those faire eyes La- dy mine, those
+%3
+L: 1/8
+   E2   A2   G2     F2  E4     "A" ^F4 z2 d2  d2  d2  e6    d2  ^c2 B   c d6    c2\
+w: eyes that shines so  cleere- ly:    Why doe you hide, why doe you _ hide, why
+%4
+L:1/8
+   B2  A  B  c2   B2   A4 z2 B2   B2     B2    ^c2     ^c2  d6     e2 \
+w: doe you _ hide from mee,  that bought their beames: that bought their 
+%5
+L:1/4
+   f2    f2 e4     "B"d4 z4 z2 z d      e     ^f   g    e    ^f2   e    d    ^c    d d    ^c\
+w: beames so deere- ly?        Thinck not   when thou ex-  ilest mee, less heate in mee se-
+%6
+L:1/16
+   d4    d4 z4 d8 c4  B4  g4 e8  d4  G4 ^F4 G4 A4  d4   c2   B2 B2 A G  A8 \
+w: jour- neth, O, no,  no, O, no, no, oh, no, oh  no, then thou bee- _ _ _ guilest
+%7
+L:1/8
+   B8     "C"d2   d    d   e2     ^f2 g4    e4 ^f4   d4   "D"B2   B    B   B2    A B\
+w: thee.  Love doth but shine, but shine in thee, (no) Love doth but shine in _
+%8
+L:1/8
+   c2    g2  g f  e   d  c2   A4  d2 d   c  B    A  G4   g2  g f  e   d  c  B\
+w: thee, but O in mee in mee, oh, oh  but in mee, in mee, but O in mee in me in
+%1r
+L:1/8
+   A2   c2 c   B  A   G  ^F2  D2  G6 ^F E ^F4 G8     "E"B2   A    B   c2    A2\
+w: mee, oh  but in mee in mee, hee bur- _ _ _  neth.  Love doth but shine in
+%2r
+L:1/8
+   B     c  d4    ^c2 d8    "F"d2   d    d   g2    f2 e2    e2 e     d  c    B\
+w: thee, in thee, in  thee, Love doth but shine in thee, in thee, in thee, in
+%3r
+L: 1/8
+   A     G  ^F    E ^F G2 ^F G2    d2  d c  B    A  G2   g2 g   f e    d\
+w: thee, in thee, in _ _ _   thee, but O in mee, in mee, O  but in mee, in
+%4r
+L:1/8
+   c2   e2  e d  c    B  A4   B2  c2  d6   c2 HB8 |]
+w: mee, but oh in mee, in mee, (O) hee bur- _  neth.
+
+X:2
+T:IIII. Ladie those eyes
+O: Canzonets, or Little Short songs to three voyces, 
+H: taken fromm the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+K:C
+T: Altus
+N: Original clef, treble.
+M:C
+L:1/4
+%1
+z8 D2  D   E     ^F    D     E    ^F G      B2  A\
+w:    La- die those eyes, those eyes of yours, La- die
+%2
+L:1/8
+   G2    d4    c   B  A2   d2 c2    f2  e2     d4 ^c2\
+w: those eyes, La- dy mine of yours that shines so cleere-
+%3
+L: 1/16
+   "A"d4  A4  A4  A4  B8    ^G8 A12 G4 ^F4  G6 ^F E ^F4 G8   A4   G4   \
+w: ly: Why doe you hide, why doe you hide from _ _ _  mee, hide from
+%4
+L:1/8
+   ^F2  d2   d2     d2    g4      e4   f6    e2    d4     A2 d4 ^c B ^c4 \
+w: mee, that bought their beames: that bought their beames so deere- _ _ _ 
+%5
+L:1/4
+   "B"d2 z d      c    A    B    c    d2    B    B    ^c    d  d   ^c   d    d z   d\
+w: ly?  Thinck not   when thou ex-  ilest mee, less heate in mee se- jour- neth, lesse
+%6
+L:1/8
+   e2   ^f2 g2  e2  ^f2   d2    d2 f4 e4 d2 z2 c4  B2 A2  d2  c2 B2   A    G    G4   ^F2  \
+w: heat in  mee se- jour- neth, O, no, o, no,   no, oh  no, no, no, then thou bee- guil- est
+%7
+L:1/8
+   G8     "C"B2   A    B   c2    A2 B     c  d4    ^c2 d8    "D"d2   d    d   g2    f2   \
+w: thee.  Love doth but shine in thee, in thee, in  thee, Love doth but shine in
+%8
+L:1/8
+   e2    e2 e     d  c    B  A     G  ^F    E  ^F G2 ^F G2   d2  d c  B   A   \
+w: thee, in thee, in thee, in thee, in thee, in _  _  _  thee but oh in mee in
+%1r
+L:1/8
+   G2   g2 g   f e   d  c2   e2  e d  c   B  A4   B2  c2  d6   c2 B8   \
+w: mee, oh  but in mee in mee, but oh in mee in mee, (O) hee bur- _  neth.
+%2r
+L:1/8
+   "E"d2   d    d   e2    ^f2 g4    e4 ^f4   d4 "F" B2   B    B   B2    A  B    \
+w: Love doth but shine but shine in thee, no, love doth but shine in _
+%3r
+L: 1/8
+   c2    g2  g f e   d  c2    A4  d2 d   c  B   A  G4   g2  g f  e  d  c  G\
+w: thee, but oh in mee in mee, (oh) oh, but in mee in mee, but oh in me in me in
+%4r
+L:1/8
+   A2   c2 c   B  A   B  ^F2 D2  G6 ^F E ^F4 HG8|]
+w: mee, oh  but in mee in mee hee bur- _ _ _  neth.
+
+X:3
+T:IIII. Ladie those eyes
+O: Canzonets, or Little Short songs to three voyces, 
+H: taken from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+K:C -8va
+T: Bassus
+N: Original clef, C on third line, so this is a tenor G clef, sounding an octave lower than written.
+%%MIDI transpose -12
+M:C
+L:1/4
+%1
+z16 G2  G   A     B     G     B    c  d      d\
+w:          La- die those eyes, those eyes of yours, those
+%2
+L:1/4
+   A >  B    c     d  A2      "A"d4 z4 z4 d2  d   d\
+w: eyes that shine so cleere- ly:      why doe you
+%3
+L: 1/4
+   e2   c2   d2  g2   e2     a2    d6     d2 A4     "B"d2 z d      e   ^f\
+w: hide from mee that bought their beames so deere- ly?  Thinck not when
+%4
+L:1/4
+   g    e   ^f2   g >  ^f    e     d  e   e   d2    ^c    d     A     d  G   A\
+w: thou ex- ilest mee, lesse heate in mee se- jour- neth; lesse heate in mee se-
+%5
+L:1/8
+   d2    d4    d2 A4  B4 c4  G4  d2  c  B   A2  B2   c2   e2  d4      G8\
+w: jour- neth, O, no, oh  no, no, oh   no, no, no, then thou be- guilest thee;
+%6
+L:1/8
+"C" g2   g    g   c2    d2  g4    a4 d8    "D"g2   g    g   g2    g2 c8\
+w: Love doth but shine but shine in thee, Love doth but shine in thee,
+%7
+L:1/8
+z2 d2  d c  B   A  G4 z2 g2 g   f e   d  c2   c2  f f  e   d  c4\
+w: but oh in mee in mee,  oh  but in mee in mee, but oh in mee in mee
+%8
+L:1/8
+   d8 d8    G8    "E"g2   g    g   c2    d2  g4    a4 d8    "F"g2   g    g\
+w: he burn- eth.  Love doth but shine but shine in thee, Love doth but
+%1r
+L:1/8
+   g2    g2 c8 z2 d2  d c  B   A  G4 z2 g2 g   f  e   d  c2   c2\
+w: shine in thee, but oh in mee in mee,  oh  but in mee in mee, but
+%2r
+L:1/8
+   f f  e   d  c4  d8 d8    HG8|]
+w: oh in mee in mee he burn- eth.

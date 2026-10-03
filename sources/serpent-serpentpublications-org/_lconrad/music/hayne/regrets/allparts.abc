@@ -1,0 +1,75 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Ales regres
+C: Hayne
+B: Odhecaton A
+B:db: -c 8 -b 21
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+N: Original clef, C on second line
+K:F
+C3 D E2 F2 G3 F/ G/ A4 z2 G3 F/ E/ F G/ A/ B2 B2 A2 G G2 F/ E/ D G > F F2 E F4
+z2 A2 A2 A2 G2 c2 B A B/ A/ G/ F/ E3 D/ C/ D F2 E F/ E/ D/ C/ B,2 A,4 z2 A,2 
+C3 D/ E/ F3 E D2 C2 D4 E3 D/ C/ D2 E F E/ D/ A2 G2 F2 E F > G A/ B/ A2 G E F > E D/ C/ D2 C2 F2 HE8
+A,4 D3 E F3 E/ D/ C2 C/ D/ E/ F/ G2 F E > D D2 C D2 D2 C3/2 B,// A,// G, F,2 F2
+E F2 G A2 G2 c2 B c A > G F E2 F2 E F G/ F/ E/ D/ C D2 G F E/ D/ E2 A G c > B A/ G/ F B > A G/ F/ G2 F2 E F8 |]
+
+X:2
+T:Ales regres
+T:Tenor
+C: Hayne
+B: Odhecaton A
+B:db: -c 8 -b 21
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -12
+M:C|
+L:1/2
+N: Original clef, C on fourth line
+K:F -8va
+c6 A2 G B2 A/ G/ F4 G2 B2 A4 G3 A/ B/ c2 B3 A/ G/ F E F A G2 F8
+z2 F2 c2 c2 d2 d2 c3 B/ A/ B A F G2 A2 G A8
+z2 A2 A2 A2 B2 A2 G F G/ F/ E/ D/ C2 c2 B > A G d2 c3/2 B// A//
+B F2 G2 F2
+z F2 G2 A B c2 B c2 d2 Hc8
+c4 B2 B2 A8 G2 A > G F D E2   D > E F > G A3/2 G// F// E/ D/ F A B G2 F2
+z f2 e c2 d2 c6 d2 c A B/ A/ G/ F/ E F2 E D2 C2 F G A > B c d2
+c3/2 B// A// B c F G2 F8 |]
+
+X:3
+T:Ales regres
+T:Contra
+C: Hayne
+B: Odhecaton A
+B:db: -c 8 -b 21
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -24
+M:C|
+L:1/2
+K:F bass
+c6 d2 G4 d4 e2 g2 d4 z2 
+g2 f2 G2 G > A B c d f c2 d3 c/ B/ A B F2 f4 e f/ g/ a2 g f d2 a4 g f e/ d/ c > B A e2 f3 e/ d/ c2 d2 A4 d3 e/ f/ g2 
+z2 g a b2 c'3 b/ a/ g > f
+e d B f2 e f d c2 F4
+z c2 F G A G2 A c2 B Hc8
+f4 g2 g2 d3 e f2 f > e c e d c d B A2 B4 A > B c d2 B c2 d2 c/ B/ A/ G/ F c > d e f g a f2 e/ d/ a2
+z d a2 g2 g
+a b c'2 b c'3 b a f > e d/ c/ B c2 d e f c2 F8 |]

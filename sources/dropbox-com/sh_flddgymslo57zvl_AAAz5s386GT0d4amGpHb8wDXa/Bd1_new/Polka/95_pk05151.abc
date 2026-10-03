@@ -1,0 +1,34 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka FCBb chords Parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.378 (pk05151) orig. F,C,Bb-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+[P:A] "F"FAA2 Acc2 | caa2f4 | "C7"EGG2 GBB2 | Bbb2e4 | "F"FAA2 Acc2 | caa2f4 | "C7"gbb2 bee2 | "F"f2f2 f2z2 :| [K:C]
+[P:B] |: "C"Gcc2 eceg | "G7"gffa B4 |GBB2 dGdf | "C"feegc4 | Gcc2 eceg | "G7"gffa B4 | dgg2 bagB | "C"c2c2 c2z2 :| [K:F]
+[P:C] |: "C7"egg2 gbb2 | "F"baa2f4 | "C7"fag2 !>!e4 | "F"fgf2 !>!A4 | "C7"egg2 gbb2 | "F"baa2 f4 | faf2 "C7"ege2 | "F"f2f2 f2z2 :| [K:Bb]
+[P:D] |: "Bb"FBB2 B2B2 | d2f2 b4 | d'bb2 bfd2 | "F7"b2a2a4 | FAA2 ABc2 | cde2"Eb"g4 | "F7"gfe2 edc2 | "Bb"B2B2 B2z2 :| 
+% May28, 2016
+X:2
+T:Polka CGF 5- chords
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"CEE2 EGG2 | Gee2c4 | "G7"B,DD2 DFF2 | Fff2B4 | "C"CEE2 EGG2 | Gee2c4 | "G7"dff2 fBB2 | "C"c2c2 c2z2 :| [K:G]
+ |: "G"DGG2 BGBd | "D7"dcce F4 |DFF2 ADAc | "G"cBBdG4 | DGG2 BGBd | "D7"dcce F4 | Add2 fedF | "G"G2G2 G2z2 :| [K:C]
+ |: "G7"Bdd2 dff2 | "C"fee2c4 | "G7"ced2 !>!B4 | "C"cdc2 !>!E4 | "G7"Bdd2 dff2 | "C"fee2 c4 | cec2 "G7"BdB2 | "C"c2c2 c2z2 :| [K:F]
+ |: "F"CFF2 F2F2 | A2c2 f4 | aff2 fcA2 | "C7"f2e2e4 | CEE2 EFG2 | GAB2"Bb"d4 | "C7"dcB2 BAG2 | "F"F2F2 F2z2 :| 
+X:3
+T:Polka CGF (5letras transposed)
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"CEE2 EGG2 | Gee2c4 | "G7"B,DD2 DFF2 | Fff2B4 | "C"CEE2 EGG2 | Gee2c4 | "G7"dff2 fBB2 | "C"c2c2 c2z2 :| [K:G]
+ |: "G"DGG2 BGBd | "D7"dcce F4 |DFF2 ADAc | "G"cBBdG4 | DGG2 BGBd | "D7"dcce F4 | Add2 fedF | "G"G2G2 G2z2 :| [K:C]
+ |: "G7"Bdd2 dff2 | "C"fee2c4 | "G7"ced2 !>!B4 | "C"cdc2 !>!E4 | "G7"Bdd2 dff2 | "C"fee2 c4 | cec2 "G7"BdB2 | "C"c2c2 c2z2 :| [K:F]
+ |: "F"CFF2 F2F2 | A2c2 f4 | aff2 fcA2 | "C7"f2e2e4 | CEE2 EFG2 | GAB2"Bb"d4 | "C7"dcB2 BAG2 | "F"F2F2 F2z2 :| 
+

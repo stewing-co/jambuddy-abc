@@ -1,0 +1,43 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka  FCBb (mz07426) ABACA
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.336 (mz07426) orig. F,C,Bb
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACA
+R:Mazurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A] "F"a>(e g3)f | ("Gm"ed).b2.b2 | ("C7"a>g) (d3e) | ("F"gf).c2.c2 | (a>e) (g3f) |1 ("C"eg) c'(c'e2) | ("G7"gf) a(a=B2)  | "C".c2c4 :|2 
+("Gm"ed)b4 | ("C7"be) ee .d.e | "F"f4"_fine"z2 |] [P:B] [K:C] "C"ge' d'c' ba | ("G7"^ga b)ad2 | (g/b/)z (b/a/)z!>!f2 | ("C"f/a/)z (a/g/)z!>!e2 | 
+ge' d'c' ba | "G7"^g(a ba)d2 | (g/b/)z (b/a/)z g>B | "C"c3d' c'"_>Teil A"_b |] [P:C] [K:Bb]  "Bb".d2.e2.f2 | "F7"{/d}c>=Bc4 | 
+.e2.f2.g2 | "Bb"{/e}d>^cd4  | (fd') .d'.d' .e'd' | "F7"(d'^c') .=c'2.c'2 | (c'=b) .c'.c' .d'.c' | "Bb"(c'b).f2.f2 | .d2.e2.f2 | 
+"F7"{/d}c>=Bc4 | .e2.f2.g2 | "Bb"{/e}d>^cd4 | (b>a) (c'>b) f2 | "Cm"(g>^f) (a>g) c2 | ("F7"ed) (fe) (ca) | "Bb".b2b2"_>Teil A"z2 || 
+W:
+% mz07426 (H 261/TN 72)
+% Sep 15, 2017 (Caprina)
+
+X:2
+T:Mazurka  FCBb (mz07426) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.336 (mz07426) orig. F,C,Bb
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:C%%MIDI gchordon
+"C"e>(B d3)c | ("Dm"BA).f2.f2 | ("G7"e>d) (A3B) | ("C"dc).G2.G2 | (e>B) (d3c) |1 ("G"Bd) g(gB2) | ("D7"dc) e(e^F2) | "G".G2G4 :|2 
+("Dm"BA)f4 | ("G7"fB) BB .A.B | "C"c4"_fine"z2 |] [K:G] "G"db ag fe | ("D7"^de f)eA2 | (d/2f/2)z (f/2e/2)z!>!c2 | ("G"c/2e/2)z (e/2d/2)z!>!B2 | 
+db ag fe | "D7"^d(e fe)A2 | (d/2f/2)z (f/2e/2)z d>F | "G"G3a g"_>Teil A"=f || [K:F] "F".A2.B2.c2 | "C7"{/A}G>^FG4 | 
+.B2.c2.d2 | "F"{/B}A>^GA4 | (ca) .a.a .ba | "C7"(a^g) .=g2.g2 | (g^f) .g.g .a.g | "F"(gf).c2.c2 | .A2.B2.c2 | 
+"C7"{/A}G>^FG4 | .B2.c2.d2 | "F"{/B}A>^GA4 | (f>e) (g>f) c2 | "Gm"(d>^c) (e>d) G2 | ("C7"BA) (cB) (Ge) | "F".f2f2"_>Teil A"z2 || 
+W:Parts: ABACA
+% mz07426 (H 261/TN 72)
+% Sep 15, 2017

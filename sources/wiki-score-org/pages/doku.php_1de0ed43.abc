@@ -1,0 +1,18 @@
+X:401
+T:Beata Viscera Mariae Virgins
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 1 clef=alto1 name="Fagotillo" sname="Fg."
+%%MIDI program 1 68
+%%staves [ 1 ]
+%------------------
+Z20 !segno!|| \
+[M:3/2] Z17 !fine! |] \
+[M:2/2] c2 | B/>B/B/B/ | ^c/de/ | ee| d/>d/ d/d/ | c/B//A// B | c/c/ B/B/ | \
+c/>B/A//G// A/| G/G^F/ | G/ e/e/d/ | e/>d/c//B// c/ | BA| ^G//A//B//c// d//G//A//B// | cc| B/>B/ B/B/ | \
+c/B/ d|d/Bc/-|c/ G/A| B/ed/-|d/ c/ B | A/>A/A/A/ | AE | E2 | E2 | z/cB/ | \
+cB|zc-|c/ B/A|Bc|cc| c2|Be|dc|B2-|B2|c/A//B//c//B//A//G// | F//E//D//E//F//G// A/-|A/ ^G/ A |\
+z/E/ E/E/ | A>G| F/E/ F|EG| GG|F/EE/| E/ee/| dc| B2-|B2|cc|B2-|B2 !segno! |] \
+%------------------

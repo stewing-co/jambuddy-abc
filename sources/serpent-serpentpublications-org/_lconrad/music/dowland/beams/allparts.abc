@@ -1,0 +1,218 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:IIII. Love those beames that breede,
+T: CANTUS.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:G dor
+|: B > c d d c B A2 |
+w: 1.~Love * * those beames that breede, 
+w: Love * * I quench with flouds,
+w: 2.~Ile * * goe to the woods,
+w: For * * I am de- ceiv'd 
+w: 3.~Love * * then I must yeeld
+w: Since * * I see my wrongs, 
+B G B2 A B c2 |
+w: all day long breed, and feed,
+w: Flouds of teares, night- ly teares
+w: and a- lone, make my moane,
+w: and be- reav'd of my life, 
+w: to thy might, might and spight
+w: woe is me, can- not be
+d B2 A B4 :|
+w: this burn- * ing:
+w: and mourn- * ing.
+w: o cru- * ell:
+w: my jew- * ell:
+w: op- press- * ed,
+w: re- dress- * ed.
+d > e f g e e f > e | d e/ d/ c
+w: But a- las teares coole this fire in vaine, in * vaine, 
+w: O but in the woods, though love be blinde, be * blinde,
+w: Come at last, be friend- ly Love to me, to * me,
+c d > c B G c > B A ^F G B > c A > G | HG4 |]
+w: The more I quench, the more I quench, the more there * doth re- maine.
+w: Hee hath his spies, hee hath his spies, my se- cret * haunts to finde.
+w:  And let me not, and let me not, en- dure this * mi- se- rie.
+
+
+
+X:2
+T:IIII. Love those beames that breede,
+T:ALTUS.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on second line
+K:G dor
+|: G > A "(3)"B B A G ^F D/ F
+N:(3) Original has half note
+w: 1.~Love * * those beames that breede,  that breede, 
+w: Love * * I quench with flouds, with flouds,
+w: 2.~Ile * * goe to the woods, the woods,
+w: For * * I am de- ceiv'd, de- ceiv'd 
+w: 3.~Love * * then I must yeeld, must yeeld
+w: Since * * I see my wrongs, my wrongs, 
+G/ E D G F2 G
+w: all day long breed, and feed,
+w: Flouds of teares, night- ly teares
+w: and a- lone, make my moane,
+w: and be- reav'd of my life, 
+w: to thy might, might and spight
+w: woe is me, can- not be
+F ~ F/ D E/ F2 F4 :|
+w: this, this bur- * * ning:
+w: and, and  mourn- * * ing.
+w: o, o cru- * * ell:
+w: my, my jew- * * ell:
+w: op- *  press- * * ed,
+w: re,-  * dress- * * ed.
+B B B2 A2 A D2 G C F > E D 
+w: But a- las teares coole this fire in vaine, in vaine, 
+w: O but in the woods, though love be blinde, be blinde,
+w: Come at last, be friend- ly Love to me, to me,
+E E3/2 E G/ ^F D2 G > G ^F HG4 |]
+w: The more I quench, the more there doth re- maine.
+w: Hee hath his spies, my se- cret haunts to finde.
+w: And let me not, en- dure this mi- se- rie.
+
+
+
+X:3
+T:IIII. Love those beames that breede,
+T:TENOR.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+%%MIDI transpose -12
+N:Original clef, C on third line
+N:(1) The key signature really does have two flats in the tenor, and one in the other parts
+K:G min -8va
+|: d g2 f f d d2 
+w: 1.~Love * those beames that breede, 
+w: Love * I quench with flouds,
+w: 2.~Ile * goe to the woods,
+w: For * I am de- ceiv'd 
+w: 3.~Love * then I must yeeld
+w: Since * I see my wrongs, 
+d c B3/4 c// d > e f/ B B/ A B3/2
+w: all day long * * *  breed, and feed, and feed,
+w: Flouds of teares, * * * night- ly teares, ly teares
+w: and a- lone, make * * * my moane, my moane,
+w: and be- reav'd of * * * my life,  my life, 
+w: to thy might, might * * * and spight, and spight
+w: woe is me, can- * * * not be, not be
+B/ c2 d4 :|
+w: this bur- ning:
+w: and mourn- ing.
+w: o cru- ell:
+w: my jew- ell:
+w: op- press- ed,
+w: re- dress- ed.
+f > e d d d ^c d > A B/ G B B/ A/ 
+w: But a- las teares coole, teares coole this fire in vaine,  in vaine, 
+w: O but in the woods, the woods though love be blinde, be blinde,
+w: Come at last, be friend- ly, friend- ly Love to me, to me,
+F/ B > A G > B A/ G/ c > B A/ A/ B/ c/ d2 d Hd4 |]
+w: The more I quench, the more I quench, the more, the more there doth re- maine.
+w: Hee hath his spies, he hath his spies, my se- cret, se- cret haunts to finde.
+w: And let me not, and let me not, en- dure, en- dure this mi- se- rie.
+
+
+X:4
+T:IIII. Love those beames that breede,
+T:BASSUS.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N: Original clef, F on third line
+K:G dor bass
+|:"(2)"g2 - g/ (a/ b) f g d2
+N:(2)For this line, the clef is a normal bass clef, but the key signature is correct for a baritone clef, and the other lines have a baritone clef.
+w: 1.~Love * those * beames that breede, 
+w: Love * I * quench with flouds,
+w: 2.~Ile * goe * to the woods,
+w: For * I * am de- ceiv'd 
+w: 3.~Love * then * I must yeeld
+w: Since * I * see my wrongs, 
+B c G3/4 A// B3/4 c// d B e 
+w: all day long * * *  breed, and feed,
+w: Flouds of teares, * * * night- ly teares
+w: and a- lone, * * * make my moane,
+w: and be- reav'd * * * of my life, 
+w: to thy might, * * * might and spight
+w: woe is me, * * * can- not be
+f B3/4 b// a/ g/ f3/4 e// f B4 :|
+w: this bur- * * * * * * ning:
+w: and mourn- * * * * * * ing.
+w: o cru- * * * * * * ell:
+w: my jew- * * * * * * ell:
+w: op- press- * * * * * * ed,
+w: re- dress- * * * * * * ed.
+B b > a g a2 d d g _e f2 
+w: But, but a- las teares coole this fire in vaine, 
+w: O, o but in the woods, though love be blinde,
+w: Come, come at last, be friend- ly Love to me,
+z B _e > d c c d > c B G/ g/ d d HG4 |]
+w: The more I quench, the more, the more there doth * re- maine.
+w: Hee hath his spies, my se- cret, se- cret haunts * to finde.
+w: And let me not, en- dure, en- dure this mi- * se- rie.
+
+
+

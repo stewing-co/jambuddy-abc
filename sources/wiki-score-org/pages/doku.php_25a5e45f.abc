@@ -1,0 +1,18 @@
+X:3101
+T:Scena 10.a - Antandro ed Emirena
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:Bb
+V: 1 clef=alto name="Corno I" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 1 )]
+%------------------
+[K:C] [K:bass] Z9 || \
+[Q:"Andantino"] "^Fa" [M:2/4] [K:C] z// | A, G, | z/F,/ F,/ z/ | \
+F,/ z/z | z/ G,/ G,/ z/ | !f!G,2 | !p!F,z | z F,/G,/|  F,/G,/ F,/z/ | Z | \
+z/F,/ F,/z/ | Z | z/ G,/ G,/ z/ | G,z | Z2 | F,/G,/ F,/z/ | Z | G,2- | G,2- | \
+z/G,/ G,/z/ | Z3 | G,2 | C,z | C,/z/ z| Z2 | !fermata! Z | Z | z/F,/ F,/z/ | Z | \
+z/G,/ G,/z/ | !f!!p!G,2| Z2 | z//(A,//B,//C//) A,/G,/ | z//(A,//B,//C//) A,/G,/ | \
+!f! F,2 | F,/z/ F,/C,/ | F,z |]
+%------------------

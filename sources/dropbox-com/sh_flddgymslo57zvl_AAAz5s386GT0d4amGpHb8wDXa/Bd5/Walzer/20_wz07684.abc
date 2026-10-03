@@ -1,0 +1,43 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Liebend gedenke ich dein. Walzer  BbFEb (wz07684) 
+T:Hanny Christen. Bd.V  Basel II, Jura. S.40  (wz07684) orig. Bb,F,Eb
+T: Basel II. Tänze aus Augst. S.6-42.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Bb %%MIDI gchordon
+("Bb"F=EF) | (B2A) | ("Cm"A3 | G2)z | "F7"EDE | (G2F) | ("Bb"F3 | D2)z | (F=EF) | (d2e) | 
+("Cm"dcG) | (c2B) | ("F7"AGF) | ec>d | ("Bb"B3 | B)zz :: [K:F] "F"A/B/ c/d/c | "D7"zc>^c | ("Gm"d.g).g | 
+zg>f | "C7".f.e.e | .e.d.d | ("F"d/c/ =B/c/) c | A3 | A/B/ c/d/c | "D7"zc>^c | ("Gm"d.g).g | zg>f | 
+("C7"edc) | "F"([c2a2][Bg]) | ([A3f3] |[Af])zz :: ("Bb"F2d) | ("Gm"A2B) | ("Cm"c2G) | c2z | ("F7"Ag>f) | (f2A) | ("Bb"Bg>)f | 
+.f.f.f | (F2d) | (A2B) | ("Eb"G2_e)  | (_edc) | "F7"gz(f | f)_e>A | ("Bb"B3 |1 B)zz :|2 ("Bb"B/B/ c/d/ _e/f/) |] [K:Eb] 
+|: ("Eb"g3 | g)  (f/e/ d/e/) | B3 | zc>G | "Bb7"B3 | zA>F | "Eb"G3 | z/(B/ c/d/ e/f/) | (g3 | 
+g)(f/e/ d/e/) | "Ab"c3 | (a/g/ f/e/ d/c/) | "Bb7"Bzz | d/f/.B.B |1 ("Eb"e3 | e/)B/ c/d/ e/f/ :|2 ("Eb"e3 | e)zz |] 
+% wz07684
+% Nov 25 2017 (Johanniskraut)
+
+X:2
+T:Liebend gedenke ich dein. Walzer  CGF 2+ (wz07684) 
+S:Hanny Christen. Bd.V  Basel II, Jura. S.40  (wz07684) orig. Bb,F,Eb
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+("C"G^FG) | (c2B) | ("Dm"B3 | A2)z | "G7"FEF | (A2G) | ("C"G3 | E2)z | (G^FG) | (e2f) | 
+("Dm"edA) | (d2c) | ("G7"BAG) | fd>e | ("C"c3 | c)zz :: [K:Gmaj] "G"B/2c/2 d/2e/2d | "E7"zd>^d | ("Am"e.a).a | 
+za>g | "D7".g.f.f | .f.e.e | ("G"e/2d/2 ^c/2d/2) d | B3 | B/2c/2 d/2e/2d | "E7"zd>^d | ("Am"e.a).a | za>g | 
+("D7"fed) | "G"([d2b2][ca]) | ([B3g3] |[Bg])zz :: ("C"G2e) | ("Am"B2c) | ("Dm"d2A) | d2z | ("G7"Ba>g) | (g2B) | ("C"ca>)g | 
+.g.g.g | (G2e) | (B2c) | ("F"A2=f) | (=fed) | "G7"az(g | g)=f>B | ("C"c3 |1 c)zz :|2 ("C"c/2c/2 d/2e/2 =f/2g/2) |] [K:Fmaj] 
+|: ("F"a3 | a) (g/2f/2 e/2f/2) | c3 | zd>A | "C7"c3 | zB>G | "F"A3 | z/2(c/2 d/2e/2 f/2g/2) | (a3 | 
+a)(g/2f/2 e/2f/2) | "Bb"d3 | (b/2a/2 g/2f/2 e/2d/2) | "C7"czz | e/2g/2.c.c |1 ("F"f3 | f/2)c/2 d/2e/2 f/2g/2 :|2 ("F"f3 | f)zz |] 
+% wz07684
+% Nov 25 2017

@@ -1,0 +1,22 @@
+X:908
+T:N.9 Duo de Josepha e Ambrosio
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:F
+V: 8 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 8 }]
+%---
+A,,2[G,A,^C] [G,A,C]2[G,A,C]| D,2[F,A,D] [F,A,D]2[F,A,D] || \
+D,,z[D,F,A,] [D,F,A,]z[D,F,A,] | ^C,,z[^C,G,A,] [C,G,A,]z[C,G,A,] |  ^C,,z[^C,G,A,] [C,G,A,]z[C,G,A,] | \
+B,,z[D,F,A,] [D,F,A,]z[D,F,A,] | B,,z[D,F,A,] [D,F,A,]z[D,F,A,] | \
+^C,6 & ^C,z[E,A,] [E,A,]z[E,A,] | =B,,z[E,^G,] E,,z[E,^G,D] | A,,z[E,A,^C] [^G,A,C]3 | \
+D,,z[D,F,A,] [D,F,A,]z[D,F,A,] | ^C,,z[^C,G,A,] [C,G,A,]z[C,G,A,]| A,,z[^C,G,A,] [C,G,A,]z[C,G,A,] | D,,z[D,F,A,] [D,F,A,]z[D,F,A,] | \
+D,,z[D,F,A,] [D,F,A,]z[D,F,A,] | ^C,4 x2 & ^C,z[E,A,] [E,A,]z[E,A,] |  ^C,z[E,A,] A,,z[^C,G,A,] || \
+[K:D] [Q:"Piu mosso"] (D,,2A,,) (D,2A,,) |:(!>!D,,2A,,) (D,2A,,) | (!>!C,,2A,,) (E,2A,,) | (!>!C,,2A,,) (E,2A,,) | \
+(!>!D,,2A,,) (D,2A,,) | (!>!D,,2A,,) (!>!F,,2A,,) |(!>!E,,2A,, A,,,2A,,) | (!>!A,,,2A,, A,,,2A,,) | \
+(!>!D,,2A,,) (D,2A,,) :| (G,,2D,[G,B,]2D,) | (A,,2A,[F,D]2A,) | E,2[A,C] A,,2[G,A,C] | D,2A,[F,D]2A, | \
+(G,,2D,[G,B,]2D,) | (A,,2A,[F,D]2A,) | E,2[A,C] A,,2[G,A,C] | [D,F,]2z [E,E][C,C][A,,A,] | \
+[D,D]2z z[D,,D,]2|  [D,,D,]3-[D,,D,]zz |] \
+%---

@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {"id": "norbeck", "name": "Henrik Norbeck's ABC Tunes", "page": "https://www.norbeck.nu/abc/download.asp"},
+    {"id": "hardy", "name": "Paul Hardy's Tunebooks", "page": "https://pghardy.net/tunebooks/",
+     "exclude": "superceded/|pgh_theory|pgh_ornaments"},
+    {"id": "ceolas", "name": "Ceolas tune collections", "page": "https://www.ceolas.org/tunes/",
+     "include": "^/pub/tunes/abc\\.tunes/"}
+  ]
+}

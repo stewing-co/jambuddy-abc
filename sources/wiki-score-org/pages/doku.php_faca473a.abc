@@ -1,0 +1,25 @@
+X:706
+T:[Terceto]
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:G
+V: 6 clef=treble name="Oboe II" sname="Ob.II"
+%%MIDI program 1 68
+%%staves [( 6 )]
+%---------------------------------------------------------------------------------------
+Z6 | z2 || z2 | Z2 || Z2 | !fermata!z4  || \
+[Q:"Allegro"] z/ | Z2 | z z/ f/ g//g//g//g// g//g//g//g// | fzfz | fzz2 | \
+e/^c//>c// c/c/ !trill!c3/2 d//^c// | !trill!B2 !trill!^c2 | df !trill!f2 | \
+g/G//A// B//B//c//d// e/G//A// B//B//c//d// | e/g//f// !trill!fgz| \
+z2 g//f//e//d// c//B//A//G//| !fermata!d zz z// d//e//f// | g/.B/ .A/.d/ G z | \
+Z2 | z2 z/g/g/g/ | gfb2| e2dz| z/g/ g z/g/ g | f/d//>e// f/d/ .^c.d | \
+^c//d// ef/ ^c/c/c/c/ | dzz2 | !f!dzdz| z/f//>f// f/d/ ^c3/2d//^c// | \
+!trill!B2^c2 | dzzz//A//B//^c// | d/F/ E/A/ Dz | Z2 | z2z/d/d/d/ | d^cf2|zgfz | Z3| \
+AA!trill!A2-|A2z2| z4|  z/B/B/B/ A>B | {B}A>G{G}F>B |  Az/A/{A}G>"_(grace note?)"F | \
+{F}E>A G>B|Azz2| z/d//>e// f/g/ fz | Z2| zz/f/ g//g//g//g// g//g//g//g// | \
+fzfz| fzz2| e/^c//>c// c/c/ c3/2d//c// | !trill!B2 ^c2 | df!trill!f2| \
+z/G//A// B//B//c//d// e/G//A// B//B//c//d// | e/g//f// !trill!fgz| \
+z2 g//f//e//d// c//B//A//G// | !fermata!d zz z//d//e//f//| g/B/A/d/ G || z| Z3 | \
+z2Bz|z2Bz|czBz|AzBz|ezcz|^dzz2|zB"_(check: no sharp in ms)"^cz|z4|!fermata!z4 |] \
+%---------------------------------------------------------------------------------------

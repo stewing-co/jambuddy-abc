@@ -1,0 +1,34 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Ländler FC
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.272 (LD02016) orig. F,C
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T:\Überliefert vermutlich durch Joggi Stocker (1889-1956)
+O:Switzerland
+%%MIDI program 21
+R:Ländler
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"Bb"d3b "C7"ag | "F"gf fAc2 | "C7"Ge eGc2 | "F"Af fAc2 | "Bb"d3b "C7"ag | "F"gf fA c2 | 
+"C7"Ge eG eg |1 "F"f4z2 :|2 "F"f4 ec |: [K:C] "G7"Bd  fa gf | "C"ed cB AG | "G"GD B,D B,D |  
+"C"CE Gc ec | "G7"Bd fa gf | "C"eg cg ec | "G7"Bd fa gB |1 "C"c4ec :|2 "C"c2z2z2 |] 
+% LD02016
+
+X:2
+T:Ländler FC  (5letras transposed)  (LD02016)
+O:Switzerland
+%%MIDI program 21
+R:Ländler
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"Bb"d3b "C7"ag | "F"gf fAc2 | "C7"Ge eGc2 | "F"Af fAc2 | "Bb"d3b "C7"ag | "F"gf fA c2 | 
+"C7"Ge eG eg |1 "F"f4z2 :|2 "F"f4 ec |: [K:C] "G7"Bd  fa gf | "C"ed cB AG | "G"GD B,D B,D |  
+"C"CE Gc ec | "G7"Bd fa gf | "C"eg cg ec | "G7"Bd fa gB |1 "C"c4ec :|2 "C"c2z2z2 |] 
+% LD02016
+% Sep 26, 2016

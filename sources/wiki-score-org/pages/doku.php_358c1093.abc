@@ -1,0 +1,54 @@
+X:911
+T:Aria Emirena
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 11 clef=treble name="Violini I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 11 }]
+%----------------------------------------
+[Q:"Andante"] G// |[G,Ece] z/>c/[Fcf]z/>a/ | (c/>B/)!fermata!B z/ c//B// d//c//B//A// || \
+[Q:"Allegro"] G/ GGG G/| G/>c/ G z/ (c//e// d//c//B//A//) | G/ GGG G/ | \
+G z z/2g/4a/4 g/2c'/2 | a z z/2a/4b/4 a/2c'/2 | b z z/2 (!mordent! b/4a/8b/8) d'/f/ | \
+!f!e/4C/4C/4C/4 !//!C C/4-B,/4A,/4-G,/4 .A,/4.B,/4.C/4.D/4 | !//!E2 E/4-D/4C/4-B,/4 .C/4.D/4.E/4.F/4 | \
+G/4g/4g/4g/4 !/!g !//!g2 | \
+g/4c'/4g/4g/4 !//!g c'/4b/4a/4g/4 f/4e/4d/4c/4 | a/4c'/4a/4a/4 !//!a a/4b/4c'/4b/4 a/4g/4f/4e/4 |\
+d/4e/4d/4^c/4 d/4e/4f/4g/4 a/4g/4f/4g/4 f/4e/4d/4c/4 | B z z2 | !p!z (d/c/ B/A/G/F/) | f z z2 | \
+z(c/B/ c/B/A/G/) | !f! !//!F F/z/!//!EE/z/ | D/ z/ D/z/Dz || \
+[Q:"Adagio"][G,Ece]z[FAf]z3/4a/4 | c/B/!fermata!A z/ c//B// d//c//B//A// || \
+[Q:"Allegro"] G/ GGG G/| G/>c/ G z/ (c//e// d//c//B//A//)| G/ GGG G/ | \
+!f!G z z/g/4a/4 g/c'/ | !p!azz/a/4b/4 a/c'/ | !f!gzz/ g/4a/4 g/c'/ | !mf!bzz/ b/d'/f/ | !f!ezz/ g/4a/4 g/c'/ |\
+c'/4^f/4f/4f/4 !//!f !//!f2 | \
+g/4^f/4g/4a/4 b/4a/4b/4c'/4 d'/4b/4d'/4b/4 !//![ac'] | gzz2 |\
+z/!ff!d/4e/4 ^f/4g/4a/4b/4 c'/4d'/4c'/4b/4 a/4g/4f/4e/4 | dzz2 | \
+z/G/4^F/4 G/4A/4B/4c/4 d/4e/4d/4c/4 d/4B/4c/4A/4 | \
+!//!B2 !//!g2  | ^f/d/4f/4 a/f/4a/4 d'z | !p!(a3/4b/8c'/8) b3/4a/4 aa |\
+(^f/g/) g3 |(a3/4b/8c'/8) b3/4a/4 aa |(^f/g/) g3 |e/g/e/c/ B/B/A/A/ | \
+Gz/4B/4d/4B/4 Az/4c/4e/4c/4 | B/4d/4c/4e/4 d/4f/4e/4g/4 f/4e/4d/4c/4 B/4A/4G/4F/4 |\
+E (^d/4e3/4) (=d/4c3/4) B/4A3/4 | !//!B2!//!A2 | G/4B/4d/4d/4 !//!dB/4d/4=f/4f/4 !//!f | \
+z/e/e/e/ e/g/e/c/ | !f!B/4d/4g/4g/4 !//!g !//!g2 | !ff!^f4 | g/4b/4d'/4d'/4 !//!d' d'/4=c'/4c'/4c'/4 !//!c' | \
+c'/4b/4b/4b/4 !//!b d'/4c'/4d'/4c'/4 d'/4c'/4d'/4b/4 | \
+a/4b/4^g/4b/4 a/4b/4^g/4b/4 a/4b/4c'/4b/4 d'/4c'/4b/4a/4 | \
+b/c'/4d'/4 c'/4b/4a/4g/4 d [Dda]|g/g/4d/4 B/d/4B/4 Gz | \
+gz3/4d/4 d z3/4B/4 | G/g/4d/4 B/d/4B/4 Gz | !f!Cz!p!c2- | c =B3/4c/4 d2 | d/c/ c g2 | \
+g/f/f2d/f/ | f/ !mf!_eee e/ | \
+(_e/e/g/b/) z/ (_d/g/_b/) | z/ (c/_e/_a/) z/ _e/d/c/ | c/_B/ (_e/_B/) (B/_A/)(G/F/) | _E/_b/g/e/ d/(_a/f/d/) |\
+(_e/e/g/b/) z/ (_d/g/_b/) | z/ (c/_e/_a/) (c/_e/d/c/) | \
+c/-_B/ _e3/4_B/4 B/-_A/G/-F/ | c/-_B/ _e3/4_B/4 B/-_A/G/-F/ |_E3/4B/4_e3/4g/4 _b !fermata!z || z3/4 \
+[Q:"Adagio"] =B/4d3/4f/4 _a !fermata!z | z3/4c/4_e3/4g/4 c' !fermata!z | !fermata!^f4 || \
+[Q:"Tempo di Prima"] gzz2 | zd/c/ B/A/G/F/ | Fzz2 | zc/B/ c/G/F/E/ | !f!D [Gec'][Gdb][Gec']| [Gdb]G3/4G/4 Gz |\
+[G,Ece]z[Af]z3/4a/4  | c/B/ B z/2 !p!(c/4B/4 d/4c/4B/4A/4) | GG2G | \
+G/B/ G z/2 (c/4B/4 d/4c/4B/4A/4) | GG2G | Gzz/!f!e/4d/4 e/g/ | ezz/!f!e/4d/4 e/g/ | fzz/!f!f/4e/4 f/a/ | \
+gzz/=e/g/b/ | azz/a/f/e/ | !//!d !//!f !//!a !//!c' | !f! b/4b/4d'/4b/4 g/4g/4d/4B/4 G z |\
+!p!(d3/4e/8f/8) e/d/ ^c3/4d/4f3/4d/4 | c4 | \
+(d3/4e/8f/8) e/d/ (^c/4d3/4) (f/4d3/4) | c4 | !f!e/4e/4c/4c/4 e/4e/4g/4g/4 !/!f/!/!e/!/!d/!/!c/ | \
+[DBg]Gz/.g/(G/_B/) | z/.a/(A/c/) z/.b/(B/d/) | z/.c'/(c/e/) z/.d'/(d/f/) | \
+z/(e/e/g/) z/(f/f/a/) | g e/4f/4g/4a/4 _b/4a/4g/4f/4 e/4d/4c/4B/4 | z/(A/^c/d/) (d/e/f/d/) | !//!e2 !//!d2 | \
+c/4e/4g/4g/4 !//!g g/4e/4g/4a/4 !//!_b | !/!a2 a/a/c'/a/ | !//!a4 | \
+!f!!//![d4b4]| c'/c'/ c' a/4b/4(c'/4b/4 c'/4_b/4c'/4a/4) | a/g/ (c'/g/) (g/f/) (e/d/) | \
+g/c'/ c' a/4b/4(c'/4b/4 c'/4_b/4c'/4a/4) | a/g/c'/g/ g/4g/4f/4f/4 e/4e/4d/4d/4 |\
+c/4C/4C/4C/4 !//!C (C/4B,/4A,/4G,/4) (A,/4B,/4C/4D/4) | \
+!//!E2 E/4D/4C/4B,/4 C/4D/4E/4F/4 | G/4g/4g/4g/4 !//!g3 | g/g/4a/4 g/c'/ a/a/c'/a/ |\
+{a}g e3/4g/4 {g}f e3/4d/4 | c c3/4c/4Cz |]
+%----------------------------------------

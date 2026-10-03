@@ -1,0 +1,39 @@
+X:105
+T:Allegro [assai]
+C:Davide Perez (1711-1778)
+M:C|
+L:1/4
+K:D
+V: 5 clef=treble name="Violino Primo" sname="Vl.1"
+%%MIDI program 1 40
+%%staves [{ 5 }]
+%-------
+[Q:"Allegro"] [DAf] D//E//D//C// D/A,/D/F/ | A/F/A/d/ [DAf] D//E//D//C// | D/A,/D/F/ d/A/d/f/ | \
+[DAa] D//E//D//C// D/A,/ A/d/ | f/d/f/a/ [DAf]/[DAf]/[DAf]/a/ | [DAf]/[DAf]/[DAf]/ a/ [DAf]/ d'/d'/d'/ | \
+b/d'/d'/d'/ a/d'/d'/d'/ | e/g/g/g/ f/d'/d'/d'/ | b/d'/d'/d'/ a/d'/d'/d'/ | e/g/g/g/  \
+f//A//a//A// a//A//g//A// | f//A//a//A// g//A//f//A// e//A//a//A// a//A//g//A// | f//A//a//A// g//A//f//A//  \
+e//A//f//A// e//A//f//A// | e//A//f//A// e//A//f//A// e/c//d// e/f/ | ^G/A/B/c/ B/c//d// e/f/ | \
+^G/A/B/c/ B/c//d// e/d/ | c/B//A// ^G3/4A/8B/8  A//a//A//a//  A//a//A//a// | \
+A//a//A//a// A//a//A//a// A//a//A//a// A//a//A//a// | A//a//A//a// A//a//A//a// A {d}c/B//A// | \
+^G/A/B/c/ B {f/}e/d//c// | B/E/ {e/}d/c//B// .c/a/ {f/}e/d//c// | \
+B/E/ {e/}d/c//B// c//a//a//a// a//a//a//a// | a//a//a//a// a//a//a//a// a//a//a//a// a//a//a//a// | \
+a//a//a//a// a//a//a//a// a//a//a//a// a//a//a//a// | B/c//d// c/B/ [A,EA] A//B//A//^G// | \
+A/A,/C/E/ A/E/A/c/ | [Ace] A//B//A//^G// A/E/A/c/ | e/A/c/e/ [Eca] a//a//a//a// | \
+a//a//a//a// a//a//a//a// a//a//a//a// a//a//a//a// | a//a//a//a// a//a//a//a// !wedge!g g//g//g//g// | \
+g//g//g//g// g//g//g//g// g//g//g//g// g//g//g//g// | g//g//g//g// g//g//g//g// !wedge!f f//A//e//A// | \
+f//A//g//A// a//A//f//A// !wedge!e f//A//e//A// | f//A//g//A// a//A//f//A// !wedge!e A//G//F//E// | \
+[DAf] D//E//D//C// D/A,/D/F/ | A/F/A/d/ [DAf] D//E//D//C// | D/A,/F/A/ d/F/ A/d/ | \
+[DAf] {g}f/e//d// c/d/e/f/ | e/a/ {g}f/e//d// c/d/e/f/ | e//A//a//A// a//A//g//A// {g}f/e//d// c/d//e// | \
+d//d'//d//d'// d//d'//d//d'// d//d'//d//d'// d//d'//d//d'// | d//d'//d//d'// d//d'//d//d'// d//d'//d//d'// d//d'//d//d'// | \
+d/d'/ e//A//f//A// {a}g/f//e// e//A//f//A// | {a}g/f//e// e//A//f//A// {a}g/f//e// e//A//f//A// | \
+{g}f/e//d// c/d/ {g}f/e//d// c/d/ | bc[DAf] D//E//D//C// | D/F/A/d/ [DAf] D//E//D//C// | \
+D/A/ d/f/ [DAa] d//e//d//c// | d//d'//d'//d'// d'//d'//d'//d'// d'//d'//d'//d'// d'//d'//d'//d'// | \
+d'//d'//d'//d'// d'//d'//d'//d'// d'//d'//d'//d'// d'//d'//d'//d'// | d'//d'//d'//d'// d'//d'//d'//d'// d'/d'/ a/d'/ | \
+{a/}g/f//g// f/d'/ b/d'/ a/d'/ | {a/}g/f//g// f/d/ B/d/ A/d/ |  {a/}g/f//e//  {g/}f/e//d// a [Ace] | \
+d//A//d//A// f//d//f//d// a//f//a//f// g//e//g//e// | d//A//d//A// f//d//f//d// a//f//a//f// g//e//g//c// | \
+{g}f/e//d// c/d/ {g}f/e//d// c/d/ | e//A//f//A// g//A//f//A// {g}f/e//d// c/d/ | \
+{g}f/e//d// c/d/ e//A//f//A//  {b/}g//A//f//A// | e//A//f//A//  {a/}g/f//e// e//A//f//A//  {a/}g/f//e// |\
+[DAf] D//E//D//C// D/F/A/d/ | [DAf] D//E//D//C// D/F/A/d/ | [DAf] [DAf]/a/ [DAf] [DAf]/a/ | \
+[DAf]/a/ [DAf]/a/[DAf] !fermata!z ||  \
+[Q:"Dolci assai"] [M:C|] e>f e/a/ e/f/ & A4| e>F E> F & A>A, A,2| E/A/E/F/ E !fermata!z & A,2A,x |] \
+%---------------

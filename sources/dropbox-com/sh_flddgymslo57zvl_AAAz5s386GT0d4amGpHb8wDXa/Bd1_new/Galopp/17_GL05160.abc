@@ -1,0 +1,54 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Flotte Galopp CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.385 (GL05160) orig. C,G,F-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:2/4
+L:1/8
+R:galopp
+K:C %%MIDI gchordon
+"C"e>e e>e | efg2 | c>c c>c | cde2 | "G7"f>f f>f | fga2 | def2 | "C"age2 :| [K:G]
+"D7"d/d/d d/d/d | "G"bbg2 | "D7"f/f/f ed | "G"b/b/b ag | "D7"d/d/d d/d/d | "G"bbg2 | "D7"f/f/f ed | "G"g2"G7"=f2 || [K:C]  
+"C"eG eG | "G7"Ba a/g/f | Ba a/g/f | "C"eg g/f/e | eG eG | "G7"Ba a/g/f | db a/g/B | "C"cc cz || [K:F] 
+|: "F"A2c2 | f3e | "Gm"e2d2 | g3f | "C7"f2e2 | c'2b2 | "F"af Ad | c4 | A2c2 | f3e | "Gm"e2d2 | g3f | 
+"C7"f2e2 | c'3b | "F"ac "C7"g>e | "F"ff fz :| "F"c'2a2 | "Bb"f2d2 | "F"c2A2 | zc ea | "C"g2 e>g | c'2e>g | "G7"ag fd | "C"c2 f>f || 
+|: "C7"e2b2 | b2e>e | "F"f2a2 | a2f>f |1 "C7"e2c'2 | c'2b2 | "F"ba ga | f2f>f :|2 "Bb"d2 a>a | "F"c2 b>b | "C7"c'b  de | "F"f2z2 || [K:C] 
+|: "C"gg a>g | ee f>e | "G7"dd ed | "C"ceG2 | gg a>g | ee f>e | "G7"dd e>d |  "C"c2z2 :| 
+W:
+W: Anmerkung H.C.: Lebenslust Galopp
+%June 11, 2016
+X:2
+T: Flotte Galopp CGF (5letras transposed)
+M:2/4
+L:1/8
+R:galopp
+K:C transpose=3 %%MIDI gchordon
+"C"e>e e>e | efg2 | c>c c>c | cde2 | "G7"f>f f>f | fga2 | def2 | "C"age2 :| [K:G]
+"D7"d/d/d d/d/d | "G"bbg2 | "D7"f/f/f ed | "G"b/b/b ag | "D7"d/d/d d/d/d | "G"bbg2 | "D7"f/f/f ed | "G"g2"G7"=f2 || [K:C]  
+"C"eG eG | "G7"Ba a/g/f | Ba a/g/f | "C"eg g/f/e | eG eG | "G7"Ba a/g/f | db a/g/B | "C"cc cz || [K:F] 
+|: "F"A2c2 | f3e | "Gm"e2d2 | g3f | "C7"f2e2 | c'2b2 | "F"af Ad | c4 | A2c2 | f3e | "Gm"e2d2 | g3f | 
+"C7"f2e2 | c'3b | "F"ac "C7"g>e | "F"ff fz :| "F"c'2a2 | "Bb"f2d2 | "F"c2A2 | zc ea | "C"g2 e>g | c'2e>g | "G7"ag fd | "C"c2 f>f || 
+|: "C7"e2b2 | b2e>e | "F"f2a2 | a2f>f |1 "C7"e2c'2 | c'2b2 | "F"ba ga | f2f>f :|2 "Bb"d2 a>a | "F"c2 b>b | "C7"c'b  de | "F"f2z2 || [K:C] 
+|: "C"gg a>g | ee f>e | "G7"dd ed | "C"ceG2 | gg a>g | ee f>e | "G7"dd e>d |  "C"c2z2 :| 
+X:3
+T:Flotte Galopp GD&C (tinwhistle in D)
+T:GL05160 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:2/4
+L:1/8
+R:galopp
+K:G %%MIDI gchordon
+"G"B>B B>B | Bcd2 | G>G G>G | GAB2 | "D7""_c"c>c c>c | cde2 | AB"_c"c2 | "G"edB2 :| [K:D]
+"A7"A/2A/2A A/2A/2A | "D"ffd2 | "A7"c/2c/2c BA | "D"f/2f/2f ed | "A7"A/2A/2A A/2A/2A | "D"ffd2 | "A7"c/2c/2c BA | "D"d2"D7"=c2 || [K:G] 
+"G"BD BD | "D7"Fe e/2d/2"_c"c | Fe e/2d/2"_c"c | "G"Bd d/2"_c"c/2B | BD BD | "D7"Fe e/2d/2"_c"c | Af e/2d/2F | "G"GG Gz || [K:C] 
+|: "C"E2G2 | c3B | "Dm"B2A2 | d3"_c"c | "G7"c2B2 | g2"_f"f2 | "C"e"_c"c EA | G4 | E2G2 | "_c"c3B | "Dm"B2A2 | d3c | 
+"G7"c2B2 | g3"_f"f | "C"eG "G7"d>B | "C""_c"cc cz :| "C"g2e2 | "F""_c"c2A2 | "C"G2E2 | zG Be | "G"d2 B>d | g2B>d | "D7"ed "_c"cA | "G"G2 "_c"c>c || 
+|: "G7"B2"_f"f2 | f2B>B | "C""_c"c2e2 | e2"_c"c>c |1 "G7"B2g2 | g2"_f"f2 | "C"fe de | "_c"c2c>c :|2 "F"A2 e>e | "C"G2 f>f | "G7"g"_f"f AB | "C""_c"c2z2 || [K:G] 
+|: "G"dd e>d | BB "_c"c>B | "D7"AA BA | "G"GBD2 | dd e>d | BB "_c"c>B | "D7"AA B>A | "G"G2z2 :| 
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg

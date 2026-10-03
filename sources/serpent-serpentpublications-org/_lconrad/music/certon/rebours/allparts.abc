@@ -1,0 +1,84 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:J'ai le rebours
+S:Superius
+C:Pierre Certon
+M:C|
+L:1/4
+K:F
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+A2  G G A A B d c c "f"=B2 c4
+w:J'ai le re- bours de ce que je sou- hai- te
+w:Ma dou- leur n'est moins gran- de que se- crè- te
+w:Plus je con- nais l'a- mour sûre et par- fai- te
+A2 G G A A B d c c "f"=B2 c4
+w:J'ai con- ver- ti en joi- e con- tre- fai- te
+w:Mon bien per- du sens es- poir je re- gret- te
+w: Plus me dé- plaît de la voir im- par- fai- te
+d2 d c B3 B A A G G F
+w: tout le plai- sir que per- dre crai- gnais tant
+w: Qui me sou- lait l'es- prit ren- dre con- tent
+w: Si j'en ai ri j'en pleu- re bien au- tant.
+|:F/ G/ A A A  c/ B/ A G A A B A G/ F/ F2 E HF :|
+w:J'ai du mal tant tant, que le coeur me fend de voir l'a- mour dé- fai- * te.
+
+X:2
+T:J'ai le rebours
+S:Contratenor
+C:Pierre Certon
+M:C|
+L:1/4
+K:F -8va
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+%%MIDI transpose -12
+c2 G G c c d d g a g2 g4
+c2 B B c c d d g a g2 g4
+b2 b g g3 g e f d d d
+|:d/ e/ f f f f/ e/ f e  f f f f _e c c2 HA :|
+
+X:3
+T:J'ai le rebours
+S:Tenor
+C:Pierre Certon
+M:C|
+L:1/4
+%%MIDI transpose -12
+K:F -8va
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+f2 d e f f g > f e f d2 e4
+f2 d e f f g > f e f d2 e4
+f2 f e d3 d c A B B A 
+|: A/ B/ c c c A/ B/ c c c c d > c B A G2 HF :|
+
+X:4
+T:J'ai le rebours
+S:Bassus
+C:Pierre Certon
+M:C|
+L:1/4
+K:F bass
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+%%MIDI transpose -24
+f2 g g f a g b c' f g2 c4
+f2 g g f a g b c' f g2 c4
+b2 b c' g3 g a f g g d
+|:d/ g/ f f f f/ g/ f c f f B d "f"_e f c2 Hf :|

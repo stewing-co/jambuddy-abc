@@ -1,0 +1,37 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Varsoviana FCB  (vr07370)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.310 (mz07310) orig. F,C,Bb
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Varsovienne
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"A>c f2!>!a2 | !>!"C7"g4e2 | c>eg2!>!b2 | !>!"F"a4f2 | c>f a2!>!"F7"c'2 | !>!"Bb"d'4b2 | "C7"g>d' c'2!>!e2 | !>!"F"f4f2 ||  [K:C] 
+|: "G7"a>g f2d2 | "C"a>ge2c2 | ("G7"g^f g)(B d=f) | "C".e.g (^fg) .e.c | "G7"a>g f2d2 | "C"a>ge2c2 | ("G7"g^f g)(B ed) |1 "C7"c4_B2 :|2 "C"c4z2 || [K:F] 
+"F"A>c f2f2 | c>f !>!a4 | a>e g>f c>d | !>!"C7"c4B2 | G>B e2e2 | c>e !>!g4 | "Gm"d'>c' b>a "C7"g>a | !>!"F"f4z2 || [K:Bb] 
+"Bb"((3BAB)F2B2 | ((3d^cd) B2d2 | f>=e g>f _e>d | !>!"F7"c4A2 | ((3A^GA) F2A2 | ((3c=Bc)A2c2 | [ca]>[Bg] [Af]>[Ge] [Fd]>[Ec] | !>!"Bb"[DB]4 z2  |] 
+% vr07370
+% July 13, 2017
+
+X:2
+T:Varsoviana CGF 5-  (vr07370)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.310 (mz07310) orig. F,C,Bb
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Varsovienne
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"E>G c2!>!e2 | !>!"G7"d4B2 | G>Bd2!>!f2 | !>!"C"e4c2 | G>c e2!>!"C7"g2 | !>!"F"a4f2 | "G7"d>a g2!>!B2 | !>!"C"c4c2 || [K:G] 
+|: "D7"e>d c2A2 | "G"e>dB2G2 | ("D7"d^c d)(F A=c) | "G".B.d (^cd) .B.G | "D7"e>d c2A2 | "G"e>dB2G2 | ("D7"d^c d)(F BA) |1 "G7"G4=F2 :|2 "G"G4z2 || [K:C] 
+"C"E>G c2c2 | G>c !>!e4 | e>B d>c G>A | !>!"G7"G4F2 | D>F B2B2 | G>B !>!d4 | "Dm"a>g f>e "G7"d>e | !>!"C"c4z2 || [K:F] 
+"F"((3FEF)C2F2 | ((3A^GA) F2A2 | c>=B d>c _B>A | !>!"C7"G4E2 | ((3E^DE) C2E2 | ((3G^FG)E2G2 | [Ge]>[Fd] [Ec]>[DB] [CA]>[B,G] | !>!"F"[A,F]4 z2 |] 
+% vr07370
+% July 13, 2017

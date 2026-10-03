@@ -1,0 +1,41 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka  FCBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.80 (pk00083) orig. F,C,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+cc |: "F"c2f2 fef2 | "Gm"d2g2 g^fg2 | "C7"e2g2 cegb | "F"a2ag fef2 | c2f2 fef2 | "Gm"d2g2 g^fg2 |     
+"C7"e2g2 cde2 | "F"f2f2 f2z2 :: [K:C] "C"eeee "G7"d2B2 | "C"cccc e2g2 | "Dm"ffff "G7"d2B2 | "C"gggg e2c2 | eeee "G7"d2B2 | 
+"C"cccc e2g2 | "Dm"ffff "G7"d2B2 | "C"c2c'2 c'2z2 |: [K:F] "C7"c2b2 bab2 | "F"a6b2 |   "C7"a2g2 g^fg2 | "F"g2=f2 fef2 | 
+"C7"c2b2 bab2 | "F"a6b2 |   "C7"a2g2 gfe2 | "F"f2a2 f2z2 :: [K:Bb] "Bb"fed2 "Eb"bag2 | "Bb"f=ef2 d'4 | 
+"F7"fef2 c'bab | "Bb"bab2d4 | fed2 "Eb"bag2 | "Bb"f=ef2 d'4 | "F7"f2e2 c'ba2 | "Bb"b2d'2 b2z2 :| 
+
+X:2
+T:Polka  CGF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+GG |: "C"G2c2 cBc2 | "Dm"A2d2 d^cd2 | "G7"B2d2 GBdf | "C"e2ed cBc2 | G2c2 cBc2 | "Dm"A2d2 d^cd2 | 
+"G7"B2d2 GAB2 | "C"c2c2 c2z2 :: [K:Gmaj] "G"BBBB "D7"A2F2 | "G"GGGG B2d2 | "Am"cccc "D7"A2F2 | "G"dddd B2G2 | BBBB "D7"A2F2 | 
+"G"GGGG B2d2 | "Am"cccc "D7"A2F2 | "G"G2g2 g2z2 |: [K:Cmaj] "G7"G2f2 fef2 | "C"e6f2 | "G7"e2d2 d^cd2 | "C"d2=c2 cBc2 | 
+"G7"G2f2 fef2 | "C"e6f2 | "G7"e2d2 dcB2 | "C"c2e2 c2z2 :: [K:Fmaj] "F"cBA2 "Bb"fed2 | "F"c=Bc2 a4 | 
+"C7"cBc2 gfef | "F"fef2A4 | cBA2 "Bb"fed2 | "F"c=Bc2 a4 | "C7"c2B2 gfe2 | "F"f2a2 f2z2 :| 
+
+X:3
+T:Polka  EbBbAb (5letras)  cf. CGF 5- chords
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+BB |: "Eb"B2e2 ede2 | "Fm"c2f2 f=ef2 | "Bb7"d2f2 Bdfa | "Eb"g2gf ede2 | B2e2 ede2 | "Fm"c2f2 f=ef2 | 
+"Bb7"d2f2 Bcd2 | "Eb"e2e2 e2z2 :: [K:Bbmaj] "Bb"dddd "F7"c2A2 | "Bb"BBBB d2f2 | "Cm"eeee "F7"c2A2 | "Bb"ffff d2B2 | dddd "F7"c2A2 | 
+"Bb"BBBB d2f2 | "Cm"eeee "F7"c2A2 | "Bb"B2b2 b2z2 |: [K:Ebmaj] "Bb7"B2a2 aga2 | "Eb"g6a2 | "Bb7"g2f2 f=ef2 | "Eb"f2_e2 ede2 | 
+"Bb7"B2a2 aga2 | "Eb"g6a2 | "Bb7"g2f2 fed2 | "Eb"e2g2 e2z2 :: [K:Abmaj] "Ab"edc2 "Db"agf2 | "Ab"e=de2 c'4 | 
+"Eb7"ede2 baga | "Ab"aga2c4 | edc2 "Db"agf2 | "Ab"e=de2 c'4 | "Eb7"e2d2 bag2 | "Ab"a2c'2 a2z2 :| 
+
+
+
+

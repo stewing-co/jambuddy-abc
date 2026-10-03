@@ -1,0 +1,23 @@
+X:602
+T:Tristis est anima mea
+C:Frei Manuel Cardoso
+M:C|
+L:1/4
+K:C
+V: 2 clef=alto name="Altus" sname="A."
+%%MIDI program 1 1
+%%staves [ 2 ]
+[V: 2] D3 _E | _E2 D2- | D D D2 | D2 C2 | C2 D D | D2 D2- |
+w: Tris-tis est a--ni-ma me-a us-que ad mor-tem
+%
+[V: 2] D2 z _E- | E D C C | D2 F2- | F F F2- | _E3 D | D2 z D | D E F D |
+w: ~ us--que ad mor-tem sus--ti-ne--te hic et vi-gi-la-te
+%
+[V: 2] E2 D2 | z E2 F | F3/ F/ E D | D F2 D | D E/ E/ D2 | G F F D/ D/ | D4 ||
+w: me-cum nunc vi-de-bi-tis tur-bam quae cir-cum-da-bit me quae cir-cum-da-bit me.
+%
+[V: 2] !segno! z D D2- | D D D E | F2 E E | D D D2 | D F2 _E | D2 _E2 | D2 D2 |
+w: Vos fu--gam ca-pi e-tis et e-go va-dam im-mo-la-ri pro vo--
+%
+[V: 2] !fine! D4 ||  x4 x4 x4 x4 x2 || \
+w: bis.

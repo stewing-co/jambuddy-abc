@@ -1,0 +1,16 @@
+X:611
+T:Tantum Ergo
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 11 clef=treble name="Corno in F/Eb (Fa/Eb) II" sname="Cor.II"
+%%MIDI program 1 69
+%%staves [( 11 )]
+%------------------
+[Q:"Andante"] [K:C] Z2 | !pp! (c4 | G4 | C)zz2 | Z10| E4| Az!p!(G2|cC)C2-|C4-|C2z2|z2!p!G2|Czz2|Z8|\
+!pp!"^Segue;genitori"!fermata!A4||\
+[Q:"Genitori"][Q:"Moderato"][M:2/4] Z8 |!p!C2-|C2-|C2-|Cz| !f!dd|Gz| Z2 |\
+!f!ee|Az | Z6| !f!d2|cc|!f!d2|cc|dz|Z2|z!f!.G|.C.G|.C..e|.d.e|.dz|!>!e2-|e/z/z|Z7|\
+!pp!G2-|G2|Cz|Z4|!pp!e2-|e2|Az|Z10||Z4|]\
+%------------------

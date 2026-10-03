@@ -1,0 +1,28 @@
+X:104
+T:[Kyrie]
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 4 clef=bass name="Violoncello" sname="Vc."
+%%MIDI program 1 42
+%%staves [ 4 ]
+%------------------
+[Q:"Largo"] !pp!(F,2G,F,2E, | F,2F,,F,2E,) | !p!(D,2^C,D,2C, | D,2D,,D,2=C,| =B,,2)zz2z| Z3 | \
+!pp! (F,2C,F,2C, | F,,2)z z2z | Z | z2zzz!p!C, | \
+(F,2G,F,2E,) | F,2D,C,2A,, | D,2!f!=B,,E,2C, | F,2 !p!(_B,C2^C) | D2 (=C =B,2!p!C) | =B,2(G,C2A,) | =B,2 (^G, A,2 ^F,) | \
+G,6 | C,!p!G,,G,, !p! G,,G,,G,, | G,,G,,G,, G,,G,,G,, | G,,G,,G,, G,,G,,G,, | G,,G,,G,, G,,G,,G,, | "_cresc."C,D,E, F,G,A, | \
+=B,A,G, CCD | !>!E3 !p! F2F, | G,6 | !f!C,D,E, F,G,A, | \
+=B,A,G, CCD | !>!E3 !p! F2F, | G,6 | !p!C,C,C, C,C,C, | C,C,C, C,C,C, | C,C,C, C,C,C, | !p!!fermata!C,6 || \
+[Q:"Allegretto"][M:3/8] !p!(F,G,A,) | (B,2A,) | G,2!p!C, | F,3 | E,3"_cresc." | A,3 | G,2=B,| !f! CDE| F2E | \
+=B,2G, | !f!CCC | C2 C | !f!=B,B,B, | =B,2 B, | !f!A,A,A, | A,2 A, | !f! G,G,G, | G,3 | \
+!f! D2C | =B,2 A, | !f! G,2F, | E,2D, | !f! C,D,E, | F,2 D, | G,2 !f! E, | A,2 F, | \
+!f!F,G,A, | B,2A, | G,2 !f!C, | F,2B,, |  E,2!f!A,, | D,E,F, | G,2F, | E,2!f!A,, | D,3 | \
+C,3 | !f! F,3 | E,3 | !f! A,3 | G,3 | Czz | !f! C, C, C, | C, C, C, | C, C, C, | C, C, C, | \
+!f! C, C, C, | C, C, C, | !f! C, z z | !f! C, z z | !p! C,3- | C,3- | C,3 | !p!!fermata!  C,3 || \
+[Q:"Largo"][M:6/8] !pp! F,2C,F,2C, | F,2 [K:F tenor] (FG2F) | G2(FE2F) | (C2DC2) [K:F bass] !p!C, | \
+%fol.22]
+(F,2G,F,2E,) | "_cresc" F,2D,C,2A,, | D,2!f!=B,,E,2C, | F,2 !p!(_B,C2^C) | \
+D2(C=B,3) | Czz !p! C,3 | F,2E, D,2_D, | C,2 C, C,2 C, | !p! F,2 _E, D,2_D, | \
+C,2z C,2z | !p!F,F,F, F,3 |F,F,F, F,3 | F,2F, C,2A,, | !fermata!F,,6 |] \
+%------------------

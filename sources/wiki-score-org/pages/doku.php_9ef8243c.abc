@@ -1,0 +1,26 @@
+X:3112
+T:Scena 10.a - Antandro ed Emirena
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:Bb
+V: 12 clef=treble name="Violini II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 12 }]
+%------------------
+[K:C] Z9 || \
+[Q:"Andantino"] [M:2/4] [K:F] z// | z//.A//(A//F//) z//.G//(G//E//) | z//(F//A//G//) F/z/ | \
+z//C//C//C// z//D//D//D// | .E//(E//G//F//) E/ z/ | [E2c2]|Az/4>A//G/4>F// |\
+"_[fol.326]"
+D/ (3(G//D//G//) A/{E}B,/4>A,//|A,/ (B,//C/8B,/8) A,/ z/ | z//.A//(A//G//) z// .G//(G//F//) | \
+z//A,//C//B,// A,/z/ | z//F//F//C// z//D//D//F// | z//.E//(G//F//) E/z/ | \
+"_[fol.326]"
+[CG]2 | F/F/ z/F/ | D/ D//B,// A,/{D} B,/ | A,/ (B,//C/8B,/8) A,/z/ | z//A//A//F// z//A//A//A// | \
+z//G//G//G// (G/G/) | z/E/ z/D/ | z/G,/ G,/ z/ | z//C//C//C// z//C//C//C// | z//C//C//C// z//C//C//C// | \
+z//c//c//c// z//A//A//A// | D z | C3/2 z/ | z/F/4>A// F/ z/ | z/E/4>G// E/ z/ | \
+A3/4F// E/D/ | E !fermata!z | z//.A//(A//F//) z//.G//(G//E//) | z//A,//C//B,// A,/ z/ | \
+z//.F//(F//C//) z//.D//(D//F//) | z//E//G//F// E/z/ | [CG]2 | \
+"_[fol.331]"
+F/F/ z/ F/ | D/ D3/8B,/8 A,/ {E} B,/ | A,/ z/ F/E/ | \
+F/ z/ F/E/ | F/ F/8A/8G/8F/8 =E/8F/8G/8F/8 F/8_E/8D/8^C/8 | D/ D3/8B,/8 A,/{D}B,/ | A, z |]
+%------------------

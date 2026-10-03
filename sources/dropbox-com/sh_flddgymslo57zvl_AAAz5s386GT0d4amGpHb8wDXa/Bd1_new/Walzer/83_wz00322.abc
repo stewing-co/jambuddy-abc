@@ -1,0 +1,29 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Im Kreise (Walzer) FCBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.290 (wz00322) orig. F,C,Bb-Dur
+T: Repertoire der <S\"achser Musig> 1880-1900, Weinigen ZH. S.275-296
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"A3 | c2d | ("C7"c3 | c)zz | "F"A2c | "Bb"f2"C7"g | ("F"f3 | f)zf | "C"e2g | "Am"c2e | 
+("F#0""_?"c3 | c)zA | "Gm"A2G | "C7"c2E | ("F"F3 | F)zG || [K:C] "C"GzG | "G7"Gc>d | "C"e2c | "A7"G2z | 
+"Dm"AzA | "A7"Ad>e | "Dm"f2d | "G7"B2c | BzB | "F"AzA | ("C"G3 | G)CE | ("G7"G3 | G)AB | 
+("C"c3 | "C7"c)zz || [K:F] "F"c3 | "C7"d2e | "F"f3 | A2f | "A7"e3 | "A7/C#"f2e | ("D0"d3 | d)zz | "F/C"c3 | 
+"F#0"_edc | "Gm"B3 | dcB | "Dm"A2d | "A7"f2e | ("Dm"d3 | d)zF |: [K:Bb] ("F7"f3 | f)ec | ("Bb"B3 | B)AG | 
+"F7"F2^F | G2E | ("Bb"D3 | D)zF | ("D0"f3 | f)ed | ("Eb"c3 | c) BG | ("Bb/F"F3 | F)"F7"dc | ("Bb"B3 | B)zz |] 
+
+X:2
+T:Im Kreise (Walzer) CGF 5- chords
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+"C"E3 | G2A | ("G7"G3 | G)zz | "C"E2G | "F"c2"G7"d | ("C"c3 | c)zc | "G"B2d | "Em"G2B | 
+("C#0""_?"G3 | G)zE | "Dm"E2D | "G7"G2B, | ("C"C3 | C)zD || [K:Gmaj] "G"DzD | "D7"DG>A | "G"B2G | "E7"D2z | 
+"Am"EzE | "E7"EA>B | "Am"c2A | "D7"F2G | FzF | "C"EzE | ("G"D3 | D)G,B, | ("D7"D3 | D)EF | 
+("G"G3 | "G7"G)zz || [K:Cmaj] "C"G3 | "G7"A2B | "C"c3 | E2c | "E7"B3 | "E7/G#"c2B | ("A0"A3 | A)zz | "C/G"G3 | 
+"C#0"_BAG | "Dm"F3 | AGF | "Am"E2A | "E7"c2B | ("Am"A3 | A)zC |: [K:Fmaj] ("C7"c3 | c)BG | ("F"F3 | F)ED | 
+"C7"C2^C | D2B, | ("F"A,3 | A,)zC | ("A0"c3 | c)BA | ("Bb"G3 | G) FD | ("F/C"C3 | C)"C7"AG | ("F"F3 | F)zz |] 
+

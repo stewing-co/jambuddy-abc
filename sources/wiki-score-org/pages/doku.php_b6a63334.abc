@@ -1,0 +1,91 @@
+X:1320
+T:Scena 7.a
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 20 clef=alto1 name="Euridice" sname="Eur."
+%%MIDI program 1 1
+%%staves [[ 20 ]]
+%----------------- edit between the lines ------------
+z_e/ _B// B// G/z// B// B// B// B// _e// | _d/ d/ z \
+w: Mi-se-ra me! fra pal-pi-ti fre-quen-ti
+d/ d// d// _e/> _B/ | cz \
+w: co-me mi bal-za'il cor
+_ec/> _B/ | _A/ A/ z/ \
+w: dol-ce'es-pre-ran-za
+A// A// c A/ G/ | ^F F/ F// G// A/ A/ A/ _B/ | c c/ _B/ G/ z/ \
+w: af-fan-no-so ti-mor, ah voi mi  fa-te Fie-ra guer-ra nel sem...
+d/ d// f// | _e/ e/ z// e// f// c// d d/> c/ | \
+w: I-do-lo'a-ma-to Ti ri-ve-dro, ma oh
+_B// B// z// G// =B/ B// c//  d/ d/ d// d// d// _e// | c z/ \
+w: Di-o! Chi sa se mai tu-a di-ve-nir po-tro?
+_e/ e/ d/ z/ d/ | _B/ B/ z/ \
+%--- fol 152 ---
+w: Lo bra-mo, il chie-do
+g/ g/> ^c/ c/> c/ | dzd d/ =e/ | f// f// d// d// c/ B// A// ^G// G// B// c// d// d// d// e// | ^c z/ \
+w: Dei Nu-mi'al-la pie-ta; ma il fato av-ver-so ch'eb-bi a pro-var si-nora, di De-me-trio l'a-mor,
+A/ ^c/ c/ z/ \
+w: che'il pri-mo,
+e/ | e// A// A/ A// A// A// _B// G/ G/ z// \
+w: il so-lo, il-mio pui dol-ce'af-fet-to
+e// ^c// A// | d/ d/ z \
+w: op-pri-mer ten-ta,
+A/ A/ A/ B// c// | B/ B/ g2 ^c/ d/ | d/ A/ z3 | Z4 | z2 | Z5 | z  \
+w: le mie's-pe-ran-ze'ab-bat-te, e mi spa-ven-ta.
+^F/ B/> B/ B/ z/ B/ | ^d/ d/ f ^d// d// ^F// ^G// A/ B// ^F// | ^G/ G/ z3 | Z6 | \
+w: De-me-tri-o... An-tan-dro... (oh Nu-mi! Che ter-ri-bil ci-men-to!)
+d/ A/ "^[1]" _e c/ c/ z/ d/ | _B G/ G// A// "^[2]" =B// B// d// d// d/ c// d// | =B/ B/ G/ G// A// B// B// B// B// A// B// B// c// | d d/ _e// f// f// _B// B// c// d/ d// _e// | c c/ d// _e// d// d// c// c// c/ c// d// | Bz3 | Z | z3 z/ \
+w: Pren-ce (oh Nu-mi! che so? se al ca-ro'a-man-te Spie-go l'af-fet-to mi-o, ah di De-me-trio L'ir-ri-ta-to fu-ror pu\ò con-tro Ro-di Ogni ec-ces-so ten-tar, ed il mio be-ne Vit-ti-ma  ne sa-r\à.)
+W: [1] See libretto  p.16
+W: [2] See libretto  p.16 - "Antandro (?) instead of "amante"
+G/ ||  c/ c/ z z2 | Z2 | z \
+w: De-me-trio...
+g _B/ B/ B/> c/ | \
+w: (Do-ve tras-cor-ro
+A/ A/ z3 | Z | c _B/ c// A// A// z/ c// f// e// d// c//| =B/ B/ zz/ B/ B/ c/|d/ d/ z/ d/ d> {f}_e|{d}cz3|Z6|\
+w: ma-i? Con dol-ci~ac-cen-ti Se lu-sin-gar-lo ten-to, all' I-dol mi-o Rra-figgo il cor.)
+zz/ f/ f/> _A/ A/> _B/|GGz2| _B B/ _e/ d/ d/ z| f/ _A// A// A/> _B/ G/ G/ z/ _B/| _e/ g/ e/ c/ =A/ A/ z/e/ | {d}d> =A A/ A/ z|| "^Segue Terzetto" \
+w: (Che an-gus-tia~\`e mai la mia!) Ah se nel se-no Qual-che pie-t\`a ser-ba-te, Di la-ce-rar-mi~il co-re, oh Dio, ces-sa-te.
+[K:Eb] B |e z/ e/ e z/e/|d/2> d/d z B|d z/2 f/2 f z/2 a/2|^f/2> g/ g z d/c/|{c}B e/c/ B e/c/|{c}B zz e/c/| \
+w: Non in-sul-tate, o bar-ba-ri, Non  in-sul-tate, o  bar-ba-ri Al_ fi-e-ro mio do--lor.  Non_
+B e/c/ B e/> c/|B/> B/ B z B|c/a/ g/f/ f/e/ e/d/|e z z2|c/> c/ c z a|g>e b>B|e z z2|\
+w: in-sul--ta-te, o bar-ba-ri, Al fie-ro -- mi-o do--lor bar-ba-ri  il fie-ro mio do-lor.
+Z30|z2 z f|b3 f|f3 d/B/|=A A z2|z2 z f|b3 f|f3 d/B/|=A A z2|z2 z f| \
+w: Ah pi\`u ti-ran-no_ fa-to Un core in-na-mo--ra-to No,
+f3 {e}d|{d}=B3 f|{e}e2 z2| z2z =e|f3 f/c/|{B}=A3 e | d2 z d | \
+w: non pro-v\`o si-nor  No non  pro--v\`o  si-nor!  Ah
+c>c d> d|e e z _d|c>c _d>d|e e z _d|c>_g g> B| {c}=A2 z f/e/| \
+w: pi\`u ti-ran-no fa-to TBC-che
+e>e f/e/ d/c/| {e}d zz f/>e/|e>e (f/e/) (d/c/)|d/>d/ d z d/>e/|f b =a g|f/d/ f z d/>e/| \
+w:fie-ra cru--del--t\`a non - in-sul-ta-te, o-- bar-ba-ri ah-- pi\`u - tira-nno fa-to - un-
+f b =a g| f/>d/ f z f/>e/| e> e f/e/ d/c/|d/> d/ d z f/>e/ | e>e f/e/ d/c/ | \
+w: Co-re a-ventu-ra-to - non- - in-sul-ta-te, o-- bar-ba-ri un - fie-ro m-io do -
+d2 z f | f> _a a> a | g g z2 | c/g/ f/ e/ e/d/ d/c/ | d2 z2 | \
+w: lor    ah pi\`u ti-ra-nno fa-to   no - non pro---v\`o  si-nor
+c/g/ f/ e/ e/d/ d/c/ | {e}d2 f2 | g2 b2 | d4 | c4 | B z z2 | \
+w: n\`o - non - pro--v\`o  si-nor------~
+z4 | !fermata!z4 || [M:2/4] !fermata!z z | Z3  | \
+zz/A//>B// | c/> c/ (d//>=e//) f//>e// | {e/}d/ c/ z/ c//>d// | {c/}B/> c/ {A/}A/> {B/}B/ | {A}G d | c///f///a///f/// =e///d///c///B/// A/ G/ | \
+w: il - po-ve-ro - mi-o co-re -ri-po-so pi\`u non h\`a ri-po----so---- pi\`u non
+F z | Z4 |z2 | Z6 | \
+w: h\`a
+z z/ A//>B// | c/> c/ d//>=e// f//>e// | {e}d/ c/ z/ c//>d// | {c}B/>c/ {c}=A/> B/ | {c}A/ G/ !fermata!d | \
+w: ne -
+c// c// !fermata!z/  =e/> e/ | f// f// !fermata!z/ =e/> c/ | (d//f//) (=e//d//) (d//c//) z//B// | B3/4(c///B///) A/ c/ | (d//f//) (=e//d//) (c//=F//) (B//G//) || \
+[M:C] F zz2 | z4 | Z1  | _e e/> e/ e f/_g/ | f/> f/ f/ f/ f>e | _d/> d/ d z2 | z4 |Z  | _d a/> f/ _d>c | _c/> B/ B/ f/ f  _g/a/ | _g/> g/ g z g | \
+f3 _g | f3 _g | e>e e e | d B z2 | z2 z B | e g f a | \
+w: - ---------ei tris-ti gior-ni
+g e z B | e g f a | g e/> e/ d f | e z z2 | e e/> e/ e> =e | \
+w:mi-ei or mi-na-ccian-do   v\`a  mi-na-ccian-do   v\`a
+f f z2 | f f/> f/ f> e | d b/> b/ g e | Bz z2 | Z2 | a a/> a/ a3/2 g//f// | e/> e/ e z2 | z4 | Z | \
+a a/> a/ a3/2 g//f// | e e z e | g/z/ f/z/ e/z/ _d/z/ | c c z2 | f f/> f/e d | e//B//e//g// b//g//b//g// e//B//e//g// b//g//b//g// |
+w: che m'em pie--di spa-ven-to ------- or mi-na-ccian-do v\`a -
+a//b//a//g// f//g//f//e// d//e//f//e// d//c//B//A// | G/ g//a// b//g//b//g// e//B//e//g// b//g//b//g// | a//b//a//g// f//g//f//e// d//e//f//e// d//c//B//A// | G f b//a//g//f// e//d//c//B// | c c z2 | z4 | \
+w: ------------------------------------------------ or ----mi--na--ccian-do
+z2 e2 | f3 a/f/ | e2 d2 | e//B//e//g// b//g//b//g// e//B//e//g// b//g//b//g// | a//b//a//g// f//g//f//e// d//e//f//e// d//c//B//A// | G/ g//a// b//g//b//g// e//B//e//g// b//g//b//g// | \
+w:or mi-na-cci-an-do   v\`a ----
+a//b//a//g// f//g//f//e// d//e//f//e// d//c//B//A// | G g b//a//g//f// e//d//c//B// | c c z2 | z4 | z2 e2 | f3 a | \
+w:----------------- or -- mi--nac----cian-do
+g2 f2 | b/a/ g/f/ e/d/ c/B/ | c2 f2 | b/a/ g/f/ e/d/ c/B/ | a2 f2 | g2 B2 | c2a2 | g4 | f4 | e z z2 | Z3 |]\
+%-----------------------------

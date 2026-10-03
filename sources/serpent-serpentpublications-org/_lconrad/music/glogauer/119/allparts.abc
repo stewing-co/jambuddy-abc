@@ -1,0 +1,111 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:In feuers hitz -- O rosa bella
+T:Quodlibet
+T:Diskantes
+C:Glogauer Liederbuch, No. 119
+O:Germany
+B:Glogauer ms.
+Z:Transcribed by Laura Conrad http://www.laymusic.org
+N:Original clef, C on second line
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/2
+K:G dor
+G3 E F > E G3/2 F// E// D2 z C D B, A,2 G,2 z F G B A/ G/ G3/2 
+w:O _ ro- sa bel- la, _ _ o ro- sa bel- la, o ro- sa bel- * * 
+^F/ ^F/ E/ G2 z D D D B, G, z D _E2 D2  C B, G,2 A,2 G,2
+w:* * * la, o ro- sa bel- la, o dol- ce a- ni- ma mi- a,
+z F G2 B2 A3 G G2 G F3/2 E// D// E3/2 D// C// D3/2 ^C/ ^C/ =B,/ D2 z G
+w:non me las- sar mo- rir, mo- rir _ _ _ _ _ _ _ _ _ _ in
+F2 E2 D2 z C B, D > C B,/ A,/ G,2 z F G A2 F G _E D2
+w:cor- te- sia, in cor- te si- * * a, in cor- te- * si- * a,
+E F > G A B3/2 A// G// HF2 || F2 F F G3/2 F// _E// D > _E D3/2 C// B,// A,2 G,2 z D
+w:in cor- * te- si * * a.  Ai las- so mi, _ _ _  ai las- so _ _ mi, ai
+D D C2 E D2 C D B, A, D > C B,/ A,/  G, C > =B, =B,/ A,/ C2 z G G2
+w:las- so mi do- * * len * * * * * * * * * * * te, don fi-
+F > D E D2 G F2 E2 D C2 =B, A,2 G,2 z2 G2 A2 A > F A2
+w:ni- * * re, per men ser- fi- * * * re e li- al- * *
+B4 A2 G3/2 F// E// D E F2 G A B c > B A/ G/ F B A/ G/ G > ^F ^F/ E/ HG4 |]
+w:mente a ma- * * * * re, e li- al- men- * * * te a- ma- * * * * * re.
+
+X:2
+T:In feuers hitz -- O rosa bella
+T:Quodlibet
+T:Contratenores
+C:Glogauer Liederbuch, No. 119
+O:Germany
+B:Glogauer ms.
+Z:Transcribed by Laura Conrad http://www.laymusic.org
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/2
+N:Original clef, C on fourth line
+K:G dor -8va
+%%MIDI transpose -12
+G2 =B c d2 G2 G F E2 D4 d2 B A G2 z G
+w:In feu- ers hitz so bren- net mein herz.  Mein lib- ste zart. Es
+D2 _E2 G4 d2 d2 c2 d d e d B2 z D _E/ D/ _E/ F/
+w:leit mir hart. Hilf und gib rat. Sei wol- ge- mut. Se in _ mein _
+G d B > A G2 D2 F > E C2 z2 A2 G F E2 D D E E 
+w: herz  Mein traut ge- sell.  Der mei is hin.  Wunsch- li- chin scho- ne.  Sig, sold und
+D2 G2 F D E2 D2 G2 B2 d2 c2 d2 G2 B/ B/ B
+w:heil, im her- * zen geil.  Ich sachs _ eins mals.  Mein ein- zi- ges
+A2 d2 d d HA2 || d2 d A B > c d G B B c2 d2 D G
+w:heil.  Ge sein dich got.  So so mein lib- ste zart.  Ich wuﬂ- te nie, was rech- te
+F D E2 z D z A B > A F2 D2 E2 D D E2 C2 C C 
+w:li- *  be was.  Mein ist ver- ges- sen.  O se- nens kraft Fru(e)nt- li- cher 
+D2 C F2 E D2 C2 z C C G2 ^F G =B A2 G2 z d d2 z d
+w:ort, was zei- * stu mich.  Hab ich lib so leid * ich not.  Tu auf, tu
+d2 z d c c B B G G A A G z G A > G F/ E/ D d > c B A2 HG4 |]
+w:auf, mein al- ler- lib- ste lib.  Zu al- ler zeit.  Ich far da- * * hin und _ das muﬂ sein.
+
+X:3
+T:In feuers hitz -- O rosa bella
+T:Quodlibet
+T:Tenores
+C:Glogauer Liederbuch, No. 119
+O:Germany
+B:Glogauer ms.
+Z:Transcribed by Laura Conrad http://www.laymusic.org
+M:C
+L:1/2
+K:G dor bass
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -24
+g2 e a d2 e d/ c/ G d A2 B G f2 g2 z d G2 f e
+w:In feu- ers hitz * * * *  so bren- net mein herz. _ Mein lib- ste zart.
+a2 g2 c G G2 G/ A/ B/ c/ d B c2 B G z d _e2 f2 g > f
+w:Es _ leit mir hart. Hilf _ _ _ _ und gib rat. _ Sei wol- * * * 
+_e d G2 z g f2 d c e3 d A > =B c d A2 a2 g g 
+w:* ge- mut.  Mein traut _ ge- sell. Der mei, der mei ist hin. Wunsch- li- chin
+  a     d   c2   d    B   A2 z  B  G2   g _e  d2     e   f2    d    _e > f g2
+w:scho- ne. Sig, sold und heil, im her- * zen geil.  Ich sachs eins mals _ _ 
+z d > e f  g3/2 f// e// Hd2 || 
+w:Ge- *  * sein dich _ got.    
+  d2 d f    _e2   d z   G2 A2 B3   G
+w:So so mein lib- ste.  Ich _ wuﬂ- te
+d B A > =B c B2 A G z d2 f2 g2 f f g2 c'2 c' c'
+w: nie, was rech- te li- * be was.  Mein _ ist ver- ges- sen.  O se- nens
+a2 c' > a d' c'2 =b c'2 =B g > f e d2 z g d2 e2 f d d2 d d
+w:kraft. Fru(e)nt- * * li- cher ort, was zei- * stu mich.  Hab ich _ lib _ so leid ich
+g2 z g c2 G > A B G d2 e f g z f d B2 z G d2 HG4 |]
+w:not.  Tu auf, mein _ _ al- ler- lib- ste lib.  Far da- hin das muﬂ sein.

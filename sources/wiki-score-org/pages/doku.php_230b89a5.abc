@@ -1,0 +1,49 @@
+X:108
+T:Gloria
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:D
+V: 8 clef=treble name="Violino II" sname="Vl.II"
+%%MIDI program 1 40
+%%staves [{ 8 }]
+Z23 || \
+[Q: "Andante"] "_NB: Vl.II := Vl.I where Vl.II empty" z/// A///B///c/// | d A F/D/ z/d/ | e/A/ !pralltriller!g3/4f1/8e1/8  f//e//d/ z/ z/// a///b///c'/// | d'/d/ c/c'/ b/B/ A/a/ | g/G/ F/f/ e/(3c'//b//a// e/f/ | e/(3c'//b//a// e/f/ e/(3c'//b//a// e/f/ | \
+e//d//c//B// A//G//F//E// D z/z/// A///B///c/// | d/D/ z/z/// A///d///e/// f/F/ z/z/// A///f///g/// | \
+a/A/ d//e//d//e// c//B//A/ "_uniss." z/z///a///b///c'/// | \
+[L:1/16] d'd'dd d'd'dd bc'd'c' (6:4d'bc'd'c'b | c'c'cc c'c'cc abc'b (6:4c'abc'ba | bbBB bbBB gaba (6:4bgabag | aaAA aaAA fgag (6:4afgagf | ggGG ggGG efgf (6:4gefgfe | \
+[L:1/4] f z z/d//e// f/d/ | z/d'/ !pralltriller!d//>c//d/  z/d'/ !pralltriller!d//>c//d/ | \
+z/d'/ !pralltriller!d//>c//d/  z/d'/ !pralltriller!d//>c//d/ | c z z/A//B// c/A/ | \
+z/a/ A//>^G//A/ z/a/ A//>^G//A/ | z/a/ A//>^G//A/ z/a/ A//>^G//A/ | \
+^G3/4e///f/// ^g/(3:g//a//b// a3/4a///b/// c'/(3:c'//d'//e'// | \
+d'd' d'/(3:b//a//^g// e/d'/ | c'/ b a/ g/ f e/ | \
+^d/ _c "_(sic)" B/ A/ G F/ | \
+G/ g f/ e/ d c/ | B/ A G/ F/ (d///e///f///g///) a/A/ | d z [DAf] z | \
+[DAf]z[DAf]z | [DAf]z[DAf]z | [DAf] [L:1/16] zfed cece cece | dfdf dfdf cagf edcB | AdcB AGFE [L:1/4] \
+D/>d/ c | d z [DAf] z | [DAf][DAf][DAf]z | [DAf] [Ace] [DAf] z/z/// A///B///c/// | \
+d A F/D/ z/f/ | e/A/ g/e/ a/g//f// e/d/ | c//B//A/ z/z///e///f///^g/// a/ea/ | f/e d//c// d/c B//A// | \
+^G//A// B3/2 d ^g | a3/4^g///f/// e/A/ c B/A/ | e/ e a//e// f/ e a/ | B,/A/ ^G/E/ AB | \
+A/B/ c/B/ A/>a/ ^g//f//e//d// | c/A/ ^G (A/A///B///c///d///) e/(3:e//f//^g// | \
+a/A/ ^G/^g/ f/F/ E/e/ | d/D/ C/c/ B/(3:^g//f//e// B/c/ |\
+B/(3:^g//f//e// B/c/ B3/4e///f/// ^g/(3:g//a//b// | \
+[L:1/16]  aaAA aaAA f^gag (6:4afgagf | ^gg^GG ggGG efgf (6:4gefgfe | \
+ffFF ffFF defe  (6:4fdefed | eeEE eeEE cded (6:4ecdedc |  ddDD ddDD Bcdc  (6:4dBcdcB | \
+[L:1/4] c/A/ z/e/ d/f/ e/d/ |  c//A//c//e// a/(e///d///c///B///) A z/c//B// | \
+A/A/A/A/ ^G/G/ d/c//B// |  c/ B A/ d/ c B/ | e/ d c/ f/ e d/ | \
+a/(e///d///c///B///) A/c/ c/c/c/c/ | F/F/F/F/ F/F/F/F/ | F/E//^D// E/F/ G/G/G/F/ | \
+E/E/E/E/ E/E/E/E/ | D/D/D/D/ D/D/D/D/ | E/E/E/E/ E/E/E/E/ | F/F/F/F/ F/F/F/F/ | \
+G/G/G/G/ A-A/(A///B///c///d///) | e/c/-c/(A///B///c///d///) e/cB//A// | \
+B/E/ d/c//B// c/A/-A/(A///B///c///d///) | \
+"_[=Vl.I]" e/cB//A// B/E/ d/c//B// | c//e//d/- d//c//e/- e//f//gf//e// | \
+f//g//a//g// f//e//d//c// !trill!B2 | Z | z//c//e//d// c//e//c//A// ed | c/Bc/ed | \
+c//B//A//B// c//d//e//f// ge | fFGA | \
+D a//g//f//e// d/A/d/f/ | !trill!d4 -| d4 -| d//e//f//e// f//e//d//c// B//c//d//c// d//c//B//A// | \
+G//A//B//A// G//F//E//D// !fermata!Az | Azz2 | \
+z2 d//c//B//A// G//F//E//D//  | !trill!c>d d/(e///f///g///a///) a3/4b///c'///  | \
+[L:1/16] d'd'dd d'd'dd d'd'dd d'd'dd | aaAA aaAA aaAA aaAA | \
+[L:1/4] ^G3/4e///f/// ^g/(3:g//a//b// a3/4a///b/// c'/(3:c'//d'//e'// | \
+d'd' d'/ (3:c'//b//a// e/d'/ |  c'/ba/ g/ fe/ | ^d/=cB/ A/ GF/ | \
+G/gf/ e/ dc/ | B/AG/ F/ (d///e///f///g///) a/A/ |  d z [DAf] z | \
+[DAf][DAf][DAf]z | [DAf][Ace][DAf]z ||  Z | z/F/F/F/ F/F/F/F/ | E/E/E/E/ F/F/F/F/ | \
+G/G/G/G/ ^D/D/ B/B/ | B/A/ G/A/ B/B/B/B/ | A>B c/e/d/c/ | d/F/F/F/ c/c/c/c/ | A/G/ F/G/ Az | \
+z/B/e/d/ cF | dz/B/B^A | B/b/B/A/ ^G/G/G/G/ | G/G/G/G/ A z | Z|]

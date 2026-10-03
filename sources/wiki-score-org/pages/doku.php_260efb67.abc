@@ -1,0 +1,18 @@
+X:301
+T:Minuetto
+C:Davide Perez (1711-1778)
+M:3/4
+L:1/4
+K:D
+V: 1 clef=treble name="Cornu Primo [in D.]" sname="Cor.1"
+%%MIDI program 1 69
+%%staves [( 1 )]
+%-------
+[K:C] e2z | f/>e/ e2 | e2 f/>e/ | \
+d/>e/ e2 |c2z|e2z|zde| dd/d/d/d/ | dzz| \
+dzz| e d/d/d/d/ |d3 :: d2z|d2z| \
+ede | d f/f/f | d2z|d2z| ded | ee/e/ e | \
+c2z|c2z| fde | dd/d/d | e2z| f/>e/ e2 | \
+e2 f/>e/ | d d/d/ d | ezz|ezz| fed/>d/ | c3 :| \
+[Q:"Presto"] [M:C|] ez e  e/g/ | e e/g/ e e/g/ | e/g/e/g/ e!fermata!z |]
+%---------------

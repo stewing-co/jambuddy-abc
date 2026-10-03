@@ -1,0 +1,31 @@
+X: 1
+T: Swing Your Partner
+S: PCD version from R&O
+M: C
+R: march
+N: Q: 1/2=120
+N: rec'd speed 108
+L:1/4
+K: G
+.d .e .^f ||\
+"G"g B B3/2A/ | B/A/ B3/2 B/c/^c/ | d G G3/2F/ | G .G .F .E | "D7"D d d3/2^c/ |
+ d .G .F .E | D d d3/2^c/ | d .d .e .f | "G"g B B3/2A/ | B/A/ B3/2 B/c/^c/ |
+ d G G3/2F/ | G G F E | "D"D2 d3/2^c/ | d d e f | "G"g2 a2 | "G7" g2 =f2 ||
+K: C
+"C"e2 c2 | G2 c B | "F"A2 B c | "C"G2 c B |\
+ "F"A2 B c | "G" d2 g2 |"C"g2 a2 | "G"g2 f2 |
+"C"e2 c2 | G2 c B | "F"A3/2A/ B c |"C"G2 c B | "F"A2 f2 | "C"e c "G"d B!coda! |\
+ "C".c2 "A".^c2 | "D"d .d .e .^f |]
+
+X: 2
+M: C
+R: march
+L:1/4
+K: G
+%%staffbreak 0.2
+!coda!|"C"c4-"^coda" | c z z2 |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2009, version 4 (corrected end of .midi 8/7/2011)
+%%endtext

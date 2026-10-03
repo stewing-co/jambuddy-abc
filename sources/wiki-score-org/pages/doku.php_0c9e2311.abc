@@ -1,0 +1,16 @@
+X:2214
+T:Andante [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:3/4
+L:1/4
+K:Eb
+V: 14 clef=bass name="[Basso]" sname="B."
+%%MIDI program 1 42
+%%staves [ 14 ]
+%-----
+"_[fol.255]" [Q:"Andante"] E,/z/ E,/z/ E,/z/ | E,/z/ E,/z/ E,/z/ | B,,/z/ B,,/z/ B,,/z/ | E,/z/ E,/z/ E,/z/ | E,/z/ E,/z/ E,/z/ | \
+D,/z/ D,/z/ D,/z/ | E,/z/ F,/z/ ^F,/z/ | G,2z | E,/z/ F,/z/ F,,/z/ | B,,/z/ B,,/z/ z | \
+B,,/z/ B,,/z/ B,,/z/ | B,,/z/ B,,/z/ B,,/z/ | \
+"_[fol.256]" B,,/z/ B,,/z/ B,,/z/ | B,,/z/ B,,/z/ z | G,,/z/ z z | A,,/z/ z z | B,,/z/ z z | C,2!fermata!z | G,,/z/zz | \
+A,,/z/zz | B,,/z/zz | E,/z/ E,/z/ E,/z/ | E,/z/ E,/z/ E,/z/ | E,/z/ E,,/z/ z |] \
+%-----

@@ -1,0 +1,128 @@
+%%MIDI program 21
+X:1
+T: Hochzitstanz  E
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.270 (st00921) orig. E-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:E %%MIDI gchordon
+"E"BB!>!B2 | GG!>!G2 | EG c>B | "B7"B2A2 | AA A>G | FF F>E | DF c>B | "E"E2E2 :| 
+W:
+W: Hochzits-tanz (wedding dance)
+X:2
+T:Hochzitstanz  C 4-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+"C"GG!>!G2 | EE!>!E2 | CE A>G | "G7"G2F2 | FF F>E | DD D>C | B,D A>G | "C"C2C2 :| 
+% st00921
+X:3
+T:Hochzitstanz  C 8+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+"C"gg!>!g2 | ee!>!e2 | ce a>g | "G7"g2f2 | ff f>e | dd d>c | Bd a>g | "C"c2c2 :| 
+% st00921
+X:4
+T:Hochzitstanz  F 1+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F%%MIDI gchordon
+"F"cc!>!c2 | AA!>!A2 | FA d>c | "C7"c2B2 | BB B>A | GG G>F | EG d>c | "F"F2F2 :| 
+% st00921
+X:5
+T:Hochzitstanz  G 3+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+"G"dd!>!d2 | BB!>!B2 | GB e>d | "D7"d2c2 | cc c>B | AA A>G | FA e>d | "G"G2G2 :| 
+% st00921
+X:6
+T:Hochzitstanz  C (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"GG!>!G2 | EE!>!E2 | CE A>G | "G7"G2F2 | FF F>E | DD D>C | B,D A>G | "C"C2C2 :| 
+% st00921
+X:7
+T:Hochzitstanz  C (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"gg!>!g2 | ee!>!e2 | ce a>g | "G7"g2f2 | ff f>e | dd d>c | Bd a>g | "C"c2c2 :| 
+% st00921
+X:8
+T:Hochzitstanz  F (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"cc!>!c2 | AA!>!A2 | FA d>c | "C7"c2B2 | BB B>A | GG G>F | EG d>c | "F"F2F2 :| 
+% st00921
+X:9
+T:Hochzitstanz  G (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"dd!>!d2 | BB!>!B2 | GB e>d | "D7"d2c2 | cc c>B | AA A>G | FA e>d | "G"G2G2 :| 
+% st00921
+X:10
+T:Hochzitstanz D (tinwhistle in D)
+T:st00921 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"D"AA!>!A2 | FF!>!F2 | DF B>A | "A7"A2G2 | GG G>F | EE E>D | CE B>A | "D"D2D2 :| 
+X:11
+T:Hochzitstanz G (tinwhistle in D)
+T:st00921 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"dd!>!d2 | BB!>!B2 | GB e>d | "D7"d2c2 | cc c>B | AA A>G | FA e>d | "G"G2G2 :| 
+X:12
+T:Hochzitstanz D (tinwhistle in D) solo
+T:st00921 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D transpose=12
+AA!>!A2 | FF!>!F2 | DF B>A | A2G2 | GG G>F | EE E>D | "_=C"FE B>A | D2D2 :| 
+X:13
+T:Hochzitstanz G (tinwhistle in D) solo
+T:st00921 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:G transpose=12
+dd!>!d2 | BB!>!B2 | GB e>d | d2"_c"c2 | cc c>B | AA A>G | FA e>d | G2G2 :| 
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 30, 2016

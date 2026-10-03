@@ -1,0 +1,40 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.191 (st00382) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"C7"c2=Bc g2c2 | "F"f2c2 a2c2 | "C7"g2c2 b2c2 | "F"acfa d'c'af | "C7"c2=Bc g2c2 | "F"f2c2 a2c2 |  "Gm"g2ba "G7"gfed | 
+"C7"c2e2 c2z2 :: "F"a4"Bb"gfed | "F"d2cc c2c2 | "C7"c2ef g2c'2 | c2ef g2c'2 | "F"a4 "Bb"gfed | "F"d2cc c2c2 | 
+"C7"c2eg c'2e2 | "F"f2a2 f2z2 :: [K:Bb] "Bb"f2B2d4 | f2B2d4 | ffff b2a2 | "Cm"{/^f}g2g2 c3d | "F7"e2A2c4 | 
+"F7"e2A2c4 |1 ffff a2g2 | "Bb"{/e}f2f2 B3d :|2 "F7"f2ag fedc | "Bb"B2b2 b2z2 |: "F7"A3B cdef | g2f=e f2A2 | 
+"Bb"B3c de=ef | g2f=e f2b2 | "Eb"c'3b agfe | "Bb"gf=ef b2d2 | "C7"dc=Bc "F7"f3A | "Bb"B2b2 b2z2 :| 
+
+X:2
+T:Schottisch CF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"G7"G2^FG d2G2 | "C"c2G2 e2G2 | "G7"d2G2 f2G2 | "C"eGce agec | "G7"G2^FG d2G2 | "C"c2G2 e2G2 | "Dm"d2fe "D7"dcBA | 
+"G7"G2B2 G2z2 :: "C"e4"F"dcBA | "C"A2GG G2G2 | "G7"G2Bc d2g2 | G2Bc d2g2 | "C"e4 "F"dcBA | "C"A2GG G2G2 | 
+"G7"G2Bd g2B2 | "C"c2e2 c2z2 :: [K:Fmaj] "F"c2F2A4 | c2F2A4 | cccc f2e2 | "Gm"{/^c}d2d2 G3A | "C7"B2E2G4 | 
+"C7"B2E2G4 |1 cccc e2d2 | "F"{/B}c2c2 F3A :|2 "C7"c2ed cBAG | "F"F2f2 f2z2 |: "C7"E3F GABc | d2c=B c2E2 | 
+"F"F3G AB=Bc | d2c=B c2f2 | "Bb"g3f edcB | "F"dc=Bc f2A2 | "G7"AG^FG "C7"c3E | "F"F2f2 f2z2 :| 
+
+X:3
+T:Schottisch GC 10- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"D7"D2^CD A2D2 | "G"G2D2 B2D2 | "D7"A2D2 c2D2 | "G"BDGB edBG | "D7"D2^CD A2D2 | "G"G2D2 B2D2 | "Am"A2cB "A7"AGFE | 
+"D7"D2F2 D2z2 :: "G"B4"C"AGFE | "G"E2DD D2D2 | "D7"D2FG A2d2 | D2FG A2d2 | "G"B4 "C"AGFE | "G"E2DD D2D2 | 
+"D7"D2FA d2F2 | "G"G2B2 G2z2 :: [K:Cmaj] "C"G2C2E4 | G2C2E4 | GGGG c2B2 | "Dm"{/^G}A2A2 D3E | "G7"F2B,2D4 | 
+"G7"F2B,2D4 |1 GGGG B2A2 | "C"{/F}G2G2 C3E :|2 "G7"G2BA GFED | "C"C2c2 c2z2 |: "G7"B,3C DEFG | A2G^F G2B,2 | 
+"C"C3D EF^FG | A2G^F G2c2 | "F"d3c BAGF | "C"AG^FG c2E2 | "D7"ED^CD "G7"G3B, | "C"C2c2 c2z2 :| 
+
+
+

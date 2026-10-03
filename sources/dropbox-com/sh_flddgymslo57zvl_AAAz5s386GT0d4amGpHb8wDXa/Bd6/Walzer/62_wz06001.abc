@@ -1,0 +1,132 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Walzer  CF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.295 (wz06001) orig. C,F-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"G7"GAB | "C"c3 | "G7"dcd | "C"e3 | .c'!>!b>a | "G7"a2B | .c'!>!b>a | "C"a2c |  "G7"GAB | "C"c3 | 
+"G7"dcd | "C"e3 | "G"g^fe | dg/b/ d' | "D7"c'/c'/c'^f | "G7"gzg || "C"e/g/g2 | e/a/a2 | e/g/.c'.b | "G7"c'>BB |  
+f/g/g2 | f/a/a2 | f/g/.b.a | "C"e>gc | e/g/g2 | e/a/a2 | e/g/.d'.b | "Dm"b>aa | "F"c'2b/c'/ | "C"c'2 b/a/ | 
+"G7"a/a/aB | "C"czc |: [K:F] "F"fed | cfA | ABc | "Gm"dgB | "C7"z/b/ba | g^fg |1 z/b/ag | "F"fzc :|2 
+"C7"z/a/ag | "F"fef || "F"B/c/ d/e/ f/g/ | .a.a.a | "C7"ab>d | c3 | eg>c | =Bed | "F"cf>A | 
+A2c | B/c/ d/e/ f/g/ | "F7".a.a.a | "Bb"c'b>d | "C7"a2g | "F"gf>A | "C7"dc>E | "F"F3 | Fzz |] 
+% wz06001
+X:2
+T:Walzer  GC 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"D7"DEF | "G"G3 | "D7"AGA | "G"B3 | .g!>!f>e | "D7"e2F | .g!>!f>e | "G"e2G | "D7"DEF | "G"G3 | 
+"D7"AGA | "G"B3 | "D"d^cB | Ad/2f/2 a | "A7"g/2g/2g^c | "D7"dzd || "G"B/2d/2d2 | B/2e/2e2 | B/2d/2.g.f | "D7"g>FF | 
+c/2d/2d2 | c/2e/2e2 | c/2d/2.f.e | "G"B>dG | B/2d/2d2 | B/2e/2e2 | B/2d/2.a.f | "Am"f>ee | "C"g2f/2g/2 | "G"g2 f/2e/2 | 
+"D7"e/2e/2eF | "G"GzG |: [K:C] "C"cBA | GcE | EFG | "Dm"AdF | "G7"z/2f/2fe | d^cd |1 z/2f/2ed | "C"czG :|2 
+"G7"z/2e/2ed | "C"cBc || "C"F/2G/2 A/2B/2 c/2d/2 | .e.e.e | "G7"ef>A | G3 | Bd>G | ^FBA | "C"Gc>E | 
+E2G | F/2G/2 A/2B/2 c/2d/2 | "C7".e.e.e | "F"gf>A | "G7"e2d | "C"dc>E | "G7"AG>B, | "C"C3 | Czz |] 
+% wz06001
+X:3
+T:Walzer  CF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"G7"GAB | "C"c3 | "G7"dcd | "C"e3 | .c'!>!b>a | "G7"a2B | .c'!>!b>a | "C"a2c |  "G7"GAB | "C"c3 | 
+"G7"dcd | "C"e3 | "G"g^fe | dg/b/ d' | "D7"c'/c'/c'^f | "G7"gzg || "C"e/g/g2 | e/a/a2 | e/g/.c'.b | "G7"c'>BB |  
+f/g/g2 | f/a/a2 | f/g/.b.a | "C"e>gc | e/g/g2 | e/a/a2 | e/g/.d'.b | "Dm"b>aa | "F"c'2b/c'/ | "C"c'2 b/a/ | 
+"G7"a/a/aB | "C"czc |: [K:F] "F"fed | cfA | AB"_ ="c | "Gm"dgB | "C7"z/b/ba | g^fg |1 z/b/ag | "F"fzc :|2 
+"C7"z/a/ag | "F"fef || "F"B/c/ d/e/ f/g/ | .a.a.a | "C7"ab>d | c3 | eg>c | =Bed | "F"cf>A | 
+A2c | B/c/ d/e/ f/g/ | "F7".a.a.a | "Bb"c'b>d | "C7"a2g | "F"gf>A | "C7"dc>E | "F"F3 | Fzz |] 
+% wz06001
+X:4
+T:Walzer  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"D7"DEF | "G"G3 | "D7"AGA | "G"B3 | .g!>!f>e | "D7"e2F | .g!>!f>e | "G"e2G | "D7"DEF | "G"G3 | 
+"D7"AGA | "G"B3 | "D"d^cB | Ad/2f/2 a | "A7"g/2g/2g^c | "D7"dzd || "G"B/2d/2d2 | B/2e/2e2 | B/2d/2.g.f | "D7"g>FF | 
+c/2d/2d2 | c/2e/2e2 | c/2d/2.f.e | "G"B>dG | B/2d/2d2 | B/2e/2e2 | B/2d/2.a.f | "Am"f>ee | "C"g2f/2g/2 | "G"g2 f/2e/2 | 
+"D7"e/2e/2eF | "G"GzG |: [K:C] "C"cBA | GcE | EFG | "Dm"AdF | "G7"z/2f/2fe | d^cd |1 z/2f/2ed | "C"czG :|2 
+"G7"z/2e/2ed | "C"cBc || "C"F/2G/2 A/2B/2 c/2d/2 | .e.e.e | "G7"ef>A | G3 | Bd>G | ^FBA | "C"Gc>E | 
+E2G | F/2G/2 A/2B/2 c/2d/2 | "C7".e.e.e | "F"gf>A | "G7"e2d | "C"dc>E | "G7"AG>B, | "C"C3 | Czz |] 
+% wz06001
+X:5
+T:Walzer A&D (tinwhistle in D)
+T:wz06001 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A %%MIDI gchordon
+"E7"EFG | "A"A3 | "E7"BAB | "A"c3 | .a!>!g>f | "E7"f2G | .a!>!g>f | "A"f2A | "E7"EFG | "A"A3 | 
+"E7"BAB | "A"c3 | "E"e^dc | Be/2g/2 b | "B7"a/2a/2a^d | "E7"eze || "A"c/2e/2e2 | c/2f/2f2 | c/2e/2.a.g | "E7"a>GG | 
+d/2e/2e2 | d/2f/2f2 | d/2e/2.g.f | "A"c>eA | c/2e/2e2 | c/2f/2f2 | c/2e/2.b.g | "Bm"g>ff | "D"a2g/2a/2 | "A"a2 g/2f/2 | 
+"E7"f/2f/2fG | "A"AzA |: [K:D] "D"dcB | AdF | FGA | "Em"BeG | "A7"z/2g/2gf | e^de |1 z/2g/2fe | "D"dzA :|2 
+"A7"z/2f/2fe | "D"dcd || "D"G/2A/2 B/2c/2 d/2e/2 | .f.f.f | "A7"fg>B | A3 | ce>A | ^GcB | "D"Ad>F | 
+F2A | G/2A/2 B/2c/2 d/2e/2 | "D7".f.f.f | "G"ag>B | "A7"f2e | "D"ed>F | "A7"BA>C | "D"D3 | Dzz |] 
+X:6
+T:Walzer A&D (tinwhistle in D) solo
+T:wz06001 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A transpose=12
+EFG | A3 | BAB | c3 | .a!>!g>f | f2G | .a!>!g>f | f2A | EFG | A3 | 
+BAB | c3 | e^dc | Be/2g/2 b | a/2a/2a^d | eze || c/2e/2e2 | c/2f/2f2 | c/2e/2.a.g | a>GG | 
+d/2e/2e2 | d/2f/2f2 | d/2e/2.g.f | c>eA | c/2e/2e2 | c/2f/2f2 | c/2e/2.b.g | g>ff | a2g/2a/2 | a2 g/2f/2 | 
+f/2f/2fG | AzA |: [K:D] dcB | AdF | FGA | BeG | z/2g/2gf | e^de |1 z/2g/2fe | dzA :|2 
+z/2f/2fe | dcd || G/2A/2 B/2c/2 d/2e/2 | .f.f.f | fg>B | A3 | ce>A | ^GcB | Ad>F | 
+F2A | G/2A/2 B/2c/2 d/2e/2 | .f.f.f | ag>B | f2e | ed>F | BA>C | D3 | Dzz |]
+X:7
+T:Walzer D&G (tinwhistle in D)
+T:wz06001 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=3%%MIDI gchordon
+"A7"ABc | "D"d3 | "A7"ede | "D"f3 | .d'!>!c'>b | "A7"b2c | .d'!>!c'>b | "D"b2d | "A7"ABc | "D"d3 | 
+"A7"ede | "D"f3 | "A"a^gf | ea/2c'/2 e' | "E7"d'/2d'/2d'^g | "A7"aza || "D"f/2a/2a2 | f/2b/2b2 | f/2a/2.d'.c' | "A7"d'>cc | 
+g/2a/2a2 | g/2b/2b2 | g/2a/2.c'.b | "D"f>ad | f/2a/2a2 | f/2b/2b2 | f/2a/2.e'.c' | "Em"c'>bb | "G"d'2c'/2d'/2 | "D"d'2 c'/2b/2 | 
+"A7"b/2b/2bc | "D"dzd |: [K:G] "G"gfe | dgB | Bcd | "Am"eac | "D7"z/2c'/2c'b | a^ga |1 z/2c'/2ba | "G"gzd :|2 
+"D7"z/2b/2ba | "G"gfg || "G"c/2d/2 e/2f/2 g/2a/2 | .b.b.b | "D7"bc'>e | d3 | fa>d | ^cfe | "G"dg>B | 
+B2d | c/2d/2 e/2f/2 g/2a/2 | "G7".b.b.b | "C"d'c'>e | "D7"b2a | "G"ag>B | "D7"ed>F | "G"G3 | Gzz |] 
+X:8
+T:Walzer D&G (tinwhistle in D) solo
+T:wz06001 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+ABc | d3 | ede | f3 | .d'!>!c'>b | b2c | .d'!>!c'>b | b2d | ABc | d3 | 
+ede | f3 | a^gf | ea/2c'/2 e' | d'/2d'/2d'^g | aza || f/2a/2a2 | f/2b/2b2 | f/2a/2.d'.c' | d'>cc | 
+g/2a/2a2 | g/2b/2b2 | g/2a/2.c'.b | f>ad | f/2a/2a2 | f/2b/2b2 | f/2a/2.e'.c' | c'>bb | d'2c'/2d'/2 | d'2 c'/2b/2 | 
+b/2b/2bc | dzd |: [K:G] gfe | dgB | Bcd | eac | z/2c'/2c'b | a^ga |1 z/2c'/2ba | gzd :|2 
+z/2b/2ba | gfg || c/2d/2 e/2f/2 g/2a/2 | .b.b.b | bc'>e | d3 | fa>d | ^cfe | dg>B | 
+B2d | c/2d/2 e/2f/2 g/2a/2 | .b.b.b | d'c'>e | b2a | ag>B | ed>F | G3 | Gzz |]
+X:9
+T:Walzer D&G (tinwhistle in D) solo
+T:wz06001 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+A,B,C | D3 | EDE | F3 | .d!>!c>B | B2C | .d!>!c>B | B2D | A,B,C | D3 | 
+EDE | F3 | A^GF | EA/2c/2 e | d/2d/2d^G | AzA || F/2A/2A2 | F/2B/2B2 | F/2A/2.d.c | d>CC | 
+G/2A/2A2 | G/2B/2B2 | G/2A/2.c.B | F>AD | F/2A/2A2 | F/2B/2B2 | F/2A/2.e.c | c>BB | d2c/2d/2 | d2 c/2B/2 | 
+B/2B/2BC | DzD |: [K:Gmaj] GFE | DGB, | B,CD | EAC | z/2c/2cB | A^GA |1 z/2c/2BA | GzD :|2 
+z/2B/2BA | GFG || C/2D/2 E/2F/2 G/2A/2 | .B.B.B | Bc>E | D3 | FA>D | ^CFE | DG>B, | 
+B,2D | C/2D/2 E/2F/2 G/2A/2 | .B.B.B | dc>E | B2A | AG>"_=B,"B | ED>F | G3 | Gzz |]
+% July 18, 2016

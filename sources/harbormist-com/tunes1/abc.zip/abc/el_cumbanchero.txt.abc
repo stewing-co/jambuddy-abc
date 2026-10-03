@@ -1,0 +1,25 @@
+X: 1
+T: El Cumbanchero
+C: Rafael Hernandez
+M: 4/4 
+N: Q: 1/4=120
+L:1/8
+K: Em
+%%MIDI gchord fcfcfcfc
+B\
+|: "Em"eeee eeee | g3/2e/-e2-e3 B | "Em"eeee eeee | g3/2e/-e2-e3 e/f/ | 
+|  "Em"ge"D"fd "C"ec"Bm"dB | "Am"cA"G"BG "D/F#"AF"Em"GE | "B7"^D4-^DB/c/B/A/G/F/ |1 "Em"E6-EB :|2 "Em"E4 G2 F2 |
+|: "E7"E4 ^G2 B2 | d2 =f2 e2 d2 | "Am"c2 A2 "E7"B2 ^G2 | "Am"A6 G2 |
+|  "F#7"F4 ^A2 ^c2 | e2 g2 f2 e2 |\
+%%MIDI gchord bzzzbzzz
+"B7"^d2 z2 "Em"e2 z2 |\
+%%MIDI gchord fcfcfcfc
+ "B7"^d6-^dB ||
+|  "Em"eeee eeee | g3/2e/-e2-e3 B | "Em"eeee eeee | g3/2e/-e2-e3 e/f/ | 
+|  "Em"gefd ecdB | "Am"cABG AFGE | "B7"^D4-^DB/c/B/A/G/F/ | "Em"E6-EB |]
+
+%%textfont Helvetica 10
+%%begintext
+Cumbanchero is slang for "party animal". 
+R&O 2012, version 3
+%%endtext

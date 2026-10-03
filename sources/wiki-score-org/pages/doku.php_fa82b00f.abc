@@ -1,0 +1,16 @@
+X:3605
+T:Scena ultima [Aria Apolline]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 5 clef=treble name="Flauta I" sname="Fl.I"
+%%MIDI program 1 73
+%%staves [( 5 )]
+%---------------------------------------
+Z2 | [Q:"Allegretto"] Z29 || "_aria" [M:2/4] [Q:"Andantino"] c'/c'b/ | \
+%-----
+L:1/16
+(c'e')gg g(efg) | ac'c'4 b3/2c'1/2 | a2g3/2g1/2 g2f3/2e1/2 | ((3abc') c'3/2f1/2 f3/2(g1/4f1/4 e3/2)d1/2 | (3eag g2z4 | a8 | g2z2 b2c'2 | d'b d'2  d'3/2(e'1/2c'3/2)d'1/2 | b2z2 b2c'2 |  d'b d'2  (d'3/2e'1/2)(c'3/2d'1/2) | b2g2g2z2 | Z7| z3 g g2f3/2e1/2 | (3abc' c'3/2f1/2 (f3/2g1/4f1/4) e3/2d1/2 | (3eag g2z4 | Z | c'8 | c'2 c'3/2e'1/2 c'2z2 | Z5 |
+d'8 | d'4 c'3/2d'1/2b3/2c'1/2 | a2 z2 d'4 | d'4 (c'3/2d'1/2b3/2c'1/2) | ba a2 z4 | Z5 | b4 a4 | g2 z d' z4 | e'2 z c' z4 | d'2 z6 | z8 | g4 z4 | Z7 | g2 z2 b2c'2 | d'bd'2 (d'3/2e'1/2c'3/2d'1/2) | b2 z2 b2c'2 | d'bd'2 (d'3/2e'1/2c'3/2d'1/2) | b2 z6 |z8 | z3g g2f3/2e1/2 | ((3abc') c'3/2f1/2 f3/2(g1/4f1/4 e3/2)d1/2 | (3eag g2z4 | z8 | z3 g g2f3/2e1/2 | ((3abc') c'3/2f1/2 f3/2(g1/4f1/4 e3/2)d1/2 |  (3eag g2z4 | Z7 | c'8 | b8 | Z3 | g2d'2c'2b2 | c'2g2c'2z2 |]
+%---------------------------------------

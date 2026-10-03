@@ -1,0 +1,19 @@
+X:701
+T:Velum templi
+C:Frei Manuel Cardoso
+M:C|
+L:1/4
+K:F
+V: 1 clef=alto1 name="Superius" sname="S."
+%%MIDI program 1 1
+%%staves [ 1 ]
+%--------------------------------
+A3  A | A2- B2 | G A2 B | B2 z A | G A G2 | F2 B3/2 B/ | \
+w: Ve- lum | tem- | pli scis- sum | est et | om- nis ter- | ra tre- mu- | \
+%
+A2 z A | A A A2 | A A G G | A2 A2 | \
+w: it la- | tro de cru- | ce cla-ma-bat | di-cens
+%
+!segno!z c c2 | c B B c- | c B/A/ B A | A B B2- | G3/2 G/ F B- | B A2 A | G4 | !fine!G4 || x4 x4 x4 x3 || \
+w: Me-men- | to me-i Do- | ----mi- | ne dum ve- | - ne-ris in | ~ re-gnum | tu- | um
+%--------------------------------

@@ -1,0 +1,170 @@
+% I am real novice in celtic music and often I
+% feel I have heard this tune somewhere else.
+% As a little experiment I used my program,
+% abcmatch, to search for the bar A2AB AGEG
+% and all its transposes in my abc database.
+% Here are some of the hits I got. The results
+% seem to suggest this is a strong motif in
+% many tunes. The tunes Loch Leven Castle,
+% Humours of Tuamgreine, and Tuamgreine Castle
+% are very similar. Also the tunes Seeing to the
+% Sheep and Galway Farmer also have a strong
+% resemblance.
+
+
+% seymour.shlien@crc.ca
+
+
+X:37
+T:Loch Leven Castle
+T:Humours of Tuaimgreine
+R:Hornpipe
+O:Scotland
+O:Ireland
+M:4/4
+K:Am
+cB|\
+A2AB AGEG|AGAB cBcd|eaga gede|c2G2 G2cB|\
+A2AB AGEG|AGAB cBcd|
+eaga gede|c2A2 A2:|\
+eg|\
+a2ab ageg|agab a2ge|dega gede|c2G2 G2eg|
+a2ab ageg|agab a2ge|dega gede|c2A2 A2eg|\
+a2ab ageg|agab age^f|
+g^fga gede|c2G2 G2cB|\
+A2AB AGEG|AGAB cBcd|ea^ga =gede|c2A2A2|]
+
+
+X:149
+T:Jenny's Chickens
+R:Reel
+O:Scotland
+M:4/4
+K:BDor
+f2fg fe ce|fe fa eA ce|f2fg fe ce|fg af eA ce:|
+|:fB BA B2ce|fBB2 eA ce|fB BA B2ce\
+|1fg af eA ce:|2fg af eA cA|
+|:B2bB aB gB|B2af eA cA|B2bB aB gB\
+|1fg af eA cA:|2fg af eA ce|]
+
+
+X:165
+T:the New-Rigged Ship (reel)
+R:Reel
+O:Shetland
+M:4/4
+K:AMix
+a2ab ageg|a2ab agef|g2gg fgag|f2d2 d2dd|\
+a2ab ageg|a2ab agef|
+g2A2 efed|c2A2 A2::\
+ed|\
+cAcA B2ed|cAcA E2ed|cece B2ed|c2A2 A2::
+K:ADor
+AB|\
+cdec BcdB|ABAF GFE2|cdec BcdB|c2A2 A2:|
+
+
+X: 66
+T:Gin I Were Where The Gadie Rins
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+d/2B/2|"D"AA/2B/2 A/2B/2d/2e/2|ff fe/2d/2|"D"ff fe/2d/2|
+"G""Em"ee/2f/2 "A7"e/2d/2B/2d/2|"D"AA/2B/2 A/2B/2d/2e/2|"D"ff fe/2d/2|\
+"G"aA "A7"AB/2c/2|"G"d3::
+c/2B/2|"D"AF FA|"A7"GE EG|"D"FD FA|"G"dc/2d/2 "A"e/2d/2c/2B/2|"D"AF FA|\
+"A7"GE EG|"D"FD "A7"FA|"D"d3:|
+
+
+X: 11
+T:Cuckoo's Nest
+% Nottingham Music Database
+S:Song
+M:4/4
+L:1/8
+R:Hornpipe
+K:Dm
+"Dm"D2DE DCA,C|"Dm"DCDE F2"C7"FA|"F"c2cd A2GF|"C"ECCC C2"A7"FE|
+"Dm"D2DE DCA,C|"Dm"DCDE F2"C7"FG|"F"ABcA "A7"GFEF|"Dm"E2"Gm"D2 "Dm"D2||
+
+
+X: 28
+T:'Seeing' to his sheep
+M:4/4
+L:1/8
+C:Mark Kenneth, Scotland
+R:Reel
+H:Written 1994, named 1997 after an ill fated phone call when it was
+H:announced of a prominent Scottish businessman, 'Oh, He's not in the noo
+H:- he's up the glen seeing to his sheep'
+K:EMin
+|:B,D|"Emin"E2 EF EDB,D|EDEF G2 FE|"D"D2 DE DB,A,B,|AGFE D2 B,D|"C"E2 EF
+ EDB,D|EDEF G2 FE|"Bmin"DdFd AGFA|"Emin"G2E2E2:|
+|:"Emin"EeeE BBEB|GEBA G2 FE|"D"DddE ddFd|FEFG "Bmin"A2 GF|"Emin"EeeE BB
+EB|GEBA "A7"G2 FE|"D"DEFG "Bmin"AGFA|"Emin"G2E2E4:|
+
+
+X: 29
+T:Bonaparte's March
+T:Bonaparte Crossing the Rhine
+T:Napoleon Crossing the Rhine
+T:Listowel
+R:hornpipe
+Z:id:hn-hornpipe-25
+M:C|
+K:Ador
+EG|A2AB AGEG|cdec d2eg|aged cAGE|G2GA G2EG|
+A2AB AGEG|cdec d2eg|aged cABG|A2AG A2:|
+|:eg|abag e2ed|cdef g2eg|abag edcA|G2GA G2EG|
+A2AB AGEG|cdec d2eg|aged cABG|A2AG A2:|
+
+
+X: 92
+T:Humours of Tuamgreine, The
+T:Humours of Tuamgraney, The
+T:Tuam Greaney Hornpipe
+T:Toomgraney Castle
+R:hornpipe
+D:Toma/s & Seosamh O/ Ceannabha/in: O/ Aird go hAird
+Z:id:hn-hornpipe-88
+M:C|
+K:Ador
+cB|A2AB AGEG|AGAB cBcd|(3efg fa gedc|B2G2 G2cB|
+A2AB AGEG|AGAB cBcd|(3efg fa gedB|c2A2 A2:|
+(3efg|agab ageg|agab a2ge|dega gedc|B2G2 G2 (3efg|
+agab ageg|agab a2ge|dega gedB|c2A2 A2 (3efg|
+agab ageg|agab a2ge|dega gedc|B2G2 G2cB|
+A2AB AGEG|AGAB cBcd|(3efg fa gedB|c2A2 A2||
+
+
+X: 949
+T: Tomgraney Castle
+C: anon.
+B: Francis O'Neill: "The Dance Music of Ireland" (1907) no. 949
+R: Hornpipe
+Z: Transcribed by Frank Nordberg - http://www.musicaviva.com
+%http://www.musicaviva.com/oneill-1001
+M: C
+L: 1/8
+K: Ador
+(cB)|A2(AB) AGEG|AGA(B cB)cd|efg(a ge)dc|B2G2G2(cB)|A2(AB) AGEG|A(GAB) (cB)(cd)|(3(efg) (fa) gede|c2A2A2:|
+|:(eg)|a2(ab) age(g|ag)ab a2(ge)|d(ega) gedc|B2G2G2(cB)|A2(AB) AGEG|AGA(B cB)cd|(3(efg) (fa) gede|c2A2A2:|
+
+
+X: 63
+T:Galway Farmer
+R:Reel
+C:Steve Knightly
+S:Charles de Lint
+Z:Added by Alf Warnock
+M:4/4
+L:1/8
+K:G
+D|E2EF EDB,D|EDEF GFED|D2AB AFED|dA (3Bcd AFED|
+E2EF EDB,D|EDEF GFED|D2AB AFED|E4 E3:|
+D|E2BE cEBE|E2BE cEBE|E2cE dEcE|E2cE dEcE|
+d3B AFED|AGAB AFED|B2 (3BBB AGFG|E4 E3:|
+
+

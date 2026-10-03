@@ -1,0 +1,29 @@
+X:523
+T:Eumene, e Detti, poi Emirena
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 23 clef=tenor name="Detti" sname="De."
+%%MIDI program 1 1
+%%staves [[ 23 ]]
+%-------------------------------------------------------------------
+"_NB: this should be Demetrio (!), cf. fol. 5 of the libbretto" [L:1/8] Z2 | \
+"_[2/4: sic]" z4 | Z | z C C C F, z2 C/ D/ | _B,2 _B, B,/ B,/ | A, A, z \
+w: E-mi-re-na?.. A che vien?.. (ah mi con-fon-de
+E, G, G, G, A, | F, F, z2 A, A, z/ D/ B,/ A,/ | ^G, G, z \
+w: l'inas-pet-ta-to ar-ri-vo!) Di-gli, ch'or non-- poss' io...
+G, B,2 z2 | C A, z6 | Z2 | \
+w: ah no.. ven-ga.. mi per-do ...
+z D D/  E/ D/ E/ B,/ B,/ G,/ G,/ G, G,/ A,/ | B, B, D D/ D/ C C _B, B,/ C/ | A,2 F D/ D/ =C C  z \
+w: (Nell' in-ti-mo del pet-to o nuo-vo affet-to mio ri-man-ti ac-col-to, ne mi tra-dir col com-pa-rir-mi
+C | C G, z2 z4 | Z7 | \
+w: in vol-to.)
+z4 _E E _B, _A,/ B,/ | G,2 z2 z2 F,/ F,/ F,/ G,/ | A,/ A,/ A,/ A,/  A,  A,/ B,/ C/ C/ =E/ E/ E// E// C// A,// "^NB: error in ms" B, | B, B, z/ \
+w: (Nu-mi, che dir sa-pro!) Be-la E-mi-re-na io non cre-dei giam-mai... Il pe-ri-glio-so ma-re frap-pos-to...
+C/ D/ _E/  D D z \
+w: Il mol-le ses-so...
+D | _B, B, G, G,/ A,/ =B, B, B, A,/ G,/ | C/ C/ C C B,/ C/ | _A, A, A, "^NB: error in ms (guessing)" G,/ F,/ =B,2> C2 | C G, z2 z4 | \
+w:  oh cie-li! Co-s\`i mi giun-gi i-nas-pet-ta-ta, ch'i-o non ti pos-so spie-gar il pen-sier mi-o.
+Z9 |] \
+%-------------------------------------------------------------------

@@ -1,0 +1,71 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Ein s\"usser Traum (Walzer)  GDC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.317 (wz06049) orig. G,D,C-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"Bcd | d>cB | "D7"A3 | D3 | "Am"cde | "D7"e>dc | ("G"B3 | B)zz | dgb | b>ag | 
+("Am"f3 | e)zz | "D7"dfe |1 ced | ("G"B3 | B)DD :|2 "D7"cAd | "G"G3 | GzA || [K:D] "D"A>df | d>fa | 
+b/b/ba | "A7"g3 | g/g/gf | e3 | e/f/ e/d/ c/B/ | "tr""D"BAA | A>df | d>fa | "D7"b/b/ba | "G"d'>b g/b/ | 
+"D"aAf | "A7"f2e | ("D"d3 | d)zd/=c/ |] [K:G] "G"BzB | B>cd | ("D7"A3 | A)zA/f/ | "tr"f=f^f | fga | 
+("G"d3 | d)zd/b/ | "A7"b2a | eze/a/ | "G/D"a2g | dzB/g/ | "D7"f2e | cf>e | ("G"d3 | B)zD/G/ | BzB | 
+B>cd | ("D7"A3 | A)zA/f/ | "tr"f=f^f | fga | ("G"d3 | d)zd/b/ | (d3 | d)zd/b/ | b3 | "E7"e2b | "Am"c'3 | c'/b/ a/g/ f/e/ | 
+"D7"dfe | d/A/cB | ("G"G3 | "C"G)E/G/ c/e/ || [K:C] "C"g2e | zE/G/ c/e/ | "G7"ffB | zG/B/ d/f/ | a2g | def | 
+("C"e3 | e)G/c/ e/g/ | "F"c'2a | zc'>a | "C"gge | zG/c/ e/g/ | "Dm"f2A | "G7"B2d | ("C"c3 | c)zz |] 
+W:Ein s\"usser Traum (a sweet dream)
+X:2
+T:Ein s\"usser Traum (Walzer)  CGF 7-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"EFG | G>FE | "G7"D3 | G,3 | "Dm"FGA | "G7"A>GF | ("C"E3 | E)zz | Gce | e>dc | 
+("Dm"B3 | A)zz | "G7"GBA |1 FAG | ("C"E3 | E)G,G, :|2 "G7"FDG | "C"C3 | CzD || [K:G] "G"D>GB | G>Bd | 
+e/2e/2ed | "D7"c3 | c/2c/2cB | A3 | A/2B/2 A/2G/2 F/2E/2 | "tr""G"EDD | D>GB | G>Bd | "G7"e/2e/2ed | "C"g>e c/2e/2 | 
+"G"dDB | "D7"B2A | ("G"G3 | G)zG/2=F/2 |] [K:C] "C"EzE | E>FG | ("G7"D3 | D)zD/2B/2 | "tr"B_B=B | Bcd | 
+("C"G3 | G)zG/2e/2 | "D7"e2d | AzA/2d/2 | "C/G"d2c | GzE/2c/2 | "G7"B2A | FB>A | ("C"G3 | E)zG,/2C/2 | EzE | 
+E>FG | ("G7"D3 | D)zD/2B/2 | "tr"B_B=B | Bcd | ("C"G3 | G)zG/2e/2 | (G3 | G)zG/2e/2 | e3 | "A7"A2e | "Dm"f3 | f/2e/2 d/2c/2 B/2A/2 | 
+"G7"GBA | G/2D/2FE | ("C"C3 | "F"C)A,/2C/2 F/2A/2 || [K:F] "F"c2A | zA,/2C/2 F/2A/2 | "C7"BBE | zC/2E/2 G/2B/2 | d2c | GAB | 
+("F"A3 | A)C/2F/2 A/2c/2 | "Bb"f2d | zf>d | "F"ccA | zC/2F/2 A/2c/2 | "Gm"B2D | "C7"E2G | ("F"F3 | F)zz |] 
+% wz06049
+X:3
+T:Ein s\"usser Traum (Walzer)  CGF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"EFG | G>FE | "G7"D3 | G,3 | "Dm"FGA | "G7"A>GF | ("C"E3 | E)zz | Gce | e>dc | 
+("Dm"B3 | A)zz | "G7"GBA |1 FAG | ("C"E3 | E)G,G, :|2 "G7"FDG | "C"C3 | CzD || [K:G] "G"D>GB | G>Bd | 
+e/2e/2ed | "D7"c3 | c/2c/2cB | A3 | A/2B/2 A/2G/2 "_#"F/2E/2 | "tr""G"EDD | D>GB | G>Bd | "G7"e/2e/2ed | "C"g>e c/2e/2 | 
+"G"dDB | "D7"B2A | ("G"G3 | G)zG/2=F/2 |] [K:C] "C"EzE | E>FG | ("G7"D3 | D)zD/2B/2 | "tr"B_B=B | Bcd | 
+("C"G3 | G)zG/2e/2 | "D7"e2d | AzA/2d/2 | "C/G"d2c | GzE/2c/2 | "G7"B2A | FB>A | ("C"G3 | E)zG,/2C/2 | EzE | 
+E>FG | ("G7"D3 | D)zD/2B/2 | "tr"B_B=B | Bcd | ("C"G3 | G)zG/2e/2 | (G3 | G)zG/2e/2 | e3 | "A7"A2e | "Dm"f3 | f/2e/2 d/2c/2 B/2A/2 | 
+"G7"GBA | G/2D/2FE | ("C"C3 | "F"C)A,/2C/2 F/2A/2 || [K:F] "F"c2A | zA,/2C/2 F/2A/2 | "C7"BBE | zC/2E/2 G/2B/2 | d2c | GAB | 
+("F"A3 | A)C/2F/2 A/2c/2 | "Bb"f2d | zf>d | "F"ccA | zC/2F/2 A/2c/2 | "Gm"B2D | "C7"E2G | ("F"F3 | F)zz |] 
+% wz06049
+X:4
+T:Ein s\"usser Traum (Walzer) GD&C (tinwhistle in D) solo
+T:wz06049 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=12
+B"_c"cd | d>cB | A3 | D3 | "_c"cde | e>d"_c"c | (B3 | B)zz | dgb | b>ag | 
+(f3 | e)zz | dfe |1 "_c"ced | (B3 | B)DD :|2 "_c"cAd | G3 | GzA || [K:D] A>df | d>fa | 
+b/b/ba | g3 | g/g/gf | e3 | e/f/ e/d/ c/B/ | TBAA | A>df | d>fa | b/b/ba | d'>b g/b/ | 
+aAf | f2e | (d3 | d)zd/=c/ |] [K:G] BzB | B>"_c"cd | (A3 | A)zA/f/ | T"_#"f=f"_#"^f | fga | 
+(d3 | d)zd/b/ | b2a | eze/a/ | a2g | dzB/g/ | f2e | "_c"cf>e | (d3 | B)zD/G/ | BzB | 
+B>"_c"cd | (A3 | A)zA/f/ | T"_#"f=f"_#"^f | fga | (d3 | d)zd/b/ | (d3 | d)zd/b/ | b3 | e2b | "_c"c'3 | c'/b/ a/g/ f/e/ | 
+dfe | d/A/"_#"cB | (G3 | G)E/G/ "_#"c/e/ || [K:C] g2e | zE/G/ c/e/ | "_f"ffB | zG/B/ d/"_f"f/ | a2g | de"_"f | 
+(e3 | e)G/"_#"c/ e/g/ | "_#"c'2a | z"_#"c'>a | gge | zG/c/ e/g/ | "_f"f2A | B2d | ("_#"c3 | c)zz |]
+% July 13, 2016
+

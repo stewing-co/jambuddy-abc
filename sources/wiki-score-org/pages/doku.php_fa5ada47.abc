@@ -1,0 +1,17 @@
+X:303
+T:Minuetto
+C:Davide Perez (1711-1778)
+M:3/4
+L:1/4
+K:D
+V: 3 clef=treble name="Flauto Primo" sname="Fl.1"
+%%MIDI program 1 73
+%%staves [( 3 )]
+%-------
+d/>f/ f/>e/ g/>f/ | b/>a/ a2 | a/>d'/ d'/>a/ g/>f/ | e/>d/ d2 | [B]2d | A2d | e/>f/ g/>e/ f/>d/ | \
+c B/>c/ A | A c/>B/ d/>c/ | A c/>B/ d/>c/ | (3B/c/d/ cB | A2z ::\
+a2 c/<e/ | a2 c/<e/ | a g/<b/ ^d/<f/ | eG2 | g2 c/<e/ | g2 c/<e/ | g f/<a/ c/<e/ | dD2 | \
+B2d | A2d | e/<f/ g/<e/ f/<d/ | c B/>c/ A | d/<f/ f/<e/ g/<f/ | b/<a/ a2 | a/<d'/ d'/<a/ g/<f/ | eA2 | \
+B f/<e/ g/<f/ | d a/<g/ b/<a/ | (3e/f/g/ d[c] | dD2 :| \
+[Q:"Presto"] [M:C|] fz  D/F/A/d/ | f f/a/ f f/a/ | f/a/ f/a/ f !fermata!z |]  \
+%---------------

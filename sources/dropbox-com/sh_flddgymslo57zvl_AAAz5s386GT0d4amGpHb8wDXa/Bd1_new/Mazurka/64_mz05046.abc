@@ -1,0 +1,52 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Mazurka CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.326 (mz05046) orig. C,G,F-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"g>e a>g e>c | "G7"B2 {/g}f>ef2 | b>a g>f e>d | "C"c2 {/a}g>^fg2 | g>e a>g e>c | "G7"B>g f>ef2 | b>a g>f e>d | 
+"C"c2c2z2 :: [K:G] "D7"dff3e | "G"dg g3g | "D7"a>g f>e d>c | "G"B>e d>^cd2 | "D7"d>ff3e | "G"db b3b | 
+"D7"c'a fd ef |1 "G"g2f2e2 :|2 "G"g2g2"_>Teil A"z2 |: [K:F] "F"a2g2f2 | c4 ((3cde) | f2e2f2 | 
+"C7"^fg g2c2 | b2a2g2 | c4 (c/d/e/f/) | "Bb"g2f2d2 | "F"dc cAF2 | a2g2f2 | c4 (=B/c/d/e/) | 
+f2e2f2 | "Gm/Bb"gdd4 | b>ab2g>b | "F"a>^g a>c f>"_ ="a | "C7"g>^f g>c e>g |1 "F"fc =Bc dc :|2 "F"f2f2z2 |] 
+
+X:2
+T: Mazurka CGF chords Parts
+%%partsbox
+P:ABAC
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+[P:A] "C"g>e a>g e>c | "G7"B2 {/g}f>ef2 | b>a g>f e>d | "C"c2 {/a}g>^fg2 | g>e a>g e>c | "G7"B>g f>ef2 | b>a g>f e>d | 
+"C"c2c2z2 :: [P:B] [K:G] "D7"dff3e | "G"dg g3g | "D7"a>g f>e d>c | "G"B>e d>^cd2 | "D7"d>ff3e | "G"db b3b | 
+"D7"c'a fd ef |1 "G"g2f2e2 :|2 "G"g2g2"_>Teil A"z2 |: [P:C] [K:F] "F"a2g2f2 | c4 ((3cde) | f2e2f2 | 
+"C7"^fg g2c2 | b2a2g2 | c4 (c/d/e/f/) | "Bb"g2f2d2 | "F"dc cAF2 | a2g2f2 | c4 (=B/c/d/e/) | 
+f2e2f2 | "Gm/Bb"gdd4 | b>ab2g>b | "F"a>^g a>c f>a | "C7"g>^f g>c e>g |1 "F"fc =Bc dc :|2 "F"f2f2z2 |] 
+
+X:3
+T:Mazurka EbBbAb (5letras) cf. CGF
+M:3/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+"Eb"b>g c'>b g>e | "Bb7"d2 {/b}a>ga2 | d'>c' b>a g>f | "Eb"e2 {/c'}b>=ab2 | b>g c'>b g>e | "Bb7"d>b a>ga2 | d'>c' b>a g>f | 
+"Eb"e2e2z2 :: [K:Bbmaj] "F7"faa3g | "Bb"fb b3b | "F7"c'>b a>g f>e | "Bb"d>g f>=ef2 | "F7"f>aa3g | "Bb"fd' d'3d' | 
+"F7"e'c' af ga |1 "Bb"b2a2g2 :|2 "Bb"b2b2"_>Teil A"z2 |: [K:Abmaj] "Ab"c'2b2a2 | e4 ((3efg) | a2g2a2 | 
+"Eb7"=ab b2e2 | d'2c'2b2 | e4 (e/2f/2g/2a/2) | "Db"b2a2f2 | "Ab"fe ecA2 | c'2b2a2 | e4 (=d/2e/2f/2g/2) | 
+a2g2a2 | "Bbm/Db"bff4 | d'>c'd'2b>d' | "Ab"c'>=b c'>e a>"_ ="c' | "Eb7"b>=a b>e g>b |1 "Ab"ae =de fe :|2 "Ab"a2a2z2 |] 
+
+X:4
+T:Mazurka EbBbAb (5letras) cf. CGF Parts
+%%partsbox
+P:ABAC
+M:3/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+[P:A] "Eb"b>g c'>b g>e | "Bb7"d2 {/b}a>ga2 | d'>c' b>a g>f | "Eb"e2 {/c'}b>=ab2 | b>g c'>b g>e | "Bb7"d>b a>ga2 | d'>c' b>a g>f | 
+"Eb"e2e2z2 :: [P:B] [K:Bbmaj] "F7"faa3g | "Bb"fb b3b | "F7"c'>b a>g f>e | "Bb"d>g f>=ef2 | "F7"f>aa3g | "Bb"fd' d'3d' | 
+"F7"e'c' af ga |1 "Bb"b2a2g2 :|2 "Bb"b2b2"_>Teil A"z2 |: [P:C] [K:Abmaj] "Ab"c'2b2a2 | e4 ((3efg) | a2g2a2 | 
+"Eb7"=ab b2e2 | d'2c'2b2 | e4 (e/2f/2g/2a/2) | "Db"b2a2f2 | "Ab"fe ecA2 | c'2b2a2 | e4 (=d/2e/2f/2g/2) | 
+a2g2a2 | "Bbm/Db"bff4 | d'>c'd'2b>d' | "Ab"c'>=b c'>e a>c' | "Eb7"b>=a b>e g>b |1 "Ab"ae =de fe :|2 "Ab"a2a2z2 |] 

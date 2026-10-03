@@ -1,0 +1,62 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XXIV. Faine would I wed a faire yong man
+T:Cantus
+C:Thomas Campion (1567-1620)
+B:The Third and Fourth booke of Ayres
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/4
+K:G min
+|: G/ A/  B B B | A/ B/ c c c | B/ c/ d/ e/ d c/ B/ | A2 A2 :|
+w:Faine * would I wed a * faire yong man, that * day and night could * please mee:
+w:When * my mind or bo- * dy grie- ved, that * had the powre to * ease mee.
+|: d/ e/ f B/ c/ d | c/ B/ A/ G/ ^F/ E/ D | D/ E/ F/ G/ A/ B/ c/ B/ | A > G G2 :|
+w:Maids * are full of * lon- * ging * thoughts * that breed * a * bloud- * lesse * sicke- * nesse:
+w:And * that oft * I heare * men * say, * is one- * ly * cur'd * by * quick- * nesse.
+|: d > d B G |c > c A F | B/ c/ d G/ A/ B/ c/ | A2 A2 :|
+w:Oft I have beene woo'd and prai'd,  but ne- * ver could * be * mo- ved:
+w:Ma- ny for a day or so I have * most dear- * ly * lov- ed;
+|:d B d > d | c > B A D | F > G A B | A2 G2 :|
+w:But this fool- ish mind of mine straight loaths the thing re solv- ed.
+w:If to love be sinne in mee, that sinne is soone ab- solv- ed.
+|: G/ A/ B/ c/ d d | F/ G/ A/ B/ "(1)"c > c | d/ c/ "(2)"B/ A/ G/ B/ A/ G/ | ^F2 D2 :|
+N:(1) Original is a dotted half.
+N:(2) Original is a quarter note.
+w: Sure * I * thinke I shall * at * last flye to * some * ho- * ly * Or- der; 
+w: when * I * once am set- * led * there then can * I * flye * no * far- ther:
+|: f/ e/ d/ c/ d/ c/ B | e/ d/ c/ B/ A/ G/ A | B/ c/ d/ e/ c/ d/ B/ c/ | A2 HG2 :|
+w:Yet * I * would * not dye * a * maid * be cause * I * had * a * mo- ther.
+w:As * I * was * by one * brought * forth * I would * bring * forth * an- * o- ther.
+
+X:2
+T:XXIV. Faine would I wed a faire yong man
+T:Bassus.
+C:Thomas Campion (1567-1620)
+B:The Third and Fourth booke of Ayres
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+K:G min bass
+N:(3) Bass repeats three times 
+|:g g f f g G d d :|
+|: B B c d B A/ G/ d G :|
+
+

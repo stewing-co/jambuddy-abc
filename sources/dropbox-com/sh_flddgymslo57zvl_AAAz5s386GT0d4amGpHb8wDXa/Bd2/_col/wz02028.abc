@@ -1,0 +1,68 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Herbstfreuden (Walzer)  CG  (ABA)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.278 (wz02028) orig. C,G
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T:Überliefert vermutlich durch Joggi Stocker (1889-1956)
+%%MIDI program 21
+%%partsbox
+P:ABA
+R:walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+[P:A] E/F/ |"C"G2A | E2G | (c3 | c2)c/c/ | c>B A/G/ | AGE | "Dm"G>FF | F2F/F/ | E2F | 
+A2f | (f3 | f2)f/f/ | "G7"fed | d>AB | "C"c>EA | G2G/G/ | E2G | A2G | (e3 | 
+e2)e/e/ | efd | "D7"d>Ad | ("G"d3 | d)zd/d/ | "G7"e2d | A2B | "C"d2c | G2c | "G7"B>AG | 
+f2B | "C"c/B/ c/d/ e/d/ | "_Fine"c2 [P:B] d/d/ |]  [K:G] "D7"d>cA | Fdf | "G"a>gB | d2d | "D7"f>ed | c>Bc | 
+"G"e>d ^c/e/ | d2d | "D7"c>AF | dfa | "G"g2B | d2d | "C"e2c | "D7"f2d | "G"g/f/ g/a/ b/a/ | "_>Teil A"g3 |] 
+% wz02028 (H 071/TN 18)
+
+X:2
+T:Herbstfreuden (Walzer)  CG  (wz02028)
+%%MIDI program 21
+R:walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+E/F/ |"C"G2A | E2G | (c3 | c2)c/c/ | c>B A/G/ | AGE | "Dm"G>FF | F2F/F/ | E2F | 
+A2f | (f3 | f2)f/f/ | "G7"fed | d>AB | "C"c>EA | G2G/G/ | E2G | A2G | (e3 | 
+e2)e/e/ | efd | "D7"d>Ad | ("G"d3 | d)zd/d/ | "G7"e2d | A2B | "C"d2c | G2c | "G7"B>AG | 
+f2B | "C"c/B/ c/d/ e/d/ | "_Fine"c2d/d/ |] [K:G] "D7"d>cA | Fdf | "G"a>gB | d2d | "D7"f>ed | c>Bc | 
+"G"e>d ^c/e/ | d2d | "D7"c>AF | dfa | "G"g2B | d2d | "C"e2c | "D7"f2d | "G"g/f/ g/a/ b/a/ | "_>Teil A"g3 |] 
+% wz02028
+
+X:3
+T:Herbstfreuden (Walzer)  FC 5+  (wz02028)
+%%MIDI program 21
+R:walzer
+M:3/4
+L:1/4
+K:Fmaj%%MIDI gchordon
+A/2B/2 |"F"c2d | A2c | (f3 | f2)f/2f/2 | f>e d/2c/2 | dcA | "Gm"c>BB | B2B/2B/2 | A2B | 
+d2b | (b3 | b2)b/2b/2 | "C7"bag | g>de | "F"f>Ad | c2c/2c/2 | A2c | d2c | (a3 | 
+a2)a/2a/2 | abg | "G7"g>dg | ("C"g3 | g)zg/2g/2 | "C7"a2g | d2e | "F"g2f | c2f | "C7"e>dc | 
+b2e | "F"f/2e/2 f/2g/2 a/2g/2 | f2g/2"_Fine"g/2 |] [K:Cmaj] "G7"g>fd | Bgb | "C"d'>c'e | g2g | "G7"b>ag | f>ef | 
+"C"a>g ^f/2a/2 | g2g | "G7"f>dB | gbd' | "C"c'2e | g2g | "F"a2f | "G7"b2g | "C"c'/2b/2 c'/2d'/2 e'/2d'/2 | "_>Teil A"c'3 |] 
+% wz02028
+
+X:4
+T:Herbstfreuden (Walzer) D&G (tinwhistle in D) var. solo
+T:wz02028 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:walzer
+M:3/4
+L:1/4
+K:D transpose=12
+F/2G/2 |A2B | F2A | (d3 | d2)d/2d/2 | d>c B/2A/2 | BAF | A>GG | G2G/2G/2 | F2G | 
+B2g | (g3 | g2)g/2g/2 | gfe | e>Bc | d>FB | A2A/2A/2 | F2A | B2A | (f3 | 
+f2)f/2f/2 | fge | e>Be | (e3 | e)ze/2e/2 | f2e | B2c | e2d | A2d | c>BA | 
+g2c | d/2c/2 d/2e/2 f/2e/2 | "_Fine"d2e/2e/2 |]  [K:G] d>cA | Fdf | a>gB | d2d | f>ed | c>Bc | 
+e>d ^c/e/ | d2d | c>AF | dfa | g2B | d2d | e2c | f2d | g/f/ g/a/ b/a/ | "_>Teil A"g3 |]
+
+% wz02028
+% Sep 27, 2016

@@ -1,0 +1,21 @@
+X:1401
+T:N.14 Brinde
+C:Fonseca, Eduardo da (1863-1938)
+M:2/4
+L:1/4
+K:Bb
+V: 1 clef=treble name="Flauta" sname="Fl."
+%%MIDI program 1 73
+%%staves [ 1 ]
+%-------------------
+[Q:"Marcial"]
+f/=e/f/g/ | a/b/c'/d'/ | e'/z/ (a|b/)z/ z | z2 !segno! |: Z8 | \
+Z4 | a/(c'/ g/a/) | (b=e| g f-) | (f/f'//f'// f'/f'/) || \
+"^1" !f! !>!e'/!>!d'/ !>!c'- | "^2" c'/b/a/g/ | "^3" (g/f/) f- | "^4" ff | \
+"^5" gg- | "^6" g/a/b/c'/ | "^7" d'd'- | "^8" d'd' | "^9" c'b | "^10" a/c'/b/g/| "^11" bf-|\
+fz| Z3 | z/f//f// !/!f | "^1"!f! !>!e'/!>!d'/ !>!c'- | "^2" c'/b/a/g/ | "^3" (g/f/) f- | "^4" ff | \
+"^5" gg- | "^6" g/a/b/c'/ | "^7" d'd'- | "^8" d'd' | "^9" c'b | "^10" a/c'/b/g/| "^11" bf-| \
+f/z/f|gg|ag/f/|!fermata![c'2] !coda!|[1 b/z/z | z2 :|2 \
+b/z/z | !f!f/=e/f/g/ || \
+a/b/c'/d'/ | e'/z/ a | b/z/ b/z/ | !ff!!fermata!d2- | d/z/ z |] \
+%-------------------

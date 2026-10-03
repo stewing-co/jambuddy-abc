@@ -1,0 +1,170 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T: III. Some men desire spouses.
+O: AYERES OR Phantasticke Spirites for three voices
+H: taken fromm the Performers' Facsimiles print of the London, 1608 edition
+C: Thomas Weelkes
+%%gchordfont Helvetica 12 box
+K:C
+T: Cantus
+N: original clef: treble
+M:C
+L:1/4
+%1
+|: z2 z d e > d c B A2 A d d d e e
+w:Some men de- sire _ spou- ses, that com of no- ble
+w:1
+%2
+  ^f2   f   d   g >  f     e    d  c  > c B    e > e
+w:hous- es, and some would have in mar- i- age la- dies
+w:2
+%3
+  d c B A > A B d d/ c/ d/ e/ d d e/ d/ e/ f/ g > f e > d c B A G A2 B3 :|
+w:of court- ly car- i- age, fa la _ _ 
+w:3
+%4
+|: d g > f e3 d/ c/ B2 \
+w:but few de- sire as _ I 
+w:4
+M:3/4
+L: 1/4
+  ^c2 A   d >   c  B/    B/  e > d c/ c/ f > e d/
+w:do, the maid- en head, the maid- en- head the Maid- en- head
+%5
+ d/ g > f e d/ d/ e2 ^f2 d g > f d e > d B c > B A B2 d B > c d G > A B
+w:the Maid- en- head of a wi- dow, fa la la ...
+w:5
+%6
+E2 ^F G2 ^F \
+w:La _ la _ 
+w:6
+M:C
+[1 G3 :| [2 HG4 ||
+w:la. la.
+W:2. Sme thinke faire youth will cherish, 
+W:Strength that begins to perish,
+W:Ile have no colts to taming,
+W:Let me be young'st at gaming.
+W:
+W:Ile get ore, ile go nigh too,
+W:The maidenhead of a widdow.
+
+X:2
+T: III. Some men desire spouses.
+O: AYERES OR Phantasticke Spirites for three voices
+H: taken fromm the Performers' Facsimiles print of the London, 1608 edition
+C: Thomas Weelkes
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+K:C
+T: Tenor
+N: original clef: treble
+L:1/4
+%1
+|: z2 z B c > B A G ^F2 F A B A B ^c
+w:Some men de- sire _ spou- ses, that com of no- ble
+w:1
+%2
+  d2    d   B   e      d    c"(1)"B  A/ G/ A/ A/  G   c > c
+w:hous- es, and some would have in mar- _ _ i-   age la- dies
+w:2
+N: (1) original has B3 (dotted quarter)
+%3
+B A G2 ^F G    B B/ A/ B/ c/ B B c/ B/ c/ d/ e > d c > B A G ^F G2 F G3 :|
+w:of courtly car- i- age, fa la _ _ 
+w:3
+%4
+|: B e > d c3 B/ A/ ^G2
+w:but few de- sire as _ I 
+w:4
+M:3/4
+L: 1/4
+A2 A B > A G/ G/ c > B A/ A/ d > B
+w:do, the maid- en head, the maid- en- head the Maid- en- head
+%5
+B e > d ^c d> d ^c d d B G> A B E > F G A > G ^F G > A B/ c/ d >e
+w:the Maid- en- head eoof a wi- dow, fa la la ...
+w:5
+%6
+^f g > f d e > d c B A2 
+w:La _ la _ 
+w:6
+M:C
+[1 B3 :| [2 HB4 ||
+w:la. la.
+W:2. Sme thinke faire youth will cherish, 
+W:Strength that begins to perish,
+W:Ile have no colts to taming,
+W:Let me be young'st at gaming.
+W:
+W:Ile get ore, ile go nigh too,
+W:The maidenhead of a widdow.
+
+
+X:3
+T: III. Some men desire spouses.
+O: AYERES OR Phantasticke Spirites for three voices
+H: taken fromm the Performers' Facsimiles print of the London, 1608 edition
+C: Thomas Weelkes
+%%gchordfont Helvetica 12 box
+%%MIDI transpose -12
+K:C
+T: Bassus
+N: original clef: C on second line, so this is a tenor clef, sounding an octave down.
+M:C
+L:1/4
+%1
+|: z2 z g c > d f g d2 d d g ^f g a
+w:Some men de- sire _ spou- ses, that com of no- ble
+w:1
+%2
+d2 d g c B c G A/ B/ c/ A/ e c > c
+w:hous- es, and some would have in mar- _ _ i- age la- dies
+w:2
+%3
+  G   A     B/  c/    d > d   G  g g3 G c3 B c G A B/ c/ d e d2 G3 :| |: g e
+w:of court- ly ca- riage, fa la _ _  :|: but few
+w:3
+%4
+   e   a3/2 g1/4 f1/4 e4
+w: de- sire as _ I
+w:4
+M:3/4
+L: 1/4
+   A   A   d > c    B/    B/  e > d     c/ c/    f > e     d/
+w: do, the maid- en head, the maid- en- head the Maid- en- head
+%5
+  d/  g > f e  a  _b a2 d2 g e > f g c > d e A2 d G2 G g > f d
+w:the Maid- en- head of a wi- dow, fa la la ...
+w:5
+%6
+e > d B c > B A G d2
+w:La _ la _ 
+w:6
+M:C
+[1 G3 :| [2 HB4 ||
+w:la. la.
+W:2. Sme thinke faire youth will cherish, 
+W:Strength that begins to perish,
+W:Ile have no colts to taming,
+W:Let me be young'st at gaming.
+W:
+W:Ile get ore, ile go nigh too,
+W:The maidenhead of a widdow.
+

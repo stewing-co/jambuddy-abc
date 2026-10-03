@@ -1,0 +1,74 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Sch\"on R\"oschen (nach G. Linder) Mazurka  FCBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.312 (mz06029) orig. F,C,Bb-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+P"F"a2g2f2 | Pe2d2c2 | ("C7"Bc) .e.g b2 | "F"Ac .f.ac'2 | Pa2g2f2 |  P"C7"e2d2c2 | (Bc) eg c'e |1 "F"f2f2z2 :|2 "F"f2f2ef || [K:C]  
+"C"ga ge ce | g2z2c'>b | "F"c'2 f>a c'>a | "C"a2g2 ef | (ga) ge ce | g2z2a>g | "G7"g2 f>B e>d | "C"c2z2c>c || [K:F] "F"c>d  e2f2 | 
+"C7"g2z2e>e | e>fg2a2 | b2z2ab | a2gc ga | "F"g2fc fg | "C7"f2eG Be | "F"d2c2 ab | "C7"a2 gc ga | "F"g2 fc fg | 
+"C7"f2ec ag | "F"f2f2 d>f || [K:Bb] "Bb"b2ag fe | d4d>f | b2c'b a>b | "F7"a4 a>b | c'2c'>b a>g | f4 c'>b | a4 d'>c' | 
+"Bb"b4 d>f | b2 ag fe | d4 d>f | b2 c'>b a>b | "Eb"g4g>a | b2g>e g>b | "Bb"f2 d>d f>b | "F7"a>g d>f e>c | "Bb"B2B2z2 |] 
+W:
+W: R\"oschen / R\"os'chen / R\"os-chen = diminutive of die Rose (the rose)
+% mz06029
+X:2
+T:Sch\"on R\"oschen (nach G. Linder) Mazurka  CGF 5-
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C%%MIDI gchordon
+P"C"e2d2c2 | PB2A2G2 | ("G7"FG) .B.d f2 | "C"EG .c.eg2 | Pe2d2c2 | P"G7"B2A2G2 | (FG) Bd gB |1 "C"c2c2z2 :|2 "C"c2c2Bc || [K:G] 
+"G"de dB GB | d2z2g>f | "C"g2 c>e g>e | "G"e2d2 Bc | (de) dB GB | d2z2e>d | "D7"d2 c>F B>A | "G"G2z2G>G || [K:C] "C"G>A B2c2 | 
+"G7"d2z2B>B | B>cd2e2 | f2z2ef | e2dG de | "C"d2cG cd | "G7"c2BD FB | "C"A2G2 ef | "G7"e2 dG de | "C"d2 cG cd | 
+"G7"c2BG ed | "C"c2c2 A>c || [K:F] "F"f2ed cB | A4A>c | f2gf e>f | "C7"e4 e>f | g2g>f e>d | c4 g>f | e4 a>g | 
+"F"f4 A>c | f2 ed cB | A4 A>c | f2 g>f e>f | "Bb"d4d>e | f2d>B d>f | "F"c2 A>A c>f | "C7"e>d A>c B>G | "F"F2F2z2 |] 
+% mz06029
+X:3
+T:Sch\"on R\"oschen (nach G. Linder) Mazurka  CGF (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+P"C"e2d2c2 | PB2A2G2 | ("G7"FG) .B.d f2 | "C"EG .c.eg2 | Pe2d2c2 | P"G7"B2A2G2 | (FG) Bd gB |1 "C"c2c2z2 :|2 "C"c2c2Bc || [K:G] 
+"G"de dB GB | d2z2g>"_#"f | "C"g2 c>e g>e | "G"e2d2 Bc | (de) dB GB | d2z2e>d | "D7"d2 c>F B>A | "G"G2z2G>G || [K:C] "C"G>A B2c2 | 
+"G7"d2z2B>B | B>cd2e2 | f2z2ef | e2dG de | "C"d2cG cd | "G7"c2BD FB | "C"A2G2 ef | "G7"e2 dG de | "C"d2 cG cd | 
+"G7"c2BG ed | "C"c2c2 A>c || [K:F] "F"f2ed cB | A4A>c | f2gf e>f | "C7"e4 e>f | g2g>f e>d | c4 g>f | e4 a>g | 
+"F"f4 A>c | f2 ed cB | A4 A>c | f2 g>f e>f | "Bb"d4d>e | f2d>B d>f | "F"c2 A>A c>f | "C7"e>d A>c B>G | "F"F2F2z2 |] 
+% mz06029
+X:4
+T:Sch\"on R\"oschen (Mazurka) DA&G (tinwhistle in D)
+T:mz06029 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+P"D"f2e2d2 | Pc2B2A2 | ("A7"GA) .c.e g2 | "D"FA .d.fa2 | Pf2e2d2 | P"A7"c2B2A2 | (GA) ce ac |1 "D"d2d2z2 :|2 "D"d2d2cd || [K:Amaj] 
+"A"ef ec Ac | e2z2a>g | "D"a2 d>f a>f | "A"f2e2 cd | (ef) ec Ac | e2z2f>e | "E7"e2 d>G c>B | "A"A2z2A>A || [K:Dmaj] "D"A>B c2d2 | 
+"A7"e2z2c>c | c>de2f2 | g2z2fg | f2eA ef | "D"e2dA de | "A7"d2cE Gc | "D"B2A2 fg | "A7"f2 eA ef | "D"e2 dA de | 
+"A7"d2cA fe | "D"d2d2 B>d || [K:Gmaj] "G"g2fe dc | B4B>d | g2ag f>g | "D7"f4 f>g | a2a>g f>e | d4 a>g | f4 b>a | 
+"G"g4 B>d | g2 fe dc | B4 B>d | g2 a>g f>g | "C"e4e>f | g2e>c e>g | "G"d2 B>B d>g | "D7"f>e B>d c>A | "G"G2G2z2 |] 
+X:5
+T:Sch\"on R\"oschen (Mazurka) DA&G (tinwhistle in D)
+T:mz06029 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+Pf2e2d2 | Pc2B2A2 | (GA) .c.e g2 | FA .d.fa2 | Pf2e2d2 | Pc2B2A2 | (GA) ce ac |1 d2d2z2 :|2 d2d2cd || [K:Amaj] 
+ef ec Ac | e2z2a>"_#"g | a2 d>f a>f | f2e2 cd | (ef) ec Ac | e2z2f>e | e2 d>"_#"G c>B | A2z2A>A || [K:Dmaj] A>B c2d2 | 
+e2z2c>c | c>de2f2 | g2z2fg | f2eA ef | e2dA de | d2cE Gc | B2A2 fg | f2 eA ef | e2 dA de | 
+d2cA fe | d2d2 B>d || [K:Gmaj] g2fe d"_c"c | B4B>d | g2ag f>g | f4 f>g | a2a>g f>e | d4 a>g | f4 b>a | 
+g4 B>d | g2 fe d"_c"c | B4 B>d | g2 a>g f>g | e4e>f | g2e>"_c"c e>g | d2 B>B d>g | f>e B>d "_c"c>A | G2G2z2 |]
+% July 19, 2016
+

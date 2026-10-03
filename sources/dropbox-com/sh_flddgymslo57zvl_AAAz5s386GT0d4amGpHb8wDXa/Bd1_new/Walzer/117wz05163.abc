@@ -1,0 +1,81 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Die Morgenstunde (Walzer) FC chords parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.387 (wz05163) orig. F,C-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+R: waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+[P:A] "F"A/A/ Ac | d>cc | f/f/fg | "C7"f>ee | e/e/ed | d>cc |1 e/e/ ed | "F"d>cc :|2 ((3c/e/g/) c'>e | "F"fzc ||  
+[P:B] "F"(a3 | a)gf | "C7"fe>f | e2B | fef | e2d | "F"dc>d | cd/e/ f/g/ | a3 | agf | "C7"fe>f | 
+e2d | cc/c/ c/c/ | cde | "F"f>ff | fzE/E/ || [K:C] [P:C] "C"EGc | edc | "G7"B/g/g>B | f3 | B/g/g>B | 
+f2B | "C"c/e/ g/c/ e/g/ | c'zz | EGc | edc | "G7"B/a/a>B | f3 | B/a/a>B | f2B | "C"c>cc | czz |] 
+% June 6, 2016
+X:2
+T: Die Morgenstunde (Walzer) FC chords
+R: waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"A/A/ Ac | d>cc | f/f/fg | "C7"f>ee | e/e/ed | d>cc |1 e/e/ ed | "F"d>cc :|2 ((3c/e/g/) c'>e | "F"fzc ||  
+ "F"(a3 | a)gf | "C7"fe>f | e2B | fef | e2d | "F"dc>d | cd/e/ f/g/ | a3 | agf | "C7"fe>f | 
+e2d | cc/c/ c/c/ | cde | "F"f>ff | fzE/E/ || [K:C] "C"EGc | edc | "G7"B/g/g>B | f3 | B/g/g>B | 
+f2B | "C"c/e/ g/c/ e/g/ | c'zz | EGc | edc | "G7"B/a/a>B | f3 | B/a/a>B | f2B | "C"c>cc | czz |] 
+X:3
+T:Die Morgenstunde (Walzer) CG 5- chords
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"E/2E/2 EG | A>GG | c/2c/2cd | "G7"c>BB | B/2B/2BA | A>GG |1 B/2B/2 BA | "C"A>GG :|2 ((3G/2B/2d/2) g>B | "C"czG || 
+"C"(e3 | e)dc | "G7"cB>c | B2F | cBc | B2A | "C"AG>A | GA/2B/2 c/2d/2 | e3 | edc | "G7"cB>c | 
+B2A | GG/2G/2 G/2G/2 | GAB | "C"c>cc | czB,/2B,/2 || [K:G] "G"B,DG | BAG | "D7"F/2d/2d>F | c3 | F/2d/2d>F | 
+c2F | "G"G/2B/2 d/2G/2 B/2d/2 | gzz | B,DG | BAG | "D7"F/2e/2e>F | c3 | F/2e/2e>F | c2F | "G"G>GG | Gzz |] 
+X:4
+T: Die Morgenstunde (Walzer) FC (5letras transposed)
+R: waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+"F"A/A/ Ac | d>cc | f/f/fg | "C7"f>ee | e/e/ed | d>cc |1 e/e/ ed | "F"d>cc :|2 ((3c/e/g/) c'>e | "F"fzc ||  
+ "F"(a3 | a)gf | "C7"fe>f | e2B | fef | e2d | "F"dc>d | cd/e/ f/g/ | a3 | agf | "C7"fe>f | 
+e2d | cc/c/ c/c/ | cde | "F"f>ff | fzE/E/ || [K:C] "C"EGc | edc | "G7"B/g/g>B | f3 | B/g/g>B | 
+f2B | "C"c/e/ g/c/ e/g/ | c'zz | EGc | edc | "G7"B/a/a>B | f3 | B/a/a>B | f2B | "C"c>cc | czz |] 
+X:5
+T:Die Morgenstunde (Walzer) CG (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"E/2E/2 EG | A>GG | c/2c/2cd | "G7"c>BB | B/2B/2BA | A>GG |1 B/2B/2 BA | "C"A>GG :|2 ((3G/2B/2d/2) g>B | "C"czG || 
+"C"(e3 | e)dc | "G7"cB>c | B2F | cBc | B2A | "C"AG>A | GA/2B/2 c/2d/2 | e3 | edc | "G7"cB>c | 
+B2A | GG/2G/2 G/2G/2 | GAB | "C"c>cc | czB,/2B,/2 || [K:G] "G"B,DG | BAG | "D7"F/2d/2d>F | c3 | F/2d/2d>F | 
+c2F | "G"G/2B/2 d/2G/2 B/2d/2 | gzz | B,DG | BAG | "D7"F/2e/2e>F | c3 | F/2e/2e>F | c2F | "G"G>GG | Gzz |] 
+X:6
+T:Die Morgenstunde (Walzer) G&D (tin whistle in D)
+%%MIDI program 72   % 111 /74 / 79=whistleR:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"B/2B/2 Bd | e>dd | g/2g/2ga | "D7"g>ff | f/2f/2fe | e>dd |1 f/2f/2 fe | "G"e>dd :|2 ((3d/2f/2a/2) d'>f | "G"gzd || 
+"G"(b3 | b)ag | "D7"gf>g | f2"_c"c | gfg | f2e | "G"ed>e | de/2f/2 g/2a/2 | b3 | bag | "D7"gf>g | 
+f2e | dd/2d/2 d/2d/2 | def | "G"g>gg | gzF/2F/2 || [K:D] "D"FAd | fed | "A7"c/2a/2a>c | g3 | c/2a/2a>c | 
+g2c | "D"d/2f/2 a/2d/2 f/2a/2 | d'zz | FAd | fed | "A7"c/2b/2b>c | g3 | c/2b/2b>c | g2c | "D"d>dd | dzz |] 
+W:
+W: for tin whistle TABs go to: 
+W: http://www.mandolintab.net/abcconverter.php
+W: Tablatur: Whistle - key: D
+X:6
+T:Die Morgenstunde (Walzer) D (tin whistle in D)
+%%MIDI program 72   % 111 /74 / 79=whistleR:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+"D"F/2F/2 FA | B>AA | d/2d/2de | "A7"d>cc | c/2c/2cB | B>AA |1 c/2c/2 cB | "D"B>AA :|2 ((3A/2c/2e/2) a>c | "D"dzA || 
+"D"(f3 | f)ed | "A7"dc>d | c2G | dcd | c2B | "D"BA>B | AB/2c/2 d/2e/2 | f3 | fed | "A7"dc>d | 
+c2B | AA/2A/2 A/2A/2 | ABc | "D"d>dd | dzA/2A/2 ||"D"FAd | fed | "A7"c/2a/2a>c | g3 | c/2a/2a>c | 
+g2c | "D"d/2f/2 a/2d/2 f/2a/2 | d'zz | FAd | fed | "A7"c/2b/2b>c | g3 | c/2b/2b>c | g2c | "D"d>dd | dzz |] 
+W:
+W: part A transposed form G to D (if trespassing? simply delete it)

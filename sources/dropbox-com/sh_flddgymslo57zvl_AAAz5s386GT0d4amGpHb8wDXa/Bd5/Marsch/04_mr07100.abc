@@ -1,0 +1,48 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Abschied vom Städtchen (Marsch)  CF (mr07100) 
+T:Hanny Christen. Bd.V  Basel II, Jura. S.52f  (mr07100) orig. C,F
+T: Basel II. Tänze aus Frenkendorf. S.43-53.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Marsch
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c2G2 | e2c2 | "G7".d2!>!B2 | "C".c2zG |: "C"GE A>G | GE Ac | "G7"B>f ff | !>!f2 zG | GF A>A | 
+GF AB | "C"c>e ee | !>!e2zG | GE A>G | GE Ac | "G"B>d dd | !>!d2z(^c/d/) | "D7"^fe dc | 
+"G".e!>!d2.B | "D7".d!>!c2.A |1 "G"GG/G/ G>G :|2 "G7"GG/G/ GG |: ("C"c>e)  (B>d) | AA!>!G2 | (AG) (ce) | !>!"G7"f2zG | 
+B>f A>c | BB!>!A2 | (AG) (Bf) | !>!"C"e2zG | c>(e B>)(d | A)A !>!G2 | (Ge) ("C7"dc) | !>!"F"A2zA | A^G/A/ e>d | 
+"C"dc BA | "G7".G2!>!B2 |1 "C"cG/G/ GG :|2 "C"cc/c/ .c2 || [K:F] "F"z4 | z2(FG) |: "F"A2 (Ac) | "Bb"B2(Bd) | "F"c2(cB) | 
+A4 | c2(cB) | A2(Ac) | "C7"B2(BA) | G2c2 |1 ("F"A4 | A2)(FA) :|2 ("F"A4 | A2)FA || 
+"Gm"G3A | "C7"B2G2 | "F"A3B | c2c2 | "Bb"d2d2 | f2ed | ("F-"c4 | c2)FA | c2 (cd) || 
+c2 (cf)  | c2(cB) | A4 | c2cB | A2(Ac) | "C7"B2(BA) | G2c2 | ("F"F4 | F2)z2 |] 
+W:
+W:Anmerkung H.C.: Benken 10, s.V. 424
+% mr07100
+% Jan 6, 2018
+
+X:2
+T:Abschied vom Städtchen (Marsch)  GC 5- (mr07100) 
+S:Hanny Christen. Bd.V  Basel II, Jura. S.52f  (mr07100) orig. C,F
+S:Basel II. Tänze aus Frenkendorf. S.43-53.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Marsch
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"G2D2 | B2G2 | "D7".A2!>!F2 | "G".G2zD |: "G"DB, E>D | DB, EG | "D7"F>c cc | !>!c2 zD | DC E>E | 
+DC EF | "G"G>B BB | !>!B2zD | DB, E>D | DB, EG | "D"F>A AA | !>!A2z(^G/2A/2) | "A7"^cB AG | 
+"D".B!>!A2.F | "A7".A!>!G2.E |1 "D"DD/2D/2 D>D :|2 "D7"DD/2D/2 DD |: ("G"G>B) (F>A) | EE!>!D2 | (ED) (GB) | !>!"D7"c2zD | 
+F>c E>G | FF!>!E2 | (ED) (Fc) | !>!"G"B2zD | G>(B F>)(A | E)E !>!D2 | (DB) ("G7"AG) | !>!"C"E2zE | E^D/2E/2 B>A | 
+"G"AG FE | "D7".D2!>!F2 |1 "G"GD/2D/2 DD :|2 "G"GG/2G/2 .G2 || [K:Cmaj] "C"z4 | z2(CD) |: "C"E2 (EG) | "F"F2(FA) | "C"G2(GF) | 
+E4 | G2(GF) | E2(EG) | "G7"F2(FE) | D2G2 |1 ("C"E4 | E2)(CE) :|2 ("C"E4 | E2)CE || 
+"Dm"D3E | "G7"F2D2 | "C"E3F | G2G2 | "F"A2A2 | c2BA | ("C-"G4 | G2)CE | G2 (GA) || 
+G2 (Gc) | G2(GF) | E4 | G2GF | E2(EG) | "G7"F2(FE) | D2G2 | ("C"C4 | C2)z2 |] 
+%W:Anmerkung H.C.: Benken 10, s.V. 424
+% mr07100
+% Jan 6, 2018

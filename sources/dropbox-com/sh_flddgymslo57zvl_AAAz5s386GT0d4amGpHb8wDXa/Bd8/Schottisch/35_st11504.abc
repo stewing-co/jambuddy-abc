@@ -1,0 +1,25 @@
+I:abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X: 1
+T: Meit\"ali wit du eu \"a chli (Schottisch) FC chords
+% Swiss German, sth. like "Little girl want you also a bit"
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.374 (st11504) orig. F,C-Dur
+T: Tänze aus Altdorf (Uri)
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"c2cc c2Ac | d2d2 c4 | f2ff f2f2 | "C7"e4z4 | c2cc c2Bc | d2d2c4 | b2bb b2b2 | "F"a4z4 | 
+c2cc c2Ac | d2d2 c4 | f2ff f2f2 | "C7"e6 ((3efe) | d2b2 a2g2 | "F"gagf c3c | "C7"c2dc d2e2 | "F"f2f2 f2z2 :: [K:C]
+"C"gagc e2g2 | "G7"a2g2 BBB2 | bbb2 g2b2 | "C"c'c'c'2 c2e2 | gagc e2g2 | "G7"a2g2 BBB2 | b2gg g2ab | "C"c'2ge c2z2 :| 
+
+X:2
+T:Meit\"ali wit du eu \"a chli (Schottisch) CG 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"G2GG G2EG | A2A2 G4 | c2cc c2c2 | "G7"B4z4 | G2GG G2FG | A2A2G4 | f2ff f2f2 | "C"e4z4 | 
+G2GG G2EG | A2A2 G4 | c2cc c2c2 | "G7"B6 ((3BcB) | A2f2 e2d2 | "C"dedc G3G | "G7"G2AG A2B2 | "C"c2c2 c2z2 :: [K:Gmaj]
+"G"dedG B2d2 | "D7"e2d2 FFF2 | fff2 d2f2 | "G"ggg2 G2B2 | dedG B2d2 | "D7"e2d2 FFF2 | f2dd d2ef | "G"g2dB G2z2 :| 
+

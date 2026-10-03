@@ -1,0 +1,157 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XVI. When the poore Criple by the poole did lye,
+S:The third Part.
+T:CANTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on first line
+K:A min
+z8 | z4 E4 - E E E2 | c3 B B A A4 ^G2 A4 |
+w: When * the poore Cri- ple by the poole did lye,
+z4 B2 e3 e d3 d c4 B4 A2 - | A A ^G ^F ^G4 |
+w: Full ma- ny, ma- ny yeeres in mi- * se- ry and paine,
+z2 A2 A3 A _B3 B | A2 A A3 A2 A4 |
+w: No soon- er hee on Christ had set his eye,
+z2 A4 d3 c B2 | c2 ^c2 d3 c | B2
+w: But hee was well, hee was well, was well
+c3 B/ A/ B3 A e3 e E4 ^F2 | ^G2 A4 ^G2 A4 |
+w: and * * com- fort, com- fort came a- gaine, a- * gaine,
+Sz4 E6 ^F2 | ^G > G A4 ^G2 | A2 B2 c B A G A2 A4 A A | _B4
+w: No * Da- vid, Job, nor cri- ple in * * more * griefe, in more griefe,
+z A B2 | c > d e4 d4 c4 B4 A4 ^G2 | A2 A2 A8 |]
+w: Christ * give mee pa- tience, pa- tience, and my Hopes re- liefe.
+
+X:2
+T:XVI. When the poore Criple by the poole did lye,
+S:The third Part.
+T:ALTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N: Original clef, C on third line
+K:A min
+z4 C3 B, B,3 A, A,2 ^G,2 C3 D E4 E2 E4
+w: When the poore, poore Cri- ple by the poole did lye,
+z B, C3 D E F2 E G3 G F4 E2 A3 A G4 F2 E8
+w: Full ma- ny yeeres, ma- ny, ma- ny yeeres in mi- se- ry and paine,
+z2 ^C2 D D D3 D E D ^C2 D2 D2 ^C2 D2
+w: No soon- er hee on Christ, on Christ had set his eye,
+z D F3 E ^F G2 ^F G2 G3 A > A G2 
+w: But hee was well, hee was well, but he was well
+^F G3 F E E D4 C4 B, C2 B, E6 D C B,2 E2 ^C4
+w: and com- fort came a- gaine,  hee was well, and com- fort came * a- gaine.
+SB,3 A, C > C B,4 A,2 z2 D3 C B, B, E3 D A G F E ^F2 G4 F3 E D4
+w: No * Da- vid, Da- vid, Job, nor cri- ple, Job, nor Cri- ple in more * griefe, in more griefe,
+D E2 F G4 A2 B2 E3 ^F ^G ^G A2 F4 E4 D2 E A,2 =B, H^C4 |]
+w: Christ give mee pa- tience, pa- tience, and * my hopes re- liefe, my hopes re- * liefe.
+
+X:3
+T:XVI. When the poore Criple by the poole did lye,
+S:The third Part.
+T:TENOR.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -12
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N: Original clef, C on fourth line
+K:A min -8va
+E4 - E E E2 c4 B4 A4 z2 E3 F/ G/ A B c A B2
+w: When * the poore, poore Cri- ple by the * poole * * did lye,
+z A c B c A B4 c2 d c A B c > B A > G ^F2 G2 A3 B c > c B A B4
+w: Full ma- ny, ma- ny yeeres, full ma- ny, ma- ny yeeres in mi- se- ry and paine, in mi- ser- ry and paine,
+z2 E2 ^F/ F/ G2 ^F G3 G G2 F2 E2 z E F G A B c B ^c2 d3 c B A G 
+w: No soon- er hee on Christ had set his eye, No soon- er hee on Christ had * set his eye, his eye,
+d c2 A2 d3 e2 d c3/2 
+w: But hee was well, hee was well, 
+c/ g3 f e3 A ^G A2 ^G A B2 A B6 B E E4
+w: and com- fort, com- fort came a- * gaine, com- fort came a- * gaine,
+SG6 F2 E4 D4 z2 E2 c3 B A E z E c B A G A E A3 G2 ^F/ E/ ^F2 G4
+w: No Da- * vid, no Job, nor Cri- ple, nor Cri- ple, Cri- ple in more griefe, in more * * griefe,
+c3 B A2 e3 A c d e3 d2 c2 d B2 z E F G2 F E D HE4 |]
+w: Christ give mee pa- tience, give me pa- tience, pa- * tience, and my hopes re- * * liefe.
+
+X:4
+T:XVI. When the poore Criple by the poole did lye,
+S:The third Part.
+T:BASSUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -24
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:A min bass
+z8 e4 - e e e2 A6 ^G2 c3 d e3 e A3/2
+w: When * the poore Cri- ple by the poole did lye,
+A/ a3 a g2 e4 f3 g a2 z A d4 ^c4 e8
+w: Full ma- ny yeeres in mi- se- ry and paine, and paine,
+z2 A2 d3 d G2 G2 A6 z A d e f g a4
+w: No soon- er hee on Christ, on Christ had set his eye,
+z2 d2 g3 f e f2 e d 
+w: But hee was well, hee was well, 
+c B A G6 g2 c2 c d e4 c4 B4 e4 A4
+w: and com- fort  came a- gaine, and * com- fort came a- gaine.
+Se6 d2 c4 B4 e3 e A2 ^G2 A4 A8 d6
+w: No Da- * vid, Job, nor cri- ple in more griefe, 
+z G c3 d e2 ^f2 ^g2 a2 e2 z e f3 e d2 e2 ^c2 d3 d ^c2 HA4 |]
+w: Christ give mee, give mee pa- * tience, Christ give me pa- tience, and my hopes re- liefe.
+

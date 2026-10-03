@@ -1,0 +1,49 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Mazurka FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.237 (mz00485) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"c>=Bc2f2 | c>=Bc2a2 | "C7"g>f ed ce | "F"f>g a>fc2 | c>=Bc2f2 | c>=Bc2a2 | "C"ge ce "G7"dg | 
+"C7"c2c'2z2 :: "F"a>fc2A2 | "Gm"G>Bd4 | "C7"ef ga bc' | "F"d'2c'>=bc'2 | a>fc2BA | "Gm"G>Bd4 | 
+"C7"cd ef ga | "F"f2f2z2 :: [K:Bb] "F7"f3g fe | "Bb"(3dfbd'2d'2 | "Eb"c'>b gbb2 | "Bb"f4df | gf =ef gf | 
+"F7"A4f2 |1 gf =ef gf | "Bb"B4d2 :|2 ag fe dc | "Bb"B2b2z2 |:  "Eb"b2b2 (3geg | "Bb"b2b2 (3fdf | 
+"F7"c2a2g2 | (3"Bb"gfd B2B2 | "Eb"b2b2 (3geg | "Bb"b2b2 (3fdB | "F7"A>g f>e d>c | "Bb"B2b2z2 :| 
+
+X:2
+T:Mazurka CF 5- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"G>^FG2c2 | G>^FG2e2 | "G7"d>c BA GB | "C"c>d e>cG2 | G>^FG2c2 | G>^FG2e2 | "G"dB GB "D7"Ad | 
+"G7"G2g2z2 :: "C"e>cG2E2 | "Dm"D>FA4 | "G7"Bc de fg | "C"a2g>^fg2 | e>cG2FE | "Dm"D>FA4 | 
+"G7"GA Bc de | "C"c2c2z2 :: [K:Fmaj] "C7"c3d cB | "F"(3Acfa2a2 | "Bb"g>f dff2 | "F"c4Ac | dc =Bc dc | 
+"C7"E4c2 |1 dc =Bc dc | "F"F4A2 :|2 ed cB AG | "F"F2f2z2 |: "Bb"f2f2 (3dBd | "F"f2f2 (3cAc | 
+"C7"G2e2d2 | (3"F"dcA F2F2 | "Bb"f2f2 (3dBd | "F"f2f2 (3cAF | "C7"E>d c>B A>G | "F"F2f2z2 :| 
+
+X:3
+T:Mazurka GC 10- chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"D>^CD2G2 | D>^CD2B2 | "D7"A>G FE DF | "G"G>A B>GD2 | D>^CD2G2 | D>^CD2B2 | "D"AF DF "A7"EA | 
+"D7"D2d2z2 :: "G"B>GD2B,2 | "Am"A,>CE4 | "D7"FG AB cd | "G"e2d>^cd2 | B>GD2CB, | "Am"A,>CE4 | 
+"D7"DE FG AB | "G"G2G2z2 :: [K:Cmaj] "G7"G3A GF | "C"(3EGce2e2 | "F"d>c Acc2 | "C"G4EG | AG ^FG AG | 
+"G7"B,4G2 |1 AG ^FG AG | "C"C4E2 :|2 BA GF ED | "C"C2c2z2 |: "F"c2c2 (3AFA | "C"c2c2 (3GEG | 
+"G7"D2B2A2 | (3"C"AGE C2C2 | "F"c2c2 (3AFA | "C"c2c2 (3GEC | "G7"B,>A G>F E>D | "C"C2c2z2 :| 
+
+X:4
+T:Mazurka GC 2+ chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"d>^cd2g2 | d>^cd2b2 | "D7"a>g fe df | "G"g>a b>gd2 | d>^cd2g2 | d>^cd2b2 | "D"af df "A7"ea | 
+"D7"d2d'2z2 :: "G"b>gd2B2 | "Am"A>ce4 | "D7"fg ab c'd' | "G"e'2d'>^c'd'2 | b>gd2cB | "Am"A>ce4 | 
+"D7"de fg ab | "G"g2g2z2 :: [K:Cmaj] "G7"g3a gf | "C"(3egc'e'2e'2 | "F"d'>c' ac'c'2 | "C"g4eg | ag ^fg ag | 
+"G7"B4g2 |1 ag ^fg ag | "C"c4e2 :|2 ba gf ed | "C"c2c'2z2 |: "F"c'2c'2 (3afa | "C"c'2c'2 (3geg | 
+"G7"d2b2a2 | (3"C"age c2c2 | "F"c'2c'2 (3afa | "C"c'2c'2 (3gec | "G7"B>a g>f e>d | "C"c2c'2z2 :| 
+

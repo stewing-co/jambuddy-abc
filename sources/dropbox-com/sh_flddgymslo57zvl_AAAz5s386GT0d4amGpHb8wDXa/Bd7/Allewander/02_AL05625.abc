@@ -1,0 +1,54 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Allewander FCBb  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.65 (AL05625) orig. F,C,Bb-Dur
+T: T\"anze aus Beateberg  (Bern)
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c |: "F"a>g "Bb"f>d | "F"cd c2 | "C7"cb g2 | "F"ca fc | a>g "Bb"f>d | "F"cd c2 | "C7"cb ge |1 "F"f2zc :|2 "F"f2z2 || [K:C]
+"G7"g>a g>a | ga g2 | gg ab | "C7"c'_b ag | "F"a>g "Bb"f>d | "F"cd c2 | "C7"c"_?"_b ge | "F"f2 z2 :: [K:F]
+"F"c>f f>a | a>c'c'2 | "C7"c'>b bd' | "F"d'>c' c'2 | c>f f>a | a>c' c'2 | "C7"c'>b be | "F"f2z2 :: [K:Bb]
+"Bb"d3f | "Cm"f"_es"e g2 | "F7"c3"_es"e | "Bb""_es"ed f2 | B3d | "Cm"dc "_es"e2 | "F7"f>f ga |1 "Bb"ba gf :|2 "Bb"b2z2 |]  
+
+X: 2
+T: Allewander FCBb
+M:2/4
+L:1/8
+K:F
+c |: "F"a>g "Bb"f>d | "F"cd c2 | "C7"cb g2 | "F"ca fc | a>g "Bb"f>d | "F"cd c2 | "C7"cb ge |1 "F"f2zc :|2 "F"f2z2 || [K:C]
+"G7"g>a g>a | ga g2 | gg ab | "C7"c'_b ag | "F"a>g "Bb"f>d | "F"cd c2 | "C7"c"_?"_b ge | "F"f2 z2 :: [K:F]
+"F"c>f f>a | a>c'c'2 | "C7"c'>b bd' | "F"d'>c' c'2 | c>f f>a | a>c' c'2 | "C7"c'>b be | "F"f2z2 :: [K:Bb]
+"Bb"d3f | "Cm"fe g2 | "F7"c3e | "Bb"ed f2 | B3d | "Cm"dc e2 | "F7"f>f ga |1 "Bb"ba gf :|2 "Bb"b2z2 |]  
+
+X:3
+T:Allewander CGF 5- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G |: "C"e>d "F"c>A | "C"GA G2 | "G7"Gf d2 | "C"Ge cG | e>d "F"c>A | "C"GA G2 | "G7"Gf dB |1 "C"c2zG :|2 "C"c2z2 || [K:Gmaj]
+"D7"d>e d>e | de d2 | dd ef | "G7"g=f ed | "C"e>d "F"c>A | "C"GA G2 | "G7"G"_?"=f dB | "C"c2 z2 :: [K:Cmaj]
+"C"G>c c>e | e>gg2 | "G7"g>f fa | "C"a>g g2 | G>c c>e | e>g g2 | "G7"g>f fB | "C"c2z2 :: [K:Fmaj]
+"F"A3c | "Gm"cB d2 | "C7"G3B | "F"BA c2 | F3A | "Gm"AG B2 | "C7"c>c de |1 "F"fe dc :|2 "F"f2z2 |] 
+
+X:4
+T:Allewander CGF 5-
+M:2/4
+L:1/8
+K:Cmaj
+G |: "C"e>d "F"c>A | "C"GA G2 | "G7"Gf d2 | "C"Ge cG | e>d "F"c>A | "C"GA G2 | "G7"Gf dB |1 "C"c2zG :|2 "C"c2z2 || [K:Gmaj]
+"D7"d>e d>e | de d2 | dd ef | "G7"g=f ed | "C"e>d "F"c>A | "C"GA G2 | "G7"G"_?"=f dB | "C"c2 z2 :: [K:Cmaj]
+"C"G>c c>e | e>gg2 | "G7"g>f fa | "C"a>g g2 | G>c c>e | e>g g2 | "G7"g>f fB | "C"c2z2 :: [K:Fmaj]
+"F"A3c | "Gm"cB d2 | "C7"G3B | "F"BA c2 | F3A | "Gm"AG B2 | "C7"c>c de |1 "F"fe dc :|2 "F"f2z2 |] 
+
+X:5
+T:Allewander CGF 5- Anm
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G |: "C"e>d "F"c>A | "C"GA G2 | "G7"Gf d2 | "C"Ge cG | e>d "F"c>A | "C"GA G2 | "G7"Gf dB |1 "C"c2zG :|2 "C"c2z2 || [K:Gmaj]
+"D7"d>"_e"e d>e | d"_e"e d2 | dd "_e"e"_f#"f | "G7"g=f ed | "C"e>d "F"c>A | "C"GA G2 | "G7"G"_?"=f dB | "C"c2 z2 :: [K:Cmaj]
+"C"G>c c>e | e>gg2 | "G7"g>f fa | "C"a>g g2 | G>c c>e | e>g g2 | "G7"g>f fB | "C"c2z2 :: [K:Fmaj]
+"F"A3c | "Gm"c"_b"B "_d"d2 | "C7""_g"G3"_b"B | "F""_b""_?="BA c2 | F3A | "Gm"A"_g"G "_b"B2 | "C7"c>c de |1 "F"fe dc :|2 "F"f2z2 |] 
+

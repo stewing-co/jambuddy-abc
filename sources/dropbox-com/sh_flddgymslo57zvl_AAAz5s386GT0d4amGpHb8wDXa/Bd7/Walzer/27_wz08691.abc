@@ -1,0 +1,53 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Luterbacher (Walzer) C  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.313 (LD08691) orig. C-Dur
+T: "Bibere Musig", Abraham F\"urst, Bibern bei Murten (Bern) S.296ff
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+G2 |"C"c4 Gc | e4 ce | "G7"g2 GG GG | G2 AB cd | "C"e3B ce | "G7"d3G Bd | "C"c3cc2 | cB cd ef | 
+g3g e2 | "Am"c3cA2 | "G7"d3dB2 | G6 | a3ag2 | f3fd2 | "C"Tg6 | z2^fg ab | c'3c'g2 | "Am"e3ec2 | "G7"d3dB2 | 
+TG6 | a3ag2 | f3fB2 | "C"(c6 | c2)z2ef || "C"gc' c'3e | egg3c | "G7"Bff2f2 | G6 | Baa3g | f2e2d2 | 
+"C"(g6 | g2)z2ef | gc'c'3e | egg3c | "G7"Bff2f2 | G4B2 | Baa3g | f2e2d2 | "C"c3cc2 | c2zg ab || 
+"C"+>+c'2e2e2 | "Am"+>+c'2e2e2 | "Dm"f2d'3c' | "G7"+>+b2d2d2 | +>+b2d2d2 | "C"g2e'3d' | c'2e2e2 | "Am"c'2e2e2 | "Dm"f2d'3c' | "G7"b2d2d2 | b2d2gb | 
+"C" "_*?*"c'2z2 e'd' || "C"c'2 ee de | "G7"g2 ff ef | d2 bb ab | "C"d'2 c'c' e'd' | c'2 ee de | "G7"g2 ff ef | d2 ba bd' | "C"c'2z2z2 |] 
+W:
+W: *?*  the orig. has "G7" here
+
+X:2
+T:Luterbacher (Walzer) C oct chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G,2 |"C"C4 G,C | E4 CE | "G7"G2 G,G, G,G, | G,2 A,B, CD | "C"E3B, CE | "G7"D3G, B,D | "C"C3CC2 | CB, CD EF | 
+G3G E2 | "Am"C3CA,2 | "G7"D3DB,2 | G,6 | A3AG2 | F3FD2 | "C"TG6 | z2^FG AB | c3cG2 | "Am"E3EC2 | "G7"D3DB,2 | 
+TG,6 | A3AG2 | F3FB,2 | "C"(C6 | C2)z2EF || "C"Gc c3E | EGG3C | "G7"B,FF2F2 | G,6 | B,AA3G | F2E2D2 | 
+"C"(G6 | G2)z2EF | Gcc3E | EGG3C | "G7"B,FF2F2 | G,4B,2 | B,AA3G | F2E2D2 | "C"C3CC2 | C2zG AB || 
+"C"!>!c2E2E2 | "Am"!>!c2E2E2 | "Dm"F2d3c | "G7"!>!B2D2D2 | !>!B2D2D2 | "C"G2e3d | c2E2E2 | "Am"c2E2E2 | "Dm"F2d3c | "G7"B2D2D2 | B2D2GB | 
+"C" c2z2 ed || "C"c2 EE DE | "G7"G2 FF EF | D2 BB AB | "C"d2 cc ed | c2 EE DE | "G7"G2 FF EF | D2 BA Bd | "C"c2z2z2 |] 
+
+X:3
+T:Luterbacher (Walzer) F 7-  chords
+M:3/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+C2 |"F"F4 CF | A4 FA | "C7"c2 CC CC | C2 DE FG | "F"A3E FA | "C7"G3C EG | "F"F3FF2 | FE FG AB | 
+c3c A2 | "Dm"F3FD2 | "C7"G3GE2 | C6 | d3dc2 | B3BG2 | "F"Tc6 | z2=Bc de | f3fc2 | "Dm"A3AF2 | "C7"G3GE2 | 
+TC6 | d3dc2 | B3BE2 | "F"(F6 | F2)z2AB || "F"cf f3A | Acc3F | "C7"EBB2B2 | C6 | Edd3c | B2A2G2 | 
+"F"(c6 | c2)z2AB | cff3A | Acc3F | "C7"EBB2B2 | C4E2 | Edd3c | B2A2G2 | "F"F3FF2 | F2zc de || 
+"F"!>!f2A2A2 | "Dm"!>!f2A2A2 | "Gm"B2g3f | "C7"!>!e2G2G2 | !>!e2G2G2 | "F"c2a3g | f2A2A2 | "Dm"f2A2A2 | "Gm"B2g3f | "C7"e2G2G2 | e2G2ce | 
+"F" f2z2 ag || "F"f2 AA GA | "C7"c2 BB AB | G2 ee de | "F"g2 ff ag | f2 AA GA | "C7"c2 BB AB | G2 ed eg | "F"f2z2z2 |] 
+
+X:4
+T:Luterbacher (Walzer) G 5-  chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+D2 |"G"G4 DG | B4 GB | "D7"d2 DD DD | D2 EF GA | "G"B3F GB | "D7"A3D FA | "G"G3GG2 | GF GA Bc | 
+d3d B2 | "Em"G3GE2 | "D7"A3AF2 | D6 | e3ed2 | c3cA2 | "G"Td6 | z2^cd ef | g3gd2 | "Em"B3BG2 | "D7"A3AF2 | 
+TD6 | e3ed2 | c3cF2 | "G"(G6 | G2)z2Bc || "G"dg g3B | Bdd3G | "D7"Fcc2c2 | D6 | Fee3d | c2B2A2 | 
+"G"(d6 | d2)z2Bc | dgg3B | Bdd3G | "D7"Fcc2c2 | D4F2 | Fee3d | c2B2A2 | "G"G3GG2 | G2zd ef || 
+"G"!>!g2B2B2 | "Em"!>!g2B2B2 | "Am"c2a3g | "D7"!>!f2A2A2 | !>!f2A2A2 | "G"d2b3a | g2B2B2 | "Em"g2B2B2 | "Am"c2a3g | "D7"f2A2A2 | f2A2df | 
+"G" g2z2 ba || "G"g2 BB AB | "D7"d2 cc Bc | A2 ff ef | "G"a2 gg ba | g2 BB AB | "D7"d2 cc Bc | A2 fe fa | "G"g2z2z2 |] 

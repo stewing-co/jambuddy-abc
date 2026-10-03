@@ -1,0 +1,53 @@
+
+X:1
+T:Weep Not
+C:Joseph Summers 1839-1916
+S:https://nla.gov.au/nla.obj-166220541
+Z:Stephen Hamish Darby
+%%score 1 2 3
+L:1/8
+Q:1/4=70
+M:2/4
+I:linebreak $
+K:F
+V:1 treble nm="Lead" snm="Ld."
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass nm="Bass" snm="Bs."
+V:1
+[I: MIDI=program 42]z | z3 z | z4 | z4 | z4 | z4 |: z3 F | A3 A |$ GA cB | A2 G2 | F3 F | E2 F2 | G3 G | EC B>B |$ 
+w: |||||||not be-|cause the form you|lov'd so|well was|snatch'd in|haste or|sank in slow de-|
+A2 z A | A3 =B | cc cA | =B2 c>B | A3 A | A2 =B2 |$ cc cd | e3 d | c2 z c | d3 d | cF FF | B3 c |$ 
+w: cay, be-|cause the|wreath you form'd of|earth- ly *|flowers was|pluck'd by|Heav'n and ear- ly|called a-|way; Be|cause the|rose is shed and|sharp as|
+B A2 B | d3 d | cF FF | B3 c | B A2 A |$ Af f>e | e3 G | Ge ed | c3 A | AG AB | c3 d | c2 Gc |$ 
+w: ev- er. The|thorn must|ran- kle in thy|breast for|ev- er O|mour- ner kiss the|rod and|hum- * * bly|kneel. The|hand that gave the|blow a-|lone can *|
+{/B} A3 A | AG AB | c2 e/d/c/B/ | A2 (3CFB | A3 G | F3 z | F3 B |$ A3 A | cB AG | F3 z | (F3 B) | 
+w: heal! The|hand that gave the|blow a- * * *|lone a- * *|lone can|heal|Weep *|not. O|mour- ner weep *|not!|Weep *|
+A3 A | cB AG | F3 z :|$ z4 | z4 | z4 |] 
+w: not O|mour- ner weep *|not||||
+V:2
+[I: MIDI=program 2]f | [Aa]3 [Aa] | GA cB | [Aa]2 [Gg]2 | [Ff]3 c | d2 g2 |: c2 f2 | e/d/c/B/ A/B/D/E/ |$ z C FA | 
+z B, EG | z F, CF | z [G,CE] z [A,CG] | z [B,CG] [B,CG][B,CG] | z [B,CG] z [B,CG] |$ 
+z [CFA] [CFA][CFA] | z [CEA] z [D^G=B] | z [CEA] [CEA][CEA] | z [DE^G] [DEG][DEG] | 
+z [CEA] [CEA][CEA] | z [CEA] [CEA][CEA] |$ z [C^D^F] [C^DF][C^DF] | [CEG] z [B,DF] z | 
+[G,CE]2 CC | z/ D/F/B/ d/B/F/D/ | z/ B,/F/A/ c/A/F/C/ | z/ C/E/B/ c/B/E/C/ |$ z/ C/F/A/ c/A/F/C/ | 
+z/ D/F/B/ d/B/F/D/ | z/ C/F/A/ c/A/F/C/ | z/ C/E/B/ c/B/E/C/ | z/ C/F/A/ c/A/F/C/ |$ 
+z [DFA] [DFA][DFA] | z [^CEA] [CEA][CEA] | z [B,=CEG] [B,CEG][B,CEG] | z [A,CF] [A,CF][A,CF] | 
+!arpeggio![B,,,B,,G,DG]4 | [CF]3 [DF] | [A,CF]2 [G,CE]2 |$ z [A,CF] [A,CF][A,CF] | 
+!arpeggio![B,,,B,,G,DG]4 | [CF]2 [CF]2 | [A,CF]2 C2 | z z [G,CE]2 | z [C_EF] [CEF][CEF] | 
+z [B,DF] [B,DF][B,DF] |$ z [A,CF] [A,CF][A,CF] | [Ec][DB] [CA][B,G] | [A,F][C_EF] [CEF][CEF] | 
+z [B,DF] [B,DF][B,DF] | z [B,DF] [B,DF][B,DF] | z [A,CF] [A,CF][A,CF] | z [CFA] [FAc][FAcf] :|$ 
+[FBdf][FBd] [DFB]G | [A,F][CA] [B,G][A,E] | [A,F]2- [A,F] z |] 
+V:3
+[I: MIDI=program 46]z | [F,,F,][A,CF] [A,CF][A,CF] | [F,,F,][A,CF] [A,CF][A,CF] | C,[B,CE] [B,CE][B,CE] | 
+[F,,F,][A,CF] [A,CF][A,CF] | B,,[B,DG] B,,[B,DG] |: C,[A,CF] C,[A,CF] | !arpeggio![C,G,B,E]3 z |$ 
+[F,,F,]2 z2 | [C,,C,]2 z2 | [F,,F,]2 z2 | [C,,C,] z [C,,C,] z | [D,,C,]2 z z | 
+[C,,C,] z [C,,C,] z |$ [F,,F,]2 z z | [A,,A,] z [E,,E,] z | [A,,A,]2 z2 | [E,,E,]2 z2 | 
+[A,,A,]2 z2 | [A,,A,]2 z2 |$ [_A,,_A,]2 z2 | [G,,G,] z [G,,,G,,] z | [C,,C,]2 z2 | [B,,B,]2 z2 | 
+[A,,A,]2 z2 | [G,,G,]2 z2 |$ [F,,F,]2 z2 | [B,,B,]2 z2 | [A,,A,]2 z2 | [G,,G,]2 z2 | 
+[F,,F,]2 z2 |$ [D,,D,]2 z2 | [A,,,A,,]2 z2 | [C,,C,]2 z2 | [F,,F,]2 z2 | B,,,4 | 
+[A,,,A,,]3 [B,,,B,,] | [C,,C,]2 [C,,C,]2 |$ [F,,F,]3 z | B,,,4 | [A,,,A,,]2 [B,,,B,,]2 | 
+[C,,C,]2 z2 | z2 [C,,C,]2 | [F,,F,]2 z2 | [F,,F,]2 z2 |$ [F,,F,]2 z2 | [C,,C,] z C, z | 
+[F,,F,] z3 | [F,,F,]2 z2 | [F,,F,]2 z2 | [C,,C,] z [C,,C,] z | [F,,F,]2 z2 :|$ [F,,F,]2 z2 | 
+[B,,,B,,]2 z2 | [F,,F,]2- [F,,F,] z |] 
+
+

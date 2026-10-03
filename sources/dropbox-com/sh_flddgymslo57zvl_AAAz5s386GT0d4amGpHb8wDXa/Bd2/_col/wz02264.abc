@@ -1,0 +1,96 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Kilbi-Walzer (las mattinadas) C (wz02264) (ABCB)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.335 (wz02264) orig. C
+T: Bündner und Engadiner Tänze. S.330-349. Überliefert durch Giacomin Morell, Ardez.
+O:Switzerland
+%%MIDI program 21
+%%partsbox
+P:ABCB
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+[P:A] "C"GzG | ^FzG | ezc | G3 | "G7"fz (d/e/) | fz(d/e/) | fzd | B3 | 
+"C"GzG | ^FzG | ezc | "D7"A>(B c/e/) | (d2A) | (B2A) | "G"GG/G/G | GGG || 
+[P:B] "G7"B>(c B/c/) | d2f | "C"e>(d e/f/) | g2z | "F"aza | (f2a) | "C"g3 | (^f/g/ a/)(g/ e/c/) | 
+"G7"B>(c B/c/) | d2f | "C"e>(d e/f/) | g2z | "F"czc/A/ | "C/G"G2e | "G7"f/f/fB | "C"c2"_Fine"z |] 
+[P:C] "C"G3 | (EG)c | "Am"e3 | c3 | "G7"g3 | g>(f d/A/) | "C"G3 | E3 | 
+G3 | (EG)c | e>(d c/B/) | "D7"A>B c/e/ | ("G"d2G) | ("D7"B2A) | "G"G>GG | GG"_>Teil B"G |] 
+% wz02264  
+% Nov 5, 2016
+
+X:2
+T:Kilbi-Walzer (las mattinadas) C (wz02264)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.335 (wz02264) orig. C
+S: Bündner und Engadiner Tänze. S.330-349. Überliefert durch Giacomin Morell, Ardez.
+O:Switzerland
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"GzG | ^FzG | ezc | G3 | "G7"fz (d/e/) | fz(d/e/) | fzd | B3 | \
+"C"GzG |
+ ^FzG | ezc | "D7"A>(B c/e/) | (d2A) | (B2A) | "G"GG/G/G | GGG || \
+"G7"B>(c B/c/) | d2f |
+ "C"e>(d e/f/) | g2z | "F"aza | (f2a) | "C"g3 | (^f/g/ a/)(g/ e/c/) | \
+"G7"B>(c B/c/) | d2f | "C"e>(d e/f/) |
+ g2z | "F"czc/A/ | "C/G"G2e | "G7"f/f/fB | "C"c2"_Fine"z |] \
+"C"G3 | (EG)c | "Am"e3 | c3 | "G7"g3 |
+ g>(f d/A/) | "C"G3 | E3 | \
+G3 | (EG)c | e>(d c/B/) | "D7"A>B c/e/ | ("G"d2G) | ("D7"B2A) | "G"G>GG | GG"_>Teil B"G |] 
+W:Parts: ABCB
+% wz02264  
+% Nov 5, 2016
+
+X:3
+T:Kilbi-Walzer (las mattinadas) F 5+ (wz02264)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.335 (wz02264) orig. C
+S:Bündner und Engadiner Tänze. S.330-349. Überliefert durch Giacomin Morell, Ardez.
+O:Switzerland
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Fmaj%%MIDI gchordon
+"F"czc | =Bzc | azf | c3 | "C7"bz (g/2a/2) | bz(g/2a/2) | bzg | e3 | \
+"F"czc |
+=Bzc | azf | "G7"d>(e f/2a/2) | (g2d) | (e2d) | "C"cc/2c/2c | ccc || \
+"C7"e>(f e/2f/2) | g2b |
+"F"a>(g a/2b/2) | c'2z | "Bb"d'zd' | (b2d') | "F"c'3 | (=b/2c'/2 d'/2)(c'/2 a/2f/2) | \
+"C7"e>(f e/2f/2) | g2b | "F"a>(g a/2b/2) |
+c'2z | "Bb"fzf/2d/2 | "F/C"c2a | "C7"b/2b/2be | "F"f2"_Fine"z |] \
+"F"c3 | (Ac)f | "Dm"a3 | f3 | "C7"c'3 |
+c'>(b g/2d/2) | "F"c3 | A3 | \
+c3 | (Ac)f | a>(g f/2e/2) | "G7"d>e f/2a/2 | ("C"g2c) | ("G7"e2d) | "C"c>cc | cc"_>Teil B"c |] 
+W:Parts: ABCB
+% wz02264  
+% Nov 5, 2016
+
+
+X:4
+T:Kilbi-Walzer (las mattinadas) G 5- (wz02264)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.335 (wz02264) orig. C
+S:Bündner und Engadiner Tänze. S.330-349. Überliefert durch Giacomin Morell, Ardez.
+O:Switzerland
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+"G"DzD | ^CzD | BzG | D3 | "D7"cz (A/2B/2) | cz(A/2B/2) | czA | F3 | \
+"G"DzD |
+^CzD | BzG | "A7"E>(F G/2B/2) | (A2E) | (F2E) | "D"DD/2D/2D | DDD || \
+"D7"F>(G F/2G/2) | A2c |
+"G"B>(A B/2c/2) | d2z | "C"eze | (c2e) | "G"d3 | (^c/2d/2 e/2)(d/2 B/2G/2) | \
+"D7"F>(G F/2G/2) | A2c | "G"B>(A B/2c/2) |
+d2z | "C"GzG/2E/2 | "G/D"D2B | "D7"c/2c/2cF | "G"G2"_Fine"z |] \
+"G"D3 | (B,D)G | "Em"B3 | G3 | "D7"d3 |
+d>(c A/2E/2) | "G"D3 | B,3 | \
+D3 | (B,D)G | B>(A G/2F/2) | "A7"E>F G/2B/2 | ("D"A2D) | ("A7"F2E) | "D"D>DD | DD"_>Teil B"D |] 
+W:Parts: ABCB
+% wz02264  
+% Nov 5, 2016

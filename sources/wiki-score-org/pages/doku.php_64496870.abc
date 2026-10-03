@@ -1,0 +1,22 @@
+X:1309
+T:Scena 7.a
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 9 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 9 )]
+%----------------- edit between the lines ------------
+Z21 | z2 | Z22 || [Q:"Allegro assai"] Z22 || \
+[Q:"Allegro"] [K:Eb] z | z4 | z/f/f/f/ fz | z4 | z/g/g/g/ gz | z4 | z/g/g/g/ gz | z4 | z/g/g/g/ gz | Z3 | g2f2 | g4 | g4 | \
+z4 | f {f}e/>d/ d>f | {f}e2z2| e d/>c/ c>e | ddz2 | Z5 | \
+d2c2 | Bbbb |bbbz | a4 | a4 | azz2 | z4 | z/a/a/a/ a z | z4 | z/a/a/a/ a z | z4 | z/a/a/a/ a z | z4 | Z7 | \
+f4- | f4- | f4- | f4- | f4- | f4- | f4- | f4 | f4 | f4 | e4 | e2>=e2 | f4 | f4 | f2z2 | Z17 | \
+z/b/f/d/ Bz | Z5 | f4 | g4 | f4 | c4 | dzz/b/f/d/ | Bzz/b/f/d/ |BBB!fermata!z ||  \
+[Q:"Andante"] [M:2/4] !fermata!f z | z2 | zz/ c'//>d'// | \
+d'/>c'/ {b}a/>b/ | a/ a/8b/8c'/8a/8 g/z/ | Z5| z//f//a//g// f/z/ | Z5 | \
+z//a//a//g// f/z/ | Z9 | !fermata!z2 |!fermata!z2 |!fermata!z2 | Z3 || \
+[Q:"Allegro"] [M:C] Z2 | _a4| Z4 | b4 | Z3 | z2z b | b/z/zz b| Z7 | g4 | z4 | f4 | Z6 | \
+e/g/b/g/ e/g/b/g/ | Z3 | e/g/b/g/ e z | Z10 | z2e2 | f4 | g2f2 | gzz2 | Z21 |] \
+%-----------------------------------------------------

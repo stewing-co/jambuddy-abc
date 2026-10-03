@@ -1,0 +1,53 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:VI. Times eldest sonne,
+T:Canto.
+C: John Dowland
+O: From The Second Booke of songs or Ayres of 2/ 4/ amd 5/parts: with Tableture for the Lute or orpherian, with the Violl de Gamba.
+%%MIDI nobarlines
+M:C
+L:1/4
+N:Original clef C on first line0
+K:C
+  B4 B2 B2 B4 | z2      G2 A2 B2 c3 c B4 | z2 d2 c2 A2 B4 | z2 e2 d2 c2
+w:Times eld- est sonne, olde age the heyre of ease, Strengths foe, loves woe, and fos- ter
+B3 B A2 A2 | z2 A4 A A | A3 D ^F3 G | A2 B2 A4 | z2 c2 B2 A2 B4 | z2 d4 c4 B2 A3 A
+w:to de- vo- tion, bids gal- lant youths in mar- shall prow- es please, as for him- selfe, hee hath no earth- ly
+G2 G2 |: z2 G2 | c4  z2 B4 B4 e4 d3 d c2 | B3 B A2 A2 | z2 c2 B2 G2 d4 | z2 B4 c4 B2 |
+w:mo- tion, But thinks sighes teares, vowes, pra- iers, and sa- cri- fi- ces, As good as showes, maskes, justes, or
+  A     G A2 G2 |1 G2 :|2 HG2 |]
+w:tilt de- * vi- ses.  ses.
+
+X:2
+T:VI. Times eldest sonne,
+T:Basso.
+C: John Dowland
+O: From The Second Booke of songs or Ayres of 2/ 4/ amd 5/parts: with Tableture for the Lute or orpherian, with the Violl de Gamba.
+%%MIDI nobarlines
+M:C
+L:1/4
+%%MIDI transpose -24
+K:C bass
+g4 g2 g2 g3 ^f e3 d c2 B2 A2 A2 G4 g4
+w:Times eld- est sonne, olde age olde age the heyre of ease, Strengths 
+e2 ^f2 g4 c4 d2 A2 e3 e A2 A2 d4 d2 d2 d3 d d2 d2 
+w:foe, loves woe, and fos- ter to de- vo- tion, bids gal- lant youths in mar- shall 
+d2 G2 d4 A4 e2 f2 e2 e2 B4 c4 d6 d2 G2 G G |: c4   z2 A2 e4 ^d4
+w:prow- es please, as for him- selfe hee hath no earth- ly mo- tion, But thincks but thincks sighes 
+e3 d c2 g3 g a2 e3 e A2 A2 A4 B2 e2 d4 g4 e4 ^f2 g2 d4 G2 |1 G G  :|2 HG2 |]
+w:teares, vowes, * pray- ers, and sa- cri- fi- ces, As good as shewes, masks, justs, or tilt de- vi- ses.  But  ses.

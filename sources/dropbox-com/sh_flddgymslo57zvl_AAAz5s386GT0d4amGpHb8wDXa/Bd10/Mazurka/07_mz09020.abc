@@ -1,0 +1,78 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Am blauen, sch\"onen Z\"urisee (Mazurka ) FC
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.57 (mz09020) orig. F,C-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"c2=B2c2 | d4c2 | a2g2f2 | "C7"f4e2 | B2A2B2 | c4B2 | g2d2e2 | "F"fa gf ed | c2=B2c2 | d4c2 | 
+a2b2a2 | "Gm"g4d2 | "Bb"def2ed | "F"cfa2a2 | "C7"d'c'e2e2 | "F"f2z2gf |: [K:C] "C"egc2c2 | "G7"c2B2 ag | faB2B2 | "C"d2c2 gf | 
+egc2c'b | "F"ac'd2fe | "G7"df Bd GB | "C"c2c2z2 :| "G7"f3ed2 | b4a2 |  "C"g3fe2 | c'4z2 | eg eg eg | "G7"faB2B2 | 
+fg fg fg | "C"ec'c2c2 | "G7"f3ed2 | b4a2 | "C"g3fe2 | c'6 | "Dm"dfa3B | "C"ce g3c' | "G7"b>a g>f e>d | "C"c2c2z2 |] 
+% mz09020
+X:2
+T:Am blauen, sch\"onen Z\"urisee (Mazurka ) CG 5-
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"G2^F2G2 | A4G2 | e2d2c2 | "G7"c4B2 | F2E2F2 | G4F2 | d2A2B2 | "C"ce dc BA | G2^F2G2 | A4G2 | 
+e2f2e2 | "Dm"d4A2 | "F"ABc2BA | "C"Gce2e2 | "G7"agB2B2 | "C"c2z2dc |: [K:G] "G"BdG2G2 | "D7"G2F2 ed | ceF2F2 | "G"A2G2 dc | 
+BdG2gf | "C"egA2cB | "D7"Ac FA DF | "G"G2G2z2 :| "D7"c3BA2 | f4e2 | "G"d3cB2 | g4z2 | Bd Bd Bd | "D7"ceF2F2 | 
+cd cd cd | "G"BgG2G2 | "D7"c3BA2 | f4e2 | "G"d3cB2 | g6 | "Am"Ace3F | "G"GB d3g | "D7"f>e d>c B>A | "G"G2G2z2 |] 
+% mz09020
+X:3
+T:Am blauen, sch\"onen Z\"urisee (Mazurka ) FC (5letras transposed)
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"c2=B2c2 | d4c2 | a2g2f2 | "C7"f4e2 | B2A2B2 | c4B2 | g2d2e2 | "F"fa gf ed | c2=B2c2 | d4c2 | 
+a2b2a2 | "Gm"g4d2 | "Bb"def2ed | "F"cfa2a2 | "C7"d'c'e2e2 | "F"f2z2gf |: [K:C] "C"egc2c2 | "G7"c2B2 ag | faB2B2 | "C"d2c2 gf | 
+egc2c'b | "F"ac'd2fe | "G7"df Bd GB | "C"c2c2z2 :| "G7"f3ed2 | b4a2 |  "C"g3fe2 | c'4z2 | eg eg eg | "G7"faB2B2 | 
+fg fg fg | "C"ec'c2c2 | "G7"f3ed2 | b4a2 | "C"g3fe2 | c'6 | "Dm"dfa3B | "C"ce g3c' | "G7"b>a g>f e>d | "C"c2c2z2 |] 
+% mz09020
+X:4
+T:Am blauen, sch\"onen Z\"urisee (Mazurka ) CG (5letras transposed)
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"G2^F2G2 | A4G2 | e2d2c2 | "G7"c4B2 | F2E2F2 | G4F2 | d2A2B2 | "C"ce dc BA | G2^F2G2 | A4G2 | 
+e2f2e2 | "Dm"d4A2 | "F"ABc2BA | "C"Gce2e2 | "G7"agB2B2 | "C"c2z2dc |: [K:G] "G"BdG2G2 | "D7"G2F2 ed | ceF2F2 | "G"A2G2 dc | 
+BdG2gf | "C"egA2cB | "D7"Ac FA DF | "G"G2G2z2 :| "D7"c3BA2 | f4e2 | "G"d3cB2 | g4z2 | Bd Bd Bd | "D7"ceF2F2 | 
+cd cd cd | "G"BgG2G2 | "D7"c3BA2 | f4e2 | "G"d3cB2 | g6 | "Am"Ace3"_ ="F | "G"GB d3g | "D7"f>e d>c B>A | "G"G2G2z2 |] 
+% mz09020
+X:5
+T:Am blauen, sch\"onen Z\"urisee D&A (tinwhistle in D)
+T:mz09020 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:marzurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"A2^G2A2 | B4A2 | f2e2d2 | "A7"d4c2 | G2F2G2 | A4G2 | e2B2c2 | "D"df ed cB | A2^G2A2 | B4A2 | 
+f2g2f2 | "Em"e4B2 | "G"Bcd2cB | "D"Adf2f2 | "A7"bac2c2 | "D"d2z2ed |: [K:A] "A"ceA2A2 | "E7"A2G2 fe | dfG2G2 | "A"B2A2 ed | 
+ceA2ag | "D"faB2dc | "E7"Bd GB EG | "A"A2A2z2 :| "E7"d3cB2 | g4f2 | "A"e3dc2 | a4z2 | ce ce ce | "E7"dfG2G2 | 
+de de de | "A"caA2A2 | "E7"d3cB2 | g4f2 | "A"e3dc2 | a6 | "Bm"Bdf3G | "A"Ac e3a | "E7"g>f e>d c>B | "A"A2A2z2 |] 
+X:6
+T:Am blauen, sch\"onen Z\"urisee D&A (tinwhistle in D) solo
+T:mz09020 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:marzurka
+M:3/4
+L:1/8
+K:D transpose=12
+A2^G2A2 | B4A2 | f2e2d2 | d4c2 | G2F2G2 | A4G2 | e2B2c2 | df ed cB | A2^G2A2 | B4A2 | 
+f2g2f2 | e4B2 | Bcd2cB | Adf2f2 | bac2c2 | d2z2ed |: [K:A] ceA2A2 | A2"_#"G2 fe | df"_#"G2G2 | B2A2 ed | 
+ceA2a"_#"g | faB2dc | Bd "_#"GB E"_#"G | A2A2z2 :| d3cB2 | "_#"g4f2 | e3dc2 | a4z2 | ce ce ce | df"_#"G2G2 | 
+de de de | caA2A2 | d3cB2 | "_#"g4f2 | e3dc2 | a6 | Bdf3"_#"G | Ac e3a | "_#"g>f e>d c>B | A2A2z2 |]
+% Aug 2, 2016

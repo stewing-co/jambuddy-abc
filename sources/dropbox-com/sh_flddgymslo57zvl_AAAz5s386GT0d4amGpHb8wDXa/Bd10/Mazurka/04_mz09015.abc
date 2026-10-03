@@ -1,0 +1,78 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Emmenthaler Mazurka  CG
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.55 (mz09015) orig. C,G-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+{/G}"C"c>de4 | {/c}"G7"B>df2f2 | {/G}B>df4 | {/G}"C"c>eg2g2 |  {/G}c>eg4 | {/e}"F"f>ga2a2 | "G7"b>a g>f d>g | "C"c2c2z2 :| 
+|: "C"cg egc2 | "G7"B>c d>ef2 | Bg fgB2 | "C"c>d e>fg2 | cg egc2 | "F"f>g a>bc'2 | "G7"b>a g>f g>B |1 "C"c2c2z2 :|2 
+"C"c2c2d>e || [K:G] "G"d2d2g>f | "C"e2e2a>g | "D7"f3d ef |  "G"g2z2B>c | d2d2g>f | "C"e2e2a>g | "D7"f3d ef |  "G"g2z2 d'>c' | 
+"G"bd gb db | "D7"c'd f2 e'>d' | c'd fa dc' | "G"bd gb d'>c' | bd gb db | "D7"c'>df2 e'>d' | c'd fa df | "G"g2g2z2 |] 
+% mz09015
+X:2
+T:Emmenthaler Mazurka  FC 7-
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+{/C}"F"F>GA4 | {/F}"C7"E>GB2B2 | {/C}E>GB4 | {/C}"F"F>Ac2c2 | {/C}F>Ac4 | {/A}"Bb"B>cd2d2 | "C7"e>d c>B G>c | "F"F2F2z2 :| 
+|: "F"Fc AcF2 | "C7"E>F G>AB2 | Ec BcE2 | "F"F>G A>Bc2 | Fc AcF2 | "Bb"B>c d>ef2 | "C7"e>d c>B c>E |1 "F"F2F2z2 :|2 
+"F"F2F2G>A || [K:C] "C"G2G2c>B | "F"A2A2d>c | "G7"B3G AB | "C"c2z2E>F | G2G2c>B | "F"A2A2d>c | "G7"B3G AB | "C"c2z2 g>f | 
+"C"eG ce Ge | "G7"fG B2 a>g | fG Bd Gf | "C"eG ce g>f | eG ce Ge | "G7"f>GB2 a>g | fG Bd GB | "C"c2c2z2 |] 
+% mz09015
+X:3
+T: Emmenthaler Mazurka  CG (5letras transposed)
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+{/G}"C"c>de4 | {/c}"G7"B>df2f2 | {/G}B>df4 | {/G}"C"c>eg2g2 |  {/G}c>eg4 | {/e}"F"f>ga2a2 | "G7"b>a g>f d>g | "C"c2c2z2 :| 
+|: "C"cg egc2 | "G7"B>c d>ef2 | Bg fgB2 | "C"c>d e>fg2 | cg egc2 | "F"f>g a>bc'2 | "G7"b>a g>f g>B |1 "C"c2c2z2 :|2 
+"C"c2c2d>e || [K:G] "G"d2d2g>f | "C"e2e2a>g | "D7"f3d ef |  "G"g2z2B>c | d2d2g>f | "C"e2e2a>g | "D7"f3d ef |  "G"g2z2 d'>c' | 
+"G"bd gb db | "D7"c'd f2 e'>d' | c'd fa dc' | "G"bd gb d'>c' | bd gb db | "D7"c'>df2 e'>d' | c'd fa df | "G"g2g2z2 |] 
+% mz09015
+X:4
+T:Emmenthaler Mazurka  FC (5letras transposed)
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+{/C}"F"F>GA4 | {/F}"C7"E>GB2B2 | {/C}E>GB4 | {/C}"F"F>Ac2c2 | {/C}F>Ac4 | {/A}"Bb"B>cd2d2 | "C7"e>d c>B G>c | "F"F2F2z2 :| 
+|: "F"Fc AcF2 | "C7"E>F G>AB2 | Ec BcE2 | "F"F>G A>Bc2 | Fc AcF2 | "Bb"B>c d>ef2 | "C7"e>d c>B c>E |1 "F"F2F2z2 :|2 
+"F"F2F2G>A || [K:C] "C"G2G2c>B | "F"A2A2d>c | "G7"B3G AB | "C"c2z2E>F | G2G2c>B | "F"A2A2d>c | "G7"B3G AB | "C"c2z2 g>f | 
+"C"eG ce Ge | "G7"fG B2 a>g | fG Bd Gf | "C"eG ce g>f | eG ce Ge | "G7"f>GB2 a>g | fG Bd GB | "C"c2c2z2 |] 
+% mz09015
+X:5
+T:Emmenthaler Mazurka G&D (tinwhistle in D)
+T:mz09015 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:marzurka
+M:3/4
+L:1/8
+K:G%%MIDI gchordon
+{/D}"G"G>AB4 | {/G}"D7"F>Ac2c2 | {/D}F>Ac4 | {/D}"G"G>Bd2d2 | {/D}G>Bd4 | {/B}"C"c>de2e2 | "D7"f>e d>c A>d | "G"G2G2z2 :| 
+|: "G"Gd BdG2 | "D7"F>G A>Bc2 | Fd cdF2 | "G"G>A B>cd2 | Gd BdG2 | "C"c>d e>fg2 | "D7"f>e d>c d>F |1 "G"G2G2z2 :|2 
+"G"G2G2A>B || [K:D] "D"A2A2d>c | "G"B2B2e>d | "A7"c3A Bc | "D"d2z2F>G | A2A2d>c | "G"B2B2e>d | "A7"c3A Bc | "D"d2z2 a>g | 
+"D"fA df Af | "A7"gA c2 b>a | gA ce Ag | "D"fA df a>g | fA df Af | "A7"g>Ac2 b>a | gA ce Ac | "D"d2d2z2 |] 
+X:6
+T:Emmenthaler Mazurka G&D (tinwhistle in D) solo
+T:mz09015 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:marzurka
+M:3/4
+L:1/8
+K:G transpose=12
+{/D}G>AB4 | {/G}F>A"_c"c2c2 | {/D}F>A"_c"c4 | {/D}G>Bd2d2 | {/D}G>Bd4 | {/B}"_c"c>de2e2 | f>e d>"_c"c A>d | G2G2z2 :| 
+|: Gd BdG2 | F>G A>B"_c"c2 | Fd "_c"cdF2 | G>A B>"_c"cd2 | Gd BdG2 | "_c"c>d e>fg2 | f>e d>"_c"c d>F |1 G2G2z2 :|2 
+G2G2A>B || [K:D] A2A2d>c | B2B2e>d | c3A Bc | d2z2F>G | A2A2d>c | B2B2e>d | c3A Bc | d2z2 a>g | 
+fA df Af | gA c2 b>a | gA ce Ag | fA df a>g | fA df Af | g>Ac2 b>a | gA ce Ac | d2d2z2 |]
+% Aug 1st, 2016 (Happy Birthday Switzerland)

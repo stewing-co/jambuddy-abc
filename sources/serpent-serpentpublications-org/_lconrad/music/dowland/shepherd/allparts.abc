@@ -1,0 +1,158 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XVII. A shepheard in a shade
+C: John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:C
+L:1/4
+%%MIDI nobarlines
+K:Gmixolydian
+T:Cantus
+N: Original clef, C on first line
+%1
+|:G2 G G G2 G2 | G2 A2 B3 c A2 z A | d3 c B2 d2 A4
+w: A Shep- heard in a shade, his plain- ing made, Of love and lo- vers wrong,
+w: Since love and For- tune will, I hon- our still, your faire and love- ly eye,
+w: My hart where have you laid O cru- ell maide, To kill when you might save,
+%2
+D2 D E ^F2 G2 | A2 B2 c2 B2 A2 z B | A G G3 ^F/ E/ ^F2 G4 :: \
+w:Un- to the fair- est lasse, that trode on grasse, and thus bee- gan his _ _ song, | 
+w:What con- quest will it bee, Sweet Nimph for thee, If I for sor- row _ _ dye.
+w:Why have yee cast it forth as no- thing worth, with- out a tombe or _ _ grave.
+K:Gdor
+M:C
+L:1/4
+B B2 B B2 d2
+w:Re- store, re- store my
+w:O let it bee in- 
+%3
+c2 B2 A3 F | A3 G F2 G F E D E2 D4 | D2 E2 F2 E G2 F B2 A2 G2 | ^F2
+w:hart a- gaine, Which love by thy sweet _ lookes hath _ slaine, least that in- forst by your dis- daine, I sing,
+w:tombed and lye, In your sweet minde and _ me- mo- * rie, least I re- sound on e- very war- bling string,
+%4
+  d3 c B2 A2 d3 c B2 | A2 z D F2 B2 A3 A G4 :|
+w:Fye fye on love Fye fye on love, it is a fool- ish thing.
+w:  Fye fye on love, Fye fye on love, that is a fool- ish thing.
+
+X:2
+T:XVII. A shepheard in a shade
+C: John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+T:Altus
+M:C
+L:1/4
+%%MIDI nobarlines
+N: Original clef, C on second line
+K:Gmixolydian
+%1
+|:D2 D C B,2 E2 D2 D2 D2 G2 ^F > E ^F F G2 A2 D3 G ^F E D E ^F2
+w:A shep- herd in a shade, his play- ning made of love and lov- ers wrong, un- to the fai- rest lasse,
+w:Since love and for- tune wil, I ho- nour still, your faier and love- ly eye, what con- quest will it be,
+%2
+G2 A2 D2 D3 G E ^F G E ^F2 G2 E2 B, C D3 C B,4 ::
+w:un- to the fai- rest lasse, that trode on grasse, and thus be - gan his song. 
+w:what con- quest will it be, sweet Nimphe for thee, if I for _ sor- row dye.
+K: Gdor
+D D2 _E F3 D A2 G2
+w:Re- store re- store my heart a-
+%3
+^F3 D F3 E D2 E D ^C D2 ^C D4 z4 z4 z2 D G F D2 C D4 D3 E ^F2 G2 D3 E ^F2 G2
+w:gaine, which love by thy sweet _ lookes hath _ slaine, by your dis- dain I sing, fie fie on love, fie fie on love,
+%4
+A2 D2 D _E D > C =B,4 :|
+w:fie, it is a fo- lish thing.
+
+X:3
+T:XVII. A shepheard in a shade
+C: John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:C
+L:1/4
+%%MIDI nobarlines
+T:Tenor
+N: Original clef C on third line
+%%MIDI transpose -12
+K:Gmixolydian -8va
+%1
+|:G > A   B    c    d2 c2 B2    A2  G3    G     d > c  B A G2 ^F2 G3 d d e ^f g a
+w:A _    shep- herd in a shade, his play- ning made of love and lo- vers worng, un- to the fai- rest lasse,
+w:Since _ love and for- tune wil, I ho- nour still, your faier and love- ly eye, what con- quest will it be,
+%2
+A B2 A d > c B A d > c B A2 G2 d3 d c B2 A/ G/ A3 A G4 ::
+w:un- to the fair - est lasse that _ _ trode on grasse, and thus be _ _ gan his song.
+w:what con- quest will _  it be, sweet _ _ Nimphe for thee, if I for _ _ sor- row dye.
+K:Gdor -8va
+F f2 _e "(2)"d2 f2 f2 d2
+w: Re- store re- store my heart a-
+N:(2) original is d quarter note
+%3
+d3 A d2 A2 A2 B2 z A A E ^F4 ^F G2 A2 B G c B A > G G A F B G A2
+w:gaine, which love by thy sweet sweet lookes hath slaine, least that in- forst, in- forst by your dis - daine, by your dis- daine
+%4
+B2 A2 d3 c B2 A2 d3 A B G c2 z G ^F G G ^F G4 :|
+w:I sing fie fie on love, fie fie fie on love it is a fo-lish thing.
+
+X:4
+T:XVII. A shepheard in a shade
+C: John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:C
+L:1/4
+%%MIDI nobarlines
+K:Gmixolydian bass
+%%MIDI nobarlines
+%%MIDI transpose -24
+T:Bassus
+%1
+|:G2 G A B G c2 G2 ^F2 G2 e2 d3 c B2 A2
+w:1.~A Shep- heard in a _ shade, his plain- ing made, Of love and 
+w:Since love and For- tune _ will, I hon- our still, your faire and 
+w:2.~My hart where have you laid O cru- ell maide, To kill where
+%2
+G A B G  d4 d4 D3 E ^F F G2 A2 B c
+w:lo- vers _   _ wrong, Un- to the fair- est lasse, that trode on 
+w:love \- ly _  eye, What con- quest will it bee, Sweet Nimph for 
+w:you _ might _  save, Why have yee cast it forth as no- thing 
+%3
+d2 B2 c > d e2 d2 "(1)"d2 G4 ::
+w:grasse, and thus _ be- gan his song.
+w:thee, if I for _ sor- row dye,
+w:worth, With- out _ a tombe or grave.
+N:(1) Original has d quarter note.
+K:Gdor bass
+M:C
+L:1/4
+B B2 c d2 B2 f2 g2
+w:Re- store, re- store my heart a-
+w:O let it bee in- tombed and 
+%4
+d3 d d2 ^c2 d2 G2 A3 A d4 B2 c c d2
+w:gaine, Which love by thy sweet lookes hath slaine, least that in- forst 
+w:lye, In your sweet minde and me- mo- rie, Least I re- sound 
+%5
+c2 d d G2 d2 _e2 d3 e ^f2 g2 d3 e ^f2 g2 d2 B2
+w:by your dis- daine I sing, fye fye on love fye fye on love, fie it 
+w:on e- very war- bling string, Fye fye on love, fye fye on love, fie it 
+%6
+A2 G2 d c d2 G4 :|
+w:is a fo- lish _ thing.
+w:is a foo- lish _ thing.

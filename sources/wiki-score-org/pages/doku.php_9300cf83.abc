@@ -1,0 +1,19 @@
+X:704
+T:N.7 Schottisch do 37
+C:Fonseca, Eduardo da (1863-1938)
+M:C|
+L:1/4
+K:G
+V: 4 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 4 ]
+%---
+z | [A,D]/z/ z D ([A,D] | [B,D])[A,D] [G,D]/ +fermata+z/2 z || z[A,D] (D/2^D/2E/2F/2 |G) [G,D]2z | \
+zG, !<(!(B,/C/^C/^D/) !<)!| E [CE]2z| z[B,E] z[B,E] | \
+z[B,D][G,D]z| zA,F,F, | G,zz2| z^CzC | D[D]2z | zF,z^A, | zB,2z | zD(.G.G) | \
+z[A,D]2z | z[A,E]z[A,E] | zA,2z | z^CzC | DC2z | zF,z^A,| zB,2z|zD(.G.G) | F!>![A,E]2z| \
+z[A,E]z^C | D2zz|| \
+zD (D/^D/E/F/ |G) [G,D]2z | zB, (B,/C/^C/^D/) | E[B,E]2z | z[A,E]z[A,E] | z[B,D][G,D]z| \
+z[A,][D]C | \
+B,[A,D][G,D]/z/ |]  \
+%---

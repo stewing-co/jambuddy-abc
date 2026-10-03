@@ -1,0 +1,24 @@
+X:1
+T:Hawthornden
+Z:Jack Campin: "Embro, Embro", transcription (c) 2001
+F:15kirk/abc/Hawthorn.abc
+S:Adam Ramage: Sacred Harmony of St. Andrew's Church Edinburgh (2nd ed. 1850)
+B:NLS Cwn.920
+C:Jerh. Clark, obit 1707
+M:3/2
+L:1/2
+V:1                % 1st Soprano or Air
+V:2                % 2nd Soprano or Alto
+V:3 transpose -12  % Tenore
+V:4 bass           % Bass
+Q:1/2=80
+K:A
+V:1 (e/>d/)|(c>  B)  A |(GF)d  |(cA)G |A2  ||B |(c>d)e |(ed)c |(cB)||
+V:2  E     | E2      E | D2 F  | E2 D |C2  ||E | E2  E | E2 E | E2 ||
+V:3 (c/>B/)| A2      A | A2 A  |(Ac)B |A2  ||G |(A>B)c | B2 A |(AG)||
+V:4  A,,   |(A,,>B,,)C,| D,2B,,| E,2E,|A,,2||E,| A,,2A,| G,2A,| E,2||
+%
+V:1 e |(ed) c |d2  d  |(dc)B |c2 ||(e/>d/)|(c> B) A |(F/B/A) G    |A2  |]
+V:2 E | F2  F |F2  F  | E2 E |E2 || E     |(E> G) F |(F   E)(E/D/)|C2  |]
+V:3 c |(cB)^A |B2  B  |(BA)G |A2 || B     |(A> d) c |(d   c) B    |A2  |]
+V:4 A,| F,2 F,|B,,2B,,| E,2E,|A,2|| G,    |(A,>E,)F,|(D,  E,)E,   |A,,2|]

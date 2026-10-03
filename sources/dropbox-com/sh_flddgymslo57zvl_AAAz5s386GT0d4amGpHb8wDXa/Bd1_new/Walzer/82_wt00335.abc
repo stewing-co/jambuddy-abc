@@ -1,0 +1,61 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Die sch\"one Schwarzw\"alderin (Walzer) BbEb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.282 (wt00335) orig. Bb,Eb-Dur
+T: Repertoire der <S\"achser Musig> 1880-1900, Weinigen ZH. S.275-296
+M:3/4
+L:1/4
+K:Bb %%MIDI gchordon
+"Bb"(D3 | D)Fd | c2B | F2^F | "Eb"G3 | GAB | "Bb"B3 | Bde | "F7"(f3 | 
+f)=e_e | "Bb"d3 | dBG | "F7"F3 | FGA | "Bb"(B3 | B)zd || "Bb"d^c>d | B2G |   
+(F3 | F)zd | d^c>d | B2F | "F7"(A3 | A)zc | c=B>c | f2d |  "Bb"(d3 | 
+d)zF | "Eb"G^F>G | "F7"c2f | "Bb"(B3 | B)zz || [K:Eb] "Eb"G3 | GA=A | "Bb7"(B3 | B)zF | 
+"F7"FG/F/ =E/F/ | "Bb7"B2F | "Eb"(G3 | G)zE | "Ab"[ce]3 | "Bb7"[dB]2 [FB] | [FB]2 [Ac] | [DB]2 [AF] | "Eb"[EG]3 | 
+"Bb7"[DF]2 E | "Eb"(E3 | E)zG || "Eb"edc | "Bb7"B3 | "Fm"cBA | "G7"G3 | "Bb7"AGF | "Eb"E3 | 
+"Cm"EGc | "Bb7"B3 | "Eb".g.f.e | "Bb7"d3 | "Fm".e.d.c | "Gm".B.A.G | "Bb7"F3 | .A.G.F | "Eb"(E3 | E)zz |] 
+
+X:2
+T:Die sch\"one Schwarzw\"alderin (Walzer) CF 2+ chords
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+"C"(E3 | E)Ge | d2c | G2^G | "F"A3 | ABc | "C"c3 | cef | "G7"(g3 | 
+g)^f=f | "C"e3 | ecA | "G7"G3 | GAB | "C"(c3 | c)ze || "C"e^d>e | c2A | 
+(G3 | G)ze | e^d>e | c2G | "G7"(B3 | B)zd | d^c>d | g2e | "C"(e3 | 
+e)zG | "F"A^G>A | "G7"d2g | "C"(c3 | c)zz || [K:Fmaj] "F"A3 | AB=B | "C7"(c3 | c)zG | 
+"G7"GA/2G/2 ^F/2G/2 | "C7"c2G | "F"(A3 | A)zF | "Bb"[df]3 | "C7"[ec]2 [Gc] | [Gc]2 [Bd] | [Ec]2 [BG] | "F"[FA]3 | 
+"C7"[EG]2 F | "F"(F3 | F)zA || "F"fed | "C7"c3 | "Gm"dcB | "A7"A3 | "C7"BAG | "F"F3 | 
+"Dm"FAd | "C7"c3 | "F".a.g.f | "C7"e3 | "Gm".f.e.d | "Am".c.B.A | "C7"G3 | .B.A.G | "F"(F3 | F)zz |] 
+
+X:3
+T:Die sch\"one Schwarzw\"alderin (Walzer) CF 2+ (align)
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+"C"(E3 | E)Ge | d2c | G2^G | "F"A3 | ABc | "C"c3 | cef | "G7"(g3 | \
+g)^f=f | "C"e3 |
+ ecA | "G7"G3 | GAB | "C"(c3 | c)ze || "C"e^d>e | c2A | \
+(G3 | G)ze | e^d>e |
+ c2G | "G7"(B3 | B)zd | d^c>d | g2e | "C"(e3 | \
+e)zG | "F"A^G>A | "G7"d2g | "C"(c3 |
+ c)zz || [K:Fmaj] "F"A3 | AB=B | "C7"(c3 | c)zG | \
+"G7"GA/2G/2 ^F/2G/2 | "C7"c2G | "F"(A3 | A)zF | "Bb"[df]3 |
+ "C7"[ec]2 [Gc] | [Gc]2 [Bd] | [Ec]2 [BG] | "F"[FA]3 | \
+"C7"[EG]2 F | "F"(F3 | F)zA || "F"fed | "C7"c3 | "Gm"dcB | "A7"A3 |
+ "C7"BAG | "F"F3 | \
+"Dm"FAd | "C7"c3 | "F".a.g.f | "C7"e3 | "Gm".f.e.d | "Am".c.B.A | "C7"G3 | .B.A.G | "F"(F3 | F)zz |] 
+
+X:4
+T:Die sch\"one Schwarzw\"alderin (Walzer) EbAb (5letras) cf. CF
+M:3/4
+L:1/4
+K:Ebmaj%%MIDI gchordon
+"Eb"(G3 | G)Bg | f2e | B2=B | "Ab"c3 | cde | "Eb"e3 | ega | "Bb7"(b3 | 
+b)=a_a | "Eb"g3 | gec | "Bb7"B3 | Bcd | "Eb"(e3 | e)zg || "Eb"g^f>g | e2c | 
+(B3 | B)zg | g^f>g | e2B | "Bb7"(d3 | d)zf | f=e>f | b2g | "Eb"(g3 | 
+g)zB | "Ab"c=B>c | "Bb7"f2b | "Eb"(e3 | e)zz || [K:Abmaj] "Ab"c3 | cd=d | "Eb7"(e3 | e)zB | 
+"Bb7"Bc/2B/2 =A/2B/2 | "Eb7"e2B | "Ab"(c3 | c)zA | "Db"[fa]3 | "Eb7"[ge]2 [Be] | [Be]2 [df] | [Ge]2 [dB] | "Ab"[Ac]3 | 
+"Eb7"[GB]2 A | "Ab"(A3 | A)zc || "Ab"agf | "Eb7"e3 | "Bbm"fed | "C7"c3 | "Eb7"dcB | "Ab"A3 | 
+"Fm"Acf | "Eb7"e3 | "Ab".c'.b.a | "Eb7"g3 | "Bbm".a.g.f | "Cm".e.d.c | "Eb7"B3 | .d.c.B | "Ab"(A3 | A)zz |] 

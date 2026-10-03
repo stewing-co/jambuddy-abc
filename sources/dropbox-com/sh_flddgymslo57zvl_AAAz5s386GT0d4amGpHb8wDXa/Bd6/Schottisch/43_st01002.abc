@@ -1,0 +1,122 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Gigeli-Ritschge (Schottisch)  F
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.264 (st01002) orig. F-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"c2ff f2f2 | A2cc c2c2 | F2A2 G2F2 | "C7"E4G4 | B2ee e2e2 | G2BB B2B2 | E2B2 A2G2 | "F"F4F4 :|
+W:
+W: Gige(li) - eine Geige (violin); ritschge - knirschen, kratzen, kreischen ... (crunch, gnash, scratch, screech ...)
+W: Ritschger - 'ein elender Geiger' (a poor/bad/terrible violin player)
+W: see: https://www.idiotikon.ch/online-woerterbuch 
+X:2
+T:Gigeli-Ritschge (Schottisch)  G 2+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+"G"d2gg g2g2 | B2dd d2d2 | G2B2 A2G2 | "D7"F4A4 | c2ff f2f2 | A2cc c2c2 | F2c2 B2A2 | "G"G4G4 :|
+% st01002
+X:3
+T:Gigeli-Ritschge (Schottisch)  C 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+"C"G2cc c2c2 | E2GG G2G2 | C2E2 D2C2 | "G7"B,4D4 | F2BB B2B2 | D2FF F2F2 | B,2F2 E2D2 | "C"C4C4 :|
+% st01002
+X:4
+T:Gigeli-Ritschge (Schottisch)  C 7+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+"C"g2c'c' c'2c'2 | e2gg g2g2 | c2e2 d2c2 | "G7"B4d4 | f2bb b2b2 | d2ff f2f2 | B2f2 e2d2 | "C"c4c4 :|
+% st01002
+X:5
+T: Gigeli-Ritschge (Schottisch)  F (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+"F"c2ff f2f2 | A2cc c2c2 | F2A2 G2F2 | "C7"E4G4 | B2ee e2e2 | G2BB B2B2 | E2B2 A2G2 | "F"F4F4 :|
+% st01002
+X:6
+T:Gigeli-Ritschge (Schottisch)  G (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"d2gg g2g2 | B2dd d2d2 | G2B2 A2G2 | "D7"F4A4 | c2ff f2f2 | A2cc c2c2 | F2c2 B2A2 | "G"G4G4 :|
+% st01002
+X:7
+T:Gigeli-Ritschge (Schottisch)  C (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"G2cc c2c2 | E2GG G2G2 | C2E2 D2C2 | "G7"B,4D4 | F2BB B2B2 | D2FF F2F2 | B,2F2 E2D2 | "C"C4C4 :|
+% st01002
+X:8
+T:Gigeli-Ritschge (Schottisch)  C (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:Ctranspose=3 %%MIDI gchordon
+"C"g2c'c' c'2c'2 | e2gg g2g2 | c2e2 d2c2 | "G7"B4d4 | f2bb b2b2 | d2ff f2f2 | B2f2 e2d2 | "C"c4c4 :|
+% st01002
+X:9
+T:Gigeli-Ritschge (Schottisch) D (tinwhistle in D)
+T:st01002 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"A2dd d2d2 | F2AA A2A2 | D2F2 E2D2 | "A7"C4E4 | G2cc c2c2 | E2GG G2G2 | C2G2 F2E2 | "D"D4D4 :|
+X:10
+T:Gigeli-Ritschge (Schottisch) G (tinwhistle in D)
+T:st01002 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+"G"d2gg g2g2 | B2dd d2d2 | G2B2 A2G2 | "D7"F4A4 | c2ff f2f2 | A2"_c"cc c2c2 | F2"_c"c2 B2A2 | "G"G4G4 :|
+X:11
+T:Gigeli-Ritschge (Schottisch) D (tinwhistle in D) solo
+T:st01002 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D transpose=12
+"D"A2dd d2d2 | F2AA A2A2 | D2F2 E2D2 | "A7""_=C"F4E4 | G2cc c2c2 | E2GG G2G2 | "_=C"A2G2 F2E2 | "D"D4D4 :|
+X:12
+T:Gigeli-Ritschge (Schottisch) G (tinwhistle in D) solo
+T:st01002 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=12
+"G"d2gg g2g2 | B2dd d2d2 | G2B2 A2G2 | "D7"F4A4 | c2ff f2f2 | A2cc c2c2 | F2c2 B2A2 | "G"G4G4 :|
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 30, 2016

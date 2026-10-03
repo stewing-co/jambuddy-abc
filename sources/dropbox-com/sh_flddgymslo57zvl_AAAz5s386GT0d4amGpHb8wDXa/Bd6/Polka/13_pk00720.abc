@@ -1,0 +1,95 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Rheinl\"ander Polka  GD
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.204 (pk00720) orig. G,D-Dur
+T:Walliser T\"anze. S.196-213. \"Uberliefert durch Josef Seewer und Marcel Tschopp, Leuk, 
+T: und Sepp Mutter, Ried/Brigerberg
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+Bc |: "G"d2b2 "D7"c2a2 | "G"B2g2 gdBG | "D7"F2e2 edcA | "G"GBdg b2Bc | d2b2 "D7"c2a2 | 
+"G"B2g2 gdBG | "D7"F2e2 edcA | "G"G2B2G2z2 :: [K:D] "A7"A2AB A2AB | "D"FAdf A4 | "A7"A2gf g2e2 | 
+"D"B2A^G A2A2 | "A7"A2AB A2AB | "D"FAdfa4 | "A7"a2gf g2e2 | "D"d2f2d2 z2 :: [K:G] [L:1/8] "D7"A>B c>e | 
+"G"ed d/^c/d | "D7"dc d>c | "G"cB B/A/B | "D7"A>B c>e | "G"ed d/^c/d | "D7"dc ef | "G"g3z |] 
+X:2
+T:Rheinl\"ander Polka  CG 7-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+EF |: "C"G2e2 "G7"F2d2 | "C"E2c2 cGEC | "G7"B,2A2 AGFD | "C"CEGc e2EF | G2e2 "G7"F2d2 | 
+"C"E2c2 cGEC | "G7"B,2A2 AGFD | "C"C2E2C2z2 :: [K:G] "D7"D2DE D2DE | "G"B,DGB D4 | "D7"D2cB c2A2 | 
+"G"E2D^C D2D2 | "D7"D2DE D2DE | "G"B,DGBd4 | "D7"d2cB c2A2 | "G"G2B2G2 z2 :: [K:C] [L:1/8] "G7"D>E F>A | 
+"C"AG G/2^F/2G | "G7"GF G>F | "C"FE E/2D/2E | "G7"D>E F>A | "C"AG G/2^F/2G | "G7"GF AB | "C"c3z |] 
+% pk00720
+X:3
+T:Rheinl\"ander Polka  FC 2-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F%%MIDI gchordon
+AB |: "F"c2a2 "C7"B2g2 | "F"A2f2 fcAF | "C7"E2d2 dcBG | "F"FAcf a2AB | c2a2 "C7"B2g2 | 
+"F"A2f2 fcAF | "C7"E2d2 dcBG | "F"F2A2F2z2 :: [K:C] "G7"G2GA G2GA | "C"EGce G4 | "G7"G2fe f2d2 | 
+"C"A2G^F G2G2 | "G7"G2GA G2GA | "C"EGceg4 | "G7"g2fe f2d2 | "C"c2e2c2 z2 :: [K:F] [L:1/8] "C7"G>A B>d | 
+"F"dc c/2=B/2c | "C7"cB c>B | "F"BA A/2G/2A | "C7"G>A B>d | "F"dc c/2=B/2c | "C7"cB de | "F"f3z |] 
+% pk00720
+X:4
+T:Rheinl\"ander Polka  CG (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+EF |: "C"G2e2 "G7"F2d2 | "C"E2c2 cGEC | "G7"B,2A2 AGFD | "C"CEGc e2EF | G2e2 "G7"F2d2 | 
+"C"E2c2 cGEC | "G7"B,2A2 AGFD | "C"C2E2C2z2 :: [K:G] "D7"D2DE D2DE | "G"B,DGB D4 | "D7"D2cB c2A2 | 
+"G"E2D^C D2D2 | "D7"D2DE D2DE | "G"B,DGBd4 | "D7"d2cB c2A2 | "G"G2B2G2 z2 :: [K:C] [L:1/8] "G7"D>E F>A | 
+"C"AG G/2^F/2G | "G7"GF G>F | "C"FE E/2D/2E | "G7"D>E F>A | "C"AG G/2^F/2G | "G7"GF AB | "C"c3z |] 
+% pk00720
+X:5
+T:Rheinl\"ander Polka  FC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+AB |: "F"c2a2 "C7"B2g2 | "F"A2f2 fcAF | "C7"E2d2 dcBG | "F"FAcf a2AB | c2a2 "C7"B2g2 | 
+"F"A2f2 fcAF | "C7"E2d2 dcBG | "F"F2A2F2z2 :: [K:C] "G7"G2GA G2GA | "C"EGce G4 | "G7"G2fe f2d2 | 
+"C"A2G^F G2G2 | "G7"G2GA G2GA | "C"EGceg4 | "G7"g2fe f2d2 | "C"c2e2c2 z2 :: [K:F] [L:1/8] "C7"G>A B>d | 
+"F"dc c/2=B/2c | "C7"cB c>B | "F"BA A/2G/2A | "C7"G>A B>d | "F"dc c/2=B/2c | "C7"cB de | "F"f3z |] 
+% pk00720
+X:6
+T: Rheinl\"ander Polka G&D (tinwhistle in D)
+T: pk00720 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+Bc |: "G"d2b2 "D7"c2a2 | "G"B2g2 gdBG | "D7"F2e2 edcA | "G"GBdg b2Bc | d2b2 "D7"c2a2 | 
+"G"B2g2 gdBG | "D7"F2e2 edcA | "G"G2B2G2z2 :: [K:D] "A7"A2AB A2AB | "D"FAdf A4 | "A7"A2gf g2e2 | 
+"D"B2A^G A2A2 | "A7"A2AB A2AB | "D"FAdfa4 | "A7"a2gf g2e2 | "D"d2f2d2 z2 :: [K:G] [L:1/8] "D7"A>B c>e | 
+"G"ed d/^c/d | "D7"dc d>c | "G"cB B/A/B | "D7"A>B c>e | "G"ed d/^c/d | "D7"dc ef | "G"g3z |] 
+X:7
+T: Rheinl\"ander Polka G&D (tinwhistle in D) solo
+T: pk00720 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:G transpose=12
+B"_c"c |: d2b2 "_c"c2a2 | B2g2 gdBG | F2e2 ed"_c"cA | GBdg b2B"_c"c | d2b2 "_c"c2a2 | 
+B2g2 gdBG | F2e2 ed"_c"cA | G2B2G2z2 :: [K:D] A2AB A2AB | FAdf A4 | A2gf g2e2 | 
+B2A^G A2A2 | A2AB A2AB | FAdfa4 | a2gf g2e2 | d2f2d2 z2 :: [K:G] [L:1/8] A>B "_c"c>e | 
+ed d/^c/d | d"_c"c d>c | "_c"cB B/A/B | A>B "_c"c>e | ed d/^c/d | d"_c"c ef | g3z |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 24, 2016

@@ -1,0 +1,26 @@
+X:609
+T:Aria Euridice
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:Bb
+V: 9 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 9 )]
+%
+[Q:"Maestoso"][M:C] z| f4| a b b !fermata! z| z/ !p!"_stac." .f/.f/.f/ f z| z/ g/g/g/ g z| z/ e/e/e/ \
+e z| z/ f/f/f/ f z| z/ a/ a z/ b/ b| z/ c'/c'/c'/ c' z| z/ b/ b z/ c'/ c'| \
+z/ b/b/b/ b z| a b a b| a b a b| a f/>f/ f !fermata! z || \
+[Q:"Andante"][M:3/4] z3| "_oboe soli" z z// d//b//a// g//f//e//d//| c z z |z z// d//b//a// g//f//e//d//| c z z | z/ f/ b !fermata! z||
+[Q:"Andantino"][M:C] d/>e/| f>b (a/g/f/e/)| f-f//g//f//e// d/f/b/d/| c> c \
+d/B/f/d/| c .b .a z| z4| z4| z4| z2 z d/>e/| f> b a/g/f/=e/| f- f//g//f//e// \
+d z| a2 b2| "_oboe e clari."  a a2 c'| b z z2| z a2 c'| b z z2| Z2 | \
+=e4| f/a/ f z2| Z12| f2 z2| Z8 | f f2 a | f f2 a | f f g =e| f a f a| f f !fermata! f z|| \
+[Q:"Andante"][M:3/4] "_Tacet" Z13 | !fermata!z3 | z3 || \
+[Q:"Allegro assai"][M:C] B/B/ B/ z/ d/d/ d/ z/| f/f/ f/d/ b b| a g f e| d b a g| f e d c| B \
+z z2| z4|z =b b z| Z2| z c' c' z| Z2 | z b b z| Z2| z2 z "_clari. sole" z| z4 | z2 z f| e z z2| z2 z e| (d f d) z| f/ z/ d/ z/ e/ z/   c/ \
+z/| z b f z| f/ z/ d/ z/ e/ z/ c/ z/| (d f =a) z| z4| g> f e> f| g z z2| \
+z4| z4| f4| f z z2| z f2 f| f z z2| z b a g| f e d c| B z !fermata! B z| \
+A !fermata! z z2| z4| z/ e/e/e/ e z| Z3 | z/ g/g/g/ g z| Z6 | "_clari. solo" Z5 | \
+z/ !f!"_tutti" b/g/e/ B z| Z4 | f2 =a2| b/B/ B/ z/ d/d/ d/ z/| \
+f/f/ f/b/ f b| a g f e | d b a g| f e d c| B b b b| b2 z2 |] \

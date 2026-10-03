@@ -1,0 +1,18 @@
+X:702
+T:Velum templi
+C:Frei Manuel Cardoso
+M:C|
+L:1/4
+K:F
+V: 2 clef=alto name="Altus" sname="A."
+%%MIDI program 1 1
+%%staves [ 2 ]
+%-----
+F3 F | ^F2- G2 | E F2 F | F2 z F | D D D2 | D2 F3/2 F/  | \
+w: Ve- lum | tem- | pli scis- sum | est et | om- nis ter- | ra tre- mu- | \
+%
+F2 z F | F F E2 | E F D D | F E/D/ E2 | \
+w: it la- | tro de cru- | ce cla-ma-bat | di-cens
+%
+!segno!z A A2 | G G2 A | G3 F | F F F2- | F E F F | F3 E | D4 | !fine!E4 || x4 x4 x4 x3 || \
+w:  Me-men- | to me-i Do-mi- | ne dum ve- | - ne-ris in | re-gnum | tu- | um

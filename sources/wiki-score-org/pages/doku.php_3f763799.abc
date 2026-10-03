@@ -1,0 +1,27 @@
+X:1301
+T:N.17 Com animação
+C:Antonio Thomaz de Lima
+M:C
+L:1/4
+K:B
+V: 1 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%----------- edit between the lines ------------
+[M:4/4]                                                     \
+!ff! z/ !>!d'/!>!d'/!>!d'/ !>!e'/>.d'/.c'/!>!e'/           |\
+!>!d'/>!>!c'/ !>!b/!>!d'/ !>!c'/.e'//.c'// !>!b/!>![a/f/]  |\
+!mf!!>![b/g/].B//.B// .B//.B//.B//.B// !>!=c/>.B/ .A/.c/   |\
+!>!B/>.=A/ .=G/!>![G/B/] !f! A//B//c//d// e//f//g//a//     |\
+!fff! !>![b/d/](!>!f/f3)                                   |\
+!trill!f4 | !trill!f4  | !trill!f4                         |\
+!>!b/!>!B,/ z//B//d//f// b//a//g//f// ^e//f//g//f//        |\
+!>!e/>d/ c/^B/ d//c//=B//A// G/F//^E//                     |\
+G/!>!F/ !>!B,/.B,//.B,// !>!B,/.B,//.B,// !>!B,/.B,//.B,// |\
+!>!B,/.B,//.B,// z//e//g//e'// z//D//F//d// z              |\
+%!>!E/.E//.E// !>!D/.D//.D// [G/C/][G//C//][G//C//] [F/C/][F//C//][F//C//] |\
+!>!E/.E//.E// !>!D/.D//.D// [CG]/[CG]//[CG]// [C^^F]/[CF]//[CF]// | \
+!>![cE]/.[cE]//.[cE]// [^BF]/[BF]//[BF]// "^tal\~ao" !//!!>![eA] !//!!>![dA]       |\
+!//!!>![=g=c] !//!!>![fc] z/ [B/=F] z/ [_e/G/]             |\
+z/!>![gc]/ z/ !>![be]/ z z/ !>![ae]/                       || \
+-----------------------------------------------

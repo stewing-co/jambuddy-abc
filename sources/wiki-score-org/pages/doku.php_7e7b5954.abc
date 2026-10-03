@@ -1,0 +1,18 @@
+X:2311
+T:Coro
+C:Pugnani, Gaetano (1731-1798)
+M:3/8
+L:1/8
+K: Cm
+V: 11 clef=treble name="Violini I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 11 }]
+%---- edit between the lines -------------------
+[Q:"Andante"] !/! c3 | (c/>=B/) B2 | c>(_d c/B/) | (B/>A/) Az/A/ | G/A//F// ED | B,/G,/ C z | \
+!/! c3 | (c/=B/) B2 | cc>_B | (B/>=A/) A2| (B/d/)(c/e/)(d/f/) |\
+fed| {d}cc>B | {B}A2 z | !/! B3 | Bc'b | {b/}agf |\
+g/(f/e/_d/c/)=B/ | {e/}(c/B//A//) GF |g/f/(e/_d/c/=B/) | {e/}(c/B//A//) GF | E2 z ||\
+%
+% Please remove: this is section 24 already  -- [Q:"Presto"] [M: C] [K:Eb] [L:1/4] E//G//E//G// !//![EG] !//![EG,] z & G,4 |  ---
+%
+%-----------------------------------------------

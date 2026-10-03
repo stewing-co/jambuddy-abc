@@ -1,0 +1,104 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:L\"andler  CF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.329 (LD05864) orig. C,F-Dur
+T: "Riebg\"arteler", T\"anze aus Halisberg. S.319-338
+T: Aus dem Repertoire von Johann und Melchior Zenger.
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"ec ag fe | "F"fa df BA | "G7"AG Bd fb | "C"c'e gc'e2 | ec ag fe | "F"fa df BA | "G7"AG Bd fb  | "C"c'2z2z2 :| 
+|: "G7"dG Bd gf | "C"eG ceg2 | "G7"dG Bd gf | "C"ec' bag2 | "G7"dG Bd gf | "C"eG ceg2 | "G7"dG Bd fb | "C"c'2z2z2 :| [K:F]
+|: "F"FA cf ga | "Bb"bd bd gf | "C7"eG eG ce | "F"fA fAc2 | FA cf ga | "Bb"bd bd gf | "C7"eG eG ce | "F"f2z2z2 :| 
+|: "C7"cG ec ge | "F"fA cfa2 | "C7"be ge c'e | "F"fa cfA2 | "C7"cG ec ge | "F"fA cfa2 | "C7"be ge c'e | "F"f2z2z2 :| 
+W:
+W: Anmerkung H.C.: Peter Alpinice, 15. Sept. 1953
+% LD05864
+X:2
+T:L\"andler  GC 5-
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"BG ed cB | "C"ce Ac FE | "D7"ED FA cf | "G"gB dgB2 | BG ed cB | "C"ce Ac FE | "D7"ED FA cf | "G"g2z2z2 :| 
+|: "D7"AD FA dc | "G"BD GBd2 | "D7"AD FA dc | "G"Bg fed2 | "D7"AD FA dc | "G"BD GBd2 | "D7"AD FA cf | "G"g2z2z2 :| [K:C]
+|: "C"CE Gc de | "F"fA fA dc | "G7"BD BD GB | "C"cE cEG2 | CE Gc de | "F"fA fA dc | "G7"BD BD GB | "C"c2z2z2 :| 
+|: "G7"GD BG dB | "C"cE Gce2 | "G7"fB dB gB | "C"ce GcE2 | "G7"GD BG dB | "C"cE Gce2 | "G7"fB dB gB | "C"c2z2z2 :| 
+% LD05864
+X:3
+T:L\"andler  CF (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"ec ag fe | "F"fa df BA | "G7"AG Bd fb | "C"c'e gc'e2 | ec ag fe | "F"fa df BA | "G7"AG Bd fb  | "C"c'2z2z2 :| 
+|: "G7"dG Bd gf | "C"eG ceg2 | "G7"dG Bd gf | "C"ec' bag2 | "G7"dG Bd gf | "C"eG ceg2 | "G7"dG Bd fb | "C"c'2z2z2 :| [K:F]
+|: "F"FA cf ga | "Bb"bd bd gf | "C7"eG eG ce | "F"fA fAc2 | FA cf ga | "Bb"bd bd gf | "C7"eG eG ce | "F"f2z2z2 :| 
+|: "C7"cG ec ge | "F"fA cfa2 | "C7"be ge c'e | "F"fa cfA2 | "C7"cG ec ge | "F"fA cfa2 | "C7"be ge c'e | "F"f2z2z2 :| 
+% LD05864
+X:4
+T:L\"andler  GC (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"BG ed cB | "C"ce Ac FE | "D7"ED FA cf | "G"gB dgB2 | BG ed cB | "C"ce Ac FE | "D7"ED FA cf | "G"g2z2z2 :| 
+|: "D7"AD FA dc | "G"BD GBd2 | "D7"AD FA dc | "G"Bg fed2 | "D7"AD FA dc | "G"BD GBd2 | "D7"AD FA cf | "G"g2z2z2 :| [K:C]
+|: "C"CE Gc de | "F"fA fA dc | "G7"BD BD GB | "C"cE cEG2 | CE Gc de | "F"fA fA dc | "G7"BD BD GB | "C"c2z2z2 :| 
+|: "G7"GD BG dB | "C"cE Gce2 | "G7"fB dB gB | "C"ce GcE2 | "G7"GD BG dB | "C"cE Gce2 | "G7"fB dB gB | "C"c2z2z2 :| 
+% LD05864
+X:5
+T:L\"andler A&D (tinwhistle in D)
+T:LD05864 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:A %%MIDI gchordon
+"A"cA fe dc | "D"df Bd GF | "E7"FE GB dg | "A"ac eac2 | cA fe dc | "D"df Bd GF | "E7"FE GB dg | "A"a2z2z2 :| 
+|: "E7"BE GB ed | "A"cE Ace2 | "E7"BE GB ed | "A"ca gfe2 | "E7"BE GB ed | "A"cE Ace2 | "E7"BE GB dg | "A"a2z2z2 :| [K:D]
+|: "D"DF Ad ef | "G"gB gB ed | "A7"cE cE Ac | "D"dF dFA2 | DF Ad ef | "G"gB gB ed | "A7"cE cE Ac | "D"d2z2z2 :| 
+|: "A7"AE cA ec | "D"dF Adf2 | "A7"gc ec ac | "D"df AdF2 | "A7"AE cA ec | "D"dF Adf2 | "A7"gc ec ac | "D"d2z2z2 :| 
+X:6
+T:L\"andler A&D (tinwhistle in D) solo
+T:LD05864 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:A transpose=12
+cA fe dc | df Bd "_#"GF | FE "_#"GB d"_#"g | ac eac2 | cA fe dc | df Bd "_#"GF | FE "_#"GB d"_#"g | a2z2z2 :| 
+|: BE "_#"GB ed | cE Ace2 | BE "_#"GB ed | ca "_#"gfe2 | BE "_#"GB ed | cE Ace2 | BE "_#"GB d"_#"g | a2z2z2 :| [K:D]
+|: DF Ad ef | gB gB ed | cE cE Ac | dF dFA2 | DF Ad ef | gB gB ed | cE cE Ac | d2z2z2 :| 
+|: AE cA ec | dF Adf2 | gc ec ac | df AdF2 | AE cA ec | dF Adf2 | gc ec ac | d2z2z2 :|
+X:7
+T:L\"andler G&D (tinwhistle in D) var.
+T:LD05864 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"BG ed cB | "C"ce Ac FE | "D7"ED FA cf | "G"gB dgB2 | BG ed cB | "C"ce Ac FE | "D7"ED FA cf | "G"g2z2z2 :| 
+|: "D7"AD FA dc | "G"BD GBd2 | "D7"AD FA dc | "G"Bg fed2 | "D7"AD FA dc | "G"BD GBd2 | "D7"AD FA cf | "G"g2z2z2 :| [K:D]
+|: "D"DF Ad ef | "G"gB gB ed | "A7"cE cE Ac | "D"dF dFA2 | DF Ad ef | "G"gB gB ed | "A7"cE cE Ac | "D"d2z2z2 :| 
+|: "A7"AE cA ec | "D"dF Adf2 | "A7"gc ec ac | "D"df AdF2 | "A7"AE cA ec | "D"dF Adf2 | "A7"gc ec ac | "D"d2z2z2 :| 
+X:8
+T:L\"andler G&D (tinwhistle in D) var. solo
+T:LD05864 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:G transpose=12
+BG ed "_c"cB | "_c"ce Ac FE | ED FA "_c"cf | gB dgB2 | BG ed "_c"cB | "_c"ce Ac FE | ED FA "_c"cf | g2z2z2 :| 
+|: AD FA d"_c"c | BD GBd2 | AD FA d"_c"c | Bg fed2 | AD FA d"_c"c | BD GBd2 | AD FA "_c"cf | g2z2z2 :| [K:D]
+|: DF Ad ef | gB gB ed | cE cE Ac | dF dFA2 | DF Ad ef | gB gB ed | cE cE Ac | d2z2z2 :| 
+|: AE cA ec | dF Adf2 | gc ec ac | df AdF2 | AE cA ec | dF Adf2 | gc ec ac | d2z2z2 :|
+% July 24, 2016

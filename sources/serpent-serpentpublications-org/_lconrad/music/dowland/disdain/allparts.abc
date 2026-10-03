@@ -1,0 +1,186 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:I. Disdaine me still
+T:CANTUS.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+N:Original clef, C on first line
+K:G 
+z2 G/ G G/ G2 z A B > A G/ A/ B/ c/d4 |
+w:Dis- daine me still that I may e- * * ver love,
+w:As heate to life so is de- sire * * to love,
+z A A > A c > d e2 |
+w:For who his Love in-  joyes, 
+w:And these once quencht _ _ 
+"?"z d c B/ A/ B A B > A A4 |
+w:Can love, can * love no * *  more.
+w:Both life, both * life and love are gone.
+z A D/ E/ F/ G/ A A d2 | z c B3/4 d// c/ B/ A4 |
+w:The warre * once * past with ease men co-  * * wards prove:
+w:Let not * my * sighes  nor  teares thy ver- * * tue move,
+z c G E > F G > A B | A G A A G4 
+w:And ships re- * turnde, * do  rot up- pon the shore.
+w:Like ba- ser * met- * tals doe  not melt too soone,
+|:z2 G4 - G F/ E/ | F2 z F A3 A | B ^c d2 ^c d2 ^c | d2
+w:And * though thou frowne, Ile say thou art most faire, most * * faire:
+w:Laugh * at my woes, al- though I e- ver mourne, e- ver * mourne
+z B e2 d2 | z c2 B e2 d2 | z c > c B 
+w:And still Ile love, and still Ile love, Ile love, 
+w:Love for- fets with, Love for- fets with re- ward
+z B B c | d4 - d B A > A | HG4 :|
+w:Though still, though still * I must de- spayre
+w:his nurse, his nurse * is scorne, is scorne.
+
+
+X:2
+T:I. Disdaine me still
+T:ALTUS.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+N:Original clef, C on third line
+K:G 
+D D2 D "(1)"D2 E > F G F G > E F4
+N:(1) original has "d d > e f g" instead of "d2 e > f g".  You can compose your own replacement, but it does need to be a quarter note longer than the original.
+w: Dis- daine me still that * I may e- ver love:
+w: As heate to life so * is de- sire to love,
+F2 F F E E2 A 
+w: For who his Love in- joyes, 
+w: And these once quencht, once quencht,
+G3/2 =F/ E D > D C B, E E4
+w: Can love, * can love * no * more.
+w: Both life * and love * are * gone
+D2 D2 D/ E/ F2 F G E G > G F4
+w: The warre once past with ease men co- * wards prove:
+w: Let not my sighes nor teares thy ver- * tue move,
+E2 E C/ D/ E > F G > G F D D > C B,4
+w: And ships re-  * turnde, do rot,  do rot up- pon the shore.
+w: Like ba- ser * met- tals doe not, do not melt too soone,
+|:G3 F E ^D E3 ^D/ ^C/ ^D2 z E F2 G2 G2 A3/2 A A/ G/ A/ F2 
+w: And though thou frowne, thou * * frowne, Ile say thou art most faire, most * * faire:
+w: Laugh at my woes, my * * woes, al- though I e- ver mourne, e- ver * mourne:
+G2 G4 G4 G4 G4 G3 
+w: And still Ile love, Ile love, 
+w: Love for- fets with re- ward
+G F2 G2 A D3 HD4 :|
+w: Though still I must de- spayre.
+w: his nurse, his nurse is scorne.
+
+
+X:3
+T:I. Disdaine me still
+T:TENOR.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+N:Original clef, C on third line
+%%MIDI transpose -12
+K:G -8va
+B B2 B B2 d2 G d B G d4
+w: Dis- daine me still that I may e- ver love,
+w: As heate to life so is de- sire to love,
+d2 d A A3/4 B// c2 c c 
+w: For who his Love * * in- joyes, 
+w: And these once quencht, * * once quencht
+B > A A ^G A > A ^G A4
+w: Can * love, can love no * more.
+w: Both * life and love are * gone
+F > G A A d3 A B A G > d d4
+w: The * warre once past with ease men co- wards prove:
+w: Let * not my sighes nor teares thy ver- tue move,
+G2 c G c3/4 d// e2 d2 G G F G4
+w: And ships re- turnde, do * rot u- pon the shore.
+w: Like ba- ser met- tals * doe  not melt too soone,
+|:B3 B2 B2 A z2 z B ^c3  "(2)"d2 e > d g2 ^f e e d 
+N:(2) Original had a quarter note rest here.  You can take out a quarter note somewhere else, if you like.
+w: And though thou frowne, Ile say, Ile say thou art most faire, most faire:
+w: Laugh at my woes, al- though, al- though I e- ver, e- ver mourne,
+A e d2 c B2 e2 d3 c B2 e2 d > c B > A G 
+w: And still Ile love, and still Ile love, and still Ile love, * Ile love, 
+w: Love for- fets with, Love for- fets with, Love for- fets with * re- ward,
+e A B > B A/ G/ F G2 F HG4 :|
+w: Though still,  still I must de- spayre, de- * spayre.
+w: his nurse, nurse is scorne, is scorne, is * scorne.
+
+
+X:4
+T:I. Disdaine me still
+T:BASSUS.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -24
+K:G bass
+G g2 g g2 f2 e d e > e d4
+w: Dis- daine me still that I may e- ver love,
+w: As heate to life so is de- sire to love,
+d2 d d A2 A A3/4 B// c 
+w: For who his Love * * in- joyes, 
+w: And these once quencht, * * once quencht
+G A f e3 e A4
+w: Can love, can love no more.
+w: Both life and love are gone
+d2 d d d3 d G A B G d4
+w: The warre once past with ease men co- wards prove:
+w: Let not my sighes nor teares thy ver- tue move,
+c2 c c c2 G2 d B d d G4
+w: And ships re- turnde, do rot up- pon the shore.
+w: Like ba- ser met- tals doe not melt too soone,
+|: e3 d c4 B3 B A2 d2 g2 b2 a2 A2 d2
+w: And though thou frowne, Ile say thou art most faire, most faire:
+w: Laugh at my woes, al- though I e- ver, e- ver mourne,
+G g3 G4 G4
+w: And still Ile love, 
+w: Love for- fets with 
+g6 g2 e2 d6 d2 HG4 :|
+w: Though still, I must de- spayre.
+w: re- ward his nurse is scorne.
+

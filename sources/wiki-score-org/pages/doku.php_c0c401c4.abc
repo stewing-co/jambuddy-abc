@@ -1,0 +1,18 @@
+X:803
+T:N.11 Expressivo
+C:Antonio Thomaz de Lima
+M:C
+L:1/4
+K:A
+V: 3 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 3 ]
+%----------- edit between the lines ------------
+[Q:"Expressivo"] "_com surdina"\
+C A, (A,/G,/) (A,/F,/) | \
+(F,/A,/) (E,/D,/) (D,/ C,) z/| !<(!!<)!z//(E,// [E,E]/) z// (F,// [F,B,]/) z//(E,// [E,E]/) (C/^A,/)|(F,/B,/) z/ G,/ E,3/2 z/| \
+z/ C3/2 C3/2 C/| (F,/ C3/2) (C/>.B,/) !<(!^A,|!<)!D D !>(!C!>)!(^B,/C/)| D B, !sfz!^A,3/2 z/| \
+!f![DF] [DF] !>(![CG] !>)!(^B,/C/)||[M:3/4]"_Ret." z// [DF]3/4 z// [B,^E]3/4 !>(!A,-!>)!||[M:2/8]A,/z/|| \
+[M:2/4] "_sem surdina" Z3 | zz/!f! !>![E,E]/-| \
+!>![E,E]/!>!A/!>!F/!>!D/ | !>![EA] !>!F//!>!E//!>!D//!>!C// | !>![B,/F] z/ z/ !>![G,E]/ || [M:2/8] !>![A,E]/ z/ ||
+%-----------------------------------------------

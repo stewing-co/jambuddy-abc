@@ -1,0 +1,26 @@
+X:303
+T:Trio IV (Adagio)
+C:Costa, Abade António da (1714-c1780)
+M:C
+L:1/4
+K:F
+V: 3 clef=treble name="Violino III.zo" sname="Vl.III"
+%%MIDI program 1 40
+%%staves [ 3 ]
+%----- edit between the lines
+[Q:"Adagio"] "_[fol.19v (43)]" A | \
+A2 (c2 | _e2) (F2   | F3_E    | _E=D) (_E2  | G2) (B2   | _d2) (_E2 |
+_E4    | _E2) .c (=A | B3) (=A | B3) (=A     | B4        | =A) (B3   | B2)
+(=B2   | c4         | =B) (c3 | c2) (_B2    | =A4)      | (G4       | ^F) (G2 F) |
+(GD) (=B2 | c3) (=B | c3) (=B | c2 _B) (=A | B2 _A) (G |
+_A4    | "_check" F) (_AG^F   | GD) (=Bc    | B) (G3    | ^F) (GE) (=F |
+F =E) (F2 | F2 D) (=E | =B) (G3 | ^F)(G3    | ^F) (G3   | G G/>c/ G/)z/ :|:
+e-     | e2 (g2    | _b2) c2- | c3 (_B | B=A) (B2 | d2) (f2 | _a2) (B2 | B4 |
+"_[fol.20 (44)]" B2) (=A2 | GB)(=AA | G2 B)(A | G2B)(A | G4 | G2) F2- | F2
+(_E2 | _E3)(D | C2_E)(D | C2_E)(D | C4 | C2) B,2- | B,2 _A,2- |
+A,3d- | d2 (f2 | _a2) (B2 | B4 | B3) =e- | e2 (g2 | _b2) (c2 |
+c3) (B | =A) (B3 | _A3) (=D | G4 | F3) (_B, | E4 | E4 | E4 | E) (=F
+_E) (=D | _E3) (_D | C4 | C4 | C4 | C) (_DC) (=B, | C3) =E- | E (C3 | =B,) (C
+[K: Bb] "_check Bb..." =A,_B, | B,=A,) (B,2 | B,2 G,=A,)  | .=E (C3 | =B,) (C3 | =B,) (C3 |
+C C/>F/ C/)z/ "_Fine"  :|] \
+%---------------------------------

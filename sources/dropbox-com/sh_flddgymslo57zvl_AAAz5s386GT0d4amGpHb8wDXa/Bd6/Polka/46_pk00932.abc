@@ -1,0 +1,83 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Ronde enfantine (Polka)  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.272 (pk00932) orig. C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+G | "C"AGAB c3c | .d2.c2 .e3e | "G7"dcBc d3e | dcBA G3A | "C"G3A G3c | "G7"dced "C"c4 |] 
+X:2
+T:Ronde enfantine (Polka)  F 5+
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+c | "F"dcde f3f | .g2.f2 .a3a | "C7"gfef g3a | gfed c3d | "F"c3d c3f | "C7"gfag "F"f4 |] 
+% pk00932
+X:3
+T:Ronde enfantine (Polka)  F 7-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+C | "F"DCDE F3F | .G2.F2 .A3A | "C7"GFEF G3A | GFED C3D | "F"C3D C3F | "C7"GFAG "F"F4 |] 
+% pk00932
+X:4
+T:Ronde enfantine (Polka)  G 7+
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+d | "G"edef g3g | .a2.g2 .b3b | "D7"agfg a3b | agfe d3e | "G"d3e d3g | "D7"agba "G"g4 |] 
+% pk00932
+X:5
+T:Ronde enfantine (Polka)  G 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+D | "G"EDEF G3G | .A2.G2 .B3B | "D7"AGFG A3B | AGFE D3E | "G"D3E D3G | "D7"AGBA "G"G4 |] 
+% pk00932
+X:6
+T:Ronde enfantine (Polka)  C (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+G | "C"AGAB c3c | .d2.c2 .e3e | "G7"dcBc d3e | dcBA G3A | "C"G3A G3c | "G7"dced "C"c4 |] 
+% pk00932
+X:7
+T:Ronde enfantine (Polka) D (tinwhistle in D) solo
+T:pk00932 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+A | BABc d3d | .e2.d2 .f3f | edcd e3f | edcB A3B | A3B A3d | edfe d4 |]
+% pk00932
+X:8
+T:Ronde enfantine (Polka) G (tinwhistle in D) solo
+T:pk00932 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:G transpose=12
+D | EDEF G3G | .A2.G2 .B3B | AGFG A3B | AGFE D3E | D3E D3G | AGBA G4 |] 
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 6, 2016

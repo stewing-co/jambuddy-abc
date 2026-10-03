@@ -1,0 +1,102 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Zermatter Polka (nach 'Hofmuri')  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.252 (pk00696) orig. C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"Gceg a2g2 | Gceg a2g2 | "G7"G2Bd Pf2ed | "C"cegc' g2e2 | Gceg a2g2 | Gceg a2g2 | 
+"G"dbb2 "D7"caa2 |1 "G"g2g^f g4 :|2 "G"g2g^f g(gfg) |: "G7"b2a2 f3b | "C"a2gec4 | "G7"GBde Pf2ed | 
+"C"c2eg c'ge2 | "G7"b2a2 f3b | "C"a2gec4 | "G7"GBde f2ed | "C"c2e2c4 ::
+"C"Acc2 Gcc2 | E2c2 B2A2 | "G7"GBB2 GBB2 | F6G2 | GBB2 GBB2 |1 
+F2c2 B2A2 | "C"Gcc2 Gcc2 | E6G2 :|2 F2G2 A2B2 | "C"c4 "G7"BAB2 | "C"c6z2 |] 
+W:
+W: cf. Zermatter Polka (pk00693), Bd.VI, p248f
+% pk00696
+X:2
+T:Zermatter Polka (nach 'Hofmuri')  C (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"Gceg a2g2 | Gceg a2g2 | "G7"G2Bd Pf2ed | "C"cegc' g2e2 | Gceg a2g2 | Gceg a2g2 | 
+"G"dbb2 "D7"caa2 |1 "G"g2g^f g4 :|2 "G"g2g^f g(gfg) |: "G7"b2a2 f3b | "C"a2gec4 | "G7"GBde Pf2ed | 
+"C"c2eg c'ge2 | "G7"b2a2 f3b | "C"a2gec4 | "G7"GBde f2ed | "C"c2e2c4 ::\
+"C"Acc2 Gcc2 | E2c2 B2A2 |
+ "G7"GBB2 GBB2 | F6G2 | GBB2 GBB2 |1 \
+F2c2 B2A2 | "C"Gcc2 Gcc2 | E6G2 :|2 F2G2 A2B2 | "C"c4 "G7"BAB2 | "C"c6z2 |] 
+W:% pk00696
+X:3
+T:Zermatter Polka (nach 'Hofmuri')  G 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"DGBd e2d2 | DGBd e2d2 | "D7"D2FA Pc2BA | "G"GBdg d2B2 | DGBd e2d2 | DGBd e2d2 | 
+"D"Aff2 "A7"Gee2 |1 "D"d2d^c d4 :|2 "D"d2d^c d(dcd) |: "D7"f2e2 c3f | "G"e2dBG4 | "D7"DFAB Pc2BA | 
+"G"G2Bd gdB2 | "D7"f2e2 c3f | "G"e2dBG4 | "D7"DFAB c2BA | "G"G2B2G4 ::
+"G"EGG2 DGG2 | B,2G2 F2E2 | "D7"DFF2 DFF2 | C6D2 | DFF2 DFF2 |1 
+C2G2 F2E2 | "G"DGG2 DGG2 | B,6D2 :|2 C2D2 E2F2 | "G"G4 "D7"FEF2 | "G"G6z2 |] 
+% pk00696
+X:4
+T:Zermatter Polka (nach 'Hofmuri')  G (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:Gmaj transpose=3%%MIDI gchordon
+"G"DGBd e2d2 | DGBd e2d2 | "D7"D2FA Pc2BA | "G"GBdg d2B2 | DGBd e2d2 | DGBd e2d2 | 
+"D"Aff2 "A7"Gee2 |1 "D"d2d^c d4 :|2 "D"d2d^c d(dcd) |: "D7"f2e2 c3f | "G"e2dBG4 | "D7"DFAB Pc2BA | 
+"G"G2Bd gdB2 | "D7"f2e2 c3f | "G"e2dBG4 | "D7"DFAB c2BA | "G"G2B2G4 ::\
+"G"EGG2 DGG2 | B,2G2 F2E2 |
+"D7"DFF2 DFF2 | C6D2 | DFF2 DFF2 |1 \
+C2G2 F2E2 | "G"DGG2 DGG2 | B,6D2 :|2 C2D2 E2F2 | "G"G4 "D7"FEF2 | "G"G6z2 |] 
+W:% pk00696
+X:5
+T:Zermatter Polka (nach 'Hofmuri')  F 7-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+"F"CFAc d2c2 | CFAc d2c2 | "C7"C2EG PB2AG | "F"FAcf c2A2 | CFAc d2c2 | CFAc d2c2 | 
+"C"Gee2 "G7"Fdd2 |1 "C"c2c=B c4 :|2 "C"c2c=B c(cBc) |: "C7"e2d2 B3e | "F"d2cAF4 | "C7"CEGA PB2AG | 
+"F"F2Ac fcA2 | "C7"e2d2 B3e | "F"d2cAF4 | "C7"CEGA B2AG | "F"F2A2F4 ::
+"F"DFF2 CFF2 | A,2F2 E2D2 | "C7"CEE2 CEE2 | B,6C2 | CEE2 CEE2 |1 
+B,2F2 E2D2 | "F"CFF2 CFF2 | A,6C2 :|2 B,2C2 D2E2 | "F"F4 "C7"EDE2 | "F"F6z2 |] 
+% pk00696
+X:6
+T:Zermatter Polka (nach 'Hofmuri')  F (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:Fmaj transpose=3%%MIDI gchordon
+"F"CFAc d2c2 | CFAc d2c2 | "C7"C2EG PB2AG | "F"FAcf c2A2 | CFAc d2c2 | CFAc d2c2 | 
+"C"Gee2 "G7"Fdd2 |1 "C"c2c=B c4 :|2 "C"c2c=B c(cBc) |: "C7"e2d2 B3e | "F"d2cAF4 | "C7"CEGA PB2AG | 
+"F"F2Ac fcA2 | "C7"e2d2 B3e | "F"d2cAF4 | "C7"CEGA B2AG | "F"F2A2F4 ::\
+"F"DFF2 CFF2 | A,2F2 E2D2 |
+"C7"CEE2 CEE2 | B,6C2 | CEE2 CEE2 |1 \
+B,2F2 E2D2 | "F"CFF2 CFF2 | A,6C2 :|2 B,2C2 D2E2 | "F"F4 "C7"EDE2 | "F"F6z2 |] 
+% pk00696
+X:7
+T:Zermatter Polka (nach 'Hofmuri')  F (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:Fmaj transpose=3%%MIDI gchordon
+"F"cfac' d'2c'2 | cfac' d'2c'2 | "C7"c2eg Pb2ag | "F"fac'f' c'2a2 | cfac' d'2c'2 | cfac' d'2c'2 | 
+"C"ge'e'2 "G7"fd'd'2 |1 "C"c'2c'=b c'4 :|2 "C"c'2c'=b c'(c'bc') |: "C7"e'2d'2 b3e' | "F"d'2c'af4 | "C7"cega Pb2ag | 
+"F"f2ac' f'c'a2 | "C7"e'2d'2 b3e' | "F"d'2c'af4 | "C7"cega b2ag | "F"f2a2f4 ::\
+"F"dff2 cff2 | A2f2 e2d2 |
+"C7"cee2 cee2 | B6c2 | cee2 cee2 |1 \
+B2f2 e2d2 | "F"cff2 cff2 | A6c2 :|2 B2c2 d2e2 | "F"f4 "C7"ede2 | "F"f6z2 |] 
+% pk00696
+% July 4, 2016

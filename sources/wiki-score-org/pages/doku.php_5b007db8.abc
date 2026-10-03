@@ -1,0 +1,21 @@
+X:1108
+T:N.11 Raymundo
+C:Fonseca, Eduardo da (1863-1938)
+M:4/4
+L:1/4
+K:G
+V: 8 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 8 }]
+%---
+[Q:"Marcial"] [K: treble] !f!(3D/D/D/ (3D/D/D/ D/ [K: bass] [D,F,C]/z | \
+[G,B,]/z/ [D,G,B,]/z/ [D,G,B,]/z/ !arpeggio![G,,D,G,B,]/z/ || \
+G,,[D,G,]D,,[D,F,] | G,,/z/ [D,F,B,]/z/ !arpeggio![G,,D,G,B,]/z/ z |\
+[A,,A,][D,,D,][G,,G,][A,,E,] | [D,F,]/z/ [D,F,]/z/ (3[D,,D,]/E,/D,/ (3=C,/B,,/A,,/ | \
+[G,][D,G,][D,,][F,D,] | [G,,][D,G,B,][D,G,B,]z | A,,[F,A,D]A,,[E,A,^C] | \
+D,[F,A,][F,A,D]/z/ z [K:treble] | ([A=c]D) ([GB]D) | ([FA]D[FA])z | \
+([FA]B,)([EG]B,) | ([^DF]B,[DF]/)z/ z [K:bass] | [C,E,A,]/z/ [C,E,A,]/z/ [C,E,A,]/z/ [C,E,A,]/z/ | \
+[D,G,B,]/z/ [D,G,B,]/z/ [D,G,B,]/z/ [D,G,B,]/z/ | \
+[D,F,A,]/z/ [D,F,A,]/z/ [D,F,A,]/z/ [D,F,A,]/z/ | \
+[G,B,]/z/ [D,G,B,]/z/ !arpeggio! [G,,D,G,B,]/z/ z |] \
+%---

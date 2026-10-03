@@ -1,0 +1,42 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Luzerner Tanzlied (Polka) CF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.365 (pk05097) orig. C,F-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"gc'e2 egc2 | "G7"Bdfe d4 | fad2 dfB2 | "C"cded c4 | gc'e2 egc2 | "G7"Bdfe d4 | fad2 dfB2 |1 "C"c2e2 c2z2 :|2 "C"c2e2 c2G2 ||
+ |: {d}"C"cBcd {f}edef | a2g2 g2>e2 | "G7"g2f2 f2>d2| "C"f2e2 e2G2 | {d}cBcd {f}edef | a2g2 g2>e2 | "G7"g2f2 f2>d2|1 "C"c2e2 c2G2 :|2 "C"c2e2 c2c2 || [K:F] 
+|: "F"a2((3gfe) "Bb"g2(3(fed) | "F"c4A2c2 | "C7"B4G2B2 | "F"A4F2A2 | a2((3gfe) "Bb"g2(3(fed) | "F"c4A2c'2 | "Bb"b4 "C7"gcde |1 "F"f2a2 f2c2 :|2 "F"f2a2 f2z2 |] 
+
+X:1
+T:Luzerner Tanzlied (Polka) GC 5- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"dgB2 BdG2 | "D7"FAcB A4 | ceA2 AcF2 | "G"GABA G4 | dgB2 BdG2 | "D7"FAcB A4 | ceA2 AcF2 |1 "G"G2B2 G2z2 :|2 "G"G2B2 G2D2 ||
+|: {A}"G"GFGA {c}BABc | e2d2 d2>B2 | "D7"d2c2 c2>A2| "G"c2B2 B2D2 | {A}GFGA {c}BABc | e2d2 d2>B2 | "D7"d2c2 c2>A2|1 "G"G2B2 G2D2 :|2 "G"G2B2 G2G2 || [K:Cmaj] 
+|: "C"e2((3dcB) "F"d2(3(cBA) | "C"G4E2G2 | "G7"F4D2F2 | "C"E4C2E2 | e2((3dcB) "F"d2(3(cBA) | "C"G4E2g2 | "F"f4 "G7"dGAB |1 "C"c2e2 c2G2 :|2 "C"c2e2 c2z2 |] 
+
+X:1
+T: Luzerner Tanzlied (Polka) (5letras transposed CF)
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.365 (pk05097) orig. C,F-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"gc'e2 egc2 | "G7"Bdfe d4 | fad2 dfB2 | "C"cded c4 | gc'e2 egc2 | "G7"Bdfe d4 | fad2 dfB2 |1 "C"c2e2 c2z2 :|2 "C"c2e2 c2G2 ||
+ |: {d}"C"cBcd {f}edef | a2g2 g2>e2 | "G7"g2f2 f2>d2| "C"f2e2 e2G2 | {d}cBcd {f}edef | a2g2 g2>e2 | "G7"g2f2 f2>d2|1 "C"c2e2 c2G2 :|2 "C"c2e2 c2c2 || [K:F] 
+|: "F"a2((3gfe) "Bb"g2(3(fed) | "F"c4A2c2 | "C7"B4G2B2 | "F"A4F2A2 | a2((3gfe) "Bb"g2(3(fed) | "F"c4A2c'2 | "Bb"b4 "C7"gcde |1 "F"f2a2 f2c2 :|2 "F"f2a2 f2z2 |] 
+
+X:1
+T:Luzerner Tanzlied (Polka) (5letras transposed GC)
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"dgB2 BdG2 | "D7"FAcB A4 | ceA2 AcF2 | "G"GABA G4 | dgB2 BdG2 | "D7"FAcB A4 | ceA2 AcF2 |1 "G"G2B2 G2z2 :|2 "G"G2B2 G2D2 ||
+|: {A}"G"GFGA {c}BABc | e2d2 d2>B2 | "D7"d2c2 c2>A2| "G"c2B2 B2D2 | {A}GFGA {c}BABc | e2d2 d2>B2 | "D7"d2c2 c2>A2|1 "G"G2B2 G2D2 :|2 "G"G2B2 G2G2 || [K:Cmaj] 
+|: "C"e2((3dcB) "F"d2(3(cBA) | "C"G4E2G2 | "G7"F4D2F2 | "C"E4C2E2 | e2((3dcB) "F"d2(3(cBA) | "C"G4E2g2 | "F"f4 "G7"dGAB |1 "C"c2e2 c2G2 :|2 "C"c2e2 c2z2 |] 

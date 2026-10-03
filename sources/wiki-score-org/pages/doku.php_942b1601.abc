@@ -1,0 +1,37 @@
+X:2118
+T:Coro
+C:Pugnani, Gaetano (1731-1798)
+M:2/4
+L:1/4
+K:C
+V: 18 clef=bass name="Basso" sname="B."
+%%MIDI program 1 1
+%%staves [[ 18 ]]
+%-------------------------------
+[Q:"Andantino"] Z11 | C C/ C/ | C/> C,/ C,/z/ | \
+w: Lo sta-to mi-se-ro
+G,/z/ G,/ G,/| G, G,/ z/ | \
+w: dell' in-fe-li-ce
+G,_A,/ A,/ | G,/> G,/ A,/z/ | \
+w: de-gno'\`e di la-gri-me
+B, C/ C/ | G,>z | \
+w: e di pie-t\`a.
+G, G,/ G,/ | G,//> G,// G,/ z | \
+w: Lo sta-to mi-se-ro
+G, G,/ G,/ | G, G,/  z/ | Z4 | \
+w: dell' in-fe-li-ce
+CC/ C/ | C/> C,/ C,/z/ | \
+w: de-gno'\`e di la-gri-me
+CC/ C/ | C>z | \
+w: e di pie-t\`a
+F, F,/ F,/ | F,/> E,/ F,/ F,/ | G, G, | Cz | \
+w: de-gno'\`e di la-gri-me e di pie-t\`a
+C C/ C/ | C//> C,// C,/z | \
+w: Lo sta-to mi-se-ro
+C C/ C/ | C/ C,/ z | \
+w: dell' in-fe-li-ce
+E, E,/ E,/ | F,/> F,/ F,/ F,/ | G,G,|Cz/
+w: de-gno'\'e di la-gri-me e di pie-t\`a
+F,/ | G,G, | C,z |]
+w: e di pie-t\`a.
+%-------------------------------

@@ -1,0 +1,37 @@
+% input file bringato.mid
+% format 1 file 9 tracks
+X: 1
+T: 
+M: 4/4
+L: 1/8
+Q: 1/4=45
+K: G % 1 sharps
+% Time signature=3/4  MIDI-clocks/click=24  32nd-notes/24-MIDI-clocks=8
+% MIDI Key signature, sharp/flats=1  minor=0
+%Jeanette Isabella
+V: 1
+%Soprano
+%%MIDI program 74
+d'g/2g/2 f/2g/2a/2b/2 c'/2bz/2 d'g/2g/2|z/2g/2a/2b/2 a<g d'z/2d'/2 c'/2b/2b/2a/2|g/2gz/2 e/2f/2g/2dd/2c' c'/2bz/2|gz/2az/2b/2c'/2 b/2ad'<ba/2-|
+ag z/2az/2 b/2c'/2b/2ad'/2g-|g
+V: 2
+%Alto
+%%MIDI program 74
+gd/2ee/2e e/2fz/2 gd/2e/2-|e/2e/2e f<d gz/2e/2 f/2g/2g|e/2dz/2 ee/2BB/2e g/2fz/2|dz/2fz/2g g/2ff<gf/2-|
+fe z/2ez/2 gg/2z/2 fd-|d
+V: 3
+%Tenor
+%%MIDI program 74
+BB/2BB/2A A/2dz/2 dB/2B/2-|B/2B/2A c<B dz/2dd/2d|c/2Bz/2 A3/2A/2 F/2G/2G/2c/2 e/2dz/2|Gz/2dz/2d d/2dd<dc/2-|
+cB z/2cz/2 de/2dc/2B-|B
+V: 4
+%Bass
+%%MIDI program 74
+G,F,/2E,D,/2C,/2B,,/2 A,,/2D,z/2 B,,B,,/2E,/2-|E,/2D,/2C, D,<G, B,z/2A,G,/2B,,|C,/2D,z/2 C,3/2B,,B,,/2A,, A,,/2D,z/2|B,,z/2D,z/2G, G,/2F,D,<G,D,/2-|
+D,E, z/2C,z/2 B,,C,/2D,D,/2G,-|G,
+%Jeanette, Isabella
+%%MIDI program 0
+%Trad.
+%%MIDI program 0
+%\0xa9 1995 by Curtis Clark, free for personal use
+%%MIDI program 0

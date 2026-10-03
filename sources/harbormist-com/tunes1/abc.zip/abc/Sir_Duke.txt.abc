@@ -1,0 +1,30 @@
+X: 1
+T:Waiting for Jody
+C:©Stevie Wonder
+R:Reel
+M: 4/4
+L: 1/8
+N: Q: 1/4=120
+%%MIDI gchord fzczfzczfzczfzcz
+K:C
+|: "C"C2E2 G3/2c/2 z2 | "Am"A,A, C/B,/C E/^D/E/A/ z2 | "Ab"_A,A, CC _E/D/E _A3/2G/- | "G"G2 z2 z4 :|
+P:A
+| "C"z2eg aged | "Am"cd2A-A2 Ac | "Ab"_edc_A ce2d- | "G"d4 z4 |
+| "C"z2eg aged | "Am"cd2A-A2 Ac | "Ab"_edc_A ce2d- | "G"d3c- cz z/c/c/c/ ||
+P:B
+|: "F9"cc "E9"BB "Eb9"_BB "D9"AA | "Eb9"_BB "E9"=BB/c/- "F9"c2 z/c/c/c/ | "F9"cc "E9"BB "Eb9"_BB "D9"AA |
+|1 "Eb9"_B"E9"=B "F9"c"F#9"^c/d/- "G9"d2 z/=c/c/c/ :|2 "Eb9"_B"E9"=B "F9"c"F#9"^c/d/- "G9"d2 z2 ||
+P:C
+| "C"z2 eg gege | "F#m7"baba-a4 | "FMaj7"z2ag ge"Em"ag | "Dm7"e2 d/c/A "F/G"c2 AG |
+| "C"z2 eg gege | "F#m7"baba-a4 | "FMaj7"z2ag ge"Em"ag | "Dm7"e2 d/c/A "F/G"c2 A2 ||
+P:D
+%%MIDI gchordoff,
+| "C"Cz z/C/E/D/ z/D/A/G/ z/G,/G,/A,/ | CD/_E/ =E/G/A/c/-c/d/_e/=e/ z2 |\
+| a3/2e/- eg- gd2 e | d/c/A/G/ d/c/A/c/- c2 z2 |
+| ed/c/ d/c/A/c/ A/G/A- A/G/E/G/ | E/D/E/D/ C/D/C/A,/ A,G,z2 |\
+| G,/A,/C/D/ E/G/A/c/ c/A/c3/2 c/AG/ | A3/2G- G/EG/- GG/G/ z2  |]
+
+%%textfont Helvetica 10
+%%begintext
+R&0 2011, version 1
+%%endtext

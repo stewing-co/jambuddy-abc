@@ -1,0 +1,27 @@
+X:608
+T:Aria Euridice
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:Bb
+V: 8 clef=treble name="Clarinete II" sname="Cl.II"
+%%MIDI program 1 71
+%%staves [( 8 )]
+%
+[Q:"Maestoso"][M:C] z| d4| c d d !fermata! z| z/ .B/.B/B/ .B z| z/ B/B/B/ B z| z/ c/c/c/ \
+c z| z/ B/B/B/ B z| z/ c/ c z/ d/ d| z/ e/e/e/ e z| z/ d/ d z/ e/ e| z/ d/d/d/ \
+d z| c d/=e/ f d/=e/| f d/=e/ f d/=e/| f A/>A/ A !fermata! z || \
+[Q:"Andante"][M:3/4] z3| "_oboe soli" "_NB:assumed until next reference to both)" Z4 | z2 !fermata! z|| \
+[Q:"Andantino"][M:C] z|Z11|c \
+f2 a|g z z2| z f2 a| g z z2| z4| z4| B4| A/c/ A z2| z4|z4| z4| z4| z4| z4| \
+z4| z4| z4| z4| z4| z4| A2 z2| z4| z4| z4| z4| z4| z4| z4| z4| A A2 c| A \
+A2 c| A c d B| A c A c| A A !fermata! A z|| \
+[Q:"Andante"][M:3/4] "_Tacet" Z13 | !fermata!z3 | z3 || \
+[Q:"Allegro assai"][M:C] D/D/ D/ z/ F/F/ F/ z/| B/B/ B/d/ B D| c B A G| F g f e| d c B A| B z z2| z4|z d d z| z4| z4| \
+z e e z| z4| z4| z d d z| z4| z4| z2 z c| B z z2| z2 z d| c z z2| z2 z c| \
+(B d B) z| d/ z/ B/ z/ c/ z/ F/ z/| z f d z| d/ z/ B/ z/ c/ z/ F/ z/| B d \
+f z| z4| e> B G> B| e z z2| z4| z4| B (d e c)| c/d/ z z2| z (d e c)| d z \
+z2| z d c B| A G F E| D z !fermata! =E z| F !fermata! z z2| z4| z/ G/G/G/ \
+G z| z4| z4| z4| z/ e/e/e/ e z| z4| z4| z4| z4| z4| z4| d/ z/ B/ z/ c/ z/ F/ z/ | \
+d/ z/ B/ z/ c/ z/ F/ z/ | B/z/  z z2| z4| z4| z/ g/e/B/ G z| z4| z4| z4| z4| d2 c2| B/B/ B/z/ \
+B/B/ B/z/ | B/B/ B/z/ z d| c B A G| F g f e| d c B =A| B d d d| d2 z2 |] \

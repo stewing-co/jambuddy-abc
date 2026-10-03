@@ -1,0 +1,54 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Walzer  FBb chords 
+T:Hanny Christen. Bd.I  Z\"urich, Schaffhausen, St. Gallen I. S.162  (wz00259) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+c'd' | "F"c'2a2f2 | d3cc2 | Ac fA cf | "C7"d3cB2 | c2b2e2 | d3cc2 | Bc eB ce | 
+"F"fA cfa2 | c2a2f2 | d3cc2 | Ac fA cf | "C7"ec egb2 | c2b2e2 | d3cc2 | dc =Bc de | 
+"F"f2z2fa ||"C7"c'6 | c'2=b2_b2 | "F"a6 | a2g2f2 | "C7"e6 | e2d2e2 | "F"fa gf ed | c2Ac fa | 
+"C7"c'6 | c'2=b2_b2 | "F"a6 | a2 ba gf | "C7"e3dc2 | ba gf eg | "F"f2 ef ag | "F7"f2gf gf || [K:Bb] 
+"Bb"f4b2 | z2gf gf | "F7"f4a2 | z2gf gf | f4e2 | e2d3c | "Bb"c4B2 | z2gf gf | 
+f4b2 | z2gf gf | "F7"f4a2 | z2gf gf | f4e2 | e2d3c | "Bb"B2AB df | b2z2z2 |] 
+W:
+W: Anmerkung HC: Weggis 29, K\"agiswil 45, Steinen 73, Joh. Fuchs 18
+
+X:2
+T:Walzer  CF 5- chords 
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+ga | "C"g2e2c2 | A3GG2 | EG cE Gc | "G7"A3GF2 | G2f2B2 | A3GG2 | FG BF GB | 
+"C"cE Gce2 | G2e2c2 | A3GG2 | EG cE Gc | "G7"BG Bdf2 | G2f2B2 | A3GG2 | AG ^FG AB | 
+"C"c2z2ce ||"G7"g6 | g2^f2=f2 | "C"e6 | e2d2c2 | "G7"B6 | B2A2B2 | "C"ce dc BA | G2EG ce | 
+"G7"g6 | g2^f2=f2 | "C"e6 | e2 fe dc | "G7"B3AG2 | fe dc Bd | "C"c2 Bc ed | "C7"c2dc dc || [K:Fmaj] 
+"F"c4f2 | z2dc dc | "C7"c4e2 | z2dc dc | c4B2 | B2A3G | "F"G4F2 | z2dc dc | 
+c4f2 | z2dc dc | "C7"c4e2 | z2dc dc | c4B2 | B2A3G | "F"F2EF Ac | f2z2z2 |] 
+
+X:3
+T:Walzer  GC 10- chords 
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+de | "G"d2B2G2 | E3DD2 | B,D GB, DG | "D7"E3DC2 | D2c2F2 | E3DD2 | CD FC DF | 
+"G"GB, DGB2 | D2B2G2 | E3DD2 | B,D GB, DG | "D7"FD FAc2 | D2c2F2 | E3DD2 | ED ^CD EF | 
+"G"G2z2GB ||"D7"d6 | d2^c2=c2 | "G"B6 | B2A2G2 | "D7"F6 | F2E2F2 | "G"GB AG FE | D2B,D GB | 
+"D7"d6 | d2^c2=c2 | "G"B6 | B2 cB AG | "D7"F3ED2 | cB AG FA | "G"G2 FG BA | "G7"G2AG AG || [K:Cmaj] 
+"C"G4c2 | z2AG AG | "G7"G4B2 | z2AG AG | G4F2 | F2E3D | "C"D4C2 | z2AG AG | 
+G4c2 | z2AG AG | "G7"G4B2 | z2AG AG | G4F2 | F2E3D | "C"C2B,C EG | c2z2z2 |] 
+
+X:4
+T:Walzer  GC 2+ chords 
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+d'e' | "G"d'2b2g2 | e3dd2 | Bd gB dg | "D7"e3dc2 | d2c'2f2 | e3dd2 | cd fc df | 
+"G"gB dgb2 | d2b2g2 | e3dd2 | Bd gB dg | "D7"fd fac'2 | d2c'2f2 | e3dd2 | ed ^cd ef | 
+"G"g2z2gb ||"D7"d'6 | d'2^c'2=c'2 | "G"b6 | b2a2g2 | "D7"f6 | f2e2f2 | "G"gb ag fe | d2Bd gb | 
+"D7"d'6 | d'2^c'2=c'2 | "G"b6 | b2 c'b ag | "D7"f3ed2 | c'b ag fa | "G"g2 fg ba | "G7"g2ag ag || [K:Cmaj] 
+"C"g4c'2 | z2ag ag | "G7"g4b2 | z2ag ag | g4f2 | f2e3d | "C"d4c2 | z2ag ag | 
+g4c'2 | z2ag ag | "G7"g4b2 | z2ag ag | g4f2 | f2e3d | "C"c2Bc eg | c'2z2z2 |] 

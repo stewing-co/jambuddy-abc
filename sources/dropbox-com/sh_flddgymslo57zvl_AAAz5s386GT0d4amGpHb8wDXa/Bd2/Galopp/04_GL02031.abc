@@ -1,0 +1,61 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Galopp  CF
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.296 (GL02031) orig. C,F
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T: Überliefert vermutlich durch Joggi Stocker (1889-1956)
+O:Switzerland
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c'2ba | g3^f | ag cd | e3f | "G7"ed zf | ed zf | dc Bd | g4 | 
+"C"c'2ba | g3^f | ag cd | e2zf | "G7"ed ze | "C"dc ze | "G7"g2B2 | "C"c2z2 || 
+|: "G7"G2A2 | GB e>d | "C"d3c | G3c | "G7"B2g2 | g^f/g/ ag |1 ("C"e4 | e)d cA :|2 
+("C"c4 | c2)cc || [K:F] "F".f2.f2 | a2gf | "C7"eb eb | .e2cc | .g2.g2 | b2ag | "F"fa fa | 
+f2cc | .f2.f2 | a2gf | "Bb".d2.d2 | g3f | "C7"ec' eb | cb ag | "F".f2.a2 | .f2z2 |] 
+% GL02031
+
+X:2
+T:Galopp  CF  (GL02031)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.296 (GL02031) orig. C,F
+O:Switzerland
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c'2ba | g3^f | ag cd | e3f | "G7"ed zf | ed zf | dc Bd | g4 | \
+"C"c'2ba | g3^f |
+ ag cd | e2zf | "G7"ed ze | "C"dc ze | "G7"g2B2 | "C"c2z2 \
+|: "G7"G2A2 | GB e>d | "C"d3c | G3c |
+ "G7"B2g2 | g^f/g/ ag |1 ("C"e4 | e)d cA :|2 \
+("C"c4 | c2)cc || [K:F] "F".f2.f2 | a2gf | "C7"eb eb | .e2cc |
+ .g2.g2 | b2ag | "F"fa fa | \
+f2cc | .f2.f2 | a2gf | "Bb".d2.d2 | g3f | "C7"ec' eb | cb ag | "F".f2.a2 | .f2z2 |] 
+% GL02031
+
+X:3
+T:Galopp  GC 5-  (GL02031)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.296 (GL02031) orig. C,F
+O:Switzerland
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+"G"g2fe | d3^c | ed GA | B3c | "D7"BA zc | BA zc | AG FA | d4 | \
+"G"g2fe | d3^c |
+ ed GA | B2zc | "D7"BA zB | "G"AG zB | "D7"d2F2 | "G"G2z2 \ 
+|: "D7"D2E2 | DF B>A | "G"A3G | D3G |
+ "D7"F2d2 | d^c/2d/2 ed |1 ("G"B4 | B)A GE :|2 \
+("G"G4 | G2)GG || [K:C] "C".c2.c2 | e2dc | "G7"Bf Bf | .B2GG |
+ .d2.d2 | f2ed | "C"ce ce | \
+c2GG | .c2.c2 | e2dc | "F".A2.A2 | d3c | "G7"Bg Bf | Gf ed | "C".c2.e2 | .c2z2 |] 
+% GL02031
+% Sep 29, 2016

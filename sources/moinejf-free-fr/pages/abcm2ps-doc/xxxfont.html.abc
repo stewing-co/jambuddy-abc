@@ -1,0 +1,33 @@
+X:1
+T:Tune title in a box
+M:C
+L:1/4
+H:Version 1.20.15: 'padding=' added
+H:Version 1.18.3: 'wadj=' added
+N:"$1wadj=$0" is usefull when the font
++:is replaced by an other one by the browser
+N:Also, below, the computation of the length
++:with the font "$1monospace$0" is wrong
+K:C
+"^annotation"cc\
+%%annotationfont * 16
+"^bigger font"cc |\
+%%gchordfont * 26
+"G"GA"@-20,0$2\ue56d"[FB]2 | [Ec]4|]
+%%vskip 1cm
+
+X:2
+T:with Bravura
+M:4/4
+L:1/4
+%%musicfont ft1
+K:C
+CDEF|GABc||
+
+X:3
+T:with Petaluma
+M:4/4
+L:1/4
+%%musicfont ft2
+K:C
+CDEF|GABc||

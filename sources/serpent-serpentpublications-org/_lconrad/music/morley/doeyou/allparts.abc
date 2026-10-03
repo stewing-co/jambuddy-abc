@@ -1,0 +1,151 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XVI. Doe you not know,
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+K:D min
+T: Cantus
+L:1/4
+%1
+D D/ E/ F D A d c c =B A\
+w:Doe you not know, doe you not know, how Love lost 
+%2
+G F E2 D2 F E/ F/ E D A A A\
+w:first his see- ing? doe you not know, doe you not know
+%3
+A B > A G F E2 "A"D2 z4 d4 B4 A4 G > A G F E4\
+w:how Love lost first his see- ing? Be- cause with mee, with mee once ga-
+%4
+E2 c2 B6 A2 G2 G2 A2 c2 d B c A G2 F G2 A\
+w:zing, on those, on those faire eies, wher all powres have their bee- ing, wher all
+%5
+F B A2 G2 A c2 d B c > B A G2 F G2 A F G2 F\
+w:powres have their bee- ing, wher all powres have their _ bee- ing, wher all powres have their
+%6
+E2 "B"D2 z2 z2 d d/ d/ c  A B2 A2 G2 F2 f f/ f/ e c d2\
+w:be- ing: she with hir bew- ty bla- zing, bla- zing, shee with hir bew- ty bla-
+%7
+^c3 c d2 e2 f2 e2 d4 "C"^c e ^c > d e f e d\
+w:zing, which death might have re- vi- ved, him of his sight, and mee of
+%8
+^c d e2 ^c2 z e c > d e f e d ^c d e d2 ^c "D"d2 z2\
+w:hart de- pri- ved: him of his sight, and mee of hart de - pri - ved.
+%1r
+z2 d d/ d/ c A B2 A2 G2 F2 f f/ f/ e c d2 ^c3 c\
+w:She with hir bew- ty blaz- ing, bla- zing, she with hir bew- ty bla- zing, which
+%2r
+d2 e2 f2 e2 d4 ^c e c > d e f e d ^c d e2\
+w:death might have re- vi- ved, him of his sight and mee of hart de- pri-
+%3r
+^c2 z e c > d e f e d ^c d e d2 ^c Hd4 |]\
+w:ved, him of his sight and mee of hart de  pri - _ ved.
+
+X:2
+T:XVI. Doe you not know?
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+N: original clef: C on second line
+M:C
+K:D min
+T: Altus
+L:1/4
+%1
+z2 D D/ E/ F D A A, D F \
+w:Doe you not know how Love, how love lost
+%2
+E D ^C2 D2 D ^C/ D/ A, D F E/ F/\
+w:first his see- ing? do you not know, doe you not _
+%3
+  E    F    G > F    E     D ^C2    "A"D2 z2 D4 F4 E2 F3 F E > F\
+w:know how Love lost first his see- ing? Be- cause with me, Be- cause with
+%4
+E D ^C4 C2 A4 G3 F F4 E2 F2 z F2 G E F2 E\
+w:me once ga- zing, on those, on those faire eyes, wher all powres have their
+%5
+F D E F D G > F F2 E F2 F2 G E2 F2 E F D E F\
+w:bee- ing, wher all powres have their bee - ing, where all powres have ther bee- ing wher all
+%6
+D E > D D2 ^C "B"D2 F F/ F/ E C D2 E F F E\
+w:powres have their bee - ing, shee with hir bew- ty bla- zing, shee with hir
+%7
+F D2 ^C D2 F F/ F/ G A2 G A2 z A2 G2 c B A\
+w:bew- ty blaz- ing, she with hir bew- ty bla- zing, which death might have re-
+%8
+A3 G/ F/ G2 "C"A2 z E ^C > D E F E D ^C D E2 ^C2 z E ^C > D\
+w:vi - _ _ ved, him of his sight, and mee of hart de- pri- ved, him of his
+%1r
+E F E D ^C D E2 "D"^F2 F F/ F/ E C D2 E F F E\
+w:sight and mee of hart de- pri- ved, She with hir bew- ty bla- zing, she with hir
+%2r
+F D2 ^C D2 F F/ F/ G A2 G A2 z A2 G2 c B A\
+w:bew- ty bla- zing, she with hir bew- ty bla- zing, which death might have re-
+%3r
+A3 G/ F/ G2 A2 z E ^C > D E F E D ^C D E2 ^C2 z E ^C > D\
+w:vi - _ _ ved, him of his sight and mee of hart de- pri- ved, him of his
+%4r
+E F E D ^C D E2 H^F4 |]\
+w:sight and mee of hart de- pri- ved.
+
+X:3
+T:XVI. Doe you not know?
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI transpose -12
+N: original clef: C on fourth line
+M:C
+%K:D min
+K:D min -8va
+T: Bassus
+L:1/4
+%1
+z16 z4 d ^c/ d/ A d G > A c d\
+w:Doe you not know how Love lost first his
+%2
+A2 "A"D2 d4 B4 G4 F3 F c > A c d\
+w:see- ing? be- cause with mee, be- cause with me once
+%3
+  A4  A2    A2 B4    c8      F4 z4 c2 d B c A B G A > B c2\
+w:ga- zing, on those faire  eyes, wher all powres, all powres have their bee - _
+%4
+F4 z4 c2 d B c A B G A4 "B"D2 d d/ d/ c A\
+w:ing, where all powres, all powres have their bee- ing: she with hir bew- ty
+%5
+B2 A F G > G F F E2 D2 d d/ d/ c A B2 A2 A2\
+w:bla- zing, she with hir bew- ty bla- zing, she with hir bew- ty bla- zing, which
+%6
+B2 c2 d2 c2 B4 "C"A4 A4 A2 A2 A2 A2 A2 A2 A2 A2 A4 "D"D2\
+w:death might have re- vi- ved, him of his sight, and mee of hart de- pri- ved:
+%7
+d d/ d/ c A B2 A F G > G F F E2 D2 d d/ d/\
+w:she with hir bew- ty bla- zing, she with hir bew- ty bla- zing, she with hir
+%8
+ c A B2 A3 A B2 c2 d2 c2 B4 A4 A4 A2 A2 A2 A2 \
+w:bew- ty bla- zing, which death might have re- vi- ved, him of his sight and
+%1r
+A2 A2 A2 A2 A4 HD4 |]\
+w:mee of hart de- pri- ved.

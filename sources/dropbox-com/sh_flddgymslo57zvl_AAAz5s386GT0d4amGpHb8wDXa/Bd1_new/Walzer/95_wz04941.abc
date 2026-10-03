@@ -1,0 +1,29 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:  Walzer  FCBb
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S351 (wz04941) orig. F,C,Bb-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"c2a | a2f | f2d' | d'2c' | "C7"c2b | g2e | "F"c2a | a2f | c2a | a2f | f2d' | d'2c' | 
+"C7"cba | g>^fg | cag | "F"fzz || [K:C]  "C"g/g/ga | g2e | ceg | "G7"c'2b | f/f/fg | f2d | Bdf | 
+"C"a2g | g/g/ga | g2e | c'/c'/c'd' | "F"c'2a | f/f/fa | "C"g/g/gc' | "G7"b/b/bd' | "C"c'zc || [K:F]  
+"F"a3 | ABc | c3 | F2A | "C7"G2C | G2C |  "F"A3 |  FzA | "F7"A3 |  ABc |  "Bb"d3 |  GAB | 
+"C7"c3 | c>B G/A/ | "F"F>FF | FzF || [K:Bb] "Bb"(B3 | B>)A G/F/ | "Cm"(A3 | G) zc | "F7"(a3 | a>)g f/e/ | 
+"Bb"(g3 | f)zF | (d3 | d>)c  B/A/ | "Eb"(c3 | B)z E/G/ | "F7"F3 | G/F/ =E/F/ G/A/ | "Bb"B>BB | Bzz |] 
+
+X:2
+T:Walzer  CGF 5-
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+"C"G2e | e2c | c2a | a2g | "G7"G2f | d2B | "C"G2e | e2c | G2e | e2c | c2a | a2g | 
+"G7"Gfe | d>^cd | Ged | "C"czz || [K:Gmaj] "G"d/2d/2de | d2B | GBd | "D7"g2f | c/2c/2cd | c2A | FAc | 
+"G"e2d | d/2d/2de | d2B | g/2g/2ga | "C"g2e | c/2c/2ce | "G"d/2d/2dg | "D7"f/2f/2fa | "G"gzG || [K:Cmaj] 
+"C"e3 | EFG | G3 | C2E | "G7"D2G, | D2G, | "C"E3 | CzE | "C7"E3 | EFG | "F"A3 | DEF | 
+"G7"G3 | G>F D/2E/2 | "C"C>CC | CzC || [K:Fmaj] "F"(F3 | F>)E D/2C/2 | "Gm"(E3 | D) zG | "C7"(e3 | e>)d c/2B/2 | 
+"F"(d3 | c)zC | (A3 | A>)G F/2E/2 | "Bb"(G3 | F)z "_()"B/2D/2 | "C7"C3 | D/2C/2 =B,/2C/2 D/2E/2 | "F"F>FF | Fzz |] 
+% Jan 13, 2016

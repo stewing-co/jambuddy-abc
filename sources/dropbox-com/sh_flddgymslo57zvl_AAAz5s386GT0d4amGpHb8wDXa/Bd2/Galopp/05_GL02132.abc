@@ -1,0 +1,51 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Alte Galopp  C
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.324 (GL02132) orig. C
+T: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"cG/c/  ec/e/ | ge/g/ c'e | "G7"g^f =fd | "C"ag eG | cG/c/  ec/e/ | ge/g/ c'e | "G7"g^f "C"=fB |1 c2zG :|2 "C"c2zg ||
+|: "G7"gf dB | "C"ag ec | "G7"gf dB | "C"ag ec | cG/c/ ec/e/ | ge/g/ c'g | "G7"g^f =fB |1 "C"c2zg :|2 "C"c2zc ||  
+|: "G7"GG AB | "C".c(a/g/) ec | "G7"Ba/g/ fB | "C"ca/g/ ec | "G7"GG AB | "C"ca/g/ ec | "G7"Ba/g/ fB |1 "C"dc cc :|2 "C"dc cz |] 
+ % GL02132
+
+X:2
+T:Alte Galopp  G 5-  (GL02132)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.324 (GL02132) orig. C
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:galopp
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"GD/2G/2 BG/2B/2 | dB/2d/2 gB | "D7"d^c =cA | "G"ed BD | GD/2G/2 BG/2B/2 | dB/2d/2 gB | "D7"d^c "G"=cF |1 G2zD :|2 "G"G2zd ||
+|: "D7"dc AF | "G"ed BG | "D7"dc AF | "G"ed BG | GD/2G/2 BG/2B/2 | dB/2d/2 gd | "D7"d^c =cF |1 "G"G2zd :|2 "G"G2zG || 
+|: "D7"DD EF | "G".G(e/2d/2) BG | "D7"Fe/2d/2 cF | "G"Ge/2d/2 BG | "D7"DD EF | "G"Ge/2d/2 BG | "D7"Fe/2d/2 cF |1 "G"AG GG :|2 "G"AG Gz |] 
+% GL02132
+
+X:3
+T:Alte Galopp  F 7-  (GL02132)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.324 (GL02132) orig. C
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:galopp
+M:2/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+"F"FC/2F/2 AF/2A/2 | cA/2c/2 fA | "C7"c=B _BG | "F"dc AC | FC/2F/2 AF/2A/2 | cA/2c/2 fA | "C7"c=B "F"_BE |1 F2zC :|2 "F"F2zc ||
+|: "C7"cB GE | "F"dc AF | "C7"cB GE | "F"dc AF | FC/2F/2 AF/2A/2 | cA/2c/2 fc | "C7"c=B _BE |1 "F"F2zc :|2 "F"F2zF || 
+|: "C7"CC DE | "F".F(d/2c/2) AF | "C7"Ed/2c/2 BE | "F"Fd/2c/2 AF | "C7"CC DE | "F"Fd/2c/2 AF | "C7"Ed/2c/2 BE |1 "F"GF FF :|2 "F"GF Fz |] 
+% GL02132
+% Oct 5, 2016

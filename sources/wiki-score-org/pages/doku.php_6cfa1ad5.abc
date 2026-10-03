@@ -1,0 +1,23 @@
+X:313
+T:Virtu
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:F
+V: 13 clef=treble name="Flauta I" sname="Fl.I"
+%%MIDI program 1 73
+%%staves [( 13 )]
+% -------------------------------------------------------------------------------------
+[Q:"Andante"] \
+z | Z16 | \
+[Q:"Allegro"] Z10 || \
+[Q:"Afettuoso"][M:3/8][L:1/8] Z7 | za2-|a/b/b/a/a/g/ | g3 -| g/a/a/g/g/f/ | \
+f3- | f/g/g/f/f/e/ | e/f/f/e/e/d/ | d2z|Z2|zea| \
+% pdf=55
+g/>a/g/>a/g | f2z | Z2 | zzg- | gfe | f2z | f2z | z3 | \
+% pdf=56
+z3 | zee | d2z | Z20 | zzc'| d'3- | d'/e'/e'/d'/d'/c'/ | c'3- | \
+c'/d'/d'/c'/c'/b/ | b/g/g/f/f/e/ | f2z | Z2 | zgg | f2z | Z7 | \
+za2- | a/b/b/a/a/g/ | g3- | g/a/a/g/g/f/ | ed^c | d2z | Z27 | \
+zee | d2 || z | Z21 |] \
+% -------------------------------------------------------------------------------------

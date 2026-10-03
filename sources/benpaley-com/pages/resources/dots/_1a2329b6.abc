@@ -1,0 +1,24 @@
+X:1
+T:Blågeta
+T:Blue Goat
+L:1/8
+M:3/4
+C:Trad. arr © 2010 Ben Paley
+O:Dalarna, Sweden
+R:Polska
+D:Ola Bäckström & Per Gudmundson, "Ola och Per", 2001
+Z:Ben Paley <ben.paley@benpaley.com>
+K:Am
+V:M clef=treble  name="Melody"   snm="M"
+V:H clef=treble  name="Harmony"   snm="H"
+%%score M|H
+P:A
+[V:M]A>B A2 B2 | c>e e<d B>G | A2 A4 |
+[V:H]E>G E2 G2 | A>G A<B E>E | [B,2E2] [C4E4] |
+[V:M]e>d e2 ^f2 | g>^f ^g<a ^f>d | e2 e4 :|
+[V:H]c>B c2 d2 | d>d d2 d>B | [^F2B2] [^G4B4] :|
+P:B
+[V:M]|: e2 a2 e>f | e2 d/2e/d/2B/2 c>A | B<c B4 |
+[V:H]|: A2 e2 c>d | c2 B/2c/2B/2^G/2 A>^F | ^G<A ^G4 |
+[V:M]A>B A2 B2 | c>e e<d B2 | c>e e<d B>^G | A2 A4 :|
+[V:H]E>^G E2 ^G2 | A>c c<B ^G2 | A>c c<B ^G>E | [B,2E2] [C4E4] :|

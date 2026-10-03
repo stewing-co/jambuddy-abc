@@ -1,0 +1,86 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Jodel-Walzer FBb chords parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.373 (wz05120) orig. F,Bb-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+R: waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+[P:A] "F"c |: fed | "C7"e>dc | e>dc | "F"f>dc | fed | "C7"e>dc | cde |1 "F"fzc :|2 "F"fzz || 
+[P:B] |: [L:1/8] "C7"gb beg2 | "F"fa ac f2 | "C7"eg gce2 | "F"fg abc'2 | "C7"gb be ge | "F"fa acf2 | "C7"eg gc eg |1 "F"f2z2z2 :|2 "F"f2z2 f2 || [K:Bb] 
+[P:C] |: [L:1/4] "Bb"b>ff | d2f | "F7"a>ff | e2f | a>gf |1 agf | "Bb"bf>d | !>!B2z :|2 "F7"feA | "Bb"(B3 | B)zz |] 
+% June 2, 2016
+X:2
+T:Jodel-Walzer CF 5- chords
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"G |: cBA | "G7"B>AG | B>AG | "C"c>AG | cBA | "G7"B>AG | GAB |1 "C"czG :|2 "C"czz || 
+ |: [L:1/8] "G7"df fBd2 | "C"ce eG c2 | "G7"Bd dGB2 | "C"cd efg2 | "G7"df fB dB | "C"ce eGc2 | "G7"Bd dG Bd |1 "C"c2z2z2 :|2 "C"c2z2 c2 || [K:F] 
+ |: [L:1/4] "F"f>cc | A2c | "C7"e>cc | B2c | e>dc |1 edc | "F"fc>A | !>!F2z :|2 "C7"cBE | "F"(F3 | F)zz |] 
+X:3
+T:Jodel-Walzer GC 10- chords
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"D |: GFE | "D7"F>ED | F>ED | "G"G>ED | GFE | "D7"F>ED | DEF |1 "G"GzD :|2 "G"Gzz || 
+|: [L:1/8] "D7"Ac cFA2 | "G"GB BD G2 | "D7"FA ADF2 | "G"GA Bcd2 | "D7"Ac cF AF | "G"GB BDG2 | "D7"FA AD FA |1 "G"G2z2z2 :|2 "G"G2z2 G2 || [K:C] 
+|: [L:1/4] "C"c>GG | E2G | "G7"B>GG | F2G | B>AG |1 BAG | "C"cG>E | !>!C2z :|2 "G7"GFB, | "C"(C3 | C)zz |] 
+X:4
+T:Jodel-Walzer GC 2+ chords
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"d |: gfe | "D7"f>ed | f>ed | "G"g>ed | gfe | "D7"f>ed | def |1 "G"gzd :|2 "G"gzz || 
+|: [L:1/8] "D7"ac' c'fa2 | "G"gb bd g2 | "D7"fa adf2 | "G"ga bc'd'2 | "D7"ac' c'f af | "G"gb bdg2 | "D7"fa ad fa |1 "G"g2z2z2 :|2 "G"g2z2 g2 || [K:C] 
+|: [L:1/4] "C"c'>gg | e2g | "G7"b>gg | f2g | b>ag |1 bag | "C"c'g>e | !>!c2z :|2 "G7"gfB | "C"(c3 | c)zz |] 
+X:5
+T:Jodel-Walzer CF (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3  %%MIDI gchordon
+"C"G |: cBA | "G7"B>AG | B>AG | "C"c>AG | cBA | "G7"B>AG | GAB |1 "C"czG :|2 "C"czz || 
+ |: [L:1/8] "G7"df fBd2 | "C"ce eG c2 | "G7"Bd dGB2 | "C"cd efg2 | "G7"df fB dB | "C"ce eGc2 | "G7"Bd dG Bd |1 "C"c2z2z2 :|2 "C"c2z2 c2 || [K:F] 
+ |: [L:1/4] "F"f>cc | A2c | "C7"e>cc | B2c | e>dc |1 edc | "F"fc>A | !>!F2z :|2 "C7"cBE | "F"(F3 | F)zz |] 
+X:6
+T:Jodel-Walzer GC (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3  %%MIDI gchordon
+"G"D |: GFE | "D7"F>ED | F>ED | "G"G>ED | GFE | "D7"F>ED | DEF |1 "G"GzD :|2 "G"Gzz || 
+|: [L:1/8] "D7"Ac cFA2 | "G"GB BD G2 | "D7"FA ADF2 | "G"GA Bcd2 | "D7"Ac cF AF | "G"GB BDG2 | "D7"FA AD FA |1 "G"G2z2z2 :|2 "G"G2z2 G2 || [K:C] 
+|: [L:1/4] "C"c>GG | E2G | "G7"B>GG | F2G | B>AG |1 BAG | "C"cG>E | !>!C2z :|2 "G7"GFB, | "C"(C3 | C)zz |] 
+X:7
+T:Jodel-Walzer GC (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"d |: gfe | "D7"f>ed | f>ed | "G"g>ed | gfe | "D7"f>ed | def |1 "G"gzd :|2 "G"gzz || 
+|: [L:1/8] "D7"ac' c'fa2 | "G"gb bd g2 | "D7"fa adf2 | "G"ga bc'd'2 | "D7"ac' c'f af | "G"gb bdg2 | "D7"fa ad fa |1 "G"g2z2z2 :|2 "G"g2z2 g2 || [K:C] 
+|: [L:1/4] "C"c'>gg | e2g | "G7"b>gg | f2g | b>ag |1 bag | "C"c'g>e | !>!c2z :|2 "G7"gfB | "C"(c3 | c)zz |] 
+X:8
+T:Jodel-Walzer DG 3- (tin whistle in D)
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.373 (wz05120) orig. F,Bb-Dur
+T:Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+%%MIDI program 72
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+ A |: dcB | c>BA | c>BA | d>BA | dcB | c>BA | ABc |1 dzA :|2 dzz || 
+ |: [L:1/8] eg gce2 | df fA d2 | ce eAc2 | de fga2 | eg gc ec | df fAd2 | ce eA ce |1 d2z2z2 :|2 d2z2 d2 || [K:Gmaj] 
+ |: [L:1/4] g>dd | B2d | f>dd | "_c"c2d | f>ed |1 fed | gd>B | !>!G2z :|2 d"_c"cF | (G3 | G)zz |] 
+W: for tinwhistle fingering tabs go to: 
+W: http://www.mandolintab.net/abcconverter.php
+W: "Tablatur: Whistle - Key: D"
+W: the pdf output gives you the musical notes together with the fingering for each note
+W: - great for beginners like me.
+W: PS if you have a tinwhistle in C, just change the key to C

@@ -1,0 +1,29 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T:  Galopp CF  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.139 (GL05663) orig. C,F-Dur
+T: Repertoire der Roesti-Musik (Bern) S.124ff
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C".e2.^d2 | .e2c>d | .e2.f2 | (g3^g) | "G7"(a3g) | fe dc | Bc dB | G2z2 | "C".e2.^d2 | .e2c>d | 
+.e2.f2 | (g3e) | "D7"d3c' | "G"c'b ^fg | "D7"ba e^f | "G"gg gz :: "G7"f>f f>e | "G0".e2+>+"G7"f2 | "C"g>g g>^f | .^f2 +>+g2 |  
+"G7"(a3g) | de f^f | g>^f g>=f | "C"e2z2 | "G7"f>f f>e | .e2+>+f2 | "C"g>g g>^f | .^f2+>+g2 | (c'3g) | ag fe | 
+"G7"f>e f>g | "C"ee ez :: [K:F] "F".c2.a2 | "C7".a2 g>a | "F".g2.f2 | c4 | "C7"c2e>f | g3^g | "F"a>g f>d | c3z | .c2.a2 | 
+"C7".a2 g>a | "F".g2.f2 | c4 | "C7"c2e>f | g3a | "F"f>c "C7"e>c | "F"f2z2 :| "A7"a>a a>e | "Dm".f2.d2 | "A7"eA =B^c | "Dm"de f^f |  
+"G7"g>g g>d | "C".e2+>+c2 | "G7"dG A=B | "C"c3^c | "Bb"d2b2 | b2b2 | "F"b2a2 | z(c =Bc) | "C7"(B3g) | (d3e) | 
+"F"fa c2 | zc/c/ cc | "Bb"d2b2 | b2b2 | "F"b2a2 | z(c =Bc) | f3g | ac =Bc | "C7".a2.g2 | "F"f2z2 |] 
+
+X:2
+T:Mazurka GC 5-  chords
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G".B2.^A2 | .B2G>A | .B2.c2 | (d3^d) | "D7"(e3d) | cB AG | FG AF | D2z2 | "G".B2.^A2 | .B2G>A | 
+.B2.c2 | (d3B) | "A7"A3g | "D"gf ^cd | "A7"fe B^c | "D"dd dz :: "D7"c>c c>B | "D0".B2!>!"D7"c2 | "G"d>d d>^c | .^c2 !>!d2 | 
+"D7"(e3d) | AB c^c | d>^c d>=c | "G"B2z2 | "D7"c>c c>B | .B2!>!c2 | "G"d>d d>^c | .^c2!>!d2 | (g3d) | ed cB | 
+"D7"c>B c>d | "G"BB Bz :: [K:Cmaj] "C".G2.e2 | "G7".e2 d>e | "C".d2.c2 | G4 | "G7"G2B>c | d3^d | "C"e>d c>A | G3z | .G2.e2 | 
+"G7".e2 d>e | "C".d2.c2 | G4 | "G7"G2B>c | d3e | "C"c>G "G7"B>G | "C"c2z2 :| "E7"e>e e>B | "Am".c2.A2 | "E7"BE ^F^G | "Am"AB c^c | 
+"D7"d>d d>A | "G".B2!>!G2 | "D7"AD E^F | "G"G3^G | "F"A2f2 | f2f2 | "C"f2e2 | z(G ^FG) | "G7"(F3d) | (A3B) | 
+"C"ce G2 | zG/2G/2 GG | "F"A2f2 | f2f2 | "C"f2e2 | z(G ^FG) | c3d | eG ^FG | "G7".e2.d2 | "C"c2z2 |] 

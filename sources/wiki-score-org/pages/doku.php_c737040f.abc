@@ -1,0 +1,30 @@
+X:1504
+T:Eumene
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 4 clef=treble name="Tromba II" sname="Trb.II"
+%%MIDI program 1 56
+%%staves [( 4 )]
+%---------------------
+[Q:"Allegro"] z | D4- | D4- | !/!D2Dz | z/F/F/F/ F z | z/F/F/F/ F z | z/F/F/F/ F z | A,z f/e/d/A/ | \
+!/!F2 F z | z/A/A/A/ A z | z/F/F/F/ F z | z/A/A/A/ A z | D4 | D z z2 | \
+d2 A2 | F F3/4F1/4 F z | D z z2 | z4 | z/d/A/F/ D z | z/F/F/F/ F z | z/F/F/F/ F z | \
+z D D z | z4 | z4 | D4 | D4 | DFDz | \
+z4 | z4 | z4 | z4 | z4 | e4- | e4 | e2z2 | z4 | e4- | e4- | e2z2 | z4 | z4 | \
+z4 | eeez | z4 | z4 | z4 | D4 | \
+z4 | A/A/A/z/ A/A/A/z/  | e z e z | A/A/ A/ z/ A/A/ A/ z/ | e z e z | A2 z2 | \
+D4 | e z z2 | e4 | z4 | z4 | z4 | \
+z/A/A/A/ A z | A2 D2 | e z e e | z4 || [Q:"Andante"][M:3/4] x/ | x3 | x3 | x3 | \
+x3 | x3 | x3 | x3 | x3 | x3 | \
+x3 | x3 | x3 | x3 || [M:C] F4| \
+A4 | D z z2 | z4 | z/d/A/F/ D z | z/F/F/F/ F z | z/F/F/F/ F z | \
+D2 z2 | z4 | z4 | D4- | D4 | \
+D z z2 | z4 | z4 | z4 | A4 | \
+A4 | z4 | z4 | A4- | A4 | z4 | z4 | \
+A,4 | D4- | D4 | A A, A, z | D z z2 | z4 | \
+z4 | D z z2 | z4 | D/D/D/z/ D/D/D/z/ | d2 A2 | D4 | \
+D4 | d4 | A4 | D/F//F// F/F/ F z | z/A/A/A/ A z | z/F//F//F/F/F z | \
+z/A/A/A/ A z | D4 | d d z A | F D D z |]
+%---------------------

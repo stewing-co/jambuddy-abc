@@ -1,0 +1,47 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Galopp  GC chords
+P: ABCDC
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.362 (GL05081) orig. G,C
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+% 13 April 2016
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+[P:A] "G"B>G B>G | B>ed2 | B>G B>G | B>ed2 | "D7"c>A c>A | c>fe2 |1 c>ed2 | "G"G>cB2 :|2 c>e dc | "G"B2z2 || 
+[P:B] |: "G"bc'/b/ "D7"af | ab/a/ "G"gB | "D7"dc Bc | "G"ed ^cd | bc'/b/ "D7"af | ab/a/ "G"gB | "C"ed "D7"ef |1 "G"gg gz :|2 "G"gg gc/c/ || [K:C] 
+[P:C] |: "C"c2 eg | c2 eg/g/ | "G7"gf da/a/ | "C"ag ec/c/ | c2 eg | c2 eg/g/ | "G7"gf dB |1 "C"cc cc/c/ :|2 "C"cc cz |] [K:G] 
+[P:D] |: "G"d>e d>^c | d>gb2 | "D7"d>fa2 | "G"B>dg2 | d>e d>^c | d>gb2 | "D7"d>f a>f | "G"gg "_>Teil C"gz :| 
+X:1
+T: Galopp  GC chords (parts)
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"B>G B>G | B>ed2 | B>G B>G | B>ed2 | "D7"c>A c>A | c>fe2 |1 c>ed2 | "G"G>cB2 :|2 c>e dc | "G"B2z2 || 
+|: "G"bc'/b/ "D7"af | ab/a/ "G"gB | "D7"dc Bc | "G"ed ^cd | bc'/b/ "D7"af | ab/a/ "G"gB | "C"ed "D7"ef |1 "G"gg gz :|2 "G"gg gc/c/ || [K:C] 
+|: "C"c2 eg | c2 eg/g/ | "G7"gf da/a/ | "C"ag ec/c/ | c2 eg | c2 eg/g/ | "G7"gf dB |1 "C"cc cc/c/ :|2 "C"cc cz || [K:G] 
+|: "G"d>e d>^c | d>gb2 | "D7"d>fa2 | "G"B>dg2 | d>e d>^c | d>gb2 | "D7"d>f a>f | "G"gg "_>Teil C"gz :| [K:C]
+|: "C"c2 eg | c2 eg/g/ | "G7"gf da/a/ | "C"ag ec/c/ | c2 eg | c2 eg/g/ | "G7"gf dB |1 "C"cc cc/c/ :|2 "C"cc cz |] 
+
+X:1
+T:Galopp  CF 7- chords (parts)
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"E>C E>C | E>AG2 | E>C E>C | E>AG2 | "G7"F>D F>D | F>BA2 |1 F>AG2 | "C"C>FE2 :|2 F>A GF | "C"E2z2 || 
+|: "C"ef/2e/2 "G7"dB | de/2d/2 "C"cE | "G7"GF EF | "C"AG ^FG | ef/2e/2 "G7"dB | de/2d/2 "C"cE | "F"AG "G7"AB |1 "C"cc cz :|2 "C"cc cF/2F/2 || [K:Fmaj] 
+|: "F"F2 Ac | F2 Ac/2c/2 | "C7"cB Gd/2d/2 | "F"dc AF/2F/2 | F2 Ac | F2 Ac/2c/2 | "C7"cB GE |1 "F"FF FF/2F/2 :|2 "F"FF Fz || [K:Cmaj] 
+|: "C"G>A G>^F | G>ce2 | "G7"G>Bd2 | "C"E>Gc2 | G>A G>^F | G>ce2 | "G7"G>B d>B | "C"cc "_>Teil C"cz :| [K:Fmaj]
+|: "F"F2 Ac | F2 Ac/2c/2 | "C7"cB Gd/2d/2 | "F"dc AF/2F/2 | F2 Ac | F2 Ac/2c/2 | "C7"cB GE |1 "F"FF FF/2F/2 :|2 "F"FF Fz |] 
+
+X:1
+T:Galopp  CF 5+ chords (parts)
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"e>c e>c | e>ag2 | e>c e>c | e>ag2 | "G7"f>d f>d | f>ba2 |1 f>ag2 | "C"c>fe2 :|2 f>a gf | "C"e2z2 || 
+|: "C"e'f'/2e'/2 "G7"d'b | d'e'/2d'/2 "C"c'e | "G7"gf ef | "C"ag ^fg | e'f'/2e'/2 "G7"d'b | d'e'/2d'/2 "C"c'e | "F"ag "G7"ab |1 "C"c'c' c'z :|2 "C"c'c' c'f/2f/2 || [K:Fmaj] 
+|: "F"f2 ac' | f2 ac'/2c'/2 | "C7"c'b gd'/2d'/2 | "F"d'c' af/2f/2 | f2 ac' | f2 ac'/2c'/2 | "C7"c'b ge |1 "F"ff ff/2f/2 :|2 "F"ff fz || [K:Cmaj] 
+|: "C"g>a g>^f | g>c'e'2 | "G7"g>bd'2 | "C"e>gc'2 | g>a g>^f | g>c'e'2 | "G7"g>b d'>b | "C"c'c' "_>Teil C"c'z :| [K:Fmaj]
+|: "F"f2 ac' | f2 ac'/2c'/2 | "C7"c'b gd'/2d'/2 | "F"d'c' af/2f/2 | f2 ac' | f2 ac'/2c'/2 | "C7"c'b ge |1 "F"ff ff/2f/2 :|2 "F"ff fz |] 

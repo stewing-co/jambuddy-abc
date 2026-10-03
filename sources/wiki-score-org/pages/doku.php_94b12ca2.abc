@@ -1,0 +1,73 @@
+X:108
+T:[Kyrie]
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 8 clef=tenor name="Tenore" sname="T."
+%%MIDI program 1 1
+%%staves [[ 8 ]]
+%------------------
+[Q:"Largo"] Z8 | A,2B, A,> A, G,/ G,/ | F,2zz2z | Z2 |
+w: Ky-ri-e e-le-i-son
+C2 D C2 B, | C2 !f! A, G,> G, E,/ E,/ | F,z/ \
+w: Ky-ri-e e-lei-son e--le-i-son
+!f!F,/ =B,/ B,/ B, z/ \
+w: e-le-i-son
+B,/ E/ E/ | F2z z2z | Z |
+w: e-le-i-son
+!p!D2DC2z | z2z z2 \
+w: Ky-ri-e
+!p!C | C3=B,3 | C2zz2z|  \
+w: e-le-i-son
+!p!=B,3 B,3 | C2z z2 \
+w: Ky-ri-e
+!p!C |=B,3 B,3 | C2z \
+w: e-le-i-son
+!f! (F,G,) A, | =B,A, G, C2D | E2z z2z | z2z \
+w: Ky--ri-e_ e-le-i-son e-le-i-son
+!p!=B,2B, | C2z \
+w: Ky-ri-e
+!f! (F,G,) A, | (=B,A,) G, C2D | E2z z2z | zz \
+w: Ky--ri-e_ e-le-i-son e-le-i-son
+C E2=B, | C2 z \
+w: e-le-i-son
+D2D | C2z z2 \
+w: Ky-ri-e
+"^check;ms"E, | z2 !p! E, E,2 E, | E,6 || "Segue;Christe" \
+w: ? e-le-i-son.
+[Q:"Allegretto"][M:3/8] !p!A, B, C | D2 C | B,2z | Z4 |\
+w: Chris-te e-lei-son
+!f!C D E | F2 E | E2z | \
+w: Chris-te e-le-i-son
+!f!E3| E2!f!E | D3|D3|C2z|zz \
+w: Chris-te e-le-i-son
+!f!C|C2C|Czz| \
+w: e-le-i-son
+D2 !f!C | =B,2A,|G,2!f!F|E2D|Czz| \
+w: son e-le-i-son e-le-i-son
+!f!A,3|G,2z| Z| \
+w: Chris-te
+!f! A, B, C | (D2C) | B,2G,|A,2z| Z| \
+w: Chris-te e-le---i-son
+!f!F, G, A, | (B,2A,)|G,2G,|F,2A,| B,2B,| A,2!f!A,|=B,2D|C2C|D2F|E2z |\
+w: Chris-te e-le---i-son e-le-i-son e-le-i-son e-le-i-son
+!f!G, G, G, | _A,2A, | G,2z | Z | \
+w: Chris-te e-le-i-son
+!f!C C C | C2C | C2C | C2C | C2z | Z2|!fermata!Z || \
+w: Chris-te e-le-i-son e-le-i-son
+[Q:"Largo"][M:6/8] !p!A,2B, A,> A, G,/ G,/ | F,2zz2z | Z2 |\
+w: Ky-ri-e e-le-i-son e-le-i-son e-le-i-son
+!p!A,2B,A,2B, | A,2"_cresc" G, G,> G, G,/ G,/ | F, z/\
+w: Ky-ri-e e-le-i-son e-le-i-son
+!f!F,/ =B,/ B,/ B, z/ \
+w:  e-le-i-son
+B,/ E/ E/ | F2zz2z | z2z \
+w: e-le-i-son
+!p!D2D| F2CC2C|C2zz2z| z2 \
+w: le-i-son e-le-i-son
+!p!CC2C | C2zz2z|z2 \
+w: e-le-i-son
+!p!CC2C|C2zz2z|Z2| !fermata!Z |]
+w: e-le-i-son
+%------------------

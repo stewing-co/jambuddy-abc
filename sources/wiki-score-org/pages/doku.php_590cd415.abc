@@ -1,0 +1,16 @@
+X:307
+T:Beata Dei Genitrix
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 7 clef=tenor name="Tenor" sname="T."
+%%MIDI program 1 1
+%%staves [ 7 ]
+%----------------
+z C|C > C | D E | C > C | C C | A,2 | A,/2 C C/2| B,/2 > B,/2 B,/2 C/2 | C C | A, > A, | B, D | E D | B, > B, | ^C2 +segno+ ||
+w:Be-a-ta De-i Ge-ni-trix Ma-ri-a Cu-jus Vis-ce-ra in-ta-cta per-ma-nent in-ta-cta per-ma-nent
+[M:3/2] C > C C | B, > B, B, | z C C | C2 C | B,2 B, | C G,2 -| G, G, G, | E, > E, E, | z ^G, G, | ^G,2 G, | A,2 A, | +fermata+ ^G,3 +fine+ |] \
+w:Ho-di-e | ge-nu-it | Sal-va-|to-rem | sae-cu-|li Ho | - di-e| ge-nu-it | Sal-va-|to-rem | sae-cu-|li
+[M:2/2] Z56 !segno! |] \
+%----------------

@@ -1,0 +1,892 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+
+Some Scales and Modes Scottish Music Doesn't Have
+=================================================
+
+There are some scales used systematically in other musical cultures which
+seem to be unknown in Scottish music.
+
+
+1. Major-Third/Semitone Pentatonic Scales
+== ======================================
+
+Ewan MacColl thought this tune sounded Japanese:
+
+X:0
+T:Schooldays End
+C:Ewan MacColl
+M:4/4
+L:1/8
+K:AMix
+A,2B,2|D4    D3  E |F2 (FE) F4    |z8           |
+       E2 EF ED B,2|D2  D2 (B,A,3)|z8           |
+       D2 DE F2 A2 |B2  d2 (cB) A2|B2 BA  F2 A2 |B8  |
+       A2 AB A2 FE |F2  A2 (FE) D2|E2 EF (ED)B,2|A,8|]
+
+It's a successful tune for his song, but he got the nationality wrong - in
+fact it uses a scale common to Scottish and Chinese music.  Japanese folk
+music sometimes uses Chinese scales, and the basic scale of the shakuhachi,
+the traditional five-hole end-blown bamboo flute, is phrygian/minor/dorian
+pentatonic - other scales are achieved by half-holing.  But Japanese music
+has two hexatonic scales of its own.  Both of them combine two rising and
+falling pentatonic scales which differ near the top.
+
+X:0
+T:The yo-sen (male) Japanese scale
+M:8/4
+L:1/4
+K:AMin
+% rising mixolydian/dorian/minor pentatonic
+% falling major/mixolydian/dorian pentatonic
+A,2 B, D E G A2 | A2 ^F E D B, A,2 |]
+
+X:0
+T:The in-sen (female) Japanese scale
+M:8/4
+L:1/4
+K:AMin
+A,2 _B, D E G A2 | A2 F E D _B, A,2 |]
+
+Neither of the pentatonic scales making up the in-sen scale corresponds
+to anything found in Scottish music, or any European music.  The Japanese
+in-sen scale is a pentatonic scale, but it includes intervals of a major
+third and a semitone, unlike the usual Scottish and Chinese pentatonic
+scales which only have whole tones and minor thirds.  That major third
+between the second and the fourth is the most distinctive feature an
+outsider notices in Japanese music.  In-sen is the mode used in the
+most famous of all Japanese tunes (though it omits the rising seventh):
+
+X:0
+T:Sakura
+O:Gerald Walker
+O:loulou2032 @ yahoo.com.sg
+M:C
+L:1/4
+Q:1/4=72
+K:APhr
+d d e2    |d d    e2 |\
+d e f    e|d e/d/ B2 |
+A F A    B|A A/F/ E2 |\
+d e f    e|d e/d/ B2 |
+A F A    B|A A/F/ E2 |\
+d d e2    |d d    e2 |\
+A B e/d/ B|A2     z2|]
+
+And it's the predominant mode in this much more complicated song, where 
+one bar sharpens the second and uses the minor third as a passing note.
+The tune strongly emphasizes both the lower major third gap and the
+falling major third gap below the tonic.
+
+X:0
+T:Fine Fishing Song from Haragama
+S:Patia Isaku, "Mountain Storm, Pine Breeze: Folk Song in Japan"
+N:the short lines are a shouted chorus
+M:2/4
+L:1/16
+K:F#Phr
+F4 G2B2|(c4 (3ded(3::2c2d|f4) d2f/d/c/d/|c4 B4|G2B/G/F/G/ F4|
+B4 B2 c/B/c|d4 (3cdcB2|F4 F2{GF}G>F|D2
+d2 d B d B|
+D4 F2GF|({G}B4 c2{dc}Bd)|(c4{dc} B2{cB}G2{FG}|B2cB) (G2{BG}FG)|F8-|F4
+D2F2|(^G8{AGFG})|(F3=G B2) B/c/B|(F4 {GF} D2{FD}C2{B,C})|B,2
+d2 d B d B|
+(B,4 C2) DC|(D2<<F2 G2FB)|(c2>>B2 d4)|
+(c3d/c/ (3BcB (3GFG|B2{c}B2) G2{FG}FG|F8-F8|]
+
+This famous Japanese tune uses a hexatonic scale, again with a major third
+at the top (strongly emphasized, as three phrases rise to the high D to be
+followed by a falling phrase that starts on the B flat below):
+
+X:0
+T:Kojo no Tsuki
+M:C
+L:1/4
+Q:1/4=100
+K:DMin
+A A d e|f e d2|B B A G|A3 z |
+A A d e|f e d2|B G A>A|D3 z |
+F F E D|B>B A2|G A B>B|A3 z |
+A A d e|f e d2|B G A>A|D3 z|]
+
+There is a good summary of the scales of Japanese music, in French, at
+http://blog.nikkojazz.fr/2010/06/les-echelles-musicales-japonaises.html .
+A book-length account is William P. Malm: "Traditional Japanese Music and
+Musical Instruments".
+
+There are other scales like that.  The Hungarian bagpipe has one less
+note in its range than the Highland pipe: the gap may either be at the
+sixth or the seventh.  Much of its music has no other gaps, but one
+common mode omits the second as well.  The Highland pipe could play in
+this pentatonic mode, but in practice it doesn't.
+
+The Indian RAGA DESH is a pentatonic scale featuring both minor and major
+thirds.  It could be seen as the major/mixolydian/dorian pentatonic mode
+with the sixth replaced by a major seventh:
+
+X:0
+T:Raga Desh
+M:8/4
+L:1/4
+K:AMin
+A2 B d e ^g a2 | a2 ^g e d B A2 |]
+
+It's used in Indian classical music and also in folk tunes, including
+the very popular nationalist song "Vande Mataram".  The only notated
+version of it I can find includes other notes, not particularly important
+to the tune but a bit more than passing notes; the opening phrase states
+the rising Desh scale clearly, but it gets fuzzy after that.  Sung
+versions vary a lot, so I'm not quite sure what assigning this tune to
+Desh really means.  Answers from somebody who knows more than I do?
+
+X:0
+T:Vande Mataram
+Z:Jack Campin, http://www.campin.me.uk/
+C:Jadunath Bhattacharya
+S:http://www.flutetunes.com
+M:4/4
+L:1/8
+Q:1/4=100
+K:C
+        C2   D2-        DF`GF | G8                  |\
+        F2   G2-        GB`cB | c8                  |
+        cd (3c/_B/A/ B- BA G2 | GA (3G/F/E/ F- FE D2|\
+        DD```GF         E2 DE |(DC-) C6             |
+        C2   DF         GF G2-| GG  _BA       (AG3) |\
+        F2   G2-        GB`cB | c8                  |
+        F2   G2         B2 B2 | BB```cB        c3  B|[M:2/4] c4  |
+[M:4/4] B2   BB         cB c2 | Bc```dc       _BA`BA|[M:2/4](AG3)|
+[M:4/4] DD   FF        (E C3) | DD```A_B       AG2 A|[M:2/4] G4  |
+[M:4/4] FG   B2         BB B2-| BB```cB        c4   |\
+        F2   G2-        GB`cB | c8                  |\
+        F2   G2-        GB`cB | c8                 |]
+
+Some versions of this raga flatten the g in descending passages, so the
+descending part becomes minor/dorian/mixolydian pentatonic.
+
+We know very little about the music of ancient Rome, except what Greek-
+influenced theorists said about it.  But most of its music must have come
+from far outside the former Greek world.  A pottery syrinx (panpipe) from
+Alesia, in Roman-occupied Gaul, has a scale that matches nothing known
+from anywhere else: it has 8 pipes, forming a mixolydian scale with the
+fifth missing.  It may be Celtic but it certainly isn't the Scottish kind
+of Celtic.
+
+The scale of this very strange English-American tune is another pentatonic
+one, resembling the in-sen scale in that has a major third, but it's in a
+different place, the second is only used in the upper octave, the tune is
+missing the fourth, and the sevenths are natural in the upper octave and
+sharp in the lower one, the opposite way round to the Border pipe scale.
+It doesn't match anything I can think of from anywhere.
+
+X:0
+T:Black is the Colour
+S:Sharp & Karpeles, 80 English Folk Songs from the Southern Appalachians
+N:they bracket the sharp on the last C as editorial
+M:3/2
+L:1/4
+Q:1/2=60 % my guess - JC
+K:DMix
+ A A D/D/| F>F A  F D ^C|D3
+ A A c   | d2  c2 (3edc |A3
+ A A c   | d2  c  c e  d|A2
+A2 A D   |(F2  A) F D ^C|D3|]
+
+There are at least two other kinds of pentatonic scale used elsewhere
+in the world.  NEUTRAL PENTATONIC scales have an interval in between
+a minor and a major third; these are found in some Middle Eastern folk
+music.  The EQUITONIC PENTATONIC scale has five notes, all separated by
+the same interval, so it has neither a pure fourth nor a fifth.  This
+is known as SLENDRO in Indonesian music.  Neither of these scales is
+representable in ABC yet.
+
+
+2. Modality Using Other Pitch Sets: Hijaz, Freygish and Nihavent
+== =============================================================
+
+The idea of modes as derived by taking different tonal centres for
+the same pitch set can be applied to entirely different scales.
+
+Here are two examples of the hijaz mode, both from Egypt.
+
+X:0
+T:Ah Ya Zayn
+G:Egyptian folk song
+M:2/4
+L:1/16
+Q:1/4=100
+K:DPhr
+^FG|A6 ^FG|A6     ^FG|ABA`G ABAG|^F6
+ A2|G6 ^FG|ABAG ^FED2|AGG^F FEED| DE^FG A2
+ BA|G6 ^FG|ABAG ^FED2|AGG^F FEED| D6    |]
+
+X:0
+T:Dulab Hijaz
+N:used as an instrumental prelude for Oum Kolsoum's concerts
+M:C
+L:1/8
+Q:1/4=90
+K:DPhr
+   AB       AG  (^F2{GF}G2)|(A{B})(G{A}) (^F{G})`(E{F})  D4        |
+   CD       E>^F  DE    F>G| E````^F       G2        ({A}G4)       |
+({A}B2) ({c}B)`A  B2    c2 |(d{e})(c{d})  (B{c})`(A{B})  G2 ({A}G2)|
+   A2   ({B}A)`G  A2    B2 |(c{d})(B{c})  (A{B})`(G{A}) ^F2     F2 |
+   G2   ({A}G)^F  G2    A2 |(B{c})(A{B})  (G{A})(^F{G})  E2     E2 |
+   D2  ({EA}D)`E ^F2    G2 |^F````(G{A})  (F{G})``E      D4       |]
+
+
+When the notes of the hijaz scale on D are given the tonal centre G,
+you get another common mode of Middle Eastern music, called NIHAVENT
+in Turkish, NAHAWAND in Arabic.  It's the mode used for most of this
+song, possibly from mediaeval Muslim Spain.  (It goes into B flat
+major for a few bars in the second part).
+
+X:0
+T:Lamma Bada Yatathanna
+M:10/8
+L:1/16
+Q:1/4=60
+K:GMin % actually Nahawand
+ D2| G4 AB cBBA AGG^F G4  \
+ D2| G4 AB cBBA AGG^F G4
+ AB| c4 d2 B3A  AGG^F G4  \
+ A2|^F4 G2 E3D  EDEF  D4
+ ed| c4 d2 B3A  AGG^F G4:|\
+ D2| G4 AB cBBA AGG^F G4
+ D2| G4 AB cBBA AGG^F G4  \
+ B2| B4 B2 B4   cBAc  B4
+ Bc| d4 c2 dccB BAGB  A4  \
+=F2| G4 A2 B4   cBAc  B4
+ AB| c4 d2 B3A  AGG^F G4  \
+ A2|^F4 G2 E3D  EDEF  D4
+ ed| c4 d2 B3A  AGG^F G4  \
+ AB| c4 d2 B3A  AGG^F G4|]
+
+A Turkish example, where nihavent alternates with aeolian:
+
+X:0
+T:Nihavend Longa
+T:ABCBAB
+C:Kevser Hanim
+M:2/4
+L:1/16
+Q:1/4=112
+P:ABCBAB
+K:C Minor
+P:A
+CDEF  GAGF | G2 E4     D2|CD`EF GAGF| G2 E4    D2 |
+CDEF  GA=Bc| de`dc =BA`GF|G4    A4  |=B4     c4   |
+dedc =Bcde | fe`dc =BA`GF|GA`GF EFED| C2 G,2 C4  :|
+P:B
+G2A2  B2cB | BA`AG  GF`FE|G2`A2 B2cB| BA`AG  GFFE |
+G2A2  B2cB | BA`AG  GF`FE|GA`GF EFED| C2 G,2 C4  :|
+P:C
+G2^F2 G4   | E=FED  C4   |c2=B2 c4  | A_BAG  F4   |
+dedc  cdc=B|=Bc`BA  A=BAG|GA`GF EDEF| GA`GF  EDC2:|
+
+In this example it's hard to tell nihavent from the melodic minor -
+the sharpened seventh mostly precedes a rise to the tonic.  (This
+is the best-known Turkish tune in English-speaking countries, as a
+result of Eartha Kitt having a hit with it in the late 1950s.  I'm
+not sure if she sang the high F sharps).
+
+X:0
+T:Katip
+T:Uskudar'a gider iken
+G:song
+O:18th century Istanbul
+M:C|
+L:1/16
+Q:1/4=96
+K:GMin
+|:G3d d2d2 ede^f d2d2|c2cc B2c2  dedc BAG2:|
+  G3A B2c2 dedc  BAG2|AcBA AG^FG A8        |
+  G3A B2c2 dedc  BAG2|AcBA AGG^F G8       |]
+
+The same is true of this tune, an Iranian version of a song found
+all over the Middle East:
+
+X:0
+T:Kamtar dan Shaneh
+M:2/4
+L:1/16
+Q:1/4=80
+K:CMin
+  CD|E2FG A2=Bc |d2=B2   z2 ed |c2=BA   GFED|
+     C2GG C2`G2 |C2`GG   C2`G2 |C2`GG   C2 ||
+|:GE|C2GG G2`G2 |AG`FA   G2`GE |C2`G2```A2c2|
+    =BAAG F2`FA |c2`A2```A2`G2 |AG`FE   GFED|
+     C2DE FE`ED |DC`C=B, CD`EF |G2`A2```A2G2|
+     AGFE GF`ED |C2`DE   FE`ED |DCC=B,  C2 :|
+  CD|E6     =B,C|D6         CD |E6           \
+  DE|F6      FG |A3G     F2`EF |G3F     E2
+  DE|F2E2`D2`C2 |G6         FG |A3G     F2   \
+  EF|G3F  E2`DE |F2`E2```D2=B,2|D4         ||
+CDEF|C2GG G2`G2 |AG`FA   G2`GE |C2`G2   A2c2|
+    =BAAG F2`FA |c2`A2```A2`G2 |AG`FE   GFED|
+     C2DE FE`ED |DC`C=B, CD`EF |G2`A2```A2G2|
+     AGFE GF`ED |C2`DE   FE`ED |DC`C=B, C2 |]
+
+And a Hungarian Gypsy tune, with a modulation from the nihavent
+mode into the minor with the tonal centre up a fifth:
+
+X:0
+T:They are making music somewhere in the village
+C:Arpad Balazs
+S:Balint Sarosi, Gypsy Music
+M:4/4
+L:1/8
+Q:1/4=66
+K:AMin
+A,CE^G ABcA |^G3F EB,3| CA,2^G, A,2 z2 |
+A,CE^G ABcA | G3D EF3 | CE2 ^D  E2  z2 |
+E^GBd  efeHd| e3c B2A2|^G2A2    B2  z2 |
+A,CE^G ABcA |^G3F EB,3| CA,2^G, A,2 z2|]
+
+Here is an example of varying the tonal centre within a single tune using
+the pitch set of the hijaz scale.  It begins in hijaz (with tonal centre D)
+but the "bridge" passage shifts the centre to G, modulating into nihavent.
+The tune is usually thought of as Ashkenazi Jewish, but I've seen it claimed
+for North Ossetia.
+
+X:0
+T:Hava Nagila
+M:C
+L:1/8
+K:DPhr
+ D2 D3 ^F(3:2:2E2D|^F2 F3 A(3:2:2G2F|G2 G3 B (3:2:2A2G|^F2 E/D/E [1 ^F4:|[2 D4||
+^FF2E  DD      D2 | EE2D CC      C2 |CE2D CC       G2 |^F2 E/D/E [1 ^F4:|[2 D4||
+G4        B4       |G2    B2        A2 G2||\
+G/G/G B>A GB    AG |G/G/G B>A       GB AG |
+A/A/A c>B Ac    BA |A/A/A c>B       Ac BA |\
+A/A/A d2  A/A/A d>D|DD    B/A/G/^F/ G4   |]
+
+In klezmer, the mode closest to hijaz is called FREYGISH.  It varies
+between octaves: the sixth at the bottom end of the range is always
+major (minor in higher octaves - the range of basic melodies rarely goes
+far into the second octave, though a violin or clarinet improvisation
+can go much higher).
+
+
+
+X:0
+T:The Freygish Scale
+M:10/4
+L:1/4
+K:DPhr
+=B, C|D2  E ^F  G  A  B  c  d2|\
+      d2  c  B  A  G ^F  E  D2|C =B, C D2|]
+
+There is a good discussion of the modes of klezmer music by Josh Horowitz
+at http://www.klezmershack.com/articles/horowitz/horowitz.klezmodes.html .
+
+Indian music can derive many modes from a single scale by introducing gaps
+and shifting the tonal centre of a pitch set in the same way as Scottish
+music does.  Middle Eastern music rarely uses gaps, and does less shifting
+of entire scales, but generates a similar variety of modes by building them
+out of tetrachordal pieces.
+
+
+3. The Acoustic Scale and its Modes
+== ================================
+
+A pitch set common in Hungarian folk music, and sporadically used in
+Western art music in the 19th and 20th centuries, is the ACOUSTIC SCALE
+or OVERTONE SCALE.  It's close to the first seven overtones of a flute
+or vibrating string, transposed into the same octave.  You could think
+of it as a Lydian scale with a flattened seventh or as a mixolydian scale
+with a sharpened fourth.
+
+X:0
+T:The Acoustic Scale
+M:10/4
+L:1/4
+K:C
+C2  D  E ^F  G  A _B  c2 |\
+c2 _B  A  G ^F  E  D  C2|]
+
+In klezmer it is known as ADONAI MOLOKH, "The Lord is King".  It's used
+for one very familiar modern tune (given Elfman's background, this was
+probably not an accident):
+
+X:0
+T:The Simpsons Theme
+M:4/4
+L:1/8
+Q:1/2=90
+C:Danny Elfman 
+K:CLyd
+c3e zfza|g3e zczA|FFFG z_B3|cccc z4|]
+
+This pitch set has two other modes found in traditional music: starting
+on G, the MAJOR PHRYGIAN, and starting on D, the MELODIOUS MINOR (in
+effect the Dorian mode with a sharpened seventh, and not used in the same
+way as the "melodic minor" of classical theory).  Presenting these with
+tonal centre C for comparison:
+
+X:0
+T:The Major Phrygian Scale
+M:10/4
+L:1/4
+K:C
+C2  D  E  F  G _A _B  c2 |\
+c2 _B _A  G  F  E  D  C2|]
+
+X:0
+T:The Melodious Minor Scale
+M:10/4
+L:1/4
+K:C
+C2  D _E  F  G  A  B  c2 |\
+c2  B  A  G  F _E  D  C2|]
+
+This is a Hungarian song that uses it.  As Vargyas says, it gets its
+dramatic effect by appearing to be in C minor at the start, with the
+true scale only revealed by the B natural and A natural in bar 5.
+
+X:0
+T:Pear tree, pear tree
+S:Lajos Vargyas, Folk Music of the Hungarians, 2005
+M:2/4
+L:1/8
+Q:1/8=69
+K:C
+% major-phrygian scale on G
+Gc (d_e)|f2 _ec| Gc (d_e)|f2 _ec |
+dc  BA  |F2  c2|_ed  c2  |G2  GG|]
+
+This Hungarian song has a completely different effect:
+
+X:0
+T:Hozz bort, kocsmarocsne
+S:Rudolf Vig, Nepek Dalai, Budapest c.1960
+M:4/4
+L:1/8
+K:CMix
+% major-phrygian scale on C
+c2 c2 B_A GF|EF Gc G2C2|
+c2 c2 B_A GF|EF Gc G2C2|
+M:2/4
+EF G2|G2 EC|DDDz |
+DE F2|G2 ED|DDDz|]
+
+A Galician one:
+
+X:0
+T:Alala da Peroxa
+S:Daniel Gonzalez, Asi Canta Galicia, Orense 1963
+M:C
+L:1/8
+Q:1/4=188 "Animato"
+K:GMix %major-phrygian on G
+  GABc d3c|_e2 ({fe}d6)    |GABc d3f|(_ed) ({ed} c6)||
+|:GABc d3f|_e2 ({fe}d2) d3e|c2A2 B3G|  A2  ({BA}HG6):|
+
+Here is an English example (cited by Vargjas without a title):
+
+X:0
+T:The Saucy Sailor
+S:Lajos Vargyas, Folk Music of the Hungarians, 2005
+S:originally from Cecil Sharp, Folk Songs of Somerset
+M:3/4
+L:1/8
+Q:1/4=100
+K:C
+% major-phrygian scale on G
+ cc |(cB) G2  cc  |(cB) G2
+ Bc | d2  g2 (f_e)| d4
+(gf)|(dc) B2  dc  |(BA) G2
+ BB | c2  AG  F2  | G4  |]
+
+This Welsh tune mainly uses the same pitch set in the G major-phrygian mode,
+but the tagged-on bar at the end of each part makes the tonal centre seem
+to be C, that is, C melodious minor, and the E natural near the end makes
+it finish in C major.  It sounds as if these bits were attached later: that
+the tune was composed at a time when the acoustic scale was in general use
+and it was passed down to a time when it wasn't understood any more.
+
+X:0
+T:The Ebb of the Tide
+S:Jones 1809
+M:6/8
+L:1/8
+K:C
+G| c2c cdc|B3  G2G|_e2e efe |d3 B2
+d|_e2d c2c|B2A G2G| ABc dec |B3 G2\
+F| GAB c2||
+G| c2c cdc|B2G G2G|_e2e efe |d3 B2
+d|_e2d c2c|B2A G2G| ABc d=ec|B3 G2\
+F| GAB c2|]
+
+The acoustic scale is the natural scale for a flute with no fingerholes.
+These are found all over the world, but seem never to have been used in
+Scotland - the closest they got was Norway.  Usually the finger can stop
+the end of the flute to get the closed-pipe harmonic series as well as
+the open one.  Usually the flute is made as long as possible, given that
+the player has to be able to get a finger over the end hole to stop it;
+a type once played in New Caledonia was bent round in a semicircle, held
+in that shape by a bowstring, to get it an extra 50% longer.  Here's the
+scale for the Hungarian type, the tilinko.  The lowest two notes are not
+used:
+
+X:0
+T:The Tilinko Scale
+S:T. Okos, A Hangszeres Magyar Nepzenerol, Flaccus, Budapest 2004
+N:in fact some of these pitches are audibly higher or lower
+M:none
+L:1/4
+Q:1/4=80
+K:C
+P:open end
+G,  |G  d  g  b  d' f' a'||
+P:closed end
+D   |B  f  a ^c' e' g'||
+P:full scale
+G, D|G  B  d  f  g  a  b ^c' d' e' f' g' a'|]
+
+The central range, starting two octaves above the fundamental, forms an
+acoustic scale (mixolydian with a sharpened fourth).  Here's a Moldavian
+Hungarian dance tune for it:
+
+X:0
+T:Gyors tilinkos
+S:S. Balogh, Moldvai Hangszeres Dallamok, Etnofon, 2001
+N:I've transposed this up an octave from the way it's printed
+M:4/4
+L:1/8
+Q:1/4=194
+K:C
+_Bc  G c  de  c2 |    de G e ^fg e2 |
+^fg  G g (fe)(dc)|[1 ^fg3     g2 z2:|\
+                  [2 _B c3    c2 z2||
+(a_bag) (^fg)(fe)|(^fg)(fe) (dc)(fg)|
+(a_bag) (^fg)(fe)|(^fg)(fe) (dc) c2:|
+
+The Moldavian flute player Andras Hodorog learned this instrument from his
+mother, who would only play it around Easter because she thought it was
+such a happy sound it could charm the dead out of their graves, and you'd
+only want that to happen at the time of the Church's greatest festivity.
+
+The tilinko is the instrument, more than any other, whose pitch structure is
+determined by the overtone series.  So much for the pop-musicology idea that
+the overtone series is the primary influence on what Western music sounds
+like.  If that theory were true, all music would sound like tilinko tunes.
+
+
+4. The Nikriz or Misheberach Scale
+== ===============================
+
+A related scale from the same culture is that of the Moldavian kaval,
+a five-holed low whistle (fundamental usually around A below middle C)
+which is played in the first three or four harmonics.  It's like the
+acoustic scale but with a flattened third: a dorian scale with a sharpened
+fourth (but the kaval's tuning is different from the tilinko's natural
+acoustic scale).  Fingerings, hence the exact scale, are variable.  Here
+are two Moldavian Hungarian dance tunes for it:
+
+X:0
+T:Romanca
+S:S. Balogh, Moldvai Hangszeres Dallamok, Etnofon, 2001
+M:4/4
+L:1/8
+Q:1/4=144
+K:DDor
+A2(DE) (FE).D2|.A2(DE) (FE).D2 | .A2(DE)  (FE^GE)|(E2D2) E2z2 |
+A2(DE) (FE).D2|.A2(DE) (FE).D2 | .A2(DE)  (FE^GE)|(E2D2) D2z2:|
+A2A2.   B2`.c2|.d2.c2  (B2``A2)|(TB2`A2) (^GF`ED)| E4    E2z2 |
+A2A2   .B2`.c2|.d2.c2  (B2``A2)|(TB2`A2) (^GF`ED)| D4    D2z2:|
+
+X:0
+T:Seremoj
+S:S. Balogh, Moldvai Hangszeres Dallamok, Etnofon, 2001
+M:4/4
+L:1/8
+Q:1/4=180
+K:DDor
+ (D/E/)F DA,      D/D/.D   D2  | (F/E/F) T^GF            (F/E/D) AD |
+ (D/E/)F DA,      D/D/.D   D2  |(TF/E/F) T^GF            (F/E/D) Dz:|
+(TA^G)  ^G(F/E/) .F.^G   (TA.F)|(^GF)     (F/E/)`(D/E/)   F2     Fz |
+(TA^G)  ^G(F/E/) .F.^G   (TA.F)|(^GF)     (E/F/)(^G/F/) (TE.D)   Dz:|
+
+This is a tune transcribed by Bartok from a Romanian flute player in
+1912, and used in his set of arrangements of six Romanian folk dances.
+It's remarkable for how rarely the tonal centre appears.
+
+X:0
+T:Pe Loc
+S:Vera Lampert, Nepzene Bartok Muveiben, 2005
+D:https://www.youtube.com/watch?v=baYRLRCeP5E (Moldvai kaval and dancers)
+M:4/4
+L:1/8
+K:AMin
+  z    z   c^de   |e/^d/c de/f/ e/d/c de   |z    ^d2
+  c/B/ A/B/c de/f/|e/^d/c de/f/ e/d/c de   |z    ^d2
+|:c/B/ AB    Bc   |BB     Bc    BB    Bc/B/|c/B/ ^d2:|
+
+This scale seems to have no common name in Hungarian.  It found its way
+into klezmer music as the MISHEBERACH or MISHEBEREKH scale.  Klezmer
+musicians generally think it's of Ukrainian or Romanian origin, but also
+associate it with formulas from Jewish liturgy (hence the name: "may the
+one who blesses", from a blessing prayer which is usually in this mode).
+Here it is in two klezmer dance tunes:
+
+X:0
+T:Alan Bern's Freylekhs
+S:Pete Cooper, Eastern European Fiddle Tunes
+M:C|
+L:1/8
+Q:1/2=120
+K:DDor % misheberach
+dcBA  BA^GF|F/E/D EF ^GA3|dcBA  BA^GF|F/E/D AA D4:|
+EFED ^GAGF |F/E/D EF ^GA3|EFED ^GAGF |F/E/D AA D4:|
+
+and in a more complex tune which has a third part in the major:
+
+X:0
+T:Die Mame is Gegangen in Markt Areyn
+M:2/4
+L:1/8
+Q:1/4=136
+K:GDor
+D|   GD     GB | ^cd     cB |  ^cd     dd | d3
+e|   f>e  (3fed|  d>^c (3dcB|   A^c    cc |^c4   |
+     d>^c (3dcB|  B>A  (3BAG|   GA     AA | d3
+d|(3^cde  (3dcB|(3d^cB (3BAG|   G4-       | G3  :|
+e|   f3      e |  f3      e |   f>e    d^c| d3
+e|   f>e    fg | ~ag    ~fe |   fe     d^c| d2 d2|
+     d2     d2 | ^c3      B | (3d^cB (3BAG| A3
+d|(3^cde (3dcB |(3d^cB (3BAG|   G4-       | G3  :|
+K:G
+A|   B3      A |  G2     AB |   c2     B2 | A4   |
+     A>B    cd | ~BG    ~AF |[1 Gg     fe | dc B:|\
+                             [2 G4-       | G3  |]
+
+The pitch set of a tune in C misheberach is the same as one in D freygish -
+modulations between them are common, like "double tonic" in Scottish music.
+
+X:0
+T:The Misheberach or Moldavian Kaval Scale
+M:10/4
+L:1/4
+K:C
+C2  D _E ^F  G  A _B  c2 |\
+c2 _B  A  G ^F _E  D  C2|]
+
+In Turkish music misheberach is one form of the NIKRIZ makam (NAKRIZ in
+Arabic), which may have the seventh either major or mixolydian, or major
+on rising phrases and mixolydian on falling ones, as in this example,
+quite similar to Alan Bern's Freylekhs:
+
+X:0
+T:Nikriz Zeybek
+G:Turkish or Greek dance tune from Western Anatolia
+S:transposed into playing pitch from a score on adamgood.com
+M:9/8
+L:1/16
+Q:1/4=108
+N:Aksak rhythm
+K:DDor
+c>BA^G A2`A2  c>BAG  ABcd e2||
+c>BA^G F>ED2  F>ED^C DEFG A2 |\
+c>BA^G F>ED2  F>ED^C D2D2 D2:|
+Ad2e   dcBA  ^GAB^c  d2dc d2 |\
+Ad2e   dcBA  ^GABG   A2A2 A2||
+c>BA^G F>ED2  F>ED^C DEFG A2 |\
+c>BA^G F>ED2  F>ED^C D2D2 D2:|
+A,DFA ^GFED   F>ED^C DEFG A2 |\
+c>BA^G F>ED2  F>ED^C D2D2 D2:|
+c>BA^G F>ED2  F>ED^C DEFG A2 |\
+c>BA^G F>ED2  F>ED^C D2D2 D2:|
+
+Here is a Czech tune using the same scale:
+
+X:0
+T:Mela jsem vcera
+G:Czech folk song
+S:Rudolf Vig, Nepek Dalai, Budapest c.1960
+M:2/4
+L:1/8
+K:DDor
+c2  BA|^G2  A2| Bc  A2|
+c2  BA| BB ^GE| D4    |
+D E2 E| F^G E2|^G A2 B|cB A2|
+c2  BA| BB ^GE| D4   |]
+
+In this song the seventh is consistently major, but there is a modulation
+in the second line of the verse.
+
+X:0
+T:I am going to Batumi
+G:folksong from Sinop
+S:Cerdanos website
+M:7/8
+N:Devr-i Turan rhythm
+L:1/8
+K:GLyd
+P:Instrumental
+G2 d2 dc_B|_B2 B2 BAG|G2 d2 dc_B|_B2 B2  BAG| 
+G2 d2 dc_B|_B2 B2 BAG|z2 FG A2 A| A2 A2 _BAG|G2 G2 z3:|
+P:Verse
+ G2 G2 G2 G| d2 d2 efg|        g2 fe dc_B|        dc _BA G3:|
+=c2 c2 c2=B|=c2 d2 e3 |[M:6/8] dc_B  dc_B|[M:7/8] dc _BA G3:|
+P:Chorus
+G2 d2 dc_B|_B2 B2 BAG|G2 d2 dc_B|_B2 B2  BAG|
+G2 d2 dc_B|_B2 B2 BAG|z2 FG A2 A| A2 A2 _BAG|G2-G2 z3:|
+
+X:0
+T:The Nikriz or Misheberach Scale (asymmetric form)
+M:10/4
+L:1/4
+K:CDor
+C2  D  E ^F  G  A =B  c2 |\
+c2  B  A  G ^F  E  D  C2|]
+
+This Hungarian song tune uses a different asymmetric pattern, with the
+fourth perfect in ascending phrases and sharpened in descending ones:
+
+X:0
+T:Mit busulsz, kenyeres
+M:4/4
+L:1/8
+K:DDor
+DD E2 FF  G2|FF EA D2 D2 |\
+AA BB c2  d2|cc Be A2 A2 |
+dc BA BA ^GF|DE F2 E2 z2 |\
+dc BA BA ^GF|DF E2 D2 z2|]
+
+Flattening the sixth in misheberach produces the HUNGARIAN MINOR scale.
+
+X:0
+T:The Hungarian Minor Scale
+M:10/4
+L:1/4
+K:CMin
+C2  D  E ^F  G  A  B  c2 |\
+c2  B  A  G ^F  E  D  C2|]
+
+Mark Slobin thinks this tune is an old Moldavian one, since the mode
+seems not to occur unmodulated in 20th century klezmer:
+
+X:0
+T:Shulem's Bulgarish
+S:Mark Slobin, American Klezmer - its roots and offshoots
+M:4/4
+L:1/8
+Q:1/4=120
+K:GMin
+  D| (3GAB ^c<d  g2     zG |    AB    d2 (3d^cB (3BAG|d>d  ^c<d G2 z
+|:G|   AB   d2 (3d^cB (3BAG|    d>d   d^c/c/ G2   z :|
+  G|   AB   d2 (3d^cB (3BAG|({d}e>)d ^cB     cd   z
+  B|   zded     ^cBcd      |    Gd^cB        cd2  B  |G>D (3GAB G2 D2|
+   ({e}f)ed^c    de3       |    fed^c        cd  G2  |
+                                zd^cB        cd2  B  |G>D (3GAB Gz z|]
+
+Pure examples of this are not easy to find - it's most often used as
+a colouristic effect.
+
+This Hungarian "nota" song (Gypsy-influenced salon piece) uses a variant
+where the fourth is only sharpened on rising phrases:
+
+X:0
+T:Notas kedvu volt az apam
+S:http://mek.oszk.hu/05700/05702/html/dalok/dal-356.jpg
+M:4/8
+L:1/16
+Q:1/4=34
+K:AMin
+  EE  AA  EE AHA|cc  BE  EE   FE  |
+  A^G AB  cc BHA|dc  BA  EE   FHE |
+|:EE  FE  EA BHc|ee ^de  f=d HcHB |
+  cc  BA ^GA BHF|EE ^DE =dc  HBHA:|
+
+And this tune uses a mixture of Hungarian minor and standard minor so
+mixed up it's hard to tell which is the basic scale and which is the
+chromatic variant:
+
+X:0
+T:Csardas
+S:Balint Sarosi, Gypsy Music
+M:4/8
+L:1/16
+Q:1/4=138
+K:CMin
+  G^FGE  DC3  |c=BcA  GF3 |G^FGC =B,D3 |C4   C4  |
+  G^FGE  DC3  |c=BcA  GF3 |B=AB_A FA3  |G4   G4  |
+|:c=Bce _BAB=B|d2c2  _B2A2|G^FGc =F=EFG|B2G2 E2D2|
+  G^FGE  DC3  |c=BcA  GF3 |G^FGC =B,D3 |C4   C4 :|
+
+Coincidentally, Hungarian minor is the Indonesian PELOG scale, though
+Eastern European music using it sounds nothing like Indonesian music.
+(The exact pitches of Indonesian scales vary widely from one gamelan
+to another, but the basic scale is always identifiable).
+
+Pelog is considered to have three modes ("pathets") but they don't apply
+to single-line melodies like the Western, Middle Eastern and Indian modes.
+
+
+5. The Hijazkar Scale
+== ==================
+
+A scale similar to hijaz, but with the seventh sharpened, is called
+HIJAZKAR in Turkish.  It's not very common in Turkish art music, but
+very common in Indian music, where it is called BHAIRAVI in the North
+Indian tradition and MAYAMALAVAGAULA in the Carnatic one. (It's not
+the same as KURDILIHIJAZKAR, which is a form of the phrygian mode and
+much more commonly used in Turkey).  
+
+X:0
+T:The Hijazkar Scale
+M:10/4
+L:1/4
+K:DMix
+D2 _E ^F G A _B ^c d2 |\
+d2 ^c _B A G ^F _E D2|]
+
+In English transliterations of writings on Greek music this is often
+spelt HITZAZKIAR (since Greek uses "tz" to represent the "j" sound).
+It has the same pitch set as pelog or Hungarian minor, but with the
+tonal centre shifted up a fifth.
+
+The best known example of a tune in this mode is Greek:
+
+X:0
+T:Misirlou
+T:Egyptian Girl
+M:4/4
+L:1/8
+Q:1/4=110
+K:EPhr
+ E3 F ^G2 A2| B3  c  ^d2 c2| B8-| B8  :|
+ cB2c  B2 A2| B A2 B  A2^G2|^G8-|^G8   |
+ BA2B  A2^G2|^G F2 G  F2 E2| E8-| E8  :|
+ A8-        | A6        ^GA| B8-| B6 AB|\
+ c6       Bc|^d6         cd| e8-| e8   |
+ fe2f  e2^d2| e^d2 e  d2 c2| B8-| B8   |
+^dc2d  c2 B2| B A2 B ^G2 F2| E8-| E8  :|
+ c6       Bc|^d6         cd| e8-| e8  |]
+
+That is an unusually simple tune, just up and down the scale: "arch form".
+This Romanian example is also very simple, a descending line:
+
+X:0
+T:Pana cand nu te iubeam
+S:Anton Pann
+D:https://www.youtube.com/watch?v=0zzvfUDMfHc (Storm Large)
+D:https://www.youtube.com/watch?v=uMrTDNsEf1M (Maria Tanase)
+M:2/4
+L:1/8
+Q:1/4=84
+K:C % hijazkar
+GG GG|_A/B/G/F/  EF|GB c/_A/G|_A/B/G/F/  E2 |
+GF EE| F/G/E/_D/ CD|EG _A/F/E| F/G/E/_D/ C2||
+
+=============================================================================
+==  (c) Jack Campin         http://www.campin.me.uk/         October 2016  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

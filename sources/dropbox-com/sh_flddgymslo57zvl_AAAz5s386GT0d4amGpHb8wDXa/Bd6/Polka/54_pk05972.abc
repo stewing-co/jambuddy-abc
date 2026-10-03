@@ -1,0 +1,84 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Polka  GC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.280 (pk05972) orig. G,C-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"Bd "C"ce | "G"db !>!g2 | "D7"a>g f/e/d/c/ | "G"bb/a/ g/f/e/d/ | Bd "C"ce | "G"db!>!g2 | "D7"a>g f/e/d/f/ | "G"gb gz ::
+"G"B>d g/f/e/d/ | "tr""D7"dc f>e | "tr"dc f>e | "tr""G"dBg2 | B>d g/f/e/d/ | "D7"dc f>e | dc/d/ b/a/e/f/ |1 
+"G"gb gz :|2 "G"gb ge/g/ |: [K:C] "C"c'3b |  "F"a3b | "C"c'3b/a/ | "G7"g3a/g/ | gf f>g | "C"fe e>f | 
+"Dm"ed "G7"ag | "C"c'2 c'/b/a/g/ | "G7"gf f>g | "C"fe e>f | "Dm"e/d/b/a/ "G7"g/f/e/d/ |1 "C"ce ce/g/ :|2 "C"ce cz |] 
+% pk05972
+X:2
+T:Polka  CF 7-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"EG "F"FA | "C"Ge !>!c2 | "G7"d>c B/2A/2G/2F/2 | "C"ee/2d/2 c/2B/2A/2G/2 | EG "F"FA | "C"Ge!>!c2 | "G7"d>c B/2A/2G/2B/2 | "C"ce cz ::
+"C"E>G c/2B/2A/2G/2 | "tr""G7"GF B>A | "tr"GF B>A | "tr""C"GEc2 | E>G c/2B/2A/2G/2 | "G7"GF B>A | GF/2G/2 e/2d/2A/2B/2 |1 
+"C"ce cz :|2 "C"ce cA/2c/2 |: [K:F] "F"f3e | "Bb"d3e | "F"f3e/2d/2 | "C7"c3d/2c/2 | cB B>c | "F"BA A>B | 
+"Gm"AG "C7"dc | "F"f2 f/2e/2d/2c/2 | "C7"cB B>c | "F"BA A>B | "Gm"A/2G/2e/2d/2 "C7"c/2B/2A/2G/2 |1 "F"FA FA/2c/2 :|2 "F"FA Fz |] 
+% pk05972
+X:3
+T: Polka  GC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"Bd "C"ce | "G"db !>!g2 | "D7"a>g f/e/d/c/ | "G"bb/a/ g/f/e/d/ | Bd "C"ce | "G"db!>!g2 | "D7"a>g f/e/d/f/ | "G"gb gz ::
+"G"B>d g/f/e/d/ | "tr""D7"dc f>e | "tr"dc f>e | "tr""G"dBg2 | B>d g/f/e/d/ | "D7"dc f>e | dc/d/ b/a/e/f/ |1 
+"G"gb gz :|2 "G"gb ge/g/ |: [K:C] "C"c'3b |  "F"a3b | "C"c'3b/a/ | "G7"g3a/g/ | gf f>g | "C"fe e>f | 
+"Dm"ed "G7"ag | "C"c'2 c'/b/a/g/ | "G7"gf f>g | "C"fe e>f | "Dm"e/d/b/a/ "G7"g/f/e/d/ |1 "C"ce ce/g/ :|2 "C"ce cz |] 
+% pk05972
+X:4
+T:Polka  CF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"EG "F"FA | "C"Ge !>!c2 | "G7"d>c B/2A/2G/2F/2 | "C"ee/2d/2 c/2B/2A/2G/2 | EG "F"FA | "C"Ge!>!c2 | "G7"d>c B/2A/2G/2B/2 | "C"ce cz ::
+"C"E>G c/2B/2A/2G/2 | "tr""G7"GF B>A | "tr"GF B>A | "tr""C"GEc2 | E>G c/2B/2A/2G/2 | "G7"GF B>A | GF/2G/2 e/2d/2A/2B/2 |1 
+"C"ce cz :|2 "C"ce cA/2c/2 |: [K:F] "F"f3e | "Bb"d3e | "F"f3e/2d/2 | "C7"c3d/2c/2 | cB B>c | "F"BA A>B | 
+"Gm"AG "C7"dc | "F"f2 f/2e/2d/2c/2 | "C7"cB B>c | "F"BA A>B | "Gm"A/2G/2e/2d/2 "C7"c/2B/2A/2G/2 |1 "F"FA FA/2c/2 :|2 "F"FA Fz |] 
+% pk05972
+X:5
+T:Polka D&G (tinwhistle in D)
+T:pk05972 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D%%MIDI gchordon
+"D"FA "G"GB | "D"Af !>!d2 | "A7"e>d c/2B/2A/2G/2 | "D"ff/2e/2 d/2c/2B/2A/2 | FA "G"GB | "D"Af!>!d2 | "A7"e>d c/2B/2A/2c/2 | "D"df dz ::
+"D"F>A d/2c/2B/2A/2 | "tr""A7"AG c>B | "tr"AG c>B | "tr""D"AFd2 | F>A d/2c/2B/2A/2 | "A7"AG c>B | AG/2A/2 f/2e/2B/2c/2 |1 
+"D"df dz :|2 "D"df dB/2d/2 |: [K:G] "G"g3f | "C"e3f | "G"g3f/2e/2 | "D7"d3e/2d/2 | dc c>d | "G"cB B>c | 
+"Am"BA "D7"ed | "G"g2 g/2f/2e/2d/2 | "D7"dc c>d | "G"cB B>c | "Am"B/2A/2f/2e/2 "D7"d/2c/2B/2A/2 |1 "G"GB GB/2d/2 :|2 "G"GB Gz |] 
+X:6
+T:Polka D&G (tinwhistle in D) solo
+T:pk05972 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D transpose=12
+FA GB | Af !>!d2 | e>d c/2B/2A/2G/2 | ff/2e/2 d/2c/2B/2A/2 | FA GB | Af!>!d2 | e>d c/2B/2A/2c/2 | df dz ::
+F>A d/2c/2B/2A/2 | TAG c>B | TAG c>B | TAFd2 | F>A d/2c/2B/2A/2 | AG c>B | AG/2A/2 f/2e/2B/2c/2 |1 
+df dz :|2 df dB/2d/2 |: [K:G] g3f | e3f | g3f/2e/2 | d3e/2d/2 | d"_c"c c>d | "_c"cB B>c | 
+BA ed | g2 g/2f/2e/2d/2 | d"_c"c c>d | "_c"cB B>c | B/2A/2f/2e/2 d/2"_c"c/2B/2A/2 |1 GB GB/2d/2 :|2 GB Gz |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 14, 2016

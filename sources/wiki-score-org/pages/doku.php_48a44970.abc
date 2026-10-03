@@ -1,0 +1,39 @@
+X:110
+T:[Kyrie]
+C:Carvalho, Jo\~ao de Sousa (1745-1798)
+M:C
+L:1/4
+K:C
+V: 10 clef=bass name="[Basso]" sname="B."
+%%MIDI program 1 42
+%%staves [ 10 ]
+%----------------
+"_[fol.1v]" [Q:"Allegro con spirito" ] z/ | C, E,/C,/ G,/G,/G,,/G,,/ | C,/C/G,/E,/ C,/C,/D,/D,/ | E,/ (C,//D,//)E,/C,/ G,/G,/G,,/G,,/ | C,/C/G,/E,/ C,/E,/G,/E,/ | C, z [K:alto] !p! "_viol."  (G2 | \
+"_[fol.2]"  (A2) (D2)| E2) [K:bass] E,/C,/E,/C,/ | F,/F,/A,/A,/ F,/F,/G,/G,/ | C, z [K:alto] !p! "_viol."  (G2 | (A2) (D2)| E2) [K:bass] E,/C,/E,/C,/ |  \
+"_[fol.2v]" F,/C,/F,/C,/ E,/C,/E,/C,/ | F,/F,/F,/F,/ ^F,2 | /G,/ G,/B,/G,/ C/G,/E,/C,/ | G,/ G,/B,/G,/ C/G,/E,/C,/ | G,, z !sf! !p! (A,2 | B,2) Cz | Z | \
+"_[fol.3]"  (A,,2 B,,2) | C,zz2 | F,/F,/F,/F,/ G,/G,/G,,/G,,/ | C, C,/C/ C, C,/C/ | C, C C, z | C, E,/C,/ G,/G,/G,,/G,,/ | C,/C/G,/E,/ C,/C,/D,/D,/ | \
+"_[fol.3v]" E,/ (C,//D,//)E,/C,/ G,/G,/G,,/G,,/ | C,/C/G,/E,/ C,/E,/G,/E,/ | C, z [K:alto] !p! "_viol."  (G2 | (A2) (D2)| E2) [K:bass] C,/C,/E,/C,/ | F,/F,/A,/F,/ E,/G,/E,/C,/ |
+"_[fol.4]"  F,/F,/G,/G,/ C,/E,/G,/E,/ | C, z [K:alto] !p! "_viol."  (G2 | A2 D2) | E2 [K:bass] C,/C,/E,/C,/ | F,/F,/A,/F,/ E,/G,/E,/C,/ | C/B,/A,/G,/ A,/G,/F,/E,/ | \
+"_[fol.4v]" F,/F,/E,/E,/ D,/D,/C,/C,/ | G, z/G,/ C/C/C/C/ | B,/B,/B,/B,/ "_#6" !/!A,2 | G, z/G,,/ C,/C,/C,/C,/ | !/!B,,2 "_#6" !/!A,,2 | !/!G,,2 "_#6" !/!G,,2 | \
+"^[fol.5]"  "_5""_3" !/!G,,2 "_6""_4" !/!G,,2 | "_5""_3"  G,,/G,/G,,/G,/ G,,z | z G,G,,z | D,zD,z | D,zD,z | G,zG,z | G,zG,,z | \
+"_[fol.5v]" D, !f! D/C/ B,/D/B,/G,/ | ^F,F,G,G, | D,zD,z | G,,B,CC, | G,z "_6""_4" G,z | "_5""_3" G, G,/=F,/ "_6" E,/G,/E,/C,/ | "_6""_=5" !/!B,,2 !/! C,2 | \
+"_[fol.6]"  G,,/G,/B,/G,/ C/C/A,/A,/ | B,/D/ B,/G,/ C,/C,/D,/D,/ | G,,z "_6""_4" !p! G,z|  "_5""_3" G,z D,z | !f!G,,2 "_6""_4"!p!G, z | "_5""_3" G,z D,z| G,,/G,/G,,/G,/ G,,z | \
+"_[fol.6v]" !sfz! !p! (E,2 ^F,2) | G,z E,z | C,z D,z | G,zz2 | !sfz! !p! (E,2 ^F,2) | G,z E,z | C,z D,z | G,,z !f!B,,/"_6""_=5"B,,/B,,/B,,/  | \
+"_[fol.7]"  C,/C,/C,/C,/ "_6""_5"!/!^C,2 | "_#"D,/D,/B,,/B,,/ =C,/C,/D,/D,/ | G,/G,/G,/G,/ !/!E,2 | !/!C,2 !/!D,2 | G,/G,/B,/G,/ "_#"D/D,/^F,/D,/ | G,/G,/B,/G,/ "_#"D/D,/^F,/D,/ | G,/G,/G,/G,/ !/!G,2 | \
+"_[fol.7v]" !/!A,2 !/!D,2 | G,/G,,/B,,/D,/ B,,/G,,/B,,/G,,/ | C,/C,/E,/C,/ D,/D,/D,,/D,,/ | G,,zG,z | G,,G,G,,z | G,/G,/G,/G,/ !/!D,2 | G,,/G,/D,/B,,/ G,,/G,,/A,,/A,,/ | \
+"_[fol.8]"  B,,/B,,/G,,/G,,/ !/!D,2 | G,/G,,/B,,/D,/ G,/B,/D/B,/ | G, z [K:alto] !p! "_viol."  (D2 | (E2) (^A,2)| B,2) [K:bass] !f!G,/G,/B,/G,/ | C/C/B,/G,/ C,/C,/D,/D,/ | G,/G,/G,/G,/ "_2""_4"!/!=F,2 | \
+"_[fol.8v]" !/! E,2 !/!D,2 | C,/C/G,/E,/ C,/E,/G,/E,/ | C,z [K:alto] !p! "_viol."  (G2 | A2 D2)| E2 [K:bass] C,/C,/E,/C,/ | F,/F,/A,/F,/ E,/G,/E,/C,/ | \
+"_[fol.9]"  C/C/"_2""_4"_B,/B,/ "_6"A,/A,/"_6""_4"G,/G,/ | "_6""_5"F,/F,/F,/F,/ ^F,/F,/F,/F,/ | G,,/ G,/B,/G,/ C/G,/E,/C,/ | G,,/ G,/B,/G,/ C/G,/E,/C,/ | G,,/G,/D,/B,,/ G,, !fermata!z|| [Q:"Andantino"] [K:Bb] [M:2/4] Z | !p! .C,/z/ .C,/z/ | \
+"_[fol.9v]" G,,/z/ z | G,,/z/ G,,/ z/ | C,/z/ C,/z/ | G,/z/  G,/z/ | G,,/z/ =B,,/z/ | C,/z/ (C,/D,/ | E,/=E,/F,/C,/) | \
+"_[fol.10]" F,/z/ (F,/G,/ | _A,/)F,/ z/F,/ | D,z/G,,/ | C,/C/F,/G,/ | C,/z/z | Z | E,/z/ E,/z/ | \
+"_[fol.10v]" B,,/z/ B,,/z/ | B,,/z/ D,/z/ | E,/z/ E,/z/ | B,/z/ B,,/z/ | E,/z/ (G,/E,/) | "_ b6 " C,/z/ (C/_A,/) | "_6" F,/z/ (B,,/D,/) | \
+"_[fol.11]"  E,/z/ =A,,/z/ | B,,z | !f! D,/.E,/ z | "_b7" "_5".=B,,/.C,/ z | Z | !p! C,/z/ C,/z/ | F,/z/ G,/G,,/ | _A,, z | \
+"_[fol.11v]" F,/z/ G,/G,,/ || [Q:"Primo Tempo"] [M:C] [K:C] C,/C,/C,/C,/ !/!C,2 | !f!!/!C,2 !p!!/!C,2 "_cres" | !/!C,2 !/!C,2 | !f!!/!C,2 !p!!/!C,2 | C,E,/C,/ G,/G,/G,,/G,,/ | C,/C/G,/E,/ C,/C,/D,/D,/ | \
+"_[fol.12]"  E,/ (C,/4D,/4)E,/C,/ G,/G,/G,,/G,,/ | C,/C/G,/E,/ C,/E,/G,/E,/ | C, C/_B,/ A,/G,/A,/F,/ | E,E,F,F, | C, zC, z | E,G,/F,/ E,/D,/E,/C,/ | \
+"_[fol.12v]"  B,,/B,,/B,/B,/  C/C/C,/C,/ | G,/G,/C/C/ F,/F,/G,/G,/ | C,z !p!"_6""_4" .C, z | \
+"_5""_3" .C, z .G,,z |  !f! C,2 !p! "_6""_4" .C, z | \
+"_5""_3" .C, z .G,,z | \
+"_[fol.13]"  !f! C,/C/C,/C/ C, z | !sfz!!p! (A,2 B,2) | CzA,z | F,z G,z | C,zz2 | !sfz!!p! (A,,2 B,,2) | C, z E, z | F, z G, z | \
+"_[fol.13v]" C, z !f!E,/E,/E,/E,/ | !/!F,2 !/!^F,2 | G,/G,/C/C/ =F,/F,/G,/G,/ | C/C/C/C/ !/!A,2 | !/!F,2 !/!G,2 |  C,/ C,/E,/C,/ G,/ G,/B,/G,/ | C/ C,/E,/C,/ G,/ G,,/B,,/G,,/ | \
+"_[fol.14]"  C, z C, z | C,/x/8{F,}G,/8A,/8B,/8 C/2G,/2 E,/2C,/2E,/2G,/2 | CC,C,!fermata! z |]
+%----------------

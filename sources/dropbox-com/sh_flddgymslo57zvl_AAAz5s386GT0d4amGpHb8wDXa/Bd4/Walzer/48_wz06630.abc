@@ -1,0 +1,88 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Walzer CF  (wz06630) ABCAB
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.268 (wz06630) orig. C,F
+T: Repertoire der "Dorfmusig Aesch". S.255-269
+T:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+%%partsbox
+P:ABCAB
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+[P:A] "C"G3 | ^F3 | A3 | G3 | (e2d) | cG>^G | ("Dm"B3 | A3) | "G7"F3 | E3 | G3 | F3 | 
+(B2A) | GD>^D | ("C"E3 | E3) | G3 | ^F3 | A3 | G3 | (e2d) | "A7"^cBc | "Dm"e3 | d3 | 
+f2(e | "G7"d)AB | ("C"c3 | c)GA | "G"BAG | "D7"A2d | "G7"GGG | GGG [P:B] |: ("C"e3 | e)d>c | (G3 | 
+G)A>B | c3 | ed>e |  "F"g3 | f3 | ("G7"f3 | f)e>d | ("C"c3 | c)B>A | "G7"G^FG | e2d | 
+("C"c3 | c)z"_Fine"z :| [P:C] [K:F] "F"A3 | (G2F) | c3 | c(=Bc) | ("D7"d3 | A3) | ("Gm"c3 | B3) | B3 | A2B | 
+"C7"e3 | d3 | .f.e.d | dc>=B | c3 | "F"c2B | (A3 | G2F) | (c3 | c)=Bc | ("D7"_e3 | d2)A | 
+("Gm"c2B) | D3 | ("C7"B3 | B)AG | ("F"c3 | c)ed | "C7"cGA | {/c}BAG | ("F"F3 | F)z"_>Teil A"z |] 
+% wz06630
+% May 14, 2017
+
+X:2
+T:Walzer CF  (wz06630)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.268 (wz06630) orig. C,F
+S: Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"G3 | ^F3 | A3 | G3 | (e2d) | cG>^G | ("Dm"B3 | A3) | "G7"F3 | E3 | G3 | F3 | 
+(B2A) | GD>=E | ("C"E3 | E3) | G3 | ^F3 | A3 | G3 | (e2d) | "A7"^cBc | "Dm"e3 | d3 | 
+f2(e | "G7"d)AB | ("C"c3 | c)GA | "G"BAG | "D7"A2d | "G7"GGG | GGG |: ("C"e3 | e)d>c | (G3 | 
+G)A>B | c3 | ed>e |  "F"g3 | f3 | ("G7"f3 | f)e>d | ("C"c3 | c)B>A | "G7"G^FG | e2d | 
+("C"c3 | c)zz :| [K:F] "F"A3 | (G2F) | c3 | c(=Bc) | ("D7"d3 | A3) | ("Gm"c3 | B3) | B3 | A2B | 
+"C7"e3 | d3 | .f.e.d | dc>=B | c3 | "F"c2B | (A3 | G2F) | (c3 | c)=Bc | ("D7"_e3 | d2)A | 
+("Gm"c2B) | D3 | ("C7"B3 | B)AG | ("F"c3 | c)ed | "C7"cGA | {/c}BAG | ("F"F3 | F)z"_>Teil A"z |] 
+W: Parts: ABCAB
+% wz06630
+% May 14, 2017
+
+X:3
+T:Walzer GC 7+ (wz06630)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.268 (wz06630) orig. C,F
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+"G"d3 | ^c3 | e3 | d3 | (b2a) | gd>^d | ("Am"f3 | e3) | "D7"c3 | B3 | d3 | c3 | 
+(f2e) | dA>^A | ("G"B3 | B3) | d3 | ^c3 | e3 | d3 | (b2a) | "E7"^gfg | "Am"b3 | a3 | 
+c'2(b | "D7"a)ef | ("G"g3 | g)de | "D"fed | "A7"e2a | "D7"ddd | ddd |: ("G"b3 | b)a>g | (d3 | 
+d)e>f | g3 | ba>b | "C"d'3 | c'3 | ("D7"c'3 | c')b>a | ("G"g3 | g)f>e | "D7"d^cd | b2a | 
+("G"g3 | g)zz :| [K:Cmaj] "C"e3 | (d2c) | g3 | g(^fg) | ("A7"a3 | e3) | ("Dm"g3 | f3) | f3 | e2f | 
+"G7"b3 | a3 | .c'.b.a | ag>^f | g3 | "C"g2f | (e3 | d2c) | (g3 | g)^fg | ("A7"_b3 | a2)e | 
+("Dm"g2f) | A3 | ("G7"f3 | f)ed | ("C"g3 | g)ba | "G7"gde | {/g}fed | ("C"c3 | c)z"_>Teil A"z |] 
+W:Parts: ABCAB
+% wz06630
+% May 14, 2017
+
+X:4
+T:Walzer GC 5-  (wz06630)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.268 (wz06630) orig. C,F
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+"G"D3 | ^C3 | E3 | D3 | (B2A) | GD>^D | ("Am"F3 | E3) | "D7"C3 | B,3 | D3 | C3 | 
+(F2E) | DA,>^A, | ("G"B,3 | B,3) | D3 | ^C3 | E3 | D3 | (B2A) | "E7"^GFG | "Am"B3 | A3 | 
+c2(B | "D7"A)EF | ("G"G3 | G)DE | "D"FED | "A7"E2A | "D7"DDD | DDD |: ("G"B3 | B)A>G | (D3 | 
+D)E>F | G3 | BA>B | "C"d3 | c3 | ("D7"c3 | c)B>A | ("G"G3 | G)F>E | "D7"D^CD | B2A | 
+("G"G3 | G)zz :| [K:Cmaj] "C"E3 | (D2C) | G3 | G(^FG) | ("A7"A3 | E3) | ("Dm"G3 | F3) | F3 | E2F | 
+"G7"B3 | A3 | .c.B.A | AG>^F | G3 | "C"G2F | (E3 | D2C) | (G3 | G)^FG | ("A7"_B3 | A2)E | 
+("Dm"G2F) | A,3 | ("G7"F3 | F)ED | ("C"G3 | G)BA | "G7"GDE | {/G}FED | ("C"C3 | C)z"_>Teil A"z |] 
+W:Parts: ABCAB
+% wz06630
+% May 14, 2017

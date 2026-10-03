@@ -1,0 +1,59 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Walzer  FBb chords 
+T:Hanny Christen. Bd.I  Z\"urich, Schaffhausen, St. Gallen I. S.152b3ab2 z2d2f2  (wz00244) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+c| "F"ca>f | c2c | cd>A | "C7"c2B | cb>g | e2B | d/c/ =B/c/ d/e/ | 
+"F"f/a/ g/f/ e/d/ | ca>f | c2c | cd>A | "C7"c2B | cb>g | e2c | d/c/ =B/c/ d/e/ | 
+"F"fzz |: [L:1/8] "C7"c3ea2 | "F"f3ga2 | "C7"ba gb ag | "F"fa gf ed | "C7"c3eg2 | "F"f3ga2 | "C7"bg ec BG |1 
+"F"F2z2z2 :|2 [K:Bb] "F"F2z2 (5d/e/f/g/a/ || "Bb"b3ab2 | z2d2f2 | b3ab2 | z2d2f2 | "F7"a3gf2 | z2c2e2 | "Bb"g3fd2 | 
+B2z2z2 | b3ab2 | z2d2f2 | b3ab2 | z2d2f2 | "F7"a3gf2 | ed ce dc | "Bb"B2dB fd | b2z2z2 |] 
+
+X:2
+T:Walzer  CF 5- chords 
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+G| "C"Ge>c | G2G | GA>E | "G7"G2F | Gf>d | B2F | A/2G/2 ^F/2G/2 A/2B/2 | 
+"C"c/2e/2 d/2c/2 B/2A/2 | Ge>c | G2G | GA>E | "G7"G2F | Gf>d | B2G | A/2G/2 ^F/2G/2 A/2B/2 | 
+"C"czz |: [L:1/8] "G7"G3Be2 | "C"c3de2 | "G7"fe df ed | "C"ce dc BA | "G7"G3Bd2 | "C"c3de2 | "G7"fd BG FD |1 
+"C"C2z2z2 :|2 [K:Fmaj] "C"C2z2 (5A/2B/2c/2d/2e/2 || "F"f3ef2 | z2A2c2 | f3ef2 | z2A2c2 | "C7"e3dc2 | z2G2B2 | "F"d3cA2 | 
+F2z2z2 | f3ef2 | z2A2c2 | f3ef2 | z2A2c2 | "C7"e3dc2 | BA GB AG | "F"F2AF cA | f2z2z2 |] 
+
+X:3
+T:Walzer  CF 5- chords (align)
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+G| "C"Ge>c | G2G | GA>E | "G7"G2F | Gf>d | B2F | A/2G/2 ^F/2G/2 A/2B/2 | "C"c/2e/2 d/2c/2 B/2A/2 |
+ Ge>c | G2G | GA>E | "G7"G2F | Gf>d | B2G | A/2G/2 ^F/2G/2 A/2B/2 | "C"czz |:
+ [L:1/8] "G7"G3Be2 | "C"c3de2 | "G7"fe df ed | "C"ce dc BA | "G7"G3Bd2 | "C"c3de2 | "G7"fd BG FD |1
+ "C"C2z2z2 :|2 [K:Fmaj] "C"C2z2 (5A/2B/2c/2d/2e/2 || "F"f3ef2 | z2A2c2 | f3ef2 | z2A2c2 | "C7"e3dc2 | z2G2B2 | "F"d3cA2 |
+ F2z2z2 | f3ef2 | z2A2c2 | f3ef2 | z2A2c2 | "C7"e3dc2 | BA GB AG | "F"F2AF cA | f2z2z2 |] 
+
+X:4
+T:Walzer  GC 10- chords (align)
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+D| "G"DB>G | D2D | DE>B, | "D7"D2C | Dc>A | F2C | E/2D/2 ^C/2D/2 E/2F/2 | "G"G/2B/2 A/2G/2 F/2E/2 |
+DB>G | D2D | DE>B, | "D7"D2C | Dc>A | F2D | E/2D/2 ^C/2D/2 E/2F/2 | "G"Gzz |:
+[L:1/8] "D7"D3FB2 | "G"G3AB2 | "D7"cB Ac BA | "G"GB AG FE | "D7"D3FA2 | "G"G3AB2 | "D7"cA FD CA, |1
+"G"G,2z2z2 :|2 [K:Cmaj] "G"G,2z2 (5E/2F/2G/2A/2B/2 || "C"c3Bc2 | z2E2G2 | c3Bc2 | z2E2G2 | "G7"B3AG2 | z2D2F2 | "C"A3GE2 |
+C2z2z2 | c3Bc2 | z2E2G2 | c3Bc2 | z2E2G2 | "G7"B3AG2 | FE DF ED | "C"C2EC GE | c2z2z2 |] 
+
+X:5
+T:Walzer  GC 2+ chords (align)
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+d| "G"db>g | d2d | de>B | "D7"d2c | dc'>a | f2c | e/2d/2 ^c/2d/2 e/2f/2 | "G"g/2b/2 a/2g/2 f/2e/2 |
+db>g | d2d | de>B | "D7"d2c | dc'>a | f2d | e/2d/2 ^c/2d/2 e/2f/2 | "G"gzz |:
+[L:1/8] "D7"d3fb2 | "G"g3ab2 | "D7"c'b ac' ba | "G"gb ag fe | "D7"d3fa2 | "G"g3ab2 | "D7"c'a fd cA |1
+"G"G2z2z2 :|2 [K:Cmaj] "G"G2z2 (5e/2f/2g/2a/2b/2 || "C"c'3bc'2 | z2e2g2 | c'3bc'2 | z2e2g2 | "G7"b3ag2 | z2d2f2 | "C"a3ge2 |
+c2z2z2 | c'3bc'2 | z2e2g2 | c'3bc'2 | z2e2g2 | "G7"b3ag2 | fe df ed | "C"c2ec ge | c'2z2z2 |] 

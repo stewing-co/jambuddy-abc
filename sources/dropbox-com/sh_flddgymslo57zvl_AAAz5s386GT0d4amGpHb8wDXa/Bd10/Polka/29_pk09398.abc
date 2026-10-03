@@ -1,0 +1,112 @@
+%%MIDI program 21
+X:1
+T:Polka  FCBb  (ABAC)
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.219 (pk09398) orig. F,C,Bb
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+%%partsbox
+P:ABAC
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+cB [P:A] |: "F"Acfa d'3c' | "C7"bc'e2 gbc2 | Bceg c'3b | "F"ac'f2 fac2 | Acfa d'3c' | "C7"bc'e2 gbc2 | 
+Bceg c'bag |1 "F"f2a2 f2cB :|2 "F"f2a2 f2z2 || [P:B] [K:C] "G7"gbag fagf | "C"egce "tr"g4 | "G7"fgBd "tr"g4 | "C"egce "tr"g4 | 
+"G7"gbag fagf | "C"egce "tr"g4 | "G7"baga gfed | "C"c2eg c'2"_>Teil A"z2 [P:C] |: [K:Bb] "Bb"f2=ef b3f | "F7"a2a2g4 | 
+"tr"e2de a3f | "Bb"g2g2f4 | bagf bagf | "F7"fafa ebag | fafa ebag | "Bb"fbfbd4 | f2=ef b3f | 
+"F7"a2a2g4 | e2de a3f | "Bb"g2g2f4 | f2d'2 d'c'ba | "Cm/Eb"g2c'2 c'bag | "F7"f2ag fedc | "Bb"B2df b2z2 :| 
+W: (Parts: ABAC)
+% pk09398
+X:2
+T:Polka  CGF 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+GF |: "C"EGce a3g | "G7"fgB2 dfG2 | FGBd g3f | "C"egc2 ceG2 | EGce a3g | "G7"fgB2 dfG2 | 
+FGBd gfed |1 "C"c2e2 c2GF :|2 "C"c2e2 c2z2 || [K:G] "D7"dfed cedc | "G"BdGB "tr"d4 | "D7"cdFA "tr"d4 | "G"BdGB "tr"d4 | 
+"D7"dfed cedc | "G"BdGB "tr"d4 | "D7"fede dcBA | "G"G2Bd g2"_>Teil A"z2 |: [K:F] "F"c2=Bc f3c | "C7"e2e2d4 | 
+"tr"B2AB e3c | "F"d2d2c4 | fedc fedc | "C7"cece Bfed | cece Bfed | "F"cfcfA4 | c2=Bc f3c | 
+"C7"e2e2d4 | B2AB e3c | "F"d2d2c4 | c2a2 agfe | "Gm/Bb"d2g2 gfed | "C7"c2ed cBAG | "F"F2Ac f2z2 :| 
+W:Parts: ABAC
+% pk09398
+X:3
+T:Polka  CGF 5-  (parts)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+GF |: "C"EGce a3g | "G7"fgB2 dfG2 | FGBd g3f | "C"egc2 ceG2 | EGce a3g | "G7"fgB2 dfG2 | 
+FGBd gfed |1 "C"c2e2 c2GF :|2 "C"c2e2 c2z2 || [K:G] "D7"dfed cedc | "G"BdGB "tr"d4 | "D7"cdFA "tr"d4 | "G"BdGB "tr"d4 | 
+"D7"dfed cedc | "G"BdGB "tr"d4 | "D7"fede dcBA | "G"G2Bd g2"_>Teil A"z2 [K:C] \
+|: "C"EGce a3g | "G7"fgB2 dfG2 |
+ FGBd g3f | "C"egc2 ceG2 | EGce a3g | "G7"fgB2 dfG2 | \
+FGBd gfed |1 "C"c2e2 c2GF :|2 "C"c2e2 c2z2 || 
+|: [K:F] "F"c2=Bc f3c | "C7"e2e2d4 | \
+"tr"B2AB e3c | "F"d2d2c4 | fedc fedc | "C7"cece Bfed | cece Bfed |
+ "F"cfcfA4 | c2=Bc f3c | \
+"C7"e2e2d4 | B2AB e3c | "F"d2d2c4 | c2a2 agfe | "Gm/Bb"d2g2 gfed | "C7"c2ed cBAG | "F"F2Ac f2z2 :| 
+W:(Parts: ABAC)
+% pk09398
+X:4
+T:Polka  CGF (5letras transposed) (parts)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+GF |: "C"EGce a3g | "G7"fgB2 dfG2 | FGBd g3f | "C"egc2 ceG2 | EGce a3g | "G7"fgB2 dfG2 | 
+FGBd gfed |1 "C"c2e2 c2GF :|2 "C"c2e2 c2z2 || [K:G] "D7"dfed cedc | "G"BdGB "tr"d4 | "D7"cdFA "tr"d4 | "G"BdGB "tr"d4 | 
+"D7"dfed cedc | "G"BdGB "tr"d4 | "D7"fede dcBA | "G"G2Bd g2"_>Teil A"z2 [K:C] \
+|: "C"EGce a3g | "G7"fgB2 dfG2 |
+ FGBd g3f | "C"egc2 ceG2 | EGce a3g | "G7"fgB2 dfG2 | \
+FGBd gfed |1 "C"c2e2 c2GF :|2 "C"c2e2 c2z2 || 
+|: [K:F] "F"c2=Bc f3c | "C7"e2e2d4 | \
+"tr"B2AB e3c | "F"d2d2c4 | fedc fedc | "C7"cece Bfed | cece Bfed |
+ "F"cfcfA4 | c2=Bc f3c | \
+"C7"e2e2d4 | B2AB e3c | "F"d2d2c4 | c2a2 agfe | "Gm/Bb"d2g2 gfed | "C7"c2ed cBAG | "F"F2Ac f2z2 :| 
+W:(Parts: ABAC)
+% pk09398
+X:5
+T:Polka  EbBbAb (5letras) (parts)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:Eb %%MIDI gchordon
+BA |: "Eb"GBeg c'3b | "Bb7"abd2 faB2 | ABdf b3a | "Eb"gbe2 egB2 | GBeg c'3b | "Bb7"abd2 faB2 | 
+ABdf bagf |1 "Eb"e2g2 e2BA :|2 "Eb"e2g2 e2z2 || [K:Bb] "F7"fagf egfe | "Bb"dfBd "tr"f4 | "F7"efAc "tr"f4 | "Bb"dfBd "tr"f4 | 
+"F7"fagf egfe | "Bb"dfBd "tr"f4 | "F7"agfg fedc | "Bb"B2df b2"_>Teil A"z2 [K:Eb] \
+|: "Eb"GBeg c'3b | "Bb7"abd2 faB2 |
+ABdf b3a | "Eb"gbe2 egB2 | GBeg c'3b | "Bb7"abd2 faB2 | \
+ABdf bagf |1 "Eb"e2g2 e2BA :|2 "Eb"e2g2 e2z2 || [K:Ab] 
+|: "Ab"e2=de a3e | "Eb7"g2g2f4 | \
+"tr"d2cd g3e | "Ab"f2f2e4 | agfe agfe | "Eb7"egeg dagf | egeg dagf |
+"Ab"eaeac4 | e2=de a3e | \
+"Eb7"g2g2f4 | d2cd g3e | "Ab"f2f2e4 | e2c'2 c'bag | "Bbm/Db"f2b2 bagf | "Eb7"e2gf edcB | "Ab"A2ce a2z2 :| 
+W:(Parts: ABAC)
+% pk09398
+X:6
+T:Polka DA&G (tinwhistle in D) solo
+T:pk09398 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+AG |: FAdf b3a | gac2 egA2 | GAce a3g | fad2 dfA2 | FAdf b3a | gac2 egA2 | 
+GAce agfe |1 d2f2 d2AG :|2 d2f2 d2z2 || [K:A] egfe dfed | ceAc Te4 | deGB Te4 | ceAc Te4 | 
+egfe dfed | ceAc Te4 | gfef edcB | A2ce a2z2 [K:D] \
+|: FAdf b3a | gac2 egA2 |
+GAce a3g | fad2 dfA2 | FAdf b3a | gac2 egA2 | \
+GAce agfe |1 d2f2 d2AG :|2 d2f2 d2z2 || [K:G] 
+|: d2^cd g3d | f2f2e4 | \
+Tc2Bc f3d | e2e2d4 | gfed gfed | dfdf cgfe | dfdf cgfe |
+dgdgB4 | d2^cd g3d | \
+f2f2e4 | c2Bc f3d | e2e2d4 | d2b2 bagf | e2a2 agfe | d2fe dcBA | G2Bd g2z2 :|
+W:(Parts: ABAC)
+% pk09398
+% Sep. 8, 2016

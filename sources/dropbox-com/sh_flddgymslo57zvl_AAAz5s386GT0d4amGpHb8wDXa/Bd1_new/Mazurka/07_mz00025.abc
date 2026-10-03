@@ -1,0 +1,58 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Mazurka  FCBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhause, St. Gallen I. S.53 (mz00025) orig. F,C,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"acf2f2 | "C7"e>g b>ab2 | d'c'e2e2 | "F"g>f e>dc2 | acf2f2 | 
+"C7"e>g b>ab2 | bae2e2 | "F"f2f2z2 :: [K:C] "C"gc'e3g | "G7"f>aB2B2 | b3a gf | "C"e>gc'2c'2 | 
+gc e3g | "G7"f>aB2B2 | b>a g>f e>d | "C"c2c2z2 ::[K:F] "Bb"d>B b2b2 | "F"b>ac2c2 | "C7"a>gB2B2 | 
+"F"A>c f2f2 | "Bb"d>Bb2b2 | "F"b>ac2c2 | "G7"a>g d>f "C7"e>g | "F"f2f2z2 :: [K:Bb] "Bb"df fd' bd | "F7"f2egA2 | 
+f2eca2 | "_(*)""Bb"f2dBb2 | df fd' bd | "F7"f2egA2 | "_(*)"f2eca2 | "Bb"b2b2z2 :| 
+W:
+W: (*) Anmerkung Hrsg.: Takt 28: HC: d-b-g / Takt 31: HC: d
+
+X:2
+T: Mazurka  FCBb chords (align)
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"acf2f2 | "C7"e>g b>ab2 | d'c'e2e2 | "F"g>f e>dc2 | acf2f2 | \
+"C7"e>g b>ab2 | bae2e2 | "F"f2f2z2 :: [K:C]
+ "C"gc'e3g | "G7"f>aB2B2 | b3a gf | "C"e>gc'2c'2 | \
+gc e3g | "G7"f>aB2B2 | b>a g>f e>d | "C"c2c2z2 :: [K:F]
+ "Bb"d>B b2b2 | "F"b>ac2c2 | "C7"a>gB2B2 | \
+"F"A>c f2f2 | "Bb"d>Bb2b2 | "F"b>ac2c2 | "G7"a>g d>f "C7"e>g | "F"f2f2z2 :: [K:Bb]
+ "Bb"df fd' bd | "F7"f2egA2 | \
+f2eca2 | "Bb"f2dBb2 | df fd' bd | "F7"f2egA2 | f2eca2 | "Bb"b2b2z2 :| 
+
+X:3
+T:Mazurka  CGF 5- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"eGc2c2 | "G7"B>d f>ef2 | agB2B2 | "C"d>c B>AG2 | eGc2c2 | 
+"G7"B>d f>ef2 | feB2B2 | "C"c2c2z2 :: [K:Gmaj] "G"dgB3d | "D7"c>eF2F2 | f3e dc | "G"B>dg2g2 | 
+dG B3d | "D7"c>eF2F2 | f>e d>c B>A | "G"G2G2z2 ::[K:Cmaj] "F"A>F f2f2 | "C"f>eG2G2 | "G7"e>dF2F2 | 
+"C"E>G c2c2 | "F"A>Ff2f2 | "C"f>eG2G2 | "D7"e>d A>c "G7"B>d | "C"c2c2z2 :: [K:Fmaj] "F"Ac ca fA | "C7"c2BdE2 | 
+c2BGe2 | "F"c2AFf2 | Ac ca fA | "C7"c2BdE2 | c2BGe2 | "F"f2f2z2 :| 
+
+X:4
+T:Mazurka  CGF 5- chords (align)
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"eGc2c2 | "G7"B>d f>ef2 | agB2B2 | "C"d>c B>AG2 | eGc2c2 | \
+"G7"B>d f>ef2 | feB2B2 | "C"c2c2z2 :: [K:Gmaj]
+"G"dgB3d | "D7"c>eF2F2 | f3e dc | "G"B>dg2g2 | \
+dG B3d | "D7"c>eF2F2 | f>e d>c B>A | "G"G2G2z2 :: [K:Cmaj]
+"F"A>F f2f2 | "C"f>eG2G2 | "G7"e>dF2F2 | \
+"C"E>G c2c2 | "F"A>Ff2f2 | "C"f>eG2G2 | "D7"e>d A>c "G7"B>d | "C"c2c2z2 :: [K:Fmaj]
+"F"Ac ca fA | "C7"c2BdE2 | \
+c2BGe2 | "F"c2AFf2 | Ac ca fA | "C7"c2BdE2 | c2BGe2 | "F"f2f2z2 :| 
+
+

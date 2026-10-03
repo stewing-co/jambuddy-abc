@@ -1,0 +1,88 @@
+X:1521
+T:Eumene
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 21 clef=alto1 name="Eumene" sname="Eum."
+%%MIDI program 1 1
+%%staves [[ 21 ]]
+%--------------------------------------
+[Q:"Allegro"] z | Z14 | z2 z \
+A | d2>c2 | c3 B/A/ | d/>A/ A z \
+w: Per-ch\'e dal lab-bro_ mi--o
+d/>B/ | B A z \
+w: Gli ac-cen-ti
+d/>B/ |(BA) z \
+w: u--dir_
+(d/>B/) | BA z \
+w: non_ vuo-i?
+A | B3 c/2 d/2 | A3 g & x3 G | {e} f/2e/4d/4 d z2 & F/2E/4D/4 D | Z2 | \
+w: Gli ac-cen-ti u-dir non_ vuo-i?
+B B/2 > B/2 B/2f/2 d/2B/2 | ^A > c B z | \
+w: Sol di cal-mar_ de--s\í--o
+=A A/ > A/ A/2e/2 c/2A/2 | ^G > B A > c | B > B B > A | ^G zz2 | Z | \
+w: Sol di cal-mar_ de--s\í--o Il tuo cru-del do-lor.
+z2 z e | {e}d > c {c} B > A | A ^G z2 | Z | \
+w: Per-ch\'e dal lab-bro mi-o
+z2z e | {e}d > c {c} B > A | ^GG z \
+w: Gli ac-cen-ti'u-dir non vuoi
+B | c > c ^d > d | eE z2 | \
+w: Gli ac-cen-ti'u-dir non vuoi
+(A/2c/2 B/2) A/2 (^G/2A/2) (B/2c/2) | d > B ^G z | \
+w: Sol_ di cal-mar_ de--s\í--o
+(A/2c/2 B/2) c/2 {B} A > ^G | ^E F z \
+w: Sol_ di cal-mar de-s\í-o
+f/2d/2 | {d} c > e e/2d/2 c/2B/2 | e z \
+w: Il_ tuo cru-del_ do--lor.
+f2 | {e} e z/2 c/2 d z/2 B/2 | e z \
+w: Il tuo cru-del do-lor.
+f2 | {e} e z/2 c/2 d z/2 B/2 | c2 e2 | f2 a2 | E4 | B2 d > ^G | A z z2 | Z5 | !fermata! Z || \
+w: Il tuo cru-del do-lor. Il tuo cru-del do---lor.
+[Q:"Andante"][M:3/4] "^[check ms]" x//e// | e > d c/ d/ | e/>c/ A z | \
+w: (Po-tes-si'un so-lo is-tan-te
+B c/2 d/2 e/2 d/2 | {e} d c z | \
+w: Dir-le che l'a-mo an-cor!
+B B/2 f/2 e/2 d/2 | {d/2}c/2B/4A/4 A z/2 \
+w: Dir-le che l'a-mo an---cor!
+c/2 | c > c d/2 e/2 | e d z | \
+w: Ma'in-nan-zi'a quel sem-bian-te
+c c/2 d/2 c/2 B/2 | {c}A zz | \
+w: Sen-to tre-mar-mi'il cor.
+^G c/2 d/2 c/2 B/2 | {B} A z z | \
+w: Sen-to tre-mar-mi'il cor.
+^G c/2 d/2 c/2 ^E/ || \
+w: Sen-to tre-mar-mi'il
+[Q:"Allegro"][M:C] "_Come Prima" F z z2 | \
+w: cor.)
+z2 z A | d3 c | c3 (B/2A/2) | (e/2>A/) A z \
+w: Per-ch\'e dal lab-bro_ mi--o
+d/2 > B/2 | c A z \
+w: Gli ac-cen-ti
+d/2>B/2 | B A z \
+w: u--dir_
+d/2>B/2 | B A z\
+w: non_ vuo-i
+A | B3 c/2 > d/ | A3 G | {G} F/2E/4D/4 D z2 | \
+w: Gli'ac-cen-ti u-dir non vuo---i
+A A/2 > A/2 A > A | e/2B/2 =G z \
+w: Sol di cal-mar de-s\í--o
+d | {d}=c {B}A {G}F z/2=c/2 | {c} B2 z \
+w: Il tuo cru-del do-lor.
+B | EE e > d | c z z2 | Z | \
+w: Il tuo cru-del do-lor.
+z2 z a & x3 A | {a} g z/2 f/2 e > d & {A} G x3 | {e} c c z2 | Z | \
+w: Per-ch\'e dal lab--bro mio
+z2 z A | {A}G z/2f/2 {e}e > d | c c  z \
+w: Gli ac-cen-ti'u-dir non vuoi?
+e | f f z f | {e} d > d d > ^G | AA z2 | \
+w: Gli'ac-cen-ti gli ac-centi'u-dir non vuo-i?
+(d/2f/2) e/2 d/2 (c/2d/2) (e/2f/2) | g > (e c) z | \
+w: Sol_ di cal-mar_ de--s\í--o
+(=c/2e/2) d/2 c/2 (B/2 =c/2) (e/2c/2) | ^A B z \
+w: Sol_ di cal-mar_ de--s\í-o
+B | A > f {e}e z/2 c/2 | {e}d z \
+w: Il tuo cru-del do-lor.
+d > B | A > f e > c | d2 A2 | B3 g/2e/2 | d4 | e4 | d z z2 | Z6 |]
+w: Il_ tuo cru-del do-lor Il tuo cru--del do-lor.
+%--------------------------------------

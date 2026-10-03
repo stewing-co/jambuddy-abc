@@ -1,0 +1,56 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Des Mädchens Klage. Polonaise CF (PL07414)  ABCDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.329 (PL07414) orig. C,F
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABCDC
+R:Polonaise
+M:3/4
+L:1/16
+K:C %%MIDI gchordon
+c2cc c2G2 e2c2 | g2gg g2G2 ^F2G2 || [P:A] "C"e2e4 ((3efe) .d2.c2 | {/a}"G7"g>^fg>a   (g4g.^f).e.d | "Am"c2c4 ((3cdc) .B2.A2 | 
+{/f}"E7"e>^de>f e4  z2((3ede) |  "G7"f2!>!f4(^f2 g3d) | (!>!"C"f4e2)((3GAG) .F2.G2 | "G7"e>(df>)(e d>)(ed>)(c B>)(AG>)(F | "C"E2)G4GA .B.c.d.e | 
+"G7"f2!>!f4(^f2 g3d) | ("C"f4e2)(c'b) (agfe) | ("Dm/F"d^cde) ("G7"fdba) (gfed) | "C"cGed cGed .c4 |] [P:B] "E7"e2ee e2e2 ^f2^g2 | "Am"a2b2 c'6d'2 |  
+("E7"c'2.b2) (c'2.b2) (c'2.b2) | "Am"a4z2.c'.b .a.g.^f.e | "D7"d2dd d2d2 e2^f2 | "G"g2a2 b6c'2 | ("D7"b2.a2) (b2.a2) (.b2.a2) | "G"g4z2(g2 ^f2g2) | "G7"a2a2 (B2>cB/)  .A2.G2 | 
+"C"e2e2 c3G A3G | (!>!"G7"G4 B3)G A3G | (!>!"C"G4 c2)(g2 ^f2g2) | "G7"a2a2 (B2>cB/) .A2.G2 | "C"e2e2c4 (dcBA) | Gc.e.g (ag).A.e ("G7"edBd) | 
+("C"cGBd) (cGBd) .c4 |] [P:C] [K:F] "F"A3B c4>c2 | a3g f4>A2 | "C7"G3G B4>B2 |  g3f e4>B2 |"F"A3B c4>c2 | a3g f4>e2 | "Gm"d2(d2 b3)a "C7"g3e | 
+("F"fc).a.g (fc).a.g "_fine".f4 |] [P:D] "A7"a2((3A^ce) a2e2 c2A2 | "Dm"d2((3fef) "A7"a2((3^c=Bc) "Dm"d4 | "G7"g2((3G=Bd) g2d2 B2G2 | "C"c2((3e^de) "G7"g2(=BAB) "_>Teil C""C"c3_B |] 
+W:
+W:Polonaise, nach Stollberg
+W:Part C: duration of notes needs revision
+%%% PL07414
+% Aug 11, 2017
+
+X:2
+T:Des Mädchens Klage. Polonaise CF (PL07414)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.329 (PL07414) orig. C,F
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+R:Polonaise
+M:3/4
+L:1/16
+K:G %%MIDI gchordon
+G2GG G2D2 B2G2 | d2dd d2D2 ^C2D2 || [P:A] "G"B2B4 ((3BcB) .A2.G2 | {/e}"D7"d>^cd>e (d4d.^c).B.A | "Em"G2G4 ((3GAG) .F2.E2 | 
+{/c}"B7"B>^AB>c B4 z2((3BAB) | "D7"c2!>!c4(^c2 d3A) | (!>!"G"c4B2)((3DED) .C2.D2 | "D7"B>(Ac>)(B A>)(BA>)(G F>)(ED>)(C | "G"B,2)D4DE .F.G.A.B | 
+"D7"c2!>!c4(^c2 d3A) | ("G"c4B2)(gf) (edcB) | ("Am/C"A^GAB) ("D7"cAfe) (dcBA) | "G"GDBA GDBA .G4 |] [P:B] "B7"B2BB B2B2 ^c2^d2 | "Em"e2f2 g6a2 | 
+("B7"g2.f2) (g2.f2) (g2.f2) | "Em"e4z2.g.f .e.d.^c.B | "A7"A2AA A2A2 B2^c2 | "D"d2e2 f6g2 | ("A7"f2.e2) (f2.e2) (.f2.e2) | "D"d4z2(d2 ^c2d2) | "D7"e2e2 (F2>GF/2) .E2.D2 | 
+"G"B2B2 G3D E3D | (!>!"D7"D4 F3)D E3D | (!>!"G"D4 G2)(d2 ^c2d2) | "D7"e2e2 (F2>GF/2) .E2.D2 | "G"B2B2G4 (AGFE) | DG.B.d (ed).E.B ("D7"BAFA) | 
+("G"GDFA) (GDFA) .G4 |] [P:C] [K:C] "C"E3F G4>G2 | e3d c4>E2 | "G7"D3D F4>F2 | d3c B4>F2 |"C"E3F G4>G2 | e3d c4>B2 | "Dm"A2(A2 f3)e "G7"d3B | 
+("C"cG).e.d (cG).e.d "_fine".c4 |] [P:D] "E7"e2((3E^GB) e2B2 G2E2 | "Am"A2((3cBc) "E7"e2((3^G^FG) "Am"A4 | "D7"d2((3D^FA) d2A2 F2D2 | "G"G2((3B^AB) "D7"d2(^FEF) "_>Teil C""G"G3=F |] 
+W:
+W: Parts: ABCDC
+%W:Polonaise, nach Stollberg
+%W:Part C: duration of notes needs revision
+%%% PL07414
+% Aug1, 2017
+
+
+

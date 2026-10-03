@@ -1,0 +1,54 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch  FCBb  (ABACD)
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.141 (st09232) orig. F,C,Bb
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+%%partsbox
+P:ABACD
+R:shottische
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c [P:A] | "F"c/f/e "Bb"e/d/d | "F"d/c/c !>!c2 | "C7"c/b/g gc | "F"c/a/g fc | c/f/e "Bb"e/d/d | "F"d/c/c !>!c2 | "C7"c/b/g ge | "F"ff fz :| [K:C] 
+[P:B] |: {/g}"G7"ag Bg | {/g}"C"ag cg | "G7"gf/f/ fd | "C"fe/e/ ea | "A7"_ba ^ca | "Dm"_ba df/f/ | "G7"fd cB | "C"cc c"_>Teil A"z :| [K:Bb]
+[P:C] "Bb"d3e | =d/f/g/f/ bb | "Cm".b.c2.e | a3g | "F7".f!>!A2c | a3g | "Bb".f!>!B2d | g3f | 
+d3e | =e/f/g/f/ bb | "Cm".b !>!c2e | a3g | "F7"fg g>g | "tr""Bb"gf fd | "F7"fe e>c | "Bb"Bb bb || 
+[P:D] |: "tr""Eb"bg "tr""Ebm"b_g | "Bb"bf fg | "F7"gc eA | "tr""Bb"fB Bb | "tr""Eb"bg "tr""Ebm"b_g | "Bb"bf fg | "F7"gc e>A |1 "Bb"BB Bb :|2 "Bb"BB B"_Fine"z |] 
+%W:Parts: ABACD
+% st09232 (H 331TN 71)
+X:2
+T:Schottisch  CGF 5-
+%%MIDI program 21
+%P:ABACD
+R:shottische
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+G | "C"G/2c/2B "F"B/2A/2A | "C"A/2G/2G !>!G2 | "G7"G/2f/2d dG | "C"G/2e/2d cG | G/2c/2B "F"B/2A/2A | "C"A/2G/2G !>!G2 | "G7"G/2f/2d dB | "C"cc cz :| [K:G] 
+|: {/d}"D7"ed Fd | {/d}"G"ed Gd | "D7"dc/2c/2 cA | "G"cB/2B/2 Be | "E7"=fe ^Ge | "Am"=fe Ac/2c/2 | "D7"cA GF | "G"GG G"_>Teil A"z :| [K:F]
+"F"A3B | =A/2c/2d/2c/2 ff | "Gm".f.G2.B | e3d | "C7".c!>!E2G | e3d | "F".c!>!F2A | d3c | 
+A3B | =B/2c/2d/2c/2 ff | "Gm".f !>!G2B | e3d | "C7"cd d>d | "tr""F"dc cA | "C7"cB B>G | "F"Ff ff || 
+|: "tr""Bb"fd "tr""Bbm"f_d | "F"fc cd | "C7"dG BE | "tr""F"cF Ff | "tr""Bb"fd "tr""Bbm"f_d | "F"fc cd | "C7"dG B>E |1 "F"FF Ff :|2 "F"FF Fz |] 
+W:Parts: ABACD
+% st09232
+X:3
+T:Schottisch  CGF  (5letras transposed)
+%%MIDI program 21
+%%partsbox
+%P:ABACD
+R:shottische
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+G | "C"G/2c/2B "F"B/2A/2A | "C"A/2G/2G !>!G2 | "G7"G/2f/2d dG | "C"G/2e/2d cG | G/2c/2B "F"B/2A/2A | "C"A/2G/2G !>!G2 | "G7"G/2f/2d dB | "C"cc cz :| [K:G] 
+|: {/d}"D7"ed Fd | {/d}"G"ed Gd | "D7"dc/2c/2 cA | "G"cB/2B/2 Be | "E7"=fe ^Ge | "Am"=fe Ac/2c/2 | "D7"cA GF | "G"GG G"_>Teil A"z :| [K:F]
+"F"A3B | =A/2c/2d/2c/2 ff | "Gm".f.G2.B | e3d | "C7".c!>!E2G | e3d | "F".c!>!F2A | d3c | 
+A3B | =B/2c/2d/2c/2 ff | "Gm".f !>!G2B | e3d | "C7"cd d>d | "tr""F"dc cA | "C7"cB B>G | "F"Ff ff || 
+|: "tr""Bb"fd "tr""Bbm"f_d | "F"fc cd | "C7"dG BE | "tr""F"cF Ff | "tr""Bb"fd "tr""Bbm"f_d | "F"fc cd | "C7"dG B>E |1 "F"FF Ff :|2 "F"FF Fz |] 
+W:Parts: ABACD
+% st09232
+% Sep. 17, 2016

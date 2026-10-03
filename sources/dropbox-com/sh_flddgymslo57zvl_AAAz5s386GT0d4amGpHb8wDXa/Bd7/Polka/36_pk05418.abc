@@ -1,0 +1,47 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Guggisberger Polka FCBb chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.285 (pk05418) orig. F,C,Bb-Dur
+T: T\"anze aus Guggisberg, Sch\"upfen und Plaffeien (Bern) S.257ff
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+c2 |: "F"f2fg a2a2 | "Gm/Bb"g2ga b2b2 | "C7"c'2c'2 c'bab | "F"a2a2 f2c2 | f2fg a2a2 | "Gm/Bb"g2ga b2b2 | "C7"c'2c'b agfe |1 "F"f2a2 f2c2 :|2 "F"f2a2 f2z2 || [K:C]
+|: "G7"AAA2 G2F2 | "C"F2E2E4 | "G7"BcdB +>+G4 | "C"cdec +>+G4 | "G7"AAA2 G2F2 | "C"F2E2E4 | "G7"Bcdc BGAB | "C"c2c2 c2"_> Teil A"z2 :|  [K:Bb]
+"Bb"BBBB B2c2 | d2e2d4 | BBBB e2d2 | "F7"d2c2c4 | A4 AGAB | c2cd e4 | cdcB AGFE | "Bb"B2e2d4 |  
+BBBB B2c2 | d2e2d4 | +>+F4 =EFGA | "Eb"B2G2G4 | +>+e4 edc2 | "Bb"+>+B4 BAGF | "F7"=EF^FG ^GAdc | "Bb"B2B2 B2z2 |] 
+
+X: 2
+T: Guggisberger Polka FCBb chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+c2[P:A] |: "F"f2fg a2a2 | "Gm/Bb"g2ga b2b2 | "C7"c'2c'2 c'bab | "F"a2a2 f2c2 | f2fg a2a2 | "Gm/Bb"g2ga b2b2 | "C7"c'2c'b agfe |1 "F"f2a2 f2c2 :|2 "F"f2a2 f2z2 || [K:C]
+[P:B] |: "G7"AAA2 G2F2 | "C"F2E2E4 | "G7"BcdB +>+G4 | "C"cdec +>+G4 | "G7"AAA2 G2F2 | "C"F2E2E4 | "G7"Bcdc BGAB | "C"c2c2 c2"_> Teil A"z2 :|  [K:Bb]
+[P:C] "Bb"BBBB B2c2 | d2e2d4 | BBBB e2d2 | "F7"d2c2c4 | A4 AGAB | c2cd e4 | cdcB AGFE | "Bb"B2e2d4 |  
+BBBB B2c2 | d2e2d4 | +>+F4 =EFGA | "Eb"B2G2G4 | +>+e4 edc2 | "Bb"+>+B4 BAGF | "F7"=EF^FG ^GAdc | "Bb"B2B2 B2z2 |] 
+
+X:3
+T:Guggisberger Polka CGF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+G2 |: "C"c2cd e2e2 | "Dm/F"d2de f2f2 | "G7"g2g2 gfef | "C"e2e2 c2G2 | c2cd e2e2 | "Dm/F"d2de f2f2 | "G7"g2gf edcB |1 "C"c2e2 c2G2 :|2 "C"c2e2 c2z2 || [K:Gmaj]
+|: "D7"EEE2 D2C2 | "G"C2B,2B,4 | "D7"FGAF !>!D4 | "G"GABG !>!D4 | "D7"EEE2 D2C2 | "G"C2B,2B,4 | "D7"FGAG FDEF | "G"G2G2 G2"_> Teil A"z2 :| [K:Fmaj]
+"F"FFFF F2G2 | A2B2A4 | FFFF B2A2 | "C7"A2G2G4 | E4 EDEF | G2GA B4 | GAGF EDCB, | "F"F2B2A4 | 
+FFFF F2G2 | A2B2A4 | !>!C4 =B,CDE | "Bb"F2D2D4 | !>!B4 BAG2 | "F"!>!F4 FEDC | "C7"=B,C^CD ^DEAG | "F"F2F2 F2z2 |] 
+
+X:4
+T:Guggisberger Polka CGF 5- chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+G2[P:A] |: "C"c2cd e2e2 | "Dm/F"d2de f2f2 | "G7"g2g2 gfef | "C"e2e2 c2G2 | c2cd e2e2 | "Dm/F"d2de f2f2 | "G7"g2gf edcB |1 "C"c2e2 c2G2 :|2 "C"c2e2 c2z2 || [K:Gmaj]
+[P:B] |: "D7"EEE2 D2C2 | "G"C2B,2B,4 | "D7"FGAF !>!D4 | "G"GABG !>!D4 | "D7"EEE2 D2C2 | "G"C2B,2B,4 | "D7"FGAG FDEF | "G"G2G2 G2"_> Teil A"z2 :| [K:Fmaj]
+[P:C] "F"FFFF F2G2 | A2B2A4 | FFFF B2A2 | "C7"A2G2G4 | E4 EDEF | G2GA B4 | GAGF EDCB, | "F"F2B2A4 | 
+FFFF F2G2 | A2B2A4 | !>!C4 =B,CDE | "Bb"F2D2D4 | !>!B4 BAG2 | "F"!>!F4 FEDC | "C7"=B,C^CD ^DEAG | "F"F2F2 F2z2 |] 
+
+

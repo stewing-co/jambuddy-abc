@@ -1,0 +1,28 @@
+X:108
+T:N.1 Rataplan (Ambrosio)
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:D
+V: 8 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 8 }]
+%---
+!arpeggio!!xstem![D,,A,,D,] z z !arpeggio![D,,A,,D,] z z | \
+!arpeggio![D,,A,,D,] z z !arpeggio![D,,A,,D,] z z | !arpeggio![D,,A,,D,] z z !arpeggio![D,,A,,D,] z z  | \
+!arpeggio![D,,A,,D,] z z !arpeggio![D,,A,,D,] z z  | [A,,E,]zz [A,,E,]zz | \
+!arpeggio![D,,A,,D,]zz !arpeggio![D,,A,,D,]zz | \
+"_NB: check ABC" [D,F,]zz [=C,]zz & x3 =C3 | B,3 ^G,3 & B,,zz ^G,,zz| A,xx ^G,2x & A,,zz A,,zz | \
+[D,F,]zz !p! z2z !segno! || [D,A,,D,,]zz [D,A,,D,,]zz | zz[D,,(A,,]/D,/) [D,,A,,]zz | \
+zz[A,,(E,]/E,/) .A,,zz | zz[A,,(D,,]/D,/) [D,,A,,]zz | [D,A,,D,,]zz [D,A,,D,,]zz | \
+zz(E,,/E,/) E,,zz | [E,^G,]zz [E,C]zz | zz(A,,/E,/) A,,zz | \
+[D,,A,,D,]zz [D,,A,,D,]zz | zz[D,,(A,,]/D,/) .[D,,A,,]zz | \
+zz(A,,/E,/) .A,,zz | zz[A,,(D,,]/D,/) [D,,A,,]zz | \
+[D,F,]zz [=C,A,]zz | [B,,B,]3 [G,,^G,]3 | [A,,A,]zz [A,,=G,]zz | \
+[D,F,] z.A,,/.A,,/ !>![D,,D,]zz !fine!|: [K: A] G,,2z !>![E,B,]2z | E,,2z [E,G,D]2z | \
+A,,2z [E,A,]2z | E,,2z [E,A,C]2z | B,,2z [E,B,]2z | E,,2z [E,B,]2z | \
+A,,2z[E,A,]2z | E,,2z[E,A,]2z | B,,2z[E,G,]2z | E,,2z[E,G,D]2z |[1 \
+A,,2z[E,A,]2z | F,,2z[F,A,C]2z | G,,2z[E,G,C]2z | G,,2z[F,G,^B,]2z | C,2z[E,G,C]2z | G,,2z[E,G,D]2z :|2 \
+[F,,F,]2z[F,A,C]2z | [=F,,=F,]2z[F,A,D]2z | [E,,E,]2z[E,A,C]2z | [E,,E,]2z[E,G,D]2z | \
+[A,C]2z!>![E,B,]2z | [A,,A,]2zz2z !D.S.!|]
+%---

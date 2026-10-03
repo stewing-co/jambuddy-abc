@@ -1,0 +1,45 @@
+X:2911
+T:[Demetrio]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 11 clef=treble name="Violini I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 11 }]
+%------------------
+[Q:"Allegro assai"] \
+D D//C//D//C// D D//C//D//C// | Dzz2| D D//C//D//C// D D//C//D//C// | Dzz2 | \
+z2 z/(f1/8g1/8a1/8b1/8) =c'/ (f1/8g1/8a1/8b1/8) | =c'zz2|\
+z//G//A1/4B1/4 =c1/4d1/4e1/4f1/4 g//a//b//=c'// d'//b//c'//a// | gzz2 |\
+z/>[=fd']/ [fd']z2 | "^a tempo" !p!z/=c/z/ c/z/ c/z/ c/ | z/B/  z/B/  z/B/  z/B/ |\
+z/=c/z/ c/z/ c/z/ _B/ | z/A/ z/^c/z/ e/z/ =f/ | z//d1/4e1/4=f1/4 g//a//_b//c'// d'z | \
+=c4 | z/> [=ca]/ [ca] z2 | z/> [d_b]/ [db] z2 | z[=CG_Be] [A=f] z || \
+[Q:"Adagio"] [D] (F//>A//G//>B//) A z | z (E//>G//F//>A//) G z | !p!z/ D E//>F// !<(!G/GG/ | \
+F/ F G//>!<)!A// !f!B/BB/ | Azz2 | z A,/>A,/A,z | !p!d/z/ d/z/ c2 | !f!d (A//G//G//F//) !p!F [FA,] | \
+G/ G G G G/ & G,4 | G F d d | e e d c | !f!d A//>B//G//>A// F z | z D/>D/ Dz | !p!c c c c | \
+!<(!z//(d//f//e//) (d//e//d//c//) z//(B//d//c//) (B//c//d//B//) | \
+(^B c) z//(A//^a//g//) a//g//f//!<)!e// | !mf!^d4 | !p!e/E/E/E/ z/E/E/E/ | \
+z/D/D/D/ z/C/C/C/ | z/B,/B,/B,/ z/E/E/E/ | z/D/D/D/ z/C/C/C/ | B, B, B, z | \
+A (B/A/)  (d/c/f/e/) | !f!z/d/d/d/ !p!c//e//a//^g// f//e//d//c// | B B A ^G | \
+z/A/A/A/ z/=G/G/G/ | F/^A/ B B B | !/!c2 !/!B2 | !f!A (E//>F//D//>E//) C !fermata! z || \
+[Q:"Allegro"] !ff! (D//A,//D//A,//) D/z/ !//![A,E] E/z/ | !//![A,F] !//![A,G] !//![A,F] !//![A,E] |\
+!p!D A A A | z B B c | !f!d//f//f//f// !//!f !//!g !//!a | b !p!B B B | z B B B | \
+!f!z//D//E//F// G//A//B//c// (d/a/g/f/) | !p!z/e/e/e/ e/e/g/e/ | {f}e d2 c | \
+!f!d !//!d' !//!a !//!f | d [Ddd'] D z | !p!z/B/d/B/ !/![Bd]2 |!mf!z/c/e/c/ !/![ce]2 | \
+!p!z/c/e/c/ !/![ce]2 | !f!z/B/d/B/ !p!!/![Bd]2 | !//!c2 !//!^d2 | e !//!B !//!c !//!^d | \
+!//!e !//!=d !//!c !//!^d | e ^g e !fermata!z & [EB]3 | z (ae) z | z (^gb) z | \
+z (b^g) z | z e a/c/c/c/ | z/B/B/B/ z/f/d/B/ | B A z ^G | "_cresc" !/!A/!/!c/!/!A/!/!c/ !/!A/!/!c/!/!A/!/!c/ |\
+!/!A/!/!c/!/!A/!/!c/ !/!A/!/!c/!/!A/!/!c/ | !/!B/!/!d/!/!B/!/!d/ !f! !/!B/!/!d/!/!B/!/!d/ | \
+!/!c/!/!e/!/!c/!/!e/ !/!c/!/!e/!/!c/!/!e/ | !/!d/!/!f/d/!/!f/ !/!d/!/!f/d/!/!f/ | \
+!ff! !//!e2 !//!f2 | g2 !fermata! z2 | !p! d c (d/A/) (B/A/) | GFz2 | d c (d/A/B/A/) | \
+!f! G F/>a/ d' A   | B !f!(g/!p!e/) (d/c/a/f/) | !f! e/!p!d/!f!f/!p!d/ !f!c/!p!B/!f!d/!p!B/ | \
+!f! A//f//f//f// !//!f !//!e2 |  d/d'//c'// "_[check ms; b flat]" d'//c'//_b//a// !//!^g2 | \
+z//a//c'//a// e//c'//_b//a//^g2 | z//a//c'//a// e//c'//_b//a//  !fermata! ^g2 | a2!fermata! z2 | \
+D2z2 | (d!p!c) d/A/B/A/ | (GF)z (A|dc) (d/A/B/A/) | !f! G F/>a/ d' A | \
+B/B/!f!(g/!p!e/) (d/c/a/f/) | (e/d/f/d/) (c/B/d/B/) | A//!f!f//f//f// !//!f !//!e2 | \
+.d/(a/g/f/) ^d2 | !p!!/!e2 e/B/g/e/ | !f! !//!d'2 !//!c'2 | z/!p! d'/d'/d'/ z/e/e/e/ | \
+z/d/f/f/ z/e/e/e/ | !f! .f.d'.b.g |  !//!d'2 !//!c'2 | !//!d'2 !/!g/!/!b/!/!g/!/!e/ | \
+!//!d'2 !//!c'2 | x2 ee/z/ & d'//A//d//A// d/z/ !//!Ax | f//A//f//A// !//![gA] !//![fA] !//![eA] | \
+d !//![dd']!//![dd'] [dD]/>[dD]/ | [dD]zz2 |]
+%------------------

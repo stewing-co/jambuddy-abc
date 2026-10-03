@@ -1,0 +1,16 @@
+X:301
+T:Marcia
+C:Pugnani, Gaetano (1731-1798)
+M:2/4
+L:1/4
+K:D
+V: 1 clef=alto name="Corno I" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 1 )]
+%---------------------------------------------
+%%transpose Dc
+[K:treble] [L:1/8] z3/4 |: D2 D>D | A,2 A,>A, | D2 D2 | D2 D2 | D2 D>D | E2 E>E | F>AG>F | F4 ::
+E2 E>E | F2 z2 | G2 F2 | E2 z2 | E2 E>E | F2 z2 | G2 F2 | \
+E2 z2 | D2 D>D | A,2 A,>A, | D2 D2 | D4 | D2 D2 | D4 | z2 A,2 | \
+DD/2D/2 DF | E4 | FD/2D/2 DF | E2 E2 | D2 z2 :| \
+%---------------------------------------------

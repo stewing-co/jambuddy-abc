@@ -1,0 +1,95 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walzer FBb chords parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.373 (wz05122) orig. F,C,Bb-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+R: waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+[P:A] "F"A2c | "Bb"B2d | "F"c3 | Acf | "C7"e3 | Beg | "F"f>ef | c2z | A2c | "Bb"B2d | 
+"F"c3 | Acf | "C"e2g | "G7"d2e | "C"c>cc | czz [P:B] |: "Bb"d>bb | b2d | "F"c>aa | agf |1 
+"C7"e2B | e2d | "F"dcf |A3 :|2 "C7"e2d | c2e | "F"fz"C7"e | "F"fzz [P:C] [K:Bb] |: "Bb"d3 | fdf | 
+b3 | d3 | "F7"c>gf |1 e2A | "Bb"B>gf | d2z :|2 "F7"edc | "Bb"(B3 | B)zz |] 
+% the original has "Key:C" for Part A
+% June 2, 2016
+X:2
+T:Walzer CF 5- chords
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"E2G | "F"F2A | "C"G3 | EGc | "G7"B3 | FBd | "C"c>Bc | G2z | E2G | "F"F2A | 
+"C"G3 | EGc | "G"B2d | "D7"A2B | "G"G>GG | Gzz |: "F"A>ff | f2A | "C"G>ee | edc |1 
+"G7"B2F | B2A | "C"AGc |E3 :|2 "G7"B2A | G2B | "C"cz"G7"B | "C"czz [K:Fmaj] |: "F"A3 | cAc | 
+f3 | A3 | "C7"G>dc |1 B2E | "F"F>dc | A2z :|2 "C7"BAG | "F"(F3 | F)zz |] 
+
+X:3
+T:Walzer GC 2+ chords
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"B2d | "C"c2e | "G"d3 | Bdg | "D7"f3 | cfa | "G"g>fg | d2z | B2d | "C"c2e | 
+"G"d3 | Bdg | "D"f2a | "A7"e2f | "D"d>dd | dzz |: "C"e>c'c' | c'2e | "G"d>bb | bag |1 
+"D7"f2c | f2e | "G"edg |B3 :|2 "D7"f2e | d2f | "G"gz"D7"f | "G"gzz [K:C] |: "C"e3 | geg | 
+c'3 | e3 | "G7"d>ag |1 f2B | "C"c>ag | e2z :|2 "G7"fed | "C"(c3 | c)zz |] 
+
+X:4
+T:Walzer GC 10- chords
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"B,2D | "C"C2E | "G"D3 | B,DG | "D7"F3 | CFA | "G"G>FG | D2z | B,2D | "C"C2E | 
+"G"D3 | B,DG | "D"F2A | "A7"E2F | "D"D>DD | Dzz |: "C"E>cc | c2E | "G"D>BB | BAG |1 
+"D7"F2C | F2E | "G"EDG |B,3 :|2 "D7"F2E | D2F | "G"Gz"D7"F | "G"Gzz [K:C] |: "C"E3 | GEG | 
+c3 | E3 | "G7"D>AG |1 F2B, | "C"C>AG | E2z :|2 "G7"FED | "C"(C3 | C)zz |] 
+X:5
+T:Walzer CF (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"E2G | "F"F2A | "C"G3 | EGc | "G7"B3 | FBd | "C"c>Bc | G2z | E2G | "F"F2A | 
+"C"G3 | EGc | "G"B2d | "D7"A2B | "G"G>GG | Gzz |: "F"A>ff | f2A | "C"G>ee | edc |1 
+"G7"B2F | B2A | "C"AGc |E3 :|2 "G7"B2A | G2B | "C"cz"G7"B | "C"czz [K:F] |: "F"A3 | cAc | 
+f3 | A3 | "C7"G>dc |1 B2E | "F"F>dc | A2z :|2 "C7"BAG | "F"(F3 | F)zz |] 
+
+X:6
+T:Walzer GC (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"B2d | "C"c2e | "G"d3 | Bdg | "D7"f3 | cfa | "G"g>fg | d2z | B2d | "C"c2e | 
+"G"d3 | Bdg | "D"f2a | "A7"e2f | "D"d>dd | dzz |: "C"e>c'c' | c'2e | "G"d>bb | bag |1 
+"D7"f2c | f2e | "G"edg |B3 :|2 "D7"f2e | d2f | "G"gz"D7"f | "G"gzz [K:C] |: "C"e3 | geg | 
+c'3 | e3 | "G7"d>ag |1 f2B | "C"c>ag | e2z :|2 "G7"fed | "C"(c3 | c)zz |] 
+
+X:7
+T:Walzer GC (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"B,2D | "C"C2E | "G"D3 | B,DG | "D7"F3 | CFA | "G"G>FG | D2z | B,2D | "C"C2E | 
+"G"D3 | B,DG | "D"F2A | "A7"E2F | "D"D>DD | Dzz |: "C"E>cc | c2E | "G"D>BB | BAG |1 
+"D7"F2C | F2E | "G"EDG |B,3 :|2 "D7"F2E | D2F | "G"Gz"D7"F | "G"Gzz [K:C] |: "C"E3 | GEG | 
+c3 | E3 | "G7"D>AG |1 F2B, | "C"C>AG | E2z :|2 "G7"FED | "C"(C3 | C)zz |] 
+X:8
+T:Walzer DG (for tin whistle in D)
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.373 (wz05122) orig. F,C,Bb-Dur
+%%MIDI program 72
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+"D"F2A | "G"G2B | "D"A3 | FAd | "A7"c3 | Gce | "D"d>cd | A2z | F2A | "G"G2B | 
+"D"A3 | FAd | "A"c2e | "E7"B2c | "A"A>AA | Azz |: "G"B>gg | g2B | "D"A>ff | fed |1 
+"A7"c2G | c2B | "D"BAd |F3 :|2 "A7"c2B | A2c | "D"dz"A7"c | "D"dzz [K:G] |: "G"B3 | dBd | 
+g3 | B3 | "D7"A>ed |1 c2F | "G"G>ed | B2z :|2 "D7"cBA | "G"(G3 | G)zz |] 
+
+
+

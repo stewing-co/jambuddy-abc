@@ -1,0 +1,16 @@
+X:403
+T:N.6 Mais lentamente
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 3 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 3 ]
+%----- edit between the lines -----
+([A,F]3/2 [A,F]/) !f!(A,/>A/)| \
+A/(A/>B/) A/(!>!c/>B/)| A/ !>!A-A/ z/ z/ | \
+Z5| z z/ z/ z/ !f!z// !>![=C//^D//A]|\
+!ff!z// .B,//.^C//.^D//.E//.F// !>![CE]3/2| [B,D]3/2 z z/| \
+Z1||[M: 3/8] z/ !ff! [F,B,]/[E,C]/||
+%----------------------------------

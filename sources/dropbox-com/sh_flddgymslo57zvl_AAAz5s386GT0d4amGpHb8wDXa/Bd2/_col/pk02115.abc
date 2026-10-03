@@ -1,0 +1,61 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Vendetta-Polka FCBb (nach Tommaso Arzalesi)  (pk02115)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.320 (pk02115) orig. F,C,Bb
+T: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+%%partsbox
+P:ABAC
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+[P:A] {/d}"F"c=Bcd c2f2 | "C7"fee^d "(A7)".e4 | "Gm/Bb"gaba {/a}"C7"gfed | {/e}"F"dc=BcA4 | {/d}c=Bcd c2f2 | {/e}"Gm"d^cde d2gf | 
+"C7"fedc =Bcbe | "F"f2f2 f2z2 :: [P:B]  [K:C] "C"g2ag ^fgec | "G7"B2{/e}f2 {/e}f2A_A | G2{/e}f2 {/e}f2A_A | "C"G2{/^d}e2 {=d}e4 | 
+g2ag ^fgec | "Dm"a2_ba ^gafd | "C"^fgec "G7"e=fdB | "C"c2e2 c2z2 :| [P:C] [K:Bb]  "Bb"f=egf bac'b | d'abg f2bd' | 
+"F7"c'e'ab c'2ac' | "Bb"c'be'd' "F7"c'bag | "Bb"f=egf bac'b | d'abg f2bd' | "F7"c'e'ab c'2ac' | "Bb"bfdf "_Fine"B4 |] 
+% pk02115  
+% Oct 30, 2016
+
+X:2
+T:Vendetta-Polka FCBb (nach Tommaso Arzalesi)  (pk02115)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.320 (pk02115) orig. F,C,Bb
+S: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+{/d}"F"c=Bcd c2f2 | "C7"fee^d "(A7)".e4 | "Gm/Bb"gaba {/a}"C7"gfed | {/e}"F"dc=BcA4 | {/d}c=Bcd c2f2 | {/e}"Gm"d^cde d2gf | 
+"C7"fedc =Bcbe | "F"f2f2 f2z2 :: [K:C] "C"g2ag ^fgec | "G7"B2{/e}f2 {/e}f2A_A | G2{/e}f2 {/e}f2A_A | "C"G2{/^d}e2 {=d}e4 | 
+g2ag ^fgec | "Dm"a2_ba ^gafd | "C"^fgec "G7"e=fdB | "C"c2e2 c2z2 :| [K:Bb] "Bb"f=egf bac'b | d'abg f2bd' | 
+"F7"c'e'ab c'2ac' | "Bb"c'be'd' "F7"c'bag | "Bb"f=egf bac'b | d'abg f2bd' | "F7"c'e'ab c'2ac' | "Bb"bfdf "_Fine"B4 |] 
+W:Parts: ABAC
+% Oct 30, 2016
+
+X:3
+T:Vendetta-Polka FCBb (nach T.Arzalesi)  (pk02115) CGF 5-
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.320 (pk02115) orig. F,C,Bb
+S:Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:polka
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+{/A}"C"G^FGA G2c2 | "G7"cBB^A "(E7)".B4 | "Dm/F"defe {/e}"G7"dcBA | {/B}"C"AG^FGE4 | {/A}G^FGA G2c2 | {/B}"Dm"A^GAB A2dc | 
+"G7"cBAG ^FGfB | "C"c2c2 c2z2 :: [K:Gmaj] "G"d2ed ^cdBG | "D7"F2{/B}c2 {/B}c2E_E | D2{/B}c2 {/B}c2E_E | "G"D2{/^A}B2 {=A}B4 | 
+d2ed ^cdBG | "Am"e2=fe ^decA | "G"^cdBG "D7"B=cAF | "G"G2B2 G2z2 :| [K:Fmaj] "F"c=Bdc fegf | aefd c2fa | 
+"C7"gbef g2eg | "F"gfba "C7"gfed | "F"c=Bdc fegf | aefd c2fa | "C7"gbef g2eg | "F"fcAc "_Fine"F4 |] 
+W:Parts: ABAC
+% Oct 30, 2016
+

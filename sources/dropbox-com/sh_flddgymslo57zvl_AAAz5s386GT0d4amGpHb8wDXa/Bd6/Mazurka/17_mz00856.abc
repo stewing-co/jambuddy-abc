@@ -1,0 +1,133 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Bei froher Laune (Mazurka)  CF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.233 (mz00856) orig. C,F-Dur
+T:L\"otschental. S.214-233. Repertoire von Xander Murmann, Weissenried, 1874-1948
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+ed |: "C"c2c2c2 | "G7"d2d2fe | d2d2 ed | "C"c2!>!g3e | c2c2c2 | 
+"G7"d2d2de | f2B2Bd |1 "C"c2c2ed :|2 "C"c2c2cd |: "C"e2!>!g3e | 
+"G7"efd2de | f2!>!a3f | "C"eag2ef | gec2eg | "F"ag fe dc | 
+"G7"B2!>!f2Bd |1 "C"c2c2Bc :|2 "C"c2c2z2 |: [K:F] "F"c2cd ef | "C7"Pe2B2B2 | Pe2B2B2 | 
+"F"Pd2c2c2 | .c2cd ef | "Bb".d2de fg | "C7".e2ef ge | "F"f2f2z2 :| 
+X:2
+T:Bei froher Laune (Mazurka)  GC 5-
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+BA |: "G"G2G2G2 | "D7"A2A2cB | A2A2 BA | "G"G2!>!d3B | G2G2G2 | 
+"D7"A2A2AB | c2F2FA |1 "G"G2G2BA :|2 "G"G2G2GA |: "G"B2!>!d3B | 
+"D7"BcA2AB | c2!>!e3c | "G"Bed2Bc | dBG2Bd | "C"ed cB AG | 
+"D7"F2!>!c2FA |1 "G"G2G2FG :|2 "G"G2G2z2 |: [K:C] "C"G2GA Bc | "G7"PB2F2F2 | PB2F2F2 | 
+"C"PA2G2G2 | .G2GA Bc | "F".A2AB cd | "G7".B2Bc dB | "C"c2c2z2 :| 
+% mz00856
+X:3
+T:Bei froher Laune (Mazurka)  CF (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+ed |: "C"c2c2c2 | "G7"d2d2fe | d2d2 ed | "C"c2!>!g3e | c2c2c2 | \
+"G7"d2d2de |
+ f2B2Bd |1 "C"c2c2ed :|2 "C"c2c2cd |: "C"e2!>!g3e | \
+"G7"efd2de | f2!>!a3f |
+ "C"eag2ef | gec2eg | "F"ag fe dc | \
+"G7"B2!>!f2Bd |1 "C"c2c2Bc :|2 "C"c2c2z2 ||  [K:F]
+|:  "F"c2cd ef | "C7"Pe2B2B2 | Pe2B2B2 | \
+"F"Pd2c2c2 | .c2cd ef | "Bb".d2de fg | "C7".e2ef ge | "F"f2f2z2 :| 
+% mz00856
+X:4
+T:Bei froher Laune (Mazurka)  GC (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+BA |: "G"G2G2G2 | "D7"A2A2cB | A2A2 BA | "G"G2!>!d3B | G2G2G2 | \
+"D7"A2A2AB |
+ c2F2FA |1 "G"G2G2BA :|2 "G"G2G2GA |: "G"B2!>!d3B | \
+"D7"BcA2AB | c2!>!e3c |
+ "G"Bed2Bc | dBG2Bd | "C"ed cB AG | \
+"D7"F2!>!c2FA |1 "G"G2G2FG :|2 "G"G2G2z2 ||  [K:C] 
+|: "C"G2GA Bc | "G7"PB2F2F2 | PB2F2F2 | \
+"C"PA2G2G2 | .G2GA Bc | "F".A2AB cd | "G7".B2Bc dB | "C"c2c2z2 :| 
+% mz00856
+X:4
+T:Bei froher Laune (Mazurka) D&G (tinwhistle in D)
+T: mz00856 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+FE |: "D"D2D2D2 | "A7"E2E2GF | E2E2 FE | "D"D2!>!A3F | D2D2D2 | \
+"A7"E2E2EF |
+G2C2CE |1 "D"D2D2FE :|2 "D"D2D2DE |: "D"F2!>!A3F | \
+"A7"FGE2EF | G2!>!B3G |
+"D"FBA2FG | AFD2FA | "G"BA GF ED | \
+"A7"C2!>!G2CE |1 "D"D2D2CD :|2 "D"D2D2z2 || [K:G] 
+|: "G"D2DE FG | "D7"PF2C2C2 | PF2C2C2 | \
+"G"PE2D2D2 | .D2DE FG | "C".E2EF GA | "D7".F2FG AF | "G"G2G2z2 :| 
+% mz00856
+X:4
+T:Bei froher Laune (Mazurka) D&G (tinwhistle in D) solo
+T: mz00856 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+FE |: D2D2D2 | E2E2GF | E2E2 FE | D2!>!A3F | D2D2D2 | \
+E2E2EF |
+G2C2CE |1 D2D2FE :|2 D2D2DE |: F2!>!A3F | \
+FGE2EF | G2!>!B3G |
+FBA2FG | AFD2FA | BA GF ED | \
+C2!>!G2CE |1 D2D2CD :|2 D2D2z2 || [K:G] 
+|: D2DE FG | PF2C2C2 | PF2C2C2 | \
+PE2D2D2 | .D2DE FG | .E2EF GA | .F2FG AF | G2G2z2 :|
+X:4
+T:Bei froher Laune (Mazurka) D&G (tinwhistle in D) solo
+T:mz00856 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+fe |: d2d2d2 | e2e2gf | e2e2 fe | d2!>!a3f | d2d2d2 | \
+e2e2ef |
+g2c2ce |1 d2d2fe :|2 d2d2de |: f2!>!a3f | \
+fge2ef | g2!>!b3g |
+fba2fg | afd2fa | ba gf ed | \
+c2!>!g2ce |1 d2d2cd :|2 d2d2z2 || [K:G] 
+|: d2de fg | Pf2"_c"c2c2 | Pf2"_c"c2c2 | \
+Pe2d2d2 | .d2de fg | .e2ef ga | .f2fg af | g2g2z2 :|
+X:4
+T:Bei froher Laune (Mazurka) D&G (tinwhistle in D) var. solo
+T: mz00856 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+FE |: D2D2D2 | E2E2GF | E2E2 FE | D2!>!A3F | D2D2D2 | \
+E2E2EF |
+G2"_=C"A2"_=C"FE |1 D2D2FE :|2 D2D2DE |: F2!>!A3F | \
+FGE2EF | G2!>!B3G |
+FBA2FG | AFD2FA | BA GF ED | \
+"_=C"C2!>!G2"_=C"CE |1 D2D2CD :|2 D2D2z2 || [K:G] 
+|: d2de fg | Pf2"_c"c2c2 | Pf2"_c"c2c2 | \
+Pe2d2d2 | .d2de fg | .e2ef ga | .f2fg af | g2g2z2 :|
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 26, 2016

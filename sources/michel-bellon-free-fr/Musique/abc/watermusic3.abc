@@ -1,0 +1,219 @@
+%%scale 0.7
+
+X:1
+T:1.
+C:Georg Friedrich Händel
+O:1685 - 1759
+M:C
+L:1/8
+Q:1/4=120
+K:G
+%%staves 1 {2 4}
+%%continueall 1
+V:1
+z2 zD G2G2 | G2zG B2B2 | B2 zB d2d2 | d3c/B/ A/G/A/B/ AA | A2zD G2G2 |
+G2zG B2B2 | B2 zB d2d2 | d3c/B/ A/G/A/B/ AA | A2z2 d2B2 | z4 d2B2 |
+z4 dB B/c/d | cA A/B/c BG G/A/B/G/ | A2z2 DB, B,/C/D | CA, A,/B,/C B,G, G,/A,/B,/G,/ |
+A,2z2 A>BA>B | c>dc>d B>cB>c | d3e d3e | d3c/B/ AB/c/ A>G | G2z2 A,>B,A,>B, |
+C>DC>D B,>CB,>C | D3E D3E | D3C/B,/  A,B,/C/ A,>G, | G,2 zA BAGA | BA/G/ AA BAGA |
+BA/G/ Ad d4- | d4 -de ^c>d | d2 zD D4- | D4- DE ^C>E | D2 zd A/B/A/B/ A/B/A/B/ |
+c/d/c/d/ c/d/c/d/ B/c/B/c/ B/c/B/c/ | d4- dddd | d3c/B/ AB/c/ A>G | G2 zD A,/B,/A,/B,/ A,/B,/A,/B,/ |
+C/D/C/D/ C/D/C/D/ B,/C/B,/C/ B,/C/B,/C/ | D4- DDDD | D3C/B,/ A,B,/C/ A,>G, | G,2 zB d2d2 | d3e c2c2 |
+c3d B2B2 | B3c dc/B/ A>G | G2- G/A/B/c/ dddd | d3e cccc | c3d BBBB |
+B3c dc/B/ A>G | G2z2 A2z2 | B2z2 f2z2 | g2z2 z4 | [Q:"Adagio"]Z3 |]
+V:2 clef=treble
+G2z2 z4&[D2B,2]x6 | GF/E/ D/[I:staff 3]C/B,/A,/ [I:staff 2]x4&x2zD G2GD |
+GF/E/ D/[I:staff 3]C/B,/A,/ [I:staff 2]x4 &x2 zG B2B2  | B3A/G/ FFFF&x4xDDD |
+F2zG, B,2B,2&D2x6 | B,2zD G2G2 | G2zG B2B2 | B3A/G/ FDDD&x4xF,F,F, |
+D2z2 A2B2&F,2x2F2G2 | d2B2A2B2&[A2F2]G2F2G2 | d2B2 BGGB&[A2F2]G2x4 | AGFA GDDG | F2z2 B,G,G,B, | A,G,F,A, G,D,D,G, |
+F,2z2 F2D>G | A>BA>B G>AG>A | B2>c2 B2>c2 | B2>G2 DG F>G&x6D2 | G2z2 F,2D,>G,&B,2x6 |
+A,>B,A,>B, G,>A,G,>A, | B,2>C2 B,2>C2 | B,2>G,2 D,G,TF,>G, | G,2zF GFGF | GB, DD GDB,D |
+GB, dA BA/G/ A2 | BA/G/A2 B>B^c>A | F2zA, B,A,/G,/A,2 | B,A,/G,/A,2 B,>B,^C>A, |
+A,2zA FDDG&F,2x2D2x2 | A/B/A/B/ A/B/A/B/  G/A/G/A/ G/A/G/A/ | B4- BBBB | B3G FGF>G |
+G2x6&B,2zA, A,2D,G, | A,/B,/A,/B,/ A,/B,/A,/B,/ G,/A,/G,/A,/ G,/A,/G,/A,/ | B,4- B,B,B,B, | B,3G, F,G,F,>G, |
+G,2zD GF/E/ D/C/B,/A,/&x3B,B,2x2 | D3EC2C2&B,3C A,2A,2 | C3DB,2B,2&A,3B,G,2G,2 | B,3A, B,A,/G,/A,2&G,3xx2F,2 |
+B,DB,D GF/E/ D/C/B,/A,/&G,2x2B,2x2 | D3E CCCC&B,3C A,A,A,A, | C3D B,B,B,B,&A,3B, G,G,G,G, | B,3A, B,A,/G,/A,2&G,3xx2F,2 |
+B,2z2A2z2&G,2x2[F2D2]x2 | B2z2A2z2&[G2D2]x2[F2D2]x2 | G2z2z4&[D2B,2]x6 | _E2z2=E2z2&[A,2F,2]x2[B,2G,2]x2 | _A2z2=A2z2&[E2B,2]x2E2x2 | BA2B B4&E3_EE4 |]
+V:4
+G,,2zG,B,2B,2 | B,2x2 G,2z2 | z2x2 G,2zD | GG,B,D DA,F,D, | D2z2 z4 | G,F,/E,/ D,/C,/B,,/A,,/ G,,2zD,, |
+G,,F,,/E,,/ D,,/C,,/B,,,/A,,,/ G,,,2 zD, | G,G,,B,,C, D,A,,F,,D,, |
+D,2z2 D,2G,2 | D,,2G,,2D,2G,2 | D,,2G,,2 GG,B,G, | A,DDD GG,B,G, |
+D2z2 G,G,,B,,G,, | A,,D,D,D, G,G,,B,,G,, | D,,2z2 D,DCB, | A,B,CA, EEDC |
+B,G,B,D GG,B,D | GG,B,C DG,DD, | G,G,,B,,G,, D,,D,C,B,, | A,,B,,C,A,, E,,E,D,C, |
+B,,G,,B,,D, G,G,,B,,D, | G,G,,B,,C, D,G,,D,D,, | B,,2x6&G,,2 zD GDB,D |  GG, zF, G,F,G,F, |
+G,G,, D, F GF/E/ FD | GF/E/ FD GEAA, | D2 zF, G,F,/E,/ F,D, | G,F,/E,/ F,D, G,E,A,A,, |
+D,A,,F,,D,, z2 CB, | A,B,CA, EEDC | B,G,B,D GG,B,D | GG,B,C DGDD, |
+G,G,, G,F,/E,/ F,D,C,B,, | A,,B,,C,A,, E,E,D,C, | B,,G,,B,,D, G,G,,B,,D, | x6D,2&G,G,,B,,C, D,G,,D,D,, |
+B,,2x6&G,,2z G,, G,G,,B,,D, | G,D,B,,G,, A,G,/F,/ E,/D,/C,/B,,/ | A,,A,F,D, G,F,/E,/ D,/C,/B,,/A,,/ | G,,F,,/E,,/ D,,/C,,/B,,,/A,,,/ G,,,C,,D,,D,, |
+G,,,2zG,, G,G,,B,,D, | G,D,B,,G,, A,G,/F,/ E,/D,/C,/B,,/ | A,,A,F,D, G,F,/E,/ D,/C,/B,,/A,,/ | G,,F,,/E,,/ D,,/C,,/B,,,/A,,,/ G,,,C,,D,,D,, |
+G,,2z2D,2z2 | G,2z2D,2z2 | G,,2z2 z4 | F,,2z2E,,2z2 | D,,2z2C,,2z2 | C,3B,, B,,4&x6F,2 |]
+
+
+
+V:2
+[G2D2B,2]z2z4 | GF/E/ D/C/B,/A,/ G,2 zD | GF/E/ D/C/B,/A,/ G,2 zD | GG,B,C DFFF,| F2z[DG,][B,2G2][B,2G2] |
+[G2B,2]z [DG] [GB2]F/E/ [D/B2G2]C/B,/A,/ | [B2G2]z [BG][d2B2][d2B2]|
+V:3
+G,,2z2 z4 | G,F,/E,/ D,/C,/B,,/A,,/ G,,2z2 | z8 | z4zD,D,D, | D,2z2 G,F,/E,/ D,/C,/B,,/A,,/ |
+
+
+
+
+
+
+
+
+
+
+
+
+X:2
+T:Alla Hornpipe
+C:Georg Friedrich Händel
+O:1685 - 1759
+R:Valse
+M:3/2
+L:1/4
+Q:1/4=240
+K:G             %transposed from C
+%%continueall 1
+%%staves 1 {2 3}
+D2G2A2 |  BG2A BG | Ad2A  BA/G/ | Ad2A BA/G/ | AD2ddd |
+dc/B/cccc | c B/A/ Bddd | dc/ B/cccc | c3d BA |  BcTA3G |
+GD G2A2 |  BG2A BG | Ad2A BA/G/ | Ad2AAD | !p!D2G2A2 |
+BG2A BG | Ad2A BA/G/ | Ad2!f!ddd | dc/ B/cccc | c B/A/ Bddd |
+dc/B/cccc | c B/A/ Bggg | g f/e/  f f f f |  fe/d/ e/g/f/g/ e/g/f/g/ |
+A3A d2- | dg f2ed | d2zddd | cd/c/ Bdc B |  BA/G/A!p!ddd |
+cd/c/ Bdc B |  BA/G/A!f!ddd | dc/B/cccc | c3d BA |  BcTA3G |
+G2zddd | dc/B/cccc | c3d BA |  BcTA3G | G6 !fine! :|
+BGE B B B |  BA/G/AAAA | AG/F/ GGGG | Gc/B/ (A/B/)(G/A/) (F/G/)(E/F/) |
+_E/(F/=E/F/) _E/(F/=E/F/)  B/(B/A/B/) | G/(B/A/B/) (G/A/)(F/G/) E/(e/d/e/) | c/d/e/d/ (c/d/)(B/c/) (A/B/)(G/A/) |
+F/G/A/G/ (F/G/)(E/F/) D/(d/c/d/) |  Be/d/ ^ce/d/ (c/d/)(B/c/) | _B F F/G/  FT( F3/E//F//) |  B F F/G/ FT( F3/E//F//) |
+^c F F/G/  FT( F3/E//F//) | d F F/G/ Fd F | (^cd/e/)EEEE | (^cd/e/)EEEE |
+_B3 F=B2- |  B^c F B_BE | _E/(F/=E/F/) _E/(F/=E/F/) [B,/B/](B/A/B/) | _A/(B/=A/B/) (_A/=A/)(F/_A/) E/(e/d/e/) |
+^c/d/e/d/ c/e/d/e/ A/B/G/A/ |  F/G/A D/d/^c/d/ A/d/c/d/ |  B/d/^c/d/ G/e/d/e/ AA |
+(_e=e/f/)AAAA | (_e=e/f/)AAAA | _e3^c/B/ =ed/=c/ | B/c/AG2TF>E |
+EeEee=d/c/ | ddEddc/B/ | ceEeed/c/ | ddEddc/B/ |
+(cB)(BA)(AG) |  (G=F)(FE)(E_E) | _E3cB2- | BcG2FE | !D.C.! E6  ||
+V:2
+B,2D2F2&G,2D2D2 | GD2FGD&DG,2 DDD | FA2FGD&DD2DDD | FA2FGD&DD2DDD | F2zFDF&D2x4 |
+G2zECA, | F2zBBB&x2D2D2 | BA/G/AAAG&E2zEEE | F3FG2-&D3DD2- | GGG2F2&DEA,2D2 |
+G2B,2D2&B,2x2x2 | GB,2DGB, | DA2DGB, | DA2DD2 | G,2B,2D2 |
+GB,2DGB, | DA2DGB, | DA2BBB&x3FDF | BA/G/ AAAA&G2CECE | AG/F/GBBB&F2Dxx2 |
+BA/G/AAAA&x6 | ADGBBB&x3DGE | ^c2zAdA&E2xDDD | B2zBBB&D2G2B,2 |
+E3EA2&^C3CD2 | d2d2^c2&B2A2A2 | d2zBBB&F2x4 | AB/A/GBAG&x6 | GB,DBBB&x6 |
+AB/A/GBAG&x6 | GB,DBBB&x3DF,D | BA/G/AAAG&G2A,2E2 | F3FG2-&D3DG,2- | GAF3G&G,EA,2D2 |
+G2zBBB&B,2xDFD | BA/G/AAAG&G2A,2E2 | F3FG2-&D3DG,2- | GAF3G&G,EA,2D2 | G6&B,6 :|
+E2zGGG&G,2xEEE | E2zEEE&E2xA,CA, | _E2z=EEE&F,2xG,B,G, | EA/G/FCEA&C2zA,A,C | A2zABF&[F2_E2]xEFE |
+GBze2B&B,2x[B2G2]E | B2AEAc&[E2C2]zc2[AE] | c2zcBA&[A2F2]xA2F | B2z^c2B&G2xEGE | _B2zEDC&[E2^C2]xC=B,_B, |
+D2zFED&B,2xD^CB, | _B2zECC&[E2^C2]xC_B,B, | B2zDDD&[F2D2]xB,B,B, | E2z^CCC&_B,2x=B,B,B, | E2zEEE&_B,2x=B,B,B, |
+E3ED2-&^C3_B,=B,2 | D^CC3B,&G,2B,_A,_B,2 | B,2zFBF&F,2x_EB,E | _ABzE2_A&E2x_A,B,e- | A2zA2E&e^cx^CA,C |
+F2zA,DF&[D2A,2]xF,A,2 | D2zBAA&B,2xDEC | F2zAAA&[_E2B,2]xEFE | A2zAAA&F2x_EFE | A2F2B2&F2_E2[=E2B,2] |
+zEE2[_E2B,2]&x[CF,][B,2G,2]A,2 | E2zB,B,B,&[B,2G,2]xG,G,G, | B,2zB,B,E&_A,2xA,A,A, | C2zccB/A/&A,2xAA2 | B2zBBG&_A2xAAB, |
+[AC]xx4&(ED)(DC)(CB,) | (B,A,)(A,G,)(G,F,)&x6 | B,3_E=E2-&[F,3_E,3]F,G,2 | EEE2_E2&=E,2[B,2G,2]B,2 | E6&[B,6G,6] ||
+V:3
+G,,2B,,2D,2 | G,B,,2D,G,B,, | D,F,2D,G,B,, | D,F,2D,G,B,, | D,2zD,B,,D, |
+E,2zC,A,,C, | D,2zB,,G,,B,, | C,2zA,,C,A,, | D,3D,G,2- | G,C,D,2D,,2 |
+G,,6 | Z3 | Z3 |
+z2zD,B,,D, | E,2zC,A,,C, | D,2G,,2z2 |
+Z | z2zG,,E,,G,, | A,,2zF,,D,,F,, | G,,2zG,,G,G, |
+G,3G,F,E, | F,D,A,2A,,2 | D,,4z2 | Z2 |
+Z | z2zB,,D,B,, | E,2zA,,C,A,, | D,3D,E,2- | E,C,D,2D,,2 |2
+G,,G,D,B,,D,B,, | E,3A,,C,A,, | D,3D,E,2 | C,2D,2D,,2 | G,,6 :|
+E,,2zE,,G,,E,, | C,2zF,,A,,F,, | B,,2zE,,G,,E,, | A,,2zA,,C,A,, |
+B,,2zB,,_E,B,, | E,2zE,,G,,E,, | A,,2zA,,C,A,, | D,2zD,,F,,D,, | G,,2zG,,E,,G,, | F,,2zF,,F,F,, |
+F,2zF,,F,F,, | F,2zF,,F,F,, | F,2zF,,F,F,, | G,,2zG,,G,G,, | G,2zG,,G,G,, | 
+F,,3F,G,2 | E,2F,2F,,2 | B,,2zB,,_E,B,, | E,2zE,,_A,,E,, | A,,2zA,,^C,A,, | 
+D,2zD,,F,,D,, | G,,2zG,,C,A,, | B,,2zF,_E,F, | B,,2zF,_E,F, | B,,3A,,G,,2 |
+A,,2B,,2B,,,2 | E,,2zE,,E,E,, | E,2zE,,E,E,, | E,2zE,,E,E,, | E,2zE,,E,E,, | 
+A,,2A,,2A,,2 | A,,2A,,2A,,2 | A,,3A,,G,,2- | G,,A,,B,,2B,,,2 | E,,6 ||
+
+
+
+X:3
+T:Menuet
+C:Georg Friedrich Händel
+O:1685 - 1759
+M:3/4                           % meter
+L:1/4                        % length of shortest note
+Q:                           % tempo
+K:G                           % key
+%%continueall 1
+%%staves 1 {2 3}
+V:1                          % voice 1
+BBB | BB/c/B/c/ | ddd | (d3/c//d//)e | ccc | (c3/B//c//)d | BB/B/B/B/ | B3 ::
+ddd | def | gg/g/g/g/ | g2d | edc | BAG | AD/D/D/D/ | D3 | B/c/dc/B/ |
+A/B/cB/A/ | B/c/dc/B/ | A/B/cB/A/ | B/c/dc | Bc/B/A/B/ | GG/G/G/G/ | G3 :|
+V:2
+GGG&[DB,][DB,][DB,] | GG/A/G/A/&[DB,]FG | BBB&GGG | B3/A//B//c&G3 | AAA&[EC]E[EC] | A3/G//A//B&FD2 |
+GG/G/G/G/&[DB,][D/B,/][D/B,/][D/B,/][D/B,/] | G3&[D3B,3]::
+B,B,B,&x3 | A,A,D&xxA, | B,B,/B,/B,/C/&G,3 | D2B&G,2G | cBA&EGA | GFG&B,DE | FD/D/D/D/&A,F,/F,/F,/F,/ | D2F&F,A,D |
+G/A/BA/G/&D2D | F/G/AG/F/&DF2 | G/A/BA/G/&D2D | F/G/AG/F/&DF2 | G/A/BA&DB,F | GDD&DG,A, | DD/D/D/D/&B,B,/B,/B,/B,/ | D3&B,3 :|
+V:3
+G,,G,F, | G,D,E, | B,,B,,B,, | E,3 | A,,C,A,, | D,F,,D,, | G,,G,,/G,,/G,,/G,,/ | G,,B,,D, ::
+G,G,,G, | F,F,,F, | E,E,E, | B,,2G,, | C,E,,F,, | G,,B,,E, | D,D,/D,/D,/D,/ | D,F,D, |
+G,G,,B,, | D,D,,2 | G,G,,B,, | D,D,,2 | G,G,,D, | G,B,,D, | G,,G,,/G,,/G,,/G,,/ | G,,3 :|
+
+
+
+X:4
+T:Lentement
+C:Georg Friedrich Händel
+O:1685 - 1759
+M:3/4                           % meter
+L:1/4                        % length of shortest note
+Q:                           % tempo
+K:G
+%%staves 1 {(2 3) 4}
+V:1                          % voice 1
+zz/G/A | B>cB | B>GA | B>cB | B2d | g2d |
+g>GA | B>cB | BAG | A3- | A>AB | c>dc | c2e |
+c>dc | cBA | BB/c/d | B>AG | G3 :| zz/G/A | B>cB |
+B>GA | B>cB | B2B | cBA | GFE | ^D3- | ^D>eB  |
+c>dc | c>dB | c>dc | c2c | Bcd | c>BA | A3 ||
+V:2
+zz/D/F | G>AG | G>DF | G>AG | G2B | d2B |
+d>GF | G>AG | GFG | F3- | F>FG | A>BA | A2c |
+A>BA | AGF | GDG | G>FG | G3 :| zz/E/F  | G>AG |
+G>EF | G>AG | G2G | AGF | E_E=E | B,3- | B,2E |
+A>BA | A>B_A | A>BA | A2E | =FED | E>_A=A | A3 ||
+V:3
+xx/B,/D | [D2B,2]D | B,<B,D | [D2B,2]D | B,2G | B2G |
+B>DD | D2B, | D2B, | D3- | D2D | [E2C2]E | E2E |
+[E2C2]D | D2D | B,2D | D2B, | [D3B,3] :| x3 | x3 |
+x3 | x3 | x2E | E2B, | B,A,2 | F,3- | F,2E |
+[E2C2]E | C2E | [E2C2]E | C2C | D_A,=A, | A,>B,C | [E3C3] ||
+V:4
+zz/G,,/D, | G,2D, | G,,2D,, | G,,2D,, | G,,,2G,, | G,,2G,, | 
+G,,>B,,D, | G,2G,, | B,,2E, | D,2A,, | D,,2D, | A,2E, | A,,2E, | 
+A,2F, | D,2D,, | G,,2B,, | D,>D,,G,, | G,,,3 :| zz/E,/A,, | E,2B,, | 
+E,,>E,A,, | E,2B,, | E,,2E, | A,,2B,, | E,C,2 | B,,2F,, | B,,,2_A,, | 
+A,,2E, | A,2E, | A,2E, | A,,2A, | D,E,=F, | E,>E,,A,, | A,,3 ||
+
+
+
+X:5
+T:Bourrée
+C:Georg Friedrich Händel
+O:1685 - 1759
+M:C|
+L:1/4
+Q:
+K:G                           % key
+%%staves 1 {(2 3) 4}
+V:1
+D | GBAG | d2B2 | edcB | cB2 :: d | ecAB/c/ | dBGA/B/ | 
+cBAG | A/G/A/B/ AB/c/ | dB/c/ dc/B/ | cA/B/ cB/A/ | BG A>G | G3 :|
+V:2
+B, | DGFG | D2G2 | cBAB | AB2 :: B | cAFG/A/ | B3A/G/ | 
+FGDG | F/E/F/G/ FG/A/ | BG/A/ BA/G/ | AF/G/ AG/F/ | GGGF | G3 :|
+V:3
+G, | B,DDB, | G,2G,2 | E2F[GD] | [FD][G2D2] :: G | EED2 | DGGE | 
+CDA,B, | D2DD | D2GE | EA,FD | [DB,]B,DA, | B,3 :|
+V:4
+G,, | G,,G,D,E, | B,,2E,2 | C,G,,D,G,, | D,,G,,2 :: G, | C,2D,C, | B,,C,/D,/E,C, | 
+A,,B,,F,,G,, | D,,2D,C, | B,,2E,2 | A,,2D,2 | G,G,,D,D,, | G,,3 :|
+
+
+
+

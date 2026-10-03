@@ -1,0 +1,24 @@
+X:1
+T:Psalm 79
+Z:Jack Campin: "Embro, Embro", transcription (c) 2001
+F:02smoke/abc/Hart.abc
+S:Andrew Hart, The Psalmes of David in Prose and Meeter, Edinburgh 1635
+N:tune is in tenor line
+M:none
+L:1/1
+V:1                % treble
+V:2 transpose -12  % contra
+V:3 transpose -12  % tenor
+V:4 bass           % bass
+Q:1/2=100
+K:G
+V:1 B   B   A  G  F   E  E ^D  |G  F/  G/  A G  F |D  E/  F/   G   E/  A   F/ G/  A/     B   B/G    F/ G  |
+V:2 d   d   d  B  B   E  E  F  |d  d/  B/  e d  d |A  c/  c/   d   c/  e   d/ d/  e//f// g   d  e/  d/ B  |
+V:3 D   G   F  E  D   G  A  B  |B  A/  G/  c B  A |D  G/  A/   B   G/  c   A/ B/  c/     d   B  A/  A/ G  |
+V:4 G,, G,, D, E, B,, C, C, B,,|G,,D,/ E,/ C,G,,D,|D, C,/ A,,/ G,, C,/ A,, D,/B,,/A,,/   G,, G, C,/ D,/G,,|
+%
+V:1 G   D/  F/  E/  D/  D/  ^C/   D  |B  B/  A/  G  E ^D  |G  F/  G/  E/  A/> D/   G/  F |F  G/ B/  A/GF/ G2  |]
+V:2 B   B/  A/  c/  A/> G/   E/   F  |d  d/  d/  B  E  F  |e  d/  e/  c/  e/  d/   d/  d |d  G/ d/  e  d  B2  |]
+V:3 G   G/  F/  G/  F/  E/   E/   D  |D  G/  F/  G  A  B  |B  B/  B/  A/  c/  B/   B/  A |d  c/ B/  c  A  G2  |]
+V:4 G,, G,,/D,/ C,/ D,/ A,,/ A,,/ D,,|G,,G,,/D,/ E, C, B,,|E, B,,/E,/ A,,/A,,/B,,/ G,,/D,|D, E,/G,/ C, D, G,,2|]
+

@@ -1,0 +1,118 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walliser Galopp  DG
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.275 (GL00784) orig. D,G-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"G"ag !>!B2 | "D"gf !>!A2 | "A7"d>c BA | "D"dba2 | "G"ag !>!B2 | "D"gf!>!A2 | 
+"A7"dd/c/ Bc |1 "D"d3z :|2 "D"d3A/A/ |: "D"A2"G"B2 | "D"A3A | "A7"Ag f/g/g | "D"Af e/f/f | 
+"D"A2"G"B2 | "D"A3A | "A7"Aa B>c |1 "D"d3A/A/ :|2 "D"d3z |: [K:G] "G"dg/g/ ga | "D7"ba/a/ af | 
+gf ed | "G"[d2B2] [B2G2] | dg/g/ ga | "D7"ba/a/ af | gf e>f |  "G"g3z :|  
+X:2
+T:Walliser Galopp  GC 7-
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+"C"dc !>!E2 | "G"cB !>!D2 | "D7"G>F ED | "G"Ged2 | "C"dc !>!E2 | "G"cB!>!D2 | 
+"D7"GG/2F/2 EF |1 "G"G3z :|2 "G"G3D/2D/2 |: "G"D2"C"E2 | "G"D3D | "D7"Dc B/2c/2c | "G"DB A/2B/2B | 
+"G"D2"C"E2 | "G"D3D | "D7"Dd E>F |1 "G"G3D/2D/2 :|2 "G"G3z |: [K:C] "C"Gc/2c/2 cd | "G7"ed/2d/2 dB | 
+cB AG | "C"[G2E2] [E2C2] | Gc/2c/2 cd | "G7"ed/2d/2 dB | cB A>B | "C"c3z :| 
+% GL00784
+X:3
+T:Walliser Galopp  CF 2-
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+"F"gf !>!A2 | "C"fe !>!G2 | "G7"c>B AG | "C"cag2 | "F"gf !>!A2 | "C"fe!>!G2 | 
+"G7"cc/2B/2 AB |1 "C"c3z :|2 "C"c3G/2G/2 |: "C"G2"F"A2 | "C"G3G | "G7"Gf e/2f/2f | "C"Ge d/2e/2e | 
+"C"G2"F"A2 | "C"G3G | "G7"Gg A>B |1 "C"c3G/2G/2 :|2 "C"c3z |: [K:F] "F"cf/2f/2 fg | "C7"ag/2g/2 ge | 
+fe dc | "F"[c2A2] [A2F2] | cf/2f/2 fg | "C7"ag/2g/2 ge | fe d>e | "F"f3z :| 
+% GL00784
+X:4
+T:Walliser Galopp  GC (5letras transposed)
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"C"dc !>!E2 | "G"cB !>!D2 | "D7"G>F ED | "G"Ged2 | "C"dc !>!E2 | "G"cB!>!D2 | 
+"D7"GG/2F/2 EF |1 "G"G3z :|2 "G"G3D/2D/2 |: "G"D2"C"E2 | "G"D3D | "D7"Dc B/2c/2c | "G"DB A/2B/2B | 
+"G"D2"C"E2 | "G"D3D | "D7"Dd E>F |1 "G"G3D/2D/2 :|2 "G"G3z |: [K:C] "C"Gc/2c/2 cd | "G7"ed/2d/2 dB | 
+cB AG | "C"[G2E2] [E2C2] | Gc/2c/2 cd | "G7"ed/2d/2 dB | cB A>B | "C"c3z :| 
+% GL00784
+X:5
+T:Walliser Galopp  CF (5letras transposed)
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"F"gf !>!A2 | "C"fe !>!G2 | "G7"c>B AG | "C"cag2 | "F"gf !>!A2 | "C"fe!>!G2 | 
+"G7"cc/2B/2 AB |1 "C"c3z :|2 "C"c3G/2G/2 |: "C"G2"F"A2 | "C"G3G | "G7"Gf e/2f/2f | "C"Ge d/2e/2e | 
+"C"G2"F"A2 | "C"G3G | "G7"Gg A>B |1 "C"c3G/2G/2 :|2 "C"c3z |: [K:F] "F"cf/2f/2 fg | "C7"ag/2g/2 ge | 
+fe dc | "F"[c2A2] [A2F2] | cf/2f/2 fg | "C7"ag/2g/2 ge | fe d>e | "F"f3z :| 
+% GL00784
+X:6
+T: Walliser Galopp  D&G (tinwhistle in D)
+T:GL00784 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Galopp
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"G"ag !>!B2 | "D"gf !>!A2 | "A7"d>c BA | "D"dba2 | "G"ag !>!B2 | "D"gf!>!A2 | 
+"A7"dd/c/ Bc |1 "D"d3z :|2 "D"d3A/A/ |: "D"A2"G"B2 | "D"A3A | "A7"Ag f/g/g | "D"Af e/f/f | 
+"D"A2"G"B2 | "D"A3A | "A7"Aa B>c |1 "D"d3A/A/ :|2 "D"d3z |: [K:G] "G"dg/g/ ga | "D7"ba/a/ af | 
+gf ed | "G"[d2B2] [B2G2] | dg/g/ ga | "D7"ba/a/ af | gf e>f |  "G"g3z :|  
+X:7
+T:Walliser Galopp  A&D (tinwhistle in D)
+T:GL00784 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Galopp
+M:2/4
+L:1/8
+K:A%%MIDI gchordon
+"D"ed !>!F2 | "A"dc !>!E2 | "E7"A>G FE | "A"Afe2 | "D"ed !>!F2 | "A"dc!>!E2 | 
+"E7"AA/2G/2 FG |1 "A"A3z :|2 "A"A3E/2E/2 |: "A"E2"D"F2 | "A"E3E | "E7"Ed c/2d/2d | "A"Ec B/2c/2c | 
+"A"E2"D"F2 | "A"E3E | "E7"Ee F>G |1 "A"A3E/2E/2 :|2 "A"A3z |: [K:D] "D"Ad/2d/2 de | "A7"fe/2e/2 ec | 
+dc BA | "D"[A2F2] [F2D2] | Ad/2d/2 de | "A7"fe/2e/2 ec | dc B>c | "D"d3z :| 
+X:8
+T: Walliser Galopp  D&G (tinwhistle in D) solo
+T:GL00784 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Galopp
+M:2/4
+L:1/8
+K:D transpose=12
+ag !>!B2 | gf !>!A2 | d>c BA | dba2 | ag !>!B2 | gf!>!A2 | 
+dd/c/ Bc |1 d3z :|2 d3A/A/ |: A2B2 | A3A | Ag f/g/g | Af e/f/f | 
+A2B2 | A3A | Aa B>c |1 d3A/A/ :|2 d3z |: [K:G] dg/g/ ga | ba/a/ af | 
+gf ed | [d2B2] [B2G2] | dg/g/ ga | ba/a/ af | gf e>f |  g3z :|
+X:9
+T:Walliser Galopp  A&D (tinwhistle in D) solo
+T:GL00784 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Galopp
+M:2/4
+L:1/8
+K:A transpose=12
+ed !>!F2 | dc !>!E2 | A>"_#"G FE | Afe2 | ed !>!F2 | dc!>!E2 | 
+AA/2"_#"G/2 F"_#"G |1 A3z :|2 A3E/2E/2 |: E2F2 | E3E | Ed c/2d/2d | Ec B/2c/2c | 
+E2F2 | E3E | Ee F>"_#"G |1 A3E/2E/2 :|2 A3z |: [K:D] Ad/2d/2 de | fe/2e/2 ec | 
+dc BA | [A2F2] [F2D2] | Ad/2d/2 de | fe/2e/2 ec | dc B>c | d3z :|
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 3, 2016

@@ -1,0 +1,40 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Freuden-Schottisch FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.320 (st05028) orig. F,Bb-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c/A/ |: "F"af/f/ fA | c3c/A/ | af/f/ fA | c3c/f/ | "C"e3e/a/ | g3g/a/ | "G7"gf ed | "C7"d>c cc/A/ | 
+"F"af/f/ fA | c3c/A/ | af/f/ fA | c3c/f/ | "C"e3e/a/ | g3g/a/ | "G7"gf A=B |1 "C"cc/c/ cc/A/ :|2 "C"c2 e/f/g/a/ ||  
+|: "Bb"b2b2 | b3d' | "F"d'c'/c'/ c'a | c'3f | "C7"fe/e/ eg | b3d' | "F"d'c'/c'/ c'f | a>f e/f/g/a/ |   
+"Bb"b2b2 | "C7"b3d' | "F"d'c'/c'/ c'a | c'3a | "Gm"ag/g/ gd |  "F"gf/f/ fc | "C7"d/c/=B/c/ b>e |  "F"ff/f/ fz :: [K:Bb] 
+"Bb"d/f/!>!b2 f | ba gf | "F7"ae/e/ ee | e3d | c/e/ !>!a2e | ag fe | "Bb"gd/d/ d^c | d3f/e/ | 
+d/f/!>!b2 f | dc BA | "Eb"AG/G/ G^F | G3G/A/ | BA/G/ BA/G/ | "Bb"GF =EF | "F7"dc d>c | "Bb"BB Bz :| 
+
+X:2
+T:Freuden-Schottisch CF 5- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G/2E/2 |: "C"ec/2c/2 cE | G3G/2E/2 | ec/2c/2 cE | G3G/2c/2 | "G"B3B/2e/2 | d3d/2e/2 | "D7"dc BA | "G7"A>G GG/2E/2 | 
+"C"ec/2c/2 cE | G3G/2E/2 | ec/2c/2 cE | G3G/2c/2 | "G"B3B/2e/2 | d3d/2e/2 | "D7"dc E^F |1 "G"GG/2G/2 GG/2E/2 :|2 "G"G2 B/2c/2d/2e/2 || 
+|: "F"f2f2 | f3a | "C"ag/2g/2 ge | g3c | "G7"cB/2B/2 Bd | f3a | "C"ag/2g/2 gc | e>c B/2c/2d/2e/2 | 
+"F"f2f2 | "G7"f3a | "C"ag/2g/2 ge | g3e | "Dm"ed/2d/2 dA | "C"dc/2c/2 cG | "G7"A/2G/2^F/2G/2 f>B | "C"cc/2c/2 cz :: [K:Fmaj] 
+"F"A/2c/2!>!f2 c | fe dc | "C7"eB/2B/2 BB | B3A | G/2B/2 !>!e2B | ed cB | "F"dA/2A/2 A^G | A3c/2B/2 | 
+A/2c/2!>!f2 c | AG FE | "Bb"ED/2D/2 D^C | D3D/2E/2 | FE/2D/2 FE/2D/2 | "F"DC =B,C | "C7"AG A>G | "F"FF Fz :| 
+
+X:3
+T:Freuden-Schottisch EbAb (5letras) cf. CF
+M:2/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+B/2G/2 |: "Eb"ge/2e/2 eG | B3B/2G/2 | ge/2e/2 eG | B3B/2e/2 | "Bb"d3d/2g/2 | f3f/2g/2 | "F7"fe dc | "Bb7"c>B BB/2G/2 | 
+"Eb"ge/2e/2 eG | B3B/2G/2 | ge/2e/2 eG | B3B/2e/2 | "Bb"d3d/2g/2 | f3f/2g/2 | "F7"fe G=A |1 "Bb"BB/2B/2 BB/2G/2 :|2 "Bb"B2 d/2e/2f/2g/2 || 
+|: "Ab"a2a2 | a3c' | "Eb"c'b/2b/2 bg | b3e | "Bb7"ed/2d/2 df | a3c' | "Eb"c'b/2b/2 be | g>e d/2e/2f/2g/2 | 
+"Ab"a2a2 | "Bb7"a3c' | "Eb"c'b/2b/2 bg | b3g | "Fm"gf/2f/2 fc | "Eb"fe/2e/2 eB | "Bb7"c/2B/2=A/2B/2 a>d | "Eb"ee/2e/2 ez :: [K:Abmaj] 
+"Ab"c/2e/2!>!a2 e | ag fe | "Eb7"gd/2d/2 dd | d3c | B/2d/2 !>!g2d | gf ed | "Ab"fc/2c/2 c=B | c3e/2d/2 | 
+c/2e/2!>!a2 e | cB AG | "Db"GF/2F/2 F=E | F3F/2G/2 | AG/2F/2 AG/2F/2 | "Ab"FE =DE | "Eb7"cB c>B | "Ab"AA Az :| 

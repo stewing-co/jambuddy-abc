@@ -1,0 +1,31 @@
+X:1206
+T:N.16 No movimento do Fado
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 6 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 6 }]
+%---------------------------------
+!fff! (d//f//a//(d// d//)a//{/c'}b//a//) | (g//b//c//(e// e//)a//{/c'}b//a//) | \
+[A,a',G]>[g',b',g']& z/ (b,,/c,) | ([f/a/f'/]>[e/g/e']) [dfd'] & zz//(A//{/c}B//A//) || \
+[M:4/8] !pp! [I:staff +1] (D,//A,//[I:staff -1] D//=F// _B//A//F//D//) | \
+[I:staff +1](C,//A,// [I:staff -1] E//G// e//d//c//A//)| \
+[I:staff +1] (A,,//A,//[I:staff -1] C//G// B//A//G//A//) | \
+([I:staff +1]^G,,//=F,//[I:staff -1] A,//=F// E//D//C//D//) | \
+([I:staff +1]=G,,//G,// [I:staff -1]_B,//D// E//=G//E//D//) | \
+([I:staff +1]F,,//F,//A,//F,//[I:staff -1] E//D//F//A//) | \
+([I:staff +1]=F,,//D,//A,//D// [I:staff -1] A//F//e//d//) | \
+[I:staff +1](E,,//D,//^G,//[I:staff -1] D// =F//B//F//D//) | \
+[I:staff +1](_E,,//=C,//G,//[I:staff -1] _C// G//_E//G,//C//) | \
+[I:staff +1](D,,//A,,//D,// ^F,//  =C//F,// D,//D,,//) | \
+[I:staff +1](C,,//^G,,//C,// ^E,// B,//E,// C,//C,,//) | \
+"_ret.muito"z// [I:staff +1](C,//^A,//C,//) z// (B,,//=A,//B,,//) || \
+[I:staff -1][M:2/4] "^a tempo"  !m.d.! [I:staff +1] (F,,//D,//B,//) [I:staff -1]D// ((6:4=F//^G//B//d//=f//^g// | \
+"^ten." (6:4b//^a//=a//^g//=g//f// "^[Check error in ms]"(9:4^e//=e//^d//=d//c//=c//B//^A//=A//) | \
+^G2 | (F/ B F/) | "^ret. sempre" ^G2 | \
+(3(F/^d/).c/ "_tranquilo" ({B/c/}B/)^A//G//| \
+[I:staff +1] (F,,//C,//^A,// [I:staff -1] C// (6:4^G//^A//^d//c//^g//f// | \
+"^ten." (6:4^a//=a//^g//=g//f//=f// (!>!e///c///^A///F///) (!>!E/8C/8[I:staff +1]^A,/8F,/8) ||
+%---------------------------------

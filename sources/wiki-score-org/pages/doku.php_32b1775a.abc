@@ -1,0 +1,29 @@
+X:807
+T:N.8 Conto do Sargento
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:G
+V: 7 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%---
+(BAG FGB, | D2)z "^NB:ties still missing" !>!([^DA,F,]3| [G,E]2)z [=DC]3| [G,B,D]z.[B,D] .[B,D]z.[B,D] || \
+x6                           | z(DE FGA) | B2 x4    | z(CD EFG)     | A2 x4          | z(A,B, CDE) | A2 x4  | \
+!>!(E3 D)({F}ED) & E^A,^C x3 | !p!B2x4   | z(DE FGA)| (BA^G) (=FED) | C2x4&C(EF GAB) | (cBA) (GFE) | (G3D3) | \
+(FED) (A[CA][DB]) | (!>![C(A]3[B,G)]2)z||\
+[Q:"Expressivo"] !pp! [gb]3!trem2!e3 | !>! ([b^c']3/2!trem2!e3/2) ([gb]3/2!trem2!e3/2) |  [gb]3!trem2!e3 | \
+[ea]3!trem2!A3 | [ea]3!trem2!A3 | ([eg]3!trem2!B3) | ([e_b]3/2!trem2!^c3/2) ([^da]3/2!trem2!B3/2) | \
+([eg]3/2!trem2!B3/2) !/![=fg]!/!e!/![Bd] |([=fg]3!trem2!B3) | \
+"a tempo" [ceg]zz2 [G,B,F]z | z[G,CE]z z [G,B,]z | [E,G,C]3-[E,G,C] !fermata!z[A,B,^D] || \
+[M:3/4]"^Recit." [G,B,E]z z2 [B,^DF]z |  z(.B,/.B,/) (.E.F) Gz | [B,DG]2-[B,DG]z [CDF]z | \
+z(.D/.D/) (.G.A) B2 | "_NB: ties... still missing" ([DFB]4[^CEF]2) | zD/(D/B)(F!fermata!B2) || \
+[M:6/8] ([gb]3!trem2!e3) | ([b^c']3/2!trem2!e3/2) ([gb]3/2!trem2!e3/2) | ([gb]3!trem2!e3) | \
+([ea]3!trem2!A3) |([ea]3!trem2!A3) | ([eg]3!trem2!B3) |  ([e_b]3/2!trem2!^c3/2) ([^da]3/2!trem2!B3/2) || \
+[M:3/4]"^Recit." {B}([E]3!trem2!B,3) | ([DF]3!trem2!C3) | ([G]3!trem2!D3) | \
+([EA]2!trem2!C2) (!/!c!/!E) | (B2!trem2!^D2) !f![DB]z | [^A,^CF]4-[^A,EF]z | \
+((3.B,.B,.B,) (.B,2.B,2) || [M:6/8]"^1.o tempo" \
+x6                           | z(DE FGA) | B2 x4    | z(CD EFG)     | A2 x4          | z(A,B, CDE) | A2 x4  | \
+!>!(E3 D)({F}ED) & E^A,^C x3 | !p!B2x4   | z(DE FGA)| (BA^G) (=FED) | C2x4&C(EF GAB) | (cBA) (GFE) | (G3D3) | \
+FED A[CA][DB] | "NB: ties missing" [B,G]3-[GBg]zz |] \
+%---

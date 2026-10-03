@@ -1,0 +1,32 @@
+X:1
+%MIDI gchordoff
+%MIDI gchord fzzfzz
+%MIDI stressmodel 2
+%%MIDI program 1 110       % Instrument Fiddle
+%%MIDI program 4 107       % Instrument Koto
+%%MIDI program 5 70        % Instrument Acoustic Grand Piano
+C:Peter Clayton
+O:arr. Mark Blinkhorn
+Z:S.M.Blinkhorn
+T:There and back to see how far it is
+M:4/4
+L:1/8
+Q:1/4=144
+R:reel
+K:D
+V:1 name=Fiddle snm=fdl
+%%MIDI control 7 102   % Volume
+dBA |:\
+"Bm"BFAd BAFE | "D"DEFA "Bm"BedB | "Em"edef edBA | "Bm"dBAF "D"Afde |
+"D"fefa fedB | "Bm"dBAF "Em"EDB,D | EBAF EDB,D | "Bm"FEDB, "D"DdBA :|
+|:\
+"D"FA- AF ABFA | "Bm"dfed BAFA | "Em"Be- ed efed | "Em"edBA "G"BdBA |
+"D"FA- AF ABFA | "Bm"dBAF "Em"EDB,D | EBAF EDB,D |1 "Bm"FEDB, "D"DdBA :|2 "Bm"FEDB, "D"D |]
+V:2 name=Mandolin snm=mdn
+%%MIDI control 7 102   % Volume
+zzz |:\
+FDFB FFDB, | A,B,DF FBBF | BBBd BAFD | AFFD FdAB |
+dBdf dBAF | BFFD B,B,G,B, | B,EFD B,B,G,B, | DB,B,G, A,AFD :|
+|:\
+A,D- DA, DFDF | BdBB FFDF | EB- BB BdBB | BBGF GBGD |
+A,D- DA, DFDF | BFDD B,B,G,B, | B,EFD B,B,G,B, |1 DB,B,G, A,AFD :|2 DB,B,G, A, |]

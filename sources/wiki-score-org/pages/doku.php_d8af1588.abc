@@ -1,0 +1,28 @@
+X:203
+T:O Salutaris
+C:Giuseppe Totti (17__-1832)
+M:3/4
+L:1/4
+K:Eb
+V: 3 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 3 )]
+%----- edit between the lines ----
+Z6 | z z1/2 !f! E/G/B/ | !p! e z1/2 f/f/a/ | !f! g z1/2 !p! f/f/a/ | !f! g/b/ g/e/ e/B/ |\
+G G z | Z2 | !f! B B//d//d//d// d//f//f//f// | b//f//d//f// b c'/=a/ |b//f//d//f// b c'/=a/ | b z z | f > dd/d/ |\
+e > cc/c/ | d/c//d// e/e/d/d/ | c z z | f2 e | d/ F//B// B//d//d//f// f | f3 |\
+f/c/ c z | Z3 | !p! f f f | g g g | =a2 a | (b/f/) d z |\
+!f! d z1/2 !p! c/c/e/ | !f! d z1/2 !p! c/c/e/ | d z z | z3 | z z1/2 !p! .f/(f/e/ | d/c/=B/_A/ G/F/ |\
+!f! E) z z | Z2 | z1/2 !p! (g/ g//)f//e//f// g//e//a//g// | f z z | z g f | e g =a |\
+g g f | e g =a | g f e | g f e | g g g | g !p! =B B | B z !fermata! z ||\
+[Q: "Allegro assai"] !f! g3 | f3 | g a g | a2 a | g z z | Z4 |\
+z c c | c z z | z d d | e z z | z _a a | g2 =a |\
+g3 | g3 | g3 | g3 | g3 | a z z |\
+z c' b | a z z | z =a a | =a3 | a3 | b z z |\
+z d' c' | b z z | g z g | g g g | g g g | g z z |\
+z3 | f z f | f f f | f f f | f3 | g z z |\
+g3 | _a z z | a3 | g z z | Z7 | !p! b > ga/c'/ |\
+b > ga/c'/ | b > ga/c'/ | b z z | Z7 | !p! e3 | e B d |\
+e z z | Z2 | !p! e3 | e B d | e z z | z z (d |\
+e) z z | z z (d | e) (g e) | .B .B .B | G (e B) | .G .G .G | E z G | G z z |]
+%---------------------------------

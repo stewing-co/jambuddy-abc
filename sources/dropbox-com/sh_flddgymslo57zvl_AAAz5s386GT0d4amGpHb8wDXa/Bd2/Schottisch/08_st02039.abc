@@ -1,0 +1,73 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch  FBb
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.285 (st02039) orig. F,Bb
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T:Überliefert vermutlich durch Joggi Stocker (1889-1956)
+%%MIDI program 21
+O:Switzerland
+R:shottische
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c | "F"=B3c | d3c | A>c =B>c | "C7"_B3c | B3c | e3d | d>c =B>c | "F"A2zc | 
+=B3c | d3c | f>e g>f | "Bb"edd2 | b>d db | "F"a>f fc | "C7"ef/e/ de | "F"ff fc/c/ || 
+"C7"cb eg | cb eg | "F"ca f>A | c>a gf | "C7"e>e eb | d3c | "F"d>c ca | f3c/c/ | 
+"C7"cb eg | cb eg | "F"ca f>A | c3c | "Gm"dg/g/g2 | "F"cf/f/f2 | "C7"ce a>g | "F"ff fz || [K:Bb] 
+"Bb"d3f | b3f | g>f df | "F7"efe2 | c3e | a3g | e>e ce | "Bb"eg/f/f2 | 
+d3f | b3f | "Eb"g>e ed | g3g | "F7"ff/f/ fg | "Bb"fd BG | "F7"f>f ag/a/ | "Bb"bb bz |] 
+ % st02039
+
+X:2
+T:Schottisch  CF 5-  (st02039)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.285 (st02039) orig. F,Bb
+%%MIDI program 21
+O:Switzerland
+R:shottische
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+G | "C"^F3G | A3G | E>G ^F>G | "G7"=F3G | F3G | B3A | A>G ^F>G | "C"E2zG | 
+^F3G | A3G | c>B d>c | "F"BAA2 | f>A Af | "C"e>c cG | "G7"Bc/2B/2 AB | "C"cc cG/2G/2 || 
+"G7"Gf Bd | Gf Bd | "C"Ge c>E | G>e dc | "G7"B>B Bf | A3G | "C"A>G Ge | c3G/2G/2 | 
+"G7"Gf Bd | Gf Bd | "C"Ge c>E | G3G | "Dm"Ad/2d/2d2 | "C"Gc/2c/2c2 | "G7"GB e>d | "C"cc cz || [K:F] 
+"F"A3c | f3c | d>c Ac | "C7"BcB2 | G3B | e3d | B>B GB | "F"Bd/2c/2c2 | 
+A3c | f3c | "Bb"d>B BA | d3d | "C7"cc/2c/2 cd | "F"cA FD | "C7"c>c ed/2e/2 | "F"ff fz |] 
+% st02039
+
+X:3
+T:Schottisch  GC 2+  (st02039)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.285 (st02039) orig. F,Bb
+%%MIDI program 21
+O:Switzerland
+R:shottische
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+d | "G"^c3d | e3d | B>d ^c>d | "D7"=c3d | c3d | f3e | e>d ^c>d | "G"B2zd | 
+^c3d | e3d | g>f a>g | "C"fee2 | c'>e ec' | "G"b>g gd | "D7"fg/2f/2 ef | "G"gg gd/2d/2 || 
+"D7"dc' fa | dc' fa | "G"db g>B | d>b ag | "D7"f>f fc' | e3d | "G"e>d db | g3d/2d/2 | 
+"D7"dc' fa | dc' fa | "G"db g>B | d3d | "Am"ea/2a/2a2 | "G"dg/2g/2g2 | "D7"df b>a | "G"gg gz || [K:C] 
+"C"e3g | c'3g | a>g eg | "G7"fgf2 | d3f | b3a | f>f df | "C"fa/2g/2g2 | 
+e3g | c'3g | "F"a>f fe | a3a | "G7"gg/2g/2 ga | "C"ge cA | "G7"g>g ba/2b/2 | "C"c'c' c'z |] 
+% st02039
+
+X:4
+T:Schottisch D&G (tinwhistle in D) solo
+T:st02039 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottische
+M:2/4
+L:1/8
+K:D transpose=12
+A | ^G3A | B3A | F>A ^G>A | =G3A | G3A | c3B | B>A ^G>A | F2zA | 
+^G3A | B3A | d>c e>d | cBB2 | g>B Bg | f>d dA | cd/2c/2 Bc | dd dA/2A/2 || 
+Ag ce | Ag ce | Af d>F | A>f ed | c>c cg | B3A | B>A Af | d3A/2A/2 | 
+Ag ce | Ag ce | Af d>F | A3A | Be/2e/2e2 | Ad/2d/2d2 | Ac f>e | dd dz || [K:G] 
+B3d | g3d | e>d Bd | cdc2 | A3c | f3e | c>c Ac | ce/2d/2d2 | 
+B3d | g3d | e>c cB | e3e | dd/2d/2 de | dB GE | d>d fe/2f/2 | gg gz |]
+% st02039
+% Oct 1, 2016

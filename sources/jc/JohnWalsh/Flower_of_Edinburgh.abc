@@ -1,0 +1,35 @@
+X: 1
+T: Flower of Edinburgh
+%R: reel
+B: John Walsh "Caledonian Country Dances" 1748
+S: 2: CCD2  http://petrucci.mus.auth.gr/imglnks/usimg/5/50/IMSLP98359-PMLP202128-walsh_caledonian_country_dance_vol2.1.pdf p.34-35 #294
+S: 4: ACMV  http://archive.org/details/acompositemusicv01rugg p.4:34-35 #294
+Z: 2013 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: G
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 1 has 4/8-bar staff/line breaks:
+V: 1
+(3(GFE) |\
+D3E G3A | BGBd {c}B2AG | {G}F3E DEFG | AF dF E2FE |\
+DEFD G3A | (3(BAG) (3(Bcd) e3g | dBAG E2GA | B2GA G2 :|
+|: d2 |\
+gfg>a g/a/b ag | fef>g (f/g/a) gf | edef gfed | B2e2 e3g//f//e/ |\
+dBAG d2cB | edef g3(g//a//b/) | cBAG E2GA | B2G2 G2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+% Voice 2 preserves the original staff breaks:
+V: 2 clef=bass middle=d
+g2 |\
+g2g2 g2g2 | g2g2 g2g2 | d2d2 d2d2 | d2d2 d2d2 | d2d2 g2g2 |
+g2g2 g2g2 | g2g2 c2d2 | g2g2 g2 :||: g2 | g2g2 g2g2 | d2d2
+d2d2 | e2e2 e2f2 | g2g2 e2f2 | g2g2 g2g2 | c'2a2 b2g2 |
+c2c2 c2d2 | g2g2 g2 :|
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% The 1st Cu. figure down between the 2d and 3d Cu. .|.
+%% then figure up again the same .|.
+%% cast off and lead thro' the 2d Cu. and cast off .|.
+%% Right hands across with the 3d Cu. lead thro' the 2d Cu. and cast off .|.
+%% Right and Left and foot it :|:
+%%endtext

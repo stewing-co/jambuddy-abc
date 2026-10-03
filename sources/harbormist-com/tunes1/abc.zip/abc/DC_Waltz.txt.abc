@@ -1,0 +1,31 @@
+%%measurebox true % measure numbers in a box
+%%measurenb 0 % measure numbers at first measure
+X:1
+T:DC Waltz
+C:Doug Healy
+M:3/4
+L:1/4
+N: Q: 3/8=105
+K:Dmix
+ "D"DFA  | "C"c2d | "D"A3- |    A3  |\ 
+ "D"DFA  | "C"c2d | "D"A3- |    A3  | 
+ "D"cBA  | "C"G3  |    AGF | "D"D3  | \
+    GFE  | "C"C2E | "D"D3- |    D3  || 
+ "D"DFA     | "C"c/Bc/d   | "D"A2G  | A-A/G/A |\
+ "D"D-D/F/A | "C"c3/2c/2d | "D"A2G  | A3      | 
+ "D"c/B/-BA | "C"G3       |    A/G/-GF |  "D"D3  |\
+    G/F/-FE | "C"C2E      | "D" D3-    |     D3  ||
+P:      
+ "Cmaj7" CDE | G.Bz/G/ | "D" A3/2G/ F/E/ | D3  |\
+ "Cmaj7" CDE | G.Bz/G/ | "D" A3          | D3  |
+ "Cmaj7" CDE | GBG     | "D" cBA         | D3  |\
+ "Cmaj7" GFE | C2E     | "D" D3-         | D3  || 
+ "Cmaj7" C/D/E/F/G/A/ | GBG     | "D" A-A/G/F   | D3  |\
+ "Cmaj7" C/D/E/F/G/A/ | G.Bz/G/ | "D" A3        | D3  |
+ "Cmaj7" C/D/E/F/G/A/ | GBG     | "D" c-c/B/A   | D3  |\
+ "Cmaj7" G-G/F/E      | C2E     | "D" D3-       | D3  |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2009, version 2 - Copyright 2008 Doug Healy. All rights reserved. Used by permission.
+%%endtext

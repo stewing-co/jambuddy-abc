@@ -1,0 +1,19 @@
+X:208
+T:II. Andante e piano sempre
+C:Almeida, Francisco A. de (c.1702-?1755)
+M:12/8
+L:1/8
+K:Bb
+V: 8 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 8 ]
+%---------
+[Q:"Andante e piano sempre"] F,3 E,3 D,3 _A,,3 | B,,3 C,3 F,3  z2z | F,3E,3_D,3z2z | G,3F,3E,3z2z | \
+F,3 z2z F,3F,3 | E,3 z2z E,3E,3 | D,3 z2z =B,,3G,,3 | C3B,3_A,3G,3 | F,3E,3 \
+D,3C,3 | =B,,3G,,3C,3G,3 | C3B,3_A,3G,3 | F,3E,3 D,3C,3 | =B,,3G,,3C,3G,3 | \
+C,3C,3C,3C,3| C,3 z2z z6 :: C3B,3_A,3E,3 | F,3G,3C,3z2z | C,3B,,3 \
+_A,,3z2z | D,3C,3=B,,3z2z| C3B,3_A,3G,3 | F,3D,3E,3B,,3 | E,3_D,3C,3B,,3 | \
+_A,,3z2zB,3_A,3 | _G,3E,3=A,3F,3 | B,3F,3B,3_A,3 | _G,3_D,3E,3F,3 | B,3C3 \
+F,3E,3 | _D,3C,3B,,3_A,,3 | G,3F,3=E,3C,3 | F,3C3F,3E,3 | _D,3C,3B,,3_A,,3 |\
+G,3F,3=E,3C,3 | F,3C3F,3F,3| F,3F,3F,3z2z :| \
+%---------

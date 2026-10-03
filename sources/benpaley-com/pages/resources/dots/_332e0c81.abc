@@ -1,0 +1,31 @@
+X:1
+T:Vals efter Carl Johann Björklund
+T:Waltz from the playing of Carl Johann Björklund
+L:1/8
+M:3/4
+C:Trad arr. © 2022 Ben Paley
+N:If you can find it, listen to the 1979 album "Värmlandslåtar" [Fabo SLP 33118] by Bo i
+N:Rannsätt and Bengt Lindroth. Their version of this tune is wonderful.
+O:Värmland, Sweden
+Q:1/4=150
+R:Waltz
+D:Bo i Rannsätt and Bengt Lindroth, "Värmlandslåtar" [Fabo SLP 33118], 1979
+Z:Ben Paley <ben.paley@benpaley.com>
+K:Dm
+V:M clef=treble  name="Melody"   snm="M"
+V:H clef=treble  name="Harmony"   snm="H"
+%%score M|H
+V:M
+P:A
+A2|:d3 f ed | ^c2 d2 e2 | f2 a2 ^ga | =ba gf ef |
+d3 f ed | ^c2 d2 e2 | f2 a2 ^c2 |1 d4 A2 :|2 d4 f2 |
+P:B
+|:a2 ^ga =b2 | a2 a2 g2 | f3 a gf | e4 g2 |
+f2 e2 d2 | ^c2 d2 e2 | f2 a2 ^c2 |1 d4 f2 :|2 d4||
+V:H
+P:A
+E2|:F3 A GF | E2 F2 A2 | d2 f2  ef | gf ed AG |
+F3 A GF | E2 F2 A2 | d2 A2 G2 |1 F4 E2 :|2 F4 d2 |
+P:B
+|:f2  ef  g2 | f2 f2 e2 | d3 f ed | ^c4 e2 |
+d2 ^c2 B2 | A2 B2 ^c2 | d2 A2 G2 |1 F4 d2 :|2 F4||

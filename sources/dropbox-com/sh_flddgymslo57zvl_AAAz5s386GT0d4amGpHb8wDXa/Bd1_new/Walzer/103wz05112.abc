@@ -1,0 +1,45 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walzer CG chords parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.371 (wz05112) orig. C,G-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+R: waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+e/g/ [P:A]  |: "G7"fga | d2d/f/ | "C"efg | c2c/e/ | "G7"g>fd |1 g>fd | "C"a2g | e2e/g/ :|2 "G7"GAB | "C"c>cc | czc/e/ || [K:G] 
+|: [P:B] "D7"d2f | a2c' | "G"b2g | d2g |1 "D7"f2e | c2e | "G"d2B | G2c/2e/ :|2 "D7"d2c | d2c | "G"B>gg | gzz |] 
+% June 1, 2016
+X:2
+T: Walzer CG chords
+R: waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+e/g/  |: "G7"fga | d2d/f/ | "C"efg | c2c/e/ | "G7"g>fd |1 g>fd | "C"a2g | e2e/g/ :|2 "G7"GAB | "C"c>cc | czc/e/ || [K:G] 
+|:  "D7"d2f | a2c' | "G"b2g | d2g |1 "D7"f2e | c2e | "G"d2B | G2c/2e/ :|2 "D7"d2c | d2c | "G"B>gg | gzz |] 
+X:3
+T: Walzer CG (5letras transposed)
+R: waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+e/g/  |: "G7"fga | d2d/f/ | "C"efg | c2c/e/ | "G7"g>fd |1 g>fd | "C"a2g | e2e/g/ :|2 "G7"GAB | "C"c>cc | czc/e/ || [K:G] 
+|:  "D7"d2f | a2c' | "G"b2g | d2g |1 "D7"f2e | c2e | "G"d2B | G2c/2e/ :|2 "D7"d2c | d2c | "G"B>gg | gzz |] 
+X:4
+T:Walzer FC 7- chords
+R:waltz
+M:3/4
+L:1/4
+K:Fmaj%%MIDI gchordon
+A/2c/2 |: "C7"Bcd | G2G/2B/2 | "F"ABc | F2F/2A/2 | "C7"c>BG |1 c>BG | "F"d2c | A2A/2c/2 :|2 "C7"CDE | "F"F>FF | FzF/2A/2 || [K:C] 
+|: "G7"G2B | d2f | "C"e2c | G2c |1 "G7"B2A | F2A | "C"G2E | C2F/2A/2 :|2 "G7"G2F | G2F | "C"E>cc | czz |] 
+X:5
+T:Walzer FC (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+A/2c/2 |: "C7"Bcd | G2G/2B/2 | "F"ABc | F2F/2A/2 | "C7"c>BG |1 c>BG | "F"d2c | A2A/2c/2 :|2 "C7"CDE | "F"F>FF | FzF/2A/2 || [K:C] 
+|: "G7"G2B | d2f | "C"e2c | G2c |1 "G7"B2A | F2A | "C"G2E | C2F/2A/2 :|2 "G7"G2F | G2F | "C"E>cc | czz |] 

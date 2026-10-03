@@ -1,0 +1,49 @@
+X:108
+T:Andante
+C:Joao de Sousa Carvalho (1745-1798)
+M:3/8
+L:1/8
+K:F
+V: 8 clef=alto name="Alto solo" sname="A."
+%%MIDI program 1 1
+%%staves [[ 8 ]]
+%------
+[Q:"Andante a comodo"] z/2 | Z11 | \
+A2G | {G}F F z | c c> B | {B}A/ >A/ A z| F F ^F | G> A B | (3d/B/G/ F E | F/> F/ F z | \
+w: Fi-at fi-at mi-se-ri-cor-di-a mi-se-ri-cor-di-a tu----a Do-mi-ne
+B2 G/c/ | AA z/>F/ | B2 G/c/ | A/> A/ A z | F F ^F | G> B B | \
+w: fi-at-~ fi-at mi-se-ri--cor-di-a mi-se-ri-cor-di-a
+(3d/B/G/ F E | F/> F/ Fz| z3| \
+w: tu----a Do-mi-ne
+zc2-|c (BA-)| A/G/ ^F/G/ D/G/| =FEz | \
+w: Su--per---~ su--per-~ nos-~
+z A/ > G/ E | z c C | z B A-| A/G/ ^F/G/ D/G/ | {F}E2z | Z  | \
+w: Do-mi-ne fi-at fi-at--~ su--per-~ nos
+z z z/c/ | {c}=B3/2 A//G// G/A// B// | c3/4 B///A/// Gz | Z | \
+w: Quem ad mo--dum-~ spe-ra-vi--mus
+zz z/c/ | {c}=B3/2 A//G// G/> F/ | E zz/ \
+w: spe-ra-vi--mus in-te
+E/ | F/> F/ F z/F/ | G/> F/ G z/ _B/  | \
+w: quem ad mo-dum spe-ra-vi-mus spe-ra-vi-mus
+A-A//E//A//G// F//D//d//c// | {B}=B-B//d//c//B// A//G//A//F// | E/ > F/ G z/ \
+w: ra-------------------vi-mus
+^F/ | A-(6A/^G/A/c/=B/c/ (6A/G/A/c/B/c/ | D c2- | c-(6c/e/d/c/=B/A/ G//c///B/// A///G/// F///E/// | D2G | C2 !fermata! z | \
+w: spe-ra---------------------------vi--mus in te.
+A2G | {G}F F z | \
+w: Fi-at fia-at
+c c> B | {B}A/ > A/ Az | F F ^F | G> B B | \
+w: mi-se-ri-cor-di-a mi-se-ri-cor-di-a
+(3d/B/G/ F E | {G}F/> F/ Fz| \
+w: tu----a Do-mi-ne
+z c/A/ A/F/ | F/B/ B z | z {c}B/A//G// {A}G/F//E// | F2z | \
+w: fi--at-~ | fi--at su---per--~ nos
+z c/A/ A/F/ | F/> B/ B z | z/B/ B/G/ G/E/ | \
+w: fi--at-~ Do-mi-ne mi-se--ri--cor-di-a
+F/> F/ F z | F F F | "_NB: check ms" G>A {d}c/ B// A// | {A}G/ G/ zz | \
+w: cor-dia-a mi--se-ri-cor--di-a tu.-a
+G2G | G2F | E2z | \
+w: su-per su-per nos
+A2 {B}A/G//F// | E G z | A>c {B}A/G//F// | C2z | z!fermata!zz/z/\
+w: fi-at--~ fi-at su--per--~ nos.
+|| "_Allegro;follows"  X | \
+%------

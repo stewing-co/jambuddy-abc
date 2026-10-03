@@ -1,0 +1,47 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Walzer CGF  (wz07331)
+T:Hanny Christen. Bd.IV  Aargau, Basel I.  S.295 (wz07331) orig. C,G,F
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+("C"e^de) | (ag)z/^f/ | (g3 | e)zz | ("Am"cBc) | fez/^d/ | (e3 | c)zz | ("F"a3 | "G7"g)f/d/ B/G/ | "C"fze | G2e | 
+("G7"e3 | d)b/g/ f/d/ | "C"c>cc | czz :: [K:G] ("D7"c//f//) z/f2 | "G"g (d/e/) d | "D7"f (d/e/)d | ("G"d2B) | ("D7"f//c'//)z/c'2 | "G"b (d/e/)d | 
+"D7"a(d/e/)d | ("G"d'2b) | ("D7"c//f//) z/f2 | "G"g (d/e/) d | "D7"f (d/e/)d | ("G"d2B)  | "C#0"^c//g// z/g2 | "G/D"d//g// z/g2 |  "D7"f/f/c'f |1 "G"gzz :|2 
+"G"gf=f |: [K:C] ("C"e3 | c)g>^f | (g3 | e2)z | (c'3 | e2a) | "G7"g3 | d2z | (d3 | b2a) | ("C"c3 | 
+a2g)  | ("G7"B3 | e2d) | ("C"c3 |1 c)e>^d :|2 "C".c.g.g |: "G7".gf>e | (d2a) | "C".ag>f | (e2c') | "G7".c'b>a | 
+(b2d') | "C".d'c'>b | c'3 | "F".ba>d | .a (c//d//) z/(c//d//) z/|"C".ag>e | .g(B//c//) z/(B//c//)z/ | "G7".gf>e | .gf>B | 
+"C"c/g/ e/c/ G/e/ | czz :: [K:F] "F"A3 | ({/d}c=Bc) | (f3 | c2)z | a3 | ("Dm"f2A) | "Gm"A3 | G2z | ("C7"e3 | 
+d2c) | (B3 | g2f) | e3 | c'2b | a2z | c=B_B | "F"A3 | ({/d}c=Bc) | f3 | c2z | a3 | 
+(g2^c) | "Dm"e3 | d3 | ("Bb"g3 | fed) | ("F"c3 | f2a) | ("C7"c'2=b) | _b2e | ("F"f3 | f)zz :| 
+% wz07331
+% June 22, 2017 (Yes-No only vs YinYang
+
+X:2
+T:Walzer CGF oct  (wz07331)
+S:Hanny Christen. Bd.IV  Aargau, Basel I.  S.295 (wz07331) orig. C,G,F
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+("C"E^DE) | (AG)z/2^F/2 | (G3 | E)zz | ("Am"CB,C) | FEz/2^D/2 | (E3 | C)zz | ("F"A3 | "G7"G)F/2D/2 B,/2G,/2 | "C"FzE | G,2E | 
+("G7"E3 | D)B/2G/2 F/2D/2 | "C"C>CC | Czz :: [K:G] ("D7"C/4F/4) z/2F2 | "G"G (D/2E/2) D | "D7"F (D/2E/2)D | ("G"D2B,) | ("D7"F/4c/4)z/2c2 | "G"B (D/2E/2)D | 
+"D7"A(D/2E/2)D | ("G"d2B) | ("D7"C/4F/4) z/2F2 | "G"G (D/2E/2) D | "D7"F (D/2E/2)D | ("G"D2B,) | "C#0"^C/4G/4 z/2G2 | "G/D"D/4G/4 z/2G2 | "D7"F/2F/2cF |1 "G"Gzz :|2 
+"G"GF=F |: [K:C] ("C"E3 | C)G>^F | (G3 | E2)z | (c3 | E2A) | "G7"G3 | D2z | (D3 | B2A) | ("C"C3 | 
+A2G) | ("G7"B,3 | E2D) | ("C"C3 |1 C)E>^D :|2 "C".C.G.G |: "G7".GF>E | (D2A) | "C".AG>F | (E2c) | "G7".cB>A | 
+(B2d) | "C".dc>B | c3 | "F".BA>D | .A (C/4D/4) z/2(C/4D/4) z/2|"C".AG>E | .G(B,/4C/4) z/2(B,/4C/4)z/2 | "G7".GF>E | .GF>B, | 
+"C"C/2G/2 E/2C/2 G,/2E/2 | Czz :: [K:F] "F"A,3 | ({/D}C=B,C) | (F3 | C2)z | A3 | ("Dm"F2A,) | "Gm"A,3 | G,2z | ("C7"E3 | 
+D2C) | (B,3 | G2F) | E3 | c2B | A2z | C=B,_B, | "F"A,3 | ({/D}C=B,C) | F3 | C2z | A3 | 
+(G2^C) | "Dm"E3 | D3 | ("Bb"G3 | FED) | ("F"C3 | F2A) | ("C7"c2=B) | _B2E | ("F"F3 | F)zz :| 
+% wz07331
+% June 22, 2017

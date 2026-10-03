@@ -1,0 +1,20 @@
+X:1005
+T:N.10 Dueto [2nd Act]
+C:Fonseca, Eduardo da (1863-1938)
+M:3/4
+L:1/4
+K:D
+V: 5 clef=bass name="Cello" sname="Vc."
+%%MIDI program 1 1
+%%staves [ 5 ]
+[Q:"Moderato"] !f!{D,,A,,}!>!D,/z/ {D,,A,,}!>!D,//E,//F,//G,// A,/A,,/ | D,/z/ {A,,B,,C,}D,/z/ z || \
+D,/z/ D,/z//D,// E,/z//C,//| D,/z/"_Pizz." .D/.A,/ .F,/z/ |\
+G,/z/ (E,/F,/ G,/)z//^G,// | A,/z///(E,///F,///G,/// A,/)z///(E,///F,///G,/// A,/)z/ | \
+D,-D,/z//D,// ^D,/>B,,/ | E,-E,/z/!>!G,, | (.A,,/.A,,/) A,,-A,,/z//A,,// | \
+D,/z/"_Pizz." .D/.A,/ .F,/z/ ||[K:A](A,,E,E,, | A,,-A,,/)E,/C,/A,,/ | \
+D,,/!>!D,D,/D,/!>!B,,/ | [A,,2E,2]z | (A,,E,E,,) | A,,-A,,/E,/C,/A,,/  | \
+D,/B,,/"_Rit" E,E,, | A,,/z/zz ||[K:D] D,/z/ D,/>D,/ E,/>C,/ | \
+D,/z/"Pizz." .D/.A,/ .F,/z/ | "_Arco"(G,E,/)(F,/G,/^G,/) | (A,2A,,) | \
+D,D,/>D,/ ^D,/>B,,/ | E,F,G,,|A,,A,,A,, |D,/z/ .D/.D/!>!G,, | A,A,!///!!fermata! A,, | \
+D,/z/({A,,B,,C,} D,/)z/z |] \
+%-----

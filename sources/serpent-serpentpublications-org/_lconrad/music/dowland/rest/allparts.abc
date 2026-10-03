@@ -1,0 +1,203 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XII. Rest a while, you cruell cares
+T:Cantus.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N: Original clef C on first line
+K:G mix
+z2 z2 B B | d6 | B2 A3 A | G6 | 
+w: 1.~Rest a while you cru- ell cares,
+w: 2.~If I speake, my words want wait,
+w: 3.~Ne- ver houre of pleas- ing rest
+z2 z2 A A | c6 | d2 B2 G2 | A6 |
+w: Be not more se- vere then love. 
+w: Am I mute, my heart doth breake,
+w: Shall re- vive my dy- ing ghost,
+z2 "(1)"z2 A A | A6 | A2 B2 ^c2 | d6 |
+N:Rest is editorial
+w: Beau- tie kils and beau- tie spares
+w: If I sigh, she feares de- ceit,
+w: Till my soule has re- pos- sest,
+B3 B c2 | G2 A2 A2 | G6 |
+w: And sweet smiles sad sighes re- move:
+w: Sor- row then for me must speake:
+w: The sweet hope which love hath lost:
+K:G dor
+z2 z2 z2 | G3 A B2 | A4 A2 B4 c2 | d6 |
+w: Lau- ra, faire queene of my de- light,
+w: Cru- ell, un- kind, with fa- vour view
+w: Lau- ra re- deeme the soule that dies,
+d2 d2 c2 | B4 A2 | B2 G4 | ^F6 |
+w: Come grant me love in loves de- spite,
+w: The wound that first was made by you:
+w: By fu- rie of thy mur- dering eyes:
+A > B c2 B2 | A4 B A | G3 A/ B/ c B A6 
+w: And _ if I e- ver _ faile _ to ho- nor thee:
+w: And _ if my tor- ments _ fay- * _ ned _ be,
+w: And _ if it prove un- * kinde _ _ to _ thee,
+|:B4 A2 | G3 A B c | d2 c2 c2 | d6 | 
+w: 1\-3.~Let this hea- ven- * _ ly light I see,
+d4 c2 | B6 | c2 A2 A2 | G6 :|
+w: Bee as darke as hell to me.
+
+X:2
+T:XII. Rest a while, you cruell cares
+T:Altus.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on second line
+K:G mix
+z2 z2 G G G6 D2 D3 C B,6 
+w: 1.~Rest a while you cru- ell cares,
+w:  2.~If I speake, my words want wait,
+w: 3.~Ne- ver houre of pleas- ing rest
+z2 z2 ^F F A6 A2 G3 G ^F6 
+w: Be not more se- vere then love. 
+w: Am I mute, my heart doth breake,
+w: Shall re- vive my dy- ing ghost,
+z2 z2 F F F6 F2 G2 G2 ^F6
+w: Beau- tie kils and beau- tie spares
+w: If I sigh, she feares de- ceit,
+w: Till my soule has re- pos- sest,
+D2 D G2 E2 G2 ^F/ E/ ^F2 G6 
+w: And sweet smiles sad sighes re- * _  move:
+w: Sor- row then for me must _ _ speake:
+w: The sweet hope which love hath _ _ lost:
+K:G dor
+N:(2) Key signature change is actually at start of line, not at start of phrase in original
+z2 z2 z2 D2 D2 G2 ^F4 F2 G4 A2 B6
+w: Lau- ra, faire queene of my de- light,
+w: Cru- ell, un- kind, with fa- vour view
+w: Lau- ra re- deeme the soule that dies,
+B2 B2 A2 G4 F2 D4 C2 D6
+w: Come grant me love in loves de- spite,
+w: The wound that first was made by you:
+w: By fu- rie of thy mur- dering eyes:
+C F2 A G > G "(3)"^F4 D4 G3 G ^F6
+w: And if I e- ver faile to ho- nor thee:
+w: And if my tor- ments fay- * ned * be,
+w: And if it prove un- kinde _ to * thee,
+|:F4 F2 _E3 F G A B2 B2 A2 B6
+w: 1\-3.~Let this hea- * _ ven- ly light I see,
+B4 A2 G6 G2 G2 ^F2 G6 :|
+w: Bee as darke as hell to me.
+
+
+
+X:3
+T:XII. Rest a while, you cruell cares
+T:Tenor.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef C on third line
+K:G mix -8va
+%%MIDI transpose -12
+z2 z2 d d B6 z G2 ^F/ E/ F2 G6
+w: 1.~Rest a while you cru- * ell cares,
+w:  2.~If I speake, my words _ want wait,
+w: 3.~Ne- ver houre of pleas- * ing rest
+z2 z2 c c f6 ^f2 d2 e2 A6
+w: Be not more se- vere then love. 
+w: Am I mute, my heart doth breake,
+w: Shall re- vive my dy- ing ghost,
+z2 z2 d d d6 d2 d2 e2 A6
+w: Beau- tie kils and beau- tie spares
+w: If I sigh, she feares de- ceit,
+w: Till my soule has re- pos- sest,
+G B > c d e c c > B d3 c B6
+w: And sweet _ smiles _ sad sighes _ re- * move:
+w: Sor- row _ then _ for me _ must _ speake:
+w: The sweet _ hope _ which love _ hath _ lost:
+K: G dor -8va
+z2 z2 z2 B3 c d2 d4 d2 d4 f2 f6
+w: Lau- ra, faire queene of my de- light,
+w: Cru- ell, un- kind, with fa- vour view
+w: Lau- ra re- deeme the soule that dies,
+f2 f2 f2 d4 d3 B2 B A G A6
+w: Come grant me love in loves de- * _ spite,
+w: The wound that first was made by _ _ you:
+w: By fu- rie of thy mur- dering _ _ eyes:
+z c A F B > c d4 f2 B4 A G d6
+w: And if I e- ver faile to ho- nor  _ thee:
+w: And if my tor- * ments fay- ned _ _ be,
+w: And if it prove * un- kinde to _ _ thee,
+|: d4 d2 B6 f2 f3 f f6
+w: 1\-3.~Let this hea- v'nly light I see,
+f4 f2 d4 _e4 d3 c =B6 :|
+w: Bee as darke as hell to me.
+
+
+
+
+X:4
+T:XII. Rest a while, you cruell cares
+T:Bassus.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+%%MIDI transpose -24
+K:G mix bass
+z2 z2 g g g6 g2 d2 d2 G6
+w: 1.~Rest a while you cru- ell cares,
+w:  2.~If I speake, my words want wait,
+w: 3.~Ne- ver houre of pleas- ing rest
+z2 z2 f f f6 d2 g2 e2 d6 
+w: Be not more se- vere then love. 
+w: Am I mute, my heart doth breake,
+w: Shall re- vive my dy- ing ghost,
+z2 z2 d d d6 d2 g2 e2 d6
+w: Beau- tie kils and beau- tie spares
+w: If I sigh, she feares de- ceit,
+w: Till my soule has re- pos- sest,
+g3 g c2 e2 d2 d2 G6
+w: And sweet smiles sad sighes re- move:
+w: Sor- row then for me must speake:
+w: The sweet hope which love hath lost:
+K:G dor bass
+z2 z2 z2 G2 G2 G2 d4 d2 g4 f2 B6
+w: Lau- ra, faire queene of my de- light,
+w: Cru- ell, un- kind, with fa- vour view
+w: Lau- ra re- deeme the soule that dies,
+B > c d _e f2 g4 d2 B2 _e4 d6
+w: Come _ grant _ me love in loves de- spite,
+w: The _ wound _ that first was made by you:
+w: By _ fu- * rie of thy mur- dering eyes:
+f2 f2 g2 d4 B2 _e3 d c c d6
+w: And if I e- ver faile to ho- nor thee:
+w: And if my tor- ments fay- * _ ned be,
+w: And if it prove un- kinde _ _ to thee,
+|:B > c d _e f d _e6 B2 f2 f2 B6
+w: 1\-3.~Let _ _ _ _  this hea- v'nly light I see,
+B > c d _e f2 g3 f _e d c2 d2 d2 G6 :|
+w: Bee _ _ _ as darke _ _ _ as hell to me.

@@ -1,0 +1,62 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:IIII. Daphne was not so chaste as she was changing,
+T:Cantus
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+K:F
+|:c c/ c/  c c c3 c d e f2 e4 |
+w:He that to day tri- umphs with fa- vors gra- ced, 
+w:Like to a fruit- full tree it e- ver grow- eth,
+z c > c d B3 c | A B/ A/ G2 F3 ::
+w:Soon be- gun Love with hate es- * tran- ging:
+w:Fals be- fore night with scornes de- * fa- ced:
+w:Fan- cie by lookes is still re- * nu- ed:
+w:Or the fresh- spring that end- lesse * flow- eth.
+f e > e d > d | c3 c f e f d | e 
+w:Yet is thy beau- tie fainde, and ev- rie one de- sires, 
+w:But if that beau- tie were of one con- sent with love,
+A > B c/ A/ | d3 c > B A2 A > G G > F F2 E F :|
+w:Still _ _ the false light,  the false light of thy _ trai- terous fires.
+w:Love _ _ should live free,  should live free, and true _ plea- sure prove.
+
+X:2
+T:IIII. Daphne was not so chaste as she was changing,
+T:Bassus
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+%%MIDI transpose -24
+K:F bass
+|:f f/ f/ f f f3 f2 e d2 c4 f3 B
+_e3 c d B c2 F3 :: F c > d e > f %g
+%G 
+"(1)"c > d e f d a f b a2 d' c' b2 a2 g2
+N:(1) Original has two g quarter notes before this note.  These are not in the lute tablature, and cause the whole section to be the wrong length and sound terrible.
+f2 c2 d f c2 F :|

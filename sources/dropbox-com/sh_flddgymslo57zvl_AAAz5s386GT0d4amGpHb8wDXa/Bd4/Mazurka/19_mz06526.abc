@@ -1,0 +1,63 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka CBb (mz06526) ABAC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.192 (mz06526) orig. C,Bb
+T: Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+T:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21  % errors with my placing the parts [P: ]
+%%partsbox
+P:ABAC
+R:Mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+[P:A] "C"E2G2c2 | ("G7"B4A2) | D2F2B2 | ("C"A4G2) | E2G2e2 | "Dm".e2.d2.d2 | "G7"c2B2B2 | 
+"C"A2G2G2 | E2G2c2 | ("G7"B4A2) | D2F2B2 | ("C"A4G2) | E2G2e2 | E2G2c2 | 
+"Dm"F2A>c "G7"B>d | "C"c2c2z2 :: [P:B] "C"Ge eG Gc | "G7"c>dB2B2 | Gf fG Gd | "C"d>ec2c2 | Ge eG Gc | 
+"G"c>dB2B2 |1 "F"B>cA2A2 | "C"A>BG2G2 :|2 "G7"B>c A>G F>d | "C"c2c2"_>Teil A"z2 |: [P:C] [K:Bb]  "Bb"d2 ^cd ed | 
+"C7"=BcG2G2 | "F"c2=Bc dc | "Bb"AB F2F2 | B2AB cB | "Cm"^fg c2c2 | "F7"^fg c2c2 | "Bb"=efB2B2 | 
+d2^cd  ed | "C7"=BcG2G2 | "F7"c2=Bc dc | "Bb"AB F2F2 | B2AB cB | "Cm"^fg c2c2 | "F7"G>F A>G d>c | "Bb"B2B2z2 :| 
+% mz06526
+% Jan 18, 2017
+X:2
+T:Mazurka GC 7+ (mz06526)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.192 (mz06526) orig. C,Bb
+S:Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+S:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21  % errors with my placing the parts [P: ]
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"B2d2g2 | ("D7"f4e2) | A2c2f2 | ("G"e4d2) | B2d2b2 | "Am".b2.a2.a2 | "D7"g2f2f2 | 
+"G"e2d2d2 | B2d2g2 | ("D7"f4e2) | A2c2f2 | ("G"e4d2) | B2d2b2 | B2d2g2 | 
+"Am"c2e>g "D7"f>a | "G"g2g2z2 :: "G"db bd dg | "D7"g>af2f2 | dc' c'd da | "G"a>bg2g2 | db bd dg | 
+"D"g>af2f2 |1 "C"f>ge2e2 | "G"e>fd2d2 :|2 "D7"f>g e>d c>a | "G"g2g2"_>Teil A"z2 |: [K:F] "F"a2 ^ga ba | 
+"G7"^fgd2d2 | "C"g2^fg ag | "F"ef c2c2 | f2ef gf | "Gm"^c'd' g2g2 | "C7"^c'd' g2g2 | "F"=bc'f2f2 | 
+a2^ga ba | "G7"^fgd2d2 | "C7"g2^fg ag | "F"ef c2c2 | f2ef gf | "Gm"^c'd' g2g2 | "C7"d>c e>d a>g | "F"f2f2z2 :| 
+W:Parts: ABAC
+% mz06526
+% Jan 18, 2017
+
+X:3
+T:Mazurka GC 5- (mz06526)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.192 (mz06526) orig. C,Bb
+S:Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+S:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21  % errors with my placing the parts [P: ]
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"B,2D2G2 | ("D7"F4E2) | A,2C2F2 | ("G"E4D2) | B,2D2B2 | "Am".B2.A2.A2 | "D7"G2F2F2 | 
+"G"E2D2D2 | B,2D2G2 | ("D7"F4E2) | A,2C2F2 | ("G"E4D2) | B,2D2B2 | B,2D2G2 | 
+"Am"C2E>G "D7"F>A | "G"G2G2z2 :: "G"DB BD DG | "D7"G>AF2F2 | Dc cD DA | "G"A>BG2G2 | DB BD DG | 
+"D"G>AF2F2 |1 "C"F>GE2E2 | "G"E>FD2D2 :|2 "D7"F>G E>D C>A | "G"G2G2"_>Teil A"z2 |: [K:F] "F"A2 ^GA BA | 
+"G7"^FGD2D2 | "C"G2^FG AG | "F"EF C2C2 | F2EF GF | "Gm"^cd G2G2 | "C7"^cd G2G2 | "F"=BcF2F2 | 
+A2^GA BA | "G7"^FGD2D2 | "C7"G2^FG AG | "F"EF C2C2 | F2EF GF | "Gm"^cd G2G2 | "C7"D>C E>D A>G | "F"F2F2z2 :| 
+W:Parts: ABAC
+% mz06526
+% Jan 18, 2017

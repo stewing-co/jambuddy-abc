@@ -1,0 +1,25 @@
+X:1405
+T:N.18-19
+C:Antonio Thomaz de Lima
+M:C
+L:1/4
+K:B
+V: 5 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%----- edit between the lines ------
+"_[fol.46]" [Q:""]
+!fff! !>!B,,/z/z/ !>!B,,/ !>!B,,/z/z/ !>!B,,/ | "_[fol.47]" !>!B,,/z/z/ !>!B,,/ !>!B,,/z/z/ !>!B,,/ |\
+!>!B,,/z/z/ !>!B,,/ !>!B,,/z/z/ !>!B,,/ | !>!B,,/z/z/ !>!B,,/ !>!B,,/z/z/ !>!B,,/ | \
+!mf! !>!F,,/ z/ z/ !>!F,,/ !>!G,,/ z/ z/ !>!G,,/ | !>!=A,,/ z/ z/ !>!A,,/ !>!B,,/ z/ z/ !>!B,,/|
+"_[fol.48]" =F,,/ z/ z/ !>!G,,/ !>!=A,,/ z/ z/ !>!A,,/ | !>!B,,/ z/ z/ !>!B,,/ !>!C,/ z/ z/ !>!C,/ ||\
+[M:2/4] z !fff! !sfz! F,, || [M:C] !fff! B,,/ z/ B,,/ z/ B,,/ z/ =A,,/ z/ | E,/ z/ E,/ z/ E,/ z/ =D,/ z/ |\
+"_[fol.49]" =C,/ !>!=G,,/ !>!C, !>!C,/!>!G,,/ !>!C, | !>!=C,/!>!=G,,/ !>!C, !>!=C,/!>!=G,,/ !>!C, |\
+!mf! "_pizz" =D,/ z/ z  =D,/ z/  z | =G,/ z/ =G,,/ =C,/ !//!C,2 |\
+!/!=C,2 !/!D, // !/!E, | "^(19)" \
+"_[fol.50]" "_arco" =C,/ z/ =C,/ z/ =G,/ z/ =G,/ z/ |\
+=C,/ z/ =C,/ z/ =G,/ z/ =G,/ z/ | X | \
+z/ !downbow! _A, !downbow! _B,/ !downbow! =C/!downbow!A,/ !downbow! _B,/!downbow! _G,/ |\
+"_[fol.51]" !sfz! (G,,3 G,,/) z/ || [M:4/8] X5 | \
+"_[fol.52]" X | z !tremolo! F,,/B,,/ | F,/!>!B,/ z | X | !sfz! B,,2 | B,, z ||
+%-----------------------------------

@@ -1,0 +1,23 @@
+X:1302
+T:N.13 Solo e coro
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:C
+V: 2 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+[V: 2]	%---
+[Q:"Allegretto"] !f!([Bg]ag) ([Bb]ag) | g ([eac']2 [eac']3) | (bag) (fed) | \
+c [EG,] zz [FG,] z |  z [EG,] zz [FG,] z | z [EG,] zz [EG,] z !segno!|| \
+!p! z"_Pizz." [B,F]z z[B,F]z | z[G,E]z z[G,E]z | z[G,F]z z[G,F]z |  z[G,E]z z[G,E]z | z[G,F]z z[G,F]z | \
+z[G,E]z z[A,E]z | z[B,D]z z[CD]z | z!/!.[B,D]2 "arco"[B,D][G,G][G,G] || \
+bag fga | ee2 (ega) | gfe def | (fe2) (gfe) | bag fga | ee2 egc'| bag d'c'b !coda!|| c' \
+[Q: "Lento"] !p! [G,E]z z[G,F]z | z[G,E]z z[G,F]z | !p! z"_Pizz." [G,E]z z[G,F]z | z[G,E]z z[G,F]z | \
+z[G,E]z z[G,E]z |: [Q: "1.o tempo"] !p! z"_Pizz." [B,F]z z[B,F]z | z[G,E]z z[G,E]z | z[G,F]z z[G,F]z |  z[G,E]z z[G,E]z | z[G,F]z z[G,F]z | \
+z[G,E]z z[A,E]z | z[B,D]z z[CD]z | z!/!.[B,D]2 "arco"[B,D][G,G][G,G] || \
+bag fga |  ee2 (egc') | bag fed  | c [EG,]z z[FG,]z | c [EG,]z z[FG,]z | \
+z [EG,]z z[FG,]z | z [EG,]z z[FG,]z | z [EG,]z z[EG,]z \
+"_Esta""_repeti\cc\~ao""_faz-se""_3 vezes" :| X [Q:"A tempo"] !segno!|| "_Repete" X !coda!|| \
+c'zz !/![ec']3 | [ec']2z [ec']2z | [ec']2z z2z |]
+%---

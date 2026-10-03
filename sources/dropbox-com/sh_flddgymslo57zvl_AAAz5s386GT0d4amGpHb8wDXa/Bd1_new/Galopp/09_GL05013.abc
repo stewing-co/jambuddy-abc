@@ -1,0 +1,37 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Galopp  FCBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.317 (GL05013) orig. F,C,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F".f2"C7".e2 | "F"fc/c/ c2 | "C7"g2"C0"^f2 | "C7"gc/c/c2 |: "F".a2.g2 | "C7".b2.e2 | "F".g2.f2 | c3c | "C7".f2.e2 | B3B | 
+"F".d2.c2 | A2 ((3Acf) | .a2.g2 | "C7".b2.e2 | "F".g2.f2 | c3c | "Bb".d2.b2 | "F".a2.f2 | "C7".e2!>!g2 | "F"ff fz :: [K:C] 
+"C"g>^fg2 |  zz/g/ a>b | c'>bc'2 | zz/c'/ b>a | "G7"g>^f g>f | g>f e>d | "C"e>dc2 |1 zz/c/ e>f :|2 c2z2 || [K:F]
+|: "C7".b2.g2 | "F".a2.f2 | "C7"efg2 | "F"fga2 | "C7".b2.g2 | "F".a2.f2 | "C7"efg2 | "F"ff fz :: [K:Bb] 
+"Bb"(f2.b2) | (b2.d2) | "Cm"(e2.g2) | (g2.c2) | "F7"(c2.e2) | (e2.A2) | "Bb"B>A B>c |1 d>c d>e :|2 "Bb"B>b "F7"a>c' | "Bb"b2z2 |] 
+
+X:2
+T: Galopp  FCBb (Anm.)
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F".f2"C7".e2 | "F"fc/c/ c2 | "C7"g2"C0""_#"^f2 | "C7"g"_c"c/c/c2 |: "F".a2.g2 | "C7""_b".b2"_e".e2 | "F".g2.f2 | c3c | "C7".f2"_e".e2 | "_b"B3B | 
+"F".d2.c2 | A2 ((3Acf) | .a2.g2 | "C7""_b".b2"_e".e2 | "F".g2.f2 | c3c | "Bb""_d".d2"_b".b2 | "F".a2"_ =".f2 | "C7""_e".e2"_g"!>!g2 | "F"ff fz :: [K:C] 
+"C"g>^fg2 |  zz/g/ a>b | c'>bc'2 | zz/c'/ b>"_ ="a | "G7"g>^f g>f | g>f e>"_ ="d | "C"e>dc2 |1 zz/c/ e>f :|2 c2z2 || [K:F]
+|: "C7""_b".b2"_ g =".g2 | "F".a2"_ =".f2 | "C7"efg2 | "F"fga2 | "C7".b2"_g".g2 | "F".a2"_ =".f2 | "C7"efg2 | "F"ff fz :: [K:Bb] 
+"Bb"(f2"_b".b2) | "_b"(b2"_d".d2) | "Cm"("_(es"e2.g2) | (g2.c2) | "F7""_c"(c2"_es".e2) | ("_es"e2"_ a =".A2) | "Bb"B>A B>c |1 d>c d>"_es"e :|2 "Bb""_b"B>"_b"b "F7"a>"_ ="c' | "Bb"b2z2 |] 
+
+X:3
+T:Galopp  CGF 5- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C".c2"G7".B2 | "C"cG/2G/2 G2 | "G7"d2"G0"^c2 | "G7"dG/2G/2G2 |: "C".e2.d2 | "G7".f2.B2 | "C".d2.c2 | G3G | "G7".c2.B2 | F3F | 
+"C".A2.G2 | E2 ((3EGc) | .e2.d2 | "G7".f2.B2 | "C".d2.c2 | G3G | "F".A2.f2 | "C".e2.c2 | "G7".B2!>!d2 | "C"cc cz :: [K:Gmaj] 
+"G"d>^cd2 | zz/2d/2 e>f | g>fg2 | zz/2g/2 f>e | "D7"d>^c d>c | d>c B>A | "G"B>AG2 |1 zz/2G/2 B>c :|2 G2z2 || [K:Cmaj]
+|: "G7".f2.d2 | "C".e2.c2 | "G7"Bcd2 | "C"cde2 | "G7".f2.d2 | "C".e2.c2 | "G7"Bcd2 | "C"cc cz :: [K:Fmaj] 
+"F"(c2.f2) | (f2.A2) | "Gm"(B2.d2) | (d2.G2) | "C7"(G2.B2) | (B2.E2) | "F"F>E F>G |1 A>G A>B :|2 "F"F>f "C7"e>g | "F"f2z2 |] 

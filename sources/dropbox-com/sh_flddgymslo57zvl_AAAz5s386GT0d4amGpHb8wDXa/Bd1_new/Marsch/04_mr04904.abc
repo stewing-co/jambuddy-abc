@@ -1,0 +1,69 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Marsch (nach B\"achthold)  FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhause, St. Gallen I. S.343 (mr04904) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"FF/F/ FC/F/ | AF/F/ FC/F/ | AA/A/ AF/A/ | cc/c/ cz |: "C7"AG GG | B3E | "F"GF FF | 
+A3c/d/ | "C7"(cB) .B.B | e3d | "F"(dc) .c.c | A3A/B/ | "C7"AG GG | B3E | "F"GF FF | A3A | 
+"G7"GA/G/ ^F/G/A/B/ | "C"cE AG | "G7"(=B2B/)A/F/D/ | "C"Cc cz :: "C7"!>!C2!>!B2 | !>!D2!>!E2 | "F"GF EF | A3A/B/ | "C7"AG ^FG | 
+c3=B/c/ | "F"dc G^G | A3F/D/ | "C7"!>!C2!>!B2 | !>!D2!>!E2 | "F"GF EF | "D7"A3A/A/ |"Gm"G2d2 | "F/C"c>A FD | 
+"C7"D/C/=B,/C/ A>G | "F"FF Fz :: [K:Bb] "Bb"z4 | z2D>E | .F2 (!>!F2 | .F2) B>c | "F7".B2(!>!A2 | .A2) C>D | .E2 (!>!A2 | 
+.A2)D>E | "Bb".F2 (!>!d2 | .d2)c>B | "F".A2 (!>!c2 | .c2) A>F | "C7"C3=B,/C/ | A3G | "F"FF/F/ FF | FF FF | 
+"F7".c(=B/d/) .c(B/d/) | .c(=B/d/)c2 | "Bb"d>B BG | .F(=E/G/) F2 | "F7".c(=B/d/) .c(B/d/) | .c(=B/d/)c2 | "Bb"dB "F7"AG/A/ | "Bb"BB Bz :| 
+
+X:2
+T:Marsch (nach B\"achthold)  CF 7+ chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"cc/2c/2 cG/2c/2 | ec/2c/2 cG/2c/2 | ee/2e/2 ec/2e/2 | gg/2g/2 gz |: "G7"ed dd | f3B | "C"dc cc | 
+e3g/2a/2 | "G7"(gf) .f.f | b3a | "C"(ag) .g.g | e3e/2f/2 | "G7"ed dd | f3B | "C"dc cc | e3e | 
+"D7"de/2d/2 ^c/2d/2e/2f/2 | "G"gB ed | "D7"(^f2f/2)e/2c/2A/2 | "G"Gg gz :: "G7"!>!G2!>!f2 | !>!A2!>!B2 | "C"dc Bc | e3e/2f/2 | "G7"ed ^cd | 
+g3^f/2g/2 | "C"ag d^d | e3c/2A/2 | "G7"!>!G2!>!f2 | !>!A2!>!B2 | "C"dc Bc | "A7"e3e/2e/2 |"Dm"d2a2 | "C/G"g>e cA | 
+"G7"A/2G/2^F/2G/2 e>d | "C"cc cz :: [K:Fmaj] "F"z4 | z2A>B | .c2 (!>!c2 | .c2) f>g | "C7".f2(!>!e2 | .e2) G>A | .B2 (!>!e2 | 
+.e2)A>B | "F".c2 (!>!a2 | .a2)g>f | "C".e2 (!>!g2 | .g2) e>c | "G7"G3^F/2G/2 | e3d | "C"cc/2c/2 cc | cc cc | 
+"C7".g(^f/2a/2) .g(f/2a/2) | .g(^f/2a/2)g2 | "F"a>f fd | .c(=B/2d/2) c2 | "C7".g(^f/2a/2) .g(f/2a/2) | .g(^f/2a/2)g2 | "F"af "C7"ed/2e/2 | "F"ff fz :| 
+
+X:3
+T:Marsch (nach B\"achthold)  GC 2+ chords
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"GG/2G/2 GD/2G/2 | BG/2G/2 GD/2G/2 | BB/2B/2 BG/2B/2 | dd/2d/2 dz |: "D7"BA AA | c3F | "G"AG GG | 
+B3d/2e/2 | "D7"(dc) .c.c | f3e | "G"(ed) .d.d | B3B/2c/2 | "D7"BA AA | c3F | "G"AG GG | B3B | 
+"A7"AB/2A/2 ^G/2A/2B/2c/2 | "D"dF BA | "A7"(^c2c/2)B/2G/2E/2 | "D"Dd dz :: "D7"!>!D2!>!c2 | !>!E2!>!F2 | "G"AG FG | B3B/2c/2 | "D7"BA ^GA | 
+d3^c/2d/2 | "G"ed A^A | B3G/2E/2 | "D7"!>!D2!>!c2 | !>!E2!>!F2 | "G"AG FG | "E7"B3B/2B/2 |"Am"A2e2 | "G/D"d>B GE | 
+"D7"E/2D/2^C/2D/2 B>A | "G"GG Gz :: [K:Cmaj] "C"z4 | z2E>F | .G2 (!>!G2 | .G2) c>d | "G7".c2(!>!B2 | .B2) D>E | .F2 (!>!B2 | 
+.B2)E>F | "C".G2 (!>!e2 | .e2)d>c | "G".B2 (!>!d2 | .d2) B>G | "D7"D3^C/2D/2 | B3A | "G"GG/2G/2 GG | GG GG | 
+"G7".d(^c/2e/2) .d(c/2e/2) | .d(^c/2e/2)d2 | "C"e>c cA | .G(^F/2A/2) G2 | "G7".d(^c/2e/2) .d(c/2e/2) | .d(^c/2e/2)d2 | "C"ec "G7"BA/2B/2 | "C"cc cz :| 
+
+X:4
+T:Marsch (nach B\"achthold)  EbAb (5letras) cf. CF
+M:2/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+"Eb"ee/2e/2 eB/2e/2 | ge/2e/2 eB/2e/2 | gg/2g/2 ge/2g/2 | bb/2b/2 bz |: "Bb7"gf ff | a3d | "Eb"fe ee | 
+g3b/2c'/2 | "Bb7"(ba) .a.a | d'3c' | "Eb"(c'b) .b.b | g3g/2a/2 | "Bb7"gf ff | a3d | "Eb"fe ee | g3g | 
+"F7"fg/2f/2 =e/2f/2g/2a/2 | "Bb"bd gf | "F7"(=a2a/2)g/2e/2c/2 | "Bb"Bb bz :: "Bb7"!>!B2!>!a2 | !>!c2!>!d2 | "Eb"fe de | g3g/2a/2 | "Bb7"gf =ef | 
+b3=a/2b/2 | "Eb"c'b f^f | g3e/2c/2 | "Bb7"!>!B2!>!a2 | !>!c2!>!d2 | "Eb"fe de | "C7"g3g/2g/2 |"Fm"f2c'2 | "Eb/Bb"b>g ec | 
+"Bb7"c/2B/2=A/2B/2 g>f | "Eb"ee ez :: [K:Abmaj] "Ab"z4 | z2c>d | .e2 (!>!e2 | .e2) a>b | "Eb7".a2(!>!g2 | .g2) B>c | .d2 (!>!g2 | 
+.g2)c>d | "Ab".e2 (!>!c'2 | .c'2)b>a | "Eb".g2 (!>!b2 | .b2) g>e | "Bb7"B3=A/2B/2 | g3f | "Eb"ee/2e/2 ee | ee ee | 
+"Eb7".b(=a/2c'/2) .b(a/2c'/2) | .b(=a/2c'/2)b2 | "Ab"c'>a af | .e(=d/2f/2) e2 | "Eb7".b(=a/2c'/2) .b(a/2c'/2) | .b(=a/2c'/2)b2 | "Ab"c'a "Eb7"gf/2g/2 | "Ab"aa az :| 
+
+X:5
+T:Marsch (nach B\"achthold)  BbEb (5letras) cf. GC
+M:2/4
+L:1/8
+K:Bbmaj%%MIDI gchordon
+"Bb"BB/2B/2 BF/2B/2 | dB/2B/2 BF/2B/2 | dd/2d/2 dB/2d/2 | ff/2f/2 fz |: "F7"dc cc | e3A | "Bb"cB BB | 
+d3f/2g/2 | "F7"(fe) .e.e | a3g | "Bb"(gf) .f.f | d3d/2e/2 | "F7"dc cc | e3A | "Bb"cB BB | d3d | 
+"C7"cd/2c/2 =B/2c/2d/2e/2 | "F"fA dc | "C7"(=e2e/2)d/2B/2G/2 | "F"Ff fz :: "F7"!>!F2!>!e2 | !>!G2!>!A2 | "Bb"cB AB | d3d/2e/2 | "F7"dc =Bc | 
+f3=e/2f/2 | "Bb"gf c^c | d3B/2G/2 | "F7"!>!F2!>!e2 | !>!G2!>!A2 | "Bb"cB AB | "G7"d3d/2d/2 |"Cm"c2g2 | "Bb/F"f>d BG | 
+"F7"G/2F/2=E/2F/2 d>c | "Bb"BB Bz :: [K:Ebmaj] "Eb"z4 | z2G>A | .B2 (!>!B2 | .B2) e>f | "Bb7".e2(!>!d2 | .d2) F>G | .A2 (!>!d2 | 
+.d2)G>A | "Eb".B2 (!>!g2 | .g2)f>e | "Bb".d2 (!>!f2 | .f2) d>B | "F7"F3=E/2F/2 | d3c | "Bb"BB/2B/2 BB | BB BB | 
+"Bb7".f(=e/2g/2) .f(e/2g/2) | .f(=e/2g/2)f2 | "Eb"g>e ec | .B(=A/2c/2) B2 | "Bb7".f(=e/2g/2) .f(e/2g/2) | .f(=e/2g/2)f2 | "Eb"ge "Bb7"dc/2d/2 | "Eb"ee ez :| 

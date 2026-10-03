@@ -1,0 +1,95 @@
+X:1
+% A: A-Area
+% B: B-Book
+C: Culebr\'on Timbal
+D: Territorio
+% G: G-Group
+% H: H-History
+% N: N-Notes
+% O: O-Origin
+% S: S-Source
+T:Sueño de mi barrio
+% Z: Z-Transcription note
+M:4/4
+L:1/8
+Q:1/4=100
+K:Eb
+V:1 name="Alto"
+%%MIDI program 65
+V:2 name="Tenor 1"
+%%MIDI program 65
+V:3 name="Tenor 2"
+%%MIDI program 65
+[V:1] Z8 |:
+[V:2] Z8 |:
+[V:3] Z8 |:
+% Measure 9
+[V:1] z/ c3/ e2 c2 _G2 	 | =G/GG/ z G z D z2  | 
+[V:2] z/ C3/ E2 C2 _G,2	 | E/EE/ z E z B, z2  | 
+[V:3] z/ C3/ E2 C2 _G,2  | C/CC/ z C z G, z2  | 
+%
+[V:1] z/ c3/ e2 c/c/ z E/E/E/E/       |1 z4 c/c/G/G/ z2 :|2 
+[V:2] z/ C3/ E2 G/G/ z B,/B,/C/C/     |1 z4 G/G/E/E/ z2 :|2
+[V:3] z/ C3/ E2 E/E/ z _G,/G,/=G,/G,/ |1 z4 E/E/C/C/ z2 :|2
+%
+[V:1] z4 c/c/G/G/ _G/G/=G/G/ || Z8 |: 
+[V:2] z4 G/G/E/E/ D/D/E/E/   || Z8 |: 
+[V:3] z4 E/E/C/C/ B,/B,/C/C/ || Z8 |:
+%
+[V:1] G2 E2 _G3/ G     | F/FF/- F/F/E z4       | G2 E2 E3 E      | F/FF/- F/F/E z4       :|
+[V:2] C2 C2 E3/ E      | C/CC/- C/C/B, z4      | C2 C2 C3 C      | C/CC/- C/C/B, z4      :|
+[V:3] G,2 E,2 _G,3/ G, | F,/F,F,/- F,/F,/E, z4 | G,2 E,2 _G,3 G, | F,/F,F,/- F,/F,/E, z4 :|
+%
+[V:1] Z8 |: 
+[V:2] Z8 |:
+[V:3] Z8 |:
+%
+[V:1] G2 E2 _G3 G     | F/FF/- F/F/E z4       | G2 E2 E3 E      | F/FF/- F/F/E z4       :|
+[V:2] C2 C2 E3 E      | C/CC/- C/C/B, z4      | C2 C2 C3 C      | C/CC/- C/C/B, z4      :|
+[V:3] G,2 E,2 _G,3 G, | F,/F,F,/- F,/F,/E, z4 | G,2 E,2 _G,3 G, | F,/F,F,/- F,/F,/E, z4 :|
+%
+[V:1] _A4 ABcc-    | c4 c2 c2 | _A4 z2 c/c/ z  | G3/G- GG z4     |
+[V:2] _E4 EFGG-    | G4 G2 G2 | _E4 z2 G/G/ z  | D3/D- DD z4     |
+[V:3] _A,4 A,B,CC- | C4 C2 C2 | _A,4 z2 C/C/ z | G,3/G,- G,G, z4 |
+%
+[V:1] _A4 ABcc-    | c4 c2 c2 | _A4 z2 c/c/ z  | B2 B2 B2 B2     |
+[V:2] _E4 EFGG-    | G4 G2 G2 | _E4 z2 G/G/ z  | D2 D2 D2 D2     |
+[V:3] _A,4 A,B,CC- | C4 C2 C2 | _A,4 z2 C/C/ z | B,2 B,2 B,2 B,2 |
+%
+[V:1] c8   | B8  |: c8  | d8  | e8  | C8  :| Z8 |:
+[V:2] E8   | G,8 |: C8  | B,8 | C8  | G,8 :| Z8 |:
+[V:3] _A,8 | E,8 |: C,8 | D,8 | E,8 | E,8 :| Z8 |:
+%
+[V:1] G2 E2 _G3/ G     | F/FF/- F/F/E z4       | G2 E2 E3 E      | F/FF/- F/F/E z4       :|
+[V:2] C2 C2 E3/ E      | C/CC/- C/C/B, z4      | C2 C2 C3 C      | C/CC/- C/C/B, z4      :|
+[V:3] G,2 E,2 _G,3/ G, | F,/F,F,/- F,/F,/E, z4 | G,2 E,2 _G,3 G, | F,/F,F,/- F,/F,/E, z4 :|
+%
+[V:1] _A4 ABcc-    | c4 c2 c2 | _A4 z2 c/c/ z  | G3/G- GG z4     |
+[V:2] _E4 EFGG-    | G4 G2 G2 | _E4 z2 G/G/ z  | D3/D- DD z4     |
+[V:3] _A,4 A,B,CC- | C4 C2 C2 | _A,4 z2 C/C/ z | G,3/G,- G,G, z4 |
+%
+[V:1] _A4 ABcc-    | c4 c2 c2 | _A4 z2 c/c/ z  | B2 B2 B2 B2     |
+[V:2] _E4 EFGG-    | G4 G2 G2 | _E4 z2 G/G/ z  | D2 D2 D2 D2     |
+[V:3] _A,4 A,B,CC- | C4 C2 C2 | _A,4 z2 C/C/ z | B,2 B,2 B,2 B,2 |
+%
+[V:1] c8   |: Z8 :||: 
+[V:2] E8   |: Z8 :||:
+[V:3] _A,8 |: Z8 :||:
+%
+[V:1] e2 c2 c2 BG   | B/cc/- c/B/c z4   | e2 c2 c2 BG   |1 B/cc/- c/B/c z4   :|2
+[V:2] B2 G2 G2 FD   | F/GG/- G/F/G z4   | B2 G2 G2 FD   |1 F/GG/- G/F/G z4   :|2
+[V:3] E2 C2 C2 B,G, | B,/CC/- C/B,/C z4 | E2 C2 C2 B,G, |1 B,/CC/- C/B,/C z4 :|2
+%
+[V:1] B/c/ z z2 dc/=A/- A2    |]
+[V:2] F/G/ z z2 GF/=D/- D2    |]
+[V:3] B,/C/ z z2 DC/=A,/- A,2 |] 
+
+
+
+
+
+
+
+
+
+

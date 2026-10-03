@@ -1,0 +1,34 @@
+X:206
+T:Allegro
+C:Joao de Sousa Carvalho (1745-1798)
+M:C
+L:1/4
+K:F
+V: 6 clef=treble name="Violini II" sname="Vl.II"
+%%MIDI program 1 40
+%%staves [{ 6 }]
+%------
+[Q:"Allegro"] F z/>F/ A- A/>c/ |  E z/>E/ G-G/>c/ | !sfz!_E4 | \
+!p! D/A/^F/A/ D/A/F/A/ | D/A/^F/A/ D/A/F/A/ | \
+D/B/G/B/ D/B/G/B/ |D/B/G/B/ D/B/G/B/ | D/A/^F/A/ D/B/G/B/ | D/c/A/c/ D/B/G/B/ | \
+D/A/^F/A/ D z/ !f!(D//E/8^F/8)| G z/>G/ B- B/z//d// | E z/>E/ G-G/z//B// | !f!_D4| \
+C/E/C/E/ C/E/C/E/ | C/E/C/E/ C/E/C/E/ | C/A/F/A/ C/A/F/A/ | C/A/F/A/  C/A/F/A/  | \
+C/E/C/E/ C/A/F/A/ | C/B/G/B/ C/A/F/A/ | C/E/C/E/ Cz| zz/(F/8G/8A/8B/8)c2 | \
+B,/F/D/F/ B,/F/D/F/ | A,/F/C/F/ A,/F/C/F/ | B,.D.D.D | z.D.D.D | zEzE| z.E.E.E | z.D.D.D| \
+zCz=B,| C/G/_E/G/ C/G/E/G/ | =B,/G/D/G/ B,/G/D/G/ | C_EzF | z(_EDF) | \
+C/G/_E/G/ C/G/E/G/ | =B,/G/D/G/ B,/G/D/G/ | C zz2 | !f![CFA]z!p!Cz | B,z=Ez | [CFA]z_Ez | DzB,z| \
+z/.A,/.A,/.A,/ A,/A,/A,/A,/ |z/.C/.C/.C/ C/C/C/C/ | z/.F/.F/.F/ F/F/F/F/ | \
+z.F.F.F | z.F.F.F | zD_D2- | Dz_E2 | DG-G/G/^F/G/ | z.=F.E.D | \
+A//c//A//c// A//c//A//c// B//c//B//c// B//c//B//c// | A/c/A/F/ B/G/E/C/ |  \
+A//c//A//c// A//c//A//c// B//c//B//c// B//c//B//c// | .A/.c/.A/.F/ .B/.G/.E/.C/ | \
+.A/.c/.A/.F/ .B/.G/.E/.C/ | A//A//c//c// A//A//F//F// B//B//G//G// E//E//C//C// | \
+(3F/A/F/ (3C/D/E/ (3F/A/F/ (3C/D/E/ | F !fermata!zz2| z(^FG)z | zC2.F | z.F.E.E| \
+Fz/.C/.Cz/.C/ | Dz/.D/.Ez/.B/ | Az/.C/ ._Ez/E/ | Dz/.d/.Bz/G/|Az/c/Bz/G/ | \
+.A/.c/.A/.c/ .G/.B/.G/.B/ | \
+A//c//A//c// A//c//A//c// G//B//G//B// G//B//G//B// | \
+z//f//f//f// !/!f !/!f2 & A// A//A//A// A//A//A//A// A//A//A//A// A//A//A//A// | \
+!/!f2 !/!f2 & A//A//A//A// A//A//A//A// A//A//A//A// A//A//A//A// | fz!fermata!z2 & Ax3 | \
+% fol 16a
+[A,F] z/>F/ A z/>c/ |  E z/>E/ G z/>c/ | Dz (F2 | D2-)D/B,/G,/B,/ | A,/C/A,/C/ A, {C}B,/A,//G,// | \
+A, z/!f!(C//D/8E/8) F/>F/ ^C/>C/ | D z/(F//G/8A/8) !p!D/>D/ E/>E/ | F z/>A,/ .B,.G, | A,zCz | Czz2  |]\
+%------

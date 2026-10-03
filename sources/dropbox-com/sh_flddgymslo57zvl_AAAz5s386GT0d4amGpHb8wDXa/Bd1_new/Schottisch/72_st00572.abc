@@ -1,0 +1,55 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch BbF chords 
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.257 (st00572) orig. Bb,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:Bb %%MIDI gchordon
+"Bb"d'2b2 f3b | "F7"a2g2 c3d | f2e2 A2Af | "Bb"e2d2B4 | d'2b2 f3b | "F7"a2g2 c3d | f2e2 G2A2 | "Bb"B2B2 B2z2 :: [K:F]
+"C7"cccc d2e2 | "F"f2g2a4 | "C7"c'2c'c' b2e2 | "F"c'c'c'2 a2f2 | "C7"cccc d2e2 | "F"f2g2a4 | "C7"c'c'c'c' b3e | "F"f2a2 f2"_> Teil A"z2 :| 
+
+X:2
+T: Schottisch BbF chords Parts
+P:ABA
+M:2/4
+L:1/16
+K:Bb %%MIDI gchordon
+[P:A] "Bb"d'2b2 f3b | "F7"a2g2 c3d | f2e2 A2Af | "Bb"e2d2B4 | d'2b2 f3b | "F7"a2g2 c3d | f2e2 G2A2 | "Bb"B2B2 B2"_Fine"z2 :: [P:B] [K:F]
+"C7"cccc d2e2 | "F"f2g2a4 | "C7"c'2c'c' b2e2 | "F"c'c'c'2 a2f2 | "C7"cccc d2e2 | "F"f2g2a4 | "C7"c'c'c'c' b3e | "F"f2a2 f2"_> Teil A"z2 :| 
+
+X:3
+T:Schottisch FC 5- chords 
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+"F"a2f2 c3f | "C7"e2d2 G3A | c2B2 E2Ec | "F"B2A2F4 | a2f2 c3f | "C7"e2d2 G3A | c2B2 D2E2 | "F"F2F2 F2z2 :: [K:Cmaj]
+"G7"GGGG A2B2 | "C"c2d2e4 | "G7"g2gg f2B2 | "C"ggg2 e2c2 | "G7"GGGG A2B2 | "C"c2d2e4 | "G7"gggg f3B | "C"c2e2 c2"_> Teil A"z2 :| 
+
+X:4
+T:Schottisch FC 5- chords Parts
+P:ABA
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+[P:A] "F"a2f2 c3f | "C7"e2d2 G3A | c2B2 E2Ec | "F"B2A2F4 | a2f2 c3f | "C7"e2d2 G3A | c2B2 D2E2 | "F"F2F2 F2"_Fine"z2 :: [P:B] [K:Cmaj]
+"G7"GGGG A2B2 | "C"c2d2e4 | "G7"g2gg f2B2 | "C"ggg2 e2c2 | "G7"GGGG A2B2 | "C"c2d2e4 | "G7"gggg f3B | "C"c2e2 c2"_> Teil A"z2 :| 
+
+X:5
+T:Schottisch CG 10- chords 
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"e2c2 G3c | "G7"B2A2 D3E | G2F2 B,2B,G | "C"F2E2C4 | e2c2 G3c | "G7"B2A2 D3E | G2F2 A,2B,2 | "C"C2C2 C2z2 :: [K:Gmaj]
+"D7"DDDD E2F2 | "G"G2A2B4 | "D7"d2dd c2F2 | "G"ddd2 B2G2 | "D7"DDDD E2F2 | "G"G2A2B4 | "D7"dddd c3F | "G"G2B2 G2"_> Teil A"z2 :| 
+
+X:6
+T:Schottisch CG 10- chords Parts
+P:ABA
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+[P:A] "C"e2c2 G3c | "G7"B2A2 D3E | G2F2 B,2B,G | "C"F2E2C4 | e2c2 G3c | "G7"B2A2 D3E | G2F2 A,2B,2 | "C"C2C2 C2"_Fine"z2 :: [P:B] [K:Gmaj]
+"D7"DDDD E2F2 | "G"G2A2B4 | "D7"d2dd c2F2 | "G"ddd2 B2G2 | "D7"DDDD E2F2 | "G"G2A2B4 | "D7"dddd c3F | "G"G2B2 G2"_> Teil A"z2 :| 

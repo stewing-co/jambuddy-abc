@@ -1,0 +1,237 @@
+%abc-2.1
+
+X:1
+T:Every Good Boy does fine
+T:Ordinary treble clef
+C:Eric Conrad
+M:4/4
+L:1/4
+K:C
+EGBd | fz3 | FAce |]
+w:E G B d f F A c e
+W:G above middle C is on line 2.
+
+X:2
+T:Good Boys do fine always
+T:Treble clef moved to line 1
+C:Eric Conrad
+M:4/4
+L:1/4
+K:C clef=treble1
+GBdf | az3 | Aceg |]
+w:G B d f a A c e g
+W:G above middle C is on line 1.
+
+X:3
+T:Cows Eat Grass Before dawn
+T:Treble clef moved to line 3
+C:Eric Conrad
+M:4/4
+L:1/4
+K:C clef=treble3
+CEGB | dz3 | DFAc |]
+w:C E G B d D F A c
+W:G above middle C is on line 3.
+
+X:4
+T:Friendly Antelopes Can Eat Grass
+T:The usual alto clef
+C:Eric Conrad
+M:4/4
+L:1/4
+K:C clef=alto
+F,A,CE | Gz3 | G,B,DF |]
+w:F, A, C, E G G, B, D F
+W:middle C is on line 3.
+
+X:5
+T:Do Friends Always Choose Elvis?
+T:The usual tenor clef
+C:Eric Conrad
+M:4/4
+L:1/4
+K:C clef=tenor
+D,F,A,C | Ez3 | E,G,B,D |]
+w:D, F, A, C E E, G, B, D
+W:middle C is on line 4
+
+X:6
+T:Cows Eat Grass Before dawn (v2)
+T:Moving the C clef
+C:Eric Conrad
+M:4/4
+L:1/4
+K:C clef=tenor1
+CEGB | dz3 | DFAc |]
+w:C E G B d D F A c
+W:C clef on line 1
+
+X:7
+T:Good Boys Do Fine Always (in a lower register)
+T:The usual bass clef
+C:Eric Conrad
+M:4/4
+L:1/4
+K:C clef=bass
+G,,B,,D,F, | A,z3 | A,,C,E,G, |]
+w:G,, B,, D, F, A A,, C, E, G,
+W:F below middle C on line 4
+
+X:8
+T:You don't need all those commas (bass clef revisited)
+T:The usual bass clef
+C:Eric Conrad
+M:4/4
+L:1/4
+K:C clef=bass octave=-1
+G,B,DF | Az3 | A,CEG |]
+w:G, B, D F A A, C E G
+W:F below middle C on line 4, but coded as F instead of F,
+
+X:9
+T:Facts Always can empty gastanks (or the F clef revisited)
+T:Yes, Virginia, the bass clef can move too!
+C:Eric Conrad
+M:4/4
+L:1/4
+K:C clef=bass1 octave=-1
+FAce | gz3 | GBdf |]
+w:F A c e g G B d f
+W:F below middle C on line 1, and coded as F instead of F,
+
+X:10
+T:Some G clefs...
+T:Which clefs are supported by your sheet music generator?
+C:Eric Conrad
+M:4/4
+L:1/4
+K:D
+W:Note the locations of the F-sharp and C-sharp in the key signature.
+W:It should move in three of the examples.
+DEFG | defg |
+T:G clef line 2
+K:D clef=G
+DEFG | defg | 
+T:G clef somewhere else - line 4
+K:D clef=G4
+DEFG | defg | 
+T:G clef ottava
+T:This doesn't change the pitches or the placement
+K:D clef=G-8
+DEFG | defg |
+T:G clef ottava
+T:This changes the pitches and the placement
+K:D octave=-1 clef=G-8
+DEFG | defg |
+T:G clef ottava (octave down)
+T:Pitches and placement were changed by the octave=-1 parameter above
+K:D clef=G-8
+DEFG | defg |
+T:Movable G clef ottava
+T:Pitches and placement were changed by the octave=-1 parameter above
+T:But moving the clef seems to reset the octave
+K:D clef=G4-8
+DEFG | defg |
+T:Movable G clef ottava
+T:Pitches and placement are now back to normal (but with G on line 4)
+K:D octave=0 clef=G4-8
+DEFG | defg |
+
+
+X:11
+T:Some F clefs...
+T:Which clefs are supported by your sheet music generator?
+C:Eric Conrad
+M:4/4
+L:1/4
+K:D clef=bass
+W:Note the locations of the F-sharp and C-sharp in the key signature.
+W:It should move in three of the examples.
+DEFG | defg |
+T:F clef line 4
+K:D clef=F
+DEFG | defg | 
+T:F clef somewhere else - line 2
+K:D clef=F2
+DEFG | defg | 
+T:F clef ottava
+T:This doesn't change the pitches or the placement
+K:D clef=F+8
+DEFG | defg |
+T:F clef ottava (octave up)
+T:This changes the pitches and the placement
+K:D octave=-1 clef=F+8
+DEFG | defg |
+T:F clef ottava
+T:Pitches and placement were changed by the octave=-1 parameter above
+K:D clef=F+8
+DEFG | defg |
+T:Movable F clef ottava (F on line 2)
+T:Pitches and placement were changed by the octave=-1 parameter above
+T:But moving the clef seems to reset the octave
+K:D clef=F2+8
+DEFG | defg |
+T:Movable F clef ottava
+T:Pitches and placement are now back to normal (but with F on line 2)
+K:D octave=0 clef=F2+8
+DEFG | defg |
+
+
+X:12
+T:Some C clefs...
+T:Which clefs are supported by your sheet music generator?
+T:First the alto clef... C on line 4
+C:Eric Conrad
+M:4/4
+L:1/4
+K:D clef=alto
+W:Note the locations of the F-sharp and C-sharp in the key signature.
+W:It should move in three of the examples.
+DEFG | defg |
+T:And the tenor clef... C on line 4
+K:D clef=tenor
+DEFG | defg |
+T:C clef line 1
+K:D clef=C1
+DEFG | defg | 
+T:C (alto) clef ottava
+T:This doesn't change the pitches or the placement
+K:D clef=C+8
+DEFG | defg |
+T:C clef ottava
+T:This changes the pitches and the placement
+K:D octave=-1 clef=C+8
+DEFG | defg |
+T:C clef ottava
+T:Pitches and placement were changed by the octave=-1 parameter above
+K:D clef=C+8
+DEFG | defg |
+T:Movable C clef ottava (C on line 1)
+T:Pitches and placement were changed by the octave=-1 parameter above
+T:But moving the clef seems to reset the octave
+K:D clef=C1+8
+DEFG | defg |
+T:Movable F clef ottava
+T:Pitches and placement are now back to normal (but with C on line 1)
+K:D octave=0 clef=C1+8
+DEFG | defg |
+
+X:13
+T:Do you have a D-clef? (I don't!)
+T:This plays in EasyABC but does not render (using abcm2ps)
+C:Eric Conrad
+M:4/4
+L:1/4
+K:D clef=D3
+DEFG | defg |
+
+X:14
+T:Do you have a A-clef? (I don't!)
+T:This plays in EasyABC but does not render (using abcm2ps)
+C:Eric Conrad
+M:4/4
+L:1/4
+K:D clef=A3
+DEFG | defg |
+
+

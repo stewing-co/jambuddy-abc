@@ -1,0 +1,18 @@
+X:201
+T:O Magnum Misterium
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 1 clef=alto1 name="Fagotillo" sname="Fg."
+%%MIDI program 1 68
+%%staves [ 1 ]
+%------------
+Z19 !segno!|| [M:3/2] Z15 !fine!|] \
+[M:2/2] G2 | GA | c3/2 B//A// | Gc | (B2 | B2) | A/ c3/4 c// d/ | e/ G3/4 G// A/ | B//A//B//c//d//c//B//A// | \
+G3/4 F// E/ G/ | A//G//A//B//c//B//A//G// | ^F/ G F/ | G D | E/ E/ e | e e | e2 | z/ c3/4c//B//A// | \
+G/ E3/4E//^F/ | G/ e3/4e//d//c// | B/ G3/4G// E/ | F//F// A ^G/ | A (E | E/)F/ D | D (d | d) d | d (e | e/) e/ d | \
+c c | B c | B2 | z/ G3/4G//F//E// | D/ e3/4e//d//c// | B/ E3/4E//^F/ | G/D/ G | F//G// A ^G/ | A2 | z e/e/ | \
+d3/4c// B//A//B//c// | d d | d/ B c/ | z/ F E/ | z/ A G/ |  z/ F E/ | z/ c3/4c//c/ | e/e/ c3/4c// | c3/4c// A3/4A// | \
+A e | (e2 | !fermata!e2) !segno!|]
+%------------

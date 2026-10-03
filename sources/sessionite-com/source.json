@@ -1,0 +1,22 @@
+{
+  "name": "Tunes from SessioNite",
+  "license": "Not stated; tunes believed traditional",
+  "origin": [
+    "http://sessionite.com/",
+    "http://sessionite.com/docs/"
+  ],
+  "found_via": "https://abcnotation.com/tunes",
+  "downloaded": "2026-10-02",
+  "files": 2,
+  "pages_crawled": 1,
+  "pages_unvisited": 0,
+  "failures": [
+    "http://sessionite.com/docs/: HTTP Error 403: Forbidden",
+    "http://sessionite.com/1693-2/: HTTP Error 404: Not Found",
+    "http://sessionite.com/poetry-about-tunes/: HTTP Error 404: Not Found",
+    "http://sessionite.com/jens-wollschlagers-abc-transposer/: HTTP Error 404: Not Found",
+    "http://sessionite.com/galleries-2/: HTTP Error 404: Not Found",
+    "http://sessionite.com/sounds/: HTTP Error 404: Not Found",
+    "http://sessionite.com/imunify-bot-check: HTTP Error 404: Not Found"
+  ]
+}

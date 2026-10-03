@@ -1,0 +1,78 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Frohsinn-Polka CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.325 (pk05043) orig. C,G,F-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G|"C"ee ee | eg g>g | ga a>e | "G7"gf fG | ff ff | fa a>a | ab b>f | "C"ag gG | ee ee | eg g>g | 
+gc' c'>b | "Dm/F"baa2 | d'>c' ba | "C"ag g/a/g | "G7"gf f/g/f | "C"fe gc' | "Dm/F"d'>c' ba | "C"ag g/a/g | "G7"f>g ab | "C"c'c' c'z ||  
+[K:G] |: 
+"G"b2b2 | b>a gg | "D7"ag ed | ad ed | "G"d2d2 | d>c BB | "D7"c>B AB |1 "G"GG Gz :|2 "G"GG G"_>Teil A"G || [K:F] 
+|: "F"f3e/f/ | b3a | "Gm"agg2 | z4 | "C7"g3^f/g/ | c'3b | "F"baa2 | z4 | f3e/f/ | b3a | "Gm"ag gd | 
+g3f | "C7"ed' d'd' | "F"d'!>!c'2a | "C7"c'!>!b2e | "F"ff fz :: [L:1/16] "Dm"d^cde f2e2 | d^cde f2e2 | d^cde "Bb"fefg | "A7"a4z4 :| 
+W:
+W: Anmerkung H.C.: Schottisch
+
+X:2
+T: Frohsinn-Polka CGF chords Parts
+%%partsbox
+P:ABACA
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G [P:A] |"C"ee ee | eg g>g | ga a>e | "G7"gf fG | ff ff | fa a>a | ab b>f | "C"ag gG | ee ee | eg g>g | 
+gc' c'>b | "Dm/F"baa2 | d'>c' ba | "C"ag g/a/g | "G7"gf f/g/f | "C"fe gc' | "Dm/F"d'>c' ba | "C"ag g/a/g | "G7"f>g ab | "C"c'c' c'z || [K:G]  
+[P:B]  
+|: "G"b2b2 | b>a gg | "D7"ag ed | ad ed | "G"d2d2 | d>c BB | "D7"c>B AB |1 "G"GG Gz :|2 "G"GG G"_>Teil A"G || [K:F]
+[P:C]  
+|: "F"f3e/f/ | b3a | "Gm"agg2 | z4 | "C7"g3^f/g/ | c'3b | "F"baa2 | z4 | f3e/f/ | b3a | "Gm"ag gd | 
+g3f | "C7"ed' d'd' | "F"d'!>!c'2a | "C7"c'!>!b2e | "F"ff fz :: [L:1/16] "Dm"d^cde f2e2 | d^cde f2e2 | d^cde "Bb"fefg | "A7"a4z4 :| 
+
+X:3
+T:Frohsinn-Polka EbBbAb (5letras) cf. CGF
+M:2/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+B|"Eb"gg gg | gb b>b | bc' c'>g | "Bb7"ba aB | aa aa | ac' c'>c' | c'd' d'>a | "Eb"c'b bB | gg gg | gb b>b | 
+be' e'>d' | "Fm/Ab"d'c'c'2 | f'>e' d'c' | "Eb"c'b b/2c'/2b | "Bb7"ba a/2b/2a | "Eb"ag be' | "Fm/Ab"f'>e' d'c' | "Eb"c'b b/2c'/2b | "Bb7"a>b c'd' | "Eb"e'e' e'z || 
+[K:Bbmaj] |: 
+"Bb"d'2d'2 | d'>c' bb | "F7"c'b gf | c'f gf | "Bb"f2f2 | f>e dd | "F7"e>d cd |1 "Bb"BB Bz :|2 "Bb"BB B"_>Teil A"B || [K:Abmaj] 
+|: "Ab"a3g/2a/2 | d'3c' | "Bbm"c'bb2 | z4 | "Eb7"b3=a/2b/2 | e'3d' | "Ab"d'c'c'2 | z4 | a3g/2a/2 | d'3c' | "Bbm"c'b bf | 
+b3a | "Eb7"gf' f'f' | "Ab"f'!>!e'2c' | "Eb7"e'!>!d'2g | "Ab"aa az :: [L:1/16] "Fm"f=efg a2g2 | f=efg a2g2 | f=efg "Db"agab | "C7"c'4z4 :| 
+
+X:4
+T:Frohsinn-Polka  EbBbAb (5letras) cf. CGF Parts
+%%partsbox
+P:ABACA
+M:2/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+B [P:A] |"Eb"gg gg | gb b>b | bc' c'>g | "Bb7"ba aB | aa aa | ac' c'>c' | c'd' d'>a | "Eb"c'b bB | gg gg | gb b>b | 
+be' e'>d' | "Fm/Ab"d'c'c'2 | f'>e' d'c' | "Eb"c'b b/2c'/2b | "Bb7"ba a/2b/2a | "Eb"ag be' | "Fm/Ab"f'>e' d'c' | "Eb"c'b b/2c'/2b | "Bb7"a>b c'd' | "Eb"e'e' e'z || [K:Bbmaj] 
+[P:B] 
+|: "Bb"d'2d'2 | d'>c' bb | "F7"c'b gf | c'f gf | "Bb"f2f2 | f>e dd | "F7"e>d cd |1 "Bb"BB Bz :|2 "Bb"BB B"_>Teil A"B || [K:Abmaj]
+[P:C] 
+|: "Ab"a3g/2a/2 | d'3c' | "Bbm"c'bb2 | z4 | "Eb7"b3=a/2b/2 | e'3d' | "Ab"d'c'c'2 | z4 | a3g/2a/2 | d'3c' | "Bbm"c'b bf | 
+b3a | "Eb7"gf' f'f' | "Ab"f'!>!e'2c' | "Eb7"e'!>!d'2g | "Ab"aa az :: [L:1/16] "Fm"f=efg a2g2 | f=efg a2g2 | f=efg "Db"agab | "C7"c'4z4 :| 
+
+X:5
+T:Frohsinn-Polka  EbBbAb oct. (5letras) cf. CGF Parts
+%%partsbox
+P:ABACA
+M:2/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+B, [P:A] |"Eb"GG GG | GB B>B | Bc c>G | "Bb7"BA AB, | AA AA | Ac c>c | cd d>A | "Eb"cB BB, | GG GG | GB B>B | 
+Be e>d | "Fm/Ab"dcc2 | f>e dc | "Eb"cB B/2c/2B | "Bb7"BA A/2B/2A | "Eb"AG Be | "Fm/Ab"f>e dc | "Eb"cB B/2c/2B | "Bb7"A>B cd | "Eb"ee ez || [K:Bbmaj] 
+[P:B] 
+|: "Bb"d2d2 | d>c BB | "F7"cB GF | cF GF | "Bb"F2F2 | F>E DD | "F7"E>D CD |1 "Bb"B,B, B,z :|2 "Bb"B,B, B,"_>Teil A"B, || [K:Abmaj]
+[P:C] 
+|: "Ab"A3G/2A/2 | d3c | "Bbm"cBB2 | z4 | "Eb7"B3=A/2B/2 | e3d | "Ab"dcc2 | z4 | A3G/2A/2 | d3c | "Bbm"cB BF | 
+B3A | "Eb7"Gf ff | "Ab"f!>!e2c | "Eb7"e!>!d2G | "Ab"AA Az :: [L:1/16] "Fm"F=EFG A2G2 | F=EFG A2G2 | F=EFG "Db"AGAB | "C7"c4z4 :| 
+
+
+

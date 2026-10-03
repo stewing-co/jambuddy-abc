@@ -1,0 +1,108 @@
+
+X:1925
+T:My Lady Sleeps
+C:Ernest Edwin Mitchell 1865-1937
+T:Henry Wadworth Longfellow 
+S:National Library of Australia MUS N mba 782.542 M681 
+Z:Stephen Hamish Darby - All rights waived
+%%score 1 2 3 4 ( 5 6 ) ( 7 8 )
+L:1/8
+Q:1/4=70.00
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Alto" snm="A."
+V:3 treble-8 nm="Tenor" snm="T."
+V:4 bass nm="Bass" snm="B."
+V:5 treble nm="Piano" snm="Pno."
+V:6 treble 
+V:7 bass nm="Piano" snm="Pno."
+V:8 bass 
+V:1
+[I: MIDI=program 53] A^G^F E2 F | ^F2 ^G/F/ E3 | EBA ^f2 ^c | ^c3 B3 | B3 ^c2 d |$ e2 ^c A^G^F | E^DE ^F2 E | 
+E3 ^C2 E | ^E2 E d2 ^c | ^c2 B B2 A |$ ^f3 A2 ^G | A2 B ^c3 | ^f3 ^c2 d | e2 d ^cBA | 
+A^G^F E2 G |$ B3 A3 ||[K:F] AcB A2 G | F2 E/D/ C3 | cAF DGB | A3 G3 | A3 ^G2 E |$ c2 =B AFD | 
+E^DE/A/ c2 =B | A3- A2 z | z4 z F | d2 =B c2 e |$ dc=B A2 ^G | A>=Bc B2 f | e2 =B c2 F | 
+E3 ^D2 A | A3- A2 A | Ac=B A3 |$ AcB A2 G | F2 E/D/ C2 C | cAF DGB | A3- A2 z | A2 G c2 ^c |$ 
+^c2 c e2 d | cAB BAG | FAB A3 ||[K:A] AGF E2 F | F2 G/F/ E3 |$ EBA ddc | c3 B3 | B3 c2 d | 
+e2 c AGF | E^DE F2 E | E3 C2 E | ^E2 E d2 c |$ c2 B B2 A | f3 A2 G | A2 B c3 | f3 c2 d | 
+e2 d cBA | AGF E2 G |$ B3 A2 E | E2 E E2 B | A3- A2 A | A2 z A2 z | A3 A3 |] 
+V:2
+[I: MIDI=program 53] EEE E2 E | D3 D3 | ^C^FE A2 A | A2 ^F ^G3 | E3 E2 E |$ E2 E ^FED | ^C^B,C D2 E | ^C3 A,2 C | 
+B,2 B, ^E2 E | ^E2 E ^G2 ^F |$ A3 ^F2 ^E | ^F2 ^G G3 | ^A3 ^F2 A | B2 ^F F2 F | EDD D2 D |$ 
+^G^FG A3 ||[K:F] FGF F2 E | F3 F3 | FCC B,DF | F2 D E3 | E3 D2 D |$ D2 D CD=B, | C2 C D2 D | 
+C3- C2 z | z4 z z | z2 z z2 A |$ D2 F E2 E | E2 E E2 ^G | ^G2 F E2 =B, | C3 C2 ^D | E3 F2 F | 
+E2 ^G A3 |$ FGF F2 E | F3 F2 F | FCC B,DF | F2 D E3 | E3 G2 G |$ E2 B A2 B | AFF E2 E | F3 F3 || 
+[K:A] E^DD E2 D | ^D3 =D3 |$ CFE AAA | A2 F G3 | E3 E2 E | E2 E FED | C^B,C D2 D | C3 A,2 C | 
+B,2 B, ^E2 E |$ ^E2 E G2 F | A3 F2 ^E | F2 G G3 | ^A3 F2 A | B2 F F2 F | EDD D2 D |$ D3 C2 C | 
+D2 D D2 G | A3 E2 E | =F2 z F2 z | E3 E3 |] 
+V:3
+[I: MIDI=program 53] ^c'c'c' c'2 =c' | b3 b3 | ad'^c' ^f'2 e' | e'3 e'3 | ^g3 g2 g |$ a2 a ^g2 g | a2 a ^g2 g | 
+a3 e2 a | ^g2 g b2 b | ^g2 ^c' c'3 |$ d'3 d'2 d' | d'2 ^f' ^e'3 | =e'3 e'2 e' | d'2 d' d'2 d' | 
+^c'ba ^g2 b |$ d'3 ^c'3 ||[K:F] c'e'd' c'2 b | a2 b a3 | fff fbd' | c'2 =b c'3 | c'3 =b2 ^g |$ 
+^g^fg a2 g | a2 a ^g2 g | a3- a2 a | f'2 d' e'2 d'/c'/ | =b>a^g a2 c' |$ a2 d' c'2 =b | 
+a2 a ^g2 =b | =b2 ^g a2 a | a3 a2 c' | c'3- c'2 c' | c'ad' c'3 |$ c'e'd' c'2 b | a2 b a2 a | 
+f2 f fbd' | c'2 =b c'3 | c'3 e'2 e' |$ g'2 g' f'2 f' | f'c'd' c'2 b | ac'_d' c'3 || 
+[K:A] c'=c'c' ^c'2 =c' | =c'3 b3 |$ ad'c' d'd'c' | e'3 e'3 | g3 g2 g | a2 a a2 a | a2 a g2 g | 
+a3 e2 a | g2 g b2 b |$ g2 c' c'3 | d'3 d'2 d' | d'2 f' ^e'3 | =e'3 e'2 e' | d'2 d' d'2 d' | 
+c'ba g2 b |$ afg a2 a | b2 a g2 d' | c'3- c'2 c' | =c'2 z c'2 z | ^c'3 c'3 |] 
+V:4
+[I: MIDI=program 53] A,A,A, A,2 A, | A,3 A,2 ^G, | A,A,A, A,2 A, | E,3 E,3 | D,3 D,2 D, |$ ^C,2 A,, D,2 D, | 
+E,2 E, E,2 E, | A,,3 A,,2 A,, | ^C,2 C, C,2 C, | ^C,2 C, ^F,2 F, |$ D,^F,A, D2 D | D2 D ^C3 | 
+^C3 ^A,2 ^F, | B,,2 B,, D,2 D, | E,2 E, E,2 E, |$ A,,3 A,,3 ||[K:F] F,F,F, F,2 C, | F,3 F,3 | 
+A,,F,,A,, B,,2 G,, | C,3 C,3 | A,,3 E,2 E, |$ E,2 E, A,,D,F, | E,2 E, E,2 E, | A,,3- A,,2 z | z6 | 
+z4 z C, |$ F,2 D, E,2 D, | C,2 A,, E,2 D, | D,3 C,2 D, | E,3 F,2 F, | E,3 ^D,2 D, | 
+E,2 E, !fermata!A,3 |$ F,F,F, F,2 C, | F,3 F,2 F, | A,,F,,A,, B,,2 G,, | C,3 C,3 | B,3 B,2 B, |$ 
+A,2 A, D,2 B,, | C,2 C, C,2 C, | F,3 F,3 ||[K:A] A,A,A, A,2 A, | A,3 A,2 A, |$ A,A,A, A,A,A, | 
+E,3 E,3 | D,3 D,2 D, | C,2 A,, D,2 D, | E,2 E, E,2 E, | A,,3 A,,2 A,, | C,2 C, C,2 C, |$ 
+C,2 C, F,2 F, | D,F,A, D2 D | D2 D C3 | C3 ^A,2 F, | B,,2 B,, D,2 D, | E,2 E, E,2 E, |$ 
+A,,3 A,,2 A, | A,G,F, E,2 E, | [A,,A,]3 [A,,A,]2 [A,,A,] | [=F,,=F,]2 z [F,,F,]2 z | A,,3 A,,3 |] 
+V:5
+[I: MIDI=program 20] [EA][E^G][E^F] E2 [EF] | ^F2 ^G/F/ E3 | E[^FB][EA] [Ad]2 [A^c] | ^c3 B3 | [EB]3 [E^c]2 [Ed] |$ 
+[Ee]2 [E^c] [^FA][E^G][DF] | [^CE][^B,^D][CE] [=D^F]2 [DE] | [^CE]3 [A,C]2 [CE] | 
+[B,^E]2 [B,E] [^Ed]2 [E^c] | [^E^c]2 [EB] [^GB]2 [^FA] |$ [A^f]3 [^FA]2 [^E^G] | 
+[^FA]2 [^GB] [G^c]3 | [^A^f]3 [^F^c]2 [EAd] | [DBe]2 [D^Fd] [DF^c]B[DFA] | 
+[EB][D^G][D^F] [DE]2 [DG] |$ B3 [^CA]3 ||[K:F] [FA][Gc][FB] [FA]2 [EG] | F3 F3 | 
+[Fc][CA][CF] [B,D][B,DG][DFB] | A3 [CEG]3 | [CEA]3 [D^G]2 [DE] |$ [Dc]2 [D=B] [CA][DF][B,D] | 
+[CE]^D[CE]/A/ [Dc]2 [D=B] | [CA]3- [CA]2 z | z4 z F | d2 =G c2 [CAe] |$ dc[F=B] [EA]2 [E^G] | 
+A>=B[Ec] [EB]2 [^Gf] | [^Ge]2 [F=B] [Ec]2 [=B,F] | [CE]3 [C^D]2 [DA] | [EA]3 [FA]2 [FA] | 
+Ac[^E=G] A3 |$ [FA][Gc][FB] [FA]2 [EG] | F2 E/D/ F2 [CF] | [Fc][CA][CF] [B,D][B,DG][DFB] | 
+A3 [CEG]3 | [CE]3 z z2 |$ [EG^c]2 [GBc] [FAe]2 [FBd] | [FAc][CFA][DFB] E2 z | F3 F3 || 
+[K:A] [DA][^DG][DF] E2 [DF] | F2 G/F/ [=DE]3 |$ E[FB][EA] [Ad][Ad][Ac] | c3 B3 | [EB]3 [EB]2 [Ed] | 
+[Ee]2 [Ec] [FA][EG][DF] | [CE][^B,^D][CE] [=DF]2 [DE] | [CE]3 [A,C]2 [CE] | 
+[B,^E]2 [B,E] [^Ed]2 [Ed] |$ [^Ec]2 [EB] [GB]2 [FA] | [Af]3 [FA]2 [^EG] | [FA]2 [GB] [Gc]3 | 
+[^Af]3 [Fc]2 [EAd] | [DBe]2 [DFd] cBA | [EA][DG][DF] [DE]2 [DG] |$ [DB]3 [CA]2 [CE] | 
+[DE]2 [DE] [DE]2 [DGB] | [CA]3 [CEA]2 [CEA] | [=C=FA]2 z [CFA]2 z | [^CEA]3 [CEA]3 |] 
+V:6
+[I: MIDI=program 20] x6 | D3 D3 | x6 | A2 ^F ^G3 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ 
+[D^G]^FG z z2 ||[K:F] x6 | F2 E/D/ C3 | x6 | [CF]2 [=B,D] z z2 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ 
+D2 z4 | E2 z4 | x6 | x6 | x6 | E2 z A3 |$ x6 | F3 C2 z | x6 | [CF]2 [=B,D] z z2 | 
+A2 G [EGc]2 [EG^c] |$ x6 | z3 BA[EG] | FAB A3 ||[K:A] x6 | ^D3 z3 |$ x6 | A2 F G3 | x6 | x6 | x6 | 
+x6 | x6 |$ x6 | x6 | x6 | x6 | z3 [DF]2 z | x6 |$ x6 | x6 | x6 | x6 | x6 |] 
+V:7
+[I: MIDI=program 20] [A,^C][A,C][A,C] [A,C]2 [A,=C] | B,3 B,2 ^G, | [A,^C][A,D][A,C] [A,^F]2 [A,E] | E3 E3 | 
+[D,^G,]3 [D,G,]2 [D,G,] |$ [^C,A,]2 [A,,A,] [D,A,]2 [D,A,] | [E,A,]2 [E,A,] [E,^G,]2 [E,G,] | 
+[A,,A,]3 [A,,E,]2 [A,,A,] | [^C,^G,]2 [C,G,] [C,B,]2 [C,B,] | [^C,^G,]2 [C,^C] C3 |$ 
+D,^F,A, D2 D | D2 [D^F] z z2 | [^C=E]3 [^A,E]2 ^F, | B,,2 B,, D,2 D, | E,2 E, E,2 E, |$ 
+A,,3 A,,3 ||[K:F] [F,C][F,E][F,D] [F,C]2 [C,B,] | F,3 F,3 | [A,,F,][F,,F,][A,,F,] [B,,F,]2 G,, | 
+C,3 C,3 | A,,3 [E,=B,]2 [E,^G,] |$ ^G,^F,G, A,2 =G, | [E,A,]2 [E,A,] [E,^G,]2 [E,G,] | 
+[A,,A,]3- [A,,A,]2 A, | F2 D E2 D/C/ | =B,>A,^G, A,2 A,, |$ [F,A,]2 [B,,D] [E,C]2 [D,=B,] | 
+[C,A,]2 [A,,A,] [E,^G,]2 [D,=B,] | =B,2 ^G, [C,A,]2 [D,A,] | [E,A,]3 [F,A,]2 [F,C] | 
+[E,C]3 [^D,C]2 [D,C] | CA,D z z2 |$ [F,C][F,E][F,D] [F,C]2 [C,B,] | A,3 z z2 | F,2 F, F, z2 | 
+C,3 C,3 | B,3 B,2 B, |$ A,2 A, D,2 B,, | C,2 C, [C,C]2 [C,B,] | F,3 F,3 || 
+[K:A] [A,C][A,=C][A,C] [A,^C]2 [A,=C] | [A,=C]3 [A,B,]2 G, |$ [A,C][A,D][A,C] [A,F][A,F][A,E] | 
+[E,E]3 [E,E]3 | [D,G,]3 [D,G,]2 [D,G,] | [C,A,]2 [A,,A,] [D,A,]2 [D,A,] | 
+[E,A,]2 [E,A,] [E,G,]2 [E,G,] | [A,,A,]3 [A,,E,]2 [A,,A,] | [C,G,]2 [C,G,] [C,B,]2 [C,B,] |$ 
+[C,G,]2 [C,C] [F,C]2 F, | D3 z z2 | D2 [DF] [C^E]3 | [CE]3 [^A,E]2 F, | B,,2 B,, D,2 D, | 
+E,2 [E,A,] [E,G,]2 [E,B,] |$ G,F,G, A,2 z | B,2 z4 | [A,,A,]3 [A,,A,]2 [A,,A,] | 
+[=F,,=F,]2 z [F,,F,]2 z | [A,,A,]3 [A,,A,]3 |] 
+V:8
+[I: MIDI=program 20] x6 | A,3 A,3 | x6 | E,3 E,3 | x6 |$ x6 | x6 | x6 | x6 | z3 ^F,2 F, |$ x6 | x6 | x6 | x6 | 
+^CB,A, ^G,2 B, |$ x6 ||[K:F] x6 | A,2 B, A,3 | x6 | x6 | x6 |$ E,2 E, A,,D,^F, | x6 | x6 | x6 | 
+x6 |$ x6 | x6 | D,3 z z2 | x6 | x6 | E,2 E, [A,C]3 |$ x6 | F,2 B, [F,A,]2 [F,A,] | 
+A,,F,,A,, B,,2 G,, | x6 | x6 |$ x6 | x6 | A,C_D C3 ||[K:A] x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | 
+x6 | x6 |$ x6 | D,F,A, D2 D | x6 | x6 | x6 | CB, z4 |$ A,,3 A,,2 A, | A,G,[F,A,] [E,G,]2 E, | x6 | 
+x6 | x6 |] 
+
+

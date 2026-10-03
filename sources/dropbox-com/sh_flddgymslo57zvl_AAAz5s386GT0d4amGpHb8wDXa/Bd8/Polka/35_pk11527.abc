@@ -1,0 +1,26 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka  GC chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.399 (pk11527) orig. G,C-Dur
+T: T\"anze aus Altdorf (Uri)
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"dedB g4 | dedB b4 | "D7"bafd c2e2 | "G"agdB G2G2 | dedB g4 | dedB b4 | "D7"bafd agef | "G"g2b2 g2z2 ::  
+"D7"d2c'b agfe | "G"d2ed b2d2 | "D7"c2dc a2c2 | "G"d2g2 ddd2 | "D7"d2c'b agfe | "G"ded2 b2d2 | "D7"e2de f2ef | "G"g2b2 g2z2 :: [K:C]
+"C"e3d c3A | G4 Gceg | "G7"c'2b2 defg | "C"a2gf edc2 | e3d c3A | G4 Gceg | "G7"c'bda gfAB | "C"c2c2 c2z2 :: [K:G]
+"D7"d2fa d2fa | "G"d2gb d'd'd'2 | "D7"+>+"_(1)"d'2d'd c'2f2 | "G"+>+g2gB dBG2 | "D7"d2fa d2fa | "G"d2gb d'd'd'2 | "D7"d'c'af d2f2 | "G"g2b2 g2z2 :| 
+W:
+W: (1) the orig. has "G" here
+
+X:2
+T:Polka  CF 7- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"GAGE c4 | GAGE e4 | "G7"edBG F2A2 | "C"dcGE C2C2 | GAGE c4 | GAGE e4 | "G7"edBG dcAB | "C"c2e2 c2z2 :: 
+"G7"G2fe dcBA | "C"G2AG e2G2 | "G7"F2GF d2F2 | "C"G2c2 GGG2 | "G7"G2fe dcBA | "C"GAG2 e2G2 | "G7"A2GA B2AB | "C"c2e2 c2z2 :: [K:Fmaj]
+"F"A3G F3D | C4 CFAc | "C7"f2e2 GABc | "F"d2cB AGF2 | A3G F3D | C4 CFAc | "C7"feGd cBDE | "F"F2F2 F2z2 :: [K:Cmaj]
+"G7"G2Bd G2Bd | "C"G2ce ggg2 | "G7"+>+g2gG f2B2 | "C"!>!c2cE GEC2 | "G7"G2Bd G2Bd | "C"G2ce ggg2 | "G7"gfdB G2B2 | "C"c2e2 c2z2 :| 

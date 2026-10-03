@@ -1,0 +1,211 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:[1] Jennette, Marion se vont jouer
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -12
+M:C|
+L:1/2
+N: Original clef, C on third line
+K:G dor -8va
+G2 B/ A/ B/ c/ d B B3/2 A// G// F B
+w: Jen- net- te, Ma- ri- on se vont  _ _ jou- er, 
+z G B/ A/ B/ c/ d d g g f3 e/ d/ e d2 
+w: Jen- net- te, Ma- ri- on se vont jou- er, _ _ _ _
+g2 ^f g2
+w: aux _ champs, 
+z G B/ A/ B/ c/ d B B3/2 A// G// F 
+w: El- le~ont _ pleu- * mé leur con, _ _ _ 
+B/ c/ d z
+w: poil a poil,
+f f c2
+w: poil a poil,
+z z/ d/ d/ d/ d/ G/ A 
+w: El- le~ont pleu- mé leur con,
+f/ f/ c 
+w: poil a poil,
+c/ f/ d/
+w: poil a poil,
+g ^f/ g2
+w: en chan- tant,
+z2 g > g d d f3/2 e// d// c2
+w: El- le~al- loy- ent cer- _ _ chant,
+z2 g > g d d f3/2 e// d// c3/2
+w: El- le~al- loy- ent cer- * _ chant,
+d/ _e/ d/ _e/ c/ d3/2
+w: En- tre deux ga- bi- ons, 
+A/ B > A B/ G3/2 A3/2 
+w: En- tre deux ga- bi- ons, 
+d/ _e3/2 d/ d/ c3/2 d4
+w: En- tre deux ga- bi- ons, 
+z4 d g g f g _e f/ _e/ d/ c/ B 
+w: Pour i me- tre ung mer- chant _ _ _ _
+A B/ B/ G/ G/ A
+w: qui feust bon com- pag- non, 
+d f 
+w: bon, bon,
+z/ d/ f/ d/ _e/ f/ g 
+w: qui feust bon com- pag- non, 
+d _e/ d/ _e/ c/ B 
+w: Et bon be- la- ri- bon, 
+c d3/2 c// B// A2
+w: bon, bon, _ _ _
+A B B A B G A 
+w: Pour i me- tre ung mer- chant
+d f 
+w:qui feust
+z/ d/ f/ d/ _e/ f/ g
+w: qui feust bon com- pag- non, 
+f f/ d/ g/ ^f/ g
+w: Et bon be- la- ri- bon.
+d d/ B/ _e/ _e/ d/ B/ c/ _e/ d
+w: Et bon be- la- ri- bon, bon, bon, bon, bon,
+z/ d/ d/ B/ _e/ _e/ d/ B/ c/ _e/ Hd4 |]
+w: Et bon be- la- ri- bon, bon, bon, bon, bon.
+
+
+X:2
+T:[1] Jennette, Marion se vont jouer
+T:Tenor
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+N:Original clef, C on fourth line
+%%MIDI transpose -12
+K:G dor -8va
+z4 z4 z G B/ A/ B/ c/ d2 
+w: Jen- net- te, Ma- ri- on 
+z G B/ A/ B/ c/ d3/2 c// B// A/ G/ A/ B/ c d B3/2 A// G// A
+w: Jen- net- te, Ma- ri- on _ _ _ _ _  se vont jou- er, _ _ _
+A G
+w: aux champs, 
+G B/ A/ B/ c/ d2 G2 D2
+w: El- le~ont _  pleu- * mé leur con, 
+z G B/ A/ B/ c/ d 
+w: El- le~ont pleu- mé leur con,
+d/ d/ A2
+w: poil a poil,
+z A B/ A/ B/ c/ d 
+w: El- le~ont pleu- mé leur con,
+d/ d/ A
+w: poil a poil,
+A/ d/ B/ 
+w: poil a poil,
+c/ A G6
+w: en chan- tant,
+z2 d > d A A c3/2 B// A// G2
+w: El- le~al- loy- ent cer- * _ chant,
+z2 d > d A A c3/2 B// A// G3/2
+w: El- le~al- loy- ent cer- * _ chant,
+d/ _e > d d/ c3/2 d3/2
+w: En- tre deux ga- bi- ons, 
+A/ B3/2 A/ A/ G3/2 A2
+w: En- tre deux ga- bi- ons, 
+z2 G d d c d B A2
+w: Pour i me- tre ung mer- chant
+z4 G d d c d B A
+w: Pour i me- tre ung mer- chant
+z/ B/ c/ B/ c/ A/ G
+w: qui feust bon com- pag- non, 
+A B/ A/ B/ G/ F
+w: Et bon be- la- ri- bon, 
+G A2 
+w: bon, bon,
+z4 G d d c d B A3/2
+w: Pour i me- tre ung mer- chant
+B/ c/ B/ c/ A/ G
+w: qui feust bon com- pag- non, 
+A A/ B/ c/ A/ G8 HG8 |]
+w: Et bon be- la- ri- bon, bon.
+
+
+X:3
+T:[1] Jennette, Marion se vont jouer
+T:Bassus
+O: Transcribed from French Chansons for three voices (ca. 1550), 
+O: Part I: Three-Part Chansons Printed by Gardane (1541), 
+O: Edited by Courtney S. Adams, A-R Editions, Inc. Madison, Wisconsin
+C: Claudin de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+%%MIDI transpose -24
+K:G dor bass
+z4 G2 B/ A/ B/ c/ d G g g g2 g2
+w: Jen- net- te, Ma- ri- on _ se vont jou- er, 
+z G B/ A/ B/ c/ d f c g2 _e d
+w: Jen- net- te, Ma- ri- on  se vont jou- * er, 
+d g6
+w: aux champs, 
+z G B/ A/ B/ c/ d 
+w: El- le~ont  pleu- mé leur con,
+G g/ f/ g/_e/ d2
+w: El- le~ont pleu- mé leur con,
+f f c
+w: poil a poil,
+z/ d/ g/ f/ g/ _e/ d
+w: El- le~ont pleu- mé leur con,
+d/ d/ f
+w: poil a poil,
+f/ d/ g/
+w: poil a poil,
+c/ d G4
+w: en chan- tant,
+z2 g > g d d f3/2 e// d// c2 
+w: El- le~al- loy- ent cer- * _ chant,
+z2 g > g d d f3/2 e// d// c2
+w: El- le~al- loy- ent cer- * _ chant,
+z z/ d/ g > f g/ _e3/2 d3/2 
+w: En- tre deux ga- bi- ons, 
+d/ g3/2 d/ f/ _e3/2 d2
+w: En- tre deux ga- bi- ons, 
+d g g f g _e d 
+w: Pour i me- tre ung mer- chant
+G d2
+w: qui feust
+z2 d g g f g _e d3
+w: Pour i me- tre ung mer- chant
+g f/ g/ c/ d/ g 
+w: qui feust bon com- pag- non, 
+f g/ f/ g/ _e/ d 
+w: Et bon be- la- ri- bon, 
+_e d4
+w: bon, bon,
+d g g f g _e d 
+w: Pour i me- tre ung mer- chant
+d d  z/ g/ f/ g/ c/ d/ G
+w: qui feust, qui feust, bon com- pag- non, 
+d f/ g/ c/ d/ G
+w: Et bon be- la- ri- bon,
+z/ G/ G/ G/ c/ c/ G/ G/ c/ c/ G
+w: Et bon be- la- ri- bon, bon, bon, bon, bon,
+z/ G/ G/ G/ c/ c/ G c HG4 |]
+w: Et bon be- la- ri- bon, bon, bon.

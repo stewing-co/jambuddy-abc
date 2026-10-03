@@ -1,0 +1,32 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Mazurka GCF (5letras transposed)
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"Em"B,EF | GFE | "E7"B,E>B, | "Am"C2A, | "B7"FFE | E^Dc | BFA | "Em"G2E | Bef | gfe | 
+"E7"Be>B | "Am"d2c | "F#0"fga | "B7"bc'b | afb | "Em"eez || "G"dga | "D7"g2f | [L:1/8] f^e fa g=e | 
+"G"e4d2 | GG .G2.G2 | "D7"BA ^GB .A2 | AA .A2.A2 | "G"cB ^Ac .B2 | d2g2a2 | "D7"g4f2 | "B7"B^A B^d fb | "Em"a4g2 | 
+"C"e^d fe cA | "G"d3e fg | "D7"fe ^de cA | "G"G2G2z2 || [K:C] "C"zg/a/ gf .e2 | ze/f/ ed .c2 | .{/^d}e2 z2z2 | 
+"G7"(f2f)B df | {/^g}a2 z2z2 | (a2a)B df | .a2.b2.a2 | "C"ga gf e2 | "Am"zc'/d'/ c'b a2 | "E7"zb/c'/ ba ^gz | 
+((3Bc^c)  ((3d^de) ((3fg^g) | "Am"a2z2z2 | "Dm"ff f2f2 | "C"ee e2e2 | "G7"fe fa gf | "C"e2c'2 z2 || [K:F] "F"(a2a)b ag | 
+(f2f)c Ad | (c2c)A FA | "Gm"B4.G2 | ba gf ed | "C7"cd ef g2 | gf ed cB | "F"AB cd "C7"e2 | 
+"F"(a2a)b ag | "D7"(^f2f)^c d_e | (d2d)c BA | "Gm"c4B2 | "C7"{ga}b2g2 z2 | "F"{fg}a2f2 z2 | "C7"{ef}g2 ec de | "F"f2a2"_> Teil C"z2 || 
+% mz02903
+X: 2
+T: Mazurka GCF (5letras transposed) parts
+M:3/4
+L:1/4
+P:ABCDC
+K:G transpose=3 %%MIDI gchordon
+[P:A]"Em"B,EF | GFE | "E7"B,E>B, | "Am"C2A, | "B7"FFE | E^Dc | BFA | "Em"G2E | Bef | gfe | 
+"E7"Be>B | "Am"d2c | "F#0"fga | "B7"bc'b | afb | "Em"eez || [P:B]"G"dga | "D7"g2f | [L:1/8] f^e fa g=e | 
+"G"e4d2 | GG .G2.G2 | "D7"BA ^GB .A2 | AA .A2.A2 | "G"cB ^Ac .B2 | d2g2a2 | "D7"g4f2 | "B7"B^A B^d fb | "Em"a4g2 | 
+"C"e^d fe cA | "G"d3e fg | "D7"fe ^de cA | "G"G2G2z2 || [P:C][K:C] "C"zg/a/ gf .e2 | ze/f/ ed .c2 | .{/^d}e2 z2z2 | 
+"G7"(f2f)B df | {/^g}a2 z2z2 | (a2a)B df | .a2.b2.a2 | "C"ga gf e2 | "Am"zc'/d'/ c'b a2 | "E7"zb/c'/ ba ^gz | 
+((3Bc^c)  ((3d^de) ((3fg^g) | "Am"a2z2z2 | "Dm"ff f2f2 | "C"ee e2e2 | "G7"fe fa gf | "C"e2c'2 z2 || [P:D][K:F] "F"(a2a)b ag | 
+(f2f)c Ad | (c2c)A FA | "Gm"B4.G2 | ba gf ed | "C7"cd ef g2 | gf ed cB | "F"AB cd "C7"e2 | 
+"F"(a2a)b ag | "D7"(^f2f)^c d_e | (d2d)c BA | "Gm"c4B2 | "C7"{ga}b2g2 z2 | "F"{fg}a2f2 z2 | "C7"{ef}g2 ec de | "F"f2a2"_> Teil C"z2 |]
+% mz02903 
+% July 27, 2016

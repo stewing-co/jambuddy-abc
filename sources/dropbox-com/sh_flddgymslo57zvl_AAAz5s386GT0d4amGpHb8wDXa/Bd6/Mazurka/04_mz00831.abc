@@ -1,0 +1,120 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Mazurka  FBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.186 (mz00831) orig. F,Bb-Dur
+T:Gomser T\"anze. S.178-195.\"Uberliefert durch Theodor Franzen, 1870-1958, Fiesch.
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"c>dc2f2 | c>d c>BA2 | "C7"B>cB2g2 | "F"a>b agf2 | c>dc2f2 | c>d c>BA2 | "C7"B>cB2 g>a | "F"f2f2z2 :| 
+|: "Bb"d>d d>f e>d | "F"c>aa2c2 | "C7"B>gg2B2 | "F"A>ff2A2 | "Bb"d>d d>f e>d | "F"c>aa2c2 | "C7"B>gg2e2 | "F"f2f2z2 :| [K:Bb] 
+"Bb"d>ff2f2 | g>ff2f2 | b>a g>f e>d | "F7"f2e2e2 | A>B c>d e>f | .a2!>!a4 | A>B c>d e>f | "Bb".g2!>!f4 | 
+d>ff2f2 | g>ff2f2 | b>a g>f e>d | "F7"f2e2e2 | A>B c>d e>g | "Bb"f>bb2d2 | "F7"e>c'c'2a2 | "Bb"b2b2z2 |]
+% mz00831
+X:2
+T:Mazurka  CF 5-
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C%%MIDI gchordon
+"C"G>AG2c2 | G>A G>FE2 | "G7"F>GF2d2 | "C"e>f edc2 | G>AG2c2 | G>A G>FE2 | "G7"F>GF2 d>e | "C"c2c2z2 :| 
+|: "F"A>A A>c B>A | "C"G>ee2G2 | "G7"F>dd2F2 | "C"E>cc2E2 | "F"A>A A>c B>A | "C"G>ee2G2 | "G7"F>dd2B2 | "C"c2c2z2 :| [K:F] 
+"F"A>cc2c2 | d>cc2c2 | f>e d>c B>A | "C7"c2B2B2 | E>F G>A B>c | .e2!>!e4 | E>F G>A B>c | "F".d2!>!c4 | 
+A>cc2c2 | d>cc2c2 | f>e d>c B>A | "C7"c2B2B2 | E>F G>A B>d | "F"c>ff2A2 | "C7"B>gg2e2 | "F"f2f2z2 |]
+% mz00831
+X:3
+T:Mazurka  GC 10-
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G%%MIDI gchordon
+"G"D>ED2G2 | D>E D>CB,2 | "D7"C>DC2A2 | "G"B>c BAG2 | D>ED2G2 | D>E D>CB,2 | "D7"C>DC2 A>B | "G"G2G2z2 :| 
+|: "C"E>E E>G F>E | "G"D>BB2D2 | "D7"C>AA2C2 | "G"B,>GG2B,2 | "C"E>E E>G F>E | "G"D>BB2D2 | "D7"C>AA2F2 | "G"G2G2z2 :| [K:C] 
+"C"E>GG2G2 | A>GG2G2 | c>B A>G F>E | "G7"G2F2F2 | B,>C D>E F>G | .B2!>!B4 | B,>C D>E F>G | "C".A2!>!G4 | 
+E>GG2G2 | A>GG2G2 | c>B A>G F>E | "G7"G2F2F2 | B,>C D>E F>A | "C"G>cc2E2 | "G7"F>dd2B2 | "C"c2c2z2 |]
+% mz00831
+X:4
+T:Mazurka  GC 2+
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G%%MIDI gchordon
+"G"d>ed2g2 | d>e d>cB2 | "D7"c>dc2a2 | "G"b>c' bag2 | d>ed2g2 | d>e d>cB2 | "D7"c>dc2 a>b | "G"g2g2z2 :| 
+|: "C"e>e e>g f>e | "G"d>bb2d2 | "D7"c>aa2c2 | "G"B>gg2B2 | "C"e>e e>g f>e | "G"d>bb2d2 | "D7"c>aa2f2 | "G"g2g2z2 :| [K:C] 
+"C"e>gg2g2 | a>gg2g2 | c'>b a>g f>e | "G7"g2f2f2 | B>c d>e f>g | .b2!>!b4 | B>c d>e f>g | "C".a2!>!g4 | 
+e>gg2g2 | a>gg2g2 | c'>b a>g f>e | "G7"g2f2f2 | B>c d>e f>a | "C"g>c'c'2e2 | "G7"f>d'd'2b2 | "C"c'2c'2z2 |]
+% mz00831
+X:5
+T:Mazurka  CF (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"G>AG2c2 | G>A G>FE2 | "G7"F>GF2d2 | "C"e>f edc2 | G>AG2c2 | G>A G>FE2 | "G7"F>GF2 d>e | "C"c2c2z2 :| 
+|: "F"A>A A>c B>A | "C"G>ee2G2 | "G7"F>dd2F2 | "C"E>cc2E2 | "F"A>A A>c B>A | "C"G>ee2G2 | "G7"F>dd2B2 | "C"c2c2z2 :| [K:F] 
+"F"A>cc2c2 | d>cc2c2 | f>e d>c B>A | "C7"c2B2B2 | E>F G>A B>c | .e2!>!e4 | E>F G>A B>c | "F".d2!>!c4 | 
+A>cc2c2 | d>cc2c2 | f>e d>c B>A | "C7"c2B2B2 | E>F G>A B>d | "F"c>ff2A2 | "C7"B>gg2e2 | "F"f2f2z2 |]
+% mz00831
+X:6
+T:Mazurka  GC (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"D>ED2G2 | D>E D>CB,2 | "D7"C>DC2A2 | "G"B>c BAG2 | D>ED2G2 | D>E D>CB,2 | "D7"C>DC2 A>B | "G"G2G2z2 :| 
+|: "C"E>E E>G F>E | "G"D>BB2D2 | "D7"C>AA2C2 | "G"B,>GG2B,2 | "C"E>E E>G F>E | "G"D>BB2D2 | "D7"C>AA2F2 | "G"G2G2z2 :| [K:C] 
+"C"E>GG2G2 | A>GG2G2 | c>B A>G F>E | "G7"G2F2F2 | B,>C D>E F>G | .B2!>!B4 | B,>C D>E F>G | "C".A2!>!G4 | 
+E>GG2G2 | A>GG2G2 | c>B A>G F>E | "G7"G2F2F2 | B,>C D>E F>A | "C"G>cc2E2 | "G7"F>dd2B2 | "C"c2c2z2 |]
+% mz00831
+X:7
+T:Mazurka  GC (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"d>ed2g2 | d>e d>cB2 | "D7"c>dc2a2 | "G"b>c' bag2 | d>ed2g2 | d>e d>cB2 | "D7"c>dc2 a>b | "G"g2g2z2 :| 
+|: "C"e>e e>g f>e | "G"d>bb2d2 | "D7"c>aa2c2 | "G"B>gg2B2 | "C"e>e e>g f>e | "G"d>bb2d2 | "D7"c>aa2f2 | "G"g2g2z2 :| [K:C] 
+"C"e>gg2g2 | a>gg2g2 | c'>b a>g f>e | "G7"g2f2f2 | B>c d>e f>g | .b2!>!b4 | B>c d>e f>g | "C".a2!>!g4 | 
+e>gg2g2 | a>gg2g2 | c'>b a>g f>e | "G7"g2f2f2 | B>c d>e f>a | "C"g>c'c'2e2 | "G7"f>d'd'2b2 | "C"c'2c'2z2 |]
+% mz00831
+X:8
+T:Mazurka D&G (tinwhistle in D)
+T:mz00831 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"A>BA2d2 | A>B A>GF2 | "A7"G>AG2e2 | "D"f>g fed2 | A>BA2d2 | A>B A>GF2 | "A7"G>AG2 e>f | "D"d2d2z2 :| 
+|: "G"B>B B>d c>B | "D"A>ff2A2 | "A7"G>ee2G2 | "D"F>dd2F2 | "G"B>B B>d c>B | "D"A>ff2A2 | "A7"G>ee2c2 | "D"d2d2z2 :| [K:G] 
+"G"B>dd2d2 | e>dd2d2 | g>f e>d c>B | "D7"d2c2c2 | F>G A>B c>d | .f2!>!f4 | F>G A>B c>d | "G".e2!>!d4 | 
+B>dd2d2 | e>dd2d2 | g>f e>d c>B | "D7"d2c2c2 | F>G A>B c>e | "G"d>gg2B2 | "D7"c>aa2f2 | "G"g2g2z2 |]
+X:9
+T:Mazurka D&G (tinwhistle in D) solo
+T:mz00831 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+A>BA2d2 | A>B A>GF2 | G>AG2e2 | f>g fed2 | A>BA2d2 | A>B A>GF2 | G>AG2 e>f | d2d2z2 :| 
+|: B>B B>d c>B | A>ff2A2 | G>ee2G2 | F>dd2F2 | B>B B>d c>B | A>ff2A2 | G>ee2c2 | d2d2z2 :| [K:G] 
+B>dd2d2 | e>dd2d2 | g>f e>d "_c"c>B | d2"_c"c2c2 | F>G A>B "_c"c>d | .f2!>!f4 | F>G A>B "_c"c>d | .e2!>!d4 | 
+B>dd2d2 | e>dd2d2 | g>f e>d "_c"c>B | d2"_c"c2c2 | F>G A>B "_c"c>e | d>gg2B2 | "_c"c>aa2f2 | g2g2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 22, 2016
+

@@ -1,0 +1,23 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Schottisch CF  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.249 (st05391) orig. C,F-Dur
+T: "Pl\"otsch Musig" Guggisberg (Bern) S.186ff
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"gage cBcd | "Dm/F"e2d2A4 | "G7"Bcd2 def2 | "C"cde2 efg2 | gage cBcd | "Dm"e2d2A4 | "G7"Bcd2 dcB2 | "C"c2e2 c2z2 ::
+"G7"def2 fga2 | "C"a2g2 gfe2 | "G7"g2f2 fed2 | "C"f2e2 e^de2 | "Dm/F"def2 "G7"fga2 | "C"a2g2 gfe2 | "G7"g3f fed2 | "C"c2c2 c2z2 :: [K:F] [L:1/8]
+"F"c2 de | f2 ed | "C7"de/d/ ce | B3d | de/d/ ce | B3d | "F"de/d/ cf | A3c/c/ | c2 de | f2 ed | 
+"C7"de/d/ ce | B3c/c/ | ce gb | "F"ba a/g/f | "C7"ag g/f/e | "F"gf f/d/c | "C7"ce gb | "F"ba a/g/f | "C7"ag g/f/e | "F"ff fz |] 
+
+X:2
+T:Schottisch GC 5-  chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"dedB GFGA | "Am/C"B2A2E4 | "D7"FGA2 ABc2 | "G"GAB2 Bcd2 | dedB GFGA | "Am"B2A2E4 | "D7"FGA2 AGF2 | "G"G2B2 G2z2 ::
+"D7"ABc2 cde2 | "G"e2d2 dcB2 | "D7"d2c2 cBA2 | "G"c2B2 B^AB2 | "Am/C"ABc2 "D7"cde2 | "G"e2d2 dcB2 | "D7"d3c cBA2 | "G"G2G2 G2z2 :: [K:Cmaj] [L:1/8]
+"C"G2 AB | c2 BA | "G7"AB/2A/2 GB | F3A | AB/2A/2 GB | F3A | "C"AB/2A/2 Gc | E3G/2G/2 | G2 AB | c2 BA | 
+"G7"AB/2A/2 GB | F3G/2G/2 | GB df | "C"fe e/2d/2c | "G7"ed d/2c/2B | "C"dc c/2A/2G | "G7"GB df | "C"fe e/2d/2c | "G7"ed d/2c/2B | "C"cc cz |] 

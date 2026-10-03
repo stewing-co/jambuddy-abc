@@ -1,0 +1,14 @@
+X:702
+T:N.10 Moderado
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:D
+V: 2 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+"arco" !mf! !trill!A,2 |!<(! !trill!A,2!<)!
+| !f! !<(!!trill!A,2!<)!
+| !ff! !trill!A,2
+| !>(!!trill!A,2!>)!
+| !>(!!trill!A,2!>)! | !>!D2/4>.C/ .B,2/4.D2/4 | [B,D] !>(!A,!>)! !p! | "graciosamente" A,2/4 z/ z | Z1 | z z/ .A1/4.^G1/4 | .A2/4.F2/4 !>![CE]2/4.F1/4.E1/4 | D !>!(_B, || [M:3/4] _B,) .=B,2/4.B,2/4 !>!(B, || [M:2/4] B,2/4).C2/4 !>!([B,D] | [B,D]2/4).C2/4 (D | D2/4)[CE]2/4 !>! ([CE] | [CE]2/4) z/ z | Z3 | !fermata! Z1 ||

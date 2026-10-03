@@ -1,0 +1,21 @@
+X:105
+T:Panis Angelicus
+C:Frei Manuel Cardoso
+M:C|
+L:1/4
+K:F
+V: 5 clef=treble name="Superius II" sname="S.II"
+%%MIDI program 1 1
+%%staves [ 5 ]
+[K: treble]
+[V:5] A2- B2 | =B c  d2-  | c3 c | c2 z f | d2 c d- |d ^c d f- | f e/d/ e  e|f2 z d |
+w: Pa--nis An-ge--li-cus  fit pa-nis  ho--mi- mum ho-----mi-num dat
+%
+[V:5]e e  f2- | d3 d | d2 1z  G | A A  B3/ B/| F  f/e/ d/c/ c- | c =B c G | A A B/A/  A- | A G A f- |
+w: pa-nis cae--li-tus dat pa-nis cae-li-tus cae------li-tus fi-gu-ris ter----mi-num ter
+%
+[V:5]f   e d2  | z A A2- | A B c3/2 c/ |  c3  c  | d3  c  | =Bc d2  | z d d e |  f3 e |
+w:-mi-num O Rex ~ mi-ra-bi-lis man-du-cat Do-mi-num O Rex mi-ra-bi-
+%
+[V:5]  d2  z c- | c  =B  c F- | F E  F f- | f d2 e- | e f d2  | c3 c |  A4 |]
+w:lis man--du-cat Do--mi-num pau--per ser--vus et hu-mi-lis.

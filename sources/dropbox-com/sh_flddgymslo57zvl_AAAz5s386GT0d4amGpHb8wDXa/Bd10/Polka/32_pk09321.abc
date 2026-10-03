@@ -1,0 +1,73 @@
+%%MIDI program 21
+%%partsbox
+
+X:1
+T:Polka  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.184 (pk09321) orig. C,F
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+c'ba |: "C"a2g2 gecd | "G7"c2B2 Bc'ba | a2g2 gfde | "C"d2c2 cc'ba | a2g2 gecd | "G7"c2B2 Bc'ba | 
+a2g2 gfdg |1 "C"c2e2 cc'ba :|2 "C"c2e2 c2z2 |: "G7"fgbd' g4 | "C"egc'e'g4 | "G7"gbb2 bgf2 | "C"eaa2 age2 | 
+"G7"fgbd' g4 | "C"egc'e'g4 | "G7"gbb2 bagd | "C"c2e2 c2z2 :: [K:F] "F"Acc2 dcc2 | fcc2a4 | "C7"c'gg2 gbag | 
+"F"fgaf c4 |  Acc2 dcc2 | fcc2 a4 | "C7"c'gg2 gbag | "F"f2a2 f2z2 :: "F"ba^ga d'2a2 | 
+"C7"c'2g2 {/a}g^fga | "Bb"b2d2 "C7"a3g | "F"fefa c4 | ba^ga d'2a2 | "C7"c'2g2 g^fga | b2e2 a3g | "F"f2a2 f2z2 :|
+% pk09321
+X:2
+T:Polka  GC 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+gfe |: "G"e2d2 dBGA | "D7"G2F2 Fgfe | e2d2 dcAB | "G"A2G2 Ggfe | e2d2 dBGA | "D7"G2F2 Fgfe | 
+e2d2 dcAd |1 "G"G2B2 Ggfe :|2 "G"G2B2 G2z2 |: "D7"cdfa d4 | "G"Bdgbd4 | "D7"dff2 fdc2 | "G"Bee2 edB2 | 
+"D7"cdfa d4 | "G"Bdgbd4 | "D7"dff2 fedA | "G"G2B2 G2z2 :: [K:C] "C"EGG2 AGG2 | cGG2e4 | "G7"gdd2 dfed | 
+"C"cdec G4 | EGG2 AGG2 | cGG2 e4 | "G7"gdd2 dfed | "C"c2e2 c2z2 :: "C"fe^de a2e2 | 
+"G7"g2d2 {/e}d^cde | "F"f2A2 "G7"e3d | "C"cBce G4 | fe^de a2e2 | "G7"g2d2 d^cde | f2B2 e3d | "C"c2e2 c2z2 :|
+% pk09321
+X:3
+T:Polka  CF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+c'ba |: "C"a2g2 gecd | "G7"c2B2 Bc'ba | a2g2 gfde | "C"d2c2 cc'ba | a2g2 gecd | "G7"c2B2 Bc'ba | 
+a2g2 gfdg |1 "C"c2e2 cc'ba :|2 "C"c2e2 c2z2 |: "G7"fgbd' g4 | "C"egc'e'g4 | "G7"gbb2 bgf2 | "C"eaa2 age2 | 
+"G7"fgbd' g4 | "C"egc'e'g4 | "G7"gbb2 bagd | "C"c2e2 c2z2 :: [K:F] "F"Acc2 dcc2 | fcc2a4 | "C7"c'gg2 gbag | 
+"F"fgaf c4 |  Acc2 dcc2 | fcc2 a4 | "C7"c'gg2 gbag | "F"f2a2 f2z2 :: "F"ba^ga d'2a2 | 
+"C7"c'2g2 {/a}g^fga | "Bb"b2d2 "C7"a3g | "F"fefa c4 | ba^ga d'2a2 | "C7"c'2g2 g^fga | b2e2 a3g | "F"f2a2 f2z2 :|
+% pk09321
+X:4
+T:Polka  GC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+gfe |: "G"e2d2 dBGA | "D7"G2F2 Fgfe | e2d2 dcAB | "G"A2G2 Ggfe | e2d2 dBGA | "D7"G2F2 Fgfe | 
+e2d2 dcAd |1 "G"G2B2 Ggfe :|2 "G"G2B2 G2z2 |: "D7"cdfa d4 | "G"Bdgbd4 | "D7"dff2 fdc2 | "G"Bee2 edB2 | 
+"D7"cdfa d4 | "G"Bdgbd4 | "D7"dff2 fedA | "G"G2B2 G2z2 :: [K:C] "C"EGG2 AGG2 | cGG2e4 | "G7"gdd2 dfed | 
+"C"cdec G4 | EGG2 AGG2 | cGG2 e4 | "G7"gdd2 dfed | "C"c2e2 c2z2 :: "C"fe^de a2e2 | 
+"G7"g2d2 {/e}d^cde | "F"f2A2 "G7"e3d | "C"cBce G4 | fe^de a2e2 | "G7"g2d2 d^cde | f2B2 e3d | "C"c2e2 c2z2 :|
+% pk09321
+X:5
+T:Polka D&G (tinwhistle in D) solo
+T:pk09321 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+dcB |: B2A2 AFDE | D2C2 CdcB | B2A2 AGEF | E2D2 DdcB | B2A2 AFDE | D2C2 CdcB | 
+B2A2 AGEA |1 D2F2 DdcB :|2 D2F2 D2z2 |: GAce A4 | FAdfA4 | Acc2 cAG2 | FBB2 BAF2 | 
+GAce A4 | FAdfA4 | Acc2 cBAE | D2F2 D2z2 :: [K:G] B,DD2 EDD2 | GDD2B4 | dAA2 A"_c"cBA | 
+GABG D4 | B,DD2 EDD2 | GDD2 B4 | dAA2 AcBA | G2B2 G2z2 :: cB^AB e2B2 | 
+d2A2 {/B}A^GAB | "_c"c2E2 B3A | GFGB D4 | cB^AB e2B2 | d2A2 A^GAB | c2F2 B3A | G2B2 G2z2 :|
+% pk09321
+% Sep. 10, 2016

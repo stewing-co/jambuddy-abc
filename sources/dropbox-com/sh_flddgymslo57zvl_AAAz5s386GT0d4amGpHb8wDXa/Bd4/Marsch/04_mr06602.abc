@@ -1,0 +1,52 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Marsch. FBb (mr06602)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.258 (mr06602) orig. F,Bb
+T: Repertoire der "Dorfmusig Aesch". S.255-269
+T:Überliefert durch Eduard Häring, Aesch.%%MIDI program 21
+R:Marsch
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"f2c2 | Ac/c/ cc | c2A2 | FA/A/ AA | "C7"GA B2 | "F"ABc2 | "C7"ef/e/ de | "F"ff fz :| 
+|: "F"c2Ad | c2Af | "C7"e2Bd | "F"=Bc dc | c2Ad | c2Af | "C7"ec/c/ ce | "F"ff fz :| [K:Bb] 
+|: "Bb".d2.d2 | dF2B | dF Bd | "F7"f2.c2 | .c2.c2 | cF2A | cF d>c | "Bb"BB Bz :| 
+W:
+W:Ga.löö "der Falke", Lampenberg 639/5, Arisdorf III 9, s.V. 639
+% mr06602
+% May 01, 2017
+
+X:2
+T:Marsch. GC 2+ (mr06602)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.258 (mr06602) orig. F,Bb
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.%%MIDI program 21
+R:Marsch
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"g2d2 | Bd/2d/2 dd | d2B2 | GB/2B/2 BB | "D7"AB c2 | "G"Bcd2 | "D7"fg/2f/2 ef | "G"gg gz :| 
+|: "G"d2Be | d2Bg | "D7"f2ce | "G"^cd ed | d2Be | d2Bg | "D7"fd/2d/2 df | "G"gg gz :| [K:Cmaj] 
+|: "C".e2.e2 | eG2c | eG ce | "G7"g2.d2 | .d2.d2 | dG2B | dG e>d | "C"cc cz :| 
+%W:Ga.löö "der Falke", Lampenberg 639/5, Arisdorf III 9, s.V. 639
+% mr06602
+% May 01, 2017
+
+X:3
+T:Marsch. CF 5- (mr06602)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.258 (mr06602) orig. F,Bb
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.%%MIDI program 21
+R:Marsch
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"c2G2 | EG/2G/2 GG | G2E2 | CE/2E/2 EE | "G7"DE F2 | "C"EFG2 | "G7"Bc/2B/2 AB | "C"cc cz :| 
+|: "C"G2EA | G2Ec | "G7"B2FA | "C"^FG AG | G2EA | G2Ec | "G7"BG/2G/2 GB | "C"cc cz :| [K:Fmaj] 
+|: "F".A2.A2 | AC2F | AC FA | "C7"c2.G2 | .G2.G2 | GC2E | GC A>G | "F"FF Fz :| 
+%W:Ga.löö "der Falke", Lampenberg 639/5, Arisdorf III 9, s.V. 639
+% mr06602
+% May 01, 2017

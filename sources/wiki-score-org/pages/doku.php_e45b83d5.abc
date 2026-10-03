@@ -1,0 +1,21 @@
+X:605
+T:Ns.8-9
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:D
+V: 5 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%----------- edit between the lines ------------
+"_[fol.18]" X4 | "_arco" !f! z/ .D//.A,// !sfz! D,/ z/ | X2 | (!>!D,2 |  D,) z  | \
+"_[fol.19]"  X4 | !ff! !>!G,/ z/ !>!E,/ z/ | !>!F,/ z/ !>!^D,/ z/|  !>!E,/ z/ !>!A,,/!>!G,,/ | \
+"_[fol.20]" F,,/ z/ B,,//F,,//^A,,//B,,// | G,//A,//G,//F,// E,//F,//G,//E,// | \
+F,//G,//F,//E,// ^D,//E,//F,//D,// | E,//F,//G,//E,// !>!A,,/!>!A,,/  | \
+!sfz! D,/ "_(no estandarte)" .D,//.D,// .D,/.D,/ | F,/F,//F,// G,/G,/ | \
+F,/F,//F,// G,/G,/ | F,/F,//F,// G,/G,/  | D,/ z/ z  | z/ "_(no estandarte)" G,//G,// G,/G,/   | \
+"_[fol.21]" F,/ z/ z/ "_(com as cerdas)" C,//D,// | E,/ z/ z/  !fff! !>!A,,/ || \
+!>!D,/ z/ "_no estandarte" A,/A,/  | G,/ z/ A,/A,/ | G,/ z/ A,/A,/ |\
+G,/ z/ A,/A,/ | G,/ z/ !pp! G,/G,/ |A,/ z/ A,/A,/ | \
+"_[fol.22]" A,/ z/ A,/A,/ | A,/ z/ A,/A,/ | !f! "_com as cerdas" D,2- | D,2- | D,2 | D,2 | D,2- | D,2- | D,2 ||
+%-----------------------------------------------

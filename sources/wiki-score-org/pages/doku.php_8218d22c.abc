@@ -1,0 +1,39 @@
+X:106
+T:Motete
+C:Antonio da Silva Leite (1759-1833)
+M:3/4
+L:1/4
+K:F
+V: 6 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 6 }]
+%----- edit between the lines ------
+"_[fol.1]" [F,,F,]3/2 z//C,// A,,/z//C,// | F,/z//C,//A,F, | \
+!fermata!C,3 | !fermata!F,,z!fermata!F,, | F,zz |
+z/>C,/ E,/z//G,// E,/z//G,// | C,zz | z/>F,/ A,/z//C// A,/z//F,// | \
+[B,D]/[B,D]/[B,D]/[B,D]/[B,D]/[B,D]/ | !/![B,D]3 | !/![A,C]3 | !/![G,B,]3 |
+!/![E,G,]3 | C,zz | z/C,/!/!C,2 | !fermata!F,,3xx/ | z/G,/!/!G,2 | \
+z/F,/!/!F,2 | z/E,/!/!E,2 | z/D/!/!D2 |
+z/^C/!/!C2 | z/B,/!/!B,2 | B,A,z | B,A,z | B,A,z | !/!D,2D,/C,/ | \
+=B,,B,,G,, | !fermata!C,2!fermata!C,, ||
+[Q:"Allegretto"] [M:C] F,F,F,F, | E,E,E,E, | F,F,F,F, | E,E,E,E, | \
+F,F,F,,z | z/B,//B,// B,/B,/B,z | z/G,//G,// G,/G,/G,z |
+F,F,B,,B,, | C,C,C,C, | F,F,F,F, | E,E,E,E, | \
+F,F,F,F, | E,E,E,E, | F,F,F,,z | z/B,//B,// B,/B,/B,z |
+z/G,//G,// G,/G,/G,z | F,F,B,,B,, | C,C,C,C, | F,z=B,,2 | \
+C,C,C,C, | F,z=B,,2 | C,C,C,C, |
+[F,A,]/C/ [F,A,]/C/ [E,B,]/C/ [E,B,]/C/ | [F,A,]/C/ [F,A,]/C/ [E,B,]/C/ [E,B,]/C/ | \
+[F,A,]/C/ [F,A,]/C/ [E,B,]/C/ [E,B,]/C/ |
+[F,A,]/C/ [F,A,]/C/ [E,B,]/C/ [E,B,]/C/ | [F,A,C][F,A,C][F,A,C]z |]
+%---------
+W:Full title (to integrate):
+W: Moteto p.a as festividades
+W: de N. S.ra na Elevação do SS.mo
+W: A Solo e Org\~ao
+W: para uzo
+W: da
+W: Ex.ma S.ra D. Maria Amalia
+W: Religioza em S. Bento da Ave Maria
+W: por
+W: Antonio da S.a Leite
+%-----------------------------------

@@ -1,0 +1,43 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Geburtstagswalzer GDC
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.293 (wz02064) orig. G,D,C
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T:Überliefert vermutlich durch Joggi Stocker (1889-1956)
+%%MIDI program 21
+%%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"dBd | e2B | ("D7"d3 | c)zz | ABc | f2e | ("G"d3 | d)zz | dBd | g2B | "Am"A2f | 
+e3 | "D7"d2F | d2F | ("G"G3 | G)zz || [K:D] "D"ABc | def | "A7"f2g | ezz | f2g | ezz | 
+"D"e2f | dzz | ABc | def | "Em"a2g | B3 | "A7"f2g | f2e | "D"d>dd | dzz || [K:G] "G"g2d | 
+B2d | "D7"f2e | c3 | AzB | cze | "G"d3 | Bzz | g2d | "E7"B2d | "Am"f2e | c3 | 
+"D7"d2c | B2A | ("G"G3 | "G7"G)zz || [K:C] "C"EzE | AzB | c2g | g2c | "G7"B2g | g2B | "C"ced | 
+"F"cBA | "G7"GzG | AzB | "C"c2g | g2c | "F"A2f | "G7"e2d | "C"c>cc | czz |] 
+W: Geburtstag (birthday)
+% wz02064 (H 073/TN 48)
+
+X:2
+T:Geburtstagswalzer CGF
+%%MIDI program 21
+%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"GEG | A2E | ("G7"G3 | F)zz | DEF | B2A | ("C"G3 | G)zz | GEG | c2E | "Dm"D2B | 
+A3 | "G7"G2B, | G2B, | ("C"C3 | C)zz || [K:G] "G"DEF | GAB | "D7"B2c | Azz | B2c | Azz | 
+"G"A2B | Gzz | DEF | GAB | "Am"d2c | E3 | "D7"B2c | B2A | "G"G>GG | Gzz || [K:C] "C"c2G | 
+E2G | "G7"B2A | F3 | DzE | FzA | "C"G3 | Ezz | c2G | "A7"E2G | "Dm"B2A | F3 | 
+"G7"G2F | E2D | ("C"C3 | "C7"C)zz || [K:F] "F"A,zA, | DzE | F2c | c2F | "C7"E2c | c2E | "F"FAG | 
+"Bb"FED | "C7"CzC | DzE | "F"F2c | c2F | "Bb"D2B | "C7"A2G | "F"F>FF | Fzz |] 
+% wz02064 (H 073/TN 48)
+% Sep 29, 2016

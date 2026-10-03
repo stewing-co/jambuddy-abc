@@ -1,0 +1,58 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Edelweiss-Mazurka  FC
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.289 (mz02049) orig. F,C
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T: Überliefert vermutlich durch Joggi Stocker (1889-1956)
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:mazurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"A>c d2c2 | A>c g2f2 | "C7"e>ed2c2 | B6 | B>c d2c2 | B>c g2f2 | e>e d2c2 | 
+"F"f2f2z2 :: [K:C] "C"e>ga3e | "Dm"g>^f =f3A | "G7"e2d2 BG | "C"e4z2 | EF GA Bc |1 "G7"B>gf4 | 
+DE FG AB | "C"c>ag4  :|2 "Dm"BA g3^f | "G7"=f2 GA Bd | "C"c2c2fa || [K:F]   "F"e4ea | d4 c>A | 
+"Gm"B4dg | g4ga | "C7"b>ee2e2 | e4 g^g | "F"a>ff2f2 | f4fa | e4ea | 
+d4cA | "Gm"B4da | g4ga | "C7"b>ee2g^g | "F"a>ff2AB | "C7"c2d>e g>a | "F"f2f2z2 |] 
+% mz02049 (H 071/TN 2049)
+
+X:1
+T:Edelweiss-Mazurka  FC  (mz02049)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.289 (mz02049) orig. F,C
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:mazurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"A>c d2c2 | A>c g2f2 | "C7"e>ed2c2 | B6 | B>c d2c2 | B>c g2f2 | e>e d2c2 | 
+"F"f2f2z2 :: [K:C] "C"e>ga3e | "Dm"g>^f =f3A | "G7"e2d2 BG | "C"e4z2 | EF GA Bc |1 "G7"B>gf4 | 
+DE FG AB | "C"c>ag4  :|2 "Dm"BA g3^f | "G7"=f2 GA Bd | "C"c2c2fa || [K:F]   "F"e4ea | d4 c>A | 
+"Gm"B4dg | g4ga | "C7"b>ee2e2 | e4 g^g | "F"a>ff2f2 | f4fa | e4ea | 
+d4cA | "Gm"B4da | g4ga | "C7"b>ee2g^g | "F"a>ff2AB | "C7"c2d>e g>a | "F"f2f2z2 |] 
+% mz02049
+
+X:1
+T:Edelweiss-Mazurka  CG 5-  (mz02049)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.289 (mz02049) orig. F,C
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:mazurka
+M:3/4
+L:1/8
+K:C%%MIDI gchordon
+"C"E>G A2G2 | E>G d2c2 | "G7"B>BA2G2 | F6 | F>G A2G2 | F>G d2c2 | B>B A2G2 | 
+"C"c2c2z2 :: [K:G] "G"B>de3B | "Am"d>^c =c3E | "D7"B2A2 FD | "G"B4z2 | B,C DE FG |1 "D7"F>dc4 | 
+A,B, CD EF | "G"G>ed4 :|2 "Am"FE d3^c | "D7"=c2 DE FA | "G"G2G2ce || [K:C] "C"B4Be | A4 G>E | 
+"Dm"F4Ad | d4de | "G7"f>BB2B2 | B4 d^d | "C"e>cc2c2 | c4ce | B4Be | 
+A4GE | "Dm"F4Ae | d4de | "G7"f>BB2d^d | "C"e>cc2EF | "G7"G2A>B d>e | "C"c2c2z2 |] 
+% mz02049
+% Sep 28, 2016

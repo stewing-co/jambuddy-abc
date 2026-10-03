@@ -1,0 +1,44 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka GDC (pk07394)  ABACDA
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.321 (pk07394) orig. G,D,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACDA
+R:Polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+[P:A] ("G"bd).b2 ("D7"ac).a2 | ("G"gB).g2B4 | {/B}"D7"d2d2 c3A | {/c}"C"e2e2 "G"d3B  | (bd).b2 ("D7"ac).a2 | "G"gB.g2B4 | {/B}"D7"d2d2 c3a | "G"g2g2 g2"_Fine"z2 |] [P:B] [K:D] 
+("D"fA).f2 (aA).a2 | "A7"g2g2 e'4 |  c'3b  a2g2 |  "D"b3a g2f2  | (fA).f2 (aA).a2 | "A7"g2g2 e'4 |  c'3b g2e2 | "D".d4"_>Teil A""D7"=c'4 || [P:C] [K:C] 
+|: "C"ggg2 e2c'2 | c'2c'2e4 | ("G7"gf).f2 .d2.f2 | ("C"ag).g2 .e2.g2 | g^fg2 e2e'2 | c'2c'2e4 | ("Dm"gf).f2 ("G7"bd').d'2  | "C"c'2c'2 c'2z2 :| 
+[P:D]  |: "F"a2^ga c'2ba | ("C"ag)g2 e'2e'2 | ("G7"gf).f2 d'2d'2 | "C"fe.e2 c'2c'2 | "F"a2^ga c'2ba | ("C"ag)g2 e'2e'2 | ("G7"gf).f2 d'2d'2 | "C"c'2c'2 c'2z2 :| 
+W:
+W:Anmerkung H.C.: Titterten 46, Bader, Lauel 26/18, s.V. 125
+%%% pk07394
+% July 30, 2017
+
+X:2
+T:Polka CGF 7- (pk07394)  ABACDA
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.321 (pk07394) orig. G,D,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+("C"eG).e2 ("G7"dF).d2 | ("C"cE).c2E4 | {/E}"G7"G2G2 F3D | {/F}"F"A2A2 "C"G3E | (eG).e2 ("G7"dF).d2 | "C"cE.c2E4 | {/E}"G7"G2G2 F3d | "C"c2c2 c2"_Fine"z2 |] [K:Gmaj] 
+("G"BD).B2 (dD).d2 | "D7"c2c2 a4 | f3e d2c2 | "G"e3d c2B2 | (BD).B2 (dD).d2 | "D7"c2c2 a4 | f3e c2A2 | "G".G4"_>Teil A""G7"=f4 || [K:Fmaj] 
+|: "F"ccc2 A2f2 | f2f2A4 | ("C7"cB).B2 .G2.B2 | ("F"dc).c2 .A2.c2 | c=Bc2 A2a2 | f2f2A4 | ("Gm"cB).B2 ("C7"eg).g2 | "F"f2f2 f2z2 :| 
+|: "Bb"d2^cd f2ed | ("F"dc)c2 a2a2 | ("C7"cB).B2 g2g2 | "F"BA.A2 f2f2 | "Bb"d2^cd f2ed | ("F"dc)c2 a2a2 | ("C7"cB).B2 g2g2 | "F"f2f2 f2z2 :| 
+W:Parts: ABA-CDA
+%W:Anmerkung H.C.:Titterten 46, Bader, Lauel 26/18, s.V. 125
+%%% pk07394
+% July 30, 2017 (verbal-nonverbal language)
+

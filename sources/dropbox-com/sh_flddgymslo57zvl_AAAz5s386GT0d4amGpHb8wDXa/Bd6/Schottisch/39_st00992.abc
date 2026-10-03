@@ -1,0 +1,100 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Der L\"agenda (Schottisch)  G
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.262 (st00992) orig. G-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"DD/D/ ED | DGB2 | DB DB | "D7"dc AF | DD/D/ ED | DFA2 |1 Dc Dc | "G"ed BG :|2 
+DF/A/ dF | "G"GB Gz |: "G"dc/d/ ed | g>d Bd | g>f eg | "D7"fdc2 | 
+dc/d/ ed | f>d cd |1 f>d ef | "G"gab2 :|2 ed ef | "G"gg gz |] 
+W:
+W:Anmerkung H.C.: 14. Okt. Mutter Sepp, Naters
+X:2
+T:Der L\"agenda (Schottisch)  F 2-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+"F"CC/2C/2 DC | CFA2 | CA CA | "C7"cB GE | CC/2C/2 DC | CEG2 |1 CB CB | "F"dc AF :|2 
+CE/2G/2 cE | "F"FA Fz |: "F"cB/2c/2 dc | f>c Ac | f>e df | "C7"ecB2 | 
+cB/2c/2 dc | e>c Bc |1 e>c de | "F"fga2 :|2 dc de | "F"ff fz |] 
+% st00992
+X:3
+T:Der L\"agenda (Schottisch)  C 5+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"GG/2G/2 AG | Gce2 | Ge Ge | "G7"gf dB | GG/2G/2 AG | GBd2 |1 Gf Gf | "C"ag ec :|2 
+GB/2d/2 gB | "C"ce cz |: "C"gf/2g/2 ag | c'>g eg | c'>b ac' | "G7"bgf2 | 
+gf/2g/2 ag | b>g fg |1 b>g ab | "C"c'd'e'2 :|2 ag ab | "C"c'c' c'z |] 
+% st00992
+X:4
+T: Der L\"agenda (Schottisch)  G (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"DD/D/ ED | DGB2 | DB DB | "D7"dc AF | DD/D/ ED | DFA2 |1 Dc Dc | "G"ed BG :|2 
+DF/A/ dF | "G"GB Gz |: "G"dc/d/ ed | g>d Bd | g>f eg | "D7"fdc2 | 
+dc/d/ ed | f>d cd |1 f>d ef | "G"gab2 :|2 ed ef | "G"gg gz |] 
+% st00992
+X:5
+T:Der L\"agenda (Schottisch)  F (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"CC/2C/2 DC | CFA2 | CA CA | "C7"cB GE | CC/2C/2 DC | CEG2 |1 CB CB | "F"dc AF :|2 
+CE/2G/2 cE | "F"FA Fz |: "F"cB/2c/2 dc | f>c Ac | f>e df | "C7"ecB2 | 
+cB/2c/2 dc | e>c Bc |1 e>c de | "F"fga2 :|2 dc de | "F"ff fz |] 
+% st00992
+X:6
+T:Der L\"agenda (Schottisch)  C (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"GG/2G/2 AG | Gce2 | Ge Ge | "G7"gf dB | GG/2G/2 AG | GBd2 |1 Gf Gf | "C"ag ec :|2 
+GB/2d/2 gB | "C"ce cz |: "C"gf/2g/2 ag | c'>g eg | c'>b ac' | "G7"bgf2 | 
+gf/2g/2 ag | b>g fg |1 b>g ab | "C"c'd'e'2 :|2 ag ab | "C"c'c' c'z |] 
+% st00992
+X:7
+T: Der L\"agenda (Schottisch) G (tinwhistle in D)
+T:st00992 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"DD/D/ ED | DGB2 | DB DB | "D7"dc AF | DD/D/ ED | DFA2 |1 Dc Dc | "G"ed BG :|2 
+DF/A/ dF | "G"GB Gz |: "G"dc/d/ ed | g>d Bd | g>f eg | "D7"fdc2 | 
+dc/d/ ed | f>d cd |1 f>d ef | "G"gab2 :|2 ed ef | "G"gg gz |] 
+X:8
+T: Der L\"agenda (Schottisch) G (tinwhistle in D) solo
+T:st00992 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:G transpose=12
+DD/D/ ED | DGB2 | DB DB | d"_c"c AF | DD/D/ ED | DFA2 |1 D"_c"c Dc | ed BG :|2 
+DF/A/ dF | GB Gz |: d"_c"c/d/ ed | g>d Bd | g>f eg | fd"_c"c2 | 
+d"_c"c/d/ ed | f>d "_c"cd |1 f>d ef | gab2 :|2 ed ef | gg gz |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 29, 2016

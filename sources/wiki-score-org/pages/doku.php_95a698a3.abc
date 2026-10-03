@@ -1,0 +1,16 @@
+X:2211
+T:Andante [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:3/4
+L:1/4
+K:Eb
+V: 11 clef=treble name="Violini I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 11 }]
+%----------
+[Q:"Andante"] "pizzicati" B/z/ B/z/ B/z/ | c/z/ c/z/ c/z/ | \
+F/z/ G/z/ A/z/ | A/z/ G/z/ G/z/|  =A/z/ A/z/ A/z/ | B/z/ B/z/ B/z/| c/z/ B/z/ =A/z/ | Bzz | \
+c/z/ B/z/ =A/z/ |  B/z/ B/z/ B/z/ | _A/z/ A/z/ A/z/ | G/z/ G/z/ G/z/ | \
+B/z/ A/z/ G/z/ | G/z/ F/z/ z | B/z/ B/z/ B/z/ | c/z/ c/z/ z |  B/z/ B/z/ d/z/ | e z!fermata!z | \
+B/z/ B/z/ B/z/ | c/z/ c/z/ c/z/ | c/z/ B/z/ d/z/ | e/z/ B/z/ d/z/ | e/z/ c/z/ d/z/ | eez |]\
+%----------

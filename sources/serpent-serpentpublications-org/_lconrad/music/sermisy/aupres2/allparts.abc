@@ -1,0 +1,56 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Auprès de vous
+C:Claude de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+K:A min
+c4 B3 B A > B c/ d/ c > B A/ G/ A2 "A"G2 z G
+A A c c B2 A2 z G G G A > B c B > A G/ F/ E/ D/ C/ B,/ A,
+A2 ^G "B"A2 z E E E  G2 z G G G A A G > F E/ D/
+A G F > E E2 D "C"E2 z A A A  c3 B/ A/ G G 
+A A G F E/ F/ G/ A/ B/ c/ d > c c2 B "D"c2 z2 c4 B3 B
+A/ G/ A/ B/ c/ d/ c > B A/ G/ A2 G2 z G A A c c B2 "E"A2
+z G G G A/ G/ A/ B/ c B > A G/ F/ E/ F/ G/ A/ B A G2 A2 z2
+c4 B3 B A/ G/ A/ B/ c/ d/ c > B A/ G/ A2 "F"G2 z
+G A A c c B2 A2 z G G G A/ G/ A/ B/ c B > A G/ F/ E/ F/ G/ A/ B A2 
+^G HA4 |]
+
+X:2
+T:Auprès de vous
+C:Claude de Sermisy
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+K:A min -8va
+%%MIDI transpose -12
+c2 e f g G G/ A/ B/ c/ d/ e/ f/ g/ a/ b/ a > g g2 ^f "A"g c d e
+f f e2 d G A A c c B2 A/ B/ c/ d/ e/ f/ g > f e/ d/ c/ d/ e2
+d/ c/ B/ A/ B "B"A A A A c2 z c c c B c F/ G/ A/ B/ c/ d/ e/ f/ g
+c > B A/ G/ A/ G/ F/ E/ F2 "C"E A A/ G/ A/ B/ c d A A c/ B/ c/ d/ e e
+A/ B/ c/ d/ e A/ B/ c/ d/ e/ f/ g/ e/ f/ g/ f/ e/ d/ c/ d2 "D"c2 f4 e3 e d > c
+d/ e/ f2 e/ d/ e/ d/ g2 ^f g c d e f2 z c d e "E"f f 
+e > d c B A/ B/ c/ d/ e/ f/ g > f e/ d/ c/ d/ e/ c/ d/ c/ B/ A/ B c > B A/ G/ F/ G/ A/ B/
+c/ B/ A/ B/ c/ d/ e/f/ g G/ A/ B/ c/ d/ e/ f F/ G/ A/ B/ c/ d/ e/ f/ g2 ^f "F"g c d
+e f f e2 d G A A c c B2 A/ B/ c/ d/ e/ f/ g > f e/ d/ c/ d/ e/ c/ d/ c/ B/ A/ B2 
+HA4 |]

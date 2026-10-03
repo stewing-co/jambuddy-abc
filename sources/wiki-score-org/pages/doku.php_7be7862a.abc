@@ -1,0 +1,21 @@
+X:603
+T:Tantum Ergo
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 3 clef=alto name="Alto" sname="A."
+%%MIDI program 1 41
+%%staves [ 3 ]
+%------------------
+[Q:"Andante"] !p! .C/z/ .G,/z/ .C/z/ .G,/z/ |.D/z/ .G,/z/ .D/z/ .G,/z/ | G,zz2 | !p!(B,4 | B,) zz !p!F | \
+!p!E(!>!DED) | (C2=B,2) | Czz2 | (_B,2=A,2) | Z | "_cresc."^F/FFFF/ | G !p!(DE=F) | !p! (E4 | D)zz2 | \
+!p! (E4 | D)zz2 | z2 !p!B2-|Bzz!p!E-|EE2E-|EE2(E|F)z\
+!p!B2-|B2!p!c2-|c2=B2|cFG2|(F2E2)|.Ez.Ez|.Czz2|Z |\
+!p! .C/z/ .G,/z/ .C/z/ .G,/z/ | .Cz .G,z | "^Segue;genitori" !p! !fermata! E,4 || \
+[Q:"Genitori"][Q:"Moderato"][M:2/4] !p!(E2|F2)|!p!(D2|E2)|!p!E2-|E2-|E2-|EC|E2-|E2-|E2-|EC|\
+!f!F=A|Bz|Z2|!f!G=B|cz|Z2|!p!A2-|AG-|G2-|G/!f!BB/|!f!A/AA/-|A2|!f!A/AA/-|A2-|Az|Z2|\
+z!f!F|_GF|_G!f!=G|AG|A!f!=A|G/!>!GG/|G/z/z|Z2|z "_piz" C|AB,|GE|Az|Z3| zC|AB,|GE|Az|Z3| \
+"_arco" !pp!E,2-|E,2|D,2-|D,2|!p!E,2-|E,2|!p!D,2-|D,2|"_piz" .E,z|.E,z|!p!.E,z|| Z| \
+"_arco"!p!.Cz|.Cz|!p!"_finis".C!fermata!z|]\
+%------------------

@@ -1,0 +1,34 @@
+X:302
+T:Te Deum
+C:Giuseppe Totti (17__-1832)
+M:C
+L:1/4
+K:D
+V: 2 clef=bass name="Corno in Elafa [II]" sname="Cor.II"
+%%MIDI program 1 69
+%%staves [( 2 )]
+%----- edit between the lines ----
+[Q:"Allegro non tanto"]
+D,2A,,2 | F,,D,,z2 | Z3 |
+z D,/D,/ D, A,, | F,,zF,,z | A,,zA,,z | D,,4 |
+D,,4 | D,,zz2 | zD,,D,,D,, | D,,zF,,/>F,,/A,,/>A,,/ | F,,A,,/>A,,/ F,,/>F,,/D,,/>D,,/ |
+A,,zz2 | Z6 |!p!D,,4 | !p!D,,4 | D,,4 |
+D,,4 | D,,4 | D,,4 | D,,zz2 | !f!D,,2F,,2 |
+F,D,z2 | Z3 | z D,/D,/D,A,, |
+D,D,z2 | Z3 | z D,/D,/D,A,, |
+D,,4 | D,,D,,D,,D,, | D,,4 | A,,zzA,, | D,A,,zA,, |
+E,E,E,E, | E,4 |E,E,E,E, | z1 E,E,E,   | z2zE, |
+E,E,/E,/E,E,/E,/ | E,E,E,E, | E,zz2 | Z3 | E,2A,,2 | !p!E,4 | E,4 | E,zz2 |
+Z2 | A,,2E,2 | A,,4 | A,,4 |
+A,,zzD, | A,,D,A,,A,, | A,,zzA,, | F,,D,D,D, | F,zE,E, |
+A,,/E,/A,,/E,/ A,,/E,/A,,/E,/ | A,,/E,/A,,/E,/ A,,/E,/A,,/E,/  |
+A,,/A,,/ A,,E,/E,/E, | A,,A,,/A,,/ E,2 |A,,A,,/A,,/ E,2  | A,, zz2 |
+Z32 | A,,4 | A,,4 |!P! A,,4 | A,,4 | A,, zz!fermata!z/ A,,/ | D,,2 A,,2 |
+F,, D,, z2 | Z3 | z D,/D,/ D, A,,/A,,/ | F,, F,, z2 | Z3 |
+z/ D,/D,/ D, A,,/A,,/ | F,,z1z2 | z D, A,, A,, | F,,z1z2 | z D,, D,, D,,| D,,4 |
+D,, zz2 | z A,, D, D, | A,, zz2|  z D, D, D, | D,2 A,, D, | A,, zz2| Z2 |
+z2zA,,| D,2 A,,2| F,,zz2 | Z4 | z D, A,, A,,| F,, zz2|Z1|
+D,,4 | D,, D,, D,, D,,| D,, zz D,| D, zz2| F,,zz2| E, zz2 | z2zz/A,,/| D,/A,,/D,/A,,/ D, D,|
+D, D, A,, A,,| D,3 A,,| D,3 A,,|F,,zz2| z D, D, A,,| F,, zz/D,/D,/D,/| D, D, D,/D,/A,,/A,,/|
+F,,F,,F,,F,,|F,,zF,,F,,|F,,zz2 |]
+%---------------------------------

@@ -1,0 +1,198 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Riemenbromser-Walzer  FC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.228f (wz00886) orig. F,C-Dur
+T:L\"otschental. S.214-233. Repertoire von Xander Murmann, Weissenried, 1874-1948
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"F/>G/ AF | "Bb"B/>c/dz | "C"cc!fermata!c || "F"AA>A | "C7"G"_(1)"^FG | "F"cc>c | c3 | 
+"Bb"dd>d | def | "C7"gg>g | g3 | ee>e | dcB | "F"ff>f | f2A | 
+{/c}"C7"BB>B | c2G/A/ | ("F"F3 | F)zz |: [K:C] "C"G3 | edc | "G"{/d}c!>!B2 | 
+zBc | "F"A>^GA | zAB | "C"G>^FG | zEF | G3 | edc | ("Dm"f3 | 
+f)Af | "C/G"G2c | "G7"B2d | "C"c^F/G/ A/B/ |1 czG :|2 czz |: [K:F] "F"Azc |  
+=Bzc | "Bb"fzd | "F"c3 | Azc | =Bzc | "C7"edB | "F"A3 | Azc | 
+=Bzc | fzg | "(A7)"a3 | "D7"^fza | "Gm"gzb | "C7"ezg |1 "F"fzc :|2 "F"fzz || [K:C]  
+"C"G2E | zG>G | G2E | zG>c | "G7"B2G | zB>d | "C"cBA | GEF | 
+G2E | zG>G | G2E | zG>c | "G7"B2G | zB>d | "C"cGE | Czz |]  
+W: 
+W: (1) Anmerkung: HC: f (instead of f#)
+% if you happen to know sth. about the word "Riemenbromser" please let me know (piush@gmx.ch)
+X:2
+T: Riemenbromser-Walzer  FC (align)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"F/>G/ AF | "Bb"B/>c/dz | "C"cc!fermata!c || "F"AA>A | "C7"G^FG | "F"cc>c | c3 | \
+"Bb"dd>d | def |
+ "C7"gg>g | g3 | ee>e | dcB | "F"ff>f | f2A | \
+{/c}"C7"BB>B | c2G/A/ | ("F"F3 | F)zz |: [K:C] "C"G3 |
+ edc | "G"{/d}c!>!B2 | \
+zBc | "F"A>^GA | zAB | "C"G>^FG | zEF | G3 | edc | ("Dm"f3 | 
+f)Af | "C/G"G2c | "G7"B2d | "C"c^F/G/ A/B/ |1 czG :|2 czz |: [K:F] "F"Azc | \
+=Bzc | "Bb"fzd | "F"c3 |
+ Azc | =Bzc | "C7"edB | "F"A3 | Azc | \
+=Bzc | fzg | "(A7)"a3 | "D7"^fza | "Gm"gzb |
+ "C7"ezg |1 "F"fzc :|2 "F"fzz || [K:C] \
+"C"G2E | zG>G | G2E | zG>c | "G7"B2G | zB>d | "C"cBA |
+ GEF | G2E | zG>G | G2E | zG>c | "G7"B2G | zB>d | "C"cGE | Czz |]  
+% wz00886
+X:3
+T:Riemenbromser-Walzer  CG 7+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+"C"c/2>d/2 ec | "F"f/2>g/2az | "G"gg!fermata!g || "C"ee>e | "G7"d^cd | "C"gg>g | g3 | \
+"F"aa>a | abc' |
+"G7"d'd'>d' | d'3 | bb>b | agf | "C"c'c'>c' | c'2e | \
+{/g}"G7"ff>f | g2d/2e/2 | ("C"c3 | c)zz |: [K:G] "G"d3 |
+bag | "D"{/a}g!>!f2 | \
+zfg | "C"e>^de | zef | "G"d>^cd | zBc | d3 | bag | ("Am"c'3 | 
+c')ec' | "G/D"d2g | "D7"f2a | "G"g^c/2d/2 e/2f/2 |1 gzd :|2 gzz |: [K:C] "C"ezg | \
+^fzg | "F"c'za | "C"g3 |
+ezg | ^fzg | "G7"baf | "C"e3 | ezg | \
+^fzg | c'zd' | "(E7)"e'3 | "A7"^c'ze' | "Dm"d'zf' |
+"G7"bzd' |1 "C"c'zg :|2 "C"c'zz || [K:G] \
+"G"d2B | zd>d | d2B | zd>g | "D7"f2d | zf>a | "G"gfe |
+dBc | d2B | zd>d | d2B | zd>g | "D7"f2d | zf>a | "G"gdB | Gzz |] 
+% wz00886
+X:4
+T:Riemenbromser-Walzer  CG 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+"C"C/2>D/2 EC | "F"F/2>G/2Az | "G"GG!fermata!G || "C"EE>E | "G7"D^CD | "C"GG>G | G3 | \
+"F"AA>A | ABc |
+"G7"dd>d | d3 | BB>B | AGF | "C"cc>c | c2E | \
+{/G}"G7"FF>F | G2D/2E/2 | ("C"C3 | C)zz |: [K:G] "G"D3 |
+BAG | "D"{/A}G!>!F2 | \
+zFG | "C"E>^DE | zEF | "G"D>^CD | zB,C | D3 | BAG | ("Am"c3 | 
+c)Ec | "G/D"D2G | "D7"F2A | "G"G^C/2D/2 E/2F/2 |1 GzD :|2 Gzz |: [K:C] "C"EzG | \
+^FzG | "F"czA | "C"G3 |
+EzG | ^FzG | "G7"BAF | "C"E3 | EzG | \
+^FzG | czd | "(E7)"e3 | "A7"^cze | "Dm"dzf |
+"G7"Bzd |1 "C"czG :|2 "C"czz || [K:G] \
+"G"D2B, | zD>D | D2B, | zD>G | "D7"F2D | zF>A | "G"GFE |
+DB,C | D2B, | zD>D | D2B, | zD>G | "D7"F2D | zF>A | "G"GDB, | G,zz |] 
+% wz00886
+X:5
+T: Riemenbromser-Walzer  FC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+"F"F/>G/ AF | "Bb"B/>c/dz | "C"cc!fermata!c || "F"AA>A | "C7"G^FG | "F"cc>c | c3 | \
+"Bb"dd>d | def |
+ "C7"gg>g | g3 | ee>e | dcB | "F"ff>f | f2A | \
+{/c}"C7"BB>B | c2G/A/ | ("F"F3 | F)zz |: [K:C] "C"G3 |
+ edc | "G"{/d}c!>!B2 | \
+zBc | "F"A>^GA | zAB | "C"G>^FG | zEF | G3 | edc | ("Dm"f3 | 
+f)Af | "C/G"G2c | "G7"B2d | "C"c^F/G/ A/B/ |1 czG :|2 czz |: [K:F] "F"Azc | \
+=Bzc | "Bb"fzd | "F"c3 |
+ Azc | =Bzc | "C7"edB | "F"A3 | Azc | \
+=Bzc | fzg | "(A7)"a3 | "D7"^fza | "Gm"gzb |
+ "C7"ezg |1 "F"fzc :|2 "F"fzz || [K:C] \
+"C"G2E | zG>G | G2E | zG>c | "G7"B2G | zB>d | "C"cBA |
+ GEF | G2E | zG>G | G2E | zG>c | "G7"B2G | zB>d | "C"cGE | Czz |]  
+% wz00886
+X:6
+T:Riemenbromser-Walzer  CG (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"c/2>d/2 ec | "F"f/2>g/2az | "G"gg!fermata!g || "C"ee>e | "G7"d^cd | "C"gg>g | g3 | \
+"F"aa>a | abc' |
+"G7"d'd'>d' | d'3 | bb>b | agf | "C"c'c'>c' | c'2e | \
+{/g}"G7"ff>f | g2d/2e/2 | ("C"c3 | c)zz |: [K:G] "G"d3 |
+bag | "D"{/a}g!>!f2 | \
+zfg | "C"e>^de | zef | "G"d>^cd | zBc | d3 | bag | ("Am"c'3 | 
+c')ec' | "G/D"d2g | "D7"f2a | "G"g^c/2d/2 e/2f/2 |1 gzd :|2 gzz |: [K:C] "C"ezg | \
+^fzg | "F"c'za | "C"g3 |
+ezg | ^fzg | "G7"baf | "C"e3 | ezg | \
+^fzg | c'zd' | "(E7)"e'3 | "A7"^c'ze' | "Dm"d'zf' |
+"G7"bzd' |1 "C"c'zg :|2 "C"c'zz || [K:G] \
+"G"d2B | zd>d | d2B | zd>g | "D7"f2d | zf>a | "G"gfe |
+dBc | d2B | zd>d | d2B | zd>g | "D7"f2d | zf>a | "G"gdB | Gzz |] 
+% wz00886
+X:7
+T:Riemenbromser-Walzer  CG (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"C/2>D/2 EC | "F"F/2>G/2Az | "G"GG!fermata!G || "C"EE>E | "G7"D^CD | "C"GG>G | G3 | \
+"F"AA>A | ABc |
+"G7"dd>d | d3 | BB>B | AGF | "C"cc>c | c2E | \
+{/G}"G7"FF>F | G2D/2E/2 | ("C"C3 | C)zz |: [K:G] "G"D3 |
+BAG | "D"{/A}G!>!F2 | \
+zFG | "C"E>^DE | zEF | "G"D>^CD | zB,C | D3 | BAG | ("Am"c3 | 
+c)Ec | "G/D"D2G | "D7"F2A | "G"G^C/2D/2 E/2F/2 |1 GzD :|2 Gzz |: [K:C] "C"EzG | \
+^FzG | "F"czA | "C"G3 |
+EzG | ^FzG | "G7"BAF | "C"E3 | EzG | \
+^FzG | czd | "(E7)"e3 | "A7"^cze | "Dm"dzf |
+"G7"Bzd |1 "C"czG :|2 "C"czz || [K:G] \
+"G"D2B, | zD>D | D2B, | zD>G | "D7"F2D | zF>A | "G"GFE |
+DB,C | D2B, | zD>D | D2B, | zD>G | "D7"F2D | zF>A | "G"GDB, | G,zz |] 
+% wz00886
+X:8
+T:Riemenbromser-Walzer G&D (tinwhistle in D) solo
+T:wz00886 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"G/2>A/2 BG | "C"c/2>d/2ez | "D"dd!fermata!d || "G"BB>B | "D7"A^GA | "G"dd>d | d3 | \
+"C"ee>e | efg |
+"D7"aa>a | a3 | ff>f | edc | "G"gg>g | g2B | \
+{/d}"D7"cc>c | d2A/2B/2 | ("G"G3 | G)zz |: [K:Dmaj] "D"A3 |
+fed | "A"{/e}d!>!c2 | \
+zcd | "G"B>^AB | zBc | "D"A>^GA | zFG | A3 | fed | ("Em"g3 | 
+g)Bg | "D/A"A2d | "A7"c2e | "D"d^G/2A/2 B/2c/2 |1 dzA :|2 dzz |: [K:Gmaj] "G"Bzd | \
+^czd | "C"gze | "G"d3 |
+Bzd | ^czd | "D7"fec | "G"B3 | Bzd | \
+^czd | gza | "(B7)"b3 | "E7"^gzb | "Am"azc' |
+"D7"fza |1 "G"gzd :|2 "G"gzz || [K:Dmaj] \
+"D"A2F | zA>A | A2F | zA>d | "A7"c2A | zc>e | "D"dcB |
+AFG | A2F | zA>A | A2F | zA>d | "A7"c2A | zc>e | "D"dAF | Dzz |] 
+X:9
+T:Riemenbromser-Walzer G&D (tinwhistle in D) solo
+T:wz00886 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=12
+G/2>A/2 BG | "_c"c/2>d/2ez | dd!fermata!d || BB>B | A"_(G)"^GA | dd>d | d3 | \
+ee>e | efg |
+aa>a | a3 | ff>f | edc | gg>g | g2B | \
+{/d}"_c"cc>c | d2A/2B/2 | (G3 | G)zz |: [K:Dmaj] A3 |
+fed | {/e}d!>!c2 | \
+zcd | B>^AB | zBc | A>^GA | zFG | A3 | fed | (g3 | 
+g)Bg | A2d | c2e | d^G/2A/2 B/2c/2 |1 dzA :|2 dzz |: [K:Gmaj] Bzd | \
+^czd | gze | d3 |
+Bzd | ^czd | fe"_c"c | B3 | Bzd | \
+^czd | gza | "(B7)"b3 | ^gzb | azc' |
+fza |1 gzd :|2 gzz || [K:Dmaj] \
+A2F | zA>A | A2F | zA>d | c2A | zc>e | dcB |
+AFG | A2F | zA>A | A2F | zA>d | c2A | zc>e | dAF | Dzz |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 27, 2016

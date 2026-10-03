@@ -1,0 +1,43 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Dingeling (Schottisch) CG (st06379) ABAC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.129 (st06379) orig. C,G
+T: Basel - Repertoire der 'Holzmusig Allschwil'. S.118-139
+T:Überliefert durch Wihelm Lötscher-Schätzle (*1878, Uhrmacher)
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G |: "C"AB cd |  ee zG | ee zG |   "G7"ff zG | Bc de | ff zG | ff "C0"^ff | "C"gg zG | 
+AB cd | e/e/e ze | "C7""_* * *"_b/b/b zg | "F"f/f/f zg | "G7"b>a b>a | "C".a!>!g2.e | "G7".g!>!f2.d |1 "C"ce cG :|2 "C"ce cd || [K:G] 
+|: "G"Bc de | e2zd | de fg | "D7"g2zf | fg ag | gf/f/ fg | "C"fe/e/ ef | "G"ed/d/ dd | 
+Bc de | e2zd | de fg | "C"fe/e/ ee | "D7"aa ag/a/ | "G"bg dd/e/ | "D7"ff fe/f/ | "G"gb gz :| [K:C] 
+|: "C"e2 a>g | c2d>c | Gc dc | ("G7"c2.B2) | (Bd) (fa) | add2 | aB aB | "C"ag/f/e2 | 
+e2a>g | c2e>c | "C"Gc "C7"dc | "F"B2A2 | "G7"b>a b>a |  "C"a>g a>g | "G7"gf ed | "C"cc cz :| 
+W:
+W:Anmerkung Hrsg.: Teil A, Takt 11 HC: h-h-h (i.e. b-b-b)
+% st06379
+% Dez 8, 2016
+
+X:2
+T:Dingeling (Schottisch) FC 7- (st06379) ABAC
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.129 (st06379) orig. C,G
+S:Basel - Repertoire der 'Holzmusig Allschwil'. S.118-139
+S:Überliefert durch Wihelm Lötscher-Schätzle (*1878, Uhrmacher)
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+C |: "F"DE FG | AA zC | AA zC | "C7"BB zC | EF GA | BB zC | BB "F0"=BB | "F"cc zC | 
+DE FG | A/2A/2A zA | "F7"_e/2e/2e zc | "Bb"B/2B/2B zc | "C7"e>d e>d | "F".d!>!c2.A | "C7".c!>!B2.G |1 "F"FA FC :|2 "F"FA FG || [K:C] 
+|: "C"EF GA | A2zG | GA Bc | "G7"c2zB | Bc dc | cB/2B/2 Bc | "F"BA/2A/2 AB | "C"AG/2G/2 GG | 
+EF GA | A2zG | GA Bc | "F"BA/2A/2 AA | "G7"dd dc/2d/2 | "C"ec GG/2A/2 | "G7"BB BA/2B/2 | "C"ce cz :| [K:F] 
+|: "F"A2 d>c | F2G>F | CF GF | ("C7"F2.E2) | (EG) (Bd) | dGG2 | dE dE | "F"dc/2B/2A2 | 
+A2d>c | F2A>F | "F"CF "F7"GF | "Bb"E2D2 | "C7"e>d e>d | "F"d>c d>c | "C7"cB AG | "F"FF Fz :| 
+% st06379
+% Dez 8, 2016

@@ -1,0 +1,23 @@
+X:1309
+T:N.13 Solo e coro
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:C
+V: 9 clef=treble name="Ambrosio" sname="Amb."
+%%MIDI program 1 1
+%%staves [[ 9 ]]
+%----------------
+[Q:"Allegretto"] Z6 !segno! || \
+G A G B A G | G c2-c3 | B A G F E D | (E/2F/2G2)-G3 | \
+w: 1.~Vi-va'a me-ni-na Jo-se-fa_ ra-min-ho de ra-ra fl\^or___ |
+w: 2.~Mas se fi-cas co-m'ha de ir_ | o meu po-bre co-ra-\cc\~ao___
+G A G B A G | G c2-c3 | B A G A G ^F | G3-Gzz || \
+w: que quan-do'a-pa-re-ce'\'a gen-te_ \'e co-mo'o sol do a-mor_
+w: el-le sem ti n\~ao \'e na-da_ s\'o tu \'es mi-nha'a-fei-\cc\~ao._ |
+Z7 || Z5 |: [Q: "1.o tempo"] G A G B A G | G c2-c3 | B A G F E D | (E/2F/2G2)-G3 | \
+w: 1.~Per-mi-ti meus bons a-mi-gos_ | que o Am-br\'o-sio tam-bor___ |
+G A G B A G | G c2-c3 | B A G A G ^F | G3-Gzz || \
+w: vos fe-li-ci-te por ter-des_ | en-con-tra-do'o vos-so'a-mor_ |
+Z8 :|
+%----------------

@@ -1,0 +1,24 @@
+X:2226
+T:Andante [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:3/4
+L:1/4
+K:Eb
+V: 26 clef=treble name="Arpa" sname="Ar."
+%%MIDI program 1 46
+%%staves [{ 26 }]
+%--------------------------------------
+[Q:"Andante"] (3D/G/B/ (3D/G/B/ (3D/G/B/ | (3D/A/c/ (3D/A/c/ (3D/A/c/ | (3D/F/B/ (3D/F/B/ (3D/F/B/ | \
+(3F/A/B/ (3E/G/B/ (3E/G/B/ | (3F/=A/c/ (3F/A/c/ (3F/A/c/ | \
+%--
+(3F/B/d/ (3F/B/d/ (3F/B/d/ | (3G/c/e/ (3F/B/d/ (3E/=A/c/ | (3D/G/B/ (3D/G/B/ (3D/G/B/ | \
+(3G/c/e/ (3D/F/B/ (3C/E/=A/ | (3D/F/B/ (3d/B/F/ (3D/F/B/ | (3D/F/B/ (3D/F/B/ (3D/F/B/ | \
+(3E/G/B/ (3E/G/B/ (3E/G/B/ | \
+%--
+(3z/[gb]/[gb]/ (3z/[fa]/[fa]/ (3z/[eg]/[eg]/ | (3z/[eg]/[eg]/ (3[df]/[ce]/[Bd]/ (3[Ac]/[GB]/[FA]/ | \
+(3E/G/B/ (3E/G/B/ (3E/G/B/ | (3E/A/c/ (3E/[ce]/[ce]/ \
+{f}(3[ce]/[Bd]/[Ac]/ | (3G/B/e/ (3G/B/e/ (3F/A/d/ | z/x/ E/8G/8c/8G/8 e/8c/8G/8E/8 !fermata!g | \
+(3E/G/B/ (3E/G/B/ (3E/G/B/ | (3E/A/c/ (3E/[ce]/[ce]/ \
+{f}(3[ce]/[Bd]/[Ac]/ | (3G/B/e/ (3G/B/e/ (3F/A/d/ | (3G/B/e/ (3G/B/e/ (3F/A/d/ | (3G/B/e/ (3G/B/e/ (3F/A/d/ | \
+[GBeg] [GBeg] z |]\
+%------------------

@@ -1,0 +1,32 @@
+X:102
+T:[D1] Allegro ma non troppo
+C:Costa, Abade António da (1714-c1780)
+M:2/4
+L:1/4
+K:Gb
+V: 2 clef=treble name="Violino II.do" sname="Vl.II"
+%%MIDI program 1 40
+%%staves [ 2 ]
+%----- edit between the lines ----
+[Q:"Allegro ma non troppo"] "_[fol.8]" [L:1/8] z/ z (e | ea g)(e | =d=F _A)(=d | e=g _B)(=G | A_d _B)(=G | A_c E)(_C | B,_c/)._C/ (C/B,/).B,/.A,/ | (A,/B,/) .B,<(_C =F/)(A/ |
+=D/)(B_A/ A/).=d/.f/(_A/ | =G/B/).e/._d/ (_c/A/=F/).B/ | (_G/F/E/)(_g/ e)(B | B_G) z (E | EB,) z2 | z (e =g2  |: [K:Eb] [M:3/4] "_L'istesso tempo." g)(_B =G=c2) (_e | e2 =d2 f)(=c |
+c _B2 =A2) (A | A3G B)G- | G(=d =c=g =f)(_e | e2 =d f2) b- | b2 (e_B2) (_d | _d2 c)(=F _B=G) | (_D2 CE/)z/ z(A | A=G) z (B2 e | e) (A2G) z (_d |
+=G2 B)(e _a)(e | ec) z A, z (A | AG) z (B2 _A | =F) (_A2=G2) (=F | F=E) z .c2 (_B | B =E2 F2) (=G | G=F) z .=c2 (_E | E =A,2 B,2) (=C |
+CB,) z .f2 (_e | e =A2 B2) (=c | cB) z .f2 (_A | A =D2 E2) (=F | F_E) z .=c2 (=d | d e2 =G _B)(=c | c _e2 =A _B)(=c | c G2 B =A)(f :|: f=A B)(=g=a)(_e |
+e=d _a2 "_check" =d2/) (_g | g2 =fb _e)(=g :| f=A B)(=g =a)(_e |: db f)(_A =D)(B | E/) z// .G// .E/ z// B// G/ z// e// B/ z//g// e/ z/ (B | e/) z// .B//  !trill!(B3/4=A/8B/8) .G/ z// _E// !trill!(E3/4D/8E/8)
+.B,/ z// ._D//   !trill!(D3/4C/8D/8) | .C/ z// .A// .E/ z// c// A/ z// e// c/ z// a// e/ z/ (_d | =Ge B)(_D =G,)(E | A,/) z// .C// .A,/  z// .E// .C/  z// .A// .E/  z// .c// .A/ z/ (c | _d=G e)(C _D)(=G, |
+C/) z// .=E// .C/  z// .G// .=E/  z// .c// .G/  z// .=e// .c/ z/ (_b |  =ec' g)(_B =E)(c | F/)  z// .=A// .F/  z// .c// .A/  z// .f// .c/  z// .=a// .f/ z/ (c | f/) z// .c// !trill!(c3/4=B/8c/8) .=A/ z// .=F//  !trill!(F3/4=E/8F/8)
+.C/ z// ._E// !trill!(E3/4D/8E/8) |  .D/ z// .B// .F/ z// d// B/ z// f// d/ z// b// f/ z/ (_e | =Af c)(_E =A,)(F | B,/) z// .D// .B,/ z// .F// .D/  z// .B// .F/  z// .d// .B/ z/ (d | _e=A f)(D _E)(=A, |
+D/) z// .^F// .D/ z// .=A// .^F/  z// .d// .=A/  z// .^f// .d/ z/z/z// .=A// | (_E/D/).G/ z// .^F// (_B/=A/).=c/ z// .=B// (d/c/)._e/ z// .d// | (c/=B/).d/ z// "_fix" .^F// (=A/G/).=c/ z// .=B// (_ed/)z/ | (=B=d g)(c _A)(=f | =b)(=d =e)._a (=c_b/) z// .=G// | (_D/C/).F/ z// .=E// (_A/G/).B/ z// =A// (c/B/)._d/ z// .c// | (B/=A/).c/ z// .=E// (=G/F/)._B/ z// .=A// (_dc/) z/ |
+"_[fol.9]" (=Ac f)(B _G)(e | =a)(c d)._g (Ba/) z// .F// | (_C/B,/E/)(D/ _G/F) (A2 D/) | (B/E)(=G/ _A>G) (_D/G,/B,/_D/) | (A,/=C/E/)(c/ =B _d/) (_B2 =E/) |
+(c/F)(=A/ B>=c) (F/=A,/C/_E/) | (B,/=D/F/)(B/ =A/^F) (=c2 ^F/) | (d/G)(=B/ c=B) (=E/=B,/D/=F/) | (C/=E/G/)(c/ _B _A/) (=f2 =B/) | (g/c)(g/ f)"_fixed ; check"=E (_e/=B/c/)(_e/ |
+d/^F/=A/)(d/ _B/=A) (c'2 =d/) | (g/_e/d/)(^F/ G/)(d/=c/e/ d/)(=A/ B/)(^C/ | D)(^F=A3/2) (c'2 d/) | (g/e/d/)(^F/ G/d/=c/)(=D/ B/G)(^F/ "_NB: funny ;(crossed?) ; bar?" || G/D)(=B,/ C/_B,/) z/ (g/
+=a)(_e :|: G)(c =B_B _a)(=f | f d2 A2) (F | A2 G2) (e2 | e3 d2) (c | f) (B2 c2) (B | e) (=A2 f2) (e | e =A2 B2) (c |
+cB) z .F2 (_A | A D2 E2) (F | FE) z .e2 (a | a d2 e2) (f | fe) z .B2 (_d | _d =G2 A2) (B | BA) z (c > B)(e |
+e/>_d/ c2 a2) (f | a3 g2) (f | b e2) (f _g)(f | e2 d2 f2) | (b2 a2 B)(d | de Bg c)(e | e2 da d)(c |
+c2 Bd e)(B | B2 =A) (e2 c | f)(=A c B2) (=A | c2 B a2) (f | bg e)(c =f)(d | d e2 =d2) (_a | a g3 f)(b |
+d e2 _d2) (B | _dE G) (A2G) | (B2 A2 c) z | z (a c'a f)(a | a2 g_d' g)(f | f2 eg a)(e | ef d) (a2 B/)(_c/ |
+[K:Gb] [M:2/4] "_l'istesso tempo." B/=D/A/)(=F/ G)(e | ea g)(e | =dF A)(=B | e=g B)(=G | A_d  "_check =+b"=B)(=G  |  Ac E)(C | B,F/)._C/ (C/B,/) .B,/.A,/ |
+(A,/B,/) .B,<(_C  F/)(A/ | =D/)(BA/ A/).=d/ .f/(_A/ | =G/B/).e/._d/ (_c/A/=F/)._B/ | (_G/F/E/)(_g/ e)(B |
+BG) z (E | EB, |]
+%---------------------------------

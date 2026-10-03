@@ -1,0 +1,45 @@
+X:3612
+T:Scena ultima [Aria Apolline]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 12 clef=treble name="Violini II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 12 }]
+%----------- edit between the lines -----
+Z2 | \
+[Q:"Allegretto"] B,/4C/4B,/4A,/4 B,/4G/4B/4G/4 F/4G/4F/4E/4 F/4A/4c/4A/4 | \
+G/4A/4G/4F/4 G/4B/4A/4G/4 A/4G/4F/4G/4 A/4B/4c/4A/4 | Bzz2 | B2-B2 | z/2>[E^c]/2 [Ec] z2 | z/2>[E^c]/2 [Ec] z2 | \
+^D/4E/4D/4^C/4 D/4B/4^d/4B/4 ^A/4B/4A/4G/4 A/4B/4c/4E/4 | ^Dzz2 | [B,F]2[B,F]2 | \
+E/4G/4G/4G/4 F/4A/4A/4A/4 G z & B, B, B, x | z2z/>[db]/ [db] | Z | \
+D/2D//D/4 D/2F/2 D/2F/2A/2F/2 | D/D/4D/4 D/F/ D/F/A/F/ | D/F/4F// F/F/4F/4 F/d/4d/4 d/f/4f/4 | \
+b/f/b/f/ b/f/b/f/ | dzz2 | (D/4^C/4D/4C/4) !//![CD] Dz |Z3 | z2z [E^ce] | [EBe]zz2 | Z | \
+!//!^C2Cz | Z | D/E/4^F/4 G/4A/4B/4^c/4 d z | z2 z/>[EB]/ [EB]/z/ | z[EB^g][Eca]z || \
+[Q:"Andantino"] [M:2/4] (E/4G/4E/4)G/4 (E/4G/4F/4)D/4 | E!trem2!G | F/!trem2!A/ F/4A/4F/4>A/4 |
+F/4A/4 E/ z | Z | z/>g/ (6:4 c'/4b/4a/4g/4f/4e/4 | \
+(6:4 d/4f/4e/4d/4f/4g/4 (6:4 a/4g/4f/4e/4d/4c/4 | \
+B/8(G/8^F/8G/8) !///!G/!///!=F/!///!G/ &x/F/D/E/ | F/8D/8D/8D/8 D/z | \
+z/8(G/8^F/8G/8) !///!G/!///!=F/!///!G/ &x/F/D/E/ | F/8D/8D/8/D/8 D/ D/C/ | D/g/ G/z/ | \
+E/4(G/4E/4G/4) E/4(G/4F/4D/4) | E/4G/4E/4E/4 E/4C/4D/4E/4 | (F/4A/4F/4A/4) !//![FA] | \
+"_rinf." F/4A/4 E/4>c/4 (B/F/) | E/4G/4G/4G/4 z/4G/4G/4G/4 | C/z/4F/4 (F/4D/4A/4F/4) | \
+z/4E/4E/4G/4 (G/4F/4E/4D/4) | Ez | Z | z C | C/>f/ (e/4c/4d/4B/4) | \
+(6:4 c/4e/4f/4g/4a/4b/4 (6:4 c'/4a/4g/4f/4e/4d/4 | c/c'/ c/ z/ | \
+z/4B/4B/4B/4 z/4(B/4A/4G/4) | z/4G/4G/4G/4 z/4(G/4A/4B/4) | \
+z/4A/4^d/4f/4 z/4(a/4g/4f/4) | (3g/4a/4b/4 b/ z/d/|e3/2e/ | \
+d/8D/8^C/8D/8 !///![CD]/!///![C=D]/!///![B,D]/ | C/8D/8F/8A/8 A/z | \
+z/8D/8^C/8/D/8 (C/8D/8C/8D/8) !//![C=D]/ !//![B,D]/| \
+C/8D/8^F/8A/8 A/ A/G/ | ^Fz/D/ | Ez/(c/ | B)z/(D/ | E)z/c/ | \
+B/4(B/4d/4g/4) g/4G/4G/4G/4 | z/4G/4G/4G/4 (G/4e/4c/4A/4) | !///!g !///!f | \
+e/z/4(B/4 B3/8c/16B/16) A/4>G// | ((3c/4^d/4e/4) e/4>(A/4 A3/8B/16A/16) G/4>F// | \
+(3G/4B/4d/4 B/ /g/8b/8a/8g/8 ^f/8g/8b/8g/8 | e/4a/8b/8 c'/8a/8c'/8a/8 g/^f/ | \
+g z | (E/4G/4E/4G/4) (E/4G/4F/4D/4) | E/4G/4E/4E/4 .E/4(C/4D/4E/4) | (F/4A/4F/4A/4) !//![FA]| \
+F/(E/4c/4) B/d/4f/4 | f/4G/4G/4G/4 z/4G/4G/4G/4 | C/4(A/4G/4F/4 F/) z/ | A/ c A/ | \
+.G/8(G/8^F/8G/8) F/8G/8F/8G/8 !///![D=F]/ !//![EG]/ | \
+(F/8/D/8D/8)D/8 D/ z | z/8(G/8^F/8G/8) !//![FG]/ !//![D=F]/ !//![EG]/|(F/8/D/8D/8D/8) D/ D/C/ | \
+B,/4D/4G/4B/4 z/4B/4B/4d/4 | z/4c/4c/4c/4 z/4[Ac]/4[Ac]/4[Ac]/4 | G/G,/ z | z2 | z E/G/ | F/E/D/D/ | \
+((3D/4B,/4C/4) C/ z | z2 | z E/G/ | F/E/D/D/ | (3C/4D/4E/4 E/ z/ G/ | A z/ F/ | E/4e/4c/4G/4 E/G/ | \
+A z/ F/ | E/4G/4G/4G/4 !//!G | !//!C C/4C/4A/4A/4 | c/8e/8c/8e/8 !//![ce]/ c/!trem3!e/ | \
+!///![Bd]2 | c/z/4e/4 (e3/8f/16e/16) d3/8c/8 | ((3f/4g/4a/4) a3/8(d/8 d3/8e/16d/16) c3/8(B/8 | \
+(3c/4f/4e/4) e3/8g/8 (6:4 c'/4b/4a/4g/4f/4e/4 | (3d/4f/4g/4 (3a/4f/4d/4 E/D/ | E/G,/ C/ z/ |]
+%----------------------------------------

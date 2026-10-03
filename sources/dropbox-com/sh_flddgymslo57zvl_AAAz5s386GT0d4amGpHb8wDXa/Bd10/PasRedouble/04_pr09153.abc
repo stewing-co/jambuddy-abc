@@ -1,0 +1,151 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Rondeau en Passedouble  C  (ABCDEA)
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.176f (pr09153) orig. C,G
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+P:ABCDEA
+R:
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+ce [P:A] |: "C"g2ge c2ce | "G7"d2dB G2gf | "C"e2ed "D7"c2de | "G"d2^fg G2ce | "C"g2ge c2ce | "G7"d2dB G2gf | "C"e2ge "G7"d2fd |1
+"C"c4z2cd :|2 "C"c4"_Fine"z2 d^c || [P:B] "G7"d2d^c d2B2 | "C"c2e2 g2e^c | "G7"d2d^c d2B2 | "C"c4G2d^c | "G7"d2d^c d2B2 | "C"c2e2 "A7"g2e^c | 
+"Dm"d2d^c "G7"d2B2 | "C"c4z2e^d || [P:C] "E7"e2e^d e2^g2 | "Am"abc'd' e'd'c'b | "A7/C#"a2ba ag^fg | "D"^f4z2dc | "G"Bcde de^fg | 
+"D7"g^fed dcBA | "G"Bded "C"c'bag | "D7"^fgag d2dc || [P:D] "G"BdG2 "C"ceG2 | "G7"BdG2 "C"ceG2 | "G7"dg"C"ec' "D7"ba^fa | "G".g4 "_ ostinato"BGcA | 
+.d4 BGcA | .d4 dBec | .f4 dBec | fdec fdec | fedc BAGB | "C"c4e2g2 | "G"d4"E7"e4 | "Am"c2B2 "D7"A2d2 | "G"BcdB GABG | 
+"C"c4e2g2 | "G"d4"E7"e4 | "Am"c2B2 "F"ABcd | "E"e8 | "A7"e4 ^c2A2 | "Dm"d4a4 | "A7"e2^c2 A2c2 | "Dm"defe dedc | "G7"B4 d2G2 | "C"c4"G7/B"d4 | 
+"C"e2g2 "D7"^fgaf | "G"g4 "D7"^fgaf | "G"g4 "D7"ac'a^f | "G"g4z4 | d2d2 "C/G"e2e2 | "G7"f4z4 | f2f2 "C/G"e2e2 | "G7"d4z2ce [P:E] |: "C"g2ge c2ce | 
+"G7"d2dB G2gf | "C"e2ed "D7"c2de | "G"d2^fg G2ed | "C"e2ed e2g2 | "G7"f2d2 B2gf | "C/G"e2e2 {/e}"G7"dcde |1 "C"c4z2ce :|2 "C"c4"_>Teil A"z4 |]  
+W:Parts: ABCDE-A
+% pr09153 (PR = Pas Redouble)
+X:2
+T:Rondeau en Passedouble  C
+%%MIDI program 21
+%P:ABCDEA
+R:
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+ce |: "C"g2ge c2ce | "G7"d2dB G2gf | "C"e2ed "D7"c2de | "G"d2^fg G2ce | "C"g2ge c2ce | "G7"d2dB G2gf | "C"e2ge "G7"d2fd |1
+"C"c4z2cd :|2 "C"c4"_Fine"z2 d^c || "G7"d2d^c d2B2 | "C"c2e2 g2e^c | "G7"d2d^c d2B2 | "C"c4G2d^c | "G7"d2d^c d2B2 | "C"c2e2 "A7"g2e^c | 
+"Dm"d2d^c "G7"d2B2 | "C"c4z2e^d |] "E7"e2e^d e2^g2 | "Am"abc'd' e'd'c'b | "A7/C#"a2ba ag^fg | "D"^f4z2dc | "G"Bcde de^fg | 
+"D7"g^fed dcBA | "G"Bded "C"c'bag | "D7"^fgag d2dc |] "G"BdG2 "C"ceG2 | "G7"BdG2 "C"ceG2 | "G7"dg"C"ec' "D7"ba^fa | "G".g4 "_ ostinato"BGcA | 
+.d4 BGcA | .d4 dBec | .f4 dBec | fdec fdec | fedc BAGB | "C"c4e2g2 | "G"d4"E7"e4 | "Am"c2B2 "D7"A2d2 | "G"BcdB GABG | 
+"C"c4e2g2 | "G"d4"E7"e4 | "Am"c2B2 "F"ABcd | "E"e8 | "A7"e4 ^c2A2 | "Dm"d4a4 | "A7"e2^c2 A2c2 | "Dm"defe dedc | "G7"B4 d2G2 | "C"c4"G7/B"d4 | 
+"C"e2g2 "D7"^fgaf | "G"g4 "D7"^fgaf | "G"g4 "D7"ac'a^f | "G"g4z4 | d2d2 "C/G"e2e2 | "G7"f4z4 | f2f2 "C/G"e2e2 | "G7"d4z2ce |: "C"g2ge c2ce | 
+"G7"d2dB G2gf | "C"e2ed "D7"c2de | "G"d2^fg G2ed | "C"e2ed e2g2 | "G7"f2d2 B2gf | "C/G"e2e2 {/e}"G7"dcde |1 "C"c4z2ce :|2 "C"c4"_>Teil A"z4 |]  
+W:Parts: ABCDE-A
+% pr09153
+X:3
+T:Rondeau en Passedouble  G 5-
+%%MIDI program 21
+%P:ABCDEA
+R:
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+GB |: "G"d2dB G2GB | "D7"A2AF D2dc | "G"B2BA "A7"G2AB | "D"A2^cd D2GB | "G"d2dB G2GB | "D7"A2AF D2dc | "G"B2dB "D7"A2cA |1
+"G"G4z2GA :|2 "G"G4"_Fine"z2 A^G || "D7"A2A^G A2F2 | "G"G2B2 d2B^G | "D7"A2A^G A2F2 | "G"G4D2A^G | "D7"A2A^G A2F2 | "G"G2B2 "E7"d2B^G | 
+"Am"A2A^G "D7"A2F2 | "G"G4z2B^A |] "B7"B2B^A B2^d2 | "Em"efga bagf | "E7/G#"e2fe ed^cd | "A"^c4z2AG | "D"FGAB AB^cd | 
+"A7"d^cBA AGFE | "D"FABA "G"gfed | "A7"^cded A2AG |] "D"FAD2 "G"GBD2 | "D7"FAD2 "G"GBD2 | "D7"Ad"G"Bg "A7"fe^ce | "D".d4 "_ ostinato"FDGE | 
+.A4 FDGE | .A4 AFBG | .c4 AFBG | cABG cABG | cBAG FEDF | "G"G4B2d2 | "D"A4"B7"B4 | "Em"G2F2 "A7"E2A2 | "D"FGAF DEFD | 
+"G"G4B2d2 | "D"A4"B7"B4 | "Em"G2F2 "C"EFGA | "B"B8 | "E7"B4 ^G2E2 | "Am"A4e4 | "E7"B2^G2 E2G2 | "Am"ABcB ABAG | "D7"F4 A2D2 | "G"G4"D7/F#"A4 | 
+"G"B2d2 "A7"^cdec | "D"d4 "A7"^cdec | "D"d4 "A7"ege^c | "D"d4z4 | A2A2 "G/D"B2B2 | "D7"c4z4 | c2c2 "G/D"B2B2 | "D7"A4z2GB |: "G"d2dB G2GB | 
+"D7"A2AF D2dc | "G"B2BA "A7"G2AB | "D"A2^cd D2BA | "G"B2BA B2d2 | "D7"c2A2 F2dc | "G/D"B2B2 {/B}"D7"AGAB |1 "G"G4z2GB :|2 "G"G4"_>Teil A"z4 |] 
+W:Parts: ABCDE-A
+% pr09153
+X:4
+T:Rondeau en Passedouble  F 7-
+%%MIDI program 21
+%P:ABCDEA
+R:
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+FA |: "F"c2cA F2FA | "C7"G2GE C2cB | "F"A2AG "G7"F2GA | "C"G2=Bc C2FA | "F"c2cA F2FA | "C7"G2GE C2cB | "F"A2cA "C7"G2BG |1
+"F"F4z2FG :|2 "F"F4"_Fine"z2 G^F || "C7"G2G^F G2E2 | "F"F2A2 c2A^F | "C7"G2G^F G2E2 | "F"F4C2G^F | "C7"G2G^F G2E2 | "F"F2A2 "D7"c2A^F | 
+"Gm"G2G^F "C7"G2E2 | "F"F4z2A^G |] "A7"A2A^G A2^c2 | "Dm"defg agfe | "D7/F#"d2ed dc=Bc | "G"=B4z2GF | "C"EFGA GA=Bc | 
+"G7"c=BAG GFED | "C"EGAG "F"fedc | "G7"=Bcdc G2GF |] "C"EGC2 "F"FAC2 | "C7"EGC2 "F"FAC2 | "C7"Gc"F"Af "G7"ed=Bd | "C".c4 "_ ostinato"ECFD | 
+.G4 ECFD | .G4 GEAF | .B4 GEAF | BGAF BGAF | BAGF EDCE | "F"F4A2c2 | "C"G4"A7"A4 | "Dm"F2E2 "G7"D2G2 | "C"EFGE CDEC | 
+"F"F4A2c2 | "C"G4"A7"A4 | "Dm"F2E2 "Bb"DEFG | "A"A8 | "D7"A4 ^F2D2 | "Gm"G4d4 | "D7"A2^F2 D2F2 | "Gm"GABA GAGF | "C7"E4 G2C2 | "F"F4"C7/E"G4 | 
+"F"A2c2 "G7"=BcdB | "C"c4 "G7"=BcdB | "C"c4 "G7"dfd=B | "C"c4z4 | G2G2 "F/C"A2A2 | "C7"B4z4 | B2B2 "F/C"A2A2 | "C7"G4z2FA |: "F"c2cA F2FA | 
+"C7"G2GE C2cB | "F"A2AG "G7"F2GA | "C"G2=Bc C2AG | "F"A2AG A2c2 | "C7"B2G2 E2cB | "F/C"A2A2 {/A}"C7"GFGA |1 "F"F4z2FA :|2 "F"F4"_>Teil A"z4 |] 
+W:Parts: ABCDE-A
+% pr09153
+X:5
+T:Rondeau en Passedouble  C (5letras transposed)
+%%MIDI program 21
+%P:ABCDEA
+R:
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+ce |: "C"g2ge c2ce | "G7"d2dB G2gf | "C"e2ed "D7"c2de | "G"d2^fg G2ce | "C"g2ge c2ce | "G7"d2dB G2gf | "C"e2ge "G7"d2fd |1
+"C"c4z2cd :|2 "C"c4"_Fine"z2 d^c || "G7"d2d^c d2B2 | "C"c2e2 g2e^c | "G7"d2d^c d2B2 | "C"c4G2d^c | "G7"d2d^c d2B2 | "C"c2e2 "A7"g2e^c | 
+"Dm"d2d^c "G7"d2B2 | "C"c4z2e^d |] "E7"e2e^d e2^g2 | "Am"abc'd' e'd'c'b | "A7/C#"a2ba ag^fg | "D"^f4z2dc | "G"Bcde de^fg | 
+"D7"g^fed dcBA | "G"Bded "C"c'bag | "D7"^fgag d2dc |] "G"BdG2 "C"ceG2 | "G7"BdG2 "C"ceG2 | "G7"dg"C"ec' "D7"ba^fa | "G".g4 "_ ostinato"BGcA | 
+.d4 BGcA | .d4 dBec | .f4 dBec | fdec fdec | fedc BAGB | "C"c4e2g2 | "G"d4"E7"e4 | "Am"c2B2 "D7"A2d2 | "G"BcdB GABG | 
+"C"c4e2g2 | "G"d4"E7"e4 | "Am"c2B2 "F"ABcd | "E"e8 | "A7"e4 ^c2A2 | "Dm"d4a4 | "A7"e2^c2 A2c2 | "Dm"defe dedc | "G7"B4 d2G2 | "C"c4"G7/B"d4 | 
+"C"e2g2 "D7"^fgaf | "G"g4 "D7"^fgaf | "G"g4 "D7"ac'a^f | "G"g4z4 | d2d2 "C/G"e2e2 | "G7"f4z4 | f2f2 "C/G"e2e2 | "G7"d4z2ce |: "C"g2ge c2ce | 
+"G7"d2dB G2gf | "C"e2ed "D7"c2de | "G"d2^fg G2ed | "C"e2ed e2g2 | "G7"f2d2 B2gf | "C/G"e2e2 {/e}"G7"dcde |1 "C"c4z2ce :|2 "C"c4"_>Teil A"z4 |]  
+W:Parts: ABCDE-A
+% pr09153
+X:6
+T:Rondeau en Passedouble  G (5letras transposed)
+%%MIDI program 21
+%P:ABCDEA
+R:
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+GB |: "G"d2dB G2GB | "D7"A2AF D2dc | "G"B2BA "A7"G2AB | "D"A2^cd D2GB | "G"d2dB G2GB | "D7"A2AF D2dc | "G"B2dB "D7"A2cA |1
+"G"G4z2GA :|2 "G"G4"_Fine"z2 A^G || "D7"A2A^G A2F2 | "G"G2B2 d2B^G | "D7"A2A^G A2F2 | "G"G4D2A^G | "D7"A2A^G A2F2 | "G"G2B2 "E7"d2B^G | 
+"Am"A2A^G "D7"A2F2 | "G"G4z2B^A |] "B7"B2B^A B2^d2 | "Em"efga bagf | "E7/G#"e2fe ed^cd | "A"^c4z2AG | "D"FGAB AB^cd | 
+"A7"d^cBA AGFE | "D"FABA "G"gfed | "A7"^cded A2AG |] "D"FAD2 "G"GBD2 | "D7"FAD2 "G"GBD2 | "D7"Ad"G"Bg "A7"fe^ce | "D".d4 "_ ostinato"FDGE | 
+.A4 FDGE | .A4 AFBG | .c4 AFBG | cABG cABG | cBAG FEDF | "G"G4B2d2 | "D"A4"B7"B4 | "Em"G2F2 "A7"E2A2 | "D"FGAF DEFD | 
+"G"G4B2d2 | "D"A4"B7"B4 | "Em"G2F2 "C"EFGA | "B"B8 | "E7"B4 ^G2E2 | "Am"A4e4 | "E7"B2^G2 E2G2 | "Am"ABcB ABAG | "D7"F4 A2D2 | "G"G4"D7/F#"A4 | 
+"G"B2d2 "A7"^cdec | "D"d4 "A7"^cdec | "D"d4 "A7"ege^c | "D"d4z4 | A2A2 "G/D"B2B2 | "D7"c4z4 | c2c2 "G/D"B2B2 | "D7"A4z2GB |: "G"d2dB G2GB | 
+"D7"A2AF D2dc | "G"B2BA "A7"G2AB | "D"A2^cd D2BA | "G"B2BA B2d2 | "D7"c2A2 F2dc | "G/D"B2B2 {/B}"D7"AGAB |1 "G"G4z2GB :|2 "G"G4"_>Teil A"z4 |] 
+W:Parts: ABCDE-A
+% pr09153
+X:7
+T:Rondeau en Passedouble  F (5letras transposed)
+%%MIDI program 21
+%P:ABCDEA
+R:
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+FA |: "F"c2cA F2FA | "C7"G2GE C2cB | "F"A2AG "G7"F2GA | "C"G2=Bc C2FA | "F"c2cA F2FA | "C7"G2GE C2cB | "F"A2cA "C7"G2BG |1
+"F"F4z2FG :|2 "F"F4"_Fine"z2 G^F || "C7"G2G^F G2E2 | "F"F2A2 c2A^F | "C7"G2G^F G2E2 | "F"F4C2G^F | "C7"G2G^F G2E2 | "F"F2A2 "D7"c2A^F | 
+"Gm"G2G^F "C7"G2E2 | "F"F4z2A^G |] "A7"A2A^G A2^c2 | "Dm"defg agfe | "D7/F#"d2ed dc=Bc | "G"=B4z2GF | "C"EFGA GA=Bc | 
+"G7"c=BAG GFED | "C"EGAG "F"fedc | "G7"=Bcdc G2GF |] "C"EGC2 "F"FAC2 | "C7"EGC2 "F"FAC2 | "C7"Gc"F"Af "G7"ed=Bd | "C".c4 "_ ostinato"ECFD | 
+.G4 ECFD | .G4 GEAF | .B4 GEAF | BGAF BGAF | BAGF EDCE | "F"F4A2c2 | "C"G4"A7"A4 | "Dm"F2E2 "G7"D2G2 | "C"EFGE CDEC | 
+"F"F4A2c2 | "C"G4"A7"A4 | "Dm"F2E2 "Bb"DEFG | "A"A8 | "D7"A4 ^F2D2 | "Gm"G4d4 | "D7"A2^F2 D2F2 | "Gm"GABA GAGF | "C7"E4 G2C2 | "F"F4"C7/E"G4 | 
+"F"A2c2 "G7"=BcdB | "C"c4 "G7"=BcdB | "C"c4 "G7"dfd=B | "C"c4z4 | G2G2 "F/C"A2A2 | "C7"B4z4 | B2B2 "F/C"A2A2 | "C7"G4z2FA |: "F"c2cA F2FA | 
+"C7"G2GE C2cB | "F"A2AG "G7"F2GA | "C"G2=Bc C2AG | "F"A2AG A2c2 | "C7"B2G2 E2cB | "F/C"A2A2 {/A}"C7"GFGA |1 "F"F4z2FA :|2 "F"F4"_>Teil A"z4 |] 
+W:Parts: ABCDE-A
+% pr09153
+X:8
+T:Rondeau en Passedouble G (tinwhistle in D) solo
+T:pr09153 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+%P:ABCDEA
+R:
+M:2/4
+L:1/16
+K:G transpose=12
+GB |: d2dB G2GB | A2AF D2dc | B2BA G2AB | A2^cd D2GB | d2dB G2GB | A2AF D2dc | B2dB A2cA |1
+G4z2GA :|2 G4"_Fine"z2 A^G || A2A^G A2F2 | G2B2 d2B^G | A2A^G A2F2 | G4D2A^G | A2A^G A2F2 | G2B2 d2B^G | 
+A2A^G A2F2 | G4z2B^A |] B2B^A B2^d2 | efga bagf | e2fe ed^cd | ^c4z2AG | FGAB AB^cd | 
+d^cBA AGFE | FABA gfed | ^cded A2AG |] FAD2 GBD2 | FAD2 GBD2 | AdBg fe^ce | .d4 "_ ostinato"FDGE | 
+.A4 FDGE | .A4 AFBG | .c4 AFBG | cABG cABG | cBAG FEDF | G4B2d2 | A4B4 | G2F2 E2A2 | FGAF DEFD | 
+G4B2d2 | A4B4 | G2F2 EFGA | B8 | B4 ^G2E2 | A4e4 | B2^G2 E2^G2 | ABcB ABAG | F4 A2D2 | G4A4 | 
+B2d2 ^cdec | d4 ^cdec | d4 ege^c | d4z4 | A2A2 B2B2 | c4z4 | c2c2 B2B2 | A4z2GB |: d2dB G2GB | 
+A2AF D2dc | B2BA G2AB | A2^cd D2BA | B2BA B2d2 | c2A2 F2dc | B2B2 {/B}AGAB |1 G4z2GB :|2 G4"_>Teil A"z4 |]
+W:Parts: ABCDE-A
+% pr09153
+% Aug 31, 2016

@@ -1,0 +1,20 @@
+X:301
+T:Allegro
+C:Giuseppe Tartini (1692-1770)
+M:3/4
+L:1/4
+K:A
+V: 1 clef=treble name="Violino" sname="Vl."
+%%MIDI program 1 40
+%%staves  1
+%----- edit between the lines ---
+[Q:"Allegro"] e/a/>g/ | b a/>A/ e/>f/ & x2 c/>^d/ | f e/e/ a/>g/ & e x2 | (b a/>)c/B/>^d/ & x x/> A/G/>F/ | (^d e//)(b//g//b// f//b//e//b//) & E x2 | f  x2 & (e ^d//)(b//f//b// e//b//=d//b//) | e x2 & (d c//a//e//a//) (=c//e//A//c//) | (E//A//=C//E//) (A,//=C//E//A//) (=c//e//a//>^d//) | E>e(e/c'/) | \
+(c' ^d/=d/d/b/) | (b c/)(=c/c/a/) | x2 a & (a =c/)c/B/>A/ | f x2 & ^d- d//(a//f//a// e//a//^d//a//) | a x2 & (=c B//)a//f//a// c//a//^d//a// | a x2 & (=c B//)(f//^d//f// B//f//A//f//) | (G//E//G//B//) e/>E/ B,/>F/ | E z//(b//g//b// e//g//B//d//) | (A,/>E/ A//)(a//e//a// c//e//A//c//)| (E/>B/ e//)(g//e//g// B//e//G//B//) | \
+(B,/>F/ A//f//)(d//f// A//c//^D//F//) | (E/>B/) e/e'/(e'/>^a/) | c'-c'/>b/ f/>g/ & x2 ^d/>e/ | (g f/) d'/(d'/>g/) & fx2 | (b a/>)a/ e/>f/ & x2 c/>^d/| (f e/) =g/g/x/ & ex/e/e/B/ | x x/=g/g/x/ & (d =c/)e/e/A/ | =c B//E//=G//B// d//=g//b//g// | (e//B//=G//E//) (e//=c//A//E//) (e//^c//^A//E//) | \
+B,/>F/ !trill!B/b/c'/>g/ | (b a/)!trill!a/b/>f/ | xee & (a g//)e//c//e// B//e//A//e// | xee & (G//B//A//c//) (B//e//c//e//) (B//e//A//e//) | xee & (G//B//A//c//) (B//e//c//e//) (B//e//A//e//) | (G//E//)(A//F//) (B//E//)(c//A//) {G}!trill!F | E3/2 :| B/e/>^d/ | (f e/>)E/B/>c/ & x2 G/>^A/| (c B/)>B/ e/>^d/ & Bx2 | \
+xx/>B/B/>B/ & (f e/>)G/F/>E/ | [B,FB] (z//B//d//f// b//f//d//B//) | (=g f//)(A//c//e// a//e//c//A//) & ^ezz | (f e//)(A//=G//B// e//B//G//E//) & ^dxx | (c B//)(b//f//d// B//=G//F//^E//) & ^Axx | F z//f//(d//f//) (c//f//)(B//f//) | f3 & ^A/B/c/e/d/c/ | fxx & B/c/ (d//b//)(=g//b//) f//b//e//b// | b3 & d/e/f/a/=g/f/ | \
+bxx & e/f/ (=g//b//)(g//b//) (f//^a//)(=g//b//) | (f//^a//)(=g//b//) (f//a//)(g//b//) f//a//e//a// | b3 & d/c/B/c/d/^d/ | bxx & e/^e/f/>B/ (F/<!trill!c/) | B> fb/>^a/ | x2 f/>=g/ & (c' b/>)B/ d/>e/ | (g f/)f/ x & fx a/>g/ | x2 e/>f/ & (b a/>)A/ c/>^d/ | (f e//) (b//g//e// ^d//e//d//e//) | \
+(!trill!E3/4G///B///) (e//b//g//e// c//d//c//d//) | (!trill!E3/4A///c///) (e//a//e//=c// B//c//B//c//) | (!trill!E3/4A///=c///) (e//a//e//c// B//c//B//c//) | {c}[EB]3/2 (E//e//)(F//e//)(G//e//) | e3 & A/B/c/d/c/B/ | x3/2 a3/2 & [A,EA]/[A,EA]/[A,EA]/A/B/c/ | a3 & d/e/f/=g/f/e/ | x3/2 b3/2 & [Ddf]/[Ddf]/[Ddf]/B/c/^d/ | b3 & e/f/g/a/g/f/ | \
+[EeB]/[EeB]/ [EeB]//(b//g//e// d//c//d//c//) | (e d//)(b//g//e// c//B//c//B//) | (d c//)(A//=c//e// a//e//c//A//) | (=F =E/)(=c//a//) (!trill!c3/4B///A///) | x3/2 e/a/>g/ & A z/A/=c/>B/ | b a/ x3/2 & (d =c/)[A,E]/[=CE]/[D=F]/ | "_[check; natural C]"([=CEA]3/4B/8=c/8) x/e/a/>g/ & x A/A/=c/>B/ | (b a/) [AE]/[AE]/>A/ & d =c/ A,/=C/>[B,D=F]/ | \
+(AG/)!trill!e/f/>c/ | (ed/)!trill!d/e/>B/ | (d c//)(A//F//A// E//A//D//A//) | (C//E//D//F//) AA & x E/F/E/D/ | (C//E//D//F//) AA & x E/F/E/D/ | (C//A,//D//B,//) (E//A,//F//D//) !trill! B, | A,3/2 ||\
+%---------------------------------

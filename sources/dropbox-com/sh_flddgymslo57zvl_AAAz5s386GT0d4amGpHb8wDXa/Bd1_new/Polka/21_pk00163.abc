@@ -1,0 +1,52 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka  C chords
+T:Hanny Christen. Bd.I Z\"urich, Schaffhausen, St. Gallen I. S.118 (pk00163) orig. C-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"G2cB cde2 | "Dm"edf2 fedc | "G7"Bcd2 GAB2 | "C"c2ed "G7"cBAG | "C"G2cB cde2 | "Dm"edf2 fedc | "G7"Bcd2 GAB2 | "C"c2e2 c2z2 ::
+"C"c3e g2c2 | "F"a3g fedc | "G7"B2fg B2fg | "C"ef"G7"de "C"c2G2 | c3e g2c2 | "F"a3g fedc | "G7"B2dg B2dg | "C"c2e2 c2z2 :| 
+
+X:2
+T:Polka  F 5- chords
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+"F"C2FE FGA2 | "Gm"AGB2 BAGF | "C7"EFG2 CDE2 | "F"F2AG "C7"FEDC | "F"C2FE FGA2 | "Gm"AGB2 BAGF | "C7"EFG2 CDE2 | "F"F2A2 F2z2 ::
+"F"F3A c2F2 | "Bb"d3c BAGF | "C7"E2Bc E2Bc | "F"AB"C7"GA "F"F2C2 | F3A c2F2 | "Bb"d3c BAGF | "C7"E2Gc E2Gc | "F"F2A2 F2z2 :| 
+
+X:3
+T:Polka  G 5- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"D2GF GAB2 | "Am"BAc2 cBAG | "D7"FGA2 DEF2 | "G"G2BA "D7"GFED | "G"D2GF GAB2 | "Am"BAc2 cBAG | "D7"FGA2 DEF2 | "G"G2B2 G2z2 ::
+"G"G3B d2G2 | "C"e3d cBAG | "D7"F2cd F2cd | "G"Bc"D7"AB "G"G2D2 | G3B d2G2 | "C"e3d cBAG | "D7"F2Ad F2Ad | "G"G2B2 G2z2 :| 
+
+X:4
+T:Polka  Eb (5letras) cf. C chords
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+"Eb"B2ed efg2 | "Fm"gfa2 agfe | "Bb7"def2 Bcd2 | "Eb"e2gf "Bb7"edcB | "Eb"B2ed efg2 | "Fm"gfa2 agfe | "Bb7"def2 Bcd2 | "Eb"e2g2 e2z2 ::
+"Eb"e3g b2e2 | "Ab"c'3b agfe | "Bb7"d2ab d2ab | "Eb"ga"Bb7"fg "Eb"e2B2 | e3g b2e2 | "Ab"c'3b agfe | "Bb7"d2fb d2fb | "Eb"e2g2 e2z2 :| 
+
+X:5
+T:Polka  Ab (5letras) cf. F 5- chords
+M:2/4
+L:1/16
+K:Abmaj%%MIDI gchordon
+"Ab"E2AG ABc2 | "Bbm"cBd2 dcBA | "Eb7"GAB2 EFG2 | "Ab"A2cB "Eb7"AGFE | "Ab"E2AG ABc2 | "Bbm"cBd2 dcBA | "Eb7"GAB2 EFG2 | "Ab"A2c2 A2z2 ::
+"Ab"A3c e2A2 | "Db"f3e dcBA | "Eb7"G2de G2de | "Ab"cd"Eb7"Bc "Ab"A2E2 | A3c e2A2 | "Db"f3e dcBA | "Eb7"G2Be G2Be | "Ab"A2c2 A2z2 :| 
+
+X:6
+T:Polka  Bb (5letras) cf. G 5- chords
+M:2/4
+L:1/16
+K:Bbmaj%%MIDI gchordon
+"Bb"F2BA Bcd2 | "Cm"dce2 edcB | "F7"ABc2 FGA2 | "Bb"B2dc "F7"BAGF | "Bb"F2BA Bcd2 | "Cm"dce2 edcB | "F7"ABc2 FGA2 | "Bb"B2d2 B2z2 ::
+"Bb"B3d f2B2 | "Eb"g3f edcB | "F7"A2ef A2ef | "Bb"de"F7"cd "Bb"B2F2 | B3d f2B2 | "Eb"g3f edcB | "F7"A2cf A2cf | "Bb"B2d2 B2z2 :| 

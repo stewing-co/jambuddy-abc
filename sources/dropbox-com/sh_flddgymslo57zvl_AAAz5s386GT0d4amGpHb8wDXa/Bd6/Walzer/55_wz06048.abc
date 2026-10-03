@@ -1,0 +1,119 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Walzer  FCBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.304 (wz06048) orig. F,C,Bb-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"c2 dc dc | a3af2 | cf ac fa | "C7"b3be2 | c2dc dc | b3be2 |1 eg c'e gc' | "F"a3af2 :|2 
+"C7"c'c'c'2e2 | "F"f2z2g2 |] [K:C] "G7"b3bb2 | ba gf ed | "C"e2egc'2 | z2 [eg][eg] [eg][eg] | "G7"f2fgb2 | z2BB BB | "C"ce ceG2 | 
+z2gg gg | "G7"b3bb2 | ba gf ed | "C"e3gc'2 | z2 [eg][eg] [eg][eg] | "G7"b3ag2 | b3ag2 | "C"c'3c'c'2 | c'2z2"_>Teil A"c2 |] [K:Bb] 
+|: "F7"z2ff ff | "Bb"f2d2f2 | "Eb"g2e2g2 | "Bb"f2d2f2 | z2d'd' d'd' | "F7"e'2e'2a2 |1 z2ff ff | "Bb"d'2d'2b2 :|2 a2g2a2 | "Bb"b3bb2 | b2z2z2 |] 
+W:Parts: ABAC
+W:Anmerkung Hrsg.: Teil C, Schluss, 1. Takt: es-es-es-es
+X:2
+T:Walzer  FCBb (parts)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"c2 dc dc | a3af2 | cf ac fa | "C7"b3be2 | c2dc dc | b3be2 |1 eg c'e gc' |
+ "F"a3af2 :|2 \
+"C7"c'c'c'2e2 | "F"f2z2g2 |] [K:C] "G7"b3bb2 | ba gf ed | "C"e2egc'2 | z2 [eg][eg] [eg][eg] |
+ "G7"f2fgb2 | z2BB BB | "C"ce ceG2 | \
+z2gg gg | "G7"b3bb2 | ba gf ed | "C"e3gc'2 |
+ z2 [eg][eg] [eg][eg] | "G7"b3ag2 | b3ag2 | "C"c'3c'c'2 | c'2z2"_>Teil A"c2 |: [K:F] \
+"F"c2 dc dc | a3af2 | cf ac fa |
+ "C7"b3be2 | c2dc dc | b3be2 |1 eg c'e gc' | "F"a3af2 :|2 \
+"C7"c'c'c'2e2 | "F"f2z2z2 |:[K:Bb] \
+ "F7"z2ff ff |
+ "Bb"f2d2f2 | "Eb"g2e2g2 | "Bb"f2d2f2 | z2d'd' d'd' | "F7"e'2e'2a2 |1 z2ff ff | "Bb"d'2d'2b2 :|2 a2g2a2 | "Bb"b3bb2 | b2z2z2 |] 
+W:Parts: ABAC
+X:3
+T:Walzer  CGF 5- (parts)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"G2 AG AG | e3ec2 | Gc eG ce | "G7"f3fB2 | G2AG AG | f3fB2 |1 Bd gB dg |
+"C"e3ec2 :|2 \
+"G7"ggg2B2 | "C"c2z2d2 |] [K:G] "D7"f3ff2 | fe dc BA | "G"B2Bdg2 | z2 [Bd][Bd] [Bd][Bd] |
+"D7"c2cdf2 | z2FF FF | "G"GB GBD2 | \
+z2dd dd | "D7"f3ff2 | fe dc BA | "G"B3dg2 |
+z2 [Bd][Bd] [Bd][Bd] | "D7"f3ed2 | f3ed2 | "G"g3gg2 | g2z2"_>Teil A"G2 |: [K:C] \
+"C"G2 AG AG | e3ec2 | Gc eG ce |
+"G7"f3fB2 | G2AG AG | f3fB2 |1 Bd gB dg | "C"e3ec2 :|2 \
+"G7"ggg2B2 | "C"c2z2z2 |:[K:F] \
+"C7"z2cc cc |
+"F"c2A2c2 | "Bb"d2B2d2 | "F"c2A2c2 | z2aa aa | "C7"b2b2e2 |1 z2cc cc | "F"a2a2f2 :|2 e2d2e2 | "F"f3ff2 | f2z2z2 |] 
+W:Parts: ABAC
+X:4
+T:Walzer  CGF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"G2 AG AG | e3ec2 | Gc eG ce | "G7"f3fB2 | G2AG AG | f3fB2 |1 Bd gB dg |
+"C"e3ec2 :|2 \
+"G7"ggg2B2 | "C"c2z2d2 |] [K:G] "D7"f3ff2 | fe dc BA | "G"B2Bdg2 | z2 [Bd][Bd] [Bd][Bd] |
+"D7"c2cdf2 | z2FF FF | "G"GB GBD2 | \
+z2dd dd | "D7"f3ff2 | fe dc BA | "G"B3dg2 |
+z2 [Bd][Bd] [Bd][Bd] | "D7"f3ed2 | f3ed2 | "G"g3gg2 | g2z2"_>Teil A"G2 |: [K:C] \
+"C"G2 AG AG | e3ec2 | Gc eG ce |
+"G7"f3fB2 | G2AG AG | f3fB2 |1 Bd gB dg | "C"e3ec2 :|2 \
+"G7"ggg2B2 | "C"c2z2z2 |:[K:F] \
+"C7"z2cc cc |
+"F"c2A2c2 | "Bb"d2B2d2 | "F"c2A2c2 | z2aa aa | "C7"b2b2e2 |1 z2cc cc | "F"a2a2f2 :|2 e2d2e2 | "F"f3ff2 | f2z2z2 |] 
+W:Parts: ABAC
+
+
+X:5
+T:Walzer DA&G (tinwhistle in D)
+T:wz06048 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"A2 BA BA | f3fd2 | Ad fA df | "A7"g3gc2 | A2BA BA | g3gc2 |1 ce ac ea |
+"D"f3fd2 :|2 \
+"A7"aaa2c2 | "D"d2z2e2 |] [K:A] "E7"g3gg2 | gf ed cB | "A"c2cea2 | z2 [ce][ce] [ce][ce] |
+"E7"d2deg2 | z2GG GG | "A"Ac AcE2 | \
+z2ee ee | "E7"g3gg2 | gf ed cB | "A"c3ea2 |
+z2 [ce][ce] [ce][ce] | "E7"g3fe2 | g3fe2 | "A"a3aa2 | a2z2"_>Teil A"A2 |: [K:D] \
+"D"A2 BA BA | f3fd2 | Ad fA df |
+"A7"g3gc2 | A2BA BA | g3gc2 |1 ce ac ea | "D"f3fd2 :|2 \
+"A7"aaa2c2 | "D"d2z2z2 |:[K:G] \
+"D7"z2dd dd |
+"G"d2B2d2 | "C"e2c2e2 | "G"d2B2d2 | z2bb bb | "D7"c'2c'2f2 |1 z2dd dd | "G"b2b2g2 :|2 f2e2f2 | "G"g3gg2 | g2z2z2 |] 
+W:Parts: ABAC
+X:6
+T:Walzer DA&G (tinwhistle in D) solo
+T:wz06048 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/8
+K:D transpose=12
+A2 BA BA | f3fd2 | Ad fA df | g3gc2 | A2BA BA | g3gc2 |1 ce ac ea |
+f3fd2 :|2 \
+aaa2c2 | d2z2e2 |] [K:A] g3gg2 | gf ed cB | c2cea2 | z2 [ce][ce] [ce][ce] |
+d2deg2 | z2GG GG | Ac AcE2 | \
+z2ee ee | g3gg2 | gf ed cB | c3ea2 |
+z2 [ce][ce] [ce][ce] | g3fe2 | g3fe2 | a3aa2 | a2z2"_>Teil A"A2 |: [K:D] \
+A2 BA BA | f3fd2 | Ad fA df |
+g3gc2 | A2BA BA | g3gc2 |1 ce ac ea | f3fd2 :|2 \
+aaa2c2 | d2z2z2 |:[K:G] \
+z2dd dd |
+d2B2d2 | e2c2e2 | d2B2d2 | z2bb bb | c'2c'2f2 |1 z2dd dd | b2b2g2 :|2 f2e2f2 | g3gg2 | g2z2z2 |]
+W:Parts: ABAC
+% July 16, 2016
+

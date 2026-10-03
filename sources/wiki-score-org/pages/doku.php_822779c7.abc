@@ -1,0 +1,97 @@
+X:620
+T:Aria Euridice
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:Bb
+V: 20 clef=alto1 name="Euridice" sname="Eur."
+%%MIDI program 1 1
+%%staves [[ 20 ]]
+%-------------------------------------------------------------------
+[Q:"Maestoso"] z | Z12 | !fermata! z4 || \
+% fol 55
+[Q:"Andante"][M:3/4] "^[fol.6 of the libretto]" f e/> d/ g/> f/ | {f}edz| c/ c/ z/ g/ f/ e/ | {^c}ddz | c/ c/ z/ g/ f/ B/ | \
+w: Non sa di te scor-dar-si Cre-di, ch'\`e tuo qual co-re cre-di ch'\`e tuo quel
+% fol 56
+Bz!fermata!z || \
+w: core.
+[Q:"Andantino"][M:C] z | Z3 | z2 z d/>e/ | f>b a/g/ f/=e/ | f>_e d f/d/ | cc \
+w: (Ah_ sol del mi-o do--lo--re Non_ ha quel
+% fol 57
+d/>c/ d/>e/ | czz2 | z4 |  \
+w: cor_ pie--ta!
+z2zf/>d/ | c>c d/c/ d/>e/ | {d}c2z2 | g f//=e// d//c// c>B | Acz2 | \
+w: Non-- ha quel cor_ pie--ta!) Ma ram----men-tar ti dei,
+% fol 58
+g f//=e// d//c// c>B | Aczc| ddzf| =ee2e| fcf2-| fe/> d/ d/c/ c/> =B/ | \
+w: Si ra----men-tar ti dei, Che se-i... che pe-no an-ch'io..._ Ah_che spi-e-gar-si, oh
+% fol 59
+c/>d/ dzd | (c/f/) (A/c/) {c}B A/G/ | {G}A2f2 | f=e/> d/ (d/c/) c/> =B/ | (c/d/) d/z/ z \
+w: Di--o! Il la--bro_ mio no-on sa. Ah che spi-e-gar--si oh Di--o!
+d | c/f/ A/c/ {c}B A/G/ | \
+w: Il la-bro mi--o non_
+[L:1/16] AcBd cfaf =egbg ecdB | AcBd cfaf =egbg ecdB | A2z2 f=ef_e d=efe gfed | cagf =ef_ef d=efe gfed | {d}c2BA Bcd=e f2a2 c'2z2 | \
+w: sa.________________________________ ~_____________________________________ %
+% fol 60
+[L:1/4] z2 \
+% fol 61 (one bar ahead for words to stay in a single line)
+f2 | f=e/> d/ (d/c/) c/> =B/ | (c/d/) d/z/ z \
+w: Ah che spi-e-gar--si oh Di--o!
+d | c/f/ A/c/ {c}B A/G/ | \
+w: Il lab--bro_ mio non_
+[L:1/16] f=efg fac'a fgaf fed^c | d2=ef gabc' d'2z4 d2 | {d}c2BA Bcd=e fgae fcdA | \
+w: sa._______________________ Il lab-----------bro---o
+% fol 62
+[L:1/4] A4 | g4 | fzz2 | Z3 | \
+w: mio non sa.
+z2!fermata!zz/A/ || [Q:"Andante"][M:3/4] ^c>c "_NB: error in ms score" =B//>A//B//>c// | A/>^c/ E ^c//A//  c//e// | {e}d^c z/ \
+w: Fe-li-ce tu___ sa--rai tu___ sa-rai,
+c/ | ^c/ =B/ z/ \
+w: Ed io_
+B/ =e/> d/ | ^B ^c z/ \
+w: chi sa se mai_
+% fol 63
+e/ | ^d>f a/> ^d/ | =e2z | zzz/ \
+w: Con-ten-ta'al-fin sa-r\`o!
+=c/ | c/ =B d/ =g//f// e//d// | e/>f/ g/ z/ \
+w: Ed io_ chi sa___ se_ mai
+% fol 64 +-
+_B | A> ^c e/> g/ | f _e2 | d//f// _e//g// B>A | [L:1/32] _BcBA Bdce dedc dfeg [L:1/4]!fermata!f/ z// \
+w: Con-ten-ta'al-fin sa-ro! Con-ten--ta'al--fin sa-ro!________________
+d// | (6:4c//g//f//g//e//c// B>{g}c || [Q:"Allegro assai"][M:C] Bzz2 | Z3 | \
+w: Con-ten-----ta'al-fin sa-ro!
+z2zF | B2d2| f2 _a2 | (_a/=B/) Bz \
+w: Spie-ta-ti'as-tri ti-ran--ni,
+g/c/ | {c}=B2>c2 |{c}=B3c/g/ | {g}fe z \
+w: Re--sis-te-re a-gli'af-fan-ni
+f/B/ | {B}A2zB | {B}A2zB/f/| {f}edz \
+w: Re--sis-te-re a-gli'af-fan-ni
+d | c>c c>B | (3A/B/A/ (3F/G/F/ (3A/B/A/ (3c/d/c/ | (3e/f/e/ (3a/b/a/ c'/z/ z | \
+w: Ques-t'al-ma pi\`u non pu\`o.______________________
+(3B/c/B/ (3F/G/F/ (3B/c/B/ (3d/e/d/ | (3f/g/f/ (3b/c'/b/ d' z | \
+w: ~ ___________________
+(3A/B/A/ (3F/G/F/ (3A/B/A/ (3c/d/c/ | (3e/f/e/ (3a/b/a/ c' z | \
+w: ~ __________________
+(3d/f/e/ d (3z/b/a/ (3b/a/g/ | (3f/g/f/ (3d/e/d/ (3e/f/e/ (3c/d/c/ | (3d/f/e/ d (3z/b/a/ (3b/a/g/ | (3f/g/f/ (3d/e/d/ (3e/f/e/ (3c/d/c/ | d z \
+w: ~ __________________________________________
+_a2 | (3_a/f/g/ (3a/f/g/ (3a/f/d/ (3B/_A/F/ | Gzz2 | \
+w: ~ ______________
+z2g2 | f2-f/g/ e/c/ | B3{d}c| Bzz \
+w: Ques-t'al----ma pi\`u non pu\`o.
+f| f>f{e}e>A | BBz \
+w: Spie-ta-ti'as-tri ti-ran-ni,
+f| f>f{e}e>A | BBz2 | z2z \
+w: Re-sis-te-re'a-gli'af-fan-ni
+c | d>d !fermata!=e>e | !fermata!f2f2| (f/d/) (d/B/) (B/_A/) G/> ^F/ | ^F/G/ G z \
+w: Re-sis-te-re non pu\`o. Ah che_ spie--gar--si oh Di--o!
+g | f>d (f/e/) (d/^c/)|{e}d2f2| (f/d/) (d/B/) (B/_A/) G/> ^F/ | ^F/G/ G z \
+w: Il lab-bro mi-o non_ sa. Ah che_ spie--gar--si oh Di--o!
+g | f>d e>c | fz \
+w: Il lab-bro mio non sa.
+D2| C4 | (3C/D/C/ (3E/F/E/ (3G/A/G/ (3c/d/c/ | (3e/f/e/ (3g/a/g/ (3b/a/g/ (3b/a/g/ | \
+w: Il lab----------------------bro__
+f2>A2 | (3f/g/f/ (3d/e/d/ (3e/f/e/ (3c/d/c/ | (3f/g/f/ (3d/e/d/ (3e/f/e/ (3c/d/c/ | (3d/f/e/ (3d/f/g/ (3_a/f/d/ (3B/A/F/ | .G/.E/.G/.B/. .e/.g/.b/.g/ | f/b/d'/b/ f/b/_a/^f/ | gzz \
+w: mio non sa.____________________________________________________
+z/g/ | f>d e>c | bzg2| f>d e>c | bzg2| f>d e>c | Bzz2 | Z6 |] \
+w: Il lab-bro mio non sa. Il lab-bro mio non sa. Il lab-bro mio non sa.
+%-------------------------------------------------------------------

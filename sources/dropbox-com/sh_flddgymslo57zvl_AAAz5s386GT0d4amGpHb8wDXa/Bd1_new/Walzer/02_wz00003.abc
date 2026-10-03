@@ -1,0 +1,42 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Walzer  F chords
+T:Hanny Christen. Bd.I Zürich, Schaffhause, St. Gallen I. S.45 (wz00003) orig. F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+c |: "F"d2c | A2f | "C7"e2G | B2c | d2c | B2e | "F"f2c | A2c | 
+d2c | A2f | "G7"e2f | g2f | "C7"e2d | c2B | "F"A>ff | fzc :: "C7"cde |  [L:1/8]
+"F"f2g2a2 | "C7"bg ec de | "F"fg ab c'2 | "C7"c2"G7/Bb"d2"C7"e2 | "F"f2g2a2 | "C7"bg ec de | "F"f2z2z2 :| 
+
+X:2
+T:Walzer  C 5- chords
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+G |: "C"A2G | E2c | "G7"B2D | F2G | A2G | F2B | "C"c2G | E2G | 
+A2G | E2c | "D7"B2c | d2c | "G7"B2A | G2F | "C"E>cc | czG :: "G7"GAB | [L:1/8]
+"C"c2d2e2 | "G7"fd BG AB | "C"cd ef g2 | "G7"G2"D7/F"A2"G7"B2 | "C"c2d2e2 | "G7"fd BG AB | "C"c2z2z2 :| 
+
+X:3
+T:Walzer  G 2+ chords
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+d |: "G"e2d | B2g | "D7"f2A | c2d | e2d | c2f | "G"g2d | B2d | 
+e2d | B2g | "A7"f2g | a2g | "D7"f2e | d2c | "G"B>gg | gzd :: "D7"def | [L:1/8]
+"G"g2a2b2 | "D7"c'a fd ef | "G"ga bc' d'2 | "D7"d2"A7/C"e2"D7"f2 | "G"g2a2b2 | "D7"c'a fd ef | "G"g2z2z2 :| 
+
+X:4
+T:Walzer  G 10- chords
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+D |: "G"E2D | B,2G | "D7"F2A, | C2D | E2D | C2F | "G"G2D | B,2D | 
+E2D | B,2G | "A7"F2G | A2G | "D7"F2E | D2C | "G"B,>GG | GzD :: "D7"DEF | [L:1/8]
+"G"G2A2B2 | "D7"cA FD EF | "G"GA Bc d2 | "D7"D2"A7/C"E2"D7"F2 | "G"G2A2B2 | "D7"cA FD EF | "G"G2z2z2 :| 
+
+

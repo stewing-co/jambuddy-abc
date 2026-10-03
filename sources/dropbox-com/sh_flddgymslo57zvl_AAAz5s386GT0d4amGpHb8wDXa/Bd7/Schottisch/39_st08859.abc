@@ -1,0 +1,46 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Schottisch FCBb  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.366 (st08854) orig. F,C,Bb-Dur
+T: T\"anze aus B\"uren an der Aare (Bern) S.353ff
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"aa gg | fc c/d/c | "Bb"dd "C7"ee | "F"fc' c'>b | aa gg | fc c/d/c | "Bb"dd/f/ "C7"ee/g/ | "F"fa fz :: [K:C]
+"C"e^d/e/ "G7"fe/f/ | "C"g^f/g/ e'e' | "G7"gf/g/ d'd' | "C"ge/g/ c'c' |  e^d/e/ "G7"fe/f/ | "C"g^f/g/ e'e' | "G7"gf/g/ d'd' | "C"c'c' "_> Teil A"c'z :| 
+|: [K:Bb] "Bb"fd g>f | "F7"f2e2 | ec f>e | "Bb"e2d2 | fd b>a | "Eb"ag fe | "Bb"df d>f | B2b2 ::
+"Bb"d3g/f/ | "Eb"ee ec'/b/ | "F7"aa ga | "Bb"bb ff | d3 g/f/ | "Eb"ee ec'/b/ | "F7"aa g>a | "Bb"bb bz :| 
+
+X: 2
+T: Schottisch FCBb  chords Parts
+P:ABACD
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A] "F"aa gg | fc c/d/c | "Bb"dd "C7"ee | "F"fc' c'>b | aa gg | fc c/d/c | "Bb"dd/f/ "C7"ee/g/ | "F"fa fz ::[P:B] [K:C]
+"C"e^d/e/ "G7"fe/f/ | "C"g^f/g/ e'e' | "G7"gf/g/ d'd' | "C"ge/g/ c'c' |  e^d/e/ "G7"fe/f/ | "C"g^f/g/ e'e' | "G7"gf/g/ d'd' | "C"c'c' "_> Teil A"c'z :| 
+[P:C] |: [K:Bb] "Bb"fd g>f | "F7"f2e2 | ec f>e | "Bb"e2d2 | fd b>a | "Eb"ag fe | "Bb"df d>f | B2b2 :|
+[P:D] |: "Bb"d3g/f/ | "Eb"ee ec'/b/ | "F7"aa ga | "Bb"bb ff | d3 g/f/ | "Eb"ee ec'/b/ | "F7"aa g>a | "Bb"bb bz :| 
+
+X:3
+T:Schottisch CGF 5- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"ee dd | cG G/2A/2G | "F"AA "G7"BB | "C"cg g>f | ee dd | cG G/2A/2G | "F"AA/2c/2 "G7"BB/2d/2 | "C"ce cz :: [K:Gmaj]
+"G"B^A/2B/2 "D7"cB/2c/2 | "G"d^c/2d/2 bb | "D7"dc/2d/2 aa | "G"dB/2d/2 gg | B^A/2B/2 "D7"cB/2c/2 | "G"d^c/2d/2 bb | "D7"dc/2d/2 aa | "G"gg "_> Teil A"gz :| [K:Fmaj]
+|:  "F"cA d>c | "C7"c2B2 | BG c>B | "F"B2A2 | cA f>e | "Bb"ed cB | "F"Ac A>c | F2f2 ::
+"F"A3d/2c/2 | "Bb"BB Bg/2f/2 | "C7"ee de | "F"ff cc | A3 d/2c/2 | "Bb"BB Bg/2f/2 | "C7"ee d>e | "F"ff fz :| 
+
+X:4
+T:Schottisch CGF 5- chords Parts
+P:ABACD
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+[P:A] "C"ee dd | cG G/2A/2G | "F"AA "G7"BB | "C"cg g>f | ee dd | cG G/2A/2G | "F"AA/2c/2 "G7"BB/2d/2 | "C"ce cz ::[P:B] [K:Gmaj]
+"G"B^A/2B/2 "D7"cB/2c/2 | "G"d^c/2d/2 bb | "D7"dc/2d/2 aa | "G"dB/2d/2 gg | B^A/2B/2 "D7"cB/2c/2 | "G"d^c/2d/2 bb | "D7"dc/2d/2 aa | "G"gg "_> Teil A"gz :| [K:Fmaj]
+[P:C] |:  "F"cA d>c | "C7"c2B2 | BG c>B | "F"B2A2 | cA f>e | "Bb"ed cB | "F"Ac A>c | F2f2 :|
+[P:D] |: "F"A3d/2c/2 | "Bb"BB Bg/2f/2 | "C7"ee de | "F"ff cc | A3 d/2c/2 | "Bb"BB Bg/2f/2 | "C7"ee d>e | "F"ff fz :| 
+

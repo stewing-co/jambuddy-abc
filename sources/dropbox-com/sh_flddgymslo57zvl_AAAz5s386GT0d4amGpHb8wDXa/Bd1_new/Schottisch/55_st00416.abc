@@ -1,0 +1,90 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Uf em Chiltgang (Schottisch) BbCF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.207 (st00412) orig. Bb,C,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"f2cf a2fa | c'6c2 | a3a g2f2 | "C7"feeb e2c2 | e2ce g2eg | c'6c2 | 
+b3b a2g2 | "F"g2fe f2c2 | f2cf a2fa | c'6c2 | a3a f2g2 | "Gm"e2d2d4 | 
+"Bb"dfb2d4 | "F"c2fac4 | "C7"fedc c'3e | "F"f2a2 f2z2 || [K:C] "C"g4 eceg | cege c'bag | 
+"G7"Bdag Bdag | "C"ceag eGce | g4e2ce | gceg c'gec | "G7"Bdag fgdg | "C"c2e2 c2"_> Teil A"z2 || [K:Bb]
+"Bb"f3d f2d2 | f6d2 | f3d g2d2 | "F7"edcB A2f2 | e2e2 efa2 | 
+edef e2c2 | "Bb"d2d2 dfb2 | dcde d2Bd | f3d f2d2 | f6de | f2d2 "Bb7"b2d2 | 
+"Eb"cdef g4 | egc'2 egc'2 | "Bb"dfb2 dfb2 | "F7"f2ag fedc | "Bb"B2df b2z2 |] 
+X:2
+T: Uf em Chiltgang (Schottisch) FCBb (align)
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"f2cf a2fa | c'6c2 | a3a g2f2 | "C7"feeb e2c2 | e2ce g2eg | c'6c2 | \
+b3b a2g2 | "F"g2fe f2c2 |
+ f2cf a2fa | c'6c2 | a3a f2g2 | "Gm"e2d2d4 | \
+"Bb"dfb2d4 | "F"c2fac4 | "C7"fedc c'3e | "F"f2a2 f2z2 || [K:C]
+ "C"g4 eceg | cege c'bag | \
+"G7"Bdag Bdag | "C"ceag eGce | g4e2ce | gceg c'gec | "G7"Bdag fgdg |
+ "C"c2e2 c2"_> Teil A"z2 || [K:Bb] \
+"Bb"f3d f2d2 | f6d2 | f3d g2d2 | "F7"edcB A2f2 | e2e2 efa2 | \
+edef e2c2 | "Bb"d2d2 dfb2 |
+ dcde d2Bd | f3d f2d2 | f6de | f2d2 "Bb7"b2d2 | \
+"Eb"cdef g4 | egc'2 egc'2 | "Bb"dfb2 dfb2 | "F7"f2ag fedc | "Bb"B2df b2z2 |] 
+
+X:3
+T: Uf em Chiltgang (Schottisch) FCBb Parts
+P:ABAC
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+[P:A] "F"f2cf a2fa | c'6c2 | a3a g2f2 | "C7"feeb e2c2 | e2ce g2eg | c'6c2 | 
+b3b a2g2 | "F"g2fe f2c2 | f2cf a2fa | c'6c2 | a3a f2g2 | "Gm"e2d2d4 | 
+"Bb"dfb2d4 | "F"c2fac4 | "C7"fedc c'3e | "F"f2a2 f2z2 || [P:B] [K:C] "C"g4 eceg | cege c'bag | 
+"G7"Bdag Bdag | "C"ceag eGce | g4e2ce | gceg c'gec | "G7"Bdag fgdg | "C"c2e2 c2"_> Teil A"z2 || [P:C] [K:Bb]
+"Bb"f3d f2d2 | f6d2 | f3d g2d2 | "F7"edcB A2f2 | e2e2 efa2 | 
+edef e2c2 | "Bb"d2d2 dfb2 | dcde d2Bd | f3d f2d2 | f6de | f2d2 "Bb7"b2d2 | 
+"Eb"cdef g4 | egc'2 egc'2 | "Bb"dfb2 dfb2 | "F7"f2ag fedc | "Bb"B2df b2z2 |] 
+
+X:4
+T:Uf em Chiltgang (Schottisch) CGF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"c2Gc e2ce | g6G2 | e3e d2c2 | "G7"cBBf B2G2 | B2GB d2Bd | g6G2 | 
+f3f e2d2 | "C"d2cB c2G2 | c2Gc e2ce | g6G2 | e3e c2d2 | "Dm"B2A2A4 | 
+"F"Acf2A4 | "C"G2ceG4 | "G7"cBAG g3B | "C"c2e2 c2z2 || [K:Gmaj] "G"d4 BGBd | GBdB gfed | 
+"D7"FAed FAed | "G"GBed BDGB | d4B2GB | dGBd gdBG | "D7"FAed cdAd | "G"G2B2 G2"_> Teil A"z2 || [K:Fmaj]
+"F"c3A c2A2 | c6A2 | c3A d2A2 | "C7"BAGF E2c2 | B2B2 Bce2 | 
+BABc B2G2 | "F"A2A2 Acf2 | AGAB A2FA | c3A c2A2 | c6AB | c2A2 "F7"f2A2 | 
+"Bb"GABc d4 | Bdg2 Bdg2 | "F"Acf2 Acf2 | "C7"c2ed cBAG | "F"F2Ac f2z2 |] 
+X:5
+T:Uf em Chiltgang (Schottisch) CGF 5- (align)
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"c2Gc e2ce | g6G2 | e3e d2c2 | "G7"cBBf B2G2 | B2GB d2Bd | g6G2 | \
+f3f e2d2 | "C"d2cB c2G2 |
+c2Gc e2ce | g6G2 | e3e c2d2 | "Dm"B2A2A4 | \
+"F"Acf2A4 | "C"G2ceG4 | "G7"cBAG g3B | "C"c2e2 c2z2 || [K:Gmaj]
+"G"d4 BGBd | GBdB gfed | \
+"D7"FAed FAed | "G"GBed BDGB | d4B2GB | dGBd gdBG | "D7"FAed cdAd |
+"G"G2B2 G2"_> Teil A"z2 || [K:Fmaj] \
+"F"c3A c2A2 | c6A2 | c3A d2A2 | "C7"BAGF E2c2 | B2B2 Bce2 | \
+BABc B2G2 | "F"A2A2 Acf2 |
+AGAB A2FA | c3A c2A2 | c6AB | c2A2 "F7"f2A2 | \
+"Bb"GABc d4 | Bdg2 Bdg2 | "F"Acf2 Acf2 | "C7"c2ed cBAG | "F"F2Ac f2z2 |] 
+
+X:6
+T:Uf em Chiltgang (Schottisch) CGF 5- Parts
+P:ABAC
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+[P:A] "C"c2Gc e2ce | g6G2 | e3e d2c2 | "G7"cBBf B2G2 | B2GB d2Bd | g6G2 | 
+f3f e2d2 | "C"d2cB c2G2 | c2Gc e2ce | g6G2 | e3e c2d2 | "Dm"B2A2A4 | 
+"F"Acf2A4 | "C"G2ceG4 | "G7"cBAG g3B | "C"c2e2 c2z2 || [P:B] [K:Gmaj] "G"d4 BGBd | GBdB gfed | 
+"D7"FAed FAed | "G"GBed BDGB | d4B2GB | dGBd gdBG | "D7"FAed cdAd | "G"G2B2 G2"_> Teil A"z2 || [P:C] [K:Fmaj]
+"F"c3A c2A2 | c6A2 | c3A d2A2 | "C7"BAGF E2c2 | B2B2 Bce2 | 
+BABc B2G2 | "F"A2A2 Acf2 | AGAB A2FA | c3A c2A2 | c6AB | c2A2 "F7"f2A2 | 
+"Bb"GABc d4 | Bdg2 Bdg2 | "F"Acf2 Acf2 | "C7"c2ed cBAG | "F"F2Ac f2z2 |] 

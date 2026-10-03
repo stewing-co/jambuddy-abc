@@ -1,0 +1,79 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Vergissmeinnicht-Schottisch  CF  (st06787)  ABAC
+T:Hanny Christen. Bd.V  Basel II, Jura. S.40  (st06787) orig. C,F
+T: Basel II. Tänze aus Augst. S.6-42.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+%%partsbox
+P:ABAC
+R:Schottisch
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+[P:A] "C"GG AA | G>G GG | "G7"F>d dF | "C"EcG2 | GG AA | G>G GG | "G7"F>d dB | "C"cc cz :| [P:B]  "D7"d/^c/d =c/B/c | 
+"G"Be d>B | "D7"Ad c>A | "G"B/c/d/e/ d2 | "D7"d/^c/d =c/B/c | "G"Be d>B | "D7"Ad d/c/B/A/ | "G"GG/G/ G"_>Teil A"G || [P:C] [K:F] 
+|: "F"A3c | f3e | gf Ac | ("Gm"e2d2) | "C7"c/=B/c E>F | GB ed | "F"c/=B/c F>G | Af ed | 
+A3c | f3e | gf Ac | ("Gm"e2d2) | d/^c/d "C7"Gd | "F"c/=B/c FA | "C7"cB A>G | "F"FA Fz :| 
+%W:Parts: ABAC
+% st06787
+% Nov 2, 2017
+
+
+X:2
+T:Vergissmeinnicht-Schottisch  CF  (st06787) 
+S:Hanny Christen. Bd.V  Basel II, Jura. S.40  (st06787) orig. C,F
+S: Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"GG AA | G>G GG | "G7"F>d dF | "C"EcG2 | GG AA | G>G GG | "G7"F>d dB | "C"cc cz :| "D7"d/^c/d =c/B/c | 
+"G"Be d>B | "D7"Ad c>A | "G"B/c/d/e/ d2 | "D7"d/^c/d =c/B/c | "G"Be d>B | "D7"Ad d/c/B/A/ | "G"GG/G/ G"_>Teil A"G || [K:F] 
+|: "F"A3c | f3e | gf Ac | ("Gm"e2d2) | "C7"c/=B/c E>F | GB ed | "F"c/=B/c F>G | Af ed | 
+A3c | f3e | gf Ac | ("Gm"e2d2) | d/^c/d "C7"Gd | "F"c/=B/c FA | "C7"cB A>G | "F"FA Fz :| 
+W:Parts: ABAC
+% st06787
+% Nov 2, 2017
+
+X:3
+T:Vergissmeinnicht-Schottisch  GC 7+  (st06787) 
+S:Hanny Christen. Bd.V  Basel II, Jura. S.40  (st06787) orig. C,F
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"dd ee | d>d dd | "D7"c>a ac | "G"Bgd2 | dd ee | d>d dd | "D7"c>a af | "G"gg gz :| "A7"a/2^g/2a =g/2f/2g | 
+"D"fb a>f | "A7"ea g>e | "D"f/2g/2a/2b/2 a2 | "A7"a/2^g/2a =g/2f/2g | "D"fb a>f | "A7"ea a/2g/2f/2e/2 | "D"dd/2d/2 d"_>Teil A"d || [K:Cmaj] 
+|: "C"e3g | c'3b | d'c' eg | ("Dm"b2a2) | "G7"g/2^f/2g B>c | df ba | "C"g/2^f/2g c>d | ec' ba | 
+e3g | c'3b | d'c' eg | ("Dm"b2a2) | a/2^g/2a "G7"da | "C"g/2^f/2g ce | "G7"gf e>d | "C"ce cz :| 
+W:Parts: ABAC
+% st06787
+% Nov 2, 2017
+
+
+X:4
+T:Vergissmeinnicht-Schottisch  GC 5-  (st06787) 
+S:Hanny Christen. Bd.V  Basel II, Jura. S.40  (st06787) orig. C,F
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"DD EE | D>D DD | "D7"C>A AC | "G"B,GD2 | DD EE | D>D DD | "D7"C>A AF | "G"GG Gz :| "A7"A/2^G/2A =G/2F/2G | 
+"D"FB A>F | "A7"EA G>E | "D"F/2G/2A/2B/2 A2 | "A7"A/2^G/2A =G/2F/2G | "D"FB A>F | "A7"EA A/2G/2F/2E/2 | "D"DD/2D/2 D"_>Teil A"D || [K:Cmaj] 
+|: "C"E3G | c3B | dc EG | ("Dm"B2A2) | "G7"G/2^F/2G B,>C | DF BA | "C"G/2^F/2G C>D | Ec BA | 
+E3G | c3B | dc EG | ("Dm"B2A2) | A/2^G/2A "G7"DA | "C"G/2^F/2G CE | "G7"GF E>D | "C"CE Cz :| 
+W:Parts: ABAC
+% st06787
+% Nov 2, 2017

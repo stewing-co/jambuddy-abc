@@ -1,0 +1,43 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Polka FCBb  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.224 (pk05337) orig. F,C,Bb-Dur
+T: "Pl\"otsch Musig" Guggisberg (Bern) S.186ff
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"c2AB c2d2 | c2a2 agf2 | "C7"c2b2 bag2 | "F"c2a2 agf2 | c2AB c2d2 | c2a2 agf2 | "C7"c2b2 bag2 | "F"f2a2 f2z2 :| [K:C] 
+|: "C"g2c2 e2c2 | "G7"Bcde fga2 | g2d2 f2B2 | "C"cdef gabc' | g2c2 e2c2 | "G7"Bcde fga2 | g2d2 f2B2 | "C"c2c2 c2"_> Teil A"z2 :| [K:Bb] 
+|: "Bb"f4 gf=ef | d4 zdcB | "F7"Agf2 Agf2 | =efga "Bb"bagf | f4gf=ef | d4 zdcB | "F7"ABcd efga | "Bb"b2b2 b2z2 :| 
+
+X: 2
+T: Polka FCBb  chords Parts
+M:2/4
+L:1/16
+P:ABAC
+K:F %%MIDI gchordon
+[P:A] "F"c2AB c2d2 | c2a2 agf2 | "C7"c2b2 bag2 | "F"c2a2 agf2 | c2AB c2d2 | c2a2 agf2 | "C7"c2b2 bag2 | "F"f2a2 f2z2 :| [K:C] 
+[P:B] |: "C"g2c2 e2c2 | "G7"Bcde fga2 | g2d2 f2B2 | "C"cdef gabc' | g2c2 e2c2 | "G7"Bcde fga2 | g2d2 f2B2 | "C"c2c2 c2"_> Teil A"z2 :| [K:Bb] 
+[P:C] |: "Bb"f4 gf=ef | d4 zdcB | "F7"Agf2 Agf2 | =efga "Bb"bagf | f4gf=ef | d4 zdcB | "F7"ABcd efga | "Bb"b2b2 b2z2 :| 
+
+X:3
+T:Polka CGF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"G2EF G2A2 | G2e2 edc2 | "G7"G2f2 fed2 | "C"G2e2 edc2 | G2EF G2A2 | G2e2 edc2 | "G7"G2f2 fed2 | "C"c2e2 c2z2 :| [K:Gmaj] 
+|: "G"d2G2 B2G2 | "D7"FGAB cde2 | d2A2 c2F2 | "G"GABc defg | d2G2 B2G2 | "D7"FGAB cde2 | d2A2 c2F2 | "G"G2G2 G2"_> Teil A"z2 :| [K:Fmaj] 
+|: "F"c4 dc=Bc | A4 zAGF | "C7"Edc2 Edc2 | =Bcde "F"fedc | c4dc=Bc | A4 zAGF | "C7"EFGA Bcde | "F"f2f2 f2z2 :| 
+
+X:4
+T:Polka CGF 5- chords Parts
+M:2/4
+L:1/16
+P:ABAC
+K:Cmaj%%MIDI gchordon
+[P:A] "C"G2EF G2A2 | G2e2 edc2 | "G7"G2f2 fed2 | "C"G2e2 edc2 | G2EF G2A2 | G2e2 edc2 | "G7"G2f2 fed2 | "C"c2e2 c2z2 :| [K:Gmaj] 
+[P:B] |: "G"d2G2 B2G2 | "D7"FGAB cde2 | d2A2 c2F2 | "G"GABc defg | d2G2 B2G2 | "D7"FGAB cde2 | d2A2 c2F2 | "G"G2G2 G2"_> Teil A"z2 :| [K:Fmaj] 
+[P:C] |: "F"c4 dc=Bc | A4 zAGF | "C7"Edc2 Edc2 | =Bcde "F"fedc | c4dc=Bc | A4 zAGF | "C7"EFGA Bcde | "F"f2f2 f2z2 :| 
+
+

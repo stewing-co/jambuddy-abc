@@ -1,0 +1,37 @@
+X:2115
+T:Coro
+C:Pugnani, Gaetano (1731-1798)
+M:2/4
+L:1/4
+K:C
+V: 15 clef=alto1 name="Canto" sname="C."
+%%MIDI program 1 1
+%%staves [[ 15 ]]
+%-------------------------------
+[Q:"Andantino"] Z11 | e e/ e/ | f/> f/ e/z/ | \
+w: Lo sta-to mi-se-ro
+d/z/ c/ c/| c B/ z/ | \
+w: dell' in-fe-li-ce
+dd/ d/ | d/> d/ c/z/ | \
+w: de-gno'\`e di la-gri-me
+d c/ c/ | (cB/)z/ | \
+w: e di pie-t\`a_.
+d d/2 c/2 | c/4> B/4 B/2z | \
+w: Lo sta-to mi-se-ro
+B/d/ c/ c/ | cB/z/ | Z4 |
+w: dell'_ in-fe-li-ce
+e e/ e/ | d/> d/ c/z/ | \
+w: de-gno'\`e di la-gri-me
+c c/ c/ | B c/z/ | \
+w: e di pi-e-t\`a
+c c/ c/ | c/> c/ c/ c/ | ed | cz | \
+w: de-gno'\`e di la-gri-me e di pie-t\`a
+e f/ f/ | e//> c// c/z | \
+w: Lo sta-to mi-se-ro
+e f/ f/ | e/ c/ z | \
+w: dell' in-fe-li-ce
+c c/ c/ | c/> c/ c/ c/ | ed | cz/ \
+w: de-gno'\'e di la-gri-me e di pie-t\`a
+c/      | ed | cz |]\
+w: e di pie-t\`a.
+%-------------------------------

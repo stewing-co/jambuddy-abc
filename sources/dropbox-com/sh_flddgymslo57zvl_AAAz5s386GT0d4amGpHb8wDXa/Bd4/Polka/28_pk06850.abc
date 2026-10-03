@@ -1,0 +1,62 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka CF (pk06850) ABCDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.222 (pk06850) orig. C,F
+T: Aus dem Repertoire der Dorfmusik Benken. S.222-236
+T:Überliefert durch Johannes Grass (*1871)
+%%MIDI program 21
+%%partsbox
+P:ABCDC
+R:Polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+[P:A] {/A}"C"G>^FG2 .c2.e2 |  "Dm".e2.d2f4 | {/A}("G7"G>^F)G2 .B2.d2  | "C".d2.c2e4 | E>^DE2 G2c2 |  "D7"A>GA2 .c2.e2 | "G"dgB2 "D7"ce^F2 | "G"G2G2 G2z2 || 
+[P:B] |: "G7"GABc defd | "C".a2g4fe | ("G7"ef)B2 B>AB2 | ("C"ce)G2 G>^FG2 | "G7"GABc defd | "C".a2g4fe | ("G7"ef)B2 {/c}B>AB2 | "C"c2c2 c2z2 :| [K:F] 
+[P:C] |: "F"AAAA AAGA | "Gm".c2.B2 g3f | "C7"e2dc B3=B | "F"d2cA F3G | AAAA AAGA | "Gm".c2.B2 g3f | "C7"e2dc BAGc | "F"F2A2 F2"_Fine"z2 :| [K:C]
+[P:D]  "C"e2dc B2c2 | G6AG | "G7"GFDB G2GG | "C"AGEc G2GG | e2dc B2c2 | G6AG | "G7"GFDB Gfed | "C"c2c2 "C7"B2"_>Teil C"_B2 |] 
+W:
+W:Anmerkung H.C.: Muttenz kl. 10, Binningen 15
+% pk06850
+% March 6, 2017 (Chibi and companion)
+
+X:2
+T:Polka CF (pk06850)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.222 (pk06850) orig. C,F
+S: Aus dem Repertoire der Dorfmusik Benken. S.222-236
+S:Überliefert durch Johannes Grass (*1871)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+{/A}"C"G>^FG2 .c2.e2 |  "Dm".e2.d2f4 | {/A}("G7"G>^F)G2 .B2.d2  | "C".d2.c2e4 | E>^DE2 G2c2 |  "D7"A>GA2 .c2.e2 | "G"dgB2 "D7"ce^F2 | "G"G2G2 G2z2 || 
+|: "G7"GABc defd | "C".a2g4fe | ("G7"ef)B2 B>AB2 | ("C"ce)G2 G>^FG2 | "G7"GABc defd | "C".a2g4fe | ("G7"ef)B2 {/c}B>AB2 | "C"c2c2 c2z2 :| [K:F] 
+|: "F"AAAA AAGA | "Gm".c2.B2 g3f | "C7"e2dc B3=B | "F"d2cA F3G | AAAA AAGA | "Gm".c2.B2 g3f | "C7"e2dc BAGc | "F"F2A2 F2"_Fine"z2 :| [K:C]
+"C"e2dc B2c2 | G6AG | "G7"GFDB G2GG | "C"AGEc G2GG | e2dc B2c2 | G6AG | "G7"GFDB Gfed | "C"c2c2 "C7"B2"_>Teil C"_B2 |] 
+W:Parts: ABCDC
+% W:Anmerkung H.C.: Muttenz kl. 10, Binningen 15
+% pk06850
+% March 6, 2017 (Chibi and companion)
+
+X:3
+T:Polka GC 5- (pk06850)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.222 (pk06850) orig. C,F
+S:Aus dem Repertoire der Dorfmusik Benken. S.222-236
+S:Überliefert durch Johannes Grass (*1871)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+{/E}"G"D>^CD2 .G2.B2 | "Am".B2.A2c4 | {/E}("D7"D>^C)D2 .F2.A2 | "G".A2.G2B4 | B,>^A,B,2 D2G2 | "A7"E>DE2 .G2.B2 | "D"AdF2 "A7"GB^C2 | "D"D2D2 D2z2 || 
+|: "D7"DEFG ABcA | "G".e2d4cB | ("D7"Bc)F2 F>EF2 | ("G"GB)D2 D>^CD2 | "D7"DEFG ABcA | "G".e2d4cB | ("D7"Bc)F2 {/G}F>EF2 | "G"G2G2 G2z2 :| [K:Cmaj] 
+|: "C"EEEE EEDE | "Dm".G2.F2 d3c | "G7"B2AG F3^F | "C"A2GE C3D | EEEE EEDE | "Dm".G2.F2 d3c | "G7"B2AG FEDG | "C"C2E2 C2"_Fine"z2 :| [K:Gmaj]
+"G"B2AG F2G2 | D6ED | "D7"DCA,F D2DD | "G"EDB,G D2DD | B2AG F2G2 | D6ED | "D7"DCA,F DcBA | "G"G2G2 "G7"F2"_>Teil C"=F2 |] 
+W:Parts: ABCDC
+% W:Anmerkung H.C.: Muttenz kl. 10, Binningen 15
+% pk06850
+% March 6, 2017 (Chibi and companion)

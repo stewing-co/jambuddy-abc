@@ -1,0 +1,40 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka  CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.258 (pk00519) orig. C,G,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:C %%MIDI gchordon 
+(g^fg) |: "C"a2a2 e2e2 | "G7"gffe f2gg | "G7 (F)"b2b2 a2a2 | "C"g6(ab) | "Am"d'2d'2 c'3g | "Dm"edd^c d2ba | 
+"C/G"g2eg "G7"f2B2 |1 "C"c2e2 cg^fg :|2 "C"c2e2 c2z2 |: [K:G] "G"d2dg "C"e2eg | "G"dBdg b4 | "D7"b2a2 e2f2 | "G"agfe d4 | 
+"G"d2dg "C"e2eg | "G"d2dg b4 | "D7"b2a2 e2f2 | "G"g2gg g2g2 :: [K:C] "G7"GBdg b2a2 | "C"egg2 cgg2 | "G7"fgg2 dgab | 
+"C"c'2ba Tg4 | "G7"GBdf b2a2 | "C"egg2 cgg2 | "G7"Bgg2 bgfd |1 "C"c2eg c'4 :|2 "C"c2eg c'2cc || [K:F] 
+"F"c2d2 e2f2 | a6aa | "Dm"a2b2 a2d2 | "Gm"g6gg | "C7"g2a2 b2c'2 | e'6d'2 | c'3d' c'2g2 | "F"a6cc | 
+c2d2 e2f2 | a6aa | "Dm"a2b2 a2d2 | "Gm"g6de | "Bb"g2f2 e2d2 | "F/C"c2fa c'2c2 | "C7"Bceb a3g | "F"f2a2 f2z2 |]  
+
+X:2
+T:Polka EbBbAb (5letras) cf. CGF
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon 
+(b=ab) |: "Eb"c'2c'2 g2g2 | "Bb7"baag a2bb | "Bb7 (Ab)"d'2d'2 c'2c'2 | "Eb"b6(c'd') | "Cm"f'2f'2 e'3b | "Fm"gff=e f2d'c' | 
+"Eb/Bb"b2gb "Bb7"a2d2 |1 "Eb"e2g2 eb=ab :|2 "Eb"e2g2 e2z2 |: [K:Bbmaj] "Bb"f2fb "Eb"g2gb | "Bb"fdfb d'4 | "F7"d'2c'2 g2a2 | "Bb"c'bag f4 | 
+"Bb"f2fb "Eb"g2gb | "Bb"f2fb d'4 | "F7"d'2c'2 g2a2 | "Bb"b2bb b2b2 :: [K:Ebmaj] "Bb7"Bdfb d'2c'2 | "Eb"gbb2 ebb2 | "Bb7"abb2 fbc'd' | 
+"Eb"e'2d'c' Tb4 | "Bb7"Bdfa d'2c'2 | "Eb"gbb2 ebb2 | "Bb7"dbb2 d'baf |1 "Eb"e2gb e'4 :|2 "Eb"e2gb e'2ee || [K:Abmaj] 
+"Ab"e2f2 g2a2 | c'6c'c' | "Fm"c'2d'2 c'2f2 | "Bbm"b6bb | "Eb7"b2c'2 d'2e'2 | g'6f'2 | e'3f' e'2b2 | "Ab"c'6ee | 
+e2f2 g2a2 | c'6c'c' | "Fm"c'2d'2 c'2f2 | "Bbm"b6fg | "Db"b2a2 g2f2 | "Ab/Eb"e2ac' e'2e2 | "Eb7"degd' c'3b | "Ab"a2c'2 a2z2 |] 
+
+X:3
+T:Polka EbBbAb oct. (5letras) cf. CGF
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon 
+(B=AB) |: "Eb"c2c2 G2G2 | "Bb7"BAAG A2BB | "Bb7 (Ab)"d2d2 c2c2 | "Eb"B6(cd) | "Cm"f2f2 e3B | "Fm"GFF=E F2dc | 
+"Eb/Bb"B2GB "Bb7"A2D2 |1 "Eb"E2G2 EB=AB :|2 "Eb"E2G2 E2z2 |: [K:Bbmaj] "Bb"F2FB "Eb"G2GB | "Bb"FDFB d4 | "F7"d2c2 G2A2 | "Bb"cBAG F4 | 
+"Bb"F2FB "Eb"G2GB | "Bb"F2FB d4 | "F7"d2c2 G2A2 | "Bb"B2BB B2B2 :: [K:Ebmaj] "Bb7"B,DFB d2c2 | "Eb"GBB2 EBB2 | "Bb7"ABB2 FBcd | 
+"Eb"e2dc TB4 | "Bb7"B,DFA d2c2 | "Eb"GBB2 EBB2 | "Bb7"DBB2 dBAF |1 "Eb"E2GB e4 :|2 "Eb"E2GB e2EE || [K:Abmaj] 
+"Ab"E2F2 G2A2 | c6cc | "Fm"c2d2 c2F2 | "Bbm"B6BB | "Eb7"B2c2 d2e2 | g6f2 | e3f e2B2 | "Ab"c6EE | 
+E2F2 G2A2 | c6cc | "Fm"c2d2 c2F2 | "Bbm"B6FG | "Db"B2A2 G2F2 | "Ab/Eb"E2Ac e2E2 | "Eb7"DEGd c3B | "Ab"A2c2 A2z2 |] 

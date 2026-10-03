@@ -1,0 +1,91 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Urfidele Polka  CF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.188 (pk00840) orig. C,F-Dur
+T:Gomser T\"anze. S.178-195.\"Uberliefert durch Theodor Franzen, 1870-1958, Fiesch.
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+(3gab |: "C"c'2g2 e2c2 | agec !>!g4 | "G7"gfdB g2ab | "C"c'geg c2(3gab | 
+c'2g2 e2c2 | agec !>!g4 | "G7"gfdB G2AB |1 "C"c2e2c2 (3gab :|2 "C"c2e2c2z2 || [K:F]
+|: "F"a4agfd | c4cagf | "C7"egbc' e3d | "F"dcfd' c'cfg | a4agfd | c4cagf | 
+"C7"egbc' egd'c' | "F"f4z4 :: "C7"c2eg c2eg | "F"c2fa c'4 | "C7"bagc !>!g4 | "F"c'bac !>!f4 | 
+"C7"c2eg c2eg | "F"c2fa c'4 |1 "F"d'c'ac' "C7"gc'c'c' | "F"f6z2 :|2 "C7"d'c'bg ecBG | "F"F6z2 |] 
+% pk00840
+X:2
+T:Urfidele Polka  GC 5-
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+(3def |: "G"g2d2 B2G2 | edBG !>!d4 | "D7"dcAF d2ef | "G"gdBd G2(3def | 
+g2d2 B2G2 | edBG !>!d4 | "D7"dcAF D2EF |1 "G"G2B2G2 (3def :|2 "G"G2B2G2z2 || [K:C]
+|: "C"e4edcA | G4Gedc | "G7"Bdfg B3A | "C"AGca gGcd | e4edcA | G4Gedc | 
+"G7"Bdfg Bdag | "C"c4z4 :: "G7"G2Bd G2Bd | "C"G2ce g4 | "G7"fedG !>!d4 | "C"gfeG !>!c4 | 
+"G7"G2Bd G2Bd | "C"G2ce g4 |1 "C"ageg "G7"dggg | "C"c6z2 :|2 "G7"agfd BGFD | "C"C6z2 |] 
+% pk00840
+X:3
+T: Urfidele Polka  CF (5letras transposed)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+(3gab |: "C"c'2g2 e2c2 | agec !>!g4 | "G7"gfdB g2ab | "C"c'geg c2(3gab | 
+c'2g2 e2c2 | agec !>!g4 | "G7"gfdB G2AB |1 "C"c2e2c2 (3gab :|2 "C"c2e2c2z2 || [K:F]
+|: "F"a4agfd | c4cagf | "C7"egbc' e3d | "F"dcfd' c'cfg | a4agfd | c4cagf | 
+"C7"egbc' egd'c' | "F"f4z4 :: "C7"c2eg c2eg | "F"c2fa c'4 | "C7"bagc !>!g4 | "F"c'bac !>!f4 | 
+"C7"c2eg c2eg | "F"c2fa c'4 |1 "F"d'c'ac' "C7"gc'c'c' | "F"f6z2 :|2 "C7"d'c'bg ecBG | "F"F6z2 |] 
+% pk00840
+X:4
+T:Urfidele Polka  GC (5letras transposed)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+(3def |: "G"g2d2 B2G2 | edBG !>!d4 | "D7"dcAF d2ef | "G"gdBd G2(3def | 
+g2d2 B2G2 | edBG !>!d4 | "D7"dcAF D2EF |1 "G"G2B2G2 (3def :|2 "G"G2B2G2z2 || [K:C]
+|: "C"e4edcA | G4Gedc | "G7"Bdfg B3A | "C"AGca gGcd | e4edcA | G4Gedc | 
+"G7"Bdfg Bdag | "C"c4z4 :: "G7"G2Bd G2Bd | "C"G2ce g4 | "G7"fedG !>!d4 | "C"gfeG !>!c4 | 
+"G7"G2Bd G2Bd | "C"G2ce g4 |1 "C"ageg "G7"dggg | "C"c6z2 :|2 "G7"agfd BGFD | "C"C6z2 |] 
+% pk00840
+X:5
+T:Urfidele Polka A&D (tinwhistle in D)
+T: pk00840 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Polka
+M:2/4
+L:1/16
+K:A%%MIDI gchordon
+(3efg |: "A"a2e2 c2A2 | fecA !>!e4 | "E7"edBG e2fg | "A"aece A2(3efg | 
+a2e2 c2A2 | fecA !>!e4 | "E7"edBG E2FG |1 "A"A2c2A2 (3efg :|2 "A"A2c2A2z2 || [K:D]
+|: "D"f4fedB | A4Afed | "A7"cega c3B | "D"BAdb aAde | f4fedB | A4Afed | 
+"A7"cega ceba | "D"d4z4 :: "A7"A2ce A2ce | "D"A2df a4 | "A7"gfeA !>!e4 | "D"agfA !>!d4 | 
+"A7"A2ce A2ce | "D"A2df a4 |1 "D"bafa "A7"eaaa | "D"d6z2 :|2 "A7"bage cAGE | "D"D6z2 |] 
+X:6
+T:Urfidele Polka A&D (tinwhistle in D) solo
+T: pk00840 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Polka
+M:2/4
+L:1/16
+K:A transpose=12
+(3ef^g |: a2e2 c2A2 | fecA !>!e4 | edB^G e2f^g | aece A2(3ef^g | 
+a2e2 c2A2 | fecA !>!e4 | edB^G E2F^G |1 A2c2A2 (3ef^g :|2 A2c2A2z2 || [K:D]
+|: f4fedB | A4Afed | cega c3B | BAdb aAde | f4fedB | A4Afed | 
+cega ceba | d4z4 :: A2ce A2ce | A2df a4 | gfeA !>!e4 | agfA !>!d4 | 
+A2ce A2ce | A2df a4 |1 bafa eaaa | d6z2 :|2 bage cAGE | D6z2 |]
+
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 20, 2016
+

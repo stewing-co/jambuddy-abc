@@ -1,0 +1,2920 @@
+%abc2.1
+
+% General notes from your not so humble transcriber appear in the
+% appendices at the end.  See indices 2000 and following.
+
+% +==============================================================================+
+% | GLOBAL SETTINGS:
+% +==============================================================================+
+%%partsfont Sans-Bold,box
+ 
+% MIDI assignments
+%%MIDI program 40 % fiddle
+%%MIDI chordprog 24 % acoustic guitar
+%%MIDI bassprog 24 % same
+
+% +==============================================================================+
+% | TRANSCRIBER'S GENERAL NOTES:
+% +==============================================================================+
+
+% see the tail end
+
+% +==============================================================================+
+% | TRANSCRIPTIONS START HERE:
+% +==============================================================================+
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Cover
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+X:1
+T:(cover page)
+C:John Malchair's Third Collection of Tunes
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+%unicode notes:
+%  \u00a0=nonbreaking space
+%  \u201c=opening English quotation marks
+%  \u201d=closing English quotation marks
+M:4/4
+L:1/4
+K:
+%%begintext fill
+%%Malchair, (J.B.).
+%%
+%%Malchair, the watercolour painter and musician
+%%leader of the Oxford Music Room Band from 1750,
+%%interested himself in a comparative study of tunes
+%%in Playford's \u201cDancing Master,\u201d and occasionally
+%%noted tunes \u201cfrom the mouths of the people.\u201d This
+%%is the last of his three note books.  The whereabouts
+%%of the other tunes is unknown.
+%%
+%%Cecil Sharp Library. ex.Folk Song Society.
+%%endtext
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAGES 1-25
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+X:10
+T:Waltz.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p1
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:3/8
+L:1/16
+R:waltz
+K:D
+P:A
+|: d3efg | a2a2a2 | {/b}a2^g2a2 | e4f2 | =g2f2g2 | B4e2 | dcBABc |1 d6 :|2 d4 ||
+P:B
+|: d'2 | d'c'bad'2 | d'c'bad'b | a2g2f2 | e4d'2 | d'c'bad'2 | d'c'bad'b | a>gf2e2 | d4 :|
+
+X:11
+T:Waltz.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p1
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:3/8
+L:1/16
+R:waltz
+K:D
+P:A
+|: f2 | gebgec | dAfdAF | GEecAc | dAGFED | gebgec | dAfdAF | GeFdEc | d4 :|
+P:B
+|: F2 | GEecAc | dAfdAF | GEecAc | dAGFED | GEecAc | dAfdAF | GEecAc | d4 :|
+
+X:12
+T:Romance du Barbier du Seville.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p1
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:2/4
+L:1/8
+R:march
+K:G
+P:A
+|: d2BB | B3G | AAAB | dcB2 | g2fa | g2fa | gdcB | B2Az :|
+P:B
+|: A2Ac | BBBd | dAAc | {/c}B3d | f2ed | f2ed | gd =f/e/d/c/ | B2!mordent!A2 | G4 :|
+
+
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAGES 26-50
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+X:260
+T:Love for Love. Danc'd in the Play.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p26
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 Assuming both parts are repeated; not indicated in MS.
+N:NB2 MS has F flat, assuming F natural.  (Two occurrences)
+N:NB3 A part has seven measures in MS
+M:C|
+L:1/8
+K:G
+P:A
+|: "_NB1"d2 | g2G2 Bcd2 | d3 e"_NB2"=f2A2 | ABc2 c3d |
+efge d3c | BcdB A3G | FGAB (AF)(ED) | "_NB3"D6 :|
+P:B
+|: A2 | ABD2 F2A2 | BcE2 G2B2 | e2fg B2e2 | e6 fg |
+a2A2 A3B | cBcd e3"_NB2"=f | e2E2 E3F | GFGA B2d2 |
+g2G2 Bcd2 | G6 :|
+
+X:261
+T: Vicar of Taunton Dean.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p26
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 The MS has no repeats.  They are assumed here.
+M:6/4
+L:1/4
+K:Gm
+P:A
+|: "_NB1"D | G2A BAF | G2B cBA | GAB B2A | Gd2- d2 :|
+P:B
+|: d/e/ | f2e d2c | d2c B2A/G/ | ABc c2B | Bc2- c2c | 
+d>ed c>BA | B>AG d3 | c>Bc c>BA | Gd2 A2G |
+^FD2 BG2 | d3- d2d | c>Bc c>BA | Gd2- d2 :|
+
+X:262
+T: King of Poland.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p26
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 The MS has no repeats.  They are assumed here.
+N:NB4 Pickup rest added.
+M:6/4
+L:1/4
+K:Gm
+P:A
+|: "_NB1,4"z | B2G BAc | dcd G2A | Bcd f2d | dcd G2 :|
+P:B
+|: g/a/ | b>ag ^f>=ef | g2G G2A | B>cd f2d | f2d c>BA |
+B>cd g2d | B>AG G2 :|
+
+
+
+X:270
+T:The constant Lover.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p27
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+M:C|
+L:1/8
+K:F
+P:A
+|: "_NB1"cB | ABcd cBAG | F2F2 F2f2 | e2d2 e2f2 | g4 G4 |
+ABcd cBAG | F2F2 F2f2 | g2c2 dfeg | f6 :|
+P:B
+|: gf | efga gfed | c2c2 c2e2 | f2g2 a2ga | b6 a2 |
+gagf efed | cdcB A2c2 | Bdce dfeg | f6 :|
+
+
+X:271
+T:The Pursuit.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p27
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+M:C|
+L:1/8
+K:Dmix
+P:A
+|: "_NB1"G2 | E3F G2B2 | d3e (de)(dc) | B2d2 g2B2 | A4 E2E2 |
+G3A B2d2 | g3a g2e2 | g3a (ga)(ge) | d2 B4 :|
+P:B
+|: ba | g3a g2ba | g3a (ga)(ge) | (de)(dB) (de)(dB) | A2 e4 f2 |
+g3a g2(fe) | d3e d2(cB) | G3A B2e2 | d2 B4 :|
+
+X:272
+T:Mug House.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p27
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:Mud House is marked at end of MS page as misbarred and rebarring suggestions are present.
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+M:6/4
+L:1/4
+K:F
+P:A
+|: "_NB1"d | B>cd (ec)e | (dB)g B>AG | (AF)A A2c | \
+B>cd (ec)e | (fd)f g2d | (BG)G G2 :|
+P:B
+|: B | (AF)A (AF)A | (AF)d (AF)B | (GE)E E2A | \
+(FD)d (Be)d | (ae)a (fd)b | (ga)f g2 :|
+
+X:273
+T:Mug House (rebarred).
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p27
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:Mud House is marked at end of MS page as misbarred and rebarring suggestions are present.
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+M:9/8
+L:1/8
+K:F
+P:A
+|: "_NB1"d | B>cd (ec)e (dB)g | B>AG (AF)A A2c | \
+B>cd (ec)e (fd)f | g2d (BG)G G2 :|
+P:B
+|: B | (AF)A (AF)A (AF)d |(AF)B (GE)E E2A | \
+(FD)d (Be)d (ae)a | (fd)b (ga)f g2 :|
+
+
+X:280
+T:Mr Young's Delight.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p28
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+M:C|
+L:1/8
+W:Duplicate p84.
+K:F
+P:A
+|: "_NB1"c2 | A2F2 F2G2 | A4 d4 | c3d (cd)(cA) | B2 G4 B2 |
+A2 F4 G2 | A4 d4 | f3g (fg)(ag) | f2 c4 f2 |
+d3c (de)fd | (cd)(cB) (Ac)(fc) | (de)(fd) (cd)(cA) | B2G2 G2B2 |
+A2 F4 G2 | A4 d4 | c3d (cd)(cA) | B2 G4 :|
+P:B
+|: (ag) | (fg)(af) (ga)(bg) | (ab)(ga) (fg)(ef) | (de)(fd) (ge)(dc) | G2 c4 B>A |
+(Bd)(fd) (Ac)(fc) | (Bd)(fd) (Ac)(fc) | (dc)(BA) (GA)(GF) | F6 :|
+
+X:281
+T:Mr Heath's Dance.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p28
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+M:C|
+L:1/8
+K:D
+P:A
+|: A2 | F2D2 D2F2 | A4 B4 | A2F2 (GF)(ED) | (CD)(EF) E2AG |
+F2D2 D2F2 | A4 B4 | A2F2 (GF)(ED) | D6 :|
+P:B
+|: ef | e2c2 c2d2 | e4 a2e2 | e2fe d2ed | c6 c2 |
+d2c2 B2A2 | ^G2A2 B2(cd) | e2(fe) (dc)(BA) | A6 A2 |
+F2D2 D2F2 | A4 B4 | A2F2 (GF)(ED) | (CD)(EF) E2AG |
+F2D2 D2F2 | A4 B4 | A2F2 (GF)(ED) | D6 :|
+
+
+X:290
+T:Bleinheim Castle.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p29
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+N:NB2 MS has slur "(F2A A>)B^c"; assuming tie "F2A- A>B^c" as in bars that follow (esp. bar 5).
+M:6/4
+L:1/4
+K:Ddor
+P:A
+|: "_NB1"D/E | "_NB2"F2A- A>B^c | D2D- D>EF | E2G- G>AB | c2C- C>DE |
+F2A- A>B^c | d>cd e>de | f>ef g>fe | f2(d d3/2) :|
+P:B
+|: d/e | f>ef g>fg | a2c- c>de | f>ef g>fg | a2A- A>Bc |
+B2d- d>ef | g2G- G>AB | c>Bc d>ef | e2c- c>GA |
+_B>cB A>Bc | B>cd ^c>BA | d>ef e>fg | f2d- d>dA |
+_B>cB Acf | =Bdg =c2e | a>gf e>fg | f2d- d3/2 :|
+
+X:291
+T:Ormond's March.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p29
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+M:C|
+L:1/8
+R:march
+K:C
+P:A
+|: e4 d3c | c6 ef | g2g2 g2fe | d6 de | f2f2 f2ed |
+e3f edcB | A4 dedc | B2Bc dcBA | G2cB A3G | G8 :|
+P:B
+|: d6 Bc | d2d2 d2e2 | dcBc d2G2 | g6 ef |
+g2g2 g2a2 | gfef g2c2 | a2fg agaf | g2ef gfge |
+f2de fefd | e2fe dcBA | BGc2 c3B | c8 :|
+
+
+X:300
+T:Disappointment.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p30
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:This seems to be a CMD (common meter doubled) hymn tune....
+N:NB1 assuming no repeats (as in MS) since this appears to be a hymn tune.
+N:NB2 MS used flat (as in F# flatted), so F natural is intended.
+M:C|
+L:1/8
+K:Gm
+P:A
+B2G2 B2d2 | cBAG ^F2d2 | cBAG ^F2B2 | AG^F=E D4 |
+B2G2 d2g2 | fedc B2b2 | agf=e d2^f2 | g8 ||
+P:B
+B2d2 B2f2 | edcB A2e2 | dcBA G2d2 | cBAG ^F2d2 |
+g2d2 g2b2 | ag^f=e d2g"_NB1"=f | edcB A3G | G8 |]
+
+X:301
+T:Marlborough's Victory.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p30
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+M:C
+L:1/8
+R:reel
+K:D
+P:A
+|: A2 | d2dd dddd | d6 cB | AGFG AGFG | G4 D2de |
+f2ff ffff | f6 gf | edcd edcd | e6 A2 |
+d2df e2ef | d2df e2g^f | fedc B3A | A6 :|
+P:B
+|: E2 | A2AA AAAA | A6 A2 | dcde d2A2 | d6 e2 |
+ffff eeee | ffff eeee | f^gfg =g3(f/g/) | a6 ag |
+fedc B2gf | edcB A2dc | BAGF E2B2 | e6 ef |
+g2fe f2d2 | efed c2BA | d2ef B2c2 | d6 :|
+
+
+X:310
+T:Wood Lark.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p31
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+M:C|
+L:1/8
+K:F
+P:A
+|: "_NB1"fg | agfa gfeg | f2c2 c2f2 | g2a2 b2a2 | gfed c2fg |
+agfa gfeg | f2c2 (fa)c2 | B2A2 G3F | F6 :|
+P:B
+|: cB | AFAc AFAc | BGBd BGBd | Acde fgag | e4 c2gf |
+fafc fafc | egec egec | faga (ba)g2 | f6 :|
+
+X:311
+T:Golden Age.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p31
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+N:NB2 The MS has mensuration clef inverted alla breve (modern: 2/4 time).
+N:  == This is inconsistent with notes and barring in the MS; probable use to indicate fast tempo.
+N:  == For consistency, we change note length -- notes here have half of length as given in MS.
+N:  == Also note that the inverted alla breve symbol in not available in ABC notation.
+M:2/4 % MS has inverted alla breve (2/4), see notes
+L:1/16 % corresponding to default 1/8 in MS
+K:Am
+P:A
+|: "_NB1,2"AB | c2e2 A2a2 | ^g2b2 e2dc | B2c2 d2eB | c2 A4 cB |
+c2e2 A2c2 | B2d2 G2g2 | (ag)(fe) (de)(fg) | e2 c4 :|
+P:B
+|: cd | e2g2 c2e2 | g2c2 B2e2 | A2a^g a2ba | =g2 e4 ef |
+g2B2 c2e2 | f2A2 ^G2B2 | e2dc B2cd | c2 A4 :|
+
+X:312
+T:Winchester Wedding.
+T:The King's Jigg.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p31
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+N:NB3 The MS has this as a quarter (closed notehead) with a correction to half (open nothead),
+N:  -- the original quarter is consistent with barring.
+N:NB4 MS has 1/8 note instead of 1/4 note.
+N:NB5 This footnote follows the tune.
+M:C|
+L:1/8
+K:Bb
+P:A
+|: "_NB1"B,2 | (DF3) G2F2 | D2B,2 (DF3) | B3G c3B, | (DF3) G3F | \
+ D2F2 GAB2 | B3A "_NB3"B2 :|
+P:B
+|: g2 | fgd2 f3B | c2B2 cde2 | G3c A3F | B>GE2 G>BG2 | \
+ c>AF2 (de3) | c3B "_NB4"B2 :|
+W:(NB5) See an attempt to restore the time of this tune at p[age] 129.
+
+
+X:320
+T:Salatation.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p32
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+N:NB2 Short measure in MS.  Added "d2" (quarter note) to fill measure.
+N:NB3 Slur not in MS -- added for parallelism with final measure of A.
+M:3/2
+L:1/8
+R:%triple hornpipe
+K:A
+P:A
+|: "_NB1"e4 c3B ABc2 | B4 E4 E4 | FGA2 F2(ED) (CD)E2 | B,4- B,4 B3c |
+d4 f4 FGA2 | G4 B2Bc d2"_NB2"d2 | e2 c4 c2 B2B2 | A6 e2 (fg)a2 :|
+P:B
+|: d3c d2e2 (fe)(fg) | B6 ^d2 e2f2 | g3a f2(ge) f2^d2 | e6 B2 Bcd2 |
+c3B c2A2 (FG)A2 | G6 e2 (ef)g2 | f3e (fa)(ec) B2A2 | A6 e2 "_NB3"(fg)a2 :|
+
+X:321
+T:Burgondy Flight.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p32
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts A and C are repeated.  Part B seems to be a bridge.
+N:NB4 Part C has 7 measures.  A pickup rest has been added for the repeat to the C part.
+M:6/8
+L:1/8
+R:jig
+K:Bb
+P:A
+|: "_NB1"f/e/ | d2e c>BA | B3 F2A | c>de d2c | d3- d2e/f/ |
+g3 fed | cde f2e | d>cB FBA | B3- B2 :|
+P:B
+A/B/ | c>dc cdc | cAF FBc | d>ed c2B | f3- f2f | g3 f3 ||
+P:C
+|: e2z dga | b2z a2z | g2z fga | bed cac |
+BgB AfA | GAB FBA |1 B3- B2 "_NB4"z :|2 B3- B2 |]
+
+
+X:330
+T:Lisle.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p33
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+M:3/2
+L:1/8
+K:Bb
+P:A
+|: Bc | B2B,2 B,2B2 A2G2 | c2G2 GABc A2F2 | Bcd2 ABc2 GABc | A2B2 cBAG F2GA |
+B2B,2 B,2B2 A2G2 | c2G2 GAB2 A2F2 | BcdB ABcA GABG | F2B2 B3A B2 :|
+P:B
+|: de | f2B2 B2d2 c2B2 | g2c2 cde2 d2f2 | gaga B2A2 g2f2 | e2f2 f3=e f2ga |
+b2e2 d2b2 abag | fgfe d2g2 fgfe | dedc BcdB cBAG | F2B2 B3A B2 :|
+
+X:331
+T:Lady Dainty.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p33
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming A part is repeated.  B part seems to be a finale.
+M:C|
+L:1/8
+K:Dm
+P:A
+|: AG | FEDF E2^C2 | D4 E4 | F3A GFED | ^CDEF E2AG |
+FEDF E2^C2 | D2F2 A2df | edcB AGFE | D6 :|
+P:B
+ag | fedf e2^c2 | d4 e4 | f3a gfed | ^cdef e2ag |
+fafa egeg | fdef ^ca=B^c | defg a2gf | e4 d4 |]
+
+
+X:340
+T:Masquerade Royal.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p34
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+M:C|
+L:1/8
+K:Gm
+P:A
+|: "_NB1"G2A2 | B2G2 B2c2 | d4 d2cB | A2B2 c2d2 | B2G2 G2A2 |
+B2G2 B2c2 | d4 d2cB | A2G2 A2^F2 | G4 :|
+P:B
+|: d2e2 | f2e2 f2g2 | f4 f2ed | c2d2 e2d2 | d4 dcde |
+d4 c4 | B4 G2A2 | B2G2 B2c2 | d4 d2c2 |
+A2B2 c2d2 | B2G2 G2A2 | B2G2 B2c2 | d4 d2cB | \
+A2G2 A2^F2 | G4 :|
+
+X:341
+T:A Health to Betty.
+T:from the edition of 1665.  See another vol 2nd p 20, 1652.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p34
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:MS "mistakes" in this tune and the next suggest a copy from an earlier MS using different notation.
+N:NB1 No repeats in MS.  Assuming the tune is repeated.
+N:NB2 Long measure in MS.
+M:4/4   % MS has C| (cut time)
+L:1/8
+K:Gdor % modality uncertain - key signature is 1 flat  (Bb Lydian?, F major?, D minor?, G Dorian?)
+|: "_NB1"G2 | [M:5/4] "_NB2"G3A G2^F2D2 | [M:4/4]B2c2 A2d2 | [M:5/4] "_NB2"d3e d2c2A2 | [M:4/4] f2d2 d2e2 |
+[M:5/4] "_NB2"f2d2 B3cd2 | [M:4/4] c2A2 F2F2 | [M:5/4] "_NB2"G3A G2^F2D2 | [M:4/4] (B2c2 A2) :|
+W:(Transcriber's note: Despite the odd meter, this is really quite catchy!)
+
+X:342
+T:The Irish Lady.
+T:Aniseed water Robin.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p34
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 MS has explicit repeats for both parts.
+N:NB3 MS has triplet with twice this length.
+N:NB4 MS has stemless quarter, assuming 1/2.
+N:NB5 MS is misbarred from here to end of tune.  Note lengths here are merely a guess.
+M:3/4 % MS has 6/4, but barring suggests 3/4
+L:1/4
+W:1665 & 1652.
+K:Ddor
+P:A
+|: "_NB1,3"(3D/E/F/ | EFG | "_NB4"c2c | "_NB4"c2d | \
+e>fe/d/ | cde/d/ | cAA | A>A :|
+P:B
+|: A | FFF | F>ED | fff | f>ed | \
+% For rest of tune, MS has three measures that violate barring constraints:
+%    [M:5/4 (?)] efg3/2f/e/f/ | [M:2/4 (?)] dA | [M:5/8 (???)] d3/2 :|
+% The following substitution is pure conjecture. 
+"_NB5"efg- | g/f/ef | ddA | d2 :|
+
+X:343
+T:Bouzer Castle.
+T:See a better at p 117.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p34
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+N:NB6 MS has dotted half.
+M:6/8 % original in 6/4.
+L:1/8
+R:jig
+K:D
+P:A
+|: "_NB1"D | F2A (AF)A | B2d dBd | F2A (AF)D | D3 A,3 |
+F2A AFA | B2d (dB)d | (fd)f (ec)A | d3 "_NB6"D2 :|
+P:B
+|: d | f2a afa | c2e (ec)e | F2A AFD | E3 C3 |
+F2A (AF)A | B2d dBd | faf ecA | d3 D2 :|
+
+
+
+X:350
+T:Bore la Bass. id 1695.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p35
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+M:C|
+L:1/8
+W:has the small notes in the 10th bar.
+K:G
+P:A
+|: "_NB1"ga | b2ag f3g | a2 d4 (ed) | c3B A2(Bc) | d2 d4 :|
+P:B
+|: AB | c3d edef | g2 g4 cB | c3d edcB | A2 A4 cB |
+c3d edef | gfga g2Bc | d2cB A2Bc | B2 G4 :|
+
+X:351
+T:Excuse Me.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p35
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming parts are repeated.
+M:6/8 % MS has 6/4
+L:1/8
+R:jig
+W:an other on p 43.
+K:Gm
+P:A
+|: G2G G2g | f2e d2e | f>gf cdB | A3 F3 |
+f>ed e>dc | d>ed c>BA | B>AG A^F2 | (G3 G3) :|
+P:B
+|: B2c dBG | B2c dBG | B2c d2g | ^f3 d3 :|
+P:C
+|: ABc c>dc | f2c A2A | Bcd d>ed | g2f ^e>dc |
+f2f f>ed | c2B A2^f | g2d e>dc | A3 G3 :|
+
+X:352
+T:Paul's Steepl. 1665.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p35
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 No repeats in MS.  Assuming tune is repeated.
+M:2/4 % original in inverted alla breve with two half notes per measure
+L:1/16
+R:march
+W:See another col 2 p 85.
+K:Gdor % 1 flat ending on G
+|: B3A G2A2 | B6 cB | A2F2 F2F2 | F6 F2 | G2G2 G2A2 | B2cB A2G2 |
+d2d2 d2d2 | d6 c2 | B2B2 B2c2 | d4 c2B2 | c2c2 c2c2 |
+c6 Bc | d2d2 c2B2 | A2G2 A3c | B2G2 G2G2 | G8 :|
+
+X:360
+T:Parson upon Dorothy.
+T:Shepherd's Daughter.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p36
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+M:C|
+L:1/8
+W:from the edition of 1665. the same as in edition of 1652.
+W:see another p. 116. Different amd more simple.
+K:Gdor
+P:A
+|: "_NB1"D2 | G3G ABcA | B3c B2d2 | c2B2 ABcA | B4 B2 :|
+P:B
+d2 | c2B2 ABcA | B3c B2d2 | c2B2 ABcA | B4 B2 ||
+P:C
+|: d2 | c3B A2c2 | B3A G2B2 | A2G2 G2^F2 | G6 :|
+
+
+X:361
+T:Stingo.
+T:The Lyle of Barley
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p36
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 meter changed from 6/4 to 6/8
+N:NB2 repeats added
+M:6/8   % marked 6/4 in margin, time signature 3 after key signature
+L:1/8
+W:1665. The Cold and Raw. Col:2d p.45. 1652.
+K:Gdor
+P:A
+|: "_NB1,2"G2G d2B | cA2 F2F | G2G d2B | G3 B3 :|
+P:B
+|: B2B B2A/B/ | c2c c2c | d2d g2f | d3 f3 |
+B2B B2A/B/ | c2c c>d_e | d>cB cA2 | G3 B3 :|
+
+
+X:362
+T:The beautiful [Serabmagg?] by G.B.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p36
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Meter changed from 6/6 tp 6/8.
+N:NB2 Added repeat of B strain.
+M:6/8
+L:1/8
+K:Dmin
+P:A
+"_NB1"A/G/ | F>ED FAA, | D3 f3 | (e/f/)gf efd | ^c3- c2(B/A/) |
+F>ED FAA, | D3 f3 | (e/f/)g(f ea)A | d3- d2 ||
+P:B
+|: "_NB2"(f/e/) | f>ef gab | a3 f2c/B/ | ABc G>FE | F3- F2(g/f/) |
+E>FG ABc | ^B>cd ^c>de | (fA)f f>ed | d3- d2 :|
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAGES 50-75
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+X:560
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p56
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+M:2/4
+L:1/16
+R:march
+K:G
+P:A
+|: D2 | (G4 D2B2) | (G4 D2).d2 | .B2.G2.D2.B2 | (G4 .D2) (ab) |
+.a2(ab) .a2(ab) | .a2(ab) .a2(ab) | a2g2f2e2 | d4 z2 :|
+P:B
+|: A,2 | D4 D3D | F4 F3F | A4 A3A | [Dc]4 z2(de) |
+.d2.d2 z2(ga) | .d2.d2 z2g2 | .a2.a2.f2.f2 | g4 z2 :|
+P:C
+|: D2 | !p!(G4 F2)E2 | (E4 E2)D2 | (E4 D2)C2 | (C2B,2) B,4 |
+!f![B,G]2 [B,G]4 [B,G]2 | [GB]2 [GB]4 [GB]2 | d2c2B2A2 | G4 z2 :|
+
+%
+X:561
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p56
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+M:3/4
+L:1/4
+R:waltz
+K:Dmix
+P:A
+|: d2 | [DAf]2 d | [DAa]2 f | g/e/c/A/ f | d d d |
+[DAf]2 d | [DAa]2 f | g/e/c/A/ f | d z :|
+P:B
+|: d/4e/4f/4g/4 | a a a | d'2 A | (g/>e/) (g/>e/) (f/>d/) | (g/>e/) (g/>e/) (f/>d/) |
+a a a | d2 a | g/e/c/A/ f | d z :|
+
+
+
+X:570
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p57
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 The forte dynamic mark at tune start is missing in the MS
+M:3/4
+L:1/8
+K:Eb
+P:A
+|: "_NB1"e2 | !f!E4F2 | (G4A2) | .B2(B2G2) | A2F2z2 |
+!p!(A4F2) | (A4F2) | D2DEFE | E2z2 :|
+P:B
+|: !f!B,=A, | B,2B2B2 | FGFEDC | B,2d2d2 | fedcB2 |
+!p!(A4F2) | (A4F2) | D2DEFD | E2z2 :|
+
+%
+X:571
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p57
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+M:3/4
+L:1/8
+K:A
+P:A
+|: {g}a2 | (Ace)cec | !sfz![de]4B2 | GEGEc2 | A2A2 {g}a2 |
+(Ace)cec | [de]4B2 | GFGFc2 | A2z2 :|
+P:B
+|: c2 | {e}d4A2 | {e}d4A2 | GBGBc2 | B2B2c2 |
+{e}d4A2 | {e}d4A2 | G2BGEG | A2z2 :|
+
+%
+X:572
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p57
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+N:NB1 The start of repeat in A is missing in MS, assuming here that it comes after the pickup.
+N:NB2 The last measure of B in MS is | D2z2 :| (short measure).
+M:3/4
+L:1/8
+K:D
+P:A
+D/C/ |: "_NB1"D2[df]2[df]2 | D2[df]2[df]2 | [Ag]4e2 | A,2[ce]2[ce]2 | A,2[ce]2[ce]2 | f4d2 :|
+P:B
+|: (A4F2) | (G4E2) | F2(FG)F2 | F2(FG)F2 | (A4F2) | G4E2 | F2FGFE | "_NB2"D4z2 :|
+
+
+
+X:580
+T:The Grand Duke of Tuscany's March.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p58
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+M:C
+L:1/8
+R:march
+K:D
+%%text as played by a Savoyard on a barrill Organ in the Streets at Oxford. November 30 - 1734.
+A,2 | D2D>D D2F2 | E2D2 z2A,2 | F2F>F F2A2 | {A}G2F2 z2A2 |
+B2G2 z2G2 | A2F2 z2DE | F2A2 G2F2 | {G}F2E2 z2A/G/F/E/ |
+D2D2- DABA | A2G2 z2G/F/E/D/ | C2C2 EGAG | G2F2 z2A,2 |
+D2D2 (3DEF (3EFG | F2F2 (3FGA (3GAB | B2A2 z2A2 | B2G2 z2G2 |
+A2F2 G4 | A2d2 HB2 G/F/E/D/ | A,4 E4 | D6 |]
+
+X:581
+T:Minuet Della Cour.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p58
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+M:3/4
+L:1/16
+R:minuet
+K:D
+%%text playd by the Same Savoyard.
+P:A
+F4 FGFG A2A2 | A4 G4 F4 | D2F2D2F2D2F2 | G4 E8 |
+F4 FGFG A2A2 | A4 G4 F4 | E2GE D4 C4 | D12 ||
+P:B
+E4 E2E2E2E2 | F4 {EF}D8 | F4 F2F2 A2F2 | {G}F4 {EF}E8 |
+A4 A2A2A2A2 | B4 B2B2B2B2 | c4 c2c2c2c2 | d12 |
+d6 B2c2A2 | d6 B2c2A2 | B4 A4 ^G4 | A6 A2B2A2 |
+G2F2E2G2A2G2 | F2E2D2A2B2A2 | G2F2E2G2A2G2 | F2E2D2A2d2c2 |
+B8 A4 | G8 F4 | E2F2 G4 F4 | F4 E8 |
+F4 FGFG A2A2 | A4 G4 F4 | E2GE D4 C4 | D12 |]
+
+
+X:590
+T:Hungarian Tune. or Dance.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p59
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+M:2/4
+L:1/16
+Q:"moderato."
+K:G % one sharp
+P:A
+|: e^def {a}g2(gf) | e^def {a}g2(gf) | {f}e2eB {B}c2cA | B2{^a}b2 B2{a}b2 |
+e^def {a}g2gf | e^def {a}g2gf | {f}e2eB {B}c2cA | B2{^a}b2 B4 :|
+P:B
+|: cBcd {f}e2ed | cded {d}c2cB | A^GAc {c}B2B^G | A2{^g}a2A2{g}a2 |
+cBcd {f}e2ed | cded {d}c2cB | A^GAc {c}B2B^G | A2{^g}a2 A4 :|
+
+
+X:591
+T:Hungarian Dance
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p59
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Jan 2020
+M:2/4
+L:1/16
+K:C % no sharps or flats
+P:A
+|: efed {d}c2cB | {B}c4 c4 | dcde {g}f2fg | {f}e4 e4 |
+efed {d}c2cB | cdcB {B}A2A^G | A^GAc {c}B2BG | A2{^g}a2 A4 :|
+P:B
+|: .G2 (G4 AB) | {B}c4 c4 | .d2 (d4 ef) | {f}e4 e4 |
+efed {d}c2cB | cdcB {B}A2A^G | A^GAc {c}B2BG | A2{^g}a2 A4 :|
+
+
+X:600
+T:La Rochelle.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p60
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:2/4
+L:1/16
+K:D
+P:A
+a2 | a2f2f2a2 | a2f2f2a2 | g2g2g2g2 | (g4 f2)f2 | \
+ f2d2d2f2 | f2d2d2f2 | g2e2d2c2 | (c4 d2) ||
+{:B}
+a2 | c2c2c2c2 | d6 (ef) | g2g2g2g2 | (g4 f2)a2 | \
+ c2c2c2c2 | d6 (ef) | g2e2d2c2 | d6 |]
+W:Played by a Piedemontese Girl on a Cymbal in Oxford Streets. December 22. 1784.
+W:
+W:Play all these Notes upp on the 2d string of the violin and lett the 3d string serve as a drone to them.
+W:Lay a large Kay behinde the bridge, this wil give the sound of a Cymbal.
+
+
+X:601
+T:An Old German Tune
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p60
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:C
+L:1/8
+%%score {A B}
+V:A
+V:B octave=-2
+K:C
+V:A
+edcB c/B/c/d/ c2 | dd dc/d/ e2e2 | edcB cB/c/ AB | cB/A/ {c/}BA/^G/ A2A2 ||
+V:B
+A2e2 a2A2 | G2g2 c2c'2 | c'ba^g aefd | e2E2 A2a2 ||
+V:A
+=GG GA/B/ ccc2 | dd dc/d/ e2e2 | edcB cB/c/ AB | cB/A/ BA/^G/ A2A2 |]
+V:B
+g2f2 e2c2 | G2g2 c'2c2 | c'ba^g aefd | e2E2 A2A2 |]
+W:this tune was given to me by my friend, Mr. Fischer. It is certainly Nerwegian.
+
+
+X:610
+T:The Silver Faulken.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p61
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+% Note: stemless black notes in MS are transcribed as half notes.
+M:C % but unbarred
+L:1/8
+K:G ^F % both F's are sharped in MS
+"_Old notation. Duplicate at p.70."c4 c2 c3 BA2 B3 AG2 d6 ^F3 ED2 F3 GA2
+A3 GA2 F2 D4 d3 ^FG2 A4 G2 G3 AB2 c4 c2 c2 C2 C2 C4 C2 |] 
+W:From an edition of the Dancing Master printed A.D.1652. Sold by John Playford.
+W:The book is at the Museum Oxon. W-125.
+
+
+X:611
+T:The Silver Faulken.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p61
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:6/8 % but barred as in 12/8
+L:1/8
+K:G ^F % both F's are sharped in MS
+"_in modern notation."c4 c2 [|] c3 BA2 | B3 AG2 [|] d6 | ^F3 ED2 [|] F3 GA2 |
+A3 GA2 [|] F2 D4 | d3 ^FG2 [|] A4 G2 | G3 AB2 [|] c4 c2 | c2 C2 C2 [|] C4 C2 |]
+
+X:612
+T:Gathering of Peascods 1665.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p61
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:C|
+L:1/4
+K:G
+d2dd | B>cdd | edcB | A3B | AGGF | G3 ||
+D | FDFG | A2BA | G/A/BAG | F3F | EDE>D | D3 ||
+d | BGGA/B/ | c3c | BGGA/B/ | c3d | BGGA/B/ | c>ded/c/ |
+Bc/B/A>G | G3 |]
+
+
+X:620
+T:Irish Trot. 1652.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p62
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:C|    % unbarred
+L:1/8
+K:Dphr
+defe d2A2 [|] Bcde c3c [|] ddcB A2c2 [|] F2G2 A3G [|]
+ABcd cAF2 [|] EFGA GE^C2 [|] DEFG A2e2 [|] =cded d4 |]
+
+
+X:621
+T:Irish Trot.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p62
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:C|    % labelled modern notation but crossed out
+L:1/8
+W:(crossed out in manuscript)
+K:Fmaj
+"^in modern notation."fg ag f2c2 | efgf e3e | ffed c2e2 | A2B2 c3B |
+cdef ecA2 | GABc BGE2 | FGAB c2g2 | efgf f4 |]
+
+X:622
+T:Jog on.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p62
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:6/4     % modern 6/4 but marked C
+L:1/4
+K:Amix
+d2Ad2e | f>gfeca | deda2g | f3e3 |
+e2fg>ag | f>gfe>dc | dedcBc | B3A3 |]
+
+X:623
+T:Jack Puddin.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p62
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:6/4 % modern 6/4 with some missing bars, but marked C
+% stemless black notes are transcribed as half notes.
+L:1/4
+K:Gmin
+"^(in old notation)"D | G2GA2F [|] BG2c2A [|] dB2A2G [|] G3-G2 ||
+g | fd2e2c [|] dB2c2A [|] BG2AF2 [|] B3-B2B [|]
+cA2d2A [|] ^FD2B2c [|] dB2c2A [|] G3-G2 |]
+
+X:624
+T:Jack Puddin.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p62
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:6/4 % meter is not marked.
+% Same tune as above, but, apart from the missing time
+% signature, it is in modern notation.
+L:1/4
+K:Gmin
+D | G2GA2F | BG2c2A | dB2A2G | G3-G2 ||
+g | fd2e2c | dB2c2A | BG2AF2 | B3-B2B |
+cA2d2A | ^FD2B2c | dB2c2A | G3-G2 |]
+
+
+
+X:630
+T:A pocky Concetto indeede.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p63
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 A part - two measures in MS - played twice here
+N:NB2 B part - no repeat in MS, added repeat here
+M:C
+L:1/8
+K:Gmin
+P:A
+D | G>G A>F B<G c>A | d<B A>G G3D | "_NB1"G>G A>F B<G c>A | d<B A>G G3 ||
+P:B
+|: "_NB2"g | f<d e>c d<B c>A | B<G A<F B3B | c<A d>A ^F<D B>c | d<B c<A G3 :|
+
+
+X:631
+T:Kemp's Jeg.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p63
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 older notation - half notes in MS are stemless black notes.
+N:NB2 repeats added
+N:NB3 change time signature from C[ommon] (i.e. 6/4) to 6/8, with notes halved in length
+M:6/8 % Barred as 6/4 but marked as common time in MS
+L:1/8
+K:Dmix
+P:A
+|: "_NB1,2,3"g | g>ag efg | f>ef def | gab aba | f3 d2 :|
+P:B
+|: A | _B3 c3 | d3- d2A | _B3 c3 | d3- d2A |
+BAB cBc | ded d3/2c/B/c/ | A2G G^F2 | G3- G2 :|
+
+
+X:632
+T:Lady Spellor
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p63
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 older notation - half notes in MS are stemless black notes.
+N:NB2 repeats added
+N:NB3 change time signature from C[ommon] (i.e. 6/4) to 6/8, with notes halved in length
+% older notation - half notes in MS are stemless black notes.
+M:6/8 % Barred as 6/4 but marked as common time in MS
+L:1/8
+K:Gmix
+|: "_NB1,2,3"d2d d2d | d3 B3 | c2B c2d | e3 B3 |
+A2A A2B | c2d e2f | g2d e2d | B3 G3 :|
+
+
+X:633
+T:Millison's Jegg. 1665.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p63
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 older notation - half notes in MS are stemless black notes.
+N:NB2 repeats added
+N:NB3 change time signature from C[ommon] (i.e. 6/4) to 6/8, with notes halved in length
+N:NB4 the accidentals in A strain appear below the staff (two occurrences)
+N:NB5 the last measure of the A strain is short by 3/8 (stem added in error?).
+M:6/8 % Barred as 6/4 but marked as common time in MS
+L:1/8
+K:Ddor
+P:A
+|: "_NB1,2,3"a | a>gf e2d | "_NB4"^c2d e2a | a>gf e2d | "_NB4,5"^c3 d2 :|
+P:B
+|: A | AcA AcA | AcA c2c | dfd dfd | dfd f2f |
+ege ege | ege g2a | a>gf e2d | ^c3 d2 :|
+
+
+%% page 64
+
+X:640
+T:The Milk-Mayds Bobb.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p64
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:Older notation - stemless black notes are half notes
+N:NB1 Meter changed from 6/4 (marked as common time) to 6/8.
+N:NB2 Repeats added.
+N:NB3 Stemless black note in original.
+M:6/8   % marked in MS as common time but barred as 6/4
+L:1/8   % Notes ha half of original value (original L:1/4)
+K:G
+P:A
+|: "_NB1,2"ddd ddB | cAc "_NB3"B2G | dde f>ga | geg "_NB3"f2d :|
+P:B
+|: dgd e>cA | ege f>ed | dgd g>ab | ba>g "_NB3"g3 :|
+
+X:641
+T:Winifreds Knot.
+T:Open the door to three.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p64
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:Modern notation apart from the strange time signature.
+N:NB1 Repeat added
+N:NB2 MS time signature was "C 6/4"
+M:6/4   % Marked in original as "C 6/4".
+L:1/4
+W:See coll-2d. p.6.
+W:This is best and as in Ed. 1605.
+K:G
+|: "_NB1,2"D | G2G B>cB | A2D G2G | B>cB c2c | d2d d>cB | A2D G>AG | BA2 G2 :|
+
+X:642
+T:Up tails all.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p64
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeat added.
+M:C|
+L:1/8
+W:again - coll. 2. p.58.70.
+K:G
+|: "_NB1"d2 | d4 B2AB | c2c2 A2A2 | d2d2 B3c | d6e2 | \
+d4 B4 | c4 A4 | d4 D4 | G6 :|
+
+X:643
+T:If all the world ware paper.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p64
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeat added.
+N:NB2 Meter changed from 6/4 to 6/8.  Note lengths changed accordingly.
+M:6/8   % originally 6/4
+L:1/8   % originally L:1/4
+W:Duplication coll.2d. p.35 - and p.[1]7. % the second page number is unclear in MS.
+K:C
+|: "_NB1,2"G | A2G A2B | c3 D2D | E2D E2F | G3- G2E |
+F2E F2G | AF2 C2c | d2G A2B | c3- c2 :|
+
+X:644
+T:Tom Tinker.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p64
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 barred as in MS - time signature is 3/4 but barring is 6/4.
+N:NB2 MS has "d2.e2d2" with staccato do placed somewhat oddly.  Assuming here that this this should be "d2e3d".
+M:3/4   % But barred as 6/4
+L:1/8
+W:NB1: barred as in MS - time signature is 3/4 but barring is 6/4.
+W:
+W:Same as Ed. 1665 except the third note - which is F.
+W:Tom Tinker - a different tune See coll.2nd. p.65
+W:In Ed. of 1695 - this tune has no more than the repetition of the first strain by way of the second.
+K:D
+P:A
+d2 | "_NB2"d2e3d [|] e2g2Bc | d2c3B [|] A4g2 | f3efg [|] a2f2d2 | e2c2A2 [|] d4 ||
+P:B
+d2 | e2f4 [|] e2g4 | d2c3B [|] A4g2 | f3efg [|] a2f2d2 | e2c2A2 [|] d4 |]
+
+X:645
+T:Tom Tinker. (rebarred)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p64
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:6/8   % Original time signature is 3/4 but but barred as 6/4
+L:1/16
+P:AABA
+K:D
+P:A
+d2 | "_NB2"d2e3d e2g2Bc | d2c3B A4g2 | f3efg a2f2d2 | e2c2A2 !fine!d4 ||
+P:B
+d2 | e2f4 e2g4 | d2c3B A4g2 | f3efg a2f2d2 | e2c2A2 !D.C.!d4 ||
+
+
+
+% Page 65
+
+X:650
+T:Argeers. Ed.1665.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p65
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 In the manuscript, there were no repeats.
+N:NB2 In the manuscript, the tune was unbarred. (It was marked cut time as it is here.)
+N:NB3 In the manuscript, notes were not beamed.
+M:C|    % marked cut time but unbarred.
+L:1/8
+K:D
+P:A
+|: "_NB1,2,3"defg e2d2 | c2A2 A4 | a2e2 a3g | f2d2 d4 |
+defg e2d2 | c3d e2A2 | Bcd2 cdef | d8 :|
+P:B
+|: cde2 cde2 | a2e2 a2e2 | cde2 cde2 | a2e2 a2e2 |
+a2gf g2ag | f2ed e3A | Bcde cdef | d8 :|
+
+X:651
+T:Aya Me.
+T:The Symphony.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p65
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+M:C|
+L:1/8
+W:transposed from C.to A.
+K:A
+P:A
+|: "_NB1"e4 c4 | B2GF E2FG | A2A2 B2B2 | c6 cc |
+c2de f2AA | A2Bc d2FF | GEc2 B3A | A8 :|
+P:B
+|: F2FG A2GA | B2E2 E2cc | c2Bc decB | B6 ee |
+f2cc d2^dd | e2BA G2ee | f2c2 B3A | A8 :|
+
+
+X:652
+T:The New Exchange.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p65
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 repeats added.
+M:6/4
+L:1/8
+W:from Ed.1665.
+K:Gmin
+|: D2 | G3ABc B2A4 | G6- G4G2 | A3Bc2 c2B4 | A6- A4A2 |
+A3Bc2 d4G2 | G2A2G2 ^F4D2 | G3ABc B2A4 | G6- G4 :|
+
+X:654
+T:The New Exchange. (recast in 6/8)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p65
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 repeats added.
+M:6/8   % in MS: 6/4
+L:1/16  % for 6/4:  L:1/8
+W:from Ed.1665.
+K:Gmin
+|: D2 | G3ABc B2A4 | G6- G4G2 | A3Bc2 c2B4 | A6- A4A2 |
+A3Bc2 d4G2 | G2A2G2 ^F4D2 | G3ABc B2A4 | G6- G4 :|
+
+
+
+X:750
+T:Confesse.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p75
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+% Note MS transcription uses old notation! Half notes, clef, time
+% In the MS, the treble clef is positioned with G on the first line
+M:6/4     % old: common time; modern 6/4
+L:1/4
+K:Gmin clef=G middle=d     % note the clef! position of G is the bottom line
+%%text in the Dancing Master of 1652 it is printed thus.
+G2 A B2 c [|] d2 d d2 d [|] e3 d2 d [|] g3 ^f3 ||
+a2 f _b2 g [|] a2 f d2 e [|] f d2 ^c2 d [|] d ^c2 d3 [|] B2 c d3/2 _e/2 d [|] \
+  _e d2 c3 [|] d2 g ^f2 g [|] a ^f2 g3 |]
+%%text Old Notation:
+%%text 1) G above middle C is the bottom line of the staff!
+%%text 2) In the MS, the time clef is common time and measures are unbarred.
+%%text 3) In the MS, the half notes are stemless black notes.
+
+X:751
+T:Confesse.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p75
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+M:6/4
+L:1/4
+K:Gmin
+%%text in a more modern Notation.
+G2A B2c | d2d d2d | e3 d2d | g3 ^f3 ||
+a2f b2g | a2f d2=e | fd2 ^c2d | d^c2 d3 | B2c d>ed | \
+  ed2 c3 | d2g ^f2g | a^f2 g3 |]
+
+X:752
+T:Confesse.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p75
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+N:NB1) Changed meter to 6/8
+N:NB2) Added repeats
+M:6/8   % MS has 6/4
+L:1/8
+K:Gmin
+%%text in a more modern Notation.
+P:A
+|: G2A B2c | d2d d2d | e3 d2d | g3 ^f3 :|
+P:B
+|: a2f b2g | a2f d2=e | fd2 ^c2d | d^c2 d3 | B2c d>ed | \
+  ed2 c3 | d2g ^f2g | a^f2 g3 :|
+%%text Notes: N1) MS has 6/4 time. N2) Repeats added
+
+
+X:753
+T:Parlalaw.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p75
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+N:NB1) MS has quarter note (i.e. G2)
+N:NB2) added repeats
+W:a German tune from Aird's Coll.
+M:C
+L:1/8
+K:G
+P:A
+|: "_NB1"G | GBBd d>cBd | cB AG/F/ G3d | GBBd cB Ag | f/a/f/d/ e/g/e/^c/ d2-d :|
+P:B
+|: d | gf/g/ ef/g/ fe/f/ d2 | fe/f/ cd/e/ dc/d/ B2 | cBAG FE/D/ Gc | B/d/B/G/ A/c/A/F/ G2 G :|
+
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAGES 76-100
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%
+%  The next few pages are apparently various dances from Bj\/orgvin (Bergen) Norway.
+%
+
+
+X:760
+T:Danse des Paysans dans le Dioc\`ese de Bergen en Norv\`ege. [1]
+T:peasant dance from the Bj\/orgvin Diocese, Norway
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p76
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+M:6/8
+L:1/8
+Q:"Grazioso."
+K:Ddor
+P:A
+|: e | e>fd d>^cd | e>fd d>^cd | e>fd g>af | e3 Az :|
+P:B
+e | f2a aga | fed gaf | e3 az e | f2a aga | fed d^cd | efg fe^c | d3 x3 |]
+
+X:761
+T:Danse des Paysans, Bergen. [2]
+T:peasant dance from the Bj\/orgvin Diocese, Norway
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p76
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+N:In the MS, this is titled as "autre" ("other")
+M:3/4
+L:1/8
+K:Am
+P:A
+ef df e^c | fa ag af | ef df e^c | A^G A4 ||
+P:B
+efdf e^c | fa agaf | efdf e^c | fa ag af |
+efdf e^c | A^GAB^cd | efdf e^c | A^G A4 |]
+
+X:762
+T:Danse des Paysans, Bergen. [3]
+T:peasant dance from the Bj\/orgvin Diocese, Norway
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p76
+F:https://www.vwml.org/record/Malchair/3619/p77
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+N:In the MS, this is titled as "autre" ("other")
+M:3/4
+L:1/8
+K:Eb
+P:A
+|: g2 (gf)(ga) | (gf)(ed) (ef) | g(fa)g fe | (de/f/) (ed)(ec) |
+g2 (gf)(ga) | (gf) (ed) (ef) | g(eag) (fe) | (de/f/) {f}e4 :|
+% concludes on page 77
+K:Cm
+P:B
+|: (eg)e(g f)e | (df) d(fed) | e(d c)e (gc) | c(=Bd)B G2 |
+(eg)e(g f)e | (df)d(f ed) | e(d c)e(d=B) | (cd/e/) c4 :|
+
+
+X:771
+T:Danse des Paysans, Bergen. [4]
+T:peasant dance from the Bj\/orgvin Diocese, Norway
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p77
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+N:In the MS, this is titled as "autre" ("other")
+M:3/4
+L:1/8
+K:Am
+P:A
+|: {f}ec A2 z2 | ^cdef ge | !trill!f2 {ef}A2 (d^c) | {c}d2 d4 :|
+P:B
+|: f{(gf)}efg af | gfef ge | {g}fe dfed | ^cdec Ac | defg aA | d2 A4 :|
+
+
+X:772
+T:Danse des Paysans, Bergen. [5]
+T:peasant dance from the Bj\/orgvin Diocese, Norway
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p77
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+N:No title in MS.  See also note below
+W:Note: The manuscript has a C clef on line 1 immediately before the G clef.
+M:2/4
+L:1/8
+Q:"Grave."
+K:Cm
+P:A
+|: G=B/G/ {(c d)} ee/c/ | df/d/ {d}e z | G^B/G/ {(c d)} ee/c/ | ed/=B/ G z :|
+P:B
+D>F EC/E/ | D>F EC/E/ | D>F E/D/C/=B,/ | {B,}C2 z2 |]
+
+X:780
+T:Danse des Paysans, Bergen. [6]
+T:peasant dance from the Bj\/orgvin Diocese, Norway
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p78
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+M:3/4
+L:1/8
+K:Cm
+P:A
+{=B,}C4 ga | gfed ec | f2 {g f } edec | e/d/c/=B/ {B}c4 :|
+P:B
+d2 d=Bdf | {d}e2 edec | d2 d=Bdf | e2 c2 cd/e/ |
+d2 d=Bdf | {d}e2 edec | d2 d=Bdf | {d}e2 c2 z2 |]
+
+X:781
+T:Danse des Paysans, Bergen. [7]
+T:peasant dance from the Bj\/orgvin Diocese, Norway
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p78
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+N:No title in MS.
+M:2/4
+L:1/16
+K:D
+P:A
+|: ABAG A2FD | ABAG A2FD | ABAG ABcA | d2BG A2FD :|
+P:B
+|: DEDC DEFD | G2 GE F2 FD | DEDC DEFD | G2 GE F2FE | DEDC D4 :|
+
+X:782
+T:Danse des Paysans, Bergen. [8]
+T:peasant dance from the Bj\/orgvin Diocese, Norway
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p78
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+N:No title in MS.
+N:NB1) Rest (length=1/8) omitted at end of A.
+W:NB1: Rest in MS omitted at end of measure 4.
+M:2/4
+L:1/16
+K:Am
+P:A
+|: a2 | (ge)(fd) A>(_BAG) | (FD)(E^C) A,2a2 | (ge)(fd) A>(_BAG) | (FD)(E^C) "_NB1"A,2 :|
+% repeat marked at start but not at end of B strain
+P:B
+|: A,2 | DEFG A>(BAG) | (FD)(E^C) A,2A,2 | (DEFG) A>(BAG) | (FD)(E^C) A,2D^C | =C4-C2 :|
+
+
+X:790
+T:(Danse des Paysans - concluded)
+T:peasant dance from the Bj\/orgvin Diocese, Norway
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p79
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+N:NB1) Rest omitted in MS.
+M:3/4
+L:1/8
+Q:"Allegro"
+K:Ddor
+P:A
+|: A2d(^cde) | f2ed^c2 | (def)d(e^c) | (df)(e^c)A2 |
+A2d(^cde) | f2ed^c2 | (ded)d(e^c) | cd4z :|
+P:B
+|: a2_baga | fefga2 | (d^cd)f(e^c) | d(fe)^cA2 |
+a2_baga | fefgf2 | d^cdfe^c | cd4"_NB1"z :|
+
+X:791
+T:Airs Norv\'egiens a Danser
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p79
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+M:3/8
+L:1/16
+K:Am
+|: e (3efd | (fe) (ec) (B^G) | (AB) (cd) (3efd | (fe) (ec) (B^G) | A2A, :|
+|: e (3efd | fe ec ea | a^g ae (3efd | fe ec ea |
+a^g ae (3efd | fe ec B^G | AB cd (3efd | fe ec B^G | A2A, :|
+
+X:800
+T:Chanson
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p80
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+M:2/4
+L:1/16
+K:Am
+P:A
+|: c2 | B>cA2 ^G3A | B>cA2 ^G3A | B>cA2 d3c | B4E2 :| \
+|: B2 | c3e d>ec2 | B>cA2 d>ec2 | B4 E2B2 | c3e d>ec2 | \
+B>cA2 d>ec2 | B>cA2 {c}B3^G | A4 A,2 :|
+
+
+X:801
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p80
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+M:3/4
+L:1/8
+K:Cmin
+P:A
+|: g2g2ge | g2f2{gf}ef | g2afge | g2{g}f2e2 :|
+P:B
+|: c2eg(df) | (ec)egd2 | c2edfg | dec4 :|
+
+X:802
+T:(untitled)
+F:https://www.vwml.org/record/Malchair/3619/p80
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+Z:Eric Conrad Mar 2020
+M:3/4
+L:1/8
+K:Cm
+P:A
+|: g2eg!trill!f2 | ec df !trill!e2 | (g2c2)c2 :| \
+P:B
+|: g2eg!trill!f2 | ec df !trill!e2 | G2g2!trill!f2 | \
+(ec) (df) !trill!e2 | G2c2c2 :|
+ 
+X:803
+T:Musique pour le Lour.
+T:(music for the lur)
+F:https://www.vwml.org/record/Malchair/3619/p80
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+W:fort a[n]cien instrument \`a vent, espece de l'or.
+W:(powerful old wind instrument, a sort of treasure)
+M:2/4
+L:1/16
+%%MIDI program 68 % oboe (MIDI's take on a powerful woodwind - does this resemble the sound of the lur?)
+K:Gm
+d3c B2G2 | A4 B2G2 | (d3c) B2G2 | A4 B2G2 | \
+d3c G2B2 | A2B2 d4 | c3d/c/ B2G2 | A2B2 d4 | \
+c3d/c/ B2G2 | ABcA B2G2 | c3d/c/ B2G2 | ABcA B2G2 | \
+c3d/c/ B2d2 | A4 A2B2 | G4 G4 |]
+
+X:810
+T:(untitled)
+T:Musique pour le Lour - continued
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p81
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+M:C
+L:1/8
+K:G
+%%MIDI program 68 % oboe (MIDI's take on a powerful woodwind - does this resemble the sound of the lur?)
+P:A
+G>GB>d d2c2 | B>GA>F G>AB>G | G>GB>d d2c2 | B>G {B}AG/F/ G4 ||
+K:Gm
+P:B
+G>BA>G G2^F2 | G>AB>c d2D2 | G>BA>G G2^F2 | G>AB>c d3c |
+{c}B2AG {B}A2G^F | G2G2 z4 | \
+% Malchair uses a single bar line here
+M:3/4
+B>dc>ed2 | BB/d/ cc/e/ d2 |
+d^fgabd | d2c2z2 | ABcABG | BBA^FD2 |
+ABcBcB | BBA^FD2 | ABcABG | B/A/G/^F/ G2G2 ||
+M:C
+K:G
+P:C
+G>GB>d d2c2 | B>GA>F G>AB>G | G>GB>d d2c2 | B>G (B/A/)(G/F/) !fermata!G4 |]
+
+X:811
+T:(untitled)
+T:Musique pour le Lour - concluded
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p81
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Mar 2020
+M:3/8
+L:1/8
+K:G
+%%MIDI program 68 % oboe (MIDI's take on a powerful woodwind - does this resemble the sound of the lur?)
+B | d/B/ GB | A/F/ GB | d/B/ GB | A/F/ GB | \
+d/B/ Gg | e/c/ d2 | d/B/ GB | A/F/ G2 |]
+
+
+X:820
+T:Playd in the Streets at Oxford Ash Wednesday Feb.25.1789.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p82
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+% The final note of the last measure may have been erased, or maybe not.
+W:This was playd by a Flute a bec and Tambour.
+W:(NB: Flute a bec = fl\^ute \`a bec)
+M:2/4
+L:1/16
+K:C
+% %%MIDI program 73 % flute (does this MIDI channel resemble the fl\^ute \`a bec?)
+%%MIDI program 72 % piccolo (does this MIDI channel resemble the fl\^ute \`a bec?)
+P:A
+ge | c2c2 c2Bc | d2d2 d2fd | {c/}B2AG A2B2 | c2e2 e2g2 | 
+c2c2 c2Bc | d2d2 d2fd | {c/}B2AG A2B2 | c2c2 c2 ||
+P:B
+cd | e2e2 e2de | f2f2 fgfe | d2d2 d2cd | e2e2 efge |
+c2c2 c2Bc | d2d2 d2fd | cBAG A2B2 | c2c2 c2 |]
+
+X:822
+T:Under the Greenwood Tree. Ed.1695. [6/4]
+T:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p82
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+W:See the words in As you like it Act 3.Scene 5th.  (see Words, below)
+W:As in the Dancing Master published in 1695 page 95.
+M:6/4 % MS has archaic time signature 3
+L:1/4
+K:Amix
+P:A
+|: a2a a2g | f2e d>ef | e2A B2c |1 d3 d3 :|2 d3 d2 ||
+P:B
+d | c2B c2d | e>fe A2f | e2d e2f | g3- g2a |
+f>ed e2A | e>fe g2f | e>dc B2A | A3- A2 |]
+
+
+X:823
+T:Under the Greenwood Tree. Ed.1695. [6/8]
+T:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p82
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+W:See the words in As you like it Act 3.Scene 5th.  (see Words, below)
+W:As in the Dancing Master published in 1695 page 95.
+M:6/8 % MS has archaic time signature 3, scoring is as in 6/4
+L:1/8
+K:Amix
+P:A
+|: a2a a2g | f2e d>ef | e2A B2c |1 d3 d3 :|2 d3 d2 ||
+P:B
+d | c2B c2d | e>fe A2f | e2d e2f | g3- g2a |
+f>ed e2A | e>fe g2f | e>dc B2A | A3- A2 |]
+
+
+X:824
+T:Words. [Under the Greenwood Tree]
+T:As You Like It, Act 2 Scenes 5
+C:(v1 and 2) Traditional
+C:(v3) William Shakespeare
+Z:Eric Conrad, Apr 2020
+% These are referenced to but not given in the MS.
+% Fitting the "come hither" line may take some effort. -- Editor.
+K:C
+%%begintext
+%%The scene begins with Amiens, Jacques and other entering.
+%%
+%%During the scene, Amiens sings verse 1, everyone sings verse 2, and verse 3, added by Jacques, is sung by Amiens.
+%%endtext
+W:1. Under the greenwood tree
+W:Who loves to lie with me
+W:And turn his merry note
+W:Unto the sweet bird\u2019s throat,
+W:Come hither, come hither, come hither.
+W:Here shall he see no enemy
+W:But winter and rough weather.
+W:
+W:2.  Who doth ambition shun
+W:And loves to live i\u2019 th\u2019 sun,
+W:Seeking the food he eats
+W:And pleased with what he gets,
+W:Come hither, come hither, come hither.
+W:Here shall he see no enemy
+W:But winter and rough weather.
+W:
+W:3. If it do come to pass
+W:That any man turn ass,
+W:Leaving his wealth and ease
+W:A stubborn will to please,
+W:Ducdame, ducdame, ducdame.
+W:Here shall he see gross fools as he,
+W:An if he will come to me. 
+
+
+X:830
+T:Pepper is black.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p83
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+W:Ed.1665.
+M:6/4
+L:1/4
+K:Dmix
+P:A
+c2A e2e | c>BA e2A | ded e>fg/a/ | f3 d3 ||
+P:B
+|: efg a>ba | efg g>fg | f2g a>bg/a/ | f3 d2d :|
+
+
+X:831
+T:Pepper is black. [in 6/8]
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p83
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+W:Ed.1665.
+M:6/8
+L:1/8
+K:Dmix
+P:A
+c2A e2e | c>BA e2A | ded e>fg/a/ | f3 d3 ||
+P:B
+|: efg a>ba | efg g>fg | f2g a>bg/a/ | f3 d2d :|
+
+
+
+X:832
+T:Peggy Ramsey or Peg.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p83
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+W:Peg \u2014 a Ramsey mentioned by Shakespear in Twelfth Night Act 2d.
+M:C|
+L:1/4
+K:Dmix % (?)
+P:A
+de fd | dc cd | eG GA | B2 A2 :|
+P:B
+BG GB | A^F DF | GG GA | B2 A2 |]
+
+X:833
+T:Peggy Ramsey. [with bass notes]
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p83
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+W:[Ed: The MS has bass notes lightly written in the A part only.  These are included here.]
+M:C|
+L:1/4
+K:Dmix % (?)
+P:A
+de fd &A,2 F,2 | dc cd & G2 E2 | eG GA & C2 A,2 | B2 A2 & F,2 D2 :|
+P:B
+BG GB | A^F DF | GG GA | B2 A2 |]
+
+X:834
+T:Peggy Ramsey. [2/4]
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p83
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+M:2/4
+L:1/8
+K:Dmix % (?)
+P:A
+de fd | dc cd | eG GA | B2 A2 :|
+P:B
+BG GB | A^F DF | GG GA | B2 A2 |]
+
+
+X:835
+T:Monr F st Omer.
+T:(Monseigneur Fran\ccois de St Omer? [NB1])
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p83
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+N:NB1) See below regarding the title.
+N:NB2) In the MS, the directions given in the final measure are conflicting and not at all clear.
+N:
+W:NB1)  A possible identification for the person named in the title is Monseigneur Fran\ccois
+W:de Valbelle \'ev\^eque de St Omer (Monsignor Francis of Valbelle, Bishop of St Omer). The
+W:National Library of Rome has a copy of a letter, dated April 1724, from the the Monsignor.
+W:The letter is available at archive.org:
+W:\u00a0 \u00a0 https://archive.org/details/bub_gb_mdyrajOyqysC/mode/2up
+W:
+W:NB2) In the MS, the directions given in the final measure are conflicting and not at all clear.
+W:The segno symbol appears three times, at the beginning and the end of the A strain, and again
+W:at the end of the B strain.  A da capo mark (D.C.) appears at the end, to the right of the staff.
+W:In addition, there is a repeat mark at the beginning of the B strain.
+W:A playable version of the tune follows.
+M:6/8
+L:1/8
+K:G
+|: !segno!B2B B>cB | A2A A>BA | G2G B2d | A6 |
+B2B B>cB | A2A A>BA | G2G A2F | !segno!G6 :|
+|: D3 DEF | G2G GAB | A3 A2B/c/ | dBG G3 |
+D3 DEF | G2G GAB | Adc BAG |  "_NB2"!fermata!d4 ^c2!segno!=c2y!D.C.!y ||
+
+
+X:836
+T:Monseigneur Fran\ccois de St Omer [NB1]
+T:(playable version - play AABA)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p83
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+N:NB1) See previous tune and below regarding the title.
+N:NB2) Segno omitted.
+N:
+W:\u00a0 NB1) See the previous tune for an explanation of the title given here.  The title as given in the
+W:Malchair MS is \u201cMonr F st Omer\u201d.
+W:\u00a0 NB2) segno omitted.
+W:\u00a0 NB3) fermata omitted; segno and D.C. replaced by D.S.
+M:6/8
+L:1/8
+P:AABA
+K:G
+P:A
+"_NB2"B2B B>cB | A2A A>BA | G2G B2d | A6 |
+B2B B>cB | A2A A>BA | G2G A2F | !segno!G6 |]
+P:B
+D3 DEF | G2G GAB | A3 A2B/c/ | dBG G3 |
+D3 DEF | G2G GAB | Adc BAG |  "_NB3"d4 ^c !D.S.!=c ||
+
+
+X:840
+T:Mr Young's Delight.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p84
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+N:Erased following the title are the words "Duplicate p.28."
+M:C|
+L:1/8
+K:F
+P:A
+c2 | A2F2 F2G2 | A4 d4 | c3d (cd) (cA) | B2 G4 B2 | A2 F4 G2 | A4 d4 |
+f3g (fg) (ag) | f2 c4 f2 | d3c (de) (fd) | (cd) (cB) (Ac) (fc) |
+(de) (fd) (cd) (cA) | B2G2 G2B2 | A2 F4 A2 | A4 d4 | c3d (cd) (cA) | B2 G4 ||
+P:B
+(ag) | (fg) (af) (ga) (bg) | (ab) (ga) (fg) (ef) | (de) (fd) (ge) (dc) | G2 c4 B>A |
+(Bd) (fd) (Ac) (fc) | (Bd) (fd) (Ac) (fc) | (dc) (BA) (GA) GF | F6 |]
+
+
+X:841
+T:Mr Young's Delight. [2/4]
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p84
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+N:Erased following the title are the words "Duplicate p.28."
+M:2/4 % MS has cut time, two half-notes per measure
+L:1/16
+K:F
+P:A
+c2 | A2F2 F2G2 | A4 d4 | c3d (cd)(cA) | B2 G4 B2 | A2 F4 G2 | A4 d4 |
+f3g (fg)(ag) | f2 c4 f2 | d3c (de)(fd) | (cd)(cB) (Ac)(fc) |
+(de)(fd) (cd)(cA) | B2G2 G2B2 | A2 F4 A2 | A4 d4 | c3d (cd)(cA) | B2 G4 ||
+P:B
+(ag) | (fg)(af) (ga)(bg) | (ab)(ga) (fg)(ef) | (de)(fd) (ge)(dc) | G2 c4 B>A |
+(Bd)(fd) (Ac)(fc) | (Bd)(fd) (Ac)(fc) | (dc)(BA) (GA) GF | F6 |]
+
+X:842
+T:Now ponder well ye Parents dear.
+T:Children in the Wood., The
+T:Chevy Chase
+T:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p83
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+N:Thanks to John Gibbons for supplying the tune title 'Chevy Chase'.
+M:3/4
+L:1/8
+K:G
+A2 | BA G3A | BA G3B | ce d3B | A4 B2 | \
+ce d3c | dB G3d | eg B2 A2 | G4 |]
+T:The Babes in the Wood. (C.M.)
+%%begintext fill
+%%The MS gives no words to this ballad, first known from 1595 broadside by Thomas Millington.
+%%The following stanzas are from a version in a nineteenth century children's picture book
+%%illustrated by Randolph Caldecott (1846-1886).
+%%
+%%Project Gutenberg URL: https://www.gutenberg.org/files/19361/19361-h/19361-h.htm
+%%
+%%endtext
+W:1.  Now ponder well, you parents deare,
+W:These wordes which I shall write;
+W:A doleful story you shall heare,
+W:In time brought forth to light.
+W:
+W:2. A gentleman of good account
+W:In Norfolke dwelt of late.
+W:Who did in honour far surmount
+W:Most men of his estate.
+W:
+W:3. Sore sicke he was, and like to dye,
+W:No helpe his life could save;
+W:His wife by him as sicke did lye,
+W:And both possest one grave.
+W:
+W:4. No love between these two was lost,
+W: Each was to other kinde;
+W:In love they liv\u2019d, in love they dyed,
+W: And left two babes behinde:
+W:
+W:5. The one a fine and pretty boy,
+W:Not passing three yeares olde;
+W:The other a girl more young than he
+W:And fram\u2019d in beautye\u2019s molde.
+W:
+W:6. The father left his little son,
+W:As plainlye doth appeare,
+W:When he to perfect age should come
+W:Three hundred poundes a yeare.
+W:
+W:7. And to his little daughter Jane
+W:Five hundred poundes in gold,
+W:To be paid downe on marriage-day,
+W:Which might not be controll\u2019d.
+W:
+W:8. But if the children chanced to dye,
+W:Ere they to age should come,
+W:Their uncle should possesse their wealth;
+W:For so the wille did run.
+W:
+W:9. \u201cNow, brother,\u201d said the dying man,
+W:\u201cLook to my children deare;
+W:Be good unto my boy and girl,
+W:No friendes else have they here:
+W:
+W:10. \u201cTo God and you I do commend
+W:My children deare this daye;
+W:But little while be sure we have
+W:Within this world to staye.
+W:
+W:11. \u201cYou must be father and mother both,
+W:And uncle all in one;
+W:God knowes what will become of them,
+W:When I am dead and gone.\u201d
+W:
+W:12. With that bespake their mother deare:
+W:\u201cO brother kinde,\u201d quoth she,
+W:You are the man must bring our babes
+W:To wealth or miserie:
+W:
+W:13. \u201cAnd if you keep them carefully,
+W:Then God will you reward;
+W:But if you otherwise should deal,
+W:God will your deedes regard.\u201d
+W:
+W:14. With lippes as cold as any stone.
+W:They kist the children small:
+W:\u2018God bless you both,
+W:my children deare;\u2019
+W:With that the teares did fall.
+W:
+W:15. These speeches then their brother spake
+W:To this sicke couple there:
+W:\u201cThe keeping of your little ones,
+W:Sweet sister, do not feare:
+W:
+W:16. \u201cGod never prosper me nor mine,
+W:Nor aught else that I have,
+W:If I do wrong your children deare,
+W:When you are layd in grave.\u201d
+W:
+W:17. The parents being dead and gone,
+W:The children home he takes,
+W:And bringes them straite unto his house,
+W:Where much of them he makes.
+W:
+W:18. He had not kept these pretty babes
+W:A twelvemonth and a daye,
+W:But, for their wealth, he did devise
+W:To make them both awaye.
+W:
+W:19. He bargain\u2019d with two ruffians strong,
+W:Which were of furious mood,
+W:That they should take the children young,
+W:And slaye them in a wood.
+W:
+W:20. He told his wife an artful tale,
+W:He would the children send
+W:To be brought up in faire London,
+W:With one that was his friend.
+W:
+W:21. Away then went those pretty babes,
+W:Rejoycing at that tide,
+W:Rejoycing with a merry minde,
+W:They should on cock-horse ride.
+W:
+W:22.  They prate and prattle pleasantly
+W:As they rode on the waye,
+W:To those that should their butchers be,
+W:And work their lives\u2019 decaye:
+W:
+W:23. So that the pretty speeche they had,
+W:Made murderers\u2019 heart relent:
+W:And they that undertooke the deed,
+W:Full sore did now repent.
+W:
+W:24. Yet one of them, more hard of heart,
+W:Did vow to do his charge,
+W:Because the wretch, that hired him,
+W:Had paid him very large.
+W:
+W:25. The other would not agree thereto,
+W:So here they fell to strife;
+W:With one another they did fight,
+W:About the children\u2019s life:
+W:
+W:26. And he that was of mildest mood,
+W:Did slaye the other there,
+W:Within an unfrequented wood,
+W:Where babes did quake for feare!
+W:
+W:27. He took the children by the hand,
+W:While teares stood in their eye,
+W:And bade them come and go with him,
+W:And look they did not crye:
+W:
+W:28. And two long miles he ledd them on,
+W:While they for food complaine:
+W:"Stay here," quoth he, "I'll bring ye bread,
+W:When I come back againe."
+W:
+W:29. These prettye babes, with hand in hand,
+W:Went wandering up and downe;
+W:But never more they sawe the man
+W:Approaching from the town.
+W:
+W:30. Their prettye lippes with blackberries
+W:Were all besmear\u2019d and dyed;
+W:And when they sawe the darksome night,
+W:They sat them downe and cryed.
+W:
+W:31. Thus wandered these two prettye babes,
+W:Till death did end their grief;
+W:In one another\u2019s armes they dyed,
+W:As babes wanting relief.
+W:
+W:32. No burial these prettye babes
+W:Of any man receives,
+W:Till Robin-redbreast painfully
+W:Did cover them with leaves.
+
+
+X:850
+T:Scandinavian Song of Great Antiquity., A
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p85
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+M:C|
+Q:1/2=90
+L:1/4
+K:F
+F2 F2 | FG F2 | F2 A2 | z2 A2 | \
+(AG) F2 | E2 F2 | !fermata!G4 | z2 A2 |
+A2 A2 | B2 (AG) | F2 !fermata!E2 | G2 G2 | \
+F2 EF | G2 G2 | !fermata!F4 | F2 F2 |
+(FG) F2 | F2 !fermata!A2 | z2 A2 | (AG) F2 | \
+E2 F2 | !fermata!G4 | z2 A2 |
+A2 A2 | B2 AG | F2 !fermata!E2 | G2 G2 | \
+F2 (EF) | G2 !fermata!F2 |]
+
+X:851
+T:Lovely Lass to a Friar came., A
+T:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p85
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Apr 2020
+M:2/4
+L:1/8
+K:G
+P:A
+|: (A/B/) | cBAG | (A/G/A/B/) GA/B/ | cBAG | A2 G :|
+P:B
+|: G | Gddd | e>ddd | edcB | (A/G/A/B/) AB/c/ |
+d>B G>B | (A/G/A/B/) GA/B/ | cBAG | A2 G :|
+
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAGES 101-125
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+X:1140
+T:Boleras.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p114
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:3/8
+L:1/16
+P:ABAC  % My best guest as to how this is to be played...
+K:D
+P:A
+[Fd][Fd]/[Fd]/ [Fd][Fd]/[Fd]/ [Fd][Fd]/[Fd]/ | [Fd][Fd]/[Fd]/ [Fd][Fd] [Ec][Ec] | \
+[Fd]2[Fd]2[Fd]2 | [Fd]4 z f | a3 fge | f>d g>e a>f |
+dffegf | [Fd][Fd]/[Fd]/ [Fd][Fd]/[Fd]/ [Fd][Fd] | [Fd]3 bbb | \
+b^a fg gf- | f3 cde | edfd B2 |
+B3 bbb | b^a fg b=a- | a3 fge | f>d g>e a>f | dffegf || \
+P:B
+!segno![Fd][Fd]/[Fd]/ [Fd][Fd]/[Fd]/ [Fd][Fd]/[Fd]/ |
+[Fd][Fd]/[Fd]/ [Fd][Fd] [Ec][Ec] | [Fd]2[Fd]2[Fd]2 | [Fd]3 bbb | \
+b^a fg gf- | f3 cde | edfd B2 |
+B3 bbb | b^a fg b=a | a3fge | f>d g>e a>f | "^D.C. al segno"dffegf || \
+P:C
+[Fd]2 x4 |]
+
+X:1150
+T:Otxa.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p115
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 In the MS, the D and the B are not dotted.
+M:3/8
+L:1/16
+P:ABAC  % My best guest as to how this is to be played...
+K:G
+P:A
+[Bg][Bg]/[Bg]/ [Bg][Bg]/[Bg]/ [Bg][Bg]/[Bg]/ | [Bg][Bg]/[Bg]/ [Bg][Bg] [Af][Af] | \
+[DBg]2[DBg]2[DBg]2 | [DBg] defge | dg gf fe | ed d3B |
+G[Bg]/[Bg]/ [Bg][Bg]/[Bg]/ [Bg][Bg]/[Bg]/ | [DBg]3 ggg | \
+{b}a3 fga | bbbagf | (ag)(fg)(fg) | {f}e3 efg |
+(d/e/d/e/) (f/g/f/g/) {b}a2 | z defge | dg gf fe | ed d3B || \
+P:B
+!segno!G[Bg]/[Bg]/ [Bg][Bg]/[Bg]/ [Bg][Bg]/[Bg]/ | [Bg][Bg]/[Bg]/ [Bg][Bg] [Af][Af] |
+([DBg]2[DBg]2[DBg]2) | "_NB1"[DBg]3 ggg | {b}a3 fga | bbbagf | agfgfg | \
+{f}e3 efg | (d/e/d/e/) (f/g/f/g/) {b}a2 |
+z defge | (dg)(gf)(fe) | "^D.C. al segno"ed d3B || \
+P:C
+G2 x4 |]
+
+X:1160
+T:Black Nagg.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p116
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+N:NB2 Tempo added.
+N:NB3 Initial pickup note added.
+N:NB4 The sixteenth notes (eighth notes in MS) were not beamed in the MS.
+W:Ed.1665.  See Coll.2d.p.36 for Galloping Nagg.
+M:6/8   % MS has time signature "3", barring as in 6/4
+L:1/8   % same barring, but notes halved in length
+Q:3/8=120       % tempo modernized
+K:Ddor
+P:A
+|: "_NB1,2,3"d | d>ed e>de | f3 f2g | "_NB4"a>gf/e/ fe2 | d3 d2 :|
+P:B
+|: d | ecA ecA | ecA ecA | afd afd | afd afd |
+ecA ecA | ecA "_NB4"e2f/g/ | "_NB4"a>gf/e/ fe2 | d3- d2 :|
+
+
+X:1161
+T:Parsons upon Dorothy.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p116
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+N:NB2 In the MS, only the third and fourth notes of strain B measure 1 were beamed.
+W:As in Ed.1695. See an other at p.36.from Ed.1665.
+W:Here the tune is more simple than in the much earlier edition. and different.
+M:C|
+L:1/4
+K:Gm
+P:A
+|: "_NB1,2"D | GG A^F | BB Bd | c>B (A/B/)(c/A/) | B3 :|
+P:B
+|: d | c>B (A/B/)(c/A/) | BB Bd | c>B (A/B/)(c/A/) | B3 :|
+P:C
+|: A/B/ | cc cB/c/ | dd dc/B/ | AG A^F | G3 :|
+
+
+X:1162
+T:Parson Upon Dorothy
+C:Dancing Master, 1652
+F:https://tunearch.org/wiki/Parson_upon_Dorothy
+S:John Playford. 2nd edition of the Dancing Master (1652, p. 83)
+N:NB1 Added pickup in last measure.
+Z:transcriber unknown.  transcription edited by Eric Conrad.
+M:C|
+L:1/8
+K:Gmin
+P:A
+D2|G3G ABcA|B3c B2d2|c2B2 ABcA|B4 B2:|
+P:B
+|:d2|c2B2 ABcA|B3c B2d2|c2B2 ABcA|B4 B2:|
+P:C
+|:d2|c3B A2c2|B3A G2B2|A2G2G2F2|G4 "_NB1"G2:|
+
+X:1163
+T:Ty the Pig.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p116
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+N:NB2 Meter changed from 6/4 to 6/8.
+W:Ed.of 1695.
+W:\u00a0
+% spelling of impossible appears to have 'a' before archaic long 's' (not 'f').
+% The 'a' might simply be a badly written 'o'.
+W:The titles of the old Tunes so often Varie that it is impa\u017fsible to avoid
+W:writing Duplicates. See the Same Coll.2.p.44.
+M:6/8   % original was in 6/4
+L:1/8   % note lengths halved.
+K:F
+P:A
+|: "_NB1,2"F | F>GA GED | F2G A2A | B>cd cAF | B2G E2 :|
+P:B
+|: c | cAA F2d | dBB G2B | cAc dBd | cAc dde | f3- f>ed |
+c2A F3 | c2A c3 | c2A d2e | fed cAF | c2A F2 :|
+
+X:1170
+T:Have at thy Coat old Woman.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p117
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+N:NB2 Changed meter from "3" (assumed: 6/4) to 6/8.
+N:NB3 The two note pickups (four such pairs) were not beamed.  [No beams were used in the MS.]
+W:from Ed.of 1695
+W:\u00a0
+W:See an other at p.66.the best Copy.
+W:again in Coll.2d.p 83. Corrupted.
+M:6/8   % time signature in MS is 3, barring in 6/4.  Changed here to 6/8.
+L:1/8   % half of length in MS
+K:G ^F  % older style key signature with both low F and high F marked as sharp
+P:A
+|: "_NB1,2,3"B/c/ | d2e d2B | cA2 e2 "_NB3"B/c/ | d2e d2A | BG2- G2 :|
+P:B
+|: "_NB3"e/f/ | g>fe d>cB | A>BA e2 "_NB3"B/c/ | d2e d2A | BG2- G2 :|
+
+
+
+X:1171
+T:Bouzer Castle.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p117
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+N:NB2 MS has middle C, raised here one octave to high C.
+W:1695. an other at p.134.
+M:6/8   % unlike the previous tune, this was marked 6/4.  Changed here to 6/8.
+L:1/8   % original was M:6/4 with L:1/4
+K:C
+P:A
+|: "_NB1"C | E2G (GE)G | A2B (cA)c | E2G (GE)C | D3 G,3 |
+E2G (GE)G | A2B (cA)c | (ec)e (dB)d | c3 C2 :|
+P:B
+|: "_NB2"c | e2f (ge)g | B2c (dB)d | E2G (GE)G | D3 G,3 |
+E2G (GE)G | A2B (cA)c | (ec)e (dB)G | c3 C2 :|
+
+
+X:1172
+T:Bouzer Castle. (transposed)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p117
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+N:NB2 Changed meter from 6/4 to 6/8.  Notes lengths adjusted accordingly.
+N:NB3 MS has middle C, raised here one octave to high C.
+W:1695. an other at p.134.
+M:6/8% unlike the previous tune, this was marked 6/4.  Changed here to 6/8.
+L:1/8% original was M:6/4 with L:1/4
+K:Dmaj  % transposed up one whole tone from C major
+P:A
+|: "_NB1"D | F2A (AF)A | B2c (dB)d | F2A (AF)D | E3 A,3 |
+F2A (AF)A | B2c (dB)d | (fd)f (ec)e | d3 D2 :|
+P:B
+|: "_NB3"d | f2g (af)a | c2d (ec)e | F2A (AF)A | E3 A,3 |
+F2A (AF)A | B2c (dB)d | (fd)f (ec)A | d3 D2 :|
+
+X:1173
+T:Sion House. 1695.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p117
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+N:NB2 MS has ^B (for B-flat raised one semitone?) instead of natural B.
+M:6/4
+L:1/4
+K:F
+P:A
+|: "_NB1"FcA G/F/c2 | f>ed ged/c/ | fcd c/B/Ad | "_NB2"=Be d2 c2 :|
+P:B
+|: g>ag f/e/de | fc2 dBA | B>AB cdA | A3 GG2 |
+cA2 dcf | dg2 ded/c/ | fd2 bag | g3 ff2 :|
+
+
+
+X:1180
+T:A Pa\u017fpe.  % The 's' here is a long 's' (unicode \u017f).  Mr Malchair's explanation of title is below.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p118
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+W:Ed.1795.
+W:This must mean Pa\u017fse-Pied. but is not the Character
+W:of that dance according to Mr. Rousseau.
+M:6/4
+L:1/4
+K:C
+% beaming exactly as in MS. Spaces below do not necessarily reflect Malchair's intent.
+Gcc/d/ ed>c | def gec | c/d/e/f/ d/e/f/g/ ag/f/ | e/d/e/f/g f/e/dB |
+B/c/d/B/ e/d/c/B/ Af | fe f/e/d/c/ B>c | dBc ^FG2 ||
+% strain B has exactly 7 measures in MS.
+B>A G/A/B/c/ dG | GA/B/ c/B/c/d/ ec | cd/e/ f/e/f/g/ af | f/g/ag fe2 |
+f2 d>c B2 | e2 c>B Ad/c/ | B/c/d/e/ dB c2 |]
+
+
+X:1181
+T:A Passe-Pied (interpreted).
+T:[A Pa\u017fpe]  % The 's' here is a long 's' (unicode \u017f).  Mr Malchair's explanation of title is below.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p118
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+N:NB2 Changed from 6/4 to 6/8.  Note lengths have been changed accordinally.  Original beaming is preserved.
+W:Ed.1795.
+W:This must mean Pa\u017fse-Pied [=Passe-Pied]. but is not the Character
+W:of that dance according to Mr. Rousseau.
+M:6/8   % MS has 6/4
+L:1/8   % meter and not lengths changed
+K:C
+P:A
+% beaming exactly as in MS. Spaces below reflect beaming in 6/4 original, but not necessarily intent.
+% both strains have exactly 7 measures in MS.
+|: "_NB1,2"Gcc/d/ ed>c | def gec | c/d/e/f/ d/e/f/g/ ag/f/ | e/d/e/f/g f/e/dB |
+B/c/d/B/ e/d/c/B/ Af | fe f/e/d/c/ B>c | dBc ^FG2 :|
+P:B
+|: B>A G/A/B/c/ dG | GA/B/ c/B/c/d/ ec | cd/e/ f/e/f/g/ af | f/g/ag fe2 |
+f2 d>c B2 | e2 c>B Ad/c/ | B/c/d/e/ dB c2 :|
+
+
+X:1182
+T:The Maid's last Wish.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p118
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+N:NB2 Meter changed from 6/4 to 6/8, barred identically, just faster.
+W:1695. Transposed a Note lower.
+M:6/8   % original 6/4 with notes of twice length below.
+L:1/8
+K:Bb
+P:A
+|: "_NB1,2"f | d2c B2A | (BF)_A G2g | f2e (dB)d | f3 F2f |
+d2c B2A | (BA)_A G2e | d2c c2B | B3- B2 :|
+P:B
+|: F | D2E F2B | (GE)B e2d | cBA G2c | A3- A2f |
+dB2 b2f | _a3 g2f | edc c2B | B3- B2 :|
+
+
+X:1183
+T:Bishop of Chester's Jigg.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p118
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Added repeats.
+N:NB2 Changed meter from 9/4 to 9/8
+N:NB3 The MS has a bar line just before these last two notes.
+N:   i.e "fcd cAF | G2F" instead of "fcd cAF G2F"
+N:NB4 In the MS, the last two notes of quadruplet are beamed as a separate doublet.
+N:   i.e: "f>g a/f/" instead of "f>ga/f/"
+W:D.M. Ed.1696. 2d.part.p.10. % i.e. The Dancing Master.
+M:9/8   % time signature denominator is unclear (9/8? 9/4?); scoring is 9/4.
+L:1/8   % changed meter from 9/4 to 9/8, note lengths changed accordingly
+K:F
+P:A
+|: "_NB1,2"F2c cAc c2A | F2c cAc d/e/fc | F2c cAc d2e | fcd cAF "_NB3"G2F :|
+P:B
+|: fcf fcf e2c | d>ed f>g"_NB4"a/f/ g2f | fcf fba g2f | (d/e/)fd cAF G2F :|
+
+
+X:1190
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p119
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+W:From a hand organ in the Street, Oxon.
+W:Nov.21.1794
+M:2/4
+L:1/16
+K:Bb
+P:A
+|: "_NB1"F2 | BABc d2d2 | BABc d2d2 | {f/}e2de c2c2 | {f/}e2de c2c2 |
+BABc d2d2 | BABc d2d2 | fede c2d2 | B4 B2 :|
+P:B
+|: de | fede f2f2 | b4 g4 | {f/}e2de c2c2 | {f/}e2de c2c2 |
+fede f2f2 | b4 g4 | fede c2d2 | B4 B2 :|
+
+
+X:1191
+T:Put on thy Smock a Monday.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p119
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.  There is just one part.
+N:NB2 Meter changed from cut3 (6/4) to 6/8. Note lengths are accordingly half of those in MS.
+M:6/8   % time signature says "cut 3", barring as in 6/4; changed here to 6/8
+L:1/8   % note lengths halved, consistent witch change from 6/4-6/8
+K:C
+|: "_NB1,2"c | c2G E2G | d3- d2 G | c2B c2d | e3- e2c |
+d>ef e>dc | d2B G>AB | c2G E2G | c3- c2 :|
+
+
+
+
+
+
+
+X:1192
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p119
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+N:NB2 MS has maximal beaming.  Beaming here is consistent with 2/4 meter.
+N:   i.e. "| ABCD |" rebeamed here as "| AB CD |"
+N:NB3 MS has this measure garbled.  This is my best guess.  Note stem up vs stem down.
+N:NB4 MS has a correction.  Stem down notes in start of measure have been blotched out.
+N:   [A "blotch" is a big dark inked are, here clearly deliberate.]
+N:   Before blotch, stem down: "edde"  (full measure: "e2de & edde")
+N:   After blotch, stem down: "x2de" <- as here.
+N:NB5 Abc2midi v3.98 has trouble with the stem down notes in these measures.  Your mileage may vary.
+W:an Irish tune noted down from the playing of [?] Oxford Militia Band Oxon March 1800.
+M:2/4
+L:1/8
+K:C
+P:A
+|: "_NB1,2"d | e2 de | d2 dc | edde | "_NB3,5"d3d & x3d/d/ | \
+    egag | fedc | (de).d.e | d3 :|
+|: d | egga | g3e/f/ | eaab | a3g/a/ | c'gag | fedc | \
+    "_NB4,5"e2de & x2de | d3c | edde | d3 :|
+
+
+X:1200
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p120
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeats added.
+N:NB2 Some harmony notes have been obscured by MS erasures and corrections.
+N:NB3 MS unclear: "[GA]dd", "Add" and "Gdd" are all possible readings.
+N:NB4 MS has chord "[ceg]", with possible removal of "[eg]".
+N:NB5 MS has stem up "c2x" over stem down "ceg", but marked suggesting that the stem up note is wrong.
+W:Austrian tune played by [?] Oxford Militia band Oxon March 1800.
+M:6/8
+L:1/16
+K:C
+P:A
+|: "_NB1,2"g2 | e2efg2 e2efg2 | f2e2f2 d4f2 | e2c2c2 A2d2d2 | B2dcBA G4g2 |
+e2efg2 g2c'2g2 | f2e2f2 d4f2 | e2c2c2 A2d2d2 | B2AGAB "_NB4"c4 :|
+P:B
+|: e2 | g2d2B2 c2e2g2 | f2d2B2 c4de | f2d2B2 "_NB5"c2e2g2 | g2agfe d4f2 |
+e2efg2 e2efg2 | f2e2f2 d4f2 | e2c2c2 A2d2d2 | B2dcBA G4g2 |
+e2efg2 g2c'2g2 | f2e2f2 d4f2 | e2c2c2 A2d2d2 | B2AGAB c4 :|
+
+
+X:1201
+T:The Beggar Boy.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p120
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Assuning repeat of A strain.
+N:NB2 Changing meter from 6/4 as in MS to 6/8.
+W:Printed 1652 & 1665 -- Dancing
+M:6/8
+L:1/8
+K:Aphr  % one flat ending on A
+P:A
+|: "_NB1,2"AAA f2f | ec2 d2c | AF2 G2G | A2B cA2 :|
+P:B
+AAA f2f | ec2 d2c | Ac2 e>de | fA2 G3 |
+Ac2 e>dc | dfg/f/ efd | cAF G2G | A2B cA2 |]
+
+
+% pages 121-124 are all missing.
+
+
+X:1250
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p125
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 No time signature is indicated in the MS, but barring indicates 3/2 meter.
+N:NB2 The large handwriting suggests that this was the work of a beginning student.
+N:NB3 MS has a bar before this note.
+M:3/2   % no time signature but barred as 3/2
+L:1/4
+%%score {(S A) (T B)}
+V:S clef=treble
+V:A clef=treble
+V:T clef=bass octave=-1
+V:B clef=bass octave=-2
+K:A
+% line 1
+V:S
+"^NB1,2"E2 | EA c2 B2 | AF E2 E2 | E[EA] c2 A2 | B4 ||
+V:A
+C2 | CC E2 D2 | CD C2 C2 | CC C2 C2 | E4 ||
+V:T
+A2 | AA A2 G2 | AA A2 A2 | AA A2 A2 | G4 ||
+V:B
+A2 | AA A2 e2 | fd A2 A2 | Ax f2 f2 | e4 ||
+% line 2
+V:S
+"^NB3"d2 | cB A2 B2 | cA F2 E2 | EA c2 B2 | A4 ||
+V:A
+F2 | ED c2 D2 | EE D2 B,2 | CC E2 D2 | C4 ||
+V:T
+A2 | AG A2 G2 | AA A2 G2 | AA A2 G2 | A4 ||
+V:B
+d2 | xe f2 e2 | xc d2 e2 | cf e2 e2 | A4 ||
+
+
+X:1251
+T:St Garmon.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p125
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Transcription here is extremely literal, preserving stem direction.  No attempt has been made
+N:    to adjust the tempo as this page in the MS seems to be a student exercise in transcription.
+N:NB2 The stem down D is written separately from the stem up D in tne MS.
+M:3/2
+L:1/4
+%%score {(S A) (T B)}
+V:S clef=treble         % stem up
+V:A clef=treble         % stem down
+V:T clef=bass octave=-1 % stem up
+V:B clef=bass octave=-2 % stem down
+K:G
+V:S
+"^NB1"D4 [FA]2 | B4 "^NB2"[DGd]2 | [Gc]4 [DGB]2 | [CFA]2 G4 || [DA]4 [DB]2 | [DA]4 [Fd]2 | [Fd]4 [Ec]2 | [Dd]4 |]
+V:A
+x6 | G4 D2 | E4 x2 | x2 B,4 || x6 | x6 | x6 | x4 |]
+V:T
+x6 | G4 B,2 | x6 | D2 A,4 || x6 | x6 | x6 | x4 |]
+V:B
+[GB]4 [da]2 | x6 | c4 g2 | x6 || [df]4 g2 | [fa]4 [da]2 | a4 [Ag]2 | [df]4 |]
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAGES 126-134
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+X:1260
+T:A Chinese Aire.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p126
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+W:from Rousseau's Dict.of Mus.
+W:originally from Fath.Du Halde.
+M:C|
+L:1/8
+K:Gmix  % pentatonic scale GABDE (ends in G, no sharps or flats in key signature)
+% one strain, 13 measures
+g2ed B2B2 | g2ed e2eg | aeed Bddg | ed GA B2B2 | BddB d2eg |
+d2d2 eged | B2B2 AGBA | G2G2 A2GA | G2GA BAGA |
+B2B2 BddB | d2eg d2d2 | eged B2B2 | AGBA G2G2 |]
+
+
+X:1261
+T:A Persian Song.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p126
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:C|
+L:1/4
+K:C  % no sharps or flats ending on G (V?)
+GG | GG EF | G2 (FE) | D2 zD/E/ | FF DE | FF EE | C2 zD |
+DD D2 | D2 EF | G3/2 A/G/F/E/D/ | zC CC | A,/G,/A,/(B,/ C)C | B,B, G,2 |]
+
+
+X:1262
+T:(four practice notes)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p126
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:none
+L:1/4
+W:(Note: These four notes and the air following were written down in a different
+W:hand from the two tunes above.)
+K:C
+BBGF |]
+
+X:1263
+T:(untitled hymn)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p126
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Only notes are entered.  There is no clef, no key signature and no time signature.
+N: Assuming key=G major (not G Mixolydian), 3/2 as barred, with top staff treble and bottom staff bass.
+N:NB2 Tempo added
+N:NB3 This note is stemless (i.e. whole note) in the MS.  But the cluster above it has a stem.
+N:NB4 This two-note cluster has a stem in the MS, unlike the two notes in the treble staff.
+N:NB5 This appears to be incomplete.  The tune might be AABA.
+M:3/2 % no time signature in MS, but barring is 3/2
+Q:"NB2" 1/2=160
+L:1/4
+V:A clef=treble
+V:B clef=bass octave=-1
+%%staff {A B}
+% clefs are omitted in the MS
+K:G
+V:A
+"_NB1"[GB]4 G2 | [DGB]4 [DGd]2 | [CFA]3 [B,EG] [CFA]2 | [B,G]6 :|
+[DB]4 [DA]2 | G2 [FA]4 | [Ac]4 [GB]2 | [FA]2 [GB]4 |]
+V:B
+% The second D in measure C is missing its stem,
+% but it is written below the three note chord in the upper staff.
+% The final note in the lower staff is a half note, as transcribed here. 
+[GD]4 [GB]2 | G4 B,2 | D4 "_NB3"D2 | G,6 :|
+G4 [FA]2 | [EB]2 [Dd]4 | [Fd]4 [Gd]2 | [Dd]2 "_NB4,5"[Gd]4 |]
+
+X:1264
+T:(untitled hymn - played AABA)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p126
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Only notes are entered.  There is no clef, no key signature and no time signature.
+N: Assuming key=G major (not G Mixolydian), 3/2 as barred, with top staff treble and bottom staff bass.
+N:NB2 Tempo added
+N:NB3 This note is stemless (i.e. whole note) in the MS.  But the cluster above it has a stem.
+N:NB4 This two-note cluster has a stem in the MS, unlike the two notes in the treble staff.
+N:NB5 This appears to be incomplete.  The tune might be AABA.
+N:NB6 One time through the A strain added here for resolution.
+M:3/2 % no time signature in MS, but barring is 3/2
+Q:"NB2" 1/2=160
+L:1/4
+V:A clef=treble
+V:B clef=bass octave=-1
+%%staff {A B}
+% clefs are omitted in the MS
+K:G
+V:A
+"_NB1"[GB]4 G2 | [DGB]4 [DGd]2 | [CFA]3 [B,EG] [CFA]2 | [B,G]6 :|
+[DB]4 [DA]2 | G2 [FA]4 | [Ac]4 [GB]2 | [FA]2 [GB]4 ||
+"^NB6"[GB]4 G2 | [DGB]4 [DGd]2 | [CFA]3 [B,EG] [CFA]2 | [B,G]6 |]
+V:B
+% The second D in measure C is missing its stem,
+% but it is written below the three note chord in the upper staff.
+% The final note in the lower staff is a half note, as transcribed here. 
+[GD]4 [GB]2 | G4 B,2 | D4 "_NB3"D2 | G,6 :|
+G4 [FA]2 | [EB]2 [Dd]4 | [Fd]4 [Gd]2 | [Dd]2 "_NB4,5"[Gd]4 ||
+[GD]4 [GB]2 | G4 B,2 | D4 "_NB3"D2 | G,6 |]
+
+
+% Pages 127-130 are all missing
+
+X:1310
+T:(untitled)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p131
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Added tempo.  Name that English Country Dance tune!
+N:NB2 Added initial repeat. Not strictly required but it fixes a warning from abc2midi.
+N:NB3 Rest added. The measure has just five beats in the MS.
+M:6/4
+Q:"NB1" 3/4=110
+L:1/4
+V:S     % top staff, stems up
+V:A     % top staff, stems down
+V:B     % bottom staff
+%%score {(S A) B}
+K:D
+P:A
+V:S
+% measure 4 is short as in MS.
+|: "^NB2"A | d2e f2g | a3 b3 | agf e2f | g3 [df]2 "^NB3"z | edc d2e | [EA]3 [EA]2 :|
+V:A
+|: x | [FA]2c d2e | f3 g3 | fed c2d | B2c A2 z | c^GA FG2 | C3 C2 :|
+V:B octave=-2 clef=F
+|: z | [Dd-]3 d3 | x6 | x6 | x6 | a3 a3 | a3 [Aa]2 :|
+P:B
+V:S
+|: f | edc d2e | e3 e2f | edc d2e | a3 a2f |
+ edc B2c |  d2e f2b | abg f2e | d3 d2 :|
+V:A
+|: x | x3 AB2 | d3 d2z | czz cB2 | [de]3 [Ace]2A |
+ c^G[FA] zDG | FA2 A2d | d3 c2x | [GA]3 [FA]2 :|
+V:B octave=0 clef=G
+|: D | A3 F^GE | A3 A3 | A3 F^GE | [CA]3 [CA]2D |
+V:B octave=-2 clef=F
+ a3 g2e | d2c d2G | F2E A2x | d3- [Dd]2 :|
+
+
+X:1311
+T:(untitled hymn)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p131
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 The large handwriting suggests that this was the work of a beginning student.
+N:NB2 Notes only, no clefs, time signatures or key signatures.  Probably in 3/3 in G major.
+N:NB3 No stem, but half note is assumed.
+M:3/2   % Barring suggests 3/2
+L:1/2
+V:A clef=G stem=up                      % top staff, stems up
+V:B clef=F octave=-2 stem=down          % bottom staff, stems down
+%%score {A B}
+K:G     % ending on G, so probably G major.
+V:A
+"^NB1,2"G2[GB] | [AD]2[GB] | G2[DGB] | [DFA]3 || [Gd]2[GB] | [Gd]2[GB] | [CFA][B,GB][CFA] | G3 |]
+V:B
+g2[gd'] | d'2"_NB3"g | [ec']2"_NB3"B | d3 || [gb]2g | [gb]2g | d2"_NB3"d | G3 |]
+
+
+X:1320
+T:I wish I may die if I do.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p131
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:6/8
+L:1/8
+K:D
+P:A
+A | F2A d2f | ede d2A | F2A d2f | d2 z3 A |
+F2A d2e | fed agf | edc B2e | A2 z3 ||
+P:B
+d | gag g2e | fgf f2d | efg Bcd | d3 c2A |
+afa geg | fdf e2A | dcd ede | fef g2e |
+fga efg | fga efg | fgf ede | d3 -d2 ||
+P:C
+A | FGA EFG | FGA E2g | fgf ede | d2A F2A |
+FGA EFG | FGA E2g | fgf ede | d3- d2 |]
+
+X:1321
+T:(practice scale)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p131
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+% This is in a student's hand, probably a child.  A double bar appears at the end.
+M:none
+L:1/4
+K:C
+CDEFGABcdefg |]
+
+X:1322
+T:My Father said that he would hire to me a Man.
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p131
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+N:NB1 Repeat added.
+N:NB2 The final measure in the MS is unclear.  The transcription is a best guess.
+N:NB3 Dot added.
+W:NB. The Notes mark'd to us X are expressd by a Clap of the hand.
+M:C
+L:1/8
+K:D
+P:A
+|: "_NB1"A | (Ad) .d.d d2 (f>a) | (gf)(ed) B2 (c>d) | (e<c) A2 (e<c) A2 | (d>e)(f>g) a3 :|
+P:B
+f | (g>f)(ga) b2 (d'>b) | a(fed) e2 (d>e) | "_X".fz (d>e) "_X".fz d>e | "_X"(f<d) B2 "_X"(e<c) A2 |
+d>ef>g a<f d2 | b2 g>b a<fd>e | "_NB2"A2 {/g}c2 {Bc}"_NB3"d3  |]
+% some student practice notes (ABcdf) appear after this tune.
+% They seem to have been written in heavy pencil and also seem to have been (badly!) erased.
+% (Hard to be sure with jpeg image copies.)
+
+
+X:1330
+T:(inside last page)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p133
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+W:Mr Robert Jones
+W:Miss Graice Jones
+W:Miss Anne Jones
+W:Miss Mary Jones
+M:none
+K:C
+
+
+
+X:1340
+T:(last page)
+C:John Malchair's Third Collection of Tunes
+F:https://www.vwml.org/record/Malchair/3619/p134
+F:www.vwml.org/topics/historic-dance-and-tune-books/Malchair
+Z:Eric Conrad Feb 2020
+M:none
+K:
+%%begintext fill
+%%This M.S. tune-book is in the handwriting of J. Malchair.
+%%
+%%He was a violinist of some distinction, living in Oxford about 1784.
+%%He helped Dr Crotch, (his best friend), settled in Oxford 1788, to prepare
+%%tunes for his "Specimens".  He & Dr Crotch were both clever landscape
+%%scape painters (with drawings in this book.) This is part 4 the selection
+%%made for Dr Crotch's "Specimens". The 'Dancing Master' airs are from
+%%early editions (1652, 65, 70, 75, 96, etc.) The Norwegian tunes
+%%are from La Borde's "Essai" 1780. Mr Frank Kidson's opinion
+%%was that either Crotch or Malchair must have written this book.
+%%L.E.Broadward identified Malchair by comparing his scores in
+%%the British Museum. It was sent to the Society from I.Jones Esq
+%%(LLew Tegis) 239.High St. Bangor July.1907.
+%%endtext
+
+
+X:2000
+T:APPENDIX: Transcription Notes
+K:
+%%begintext fill
+%%1. The last digit in each index (X: header) is the tune number, starting with zero, on the given page.
+%%For example, the first and second tune on page 26 are X:260 and X:261, respectively.
+%%
+%%2. Notes should help in identifying changes (such as added repeats) or difficulties in transcription.
+%%Look for N: headers, comments in the W: headers, ABC comments, and annotations.  Malchair's
+%%own notes typically appear in the W: headers (as words following the tune), in annotations, and
+%%occasionally in text lines.  I hope it will be clear which words are mine and which are Malchair's.
+%%If there is any doubt, consult the original page on the world-wide web at the URL given in the F: header.
+%%
+%%3. These are my own unofficial transcriptions. Most were adapted from transcriptions I made
+%%as a volunteer on working on pages of an official transcription for the VWML.
+%%
+%%4. Feel free to adapt these transcriptions.  (The Malchair manuscript is well over 200 years old,
+%%probably no longer under copyright.  If you have doubts, please consult with a copyright attorney.)
+%%I would appreciate your retaining the Z: headers to indicate my contribution, and to
+%%add a Z: header to mark your changes and acknowledge your contributions.
+%%
+%%Enjoy!
+%%
+%%Respectfully,
+%%Eric Conrad
+%%endtext
+
+X:2001
+T:APPENDIX: Legend and ABC helps
+K:
+W:Abbreviations:
+W:\u00a0 \u00a0 MS = Manuscript (specifically the John Malchair manuscript)
+W:\u00a0 \u00a0 VWML = Vaughn Williams Memorial Library
+W:\u00a0 \u00a0 EFDSS = English Folk Dance and Song Society
+W:
+W:The F: headers have URL information for locating individual pages and for the MS as a whole.
+W:The MS is in the possession of VWML and EFDSS.
+W:
+W:Unicode notes:
+W:\u00a0 \u00a0 \\u00a0=nonbreaking space
+W:\u00a0 \u00a0 \\u017f=archaic long medial ess - \u017f  (It's an s, not an f!)
+W:\u00a0 \u00a0 \\u2012=figure dash - \u2012
+W:\u00a0 \u00a0 \\u2013=en dash - \u2013
+W:\u00a0 \u00a0 \\u2014=em dash - \u2014
+W:\u00a0 \u00a0 \\u201c=opening English quotation marks - \u201c
+W:\u00a0 \u00a0 \\u201d=closing English quotation marks - \u201d
+W:
+W:European Accents and Ligatures:
+W:\u00a0 \u00a0 grave: \`a \`e \`i \`o \`u - \\`
+W:\u00a0 \u00a0 acute: \'a \'e \'i \'o \'u \'y - \\'
+W:\u00a0 \u00a0 circumflex: \^a \^e \^i \^o \^u \u0176 \u0177 - \\^ (except y-hat \\u0176 \\u0177)
+W:\u00a0 \u00a0 umlaut or dier\aesis: \"a \"e \"i \"o \"u \"y - \\"
+W:\u00a0 \u00a0 tilde: \~a \~n \~o - \\~
+W:\u00a0 \u00a0 cedilla, ring, slash, breve, caret: \cc \aa \/o \ua \ue \vs \vz - \\cc \\aa \\/o \\u \\v
+W:\u00a0 \u00a0 ligatures (ash, --, ess-tzet, eth, thorn): \ae \oe \ss \dh \th - \\ae \\oe \\ss \\dh \\th
+W:\u00a0 \u00a0 hungarumlaut or double acute: \Ho \Hu - \\H
+

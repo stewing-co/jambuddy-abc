@@ -1,0 +1,98 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walzer  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: Das Repertoire der B\"abi-Musig, Alpnach. S.62-108. S.63 (wz09039) orig. C,F
+T: \"Uberliefert durch Josef B\"abi, Alpnach, 1880
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"G"GAB | "C/G"cde | "G7"dzg/g/ | gzz |: "C"ef^f | {/g}"G7"b>bb | {/f}a>aa | {/e}"C"g>gg | gfe | "G7"d/g/fd | 
+d/g/fd | "C"e3 | ef^f | {/g}"G7"b>bb | {/f}a>aa | {/e}"C"g>gg | g^fe | "G"d/b/bg | "D7"^f/d'/d'f | "G"gzz :: 
+"C"g>ab | c'd'c' | "G7"bf>c' | b3 | aB>b | a3 | "C"gc>g | e3 | ga>b | c'd'c' | "G7"bf>c' | 
+b3 | aB>d | "C"eGc | "G7"B/d/gg | "C"czz:: [K:F] "F"f3 | g2f | "C7"e2d | c2d | ezc | c3 | 
+"F"fzA | A3 | a3 | b2a | "C7"g2f | e3 | c'ze | "F"c'zf | "C7"d'/c'/ be | "F"fzz :| 
+% wz09039
+X:2
+T:Walzer  GC 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"D"DEF | "G/D"GAB | "D7"Azd/2d/2 | dzz |: "G"Bc^c | {/d}"D7"f>ff | {/c}e>ee | {/B}"G"d>dd | dcB | "D7"A/2d/2cA | 
+A/2d/2cA | "G"B3 | Bc^c | {/d}"D7"f>ff | {/c}e>ee | {/B}"G"d>dd | d^cB | "D"A/2f/2fd | "A7"^c/2a/2ac | "D"dzz :: 
+"G"d>ef | gag | "D7"fc>g | f3 | eF>f | e3 | "G"dG>d | B3 | de>f | gag | "D7"fc>g | 
+f3 | eF>A | "G"BDG | "D7"F/2A/2dd | "G"Gzz:: [K:C] "C"c3 | d2c | "G7"B2A | G2A | BzG | G3 | 
+"C"czE | E3 | e3 | f2e | "G7"d2c | B3 | gzB | "C"gzc | "G7"a/2g/2 fB | "C"czz :| 
+% wz09039
+X:3
+T: Walzer  CF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"G"GAB | "C/G"cde | "G7"dzg/g/ | gzz |: "C"ef^f | {/g}"G7"b>bb | {/f}a>aa | {/e}"C"g>gg | gfe | "G7"d/g/fd | 
+d/g/fd | "C"e3 | ef^f | {/g}"G7"b>bb | {/f}a>aa | {/e}"C"g>gg | g^fe | "G"d/b/bg | "D7"^f/d'/d'f | "G"gzz :: 
+"C"g>ab | c'd'c' | "G7"bf>c' | b3 | aB>b | a3 | "C"gc>g | e3 | ga>b | c'd'c' | "G7"bf>c' | 
+b3 | aB>d | "C"eGc | "G7"B/d/gg | "C"czz:: [K:F] "F"f3 | g2f | "C7"e2d | c2d | ezc | c3 | 
+"F"fzA | A3 | a3 | b2a | "C7"g2f | e3 | c'ze | "F"c'zf | "C7"d'/c'/ be | "F"fzz :| 
+% wz09039
+X:4
+T:Walzer  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"D"DEF | "G/D"GAB | "D7"Azd/2d/2 | dzz |: "G"Bc^c | {/d}"D7"f>ff | {/c}e>ee | {/B}"G"d>dd | dcB | "D7"A/2d/2cA | 
+A/2d/2cA | "G"B3 | Bc^c | {/d}"D7"f>ff | {/c}e>ee | {/B}"G"d>dd | d^cB | "D"A/2f/2fd | "A7"^c/2a/2a^c | "D"dzz :: 
+"G"d>ef | gag | "D7"fc>g | f3 | eF>f | e3 | "G"dG>d | B3 | de>f | gag | "D7"fc>g | 
+f3 | eF>A | "G"BDG | "D7"F/2A/2dd | "G"Gzz:: [K:C] "C"c3 | d2c | "G7"B2A | G2A | BzG | G3 | 
+"C"czE | E3 | e3 | f2e | "G7"d2c | B3 | gzB | "C"gzc | "G7"a/2g/2 fB | "C"czz :| 
+% wz09039
+
+X:5
+T:Walzer A&D (tinwhistle in D)
+T:wz09039 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A %%MIDI gchordon
+"E"EFG | "A/E"ABc | "E7"Bze/2e/2 | ezz |: "A"cd^d | {/e}"E7"g>gg | {/d}f>ff | {/c}"A"e>ee | edc | "E7"B/2e/2dB | 
+B/2e/2dB | "A"c3 | cd^d | {/e}"E7"g>gg | {/d}f>ff | {/c}"A"e>ee | e^dc | "E"B/2g/2ge | "B7"^d/2b/2bd | "E"ezz :: 
+"A"e>fg | aba | "E7"gd>a | g3 | fG>g | f3 | "A"eA>e | c3 | ef>g | aba | "E7"gd>a | 
+g3 | fG>B | "A"cEA | "E7"G/2B/2ee | "A"Azz:: [K:D] "D"d3 | e2d | "A7"c2B | A2B | czA | A3 | 
+"D"dzF | F3 | f3 | g2f | "A7"e2d | c3 | azc | "D"azd | "A7"b/2a/2 gc | "D"dzz :| 
+X:6
+T:Walzer A&D (tinwhistle in D) solo
+T:wz09039 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A transpose=12
+EF"_#"G | ABc | Bze/2e/2 | ezz |: cd^d | {/e}"_#"g>gg | {/d}f>ff | {/c}e>ee | edc | B/2e/2dB | 
+B/2e/2dB | c3 | cd^d | {/e}"_#"g>gg | {/d}f>ff | {/c}e>ee | e^dc | B/2"_#"g/2ge | ^d/2b/2bd | ezz :: 
+e>f"_#"g | aba | "_#"gd>a | "_#"g3 | fG>"_#"g | f3 | eA>e | c3 | ef>"_#"g | aba | "_#"gd>a | 
+"_#"g3 | f"_#"G>B | cEA | "_#"G/2B/2ee | Azz:: [K:D] d3 | e2d | c2B | A2B | czA | A3 | 
+dzF | F3 | f3 | g2f | e2d | c3 | azc | azd | b/2a/2 gc | dzz :|
+X:7
+T:Walzer D&G (tinwhistle in D) solo
+T:wz09039 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+"_=A,"A,"_=B,"B,"_=C"C | DEF | EzA/2A/2 | Azz |: FG^G | {/A}c>cc | {/G}B>BB | {/F}A>AA | AGF | E/2A/2GE | 
+E/2A/2GE | F3 | FG^G | {/A}c>cc | {/G}B>BB | {/F}A>AA | A^GF | E/2c/2cA | ^G/2e/2eG | Azz :: 
+A>Bc | ded | cG>d | c3 | B"_=C"C>c | B3 | AD>A | F3 | AB>c | ded | cG>d | 
+c3 | B"_=C"C>E | F"_=A,"A,D | "_=C"C/2E/2AA | Dzz:: [K:G] G3 | A2G | F2E | D2E | FzD | D3 | 
+Gz"_=B,"B, | "_=B,"B,3 | B3 | c2B | A2G | F3 | dzF | dzG | e/2d/2 cF | Gzz :|
+% Aug 10, 2016

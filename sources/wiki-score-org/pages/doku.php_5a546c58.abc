@@ -1,0 +1,15 @@
+X:1205
+T:N.16 No movimento do Fado
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 5 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%----------- edit between the lines ------------
+"_[fol.40]" !fff! D,/ z/ z/ A,,/ | C,/ z/ z/ A,,/ | E,/ z/ z/ A,,/ | D,/ z/ z || [M:4/8] X5 | \
+"_[fol.41]" X7 || [M:2/4] X|\
+"_[fol.42]" X5 |  !sfz! \
+"_[fol.43]" ("_a tempo" F,2 | "_cresc. muito" F,2) ||\
+%-----------------------------------------------

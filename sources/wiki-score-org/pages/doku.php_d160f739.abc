@@ -1,0 +1,27 @@
+X:110
+T:[Orchestras]
+C:Giuseppe Totti (17__-1832)
+M:C
+L:1/4
+K:Bb
+V: 10 clef=treble name="Tromba in B fa [I]" sname="Trb. I"
+%%MIDI program 1 56
+%%staves [( 10 )]
+%----- edit between the lines ----
+[Q:"Allegro com spirito"]
+!f! E z E z     | E z z2          | Z               | C>G C>G | E E E z       | Z9              | !f! G z G z     |\
+z c c c         | G z G z         | z c c c         | G z z2  | Z             | Z               | Z               |\
+!p! G2- !f!G2   | !p! G2- !f!G2   | C z C z         | C>G C>G | C z z2        | C z C z         | d d d d         |\
+G G G G         | d z z2          | G z z2          | E z E z | E z z2        | Z7              | z d G G         |\
+d z z2          | Z16             | G G G2          | G z E2  | C z E2        | E z/ e/ d z/ d/ | G z/ G/ G z/ G/ |\
+c z/ c/ c z/ c/ | G/ z2/4 z z2    | d4              | G z z2  | G4            | G/ z/ z z2      | z G G d         |\
+G G G G         | G G G G         | G z z2          | Z       | Z             | z d d z         | Z7              |\
+!f! G z G z     | G z z2          | !f! G>d G>d     | G G G z | Z14           | !f! z e d d     | e z z2          |\
+Z               | Z               | z c c c         | C z z2  | Z             | c z c z         | c>c c>c         |\
+c z c z         | c>c c>c         | c z c z         | G z G z | c4            | G z z2          | C4              |\
+C z z2          | Z               | !p! G4          | G4      | G4            | G z z2          | Z               |
+Z               | z G c c         | G z z2          | Z15     | !f! C z z2    | C C C2          | C z z2          |\
+d4              | d z/ d/ d z/ d/ | G z/ G/ G z/ G/ | c z z2  | c c/c/ G G/G/ | c z z2          | Z               |\
+Z               | c c/c/ G G/G/   | c z z2          | !p! C4  | C z z !f! c   | G z z2          | !p! G4          |\
+G z  z !f! G    | c c c G         | c c c G         | E E E E | E c c c       | c z G z         | c z z2          |]
+%---------------------------------

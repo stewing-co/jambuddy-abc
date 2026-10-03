@@ -1,0 +1,79 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Husaren-Marsch FC
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.286 (mr02040) orig. F,C
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T: Überliefert vermutlich durch Joggi Stocker (1889-1956)
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:march
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c/c/ |"F"cA d>c | cA d>c | c>A d>c | "C7"c=B _Bf | e>b d>f | ebe2 | 
+eg d>e | "F"gff2 | cA d>c | cA d>c | cA f>e | "Bb"edd2 | b>b "C7"ag | 
+"F"g/f/g/a/ gf | "C7"c>b be | "F"fa  fc  || "F"f>e d>c | A3c/d/ | A3c/d/ | "C7"B3c | fe dc | B3c/d/ | 
+e>d c>B | "F"AG Fc | fe dc | A3c | f3e | "Gm/Bb"g3g |  g>g "C7"^fg | "F"ac fa | "C7"b3e | 
+ "F"ff fz || [K:C] "C"c3e | a3g | c>e c>g | "G7"B3d | d>e f>g | b3a | f>g d>f | "C"e2z2 | 
+c3e | g3g | g>g ^fg | "F"a3z | A>f "G7"ed | "C"dc BA | "G7"G^F/G/ e>d | "C"cc cz |] 
+% mr02040
+
+X:2
+T:Husaren-Marsch FC  (mr02040)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.286 (mr02040) orig. F,C
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:march
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c/c/ |"F"cA d>c | cA d>c | c>A d>c | "C7"c=B _Bf | e>b d>f | ebe2 | 
+eg d>e | "F"gff2 | cA d>c | cA d>c | cA f>e | "Bb"edd2 | b>b "C7"ag | 
+"F"g/f/g/a/ gf | "C7"c>b be | "F"fa  fc  || "F"f>e d>c | A3c/d/ | A3c/d/ | "C7"B3c | fe dc | B3c/d/ | 
+e>d c>B | "F"AG Fc | fe dc | A3c | f3e | "Gm/Bb"g3g |  g>g "C7"^fg | "F"ac fa | "C7"b3e | 
+ "F"ff fz || [K:C] "C"c3e | a3g | c>e c>g | "G7"B3d | d>e f>g | b3a | f>g d>f | "C"e2z2 | 
+c3e | g3g | g>g ^fg | "F"a3z | A>f "G7"ed | "C"dc BA | "G7"G^F/G/ e>d | "C"cc cz |] 
+% mr02040
+
+X:3
+T:Husaren-Marsch CG 5-  (mr02040)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.286 (mr02040) orig. F,C
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:march
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G/2G/2 |"C"GE A>G | GE A>G | G>E A>G | "G7"G^F =Fc | B>f A>c | BfB2 | 
+Bd A>B | "C"dcc2 | GE A>G | GE A>G | GE c>B | "F"BAA2 | f>f "G7"ed | 
+"C"d/2c/2d/2e/2 dc | "G7"G>f fB | "C"ce cG || "C"c>B A>G | E3G/2A/2 | E3G/2A/2 | "G7"F3G | cB AG | F3G/2A/2 | 
+B>A G>F | "C"ED CG | cB AG | E3G | c3B | "Dm/F"d3d | d>d "G7"^cd | "C"eG ce | "G7"f3B | 
+"C"cc cz || [K:G] "G"G3B | e3d | G>B G>d | "D7"F3A | A>B c>d | f3e | c>d A>c | "G"B2z2 | 
+G3B | d3d | d>d ^cd | "C"e3z | E>c "D7"BA | "G"AG FE | "D7"D^C/2D/2 B>A | "G"GG Gz |] 
+% mr02040
+
+X:4
+T:Husaren-Marsch D&A (tinwhistle in D) solo
+T:mr02040 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+O:Switzerland
+%abc-charset utf-8
+R:march
+M:2/4
+L:1/8
+K:D transpose=12
+A/2A/2 |AF B>A | AF B>A | A>F B>A | A^G =Gd | c>g B>d | cgc2 | 
+ce B>c | edd2 | AF B>A | AF B>A | AF d>c | cBB2 | g>g fe | 
+e/2d/2e/2f/2 ed | A>g gc | df dA || d>c B>A | F3A/2B/2 | F3A/2B/2 | G3A | dc BA | G3A/2B/2 | 
+c>B A>G | FE DA | dc BA | F3A | d3c | e3e | e>e ^de | fA df | g3c | 
+dd dz || [K:Amaj] A3c | f3e | A>c A>e | "_#"G3B | B>c d>e | "_#"g3f | d>e B>d | c2z2 | 
+A3c | e3e | e>e ^de | f3z | F>d cB | BA "_#"GF | E^D/2E/2 c>B | AA Az |]
+% mr02040
+% Oct 1, 2016

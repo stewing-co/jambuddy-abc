@@ -1,0 +1,79 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:L\"andler  F
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.109 (LD09163) orig. F
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"Fdc4 | "C7"EcB4 | "Bb"db ag "C7"fe | "F"ag fe dc | Fdc4 |  "C7"EcB4 | "Bb"db "C7"ag fe | "F"f2f2z2 :| 
+% LD09163 (H 329/TN 3)
+% Aug.19, 2016
+X:2
+T:L\"andler  C 5-
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"CAG4 | "G7"B,GF4 | "F"Af ed "G7"cB | "C"ed cB AG | CAG4 | "G7"B,GF4 | "F"Af "G7"ed cB | "C"c2c2z2 :| 
+% LD09163
+X:3
+T:L\"andler  G 2+
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"Ged4 | "D7"Fdc4 | "C"ec' ba "D7"gf | "G"ba gf ed | Ged4 | "D7"Fdc4 | "C"ec' "D7"ba gf | "G"g2g2z2 :| 
+% LD09163
+X:4
+T:L\"andler  F (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"Fdc4 | "C7"EcB4 | "Bb"db ag "C7"fe | "F"ag fe dc | Fdc4 |  "C7"EcB4 | "Bb"db "C7"ag fe | "F"f2f2z2 :| 
+% LD09163 (H 329/TN 3)
+X:5
+T:L\"andler  C (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"CAG4 | "G7"B,GF4 | "F"Af ed "G7"cB | "C"ed cB AG | CAG4 | "G7"B,GF4 | "F"Af "G7"ed cB | "C"c2c2z2 :| 
+% LD09163
+X:6
+T:L\"andler  G (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"Ged4 | "D7"Fdc4 | "C"ec' ba "D7"gf | "G"ba gf ed | Ged4 | "D7"Fdc4 | "C"ec' "D7"ba gf | "G"g2g2z2 :| 
+% LD09163
+X:7
+T:L\"andler D (tinwhistle in D)
+T:LD09163 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"DBA4 | "A7"CAG4 | "G"Bg fe "A7"dc | "D"fe dc BA | DBA4 | "A7"CAG4 | "G"Bg "A7"fe dc | "D"d2d2z2 :| 
+X:8
+T:L\"andler D (tinwhistle in D) solo
+T:LD09163 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:D transpose=12
+DBA4 | "_=C"FAG4 | Bg fe dc | fe dc BA | DBA4 | "_=C"EAG4 | Bg fe dc | d2d2z2 :|
+% Aug 19, 2016

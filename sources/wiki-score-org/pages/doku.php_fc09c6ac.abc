@@ -1,0 +1,19 @@
+X:401
+T:N.4 Duo de Josepha e Ambrosio
+C:Fonseca, Eduardo da (1863-1938)
+M:3/4
+L:1/4
+K:D
+V: 1 clef=treble name="Flauta" sname="Fl."
+%%MIDI program 1 73
+%%staves [ 1 ]
+%----------------
+[Q:"Andante"] \
+(f/a/) (f/d/) e | d2 !fermata!z || Z4 | (a/e/) (e/^d/) (e/f/) | (ed2)| (c/d/ e/f/^g/e/) | \
+a2z || Z2 | (B/d/) (g/f/g/e/) | f3 | (f/a/ f/)(^d/e/f/ | g3) | z3 | zd'z || \
+[Q:"Piu animato"][K:G] \
+z3 | (fc'2) | z3 | (bg2) | z3 | (fa2) | a/>b/ a/>g/ f/>e/ | !trill!d'3 || \
+d/>B/ d/>B/ g/>a/ | f c'2 | c'/>b/ a/>^g/ a/>^a/ | b g2 | b b/>d'/ c'/>b/ | a e2 | z3 | z g/z/ z || \
+[K:D][Q:"A tempo"] \
+Z2 | B/d/ g/f/g/e/ | f3 | f/a/ f/^d/e/f/ | g3 | z3 | z d' z |] \
+%----------------

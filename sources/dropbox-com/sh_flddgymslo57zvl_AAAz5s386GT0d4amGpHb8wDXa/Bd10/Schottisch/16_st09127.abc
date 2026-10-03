@@ -1,0 +1,50 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Schottisch  CG
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: Das Repertoire der B\"abi-Musig, Alpnach. S.62-108. S.99 (st09127) orig. C,G
+T: \"Uberliefert durch Josef B\"abi, Alpnach, 1880
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"G2^FG  AGFG | EGceg4 | "G7"f2fa d2df | B2Bd A2G2 | "C"G2^FG  AGFG | EGceg4 | "G7"f2fa d2df | "C"c2e2 c2z2:: [K:G] 
+"G"d3c Bc^cd | b2ba g2gf | e2ed c2B2 | "D7"d2^c2  =c4 | d2d'2 c'3a |  "G"b2g2 d3g  | "D7"f2e2 c3F | "G"G2Bd g2 z2 :: [K:C][L:1/8] "C"e3f | 
+g3^g | "F"a3b | "C"c'2zc' | "G7"bd ad |1 ((3fdB) b>a | "C"gc eG | ((3eca)g2 :|2 ((3fdB) a>g | g^f/g/ ab | "C"c'c' c'z |] 
+% st09127
+X:2
+T:Schottisch  FC 7-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"C2=B,C DCB,C | A,CFAc4 | "C7"B2Bd G2GB | E2EG D2C2 | "F"C2=B,C DCB,C | A,CFAc4 | "C7"B2Bd G2GB | "F"F2A2 F2z2:: [K:C] 
+"C"G3F EF^FG | e2ed c2cB | A2AG F2E2 | "G7"G2^F2 =F4 | G2g2 f3d | "C"e2c2 G3c | "G7"B2A2 F3B, | "C"C2EG c2 z2 :: [K:F][L:1/8] "F"A3B | 
+c3^c | "Bb"d3e | "F"f2zf | "C7"eG dG |1 ((3BGE) e>d | "F"cF AC | ((3AFd)c2 :|2 ((3BGE) d>c | c=B/2c/2 de | "F"ff fz |] 
+% st09127
+X:3
+T: Schottisch  CG (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"G2^FG  AGFG | EGceg4 | "G7"f2fa d2df | B2Bd A2G2 | "C"G2^FG  AGFG | EGceg4 | "G7"f2fa d2df | "C"c2e2 c2z2:: [K:G] 
+"G"d3c Bc^cd | b2ba g2gf | e2ed c2B2 | "D7"d2^c2  =c4 | d2d'2 c'3a |  "G"b2g2 d3g  | "D7"f2e2 c3F | "G"G2Bd g2 z2 :: [K:C][L:1/8] "C"e3f | 
+g3^g | "F"a3b | "C"c'2zc' | "G7"bd ad |1 ((3fdB) b>a | "C"gc eG | ((3eca)g2 :|2 ((3fdB) a>g | g^f/g/ ab | "C"c'c' c'z |] 
+% st09127
+X:4
+T:Schottisch  FC (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+"F"C2=B,C DCB,C | A,CFAc4 | "C7"B2Bd G2GB | E2EG D2C2 | "F"C2=B,C DCB,C | A,CFAc4 | "C7"B2Bd G2GB | "F"F2A2 F2z2:: [K:C] 
+"C"G3F EF^FG | e2ed c2cB | A2AG F2E2 | "G7"G2^F2 =F4 | G2g2 f3d | "C"e2c2 G3c | "G7"B2A2 F3B, | "C"C2EG c2 z2 :: [K:F][L:1/8] "F"A3B | 
+c3^c | "Bb"d3e | "F"f2zf | "C7"eG dG |1 ((3BGE) e>d | "F"cF AC | ((3AFd)c2 :|2 ((3BGE) d>c | c=B/2c/2 de | "F"ff fz |] 
+% st09127
+% Aug 13, 2016

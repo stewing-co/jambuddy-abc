@@ -1,0 +1,64 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Schottisch BbEb (st06531) ABCDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.194 (st06531) orig. Bb,Eb
+T: Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+T:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+%%partsbox
+P:ABCDC
+R:Schottisch
+M:2/4
+L:1/8
+K:Bb %%MIDI gchordon
+d [P:A] |: "Bb"d(=E/F/) e.d | {/G}"Cm".d!>!c2.B | "F7"A(D/E/) AG | {/D}"Bb".G!>!F2.d | d(=E/F/) ed | {/G}"Cm".d!>!c2.B | "F"c/A/f "Bb"Bf |1 
+"F7"Ff .Fd :|2 "Bb"BB Bz |: [P:B] "Bb"d/B/F "Cm"ec | "Gm"d/B/G "D7"AD | "Gm"{/A}G/^F/G/A/  BG | .d2 ("F7"G/F/D/F/) | "Bb"d>c FD | "Cm"C/G/G ag | 
+"F7"fA Aa/g/ | "Bb"fB G/F/D/F/ | d>c FD | "Cm"C/G/G ag | "F7"fA fA |1 "Bb"B{/c}B/A/ .B2 :|2  "Bb"B{/c}B/A/ BB || [P:C] [K:Eb] "Eb"B/B/B B/B/B | 
+e3B | "Gm"B/B/B B/B/B | d3B | "Fm"Fc c/c/c | "Bb7"c{/c}B/=A/ BD | "Eb"E>G E>c | B3B | "Gm"B/B/B B/B/B | 
+e3B | B/B/B B/B/B | d3B | "Fm"Fc c/c/c | "B7"c{/c}B/=A/ BD | "Eb"E>G "Bb7"D>B | "Eb"EE E"_Fine"z || [P:D] "G7"g/a/g/a/ (g=B) | 
+"Cm"g/a/g/a/ (gc) | "G7"(Ted) gf | "Cm"ec c/d/e/f/ | "G7"g/a/g/a/ (g=B) | "Cm"g/a/g/a/ (gc) | {/d}c/=B/c/d/ ef | "Bb7"g2"_>Teil C"z2 |] 
+% st06531 (H 226/TN 28)
+% 22 Jan, 2017
+
+X:2
+T:Schottisch CF 2+ (st06531)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.194 (st06531) orig. Bb,Eb
+S:Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+S:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+e |: "C"e(^F/2G/2) f.e | {/A}"Dm".e!>!d2.c | "G7"B(E/2F/2) BA | {/E}"C".A!>!G2.e | e(^F/2G/2) fe | {/A}"Dm".e!>!d2.c | "G"d/2B/2g "C"cg |1 
+"G7"Gg .Ge :|2 "C"cc cz |: "C"e/2c/2G "Dm"fd | "Am"e/2c/2A "E7"BE | "Am"{/B}A/2^G/2A/2B/2 cA | .e2 ("G7"A/2G/2E/2G/2) | "C"e>d GE | "Dm"D/2A/2A ba | 
+"G7"gB Bb/2a/2 | "C"gc A/2G/2E/2G/2 | e>d GE | "Dm"D/2A/2A ba | "G7"gB gB |1 "C"c{/d}c/2B/2 .c2 :|2 "C"c{/d}c/2B/2 cc || [K:F] "F"c/2c/2c c/2c/2c | 
+f3c | "Am"c/2c/2c c/2c/2c | e3c | "Gm"Gd d/2d/2d | "C7"d{/d}c/2=B/2 cE | "F"F>A F>d | c3c | "Am"c/2c/2c c/2c/2c | 
+f3c | c/2c/2c c/2c/2c | e3c | "Gm"Gd d/2d/2d | "C#7"d{/d}c/2=B/2 cE | "F"F>A "C7"E>c | "F"FF F"_Fine"z |] "A7"a/2b/2a/2b/2 (a^c) | 
+"Dm"a/2b/2a/2b/2 (ad) | "A7"(Tfe) ag | "Dm"fd d/2e/2f/2g/2 | "A7"a/2b/2a/2b/2 (a^c) | "Dm"a/2b/2a/2b/2 (ad) | {/e}d/2^c/2d/2e/2 fg | "C7"a2"_>Teil C"z2 ||
+W:Parts: ABCDC
+% st06531 (H 226/TN 28)
+% 22 Jan, 2017
+
+X:3
+T:Schottisch GC 3- (st06531)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.194 (st06531) orig. Bb,Eb
+S:Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+S:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+B |: "G"B(^C/2D/2) c.B | {/E}"Am".B!>!A2.G | "D7"F(B,/2C/2) FE | {/B,}"G".E!>!D2.B | B(^C/2D/2) cB | {/E}"Am".B!>!A2.G | "D"A/2F/2d "G"Gd |1 
+"D7"Dd .DB :|2 "G"GG Gz |: "G"B/2G/2D "Am"cA | "Em"B/2G/2E "B7"FB, | "Em"{/F}E/2^D/2E/2F/2 GE | .B2 ("D7"E/2D/2B,/2D/2) | "G"B>A DB, | "Am"A,/2E/2E fe | 
+"D7"dF Ff/2e/2 | "G"dG E/2D/2B,/2D/2 | B>A DB, | "Am"A,/2E/2E fe | "D7"dF dF |1 "G"G{/A}G/2F/2 .G2 :|2 "G"G{/A}G/2F/2 GG || [K:C] "C"G/2G/2G G/2G/2G | 
+c3G | "Em"G/2G/2G G/2G/2G | B3G | "Dm"DA A/2A/2A | "G7"A{/A}G/2^F/2 GB, | "C"C>E C>A | G3G | "Em"G/2G/2G G/2G/2G | 
+c3G | G/2G/2G G/2G/2G | B3G | "Dm"DA A/2A/2A | "G#7"A{/A}G/2^F/2 GB, | "C"C>E "G7"B,>G | "C"CC C"_Fine"z |] "E7"e/2f/2e/2f/2 (e^G) | 
+"Am"e/2f/2e/2f/2 (eA) | "E7"(TcB) ed | "Am"cA A/2B/2c/2d/2 | "E7"e/2f/2e/2f/2 (e^G) | "Am"e/2f/2e/2f/2 (eA) | {/B}A/2^G/2A/2B/2 cd | "G7"e2"_>Teil C"z2 ||
+W:Parts: ABCDC
+% st06531 (H 226/TN 28)
+% 22 Jan, 2017

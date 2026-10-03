@@ -1,0 +1,77 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.299 (pk04925) orig. C,G,F-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+ec |: "C"a2ge G2cd | "G7"Tc2B2 B2ba | g2fd G2de | "C"Td2c2 cdef | a2ge G2cd | "G7"Tc2B2 B2ba | gfda g2B2 |1 "C"c2c2 c2ec :|2 "C"c2c2 c2z2 || [K:G]  
+|: "G"Bcde d2g2 | ded2 b4 | "D7"b2a2 aba2 | "G"a2g2 gag2 | Bcde d2g2 | ded2 b4 | "D7"b2a2 c'ba2 |1 "G"g2g2 g2z2 :|2 "G"g2g2 g2ag ||  [K:C] 
+|: "G7"f2B2 Bdfa | "C"g2c2 cegc' | "F"b2a2 ac'ba | "C"g4 ^fgag | "G7"f2B2 Bdfa | "C"g2c2 cegc' | "G7"bag2 fed2 |1 "C"c2c2 c2ag :|2 "C"c2c2 c2"_fine"z2 || [K:F] 
+|: "F"a2c2 cfac' | "Gm"b2d2d4 | "C7"b2cd efga | "F"b2ab agf2 | a2c2 cfac' | "Gm"b2d2d4 | "Bb"dbb2 "C7"beg2 | "F"f2f2 f2z2 ::
+"C7"g2c2 g2c2 | "F"b2a2a4 | "A7"a2g2 gag2 | "Dm"g2f2 fgf2 | "C7"g2c2 g2c2 | "F"b2a2a4 | "Bb"d'c'b2 "C7"bag2 | "F"f2f2 f2z2 :| 
+W:
+W: Parts ? (cf. "fine" of Part C)
+
+X:2
+T: Polka CGF chords (align)
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+ec |: "C"a2ge G2cd | "G7"Tc2B2 B2ba | g2fd G2de | "C"Td2c2 cdef | a2ge G2cd | "G7"Tc2B2 B2ba |
+ gfda g2B2 |1 "C"c2c2 c2ec :|2 "C"c2c2 c2z2 [K:G] \
+|: "G"Bcde d2g2 | ded2 b4 | "D7"b2a2 aba2 | "G"a2g2 gag2 |
+ Bcde d2g2 | ded2 b4 | "D7"b2a2 c'ba2 |1 "G"g2g2 g2z2 :|2 "G"g2g2 g2ag [K:C] \
+|: "G7"f2B2 Bdfa | "C"g2c2 cegc' |
+ "F"b2a2 ac'ba | "C"g4 ^fgag | "G7"f2B2 Bdfa | "C"g2c2 cegc' | "G7"bag2 fed2 |1 "C"c2c2 c2ag :|2 "C"c2c2 c2"_fine"z2 || [K:F] 
+|: "F"a2c2 cfac' | "Gm"b2d2d4 | "C7"b2cd efga | "F"b2ab agf2 | a2c2 cfac' | "Gm"b2d2d4 | "Bb"dbb2 "C7"beg2 |
+ "F"f2f2 f2z2 :: \
+"C7"g2c2 g2c2 | "F"b2a2a4 | "A7"a2g2 gag2 | "Dm"g2f2 fgf2 | "C7"g2c2 g2c2 | "F"b2a2a4 | "Bb"d'c'b2 "C7"bag2 | "F"f2f2 f2z2 :| 
+
+X:3
+T:Polka CGF oct. chords (align)
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+EC |: "C"A2GE G,2CD | "G7"TC2B,2 B,2BA | G2FD G,2DE | "C"TD2C2 CDEF | A2GE G,2CD | "G7"TC2B,2 B,2BA |
+GFDA G2B,2 |1 "C"C2C2 C2EC :|2 "C"C2C2 C2z2 [K:Gmaj] \
+|: "G"B,CDE D2G2 | DED2 B4 | "D7"B2A2 ABA2 | "G"A2G2 GAG2 |
+B,CDE D2G2 | DED2 B4 | "D7"B2A2 cBA2 |1 "G"G2G2 G2z2 :|2 "G"G2G2 G2AG [K:Cmaj] \
+|: "G7"F2B,2 B,DFA | "C"G2C2 CEGc |
+"F"B2A2 AcBA | "C"G4 ^FGAG | "G7"F2B,2 B,DFA | "C"G2C2 CEGc | "G7"BAG2 FED2 |1 "C"C2C2 C2AG :|2 "C"C2C2 C2"_fine"z2 || [K:Fmaj] 
+|: "F"A2C2 CFAc | "Gm"B2D2D4 | "C7"B2CD EFGA | "F"B2AB AGF2 | A2C2 CFAc | "Gm"B2D2D4 | "Bb"DBB2 "C7"BEG2 |
+"F"F2F2 F2z2 :: \
+"C7"G2C2 G2C2 | "F"B2A2A4 | "A7"A2G2 GAG2 | "Dm"G2F2 FGF2 | "C7"G2C2 G2C2 | "F"B2A2A4 | "Bb"dcB2 "C7"BAG2 | "F"F2F2 F2z2 :| 
+
+X:4
+T:Polka EbBbAb (5letras) cf. CGF
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+ge |: "Eb"c'2bg B2ef | "Bb7"Te2d2 d2d'c' | b2af B2fg | "Eb"Tf2e2 efga | c'2bg B2ef | "Bb7"Te2d2 d2d'c' |
+bafc' b2d2 |1 "Eb"e2e2 e2ge :|2 "Eb"e2e2 e2z2 [K:Bbmaj] \
+|: "Bb"defg f2b2 | fgf2 d'4 | "F7"d'2c'2 c'd'c'2 | "Bb"c'2b2 bc'b2 |
+defg f2b2 | fgf2 d'4 | "F7"d'2c'2 e'd'c'2 |1 "Bb"b2b2 b2z2 :|2 "Bb"b2b2 b2c'b [K:Ebmaj] \
+|: "Bb7"a2d2 dfac' | "Eb"b2e2 egbe' |
+"Ab"d'2c'2 c'e'd'c' | "Eb"b4 =abc'b | "Bb7"a2d2 dfac' | "Eb"b2e2 egbe' | "Bb7"d'c'b2 agf2 |1 "Eb"e2e2 e2c'b :|2 "Eb"e2e2 e2"_fine"z2 || [K:Abmaj] 
+|: "Ab"c'2e2 eac'e' | "Bbm"d'2f2f4 | "Eb7"d'2ef gabc' | "Ab"d'2c'd' c'ba2 | c'2e2 eac'e' | "Bbm"d'2f2f4 | "Db"fd'd'2 "Eb7"d'gb2 |
+"Ab"a2a2 a2z2 :: \
+"Eb7"b2e2 b2e2 | "Ab"d'2c'2c'4 | "C7"c'2b2 bc'b2 | "Fm"b2a2 aba2 | "Eb7"b2e2 b2e2 | "Ab"d'2c'2c'4 | "Db"f'e'd'2 "Eb7"d'c'b2 | "Ab"a2a2 a2z2 :| 
+
+X:5
+T:Polka EbBbAb (5letras) cf. CGF oct
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+GE |: "Eb"c2BG B,2EF | "Bb7"TE2D2 D2dc | B2AF B,2FG | "Eb"TF2E2 EFGA | c2BG B,2EF | "Bb7"TE2D2 D2dc |
+BAFc B2D2 |1 "Eb"E2E2 E2GE :|2 "Eb"E2E2 E2z2 [K:Bbmaj] \
+|: "Bb"DEFG F2B2 | FGF2 d4 | "F7"d2c2 cdc2 | "Bb"c2B2 BcB2 |
+DEFG F2B2 | FGF2 d4 | "F7"d2c2 edc2 |1 "Bb"B2B2 B2z2 :|2 "Bb"B2B2 B2cB [K:Ebmaj] \
+|: "Bb7"A2D2 DFAc | "Eb"B2E2 EGBe |
+"Ab"d2c2 cedc | "Eb"B4 =ABcB | "Bb7"A2D2 DFAc | "Eb"B2E2 EGBe | "Bb7"dcB2 AGF2 |1 "Eb"E2E2 E2cB :|2 "Eb"E2E2 E2"_fine"z2 || [K:Abmaj] 
+|: "Ab"c2E2 EAce | "Bbm"d2F2F4 | "Eb7"d2EF GABc | "Ab"d2cd cBA2 | c2E2 EAce | "Bbm"d2F2F4 | "Db"Fdd2 "Eb7"dGB2 |
+"Ab"A2A2 A2z2 :: \
+"Eb7"B2E2 B2E2 | "Ab"d2c2c4 | "C7"c2B2 BcB2 | "Fm"B2A2 ABA2 | "Eb7"B2E2 B2E2 | "Ab"d2c2c4 | "Db"fed2 "Eb7"dcB2 | "Ab"A2A2 A2z2 :| 

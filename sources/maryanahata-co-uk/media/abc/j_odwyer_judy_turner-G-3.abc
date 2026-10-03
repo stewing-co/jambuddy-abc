@@ -1,0 +1,32 @@
+X:0
+T:James O'Dwyer's Compliments to Ms Judy Turner on the Occasion of her 70th Birthday
+C:James O'Dwyer
+Z:Anahata <anahata@treewind.co.uk>
+M:4/4
+L:1/8
+Q:1/4=86
+K:Gmaj
+V:1
+V:2
+V:3 clef=bass octave=-2
+V:1
+%%MIDI program 41
+P:A
+B2 D<B A3F|(FG) B,<GF2-F>=F|E2C2B,CD2|E2F>G F>E F/2G/2A|
+B2D<BA3F|G2B,<G F2-F>=F|E2Gc cBB2|1cE F>G G>G F/2G/2A:|2cE F>G G>A B/2c/2d|:
+P:B
+e2e2d3B|cE A<c B>c B/2c/2d|e2e2d3B|BE A>G F>E F/2G/2A|
+B2D<BA3F|G2B,<G F2-F>=F|E2Gc cBB2|1cE F>G G>A B/2c/2d:|\
+[2cE F>G G4|]
+V:2
+%%MIDI program 42
+G4F4|E4D4|CDEFG4|cBAG A4|
+G4F4|E4D4|GFE2D4|1E2DCB,2D/2E/2F:|2E2DCB,4|:
+G4B3G|E2F2G4|G4B3G|E4D2D/2E/2F|
+G2g2f4|e4d4|gfe2d4|1e2dcB3A:|2e2dcB4|]
+V:3
+%%MIDI program 46
+g4d4|e4B4|c4G2B2|c4d4|
+g4d4|e4B4|c2e2g4|1c2d2G2d2:|1c2d2G2g2|:
+c4B4|A4G4|c4B4|A2^c2d4|
+g4d4|e4B4|c4G2B2|1c2d2G2g2:|2c2d2G4|]

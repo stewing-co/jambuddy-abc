@@ -1,0 +1,24 @@
+X:505
+T:N.5 Marcha e coro militar
+C:Fonseca, Eduardo da (1863-1938)
+M:2/4
+L:1/8
+K:A
+V: 5 clef=bass name="Cello" sname="Vc."
+%%MIDI program 1 1
+%%staves [ 5 ]
+%--------
+(A,E,C,E,) | (A,E,)!>!C,!>!E, | !>!A,2!>!C2 | (!>!A,2 E,2) | (A,E,C,E,) | \
+[A,A,,]2 !>!A,,!>!E, | !>!F,2!>!B,,2| !>!E,(=D,C,B,,) | A,,(E,C,E,) | \
+(B,E,)!>!C,!>!E,| !>!A,2!>!C2 | (A,2E,2) | B,,A,,G,,F,, | \
+E,,D,C,B,,| !>!E,2!>!E,,2 | A,,z E,z !segno!|: \
+!p!A,,z C,z | E,z C,z | B,,z E,,z | A,,z E,z | (A,2G,2) | (F,2E,2) | (D,2^D,2) | \
+!>!E,2-E,z| A,,z C,z | E,z C,z | B,,z E,,z | F,,zC,z \
+||1 A,,zF,,z | B,,zG,,z | F,,zB,,z | (E,D,C,B,,) \
+:|2 (D,2^D,2 | E,2)C,A,,| E,2E,,2 || \
+"^Para seguir" [A,,](^B,,C,D,) "_A" || \
+"^Do A ao B""^16 comp" F,,zz2 | !p!z!/![F,]3 | C,z C,z | !f! z3/2!f![F,]//[F,]// [F,]z | \
+!p! [B,,]z/[B,,]/ [B,,]z | [C,]z/[C,]/ [C,]z | D,z D,z | C, !f!z/C,//C,// C,z | \
+!p! [F,,]zz2| z!/![F,]3 | C,z C,z | z!/!F,3 | ^D,2^D,2 | \
+E,zz2| E,z E,z | A,,zz2  "_B" || "DC ao segno" "ate ao fim" X ||"^Para acabar" A,,z !>!A,,z |] \
+%--------

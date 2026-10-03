@@ -1,0 +1,1446 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+Hexatonic Modes
+===============
+
+1. The Hexatonic Pitch Set
+== =======================
+
+Many Scottish tunes don't use all seven notes of the diatonic pitch set.
+The same procedure occurs in non-Western musical systems: in classical
+Indian music, modes derived by leaving notes out of a raga are called
+"secondary ragas", and the Indonesian seven-note "pelog" scale is usually
+reduced to scales ("pathets") that leave gaps.
+ 
+There are many theoretically possible scales like this, but only a few are
+used.  The six-note modes of Scottish music can all be seen as different
+modes of the white-note pitch set with B (ti) left out, or alternatively
+as its transposition down a fourth, the set with F (fa) left out, which
+also fits the white notes.  The interval sequence now has a wider gap, a
+minor third, written as m.  (None of the hexatonic or pentatonic scales
+of Scottish music has a wider gap than a minor third; the same goes for
+the pentatonic scales of China, but African and Japanese music use scales
+with major third gaps, and ancient Greek music used both).
+
+The omitted-B version looks like this:
+
+   -ti:   1  2  3  4  5  6  7  8  9 10 11 12
+          C     D     E  F     G     A
+         do    re    mi fa    so    la
+            T     T    S   T     T      m
+
+and the omitted-F version is the same pattern transposed:
+
+   -fa:   1  2  3  4  5  6  7  8  9 10 11 12
+          C     D     E        G     A     B
+         do    re    mi       so    la    ti
+             T     T      m       T     T    S
+
+There are two different ways to get this pitch set on the pipe chanter:
+either omit the C sharp (so that the single semitone gap is between
+F sharp and G) or omit the G's (so that the semitone falls between C sharp
+and D).  Nobody seems to have named these before; I'll call the first
+the "C-gap hexatonic pitch set" and the second the "G-gap hexatonic pitch
+set".  Pipe tunes using the C-gap set work well on a G whistle.
+
+X:0
+T:The C-gap Hexatonic Pitch Set on the Pipe Chanter
+M:8/4
+L:1/4
+K:C
+GABde^fga|]
+
+X:0
+T:The G-gap Hexatonic Pitch Set on the Pipe Chanter
+M:7/4
+L:1/4
+K:C
+AB^cde^fa|]
+
+The six-note scales have no popular names, so I've used the naming system
+of Campbell and Collinson in their "Hebridean Folksongs", which describes
+these by saying what seven-note modes they could be if the missing note
+were filled in.
+
+Some of the tune examples I've given for gapped scales are long: this is
+necessary for one point I'm making, that certain notes are omitted in a
+regular pattern.  If a note doesn't occur in a short phrase you might
+put it down to fluke, but if a 64-bar piece omits it you need to ask why.
+
+
+2. The Major/Mixolydian Hexatonic Mode
+== ===================================
+
+The MAJOR/MIXOLYDIAN HEXATONIC mode uses a major or mixolydian scale with
+the seventh step omitted, giving an interval sequence TTS TTm.  On the white
+notes of a keyboard, it would either have C as tonal centre and omit the B,
+or have G as tonal centre and omit the F.  In A it's AB^cde^fa.
+
+This is one of the commonest modes in Scots music: it occurs more often than
+the seven-note mixolydian mode, and many Scottish "major" tunes make so
+little use of the seventh that a gap here is barely noticeable.  In sol-fa,
+it's either the do-mode with ti omitted or the so-mode with fa omitted.
+
+X:0
+T:The Major/Mixolydian (do/so) Hexatonic Scale
+M:9/4
+L:1/4
+K:C
+P:do -ti
+"_do"C2 "_re"D "_mi"E "_fa"F "_so"G "_la"A "_do"c2 |\
+"_do"c2 "_la"A "_so"G "_fa"F "_mi"E "_re"D "_do"C2||
+P:so -fa
+K:GMix
+"_so"G2 "_la"A "_ti"B "_do"c "_re"d "_mi"e "_so"g2 |\
+"_so"g2 "_mi"e "_re"d "_do"c "_ti"B "_la"A "_so"G2|]
+
+X:0
+T:Tramps and Hawkers
+M:3/4
+L:1/4
+Q:3/4=80
+K:C
+% major/mixolydian hexatonic
+C   |E2 E|D2  C|D2 E|C2 A,|G,2 A,|C2  D|C3- |C2
+E   |G2 G|E F G|A2 A|G2 E |C2  D |E D C|A,3-|A,2
+E   |G2 G|E F G|A2 A|G2 E |C2  D |E D C|A,3-|A,2
+C/D/|E2 E|D2  C|D2 E|C2 A,|G,2 A,|C2  D|C3- |C2|]
+
+X:0
+T:Lord Ronald, My Son
+S:Burns, SMM, collected in Ayrshire
+B:G.F. Graham, Popular Songs and Melodies of Scotland
+G:ballad tune
+M:3/4
+L:1/8
+Q:1/4=72
+K:F
+% major/mixolydian hexatonic
+FG |A2 A2 Ac|A2 G2 Ac|d2 d2 cA |G4
+Ac |d3  c AF|CD F2 FG|A2 BA G>F|F4
+F>G|A2 A2 Ac|A2 G2 Ac|d2 c2 cA |G4
+Ac |d3  c AF|CD F2 FG|A2 BA G>F|F4|]
+
+X:0
+T:Jess MacFarlan
+T:Ay Waukin O
+S:Scots Musical Museum #213
+G:song
+M:3/2
+L:1/8
+Q:1/2=136
+K:AMix
+% major/mixolydian hexatonic
+d2d>c B2A2 F4  |d3 c B2e2 c2A>A|
+d2d>c B2A2 F3 A|B2Bc d2c2 B2A2||
+F4    F2F2 E4  |F2F2 F2A2 B2d2 |
+F2F2  F2F2 E2FA|B2A2 d3 c B2A2|]
+
+X:0
+T:The Smith's a Gallant Fireman
+N:derived from the old Border song "Mary Scott"
+G:fiddle strathspey
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+% D major/mixolydian hexatonic
+D2 D>F A<AA>F|A>Bd>A F2E>D|E2 E>G B<BB>A|d>fe>d B2B<d|
+D2 D>F A<AA>F|A>Bd>A F2E>D|G>BG<B F>AF<A|E>FG>A B2A2:|
+d>ef>e d<dd>A|B>Ad>A F2E>D|e2 e>f e2 e>f|g>fe>d B2A2 |
+d>ef>e d2 d>A|B>Ad>A F2E>D|G>BG<B F>AF<A|E>FG>A B2A2:|
+
+X:0
+T:Kate Dalrymple
+M:C|
+L:1/8
+Q:1/2=104
+K:D
+% D major/mixolydian hexatonic
+D2DF E2EF|D2DF E2EF|D2d2 BAGF|E2A2 F2D2:|
+A3B  AGFG|A2d2 A2F2|A2d2 A2d2|A2d2 A2F2 |
+G2GB F2FA|E2EG AGFE|D2d2 BAGF|EFGA F2D2|]
+
+X:0
+T:Bratach Bana
+G:reel
+M:2/4
+L:1/8
+Q:1/4=108
+K:D
+% D major/mixolydian hexatonic
+Ad  da|f>e f/e/d|Ad  da   |   f>e f/e/d|
+g2  ab|a>g fg   |aa  ef/e/|   dA  BA  :|
+f>e fA|BA  d>B  |AA  BA   |   fe  eA   |
+f>e fA|BA  d>e  |f<a ef/e/|[1 dA  BA  :|\
+                           [2 d4      |]
+
+X:0
+T:Haste to the Wedding
+T:Carrick Fergus
+T:Trip to the Dargle
+T:The Small Pin Cushion
+G:jig
+S:Skye Collection, 1880s
+N:probably written by James Oswald around 1750
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+% major/mixolydian hexatonic
+B   |AFA Aaf|ede fdB|AFA AdF|EFE E2
+A   |AFA Aaf|ede fdB|AFA faf|ddd d2:|
+f/g/|afa afa|bgb bgb|afa agf|efe e2
+f/g/|a3  f3 |ede fdB|AFA faf|ded d2:|
+
+X:0
+T:Lady Bothwell's Lament
+S:Graham, Songs of Scotland
+G:song from the early 18th century
+M:3/4
+L:1/16
+Q:1/4=80
+K:F
+c2     A2`(GF)| F6         A2  G2`(FD)|C6 \
+d2     c2`(BA)|(B2A2) (G2``F2) G2`(Ac)|d6
+c2 ({B}A2)(GF)| F6        (GA) D3```F |C6 \
+d2 ({d}c2)(BA)|(B2A2) (G2``F2) A3```c |d6||
+c2    (cB)(AB)| c6         d2 (cB)(AB)|c6 \
+c2     d2``f2 | f6         f2  d3```c |c6
+f2    (cA)(GF)| D6         F2 (CD)(FA)|d6 \
+c2    (cA)(GF)| F3`G  (AG)(Ac) G3```F |F6|]
+
+Here is an example from China:
+
+X:0
+T:The East Is Red
+T:Northern Shensi Folk Song
+G:song
+S:Revolutionary Songs of China
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+% major/mixolydian hexatonic
+c2 cd|G4   |F2 FD|G4   |
+c2 cc|df dc|f2 FD|G4   |
+c2 G2|FF ED|C2 c2|G2 AG|
+F2 FD|GA GF|GF ED|C4-  |C2|]
+
+and a Hungarian one:
+
+X:0
+T:Este van mar, csillag van az egen
+M:7/4
+L:1/8
+Q:1/4=110
+K:EMix
+EE A2 c2 BGAF E2 Ez |\
+BB e2 c2 ABcA B2 Bz |
+BB e2 c2 ABcA B2 Az |\
+EE A2 c2 BGAF E2 Ez|]
+
+One of the best-known tunes from anywhere in this mode is the English
+nursery rhyme "This Old Man", also known as Barney the Purple Dinosaur's
+song "I Love You" from US children's TV (and used on prisoners by
+American torturers in Iraq and Afghanistan):
+
+X:0
+T:This Old Man
+T:I Love You
+M:4/4
+L:1/4
+Q:1/4=120
+K:C
+     G E G    z|G   E    G z|A G F E|D E F
+E/F/|G C C/C/ C|C/D/E/F/ G z|G D D F|E D C2|]
+
+X:0
+T:Major/Mixolydian (7-gap, do/so) Hexatonic Scales
+L:1/4
+M:9/4
+K:Ab
+"^A flat"  A2 Bc def a2|a2 fe dcB A2||
+M:9/4
+K:Eb
+"^E flat"  E2 FG ABc e2|e2 cB AGF E2||
+M:9/4
+K:Bb
+"^B flat"  B2 cd efg b2|b2 gf edc B2||
+M:9/4
+K:F
+"^F"       F2 GA Bcd f2|f2 dc BAG F2||
+M:9/4
+K:C
+"^C"       C2 DE FGA c2|c2 AG FED C2||
+M:9/4
+K:GMix
+"^G"       G2 AB cde g2|g2 ed cBA G2||
+M:9/4
+K:DMix
+"^D"       D2 EF GAB d2|d2 BA GFE D2||
+M:9/4
+K:AMix
+"^A"       A2 Bc def a2|a2 fe dcB A2||
+M:9/4
+K:EMix
+"^E"       E2 FG ABc e2|e2 cB AGF E2||
+M:9/4
+K:BMix
+"^B"       B2 cd efg b2|b2 gf edc B2|]
+
+On the pipes, this mode can be obtained two ways: either as the A-final
+mode of the G-gap hexatonic pitch set, or (less usually) as the D-final
+mode of the C-gap hexatonic pitch set.
+
+X:0
+T:Far Over Struy
+S:Scots Guards pipe tune book
+G:retreat march
+M:3/4
+L:1/8
+Q:1/4=80
+K:D
+% major/mixolydian hexatonic, D-final in the C-gap hexatonic pitch set
+d2  A2 A2 |d>e f2 A2|f>g a2 f2|ed  f2 e2 |
+e>f g2 a>g|fe  d2 B2|d>e f2 A2|BA  d2 d2:|
+e>f g2 a>g|fd  f2 e2|f>e d2 fa|g>f f2 e2 |
+e>f g2 a>g|fe  d2 B2|d>e f2 A2|BA  d2 d2:|
+
+X:0
+T:Captain Horne
+G:pipe strathspey
+M:C
+L:1/8
+Q:1/4=112
+K:D
+% major/mixolydian hexatonic, D-final in the C-gap hexatonic pitch set
+e|f>AA2  B<Gg2 |f>AA2  B<dd>d|
+  f>AA2  B<Gg2 |f<ae>d B<dd :|
+e|f2 f>d f2 f<a|f2 f>d e2 f<a|
+  f2 f>d e>dg>e|a>fe>d B<dd :|
+
+X:0
+T:The 79ths Farewell to Gibraltar
+C:John Macdonald
+G:pipe march
+M:2/4
+L:1/16
+Q:1/4=80
+K:A
+% major/mixolydian hexatonic, A-final in the G-gap hexatonic pitch set
+c>d|e3f   e2c2  |A4     A2a2 |f2e>c  e>fe>d|c2B2 B2c>d|
+    e3f   e2c2  |A4     A2a2 |f2e>c  e>fa>e|c2A2 A2  :|
+a2 |f2e>c e>fa>e|f<ae>c B2a2 |f2e>c  e>fa>e|f2B2 B2a2 |
+    f2e>c e>fa>e|f<ae>c B2a2 |f2e>c  e>fa>e|c2A2 A2  :|
+c>B|A3B   c2a2  |f2e>c  B2c>B|A>Bc>d e>fe>c|f2B2 B2c>B|
+    A3B   c2a2  |f2e>c  B2a2 |f2e>c  e>fa>e|c2A2 A2  :|
+c>d|e3f   e2c2  |e4     e2a2 |f3e    f2a2  |f3e  c2a2 |
+    f2e>c c2B<A |B<AB>c e2a2 |f2e>c  e>fa>e|c2A2 A2  :|
+
+
+3. The Dorian/Minor Hexatonic Mode
+== ===============================
+
+The DORIAN/MINOR HEXATONIC mode is a dorian or minor scale with the sixth
+omitted, interval sequence TST TmT.  On the white notes, it could either
+have D as tonal centre and omit the B, or have A as tonal centre and omit
+the F.  In A it's ABcdega.
+
+This is very common; the great majority of the older Scottish tunes usually
+described as "minor" are in fact in this mode, and it is much commoner than
+both the dorian and minor modes put together.  In sol-fa, it's either the
+re-mode with ti omitted or the la-mode with fa omitted.
+
+X:0
+T:The Dorian/Minor (re/la) Hexatonic Scale
+M:9/4
+L:1/4
+K:DDor
+P:re -ti
+"_re"D2 "_mi"E "_fa"F "_so"G "_la"A "_do"c "_re"d2 |\
+"_re"d2 "_do"c "_la"A "_so"G "_fa"F "_mi"E "_re"D2||
+P:la -fa
+K:AMin
+"_la"A2 "_ti"B "_do"c "_re"d "_mi"e "_so"g "_la"a2 |\
+"_la"a2 "_so"g "_mi"e "_re"d "_do"c "_ti"B "_la"A2|]
+
+X:0
+T:Ye Jacobites By Name
+G:song in slow march tempo
+M:4/4
+L:1/8
+Q:1/4=100
+K:AMin
+% dorian/minor hexatonic
+E|A>B AG E2 EE|c2  BA B3
+E|A>B AG ED EG|A4     z3
+c|c>B cd e3  e|d>c Bc d3
+d|eA  AG E2 EE|c2  BA B3
+d|e>A AG ED EG|A4     z3|]
+
+X:0
+T:My Bonny Moorhen
+S:Sheila Douglas, The Sang's the Thing
+G:song, free rhythm
+M:6/8
+L:1/8
+Q:3/8=60
+K:EMin
+% dorian/minor hexatonic
+E|E<AA B2A |G<EE E2z|G<AG BAB |G<DD D2
+D|GFG  A>GA|BAd  e2d|B>AG A>Bd|F<EE E2||
+E|e<ee g2g |f<dd d2d|ded  fef |d<AB A2
+z|BAB  B>AG|A<Bd e2d|B<AG A<Bd|F<EE E2|]
+
+X:0
+T:Ca the Yowes to the Knowes
+G:Lowland song or slow air
+M:2/4
+L:1/8
+K:BMin
+% dorian/minor hexatonic
+z|E>F B2 |A>F A2|F>E D>d|c>d e2 |f>B B>B|Ad    F2 |E2  F>A|B2 B
+F|E>F B>B|A>F A2|F>E D>d|c>d e>e|f>B BB |A/B/d F>D|E>E F>A|B2 B
+z|E>F B2 |A>F A2|F>E D>d|c>d e2 |f>B B>B|Ad    F2 |E2  F>A|B2 B|]
+
+X:0
+T:Are Ye Sleepin Maggie
+G:Lowland song
+M:4/4
+L:1/8
+Q:1/4=72
+K:AMin
+% dorian/minor hexatonic
+e2  Ac       ee  e/d/c|d2  GB       dd    d/c/B   |\
+A>B c>d      e>d c>d  |e>A c/B/A/G/ EA/c/ BA     ||
+E>A Ac       B>A GA/B/|c>c B>G      E>c   BA      |\
+E>A A>c      B>A GA/B/|c>A B>G      Ec    BA     ||
+e2  A/B/c/d/ ee  e/d/c|d2  G/A/B/c/ d<g   e/d/c/B/|\
+A>B c>d      e>d c>d  |e>A c/B/A/G/ EA/c/ BA     |]
+
+X:0
+T:Born in St Johnstone and burn'd in Dundee
+S:Blaikie MS (1692), NLS MS.1578/Mf.Sec.MSS.295
+G:south-east Scottish ballad
+M:3/4
+L:1/4
+Q:1/4=120
+K:DDor
+% dorian/minor hexatonic
+D A G   |F> G A|F E D   |C> D E|D A G|F> G A|A    f e   |d3||
+A d d/c/|A d  c|F c A/G/|F> G A|A A G|F> G A|G/F/ D C/E/|D3|]
+
+X:0
+T:The Gloomy Night is Gathering Fast
+T:Hughie Graham
+T:Druimonn dubh (The Black Cow)
+S:G.F. Graham, The Popular Songs and Melodies of Scotland
+G:song: a Gaelic lament, later a nonsense song, later used by Burns
+M:3/4
+L:1/8
+Q:1/4=72
+K:F#Min
+% dorian/minor hexatonic
+FG|A4  G>F|F2 C2  FG|A4  G>F|F4
+EF|G4  F>E|E2 B,C EF|G4  F>E|E4
+FG|A4  G>F|F2 C2  FG|A3B G>F|F4
+G2|A3B ce |f4     e2|c3B G>F|F4|]
+
+X:0
+T:Seal Fishers Song
+S:NLS MS.10381 (Ann Dundas, Lausanne 1818)
+M:6/8
+L:1/8
+Q:3/8=100
+K:EMin
+% dorian/minor hexatonic
+Bdd dBA|dBA dBA|\
+Bdd dBA|e2d e3:|
+g2f g2a|e2d e3 |\
+g2f g2a|e2d e3 |
+a2e g2d|e2d BAG|\
+Bdd dBA|dBA dBA|\
+Bdd dBA|e2d e3|]
+
+X:0
+T:The Banks of Spey
+G:strathspey
+C:William Marshall
+M:4/4
+L:1/8
+Q:1/4=120
+K:ADor
+% dorian/minor hexatonic
+A2 A>B A>Bc>e|d<cB>A G2G2|A2 A>B A>Bc>d|e>cde   g2g2 |
+a>ge>c d<eg<a|e<gg>B G2GB|A<EA>B c>de>g|e<dc>B  A2Ac||
+A<EA>c A<EA>c|B>cdB  G2GB|A<EA>c A<Ec>d|e>cde   g2g2 |
+a>ge<c dega  |e<gg>B G2GB|A<EA>B c>de<g|e<dc>B  A2A2|]
+
+X:0
+T:The Ale is Dear
+G:reel for pipes or fiddle
+M:4/4
+L:1/8
+Q:1/2=112
+K:BMin
+% dorian/minor hexatonic
+e|f2ef B2fe|faef cAAe|f2ef B2fe|faec B3:|
+c|B3 c d2cB|A3 B ABcA|B3 c d2cB|efec B3c|
+  B3 c d2cB|A3 B ABcA|d2fd c2ec|efec B3|]
+
+It's still commonly used in modern tunes:
+
+X:0
+T:Brenda Stubbert's Reel
+C:Jerry Holland, Cape Breton
+N:the way it's played around Edinburgh - I've never seen an
+N:intelligible written copy and only heard Brenda play it once
+G:Cape Breton reel for fiddle
+M:4/4
+L:1/8
+Q:1/2=112
+K:AMin
+% dorian/minor hexatonic
+   B|A2BA GAAB|A2Bd eddB|G2BA BGGB|c2BA BGG
+   B|A2BA GAAB|A2Bd edda|gedB GABd|e2dB BAA:|
+   B|A2a2 A2g2|Aage aged|G2BA BGGB|c2BA BGG
+[1 B|A2a2 A2g2|Aage agea|gedB GABd|e2dB BAA:|
+[2 B|A2BA GAAB|A2Bd edda|gedB GABd|e2dB BAA|]
+
+...like this one...
+
+X:0
+T:Admiral On The Bow
+C:Sandy Brechin, Edinburgh, 1990s 
+L:1/4
+M:4/4
+Q:1/4=84
+K:EMin
+% dorian/minor hexatonic
+   E B A> B|B E E>  F |G G    F D|B,4|
+   E B A> B|B E E>  F |G G    F D|E4:|
+   B d d> e|d A A G/A/|B A/G/ F D|B,4|
+[1 B d d> e|d A A G/A/|B A/G/ F D|E4:|
+[2 E B A> B|B E E>  F |G G    F D|E4|]
+
+...which happens to be remarkably similar to a mediaeval Norwegian ballad:
+
+X:0
+T:Rolandskvadet
+Z:Transcribed by Frank Nordberg - http://www.musicaviva.com
+M:C
+L:1/4
+Q:1/4=120
+K:EMin % Transposed from DMin
+% dorian/minor hexatonic
+B B/B/ B B|A G E E/D/|E E/E/ G A |B2 BB |
+B B    G A|A E E E   |G G/G/ F D |E2 E2||
+G G/G/ B B|A G G E   |E E    G A |B2 B2 |
+B B    G A|A E E E   |G2    (F D)|E2 E2|]
+
+Here is an example from 16th century France:
+
+X:0
+T:Galliard "Because of the Traitor I Die"
+S:Arbeau, Orchesography, 1589
+M:6/2
+L:1/2
+Q:3/2=60
+K:GMin
+% dorian/minor hexatonic
+ddc B2A|AGG F2D|ddc B2A|GGF G3:|
+AAA c2c|ccc d2d|ddc B2A|GGF G3:|
+
+A Breton lullaby:
+
+X:0
+T:Toutouig
+M:6/8
+L:1/8
+Q:3/8=60
+K:AMin
+% dorian/minor hexatonic
+z|c2c B2B|A2A E2E|c2c BAG|A3- A2
+A|ece dBd|cAc B2A|ece dBd|cAc B2
+z|c2c B2B|A2A E2E|c2c BAG|A3- A2|]
+
+A Finnish tune probably based on an 18th century Russian song:
+
+X:0
+T:Ievan Polkka
+M:2/4
+L:1/16
+Q:1/4=120
+K:AMin
+% dorian/minor hexatonic
+A|E2A2 A3B |cAAA  A2cc|B2G2 G2BB|c2A2  A3
+E|E2A2 A3B |cAAA  A2cc|e2d2 c2B2|cA2A- A3
+c|e2e2 d2c2|B2G2  G2B2|d2d2 c2B2|B2G2  G3
+B|e2ee d2c2|BG2G- G3B |d2d2 c2B2|cA2A- A3||
+
+This is an example of it being used to imitate a folk idiom from
+outside Scotland (but Gershwin's accompaniment tends to fill in
+the gap, making the music sound Dorian more often than minor):
+
+X:0
+T:Summertime
+C:George Gershwin
+M:C|
+L:1/8
+Q:1/2=72
+K:AMin
+% dorian/minor hexatonic
+  e2  c2 |e8-          |ez  d>c d>e c2|A4   E4-|E2 z2
+  e2  c2 |d d3-   d4   |z2  c>A c>A c2|B8-     |B4
+  z e2  c|e e2 e- e4   |z2  d>c d>e c2|A4   E4-|E4
+  z2  E2 |G2 EG   A2 c2|e d3    c4    |cA3- A4-|A8-  |A2 z2 z4|z4||
+(3e2e2c2 |e2 e6        |z>e d>c d>e c2|A4   E4-|E3  z
+  e2  c2 |d d2 d- d4   |z2  c>A c>A c2|B8-     |B4
+  z e e c|e e3-   e4   |z2  d>c d>e c2|A4   E4-|E4
+  z2  E2 |G2 EG   A2 c2|e d3    c4    |cA3- A4-|A8-  |A8-     |A8-|A6 z2|z8|z8|]
+
+And here is a Chinese example:
+
+X:0
+T:Dance of the Yao People
+C:Liu Tieshan and Mao Yuan, 1952 
+M:2/4
+L:1/8
+P:AABABCCAD
+K:GMin
+P:A
+Q:1/4=76
+Gd      dG         |(c3     B)|Ac      BA         |(G>F D2)|\
+G>A     Bc         | df   (dc)|B(c/d/) cB         | G4    ||
+P:B
+Q:1/4=76
+FF/G/   BG         | BB/c/ df |d(d/f/) c(d/f/)    | d4     |\
+Gd      Gd         | Gc    Gc |B(c/d/) cB         | G4    ||
+P:C
+Q:1/4=120
+Gd     (c/d/)(c/B/)| GB    G2 |Gd     (c/d/)(c/B/)| GB  G2 |\
+G(G/B/) c(c/B/)    | cf    d2 |c(d/c/) B(c/B/)    | G2  G2||
+P:D
+Q:1/4=68
+B2     (cd)        | c2    B2 |G4-                | G4    |]
+
+X:0
+T:Dorian/Minor (6-gap, re/la) Hexatonic Scales
+L:1/4
+M:9/4
+K:BbDor
+"^B flat"  B2 cd efa b2|b2 af edc B2||
+M:9/4
+K:FDor
+"^F"       F2 GA Bce f2|f2 ec BAG F2||
+M:9/4
+K:CDor
+"^C"       C2 DE FGB c2|c2 BG FED C2||
+M:9/4
+K:GDor
+"^G"       G2 AB cdf g2|g2 fd cBA G2||
+M:9/4
+K:DDor
+"^D"       D2 EF GAc d2|d2 cA GFE D2||
+M:9/4
+K:AMin
+"^A"       A2 Bc deg a2|a2 ge dcB A2||
+M:9/4
+K:EMin
+"^E"       E2 FG ABd e2|e2 dB AGF E2||
+M:9/4
+K:BMin
+"^B"       B2 cd efa b2|b2 af edc B2||
+M:9/4
+K:F#Min
+"^F sharp" F2 GA Bce f2|f2 ec BAG F2||
+M:9/4
+K:C#Min
+"^C sharp" C2 DE FGB c2|c2 BG FED C2|]
+
+On the pipes, this mode usually takes the form of the B-final mode
+in the G-gap hexatonic pitch set.
+
+X:0
+T:Greenwoodside
+G:pipe march
+M:2/4
+L:1/16
+Q:1/4=86
+K:BMin
+% dorian/minor hexatonic, B-final G-gap hexatonic pitch set
+   e2|B>BB>c B2A2|B>cd>e f4|e3f  e>fe>d|c2A2 A2
+   f2|B2B>c  B2A2|B>cd>e f4|e2a2 f2ef  |d2B2 B2:|
+   de|f3d    B2f2|B>BB>c f4|e3f  e>fe>d|c2A2 A2
+[1 de|f3d    B2f2|B>BB>d f4|e2a2 f2ef  |d2B2 B2:|
+[2 e2|B2B>c  B2A2|B>cd>e f4|e2a2 f2ef  |d2B2 B2|]
+
+It can also be the E-final mode in the C-gap hexatonic pitch set, but
+this is uncommon.
+
+There are many tunes nearly in this mode, where the sixth is only used
+as a passing note in scale patterns, like the inconspicuous c's in this:
+
+X:0
+T:Contented wi' Little
+T:Lumps of Pudding
+N:to my thinking the greatest song Burns ever wrote; based on
+N:a mildly bawdy Lowland song tune of the early 18th century
+G:song
+M:6/8
+L:1/8
+Q:3/8=90
+K:EDor
+E   |E>FE E<ed  |B>AB E2 G   |F>ED D<dB|AFA  D2
+d/e/|f>ed B2e/d/|B>AF d2 d/c/|B>AF E>FA|B>AB E2||
+B   |B<GB BGB   |B>AB E2 F/G/|AFA  AFA |A>FA D2
+d/e/|f>ed B<ed  |B>AF d2 d/c/|BAF  EFA |B>AB E2|]
+
+The gap sometimes got filled as tunes evolved.  "When She Cam Ben She
+Bobbit", as it appeared in Burns and Johnson's Scots Musical Museum,
+was dorian/minor hexatonic:
+
+X:0
+T:When She Cam Ben She Bobbit
+G:song from Midlothian
+M:6/8
+L:1/8
+Q:3/8=84
+K:EMin
+B,|E>EE G2G|FD2 z2D|E>EE e2e|dB2 z2
+z |d>ed d2B|A2G FGA|B2 B BAB|GE2 z2|]
+
+In Allan's "110 Songs of Scotland" from the late nineteenth century and
+intended to fit Lady Nairne's adapted words, it had gone into the minor,
+though the sixth is still not an important note:
+
+X:0
+T:The Laird of Cockpen
+G:song
+M:6/8
+L:1/8
+Q:3/8=84
+K:EMin
+B,|E>FE G2G|F>DD D2F   |E>FE e2e|d>BB B2
+c |dGB  dcB|A>BG F2G/A/|B>cB BAB|G>EE E2|]
+
+The dorian/minor hexatonic is one of the commonest scales in Europe.
+Here's an example from the Middle Ages:
+
+X:0
+T:Astra tenenti
+S:The Play of Daniel, 13th century
+M:6/4
+L:1/4
+Q:3/4=80
+K:DDor
+% dorian/minor hexatonic
+DAA G2G|FAc G2G|EGF E2D|DCD G2F|EDF D2D|]
+
+and from southern England in 1906:
+
+X:0
+T:O Shepherd, O Shepherd, Will You Come Home
+G:song
+S:Vaughan Williams and Lloyd, Penguin Book of English Folk Songs
+M:6/8
+L:1/8
+Q:3/8=100
+K:GDor
+% dorian/minor hexatonic
+B|BBB Bcd|c2B A2||\
+c|B2G GAG|F2D D2||
+B|BBB BAB|c2c d2||\
+c|BAG AGF|G3  G2|]
+
+from 19th century America (this tune must be derived from the Scottish
+song "John Anderson my Jo", though I don't know how it happened):
+
+X:0
+T:When Johnny Comes Marching Home
+G:marching song
+M:6/8
+L:1/8
+Q:3/8=112
+K:EMin
+% dorian/minor hexatonic
+e|Bee e2f|g2f g2e|d3- d2B|d3- d2
+e|Bee e2f|g2f g2a|b3- b2a|b3- b2
+a|b2b bag|a2a a2f|g2g gfe|f2f fga|
+  b2b a2a|g2g f3 |Bee e2d|e3  e2|]
+
+in Black America:
+
+X:0
+T:Nobody Knows the Trouble I see, Lord!
+S:The Story of the Jubilee Singers (1899)
+N:not the well-known tune for this
+M:2/4
+L:1/16
+K:CMin
+c2c2 e2e2|c3B  G4  |B2B2  d2d2|c3B   G4 |
+c2c2 e2e2|c3B  G2E2|G2G>F E2E2|FE2E  C4||
+CE2F G3G |BGc2 BG3 |CE2F  G3E |FG2E  C4 |
+CE2F G3G |BGc2 BG3 |CE2F  G2D2|C4    C4|]
+
+in 1970s British rock:
+
+X:0
+T:Stairway to Heaven
+C:Jimmy Page and Robert Plant
+M:4/4
+L:1/8
+Q:1/4=90
+K:AMin
+AB|c2 BA/B/-B2-(3BAB|cd2c BAcd|e2dc BA-A>G|[1 GA3 z2:|
+                                           [2 GA3-A4||
+z2 ced4|d2-d/c/B cAAB|cded dcBG|GA3 z2
+AB|c2 BA/B/ A2-(3AAB|c2 dc B<A cd|(3e2d2c2 BA2G|GA3z2
+
+and from Turkey, a lament for the young men of a village killed on the
+Yemen front in WW1.  This is classified in the "huseyni" (dorian) mode
+in Turkish books, since they don't usually acknowledge gapped scales.
+
+X:0
+T:Havada Bulut Yok
+T:There is No Cloud in the Sky
+T:Yemen Song
+S:composite of several sources
+M:10/8
+L:1/8
+Q:5/8=36
+K:DDor
+  FG2 A2 A3 |A2 A3  AG GAG|G2 ccG G2 AFA|G2
+  FG2 A2 A3 |A2 A3  AG GAG|G2 ccG G2 AFA|G2
+  FG2 A2 A3 |A2 A3  AG GAG|G2 ccG G2 AFA|G2||
+|:AAG GF A2G|G2 GGF FE G2E|F2
+  FFE ED F2E|E2 FED D2 E2D|DD D3  DC D3-|D2:|
+
+This mode was used for one of the most important examples in Western music
+theory.  The "do-re-mi" note naming scheme was originally "ut-re-mi",
+derived by Guido d'Arezzo from the first word in each of the six verse
+lines in the hymn to St John the Baptist, "Ut queant laxis", which Guido
+may have written himself.  Guido had no name for the B (later "si" or 
+"ti") and it doesn't occur in the tune; early music theory used hexachords
+rather than full-octave scales.
+
+X:0
+T:Ut queant laxis
+C:Guido d'Arezzo
+M:none
+L:1/1
+Q:1/1=108
+K:DDor % Fa3
+ C D  F (D  E) D2   |\
+ D D  C  D  E  E2   |
+(E G) E (D  E) C  D2|\
+ F G  A (G  F) D  D2|
+(G A  G) E  F  G  D2|\
+ A G  A  F (G  A) A2|
+(G F) D  C  E  D2  |]
+
+
+4. The Mixolydian/Dorian Hexatonic Mode
+== ====================================
+
+The MIXOLYDIAN/DORIAN HEXATONIC mode has the third omitted, giving an
+interval sequence TmT TST.  On the white notes, it could either have
+tonal centre D omitting the F, or tonal centre G omitting the B.  In
+A it's ABde^fga.  So on the pipes, one form of it is in the A-mode in
+the C-gap hexatonic pitch set; this occurs often.  The other is the
+E-mode in the G-gap pitch set, and if there are any real examples of
+it I can't find them.  In sol-fa it's either the so-mode with ti omitted
+or the re-mode with fa omitted.
+
+X:0
+T:The Mixolydian/Dorian (so/re) Hexatonic Scale
+M:9/4
+L:1/4
+K:GMix
+P:so -ti
+"_so"G2 "_la"A "_do"c "_re"d "_mi"e "_fa"f "_so"g2 |\
+"_so"g2 "_fa"f "_mi"e "_re"d "_do"c "_la"A "_so"G2||
+P:re -fa
+K:DDor
+"_re"D2 "_mi"E "_so"G "_la"A "_ti"B "_do"c "_re"d2 |\
+"_re"d2 "_do"c "_ti"B "_la"A "_so"G "_mi"E "_re"D2|]
+
+X:0
+T:The Black Mull
+T:The Muilean Dubh
+S:NLS MS.21743, tunebook of Archibald Clark, fifer in the 42nd, 1813
+G:reel for fife or flute
+M:C|
+L:1/8
+Q:1/2=104
+K:ADor
+% mixolydian/dorian hexatonic
+B|edef g2(fe)|dedB dedB|edef gage|dBgB A2A:|
+B|eAed eAAB  |dGdB dGGB|eAed eAAf|gedB A2A:|
+
+X:0
+T:A Man's a Man for A' That
+G:song in march tempo taken from a pipe arrangement
+M:2/4
+L:1/8
+Q:1/4=72
+K:AMix
+% mixolydian/dorian hexatonic; A-final C-gap
+A|d>e dA|Bd e>g|f>e dA|B2 B>A|
+  d>e dA|Bd e>g|f>e dB|A2 A :|
+g|f>g af|gf e>g|f>g aA|B2 B>d|
+  f>g af|gf e>g|f>e dB|A2 A :|
+
+X:0
+T:Sir Colin
+S:Kinsley, The Oxford Book of Ballads
+G:ballad air
+M:C
+L:1/8
+Q:1/4=90
+K:DDor
+% mixolydian/dorian hexatonic
+B|c2  cc d2 d2|c2 e2  d4 |
+  c2  c2 d2 d2|c2 e2  d3
+c|A3   A G2 G2|A3  B Hc3
+d|A2  A2 G2 cE|E3  E  D3|]
+
+X:0
+T:Short Coated Mary
+G:fiddle reel from the Western Isles
+M:4/4
+L:1/8
+Q:1/2=116
+K:EDor
+% mixolydian/dorian hexatonic
+E2B2 BABc|d2AF DEFD|E2B2 BABc|d2AF E2E2:|
+d2dB e2e2|d2d2 FFFD|d2dB e2e2|d2AF E2E2 |
+d2dB e2e2|d2d2 FFFD|E2B2 BABc|d2AF E2E2|]
+
+X:0
+T:Hughie the Graeme
+S:Scottish Folksinger
+M:4/4
+L:1/4
+Q:1/2=80
+K:DDor
+% mixolydian/dorian hexatonic
+c|cc    dd|ec d2|cc    dd|ec d>G|
+  cB    AG|cB Ac|Bd    cA|GE D2||
+  GG/G/ GD|EG Ad|cA/A/ AA|GE D2|]
+
+X:0
+T:Bogie's Bonnie Belle
+S:Belle Stewart
+B:MacColl & Seeger, Till Doomsday in the Afternoon
+M:4/4
+L:1/8
+Q:1/4=120
+K:ADor
+% mixolydian/dorian hexatonic
+A2|A2A2 B2A2| G2F2 E2A,A,|D2D2  EF3  |A4  z2||
+EF|G2F2 E2D2|(EA3) G2E2  |D2B,2 A,3A,|A,4 z2|]
+
+An alternative version of "Bonnie Lass Among the Heather" (given
+here earlier as an example of the Dorian mode) uses this gapped
+scale:
+
+X:0
+T:Queen Amang the Heather
+G:song
+S:MacColl and Seeger, Till Doomsday in the Afternoon
+S:and what I remember of how Ted Polytello sang it
+M:none
+L:1/8
+Q:1/4=88
+K:DDor
+cB|A2 A2 D2 (AG)|  E D3   C4   z2
+cB|A2 A2 D2  D2 |(3c2c2A2 c d3-d2 z2
+cB|A2 A2 D2 (AG)|  E D3   C4   z2
+c2|d3  c A G2 c |  C3 D   E D3-D2 z2|]
+
+X:0
+T:Murdo Mackenzie of Torridon
+G:pipe march
+M:6/8
+L:1/8
+S:Rebecca Knorr
+Q:3/8=120
+K:AMix
+% mixolydian/dorian hexatonic; A-final C-gap
+ e|Aee e3 |Aee dBg|GBd dBd|e<gG BAG |
+   Aee e3 |Aee dBa|gfe deg|edB  A2 :|
+ B|Aaa a3 |Aaa gea|gfe def|gGd  BAG |
+[1 Aaa a3 |Aaa gea|gfe deg|edB  A2 :|
+[2 e3  A2e|dBd e2a|gfe deg|edB  A2 ||
+ B|A3  e3 |A2e dBg|B3  G3 |e<gG B>AG|
+   A3  e3 |A2e dBa|gfe deg|edB  A2 :|
+ B|AaA gAa|AgA aAa|gfe def|gGd  BAG |
+[1 AaA gAa|AgA aAa|gfe deg|edB  A2 :|
+[2 e3  A2e|dBd e2a|gfe deg|edB  A2 |]
+
+An example from Hungary:
+
+X:0
+T:Jaj de sokat arattam
+G:song
+B:Kodaly, Folk Music of Hungary
+S:collected by Bartok in 1906 in Horgos (Csongrad County)
+M:4/4
+L:1/8
+Q:1/4=76
+K:GDor
+% mixolydian/dorian hexatonic
+eefg ecd2|cG3  G2z2 |\
+ggec aag2|gd3  d2z2 |
+ggec aag2|dfec d4   |\
+eefg ecd2|cG3  G2z2|]
+
+one from Ireland:
+
+X:0
+T:My Love's an Arbutus
+T:The Coola Shore
+Z:Stanford-Petrie 507 
+B:The New National Song Book, Charles Villiers Stanford & Geoffrey Shaw, 1906.
+F:http://www.folkinfo.org/songs
+M:3/4
+L:1/8
+Q:1/4=100
+K:DDor
+GA|Bc d2 A2|GA B2 AB|GE D2 D2|D4
+GE|D2 D2 EG|A2 A2 Bc|d2 c2 B2|A4
+GE|D2 D2 EG|A2 A2 Bc|dB ed cB|A4
+GA|Bc d2 A2|GA B2 AB|GE D2 D2|D4|]
+
+and a tune of English origin collected in America:
+
+X:0
+T:The House Carpenter
+S:Sharp & Karpeles, 80 English Folk Songs from the Southern Appalachians
+M:3/2
+L:1/4
+Q:1/2=80
+K:EDor
+A   |       B3 F d c  |[M:2/2]B (F/E/) E
+A   |[M:3/2]B3 F d c  |[M:2/2]B3
+E   |       B B E A/F/|       D E B,
+D/E/|[M:3/2]F E/E/ B3F|E3     z2|]
+
+X:0
+T:Mixolydian/Dorian (3-gap, so/re) Hexatonic Scales
+L:1/4
+M:9/4
+K:EbMix
+"^E flat"  E2 FA Bcd e2|e2 dc BAF E2||
+M:9/4
+K:BbMix
+"^B flat"  B2 ce fga b2|b2 ag fec B2||
+M:9/4
+K:FMix
+"^F"       F2 GB cde f2|f2 ed cBG F2||
+M:9/4
+K:CMix
+"^C"       C2 DF GAB c2|c2 BA GFD C2||
+M:9/4
+K:GMix
+"^G"       G2 Ac def g2|g2 fe dcA G2||
+M:9/4
+K:DMix
+"^D"       D2 EG ABc d2|d2 cB AGE D2||
+M:9/4
+K:ADor
+"^A"       A2 Bd efg a2|a2 gf edB A2||
+M:9/4
+K:EDor
+"^E"       E2 FA Bcd e2|e2 dc BAF E2||
+M:9/4
+K:BDor
+"^B"       B2 ce fga b2|b2 ag fec B2||
+M:9/4
+K:F#Dor
+"^F sharp" F2 GB cde f2|f2 ed cBG F2|]
+
+
+5. The Lydian/Major Hexatonic Mode
+== ===============================
+
+The LYDIAN/MAJOR HEXATONIC mode omits the fourth, giving an interval
+sequence TTm TTS.  On the white notes, it could either have tonal
+centre C with F omitted, or tonal centre F with B omitted.  In A it's
+AB^cef^ga.  In sol-fa it's either in the fa-mode with ti omitted or
+the do-mode with fa omitted.
+
+X:0
+T:The Lydian/Major (fa/ti) Hexatonic Scale
+M:9/4
+L:1/4
+K:FLyd
+P:fa -ti
+"_fa"F2 "_so"G "_la"A "_do"c "_re"d "_mi"e "_fa"f2 |\
+"_fa"f2 "_mi"e "_re"d "_do"c "_la"A "_so"G "_fa"F2|]
+P:do -fa
+K:C
+"_do"C2 "_re "D "_mi"E "_so"G "_la"A "_ti"B "_do"c2 |\
+"_do"c2 "_ti "B "_la"A "_so"G "_mi"E "_re"D "_do"C2|]
+
+X:0
+T:Bonnie George Campbell
+S:Norman Buchan, 101 Scots Songs
+G:song
+M:3/4
+L:1/4
+Q:1/4=120
+K:C
+E>E E|D<E G|A>A A|G3 |
+c>B A|G E C|C<E C|D3 |
+E>E E|D E G|A>A A|G3 |
+c>B A|G<E C|D E D|C3|]
+
+X:0
+T:Farewell to Fiunary
+S:Norman Buchan, 101 Scots Songs
+G:song
+M:6/8
+L:1/8
+Q:3/8=72
+K:G
+G|G2G d2B|A2G F2A|B2E E2F|E2D D2
+D|E2E G2G|A2B d2d|e2e d2B|A2A G3||
+  G2G d2B|A2G F3 |B2E E2F|E2D D3 |
+  E2E G2G|A2B d2d|e2e d2B|A2G G2|]
+
+One of the best-known tunes in this mode is a strange-sounding piece
+which may nevertheless be more traditional than it appears:
+
+X:0
+T:Annie Laurie
+G:song
+B:Gall & Inglis: Select Songs of Scotland
+C:Lady John Scott
+M:2/4
+L:1/8
+Q:1/4=60
+K:C
+ z   |CC/C/ c>c  |BA z \
+ A   |GE    ED/C/|D2 z
+ E/D/|C>C   c>c  |BA z \
+ A   |G>E   ED   |C2 z||
+ G   |c>c   d>d  |e3   \
+ G   |c>c   d>d  |e2
+e>d  |c>B   Ac/A/|GE   \
+E>D  |C/cE/ ED   |C3 |]
+
+It occurs in these songs adapted by Burns, the first a traditional
+Lowland piece and the second a new song to a Gaelic tune:
+
+X:0
+T:Whistle O'er the Lave O't
+G:song
+M:4/4
+L:1/8
+Q:1/4=96
+K:F
+% lydian/major hexatonic
+F>C  D<F A>GA2|c>dA>f G>FD2|F>CD<F A>GA>f|F<FA>F G2F2||
+cd/e/f>c d>cA2|c>dA>f G>FD2|f>ad>f c>dA>f|F<FA>F G2F2|]
+
+X:0
+T:How lang and dreary is the night
+G:song
+M:3/4
+L:1/8
+Q:1/4=80
+K:E
+% lydian/major hexatonic
+E|  E>e e2  e2 |   e(d/c/) B3B|   c>d e3f|g2 c2 e>c|
+ {c}B>G G2 (FE)|{E}F>G     B3c|{c}BG  c3B|B2 E2 e>c|
+ {c}B>G G2 (FE)|{E}F>G     B3c|{c}BG  c3B|B2 E2   |]
+
+and in the outer sections of this Shetland lament:
+
+X:0
+T:Auld Swaara
+G:lament for fiddle
+N:the title refers to the sweater of a drowned fisherman
+B:Tom Anderson & Pam Swing: Haand Me Doon Da Fiddle
+M:2/4
+L:1/8
+Q:1/4=72
+K:G
+% lydian/major hexatonic
+D| GG        (3 D(B,G,)|(3 D(GD)   (3(B,A,B,    |G,2) {c}(3(BAF)|\
+   GG        (3 D(B,G,)|(3 D(GD)   (3(B,A,)B,   |DG         G  :|
+% major
+A|(G/F/E/D/) (3(CEC)   |(3(B,DB,)     A,>B,     |G,2  {c}(3(BAF)|\
+  (G/F/E/D/) (3(CEC)   |(3(B,DB,)     A,>B,     |DG         G  :|
+% lydian/major hexatonic
+D|(G/F/E/D/)    Gg     |   e(d/B/)    d/(e/f/g/)|a2  ({A}(3 B)AF|\
+  (G/F/E/D/)    Gg     |   e(d/B/) (3 d(gd)     |BG         G  :|
+
+and there many near-examples where the fourth is barely perceptible:
+
+X:0
+T:Last May a Braw Wooer
+G:song
+B:Gall & Inglis, Select Songs of Scotland
+M:6/8
+L:1/8
+K:F
+% almost lydian/major hexatonic
+F|A>GA F>GF|A>GA F2 c/B/ |A>GA FAc|d3   c2c|
+  c>de fed |c<fA G2(F/G/)|A2C  CDE|F>GA GFG|AcC C>FA|G3 F2|]
+
+On the pipes it is theoretically possible as the D-mode using the
+G-gap hexatonic pitch set, but I can't think of an example.  When
+the G is omitted in a D-mode tune on the pipes, the C is too, to
+make the tune pentatonic.  The first half of this tune is in this
+mode, but the Gs in the second part fill in the gap:
+
+X:0
+T:Invercauld
+G:reel
+S:Logan's Collection
+M:2/4
+L:1/16
+Q:1/4=108
+K:D
+% lydian/major hexatonic
+e2|A2d2   f2e>d|f2a2   f2e>d|A2d2  f2e>d|B2e2 e2d>B|
+   A2d2   f2e>d|f2a2   f2e>d|B2e2  c2B<A|d4   d2  :|
+% major
+fg|a2d2   f2e>d|e>dc>B A2f<g|a2d2  f2e>d|B2e2 e2f>g|
+[1 a2d2   f2e>d|e>dc>B A2c2 |B2e2  c2B<A|d4   d2  :|
+[2 B<GB>c d2c>B|A2d2   f2e>d|B2e2  c2B<A|d4   d2  |]
+
+And a hymn tune adopted by the Church of Ireland from an Irish folk tune:
+
+X:0
+T:Be Thou My Vision
+T:Slane
+S:Church Hymnary, revised edition
+M:3/2
+L:1/4
+Q:1/2=92
+K:Eb
+E2  E2  (FE)| C2  B,2 (B,C)|E2 E2 F2| G6     ||
+F2  F2   F2 |(F2  G2)  B2  |c2 B2 G2| B6     ||
+c2 (cd) (ed)|(c2  B2)  G2  |B2 E2 D2|(C4 B,2)||
+E2  G2   B2 |(cB) G2  (EG) |F2 E2 E2| E6     |]
+
+X:0
+T:Lydian/Major (4-gap, fa/ti) Hexatonic Scales
+L:1/4
+M:9/4
+K:DbLyd
+"^D flat"  D2 EF ABc d2|d2 cB AFE D2||
+M:9/4
+K:AbLyd
+"^A flat"  A2 Bc efg a2|a2 gf ecB A2||
+M:9/4
+K:EbLyd
+"^E flat"  E2 FG Bcd e2|e2 dc BGF E2||
+M:9/4
+K:BbLyd
+"^B flat"  B2 cd fga b2|b2 ag fdc B2||
+M:9/4
+K:FLyd
+"^F"       F2 GA cde f2|f2 ed cAG F2||
+M:9/4
+K:C
+"^C"       C2 DE GAB c2|c2 BA GED C2||
+M:9/4
+K:G
+"^G"       G2 AB def g2|g2 fe dBA G2||
+M:9/4
+K:D
+"^D"       D2 EF ABc d2|d2 cB AFE D2||
+M:9/4
+K:A
+"^A"       A2 Bc efg a2|a2 gf ecB A2||
+M:9/4
+K:E
+"^E"       E2 FG Bcd e2|e2 dc BGF E2|]
+
+
+6. The Minor/Phrygian Hexatonic Mode
+== =================================
+
+The MINOR/PHRYGIAN HEXATONIC mode has interval sequence mTT STT.  On the
+white notes this could either have tonal centre A with B omitted or tonal
+centre E with F omitted.  It's Acdefga in A.  In sol-fa it's either the
+la-mode with ti omitted or the mi-mode with fa omitted.
+
+X:0
+T:The Minor/Phrygian (la/mi) Hexatonic Scale
+M:9/4
+L:1/4
+K:AMin
+P:la -ti
+"_la"A2 "_do"c "_re"d "_mi"e "_fa"f "_so"g "_la"a2 |\
+"_la"a2 "_so"g "_fa"f "_mi"e "_re"d "_do"c "_la"A2||
+K:EPhr
+P:mi -fa
+"_mi"E2 "_so"G "_la"A "_ti"B "_do"c "_re"d "_mi"e2 |\
+"_mi"e2 "_re"d "_do"c "_ti"B "_la"A "_so"G "_mi"E2|]
+
+It's not very common.  This is a guiser's song from the "Goloshins" New
+Year drama.  It seems to be related to the "Ball of Kirriemuir" tune.
+
+X:0
+T:Once I was Dead, Sir, but Now I am Alive
+G:guising song
+S:Katherine Campbell, The Fiddle in Scottish Culture, 2007
+M:2/4
+L:1/8
+Q:1/4=100
+K:EMin
+z2 |A2  G>B|E2  E>E|G>G   G>A  |B2
+z2 |cc  ce |d2  B>G|A>B   A>G  |E2
+zE |G>G G>B|E>E E>E|GG    A2   |B2
+zG |c>B c<e|d B2 G |A>B   A<G  |E2
+B>A|G<G G<B|E<E EE |G>G   G<A  |B2
+zB |cB  c<e|dB  zG |A/Bz/ A/Gz/|E2|]
+
+This weird tune comes from a limited-circulation sheet published for
+Alexander Campbell (later the editor of "Albyn's Anthology" of Highland
+music) late in the 18th century.  It seems never to have been reprinted
+since, and there's no indication of where Campbell got it, unless he
+wrote it himself, which given his limited talents is unlikely.  It would
+be a natural companion for one of the many reels in A major/mixolydian
+hexatonic.
+
+X:0
+T:Miss McLaine of Tarloisk's Strathspey
+S:Alexander Campbell sheet with first tune Balthayoch House
+B:NLS Glen.348(15)
+N:another copy in Wighton Collection, Dundee
+M:C
+L:1/8
+Q:1/4=88
+K:F#Min
+% minor/phrygian hexatonic
+A>FE<C {C}E2E2|A<FF>E {E}F2F2|A>FEd {d}cB/A/B2|[BE][BE] {d}cB/A/ {A}F2F2||
+E>F Ec/e/    d/c/B/A/ e3/c//A//|F<f     Tf>e      a>e f2|\
+e2  d/c/B/A/ B/A/B/c/ e/d/c/B/ |c/e/f/e/ d/c/B/A/ F2  F2|
+A>FE<C {C}E2E2|A<FF>E {E}F2F2|A>FEd {d}cB/A/B2|[BE][BE] {d}cB/A/    F2F2|]
+
+This tune (somewhat more accessible, but not widely sung today) only has
+the second as an unimportant leading note:
+
+X:0
+T:O Poortith Cauld
+S:222 Popular Scottish Songs with Music (1868)
+N:words by Burns
+M:3/4
+L:1/8
+Q:1/4=100
+K:CMin
+% essentially minor/phrygian hexatonic
+E2 |E>E E2 e>c  |BG  F3G   |E>E      E3F|GC3
+zD |E>E E2 ec   |B>G F3G   |E>E      E3F|GC3||
+E2 |A>A A3  B   |AG  G3B   |G>F      F3G|Gc3
+c>B|Bc  e2 ef/g/|fe  c3e/c/|B/G/F/E/ E3F|GC3|]
+
+This is more familiar:
+
+X:0
+T:Bide Ye Yet
+S:Kerr's Merry Melodies book 1
+N:originally known as "Hit Her on the Bum"
+M:6/8
+L:1/8
+Q:3/8=116
+K:EMin
+% minor/phrygian hexatonic
+d|BAB G2A|Bcd cBA|BAB G2A|B2e e2d|
+  BAB G2A|Bcd cBA|BAB G2A|B2e e2:|
+d|B2g g2d|B2d d2A|B2g gab|B2e e2d|
+  B2g gab|Bcd cBA|BAG G2A|B2e e2:|
+
+On the pipes minor/phrygian hexatonic can be the B-mode with the C-gap
+hexatonic pitch set; the other way, as the F-mode on the G-gap set,
+never occurs.
+
+X:0
+T:He's Over the Hill that I Love Well
+S:Cabar Feidh Collection
+M:2/4
+L:1/16
+Q:1/4=84
+K:BMin
+   f>e|d2B2 B2A>B|G2B2   B2A>B |d2d>e f>de>f|A4 A2
+[1 f>e|d2B2 B2A>B|G2B2   B2A>B |d2d>e f>de>f|B4 B2:|
+[2 f>e|d2B2 B3A  |B2d2   e3f   |g2f>e g>fe>d|B4 B2||
+   e>f|g3a  g2e2 |f>ef<a g>fe>f|d2d>e f>de>f|A4 A2
+[1 e>f|g3a  g2e2 |f>ef<a g>fe>f|d2d>e f>de>f|B4 B2:|
+[2 f>e|d2B2 B3A  |B2d2   e3f   |g2f>e g>fe>d|B4 B2|]
+
+X:0
+T:Minor/Phrygian (2-gap, la/mi) Hexatonic Scales
+L:1/4
+M:9/4
+K:FMin
+"^F"       F2 AB cde f2|f2 ed cBA F2||
+M:9/4
+K:CMin
+"^C"       C2 EF GAB c2|c2 BA GFE C2||
+M:9/4
+K:GMin
+"^G"       G2 Bc def g2|g2 fe dcB G2||
+M:9/4
+K:DMin
+"^D"       D2 FG ABc d2|d2 cB AGF D2||
+M:9/4
+K:AMin
+"^A"       A2 cd efg a2|a2 gf edc A2||
+M:9/4
+K:EPhr
+"^E"       E2 GA Bcd e2|e2 dc BAG E2||
+M:9/4
+K:BPhr
+"^B"       B2 de fga b2|b2 ag fed B2||
+M:9/4
+K:F#Phr
+"^F sharp" F2 AB cde f2|f2 ed cBA F2||
+M:9/4
+K:C#Phr
+"^C sharp" C2 EF GAB c2|c2 BA GFE C2||
+M:9/4
+K:G#Phr
+"^G sharp" G2 Bc def g2|g2 fe dcB G2|]
+
+
+7. Summary of the Hexatonic Modes
+== ==============================
+
+X:0
+T:The Hexatonic Scales based on A
+L:1/4
+M:9/4
+K:A
+"^Lydian/Major Hexatonic"       A2 Bc efg a2|a2 gf ecB A2||
+M:9/4
+K:A
+"^Major/Mixolydian Hexatonic"   A2 Bc def a2|a2 fe dcB A2||
+M:9/4
+K:ADor
+"^Mixolydian/Dorian Hexatonic"  A2 Bd efg a2|a2 gf edB A2||
+M:9/4
+K:AMin
+"^Dorian/Minor Hexatonic"       A2 Bc deg a2|a2 ge dcB A2||
+M:9/4
+K:AMin
+"^Minor/Phrygian Hexatonic"     A2 cd efg a2|a2 gf edc A2|]
+
+=============================================================================
+==  (c) Jack Campin          http://www.campin.me.uk/           June 2014  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

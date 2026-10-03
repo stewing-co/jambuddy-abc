@@ -1,0 +1,17 @@
+X:1103
+T:N.11 Raymundo
+C:Fonseca, Eduardo da (1863-1938)
+M:4/4
+L:1/4
+K:G
+V: 3 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 3 }]
+%--
+[Q:"Marcial"] !f! (3D/D/D/ (3D/D/D/ D/z/ [CD]/z/ | [B,D]/z/ [B,D]/z/ [B,D]/z/ z ||\
+"Pizz." z B,/z/ z C/z/ | z [B,]/z/ [B,]/z/ z | "Arco" F2 G ^C | D/z/ D/z/ D/z/  z | \
+"Pizz." z B,/z/ z C/z/ | z B,/z/ B,/z/ z | z D/z/ z ^C/z/ | z D/z/ F/z/ z | \
+(ADGD|FDF)z| FB,EB, | ^DB,Dz | "Pizz." E/z/ E/z/ E/z/ E/z/ | \
+[B,D]/z/ [B,D]/z/ [B,D]/z/ [B,D]/z/ | [CD]/z/ [CD]/z/ [CD]/z/ [CD]/z/ | \
+"Arco"  [B,D]/z/ [B,D]/z/ [B,D]/z/ z |] \
+%--

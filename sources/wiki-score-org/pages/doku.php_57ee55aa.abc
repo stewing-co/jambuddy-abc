@@ -1,0 +1,53 @@
+X:3416
+T:Coro
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:E
+V: 16 clef=alto name="Alto" sname="A."
+%%MIDI program 1 1
+%%staves [[ 16 ]]
+%-----------------------------
+[Q:"Allegro"] Z15 | G G/> G/ G G | A/> A/ A z2 | \
+w: Tu, che sul car-ro lu-ci-do
+A A/> A/ A A | G G z \
+w: por-ti,e nas-con-di'il gior-no
+G | AAAA | GG z2 | \
+w: e'o-gnor l'is-te-sso,e va-rio|
+A A/> A/ A A | GG z2 | \
+w: nas-ci,ed al-le-gri'in-tor-no
+G G/> G/ GG | F z3 | \
+w:l'au-re, la ter-ra,'il mar;
+F F/> F/ F F | F/> F/ F z2 | \
+w:  Tu, che sul car-ro lu-ci-do
+F F/> F/ F F | F F z \
+w:por-ti,e nas-con-di'il-gio-rno
+F | G G G G | F F z2 | \
+w:E'o-gnor l'is-tes-so,e va-rio |
+G G/> G/ G G | F F z2 |
+w: nas-ci'ed al-le-gri'in-tor-no |
+G G/> G/ F ^A | B2 z2 | \
+w:l'au-re, la ter-ra,il mar
+E E/> E/ F F | G2 G2 | \
+w: nas-ci,ed al-le-gri'in-tor-no
+F F/> F/ F F | F z3 | \
+w:l'au-re, la ter-ra'eil mar
+G G/> G/ F ^A | B z3 | \
+w:l'au-re, la ter-ra,e'il  mar |
+G G/> G/ F F | F z3 | Z7 | \
+w:l'au-re la ter-ra,il mar |
+[K:D]  F F/> F/ F>F  | \
+w:Ques-te sve-na-te |
+F/> F/ F z2 | A A/> A/ A>A | \
+w:vit-ti-me| ques-te sve-na-te
+A/> A/ A z F | E D z A | \
+w:vit-ti-me ac-cet-ta ac-
+A A z A | (A2 G F ) | F E z2 |\
+w:cet-ta, e il nos-tro | co-re |
+A A/> A/ A A | B/> B/ B z2 | \
+w:E la tua Ro-di piac-cia-ti
+E A/> A/ A A | A A z A | \
+w: Con-tro l'os-til fu-ro-re In-
+B B A G | F2 z A | B B A A | A2 z2 ||
+w:vit-ta'o-gnor ser-bar in-vit-ta'o-gnor ser-bar
+%-----------------------------

@@ -1,0 +1,50 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka  FC
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.323 (pk02125) orig. F,C
+T: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+ae |: "F"fcAc F2ae | fcAc F2cc | "C7"c2eg b2e2 | "F"fefg a2ae | fcAc F2ae | fcAc F2cc | 
+"C7"c2eg b2e2 |1 "F"f2f2 f2ae :|2 "F"f2f2 f2G2 |: [K:C] "C"g2ag ecGc | g2ag eGce | "G7"d2de f2B2 | 
+"C"cBcd e2G2 | g2ag eGce | g2ag eGce | "G7"d2de f2B2 |1 "C"c2c2 c2G2 :|2 "C"c2c2 c2z2 |] 
+ % pk02125  (Oct 4, 2016)
+
+X:2
+T:Polka  FC  (pk02125)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.323 (pk02125) orig. F,C
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+ae |: "F"fcAc F2ae | fcAc F2cc | "C7"c2eg b2e2 | "F"fefg a2ae | fcAc F2ae | fcAc F2cc | 
+"C7"c2eg b2e2 |1 "F"f2f2 f2ae :|2 "F"f2f2 f2G2 |: [K:C] "C"g2ag ecGc | g2ag eGce | "G7"d2de f2B2 | 
+"C"cBcd e2G2 | g2ag eGce | g2ag eGce | "G7"d2de f2B2 |1 "C"c2c2 c2G2 :|2 "C"c2c2 c2z2 |] 
+ % pk02125 
+
+X:3
+T:Polka  CG 5-  (pk02125)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.323 (pk02125) orig. F,C
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:polka
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+eB |: "C"cGEG C2eB | cGEG C2GG | "G7"G2Bd f2B2 | "C"cBcd e2eB | cGEG C2eB | cGEG C2GG | 
+"G7"G2Bd f2B2 |1 "C"c2c2 c2eB :|2 "C"c2c2 c2D2 |: [K:G] "G"d2ed BGDG | d2ed BDGB | "D7"A2AB c2F2 | 
+"G"GFGA B2D2 | d2ed BDGB | d2ed BDGB | "D7"A2AB c2F2 |1 "G"G2G2 G2D2 :|2 "G"G2G2 G2z2 |] 
+% pk02125  (Oct 4, 2016)

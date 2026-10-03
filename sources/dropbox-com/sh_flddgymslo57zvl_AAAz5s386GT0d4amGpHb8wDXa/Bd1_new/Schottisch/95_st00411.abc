@@ -1,0 +1,59 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.204f (st00411) orig. C,G,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"EGce d2c2 | "G7"c2B2 a2a2 | c2B2 a2a2 | "C"d2c2 c'2c'2 | EGce d2c2 | "G7"c2B2 a2a2 | 
+g2fg bafB | "C"c2e2 c2z2 :: [K:G] "G"d2Bd g2dg | b2gb d'4 | "D7"c'bag fedf | "G"gbdg B4 | 
+d2Bd g2dg | b2gb d'4 | "D7"c'bag fedf | "G"g2b2 g2"_> Teil A"z2 :| [K:F] "F"A2c2 "Bb"B2d2 | 
+"F"c2a2 agab | "C7"a2g2 c2e2 | "F"gfed  c4 | A2c2 "Bb"B2d2 | "F"c2a2 agab | "G7"a2g2 "C7"c'3e | 
+"F"f2a2 f2z2 || "Bb"Tf2ef gfed | "F"c2fa A2cf | "C7"B2cg G2Be | "F"f2a2 gfed | 
+"Bb"Tf2ef gfed | "F"c2fa A2cf | "C7"cdef g2c'2 | "F"f2a2 f2z2 |] 
+
+X:2
+T: Schottisch CGF chords Parts
+P:ABACD
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+[P:A] "C"EGce d2c2 | "G7"c2B2 a2a2 | c2B2 a2a2 | "C"d2c2 c'2c'2 | EGce d2c2 | "G7"c2B2 a2a2 | 
+g2fg bafB | "C"c2e2 c2z2 :: [P:B] [K:G] "G"d2Bd g2dg | b2gb d'4 | "D7"c'bag fedf | "G"gbdg B4 | 
+d2Bd g2dg | b2gb d'4 | "D7"c'bag fedf | "G"g2b2 g2"_> Teil A"z2 :| [P:C] [K:F] "F"A2c2 "Bb"B2d2 | 
+"F"c2a2 agab | "C7"a2g2 c2e2 | "F"gfed  c4 | A2c2 "Bb"B2d2 | "F"c2a2 agab | "G7"a2g2 "C7"c'3e | 
+"F"f2a2 f2z2 || [P:D] "Bb"Tf2ef gfed | "F"c2fa A2cf | "C7"B2cg G2Be | "F"f2a2 gfed | 
+"Bb"Tf2ef gfed | "F"c2fa A2cf | "C7"cdef g2c'2 | "F"f2a2 f2z2 |] 
+
+X:3
+T: Schottisch CGF chords (align)
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"EGce d2c2 | "G7"c2B2 a2a2 | c2B2 a2a2 | "C"d2c2 c'2c'2 | EGce d2c2 | "G7"c2B2 a2a2 | \
+g2fg bafB | "C"c2e2 c2z2 :: [K:G]
+ "G"d2Bd g2dg | b2gb d'4 | "D7"c'bag fedf | "G"gbdg B4 | \
+d2Bd g2dg | b2gb d'4 | "D7"c'bag fedf | "G"g2b2 g2"_> Teil A"z2 :|
+ [K:F] "F"A2c2 "Bb"B2d2 | \
+"F"c2a2 agab | "C7"a2g2 c2e2 | "F"gfed  c4 | A2c2 "Bb"B2d2 | "F"c2a2 agab | "G7"a2g2 "C7"c'3e | \
+"F"f2a2 f2z2 ||
+ "Bb"Tf2ef gfed | "F"c2fa A2cf | "C7"B2cg G2Be | "F"f2a2 gfed | \
+"Bb"Tf2ef gfed | "F"c2fa A2cf | "C7"cdef g2c'2 | "F"f2a2 f2z2 |] 
+
+X:4
+T: Schottisch CGF chords (Anm)
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"EGce d2c2 | "G7"c2"_h"B2 "_a"a2a2 | c2B2 a2a2 | "C"d2c2 c'2c'2 | EGce d2c2 | "G7"c2"_h"B2 "_a"a2a2 | \
+g2"_f"fg "_h"b"_a"a"_f"f"_h"B | "C"c2e2 c2z2 :: [K:G]
+ "G"d2Bd g2dg | b2gb d'4 | "D7""_()"c'"_h"ba"_a"g fe"_d"df | "G"gbdg B4 | \
+d2Bd g2dg | b2gb d'4 | "D7"c'bag fedf | "G"g2b2 g2"_> Teil A"z2 :|
+ [K:F] "F"A2c2 "Bb""_b"B2"_d"d2 | \
+"F"c2a2 agab | "C7"a2"_g"g2 c2"_e"e2 | "F"gfed  c4 | A2c2 "Bb"B2d2 | "F"c2a2 agab | "G7"a2g2 "C7"c'3e | \
+"F"f2a2 f2z2 ||
+ "Bb"Tf2"_e"ef "_g"gf"_e"ed | "F"c2fa A2cf | "C7""_b"B2c"_g"g "_g"G2"_b"B"_ e ="e | "F"f2a2 gfed | \
+"Bb"Tf2ef gfed | "F"c2fa A2cf | "C7"cdef g2c'2 | "F"f2a2 f2z2 |] 

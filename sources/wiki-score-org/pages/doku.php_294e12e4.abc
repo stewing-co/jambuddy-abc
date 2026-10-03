@@ -1,0 +1,37 @@
+X:307
+T:Virtu
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:F
+V: 7 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 7 }]
+%-----------------------------------------------------------------------------------------------
+[Q:"Andante"] z//f//f//f// | f/(c///B///A///G///) F//a//a//a// a/(c///d///e///f///) F//c'//c'//c'// | \
+c'/(c///B///A///G///) F//c'//a//f// [FAc]2 | Z | x2 x/>_e/e/>e/ & z2 z/>G/G/>G/ | d4 | \
+z/>G/G/>G/ [FAf]2 -| [FA_e]4 | z//B//F//D// B,/f///_e///d///c/// B/F///_E///D///C/// B, | \
+[Bd]2 [Gc]2 -| [Gc]2 [Bg]2 -| [Bg]2 [^fa]2 -| [^fa]4| \
+z/>[gb]/[gb]/>[gb]/ =g2 | f2 [c_e]2 -| [c_e]2 d2 -| d2 z [=Bd] | \
+[Q:"Allegro"] [c_e] z//c//_e//g// c'//c//g///f///_e///d/// c/_e///d///c///B/// | \
+[_Ac]4|[=Ac]4| z//B//d//f// b//f//b///f///_e///d/// B z | \
+z2 [Bg]2 -| [Bg]4| [Af]2 [^fa]2 -| [^fa]2 [gb]2 | z4| z ^c'd'z || \
+[M:3/8][Q:"Afettuoso"][L:1/8] ab^c| {^c}d2^G| {^G}A2a|gfe|(3a/g/f/ ed | (3a/g/f/ ed | \
+(3a/g/f/ d^g|{^g}a2e| ddd | ddd | ccc| BBB | BBB| AA^c|dDz| Z3 | \
+zzg | (3c'/c/d/ _ee | "_NB: no flat in ms" (3_e/d/^c/ {c}d2 | (3d'/d/e/ ff | (3f/e/d/ {d}e2 | \
+bag | (3d'/d/d/ dd | (3d'/d/d/ dd | (3d'/b/a/ (3g/f/e/ (3d/e/^c/ | \
+"NB: no sharp in ms" {^c}d3/2e///f///g///a/// b/>d/ | A !trill!e2 | dAF | !p!DGA | D2z| \
+{ef}gfe | (3a/g/f/ {e}d2 | A,A,A, | EEE | \
+FFD | CEC | "_NB: check '" _a2z | _A2z | =BBB | ceg- | gfe | c'/<a/ gf | d'fe | \
+{e}f2b | (3a/g/f/ g2 | z/!f!f/a/c/c/"_NB:check grace note"{f}e/ | ed/>^c/d | z/g/=b/d'/d'/f/ | \
+fe/d/e | aaa | ggg | ggg | fff | fez | (3c'/c/c/ cc | (3d/d'/c'/ (3b/a/g/ (3f/g/e/ | \
+{e}f3/2g///a///b///c'/// d'/>f/ | c !trill!g2 | fcA | FB,C | A,Fz | \
+ba/<g/f/<e/ | (3a/g/f/ {e}d2 | DDD | D^CD | DDB,| A,2^c | ddd | ddd | eef | \
+gfe | f/<d/f2 | a/<^f/ a2 | c'da | b/a/gd | bgf | e/<c/e2 | g/<e/g2 | bcg | \
+a/g/fz | (3c'/c/d/ _ee | (3e/d/^c/ {c}d2 | (3d'/d/e/ ff | (3f/=e/d/ eg-|gfe| \
+(3a/g/f/ ed |(3a/g/f/ ed | (3a/g/f/ d^g | {^g}!fermata!a2z| Z2 |\
+!f!ab^c|{^c}d2^G| {^G}A2a|gfe|(3d'/d/d/ dd|(3d'/d/d/ dd| (3d'/b/a/ (3g/f/e/ (3d/e/^c/ | \
+{^c}d3/2e///f///g///a/// b/>d/ | Ae2 | (3d/A/F/ D || \
+z |Z3 | zef | g2z | g2z | ba/<g/f/<e/ | (3f/e/d/ fg | a2z | a2z | z3 | zg_e | \
+dba | ^gaf  | e^g>a | ea>=b | e=bz | !fermata!z3| Z3 |] \
+%-----------------------

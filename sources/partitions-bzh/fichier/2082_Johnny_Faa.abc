@@ -1,0 +1,42 @@
+%%straightflags 1
+%%flatbeams 1
+%%tuplets 2 1 0 1
+%%strechbars
+%%stretchlast 0
+%%printtempo 0
+%%pagewidth 21cm 
+%%pageheight 29.7cm
+%%titlefont Helvetica-Bold 24
+%%subtitlefont Helvetica-Bold 16
+%%composerfont Helvetica-Bold 14
+%%infofont Helvetica-Bold 14
+%%vocalfont Helvetica-Bold 10
+%%partsfont Helvetica-Bold 10
+%%ps /tsig{ 1 add M gsave/Helvetica 14 selectfont currentpoint 3 -1 roll showc 12 add M showc grestore}!
+%%titlespace 0
+%%topspace 0
+%%sysstaffsep 0
+%%staffsep 0
+%%graceword 0
+%%topmargin 1cm
+%%landscape 1
+%%pagescale .8
+%%titleformat R-1 T0 C1
+%%MIDI gracedivider 100
+%%vskip 10cm
+X:1
+T:Johnny Faa
+T:Wae's Me For Prince Charlie
+T:The Bonnie House O' Airlie
+C:Traditional
+C:Arrgt: Renaud Olgiati 2019
+R:Lament
+M:4/4
+Q:75
+K:HP
+%%vskip 1cm
+yye1|{g}A2{G}A1B1 {GdGc}d3 c1|{gBd}B3/2{G}A/2 B1{GdGc}d1 {g}e3 f1|{g}A3B1 {GdGc}d/2f3/2 {g}e/2d3/2|{cece}B4 {G}A3 G1 |!
+yyy{g}A2{G}A1B1 {GdGc}d3 c1|{gBd}B3/2{G}A/2 B1{GdGc}d1 {g}e3 f1|{g}A3B1 {GdGc}d/2f3/2 {g}e/2d3/2|{cece}B4 {G}A3|!
+ yyyyd1 |{g}e2{G}e1f1 {ag}a3f1|a/2f3/2 {g}e3/2f/2 {GdGc}d3f1|{g}e3f1 {ag}a3g1|{fg}f4 {g}e3d1|!
+yyy{g}e2{G}e1f1 {ag}a3f1|{gf}a/2f3/2 {g}e3/2d/2 {g}e3 f1|{g}A3B1 {GdGc}d/2f3/2 {g}e/2d3/2|{BdBd}B4 {G}A4|]
+

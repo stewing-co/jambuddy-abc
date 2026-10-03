@@ -1,0 +1,72 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: L\"andler GD chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.334 (LD05066) orig. G,D-Dur
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+d2 |: "G".b2!>!b3g | .g2!>!B3e | "D7"ed cD FA | "G"ed BG Bd | .b2!>!b3g | .g2!>!B3e | "D7"ed cD FA |1 "G"G2z2d2 :|2 "G"G2z2z2 || [K:D]
+|: "A7"A2Bc de | "D"fga3f | "A7"ef gA Bc | "D"dfA4 | "A7"A2Bc de | "D"fga3f | "A7"ef gA Bc |1 "D"d2z2z2 :|2 "D"d2"_>Teil A"z2d2 |] 
+
+X:2
+T: L\"andler GD chords Parts
+P:ABA
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+d2 [P:A] |: "G".b2!>!b3g | .g2!>!B3e | "D7"ed cD FA | "G"ed BG Bd | .b2!>!b3g | .g2!>!B3e | "D7"ed cD FA |1 "G"G2z2d2 :|2 "G"G2z2z2 || [K:D] [P:B] 
+|: "A7"A2Bc de | "D"fga3f | "A7"ef gA Bc | "D"dfA4 | "A7"A2Bc de | "D"fga3f | "A7"ef gA Bc |1 "D"d2z2z2 :|2 "D"d2"_>Teil A"z2d2 |] 
+
+X:3
+T:L\"andler CG 7- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G2 |: "C".e2!>!e3c | .c2!>!E3A | "G7"AG FG, B,D | "C"AG EC EG | .e2!>!e3c | .c2!>!E3A | "G7"AG FG, B,D |1 "C"C2z2G2 :|2 "C"C2z2z2 || [K:Gmaj]
+|: "D7"D2EF GA | "G"Bcd3B | "D7"AB cD EF | "G"GBD4 | "D7"D2EF GA | "G"Bcd3B | "D7"AB cD EF |1 "G"G2z2z2 :|2 "G"G2"_>Teil A"z2G2 |] 
+
+X:4
+T:L\"andler CG 7- chords Parts
+P:ABA
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G2 [P:A] |: "C".e2!>!e3c | .c2!>!E3A | "G7"AG FG, B,D | "C"AG EC EG | .e2!>!e3c | .c2!>!E3A | "G7"AG FG, B,D |1 "C"C2z2G2 :|2 "C"C2z2z2 || [K:Gmaj] [P:B] 
+|: "D7"D2EF GA | "G"Bcd3B | "D7"AB cD EF | "G"GBD4 | "D7"D2EF GA | "G"Bcd3B | "D7"AB cD EF |1 "G"G2z2z2 :|2 "G"G2"_>Teil A"z2G2 |] 
+
+X:5
+T:L\"andler FC 2- chords
+M:3/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+c2 |: "F".a2!>!a3f | .f2!>!A3d | "C7"dc BC EG | "F"dc AF Ac | .a2!>!a3f | .f2!>!A3d | "C7"dc BC EG |1 "F"F2z2c2 :|2 "F"F2z2z2 || [K:Cmaj]
+|: "G7"G2AB cd | "C"efg3e | "G7"de fG AB | "C"ceG4 | "G7"G2AB cd | "C"efg3e | "G7"de fG AB |1 "C"c2z2z2 :|2 "C"c2"_>Teil A"z2c2 |] 
+
+X:6
+T:L\"andler FC 2- chords Parts
+P:ABA
+M:3/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+c2 [P:A] |: "F".a2!>!a3f | .f2!>!A3d | "C7"dc BC EG | "F"dc AF Ac | .a2!>!a3f | .f2!>!A3d | "C7"dc BC EG |1 "F"F2z2c2 :|2 "F"F2z2z2 || [K:Cmaj] [P:B] 
+|: "G7"G2AB cd | "C"efg3e | "G7"de fG AB | "C"ceG4 | "G7"G2AB cd | "C"efg3e | "G7"de fG AB |1 "C"c2z2z2 :|2 "C"c2"_>Teil A"z2c2 |] 
+
+X:7
+T:L\"andler EbBb (5letras) cf. CG Parts
+P:ABA
+M:3/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+B2 [P:A] |: "Eb".g2!>!g3e | .e2!>!G3c | "Bb7"cB AB, DF | "Eb"cB GE GB | .g2!>!g3e | .e2!>!G3c | "Bb7"cB AB, DF |1 "Eb"E2z2B2 :|2 "Eb"E2z2z2 || [K:Bbmaj] [P:B] 
+|: "F7"F2GA Bc | "Bb"def3d | "F7"cd eF GA | "Bb"BdF4 | "F7"F2GA Bc | "Bb"def3d | "F7"cd eF GA |1 "Bb"B2z2z2 :|2 "Bb"B2"_>Teil A"z2B2 |] 
+
+X:8
+T:L\"andler AbEb (5letras) cf. FC Parts
+P:ABA
+M:3/4
+L:1/8
+K:Abmaj%%MIDI gchordon
+e2 [P:A] |: "Ab".c'2!>!c'3a | .a2!>!c3f | "Eb7"fe dE GB | "Ab"fe cA ce | .c'2!>!c'3a | .a2!>!c3f | "Eb7"fe dE GB |1 "Ab"A2z2e2 :|2 "Ab"A2z2z2 || [K:Ebmaj] [P:B] 
+|: "Bb7"B2cd ef | "Eb"gab3g | "Bb7"fg aB cd | "Eb"egB4 | "Bb7"B2cd ef | "Eb"gab3g | "Bb7"fg aB cd |1 "Eb"e2z2z2 :|2 "Eb"e2"_>Teil A"z2e2 |] 

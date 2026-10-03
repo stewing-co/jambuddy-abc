@@ -1,0 +1,235 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XIX. Shall I sue
+T:Canto.
+C:John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:3/2
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:G dor
+B A G2 d c | B2 A2 G2 |
+w: 1.~Shall I sue shall I seeke for grace?
+w: 2.~Sil- ly wretch for- * sake these dreames,
+w: 3.~Pit- tie is but a poore de- fence,
+w: 4.~Jus- tice gives each * man his owne
+A > B c2 | B > c A6 |
+w: Shall I pray shall I prove?
+w: of a vaine de- * sire
+w: for a dy- ing * hart,
+w: though my love bee * just,
+G > A B2 (c c) d2 e2 f2 |
+w: Shall I strive to a heaven- ly Joy, 
+w: o be- thinke what * hie  re- gard,
+w: La- dies eies re- * spect no mone,
+w: Yet will not shee * pittie my griefe,
+d d c2 ( A A) G6 
+w: with an earth- ly * love?
+w: ho- ly hopes doe re- quire.
+w: in a meane de- * sert.
+w: there- fore die I * must,
+|: d d g2 f _e | d2 c B A2 |
+w: Shall I think that a bleed- ing * hart
+w: Fa- vour is as faire as things * are,
+w: Shee * is to * wor- thie *  far,
+w: Sil- ly hart then * yeeld to * die,
+B2 G c2 B A6 |
+w: Or a wound- ed eie,
+w: Trea- sure is not bought,
+w: for a worth so base,
+w: per- ish in dis- paire,
+G A B2 (c c) d2 g2 f2 |
+w: Or a sigh can as- cend the cloudes
+w: Fa- vour is not * wonne with words,
+w: Cru- ell and but * just is shee,
+w: Wit- nesse yet how * faine I die,
+ d d c2 (A A) G6 :|
+w: to at- taine so * hie.
+w: nor the wish of a thought.
+w: in my just dis- * grace.
+w: When I die for the faire.
+
+X:2
+T:XIX. Shall I sue
+T:Alto.
+C:John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:3/2
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:Gdor
+N:Original clef, C on second line
+G A B2 (A A) G2 ^F > E D2
+w: 1.~Shall I sue shall I seeke for * grace?
+w: 2.~Sil- ly wretch for- * sake these * dreames,
+w: 3.~Pit- tie is but a poore de- * fence,
+w: 4.~Jus- tice gives each * man his * owne
+F F A2 (G G) ^F6
+w: Shall I pray shall I prove?
+w: of a vaine de- * sire
+w: for a dy- ing * hart,
+w: though my love bee * just,
+D D G3 (A/ A/) B2 c B A F
+w: Shall I strive to a heav- en- ly Joy,  *
+w: o be- thinke what * hie re- * gard, *
+w: La- dies eies re- * spect no * mone, *
+w: Yet will not shee * pit- tie my griefe, *
+B > A G2 (^F ^F) G6
+w: with an earth- ly * love?
+w: ho- ly hopes doe re- quire.
+w: in a meane de- * sert.
+w: there- fore die I * must,
+|:F B B (G/ G/) c > B A B A G F2 
+w: Shall I think that a bleed- ing hart, a bleed- ing hart
+w: Fa- vour is as faire as things  are, as things * are,
+w: Shee * is to * wor- thie  far, to  wor- thie  far,
+w: Sil- ly hart then * yeeld to  die, then  yeeld to  die,
+D2 E F2 G ^F6 
+w: Or a wound- ed eie,
+w: Trea- sure is not bought,
+w: for a worth so base,
+w: per- ish in dis- paire,
+D D G (D/ D/) A2 F B2 G A c B3/2
+w: Or a sigh can as- cend the cloudes, as- cend the cloudes
+w: Fa- vour is not * wonne with words, not wonne with words,
+w: Cru- ell and but just is shee, but just is shee,
+w: Wit- nesse yet how * faine I die, how faine I die,
+A/ (G G) (^F ^F) G6 :|
+w: to at- taine so * hie.
+w: nor the wish of a thought.
+w: in my just * dis- * grace.
+w: When I die for the faire.
+
+X:3
+T:Tenore.
+T:XIX. Shall I sue
+C:John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:3/2
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on third line
+K: G dor -8va
+%%MIDI transpose -12
+d3 d d2 d d d A B2 
+w: 1.~Shall I sue shall I seeke for grace?
+w: 2.~Sil- ly wretch for- * sake these dreames,
+w: 3.~Pit- tie is but a poore de- fence,
+w: 4.~Jus- tice gives each man his * owne
+(c c) f2 (d d) d6
+w: Shall  I pray shall I prove?
+w: of a vaine de- * sire
+w: for a dy- ing * hart,
+w: though * my love bee  just, 
+B > c (d > d) e (f f) g c3 
+w: Shall I strive to a heav- en- ly Joy, 
+w: o be- thinke * what hie * re- gard,
+w: La- dies eies * re- spect * no mone,
+w: Yet will not * shee pit- tie my griefe,
+d2 B _e2 d > c =B6
+w: with an earth- ly * love?
+w: ho- ly hopes doe re- quire.
+w: in a meane de- * sert.
+w: there- fore die I * must,
+|: z d2 e f (c/ c/) d3 G A
+w: Shall I think that a bleed- ing hart
+w: Fa- vour is as faire as things are,
+w: Shee is to wor- thie far,
+w: Sil- ly hart then * yeeld to die,
+d2 G2 A D d d6
+w: Or a wound- ed * eie,
+w: Trea- sure is not * bought,
+w: for a worth, for a worth, so  base,
+w: per- ish in dis- * paire,
+B > c d (B/ B/) f3 B2 c2 A G 
+w: Or a sigh can as- cend the cloudes, the cloudes,
+w: Fa- vour is not * wonne with words, with words,
+w: Cru- ell and but * just is shee, is shee,
+w: Wit- nesse yet  how * faine I die, I die,
+(g g) _e d > c =B6 :|
+w: to * at- taine so hie.
+w: nor the wish of a thought.
+w: in my just dis-  * grace.
+w: When I die for the faire.
+
+X:4
+T:XIX. Shall I sue
+T:Basso.
+C:John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:3/2
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:Gdor bass
+%%MIDI transpose -24
+g3 g ^f2 g G d c B2 
+w: 1.~Shall I sue shall I seeke for grace?
+w: 2.~Sil- ly wretch for- * sake these dreames,
+w: 3.~Pit- tie is but a poore de- fence,
+w: 4.~Jus- tice gives each * man his owne
+A A F2 (G G) d6
+w: Shall I pray shall I prove?
+w: of a vaine de- * sire
+w: for a dy- ing * hart,
+w: though my love bee * just,
+g3 g c (f/ f/) (B B) A G F 
+w: Shall I strive to a heav- * en- ly Joy, 
+w: o be- thinke what * hie * re- * gard,
+w: La- dies eies re- * spect * no * mone,
+w: Yet will not shee * pit- tie my * griefe,
+B2 G c > A d2 G6
+w: with an earth- ly * love?
+w: ho- ly hopes doe re- quire.
+w: in a meane de- * sert.
+w: there- fore die I * must,
+|:b > a g2 a > g ^f g2 g d > c B2 
+w:  Shall I think, Shall I think, that a bleed- ing hart
+w: Fa- vour is, Fa- vour is, as faire as things are,
+w: Shee is to Shee is to wor- thie far, *
+w: Sil- ly hart, Sil- ly hart, then yeeld to * die,
+c A B G d6
+w: Or a wound- ed eie,
+w: Trea- sure is not bought,
+w: for a worth so * base,
+w: per- ish in dis- paire,
+g3 g a (f/ f/) b2 _e2 f2 
+w: Or a sigh can as- cend the cloudes
+w: Fa- vour is not * wonne with words,
+w: Cru- ell and but * just is shee,
+w: Wit- nesse yet how * faine I die,
+g g c2 ( d d) G6 :|  
+w: to at- taine so * hie.
+w: nor the wish of a thought.
+w: in my just dis- * grace.
+w: When I die for the faire.

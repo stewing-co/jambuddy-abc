@@ -1,0 +1,12 @@
+X:112
+T:[Orchestras]
+C:Giuseppe Totti (17__-1832)
+M:C
+L:1/4
+K:Bb
+V: 12 clef=treble name="Flauto [I]" sname="Fl.I"
+%%MIDI program 1 73
+%%staves [( 12 )]
+%----- edit between the lines ----
+[Q:"Allegro com spirito"]  !f! b z b z | b z z2 | z4 | !f! b > f b > f | b b b z | Z9 | z !f! a2 c' | b b d' b | a a2 c' | b b d' b | a z3 | Z6 | b > f b > f | d'3 b | g > d g > d | b > g =e z | z a a a | g z3  | z c' c' c' | d' z3 | d' z3 | d' z c' z | b z a z | g z a z  | b z a z | g z3  |Z2  | z c' c' a | g z3  | Z5 | z/4 d/4=e/4f/4 g/4a/4b/4c'/4 d'/2d'/4c'/4 b/2b/4a/4 | g z3  | Z | z2 z/2 c/2c/2c/2 | "^legato" f>a g>c' | b/2a/2g/2f/2 =e/2d/2b/2g/2 | d'/2c'/2 c'2 =e | f z3 | Z | z/4 B/4c/4d/4 =e/4f/4g/4a/4 b/4a/4g/4f/4 _e/4d/4c/4B/4 | A z3 | z2 g2 | a z3 | z2 a2 | b z3 | c'4 | d'4 | c' z3 | z c'2 c' | c' z3 | Z2 | c'3  g |  a a c' a | f a f f | f z3 | X | z b/4a/4b/4a/4 b b/4c'/4b/4a/4 | g z3 | Z2 | z2  z/2 (a/2b/2c'/2) | d'2 c'/2 (a/2b/2c'/2) | d'2 c' z | z2 z/2 (a/2b/2c'/2) | b a2  g | !f! f z f z | f z3 | X | f>c f>c | f f f z | Z14 | z !f! =b c' c' | =b z3 | z !f! e/2f/2 g/2g/2 {_a}g/2f/4e/4 | b z3 | z f g g | f z3 | X | e z e z | e>B e<B | g3 e | b>g b>g | e'3 c' | =a z a z | z f f b | a z3 | z f f f | g z3 | Z | e' z d' z | c' z d' z | e' z d' z | c' z3 | z/2 f/2f/2f/2 f/2e/4d/4 c/4B/4A/4G/4 | F z3 | z a b b | a z3 | Z4 | z/4 d/4e/4f/4 g/4a/4b/4c'/4 d'/2d'/4c'/4 b/2b/4a/4 | g z3 | Z2 | z2 z/2 f/2f/2f/2 | "^legato" b>d' c'>f' | e'/2d'/2c'/2b/2 a/2g/2e'/2c'/2 | {d'}c'/2b/2 b2 a | b z3 | X | z/4 c/4d/4e/4 f/4g/4a/4b/4 c'/4b/4a/4g/4 f/4e/4d/4c/4 | d z3 | z b a2 | b z3 | z g =b2 | c' c'2 c' | c'4 | d' z3 | b2 a2 | b z3 | Z2 | b2 a2 | b z3 | Z | z3 b | a z3 | X | z3 a | b g f a | b g f a | b d d d | d b b b | b z a z | b z3 |]
+%---------------------------------

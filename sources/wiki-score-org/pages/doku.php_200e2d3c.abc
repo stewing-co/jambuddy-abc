@@ -1,0 +1,45 @@
+X:105
+T:[O vos omnes] Adagio ma non troppo
+C:Costa, Abade Antonio da (1714-c1780)
+M:4/2
+L:1/2
+K:Eb
+V: 5 clef=treble name="Soprano I" sname="So.I"
+%%MIDI program 1 1
+%%staves [ 5 ]
+%----- edit between the lines ----
+[Q:"Adagio ma non troppo"] z | Z29 | z2 (f2 | =e2) (_e2 | e4 | e d d e) | d3 _d | (c4 | c B2) =B | c2 =B2 | e3 d- | d =B2 z | Z2 |
+w:O_ vos_____ om-nes qui__ tran-si-tis per vi--am,
+z2 z g- | g > _B- B/ =e/ (=d | d ^c2)  z | \
+w: at--ten--di-te__
+=g =A (f2 | f4 | f3 =e | =e) d3 | Z3 | z2 z
+w: et vi-de-----te
+(^f | g4 | g2 ^f) (=f | f4 | f2) =e2 - | e3 (_e | e d2) =c- | c (=B =d) (=f | f _e2) (d | d _B) =A z | z2 z \
+w: si est __ do---lor_ si---cut do---lor__ me---us
+=B | (g _e) =G  (=f | =e2) f c | _d2  _B _A - | A =F - F z | \
+w: si est_ do-lor_ si-cut do-lor me--us_
+z2 _e2 | =d2 (=f2 | _e2) g c | _e3 (=c | c _e2) (=G  | G ^F) z2 | Z4 |\
+w: si est do--lor si est do---lor__
+z2 z =e | (=A d2) (=c | c =A) d2 | =G =c2 (_B | B =A) d c- | c =B z2 | Z |
+w: si est_ do---lor si-cut do---lor me--us
+z2 d2 - |  d4 | (_e c) (g =f | _e) g2 (d | ^c) (G2 =E) | (=A d3 | c4 | c2 _B)  d- | d2 (B2 | B4 | B2) z2 | Z21 | \
+w: si_ est_ do---lor si--cut_ do-lor___ me--us__
+z2 (=e _e | e c d c) | (G2 F) (B | B =A2) e- | e (d3 | d4 | ^c2) (=c2 | c2) B =A- | A D2 z | Z |
+w: O vos____ omn-nes qui__ tran--si---tis_ per vi--am
+z2 c (e | e3 d | d) > c c (^F | =A) ^F2 d- | d G3 | =B3 G | d F > z z | Z7 |
+w: at-ten----di-te et_vi-de--te et vi-de-te
+z =B d g- | g2 (f2 | f =e) f2 - | f2 e2- |  e2 (_d2 | _d2 c) (B | B4 | =A2) B2- | B C > z z | Z7 |
+w: si est do--lor__ si--cut_ do---lor__ me--us
+z (c _d) c- | c (a =e) (f | _e) _d3- | d G2 (=e | _e4) | (_d2 _d2 | _d) c2 F- | F2 B2 | c4 | =B F2 z | Z |
+w: si_ est_ do--lor_ si--cut do--lor__ si-cut_ do-lor me-us
+z d2 g- | g2 (f2 | c2) e2 | Z |
+w: o vos_ om--nes
+z2 z e- | e (d e) f- | f (=B d) (f | f =e f) g- | g f2 z | Z |
+w: qui_ tran--si--tis_ per___ vi--am
+z (=e g) =e- | e > d d c | =B2 B2- | B2 =A2 | _B3 =B | (c2 =A) G- | G2 F2- | F z z2 | Z2 |
+w: at--ten--di-te et vi-de--te et vi-de--de--te_
+z2 z (c | d =B c) (e | e =d) _d2 - | d2 c2- | c _B2 (_c | B) (c =B2 | _B4 | B) < (=A d) c- | c =B/ z/ z2 | Z6 |
+w: si___ est__ do---lor_ si-cut_ do---lor_ me--us_
+z (=B d) (f | f e d) (f | f =e2) f- | f3 g | (f e2 d) | =A (e d) c- | c =B (f e | d c > =B) (g | g2 e2 | e2) c2- | c2 G2- | G2 z2 | Z7 | z2  |]
+w: si_ est___ do---lor_ si est__ do-lor_ si--cut do-----lor___ me--us._
+%---------------------------------

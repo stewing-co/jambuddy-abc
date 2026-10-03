@@ -1,0 +1,20 @@
+X:301
+T:N.3 Josepha, Ambrosio e Raimundo
+C:Fonseca, Eduardo da (1863-1938)
+M:2/4
+L:1/4
+K:C
+V: 1 clef=treble name="Flauta" sname="Fl."
+%%MIDI program 1 73
+%%staves [ 1 ]
+%---------------------
+z/g//g// g/g/ | a !trill!b | c'/z/ z | Z !segno! || \
+g (a/b/) | c'a| b2- | b z | b (a/g/)| ab|(a2|g)z| \
+g a/b/| c'a|b2-|bz|{c'}ba/^g/|^f^g/a/| b2-|b/(a/=g/{b}a/) || \
+ga/b/|c'a| b2 | bz | ba/g/ | ab | (a2 | g)z | ga/b/ | c'c' | c'2- | c'/(c'/b/c'/) | \
+gg/c'/|d'b/g/!coda!|c'/ c'/4c'/4 !/!c'| c'c'|| \
+[K: F]Z3| z/(b/!>!d'/c'/) | Z3| z/(a/!>!d'/c'/)|Z3 |z/(e'/!>!f'/e'/)| Z3 | \
+z/(c'/_b/g/) || f/z/z| Z2 | z/(b/!>!d'/b/)| Z3 | z/(a/!>!d'/c'/)| Z3 | \
+z/(f'/!>!e'/d'/)| Z2 | z c'/(d'/4e'/4 | f'/)z/z "^D.S. al coda" || \
+[K:C] !coda! c'/g//g// a/b/ | c'/z/ c'/z/ |]
+%---------------------

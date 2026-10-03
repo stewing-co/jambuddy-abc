@@ -1,0 +1,175 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:X. If floods of teares could cleanse my follies past,
+T: Canto.
+C: John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+L:1/2
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on first line
+K:A min
+E E A ^G2 A | B > d c/ c/ B3 |
+w:If fluds of teares could cleanse my fol- lies past, 
+w:I see my hopes must with- er in their bud,
+c B c d > d c | B A > A ^G3 |
+w:And smoakes of sighes might sa- cri- fice for sinne,
+w:I see my fav- ours are no last- ing flowers,
+c A B/ A/ ^G > G G2 | A F > F E3 |
+w:If gron- ing _ cries might salve my fault at last,
+w:I see that _ woords will breede no bet- ter good,
+A B ^c
+w:Or end- les mone, 
+w:Than losse of 
+M:C
+L:1/2
+d2 | z e2 d2 c | B > B A2 |
+w:for er- ror par- don win,
+w:time and light- ening but at houres,
+M:3/4
+L:1/2
+|:c3/2 c c/ c > e d | c A > A B3 |
+w:Then would I cry, weepe, sigh, and e- ver mone, 
+w:Thus when I see then thus I say there- fore,
+z/ c/ d d | e > e d3/4 c// B/ A/ B > B | A3 :|
+w:Mine er- rors, fault, sins, fol- lies _ past _ and gone.
+w:That fa- vours hopes and words, can _ blinde _ no more.
+
+X:2
+T:X. If floods of teares could cleanse my follies past,
+T:Alto.
+C: John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+L:1/2
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on second line
+K:A min
+C3/2 E D/ E2 E/ ^F/ G E E/ E/ E3
+w:If fluds of teares could _ cleanse my fol- lies past, 
+w:I see my hopes must with- * er in their bud,
+E E E F2 E3/4 F// G/ G/ C D E3
+w:And smoakes of sighes might _ sa- cri- fice for sinne,
+w:I see my fav- ours _ are no last- ing flowers,
+z G F F E > E E E D > C B,3
+w:If gron- ing cries might salve my fault at last,
+w:I see that woords will breede no bet- ter good,
+E E E
+w:Or end- les 
+w:Than losse of 
+M:C
+L:1/2
+F2 E2 ^F2 ^G "(2)"A2 G "(3)"A2
+N:(2)Original is dotted whole
+N:(3)Original has a dot.
+w:mone, for er- ror par- don win,
+w:time and light- ening but at houres,
+M:3/4
+L:1/2
+|:G3/2 A G/ G > c B E2 D3/4 A,// E3
+w:Then would I cry, weepe, sigh, and e- ver mone, 
+w:Thus when I see then thus I say there- fore,
+E A/ F/ D/ z/ G/ E/ C/ E/ F D z E3/4 D// ^C3 :|
+w:Mine er- rors, fault, er- rors, fault, sins, fol- lies past and gone.
+w:That fa- vours hopes, fa- vours hopes and words, can blinde no more.
+
+X:3
+T:X. If floods of teares could cleanse my follies past,
+T:Tenore.
+C: John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+L:1/2
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -12
+N:Original clef, C on third line
+K:A min -8va
+A c > A B2 c d3/4 c// B A ^G3 
+w:If fluds of teares could cleanse my fol- lies past, 
+w:I see my hopes must with- er in their bud,
+z/ A/ B z/ A/ A > B c/ d/ e2 A B3
+w:And smoakes of sighes might sa- cri- fice for sinne,
+w:I see my fav- ours are no last- ing flowers,
+e c d B > B B A/ A d// c// B A ^G3
+w:If gron- ing cries might salve my fault at _ _ _ last,
+w:I see that woords will breede no bet- ter _ _ _ good,
+c B A
+w:Or end- les 
+w:Than losse of 
+M:C
+L:1/2
+A4 A B > B c/ d/ e > d "(4)"^c2
+N:(4)Original has a dot.
+w:mone, for er- ror par- * don _ win,
+w:time and light- ening but _ at _ houres,
+M:3/4
+L:1/2
+|:e3/2 c c/ c > g g c > B A ^G2 
+w:Then would I cry, weepe, sigh, and e- ver mone, 
+w:Thus when I see then thus I say there- fore,
+z/ e/ c/ A/ z/ d/ B/ G/ z/ c/ A3/4 c// B/ A/ A ^G/ A G/ HG3 :|
+w:Mine er- rors, mine er- rors, fault, sins, sins fol- lies past and _ _ gone.
+w:That fa- vours, that fa- vours hopes and words, words can blinde no _ _ more.
+
+
+X:4
+T:X. If floods of teares could cleanse my follies past,
+T:Basso.
+C: John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+L:1/2
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -24
+K:A min bass
+a > g f e > d c B ^G A/ A/ e3 
+w:If fluds of teares could _ cleanse my fol- lies past, 
+w:I see my hopes must _ with- er in their bud,
+a ^g a d3/4 e// f/ d/ a g f > f e3
+w:And smoakes of sighes _ _ might sa- cri- fice for sinne,
+w:I see my fav- ours _ _ are no last- ing flowers,
+"(1)"z c f d e > e e ^c d > d e3
+w:If gron- ing cries might salve my fault at last,
+w:I see that woords will breede no bet- ter good,
+N:(1) Rest is editorial.
+A ^G A
+w:Or end- les 
+w:Than losse of 
+M:C
+L:1/2
+d > d ^c2 d2 e3 e A2
+w:mone, for er- ror par- don win,
+w:time and light- ening but at houres,
+M:3/4
+L:1/2
+|:c3/2 f e/ c3/4 d// e3/4 f// g/ G/ A F > F E3
+w:Then would I cry, _ _ _ weepe, sigh, and e- ver mone, 
+w:Thus when I see _ _ _ then thus I say there- fore,
+z/ a/ f/ d/ z/ g/ e/ c/ z/ A/ d3/4 e// f/ f/ e E A3 :|
+w:Mine er- rors, mine er- rors, faults, sins, _ fol- lies past and gone.
+w:That fa- vours,  that fa- vours hopes and _ words, can blinde no more.
+
+

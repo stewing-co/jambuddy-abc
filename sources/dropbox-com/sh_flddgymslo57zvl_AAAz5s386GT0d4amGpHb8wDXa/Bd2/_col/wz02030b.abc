@@ -1,0 +1,95 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Walzer  GC
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.280 (wz02030b) orig. G,C
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T:Überliefert vermutlich durch Joggi Stocker (1889-1956)
+%%MIDI program 21
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"(d^cd) | ezd/B/ | Gzd | "D7"F3 | d^cd | fze/d/ | Az^A | "G"B3 | (d^cd) | ezd/B/ | 
+GFG | "C"gzf/e/ | "G"dze/d/ | "D7"czc/B/ | A/B/ c/d/ e/f/ | "G"gzz |: "D7"g/f/ f>e | e/f/ff | f/e/e>d | 
+"G"dee | e/d/ d>e | "D7"dff |1 e/d/d>e | "G"dgg :|2 "D7"a/a/ad | "G"gze |: [K:C] "C"e3 | e^de | G3 | 
+Gcd | e3 | eae | "G7"f3 | GBd | f3 | fef | G3 | GBd | fef | 
+ba>g | "C"e3 | Gcd | e3 | e^de | G3 | Gcd | e3 | "A7"eae | "Dm"f3 | 
+"G7"GBd | f3 | fed | "C"c3 | c'ba | "G7"g2e | d/d/de | "C"czG | Gcd :: "C"e>(g ^f/g/) | 
+"G7"d>(g ^f/g/) | B>f e/d/ | "C"c/e/GG | e>(g ^f/g/) | "G7"d>(g ^f/g/) | B/A/ B/f/ e/d/ |1 "C"czG :|2 "C"czz |] 
+% wz02030b (H 071/TN 30b)
+
+X:2
+T:Walzer  GC  (wz02030b)
+%%MIDI program 21
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"(d^cd) | ezd/B/ | Gzd | "D7"F3 | d^cd | fze/d/ | Az^A | "G"B3 | (d^cd) | ezd/B/ | 
+GFG | "C"gzf/e/ | "G"dze/d/ | "D7"czc/B/ | A/B/ c/d/ e/f/ | "G"gzz |: "D7"g/f/ f>e | e/f/ff | f/e/e>d | 
+"G"dee | e/d/ d>e | "D7"dff |1 e/d/d>e | "G"dgg :|2 "D7"a/a/ad | "G"gze |: [K:C] "C"e3 | e^de | G3 | 
+Gcd | e3 | eae | "G7"f3 | GBd | f3 | fef | G3 | GBd | fef | 
+ba>g | "C"e3 | Gcd | e3 | e^de | G3 | Gcd | e3 | "A7"eae | "Dm"f3 | 
+"G7"GBd | f3 | fed | "C"c3 | c'ba | "G7"g2e | d/d/de | "C"czG | Gcd :: "C"e>(g ^f/g/) | 
+"G7"d>(g ^f/g/) | B>f e/d/ | "C"c/e/GG | e>(g ^f/g/) | "G7"d>(g ^f/g/) | B/A/ B/f/ e/d/ |1 "C"czG :|2 "C"czz |] 
+% wz02030b
+
+X:3
+T:Walzer  CF 7-
+%%MIDI program 21
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+"C"(G^FG) | AzG/2E/2 | CzG | "G7"B,3 | G^FG | BzA/2G/2 | Dz^D | "C"E3 | (G^FG) | AzG/2E/2 | 
+CB,C | "F"czB/2A/2 | "C"GzA/2G/2 | "G7"FzF/2E/2 | D/2E/2 F/2G/2 A/2B/2 | "C"czz |: "G7"c/2B/2 B>A | A/2B/2BB | B/2A/2A>G | 
+"C"GAA | A/2G/2 G>A | "G7"GBB |1 A/2G/2G>A | "C"Gcc :|2 "G7"d/2d/2dG | "C"czA |: [K:F] "F"A3 | A^GA | C3 | 
+CFG | A3 | AdA | "C7"B3 | CEG | B3 | BAB | C3 | CEG | BAB | 
+ed>c | "F"A3 | CFG | A3 | A^GA | C3 | CFG | A3 | "D7"AdA | "Gm"B3 | 
+"C7"CEG | B3 | BAG | "F"F3 | fed | "C7"c2A | G/2G/2GA | "F"FzC | CFG :: "F"A>(c =B/2c/2) | 
+"C7"G>(c =B/2c/2) | E>B A/2G/2 | "F"F/2A/2CC | A>(c =B/2c/2) | "C7"G>(c =B/2c/2) | E/2D/2 E/2B/2 A/2G/2 |1 "F"FzC :|2 "F"Fzz |] 
+% wz02030b 
+
+X:4
+T:Walzer  G (tinwhistle in D) var. solo
+T:wz02030b (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:G transpose=12
+(d^cd) | ezd/B/ | Gzd | F3 | d^cd | fze/d/ | Az^A | B3 | (d^cd) | ezd/B/ | 
+GFG | gzf/e/ | dze/d/ | czc/B/ | A/B/ c/d/ e/f/ | gzz |: g/f/ f>e | e/f/ff | f/e/e>d | 
+dee | e/d/ d>e | dff |1 e/d/d>e | dgg :|2 a/a/ad | gz"_?"e |: B3 | B^AB | D3 | 
+DGA | B3 | BeB | c3 | DFA | c3 | cBc | D3 | DFA | cBc | 
+fe>d | B3 | DGA | B3 | B^AB | D3 | DGA | B3 | BeB | c3 | 
+DFA | c3 | cBA | G3 | gfe | d2B | A/2A/2AB | GzD | DGA :: B>(d ^c/2d/2) | 
+A>(d ^c/2d/2) | F>c B/2A/2 | G/2B/2DD | B>(d ^c/2d/2) | A>(d ^c/2d/2) | F/2E/2 F/2c/2 B/2A/2 |1 GzD :|2 Gzz |]
+% wz02030b
+
+X:5
+T:Walzer  D&G (tinwhistle in D) solo
+T:wz02030b (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:D transpose=12
+(A^GA) | BzA/2F/2 | DzA | C3 | A^GA | czB/2A/2 | Ez^E | F3 | (A^GA) | BzA/2F/2 | 
+DCD | dzc/2B/2 | AzB/2A/2 | GzG/2F/2 | E/2F/2 G/2A/2 B/2c/2 | dzz |: d/2c/2 c>B | B/2c/2cc | c/2B/2B>A | 
+ABB | B/2A/2 A>B | Acc |1 B/2A/2A>B | Add :|2 e/2e/2eA | dzB |: [K:Gmaj] B3 | B^AB | D3 | 
+DGA | B3 | BeB | c3 | DFA | c3 | cBc | D3 | DFA | cBc | 
+fe>d | B3 | DGA | B3 | B^AB | D3 | DGA | B3 | BeB | c3 | 
+DFA | c3 | cBA | G3 | gfe | d2B | A/2A/2AB | GzD | DGA :: B>(d ^c/2d/2) | 
+A>(d ^c/2d/2) | F>c B/2A/2 | G/2B/2DD | B>(d ^c/2d/2) | A>(d ^c/2d/2) | F/2E/2 F/2c/2 B/2A/2 |1 GzD :|2 Gzz |]
+% wz02030b
+% Sep 27, 2016

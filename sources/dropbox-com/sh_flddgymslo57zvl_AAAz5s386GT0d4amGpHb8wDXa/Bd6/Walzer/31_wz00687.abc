@@ -1,0 +1,108 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walzer Galopp (nach 'Hofmuri')  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.249 (wz00687) orig. C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"G2c2d2 | e3gg2 | fg fe dc | "G7"B3dd2 | G2B2d2 | f3aa2 | 
+ga gf ed | "C"c3ee2 | G2c2d2 | e3gg2 | fg fe dc | "G7"B3dd2 | 
+G2B2d2 | fa gf ed | "C"c2Bc ed | c2z2z2 |: [M:2/4] "C"ee/e/ eg | "G7"fe d>c | 
+Bd g>f | "C"fec2 | ee/e/ eg | "G7"fe d>c | Bd g>B | "C"c2z2 :| 
+X:2
+T:Walzer Galopp (nach 'Hofmuri')  G 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"D2G2A2 | B3dd2 | cd cB AG | "D7"F3AA2 | D2F2A2 | c3ee2 | 
+de dc BA | "G"G3BB2 | D2G2A2 | B3dd2 | cd cB AG | "D7"F3AA2 | 
+D2F2A2 | ce dc BA | "G"G2FG BA | G2z2z2 |: [M:2/4] "G"BB/2B/2 Bd | "D7"cB A>G | 
+FA d>c | "G"cBG2 | BB/2B/2 Bd | "D7"cB A>G | FA d>F | "G"G2z2 :| 
+% wz00687
+X:3
+T:Walzer Galopp (nach 'Hofmuri')  F 7-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"C2F2G2 | A3cc2 | Bc BA GF | "C7"E3GG2 | C2E2G2 | B3dd2 | 
+cd cB AG | "F"F3AA2 | C2F2G2 | A3cc2 | Bc BA GF | "C7"E3GG2 | 
+C2E2G2 | Bd cB AG | "F"F2EF AG | F2z2z2 |: [M:2/4] "F"AA/2A/2 Ac | "C7"BA G>F | 
+EG c>B | "F"BAF2 | AA/2A/2 Ac | "C7"BA G>F | EG c>E | "F"F2z2 :| 
+% wz00687
+X:4
+T: Walzer Galopp (nach 'Hofmuri')  C (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"G2c2d2 | e3gg2 | fg fe dc | "G7"B3dd2 | G2B2d2 | f3aa2 | 
+ga gf ed | "C"c3ee2 | G2c2d2 | e3gg2 | fg fe dc | "G7"B3dd2 | 
+G2B2d2 | fa gf ed | "C"c2Bc ed | c2z2z2 |: [M:2/4] "C"ee/e/ eg | "G7"fe d>c | 
+Bd g>f | "C"fec2 | ee/e/ eg | "G7"fe d>c | Bd g>B | "C"c2z2 :| 
+% wz00687
+X:5
+T:Walzer Galopp (nach 'Hofmuri')  G (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"D2G2A2 | B3dd2 | cd cB AG | "D7"F3AA2 | D2F2A2 | c3ee2 | 
+de dc BA | "G"G3BB2 | D2G2A2 | B3dd2 | cd cB AG | "D7"F3AA2 | 
+D2F2A2 | ce dc BA | "G"G2FG BA | G2z2z2 |: [M:2/4] "G"BB/2B/2 Bd | "D7"cB A>G | 
+FA d>c | "G"cBG2 | BB/2B/2 Bd | "D7"cB A>G | FA d>F | "G"G2z2 :| 
+% wz00687
+X:6
+T:Walzer Galopp (nach 'Hofmuri')  F (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"C2F2G2 | A3cc2 | Bc BA GF | "C7"E3GG2 | C2E2G2 | B3dd2 | 
+cd cB AG | "F"F3AA2 | C2F2G2 | A3cc2 | Bc BA GF | "C7"E3GG2 | 
+C2E2G2 | Bd cB AG | "F"F2EF AG | F2z2z2 |: [M:2/4] "F"AA/2A/2 Ac | "C7"BA G>F | 
+EG c>B | "F"BAF2 | AA/2A/2 Ac | "C7"BA G>F | EG c>E | "F"F2z2 :| 
+% wz00687
+X:7
+T:Walzer Galopp (nach 'Hofmuri') G (tinwhistle in D)
+T:wz00687 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"D2G2A2 | B3dd2 | cd cB AG | "D7"F3AA2 | D2F2A2 | c3ee2 | 
+de dc BA | "G"G3BB2 | D2G2A2 | B3dd2 | cd cB AG | "D7"F3AA2 | 
+D2F2A2 | ce dc BA | "G"G2FG BA | G2z2z2 |: [M:2/4] "G"BB/2B/2 Bd | "D7"cB A>G | 
+FA d>c | "G"cBG2 | BB/2B/2 Bd | "D7"cB A>G | FA d>F | "G"G2z2 :| 
+X:8
+T:Walzer Galopp (nach 'Hofmuri') G (tinwhistle in D) solo
+T:wz00687 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/8
+K:G transpose=12
+D2G2A2 | B3dd2 | "_c"cd cB AG | F3AA2 | D2F2A2 | "_c"c3ee2 | \
+de d"_c"c BA |
+ G3BB2 | D2G2A2 | B3dd2 | "_c"cd cB AG | F3AA2 | \
+D2F2A2 | "_c"ce dc BA | G2FG BA |
+ G2z2z2 |: [M:2/4] BB/2B/2 Bd | "_c"cB A>G | \
+FA d>"_c"c | cBG2 | BB/2B/2 Bd | "_c"cB A>G | FA d>F | G2z2 :|
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 2, 2016

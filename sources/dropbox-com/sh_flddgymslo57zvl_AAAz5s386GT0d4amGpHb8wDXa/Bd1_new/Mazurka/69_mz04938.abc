@@ -1,0 +1,39 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Mazurka  FCBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.349 (mz04916) orig. F,C,Bb-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"c>a g>f e>d | d2c>=B c>d | "C7"e>c B>A B>c | "F"B2A>GA2 | A>a g>f ed | d2 c>=B c>d | "C7"c2 =Bc d>e | 
+"F"f2f2z2 :: [K:C] "G7"g>a g>f e>d | "C"e2 c>e g>c' | "G7"b2 d>e f>a | "C"g2 e>d e>f | "G7"g>a g>f e>d | "C"e2 c>e g>c' | 
+"G7"b>a g>f e>d | "C"c2c2z2 :: [K:F] "F"cfa3c' | "C7"c'2b>ab2 | ce g3b | "F"b2 a>^ga2 | Ac f3a | 
+"Gm/Bb"a2g>^f g2 | "C7"c>d e>f g>e | "F"f2f2z2 :: [K:Bb] "Bb"f2d2f2 | b4d2 | g4f2 | "F7"f4e2 | c2d2e2 | a4g2 | 
+f4e2 | "Bb"d6 | f2d2f2 | b4f2 | d'4b2 | "Cm/Eb"a4g2 | f>ba2g2 | "Bb"f4b2 | "F7"A>B c>F G>A | "Bb"B2B2z2 :| 
+
+X:2
+T:Mazurka  CGF 5- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"G>e d>c B>A | A2G>^F G>A | "G7"B>G F>E F>G | "C"F2E>DE2 | E>e d>c BA | A2 G>^F G>A | "G7"G2 ^FG A>B | 
+"C"c2c2z2 :: [K:Gmaj] "D7"d>e d>c B>A | "G"B2 G>B d>g | "D7"f2 A>B c>e | "G"d2 B>A B>c | "D7"d>e d>c B>A | "G"B2 G>B d>g | 
+"D7"f>e d>c B>A | "G"G2G2z2 :: [K:Cmaj] "C"Gce3g | "G7"g2f>ef2 | GB d3f | "C"f2 e>^de2 | EG c3e | 
+"Dm/F"e2d>^c d2 | "G7"G>A B>c d>B | "C"c2c2z2 :: [K:Fmaj] "F"c2A2c2 | f4A2 | d4c2 | "C7"c4B2 | G2A2B2 | e4d2 | 
+c4B2 | "F"A6 | c2A2c2 | f4c2 | a4f2 | "Gm/Bb"e4d2 | c>fe2d2 | "F"c4f2 | "C7"E>F G>C D>E | "F"F2F2z2 :| 
+
+X:3
+T:Mazurka  EbBbAb (5letras) cf. CGF
+M:3/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+"Eb"B>g f>e d>c | c2B>=A B>c | "Bb7"d>B A>G A>B | "Eb"A2G>FG2 | G>g f>e dc | c2 B>=A B>c | "Bb7"B2 =AB c>d | 
+"Eb"e2e2z2 :: [K:Bbmaj] "F7"f>g f>e d>c | "Bb"d2 B>d f>b | "F7"a2 c>d e>g | "Bb"f2 d>c d>e | "F7"f>g f>e d>c | "Bb"d2 B>d f>b | 
+"F7"a>g f>e d>c | "Bb"B2B2z2 :: [K:Ebmaj] "Eb"Beg3b | "Bb7"b2a>ga2 | Bd f3a | "Eb"a2 g>^fg2 | GB e3g | 
+"Fm/Ab"g2f>=e f2 | "Bb7"B>c d>e f>d | "Eb"e2e2z2 :: [K:Abmaj] "Ab"e2c2e2 | a4c2 | f4e2 | "Eb7"e4d2 | B2c2d2 | g4f2 | 
+e4d2 | "Ab"c6 | e2c2e2 | a4e2 | c'4a2 | "Bbm/Db"g4f2 | e>ag2f2 | "Ab"e4a2 | "Eb7"G>A B>E F>G | "Ab"A2A2z2 :| 
+
+

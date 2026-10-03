@@ -1,0 +1,24 @@
+X:1307
+T:Scena 7.a
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 7 clef=treble name="Clarinete I" sname="Cl. I"
+%%MIDI program 1 71
+%%staves [( 7 )]
+%----------------- edit between the lines ------------
+Z21 | z2 | Z22 || [Q:"Allegro assai"] Z22 || \
+[Q:"Allegro"] [K:Eb] z | z4 | z/f/f/f/ fz | z4 | z/g/g/g/ gz | z4 | z/g/g/g/ gz | z4 | z/g/g/g/ gz | Z3 | g2f2 | g4 | g4 | \
+Z10 | d2c2 | Bbbb |bbbz | Z4 | z/a/a/a/ a z | z4 | z/a/a/a/ a z | z4 | \
+z/a/a/a/ a f | f4 | f4 | Z2 | z2=e2 | fzz2 |  Z22 | dddz | Z3 | zffz | z4 | z/b/f/d/ Bz | \
+z4 |  z/b/f/d/ Bz | Z3 | z/b/f/d/ Bz | Z5 | f4 | g4 | f4 | c4 | dzz/b/f/d/ |\
+Bzz/b/f/d/ |BBB!fermata!z || \
+[Q:"Andante"] [M:2/4] "^Clar.solo" !fermata!z(f//>=e//f//d//) | c/>c/ (c/8=e/8f/8e/8 g/8f/8e/8f/8)  |\
+e/8d/8c/8d/8 c/z | Z7 | "_con ob." z//f//a//g// f/z/ | Z5 |  z//a//a//g// f/z/ | Z9 | \
+!fermata!z2 | !fermata!z2 | !fermata!z2 | Z3 || [M:C][Q:"Allegro"] Z2 | _a4 | Z4 | \
+b4 | Z3 | z2zb | b/z/zzb | =a4 | bBBB | Bzz2 | Z4 | g4 | z4 | f4 | z4 | zbge | B2 b/a/g/f/ | ezz2 | \
+Z2 | e/g/b/g/ e/g/b/g/ | ezz2 | Z2 | e/g/b/g/ ez | z4 | f4 | z2gf| gzz2 | Z6 | \
+z2e2 | f4 | g2f2 | gzz2 | Z6 | z2e2 | f4 | g2f2 | ezz2 | a2f2 | ezz2 | a2f2 | g4 | \
+f2a2 | g4 | f4 | eb2a | gzf2 | gzf2 | eeez |] \
+%----------------- edit between the lines ------------

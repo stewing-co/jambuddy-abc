@@ -1,0 +1,79 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Zum Anfang. Alpufzug (Walzer)  FC (wz06807)
+T:Hanny Christen. Bd.V  Basel II, Jura. S.11  (wz06807) orig. F,C
+T: Basel II. Tänze aus Augst. S.6-42.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+c | "F"a>aa | (ag)f | "C7"egd' | c'2c | b>bb | bag | "F"fac' | a2c | a>aa | 
+(ag)c' | "Gm"b2d | d2c | "C7"ccd | ea2 | "F"gf2 | fzz || [K:C] "C"ge2 | ge2 | "G7"gd2 |  
+gf2 | ab2 | ag2 | fb>g | "C"e2z | ge2 | ge2 | "G7"gd2 | gf2 | gb2 | 
+ag2 | "C"fe2 | ezz || "F"f>aa | ("G7"ag)f | "C"egc' | (g2e)  | "Dm"d2a | "G7"g2f | "C"egc' | 
+g2z | "F"f>aa | ("G7"ag)f | "C"egc' | g2e | "Dm"d2a | "G7"g2f | "C"c>c'c' | c'zz |] 
+W:
+W:Anm: Alpufzug (Alp-ufzug), Swissgerman for Alpaufzug
+% wz06807 (Heft 235/TN 16)
+% Nov 7, 2017
+
+X:2
+T:Zum Anfang. Alpufzug (Walzer)  FC (wz06807)
+S:Hanny Christen. Bd.V  Basel II, Jura. S.11  (wz06807) orig. F,C
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G | "C"e>ee | (ed)c | "G7"Bda | g2G | f>ff | fed | "C"ceg | e2G | e>ee | 
+(ed)g | "Dm"f2A | A2G | "G7"GGA | Be2 | "C"dc2 | czz || [K:G] "G"dB2 | dB2 | "D7"dA2 | 
+dc2 | ef2 | ed2 | cf>d | "G"B2z | dB2 | dB2 | "D7"dA2 | dc2 | df2 | 
+ed2 | "G"cB2 | Bzz || "C"c>ee | ("D7"ed)c | "G"Bdg | (d2B) | "Am"A2e | "D7"d2c | "G"Bdg | 
+d2z | "C"c>ee | ("D7"ed)c | "G"Bdg | d2B | "Am"A2e | "D7"d2c | "G"G>gg | gzz |] 
+%W:Anm: "Alpufzug" (Alp-ufzug), Swissgerman for Alpaufzug
+% wz06807 (Heft 235/TN 16)
+% Nov 7, 2017
+X:3
+T:Zum Anfang. Alpufzug (Walzer)  GD (wz06807) tinwhistle in D
+S:Hanny Christen. Bd.V  Basel II, Jura. S.11  (wz06807) orig. F,C
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Walzer
+M:3/4
+L:1/4
+K:Gmaj transpose=12%%MIDI gchordon
+D | "G"B>BB | (BA)G | "D7"FAe | d2D | c>cc | cBA | "G"GBd | B2D | B>BB | 
+(BA)d | "Am"c2E | E2D | "D7"DDE | FB2 | "G"AG2 | Gzz || [K:Dmaj] "D"AF2 | AF2 | "A7"AE2 | 
+AG2 | Bc2 | BA2 | Gc>A | "D"F2z | AF2 | AF2 | "A7"AE2 | AG2 | Ac2 | 
+BA2 | "D"GF2 | Fzz || "G"G>BB | ("A7"BA)G | "D"FAd | (A2F) | "Em"E2B | "A7"A2G | "D"FAd | 
+A2z | "G"G>BB | ("A7"BA)G | "D"FAd | A2F | "Em"E2B | "A7"A2G | "D"D>dd | dzz |] 
+%W:Anm: "Alpufzug" (Alp-ufzug), Swissgerman for Alpaufzug
+% wz06807 (Heft 235/TN 16)
+% Nov 7, 2017
+
+X:4
+T:Zum Anfang. Alpufzug (Walzer)  DA (wz06807) tinwhistle in D
+S:Hanny Christen. Bd.V  Basel II, Jura. S.11  (wz06807) orig. F,C
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Walzer
+M:3/4
+L:1/4
+K:D transpose=12 %%MIDI gchordon
+A | "D"f>ff | (fe)d | "A7"ceb | a2A | g>gg | gfe | "D"dfa | f2A | f>ff | 
+(fe)a | "Em"g2B | B2A | "A7"AAB | cf2 | "D"ed2 | dzz || [K:A] "A"ec2 | ec2 | "E7"eB2 | 
+ed2 | fg2 | fe2 | dg>e | "A"c2z | ec2 | ec2 | "E7"eB2 | ed2 | eg2 | 
+fe2 | "A"dc2 | czz || "D"d>ff | ("E7"fe)d | "A"cea | (e2c) | "Bm"B2f | "E7"e2d | "A"cea | 
+e2z | "D"d>ff | ("E7"fe)d | "A"cea | e2c | "Bm"B2f | "E7"e2d | "A"A>aa | azz |] 
+%W:Anm: "Alpufzug" (Alp-ufzug), Swissgerman for Alpaufzug
+% wz06807 (Heft 235/TN 16)
+% Nov 7, 2017

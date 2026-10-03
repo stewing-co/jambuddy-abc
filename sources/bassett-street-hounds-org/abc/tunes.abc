@@ -1,0 +1,588 @@
+I:abc-charset utf-8
+% PAGE LAYOUT
+%%header	"$P0	The Bassett Street Hounds Tunebook	$P1"
+%%footer	"	bassett-street-hounds.org	"
+
+% FONT
+%%font Helvetica-Oblique
+%%titlefont Times-Bold 21
+%%subtitlefont Times-Bold 16
+%%vocalfont Helvetica 12
+%%wordsfont Helvetica 12
+
+% For incipits, un-comment these lines:
+% %%tune .* 
+% %%clip 0-5 
+% 1-5 means 1st four measures, from first to fifthd measure bar
+
+X:1
+T:Alexandra Park Road Stick Dance N. 22.5
+T:Tune: Durham Rangers
+H:Source: New Saint George
+R:hornpipe
+M:4/4
+K:D
+P:A
+ FG | ABAF A2 de | fgef d3 A | BcdB ABAF | G2 E2 E2 FG | 
+ABAF A2 de | fgef d3 A | BcdB ABAG | F2 D2 D2 :| 
+P:B
+ag | fefg afdf | edcB A2 ef | ggag ffaf | g2 e2 e2 FG | 
+ABAF A2 de | fgef d3 A | BcdB ABAG | F2 D2 D2 :|
+
+X:2
+T:Belligerent Bluejay
+T:Tune: Carpathian Tune
+H:Source: Bassett Street Hounds
+R:reel
+S:String Beings 11/98
+Z:Original transcription by John Chambers
+M:2/4
+L:1/16
+K:Em
+P:A
+"Play as lead in" ||GFE2 F2G2 | E8 |: EFGA B2B2 | ^A2A2 B4 | GFE2 F2G2 |  
+F8 | EFGA B2B2 | ^A2A2 B4 | GFE2 F2G2 | E8 :|
+P:B
+A2{BA}E2 A2{BA}E2 | G2{AG}E2 G2{AG}E2 | A2{BA}E2 A3B | GAFG E4 |  
+A2{BA}E2 A2{BA}E2 | G2{AG}E2 G2A2 | B4 B2Bc | B2A2 G2F2 :|
+
+X:3
+T:The Cuckoo's Nest
+H:Source: Bassett Street Hounds
+H:Tune is the same as the Bampton-style "Binghamton Stick Dance" 
+R:hornpipe
+%%transpose -5
+M:4/4
+K:G
+P:A
+|| cdcB A2 a2 | e2 e2 d3 c | BcBA G2 AB | c2 d2 A4 :|
+P:B
+a2 a2 a2 ba | ^g2 e2 e3 f | g2 g2 g2 ag | f2 d2 d4 |
+cdcB A2 a2 | e2 e2 d3 c | BcBA G2 AB | c2 d2 A4 |]
+
+X:4
+T:Darwin's Revenge
+T:Tune: Barbarini's Tambourine
+H:Source: Bassett Street Hounds
+R:reel
+B:Barnes 2nd ed.
+N:Transposed from D
+Q:1/8=150
+M:2/4
+L:1/16
+K:G 
+P:A
+ Bc | d2G2 G2G2 | G2A2 A2B2 | cBAB cBAG | A2D2 D2Bc|
+d2G2 G2G2 | G2A2 A2B2 | cBAB cBAG | A6 :|
+P:B
+FG | A2D2 D2D2 | D6 GA | B2E2 E2E2 | E6 AB |
+c2F2 F2Bc | d2G2 G2cd | e2c2 f2d2 | g2fe d2c2 |
+B2AG A2GF | G2FE D2C2 | B,2G2 A,2F2 | G6 |]
+
+X:5
+T:Dawley
+T:Tune: Return From The Waterside
+R:reel
+H:Source: Red Stags Morris
+H:Used as tune for Shropshire Bedlams dance "Dawley"
+H:Dance reconstructed by Andy Anderson
+C:Andy Anderson.
+M:4/4
+L:1/8
+K:G
+P:A
+D2 | B2 B2 ABcA | G2 G2 FGAD | EFGE FGAF | GBAG F2 D2 | 
+B2 B2 ABcA | G2 G2 FGAD | EFGE FGAF | G2 B2 G2 |]
+P:B
+Bc | d2 d2 edcB | cBAG FGAF | GABG ABcA | BdBd A2 D2 | 
+GABG ABcA | BcdB cedc | BGBG AFAF | G2 B2 G2 |]
+
+X:6
+T:Dilwyn
+T:Tune: Not For Joe
+H:Source: Traditional
+M:4/4
+L:1/8
+K:G
+P:A
+|| D2 G2 D2 G2 | F2 E2 F2 E2 | D2 G2 D2 G2 | F2 G2 A4 |
+D2 G2 D2 G2 | F2 E2 F2 E2 | D4 B3 A | G2 F2 G4 :|
+P:B
+B3 A G2 B2 | c4 A4 | B3 A G2 B2 | A2 F2 D4 |
+B3 A G2 B2 | c4 A4 | D4 B3 A | G2 F2 G4 :|
+P:Song
+  G2  G2    DD     DD   | E2  E2   DD       DD     | 
+w:My friend Bil-ly has a  ten foot wil-lie  And he 
+  GG        GG     A2   F2 | G6     D2 |
+w:showed it to the girl next door.  She
+  GG         GG    D2    D2 | EE     EE     D2   D2 |
+w:thought it was a snake and  hit it with a rake and
+  GG       GG    A2   F2  | G8 |]
+w:now it's on-ly five foot  four.
+
+X:7
+T:Duck Or Die
+T:Tune: Jump at the Sun
+R:Jig
+C:John Kirkpatrick
+O:England
+Z:Paul Hardy's Session Tunebook 2012 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:6/8
+L:1/8
+Q:3/8=100
+K:Em
+|: "Em"EGB ^A2B|EGB ^A2B|eBB eBB|BAG "B"F3|
+"Em"EGB ^A2B|EGB ^A2B|eBB "Am"cB=A|"B7"GAF "Em"E3:|
+|:"Em"eBB gfe|"B7"fBB agf|"Em"gfe gfe|"B"f^dB "B7"c2B|
+"Em"eBB gfe|"B7"fBB agf|"Em"eBB "Am"cBA|"B7"GAF "Em"E3:|
+
+X:8
+T:Five In A Bed
+H:Source: Red Stags Morris
+H:Dance written by James Allwright
+C:Andy Anderson.
+M:4/4
+L:1/8
+K:G
+P:A
+Bc | dgfe d2 c2 | BABc B2 G2 | ABcA B2 A2 | Bcde d2 Bc | 
+dgfe d2 c2 | BABc B2 G2 | ABcA B2 A2 | G2 F2 G4 |]
+P:B
+FA AA GB BB | FA GF GB BB | FA AA GB BB | FA GF G2 G2 | 
+FA AA GB BB | FA GF GB BB | FA AA GB BB | FA GF G2 |]
+
+X:9
+T:Four Lanes End
+R:hornpipe
+H:Source: Shropshire Bedlams 
+C:John Kirkpatrick
+M:4/4
+L:1/4
+K:G
+P:A
+[|D |G G/B/ d c/B/ | c/e/ d/c/ B/G/ D/F/ | G G/B/ d c/B/ | c/e/ d/c/ G g/f/ | 
+e g/e/ d/B/ G/B/ | A/B/ c/A/ B/c/ d | e/f/ g/e/ d/B/ G/B/ | B/G/ A/F/ G B/c/ |]
+P:B
+d c B/G/ B/c/ | d/g/ d/c/ B/G/ B/c/ | d c B/G/ d/B/ |\
+A/B/ A/G/ F/A/ d/e/ | d c B/G/ B/c/ | 
+d/g/ d/c/ B/d/ g/f/ | e d c B | A/B/ A/G/ F/A/ d/c/ |\
+"repeat 3x on 5th chorus"
+B/G/ c/A/ B/G/ c/A | B/G/ A/F/ G2 |]
+
+X:10
+T: Hounds of Bedlam
+T: Tune: Mad Maudlin's Search for Tom O'Bedlam
+M: 4/4
+K: C
+"Verse" A/A/ | Aaga e2 d c/d/ | eged ee z A | Aaga ee d c/d/ | eged ee z2 | 
+| "Chorus" ee d c/B/ c2 c/B/ A | B2 A A/B/ cd ee | z cd ee d cB | c2 BA B2 cd | eA BG AA z |
+W:
+W: For to see my Tom of Bedlam, ten thousand miles I'll travel
+W: Mad Maudlin goes on dirty toes, for to keep her shoes from gravel
+W: 
+W: Chorus:
+W: Still I sing bonny boys, bonny mad boys
+W: Bedlam boys are bonny
+W: For they all go bare and they live by the air
+W: And they want no drink nor money
+W: 
+W: No shih tzu, pug, nor dachshund shall keep my Mad Tom from me
+W: I'll howl all night, the stars I'll bite, the fray shall well become me.
+W: 
+W: Chorus
+W: 
+W: I went down to Satan's kitchen for to get me food one morning
+W: And there I saw souls piping hot, all on a spit a-turning
+W: 
+W: Chorus
+W: 
+W: And when that I have murdered the Man in the Moon to a powder
+W: His staff I'll break, his dog I'll shake. There'll howl no demon louder
+W: 
+W: Chorus
+W: 
+W: My staff has murdered giants, my bag a long knife carries
+W: For to cut mince pies from children's thighs, with which to feed the fairies
+W: 
+W: Chorus
+W: 
+W: So let's drink to Tom of Bedlam, he'll fill the sea in barrels
+W: We'll drink it all, well brewed with gall. With Mad Maudlin I will travel.
+W: 
+
+X:11
+Q:60
+T:Hunt the Snark
+T:Tune: Squirrel Hunting, mod. for steel drum by mbhb 2019.
+H:from theSession.org, Company of Fife and Drum. Em Modifications by mbhb 2018. 
+H: Note: Chord for the last bar in each part = Amaj.
+M:2/4
+L:1/16
+K:Em
+|:Bd | e3d B2d2 | efed B2AB | GFGB d2A2 | BABc d2Bd | efed BABd |
+eged B2AB | G2Bc d2ed | "Amaj" B2AB A2 :|
+|: Bd | e3g a2d2 | edef g2BA | G2Bc d2A2 | BGBc d2Bd | 
+| efeg | a2d2 | edef | g2BA | G2Bc | "Amaj" d2ed B2AG | A2 :|
+%
+X:12
+T:I Can Hew
+T:Tune: Collier Lads
+H:Source: Bassett Street Hounds
+C:David Dodds
+M:3/4
+L:1/8
+K:Am
+%
+AB c2 A2 | ee e<e d2 | cd e>e ee | dc AG A2 |
+w: I can hew, boys, I can hack it out; I can hew the coal,_ I can dance and shout. 
+%
+AB c2 A2 | ee e<e d2 | cd ee ee | dc  AG A2 |]
+w: I can hew, boys, coal that's black and fine; I'm a col- lier lad_ work- in' down the mine.
+W:
+W: 1. On Saint Monday's Day it's well I do admire
+W: To be sittin' at home, by me own coal fire
+W: Then it's down to the pub, for a glass or two 
+W: For to work on a Monday, that would never do.
+W: 
+W: 
+W: 2. Well I likes my whiskey and I likes my beer
+W: I’ll drink 14 pints and I’ll not feel queer
+W: I can hold my whiskey good as any man
+W: And I’ll dance and sing as long as I can
+W:
+W:
+W: 3. Well my boy is 14, he's a strapping lad,
+W: And he'll go to the pit soon, just like his dad.
+W: Then when Friday comes, we'll pick up our pay,
+W: And we'll drink together to round out the day.
+W:
+W: 
+W: 4. And it’s when I’m dead, oh I know full well
+W: I’ll not go to heaven, I am bound for hell
+W: And my pick and shovel, old Nick he will admire
+W: Then he’ll set me to hewing for his own hellfire
+
+X:13
+T:John Barleycorn
+T:Tune: The Idiot; Lyrics: John Barleycorn
+R:hornpipe
+H:Source: Bassett Street Hounds
+H:Dance composed by the Hounds in the style of Red Stags
+C:Stan Rogers, music
+C:Jon Berger, lyrics
+M:4/4
+L:1/8
+K:D
+P:A
+d/2e/2 | fa ag/2f/2 ((3ede) fA | Bddc B3 A | Bd dc/2B/2 Ad d>e |\
+|1 ((3fga) gf e3 :|2 ((3fga) fe d3 |] 
+P:B
+d | bb ba/2g/2 aa a>g| ((3fed) de f3 d | bb ba/2g/2 aa a>g | ((3fed) gf e3 d/2e/2 |
+fa ag/2f/2 ((3ede) fA | Bddc B3 A | Bd dc/2B/2 Ad d>e | ((3fga) fe d3 |] 
+W:
+W: 1. John Barleycorn to the sea’s gone down in a ship both stout and new
+W: The thirst to slake of Captain Drake and all his loyal crew
+W: To venture brave over wind and wave, the Spaniard for to halt
+W: For though he die of Spanish grape, he’ll live as English malt
+W: 
+W: (Chorus:) 
+W: So we’ll strike him down, and we’ll bind him around, and we’ll serve him worse than that
+W: We’ll grind his bones between two stones, and bung him in a vat
+W: Then we’ll drink his health in a nut brown ale and raise our glasses high
+W: For before that he can live again, John Barleycorn must die
+W:
+W: John Barleycorn to the courting’s gone all dressed in fine array
+W: In pewter clad from toe to head, to win a lady gay
+W: The poetry that he declaims will stand him in good stead
+W: The ladies fair will all declare they love it more than bread
+W: 
+W: (Chorus)
+W: 
+W: John Barleycorn’s to the hangman gone, this tale I will unfold
+W: For robbing loyal Englishmen of their silver and their gold
+W: In a grave unmarked by cross or stone John Barleycorn is lain
+W: ‘Til summer’s rains have come and gone and he rises up again
+W: 
+W: (Chorus)
+
+X:14
+T:Just In Time
+T:Tune: Charles O'Connor
+H:Source: Bassett Street Hounds
+R:jig
+C:Turlough O'Carolan (1670-1738)
+M:6/8
+K:D
+P:A
+A | d2A d2A | BAG FGA | Bcd ecA | dfa a2g |
+fef BcB | ede ABA | dcB AFA |1 d3 d2 :|2 d3 dcB |]
+P:B
+A2D FED | BGB AFA | DFA FDA | GEe c2A |
+f2f fef | fef fdB | e2e eae | eae ecA |
+dcB AFE | FAd f2e | dcB AFA | d3 d2 |]
+
+X:15
+T: Lost In Boston
+T: Tune: Charlie on the MTA
+T: Lyrics: The Team that Always Returns
+H: Lyrics by Susan Galbraith, Laura Waterstripe, Dan Clark
+H: Dance by the Bassett Street Hounds
+M: 4/4
+K: F
+ff | ff ff fF2 F | B2 Bc df ed | cf2 f g2 f2 | e4-e a2 g | 
+ff ff fF FF | B2 B2 df ed | cf2 f ag ag | f4-f "Chorus:"fg_a | aaaa2 g2 f | 
+gf ff2-f fg | a2 a2 agf2 | g4-g z fg | a2 a-a2 gfd | f2 f g2 f fg | 
+a3 f ede2 | f4-f z:| "Tag:"c d c _e4-e | 
+W:
+W: Oh, we often come to Boston, to dance with our friends there
+W: But the driving can make us scream
+W: When a lack of road signs mixes with some botched directions
+W: It all feels like a fever dream
+W: 
+W: (Chorus:)
+W: But do we ever return? Yes, we always return
+W: So I guess we'll never learn.
+W: Though we're lost forever on the streets of Boston
+W: We're the team that always returns.
+W: 
+W: Chorus
+W: 
+W: We expected trouble, so we thought we'd ask a native,
+W: And we got her to draw a map.
+W: First she sent us to a rotary, we went three-fourths 'round it
+W: And we fell in a Moebius trap.
+W: 
+W: Chorus
+W: 
+W: When we called our native guide and said we're getting nowhere,
+W: Can you help us to find the Pike?
+W: She said "I thought that I had given you the right directions,
+W: But I go everywhere by bike."
+W: 
+W: Chorus
+W:
+W: When we called our other teammates on their handy cell phones to say
+W:"Sorry, we're running late," 
+W: Tom said "My GPS has sent us to a cemetery.
+W:Hope that you can avoid our fate."
+W: 
+W:Chorus
+W: 
+W:We keep turning at the corner with the Dunkin' Donuts 
+W: And the gas station on the right,
+W:But every signless road leads to the same damn rotary
+W: And now you understand our plight.
+W:
+W: Chorus
+W:
+W: Tag: Or never left
+
+X:16
+T:Morning Glory
+R:reel
+H:Source: Red Stags Morris
+H:Dance and tune composed by Andy Anderson 
+C:Andy Anderson.
+M:4/4
+L:1/8
+K:G
+P:A
+BA |: G2 d2 Bc d2 | GFGA G4 | edce d2 B2 |1 cBAG A2 BA :|2 cB A2 G4 |]
+P:B
+d2 de d2 B2 | d^cde d2 B2 | e2 e=f e2 c2 | ede=f e2 c2 | 
+d2 de d2 B2 | d^cde d2 B2 | edce d2 B2 | cB A2 G4 |]
+
+X:17
+T:Morningstar
+R:hornpipe
+H:Source: Shropshire Bedlams
+H:The Hounds use the Bledington version rather than the tune
+H:   transcribed in John Kirkpatrick's "Opus Pocus"
+M:4/4
+L:1/8
+K:G
+P:A
+GA | BcBG E2 FG | ABAF D2 GA | BcBG E2 AF | D2 G2 G2 :|
+P:B
+GA | B2 B2 d2 d2 | egfe dcBA | GABc d2d2 | egfe d4 | 
+B2 Bc d2d2 | egfe dB G2 | ABcA FGAF | D2 G2 G2 :|
+
+X:18
+T:Mr Dolly
+T:Tune: George Green's College Hornpipe
+H:Source: Red Stags Morris
+R:hornpipe
+C:Traditional.
+M:4/4
+L:1/8
+K:G
+P:A
+((3DEF) | G>BA>G F2 ((3DEF) | G>BA>G F2 d2 | c>BA>G F>DE>F |1 A>GF>E D2 :|
+P:B
+|2 G2 B2 G2 A2 |] B2 d2 B2 d2 | e>dc>B c4 | c>BA>G F>DE>F | A>GF>E D2 ((3DEF) |
+ G>BA>G F2 ((3DEF) | G>BA>G F2 d2 | c>BA>G F>DE>F | G2 B2 G2  |]
+
+X:19
+T:Northern Star
+T:Tune: Donkey Ride
+H:Source: Bassett Street Hounds
+H:Tune is the same as used for the Bledington-style dance
+H:  composed by the Binghamton Morris Men
+R:hornpipe
+M:4/4
+L:1/4
+K:G
+P:A
+E G B B | c A B3 |1 B A A G/A/ | B A A G/F/ :|2 B G A F | E2 E2 |]
+P:B
+e2 d2 | c A B2 | B A A G/A/ | B A A F |
+e2 d2 | c A B2 | B G A F | E2 E2 :|
+W: (Last time, B part):
+W: Hey, ho, away we go,
+W: Aardvark riding, aardvark riding,
+W: Hey, ho, away we go,
+W: Riding on an aardvark.
+
+X:20
+T:Northumberland Musketeers
+T:Tune: Shave the Donkey
+H:Source: Bassett Street Hounds
+H:Dance composed by Mike Miller
+H:Tune is the Bampton version
+M:4/4
+L:1/8
+K:G
+P:A
+d2 B2 d>c B>A | G2 g2 e2 g2 | d2 B2 d>c B>A | G2 B2 G4 :|
+P:B
+A3 c B2 d2 | A3 c B2 d2 | A3 c B2 d>e | d>c B>A B2 G2 |
+A2 A>c B2 d2 | A2 A>c B2 d2 | A2 A>c B2 d>e | d>c B>A G4 |]
+
+X:21
+T:Not A Banana
+T:Tune: The Fandango
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+(3ABc|:d2 d dcd|B2 G FGA|d2 d d2 e|fda f2 d|
+d2 d dcd|B2 G FGA|d2 d d2 g|e2 a f2 d:|
+aba f2 d|AFd AFd|aba f2 d|BGd BGd|
+aba f2 d|B2 G FGA|B2 d e2 c|1 d3 dfg:|2 d3 d2|| 
+
+X:22
+T:Ockington
+T:Tune: Drowsy Maggie
+H:Source: Ockington Morris
+H:Written by Robert Harris
+R:reel
+M:4/4
+L:1/8
+M:C|
+K:Edor
+P:A
+|: ~E2BE dEBE | ~E2BE AFDF | ~E2BE dEBE | BABc dAFD | E2 E2 E4 :|
+P:B
+d2fd c2ec | defg afge | d2fd cdec | BABc dAFD | E2 E2 E4 |]
+
+X:23
+T: The Prisoner
+T: Tune: The Rights Of Man
+H: Source: dance by David Smukler, tune from thesession.org/tunes/83
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Emin
+|:G>A|B2A2 G2F2|E>FG>A B2 e>f|g>fe>d e>dB>d|c>BA>G A2G>A|
+((3BcB) ((3ABA) ((3GAG) ((3FGF)|E>FG>A B2 e>f|g>fe>d B>gf>g|e2 E2 E2:|
+|:g>a|b>ab>g e>fg>a|b>ab>g e>gf>e|d2 d>^cd>e f>g|a>fd>f a2g>f|
+e>de>f g>fg>a|((3bag) ((3agf) g>fe>f|g>fe>d B>gf>g|e2 E2 E2:| 
+
+X:24
+T:Ring O' Bells
+H:Source: Bassett Street Hounds
+H:Based on the Lichfield dance
+R:Reel
+M:2/4
+S:Bacon (Jour EFDSS) 
+P:(AB)2.A2B2
+H:transcribed by Steve Allen
+F:http://www.ucolick.org/~sla/morris/music/Lichfield/ringobel.lb.abc
+K:G
+I:speed 400
+P:A
+{A}B4  A4 | G2c2 B4   | A2G2 F2G2  | B4   A4 |
+   B4  A4 | G2c2 B4   | A2d2 d2^c2 | d8      |]
+P:B
+  d4  =c4 | B2g2 e4   | d4   c4    | B2g2 e4 |
+  d2G2 c4 | B2F2 G2c2 | B4   A4   | G8      |]
+
+X:25
+T:Southern Cross
+H:Source: Bassett Street Hounds
+T:Tune: Waltzing Matilda
+M:4/4
+L:1/8
+K:G
+P:A
+G>A | B2 B2  A2 B>A | G>A B>G E>F (3GFE | D2 G>B d2 d>e | d2 c>B A2 G>A |
+      B2 B2  A2 B>A | G>A B>G E>F (3GFE | D2 G>B d2 c>B | A2 A>A G2 |]
+P:B
+z2  | d2 d>e d2 B2  | g2  g>g f2  e2    | d2 d>d e2 d>B | d2 c>B A2 G>A |
+      B2 B2  A2 B>A | G>A B>G E>F (3GFE | D2 G>B d2 c>B | A2 G>F G2 |]
+
+X:26
+T:Titterstone Clee
+T:Tune: Mad Moll of the Cheshire Hunts
+R:hornpipe
+H:Source: Red Stags Morris 
+H:aka "One Cheese Toastie On the Bar"
+H:A variant of the tune in John Kirkpatrick's "Opus Pocus"
+C:John Locke.
+M:4/4
+K:G
+P:A
+((3DEF) | G2 g>f e>dc>B | A>Bc>A B2 A2 | G2 g>f e>dc>B | d>cA>F G2 ((3DEF) |
+G2 g>f e>dc>B | A>Bc>A B2 A2 | e2 d2 c2 B2 | c>AF>A G4 |]
+P:B
+D>GB>G D>GB>G | D>GB>d c2 A2 | D>FA>F D>FA>F | D>FA>c B2 G2 | 
+D>GB>G D>GB>G | D>GB>d c2 A2 | e2 d2 c2 B2 | c>AF>A G2 |]
+
+X:27
+T:Weobley Handclap Dance
+T:Tune: Jack Off the Green
+H:Source: Red Stags Morris 
+H:A variant of the tune in John Kirkpatrick's "Opus Pocus"
+R:single jig
+C:William Preece.
+W:There was a young woman / As fine as ever was seen
+W:And with an old broomstick / She knocked Jack off the green
+M:6/8
+L:1/8
+K:G
+P:A
+ D | G2 G AGA | B2 B Bcd | G2 G AGA | B3 B2 A | 
+    G2 G AGA | B2 B Bcd | e3 dBG | A3 G3 |] 
+P:B
+d3 g3 | f2 e B3 | e2 f g2 g | a2 g e2 f | g2 g gfe | d2 c B3 |
+e2 e efe |\
+M:12/8
+d2 c (B3 B3) A3 |\
+M:6/8
+G2 G AGA | B2 B Bcd | e3 dBG | A3 G3 |]
+
+X:28
+T:Weobley Hanky Dance
+T:Tune: Flowers of Edinburgh
+H:Source: Red Stags Morris 
+R:hornpipe
+C:William Preece.
+M:4/4
+L:1/8
+K:G
+P:A
+D2 | G2 DG B2 GB | d2 B2 g3 e | d2 B2 BAGA | B2 G2 E2 D2 | 
+G2 DG B2 GB | d2 B2 g3 e | d2B2 BAGA | B2 G2 G2 f2 |] 
+P:B
+g4 f3 e | B2 e2 e3 f | g2 g2 fafd | B2 e2 e2 ge | 
+dBGB d2 d2 | edef g2 fe | d2 B2 BAGA | B2 G2 G2 |]

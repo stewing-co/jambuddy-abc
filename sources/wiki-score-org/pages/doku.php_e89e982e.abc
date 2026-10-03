@@ -1,0 +1,13 @@
+X:3613
+T:Scena ultima [Aria Apolline]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 13 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 13 ]
+%----------- edit between the lines -----
+X "^[NB: The viola staff is not written; it is used to add other instruments; see below]"  | \
+"_TBC" X | \
+%---------------------------------------------

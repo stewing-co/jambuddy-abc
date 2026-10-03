@@ -1,0 +1,30 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Muotathaler (langsamer Schottisch) F,Bb chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.26 (st10051) orig. F,Bb-Dur
+T: Zuger L\"andler-Musik (Franz Speck, Oberwil, 1945) S.6ff
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+c2 |: "F"a2ag f2fe | "Bb"(d2b2 "C7"g2c'2) | "F"a3g f2a2 | "C7"gage c2c2 | "F"a2ag f2fe | "Bb"d2b2 "C7"g2c'2 | "F"a2f2 "C7"g2e2 |1 "F"f2f2 f2c2 :|2 
+"F"f2f2 f2z2 |: "F"+>+a4 +>+c'4 | "C7"c'bab g2c'2 | "F"a3g f2a2 | "C7"gage c4 |  "F"+>+a4 +>+c'4 | "C7"c'bab g2c'2 | "F"a2f2 "C7"ageg | "F"f2f2 f2z2 :: [K:Bb]
+"Bb"B2B2 (dcdB) | "F7"A3A A2c2 | "Bb"dedc B2d2 | "F7"c6F2 | "Bb"B2B2 dcdB | "F7"A3A A2c2 | "Bb"B2d2 "F7"A2c2 | "Bb"B2B2 B2z2 :|  
+
+X:2
+T:Muotathaler (langsamer Schottisch) C,F 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+G2 |: "C"e2ed c2cB | "F"(A2f2 "G7"d2g2) | "C"e3d c2e2 | "G7"dedB G2G2 | "C"e2ed c2cB | "F"A2f2 "G7"d2g2 | "C"e2c2 "G7"d2B2 |1 "C"c2c2 c2G2 :|2 
+"C"c2c2 c2z2 |: "C"!>!e4 !>!g4 | "G7"gfef d2g2 | "C"e3d c2e2 | "G7"dedB G4 | "C"!>!e4 !>!g4 | "G7"gfef d2g2 | "C"e2c2 "G7"edBd | "C"c2c2 c2z2 :: [K:Fmaj]
+"F"F2F2 (AGAF) | "C7"E3E E2G2 | "F"ABAG F2A2 | "C7"G6C2 | "F"F2F2 AGAF | "C7"E3E E2G2 | "F"F2A2 "C7"E2G2 | "F"F2F2 F2z2 :| 
+
+X:3
+T:Muotathaler (langsamer Schottisch) G,C 10- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+D2 |: "G"B2BA G2GF | "C"(E2c2 "D7"A2d2) | "G"B3A G2B2 | "D7"ABAF D2D2 | "G"B2BA G2GF | "C"E2c2 "D7"A2d2 | "G"B2G2 "D7"A2F2 |1 "G"G2G2 G2D2 :|2 
+"G"G2G2 G2z2 |: "G"!>!B4 !>!d4 | "D7"dcBc A2d2 | "G"B3A G2B2 | "D7"ABAF D4 | "G"!>!B4 !>!d4 | "D7"dcBc A2d2 | "G"B2G2 "D7"BAFA | "G"G2G2 G2z2 :: [K:Cmaj]
+"C"C2C2 (EDEC) | "G7"B,3B, B,2D2 | "C"EFED C2E2 | "G7"D6G,2 | "C"C2C2 EDEC | "G7"B,3B, B,2D2 | "C"C2E2 "G7"B,2D2 | "C"C2C2 C2z2 :| 

@@ -1,0 +1,91 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Ruck-seck-sack (Monferina)  F
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.271 (mf00926) orig. F-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:F %%MIDI gchordon
+"F"c2Ac2A | cdc "C7"B2G | B2GB2G | BcB "F"A2F | A2FA2F | ABA"C7"G3 | d2dc2c | BAG"F"F3 :: [M:2/4] [L:1/16] "F"cBAB cBAB | 
+c2dc B2A2 | "C7"BAGA BAGA | B2cB "F"A2F2 | AGFG AGFG | A2BA"C7"G4 | dddd c2c2 | B2AG"F"F4 :| 
+% mf00926
+X:2
+T:Ruck-seck-sack (Monferina)  C 5-
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:C%%MIDI gchordon
+"C"G2EG2E | GAG "G7"F2D | F2DF2D | FGF "C"E2C | E2CE2C | EFE"G7"D3 | A2AG2G | FED"C"C3 :: [M:2/4] [L:1/16] "C"GFEF GFEF | 
+G2AG F2E2 | "G7"FEDE FEDE | F2GF "C"E2C2 | EDCD EDCD | E2FE"G7"D4 | AAAA G2G2 | F2ED"C"C4 :| 
+% mf00926
+X:3
+T:Ruck-seck-sack (Monferina)  G 2+
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:G%%MIDI gchordon
+"G"d2Bd2B | ded "D7"c2A | c2Ac2A | cdc "G"B2G | B2GB2G | BcB"D7"A3 | e2ed2d | cBA"G"G3 :: [M:2/4] [L:1/16] "G"dcBc dcBc | 
+d2ed c2B2 | "D7"cBAB cBAB | c2dc "G"B2G2 | BAGA BAGA | B2cB"D7"A4 | eeee d2d2 | c2BA"G"G4 :| 
+% mf00926
+X:4
+T: Ruck-seck-sack (Monferina)  F (5letras transposed)
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"c2Ac2A | cdc "C7"B2G | B2GB2G | BcB "F"A2F | A2FA2F | ABA"C7"G3 | d2dc2c | BAG"F"F3 :: [M:2/4] [L:1/16] "F"cBAB cBAB | 
+c2dc B2A2 | "C7"BAGA BAGA | B2cB "F"A2F2 | AGFG AGFG | A2BA"C7"G4 | dddd c2c2 | B2AG"F"F4 :| 
+% mf00926
+X:5
+T:Ruck-seck-sack (Monferina)  C (5letras transposed)
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"G2EG2E | GAG "G7"F2D | F2DF2D | FGF "C"E2C | E2CE2C | EFE"G7"D3 | A2AG2G | FED"C"C3 :: [M:2/4] [L:1/16] "C"GFEF GFEF | 
+G2AG F2E2 | "G7"FEDE FEDE | F2GF "C"E2C2 | EDCD EDCD | E2FE"G7"D4 | AAAA G2G2 | F2ED"C"C4 :| 
+% mf00926
+X:6
+T:Ruck-seck-sack (Monferina)  G (5letras transposed)
+%%MIDI program 21
+R:monferine
+M:6/8
+L:1/8
+K:Gtranspose=3 %%MIDI gchordon
+"G"d2Bd2B | ded "D7"c2A | c2Ac2A | cdc "G"B2G | B2GB2G | BcB"D7"A3 | e2ed2d | cBA"G"G3 :: [M:2/4] [L:1/16] "G"dcBc dcBc | 
+d2ed c2B2 | "D7"cBAB cBAB | c2dc "G"B2G2 | BAGA BAGA | B2cB"D7"A4 | eeee d2d2 | c2BA"G"G4 :| 
+% mf00926
+X:7
+T:Ruck-seck-sack (Monferina) D (tinwhistle in D)
+T:mf00926 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:monferine
+M:6/8
+L:1/8
+K:D %%MIDI gchordon
+"D"A2FA2F | ABA "A7"G2E | G2EG2E | GAG "D"F2D | F2DF2D | FGF"A7"E3 | B2BA2A | GFE"D"D3 :: [M:2/4] [L:1/16] "D"AGFG AGFG | 
+A2BA G2F2 | "A7"GFEF GFEF | G2AG "D"F2D2 | FEDE FEDE | F2GF"A7"E4 | BBBB A2A2 | G2FE"D"D4 :| 
+X:8
+T:Ruck-seck-sack (Monferina) D (tinwhistle in D)
+T:mf00926 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:monferine
+M:6/8
+L:1/8
+K:D transpose=12
+"D"A2FA2F | ABA "A7"G2E | G2EG2E | GAG "D"F2D | F2DF2D | FGF"A7"E3 | B2BA2A | GFE"D"D3 :: [M:2/4] [L:1/16] "D"AGFG AGFG | 
+A2BA G2F2 | "A7"GFEF GFEF | G2AG "D"F2D2 | FEDE FEDE | F2GF"A7"E4 | BBBB A2A2 | G2FE"D"D4 :| 
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 1, 2016

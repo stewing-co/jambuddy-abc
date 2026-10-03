@@ -1,0 +1,18 @@
+X:2314
+T:Coro
+C:Pugnani, Gaetano (1731-1798)
+M:3/8
+L:1/8
+K:Cm
+V: 14 clef=bass name="[Basso]" sname="B."
+%%MIDI program 1 42
+%%staves [ 14 ]
+%-----------------------
+[Q:"Andante"] \
+"_[fol. 257]" (!/!C,3 | D,3 | =E,3| F,3) | =E,/>F,/ G,G,, | C,2z | !/! C,3 |  !/! D,3 | _E,2 =E, | F,2 _E, | D,C,B,, | \
+"_[fol. 258]" =A,,2 B,, | E,2 =E, | F,F,,z | B,,/>B,/ G,_E, | D,2 E, | A,B,B,, | E,2z | A,B,B,, | E,2z | A,B,B,, | E,2z || \
+%
+%"_[fol. 259" [Q:"Presto"] [M: C] [L:1/4] !/! E,2E,z | !/! C,2C,z | z/B,/F,/D,/ B,, z | z/>D,/ D, z2 | E,2z2 || \
+%"_[fol. 260" [Q:"Andante"] G,zG,,z | C,zC,z | F, z G,/z/ G,,/z/ | z F,/z/ G,/z/ G,,/z/ | C, z A,,2 || \
+% "_[fol. 261" [Q:"Presto"] !/!G,4 | G,zz2 | Z | !/!C,2 C, z | !/!F,2 F,z | zG,C,"^Aria;Euridice" z x || \
+%-----------------------

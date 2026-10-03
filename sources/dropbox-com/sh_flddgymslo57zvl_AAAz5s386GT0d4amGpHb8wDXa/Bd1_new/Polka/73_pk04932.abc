@@ -1,0 +1,49 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Feldkircher-Polka CF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.305 (pk04932) orig. C,F-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+"C"gc'e2 e2e2 | e2e2 {/f}ede2 | egc2 c2c2 | c2c2 {/d}cBc2 | {/e}"G7"d^cd2 {/e}dcd2 |  {/f}"C"e^de2 {/f}ede2 | {/g}"G7"fef2 {/g}fef2 | 
+{/a}"C"g^fgc' e'4 | gc'e2 e2e2 | e2e2 {/f}e^de2 | egc2 c2c2 | c2c2 {/d}cBc2 | {/e}"D7"d^cd2 c'2c'2 | "G"c'2b2 bc'b2 | 
+"D7"b2a2 aba2 | "G"g2g2 g2z2 |: "C"gc'c'2 gc'c'2 | "G7"dbb2 a^ga2 | Bgg2 Aff2 | {/d}"C"cBcd efga | gc'c'2 gc'c'2 | 
+"G7"dbb2 a^ga2 | Bgg2 BggB | "C"c2{/d}cB c2"_fine"z2 :| [K:F] "F"!>!c'6af | d2c2 c2fg | a2a2 b2a2 | "C7"g6c'2 |  c'2e'd' c'3b | 
+"F"b2a2 aba2 | "C7"a2g2 gag2 |  "F"g2f2 fgf2 | "C7"c'2e'd' c'3b | "F"Tb2a2 aba2 | "Gm"Ta2g2 "C7"Ta2g2 | "F"f2f2 f2z2 |]  
+
+X:2
+T: Feldkircher-Polka CF (solo, simpl.)
+M:2/4
+L:1/16
+K:C
+"C"gc'e2 e2e2 | e2e2 ede2 | egc2 c2c2 | c2c2 cBc2 | "G7"d^cd2 dcd2 |  "C"e^de2 ede2 | "G7"fef2 fef2 | 
+"C"g^fgc' e'4 | gc'e2 e2e2 | e2e2 e^de2 | egc2 c2c2 | c2c2 cBc2 | "D7"d^cd2 c'2c'2 | "G"c'2b2 bc'b2 | 
+"D7"b2a2 aba2 | "G"g2g2 g2z2 |: "C"gc'c'2 gc'c'2 | "G7"dbb2 a^ga2 | Bgg2 Aff2 | "C"cBcd efga | gc'c'2 gc'c'2 | 
+"G7"dbb2 a^ga2 | Bgg2 BggB | "C"c2cB c2"_fine"z2 :| [K:F] "F"!>!c'6af | d2c2 c2fg | a2a2 b2a2 | "C7"g6c'2 |  c'2e'd' c'3b | 
+"F"b2a2 aba2 | "C7"a2g2 gag2 |  "F"g2f2 fgf2 | "C7"c'2e'd' c'3b | "F"b2a2 aba2 | "Gm"a2g2 "C7"Ta2g2 | "F"f2f2 f2z2 |]  
+
+X:3
+T:Feldkircher-Polka GC 5- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"dgB2 B2B2 | B2B2 {/c}BAB2 | BdG2 G2G2 | G2G2 {/A}GFG2 | {/B}"D7"A^GA2 {/B}AGA2 | {/c}"G"B^AB2 {/c}BAB2 | {/d}"D7"cBc2 {/d}cBc2 | 
+{/e}"G"d^cdg b4 | dgB2 B2B2 | B2B2 {/c}B^AB2 | BdG2 G2G2 | G2G2 {/A}GFG2 | {/B}"A7"A^GA2 g2g2 | "D"g2f2 fgf2 | 
+"A7"f2e2 efe2 | "D"d2d2 d2z2 |: "G"dgg2 dgg2 | "D7"Aff2 e^de2 | Fdd2 Ecc2 | {/A}"G"GFGA Bcde | dgg2 dgg2 | 
+"D7"Aff2 e^de2 | Fdd2 FddF | "G"G2{/A}GF G2"_fine"z2 :| [K:Cmaj] "C"!>!g6ec | A2G2 G2cd | e2e2 f2e2 | "G7"d6g2 | g2ba g3f | 
+"C"f2e2 efe2 | "G7"e2d2 ded2 | "C"d2c2 cdc2 | "G7"g2ba g3f | "C"Tf2e2 efe2 | "Dm"Te2d2 "G7"Te2d2 | "C"c2c2 c2z2 |] 
+
+X:4
+T:Feldkircher-Polka GC 5- (solo, simpl.)
+M:2/4
+L:1/16
+K:Gmaj
+"G"dgB2 B2B2 | B2B2 BAB2 | BdG2 G2G2 | G2G2 GFG2 | "D7"A^GA2 AGA2 | "G"B^AB2 BAB2 | "D7"cBc2 cBc2 | 
+"G"d^cdg b4 | dgB2 B2B2 | B2B2 B^AB2 | BdG2 G2G2 | G2G2 GFG2 | "A7"A^GA2 g2g2 | "D"g2f2 fgf2 | 
+"A7"f2e2 efe2 | "D"d2d2 d2z2 |: "G"dgg2 dgg2 | "D7"Aff2 e^de2 | Fdd2 Ecc2 | "G"GFGA Bcde | dgg2 dgg2 | 
+"D7"Aff2 e^de2 | Fdd2 FddF | "G"G2GF G2"_fine"z2 :| [K:Cmaj] "C"!>!g6ec | A2G2 G2cd | e2e2 f2e2 | "G7"d6g2 | g2ba g3f | 
+"C"f2e2 efe2 | "G7"e2d2 ded2 | "C"d2c2 cdc2 | "G7"g2ba g3f | "C"f2e2 efe2 | "Dm"e2d2 "G7"Te2d2 | "C"c2c2 c2z2 |] 
+

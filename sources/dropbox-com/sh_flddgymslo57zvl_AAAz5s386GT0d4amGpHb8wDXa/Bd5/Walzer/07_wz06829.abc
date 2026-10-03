@@ -1,0 +1,75 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Rosalien-Walzer  C (wz06829)
+T:Hanny Christen. Bd.V  Basel II, Jura. S.19  (wz06829) orig. C
+T: Basel II. Tänze aus Augst. S.6-42.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"e2d | e2f | a2g | e2e | "G7"g2f | d2c/d/ | "C"f2e | c3 | e2d | e2f | 
+a2g | e2e | "Dm"d2e | f2e | "G7"g>gg | gzz :: "F"a3 | agf | "C"e3 | ede | 
+"G7"d3 | dcB | "C"e3 | efg | "F"a3 | agf | "C"e3 | ede | "G7"d3 | dcB | 
+"C"c>cc | czz :: "F"a>aa | c'fa |  "C"g>gg | gfe | "G7"f>ff | fed | "C"e>ee | 
+efg | "F"a>aa | c'fa | "C"g>gg | gfe | "G7"d>dd | ded | "C"c>cc | czz :|
+% wz06829 (Heft 236/TN 38)
+% Nov 13, 2017
+
+X:2
+T:Rosalien-Walzer  G 5- (wz06829)
+S:Hanny Christen. Bd.V  Basel II, Jura. S.19  (wz06829) orig. C
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"B2A | B2c | e2d | B2B | "D7"d2c | A2G/2A/2 | "G"c2B | G3 | B2A | B2c | 
+e2d | B2B | "Am"A2B | c2B | "D7"d>dd | dzz :: "C"e3 | edc | "G"B3 | BAB | 
+"D7"A3 | AGF | "G"B3 | Bcd | "C"e3 | edc | "G"B3 | BAB | "D7"A3 | AGF | 
+"G"G>GG | Gzz :: "C"e>ee | gce | "G"d>dd | dcB | "D7"c>cc | cBA | "G"B>BB | 
+Bcd | "C"e>ee | gce | "G"d>dd | dcB | "D7"A>AA | ABA | "G"G>GG | Gzz :|
+% wz06829 (Heft 236/TN 38)
+% Nov 13, 2017
+
+X:3
+T:Rosalien-Walzer  F 7- (wz06829)
+S:Hanny Christen. Bd.V  Basel II, Jura. S.19  (wz06829) orig. C
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"A2G | A2B | d2c | A2A | "C7"c2B | G2F/2G/2 | "F"B2A | F3 | A2G | A2B | 
+d2c | A2A | "Gm"G2A | B2A | "C7"c>cc | czz :: "Bb"d3 | dcB | "F"A3 | AGA | 
+"C7"G3 | GFE | "F"A3 | ABc | "Bb"d3 | dcB | "F"A3 | AGA | "C7"G3 | GFE | 
+"F"F>FF | Fzz :: "Bb"d>dd | fBd | "F"c>cc | cBA | "C7"B>BB | BAG | "F"A>AA | 
+ABc | "Bb"d>dd | fBd | "F"c>cc | cBA | "C7"G>GG | GAG | "F"F>FF | Fzz :|
+% wz06829 (Heft 236/TN 38)
+% Nov 13, 2017
+
+X:4
+T:Rosalien-Walzer  D (wz06829) tintwhistle in D
+S:Hanny Christen. Bd.V  Basel II, Jura. S.19  (wz06829) orig. C
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Walzer
+M:3/4
+L:1/4
+K:D  transpose=12 %%MIDI gchordon
+"D"F2E | F2G | B2A | F2F | "A7"A2G | E2D/2E/2 | "D"G2F | D3 | F2E | F2G | 
+B2A | F2F | "Em"E2F | G2F | "A7"A>AA | Azz :: "G"B3 | BAG | "D"F3 | FEF | 
+"A7"E3 | EDC | "D"F3 | FGA | "G"B3 | BAG | "D"F3 | FEF | "A7"E3 | EDC | 
+"D"D>DD | Dzz :: "G"B>BB | dGB | "D"A>AA | AGF | "A7"G>GG | GFE | "D"F>FF | 
+FGA | "G"B>BB | dGB | "D"A>AA | AGF | "A7"E>EE | EFE | "D"D>DD | Dzz :|
+% wz06829 (Heft 236/TN 38)
+% Nov 13, 2017

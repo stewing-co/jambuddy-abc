@@ -1,0 +1,39 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Varsovienne FCBb  (vr07432)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.339 (vr07432) orig. F,C,Bb
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Varsovienne
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+(AB) |: "F"c>=B .c2.f2 | !>!"C7"e4 (ef) | g>^f .g2.c'2 | !>!"F"a4 (AB) | c>=B .c2.a2 | "Gm"b3.a .g.f | "C7"e>f .g2.e2 |1 !>!"F"f4 (AB) :|2 !>!"F"f4 e>f || [K:C] 
+|: "C"g(^f/g/) .c'2.e2 | g(^f/g/) .c'2.e2 | g(^f/g/) .e.g .c.e | "G7"f4 d>e | f(e/f/) .b2.d2 | f(e/f/) .b2.d2 | B>d a>g f>d |1 "C"c4 e>f :|2 "C"c4c>c || [K:F] 
+("F"cA) .f.c .A.F | !>!"C7"E4 c>c | (BG) .e.c .d.B | "F"A4c>c | (cf) .a.f .c.f | "Bb"d3b gf | ("C7"eg) c>b g>e | "F"f4 (d_e) || [K:Bb] 
+|: "F7"f>=e .f2.g2 | "Bb"f>=e .f2.d'2 | "F7"c'>b .a2.g2 | ("Bb"g4f2) | "F7"f>=e .f2.g2 | "G7"f>=e .f2.=b2 | "C7"d'>c' .g2"F7".a2 |1 "Bb"b4de :|2 "Bb"b4z2 |]  
+W:Anmerkung Hrsg.: Titel HC: Warsovienne
+% vr07432 (John aka as John Winter)
+% Aug 24, 2017 
+
+X:2
+T:Varsovienne CGF 5-  (vr07432)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.339 (vr07432) orig. F,C,Bb
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Varsovienne
+M:3/4
+L:1/8
+K:C%%MIDI gchordon
+(EF) |: "C"G>^F .G2.c2 | !>!"G7"B4 (Bc) | d>^c .d2.g2 | !>!"C"e4 (EF) | G>^F .G2.e2 | "Dm"f3.e .d.c | "G7"B>c .d2.B2 |1 !>!"C"c4 (EF) :|2 !>!"C"c4 B>c || [K:G] 
+|: "G"d(^c/2d/2) .g2.B2 | d(^c/2d/2) .g2.B2 | d(^c/2d/2) .B.d .G.B | "D7"c4 A>B | c(B/2c/2) .f2.A2 | c(B/2c/2) .f2.A2 | F>A e>d c>A |1 "G"G4 B>c :|2 "G"G4G>G || [K:C] 
+("C"GE) .c.G .E.C | !>!"G7"B,4 G>G | (FD) .B.G .A.F | "C"E4G>G | (Gc) .e.c .G.c | "F"A3f dc | ("G7"Bd) G>f d>B | "C"c4 (A_B) || [K:F] 
+|: "C7"c>=B .c2.d2 | "F"c>=B .c2.a2 | "C7"g>f .e2.d2 | ("F"d4c2) | "C7"c>=B .c2.d2 | "D7"c>=B .c2.^f2 | "G7"a>g .d2"C7".e2 |1 "F"f4AB :|2 "F"f4z2 |] 
+%W:Anmerkung Hrsg.: Titel HC: Warsovienne
+% vr07432 (John aka as John Winter)
+% Aug 24, 2017 

@@ -1,0 +1,34 @@
+%%partsbox
+%%MIDI program 21
+
+X: 1
+T: Mazurka CF chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.363 (mz08850) orig. C,F-Dur
+T: T\"anze aus B\"uren an der Aare (Bern) S.353ff
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"ef g>f e2 | "G7".f2 +>+f4 | de f>ed2 | "C".e2+>+e4 | "G7"d>ef4 | "C"e>fg4 | "G7"d>e f>g a>b | "C"c'2c'2z2 |:
+"F"a>b c'2a2 | "C"ga g>f e2 | "G7"fg f>ed2 | "C"ed e>fg2 | "F"a>bc'2a2 | "C"ga g>fe2 | "G7"de f>e f>B | "C"c2c2z2 :: [K:F]
+"F"f4cA | c2c2c2 | "C7"e>fg2e2 | "F"f2a2a2 | c4 fa | "C7"g2b3b | g>fe2g2 | "F"f2f2z2 ::
+"Bb"dfb3d | "F"cfa3f | "C7"gb e>de2 | "F"fa c>=B c2 | "Bb"dfb3d | "F"cf a3f | "C7"gb eg b>e | "F"f2f2z2 :| 
+
+X: 2
+T: Mazurka CF chords Anm
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"ef g>f e2 | "G7""_f".f2 +>+f4 | "_d"de "_f"f>e"_ d ="d2 | "C".e2+>+"_ ="e4 | "G7""_d"d>e"_f"f4 | "C"e>fg4 | "G7""_d"d>e "_f"f>g "_a"a>"_h"b | "C"c'2c'2z2 |:
+"F"a>b c'2a2 | "C"ga g>f e2 | "G7""_f"fg "_f"f>e"_ d ="d2 | "C"ed e>fg2 | "F"a>bc'2a2 | "C"ga g>f"_ e ="e2 | "G7""_d"de "_f"f>e "_f"f>"_ h ="B | "C"c2c2z2 :: [K:F]
+"F"f4cA | c2c2c2 | "C7""_e"e>f"_g"g2"_ e ="e2 | "F"f2a2a2 | c4 f"_ ="a | "C7""_g"g2"_b"b3b | "_g"g>f"_e"e2"_g"g2 | "F"f2f2z2 ::
+"Bb""_d"df"_b"b3"_ d ="d | "F"cfa3f | "C7""_g"g"_b"b "_e"e>"_d"d"_ e ="e2 | "F"fa c>=B "_ ="c2 | "Bb""_d"df"_b"b3"_ d ="d | "F"cf a3f | "C7""_g"g"_b"b "_e"e"_g"g "_b"b>"_e ="e | "F"f2f2z2 :| 
+
+X:3
+T:Mazurka GC 5- chords Anm
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"Bc d>c B2 | "D7"."_c"c2 !>!c4 | "_a"AB "_c"c>B"_ a ="A2 | "G".B2!>!"_ ="B4 | "D7"A>Bc4 | "G"B>cd4 | "D7""_a"A>B "_c"c>d "_e"e>"_#"f | "G"g2g2z2 |:
+"C"e>"_#""_**"f g2e2 | "G"de d>c B2 | "D7""_c"cd "_c"c>B"_ a ="A2 | "G"BA B>cd2 | "C"e>"_#""_**"fg2e2 | "G"de d>c"_ ="B2 | "D7""_a"AB "_c"c>B "_c"c>"_ # ="F | "G"G2G2z2 :: [K:Cmaj]
+"C"c4GE | G2G2G2 | "G7""_h"B>c"_d"d2"_ ="B2 | "C"c2e2e2 | G4 c"_ ="e | "G7""_d"d2"_f"f3f | "_d"d>c"_h"B2"_d"d2 | "C"c2c2z2 ::
+"F"Acf3A | "C"Gce3c | "G7""_d"d"_f"f "_h"B>"_a"A"_ h ="B2 | "C"ce G>^F G2 | "F"Acf3A | "C"Gc e3c | "G7""_d"d"_f"f "_h"B"_d"d "_f"f>"_ h ="B | "C"c2c2z2 :| 

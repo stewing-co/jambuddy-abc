@@ -1,0 +1,48 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Schottisch  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: Das Repertoire der B\"abi-Musig, Alpnach. S.62-108. S.78 (st09076) orig. C,F
+T: \"Uberliefert durch Josef B\"abi, Alpnach, 1880
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+g |: "C"gg {/g}ag | {/g}"G7"bb ba | gg {/g}ag | "C"e'c'g2 | gg {/b}ag | "G"bd' ^c'd' | "D7"e'd' c'a |1 
+"G"gg gg :|2 "G"gg gz |: [L:1/16] "C"c2Bc dcfe | "D7"d2^cd ede^f | "G7"g2gB g2a2 | "C"g2gc e2GB | c2Bc dcfe | 
+"D7"d2^cd ede^f | "G7"g2gB a2g2 |1 "C"c2e2 c2z2 :|2 "C"c2e2 c2d'2 |: [K:F] [L:1/8] "C7"c'b ga | "F"f3d'/c'/ | "C7"e3d'/c'/ | "F"f3f | 
+"Bb"ed ^cd | "F"c'3a/f/ | "C7"c'b/g/ c'b/g/ | "F"c'a/f/ cd' | "C7"c'b ga | "F"f3d'/c'/ | "C7"e3d'/c'/ | 
+"F"f3f | "Bb"gf ed | "F"d'c'/a/ c'a/c'/ | "C7"d'c'/g/ c'e/c'/ |1 "F"fa fd' :|2 "F"fa fz |: {/c}"F"aa  {/c}aa | 
+"Gm"a/g/^f/g/ !>!d'2 | "C7"f/e/^d/e/!>!c'2 | "F"d/c/=B/c/!>!a2 | {/c}aa {/c}aa | "Gm"a/g/^f/g/ d'2 | "F"f'a/b/ "C7"d'/c'/b/a/ | "F"ff fz :| 
+% st09076
+X:2
+T:Schottisch  GC 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+d |: "G"dd {/d}ed | {/d}"D7"ff fe | dd {/d}ed | "G"bgd2 | dd {/f}ed | "D"fa ^ga | "A7"ba ge |1 
+"D"dd dd :|2 "D"dd dz |: [L:1/16] "G"G2FG AGcB | "A7"A2^GA BAB^c | "D7"d2dF d2e2 | "G"d2dG B2DF | G2FG AGcB | 
+"A7"A2^GA BAB^c | "D7"d2dF e2d2 |1 "G"G2B2 G2z2 :|2 "G"G2B2 G2a2 |: [K:C] [L:1/8] "G7"gf de | "C"c3a/2g/2 | "G7"B3a/2g/2 | "C"c3c | 
+"F"BA ^GA | "C"g3e/2c/2 | "G7"gf/2d/2 gf/2d/2 | "C"ge/2c/2 Ga | "G7"gf de | "C"c3a/2g/2 | "G7"B3a/2g/2 | 
+"C"c3c | "F"dc BA | "C"ag/2e/2 ge/2g/2 | "G7"ag/2d/2 gB/2g/2 |1 "C"ce ca :|2 "C"ce cz |: {/G}"C"ee {/G}ee | 
+"Dm"e/2d/2^c/2d/2 !>!a2 | "G7"c/2B/2^A/2B/2!>!g2 | "C"A/2G/2^F/2G/2!>!e2 | {/G}ee {/G}ee | "Dm"e/2d/2^c/2d/2 a2 | "C"c'e/2f/2 "G7"a/2g/2f/2e/2 | "C"cc cz :| 
+% st09076
+X:3
+T:Schottisch  GC (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+d |: "G"dd {/d}ed | {/d}"D7"ff fe | dd {/d}ed | "G"bgd2 | dd {/f}ed | "D"fa ^ga | "A7"ba ge |1 
+"D"dd dd :|2 "D"dd dz |: [L:1/16] "G"G2FG AGcB | "A7"A2^GA BAB^c | "D7"d2dF d2e2 | "G"d2dG B2DF | G2FG AGcB | 
+"A7"A2^GA BAB^c | "D7"d2dF e2d2 |1 "G"G2B2 G2z2 :|2 "G"G2B2 G2a2 |: [K:C] [L:1/8] "G7"gf de | "C"c3a/2g/2 | "G7"B3a/2g/2 | "C"c3c | 
+"F"BA ^GA | "C"g3e/2c/2 | "G7"gf/2d/2 gf/2d/2 | "C"ge/2c/2 Ga | "G7"gf de | "C"c3a/2g/2 | "G7"B3a/2g/2 | 
+"C"c3c | "F"dc BA | "C"ag/2e/2 ge/2g/2 | "G7"ag/2d/2 gB/2g/2 |1 "C"ce ca :|2 "C"ce cz |: {/G}"C"ee {/G}ee | 
+"Dm"e/2d/2^c/2d/2 !>!a2 | "G7"c/2B/2^A/2B/2!>!g2 | "C"A/2G/2^F/2G/2!>!e2 | {/G}ee {/G}ee | "Dm"e/2d/2^c/2d/2 a2 | "C"c'e/2f/2 "G7"a/2g/2f/2e/2 | "C"cc cz :| 
+% st09076
+% Aug 10, 2016

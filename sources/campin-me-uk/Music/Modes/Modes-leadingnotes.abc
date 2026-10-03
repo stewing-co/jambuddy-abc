@@ -1,0 +1,371 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+
+Leading Notes and Alternate Rising/Falling Modes
+================================================
+
+In some traditions like Arabic music, modes are more complicated in
+having two alternate forms used when the melody is rising or falling.
+In Scottish music it sometimes happens like this, where the tune is
+heptatonic, but the seventh only occurs in ascending lines:
+
+X:0
+T:The Birks of Invermay
+G:strathspey
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+B>c|d3e     d>BA>G|A>GA>B E3G  |D>ED>B, D2G>D |B,2D>E D2G>B|
+    d2ef/g/ d<BA>G|c>BAG  E2B>A|G>ED>B, D2G>A |B2A>G  G2  ||
+D>C|B,3D    E>DE<G|A>GA<B E2e2 |d>ed>B  c>BA<G|c>dc>B A2d>c|
+    B>de>f  g3e   |d>BA>G E2B>A|G>ED>B, D2 G>A|B2A>G  G2  |]
+
+This tune does the opposite: the seventh only occurs in descending motion.
+
+X:0
+T:Kelvingrove
+M:C
+L:1/8
+G:song
+Q:1/4=80
+K:A
+AB|ce  Bc AG FE|F2 B2 B2
+AB|ce  Bc AG FE|F2 A2 A2
+Bc|d>c de f2 cd|ec BA B2
+AB|ce  Bc AG FE|F2 A2 A2|]
+
+Or this:
+
+X:0
+T:Scots Wha Hae
+G:song or march
+M:2/4
+L:1/8
+Q:1/4=80
+K:EMix
+E|E2 E>C|E>F A>A|F2  F>E|F>G AB |c2  B>A|A>B c>B|A>F F>E|E3||
+c|c2 c>B|c>d e>c|c<B B>A|B>c d>f|e>c B>A|A>B c>B|A>F F>E|E3|]
+
+which would be dorian/mixolydian hexatonic except for the use of the G in
+the rising sequence in bar 4.  Scale patterns and sequences often result
+in gaps getting filled in; they are more frequent in English and Irish
+music, which is why they use gapped scales less often than Scottish tunes.
+
+Distinct rising/falling mode occurs frequently in Western classical music
+with minor-key tunes (as "sharpened leading notes").  These asymmetric
+scales are more common in the Lowlands, perhaps because harp and bagpipes
+were not such dominant influences.  (They're also common in Simon Fraser's
+Highland music transcriptions from the early 19th century, but Fraser was
+equally unreliable as a historical or musical source: he wrote what he
+imagined he heard - Highland peasants trained to sing Mozart).
+
+The seven-note version is called the MELODIC MINOR scale, used in this
+18th century strathspey:
+
+X:0
+T:Watson's Class
+G:strathspey
+C:Niel Gow
+M:C
+L:1/8
+Q:1/4=100
+K:EMin
+   G/F/| EBGB              EB        e>^c    |d>B       A/d/A/G/  G/F/E/D/ D
+   G/F/| ABGB              EB        e>b     |a/g/f/e/  g/f/e/^d/ eE       E  :|
+   g/f/|:e>fg>e            g/a/b/g/  e>f     |d>fad               f/g/e/f/ d
+[1 f   | e>fge             g/a/b/g/  ea      |g/a/b/g/  f/g/a/f/  ge       e>B:|
+[2 a   | g/a/b/g/ f/g/a/f/ e/f/g/e/ ^d/e/f/d/|B/^c/d/B/ e/c/d/F/  GE       E  |]
+
+and in these 19th century reels:
+
+X:0
+T:Tarbolton Lodge
+M:C|
+L:1/8
+Q:1/2=100
+K:EMin
+F|Eee^d e2BA|GBAF GEEF|Ddd^c d2AF|GBAG FDD
+F|Fee^d efga|fedf eBBA|GABG  FGAF|BGAF GEE||
+f|gfef  gebe|gebe geef|dfeg  adfd|ABAG FDD
+F|G2BG  F2AF|Eeef gefd|B^cdB AGFA|BGAF GEE|]
+
+X:0
+T:Miss Shepherd
+C:Scott Skinner
+M:C|
+L:1/8
+Q:1/2=110
+K:AMin
+{^G}A|A,B,``CD E2 DC |B,G``^FG DB,`G,B,|A,B,CD E^GAc|BA^GB cAA:|
+   ^g|a2    ed cB A^F|G2    DC B,A,G,^g|a2  ed cB`Ac|BA^GB cAA
+   ^g|a/a/a ed cB A^G|G/G/G DC B,A,G,B,|A,B,CD E^GAc|BA^GB cAA|]
+
+and this Swedish hymn tune:
+
+X:0
+T:Om alla berg
+B:Lars Edlund, Modus Vetus
+M:4/4
+L:1/8
+Q:1/4=80
+K:EMin
+E   |EE GB ^df e=d|BG Bd/c/ A2 z
+G/A/|BB dc  Ac ed |B4       z2 z
+G   |EE GB ^df e=d|BG Bd/c/ A2 z
+B/A/|BA cB  G2 FF |E4       z2 z|]
+
+X:0
+T:Melodic Minor Scales
+L:1/4
+M:10/4
+K:FMin
+"^F"       F2 GA Bc =d=e f2|f2 ed cB AG F2||
+M:10/4
+K:CMin
+"^C"       C2 DE FG =A=B c2|c2 BA GF ED C2||
+M:10/4
+K:GMin
+"^G"       G2 AB cd =e^f g2|g2 fe dc BA G2||
+M:10/4
+K:DMin
+"^D"       D2 EF GA =B^c d2|d2 cB AG FE D2||
+M:10/4
+K:AMin
+"^A"       A2 Bc de ^f^g a2|a2 gf ed cB A2||
+M:10/4
+K:EMin
+"^E"       E2 FG AB ^c^d e2|e2 dc BA GF E2||
+M:10/4
+K:BMin
+"^B"       B2 cd ef ^g^a b2|b2 ag fe dc B2||
+M:10/4
+K:F#Min
+"^F sharp" F2 GA Bc ^d^e f2|f2 ed cB AG F2||
+M:10/4
+K:C#Min
+"^C sharp" C2 DE FG ^A^B c2|c2 BA GF ED C2|]
+
+A reduced minor scale with a gap at the sixth, along with a sharpened
+seventh, occurs in this Border ballad tune of about 1800:
+
+X:0
+T:Fine flowers in the valley
+G:song
+S:C.K. Sharpe/Lady John Scott, NLS MS.843
+M:4/4
+L:1/8
+Q:1/4=100
+K:GMin
+% dorian/minor hexatonic, sharp seventh at the end
+D2 |G2G>F D2D>D|G2G>F  D4||\
+    B4    A2Bc |d2c2   B2||
+Bc |d2d2  d>cBA|G<GA>B D2||\
+D>D|D2B2  BAG^F|G4     G2|]
+
+in this 19th century strathspey, based on a song at least as old
+as the early 18th century:
+
+X:0
+T:I'll Hap Ye in My Plaidie
+S:Kerr's Merry Melodies book 1
+M:C
+L:1/8
+Q:1/4=108
+K:EMin
+g|d>BA>G E>DE>G   |d>ed>B d3g|   d>BA>G E>DE>G   |e>fe>d e2e:|
+g|d>eg>a g/a/b a>g|d>ed>B d3g|[1 d>eg>a g/a/b a>g|e<ba>g e3 :|
+                              [2 d>BA>G E>DE>G   |e>fe>d e3 |]
+
+and in this jig published by Niel Gow:
+
+X:0
+T:The Sailor's Wife
+G:jig
+M:6/8
+L:1/8
+Q:3/8=112
+K:DMin
+% hexatonic, sharpened C leading notes
+E|DEF  E2D|d2e f2g|agf edc |AcA GEC|
+  DEF  E2D|d2e f2g|agf ed^c|d3  D2:|
+e|f>ga fga|fga agf|ecg ecg |ecg gfe|
+  f>ga agf|efg gfe|def ed^c|d3  D2:|
+
+and in this 19th century reel:
+
+X:0
+T:Glenburnie Rant
+G:reel
+M:C|
+L:1/8
+Q:1/2=110
+K:EMin
+e2|E2EF E2EF|DEFG AFDF|E2EF E2B2|efe^d e2:|
+B2|e2ef g2fe|defg afdf|e2ef g2fe|efe^d e2
+B2|e2ef g2fe|defg afdf|g2ag f2gf|efe^d e2|]
+
+The sharpened seventh usually occurs only immediately before the tonic,
+as in this tune (also with a gap at the sixth) which uses it in three
+different phrases and also has a natural seventh in the descending runs:
+
+X:0
+T:The Sun Rises Bright in France
+S:Loesberg, Traditional Folksongs and Ballads of Scotland
+G:song
+M:2/4
+L:1/8
+Q:1/4=69
+K:AMin
+E   |A2   A>B |A>G E>B|ce dc  |B3
+E   |A>^G Ac  |A>B EC |D2 E>^G|A3||
+c/d/|e2   ce  |d2  cB |cA d>c |B3
+e/d/|c>B  A>^G|A>G EC |D2 E>^G|A3|]
+
+Sometimes the same tonality appeared when old tunes were modified into
+minor keys, like the changes introduced into this old Highland reel in
+the dorian mode during the 18th century:
+
+X:0
+T:An Caora crom
+G:reel
+S:McFarlan MS, 1740-3
+M:C|
+L:1/8
+Q:1/2=100
+K:GDor
+DG2B AGFE|DG2B cABG|ABcB  AGFE |DG2B ABGA:|
+Gg2a fgfd|dg2a bgag|f>gfd c>BAF|DG2B ABGA:|
+
+X:0
+T:The Crooked Horn Ewe
+G:reel
+S:Sharpe MS, late 1790s
+M:C|
+L:1/8
+Q:1/2=100
+K:GDor
+ DG(GA) FGAF|.D(GGB) cABG|cABG FGAF|D(GGB)  A^FG2:|
+.G(gga) fgaf|.d(gga) fagd|fgdf cfAF|D(dd).c A^FG2:|
+
+The later version also introduced a gap at the sixth.  The same
+scale is in effect used in this well-known tune, originally a
+trade guild march from the Lowlands (the c is barely noticeable):
+
+X:0
+T:Gloomy Winter's Now Awa
+G:strathspey
+S:Alexander Robertson, Caledonian Museum book 3 p57
+M:4/4
+L:1/8
+Q:1/4=120
+K:EMin
+% near-hexatonic, sharpened seventh on rising phrases
+e>ee>f  e>dB2|g>gg>b a>gf2|e>eb>e       e>dBG|A<AB^d       eEE2:|
+G>GGB   A>GF2|G>FEG  FB B2|g>gg>b       a>gfa|g>e g/f/e/d/ Bee2:|
+g>gd'>g f>ga2|g>feg  fb b2|B>d d/c/B/A/ Bef>a|g>e g/f/e/d/ Bee2:|
+
+And the sixth gap got filled in with a later version of "An caora crom",
+using the art-music minor scale where the sixth is sharpened, though it
+is still not an important note in the tune:
+
+X:0
+T:The Ewie Wi' The Crookit Horn
+G:strathspey
+S:Kerr's Merry Melodies volume 3
+M:4/4
+L:1/8
+Q:1/4=120
+K:GMin
+D<GG>A F>GA>F|D<G      GA/B/ c>AB>G |A>Bc>B A>G   F>C  |D<G      G>B A>^FG2:|
+G<gg>a f>ga>f|d<g      g>a   f>ag2  |d<gg>a b/a/g a/g/f|d<g      b>g a>^fg2 |
+f>gf>d c>BA<F|G/A/B/c/ d>B   c>Ad>=e|f<ad<f c<f   A<F  |G/A/B/c/ d>B c>A G2|]
+
+It happens much earlier.  This is from the Skene Manuscript of lute tunes
+from 1625; this is a still-well-known tune, in the mixolydian/dorian
+hexatonic mode.  Among the fast scales at the end, the gap is filled in
+and a sharpened leading note is introduced.  The manuscript was heavily
+influenced by the art music of the time.
+
+X:0
+T:Adew Dundee
+G:song arrangement
+S:Skene MS via Dauney
+N:I play the fast runs dotted; the MS doesn't say you can't
+M:6/4
+L:1/8
+Q:3/4=70
+K:DDor
+[A2A,2] d2  d2  [d4D4]    d2  |[c4C4]     d2    e2 g4    |\
+[a4A4]      c'2 [a4A4]    c'2 | a2    g2  e2   [d4D4] D2:|
+ a2     c'2 c'2 [c'4c4]   c'2 |[c4C4]     d2    e2 g4    |\
+[a4A4]      c'2 [a4A4]    c'2 |[a2A2] g2  e2    d6      :|
+ dcAc       d2   dcAc     d2  | edcd      e2    edcd  e2 |\
+ ageg       a2  [aA]geg   a2  | gac'age         d6      :|
+ c'bc'd'    c'2  c'bc'd'  c'2 | cBcdef         [g4G4] g2 |\
+ d'^c'd'e'  d'2  d'^c'd'e'd'2 | d'2   e'd'c'b  [a6A6]    |
+ c'bc'd'    c'2  c'bc'd'  c'2 | cBcdef         [g4G4] g2 |\
+ ageg       a2   ageg     a2  | gac'age        [d6D6]   |]
+
+David Johnson's "Scottish Fiddle Music in the Eighteenth Century" has a
+substantial discussion of how art music influenced traditional music; most
+of it is beyond the scope of this document.  And any classically-oriented
+music theory text will explain the various forms of the minor mode and
+where they tend to be used.  This is the appropriate framework to describe
+some of the more consciously "artistic" work of the Gows, Marshall and Scott
+Skinner; but this is a small part of the Scottish repertoire, and, as in the
+example of "Miss Cruickshank's Reel", modal idiom has a habit of taking over
+once these tunes get into circulation.
+
+"Fy gar rub her o'er with straw" is a song first noted about 1700, but
+perhaps much older.  This version of the 1760s for the flute changes mode
+on rising phrases:
+
+X:0
+T:Fy gar Rub her o'er with Straw
+G:song
+S:NLS MS.3327, Inglis.12
+M:4/4
+L:1/8
+Q:1/4=120
+K:AMin
+c3 B A2e2|decd B2AG|c3  d e^fg2|edcB A4:|
+g2e2 e2dc|Bcde B2AG|g>agf e2 g2|ageg a3b|
+g3 f e2dc|Bcde B2AG|c3  d e^fg2|edcB A4:|
+
+There are other tunes like this where the sixth rather than the seventh is
+the note that gets sharpened on rising phrases. Perhaps this was a local
+development of the art-music minor scale in a more idiomatically Scottish
+direction.  But the classical minor scale was thoroughly incorporated into
+traditional music long ago and is now an integral part of it.
+
+A surprising coincidence.  This tune is from the Hungarian minority in
+northern Moldavia.  It's basically the same tune as "Scallowa Lasses"
+from Shetland, which I included among the dorian examples here, but it's
+been put into the asymmetric minor scale, perhaps under Gypsy influence.
+If anyone can work out how one or other tune travelled between two of the
+most remote parts of Europe I'd like to know.
+
+X:0
+T:Magyaroska
+S:S. Balogh, Moldvai Hangszeres Dallamok, Etnofon, 2001
+M:2/4
+L:1/8
+Q:1/4=192
+K:AMin
+A2 a2|a g2 f/e/|defd|   e c2 B |
+AA ag|a g2 f/e/|defd|[1 e2  e2:|\
+                     [2 ee ^fg||
+gf`ed|d c2 B/A/|BGAB|   cd``e^f|
+gf`ed|d c2 B   |GABG|   A2  A2:|
+
+=============================================================================
+==  (c) Jack Campin         http://www.campin.me.uk/             May 2011  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

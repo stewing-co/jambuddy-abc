@@ -1,0 +1,398 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+
+Oddities
+========
+
+Gaps can occur other places in the scale.  This tune eliminates the sixth
+from a mixolydian scale:
+
+X:0
+T:The Barmaid
+G:Reel
+S:Glenallan Collection p19
+M:C|
+L:1/8
+Q:1/2=96
+K:AMix
+% but with no f's
+e|a2 e>c A<Ae>c|B>GG>B g>ed>B|a2 e>c A<Ae>c|B>GG>B e2A:|
+a|c>AA>a c<Ae>c|B>GG>g B<Gd>B|c>AA>a c<Ae>c|B>GG>B e2A:|
+
+This one would be mixolydian/dorian/minor pentatonic, except that
+the g's are included (to my ears they sound just plain weird, and
+they are normally played sharp when the tune is done on fiddle or
+accordion).  So it doesn't use the normal hexatonic pitch set.
+
+X:0
+T:The Argyll & Sutherland Highlanders at Modder River
+N:commemorates a catastrophic defeat in the Boer War
+G:March
+C:Wm. Robb
+S:Peter Henderson's tutor
+M:2/4
+L:1/16
+Q:1/4=76
+K:BMin
+f2|BBBc B2ce|f2ae f2ec|AAAB AAce|f2aA c2BA|
+   BBBc B2ce|f2ae f2ec|BABc Bfec|c2B2 BB :|
+ce|f3a  f2e2|fefa f2ec|AAAB AAce|f2aA c2BA|
+[1 f3a  f2e2|fefa f2ec|BABc Bfec|c2B2 BB :|
+[2 BBBc B2ce|f2ae f2ec|BABc Bfec|c2B2 BB ||
+f2|BBBc fBce|fBBB f2ec|AAAB AAce|faga f2ec|
+   BBBc fBce|fBBB f2ec|BABc Bfec|c2B2 BB :|
+ce|fefa fece|faga f2ec|AAAB eAce|faAa f2ec|
+[1 fefa fece|faga f2ec|BABc Bfec|c2B2 BB :|
+[2 BBBc fBce|fBBB f2ec|BABc Bfec|c2B2 BB |]
+
+The same pitch set is used in the second half of this little-known pipe
+march, which eliminates the fourth (the d) from a mixolydian scale:
+
+X:0
+T:Queen of the Hebrides
+G:March
+C:John McLennan
+B:8th (The Argyllshire) Battalion Argyll and Sutherland Highlanders: A
+B:Collection of Pipe Tunes (Paterson's Publications Limited, July 1933)
+M:2/4
+L:1/16
+Q:1/4=80
+K:AMix
+ec|A2A>B  c2A>c |e2A>B  c<ef>g  |a2ed   c<eA>B|c<Ae>c B<dc>B  |
+   A2A>B  c2A>c |e2A>B  c<ef>g  |a2ef   A>Bc>B|c2A2   A2     :|
+cd|e>ca>g f2ec  |A>Bc>B c<eA>c  |e>ca>g f<ae>f|c<Ae>c B<B[1c>d|
+   e>ca>g f2ec  |A>Bc>B c<eA>c  |a2ef   A>Bc>B|c2A2   A2:|[2ec|
+   A2A>B  c2Ac  |e2AB   c<ef>g  |a2ef   A>Bc>B|c2A2   A2     ||
+ec|A>Bc>B c<eA>c|a>gf>e f<ae>c  |A>Bc>B c<ea>g|f<ae>c B<Be>c  |
+   A>Bc>B c<eA>c|a>gf>e f<a(3efg|a2AB   c<ec>B|c2A2   A2     :|
+g2|a2ae   f<ae>c|A>Bc>B c<eA>c  |a2ae   f<ae>f|c<Ae>c BB[1g2  |
+   a2ae   f<ae>c|A>Bc>B c<ef>g  |a2ef   A>Bc>B|c2A2   A2:|[2ec|
+   A>Bc>B c<eA>c|a>gf>e f<a(3efg|a2AB   c<ec>B|c2A2   A2     |]
+
+And this uses the same pitch set again, eliminating the d from
+a B-final minor scale.  Again the solitary g sounds peculiar, as
+if dorian was intended.  (The composer was an accordion player).
+
+X:0
+T:Macleod of Mull
+G:march
+M:6/8
+L:1/8
+Q:3/8=84
+K:BMin
+   f2B  B>cA|A>ce f2a |e>ce f>ec|A>Bc    e2f |
+   a>cc B>cA|B>ce f2e |f>aa f<ae|f>ec    B3 :|
+   a2f  a>ff|e>fa f2c |e>ce f>ec|A>Bc    e2f |
+[1 a2f  a>ff|e>fa f2e |f>aa f<ae|f>ec    B3 :|
+[2 a>cc B>cA|B>ce f2e |f>aa f<ae|f>ec    B3 ||
+   B>cA B3  |B>ce f>ga|c<AB c2B |c2A     c<ef|
+   B>cA B3  |B>ce f2e |f>aa f<ae|f>ec [1 B3 :|\
+                                      [2 B2f||
+   a2f  e>ff|B>ff f2e |f>aa e>ff|A>ee    e2c |
+[1 a2f  e>ff|B>ff f2e |f>aa f<ae|f>ec    B2f:|
+[2 B2B  c>Bc|B>ce f2e |f>aa f<ae|f>ec    B2 |]
+
+This showy pipe reel manipulates gaps to produce an extraordinary
+effect of continuous modulation upwards, like an Escher staircase.
+This is superposed on a scheme of alternating 3-gap and 7-gap modes:
+
+X:0
+T:The Sheepwife
+G:reel
+S:Glendaruel Collection
+M:C|
+L:1/8
+Q:1/2=92
+K:Hp
+% c and f gaps
+B<dG>B e2 g2 |d>BB>g B<BB<G|B<dG>B e2 g2 |d>Bg>B A<AA<G |
+B<dG>B e2 g2 |d>BB>g B<BB<G|B<dG>B e2 g2 |d>Gd>B A<Aa2 ||
+% high g gap, d only introduced at the end
+c<AA<A c<AA<A|c>AA>c B<BB<G|c<AA<A A<Ac<A|B<BB<G A<AA<G |
+c<AA<A A<Ac<A|A<ec<A B<BB<G|c2 A>c f>ec<A|B<Gd>B A<AA<G||
+% c gap
+B>GG>B g2 f<e|d2 G<g B<BB<G|B>GG>B g2 f<e|d>BG>B A<AA<G |
+B>GG>B g2 f<e|d2 G<g B<BB<G|B>GG>B g2 f<e|d>Gd>B A<Aa2 ||
+% d, f and high g gaps
+c<AA<A A<Ac<A|c<Ac<e B<BB<G|c<AA<A A<Ac<A|B<Gd>B A<AA<G |
+c<AA<A A<Ac<A|c<Ac<e B<BB<G|c<Ac<A c<cc<A|B<BB<G A<AA<G||
+% c gap
+g2 f<g d2 G<B|e<gf<g B<BB<G|g2 f<g d2 G<B|e<gd>B A<AA<G |
+g2 f<g d2 G<B|e<gf<g B<BB<G|g2 f<e a2 g<f|g2 d>B A<Aa2 ||
+% high g gap
+c2 c<A c<ccA |c2 c<A B<BB<G|c2 A>c f>ec<A|B<Gd>B A<AA<G |
+c2 A>c c<ec<A|c<ee>c B<dB<G|c2 A>c f>ec<A|B<Gd>B A<Aa2 |]
+
+This tune (from the G.S. McLennan tune file on my website, but with
+the gracenotes omitted) leaves out the low G and low B from the
+pipe scale.  It's hard to say what mode it is closest to, perhaps
+D major?  The idea seems to have been to use the notes low in the
+chanter's range as little as possible:
+
+X:0
+T:Dalnahassaig
+C:Pipe-Major G.S. MacLennan
+M:C
+L:1/8
+Q:1/4=122
+K:Hp
+f2 e>d d<f A2 |f2 e>f d>f   a>g |\
+f2 e>d d<f A>f|g2 e>g c>g (3efg:|
+a2 f>a d>f A>f|a2 f>a d>a (3efg |\
+a2 f>a d>f A>f|g2 e>g c>g (3efg:|
+
+The next tune is, on the face of it, a normal dorian/mixolydian hexatonic
+piece, melodically related to "Mrs MacLeod of Raasay".  But Johnstone meant
+it to be played one note higher on the repeat.
+
+X:0
+T:Seonaid
+C:Duncan Johnstone
+M:C
+L:1/8
+K:AMix
+g2  ed B<A B2|B2 dB eG    B2|[1 g2  ed B<A B2|B2 AB AB e2:|[2    efgf e<g B2|B2 AB AB e2||
+G<G B2 dG  B2|e2 de eG    B2|[1 G<G B2 dG  B2|B2 AB AB e2:|[2    efgf e<g B2|B2 AB AB e2||
+B<G B2 g2  ed|eG B2 dG    B2|[1 B<G B2 g2  ed|B2 AB AB e2:|[2    efgf e<g B2|B2 AB AB e2||
+dG  B2 G<G B2|eG B2 e2 [1 de|   dG  B2 G<G B2|B2 AB AB e2:|[2 dB|efgf e<g B2|B2 AB AB e2|]
+
+This is the transposed repeat form, which is in no regular mode (minor with
+the third missing):
+
+X:0
+T:Seonaid
+C:Duncan Johnstone
+M:C
+L:1/8
+K:BMin
+a2  fe c<B c2|c2 ec fA    c2|[1 a2  fe c<B c2|c2 Bc Bc f2:|[2    fgag f<a c2|c2 Bc Bc f2||
+A<A c2 eA  c2|f2 ef fA    c2|[1 A<A c2 eA  c2|c2 Bc Bc f2:|[2    fgag f<a c2|c2 Bc Bc f2||
+c<A c2 a2  fe|fA c2 eA    c2|[1 c<A c2 a2  fe|c2 Bc Bc f2:|[2    fgag f<a c2|c2 Bc Bc f2||
+eA  c2 A<A c2|fA c2 f2 [1 ef|   eA  c2 A<A c2|c2 Bc Bc f2:|[2 ec|fgag f<a c2|c2 Bc Bc f2|]
+
+The 15th century composer Johannes Ockeghem used a similar idea in his
+four-part "Missa Cuiusvis Toni": it will work in any of the four basic
+liturgical modes.
+
+There are a few Scottish tunes which have a narrow range but are not
+exactly pentachordal, like this old Border song, allegedly a mediaeval
+war cry:
+
+X:0
+T:Teribus ye Teri Odin
+G:song or march
+N:the Hawick border tune noted by J. Fingland
+S:NLS Acc.8985/103(1), Francis Collinson papers
+M:2/4
+L:1/8
+Q:1/4=100
+K:AMix
+% sixth gap because the tune doesn't go that high or low
+A>A A/B/c|e>e cA|A>A A/B/c|dd  Bd |\
+c>d ee   |e>e cA|A>A A/B/c|d>d Bd |
+cA  AA   |ce  cA|BG  GG   |Bd  BG |\
+A>A AA   |ce  cA|B>A GA   |Bd  BG|]
+
+Or this mysterious pibroch (nobody has any idea what the title refers
+to) which except for gracenotes uses only the lower end of the chanter
+scale and omits the C even in that, leaving the notes GABde:
+
+X:0
+T:Grain in hides and corn in sacks
+S:Kilberry Book of Ceol Mor
+N:6,6,4 structure
+M:C
+L:1/8
+Q:1/4=40
+K:HP
+    {ge4}d<{G}d   {G2dc}d2       B{g}d{e}A{d}A|{ge4d}B{G2dc}d3         A{g}B{e}G{d}G |
+    {ge4}d<{G}d   {G2dc}d2       B{g}e{g}A{d}A| {ge4}d<{G}d   {G2dc}d2 B{g}d{e}A{d}A |
+      {g}e2          {g}A{d}A {g}d2   {e}A{d}A|{ge4d}B{G2dc}d3         A{g}B{e}G{d}G||
+    {ge4}d<{G}d   {G2dc}d2       B{g}e{g}A{d}A| {ge4}d<{G}d   {G2dc}d2 B{g}d{e}A{d}A |
+[1 {ge4d}B{G2dc}d3               A{g}B{e}G{d}G| {ge4}d<{G}d   {G2dc}d2 B{g}d{e}A{d}A |
+      {g}e2          {g}A{d}A {g}d2   {e}A{d}A|{ge4d}B{G2dc}d3         A{g}B{e}G{d}G:|
+[2    {g}e2          {g}A{d}A {g}d2   {e}A{d}A|{ge4d}B{G2dc}d3         A{g}B{e}G{d}G|]
+
+And this very archaic-sounding Gaelic song from the Western Isles; the
+genre of songs to the dying is an uncommon one anywhere and this is
+the only one I know of from Western Europe.  It only uses four notes
+spanning a fifth, with the tonal centre in the middle.  It's a kind
+of tune more often found in Stone Age cultures, from the Americas to
+Melanesia.
+
+X:0
+T:The Death Croon
+S:Marjory Kennedy-Fraser, Songs of the Hebrides, volume 1
+N:sung to the dying in Eigg
+M:3/2
+L:1/4
+Q:1/2=100
+K:Fphr
+FF|F3 E F2|A4   F2|E4  E2|F2 F3 F|\
+   F4   F2|AF3  E2|EE3 E2|F2 F2
+FF|F3 E F2|A4   F2|E4  E2|F2 F2F2|\
+   F3 E F2|A2F2 E2|E4  E2|F2 F4 ||
+   FFF4   |A4   E2|\
+   FF2F3  |A4   E2|\
+   FFFF3  |A4   E2|
+   E3 E E2|E3 E E2|D4  E2|F6     |\
+   F3 E F2|AF3  E2|E4  E2|F6    :|
+   F3 F FF|A3 E E2|\
+   F3 F FF|A3E  E2|\
+   F3 F FF|A3 E E2||
+   E3 E E2|E3 E E2|D4  E2|F6     |\
+   F3 E F2|A2F2 E2|E4  E2|F6     |
+   F4   F2|A2F2 E2|D4  E2|F6     |\
+   F4   F2|AF3  E2|E4  E2|F6    ||
+   F3 F F2|A6     |E3E E2|F6     |\
+   F3 E F2|A6     |E3E E2|F6    |]
+
+This tune is tetratonic, but with a range of an octave:
+
+X:0
+T:Dairymaid's Croon
+S:Kennedy-Fraser, Songs of the Hebrides
+G:milking song from Barra
+M:3/4
+L:1/4
+Q:1/4=240
+K:G Mixolydian
+B2  d-|d D G|B2 A|A2 G|A2  A-|A G A|B2 A|A G2 |
+B d D-|D B2-|B2 A|A2 G|A A A |A G A|B2 A|A2 G||
+B d D-|D G2 |B2 A|A2 G|A2  A-|A G A|B2 A|A G2 |
+B2  d-|d D G|B2 A|A2 G|AA  A |A G A|B2 A|A G2||
+B2  d-|d D G|B2 A|A2 G|A2  A-|A G A|B2 A|A G2 |
+Bd  D-|D B2-|B2 A|A2 G|A A A |A G A|B2 A|A2 G|]
+
+And the verse part of this ballad tune uses a different tetratonic scale,
+also with an octave range, expanding to a pentatonic scale for the refrain:
+
+X:0
+T:Clerk Colven
+S:Bronson, Traditional Tunes of the Child Ballads
+M:3/4
+L:1/8
+Q:1/4=90
+K:GMix
+zD>G|G2 G2 A2|Ad3 cG|A3
+zD>G|G2 G2 A2|Ad3 cA|G3
+zD>G|G2 G2 A2|Ad3 cG|A3
+DD>G|G4    A2|Ad3 cA|G3||
+zG>F|D2 F2 G2|A2 GF
+ G>F|D2 F2 G2|A2 G3|]
+
+This is probably the best-known tetratonic tune.  This version is Irish
+but it's found all over the British Isles.
+
+X:0
+T:The Dusty Miller
+S:http://www.thesession.org/tunes/display/4323
+M:9/8
+L:1/8
+Q:3/8=112
+K:AMin
+d|A3  A2G A2G |   A3  A2G B2  \
+d|A3  A2G A2G |
+               [1 BBB B2A B2:|\
+               [2 B2G G2A B2||
+d|A2D DDD A3  |   A2D DDD B2  \
+d|A2D DDD G2A |
+               [1 B2G G2A B2:|\
+               [2 BBB B2A B2|]
+
+This fairly modern Scottish tune uses the same scale as "How Many Miles to
+Babylon?" in its first half but adds an octave note above it in the second
+part.  It has only five notes, but fits none of the usual pentatonic scale
+patterns:
+
+X:0
+T:Dancing the Baby
+G:jig
+M:6/8
+L:1/8
+Q:3/8=120
+K:AMix
+% both f and g are missing
+e|cee dee|cee dcB|cee dee|AAA cBA|
+  cee dee|cee dcB|AAc BBc|AAA A2:|
+e|acc ecc|acc dcB|acc dcB|AAA cBA|
+  acc ecc|acc dcB|AAc BBc|AAA A2:|
+
+There are traditional tunes that use the same scale, like this
+Hebridean tune that again uses the upper octave note only in
+the second part:
+
+X:0
+T:The Water-Horse's Lullaby
+S:Karpeles, Folk Songs of Europe
+M:2/4
+L:1/8
+Q:1/4=100
+K:D
+F/|A2  F>D|EE  G> F|    A2    F>D|EE  D2  |
+   D>D DD |E>E G2  |({F}A>)G  FD |E>D D2  |
+   d2 (FD)|EE  G2  |    d2   (FD)|EE  D2  |
+   DD  DD |EE  G2  |    A>A   FD |EE  D3/|]
+
+This is the best-known tune using that scale, though it's plagal with
+the gaps in the bottom of the range:
+
+X:0
+T:Ode to Joy
+C:Beethoven
+M:C
+L:1/4
+Q:1/4=160
+K:D
+f f g a |a g    f e|d d    e f |[1 f>e e2 :|\
+                               |[2 e>d d2 ||
+e e f d |e f/g/ f d|e f/g/ f e |   d e A f-|
+f f g a |a g    f e|d d    e f |   e>d d2 |]
+
+
+Many east European melodies are constructed by repeating a narrow-range
+tune transposed by a fifth to make a full-range one.  This is a Hungarian
+example, shifting the same primitive arch phrase down from A minor to F
+to D dorian:
+
+X:0
+T:Kibujt a haz az ablakon
+G:dance song
+M:2/4
+L:1/4
+Q:1/2=120
+K:DDor
+A>B|cd|cB|AG |\
+A>B|cd|cB|AG |
+F>G|AB|AG|AA |\
+D>E|FG|FE|DD|]
+
+This does the same thing in the major, using an ABBA form with the
+middle lines a fifth higher:
+
+X:0
+T:Szanyvarosba
+M:4/4
+L:1/8
+Q:1/4=123
+K:D
+ADDD EFGF |ED3  Dz3|\
+dAAA Bcdc |BA3  Az3|
+dAAA Bcd>c|B2GF Ez3|\
+ADDD EFGF |ED3  Dz3|]
+
+Kodaly thought the idea came from the Uralic peoples of northwestern
+Asia, like the Cheremis; it's very common in Hungarian music.  It's a
+natural thing to do on an overtone whistle that can overblow to both
+the octave and the twelfth.  I don't know a Scottish example of it.
+
+=============================================================================
+==  (c) Jack Campin           http://www.campin.me.uk/          July 2011  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

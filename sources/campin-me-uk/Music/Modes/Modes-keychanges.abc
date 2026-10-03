@@ -1,0 +1,275 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+
+Key Changes
+===========
+
+Art music has heavily influenced most forms of popular music, but has had
+little impact on Scottish traditional idiom.  One feature common to almost
+all British popular song since 1800, and almost totally absent from older
+Scottish music, is changes of tonal centre while keeping in the same mode
+("change of key" in more usual terminology).  Pieces that do this, and have
+managed to enter the Scottish repertoire, still sound decidedly different
+from the main body of tunes composed in the modal system.  This sentimental
+song from the late 1790s modulates to A (in art-music theory, the "dominant")
+in bars 5 and 6:
+
+X:0
+T:The Blue Bell of Scotland
+G:song
+M:2/4
+L:1/8
+Q:1/4=80
+K:D
+A|d2cB|A2Bc/d/|FFGE |D3 :|
+A|FDFA|d2Bc/d/|cAB^G|A2Bc|
+  d2cB|A2Bc/d/|FFGE |D3 |]
+
+One of the few examples of such change of key (again, from D to A) that still
+manages to sound like a traditional tune is this:
+
+X:0
+T:Miss Susan Cooper
+G:reel
+C:Ronnie Cooper
+M:C|
+L:1/8
+Q:1/2=108
+K:D
+(3ABc|dfed B2dB|A2FA  DAFA|ABde fa^ga|g2fd eAce|
+      dfed B2dB|A2FA  DAFA|ABde fafd |eAce d2 :|
+  dB |Bcde fBBB|def^g a2gf|eAce a2^ga|g2fd eAce|
+      dfed B2dB|A2FA  DAFA|ABde fafd |eAce d2 :|
+
+This tune was originally in D all the way through - it's a 19th century
+pipe reel also known as "The 72nd's Farewell to Aberdeen".  This version,
+popularized by Jimmy Shand, goes into G major briefly in the second part,
+with the original C sharps replaced by C naturals.  (A dragon was a kind
+of kite, it must have blown away).
+
+X:0
+T:The Boy's Lament for his Dragon
+M:2/4
+L:1/16
+Q:1/4=108
+K:D
+dB|A2d2 d2ef |gfed f4|g2B2 B2cd|efec A4 |
+   A2d2 d2ef |gfed f4|g2B2 fedc|d4   d2:|
+fg|a2A2 A2=c2|B2G2 A4|A2d2 A2d2|edcB A2
+fg|a2A2 A2=c2|B2G2 A4|A2d2 fedc|d4   d2:|
+
+One genuinely old tune that does a similar modulation, from A minor to
+E minor, is this one, well-known in Scotland since about 1700 though it
+may be from England originally:
+
+X:0
+T:The Drummer or Good Morrow to your Night Cap
+G:reel
+S:William Campbell: New and Favourite Country Dances, book 19
+M:C|
+L:1/8
+Q:1/2=104
+K:AMin
+B|ABcA E2E^F|GABc dBGB       |ABcA E2Ef|edcB A2A:|
+B|c2ce d2de |c2ce d/c/B/A/ GB|c2ce d2df|edcB A2A:|
+
+These brief key changes probably entered Scottish music through a few widely
+popularized art music melodies.  This tune by Haydn became a Scottish jig:
+
+X:0
+T:Air by Haydn
+T:Lord Cathcart's Jig
+S:Kerr's Merry Melodies volume 3
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+D|DGB  d2d|dcB  A2c|BGd cAe |G3  F2
+D|DGB  d2d|dcB  A2c|cBG BAF |A3  G2:|
+G|GBd  ggg|gfe  d2d|ecA Ace |G3  F2
+A|AB^c def|A^cd efg|fed fd^c|ded def|
+  gdB  GBd|dcB  A2G|Bcd ecA |G3  F2
+D|DGB  ddd|dcB  A2c|cBG BAF |A3  G2|]
+
+The influences from art music were sometimes more subtle.  The 18th century
+saw the introduction of new harmonic and melodic forms from Italy, France,
+Germany and England.  Sometimes these were adopted wholesale, but there were
+some unusual fusions of the European style with the native one, like this
+reel, based on an Italian harmonic progression inspired by Corelli, which
+has no chromatic key changes but is still unlike anything from earlier
+tradition:
+
+X:0
+T:Lord Kelly's Reel
+G:reel
+N:transposed back from flute version in Aird v1
+M:C
+L:1/8
+Q:1/2=92
+K:GMin
+F|DGBG dGBG|F>GAf FG (B/A/G/F/)|DGGB AcBd|cf (d/c/B/A/) BG G:|
+g|bgdg Gggb|afcf  Ff  fg/a/    |bgdg fdcB|Af  d/c/B/A/  BG G
+g|bgdg GBgb|afcf  Fc  fa       |bgaf gdcB|Af  d/c/B/A/  BG G|]
+
+That tune also incorporates the native Scottish modal system by leaving out
+the sixth to fit the dorian/minor hexatonic scale.  There are many G minor
+or D minor tunes like that: most of them were printed with sharpened leading
+notes but in most cases the natural alternative sounds as good or better.
+
+A different kind of key change is where whole sections of the tune are in
+different keys.  This is common in certain kinds of dance music from the
+late 19th and early 20th centuries.  One of the most influential tunes to
+do it was this one from the 1840s:
+
+X:0
+T:Jenny Lind
+G:polka
+Z:Nigel Gatherer, from Alistair Anderson's playing
+M:2/4
+L:1/8
+Q:1/4=148
+K:D
+A/G/|FA    GB      |Af f/e/f|Ge e/d/e   |Fd d
+A/G/|FA    GB      |Af f/e/f|ge e/g/f/e/|df d:|
+K:G
+z   |gg/f/ e/f/g/e/|dB B/A/B|cA A/G/A   |BG G2|
+     gg/f/ e/f/g/e/|dB B/A/B|cA A/c/B/A/|GB G:|
+
+or as it originally appeared, for the piano:
+
+X:0
+T:Jenny Lind's Favorite Polka
+C:Anton Wallerstein, 1813-1892
+S:sheet published by Oliver Ditson, Boston, USA
+M:2/4
+L:1/8
+G:polka
+P:ABA
+K:Eb
+P:A
+|:(GB) (Ac)|.B.g (g/^f/.g)|(Af) (f/=e/.f)|(Ge) (e/d/.e)|
+  (GB) (Ac)|(Bg) (g/^f/.g)|(Af) (f/=e/.f)| ee   e    z:|
+%
+|:.e'.c' {d'}c'/=b/c'|bg {a}g/^f/g|.a.f {g}f/=e/f| ge {f}e/d/e |
+  .e'.c' {d'}c'/=b/c'|bg {a}g/^f/g|.a.f {g}f/=e/f|.e.e  .e   z:|
+%
+|:(GB) (Ac)|.B.d (g/^f/.g)|(Af) (f/=e/.f)|(Ge) (e/d/.e)|
+  (GB) (Ac)|(Bd) (g/^f/.g)|(Af) (f/=e/.f)| ee   e    z||
+P:B % Trio
+K:Bb
+|:(3f/g/f/ (=e/f/) .b.d|.f.e {f}(e/d/e)|(3f/g/f/ (=e/f/) ._e'.a|    .c'.b {c'}(b/a/b)|
+  (3f/g/f/ (=e/f/) .b.d|.f.e {f}(e/d/e)|(3f/g/f/  =e/f/  ._e'.a|{c'}.b.b      .b   z:|
+%
+|:(a/b/c') (a/b/c')|{b}.d'.c {a}(g/^f/g)|{b}.d'.c {b  }.d'.c  | a'f' {d'}(c'/=b/c')|
+  (a/b/c') (a/b/c')|{b}.d'.c {a}(g/^f/g)|{b}.d'.c {bc'}(ba/g/)|.f.f      .f     z :|
+%
+(3f/g/f/ (=e/f/) .b.d|.f.e {f }e/d/e |(3f/g/f/ (=e/f/) ._e'.a|    .c'.b {c'/}(b/a/b)|
+(3f/g/f/ (=e/f/) .b.d|.f.e {f}(e/d/e)|(3f/g/f/ (=e/f/) ._e'.a|{c'}.b.b       .b z  |]
+
+The next two tunes combine key changes between sections with momentary key
+changes within sections.  (Players of diatonic instruments sometimes cheat
+and leave out the G sharps in the second part of the of the Bluebell Polka
+without anybody noticing, but there is a modulation to A there).
+
+X:0
+T:Bluebell Polka
+G:polka
+S:Kerr's Merry Melodies v1 (1875)
+C:F. Stanley
+N:Everybody thinks Jimmy Shand wrote this.
+N:He didn't start *that* long ago.
+M:2/4
+L:1/16
+Q:1/4=100
+K:G
+(3Bdg|b2b2 g>fg>e|d2d2B2 zG|F2A2   c2e2|ed^cd     B2
+(3Bdg|b2b2 g>fg>e|d2d2B2 zG|FGAB   cdef|g2g2      g2 :|
+K:D
+  z2 |A2A2 FAdf  |a2a2f4   |a2^g2 =g3e |b2 (3aba ^g2a2|
+      A2A2 FAdf  |a2a2f4   |a2^g2 =g3e |d2d2      d2 :|
+K:G
+(3Bdg|b2b2 g>fg>e|d2d2B2 zG|F2A2   c2e2|ed^cd     B2
+(3Bdg|b2b2 g>fg>e|d2d2B2 zG|FGAB   cdef|g2g2      g2 :|
+K:C
+  z2 |e2e2 efg2  |e2e2 efg2|f2f2   fdB2|fefg      fdB2|
+      e2e2 efg2  |e2e2 efg2|f2f2   fdBd|c2c2      c2 :|
+K:G
+(3Bdg|b2b2 g>fg>e|d2d2B2 zG|F2A2   c2e2|ed^cd     B2
+(3Bdg|b2b2 g>fg>e|d2d2B2 zG|FGAB   cdef|g2g2      g2 :|
+
+
+X:0
+T:The Oslo Waltz
+G:accordion waltz
+S:Jim Paterson
+N:Scottish version of a Norwegian tune
+N:its full weirdness is only apparent when you see the chords
+M:3/4
+L:1/8
+Q:3/4=56
+K:A
+% -- A part
+  e2|fe ce Ac|E2 A2 c2|F6|E4 A2|G3 =G ^G2|e4 d2| c2   c=c ^cd|c4    e2|
+     fe ce Ac|E2 A2 c2|F6|E4 A2|G3 =G ^G2|e4 G2|(3ABA GA   ce|a2 z2  :|
+% -- B part
+c/d^d/|:e6|a6|a2 g2 f2|c6|e3 f e2|d2 c2 B2|  A2  AG AB|c6          |
+        e6|a6|a2 g2 f2|c6|e3 f e2|d2 c2 B2|(3ABA GA ce|[1 a2 z2 e2:|\
+                                                       [2 a2 z2   ||
+% -- A part
+|:e2|fe ce Ac|E2 A2 c2|F6|E4 A2|G3 =G ^G2|e4 d2| c2   c=c ^cd|c4    e2|
+     fe ce Ac|E2 A2 c2|F6|E4 A2|G3 =G ^G2|e4 G2|(3ABA GA   ce|a2 z2  :|
+% -- C part
+K:D
+d/^d/e/^e/|:f6-|f6    |d6-  |d6      |F2 A2 d2|f2  a2 ^a2|   b6-|b6        |
+            g6 |e4  d2|c6   |c4    B2|A6      |A2 ^G2 =G2|   F6 |AB cd e=f |
+            f6-|f6    |d6-  |d6      |F2 A2 d2|f2  a2 ^a2|   b6-|b6        |
+            d'6|c'4 b2|a4 f2|d2 c2 B2|A6      |e6        |[1 d6 |AB cd e=f:|\
+                                                          [2 d6-|d2 z2    ||
+% -- A part
+K:A
+|:e2|fe ce Ac|E2 A2 c2|F6|E4 A2|G3 =G ^G2|e4 d2| c2   c=c ^cd|c4    e2|
+     fe ce Ac|E2 A2 c2|F6|E4 A2|G3 =G ^G2|e4 G2|(3ABA GA   ce|a2 z2  :|
+
+Tunes like Lord Kelly's Reel are based around chord progressions rather
+than melodic ideas, and this kind of composition became increasingly
+common in Scottish music during the 19th century.  18th century Scottish
+tunes were almost never harmonized using anything but major or minor
+triads: at most a dominant seventh on the final cadence of a section. By
+the beginning of the 20th century, almost any harmony known to art music
+could feature, mainly thanks to the influence of gypsy jazz.  At one point
+in the 1950s, someone at the BBC decided to make a stand against this and
+enforce the stylistic purity of Scottish dance music by banning broadcast
+Scottish dance bands from using diminished chords.  Angus Fitchet responded
+with a reel in which the melody itself contains an unavoidable diminished
+arpeggio, which can only sensibly be harmonised with a diminished seventh
+chord:
+
+X:0
+T:J.B. Milne
+C:Angus Fitchet
+M:C|
+L:1/8
+Q:1/2=120
+K:A
+cd|"A"    efed   c2A2|   E2A2 c4  |    cedc         B2A2 |"Bm"d6
+Bc|"E7"   dedc   B2G2|   E2G2 B4  |    BdcB         A2B2 |"A" c6
+cd|"A"    efed   c2A2|   E2A2 c4  |    cedc         B2A2 |"D" f6
+fg|"Cdim7"af^d=c A2ag|"A"fecA E2gf|"E7"e/f/e ^de    f2g2 |"A" a6||
+cd|"A"    e2c2   f2c2|   e2c2 f2c2|    e2^de   "F#m"fe=dc|"Bm"d6
+Bc|"E7"   d2B2   e2B2|   d2B2 e2B2|    d2cd         edcB |"A7"c6
+cd|"A"    e2c2   f2c2|   e2c2 f2c2|    a2ga         baga |"D" f6
+fg|"Cdim7"abag   fagf|"A"fecA E2gf|"E7"e/f/e ^de    f2g2 |"A" a6|]
+
+The tune was an instant hit, and is still played by almost every ceilidh
+band in Scotland.  Modality lost that battle.
+
+=============================================================================
+==  (c) Jack Campin         http://www.campin.me.uk/          August 2013  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

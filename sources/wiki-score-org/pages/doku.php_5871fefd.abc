@@ -1,0 +1,23 @@
+X:1209
+T:Scena Sesta
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:D
+V: 9 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 9 )]
+%--------------------
+[Q:"Allegro"] dzfz | azz/a/f/d/ | A zz2 | f4| (g2g)z | e4 | (f2f)z | ^g4 | ag2f| eg2f|eeez| Z4 | \
+g2f2 | e2f2 | ezz2 | g/>g/g/>g/ gz | Z4 | !fermata! Z || [Q:"Andante"] Z9 || \
+[Q:Maestoso] [K:C]z// | g/z//g// c'/z/ ge | f/>b/ d'fd | .e/(e/f/g/) f2 | .g/(e/f/g/) a2 | \
+g/(g/f/e/)fe | d/z/ d/z/ !fermata!dz | Z | z (g//e//c'//a//) g z | Z | z (g/f/) e z | Z3 | \
+z/e/f/g/ a2 | g2b2 | c'zz2 | Z4 | z/g/ zg !fermata! z || \
+[Q:Allegro] cz/G/ce | e z e2 | gagb|c'zz2 | c4 | Bzz2 | g4 | ezz2 | z/c'/c'/c'/ c'z | Z2 | \
+z/g/g/g/gz | g4 | dzz2 | z2z!p!a|gzzb|azz^f| gzz2 | z2z^f| gzzg| azza | g4 | g4 | g4 | ^fg^fg | ^fffz | \
+Z4|g4|gzz^f|g4|gzz^f|gggz | "^Solo" g3a/g/|g3e/g/|(f/b/d'/c'/ b/a/g/f/) | ezz2 | Z4 | \
+g4 | Z | g4 | Z | e2z2|Z2|!p!e4|f4|e4|"_cresc."a4|g4|f4|e/c'/c'/c'/c'z|e2z2|\
+ggg!fermata!z|c4|Z|e4|Z|ezz2|Z|\
+e2g2|a4|e2d2|gzz2|f2g2|czz2|f2g2|\
+cagf|eagB|cga2|g2a2|gefd|eeec/>c/|czz2|]\
+%--------------------

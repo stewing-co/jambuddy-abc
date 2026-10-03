@@ -1,0 +1,133 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Chlepfer, Usserberg (Walzer) D
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.235 (wz00806) orig. D-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+(3A/B/c/ || "D"d>dd | "G"deg | "A7"fze | "D"dz(3A/B/c/ | d>dd | 
+"G"deg | "A7"fze | "D"dz f/g/ || "D"ad'f | "A7"aa/g/e | 
+bag | "D"a/b/ a/g/ f/g/ | ad'f | "A7"aa/g/e | age | "D"dzz |] 
+W:
+W: Anmerkung H.C.: 3. Sept. 1951
+% wz00806
+X:2
+T:Chlepfer, Usserberg (Walzer) C 2-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+(3G/2A/2B/2 || "C"c>cc | "F"cdf | "G7"ezd | "C"cz(3G/2A/2B/2 | c>cc | \
+"F"cdf | "G7"ezd |
+ "C"cz e/2f/2 || "C"gc'e | "G7"gg/2f/2d | \
+agf | "C"g/2a/2 g/2f/2 e/2f/2 | gc'e | "G7"gg/2f/2d | gfd | "C"czz |] 
+% wz00806
+X:3
+T:Chlepfer, Usserberg (Walzer) F 9-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F%%MIDI gchordon
+(3C/2D/2E/2 || "F"F>FF | "Bb"FGB | "C7"AzG | "F"Fz(3C/2D/2E/2 | F>FF | \
+"Bb"FGB | "C7"AzG |
+"F"Fz A/2B/2 || "F"cfA | "C7"cc/2B/2G | \
+dcB | "F"c/2d/2 c/2B/2 A/2B/2 | cfA | "C7"cc/2B/2G | cBG | "F"Fzz |] 
+% wz00806
+X:4
+T:Chlepfer, Usserberg (Walzer) G 7-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G%%MIDI gchordon
+(3D/2E/2F/2 || "G"G>GG | "C"GAc | "D7"BzA | "G"Gz(3D/2E/2F/2 | G>GG | \
+"C"GAc | "D7"BzA |
+"G"Gz B/2c/2 || "G"dgB | "D7"dd/2c/2A | \
+edc | "G"d/2e/2 d/2c/2 B/2c/2 | dgB | "D7"dd/2c/2A | dcA | "G"Gzz |] 
+% wz00806
+X:5
+T:Chlepfer, Usserberg (Walzer) C (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+(3G/2A/2B/2 || "C"c>cc | "F"cdf | "G7"ezd | "C"cz(3G/2A/2B/2 | c>cc | \
+"F"cdf | "G7"ezd |
+ "C"cz e/2f/2 || "C"gc'e | "G7"gg/2f/2d | \
+agf | "C"g/2a/2 g/2f/2 e/2f/2 | gc'e | "G7"gg/2f/2d | gfd | "C"czz |] 
+% wz00806
+X:6
+T:Chlepfer, Usserberg (Walzer) F (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+(3C/2D/2E/2 || "F"F>FF | "Bb"FGB | "C7"AzG | "F"Fz(3C/2D/2E/2 | F>FF | \
+"Bb"FGB | "C7"AzG |
+"F"Fz A/2B/2 || "F"cfA | "C7"cc/2B/2G | \
+dcB | "F"c/2d/2 c/2B/2 A/2B/2 | cfA | "C7"cc/2B/2G | cBG | "F"Fzz |] 
+% wz00806
+X:7
+T:Chlepfer, Usserberg (Walzer) G (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+(3D/2E/2F/2 || "G"G>GG | "C"GAc | "D7"BzA | "G"Gz(3D/2E/2F/2 | G>GG | \
+"C"GAc | "D7"BzA |
+"G"Gz B/2c/2 || "G"dgB | "D7"dd/2c/2A | \
+edc | "G"d/2e/2 d/2c/2 B/2c/2 | dgB | "D7"dd/2c/2A | dcA | "G"Gzz |] 
+% wz00806
+X:8
+T: Chlepfer, Usserberg (Walzer) D (tinwhistle in D)
+T:wz00806 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+(3A/B/c/ || "D"d>dd | "G"deg | "A7"fze | "D"dz(3A/B/c/ | d>dd | \
+"G"deg | "A7"fze |
+ "D"dz f/g/ || "D"ad'f | "A7"aa/g/e | \
+bag | "D"a/b/ a/g/ f/g/ | ad'f | "A7"aa/g/e | age | "D"dzz |] 
+X:9
+T: Chlepfer, Usserberg (Walzer) D (tinwhistle in D) solo
+T:wz00806 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+(3A/B/c/ || d>dd | deg | fze | dz(3A/B/c/ | d>dd | \
+deg | fze |
+ dz f/g/ || ad'f | aa/g/e | \
+bag | a/b/ a/g/ f/g/ | ad'f | aa/g/e | age | dzz |]
+X:10
+T:Chlepfer, Usserberg (Walzer) G (tinwhistle in D) solo
+T:wz00806 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=12
+(3D/2E/2F/2 || G>GG | GA"_c"c | BzA | Gz(3D/2E/2F/2 | G>GG | \
+GA"_c"c | BzA |
+Gz B/2"_c"c/2 || dgB | dd/2"_c"c/2A | \
+edc | d/2e/2 d/2"_c"c/2 B/2"_c"c/2 | dgB | dd/2"_c"c/2A | dcA | Gzz |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 3, 2016
+

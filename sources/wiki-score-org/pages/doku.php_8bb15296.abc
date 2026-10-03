@@ -1,0 +1,39 @@
+X:310
+T:Credo
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 10 clef=treble name="Corno in F/Eb (Fa/Eb) I" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 10 )]
+%------------------
+[Q:"Andante"] !p![K:C][K:clef=bass] "^Corni in Eb" E, E,/2>E,/2 E, E, | \
+B,zz !f!E, | G, G,/2>G,/2 G,G, | F, F,/2>F,/2 F,F, | E,zz2 | Z | \
+!f!G,zG,G, | F,zF,z | \
+E,zz2 | Z | !p!E,4- | E, zz2 | !f!F,2F,F, | B,,zz2| Z2 | !f!B,,4 | B,,4 | !f!B,,/2B,,/2B,,z2 | !f!B,,/2B,,/2B,,B,,2| B,,/2z/2zz2| Z4 | \
+!p! (G,2F,2)|E,zz2 | z!f!G,F,F, | G,zz2 | Z | !f!C,4- | C,/2C,/2C,/2C,/2 C, z | !f!C,4 | F,F,F,z | !f!B,,zB,,z | E,zE,z | !f!B,,zB,,z | E,zE,z | \
+Z2 | !p!E,4- | E,zz2 | Z2 | z2 !p!G,2- | G,4- | G,4- | G,zz2 | Z | !p!(F,4 | E,)zz2 | Z | \
+!p! (F,4 | E,)zz2 | !p!F,4 | E,E,E,z | Z3 | !fermata!Z || [Q:"Largo"][M:6/8] !pp!E,3- | E,z/2zz/2 | \
+!p!B,,B,,/2B,,B,,/2 | B,,3 | E,z/2zz/2 | Z2 |  zz/z/!pp! E,/E,/ | E,z/zz/ | Z3 | z!pp!B,,/B,,B,,/ | B,, z/!p!B,, z/ | Z | \
+!pp!B,,3- | B,,3- | B,, z/zz/ | !pp! B,,3- | B,, z/zz/ | zz/z !pp!B,,/ | B,,B,,/B,,B,,/ | !fermata! B,,3 || \
+[Q:"Andante"][M:C] Z8 | !pp!E,4 | F,zz2 | !p! G,4 | C,zz2 | Z8 || \
+[Q:"Allegro Moderato"][K:treble][M:C] "^Corni in Re" "_[ABC bug? check]"x2 x/ !f! .f .f/ | z2z/!f!.c/ .c/z/ | Z2 | \
+!f!!/!f!/!f!/!fz | !/!e2ez | z2z!f!f |  z2z!f!f | Z | !f! f/ff/fz |  !f!G/G/Gz2 | !f!G/G/Gz2 | Z2 | !p!G4 |  cccz | Z3 | \
+z/!p! .f/ .f/.f/ f!f!f | ffff | fzz!f!f | ffff | fzz!f!f | fffz | !f!G2GG- | Gz!f!c2 - | cz F2- | F4- | F4- | F!f!FFF | \
+!fermata!F4 | !f!dzcz | dddz | Z6 | z/!f!f/ f/f/ fz | z/e/ e/e/ ez | z2z!f!f | z2z!f!f | Z | \
+!f!c4- | cccz | z!f!ccz |!f!c4 | dddz | !f! d4 | cccz | "_NB: check ms" !p!c4-|c4-|c4-|czz!f!f | \
+fz!f!ff | fzz2 | z2!f!dd|Gzz2 |!f!d4-|d4-|d4-|!fermata!d4|Z8|"_NB: check ms" !p!d4-|dzz2| !p!d4-|dzz2| Z | \
+!p!(d4|c)zz2| Z4 | z/!f!dd/dz | !f!.G/z/zz2 | Z | !f!c/z/zz2 | z2 !f!G2 | \
+Fz!f!ff|dz!f!GG | Fz!f!cc| dz!f!GG | Fzz2 | \
+"^Corni in Eb"  !fermata!Z || [Q:"Allegro"][K:bass][M:C] z/ | Z3 | !f!G,G,G,z | \
+!f!G,G,G,z | E,E,E,z | !f!G,G,G,z | E,E,E,z | !f!F,2F,F,| G,G,z2 | F,zF,z | !f!G,zE,z | Z | {A,}G,4- | G,zz2 | \
+!p!G,4- | G,zz2 | Z4 | !p!F,4 | E,E,E,z | !p!F,4 | E,E,z !f!G, | C,C,C,C, | F,zz2 | Z | \
+!f!G,G,/>G,/G,G, | C,zz2 | Z || \
+[Q:"Sostenuto"][M:C] !f!E,E,E,z | Z2 |  !p!!fermata!Z || \
+[Q:"Moderato"][M:2/4] z/ | !pp! (E,2|F,2|G,)z | Z6 | !p! (G,2|F,2|E,)z | Z5 | \
+!f!E,F,/G,/|A,B,|E,z| Z2 | z!f!F,|E,z | z!f!G,|E,z | Z5 | !f!G,G,|C,z|Z| !f!G,G,|C,!f!F,|B,z|Z|z!f!C,| F,z|Z|\
+!f!G,/G,/G,/G,/ | G,2-|G,2-|G,2|C,!f!F,| B,z|Z|z!f!C,|F,F,|G,G,|C,z|Z7|!f!E,E,|E,z|!f!F,z|B,z|E,z|Z5|\
+z!f!G,|G,G,|C,!f!G,|G,G,|G,z|z!f!F,|G,G,|F,F,|E,z|!f!E,E,|B,z|!f!B,z|E,z|Z|!p!E,2-|E,2-|E,z|!p!F,2|E,z|\
+Z|!p!E,2-|E,2-|E,z|!p!B,,2-|B,,2|E,z|!p!E,z|!p!E,z|]
+%------------------

@@ -1,0 +1,43 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Allewander (Schottisch) CG chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.393 (AL08821) orig. C,G-Dur
+T: T\"anze aus dem Kanton Bern (Zusammenfassung) S.375ff
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+GG |: "C"G2e2 f2e2 | "G7"e2d^c d2GG | G2d2 e2d2 | "C"d2cB c2GG | G2e2 f2e2 | "G7"e2d^c d2GG | G2d2 e2d2 |1 "C"c4z2GG :|2 
+"C"c4z4 |: [K:G] [L:1/4]  "G"dd | d{/c'}b | "D7"d{/b}a | "G"d{/a}g |  dd | d{/c'}b | "D7"d{/b}a/f/ |1 "G"gz :|2 "G"gz/c//c// || [K:C] [L:1/8]
+|: "C"cd ee/e/ | ef gg/g/ | "G7"gf dg/g/ |  "C"ge cc/c/ | cd ee/e/ | ef gg/g/ | "G7"gf de |1 "C"c2zc/c/ :|2 "C"c2"_> Teil A"z2 |] 
+
+X: 2
+T: Allewander (Schottisch) CG chords Parts
+P:ABCA
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+GG [P:A] |: "C"G2e2 f2e2 | "G7"e2d^c d2GG | G2d2 e2d2 | "C"d2cB c2GG | G2e2 f2e2 | "G7"e2d^c d2GG | G2d2 e2d2 |1 "C"c4z2GG :|2 
+"C"c4z4 [P:B] |: [K:G] [L:1/4]  "G"dd | d{/c'}b | "D7"d{/b}a | "G"d{/a}g |  dd | d{/c'}b | "D7"d{/b}a/f/ |1 "G"gz :|2 "G"gz/c//c// || [K:C] [L:1/8]
+[P:C] |: "C"cd ee/e/ | ef gg/g/ | "G7"gf dg/g/ |  "C"ge cc/c/ | cd ee/e/ | ef gg/g/ | "G7"gf de |1 "C"c2zc/c/ :|2 "C"c2"_> Teil A"z2 |] 
+
+X:3
+T:Allewander (Schottisch) FC 7- chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.393 (AL08821) orig. C,G-Dur
+T:T\"anze aus dem Kanton Bern (Zusammenfassung) S.375ff
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+CC |: "F"C2A2 B2A2 | "C7"A2G^F G2CC | C2G2 A2G2 | "F"G2FE F2CC | C2A2 B2A2 | "C7"A2G^F G2CC | C2G2 A2G2 |1 "F"F4z2CC :|2 
+"F"F4z4 |: [K:Cmaj] [L:1/4] "C"GG | G{/f}e | "G7"G{/e}d | "C"G{/d}c | GG | G{/f}e | "G7"G{/e}d/2B/2 |1 "C"cz :|2 "C"cz/2F/4F/4 || [K:Fmaj] [L:1/8]
+|: "F"FG AA/2A/2 | AB cc/2c/2 | "C7"cB Gc/2c/2 | "F"cA FF/2F/2 | FG AA/2A/2 | AB cc/2c/2 | "C7"cB GA |1 "F"F2zF/2F/2 :|2 "F"F2"_> Teil A"z2 |] 
+
+X:4
+T:Allewander (Schottisch) FC 7- chords Parts
+P:ABCA
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+CC [P:A] |: "F"C2A2 B2A2 | "C7"A2G^F G2CC | C2G2 A2G2 | "F"G2FE F2CC | C2A2 B2A2 | "C7"A2G^F G2CC | C2G2 A2G2 |1 "F"F4z2CC :|2 
+"F"F4z4 [P:B] |: [K:Cmaj] [L:1/4] "C"GG | G{/f}e | "G7"G{/e}d | "C"G{/d}c | GG | G{/f}e | "G7"G{/e}d/2B/2 |1 "C"cz :|2 "C"cz/2F/4F/4 || [K:Fmaj] [L:1/8]
+[P:C] |: "F"FG AA/2A/2 | AB cc/2c/2 | "C7"cB Gc/2c/2 | "F"cA FF/2F/2 | FG AA/2A/2 | AB cc/2c/2 | "C7"cB GA |1 "F"F2zF/2F/2 :|2 "F"F2"_> Teil A"z2 |] 

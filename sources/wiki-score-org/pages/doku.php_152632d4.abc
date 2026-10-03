@@ -1,0 +1,27 @@
+X:405
+T:Beata Viscera Mariae Virgins
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 5 clef=alto1 name="Superius" sname="S."
+%%MIDI program 1 1
+%%staves [ 5 ]
+%------------------
+zE|^GG|A>A|G/ G/ F/ F/ | E>E| E/ A/ A/ E/ | G G/ c/ | B/> B/ c/ B/ | A>A| BG- | G G | AG | \
+w: Be-a-ta vis-ce-ra Ma-ri-ae Vir-gi-nis quae por-ta-ve-runt ae-ter-ni Pa-tris Fi-li-um Et ~ be-a-ta
+^F>F| G/ G/ G/ G/ | G/> G/ G/ G/ | FE | EA- | AB | c>c | B2 !segno!|| \
+w: u-be-ra quae por-ta-ve-runt Chris-tum Do-mi-num Chris--tum Do-mi-num
+[M:3/2] zB2| c2c | BGG | G2G | F3 | E2A | ^F>EF | G>GG | G2G | \
+w: Qui ho-di-e pro sa-lu-te mun-di de Vir-gi-ne nas-ci di-gna-tus
+G2B | A>GA | B>BA| A2^G | A2A|A2A|^G3- | G3 !fine! |] \
+w: est de Vir-gi-ne nas-ci di-gna-tus est di-gna-tus est.
+[M:2/2] A2 |  ^GG | AB | c2 | BA- | A ^G | A z | Z6 | \
+w: Di-es san-cti-fi-ca-----tus
+E2 | DD | E ^F| G2-|G ^F|GG|GG| F2|EA-|A^G|A2| Z4 |\
+w: San-cti-fi-ca-----tus il-lu-xit no-----bis.
+zE|EE| A2|Gc|BA-|A^G/^F/|^G2| A2| Z4| \
+w: Ve-ni-te gen---------tes
+zz| zE|EE|A2|Gc|BA-|A^G/^F/|^G2| A2-|A^G/^F/|^G2 !segno! |] \
+w: et a-do-ra--te Do--------mi--num.
+%------------------

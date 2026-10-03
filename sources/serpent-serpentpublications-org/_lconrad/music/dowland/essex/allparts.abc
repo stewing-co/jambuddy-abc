@@ -1,0 +1,88 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:The Earle of Essex Galiard.
+T:Cantus
+C: John Dowland
+O: From Lachrimae, or Seaven Teares figured in Seaven Passionate Pavans, with divers other Pavans, Galiards, and Almands, set forth for the Lute, Viols or Violons, in five parts
+N:I think the convention is that the double bars are repeats.
+%%MIDI nobarlines
+L:1/4
+M:3/2
+K:Gdor
+G > A B G g2 f3 _e d2 d2 c2 B2 A6 f2 d _e2 c | d3 c B A/ B/ c B A G A2 "(1)"G6 || d4 d2
+N:(1) Original is G whole note.
+d3 d2 e f3 d B c d3 c d e f2 d _e2 c d3 f _e2 d2 g4 ^f6 || d4 d2 d4 d2 e4 e2 e4 e2 d4 d2
+d4 d2 =B > c d e c d =B2 HG4 |]
+
+X:2
+T:The Earle of Essex Galiard.
+T:Altus
+C: John Dowland
+O: From Lachrimae, or Seaven Teares figured in Seaven Passionate Pavans, with divers other Pavans, Galiards, and Almands, set forth for the Lute, Viols or Violons, in five parts
+%%MIDI nobarlines
+L:1/4
+M:3/2
+N:Original clef, C on second line
+K:Gdor
+G2 G > A B c d3 c B2 B2 A2 G2 ^F6 | A2 B c2 A B3 A G2 G3 ^f/ e/ ^F2 G6 "(2)"|| A > G ^F > F ^G A B2 A G2
+N:(2-3) Single bar in original
+G A > A B F G2 A6 "(4)"A2 B c2 A B > c d2 G c A d2 d c2 d6 "(3)"|| D > E F G2 F B2 A G2 F E > F G A2 G c2 B A2 G ^F > G
+N:(4)Original looks dotted.
+A F B c d > c B c A2 G2 G G2 ^F HG6 |]
+
+X:3
+T:The Earle of Essex Galiard.
+T:Quintus
+C: John Dowland
+O: From Lachrimae, or Seaven Teares figured in Seaven Passionate Pavans, with divers other Pavans, Galiards, and Almands, set forth for the Lute, Viols or Violons, in five parts
+%%MIDI nobarlines
+L:1/4
+M:3/2
+N:Original clef, C on fourth line
+K:Gdor -8va
+%%MIDI transpose -12
+B3 A G2 d > e f2 B3 B c A B G A6 A2 G G2 A F3 F G2 G2 d2 D2 D6 || ^F > G A2 G ^F
+G2 A B2 B c F2 B2 G d6 A2 G G2 A F f > _e d c/ B/ A/ G/ d2 B2 c2 A6 || z2 z D > E F G2 F B2 A
+G3 E > F G A2 G c2 B A > G ^F A G2 A2 G G2 ^F G3 E A2 HD6 |]
+
+X:4
+T:The Earle of Essex Galiard.
+T:Tenor
+C: John Dowland
+O: From Lachrimae, or Seaven Teares figured in Seaven Passionate Pavans, with divers other Pavans, Galiards, and Almands, set forth for the Lute, Viols or Violons, in five parts
+%%MIDI nobarlines
+L:1/4
+M:3/2
+N:Original clef, C on third line
+K:Gdor -8va
+%%MIDI transpose -12
+d2 g2 d3 c B2 f2 f3 f d2 d4 z2 d2 d g2 f f2 d2 _e4 z2 d3 c =B A B2 || A3/2 B// c// d3 d d2 d d > c B A2 d2 G c
+A6 d2 d g2 f2 d2 B e c f B2 A G2 d6 || f3 B > c d B4 d2 c4 c2 c4 z G d A2 d2 e ^f2 g > G A d d3 c2 A d2 =B2 HG2 |]
+
+X:5
+T:The Earle of Essex Galiard.
+T:Bassus
+C: John Dowland
+O: From Lachrimae, or Seaven Teares figured in Seaven Passionate Pavans, with divers other Pavans, Galiards, and Almands, set forth for the Lute, Viols or Violons, in five parts
+%%MIDI nobarlines
+L:1/4
+M:3/2
+K:Gdor bass
+%%MIDI transpose -24
+g2 g3 a b6 B2 f2 g2 d6 d2 g c2 f B4 _e2 c2 d4 G6 || d3 c B A G2 ^F G2 g f2 B2 _E2 d6 d2
+g c2 f B4 c2 d2 _e4 d6 || B4 B2 B4 B2 c4 c2 c4 c2 d4 d2 d4 d2 G > A =B c A2 HG6 |]

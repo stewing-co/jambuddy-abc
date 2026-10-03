@@ -1,0 +1,57 @@
+X:106
+T:[Kyrie]
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 6 clef=alto1 name="Soprano" sname="S."
+%%MIDI program 1 1
+%%staves [[ 6 ]]
+%------------------
+[Q:"Largo"] Z8 | F2GA2B | Ac f (fe) f| (fe) d (dc) d | (dc) =B (dc)z | \
+w: Ky-ri-e e-le--i-son_ e-le--i-son_ e-le-i--son_
+F2EF2G| A2=B c> c ^c/ c/ | d z/!f!d/ ^d/ d/ e z/ e/ g/ g/ | f2z \
+w: Ky-ri-e e-lei-son e--le-i-son e-le-i-son e-le-i-son
+!p!c2_B  | A2 _A G2A | G2z z2 \
+w: Ky-ri-e e-le-i-son
+!p!e | e2d c2c | =e3 d3 | c2zz2z | \
+w: e-le-i-son e-le-i-son
+!p!d3d3|c2zz2 \
+w: Ky-ri-e
+!p!c|d3d3|c2zz2z|\
+w: e-le-i-son
+!f!d2de2d|^c2g (gf) f|e3d3|=c2zz2z| \
+w: Ky-ri-e e-le-i-son_e-le-i-son
+!f!d2de2d|^c2g (gf) f | e3d3|=c2z \
+w: Ky-ri-e e-le-i-son_ e-le-i-son
+!p!d2d|e2ef2f|g2!p!BB2B|!fermata!B6|| "Segue;Christe" \
+w: Ky-ri-e e-le-i-son e-le-i-son
+[Q:"Allegretto"][M:3/8] Z2 | !p!B3 | A2-A| (A^G) =B | (=BA) c | (c=B) d | c2 !f!c| c2c| !f!d2z| \
+w: Chris-te e-le--i-son_ e-le--i-son e-le-i-son
+!f!e2e|e2!f!e|e3|e3|e2z|zz \
+w: Chris--te e-le-i-son
+!f!e|g3|e3|f2!f!e|d2c|=B2z| \
+w: e-le-i-son e-le-i-son
+!f!c c d| (ed) c| A/ A/ d c| =B/ B/ e d | c/ c/ f e | f2z| zz \
+w: Chris-te e-le--i-son e-le-i-son e-le-i-son e-le-i-son
+!f!f|f2e|e2!f!d|d2^c|d2z|zz\
+w: e-le-i-son e-le-i-son
+!f!d|(d^c) e| (ed)!f! f| (fe) g| (gf)z|Z4| \
+w: e-le--i-son_ e-le--i-son_
+!f!c c c | d2d|e2!f!e|f2f|g2z|Z|zz \
+w: Chris-te e-le-i-son e-le-i-son
+!f!B|B2B|B2z|Z2|!fermata!Z || \
+w: e-le-i-son
+[Q:"Largo"][M:6/8] !p!F2GA2B | Ac f (fe) f| (fe) d (dc) d | (dc) =B (dc)z| \
+w: Ky-ri-e e-le--i-son_e-le--i-son_ e-le--i-son_ e-lei-son e-lei-son
+F2EF2G| "^cresc"A2=B c> c ^c/ c/ | d z/!f!d/ ^d/ d/ e z/ e/ g/ g/ | f2z \
+w: Ky-ri-e e-le-i-son e-le-i-son e-le-i-son e-le-i-son e-lei-son
+!p!c2_B | A2 z\
+w: Ky-ri-e
+!>!f2d | c2AB2c | A2 z \
+w: Ky-ri-e e-le-i-son
+!p!B2=B|c2 A_B2G|A2 \
+w: Ky-ri-e e-le-i-son
+!p!A_B2=B|c2!p!fe2g|f2zz2z| Z2|!fermata!Z|]
+w: e-le-i-son e-le-i-son.
+%------------------

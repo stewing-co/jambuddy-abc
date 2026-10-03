@@ -1,0 +1,81 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka  CF (pk07697)  ABCDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.356 (pk07697) orig. C,F
+T: Alte Seltisberger Musik. S.354-377
+T:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+%%partsbox
+P:ABCDC
+R:Polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+[P:A] "C"cE Gc | ("G7"cB) B/A/G | dG Bd | "C"dc e>d | cE Gc | ("G7"cB) B/A/G | dG B(e/d/) | "C"cc cz :| 
+[P:B] |: ("Am"e/d/).c/.B/ cc | ("Dm"c/B/).A/.^G/ "D7"AA | "G7"G(B/c/) df | "C"f(e/d/)e2 | ("Am"e/d/).c/.B/ cc | ("Dm"c/B/).A/.^G/ "D7"AA | "G7"G(B/c/) (e/d/).d/.B/  | "C"cc cz  :| [K:F] 
+[P:C] |: "F"Ac Ac | fA/B/ c/d/c | "C7"BG/A/ B/c/B | ("F"A/G/).A/.B/ cc | Ac Ac | fA/B/ c/d/c | "C7"BG/A/ B/d/c/B/ | "F"AA A"_fine"z :| [K:C] 
+[P:D] "G7"GB Gd | "C"Gc Ge | "G7"ed/c/ dB | "C"dc/B/c2 | "G7"GB Gd | "C"Gc Ge | "G7"ed/c/ dB | "C"cc/c/ c"_>Teil C"c || 
+W:
+W:Anmerkung H.C.: Var. Rünenberg 2, .sV.1056/765
+% pk07697
+% Sep 19, 2017 (pray vs. arrogant)
+
+X:2
+T:Polka  CF (pk07697) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.356 (pk07697) orig. C,F
+S: Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"cE Gc | ("G7"cB) B/A/G | dG Bd | "C"dc e>d | cE Gc | ("G7"cB) B/A/G | dG B(e/d/) | "C"cc cz :| 
+|: ("Am"e/d/).c/.B/ cc | ("Dm"c/B/).A/.^G/ "D7"AA | "G7"G(B/c/) df | "C"f(e/d/)e2 | ("Am"e/d/).c/.B/ cc | ("Dm"c/B/).A/.^G/ "D7"AA | "G7"G(B/c/) (e/d/).d/.B/  | "C"cc cz  :| [K:F] 
+|: "F"Ac Ac | fA/B/ c/d/c | "C7"BG/A/ B/c/B | ("F"A/G/).A/.B/ cc | Ac Ac | fA/B/ c/d/c | "C7"BG/A/ B/d/c/B/ | "F"AA A"_fine"z :| [K:C] 
+"G7"GB Gd | "C"Gc Ge | "G7"ed/c/ dB | "C"dc/B/c2 | "G7"GB Gd | "C"Gc Ge | "G7"ed/c/ dB | "C"cc/c/ c"_>Teil C"c || 
+W:Parts: ABCDC
+%W:Anmerkung H.C.: Var. Rünenberg 2, .sV.1056/765
+% pk07697
+% Sep 19, 2017 
+
+X:3
+T:Polka  GC 5- (pk07697) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.356 (pk07697) orig. C,F
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"GB, DG | ("D7"GF) F/2E/2D | AD FA | "G"AG B>A | GB, DG | ("D7"GF) F/2E/2D | AD F(B/2A/2) | "G"GG Gz :| 
+|: ("Em"B/2A/2).G/2.F/2 GG | ("Am"G/2F/2).E/2.^D/2 "A7"EE | "D7"D(F/2G/2) Ac | "G"c(B/2A/2)B2 | ("Em"B/2A/2).G/2.F/2 GG | ("Am"G/2F/2).E/2.^D/2 "A7"EE | "D7"D(F/2G/2) (B/2A/2).A/2.F/2 | "G"GG Gz :| [K:Cmaj] 
+|: "C"EG EG | cE/2F/2 G/2A/2G | "G7"FD/2E/2 F/2G/2F | ("C"E/2D/2).E/2.F/2 GG | EG EG | cE/2F/2 G/2A/2G | "G7"FD/2E/2 F/2A/2G/2F/2 | "C"EE E"_fine"z :| [K:Gmaj] 
+"D7"DF DA | "G"DG DB | "D7"BA/2G/2 AF | "G"AG/2F/2G2 | "D7"DF DA | "G"DG DB | "D7"BA/2G/2 AF | "G"GG/2G/2 G"_>Teil C"G || 
+W:Parts: ABCDC
+%W:Anmerkung H.C.: Var. Rünenberg 2, .sV.1056/765
+% pk07697
+% Sep 19, 2017 
+
+X:4
+T:Polka  GC 7+ (pk07697) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.356 (pk07697) orig. C,F
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"gB dg | ("D7"gf) f/2e/2d | ad fa | "G"ag b>a | gB dg | ("D7"gf) f/2e/2d | ad f(b/2a/2) | "G"gg gz :| 
+|: ("Em"b/2a/2).g/2.f/2 gg | ("Am"g/2f/2).e/2.^d/2 "A7"ee | "D7"d(f/2g/2) ac' | "G"c'(b/2a/2)b2 | ("Em"b/2a/2).g/2.f/2 gg | ("Am"g/2f/2).e/2.^d/2 "A7"ee | "D7"d(f/2g/2) (b/2a/2).a/2.f/2 | "G"gg gz :| [K:Cmaj] 
+|: "C"eg eg | c'e/2f/2 g/2a/2g | "G7"fd/2e/2 f/2g/2f | ("C"e/2d/2).e/2.f/2 gg | eg eg | c'e/2f/2 g/2a/2g | "G7"fd/2e/2 f/2a/2g/2f/2 | "C"ee e"_fine"z :| [K:Gmaj] 
+"D7"df da | "G"dg db | "D7"ba/2g/2 af | "G"ag/2f/2g2 | "D7"df da | "G"dg db | "D7"ba/2g/2 af | "G"gg/2g/2 g"_>Teil C"g || 
+W:Parts: ABCDC
+%W:Anmerkung H.C.: Var. Rünenberg 2, .sV.1056/765
+% pk07697
+% Sep 19, 2017 

@@ -1,0 +1,54 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Mazurka CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.211 (mz00421) orig. C,G,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c>c' a>g e>c | "G7"B2a2a2 | B>b a>g f>B | "C"c2g2g2 | [ec][eg] e'c' ge | "G7(Dm)"Bd ba fg |  
+"G7"Bd fa g>B | "C"c2c'2z2 :: [K:G]"G"G>e d>G B>G | "D7"FA cf ag | ee' d'f c'f | "G"gb dg Bd | 
+"G"G>e d>G B>G | "D7"FA cf ag | fe' d'c' ef | "G"g2g2"_> Teil A"z2 :| [K:F] "F"c2 {/e}d3c | ca fc AF | 
+"C7"E2CE Gc | e6 | c2 {/e}d3c | cb ec GE | "F"F2FA cf | A6 | c2 {/e}d3c | 
+"F7"ca f3c | "Bb"B2 {/e}d3^c | "Gm"dbg4 | "C7"ee' d'c' be | "F"fd' c'a fd | "C7"cc' bc gc | "F"f2f2z2 |] 
+
+X:2
+T: Mazurka CGF chords Parts
+P:ABAC
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+[P:A] "C"c>c' a>g e>c | "G7"B2a2a2 | B>b a>g f>B | "C"c2g2g2 | [ec][eg] e'c' ge | "G7(Dm)"Bd ba fg |  
+"G7"Bd fa g>B | "C"c2c'2z2 :: [P:B] [K:G]"G"G>e d>G B>G | "D7"FA cf ag | ee' d'f c'f | "G"gb dg Bd | 
+"G"G>e d>G B>G | "D7"FA cf ag | fe' d'c' ef | "G"g2g2"_> Teil A"z2 :| [P:C] [K:F] "F"c2 {/e}d3c | ca fc AF | 
+"C7"E2CE Gc | e6 | c2 {/e}d3c | cb ec GE | "F"F2FA cf | A6 | c2 {/e}d3c | 
+"F7"ca f3c | "Bb"B2 {/e}d3^c | "Gm"dbg4 | "C7"ee' d'c' be | "F"fd' c'a fd | "C7"cc' bc gc | "F"f2f2z2 |] 
+
+X:3
+T:Mazurka GDC 5- chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.211 (mz00421) orig. C,G,F-Dur
+T:Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"G>g e>d B>G | "D7"F2e2e2 | F>f e>d c>F | "G"G2d2d2 | [BG][Bd] bg dB | "D7(Am)"FA fe cd | 
+"D7"FA ce d>F | "G"G2g2z2 :: [K:Dmaj]"D"D>B A>D F>D | "A7"CE Gc ed | Bb ac gc | "D"df Ad FA | 
+"D"D>B A>D F>D | "A7"CE Gc ed | cb ag Bc | "D"d2d2"_> Teil A"z2 :| [K:Cmaj] "C"G2 {/B}A3G | Ge cG EC | 
+"G7"B,2G,B, DG | B6 | G2 {/B}A3G | Gf BG DB, | "C"C2CE Gc | E6 | G2 {/B}A3G | 
+"C7"Ge c3G | "F"F2 {/B}A3^G | "Dm"Afd4 | "G7"Bb ag fB | "C"ca ge cA | "G7"Gg fG dG | "C"c2c2z2 |] 
+
+X:4
+T:Mazurka GDC 5- chords Parts
+P:ABAC
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+[P:A] "G"G>g e>d B>G | "D7"F2e2e2 | F>f e>d c>F | "G"G2d2d2 | [BG][Bd] bg dB | "D7(Am)"FA fe cd | 
+"D7"FA ce d>F | "G"G2g2z2 :: [P:B] [K:Dmaj]"D"D>B A>D F>D | "A7"CE Gc ed | Bb ac gc | "D"df Ad FA | 
+"D"D>B A>D F>D | "A7"CE Gc ed | cb ag Bc | "D"d2d2"_> Teil A"z2 :| [P:C] [K:Cmaj] "C"G2 {/B}A3G | Ge cG EC | 
+"G7"B,2G,B, DG | B6 | G2 {/B}A3G | Gf BG DB, | "C"C2CE Gc | E6 | G2 {/B}A3G | 
+"C7"Ge c3G | "F"F2 {/B}A3^G | "Dm"Afd4 | "G7"Bb ag fB | "C"ca ge cA | "G7"Gg fG dG | "C"c2c2z2 |] 
+
+

@@ -1,0 +1,28 @@
+X:402
+T:Sanctus
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 2 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+%-----------------
+[Q:"Allegro Maestoso"] !ff! G,/G,/G,/G,/ G,/ G, G,/ |  !/!A,2 A,/A,A,/| !f! [G,D]/ [G,D] [G,D]/ [G,D] !f![Gd] | \
+[Ge][Ec][Ec]z | !sfz!(!>(!A!>)!GFE) | !f!D3z| !f! !/!D2 D/DD/| !/!E2E/EE/| !f! !/!D2 D/DD/ | \
+!f!!/!E2 E/E/ E | !f![B,F]/[B,F][B,F][B,F][B,F]/ | [B,G]/[B,G][B,G][B,G][B,G]/ | !f![B,F]/[B,F][B,F][B,F][B,F]/ | [B,G]/[B,G][B,G]/[B,G] z/!f!_A/ | \
+G/_G/F/=E/ _E D/E/ | !f! !//!F!//!G!//!A!//!B | f/ff/ !f!e/ee/ | czBz | !p!!fermata![B,]4 || \
+[Q:"Allegro Moderato"][M:6/8][L:1/8][K:Eb] !p! z | z2zz2!p!F | (E3D2)z | z2zz2 !p! F | (E3D2)z | \
+!p! (A6 | G6 | !p!F6) | E2zz2z | (!>!G3A3) | !>!G3A2!f!B-|B2c-c2c | e3-ed=B | c2zz2z | \
+(!>!G3A3) | !>!G3A2!f!B-|B2e-e2c | !f!e3-ed=B | c2zz2z | !p! (A6 | G6 | !p!F6) | E2!p!E-E2E| \
+G2zF2z | E2!f!E-E2E | E2zD2z | !p! E2EE2G | (!>!A6 | G2)!p!GG2"_NB: error in ms"G | !>!A6 | G2GG2G | !>!A6 | G2GG2G | \
+[=B,G]6 | [CG]2!p!G,G,2G, | G,2G,G,2G, | !p! !fermata! "_[ sic ]" G,4 || \
+%  fol.172]
+[Q:"Largetto"][M:6/8][L:1/8][K:Ab] "^Benedictus" "^Solo" !p! EEE Ezz  | !>!(D3 C)zz | !p! FFF F zz | \
+"_cres." (C/D/C/D/E/F/) (G/A/B/c/) !>(!{e/}(d/!>)!c/) | !p! c3 (B2=A) | !p! (B/d/c/B/A/G/) (F/E/D/C/=B,/_B,/) | A,3-A,zz | \
+"_cres." =E/EEE/  !>!F3 | "_cres." G/=EEE/ !>! Fzz | !p! G2A!fermata!G2 || \
+[Q:"Allegro Moderato"][M:6/8][L:1/8][K:F] z | !f! [A,F]2[A,F] [A,F][A,F][A,F] | [B,F]2zz2z | \
+!f! [B,F]2[B,F] [B,F][B,F][B,F] | F2cc2z | z2z !f! (6:4F/F/F/A/A/A/ (3:c/c/c/ | \
+(B3A2)z | z2z !f! (3:D/D/D/ (6:4D/D/D/B/B/B/ | A2 G/E/ !f! FCC | GCC ACC | !>!_A3=A2!f!G | ACC GCC | ACC !p! =B,3 | \
+C3E3 | F2z !f! (G3 | F3) _D2C/B,/ | _A,2z !f!(G3 | F3) _D2C/B,/ | _A,2!p!CC2C | C2CC2C | C2zz2!fermata!z |] \
+%-----------------

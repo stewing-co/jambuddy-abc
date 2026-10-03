@@ -1,0 +1,90 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:L\"andler  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.190 (LD09331) orig. C,F
+T: \"Uberliefert durch Lina Krupski-Herger (1946), Lehrer Leuthold (1945), Edy Lussy und Melk Rohrer (1949)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"ec ag fe | "Dm"fa df BA | "G7"AG Bd fb | "C"c'e gc' e2 | ec ag fe | "Dm"fa df BA | "G7"AG Bd fb | "C"c'2z2z2 :| 
+|: "G7"dG Bd gf | "C"eG ceg2 | "G7"dG Bd gf | "C"ec' bag2 | "G7"dG Bd gf | "C"eG ceg2 | "G7"dG Bd gb | "C"c'2z2z2 :| [K:F]
+|: "F"FA cf ga | "Bb"bd bd gf | "C7"eG eG ce | "F"fA fAc2 | FA cf ga | "Bb"bd bd f2 | "C7"eG eG ce | "F"f2z2z2 :| 
+|: "C7"cG ec ge | "F"fA cf a2 | "C7"be ge c'e | "F"fa cf A2 | "C7"cG ec ge | "F"fA cf a2 | "C7"be ge c'e | "F"f2z2z2 :| 
+% LD09331
+X:2
+T:L\"andler  GC 5-
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"BG ed cB | "Am"ce Ac FE | "D7"ED FA cf | "G"gB dg B2 | BG ed cB | "Am"ce Ac FE | "D7"ED FA cf | "G"g2z2z2 :| 
+|: "D7"AD FA dc | "G"BD GBd2 | "D7"AD FA dc | "G"Bg fed2 | "D7"AD FA dc | "G"BD GBd2 | "D7"AD FA df | "G"g2z2z2 :| [K:C]
+|: "C"CE Gc de | "F"fA fA dc | "G7"BD BD GB | "C"cE cEG2 | CE Gc de | "F"fA fA c2 | "G7"BD BD GB | "C"c2z2z2 :| 
+|: "G7"GD BG dB | "C"cE Gc e2 | "G7"fB dB gB | "C"ce Gc E2 | "G7"GD BG dB | "C"cE Gc e2 | "G7"fB dB gB | "C"c2z2z2 :| 
+% LD09331
+X:3
+T:L\"andler  CF (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"ec ag fe | "Dm"fa df BA | "G7"AG Bd fb | "C"c'e gc' e2 | ec ag fe | "Dm"fa df BA | "G7"AG Bd fb | "C"c'2z2z2 :| 
+|: "G7"dG Bd gf | "C"eG ceg2 | "G7"dG Bd gf | "C"ec' bag2 | "G7"dG Bd gf | "C"eG ceg2 | "G7"dG Bd gb | "C"c'2z2z2 :| [K:F]
+|: "F"FA cf ga | "Bb"bd bd gf | "C7"eG eG ce | "F"fA fAc2 | FA cf ga | "Bb"bd bd f2 | "C7"eG eG ce | "F"f2z2z2 :| 
+|: "C7"cG ec ge | "F"fA cf a2 | "C7"be ge c'e | "F"fa cf A2 | "C7"cG ec ge | "F"fA cf a2 | "C7"be ge c'e | "F"f2z2z2 :| 
+% LD09331
+X:4
+T:L\"andler  GC (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"BG ed cB | "Am"ce Ac FE | "D7"ED FA cf | "G"gB dg B2 | BG ed cB | "Am"ce Ac FE | "D7"ED FA cf | "G"g2z2z2 :| 
+|: "D7"AD FA dc | "G"BD GBd2 | "D7"AD FA dc | "G"Bg fed2 | "D7"AD FA dc | "G"BD GBd2 | "D7"AD FA df | "G"g2z2z2 :| [K:C]
+|: "C"CE Gc de | "F"fA fA dc | "G7"BD BD GB | "C"cE cEG2 | CE Gc de | "F"fA fA c2 | "G7"BD BD GB | "C"c2z2z2 :| 
+|: "G7"GD BG dB | "C"cE Gc e2 | "G7"fB dB gB | "C"ce Gc E2 | "G7"GD BG dB | "C"cE Gc e2 | "G7"fB dB gB | "C"c2z2z2 :| 
+% LD09331
+X:5
+T:L\"andler G&C (tinwhistle in D)
+T:LD09331 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"BG ed cB | "Am"ce Ac FE | "D7"ED FA cf | "G"gB dg B2 | BG ed cB | "Am"ce Ac FE | "D7"ED FA cf | "G"g2z2z2 :| 
+|: "D7"AD FA dc | "G"BD GBd2 | "D7"AD FA dc | "G"Bg fed2 | "D7"AD FA dc | "G"BD GBd2 | "D7"AD FA df | "G"g2z2z2 :| [K:C]
+|: "C"CE Gc de | "F"fA fA dc | "G7"BD BD GB | "C"cE cEG2 | CE Gc de | "F"fA fA c2 | "G7"BD BD GB | "C"c2z2z2 :| 
+|: "G7"GD BG dB | "C"cE Gc e2 | "G7"fB dB gB | "C"ce Gc E2 | "G7"GD BG dB | "C"cE Gc e2 | "G7"fB dB gB | "C"c2z2z2 :| 
+% LD09331
+X:6
+T:L\"andler A&D (tinwhistle in D)
+T:LD09331 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:A %%MIDI gchordon
+"A"cA fe dc | "Bm"df Bd GF | "E7"FE GB dg | "A"ac ea c2 | cA fe dc | "Bm"df Bd GF | "E7"FE GB dg | "A"a2z2z2 :| 
+|: "E7"BE GB ed | "A"cE Ace2 | "E7"BE GB ed | "A"ca gfe2 | "E7"BE GB ed | "A"cE Ace2 | "E7"BE GB eg | "A"a2z2z2 :| [K:D]
+|: "D"DF Ad ef | "G"gB gB ed | "A7"cE cE Ac | "D"dF dFA2 | DF Ad ef | "G"gB gB d2 | "A7"cE cE Ac | "D"d2z2z2 :| 
+|: "A7"AE cA ec | "D"dF Ad f2 | "A7"gc ec ac | "D"df Ad F2 | "A7"AE cA ec | "D"dF Ad f2 | "A7"gc ec ac | "D"d2z2z2 :| 
+X:7
+T:L\"andler G&D (tinwhistle in D) var. solo
+T:LD09331 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:G transpose=12
+BG ed cB | ce Ac FE | ED FA cf | gB dg B2 | BG ed cB | ce Ac FE | ED FA cf | g2z2z2 :| 
+|: AD FA dc | BD GBd2 | AD FA dc | Bg fed2 | AD FA dc | BD GBd2 | AD FA df | g2z2z2 :| [K:D]
+|: DF Ad ef | gB gB ed | cE cE Ac | dF dFA2 | DF Ad ef | gB gB d2 | cE cE Ac | d2z2z2 :| 
+|: AE cA ec | dF Ad f2 | gc ec ac | df Ad F2 | AE cA ec | dF Ad f2 | gc ec ac | d2z2z2 :|
+% LD09331
+% Sep. 1, 2016

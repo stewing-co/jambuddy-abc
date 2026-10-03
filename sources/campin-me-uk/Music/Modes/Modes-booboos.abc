@@ -1,0 +1,120 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+
+Getting It Wrong
+================
+
+Every possible kind of confusion about these modes has been perpetrated at
+some time or other by people used to the major/minor tonal system: mishearing
+pitches, "correcting" them, treating them like the passing chromaticisms of
+art music and adding other chromaticisms in a misguided attempt to match,
+making arrangements where the harmony was in a different mode entirely,
+failing to notice gaps, assuming that all pentatonic tunes are in the same
+mode, and wild speculation about their origins.
+
+Donald Fergusson's book "Beyond the Furthest Hebrides" comments on the song
+"Eilean Mo Chridhe":
+
+        The melody of this song has become one of the most popular of all
+        Hebridean melodies through its use for the English song entitled
+        'Westering Home'. The same melody also became very popular through
+        its use in much older songs, 'The Muckin' O' Geordie's Byre' and
+        the beautiful 'Bonnie Strathyre'. 
+
+        The scale (Hexatonic) makes interesting speculation for the 
+        missing note is the 7th or leading note. As written here, the 
+        scale is B flat and the 7th note should be A sharp (natural). But 
+        the  mood or feel of the music, especially in "Eilean Mo Chridhe" 
+        is quite melancholy. Could the missing note be A flat? If it is 
+        then the scale is the ancient and popular one of so much Gaelic 
+        melody - Mixolydian.
+
+Someone should tell Ferguson that there are six other notes of the
+chromatic pitch set missing too.  Perhaps he should get together with
+the musical estate of the late Sir Arthur Sullivan and start looking
+for the Lost Chord.  Ferguson's mistake is of the same type as the more
+familiar one that classifies gapped modes as "major" or "minor" because
+the notes they have happen to match those scales; it took the musicology
+of the twentieth century to enlarge the range of possible confusions to
+include mixolydian as well.
+
+There are two persistent muddles which have almost become folk traditions
+in their own right: adapting pipe tunes to the fiddle while ignoring the
+tonality essential to the pipes, and the other way round.  A simple rule
+of thumb: if a fiddle tune fits the range of the pipes and has a G sharp
+in it, chances are it was adapted from the pipes and the fiddler/editor
+screwed up.  (A currently popular series of Scottish fiddle tune books
+does this a lot.  It compensates by decorating every page with pseudo-
+Celtic knotwork borders to tell you how authentically Scottish it is).
+
+John Curwen, in his text on the sol-fa system, gives an interesting example
+of folk intuition fighting back against the "common practice" tonal system.
+This old psalm tune dates from the earliest days of the Reformation and was
+one of the most widely sung in Scotland:
+
+X:0
+T:Dundee
+G:psalm tune
+M:2/2
+L:1/2
+Q:1/2=80
+K:DDor
+% dorian/minor hexatonic
+D|DE|FE|DD|C||F|AG|FE|F||
+F|AG|FE|DD|C||F|ED|DC|D|]
+
+In Este's psalm book of 1592 this acquired the sharpened leading notes of
+the minor scale, each one corresponding to an A major dominant chord:
+
+X:0
+T:Dundee
+G:psalm tune
+M:2/2
+L:1/2
+Q:1/2=80
+K:DDor
+D|DE|FE|DD|^C||F|AG|F E|F||
+F|AG|FE|DD|^C||F|ED|D^C|D|]
+
+and later compilers wrote the tune as minor:
+
+X:0
+T:Dundee
+G:psalm tune
+M:2/2
+L:1/2
+Q:1/2=80
+K:AMin
+A|AB|cB|AA|^G||c|ed|c B|c||
+c|ed|cB|AA|^G||c|BA|A^G|A|]
+
+This proved impossible for most people in England and even more in Scotland,
+particularly in the Highlands, to sing without instrumental accompaniment
+(which in Scotland was prohibited for centuries).  They found two alternate
+strategies for dealing with the sharpened seventh they'd had foisted on them.
+One was to ignore the books and carry on singing what they had always done.
+The other was to replace the seventh (the third in the major chord) with
+a fifth (the root of the major chord).  This, after a cascade of melodic
+adjustments, finally led to a new tune, back in the same mode as "Dundee":
+
+X:0
+T:Coleshill
+G:psalm tune
+M:2/2
+L:1/2
+Q:1/2=80
+K:AMin
+% dorian/minor hexatonic
+A|AG|cG|AA|E||c|ed|c   G|c||
+c|ed|cG|AA|E||c|GA|d/c/B|A|]
+
+=============================================================================
+==  (c) Jack Campin         http://www.campin.me.uk/          August 2009  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

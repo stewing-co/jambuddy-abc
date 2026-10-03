@@ -1,0 +1,22 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Sigriswyler Jodel C  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.107 (jd05797) orig. C-Dur
+T: Berner Oberl\"ander T\"anze (Bern)
+M:4/4
+L:1/8
+K:C %%MIDI gchordon
+"C"G2 F>E "F"c2 BA | "G7"G2 F>B, D4 | G2F2 d>c BA | "C"G4c2z2 | G2 F>E "F"c2 BA | "G7"G2 F>B, D4 | G2F2 d>c BA/B/ | "C"c6z2 || [L:1/4]
+"G7"dFG ((3f/e/d/) | "C"cEG ((3e/d/c/) | "G7"BDG ((3f/e/d/) | "C"cEHG2 | "G7"dFG ((3f/e/d/) | "C"cEG ((3e/d/c/) | "G7"BD G/f/ e/d/ | "C"Hc3"_> Teil A" z |] 
+
+X: 2
+T: Sigriswyler Jodel C  chords Parts
+M:4/4
+L:1/8
+P:ABA
+K:C %%MIDI gchordon
+[P:A] "C"G2 F>E "F"c2 BA | "G7"G2 F>B, D4 | G2F2 d>c BA | "C"G4c2z2 |\
+         G2 F>E "F"c2 BA | "G7"G2 F>B, D4 | G2F2 d>c BA/B/ | "C"c6z2 || [L:1/4]
+[P:B] "G7"dFG ((3f/e/d/) | "C"cEG ((3e/d/c/) | "G7"BDG ((3f/e/d/) | "C"cEHG2 |\
+      "G7"dFG ((3f/e/d/) | "C"cEG ((3e/d/c/) | "G7"BD G/f/ e/d/ | "C"Hc3"_> Teil A" z |] 

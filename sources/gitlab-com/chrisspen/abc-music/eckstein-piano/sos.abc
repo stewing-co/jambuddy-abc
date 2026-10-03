@@ -1,0 +1,13 @@
+X:1
+T:S. O. S.
+C:Maxwell Eckstein
+M: 3/4
+L: 1/4
+K: C
+%%staves {V1 V2}
+V: V1 clef=treble
+V: V2 clef=bass
+[V: V1] EEE | EDC | FFF | FED |
+[V: V2] C,3 | G,3 | D,3 | G,3 |
+[V: V1] GGG | GFE | DED | C3 |]
+[V: V2] E,3 | G,3 | F,G,F, | E,3 |]

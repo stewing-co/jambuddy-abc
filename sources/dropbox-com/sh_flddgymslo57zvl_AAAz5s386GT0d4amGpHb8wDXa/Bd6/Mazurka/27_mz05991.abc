@@ -1,0 +1,76 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Mazurka  GDC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.290 (mz05991) orig. G,D,C-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"B>d G>d B>d | "D7"A>d c>dA2 | a>df3e/c/ | "G"b>d g3e/d/ | B>d G>d B>d | "D7"A>d c>dA2 | a>d f>a d>f | 
+"G"g2g2z2 :: [K:D] "D"d>a f>b a>f | "A7"g>a e>a g2 | g>a e>a g>a | "D"f>a d>af2 :| [K:G] "D7"c>ea3d | "G"B>d g3B |  
+"D7"A>G A>B c>d | "G"e2d>^cd2 | "D7"c>ea3d | "G"B>d g3B | "D7"f>a d>e f>a | "G"g2g2"_>Teil A"z2 |] [K:C] a2 | 
+|: "G7"ba gf ed | "C"c>e G>ec2 | "G7"B>d G>fB2 | "C"c>d e>f gc' | "G7"ba gf ed | "C"c>e G>ec2 | "G7"B>d G>f B>d | "C"c2c2z2 :|
+W: Parts: ABAC
+% mz05991
+X:2
+T:Mazurka  CGF 7-
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C%%MIDI gchordon
+"C"E>G C>G E>G | "G7"D>G F>GD2 | d>GB3A/2F/2 | "C"e>G c3A/2G/2 | E>G C>G E>G | "G7"D>G F>GD2 | d>G B>d G>B | 
+"C"c2c2z2 :: [K:G] "G"G>d B>e d>B | "D7"c>d A>d c2 | c>d A>d c>d | "G"B>d G>dB2 :| [K:C] "G7"F>Ad3G | "C"E>G c3E | 
+"G7"D>C D>E F>G | "C"A2G>^FG2 | "G7"F>Ad3G | "C"E>G c3E | "G7"B>d G>A B>d | "C"c2c2"_>Teil A"z2 |] [K:F] d2 | 
+|: "C7"ed cB AG | "F"F>A C>AF2 | "C7"E>G C>BE2 | "F"F>G A>B cf | "C7"ed cB AG | "F"F>A C>AF2 | "C7"E>G C>B E>G | "F"F2F2z2 :|
+W:Parts: ABAC
+% mz05991
+X:3
+T:Mazurka  CGF (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"E>G C>G E>G | "G7"D>G F>GD2 | d>GB3A/2F/2 | "C"e>G c3A/2G/2 | E>G C>G E>G | "G7"D>G F>GD2 | d>G B>d G>B | 
+"C"c2c2z2 :: [K:G] "G"G>d B>e d>B | "D7"c>d A>d c2 | c>d A>d c>d | "G"B>d G>dB2 :| [K:C] "G7"F>Ad3G | "C"E>G c3E | 
+"G7"D>C D>E F>G | "C"A2G>^FG2 | "G7"F>Ad3G | "C"E>G c3E | "G7"B>d G>A B>d | "C"c2c2"_>Teil A"z2 |] [K:F] d2 | 
+|: "C7"ed cB AG | "F"F>A C>AF2 | "C7"E>G C>BE2 | "F"F>G A>B cf | "C7"ed cB AG | "F"F>A C>AF2 | "C7"E>G C>B E>G | "F"F2F2z2 :|
+W:Parts: ABAC
+% mz05991
+X:4
+T:Mazurka DA&G (tinwhistle in D)
+T:mz05991 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"F>A D>A F>A | "A7"E>A G>AE2 | e>Ac3B/2G/2 | "D"f>A d3B/2A/2 | F>A D>A F>A | "A7"E>A G>AE2 | e>A c>e A>c | 
+"D"d2d2z2 :: [K:Amaj] "A"A>e c>f e>c | "E7"d>e B>e d2 | d>e B>e d>e | "A"c>e A>ec2 :| [K:Dmaj] "A7"G>Be3A | "D"F>A d3F | 
+"A7"E>D E>F G>A | "D"B2A>^GA2 | "A7"G>Be3A | "D"F>A d3F | "A7"c>e A>B c>e | "D"d2d2"_>Teil A"z2 |] [K:Gmaj] e2 | 
+|: "D7"fe dc BA | "G"G>B D>BG2 | "D7"F>A D>cF2 | "G"G>A B>c dg | "D7"fe dc BA | "G"G>B D>BG2 | "D7"F>A D>c F>A | "G"G2G2z2 :|
+W:Parts: ABAC
+% mz05991
+X:5
+T:Mazurka DA&G (tinwhistle in D) solo
+T:mz05991 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+F>A D>A F>A | E>A G>AE2 | e>Ac3B/2G/2 | f>A d3B/2A/2 | F>A D>A F>A | E>A G>AE2 | e>A c>e A>c | 
+d2d2z2 :: [K:Amaj] A>e c>f e>c | d>e B>e d2 | d>e B>e d>e | c>e A>ec2 :| [K:Dmaj] G>Be3A | F>A d3F | 
+E>D E>F G>A | B2A>^GA2 | G>Be3A | F>A d3F | c>e A>B c>e | d2d2"_>Teil A"z2 |] [K:Gmaj] e2 | 
+|: fe d"_c"c BA | G>B D>BG2 | F>A D>"_c"cF2 | G>A B>"_c"c dg | fe d"_c"c BA | G>B D>BG2 | F>A D>"_c"c F>A | G2G2z2 :|
+W:Parts: ABAC
+% mz05991
+
+
+% July 8, 2016
+

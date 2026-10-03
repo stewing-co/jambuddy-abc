@@ -1,0 +1,87 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Walzer  FCBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.289 (wz05998) orig. F,C,Bb-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+Ac |: "F"f3 | "tr"fef | ("C7"g3 | G)Bc | g3 | "tr"gfg | "F"a3 | zcf | a3 | 
+"tr"aga | "Bb"c'2b | d2^c | "C7"=cb>c | a2g |1 "F"f3 | fAc :|2 ("F"f3 | f)zz || [K:C] 
+|: "tr""G7"bf/a/"tr"g | d/f/eB/d/ | "C"c>ge | zgc | "G7"B>gf | zfB |1 "C"c>ge | zc/e/ g/c'/ :|2 
+"C"c>cc | cA"_>Part A"c [K:Bb] |: "Bb"d3 | de>B | "F7"d2A | c3 | (f3 | f)c>e | "Eb"e2B | 
+"Bb"d2z | d3 | de>B | "F"c2A | f2z | "C7"c'c>c | dcB | "F7"A>AA |1 AGA :|2 Azz || 
+|: "Bb"de/f/ g/a/ | b/a/c'b | "F7"a>c c/b/ | a3 | "Eb"g>c e/a/ |1 g3 | "Bb"f>B d/g/ | f2z :|2 "F7"g2A | "Bb"B3 | bzz |] 
+W: Parts: ABACD
+X:2
+T:Walzer  CGF 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+EG |: "C"c3 | "tr"cBc | ("G7"d3 | D)FG | d3 | "tr"dcd | "C"e3 | zGc | e3 | 
+"tr"ede | "F"g2f | A2^G | "G7"=Gf>G | e2d |1 "C"c3 | cEG :|2 ("C"c3 | c)zz || [K:G] 
+|: "tr""D7"fc/2e/2"tr"d | A/2c/2BF/2A/2 | "G"G>dB | zdG | "D7"F>dc | zcF |1 "G"G>dB | zG/2B/2 d/2g/2 :|2 
+"G"G>GG | GE"_>Part A"G [K:F] |: "F"A3 | AB>F | "C7"A2E | G3 | (c3 | c)G>B | "Bb"B2F | 
+"F"A2z | A3 | AB>F | "C"G2E | c2z | "G7"gG>G | AGF | "C7"E>EE |1 EDE :|2 Ezz || 
+|: "F"AB/2c/2 d/2e/2 | f/2e/2gf | "C7"e>G G/2f/2 | e3 | "Bb"d>G B/2e/2 |1 d3 | "F"c>F A/2d/2 | c2z :|2 "C7"d2E | "F"F3 | fzz |] 
+W:Parts: ABACD
+% wz05998
+X:3
+T:Walzer  CGF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+EG |: "C"c3 | "tr"cBc | ("G7"d3 | D)FG | d3 | "tr"dcd | "C"e3 | zGc | e3 | 
+"tr"ede | "F"g2f | A2^G | "G7"=Gf>G | e2d |1 "C"c3 | cEG :|2 ("C"c3 | c)zz || [K:G] 
+|: "tr""D7"fc/2e/2"tr"d | A/2c/2BF/2A/2 | "G"G>dB | zdG | "D7"F>dc | zcF |1 "G"G>dB | zG/2B/2 d/2g/2 :|2 
+"G"G>GG | GE"_>Part A"G [K:F] |: "F"A3 | AB>F | "C7"A2E | G3 | (c3 | c)G>B | "Bb"B2F | 
+"F"A2z | A3 | AB>F | "C"G2E | c2z | "G7"gG>G | AGF | "C7"E>EE |1 EDE :|2 Ezz || 
+|: "F"AB/2c/2 d/2e/2 | f/2e/2gf | "C7"e>G G/2f/2 | e3 | "Bb"d>G B/2e/2 |1 d3 | "F"c>F A/2d/2 | c2z :|2 "C7"d2E | "F"F3 | fzz |] 
+W:Parts: ABACD
+% wz05998
+X:4
+T:Walzer DA&G (tinwhistle in D)
+T:wz05998 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=3 %%MIDI gchordon
+FA |: "D"d3 | "tr"dcd | ("A7"e3 | E)GA | e3 | "tr"ede | "D"f3 | zAd | f3 | 
+"tr"fef | "G"a2g | B2^A | "A7"=Ag>A | f2e |1 "D"d3 | dFA :|2 ("D"d3 | d)zz || [K:A] 
+|: "tr""E7"gd/2f/2"tr"e | B/2d/2cG/2B/2 | "A"A>ec | zeA | "E7"G>ed | zdG |1 "A"A>ec | zA/2c/2 e/2a/2 :|2 
+"A"A>AA | AF"_>Part A"A [K:G] |: "G"B3 | Bc>G | "D7"B2F | A3 | (d3 | d)A>c | "C"c2G | 
+"G"B2z | B3 | Bc>G | "D"A2F | d2z | "A7"aA>A | BAG | "D7"F>FF |1 FEF :|2 Fzz || 
+|: "G"Bc/2d/2 e/2f/2 | g/2f/2ag | "D7"f>A A/2g/2 | f3 | "C"e>A c/2f/2 |1 e3 | "G"d>G B/2e/2 | d2z :|2 "D7"e2F | "G"G3 | gzz |] 
+W:Parts: ABACD
+X:5
+T:Walzer DA&G (tinwhistle in D) solo
+T:wz05998 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+FA |: d3 | dcd | (e3 | E)GA | e3 | ede | f3 | zAd | f3 | 
+fef | a2g | B2^A | =Ag>A | f2e |1 d3 | dFA :|2 (d3 | d)zz || [K:A] 
+|: "_#"gd/2f/2e | B/2d/2c"_#"G/2B/2 | A>ec | zeA | "_#"G>ed | zd"_#"G |1 A>ec | zA/2c/2 e/2a/2 :|2 
+A>AA | AF"_>Part A"A [K:G] |: B3 | B"_c"c>G | B2F | A3 | (d3 | d)A>"_c"c | c2G | 
+B2z | B3 | B"_c"c>G | A2F | d2z | aA>A | BAG | F>FF |1 FEF :|2 Fzz || 
+|: B"_c"c/2d/2 e/2f/2 | g/2f/2ag | f>A A/2g/2 | f3 | e>A "_c"c/2f/2 |1 e3 | d>G B/2e/2 | d2z :|2 e2F | G3 | gzz |]
+W:Parts: ABACD
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 10, 2016
+

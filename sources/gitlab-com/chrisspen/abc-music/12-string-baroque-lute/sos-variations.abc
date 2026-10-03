@@ -1,0 +1,22 @@
+X:1
+T:Variations on S. O. S.
+C:Maxwell Eckstein
+M:3/4
+L:1/4
+K:C
+%%staves {V1 V2}
+V: V1 clef=treble-8
+V: V2 clef=bass-8
+[V: V1] EEE | EDC | FFF | FED |
+[V: V2] C,3 | G,2C, | D,3 | G,2D, |
+[V: V1] GGG | GFE | DE3/D/ | C3 |
+[V: V2] E,3 | G,2E, | F,G,3/F,/ | C,3 |
+[V: V1] eee & C3 | edc & G2C | fff & D3 | fed & G2D |
+[V: V2] z3 | z3 | z3 | z3 |
+[V: V1] ggg & E3 | gfe & G2E | de3/d/ & FG3/F/ | c3 & C3 |
+[V: V2] z3 | z3 | z3 | z3 |
+[V: V1] ee/e/e & E3 | edc & EDC | ff/f/f & F3 | fed & FED |
+[V: V2] C,3 | G,2C, | D,3 | G,2D, |
+[V: V1] gg/g/g & G3 | gfe & GFE | de3/d/ & DE3/D/ | c3 & E3 |]
+[V: V2] E,3 | G,2E, | F,G,3/F,/ | C,3 |]
+

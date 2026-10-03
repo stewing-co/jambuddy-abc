@@ -1,0 +1,44 @@
+X:3611
+T:Scena ultima [Aria Apolline]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 11 clef=treble name="Violini I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 11 }]
+%-----------
+Z2 | [Q:"Allegretto"] G//A//G//^F// G//B//d//B// A//B//A//^G// A//c//e//c// | \
+B//c//B//A// B//d//c//B// c//B//A//B// c//d//e//^f// | gzz2 | ^g2-g2 | z/>a/ a z2 | z/>^a/ a z2 & x/>^c/ c | \
+B//^c//B//^A// B//^d//^f//d// ^c//^d//c//^B// c//d//e//^A// | Bzz2 | [Ba]2- [Ba]2| \
+^g//b//g//e// ^d//f//a//f// ez | z2z/>[db]/ [db] | z2[A,E^ca]z | \
+D/2D//D// D/2D/2 D/2F/2A/2F/2 | D/D//D// F/A/ F/A/c/A/ | F/A//A// A/d//d// d/f//f// f/a//a// | \
+d'/a/d'/a/ d'/a/d'/a/ | d'zz2 | (D//^C//D//C//) (D//^C//D//C//) Dz | Z3 | z2z [E^ce] | [EBe]zz2 | Z | \
+A//^G//A//G// A//^G//A//G// Az | Z | d/e//^f// g//a//b//^c'// d' z | z2 z/>^g/ g/z/ | z[EB^g][Eca]z || \
+[Q:"Andantino"] [M:2/4] [G,Ec]/ c/- (c//e//d//B//) | c//e//G//G// "[check ms]"!mordent!G/z/ | \
+A//c// c/- c//d/8c/8 B//>c// | {B}A/G/z | Z | z/>g/ (6:4 c'//b//a//g//f//e// | \
+(6:4 d//f//e//d//f//g// (6:4 a//g//f//e//d//c// | \
+=B/z/ [Gdb]/[Gec']/ | d'/8b/8f/8f/8 Pf/z | z [Gdb]/[Gec']/ | d'/8b/8f/8f/8 f/ F/E/ |\
+D/g/ G/z/ !p!| c/(c/ c//e//)d//B// | c//e//G//G// G//(e//f//g//) | a//c'// c'/ c'//d'/8c'/8 b//c'// | \
+a/g//>e// (g//f//f//"?"x//)"_[check ms]" | !p!z//c//c//c// (z//c//e//c//) | \
+z//(A//^c//d//) (d//A//f//d//) | z//c//c//e// (e//d//c//B//) | cz | z2 | z (c//e//d//c//) | \
+(B//A//)A//>a// (g//e//f//d//) | (6:4 c//e//f//g//a//b// (6:4 c'//a//g//f//e//d// | c/c'/ c/ z/ |\
+z//d//d//d// z//(d//c//B//) | z//B//B//B// z//(B//c//d//) | z//c//^f//a// (z//c'//b//a//) | \
+(3 b//c'//d'// d'/ (d'//b//a//^g//) | (^g//a//c'//b//) {b}a/>g/ | !f!^f/z/ [DAf]/[DBg]/ | \
+a/8^f/8c/8c/8 !mordent!c/"?""_[check ms]"z | z[DA^f]/[DBg]/ |  a/8^f/8c/8c/8 !mordent!c/ !p!c/B/ | \
+B//A// A/ (g//b//) (b//d'//) | (d'//c'//) b//a// a//g// g//^f// | z//(G//B//d//) (g//b//b//d'//) | \
+(d'//c'//b//a//) (a//g//)(g//^f//) | g//d//g//b// d'//(b//a//g//) | z//e//e//e// e//g//e//c// | \
+!f! !///!b !///!a | g/z//d// (d3/8e/16d/16) c//>B// | ((3e//^f//g//) g//>(c// c3/8d/16c/16) B//>A// | \
+(3B//d//g// g/ g/8b/8a/8g/8 ^f/8g/8b/8g/8 | e//a/8b/8 c'/8a/8e'/8c'/8 b/a/ | gz | c/c/ (c//e//d//B//) | \
+c//e//G//G// (G//e//f//g//) | a//c'// (c'/ c'//c'/8d'/8) b//c'// | a/g//e// (f//d//b//d'//) | \
+c'//c//c//c// z//c//e//c// | z//(A//^c//d//) d//(A//c//d//) | (d//^f//f//a//) a/>c/ | \
+!f![DBg]/z/ [Gdb]/[Gec']/ | d'/8(b/8f/8f/8) f/z | z!f![Gdb]/[Gec']/ | d'/8(b/8f/8f/8) Pf/ F/E/ | \
+D//(B//B//d//) z//(d//d//f//) | z//e//e//e// !f! !//!^f | \
+g/G/z | z2 | z !p!(g//e//d//c//) | (c//B//B//A//) (A//G//G//F//) | ((3F//^D//E//) E/ z | z2 |\
+z (g//e//d//c//) | (c//B//B//A//) (A//G//G//F//) | ((3E//F//G//) G/ (G//c//e//g//) |\
+(g//f//e//d//) (d//c//c//B//) | (c//g//e//c//) (G//c//e//g//) | (g//f//e//d//) (d//c//c//B//) |\
+(c//!f!c//e//g//) (_b//g//e//_B//) | !p!!//!A (A//A//f//d//) | \
+!f!e/8c'/8e/8c'/8 e/8c'/8e/8c'/8 e/!trem3!c'/ | !ff!!//![db]2 | \
+c'/z//g// (g3/8a/16g/16) f//>e// | ((3a//b//c'//) c'//>(f// f3/8g/16f/16) e//>d// | \
+(3e//a//g// g//>g// (6:4 c'//b//a//g//f//e// | (3d//f//g// (3a//f//d// c/B/ | c/G/ C/z/ |] \
+%-----------

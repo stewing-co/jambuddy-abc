@@ -1,0 +1,123 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Dudelsack-Schottisch  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.240 (st00815) orig. C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+E |: "C"G>A GE | G>A GE | GG FE | "G7"D3G | B>B Bc | 
+"F"A>A Ac |1 "G7"BA GE | "C"G3E :|2 "G7"BA GB | "C"c2E>F || "C"G2e2 | e2 d>c | 
+"G7"c>B B>A | B2D>F | F2d2 | d2 c>B | "C"B>A GE | G2 E>F | G2e2 | 
+e2d>c | "G7"c>B B>A | B2D>E | F2d2 | G2B2 | "C"c2c>c | c2z2 |] 
+W:
+W: Dudelsack - German for 'bagpipe'
+% st00815
+X:2
+T:Dudelsack-Schottisch  F 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F%%MIDI gchordon
+A |: "F"c>d cA | c>d cA | cc BA | "C7"G3c | e>e ef | \
+"Bb"d>d df |1 "C7"ed cA |
+ "F"c3A :|2 "C7"ed ce | "F"f2A>B || "F"c2a2 | a2 g>f | \
+"C7"f>e e>d | e2G>B | B2g2 | g2 f>e |
+ "F"e>d cA | c2 A>B | c2a2 | \
+a2g>f | "C7"f>e e>d | e2G>A | B2g2 | c2e2 | "F"f2f>f | f2z2 |] 
+% st00815
+X:3
+T:Dudelsack-Schottisch  G 3-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+B |: "G"d>e dB | d>e dB | dd cB | "D7"A3d | f>f fg | \
+"C"e>e eg |1 "D7"fe dB |
+"G"d3B :|2 "D7"fe df | "G"g2B>c || "G"d2b2 | b2 a>g | \
+"D7"g>f f>e | f2A>c | c2a2 | a2 g>f |
+"G"f>e dB | d2 B>c | d2b2 | \
+b2a>g | "D7"g>f f>e | f2A>B | c2a2 | d2f2 | "G"g2g>g | g2z2 |] 
+% st00815
+X:4
+T: Dudelsack-Schottisch  C (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C  transpose=3 %%MIDI gchordon
+E |: "C"G>A GE | G>A GE | GG FE | "G7"D3G | B>B Bc | \
+"F"A>A Ac |1 "G7"BA GE |
+ "C"G3E :|2 "G7"BA GB | "C"c2E>F || "C"G2e2 | e2 d>c | \
+"G7"c>B B>A | B2D>F | F2d2 | d2 c>B |
+ "C"B>A GE | G2 E>F | G2e2 | \
+e2d>c | "G7"c>B B>A | B2D>E | F2d2 | G2B2 | "C"c2c>c | c2z2 |] 
+% st00815
+X:5
+T:Dudelsack-Schottisch  F (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F  transpose=3 %%MIDI gchordon
+A |: "F"c>d cA | c>d cA | cc BA | "C7"G3c | e>e ef | \
+"Bb"d>d df |1 "C7"ed cA |
+ "F"c3A :|2 "C7"ed ce | "F"f2A>B || "F"c2a2 | a2 g>f | \
+"C7"f>e e>d | e2G>B | B2g2 | g2 f>e |
+ "F"e>d cA | c2 A>B | c2a2 | \
+a2g>f | "C7"f>e e>d | e2G>A | B2g2 | c2e2 | "F"f2f>f | f2z2 |] 
+% st00815
+X:6
+T:Dudelsack-Schottisch  G (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G  transpose=3 %%MIDI gchordon
+B |: "G"d>e dB | d>e dB | dd cB | "D7"A3d | f>f fg | \
+"C"e>e eg |1 "D7"fe dB |
+"G"d3B :|2 "D7"fe df | "G"g2B>c || "G"d2b2 | b2 a>g | \
+"D7"g>f f>e | f2A>c | c2a2 | a2 g>f |
+"G"f>e dB | d2 B>c | d2b2 | \
+b2a>g | "D7"g>f f>e | f2A>B | c2a2 | d2f2 | "G"g2g>g | g2z2 |] 
+% st00815
+X:7
+T:Dudelsack-Schottisch D (tinwhistle in D)
+T:st00815 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+F |: "D"A>B AF | A>B AF | AA GF | "A7"E3A | c>c cd | \
+"G"B>B Bd |1 "A7"cB AF |
+"D"A3F :|2 "A7"cB Ac | "D"d2F>G || "D"A2f2 | f2 e>d | \
+"A7"d>c c>B | c2E>G | G2e2 | e2 d>c |
+"D"c>B AF | A2 F>G | A2f2 | \
+f2e>d | "A7"d>c c>B | c2E>F | G2e2 | A2c2 | "D"d2d>d | d2z2 |] 
+X:8
+T:Dudelsack-Schottisch D (tinwhistle in D)
+T:st00815 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D transpose=12
+F |: A>B AF | A>B AF | AA GF | E3A | c>c cd | \
+B>B Bd |1 cB AF |
+A3F :|2 cB Ac | d2F>G || A2f2 | f2 e>d | \
+d>c c>B | c2E>G | G2e2 | e2 d>c |
+c>B AF | A2 F>G | A2f2 | \
+f2e>d | d>c c>B | c2E>F | G2e2 | A2c2 | d2d>d | d2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 28, 2016

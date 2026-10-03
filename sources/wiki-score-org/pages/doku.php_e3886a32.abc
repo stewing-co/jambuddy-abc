@@ -1,0 +1,18 @@
+X:302
+T:Allegro
+C:Giuseppe Tartini (1692-1770)
+M:3/4
+L:1/4
+K:A
+V: 2 clef=bass name="Basso" sname="B."
+%%MIDI program 1 43
+%%staves  2
+%----- edit between the lines ---
+[Q:"Allegro"] "_[fol.90]" z/z | z z A, | (G, E,/)z/ z | z z B, | E, z z | B, B,, z | A, A,, z | A,, =C, A,, | E,, z A, | \
+B,G,,G, | A,A,,A,, | A,,A,,=C, | B,,zz | (E, D,/)z/ z |  E, ^D,/z/ B,, | E,B,,B,, | E,,zz | A,A,,A,,|E,E,,z | \
+B,B,,z | E,E,,z | zzB, | (A, F,/)z/ z | zzA, | (G,E,/)z/ z | E,E,,z | E,E,,z | =G,,A,,^A,, | \
+B,, z [K:alto4]E | FF,^D | EE, z [K:bass] | E,E,,z | E,E,,z | E,B,,B,, | E,,3/2 :| z z/ | zzE, | (^D,B,,/)z/z | \
+zzE,, | B,,zz | (B, A,/)z/z | (A, G,/)z/z | (E,D,)=G, | F,zz | F,F,,z | B,B,,z | B,B,,z | \
+EE,z | zzG, | B,B,,B, | =G,F,F,, | B,,zz | zzB, | (B, A,/)z/z | zz A, | (A, G,/)z/z | E,E,,z | E,E,,z | E,E,,z | E,E,,z | z3 | A,A,,/z/z | z3 | D, D,,/z/ z | z3 | \
+E,E,,E, | E,E,,E, | A,A,,=C, | D,E,E,,| A,,zz | zz A,, | A,,A,,z | zzA,, | \
+E,,2A, | B,B,,G, | A,A,,z |  A,A,,z |  A,A,,z |  A,E,E,, | A,,3/2 ||  \

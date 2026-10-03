@@ -1,0 +1,76 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Schottisch  CF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.305 (st06016) orig. C,F-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"gage cegc' | "G7"b2b2 b3d' | "F"a2a2 a3b | "C"a2g2g4 | gage cegc' | "G"b2b2 b2bc' | "D7"d'2c'2 b2a2 | "G7"g4f4 | 
+"C"gage cegc' | "G7"b2b2 b3d' | "F"a2a2 a3b | "C"a2g2g4 | gage "C7"cegc' | "F"d'2a2a4 | "G7"^fgba g=fed | 
+"C"c2e2 c2z2 :| "G"Bed2 Bed2 | "D7"dccBc4 | "Am"cfe2 cfe2 | "G"edd^c d2d2 | Bed2 Bed2 | "Am"cfe2 cfe2 | 
+"D7"defg a2f2 | "G"g2g2 g2"_>Teil A"z2 || [K:F] ("F"A4 A)c=Bc | d6c2 | a2f2 e2d2 | "C7"e6z2 | (g4 g)abc' | e6d2 | 
+c2d2 G2B2 | "F"A6z2 | (A4 A)c=Bc | d6c2 | A2c2 f2e2 | "Bb"d6z2 | ("Gm"g4 g)fed | ("F"f4 f)edc | "C7"=Bced c_BAG | "F"F2A2 F2z2 |] 
+W: Parts: ABAC
+% the chords in part B seem to need revision
+X:2
+T:Schottisch  GC 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+"G"dedB GBdg | "D7"f2f2 f3a | "C"e2e2 e3f | "G"e2d2d4 | dedB GBdg | "D"f2f2 f2fg | "A7"a2g2 f2e2 | "D7"d4c4 | 
+"G"dedB GBdg | "D7"f2f2 f3a | "C"e2e2 e3f | "G"e2d2d4 | dedB "G7"GBdg | "C"a2e2e4 | "D7"^cdfe d=cBA | 
+"G"G2B2 G2z2 :| "D"FBA2 FBA2 | "A7"AGGFG4 | "Em"GcB2 GcB2 | "D"BAA^G A2A2 | FBA2 FBA2 | "Em"GcB2 GcB2 | 
+"A7"ABcd e2c2 | "D"d2d2 d2"_>Teil A"z2 || [K:C] ("C"E4 E)G^FG | A6G2 | e2c2 B2A2 | "G7"B6z2 | (d4 d)efg | B6A2 | 
+G2A2 D2F2 | "C"E6z2 | (E4 E)G^FG | A6G2 | E2G2 c2B2 | "F"A6z2 | ("Dm"d4 d)cBA | ("C"c4 c)BAG | "G7"^FGBA G=FED | "C"C2E2 C2z2 |] 
+W:Parts: ABAC
+% st06016
+X:3
+T: Schottisch  CF (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"gage cegc' | "G7"b2b2 b3d' | "F"a2a2 a3b | "C"a2g2g4 | gage cegc' | "G"b2b2 b2bc' | "D7"d'2c'2 b2a2 | "G7"g4f4 | 
+"C"gage cegc' | "G7"b2b2 b3d' | "F"a2a2 a3b | "C"a2g2g4 | gage "C7"cegc' | "F"d'2a2a4 | "G7"^fgba g=fed | 
+"C"c2e2 c2z2 :| "G"Bed2 Bed2 | "D7"dccBc4 | "Am"cfe2 cfe2 | "G"edd^c d2d2 | Bed2 Bed2 | "Am"cfe2 cfe2 | 
+"D7"defg a2f2 | "G"g2g2 g2"_>Teil A"z2 || [K:F] ("F"A4 A)c=Bc | d6c2 | a2f2 e2d2 | "C7"e6z2 | (g4 g)abc' | e6d2 | 
+c2d2 G2B2 | "F"A6z2 | (A4 A)c=Bc | d6c2 | A2c2 f2e2 | "Bb"d6z2 | ("Gm"g4 g)fed | ("F"f4 f)edc | "C7"=Bced c_BAG | "F"F2A2 F2z2 |] 
+W: Parts: ABAC
+% st06016
+X:4
+T:Schottisch  GC (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"dedB GBdg | "D7"f2f2 f3a | "C"e2e2 e3f | "G"e2d2d4 | dedB GBdg | "D"f2f2 f2fg | "A7"a2g2 f2e2 | "D7"d4c4 | 
+"G"dedB GBdg | "D7"f2f2 f3a | "C"e2e2 e3f | "G"e2d2d4 | dedB "G7"GBdg | "C"a2e2e4 | "D7"^cdfe d=cBA | 
+"G"G2B2 G2z2 :| "D"FBA2 FBA2 | "A7"AGGFG4 | "Em"GcB2 GcB2 | "D"BAA^G A2A2 | FBA2 FBA2 | "Em"GcB2 GcB2 | 
+"A7"ABcd e2c2 | "D"d2d2 d2"_>Teil A"z2 || [K:C] ("C"E4 E)G^FG | A6G2 | e2c2 B2A2 | "G7"B6z2 | (d4 d)efg | B6A2 | 
+G2A2 D2F2 | "C"E6z2 | (E4 E)G^FG | A6G2 | E2G2 c2B2 | "F"A6z2 | ("Dm"d4 d)cBA | ("C"c4 c)BAG | "G7"^FGBA G=FED | "C"C2E2 C2z2 |] 
+W:Parts: ABAC
+% st06016
+X:5
+T: Schottisch  CGF (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"c'bag agfe | "G7"f2f2B4 | GABc defg | "C"ag^fg e2c2 | c'bag agfe | "G7"f2f2 B2GA | 
+Bcde fgab | "C"c'2c'2 c'2z2:: [K:G] "G"Bd^cd edgb | Bd^cd  edgb | "D7"c'bag fedf | "G"gfgb d'4 | 
+"C"e'd'c'b "F"a2a2 | "G7"d'c'ba "C"g2g2 | "D7"c'bag f2ef | "G7"g2g2 g2"_>Teil A"z2 :: [K:F] ("F"a4 a)c'=bc' | (f4 f)a^ga | 
+(c4 c)fef | A4 A2c2 | "C7"bagf e2c2 | g2g2 g2c2 | "F"agfe d2c2 | f2f2f4 | "Bb"fdd2 dfed | dcc2 caa2 | 
+"C7"abe2 egc2 | "F"^gaf2 f2ff | "Bb"fdd2 dfed | "F"dcc2 caa2 | "C7"abeg cege | "F"f2f2 f2z2 |] 
+W: Parts: ABAC
+% st06016
+% July 10, 2016

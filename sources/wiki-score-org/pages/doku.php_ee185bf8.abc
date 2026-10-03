@@ -1,0 +1,34 @@
+X:401
+T:Sanctus
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 1 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%-----------------
+[Q:"Allegro Maestoso"] \
+!ff!c//C//=B,//C// E//G//c//e// g z | !f! d//D//^C//D// F//A//d//f// az | \
+!f!G//G,//=B,//D// G//B//d//^f// g [d=b] | [ec']/g//e// c//G//E//G//Cz | !sfz! (!>(!dc!>)!!p!BA)| G3z | \
+!f! G//G,//=B,//D// G//B//d//^f// gz | !f! G//G,//C//E// G//c//e//^f// gz | \
+!f! G//G,//=B,//D// G//B//d//^f// gz | !f! G//G,//C//E// G//c//e//^f// gz | \
+!f! B//B,//D//F// B//d//f//=a//bz | B//B,//E//G// B//e//g//=a//bz | \
+!f! B//B,//D//F// B//d//f//=a//bz | B//B,//E//G// B//e//g//=a//bz/!f!_d/ | c/=A/B/G/ _A/=A/B/c/ | \
+!f! !//!d!//!e!//!f!//!g | a/aa/ !f!g/gg/ | [cf]z[Fd]z!p! | !fermata![G,E]4 || \
+[Q:"Allegro Moderato"][M:6/8][L:1/8][K:Eb] !p! [Gg] | [Gg]2[Gg][Gg]2[Gg] |  [Gg]2[Gg][Gg]2[Gg] |  [Gg]2[Gg][Gg]2[Gg] | \
+[Gg]2zz2!p!g | (afe) (def) | (ged) (cde) | f(dc) (=Bcd) !f!| [Ee][Ee][Ee] [Ee][Ee][Ee] |[Ee][Ee][Ee] [Ee][Ee][Ee] | \
+!f! [Ee][Ee][Ee] [Ee]2f | g3a2=a | g3-gfd | !f!c[Ee][Ee] [Ee][Ee][Ee] | [Ee][Ee][Ee] [Ee][Ee][Ee] | !f! [Ee][Ee][Ee] [Ee]2f | \
+g3_a2^f | !f! g3-g=fd | c2zz2z | zz!p!a- afd | zzg- gec | zz!p!f- fd=B | c2c-c2c | e2zd2z | \
+c2!f!c-c2c | c2z=B2z | !p!c2cc2c | !>!e3-ed=B | !p!c2cc2c | =B3-(Bcd) | !p!c2cc2c | e3-(ed=B) | \
+c2!p!cc2e | g3-(gfd) | c2!p!CC2C | C2CC2C | !fermata! C4 || \
+%  fol.172]
+[Q:"Largetto"][M:6/8][L:1/8][K:Ab] "^Benedictus" "^Solo" !p! AAA Azz | !>!(B3 A)zz |!p! AAA Azz | \
+"_cres." (E/F/E/F/G/A/) (B/c/d/e/) !>(!{g/}(f/!>)!e/) | !p! e3 (d2c) | !p! (B/f/e/d/c/B/) (A/G/F/E/=D/_D/) | \
+C(AG) Fzz | \
+"_cres." c/ccc/ !>!(=B3 | c/)ccc/ !>!=B3 | !p! c3-!fermata!c2 || \
+[Q:"Allegro Moderato"][M:6/8][L:1/8][K:F] z | !f! (6:4F/F/F/A/A/A/ (3:c/c/c/ fff | f2zz2z | \
+!f! (6:4F/F/F/B/B/B/ (3:d/d/d/ fff | f2[Be][Af]2z | z2z !f! (6:4A/A/A/c/c/c/ (3:_e/e/e/ | \
+(d2_dc2)z | z2z !f! (3:F/F/F/ (6:4B/B/B/=d/d/d/ | c2 B/G/ !f! FCC | GCC ACC | !>(!(=B!>)!cd) !f!c2[_Be] | \
+[Af]CC GCC | ACC !>!_A3-|_A3G3 | F2!f!_d- dcB- | B2_AG2=E | F2!f!_d- dcB- | B2_AG2E | !p!F2FF2F | F2FF2F | F2zz2!fermata!z |] \
+%-----------------

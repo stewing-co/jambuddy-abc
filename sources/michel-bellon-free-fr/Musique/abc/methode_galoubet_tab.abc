@@ -1,0 +1,591 @@
+%%font Bookman-Light
+%%font Bookman-LightItalic
+%%font Bookman-Demi
+%%font Bookman-DemiItalic
+%%font AvantGarde-BookOblique
+%%font Helvetica-Oblique
+%%font Helvetica-Bold
+%%setfont-1 Helvetica-Bold 18
+%%setfont-2 Times-Roman 18
+%%setfont-3 Bookman-DemiItalic 19
+%%setfont-4 Helvetica 19
+
+%%pageheight 29.7cm
+%%pagewidth 21.0cm
+%%leftmargin 1.5cm
+%%scale 0.8
+%%maxshrink 0.5
+
+%%dateformat "\%e \%b \%Y"
+%%measurenb 0
+
+%%textfont Bookman-Demi 21
+%%center Quelques airs pour l'apprentissage
+%%center du galoubet - tambourin 
+%%textfont Bookman-Light 18
+%%center Michel Bellon
+%%titleleft
+%%titlefont Bookman-Light
+%%subtitlefont Bookman-LightItalic
+
+%%textfont Helvetica-Oblique 16
+%%infoline 1
+
+ 
+%%footer Galouvielle - M. Bellon - $d \nhttp://galouvielle.free.fr
+
+
+% tablature examples
+% --- diatonic accordion
+%%beginps
+% length x y n accordh - accordion tablature header with 2 or 3 lines
+/accordh{
+%	/Times-Roman 14 selectfont
+	/nlines exch def
+	.8 SLW
+	gsave 20 add T /w exch def
+	0 0 M w 0 RL
+	0 3 M w 0 RL
+	0 21 M w 0 RL
+	0 39 M w 0 RL
+	nlines 2 eq{
+		0 42 M w 0 RL
+		stroke
+		/barh 42 def
+		3 7 M (Index:) show
+		3 25 M (Pouce:) show
+	}{
+		0 57 M w 0 RL
+		0 60 M w 0 RL
+		stroke
+		/barh 60 def
+		3 7 M (Ma:) show
+		3 25 M (In:) show
+		3 43 M (Po:) show
+	}ifelse
+	grestore
+}!
+% string x y n accordn - accordion tablature
+/str ( ) def
+/accordn{
+	-18 mul add barh add 3 add M showc
+}!
+/accordb{
+	0 eq{20 add M 0 barh RL stroke}
+	{pop pop}ifelse pop}!
+%%endps
+
+%%begintext justify
+
+Cette méthode est inspirée de celle proposée par Jean Coutarel dans les années 70. Le parti pris de supprimer les 2 bémols à la clé de la notation "traditionnelle" a été conservé. Il n'y  a pas de raison rigoureuse d'utiliser une tonalité d'écriture qui n'est pas celle entendue lorsque on joue sur le galoubet de tonalité la plus traditionnelle. 
+
+Par ailleurs, il est bien pratique de parler le même langage que les autres instrumentistes : jouer avec un galoubet en sol ou do, pour accompagner un accordéon (diatonique) en sol/do. 
+
+Et il m'est toujours apparu bien profitable de pouvoir utiliser sans transposition le répertoire pour flûte à bec alto.
+%%endtext
+
+
+X:0
+T:Tablature diatonique du galoubet en Do
+M:none
+L:1/1
+K:C
+%%text Cette tablature ne comporte pas de demi-trous (trous "à moitié" bouchés)
+ F G A B | c d e ^f | f g a b | c' d' |]
+w: _ _doux | __ moyen | __ fort | _très~fort
+w: . * * * * * * * * * * * * * 
+
+%%begintext justify
+Cette tablature montre que deux gammes en tonalité majeure peuvent être jouer : Do et Sol . Cela peut justifier la désignation de l'instrument utilisé.
+Si l'on utilise la même tablature avec des galoubets d'autres longueur, on pourra dire alors que ces instruments sont transpositeurs (galoubet en Sol ; La ...)
+%%endtext
+
+X:1
+T:Exercice n°1
+M:none
+L:1/1
+K:C
+  F G A G F | c d e d c | f g a g f ||
+ 
+X:2
+T:Exercice n°2 : sonnerie
+M:2/4
+L:1/8
+K:C
+%%begintext justify
+Ne pas hésiter à jouer très lentement, les trois trous sont bouchés. 
+En effet, le La aigu peut se faire soit avec le premier trou bouché, soit avec les trois trous bouchés.
+%%endtext
+c | fa/f/ c a | fa/f/ c a | fa/f/ cf | a2 f c | fa/f/ c a | fa/f/ c a | 
+fa/f/ cc | f3a | aa aa | c'3a | ff cc | a2 f a | aa  aa | c'3a | ff cc | f4 |]
+
+%%begintext justify
+Ne pas oublier les tu - tu. Soigner les notes hautes.
+
+Ces notes situées au dessus d'une note la plus grave, sur une position donnée sont les partiels 
+de cette note.
+
+Cette sonnerie de clairon n'est possible que sur le doigté "3". Pour se familiariser avec les autres
+notes sur les autres doigtés, voici un autre exercice. Ne pas trop insister sur le si aigu, on verra
+plus loin un doigté spécial à utiliser sur les galoubets qui le demande.
+%%endtext
+
+X:3
+T:Exercice n°3
+M:none
+L:1/1
+K:G
+GdGdgdGgG | AeAeaeAaA | BfBfbfBbB |]
+
+X:4
+T:Exercice n°4
+T:Au clair de la lune
+M:C
+L:1/4
+K:C
+cccd | e2d2 | ce dd | c4 :|
+dd dd | A2 A2 | dc BA | G4 |
+cccd | e2d2 | ce dd | c4 |]
+
+
+%newpage
+X:5
+T:Gamme de Sol majeur
+T:Sur la tablature en Do   
+M:none
+L:1/1
+K:G
+G A B c d e ^f g | g ^f e d c B A G |]
+
+X:6
+T:Exerice n°5
+M:none
+L:1/4
+K:G
+G B B | A c c | B d d | c e e | d f f | e g g | f a a | g4 |]
+
+%%begintext justify
+Voici une ronde enfantine célèbre qui se jouait à l'origine dans une operette : 
+"Le sourd ou L'auberge pleine". (Adolphe Adam, Minuit chrétiens)
+C'est un tambourin, c'est-à-dire dans le sens du XVIIIème siècle, un intermède chanté et
+dansé sur un rythme gai.
+%%endtext
+
+X:7
+T:Exercice n°6
+T:Sur le pont d'Avignon
+M:2/4
+L:1/8
+K:C
+cc | c2dd | d2 ef | gc Bc | dG cc | c2 dd | d2 ef | gc dB | c4 |
+c2 c2 c2 c2 c2  d4 c4 | c2 c2 c2 c2 c2  d4 c4 |
+
+%newpage
+%%begintext justify
+Noël de Nicolas Saboly, musicien provençal du XVIIème siècle qui nous laisse 
+près de 70 noëls très connus en Provence
+%%endtext
+X:8
+T:Pastre di mountagno
+T:Bergers des montagnes
+M:6/8
+L:1/8
+K:Am
+A2e c2d | e3 e3 | A2B c2B | A3- A3 :| B2c d2d | d3 B3 |
+e2e d2c | B3- B3 | A2B c2d | e3 e3 | A2d c2B | A3- A3 |]
+
+
+%%begintext justify 
+L'air proposé maintenant est très connu, puisqu'une émission de télévision en fit 
+son indicatif : "Bonne nuit les petits". C'est en Provence la Marche funèbre du Carnaval.
+Attention à la fin de la 3ème mesure. La version présentée est celle de François Vidal
+dans "Le Tambourin" et elle diffère un peu de l'air joué à la télévision.
+%%endtext
+X:9
+T:Adiéu, paure carnavas
+T:Adieu pauvre Carnaval
+M:2/4
+L:1/8
+Q:"Allegro mosso"
+K:Am
+cB A2 | c2 ee | (dc) B2 | cB A2 | (cB) AG | A2z2 :|
+cd e2 | e2 fe | e2d2 | ed c2 | e2dc | B2z2 |
+cB A2 | c2 ee | (dc) B2 | cB A2 | (cB) AG | A2z2 |]
+
+%newpage
+%%text Exercice préparatoire à l'air qui suit.
+X:10
+T:Exercice n°7
+M:none
+L:1/8
+K:Em
+%%continueall 1
+ff/g/ ff : BB/c/ BB ||
+
+%%text Autres noëls de Nicolas Saboly (au moins pour le texte, quant à la musique ...?)
+X:11
+T:Pastre, pastresso
+T:Bergers, bergères
+M:2/4
+L:1/8
+K:Em
+e2 fg | f2 B2 | ef ge | ff/g/ ff | e2 fg | f2 B2 | ef ge | f2z2 |
+e2 ee | e2 d2 | ee dc | BB/c/ BB | e2 ee | e2 d2 |ee BB | e2 z2 |]
+
+X:110
+T:Pèr noun langui, long dou camin
+T:Pour ne pas s'ennuyer en chemin
+M:6/8
+L:1/8
+K:Dm
+d^cd A2A | f2f e3 | def d2e | d2^c d3 :|
+ccc f2c | c2c A2A | d2c B2A | G3 A3 |:
+ABG A3 | ABG A2A | d2f e2d | d2^c d3 :|
+
+
+%%newpage
+%%center $1Les notes hautes
+%%begintext justify
+Les notes les plus aigues du galoubet sont généralement plus difficile à obtenir ; 
+on va apporter un soin particulier à leur étude.
+%%endtext
+%%center $2Le Si bémol et le Si aigu
+%%begintext justify
+Ces notes sont particulièrement délicates à obtenir sur la plupart des galoubets.
+Nous allons y remédier par un artifice : pour ces notes, on peut utiliser le doigté "0 avec fourche", 
+et elles ne posent plus aucun problème. On pose le majeur sur le 3ème trou, en position "F".
+%%endtext
+
+%%leftmargin 6cm
+X:12
+T:
+M:none
+L:1/2
+K:C
+%%continueall 1
+x_bx|xbx
+
+%%leftmargin 1.5cm
+
+%%begintext justify
+Reprenons maintenant l'exercice précédent sur la position "0", en prenant la position "F" pour cette note aigüe :
+%%endtext
+
+X:13
+T:Exercice n°8
+M:none
+L:1/1
+K:C
+   B f B f b f B b B |]
+
+%%begintext justify
+
+Si cette note ne pose plus de difficulté, alors voici la gamme de Do majeur :
+%%endtext
+
+
+X:14
+T:Gamme de Do majeur
+T:Sur la tablature en Do
+M:none
+L:1/1
+K:C
+c d e f g a b c' | c' b a g f e d c |]
+
+
+X:15
+T:Fumo ta pipo
+T:Fume ta pipe
+R:Farandole
+M:6/8
+L:1/8
+K:C
+V:1
+c2e g2a | g2e c3 | cBc d2d | dcd e2c | 
+c2e g2a | g2e c3 | cBc d2f | e2d c3 ::
+ggg g2e | ggg g2e | ggg a2g | f2e f3 | 
+fff f2d | fff f2d | fff g2f |1 e2d e3 :|2 e2d c3 |]
+V:2 clef=perc stafflines=1 staffscale=0.7
+K:none
+B2B B2B | B2B BBB | B2B B2B | B2B BBB | B2B B2B | B2B BBB | B2B B2B | B2B B3 ::
+B2B B2B | B2B B2B | B2B B2B | B2B BBB | B2B B2B | B2B B2B | B2B B2B | B2B BBB  :| B2B B3 |]
+ 
+%%begintext
+On joue cet air dans la plupart des pays d'Oc et bien sûr en Provence, avec ces paroles :
+
+Quand auren tout acaba, fumo ta pipo, fumo ta pipo,
+Quand auren tout acaba, fumo ta pipo sens tabac.
+
+Quand on aura tout fini, fume ta pipe, fume ta pipe,
+Quand on aura tout fini, fume ta pipe sans tabac.
+%%endtext
+%%sep
+%newpage
+%%begintext justify
+Un air facile, pour se reposer un peu, et sur lequel vous pourrez broder un peu 
+à votre fantaisie (...?)
+Très répandu dans les régions du sud de la France, la version provençale situe son action 
+à la fontaine de Nîmes.
+%%endtext
+
+X:16
+T:Se canto
+T:Si je chante
+M:3/4
+L:1/4
+K:C
+%%continueall 1
+G | c c e/d/ | c !breath!c c/d/ | e2e | !breath!d2 d/e/ | f2f | e !breath!e c/e/ | d2G | c2 |]
+
+%%begintext justify
+La célèbre "Cansoun de Magali" est aussi très connue de tous, Provençaux ou non, et évocatrice
+de notre région. Son thème général est ce lui des transformations, les deux amants se répondant
+tour à tour, en menaçant de se fuir sous forme de poisson, puis d'oiseau, puis d'insecte, le 
+galant devient pécheur, puis chasseur, puis filet pour attraper sa bien-aimée.
+%%endtext
+
+X:17
+T:Cansoun de Magali
+T:Chanson de Magali
+M:6/8
+L:1/8
+K:C
+%%continueall 1
+eee e2d | g2f edHc | ddd de2 | (fed) Hc3 ::
+Gce (g2a) | (g2f) e2e | (ede) g2f | d6 |
+Gce (g2a) | (g2f) ede | gfd c3 |]
+
+%%newpage
+%%text Un peu de musique médiévale et Renaissance ...
+X:18
+T:Les Bouffons
+C:Thoinot Arbeau
+O:16e siècle
+M:C|
+L:1/4
+K:G
+V:1
+GABB | c2c2 | BABG | A2A2 | GABB | c2c2 | BGAA | G2G2 ::
+d2ed | c2c2 | BABc | d2d2 | d2ed | c2c2 | BGAA | G2G2 :|
+V:2 clef=perc stafflines=1 staffscale=0.7
+[K:none]B4 | B4 | B4 | B4 | B2B2 | B2B2 | B2B2 | B2B2 ::
+B2BB | B2BB | B2BB | B2BB | B2BB | B2BB | B2BB | B2B2 :| 
+
+X:19
+T:Bransle des chevaulx
+R:Branle des chevaux
+C:Thoinot Arbeau
+O:16e siècle
+M:C|
+L:1/4
+Q:1/2=120
+K:C
+V:1
+c>d ee | fedf | edcB | A2G2 | c>dee | fedf | ecd2 | c4 |
+gf/e/ dd/e/ |  fe/d/ ce | dcBc | d2d2 | gf/e/ dd/e/ | fe/d/ ce | dccB | c4 |:
+_ed/c/ ed/c/ | _Bcd2 | GA_Bc | d_edc  |_ed/c/ ed/c/ | _Bcd2 | GA_Bc | cBc2 :|
+
+
+
+X:20
+T:Branle de la Montarde
+C:Thoinot Arbeau
+O:16e siècle
+M:8/2
+L:1/2
+Q:1/2=220
+K:Fmaj
+V:1
+[P:A]|: d>efd gefd  dddd cBAG | defd gefd |
+cd/2c/2BA/2G/2 G A/2 F/2 G z+fine+ :: [P:B1,B2] g a/2g/2 fefdc2 :: [P:B3,B4]g a/2g/2 fefdc2 ::
+V:2
+|: d>cBA dcdB  B/2A/2B/2c/2B/2A/2B/2c/2 GddB | dcBA dcdB |
+eg/2e/2fe/2d/2 dd/2c/2d z :: dd/2d/2 dg a/2g/2a/2f/2 e2 :: d/2e/2d/2c/2 dg/2a/2 dd/2f/2 e2 ::
+%%text B est est joué autant de fois que de danseurs dans une chaine.
+
+X:21
+T:Estampie et ungaresca
+C:Anonyme
+O:Moyen-âge
+M:6/8
+L:1/8
+K:C
+%%continueall 1
+%%maxshrink 0.65
+c2B c2d | e3 e2f | g3 g2f | e3 e3 :|
+e2g e2g | f3 d2e | f2d e2c | d3 B2c | d2d B2c | d6 | e2g e2g | f3 d2e | f2d e2c | d3 B2c | d2e c2B | c6 |]
+T:Ungaresca
+M:2/4
+cc dc | cG GA/B/ | cc dc | G2G2 :: ee ed/e/ | fe dc | ee ed/e/ | fe df | ec dc/B/ | c2c2 ::
+M:6/8
+c2c d2c | c2G G>AB | c2c d2c | G3G3 :: e2e e>de | f2e d2c | e2e e>de | f2e d2f | e2c d>cB | c3c3 :|
+
+
+%%newpage
+%%text Voici maintenant une suite de rondeaux de Gascogne
+X: 57
+T:Rondeau de Mirepoix
+O:France
+C:Trad.
+A:Gascogne
+R:Rondeau
+I:abc2nwc
+Z:Transcrit et/ou corrigé par Michel BELLON - 2005-03-08
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+K:Cmaj
+"C"GAB cdc | "G"BAB "C"c2c | "C"GAB cdc | "G"BAB "C"c2z |\
+"C"GAB cdc | "G"BAB "C"c2c | "C"GAB cdc | "G"BAB "C"c2z||
+"C"e2e "F"d3 | "F"f2f "C"e3 | "G"g2g gfe | "G"dBd "C"e2c |\
+"C"e2e "F"d3 | "F"f2f "C"e3 | "G"g2g gfe | "G"dBd "G"c3|]
+
+
+X: 58
+T:Rondeau tourné
+O:France
+A:Gascogne
+C:Trad.
+R:Rondeau
+Z:Transcrit et/ou corrigé par Michel BELLON - 2005-03-08
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+Q:3/8=110
+K:Cmaj
+"G"e2d "C"c3 | "C"GAB cBc | "G"e2d "C"c3 | "C"GAB c3 |\
+"G"e2d "C"c3 | "C"GAB cBc | "G"e2d "C"c3 | "C"GAB c3 ||
+"G"c2d "C"e2e | ede "F"f2f | "G"efe d2d | dcd "C"e2c |\
+"G"c2d "C"e2e | ede "F"f2f | "G"efe d2d | ded "C"c3 |]
+
+
+X:59
+T:Rondeau de Casteljaloux
+R:Rondeau
+C:Trad.
+A:Gascogne
+O:France
+N:Rondeau
+I:abc2nwc
+Z:Transcrit et/ou corrigé par Michel BELLON - 2005-08-26
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+Q:3/8=110
+L:1/8
+K:C
+g || \
+"C"e2c e2g | "F"fef "G"d2g | "C"e2c e2g | "C"f3 "G"d2g |\
+"C"e2c e2g | "F"fef "G"d2g | "C"e2c e2g | "C"f3 "G"d3 ||
+"C"g2g g2g | "G"fgf "C"e3 | "C"c2d e2g | "F"fed "C"e2c |\
+"C"g2g g2g | "G"fgf "C"e3 | "C"c2d e2g | "F"fed "C"c3 |]
+ 
+X: 60
+T:Rondeau (5)
+A:Gascogne
+O:France
+C:Trad.
+R:Rondeau
+Z:Transcrit et/ou corrigé par Michel BELLON - 2005-03-08
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+Q:3/8=110
+K:Cmaj
+"C"c2e g2e | "F"fef gag | "C"c2e g2e | "F"fef "C"g3 |\
+"C"c2e g2e | "F"fef gag | "C"c2e g2e | "F"fef "C"g3||
+"F"d2f "C"e2c | "G"ded "C"cBc | "F"d2f "C"e2c | "G"ded "C"c3 |\ 
+"F"d2f "C"e2c | "G"ded "C"cBc | "F"d2f "C"e2c | "G"ded "C"c3 |]
+
+
+
+X: 18
+T:La Fitz James
+C:Nouvelle méthode de galoubet, Chédeville, Paris, vers 1800
+Z:Transcrit et/ou corrigé par Michel BELLON - 2006-04-09
+Z:Pour toute observation mailto:galouvielle@free.fr
+M:6/8
+L:1/8
+Q:3/8=120
+K:Gmaj
+V:1
+d2c | BGB cAc | B2G d2c | BGB cAF | G3 :: g2d | BAG ABc | B2G g2d | BAG ABA | G3 :|
+G2A | BAB cBc | d3 cdc | BcB ABA | B2G G2A | BAB cBc | d3 cdc | BcB ABA | G3 ||
+g2d | g2G ABc | BAG g2d | g2G ABA | G3 g2d | g2G ABc | BAG g2d | g2G ABA | G3 |]
+
+X:19
+T: Manfrina di Camposilvano
+M: 6/8
+L: 1/8
+Q: 1/4 = 160
+K: C
+%%continueall 1
+GAB|: c2z GAB|c2z GAB|c2Gc2G|c2z GAB|!segno!c2ed2f|e2g gfe|
+def fed|e2c GAB|c2ed2f|e2g gfe |def fed|1 c3 GAB:|2 c3z ef|
+|: gz e g2e|a2fa2f|b2a g2 b|c'gez ef|g ze g2e|a2f a2f|
+b2a g2b|1 c'3zef|2 c'3 GAB !D.S.!:|c'3 z3|]
+
+%%newpage
+%%text $1Les ornements
+%%begintext justify
+A écrire
+
+%%endtext
+
+
+%%newpage
+%%text $1Le tambourin
+%%begintext justify
+A écrire
+
+Des indications de batterie de tambourin ont déjà été données.
+%%endtext
+
+
+
+
+
+%%newpage
+%%text $1Les tablatures
+X:140
+T:Tablature chromatique
+M:none
+L:1/4
+K:C
+E F ^F G ^G A _B =B c ^c d ^d e f ^f g ^g a _b =b c' ^c' d'
+
+
+%%text
+%%text Pour mémoire cette tablature inusitée, et pourtant ...
+X:00
+T:Tablature galoubet en Sol
+M:none
+L:1/1
+K:C
+V:0
+V:1
+%%tablature 90 accordh accordn  accordb
+  C D E ^F | G A B ^c | c d e ^f | g a |]
+w:X X X O X X X O X  X X OO X X
+w:X X O O X X O O X  X O OO X X
+w:X O O O X O O O X  O O OX X O
+w: _ _doux | __ moyen | __ fort | _très~fort
+w:3 2 1 0 3 2 1 0 3 2 1 0 3 2
+
+
+w:. * * * * * * * * * * * * * 
+w:. * * * * * * * * * * * * * 
+%%sep
+%%begintext justify
+La dernière version de cette "méthode" peut être chargée sur :
+
+$2http://michel.bellon.free.fr/Musique/abc/methode_galoubet_tab.pdf$0 et .abc
+
+Un recueil d'air de Provence est également disponible sur :
+
+$2http://michel.bellon.free.fr/Musique/abc/provence.pdf$0 et .abc
+
+Ces ouvrages ont été réalisés grâce au remarquable travail de Jean-François Moine sur la conversion des fichiers musicaux au format abc ($2http://moinejf.free.fr$0) et à une modification personnelle pour l'obtention des tablatures de galoubet (en do ou en si bémol, ou autres).
+
+Le langage de notation musicale abc : $2http://www.walshaw.plus.com/abc/$0
+
+%%endtext

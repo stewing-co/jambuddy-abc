@@ -1,0 +1,33 @@
+X:1
+T:St Cuthbert's
+Z:Jack Campin: "Embro, Embro", transcription (c) 2001
+F:15kirk/abc/Cuthbert.abc
+S:Sacred Harmony for the use of St George's Church Edinburgh, 1820
+C:R.A. Smith
+M:C
+L:1/4
+V:1               % air
+V:2 transpose -12 % contra
+V:3 transpose -12 % tenor
+V:4 bass          % bass
+Q:1/4=100
+K:G Minor
+V:1 G2  B>d  | c2  B2 | A4 ||z2 A2 |B2  c2 |B2  A2 |G4  ||
+V:2 g2  g>b  | a2  g2 |^f4 ||z2^f2 |g2  g2 |g2 ^f2 |g4  ||
+V:3 B2  d>d  | e2  d2 | d4 ||z2 d2 |d2  e2 |d2  d2 |d4  ||
+V:4 G,2 G,>G,|^F,2 G,2| D,4||z2 D,2|G,2 C,2|D,2 D,2|G,,4||
+%
+V:1 B2  B>B  | A2   B2    | c2 (cd/e/)|d4 ||z2 f2 |e2  (de)  |d2  c2 | B4  ||
+V:2 g2  g>g  |^f2   g2    | g2 =f2    |f4 ||z2 f2 |f2  (fg)  |f2 (fe)| d4  ||
+V:3 d2  d>d  |(dc)  B2    | B2 (AB/c/)|B4 ||z2 d2 |c2   B2   |B2  A2 | B4  ||
+V:4 G,2 G,>G,| D,2 (G,=F,)| E,2 F,2   |B,4||z2 B,2|A,2 (B,E,)|F,2 F,2| B,,4||
+%
+V:1 z2  A2 |G2  ^F2   |G2   A2 |B4  ||z2 B2 | c2   A2 |B2   G2 | d4 ||
+V:2 z2  d2 |d2   d2   |d2   d2 |d4  ||z2 g2 |^f2   a2 |g2   g2 |^f4 ||
+V:3 z2 (dc)|B2   A2   |G2  ^F2 |G4  ||z2 d2 | d2   d2 |d2  ^c2 | d4 ||
+V:4 z2  D,2|G,2 (D,C,)|B,,2 D,2|G,,4||z2 G,2| A,2 ^F,2|G,2 _E,2| D,4||
+%
+V:1 z2  d2 |e2 d2 |(dc) B2 | A2 G2 |^F4 ||z2 G2 | A2 (Bc)  |B2  A2 |G4  |]
+V:2 z2  g2 |g2 g2 |^f2 (gd)| d2 d2 | d4 ||z2 d2 | d2 (dg)  |g2 ^f2 |g4  |]
+V:3 z2  B2 |c2 d2 | d2  d2 | c2 B2 | A4 ||z2 B2 | c2 (Be)  |d2 (dc)|B4  |]
+V:4 z2  G,2|C2 B,2| A,2 G,2|^F,2G,2| D,4||z2 G,2|^F,2(G,C,)|D,2 D,2|G,,4|]

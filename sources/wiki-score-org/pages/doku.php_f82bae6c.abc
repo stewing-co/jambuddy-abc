@@ -1,0 +1,58 @@
+X:107
+T:Overture
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 7 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 7 ]
+%----------------
+[Q: "Allegro con spirito"] D z/z/8(A,/8B,/8C/8) D z/z/8(A,/8B,/8C/8) | \
+!wedge!D/!wedge!F/!wedge!A/!wedge!F/ !wedge!G/!wedge!E/!wedge!B,/!wedge!C/ | \
+D z/z/8(A,/8B,/8C/8) D z/z/8(A,/8B,/8C/8) | \
+!wedge!D/!wedge!F/!wedge!A/!wedge!F/ !wedge!G/!wedge!E/!wedge!B,/!wedge!C/ | \
+!wedge!D/!wedge!F/!wedge!A/!wedge!F/ !wedge!G/!wedge!E/!wedge!B,/!wedge!C/ | \
+!wedge!D/!wedge!F/!wedge!A/!wedge!F/ !wedge!G/!wedge!E/!wedge!B,/!wedge!C/ | \
+F//F//F//F// F//F//F//F// G//G//G//G// G//G//G//G// | F>D A/A/A/G/ | \
+F//F//F//F// F//F//F//F// G//G//G//G// G//G//G//G// | F>D A/A/A,/A,/ | \
+D/D/D/D/ A//A//A//A// A//A//A//A// | \
+B//B//B//B// B//B//B//B// B//B//B//B// B//B//B//B// | \
+B//B//B//B// B//B//B//B// B//B//B//B// B//B//B//B// | \
+A//A//A//A// A//A//A//A// A//A//A//A// A//A//A//A// | \
+A//A//A//A// A//A//A//A// A//A//A//A// A//A//A//A// | \
+G//G//G//G// G//G//G//G// G//G//G//G// G//G//G//G// | \
+G//G//G//G// G//G//G//G// G//G//G//G// G//G//G//G// | \
+F//F//F//F// F//F//F//F// G//G//G//G// C//C//C//C// | \
+D//D//D//D// D//D//D//D// G//G//G//G// C//C//C//C// | \
+D//D//D//D// F//F//F//F// G//G//G//G// G//G//G//G// | \
+F//F//F//F// F//F//F//F// ^G//G//G//G// A//A//A//A//| \
+^G4- | (G4 | A4) | F4 | (^G4 | G4) | A4| F4 | \
+E/E/E/E/ E/E/E/E/ | E/E/E/E/ D/D/D/D/ | C/ EEE E/ | \
+D/D/D/D/ D/D/D/D/ | E/E/E/E/ E/E/E/E/ |  E/E/E/E/ E/E/E/E/ | \
+E/E/E/E/ E/E/E/E/ | E/E/E/E/ E/E/E/E/ | \
+A/A/A/A/ C/C/C/C/ | D/D/D/D/ D/D/D/D/ | \
+E/E/E/E/ E,/E,/E,/E,/ | A,A,A,z | Z3 | \
+!wedge!A/!wedge!E/!wedge!A/!wedge!E/ !wedge!A/!wedge!c/!wedge!B/!wedge!^G/ | Z3 | \
+!wedge!A/!wedge!E/!wedge!A/!wedge!E/ !wedge!A/!wedge!=G/!wedge!F/!wedge!E/ | Z3 | \
+!wedge!D/!wedge!A,/!wedge!D/!wedge!A,/ !wedge!D/!wedge!F/!wedge!E/!wedge!C/ | \
+D/D/D/D/ D/D/D/D/ | D/D/D/D/ D/D/D/D/ | D/D/D/D/ D/D/D/D/ | \
+!wedge!A,/(F/G/)(^D/ E/)(E/F/)C/ | !wedge!D/(D/E/F/ E/D/C/D/) | \
+!wedge!A,/(F/G/)(^D/ E/)(E/F/)C/ | !wedge!D/(D/E/F/ E/D/C/D/) | \
+!wedge!C/(F/G/^D/) !wedge!E/(E/F/C/) | !wedge!D/(F/G/^D/) !wedge!E/(G/F/E/) | \
+D z/z/8(A,/8B,/8C/8) D z/z/8(A,/8B,/8C/8) | \
+!wedge!D/!wedge!F/!wedge!A/!wedge!F/ !wedge!G/!wedge!E/!wedge!B,/!wedge!C/ | \
+D z/z/8(A,/8B,/8C/8) D z/z/8(A,/8B,/8C/8) || D/F/A/=G/ F/E/^D/=C/ | \
+B,/B,/B,/B,/ B,/B,/B,/B,/ | B,/B,/B,/B,/ B,/B,/B,/B,/ | B,/B,/B,/B,/ B,/B,/B,/B,/ | \
+E/E/E/E/ E/D/C/B,/ | A,/A,/A,/A,/ A,/A,/A,/A,/ |A,/A,/A,/A,/ A,/A,/A,/A,/ | \
+A,/A,/A,/A,/ A,/A,/A,/A,/ | D/D/D/D/ D/D/D/D/ | A,/A,/A,/A,/ A,/A,/A,/A,/ | \
+A,/A,/A,/A,/ A,/A,/A,/A,/ | A,/A,/A,/A,/ A,/A,/A,/A,/ |  \
+A,/A,/A,/A,/ A,/A,/A,/A,/ | A,/A,/A,/A,/ A,/A,/A,/A,/ | \
+D/G/D/G/ D/G/D/G/ | D/F/D/F/ D/D/F/^G/ | A/A/A/A/ A,/A,/A,/A,/ | \
+D/F/D/F/ D/D/F/^G/ | A/A/A/A/ A,/A,/A,/A,/ | D/D/D/D/ D/D/D/D/ | \
+D/D/D/D/ C/C/ A,/A,/ | DA,B,C | DA,B,C | D/D/ A,/A,/ A,/A,/A,/A,/ | G/G/G/G/ G/G/G/G/ |\
+G/G/G/G/ G/G/G/G/ | A/A/A/A/ A,/A,/A,/A,/ | D/DDDD/ | D/DDDD/ | D/DDDD/ | \
+^C/CCCC/ | =C/CCCC/ | B,/B,B,B,B,/ | _B,/B,B,B,B,/ | \
+!wedge!A,z!wedge!A,z | !wedge!Cz !wedge!Dz | !wedge!A,z!wedge!A,z | !wedge!Cz !wedge!Dz | \
+(A,=B,A,B,)|(A,=B,A,B,) | !fermata!A,4 |] \
+%-------------------------

@@ -1,0 +1,64 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Freut euch des Lebens (Walzer) EbBb (wz06930) ABACDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.252 (wz06930) orig. F,Bb
+T: Aus dem Repertoire der "Bottmiger Musig". S.237-254
+T:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+%%partsbox
+P:ABACDC
+R:Walzer
+M:3/4
+L:1/4
+K:Eb %%MIDI gchordon
+G [P:A] |: "Eb"BgB | GeG | "Bb7"Fdc | B2F | "Bb"FBF | "F7"F2F | "Bb"FBF | "Bb7"F2F | "Eb"BgB | GeG | 
+"Bb7"Fdc | B2B | BaB | BdB | "Eb"e>ee |1 ezF :|2 ezz |: [P:B] [K:Bb] "Bb"F(G/A/) (B/c/) | d(e/d/) (c/d/) | 
+"Eb".e.d.c | G2B | "F7"A(A/^G/) (A/B/) | c(c/=B/) (c/^c/) | "Bb"d(d/c/) (B/G/) | F3 | F(G/A/) (B/c/) | d(e/d/) (c/d/) | "Cm".e.d.c | 
+g2e | "F7"c(c/=B/) (c/d/) | f(f/e/) (d/c/) | "Bb"B (B/A/) (B/c/) | B2"_>Teil A"z :| [P:C] [K:Eb] "Eb"G3 | "Bb7"AGA | "Eb"B2e | 
+e3 | E3 | "Bb7"FEF | "Eb"GAG | "Bb7"F3 | "Eb"G3 | "Bb7"AGA | "Eb"B2e | e3 | G3 | "Bb7"FGF | 
+"Eb"(E3 | E)zB [P:D] |: "Eb"BG/G/G | "Bb7"BA/A/A | ddc | "Eb"B3 | Be/e/e | "Cm"Gc/c/c | "Bb7"Bdf | "Eb"e"_>Teil C"zz :|  
+ % wz06930
+% April 20, 2017
+
+X:2
+T:Freut euch des Lebens (Walzer) FC 2+ (wz06930)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.252 (wz06930) orig. F,Bb
+S:Aus dem Repertoire der "Bottmiger Musig". S.237-254
+S:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Fmaj%%MIDI gchordon
+A |: "F"cac | AfA | "C7"Ged | c2G | "C"GcG | "G7"G2G | "C"GcG | "C7"G2G | "F"cac | AfA | 
+"C7"Ged | c2c | cbc | cec | "F"f>ff |1 fzG :|2 fzz |: [K:Cmaj] "C"G(A/2B/2) (c/2d/2) | e(f/2e/2) (d/2e/2) | 
+"F".f.e.d | A2c | "G7"B(B/2^A/2) (B/2c/2) | d(d/2^c/2) (d/2^d/2) | "C"e(e/2d/2) (c/2A/2) | G3 | G(A/2B/2) (c/2d/2) | e(f/2e/2) (d/2e/2) | "Dm".f.e.d | 
+a2f | "G7"d(d/2^c/2) (d/2e/2) | g(g/2f/2) (e/2d/2) | "C"c (c/2B/2) (c/2d/2) | c2"_>Teil A"z :| [K:Fmaj] "F"A3 | "C7"BAB | "F"c2f | 
+f3 | F3 | "C7"GFG | "F"ABA | "C7"G3 | "F"A3 | "C7"BAB | "F"c2f | f3 | A3 | "C7"GAG | 
+"F"(F3 | "_Fine"F)zc |: "F"cA/2A/2A | "C7"cB/2B/2B | eed | "F"c3 | cf/2f/2f | "Dm"Ad/2d/2d | "C7"ceg | "F"f"_>Teil C"zz :| 
+W:Parts ABACDC 
+% wz06930
+% April 20, 2017
+
+X:3
+T:Freut euch des Lebens (Walzer) CG 3- (wz06930)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.252 (wz06930) orig. F,Bb
+S:Aus dem Repertoire der "Bottmiger Musig". S.237-254
+S:Überliefert durch Emil Schweighauser (cl, tp), Bottmingen
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+E |: "C"GeG | EcE | "G7"DBA | G2D | "G"DGD | "D7"D2D | "G"DGD | "G7"D2D | "C"GeG | EcE | 
+"G7"DBA | G2G | GfG | GBG | "C"c>cc |1 czD :|2 czz |: [K:Gmaj] "G"D(E/2F/2) (G/2A/2) | B(c/2B/2) (A/2B/2) | 
+"C".c.B.A | E2G | "D7"F(F/2^E/2) (F/2G/2) | A(A/2^G/2) (A/2^A/2) | "G"B(B/2A/2) (G/2E/2) | D3 | D(E/2F/2) (G/2A/2) | B(c/2B/2) (A/2B/2) | "Am".c.B.A | 
+e2c | "D7"A(A/2^G/2) (A/2B/2) | d(d/2c/2) (B/2A/2) | "G"G (G/2F/2) (G/2A/2) | G2"_>Teil A"z :| [K:Cmaj] "C"E3 | "G7"FEF | "C"G2c | 
+c3 | C3 | "G7"DCD | "C"EFE | "G7"D3 | "C"E3 | "G7"FEF | "C"G2c | c3 | E3 | "G7"DED | 
+"C"(C3 | "_Fine"C)zG |: "C"GE/2E/2E | "G7"GF/2F/2F | BBA | "C"G3 | Gc/2c/2c | "Am"EA/2A/2A | "G7"GBd | "C"c"_>Teil C"zz :| 
+W:Parts ABACDC 
+% wz06930
+% April 20, 2017

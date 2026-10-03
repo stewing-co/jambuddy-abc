@@ -1,0 +1,98 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Schneegl\"ockchen Walzer  CGF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.200f (wz00719) orig. C,G,F-Dur
+T:Walliser T\"anze. S.196-213.\"Uberliefert durch Josef Seewer und Marcel Tschopp, Leuk, 
+T: und Sepp Mutter, Ried/Brigerberg
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"E3 | G2c | "G7"B2d | F3 | D3 | F2B | "C"A2c | G3 | 
+e3 | d2c | "G7"B2F | B3 |1 d3 | c2A | "C"G2E | G3 :|2 
+d2B | g2B | ("C"c3 | c)zz |: [K:G] "G"Bde | fga | "D7"g>ff | c3 | 
+ABc | gfc | "G"e>dd | B3 | Bde | fgb | "Am/C"b>ag | e2a | 
+"G/D"gfe | "D7"def | "G"g>gg |1 gzd :|2 gzz |: [K:C] "C"e3 | d2c | "G7"B3 | 
+B2G | f3 | e2d | "C"(c3 | c) zG | g3 | f2e | "Dm/F"d2f | 
+A2d | "C/G"c2c | "G7"e2d |1 "C"(c3 | c)zG :|2 "C"c3 | "C7"cde || [K:F] "F"f/e/gf | 
+c2c | "Gm/Bb"d/^c/ed | G2A | "C7"B/c/ee | d2B | "F"A/c/dd | c2c | f/e/gf | 
+c2c | "Gm/Bb"d/^c/ed | G2A | "C7"B/c/ee | d/c/ ag | "F"f>ff | fzz |] 
+X:2
+T: Schneegl\"ockchen Walzer  CGF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"E3 | G2c | "G7"B2d | F3 | D3 | F2B | "C"A2c | G3 | \
+e3 | d2c | "G7"B2F | B3 |1 d3 | c2A |
+ "C"G2E | G3 :|2 \
+d2B | g2B | ("C"c3 | c)zz |: [K:G] "G"Bde | fga | "D7"g>ff | c3 | \
+ABc |
+ gfc | "G"e>dd | B3 | Bde | fgb | "Am/C"b>ag | e2a | \
+"G/D"gfe | "D7"def |
+ "G"g>gg |1 gzd :|2 gzz |: [K:C] "C"e3 | d2c | "G7"B3 | \
+B2G | f3 | e2d | "C"(c3 |
+ c) zG | g3 | f2e | "Dm/F"d2f | \
+A2d | "C/G"c2c | "G7"e2d |1 "C"(c3 | c)zG :|2 "C"c3 |
+ "C7"cde || [K:F] "F"f/e/gf | \
+c2c | "Gm/Bb"d/^c/ed | G2A | "C7"B/c/ee | d2B | "F"A/c/dd |
+ c2c | f/e/gf | \
+c2c | "Gm/Bb"d/^c/ed | G2A | "C7"B/c/ee | d/c/ ag | "F"f>ff | fzz |] 
+% wz00719
+X:3
+T:Schneegl\"ockchen Walzer GD&C (tinwhistle in D)
+T: wz00719 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"B,3 | D2G | "D7"F2A | C3 | A,3 | C2F | "G"E2G | D3 | \
+B3 | A2G | "D7"F2C | F3 |1 A3 | G2E |
+"G"D2B, | D3 :|2 \
+A2F | d2F | ("G"G3 | G)zz |: [K:D] "D"FAB | cde | "A7"d>cc | G3 | \
+EFG |
+dcG | "D"B>AA | F3 | FAB | cdf | "Em/G"f>ed | B2e | \
+"D/A"dcB | "A7"ABc |
+"D"d>dd |1 dzA :|2 dzz |: [K:G] "G"B3 | A2G | "D7"F3 | \
+F2D | c3 | B2A | "G"(G3 |
+G) zD | d3 | c2B | "Am/C"A2c | \
+E2A | "G/D"G2G | "D7"B2A |1 "G"(G3 | G)zD :|2 "G"G3 |
+"G7"GAB || [K:C] "C"c/2B/2dc | \
+G2G | "Dm/F"A/2^G/2BA | D2E | "G7"F/2G/2BB | A2F | "C"E/2G/2AA |
+G2G | c/2B/2dc | \
+G2G | "Dm/F"A/2^G/2BA | D2E | "G7"F/2G/2BB | A/2G/2 ed | "C"c>cc | czz |] 
+X:4
+T:Schneegl\"ockchen Walzer GD&C (tinwhistle in D) solo
+T: wz00719 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=12
+"_=B,"B,3 | D2G | F2A | "_=C"C3 | "_=A,"A,3 | "_=C"C2F | E2G | D3 | \
+B3 | A2G | F2"_=C"C | F3 |1 A3 | G2E |
+D2"_=B,"B, | D3 :|2 \
+A2F | d2F | (G3 | G)zz |: [K:D] FAB | cde | d>cc | G3 | \
+EFG |
+dcG | B>AA | F3 | FAB | cdf | f>ed | B2e | \
+dcB | ABc |
+d>dd |1 dzA :|2 dzz |: [K:G] B3 | A2G | F3 | \
+F2D | "_c"c3 | B2A | (G3 |
+G) zD | d3 | "_c"c2B | A2"_c"c | \
+E2A | G2G | B2A |1 (G3 | G)zD :|2 G3 |
+GAB || [K:C] "_c"c/2B/2dc | \
+G2G | A/2^G/2BA | D2E | "_f"F/2G/2BB | A2"_f"F | E/2G/2AA |
+G2G | "_c"c/2B/2dc | \
+G2G | A/2^G/2BA | D2E | "_f"F/2G/2BB | A/2G/2 ed | "_c"c>cc | czz |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 23, 2016
+

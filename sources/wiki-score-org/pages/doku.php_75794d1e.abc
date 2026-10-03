@@ -1,0 +1,15 @@
+X:804
+T:N.11 Expressivo
+C:Antonio Thomaz de Lima
+M:C
+L:1/4
+K:A
+V: 4 clef=bass name="Cello" sname="Vc."
+%%MIDI program 1 1
+%%staves [ 4 ]
+%----------- edit between the lines ------------
+[Q:"Expressivo"] "_com surdina"\
+A, (F,/D,/) (C,/B,,/) (A,,//=G,,//F,,//E,,//) | \
+(D,,/F,,//=F,,//) E,, A,, > z | A,,A,,A,,F,, | (F,/B,,/) E,,  F,, > z | \
+"_TBC" X
+%-----------------------------------------------

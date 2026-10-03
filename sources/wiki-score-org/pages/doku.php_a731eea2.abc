@@ -1,0 +1,24 @@
+X:4018
+T:Coro [Antandro, Demetrio, Euridice, Emirena, Eumene]
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:D
+V: 18 clef=bass name="Basso" sname="B."
+%%MIDI program 1 1
+%%staves [[ 18 ]]
+%-------------------
+[Q:"Allegro"] z | Z12 | "^[B in ms]" z2zA,/> A,/ !segno!|| D A,/> A,/ D D/> D/ | D D,/2> D/2 C C/2> C/2 | D D,/2> D/2 C C/2> C/2 | DD,z2 | \
+w:Al-l'e-ven-to fe-li-ce gio-con-do fe-li-ce gio-con-do fe-li-ce gio-con-do
+D3D | DD,zD | D2DD | D2z2 | G,3F, | G,G,zF, | G,2 A,>A, | D,zz2 | \
+w:S'o-da'il mon-do d'ap-plau-si suo-nar s'o-da'il mon-do d'ap-plau-si suo-nar
+A,3A, | DD,zD | A,2 A,A, | DD,z2 | G,3F, | G,G,zF, | G,2A,>A, | D2B,2 | G,2 A,>A, | D2B,2 | G,2 A,>A, | D,zz2 | z3!fine!z |] \
+%--- "^Questo Coro" "^si replica" "^p.due volte(...)"
+w:Al-l'e-ven-to fe-li-ce gio-con-do  s'o-da'il mon-do d'ap-plau-si suo-nar d'ap-plau-si suo-nar d'ap-plau-si suo-nar
+[Q:"Allegretto"][K:G] Z20 | z2zA,/> A,/ "^[B in ms]" ||\
+w: Al-l'e
+"_NB: check" "_DC al segno" X | \
+Z38 | z2zA,/> A,/ ||\
+w: Al-l'e
+"_NB: check" "_DC al segno" X | \
+%-------------------

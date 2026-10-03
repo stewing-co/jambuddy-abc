@@ -1,0 +1,39 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Im Scherze (Mazurka) GC (mz06381)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.129 (mz06381) orig. G,C
+T: Basel - Repertoire der 'Holzmusig Allschwil'. S.118-139
+T:Überliefert durch Wihelm Lötscher-Schätzle (*1878, Uhrmacher)
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"B>c d2g2 | "Am"g>fa2e2 | "D7"e>df2c2 | "G"B>ed4 | B>cd2g2 | "D"g>fa2f2 | "A7"f>eg2^c2 | "D".d2!>!d2z2 :| 
+|: "D7"a>gf3e | "G"d>c B>dd2 | "D7"c>B A>B c>e | "G"e2d2d2 | "D7"a>gf3e | "G"d>c B>gg2 | "D7"d>e f>g a>f | "G".g2!>!g2z2 :| [K:C] 
+|: "C"e>G .e2.d2 | (d4c2) | GG EG ce | "G7"a>aa2a2 | f>G .f2.e2 | (e4d2) | GG FG Bd | "C"a>aa2a2 | 
+e>G .e2.d2 | (d4c2) | cc Bc dc | "F"A>aa2a2 | "G7".b2!>!a2 g>f | "C"e>G .f2!>!e2 | "G7"d>G .e2!>!d2 | "C".c2!>!c2z2 :| 
+|: ("F"A>c) (c>f) (f>a) | "C".g2!>!e4 | ("G7"g>f) f>G d2 | "C"f>e e>Gc2 | ("F"A>c) c>f (f>a) | "C".g2!>!e4 | "G7"b>a g>f A>B | "C".c2.c2z2 :| 
+% mz06381
+% Dez 8, 2016
+
+X:2
+T:Im Scherze (Mazurka) CF 7- (mz06381)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.129 (mz06381) orig. G,C
+S:Basel - Repertoire der 'Holzmusig Allschwil'. S.118-139
+S:Überliefert durch Wihelm Lötscher-Schätzle (*1878, Uhrmacher)
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"E>F G2c2 | "Dm"c>Bd2A2 | "G7"A>GB2F2 | "C"E>AG4 | E>FG2c2 | "G"c>Bd2B2 | "D7"B>Ac2^F2 | "G".G2!>!G2z2 :| 
+|: "G7"d>cB3A | "C"G>F E>GG2 | "G7"F>E D>E F>A | "C"A2G2G2 | "G7"d>cB3A | "C"G>F E>cc2 | "G7"G>A B>c d>B | "C".c2!>!c2z2 :| [K:F] 
+|: "F"A>C .A2.G2 | (G4F2) | CC A,C FA | "C7"d>dd2d2 | B>C .B2.A2 | (A4G2) | CC B,C EG | "F"d>dd2d2 | 
+A>C .A2.G2 | (G4F2) | FF EF GF | "Bb"D>dd2d2 | "C7".e2!>!d2 c>B | "F"A>C .B2!>!A2 | "C7"G>C .A2!>!G2 | "F".F2!>!F2z2 :| 
+|: ("Bb"D>F) (F>B) (B>d) | "F".c2!>!A4 | ("C7"c>B) B>C G2 | "F"B>A A>CF2 | ("Bb"D>F) F>B (B>d) | "F".c2!>!A4 | "C7"e>d c>B D>E | "F".F2.F2z2 :| 
+% mz06381
+% Dez 8, 2016

@@ -1,0 +1,20 @@
+X:102
+T:Hodie Nobis
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 2 clef=alto1 name="Violim" sname="Vl."
+%%MIDI program 1 40
+%%staves [ 2 ]
+%----------
+Z13 !segno!|| [M:3/2] Z16 !fine!|] \
+[M:2/2] E>E|E/F/E | F/F/ D//E//F//G// | A//B//c//d// e |  z/ E/> E/ E/ | E/cB/| AA | \
+^G/E/A-|A/^G//^F//G|A/c/ B/^G/|A//B//c//d// e/e/ | A//G//A//B// c | z/e/d/B/ | c/A//B// c//B//A//G// | \
+FD|z/A/> A/ A/ | G/E//F// G//A//B//c// | d/> d/ c/ c/ | B2|zG-|GG|EE|D2| \
+Ec|c>A| B/cB/ | c2 | Z2 | z/A/> A/ A/| G/E/ F//G//A//B// | \
+c//B//A//G// A//B//c//d// | e//d//c//B// ^c/c/ | d D//E//F//G// | A//G//A//B// c/A/ | \
+B/c/ d | c/B//A// B | c/>c/ c/c/ | B/B/ A | G//E// e/>e/ e/ | d/B/ c | BE|EE| \
+EC|E>E| E/D/ E/^F/ | G2| G/c/ c/c/ | B A/d/ | ^c A| ^G G | ^G G | \
+A2 | ^G B | c2 | B2- | B2 !segno!|]\
+%----------

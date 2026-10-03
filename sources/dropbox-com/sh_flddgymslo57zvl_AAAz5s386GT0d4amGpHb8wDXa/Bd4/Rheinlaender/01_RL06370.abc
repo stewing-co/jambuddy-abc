@@ -1,0 +1,43 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Rheinländer CF (RL06370) ABAC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.124 (RL06370) orig. C,F
+T: Basel - Repertoire der 'Holzmusig Allschwil'. S.118-139
+T:Überliefert durch Wihelm Lötscher-Schätzle (*1878, Uhrmacher)
+%%MIDI program 21
+R:Schottisch
+M:4/4
+L:1/8
+K:C %%MIDI gchordon
+e>f |: "C"g2c2c2g>^g | "G7"a2B2B2d>e | f2g2 {/g}b3a | "C"ag ecG2e>f |  g2c2c2g>a | "Em"b2e2e2e>^f | 
+g>^f g>b "B7"f>e f>g |1 "Em"e6e>f :|2 "Em"e6ef |: "C"g3^f ga ge | "Dm"a2d2d2de |  "G7"f3e fg ba | "C"a2c2c2 ef | 
+g3^f ga ge | "Dm"d3^c "G7"de fg | ("C"ag) .e.c "G7"gf dB |1 "C"c2e2c2ef :|2 "C"c2e2c2 (A>c) |: [K:F] "F"a6 (A>c) | g6A>c | 
+.f2.f2.g2.f2 | "C7"G6G>B | f6G>B | e6dc | =B2c2d2c2 | "F"A6(A>c) | a6(A>c) | g6(A>c) |   .f2.f2.g2.f2 | 
+"Gm"G6(e>d) | "C7"c2e2e2e>d | "F"c2f2f2 c^c | "G7"d2g2"C7"e2g2 |1 "F"f2f2f2A>c :|2 "F"f2f2f2fg |: "A7"a3e ab ag | 
+"Dm"f2e2d2 ef | "G7"g3d ga gf | "C"e2d2c2cd | e2z2z2ef |  g2z2z2ga | !>!"C7"b2!>!a2 !>!b2!>!a2 | b2c2c2 (A>c) | "F"a6 (A>c) | 
+g6(A>c) | f2f2g2f2 | "G7"G6 (e>d) | "C7"c2b2b2 (e>d) | "F"c2a2a2c^c | "G7"d2g2"C7"e2g2 |1 "F"f2f2f2fg :|2 "F"f2f2f2z2 |] 
+% RL06370
+% Dez 8, 2016
+
+X:2
+T:Rheinländer GC 5- (RL06370) ABAC
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.124 (RL06370) orig. C,F
+S:Basel - Repertoire der 'Holzmusig Allschwil'. S.118-139
+S:Überliefert durch Wihelm Lötscher-Schätzle (*1878, Uhrmacher)
+%%MIDI program 21
+R:Schottisch
+M:4/4
+L:1/8
+K:G %%MIDI gchordon
+B>c |: "G"d2G2G2d>^d | "D7"e2F2F2A>B | c2d2 {/d}f3e | "G"ed BGD2B>c | d2G2G2d>e | "Bm"f2B2B2B>^c | 
+d>^c d>f "F#7"c>B c>d |1 "Bm"B6B>c :|2 "Bm"B6Bc |: "G"d3^c de dB | "Am"e2A2A2AB | "D7"c3B cd fe | "G"e2G2G2 Bc | 
+d3^c de dB | "Am"A3^G "D7"AB cd | ("G"ed) .B.G "D7"dc AF |1 "G"G2B2G2Bc :|2 "G"G2B2G2 (E>G) |: [K:C] "C"e6 (E>G) | d6E>G | 
+.c2.c2.d2.c2 | "G7"D6D>F | c6D>F | B6AG | ^F2G2A2G2 | "C"E6(E>G) | e6(E>G) | d6(E>G) | .c2.c2.d2.c2 | 
+"Dm"D6(B>A) | "G7"G2B2B2B>A | "C"G2c2c2 G^G | "D7"A2d2"G7"B2d2 |1 "C"c2c2c2E>G :|2 "C"c2c2c2cd |: "E7"e3B ef ed | 
+"Am"c2B2A2 Bc | "D7"d3A de dc | "G"B2A2G2GA | B2z2z2Bc | d2z2z2de | !>!"G7"f2!>!e2 !>!f2!>!e2 | f2G2G2 (E>G) | "C"e6 (E>G) | 
+d6(E>G) | c2c2d2c2 | "D7"D6 (B>A) | "G7"G2f2f2 (B>A) | "C"G2e2e2G^G | "D7"A2d2"G7"B2d2 |1 "C"c2c2c2cd :|2 "C"c2c2c2z2 |] 
+% RL06370
+% Dez 8, 2016

@@ -1,0 +1,16 @@
+X:401
+T:N.6 Mais lentamente
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 1 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%----------- edit between the lines ------------
+F- > F!f! (A/>A'/) | "^com muito sentimento e expressivo" a/(a/>b/) a/(!>!c'/>b/)|a/!>!a-!>!!>(!a/ !>)! !tenuto!f/!p!!tenuto!f/|
+"^sempre muito ligado"f/(f/g/) f/(=a/>>g/)|!>!(g/(f)-f//)z//!tenuto!f/!tenuto!!<(!f/!<)!|!<(!!tenuto!b!<)!!tenuto!b/ (b/g/>e/)|
+(d/f-)f/!>!(e/d/)|c c/ (e/>d/)c/|f "cresc.muito"z/z/!>!f/!>!f/|!ff!!>!b !>!b/ b/(g/>e/)|
+(d/"^dim.sempre, com muita expressÃ£o"f-)f/!>!(e/d/)|c c/ "_ret."(e/>d/)c/ || \
+[M:3/8] "um pouco mais movido" B/ !ff! [df]/[eg]/ ||
+%-----------------------------------------------

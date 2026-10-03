@@ -1,0 +1,35 @@
+X:508
+T:Gloria
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:C
+V: 8 clef=treble name="Violino II" sname="Vl.II"
+%%MIDI program 1 40
+%%staves [{ 8 }]
+%----------------------------------------------------------------------------------------------------
+Z17 || \
+[Q:"Allegro"][K:D] A e///d///c3/4 {B}A>c | (3d//c//B// f e//d// c//B//A/ z//e//c//A//  | \
+B/e/ z//b//^g//e// a/^d/ !trill! d3/4c///d/// | e/E/ z/ E/ A///B///c3/4 c///d///c3/4 | \
+c/A/ A3/4^G/8F/8 G/8A/8B3/4 B/8c/8B3/4 | ^g/B/ B3/4A/8^G/8 A/8B/8c3/4 c/8d/8c3/4 | \
+e/A/ A3/4^G/8F/8 G//A// B c//d// | e/f/f/^g/ {fg}a3/4^g/8f/8 e//c'//e//d// | c/A/ ^G A/E/ A, | \
+A>^G F/E/D/C/ | B,/A,/ ^G,/E/ A,/ E F//^G// |  A>^G F/E/D/C/ | B,/A,/ ^G,/E/ A,//B,//C//D// E/A/ | \
+^G z/E//F// ^G/E/ B/c/ | {c}d c/8B/8A3/4 C/C/C/C/ | B,/B,/B,/B,/ A,/A,/ C/A,/ | A/^G/ G/A/ BA | \
+B/A/ B/E/ E^D | E e/8^d/8e3/4 z/f//e// ^d/f/ | ^G !trill!e/8^d/8e3/4 z/^g//f// e/g/ | \
+A !trill!a/8^g/8a3/4- a//^g//f//e// ^d/e/ | ^G/ E ^D/ !f!E/b/ e//^g//f//e// | \
+c'/c/ c/8^d/8e3/4- b/B/ B/8c/8^d3/4 | a/a/ !trill!a3/4^g/8f/8 g/f//e// ^d//c//B//A// | \
+^G/e/ ^F//^d//F//^D// {D}E z | A>^G F/E/D/C/ | B,/A,/ ^G,/E/ A,/ C ^A/ | B>A G/F/E/D/ | \
+C/B,/ ^A,/F/ B,/F/ z/B/ | ^A B c/^A//B// c/c/ | e/dc/ F/F/ F/F/ | .B.B B/^G//A// B/B/ | \
+d/cB/ A/8B/8c3/4 c/8d/8c3/4 | \
+e/A/ A3/4^G/8F/8 G/8A/8B3/4 B/8c/8B3/4 | ^g/B/ B3/4A/8^G/8 A/8B/8c3/4 c/8d/8c3/4 | \
+e/A/ A3/4^G/8F/8 G//A//B//c// d/e/ | e/f/f/^g/ !trill!a3/4^g/8f/8 e/d/ | \
+c<!trill!A !f!^G//B//e/  z//b//^g//e// | a/d/ !trill!d3/4c/8B/8 c/cB//A// | B/BA//^G// A/fA/ | \
+A/^GG//A// B/AG/ | A z/f/ A/A^G/ | A !trill!c/8B/8c3/4 z/e//d// c/e/ | \
+F d/8c/8d3/4 z/f//e// ^d/f/ | ^G/Bc//d// e//^g//f//e// a/A/ | z2 z/!f!e/ a//e//c//A// | \
+f/A/ d/8e/8f3/4 ^g/B/ e/8f/8^g3/4 | a/c/ f/8^g/8a3/4 d'/d'/ !trill!d'3/4c'/8b/8 | \
+c'/e/ !trill!a/8^g/8a3/4- a//g//b//d// c//a//c//A// | A/^G//F// G/>A/ A || \
+z || !p! c a///^g///f3/4 {f}^e>=d | c/^gB/ A//^G//F/ A/A/ | \
+^A/A/A/A/ F/^d/d/F/ | F/F/ F/F/ ^G/^g/ g/g/ | g/g/g/g/ c/c/c/c/ | c/c/e/e/ d/f/f/d/ | \
+B/B/B/B/ B/B/B/B/ | B/B/d/d/ c/e/e/c/ | c/c/c/c/ ^B/B/B/c/ | ^d/d/d/d/ e/>c/ a/c/ | c^B \
+c/c/c/c/ | ^d/8e/8f3/4 ^B/8c/8^d3/4 e/8f/8^g3/4 f/A/ | z4  |] \
+%----------------------------------------------------------------------------------------------------

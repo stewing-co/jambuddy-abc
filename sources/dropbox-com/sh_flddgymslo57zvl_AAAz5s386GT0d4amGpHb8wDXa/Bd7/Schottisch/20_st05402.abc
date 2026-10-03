@@ -1,0 +1,28 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Gr\"uenbire-Schottisch CGF  chords  
+% Green-Pears Shottish
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.255 (st05402) orig. C,G,F-Dur
+T: "Pl\"otsch Musig" Guggisberg (Bern) S.186ff
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"e2ef e2d2 | c2e2 +>+g4 | "G7"d^cd2 g^fg2 | "C"e^de2c4 | e2ef e2d2 | c2e2 +>+g4 | "G7"d2^cd g^fg2 | "C"c2c2 c2z2 :: [K:G]
+"G"d^cd2 gfg2 | b2b2 gfg2 | d^cd2 gfg2 | b2b2g4 | "D7"c'ba2 a2a2 | "G"bag2 g2g2 | "D7"fed2 c'ba2 | "G"g2g2 g2z2 :| [K:C] [L:1/8] "C"e3 ^d/e/ | 
+a3g | "G7"gB B/B/B | B3z | d3^c/d/ | b3a | "C"gc c/c/c | c3z | e3^d/e/ | a3g | 
+"G7"gB/B/ BB | B3z |: "Dm/F"de/f/ "G7"fa/b/ | "C"c'e g2 | "G7"ad +>+f2 | "C"gc +>+e2 | "Dm/F"dd/e/ "G7"f/g/a/b/ | "C"c'e g2 | "G7"b/a/g f/e/d | 
+"C"cc cz :| [K:F] "F"fc fg | a3g/f/ | ef c'>b | "Gm/Bb"agg2 | gd ga | "C7"b3e/d/ | cb ag | "F"a>gf2 | 
+fc fg | a3g/f/ | ef g>f | "Gm/Bb"ed +>+d2 | "C7"cb/a/ gg | "F"ca/g/ ff | "C7"e/d/c b/a/g | "F"fa fz |] 
+
+X:2
+T:Gr\"uenbire-Schottisch CGF oct chords  
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"E2EF E2D2 | C2E2 !>!G4 | "G7"D^CD2 G^FG2 | "C"E^DE2C4 | E2EF E2D2 | C2E2 !>!G4 | "G7"D2^CD G^FG2 | "C"C2C2 C2z2 :: [K:Gmaj]
+"G"D^CD2 GFG2 | B2B2 GFG2 | D^CD2 GFG2 | B2B2G4 | "D7"cBA2 A2A2 | "G"BAG2 G2G2 | "D7"FED2 cBA2 | "G"G2G2 G2z2 :| [K:Cmaj] [L:1/8] "C"E3 ^D/2E/2 | 
+A3G | "G7"GB, B,/2B,/2B, | B,3z | D3^C/2D/2 | B3A | "C"GC C/2C/2C | C3z | E3^D/2E/2 | A3G | 
+"G7"GB,/2B,/2 B,B, | B,3z |: "Dm/F"DE/2F/2 "G7"FA/2B/2 | "C"cE G2 | "G7"AD !>!F2 | "C"GC !>!E2 | "Dm/F"DD/2E/2 "G7"F/2G/2A/2B/2 | "C"cE G2 | "G7"B/2A/2G F/2E/2D | 
+"C"CC Cz :| [K:Fmaj] "F"FC FG | A3G/2F/2 | EF c>B | "Gm/Bb"AGG2 | GD GA | "C7"B3E/2D/2 | CB AG | "F"A>GF2 | 
+FC FG | A3G/2F/2 | EF G>F | "Gm/Bb"ED !>!D2 | "C7"CB/2A/2 GG | "F"CA/2G/2 FF | "C7"E/2D/2C B/2A/2G | "F"FA Fz |] 

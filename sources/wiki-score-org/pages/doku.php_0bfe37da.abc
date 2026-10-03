@@ -1,0 +1,20 @@
+X:506
+T:N.7 Um pouco mais...
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 6 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 6 }]
+%----------- edit between the lines ------------
+[M:6/8] [Adfa]/>[Bdgb]/[Adfa]/ [FBdf] [Beg]/ | \
+[Aefa]3/2  ({a}a'/ [ABdf]/[Gdeg]/ & x/ (3F,//A,//D// x x | \
+[Adfa]/>[^Gd=f^g]/[Ad^fa]/ [Bdeb]/[Adfa]/[ABdf]/ | [Aca]//[GAcg]//- [GAcg] [EAce] [ABdf]/ | \
+c/>^d/e//c//) [EAce] [FAcf]/ & [GAg]/ x/ x/ x3/2 | [GAcg]3/2 ({a}a'/) [EAce]/ [FBdf]/ & x/ "_m.d."(3C//E//A// x x | \
+[Gceg]/>[FABf]/[GBg]/ !arpeggio![Bcgb]/!arpeggio![Acfa]/!arpeggio![Bceg]/ || \
+[M:3/8] [ABdf] [f^ad]/ || [M:6/8] [Bdgb]/>[^Acef^a]/[Bdgb]/ [gbd]/[DGBd]/[Bdgb]/ | \
+(3z//!>!A,//!>!B,// (3!>!C//!>!D//!>!E// !sfz!F/ [I: staff +1] (3z// !>!D,//!>!F,//[I: staff -1] (3!>!A,//!>!B,//!>!D// !sfz!F/ |\
+[I: staff +1](3z//!>!E,//!>!G,//[I: staff -1] (3!>!B,//!>!E//!>!B// !sfz!G/ [I: staff +1](3z//!>!G,//!>!C//[I: staff -1] (3!>!E//!>!G//!>!A// !sfz!_B/- | \
+_B/>A/G/ zz/ | !arpeggio![Aega] !arpeggio![Begb] !arpeggio![egbe']- | !fermata![egbe']3 ||
+%-----------------------------------------------

@@ -1,0 +1,51 @@
+%%slurgraces no
+%%graceslurs no
+
+X: 20000
+T: Hamilton's Universal Tune-Book
+C: edited by James Manson
+B: W. Hamilton "Universal Tune-Book" Vol. 2 Glasgow 1846
+S: http://s3-eu-west-1.amazonaws.com/itma.dl.printmaterial/book_pdfs/hamiltonvol2web.pdf
+Z: 2016 John Chambers <jc:trillian.mit.edu>
+K:
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%sep 1 8 500
+%%center HAMILTON'S
+%%center UNIVERSAL TUNE-BOOK;
+%%center a collection of the
+%%center MELODIES OF ALL NATIONS,
+%%center adapded for
+%%center VIOLIN, FLUTE, CLARIONET, ETC.
+%%center .
+%%center EDITED BY JAMES MANSON
+%%center .
+%%center Not harsh and crabbed, . . . . .
+%%center But musical as is Apollo's lute,
+%%center And a perpetual feast of nectar'd sweets,
+%%center Where no crude surfeit reights.--COMUS.
+%%center .
+%%center VOL. II
+%%center .
+%%center GLASGOW:
+%%center JOHN MCLEOD, ARGYLE STREET, AND FRANCIS ORR & SONS;
+%%center J. MENZIES, PRINCES STREET, AND N. BOWACK, LEITH STREET, EDINBURGH;
+%%center FINLAY & CHARLTON, NEWCASTLE; W. POLLOCK, BELFAST;
+%%center T. LE MESSURIER, DUBLIN; AND SIMPKIN, MARSHALL & Co., LONDON.
+%%center ----
+%%center 1846.
+%%sep 1 1 500
+%%sep 1 8 500
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext align
+%% The tunes in this collection are in single-tune files
+%% with names of the form VPPPN_Tune_Title.abc, 
+%% where V is the volume number, PPP is the page number,
+%% and N is the tune's number within the page.  
+%% The 5-digit number is also in each tune's X: index number header line.
+%% Some tunes are on more than one page;
+%% their place on the second page is indicated with a
+%% file VPPP1_.abc, which contains only a comment.
+%% This is useful while transcribing, as a check that the partial tune was noticed and transcribed.
+%% Such place-holder files may be deleted eventually.
+%%endtext
+%%sep 1 1 300

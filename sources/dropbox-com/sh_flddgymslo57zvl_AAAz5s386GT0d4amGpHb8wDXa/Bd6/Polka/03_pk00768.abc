@@ -1,0 +1,99 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Winkler-Polka  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.174 (pk00768) orig. C-Dur
+T: Zermatter T\"anze. S.166-177.\"Uberliefert durch Moritz Perren, "Hofmuri", 1874-1952.
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+(3GGG | "C"G2Gc eGce | g6GG | G2e2 d2c2 | "G7"c2B2 B2GG | G2GB dGBd | g6GG | 
+G2f2 e2d2 | "C"d2c2 c2(3GGG | G2Gc eGce | g6 (3AAA | "Dm"A2Ad fAdf | a6z2 || "Dm"d^cde f2a2 | 
+"C"cBcd e2g2 | "G7"Bgfg Bgfg | "C"c2a2g4 | "Dm"d^cde f2a2 | "C"cBcd e2g2 | "G7"b3a gfed | "C"c2e2 c2z2 |]  
+X:2
+T:Winkler-Polka  G 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+(3DDD | "G"D2DG BDGB | d6DD | D2B2 A2G2 | "D7"G2F2 F2DD | D2DF ADFA | d6DD | 
+D2c2 B2A2 | "G"A2G2 G2(3DDD | D2DG BDGB | d6 (3EEE | "Am"E2EA cEAc | e6z2 || "Am"A^GAB c2e2 | 
+"G"GFGA B2d2 | "D7"Fdcd Fdcd | "G"G2e2d4 | "Am"A^GAB c2e2 | "G"GFGA B2d2 | "D7"f3e dcBA | "G"G2B2 G2z2 |] 
+% pk00768
+X:3
+T:Winkler-Polka  F 7-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F%%MIDI gchordon
+(3CCC | "F"C2CF ACFA | c6CC | C2A2 G2F2 | "C7"F2E2 E2CC | C2CE GCEG | c6CC | 
+C2B2 A2G2 | "F"G2F2 F2(3CCC | C2CF ACFA | c6 (3DDD | "Gm"D2DG BDGB | d6z2 || "Gm"G^FGA B2d2 | 
+"F"FEFG A2c2 | "C7"EcBc EcBc | "F"F2d2c4 | "Gm"G^FGA B2d2 | "F"FEFG A2c2 | "C7"e3d cBAG | "F"F2A2 F2z2 |] 
+% pk00768
+X: 4
+T: Winkler-Polka  C (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+(3GGG | "C"G2Gc eGce | g6GG | G2e2 d2c2 | "G7"c2B2 B2GG | G2GB dGBd | g6GG | 
+G2f2 e2d2 | "C"d2c2 c2(3GGG | G2Gc eGce | g6 (3AAA | "Dm"A2Ad fAdf | a6z2 || "Dm"d^cde f2a2 | 
+"C"cBcd e2g2 | "G7"Bgfg Bgfg | "C"c2a2g4 | "Dm"d^cde f2a2 | "C"cBcd e2g2 | "G7"b3a gfed | "C"c2e2 c2z2 |]  
+% pk00768
+X:5
+T:Winkler-Polka  G (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+(3DDD | "G"D2DG BDGB | d6DD | D2B2 A2G2 | "D7"G2F2 F2DD | D2DF ADFA | d6DD | 
+D2c2 B2A2 | "G"A2G2 G2(3DDD | D2DG BDGB | d6 (3EEE | "Am"E2EA cEAc | e6z2 || "Am"A^GAB c2e2 | 
+"G"GFGA B2d2 | "D7"Fdcd Fdcd | "G"G2e2d4 | "Am"A^GAB c2e2 | "G"GFGA B2d2 | "D7"f3e dcBA | "G"G2B2 G2z2 |] 
+% pk00768
+X:6
+T:Winkler-Polka  F (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+(3CCC | "F"C2CF ACFA | c6CC | C2A2 G2F2 | "C7"F2E2 E2CC | C2CE GCEG | c6CC | 
+C2B2 A2G2 | "F"G2F2 F2(3CCC | C2CF ACFA | c6 (3DDD | "Gm"D2DG BDGB | d6z2 || "Gm"G^FGA B2d2 | 
+"F"FEFG A2c2 | "C7"EcBc EcBc | "F"F2d2c4 | "Gm"G^FGA B2d2 | "F"FEFG A2c2 | "C7"e3d cBAG | "F"F2A2 F2z2 |] 
+% pk00768
+X:7
+T:Winkler-Polka D (tinwhistle in D)
+T: pk00768 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+(3AAA | "D"A2Ad fAdf | a6AA | A2f2 e2d2 | "A7"d2c2 c2AA | A2Ac eAce | a6AA | 
+A2g2 f2e2 | "D"e2d2 d2(3AAA | A2Ad fAdf | a6 (3BBB | "Em"B2Be gBeg | b6z2 || "Em"e^def g2b2 | 
+"D"dcde f2a2 | "A7"caga caga | "D"d2b2a4 | "Em"e^def g2b2 | "D"dcde f2a2 | "A7"c'3b agfe | "D"d2f2 d2z2 |] 
+X:8
+T:Winkler-Polka D (tinwhistle in D)
+T: pk00768 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+(3AAA | "D"A2Ad fAdf | a6AA | A2f2 e2d2 | "A7"d2c2 c2AA | A2Ac eAce | a6AA | 
+A2g2 f2e2 | "D"e2d2 d2(3AAA | A2Ad fAdf | a6 (3BBB | "Em"B2Be gBeg | b6z2 || "Em"e^def g2b2 | 
+"D"dcde f2a2 | "A7"caga caga | "D"d2b2a4 | "Em"e^def g2b2 | "D"dcde f2a2 | "A7"c'3b agfe | "D"d2f2 d2z2 |] 
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 19, 2016
+

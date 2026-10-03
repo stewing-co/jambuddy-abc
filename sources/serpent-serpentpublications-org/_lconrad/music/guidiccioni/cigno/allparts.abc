@@ -1,0 +1,118 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Il Bianco e dolce Cigno
+T:Cantus
+C: Giovanni Guidiccioni
+B: Il primo libro a note negre a due voci
+L:1/4
+M:C|
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on first line
+K:F
+z8 F8 B6 A2 G A B c d2 d2 B4 A2
+w:Il bian- co~e dol- * * * * ce ci- gno,
+c4 G4 A2 B2 A3 G/ F/ G2 A2 F2 E4
+w:can- tan- do mo- * * * * * * re.
+z2 A4 c4 G2 G2 A G A B c4 "f"=B2 c B A G A2
+w:\[can- tan- do mo- * * * * * *  re.] * * * *
+F2 E3 F G3 F/ E/ D2 C2 F2 E2 
+w:Ed io * * * * * pian- gen- do
+D4 C2 E4 G4 D2 D2 E D E F G4 "f"^F2 G3 "f"=F E2 A4 G2 A4
+w: giung' al fin del vi- ver * * * * * * * * * mi- * o.
+z2 F2 F2 F2 G2 A2 B A G F G2 F4 E2 F4
+w: Stran' e di- ver- sa sor- * * * * * *  te,
+z2 G2 G2 E2 F2 D2 C D E F G2 A3 B c4 "f"=B2 c4
+w: ch'ei mo- re scon- so-la- * * * * * * * *  to.
+z2 F2 c3 B A2 G2 A2 B3 A A3 G/ F/ G2 A3 G F4 E3 F G4
+w: Ed io * * mo- ro be- * a- * * * * * *  to. * *
+z2 d4 A4 c4 G2 A2 B3 A G4 "f"^F2 G8
+w: Mor- te che nel mo- ri- * * *  re 
+z2 G2 G2 F2 G2 B2 
+w: m'em- pie di gio- ia,
+A A A A G4 F4
+w: tut- t'e di de- si- re.
+z2 G2 G2 G2 F2 E2 D2 E3 F G2 D2 E3 D C2 F2 E3 D D4 "f"^C2 D E F G A2
+w: Se nel mo- rir al- tro do- * * lor non * * sen- * * * * to, * * * *
+F3 G A2 B2 c4 A4 d4 c4
+w: di * * mil- le mort 'il di
+B2 A2 G3 F F4 E2 F3 G A2
+w: sa- rei con- * ten- _ to. * *
+F3 G A2 B2 c4 A4 d4 c4
+w: di * * mil- le mort' il di 
+B2 A2 G3 F F4 E2 F16 |]
+w: sa- rei con- * ten- _ to.
+
+
+
+X:2
+T:Il Bianco e dolce Cigno
+T:Tenor
+C: Giovanni Guidiccioni
+B: Il primo libro a note negre a due voci
+L:1/4
+M:C|
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on third line
+%%MIDI transpose -12
+K:F -8va
+F8 B6 A2 G A B c d2 d2 _e4 d2
+w:Il bian- co~e dol- * * * * ce ci- gno,
+g4 d4 e2 f2 e d c B A2 G2
+w:can- tan- do mo- *  * * * * re,
+F2 B4 A2 d3 "f"^c/ "f"=B/ c2 d3 e f2 F G A B c d e c f3 e e d/ c/ d4 c4
+w:can- tan- do mo- * * * re, * *  mo- * * * * * * * * * * * * * re.
+z2 A4 c4 G2 G2 A G A B c4 "f"=B2 
+w:Ed io pian- gen- do * * * * *
+c3 "f"_B A2 B2 G3 A B2 A4 G2 A4
+w: giung' al fin del vi- * * ver mi- o.
+z2 c2 c2 c2 d2 e2 f e d c B2 A2 B2 F2 c4
+w: Stran' e di- ver- sa sor- * * * * * * * te,
+z2 c2 c2 A2 B2 G2 F G A B c B G A B2 c2 B4 A4
+w: ch'ei mo- re scon- so-la- * * * * * * * * * * to.
+z2 F2 f3 e d2 d2 e2 f2 e2 d2
+w: Ed io * * mo- ro be- a- to.
+z2 f2 f2 e2 f2 d2 c4 B4 A2
+w: Ed io mo- ro be- a- * to.
+d4 A4 c4 G3 A B A B c d e f2 f2 e4 d2
+w: Mor- te che nel * * * * * * * * mo- ri- re 
+G2 B2 B2 A4 G2
+w: che nel mo- ri- re
+c2 c2 B2 c2 "f"_e2 
+w: m'em- pie di gio- ia,
+d2 d2 c2 d3 e f4 e2 f e d c d c c4 B2 A4
+w: tut- t'e di de- * * * si- * * * * * * * re.
+z2 c2 c2 c2 B2 A2 G2 A3 B c2 G2 B2 A2 A2
+w: Se nel mo- rir al- tro do- * * lor non sen- to,
+z2 F3 G A2 B2 c2 d2 e2 f3 e d c B A G2
+w: di * * mil- le mort' il di * * * * * *
+A2 c2 d3 c B2 A2 B2 G4
+w: sa- rei con- * * * ten-  to.
+z2 F3 G A2 B2 c2 d2 e2 f3 e d c B A G2
+w: di * * mil- le mort' il di * * * * * *
+A2 c2 d3 c B2 A2 B2 G4 F16 |]
+w: sa- rei con- * * * * ten- to.
+
+

@@ -1,0 +1,15 @@
+X:307
+T:III. Allegro
+C:Almeida, Francisco A. de (c.1702-?1755)
+M:3/8
+L:1/8
+K:F
+V: 7 clef=alto name="Violetta" sname="Va"
+%%MIDI program 1 41
+%%staves [ 7 ]
+%---------
+[Q:"Allegro"] F2z|F2E|F2z|F2E|F2z|C2z| D2z|G2z|C2C|C2z| \
+CFG|G2z|G2z|=B2z|GAG|GAG|GEC|EcG|ECG|G3 :: G2z|G2G|E2z|C2=B,|C2z|G2z|A2z|D2z| GCG|ED^C|\
+"_[b]" DEF| GAA,| D2z | G,=B,G, | C2z | FBc | FBc | FF,F, | FF,F, | FF,F, | F,3 :|\
+%------------
+W: [b] From this bar on the viola part is wrong, as it copies the basss as if it were in F clef. (Easy to fix.)

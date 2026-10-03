@@ -1,0 +1,69 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:II. Time stands still with gazing on her face,
+T:Cantus
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+M:C|
+L:1/4
+N:Original clef, C on first line
+K:G mix
+B2 A2 G6 G2 | A3 d B > A G2 A4 |
+w:Time stands still with ga- zing on _ her face,
+w:When for- tune, love, and time at- * tend on
+z2 d2 B2 G2 A2 B2 c3 B/ A/ | G A B2 A2 G2 A3 A G4 |
+w:Stand still and gaze for mi- nutes, _ houres _ and yeares, to her give place:
+w:Her with my for- tunes, love, and _ time, _ I hon- our will a- lone,
+z2 B2 A2 B2 G3 G A4 |
+w:All o- ther things shall change,
+w:If bloud- less en- vie say, 
+z2 A2 B c d2 c2 B2 A4 z4 |
+w:But she _ re- mains the same,
+w:Du- tie _ hath no de- sert.
+d2 c B A2 B2 | c2 B A G2 A2 | B2 c B A G A2 G4 z4 |
+w:Till hea- vens chan- ged have their _ course and time hath _ lost _ his name.
+w:Du- tie re- plies that en- vie _ knowes her selfe his _ faith- *  full heart,
+|:d2 c B A2 B2 c2 B A |  G2 A2 B2 A2 A2 ^G2 A4 z4 |
+w:Cu- pid doth ho- ver up and _ downe blind- ed with her faire eyes,
+w:My set- led vowes and spot- less _ faith no for- tune can re- move,
+c2 B A G2 A2 B2 c B | A2 d2 c B2 A/ G/ A3 A "(1)"G8 :|
+N:(1) original has whole note.
+w:And for- tune cap- tive at her _ feete con- tem'd and _ _ con- querd lies.
+w:Cour- age shall shew my in- ward _ faith, and faith shall _ _ trie my love.
+
+X:2
+T:II. Time stands still with gazing on her face,
+T:Bassus.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:G mix bass
+%%MIDI transpose -24
+g2 d2 e6 e2 d4 G3 G d4 d4 g > ^f
+e2 d2 g2 c3 d e > ^f g2 d2 e2 d4 G6
+g2 ^f2 g2 e4 d4 d4 G > A B2 A2 G2 d8
+B2 c2 d2 c B A2 B2 c2 B A G2 c2 d3 d G8
+|: B2 c2 d2 c B A2 B2 c2 B A ^G2 A2 e4 A8 A2 B2 c2 B A
+G3 G d3 B c d e2 d3 d G8 :|

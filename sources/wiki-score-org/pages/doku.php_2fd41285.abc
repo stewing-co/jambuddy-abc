@@ -1,0 +1,16 @@
+X:204
+T:N.2 Fado (Josepha)
+C:Fonseca, Eduardo da (1863-1938)
+M:C
+L:1/4
+K:C
+V: 4 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 4 ]
+%---
+"pizz." z[CE][CE]z | z[G,F][G,F]z |  z[G,F][G,F]z | z[CE][CE]z |: \
+"Arco" z[CE][CE]z |  z[B,D][B,D]z | z[G,D][G,D]z |1  z[CE][CE][CE] :|2 \
+%  | z[CE][CE]z | z[B,D][B,D][B,D]| z[G,D][G,D]z |
+z[CE][CE]z | z(_E,_A,E,) | z(_E,G,E,) | z(C,F,C,) | z(C,_E,C,) | z(_E,_A,2) | \
+z(C,=E,G,) | z(G,F,G,) |  z(G,E,/)z/z |] \
+%---

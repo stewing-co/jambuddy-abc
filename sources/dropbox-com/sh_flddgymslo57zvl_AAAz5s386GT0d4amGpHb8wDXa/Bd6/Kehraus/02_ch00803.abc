@@ -1,0 +1,110 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Sturmvogler Heimfari (Cherus)  FBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.241 (ch00803) orig. F,Bb-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+!>!"C"c2!>!d2 | !>!e2!>!f2 | ga ba | g2z2 || "F"Ac dc | f/e/d/c/"C7"B2 | "Gm"Bd ed | 
+"C7"g/f/e/d/ c/=B/c/_B/ | "F"Ac dc | "C"c/=B/c/d/ e2 | ge ec | "G7"d/G/A/=B/ "C7"c_B || "F"fe dA/c/ | 
+"C7"B2.G2 | ed cG/^G/ | "F"A2.F2 | "Bb"Bd "F"cf | "C7"eB "F"dc | "Bb"Bd "F"cf | "C7"f/e/d/e/"F"f2 || [K:Bb] 
+"Bb"d2cB | "Cm"AG c>B | "F7"A2GE | "Bb"G2.F2 | FG AB | "F7"=B>cF2 | 
+GA Bc | "Bb"d>fB2 | FG AB | "Cm"d>cG2 | "F7"e>d c/F/G/A/ | "Bb"B3z |] 
+X:2
+T:Sturmvogler Heimfari (Cherus)  CF 5-
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+!>!"G"G2!>!A2 | !>!B2!>!c2 | de fe | d2z2 || "C"EG AG | c/2B/2A/2G/2"G7"F2 | "Dm"FA BA | 
+"G7"d/2c/2B/2A/2 G/2^F/2G/2=F/2 | "C"EG AG | "G"G/2^F/2G/2A/2 B2 | dB BG | "D7"A/2D/2E/2^F/2 "G7"G=F || "C"cB AE/2G/2 | 
+"G7"F2.D2 | BA GD/2^D/2 | "C"E2.C2 | "F"FA "C"Gc | "G7"BF "C"AG | "F"FA "C"Gc | "G7"c/2B/2A/2B/2"C"c2 || [K:F] 
+"F"A2GF | "Gm"ED G>F | "C7"E2DB, | "F"D2.C2 | CD EF | "C7"^F>GC2 | 
+DE FG | "F"A>cF2 | CD EF | "Gm"A>GD2 | "C7"B>A G/2C/2D/2E/2 | "F"F3z |] 
+% ch00803
+X:3
+T:Sturmvogler Heimfari (Cherus)  GC 2+
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+!>!"D"d2!>!e2 | !>!f2!>!g2 | ab c'b | a2z2 || "G"Bd ed | g/2f/2e/2d/2"D7"c2 | "Am"ce fe | 
+"D7"a/2g/2f/2e/2 d/2^c/2d/2=c/2 | "G"Bd ed | "D"d/2^c/2d/2e/2 f2 | af fd | "A7"e/2A/2B/2^c/2 "D7"d=c || "G"gf eB/2d/2 | 
+"D7"c2.A2 | fe dA/2^A/2 | "G"B2.G2 | "C"ce "G"dg | "D7"fc "G"ed | "C"ce "G"dg | "D7"g/2f/2e/2f/2"G"g2 || [K:C] 
+"C"e2dc | "Dm"BA d>c | "G7"B2AF | "C"A2.G2 | GA Bc | "G7"^c>dG2 | 
+AB cd | "C"e>gc2 | GA Bc | "Dm"e>dA2 | "G7"f>e d/2G/2A/2B/2 | "C"c3z |] 
+% ch00803
+X:4
+T:Sturmvogler Heimfari (Cherus)  CF (5letras transposed)
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+!>!"G"G2!>!A2 | !>!B2!>!c2 | de fe | d2z2 || "C"EG AG | c/2B/2A/2G/2"G7"F2 | "Dm"FA BA | \
+"G7"d/2c/2B/2A/2 G/2^F/2G/2=F/2 |
+ "C"EG AG | "G"G/2^F/2G/2A/2 B2 | dB BG | "D7"A/2D/2E/2^F/2 "G7"G=F || "C"cB AE/2G/2 | \
+"G7"F2.D2 | BA GD/2^D/2 |
+ "C"E2.C2 | "F"FA "C"Gc | "G7"BF "C"AG | "F"FA "C"Gc | "G7"c/2B/2A/2B/2"C"c2 || [K:F] \
+"F"A2GF | "Gm"ED G>F | "C7"E2DB, |
+ "F"D2.C2 | CD EF | "C7"^F>GC2 | \
+DE FG | "F"A>cF2 | CD EF | "Gm"A>GD2 | "C7"B>A G/2C/2D/2E/2 | "F"F3z |] 
+% ch00803
+X:5
+T:Sturmvogler Heimfari (Cherus)  GC (5letras transposed)
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+!>!"D"d2!>!e2 | !>!f2!>!g2 | ab c'b | a2z2 || "G"Bd ed | g/2f/2e/2d/2"D7"c2 | "Am"ce fe | \
+"D7"a/2g/2f/2e/2 d/2^c/2d/2=c/2 |
+ "G"Bd ed | "D"d/2^c/2d/2e/2 f2 | af fd | "A7"e/2A/2B/2^c/2 "D7"d=c || "G"gf eB/2d/2 | \
+"D7"c2.A2 | fe dA/2^A/2 |
+ "G"B2.G2 | "C"ce "G"dg | "D7"fc "G"ed | "C"ce "G"dg | "D7"g/2f/2e/2f/2"G"g2 || [K:C] \
+"C"e2dc | "Dm"BA d>c | "G7"B2AF |
+ "C"A2.G2 | GA Bc | "G7"^c>dG2 | \
+AB cd | "C"e>gc2 | GA Bc | "Dm"e>dA2 | "G7"f>e d/2G/2A/2B/2 | "C"c3z |] 
+% ch00803
+X:6
+T:Sturmvogler Heimfari (Cherus) D&G (tinwhistle in D)
+T:ch00803 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:2/4
+L:1/8
+K:D%%MIDI gchordon
+!>!"A"A2!>!B2 | !>!c2!>!d2 | ef gf | e2z2 || "D"FA BA | d/2c/2B/2A/2"A7"G2 | "Em"GB cB | 
+"A7"e/2d/2c/2B/2 A/2^G/2A/2=G/2 | "D"FA BA | "A"A/2^G/2A/2B/2 c2 | ec cA | "E7"B/2E/2F/2^G/2 "A7"A=G || "D"dc BF/2A/2 | 
+"A7"G2.E2 | cB AE/2^E/2 | "D"F2.D2 | "G"GB "D"Ad | "A7"cG "D"BA | "G"GB "D"Ad | "A7"d/2c/2B/2c/2"D"d2 || [K:G] 
+"G"B2AG | "Am"FE A>G | "D7"F2EC | "G"E2.D2 | DE FG | "D7"^G>AD2 | 
+EF GA | "G"B>dG2 | DE FG | "Am"B>AE2 | "D7"c>B A/2D/2E/2F/2 | "G"G3z |] 
+X:7
+T:Sturmvogler Heimfari (Cherus) D&G (tinwhistle in D) solo
+T:ch00803 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:2/4
+L:1/8
+K:D transpose=12
+A2B2 | c2d2 | ef gf | e2z2 || FA BA | d/2c/2B/2A/2G2 | GB cB | \
+e/2d/2c/2B/2 A/2^G/2A/2=G/2 |
+ FA BA | A/2^G/2A/2B/2 c2 | ec cA | B/2E/2F/2^G/2 A=G || dc BF/2A/2 | \
+G2.E2 | cB AE/2"_f"^E/2 |
+ F2.D2 | GB Ad | cG BA | GB Ad | d/2c/2B/2c/2d2 || [K:G] \
+B2AG | FE A>G | F2E"_=C"C |
+ E2.D2 | DE FG | ^G>AD2 | \
+EF GA | B>dG2 | DE FG | B>AE2 | "_c"c>B A/2D/2E/2F/2 | G3z |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 1, 2016

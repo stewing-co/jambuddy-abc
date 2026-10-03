@@ -1,0 +1,77 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mahlewalzer  C (wz06813)
+T:Hanny Christen. Bd.V  Basel II, Jura. S.13  (wz06813) orig. C
+T: Basel II. Tänze aus Augst. S.6-42.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"G2G | A2G | czc | c3 | eze | dzc | ("G7"B3 | B)zz | G2G | A2G | 
+BzB | B3 | fzf | ezd | ("C"c3 | c)zz | G2G | A2G | czc | c3 | 
+eze | dzd | ("G7"d3 | d)zz | G2G | A2G | fzf | f3 | G2G | G2B | 
+("C"c3 | c)zz |: "C"g3 | e3 | g3 | e3 | czc | B2A | "G7"G2B | d3 | f3 | 
+d3 | f3 | d3 |1 g2g | g2f | ("C"e3 | e)zz :|2 g2g | g2b | ("C"c'3 | c')zz || 
+|: "C"cee | c2G | "G7"dff | d2B | g3 | f3 | "C"e3 | c2c | cee | 
+c2G | "G7"dff | d2B | g2f | e2d |1 "C"c>cc | czz :|2 "C"c>c'c' | c'zz |]  
+W:
+W:Anm. H.C.: Böckten 24, Bottmingen II 12 Benken, Emmentaler Walzer 209
+% wz06813 (Heft 235/TN 21)
+% Nov 9, 2017 (Dottoressa  de Sueno h.c.)
+
+X:2
+T:Mahlewalzer  G 5- (wz06813)
+S:Hanny Christen. Bd.V  Basel II, Jura. S.13  (wz06813) orig. C
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+"G"D2D | E2D | GzG | G3 | BzB | AzG | ("D7"F3 | F)zz | D2D | E2D | \
+FzF |
+ F3 | czc | BzA | ("G"G3 | G)zz | D2D | E2D | GzG | G3 | \
+BzB | AzA | ("D7"A3 |
+ A)zz | D2D | E2D | czc | c3 | D2D | D2F | \
+("G"G3 | G)zz |: "G"d3 | B3 | d3 |
+ B3 | GzG | F2E | "D7"D2F | A3 | c3 | \
+A3 | c3 | A3 |1 d2d | d2c | ("G"B3 | B)zz :|2
+ d2d | d2f | ("G"g3 | g)zz  \
+|: "G"GBB | G2D | "D7"Acc | A2F | d3 | c3 | "G"B3 | G2G |
+ GBB | \
+G2D | "D7"Acc | A2F | d2c | B2A |1 "G"G>GG | Gzz :|2 "G"G>gg | gzz |] 
+%W:Anm. H.C.: Böckten 24, Bottmingen II 12 Benken, Emmentaler Walzer 209
+% wz06813 (Heft 235/TN 21)
+% Nov 9, 2017
+
+X:3
+T:Mahlewalzer  F 7- (wz06813)
+S:Hanny Christen. Bd.V  Basel II, Jura. S.13  (wz06813) orig. C
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Fmaj%%MIDI gchordon
+"F"C2C | D2C | FzF | F3 | AzA | GzF | ("C7"E3 | E)zz | C2C | D2C | \
+EzE |
+E3 | BzB | AzG | ("F"F3 | F)zz | C2C | D2C | FzF | F3 | \
+AzA | GzG | ("C7"G3 |
+G)zz | C2C | D2C | BzB | B3 | C2C | C2E | \
+("F"F3 | F)zz |: "F"c3 | A3 | c3 |
+A3 | FzF | E2D | "C7"C2E | G3 | B3 | \
+G3 | B3 | G3 |1 c2c | c2B | ("F"A3 | A)zz :|2
+c2c | c2e | ("F"f3 | f)zz \
+|: "F"FAA | F2C | "C7"GBB | G2E | c3 | B3 | "F"A3 | F2F |
+FAA | \
+F2C | "C7"GBB | G2E | c2B | A2G |1 "F"F>FF | Fzz :|2 "F"F>ff | fzz |] 
+%W:Anm. H.C.: Böckten 24, Bottmingen II 12 Benken, Emmentaler Walzer 209
+% wz06813 (Heft 235/TN 21)
+% Nov 9, 2017

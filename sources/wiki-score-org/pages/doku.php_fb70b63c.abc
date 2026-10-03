@@ -1,0 +1,19 @@
+X:805
+T:N.11 Expressivo
+C:Antonio Thomaz de Lima
+M:C
+L:1/4
+K:A
+V: 5 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%----------- edit between the lines ------------
+[Q:"Expressivo"] \
+"_[fol. 25]" Z | z2 "_pizz." !p! .A,/.E,/.A,,/ z/ | Z | "_arco" z E,, A,, > z | \
+"_[fol. 26]" X | X | X | X | !f! (B,//C//B,//A,//) (G,/F,/) (^E,/^^E,/) (^D,//=D,//C,//F,,//) || \
+[M:3/4] "_ret." z//(B,,// G,,/) z/ < C,/ !>(!F,/!>)!C,/ || \
+[M:2/8] F,,/ z/ || [M:2/4] "^sem surdina"  \
+"_[fol. 27]" X | X | X | z z/ /!f! !>!A,//(!>!B,// | !>!C/)!>!A/!>!F/!>!D/ |\
+.C//.D//.C//.B,// .^B,//.=G,//.F,//.E,// | !>!D,/ z/ z/ !>!E,/ ||\
+[M:2/8] !>!A,,/ z/ ||
+%-----------------------------------------------

@@ -1,0 +1,47 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka FCBb (mz07431) ABACDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.339 (mz07431) orig. G,D,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACDC
+R:Mazurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"C7"c'>=B .c2.d2 | "F".c2!>!a4 | "C7"b>g e>c B>G | .E2 !fermata!c3=B [P:A] |: ("F"ca).g2!>!f2 | ("Gm/Bb"db).a2!>!g2 | "C7"f>e d3e | 
+"F".g2 {/g}f>e f2 | (ca).g2!>!f2 | ("Gm/Bb"db).a2!>!g2 | "C7"f>e d>c b>e | "F".f2!>!f2 z2  :: [P:B] [K:C] !>!"G7"a>g .B2!>!B2 | !>!"C"a>g .c2c2 | 
+"G7"B>c d>e f>a | "C".g2!>!c'4 | "G7"b>a .d2!>!d2 | "C"a>g .c2!>!c2 | "G7"e>d .A2B2 | "C".c2!>!g4 | !>!"G7"a>g .B2!>!B2 | "C"a>g .c2!>!c2 | 
+"G7"e>d A>c B>d |1 "C".c2!>!c2 z2 :|2 "C"c>d c>d "_>Teil A"c>B |: [P:C] [K:Bb] "Bb"d>c B>c d>e | .f2 !>!b4 | "F7"a>(c e>)gA2 | 
+"Bb"g>(d f>)bB2 | d>c B>c d>e | .f2!>!b4 | "F7"a>c e>g f>A | "Bb".B2!>!B2"_fine"z2 :: [P:D] [K:F] "C7"b>a g>^fg2 | "F"a>g f>ef2 | 
+"c7"c>d e>f g>a | "F".f2!>!c'4 | ."Gm"b2d>b g2 | "F".a2 c>af2 | "C7"e>f a>g d>e |1 ."F"f2f2z2 :|2 ."F"f2e2"_>Teil C"_e2 || 
+%W:Parts: ABACDC
+%(% mz07431
+% Aug 26, 2017
+
+X:2
+T:Mazurka FCBb (mz07431)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.339 (mz07431) orig. G,D,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"G7"g>^F .G2.A2 | "C".G2!>!e4 | "G7"f>d B>G F>D | .B,2 !fermata!G3^F |: ("C"Ge).d2!>!c2 | ("Dm/F"Af).e2!>!d2 | "G7"c>B A3B | 
+"C".d2 {/d}c>B c2 | (Ge).d2!>!c2 | ("Dm/F"Af).e2!>!d2 | "G7"c>B A>G f>B | "C".c2!>!c2 z2 :: [K:Gmaj] !>!"D7"e>d .F2!>!F2 | !>!"G"e>d .G2G2 | 
+"D7"F>G A>B c>e | "G".d2!>!g4 | "D7"f>e .A2!>!A2 | "G"e>d .G2!>!G2 | "D7"B>A .E2F2 | "G".G2!>!d4 | !>!"D7"e>d .F2!>!F2 | "G"e>d .G2!>!G2 | 
+"D7"B>A E>G F>A |1 "G".G2!>!G2 z2 :|2 "G"G>A G>A "_>Teil A"G>F |: [K:Fmaj] "F"A>G F>G A>B | .c2 !>!f4 | "C7"e>(G B>)dE2 | 
+"F"d>(A c>)fF2 | A>G F>G A>B | .c2!>!f4 | "C7"e>G B>d c>E | "F".F2!>!F2"_fine"z2 :: [K:Cmaj] "G7"f>e d>^cd2 | "C"e>d c>Bc2 | 
+"g7"G>A B>c d>e | "C".c2!>!g4 | "Dm"f2A>f d2 | "C".e2 G>ec2 | "G7"B>c e>d A>B |1 "C"c2c2z2 :|2 "C"c2B2"_>Teil C"_B2 || 
+W: Parts: ABACDC
+%(% mz07431
+% Aug 26, 2017
+
+

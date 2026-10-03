@@ -1,0 +1,42 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: L\"andler C chords
+T:Hanny Christen. Bd.I Zürich, Schaffhause, St. Gallen I. S.84 (LD00095) orig. C-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+G2 |: "C"ce Ge cG | gc' ec' ge | "G7"d2 Bf dB | "C"ce gf ed | ce Ge cG | 
+gc' ec' ge | "G7"df Bf dB |1 "C"c2z2G2 :|2 "C"c2z2g2 |: "F"ac' fc' af | "C/G"gc' ec' ge | 
+"G7"df Bf dB | "C"ce Gec2 | "F"ac' fc' af | "C/G"gc' ec' ge | "G7"df Bf dB | "C"c2z2z2 :| 
+
+X:1
+T: L\"andler C chords Anm
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+G2 |: "C"ce Ge cG | gc' ec' g"_ ="e | "G7""_d"d2 "_h"B"_f"f d"_ ="B | "C"ce gf ed | ce Ge cG | 
+gc' ec' g"_ ="e | "G7"df Bf d"_ ="B |1 "C"c2z2G2 :|2 "C"c2z2g2 |: "F"ac' fc' af | "C/G"g"_c"c' ec' g"_ ="e | 
+"G7""_d"d"_f"f "_h"Bf d"_ ="B | "C"ce Gec2 | "F"ac' fc' af | "C/G"g"_c"c' ec' g"_ ="e | "G7"df Bf dB | "C"c2z2z2 :| 
+
+X:2
+T:L\"andler F 7- chords
+M:3/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+C2 |: "F"FA CA FC | cf Af cA | "C7""_g"G2 "_e"E"_b"B GE | "F"FA cB AG | FA CA FC | 
+cf Af cA | "C7"GB EB GE |1 "F"F2z2C2 :|2 "F"F2z2c2 |: "Bb"df Bf dB | "F/C"cf Af cA | 
+"C7"GB EB GE | "F"FA CAF2 | "Bb"df Bf dB | "F/C"cf Af cA | "C7""_g"G"_b"B "_e"EB GE | "F"F2z2z2 :| 
+
+X:3
+T:L\"andler G 5- chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+D2 |: "G"GB DB GD | dg Bg dB | "D7"A2 Fc AF | "G"GB dc BA | GB DB GD | 
+dg Bg dB | "D7"Ac Fc AF |1 "G"G2z2D2 :|2 "G"G2z2d2 |: "C"eg cg ec | "G/D"dg Bg dB | 
+"D7"Ac Fc AF | "G"GB DBG2 | "C"eg cg ec | "G/D"dg Bg dB | "D7"Ac Fc AF | "G"G2z2z2 :| 
+
+

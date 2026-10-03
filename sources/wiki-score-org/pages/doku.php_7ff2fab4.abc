@@ -1,0 +1,16 @@
+X:1106
+T:N.11 Raymundo
+C:Fonseca, Eduardo da (1863-1938)
+M:4/4
+L:1/4
+K:G
+V: 6 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 6 ]
+[Q:"Marcial"] z2 z !f! D,/z/ | G,/z/ D,/z/ G,/z/ z || "_Pizz." G,/z/ z D,/z/ z | \
+G,/z/ D,/z/ G,/z/ z "_Arco" | A,D,G,A, | \
+D,/z/z(3D,/E,/D,/ (3C,/B,,/A,,/ "_Pizz."| G,/z/ z D,/z/ z | G,/z/ D,/z/ G,/z/ z | \
+A,z A,,z | D,/z/ A,,/z/ D,/z/ z | Z4 | C,/z/ C,/z/ C,/z/ C,/z/ | \
+D,/z/ D,/z/ D,/z/ D,/z/ | D,/z/ D,/z/ D,/z/ D,/z/ | \
+G,/z/ "_Arco" D,/z/ G,/z/  z !segno!!D.C.! |]\
+%--

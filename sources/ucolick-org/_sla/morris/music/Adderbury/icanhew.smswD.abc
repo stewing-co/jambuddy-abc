@@ -1,0 +1,51 @@
+%abc
+X:1
+T:I Can Hew
+M:6/4
+C:song by David Dodds
+S:Seabright
+N:dance by Nat Case
+A:Adderbury
+%O:English
+R:Reel
+%abc2mtex: no
+%
+%
+%P:B(AB)$^4$
+P:B(AB)4
+% the key is approximate because this dance is done a cappella
+K:D
+I:speed 400
+L:1/8
+P:A
+   B2    c2    d2    B2     B2      B2    | ff    f2      f      g-g2 e2-  e2 |
+w: r     l     r     r      l       l     | r *   l       r      * r  l    l
+%
+%
+%
+   d2    e2    f2    ff     f-f     e2    | e2    d2      B2     A2   B2   z2 |
+w: r     l     r     r *    l *     l     | r     l       ftj    *    (land)
+w: *     *     *     * *    * *     *       *     *       *      *    X
+%
+%
+   B2    c2    d2    B-B    B-B     f2    | ff    f2      f      g-g2 e2-  e2 |
+w: r     l     r     r *    l       l     | r *   l       r      * r  l    l
+%
+%
+%
+   d2    e2    f2    ff     f-f     f2    | e2    d-d     B2     A2   B2   z2 ||
+w: r     l     r     r *    l *     l     | r     l *     ftj    *    (land)
+w: *     *     *     * *    * *     *       *     * *     *      *    X
+%
+%
+P:B
+   B2    c2    d4           B4            | f2    f2      f      g3   e2   z2 |\
+w: *     *     x1           x2              *     *       x1     *    x2
+   d2    e2    f3    f      f4            | e2    d2     .B2    .A2  .B2   z2 |
+w: *     *     x1    *      x2              *     *       x1     *    x2
+   B2    c2    d4           B4            | f2    f2      f      g3   e2   z2 |\
+w: *     *     x1           x2              *     *       x1     *    x2
+   d2    e2    f2    f2     f4            | e2    d2      B3     A    B4      ||
+w: *     *     X     *      *               *     *       *      *    X
+w: R     *     L     *      R             | L     *       R      *    L
+

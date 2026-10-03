@@ -1,0 +1,124 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:So langs no Buebe u Meitje git  A
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.266 (wz01016a) orig. A-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:A %%MIDI gchordon
+E | "E7"G2F | EED | "A"C2A | E2D | C2A | E2D | C2A | E2E | 
+"E7"G2F | EED | "A"C2A | E2E | "E7"G2F | E2D | ("A"C3 | C)zz |] 
+W:
+W:So lang ... (As long as there are still boys and girls)
+W: Meitje / Meite / Meitli - M\"adchen (girls)
+X:2
+T:So langs no Buebe u Meitje git  C 3+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+G | "G7"B2A | GGF | "C"E2c | G2F | E2c | G2F | E2c | G2G | 
+"G7"B2A | GGF | "C"E2c | G2G | "G7"B2A | G2F | ("C"E3 | E)zz |] 
+% wz01016a
+X:3
+T:So langs no Buebe u Meitje git  F 8+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F%%MIDI gchordon
+c | "C7"e2d | ccB | "F"A2f | c2B | A2f | c2B | A2f | c2c | 
+"C7"e2d | ccB | "F"A2f | c2c | "C7"e2d | c2B | ("F"A3 | A)zz |] 
+% wz01016a
+X:4
+T:So langs no Buebe u Meitje git  G 2-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G%%MIDI gchordon
+D | "D7"F2E | DDC | "G"B,2G | D2C | B,2G | D2C | B,2G | D2D | 
+"D7"F2E | DDC | "G"B,2G | D2D | "D7"F2E | D2C | ("G"B,3 | B,)zz |] 
+% wz01016a
+X:5
+T:So langs no Buebe u Meitje git  G 10+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G%%MIDI gchordon
+d | "D7"f2e | ddc | "G"B2g | d2c | B2g | d2c | B2g | d2d | 
+"D7"f2e | ddc | "G"B2g | d2d | "D7"f2e | d2c | ("G"B3 | B)zz |] 
+% wz01016a
+X:6
+T:So langs no Buebe u Meitje git  C (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+G | "G7"B2A | GGF | "C"E2c | G2F | E2c | G2F | E2c | G2G | 
+"G7"B2A | GGF | "C"E2c | G2G | "G7"B2A | G2F | ("C"E3 | E)zz |] 
+% wz01016a
+X:7
+T:So langs no Buebe u Meitje git  F (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+c | "C7"e2d | ccB | "F"A2f | c2B | A2f | c2B | A2f | c2c | 
+"C7"e2d | ccB | "F"A2f | c2c | "C7"e2d | c2B | ("F"A3 | A)zz |] 
+% wz01016a
+X:8
+T:So langs no Buebe u Meitje git  G (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+D | "D7"F2E | DDC | "G"B,2G | D2C | B,2G | D2C | B,2G | D2D | 
+"D7"F2E | DDC | "G"B,2G | D2D | "D7"F2E | D2C | ("G"B,3 | B,)zz |] 
+% wz01016a
+X:9
+T:So langs no Buebe u Meitje git  G (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+d | "D7"f2e | ddc | "G"B2g | d2c | B2g | d2c | B2g | d2d | 
+"D7"f2e | ddc | "G"B2g | d2d | "D7"f2e | d2c | ("G"B3 | B)zz |] 
+% wz01016a
+X:10
+T:So langs no Buebe u Meitje git D (tinwhistle in D)
+T:wz01016a (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D%%MIDI gchordon
+A | "A7"c2B | AAG | "D"F2d | A2G | F2d | A2G | F2d | A2A | 
+"A7"c2B | AAG | "D"F2d | A2A | "A7"c2B | A2G | ("D"F3 | F)zz |] 
+X:11
+T:So langs no Buebe u Meitje git D (tinwhistle in D) solo
+T:wz01016a (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+A | c2B | AAG | F2d | A2G | F2d | A2G | F2d | A2A | 
+c2B | AAG | F2d | A2A | c2B | A2G | (F3 | F)zz |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 3, 2016
+

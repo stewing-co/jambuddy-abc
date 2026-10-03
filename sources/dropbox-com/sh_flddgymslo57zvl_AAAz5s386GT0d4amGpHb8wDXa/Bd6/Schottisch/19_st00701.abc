@@ -1,0 +1,112 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Schottisch  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.197 (st00701) orig. C-Dur
+T:Walliser T\"anze. S.196-213.\"Uberliefert durch Josef Seewer und Marcel Tschopp, Leuk, 
+T: und Sepp Mutter, Ried/Brigerberg
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+e|: "C"g^f g=f | eg ce | "G7"df Bd | "C"c/B/c/d/ ce | g^f g=f | 
+eg ce | "G7"df Bd | "C"c3e :: "Dm/F"fa df | "C"eg ce | "G7"df Bd | 
+"C"c/B/c/d/ ce | "Dm/F"ff/a/ dd/f/ | "C/G"ee/g/ cc/e/ | "G7"dd/f/ BB/d/ |1 "C"c3e :|2 "C"c3z |] 
+X:2
+T:Schottisch  G 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+B|: "G"d^c d=c | Bd GB | "D7"Ac FA | "G"G/2F/2G/2A/2 GB | d^c d=c | 
+Bd GB | "D7"Ac FA | "G"G3B :: "Am/C"ce Ac | "G"Bd GB | "D7"Ac FA | 
+"G"G/2F/2G/2A/2 GB | "Am/C"cc/2e/2 AA/2c/2 | "G/D"BB/2d/2 GG/2B/2 | "D7"AA/2c/2 FF/2A/2 |1 "G"G3B :|2 "G"G3z |] 
+% st00701
+X:3
+T:Schottisch  F  7-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F%%MIDI gchordon
+A|: "F"c=B c_B | Ac FA | "C7"GB EG | "F"F/2E/2F/2G/2 FA | c=B c_B | 
+Ac FA | "C7"GB EG | "F"F3A :: "Gm/Bb"Bd GB | "F"Ac FA | "C7"GB EG | 
+"F"F/2E/2F/2G/2 FA | "Gm/Bb"BB/2d/2 GG/2B/2 | "F/C"AA/2c/2 FF/2A/2 | "C7"GG/2B/2 EE/2G/2 |1 "F"F3A :|2 "F"F3z |] 
+% st00701
+X:4
+T:Schottisch  C (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+e|: "C"g^f g=f | eg ce | "G7"df Bd | "C"c/B/c/d/ ce | g^f g=f | 
+eg ce | "G7"df Bd | "C"c3e :: "Dm/F"fa df | "C"eg ce | "G7"df Bd | 
+"C"c/B/c/d/ ce | "Dm/F"ff/a/ dd/f/ | "C/G"ee/g/ cc/e/ | "G7"dd/f/ BB/d/ |1 "C"c3e :|2 "C"c3z |] 
+% st00701
+X:5
+T:Schottisch  G (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+B|: "G"d^c d=c | Bd GB | "D7"Ac FA | "G"G/2F/2G/2A/2 GB | d^c d=c | 
+Bd GB | "D7"Ac FA | "G"G3B :: "Am/C"ce Ac | "G"Bd GB | "D7"Ac FA | 
+"G"G/2F/2G/2A/2 GB | "Am/C"cc/2e/2 AA/2c/2 | "G/D"BB/2d/2 GG/2B/2 | "D7"AA/2c/2 FF/2A/2 |1 "G"G3B :|2 "G"G3z |] 
+% st00701
+X:6
+T:Schottisch  F (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+A|: "F"c=B c_B | Ac FA | "C7"GB EG | "F"F/2E/2F/2G/2 FA | c=B c_B | 
+Ac FA | "C7"GB EG | "F"F3A :: "Gm/Bb"Bd GB | "F"Ac FA | "C7"GB EG | 
+"F"F/2E/2F/2G/2 FA | "Gm/Bb"BB/2d/2 GG/2B/2 | "F/C"AA/2c/2 FF/2A/2 | "C7"GG/2B/2 EE/2G/2 |1 "F"F3A :|2 "F"F3z |] 
+% st00701
+
+
+X:7
+T:Schottisch G (tinwhistle in D)
+T: st00701 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+B|: "G"d^c d=c | Bd GB | "D7"Ac FA | "G"G/2F/2G/2A/2 GB | d^c d=c | 
+Bd GB | "D7"Ac FA | "G"G3B :: "Am/C"ce Ac | "G"Bd GB | "D7"Ac FA | 
+"G"G/2F/2G/2A/2 GB | "Am/C"cc/2e/2 AA/2c/2 | "G/D"BB/2d/2 GG/2B/2 | "D7"AA/2c/2 FF/2A/2 |1 "G"G3B :|2 "G"G3z |] 
+X:8
+T:Schottisch G (tinwhistle in D) solo
+T: st00701 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:G transpose=12
+B|: d^c d=c | Bd GB | A"_c"c FA | G/2F/2G/2A/2 GB | d^c d=c | 
+Bd GB | A"_c"c FA | G3B :: "_c"ce A"_c"c | Bd GB | A"_c"c FA | 
+G/2F/2G/2A/2 GB | "_c"cc/2e/2 AA/2"_c"c/2 | "G/D"BB/2d/2 GG/2B/2 | AA/2"_c"c/2 FF/2A/2 |1 G3B :|2 G3z |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 24, 2016
+X:9
+T:Schottisch  G (var.)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G %%MIDI gchordon  % bzw. Ador
+e|: g^f g=f | eg ce | df Bd | c/B/c/d/ ce | g^f g=f | 
+eg ce | df Bd | c3e :: fa df | eg ce | df Bd | 
+c/B/c/d/ ce | ff/a/ dd/f/ | ee/g/ cc/e/ | dd/f/ BB/d/ |1 c3e :|2 c3z |]
+% st00701 (strange yet somehow familiar)

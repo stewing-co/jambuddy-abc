@@ -1,0 +1,36 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:L\"andler  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.207 (LD09366) orig. C,F
+T: \"Uberliefert durch Lina Krupski-Herger (1946), Lehrer Leuthold (1945), Edy Lussy und Melk Rohrer (1949)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+CC |: "C"C2 EG ce | "tr""G7"f2 dBG2 | "tr""C"a2gec2 | "tr""G7"g2fdB2 | "C"C2 EG ce | "tr""G7"f2 dBG2 | "tr"g2Ba gB |1 "C"c2z2CC :|2 
+"C"c2z2cc |: [K:F] ."C7"c2!>!c'3b | "F".a2 !>!c'3f | ("C7"eg) c3e | ("F"fe) .f.ga2 | ("Gm/Bb"bd') g3b | ("F"ac')f3a | ("C7"bd') (gb) (eg) |1 "F"f2z2cc :|2 "F"f2z2z2 |] 
+% LD09366
+X:2
+T:L\"andler  CF (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+CC |: "C"C2 EG ce | "tr""G7"f2 dBG2 | "tr""C"a2gec2 | "tr""G7"g2fdB2 | "C"C2 EG ce | "tr""G7"f2 dBG2 | "tr"g2Ba gB |1 "C"c2z2CC :|2 
+"C"c2z2cc |: [K:F] ."C7"c2!>!c'3b | "F".a2 !>!c'3f | ("C7"eg) c3e | ("F"fe) .f.ga2 | ("Gm/Bb"bd') g3b | ("F"ac')f3a | ("C7"bd') (gb) (eg) |1 "F"f2z2cc :|2 "F"f2z2z2 |] 
+% LD09366
+X:3
+T:L\"andler D&A (tinwhistle in D) var. solo
+T:LD09366 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:D transpose=12
+DD |: D2 FA df | Tg2 ecA2 | Tb2afd2 | Ta2gec2 | D2 FA df | Tg2 ecA2 | Ta2cb ac |1 d2z2DD :|2 
+d2z2dd [K:A]  |: .E2!>!e3d | .c2 !>!e3A | ("_#"GB) E3"_#"G | (A"_#"G) .A.Bc2 | (df) B3d | (ce)A3c | (df) (Bd) ("_#"GB) |1 A2z2EE :|2 A2z2z2 |]
+% Sep. 3, 2016

@@ -1,0 +1,62 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Engadiner Walzer  GDC  (ABAC) (wz02087) 
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.308 (wz02087) orig. G,D,C
+T: Graubünden. Gla Genua, Sent. S.299-329. T: Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+P:ABAC
+%%partsbox
+%%MIDI program 21
+%%abc-charset utf-8
+R:Walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+Bc [P:A] | "G"d3 | edB | "D7"c>dc | zAB | c3 | dcA | "G"B>cB | zBc | d3 | gf=f | 
+"C"e>fe | zfe | "G/D"d>ed | "D7"zcF | "G"G>GG | Gzz || [P:B] [K:D]  "D"a>aa | agf | "A7"fe>f | g2z | 
+b>bb | bag | "D"gf>g | a2z | a>aa | agf | "G"b>bb | bag | "D/A"baf | "A7"agc | 
+"D"d>dd | Bz"_>Teil A"c [P:C] |: [K:C] "C"g3 | a2b | c'3 | b2c' |  "G7"b3 | a2b |  "C"a3 | g2z | g^fg | 
+b2a | "Dm"g3 | f2z |1 "G7"fef | a2g | "C"f3 | e2z :|2 "F"c'ba | "G7"ge>d | "C"c>cc |  c2z |] 
+% wz02087  (Oct 9, 2016)
+
+X:2
+T:Engadiner Walzer  CGF 7-  (wz02087)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.308 (wz02087) orig. G,D,C
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+EF || "C"G3 | AGE | "G7"F>GF | zDE | F3 | GFD | "C"E>FE | zEF | G3 | cB_B | 
+"F"A>BA | zBA | "C/G"G>AG | "G7"zFB, | "C"C>CC | Czz || [K:G] "G"d>dd | dcB | "D7"BA>B | c2z | 
+e>ee | edc | "G"cB>c | d2z | d>dd | dcB | "C"e>ee | edc | "G/D"edB | "D7"dcF | 
+"G"G>GG | Ez"_>Teil A"F |: [K:F] "F"c3 | d2e | f3 | e2f | "C7"e3 | d2e | "F"d3 | c2z | c=Bc | 
+e2d | "Gm"c3 | B2z |1 "C7"BAB | d2c | "F"B3 | A2z :|2 "Bb"fed | "C7"cA>G | "F"F>FF | F2z |] 
+% wz02087 
+X:3
+T:Engadiner Walzer DA&G (tinwhistle in D) solo
+T:wz02087 (Hanny Christen)
+%%MIDI program 72   % 111 / 74 / 79=whistle
+O:Switzerland
+%abc-charset utf-8
+R:Walzer
+M:3/4
+L:1/4
+K:D transpose=12
+FG || A3 | BAF | G>AG | zEF | G3 | AGE | F>GF | zFG | A3 | dc=c | 
+B>cB | zcB | A>BA | zG"_=C"C | D>DD | Dzz |] [K:A] e>ee | edc | cB>c | d2z | 
+f>ff | fed | dc>d | e2z | e>ee | edc | f>ff | fed | fec | ed"_#"G | 
+A>AA | Fz"_>Teil A"G |: [K:G] d3 | e2f | g3 | f2g | f3 | e2f | e3 | d2z | d^cd | 
+f2e | d3 | "_c"c2z |1 cBc | e2d | c3 | B2z :|2 gfe | dB>A | G>GG | G2z |]
+% wz02087 
+% Oct 8, 2016
+
+
+
+
+

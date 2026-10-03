@@ -1,0 +1,16 @@
+X:306
+T:N.5 Lentamente
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 6 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 6 }]
+%----------- edit between the lines ------------
+[Q: Lentamente, e expressivo]
+[M:6/8] [K:D] [I:staff +1] [D,F,B,] ([F,B,D] < [B,DF]) !p! | z [F,B,D] < [B,DF] | z ([F,B,D] < [G,B,E]) [I:staff -1] |
+z ([F,B,D] < [B,DF]) | z [F,B,D] < [B,DF] | z [F,CE] < [CEF] | z [F,B,D] < [G,B,E] | z ([F,B,D] < [B,DF]) |
+z [A,CF] < [B,C^E] | z [F,CF] z/ [F,G,B,]/ | z [F,A,C]/ z/ [G,B,C]/ z/ | z/ [F,C]/ z/ z/ [F,B,D]/ z/ |
+[CF]3/2 !fermata![B,D^E]3/2 ||
+%-----------------------------------------------

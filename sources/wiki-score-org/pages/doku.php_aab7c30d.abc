@@ -1,0 +1,20 @@
+X:909
+T:N.9 Duo de Josepha e Ambrosio
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:F
+V: 9 clef=treble name="Ambrosio" sname="Amb."
+%%MIDI program 1 1
+%%staves [[ 9 ]]
+%--------------------
+[Q:"Andante"]
+Z2 || Z8 | A G F F G A | (AG/F/E)-E3 |
+w: O cho-rar faz bem ao pei---to_
+G F E E F G | GF/E/D-D3 | F E D D F G | (AG/F/E- E3) | A =B A (3G/A/G/ ^F E || [K:D] [Q:"Piu mosso"] D2zz2z \
+w: Al-li-vi-a'o co-ra-\cc\~ao____ Mas me-lhor do que isso tu---do_ \'E u-ma'a-le---gre can-\cc\~ao.
+|: "^(2a vez)" A B A B A B | (cB/A/G)-G3 | G A G A G A | (BA/G/F)-F3 | \
+w: Por is-so'eu te can-to ho---je,_ Es-ta can-\cc\~ao de-li-ran---te_
+F A F D E F | (AG/F/E)-E3 | F E D E G F | ((3E/F/E/) D2-D3 :| Z10 |] \
+w: Que sai t\~ao chei-a d'a-mor____ Des-te meu pei-to cons-tan---te_
+%--------------------

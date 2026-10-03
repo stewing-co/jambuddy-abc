@@ -1,0 +1,19 @@
+X:603
+T:Ns.8-9
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:D
+V: 3 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 3 ]
+[Q:"Moderadamente"] z z/ !p! "_brincando" [V:3 clef=treble].f1/4.^e1/4 | .f1/2.d1/2 ._B1/2.A1/2 | !f!A "com violência"!downbow!!sfz!G1/2!downbow!!sfz!A1/2 | !downbow!!sfz!B1/2!downbow!!sfz!c1/2!downbow!!sfz!d1/2!downbow!!sfz!e1/2 | !downbow!!sfz!c1/2!downbow!!sfz!G1/2 z | \
+Z |  z  !sfz! !downbow!G/2!downbow!!sfz!A1/2 | !downbow!!sfz!B1/2.c1/4.d1/4 (f1/4e1/4).d1/4.c1/4 | !sfz! [ce] z| \
+z// !mf!!>![Gd]3/4 z// !>![EB]3/4 | z//!>![Fc]3/4 !>!d3/4 z//| "pizz" !sfz!e/ z/ z| \
+"_arco" z !ff! F'2/4>F'/ | !>!b2/4>b/ !>!c'2/4!>!b2/4 | !>!a2/4>a/ !>!b2/4!>!a2/4 | !>!g2/4.e1/4.g1/4 !>!a2/4!>!a2/4 | \
+a [K:clef=alto] F2/4>.F/ | !>!B2/4>.B/ !>!c2/4!>!c2/4 | !>!A2/4>.A/ !>!B2/4!>!A2/4 | !>!G2/4.E1/4.G1/4 !>!F2/4!>!E2/4 | !>(!!>!E !>)!!mf!(A,/B,/)| \
+=C2|(^C>B,)|(A,>^E,)| F,/ "_cresc. Muito".A//.G// !>![FA]/ .c//.B// | !>!A/ .F,//.A,// !>!D/!>!=C/| \
+!>!B,2/4 z/ z/ .C1/4.D1/4 | !>!E2/4 "_ret muito" z/ z/ !fff! !>![A,Ec]2/4 || "_animado" "_no talão,rudemente" !>![A,Fd]2/4 !f! [A,F]1/4[A,F]1/4 !//![A,F] | \
+B,//B,//B,//A,// G,/B,/|A,//A,//A,//G,// F,/A,/|!//!B, F,/G,/| F,/  !pp!A,//A,// !//!A,| _B,//B,//B,//A,// G,/B,/| \
+A,//A,//A,//G,// F,/A,/|!//!B, =F,/G,/| !f!"_pizz"!>!D/!>!D/ !>!D/!>!D/| !>!D/!>!D/ !>!D/!>!D/|!>!D/!>!D/ !>!D/!>!D/| \
+D/D/ D/D/|D/D/ D/D/| D/D/ D/D/| D/D/ D/D/ ||

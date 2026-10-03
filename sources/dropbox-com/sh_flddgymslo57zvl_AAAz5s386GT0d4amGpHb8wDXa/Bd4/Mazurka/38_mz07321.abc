@@ -1,0 +1,61 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka GC (mz07321)  ABCDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.293 (mz07321) orig. G,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABCDC
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+d2 [P:A] |: "G"b>ag2 d>^d | "Am"f>eA2A2 | "D7"c>B A2F>A | "G"e>^cd2d2 | b>ag2d>e | "D"f>dA2A2 | 
+"A7"^c>B ^A>B g>c | "D"d2z2d2 :: [P:B] "G"B>d g2G2 |  (3"D7"GFA !>!c4 |  A>c f2F2 |  (3"G"GBe !>!d4  | B>dg2G2 | 
+"D7"(3GFA !>!c4 | F>A e>d c>F |1 "G".G2G2d2 :|2 "G"G2G2z2 |: [P:C] [K:C]  "C"e>e e2a>g | "G7"e>f B>d G2 | f>ff2b>a | 
+"C"^f>g  ^dec2 | c>cc2c>d | "F"^GA f>e d>c | "G7"B>A g>f e>d | "C"c2c2"_Fine"z2 :: [P:D] [K:G] "G"(3BBB B2 e>d | "D7"cd AdF2 | 
+(3ccc c2 f>e | "G"^cd Bg G2 | (3ddd d2 g>f | "C"fe Bc A2 | "D7"dc Bc fa |1 "G"g2z2d2 :|2  "G7"g2 gg "_>Teil C"gg || 
+%% mz07321
+% June 20, 2017
+
+X:2
+T:Mazurka GC (mz07321)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.293 (mz07321) orig. G,C
+S: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+d2 |: "G"b>ag2 d>^d | "Am"f>eA2A2 | "D7"c>B A2F>A | "G"e>^cd2d2 | b>ag2d>e | "D"f>dA2A2 | 
+"A7"^c>B ^A>B g>c | "D"d2z2d2 :: "G"B>d g2G2 |  (3"D7"GFA !>!c4 |  A>c f2F2 |  (3"G"GBe !>!d4  | B>dg2G2 | 
+"D7"(3GFA !>!c4 | F>A e>d c>F |1 "G".G2G2d2 :|2 "G"G2G2z2 |: [K:C]  "C"e>e e2a>g | "G7"e>f B>d G2 | f>ff2b>a | 
+"C"^f>g  ^dec2 | c>cc2c>d | "F"^GA f>e d>c | "G7"B>A g>f e>d | "C"c2c2"_Fine"z2 :: [K:G] "G"(3BBB B2 e>d | "D7"cd AdF2 | 
+(3ccc c2 f>e | "G"^cd Bg G2 | (3ddd d2 g>f | "C"fe Bc A2 | "D7"dc Bc fa |1 "G"g2z2d2 :|2  "G7"g2 gg "_>Teil C"gg || 
+W:Parts: ABCDC
+%% mz07321
+% June 20, 2017
+
+X:3
+T:Mazurka CF 7- (mz07321)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.293 (mz07321) orig. G,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G2 |: "C"e>dc2 G>^G | "Dm"B>AD2D2 | "G7"F>E D2B,>D | "C"A>^FG2G2 | e>dc2G>A | "G"B>GD2D2 | 
+"D7"^F>E ^D>E c>F | "G"G2z2G2 :: "C"E>G c2C2 | (3"G7"CB,D !>!F4 | D>F B2B,2 | (3"C"CEA !>!G4 | E>Gc2C2 | 
+"G7"(3CB,D !>!F4 | B,>D A>G F>B, |1 "C".C2C2G2 :|2 "C"C2C2z2 |: [K:Fmaj] "F"A>A A2d>c | "C7"A>B E>G C2 | B>BB2e>d | 
+"F"=B>c ^GAF2 | F>FF2F>G | "Bb"^CD B>A G>F | "C7"E>D c>B A>G | "F"F2F2"_Fine"z2 :: [K:Cmaj] "C"(3EEE E2 A>G | "G7"FG DGB,2 | 
+(3FFF F2 B>A | "C"^FG Ec C2 | (3GGG G2 c>B | "F"BA EF D2 | "G7"GF EF Bd |1 "C"c2z2G2 :|2 "C7"c2 cc "_>Teil C"cc || 
+W:Parts: ABCDC
+%% mz07321
+% June 20, 2017

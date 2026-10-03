@@ -1,0 +1,123 @@
+X:18
+T:Scena 4.a
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 9 clef=treble name="Oboe I" sname="Ob.I"
+V: 10 clef=treble name="Oboe II" sname="Ob.II"
+V: 11 clef=treble name="Violini I" sname="Vl.I"
+V: 12 clef=treble name="Violini II" sname="Vl. II"
+V: 14 clef=bass name="[Basso]" sname="B."
+%%MIDI program 1 68
+%%MIDI program 2 68
+%%MIDI program 3 40
+%%MIDI program 4 40
+%%MIDI program 5 42
+%%staves [ 9  10 { 11  12 } 14 ]
+[V: 9]	%-----------------------
+Z16 | "^[sic]" z2 | Z9  "^Segue" || \
+[Q:"Allegro assai"] [K:Bb] Z10  "^Rondo" || \
+[M:2/4] [K:G] [Q:"Larghetto"] (g/d//)>b// b/g//>d'//| d'/c'/b/z/|d'e'/>c'/|ab/z/|Z|\
+z(a//b//c'//d'//)|bg/c'/|b3/4(c'/8b/8) a/z/ |Z|(d'/c'/) b/z/|Z3|\
+z(a//b//c'//d'//)|bz|zf//g//a//b//|z/d'/c'/b/|Z|z/d'/d'/c'/|z/b/ b/b//>c'//|\
+d'/>d'/ (d'//>b//) (e'//>c'//) | !f!((3a//c'//b//) (3a//a//a// a/z/|Z|\
+z//b//c'//d'// e'|Z|zz/z//d'//|b/z/z/ z//d'//|a/z/z/z// d'//|^c'/z/z/ z//e'//|^c'/z/z/z// e'//|\
+e'/d'/z|z(a/b/)|a(a/b/)|az|Z3|d//>a//a//>d'// d'/z/|z//>a//c'//>a//  b/!fermata!z/ | ^f!fermata!z||\
+[Q:"Allegro"] [M:C] g2ga|b2c'//b//a//g// f//g//a//b// | gzz2|ze'c'c'|zc'c'a|g2ga|b2"_tbc" \
+%-----------------------
+[V: 10]	%-----------------------
+Z16 | "^[sic]" z2 | Z9  "^Segue" || \
+[Q:"Allegro assai"] [K:Bb] Z10  "^Rondo" || \
+[M:2/4] [K:G] [Q:"Larghetto"] z g/d//>b// | b/f/g/z/|de/>c/|fg/z/|Z|\
+z(f//g//a//f//)|ge/a/|g3/4(a/8g/8) f/z/ | Z|(b/a/) g/z/|Z3|\
+z(f//g//a//f//)|gz|zd//e//f//g//|z/a/a/g/|Z|z/b/b/a/ | z/g/ g/g//>a// | \
+b/>b/ (b//>g//) (c'//>a//) | e/ (3c//c//c// c/z/| Z | z//g//a//b// c'|Z|\
+zz/z//b//|g/z/z/ z//b//|f/z/z/z// f//|g/z/z/z// g//|e/z/z/z// e//|{f}e/d/z|z(f/g/)|ff/g/|fz|Z3|\
+d//>f//f//>f// f/z/|z//>f//a//>f//  g/!fermata!z/ | d!fermata!z||\
+[Q:"Allegro"] [M:C] g2gf|=f2e//d//c//B// A//B//c//d// |Bzz2|zc'ee|zfaf|g2g^f|=f2 \
+%-----------------------
+[V: 11]	%-------------------------------
+Z16 | "^[sic]" z2 | Z9  "^Segue" || \
+[Q:"Allegro assai"] [K:Bb] \
+z2z/d/ d/e//f// | (f/e/) e/ z/z/c/ c/e//A//|Bzz2|B,zz/d/ d/e//f// | \
+f/e/ ez/c/ c/e//A//|Bzz2|Z|z/>g/gz2|\
+[Q:"Andante"] z/(c//e//) (d//c//c'//b//) =az|z[Fca][db]z "^Rondo" || \
+[M:2/4] [K:G] [Q:"Larghetto"] (g/d//)>b// b/g//>d'//|(d'/ d'/8c'/8b/8c'/8) b/z//d'// |\
+d'/>b/ e'/>c'/ | (=a/>c'/) b/z/|d'/d'/ z//>b// !mordent!b//a/8b/8 | .c'/.c'/ .a/z/|\
+b/b/ {a}g//>f//g//>c'// | b3/4(c'/8b/8) a/z/ | \
+G/D//>B// B/G//>d// | d/c/ B/z/|d/>B/ e/>c/ | A/>c/ B/z/ | d'/d'/z// B'// PB'//A'/8B'/8 | c'/c'/ A'/z/ | \
+B'/B'/ G'/>c'/ | B'/>d'/ A'/z/|z/cB/|z//A//A//A// A/z/|z/dc/|z//B//B//B// B/ !p! B//>c//| \
+d/>d/ (d//>B//) (e//>c//) | !f!((3A//c//B//) Az/|d/c/B/A/|z//B//c//d// e |d/c/B/A/| \
+z//d//e//f// g//b// d'//z//| z//d//e//f// g//b// d'//z// | \
+z//D//F//A// d//f// a//z// | z//^C//E//G// ^c//e// g//z// | z//A,//^C//E// A//c//e//g// | \
+g/!f!f/ (A//d//B//G//)|(A//d//) A/ !p!F/G/ | FF/G/|Fz/=c/|z/B/z/ ^c/|dd//=c//B//c//| B/>g/ f/e/| \
+d//>a//a//>d'// d'/z/|z//>a//c'//>a//  b/!fermata!z/ | ^f!fermata!z||\
+[Q:"Allegro"] [M:C] !//!g2 !mordent!g/f//g// !mordent!a/g//a//| \
+Pb/a//b// !mordent!b/a//b// c'//b//a//g// f//g//a//b// | \
+!p!g/B/d/B/ d/B/d/B/ | z/c/e/c/ e/c/e/c/ | z/A/c/A/ c/A/c/A/ | \
+!ff!G//g//g//g// !//!g !mordent!g/f//g// !mordent!a/g//a//| b/a//b// b/a//b// c'//b//a//g// f//g//a//b// |\
+!p! g/B/d/B/ d!trem1!B | z/c/e/c/ e/c/e/c/| z/A/c/A/ c/A/c/A/ | !//!G2!//!G2|!//!_B4| "_cresc." !//!g4|!f!!//!g4|\
+[Af][Bg][Af][Bg]|[Af][DAf][DAf]!fermata!z|z2!p!(6:4 d/c/B/e/c/A/ | G>G A/>B/c/>B/|{B}AG d/z/ (3e/c/A/|\
+G/z/ G/z/ A/>B/c/>d/|{d}cB d/z/ (3e/c/A/| G>G A/>B/c/>d/ | B/B/B{f}e^d/e/|{e}d^c/d/{d}=cB/c/|\
+{c}B^A/B/ !f!!/!e/!/!g/!/!c'/!7!e/| d  !//!e !//!d !//!f | \
+!f! !//!g2=f//e//d//c// B//A//G//F// | E//e//e//e// !//!ed//c//B//A// G//F//E//D// | (C/!p!c/e/c/) c!trem1!e | \
+"_cresc." f4 | e//g//g//g// !//!g =f//e//d//c// B//A//G//F// | E/ !p!(c/e/c/) !/![ce]2| \
+z/ "_cresc" (d/f/d/) !/![df]2 | e//c//d//e// f//g//a//b// c'z| !p!z/e/e/e/ z/d/d/d/ | \
+z/c/c/c/ z/^c/c/c/ | z/d/d/d/ z/=c/c/c/ | B//g//g//g// !//!g !//!g2 | !ff! !//!g4 | [Af][Bg][Af][Bg] |\
+X | \
+%-------------------------------
+[V: 12]	%-------------------------------
+Z16 | "^[sic]" z2 | Z9  "^Segue" || \
+[Q:"Allegro assai"] [K:Bb] \
+D//F//D//F// D3/2!trem2!F3/2 | E!trem2!G A!trem2!c | Bzz2| D2!trem2!F2 | E!trem2!G A!trem2!c|Bzz2|Z| \
+[Q:"Andante"] z/>B/Bz2|z/(C//E//) (D//C//c',//B//) =Az|z[Fca][db]z "^Rondo" || \
+[M:2/4] [K:G] [Q:"Larghetto"] G/(D//>B// B/)(G//>D//)|B,/D/B,/D/|B,/D/C/E/|[A,F]G/z/|d/d/z// B// PB//A/8B/8 |\
+.c/.c/ .A/z/ | B/B/ {B}G//>F//G//>c// | B3/4(c/8B/8 A/)z/ | \
+B,/>G/ G/D//>B// | (B,/D/B,/D/) | (B,/D/B,/E/) | FG/ z/ | d/d/z// B// PB//A/8B/8 | c/c/ A/z/ | \
+B/B/ G/>c/ | B/>d/ A/z/ | z/AG/|z//F//F//F// F/z/| z/BA/|z//G//G//G// G/ !p!G//>A// | \
+B/>B/ (B//>G//) (c//>A//) | !f!E/Ez/ | B/A/G/F/ | z//G//A//B// G|B/A/G/F/ | B//D//E//F// G//B// d//z// | \
+z//D//E//F// G//B// d//z// | \
+z//D//F//A// d//f// a//z// | z//^C//E//G// ^c//e// g//z// | z//A,//^C//E// A//c//e//g// | \
+g/f/ !f!F//A// G/ | F//A// F/ A,/B,/ | A,A,/B,/| A,z/A/|z/G/ z/E/ | FA| D/z/ d/^c/| d//>f//f//>f// f/z/|z//>f//a//>f//  g/!fermata!z/ | d!fermata!z||\
+[Q:"Allegro"] [M:C] !//!G2!//!G!//!^F|!//!=F2 E//D//C//B,// A,//B,//C//D// | !p! B,/G/B/G/ B!trem1!G | \
+z/E/G/E/ G!trem1!E| z/F/A/F/ A!trem1!F|!ff!!//!G3!//!F|!//!=F2E//D//C//B,// A,//B,//C//D// | \
+!p! B,/G/B/G/ B/G/B/G/ | z/E/G/E/ G!trem1!E| z/F/A/F/ A!trem1!F|!//!B,4|!//!G4|!//!_B4|!//!^c4|\
+d//d'//d'//d'// !//!d' !//!d'2|d'[DAf][DAf]!fermata!z| (B,/D/B,/D/) (B,/D/C/F/) | G/ (D/G,/D/) (B,/D/C/F/) | A,/C/B,/D/ B,/D/C/F/ | \
+G/ (D/G,/D/) (B,/D/C/F/) | (B,/D/B,/D/) (B,/D/C/F/) | G/ (D/B,/D/) (C/D/A,/D/) | G,/G/GG2|G2A2|G2!//!G2| G !//!c !//!B !//!A | \
+Gzz2| z//g//g//g// !//!g =f//e//d//c// B//A//G//F// | E/E/G/E/ G/E/G/c/ | B/d/B/d/ B!trem1!d | \
+c//e//e//e// !//!ed//c//B//A// G//F//E//D// | C/E/G/E/  G!trem1!E | z/B/d/B/ d!trem1!B | c//c//B//A// G//F//E//D// Cz | \
+z/E/E/E/ z/D/D/D/ | z/C/C/C/ z/^C/C/C/ | z/D/D/D/ z/=C/C/C/ | B,//B//B//B// !//!B !//!B2 | \
+!ff! !//!^c4 | d//d'//d'//d'// !//!d' !//!d'2 | d'ff !fermata!z & x [DA]2 | \
+(B,/D/B,/D/) (B,/D/C/F/) | (B/D/B,/D/) (C/D/A,/D/) | B,/D/B,/D/ (B,/D/C/F/) | \
+(B/D/B,/D/) (C/D/A,/D/) | B,/G/A/B/ G2 | G2A2 | G2 !//!G2|GGGF|!//!G4| !//!G4|\
+!/!c/!/!e/!/!g/!/!e/ !/!c/!/!e/!/!c/!/!A/ | !//![Bg]4 | !//![Af]4 | !//![Bg]2!//![ce]2 |  !//![B]2 !//![A]2 |\
+!//![B]2 !//![ce]2 | B//g//g//g// !//!g !//!f2 | "_tbc" X\
+%-------------------------------
+[V: 14]	%------------------------------------------
+"_[fol.216]" G,2- G,2 | E,2  D,2- | D,2  \
+"_[fol.217]" ^C,2- | ^C,4 | D,2 =C,2 | _B,,2 _B,2 | _A,2 G,2- | G,2 =B,,2 | C,2 D,2- | D,4 | _E,2- \
+E,2- | E,2 =E,2 | _E,4 | E,2 D,2 | _E,4-| E,4- | "^[sic]" E,2 | \
+"_[fol.218]"  _A,2 _E,2- | E,2 D,2 | ^C,2- C,2- | C,2  D,2- | D,2  E,2 | E,4 | F,4 | A,,2 _B,,2- | \
+B,,4 "^Segue" || \
+"_[fol.219]" [Q:"Allegro assai"] [K:Bb] !/!B,,4 | !/!B,,4 | B,,zz2 | !/!B,,4 | !/!B,,4 | B,,zz2 | z4 | \
+z/>E,/ E, z2 | \
+"_[fol.220]" [Q:"Andante"] !/!E,2 E,z | zF,B,,z  "^Rondo" || \
+"_[fol.221]" [M:2/4] [K:G] [Q:"Larghetto"] G,/z/ G,/z/ | G,2- | G,2- | G,G,/z/ | B,/A,/^G,/E,/ | A,/=G,/ G,/z/ | (G,E,/=C,/) | (D,D,/)z/ |\
+"_[fol.222]" !p!G,/z/ G,/z/ | G,2- | G,2- | G,G,/z/ | !p!B,/A,/^G,/E,/ | A,/=G,/ G,/z/ | (G,E,/C,/) | D,D,,/z/ |\
+"_[fol.223]" D,z | D,z | D,z | G,/G,/ G,,/z/ | !p!G,2 | !f!C,>z | B,,/C,/D,/D,/ | G,,C, | \
+"_[fol.224]" B,,/C,/D,/D,/ | G,/z/z | G,/z/z | F,/z/z | E,/z/z | A,,/z/z | \
+"_[fol.225]" !f! !//!D,2 |  !p! !//!D,2 |  !//!D,2 |  D,//D,// D,/ F,/z/ | G,/z/ A,/z/ | D,/z/ F, | \
+"_[fol.226]" G,/G,/ A,/A,,/ | D,//>D,//D,//>D,// D,/z/ | z//>D,//D,//>D,// !fermata!D, |  !fermata!D,z || \
+[Q:"Allegro"] [M:C] !/!G,4 | !/!G,4 | \
+"_[fol.227]" G,zz2 |  G,zz2 |  G,zz2 | !f!!/!G,4 | !/!G,4 | !p!G,zz2 | \
+"_[fol.228]" G,zz2 |  G,zz2 | !/!G,4 | !/!G,4 | "_cresc" !/!_E,4 | !fff!!/!_E,4 | \
+"_[fol.229]" D,/D/B,/G,/  D,/D/B,/G,/ | D,D,D, !fermata!z | G,4- | G,4- | G,4- | G,4 | \
+"_[fol.230]" G,4- | G,4 | G,G,z2 | z4 | z2!f! !/!C,2 | \
+"_[fol.231]" B,,/B,,/C,/C,/ !/!D,2 | !f!G,zz2 | !fff! !/!G,4 | !p!C,zz2 | C,zz2 | !fff! !/!C,4 | \
+"_[fol.232]" C,zz2 | C,zz2 | !f!C,/C/G,/E,/ C,z | !p!^G,zG,z| A,z=G,z| F,zD,z| !/!G,4 | \
+"_[fol.233]" !/!E,4 | D,/D/B,/G,/ D,/D/B,/G,/ | D,D,D,!fermata!z | G,4 |  G,4- |  G,4 | \
+"_[fol.234]" G,4 |  G,zz2 | Z | z2 !f!!/!C,2| B,,C,D,D, | !/!B,,4 | \
+"_[fol.235]" !/!C,4 |!/!C,4 | !/!D,4 | !/!D,4 | !/!G,2 !/!D,2 | !/!D,4 | !/!B,,2 !/!C,2 | \
+"_[fol.236]" !/!D,4 | G,/G,/F,/E,/ D,/C,/B,,/A,,/ | G,,/G,/F,/E,/ D,/C,/B,,/A,,/ |  !/!G,,2 !/!B,,2 | C,C,D,D,|G,G,G,,z |] \
+%------------------------------------------

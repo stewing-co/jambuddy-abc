@@ -1,0 +1,55 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Polka  CGF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.120 (pk09186) orig. C,G,F
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"G7"G2fB B2aB | "C"c2c'eg4 | "G7"c'bbd !>!f4 | "C"aggc !>!e4 | "G7"G2fB B2aB | "C"c2c'eg4 | "G7"c'bbd a2g2 | "C"c2c2 c2z2:: [K:G] 
+"G"d'2d2 b2ag | "D7"gffA !>!c4 | dd'c'd f2a2 | "G"bgdB G2Bd | d'2d2 b2ag | "D7"gffA !>!c4 | defg abc'f | "G"g2g2 "_>Teil A"g2z2 :: [K:F] 
+"F"A2A2 AGAB | c2c2 agf2 | "C7"dbb2 cee2 | "F"fafd c2cB | A2A2 AGAB | c2c2 agf2 | "C7"dbb2 cee2 | "F"f2f2 f2z2 :|
+W:Parts: ABAC
+W:Anmerkungen H.C.: 16. Juni 1953
+% pk09186
+X:2
+T: Polka  CGF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"G7"G2fB B2aB | "C"c2c'eg4 | "G7"c'bbd !>!f4 | "C"aggc !>!e4 | "G7"G2fB B2aB | "C"c2c'eg4 | "G7"c'bbd a2g2 | "C"c2c2 c2z2:: [K:G] 
+"G"d'2d2 b2ag | "D7"gffA !>!c4 | dd'c'd f2a2 | "G"bgdB G2Bd | d'2d2 b2ag | "D7"gffA !>!c4 | defg abc'f | "G"g2g2 "_>Teil A"g2z2 :: [K:F] 
+"F"A2A2 AGAB | c2c2 agf2 | "C7"dbb2 cee2 | "F"fafd c2cB | A2A2 AGAB | c2c2 agf2 | "C7"dbb2 cee2 | "F"f2f2 f2z2 :|
+W:Parts: ABAC
+% pk09186
+X:1
+T:Polka  EbBbAb 9- (5letras)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:Eb %%MIDI gchordon
+"Bb7"B,2AD D2cD | "Eb"E2eGB4 | "Bb7"eddF !>!A4 | "Eb"cBBE !>!G4 | "Bb7"B,2AD D2cD | "Eb"E2eGB4 | "Bb7"eddF c2B2 | "Eb"E2E2 E2z2:: [K:Bbmaj] 
+"Bb"f2F2 d2cB | "F7"BAAC !>!E4 | FfeF A2c2 | "Bb"dBFD B,2DF | f2F2 d2cB | "F7"BAAC !>!E4 | FGAB cdeA | "Bb"B2B2 "_>Teil A"B2z2 :: [K:Abmaj] 
+"Ab"C2C2 CB,CD | E2E2 cBA2 | "Eb7"Fdd2 EGG2 | "Ab"AcAF E2ED | C2C2 CB,CD | E2E2 cBA2 | "Eb7"Fdd2 EGG2 | "Ab"A2A2 A2z2 :|
+W:Parts: ABAC
+% pk09186
+X:3
+T:Polka  GD&F (tinwhistle in D) var. solo
+T:pk09186 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:G transpose=12
+D2"_c"cF F2eF | G2gBd4 | gffA !>!"_c"c4 | eddG !>!B4 | D2"_c"cF F2eF | G2gBd4 | gffA e2d2 | G2G2 G2z2:: [K:D] 
+a2A2 f2ed | dccE !>!G4 | AagA c2e2 | fdAF D2FA | a2A2 f2ed | dccE !>!G4 | ABcd efgc | d2d2 "_>Teil A"d2z2 :: 
+F2F2 FEFG | A2A2 fed2 | Bgg2 Acc2 | dfdB A2AG | F2F2 FEFG | A2A2 fed2 | Bgg2 Acc2 | d2d2 d2z2 :|
+W:Parts: ABAC
+% Aug 20, 2016

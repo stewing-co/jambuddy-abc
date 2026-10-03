@@ -1,0 +1,82 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka  FCBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.242 (pk00487) orig. F,C,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon 
+AB |: "F"caa2 ^gaba | "C7"a^fg2 g2GA | Bgg2 ^fgae | "F"g^f=f2 f2AB | caa2 AB=Bc | 
+"Gm"d2G2 gfed | "C7"c=Bc^c d2e2 |1 "F"f2a2 f2AB :|2 "F"f2a2 f2GG |: [K:C] "G7"GBB2 Bgg2 | "C"Gcc2 Ggg2 | 
+"G7"d^cde f2B2 | "C"cefg agec | "G7"GBB2 Ggg2 | "C"Gcc2 Gee2 | "G7"d^cde f2B2 |1 "C"c2c2 c2GG :|2 
+"C"c2c2 c2"_>Teil A"A_B || [K:Bb] "Bb"bbb2 a2g2 | fff2 e2d2 | "F7"(f4f)edc | "Bb"B6ff | 
+"F7"Tf8 | fFAc f2ff | "Bb"Tf8 | dFBd f2df | bbb2 a2g2 | fff2 e2d2 | 
+"F7"(f4f)edc | "Bb"B6FF | F4 BFBd | "F"cFAc f2ff | "F7"f4 afac' | "Bb"b2d'2 b2z2 |] 
+
+X:2
+T: Polka  FCBb chords Parts
+M:2/4
+L:1/16
+P:ABAC
+K:F %%MIDI gchordon 
+AB [P:A] |: "F"caa2 ^gaba | "C7"a^fg2 g2GA | Bgg2 ^fgae | "F"g^f=f2 f2AB | caa2 AB=Bc | 
+"Gm"d2G2 gfed | "C7"c=Bc^c d2e2 |1 "F"f2a2 f2AB :|2 "F"f2a2 f2GG |: [P:B] [K:C] "G7"GBB2 Bgg2 | "C"Gcc2 Ggg2 | 
+"G7"d^cde f2B2 | "C"cefg agec | "G7"GBB2 Ggg2 | "C"Gcc2 Gee2 | "G7"d^cde f2B2 |1 "C"c2c2 c2GG :|2 
+"C"c2c2 c2"_>Teil A"A_B || [P:C] [K:Bb] "Bb"bbb2 a2g2 | fff2 e2d2 | "F7"(f4f)edc | "Bb"B6ff | 
+"F7"Tf8 | fFAc f2ff | "Bb"Tf8 | dFBd f2df | bbb2 a2g2 | fff2 e2d2 | 
+"F7"(f4f)edc | "Bb"B6FF | F4 BFBd | "F"cFAc f2ff | "F7"f4 afac' | "Bb"b2d'2 b2z2 |] 
+
+X:3
+T:Polka  CGF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon 
+EF |: "C"Gee2 ^defe | "G7"e^cd2 d2DE | Fdd2 ^cdeB | "C"d^c=c2 c2EF | Gee2 EF^FG | 
+"Dm"A2D2 dcBA | "G7"G^FG^G A2B2 |1 "C"c2e2 c2EF :|2 "C"c2e2 c2DD |: [K:Gmaj] "D7"DFF2 Fdd2 | "G"DGG2 Ddd2 | 
+"D7"A^GAB c2F2 | "G"GBcd edBG | "D7"DFF2 Ddd2 | "G"DGG2 DBB2 | "D7"A^GAB c2F2 |1 "G"G2G2 G2DD :|2 
+"G"G2G2 G2"_>Teil A"E=F || [K:Fmaj] "F"fff2 e2d2 | ccc2 B2A2 | "C7"(c4c)BAG | "F"F6cc | 
+"C7"Tc8 | cCEG c2cc | "F"Tc8 | ACFA c2Ac | fff2 e2d2 | ccc2 B2A2 | 
+"C7"(c4c)BAG | "F"F6CC | C4 FCFA | "C"GCEG c2cc | "C7"c4 eceg | "F"f2a2 f2z2 |] 
+
+X:4
+T:Polka  CGF 5- chords (align)
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon 
+EF |: "C"Gee2 ^defe | "G7"e^cd2 d2DE | Fdd2 ^cdeB | "C"d^c=c2 c2EF | Gee2 EF^FG | 
+"Dm"A2D2 dcBA | "G7"G^FG^G A2B2 |1 "C"c2e2 c2EF :|2 "C"c2e2 c2DD |: [K:Gmaj] "D7"DFF2 Fdd2 | "G"DGG2 Ddd2 | 
+"D7"A^GAB c2F2 | "G"GBcd edBG | "D7"DFF2 Ddd2 | "G"DGG2 DBB2 | "D7"A^GAB c2F2 |1 "G"G2G2 G2DD :|2 
+"G"G2G2 G2"_>Teil A"E=F || [K:Fmaj] "F"fff2 e2d2 | ccc2 B2A2 | "C7"(c4c)BAG | "F"F6cc | \
+"C7"Tc8 | cCEG c2cc | "FT"c8 |
+ ACFA c2Ac | fff2 e2d2 | ccc2 B2A2 | \
+"C7"(c4c)BAG | "F"F6CC | C4 FCFA | "C"GCEG c2cc | "C7"c4 eceg | "F"f2a2 f2z2 |] 
+
+
+X:5
+T:Polka  CGF 5- chords Parts
+M:2/4
+L:1/16
+P:ABAC
+K:Cmaj%%MIDI gchordon 
+EF [P:A] |: "C"Gee2 ^defe | "G7"e^cd2 d2DE | Fdd2 ^cdeB | "C"d^c=c2 c2EF | Gee2 EF^FG | 
+"Dm"A2D2 dcBA | "G7"G^FG^G A2B2 |1 "C"c2e2 c2EF :|2 "C"c2e2 c2DD |: [P:B] [K:Gmaj] "D7"DFF2 Fdd2 | "G"DGG2 Ddd2 | 
+"D7"A^GAB c2F2 | "G"GBcd edBG | "D7"DFF2 Ddd2 | "G"DGG2 DBB2 | "D7"A^GAB c2F2 |1 "G"G2G2 G2DD :|2 
+"G"G2G2 G2"_>Teil A"E=F || [P:C] [K:Fmaj] "F"fff2 e2d2 | ccc2 B2A2 | "C7"(c4c)BAG | "F"F6cc | 
+"C7"Tc8 | cCEG c2cc | "F"Tc8 | ACFA c2Ac | fff2 e2d2 | ccc2 B2A2 | 
+"C7"(c4c)BAG | "F"F6CC | C4 FCFA | "C"GCEG c2cc | "C7"c4 eceg | "F"f2a2 f2z2 |] 
+
+X:6
+T:Polka  EbBbAb (5letras) cf. CGF Parts
+M:2/4
+L:1/16
+P:ABAC
+K:Ebmaj%%MIDI gchordon 
+GA [P:A] |: "Eb"Bgg2 ^fgag | "Bb7"g=ef2 f2FG | Aff2 =efgd | "Eb"f=e_e2 e2GA | Bgg2 GA=AB | 
+"Fm"c2F2 fedc | "Bb7"B=AB=B c2d2 |1 "Eb"e2g2 e2GA :|2 "Eb"e2g2 e2FF |: [P:B] [K:Bbmaj] "F7"FAA2 Aff2 | "Bb"FBB2 Fff2 | 
+"F7"c=Bcd e2A2 | "Bb"Bdef gfdB | "F7"FAA2 Fff2 | "Bb"FBB2 Fdd2 | "F7"c=Bcd e2A2 |1 "Bb"B2B2 B2FF :|2 
+"Bb"B2B2 B2"_>Teil A"G_A || [P:C] [K:Abmaj] "Ab"aaa2 g2f2 | eee2 d2c2 | "Eb7"(e4e)dcB | "Ab"A6ee | 
+"Eb7"Te8 | eEGB e2ee | "Ab"Te8 | cEAc e2ce | aaa2 g2f2 | eee2 d2c2 | 
+"Eb7"(e4e)dcB | "Ab"A6EE | E4 AEAc | "Eb"BEGB e2ee | "Eb7"e4 gegb | "Ab"a2c'2 a2z2 |] 
+

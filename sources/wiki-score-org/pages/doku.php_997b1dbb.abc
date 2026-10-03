@@ -1,0 +1,51 @@
+X:110
+T:Gloria
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:D
+V: 10 clef=tenor name="Gloria" sname="Gl."
+%%MIDI program 1 1
+%%staves [ 10 ]
+%---------------------------------------------------------
+[L:1/8] D> D G D/ D/ B,> B, A, G, | ^C2 C2 C D E E/ ^F/ |  D D z2 D D/ D/ D E | C2 C2 C ^F, F, F,/ G,/  | A, A, A, C/ B,/ B,2 B,2 |\
+w: O Ma-gnia-ni-mo Re del Se-col nos-tro or-na-men-to'e splen-do-re me che-ri-miri in tor-no cin-ta di lu-mi-noso il-lus-tre am-man-te
+B,> B, ^D D/ E/ ^F F ^D> F | A,2 A, B, ^G,2 G,2  | B,> B, D D/ E/ =F F  z F| D > D D C A,2 A,2 | \
+w: qua me tras-ser le tan-te ge-ne-ro-se tue ges-ta on-de piu che dell'-os-tro ben vai su-perbo, e ador-no
+z A, E E/ E/ ^C C z E | ^A, A, z A, ^C C C D | D2 D2 z D B,/ B,/ B,/ ^C/ |^A,2 A,2 ^C ^F, ^F ^C/ D/ | \
+w: La Glo-ria io so-no e  ques-ta che ame tu scor-gia: can-to Au-gus-ta Don-na al tera questa ques-ta e la
+B,2B,2z ^F, B,/ B,/ B,/ ^C/ | ^D D D > ^F B,2 B, ^A,| B, B, z/ B,/ E/ B,/ ^C C C/ C/ ^D/ E/ | \
+w: Fa-ma che con ar-den-te  bra-ma im-pa-zien-te at-ten-de i cen-ni miei per pa-le-sarti al
+B,2B,2 z2 B, B, | E E/ ^D/ E E E ^C/ C/ ^A, A, | z ^C ^A, A,/ B,/ ^C2 ^C2 | \
+w: mon-do al suo fot-te va-lo-re nul-la di gra-ve da si no-bil pon-do
+E E/ E/ D ^C D D z D | B, B, B, ^F, G, G, z B, | E E E D B,2 B,2 | z8 || \
+w: an-zi con piu vi-go-re n'an-dra fas-to-sa a volo dall'-uno al al-tro Po-lo
+[Q: "Andante"][L:1/4] z/ | Z34 | D A, F,/ D,/ D/ F/ | E/ A,/ G/ E/ A/ G//F// E/ D/ | C//B,// A,/ \
+w: O-do jia del-la sua trom-ba dol-ce su-o-no che rim-bom--ba
+z E/EA/| F/ED//C// D/CB,//A,// | ^G,//A,// B,3/2 D ^G | A3/4^G///F///E/ A,/C \
+w: e fa--sto-sa al-- mon--do-- span--de di sue ge---sta al-lo
+B,/A,/ | E3/2A//E// F/EA/ | D/CB,/ [L:1/16] CEDC DEF^G | A4/>E2 A4/>E2 c2BA ^GF ED | [L:1/4]
+w:splen-dor-------------
+C/B,3/2A, z | Z10 | \
+w: allo splen-dor
+E A, ^G,/ E,/ D/ C//B,// | C/ (B,A,/) D/(CB,/) | E/(DC/) F/ED/ | A<A, AF |{E}^D>E F/=C/B,/ A,/ | \
+w:O-do gia del-la su-a Trom-ba-- dol--ce suo--no che rim--bom-ba e fas-to-so al mon--do
+A,G,GE | {D}C>D E/C/A,/ G,/ | F, !trill!D F///E///D3/4 D/F,/ | G, !trill!E G///F///E3/4 E/G,/ | A, F A///G///F3/4 F/A,/ | B,///C///D3/4 E///F///G3/4 C2 | \
+w: span-de di sue ges-ta al-lo splen--dor--------*
+z2 E/ C B,//A,// | B,/ E,/ D/ C//B,// C//B,// A,/z | !p! E/ C B,//A,// B,/ E,/ D/  \
+w: O-do---gia del-la su-a trom--ba dol-ce--- suo-no che
+C//B,// | C//E//D/- D//C//E/- E//F// GF//E// | F//G//A//G// F//E//D//C// !trill!B,2 -| B,2-B,2| A,z \
+w: rim--bom----------------------ba
+ED | C/B,A,/ED | C//B,//A,3/2 GE| F/ F/!trill!E/D/ E/ \
+w: e fas-to-sa al mon-do span--de di sue ges-ta--- allo
+E/!trill!D/C/ | D A//G//F//E// D/A,/D/F/ | !trill!D4 -| D A//G//F//E// D/A,/D/F/ | [L:1/16]DEFE FEDC B,CDC DCB,A, | G,A,B,A, G,F,E,D, [L:1/4] !fermata!A,x | \
+w: splen---dor-------------------------------------------
+GEF/>D/ G/>E/| [L:1/16] AGFE DCB,A, DCB,A, G,F, E,D,[L:1/4] | !trill!E>DDz | Z11 || \
+w: di sue ges------------------- ta allo splen-dor
+FB,C/F,/ E/ D//C// | D//C//B,3/2 {E}^D>D | E/ B,/!trill!B,//>A,//B,/ F/ B,/!trill!B,//>A,//B,/ | G/ E ^D//E//  F/=C/B,/A/ |  G/ (F/ E)  \
+w:  E nar-ran-do del tu-a co--re ge-ne-ro-sa---- la cos----tan----------za
+G>E | {D}C2 z/G/ F/ E/ | F/ D C//D// E/ A,G/ | F/ (E/D)FB,| \
+w: las-cia poi bel-la spe-ran---------za di piu
+G2-G/E/D/C/| B3/4A///G///F/ B,/DC | B,2-B,/ ^E^G/|D/CB,/ F3/4E///D/// C/ F/ | A, ^G,/> F,/ F,2  |] \
+w: Glo---------ria,e di piu o--nor---------e di- piu o-nor
+%---------------------------------------------------------

@@ -1,0 +1,232 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XIII. If that a sinner's sighes be Angel's foode
+T:CANTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:G dor
+z8 | z8 | z2 z G d3 e | f d f3 e d3 c B2 A4 |
+w: If that a sin- ners sighes be An- gels foode, *
+z2 z G A3 B | c A c4 d2 | d2 ^c2 d4 |
+w: Or that re- pen- tant teares be An- gels wine,
+z4 z2 z A | B2 c2 d3 d | _e2 d d2 c/ B/ c2 | d6
+w: Ac- cept O Lord in this most pen- sive * * moode,
+z d | c2 A2 z B2 B | A G G4 ^F2
+w: These hear- ty sighes and dole- full plaints of 
+%%LY voices    \property Staff.TimeSignature \set #'style = #'neo_mensural
+M:6/4
+L:1/4
+G4 
+w:mine,
+|: z2 | z2 z2 g2 | f4 _e2 d3 d _e2 | d d2 c/ B/ c2 
+w: That went with Pe- ter forth most sin-  ful- * * 
+%%LY voices \bar "empty" \break
+d4 
+w:ly:
+z2 | z2 z2 z _e d4 c2 | B3 B A2
+w: But not as Pe- ter did, 
+%%LY voices \bar "empty" \break
+M:C
+L:1/4
+z B2 G2 z c4 B3/2 c// d// | A3 G HG4 :|
+w: Weepe, weepe, weepe, weepe * * bit- ter- ly.
+
+X:2
+T:XIII. If that a sinner's sighes be Angel's foode
+T:ALTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on second line
+K:G dor
+z2 B4 A4 D G2 ^F/ E/ ^F2 G2 B2 A > D F
+w: If that a sin- ners * * sighes be An- gels foode,
+G A2 D d > d c2 B A3
+w:a sin- ners  sighes be An- gels foode,
+G2 G ^F E ^F2
+w:sighes be An- gels foode,
+D > E F G A4 A2 A2
+w: Or * that re- pen- tant teares 
+z D E F G E ^F G2 ^F G2
+w:re- pen- tant teares be An- * gels wine,
+B2 A A D2
+w:be An-  gels wine,
+z D F2 F B2 B G c2 B3 A/ B/ A G ^F2 G2 A2
+w: Ac- cept O Lord, O Lord in this most * pen- sive, pen- sive moode,
+ "(1)"B G A2 ^F z G2 D _E2 C2 D2 D2
+N:(1) Original has a quarter rest before this note.
+w: These hear- * ty sighes and dole- full plaints of 
+%%LY voices    \property Staff.TimeSignature \set #'style = #'neo_mensural
+M:6/4
+L:1/4
+D4
+w:mine,
+|:z _E2 D > E F B, C D2
+w: That went with * Pe- ter forth 
+z B G A2 F > F G2 A2 B2 A G2 ^F4
+w: That went with Pe- ter forth most sin- ful- * ly:
+z G F2 D B > B A
+w: But not as Pe- ter did, 
+B > A G F > G _E D
+w:not as  * Pe- ter * did, 
+G > G G2 F
+w: Pe- ter did, weep,
+M:C
+L:1/4
+z D G > F _E D =E2 ^F2 "(2)"G3 ^F/ =E/ ^F2
+N:(2) Original has a half note here.
+w: did weepe, weepe, weepe, * * weepe bit- ter- * *
+%%LY voices    \property Staff.TimeSignature \set #'style = #'neo_mensural
+M:6/4
+L:1/4
+G4 :|
+w:ly.
+
+X:3
+T:XIII. If that a sinner's sighes be Angel's foode
+T:TENOR.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -12
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on third line
+K:G dor -8va
+d6 c d B3 A/ G/ A2
+w: If that a sin- ners * sighes 
+z A B c z/ d e/ f f d4
+w: a sin- ners sighes be An- gels foode,
+z d A2 B G d6
+w:sighes be An- gels foode,
+z A2 d2 B c3 B A f2 e/ d/ c B A A G3 G B > c A2 G2
+w: Or that re- pen- tant teares, re- * * pen- tant teares,  be An- gels, An- gels *  wine,
+z g g ^f/ e/ ^f2 g
+w: Ac- cept O * * Lord, 
+z/ B/ B A B > A F F c2 F2 G2
+w: Ac- cept O  Lord in this most pen- sive moode,
+z c2 B A G > G ^F
+w: this most, most pen- sive moode,
+z f _e2 d2 z d2 z/ B/ c B A G A2 A2
+w: These hear- ty sighes and dole- full, dole- full plaints of 
+%%LY voices    \property Staff.TimeSignature \set #'style = #'neo_mensural
+M:6/4
+L:1/4
+G4
+w:mine,
+|: B2 A2 F2 G > A B > c d2
+w: That went with Pe- * *  ter forth 
+c > B A A d B G c F2 G3 G A2
+w:with Pe- * ter forth most sin- ful- ly, sin- ful- ly:
+A d2 c d > _e f 
+w: But not as Pe- * *  ter 
+d _e c f B2 A2 
+w:not as Pe- ter did, 
+G > A B > c d
+w:Pe-  ter did, * *
+z A 
+w: Weepe, 
+M:C
+L:1/4
+d > c B
+w:Pe- ter did,
+c2 B2 A/ G/ d2
+w:weepe, weepe,  bit- ter- ly,
+z G d2 A2 H=B4 :|
+w:weepe  bit- ter- ly.
+
+
+X:4
+T:XIII. If that a sinner's sighes be Angel's foode
+T:BASSUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, F on third line
+%%MIDI transpose -24
+K:G dor bass
+g4 ^f3 f g3 f/ _e/ d c d d G3 g d6 d2-d2
+w: If that a sin- * * * * * ners sighes be An- gels foode,
+z d' ^f2 (g  > g) d4
+w:sighes be An- gels foode,
+z d g - g f6 f2 - f3 f e2 e2 d4
+w: Or that re- pen- tant teares be An- gels wine,
+z c' g/ a/ b/ g/ c'3  c g2 f2 B > c d B c2 d2 _e3 - e d6
+w: Ac- cept * * O Lord, O LOrd, Ac- cept O Lord, in this most pen- sive moode,
+z B c2 d2 z g2 g c2 _e2 d3 d
+w: These hear- ty sighes and dole- full plaints of 
+%%LY voices    \property Staff.TimeSignature \set #'style = #'neo_mensural
+M:6/4
+L:1/4
+G4
+w:mine,
+|: g2 f2 d2 _e2 d2 B2 z c d2 B2 c2 d2 e3 - e d4
+w: That went with * Pe- ter, with Pe- ter forth most sin- ful- ly:
+e2 d2 B2 c > c B > c d B c2 G > A B c d2
+w: But not as Pe- ter, Pe- * * ter did, Weepe, * * did weepe
+M:C
+L:1/4
+B2 _e > d c4 d6 d2
+w: did weepe, weepe, *  bit- ter- 
+M:6/4
+L:1/4
+HG4 :|
+w:ly.

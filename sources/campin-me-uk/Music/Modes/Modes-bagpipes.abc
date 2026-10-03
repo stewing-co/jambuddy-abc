@@ -1,0 +1,236 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+
+Modes on the Highland Bagpipe
+=============================
+
+1. The Notes of the Bagpipe Chanter
+===================================
+
+The Highland pipe uses a scale which is nearer to the Mixolydian mode than
+to anything else in the Western system (it is almost the same as the Zalzal
+scale of mediaeval Arabic music, which is presumably coincidence).  It is
+written as if based on A, though the actual pitch is B flat.  The two tenor
+drones of a Highland pipe are tuned an octave below the low A on the chanter,
+with the bass drone (added in the 18th century) an octave lower.  When
+Highland pipe tunes are played on other instruments, they are nearly always
+played at the written pitch of A, with the other notes of the scale brought
+into line with the Mixolydian scale.  (Bad fiddle transcriptions often get
+this wrong, and sharpen the G's to produce a major key).  There are only
+nine notes in the standard chanter scale; some chanters and some fingerings
+can produce more, but these are never called for in traditional pipe music.
+A large proportion of the tunes in the Scottish repertoire fit this scale,
+even if they are not part of the pipe repertoire today.  Whether this is
+because they were originally pipe tunes, or because the pipes were designed
+to play Scottish vocal tunes that already fell into that scale, is anybody's
+guess.
+
+Pipe tunes often have a basic melody in a gapped scale, but have the gaps
+filled in by upbeats or grace notes.  It is quite rare for a full setting
+of a pipe tune to have the grace notes exactly matching the gapped-scale
+mode of the tune.  In particular it's difficult not to use g as a frequent
+grace note.  Grace notes are too short to have clearly identifiable pitch,
+so this doesn't matter.
+
+X:0
+T:Highland pipes (as they sound)
+M:21/4
+L:1/4
+K:BbMix
+B,,4 B,4 B,4 ABcd efga b|]
+
+X:0
+T:Highland pipes (as written)
+M:21/4
+L:1/4
+K:AMix
+A,,4 A,4 A,4 GABc defg a|]
+
+Written Highland pipe music usually omits any key signature - the two
+sharps are taken as read.  Older sources may put the two sharps in
+explicitly.  Some sources may even use three sharps; in that case, just
+ignore the sharp on the G.  David Glen's books from the nineteenth century
+used the ingenious trick of giving the key signature as a pianist or
+fiddler would play the tune - tunes in his collections have signatures
+ranging from zero to three sharps, all of which a piper would ignore.
+
+Border pipes have a similar conical-bore chanter to Highland pipes and
+use a similar scale.  Some older smallpipes, with a parallel-bore chanter,
+used a shifted scale with the tonal centre at the bottom of the range and
+providing one or two higher notes; in A major, ABcdefgab, or G major,
+GABcdefga.  They are less standardized than Highland or Border pipes and
+some old examples have even had their chanter fingerholes recut to alter
+their basic mode.  This is a typical Border pipe tune for a mixolydian
+chanter with the extended range, GABcdefga:
+
+X:0
+T:Soor Plooms in Galashiels
+G:song
+M:4/4
+L:1/8
+Q:1/4=104
+K:GMix
+GA|B3c  B2ge|dBAG     A2B>A|G3A  BABd|e3d  B2dg|
+   edBe dBAd|BAGB     A3B  |GABc degc|B2G2 G2 :|
+d2|efga g2G2|g2 de/f/ e2dc |B2de f2gf|e4   d3d |
+   efga g3G |gbag     e2dc |Bcde fagf|e4   d2d2|
+   efga g3G |g2 de/f/ e2dc |BAB2 dBd2|ede2 f3a |
+   geg2 ede2|dBd2     BAB2 |g2fe dBgc|B2G2 G2 |]
+
+The tune uses the same gap-filling development as the Highland tunes quoted
+before; the first part is major/mixolydian hexatonic, the second mixolydian.
+But here the effect is much more dramatic and unmistakable, the natural f's
+becoming more and more strongly accented up to the climax in bar 20.
+
+
+2. Modal Systems for the Bagpipe
+================================
+
+Pipe tunes frequently use pentatonic or hexatonic scales of the types
+described above.  Among the seven note modes, the commonest are the
+mixolydian mode (for tunes written as ending on A) and the major mode
+(tunes ending on D).
+
+Roderick Cannon, in his book "The Highland Bagpipe and its Music", uses a
+different system for naming pentatonic modes than anything I've used so far.
+He describes three pitch sets, which he calls the A, D and G scales:
+
+X:0
+T:Cannon's A-scale (D,G-gap)
+N:A lydian/major/mixolydian pentatonic
+N:E major/mixolydian/dorian pentatonic
+N:B mixolydian/dorian/minor pentatonic
+N:F# dorian/minor/phrygian pentatonic
+M:none
+L:1/4
+K:AMix
+A2 B c e f a2 f e c B A2|]
+
+X:0
+T:Cannon's D-scale (G,C-gap)
+N:D lydian/major/mixolydian pentatonic
+N:A major/mixolydian/dorian pentatonic
+N:E mixolydian/dorian/minor pentatonic
+N:B dorian/minor/phrygian pentatonic
+M:none
+L:1/4
+K:AMix
+A B d2 e f a f e d2 B A|]
+
+X:0
+T:Cannon's G-scale (F,C-gap)
+N:G lydian/major/mixolydian pentatonic
+N:D major/mixolydian/dorian pentatonic
+N:A mixolydian/dorian/minor pentatonic
+N:E dorian/minor/phrygian pentatonic
+M:none
+L:1/4
+K:AMix
+G2 A B d e g2 a g2 e d B A G2|]
+
+A (the pitch of the drones) is the only tonal centre that can fit
+into all three scales.
+
+Cannon sees these scales as allowing tunes to have "double tonic"
+structures, or phrases which suggest alternating tonal centres.
+Each has four possible centres, but in practice most tunes only
+use two.  Here is an example he mentions, on the G scale: the gaps
+have mostly been filled in with passing notes, but the only tonal
+centres are G and A, and unusually with G coming first in each
+four-bar phrase.  (The third part is different, moving between A
+and D, but the third parts of four-part pipe tunes are often later
+additions).  If you were putting guitar chords to this, each part
+would only need two chords.
+
+X:0
+T:Cabar Feidh
+B:The Cabar Feidh Collection: Pipe Music of the Queen's Own Highlanders
+G:reel
+M:C|
+L:1/8
+Q:1/2=90
+K:AMix
+e|:g2 a>e g2 d>e|g2 d>c B>GG>B|[1 A>Bc<A a2 e>f|a2 e>d c>AA>B:|
+                               [2 A>Bc>d e>fg>e|a2 e>d c>AA>g||
+   G2 e>G B<Gd>B|G2 d>G B>GG>B|   A2 e>A c<Ae>c|A>cf>e c>AA>g |
+   G2 e>G B<Gd>B|G>gd>c B>GG>B|   A>Bc>d e>fg>e|a2 e>d c>AA>g||
+ |:c2 g>c e>cg>e|c2 e>f g>ec<e|[1 d2 a>d f>da>f|d>ef>g a>gf<a:|
+                               [2 a>fg>e f>de>d|c<ae>d c>AA>g||
+ |:G>GG>B G>GG>B|G>gd>c B>GG>B|[1 A>AA>c A>AA>c|e>ca>e c>AA>g:|
+                               [2 A>Bc>d e>fg>e|a2 e>d c>AA  |]
+
+Hexatonic and heptatonic scales could be built up as combinations of
+Cannon's three pentatonic scales (though Cannon himself doesn't do
+this):
+
+X:0
+T:A+D-scale (G-gap)
+N:D lydian/major hexatonic
+N:A major/mixolydian hexatonic
+N:E mixolydian/dorian hexatonic
+N:B dorian/minor hexatonic
+N:F# minor/phrygian hexatonic
+M:none
+L:1/4
+K:AMix
+A2 B c d e f a2 f e d c B A2|]
+
+X:0
+T:D+G-scale (C-gap)
+N:G lydian/major hexatonic
+N:D major/mixolydian hexatonic
+N:A mixolydian/dorian hexatonic
+N:E dorian/minor hexatonic
+N:B minor/phrygian hexatonic
+M:none
+L:1/4
+K:AMix
+G A2 B d e f g a2 g f e d B A2 G|]
+
+X:0
+T:G+A-scale (no gaps)
+N:A mixolydian
+M:none
+L:1/4
+K:AMix
+G A2 B c d e f g a2 g f e d c B A2 G|]
+
+
+3. Low and High G's
+===================
+
+Low and high G's on the pipes are often treated differently.  The high
+g is a relatively quiet note, while the low G is the loudest note on the
+chanter and hence the harshest dissonance against the drones (Alastair
+Campsie, describing his pibroch for Hugh MacDiarmid, writes that it
+"resembles nothing more than the spirit screaming against the insensate
+violence of the world").  And the two notes are not precisely an octave
+apart.  So the high g is used more, and  many pipe tunes omit the low G
+while using the high one - these are a boon to whistle players trying to
+play them on an A whistle, or transposed down a fourth on a D whistle.
+
+This is an unusual tune which does the opposite - the top two notes are
+omitted, but the low G is used:
+
+X:0
+T:The High Road to Gairloch
+M:2/4
+L:1/8
+Q:1/4=88
+K:AMix
+e>f eA |cA e2|df/e/ dG |BG d2 |
+e>f eA |cA e2|A>B   cA |B2 A2:|
+cA  A>B|cA c2|d>c   B>c|dB d2 |
+cA  A>B|cB ce|A>B   cA |B2 A2:|
+
+
+=============================================================================
+==  (c) Jack Campin         http://www.campin.me.uk/         October 2012  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

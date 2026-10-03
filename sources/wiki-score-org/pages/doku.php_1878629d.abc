@@ -1,0 +1,17 @@
+X:106
+T:Hodie Nobis
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 6 clef=alto name="Altus" sname="A."
+%%MIDI program 1 1
+%%staves [ 6 ]
+%----------
+% bars 1-8
+E2 | EE | E2 | EE | F2 | EE | E F/ F/ | D2 | EG | G G/ G/ | FE/D/ | E2 | E2 !segno!|| \
+w: Ho-di-e no-bis  de coe-lo pax ve-ra des-cen-dit pax ve-ra des-cen----dit
+[M:3/2] E>EE | EEF|D3|EE2| E>EE | E>EE | E3 | E2E| E>EE| E>ED|D3| EE2-|EDC|B,C2|B,3-|B,3 !fine!|] \
+w: Ho-di-e per to-tum mun-dum mel-li-flu-i fa-ct sunt coe-li mel-li-flu-i fa-cti sunt coe-li fa--cti sunt coe--li
+[M:2/2] Z57 !segno!|] \
+%----------

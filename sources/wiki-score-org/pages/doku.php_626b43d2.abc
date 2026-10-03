@@ -1,0 +1,23 @@
+X:604
+T:Tristis est anima mea
+C:Frei Manuel Cardoso
+M:C|
+L:1/4
+K:C
+V: 4 clef=bass name="Bassus" sname="B."
+%%MIDI program 1 1
+%%staves [ 4 ]
+[V: 4] G,3 C, | C,2 G,2- | G, D, D,2 | B,,2 F,, F,- | F, E, D,2 | D,2 G,, G,- |
+w: Tris-tis est a--ni-ma me-a us--que ad mor-tem us-
+%
+[V: 4] G, F, _E,2 | F,4 | B,,2 B,,2- | B,, F, F,2- | C,3 D, | G,,2 z G, | G, C, F, G, |
+w:  -que ad mor-tem sus--ti-ne--te hic et vi-gi-la-te
+%
+[V: 4] C,2 G,,2 | z C,2 F, | F,3/ F,/ C, G, | G, F,2 G, | G, C,/ C,/ D, G,,- | G,, D, D, G,,/ G,,/ | D,4 ||
+w: me-cum nunc vi-de-bi-tis tur-bam quae cir-cum-da-bit me quae ~ cir-cum-da-bit me.
+%
+[V: 4] !segno! z D, G,2- | G, ^F, G, C, | F,2 C, C, | G, ^F, G,2 | D B,,2 C, | D,2 C,2 | D,2 D,2 |
+w: Vos fu--gam ca-pi e-tis et e-go va-dam im-mo-la-ri pro vo-
+%
+[V: 4] !fine! G,,4 || x4 x4 x4 x4 x2 || \
+w: bis.

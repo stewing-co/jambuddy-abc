@@ -1,0 +1,69 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Galopp  BbFEb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhause, St. Gallen I. S.60 (GL00039) orig. Bb,F,Eb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/8
+K:Bb %%MIDI gchordon
+"Bb"f2d>e | f=e .f2 | f2 b>a | "Cm/Eb"g^f g2 | "F7"g2 e>d | cd .e2 | 
+f2g>a | "Bb"b2z2:: [K:F] "F"a>a b>a | "C7"g^f .g2 | g2 a>g | "F"fga2 | 
+a>a gf | "C7"eg b2 | "Gm"b2"C7"e>g | "F"f2z2 :: [K:Bb] "F7"e2c'2 | zc' d'>c' | "Bb"b2f2 | zb a>b | "Eb".c'2.b2 | 
+"F7".a2g2 | "Bb"Tg2f2 | Tg2f2 | "F7"e2c'2 | zc' d'>c' | "Bb"b2f2 | zb ab | "Eb"g2c'2 | "F7"zf ga | 
+"Bb"b>b b>b | b2z2 :: [K:Eb] "Eb"B2g2 | gf ed | "Ab"c2a2 | ag fe | "Bb7"d2b2 | a2d2 | "Eb"e4 | 
+"Bb7"fe dc | "Eb"B2g2 | gf ed | "Ab"c2a2 | ag fe | "Bb7"d2b2 | a2d2 | "Eb"e>e e>e | e2z2 :| 
+
+X:2
+T:Galopp  FCBb 5- chords
+M:2/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+"F"c2A>B | c=B .c2 | c2 f>e | "Gm/Bb"d^c d2 | "C7"d2 B>A | GA .B2 | 
+c2d>e | "F"f2z2:: [K:Cmaj] "C"e>e f>e | "G7"d^c .d2 | d2 e>d | "C"cde2 | 
+e>e dc | "G7"Bd f2 | "Dm"f2"G7"B>d | "C"c2z2 :: [K:Fmaj] "C7"B2g2 | zg a>g | "F"f2c2 | zf e>f | "Bb".g2.f2 | 
+"C7".e2d2 | "F"Td2c2 | Td2c2 | "C7"B2g2 | zg a>g | "F"f2c2 | zf ef | "Bb"d2g2 | "C7"zc de | 
+"F"f>f f>f | f2z2 :: [K:Bbmaj] "Bb"F2d2 | dc BA | "Eb"G2e2 | ed cB | "F7"A2f2 | e2A2 | "Bb"B4 | 
+"F7"cB AG | "Bb"F2d2 | dc BA | "Eb"G2e2 | ed cB | "F7"A2f2 | e2A2 | "Bb"B>B B>B | B2z2 :| 
+
+X:3
+T:Galopp  CGF 10- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"G2E>F | G^F .G2 | G2 c>B | "Dm/F"A^G A2 | "G7"A2 F>E | DE .F2 | 
+G2A>B | "C"c2z2:: [K:Gmaj] "G"B>B c>B | "D7"A^G .A2 | A2 B>A | "G"GAB2 | 
+B>B AG | "D7"FA c2 | "Am"c2"D7"F>A | "G"G2z2 :: [K:Cmaj] "G7"F2d2 | zd e>d | "C"c2G2 | zc B>c | "F".d2.c2 | 
+"G7".B2A2 | "C"TA2G2 | TA2G2 | "G7"F2d2 | zd e>d | "C"c2G2 | zc Bc | "F"A2d2 | "G7"zG AB | 
+"C"c>c c>c | c2z2 :: [K:Fmaj] "F"C2A2 | AG FE | "Bb"D2B2 | BA GF | "C7"E2c2 | B2E2 | "F"F4 | 
+"C7"GF ED | "F"C2A2 | AG FE | "Bb"D2B2 | BA GF | "C7"E2c2 | B2E2 | "F"F>F F>F | F2z2 :| 
+
+X:4
+T:Galopp  CGF 10- chords (align)
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"G2E>F | G^F .G2 | G2 c>B | "Dm/F"A^G A2 | "G7"A2 F>E | DE .F2 | \
+G2A>B | "C"c2z2 :: [K:Gmaj]
+ "G"B>B c>B | "D7"A^G .A2 | A2 B>A | "G"GAB2 | \
+B>B AG | "D7"FA c2 | "Am"c2"D7"F>A | "G"G2z2 :: [K:Cmaj] "G7"F2d2 |
+ zd e>d | "C"c2G2 | zc B>c | "F".d2.c2 | \
+"G7".B2A2 | "C"TA2G2 | TA2G2 | "G7"F2d2 | zd e>d | "C"c2G2 |
+ zc Bc | "F"A2d2 | "G7"zG AB | \
+"C"c>c c>c | c2z2 :: [K:Fmaj] "F"C2A2 | AG FE | "Bb"D2B2 | BA GF |
+ "C7"E2c2 | B2E2 | "F"F4 | \
+"C7"GF ED | "F"C2A2 | AG FE | "Bb"D2B2 | BA GF | "C7"E2c2 | B2E2 | "F"F>F F>F | F2z2 :| 
+
+X:5
+T:Galopp EbBbAb (5letras) cf. CGF 10- chords
+M:2/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+"Eb"B2G>A | B=A .B2 | B2 e>d | "Fm/Ab"c=B c2 | "Bb7"c2 A>G | FG .A2 | 
+B2c>d | "Eb"e2z2:: [K:Bbmaj] "Bb"d>d e>d | "F7"c=B .c2 | c2 d>c | "Bb"Bcd2 | 
+d>d cB | "F7"Ac e2 | "Cm"e2"F7"A>c | "Bb"B2z2 :: [K:Ebmaj] "Bb7"A2f2 | zf g>f | "Eb"e2B2 | ze d>e | "Ab".f2.e2 | 
+"Bb7".d2c2 | "Eb"Tc2B2 | Tc2B2 | "Bb7"A2f2 | zf g>f | "Eb"e2B2 | ze de | "Ab"c2f2 | "Bb7"zB cd | 
+"Eb"e>e e>e | e2z2 :: [K:Abmaj] "Ab"E2c2 | cB AG | "Db"F2d2 | dc BA | "Eb7"G2e2 | d2G2 | "Ab"A4 | 
+"Eb7"BA GF | "Ab"E2c2 | cB AG | "Db"F2d2 | dc BA | "Eb7"G2e2 | d2G2 | "Ab"A>A A>A | A2z2 :| 
+

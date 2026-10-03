@@ -1,0 +1,58 @@
+X:1                          % number
+T:Le tailleur de pierre                           % title
+C:Trad.                           % composer
+O:France                           % origin.
+M:3/8                           % meter
+L:1/8                        % length of shortest note
+Q:                           % tempo
+K:C                           % key
+V:1                          % voice 1
+"C"cdg | "G7"g2a | "F"fg2 | "F"f2e | "G7"def | "G7"g2a | "F"fg2 | "G7"d3 ::
+"C"cde | "F"f2e | "C"cd2 | "C"c2G | "C"cde | "F"f2e | "C"cd2 | "C"c3 :|
+
+ 
+
+X:2                          % number
+T:Las cinc anglanas
+R:Bourrée à 3 temps                           % title
+C:Trad.                           % composer
+O:France                           % origin.
+M:3/8                           % meter
+L:1/8                        % length of shortest note
+Q:                           % tempo
+K:C                           % key
+V:1                          % voice 1
+"G7"G | "C"c2e | "G7"d/e/fe | "G7"ded | "C"c2e | "G7"d/e/fe | "G7"d2 ::
+"G7"G | "C"c2d | "C"e/d/cB | "F"ABG | "C"c2d | "C"e/d/cB | "C"c2 :|
+
+ 
+
+X:3                          % number
+T:De delai lo rivatèl                           % title
+C:Trad.                           % composer
+O:France
+A:Auvergne                           % origin.
+M:3/8                           % meter
+L:1/8                        % length of shortest note
+Q:                           % tempo
+K:C                           % key
+V:1                          % voice 1
+e/f/ | gg/a/g/^f/ | g2 d/e/ | f g/f/e/d/ | e !breath!c e/f/ | gg/a/g/^f/ |
+g2 d/e/ | f g/f/e/d/ | c2 :: G | c c/d/e/c/ | d2 d/e/ |
+f g/f/e/d/ | e !breath!c G | c c/d/e/c/ | d2 d/e/ | f g/f/e/d/ | c2 :|
+
+
+X:4                          % number
+T:De que faran ?                           % title
+C:Trad.                           % composer
+O:France                           % origin.
+M:3/8                           % meter
+L:1/8                        % length of shortest note
+Q:                           % tempo
+K:Cm                           % key
+V:1                          % voice 1
+"Cm"c | "Cm"e2e | "G7"d2G | "Cm"c/=B/ cd | "Cm"ed c |"Cm"e2e | "G7"d2G | "Cm"c/d/ ed | "Cm"c2 ::
+"Cm"c | "G7"G2c | "G7"=B2G | "Cm"c/=B/ cd | "Cm"ed c | "G7"G2c | "G7"=B2G | "Cm"c/d/ ed | "Cm"c2 :|
+
+ 
+

@@ -1,0 +1,87 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Bergeret sans roch, Reprise 1
+C:Tielman Susato
+S:Tileman Susato: Danserye (1551)
+R:Basse dance
+M:3/2
+L:1/2
+K:C
+%
+"^Reprise"EEE|CCC|E>C D/E/|F2F|E>D C/B,/|CD>C|C2B,|C2z:|
+"^segno"EEE|D>E F/D/|G2^F|G2z|F>E D/C/|DE>D|D2^C|D2z|
+EEE|D>E F/D/|G2^F|G2z|E>D C/B,/|CD>C|C2B,|C2z|
+EEE|C2C|E>C D/E/|F2z|E>D C/B,/|CD>C|C2B,|C2z|
+EEE|C2C|E>C D/E/|F2z|E>D C/B,/|CD>C|C2B,|"^Fine"C2z|
+EEE|C2C|E>C D/E/|F2z|E>D C/B,/|CD>C|C2B,|"^D.S. al fine"C3|]
+
+X:2
+T:Bergeret sans roch, Reprise 1
+C:Tielman Susato
+S:Tileman Susato: Danserye (1551)
+R:Basse dance
+M:3/2
+L:1/2
+T: Altus
+K:C -8va
+%
+ccc|G2c|cG_B|c2c|c2G|AAA|FG2|E2z:|
+ccc|B>cd|cd2|B2z|d>cA|AcA|GA2|A2z|
+ccc|B2d|cd2|B2z|c>BG|A_BG|FG2|E2z|
+ccc|G2c|cG_B|c2c|c2G|A_BG|FG2|E2z|
+ccc|G2c|cG_B|c2c|c2G|A_BG|FG2|E2z|
+ccc|G2c|cG_B|c2c|c2G|A_BG|FG2|E3|]
+
+X:3
+T:Bergeret sans roch, Reprise 1
+C:Tielman Susato
+S:Tileman Susato: Danserye (1551)
+R:Basse dance
+M:3/2
+L:1/2
+T: Tenor
+K:C -8va
+%
+GGG|E2F|G>E F/2G/2|A2F|G>F E/2D/2|EFE|CD2|C2z:|
+GGG|G2F|GA2|G2z|A>G F/2E/2|FGF|DE2|D2z|
+GGG|G2F|GA2|G2z|G>F E/2D/2|EFE|CD2|C2z|
+GGG|E2F|G2G|A2z|G>F E/2D/2|EFE|CD2|C2z|
+GGG|E2F|G2G|A2z|G>F E/2D/2|EFE|CD2|C2z|
+GGG|E2F|G2G|A2z|G>F E/2D/2|EFE|CD2|C3|]
+
+X:4
+T:Bergeret sans roch, Reprise 1
+C:Tielman Susato
+S:Tileman Susato: Danserye (1551)
+R:Basse dance
+M:3/2
+L:1/2
+T:Bassus
+K:C bass
+%
+ccc|c2F|c2_B|F2F|c2c|AFA-|AG2|C2z:|
+%
+ccc|G2d|ed2|G2z|d2d|dcd|_BA2|d2z|
+%
+ccc|G2d|ed2|G2z|c2c|c_Bc|AG2|c2z|
+%
+ccc|c2F|c2_B|F2F|c2c|c_Bc|AG2|c2z|
+%
+ccc|c2F|c2_B|F2F|c2c|c_Bc|AG2|c2z|
+%
+ccc|c2F|c2_B|F2F|c2c|c_Bc|AG2|c3|]

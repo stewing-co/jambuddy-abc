@@ -1,0 +1,123 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Grace et vertu, bont\\'{e}, beault\\'{e}, noblesse
+T:Cantus
+C:Guillaume Le Heurteur
+z:Transcribed by Laura Conrad http://www.laymusic.org
+B: Gardane, 3-part Chansons, 1541
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+N:Original clef, C on first line
+K:G dor
+z2 G2 B c d 
+w: Gra- ce~et ver- tu,
+d d d c/ B/ A/ G/ F2
+w: bon- t\'{e}, beaul- t\'{e}, * * * *
+z c c c B > A F/ G/ A > G F E F/ G/ A/ D/ d2 
+w: bon- t\'{e}, beaul- t\'{e},  * * * * * * * * * * * *
+d c2 B4
+w: no- bles- se.
+z4 z3 G G G A2 F 
+w: Sont a m'a- my- e
+F G G B B A > B c d2 c d6
+w:  point ne le fault ce- ler; * * * * *
+z2 z A A A c > c B G B B A 
+w: Trop me des'plaict d'en ou- yr mal par- ler,
+D D/ E/ F/ G/ A/ B/ c
+w:par- ler, * * * * * * *
+C > D E/ F/ G/ A/ B/ c/ d c B2 A G/ F/ B2 A B2
+w: d'en  * * * * * * * * ou- yr mal * *  par- * ler,
+|: z G B c  d d d d c/ B/ A/ G/ F2
+w: Je hay cel-  luy qui l'hon- neur d'el- * * *  le,
+z c c c B > A F/ G/ A > G F E F/ G/ A/ D/ d > c B A
+w:qui l'hon- neur d'el- * * * * * * le, * * * * * * * *
+B > A  G2 ^F |1 G2  :|2 G2 |]
+w: bles- * * * se. se.
+
+X:2
+T:Grace et vertu, bont\\'{e}, beault\\'{e}, noblesse
+T:Tenor
+C:Guillaume Le Heurteur
+z:Transcribed by Laura Conrad http://www.laymusic.org
+B: Gardane, 3-part Chansons, 1541
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+N:Original clef C on first line
+K:G dor
+z4 z2 D2 F G A2
+w: Gra- c~et ver- tu,
+z A A A G 
+w: bon- t\'{e}, beaul- t\'{e}, 
+E  G > F D/ E/ F/ G/ A/ B/ c > B A/ G/ F B > A G2 ^F G
+w: no- bles- * * * * * * * * * * * * * * * * se.
+D D D E2 C F > E D/ C/ B,2
+w: Sont a m'a- my- * * * * * e 
+z D D C D2 E2 F > E F/ G/ A > F E > A G2 ^F G2
+w: point ne le fault ce- ler; * * * * * * * * * *
+z D D D F > F E C E F G3/2 F// E// D/ C/ D/ E/ F2
+w: Trop me des- plaict d'en ou- yr mal par- ler, * * * * * * *
+z F > G A > G E/ F/ G > F D > E F G F > E D C/ B,/ C2 B,2 
+w: mal * * * * * * * * * * *  par- * * * * *  ler, 
+|: z4 z D F G A2 z A A A G E 
+w: Je hay cel-  luy qui l'hon- neur d'el- le,
+G > F D/ E/ F/ G/ A/ B/ c > B A/ G/ F B > A G2 F G2 A2 |1 G2"(1)"  :|2 G2 |]
+w: bles- * * * * * * * * * * * * * * * * * * se. se.
+N: This note should be a whole note, tying over the bass pickup on the repeat. according to the AR editor.
+
+X:3
+T:Grace et vertu, bont\\'{e}, beault\\'{e}, noblesse
+T:Bassus
+C:Guillaume Le Heurteur
+z:Transcribed by Laura Conrad http://www.laymusic.org
+B: Gardane, 3-part Chansons, 1541
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C|
+L:1/2
+N:Original clef, C on third line
+%%MIDI transpose -12
+K:G dor -8va
+G2 B c d _e f/ _e/ d/ c/ B2 A 
+w: Gra- c~et ver- tu, * * * * * * *
+d d d c
+w: bon- t\'{e}, beaul- t\'{e},
+A c > B G/ A/ B2 A/ G/ F/ G/ A/ B/ c 
+w: no- bles- * * * * * * * * * * se,
+d d/ c/ B/ A/ G2 A2 G2
+w: no- bles- * * * * * se.
+z G G G A2 F
+w: Sont a m'a- my- e 
+F G G B B A2
+w: point ne le fault ce- ler,
+z d c c B > c d/ e/ f2 d _e2 d2
+w: point ne le fault * * * * *  ce- ler;
+z G G G B > B A F A2 A2 G4
+w: Trop me des- plaict d'en ou- yr  mal par- ler,
+z B > c d > c A > B c > B G > A B A G B F G2 F2
+w:(d'en * * * * * * * * * * ou- yr  mal * par- ler,)
+z G |:B c d _e f/ _e/ d/ c/ B2 A d d d c A 
+w: Je hay cel-  luy * * * * * * *  qui l'hon- neur d'el- le,
+c > B G/ A/ B2 A/ G/ F/ G/ A/ B/ c d > c B/ A/ G2 d2 _e2 d2 |1 z  G :|2 G2 |]
+w: bles- * * * * * * * * * * * * * * * * * *  se. Je se.

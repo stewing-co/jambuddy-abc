@@ -1,0 +1,102 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XII. Fine knacks for ladies,
+T:Cantus
+C: John Dowland
+O: From The Second Booke of songs or Ayres of 2/ 4/ amd 5/parts: with Tableture for the Lute or orpherian, with the Violl de Gamba.
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:F
+c2 c c f2 c2 | c2 d c2 =B c2 | z c d d c3 A
+w:Fine knacks for la- dies, cheape choise brave and new, Good pen- ni- worths but
+w:Great gifts are guiles and looke for gifts a- gaine, My tri- fles come, as 
+w:With- in this packe pinnes points la- ces and gloves, And di- vers toies fit- 
+B F G G F4 | f2 e d c3 c | B A B c d4 | A  c2 G B2 A2 | G F F E
+w:mo- ny can- not move, I keepe a faiyer but for the faier to view, a beg- ger may bee li- ber- all of
+w:trea- sures from my minde, It is a pre- cious Je- well to bee plaine, Some- times in shell th'o- ri- enst pearles we 
+w:ting a coun- try faier, But my hart where du- e- ty serves and loves, Tur- tels and twins, courts brood, a heaven- ly 
+F4  |: z2 c2 d2 f2 | e2 d2 c4 | z c f d c4 A c2 =B | c4 z A c4
+w:love, Though all my wares bee trash the hart is true, the hart is true, the hart 
+w:finde, Of o- thers take a sheafe, of mee a graine, of mee a graine, of mee
+w:paier, Hap- py the hart that thincks of no re- moves, of no re- moves, of no
+G2 | F4 :|
+w:is true.
+w:a graine.
+w: re- moves.
+
+X:2
+T:XII. Fine knacks for ladies,
+T:Altus
+C: John Dowland
+O: From The Second Booke of songs or Ayres of 2/ 4/ amd 5/parts: with Tableture for the Lute or orpherian, with the Violl de Gamba.
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:F
+N:Original clef C on second line
+A2 A A A2 A2 A2 B G G2 G2 A2 A A G3 F G/ F/ F2 E
+w:Fine knacks for La- dies, cheape, choise, brave and new, good pen- i- worthes, but mo- ny can- not move, I keep a fayer, but for the fayer
+w:Great gifts are guiles and looke for gifts a- gaine, My tri- fles come, as trea- sures from my minde, It is a pre- cious Je- well to bee plaine, Some- times in shell th'o- ri- enst 
+w:With- in this packe pinnes points la- ces and gloves, And di- vers toies fit-
+F4 D F2 G A3 A D D D G ^F4 F2 C C D > E F E D C D G C4 |: A4 G2 F2 G3 F
+w: to view, a beg- ger may _ _ be li- ber- all of love, though all my wares be
+w: pearles we finde, Of o- thers take a sheafe, of mee a
+w:ting a coun- try faier, But my hart where du- e- ty serves and loves, Tur- tels and twins, _ _ courts brood, a heaven- ly 
+E3 G A3 B A3 G F2 F2 E3 E A3 G/ F/ E F2 E F4 :|
+w:trash, the heart is true, the heart is true, the heart _ _ _ is _ true.
+w:  graine, of mee a graine, of mee _ _ _  a _ graine.
+w:paier, Hap- py the hart that thincks of no re- moves, of no re- moves, of no _ _ _ re- * moves.
+
+
+X:3
+T:XII. Fine knacks for ladies,
+T:Tenor
+C: John Dowland
+O: From The Second Booke of songs or Ayres of 2/ 4/ amd 5/parts: with Tableture for the Lute or orpherian, with the Violl de Gamba.
+%%MIDI nobarlines
+%%MIDI transpose -12
+M:C|
+L:1/4
+K:F -8va
+N: Original clef C on third line
+f2 f f c2 f2 f f2 e d2 e2 f2 f f f3 c d A c c c4
+w:Fine knacks for La- dies, cheap, choise, brave and new, good pen- i- worthes but mo- ny can- not move,
+B B2 B A > B c A G A G > G A4 z A G > G F > G A/ B/ c G A B > B A4 |: c4 B2 A2 c2
+w:I keepe a fayer _ _ but for the fayer to view, a beg- ger may _ _ _ be li- ber- all of love, though all my wares
+=B2 c3 e c f c f f3 c c A A d G3 c c F A B c A c > G A4 :|
+w:be trash, the heart, the heart is true.  The heart, the heart is true is true, the heart is true, the heart is true.
+
+X:4
+T:XII. Fine knacks for ladies,
+T:Basso
+C: John Dowland
+O: From The Second Booke of songs or Ayres of 2/ 4/ amd 5/parts: with Tableture for the Lute or orpherian, with the Violl de Gamba.
+%%MIDI nobarlines
+%%MIDI transpose -24
+M:C|
+L:1/4
+K:F bass
+f2 f f f2 f2 f2 B c g2 c2 f2 B B
+w:Fine knacks for la- dies cheap, choise, brave and new, good pe- ni-
+f3 f B d c c F4 B > c d > e f3 f g ^f g _e d4 f2
+w:worthes, but mo- ny can- not move, I _ keep a fayer, but for the fayer to view, a
+e e d3 c B A G > G F4 |: f4 B2 d2 c2 g2 c > d e c f3 B
+w:beg- ger may be li- ber- all of love: though all my wares be trash, the heart is true, is
+f3 e f2 d2 c > d e c f3 e/ d/ c3 c F4 :|
+w:true, the heart is true, the hart is true, the _ heart is true.

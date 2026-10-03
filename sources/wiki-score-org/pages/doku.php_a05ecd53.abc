@@ -1,0 +1,17 @@
+X:905
+T:N.12
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 5 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%----------- edit between the lines ------------
+"_[fol. 28]" X | z "_pizz." !>!C,/ z/ | X4 |"_arco" z !>!C/!>!C,/ |\
+F,/C,/F,,/ z/  | X | z "_pizz." C,/ z/ | X |\
+"_[fol. 29]"  X8 | z !ff! ^B,//=G,//F,//E,// | \
+"_[fol. 30]" !>!D,/!>!F,//!>!=F,// !>!E,/!>!E,,/ |\
+"_sempre marcado" E,,/E,,//E,,// E,,/E,,/ | E,,/E,,//E,,// E,,/E,,/ | !sfz! (E,,2 |\
+E,,/) z/ z ||
+%-----------------------------------------------

@@ -1,0 +1,25 @@
+X:1208
+T:N.12 Cancao do soldado
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:D
+V: 8 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 8 }]
+%---
+!arpeggio!!xstem![D,,A,,D,] z z !arpeggio![D,,A,,D,] z z | \
+!arpeggio![D,,A,,D,] z z !arpeggio![D,,A,,D,] z z |: !arpeggio![D,,A,,D,] z z !arpeggio![D,,A,,D,] z z  | \
+zz[A,,(D,,]/D,/) [D,,A,,]zz | zzA,,/E,/ .A,,zz | zz[A,,(D,,]/D,/) [D,,A,,]zz | \
+!arpeggio!!xstem![D,,A,,D,] z z !arpeggio!!xstem![D,,A,,D,] z z | zz(E,,/E,/ .E,,)zz | \
+[E,^G,] z2 [E,B,]zz | zz(A,,/E,/) .A,,zz | !arpeggio![D,,A,,D,]zz  !arpeggio![D,,A,,D,]zz  | \
+zz[A,,(D,,]/D,/) [D,,A,,]zz | zzA,,/E,/ .A,,zz | zz[A,,(D,,]/D,/) [D,,A,,]zz | \
+.D,zz .=C,zz| .B,,zz .^G,,zz| .A,,zz !arpeggio![A,,G,]zz| !arpeggio![D,F,]z .A,,/.A,,/ .[D,D,,]zz || \
+[B,,F,]3 [E,G,]3 | [B,,F,]3 [E,G,]3 | F,3 E,>F,E, | [D,F,]3-[D,F,]z2 | \
+(G,6|F,6|E,6|!fermata!F,3)zz2 "_a tempo"|| \
+!arpeggio!!xstem![D,,A,,D,] z z !arpeggio![D,,A,,D,] z z | zz[A,,(D,,]/D,/) [D,,A,,]zz | \
+zzA,,/E,/ .A,,zz | zz[A,,(D,,]/D,/) [D,,A,,]zz | !arpeggio!!xstem![D,,A,,D,] z z !arpeggio![D,,A,,D,] z z | \
+zz(A,,/E,/) .A,,zz | [E,^G,]zz [E,B,]zz | zz(A,,/E,/) .A,,zz | \
+[D,,A,,D,] z z [D,,A,,D,] z z | zz[A,,(D,,]/D,/) [D,,A,,]zz | zz(A,,/E,/) A,,zz | \
+zz[A,,(D,,]/D,/) [D,,A,,]zz | .D,zz .=C,zz| .B,,zz .^G,,zz| .A,,zz [A,,G,]zz| [D,F,]z !f!.A,,/.A,,/ [D,D,,]zz |]
+%----

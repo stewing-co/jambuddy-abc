@@ -1,0 +1,97 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Blumen Polka  FCBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.236 (pk00793) orig. F,C,Bb-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"C7"cB B/A/B | "F"dc c/=B/c | "C7"fe {/f}ed | {/e}"F"dc!>!A2 | "C7"cB B/A/B | "F"dc c/=B/c | 
+"C7"fe d>e | "F"f3z :: [K:C] "Am"e>e e>e | "Dm"e/f/f ff | "G7"e/f/f ff | "C"ec/e/ "G7"dg | 
+"Am"e>e e>e | "Dm"e/f/f ff | "G7"fB/c/ de | "C"c3"_>Teil A"z :: [K:Bb]  "Bb"d>d d>d | 
+d3d | d>d cB | "F7"BAA2 | e>e e>e | e3e | e>e dc | 
+"Bb"cB!>!B2 | f>f f>f | f3^f | "Eb"g>g g>g | g3g | 
+!>!"F7"f2!>!e2 | "Bb"dd/c/ Bd | "F7"cc/B/ Ac |1 "Bb"B3F :|2 "Bb"B3z |] 
+W: Parts: ABAC
+X:2
+T:Blumen Polka  CGF 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"G7"GF F/2E/2F | "C"AG G/2^F/2G | "G7"cB {/c}BA | {/B}"C"AG!>!E2 | "G7"GF F/2E/2F | "C"AG G/2^F/2G | \
+"G7"cB A>B | "C"c3z :: [K:G]
+ "Em"B>B B>B | "Am"B/2c/2c cc | "D7"B/2c/2c cc | "G"BG/2B/2 "D7"Ad | \
+"Em"B>B B>B | "Am"B/2c/2c cc | "D7"cF/2G/2 AB |
+ "G"G3"_>Teil A"z :: [K:F] "F"A>A A>A | \
+A3A | A>A GF | "C7"FEE2 | B>B B>B | B3B | B>B AG | \
+"F"GF!>!F2 |
+ c>c c>c | c3^c | "Bb"d>d d>d | d3d | \
+!>!"C7"c2!>!B2 | "F"AA/2G/2 FA | "C7"GG/2F/2 EG |1 "F"F3C :|2 "F"F3z |] 
+W:Parts: ABAC
+% pk00793
+X:3
+T:Blumen Polka  CGF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"G7"GF F/2E/2F | "C"AG G/2^F/2G | "G7"cB {/c}BA | {/B}"C"AG!>!E2 | "G7"GF F/2E/2F | "C"AG G/2^F/2G | \
+"G7"cB A>B | "C"c3z :: [K:G]
+ "Em"B>B B>B | "Am"B/2c/2c cc | "D7"B/2c/2c cc | "G"BG/2B/2 "D7"Ad | \
+"Em"B>B B>B | "Am"B/2c/2c cc | "D7"cF/2G/2 AB |
+ "G"G3"_>Teil A"z :: [K:F] "F"A>A A>A | \
+A3A | A>A GF | "C7"FEE2 | B>B B>B | B3B | B>B AG | \
+"F"GF!>!F2 |
+ c>c c>c | c3^c | "Bb"d>d d>d | d3d | \
+!>!"C7"c2!>!B2 | "F"AA/2G/2 FA | "C7"GG/2F/2 EG |1 "F"F3C :|2 "F"F3z |] 
+W:Parts: ABAC
+% pk00793
+X:4
+T:Blumen Polka DA&G (tinwhistle in D)
+T:pk00793 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"A7"AG G/2F/2G | "D"BA A/2^G/2A | "A7"dc {/d}cB | {/c}"D"BA!>!F2 | "A7"AG G/2F/2G | "D"BA A/2^G/2A | \
+"A7"dc B>c | "D"d3z :: [K:A]
+"F#m"c>c c>c | "Bm"c/2d/2d dd | "E7"c/2d/2d dd | "A"cA/2c/2 "E7"Be | \
+"F#m"c>c c>c | "Bm"c/2d/2d dd | "E7"dG/2A/2 Bc |
+"A"A3"_>Teil A"z :: [K:G] "G"B>B B>B | \
+B3B | B>B AG | "D7"GFF2 | c>c c>c | c3c | c>c BA | \
+"G"AG!>!G2 |
+d>d d>d | d3^d | "C"e>e e>e | e3e | \
+!>!"D7"d2!>!c2 | "G"BB/2A/2 GB | "D7"AA/2G/2 FA |1 "G"G3D :|2 "G"G3z |] 
+W:Parts: ABAC
+X:5
+T:Blumen Polka DA&G (tinwhistle in D) solo
+T:pk00793 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D transpose=12
+AG G/2F/2G | BA A/2^G/2A | dc {/d}cB | {/c}BA!>!F2 | AG G/2F/2G | BA A/2^G/2A | \
+dc B>c | d3z :: [K:A]
+c>c c>c | c/2d/2d dd | c/2d/2d dd | cA/2c/2 Be | \
+c>c c>c | c/2d/2d dd | d"_#"G/2A/2 Bc | 
+"_>Teil A"A3z ::[K:G]  B>B B>B | \
+B3B | B>B AG | GFF2 | "_c"c>c c>c | c3c | c>c BA | \
+AG!>!G2 |
+d>d d>d | d3^d | e>e e>e | e3e | \
+!>!d2!>!"_c"c2 | BB/2A/2 GB | AA/2G/2 FA |1 G3D :|2 G3z |]
+W:Parts: ABAC
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 3, 2016

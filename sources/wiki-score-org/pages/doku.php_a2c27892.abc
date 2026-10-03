@@ -1,0 +1,147 @@
+X:309
+T:Credo
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 9 clef=bass name="Basso" sname="B."
+%%MIDI program 1 1
+%%staves [[ 9 ]]
+%------------------
+[Q:"Andante"] !p! E,G,/> G,/A,=A, | B,=B,Cz | \
+w: Cre-do in u-num De-um
+!f!_B,B,/ B,/B,B, | B,4 | E,zz2 | Z |\
+w: Pa-trem o-mni-po-ten-tem
+!f!B, B,/> B,/ B,B, | B,4 | E,!p!E,E,E, | E, E,/ E,/ F, B,, | E,!p!E,E,E, | E,_A,G,!f!_G, | F,4 | B,zz2 | \
+w: Pa-trem o-mni-po-ten-tem fa-cto-rem coe-li et ter--ra fa-cto-rem cae--li et ter-ra
+!f!CF,B,E,/ E,/ | =A,D,G,z | \
+w: vi-si-bi-li-um o-mni-um
+!f! B,/ B,/ B,/ B,/ B, B,| B,/ B,/ B,/ B,/ B, B, | B,zz2 | Z | \
+w: et in-vi-si-bi-li um in-vi-si-bi-li-um
+!f!B,, (C,/D,/) E,F, | _G,> G, G, !p!G,/ G,/ | _G,4 | _G, "?check ms" !p! x G,G, | _C,C,=A,,A,,|!p!B,,2B,,2| E,zz2 |\
+w: Et in_ u-num Do-mi-num Je-sum Chris-tum Fi-lium De-i u-ni-ge-ni-tum
+z !f!E,/ E,/ D, B,, | E,/ E,/ zz2 | Z | \
+w: et ex Pa-tre na-tum
+z2 !f! E, E,/> E,/ | F,2F,z | \
+w: De-um de De-o
+!f!C,C,/> C,/C,>C, | F,zz2 |
+w: lu-men de lu-mi-ne
+!f!B,,2 D,2 | E,2 E, z/ E,/ | D,2 B,,2 | E,2E,z | \
+w: De-um ve-rum de De-o ve-ro
+!p!CB,A,G, | ^F,2 G,z | \
+w: Ge-ni-tum non fa-ctum
+!p! CB,A,/ A,/ G,/ G,/ | ^F,2 G, G,/ G,/ | A, A,/ A,/ =A, A, | B,z \
+w: con-subs-tan-ti-a-lem Pa-tri per quem o-mni-a fa-cta sunt
+=A, A, | B,zz2 | Z3 | \
+w: fa-cta sunt
+z2z !p!C, | _D,2 D,D, | C,>C,C,C, | !p!_D,D,D,D,/ D,/ | =D,4 | E,zz \
+w: qui pro-pter nos ho-mi-nes et pro-pter_ nos-tram lu-tem
+!p! E, | D,2 D,D, | E,2E,z/ \
+w: des-cen-dit de coe-lis
+E,/ | _C2CC | B,2 B,!p!B, | =A,4 | !fermata!B,4 || \
+w: des-cen-dit des-cen-dit de coe-lis
+[Q:"Largo"][K:Gb][M:6/8] Z9 | zz/ z!p!B,,/ | E,G,/ CB,/ |  !>!=A,z/ zz/ | \
+w: et ho-mo fa-ctus est
+z !p!B,,/B,,B,,/ | B,,B,,/B,, z/ | Z3 | z \
+w: et ho-mo fa-ctus est
+!p! B,/ C3/2 | B,z/zz/ |
+w: et ho-mo
+z!p! B,/ C3/2 | B,!p!B,/ B,B,/ | B,3/2 B,3/2 | !fermata!B,3 || \
+w: et ho-mo et ho-mo fa-ctus est
+[Q:"Andante"][K:Eb][M:C] Z4 |!p!G,G,D,2 | G,zz2 | \
+w: Cru-xi-fi-xus
+!p!D,/ C,/ =B,,/ G,/ (C,/D,/E,/^F,/) | G,zz2 | \
+w: e-tiam pro_ no----bis
+!p!E,2E,2 |F,F,z2 | \
+w: Cru-xi-fi-xus
+!p! G,/ =A,/ =B,/ C/ D B, | C !p! F, _B, E, | =A, D, (G, _E,) | D, z \
+w: e-ti-am pro no--bis sub Pon-ti-o Pi-la--to
+!p! D,/ D,/ D,/ D,/ | D,D,D,z | \
+w: pas-us est se-pul-tus est
+z2z !f! D,/ D,/ | D, D, D, !f! D,/ D,/ | ^D,D,=E,E, | C,2 C,C, | D,2 D,2 || [Q:"Allegro Moderato"][K:G][M:C] G,zz2 | Z3 | \
+w: et se-pul-tus est et se-pul-tus est'et se-pul-tus se-pul-tus est
+!f!G,2G,G, | F,2F,z | !f!E D/ C/ B,G,/ G,/ | E D/ C/ B,G, | z2z \
+w: Et re-sur-re-xit ter-ti-a di-e se-cun-dum scri-ptu-ras
+!f!C | B,2B,B, | A,2 A,G, | F,2 F,z |\
+w: se-cun-dum se-cun-dum scri-ptu-ras
+!p!F,2F,2 | E,2E,z/   \
+w: Et as-cen-dit
+A,,/ | A,,2A,,^C, | D,2D,z |  \
+w: as-cen-dit in coe-lum
+!p!D2=CC | B,2B,B, | A,4 | G,zz \
+w: se-det ad dex-te-ram Pa-tris
+=F, | E,/ C/ C/ C/ B,G, | CA,=F,G, | C!f!CB,G, | CA,=F,G, | C, !f!C/ C/ C C | A,2A,2 | !f!F,2^F,D, | G,>G,G, !f! G,/ G,/ | G, !f! G,/ G,/ G, G, | G, !f! G,/ G,/ G, G, | G,4 | !fermata!G,4 | \
+w: Et i-te-rum ven-tu-rus est ve-tu-us est cum glo-ri-a cum glo-ri-a ju-di-ca-re vi-vos vi-vos et mor-tu-os cu-jus re-gni non e-rit fi-nis non e-rit fi-nis
+!f!C C/ C/ G,G,| C,2C,z |
+w: Cre-do in u-num De-um
+!p! (C/B,/) A,/ G,/ F, D, | G,2 G, z/ \
+w: Pa--trem o-mni-po-ten-tem
+!p! _E,/ | _E,E,E,E,/ E,/ | _E,2E,z/ \
+w: fa-cto-rem coe-li et ter-ra
+E,/ | _E,E,E,E,/ E,/ | D,4 | G,z/ \
+w: fa-cto-rem coe-li et ter-ra
+!f!G,/ G,G, | F,2F,z | E D/ C/ B,G,/ G,/ | E D/ C/ B,G, | z2z \
+w: Et re-sur-re-xit ter-ti-a di-e se-cun-dum scri-ptu-ras
+!f! C | B,2B,B, | A,2A,G, | F,2F,z | \
+w: se-cun-dum se-cun-dum scri-ptu-ras
+!f!F,2D,2 | ^C,2C,z/ \
+w: et as-cen-dit
+!f! C,/ | ^C,2C,A,, | D,2D,z | \
+w: as-cen-dit in coe-lum
+!p!D2 =CC | B,2B,B, | A,4 | G,zz \
+w: se-det ad dex-ter-am Pa-tris
+=F, | E,/ C/ C/ C/ B,G, | C!f!A,=F,G, | C,!f!C/ C/B,B, | A,G,/ G,/^F,=F, | E,!f!E,/ E,/E,E, | E,2E,E, | E,2E,2 | !fermata!E,4 | Z4 |\
+w: Et i-te-rum ven-tu-rus est cum glo-ri-a ju-di-ca-re vi-vos et mor-tu-os ju-di-ca-re vi-vos et mor-tu-os
+z2z "^Solo" !p!A,/ A,/ | ^G,2 G, G, | F,2 F,2 |  E,>E, E,z | Z2 | \
+w: Et in Spi-ri-tum San-ctum Do-mi-num
+!p!E,2>D2 | ^C2Cz | \
+w: qui ex Pa-tre
+!p!^CB,/ B,/ A,A, | E,E,z !p!E,/ E,/ | D,2D,D, | C,>C,C,z | \
+w: Fi-li-o que pro-ce-dit Qui-cum Pa-tre et Fi-li-o
+!p!D,>D,D,D, | C,2C,!f!C, | =F,G,A,B, | C2CC/ C/ | !p!A,3G, | =F,zz2 |  \
+w: si-mul a-do-ra-tur et con-glo-ri-fi-ca-tur Gui-lo cu-tus est
+G,G,(G,=F,) | E,z\
+w: per pro-phe--tas
+!f!=F,^F, | G,4 | Cz \
+w: per pro-phe-tas
+!f!C,2 | C, z G,2 | C,zC,2 | C,z!p!(D,C,) | !p! !fermata! B,,4 || \
+w: Cre-do Cre-do Cre-do Cre--do
+[Q:"Allegro"][K:Eb][M:C] !f!C,/ | C,C=B,G,/ G,/ | C>C C/ C/ C/ C/  | !f!F,>F,F,^F, | G,>!f!G,G,z | \
+w: Et u-nam_ san-ctam Ca-tho-li-cam et'A-pos-to-li-cam Ec-cle-si-am
+z2z !f!=B, | C>C C/ C/ C/ C/ | =B,B,z \
+w: con-fi-te-or u-num Bap-tis-ma
+!f!=B,/ B,/ | C>C C/ C/ C/ C/ | =B,B,!f!B,B, | B, B, B,/ B,/ B,/ B,/ | B,B,!f!B,B, | B,B,!f!E,E, | G,4 | G,zz2 | Z |\
+w: in re-mis-si-o-nem pec-ca-to-rum pec-ca-to-rum in re-mis-si-o-nem pec-ca-to-rum pec-ca-to-rum
+!p!=B,>B,B,B, | CCz2 |Z2 | \
+w: in re-mis-si-o-nem
+!p!C,3C, | _D,2D,z | Z2 | \
+w: pec-ca-to-rum
+!p!=D,2 D,2 | E,2 E,z | Z | \
+w: pec-ca-to-rum
+!f! F,F,^F,2 | G,zz2 | \
+w: pec-ca-to-rum
+!f! G,G,G,2 | C,zz2 | Z || \
+w: pec-ca-to-rum
+[Q:"Sostenuto"][K:Eb][M:C] !f!E,E,E,D,/z/ | \
+w: Et ex-pe-cto
+!p!C,/ C,/ C,/ C,/ C,C, | A,A,A,2 | !fermata!G,4 || [Q:"Moderato"][K:Eb][M:2/4] z/ | Z8 | zz/\
+w: re-sur-re-cti o-nem mor-tuo--rum
+!p!B,,/ | E,E,/ E,/ | F,F, | G,2 | F,E, | !p!D,B,, | (C,D,) | E,!p!C | A,B,| !f!E,/ E,/ F,/ G,/ | A,/ F,/ B,/ A,/ | G,!p!F,| =E,C, | !p!F,_E, | D,!f!B,, | E,C | =B,G, | Cz | Z5 |\
+w: Et vi-tam ven-tu-ri sae-cu-li A-men A--men A-men A-men A-men A-men A-men A-men A-men A-men A-men A-men A-men A-men
+z!f!G, | Cz | Z | \
+w: A-men
+z!f!G, | Cz/ \
+w: A-men
+F,/ | B,!f!z/E,/ | A,!f!z/D,/ | G,z/C,/ | F,2| ^F,2 | G,z/  \
+w: A-men A-men A-men A-men A-men
+!f!G,/ | G, G,/ G,/ | G,G, | G,>G, | Cz/F,/ | B,z/E,/ | A,z/D,/ | G,z/C,/ | F,F, | G,G, | C,z | Z8 | \
+w: Et vi-tam ven-tu-ri sae-cu-li A-men A-men A-men A-men A-men A-men
+!f!C2 | A,2 | B,2 | E,z | Z5 | z!f!G, | G,G, | Cz | Z2 |  \
+w: A-men A-men A-men A-men
+z !f!_A, | G,2 | F,D, | E,2 | !f!E,2  | B,2 | !f!B,,2 | E,!p!E, | E,E, | E,z | Z2 |  \
+w: A-men A--men A-men A-men A-men A-men
+!p! B,2 | E,!p!E, | E,E, | E,z | Z2 |
+w: A-men A-men A-men
+!p! B,,2- | B,,2 | E,z | Z2 |]
+w: A--men.
+%------------------

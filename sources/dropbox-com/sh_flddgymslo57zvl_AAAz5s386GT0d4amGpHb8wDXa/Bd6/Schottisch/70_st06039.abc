@@ -1,0 +1,85 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: In bester Laune (Schottisch)  FCBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.315 (st06039) orig. F,C,Bb-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"f2f2 fedc | "C7"e2e2 d2Bc | e2e2 edcB | "F"d2d2 c2ce | f2cf acfa  |1 "C7"bceg c'2ce | g2ce bceg | "F"acfa c'2ce :|2 
+"Bb"c'2b2 d3b | "F"acfa "C7"gceg | "F"f2a2 f2z2 :: [K:C] "tr""C7"g2ec G2gg | "tr""G7"g2fg b2a2 | "tr"g2^fg bg=fB | "C"cegc' egce | 
+g2ec G2gg | "tr""G7"g2fg b3a |  "tr"g2fg bgfB | "C"c2eg "_>Teil A".c'4 :: [K:Bb] "Bb"ddd2 dgf2 | "Eb"eee2 eag2 | 
+"F7"f2ff d'3c' | "Bb"c'2b2 agfe | ddd2 dgf2 | "Eb"eee2 eag2 | "F7"fff2 afga | "Bb"b2fd .B4 :| 
+W:ABAC
+X:2
+T:In bester Laune (Schottisch)  CGF 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"c2c2 cBAG | "G7"B2B2 A2FG | B2B2 BAGF | "C"A2A2 G2GB | c2Gc eGce |1 "G7"fGBd g2GB | d2GB fGBd | "C"eGce g2GB :|2 
+"F"g2f2 A3f | "C"eGce "G7"dGBd | "C"c2e2 c2z2 :: [K:G] "tr""G7"d2BG D2dd | "tr""D7"d2cd f2e2 | "tr"d2^cd fd=cF | "G"GBdg BdGB | 
+d2BG D2dd | "tr""D7"d2cd f3e | "tr"d2cd fdcF | "G"G2Bd "_>Teil A".g4 :: [K:F] "F"AAA2 Adc2 | "Bb"BBB2 Bed2 | 
+"C7"c2cc a3g | "F"g2f2 edcB | AAA2 Adc2 | "Bb"BBB2 Bed2 | "C7"ccc2 ecde | "F"f2cA .F4 :| 
+W:ABAC
+% st06039
+X:3
+T:In bester Laune (Schottisch)  CGF (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"c2c2 cBAG | "G7"B2B2 A2FG | B2B2 BAGF | "C"A2A2 G2GB | c2Gc eGce |1 "G7"fGBd g2GB |
+ d2GB fGBd | "C"eGce g2GB :|2 \
+"F"g2f2 A3f | "C"eGce "G7"dGBd | "C"c2e2 c2z2 :: [K:G] "tr""G7"d2BG D2dd |
+ "tr""D7"d2cd f2e2 | "tr"d2^cd fd=cF | "G"GBdg BdGB | \
+d2BG D2dd | "tr""D7"d2cd f3e | "tr"d2cd fdcF | "G"G2Bd "_>Teil A".g4 :: [K:F]
+ "F"AAA2 Adc2 | "Bb"BBB2 Bed2 | \
+"C7"c2cc a3g | "F"g2f2 edcB | AAA2 Adc2 | "Bb"BBB2 Bed2 | "C7"ccc2 ecde | "F"f2cA .F4 :| 
+W:ABAC
+% st06039
+X:4
+T:In bester Laune (Schottisch) DA&G (tinwhistle in D)
+T:st06039 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"d2d2 dcBA | "A7"c2c2 B2GA | c2c2 cBAG | "D"B2B2 A2Ac | d2Ad fAdf |1 "A7"gAce a2Ac |
+e2Ac gAce | "D"fAdf a2Ac :|2 \
+"G"a2g2 B3g | "D"fAdf "A7"eAce | "D"d2f2 d2z2 :: [K:Amaj] "tr""A7"e2cA E2ee |
+"tr""E7"e2de g2f2 | "tr"e2^de ge=dG | "A"Acea ceAc | \
+e2cA E2ee | "tr""E7"e2de g3f | "tr"e2de gedG | "A"A2ce "_>Teil A".a4 :: [K:Gmaj]
+"G"BBB2 Bed2 | "C"ccc2 cfe2 | \
+"D7"d2dd b3a | "G"a2g2 fedc | BBB2 Bed2 | "C"ccc2 cfe2 | "D7"ddd2 fdef | "G"g2dB .G4 :| 
+W:ABAC
+
+X:5
+T:In bester Laune (Schottisch) DA&G (tinwhistle in D) solo
+T:st06039 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D transpose=12
+d2d2 dcBA | c2c2 B2GA | c2c2 cBAG | B2B2 A2Ac | d2Ad fAdf |1 gAce a2Ac |
+ e2Ac gAce | fAdf a2Ac :|2 \
+a2g2 B3g | fAdf eAce | d2f2 d2z2 :: [K:A] Te2cA E2ee |
+ Te2de "_#"g2f2 | Te2^de "_#"ge=d"_#"G | Acea ceAc | \
+e2cA E2ee | Te2de "_#"g3f | Te2de "_#"ged"_#"G | A2ce "_>Teil A".a4 :: [K:G]
+ BBB2 Bed2 | "_c"ccc2 cfe2 | \
+d2dd b3a | a2g2 fed"_c"c | BBB2 Bed2 | "_c"ccc2 cfe2 | ddd2 fdef | g2dB .G4 :| 
+W:ABAC
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 13, 2016

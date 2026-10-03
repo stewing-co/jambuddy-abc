@@ -1,0 +1,58 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Laura-Walzer CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.293 (wz00325) C,G,F-Dur
+T: Repertoire der <S\"achser Musig> 1880-1900, Weinigen ZH. S.275-296
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"E2G | e2d | (c3 | c)zz | E2G | d2c | ("G7"B3 | B)zz | D2F | d2c | (B3 | 
+B)zz | "Dm"A2G | "G7"A2B | ("C"c3 | c)zz :: [K:G] "G"B/B/Be | d3 | B/B/Bd | "D7"c3 | A/A/AB | c/c/cd | 
+e/e/ed | "G"B2z | B/B/Be | "G7"d3 | "C"e/e/ec | "Am"A2G | "D7"F/F/FD | B/B/BA | ("G"G3 | G)"_>Teil A"zz :| [K:F]
+("F"A3 | A)GF | (A3 | A)GA | ("C7"B3 | B)AG | (B3 | B)AB |  ("F"c3 | c)de | ("Bb"f3 | 
+"F"f)cA | ("C7"c3 | c)BG | ("F"F3 | F)zA || "Dm"d2^c/d/ | fed | ("A7"^c3 | ^c)zA | e2^d/e/ | gfe | 
+("Dm"d3 | d)zA | ("F/C"c3 | "C7"c)BG | ("F/C"c3 | c)AF | "Gm"A2G | "C7"d2c | ("F"F3 | F)zz |] 
+
+X:2
+T: Laura-Walzer CGF chords (align)
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"E2G | e2d | (c3 | c)zz | E2G | d2c | ("G7"B3 | B)zz | D2F | d2c | (B3 | 
+B)zz | "Dm"A2G | "G7"A2B | ("C"c3 | c)zz :: [K:G] "G"B/B/Be | d3 | B/B/Bd | "D7"c3 | A/A/AB |
+ c/c/cd | \
+e/e/ed | "G"B2z | B/B/Be | "G7"d3 | "C"e/e/ec | "Am"A2G | "D7"F/F/FD | B/B/BA | ("G"G3 |
+ G)"_>Teil A"zz :| [K:F] \
+("F"A3 | A)GF | (A3 | A)GA | ("C7"B3 | B)AG | (B3 | B)AB |  ("F"c3 | c)de |
+ ("Bb"f3 | \
+"F"f)cA | ("C7"c3 | c)BG | ("F"F3 | F)zA || "Dm"d2^c/d/ | fed | ("A7"^c3 | ^c)zA |
+ e2^d/e/ | gfe | \
+("Dm"d3 | d)zA | ("F/C"c3 | "C7"c)BG | ("F/C"c3 | c)AF | "Gm"A2G | "C7"d2c | ("F"F3 | F)zz |] 
+
+X:3
+T: Laura-Walzer CGF chords Parts
+P:ABACD
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+[P:A] "C"E2G | e2d | (c3 | c)zz | E2G | d2c | ("G7"B3 | B)zz | D2F | d2c | (B3 | 
+B)zz | "Dm"A2G | "G7"A2B | ("C"c3 | c)zz :: [P:B] [K:G] "G"B/B/Be | d3 | B/B/Bd | "D7"c3 | A/A/AB | c/c/cd | 
+e/e/ed | "G"B2z | B/B/Be | "G7"d3 | "C"e/e/ec | "Am"A2G | "D7"F/F/FD | B/B/BA | ("G"G3 | G)"_>Teil A"zz :|[P:C]  [K:F]
+("F"A3 | A)GF | (A3 | A)GA | ("C7"B3 | B)AG | (B3 | B)AB |  ("F"c3 | c)de | ("Bb"f3 | 
+"F"f)cA | ("C7"c3 | c)BG | ("F"F3 | F)zA || [P:D]  "Dm"d2^c/d/ | fed | ("A7"^c3 | ^c)zA | e2^d/e/ | gfe | 
+("Dm"d3 | d)zA | ("F/C"c3 | "C7"c)BG | ("F/C"c3 | c)AF | "Gm"A2G | "C7"d2c | ("F"F3 | F)zz |] 
+
+X:4
+T:Laura-Walzer EbBbAb (5letras) cf. CGF Parts
+P:ABACD
+M:3/4
+L:1/4
+K:Ebmaj%%MIDI gchordon
+[P:A] "Eb"G2B | g2f | (e3 | e)zz | G2B | f2e | ("Bb7"d3 | d)zz | F2A | f2e | (d3 | 
+d)zz | "Fm"c2B | "Bb7"c2d | ("Eb"e3 | e)zz :: [P:B] [K:Bbmaj] "Bb"d/2d/2dg | f3 | d/2d/2df | "F7"e3 | c/2c/2cd | e/2e/2ef | 
+g/2g/2gf | "Bb"d2z | d/2d/2dg | "Bb7"f3 | "Eb"g/2g/2ge | "Cm"c2B | "F7"A/2A/2AF | d/2d/2dc | ("Bb"B3 | B)"_>Teil A"zz :|[P:C] [K:Abmaj]
+("Ab"c3 | c)BA | (c3 | c)Bc | ("Eb7"d3 | d)cB | (d3 | d)cd | ("Ab"e3 | e)fg | ("Db"a3 | 
+"Ab"a)ec | ("Eb7"e3 | e)dB | ("Ab"A3 | A)zc || [P:D] "Fm"f2=e/2f/2 | agf | ("C7"=e3 | =e)zc | g2^f/2g/2 | bag | 
+("Fm"f3 | f)zc | ("Ab/Eb"e3 | "Eb7"e)dB | ("Ab/Eb"e3 | e)cA | "Bbm"c2B | "Eb7"f2e | ("Ab"A3 | A)zz |] 

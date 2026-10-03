@@ -1,0 +1,23 @@
+X:3810
+T:Rondo [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:E
+V: 10 clef=treble name="Oboe II" sname="Ob.II"
+%%MIDI program 1 68
+%%staves [( 10 )]
+%-------------
+[Q:"Andante"] z2 | !p! B2z2 | z2 z/ !p! e/ z/f/ | z/e/ z/f/ !f! e2 | d/z/ B z2 | Z | z2 z/e/ z/f/ | \
+z/ e/ e/ z/ z2 | Z2 | !fermata! Z | Z | z z/4 B//B//B// A/ z/ z | z z/4 B//B//B// A/ z/ z | \
+z2f3/4g1/8f1/8 e1/2d1/2 | g1/2f1/2 e1/2 z1/2B1/2 z1/2A//>G//A//>B// | (G/B/) G/z/ z2 | zBGz | \
+zf/>e/dz | zf/>e/dz | ze z2 | Z3 | B4- | B4 | !fermata! B4 | Z | z2z1/2e1/2 z1/2f1/2 | z1/2e1/2e1z2 | \
+Z2 | !fermata! d2z1/2e1/2 z1/2f1/2 |e1/2z1/2z1z2 | z1z1/4B1/4B1/4B1/4 A1/2z1/2z1 | z1z1/4B1/4B1/4B1/4 A1/2z1/2z1 | \
+!f! e2 !p! d2 |  !f! e2 !p! e !fermata! z | !fermata! Z || \
+[Q:"Allegro"] z2e1e1 | f3/2e1/2d1d1 | g1g1e1z1 | Z | z2e1e1 | f3/2e1/2d1d1 | g1g1e1z1 | Z | \
+z/B/ G c>B | B/B/G z2 | Z7 |  z !f! c c2 | B4 | czz2 | Z | zccc | B4 | czz2 | Z | eeez | Z5 | \
+zB c/e/d/c/ | c/B/ Bz2 | B4 | ^A !fermata!z2 z | !fermata! Z | z2 ee |f>edd | ggez | Z | \
+z2 ee | f>edd | ggez | Z | e/g/e/z/ c>B | B/e/gz2 | Z3 | z2 z/g/g/g/ | \
+fz z/B/B/B/ | ez z/g/g/g/ | fz z/B/B/B/ | ezz2 | z e/z/ B/z/ G/z/ | Ezz2 | z e/z/ B/z/ G/z/ | \
+Ezz2 | Z9 | zg2f | ezz2 | Z6 | ezee | f>edd | gge=c | c2(f2 | e4) | e2d2 | eBGG | Gzz2 |]
+%-------------

@@ -1,0 +1,71 @@
+%%MIDI program 21
+%%partsbox
+
+X:1
+T:Polka  BbFEb (ABACD)
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.205 (pk09373) orig. Bb,F,Eb
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+%%partsbox
+P:ABACD
+R:polka
+M:2/4
+L:1/16
+K:Bb %%MIDI gchordon
+de [P:A] |: "Bb"(f2d'2) d'2df | "F7"e2c'2 c'2c'b | bace bace | "Bb"g2f2 f2de | f2d'2 d'2df | "F7"e2c'2 c'2c'b | bacd efga |1 
+"Bb"b2b2 b2de :|2 "Bb"b2b2 b2cd [P:B] |: [K:F] "F"caag f2cd | cc'c'b a2ga | "C7"b2b2 e2e2 | "F"a2a2 f2cd | caag f2dc | 
+cc'c'b a2ga | "C7"b2b2 eceg |1 "F"f2f2 f2cd :|2 "F"f2f2 "F7"f2"_>Teil A"d_e || [K:Eb] eg [P:C] |: "Eb"bgeg c'2b2 | "Bb7"a2a2 !>!d4 | 
+d'd'd'2 d'c'ba | "Eb"c'2b2 g2eg | bgeg c'2b2 | "Bb7"a2a2 !>!d4 | fad'c' bagf |1 "Eb"e2g2 e2eg :|2 "Eb"e2g2 e2g2 [P:D] |: "Fm"agag c2f2 | 
+"Eb"gfgf B2e2 | "Bb7"d2b2 d2a2 | "Eb"B2g2 e2eg | "Fm/Ab"agag c2f2 | "Eb/Bb"gfgf B2e2 | "Bb7"d2b2 bagf |1 "Eb"e2g2 e2eg :|2 "Eb"e2g2 e2z2 |]  
+%W: Parts: ABACD
+% pk09373 (HC 335/TN 6)
+X:2
+T:Polka  CGF 10-
+%%MIDI program 21
+%%partsbox
+%P:ABACD
+R:polka
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+EF |: "C"(G2e2) e2EG | "G7"F2d2 d2dc | cBDF cBDF | "C"A2G2 G2EF | G2e2 e2EG | "G7"F2d2 d2dc | cBDE FGAB |1 
+"C"c2c2 c2EF :|2 "C"c2c2 c2DE |: [K:G] "G"DBBA G2DE | Dddc B2AB | "D7"c2c2 F2F2 | "G"B2B2 G2DE | DBBA G2ED | 
+Dddc B2AB | "D7"c2c2 FDFA |1 "G"G2G2 G2DE :|2 "G"G2G2 "G7"G2"_>Teil A"E=F || [K:F] FA |: "F"cAFA d2c2 | "C7"B2B2 !>!E4 | 
+eee2 edcB | "F"d2c2 A2FA | cAFA d2c2 | "C7"B2B2 !>!E4 | GBed cBAG |1 "F"F2A2 F2FA :|2 "F"F2A2 F2A2 |: "Gm"BABA D2G2 | 
+"F"AGAG C2F2 | "C7"E2c2 E2B2 | "F"C2A2 F2FA | "Gm/Bb"BABA D2G2 | "F/C"AGAG C2F2 | "C7"E2c2 cBAG |1 "F"F2A2 F2FA :|2 "F"F2A2 F2z2 |] 
+W:Parts: ABACD
+% pk09373 (HC 335/TN 6)
+X:3
+T:Polka  CGF (5letras transposed)
+%%MIDI program 21
+%%partsbox
+%P:ABACD
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+EF |: "C"(G2e2) e2EG | "G7"F2d2 d2dc | cBDF cBDF | "C"A2G2 G2EF | G2e2 e2EG | "G7"F2d2 d2dc | cBDE FGAB |1 
+"C"c2c2 c2EF :|2 "C"c2c2 c2DE |: [K:G] "G"DBBA G2DE | Dddc B2AB | "D7"c2c2 F2F2 | "G"B2B2 G2DE | DBBA G2ED | 
+Dddc B2AB | "D7"c2c2 FDFA |1 "G"G2G2 G2DE :|2 "G"G2G2 "G7"G2"_>Teil A"E=F || [K:F] FA |: "F"cAFA d2c2 | "C7"B2B2 !>!E4 | 
+eee2 edcB | "F"d2c2 A2FA | cAFA d2c2 | "C7"B2B2 !>!E4 | GBed cBAG |1 "F"F2A2 F2FA :|2 "F"F2A2 F2A2 |: "Gm"BABA D2G2 | 
+"F"AGAG C2F2 | "C7"E2c2 E2B2 | "F"C2A2 F2FA | "Gm/Bb"BABA D2G2 | "F/C"AGAG C2F2 | "C7"E2c2 cBAG |1 "F"F2A2 F2FA :|2 "F"F2A2 F2z2 |] 
+W:Parts: ABACD
+% pk09373 (HC 335/TN 6)
+X:4
+T:Polka DA&G (tinwhistle in D) solo
+T:pk09351 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+%P:ABACD
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+FG |: (A2f2) f2FA | G2e2 e2ed | dcEG dcEG | B2A2 A2FG | A2f2 f2FA | G2e2 e2ed | dcEF GABc |1 
+d2d2 d2FG :|2 d2d2 d2EF |: [K:A] EccB A2EF | Eeed c2Bc | d2d2 "_#"G2G2 | c2c2 A2EF | EccB A2FE | 
+Eeed c2Bc | d2d2 "_#"GE"_#"GB |1 A2A2 A2EF :|2 A2A2 A2"_>Teil A"F=G || [K:G] GB |: dBGB e2d2 | "_c"c2c2 !>!F4 | 
+fff2 fedc | e2d2 B2GB | dBGB e2d2 | c2c2 !>!F4 | A"_c"cfe dcBA |1 G2B2 G2GB :|2 G2B2 G2B2 |: cBcB E2A2 | 
+BABA D2G2 | F2d2 F2c2 | D2B2 G2GB | cBcB E2A2 | BABA D2G2 | F2d2 dcBA |1 G2B2 G2GB :|2 G2B2 G2z2 |]
+W:Parts: ABACD
+% pk09373 (HC 335/TN 6)
+% Sep. 14, 2016

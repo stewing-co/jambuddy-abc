@@ -1,0 +1,23 @@
+X:203
+T:Andantino
+C:Pugnani, Gaetano (1731-1798)
+M:3/4
+L:1/4
+K:D
+V: 3 clef=treble name="Oboe Primo" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 3 )]
+%-------------------------
+[Q:"Andantino"][M:3/4] Z16 | fe/f/g/f/ | f/e/ e2 | d c/d/e/d/ | d/c/ c2 | Bcd | e>dc | Bcd | e>dc | \
+{^g}f/e//d// cB | Aa2| g>gf/e/ | dzz | Z7 | \
+f3 | e3 | d/f/f/e/e/d/ | dc2 | g3 | f^ab | g3 | f^a(b//=a//g//f//) | g/f//e// dc | \
+Bb2- | bag | gfa- | agf | fe2 | d3- | d3/4e/8d/8 gf || (e3/4f/8e/8) ba | {a2}g2f | \
+!f!e2d | cad'/a/ | (g//>a//) (b/8a/8g//) "_NB: error in;source"fe | \
+d (f//g//a//b//) !wedge!a/!wedge!a/ | (a/g/) (e/4f/4g/4a/4) !wedge!g/2!wedge!g/2 | \
+(g/2f/2 ) (f/4g/4a/4b/4) (a//b//c'//d'//) | (c'/4b/4)(a/4g/4) fe | \
+f (f/4g/4a/4b/4) !wedge!a/2!wedge!a/2 | (a/2g/2) (e/4f/4g/4a/4) !wedge!g/2!wedge!g/2 | \
+(g/2f/2) (d/4e/4f/4g/4) (a/4b//c'//d'//) | {c'}(b/2a/4g/4) f!trill!e | d ^g2 | !fermata!a3 |: \
+[Q:"Allegro ma non troppo"] Z4 | e2f | a3 | fz (g//f//e//f//) | a/>f/ e2 :| a=g2 | f3 | a=g2 | f3 | d2f | \
+f/e/e2 | (e/2b/2)(b/2a/2)(a/2g/2)| fga | {c'}(b/2a/4g/4) f!trill!e | f3 | ba{a}g/2f/4e/4 | f3 | \
+ba{a}g/2f/4e/4 | d/f/d/f/d/f/ | f/a/f/a/f/a/| f3 |] \
+%-------------------------

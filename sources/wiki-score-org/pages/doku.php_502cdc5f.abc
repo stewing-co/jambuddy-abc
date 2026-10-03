@@ -1,0 +1,29 @@
+X:1513
+T:Eumene
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 13 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 13 ]
+%--------------
+[Q:"Allegro"] z | D/A,//A,// D/A,//A,// D/A,//A,// D/A,//A,// | \
+E/G,//G,// E/G,//G,// E/G,//G,// E/G,//G,// | \
+F/D//D// F/D//D// F z | z/[F,F]/[F,F]/[F,F]/ [F,F] z |  z/[F,F]/[F,F]/[F,F]/ [F,F] z | \
+!/!G4 | !/!A2 !/!A,2  | X6 | !/!A2!/!A,2 | DDDz | !/!D2 "NB: check ms" !/!D2 | \
+!/!D,4 | !f! !/!D,2 D, z | z/D,/D,/D,/ D, z | z/D,/D,/D,/ D, z | \
+%---"_[fol.197]"
+z/D,/D,/D,/ D,/D,/E,/F,/ | !p!!/!G,4 | !/!A,2 "NB: check ms" !/!A,2 | \
+!f! D,/D,D,D,D,/ | C,/C,C,C,C,/ | D,D,D,z | x4 |  x4 |  x4 |  x4 |  x4 | !//!B,4 | !//!C !//!D !//!C !//!^G, | \
+A,^G,G,z | E3^D | !//!E2 !//!B,2 | !//!C!//!D!//!C!//!^G, | A,^G,G,z | E3^D | X8 | \
+C z/A,/ D z/D/ | E z/E/ ^G z/G/ | A z/A,/ D z/D/ | E z/E/ ^G z/G/ | !/!A2 !/!C,2 | \
+!/!D,4 | !/!E,4 | !/!E,4 | !//!C4 | B,/B,B,B,B,/ | C/CCCC/ |  B,/B,B,B,B,/ | !/!A,2!/!A,2 | X2 || \
+[Q:"Andante"][M:3/4] !p!x/| X13 || \
+[Q:"Allegro"][M:C] X10 | D/FFFF/- | F/FFFF/| D/DDDD/ | D/DD/ F/FF/ | G/DDDD/ | B,2 ^G2 | \
+!//!A2 !//!E2 | !//!F!//!G!//!FC | DCCz | \
+A3 ^G | !//!A2 !//!E2 | !//!F!//!G!//!FC | DCCz | \
+A3 ^G | A2A,2 | D4 | !//!B,4 | A,A,A,z | A,4 | A,/A,A,A,A,/ | A,/DDDD/ | D2 !/!G2 | !/!A2 !/!A,2| \
+D z/D/ D z/D/ | D z/D/ C>C | !/!F2 !/!F,2 | !/!G,4 | !/!A,4 | "_NB:check ms"!/!A,4 | \
+D/FFFD/ | C/CCCC/ |D/FFFD/ | C/CCCC/ |  D,/D,/F,/F,/ !/!G,2 | A,A,"_NB:check ms"A,A,| D,D,D,z |] \
+%--------------

@@ -1,0 +1,153 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T: II. Flow my tears
+T: Lachrimae.
+T:Canto.
+C: Dowland, John
+L: 1/4
+M:C
+N:Original clef C on first line
+K: A minor
+|: A3 G1/2 F1/2 E2 c4 B A ^G4 | A2 E3
+w:Flow my- * teares fall from your springs, Ex- ilde
+w:Downe vaine _ lights shine you no more, No nights
+E G G | F2 D2 E3 B | c2 A2 B2 ^G2 | A
+w: for ev- er: Let mee mourne where nights black bird hir sad
+w: are dark e- nough for those that in dis-  pair their last
+c>B A ^G2 c2 | B A  A3 ^G1/2 F1/2 ^G2 | A8 ::
+w: in- fa- my sings, there let me live for - - lorne.
+w: for- tuns de- plore, light doth but shame _ _ dis- close.
+c3 B A G c3 B/ A/ B2 | c2 G2 z A2 ^G | A F E2 | z D F2 z F A2 | z A c2
+w:Ne- ver may my woes be _ fe- lie- ved, since pit- tie is fled, and teares, and sighes, and grones
+w:From the high- est spire of _ con- tent ment, my for- tune is throwne, and feare, and griefe, and paine
+z G B > c | d2 z D F > G A2 | z c2 B "(1)"c > B A/ G/ A | ^G8 ::
+w: my wea- rie dayes, my wear- ie dayes, of all joyes have de- * pri- ved.
+w: for my de- serts, for my de- serts, are my hopes since hope _ is gone.
+N:(1) Original has a quarter note.
+^G3 A B2 c2 | B A A4 ^G2 | A3 c B c A2 ^G4 | z4 z2 e3 B d3 A c2 |
+w:Harke you sha- dowes that in darck- nesse dwell, learne to con- temne light, Hap- pie, hap- pie  they
+B2 "(2)"A2 ^G2 c2 B A A3 ^G/ F/ G2 | A8 :|
+w:that in hell feele not the worlds des- * _ pite.
+N:(2) This note is missing in the original.
+
+X:2
+T: II. Flow my tears
+T: Lachrimae.
+T:Basso.
+C: Dowland, John
+M:C
+L: 1/4
+%%MIDI nobarlines
+%%MIDI transpose -24
+K: A min bass
+|:A4 A4 f3 f e3 e A3 A c3 c d2 f2 e3 e A3  a1/2  a1/2 g2 e2 f3 f1/2 f1/2 e2 c2 d2 f2 e3 e A8 ::
+w: Flow teares from your springs; Ex- ild for ev- er let mee mourne where nights black bird hir sad in- fa- my sings, there let me live for- lorne.
+w: Downe lights shine no more, no night is dark e- nough for those that in dis- *  pair their for- tuns de- plore, light doth but shame dis- close.
+c6 e2 d3 d c2 z e c A/ A/ e2 A d d ^c d2 z D F2 z F
+w:Ne- ver may my woes, my woes, be re- lie- ved, since pitt' is fled: and teares, and
+w:From the high- est spire, high'st spire of con- tent- ment, my for- tunes throwne, and feare, and
+A2 z A c2 z G B > c d2 z D F > G A3 ^G A2 F > F E8 :: e4 e3 e
+w:sighes, and grones, my wea- ry dayes, my wear- ry dayes all joyes have de- prived. Harke that in
+w:griefe, and paine, for my de- serts, for my de- serts are hopes, hope is gone.
+e6 e2 A3 a g e f2 e4 e3 B c4 B4 A4 G2 F2 E2 c2 d2 f2 e3 e A8 :|
+w:Darke- nesse dwel, learne to con- temne light, Hap- py: hap- py, they that in hell feele not the worlds des- pite.
+
+X:3
+T:Flow my tears
+T:Lachrimae
+C:John Dowland
+B:Second book of Ayres
+Z:Transcription, abctab: Taco Walstra (walstra@wins.uva.nl)
+Z:corrected by Laura Conrad (lconrad@laymusic.org)
+L:1/2
+M:C
+K:Am
+%%scale 0.45
+%%tabrhstyle modern
+%%maxshrink 0.1
+%%writehistory true
+%indent 1.8 cm
+V:F clef=treble    name=Canto stv=2
+V:L clef=frenchtab name=Lute
+%
+E:lw 400
+[V:F] |: A3 G1/2 F1/2 E2 c4 B A ^G4 | A2 E3 E G G | F2 D2 E3 B | 
+w:Flow my _ _ tears fall - from your springs, Ex-il'd for ev-er let me mourn. Where
+w:Down vain - lights shine - you no more. No nights are dark e-nough for those That
+[V:L] [,,deec3/2] ,,c/ [,,de,c] ,,f ,c ,,,c | [,,aa/] ,a// ,,d ,a1 [,cc,e] ,c |\
+   [,,deec/] ,c c ,,,,,c [a,,,a//] ,d ,c ,a [,cd,a/] ,c|[,a,,c] ,,d [,,ca] ,,a [,,c,e] ,,,e ,,,d1 |
+[V:F]c2 A2 B2 ^G2 | A c>B A ^G2 c2 | B A  A3 ^G1/2 F1/2 ^G2 | A8 ::
+w:night's black bird her sad in-fa-my sings. there let me live for- * * lorn.
+w:in des-pair their last for-tunes de-plore. Light doth but shame dis- * * close.
+[V:L] [,,a,,c/] ,c3/4 ,a// [,cde] ,e [a,cc/] ,a [,cc,e1] | [,,aa/] ,c ,a1 [,cc,e] [,cd,a/] a |\
+ [,df,c] ,,d [,aca/] ,,a [,,c,e/] ,c1 ,a/|[,,eeec3/4] ,d// ,c ,,f ,,e ,,c [,ce,,c/] ,,,e ,,,,,c1:|
+[V:F]c3 B A G c3 B/ A/ B2 | c2 G2 z A2 ^G | A F E2 | 
+w:Nev-er may my woes - be - re-liev-ed. since pi-ty is fled
+w:From the high-est spire-- of - con-tent-ment. My for-tune is thrown
+[V:L][acd,a2] [,cdca1] [a,dce] | [,,a,c/] ,d ,a ,,,a [,c,,a/] ,,d3/4 ,,c// [,,,ce/] |\
+  [,,a,a] [,,d,,c] [,,c,e] ,c [,,d,,c] [,,a,c] c [,c,,b] |
+[V:F]z D F2 z F A2 | z A c2 z G B > c | d2 z D F > G A2 | 
+w:and tears, and sighs, and groans my wea-ry days, my wea-ry days
+w:And fear, and grief, and pain for my de-serts, for my de-serts
+[V:L] [,da,c] ,,,a ,,a [,d,,,,a] [c,,,,,d] ,,a ,,d [cd,,,,d] |[fc,,,c] ,,d ,,,e// ,,c [,,d,,c] ,,f \
+  [,cdca3/4] ,d// a/ ,,,,,a | ,,,,,e ,a// ,,,,a [,da,c3/4] a// c/ ,,,,,,a ,,,,,,d/ ,d// ,,,,,,a |
+[V:F] z c2 B "(2)"c > B A/ G/ A | ^G8 :: ^G3 A B2 c2 | B A A4 ^G2 | 
+w:Of all joys have de - priv-ed. Hark you sha-dows that in dark-ness
+w:Are my hopes since hope -  is gone.
+[V:L] ,,,,,c/ ,c// ,a ,c/ ,,,,,b [,,d,,c//] ,a ,c/ [,,a,,,d] ,a | [,ccdeec3/4] ,c// ,,f ,,d ,,c ,,,e\
+ [,ccdeec/] ,,,,e ,,,,,,c1 :: [,cc,e2] [,ccde3/2] ,,a/ | [,ccde1] ,,d/ ,,f [,cc,e3/2] ,a/ |
+[V:F]A3 c B c A2 ^G4 | z4 z2 e3 B d3 
+w:dwell. Learn to con-temn light. Hap-py, hap-
+[V:L][,,deec3/4] ,,f// ,c/ ,,,e// ,e [aa,c/] [,c,ce] [,,,ef] ,a | [,cc,e3/2] ,,c/ [,,d,e1] [a,c/]\
+  ,,,,,e | ,,,,a [,,de] [,ca1] [,a,,,e] [,,,d/] ,c |
+[V:F]A c2 | B2 "(1)"A2 ^G2 c2 B A A3 ^G/ F/ G2 | A8 :|
+w:-py they that in Hell Feel not the world's _ _ de-spite.
+[V:L] [,da,,c1] ,c/ ,,,,,c  ,,,,,a ,,c [,,d,,,d] ,a |[,ccdeec1][,,dca/] a [,df,c] ,,d [,aca] ,,a |\
+ [M:6/4][,cc,e1],,,,,,c/,a [,,eeec/] > ,d ,c ,,f ,,e ,,c [,ce,,c/] ,,,e ,,,,,c1 :|
+%%begintext
+%%      1
+%%Flow my tears fall from your springs,
+%%Exil'd forever: let me mourn
+%%Where night's black bird her sad infamy sings,
+%%There let me live forlorn
+%%
+%%      2
+%%Down vain lights shine you no more,
+%%No nights are dark enough for those
+%%That in despair their last fortunes deplore
+%%Light doth but shame disclose
+%%
+%%      3
+%%Never may my woes be relieved
+%%Since pity is fled
+%%And tears, and sighs, and groans my weary days
+%%Of all joys have deprived
+%%
+%%      4
+%%From the highes spire of contentment,
+%%My fortune is thrown
+%%And fear, and grief, and pain for my deserts,
+%%Are my hopes since hope is gone
+%%
+%%      5
+%%Hark you shadows that in darkness dwell,
+%%Learn to contemn light,
+%%Happy, happy they that in Hell,
+%%Fell not the world's despite
+%%endtext
+

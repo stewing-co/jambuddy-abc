@@ -1,0 +1,65 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Jalmer-Polka CF (pk06624)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.264 (pk06624) orig. C,F
+T: Repertoire der "Dorfmusig Aesch". S.255-269
+T:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+("C"GE) (AE) | "G7"GF F/E/F | ("F"AB cB) | "C"AG/^F/G2 | (EG ce) | "G7"dcB2 | (GB df) | "C"ecG2 | 
+(GE) (AE) | "G7"GF F/E/F | ("F"AB cB) | "C"AG/^F/G2 | (EG ce) | ("F"dc AF) | "G7"G(B/A/) G>B | "C"cc cz :: [K:F] 
+("F"A>c) cc/d/ | c3B | B(A A/)F/A/c/ | "C7"G2z2 | GA BB/c/ | BAG2 | GB e>B | .c(c =B_B) | 
+"F"A>c cc/d/ | c3B | B(A A/)F/A/c/ | "C7"G2z2 | GB e>d | "F"cAF2 | CF "C7"A>G | "F"FF Fz :: 
+"D7"dd/d/ dd | "Gm"BA.G2 | "C7"cc/c/ cc | "F"AG.F2 | "Gm"GG/G/ GG | "D7"A>Dd2 | "G7"G_A =A=B | "C7".c2z2 | 
+"F"A>c cc/d/ | c3B | B(A A/)F/A/c/ | "C7"G2z2 | (GB) e>d | "F"cAF2 | C>F "C7"AG | "F"FF Fz :| 
+W:
+W:Anmerkung H.C.: Zunzgen 9, s.V. 739
+% pk06624
+% May 9, 2017
+
+X:2
+T:Jalmer-Polka GC 7+ (pk06624)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.264 (pk06624) orig. C,F
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+("G"dB) (eB) | "D7"dc c/2B/2c | ("C"ef gf) | "G"ed/2^c/2d2 | (Bd gb) | "D7"agf2 | (df ac') | "G"bgd2 | 
+(dB) (eB) | "D7"dc c/2B/2c | ("C"ef gf) | "G"ed/2^c/2d2 | (Bd gb) | ("C"ag ec) | "D7"d(f/2e/2) d>f | "G"gg gz :: [K:C] 
+("C"e>g) gg/2a/2 | g3f | f(e e/2)c/2e/2g/2 | "G7"d2z2 | de ff/2g/2 | fed2 | df b>f | .g(g ^f=f) | 
+"C"e>g gg/2a/2 | g3f | f(e e/2)c/2e/2g/2 | "G7"d2z2 | df b>a | "C"gec2 | Gc "G7"e>d | "C"cc cz :: 
+"A7"aa/2a/2 aa | "Dm"fe.d2 | "G7"gg/2g/2 gg | "C"ed.c2 | "Dm"dd/2d/2 dd | "A7"e>Aa2 | "D7"d_e =e^f | "G7".g2z2 | 
+"C"e>g gg/2a/2 | g3f | f(e e/2)c/2e/2g/2 | "G7"d2z2 | (df) b>a | "C"gec2 | G>c "G7"ed | "C"cc cz :| 
+%W:Anmerkung H.C.: Zunzgen 9, s.V. 739
+% pk06624
+% May 9, 2017
+
+
+X:3
+T:Jalmer-Polka GC 5- (pk06624)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.264 (pk06624) orig. C,F
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+("G"DB,) (EB,) | "D7"DC C/2B,/2C | ("C"EF GF) | "G"ED/2^C/2D2 | (B,D GB) | "D7"AGF2 | (DF Ac) | "G"BGD2 | 
+(DB,) (EB,) | "D7"DC C/2B,/2C | ("C"EF GF) | "G"ED/2^C/2D2 | (B,D GB) | ("C"AG EC) | "D7"D(F/2E/2) D>F | "G"GG Gz :: [K:C] 
+("C"E>G) GG/2A/2 | G3F | F(E E/2)C/2E/2G/2 | "G7"D2z2 | DE FF/2G/2 | FED2 | DF B>F | .G(G ^F=F) | 
+"C"E>G GG/2A/2 | G3F | F(E E/2)C/2E/2G/2 | "G7"D2z2 | DF B>A | "C"GEC2 | G,C "G7"E>D | "C"CC Cz :: 
+"A7"AA/2A/2 AA | "Dm"FE.D2 | "G7"GG/2G/2 GG | "C"ED.C2 | "Dm"DD/2D/2 DD | "A7"E>A,A2 | "D7"D_E =E^F | "G7".G2z2 | 
+"C"E>G GG/2A/2 | G3F | F(E E/2)C/2E/2G/2 | "G7"D2z2 | (DF) B>A | "C"GEC2 | G,>C "G7"ED | "C"CC Cz :| 
+%W:Anmerkung H.C.: Zunzgen 9, s.V. 739
+% pk06624
+% May 9, 2017

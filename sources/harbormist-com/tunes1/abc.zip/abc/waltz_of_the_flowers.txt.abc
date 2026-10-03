@@ -1,0 +1,33 @@
+X: 1
+T: Waltz Of The Flowers
+C: Peter Ilyich Tchaikovsky
+M:3/4
+L:1/8
+N: Q: 3/8=105
+R: waltz
+K: D
+P:A
+|: "D"     A,2 D2F2   | "C#dim/D"G4-GF       | "D"   F6-          |         F6           | 
+|  "D"     A,2 D2F2   | "C#dim/D"G2 F3 E     | "D"   A4 D2        |         z2 (A,B,CD)  | 
+|  "A7/C#" (^DFDFE2)  | "C7"    z2 (=C=D^DE) | "Em/B"(FAFAG2)     | "Em/G"  z2 (EFGA)    |
+|  "Em"    (^AcB=ABc) |          (edcdBG)    | "Bb+" F4 E2-       | "A7"    E (_EDCB,_B,) | 
+|  "D"     A,2 D2F2   | "C#dim/D"G4-GF       | "D"   F6-          |         F6           | 
+|  "D"     A,2 D2F2   | "C#dim/D"G2 F3 E     | "D"   A4 D2        | "D"     z2 DEF^G    | 
+|  "F#m/C#"(AB^GBA) z           | "Bdim7"z2 ^^F^GAB  | "F#m/A" (cd^Bd^c) z     | "C#7/G#"z2 (^B^c^d^e)  | 
+|  "F#m"  (f^ga^e"F#m/E"gf) |  (a^e"D7"^gfaf) | "F#m/C#"(afaf"C#"a^e) | "F#m".f(ABcde)      ||
+|  "D"    (f4 c2) | "D/A"(e4 B2)  | "Em7"(d4 G2)     | "A7" ((3cdc) .=cz .^cz | 
+|  "G/B"  (g4 d2) | "A"  (f4 c2)  | "D"  (e4 A2)     | "D/A"((3ded)  .cz  .dz | 
+|  "D"    (f4 c2) | "D/A"(e4 B2)  | "Em7"(d4 G2)     | "A7" ((3cdc) .=cz .^cz | 
+|  "Gm/Bb"(g4 d2) | "B+" (g4 ^d2) | "C"  (g4 e2)     | "A7" a (ABcde)     ||
+|  "D"    (f4 c2) | "D/A"(e4 B2)  | "Em7"(d4 G2)     | "A7" ((3cdc) .=cz .^cz | 
+|  "G/B"  (g4 d2) | "A"  (f4 c2)  | "D"  (e4 A2)     | "D/A"((3ded)  .cz  .dz |  
+|  "D"    (f4 c2) | "D/A"(e4 B2)  | "Em7"(d4 G2)     | "A7" ((3cdc) .=cz .^cz | 
+|1 "D"    (b4 a2) | "F7" (b4 a2) | "A" c'2 (efg^g) | "A" a2 (ECB,_B,)   :|
+|2 "D"    (b4 a2) | "F7" (b4 a2) | "A" c'2 (efg^g) | "D" a2 d2 f2     |   "G" g2 "A"a3 d | "D" d2 F2 A2 | 
+%%MIDI gchord f
+"D" d2 z2 z2 |]
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2012 version 1
+%%endtext

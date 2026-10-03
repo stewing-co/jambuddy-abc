@@ -1,0 +1,19 @@
+X:3401
+T:Coro
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:E
+V: 1 clef=alto name="Corno I" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 1 )]
+%------------
+[K:C][K:treble][Q:"Allegro"] "_Elami" c c/>c/ cc | c4 | c c/>c/ cc | cccg | g2f2 | \
+e (3e/e/e/ e z | g2f2 | e2>(3ed/c/ | g2 c c/>d/ | {e/}d c e e/>g/ | {g}f e g g/>e/ | \
+d e g g/>f/| d e c2 | c2 e d | c e c z | c c/>c/ c c | c4 | c c/>c/ c c | c c c z | \
+g2 e2 | z c/>c/ c z | g2 d2 | c e c z | z4 | d d d z | d4- | d4- | d4 | g2 z2 | g4 | g z3 | \
+g4 | g g g z | c z d2 | g z3 | z4 | g4 | d z d z | g z3 | c z d2 | g z3 | c z d2 | g2 z2 | z4 | z4 | z4 | \
+"^Secondi Corni Dre" e4- | e4 | (3:2:1!/!e6/2 (3:2:1!/!e6/2 | e4 | e e/>e/ ee | e4 | \
+e e/>e/ e e | e e e z | f e z e | d c z g | g2 f e | e d d z | g4- | g4- | g4- | \
+e/e//e// e/e/ e z | c z g f | c2 c  c | c z e d | e2 z2 ||
+%------------

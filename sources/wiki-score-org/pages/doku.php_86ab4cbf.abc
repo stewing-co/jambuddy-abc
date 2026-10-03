@@ -1,0 +1,68 @@
+X:1019
+T:Scena 5.a Antandro e Demetrio
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 19 clef=tenor name="Demetrio" sname="Dem."
+%%MIDI program 1 1
+%%staves [[ 19 ]]
+%---------------------------
+[L:1/8] zE, A, A, z \
+w: Si Pren-ce,
+A, A, B, | ^C/ C/ C/ E/ E G,/ A,/ ^F, F, F, G, | A,/ A,/ A,/ B,/ C C/ D/ B, B, B, C/ "^[1]" D/ | D/ A,/ B,/ C/ D D/ E/ C C C C/ D/ | _B, B, B, A,/ B,/ G, G, G, _B,/ C/  | A, A, z \
+w: allor, che'a Ro-di Ven-ni guer-ra a re-car, il tuo va-lo-re Trop-po no-to gi\`a m'e-ra, e'al-l'o-pre tue De-gno'og-get-to il cre-dei. Nel-la cos-tan-te Tua re-sis-ten-za or pi\`u il com-pren-do,
+W: [1] Bar 3: "tue" in ms score; "mie" in libretto.
+C A,/2 A,/2 C/2 _B,/ A, G,/2 F,/2 | _B, B, z/2 \
+w: e'o-gno-ra Pi\`u ti pre-gio, e't'am-mi-ro,
+B,/2 B,/2 A,/2 A,/2 A,/2 A,/2 A,/2 A, A,/2 _B,/2 | "_NB: ms corrected" G, G, G,/2 A,/2 ^F, F, F,/2 G,/2 A, A,/2 _B,/2 | G,2 z2 zA, ^F, G, | G, D, z6 | Z7 |\
+w: in'o-gni'im-pre-sa Con-tro'i for-ti pu-gnar so-lo vo-gl'io, Co-me i for-ti o-no-rar \`e'il pen-sier mi-o.
+z4 z =B,/ D/ B, A,/ G,/ | C C z6 | Z8 | z4 \
+w: Se la pa-ce tra no-i...
+D2 C D | B,/ B,/ G,/ G,/ G, A,/ B,/ A, A,/ E/ E/ G,/ G,/ A,/ | ^F, F, z2z \
+w: All'o-pra il-lus-tre col-le mie schie-re, o Pren-ce, as-sis-te-re vo-gl'io.
+D D> ^G, | A, A, z2 A, A, A, A,/ B,/ | ^C C z C/ E/E2G, A, | ^F,2z6 | z6z \
+w: Di pi\`u che vu-oi? Quan-to'ac-cor-dar mi li-ce, tut-to chie-di da me.
+^F,/ ^F,/ | B, B, z\
+w: Eu-ri-di-ce?
+B,/ ^F,/^G,2 z2 | Z5 | \
+w: e per-ch\`e?
+z D C D B, B, z \
+w: (Che  as-col-to mai!)
+D | D G, z \
+w: Ma Pren-ce
+"^[6]" B, B, B, B, D/ F/ | E E z \
+w: (qual fie-ro tu-mul-to'in pet-to
+W: [6] Bar 42: "ah" not in ms score.
+B, D D D> E | C C z6 | Z2 | z4| z4 \
+w: mi dest-tan-queg-li'ac-cen-ti!)
+z B, B, A, | ^G,/ G,/ G,/ G,/ G, G,/ A,/ B, B, B, ^C | D2 E B, ^C2 z2 | Z5 |\
+w: For-se un de-lit-to sa-reb-be nel co-re Eu-ri-di-ce'a-do-rar
+W: [7] Bar 48: libretto is rephrased.
+%
+%----- Libretto checked until bar 52
+%
+E2 D E C C z \
+w: E chi giam-mai
+G, | B, C C> E _B, z/ \
+w: del gius-to,e del do-vere
+G/ G/ B,/ B,/ C/ | A,2 C C/ F/ F C C _B,/ C/ | A, A, z/\
+w: M'in-se-gne-r\`a'i con-fin? E se la se-de pos-ta'in o-bl\'i-o,
+C/ D/ _E/ D D z2 | Z2 |\
+w: ad al-tra fa-ce...
+"^[8]" D D D C/ D/ B, B, z \
+W: [8] What looks like Demetrio speaking for himself (libretto, fol.13) is ommitted.
+w: A con-tras-tar d'a-mo-ri
+B, | D D D> _E C C C E/ _E/ | D D z \
+w: Se qui vol-ges-ti'il pie-de, In mez-zo'al cam-po,
+A, C C C> D | _A, A, z \
+w: e'im-man-zi'a quel sem-bian-te
+F _A F D _A, | G, zz \
+w: Non ce-de ques-to cuor
+_B, _E _D C =B, | C2 z \
+w:  _______
+_A, D D z \
+w: guer-rie-ro,
+_E | _E _B, z6 |] \
+w: e'a-man-te.
+%---------------------------

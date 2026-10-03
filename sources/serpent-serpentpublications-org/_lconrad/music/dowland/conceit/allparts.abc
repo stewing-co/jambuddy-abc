@@ -1,0 +1,158 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XVI. Would my conceit, that first enforst my woe,
+T:Cantus
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on first line
+K:E phr
+E8 | e6 d2 | c2 B2 A2 c2 | B2 A2 ^G4 |
+w: Would my con- ceit, that first en- forst my woe,
+w: Each houre a- midst the deepe of hell I frie,
+w: To all save mee is free to live or die,
+z4 E4 | c6 B2 | A2 G2 | F D d4 c2 B4 | 
+w: Or els mine eyes which still the same in- crease,
+w: Each houre I waft and wi- ther where I sit:
+w: To all save mee re- main- eth hap or hope:
+z4 z2 E2 | E E F3 E "(1)"E3  D D4 ^C2 | D4
+N:(1) Original has a bar between the note and the dot
+w: Might be ex- tinct, to end my sor- rowes so,
+w: But that sweet houre where- in I wish to die,
+w: But all per- force I must a- ban- don, I,
+z4 | z2 E2 F2 D2 | E6 ^F2 ^G2 A3/2 B// c// B3 B A4 
+w: Which now are such as no- * thing _ can re- lease:
+w: My hope a- las may not _ in- * joy it  yet,
+w: Sith For- tune still di- rects _ my _ hap as hope,
+|: z4 z2 G2 | A2 G2 c3 B A2 G C F2 E2 |
+w: Whose life is death, whose sweet each change of sowre,
+w: Whose hope is such, be- reav- ed of the blisse,
+w: Where- fore to nei- ther hap nor hope I trust,
+z8 z4 z2 B2 | c2 B2 e3 d | c2 B2 A6 A2 | B8 :|
+w: And eke whose hel re- new- eth e- very houre.
+w: Which un- to all save mee al- lot- ted is.
+w: But to my thralles I yeeld, for so I must.
+
+X:2
+T:XVI. Would my conceit, that first enforst my woe,
+T:Altus.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on second line
+K:E phr
+z4 B,8 C2 D2 E4 z2 A A/ A/ A2 F2 F4 
+w: Would my con- ceit, that first en- forst my woe,
+w: Each houre a- midst the deepe of hell I frie,
+w: To all save mee is free to live or die,
+F2 c4 B2 A2 G2 F6 E2 D2 F2 E4 z E2 ^F ^G A2 ^G A2 
+w: Or els mine eyes which still the same in- crease, still the same in- crease, _
+w: Each houre I waft and wi- ther where I sit: wi- ther where I sit: _
+w: To all save mee re- main- eth hap or hope: main- eth hap or hope: _
+A,2 C3 C B,3 B, ^C2 D2 E3 ^F/ G/ ^F E ^F2 G3 
+w: Might be ex- tinct, to end my sor- * _ _ _ rowes so,
+w: But that sweet houre where- in I wish _ _ _ _ to die,
+w: But all per- force I must a- ban- * _ _ _ _ don, I,
+F E D2 C2 B,/ A,/ B,2 C3 D E2 D3 C2 B,/ A,/ E3 D ^C4 
+w: Which now are such, are _ such as * no- thing can _ _ _ re- lease:
+w: My hope a- las, a- * las may * not in- joy _ _ _ it  yet,
+w: Sith For- tune still, tune * still di- * rects my hap _ _ as hope,
+|: E4 E2 E2 E3 E2 E2 D3 C E A,4 
+w: Whose life is death, whose sweet each change of sowre,
+w: Whose hope is such, be- reav- ed of the blisse,
+w: Where- fore to nei- ther hap nor hope I trust,
+z8 A4 G6 G2 G6 G2 E2 E2 E3 E E8 :|
+w: And eke whose hel re- new- eth e- very houre.
+w: Which un- to all save mee al- lot- ted is.
+w: But to my thralles I yeeld, for so I must.
+
+X:3
+T:XVI. Would my conceit, that first enforst my woe,
+T:Tenor.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on third line
+K:E phr -8va
+%%MIDI transpose -12
+z4 ^G8 z A2 B c d e2 c2 e e d2 c2 B4 
+w: Would my _ _ con- ceit, that first en- forst my woe,
+w: Each houre _ _ a- midst the deepe of hell I frie,
+w: To all _ _  save mee is free to live or die,
+z c2 d e f g G A6 G2 F2 G2 A3 A ^G2 A4 ^G A B2 
+w: Or els mine _ eyes which still, which still, the same in- crease, the same in- crease,
+w: Each houre I _ waft, I waft, and wi- ther where I sit: ther where I sit:
+w: To all save _ mee, save mee, re- main- eth hap or hope: eth hap or hope:
+z B c3 B A4 ^G4 A8 z2 A2 B > A B d c2 
+w: Might be ex- tinct, ex- tinct, to end my sor- rowes so,
+w: But that sweet houre, sweet houre, where- in I wish to die,
+w: But all per- force, per- force, I must a- ban- don, I,
+G2 A3 G/ F/ G6 A2 B E2 A2 ^G/ F/ ^G2 A4   
+w: Which now are _ such as no- thing can re- * lease: _
+w: My hope a- * las may not in- joy it _  yet, _
+w: Sith For- tune _ still di- rects my hap as _ hope, _
+|:z2 G2 A2 G2 c3 B A2 G2 F2 E2 z2 c2 f2 e2 d2 c2 f2 d2 e4 
+w: Whose life is death, Whose life _ is death, whose sweet each change, each change, of sowre,
+w: Whose hope is such, Whose hope _ is such, be- reav- ed of, ved of, the blisse,
+w: Where- fore to nei- Where- fore _ to nei- ther hap nor hope, nor hope, I trust,
+z2 G2 c2 B2 e3 d c3 B A ^G A4 ^G F "(1)"^G4 :|
+N:Original has a breve.
+w: And eke whose hel, whose hel, re- new- eth e- ver- y houre.
+w: Which un- to all, to all, save mee al- lot- ted _ is.
+w: But to my thralles, my thralles, I yeeld, for so I _ must.
+
+X:4
+T:XVI. Would my conceit, that first enforst my woe,
+T:Bassus.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+K:E phr bass
+%%MIDI transpose -24
+z4 e8 a6 g2 f2 e2 g2 c2 e3 e A
+w: Would my con- ceit, that first en- forst my woe,
+w: Each houre a- midst the deepe of hell I frie,
+w: To all save mee is free to live or die,
+A a4 g2 f2 e2 d8 d4 e8 e4 A4
+w: Or els mine eyes which still the same in- crease,
+w: Each houre I waft and wi- ther where I sit:
+w: To all save mee re- main- eth hap or hope: 
+z8 z4 A4 d4 G4 c2 e2 d3 d c6 B A e8 A4 
+w: Which now are such as no- thing, no- thing can re- lease:
+w: My hope a- las may not, may not, in- joy it  yet,
+w: Sith For- tune still di- rects, di- rects my hap as hope,
+|:c4 c2 c2 c4 
+w: Whose life is death, 
+w: Whose hope is such, 
+w: Where- fore to neither 
+z8 z2 A2 d2 c2 f3 e d2 f2 e8 e8 A6 A2 e8 :|
+w: And eke whose hel, whose hel re- new- eth e- very houre.
+w: Which un- to all save mee, save mee al- lot- ted is.
+w: But to my thralles I yeeld, I yeeld, for so I must.

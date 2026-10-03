@@ -1,0 +1,31 @@
+X:604
+T:Tantum Ergo
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 4 clef=bass name="Violoncello" sname="Vc."
+%%MIDI program 1 42
+%%staves [ 4 ]
+%------------------
+[Q:"Andante"] !p! C,G,,C,G,, | =B,,G,,B,,G,, | C,G,,C,G,, | D,_B,,D,B,, | E,B,,E,"^arco"z | \
+% fol.193
+z!p! (DED) | Czz2 | !p!(C2!>(!!>)!=B,2) | Z | !p!(_B,2=A,2) | "_cresc." _A,A,A,A, | G, (!p!F,E,D,) | \
+C,/z/ .G,,/z/ .C,/z/ .G,,/z/ | .=B,,/z/ .G,,/z/ .B,,/z/ .G,,/z/ | !p! .C,/z/ .G,,/z/ .C,/z/ .G,,/z/ | \
+.=B,,/z/ .G,,/z/ .B,,/z/ .G,,/z/ | .C,/z/!p!(ED_B,) | .E.E,(E_D) | C(B,A,G,) | C(B,A,G,) | !p! F,F,B,,B,, | \
+E,E,A,,A,, | !p! D,D,G,,G,, | (C,D,)(E,=E,) |\
+%fol.196
+(F,2^F,2) | .G,z.G,z | !p! _A,zz2 | Z | !p! .C,/z/ .G,,/z/ .C,/z/ .G,,/z/ | .C,z .G,,z | !fermata! C,4 "^Segue;genitori" || \
+%fol.197]
+[Q:"Moderato"][M:2/4] Z4 | !p! (E_D | C A, | G, E,) | A,A, | !p!E,G, | A,2 | G,E, | \
+%fol.198
+A,A, | !f!=A,F, | B,z| Z2 | !f! =B,G, | Cz | Z2 | !p! (DC | =B,G,) | (CD|E) !f! =E | F_D | CA, | \
+!f! _DD | CA, | _Dz | Z2 | z!f!=D, | E,D, | E, !f! =E, | F,=E, | F, !f! ^F, | !>!G,2- | G,/z/z | Z2 | \
+%fol.202
+z "_piz" C, | A,B,, | G, C, | F,z | Z2 | \
+%fol.202
+Z | z "_piz" C, | A,B,, | G, C, | F,z | Z3 | "_piz" C,G,, |C,G,, | =B,,G,, | \
+% fol.203
+.=B,,.G,, | !p!.C,.G,, | .C,.G,, | !p!.=B,,.G,, | .=B,,.G,, | "_piz"  C,z | C,z | C,z || \
+Z | "^arco"!p!C,z | C,z | C, "_finis" !fermata!z |] \
+%------------------

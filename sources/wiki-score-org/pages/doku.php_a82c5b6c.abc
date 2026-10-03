@@ -1,0 +1,23 @@
+X:103
+T:N.1 Rataplan (Ambrosio)
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:D
+V: 3 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 3 }]
+%--------------------
+[Q:"Marcial"]
+[A,F]zz [A,F]zz | [A,F]zz [A,F]zz | [A,F]zz [A,F]zz | [A,F]zz [A,F]zz | \
+[A,G]zz [A,G]zz | [A,F]zz [A,F]zz |  [A,F] z z (F3 | G3 ^E3) | [A,F]  z z "[sharp added]"[A,^G] z z | [A,F]zz [A,F]zz !segno!|| \
+[A,F]zz [A,F]zz | \
+U:Y = !wedge!
+zz(.D/.D/) Dzz | zz(.C/.C/) Czz | zz(.D/.D/) .Dzz | [A,F]zz [A,F]zz | zz(.C/.C/) Czz | \
+.Dzz .^Gzz | zz(.C/.C/) Czz | [A,F]zz [A,F]zz | zz(.D/.D/) .Dzz | zz(.C/.C/) .Czz | \
+zz(.D/.D/) .Dzz | [A,F]zz [A,F]zz | [G,G]zz ^Ezz | [A,F]zz Czz | D !f!z(.A/.A/) .dzz !fine!|: \
+[K:A] D2z!>!D3- | D2z D2z | C2z [EA]3- | [EA]BA GAF | [DA]2z !>!D3- | D2z D2z | \
+C2z!>!C3- | C2z C2z | D2z!>!D3- | D2z D2z |[1 z2z !>!([AE]3- |[AF]2)z !>!C2z | z2z !>!C2z | \
+z2z ^B,2z | z2z C2z | z2z !>!D3 :|2 z2z !>!C2z | z2z D2z| z2z C2z | z2z D2z| \
+C2z !>![B,D]2z | C2z z2z !D.S.!|] \
+%-----

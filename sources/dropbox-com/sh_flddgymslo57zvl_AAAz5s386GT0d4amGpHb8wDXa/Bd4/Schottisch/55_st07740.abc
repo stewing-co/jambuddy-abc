@@ -1,0 +1,65 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Bruder Lustig (Schottisch). GDC (st07740)  ABAC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.369 (st07740) orig. G,D,C
+T: Alte Seltisberger Musik. S.354-377
+T:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%partsbox
+P:ABAC
+%%MIDI program 21
+O:Switzerland
+R:Schottisch
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+d [P:A] |: "G"gg B>e | dd G>B | "D7"cA FD | ("G"G/A/B/c/) dd | gg B>c | dd G>B | "D7"cA FD |1 
+"G"GB Gd :|2 "G"GB Gz |: [P:B] [K:D]  ("D"F^E/F/) ("A7"GF/G/) | "D"A2f2 | {/g}"A7"fe B>c | e/d/c/B/ AA/G/ | "D"F^E/F/ "A7"GF/G/ | "D"A2f2 | 
+{/g}"A7"fe B>c |1 "D"dd dz :|2 "D"dd d"_>Teil A"d [K:C] [P:C] |: "C"G>G ed | c2c2 | "G7"Bc de | f3z | G>G fe | (dg)g2 | 
+g>a gf | "C"e3z | e>e ee | (eg)g2 | fe dc | ("G7"Bd)d2 | d>e fg | "F"aaa2 | "C"g>e "G7"fB | "C"ce c"_Fine"z :| 
+W:
+W:Anmerkung H.C.: Keltengalopp, Rünenberg 11, Läufelfingen, s.V. 792
+% st07740 (C) Mülirad-Verlag 2007
+% Oct 6, 2017 (memory expanded time)
+
+X:2
+T:Bruder Lustig (Schottisch). CGF 7- (st07740) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.369 (st07740) orig. G,D,C
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+%O:Switzerland
+R:Schottisch
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G |: "C"cc E>A | GG C>E | "G7"FD B,G, | ("C"C/2D/2E/2F/2) GG | cc E>F | GG C>E | "G7"FD B,G, |1 
+"C"CE CG :|2 "C"CE Cz |: [K:Gmaj] ("G"B,^A,/2B,/2) ("D7"CB,/2C/2) | "G"D2B2 | {/c}"D7"BA E>F | A/2G/2F/2E/2 DD/2C/2 | "G"B,^A,/2B,/2 "D7"CB,/2C/2 | "G"D2B2 | 
+{/c}"D7"BA E>F |1 "G"GG Gz :|2 "G"GG G"_>Teil A"G [K:Fmaj] |: "F"C>C AG | F2F2 | "C7"EF GA | B3z | C>C BA | (Gc)c2 | 
+c>d cB | "F"A3z | A>A AA | (Ac)c2 | BA GF | ("C7"EG)G2 | G>A Bc | "Bb"ddd2 | "F"c>A "C7"BE | "F"FA F"_Fine"z :| 
+W:Parts:ABAC
+%W:Anmerkung H.C.: Keltengalopp, Rünenberg 11, Läufelfingen, s.V. 792
+% st07740 (C) Mülirad-Verlag 2007
+% Oct 6, 2017
+
+X:3
+T:Bruder Lustig (Schottisch). CGF 5+ (st07740) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.369 (st07740) orig. G,D,C
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+%O:Switzerland
+R:Schottisch
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+g |: "C"c'c' e>a | gg c>e | "G7"fd BG | ("C"c/2d/2e/2f/2) gg | c'c' e>f | gg c>e | "G7"fd BG |1 
+"C"ce cg :|2 "C"ce cz |: [K:Gmaj] ("G"B^A/2B/2) ("D7"cB/2c/2) | "G"d2b2 | {/c'}"D7"ba e>f | a/2g/2f/2e/2 dd/2c/2 | "G"B^A/2B/2 "D7"cB/2c/2 | "G"d2b2 | 
+{/c'}"D7"ba e>f |1 "G"gg gz :|2 "G"gg g"_>Teil A"g [K:Fmaj] |: "F"c>c ag | f2f2 | "C7"ef ga | b3z | c>c ba | (gc')c'2 | 
+c'>d' c'b | "F"a3z | a>a aa | (ac')c'2 | ba gf | ("C7"eg)g2 | g>a bc' | "Bb"d'd'd'2 | "F"c'>a "C7"be | "F"fa f"_Fine"z :| 
+W:Parts:ABAC
+%W:Anmerkung H.C.: Keltengalopp, Rünenberg 11, Läufelfingen, s.V. 792
+% st07740 (C) Mülirad-Verlag 2007
+% Oct 6, 2017

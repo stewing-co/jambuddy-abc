@@ -1,0 +1,20 @@
+X:403
+T:Beata Viscera Mariae Virgins
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 3 clef=bass name="Bayxao" sname="Bx."
+%%MIDI program 1 1
+%%staves [ 3 ]
+%------------------
+Z20 !segno!|| \
+[M:3/2] Z17 !fine! |] \
+[M:2/2] A,2 | E,/>E,/E,/E,/ | A,/D,/ G,//F,//E,//D,// | \
+C,/A,,//B,,// C,//D,//E,//F,// | G,/>G,/ D,/F,/ | E,E,| A,,/A,/ ^G,/G,/| \
+A,/>=G,/F,//E,// F,/ | E,A, | G,/C,B,,/|C,A,,| G,,D,| E,E,| A,,C,| G,,G,,| \
+C,/E,/ D,| G,,/G,C,/-|C,/ E,/ D,| G,,/ C,G,,/-| G,,/ C,/ G,, | \
+D,D,|A,,A,,|E,2|A,,2| z/A,^G,/| A,E,|A,,A,,| D,>D,| G,,C,|C,C,| \
+A,,/>B,,/ C,/D,/ | E,C,|G,A,| E,2-|E,2|A,,A,,|D,>C,|B,,A,,| \
+E,C,| F,>E,| D,/C,/D,| C,2-|C,2|D,/A,,A,,/|E,/C,C,/|G,A,|E,2-|E,E,| A,,2|E,2-|E,2!segno! |] \
+%------------------

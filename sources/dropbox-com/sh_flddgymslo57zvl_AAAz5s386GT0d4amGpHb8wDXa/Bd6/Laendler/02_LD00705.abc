@@ -1,0 +1,78 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:L\"andler  CG
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S199 (LD00705) orig. C,G-Dur
+T:Walliser T\"anze. S.196-213.\"Uberliefert durch Josef Seewer und Marcel Tschopp, Leuk, 
+T: und Sepp Mutter, Ried/Brigerberg
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"ce eGc2 | "G7"Bd dGf2 | Gd dGB2 | "C"ce eGg2 | ce eGc2 | "G7"Bd dGf2 | 
+Bd dG AB |1 "C"c4z2 :|2 "C"c4d2 |: [K:G] "G"db bdg2 | "D7"da adc'2 | da adf2 | 
+"G"gb bd d'2 | db bdg2 | "D7"da adc'2 | da ad ef |1 "G"g4d2 :|2 "G"g4z2 |]   
+% LD00705
+X:2
+T:L\"andler  FC
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:F%%MIDI gchordon
+"F"FA ACF2 | "C7"EG GCB2 | CG GCE2 | "F"FA ACc2 | FA ACF2 | "C7"EG GCB2 | 
+EG GC DE |1 "F"F4z2 :|2 "F"F4G2 |: [K:C] "C"Ge eGc2 | "G7"Gd dGf2 | Gd dGB2 | 
+"C"ce eG g2 | Ge eGc2 | "G7"Gd dGf2 | Gd dG AB |1 "C"c4G2 :|2 "C"c4z2 |] 
+% LD00705
+X:3
+T:L\"andler  CG (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"ce eGc2 | "G7"Bd dGf2 | Gd dGB2 | "C"ce eGg2 | ce eGc2 | "G7"Bd dGf2 | 
+Bd dG AB |1 "C"c4z2 :|2 "C"c4d2 |: [K:G] "G"db bdg2 | "D7"da adc'2 | da adf2 | 
+"G"gb bd d'2 | db bdg2 | "D7"da adc'2 | da ad ef |1 "G"g4d2 :|2 "G"g4z2 |]   
+% LD00705
+X:4
+T:L\"andler  FC (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"FA ACF2 | "C7"EG GCB2 | CG GCE2 | "F"FA ACc2 | FA ACF2 | "C7"EG GCB2 | 
+EG GC DE |1 "F"F4z2 :|2 "F"F4G2 |: [K:C] "C"Ge eGc2 | "G7"Gd dGf2 | Gd dGB2 | 
+"C"ce eG g2 | Ge eGc2 | "G7"Gd dGf2 | Gd dG AB |1 "C"c4G2 :|2 "C"c4z2 |] 
+% LD00705
+X:5
+T:L\"andler G&D (tinwhistle in D)
+T: LD00705 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"GB BDG2 | "D7"FA ADc2 | DA ADF2 | "G"GB BDd2 | GB BDG2 | "D7"FA ADc2 | 
+FA AD EF |1 "G"G4z2 :|2 "G"G4A2 |: [K:D] "D"Af fAd2 | "A7"Ae eAg2 | Ae eAc2 | 
+"D"df fA a2 | Af fAd2 | "A7"Ae eAg2 | Ae eA Bc |1 "D"d4A2 :|2 "D"d4z2 |] 
+X:6
+T:L\"andler G&D (tinwhistle in D) solo
+T: LD00705 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:G transpose=12
+GB BDG2 | FA AD"_c"c2 | DA ADF2 | GB BDd2 | GB BDG2 | FA AD"_c"c2 | 
+FA AD EF |1 G4z2 :|2 G4A2 |: [K:D] Af fAd2 | Ae eAg2 | Ae eAc2 | 
+df fA a2 | Af fAd2 | Ae eAg2 | Ae eA Bc |1 d4A2 :|2 d4z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 25, 2016

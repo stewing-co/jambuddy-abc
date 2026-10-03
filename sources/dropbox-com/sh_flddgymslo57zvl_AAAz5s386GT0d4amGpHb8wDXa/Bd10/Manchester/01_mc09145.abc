@@ -1,0 +1,79 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Manchester  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: Das Repertoire der B\"abi-Musig, Alpnach. S.62-108. S.106 (mc09145) orig. C,F
+T: \"Uberliefert durch Josef B\"abi , Alpnach, 1880
+%%MIDI program 21
+R:Manchester
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c'2z2 | "G7"b2z2 | "F"a2z2 | "C"g2z2 | "G7"f>a g>f | "C"e>g f>e | "G7"d>f e>d | "C"c2z2 | c'2z2 | "Em"b2z2 | "F"a2z2 | "A7/C#"g2z2 | 
+"Dm"f>a g>f | "C"e>g f>e | "G7"d>f e>d | "C"c2z2 || "C"eGc2 | eGc2 | e>g c'>e | "G7"g2f2 | fGd2 | fGd2 | d'>c' b>a | 
+"C"ga gf | eGc2 | eGc2 | e>g c'>e | "G7"g2f2 | fGd2 | "C"eGc2 | "G7"B>a g>B | "C"ce cz || [K:F] 
+"F"f>c "C7"g>c | "F"a>c b>a | "C7"g>c d'>c' | "F"a>f d'>c' | f>c "C7"g>c | "F"a>c b>a | "Gm"g>d "C7"e>c | "F"ff fz |]  
+W:Anmerkung H.C.: 1880
+% mc09145
+X:2
+T:Manchester  GC 5-
+%%MIDI program 21
+R:Manchester
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"g2z2 | "D7"f2z2 | "C"e2z2 | "G"d2z2 | "D7"c>e d>c | "G"B>d c>B | "D7"A>c B>A | "G"G2z2 | g2z2 | "Bm"f2z2 | "C"e2z2 | "E7/G#"d2z2 | 
+"Am"c>e d>c | "G"B>d c>B | "D7"A>c B>A | "G"G2z2 || "G"BDG2 | BDG2 | B>d g>B | "D7"d2c2 | cDA2 | cDA2 | a>g f>e | 
+"G"de dc | BDG2 | BDG2 | B>d g>B | "D7"d2c2 | cDA2 | "G"BDG2 | "D7"F>e d>F | "G"GB Gz || [K:C] 
+"C"c>G "G7"d>G | "C"e>G f>e | "G7"d>G a>g | "C"e>c a>g | c>G "G7"d>G | "C"e>G f>e | "Dm"d>A "G7"B>G | "C"cc cz |] 
+% mc09145
+X:3
+T: Manchester  CF (5letras transposed)
+%%MIDI program 21
+R:Manchester
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"c'2z2 | "G7"b2z2 | "F"a2z2 | "C"g2z2 | "G7"f>a g>f | "C"e>g f>e | "G7"d>f e>d | "C"c2z2 | c'2z2 | "Em"b2z2 | "F"a2z2 | "A7/C#"g2z2 | 
+"Dm"f>a g>f | "C"e>g f>e | "G7"d>f e>d | "C"c2z2 || "C"eGc2 | eGc2 | e>g c'>e | "G7"g2f2 | fGd2 | fGd2 | d'>c' b>a | 
+"C"ga gf | eGc2 | eGc2 | e>g c'>e | "G7"g2f2 | fGd2 | "C"eGc2 | "G7"B>a g>B | "C"ce cz || [K:F] 
+"F"f>c "C7"g>c | "F"a>c b>a | "C7"g>c d'>c' | "F"a>f d'>c' | f>c "C7"g>c | "F"a>c b>a | "Gm"g>d "C7"e>c | "F"ff fz |]  
+% mc09145
+X:4
+T:Manchester  GC (5letras transposed)
+%%MIDI program 21
+R:Manchester
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"g2z2 | "D7"f2z2 | "C"e2z2 | "G"d2z2 | "D7"c>e d>c | "G"B>d c>B | "D7"A>c B>A | "G"G2z2 | g2z2 | "Bm"f2z2 | "C"e2z2 | "E7/G#"d2z2 | 
+"Am"c>e d>c | "G"B>d c>B | "D7"A>c B>A | "G"G2z2 || "G"BDG2 | BDG2 | B>d g>B | "D7"d2c2 | cDA2 | cDA2 | a>g f>e | 
+"G"de dc | BDG2 | BDG2 | B>d g>B | "D7"d2c2 | cDA2 | "G"BDG2 | "D7"F>e d>F | "G"GB Gz || [K:C] 
+"C"c>G "G7"d>G | "C"e>G f>e | "G7"d>G a>g | "C"e>c a>g | c>G "G7"d>G | "C"e>G f>e | "Dm"d>A "G7"B>G | "C"cc cz |] 
+% mc09145
+X:5
+T:Manchester G&C (tinwhistle in D)
+T:mc09145 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Manchester
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"g2z2 | "D7"f2z2 | "C"e2z2 | "G"d2z2 | "D7"c>e d>c | "G"B>d c>B | "D7"A>c B>A | "G"G2z2 | g2z2 | "Bm"f2z2 | "C"e2z2 | "E7/G#"d2z2 | 
+"Am"c>e d>c | "G"B>d c>B | "D7"A>c B>A | "G"G2z2 || "G"BDG2 | BDG2 | B>d g>B | "D7"d2c2 | cDA2 | cDA2 | a>g f>e | 
+"G"de dc | BDG2 | BDG2 | B>d g>B | "D7"d2c2 | cDA2 | "G"BDG2 | "D7"F>e d>F | "G"GB Gz || [K:C] 
+"C"c>G "G7"d>G | "C"e>G f>e | "G7"d>G a>g | "C"e>c a>g | c>G "G7"d>G | "C"e>G f>e | "Dm"d>A "G7"B>G | "C"cc cz |] 
+X:6
+T:Manchester G&A (tinwhistle in D) var. solo
+T:mc09145 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Manchester
+M:2/4
+L:1/8
+K:G transpose=12
+g2z2 | f2z2 | e2z2 | d2z2 | "_c"c>e d>c | B>d "_c"c>B | A>"_c"c B>A | G2z2 | g2z2 | f2z2 | e2z2 | "E7/G#"d2z2 | 
+"_c"c>e d>c | B>d "_c"c>B | A>"_c"c B>A | G2z2 || BDG2 | BDG2 | B>d g>B | d2c2 | "_c"cDA2 | "_c"cDA2 | a>g f>e | 
+de d"_c"c | BDG2 | BDG2 | B>d g>B | d2"_c"c2 | cDA2 | BDG2 | F>e d>F | GB Gz ||  [K:Amaj] 
+A>E B>E | c>E d>c | B>E f>e | c>A f>e | A>E B>E | c>E d>c | B>F "_#"G>E | AA Az |]
+% Aug 12, 2016

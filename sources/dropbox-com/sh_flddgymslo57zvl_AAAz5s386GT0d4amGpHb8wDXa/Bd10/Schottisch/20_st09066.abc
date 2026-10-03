@@ -1,0 +1,77 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Erlenbacher Schottisch  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: Das Repertoire der B\"abi-Musig, Alpnach. S.62-108. S.75 (st09066) orig. C,F
+T: \"Uberliefert durch Josef B\"abi, Alpnach, 1880
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+GG |: "C"G2e2 c2g2 | e2c'2 z2fe | "G7"d2a2 z2ed | "C"c2g2 G2GG | G2e2 c2g2 | e2c'2 z2gg | "G7"^fgba g=fed |1 
+"C"c2c2 c2GG :|2 "C"c2c2 c2z2 |: "Em"g4a4 | "B7"b4a4 | "C"g4"C0"^f4 | "C"g4z4 | e2Gc e2Gc | eGce a2g2 | "G7"fGBf a2g2 | 
+"C"eGce a2g2 | e2Gc e2Gc | eGce a2g2 | "G7"fedc BcdB | "C"c2c2 c2z2 :: [K:F] [L:1/8] "F"c!>!f2 c/d/ | 
+c!>!a2c/e/ | "C7"b/b/be2 | "F"a/a/af2 | c!>!f2c/d/ | c!>!a2c/e/ | "C7"ba de | "F"ff f"_Fine"z :: [K:C] "C"GA/B/ cc | 
+e>e d/c/B/A/ | "G7"Gf/f/ B>G | "C"Ge/e/ c>G | GA/B/ cd | e>e d/c/B/A/ | "G7"Gf ed | "C".c2"_> Teil C"!>!c2 :| 
+W: Parts: ABCD-C
+W: W:Anmerkung H.C.: 12. April 1959
+% st09066
+X:2
+T:Erlenbacher Schottisch  GC 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+DD |: "G"D2B2 G2d2 | B2g2 z2cB | "D7"A2e2 z2BA | "G"G2d2 D2DD | D2B2 G2d2 | B2g2 z2dd | "D7"^cdfe d=cBA |1 
+"G"G2G2 G2DD :|2 "G"G2G2 G2z2 |: "Bm"d4e4 | "F#7"f4e4 | "G"d4"G0"^c4 | "G"d4z4 | B2DG B2DG | BDGB e2d2 | "D7"cDFc e2d2 | 
+"G"BDGB e2d2 | B2DG B2DG | BDGB e2d2 | "D7"cBAG FGAF | "G"G2G2 G2z2 :: [K:C] [L:1/8] "C"G!>!c2 G/2A/2 | 
+G!>!e2G/2B/2 | "G7"f/2f/2fB2 | "C"e/2e/2ec2 | G!>!c2G/2A/2 | G!>!e2G/2B/2 | "G7"fe AB | "C"cc c"_Fine"z :: [K:G] "G"DE/2F/2 GG | 
+B>B A/2G/2F/2E/2 | "D7"Dc/2c/2 F>D | "G"DB/2B/2 G>D | DE/2F/2 GA | B>B A/2G/2F/2E/2 | "D7"Dc BA | "G".G2"_> Teil C"!>!G2 :| 
+W:Parts: ABCD-C
+% st09066
+X:3
+T:Erlenbacher Schottisch  CF (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+GG |: "C"G2e2 c2g2 | e2c'2 z2fe | "G7"d2a2 z2ed | "C"c2g2 G2GG | G2e2 c2g2 | e2c'2 z2gg | "G7"^fgba g=fed |1 
+"C"c2c2 c2GG :|2 "C"c2c2 c2z2 |: "Em"g4a4 | "B7"b4a4 | "C"g4"C0"^f4 | "C"g4z4 | e2Gc e2Gc | eGce a2g2 | "G7"fGBf a2g2 | 
+"C"eGce a2g2 | e2Gc e2Gc | eGce a2g2 | "G7"fedc BcdB | "C"c2c2 c2z2 :: [K:F] [L:1/8] "F"c!>!f2 c/d/ | 
+c!>!a2c/e/ | "C7"b/b/be2 | "F"a/a/af2 | c!>!f2c/d/ | c!>!a2c/e/ | "C7"ba de | "F"ff f"_Fine"z :: [K:C] "C"GA/B/ cc | 
+e>e d/c/B/A/ | "G7"Gf/f/ B>G | "C"Ge/e/ c>G | GA/B/ cd | e>e d/c/B/A/ | "G7"Gf ed | "C".c2"_> Teil C"!>!c2 :| 
+W: Parts: ABCD-C
+% st09066
+X:4
+T:Erlenbacher Schottisch G&C (tinwhistle in D)
+T:st09066 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+DD |: "G"D2B2 G2d2 | B2g2 z2cB | "D7"A2e2 z2BA | "G"G2d2 D2DD | D2B2 G2d2 | B2g2 z2dd | "D7"^cdfe d=cBA |1 
+"G"G2G2 G2DD :|2 "G"G2G2 G2z2 |: "Bm"d4e4 | "F#7"f4e4 | "G"d4"G0"^c4 | "G"d4z4 | B2DG B2DG | BDGB e2d2 | "D7"cDFc e2d2 | 
+"G"BDGB e2d2 | B2DG B2DG | BDGB e2d2 | "D7"cBAG FGAF | "G"G2G2 G2z2 :: [K:C] [L:1/8] "C"G!>!c2 G/2A/2 | 
+G!>!e2G/2B/2 | "G7"f/2f/2fB2 | "C"e/2e/2ec2 | G!>!c2G/2A/2 | G!>!e2G/2B/2 | "G7"fe AB | "C"cc c"_Fine"z :: [K:G] "G"DE/2F/2 GG | 
+B>B A/2G/2F/2E/2 | "D7"Dc/2c/2 F>D | "G"DB/2B/2 G>D | DE/2F/2 GA | B>B A/2G/2F/2E/2 | "D7"Dc BA | "G".G2"_> Teil C"!>!G2 :|
+W:Parts: ABCD-C
+X:5
+T:Erlenbacher Schottisch G&D (tinwhistle in D) var. solo
+T:st09066 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=12
+DD |: D2B2 G2d2 | B2g2 z2"_c"cB | A2e2 z2BA | G2d2 D2DD | D2B2 G2d2 | B2g2 z2dd | ^cdfe d"_c"=cBA |1 
+G2G2 G2DD :|2 G2G2 G2z2 |: d4e4 | f4e4 | d4^c4 | d4z4 | B2DG B2DG | BDGB e2d2 | "_c"cDF"_c"c e2d2 | 
+BDGB e2d2 | B2DG B2DG | BDGB e2d2 | "_c"cBAG FGAF | G2G2 G2z2 :: [K:D] [L:1/8] A!>!d2 A/2B/2 | 
+A!>!f2A/2c/2 | g/2g/2gc2 | f/2f/2fd2 | A!>!d2A/2B/2 | A!>!f2A/2c/2 | gf Bc | dd d"_Fine"z :: [K:G] DE/2F/2 GG | 
+B>B A/2G/2F/2E/2 | D"_c"c/2c/2 F>D | DB/2B/2 G>D | DE/2F/2 GA | B>B A/2G/2F/2E/2 | D"_c"c BA | .G2"_> Teil C"!>!G2 :|
+W:Parts: ABCD-C
+% Aug 16, 2016

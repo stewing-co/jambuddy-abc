@@ -1,0 +1,122 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Habi mys Schatzeli (Walzer, nach Seewer Seppi)  GC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.243 (wz00677) orig. G,C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"G>AB | "D7"c>Bc | "G"db>g | d3 | "D7"c a>f | c3 | 
+"G"db>g | d3 | G>AB | "D7"c>Bc | "G"db>g | d3 | 
+"D7"ca>f | d2f | "G"g>gg | gzd |: "C"ee/e/ e/e/ | gfe | 
+"G"edd | b2d | "D7"dcc |1 a2c | "G"cBB | g2d :|2 
+"D7"a2f | "G"g>gg | gzG || [K:C] "C"G2c | e2c | "G7"a>ff | 
+fzG | G2B | f2G |  "C"f>ee | ezG | G2c | 
+e2c | "G7"a>gg | gzG | G2B | f2B | "C"c>cc | czz |]  
+W:
+W: Habi ... - '(I) have my darling'
+X:2
+T:Habi mys Schatzeli (Walzer, nach Seewer Seppi)  CF 7-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"C>DE | "G7"F>EF | "C"Ge>c | G3 | "G7"F d>B | F3 | \
+"C"Ge>c | G3 | C>DE |
+ "G7"F>EF | "C"Ge>c | G3 | \
+"G7"Fd>B | G2B | "C"c>cc | czG |: "F"AA/2A/2 A/2A/2 |
+ cBA | \
+"C"AGG | e2G | "G7"GFF |1 d2F | "C"FEE | c2G :|2 \
+"G7"d2B |
+ "C"c>cc | czC || [K:F] "F"C2F | A2F | "C7"d>BB | \
+BzC | C2E | B2C | "F"B>AA |
+ AzC | C2F | \
+A2F | "C7"d>cc | czC | C2E | B2E | "F"F>FF | Fzz |] 
+% LD00774
+X:3
+T: Habi mys Schatzeli (Walzer, nach Seewer Seppi)  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"G>AB | "D7"c>Bc | "G"db>g | d3 | "D7"c a>f | c3 | \
+"G"db>g | d3 | G>AB |
+ "D7"c>Bc | "G"db>g | d3 | \
+"D7"ca>f | d2f | "G"g>gg | gzd |: "C"ee/e/ e/e/ |
+ gfe | \
+"G"edd | b2d | "D7"dcc |1 a2c | "G"cBB | g2d :|2 \
+"D7"a2f |
+ "G"g>gg | gzG || [K:C] "C"G2c | e2c | "G7"a>ff | \
+fzG | G2B | f2G |  "C"f>ee |
+ ezG | G2c | \
+e2c | "G7"a>gg | gzG | G2B | f2B | "C"c>cc | czz |]  
+% LD00774
+X:4
+T:Habi mys Schatzeli (Walzer, nach Seewer Seppi)  CF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"C>DE | "G7"F>EF | "C"Ge>c | G3 | "G7"F d>B | F3 | \
+"C"Ge>c | G3 | C>DE |
+ "G7"F>EF | "C"Ge>c | G3 | \
+"G7"Fd>B | G2B | "C"c>cc | czG |: "F"AA/2A/2 A/2A/2 |
+ cBA | \
+"C"AGG | e2G | "G7"GFF |1 d2F | "C"FEE | c2G :|2 \
+"G7"d2B |
+ "C"c>cc | czC || [K:F] "F"C2F | A2F | "C7"d>BB | \
+BzC | C2E | B2C | "F"B>AA |
+ AzC | C2F | \
+A2F | "C7"d>cc | czC | C2E | B2E | "F"F>FF | Fzz |] 
+% LD00774
+X:5
+T:Habi mys Schatzeli (Walzer, nach Seewer Seppi) D&G (tinwhistle in D)
+T:wz00677 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+"D"D>EF | "A7"G>FG | "D"Af>d | A3 | "A7"G e>c | G3 | \
+"D"Af>d | A3 | D>EF |
+"A7"G>FG | "D"Af>d | A3 | \
+"A7"Ge>c | A2c | "D"d>dd | dzA |: "G"BB/2B/2 B/2B/2 |
+dcB | \
+"D"BAA | f2A | "A7"AGG |1 e2G | "D"GFF | d2A :|2 \
+"A7"e2c |
+"D"d>dd | dzD || [K:G] "G"D2G | B2G | "D7"e>cc | \
+czD | D2F | c2D | "G"c>BB |
+BzD | D2G | \
+B2G | "D7"e>dd | dzD | D2F | c2F | "G"G>GG | Gzz |] 
+X:6
+T:Habi mys Schatzeli (Walzer, nach Seewer Seppi) D&G (tinwhistle in D)
+T:wz00677 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+D>EF | G>FG | Af>d | A3 | G e>c | G3 | \
+Af>d | A3 | D>EF |
+G>FG | Af>d | A3 | \
+Ge>c | A2c | d>dd | dzA |: BB/2B/2 B/2B/2 |
+dcB | \
+BAA | f2A | AGG |1 e2G | GFF | d2A :|2 \
+e2c |
+d>dd | dzD || [K:G] D2G | B2G | e>"_c"cc | \
+czD | D2F | "_c"c2D | "_c"c>BB |
+BzD | D2G | \
+B2G | e>dd | dzD | D2F | "_c"c2F | G>GG | Gzz |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 1, 2016

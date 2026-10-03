@@ -1,0 +1,43 @@
+I:abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X: 1
+T: Schottisch F chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.416 (st11551) orig. F-Dur
+T: Tänze aus Altdorf (Uri)
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+cc |: "F"c2A2 c2dd | "Bb"d2B2 d2ee | "C7"e2c2 e2b2 | "F"a6ff | f2ef gfef | "C7"e2B2 c2ee | e2B2 c2ee | "F"f2A2 c2cc | 
+c2A2 c2dd | "Bb"d2B2 d2ee | "C7"e2c2 e2b2 | "F"a6ff | f2ef gfef | "C7"e2B2c4 | e3d c2ef |1 "F"f2ff f2cc :|2 "F"f2ff f2z2 || 
+|: "Bb"+>+d4 ((3f2e2d2) | "F"c8 | c2fg a4 | "C7"((3b2g2e2) c2de | "F"f2cf a2c2 | "Bb"+>+d4 ((3f2e2d2) | "F"c2fga4 | "C7"((3b2g2e2) c2de | "F"f2fff4 :| 
+
+X:2
+T:Schottisch C 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+GG |: "C"G2E2 G2AA | "F"A2F2 A2BB | "G7"B2G2 B2f2 | "C"e6cc | c2Bc dcBc | "G7"B2F2 G2BB | B2F2 G2BB | "C"c2E2 G2GG | 
+G2E2 G2AA | "F"A2F2 A2BB | "G7"B2G2 B2f2 | "C"e6cc | c2Bc dcBc | "G7"B2F2G4 | B3A G2Bc |1 "C"c2cc c2GG :|2 "C"c2cc c2z2 || 
+|: "F"!>!A4 ((3c2B2A2) | "C"G8 | G2cd e4 | "G7"((3f2d2B2) G2AB | "C"c2Gc e2G2 | "F"!>!A4 ((3c2B2A2) | "C"G2cde4 | "G7"((3f2d2B2) G2AB | "C"c2ccc4 :| 
+
+X:3
+T:Schottisch G 2+ chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+dd |: "G"d2B2 d2ee | "C"e2c2 e2ff | "D7"f2d2 f2c'2 | "G"b6gg | g2fg agfg | "D7"f2c2 d2ff | f2c2 d2ff | "G"g2B2 d2dd | 
+d2B2 d2ee | "C"e2c2 e2ff | "D7"f2d2 f2c'2 | "G"b6gg | g2fg agfg | "D7"f2c2d4 | f3e d2fg |1 "G"g2gg g2dd :|2 "G"g2gg g2z2 || 
+|: "C"!>!e4 ((3g2f2e2) | "G"d8 | d2ga b4 | "D7"((3c'2a2f2) d2ef | "G"g2dg b2d2 | "C"!>!e4 ((3g2f2e2) | "G"d2gab4 | "D7"((3c'2a2f2) d2ef | "G"g2ggg4 :| 
+
+X:4
+T:Schottisch G 10- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+DD |: "G"D2B,2 D2EE | "C"E2C2 E2FF | "D7"F2D2 F2c2 | "G"B6GG | G2FG AGFG | "D7"F2C2 D2FF | F2C2 D2FF | "G"G2B,2 D2DD | 
+D2B,2 D2EE | "C"E2C2 E2FF | "D7"F2D2 F2c2 | "G"B6GG | G2FG AGFG | "D7"F2C2D4 | F3E D2FG |1 "G"G2GG G2DD :|2 "G"G2GG G2z2 || 
+|: "C"!>!E4 ((3G2F2E2) | "G"D8 | D2GA B4 | "D7"((3c2A2F2) D2EF | "G"G2DG B2D2 | "C"!>!E4 ((3G2F2E2) | "G"D2GAB4 | "D7"((3c2A2F2) D2EF | "G"G2GGG4 :| 
+
+

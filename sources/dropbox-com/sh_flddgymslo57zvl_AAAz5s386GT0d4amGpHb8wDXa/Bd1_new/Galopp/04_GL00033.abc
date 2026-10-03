@@ -1,0 +1,63 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Galopp  FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhause, St. Gallen I. S.59 (GL00033) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"f4 | "Dm/F"d4 | "C7"c2b>e | "F"f2z2 || a>g a>b | a2c2 | a>g a>b | a2c2 | 
+"C7"g>^f g>a | c'2b2 | d2e2 | "F"g2f2 | a>g a>b | a2c2 | a>g a>b | a2c2 | 
+"C"c2c/d/e/f/ | g2 f>e | "G7"d>e f>g | "C7"e2 g>a || "F"c'4 | =bc' a>f | c4 |  
+z2f>a | "C7"a2g2 | zb a>g | g2f2 | "F"zc f>a | c'4 | =bc' a>f | "Bb"d2 (b2 | b2)a2 | 
+"C7"g4 | g>f g>a | "F"f2 "C7"e>g | "F"f2z2 || [K:Bb] "F7"e4 | "Bb"d>A B>d | f3 g/f/ | 
+e2d2 | "F7"c2a2 | a>f f>e |  c4 | "G7"d2z2 | "Cm/Eb"c2 (g2 |  "F7"g2) f>e |  "Bb"d2 (b2 |   
+"C7"b2) a>g | "F7"f>g e>d | d>e c>d | "Bb"B2 b>b | b2z2 |] 
+W:
+W: Anmerkung Hrsg.: Takt 38 HC: c/Takt 49: HC: d-es
+
+X:2
+T:Galopp  CF 5- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"c4 | "Am/C"A4 | "G7"G2f>B | "C"c2z2 || e>d e>f | e2G2 | e>d e>f | e2G2 | 
+"G7"d>^c d>e | g2f2 | A2B2 | "C"d2c2 | e>d e>f | e2G2 | e>d e>f | e2G2 | 
+"G"G2G/2A/2B/2c/2 | d2 c>B | "D7"A>B c>d | "G7"B2 d>e || "C"g4 | ^fg e>c | G4 | 
+z2c>e | "G7"e2d2 | zf e>d | d2c2 | "C"zG c>e | g4 | ^fg e>c | "F"A2 (f2 | f2)e2 | 
+"G7"d4 | d>c d>e | "C"c2 "G7"B>d | "C"c2z2 || [K:Fmaj] "C7"B4 | "F"A>E F>A | c3 d/2c/2 | 
+B2A2 | "C7"G2e2 | e>c c>B | G4 | "D7"A2z2 | "Gm/Bb"G2 (d2 | "C7"d2) c>B | "F"A2 (f2 | 
+"G7"f2) e>d | "C7"c>d B>A | A>B G>A | "F"F2 f>f | f2z2 |] 
+
+X:3
+T:Galopp  CF 5- chords (align)
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"c4 | "Am/C"A4 | "G7"G2f>B | "C"c2z2 || e>d e>f | e2G2 | e>d e>f | e2G2 | \
+"G7"d>^c d>e | g2f2 |
+ A2B2 | "C"d2c2 | e>d e>f | e2G2 | e>d e>f | e2G2 | \
+"G"G2G/2A/2B/2c/2 | d2 c>B | "D7"A>B c>d | "G7"B2 d>e ||
+ "C"g4 | ^fg e>c | G4 | \
+z2c>e | "G7"e2d2 | zf e>d | d2c2 | "C"zG c>e | g4 | ^fg e>c |
+ "F"A2 (f2 | f2)e2 | \
+"G7"d4 | d>c d>e | "C"c2 "G7"B>d | "C"c2z2 || [K:Fmaj] "C7"B4 | "F"A>E F>A | c3 d/2c/2 | \
+B2A2 | "C7"G2e2 |
+ e>c c>B | G4 | "D7"A2z2 | "Gm/Bb"G2 (d2 | "C7"d2) c>B | "F"A2 (f2 | \
+"G7"f2) e>d | "C7"c>d B>A | A>B G>A | "F"F2 f>f | f2z2 |] 
+
+X:4
+T:Galopp  EbAB (5letras) cf. CF 5- chords
+M:2/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+"Eb"e4 | "Cm/Eb"c4 | "Bb7"B2a>d | "Eb"e2z2 || g>f g>a | g2B2 | g>f g>a | g2B2 | 
+"Bb7"f>=e f>g | b2a2 | c2d2 | "Eb"f2e2 | g>f g>a | g2B2 | g>f g>a | g2B2 | 
+"Bb"B2B/2c/2d/2e/2 | f2 e>d | "F7"c>d e>f | "Bb7"d2 f>g || "Eb"b4 | =ab g>e | B4 | 
+z2e>g | "Bb7"g2f2 | za g>f | f2e2 | "Eb"zB e>g | b4 | =ab g>e | "Ab"c2 (a2 | a2)g2 | 
+"Bb7"f4 | f>e f>g | "Eb"e2 "Bb7"d>f | "Eb"e2z2 || [K:Abmaj] "Eb7"d4 | "Ab"c>G A>c | e3 f/2e/2 | 
+d2c2 | "Eb7"B2g2 | g>e e>d | B4 | "F7"c2z2 | "Bbm/Db"B2 (f2 | "Eb7"f2) e>d | "Ab"c2 (a2 | 
+"Bb7"a2) g>f | "Eb7"e>f d>c | c>d B>c | "Ab"A2 a>a | a2z2 |] 
+

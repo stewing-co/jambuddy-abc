@@ -1,0 +1,45 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka GDC (mz07425)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.335 (mz07425) orig. G,D,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACDCA
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+Bc [P:A] |: ("G"d/b/)zb2ag | ("D7"fe)c4 | (cf) (cf) (cf) | ("G"ed)B2GA |  (Be) (Be) (Be) |1 ("D7"dc)F2DF | Fd Fd Fd | "G"ed B2Bc :|2 
+("C"dc)E2(AG) | ("D7"Fe)d2(dF) | "G""_fine"G4A2 [P:B]|: [K:D]  "D"f>(f A>)(f A>)(f | "Em".f)(e ^de fg) | "A7"b>a g(f g)a | ("D"fb)a3g | 
+f>(f A>)(f A>)(f | "Em".f)(e ^de fg) | "A7"b>a g(f g)c |1 "D"d4A2 :|2 "D"d4B"_>Teil A"=c || [K:C] e>f [P:C]|: "C"g3(g ^fg) | 
+"G7".a>(a B2).B2 | .a>(a B2).B2 | "C".c'>(c'e2) ef | g3(g ^fg) | "G7".a>(a B2).B2 | (Bd) (dg) f>B |1 "C"c4e>f :|2 "C"c4z2 |] 
+[P:D]("Am"ef)e2("E7"bc')  | "Am"Pb2 a(e a)c' | P"E7"c'2 b(e b)d' | "Am"c'>d' b>c'a2 | ("D7"de)d2(ab) | P"G"a2 g(d g)b | "D7"d'2 c'^f ba | "G"g4 "_>Teil C"e>f || 
+W:Parts: ABACDC A
+%(% mz07425
+% Aug 20, 2017 (Teacher, freelancer)
+
+X:2
+T:Mazurka CGF 7- (mz07425)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.335 (mz07425) orig. G,D,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACDCA
+R:Mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+EF [P:A] |: ("C"G/2e/2)ze2dc | ("G7"BA)F4 | (FB) (FB) (FB) | ("C"AG)E2CD | (EA) (EA) (EA) |1 ("G7"GF)B,2G,B, | B,G B,G B,G | "C"AG E2EF :|2 
+("F"GF)A,2(DC) | ("G7"B,A)G2(GB,) | "C""_fine"C4D2 [P:B]|: [K:G] "G"B>(B D>)(B D>)(B | "Am".B)(A ^GA Bc) | "D7"e>d c(B c)d | ("G"Be)d3c | 
+B>(B D>)(B D>)(B | "Am".B)(A ^GA Bc) | "D7"e>d c(B c)F |1 "G"G4D2 :|2 "G"G4E"_>Teil A"=F || [K:F] A>B [P:C]|: "F"c3(c =Bc) | 
+"C7".d>(d E2).E2 | .d>(d E2).E2 | "F".f>(fA2) AB | c3(c =Bc) | "C7".d>(d E2).E2 | (EG) (Gc) B>E |1 "F"F4A>B :|2 "F"F4z2 |] 
+[P:D]("Dm"AB)A2("A7"ef) | "Dm"Pe2 d(A d)f | P"A7"f2 e(A e)g | "Dm"f>g e>fd2 | ("G7"GA)G2(de) | P"C"d2 c(G c)e | "G7"g2 f=B ed | "C"c4 "_>Teil C"A>B || 
+W:Parts: ABA CDC A
+%(% mz07425
+% Aug 20, 2017

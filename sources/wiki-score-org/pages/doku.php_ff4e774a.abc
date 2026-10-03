@@ -1,0 +1,40 @@
+X:614
+T:Aria Euridice
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:Bb
+V: 14 clef=bass name="[Basso]" sname="B."
+%%MIDI program 1 42
+%%staves [ 14 ]
+[V: 14]	%-------------------------------------------------------------------
+"_[fol.53]" [Q:"Maestoso"] z | B,,/B,/F,/D,/  !/! B,,2 | F,B,B,,!fermata!z | \
+[L:1/8] "^pizzicato" !p!B,,D,F,D, B,,D,F,D, | B,,E,G,E, B,,E,G,E,| B,,E,G,E, B,,E,G,E, |B,,D,F,D, B,,D,F,D,  | \
+"_[fol.54]" F,A,CA, F,B,DB, | F,CEC F,CEC |  F,B,DB, F,CEC | F,B,DB, \
+[L:1/4] F, z |  !/!F,4 |!/!F,4 | \
+"_[fol.55]" F,F,/>F,/F, !fermata!z || [Q:"Andante"][M:3/4] "_[Libretto, fol.6]" B,,zz | ^F,/z/ G,/z/ z | E,/z/ E,/z/ F,/z/ | G,3 | E,/z/ E,/z/ F,/z/ | \
+"_[fol.56]" B,,B,,!fermata!z || [Q:"Andantino"][M:C] z | Z4 | B,,zz2| Z2 | \
+"_[fol.57]" Z4 | "_Cello" !f!  F,zF,z | !p!=E,4 | !f!F,zF,z | \
+"_[fol.58]" !p!!/!=E,4 | F,zF,z |F,zF,z | !f!!/!F,4 | F,F,,z2 | !p!D,4 | \
+"_[fol.59]" =E,2z2 | F,zC,z | F,zz2 | D,4 | =E,2z2 | F,zC,z | F,zC,z | \
+"_[fol.60]"  F,zC,z | !/!F,4 | !/!F,4 | F,zz2 | !f!F,2z2| \
+"_[fol.61]" D,4 | =E,2z2 | F,zC,z| F,zA,z| B,zz2| !/!C,4| \
+"_[fol.62]" !/!C,4|!/!C,4| !/!F,4| !/!F,4| F,A,B,C | F,F,F,F, | F,F,,!fermata!  F,, "_[Libretto fol.7]" z || \
+"_[fol.63]" [Q:"Andante"][M:3/4] A,,3 | A,,2z| =E,A,z| E,/z/ E,/z/ E,/z/ | A,/z/ A,/z/ A,/z/ | ^F,/z/ F,/z/ F,/z/ | \
+"_[fol.64]" E,E,,z|=C,3-|C,3|C,/z/ C,/z/ C,/z/|^C,/z/ C,/z/ A,,/z/| \
+"_[fol.65]" D,/z/A,,2 | _B,,/_E,/ F,/z/ _E,/z/ | !fermata!D,2z | _E,/z/ F,/z/ F,/z/ || \
+%
+[Q:"Allegro assai"][M:C] B,,/B,,/ B,,/z/ D,/D,/ D,/z/ | \
+%
+"_[fol.66]" F,/F,/  F,/z/ !/!B,,2 |!/!B,,4 |!/!B,,4 | B,,E,F,F,,| B,,z B,,z | B,,z B,,z | \
+"_[fol.67]" !f!G,,G,,G,,z | !p!G,,zz2|G,,zz2|!f!G,,C,C,z| !p!F,zz2|F,zz2|F,B,,D,z |\
+"_[fol.68]" !p!E,z=E,z| F,zz2| z4|F,zz2| z4| F,zz2| \
+"_[fol.69]" z4| B,,zz2| z4|B,,zz2| z4|B,,zz2| D,4| \
+"_[fol.70]" !f!E,E,E,E, | !p!E,zE,z |D,zE,z |F,zF,,z | !f! (B,,D,C,A,,) | B,,DCF, | \
+"_[fol.71]" !f!B,,D,C,A,, | !p!B,,DCF,| !f!!/!B,,4| !/!B,,4| B,,z !fermata!G,2|!fermata!F,2z2| \
+"_[fol.72]" D,4| !f!!/!E,2E,z| !p!F,z F,z | B,,zz2 | D,4 | !f!!/!E,2E,z| \
+"_[fol.73]" F,z F,z | D,z D,2 | z/E,/E,/E,/ E, z | E,zz2 | z4 | F,z F,z | B,,zz2 | \
+"_[fol.74]" z4| B,,z D,z | E,zz2 | D,zz2 | !f!!/!E,2E,z| !p!F,z F,z | \
+"_[fol.75]" D,z E,z | F,z F,z | D,z E,z |F,F,F,F, | !f!B,,/B,,/ B,,/z/ D,/D,/ D,/z/ | F,/F,/F,/D,/ !/!B,,2 | \
+"_[fol.76]" !/!B,,4 |!/!B,,4 | B,,E,F,F, | B,,B,F,D, | B,,2z2 |]
+%-------------------------------------------------------------------

@@ -1,0 +1,66 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch  GDC  (ABCDED)
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.119 (st09185) orig. G,D,C
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+%%partsbox
+P:ABCDED
+R:shottische
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+[P:A] "G"ba ge | dB/c/ de | "D7"cA/B/ cd | "G"B/c/d ed | ba ge | dB/c/ de | "D7"cA/B/ c/d/e/f/ | "G"gg g z :| [K:D] 
+[P:B] {/g}"A7"ae =g/f/e | {/^g}"D"ad f/e/d | "A7"c/d/e e/f/g | "D"fb !>!a2 | {/^g}"A7"ae =g/f/e | {/^g}"D"ad f/e/d | "A7"c/d/e ba | "D".d2 !>!d2 || [K:G] 
+[P:C] |: "G"bg/d/ Be | "D7"dc c/B/c | c'a/f/ dd' | "G"bg g/f/g | bg/d/ Bd | "C"ce e/^d/e | "D7"df f/e/f | "G"gg gz :| [K:C] 
+[P:D] |: "C"eG f>e | "G7"ed d/^c/d/e/ | fB e>d | "C"dc c/a/g/f/ | eG f>e | "G7"ed d/^c/d/e/ | fB e>d | "C"cc c"_Fine"z :|  [K:G] 
+[P:E] "D7"d/e/f/g/ a/b/c'/d'/ | "G"bd b/c'/b | "D7"ac a/b/a | "G"gB g/a/g | "D7"d/e/f/g/ a/b/c'/d'/ | "G"bd b/c'/b | "D7"ac a/b/a | "G".g2 "_>Teil D"!>!g2 |] 
+W:Parts: ABCD ED
+% st09185 (H 329/TN 24)
+X:2
+T:Schottisch  CGF 7-
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+"C"ed cA | GE/2F/2 GA | "G7"FD/2E/2 FG | "C"E/2F/2G AG | ed cA | GE/2F/2 GA | "G7"FD/2E/2 F/2G/2A/2B/2 | "C"cc c z :| [K:G] 
+{/c}"D7"dA =c/2B/2A | {/^c}"G"dG B/2A/2G | "D7"F/2G/2A A/2B/2c | "G"Be !>!d2 | {/^c}"D7"dA =c/2B/2A | {/^c}"G"dG B/2A/2G | "D7"F/2G/2A ed | "G".G2 !>!G2 || [K:C] 
+|: "C"ec/2G/2 EA | "G7"GF F/2E/2F | fd/2B/2 Gg | "C"ec c/2B/2c | ec/2G/2 EG | "F"FA A/2^G/2A | "G7"GB B/2A/2B | "C"cc cz :| [K:F] 
+|: "F"AC B>A | "C7"AG G/2^F/2G/2A/2 | BE A>G | "F"GF F/2d/2c/2B/2 | AC B>A | "C7"AG G/2^F/2G/2A/2 | BE A>G | "F"FF F"_Fine"z :| [K:C] 
+"G7"G/2A/2B/2c/2 d/2e/2f/2g/2 | "C"eG e/2f/2e | "G7"dF d/2e/2d | "C"cE c/2d/2c | "G7"G/2A/2B/2c/2 d/2e/2f/2g/2 | "C"eG e/2f/2e | "G7"dF d/2e/2d | "C".c2 "_>Teil D"!>!c2 |] 
+W:Parts: ABCD ED
+% st09185
+X:3
+T:Schottisch  CGF  (5letras transposed)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"ed cA | GE/2F/2 GA | "G7"FD/2E/2 FG | "C"E/2F/2G AG | ed cA | GE/2F/2 GA | "G7"FD/2E/2 F/2G/2A/2B/2 | "C"cc c z :| [K:G] 
+{/c}"D7"dA =c/2B/2A | {/^c}"G"dG B/2A/2G | "D7"F/2G/2A A/2B/2c | "G"Be !>!d2 | {/^c}"D7"dA =c/2B/2A | {/^c}"G"dG B/2A/2G | "D7"F/2G/2A ed | "G".G2 !>!G2 || [K:C] 
+|: "C"ec/2G/2 EA | "G7"GF F/2E/2F | fd/2B/2 Gg | "C"ec c/2B/2c | ec/2G/2 EG | "F"FA A/2^G/2A | "G7"GB B/2A/2B | "C"cc cz :| [K:F] 
+|: "F"AC B>A | "C7"AG G/2^F/2G/2A/2 | BE A>G | "F"GF F/2d/2c/2B/2 | AC B>A | "C7"AG G/2^F/2G/2A/2 | BE A>G | "F"FF F"_Fine"z :| [K:C] 
+"G7"G/2A/2B/2c/2 d/2e/2f/2g/2 | "C"eG e/2f/2e | "G7"dF d/2e/2d | "C"cE c/2d/2c | "G7"G/2A/2B/2c/2 d/2e/2f/2g/2 | "C"eG e/2f/2e | "G7"dF d/2e/2d | "C".c2 "_>Teil D"!>!c2 |] 
+W:Parts: ABCD ED
+% st09185
+X:4
+T:Schottisch DA&G (tinwhistle in D) var. solo
+T:st09185 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottische
+M:2/4
+L:1/8
+K:D transpose=12
+fe dB | AF/2G/2 AB | GE/2F/2 GA | F/2G/2A BA | fe dB | AF/2G/2 AB | GE/2F/2 G/2A/2B/2c/2 | dd d z :| [K:A] 
+{/d}eB =d/2c/2B | {/^d}eA c/2B/2A | "_#"G/2A/2B B/2c/2d | cf !>!e2 | {/^d}eB =d/2c/2B | {/^d}eA c/2B/2A | "#"G/2A/2B fe | .A2 !>!A2 || [K:D] 
+|: fd/2A/2 FB | AG G/2F/2G | ge/2c/2 Aa | fd d/2c/2d | fd/2A/2 FA | GB B/2^A/2B | Ac c/2B/2c | dd dz :| [K:G] 
+|: BD c>B | BA A/2^G/2A/2B/2 | "_c"cF B>A | AG G/2e/2d/2c/2 | BD c>B | BA A/2^G/2A/2B/2 | cF B>A | GG G"_Fine"z :| [K:D] 
+A/2B/2c/2d/2 e/2f/2g/2a/2 | fA f/2g/2f | eG e/2f/2e | dF d/2e/2d | A/2B/2c/2d/2 e/2f/2g/2a/2 | fA f/2g/2f | eG e/2f/2e | .d2 "_>Teil D"!>!d2 |]
+W:Parts: ABCD ED
+% st09185
+% Sep. 17, 2016

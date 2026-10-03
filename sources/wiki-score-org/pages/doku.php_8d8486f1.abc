@@ -1,0 +1,26 @@
+X:319
+T:Te Deum
+C:Giuseppe Totti (17__-1832)
+M:C
+L:1/4
+K:D
+V: 19 clef=bass name="Bassi" sname="B."
+%%MIDI program 1 42
+%%staves [ 19 ]
+%----- edit between the lines ----
+"_[fol.49]" [Q:"Allegro non tanto"]  !f! D2 A,2 | F, D, z2 | z2 z/>D/C/>B,/ | A,/>F/E/>D/ C/>B,/A,/>G,/ | \
+"_[fol.50]"  F,z G,z  | !/!A,2 !/!A,,2 | D,z z2 | A,,z z2  | D,zz G, | \
+"_[fol.51]"  F,G,F,E, | D,zzG, | F,G,F,E, | D, A,/>A,/ D,/>D,/A,,/>A,,/ |  D, A,/>A,/ F,/>F,/D,/>D,/ | \
+"_[fol.52]"  A,,z z2  | !p! (D,2E,2) | (F,2G,2) | A,2 z2 | !p! (D,2E,2) | \
+"_[fol.53]"  (F,2G,2) | A,A,A,A,, | D,z z2 | D,z z2 | D,z z2 | \
+"_[fol.54]"  D,z z2   | D,zD,z    | D,zD,z | !f! z/D,/E,/F,/ G,/!sfz!F,/G,/A,/ | !sfz! D2A,2 | \
+"_[fol.55]"  F,D, z2  | z2 z/>D/C/>B,/ | A,/>F/E/>D/ C/>B,/A,/>G,/ |  F, z G, z | !/! A,2 !/! A,,2 | \
+"_[fol.56]"  D, D,, z2 | z2 z/>D/C/>B,/ | A,/>F/E/>D/ C/>B,/A,/>G,/ |  F, z G, z | !/! A,2 !/! A,,2 | \
+"_[fol.57]"  D,D,D,D, | G,/F,/G,/A,/ B,/A,/B,/G,/ | D,/C,/D,/E,/ F,/E,/F,/D,/ | A,A,,A,A,, |A,A,,A,,A,, | \
+"_[fol.58]"  E,C,^G,,A,, | !/! E,2 !/! E,2 |  E,E,A,E, | A,E,A,E, | A,,/A,,/B,,/B,,/ C,/C,/B,,/B,,/ |\
+"_[fol.59]"  A,,/A,,/E,/E,/ !/! E,2 | !/! E,2  !/! E,2 | E,, z z2 | !p! A,,2 B,,2 | C,2 D,2 | \
+"_[fol.60]"  E,2-E, !f! E, | E,/^G,/F,/E,/ A,/C/B,/A,/ | E E, z2 | .E, zz2 | !p! (A,,2 B,,2) |
+"_[fol.61]"  C,2 D,2 | E,2 E,, !f! E, | A,/C/B,/A,/ D/B,/^G,/E,/ | A,A,,z D,/D,/ | C,/C,/D,/D,/ C,/C,/B,,/B,,/ | \
+"_[fol.62]"  A,,/A,,/ A,, z D,/D,/ | C,/C,/D,/D,/ C,/C,/B,,/B,,/ | A,, z/A,/ A,/A,,/ z/A,/ | D/D,/ z/D/ D/D,/ z/D,/ | B,/D,/ z/D,/ E,/E,,/ z/E,/ | \
+"_[fol.63]"  A,/E,/A,/E,/ A,/E,/A,/E,/ | A,/E,/A,/E,/ A,/E,/C,/A,,/ | "_at bar 72"
+%-------------------------

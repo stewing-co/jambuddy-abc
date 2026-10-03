@@ -1,0 +1,20 @@
+X:402
+T:Trio V (Andantino cantabile)
+C:Costa, Abade António da (1714-c1780)
+M:3/2
+L:1/2
+K:G
+V: 2 clef=treble name="Violino II.do" sname="Vl.II"
+%%MIDI program 1 40
+%%staves [ 2 ]
+%----- edit between the lines
+[Q:"Andantino cantabile"] "_[fol.13 (30)]" z | z z (e//d//c//)(B// | ^G//A//D//)(=c// B/ A) (=c/ | B) (=cB | B2) (f/B/ | B2) (e/A/ | A2) (B | =cB)
+(A | ^G) (=cB | c) (^c d | d) (=c2 | B2 =d) | (A2 =c) |(G3 | G ^F) (G | G E/)z/ z | "_check rests" z z (b//a//g//)(^f// |
+^d//e//A//)(=g// f < e | e a/) (e/=d | d3 | ^c) (d>^c | d/) (A/F/>)z/ :|: z | z z (b//a//g//)(f// | ^d//e//)A//(=g//
+f/e) (=g/ | f) (g a/) (f/ | g/) (B/ A d/) (c/ | B/) (c/ d/) (f d/ | ^c/) (d/ e/) (^f  e/ | ^d/) (e/ f/) (^g f/ | ^e3/2)
+(f ^e/ | ^e) (f2 | ^e2) (=e | e ^d) (=d | d ^c) (=c | _B) (A2 | A E/)z/ z | z z (g// =f/ e//) | (g//e//e//>^f//)
+(a/8g//=f/8 e3/2 | e2 e/) (d/ | d A/) z/ z | z z (c// _B/ A//) | (c//A//A//>_B//) (d/8c//_B/8 A3/2 | A2 A/) (G/ | G ^F/) z/
+z/ (F/ | G/) (d/ c/) (B/ c/) (d/ | d/ B//) z// z (c//B//).A//(^F// | G//)B//.E//(G// F//) B/ (d//c//) .F/ (A// | A//_G//).F//(E// E//>F// G//)z// z |
+z z/ (C=B,/) | (C G,//) z// z/ z/ (=F/ | =F/ E > ^F) (G/ | G/ F//) z// z z | z z (e//d//c//)(B// | ^G//A//D//)(=c// B < A |
+Ad/) (A/ =G | G3 | F) (G > ^F | G/) (D/ B,/ > ) "_check" z/ :|]
+%---------------------------------

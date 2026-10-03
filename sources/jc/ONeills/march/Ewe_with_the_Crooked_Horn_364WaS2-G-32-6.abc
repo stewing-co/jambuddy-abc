@@ -1,0 +1,49 @@
+X: 364
+T: the Ewe with the Crooked Horn
+O: Edw. Cronin - Tipperary
+R: march
+%S: s:3 b:16(5+5+6)
+B: O'Neill's "Waifs and Strays of Gaelic Melody" ed.2 p.186 #364
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+N: The 2nd strain has final repeat but no initial repeat symbol; fixed.
+M: 2/4
+L: 1/8
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+GF |\
+DGGF G2GA | BGcA BGAF | DFFE F2FG | AGAc BGFD || DGGF G2GA |
+BAGA Bcde | fefd cAFA | BGAF G2 :: GA | Gggf g2ga | bgga bgaf |
+d^cde fefg | abag fd=cA || dggf g3d | BAGA Bcde | fefd cAFA | BGAF G2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+"^A"[|] z2 |\
+[G2g2][g2b2] d2[g2b2] | G2[f2a2] d2[f2d'2] |\
+[D2d2][f2a2] d2[f2a2] | [D2d2][f2a2] [D2d2][F2f2] ||\
+[G2g2][g2b2] d2[g2b2] |
+G2[g2b2] d2[g2b2] |\
+[d2D2][f2a2] A2[f2d'2] | [D2d2][d2f2c'2] [g2b2] "^B":: z2 |\
+[G2g2] [g2b2d'2] [g2b2d'2]z2 | [G2g2][g2b2] d2[d2f2d'd2]|
+[D2d2][f2a2] A2[f2a2] | [D2d2][d2f2a2] [d2f2a2]z2 ||\
+[G2g2][g2b2d'2] [g3b3d'3]z | [G2g2][g2b2] d2[g2b2] |\
+[D2d2][f2a2] A2[f2d'2] | [D2d2][d2f2c'2] [g2b2] :|
+%%begintext align
+%%   The origin of this unique name, the memory of which is but little more than legendary in our day, has
+%% been definitely traced back to the 18th century. A nameless reel known to a few aged members of the
+%% Irish Music Club of Chicago, was called "Cronin's Favorite," printed with his two variations in O'Neill's Music
+%% of Ireland, (1903), and reprinted four years later in The Dance Music of Ireland, as "The Flowers of Limerick"
+%% its alleged proper name. In the Stanford-Petrie Complete Collection of Irish Music, London, 1902-5; we find
+%% that No.918, "The Ewe with the Crooked Horn -- a Cork reel. From P.Carew's M.S." is a variant of Edward
+%% Cronin's tune. In a footnote we read, "Petrie adds 'hornpipe' in pencil."
+%%endtext
+%%begintext align
+%%   Following is a distincet tune of almost identical name found in Wood's Songs of Scotland, Edinburgh, 1848; with
+%% a long rhyming tribute in the Scottish vernacular, to the admirable qualities of "The Ewie wi' the Crookit
+%% Horn," from the pen of "the Rev.Mr.John Skinner." The editor, Farquhar Graham informs us in a footnote that
+%% "the verses are adapted to a fine lively Highland reel of Considerable antiquity which received its name from
+%% a 'Ewie" of a very different breed; namely, the whisky-still with its crooked, or rather spiral apparatus."
+%% The figurative significances of the name originated by the Rev.Song writer about the year 1780, caught the
+%% popular fancy, and soon found its way into Ireland. The melodies or tunes associated with it serve to
+%% perpetuate its memory, while "Carron's Reel" the original name of the Scotch tune is no longer heard.
+%%endtext

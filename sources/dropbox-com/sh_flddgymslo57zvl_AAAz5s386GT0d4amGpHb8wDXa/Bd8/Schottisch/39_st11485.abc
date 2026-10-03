@@ -1,0 +1,38 @@
+I:abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X: 1
+T: Ach ich bin so m\"ude (Schottisch) CF chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.387 (st11485) orig. C,F-Dur
+T: Tänze aus Altdorf (Uri)
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"eG ef | "G7"dG de | ff/e/ fg | "C"fe c/B/c/d/ | eG ef | "_(1)""G7"dG de | gf/e/ de/d/ | "C"ce cz :: [K:F] 
+"F"AA AB | c2f>e | "Bb"dd d/e/f | "F"c2z2 | "C7"gg g>f | ed c2 | "F"aa a>g | fd c2 | 
+AA AB | c2f>e | "Bb"dd d/e/f | "F"c2z2 | "C7"gg g>f | ed c2 | d/c/=B/c/ a>g | "F"ff fz ::
+"C7"(Tdc) (Tec) | "F"fc/=B/ cf | "C7"ec/=B/ cg | "F"fc/=B/ cA |  "C7"(Tdc) (Tec) | "F"fc/=B/ cf | "C7".g2 f/e/d/e/ | "F"fa fz :| 
+W:
+W: (1) the orig. has "c" instead of "d"
+
+X:2
+T:Ach ich bin so m\"ude (Schottisch) GC 5- chords
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"BD Bc | "D7"AD AB | cc/2B/2 cd | "G"cB G/2"_#"F/2G/2A/2 | BD Bc | "D7"AD AB | dc/2B/2 AB/2A/2 | "G"GB Gz :: [K:Cmaj] 
+"C"EE EF | G2c>B | "F"AA A/2B/2c | "C"G2z2 | "G7"dd d>c | BA G2 | "C"ee e>d | cA G2 | 
+EE EF | G2c>B | "F"AA A/2B/2c | "C"G2z2 | "G7"dd d>c | BA G2 | A/2G/2^F/2G/2 e>d | "C"cc cz ::
+"G7"(TAG) (TBG) | "C"cG/2"_#"^F/2 Gc | "G7"BG/2^F/2 Gd | "C"cG/2"_#"^F/2 GE | "G7"(TAG) (TBG) | "C"cG/2^F/2 Gc | "G7".d2 c/2B/2A/2B/2 | "C"ce cz :| 
+
+X:3
+T:Ach ich bin so m\"ude GC 5- chords Anm
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"BD Bc | "D7"AD AB | cc/2B/2 cd | "G"cB G/2"_#"F/2G/2A/2 | BD Bc | "D7"AD AB | dc/2B/2 AB/2A/2 | "G"GB Gz :: [K:Cmaj] 
+"C"EE EF | G2c>B | "F"AA A/2B/2c | "C"G2z2 | "G7""_d"dd "_d"d>c | "_h"B"_a"A G2 | "C"ee e>d | cA G2 | 
+EE EF | G2c>B | "F"AA A/2B/2c | "C"G2z2 | "G7"dd d>c | BA G2 | A/2"_g"G/2^F/2"_g"G/2 "_e"e>d | "C"cc cz ::
+"G7"(T"_a"AG) (T"_h"BG) | "C"cG/2"_#"^F/2 G"_ ="c | "G7"B"_g"G/2^F/2 "_g"Gd | "C"cG/2"_#"^F/2 GE | "G7"(TAG) (TBG) | "C"cG/2^F/2 Gc | "G7""_d".d2 c/2"_h"B/2"_a"A/2"_ ="B/2 | "C"ce cz :| 
+

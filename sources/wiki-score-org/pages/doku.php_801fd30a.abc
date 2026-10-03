@@ -1,0 +1,54 @@
+X:103
+T:[O vos omnes] Adagio ma non troppo
+C:Costa, Abade Antonio da (1714-c1780)
+M:4/2
+L:1/2
+K:Eb
+V: 3 clef=treble name="Violino III" sname="Vl.III"
+%%MIDI program 1 40
+%%staves [ 3 ]
+%----- edit between the lines ----
+[Q:"Adagio ma non troppo"] (e | g) z z (g | e c3/2)(B3/2 |  B G =E) (_d | B G) (c2 |
+_d2) (e =d | d3) c- | c (D ^F) (d | G A G) (c | c/ =B/) (_B3 | B/ =A/)  (_A3 |
+A/ G/ _G<) (F C) | (F2 G) (A | A2 G) (f | f d g) (e | c) G E C | A/ G (_B _A/) z | z (=c =d2 |
+=f) < (a g) (=f | =e b2) (_d' | =e) (b g) (c | d e c) > (=B | _e G)
+z (_d | c3)  (=B | c G2) (_E | G2) (E2 | C2 G,) (_A, | C) (G,3 |
+G,2) z2 |z .G c2- | c3(=d | _d2  c2 | c) (_G F) (c |
+B2 B2) | (=B2 _B2 | B2) (A2 | A4 | A G2) (F | E) (G F2 |
+F D G) (f | d) .G2 c- | c3 (f | f d =B) g - | g2
+(_B2 |=A3/2) (_B3/2 =A) | (=e g f) < (c | c _B2) (=B | c2 =B) (c |
+c =A c) (B | d2 c2 | c =B2) (=e | =A) (=B =A2 |
+=A3) (c | c _B2) d- | d (c3 | c =B2) (_B | B4 |
+B) =A3- | A3 (_A | G4 | G2 ^F) (=A | =A G2 ^F |
+=F) (G,=B) (d | d c2) (=B | _B) (G c2 | c _B _d) (c | c _B
+B) (c | c =B) (c2 | c =B2) (d | d c2 B | B) (A =A ) > (_B |
+B =A) > (c _E | D2 =A) D- | D (c3 | =B2) (c2 |
+d3) G - | G2 (c2 | c2 _B) =A | (A4 | A d) (=A G |
+G4 | G2 F) (=A | G4) | c4- | c (=A3 |
+d) (g d) (f | e2 =B2 | c2) (B2 | B2 =A2 | =A) (d2 B) |
+(e2 d) (c | c2 B) (D | G B2) (G | D4 | D2) z (b | ^f g d) c- |
+c3 (d | d3 =B) | (=E =A2) (G | ^F2) (G2 | G4 |
+G2) (^F2 | ^F =A2) (d | d =B d) (G | =B) (d e) (g | c2 B) (=B |
+=B2 =E) (=A | A2 c) (B | c D B) (=B | =B cG) (=A |  A c
+c)  =B- | B (c3 | c _B) G2- | G2 (D2 | B,2) z (d | B4 | B4 |
+=A2) B2- | B =A2 c- | c3 =A- | A3 _A- | A (G3 | G4 |
+^F) (=A D) (=E | =A) (^F c) (_B | B4 | B4 | =A) (c F2 |
+^F) (=A2 c | c3/2) .D3/2 (=A | G) (D =B) > d- | d (G F) (D | =B) (G f) (=e |
+=B d) G2- | G (^F3 | =A) (G2 ^F) | (=E =B,) (G2 | c) (F =A) (=E | D =A
+=A) (=E | =A3) (D | D F2) z | Z2 | z2 z c- |
+c2 _B2- | B (E A) (F | BE) (B c | c2) (F G | G) (c =E2 | =E G) (_B2 |
+C F) (c2 | c _c3) | (B4 | E) (c _d2 | _d) =E3- | E2 (G2 |
+c) (A B2 |  A) (f _d c | c) (F G) (B | B _d c) (B | B2 =A) (_A | F2
+E) (=E | F2 =E) (_E | E/D/) (A F) (G | _A3) (d | d f2) (d | g e) (=A2 |
+d) (f2 d | g) (_e =A) (c | F) (_G F) (c | c F _d) (c | c B) (F2 | F2
+G) A- | A (G3 | G2 =A) (B | A2 _d) (B | B =B) (c2 | =B c) (G2 |
+=A) F2 - F/ A/- | A G3- | G3 (F | F4 | F =E
+=A) B- | B (=A3 | B2 =A) (c | c =B g) (B | c4 | =B) (c
+c2 | =B d G) (c | A4 | G) .B2 (A | A4 | A2
+A) G- | G3 (_G | F) (^F G =A) | (d g) (e c) | (f2 d2) |
+(=B2 d) (f | f e =A) (G | ^F2 G) (=F | F =E2) (F | F3 D) |
+(G4 | G c2) (=B | _B2 G) (c | e d2) (e | e F2) (B |
+d c B) (^F | G d2) (G | F A G) (=B | c2) G2- | G2 E2- |
+E2 C2- | C (G c) (E | A2) (G2 | F2 D) (E | =A2 ^F) (A |
+D) .G2 (C | G2) (D2 | =B,2) (C2 | =B,4 | D2) |]
+%---------------------------------

@@ -1,0 +1,75 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Schnick-Schnack (Schottisch)  FCBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.226 (st00897) orig. F,C,Bb-Dur
+T:L\"otschental. S.214-233. Repertoire von Xander Murmann, Weissenried, 1874-1948
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+cB |: "F"A2A2 A2A2 | A2d2 !>!c4 | c2d2 c2f2 | "C7"f2>e2 e4 | [L:1/8] BB BB | Be!>!d2 | G>A B/c/d/e/ |1 
+"F"ff fc/B/ :|2 "F"ff fc |: [K:C] !>!"G7"c>B dd | !>!"C"d>c ee | "G7"ff/e/ dd | "C"ee/d/ cc | !>!"G7"c>B dd | 
+!>!"C"d>c ee | "G7"ff/e/ de/d/ |1 "C"cc cz :|2 "C"cc cc/"_>Teil A"_B/ || [K:Bb] f |: !>!"Bb"b3d | 
+B3B | "F7"B>A Ac | !>!e3B | B>A Ac | !>!e3A | "Bb"c>B Bd | f3f | !>!f3d | 
+d3B | "Eb"B>G Be | g3g | "Bb".g.f .f.d | "F7".f.e .e.c | "Bb".B.d "F7"cf |1 "Bb"BB Bf :|2 "Bb"BB Bz |] 
+W: Parts: ABAC
+X:2
+T:Schnick-Schnack (Schottisch)  CGF 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+GF |: "C"E2E2 E2E2 | E2A2 !>!G4 | G2A2 G2c2 | "G7"c2>B2 B4 | [L:1/8] FF FF | FB!>!A2 | D>E F/2G/2A/2B/2 |1 \
+"C"cc cG/2F/2 :|2
+ "C"cc cG |: [K:G] !>!"D7"G>F AA | !>!"G"A>G BB | "D7"cc/2B/2 AA | "G"BB/2A/2 GG | !>!"D7"G>F AA | \
+!>!"G"A>G BB | "D7"cc/2B/2 AB/2A/2 |1
+ "G"GG Gz :|2 "G"GG GG/2"_>Teil A"=F/2 || [K:F] c |: !>!"F"f3A | \
+F3F | "C7"F>E EG | !>!B3F | F>E EG | !>!B3E |
+ "F"G>F FA | c3c | !>!c3A | \
+A3F | "Bb"F>D FB | d3d | "F".d.c .c.A | "C7".c.B .B.G | "F".F.A "C7"Gc |1 "F"FF Fc :|2 "F"FF Fz |] 
+W:Parts: ABAC
+% st00897
+X:3
+T:Schnick-Schnack (Schottisch)  CGF (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+GF |: "C"E2E2 E2E2 | E2A2 !>!G4 | G2A2 G2c2 | "G7"c2>B2 B4 | [L:1/8] FF FF | FB!>!A2 | D>E F/2G/2A/2B/2 |1 \
+"C"cc cG/2F/2 :|2
+ "C"cc cG |: [K:G] !>!"D7"G>F AA | !>!"G"A>G BB | "D7"cc/2B/2 AA | "G"BB/2A/2 GG | !>!"D7"G>F AA | \
+!>!"G"A>G BB | "D7"cc/2B/2 AB/2A/2 |1
+ "G"GG Gz :|2 "G"GG GG/2"_>Teil A"=F/2 || [K:F] c |: !>!"F"f3A | \
+F3F | "C7"F>E EG | !>!B3F | F>E EG | !>!B3E |
+ "F"G>F FA | c3c | !>!c3A | \
+A3F | "Bb"F>D FB | d3d | "F".d.c .c.A | "C7".c.B .B.G | "F".F.A "C7"Gc |1 "F"FF Fc :|2 "F"FF Fz |] 
+W:Parts: ABAC
+% st00897
+X:4
+T:Schnick-Schnack (Schottisch) GD&C (tinwhistle in D)
+T:st00897 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+dc |: "G"B2B2 B2B2 | B2e2 !>!d4 | d2e2 d2g2 | "D7"g2>f2 f4 | [L:1/8] cc cc | cf!>!e2 | A>B c/2d/2e/2f/2 |1 \
+"G"gg gd/2c/2 :|2
+"G"gg gd |: [K:D] !>!"A7"d>c ee | !>!"D"e>d ff | "A7"gg/2f/2 ee | "D"ff/2e/2 dd | !>!"A7"d>c ee | \
+!>!"D"e>d ff | "A7"gg/2f/2 ef/2e/2 |1
+"D"dd dz :|2 "D"dd dd/2"_>Teil A"=c/2 || [K:C] g |: !>!"C"c'3e | \
+c3c | "G7"c>B Bd | !>!f3c | c>B Bd | !>!f3B |
+"C"d>c ce | g3g | !>!g3e | \
+e3c | "F"c>A cf | a3a | "C".a.g .g.e | "G7".g.f .f.d | "C".c.e "G7"dg |1 "C"cc cg :|2 "C"cc cz |] 
+W:Parts: ABAC
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 27, 2016

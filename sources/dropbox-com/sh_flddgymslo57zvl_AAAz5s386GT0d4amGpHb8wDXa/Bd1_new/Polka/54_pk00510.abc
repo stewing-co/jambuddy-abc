@@ -1,0 +1,79 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka  FCBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.254 (pk00510) orig. F,C,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon 
+"F"FAcf Acfa | c'2c'2 a2ga | "C7"bgec B2B2 | "F"afcA F2F2 | FAcf Acfa | c'2c'2 a2ga | 
+"C7"bgec =Bcde |1 "F"f2a2 f2FF :|2 "F"f2a2 f2ga |: [K:C] "G7"g2B2 Bdfa | "C"g2c2 cegc' | 
+"G7"bc'ba g2e2 | "C"a2g2 e2ga | "G7"g2B2 Bdfa | "C"g2c2 cegc' | "G7"bc'bf a2d2 |1 "C"c2e2 c2ga :|2 
+"C"c2e2 c2"_>Teil A"z2 || [K:Bb] ff | "Bb"g2g2 f2f2 | "F7"(e4 e)Acf | a2a2 g2g2 | "Bb"f6de | 
+f2d'2 c'3b | "F7"Ta2e2 e2fb | Ta2e2 e2fa | "Bb"gfdB F2ff | "Eb"g2g2 "Bb"f2f2 | "F7"e6de | 
+a2a2 "Eb"g2g2 | "Bb"f6de | f2d'2 "Bb7"c'3b | "Cm/Eb"agec G2e2 | "Bb/F"dff2 "F7"cff2 | "Bb"B2df b2z2 |] 
+
+X:2
+T: Polka  FCBb chords Parts
+M:2/4
+L:1/16
+P:ABAC
+K:F %%MIDI gchordon 
+[P:A] "F"FAcf Acfa | c'2c'2 a2ga | "C7"bgec B2B2 | "F"afcA F2F2 | FAcf Acfa | c'2c'2 a2ga | 
+"C7"bgec =Bcde |1 "F"f2a2 f2FF :|2 "F"f2a2 f2ga |: [P:B] [K:C] "G7"g2B2 Bdfa | "C"g2c2 cegc' | 
+"G7"bc'ba g2e2 | "C"a2g2 e2ga | "G7"g2B2 Bdfa | "C"g2c2 cegc' | "G7"bc'bf a2d2 |1 "C"c2e2 c2ga :|2 
+"C"c2e2 c2"_>Teil A"z2 || [K:Bb] ff | [P:C] "Bb"g2g2 f2f2 | "F7"(e4 e)Acf | a2a2 g2g2 | "Bb"f6de | 
+f2d'2 c'3b | "F7"Ta2e2 e2fb | Ta2e2 e2fa | "Bb"gfdB F2ff | "Eb"g2g2 "Bb"f2f2 | "F7"e6de | 
+a2a2 "Eb"g2g2 | "Bb"f6de | f2d'2 "Bb7"c'3b | "Cm/Eb"agec G2e2 | "Bb/F"dff2 "F7"cff2 | "Bb"B2df b2z2 |] 
+
+X:3
+T:Polka  CGF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon 
+"C"CEGc EGce | g2g2 e2de | "G7"fdBG F2F2 | "C"ecGE C2C2 | CEGc EGce | g2g2 e2de | 
+"G7"fdBG ^FGAB |1 "C"c2e2 c2CC :|2 "C"c2e2 c2de |: [K:Gmaj] "D7"d2F2 FAce | "G"d2G2 GBdg | 
+"D7"fgfe d2B2 | "G"e2d2 B2de | "D7"d2F2 FAce | "G"d2G2 GBdg | "D7"fgfc e2A2 |1 "G"G2B2 G2de :|2 
+"G"G2B2 G2"_>Teil A"z2 || [K:Fmaj] cc | "F"d2d2 c2c2 | "C7"(B4 B)EGc | e2e2 d2d2 | "F"c6AB | 
+c2a2 g3f | "C7"Te2B2 B2cf | Te2B2 B2ce | "F"dcAF C2cc | "Bb"d2d2 "F"c2c2 | "C7"B6AB | 
+e2e2 "Bb"d2d2 | "F"c6AB | c2a2 "F7"g3f | "Gm/Bb"edBG D2B2 | "F/C"Acc2 "C7"Gcc2 | "F"F2Ac f2z2 |] 
+
+X:4
+T:Polka  CGF 5- chords Parts
+M:2/4
+L:1/16
+P:ABAC
+K:Cmaj%%MIDI gchordon 
+[P:A] "C"CEGc EGce | g2g2 e2de | "G7"fdBG F2F2 | "C"ecGE C2C2 | CEGc EGce | g2g2 e2de | 
+"G7"fdBG ^FGAB |1 "C"c2e2 c2CC :|2 "C"c2e2 c2de |: [P:B] [K:Gmaj] "D7"d2F2 FAce | "G"d2G2 GBdg | 
+"D7"fgfe d2B2 | "G"e2d2 B2de | "D7"d2F2 FAce | "G"d2G2 GBdg | "D7"fgfc e2A2 |1 "G"G2B2 G2de :|2 
+"G"G2B2 G2"_>Teil A"z2 || [K:Fmaj] cc | [P:C] "F"d2d2 c2c2 | "C7"(B4 B)EGc | e2e2 d2d2 | "F"c6AB | 
+c2a2 g3f | "C7"Te2B2 B2cf | Te2B2 B2ce | "F"dcAF C2cc | "Bb"d2d2 "F"c2c2 | "C7"B6AB | 
+e2e2 "Bb"d2d2 | "F"c6AB | c2a2 "F7"g3f | "Gm/Bb"edBG D2B2 | "F/C"Acc2 "C7"Gcc2 | "F"F2Ac f2z2 |] 
+
+X:5
+T:Polka  EbBbAb (5letras) cf. CGF
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon 
+"Eb"EGBe GBeg | b2b2 g2fg | "Bb7"afdB A2A2 | "Eb"geBG E2E2 | EGBe GBeg | b2b2 g2fg | 
+"Bb7"afdB =ABcd |1 "Eb"e2g2 e2EE :|2 "Eb"e2g2 e2fg |: [K:Bbmaj] "F7"f2A2 Aceg | "Bb"f2B2 Bdfb | 
+"F7"abag f2d2 | "Bb"g2f2 d2fg | "F7"f2A2 Aceg | "Bb"f2B2 Bdfb | "F7"abae g2c2 |1 "Bb"B2d2 B2fg :|2 
+"Bb"B2d2 B2"_>Teil A"z2 || [K:Abmaj] ee | "Ab"f2f2 e2e2 | "Eb7"(d4 d)GBe | g2g2 f2f2 | "Ab"e6cd | 
+e2c'2 b3a | "Eb7"Tg2d2 d2ea | Tg2d2 d2eg | "Ab"fecA E2ee | "Db"f2f2 "Ab"e2e2 | "Eb7"d6cd | 
+g2g2 "Db"f2f2 | "Ab"e6cd | e2c'2 "Ab7"b3a | "Bbm/Db"gfdB F2d2 | "Ab/Eb"cee2 "Eb7"Bee2 | "Ab"A2ce a2z2 |] 
+
+X:6
+T:Polka  EbBbAb (5letras) cf. CGF Parts
+M:2/4
+L:1/16
+P:ABAC
+K:Ebmaj%%MIDI gchordon 
+[P:A] "Eb"EGBe GBeg | b2b2 g2fg | "Bb7"afdB A2A2 | "Eb"geBG E2E2 | EGBe GBeg | b2b2 g2fg | 
+"Bb7"afdB =ABcd |1 "Eb"e2g2 e2EE :|2 "Eb"e2g2 e2fg |: [P:B] [K:Bbmaj] "F7"f2A2 Aceg | "Bb"f2B2 Bdfb | 
+"F7"abag f2d2 | "Bb"g2f2 d2fg | "F7"f2A2 Aceg | "Bb"f2B2 Bdfb | "F7"abae g2c2 |1 "Bb"B2d2 B2fg :|2 
+"Bb"B2d2 B2"_>Teil A"z2 || [K:Abmaj] ee | [P:C] "Ab"f2f2 e2e2 | "Eb7"(d4 d)GBe | g2g2 f2f2 | "Ab"e6cd | 
+e2c'2 b3a | "Eb7"Tg2d2 d2ea | Tg2d2 d2eg | "Ab"fecA E2ee | "Db"f2f2 "Ab"e2e2 | "Eb7"d6cd | 
+g2g2 "Db"f2f2 | "Ab"e6cd | e2c'2 "Ab7"b3a | "Bbm/Db"gfdB F2d2 | "Ab/Eb"cee2 "Eb7"Bee2 | "Ab"A2ce a2z2 |] 

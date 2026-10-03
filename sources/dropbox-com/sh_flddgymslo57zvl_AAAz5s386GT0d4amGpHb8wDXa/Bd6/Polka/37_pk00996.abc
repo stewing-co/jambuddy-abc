@@ -1,0 +1,89 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Polka  GD
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.263 (pk00996) orig. G,D-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+B2c2 |: "G"d2B2 "D7"c2a2 | "G"B2g2 gdBG | "D7"F2e2 edcA | "G"GBdg b2Bc | d2b2 "D7"c2a2 | 
+"G"B2g2 gdBG | "D7"F2e2 edcA |1 "G"G2B2 G2Bc :|2 "G"G2B2 G2z2 || [K:D] "A7"A3B A3B | "D"A2f2f4 | 
+"A7"f2e2 g2c2 | "D"d2fe d2d2 | "A7"A3B A3B | "D"A2f2f4 | "A7"f2e2 g2c2 | "D"d2fed4 |]  
+W:Anmerkung H.C.: 11. Okt 1952. Adolf Kreuzer.
+X:2
+T:Polka  CG 7-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+E2F2 |: "C"G2E2 "G7"F2d2 | "C"E2c2 cGEC | "G7"B,2A2 AGFD | "C"CEGc e2EF | G2e2 "G7"F2d2 | 
+"C"E2c2 cGEC | "G7"B,2A2 AGFD |1 "C"C2E2 C2EF :|2 "C"C2E2 C2z2 || [K:G] "D7"D3E D3E | "G"D2B2B4 | 
+"D7"B2A2 c2F2 | "G"G2BA G2G2 | "D7"D3E D3E | "G"D2B2B4 | "D7"B2A2 c2F2 | "G"G2BAG4 |] 
+% pk00996
+X:3
+T:Polka  FC 2-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F%%MIDI gchordon
+A2B2 |: "F"c2A2 "C7"B2g2 | "F"A2f2 fcAF | "C7"E2d2 dcBG | "F"FAcf a2AB | c2a2 "C7"B2g2 | 
+"F"A2f2 fcAF | "C7"E2d2 dcBG |1 "F"F2A2 F2AB :|2 "F"F2A2 F2z2 || [K:C] "G7"G3A G3A | "C"G2e2e4 | 
+"G7"e2d2 f2B2 | "C"c2ed c2c2 | "G7"G3A G3A | "C"G2e2e4 | "G7"e2d2 f2B2 | "C"c2edc4 |] 
+% pk00996
+X:4
+T:Polka  CG (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+E2F2 |: "C"G2E2 "G7"F2d2 | "C"E2c2 cGEC | "G7"B,2A2 AGFD | "C"CEGc e2EF | G2e2 "G7"F2d2 | 
+"C"E2c2 cGEC | "G7"B,2A2 AGFD |1 "C"C2E2 C2EF :|2 "C"C2E2 C2z2 || [K:G] "D7"D3E D3E | "G"D2B2B4 | 
+"D7"B2A2 c2F2 | "G"G2BA G2G2 | "D7"D3E D3E | "G"D2B2B4 | "D7"B2A2 c2F2 | "G"G2BAG4 |] 
+% pk00996
+X:5
+T:Polka  FC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+A2B2 |: "F"c2A2 "C7"B2g2 | "F"A2f2 fcAF | "C7"E2d2 dcBG | "F"FAcf a2AB | c2a2 "C7"B2g2 | 
+"F"A2f2 fcAF | "C7"E2d2 dcBG |1 "F"F2A2 F2AB :|2 "F"F2A2 F2z2 || [K:C] "G7"G3A G3A | "C"G2e2e4 | 
+"G7"e2d2 f2B2 | "C"c2ed c2c2 | "G7"G3A G3A | "C"G2e2e4 | "G7"e2d2 f2B2 | "C"c2edc4 |] 
+% pk00996
+X:6
+T:Polka  G&D (tinwhistle in D)
+T:pk00996 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+B2c2 |: "G"d2B2 "D7"c2a2 | "G"B2g2 gdBG | "D7"F2e2 edcA | "G"GBdg b2Bc | d2b2 "D7"c2a2 | 
+"G"B2g2 gdBG | "D7"F2e2 edcA |1 "G"G2B2 G2Bc :|2 "G"G2B2 G2z2 || [K:D] "A7"A3B A3B | "D"A2f2f4 | 
+"A7"f2e2 g2c2 | "D"d2fe d2d2 | "A7"A3B A3B | "D"A2f2f4 | "A7"f2e2 g2c2 | "D"d2fed4 |]  
+X:7
+T:Polka  G&D (tinwhistle in D) solo
+T:pk00996 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:G transpose=12
+B2"_c"c2 |: d2B2 "_c"c2a2 | B2g2 gdBG | F2e2 ed"_c"cA | GBdg b2B"_c"c | d2b2 "_c"c2a2 | \
+B2g2 gdBG | F2e2 ed"_c"cA |1
+ G2B2 G2B"_c"c :|2 G2B2 G2z2 || [K:D] A3B A3B | A2f2f4 | \
+f2e2 g2c2 | d2fe d2d2 | A3B A3B | A2f2f4 | f2e2 g2c2 | d2fed4 |]   
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 5, 2016

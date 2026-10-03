@@ -1,0 +1,57 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Immergrün Polka FC  (ABCAB)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.278 (pk02029b) orig. F,C
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T: Überliefert vermutlich durch Joggi Stocker (1889-1956)
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+%%partsbox
+P:ABCAB
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+AB [P:A] |: "F"c2Ac d3A | "C7"B2BA G2c2 | c2cb e3c | "F"c2ca f2AB | c2A2 d3A | "C7"B2BA G2c2 | 
+c2cb e2de |1 "F"f2a2 f2AB :|2 "F"f2a2 f2cA [P:B] |: "C7"B2ce B2cB | "F"A2cf A2c2 | "C7"dc=Bc g2c2 | 
+"F"dc=Bc a2c2 | "C7"B2ce B2cB | "F"A2cf A2c2 | "C7"dc=Bc b2e2 |1 "F"f2ag f2cA :|2 "F"f2ag f2"_Fine"z2 |] [K:C]
+[P:C] |: "C"e2gg ^d2ee | B2cc G3F | E2G2 "A7"A3G | "Dm"G2F2F4 | f2aa d2ff | "G7"B2dd A3G | G2B2 d2e2 | "C"d2c2 c2"_>Teil A"z2 :| 
+% pk02029b
+
+X:2
+T:Immergrün Polka FC  (pk02029b)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.278 (pk02029b) orig. F,C
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+AB |: "F"c2Ac d3A | "C7"B2BA G2c2 | c2cb e3c | "F"c2ca f2AB | c2A2 d3A | "C7"B2BA G2c2 | 
+c2cb e2de |1 "F"f2a2 f2AB :|2 "F"f2a2 f2cA |: "C7"B2ce B2cB | "F"A2cf A2c2 | "C7"dc=Bc g2c2 | 
+"F"dc=Bc a2c2 | "C7"B2ce B2cB | "F"A2cf A2c2 | "C7"dc=Bc b2e2 |1 "F"f2ag f2cA :|2 "F"f2ag f2"_Fine"z2 |] [K:C]
+|: "C"e2gg ^d2ee | B2cc G3F | E2G2 "A7"A3G | "Dm"G2F2F4 | f2aa d2ff | "G7"B2dd A3G | G2B2 d2e2 | "C"d2c2 c2"_>Teil A"z2 :| 
+% pk02029b
+
+X:3
+T:Immergrün Polka CG 5-  (pk02029b)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.278 (pk02029b) orig. F,C
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:polka
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+EF |: "C"G2EG A3E | "G7"F2FE D2G2 | G2Gf B3G | "C"G2Ge c2EF | G2E2 A3E | "G7"F2FE D2G2 | 
+G2Gf B2AB |1 "C"c2e2 c2EF :|2 "C"c2e2 c2GE |: "G7"F2GB F2GF | "C"E2Gc E2G2 | "G7"AG^FG d2G2 | 
+"C"AG^FG e2G2 | "G7"F2GB F2GF | "C"E2Gc E2G2 | "G7"AG^FG f2B2 |1 "C"c2ed c2GE :|2 "C"c2ed c2"_Fine"z2 |] [K:G]
+|: "G"B2dd ^A2BB | F2GG D3C | B,2D2 "E7"E3D | "Am"D2C2C4 | c2ee A2cc | "D7"F2AA E3D | D2F2 A2B2 | "G"A2G2 G2"_>Teil A"z2 :| 
+% pk02029b
+% Oct 2, 2016

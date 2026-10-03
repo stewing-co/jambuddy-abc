@@ -1,0 +1,21 @@
+X:1
+T: comma53 scale
+M: 10/4
+L: 1/4
+K: C
+%%MIDI tuningsystem comma53
+C ^1/4C ^2/4C ^3/4C ^C ^9/8C _3/4D _2/4D _1/4D D |
+^1/4D ^2/4D ^3/4D ^D _E _3/4E _1/2E _1/4E E z|
+^1/4E ^2/4E ^3/4E  F ^1/4F ^1/2F ^3/4F ^F z2|
+_3/4G _2/4G _1/4G G ^1/4G ^2/4G ^3/4G ^G z2|
+
+X:1
+T: temperamentequal 53
+M: 10/4
+L: 1/4
+K: C
+%%MIDI temperamentequal 53
+C ^1C ^2C ^3C ^4C _3D _2D _1D D z|
+D ^1D ^2D ^3D ^4D _3E _2E _1E  E z|
+E ^1E ^2E ^3E  F  ^1F ^2F ^3F ^4F z|
+_4G _3G _2G _1G G ^1G ^2G ^3G ^4G|

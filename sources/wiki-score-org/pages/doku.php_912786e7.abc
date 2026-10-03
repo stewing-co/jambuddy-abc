@@ -1,0 +1,24 @@
+X:4017
+T:Coro [Antandro, Demetrio, Euridice, Emirena, Eumene]
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:D
+V: 17 clef=tenor name="Tenore" sname="T."
+%%MIDI program 1 1
+%%staves [[ 17 ]]
+%-------------------
+[Q:"Allegro"] z | Z12 | z2zE/> E/ !segno!|| F F/> F/ F F/> F/ | F F/> F/ G G/> G/ | F F/> F/ G G/> G/ | FFz2| \
+w:Al-l'e-ven-to fe-li-ce gio-con-do fe-li-ce gio-con-do fe-li-ce gio-con-do
+G3G | FFzF | G2GG | F2z2 | E3D | EEzD | A,2 A,>A, | A,zz2 | \
+w:S'o-da'il mon-do d'ap-plau-si suo-nar s'o-da'il mon-do d'ap-plau-si suo-nar
+E3E | DFzD | C2 CC  |DFz2 | E3D | EEzD | B,2A,>A, | A,2B,2 | B,2 A,>A, | A,2B,2 | B,2 A,>A, | A,zz2 | z3!fine!z |] \
+%--- "^Questo Coro" "^si replica" "^p.due volte(...)"
+w:Al-l'e-ven-to fe-li-ce gio-con-do  s'o-da'il mon-do d'ap-plau-si suo-nar d'ap-plau-si suo-nar d'ap-plau-si suo-nar
+[Q:"Allegretto"][K:G] Z20 | z2zE/> E/ ||\
+w: Al-l'e
+"_NB: check" "_DC al segno" X | \
+Z38 | z2zE/> E/ ||\
+w: Al-l'e
+"_NB: check" "_DC al segno" X | \
+%----------------

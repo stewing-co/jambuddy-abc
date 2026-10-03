@@ -1,0 +1,664 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+
+Multiple Modes in the Same Tune
+===============================
+
+Some tunes switch mode partway through.  This tune does it in the way most
+familiar in tonal music - a shift from major to minor on the same tonal
+centre and back again:
+
+X:0
+T:Michael's Mazurka
+C:Michael Ferrie
+M:3/4
+L:1/8
+Q:3/4=40
+K:G
+D2   | G4    A/B/c|B2 BA GF   |EG  GB AG   |   FG  FE    DF |
+       G4    A/B/c|B2 BA GF   |EG  GB A/G/F|   G4          :|
+K:GDor
+D2   | G3  A Bc   |d2 dc BG   |A^F AF DF   |   G>A B/c/d g2 |
+       G2 GA Bc   |d3  c BG   |A^F AF DF   |   G4          :|
+K:G
+A/B/d|:g6         |d4    cB   |A2  a3  g   |   fd  cd    ef |
+       g4    b2   |g4    d/c/B|A2  a3  g   |   fd  cA    FD |
+       G2 AB G2   |A2 Bc A2   |B2  cd B2   |   c2  de    c2 |
+       d2 g4      |f3  g a/g/f|g3   f ga   |[1 g3   d    Bd:|\
+                                            [2 g4          |]
+
+Modal music has a wider range of possibilities.  The oldest notated
+version of the song "Tibbie Fowler" is very simple:
+
+X:0
+T:Owin at her
+G:song or reel
+S:Margaret Sinkler MS, Glasgow 1710
+M:4/4
+L:1/4
+Q:1/2=160
+K:GMix % mixolydian/dorian hexatonic
+A|GGGA|FFcA|GGGA|F>ED:|
+f|dddf|cAfc|ddde|f>edg|
+  fdfc|AFcA|GGGA|F>ED|]
+
+Later versions are often like this one.  The seventh varies between
+natural and sharp, making it a mixture of major and mixolydian.
+
+X:0
+T:Tibbie Fowler of the Glen
+G:country dance
+S:Duke of Perth MS (NLS MS 21715)
+M:C|
+L:1/8
+Q:1/2=96
+K:GMix
+E|DGGA ^F>GAc|BGGA ^F>EDE|G/G/G GA ^FGAc|dGGA ^F>ED:|
+a|fddf  c>dcA|fdde  f>gag|fddf      AFcA|dGGA ^F>ED:|
+
+And in this one (a Shetland tune said to be of Greenlandic Inuit origin)
+the G is variable.  I'm not confident that it has a single tonal centre -
+E is my best guess.
+
+X:0
+T:Da Greenland Man's Tune
+M:6/8
+L:1/8
+Q:3/8=84
+K:EMix
+d2B c2A|BcB E3 |F2=G A2G|FD2 D3 |
+d2B c2A|BcB E3 |G2A  B2G|A3  A3:|
+B2B B2c|d2d d2B|A2A  A2F|D2E F2A|
+B2B B2c|d2d d2B|A2F  F2D|E3  E3:|
+
+In some musical idioms, like the more archaic forms of Hungarian folk
+music, variable thirds originated as NEUTRAL thirds - the pitch used
+to be the same throughout the tune, midway between a major and a minor
+third, like the C on a Highland pipe.  There are probably Scottish tunes
+that have developed like that, but I haven't identified one.
+
+Mode-shifting is a common feature of Scandinavian music, of which Shetland
+music in in some ways an offshoot.  This pair of Shetland tunes (often
+played together) both shift mode.  The first one simply fills a gap, with
+the first part hexatonic and the later ones heptatonic:
+
+X:0
+T:Da Full Rigged Ship
+M:6/8
+L:1/8
+Q:3/8=72
+K:ADor
+e|e2a aea|aea aba|e2f g2g|gag  f2
+d|e2a aea|aea aba|g2e edB|A3   E2:|
+z|efe edB|A2B c3 |B2G B2G|Bcd  E3 |
+  efe edB|A2B c2d|efe dBG|A3   A2:|
+G|EGE EGE|EGE c3 |EGE E2D|E2F  GEC|
+  EGE EGE|EGE c2d|efe dBG|A3   A2:|
+
+The second tune fills a gap at the third (but making it major), and then
+lowers that third from major to minor in the last part:
+
+X:0
+T:Da New Rigged Ship
+M:C|
+L:1/8
+Q:1/2=112
+K:ADor
+eg|a2ab ageg|a2ab agef|g2gg fgag|f2d2 d2:|
+K:A Mixolydian
+ed|cAcA B2ed|cAcA E2ed|cAcA B2ed|c2A2 A2:|
+K:A Dorian
+AB|cdec BcdB|ABAF GFE2|cdec BcdB|c2A2 A2:|
+
+These inflections may be used in Shetland versions of tunes from elsewhere.
+In Playford's 1651 collection there is a tune, probably Scottish, called
+"Stingo", which is straightforwardly in the minor mode:
+
+X:0
+T:Stingo
+G:dance song
+M:6/8
+L:1/8
+Q:3/8=108
+K:GMin
+G2G d2B   |cA2 F2F |G2G  d2B|G3 B3:|
+B2B B2A/B/|c2c c2c |d2d  g2g|d3 f3 |
+B2B B2A/B/|c2c c>de|dc>B cA2|G3 B3|]
+
+Thirty years later it had turned into "Lulle me beyond thee" in the
+dorian/minor hexatonic scale with sharpened leading notes:
+
+X:0
+T:Lulle me beyond thee
+G:song or dance
+M:6/8
+L:1/8
+Q:3/8=96
+K:DMin
+A2A  f>ef|g>fg a3 |A2A f>ed|^c3 d3:|
+f2f  g>fg|a>ba g2c|f2f g>fg| a3 g3 |
+a>ba g>fe|f>ed a3 |A2A f>ed|^c3 d3|]
+
+John Hamilton gave it new words early in the 19th century, with a dorian
+first half and the second half in the minor with sharpened leading note:
+
+X:0
+T:Up in the Morning Early
+G:song
+S:Gall and Inglis, Select Songs of Scotland
+M:6/4
+L:1/4
+Q:3/4=92
+K:GDor
+D|G2A  B2c|d>ef F2F   |G>AG d2c/A/|G3 d2D|
+  G2A  B2c|d>ef F2F   |G>AG d2c/A/|G3 d2||
+K:GMin
+B|B>cB B2B|c>dc c2z   |d>ed f2e   |d3 f2B|
+  B>cB B<BB|cdf g2f/e/|d>cB A>G^F |G3 d2|]
+
+and it turned up in Shetland a few centuries later, adapted under Norse
+influence into a far more subtle tune that goes through dorian, mixolydian
+and major:
+
+X:0
+T:Sister Jean
+G:slow air
+S:Catriona Macdonald
+M:6/8
+L:1/8
+Q:3/8=80
+R:andante
+K:DDor
+D2E F2G|ABA G2F|E2C C2G|E3 D2C|D2E F2G|ABA A2G|A2d d2c|d3 D3:|
+K:DMix
+A2B c2d|efe e2c|A2B c2G|E3 C3 |A2B c2d|efe e2d|\
+K:D
+                                               f2d d2c|d3 A3 |
+K:DMix
+A2B c2d|efe e2c|A2B c2G|E3 C2B|A2A F2D|A2A F2D|A2d d2c|d3 D3|]
+
+
+The other way to shift mode in a tune is by filling in or opening gaps.
+
+A now-unfamiliar tune for a familiar song, Burns's original choice:
+
+X:0
+T:A red red Rose
+S:Scots Musical Museum volume V
+M:C
+L:1/8
+Q:1/4=80
+K:F
+% lydian/major/mixolydian pentatonic
+ F        |C>D F>F F>F f>d  |cA  G>F G3
+ A        |C>D F>F F<F f>d  |c<A G>A F3||
+% lydian/major hexatonic
+(c/d//e//)|f>g fe  d>c d>f  |cA  GF  G3
+ e        |f>g fe  d>c df   |c>A G>A F3
+(c/d//e//)|f>g fe  d>c df/d/|cA  FG  G3
+ A        |C>D F>F F>F fe/d/|c>A G>A F3|]
+
+X:0
+T:The Kilt is My Delight
+G:reel
+S:Logan's Collection
+M:C|
+L:1/8
+Q:1/2=108
+K:D
+% major/mixolydian/dorian pentatonic, D-final CG-gap
+e|A>AA>B A>Bd>f|e>de>f d>BB<e|A>AA>B A>Bd>f|ede>f  d2d:|
+% major/mixolydian hexatonic, D-final C-gap
+e|g2 a>g f2 a>f|e>de>f d>BB<e|g2 a>g f2 a>f|ede>f  d2de|
+  g2 a>g f2 a>f|e>de>f d>BB<e|A>AA>B A>Bd>f|e>de>f d2d|]
+
+This alternates in each section between mixolydian/dorian/minor
+pentatonic and dorian/minor hexatonic:
+
+X:0
+T:The Wee Man from Skye
+C:P.M. Donald McLeod
+G:march
+M:2/4
+L:1/16
+Q:1/4=84
+K:AMix
+B<d|e2ed deed  |Beed   B2A2 |GGGB G2B2  |GBBd   B2d2|
+    e2ed deed  |Beed   B2A<G|AAAB e2d<B |A4     A2 :|
+B<d|e2g2 a2ef  |gfed   B2A2 |GGGB G2B2  |GBBd   B2d2|
+[1  efge a2a2  |gfed   B2A<G|AAAB e2d>B |A4     A2 :|
+[2  e2ed deed  |Beed   B2A<G|AAAB e2d>B |A4     A2 ||
+B<d|e2A2 A2Bd  |e<ge>d B2AB |dGG2 B<AB<G|B<dG>d B2d2|
+    eAA2 B<AB<d|egde   B2A<G|AAAB e2d>B |A4     A2 :|
+B<d|e2ed e2ef  |gfeg   B2A2 |GGGB G2B2  |GBBd   B2d2|
+[1  e2ed e2ef  |gfed   B2A<G|AAAB e2d>B |A4     A2 :|
+[2  eAA2 B<AB<d|egde   B2A<G|AAAB e2d>B |A4     A2 |]
+
+The pipe march "The Conundrum" is more complex, progressively filling in
+gaps from one section to the next.  The first part omits both G and D,
+fitting the mixolydian/major/lydian pentatonic scale.  The second part fills
+in one gap, inconspicuously adding a few Gs to make the tune major/lydian
+hexatonic.  The third part makes them slightly more noticeable.  The last
+part adds Ds as well; the tune only becomes unambiguously in the major mode
+near the end.
+
+X:0
+T:The Conundrum
+C:Peter Macleod
+G:march
+M:2/4
+L:1/16
+Q:1/4=84
+K:AMix
+   A>B|c2A>c  e>fc2 |A>ce>a f2e>f |a2e>f e>fc2|A>ce>c B2
+   A>B|c2A>c  e>fc2 |A>ce>a f2e>f |a2e>f e>fc2|B2A2   A2:|
+   f>g|a2e>f  a>ea2 |e>fa>e f2e>f |a2e>f e>fc2|A>ce>c B2
+[1 f>g|a2e>f  a>ea2 |e>fa>e f2e>f |a2e>f e>fc2|B2A2   A2:|
+[2 A>B|c2A>c  e>fc2 |A>ce>a f2e>f |a2e>f e>fc2|B2A2   A2||
+   e2 |A>Bc2  A>Bc<A|c<eA>B c2e2  |f>ga2 e>fc2|A>ce>c B2
+   e2 |A>Bc2  A>Bc<A|c<eA>B c2e2  |f>ga2 e>fc2|B2A2   A2:|
+   a2 |f>ea>e f2e<a |f2e<a  f>ea>e|f>ga2 e>fc2|A>ce>c B2
+[1 a2 |f>ea>e f2e<a |f2e<a  f>ea>e|f>ga2 e>fc2|B2A2   A2:|
+[2 A>B|c2d>c  e>Ac2 |d>ce>A f2e>f |a2e>f e<ac2|B2A2   A2|]
+
+This tune is hexatonic in the first and third parts, and with the seventh
+in an inconspicuous descending figure in the second part.  But in the fourth
+part, the tune is unambiguously mixolydian heptatonic - the G natural only
+occurs once, but on a primary beat.  (Thanks to George Current for pointing
+this example out).
+
+X:0
+T:King George V's Army
+C:G.S. MacLennan
+G:march
+M:2/4
+L:1/16
+Q:1/4=80
+K:Hp
+ed|c2A2 A3B |cAce fedc|d2B2 B3c |defa f2ed|
+   c2A2 A3B |cAce fedc|d2fd c2ec|B4   A2 :|
+cd|e2a2 a2gf|e2c2 c2ec|d2B2 B2cd|c2A2 A2cd|
+   e2a2 a2gf|e2c2 c2ec|d2fd c2ec|B4   A2 :|
+ed|c2e2 a3e |ceae faec|d2f2 a3f |dfad fafd|
+   c2e2 a3e |ceae faec|dfad ceac|B4   A2 :|
+ed|c2e2 e3d |ceea fedc|d2f2 f3e |dffa gfed|
+   c2e2 e3d |ceea fedc|dfad ceac|B4   A2 :|
+
+Each part of this complex tune is hexatonic until the unobtrusive B in
+the final bar puts it into the major:
+
+X:0
+T:The Braes of Auchtertyre
+S:Middleton's Collection, 4th Edition
+M:C
+L:1/8
+Q:1/4=108
+K:C
+E|C2 C>F E<GG>A|c>de>d       c>AG<c|A/A/A A>G A2 a2 |g<c   {g}f>e {e}d2c2 |
+  C2 C>F E<GG>A|c>de>d       c>AGc |A>cG>c    F>cE>c|d/c/B/A/ c<E {E}D2C ||
+f|e>fg>a g>ec>g|a/g/f/e/ d>f e>dcG |A/A/A a>g a2 c'2|e<c   {g}f>e {e}d2c>f|
+  e>fg>a g>ec>g|a/g/f/e/ d>f e>dcG |A>cG>c    F>cE>c|d/c/B/A/ c<E {E}D2C |]
+
+Probably the bext-known gap-filling tune is this, where the flattened
+seventh in the last part often requires players of diatonic instruments
+to cheat:
+
+X:0
+T:The Athole Highlanders
+M:6/8
+L:1/8
+Q:3/8=116
+K:AMix
+% major/mixolydian hexatonic, G-gap hexatonic pitch set
+e3   e>cA|e>cA B>cd|e3   e>cA|B>cd c>BA|
+e3   e>cA|e>cA B>cd|e<ae f>ed|c>dB A3 :|
+A>ce A>ce|B>df B>df|A>ce A>ce|B>cd c>BA|
+A>ce A>ce|B>df B>df|e<ae f>ed|c>dB A3 :|
+a2e  e>dc|a2e  e>dc|a2e  e>dc|B>cd c>BA|
+a2e  e>dc|a2e  e>dc|e<ae f>ed|c>dB A3 :|
+% mixolydian
+c<Ac c<Ac|d<Bd d<Bd|c<Ac c<Ac|B<GB B<GB|
+c<Ac c<Ac|d<Bd d<Bd|e<ae f>ed|c>dB A3 :|
+
+This procedure, of only filling in a gap at the very end of the tune to
+create a climax, is common in all kinds of Scottish music.  The idea goes
+back a very long way.  This tune from mediaeval Germany is hexatonic in
+its first half, and fills in the gap to become dorian in its second part:
+
+X:0
+T:Palestine Song
+T:Nu alrest lebe ich mir werde
+C:Walther von der Vogelweide, 1204
+N:a bloodthirsty recruiting song for the Fourth Crusade, which
+N:turned into a looting expedition like the war on Iraq - Walther
+N:went on the crusade and it seems he later regretted writing it.
+M:C
+L:1/8
+Q:1/4=80
+K:DDor
+A|D2 D2 F2 F2      |D2      D/E/F/E/     D2 DC |
+  E2 G2 A2 A/G/F   |E2    (3D/C/D/   E/F/E HD2:|
+A|A2 c2 c2 AG      |A2      cB           A3  z |
+  A2 cB A2 A/G/F/E/|F2      G/F/E/D/     C3  z |
+  D2 A2 A2 GF      |EF/E/ (3D/C/D/   E/F/E HD2|]
+
+This is a mediaeval piece in the style of a French religious song, and
+perhaps composed by a Frenchman; it's one of the oldest pieces of music
+known from Scotland.  It's in the dorian mode, but the first three sections
+are dorian/minor hexatonic, with progressively more dorian E's introduced
+as the piece builds to a climax.
+
+X:0
+T:Margaret-Eric Epithalamium
+G:song
+S:Codex Upsaliensis C233
+S:Proc Soc Antiq Scot LXXIII (1939) plate LXXXV
+N:Composed for the marriage of Princess Margaret
+N:of Scotland and King Eric of Norway, 31/8/1281
+N:I have rebarred it - the PSAS version was notated in 4/4.
+N:Warning!  ABC has a strange concept of 6- and 5-plets; BarFly
+N:implements this in a way that displays them twice as long as
+N:they are meant to be played.  As notated here, playback is
+N:correct and display is wrong.
+N:H means a fermata.  If your ABC implementation doesn't have that
+N:feature just edit the H's out.
+M:3/4
+L:1/8
+Q:1/4=108
+K:GDor
+GF|     G2         A2    cd |c2 BA G2|A2 B2  A2 |G2 (3FGF
+GF|     G2         A2    cd |c2 BA G2|A2 B2  AG |F2  HG2:|
+d2|     c2         d2   (cB)|A2 G2 A2|c2 A2  B2 |G2 (3FGF
+A2|     c2         d2    c2 |B2 A2 F2|GA B2  AG |F2  HG2:|
+F2|     G2         A2    B2 |A2 G2 G2|A2 B2  c2 |B2   A2
+A2|     c2         d2    cB |A2 G2 F2|GA B2  AG |F2  HG2:|
+c2|     c2         de    f2 |e2 d2 c2|d2 e2 (fe)|d2 (3cBA
+A2|     c2         c2    d2 |d2 G2 F2|GA B2  AG |F2  HG2:|
+g2|     e2         f2   (gf)|e2 d2 e2|f2 e2  d2 |d2   c2
+c2|     d2         e2    f2 |e2 d2 e2|c2 d2 (cB)|A2  HG2:|
+c2|     c2         de    f2 |ed c2 e2|f2 d2  e2 |dc   d2
+c2|     c2         de    f2 |ed c2 e2|f2 d2  e2 |dc  Hd2:|
+c2|     e2       (3def   ed |e2 c2 d2|dc d2  e2 |c2   A2
+c2|     e2       (3def   ed |e2 c2 d2|c2 d2 (cB)|A2  HG2:|
+d2|(6:2:defedc     c2    c2 |cB AG A2|c2 d2  GF |G2 (3ABA
+A2|     c2    (5:2:defed c2 |cB AG F2|GA B2  AG |F2  HG2:|
+d2|     d2    (5:2:defed c2 |cB AG A2|c2 d2  GF |G2 (3ABA
+A2|     c2    (5:2:defed c2 |cB AG F2|GA B2  AG |F2  HG2:|
+GF|     G2         A2    cd |c2 BA G2|A2 B2  A2 |G2 (3FGF
+GF|     G2         A2    cd |c2 BA G2|A2 B2  AG |F2  HG2:|
+
+The same idea is used in this imitation folk song from 600 years later and
+the other end of Europe, which is dorian/minor hexatonic until near the end:
+
+X:0
+T:Legend
+C:Tchaikovsky
+N:words are a Russian translation of an American antisemitic fakelore ballad
+M:2/4
+L:1/8
+Q:1/4=100
+K:FMin
+f2 fe|A3 B|c2 c2|F2 zc|f2 e2|A3  B|c2 c2|F4   |
+F2 FG|A3 G|F2 E2|F4   |F2 FG|A3  G|F2 E2|F2 zc|
+f2 e2|A3 B|c2 c2|F2 zc|f2 e2|A3  B|c2 c2|F4   |
+zF FG|A3 G|F2 E2|F4   |F2 FG|A3  G|F2 E2|F4   |
+f2 fe|A3 B|c2 c2|F2 zc|f3  e|A3  B|c2 c2|F4   |
+F2 FG|A3 G|F2 E2|F4-  |FF FG|A3  G|F2 E2|F4   |
+G2 GG|A3 A|B3  B|c3  c|e2 d2|c2 F2|A3  G|F4   |
+G2 GG|A3 A|B3  B|c3  c|e2 d2|c2 F2|A2 G2|F4  |]
+
+All the examples so far are of gradual and subtle shifts, moving between
+adjacent points in the mode diagram.  Shifts follow the lines marked in
+the Big Picture (that is, there are no shifts between gapped scales with
+the same number of gaps; the only moves that occur are the opening and
+filling of gaps, or changes of one step at a time in seven-note modes).
+This is quite unlike the usual procedure in art music, where changes of
+mode tend to be dramatic and unmistakable, usually between major and minor.
+There are some examples like that in folk music, but they usually feel like
+conscious exercises in weirdness.  There is nothing subtle about this:
+
+X:0
+T:The Flowres of the Forrest
+S:Skene MS via Dauney
+G:lament, arranged for lute
+M:4/4
+L:1/8
+Q:1/4=72
+K:D
+[d2D2] d2 efab     | afed         B2A2     |\
+[d2D2] d2 efab     | afed        [d4A4D4] :|
+ AB   =c2 Bc [d2D2]|[A2D2]  fe    d/B/A3   |\
+[A2D2] Bd b2  af   |[e3A,3] d/e/ [d4A4D4] |]
+
+That startling shift is from the lydian/major/mixolydian pentatonic mode
+direct to the mixolydian; the gap at the fourth (G) is not filled in first,
+as a move through the major/mixolydian hexatonic mode would require.  The
+tune is from a manuscript of lute music predating the general use of the
+fiddle, and from the Borders, where the bagpipe had a long history.  It
+may even be as old as the event it is thought to commemorate, the Battle
+of Flodden in 1513; perhaps it records an old and local kind of tonality.
+The basic melody has a nine-note range from A to b, suggesting a chanter
+with either one extra note above a one-octave A dorian scale, or two above
+a G mixolydian scale.
+
+This tune, noted down in the Borders around 1800, shifts in a similarly
+emphatic way from minor to major, and more subtly back again:
+
+X:0
+T:Young Hynd Horn
+G:song
+S:C.K. Sharpe/Lady John Scott, MS.843
+M:4/4
+L:1/8
+Q:1/4=100
+K:GMin
+GA |B2BA G2GA|B2c2  d2||\
+dd |e2dd c2cc|d2^f2 g2||
+g^f|g2GG G2GA|B2cB  A2||\
+GF |B2BB c2c2|dcBA  G2|]
+
+This tune (originally for the harp, but best known in a slightly
+modified version for the whistle) is dorian/minor/phrygian pentatonic
+till near the end, where a grinding unexpected F natural momentarily
+throws it into the phrygian mode:
+
+X:0
+T:Da mihi Manum
+G:harp tune
+C:Rory Dall (Scotland, 17th century)
+N:not the Irish harper of the same name 100 years
+N:previously, despite what you read in some books
+S:Dan Wright, Aria di Camera c.1726
+N:arrangement for the transverse flute
+M:6/4
+L:1/4
+Q:1/4=120
+K:EMin
+D|EGG    G2E   |EGG     G2E   |EGG     GAB   |Bed          B2A/G/|
+  AAe    BBd   |A>BA/G/ E2D   |EGG     g2D   |EGG          g2D   |
+  EGG    gab   |d>ba/b/ g2D   |EGG     GAB   |Bed          B2A   |
+  AAe    BBd   |ABd     e2d/B/|dde     g2e/d/|eeg          a2g/e/|
+  ggd/e/ ggd/e/|gga     b3    |bbb     b2a/g/|a/g/a/b/a/b/ a2g   |
+  eeg/e/ dde/d/|BBd/B/  A2G   |GGB/d/ =f2e/d/|eeg          e2d/B/|\
+  ddg    BBd   |A>BA/G/ E2D  |]
+
+Breathnach points out that this high F natural is common in Irish
+music, where it's generally reached by a slide from below.  Whistle
+players often play that tune with one of those Irish-style slides;
+obviously Rory Dall's harp can't have done that, and applying the
+trick to this tune must be a folk-revival idea of very recent times.
+
+Here is the same sort of gap-filling in a tune from Bolivia.  The
+first two sections are lydian/major/mixolydian pentatonic, then the
+last one goes straight into major:
+
+X:0
+T:Guadalquivir
+Z:Fernando Formigo
+Z:Jack Campin, http://www.campin.me.uk/
+S:a PDF book "Andean Melodies" off the web
+M:2/4
+L:1/16
+Q:1/4=60
+K:G
+GB2d eg2e|d2B2 G4|AB2A AB2A|G2B2 d4 |
+GB2d eg2e|d2B2 G4|AB2A AB2A|G2G2 G4||
+d2g2 d2g2|B3g  d4|B2d2 B2d2|g3d  B4 |
+G2B2 G2B2|d3B  G4|GB2d ed2B|G2G2 G4||
+ee2e e3c |ec2e g4|dd2d d3B |dB2d g4 |
+cc2c c3A |cA2c f4|dd2d de2d|[1 dGAB cBcd:|\
+                            [2 dd2d dcBA |G2G2 G4|]
+
+This Macedonian dance does the opposite to the usual Scottish practice,
+by opening a gap in the second part to make this section dorian/minor
+hexatonic (in addition, the seventh only occurs as a passing note; the
+section is effectively pentatonic).  This gives a feeling of increased
+lightness that goes along with the higher tessitura:
+
+X:0
+T:Stojane More
+S:Merima Kljuco, Eastern European Folk Tunes for Accordion, 2009
+G:Macedonian dance
+M:7/8
+L:1/8
+Q:3/8=120
+K:BDor
+AGA BF dc|B2A GABF|AGA BFGA|BcA B2    BF       |
+AGA BF dc|B2A GABc|dec d2cB|B2F B4            :|
+f3  f2-fe|f2e d2de|f3  f2e2|d2c B2    B/c/d/e/ |
+f2e e2 dc|e3  A2Bc|d2c B2BF|B3- B2 [1 B/c/d/e/:|\
+                                   [2 z2      |]
+
+A common idea in art music is to shift between major and minor
+keys using the same pitch set ("relative" major and minor keys,
+like C major and A minor).  This is an example from Scottish
+music, mostly in A major but moving into F# minor at the start
+of the second part:
+
+X:0
+T:The Laird o' Thrums
+C:J. Scott Skinner
+M:C
+L:1/8
+Q:1/4=110
+K:A
+g|(3 agf   (3 efg   ({g}a2)     (e>d) |  (c<e)    (A>a)     (c>B)     (B>g) |
+  (3.a.g.f (3.e.f.g ({g}a2)     (e>c) |  (d>f)    (B>e) ({cd}c>A)     (A>g) |
+  (3.a.g.f (3.e.f.g ({g}a2)     (e>d) |  (c<e)    (A>a) ({cd}c>B)     (B>g) |
+  (3.a.g.f (3.g.f.e  (3.f.e.^d  (e>c) |  (d<f)    (B>e) ({cd}c<)A      A   ||
+c|   f2      (c>f)     (A>f)    (c>f) |(3.c.f.g (3.a.g.f  (3.c'.f.g (3.a.g.f|
+({^d}e2)     (B>e)     (G>e)    (B>e) |(3.B.e.f (3.g.f.e  (3.b.e.f  (3.g.f.e|
+  {g}a2      (e>a)     (c>e)    (A>g) |(3.a.g.f (3.g.f.e  (3.f.e.d  (3.e.d.c|
+  (3.d.e.f (3.B.c.d  (3.c.d.e (3.A.B.c|(3.d.e.f (3.e.f.g ({g}a2-)      a   |]
+
+This pipe tune has one part centred on D and the other three on A:
+
+X:0
+T:Liberton Polka
+S:simplified version played in sessions around Edinburgh
+M:2/4
+L:1/8
+Q:1/4=96
+K:D
+AB/>A/ GA|dA     f2|fe/>f/ ge|dc/>e/ fa |
+AB/>A/ GA|dA     f2|fe/>f/ gc|ed     d2:|
+K:AMix
+ef/>e/ ce|ac     e2|ef/>e/ dB|fe     e2 |
+ef/>e/ ce|ac     e2|ef/>e/ dB|BA     A2:|
+Ac     ce|ef/>e/ c2|ef/>e/ dB|Ac     c2 |
+Ac     ce|ef/>e/ c2|ef/>e/ dB|BA     A2:|
+af     fa|ef/>e/ c2|ef/>e/ dB|Ac     c2 |
+af     fa|ef/>e/ c2|ef/>e/ dB|BA     A2:|
+
+Shifting tonal centre also works with other modes and with gapped pitch
+sets, like this pentatonic song from the North-East of Scotland:
+
+X:0
+T:Rhynie
+S:101 Scottish Songs
+M:C
+L:1/8
+Q:1/4=140
+K:C
+c2|e3d c2G2|A2c2 A2G2|e3 d c2G2|Ac3  d3
+ c|e3d c2c2|c2c2 A2G2|c3 G G2G2|E2G2 A4||
+   G3C C2C2|E2D2 EA3 |G2C2 C2C2|E2G2 c2|]
+
+The Skye Boat Song is a confusing example.  The tune is pentatonic, but
+the tonal centre of the chorus is not the final note: it's really centred
+on G, and some singers end it that way.  But the middle section goes into
+the relative minor with no ambiguity at all.  Its origins are uncertain,
+and there seems to be no verifiable Scottish source for it before it was
+published in England in 1884, but it is at least Scottish by adoption.
+
+X:0
+T:Skye Boat Song
+G:rowing song or lullaby
+S:Loesberg, Traditional Folksongs and Ballads of Scotland
+M:6/8
+L:1/8
+Q:3/8=54
+K:G
+D>ED G2 G/G/|A>BA d3 |
+B>AB E2 E   |D3-  D3 |
+D>ED G2 G   |A>BA d3 |
+B>AB E2 E   |D3-  D3-|D3 z3||
+K:EMin
+B>GB B3|AEA A3|GEG  G2G|E3 -E3 |
+B>GB B3|AEA A3|G>EG G2G|E3- E3||
+K:G
+D>ED G2 G/G/|A>BA d3 |
+B>AB E2 E   |D3-  D3 |
+D>ED G2 G   |A>BA d3 |
+B>AB E2 E   |D3-  D3-|D3 z3||
+
+Sometimes the process of evolution irons out variation in gapping within
+a tune.  This pipe march has three parts in major/mixolydian hexatonic,
+but the second part adds an inconspicuous mixolydian seventh:
+
+X:0
+T:Farewell to the Creeks
+M:6/8
+L:1/8
+Q:3/8=96
+K:AMix
+  a|e2c  c>Bc|d>ef e2d |c2e A>ce|e>dc B2
+  a|e2c  c>Bc|d>ef e2d |c2e e>dc|B3   A2:|
+|:f|e>ce f<ag|f>df e>cA|c2c c<ec|d>cd B2
+  f|e>ce f<ag|f>df e>cA|c2e e>dc|B3   A2:|
+|:a|c3   d2f |c<ec c>BA|d2f c2e |e>dc B2
+  a|c3   d2f |c<ec c>BA|c2e e>dc|B3   A2:|
+|:e|a2e  f2a |e2f  e>cA|d2f c2e |e>dc B2
+  e|a2e  f2a |e2f  e>cA|c2e e>dc|B3   A2:|
+
+As turned into a song by Hamish Henderson, he seems to have found it
+easier for the singer to replace that section entirely with a repeat
+of the third section, so the whole tune stays in the same hexatonic
+pitch set:
+
+X:0
+T:The Highland Division's Farewell to Sicily
+C:Hamish Henderson
+M:6/8
+L:1/8
+Q:3/8=76
+K:AMix % major/mixolydian hexatonic
+a|e>cc c>Bc|d>ef e2d   |c>de A>ce|ed>c B2
+a|ecc  cBc |d>ef e2d   |c>de e>dc|B3   A2||
+A|c3   d2f |e2c  c/B/A2|d2f  c2e |e>dc B2
+A|c3   d2f |e2c  c>BA  |c>de e>dc|B3   A2||
+z|c3   d2f |e2c  c/B/A2|d2f  c2e |e>dc B2
+A|c3   d2f |e2c  c>BA  |c>de e>dc|B3   A2||
+e|a2e  f2a |e2f  ecA   |d2f  c2e |edc  B2
+e|a2e  f2a |e2f  ecA   |c>de edc |B3   A2|]
+
+=============================================================================
+==  (c) Jack Campin         http://www.campin.me.uk/            June 2016  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

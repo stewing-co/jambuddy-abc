@@ -1,0 +1,346 @@
+%topmargin .5in
+%%leftmargin .75in
+%%staffwidth 6.5in
+%%gchordfont Helvetica 14
+%%footer SPUDs Tune Swap #35 - Historical Tunes Part II - September 9, 2021
+%%
+X:0
+T:SPUDS Tune Swap #35
+T:Historical Tunes Part II - September 9, 2021
+K:
+%%text 1. Jefferson and Liberty [Ador] Kathryn 
+%%text 2. Vice President Kamala Harris' Hornpipe [Bb] Kathryn
+%%text 3. Chicago Reel [Ador] Kirsten
+%%text 4. Siege of Limerick [Dm] Steve
+%%text 5. Archibald McDonald of Keppoch [Dm] Debbie
+%%text 6. Obama's March to the Whitehouse [A or G] Adlai
+%%text 7. Biden Our Time [G] Adlai [Sarah and Bill]
+%%text 8. Garfield's Blackberry Blossom [Gm] Sarah and Bill
+%%text 9. The Richmond Cotillion [D/A] John Bunch
+%%text 10. Rose Tree [D] John Bunch
+%%text 11. President Garfield's Hornpipe [G] Craig
+%%text 12. Ragtime Reel [D] Carol W.
+%%text 13. O'Donnell Abu
+%%text 14. Meeting of the Waters [A] Bob Pollack
+%%text 15. The Providence [D] Kirsten
+%%text 16. Farewell to Tchernobyl [Dm] Rob 
+%%text 17. Yunogo [Gm] Bill and Sarah
+
+%%newpage
+
+X: 1
+T: Jefferson and Liberty
+T: (The Gobbi-O)
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+[|:"Am"AB|c2A A^GA|E2A ABc|"G"B2G GBc|dBG GAB \
+|"Am"c2A A^GA|E2A A2e|edc "E7"BAB|"Am"c2A A2:|
+[|:E| "Am"A2B c2d | "C"e2f g3 | faf g2e | "G"dBG G2E \
+|  "Am"A2B c2d | "C"efg "F"a3 | "C"edc "E7"BAB | "Am"c2A A2 :|
+W:The gloomy night before us lies, the reign of terror now is o'er;
+W:Its gags, inquisitors and spies, its hordes of harpies are no more!
+W:Chorus:
+W:Rejoice, Columbia's sons, rejoice, to tyrants never bend the knee,
+W:But join with heart and soul and voice, for Jefferson and Liberty!
+
+X: 2
+T: Vice President Kamala Harris' Hornpipe
+C: Rebecca Rose Weiss
+C: January, 2021
+Z: this abc by K. Barnhardt, from RRW's own pdf
+M: 4/4
+L: 1/8
+K: Bb
+|:"Bb"B2FD B,3D|"Eb"EDCE "Bb"DB, B,2|"F"A,B,CD "Eb"EFGA|"Bb"BcdB "F"cAFA|
+"Bb"B2FD B,3D|"Eb"EDCE "Bb"DB, B,2|"Cm"A,B,CD "F"EFGA|1"Eb"B2"F"BA"Bb"B4:|2"Eb"B2"F"BA"Bb"B3g||
+"Bb"f2b2b3g|"Bb"fbdf "Gm"Bdfd|"F"c2a2a3g|"Cm"facf "F"Acfc|
+"Bb"B2b2b3g|"Bb"fbdf "Gm"Bdfd|"Cm"cdef "F"gfaf|1"Eb"b2"F"ba"Bb"b3g:|2"Eb"bgfd "F"cBAc||
+"^Last time" "Eb"b2 "F"ba"Bb"b4|]
+
+X: 3
+T:Chicago Reel
+K:A dorian
+% a busy strum (commented out)
+% %%MIDI gchord b2cgbgcg
+% lighter, smoother boomchucks
+%%MIDI gchord fcgc
+% (Tech details: pattern after '%%MIDI gchord' fills the measure.
+%   f=fundamental (bass), c=chord, b=both; z=rest. Numbers lengthen notes/chords as usual.
+%   g,h,i,etc. = 1st,2nd,3rd,etc. notes of chord (after any inversion); 
+%   G,H,I,etc. = octave down.
+%   For more, find documentation for abc2midi.)
+% invisible tempo:
+Q:1/2=120
+%%printtempo false
+|: B |"C"cded cAGE|"G"G2 GE GAcd|"C"ecgc acgc|"F"eaag "G"eged|
+"C"cded cAGE|"G"G2 GE GAcd|"Am"eaag "G"eged|"Am"cA "Em"BG "Am"A3:|]
+|: B |"Am"cdef g2 ef|"G"g2 dc "G"BG3 |"Am"cdef g2 ed|"Am"eaag "D"aged|
+"Am"cdef "G"g2 fg|"D"a3 f "G"g3 e|"D"f3 d "C"e2 ed|"Am"cA "Em"BG "Am"A3:|]
+
+X:4
+T:Siege of Limerick
+C:Henry Playford, 1968
+%%MIDI gchord fcHcfc
+M:3/2
+L:1/8
+K:Dm
+|: "Dm"d3e f2d2 "A"a4 | "Gm"e3f "A"g2^c2 "Dm"f4 | "G"=B3d "A"^c2e2 "Dm"def2 | "/A"A2 d2- "A7"d2^c2 "Dm"d4 :|
+| "F"c3d cBA2 ABc2 | "Bb"d3e def2 "C"efg2 | "F"a2 f4 c2 "Bb"d2cB | "F/C"AB c2- "C7"c2e2 "F"f4 |
+|: "Dm"a3b a2f2 "Gm"d4 | "Em"g3a g2e2 "A"^c4 | "Dm"f3g f2d2 "E7"=B2e2 | "A7"^c2 A2- A2^c2 "Dm"d4 :|
+
+X:5
+T:Archibald McDonald of Keppoch
+C:Scottish, traditional
+C:Elke Baker, Waltz Book II version
+M:3/4
+L:1/4
+R:Air
+K:Dm
+D/E/|:"Dm"F>GA|"Bb"f>ed|"F"c<AF|"C"G2 D/E/|!
+"Dm"F>GA|"Bb"f>ed|"A7"A<d ^c|1"Dm"d2 D/E/:|]2"Dm"d2 d/e/||!
+"Dm"f>e"Bb"d|"F"c>BA|"Gm"B>AG |"Dm"A2 D/E/|!
+"F"F>GA|"Bb"f>ed|"A"A<d ^c|"Dm"d2 f/g/|!
+"F"a>gf|"Dm"A<f "Bb"d|"F"c>AF| "C"G2 D/E/|!
+"Bb"F>GA|"Gm"f>g a|"A"A<d ^c|"Dm"d2|]
+
+X: 6
+T: Obama's March to the White House
+C: Greg Canote 2007
+R: reel
+Z: 2012 John Chambers <jc:trillian.mit.edu>
+Z: abc-edited-by: Adlai Waksman
+F: http://trillian.mit.edu/~jc/music/abc/OldTime/reel/ObamasMarchToTheWhiteHouse2_A.abc
+F: http://info.therealschoolofmusic.com/Portals/13037/docs/ObamasMarch.pdf 2012-11-13
+F: http://www.mne.psu.edu/lamancusa/tunes/ObamasMarch.pdf
+% YouTube video of the Canote brothers playing this tune
+% at the Wayward Coffeehouse, Seattle, WA, May 8th, 2009
+% (The Pacific Northwest Folklore Society)
+F: http://www.youtube.com/watch?v=VlseV_lIhYs
+%%staffsep 0.25in
+M: C|
+L: 1/8
+K: A
+%%text AEAC# tuning (Calico tuning a.k.a. Black Mountain Rag tuning)
+%%text With a lilt
+c2e2 |\
+"D"(ef3) (3efec2 | "E"[B4E4] (3BcB AB |  "A"c2c2- cBAG | (3FGF EE ccec |
+"D"f3e (3efec2 | "E"B3B AB3 | "A"c4 c3d | cABc A2ec |
+"D"f3e fec2 | "E"[B4E4] (3BcB AB | "A"c2cd cBAG | F2E2 EEFG |
+"D"A3(A, A2)AF | "E"E2C2 (3B,CB, A,B, | "A"[E4A,4] [E3A,3][EB,] | [E4A,4] :|
+E2A2 |\
+"D"F6 F2 | "A"E4 ABcA | "E"B4 G4 | "A"A4 E2FG |
+"A"A3(A, A2)AF | E2C2 (3B,CB, A,C | "E"B,4 B,A,B,C | B,A,B,B, A,2A2 |
+"D"F2FE FGAF | "A"ECA,C ABcA | "E"B2Bc dcBc | "A"A2E2 E2FG |
+"A"A3(A, "D"A2)AF | "A"E2C2 "E"(3B,CB, A,B, | "A"A,4 A,3B, | A,4 |]
+%
+T: Simplified version
+Z: 2012 John Chambers <jc:trillian.mit.edu>
+F: http://trillian.mit.edu/~jc/music/abc/OldTime/reel/ObamasMarchToTheWhiteHouse0_A.abc
+M: C|
+L: 1/8
+K: A
+%%staffsep 0
+c2e2 |\
+f4 e2c2 | B6 AB | c2c2 cBAG | F2E2 c2e2 | f4 e2c2 | B4 A2B2 | c4 c3d | c2B2 A2e2 |
+f4 e2c2 | B6 AB | c2c2 cBAG | F2E2 E2FG | A4 A3F | E2C2 B,2A,2 | A,4 A,3B, | A,4 :|
+E2A2 |\
+F6 F2 | E4 ABc2 | B4 [B4G4] | A4   E2FG | A4 A3F | E2C2 B,2A,2 | B,4 B,3C | B,2B,2 E2A2 |
+F4 F4 | E4 ABc2 | B4 [B4G4] | A2E2 E2FG | A4 A3F | E2C2 B,2A,2 | A,4 A,3B, | A,4 |]
+
+X:6
+T:Obama's March to the White House (G)
+C:Greg Canote 2007
+R:reel
+Z:2012 John Chambers <jc:trillian.mit.edu>
+Z:abc-edited-by: Adlai Waksman
+F:http://trillian.mit.edu/~jc/music/abc/OldTime/reel/ObamasMarchToTheWhiteHouse2_A.abc
+F:http://info.therealschoolofmusic.com/Portals/13037/docs/ObamasMarch.pdf 2012-11-13
+F:http://www.mne.psu.edu/lamancusa/tunes/ObamasMarch.pdf
+% YouTube video of the Canote brothers playing this tune
+% at the Wayward Coffeehouse, Seattle, WA, May 8th, 2009
+% (The Pacific Northwest Folklore Society)
+F:http://www.youtube.com/watch?v=VlseV_lIhYs
+%%staffsep 0.25in
+M:C|
+L:1/8
+K:Gmaj
+%%text Original key was A; Greg plays it in AEAC# tuning (Calico tuning a.k.a. Black Mountain Rag tuning)
+%%text With a lilt
+B2d2 |\
+"C"(de3) (3dedB2 | "D"[A4D4] (3ABA GA | "G"B2B2- BAGF | (3EFE DD BBdB |
+"C"e3d (3dedB2 | "D"A3A GA3 | "G"B4 B3c | BGAB G2dB |
+"C"e3d edB2 | "D"[A4D4] (3ABA GA | "G"B2Bc BAGF | E2D2 DDEF |
+"C"G3(G, G2)GE | "D"D2B,2 (3A,B,A, G,A, | "G"[D4G,4] [D3G,3][DA,] | [D4G,4] :|
+D2G2 |\
+"C"E6 E2 | "G"D4 GABG | "D"A4 F4 | "G"G4 D2EF |
+"G"G3(G, G2)GE | D2B,2 (3A,B,A, G,B, | "D"A,4 A,G,A,B, | A,G,A,A, G,2G2 |
+"C"E2ED EFGE | "G"DB,G,B, GABG | "D"A2AB cBAB | "G"G2D2 D2EF |
+"G"G3(G, "C"G2)GE | "G"D2B,2 "D"(3A,B,A, G,A, | "G"G,4 G,3A, | G,4 |]
+%
+T:Simplified version
+Z:2012 John Chambers <jc:trillian.mit.edu>
+F:http://trillian.mit.edu/~jc/music/abc/OldTime/reel/ObamasMarchToTheWhiteHouse0_A.abc
+M:C|
+L:1/8
+K:Gmaj
+%%staffsep 0
+B2d2 |\
+e4 d2B2 | A6 GA | B2B2 BAGF | E2D2 B2d2 | e4 d2B2 | A4 G2A2 | B4 B3c | B2A2 G2d2 |
+e4 d2B2 | A6 GA | B2B2 BAGF | E2D2 D2EF | G4 G3E | D2B,2 A,2G,2 | G,4 G,3A, | G,4 :|
+D2G2 |\
+E6 E2 | D4 GAB2 | A4 [A4F4] | G4 D2EF | G4 G3E | D2B,2 A,2G,2 | A,4 A,3B, | A,2A,2 D2G2 |
+E4 E4 | D4 GAB2 | A4 [A4F4] | G2D2 D2EF | G4 G3E | D2B,2 A,2G,2 | G,4 G,3A, | G,4 |]
+
+X:7
+T:Biden Our Time
+C:Sarah Gowan, November 2020 
+M:C|
+K:G
+"G"B2cB "D"A2BA|"Em"G2E2B,2D2|EGB2B2c2|"D"A6GA|
+"Em"B2cB "D"A2BA|"C"G2E2G2A2|"G"Bc B2"D"A2F2|1"C" E6d2:|2"C"E6DE||
+|:"D"F4A3F|"G"G2B2d2g2|"C"e2ge"G"d2BG|"D"A6nDE|
+"D"F4A3F|"G"G2A2B2d2|"Am"A2BA"G"G2D2|1"C"E4D2E2:|2"C"E8|]
+
+X:8
+T:Garfield's Blackberry Blossom 
+M:4/4 
+L:1/8 
+K:Gm 
+|:"Gm"g2gg "F"f2ff|"Gm"d2f2 dB G2|"Gm"g2gg "F"f2ff|d2 f2 "Gm"g4|
+|"Gm"{a}b2 a2 (3gag d2|"F"f2f2 dB G2|"Gm"{A}B2A2 (3GAG F2|"F"DF3 "Gm"G4:| 
+|:"Gm"GAB2 "F"d2 f2|-f2 f2 dBA2|"Gm"GAB2 "F"d2 f2|dBA2 "Gm"G4|
+"Gm"GAB2 "F"d2 f2|-f2 f2 dBA2|"Gm"{A}B2A2 (3GAG F2|"F"DF3 "Gm"G4:| 
+
+X:9
+T: The Richmond Cotillion
+R: reel
+M: 4/4
+L: 1/8
+K:Dmaj
+"D" A2 f2 fgfe | "D" d2 F2 A3 d |"A" c2 B2 A2 B2 | "D" ABAG FGFE |
+"D" A2 f2 fgfe| "D" d2 F2 A3 d |"A" c2 A2 BAcA| "D" d8:|
+K:A
+|:"A" efed cdef | "A" a2 c2 e4 | "E" B2 c2 d2 B2 | "A" cdcB ABcd |
+"A" efed cdef | "A" a2 c2 e3 a | "E" g2 e2 fege |[1 "A" a4 a4 :|[2 "A" a4 "A7" =g4 |]
+
+X: 10
+T: Rose Tree
+M: C|
+L: 1/4
+K: D
+|: f/e/ | "D"dB AF | A/B/A/F/ AF/A/ | dd f/e/d/e/ | "A7"fe e/g/f/e/ | 
+ "D"dB AF | A/B/A/F/ AF/A/ |"G" dc/d/ "A7"ed/e/ | "D"fd d :|
+|: d/e/ | "D"fe fg | "B7"a b/a/ gf | "Em"eb ba |"A7" be ef/e/ | 
+"D"dB A F | A/B/A/F/ A F/A/ | "G"dc/d/ "A7"ed/e/ | "D"fd d :|
+
+X: 11
+T: President Garfield's Hornpipe  (G)
+C: Harry Carleton
+B: Ryan's Mammoth Collection of Fiddle Tunes
+R: hornpipe
+M: 4/4
+L: 1/8
+Z: 2000 John Chambers jc:trillian.mit.edu
+K: G
+BA \
+| "G"GDB,D GDB,D | GFGA BABc | "D7"dAFA dAFA | d^cde d=cBA |
+| "G"GDB,D GDB,D | GFGA BABc | "D7"defe dcBA | "G"G2B2 G2 :|
+|: gf \
+| "C"ecGE CEGe | "G"dBGD B,DGd | "D7"cFed cFed | "G"BGed BGgf |
+| "C"ecGE CEGe | "G"dBGD B,DGd | "D7"^cdfe d=cBA | "G"G2B2 G2 :|
+
+X:12
+T:Ragtime Reel
+C:Bill Wadlinger 1984
+M:4/4
+K:D
+(3ABc|"D"d2dc dABd|ABdA BAFA|"F"DE=FD EFDE|"G"=FDEF "A"D2C2|
+"D"D2 dc dABd|ABdA BAFA|"F"de=fd efde|1"G"=fdef "A"A2:|2"G"=fdef "A"d2e2||
+|:"Bm"f2e2d2c2|"G"B4-Bcde|"Bm"f2b2 fedb|"G"B4-Bcde|
+"D"f2 fe dABd| ABdA BAFA|"F"de=fd "G"fd "A"e2|1"D"d4-d"A7"cde:|2"D"d6|]
+
+X:13
+T:O'Donnell Abu
+C:Joseph Halliday
+M:4/4
+L:1/8
+R:march
+K:D
+"D"D4 F3G| A4 A2A2| f4 "G"d3B| "D"A4 G2F2|"Em"E4 E3F| "A7"G4 F2E2| "D"D4 F3G| A6 A2|
+"D"D4 F3G| A4 A2A2| f4 "G"d3B| "D"A4 G2F2|"Em"E4 e3d| "A7"c2A2 B2c2| "D"d4 d3d| d8||
+"D"f4 f3e| d2B2 A4| "G"d2 d4 B2| "D"A2F2 D4|"G"G4 G3G| "D"F2 A4 F2| "Em"E4 E3F| "A7"E8|
+"D"D4 F3G| A2B2 A4| "G"f2 d4 B2| "D"A2A2 G2F2|"Em"E4 e3d| "A7"c2A2 B2c2| "D"d4 d3d| d8|]
+
+X: 14
+T:The Meeting of the Waters
+M:4/4
+L:1/4
+K:A
+EE|"A"A2Ac|"A"E2A>G|"D"FAFD|"A"E2AB|"A"ceEe|"A"dcBA|"Bm"c3d/c/|"E7"B2EF|
+"A"A2Ac|"A"E2A>G|"D"FAFD|"A"E2A>B|"Bm"cedc|"E7"dEGB|"A"A2AA|A2||
+e>d|"A"c2e>d|cecE|"D"FAdF|"E7"E2e>d|"A"ceEe|dcBA|"Bm"c2>dc/|"E7"B2e>d|
+"A"c2e>d|cecA|"D"FDdF|"A"E2A>B|"Bm"cedc|"E7"dEGB|"A"A2A>A|A2|]
+
+X: 14
+T:The Meeting of the Waters Harmony 1
+M:4/4
+L:1/4
+K:A
+CC|"A"E2EA|"A"C2E>E|"D"DFDA,|"A"C2EG|"A"AcCc|"A"BGGF|"Bm"A3B/A/|"E7"G2EF|
+"A"E2EA|"A"C2E>E|"D"DFDA,|"A"C2E>G|"Bm"AcBA|"E7"BDEG|"A"E2EE|E2||
+e>d|"A"A2c>B|EAEE|"D"DFDA,|"E7"D2G>E|"A"AcCc|AAGF|"F#m"A2>BA/|"E7"G2B>G|
+"A"A2c>B|EAEE|"D"DFDA,|"A"C2E>G|"Bm"FGFC|"E7"BDEG|"A"E2E>E|E2|]
+
+X: 14
+T:The Meeting of the Waters Harmony 2
+M:4/4
+L:1/4
+K:A
+GG|c2ce|A2c>B|AdAF|A2cd|eaAa|fedd|e3f/e/|e2GA|
+c2ce|A2c>B|AdAF|A2c>d|eafe|eGBd|c2cc|c2||
+a>f|e2a>g|eaeA|AdfA|G2g>f|eaAa|fedd|e2>fe/|d2g>f|
+e2a>f|eaec|AFfA|A2c>d|eafe|fGBd|c2c>c|c2|]
+
+X:15
+T:Providence, The
+M:C|
+L:1/8
+K:D
+"A"~E3F "D"DEFA|d2fd gdfd|edBd A2Bd|"G"(3Bcd "A"AF GFED|
+~E3F "D"DEFA|d2fd gdfd|edBd A2Bd\
+|1 "A"(3Bcd AF "D"EFD2:|2 "A"(3Bcd "D"AF EFDg||
+|:"D"fd~d2 fdad|fddg "A"ecAg|"D"fd~d2 Adfd|"A"ceag "D"fd~d2|
+fgaf "G"gfec|"D"dBAF "G"G2FG|"D"~A2^GB ABde\
+|1 "A"faeg "D"fddg:|2 "A"faeg "D"fdAF|]
+
+X:16
+T:Farewell To Tchernobyl
+C:Michael Ferry  1986
+R:reel
+M:4/4
+L:1/8
+K:Dm
+"Dm"D2 DF ADFA|DFAF GFEC|"Am"A,3C  EA,CE|A,CEG AGEF|
+"Gm"D2 DF ADFA|DFAD E/F/G A=B|"C"c2 Ec FcAc|1"Am" fedc dcAF:|2"Am" fedc dcAc||
+|:"Dm"d2 fd gdfd|d2 fd gfec|"Bb"B3 f gdfd|"C"e2ef fece|
+"Gm"d2 fd gdfd|d2 fd gfeg|"Bb"gaag aggf|"C"efff edcA|
+"Dm"d^cdf gdfd|d2 fd gfef|"Bb"d3 f gdfd|"C"Acgc acgc|
+"Dm"d2 fd Adfd|"Bb"Bdfd Bdfd|"C"cege agfd|"Gm"gfdc "Am"dcAF|]
+
+X: 17
+T:Yunogo 
+C:Bill Quern 
+M:3/4
+R:Waltz
+L:1/8
+K:Gm
+"Gm"G3DGA|B2A2G2|"D"^F3 DFG|"D7"A6|\
+"Cm"c3Bcd|c2B2A2|"Gm"B3ABc|"D7"A4D2|
+"Gm"G3DGA|B2A2G2|"D"^F3 DFG|"D7"A6|\
+"Cm"c3BA2|"D"^F3DF2|"Gm"G3DB,2|G,6||
+"Cm"c3Bcd|e2d2c2|"Gm"g2d2B2|G4G2|\
+"D"^F3 DFG|"D7"A4^F2|"Gm"G3DGA|B4B2|
+"Cm"c3Bcd|e2d2c2|"Gm"d2B2G2|G6|\
+"D"^F3 DFG|A4BA|"Gm"G3DB,2|G,6|]

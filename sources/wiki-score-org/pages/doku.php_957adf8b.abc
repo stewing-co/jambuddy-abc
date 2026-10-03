@@ -1,0 +1,12 @@
+X:504
+T:N.7 Um pouco mais...
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 4 clef=bass name="Cello" sname="Vc."
+%%MIDI program 1 1
+%%staves [ 4 ]
+%----------- edit between the lines ------------
+[D,A,]2/4>[G,]/[D,A,]/ ([B,,F,] [A,,E,]2/4) | "_TBC" X \
+%-----------------------------------------------

@@ -1,0 +1,100 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+
+X:1
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:XI. Fyre and lightning.
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/4
+K:C
+T:Cantus
+N:Original clef, treble.
+d2 G g > g ^f g2 d d G g > g ^f g2 d2 z g \
+w: Fyre and light- ning from heaven fall, fyre and light- ning from heaven fall. And
+w:1
+g/ f/ e/ d/ e c c/ d/ e/ f/ g G2 d > c c2 B A2 "A"B2 \
+w:sweet - * _ _ ly en - * _ flame that hart with love a- right- full,
+w:2
+d2 G g > g ^f g2 d d G g > g ^f g2 d2 z g g/ f/ e/ d/ e c c/ d/ e/ f/ \
+w: Fyre and light- ning from heaven fall, fyre and light- ning from heaven fall, And sweet - * _ _ _ ly en - * _
+w:3
+  g      G2  d > c     c2   B   A2    "B"B     
+w:flame that hart with love a- right- full, 
+w:4
+G  d > e   f  d   A/ G/ A/ B/ c2 G \
+w:of Flo- ra my de - * _ _ light- full, 
+G B > c d d A/ G/ A/ B/ c2 \
+w:of Flo- ra my de - * _ _ light-
+   G2 z d f > g   a d     ^c d2 ^c  d     \
+w:ful of  Flo- ra my de-  light - * full, 
+w:5
+  d   c/   B/  B/ A/4 G/4 A2 B G d > e 
+w:So faire but yet so _ spight- ful, of Flo- ra 
+f d  A/ G/ A/ B/ \
+w: my de - * _ _ _
+
+  c2     G     G  B > c   d  d   A/ G/ A/ B/ c2 G2 z d f > g a d ^c d2 ^c d D G > E \
+w: light- full, of Flo- ra my de - * _ _ light- ful, of Flo- ra my de- light - * full, so faire but
+w:6
+^F G A2 HB4 |]
+w:yet so spight- full.
+w:7
+
+
+X:2 
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:XI. Fyre and lightning.
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/4
+K:C
+T:Tenor
+N:Original clef, treble.
+z4 d2 G g > g ^f g2 d d G g > g ^f g G \
+w: Fyre and light- ning from heaven fall, fyre and light- ning from heaven fall. 
+w:1
+z g   g/ f/ e/ d/ e  c  G/ A/ B/ c/ d     D    A > E     ^F G G ^F \
+w:And sweet - * _ _ ly en - * _   flame that hart with love a- right - 
+w:2
+"A"G4 z2 d2 G g > g ^f g2 d d G g > g ^f g G z g g/ f/ e/ d/ e c \
+w: full, Fyre and light- ning from heaven fall, fyre and light- ning from heaven fall, And sweet - * _ _ ly 
+w:3
+  G/ A/ B/ c/ d    D   A > E     ^F   G G ^F "B"G2 z G d > e f c/ d/ e/ d/ e/ f/ g2 d2 z D \
+w:en - * _ flame that hart with love a- right -  full, of Flo- ra my de - * _ _ _ light-  full, of
+w:4
+F > G A A E/ D/ E/ F/ G2 D d f > g a f e2 d B A/ G/ G > G ^F G2 z G \
+w:Flo- ra my de - * _ _  light-  ful of Flo- ra my de- light- full, So faire but yet so  spight- ful, of 
+w:5
+d > e f c/ d/ e/ d/ e/ f/ g2 d2 z D F > G A A E/ D/ E/ F/ G2 D d f > g a f e2 d d \
+w:Flo- ra my de - * _ _ _ light- full of Flo- ra my de - * _ _ light-  ful, of Flo- ra my de- light- full,  so 
+w:6
+B > c A G G ^F HG4 |]
+w:faire but yet so spight - full.
+w:7
+
+

@@ -1,0 +1,77 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+%abctab2ps format
+%
+%%titlefont Times-Roman 18
+T:Der Ratten schwanz
+T:Diskantes
+C:Glogauer Liederbuch, Number 113
+Z:ABC transcription by Leonard Williams, arckon@dejazzd.com
+M:C|
+L:1/1
+N:(1)The incipit in Das Erbe Deutscher Musik has the top line note values halved relative to the other lines.  
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on  second line
+K:D dor
+E3/2 D//C// B,B,CCG2A3/2 G//F// E2DG2^FG2zcBGABcBAG
+	EFGFF/ E/ E2DE4E2z2z3cc>BAGA>GF E/G/
+	F/E/ D>^C C/B,/D2z2AGcBedcBBA2^GAEFED2zA
+	G/E/ FEDGF E/D/C/B,/A,D2^CHD4|]
+%
+
+X:2
+%abctab2ps format
+%
+%%titlefont Times-Roman 18
+T:Der Ratten schwanz
+T:Contratenores
+C:Glogauer Liederbuch, Number 113
+Z:ABC transcription by Leonard Williams, arckon@dejazzd.com
+M:C|
+L:1/1
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -12
+N:Original clef, C on fourth line
+K:D dor -8va
+z4A3/2 G//F// EEF/G/A/B/ c2BGA2G2z2z4zGABcAGAA/ E/ GF2
+	E4zcc>BAGA2A>GFEF>EDCDFE2D4z2AGcBe2dcB2A2zE
+	F>ED2zA G/E/FEDGAFDE2HD4|]
+%
+
+X:3
+%abctab2ps format
+%
+%%titlefont Times-Roman 18
+T:Der Ratten schwanz
+T:Tenores
+C:Glogauer Liederbuch, Number 113
+Z:ABC transcription by Leonard Williams, arckon@dejazzd.com
+M:C|
+L:1/1
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -24
+N:Original clef, C on fourth line
+K:D dor bass
+a2ggf3/2 e//d//c2zfc2ged2e2zcdefdcefgcdedd/ c/ ga3/2 g//a//
+	b2c'>ba/g/ aa>gfedff>e d/f/ cd/e/f/g/ a/b/c'/b/afg>f
+	a2a>gc'baecgaggae2fcdca>gffe/c/ defcdcA
+	d3/2 c//_B//A2Ha4|]
+

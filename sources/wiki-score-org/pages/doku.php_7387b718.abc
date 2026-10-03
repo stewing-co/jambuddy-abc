@@ -1,0 +1,12 @@
+X:308
+T:Te Deum
+C:Giuseppe Totti (17__-1832)
+M:C
+L:1/4
+K:D
+V: 8 clef=bass name="Bassi" sname="B."
+%%MIDI program 1 42
+%%staves [ 8 ]
+%----- edit between the lines ----
+"_[fol.49]" [Q:"Allegro non tanto"] !f! D2 A,2 | F, D, z2 | \
+%---------------------------------

@@ -1,0 +1,28 @@
+X:1007
+T:N.10 Dueto [2nd Act]
+C:Fonseca, Eduardo da (1863-1938)
+M:3/4
+L:1/4
+K:D
+V: 7 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%------------------------------------------------------
+[Q:"Moderato"] \
+!f! "_NB: some ties are missing"{DFA}!>![DFAd]/z/ {DFA}([Dd]//[Ee]//[Ff]//[Gg]//) ([Aa]//[Gg]//[Ff]//[Ee]//) | \
+[Dd]/z/ {DFA}!>![Dd]/z/z || !p! [A,F]/z/ [A,F]/z//[A,F]// [A,G]/z//[A,E]// | \
+[A,F]/z//((3A/8B/8c/8 d//e//f//g//) a/z/ | \
+[GB,]/z/ [GB,]/-F/ [GB,]/z//D// | C/z/8(E,/8F,/8^G,/8 A,/)z/8(E,/8F,/8G,/8 A,/)z/ | \
+[FA,]-[FA,]/z//[FA,]// [FB,]/>[^DB,A]/ | [GEB,]-[GEB,]/z/ !>![_B,DE] | \
+[A,DF]/[A,DF]/ [A,DF] [CE]/z//[CE]// | D/z/8(A/8B/8c/8 d/4f/4a/4A/4) d/z/ || \
+[K:A] ([CE]/>A/ [EG]/[DF]/ [CE]/[B,D]/) | [A,C]/>[B,D]/ [CE]2| \
+([DF]/>[EG]/) [FA]/[EG]/[DF]/[DG]/ | z/(.e//.e//) (.[ca]/.[eb]/) .[ac']/z/ & [CA]2[CA]/z/ |\
+([CE]/>A/) [EG]/[DF]/ [CE]/[B,D]/ | [A,C]/>[B,D]/ [CE]>[CE] | \
+([DF]/[DFA]/) "_NB: ties to be fixed"[CEA]-[B,DG] | (.[A,CA]/.[A,CA]/) [A,A][A,A] || \
+[K:D] [A,F]/z/ [A,F]/>[A,F]/ [A,G]/>[A,E]/ | [A,F]/z//((3A/8B/8c/8 d//e//f//g//) a/z/ | \
+[GB,]/z/ ([GB,]/F/) [GB,]/>D/ | (C/[CE]/[DF]/[EG]/) ([GB]/[CA]/) | \
+[DF] [A,F]/>[A,F]/ [B,F]/>[B,^DA]/ | [GEB,][GEB,][_B,DE] | \
+[A,DF][A,DF] [CE] | D/z/8(A/8B/8c/8 d/4f/4a/4d/4 b//)(g//d//B//) | \
+(a//f//d//A//) (F//A//d//f//) !fermata![Aca] | \
+D/z// !f!((3A,/8B,/8C/8 D/)z/ z |] \
+%------------------------------------------------------

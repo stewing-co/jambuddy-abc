@@ -1,0 +1,58 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka DG (mz06428) ABACDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.146 (mz06428) orig. D,G
+T: Basel - Repertoire der 'Dorfmusik Binningen. S.140-201
+T:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+%%partsbox
+P:ABACDC
+R:Mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+[P:A] "D"A2dfa2 | "A7"b2g>ec2 | A2c>eg2 | "D"b2a>fd2 | A2dfa2 | "A7"b2g>ec2 | A2c>e b>a | "D".d2.d'2z2 || [K:G] 
+[P:B] |: "G"d>gf2e2 | B>ed4 | "D7"c>db2a2 | "G"B>da2g2 | d>gf2e2 | B>ed4 | "D7"c>d b>a e>f | "G"g2g2"_>Teil A"z2 :| 
+[P:C] "G"(B>e)d4 | ("D7"c>g)f4 |  (c>b)a2c2 | ("G"B>a)g2d2 | (B>e)d4 | ("D7"c>g)f4 | d>f .b2.a2 | "C".g2.g2"_Fine"z2 |] 
+[P:D] "Em"e>^d e2f2 | g>fe2B2 | "Am"e>f g2a2 | "B7"b>c' b2B2 | "Em"e>^d e2f2 | g>fe2B2 | "Am"e>f g2a2 |  "B7".b2.b2"_>Teil C"z2 || 
+% mz06428
+% Dez 9, 2016
+
+X:2
+T:Mazurka GC 7- (mz06428)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.146 (mz06428) orig. D,G
+S:Basel - Repertoire der 'Dorfmusik Binningen. S.140-201
+S:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"D2GBd2 | "D7"e2c>AF2 | D2F>Ac2 | "G"e2d>BG2 | D2GBd2 | "D7"e2c>AF2 | D2F>A e>d | "G".G2.g2z2 || [K:C] 
+|: "C"G>cB2A2 | E>AG4 | "G7"F>Ge2d2 | "C"E>Gd2c2 | G>cB2A2 | E>AG4 | "G7"F>G e>d A>B | "C"c2c2"_>Teil A"z2 :| 
+"C"(E>A)G4 | ("G7"F>c)B4 | (F>e)d2F2 | ("C"E>d)c2G2 | (E>A)G4 | ("G7"F>c)B4 | G>B .e2.d2 | "F".c2.c2"_Fine"z2 |] 
+"Am"A>^G A2B2 | c>BA2E2 | "Dm"A>B c2d2 | "E7"e>f e2E2 | "Am"A>^G A2B2 | c>BA2E2 | "Dm"A>B c2d2 | "E7".e2.e2"_>Teil C"z2 || 
+W:Parts: ABACDC
+% mz06428
+% Dez 9, 2016
+
+X:3
+T:Mazurka CF 2- (mz06428)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.146 (mz06428) orig. D,G
+S:Basel - Repertoire der 'Dorfmusik Binningen. S.140-201
+S:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"G2ceg2 | "G7"a2f>dB2 | G2B>df2 | "C"a2g>ec2 | G2ceg2 | "G7"a2f>dB2 | G2B>d a>g | "C".c2.c'2z2 || [K:F] 
+|: "F"c>fe2d2 | A>dc4 | "C7"B>ca2g2 | "F"A>cg2f2 | c>fe2d2 | A>dc4 | "C7"B>c a>g d>e | "F"f2f2"_>Teil A"z2 :| 
+"F"(A>d)c4 | ("C7"B>f)e4 | (B>a)g2B2 | ("F"A>g)f2c2 | (A>d)c4 | ("C7"B>f)e4 | c>e .a2.g2 | "Bb".f2.f2"_Fine"z2 |] 
+"Dm"d>^c d2e2 | f>ed2A2 | "Gm"d>e f2g2 | "A7"a>b a2A2 | "Dm"d>^c d2e2 | f>ed2A2 | "Gm"d>e f2g2 | "A7".a2.a2"_>Teil C"z2 || 
+W:Parts: ABACDC
+% mz06428
+% Dez 9, 2016

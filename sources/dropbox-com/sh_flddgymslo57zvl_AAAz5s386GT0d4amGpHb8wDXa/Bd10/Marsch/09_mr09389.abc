@@ -1,0 +1,51 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Marsch  FBb
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.215 (mr09389) orig. F,Bb
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"f2 A>c | dc ba | "C7".g2.c'2 | "F"f3A/c/ || "F"d>c cc | d>c cc | "C7"b>e ee | e3 B/c/ | d>c cc | 
+d>c cc | "F"a>f ff | f3 A/c/ | d>c cc | d>c cc | "C"g>e ee | ec' =ba | "G7"g2 =b>a | gf ed | 
+"C"cc/c/ eg | c'c =Bc |: "Gm/Bb"d3c | "C7"=Bc b>e | "F"f3c | Ac a>f | "C7"e3c | =Bc de |1 "F"f>e fg | 
+a3c :|2 "F"f2 a>g | ff fz |: [K:Bb] "Bb"Bc ^cd | fff2 | Bc ^cd | "F7"eee2 | AB =Bc | 
+aa a>c' | "Eb"gg g>b | "Bb"fff2 | Bc ^cd | fff2 | Bc ^cd | "F"ccc2 | c=B/c/ fa | d'c' ba | 
+"tr""C7"ag "tr"ag | "F7".f2 !>!f2 :| !>!"Bb"b2 !>!a2 | !>!g2 !>!f2 | "F7"g/f/e/c/A2 | g/f/e/c/A2 | b2a2 | g2f2 | "Bb"g/f/d/B/ F2 | 
+g/f/d/B/F2 | b2a2 | g2f2 | "Cm/Eb"a/g/e/c/ G2 | a/g/e/c/ G2 | "Bb"d^c df | "F"c=B cd | "Bb"B2b2 | b2z2 |] 
+% mr09389 (Tv337/TN 23)
+X:2
+T:Marsch  CF 5-
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c2 E>G | AG fe | "G7".d2.g2 | "C"c3E/2G/2 || "C"A>G GG | A>G GG | "G7"f>B BB | B3 F/2G/2 | A>G GG | 
+A>G GG | "C"e>c cc | c3 E/2G/2 | A>G GG | A>G GG | "G"d>B BB | Bg ^fe | "D7"d2 ^f>e | dc BA | 
+"G"GG/2G/2 Bd | gG ^FG |: "Dm/F"A3G | "G7"^FG f>B | "C"c3G | EG e>c | "G7"B3G | ^FG AB |1 "C"c>B cd | 
+e3G :|2 "C"c2 e>d | cc cz |: [K:F] "F"FG ^GA | ccc2 | FG ^GA | "C7"BBB2 | EF ^FG | 
+ee e>g | "Bb"dd d>f | "F"ccc2 | FG ^GA | ccc2 | FG ^GA | "C"GGG2 | G^F/2G/2 ce | ag fe | 
+"tr""G7"ed "tr"ed | "C7".c2 !>!c2 :| !>!"F"f2 !>!e2 | !>!d2 !>!c2 | "C7"d/2c/2B/2G/2E2 | d/2c/2B/2G/2E2 | f2e2 | d2c2 | "F"d/2c/2A/2F/2 C2 | 
+d/2c/2A/2F/2C2 | f2e2 | d2c2 | "Gm/Bb"e/2d/2B/2G/2 D2 | e/2d/2B/2G/2 D2 | "F"A^G Ac | "C"G^F GA | "F"F2f2 | f2z2 |] 
+% mr09389
+X:3
+T:Marsch  CF (5letras transposed)
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"c2 E>G | AG fe | "G7".d2.g2 | "C"c3E/2G/2 || "C"A>G GG | A>G GG | "G7"f>B BB | B3 F/2G/2 | A>G GG | 
+A>G GG | "C"e>c cc | c3 E/2G/2 | A>G GG | A>G GG | "G"d>B BB | Bg ^fe | "D7"d2 ^f>e | dc BA | 
+"G"GG/2G/2 Bd | gG ^FG |: "Dm/F"A3G | "G7"^FG f>B | "C"c3G | EG e>c | "G7"B3G | ^FG AB |1 "C"c>B cd | 
+e3G :|2 "C"c2 e>d | cc cz |: [K:F] "F"FG ^GA | ccc2 | FG ^GA | "C7"BBB2 | EF ^FG | 
+ee e>g | "Bb"dd d>f | "F"ccc2 | FG ^GA | ccc2 | FG ^GA | "C"GGG2 | G^F/2G/2 ce | ag fe | 
+"tr""G7"ed "tr"ed | "C7".c2 !>!c2 :| !>!"F"f2 !>!e2 | !>!d2 !>!c2 | "C7"d/2c/2B/2G/2E2 | d/2c/2B/2G/2E2 | f2e2 | d2c2 | "F"d/2c/2A/2F/2 C2 | 
+d/2c/2A/2F/2C2 | f2e2 | d2c2 | "Gm/Bb"e/2d/2B/2G/2 D2 | e/2d/2B/2G/2 D2 | "F"A^G Ac | "C"G^F GA | "F"F2f2 | f2z2 |] 
+% mr09389
+% Sept. 22, 2016

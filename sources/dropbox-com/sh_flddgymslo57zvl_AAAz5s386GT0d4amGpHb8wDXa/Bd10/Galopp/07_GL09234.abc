@@ -1,0 +1,129 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Galopp  CFBb  (ABAC)
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.136 (GL09234) orig. C,F,Bb
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+P:ABAC
+R:galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+c/c/ | "C"c2zc/c/ | c2zc/c/ |  ce ge | c2zc [P:A] |: [K:F] "F"=Bc f>g | a3a | ^ga d'>c' | 
+"C7"c'3b/b/ | ba gf | g3c | =Bc a>g |1 "F"ff fc :|2 "F"ff fz [P:B] |: [K:C] "G7"Bd Bd | "C"ce ce | 
+"G7"df df/f/ | "C"cg ec | "G7"Bd Bd/d/ | "C"ce c>e | "G7"df df/f/ | "C"cc' c'"_>Teil A"z :| [K:Bb] 
+[P:C] |: "Bb"f3d' | b>d gf | f3d' | b>d gf | "F7"a3g | f3e | "Bb"g3f | d3f/f/ | 
+f3d' | b>d gf | f3d' | b>d gf | "F7"a3g | f3a | "Bb"b"F7"a "Bb"b"F7"a | "Bb"b2z2 :| 
+W:Parts: ABAC
+% GL09234
+X:2
+T:Galopp  CFBb
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+c/c/ | "C"c2zc/c/ | c2zc/c/ |  ce ge | c2zc |: [K:F] "F"=Bc f>g | a3a | ^ga d'>c' | 
+"C7"c'3b/b/ | ba gf | g3c | =Bc a>g |1 "F"ff fc :|2 "F"ff fz |: [K:C] "G7"Bd Bd | "C"ce ce | 
+"G7"df df/f/ | "C"cg ec | "G7"Bd Bd/d/ | "C"ce c>e | "G7"df df/f/ | "C"cc' c'"_>Teil A"z :| [K:Bb] 
+|: "Bb"f3d' | b>d gf | f3d' | b>d gf | "F7"a3g | f3e | "Bb"g3f | d3f/f/ | 
+f3d' | b>d gf | f3d' | b>d gf | "F7"a3g | f3a | "Bb"b"F7"a "Bb"b"F7"a | "Bb"b2z2 :| 
+W:Parts: ABAC
+% GL09234
+X:3
+T:Galopp  GCF 5-
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+G/2G/2 | "G"G2zG/2G/2 | G2zG/2G/2 | GB dB | G2zG |: [K:C] "C"^FG c>d | e3e | ^de a>g | 
+"G7"g3f/2f/2 | fe dc | d3G | ^FG e>d |1 "C"cc cG :|2 "C"cc cz |: [K:G] "D7"FA FA | "G"GB GB | 
+"D7"Ac Ac/2c/2 | "G"Gd BG | "D7"FA FA/2A/2 | "G"GB G>B | "D7"Ac Ac/2c/2 | "G"Gg g"_>Teil A"z :| [K:F] 
+|: "F"c3a | f>A dc | c3a | f>A dc | "C7"e3d | c3B | "F"d3c | A3c/2c/2 | 
+c3a | f>A dc | c3a | f>A dc | "C7"e3d | c3e | "F"f"C7"e "F"f"C7"e | "F"f2z2 :| 
+W:Parts: ABAC
+% GL09234
+X:4
+T:Galopp  GCF 5- (parts)
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+G/2G/2 | "G"G2zG/2G/2 | G2zG/2G/2 | GB dB | G2zG |: [K:C] "C"^FG c>d | e3e | ^de a>g | \
+"G7"g3f/2f/2 |
+ fe dc | d3G | ^FG e>d |1 "C"cc cG :|2 "C"cc cz |: [K:G] "D7"FA FA | "G"GB GB | \
+"D7"Ac Ac/2c/2 |
+ "G"Gd BG | "D7"FA FA/2A/2 | "G"GB G>B | "D7"Ac Ac/2c/2 | "G"Gg g"_>Teil A"z :: [K:C] \
+"C"^FG c>d | e3e | ^de a>g | \
+"G7"g3f/2f/2 |
+ fe dc | d3G | ^FG e>d |1 "C"cc cG :|2 "C"cc cz |: [K:F] \
+ "F"c3a | f>A dc | c3a | f>A dc |
+ "C7"e3d | c3B | "F"d3c | A3c/2c/2 | \
+c3a | f>A dc | c3a | f>A dc | "C7"e3d | c3e | "F"f"C7"e "F"f"C7"e | "F"f2z2 :| 
+W:(Parts: ABAC)
+% GL09234
+X:5
+T:Galopp  GCF 5- (parts) (5letras transposed)
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+G/2G/2 | "G"G2zG/2G/2 | G2zG/2G/2 | GB dB | G2zG |: [K:C] "C"^FG c>d | e3e | ^de a>g | \
+"G7"g3f/2f/2 |
+ fe dc | d3G | ^FG e>d |1 "C"cc cG :|2 "C"cc cz |: [K:G] "D7"FA FA | "G"GB GB | \
+"D7"Ac Ac/2c/2 |
+ "G"Gd BG | "D7"FA FA/2A/2 | "G"GB G>B | "D7"Ac Ac/2c/2 | "G"Gg g"_>Teil A"z :: [K:C] \
+"C"^FG c>d | e3e | ^de a>g | \
+"G7"g3f/2f/2 |
+ fe dc | d3G | ^FG e>d |1 "C"cc cG :|2 "C"cc cz |: [K:F] \
+ "F"c3a | f>A dc | c3a | f>A dc |
+ "C7"e3d | c3B | "F"d3c | A3c/2c/2 | \
+c3a | f>A dc | c3a | f>A dc | "C7"e3d | c3e | "F"f"C7"e "F"f"C7"e | "F"f2z2 :| 
+W:(Parts: ABAC)
+% GL09234
+X:6
+T:Galopp DG&C (tinwhistle in D)
+T:GL09234 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:galopp
+M:2/4
+L:1/8
+K:D transpose=3%%MIDI gchordon
+D/2D/2 | "D"D2zD/2D/2 | D2zD/2D/2 | DF AF | D2zD |: [K:G] "G"^CD G>A | B3B | ^AB e>d | \
+"D7"d3c/2c/2 |
+cB AG | A3D | ^CD B>A |1 "G"GG GD :|2 "G"GG Gz |: [K:D] "A7"CE CE | "D"DF DF | \
+"A7"EG EG/2G/2 |
+"D"DA FD | "A7"CE CE/2E/2 | "D"DF D>F | "A7"EG EG/2G/2 | "D"Dd d"_>Teil A"z :: [K:G] \
+"G"^CD G>A | B3B | ^AB e>d | \
+"D7"d3c/2c/2 |
+cB AG | A3D | ^CD B>A |1 "G"GG GD :|2 "G"GG Gz |: [K:C] \
+"C"G3e | c>E AG | G3e | c>E AG |
+"G7"B3A | G3F | "C"A3G | E3G/2G/2 | \
+G3e | c>E AG | G3e | c>E AG | "G7"B3A | G3B | "C"c"G7"B "C"c"G7"B | "C"c2z2 :| 
+W:(Parts: ABAC)
+X:7
+T:Galopp DG&C (tinwhistle in D) solo
+T:GL09234 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:galopp
+M:2/4
+L:1/8
+K:D transpose=12
+D/2D/2 | D2zD/2D/2 | D2zD/2D/2 | DF AF | D2zD |: [K:G] "_=C#"AD G>A | B3B | ^AB e>d | \
+d3"_c"c/2c/2 |
+"_c"cB AG | A3D | "_=C#"^CD B>A |1 GG GD :|2 GG Gz |: [K:D] "_=C#"CE "_=C#"CE | DF DF | \
+EG EG/2G/2 |
+DA FD | "_=C#"CE "_=C#"CE/2E/2 | DF D>F | EG EG/2G/2 | Dd d"_>Teil A"z :: [K:G] \
+"_=C#"^CD G>A | B3B | ^AB e>d | \
+d3"_c"c/2c/2 |
+"_c"cB AG | A3D | "_=C#"^CD B>A |1 GG GD :|2 GG Gz |: [K:C] \
+G3e | "_c"c>E AG | G3e | "_c"c>E AG |
+B3A | G3"_f"F | A3G | E3G/2G/2 | \
+G3e | "_c"c>E AG | G3e | "_c"c>E AG | B3A | G3B | "_c"cB "_c"cB | c2z2 :|
+W:(Parts: ABAC)
+% Aug 22, 2016

@@ -1,0 +1,168 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XVIII. It was a time when silly Bees could speake,
+T:Cantus.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+N:Original clef, C on first line
+K:G dor
+A d2 ^c d2 z A | B/ c/ d c B A4 |
+w: 1.~It was a time when sil- * ly Bees could speake, 
+w: 2.~Then thus I buzd, when time * no sap would give,
+w: 3.~My liege, Gods graunt thy time * may ne- ver end,
+z B A G d3 B | c d _e > e d4 | 
+w: And in that time I was a sil- lie Bee,
+w: Why should this bless- ed time to me be drie,
+w: And yet vouch- safe to heare my plaint of Time,
+A c2 G A2 z  G B A A > A A4 |
+w: Who fed on Time un- til my heart gan break,
+w: Sith by this Time the la- zie drone doth live,
+w: Which fruit- lesse Flies have found to have a friend,
+z D F E > D G2 F | B A G G F4 |
+w: Yet ne- ver * found the time would fa- vour mee.
+w: The waspe, the * worme, the gnat, the but- ter- flie,
+w: And I cast * downe when A- ro- mies do clime.
+|: d2 c B A2 z G | A > B c3 B A2 | 
+w: Of all the swarme I one- ly did not thrive, 
+w: Mat- ed with griefe, I kneel- ed on my knees,
+w: The king re- plied but thus, Peace pee- vish Bee,
+z/ A/  B > G c > A d > G B A A G2 :|
+w: Yet brought I waxe and ho- * ney to the hive.
+w: And thus com- plaind un- to * the king of Bees.
+w: Th'art bound to serve the time, * the time not thee.
+
+X:2
+T:XVIII. It was a time when silly Bees could speake,
+T:Altus.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+N:Original clef, C on second line
+K:G dor
+F2 B A/ G/ F D D D G F F D D4 
+w: 1.~It was a _ time, a time, when sil- ly Bees could speake, 
+w: 2.~Then thus I _ buzd, I buzd, when time no sap would give,
+w: 3.~My liege, Gods _ graunt, Gods graunt, thy time may ne- ver end,
+D > E F _E D B > A G > G F G A B4
+w: And _ in that time I was, I was a sil- lie Bee,
+w: Why _ should this bless- ed time, ed time to me be drie,
+w: And _ yet vouch- safe to heare, to heare my plaint of Time,
+F A/ A/ G2 F2 E > F G F E > E ^F4
+w: Who fed on Time un- til my heart, my heart gan break,
+w: Sith by this Time the la- zie drone, zie drone doth live,
+w: Which fruit- lesse Flies have found to have, to have a friend,
+F > G A/ B/ c B3 A G/ F/ F2 E F4
+w: Yet ne- * * ver found the time would fa- vour mee.
+w: The waspe, * * the worme, the gnat, the but- ter- flie,
+w: And I * * cast downe when A- ro- mies do clime.
+|:F2 F G D2 D2 F C/ D/ _E D/ C/ D D D2 
+w: Of all the swarme I one- ly, I one- ly * did not thrive, 
+w: Mat- ed with griefe, I kneel- ed, I kneel- ed * on my knees,
+w: The king re- plied but thus, Peace * pee- vish, *  pee-  vish Bee,
+D2 B, E C  F D/ D/ G > G ^F/ F/ G2 :|
+w: Yet brought I waxe and ho- ny, ho- ny to the hive.
+w: And thus com- plaind un- to the king, the king of Bees.
+w: Th'art bound to serve the time, the time, the time not thee.
+
+X:3
+T:XVIII. It was a time when silly Bees could speake,
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+%%MIDI transpose -12
+N:Original clef, C on third line
+K:G dor -8va
+d f e2 d > c B A G B A G ^F4 
+w: 1.~It was a time, a time when sil- ly Bees could speake, 
+w: 2.~Then thus I buzd, I buzd, when time no sap would give,
+w: 3.~My liege, Gods graunt, Gods graunt thy time may ne- ver end,
+B > c d B f2 B2 e/ e/ B > G c F4
+w: And _ in that time I was a sil- * lie Bee,
+w: Why _ should this bless- ed time to me * be drie,
+w: And _ yet vouch- safe to heare my plaint * of Time,
+z F G c c2 c2 d > d d ^c d4
+w: Who fed on Time un- til my heart gan break,
+w: Sith by this Time the la- zie drone doth live,
+w: Which fruit- lesse Flies have found to have a friend,
+d2 c A B G d d d c  c > B A4
+w: Yet ne- ver found the time, the time would fa- vour mee.
+w: The waspe, the worme, the gnat, the gnat, the but- ter- flie,
+w: And I cast downe, cast downe when A- ro- mies do clime.
+|:z B c d d A B > B c > F G A G G ^F2
+w: Of all the swarme, the swarme I one- ly, one- ly did not thrive, 
+w: Mat- ed with griefe, with griefe, I kneel- ed, kneel- ed on my knees,
+w: The king re- plied, re- plied but thus, Peace pee- vish, pee- vish Bee,
+z z/ F/ G > G A > A B/c/ d > d d/ d/ d2 :|
+w: Yet brought I waxe and ho- * * ney to the hive.
+w: And thus com- plaind un- to * * the king of Bees.
+w: Th'art bound to serve the time, * * the time not thee.
+
+X:4
+T:XVIII. It was a time when silly Bees could speake,
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+%%MIDI transpose -24
+N:(1) The bass part is written with two flats in the key signature, where the others have only 1.
+K:G min bass
+d2 g a d g g f e B f g d4
+w: 1.~It was a time, a time when sil- ly Bees could speake, 
+w: 2.~Then thus I buzd, I buzd, when time no sap would give,
+w: 3.~My liege, Gods graunt, Gods graunt thy time may ne- ver end,
+g2 d e B2 e3 d/ d/ c c B4 
+w: And in that time I was a sil- lie Bee,
+w: Why should this bless- ed time to me be drie,
+w: And yet vouch- safe to heare my plaint of Time,
+f2 =e e f2 c2 B/ c/ d A A d4
+w: Who fed on Time un- til * my heart gan break,
+w: Sith by this Time the la- * zie drone doth live,
+w: Which fruit- lesse Flies have found * to have a friend,
+B2 A > A G > A B/ c/ d B F c c F4 
+w: Yet ne- ver found * * * the time would fa- vour mee.
+w: The waspe, the worme, * * * the gnat, the but- ter- flie,
+w: And I cast downe * * * when A- ro- mies do clime.
+|:b2 a g g ^f g > g f =e/ d/ c B/ A/ B G d2
+w: Of all the swarme, the swarme I one- ly, I one- ly * did not thrive, 
+w: Mat- ed with griefe, with griefe, I kneel- ed, I kneel- ed * on my knees,
+w: The king re- plied,  re- plied but thus, Peace * pee- vish, * pee- vish Bee,
+d2 e > c "(2)"f > d g > G d d G2 :|
+N:(2) The facsimile has dotted quarter quarter here.
+w: Yet brought I waxe and ho- ney to the hive.
+w: And thus com- plaind un- to the king of Bees.
+w: Th'art bound to serve the time, the time not thee.

@@ -1,0 +1,150 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Die lustige Witwe (Walzer)  FBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.216 (wz00845) orig. F,Bb-Dur
+T:L\"otschental. S.214-233. Repertoire von Xander Murmann, Weissenried, 1874-1948
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+c |: "F"c2A | c2d | (c3 | c)zc | c2A | c2f | "C7"(e3 | e)gf | (!>!e2d) | 
+(!>!e2d) | B3 | zed | !>!d2c | !>!d2c |1 "F"A3 | zAB :|2 ("F"F3 | F)=B/c/ B/c/ || 
+!>!"C7"e3 | z=B/c/ B/c/ | !>!"F"f3 | z=B/c/ B/c/ | !>!"Gm"g3 | "C7"za>g | "F"gfc | z=B/c/ B/c/ | 
+!>!"C7"e3 | z=B/c/ B/c/ | !>!"F"f3 | zf/e/ f/e/ | "C7"cc/=B/ c/d/ | ceg | "F"f>ff | fzz | [K:Bb] 
+|: "Bb".d!>!d>d | .d.c.B | "F7"(BAc) | e3 | .e!>!e>e | .e.d.c | "Bb"(cBd) | f3 | .f!>!f>f | 
+fed | "Eb".g!>!g>g | gfe | "Bb"ded | "F7"c!>!d>c | "Bb"B>BB |1 Bzz :|2 Bzz |]   
+X:2
+T:Die lustige Witwe (Walzer)  CF 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G |: "C"G2E | G2A | (G3 | G)zG | G2E | G2c | "G7"(B3 | B)dc | (!>!B2A) | \
+(!>!B2A) | F3 |
+ zBA | !>!A2G | !>!A2G |1 "C"E3 | zEF :|2 ("C"C3 | C)^F/2G/2 F/2G/2 |] \
+!>!"G7"B3 | z^F/2G/2 F/2G/2 | !>!"C"c3 |
+ z^F/2G/2 F/2G/2 | !>!"Dm"d3 | "G7"ze>d | "C"dcG | z^F/2G/2 F/2G/2 |   \
+!>!"G7"B3 | z^F/2G/2 F/2G/2 | !>!"C"c3 | zc/2B/2 c/2B/2 |
+ "G7"GG/2^F/2 G/2A/2 | GBd | "C"c>cc | czz  \
+|: [K:F]"F".A!>!A>A | .A.G.F | "C7"(FEG) | B3 | .B!>!B>B |
+ .B.A.G | "F"(GFA) | c3 | .c!>!c>c | \
+cBA | "Bb".d!>!d>d | dcB | "F"ABA | "C7"G!>!A>G | "F"F>FF | Fzz :|
+% wz00845
+X:3
+T:Die lustige Witwe (Walzer)  GC 2+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+d |: "G"d2B | d2e | (d3 | d)zd | d2B | d2g | "D7"(f3 | f)ag | (!>!f2e) | \
+(!>!f2e) | c3 |
+zfe | !>!e2d | !>!e2d |1 "G"B3 | zBc :|2 ("G"G3 | G)^c/2d/2 c/2d/2 |] \
+!>!"D7"f3 | z^c/2d/2 c/2d/2 | !>!"G"g3 |
+z^c/2d/2 c/2d/2 | !>!"Am"a3 | "D7"zb>a | "G"agd | z^c/2d/2 c/2d/2 | \
+!>!"D7"f3 | z^c/2d/2 c/2d/2 | !>!"G"g3 | zg/2f/2 g/2f/2 |
+"D7"dd/2^c/2 d/2e/2 | dfa | "G"g>gg | gzz \
+|: [K:C]"C".e!>!e>e | .e.d.c | "G7"(cBd) | f3 | .f!>!f>f |
+.f.e.d | "C"(dce) | g3 | .g!>!g>g | \
+gfe | "F".a!>!a>a | agf | "C"efe | "G7"d!>!e>d | "C"c>cc | czz :|
+% wz00845
+X:4
+T:Die lustige Witwe (Walzer)  GC 10-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+D |: "G"D2B, | D2E | (D3 | D)zD | D2B, | D2G | "D7"(F3 | F)AG | (!>!F2E) | \
+(!>!F2E) | C3 |
+zFE | !>!E2D | !>!E2D |1 "G"B,3 | zB,C :|2 ("G"G,3 | G,)^C/2D/2 C/2D/2 |] \
+!>!"D7"F3 | z^C/2D/2 C/2D/2 | !>!"G"G3 |
+z^C/2D/2 C/2D/2 | !>!"Am"A3 | "D7"zB>A | "G"AGD | z^C/2D/2 C/2D/2 | \
+!>!"D7"F3 | z^C/2D/2 C/2D/2 | !>!"G"G3 | zG/2F/2 G/2F/2 |
+"D7"DD/2^C/2 D/2E/2 | DFA | "G"G>GG | Gzz \
+|: [K:C]"C".E!>!E>E | .E.D.C | "G7"(CB,D) | F3 | .F!>!F>F |
+.F.E.D | "C"(DCE) | G3 | .G!>!G>G | \
+GFE | "F".A!>!A>A | AGF | "C"EFE | "G7"D!>!E>D | "C"C>CC | Czz :|
+% wz00845
+X:5
+T:Die lustige Witwe (Walzer)  CF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+G |: "C"G2E | G2A | (G3 | G)zG | G2E | G2c | "G7"(B3 | B)dc | (!>!B2A) | \
+(!>!B2A) | F3 |
+ zBA | !>!A2G | !>!A2G |1 "C"E3 | zEF :|2 ("C"C3 | C)^F/2G/2 F/2G/2 |] \
+!>!"G7"B3 | z^F/2G/2 F/2G/2 | !>!"C"c3 |
+ z^F/2G/2 F/2G/2 | !>!"Dm"d3 | "G7"ze>d | "C"dcG | z^F/2G/2 F/2G/2 |   \
+!>!"G7"B3 | z^F/2G/2 F/2G/2 | !>!"C"c3 | zc/2B/2 c/2B/2 |
+ "G7"GG/2^F/2 G/2A/2 | GBd | "C"c>cc | czz  \
+|: [K:F]"F".A!>!A>A | .A.G.F | "C7"(FEG) | B3 | .B!>!B>B |
+ .B.A.G | "F"(GFA) | c3 | .c!>!c>c | \
+cBA | "Bb".d!>!d>d | dcB | "F"ABA | "C7"G!>!A>G | "F"F>FF | Fzz :|
+% wz00845
+X:6
+T:Die lustige Witwe (Walzer)  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+d |: "G"d2B | d2e | (d3 | d)zd | d2B | d2g | "D7"(f3 | f)ag | (!>!f2e) | \
+(!>!f2e) | c3 |
+zfe | !>!e2d | !>!e2d |1 "G"B3 | zBc :|2 ("G"G3 | G)^c/2d/2 c/2d/2 |] \
+!>!"D7"f3 | z^c/2d/2 c/2d/2 | !>!"G"g3 |
+z^c/2d/2 c/2d/2 | !>!"Am"a3 | "D7"zb>a | "G"agd | z^c/2d/2 c/2d/2 | \
+!>!"D7"f3 | z^c/2d/2 c/2d/2 | !>!"G"g3 | zg/2f/2 g/2f/2 |
+"D7"dd/2^c/2 d/2e/2 | dfa | "G"g>gg | gzz \
+|: [K:C]"C".e!>!e>e | .e.d.c | "G7"(cBd) | f3 | .f!>!f>f |
+.f.e.d | "C"(dce) | g3 | .g!>!g>g | \
+gfe | "F".a!>!a>a | agf | "C"efe | "G7"d!>!e>d | "C"c>cc | czz :|
+% wz00845
+X:7
+T:Die lustige Witwe (Walzer) D&G (tinwhistle in D)
+T:wz00845 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+A |: "D"A2F | A2B | (A3 | A)zA | A2F | A2d | "A7"(c3 | c)ed | (!>!c2B) | \
+(!>!c2B) | G3 |
+zcB | !>!B2A | !>!B2A |1 "D"F3 | zFG :|2 ("D"D3 | D)^G/2A/2 G/2A/2 |] \
+!>!"A7"c3 | z^G/2A/2 G/2A/2 | !>!"D"d3 |
+z^G/2A/2 G/2A/2 | !>!"Em"e3 | "A7"zf>e | "D"edA | z^G/2A/2 G/2A/2 | \
+!>!"A7"c3 | z^G/2A/2 G/2A/2 | !>!"D"d3 | zd/2c/2 d/2c/2 |
+"A7"AA/2^G/2 A/2B/2 | Ace | "D"d>dd | dzz \
+|: [K:G]"G".B!>!B>B | .B.A.G | "D7"(GFA) | c3 | .c!>!c>c |
+.c.B.A | "G"(AGB) | d3 | .d!>!d>d | \
+dcB | "C".e!>!e>e | edc | "G"BcB | "D7"A!>!B>A | "G"G>GG | Gzz :|
+X:8
+T:Die lustige Witwe (Walzer) D&G (tinwhistle in D) solo
+T:wz00845 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+A |: A2F | A2B | (A3 | A)zA | A2F | A2d | (c3 | c)ed | (!>!c2B) | \
+(!>!c2B) | G3 |
+zcB | !>!B2A | !>!B2A |1 F3 | zFG :|2 (D3 | D)^G/2A/2 G/2A/2 |] \
+!>!c3 | z^G/2A/2 G/2A/2 | !>!d3 |
+z^G/2A/2 G/2A/2 | !>!e3 | zf>e | edA | z^G/2A/2 G/2A/2 | \
+!>!c3 | z^G/2A/2 G/2A/2 | !>!d3 | zd/2c/2 d/2c/2 |
+AA/2^G/2 A/2B/2 | Ace | d>dd | dzz \
+|: [K:G].B!>!B>B | .B.A.G | (GFA) | "_c"c3 | .c!>!c>c |
+"_c".c.B.A | (AGB) | d3 | .d!>!d>d | \
+d"_c"cB | .e!>!e>e | ed"_c"c | B"_c"cB | A!>!B>A | G>GG | Gzz :|
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 26, 2016

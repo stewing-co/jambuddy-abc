@@ -1,0 +1,30 @@
+X:201
+T:O Salutaris
+C:Giuseppe Totti (17__-1832)
+M:3/4
+L:1/4
+K:Eb
+V: 1 clef=bass name="Corno in Elafa [I]" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 1 )]
+%----- edit between the lines ----
+[Q:"Largo com molto"]
+X6 | z z/ !f! E,/G,/B,/| G, z/ !p!F,/F,/F,/ | !f!G, z/  !p!F,/F,/F,/ | !f!G, z z |
+B,> G,G,/G,/|F,> F,F,/F,/| G, A,/A,/G,/G,/| !f!F,F,F,| F,F,F, | F,F,F,|
+F,F,F, | F,zz | X3 | F,F,F, |
+F,F,F, | F,3 | F,F,z | X3 |
+X4 | !f!F,zz | F,zz |
+F, z z | X2 | !p! "_  cresc" G,3  | !f!G,!p!G,2 | !f!G,!p!G,2 |
+!f!G,G,G, | G,zz | X | !f!G,G,G, | G,G,z | G,G,G, |
+G,G,z | G,3 | G,3 | G,3 | G,!p!.G,.G, | .G,z!fermata!z|
+!f!E,z/E,/E,/E,/ | F,z/F,/F,/F,/ | G,F,G, | E,zz | X | X | X | X |
+X | X | zG,G, | G,G,G, | G,G,z | X | X | G,G,G, |
+G,G,G, | G,G,G, | G,G,G, | G,G,G, | F,zz | F,zz | F,zz | X |
+X | X | X | X | zG,G, | G,3 | G,3 | G,3 |
+G,zz | X | X | X | X | X | zG,G, | G,zz |
+X | zF,F, | G,G,z | G,G,z | G,G,z | G,zz | X | X |
+X | X | G,G,z | G,G,z | G,G,z | X | X | X |
+X | X | zz/!f!E,/E,/E,/ | (F,/E,/) E,/E,/E,/E,/ | (F,/E,/) E,/F,/G,/A,/ | B,2G, | G,2F, | E,z/!f!E,/E,/E,/ |
+(F,/E,/) E,/E,/E,/E,/ | (F,/E,/) E,/F,/G,/A,/ | !p!B,2G, | G,2F, | E,E,E, | E,3 | E,3 | E,3 |
+E,(G,E,) | B,,B,,B,, | G,,(E,,B,,) | G,,G,,G,, | E,,zG,, | G,,zz |]
+%---------------------------------

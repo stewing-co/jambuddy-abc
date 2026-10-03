@@ -1,0 +1,61 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Züribieter Polka  CF (pk06805) 
+T:Hanny Christen. Bd.V  Basel II, Jura. S.11  (pk06805) orig. C,F
+T: Basel II. Tänze aus Augst. S.6-42.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"(e/g/)g g>e | ("G7"ed) (d/f/)f | (f/a/)a a>f | ("C"ag) (g/f/)e | (e/g/)g g>e | ("G7"ed) (d/f/)f | f/a/a a/g/f/g/ | "C"ee ez || [L:1/16] 
+{/f}"C"(ed).e.f (gf).e.g | "G7"f2fe d2d2 | (fe).f.a (gf).e.d | "C"c2cc e2e2 | (ed).e.f (gf).e.g | "G7"f2fe d2g2 | b3a (gf).e.d  | "C"c2c'2 c'2 z2 || [L:1/8] [K:F]
+"F"c>f a>f | "C7"fe e/f/g | c>g b>g | ("F"gf) (a/g/)f | c>f a>f | ("C7"fe) (e/f/)g | (g/b/)b b/a/(g/e/) | "F"ff fz || 
+"F"f>a a/g/f/a/ | a2za | a>a "D7"b>a | ("Gm"a2.g2) | gg/g/ gg | g3f | "C7"e/g/g c/e/e | "F"dc c/a/f | 
+f>a a/g/f/a/ | a2za | c'>b a/g/f/a/ | ("Gm"a2.g2) | g/b/b "C7"b/a/g/f/ | ("F"g2.f2) | "C7"e/g/g c/e/e | "F"ff fz |] 
+W:
+W:Anmerkung H.C.: Titterten, Wynige 19, Höfler Musig, Oberdorf, Eptingen/Böckten, Ziefen
+% pk06805
+% Nov 30, 2017
+
+X:2
+T:Züribieter Polka  GC 5- (pk06805) 
+S:Hanny Christen. Bd.V  Basel II, Jura. S.11  (pk06805) orig. C,F
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"(B/2d/2)d d>B | ("D7"BA) (A/2c/2)c | (c/2e/2)e e>c | ("G"ed) (d/2c/2)B | (B/2d/2)d d>B | ("D7"BA) (A/2c/2)c | c/2e/2e e/2d/2c/2d/2 | "G"BB Bz || [L:1/16] 
+{/c}"G"(BA).B.c (dc).B.d | "D7"c2cB A2A2 | (cB).c.e (dc).B.A | "G"G2GG B2B2 | (BA).B.c (dc).B.d | "D7"c2cB A2d2 | f3e (dc).B.A | "G"G2g2 g2 z2 || [L:1/8] [K:C]
+"C"G>c e>c | "G7"cB B/2c/2d | G>d f>d | ("C"dc) (e/2d/2)c | G>c e>c | ("G7"cB) (B/2c/2)d | (d/2f/2)f f/2e/2(d/2B/2) | "C"cc cz || 
+"C"c>e e/2d/2c/2e/2 | e2ze | e>e "A7"f>e | ("Dm"e2.d2) | dd/2d/2 dd | d3c | "G7"B/2d/2d G/2B/2B | "C"AG G/2e/2c | 
+c>e e/2d/2c/2e/2 | e2ze | g>f e/2d/2c/2e/2 | ("Dm"e2.d2) | d/2f/2f "G7"f/2e/2d/2c/2 | ("C"d2.c2) | "G7"B/2d/2d G/2B/2B | "C"cc cz |] 
+%W:Anmerkung H.C.: Titterten, Wynige 19, Höfler Musig, Oberdorf, Eptingen/Böckten, Ziefen
+% pk06805
+% Nov 30, 2017
+
+X:3
+T:Züribieter Polka  DG 10- (pk06805) tinwhistle in D
+S:Hanny Christen. Bd.V  Basel II, Jura. S.11  (pk06805) orig. C,F
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Polka
+M:2/4
+L:1/8
+K:D transpose=12 %%MIDI gchordon
+"D"(F/2A/2)A A>F | ("A7"FE) (E/2G/2)G | (G/2B/2)B B>G | ("D"BA) (A/2G/2)F | (F/2A/2)A A>F | ("A7"FE) (E/2G/2)G | G/2B/2B B/2A/2G/2A/2 | "D"FF Fz || [L:1/16] 
+{/G}"D"(FE).F.G (AG).F.A | "A7"G2GF E2E2 | (GF).G.B (AG).F.E | "D"D2DD F2F2 | (FE).F.G (AG).F.A | "A7"G2GF E2A2 | c3B (AG).F.E | "D"D2d2 d2 z2 || [L:1/8] [K:G]
+"G"D>G B>G | "D7"GF F/2G/2A | D>A c>A | ("G"AG) (B/2A/2)G | D>G B>G | ("D7"GF) (F/2G/2)A | (A/2c/2)c c/2B/2(A/2F/2) | "G"GG Gz || 
+"G"G>B B/2A/2G/2B/2 | B2zB | B>B "E7"c>B | ("Am"B2.A2) | AA/2A/2 AA | A3G | "D7"F/2A/2A D/2F/2F | "G"ED D/2B/2G | 
+G>B B/2A/2G/2B/2 | B2zB | d>c B/2A/2G/2B/2 | ("Am"B2.A2) | A/2c/2c "D7"c/2B/2A/2G/2 | ("G"A2.G2) | "D7"F/2A/2A D/2F/2F | "G"GG Gz |] 
+%W:Anmerkung H.C.: Titterten, Wynige 19, Höfler Musig, Oberdorf, Eptingen/Böckten, Ziefen
+% pk06805
+% Nov 30, 2017

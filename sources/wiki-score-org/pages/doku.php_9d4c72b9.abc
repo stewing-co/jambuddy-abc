@@ -1,0 +1,10 @@
+X:706
+T:N.10 Moderado
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:D
+V: 6 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 6 }]
+[K:bass] z/ [F,//A,//D//][F,//A,//D//] [F,/A,/D/] z/ | Z | z/ [G,//A,//B,//C//][G,//A,//B,//C/] [G,/A,/B,/C/] z/ | Z | z/ [F,//A,//D//][F,//A,//D//] [F,/A,/D/] z/ | z/ [G,//A,//B,//C//][G,//A,//B,//C//] [G,/A,/B,/C/] z/ | [F,/A,/D/] z/ z | Z [K:treble] | z z/ [f//a//d'//][^e//^g//c'//] | [f/a/d'/][d/f/a/] [_B/c/e/g/][A//f//][G//e//] | [Fd] z | Z | Z |[M:3/4] Z | [M:2/4] Z | Z | Z | Z | Z | Z | Z | !fermata! Z ||

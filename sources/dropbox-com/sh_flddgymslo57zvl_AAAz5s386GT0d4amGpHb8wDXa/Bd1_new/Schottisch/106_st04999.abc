@@ -1,0 +1,45 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Kreuzfidel (Schottisch) CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.310 (st04999) orig. C,G,F-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+gg |: "C"g2e2 e2gg | "G7"g2f2 f2gg | g2g2 a2b2 | "C"d'2c'2 c'2gg | g2e2 e2gg | "Dm/F"a2d2 d2aa | "G7"a2g2 bafd |1 
+"C"c2c2 c2gg :|2 "C"c2c2 c2z2 |: [K:G] "D7"defg a2c'2 | "G"b4z2gb | "D7"a4z2fa | "G"g4 gage | "D7"defg a2c'2 | 
+"G"b4z2gb | "D7"a4 z2fa |1 "G"g2g2 g2z2 :|2 "G"g2g2 g2g"_>Teil A"g |: [K:F] "F"c2A2 c2A2 | c6dc | "C7"B2B2 B2cB | 
+"F"A2cc c2c2 | c2A2 c2A2 | .c4"Bb"!>!f4 |1 "C7"e3d c2B2 | "F".A4!>!c4 :|2 "C7"e2c'c' c'bag | "F"f2f2 f2z2 |] 
+
+X:2
+T: Kreuzfidel (Schottisch) CGF chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+gg [P:A] |: "C"g2e2 e2gg | "G7"g2f2 f2gg | g2g2 a2b2 | "C"d'2c'2 c'2gg | g2e2 e2gg | "Dm/F"a2d2 d2aa | "G7"a2g2 bafd |1 
+"C"c2c2 c2gg :|2 "C"c2c2 c2z2 |: [P:B] [K:G] "D7"defg a2c'2 | "G"b4z2gb | "D7"a4z2fa | "G"g4 gage | "D7"defg a2c'2 | 
+"G"b4z2gb | "D7"a4 z2fa |1 "G"g2g2 g2z2 :|2 "G"g2g2 g2g"_>Teil A"g |: [P:C] [K:F] "F"c2A2 c2A2 | c6dc | "C7"B2B2 B2cB | 
+"F"A2cc c2c2 | c2A2 c2A2 | .c4"Bb"!>!f4 |1 "C7"e3d c2B2 | "F".A4!>!c4 :|2 "C7"e2c'c' c'bag | "F"f2f2 f2z2 |] 
+
+X:3
+T:Kreuzfidel (Schottisch) EbBbAb (5letras) cf. CGF
+L:1/16
+K:Ebmaj%%MIDI gchordon
+bb |: "Eb"b2g2 g2bb | "Bb7"b2a2 a2bb | b2b2 c'2d'2 | "Eb"f'2e'2 e'2bb | b2g2 g2bb | "Fm/Ab"c'2f2 f2c'c' | "Bb7"c'2b2 d'c'af |1 
+"Eb"e2e2 e2bb :|2 "Eb"e2e2 e2z2 |: [K:Bbmaj] "F7"fgab c'2e'2 | "Bb"d'4z2bd' | "F7"c'4z2ac' | "Bb"b4 bc'bg | "F7"fgab c'2e'2 | 
+"Bb"d'4z2bd' | "F7"c'4 z2ac' |1 "Bb"b2b2 b2z2 :|2 "Bb"b2b2 b2b"_>Teil A"b |: [K:Abmaj] "Ab"e2c2 e2c2 | e6fe | "Eb7"d2d2 d2ed | 
+"Ab"c2ee e2e2 | e2c2 e2c2 | .e4"Db"!>!a4 |1 "Eb7"g3f e2d2 | "Ab".c4!>!e4 :|2 "Eb7"g2e'e' e'd'c'b | "Ab"a2a2 a2z2 |] 
+
+X:4
+T:Kreuzfidel (Schottisch) EbBbAb (5letras) cf. CGF Parts
+P:ABAC
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+bb [P:A] |: "Eb"b2g2 g2bb | "Bb7"b2a2 a2bb | b2b2 c'2d'2 | "Eb"f'2e'2 e'2bb | b2g2 g2bb | "Fm/Ab"c'2f2 f2c'c' | "Bb7"c'2b2 d'c'af |1 
+"Eb"e2e2 e2bb :|2 "Eb"e2e2 e2z2 |: [P:B] [K:Bbmaj] "F7"fgab c'2e'2 | "Bb"d'4z2bd' | "F7"c'4z2ac' | "Bb"b4 bc'bg | "F7"fgab c'2e'2 | 
+"Bb"d'4z2bd' | "F7"c'4 z2ac' |1 "Bb"b2b2 b2z2 :|2 "Bb"b2b2 b2b"_>Teil A"b |: [P:C] [K:Abmaj] "Ab"e2c2 e2c2 | e6fe | "Eb7"d2d2 d2ed | 
+"Ab"c2ee e2e2 | e2c2 e2c2 | .e4"Db"!>!a4 |1 "Eb7"g3f e2d2 | "Ab".c4!>!e4 :|2 "Eb7"g2e'e' e'd'c'b | "Ab"a2a2 a2z2 |] 

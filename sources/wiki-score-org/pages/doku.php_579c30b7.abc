@@ -1,0 +1,27 @@
+X:901
+T:Aria Emirena
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 1 clef=alto name="Corno I" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 1 )]
+%-------
+[K:treble][Q:"Andante"] z// | czcz | !fermata!G2 z2 || \
+[Q:"Allegro"] G4 | GGz2 | G4| !p!c2z/c/c/c/ | c2z/c/c/c/ | c4 | czz2 | czz2 | c4 | c2z2 | c2z2 | z4 | G4 | Gzz2 | \
+G4 | Gzz2 | !f!f2e2 | d/z/ d/z/dz || \
+[Q:"Adagio"] z4 | \
+!fermata!G2z2 || [Q:"Allegro"] G4- | G4- | G4 | c/c//c// c/c/ cz | z4 | z/c/c/c/cz | z4 | \
+z/c/c/c/cz | c4 | G/G//G// G/G/Gz | z4 | d4 | dzz2 | G4 | z2z2 | dddz | z4 | x4 | x4 | x4 | x4 | x4 | \
+x4 | x4 | x4 | x4 | x4 | !f!d4- | d4 | Gzz2 | Gzz2 | z4 | dddd | GGGz | \
+GzGz | G/G//G// G/G/Gz | c2z2 | z4 | x4 | x4 | x4 | \
+x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z3/4G//G3/4G//G!fermata!z || \
+[Q:"Adagio"]z3/4d//d3/4d//d!fermata!z | z3/4c//c3/4c//c!fermata!z | \
+!fermata!z4 || \
+[Q:"Tempo di Prima"] !p!G4- | G4- | G4- | G4 | !f!GcGc | GGGz | z4 | zGGz | \
+z4 | G4 | z4 | c4- | c4- | c4- | c4 | z4 | x4 | z/G//G// G/G/Gz | z4 | x4 | x4 | x4 | \
+!f!E/c/e/g/ f/e/d/c/ | GGz2 | x4 | x4 |
+x4 | x4 | x4 | x4 | x4 | x4 | e4 | d4 | czz2 | GzGz | czz2 | ez/g/ g/f/e/d/ | czz2 | \
+czz2 | c4 | czc2 | ee3/4g//{g}fe3/4d// | cc3/4c//cz |]
+%------

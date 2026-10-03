@@ -1,0 +1,31 @@
+X:4020
+T:Coro [Antandro, Demetrio, Euridice, Emirena, Eumene]
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:D
+V: 20 clef=alto1 name="Euridice" sname="Eur."
+%%MIDI program 1 1
+%%staves [[ 20 ]]
+%---------------
+[Q:"Allegro"] z | Z38 || [Q:"Allegretto"] Z21 || "^NB: check" "^DC al segno" X | \
+e3a//g// a//f// | e f//e// f//d// c d//c// d//B// | BA z \
+w: Por-ti-~ o--gno-ra-~ ri--den-te-~ l'au--ro-ra
+c/> e/ | e d/> d/ {e}d/c//d// c//d//e//d// | d/ c/ z \
+w: Lun-ga schie-ra di gior--ni fe----li-ci;
+a>g |  f e/> ^d/ e e//d//c//B// | AA z\
+w: lun-ga schie-ra di gior-ni--- fe-li-ci;
+c/> ^d/ | d B/> B/ f B/> B/ | ge=d>d | {e}dc a>a | {f}g f/e/ {d}e^d/c/ | B/e/ e/ g/ g/f/ e/ ^d/ | ezz2 | Z7 |\
+w: E su ques-te be-a-te pen-di-ci o-gni be-ne o-gni be--ne si--~ ve--da vi ve--da re-car
+z2z e/> e/ | e c/> e/ f/a/ g/ f/ | f e z e/> e/ | e c/> e/ f//g//a//g// b//a//g//f// | {f}ez e>e | {g}f e/> d/ {e}d/c/ c/> B/ | Azz2 | \
+w: E su ques-te be-a-te pen-di-ci-i o-gni be-ne si ve---da re----car o-gni be-ne si ve--da re-car
+z2z e/> e/ | g a//g// f//e// d//B//e//d// c//A// e//c// | BBz g/> g/ | a e/> e/ e/d/ d/ c/ | cBz \
+w: Por-ti'o-gno-ra-~ ri--den----te--~ l'au-ro-ra Lun-ga schie-ra di gior--ni fe-li-ci
+e/> c/ | A A/> A/ A e/> =g/ | =gf z \
+w: E su ques-te be-a-te pen-di-ci
+f/> f/ | e f/> d/ c/e/ d/B/ | c//e//d//f// e//=g//f//a// g//a//g//f// g//e//f//g// | f z \
+w: E su ques-te be-a-te pen--di----------------ci
+f>f | e f/> d/ c/e/ d/B/ | A zz2 || \
+w: o-gni be-ne si ve--da re-car.
+"_NB: check" "_DC al segno" X | \
+%------------

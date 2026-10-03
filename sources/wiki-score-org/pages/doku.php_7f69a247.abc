@@ -1,0 +1,23 @@
+X:207
+T:Andantino
+C:Pugnani, Gaetano (1731-1798)
+M:3/4
+L:1/4
+K:D
+V: 7 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 7 ]
+%-------------
+[Q:"Andantino"] (F2E | D2C) | !wedge!B,(GF) | E2D | !f!E3| EED | A,3| A,>ED/2^C/2 | \
+B,FE| D2C| B,GF | E2D| E3 | EED| DDC | D3 | D3 | z/A/c/e/c/A/ | E3 | z/A/c/e/c/A/ | E3- | E3 | \
+E/E/E/E/E/E/ | E/E/E/E/E/E/ | DEE, | C3 | E>(A,B,/C/) | D(FE|D)DC|B,GF|\
+E2D|E3|EED|DDC|D3| !wedge!B,/!wedge!B/!wedge!d/!wedge!f/!wedge!d/!wedge!B/| \
+z/F/^A/c/A/F/ | BzB,|FF2 | ^A3 | (Bcd)| ^A3 | (Bc)B|EFF,|(B,3|C3)|D3|(FG)^G| \
+A>(=GF/2E/2) | (F2E|D2C) | B,GF| EG/E/D| E3|EED|DDC|Dz/2!ff!D/2F/2D/2 | \
+A, z/2A,/2C/2A,/2 | Dz/2D/2F/2D/2 | \
+GAA,|| D z/2D/2F/2D/2 | A, z/2A,/2C/2A,/2 | DzD | GAG, | DB,2 | !fermata!A,3 |: \
+[Q:"Allegro ma non troppo"] !p!(DFD) | B,3 | C3| D>FE/2D/2 | E2D|E2D|DzD|AA,2:|CE2| D2(G//F//)(E//D//) | \
+CE2|D2F/C/|DFD|B,3|C3|D/D/D/D/D/D/| G/2G/2A/2A/2A,/2A,/2| \
+D/2D/2D/2D/2F/2F/2 | G/2G/2A/2A/2A,/2A,/2 | \
+D/2D/2D/2D/2F/2F/2 | G/2G/2A/2A/2A,/2A,/2 | D/4F/4A/4F/4 D/4F/4A/4F/4 D/4F/4A/4F/4 | D/2d/2D/2d/2D/2d/2 | D3 |]\
+%-------------

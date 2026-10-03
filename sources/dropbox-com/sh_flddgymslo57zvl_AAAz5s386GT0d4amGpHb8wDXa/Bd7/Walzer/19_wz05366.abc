@@ -1,0 +1,39 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Walzer FBb  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.237 (wz05366) orig. F,Bb-Dur
+T: "Pl\"otsch Musig" Guggisberg (Bern) S.186ff
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"A3 | (AB=B) | (ca>g) | (a2b) | "C7"(ag>f) | (g2a) | "F"(gf>e) | f (e/d/) (c/B/) | A3 | (AB=B) | ca>g | 
+a2c' | "Gm/Bb".b/.a/ .g/.f/ .e/.d/ | "C7"Pc =B/c/ d/e/ | "F"Pf ca |1 f2 (c/B/) :|2 fzc' :: "C7"P(bg.c') | P(bg.c') | "F"P(afc') | (a2.c') | "Gm/Bb".b/.a/ .g/.f/ .e/.d/ | 
+"C7"Pc =B/c/ d/e/ | "F"Pf g/f/ e/d/ | (c>f a/c'/) | "C7"P(bg.c') | P(bg.c') | "F"P(afc') | a2 (g/a/) | "Gm/Bb"b/a/ g/f/ e/d/ | "C7"Pc (=B/c/ d/e/) | "F"Pf (e/f/ a/g/) |1 fzc' :|2 
+fzb |: [K:Bb]  "F7"(a2e) | (g2e) | (a3 | a) (g/b/) (a/g/) | "Bb"(f2d) | (g2d) | (f3 | f) (e/d/ c/B/) | "F7"+>+A>.f.f |  +>+g>.f.f | 
++>+a>.f.f | .e.d.c | "Bb"(Bdf) | "Eb"(bag) | "Bb"(+>+f3 | f) (f/g/ a/b/) | "F7".a/.a/.a.e | .g/.g/ .g.e | (a3 | a) (g/b/ a/g/) | "Bb"f/f/ fd | 
+g/g/gd | (f3 | f) (d/f/ b/d'/) | "Cm/Bb"+>+c' .g/.g/ .g/.g/ | .c' .g/.g/ .g/.g/ | "Bb"+>+b .f/.f/ .f/.f/ | .b.a.g | "F7"+>+f>=ef | +>+(a/g/) fA | "Bb"PB (A/B/ d/f/) |1 .bzf :|2 bzz |]  
+
+X:2
+T:Walzer CF 5-  chords
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+"C"E3 | (EF^F) | (Ge>d) | (e2f) | "G7"(ed>c) | (d2e) | "C"(dc>B) | c (B/2A/2) (G/2F/2) | E3 | (EF^F) | Ge>d | 
+e2g | "Dm/F".f/2.e/2 .d/2.c/2 .B/2.A/2 | "G7"PG ^F/2G/2 A/2B/2 | "C"Pc Ge |1 c2 (G/2F/2) :|2 czg :: "G7"P(fd.g) | P(fd.g) | "C"P(ecg) | (e2.g) | "Dm/F".f/2.e/2 .d/2.c/2 .B/2.A/2 | 
+"G7"PG ^F/2G/2 A/2B/2 | "C"Pc d/2c/2 B/2A/2 | (G>c e/2g/2) | "G7"P(fd.g) | P(fd.g) | "C"P(ecg) | e2 (d/2e/2) | "Dm/F"f/2e/2 d/2c/2 B/2A/2 | "G7"PG (^F/2G/2 A/2B/2) | "C"Pc (B/2c/2 e/2d/2) |1 czg :|2 
+czf |: [K:Fmaj] "C7"(e2B) | (d2B) | (e3 | e) (d/2f/2) (e/2d/2) | "F"(c2A) | (d2A) | (c3 | c) (B/2A/2 G/2F/2) | "C7"!>!E>.c.c | !>!d>.c.c | 
+!>!e>.c.c | .B.A.G | "F"(FAc) | "Bb"(fed) | "F"(!>!c3 | c) (c/2d/2 e/2f/2) | "C7".e/2.e/2.e.B | .d/2.d/2 .d.B | (e3 | e) (d/2f/2 e/2d/2) | "F"c/2c/2 cA | 
+d/2d/2dA | (c3 | c) (A/2c/2 f/2a/2) | "Gm/F"!>!g .d/2.d/2 .d/2.d/2 | .g .d/2.d/2 .d/2.d/2 | "F"!>!f .c/2.c/2 .c/2.c/2 | .f.e.d | "C7"!>!c>=Bc | !>!(e/2d/2) cE | "F"PF (E/2F/2 A/2c/2) |1 .fzc :|2 fzz |] 
+
+X:3
+T:Walzer CF 5-  chords Anm
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+"C"E3 | (EF^F) | (Ge>d) | (e2f) | "G7"(ed>c) | (d2e) | "C"(dc>B) | c (B/2A/2) (G/2F/2) | E3 | (EF^F) | Ge>d | 
+e2"_ ="g | "Dm/F""_f".f/2.e/2 "_d".d/2.c/2 "_h".B/2"_a".A/2 | "G7"PG ^F/2G/2 "_a"A/2"_ h ="B/2 | "C"Pc Ge |1 c2 (G/2F/2) :|2 czg :: "G7"P(fd.g) | P(fd.g) | "C"P(ecg) | (e2"_ =".g) | "Dm/F".f/2.e/2 .d/2.c/2 .B/2.A/2 | 
+"G7"PG ^F/2G/2 A/2B/2 | "C"Pc d/2c/2 B/2A/2 | (G>c e/2"_ ="g/2) | "G7""_f"P(f"_d"d.g) | "_f"P(f"_d"d.g) | "C"P(ecg) | e2 (d/2e/2) | "Dm/F""_f"f/2e/2 "_d"d/2c/2 "_h"B/2"_a"A/2 | "G7"PG (^F/2G/2 "_a"A/2"_ h="B/2) | "C"Pc (B/2c/2 e/2d/2) |1 czg :|2 
+cz"_ ="f |: [K:Fmaj] "C7""_e"(e2"_b"B) | (d2"_b"B) | "_e"(e3 | e) (d/2f/2) (e/2d/2) | "F"(c2A) | (d2A) | (c3 | c) (B/2A/2 G/2F/2) | "C7"!>!E>.c.c | !>!d>.c.c | 
+!>!e>.c.c | .B.A.G | "F"(FAc) | "Bb"(fed) | "F"(!>!c3 | c) (c/d/ e/"_ ="f/) | "C7".e/2.e/2.e"_b".B | .d/2.d/2 .d"_b".B | ("_e"e3 | e) (d/2f/2 e/2d/2) | "F"c/2c/2 cA | 
+d/2d/2dA | (c3 | c) (A/2c/2 f/2"_ ="a/2) | "Gm/F"!>!"_g"g "_d".d/2.d/2 .d/2.d/2 | .g .d/2.d/2 .d/2.d/2 | "F"!>!f .c/2.c/2 .c/2.c/2 | .f.e.d | "C7"!>!c>=Bc | !>!(e/2d/2) cE | "F"PF (E/2F/2 A/2c/2) |1 .fzc :|2 fzz |] 

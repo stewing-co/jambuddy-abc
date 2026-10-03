@@ -1,0 +1,1497 @@
+%%papersize a4
+%%topmargin 0.6cm
+%%botmargin 1.0cm
+%%pageheight 29.7cm
+%%musicspace 0cm
+%%partsbox
+%%footer "v7.0  Copyright 2019 Andrew Swaine, andrewswaine.uk/mytunes.		Page $P"
+
+X:1
+T:Red Queen (Hornpipe), The
+T:Tune
+C:Andrew Swaine
+H:6/1/08
+M:2/2
+%Q:1/2 = 66
+%%MIDI ratio 2 1
+%%MIDI gchord f3czcf3czc
+K:Dm
+L:1/8
+V:gchord=down
+P:A
+"Dm"d>d e>f- "Bb6"f>f e>d|"A"^c>c d>"A7/c#"e z>A B>A|\
+"Dm"d>d e>f- "Bb6"f>f e>d|"A"^c>d e>"Dm"d z>A B>A|
+"Dm"d>d e>f- "Bb6"f>f e>d|"A"^c>c d>"A7/c#"e z>A B>A|\
+"Dm"d>d e>f- "Bb6"f>f e>d|"A"^c>d e>"Dm"d z>A G>A||
+P:B
+"Bb"B>B c>d- "Gm7"d>d c>B|"Dm"A>G F>A "Dm/f"z>A G>A|\
+"Bb"B>B c>d- "Gm7"d>d c>B|"A"A>G F>D "Dm"z>A G>A|
+"Bb"B>B c>d- "Gm7"d>d c>B|"Dm"A>G F>A "Dm/f"z>A G>A|\
+"Bb"B>B c>"Bb/d"d- d2 z2|"A"^c>c d>"A7/c#"e- e2 z2|]
+T:Break
+P:A
+"Dm"a2 a2 "Bb6"g>f e>d|"A"^c>c d>"A7/c#"e z>g f>e|\
+"Dm"d>e (3fga "Bb6"g>f e>d|"A"^c>d (3edc "Dm"d>e f>g|
+"Dm"a2 a2 "Bb6"g>f e>d|"A"^c>c d>"A7/c#"e z>g f>e|\
+"Dm"d>e (3fga "Bb6"g>f e>d|"A"^c>d (3edc "Dm"d>A d>=c|
+P:B
+"Bb"B>F B>c "Gm7"d>e- e>f-|"Dm"f>e f>g "Dm/f"f>e d>c|\
+"Bb"B>F B>c "Gm7"d>f- f>e-|"A"e>f (3ed^c "Dm"d>A d>c| 
+"Bb"B>F B>c "Gm7"d>e- e>f-|"Dm"f>e d>e "Dm/f"f>d f>g|\
+"Bb"[d2a2] [d2a2] "Bb/d"[d2g2] [db]>"A"[^ca]|z8|]
+
+X:2
+T:Run of the Library (Hornpipe)
+C:Andrew Swaine
+H:3/10/08
+M:2/2
+%Q:1/2 = 72
+K:Dm
+L:1/8
+P:A
+|:"Dm"f2dd f2dd|"A7"^cdec "Dm"dAde|"Dm"f2dd f2dd|"Gm"zggf "A7"e2de|
+"Dm"f2dd f2dd|"A7"^cdec "Dm"d2A2|"Gm"G2GA BBAG|\
+[1 "A7"A2^c2 "Dm"d2e2:|2 "A7"A2^c2 "Dm"d2A2||
+P:B
+|:"Gm"G2GA B2GG|"Dm"FEFG AAGF|"Gm"G2GA BBAG|"A7"(A2.d2) A4|
+"Gm"G2GA B2GG|"Dm"FEFG AAGF|"Gm"G2GA BBAG|\
+[1 "A7"A2^c2 "Dm"d4:|2 "A7"A2d2 e4+D.C.+|]
+
+X:3
+T:Ego (Hornpipe)
+C:Andrew Swaine
+H:26/6/11
+M:2/2
+%Q:1/2 = 69
+L:1/8
+K:G
+P:A
+"G"G2BG "D"AFED|"G"G2BG "D"AFED|"C"C2EC "G/b"B,2DB,|"C"CDEC "D"DEFD|
+"G"G2BG "D"AFED|"G"G2BG "D"AFED|"C"C2EC "G/b"B,CDG|"D"FDEF "G"G2"<("G">)"F||
+P:B
+"Em"E2B2 "D"A2GF|"Em"EFGE "D"FEDF|"Em"E2B2 "D"A2GF|"G"Gddc "D"BAGF|
+"Em"E2B2 "D"A2GF|"Em"EFGE "D"FEDF|"Em"E2B2 "D"A2GF|"G"Gdde "D"dcBA|]
+
+X:4
+T:Made in Concrete (Hornpipe)
+T:Tune
+C:Andrew Swaine
+H:4/4/08
+M:2/2
+%Q:1/2 = 66
+%%MIDI ratio 2 1
+%%MIDI gchord f3czcf3czc
+L:1/8
+K:D
+P:A
+|:D>E|"D"F2 F>G F>E (3DEF|"G"G2 G>A G>F (3EFG|\
+"A"A>B A>G "D"F>E D>d|"E7"c>B A>^G "A7"A2 =G2|
+"D"F2 F>G F>E (3DEF|"G"G2 G>A G>F (3EFG|\
+"A"A>B A>G "A7"F>E D>C|"D"D>d "A7"d>c "D"d2:|
+P:B
+|:d>e|"D"f2 e>f "G"g2 f>g|"A7"a>b a>g "D"f>e d>f|\
+"Em"e>d c>B "A"A>B c>A|"D"d>f e>d "Em"e4|
+"F#m7"f2 e>f "G6"g2 f>g|"A7"a>b "/bb"a>g "Bm7"f>e d>f|\
+"Em7"e>d c>B "A7"A>B c>A|"D"d>f "A7/c#"e>c "D"d2:|
+T:Harmony
+P:A
+|:D>E|"D"F>F A>d- d>d c>d|"G"G>G B>d- d>d c>d|\
+"A"c>d e>c "D"d>e f>d|"E7"e>d c>B "A7"A2 =G2|
+"D"F>F A>d- d>d c>d|"G"G>G B>d- d>d c>d|\
+"A"c>d e>d "A7"c>A B>c|"D"d>f "A7"e>c "D"d2:|
+P:B
+|:B>c|"D"d2 c>d "G"e2 d>e|"A7"f>g f>e "D"d>c B>A|\
+"Em"B>c d>B "A"c>d e>c|"D"d>A d>f "Em"e4|
+"F#m7"c2 B>c "G6"d2 c>d|"A7"e>f "/bb"e>d "Bm7"c>B A>A|\
+"Em7"B>c d>B "A7"c>d e>c|"D"d>A "A7/c#"B>A "D"d2:|
+
+X:5
+T:Electrocuting Coconuts (Hornpipe)
+C:Andrew Swaine
+H:3/10/08
+M:2/2
+%Q:1/2 = 88
+K:D
+L:1/8
+P:A
+|:"D"DEFG "/f#"AFDA|"G"BAGB "D/f#"A4|"G"BcdB "D/f#"AFDF|"Em7"EDEF "A7"E2FE|
+"D"DEFG "/f#"AFDA|"G"BAGB "D/f#"A4|"G"BcdB "D"AFDF|"A"EDEF "G"D4:|
+P:B
+|:"D"defd "A/c#"cdec|"G/b"BcdB "A"A4|"G"BABc "D/f#"defg|"Em7"a2g2 "A7"f2e2|
+"D"defd "A/c#"cdec|"G/b"BcdB "A"A4|"G"BABc "Em7"defe|"A"d2c2 "D"d4:|
+
+X:6
+T:Wild Goose of Sheringham (Hornpipe), The
+C:Andrew Swaine
+H:19/6/11
+M:2/2
+%Q:1/2 = 88
+K:G
+L:1/8
+P:A
+z3|:"C"c2d2"D"e2f2|"G"gage "/b"d2gf|"C"edcB "Am7"AGFG|"D"AGFE "/f#"D2B2|
+"C"c2ec "G/b"B2AG|"Am7"AG"D"FA "G"G2AB|"C"c2d2 "Am7"eedc|"D"d4 z:|
+P:B
+def|:"G"g2GG "/f#"f2GG|"/e"edce "/d"d2Bd|"C"c2Ac "G/b"B2GB|"Am7"AGFE "D"D2B2|
+"C"c2ec "G/b"B2AG|"Am7"AG"D"FA "G"G2AB|"C"c2d2 "Am7"eedc|"D"d4 z:|
+
+X:7
+T:Helsinki Stomp (Hornpipe)
+C:Andrew Swaine
+H:Early 04?
+M:2/2
+%Q:1/2 = 88
+K:D
+L:1/8
+P:A
+|:"D"d2dB A2AF|"G"GFGB "A"AAFA|"D"DddB A2AF|"/g;G"G2 "/f#;"F2 "/e;A"E2 "/a;"D2|
+"D"d2dB A2AF|"G"GFGB "D/f#"AAFA|"/g;G"B2 "/f#;"A2 "/e;"G2 "/d;"F2|\
+[1 "/a;A"ED"/b;"C"/c#;"E "D"DABc:|2 "/a;A"ED"/b;"C"/c#;"E "D"D2CD||
+P:B
+|:"A"E2EF G2FE|"D"FEFG A2GF|"G"G2GA B2dd|"A"cdcB "A7"AABc|
+"D"d2dB A2AF|"G"GFGB "D/f#"AAFA|"/g;G"B2 "/f#;"A2 "/e;"G2 "/d;"F2|\
+[1 "/a;A"ED"/b;"C"/c#;"E "D"D2CD:|2 "/a;A"ED"/b;"C"/c#;"E "/d;D"D2"/c#;"C2||
+P:C
+|:"Bm"B,2B,D F2FD|"Em"EDEF "/d;D"D2"/c#;"C2|"Bm"B,2B,D FDEF|"G"GFEF "/a;A"D2 "/bb;"C2|
+"Bm"B,2B,D F2FD|"Em"EDEF "A"GABc|"D"d2dB A2AF|1 "G"GFEF "/d;D"D2"/c#;"C2:|2 "G"GA"A"Bc "D".d2z2|]
+
+X:8
+T:Blake (Hornpipe), The
+C:Andrew Swaine
+H:21/12/12
+M:2/2
+L:1/8
+K:G
+P:A
+"G"G,2B,D "/f#"G2Bd|"/e"gdBd "/d"G2AB|"C"cBAG "G/b"FGAB|"Am7"AGFE "D"DCB,A,|
+"G"G,2B,D "/f#"G2Bd|"/e"gdBd "/d"G2AB|"C"cBAG "/a"FGAB|"D"A2G2 "G"G4:|
+P:B
+|:"G"g2g2 "Bm7"f2df|"C"efge "D"d2ga|"Em7"bagf "Bm7"edcB|"C"AGFE "D"DCB,A,|
+"G"G,2B,D "/f#"G2Bd|"/e"gdBd "/d"G2AB|"C"cBAG "/a"FGAB|"D"A2G2 "G"G4:|
+
+X:9
+T:Hengelo Hornpipe
+C:Andrew Swaine
+H:15/7/11
+M:2/2
+L:1/8
+K:G
+P:A
+"G"gfgd "C"e2ce|"D"dedc "Em"B2AB|"C"cdcB "D"A2GA-|"C/e"AGAB "D7/f#"cdef|
+"G"gfgd "C"e2ce|"D"dedc "Em"B2AB|"C"cdcB "D"AGFE|"C/e"DG"D/f#"FA "G"G4:|
+P:B
+"G"G2BG "Am"A2cA|"G/b"BcdB "C"cdec|"G"dgfg agfe|"D"d2de dcBA|
+"G"G2BG "Am"A2cA|"G/b"BcdB "C"cdec|"G"dgfg agfe|1"D"dgfa "G"g4:|2"D"d2d2 e2f2|]
+
+X:10
+T:Snakey Path (Schottische)
+C:Andrew Swaine
+H:10/3/08
+M:2/2
+L:1/8
+%Q:1/2 = 72
+K:D
+P:A
+Bc|:S"D"d2ef "G"e2dc|BA"G"Bd "A"c2BA|"D/f#"FGAF "G"GABG|"Em7"Adcd "A"AFEF|
+"D"D2df "G"e2dc|BA"G"Bd "A"c2BA|"D/f#"FGAB "G"cdcd|1 "A"AFEF "D"D2Bc:|2 "A"AFEF "D"D2dc|]
+P:B
+|:"Bm7"B2Bd "F#m7"c2BA|"A7"FE"/c#"FB "D"A2GF|"Em7"EFGE "F#m7"FGAB|"G"Gd"/g#"cB "A"A2dc|
+"Bm7"B2Bd "F#m7"c2BA|"A7"FE"/c#"FB "D"A2GF|"G"EFGE "A"FGAB|1 "G/b"Ad"A7/c#"ce "D"d2dc:|2 "G/b"ABcA "A7/c#"Bcde+D.S.+|]
+
+X:11
+T:Sorbet Shuffle (Schottische)
+C:Andrew Swaine
+M:2/2
+%Q:1/2 = 72
+L:1/8
+H:10/5/03
+K:G
+P:A
+|:GA|"G"B3A GBAG|"D"ABAG F2"/b"D2|"C"E3F "G/b"G2BB|"Am7"cBAG "D7"A2GA|
+"G"B3A GBAG|"D"ABAG F2"/b"D2|"C"E3F "Am7"G2BB|"D7"AGFA "G"G2:|
+K:Gm
+P:B
+|:GA|"Gm"B3A GBAG|"Dm/f"AGAB c2"/a"^c2|"Bb"d3c BdcB|"Am7"cccB "D7"AcBA|
+"Gm"B3A GBAG|"Dm/f"AGAB c2"/a"^c2|"Bb"d3c BdcB|"D7"cBA^F "G"G2:|
+
+X:12
+T:Truffle Shuffle (Schottische)
+C:Andrew Swaine
+M:2/2
+%Q:1/2 = 72
+L:1/8
+K:Gm
+P:A
+|:GA|"Gm"B2BA GBAG|"D"ABAG ^F2D2|"Cm"C3D _E2GG|"D"^FGF_E D2GA|
+"Gm"B2BA GBAG|"D"ABAG ^F2D2|"Cm"C3D _E2GG|"D7"^FGAF "Gm"G2:|
+K:G
+P:B
+|:GA|"G"B2BA GBAG|"D"AGAB d2g2|"C"e3d c2Bc|"D7"dddc BAGA|
+"G"B2BA GBAG|"D"AGAB d2g2|"C"e3d c2Bc|"D7"dcA^F "G"G2:|
+
+X:13
+T:Elephant Man (Schottische), The
+C:Andrew Swaine
+H:10/1/12
+M:2/2
+L:1/8
+K:D
+P:A
+AG|"D"F2A2 "G"G2Bd|"A"ceBc "D"dGde|"D"f2d2 "G"B2ed|"A"cdBc A2AG|
+"D"F2A2 "G"G2Bd|"A"ceBc "D"dGde|"D"f2d2 "G"B2ed|"A"cdBc "D"d2:|
+P:B
+|:ag|"D"f2a2 A2dc|"G"Bcde "D"A2dc|"G"Bcde "D"fedf|"Em"edef "A"e2ag|
+"D"f2a2 A2dc|"G"Bcde "D"A2dc|"G"Bcde "Em"fedc|"A"Bdce "D"d2:|
+
+X:14
+T:Fabulously Fruity (Schottische)
+C:Andrew Swaine
+H:21/1/11
+M:2/2
+Q:1/2 = 72
+L:1/8
+K:D
+P:A
+"D"d2A2d3c|"G"BABc "A"B2 (3ABc|"D"d2A2d3d|"G"eeee "A"f2e2|
+"D"d2A2d3c|"G"BABc "A"B2 (3ABc|"Bm"d3e fdef|"A"e2dc "D"d4:|
+P:B
+|:"Bm"f2d2 f3d|"A"edef e2dc|"G"d3e fdef|"A"g2f2e2de|
+"Bm"f2d2 f3d|"A"edef e2dc|"G"d3e fdef|"A"e2dc "D"d4:|
+
+X:15
+T:Settled in Sheffield (Schottische)
+C:Andrew Swaine
+H:1/7/13
+M:2/2
+Q:1/2 = 72
+L:1/8
+K:G
+P:A
+GA|"G"B2d2 "D/f#"A2dG-|"Em7"GAGE "D"D2GF|"C"EFGB "G/b"cBAG|"Am7"A6 "D"GA|
+"G"B2d2 "D/f#"A2dG-|"Em7"GAGE "D"D2GF|"C"EFGB "D"AGFA|"G"G6:|
+P:B
+|:gf|"C"e2g2 "G/b"d2gc-|"Am7"cdcA "G"B2AB|"C"cded "G/b"cBAG|"Am7"A6 "D"gf|
+"C"e2g2 "G/b"d2gc-|"Am7"cdcA "G"B2AB|"C"cded "D"cBAB|"G"G6:|
+
+X:16
+T:Southam Schottische
+C:Andrew Swaine
+H:23/8/12
+M:2/2
+Q:1/2 = 72
+L:1/8
+K:Em
+P:A
+"Em"E2B2 "D"AGFG-|"Em"GAGF- "D"FED2|"C"CDEG "D"FEDC-|"C"CDEG "D"FGFE-|
+"Em"E2B2 "D"AGFG-|"Em"GAGF- "D"FED2|"C"CDEG "D"FEDE-|1 "C"E4-EA"D"GF:|2 "C"E6 "D"F2||
+P:B
+"G"G2g2 fed2|"C"efed- "G"ddBd|"C"edcd- "G"dcBc-|"Am7"cBAD- "D7"DGFG-|"G"G2g2 fed2|
+"C"efed- "G"ddBd|1 "C"edcB- "G"BAG2| "D"FGAB AGFG-:|2 "C"edcd- "G"dcBc-|"Am7"cBAG- "D"GAGF|]
+
+X:17
+T:Fencepost Schottische
+C:Andrew Swaine
+H:29/9/2013
+M:2/2
+L:1/8
+K:G
+P:A
+"G"g2ga "/b"b2g2|"D"fgaf "G/b"d2gf|"C"e2ed "G/b"c2B2-|"Am7"BAGB "D"d2ef|
+"G"g2ga "/b"b2g2|"D"fgaf "G/b"d2gf|"C"e2ed "Am7"c2B2|1 "D"d2d2 zdef:|2 "D"d2d2 g2f2|
+P:B
+"C"e2eg "D"f2e2|"Bm7"dBdf "C"e2d2|"Am7"c2e2 "D"d2c2|"G"BAGA "G/b"Bcd2|
+"C"e2eg "D"f2e2|"Bm7"dBdf "C"e2f2|"Am7"g2ga b2g2|1"D"fed2 z2gf:|2"D"fed2 zdef|]
+
+X:18
+T:Morningside (Schottische)
+C:Andrew Swaine
+H:24/1/16
+M:2/4
+L:1/8
+K:Am
+P:A
+"Am"ABce "F"d2cB-|"G"BAGB "Am"A2"G/b"B2|"C"cedc "F"dcAG|"G"zede dcAG|
+"Am"ABce "F"d2cB-|"G"BAGB "Am"A2G2|"Dm"FGAc "Em"BAG"F"A-|ABce "G"dcAG:|
+P:B
+"Am"Aedc A2GA-|"C"Aedc G3A-|"Dm"Aedc Ae2d-|"G"dcde dcAG|
+"Am"Aedc A2GA-|"C"Aedc G3e-|"Dm"eedc ec2d-|"G"dcde dcAG:|
+
+X:21
+T:Sandon Lodge (Schottische)
+M:2/2
+H:12/11/2018
+L:1/8
+K:Em
+P:A
+^CD^D |: "Em"E2eg edB2 | "D"ABcA "Em"BAG2 | "D"F3G A2F2 | "G"GFGA "Dm/f#"BAGF |
+"Em"E2eg edB2 | "D"ABcA "Em"BAG2 | "D"F3G "Bm"AAGF |1 "Em"E4- E^CD^D :|2 E4- EFED ||
+P:B
+|:"C"C2G4 G2 | "D"FG^GA- AFGA | "G"B2Bc BAG2 | "D"AGAB "G"AGFD | "C"C2G4 G2 | 
+"D"FG^GA- AFGA |1 "G"BABd "D"AGAB | "G"G3A "G/b"GFED :|2 "G"BABd "D"AGFD | "Em"E4- E |
+
+X:19
+T:The Shed World Tea Room (Schottische)
+H:10/7/17
+M:2/2
+L:1/8
+%Q:160
+%%MIDI gchord f2ccf2cc
+K:Dmaj
+P:A
+"G"Bcdf "A"e2dc | "D"dAGF- FFEF | "G"GABd "A"c2Bc | "D"dfed "F#m7"A4 | 
+"G"Bcdf "A"e2dc | "D"dAGF- FFEF | "G"GABf "A"edcd- |1 "D"d4- dAdc :|2 "D"d4- dAde || 
+P:B
+|:"D"fdA"A"e- ecde | "Bm"dcBA "F#m7"F2GA | "G"Bcdc- "A"cdef- | "D"fdgf "A"e2de | 
+"D"fdA"A"e- ecde | "Bm"dcBA "G"B4- | Bcdf "A"edcd- | d8 & "G/b"x2"A/c#"x2 "D"x4 :| 
+
+X:20
+T:Flashing Light Convention (Schottische)
+H:22/7/17
+M:2/2
+L:1/8
+%Q:1/4=160
+%%MIDI gchord f2ccf2cc
+K:Dm
+P:A
+de | "Bb"f2f2 "C"e2dc | "Dm"dfdA- ABcB- | "Gm"BAGF "C"c2c2 | "Dm"dfdA- "Am"AAde |
+"Bb"f2f2 "C"e2dc | "Dm"dfdA- ABcB- | "Gm"BAGF "C"EFED- | "Dm"D6 :|
+P:B
+|:DE | "Bb"FEDF "C"GFGA- | "Dm"ABAG FGA2 | "Bb"B2B2 "C"G2FG | "F"ABAG- "Am"GFE2 | 
+"Bb"FEDF "C"GFGA- | "Dm"ABAG FGA2 | "Bb"B2B2 "C"GFED- | "Dm"D6 :|
+
+X:22
+T:Tree in the Roof (Schottische)
+H:23/11/2018
+M:2/2
+L:1/8
+K:Dm
+P:A
+"Bb"BcdB "C7"c2BA- | "F"AFAc "Bb"B3A | "Gm7"GAGF "C7"EFGE | "F"F3G- G2A2 | 
+"Bb"BcdB "C7"c2BA- | "F"AFAc "Bb"B3A | "Gm"GABG "Am"A2AB- |1 "Bb"BcdB "C"c4 :|2 "Bb"BcdB "C"cde2 ||
+P:B
+"Bb"f4 "C"e3d- | "Dm"dedc A4 | "Gm"BcdB "C"ccde | "Dm"f2ed- dAde | "Bb"f4 "C"e3g- | 
+"A7/c#"gfef "Dm"d4- | "Gm"zgfe f2ed |1 "A7"^cdeA- AAde :|2 "A7"^cded- "Dm"d4 |]
+
+X:23
+T:Holly to the Heavens (Schottische)
+M:2/2
+L:1/8
+K:Dm
+%%text Swung
+P:A
+"Dm"DEFD "C"E3E- | EFGE "Bb"F3G- | "Gm6"GABG "A7"A^cde | "Dm"fedc A3d- |
+"Gm"dcBA "C"G3c- | "F"cBAG "Bb"F3B- | "Gm7"BAGF "Em7b5"E2D2 |1 "A7"Az2"/b"G z2"/c#"E2 :|2 "A7"Az2 "/b"Bz2"/c#"^c2 ||
+P:B
+"Bb"d4 "C"d3e | "Dm"fed^c d2AB- | "Gm"BGBd "C"c2B2 | "F"ABAG A3A |
+"Gm6"GFGA B2GF- | "F6"FEFG A4 | "Em7b5"EDEF GEFG |1 "A7"A2=B2 ^c4 :|2 "A7"A2"/g"G2 "/f"/F2"/e"E2 ||
+
+X:24
+T:Rails Road (Hottis)
+H:26/11/18
+M:2/2
+L:1/8
+K:Ador
+P:A
+"Am"A2AB c3d | c2cd cBA2 | "G"G2GA E3G | "D"F2FG FED2 | 
+"Am"A2AB c3d | c2cd cBA2 | "G"G2GA E3F | G2"D"A2 z4 :|
+P:B
+"Am"e2e2 e3c | "G"d2de "Am"cBA2 | "G"G2GA E3G | "D"F2FG FED2 | 
+"C"e2e2 e3c | "G"d2de "Am"cBA2 | "G"G2GA E3F | G2"D"A2 z4 :|
+
+X:25
+T:Great North Road (An Dro)
+C:Andrew Swaine
+H:11/11/12
+M:2/4
+L:1/8
+K:Am
+P:A
+"Am"e4- & z2AB|"C"e2 ee- & G4|"Dm"ed cB|"F"ABcA|\
+"Am"e4- & z2AB|"C"e2 ee- & G4|"Dm"ed cA|1"Em" B4:|2 "Em"B2 AB||
+P:B
+"F"c2 "G"d2|"C"e2 de|"Dm"fe dc|"G"d2 cB|"F"c2 "G"d2|\
+"C"e2 de|"Dm"fe dc|1 "Em"B2 AB:|2 "Em"B4|]
+
+X:26
+T:Purple Pipe of Doom (An Dro), The
+M:4/4
+L:1/8
+K:Am
+P:A
+"Am"edcB A2ed | cBA2 "G"Bcd2 |1-3 "Am"edcB A2G2 | "Em"E8 :|4 "Am"edcB A2G2 ||
+|:"F"F3G A2cB- | "G"BAGA Bcd2 | "C"e3f g2ef- | "F"fedc "G"d2cB |
+"F"A3B c2ed- | "G"dcBc d2cd |1 "C"edcB A2G2 :|2 "Am"edcB A2G2 | A8 |]
+
+X:27
+T:Gavotte de la Veine Bleu (Gavotte de l'Aven - Caresse)
+C:Andrew Swaine
+H:13/11/16
+M:4/4
+K:Am
+L:1/8
+P:A
+"Am"c2 cB c2 A2|Ac BA "Em"E2 z2|"Am"c2 cB ce dc|"G"G6 z2|\
+"Am"c2 cB c2 A2|Ac BA "Em"E2 C2|"Dm7"D8-|D2 "F6"F2 "E7"E2 z2:|
+P:B
+|:"F"FG AB c2 e2|"C"GA GF G2 E2|"F"FG AB ce dc|"C"G6 z2|\
+"F"FG AB c2 e2|"C"GA GF E2 C2|"Dm7"D8-|D2 "F6"F2 "E7"E2 z2:|
+
+X:28
+T:Mrs Lovett (Reel)
+C:Andrew Swaine
+H:27/1/08
+%Q:1/2 = 108
+M:4/4
+K:D
+L:1/8
+P:A
+"D"DE FG AB cd|"A"cB AG FE DC|"D"DE FG AG FG|"A"Ad ce "D"d2 z2|
+"D"DE FG AB cd|"A"cB AG FE DC|"D"DE FG AG FG|"A"Ad ce "D"d2 de|
+"D"f2 fe df af|"G"ga gf ef ge|"D"fg fe de fd|"A"ed ce "D"dA de|
+"D"f2 fe df af|"G"ga gf ef ge|"A"af ge fd ed|"A7"cA Bc "D"d2 z2||
+P:B
+|:"A"AB cd e2 AA|"Bb"_B=c de =f2 BB|"A"AB cd e2 cc|"G"de dc B4|"A"AB cd e2 AA|
+"Bb"_B=c de =f2 gg|1 "A"a^g af ec Ac|"E7"BA ^GB "A"A4:|2 "A"a^g af ea gf|"A7"ed cB AG FE|]
+
+X:29
+T:Melton Mowbray (Reel)
+C:Andrew Swaine
+H:14/7/08
+%Q:1/2 = 108
+M:4/4
+K:D
+L:1/8
+P:A
+"D"DEFD "A/e"EFGE|"D/f#"FGAF "G"GABG|"D"Acde fedf|"A7"edcB AGFE|
+"D"DEFD "A/e"EFGE|"D/f#"FGAF "G"GABG|"D"Acde fedf|"A7"edce "D"d4:|
+P:B
+"A"eAAA eA=fA|"D"fAAA fA=fA|"A"efgf edcd|"E7"edcB "A"A4|
+"A"eAAA eA=fA|"D"fAAA fA=fA|"A"efgf edcB|1 Adce "D"d4:|2 "A7"ABcB AGFE|]
+
+X:30
+T:Ceilidh Round the Tree (Polka)
+C:Andrew Swaine
+H:5/4/11
+M:4/4
+%Q:1/4 = 108
+L:1/8
+K:D
+P:A
+ABc|"D"d2Ad "G"B2GB|"A"AGFE "D"D2A2|"D"d2f2 "Em"e2d2|"A"cdcB AABc|
+"D"d2Ad "G"B2GB|"A"AGFE "D"D2A2|"D"d2f2 "Em"e2d2|"A"cABc "D"d:|
+P:B
+|:efg|"D"a2fa "Em"g2eg|"D/f#"f2df "G"e2d2|"A"c2A2 afed|c2A2 efge|
+"D"a2fa "Em"g2eg|"D/f#"f2df "G"e2d2|"A"c2A2 BABc|"D"dfec d:|
+
+X:31
+T:Escape from the Abbey (Polka)
+C:Andrew Swaine
+H:7/1/08
+M:2/4
+%Q:1/4 = 108
+L:1/8
+K:Em
+P:A
+|:"Bm7"FB/B/ AB|"Em"GB/B/ AB|"Am"AB/B/ cB|"C"AG FE|"Bm7"FB/B/ AB|"Em"GB/B/ AB|
+"Am"AB/B/ cB|1 ce "B7"^dz:|2 ce "B7"f2|:[P:B]"Em"g>f e^d|eB/B/ AB|"C"c>B AG|
+"D"FG FE|"Em"g>f ed|eB/B/ AB|"C"c>B AG|1 "D"FD "Em"Ez:|2 "D"F2 "C"E2|]
+
+X:32
+T:Coldham's Common (Polka)
+C:Andrew Swaine
+H:25/8/05
+M:2/4
+%Q:1/4 = 108
+L:1/8
+K:G
+P:A
+|:"G"Gg Gg|"C"eg/e/ "G"d/B/G|"Am7"cc/d/ ec|"D7"de fg|"G"Gg Gg|"C"eg/e/ "G"d/B/G|
+"C"cA/c/ "G"BG|"D7"AF "G"G2::[P:B]"Em"EB EB|"Am"cA/c/ "Em"BG|"D6"FF/G/ F/E/D|"Bm7"E/F/G/A/ B2|
+"Em"EB EB|"Am"cA/c/ "Em"BG|"Bm7"FF/G/ F/E/D|1 "Em"E2 "D"D2:|2 "Em"E2 "<("">)""D/f#"F2|]
+
+X:33
+T:Millinated Crumpet (Polka), The
+C:Andrew Swaine
+H:31/12/11
+M:2/4
+L:1/8
+K:Gm
+P:A
+"g"G2 "g"G>A|"c"BG "c#"^c"d"d|zd ^cd|ed ^cd|"g"G2 "g"G>A|"c"BG "c#"^c"d"d|zd ^cd|Bd Ad:|
+P:B
+"Gm"G>A BG|"D7"A^F DD|"Cm"EG EC|"D7"D4|"Cm"E>G EC|"Gm"D^F GA|"A7"B>A GB|"D7"A4|
+"Cm"e>d ce|"Gm"dB GG|"D7"A>B A^F|"Gm"G2D2|"Cm"C>D EC|"Gm"D^F GA|"D7"B>A G^F|"Gm"G"<("D _E">)"D|]
+
+X:34
+T:Stomping in the Shower (March)
+%%stretchstaff 0
+T:Tune
+C:Andrew Swaine
+M:2/2
+L:1/8
+K:G
+P:A
+"Em"E2BB BEGB|c2B2 A2G2|E2BB BEGB|A2G2 F2E2|\
+E2BB BEGB|c2B2 A2G2|E2BB BEGB|"D".A2 z2 z4:|
+P:B
+|:"C"G2GA GFE2|"D"F2FG FED2|"Em"E2BB BEGB|A2G2 E2F2|\
+"C"G2GA GFE2|"D"F2FG FED2|"Em"E2BB BEGB|"D"c2B2 A2G2:|
+P:last
+"Em"E2BB BEGB|"Em".e2z2 z4:|
+T:Harmony 1
+P:A
+"Em"e2ef g2gg|gfe2 f4|e2ed B2Be|d2de fed2|\
+e2ef g2gg|gfe2 f4|e2ed B2e2|"D".d2z2 z4:|
+P:B
+|:"C"c2cd edc2|"D"d2ee fed2|"Em"e2ef gfef|gfga gfe2|\
+"C"c2cd edc2|"D"d2ee fed2|"Em"e2ef gfe2|"D"gfga gfe2:|
+T:Harmony 2
+P:A
+"Em".E2z2 .E2z2|.E2z2 .E2z2|.E2z2 .E2z2|.E2z2 .E2z2|\
+.E2z2 .E2z2|.E2z2 .E2z2|.E2z2 .E2z2|"D".D2z2 z4:|
+P:B
+|:"C"C2.C2 z2C2|"D"D2.D2 z2D2|"Em"E2.E2 z2E2|E2D2 C2B,2|\
+"C"C2.C2 z2C2|"D"D2.D2 z2D2|"Em"E2.E2 z2E2|1 .D2z2 B,4:|2 .D2z2 z4|]
+
+X:35
+T:Porter Brook (Air)
+H:27/1/18
+M:4/4
+L:1/8
+K:G
+P:A
+|:"G"d2 dc Bc dG | "C"e2 e2 "D"d3 c | "Em"B2 BA GA BG | "C"AG FE "D"D4 |
+"G"d2 dc Bc dG | "C"e2 e2 "D"d3 c | "Em"B2 BA GA BG |1 "D"AG FA "G"G4 :|2 "D"AG FA "G"GA Bd ||
+P:B
+|:"C"e2 e2 "D"d3 c | "Em"BA GA BG AB | "C"c2 c2 "G/b"B3 G | "Am"AG FE "D"D4 |
+"C"e2 e2 "D"d3 c | "Em"BA GA BG AB | "C"c2 c2 "G/b"B3 G |1 "D"AG FA "G"GA Bd :|2 "D"AG FA "G"G4 |] 
+
+X:36
+T:Ponderosa (Air), The
+M:4/4
+H:13/11/2018
+L:1/8
+K:G
+P:A
+D GA |: "G"B3G "D7/a"c3G | "G/b"dg fd "C"e3f | "G"gf ed "G/b"cB AG | "Am7"ed cG "D7"A2 GA | 
+"G"B3G "D7/a"c3G | "G/b"dg fd "C"e3f | "G"gf ed "G/b"cB AG |1 "Am7"E2 "D7"F2 "G"GD GA :|2 "Am7"E2 "D7"F2 "G"Gd gf ||
+P:B
+"C"e3g "G/b"d3G | "C6"ed cG "D7"A2 GA | "Em7"B3d "C"cB AG | "Am7"ed cG "D7"A2 gf |
+"C"e3g "G/b"d3G | "C6"ed cG "D7"A2 GA | "Em7"B3d "C"cB AG |1 "Am7"E2 "D7"F2 "G"Gd gf :|2 "Am7"E2 "D7"F2 "G"GD GA |]
+
+X:37
+T:Beltane (2x Bourr\'ee)
+T:Tune 1
+C:Andrew Swaine
+Q:1/4 = 126
+M:2/4
+L:1/8
+K:Am
+%%MIDI gchord b2zb
+P:A
+|:"Am"ae/e/ fe|^de cB|"Fmaj7"AA/B/ c"Dm7"A|B^d "E7"e2|\
+"Am"ae/e/ fe|^de cB|"Fmaj7"AA/B/ cA|"E7"^G2 E2:|
+P:B
+|:"Am"AA/B/ cA|cc/e/ cA|"Em/a"Be/e/ ^de|=dc BG|\
+"Am"AA/B/ cA|cc/e/ cA|"Em/a"BB/c/ BA|"E/a"^G2 E2:|
+T:Tune 2
+P:A
+|:"A drone"eE/E/ eE|eE/E/ eE|eE/E/ dE|cE dE|\
+eE/E/ eE|eE/E/ eE|"Fmaj7"[fF][fF] z[fF]|"B7"[^d^D]2 [e2E2]:|
+P:B
+|:"Am"AA/B/ cA|cc/e/ cA|"Em/a"BB/c/ BA|"E/a"^G2 E2|\
+"Am"AA/B/ cA|cc/e/ cA|"Em/a"BB/c/ BA|"E/a"[^G4e4]:|
+T:Tune 1 change chords (A)
+P:A
+|:"Dm"ae/e/ fe|^de cB|"Dm6"AA/B/ cA|B"E7"^d e2|"Dm"ae/e/ fe|
+[1 "Dm"^de cB|"Bm7b5"AA/B/ cA|"E7"^G2 E2:|2 "Dm"^de cA|"E"eE"/d"dE|"/c"cE "/b"BE||
+T:Tune 2 change chords (B)
+P:B
+|:"Dm"AA/B/ cA|cc/e/ cA|"E7"BB/c/ BA|^G2 E2|\
+"Dm"AA/B/ cA|cc/e/ cA|"E7"BB/c/ BA|[^G4e4]|
+"Dm"AA/B/ cA|cc/e/ cA|"E7"BB/c/ BA|^G2 E2|\
+"Fmaj7"AA/B/ cA|cc/e/ cA|"G6"BB/c/ BA|"E7/g#"^G2 e2:|
+
+X:38
+T:547 (2x Bourr\'ee)
+T:Tune
+C:Andrew Swaine
+%Q:1/4 = 126
+M:2/4
+L:1/8
+K:F
+%%MIDI gchord b2zb
+P:A
+|:"Dm"d2 dc|A2 zA|"D9(Am/d)"d>c de|f2 e2|\
+"Gm"d2 dc|"Gm/e"A2 zB|"A7"A>G FE|"Dm"D2 z2:|
+P:B
+|:"Gm"B>A GB|"A7"A>G FE|"Dm"D>E F/2E/2D|"D7/f#"A2 zA|\
+"Gm"B>A GB|"A7"A>G FE|1"Dm".D2 A2|A2 A2:|2"Dm".D2 d2|d2 d2||
+T:Harmony
+P:A
+|:"Dm"D2 zD|D2 zD|"D9"D2 E2|F2 ^F2|\
+"Gm"G2 zG|"Gm/e"E2 zE|"A7"A>G FE|"Dm"D2 z2:|
+P:B
+|:"Gm"G>F ED|"A7"^C>D EC|"Dm"D>^C DE|"D7/f#"^F2 zF|\
+"Gm"G>F ED|"A7"^C>D EC|"Dm".D2 z2|z4:|
+
+X:39
+T:All White (2x Bourr\'ee)
+T:Tune
+C:Andrew Swaine
+%Q:1/4 = 126
+M:2/4
+L:1/8
+K:C
+%%MIDI gchord b2zb
+P:A
+|:"Am"e>d ce|"Em"d>c Bd|"Am"c>d cB|A4|\
+"D"A>B c/2B/2A|"G"Bc d2|"Bm7"d>c d^d|"E7"e4:|
+P:B
+|:"Dm"f>e df|"E7"^ge- ed|"Am"c>B cd|"Em7"e4|\
+"F"A>B ce|"G"d>c Bd|"Am"cA AG|1Ae ee:|2A4||
+T:Harmony
+P:A
+|:"Am".A2 .A2|"Em"(3G2F2E2|"Am"^D2 E2|A4|\
+"D"D>E ^FD|"G"G2 zG|"Bm7"A2 ^A2|1"E7"B2 ^G2:|2"E7"B2 e2||
+P:B
+|:"Dm"d>c BA|"E7"^G2 zG|"Am"A>G FE|"Em7"E2 zE|\
+"F"D>E FA|"G"G>A Bd|"Am".c2 .B2|A4:|
+
+%%newpage
+
+X:40
+T:Shippea Hill (2x Bourr\'ee)
+C:Andrew Swaine
+H:11/1/08
+M:2/4
+%Q:1/4 = 126
+L:1/8
+K:G
+%%MIDI gchord b2zb
+P:A
+|:"C"B2c2|"Am7"A3G|"D7"F>G AF|"Em7"GA BG|"C"B2c2|"Am7"A3G|"D7"F>G AF|
+[1 "G"GD GA:|2 "G"Gd dd|:[P:B] "C"e>d cB|"D"A>B ce|"G"dd/c/ BA|"Bm7"GA Bd|
+"C"c>B AG|"D"F>G AF|1 "G"GA "/a"B"/b"d-|dd Bd:|2 "Em7"GA B"D/f#"A-|AG FA|]
+
+X:41
+T:Shepherd's Wheel (2x Bourr\'ee)
+C:Andrew Swaine
+H:2/5/15
+M:2/4
+L:1/8
+K:Ddor
+P:A
+|:"Dm"d2f2|"C"ed/c/ BA|"G9"d>c BA|F"Am"A FD|"Dm"d"<("">)"D df|\
+"C"e/f/e/d/ cA|"G9"B>A Bc|1d3 A:|2de fg||
+P:B
+|:"Dm"[da]>g f[d-a-]|[da]g fg|"F6"[ca]>g f[c-a-]|[c4a4]|\
+"G9"[Ba]>g fe|de fd|1"Bbmaj7"e2ef ed|"A7"^cA fg:|2"A7"e2ef ed|^cA Bc||
+
+X:44
+T:Diminishing Returns (2x Bourr\'ee)
+C:Andrew Swaine
+H:30/12/11
+M:2/4
+L:1/8
+K:G
+P:A
+"G7"=f2 f2|"Gdim"e>d ^ce|"Cdim"_e>d =ce|"D7"dg fa|"G7"=f2 f2|"Gdim"e>d ^ce|"Cdim"_e>d =ce|1 "D7"d4:|2 "D7"d2 c2||
+P:B
+|:"G"B>c dB|"B7"^d>c Bd|"Em"e>B eg|"D7"fe de/f/|"G"g>a bg|"B7"ag f^d|"C"e>d ce|1 "D7"d2 c2:|2 "D7"d2 "<("">)"e2|]
+
+%%newpage
+
+X:42
+T:You'd Better Put That Back (2x Bourr\'ee)
+C:Andrew Swaine
+H:5/7/12
+M:2/4
+L:1/8
+K:D
+P:A
+"A9"e2e2|ed/c/ Ac|"G/a"d>c BA|GA Bd|"A9"e2e2|ed/c/ Ac|"G/a"d>c BA|1 B4:|2 BA Bc||
+P:B
+|:"D"d>e fd|"G"gf ed|"A"cd BA-|AB cA|"Bm7"d>e fd|1"G"gf d"A"e-|e4-|e4:|2"D6"ga b"E7"e-|e4|z4|]
+
+X:43
+T:Gateau in the Chateau (2x Bourr\'ee)
+C:Andrew Swaine
+H:5/7/12
+M:2/4
+L:1/8
+K:G
+P:A
+"A7"e>f ga-|ag fe|"C"e>f ga-|aa ga|"G"b>a gf|df gb|"D"aa/g/ fe|fg fd:|
+P:B
+"Em"e>f ge|"D/f#"fg af|"G"gd c"/b"B-|BB AB|"C"c>d ec|"Am7"AB cA|"D"dd/e/ fd|"B7/d#"B^c ^dB|
+"Em"e>f ge|"D/f#"fg af|"G"gd c"/b"B-|BB AB|"C"c>d ec|"D"de fd|"Em6"ee/f/ gb|"F#m7"af ^c^d|]
+
+X:46
+T:Encliffe Park (3x Bourr\'ee)
+C:Andrew Swaine
+H:17/11/16
+M:3/8
+L:1/8
+K:Gm
+P:A
+D|:"Gm"GG/A/B|"Cm"cAG|"Dm"F/G/AF|"Gm"GAB|"Cm"c>dc|"Gm"BAG|1"Am"^F/G/AF|"D7"D2D:|2"D7"^F/G/AF|"Gm"G2A||
+P:B
+K:G
+|:"G"B>cd|"C"c>de|"D"def|"Em7"gfe|"G"d>cB|1"C"c>BA|"Am7"BcB|"D"A2A:|2"C"cB"/d"A|"G"G/A/BA|G2||
+
+X:47
+T:Megatron (3x Bourrée), The
+M:3/8
+L:1/8
+K:C
+H:25/7/2017
+P:A
+C/D/E | "F"FGA | "G"Gc>B | "C"cde | GG/F/E | "F"F>GA | "C"GFE | "Dm"F/E/DC | "G7"D2E | 
+"F"F>GA | "G"Gc>B | "C"cde | GG/F/E | "F"FGA | "G"Gc>B | "C"c3- | c||
+P:B
+zG | "C"cec | "Gm"G>A_B | "Dm"AcA | "Fm"F>G_A | "Cm"GcG | "Fm"F>_ED | "Am7b5"_E/D/CD/E/ | "Dm7b5"FG/A/"G7"B | 
+"C"cec | "Gm"G>A_B | "Dm"AcA | "Fm"F>G_A | "Cm"GcG | "Fm"F>ED | "G7"_E/D/CB, | "Cm"C ||
+P:Coda
+C/D/E | "F"F>GA | "G"Gc>B | "C"c3- | c ||
+
+X:49
+T:Moorfoot (3x Bourrée)
+M:3/8
+L:1/8
+K:Dm
+P:A
+"Dm"Ade | "Bb"f>ed | "Gm6"^cde | "A7"A2A | "Gm6"BB/A/G | "F6"AA/G/F | "Em7"EFG | "A7"AA/F/D |
+"Dm"Ade | "Bb"f>ed | "Gm6"^cde | "A7"A2A | "Gm6"B2G | "Cm6"c2A | "A7"^c3- | c2a ||
+P:B
+"Gm6"gg/f/e | "Dm"ff/e/d | "A7"^ceg | "Dm"fda | "Gm6"gg/f/e | "Dm"ff/e/d |1 "A7"a3- | a2a :|2 "A7"^cde | A3 |]
+
+%%newpage
+
+X:50
+T:Marengo (Slip Jig)
+C:Andrew Swaine
+H:1/1/05
+%Q:3/8 = 120
+M:9/8
+L:1/8
+K:Am
+P:A
+|:"Am"A2B cBA "Ddim"^G2A|"E7"B2c B2^G E3|"Am"A2B cBA "Ddim"^G2A|"E7"B2c B2^G "Am"A3:|
+P:B
+|:"Am"e2d cBA "F"G2A|"G"B2c B2G "Em"E3|"Am"e2d cBA "F"G2A|"G"B2c "Em"B2G "Am"A3:|
+
+X:51
+T:Jango (Slip Jig)
+C:Andrew Swaine
+H:12/2/08
+%Q:3/8 = 120
+L:1/8
+M:9/8
+K:D
+P:A
+|:"D"D2E FED FED|"A/e"E2F GFE GFE|"D/f#"F2G AGF AGF|"G"GAB "A"ABc "D"d3:|
+P:B
+|:"D"d2e fed fed|"A"c2d ecA ABc|"Bm7"B2c dBG GAB|"G"ABA "A"GFE "D"D3:|
+
+X:52
+T:CB2 / Mango (Slip Jig)
+C:Andrew Swaine
+H:9/4/10
+%Q:3/8 = 120
+L:1/8
+M:9/8
+K:Am
+P:A
+|:"Am"A2e z2e d2c|"G"d2G z2A BAG|"Am"A2e z2e d2c|"D"d2g ^fed "Em"e3|
+"Am"A2e z2e d2c|"G"d2G z2A BAG|"F"A2B c2d e2c|"G"d2B A2G "Am"A3:|
+P:B
+|:"Am"A2a z2a g2a|"Em"b2e z2e d2e|"Am"A2a z2a g2a|"Em"b2a g2^f e3|
+"Am"A2a z2a g2a|"Em"b2e z2e d2e|"F"a2g f2e d2c|"G"ded c2B "Am"A3:|
+
+X:53
+T:Mange Tout (Jig)
+T:Tune
+C:Andrew Swaine
+%Q:3/8 = 112
+M:6/8
+L:1/8
+K:Em
+P:A
+|:"Em"E2B B2A|"C"G2F EFG|"D"F2A A2G|"Bm"F2E DEF|
+"Em"E2B B2A|"C"G2F EFG|"D"F2G- GA2|1 "B7"BGF E2D:|2 "Em"BGF E2D||
+P:B
+|:"C"E2E EFG|"D"F2F FGA|"G"B2B BAG|"Bm7"A2A AGF|
+"C"E2E EFG|"D"F2F FGA|"G"B2A- AG2|1 "B7"A2G- GF2:|2 "D/f#"A2G- GF2|]
+T:Harmony 1
+P:A
+|:"Em"e2e efg|"C"c2c cde|"D"d2d def|"Bm"BcB Bcd|
+"Em"e2e efg|"C"c2c cde|1"D"d2d- dd2|"B"^d2d- dd2:|2"D"ddd g2f|"Em"e2d e2d||
+P:B
+|:"C"c2c cde|"D"ded d2A|"G"B2B BAG|"Bm7"GBB BAB|
+"C"c2c cde|"D"ded d2A|"G"ABB ABB|1 "B7"BGF E3:|2 "D/f#"BGF E3|]
+T:Harmony 2
+P:A
+|:"Em"E2e z2c-|"C"c3 z3|"D"A2d z2B-|"Bm"B3z3|\
+"Em"E2e z2c-|"C"c3 z3|1"D"d2c B2A|"B7"B2A G2F:|2"D"ABB ABB|"Em"BGF E3||
+P:B
+|:"C"C3 G3|"D"F3 D3|"G"B,3 B,3|"Bm7"D3 B,3|\
+"C"C3 G3|"D"F3 D3|1"G"E3 D3|"B7"C3 B,3:|2"G"E3 F3|"D/f#"G3 A3|]
+
+X:54
+T:Ensign Red (Jig)
+C:Andrew Swaine
+H:6/9/03
+%Q:"Fast" 3/8 = 126
+M:6/8
+L:1/8
+K:Gm
+P:A
+|:"Gm"ggg gfe|ddd dcB|"F"ccc cde|"D7"ddd de^f|
+"Gm"ggg gfe|ddd dcB|"F"cdc "D7"B2A|1 "Gm"Ggg ggg:|2 "Gm"G3 "Dm7"A3||
+P:B
+|:"Eb"BBB Bcd|"F"ccc cde|"D7"ddd g2a|"Gm".b3 "D7"a3|
+"Gm"ggg gfe|ddd dcB|"F"cdc "D7"B2A|1 "Gm"G3 "Dm7"A3:|2 "Gm"G"<("gg gg">)"g|]
+
+X:55
+T:Castle Mound (Jig)
+C:Andrew Swaine
+H:8/1/06
+%Q:3/8 = 112
+M:6/8
+L:1/8
+K:G
+P:A
+|:"Em"e2e gfe|"D"d2f- f2d|"C"c2c edc|"Bm7"B2d- d2B|"Am"c2A ABc|
+"G"B2G GAB|[1 "F#m7"ABA G2E|"B7"B2z B3:|24 "B7"ABA G2F|"Em"E3 B3||
+P:B
+|: "C"c2c cde|"D"f2d- def|"Em"e2B e2f|"Em"g2e efg|"Am"a2a agf|
+"Em"g2g gfe|1 "B"^d2e f2B-|"B7"B2B BAB:|2 "B7"^def e2d|"Em"e3 "<("">)"B3|]
+
+X:56
+T:Turning the Corner (Jig)
+C:Andrew Swaine
+H:25/11/07
+%Q:3/8 = 112
+M:6/8
+L:1/8
+K:Em
+P:A
+|:"Em"E2G B2^d|e2B G2F|E2F GBc|B3- BAG|"Am"A2c- c2A|
+"G6"G2B- B2G|1 "D/f#"FGA B2c|"B7"B3- BAF:|2 "B7"FGA G2F|"Em"E6||
+P:B
+"B"^D2D- D2E|"B7"FGA G2F|"Em"E2F G2A|B6|"F#"^A2A- A2B|"F#7"^cdc B2^A|"B"B2F G2F|"B7"B6|
+"C6"c2c- cBA|"Bm7"B2B- BAG|"B7/d#"ABA G2F|"Em"E3 E2D|"Am"C2c- c2C|"G"B,2B- B2G|"B7"ABA G2F|"Em"E6|]
+
+X:57
+T:May I Please Go to Bed (Jig)
+C:Andrew Swaine
+H:15/7/11
+%Q:3/8 = 112
+M:6/8
+L:1/8
+K:Dm
+P:A
+"Dm"fga "C"efg|"Bb"def "A7"^cde|"Dm"def "Gm"e2d|"A7"^c2A-A2A|\
+"Gm"Gde fed|"F6"FAd f2f|"E7"efe d2^c|"A7"A6|
+"Gm"gab "F"fga|"Em"efg "A7"^cde|"Dm"def "Gm"e2d|"A7"^c2A-A2A|\
+"Gm"Gde fed|"F6"FAd f2f|"E7"efe d2^c|"A7"A6||
+P:B
+|:"Gm"gfe g2g|"Dm"fed f3|"E7"e^de g2^g|"A7"a3 _a3|\
+"Gm"gfe g2g|"Dm"fed f3|"E7"efe d2^c|"A7"A6:|
+P:C
+|:"Dm"d_dc BAG|F2d D2D|"C"CDE EDC|"Dm"DEF A2A|\
+"Dm"d_dc BAG|F2d D2D|"C"CDE EDC|"Dm"D6:|
+
+X:58
+T:Vertical Challenge (Jig)
+C:Andrew Swaine
+H:6/1/07
+%Q:"Fairly slow, Morris speed" 3/8 = 80
+M:6/8
+L:1/8
+K:G
+P:A
+|:dc|"G"B>AG GAB|"D"A2F D2D|"C"E>FG cBA|"D"FGA Ddc|
+"G"B>AG GAB|"D"A2F D2D|"C"E>FG cBA|"D"FGA "G"G:|
+P:B
+|:zd|"G"g2d "C"e2c|"D"Bcd "G"G2F|"C"E>FG cBA|"D"FGA def|
+"G"g2d "C"e2c|"D"Bcd "G"G2F|"C"E>FG cBA|"D"FGA "G"G:|
+
+X:59
+T:Jig of Compliance
+C:Andrew Swaine
+H:21/9/11
+M:6/8
+L:1/8
+K:C
+P:A
+"C"gfe fed|edc dcB|"F"ABc "C"Gce|"Dm"f2e "G"d3|"C"gfe fed|edc dcB|"F"ABc "Dm7"Fcf|"G"e2d "C"c3:|
+P:B
+|:"C"efg d3|cde B3|"F"ABc "C"Gce|"Dm"f2e "G"d3|"C"efg d3|cde B3|"F"ABc "Dm7"Fcf|"G"e2d "C"c3:|
+
+X:60
+T:Champagne Jig
+C:Andrew Swaine
+H:1/1/12
+M:6/8
+L:1/8
+K:D
+P:A
+F2G|"D"A2d f2f|edc d2A|"G"B2d "D/f#"A2d|"Em"GAF "A"Edc|"G"B2G BdB|"D"A2F AdA|"G"B2B AGF|"A7"E3:|
+P:B
+|:F2G|"D"AFA "G"BGB|"A"cAc "Bm7"def|"G"g2g fed|"A7"cdB Adc|"G"B2d g2g|"D"A2d f2f|"G"egf edB|"A7"A3:|
+
+X:61
+T:Mophead (Jig)
+C:Andrew Swaine
+H:30/12/11
+M:6/8
+L:1/8
+K:G
+P:A
+"G"GBG dGe|"Em"dBA GAB|"C"cBA BAG|"D"FAF DEF|
+"G"GBG dGe|"Em"dBA GAB|"C"cBA GFE|1 "D"D3 DEF:|2 "D"D3 G2F||
+P:B
+|:"C"EGG "G"DGG|"C"EGG "G"DGG|"C"EGG GFG|"D"AcB A2G|
+"C"EGG "G"DGG|"C"EGG "G"DGG|"C"EGG GFG|1 "D7"AGF "G"G2F:|2 "D7"ABc def||
+P:C
+|:"G".g3 f3|"C"edc "D"d2c|"G"BdB eBg|"D"faf def|
+"Em".g3 "D"f3|"C"edc "D"d2e|"G"dBd AdG|1 "D7"F3 def:|2 "D7"F3 DEF|]
+
+X:62
+T:Butterscotch Jig
+C:Andrew Swaine
+H:23/12/11
+M:6/8
+L:1/8
+K:Am
+P:A
+"Am"AcA e2e|"F"AcA f2f|"C"edc cde|"G"dcB BcG|
+"Am"AcA e2e|"F"AcA f2f|"C"edc cde|1 "G"B6:|2 "G"B3 A2B:|
+P:B
+|:"Am"cAc "G/b"dBd|"C"efg "F"agf|"C"edc cde|"G"dcB BdB|"Am"cAc "G/b"dBd|
+"C"efg "F"agf|1 "C"edc cde|"G"B3 A2B:|2 "C"edc "G"BcG|"Am"A6|]
+
+X:63
+T:Mind the Gap (Jig)
+C:Andrew Swaine
+H:22/2/14
+M:6/8
+L:1/8
+K:Am
+P:A
+"Am"efe dcB|cdc BA^G|ABc "E7"EA^G|"Am"ACD "/c"E3|"Dm"DEF FED|
+"Am"EAB cBA|1 "B7"^GAB B^c^d|"E7"edc Bcd:|2 "E7"B^AB edB|"Am"A6||
+P:B
+"Dm"fed def|"Am"ede A2A|"E7"B^AB edB|"Am"ABc "/c"cde|"Dm"fed def|
+"Am"ede A2A|"B7"B^c^d de^f|1 "E7"e3 z3:|2 "E7"efe e^f^g||
+P:C
+"Am"aea "E7"^g3|"C"=geg "D"^f3|"G"gdg "D"^f3|"F"=fdf "C"e3|"Dm"fed def|
+"Am"ede A2A|"B7"B^c^d de^f|1 "E7"efe e^f^g:|2 "E7"B^AB edB|"Am"A6|]
+
+X:64
+T:Sea and Cider (Rondeau)
+C:Andrew Swaine
+H:13/11/16
+M:6/8
+L:1/8
+K:Em
+P:A
+"Em"e2g gfe|^d2e B2B|"C"cBA G2A|"D"BAG "B7"F2B|"Em"E2g gfe|^d2e B2B|"Am"A2B cBA|"B7"B2e ^def:|
+P:B
+|:"C"g2f efg|"G"d2c B2B|"Am"c2B ABc|"Em"B2G E3|"C"g2f efg|"G"d2c B2B|"Am"A2B cBA|"B7"B2e ^def:|
+
+X:65
+T:The Fertile Imagination (Waltz)
+T:Tune
+C:Andrew Swaine
+H:23/1/04
+%Q:1/4 = 126
+M:3/4
+L:1/8
+K:Am
+P:A
+E AB|"Am"c3B A^G|A2 E2 E2|"F6"F3A FD|"C/e"E4 C2|"Dm"D3E FD|"C6"E2 A2 B2|"Bm7"c3B Ac|"E7"B3c/B/ AB|
+"Am"c3B A^G|A2 E2 E2|"F6"F3A FD|"C/e"E4 C2|"Dm"D3E FD|"Am"E2 A2 B2|"E7"c3B A^G|"Am"A3E AB||
+P:B
+"Am"c2 cB Ac|"G/b"d2 dc Bd|"C"e2 ed cB|"Fmaj7"A2 E2 E2|"Dm7"F3A FD|"C6"E2 A2 B2|"Bm7"c3B Ac|"E7"B3c/B/ AB|
+"Am"c2 cB Ac|"G/b"d2 dc Bd|"C"e2 ed "/b"cB|"Am"A2 E2 E2|"F"F3A FD|"C"E2 A2 B2|"E7"c3B A^G|"Am"A3|]
+T:Harmony
+P:A
+z z2|"Am"cd ed cB|c2 A2 A2|"F6"FG A2 F2|"C/e"G2 E4|"Dm"F2 A4|"C6"A2 c4|"Bm7"cd ed ce|"E7"d2 B4|
+"Am"cd ed cB|c2 A2 A2|"F6"FG A2 F2|"C/e"G2 E4|"Dm"F2 A4|"Am"A2 c4|"E7"cd ed cB|"Am"A6||
+P:B
+"Am"cd ed c2|"G/b"de fe d2|"C"ef gf ed|"Fmaj7"e4 d2|"Dm7"c2 A4|"C6"c2 A4|"Bm7"c2 A2 c2|"E7"B6|
+"Am"cd ed c2|"G/b"de fe d2|"C"ef gf "/b"ed|"Am"e4 d2|"F"c2 A4|"C"c2 G4|"E7"E2 c2 B2|"Am"A3|]
+
+X:66
+T:Low Flying Waltz
+C:Andrew Swaine
+H:2001?
+%Q:"Quite fast" 1/4 = 200
+M:3/4
+L:1/8
+K:Am
+P:A
+|:"Am"[eA]2 [eA][dA] [eA]2-|[eA][dA] [eA][dA] [eA][dA]|[eA]2 d2 "/b"[cA]2|"C"[GE]2 z2 [GE]2|
+"F"[AF]B c[AF] Bc|"G"[BG]2 A2 G2|"F"[AF]B c[AF] Bc|"G"[BG]c d[BG] cd|
+"Am"[eA]2 [eA][dA] [eA]2-|[eA][dA] [eA][dA] [eA][dA]|[eA]2 d2 "/b"[cA]2|"C"[GE]2 z2 [GE]2|
+"F"[AF]B c[AF] Bc|"G"[BG]A GA [BG]G|\
+"F"(3AAA AB "G"AG & D3zD2|1 "Am"[AE]2 zB cd:|2 "Am"[AE]2 E2 E2||
+P:B
+|:"F"FG AF Ac|"G"(3BcB AG AB|"C"cd ec de|"/e"(3ded cd cB|
+"F"AB cA Bc|"G"BA GA BG|"Am"(3AAA AB "/b"AG|"C"E2- EF/E/ DE|
+"F"FG AF Ac|"G"(3BcB AG AB|"C"cd ec de|"/e"(3ded cd cB|
+"F"AB cA Bc|"G"BA GA BG|"Am"(3AAA AB AG|1 "Am"A2 E2 E2:|2 "Am"AG AB cd|]
+
+X:67
+T:Welney Wash (Waltz)
+C:Andrew Swaine
+H:20/1/07
+%Q:1/4 = 126
+M:3/4
+L:1/8
+K:C
+P:A
+|:CD|"C"E3D EF|G2C2GG|"F"A2F2A2|"C/e"G4^G2|"F"A3B cB|"C/e"A2G2EG|1 "Dm"AGF2E2|"G7"D4:|2 "G"F2E2D2|"C"C4||
+P:B
+|:G2|"C"c3B cd|e2c2Gc|"F"A2F2A2|"C/e"G4^G2|"F"A3B cB|"C/e"A2G2EG|1 "Dm"AGF2E2|"G"D4:|2 "G"F2E2D2|"C"C4|]
+
+X:68
+T:Sizzling Beef (Waltz)
+C:Andrew Swaine
+H:8/4/08
+M:3/4
+%Q:1/4 = 184
+%%MIDI gchord fcc
+L:1/8
+K:Dm
+P:A
+|:"Dm"d6- & z4"/a"A2|"Bb"d3c BA & B3zz2|"C"G2A2B2|"Am"AB AG FE|\
+"Dm"z2 d4- & D4 "/a"A2|"Bb"d2 c2 d2 & B2z4|"F"[Fc][Fc].[Fc]2"/g"[Gc]2|"A7"[^c6A6]|
+"Dm"d6- & z4"/a"A2|"Bb"d3c BA & B3zz2|"C"G2A2B2|"Am"AB AG FE|\
+"Bb"DE FD EF|"C"EF GE FG|"E7"[AE][AE] .[A2E2] [^G2E2]|"A7"[A6E6]:|
+P:B
+|:"Bb"B4d2 & z2F2F2|"C"[c4G4]G2|"F"A2AB "/e"AG|"Dm7"F2G2"/c"A2|\
+"Bb"B4d2 & z2F2F2|"C"[c4G4]G2|"F"A2 AB"/g"AG|"A7"A4{BA} GA|
+"Bb"B4d2 & z2F2F2|"C"[c4G4]G2|"F"A2AB AG|"C/e"F4E2|\
+"Dm"DE FD EF|"C"EF GE FG|"G9"[AF][AF] .[A2F2] [^G2F2]|"A7"[A6E6]:|
+
+X:69
+T:Nest on the vine (Waltz)
+C:Andrew Swaine
+H:4/4/08
+M:3/4
+%Q:1/4 = 184
+K:Dm
+L:1/8
+P:A
+|:A2|"Dm"d6-|"Bb"d3e fd|"C"c2e2c2|"Am7"B2A2c2|"Dm"d6-|"Bb"def2d2|"F"aga2b2|"C/e"a2g2fe|
+"Dm"d6-|"Bb"d3e fd|"C"c2e2c2|"Am7"B2A2c2|"Bbmaj7"def2a2|"Gm6"gfe2g2|"A7"fed2^c2|"Dm"d4:|
+P:B
+|:d2|"C"e3fg2|"Dm"f3ga2|"C/e"g2a2b2|"F6"a2c2a2|"Bbmaj7"g2B2g2|"Dm/A"f2A2f2|"E7"e3f ed|"A7"A4d2|
+"C/e"e3fg2|"F"f3ga2|"Gm"g2a2b2|"Dm"a2d2a2|"C"g2c2g2|"Bbmaj7"f2B2f2|"A7"e2d2^c2|"Dm"d4:|
+
+X:70
+T:Musical Chairs (Waltz)
+C:Andrew Swaine
+H:16/6/08
+M:3/4
+%Q:1/4 = 144
+L:1/4
+K:A
+T:Tune
+P:A
+A/F/|"A;A"E>FE|"/c#;/c#"AEA|"E;E"BAB|"A;F#m7"c>B ";/g#"c/d/|\
+"A;A"ecA|"E;E"B2 A/B/|"A;F#m7"cA "/c#;/e"E|"D;D"F2 A/F/|
+"A;A"E>FE|"/c#;/c#"AEA|"E;E"BAB|"A;F#m7"c>B ";/g#"c/d/|\
+"A;A"ecA|"E;E"B2 A/G/|"D;A/d"A3-|A2||
+P:B
+c/d/|"A;A"ecA|"E;Bm7"B2 A/B/|"F#m7;C#m7"cA "/e;"E|"D;D"F2";/e"A/F/|\
+"A;A"EAc|"E;E/g#"BAB|"F#m7;F#m7"cde|"E;E"B2 c/d/|
+"A;A"ecA|"E;Bm7"B2 A/B/|"F#m7;C#m7"cA "/e;"E|"D;D"F2";/e"A/F/|\
+"A;A"EAc|"E;E"B2 A/G/|"D;A/d"A3-|A2|]
+T:Harmony
+P:A
+A/B/|"A"c>B c/d/|"/c#"ece|"E"efg|"A"a>a g/f/|\
+"A"ece|"E"dcB|"A"A/B/ cA|"D"d>d c/B/|
+"A"c>B c/d/|"/c#"ece|"E"efg|"F#m7"a>a "/g#"g/f/|\
+"A"ece|"E"dcB|"A/d"A3-|A2||
+P:B
+c/d/|"A"eag|"Bm7"f2 e/d/|"C#m7"eag|"D"f2 "/e"e/d/|\
+"A"eaa|"E/g#"geg|"F#m7"fdf|"E"e>d c/B/|
+"A"A A/B/ c|"Bm7"dcB|"C#m7"c c/d/ e|"D"f>e "/e"f/g/|\
+"A"a/g/ f/e/ d/f/|"E"e/f/ e/d/ c/B/|"A/d"A3-|A2|]
+
+X:71
+T:Romsey Rec (Waltz)
+C:Andrew Swaine
+H:28/10/06
+%Q:1/4 = 126
+M:3/4
+L:1/8
+K:C
+P:A
+|:G AG|"C"c3d ec|"Em7"G2c2B2|"F"AB ce dc|"G"de dc BG|"C"c3d ec|"Em7"G2c2B2|"F"AB ce dc|"G7"d3:|
+P:B
+|:G cd|"Em7"e2g2e2|"F"f2a2f2|"G"de fg fd|"C"ef ed cd|"Am7"e2g2e2|"F"f2a2f2|"G"de fg fd|"C"c3:|
+
+X:72
+T:Bellandur (Waltz)
+C:Andrew Swaine
+H:9/10/09
+%Q:1/4 = 184
+M:3/4
+L:1/8
+K:D
+P:A
+|:d fg|S"D"a2 f2 a2|"G"g2 e2 g2|"D"fe de fd|"A"e2 ef ge|"D"a2 f2 a2|
+"G"g2 e2 g2|"D"fg fe dc|1 "A"A3 d fg:|2 "A"A4 A2||
+P:B
+|:"G"Bc dB cd|"A"cd cB AG|"D"F2 D2 F2|"/f#"A4 A2|"G"Bc dB cd|
+"A"cd ec de|1 "D"d2 a3g|"F#m7"fg fe dc:|2 "D/f#"de fd ef|"A/c#"ef ge fg+D.S.+|]
+
+X:73
+T:Alison's Waltz
+C:Andrew Swaine
+H:22/8/11
+%Q:1/4 = 138
+M:3/4
+L:1/8
+K:C
+P:A
+def|:"C"g2e3f|"C/e"g2e3f|"F"g2e2g2|"G"d4f2|"Am"e3f ed|
+"F"c3d cA|1 "C"G2c2e2|"G"d4ef:|2 "G"g2c4-|"C"c3d ef||
+P:B
+|:"C"g2c'3b|"F6"a3b ag|"Dm7"f2e2f2|"G7"g3f ed|"Am7"e2c3d|
+[1 "F6"e2c3d|"Dm7"e2c2A2|"G7"G3d ef:|2 "Dm7"e2cd cA|"G7"G2c4|"C"c3|]
+
+X:74
+T:Night Everlasting (Waltz)
+C:Andrew Swaine
+H:12/1/12
+M:3/4
+L:1/4
+K:Gm
+P:A
+"Gm"BG>A|BGA|"Eb"BG>A|BGA|"Bb"BF>A|Bdc|"F"A3-|A3:|
+P:B
+|:"Cm"c>de|Ged|"Gm"B>cd|Gdc|"F"A>Bc|FcB|"Eb"G3-|G3:|
+
+X:75
+T:Galactic Waltz
+C:Andrew Swaine
+H:21/12/12
+M:3/4
+L:1/8
+K:Em
+P:A
+"Em"B2 EB EB|"F#7"^A2 EA EA|"C7"G2 EG EG|"B7"F4 EF|"Em"G3A ^AB|"D"A2 G2 F2|"C7"E3F GE|"F#7"^A6|
+"Em"B2 EB EB|"F#7"^A2 EA EA|"C7"G2 EG EG|"B7"F4 EF|"Em"G3A ^AB|"D"A2 G2 F2|"C7"E4 D2|"Em"E6|
+P:B
+"Em"e2 Be Be|"B7"^d2 Bd Bd|"C"c2 Gc Gc|"G"B4 AB|"C"c3d ^de|"G"B2 A2 G2|"D"A3B AG|"B7"F6|
+"Em"e2 Be Be|"B7"^d2 Bd Bd|"C"c2 Gc Gc|"G"B4 AB|"C"c3d ^de|"G"B2 A2 G2|"D"F3A GF|"Em"E6|
+
+X:76
+T:Staffie (Waltz), The
+C:Andrew Swaine
+H:10/7/11
+M:3/4
+L:1/8
+K:G
+P:A
+D GA|"G"B2 d3e|"D"A4 GA|"Em"B2 A3G|"C"E3G "D"FE|\
+"G"D2 B3D|"D"D2 A3F|"C6"G3A Bc|"D7"B4 AB|
+"G"B2 d3e|"D"A4 GA|"Em"B2 A3G|"C"E3G "D"FE|\
+"G"D2 B3D|"D"D2 A3F|G6- & "C"x2 "/b"x2 "/a"x2|"G"G3 G "D/f#"Bd||
+P:B
+"Em"g2 f3e|"D"d4 Bd|"C"e2d2 "D"c2|"G"B3 G "D/f#"Bd|\
+"Em"g2 f3e|"D"d4 Bd|"C"e2d3B|"D"A4 GA|
+"Em"B2 d3e|"D/f#"A4 GA|"G"B2 A3G|"C"E3G "D"FE|\
+"G"D2 B3D|"D"D2 A3F|G6- & "C"x2 "/b"x2 "/a"x2|"G"G3|]
+
+X:77
+T:Lament for Jabez Clegg (Waltz)
+C:Andrew Swaine
+H:7/12/2013
+M:3/4
+L:1/8
+K:A
+P:A
+"Dmaj9"A2 e3A|e6|"E7/d"G2 e3G|e6|"Dmaj9"A2 e3A|e6-|"E7/d"ed cB AG|AB cd cB:|
+P:B
+|:"A"A2 c3A|"D"d6-|"Bm7"dc Bc dB|"E"e3 e fg|\
+"F#m7"a2 e2 c2|"D"d6-|"Bm7"de fd ef|1"E7"ef ed cB:|2"E7"e6|]
+T:Alternative A part
+P:A
+"A"A2 e3A|e6|"E/a"G2 e3G|e6|"G/a"=G2 e3G|e6-|"D/a"ed cB AG|"E/a"AB cd cB:|
+
+X:78
+T:Penfold (5-Time Waltz)
+C:Andrew Swaine
+M:5/8
+%Q:1/4 = 144
+%%MIDI gchord fcfcc
+K:D
+L:1/8
+P:A
+"D"f2f "/c#"ef|"Bm7"d2d "A"cd|"G"B2d "/f#"cA|"Em7"Bcd "A"c/d/e|\
+"D"f2f "/c#"ef|"Bm7"d2d "A"cd|"G"B2d "/f#"cA|1"Em7"B3- "A"BA:|2"Em7"B2A/G/ "A"FE||
+P:B
+"D"D>EF "G"GE|"A"A2A dc|"G"B>cd AF|"A"E>FG "G/b"ED|"A/c#"E3- E2:|
+P:C
+"D"d2d cA|"G"B2d "A"BA|"D"d2f ed|"G"B3 "A"z2|"D"d2f ed|\
+"G"B2d BA|"A"E>FG "G/b"ED|"A/c#"E2"<("A d">)"e|]
+
+X:79
+T:Later in Coventry (5-Time Waltz)
+C:Andrew Swaine
+H:6/10/08
+M:5/8
+%Q:1/4 = 144
+%%MIDI gchord fcfcc
+K:Am
+L:1/8
+P:A
+"Am"AB cBA|"C"ag "D"^fed|"Dm"ef edc|"E"B2-BcB|\
+"Am"AB cBA|"C"ag "D"^fed|"Dm"ef edc|"E"e2-e3:|
+P:B
+|:"F"fd "C"edc|"G"dB "C"cde|"F"fd "C"edc|"G"G2-Gde|\
+"F"fd "C"edc|"G"dB "C"cde|"F"fd "C"edc|"G"g2-g3:|
+
+X:80
+T:Octarine (8-time Waltz)
+C:Andrew Swaine
+H:26/11/11
+M:8/8
+L:1/8
+K:Am
+P:A
+"Am"ABc "/c"edc "Dm"BA|"E7"^GAB "/b"E3- "/e"E2|"Dm"zfe "/a"dcB "/d"A^G|"E7"e3- "/b"e3- "/e"e2|
+"A7"ae^c Ace "Gm6"ge|"Dm"fed d2f "B7/d#"dc|"E7"Bcd "/b"E2f "/e"e^G|"Am"A3- "/e"A3- "/a"A2:|
+P:B
+|:"G"GBd "/d"gfe "/b"dB|"C"cde "/g"G3- "/c"G2|"A7"A^ce "/e"agf "/c#"ec|"Dm"d3- "/a"d3- "/d"d2|
+"Ddim/b"fed "/d"dcB "B7/d#"BA|"E7"^GAB "/b"E3- "/e"E2|"E7"zef "/b"eef "/e"e^G|"Am"A3-"/e"A3-"/a"A2:|
+
+X:81
+T:Transient View (Mazurka), A
+C:Andrew Swaine
+H:14/3/10
+%Q:1/4 = 132
+M:3/4
+L:1/8
+K:Cm
+P:A
+|:G/2 A>G|"Cm"e2- e>G A>G|"G7"d2-d>G A>G|"Fm"c2 c>e d>c|"G7"c2 =B>e d>c|"Fm"A2-A>e d>c|
+"Cm"G2-G>e d>c|"D7"^F>=A c>e d>c|"G7"c2 =B>g a>g|"G7/b"=B2-B>g a>g|"Bb6"_B2-B>g a>g|
+"Abmaj7"A2 A>g f>e|"G7"e2 d>g f>e|"Fm6"A2-A>f e>d|"Eb6"G2-G>e d>c|"D7"^F>=A c>e d>c|"G7"c2 =B3/2:|
+P:B
+|:G/ A>G|"Cm"g6- & z2 c2 "/f"e2|"G7"g2-g>g- g>g & d6|\
+"Fm"a>g f>e d>e|"Bb"f>g f>e "/b"(3def|"Cm"g6- & z2 c2 "/f"e2|
+"G7"g2-g>g- g>g & d6|"Fm7"a>g f>e d>e|"Bb7"f4 "/eb"B2|"Fm"A2-A>e f>e|"Cm"G2-G>d e>d|
+"Ab"f>e d>c d>e|"Bb"d4 "/eb"G2|"Fm"A2-A>e f>e|"Cm"G2-G>d c>d|"Abmaj7"e>g f>e d>c|"G7"=B2-B3/2:|
+
+X:82
+T:Armchair Dance (Mazurka), The
+C:Andrew Swaine
+T:Tune
+H:19/4/05
+M:3/4
+%Q:1/4 = 108
+K:Am
+L:1/8
+P:A
+E/ F>E|:"Am"e>A d>A c>A|"E7"B>^G "Am"A>E D>E|"F"F2- F>G A>F|"C"E2- E>E G>A|"Dm"D2- D>E F>D|
+"Am"C>D E>A B>A|1 "Fmaj7"e>A d>A c>A|"E7"B2- B>E F>E:|2 "E7"e>d c>B A>^G|"Am"A2- A>c B>A||
+P:B
+|:"E7/g#"^G>A B>d c>B|"Am"A>B c>c B>A|"E7"^G>A B>d B>c|"Am"A2- A>E A>G|
+[1 "F"F>G A>A G>F|"C"E>F G>G F>E|"Dm"D>E F>D C>D|"E7"E2 A2 A2:|
+[2 "F"F>G A>F A>B|"Dm7"c>B A>B (3cBA|"E7"e>d c>B A>^G|"Am"A2-A3/2|]
+T:Harmony
+P:A
+|:"Am"e4e2|"E7"^d2"Am"e2z2|"F"z2f2d2|"C"c2 z>c B>c|"Dm"d2 d>c (3Bcd|
+"Am"c2 c>B (3ABc|1 "Fmaj7"B2 e2 ^d2|"E7"e>f e>d c>d:|2 "E7"B2 A2 ^G2|"Am"A2 z>c B>A||
+P:B
+|:"E7"^G>E G>E G>E|"Am"A>E A>E A>E|"E7"B>E B>E B>E|"Am"c2 c>B (3ABc|"F"d2 d>c (3Bcd|
+[1 "C"c2 c>B (3ABc|"Dm"B2 e2 ^d2|"E7"e2 A2 A2:|2 "Dm7"c2 c>B (3ABc|"E7"B2 A2 ^G2|"Am"A4z2|]
+
+X:83
+T:Trojan Squirrel (Mazurka), The
+C:Andrew Swaine
+H:29/10/06
+M:3/4
+%Q:1/4 = 126
+K:Em
+L:1/8
+P:A
+|:"Em"E.B2B Ac|BG E3E|"D"DE F2 A2|"Em"G2 E3D|"C"CD E2 C2|"D"DE F2 D2|"Em"EF GB AG|"D"A3B/A/ GF:|
+P:B
+|:"G"G.d2Gd2|"D/f#"F.d2Fd2|"C/e"E.c2Ecd|"G/d"BA G2 B2|"C"cB Ac BA|
+"G/b"BA GB AG|1 "Am"AB cA Bc|"D7"de dc BA:|2 "Am"AB AG FE|"D"D4 "(Eb)""<("">)"^D2|]
+
+X:84
+T:Easter Snow (Mazurka)
+C:Andrew Swaine
+H:22/3/08
+M:3/4
+%Q:1/4 = 144
+%%MIDI ratio 2 1
+K:Am
+L:1/8
+P:A
+|:"Am"A>B- B>c- c>e|"Fmaj7"d>e d>c B>A|"E7"^G>A- A>B- B>E|"Fmaj7"c>B A>c "G6"B>E|
+"Am"A>B- B>c- c>e|"Dm7"d>e d>c B>d|"E7"e>f e>d c>B|"Am"A2 .a2 z2:|
+P:B
+|:"Dm"f>e- e>d- d>c|"G7"B>c d>f e>d|"C"e>d- d>c- c>B|"Fmaj7"A>B c>e d>c|
+"Dm7"d>c- c>B- B>A|"E7"^G>A B>d c>B|"Am"A>^G A>c B>G|1 "A7"A>B ^c>A c>e:|2 "Am".A2 z>"<("E F>">)"E|]
+
+X:85
+T:Indian Project (Mazurka), The
+C:Andrew Swaine
+H:30/9/08
+M:3/4
+%Q:1/4 = 144
+K:Dm
+L:1/8
+P:A
+|:"Dm"d^c d2A2|"Gm"BAB2G2|"A7"AB AG FE|"Dm"FED2FA|\
+"Dm"d^c d2A2|"Gm"BAB2G2|"A7"AB AG FE|"Dm"D6:|
+P:B
+"Dm"def2d2|"A"^cde3A|"Bb"Bcd2cB|"F"AGF2A2|\
+"Gm"BAB2G2|"Dm"AGA2F2|"E7"E2A2^G2|"A7"A4A2|
+"Dm"def2d2|"A"^cde3A|"Bb"Bcd2cB|"Dm"AFD2F2|\
+"Gm"GFG2E2|"Dm"FEF2D2|"A7"EDE2^C2|"Dm"D6|]
+
+X:86
+T:Hedgehogs and Whiskey (Mazurka)
+C:Andrew Swaine
+M:3/4
+L:1/8
+K:Am
+P:A
+G EG|:"Am"A2 AB cd|e2 A2 z2|"F"z2 f2 d2|"G"B2 c2 d2|\
+"Am"e2 A2 z2|"G"B2 G2 z2|"F"z2 A4-|1 A3c "G"BG:|2 A3e "G"dc||
+P:B
+|:"Am"A2 AG A2|"F"GA zG AB|"C"c2 ed ce|"G"d3e dc|\
+"Am"A2 AG A2|"F"GA zG AB|"C"c2 ed cB|1 "G"G3e dc:|2 "G"G3d eg||
+P:C
+|:"F"f2 fe dc|"G"B2 c2 d2|"E7"e2 ^GA Bd|"Am"cB cd eg|\
+"F"f2 fe dc|"G"B2 A2 G2|1 "Am"A2 BA GA|"Em"E4 g2:|2 "F"z2 A4-|A3|]
+
+X:87
+T:Gall Bladder Mazurka, The
+T:For Daisy
+C:Andrew Swaine
+H:2/1/12
+M:3/4
+L:1/8
+K:Gm
+P:A
+GA|"Gm"B2G3"(/c)"B|"Dm"A3G AB|"Cm"c2G3c & x4 "(/d)"x2|"Gm"B3A GA|"Gm"B2G3B|"F/a"c2A3c2|"Bb"d6-|d3c "F/a"BA|
+"Gm"B2G3"(/c)"B|"Dm"A3G AB|"Cm"c2G3c & x4 "(/d)"x2|"Gm"B3A GA|"Gm"B3d B"(/c)"G|"Dm"A4{BA}"(/bb)"GF|"Cm"G6-|G4:|
+P:B
+d2|"Gm"g2d3"(/c)"g|"D7"^f2d3f|"Bb"=f2d2"(/b)"f2|"C"e2c3e|"Gm"d2B2d2|"Bbdim/a"^c2B2c2|A6- & "D7"x4 "Cm/d"x2|"D7"A4d2|
+"Gm"g^f =f=e _ed|"Cm"cB cd ec|"Gm"dB GB "(/c)"dB|"Dm"A4 GA|"Cm"B3c dB|"Cm/a"c3d ec|"D7"d4-"(/e)"d2-|"(/f#)"d4 d2|
+"Gm"g2a3g & x4 "(/c)"x2|"D7"^f2d2z2|"Bb"=f2g3f & x4"(/b)"x2|"C"e2c2z2|"Gm"d2e3d|"Bbdim/a"^c2d2B2|A6- & "D7"x4 "Cm/d"x2|"D7"A4d2|
+"Gm"g^f =f=e _ed|"Cm"cB cd ec|"Gm"dB GB dB|"Dm"A4 GA|"Cm"B3d BG|"Dm"A4{BA}GF|"Gm"G6-|G4|]
+
+%%newpage
+
+X:88
+T:Chorlton Meadows (Mazurka)
+C:Andrew Swaine
+H:30/6/13
+M:3/4
+L:1/8
+K:Gm
+P:A
+GA|:"Gm"B2 GB- Bd|"Eb7"^c4 d2|"Gm"BA GA BG|"F"AB AG "/d"(3FGA|
+"Gm"B2 GB- Bd|"Eb7"^c4 d2|"Gm"BA GA BG|1 "F"A4 GA:|2 "F"A4 z2||
+P:B
+|:"Cm"e2 ce- eg|"D7"^f2 "/e"g2 "/f#"a2|"Gm"ba g3 d|"Cm"eg e2 "/Bb"d2|
+"Cm/A"e2 ce- eg|"D7"^f2 "/e"g2 "/f#"a2|"Gm"ba g2 "/c"e2|1"D7"d4 z2:|2"D7"d4|]
+
+X:89
+T:Ruskin Park (Mazurka)
+C:Andrew Swaine
+H:30/6/13
+M:3/4
+L:1/8
+K:Gm
+P:A
+GA|:"Gm"B2 GB- BG|"C7"B2- BG BG|"Gm"zG BG BG|"C7"c2 dc- cA|
+"Gm"B2 GB- BG|"C7"B2- BG BG|"Am7"G6-|1 "F9"G2 G2 A2:|2 "F9"G2 A2 G2||
+P:B
+|:"F7"FG AF GA|"Bb"B2 cd- dB|"Eb"zG ed cB|"F"A2 Fd- dB|
+"Bb"F2- FB dB|"Eb"e2- ed cB|"F"AB AG (3FGA|1 "Bb"B6:|2 "Gm"G4|]
+
+X:90
+T:Surprisingly Curvascious (Mazurka)
+C:Andrew Swaine
+H:13/4/12
+M:3/4
+L:1/8
+K:Dm
+P:A
+A/ B>A|"Dm6"d2- d>A d>d|"A7"^c2 A2 A2|"Gm6"B2- B>d B>G|"A7"A6|\
+"Gm6"B2 B>A G>B|"Dm"A>F D2 D2|"Em7"E2- E>F GF|"A7"E4 A2|
+"Dm6"d2- d>A d>d|"A7"^c2 A2 A2|"Gm6"B2- B>d B>G|"A7"A6|\
+"Gm6"B2 B>A G>B|"Dm"A>F D>E F>D|"A7"E2- E>^C A,>C|"Dm"D2- D>A d>e||
+P:B
+"Dm"f2 f>g f>d|"A7"e2 ^c2 A2|"Gm7"f2 f>g f>d|"C"e4 d>e|\
+"F"f2 f>g a>f|"C/e"g2 e2 c2|"Dm"f2 f>e d>f|"A7"e2- e>A d>e|
+"Bbmaj7"f2 f>e d>f|"Am7"e2 c2 A2|"Gm"d2 d>c B>d|"F"c6|\
+"Ebmaj7"B2 B>A G>B|"Dm"A>F D>E F>D|"A7"E2 E>^C A,>C|"Dm"D2-D3/2|]
+
+X:91
+T:Woodlark (Hambo)
+H:25/7/2017
+M:9/8
+L:1/8
+K:Gm
+P:A
+"Gm"G2G- G2B A2G | "D7"^FGA-A6 | "Gm"G2B d2B G2B | "A7"A2A- A2G "D7"^F2D | 
+"Gm"G2G- G2B A2G | "D7"^FGA-A6 | "Gm"G2B d2B G2B |1 "D7"A^F2 "Gm"G6 :|2 "F"A3 B3 c3 | 
+P:B
+"Bb"d3d- d3f e3d | "F"cec F6 | "F"c2c- c2e d2c | "Gm"B2d2B2 "D7"A3 |
+"Gm"G2G- G2B A2G | "D7"^FAF D6 | "Cm"A2A- A2c "D7"B^F2 |1 "Gm"G3 B3 "F"c3 :|2 "Gm"G6 z3 ||
+
+X:92
+T:Squirrel got a Bone (3-time Hornpipe)
+C:Andrew Swaine
+H:31/3/08
+M:3/2
+%Q:1/2 = 108
+%%MIDI gchord fzczfzczfzcz
+K:G
+L:1/4
+P:A
+|:"G".g2 gf/e/ dB|"C"c/d/e "D"dc "G"B/A/G|"G".g2 gf/e/ dB|"C"c/d/e "D"dF "G"G2:|
+P:B
+|:"G"G/A/B G/A/B G/A/B|"C"cB AG "D"F/E/D|"G"G/A/B G/A/B G/A/B|"C"c/B/c/e/ "D"dF "G"G2:|
+
+X:93
+T:Mardon Down (Slängpolska / Hanter Dro / ?)
+H:19/7/2017
+M:3/2
+L:1/8
+K:Dm
+P:A
+"Dm"F3G F2E2 DCDE | F3G F2E2 D4- | D2d4c2 "G"=B2G2 |1 "A7"A6G2 F2E2 :|2 "A7"A6B2 ^c4 :| 
+P:B
+"Bb"d4f4d4 | "F"c2f4c2 B2A2 | "Gm"B4d4B4 | "Dm"A2d4A2 G2F2 | "Eb"G4B4G4 | "Bb"F2B4F2 _E2D2 | "Cm"_E4G4E4 | "A7"=E4A4E4 ||
+
+X:94
+T:Squaring the Triangle (Slängpolska / Hanter Dro / ?)
+H:16/7/17
+M:3/2
+L:1/8
+K:Dm
+P:A
+"Dm7;Dm"D3E F2D2 "C"F2G2 | "F6;F"A3B AGF2 ABc2 | "Bbmaj7;Bb"d3e f2ed "F"cBA2 | "Gm7;Bb"B2d2 cAGF "C7;C"G2A2 :|
+P:B
+M:2/2
+"Bbmaj7;Bb"B3c d2cB | "Am7;F"A2F2 ABc2 | "Bbmaj7;Bb"B3c d2e2 | "C7;F"f2a2 gfe2 | "Bbmaj7;Bb"d3e f2ed |\
+"Am7;F"c3d cBA2 | [M:3/2]"Gm7;Bb"B2d2 cAGF "C7;C"G2A2 :|
+

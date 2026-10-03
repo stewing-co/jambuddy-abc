@@ -1,0 +1,50 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Marien-Schottisch CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.308 (st04993) orig. C,G,F-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"G2ce d2c2 | "G7"B2da g2f2 | B2df A2B2 | "C"c2eg c'geg | G2ce d2c2 | "G7"B2da g2f2 | B2df A2B2 | 
+"C"c2e2 c2z2 :| [K:G] "G"!>!d4 bag2 | "D7"fg^ga d'2c'2 | fg^ga b2a2 | "G"agfed4 | !>!d4 bag2 | "D7"fg^ga d'2c'2 | 
+fg^ga b2a2 | "G"g4z2gg | "G7"g2!>!a4de | =f2d2 B2"_>Teil A"G2 |: [K:F] "F"cccc c2d2 | !>!c4!>!a4 | 
+"C7"aaaa a2g2 | "F"aaaa a2f2 | cccc c2d2 |  !>!c4!>!a4 | "C7"aaaa a2g2 | "F"f2f2 f2"_fine"z2 :| "Dm"d^cde f2d2 | 
+"A7"^cde2 cde2 | "Dm"d^cde f2d2 | "A7"a4z2aa | a2a2 a2a2 | a4z2c'c' | "C7"c'2c'2 c'2c'2 | c'4z4 | "Gm"b4a4 | "C7"g4"_>Teil C"c'4 |]  
+
+X:2
+T: Marien-Schottisch CGF chords Parts
+P:ABACDC
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+[P:A] "C"G2ce d2c2 | "G7"B2da g2f2 | B2df A2B2 | "C"c2eg c'geg | G2ce d2c2 | "G7"B2da g2f2 | B2df A2B2 | 
+"C"c2e2 c2z2 :| [P:B] [K:G] "G"!>!d4 bag2 | "D7"fg^ga d'2c'2 | fg^ga b2a2 | "G"agfed4 | !>!d4 bag2 | "D7"fg^ga d'2c'2 | 
+fg^ga b2a2 | "G"g4z2gg | "G7"g2!>!a4de | =f2d2 B2"_>Teil A"G2 |: [P:C] [K:F] "F"cccc c2d2 | !>!c4!>!a4 | 
+"C7"aaaa a2g2 | "F"aaaa a2f2 | cccc c2d2 |  !>!c4!>!a4 | "C7"aaaa a2g2 | "F"f2f2 f2"_fine"z2 :| [P:D] "Dm"d^cde f2d2 | 
+"A7"^cde2 cde2 | "Dm"d^cde f2d2 | "A7"a4z2aa | a2a2 a2a2 | a4z2c'c' | "C7"c'2c'2 c'2c'2 | c'4z4 | "Gm"b4a4 | "C7"g4"_>Teil C"c'4 |]  
+
+X:3
+T:Marien-Schottisch EbBbAb (5letras) cf. CGF
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+"Eb"B2eg f2e2 | "Bb7"d2fc' b2a2 | d2fa c2d2 | "Eb"e2gb e'bgb | B2eg f2e2 | "Bb7"d2fc' b2a2 | d2fa c2d2 | 
+"Eb"e2g2 e2z2 :| [K:Bbmaj] "Bb"!>!f4 d'c'b2 | "F7"ab=bc' f'2e'2 | ab=bc' d'2c'2 | "Bb"c'bagf4 | !>!f4 d'c'b2 | "F7"ab=bc' f'2e'2 | 
+ab=bc' d'2c'2 | "Bb"b4z2bb | "Bb7"b2!>!c'4fg | _a2f2 d2"_>Teil A"B2 |: [K:Abmaj] "Ab"eeee e2f2 | !>!e4!>!c'4 | 
+"Eb7"c'c'c'c' c'2b2 | "Ab"c'c'c'c' c'2a2 | eeee e2f2 | !>!e4!>!c'4 | "Eb7"c'c'c'c' c'2b2 | "Ab"a2a2 a2"_fine"z2 :| "Fm"f=efg a2f2 | 
+"C7"=efg2 efg2 | "Fm"f=efg a2f2 | "C7"c'4z2c'c' | c'2c'2 c'2c'2 | c'4z2e'e' | "Eb7"e'2e'2 e'2e'2 | e'4z4 | "Bbm"d'4c'4 | "Eb7"b4"_>Teil C"e'4 |] 
+
+X:4
+T:Marien-Schottisch EbBbAb (5letras) cf. CGF Parts
+P:ABACDC
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+[P:A] "Eb"B2eg f2e2 | "Bb7"d2fc' b2a2 | d2fa c2d2 | "Eb"e2gb e'bgb | B2eg f2e2 | "Bb7"d2fc' b2a2 | d2fa c2d2 | 
+"Eb"e2g2 e2z2 :| [P:B] [K:Bbmaj] "Bb"!>!f4 d'c'b2 | "F7"ab=bc' f'2e'2 | ab=bc' d'2c'2 | "Bb"c'bagf4 | !>!f4 d'c'b2 | "F7"ab=bc' f'2e'2 | 
+ab=bc' d'2c'2 | "Bb"b4z2bb | "Bb7"b2!>!c'4fg | _a2f2 d2"_>Teil A"B2 |: [P:C] [K:Abmaj] "Ab"eeee e2f2 | !>!e4!>!c'4 | 
+"Eb7"c'c'c'c' c'2b2 | "Ab"c'c'c'c' c'2a2 | eeee e2f2 | !>!e4!>!c'4 | "Eb7"c'c'c'c' c'2b2 | "Ab"a2a2 a2"_fine"z2 :| [P:D] "Fm"f=efg a2f2 | 
+"C7"=efg2 efg2 | "Fm"f=efg a2f2 | "C7"c'4z2c'c' | c'2c'2 c'2c'2 | c'4z2e'e' | "Eb7"e'2e'2 e'2e'2 | e'4z4 | "Bbm"d'4c'4 | "Eb7"b4"_>Teil C"e'4 |] 

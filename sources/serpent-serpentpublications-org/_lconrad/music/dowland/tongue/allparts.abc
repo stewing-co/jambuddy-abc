@@ -1,0 +1,226 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XVIII. My heart and tongue were twinnes,
+T:CANTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:D min
+A2 f2 e2 | d4 c B | A3 
+w: My heart and tongue were * twinnes, * *
+w: Both knit in one, and * yet * *
+w: New found, and one- ly * found * *
+B c2 | c2 F2 G2 | (A4  A2) |
+w: at once con- ceiv- ed,
+w:  a sun- der plac- ed,
+w: in Gods and Kings, *
+A > B c2 d2 | e3 g f2 | e2 d3 d | ^c6 |
+w: Th'el- dest was my heart, borne dumbe by de- sti- nie,
+w: what heart would speake the tongue doth full dis- co- ver
+w: whose wordes are deedes, but wordes, nor deedes re- gar- ded.
+f e d2 d2 | e3
+w: The * last my tongue, 
+w: What * tongue doth speake
+w: Chaste * thoughts doe mount
+e d2  | c2 B3 B | A4 A2 |
+w: of all sweet thoughts be- rea- ved:
+w: is of the heart em- bra- ced,
+w: and flye with swift- est wings, *
+z A2 d2 ^c | f4 e g2 f > e d2 ^c || d6 ||
+w: Yet strung and tunde to play hearts har- *  mo- nie.
+w: and both are one to make a new found  Lov- er.
+w: My love with paine, my paine with losse re-  ward- ed.
+"Conclusion:"z A e2 z c | f6 |
+w: Then this be sure,
+c c d2 c > B | A2 A4 |
+w: Since it is true per- fec- tion,
+z A2 G d2 | ^c3 d e2 - | e f g3 f/ e/ | f > g a3 
+w: That ney- * ther men * * nor Gods, * * nor * Gods
+a | g f e d e2 d2 Hd4 |]
+w: can force * * af- * fec- tion.
+
+X:2
+T:XVIII. My heart and tongue were twinnes,
+T:ALTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on first line
+K:D min
+F > G A2 A2 A4 G2 F6
+w: My * heart and tongue were twinnes,
+w: Both * knit in one, and yet
+w: New * found, and one- ly found
+E3 D2 D (^C4 "f"^C2)
+w: at once con- ceiv- ed,
+w:  a sun- der plac- ed,
+w: in Gods and Kings, *
+E E E2 A3 G A2 A2 A2 A2 A2 A6
+w: Th'el- dest was my heart, borne dumbe by de- sti- nie,
+w: what heart would speake the tongue doth full dis- co- ver
+w: whose wordes are deedes, but wordes, nor deedes re- gar- ded.
+A3 c2 =B c3 
+w: The last my tongue, 
+w: What tongue doth speake
+w: Chaste thoughts doe mount
+c =B2 A2 A2 ^G2 A2
+w: of all sweet thoughts be- reaved:
+w: is of the heart em- braced,
+w: and flye with swift-  est wings,
+E F z E > D F > G A G2 z A2 =B c2 =B A2 A A > G (^F4 ^F2) ||
+w: Yet strung, strung and tunde to * play, strung and tunde to play hearts har- mo- nie. *
+w: and both, both are one to * make, both are one to make a new found Lov- er.
+w: My love, love with paine, my * paine, love with paine, my paine with losse re- ward- ed.
+"Conclusion:"E >^F ^G2 A3 D "(1)"F > G A2 
+N:(1) Original has an eighth note.
+w: Then this * be sure, be * sure, 
+A A G F2 E F F2
+w: Since it is true per- fec- tion,
+F E E F > E D > C B, B A4 z c G > A B > c d2 z D F > G A4
+w: That ney- ther men nor Gods, men * nor Gods, that ney- ther men nor Gods, nor * * Gods
+A2 A A A2 A4 |]
+w: can force af- fec- tion.
+
+X:3
+T:XVIII. My heart and tongue were twinnes,
+T:TENOR.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -12
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on third line
+K:D min -8va
+d2 d2 ^c2 d4 G2 c3 
+w: My heart and tongue were twinnes,
+w: Both knit in one, and yet
+w: New found, and one- ly found
+B A2 A4 D G (E4 E2)
+w: at * once con- * ceiv- ed,
+w:  a * sun- der * plac- ed,
+w: in * Gods and * Kings, *
+c > B A3 d c > d e3 d d ^c d2 f2 e6
+w: Th'el- dest was my heart, my heart,  borne dumbe by de- sti- nie,
+w: what heart would speake the tongue, the tongue, doth full dis- co- ver
+w: whose wordes are deedes, but wordes, but wordes, nor deedes re- gar- ded.
+d2 A2 d2 c3
+w: The last my tongue, 
+w: What tongue doth speake
+w: Chaste thoughts doe mount
+g g2 e2 e2 e2 e > d ^c/ =B/ A 
+w: of all sweet thoughts, sweet thoughts be- rea- * ved:
+w: is of the heart, the heart em- bra- * ced,
+w: and flye with swift- est, swift- * est * wings,
+%%LY voices \bar "empty" \break
+F A2 d c =B/ A/ e2 A4 z e d2 c f e2 (d4 d2) ||
+w: Yet strung and tunde to * * play, to play hearts har- mo- nie. *
+w: and both are one to * * make, to make a new found Lov- er.
+w: My love with paine, my * * paine, my paine with losse re- ward- ed.
+"Conclusion:" c2 =B e2 A2 A d2 c3
+w: Then this be sure, this be sure,
+A B A G2 z A c d2 ^c d d
+w: Since it is true, it is true per- fec- tion,
+z d2 g2 f e2 z a e3 g d2 z f > e d > c f e d ^c 
+w: That ney- ther men, that ney- ther men, ney- ther men nor * Gods, nor Gods
+d d ^c d2 d4 |]
+w: can force af- fec- tion.
+
+X:4
+T:XVIII. My heart and tongue were twinnes,
+T:BASSUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -24
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, F on third line
+K:D min bass
+d2 d2 a2 d4 e2 f6
+w: My heart and tongue were twinnes,
+w: Both knit in one, and yet
+w: New found, and one- ly found
+c2 d2 B2 (A4 A2)
+w: at once con- ceiv- ed,
+w:  a sun- der placed, *
+w: in Gods and Kings, *
+a a a g f2 e2 ^c2 d2 a2 f2 d2 a6
+w: Th'el- dest was my * heart, borne dumbe by de- sti- nie,
+w: what heart would speake * the tongue doth full dis- co- ver
+w: whose wordes are deedes, * but wordes, nor deedes re- gar- ded.
+d2 f2 g2 c3 
+w: The last my tongue, 
+w: What tongue doth speake
+w: Chaste thoughts doe mount
+c f2 g2 e e2 d ^c 
+w: of all sweet, sweete thoughts be- reaved:
+w: is of the heart, heart em- braced,
+w: and flye with swift- * est wings,
+A2 d2 ^c f d f2 e2 d > e f > g a e g d f > g a A (d4 d2) ||
+w: Yet strung and tunde, and tunde to play, * *  * * to play hearts har- * * mo- nie. *
+w: and both are one, are one to make, * * * * to make a new * * found Lov- er.
+w: My love with paine, with paine, * * * * with paine my paine * * with losse re- ward- ed.
+"Conclusion:"a2 e2 a2 d3 e f2
+w: Then this be sure, * *
+f f B2 z c f > g a f a A 
+w: Since it is, it is true * per- fec- tion,
+d > c B3 G A a2 b c' a c'2 z g b > c' d'2
+w: That ney- * ther men, nei- ther  men nor Gods, not men nor Gods,
+z d f3 g a2 A2 d2 Hd4 |]
+w: can force, can force af- fec- tion.

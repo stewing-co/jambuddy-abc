@@ -1,0 +1,18 @@
+X:3109
+T:Scena 10.a - Antandro ed Emirena
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:Bb
+V: 9 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 9 )]
+%------------------
+[K:C] Z9 || \
+[Q:"Andantino"] [M:2/4] [K:F] z// | !p! c'/z/ b/z/ | z//(f//a//g//) f/z/ | Z | z//(e//g//f//) e/z/ | \
+!f! g2 | az | z f/{g}g/ | f/ g//a///g/// f/z/ | "_NB: check this later" X  | z//(f//a//g//) f/z/ | \
+"_NB: check this later" X | z//(G//_B//A//) G/z/ | !f! !p! g2 | f z | Z | f/ (g//a///g///) f/z/ | \
+Z4 | _e2 - | e2 | d/ z/ z | z/2 =B/4c/4 (d/4e/4f/4e/4) | !f! e z | Z3 | !fermata! Z | Z | \
+z//(f//a//g//) f/z/ | Z | z/4g/4_b/4a/4 g/2z/2 | !f!!p!g2 | f/ z/ z | Z | \
+z/4(A/4B/4c/4) A/2z/2 | z/4(A/4B/4c/4) A/2e/ | !f! f > _e | d/ b/a/g/ | f z |]
+%------------------

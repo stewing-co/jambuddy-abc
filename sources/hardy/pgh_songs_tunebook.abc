@@ -1,0 +1,1098 @@
+%abc
+%%abc-alias Songs
+%%abc-creator ABCexplorer 1.6.1 [06/08/2026]
+%%vskip 2cm
+%%textfont * 36
+%%center Paul Hardy's Songs Tunebook
+%%vskip 2cm
+%%textfont * 24
+%%center Introduction
+%%vskip 1cm
+%%textfont * 14
+%%begintext justify
+%%This tune book contains songs - tunes that have words, that I have learned to play on my English concertina.
+%%See the main Paul Hardy's Session Tunebook for more tunes and more detail.
+%%endtext
+%%text
+%%begintext justify
+%%All are believed free of current copyright (unless noted explicitly), or else appear to have been
+%%placed in the public domain as part of the ongoing live folk music tradition. Please let me know
+%%if you are the owner of any that are under access restrictions and I'll remove them, or provide appropriate attribution.
+%%endtext
+%%text
+%%begintext justify
+%%The current version of this and the full session tunebook, in ABC and in PDF forms, is downloadable from
+%%Paul's web site at www.pghardy.net.
+%%endtext
+%%text
+%%center Copyright Paul Hardy (paul@paulhardy.net) 2014-2025.
+%%begintext justify
+%%Work is licenced under a Creative Commons "Attribution Non-Commercial Share Alike" CC BY-NC-SA licence. This lets you use the contents pretty freely, for most private or community purposes.
+%%endtext
+%%center See http://creativecommons.org/licenses/by-nc-sa/4.0/ for legal text.
+%%center Contact Paul Hardy for commercial licensing.
+%%vskip 0.5cm
+%%center Original version of July 2014, this version of 1 June 2026, with minor edits to 6 August 2026.
+%%vskip 2cm
+%%multicol start
+%%leftmargin 7cm
+%%EPS ..\concertina_bw256.eps
+%%multicol end
+%%newpage
+
+X:1901
+T:Auld Lang Syne
+C:Trad. Words by Burns.
+O:Scotland
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+K:D
+%%score [1|2]
+V:1
+%%voicecolor black
+%%MIDI program 23 % Tango Accd.
+A,2|"D"D3 D D2 F2|"A"E3 D E2 F2|"D"D3 D F2 A2|"G"B6|
+w:Should auld ac-quain-tance be for-got, and nev-er brought to mind?
+B2|"D"A3 F F2 D2|"A"E3 D E2 F2|"G"D3 B, B,2 A,2|"D"D6||
+w:should auld ac-quain-tance be for-got, And auld_ lang_ syne?
+V:2
+%%voicecolor maroon
+%%MIDI program 73 % Flute
+a2|a,3 a, a,2 d2|c3 d c2 c2|A3 A d2 d2|d6|
+d2|d3 d d2 d2|c3 d c2 d2|B3 G G2 G2|F6||
+V:1
+"^Chorus"B2|"D"A3 F F2 D2|"A"E3 D E2 B2|"D"A3 F F2 A2|"G"B6|
+w:For auld_ lang_ syne my dear for auld_ lang_ syne.
+d2|"D"A3 F F2 D2|"A"E3 D E2 F2|"G"D3 B, B,2 A,2|"D"D6|]
+w:We'll tak' a cup o' kind-ness yet for auld_ lang_ syne.
+V:2
+d2|d4 d4|c3 B c2 g2|f3 d d4|d6|
+d2|d3 d d2 A2|A3 A A2 ^A2|B3 F G4|F6|]
+W:
+W:We two hae run a-bout the braes, and pu'd the go-wans fine,
+W:We've wan-dered mony a wea-ry foot, sin' auld_ lang_ syne.
+W:
+W:We two hae paid-elt in the burn, frae morn-in sun till dine,
+W:But seas be-tween us braid hae roared, sin' auld_ lang_ syne.
+W:
+W:And here's a hand, my trus-ty fiere, and gis a hand o' thine,
+W:We'll tak' a richt gude wil-lie waught, For auld_ lang_ syne.
+W:
+W:And sure-ly ye'll be your pint-stoup, and sure-ly I'll be mine,
+W:We'll tak' a cup of kind-ness yet, for sake of auld lang syne.
+
+X:1902
+T:Baa Baa Black Sheep
+C:Trad.
+O:England
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=100
+K:D
+D2D2 A2A2 | BcdB A4 | G2G2 F2F2 | E2E2 D4 |
+A2AA G2G2 | F2FF E4 | A2AA G2G2 | F2FF E4 |
+D2D2 A2A2 | BcdB A4 | G2G2 F2F2 | E2E2 D4 |]
+W:Baa, baa, black sheep, have you any wool? Yes, sir, yes, sir, three bags full.
+W:One for the master, one for the dame, One for the little boy who lives down the lane.
+W:Baa, baa, black sheep, have you any wool? Yes, sir, yes, sir, three bags full.
+
+X:3902
+T:Cam Ye O'er Frae France
+R:Triple Hornpipe
+C:Trad.
+O:Scotland
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+Q:1/2=80
+M:3/2
+%%MIDI gchord fczcfc
+K:Em
+"Em"G2 E2 E2 B,2 "C"E4|"Em"G2 E2 E2 G2 "D"FGAF|"C"G2 E2 E2 B,2 "Em" E3 G|"D"F2 FE D2 DE FGAF|
+"Em"E2 e2 e2 d2 "C"e4|"Em"E2 e2 e3 f g2 e2|"Em"E2 e2 e2 d^c "D"d3B| A3 F D2 A2 "Bm"B2 F2|]
+W:Cam ye o'er frae France? Cam ye down by Lunnon? Saw ye Geordie Whelps and his bonny woman?
+W:Were ye at the place ca'd the Kittle Housie? Saw ye Geordie's grace riding on a goosie?
+W:
+W:Geordie he's a man there is little doubt o't; He's done a' he can, wha can do without it?
+W:Down there came a blade linkin' like my lordie; He wad drive a trade at the loom o' Geordie.
+W:
+W:Though the claith were bad, blythly may we niffer; Gin we get a wab, it makes little differ.
+W:We hae tint our plaid, bannet, belt and swordie, Ha's and mailins braid -- but we hae a Geordie!
+
+X:3601
+T:Camptown Races
+T:Campdown Races
+R:Reel
+C:Stephen Foster, 1850
+O:USA
+Z:Paul Hardy's Annex Tunebook 2025-26 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+Q:1/2=110
+M:2/2
+L:1/4
+K:D
+A|"D"AA FA|BA F2|"A7"FE3|FE2 A|"D"A>A FA|BA F2|"A7"E2 FE|"D"D3:|
+|:z|"D"D>D FA|"D7"d3z|"G"B>B dB|"D"A3 F|AA FA|BA F2|"A7"EF/G/ FE/E/|"D"D3:|
+W:De Camptown ladies sing dis song, Doo-dah! doo-dah!
+W:De Camptown race-track five miles long, Oh, doo-dah day!
+W:I come down dah wid my hat caved in, Doo-dah! doo-dah!
+W:I go back home wid a pocket full of tin, Oh, doo-dah day!
+W:
+W:Gwine to run all night!
+W:Gwine to run all day!
+W:I’ll bet my money on de bob-tail nag,
+W:Somebody bet on de bay.
+
+X:3901
+T:Cock Lane Ghost, The
+R:Waltz
+C:Wm Herschel c1762
+O:England
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/4
+K:D
+%%score [1|2]
+V:1
+%%voicecolor black
+%%MIDI program 23 % Tango Accd.
+A|d3/2 c/ B|A3/2 G/ F|B2 B|A2 A|d2 z|z z A|d2 z|z z A|B B B|c2 d|d/e/ f e|d2 F|
+|:F3/2 A/ G|F3/2 E/ D|G3/2 G/ G|F2 F|F F A|d d F|F F A|d d F|F E G|G F A|D3/2 d/ c|d2 A|
+d3/2 c/ B|A3/2 G/ F|B2 B|A2 A|d2 z|z z A|d2 z|z z A|B B B|c2 d|d/e/ f e|d2 F:|d2|]
+V:2
+%%voicecolor maroon
+%%MIDI program 73 % Flute
+z|z3|z3|z3|z3|z3|z3|z3|z3|z3|z3|z3|z z A|
+|:d3/2 c/ B|A3/2 G/ F|B2 B|A2 A|d2 z|z z A|d2 z|z z A|B B B|c2 d|d/e/ f e|d2 F|
+F3/2 A/ G|F3/2 E/ D|G3/2 G/ G|F2 F|F F A|d d F|F F A|d d F|F E G|G F A|D3/2 d/ c|d2 A:|d2|]
+W:The Ghost will be heard in Cock Lane tonight. The Ghost!
+W:The Ghost! The Ghost will be heard in Cock Lane tonight.
+W:Our Children and parsons and Lords to afright. Our Children and parsons,
+W:Our Children and parsons and Lords to afright.
+W:The Ghost will be heard in Cock Lane tonight. The Ghost!
+W:The Ghost! The Ghost will be heard in Cock Lane tonight.
+
+X:4901
+T:Danny Boy
+T:Londonderry Air
+R:Air
+C:Trad.
+O:Ireland
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=72
+%%score [1|2|3]
+K:C
+V:1 clef=treble name="1"
+%%voicecolor black
+%%MIDI program 23 % Tango Accd.
+B,CD|"C"E3 D EAGE|"F"DC A,2 zCEF|"C"G3 A GE"Am"CE|"D7"D4 "G"z B,CD|
+"C"E3 D EAGE|"F"DC A,2 "G7"z B,CD|"C"E3F "G7"EDCD|"C"C4 "G7"z GAB||
+"C"c3B "F"BA"G7"GA|"C"GE "F"C2 "G7"z GAB|"C"c3B "F"BA"A7"GE|"D7"D4 "G7"z GGG|
+"C"e3d "F"dcAc|"C"GE "Am7"C2 "F"zB,"G7"CD|"C"EAGE "G7"DCA,B,|"C"C2-"F"C2- "C"C||
+V:2 clef=treble name="2"
+%%voicecolor maroon
+%%MIDI program 73 % Flute
+GAB|cB/2A/2 G2 cfec|f4 c'agf|ed c2 B2 A2|fAdc BGAB|
+cB/2A/2 G2 cfec|f4 c'baf|gecA G2 AB|cefa gefd||
+ef g2 f2 ef|ecfa gefd|ef g2 f2 ec|fAdc BGBd|
+cegb a2 f2|e/2d/2c/2B/2 Ae f4|gfec f3 g|c2-c2-c||
+V:3 clef=treble-8 name="3"
+%%voicecolor teal
+%%MIDI program 32 % Acoustic Bass
+G,A,B,|CB,/2A,/2 G,2 CFEC|c2 A2 G2 F2|ED C2 B,2 A,2|FA,DC B,G,A,B,|
+CB,/2A,/2 G,2 CFEC|F4 cB AF|GECA, G,2 A,B,|CEFA GEFD||
+EF G2 F2 EF|ECFA GEFD|EF G2 F2 EC|FA,DC B,2 B,D|
+CEGB A2 F2|E/2D/2C/2B,/2 A,E F4|GFED F3 G|EcAF E||
+W:Oh, Danny Boy, the pipes, the pipes are calling
+W:From glen to glen, and down the mountain side,
+W:The summer's gone, and all the roses falling,
+W:It's you, it's you must go and I must bide.
+W:But come ye back when summer's in the meadow,
+W:Or when the valley's hushed and white with snow,
+W:It's I'll be here in sunshine or in shadow,
+W:Oh, Danny Boy, oh Danny Boy, I love you so!
+W:
+W:But when ye come, and all the flowers are dying,
+W:If I am dead, as dead I well may be,
+W:Ye'll come and find the place where I am lying,
+W:And kneel and say an Ave there for me;
+W:And I shall hear, though soft you tread above me,
+W:And all my grave will warmer, sweeter be,
+W:For you will bend and tell me that you love me,
+W:And I shall sleep in peace until you come to me!
+W:
+W:Frederic Weatherly (1848 - 1929)
+
+X:5901
+T:Easter Hymn
+T:Jesus Christ Is Risen Today
+R:March
+C:Trad. Lyra Davidica 1708
+M:4/4
+L:1/4
+Q:1/4=110
+K:C
+%%score [1|2|3|4]
+%%scale 0.7
+V:1
+%%voicecolor black
+%%MIDI program 23 % Tango Accd.
+"C"C E G C|"F"F A A G|"C"E/F/G/C/ "D"F "C"E/F/|"G"E D "C"C2|
+"F"F G A "C"G|"D"F "G"E "C"E D|"C"E/F/G/C/ "D"F "C"E/F/|"G"E D "C"C2|
+"G"B c d G|"C"c d e2|"G"B/c/d/G/ "C"c B/c/|"G"B A G2|
+G/A/ B/G/ "C"c E|"F"F A A G|"C"c/B/c/G/ "F"A/B/ c/d/|"G"c B "C"c2|]
+V:2
+%%voicecolor maroon
+%%MIDI program 73 % Flute
+C C D C|C F F E|C2 C/B,/ C|C B, C2|
+C C C C|C/B,/ C C B,|C2 C/B,/ C|C B, C2|
+G3/2 ^F/ G G|G F E2|G2 G/^F/ G|G ^F G2|
+B,/C/ D/B,/ C C|C F F E|E/F/G/E/ F E/D/|E G/F/ E2|]
+V:3 clef=treble-8
+%%voicecolor teal
+%%MIDI program 42 % Cello
+E G G E|F c c2|G2 A/2F/2 G/2A/2|G3/2 F/2 E2|
+F E F G|A/2F/2 G G2|G2 A/2F/2 G/2A/2|G3/2 F/2 E2|
+d c B B|c3/2 B/2 c2|d2 d d/2c/2|d3/2 c/2 B2|
+G G G G|F c c2|G3/2 c/2 c/2d/2 G/2A/2|G2 G2|]
+V:4 clef=treble-8 octave=-1
+%%voicecolor navy
+%%MIDI program 32 % Acoustic Bass
+c c B c|A f c2|c/2d/2 e d c/2f/2|G2 c2|
+A c f e|d c G2|c/2d/2 e d c/2f/2|G2 c2|
+G A B g/2f/2|e d c2|g/2a/2 b a g/2e/2|d2 G2|
+g3/2 f/2 e c/2B/2|A f c2|c/2d/2e/2c/2 f/2d/2 e/2f/2|g G c2|]
+W:Jesus Christ is risen today, Alleluia! Our triumphant holy day, Alleluia!
+W:Who did once, upon the cross, Alleluia! Suffer to redeem our loss, Alleluia!
+
+X:7901
+T:God Save The King
+T:God Save The Queen
+T:National Anthem
+R:Air
+C:Trad.
+O:England
+M:3/4
+L:1/4
+Q:1/4=90
+K:G
+"G"G"Em"G"Am"A|"D7" F>G"D"A|"G" B"Em"B"C"c|"G" B>A"Em"G|"Am" A"G"G"D"F|"G"G3||
+"G"ddd|d>cB|"Am" ccc|"D7" c>B"D"A|"G" B"Am"c/2B/2A/2G/2|"G" B>c"D"d|"C" e/c/"G"HB"D7" [I: pos stem down]HA|[I: pos stem auto]"G"G3|]
+W:God save our gracious King,
+W:Long live our noble King,
+W:God save the King:
+W:
+W:Send him victorious, Happy and glorious,
+W:Long to reign over us:
+W:God save the King.
+
+X:8901
+T:Happy Birthday
+R:Waltz
+C:Patty & Mildred Hill, 1890s
+N:Arr PGH
+O:USA
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+P:A2B2A
+M:3/4
+L:1/8
+Q:1/4=100
+%%score [1|2]
+%%partsbox 1
+K:G
+P:A
+V:1
+%%voicecolor black
+%%MIDI program 23 % Tango Accd.
+DD|"G"E2 D2 G2|"D"F4 DD|E2 D2 A2|"G"G4|
+w:Hap-py Birth-day to you. Hap-py Birth-day to you.
+DD|d2 B2 G2|"C"F2 E4-|E4 cc|"G"B2 G2 "D"A2|"G"G4|]
+w:Hap-py Birth-day Vir-tual Green-shoots, Hap-py Birth-day to you.
+V:2
+%%voicecolor maroon
+%%MIDI program 73 % Flute
+G>G|G2 B2 B2|d4 F>F|G2 A2 c2|B4|
+D>D|B2 d2 B2|A2 G4-|G4 e>e|d2 g2 a2|[d4g4]|]
+T:Happy Birthday Jig
+%%score [1]
+P:B
+M:6/8
+L:1/8
+Q:3/8=100
+V:1
+%%voicecolor black
+%%MIDI program 23 % Tango Accd.
+DED|"G" G2A GAG|"D"F3 DED|FGA cAF|"G" G2E DED|
+"D"d3 BAG|"C" FGE cBc|"G"BAG "D"AGF|"G"G2D|]
+
+X:8902
+T:Head, Shoulders, Knees and Toes
+R:March
+C:Trad.
+O:England
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+K:C
+"C"G4 AG^FG|E2 GG G4|G4 AG^FG|"G"D2 GG GFED|
+"C"C2 E2 G2 c2|"F"dcBc A4|"G"B4 BGAB|"C"c2 CC C4|]
+W:Head, shoulders, knees and toes, knees and toes. Head, shoulders, knees and toes, knees and toes and
+W:eyes and ears and mouth and nose. Head, shoulders, knees and toes, knees and toes.
+
+X:8903
+T:Here We Go Round the Mulberry Bush
+T:Mulberry Bush, The
+R:Jig
+C:Trad.
+O:England
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:6/8
+L:1/8
+K:G
+"G"GGG G2 B | d2 B G2 G | "A"A2 A A2 G | "D"F2 E D2z |
+"G"GGG G2 B | d2 B G2 B | "A"A2 A "D7"DEF | "G"G3 G3 |]
+W:Here we go round the mulberry bush, the mulberry bush, the mulberry bush;
+W:Here we go round the mulberry bush, So early in the morning.
+
+X:9902
+T:If You're Happy and You Know It
+R:March
+C:Trad.
+O:England
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+L:1/8
+M:4/4
+K:C
+GG |"C" cccc ccBc | d6 GG |dddd ddcd |"C" e6 ee |
+"F" ffff AAff |"C" eeed ccee |dddc BBAB |"C" c6 |]
+W:If you're happy and you know it, clap your hands. If you're happy and you know it, clap your hands.
+W:If you're happy and you know it, then you really want to show it. If you're happy and you know it clap your hands.
+
+X:9901
+T:I'll Take You Home Again, Kathleen
+R:Air
+C:Thomas Westerndorf, 1875
+O:USA
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=80
+K:G
+z D|B3 B cAe^c|d6 z B|B3 A ^GAcB|G6 z D|
+w:I'll take you home a-gain, Kath-leen, a-cross the o-cean wild and wide, to
+B3 B cAe^c|d6 z B|A2 ^c2 ecBA|d6 d2|
+w:where your heart has ev-er been, since first you were my bon-ny bride. The
+e2 d2 cBc^c|d6 d2|f3 e dcAc|B6 B2|
+w:ro-ses all have left your cheek, I've watched them fade a-way and die. Your
+B3 e BBcc|B6 B2|A3 A BAB^c|(d4 c2) D2|
+w:voice is sad when-'er you speak, and tears be-dim your lov-ing w:ey-es. Oh,
+B3 B cAe^c|d6 z B|B3 A ^GAcB|G6 z d|
+w:I will take you back Kath-leen, to where your heart will feel no pain, and
+d3 B AAEG|e6 fe|d3 B ABcF|G6|]
+w:when the fields are fresh and green, I'-ll take you to your home a-gain.
+
+X:9903
+T:I'm A Little Teapot
+C:Sanders and Kelley 1939
+O:USA
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+L:1/8
+M:4/4
+K:D
+"D" DEFG A2 d2 |"G" B2 d2"D" A4 |"G" G2 GA "D"F2 F2|"A7" E2 EF"D" D4 |
+"D" DEFG A2 d2 | "G" B2 d2"D" A4 |"G" d3 B"A" AA G2 | "A7"F2 E2"D" D4 |]
+W:I'm a little tea pot, short and stout. Here's my handle, here's my spout.
+W:When I get all steamed up, then I shout. Tip me over and pour me out!
+
+X:9904
+T:Incy Wincy Spider
+T:Itsy-Bitsy Spider
+C:Trad.
+O:England?
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:6/8
+L:1/8
+Q:3/8=100
+K:G
+D | "G"G2G G2A | B3 B2B | "D7"A2G A2B | "G"G3 z3 |
+"G"B3 B2c | d3 d3 | "C"c2B c2d | "G"B3 z3 |
+"G"G2G G2A | B3 B2B | "D7"A2G A2B | "G"G3 D2D |
+"G"G2G G2A | B3 B2B | "D7"A2G A2B | "G"G3 z2 |]
+W:An Incy Wincy spider climbed up the spout,
+W:Down came the rain and washed the spider out.
+W:Out came the sun, and dried up all the rain,
+W:So Incy Wincy spider climbed up the spout again.
+
+X:10901
+T:John Anderson, My Jo
+R:Reel
+C:Trad.
+O:Scotland
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+K:Em
+(ED)|B,2 E2 E2 F2|G4 G2 (AG)|F3 E D2 ^C2|D6|
+w:John* An-der-son, my jo, John, wh-en we were first ac-quent,
+(ED)|B,2 E2 E2 F2|G4 G2 A2|B3 A G2 A2|B6|
+w:Your* locks were like the ra-ven, your bon-ny brow was brent;
+(dc)|B3 A G2 B2|d4 c2 B2|A3 G F2 G2|A6|
+w:But* now ye're brow is beld, John, your locks are like the snaw,
+(GA)|B2 G2 A2 F2|G2 (FE) B2 E2|B,3E E2 ^D2|E6|]
+w:My* bless-ings on your fros-ty* pow, John An-der-son, my jo.
+W:
+W:John Anderson, my jo, John,
+W:We clamb the hill the gither;
+W:And mony a canty day, John,
+W:We've had wi' ane anither:
+W:
+W:Now we maun totter down, John,
+W:And hand in hand we'll go,
+W:And sleep the gither at the foot,
+W:John Anderson, my Jo.
+
+X:12028
+T:Landlord Fill the Flowing Bowl
+T:Landlord Fill The Twinkling Bowl
+R:March
+C:Trad. Song. Arr J McKenzie 2018
+O:England
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:2/2
+L:1/4
+Q:1/2=90
+K:D
+%%score [1|2]
+V:1
+%%voicecolor black
+%%MIDI program 23 % Tango Accd.
+A|"D"dA FA|"G"d>d dd|"A"e>e ee|"D"f2 dA|
+w:Oh|Land-lord fill the|flow-ing bowl un-|til it doth run|o-ver. Oh
+dA FA|d d/d/ dd|"A"e e/e/ ee|"D"f2 d||
+w:Land- lord fill the|flow-i-ng bowl un-|til i-t doth run|o-ver.
+|:A|"D"f>f fa|"A"ag g2|e>e eg|"D"gf f2|
+w:Oh|For to-night we'll|mer-ry be,|for to-night we'll|mer-ry be,|
+d>d df|"Em"f e/e/ ge|"A"cA Bc|"D"d2 d:|
+w:for to-night we'll|merry mer-ry be: to-|mor-row we'll be|so-ber.
+V:2 clef=treble
+%%voicecolor maroon
+%%MIDI program 73 % Flute
+z|F F D D|B B G2|A3/2 F/ G G/E/|A F [A,D]2|
+F F D D|A A F2|A3/2 F/ G G/E/|A F [A,D]||
+|:z|A A F F|E E D2|A3/2 F/ E C|E D [A,D]2|
+A F D F|B B G2|A3/2 F/ G E|A F [A,D]:|
+
+X:12901
+T:Lily of Laguna
+C:Leslie Stuart, 1898
+O:USA
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=100
+K:G
+"G"B,4 D4|E3/2D/2 B,2 -B,3/2 B,/2 C3/2^C/2|"G7"D4 "E7"B4|"A"A3/2G/2 E4-E z|
+w:She's my la-dy love,_ she is my dove, my bab-y love._
+"D"A2-A3/2 E/2 A2-A3/2E/2|A3/2E/2 A3/2E/2 A4|"D7"E3/2_E/2 =E3/2E/2 F2 d2|c2 E2 "G"D4|
+w:She's_ no girl_ for sit-ting down to dream. She's the on-ly queen La-gun-a knows.
+"G"B4 G3 D|"D"F2 F2 z3/2 F/2 E3/2D/2|"D7"F2 F2 z3/2 E/2 B,3/2D/2|"G"E2 E2 z3/2 B,/2 C3/2^C/2|
+w:I know she likes me, I know she likes me, be-cause she says so. she is the
+"E"D2 d2 c2 B2|"A"A2 E3 z/2 E/2 F3/2G/2|"Am"B A3 "D"F3 D|"G"G6 z2:|
+w:Li-ly if La-gun-a, She is my li-ly and my rose.
+
+X:13903
+T:Ma Nishtana
+T:Why is Tonight Different?
+T:Four Questions, The
+R:Air
+C:Trad. Song.
+N:Questions asked at Jewish Passover Seder meal
+O:Israel
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/4
+Q:1/4=140
+K:F
+"Dm"F D/D/ D D|F D/D/ D A|("F"c B) "Gm"G B|"Dm"A3 A|("F"c B) "Gm"G B|"Dm"A3 D/D/|
+"Dm"F D/D/ D2|F D/D/ D A|("F"c B) "Gm"G B|"Dm"A3 A|("F"c B) "Gm"G B|"Dm"A3 F|
+"Dm"A A/A/ "C"G E|"Dm"F D/D/ D F|"A"A A/A/ "C"G E|"Dm"F D/D/ D (F|"A"E) A, (^C E)|"Dm"D4|]
+W:Ma nishtana haleilah hazeh mikol haleilot? Mikol haleilot?
+W:Shebechol haleilot anu ochlin chametz umatzah, chametz umatzah.
+W:Haleilah hazeh, haleilah hazeh. Haleilah hazeh, haleilah hazeh - kulo matzah.
+
+X:13014
+T:Minstrel Boy, The
+R:Air
+C:Trad. Arr PGH
+O:Ireland
+Z:Paul Hardy's Session Tunebook 2020 (see www.paulhardy.net). Creative Commons cc by-nc-sa licenced.
+M:2/4
+L:1/8
+Q:1/4=100
+K:G
+%%score [1|2]
+V:1
+%%voicecolor black
+%%MIDI program 23 % Tango Accd.
+D|"G"G3"D7"A|"G"cB AG|B2 "D"d2|"Em"g2 "D"fg|"C"e2 "G"d2|"G"Bc dB|"D7"A4|"G"G2 D2|
+"G"G3"D7"A|"G"cB AG|B2 "D"d2|"Em"g2 "D"fg|"C"e2 "G"d2|B>c dB|"D7"A4|"G"G2 d2|
+"Em"g2 "B7"f2|"Em"e2 "A7"fg|"D"f2 "A7"e2|"D"d3^d|"Em"e3B|"B7"B2 ^d2|"Em"e2 "B7"f2|"Em"g3g|
+"G"G3"D7"A|"G"cB AG|B2 "D"d2|"Em"g2 "D"fg|"C"e2 "G"d2|Bc dB|"D7"A4|"G"G3|]
+V:2 clef=treble
+%%voicecolor maroon
+%%MIDI program 73 % Flute
+z|B3D|GFAd|G2D2|E2D2|C3G|G>A B2|DFAd|GABc|
+B3D|GFAd|G2D2|E2D2|C3G|GA B2|D4|GABc|
+E2DF|E2A2|DFAG|D4|E4|B4|E2B2|E4|
+B3D|GFAd|G2D2|E2D2|C3G|G>A B2|DFAd|G3|]
+W:The minstrel boy to the war is gone
+W:In the ranks of death you will find him
+W:His father's sword he's girded on
+W:And his wild harp slung behind him
+W:
+W:"Land of Song" said the warrior bard
+W:"Tho' all the world betrays thee
+W:One sword, at least, thy rights shall guard
+W:One faithful harp shall praise thee"
+
+X:13904
+T:Molly Malone
+T:Cockles and Mussels
+C:Trad.
+O:Ireland
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/8
+Q:1/4=120
+K:G
+D2\
+w:In
+w:She
+w:She
+|"G"G G3 G2|"Em"G B3 G2|"Am"A2 A3 A|"D7"A c3 A2|
+w:Dub-lin's fair cit-y, where girls are so pret-ty, I
+w:was a fish-mon-ger, but sure 'twas no won-der, for
+w:died of a fe-ver, and no one could save her, and
+"G"B2 A2 G2|d2 c2 B2|"A7"B2 A3 G|"D7"A4 DD|"G"G2 G3 G|
+w:first set my eyes on sweet Mol-ly Ma-lone, as she pushed her wheel
+w:so were her fa-ther and moth-er be-fore. And they each wheeled their
+w:that was the end of sweet Mol-ly Ma-lone. But her ghost wheels her
+"G"G B3 G2|"Am"A2 A3 A|"D7"A c3 AA|"G"B d3 "C"c2|"G"B d3 "C"c2|
+w:bar-row thro' streets broad and nar-row cry-ing "Cock-les and mus-sels, a
+w:bar-row thro' streets broad and nar-row cry-ing "Cock-les and mus-sels, a
+w:bar-row thro' streets broad and nar-row cry-ing "Cock-les and mus-sels, a
+"G"B3 G "D7"A2|"G"G4 "D7"D2|"G"G3 G G2|G B3 G2|"Am"A3 A A2|
+w:live, a-live, oh! A-live, a-live, oh!_ A-live, a-live,
+w:live, a-live, oh! A-live, a-live, oh!_ A-live, a-live,
+w:live, a-live, oh! A-live, a-live, oh!_ A-live, a-live,
+"Am"A c3 AA|"G"B d3 "C"c2|"G"B d3 "C"c2|"G"B3 G "D7"A2|"G"G4|]
+w:oh!"_ Cry-ing "Cock-les and mus-sels, a-live, a-live, oh!"
+w:oh!"_ Cry-ing "Cock-les and mus-sels, a-live, a-live, oh!"
+w:oh!"_ Cry-ing "Cock-les and mus-sels, a-live, a-live, oh!"
+
+X:13901
+T:My Bonnie Lies Over the Ocean
+R:Waltz
+C:C Pratt 1881
+O:Scotland, USA
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/4
+Q:1/4=150
+K:G
+D|"G"BAG|"C"AGE|"G"DB,2-|B, z D|BAG|"A7"GFG|"D"A3-|"D7"A z D|
+"G"BAG|"C"AGE|"G"DB,2-|B, z D|"Am"EAG|"D7"FEF|"G"G3-|G2z|
+"G"D3|"G7"G3|"C"E3|A2G|"D"FFF|"D7"FEF|"G"G2A|"G"B3|
+"G"D3|"G7"G3|"C"E3|A2G|"D"FFF|"D7"FEF|"G"G3-|"G"G2|]
+W:My Bonnie lies over the ocean
+W:My Bonnie lies over the sea
+W:My Bonnie lies over the ocean
+W:Oh, bring back my Bonnie to me...
+W:
+W:REFRAIN
+W:Bring back, bring back
+W:Bring back my Bonnie to me, to me
+W:Bring back, bring back
+W:Bring back my Bonnie to me
+W:
+W:Last night as I lay on my pillow
+W:Last night as I lay on my bed
+W:Last night as I lay on my pillow
+W:I dreamt that my Bonnie was dead
+W:
+W:Oh blow the winds over the ocean
+W:And blow the winds over the sea
+W:Oh blow the winds over the ocean
+W:And bring back my Bonnie to me
+W:
+W:The winds have blown over the ocean
+W:The winds have blown over the sea
+W:The winds have blown over the ocean
+W:And brought back my Bonnie to me
+
+X:13902
+T:My Old Man, Said Follow the Van
+T:Don't dilly dally on the way
+R:March
+C:Fred W. Leigh 1919
+O:England
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=120
+K:D
+"D"A2 B2 F3 D|"Bm"E F2 E B,3 B,|"A"C2 A>B AGEE|"D"F8|
+F2 FG F2 ED|"E"E2 F2 E D3|"E7"E2 EF E2 DB,|"A"C2 D2 EA2F||
+"D"A A2 F G A3|A A2 FG A3|A>B AF ED B,D|"A"E6 A,2|
+"D"D2 DE F2 ED|"Em"E2 F2 GE FG|"A"A2 B2 F2 E2|"D"D8|]
+W:My old man said "Foller the van,
+W:And don't dilly dally on the way".
+W:Off went the van wiv me 'ome packed in it,
+W:I followed on wiv me old cock linnet.
+W:But I dillied and dallied, dallied and dillied
+W:Lost me way and don't know where to roam.
+W:Well you can't trust a Special like the old-time copper
+W:When you can't find your way home.
+
+X:15926
+T:Oats and Beans and Barley Grow
+R:Jig
+C:Trad.
+N:As at Kimbolton primary in 1960s
+O:England, East Anglia
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:6/8
+L:1/8
+Q:1/4=140
+K:G
+"D"d2 d "G"B2 G|"C"c2 "D"e d3|"D"d2 d "G"B2 G|"C"c2 e "D"d2 d|
+w:Oats and beans and bar-ley grow, Oats and beans and bar-ley grow, Do
+w:First the far-mer sows his seed, Then he stands and takes his ease, .
+"G"g2 g "D"f2 f|"C"eee "D"d2 d|"C"c2 c "G"B2 B|"D7"A2 A "G"G3:|
+w:you or I or a-ny-one know How oats and beans and bar-ley grow?
+w:Sta-mps his feet and claps his hand And turns him round to view the land
+"D"d2 d "G"B2 G|"D7"A3 "G"G3|"D"d2 d "G"B2 G|"D7"A3 "G"G3|
+w:Wait-ing for a part-ner, Wait-ing for a part-ner,
+"C"cc e "D"d2 B|"C"c2 e "D"d2 B|"D"d2 d "G"B2 G|"D7"A3 "G"G3||
+w:Op-en the ring and let one in. Still wait-ing for a part-ner.
+[K:D]"D"A2 A FFD|"G"G2 B "D"A2 A|A2 A F2 D|"G"G2 B "D"A2 A|
+w:Now you're marr-ied you must ob-ey, You must be true to all you say; You
+|:"D"d2 d "A"c2 c|"G"B2B "D"A2 A|"G"G2 G "D"F2 F|"A7"E2 E "D"D3:|
+w:Must be kind, you must be good, And help your wife to chop the wood.
+w:Chop it thin and carry it in, And kiss your part-ner in the ring
+
+X:15902
+T:Old MacDonald Had A Farm
+R:March
+C:Trad.
+O:England
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/4
+Q:1/4=140
+K:G
+"G"G G G D|"C"E E "G"D2|B B "D7"A A|"G"G2 z D|
+G G G D|"C"E E "G"D2|B B "D"A A|"G"G2 z D/2D/2|
+"G"G G G D/2D/2|G G Gz|G/G/ GG/G/G|G/G/G/G/ G G|
+"G"G G G D|"C"E E "G"D2|B B "D7"A A|"G"G3 z|]
+W:Old MacDonald had a farm, E-I-E-I-O!
+W:And on his farm he had a cow, E-I-E-I-O!
+W:With a moo-moo here and a moo-moo there, Here a moo, there a moo, Everywhere a moo-moo,
+W:Old MacDonald had a farm, E-I-E-I-O!
+
+X:16901
+T:Parting Glass
+R:Air
+C:Trad. 18C
+O:Scotland
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=110
+K:Em
+BA|"Em"G2E2 "C"E2DE|"G"G2G2 "Am"A2GA|"Em"B2 B2 "Bm"BAGA|"G"B2 "D"D2 D2"Bm"BA|
+"Em"G2E2 "C"E2DE|"G"G2G2 "Am"A2GA|"Em"B2e2 "Bm"dBAB|"G"G2E2 "Em"E3B|
+"G"dBde d3B|"Bm"dBde d3B|"Am"c2B2 A2GA|"G"B3D D2 "Bm"BA|
+"Em"G2E2 "C"E2DE|"G"G2G2 "Am"A2GA|"Em"B2e2 "Bm"dBAB|"Em"G2E2 E2|]
+W:Of all the money that e'er I spent
+W:I've spent it in good company
+W:And all the harm that ever I've done
+W:Alas it was to none but me
+W:And all I've done for want of wit
+W:To memory now I can't recall
+W:So fill to me the parting glass
+W:Good night and joy be with you all
+W:
+W:Oh, all the comrades that e'er I had
+W:They're sorry for my going away
+W:And all the sweethearts that e'er I had
+W:They'd wish me one more day to stay
+W:But since it falls unto my lot
+W:That I should go and you shall not
+W:I'll gently rise and softly call
+W:Good night and joy be with you all
+
+X:16923
+T:Penny on the Water
+R:Hornpipe
+C:Trad.
+O:England
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=150
+K:G
+(3DEF|"G"G2G2 G2G2|"D7"FGAF "G"G3A|B2B2 "Em"B2B2|"D7"ABcA "G"B4|
+w:---One, two, three, four, fi-ve, si-x, seven, - All good chil-dren g-o t-o heaven.
+"C"cdec "D7"A2A2|"G"BcdB "Em"G4|"Am"ABcA "D7"FDEF|"G"GABc d4|
+w:Pen-ny on the wa-ter, tup-pence on the sea, Thrup-pence on the round-a-bout, and rou-nd g-o we.
+"C"cdec "D7"A2A2|"G"BcdB "Em"G4|"Am"ABcA "D7"FDEF|"G"G2G2 G2|]
+w:Pen-ny on the wa-ter, tup-pence on the sea, Thrup-pence on the ra-il-way, and out goes she.
+
+X:16902
+T:Pleasant and Delightful
+T:Larks They Sang Melodious, The
+R:Air
+C:Trad.
+O:England
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/8
+Q:1/4=110
+K:G
+D>D |"G"G2 B2 "D"A3/2F/2 |"G"G2 D2 B,3/2C/2 |D2 G2 "D7"F2 |"G"G3 z G3/2A/2 |B2 G2 "Am"c3/2B/2 |"D7"B2 A2 B3/2A/2 |"C"G2 F2"A7" E2 |"D"D3 z G3/2A/2 |
+"G"B2 G2 "Am7"c3/2B/2 |"D"A2 "G"G2 d2 |"Em7"d3/2c/2 B3/2A/2 GB |"D"A4 "D7"B3/2c/2 |"G"d3 c BA |"C"GE "Am"c2 d3/2c/2 |"G"BA G2 "D7"F2 |"G"G4 GF ||
+"C"E2 C2 "Am"A3/2G/2 |"D"FE HD2 G3/2A/2 |"G"B3 G "Am"cB |"D"BA HA2 Bc |"G"d3 c BA |"C"GE "Am"c3 d |"G"B3/2A/2 G2 "D7"F2 |"G"G4 |]
+W:It was pleasant and delightful on a bright summer's morn,
+W:When the fields and the meadows were covered in corn,
+W:There were blackbirds and thrushes singing on every tree,
+W:And the larks they sang melodious at the dawning of the day,
+W:And the larks they sang melodious, and the larks they sang melodious,
+W:And the larks they sang melodious at the dawning of the day.
+
+X:18901
+T:Ring a Ring o Roses
+R:Jig
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:6/8
+L:1/8
+Q:3/8=100
+K:C
+"C"G2 G E2 A | G3 E2 F | G2 G E2 A |"C"G3 E2 G |c3 G2 G | c3 G2 F | "G"E3 "G7"D3 | "C"C6 :|
+W: Ring-a-ring o' roses, A pocket full of posies. A-tishoo! A-tishoo! We all fall down
+
+X:18902
+T:Row, Row, Row Your Boat
+R:March
+C:Trad.
+O:England
+N:Round
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+"_1"C2 C2 | C>D E2 | "_2"E>D E>F | G4 ||"_3"(3ccc (3GGG | (3EEE (3CCC |"^4"G>F E>D | C4 |]
+W:Row, row, row your boat, Gen-tly down the stream;
+W:Mer-ri-ly, mer-ri-ly, mer-ri-ly, mer-ri-ly, Life is but a dream.
+
+X:19901
+T:Scarborough Fair
+R:Waltz
+C:Trad.
+O:England
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/8
+Q:1/4=120
+K:Ddor
+"Dm"D4D2|A4A2|"C"E3FE2|"Dm"D6-|D2 A2c2|d4c2|"G"A2B2G2|"Dm"A6-|A4d2|
+d4d2|"F"c4A2|A2G2F2|"C"E2C4-|C6|"Dm"D4A2|"C"G4"F"F2|"C"E2D2C2|"Dm"D6-|D6:|]
+W:Are you going to Scarborough Fair?
+W:Parsley, sage, rosemary, and thyme;
+W:Remember me to the one who lives there,
+W:For once she was a true love of mine.
+W:
+W:Tell her to make me a cambric shirt,
+W:Parsley, sage, rosemary, and thyme;
+W:Sewn without seams or fine needlework,
+W:If she would be a true love of mine.
+W:
+W:Tell her to wash it in yonder well,
+W:Parsley, sage, rosemary, and thyme;
+W:Where never spring water or rain ever fell,
+W:And she shall be a true lover of mine.
+W:
+W:Tell her to dry it on yonder thorn,
+W:Parsley, sage, rosemary, and thyme;
+W:Which never bore blossom since Adam was born,
+W:Then she shall be a true lover of mine.
+W:
+W:Now he has asked me questions three,
+W:Parsley, sage, rosemary, and thyme;
+W:I hope he'll answer as many for me
+W:Before he shall be a true lover of mine.
+
+X:19902
+T:Sumer Is Icumen In
+R:March
+C:Trad 13th C
+N:3 or 4 part 2-measure round
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:6/8
+L:1/8
+K:D
+d2 c B2 c|d2 d (c>BA)|F2 F G2 E|F3 z3|
+w:Su-mer is i-cu-men in,__ Lhu-de sing Cuc-cu!
+D2F E2 G|F2 F E2 D|F2 A B2 B|A3 z3|
+w:Grow-eth sed, and blow-eth mead, and spring'th the wu-de nu.
+d3 B3|d3 z3|A2 F G2 E|F2 A G2 F|
+w:Sing Cuc-cu! Aw-e blet-eth aft-er lombe, Lhouth
+D2 F E2 C|D3 z3|F2 F E2 G|A2 A B2 c|
+w:aft-er cal-ve cu; Bul-luc stert-eth, buck-e vert-eth
+d2 c B2 c|d3 z3|A3 B3|A3 G2 F|
+w:Mur-ie sing Cuc-cu, Cuc-cu, Cuc-cu! Wel
+D2 F G2 E|(F3 G2) A|F2 A E2 C|D3 z3|]
+w:Sing-es thu Cuc-cu-, Ne swik thu nev-er nu.
+P:Bass
+%%voicecolor maroon
+|:"D"A3"G"G3|"D"A3 z3|"D"D3"Em"E3|"D"D3 "A"E2F|
+w:Sing Cuc-cu! Sing Cuc-cu, n-u
+"D"D3"Em"E3|"D"D3"Em"E2F|"D"A3"G"G3|"D"A3 z3::|
+w:Sing Cuc-cu, n-u sing Cuc-cu!
+
+X:20902
+T:Twinkle, Twinkle Little Star
+T:Ah! Vous Dirai-Je Maman
+C:Trad.
+O:England
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:C
+L:1/4
+Q:1/4=100
+K:D
+"D"D D A A|"G"B B "D"A2|"G"G G "D"F F|"A7"E E "D"D2|
+"D"A A "G"G G|"D"F F "A7"E2|"D"A A "G"G G|"D"F F "A7"E2|
+"D"D D A A|"G"B B "D"A2|"G"G G "D"F F|"A7"E E "D"D2|]
+W:Twinkle, twinkle, little star, How I wonder what you are!
+W:Up above the world so high, Like a diamond in the sky.
+W:Twinkle, twinkle, little star, How I wonder what you are!
+
+X:20901
+T:Two Little Girls in Blue
+R:Waltz
+C:Charles Graham, 1893
+O:USA
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/8
+Q:1/4=140
+K:G
+D2|"G"G4 G2|G2 A2 B2|"Em"E4 E2|E2 _E2 =E2|"D"F2 F2 F2|"Em"E4 D2|"G"G6-|G4 D2|
+w:An old man gazed on a pho-to-graph in the lock-et he'd worn for years._ His
+"G"G2 G2 G2|G2 A2 B2|"Em"E4 E2|E4 "Am"A2|"D"A2 B2 A2|"Em"G4 E2|"D7"A6-|A2 z2 B2|
+w:neph-ew then asked him the reas-on why that pic-ture had caused him tears,_ "Come
+"C"c2 c2 c2|"Am"A2 B2 c2|"G"B2 B2 B2|G4 B2|"D"A2 B2 A2|"Em"G4 E2|"D7"A6-|A4 D2|
+w:list-en" he said "I will tell you my lad, a stor-y that's strange but true:_ Your
+"G"G2 G2 G2|G2 A2 B2|"Em"E4 E2|"Am"c4 A2|"G"B2 A2 G2|"D7"A4 F2|"G"G6-|G2 z2 z2|
+w:fath-er and I at the school one day, met two litt-le girls in blue._
+"G"G3 A B2|"Em"G4 E2|"G"G6|"D"D6|"G"G3 A B2|G4 F2|"Am"E6-|E4 z2|
+w:Two lit-tle girls in blue, lad, two lit-tle girls in blue._
+"D"F4 F2|F2 A4|"G"G4 G2|G2 A2 B2|"Am"A4 E2|A4 G2|"D"F6-|F2 z2 D2|
+w:They were sis-ters, we were broth ers, and learned to love them true._ And
+"G"G2 A2 B2|G4 F2|"G"G6|"D"D4 D2|"Em"E4 E2|"D"A4 B2|"C"c6-|c4 c2|
+w:one lit-tle girl in blue, lad, who won your fath-ers heart,_ be-
+"D"F4 F2|F2 E2 D2|"G"G2 F2 G2|"Am"A2 B2 c2|"G"d2 d2 B2|"D7"A2 G2 A2|"G"G6-|G4|]
+w:came your moth-er, I mar-ried the oth-er, but now we have drift-ed a-par-t."
+
+X:21901
+T:Ukrainian National Anthem
+T:Shche Ne Vmerla Ukrayiny
+R:March
+C:Mykhaylo Verbytsky (1815-1870)
+O:Ukraine
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=100
+K:G
+"G"B3B "Em"BABc|"G"d3c "Em"B2A2|"G"G2B2"B7"F2B2|"Em"E3F G2A2|
+"G"B3B "Em"BABc|"G"d3c "Em"B2A2|"G"G2B2"B7"F2B2|"Em"E4 E2z2||
+"B"F3F "Em"BAGF|EFGE "B"F2F2|"Em"G2G2"D"A2A2|"G"B4 B2z2|
+"B"F3F "Em"BAGF|EFGE "B"F2F2|"Em"G2B2"B"F2B2|"Em"E3F "G"GABc||
+"G"d3^c d2B2|"D"A2A2 dcBA|"Em"G2G2 "D"A2A2|"G"B3A "Em"GABc|
+"G"d3^c d2B2|"D"A2A2 dcBA|"Em"G2B2 "B7"F2B2|"Em"e4 e4|]
+W:The glory and freedom of Ukraine has not yet perished
+W:Luck will still smile on us brother Ukrainians.
+W:
+W:Our enemies will die, as the dew does in the sunshine,
+W:and we, too, brothers, we'll live happily in our land.
+W:
+W:We'll not spare either our souls or bodies to get freedom
+W:and we'll prove that we brothers are of Kozak kin.
+
+X:23901
+T:Wellerman, The
+R:Shanty
+C:Trad. Arr PGH after Mia Asano
+O:New Zealand
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=130
+K:D
+%%score [1|2]
+V:1
+%%voicecolor black
+%%MIDI program 23 % Tango Accordion
+F2|"Bm"B,2B,B, B,2D2|F2F2 F2FF|"Em"G2EE E2GG|"Bm"BBF2 F2|
+zF|"Bm"B,2CC D2EE|"F#m"FFF2 F2FF|"Bm"F2 E2 "F#m"DD C2|"Bm"B,6||
+"^Chorus"z2|"Bm"B4 "Em"B3G|"F#m"AAF2 F3F|"Em"G2E2 EFG2|"Bm"B2F2 F2|
+z2|"Bm"B4 "Em"B2GG|"F#m"AA F2 F3F|"Bm"F2E2 "F#m"D2C2|"Bm"B,6|]
+V:2
+%%voicecolor maroon
+%%MIDI program 73 % Flute
+A2|B2 BA Bcde|f2 f e f3 f|gfed efga|b2 ba b2|
+BA|B2 BA Bcde|e f2 e f2 f2|faba bc'd'c' &FABA Bcdc|d'c'ba b2 & dcBA B2||
+bf & BF|g2 gf gabc' & G2 GF GABc|d'c'ba f3 f & dcBA F3 F|edef gfed|efed B2|
+BF|GFGA Bcde|e f2 e f2 f2|fafe dedc|B6|]
+W:There once was a ship that put to sea
+W:And the name of that ship was the Billy o' Tea
+W:The winds blew hard, her bow dipped down
+W:Blow, me bully boys, blow
+W:
+W:Soon may the Wellerman come
+W:To bring us sugar and tea and rum
+W:One day, when the tonguing' is done
+W:We'll take our leave and go
+W:
+W:She had not been two weeks from shore
+W:When down on her a right whale bore
+W:The captain called all hands and swore
+W:He'd take that whale in tow ...
+W:
+W:Before the boat had hit the water
+W:The whale's tail came up and caught her
+W:All hands to the side, harpooned and fought her
+W:When she dived down below ...
+W:
+W:No line was cut, no whale was freed
+W:And the captain's mind was not on greed
+W:But he belonged to the Whaleman's creed
+W:She took that ship in tow ) ...
+W:
+W:For forty days or even more
+W:The line went slack then tight once more
+W:All boats were lost, there were only four
+W:And still that whale did go ...
+W:
+W:As far as I've heard, the fight's still on
+W:The line's not cut, and the whale's not gone
+W:The Wellerman makes his regular call
+W:To encourage the captain, crew and all
+W:
+W:Soon may the Wellerman come
+W:To bring us sugar and tea and rum
+W:One day, when the tonguing' is done
+W:We'll take our leave and go
+
+X:23904
+T:When This Bloody War is Over
+T:When This Lousy War is Over
+T:What a Friend We Have in Jesus
+Q:1/4=90
+M:4/4
+L:1/8
+K:Gmaj
+"G" d3 d ed BG|"C" G4 E4|"G" D3 G BG dB|"D7"A8|
+"G" d3 d ed BG|"C" G4 E4|"G" D3 G "D7"BA GF|"G"G8|
+"D" A3 A AB cA|"G" B4 d4|"Em" e3 e "C" dB cB|"D7" A8|
+"G" d3 d ed BG|"C" G4 E4|"G" D3 G "D7"BA GF|"G"G8|]
+W:When this bloody war is over,
+W:No more soldiering for me,
+W:When I get my civvy clothes on,
+W:Oh, how happy I shall be!
+W:No more church parades on Sunday,
+W:No more putting in for leave,
+W:I shall kiss the sergeant-major,
+W:How I'll miss him, how he'll grieve!
+
+X:23902
+T:When You and I Were Young, Maggie
+R:Air
+C:James Butterfield, 1866
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=100
+K:G
+Bc|d2 BA G2 AG|G4 E G z E|D2 GB d2 cB|A6 Bc|
+w:I_ wan-dered to-day to the hill, Mag-gie To watch th-e scene be-e-low. Th-e
+d2 BA G2 AG|G4 E G z E|D2 GB dcAB|G4-G3 G|
+w:creek and the old creak-ing mill, Mag-gie As we used to lo-ng long a-go._ The
+e2 ee c2 ee|d4 B d z B|A2 d2 ^c2 Bc|d6 Bc|
+w:green grove is gone from the hill, Mag-gie Where first the dai-si-es sprung. Th-e
+d2 BA G2 AG|G4 E G z E|D2 GB d2 AB|G4|]
+w:creak-ing old mill i-s still, Mag-gie Since you a-nd I we-re young.
+
+X:23903
+T:When You Were Sweet Sixteen
+C:James Thornton, 1898
+O:USA
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:4/4
+L:1/8
+Q:1/4=100
+K:C
+E|ECEG cBdc|A4-A3 F|FDFG BAGA|G4-G3 E|
+w:When first I saw the love-light in your eye_ I thought the world held nought but joy for me,_ And
+ECEG cBdc|A4-A3 E|DE^FA dBAD|G6 z E|
+w:ev-en though we've drift-ed far a-part,_ I nev-er dream but what I dream of thee. I
+ECEG ce d3/2c/|A4-A3 F|FDFG BA G3/2A/|G4-G3 E|
+w:love you as I nev-er loved be-fore_ Since first I met you on the vill-age green._ Come
+ECEG ce d3/2c/|A4-A3 A|AB d3/2c/ AG (3ABc|[1
+w:to me or my dream of love is o'er._ I love you as I loved you when you were
+e2 (3cde d3/2c/ c2-|c6z:|[2 e4 (3c2d2e2|d3 c c4-|c6|]
+w:sweet when you were sweet six-teen_ sweet when you were sweet six-teen._
+
+X:25901
+T:Ye Banks and Braes
+R:Waltz
+C:Tune: trad. Words: Burns, Seconds: J. McK.
+O:Scotland
+Z:Paul Hardy's Songs Tunebook 2025 (see www.pghardy.net). Creative Commons CC BY-NC-SA licenced.
+M:3/4
+L:1/8
+Q:1/4=130
+K:G
+%%score [1|2]
+V:1
+%%voicecolor black
+%%MIDI program 23 % Tango Accd.
+D2|"G" G4 G2|"D" (A3 G) A2|"Bm" (B2 d2) B2|"D" (A2 G2) A2|"G" (B3 A) G2|"C" (G E3) D2|"G" (D3 E) G2|"D" A4|
+w:Ye|banks and|bra- es o'|bo- nn- ie|Do- on, How|ca- n ye|blo- om sae|fre- sh and|fair?
+(BA)|"G" G4 G2|"D" (A3 G) A2|"Bm" (B2 d2) B2|"D" (A2 G2) A2|"G" (B3 A) G2|"C" (G E3) D2|"G" (D3 E) G2|"G" G4|
+w:Ho- w|can ye|cha- nt, ye|li- tt- le|bir- ds, And|I- i sae|we-ar-y,|f-u' o'|care?
+B2|"G" d4 e2|"G" (d2 B2) G2|"G" d4 e2|"G" (d2 B2) G2|"G" (d2 B2) G2|"G" (d2 B2) G2|"Am" (e3 d) cB|"D" A4|
+w:Thou'lt|break my|he- art, thou|warb- ling|bi- rds, That|wa- nt- on|thro- ugh the|fl- o- w- 'ring|thorn.
+(BA)|"G" G4 G2|"D" (A3 G) A2|"Bm" (B2 d2) B2|"D" (A2 G2) A2|"G" (B3 A) G2|"C" (G E3) D2|"G" (D3 E) G2|"G" !fermata!G4|]
+w:Th- ou|minds me|o- o' de-|pa- rt- ed|jo- ys, De-|pa- rt- ed|n- e- ver|t- o re-|turn.|
+V:2
+%%voicecolor maroon
+%%MIDI program 73 % Flute
+(G,A,)|(B,3 C) D2|(D3 E) F2|G4 (FE)|D4 (EF)|(G3 D) B,2|C4 (G,A,)|B,4 (DE)|D4|
+(G,A,)|(B,3 C) D2|(D3 E) F2|G4 (FE)|D4 (EF)|(G3 D) B,2|C4 (G,A,)|B,4 (DC)|B,4|
+D2|(G3 A) B2|G4 D2|(G3 A) B2|(G2 D2) B,2|D4 (EF)|G4 D2|(A3 G F)E|D4|
+(G,A,)|(B,3 C) D2|(D3 E) F2|G4 (FE)|D4 (EF)|(G3 D) B,2|C4 (G,A,)|B,4 (DE)|!fermata![B,G]4|]
+W:Oft hae i roved by bonnie doon
+W:To see the rose and woodbine twine
+W:And ilka bird sang o' its love
+W:And fondly sae did i o' mine
+W:
+W:Wi' lightsome heart i pulled a rose
+W:Full sweet upon its thorny tree
+W:And my false lover stole my rose
+W:But ah she left the thorn wi' me
+
+

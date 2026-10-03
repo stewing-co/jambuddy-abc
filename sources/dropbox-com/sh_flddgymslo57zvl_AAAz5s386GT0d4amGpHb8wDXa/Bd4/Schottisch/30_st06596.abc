@@ -1,0 +1,85 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Schottisch  EbBb (st06596)  ABA
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.256 (st06596) orig. Eb,Bb
+T: Repertoire der "Dorfmusig Aesch". S.255-269
+T:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+%%partsbox
+P:ABA
+R:Schottisch
+M:2/4
+L:1/16
+K:Eb %%MIDI gchordon
+B,B, [P:A] | "Eb"B,2E2 G2c2 | B3G B2B,B, | "Bb7"B,2.A2 .F2B,B, | "Eb".B,2.G2 .E2B,B, | B,2E2 G2c2 | B3G B2B,B, | 
+"Bb7"B,2A2 F3D | "Eb"E2E2 "_Fine"E2FF |: [P:B]  [K:Bb] "Bb"F3B "Eb"AGFE | "Bb"D2(FD) B,2B,2 | "F7"C2EC A,2A,2 | 
+"Bb"B,A,B,D F2FF | F3B "Eb"AGFE | "Bb"D2FD B,2B,2 | "F7"C2EC A,2A,2 |1 "Bb"B,2B,2 B,2FF :|2  "Bb"B,2B,2 B,2"_>Teil A"B,B, |]  
+% st06596
+% April 27, 2017
+
+
+X:2
+T:Schottisch  EbBb (st06596)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.256 (st06596) orig. Eb,Bb
+S: Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/16
+K:Eb %%MIDI gchordon
+B,B, | "Eb"B,2E2 G2c2 | B3G B2B,B, | "Bb7"B,2.A2 .F2B,B, | "Eb".B,2.G2 .E2B,B, | B,2E2 G2c2 | B3G B2B,B, | 
+"Bb7"B,2A2 F3D | "Eb"E2E2 E2FF |: [K:Bb] "Bb"F3B "Eb"AGFE | "Bb"D2(FD) B,2B,2 | "F7"C2EC A,2A,2 | \
+"Bb"B,A,B,D F2FF |
+ F3B "Eb"AGFE | "Bb"D2FD B,2B,2 | "F7"C2EC A,2A,2 |1 "Bb"B,2B,2 B,2FF :|2  "Bb"B,2B,2 B,2"_>Teil A"B,B, |] [K:Eb] \
+ "Eb"B,2E2 G2c2 |
+ B3G B2B,B, | "Bb7"B,2.A2 .F2B,B, | "Eb".B,2.G2 .E2B,B, | B,2E2 G2c2 | B3G B2B,B, | \
+"Bb7"B,2A2 F3D | "Eb"E2E2 E2 z2 |]   
+W: = Parts ABA
+% st06596
+% April 27, 2017
+
+X:3
+T:Schottisch  FC 2+ (st06596)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.256 (st06596) orig. Eb,Bb
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+CC | "F"C2F2 A2d2 | c3A c2CC | "C7"C2.B2 .G2CC | "F".C2.A2 .F2CC | C2F2 A2d2 | c3A c2CC | 
+"C7"C2B2 G3E | "F"F2F2 F2GG |: [K:Cmaj] "C"G3c "F"BAGF | "C"E2(GE) C2C2 | "G7"D2FD B,2B,2 | \
+"C"CB,CE G2GG |
+G3c "F"BAGF | "C"E2GE C2C2 | "G7"D2FD B,2B,2 |1 "C"C2C2 C2GG :|2 "C"C2C2 C2"_>Teil A"CC |] [K:Fmaj] \
+"F"C2F2 A2d2 |
+c3A c2CC | "C7"C2.B2 .G2CC | "F".C2.A2 .F2CC | C2F2 A2d2 | c3A c2CC | \
+"C7"C2B2 G3E | "F"F2F2 F2 z2 |] 
+W:= Parts ABA
+% st06596
+% April 27, 2017
+
+X:4
+T:Schottisch  CG 9+ (st06596)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.256 (st06596) orig. Eb,Bb
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+GG | "C"G2c2 e2a2 | g3e g2GG | "G7"G2.f2 .d2GG | "C".G2.e2 .c2GG | G2c2 e2a2 | g3e g2GG | 
+"G7"G2f2 d3B | "C"c2c2 c2dd |: [K:Gmaj] "G"d3g "C"fedc | "G"B2(dB) G2G2 | "D7"A2cA F2F2 | \
+"G"GFGB d2dd |
+d3g "C"fedc | "G"B2dB G2G2 | "D7"A2cA F2F2 |1 "G"G2G2 G2dd :|2 "G"G2G2 G2"_>Teil A"GG |] [K:Cmaj] \
+"C"G2c2 e2a2 |
+g3e g2GG | "G7"G2.f2 .d2GG | "C".G2.e2 .c2GG | G2c2 e2a2 | g3e g2GG | \
+"G7"G2f2 d3B | "C"c2c2 c2 z2 |] 
+W:= Parts ABA
+% st06596
+% April 27, 2017

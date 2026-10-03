@@ -1,0 +1,21 @@
+X:101
+T:Andante
+C:Joao de Sousa Carvalho (1745-1798)
+M:3/8
+L:1/8
+K:F
+V: 1 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 1 )]
+%-------
+[Q:"Andante a comodo"] z/2 | z/>a/az | z/>g/gz | z!p!(ba-|a/g/^f/g/d/g/) | =fez | \
+z/>a/az |z/>c'/c'z | z(c'b| b/^g/a/e/f/^c/) | (d/d'/).b/.g/.e/.c'/ | f2z| Z8 | \
+zbg|Z|zbg|z.a.a| Z4| z/>a/az |z/>g/gz | Z3 | z/>a/az |z/>g/gz | Z2 | \
+zz "_Soli"(e//f//g//g//) | g/{=b}(a/g/){b}(a/.g/)c'/ | \
+(c'/=b/a/g/f/e/) | e/d/zz | zz (e//f//g//g//) | g/{=b}a/g/{b}a/g/c'/ | \
+(c'/=b/a/g/f/e/) | e/d/zz| z z//!sfz!(e//f//g//) !p!e | z z//(f//g//a//) f | z z//(g//a//_b//) g | \
+Z7 | zz!fermata!z| Z8 | z/(_e/c)z | z3 | z/(b/g)z | z3 | z/(_e/c)z | z3 | z/(b/g)z | \
+%--??   Z5 | z/(_e/c)z | z3 | z/(b/g)z | z3 | z/(_e/c)z | z3 | z/(b/g)z | \
+Z2 | !p!"_as:(?)"a3|g3|g3-|g3-| g z/(g/b/^g/) | azz| z/(c/e/g/b/^g/) | azz| z!p!.g.g| g z!fermata!z/z/ \
+|| "_[Allegro;follows]"  X | \
+%-------

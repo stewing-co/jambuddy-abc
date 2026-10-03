@@ -1,0 +1,17 @@
+X:502
+T:N.7 Um pouco mais...
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 2 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+%----------- edit between the lines ------------
+[Ad]2/4>[Bd]/[Ad]/ ([FB] .B2/4) | ([Ad]> [Ad]) [AB]2/4[Gd]2/4 | [Ad]2/4>[^Gd]/[Ad]2/4 [Bd]2/4[Ad]2/4[AB]2/4 | \
+[Ac]1/4([Gc]1/4 [Gc]) [EA] [AB]2/4 | [Ac]2/4>=c/[GA]2/4 [EA] [FA]2/4 | ([Gc]> [Gc]) [EA]2/4[FB]2/4 | \
+[Gc]2/4>[FA]/[GB]2/4 [Ec]2/4[Fc]2/4[Ec]2/4 || \
+[M:3/8] [AB] ^A2/4 || \
+[M:6/8] d2/4>[cd]/d2/4 [gb]2/4[GB]2/4[Bd]2/4 | [Ad]3/2 [Bd]3/2 | G2/4>F/E2/4 C z/ | \
+z/ z !p! !>(!(_b2/4>a/g2/4)!>)! | Z | !fermata! Z1 ||
+%-----------------------------------------------

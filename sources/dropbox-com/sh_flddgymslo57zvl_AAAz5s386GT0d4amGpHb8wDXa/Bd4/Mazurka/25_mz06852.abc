@@ -1,0 +1,67 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka CF (mz06852)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.222f (mz06852) orig. C,F
+T: Aus dem Repertoire der Dorfmusik Benken. S.222-236
+T:Überliefert durch Johannes Grass (*1871)
+%%MIDI program 21
+R:Mazurka
+M:4/4
+L:1/8
+K:C %%MIDI gchordon
+"C"G4 (EG cE) | G4 (EG cE) | "G7"F4 (DF Bd) | (df) (fd) (BG) (FD) | "C"G4 EG cE | G4 EG cd | !>!e4!>!"G7"d2!>!d2 | "C"c8 || [M:3/4] 
+"C"C>EG2G2 | AG EGc2 | "G7"B>AA2G2 | G>FF4 | D>EF2G2 | B>cd4 | "C"G>FE2G2 | c>de4 | C>EG2G2 | 
+(AG) (EG) c2 | "G7"B>AA2G2 | G>FD4 | {/^c}"G"d>dB4 |  {/^c}"D7"d>dA4 | {/^d}"C"e>e c4 | {/^d}"G"e>e=d4 | "C"G^F Ec "D7"BA | "G"G2G2z2 || 
+"C"G2EG cd | eze4 | E3G "A7"FE | "Dm"DzD4  | "G7"G3A Bc | dzd4 | F3A GF | "C"FzE4 | "F"F3A cA | 
+"C"G2E2 (EG) | "G7"G>FF2G2 | "C"E6 | "G7"D3E (FA) | "C"A2G2G>c | e>c e2"G7"d2 | "C"c2c2z2 || [K:F] "F"A2A>B A>G | FzF4 | 
+"Dm"F2F>E F>G | AzA4 | "D7"c2c>B c>d | "Gm"B4G>A | "C7"B3G cB | "F"A6 | "C7"G2G>F G>A | B6 | "F"A2 A>G A>B | 
+c4z2 | "Bb"d2e2f2 | ("F"f>c)c4 | "D7"B>AA4 | "Gm"A>GG4 | "C7"G2A2B2 | "F"B>AA4 | "C7"A>GG2A2 | "F"F2F2z2 || 
+ "F"F>Ac4 | F>Ac4 | (fe dc) "D7"BA | "Gm"cBG4 | "C7"BG BG Bc | "F"AF Ac "Bb"fd | "C7"c^c dA BG | "F"F2F2z2 |] 
+%% mz06852
+% March 9, 2017
+
+X:2
+T:Mazurka GC 7+ (mz06852)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.222f (mz06852) orig. C,F
+S:Aus dem Repertoire der Dorfmusik Benken. S.222-236
+S:Überliefert durch Johannes Grass (*1871)
+%%MIDI program 21
+R:Mazurka
+M:4/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"d4 (Bd gB) | d4 (Bd gB) | "D7"c4 (Ac fa) | (ac') (c'a) (fd) (cA) | "G"d4 Bd gB | d4 Bd ga | !>!b4!>!"D7"a2!>!a2 | "G"g8 || [M:3/4] 
+"G"G>Bd2d2 | ed Bdg2 | "D7"f>ee2d2 | d>cc4 | A>Bc2d2 | f>ga4 | "G"d>cB2d2 | g>ab4 | G>Bd2d2 | 
+(ed) (Bd) g2 | "D7"f>ee2d2 | d>cA4 | {/^g}"D"a>af4 | {/^g}"A7"a>ae4 | {/^a}"G"b>b g4 | {/^a}"D"b>b=a4 | "G"d^c Bg "A7"fe | "D"d2d2z2 || 
+"G"d2Bd ga | bzb4 | B3d "E7"cB | "Am"AzA4 | "D7"d3e fg | aza4 | c3e dc | "G"czB4 | "C"c3e ge | 
+"G"d2B2 (Bd) | "D7"d>cc2d2 | "G"B6 | "D7"A3B (ce) | "G"e2d2d>g | b>g b2"D7"a2 | "G"g2g2z2 || [K:Cmaj] "C"e2e>f e>d | czc4 | 
+"Am"c2c>B c>d | eze4 | "A7"g2g>f g>a | "Dm"f4d>e | "G7"f3d gf | "C"e6 | "G7"d2d>c d>e | f6 | "C"e2 e>d e>f | 
+g4z2 | "F"a2b2c'2 | ("C"c'>g)g4 | "A7"f>ee4 | "Dm"e>dd4 | "G7"d2e2f2 | "C"f>ee4 | "G7"e>dd2e2 | "C"c2c2z2 || 
+"C"c>eg4 | c>eg4 | (c'b ag) "A7"fe | "Dm"gfd4 | "G7"fd fd fg | "C"ec eg "F"c'a | "G7"g^g ae fd | "C"c2c2z2 |] 
+%% mz06852
+% March 9, 2017
+
+
+X:3
+T:Mazurka CF (mz06852) (5letras transposed)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.222f (mz06852) orig. C,F
+S: Aus dem Repertoire der Dorfmusik Benken. S.222-236
+S:Überliefert durch Johannes Grass (*1871)
+%%MIDI program 21
+R:Mazurka
+M:4/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"G4 (EG cE) | G4 (EG cE) | "G7"F4 (DF Bd) | (df) (fd) (BG) (FD) | "C"G4 EG cE | G4 EG cd | !>!e4!>!"G7"d2!>!d2 | "C"c8 || [M:3/4] 
+"C"C>EG2G2 | AG EGc2 | "G7"B>AA2G2 | G>FF4 | D>EF2G2 | B>cd4 | "C"G>FE2G2 | c>de4 | C>EG2G2 | 
+(AG) (EG) c2 | "G7"B>AA2G2 | G>FD4 | {/^c}"G"d>dB4 |  {/^c}"D7"d>dA4 | {/^d}"C"e>e c4 | {/^d}"G"e>e=d4 | "C"G^F Ec "D7"BA | "G"G2G2z2 || 
+"C"G2EG cd | eze4 | E3G "A7"FE | "Dm"DzD4  | "G7"G3A Bc | dzd4 | F3A GF | "C"FzE4 | "F"F3A cA | 
+"C"G2E2 (EG) | "G7"G>FF2G2 | "C"E6 | "G7"D3E (FA) | "C"A2G2G>c | e>c e2"G7"d2 | "C"c2c2z2 || [K:F] "F"A2A>B A>G | FzF4 | 
+"Dm"F2F>E F>G | AzA4 | "D7"c2c>B c>d | "Gm"B4G>A | "C7"B3G cB | "F"A6 | "C7"G2G>F G>A | B6 | "F"A2 A>G A>B | 
+c4z2 | "Bb"d2e2f2 | ("F"f>c)c4 | "D7"B>AA4 | "Gm"A>GG4 | "C7"G2A2B2 | "F"B>AA4 | "C7"A>GG2A2 | "F"F2F2z2 || 
+ "F"F>Ac4 | F>Ac4 | (fe dc) "D7"BA | "Gm"cBG4 | "C7"BG BG Bc | "F"AF Ac "Bb"fd | "C7"c^c dA BG | "F"F2F2z2 |] 
+%% mz06852
+% March 9, 2017

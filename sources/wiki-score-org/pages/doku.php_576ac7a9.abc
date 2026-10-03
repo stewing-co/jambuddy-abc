@@ -1,0 +1,27 @@
+X:205
+T:Ns.1-4
+C:Antonio Thomaz de Lima
+M:4/8
+L:1/4
+K:B
+V: 5 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%----------- edit between the lines ------------
+|| "^no mov. inicial" F,/ D,//E,// F,//E,//D,//C,// |\
+"_[fol.4]" B,,/ !p!  z/  F,, | "_pizz" z/ B,,/ z/ =A,,/ | z/ ^A,,/ z/ F,,/ | B,,/ z/ z/  F,,/ | \
+"_arco" !sfz! (F,2 | F,/)  !sfz! A,,//(^B,,/8^^C,/8 D,/)  z/ | X2 | !>! F,,> F,, | B,, F, || \
+M:3/4
+C F, "_pizz" z/ .F,,/ || \
+"_[fol.5]"
+M: 4/8
+!mf! z/ .F,/ z | z/ .F,/ !>(!!>)!z  | !pp! z/ .F,/ z | \
+!>(!!>)! z/ .F,/ z  || \
+M: 2/4
+!f! !>!B,,2 | X |"_[fol.6]" !>!B,,2| !>!B,,2 | B,, !f! !>!D,/!>!F,/ | !>!B,/  z/ z | !p! B,,2 | \
+X | X | B,, !f! !>!D,/!>!F,/ |!>!B,/ z/ z    | X |"_[fol.7]" X| X  | z !f! !>!D,/!>!F,/  | \
+!>!B,,/ z/ z | X3 | z/ !f! D//E// F//E//D//C// |    !>(!B,!>)! > z | "_[fol.8]" !p! !>!B,,2| \
+X | X |!>!C,2|  !>! F,,2 |(!>! F,,2 |F,,/) z/ z| !mf! z/ .B,,/.F,/(!>!B,/| B,2) | X | X |\
+"_[fol.9]" X4 | z !f! z/  "_pizz" .F,/ | z/ !ff! !>!F,/ !>!E,/!>!F,//!>!E,// |\
+D,/D,/ (C, | C,/)^B,,//C,// D,/C,/ | !sfz!  F,,2- | "_[fol.10]" !<!F,, > !>!F,, | !>!B,,/ z/ z| X3 ||
+%-----------------------------------------------

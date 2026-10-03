@@ -1,0 +1,160 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XIIII. Farewell unkind farewell
+T: CANTUS.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on first line
+K:G mix
+z2 z B c d c A B3
+w: 1.~Fare- well un- kind fare- well,
+w: 2.~Tis not the vaine de- sire
+A | c > B A ^G A2 A2 |
+w: to mee no more a fa- ther,
+w: of hu- mane fleet- ing beau- tie,
+z d > B B > G G z A > G G2 ^F | G3
+w: since my heart my heart holdes my love most deare:
+w: Makes my mind to live though my meanes do die,
+B c d c A B3 
+w: The wealth which thou doest reape,
+w: Nor do I Na- ture wrong,
+A | c > B A ^G A2 A2 |
+w: A- no- thers hand must ga- ther,
+w: though I for- get my du- tie:
+z d > B B > G G z  A > G G2 ^F | G -
+w: Though thy heart thy heart still lies bur- ied there,
+w: Love, not in the bloud, but~in the spirit doth lie.
+|: G z d B G z d c A 
+w: * Then fare- well, then fare- well,
+z e | c A z d > c B A 
+w: O fare- well, wel- come my love, 
+d > c B A G A2 G :|
+w: wel- come my joy for- e- ver.
+
+X:2
+T:XIIII. Farewell unkind farewell
+T:ALTUS.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on second line
+K:G mix
+z2 z G G G G ^F G3
+w: 1.~Fare- well un- kind fare- well,
+w: 2.~Tis not the vaine de- sire
+E E > E E E E2 E2 
+w: to mee no more a fa- ther,
+w: of hu- mane fleet- ing beau- tie,
+^F F D G > E E > C E D D  D > C B,3
+w: since my heart, since my heart, my heart holdes my love most deare:
+w: Makes my mind, makes my mind,  to live though my meanes do die,
+G G G G ^F G3
+w: The wealth which thou doest reape,
+w: Nor do I Na- ture wrong,
+E E > E E E E2 E2
+w: A- no- thers hand must ga- ther,
+w: though I for- get my du- tie:
+^F F D G > E  E > C C D D D > C B,
+w: Though thy heart, though thy heart thy heart still lies bur- ied there,
+w: Love, not in the bloud, but in the spi- rit doth _ lie.
+|: D > E ^F z D > E ^F z E > ^F ^G 
+w: Then fare- well, then fare- well, then fare- well,
+z2 A ^F D G ^F > G A 
+w: O fare- well, wel- come my joy, 
+G ^F G2 ^F G :|
+w: my joy for- e- ver.
+
+X:3
+T:XIIII. Farewell unkind farewell
+T:TENOR.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on third line
+%%MIDI transpose -12
+K:G mix -8va
+z2 z d e d e d d3
+w: 1.~Fare- well un- kind fare- well,
+w: 2.~Tis not the vaine de- sire
+ c A > "?"B c B ^c2 c2 
+w: to mee no more a fa- ther,
+w: of hu- mane fleet- ing beau- tie,
+d > A B > G F > E E > c B B A2 G3
+w: since my heart, my heart,  my heart holdes my love most deare:
+w: Makes my mind, my mind  to live though my meanes do die,
+d e d e d d3
+w: The wealth which thou doest reape,
+w: Nor do I Na- ture wrong,
+c A > B c B ^c2 c2
+w: A- no- thers hand must ga- ther,
+w: though I for- get my du- tie:
+d > A B > G G > E E > c B B A > A G
+w: Though thy heart, thy heart,  thy heart,  thy heart  lies bur- ied there,
+w: Love, not in, not in the bloud, but in the spi- rit lies.
+|: B/ c/ d A z  B/ c/ d A z c/ d/ e B
+w: Then _ fare- well, then _ fare- well, then _ fare- well,
+e c A2 z d > c B A 
+w: O fare- well, wel- come my love, 
+d > c B/ c A/ d B :|
+w: wel- come my joy for- e- ver.
+
+X:4
+T:XIIII. Farewell unkind farewell
+T:BASSUS.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -24
+K:G mix bass
+z2 z G c B c d G3
+w: 1.~Fare- well un- kind fare- well,
+w: 2.~Tis not the vaine de- sire
+A a > ^g a e A2 A2
+w: to mee no more a fa- ther,
+w: of hu- mane fleet- ing beau- tie,
+d > d g > e e > c c A B > c d2 G3
+w: since my heart, my heart, my heart holdes my love most deare:
+w: Makes my mind, my mind to live though my meanes do die,
+G c B c d G3 
+w: The wealth which thou doest reape,
+w: Nor do I Na- ture wrong,
+A a > ^g a e A2 A2
+w: A- no- thers hand must ga- ther,
+w: though I for- get my du- tie:
+d > d g > e e > c c A B > c d d G
+w: Though thy heart thy heart  thy heart still lies _ bur- ied there,
+w: Love, not in, not in the bloud, but in the spi- rit lies.
+|:g ^f d z g f d 
+w: Then fare- well, then fare- well,
+z a ^g e z a ^f d g > G d3/2
+w: O fare- well, wel- come my love, 
+e/ ^f g d e d2 G :|
+w: wel- come, wel- come my joy for- e- ver.

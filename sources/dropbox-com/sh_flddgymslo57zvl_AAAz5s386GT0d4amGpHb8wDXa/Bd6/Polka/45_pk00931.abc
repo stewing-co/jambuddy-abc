@@ -1,0 +1,100 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Ronde enfantine (Polka)  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.272 (pk00931) orig. C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"c2BA G2G2 | E2G2 A2G2 | c2BA G3G | "G7"F2G2"C"E4 | c2BA G2G2 | E2G2 A2G2 | c2BA G3G | "G7"B3G "C"c2z2 |] 
+X:2
+T:Ronde enfantine (Polka)  G 7+
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+"G"g2fe d2d2 | B2d2 e2d2 | g2fe d3d | "D7"c2d2"G"B4 | g2fe d2d2 | B2d2 e2d2 | g2fe d3d | "D7"f3d "G"g2z2 |] 
+% pk00931
+X:3
+T:Ronde enfantine (Polka)  G 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+"G"G2FE D2D2 | B,2D2 E2D2 | G2FE D3D | "D7"C2D2"G"B,4 | G2FE D2D2 | B,2D2 E2D2 | G2FE D3D | "D7"F3D "G"G2z2 |] 
+% pk00931
+X:4
+T:Ronde enfantine (Polka)  F 5+
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F%%MIDI gchordon
+"F"f2ed c2c2 | A2c2 d2c2 | f2ed c3c | "C7"B2c2"F"A4 | f2ed c2c2 | A2c2 d2c2 | f2ed c3c | "C7"e3c "F"f2z2 |] 
+% pk00931
+X:5
+T:Ronde enfantine (Polka)  C (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"c2BA G2G2 | E2G2 A2G2 | c2BA G3G | "G7"F2G2"C"E4 | c2BA G2G2 | E2G2 A2G2 | c2BA G3G | "G7"B3G "C"c2z2 |] 
+% pk00931
+X:6
+T:Ronde enfantine (Polka)  G (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"g2fe d2d2 | B2d2 e2d2 | g2fe d3d | "D7"c2d2"G"B4 | g2fe d2d2 | B2d2 e2d2 | g2fe d3d | "D7"f3d "G"g2z2 |] 
+% pk00931
+X:7
+T:Ronde enfantine (Polka)  G (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"G2FE D2D2 | B,2D2 E2D2 | G2FE D3D | "D7"C2D2"G"B,4 | G2FE D2D2 | B,2D2 E2D2 | G2FE D3D | "D7"F3D "G"G2z2 |] 
+% pk00931
+X:8
+T:Ronde enfantine (Polka)  F (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+"F"f2ed c2c2 | A2c2 d2c2 | f2ed c3c | "C7"B2c2"F"A4 | f2ed c2c2 | A2c2 d2c2 | f2ed c3c | "C7"e3c "F"f2z2 |] 
+% pk00931
+X:9
+T:Ronde enfantine (Polka) D (tinwhistle in D)
+T:pk00931 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D%%MIDI gchordon
+"D"d2cB A2A2 | F2A2 B2A2 | d2cB A3A | "A7"G2A2"D"F4 | d2cB A2A2 | F2A2 B2A2 | d2cB A3A | "A7"c3A "D"d2z2 |] 
+X:10
+T:Ronde enfantine (Polka) D (tinwhistle in D) solo
+T:pk00931 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+d2cB A2A2 | F2A2 B2A2 | d2cB A3A | G2A2F4 | d2cB A2A2 | F2A2 B2A2 | d2cB A3A | c3A d2z2 |]% pk00931
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 6, 2016

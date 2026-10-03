@@ -1,0 +1,41 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Chuchirast (Schottisch) AbEb  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.122 (st05828) orig. Ab,Eb-Dur
+T: Berner Oberl\"ander T\"anze (Bern)
+M:2/4
+L:1/16
+K:Ab %%MIDI gchordon
+"Ab"e2ec A2c2 | "Eb7"d2dB G2G2 | egg2 dff2 | "Ab"ceec A4 | e2ec A2c2 | "Eb7"d2dB G2G2 | egg2 gfdB | "Ab"A2c2 A2z2 :: [K:Eb]
+"Eb"Bgg2 Bee2 | "Bb7"BddB A4 | Bbb2 Baa2 | "Eb"BeeB G4 | Bgg2 Bee2 | "Bb7"BddB A4 | Bbb2 afdf | "Eb"e2g2 e2z2 :|  
+W:
+W: D'Chuchit\"ure zue u. d'Stubet\"ure zue, D'Gadet\"ure zue
+W:
+W: (d'Chuchi = die K\"uche; d'Gade = der Stall)
+
+X:2
+T:Chuchirast (Schottisch) CG 8-  chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"G2GE C2E2 | "G7"F2FD B,2B,2 | GBB2 FAA2 | "C"EGGE C4 | G2GE C2E2 | "G7"F2FD B,2B,2 | GBB2 BAFD | "C"C2E2 C2z2 :: [K:Gmaj]
+"G"DBB2 DGG2 | "D7"DFFD C4 | Ddd2 Dcc2 | "G"DGGD B,4 | DBB2 DGG2 | "D7"DFFD C4 | Ddd2 cAFA | "G"G2B2 G2z2 :| 
+
+X:3
+T:Chuchirast (Schottisch) FC 3-  chords
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+"F"c2cA F2A2 | "C7"B2BG E2E2 | cee2 Bdd2 | "F"AccA F4 | c2cA F2A2 | "C7"B2BG E2E2 | cee2 edBG | "F"F2A2 F2z2 :: [K:Cmaj]
+"C"Gee2 Gcc2 | "G7"GBBG F4 | Ggg2 Gff2 | "C"GccG E4 | Gee2 Gcc2 | "G7"GBBG F4 | Ggg2 fdBd | "C"c2e2 c2z2 :| 
+
+X:4
+T:Chuchirast (Schottisch) FC 3-  Anm
+M:2/4
+L:1/16
+K:Fmaj%%MIDI gchordon
+"F"c2cA F2"_ ="A2 | "C7""_b"B2B"_g"G "_e"E2E2 | c"_e"ee2 "_b"B"_d"dd2 | "F"AccA F4 |\
+   c2cA F2"_ ="A2 | "C7"B2"_b"B"_g"G "_e"E2E2 | c"_e"ee2 "_e"e"_d"d"_b"B"_ g ="G | "F"F2A2 F2z2 :: [K:Cmaj]
+"C"Gee2 Gcc2 | "G7"GBBG F4 | Ggg2 Gff2 | "C"GccG E4 |\
+   Gee2 Gcc2 | "G7"GBBG F4 | Ggg2 fdBd |"" "C"c2e2 c2z2 :| 

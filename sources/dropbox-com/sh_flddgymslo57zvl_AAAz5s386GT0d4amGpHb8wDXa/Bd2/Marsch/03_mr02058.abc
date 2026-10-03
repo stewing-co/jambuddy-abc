@@ -1,0 +1,83 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Boccaccio-Marsch FBb
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.294f (mr02058) orig. F,Bb
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T: Überliefert vermutlich durch Joggi Stocker (1889-1956)
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:march
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c/c/ | "F"fc "F/A"AB/c/ | "Bb"dB GA/B/ | "C7"c2 ed/e/ | "F"f2 zc/c/  || [P:A] "F"f2 e>A | dd d>A | d>A d>A | 
+"C7"B2z2 | G2AB | c>e eg | e>g d>f | "F"c2 A/B/"_*"=B/"_*"c/ | f2 e>A | dd d>A | d>A d>A |  "C"c2z2 | 
+B>g c>e | gc' gd | "G7".e2.d2 | "C"c2 zc/c/ [P:B] |: "Gm"d2 d/B/c/d/ | "C7"dd/d/ de | "F"f2 f/c/A/c/ | ff/f/ ff | "C7"g2 g/e/c/e/ | 
+gg/g/ fg | "F"a>g f>e | d>c B>c | "Gm"d2 d/B/c/d/ | "C7"dd/d/ de | "F"f2 f/c/A/c/ | ff/f/ ff | 
+"Gm"g>^f ga | "C7"b3e | "F"f2 "C7"cd/e/ |1 "F"f1f1 fz :|2 [K:Bb] "F"f2b>a || [P:C] ("Bb"b4 | b)a gd | "F7"e>d c>d | e>f g>f | a4 | 
+ag fe | "Bb"d>c B>d | f>f ga | b4 | b>a gd | "F7"e4 | c4 | c2e2 | d2c2 | "Bb"Bd "F7"ef | "Bb"B2z2 |]  
+W:
+W:Anmerkung Hrsg.: Titel HC: Pocacio Marsch. Takt 12: HC c-d
+W: Übergang zu Teil C: HC unvollständig
+% mr02058
+
+X:2
+T:Boccaccio-Marsch CG 5-
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.294f (mr02058) orig. F,Bb
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:march
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G/2G/2 | "C"cG "C/E"EF/2G/2 | "F"AF DE/2F/2 | "G7"G2 BA/2B/2 | "C"c2 zG/2G/2 || "C"c2 B>E | AA A>E | A>E A>E | 
+"G7"F2z2 | D2EF | G>B Bd | B>d A>c | "C"G2 E/2F/2^F/2G/2 | c2 B>E | AA A>E | A>E A>E | "G"G2z2 | 
+F>d G>B | dg dA | "D7".B2.A2 | "G"G2 zG/2G/2 |: "Dm"A2 A/2F/2G/2A/2 | "G7"AA/2A/2 AB | "C"c2 c/2G/2E/2G/2 | cc/2c/2 cc | "G7"d2 d/2B/2G/2B/2 | 
+dd/2d/2 cd | "C"e>d c>B | A>G F>G | "Dm"A2 A/2F/2G/2A/2 | "G7"AA/2A/2 AB | "C"c2 c/2G/2E/2G/2 | cc/2c/2 cc | 
+"Dm"d>^c de | "G7"f3B | "C"c2 "G7"GA/2B/2 |1 "C"cc cz :|2 [K:Fmaj] "C"c2f>e || ("F"f4 | f)e dA | "C7"B>A G>A | B>c d>c | e4 | 
+ed cB | "F"A>G F>A | c>c de | f4 | f>e dA | "C7"B4 | G4 | G2B2 | A2G2 | "F"FA "C7"Bc | "F"F2z2 |] 
+% mr02058
+
+X:3
+T:Boccaccio-Marsch GC 2+
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.294f (mr02058) orig. F,Bb
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:march
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+d/2d/2 | "G"gd "G/B"Bc/2d/2 | "C"ec AB/2c/2 | "D7"d2 fe/2f/2 | "G"g2 zd/2d/2 || "G"g2 f>B | ee e>B | e>B e>B | 
+"D7"c2z2 | A2Bc | d>f fa | f>a e>g | "G"d2 B/2c/2^c/2d/2 | g2 f>B | ee e>B | e>B e>B | "D"d2z2 | 
+c>a d>f | ad' ae | "A7".f2.e2 | "D"d2 zd/2d/2 |: "Am"e2 e/2c/2d/2e/2 | "D7"ee/2e/2 ef | "G"g2 g/2d/2B/2d/2 | gg/2g/2 gg | "D7"a2 a/2f/2d/2f/2 | 
+aa/2a/2 ga | "G"b>a g>f | e>d c>d | "Am"e2 e/2c/2d/2e/2 | "D7"ee/2e/2 ef | "G"g2 g/2d/2B/2d/2 | gg/2g/2 gg | 
+"Am"a>^g ab | "D7"c'3f | "G"g2 "D7"de/2f/2 |1 "G"gg gz :|2 [K:Cmaj] "G"g2c'>b || ("C"c'4 | c')b ae | "G7"f>e d>e | f>g a>g | b4 | 
+ba gf | "C"e>d c>e | g>g ab | c'4 | c'>b ae | "G7"f4 | d4 | d2f2 | e2d2 | "C"ce "G7"fg | "C"c2z2 |] 
+% mr02058
+
+X:4
+T:Boccaccio-Marsch D&G (tinwhistle in D) var. solo
+T:GL02013 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.294f (mr02058) orig. F,Bb
+O:Switzerland
+%abc-charset utf-8
+R:march
+M:2/4
+L:1/8
+K:D transpose=12
+A/2A/2 | dA FG/2A/2 | BG EF/2G/2 | A2 cB/2c/2 | d2 zA/2A/2 || d2 c>F | BB B>F | B>F B>F | 
+G2z2 | E2FG | A>c ce | c>e B>d | A2 F/2G/2^G/2A/2 | d2 c>F | BB B>F | B>F B>F | A2z2 | 
+G>e A>c | ea eB | .c2.B2 | A2 zA/2A/2 |: B2 B/2G/2A/2B/2 | BB/2B/2 Bc | d2 d/2A/2F/2A/2 | dd/2d/2 dd | e2 e/2c/2A/2c/2 | 
+ee/2e/2 de | f>e d>c | B>A G>A | B2 B/2G/2A/2B/2 | BB/2B/2 Bc | d2 d/2A/2F/2A/2 | dd/2d/2 dd | 
+e>^d ef | g3c | d2 AB/2c/2 |1 dd dz :|2 [K:Gmaj] d2g>f || (g4 | g)f eB | "_c"c>B A>B | c>d e>d | f4 | 
+fe dc | B>A G>B | d>d ef | g4 | g>f eB | c4 | A4 | A2c2 | B2A2 | GB cd | G2z2 |]
+% mr02058
+% Sep 30, 2016

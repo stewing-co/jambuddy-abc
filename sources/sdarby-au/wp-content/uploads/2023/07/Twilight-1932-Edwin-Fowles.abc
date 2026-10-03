@@ -1,0 +1,35 @@
+
+X:1932
+T:Twilight 1932
+C:music Dr Ediwn W H Fowles 1872-1945 
+C:lyric John G Whittier 1807-1893 'When On My Day of Life'
+S:National Library of AUSTRALIA http://trove.nla.gov.au/version/34938953
+Z:Stephen Hamish Darby creative commons attribution only 4.0 unported
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+M:4/2
+I:linebreak $
+V:1 treble nm="Organ" snm="Org."
+V:2 treble nm="Organ" snm="Org."
+V:3 bass nm="Organ" snm="Org."
+V:3 bass nm="Organ" snm="Org."
+K:F
+V:1
+[I: MIDI=program 21]F G A | B2 A2  c A F A | G2 D6/2  F E D | C2 F2 | D D G A | G8/2 z | A 2 B c | d2 d2  
+w:When on my day of life the night is fall-ing and in the winds from un-sunned spa-ces blown. I hear far voic-es 
+w:Be near me when all else is from me drift-ing, Earth, sky, home's pic-tures, days of shade and shine And kind-ly fa-ces 
+F F G A |$ B2 B6/2  D E F | C2 A4  G2 | F4z :| F4 | F4 |] 
+w:out of dark-ness call-ing my feet to paths un--known. A-men
+w:to my own up-lif-ting. The love which an--swers mine
+V:2
+[I: MIDI=program 21]F E _E|(D=E)F2 E E D F |D2 B,6/2 D C B, | C2 C2 B, C =B, B, | C8/2z|
+C D F| F2 F2 _E E E E | D2 D6/2 B, =B, B, | C2 F2 E8/2 | F8/2z|D4|C4:|
+V:3
+[I: MIDI=program 20]A,B,C|D2 C2 C C A, C | B,2 F,6/2 D,E, F, | F,2 F,2 F, ^F, G, =F, | E,8/2z|
+F, D, C,|B,2 A,2 C C B, C | B,2F,6/2 G, G, ^G, | A,2 C2 B,4 | A,4z:|B,4|A,4|]
+V:4 
+[I: MIDI=program 20]F, F, F, | F,2 F,2 | A,, A,, D, A,, | B,,2 B,,6/2  B,, B,, B,, | A,,2 A,,2 | 
+B,, A,, G,, F,, | C,8/2 z | F, F, A, | B,,2 F,2 | A, A, G, F, |$ B,2 B,,6/2z3 | 
+ | z C, C, C, | C,2 C,2 | F,,4z :| B,,4 | F,,4 |] 
+
+

@@ -1,0 +1,97 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Sauteuse 1840 (Hopser)  GD
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.20 (hp08924) orig. G,D-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+D |: "D7"FA dF | "G".G2!>!g2 | "D7"de cA | {/A}"G"GF GD | "D7"FA dF | "G".G2!>!g2 | "D7"de cA |1 "G"G2zD :|2 "G"G2za || [K:D] 
+|: "D"fb/a/ ^ga | "A7"e'3f' | {/e'}"D"d'c' d'a | "A7"e'3f' | {/e'}"D"d'c' d'^d' | "G"e'g bd | "A7"dc Bc |1 "D"d2za :|2 "D"d2zd || [K:G] 
+|: "D7"a3a/g/ | ff ga | "G"b3b/a/ | gg gb | "D7"c'e' d'c' | {/c'}"G"b^a bg | {/b}"D7"a^g af |1 "G"g2zd :|2 "G"g2zB || 
+|: "Em"gf/e/ ^de | "B7"fB ^c^d | {/f}"Em"e^d eg | "B7"b2zb | "G"b>g d>b | "Am"a>e c>a | "D7"fA df |1 "G"g2zB :|2 "G"g2z2 |] 
+W:
+W: Sauteuse (from fr. sauter - dt. hoppsen, h\"upfen - to hop, jump, leap, skip)
+% hp08924
+X:2
+T:Sauteuse 1840 (Hopser)  FC 2-
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+C |: "C7"EG cE | "F".F2!>!f2 | "C7"cd BG | {/G}"F"FE FC | "C7"EG cE | "F".F2!>!f2 | "C7"cd BG |1 "F"F2zC :|2 "F"F2zg || [K:C] 
+|: "C"ea/2g/2 ^fg | "G7"d'3e' | {/d'}"C"c'b c'g | "G7"d'3e' | {/d'}"C"c'b c'^c' | "F"d'f ac | "G7"cB AB |1 "C"c2zg :|2 "C"c2zc || [K:F] 
+|: "C7"g3g/2f/2 | ee fg | "F"a3a/2g/2 | ff fa | "C7"bd' c'b | {/b}"F"a^g af | {/a}"C7"g^f ge |1 "F"f2zc :|2 "F"f2zA || 
+|: "Dm"fe/2d/2 ^cd | "A7"eA =B^c | {/e}"Dm"d^c df | "A7"a2za | "F"a>f c>a | "Gm"g>d B>g | "C7"eG ce |1 "F"f2zA :|2 "F"f2z2 |] 
+% hp08924
+X:3
+T:Sauteuse 1840 (Hopser)  CG 7-
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G, |: "G7"B,D GB, | "C".C2!>!c2 | "G7"GA FD | {/D}"C"CB, CG, | "G7"B,D GB, | "C".C2!>!c2 | "G7"GA FD |1 "C"C2zG, :|2 "C"C2zd || [K:G] 
+|: "G"Be/2d/2 ^cd | "D7"a3b | {/a}"G"gf gd | "D7"a3b | {/a}"G"gf g^g | "C"ac eG | "D7"GF EF |1 "G"G2zd :|2 "G"G2zG || [K:C] 
+|: "G7"d3d/2c/2 | BB cd | "C"e3e/2d/2 | cc ce | "G7"fa gf | {/f}"C"e^d ec | {/e}"G7"d^c dB |1 "C"c2zG :|2 "C"c2zE || 
+|: "Am"cB/2A/2 ^GA | "E7"BE ^F^G | {/B}"Am"A^G Ac | "E7"e2ze | "C"e>c G>e | "Dm"d>A F>d | "G7"BD GB |1 "C"c2zE :|2 "C"c2z2 |] 
+% hp08924
+X:4
+T:Sauteuse 1840 (Hopser)  FC (5letras transposed)
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+C |: "C7"EG cE | "F".F2!>!f2 | "C7"cd BG | {/G}"F"FE FC | "C7"EG cE | "F".F2!>!f2 | "C7"cd BG |1 "F"F2zC :|2 "F"F2zg || [K:C] 
+|: "C"ea/2g/2 ^fg | "G7"d'3e' | {/d'}"C"c'b c'g | "G7"d'3e' | {/d'}"C"c'b c'^c' | "F"d'f ac | "G7"cB AB |1 "C"c2zg :|2 "C"c2zc || [K:F] 
+|: "C7"g3g/2f/2 | ee fg | "F"a3a/2g/2 | ff fa | "C7"bd' c'b | {/b}"F"a^g af | {/a}"C7"g^f ge |1 "F"f2zc :|2 "F"f2zA || 
+|: "Dm"fe/2d/2 ^cd | "A7"eA =B^c | {/e}"Dm"d^c df | "A7"a2za | "F"a>f c>a | "Gm"g>d B>g | "C7"eG ce |1 "F"f2zA :|2 "F"f2z2 |] 
+% hp08924
+X:5
+T:Sauteuse 1840 (Hopser)  CG (5letras transposed)
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+G, |: "G7"B,D GB, | "C".C2!>!c2 | "G7"GA FD | {/D}"C"CB, CG, | "G7"B,D GB, | "C".C2!>!c2 | "G7"GA FD |1 "C"C2zG, :|2 "C"C2zd || [K:G] 
+|: "G"Be/2d/2 ^cd | "D7"a3b | {/a}"G"gf gd | "D7"a3b | {/a}"G"gf g^g | "C"ac eG | "D7"GF EF |1 "G"G2zd :|2 "G"G2zG || [K:C] 
+|: "G7"d3d/2c/2 | BB cd | "C"e3e/2d/2 | cc ce | "G7"fa gf | {/f}"C"e^d ec | {/e}"G7"d^c dB |1 "C"c2zG :|2 "C"c2zE || 
+|: "Am"cB/2A/2 ^GA | "E7"BE ^F^G | {/B}"Am"A^G Ac | "E7"e2ze | "C"e>c G>e | "Dm"d>A F>d | "G7"BD GB |1 "C"c2zE :|2 "C"c2z2 |] 
+% hp08924
+
+
+X:6
+T: Sauteuse 1840 (Hopser) G&D (tinwhistle in D)
+T:hp08924 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+D |: "D7"FA dF | "G".G2!>!g2 | "D7"de cA | {/A}"G"GF GD | "D7"FA dF | "G".G2!>!g2 | "D7"de cA |1 "G"G2zD :|2 "G"G2za || [K:D] 
+|: "D"fb/a/ ^ga | "A7"e'3f' | {/e'}"D"d'c' d'a | "A7"e'3f' | {/e'}"D"d'c' d'^d' | "G"e'g bd | "A7"dc Bc |1 "D"d2za :|2 "D"d2zd || [K:G] 
+|: "D7"a3a/g/ | ff ga | "G"b3b/a/ | gg gb | "D7"c'e' d'c' | {/c'}"G"b^a bg | {/b}"D7"a^g af |1 "G"g2zd :|2 "G"g2zB || 
+|: "Em"gf/e/ ^de | "B7"fB ^c^d | {/f}"Em"e^d eg | "B7"b2zb | "G"b>g d>b | "Am"a>e c>a | "D7"fA df |1 "G"g2zB :|2 "G"g2z2 |] 
+X:7
+T: Sauteuse 1840 (Hopser) G&D (tinwhistle in D) var. solo
+T:hp08924 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+%%MIDI program 21
+R:
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+D |: FA dF | .G2!>!g2 | de "_c"cA | {/A}GF GD | FA dF | .G2!>!g2 | de "_c"cA |1 G2zD :|2 G2zA || [K:D] 
+|: FB/2A/2 ^GA | e3f | {/e}dc dA | e3f | {/e}dc d^d | eG BD | D"_=C"C "_=B,"B,"_C"C |1 D2zA :|2 D2zD || [K:Gmaj] 
+|: A3A/2G/2 | FF GA | B3B/2A/2 | GG GB | "_c"ce dc | {/c}B^A BG | {/B}A^G AF |1 G2zD :|2 G2zB || 
+|: gf/e/ ^de | fB ^c^d | {/f}e^d eg | b2zb | b>g d>b | a>e "_c"c>a | fA df |1 g2zB :|2 g2z2 |]
+
+% Aug. 8, 2016

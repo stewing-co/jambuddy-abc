@@ -1,0 +1,49 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka  FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.79 (pk00081) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"c2de "Bb"f2ed | "F"dcc2 !>!a4 | "C7"cBB2 !>!g4 | "F"BAA2 !>!f4 | "F"c2de "Bb"f2ed | "F"dcc2 a4 | gfe2 fed2 | "C7"c2c2 c2z2 ::
+"C7"c2b2 bag2 | "F"g2f2 fcA2 | "C7"c2B2 e3g | "F"f2a2c4 | "C7"c2b2 bag2 | "F"g2f2 fcA2 | "C7"c2B2 e3g | "F"f2f2 f2z2 :| [K:Bb]
+"Bb"f4 "Gm/D"g3f | "Cm"f2e2e4 | "F7"ffff a2a2 | "Bb"ffff b2b2 | "Gm/D"f4 b3d | "Cm"f2e2e4 | "F7"ffff a2a2 | "Bb"b2b2 b2z2 |] 
+
+X:2
+T:Polka  CF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"G2AB "F"c2BA | "C"AGG2 !>!e4 | "G7"GFF2 !>!d4 | "C"FEE2 !>!c4 | "C"G2AB "F"c2BA | "C"AGG2 e4 | dcB2 cBA2 | "G7"G2G2 G2z2 ::
+"G7"G2f2 fed2 | "C"d2c2 cGE2 | "G7"G2F2 B3d | "C"c2e2G4 | "G7"G2f2 fed2 | "C"d2c2 cGE2 | "G7"G2F2 B3d | "C"c2c2 c2z2 :| [K:Fmaj]
+"F"c4 "Dm/A"d3c | "Gm"c2B2B4 | "C7"cccc e2e2 | "F"cccc f2f2 | "Dm/A"c4 f3A | "Gm"c2B2B4 | "C7"cccc e2e2 | "F"f2f2 f2z2 |] 
+
+X:3
+T:Polka  GC 10- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"D2EF "C"G2FE | "G"EDD2 !>!B4 | "D7"DCC2 !>!A4 | "G"CB,B,2 !>!G4 | "G"D2EF "C"G2FE | "G"EDD2 B4 | AGF2 GFE2 | "D7"D2D2 D2z2 ::
+"D7"D2c2 cBA2 | "G"A2G2 GDB,2 | "D7"D2C2 F3A | "G"G2B2D4 | "D7"D2c2 cBA2 | "G"A2G2 GDB,2 | "D7"D2C2 F3A | "G"G2G2 G2z2 :| [K:Cmaj]
+"C"G4 "Am/E"A3G | "Dm"G2F2F4 | "G7"GGGG B2B2 | "C"GGGG c2c2 | "Am/E"G4 c3E | "Dm"G2F2F4 | "G7"GGGG B2B2 | "C"c2c2 c2z2 |] 
+
+X:4
+T:Polka EbAb (5letras) cf. CF
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+"Eb"B2cd "Ab"e2dc | "Eb"cBB2 !>!g4 | "Bb7"BAA2 !>!f4 | "Eb"AGG2 !>!e4 | "Eb"B2cd "Ab"e2dc | "Eb"cBB2 g4 | fed2 edc2 | "Bb7"B2B2 B2z2 ::
+"Bb7"B2a2 agf2 | "Eb"f2e2 eBG2 | "Bb7"B2A2 d3f | "Eb"e2g2B4 | "Bb7"B2a2 agf2 | "Eb"f2e2 eBG2 | "Bb7"B2A2 d3f | "Eb"e2e2 e2z2 :| [K:Abmaj]
+"Ab"e4 "Fm/C"f3e | "Bbm"e2d2d4 | "Eb7"eeee g2g2 | "Ab"eeee a2a2 | "Fm/C"e4 a3c | "Bbm"e2d2d4 | "Eb7"eeee g2g2 | "Ab"a2a2 a2z2 |] 
+
+X:5
+T:Polka  BbEb (5letras) cf. GC
+M:2/4
+L:1/16
+K:Bbmaj%%MIDI gchordon
+"Bb"F2GA "Eb"B2AG | "Bb"GFF2 !>!d4 | "F7"FEE2 !>!c4 | "Bb"EDD2 !>!B4 | "Bb"F2GA "Eb"B2AG | "Bb"GFF2 d4 | cBA2 BAG2 | "F7"F2F2 F2z2 ::
+"F7"F2e2 edc2 | "Bb"c2B2 BFD2 | "F7"F2E2 A3c | "Bb"B2d2F4 | "F7"F2e2 edc2 | "Bb"c2B2 BFD2 | "F7"F2E2 A3c | "Bb"B2B2 B2z2 :| [K:Ebmaj]
+"Eb"B4 "Cm/G"c3B | "Fm"B2A2A4 | "Bb7"BBBB d2d2 | "Eb"BBBB e2e2 | "Cm/G"B4 e3G | "Fm"B2A2A4 | "Bb7"BBBB d2d2 | "Eb"e2e2 e2z2 |] 

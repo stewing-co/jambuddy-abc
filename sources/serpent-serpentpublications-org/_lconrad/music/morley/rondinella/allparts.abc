@@ -1,0 +1,81 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:IX. Fantasie: La Rondinella:
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+K: F
+T:Cantus
+L:1/8
+%1
+z8 c8 A2 c3 B A G F2 G2 A2 B2 c2 A2 G4 F2 f4 e2 d4 A2 A2 B2 G4 ^F2 \
+%2
+G4 D4 z2 B4 A2 G2 E2 D4 C2 c4 B2 A4 G4 F2 f4 e2 d2 c4 =B2 c2 G3 A B3 A F3 G A2 \
+%3
+G2 F4 E2 "A"F2 C2 F3 F E2 C2 G4 F E F G A B c2 =B2 c4 =B2 c4 z2 c2 A3 G F4 \
+%4
+z2 f2 d3 c B2 A2 G4 A2 F2 A3 B c4 z2 G2 B3 c d2 G2 ^F2 G4 ^F2 "B"G4 \
+%5
+z2 B4 G4 c3 B A2 G2 F2 E2 F2 C D E F G A B G A B c G B2 A3 E G D F2 E3 D \
+%6
+D4 ^C2 D4 z2 d2 c A B2 A d2 ^c d2 z A G E F G A B c2 B2 A4 G2 A2 F2 E4 z2 D2 \
+%7
+"(1)"F3 G A2 A,2 C3 D E2 F4 E2 F2 c4 B2 A2 c2 B2 A2 G A B G A B c2 B2 A2 G2 F2 \
+%8
+E4 D4 C2 c2 F2 G2 A3 G A2 =B2 c2 c4 =B2 c2 e2 d4 c2 f2 c2 d2 e3 d B2 d2 \
+N: (1) original has F2, quarter note.
+%9
+=B2 c4 =B2 c2 c2 F2 G2 A G F E D2 G2 F2 D2 E2 c2 d2 e2 f e d c B A G2 A2 =B2 c2 A2 G4 HA8|]
+
+
+X:2 
+T:IX. Fantasie: La Rondinella:
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+K: F
+T:Tenor
+%%MIDI transpose -12
+K:F -8va
+L:1/8
+%1
+c8 A2 c3 B A G F4 c4 d2 e2 f2 d2 c2 f4 e2 d4 A2 A2 \
+%2
+B2 G2 ^F4 G A B c d4 G2 B4 A2 G2 D2 F4 C2 c4 B2 A4 G4 \
+%3
+F2 f4 e2 d2 A2 B2 c2 F2 A2 G4 C2 c2 B2 G3 A B2 A2 F2 B2 A2 G4 "A"F4 z2 F2 c3 c B2 G2 \
+%4
+d3 e f2 e2 d2 c2 d4 c2 c2 A3 G F4 z2 f2 d3 c B A B c d e f4 e2 f4 z2 F2 \
+%5
+A3 B c4 z2 G2 B3 c d2 _e2 d4 "B"G2 B4 G4 c3 B A2 G2 F2 E2 F2 C2 F G A B c d \
+%6
+e c d e f2 e2 d3 A c2 B2 A3 E G3 D F G E2 D2 d2 c A B2 A2 z G F D E2 D d c A \
+%7
+B c d e f2 e2 d3 A c2 B2 A2 d4 ^c2 d4 z2 D2 F3 G A2 B2 c2 A2 c4 F4 f6 e2 d2 f2 e c d e \
+%8
+f d e c 
+d e f2 e2 d4 c4 =B2 c2 C2 D2 E2 F2 f2 c2 d2 e3 f d4 c2 c2 F2 G2 A3 G A2 =B2 c2 C2 E2 F2 G2 A2 G4 \
+K:F -8va
+%9
+C2 c2 d2 e2 f e d c B A G2 A2 B2 c B A G F2 c2 d6 e2 f2 d2 e2 f4 e2 Hf8 |]
+
+

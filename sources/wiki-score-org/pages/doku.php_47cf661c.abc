@@ -1,0 +1,55 @@
+X:613
+T:Aria Euridice
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:Bb
+V: 13 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 13 ]
+%-------------------------------------------------------------------
+[Q:"Maestoso"][M:C]	z | !//![DB]4 | ABB,!fermata!z | \
+"_ten."!p![B,D]4 | [B,E]4 | [CE]4 | [B,D]4 | [A,C]2[B,D]2 | [CE]4 |[B,D]2[CE]2 | [DF]2 [B,D]z | \
+C/F/D/=E/  .F/(F/D/E/) |  .F/(F/D/E/) .F/(F/D/E/) | FF/>F/F !fermata!z || \
+[Q:"Andante"][M:3/4] B,zz| "_con oboe (NB: -8ve assumed)"  \
+z z// B,//G//F// E//D//C//B,// | G, z z | z z// B,//G//F// E//D//C//B,//| G, z z| z/ D/ B, !fermata! z ||\
+[Q:"Andantino"][M:C] z | B,4 | B,zB,z | F,4 | F,F,F,z | B,4 | B,zB,z | F,2F,2 | \
+F,F,F,z | B,4 | B,zB,z | F,4 | \
+[L:1/16] F,CD=E "_2.o V.o" FGAG FCDE FGAF | [L:1/4] G4 | \
+[L:1/16] FCD=E "_2.o"FGAG FCDE FGAF [L:1/4] |  G4 | \
+Fz (A,/<C/) z | (B,/<D/) z (D/<F/) z | (=E/<G/) z (G/<B/) z | F/F/ F/ z/ z2 | F4 | \
+=E2 "_[NB:  sign C:// understood as following the bass]" z2 | \
+FzCz | Fzz2 | D4 | =E2z2 | FzCz | FzCz/G,/ | F,zCz/G,/| F,4 -| F,4 | F,zz2| [A,F]2z2| F4| \
+=E2"_[NB:  c:// again]"z2 | FzCz| FzAz| Bzz2 | !/!C4| C4|!/!C4| !/!F4| !/!F4| FABc | \
+FFFF | FF,!fermata!F,z || \
+%fol.63
+[Q:"Andante"][M:3/4] A,3 | A,2z| =EAz| E/z/ E/z/ E/z/ | A/z/ A/z/ A/z/ | ^F/z/ F/z/ F/z/ | \
+%fol.64
+EE,z|=C3-|C3|C/z/ C/z/ C/z/|^C/z/ C/z/ A,/z/| \
+%fol.65
+D/z/A,2 | _B,/_E/ F/z/ _E/z/ | !fermata!D2z | _E/z/ F/z/ F/z/ || \
+%
+[Q:"Allegro assai"][M:C] B,/B,/ B,/z/ D/D/ D/z/ | \
+%
+%fol.66
+F/F/  F/z/ !/!B,2 | "_[NB:  end of C://]" !/!B,4 | !//!B, !//!G !//!F !//!E | !//!D EFF | B, \
+"_[NB:  C://]"  z B,z | B,z B,z | \
+%fol.67
+!f!G,G,G,z | z(D2E)| z(D2E)| =B,CCz|zC2D|zC2D|zDDz| \
+"_[NB:  empty Ve, assumed=B.]" !p!E,z=E,z| F,zz2| z4|F,zz2| z4| F,zz2| \
+"_[NB:  +8ve]" z4| B,zz2| z4|B,zz2| z4 | B,zz2| D4| \
+%fol.70
+!f!EEEE | !p!EzEz |DzEz | FzF,z | (B,DEC) | B,zz2 | \
+z(DEC)| B,zz2 | \
+"_[NB:  no indication;for 30 bars; assuming +8ve of bass]" !f!!/!B,4| !/!B,4| B,z !fermata!G2|!fermata!F2z2| \
+%-- "_[fol.72]"
+D4| !f!!/!E2Ez| !p!Fz Fz | B,zz2 | D4 | !f!!/!E2Ez| \
+%-- "_[fol.73]"
+Fz Fz | Dz D2 | z/E/E/E/ E z | Ezz2 | z4 | Fz Fz | B,zz2 | \
+%-- "_[fol.74]"
+z4| B,z Dz | Ezz2 | Dzz2 | !f!!/!E2Ez| !p!Fz Fz | \
+%-- "_[fol.75]"
+Dz Ez | Fz Fz | Dz Ez |FFFF | !f!B,/B,/ B,/z/ D/D/ D/z/ | F/F/F/D/ !/!B,2 | \
+%-- "_[fol.76]"
+!/!B,4 | B,!//!G !//!F !//!E | !//!D EFF | B,BFD| B,2z2 |]
+%-------------------------------------------------------------------

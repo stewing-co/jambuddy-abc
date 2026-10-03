@@ -1,0 +1,39 @@
+X:3812
+T:Rondo [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:E
+V: 12 clef=treble name="Violini II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 12 }]
+%--------------------------
+[Q:"Andante"] !f! (G,/B,/E/B,/) | (E/G/B/G/) (F/>G/F/)>G/| \
+{B}AGz// B,/8C/8 B,/z// (B,/8C/8 B,/) | z// B,/8C/8 B,/z// \
+(B,/8C/8 B,/) E/8G,/8B,/8E/8 G/8E/8G/8B/8 e/8G/8B/8e/8 g/8e/8G/8E/8 | \
+D/z//B//B,z2| G2F/>G/(F/>G/) | FGz/B,/ z/B,/ | z B,/ z/G-G//G,//A,//^A,// | \
+B,z (AG) | cBAG | !fermata! F2 z/B,/ z/B,/ | B,z z/e/z/ d/ | e/z/z (A//c//B//A//) (G//E//F//D//) | \
+G/z/z E/z/ G/F/ | .G/(B/G)z2| Z | zz/(B,/G,)z | z(B,G,)z | zF/>E/Dz | zF/>E/Dz | \
+zE/B/^A2 | "_rinf" !//!B2 !p! ^A2 "_rinf" | !//!B (B//d//c//B//) G/z/ e/z/ | \
+B/z/ c/z/ B/z/ ^A/z/ | Bzz2 | Z| !fermata! [B,D]2z2 | G2 F/>G/F/>G/ | \
+FGz/B,/z/ B,/ | z/B,/ z G-G//(G,//A,//^A,//) | B,z(AG)|(cBA)G|!fermata![B,F]2 z/B,/ z/B,/ | \
+G/z/ f/z/ e/z/  d/z/ | e/z/z (A//c//B//A//) (G//E//F//D//) | G/z/ z E/ A/G/F/ | \
+E/8B,/8G,/8B,/8 E/8B,/8G,/8B,/8 E/8B,/8G,/8B,/8 E/8B,/8G,/8B,/8 F/8D/8B,/8D/8 F/8D/8B,/8D/8 \
+F/8D/8B,/8D/8 F/8D/8B,/8D/8 | E/8B,/8G,/8B,/8 E/8B,/8G,/8B,/8 E/8G/8B/8B/8 B/8F/8F/8F/8 \
+!fermata! E2 | D2 !fermata! z2 || \
+[Q:"Allegro"] z z/B/B,z/ B/| B,B/z/ B,z/B/ | B,z GG | AzF2 | FEz !f!z/B/ | B, z/B/ B, z/B/ | B, \
+z GG | A z F2 | E z A>F | G/B/ G A>F | G/B/ G A>F | G/B/ G z2 |
+z/B/B/B/ A/>G/A/>B/ | !/!G2 !/!E2 | !/!E2 !/!F2| G/e/e/e/ !/!e2 | e z d z | e/4B,/4B,/4B,/4 !//!B, \
+C/4E/4A/4G/4 F/4E/4D/4C/4 | !//! B,2 B,//E//G//F// E//D//C//B,// | \
+A,//C//C//C// !//! C C//E//A//G// F//E//D//C// | !//! B, B,//G,//A,//B,// !//! A, C//C//B,//A,//  | \
+G,//C//C//C// !//!C C//E//A//G// F//E//D//C// | !//! B,2 B,//E//G//F// E//D//C//B,// | A,//C//C//C// !//! C C//E//A//G// F//E//D//C// | \
+!//! B, B,//G,//A,//B,// !//! A, A,//C//B,//A,// | G,/C//A,// G,/C//A,// !//!  G, z | \
+z/E/E/E/ z/E/E/E/ | z/E/E/E/ z/E/E/E/ | z/ F/F/F/ z/c/c/c/ | B2 A2 | G2  G/F/F/E/ | D/F/G/G/ A/c/B/A/ | A/G/ G (G/F/)(F/E/) | \
+"_[check]" a/g/ g (g/f/)(f/e/) | !fermata!e4 | !fermata! d2 z2 | \
+z z/B/ B,z/B/ |  B,z/B/ B,z/B/ |  B, z G2 | A2 F2 | F E z z/B/ |  B,z/B/ B,z/ B/ | \
+B, z G2 | A2 F2 | E z A> F | G/B/ G A> F | G/B/ G  A> F | GGz2 | B2 A/>G/A/>B/  | \
+G/z/z z2 | Z7 | zEDF | EGFA | !/! G2 !/! B2 | A/c/ A/z/ !/! A2 | !/! c4 |
+!/! G2 !/! F2 | G/B,/E/B,/ F/B,/F/B,/ | \
+"_check" X5 | C z B, z |  !/! A,4 |  !/! E4 | !/! E4 | Gzz2 | Bzz2 | e//b//b//b// !//! b !//! b2 | !//! b4 | \
+!//! b2 !//! b2 | X2 | !//!e2  !//! d2 | e [Bg][EBe][EBe] | [EBe] z z2  |]
+%--------------------------

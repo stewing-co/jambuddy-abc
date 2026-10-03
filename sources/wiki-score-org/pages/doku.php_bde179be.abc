@@ -1,0 +1,17 @@
+X:1004
+T:N.10 Dueto [2nd Act]
+C:Fonseca, Eduardo da (1863-1938)
+M:3/4
+L:1/4
+K:D
+V: 4 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 4 ]
+[Q:"Moderato"] !f! !>![A,F]/z/ [A,F]//E//F//G// A//G//F//E// | D/z/ {A,B,C}D/z/z || \
+A,/z/ A,/z//A,// A,/z//A,// | A,/z/ "_Pizz." .D/.A,/ F,/z/ | "_Arco" B,/z/ !>!B,-B,/z/ | \
+A,/z/8(E,/8F,/8G,/8 A,/)z/8(E,/8F,/8G,/8 A,/)z/ | A,-A,/z//A,// B,/>B,/ | B,-B,/z/!>!_B, | \
+(.A,/.A,/)(A,G,/)z//G,// | F,/"_Pizz." z/ .D/.A,/ F,/z/||[K:A]"_Arco"z/E,E,E,/ | z/E,(E,/ C/A,/) | \
+z/D,D,D/ | C2z | z/E,E,E,/ | z/!>!E, (E,/ C/A,/) | D"_rit"CB, | C/A,/A,A,||\
+[K:D]A,/z/ A,/>A,/ A,/>A,/ | A,/z/ "Pizz.".D/.A,/ .F,/z/ | "_Arco"B,B,2 | \
+C/(C/ D/E/G/C/) |A, A,/>A,/ B,/>B,/ | B,2!>!_B, | A,>A,G, |E,/z/ (.D/.D/)!>![G,D] |
+[A,2D2]!fermata! !///![G,E]|[G,/D/]z/ {A,B,C}D/z/z |] \

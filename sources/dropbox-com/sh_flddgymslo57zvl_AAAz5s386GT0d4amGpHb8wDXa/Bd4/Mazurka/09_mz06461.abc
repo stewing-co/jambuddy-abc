@@ -1,0 +1,43 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka GC (mz06461)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.165 (mz06461) orig. G,C
+T: Basel - Repertoire der 'Dorfmusik Binningen. S.140-201
+T:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"d>b .b2.b2 | "D7"d>a .a2.a2 | "G"d>g .g2.g2 | "D7"fga4 | d>c' .c'2.c'2 | d>b .b2.b2 | d>a .a2.a2 | 
+"G"gab4 | d>b .b2.b2 | "D7"d>a .a2.a2 | "G"d>g.g2.g2 | "D"fga4 | "A7"^c'>gg2b2 | ("D"bf) a3f | 
+("A7"fA) f3e | "D".d2.d2z2 |: "G"gz de de | "D7"Pd2 (a>g)f2 | a2 de de | "G"Pd2 b>ag2 | ("C"ec') c'>ba2 | 
+("G"db) b>a g2 | "D7"ca a>g f>a |1 "G"g2d4 :|2 "G"g2g2g>e |: [K:C] ("G7"d>f)f2 (a>f) | "C"e>g Tg4 | ("F"f>a)a2 "G7"b>a | 
+("C"ge') c'2g>e | ("G7"d>f)f2 a>f | "C"e>g Tg4 | "E7"^g>g (ba) (^fg) |1 e2"G7"g2 g>e :|2 e2!>!"G7"g4 |: "C"e>g a>e g>a | 
+"Dm"gz!>!f4 | "G7"f>g bf a>b | "C"az!>!g4 | "A7"e>g ae g^c | "Dm"ez d3c | ("G7"Ba) (gf) A>B | "C"cz.c'2 z2 |] 
+W:
+W:Anmerkung H.C.: Alle Stimmen bei Hr. Lüscher, Holestrasse 31
+% mz06461
+% Dez 16, 2016
+
+X:2
+T:Mazurka CF 7- (mz06461)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.165 (mz06461) orig. G,C
+S:Basel - Repertoire der 'Dorfmusik Binningen. S.140-201
+S:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"G>e .e2.e2 | "G7"G>d .d2.d2 | "C"G>c .c2.c2 | "G7"Bcd4 | G>f .f2.f2 | G>e .e2.e2 | G>d .d2.d2 | 
+"C"cde4 | G>e .e2.e2 | "G7"G>d .d2.d2 | "C"G>c.c2.c2 | "G"Bcd4 | "D7"^f>cc2e2 | ("G"eB) d3B | 
+("D7"BD) B3A | "G".G2.G2z2 |: "C"cz GA GA | "G7"PG2 (d>c)B2 | d2 GA GA | "C"PG2 e>dc2 | ("F"Af) f>ed2 | 
+("C"Ge) e>d c2 | "G7"Fd d>c B>d |1 "C"c2G4 :|2 "C"c2c2c>A |: [K:Fmaj] ("C7"G>B)B2 (d>B) | "F"A>c Tc4 | ("Bb"B>d)d2 "C7"e>d | 
+("F"ca) f2c>A | ("C7"G>B)B2 d>B | "F"A>c Tc4 | "A7"^c>c (ed) (=Bc) |1 A2"C7"c2 c>A :|2 A2!>!"C7"c4 |: "F"A>c d>A c>d | 
+"Gm"cz!>!B4 | "C7"B>c eB d>e | "F"dz!>!c4 | "D7"A>c dA c^F | "Gm"Az G3F | ("C7"Ed) (cB) D>E | "F"Fz.f2 z2 |] 
+% mz06461
+% Dez 16, 2016

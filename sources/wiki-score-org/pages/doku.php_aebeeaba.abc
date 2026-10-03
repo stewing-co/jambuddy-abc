@@ -1,0 +1,35 @@
+X:913
+T:Aria Emirena
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 13 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 13 ]
+%-------------------
+[Q:"Andante"] z// | CzFz |G!fermata!GG  z || \
+[Q:"Allegro"] z(B,CD)| z(CDE) | z(B,CD) | !//![G,E]4 | !//![A,F]4 | !//![=B,F]4 | [CE]zz2 | [CE]zz2 | \
+!f!z//C//C//C// !//!C C//B,//A,//G,// A,//B,//C//D// | \
+%--"_[fol.84]"
+E/E,/E,/E,/ !/!E,2 | !/!F,4 | !/!F,2 F,/F,/F,/^F,/ | !p! !/!G,4 | !/!G,4 | !/!G,4 | !/!G,4 | \
+!//!G,G,/z/!//!G,G,/z/ | X || [Q:"Adagio"] CzFz | GG!fermata!Gz || \
+[Q:"Allegro"] z!p!(B,CD) | C/C/Cz2 | z(B,CD) | [G,E]4 | [A,F]4 | [G,E]4 | [B,D]4 | [CE]4 | !//!A4 | G4 | Gzz2 |\
+!ff!z/D,//E,// ^F,//G,//A,//B,// C//D//C//B,// A,//G,//F,//E,// | D,zz2 | \
+z/G,//^F,// G,//A,//B,//C// D//E//D//C// D//B,//C//A,// | G,z \
+%--"_[fol.88]"
+E,z | D,/D/A,/^F,/ D,z | D4- | D4- | D4- | D4 | X16 | G4- | G4- |G4 | G4 | cc_B_A | \
+"_[C:// for 3 bars]" GzGz | _AzAz | _Bz _B,z | _E/_B,B,B,B,/ | _B,z_Ez | _Ez_Az | X3 || \
+[Q:"Adagio"] X3 || \
+[Q:"Tempo di Prima"] X8 | \
+z(B,CD) | z(CDE) | z(B,CD) | C//E//G//G// !//!G !//!G2 | !//!G4 | !//!A4 | \
+_B//G//G//G// !//!G3 | !//!F4 | !/!F2 F/F/^F/F/ | !f!!/!G4 | !p! G4- | G4- | G4- | G4 | \
+"_[NB: =bass as indicated in ms;but fixing notes too low for the viola]" \
+!f!E,/C,/E,/G,/ F,/E,/D,/C,/ | G,G,E,z | F,zG,z | A,zB,z | \
+%---"_[fol.98]"
+CzDz| Ez!/!E,2 | !/!F,4 | !/!G,2 !/!F,2 | !/!E,4 | !/!F,4 | !/!G,4 | \
+%---"_[fol.99]"
+!f! !/!G,4 | E,zF,z | G,zG,z | !/!E,2 !/!F,2 | !/!G,2 !/!G,2 | C,zz2 | \
+%---"_[fol.100]"
+C,zz2 | z//C//C//C// !//!C C//B,//A,//G,// A,//B,//C//D// | C/E,/E,/E,/ !/!F,2 | !/!G,4 | C C,/>C,/ C,z |] \
+%-------------------

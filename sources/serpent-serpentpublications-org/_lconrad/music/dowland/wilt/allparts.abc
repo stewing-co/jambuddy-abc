@@ -1,0 +1,140 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XV. Wilt thou unkind thus reave me of my heart,
+T:Cantus.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on first line
+K:A min
+|: c3 d/ d/ B A B B | z c/ d/ e3 
+w: 1.~Wilt thou un- kind thus reave me of my heart,
+w: 2.~Hope by dis- daine growes cheere- lesse,  cheere- * lesse,
+w: 3.~If no de- layes can move thee, move _ thee,
+w: 4.~Yet be thou mind- full e- ver, e- * ver,
+w: 5.~True love can- not be chang- ed, chang- * ed,
+e/ d/ c z | d e d2 | e2 
+w: of my heart, And so leave me? 
+w:  Feare  doth love Love _ doth feare, 
+w:  Life  shall die Death _ shall live
+w:  Heat  from fire Fire _ from heat
+w:  Though  de- light From _ de- sert
+z d2 c B2 |1 A2 :|2 A2
+w: And so leave me? me?
+w: beau- ty peere- lesse. lesse.
+w: Still to love thee. thee.
+w: None can se- ver. ver.
+w: Be es- tran- ged. ged.
+z  G |: c2 z A B > B G/ g/ g/ g/ | ^G A ^F2 E
+w: 1.\-5.~Fare- well: Fare- well: but yet or ere I part (O cru- ell)
+A/ G/ ^F G/ F/ | E A2 ^G |1 A A  z G :|2 A A |]
+w: kisse me, sweet, kiss me sweet, my _ Jew- ell. Fare- Jew- ell.
+
+X:2
+T:XV. Wilt thou unkind thus reave me of my heart,
+T:Altus.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on second line
+K:A min
+|: A G/ F/ E F E C E2 ^C z z C/ D/ E2 
+w: 1.~Wilt thou un- kind, un- kind thus reave me of my heart,
+w: 2.~Hope by dis- daine, dis- daine  growes cheere- lesse, cheere- * lesse,
+w: 3.~If no de- layes, de- layes can move thee,  move * thee,
+w: 4.~Yet be thou mind- full, mind- full e- ver, e- * ver,
+w: 5.~True love can- not, can- not  be chang- ed, chang- * ed,
+z ^F/ F/ G4 z G2 F E4 |1 ^C z :|2 ^C E E2
+w: of my heart, And so leave me? me?  1.\-5.~Fare- well:
+w: Feare doth love Love _ doth feare,  feare, 
+w:  Life shall die Death _ shall live  live
+w:   Heat from fire Fire _ from heat heat
+w:  Though de- light From _ de-  sert sert
+|: z E ^F2 z G E/ E/ E/ E/ E E2 ^D E 
+w: Fare- well: but yet or ere I part (O cru- ell)
+E/ E/ D D/ D/ C E E2 |1 ^C  E E2:|2 ^C2 |]
+w: kisse me, sweet, kisse me, sweet, my Jew- ell. Fare- well, ell.
+
+X:3
+T:XV. Wilt thou unkind thus reave me of my heart,
+T:Tenor.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+N:Original clef, C on third line
+K:A min -8va
+%%MIDI transpose -12
+|: e > d c B/ A/ ^G A A ^G z A/ B/ c2
+w: 1.~Wilt _ thou un- * kind thus reave me of my heart,
+w: 2.~Hope _ by dis- * daine growes cheere- lesse, cheere- * lesse, 
+w: 3.~If _ no de- * layes can move thee, move * thee,
+w: 4.~Yet _ be thou _ mind- full e- ver, e- * ver,
+w: 5.~True _ love can- * not be change- ed, chang-  * ed, 
+z g/ f/ e d/ c/ B c2 B c > d e
+w: of my heart, of my heart, _ And so leave me?
+w: Feare doth love, Feare doth love _ Love doth _ feare, 
+w: Life shall die, Life shall die _ Death shall _ live  
+w: Heat from fire, Heat from fire _ Fire from _ heat,  
+w: Though de- light, Though de- light _ From de- * sert
+A ^G A2 G |1 A z :|2 A c c2
+w: And so leave _ me? me? 1.\-5.~Fare- well:
+w: beau- ty peere- * lesse. lesse.
+w: Still to love _ thee. thee.
+w: None can se- * ver. ver.
+w: Be es- tran- * ged. ged.
+|:  z c d2 z d c/ c/ c/ c/ B c B2 B 
+w:  Fare- well: but yet or ere I part (O cru- ell)
+A A B/ A/ G c B2 |1 A c c2 :|2 A2 |]
+w: kisse me, kisse me  sweet, my Jew- ell. Fare- well: ell.
+
+X:4
+T:XV. Wilt thou unkind thus reave me of my heart,
+T:Bassus.
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+K:A min bass
+%%MIDI transpose -24
+|: a3 d/ d/ e f e2 A2 z A/ B/ c2 
+w: 1.~Wilt thou un- kind thus reave me of my heart,
+w: 2.~Hope by dis- daine growes cheere- lesse, cheere- * lesse, 
+w: 3.~If no de- layes can move thee, move * thee,
+w: 4.~Yet be thou mind- full e- ver, e- * ver,
+w: 5.~True love can- not be chang- ed, chang- * ed,
+z B/ A/ G4 c3 d e4 |1 A z :|2 A B c2
+w: of my heart, And so leave me? me? 1.\-5.~Fare- well:
+w: Feare doth love Love _ doth feare, feare, 
+w: Life shall die Death _ shall live  live
+w: Heat from fire Fire _ from heat heat
+w: Though de- light From _ de- sert  sert
+|:  z A d2 z G c/ c/ c/ c/ e A B B 
+w:  Fare- well: but yet or ere I part (O cru- ell)
+e/ d/ ^c d/ c/ B c B/ A/ e2 |1 A B c2 :|2 A2 |]
+w: kisse me, sweet, kisse me, sweet, kisse me my Jew- ell. Fare- well: ell.

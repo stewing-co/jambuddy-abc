@@ -1,0 +1,25 @@
+X:3802
+T:Rondo [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:E
+V: 2 clef=alto name="Corno II" sname="Cor. II"
+%%MIDI program 1 69
+%%staves [( 2 )]
+%-------------------
+"^Corni Elami" [Q:"Andante"] [K:bass] [K:C] z2 | !f! E,,4 | E,,E,, z/ !p! E,/ z/B,,/ | \
+z/E,/ z/ B,,/ E,2 | B,,/z/ B,, z2 | E,,2-E,,2-| E,,2 z/E,/ z/B,,/ | z/E,/ E,/z/ z2 | Z2 | \
+!fermata! B,,2 z/E,/ z/B,,/ | E,/z/ z z2 | z z//E,//E,//E,// A,/z/ z | z z//E,//E,//E,// A,/z/ z | \
+z2 F, E,/B,,/ | G,/F,/ E,/ z/ E,/z/ B,, | G,,/(B,,/ G,,/)z/ G,,/z/ z | zB,,G,, z | \
+zF,3/4E,//B,,z | zF,3/4E,//B,,z | zG,,z2 | Z3 | zz/E,3/8G,1/8F,z/E,/ | D,z/E,3/8G,1/8F,z/E,/| \
+!fermata! B,,2 z2 | E,,4 | E,,2 z/E,/ z/B,,/ | z/E,/ E,z2 | Z2 | !fermata! B,,2 z/E,/ z/B,,/ | E,,/ z/z z2 | zz//E,//E,//E,// A,/z/z | \
+zz//E,//E,//E,// A,/z/z |  E,2z2 | E,2 !fermata! z2 | !fermata! Z || \
+[Q:"Allegro"]  z2 E,1E,1 | F,3/2E,/B,,B,, | G,1G,1E,z | Z | z2 E,1E,1 | F,3/2E,/B,,B,, | G,1G,1E,z | Z | \
+G,,/G,,/ G,,E,,2 | E,,/G,,/ G,, z2 | Z2 | E, z B,, z |  E,, z z2 | Z2 | \
+E,E, B,, B,, |  !f! E,,2- E,,2- | E,,4 | E,,zz2 | Z | E,,4- | E,,4  | E,,z z2 | Z | G,,G,,G,,z | Z5 | B,,4- | B,,2 z2 | B,,4 | \
+!fermata! Z | !fermata! Z | z2 E,1E,1 | F,3/2E,/B,,B,, | G,1G,1E,z | Z | z2 E,1E,1 | F,3/2E,/B,,B,, | G,1G,1E,z | Z | \
+G,,/G,,/ G,,E,,2 | E,,/E,,/ E,, z2 | Z2 | E, z B,, z |  E,, z z/G,/G,/G,/ | F,zz/F,/F,/F,/ | E,zz/G,/G,/G,/ | F,zz/F,/F,/F,/ | E,zz2 | zE,/ z/B,,/ z/G,,/z/ | E,,zz2 | z/E,/ z/B,,/ z/G,,/z | E,,zz2 | Z4 | \
+E,zB,,z | E,,4- | E,,4 | E,,4- | E,,4 | E,,G,2 F, | E,zz2 | Z4 | E,4 | B,,4 | G,,z B,,2 | B,,4 | \
+G,,2G,,z | Z | E,4 |E,2B,,2 | E,,E,,E,,E,, | E,, zz2 |]
+%-------------------

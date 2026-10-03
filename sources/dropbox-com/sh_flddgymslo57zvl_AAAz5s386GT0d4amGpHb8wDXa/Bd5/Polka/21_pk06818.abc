@@ -1,0 +1,61 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Maien-Polka  FBb (pk06818)  ABCDC
+T:Hanny Christen. Bd.V  Basel II, Jura. S.15  (pk06818) orig. F,Bb
+T: Basel II. Tänze aus Augst. S.6-42.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+%%partsbox
+P:ABCDC
+R:Polka
+M:2/4
+L:1/8
+K:F  %%MIDI gchordon
+A | "Bb".B2zc | "Gm".d2zd | ("C7"f/e/)(f/e/) (f/e/).d/.e/ | "F".f2z2 || [P:A] ("F"c/d/c/=B/)  cA | (f/g/f/e/) fc | ("C7"ag) de | ("F"gf) ed | c/d/c/=B/ cA | f/g/f/e/ fc | 
+("C7"ag) de | "F"ff fz [P:B] |: {/^f}"C".g2 {/f}.g2 |  gG e(d/e/) | "G7"fG d(^c/d/) | "C"eG c(e/f/) | {/^f}.g2 {/f}.g2 |  gG e(d/e/) | "G7"fG e>d | 
+"C"cc/c/ cc | ("C7"f/e/).e (e/d/).d | ("F"d/c/).c cA | ("C7"c/B/).B BE | "F"GF F/A/c/f/ | ("C7"f/e/).e (e/d/).d | ("F"d/c/).c cA | ("C7"c/B/).B Be | "F"ff fz :| [P:C] [K:Bb] 
+{/A}"F7"cc {/c}ee | {/B}"Bb"dd {/d}ff | ("F"fe) e/d/e/g/ | ("Bb"gf)d2 | {/A}"F7"cc {/c}ee | {/B}"Bb"dd {/d}ff | ("F7"fe) e/d/e/A/ | "Bb"Bd B"_Fine"z |] 
+[P:D]  "Gm".d/.d/.d/.d/ dg | .d/.d/.d/.d/ dg | dg dg | "C7"d3d | "F".c/.c/.c/.c/ cf | .c/.c/.c/.c/ cf | cg "C7"a>g | "F"f2"_>Teil C"z2 |] 
+% pk06818
+% Dec 21, 2017 Wintersonnenwende 2017 
+
+X:2
+T:Maien-Polka  CF 5- (pk06818)
+S:Hanny Christen. Bd.V  Basel II, Jura. S.15  (pk06818) orig. F,Bb
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+E | "F".F2zG | "Dm".A2zA | ("G7"c/2B/2)(c/2B/2) (c/2B/2).A/2.B/2 | "C".c2z2 || ("C"G/2A/2G/2^F/2) GE | (c/2d/2c/2B/2) cG | ("G7"ed) AB | ("C"dc) BA | G/2A/2G/2^F/2 GE | c/2d/2c/2B/2 cG | 
+("G7"ed) AB | "C"cc cz |: {/^c}"G".d2 {/c}.d2 | dD B(A/2B/2) | "D7"cD A(^G/2A/2) | "G"BD G(B/2c/2) | {/^c}.d2 {/c}.d2 | dD B(A/2B/2) | "D7"cD B>A | 
+"G"GG/2G/2 GG | ("G7"c/2B/2).B (B/2A/2).A | ("C"A/2G/2).G GE | ("G7"G/2F/2).F FB, | "C"DC C/2E/2G/2c/2 | ("G7"c/2B/2).B (B/2A/2).A | ("C"A/2G/2).G GE | ("G7"G/2F/2).F FB | "C"cc cz :| [K:Fmaj] 
+{/E}"C7"GG {/G}BB | {/F}"F"AA {/A}cc | ("C"cB) B/2A/2B/2d/2 | ("F"dc)A2 | {/E}"C7"GG {/G}BB | {/F}"F"AA {/A}cc | ("C7"cB) B/2A/2B/2E/2 | "F"FA F"_Fine"z |] 
+"Dm".A/2.A/2.A/2.A/2 Ad | .A/2.A/2.A/2.A/2 Ad | Ad Ad | "G7"A3A | "C".G/2.G/2.G/2.G/2 Gc | .G/2.G/2.G/2.G/2 Gc | Gd "G7"e>d | "C"c2"_>Teil C"z2 |] 
+W:Parts: ABCDC
+% pk06818
+% Dec 21, 2017 
+
+X:3
+T:Maien-Polka  GC 2+ (pk06818)
+S:Hanny Christen. Bd.V  Basel II, Jura. S.15  (pk06818) orig. F,Bb
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+B | "C".c2zd | "Am".e2ze | ("D7"g/2f/2)(g/2f/2) (g/2f/2).e/2.f/2 | "G".g2z2 || ("G"d/2e/2d/2^c/2) dB | (g/2a/2g/2f/2) gd | ("D7"ba) ef | ("G"ag) fe | d/2e/2d/2^c/2 dB | g/2a/2g/2f/2 gd | 
+("D7"ba) ef | "G"gg gz |: {/^g}"D".a2 {/g}.a2 | aA f(e/2f/2) | "A7"gA e(^d/2e/2) | "D"fA d(f/2g/2) | {/^g}.a2 {/g}.a2 | aA f(e/2f/2) | "A7"gA f>e | 
+"D"dd/2d/2 dd | ("D7"g/2f/2).f (f/2e/2).e | ("G"e/2d/2).d dB | ("D7"d/2c/2).c cF | "G"AG G/2B/2d/2g/2 | ("D7"g/2f/2).f (f/2e/2).e | ("G"e/2d/2).d dB | ("D7"d/2c/2).c cf | "G"gg gz :| [K:Cmaj] 
+{/B}"G7"dd {/d}ff | {/c}"C"ee {/e}gg | ("G"gf) f/2e/2f/2a/2 | ("C"ag)e2 | {/B}"G7"dd {/d}ff | {/c}"C"ee {/e}gg | ("G7"gf) f/2e/2f/2B/2 | "C"ce c"_Fine"z |] 
+"Am".e/2.e/2.e/2.e/2 ea | .e/2.e/2.e/2.e/2 ea | ea ea | "D7"e3e | "G".d/2.d/2.d/2.d/2 dg | .d/2.d/2.d/2.d/2 dg | da "D7"b>a | "G"g2"_>Teil C"z2 |] 
+W:Parts: ABCDC
+% pk06818
+% Dec 21, 2017 

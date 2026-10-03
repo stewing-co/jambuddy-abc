@@ -1,0 +1,86 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: L\"andler 1870/75  C
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.43 (LD08991) orig. C-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+EG |: "C"C2EG ce | "G7"g2fGB2 | D2GB df | "C"ag eGc2 | C2EG ce | "G7"g2fGB2 | DG Bd fB |1 "C"c2z2EG :|2 
+"C"c2z2z2 |: "G7"DG Bdf2 | "C"EG ceg2 | "G7"ag fG df | "C"ag eGc2 | "G7"DG Bdf2 | "C"EG ceg2 | "G7"ag fA Bd | "C"c2z2z2 :| 
+% LD08991
+X:2
+T:L\"andler 1870/75  F 5+
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+Ac |: "F"F2Ac fa | "C7"c'2bce2 | G2ce gb | "F"d'c' acf2 | F2Ac fa | "C7"c'2bce2 | Gc eg be |1 "F"f2z2Ac :|2 
+"F"f2z2z2 |: "C7"Gc egb2 | "F"Ac fac'2 | "C7"d'c' bc gb | "F"d'c' acf2 | "C7"Gc egb2 | "F"Ac fac'2 | "C7"d'c' bd eg | "F"f2z2z2 :| 
+% LD08991
+X:3
+T:L\"andler 1870/75  G 5-
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+B,D |: "G"G,2B,D GB | "D7"d2cDF2 | A,2DF Ac | "G"ed BDG2 | G,2B,D GB | "D7"d2cDF2 | A,D FA cF |1 "G"G2z2B,D :|2 
+"G"G2z2z2 |: "D7"A,D FAc2 | "G"B,D GBd2 | "D7"ed cD Ac | "G"ed BDG2 | "D7"A,D FAc2 | "G"B,D GBd2 | "D7"ed cE FA | "G"G2z2z2 :| 
+% LD08991
+X:4
+T: L\"andler 1870/75  C (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+EG |: "C"C2EG ce | "G7"g2fGB2 | D2GB df | "C"ag eGc2 | C2EG ce | "G7"g2fGB2 | DG Bd fB |1 "C"c2z2EG :|2 
+"C"c2z2z2 |: "G7"DG Bdf2 | "C"EG ceg2 | "G7"ag fG df | "C"ag eGc2 | "G7"DG Bdf2 | "C"EG ceg2 | "G7"ag fA Bd | "C"c2z2z2 :| 
+% LD08991
+X:5
+T:L\"andler 1870/75  F (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+Ac |: "F"F2Ac fa | "C7"c'2bce2 | G2ce gb | "F"d'c' acf2 | F2Ac fa | "C7"c'2bce2 | Gc eg be |1 "F"f2z2Ac :|2 
+"F"f2z2z2 |: "C7"Gc egb2 | "F"Ac fac'2 | "C7"d'c' bc gb | "F"d'c' acf2 | "C7"Gc egb2 | "F"Ac fac'2 | "C7"d'c' bd eg | "F"f2z2z2 :| 
+% LD08991
+X:6
+T:L\"andler 1870/75  G (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+B,D |: "G"G,2B,D GB | "D7"d2cDF2 | A,2DF Ac | "G"ed BDG2 | G,2B,D GB | "D7"d2cDF2 | A,D FA cF |1 "G"G2z2B,D :|2 
+"G"G2z2z2 |: "D7"A,D FAc2 | "G"B,D GBd2 | "D7"ed cD Ac | "G"ed BDG2 | "D7"A,D FAc2 | "G"B,D GBd2 | "D7"ed cE FA | "G"G2z2z2 :| 
+% LD08991
+X:7
+T:L\"andler 1870/75 D (tinwhistle in D)
+T:LD08991 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+FA |: "D"D2FA df | "A7"a2gAc2 | E2Ac eg | "D"ba fAd2 | D2FA df | "A7"a2gAc2 | EA ce gc |1 "D"d2z2FA :|2 
+"D"d2z2z2 |: "A7"EA ceg2 | "D"FA dfa2 | "A7"ba gA eg | "D"ba fAd2 | "A7"EA ceg2 | "D"FA dfa2 | "A7"ba gB ce | "D"d2z2z2 :| 
+X:8
+T:L\"andler 1870/75 D (tinwhistle in D) solo
+T:LD08991 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:D transpose=12
+FA |: D2FA df | a2gAc2 | E2Ac eg | ba fAd2 | D2FA df | a2gAc2 | EA ce gc |1 d2z2FA :|2 
+d2z2z2 |: EA ceg2 | FA dfa2 | ba gA eg | ba fAd2 | EA ceg2 | FA dfa2 | ba gB ce | d2z2z2 :|
+% July 30, 2016

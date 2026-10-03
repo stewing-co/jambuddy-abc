@@ -1,0 +1,58 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Bim Bergheuet (Polka) FCBb (pk02257)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.330 (pk02257) orig. F,C,Bb
+T: Bündner und Engadiner Tänze. S.330-349. Überliefert durch Giacomin Morell, Ardez.
+O:Switzerland
+%%MIDI program 21
+%%partsbox
+P:ABAC
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+ag [P:A] |: "F"f2A2 A2cd | "C7"c2B2 B2gf | e2B2 e2d2 | "F"c4z2ag | f2A2 A2cd | "C7"c2B2 B2gf | ec'db caBg |1
+"F"f2a2 f2ag :|2 "F"f2a2 f2 z2 [P:B] |: [K:C ] "G7"g2fd BGAB | "C"cge2 zGce | "G7"dgf2 zGBf |  "C"ec'g2 zGce |  "G7"g2fd BGAB | 
+"C"cge2 zGce | "G7"fag2 Bfed | "C"c2e2 c2"_>Teil A"z2 :: [P:C] [K:Bb] "Bb"FDFB Pd2cB | "F7"A2cd edcA | 
+FEFA e3A | "Bb"B2de fdBG | FDFB d2cB | "F7"A2cd edcA | FAcg fceA | "Bb"Bg"F7"fd "Bb"B4 :| 
+% pk02257  
+% Nov 4, 2016
+
+X:2
+T:Bim Bergheuet (Polka) CGF 5- (pk02257)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.330 (pk02257) orig. F,C,Bb
+S:Bündner und Engadiner Tänze. S.330-349. Überliefert durch Giacomin Morell, Ardez.
+O:Switzerland
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+ed |: "C"c2E2 E2GA | "G7"G2F2 F2dc | B2F2 B2A2 | "C"G4z2ed | c2E2 E2GA | "G7"G2F2 F2dc | BgAf GeFd |1
+"C"c2e2 c2ed :|2 "C"c2e2 c2 z2 |: [K:G] "D7"d2cA FDEF | "G"GdB2 zDGB | "D7"Adc2 zDFc | "G"Bgd2 zDGB | "D7"d2cA FDEF | 
+"G"GdB2 zDGB | "D7"ced2 FcBA | "G"G2B2 G2"_>Teil A"z2 :: [K:F] "F"CA,CF PA2GF | "C7"E2GA BAGE | 
+CB,CE B3E | "F"F2AB cAFD | CA,CF A2GF | "C7"E2GA BAGE | CEGd cGBE | "F"Fd"C7"cA "F""_Fine"F4 :| 
+W:Parts: ABAC
+% pk02257  
+% Nov 4, 2016
+
+X:3
+T:Bim Bergheuet (Polka) CGF (5letras transposed) (pk02257)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.330 (pk02257) orig. F,C,Bb
+S:Bündner und Engadiner Tänze. S.330-349. Überliefert durch Giacomin Morell, Ardez.
+O:Switzerland
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+ed |: "C"c2E2 E2GA | "G7"G2F2 F2dc | B2F2 B2A2 | "C"G4z2ed | c2E2 E2GA | "G7"G2F2 F2dc | BgAf GeFd |1
+"C"c2e2 c2ed :|2 "C"c2e2 c2 z2 |: [K:G] "D7"d2cA FDEF | "G"GdB2 zDGB | "D7"Adc2 zDFc | "G"Bgd2 zDGB | "D7"d2cA FDEF | 
+"G"GdB2 zDGB | "D7"ced2 FcBA | "G"G2B2 G2"_>Teil A"z2 :: [K:F] "F"CA,CF PA2GF | "C7"E2GA BAGE | 
+CB,CE B3E | "F"F2AB cAFD | CA,CF A2GF | "C7"E2GA BAGE | CEGd cGBE | "F"Fd"C7"cA "F""_Fine"F4 :| 
+W:Parts: ABAC
+% pk02257  
+% Nov 4, 2016

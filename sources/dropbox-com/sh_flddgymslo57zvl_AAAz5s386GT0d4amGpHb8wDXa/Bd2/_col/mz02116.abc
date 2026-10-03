@@ -1,0 +1,62 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka FBb (mz02116)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.322 (mz02116) orig. F,Bb
+T: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%partsbox
+P:ABACA
+R:mazurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A] "F"F>A c>f g>f | e>^cd4 | "C7"E>d E>d c>=B | "F"c>^GA4 | F>A c>f g>f | "Bb"e>^cd4 | 
+"C7"d>c ed B>G | "F"F2f2"_Fine"z2 :: [P:B] !>!"Dm"a2 (gf ed) | "A7"d>^ce4 | A2^c2e2 | "Dm"g2fed2 | 
+!>!a2 gf ed | "A7"d>^c e4 | {/e}"Dm"d^c de "Bb"fg | "A7"a2a2"_>Teil A"z2 :| [P:C] [K:Bb] "Bb".d2 (BA) (cB) | F>GF4 | 
+DF Bd ed | "Eb"c>EG4 | e2c=B dc | G>AG4 | "F7"FA cf a>g | "Bb"gf dB .d2 | .d2 (BA) (cB) | 
+F>GF4 | DF Bd ed | "Eb"c>EG4 |e>cG2e2 | "Bb"d>BF2B2 | "F7"Ac gf eA | "Bb"B2b2"_>Teil A"z2 |] 
+% mz02116  (4 Nov 2016)
+
+X:2
+T:Mazurka CF 5- (mz02116)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.322 (mz02116) orig. F,Bb
+S:Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C%%MIDI gchordon
+"C"C>E G>c d>c | B>^GA4 | "G7"B,>A B,>A G>^F | "C"G>^DE4 | C>E G>c d>c | "F"B>^GA4 | 
+"G7"A>G BA F>D | "C"C2c2"_Fine"z2 :: !>!"Am"e2 (dc BA) | "E7"A>^GB4 | E2^G2B2 | "Am"d2cBA2 | 
+!>!e2 dc BA | "E7"A>^G B4 | {/B}"Am"A^G AB "F"cd | "E7"e2e2"_>Teil A"z2 :| [K:F] "F".A2 (FE) (GF) | C>DC4 | 
+A,C FA BA | "Bb"G>B,D4 | B2G^F AG | D>ED4 | "C7"CE Gc e>d | "F"dc AF .A2 | .A2 (FE) (GF) | 
+C>DC4 | A,C FA BA | "Bb"G>B,D4 |B>GD2B2 | "F"A>FC2F2 | "C7"EG dc BE | "F"F2f2"_>Teil A"z2 |] 
+W:Parts: ABACA
+% mz02116  (4 Nov 2016)
+
+X:3
+T:Mazurka GC 2+ (mz02116)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.322 (mz02116) orig. F,Bb
+S:Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"G>B d>g a>g | f>^de4 | "D7"F>e F>e d>^c | "G"d>^AB4 | G>B d>g a>g | "C"f>^de4 | 
+"D7"e>d fe c>A | "G"G2g2"_Fine"z2 :: !>!"Em"b2 (ag fe) | "B7"e>^df4 | B2^d2f2 | "Em"a2gfe2 | 
+!>!b2 ag fe | "B7"e>^d f4 | {/f}"Em"e^d ef "C"ga | "B7"b2b2"_>Teil A"z2 :| [K:Cmaj] "C".e2 (cB) (dc) | G>AG4 | 
+EG ce fe | "F"d>FA4 | f2d^c ed | A>BA4 | "G7"GB dg b>a | "C"ag ec .e2 | .e2 (cB) (dc) | 
+G>AG4 | EG ce fe | "F"d>FA4 |f>dA2f2 | "C"e>cG2c2 | "G7"Bd ag fB | "C"c2c'2"_>Teil A"z2 |] 
+W:Parts: ABACA
+% mz02116  (4 Nov 2016)
+
+
+
+

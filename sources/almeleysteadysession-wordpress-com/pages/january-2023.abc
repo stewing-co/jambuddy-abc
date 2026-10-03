@@ -1,0 +1,87 @@
+X:10
+T:Bells Inn at Almeley (score), The
+C:Nigel Chivers, 2022
+%%abc-copyright (C) Copyright Nigel Chivers 2022. Provided under a Creative Commons Attribution-Non Commercial-ShareAlike licence. All commercial rights reserved.
+%%score 1 { 2 | 3 } { 4 | 5 }
+L:1/8
+M:4/4
+K:G
+V:1 treble nm=”Flute” snm=”Fl.”
+V:2 treble nm=”Box” snm=”Box”
+V:3 treble
+V:4 treble nm=”Harp” snm=”Hrp.”
+V:5 bass
+V:1
+z8 |: .d4 .g2 .a2 | .d’4 .a2 .d2 | g4 e’4 | d’e’d’^c’ d’4 | e4 g4 |
+B4 .d2 z2 | e2 g2 g2 g2 | f3 e d4 | z .f.g.e z .g.a.f | z .a.b.g z .b.c’.a |
+d2 g2 e4 | d2 f2 a4- | a4 b2 a2 | b6 z2 😐
+|: c3 B AB=cd | e3 f g4 | e2 g2 g2 a2 | ag f6 | g4 b4 |
+fgfe d4 | e2 e2- efga | b8 :|”ending”2 e2 z2 g2 z2 | b8 |]
+V:2
+z6 Bc |: “G” .d2 .G2″D” .A2 .D2 | “G” .d.B.G.B”D” .A2 .D2 | “Em” EFGA B3 ^c | “D” ded^c d2 ef | “C” g3 e c2 de |
+“G” d2 B2 G2 AB | “C” c3 B A2 G2 | “D” FG/F/ EG D2 D2 | “C” EFGE FGAF | “G” GABG”D” ABcA |
+“G” .d2 .G2″C” c4 | “G” .B2 .d2″D” A2 Bc | “G” BA G2″C” e2 d2 | “G” G6 Bc 😐
+|: “C” e3 d edef | “G” g4 d4 | “Em” ef g2 g2 a2 | “D” fe d4 ef |
+“G” g2 d2″Em” e2 B2 | “D” dedc”G” B2 GF | “Em” EFGc”D” BGAF | “G” G6 Bc :|”ending” “G” c2 B2″D” c2 A2 || “G” G8 |]
+V:3
+z8 |: .G2 .[Bd]2 .D2 .[FA]2 | .G2 .[Bd]2 .D2 .[FA]2 | .E2 .[GB]2 .E2 .[GB]2 | .D2 .[FA]2 .D2 .[FA]2 | .C2 .[EG]2 .C2 .[EG]2 |
+.G2 .[Bd]2 .G2 .[Bd]2 | .C2 .[EG]2 .C2 .[EG]2 | .D2 .[FA]2 .D2 .[FA]2 | .C2 .[EG]2 .D2 .[FA]2 | .G2 .[Bd]2 .D2 .[FA]2 |
+.G2 .[Bd]2 C4 | .G2 .[Bd]2 D4 | .G2 .[Bd]2 .C2 .[EG]2 | .G2 .[Bd]2 .G2 .[Bd]2 😐
+|: .C2 .[EG]2 .C2 .[EG]2 | .G2 .[Bd]2 .G2 .[Bd]2 | .E2 .[GB]2 .G2 .[Bd]2 | .D2 .[FA]2 .D2 .[FA]2 |
+.G2 .[Bd]2 .E2 .[GB]2 | .D2 .[FA]2 .G2 .[Bd]2 | .E2 .[GB]2 .D2 .[FA]2 | .G2 .[Bd]2 .G2 .[Bd]2 :|2 .G2 .[Bd]2 .D2 .[FA]2 || [GBd]8 |]
+V:4
+z8 |: dABF ADA^c | dABF ADA^c | !arpeggio![DFAd]4 !arpeggio![GBd]4 | !~(!G,4 z4 | !arpeggio!!~)![ceg]4 !arpeggio![ceg]4 |
+!arpeggio![Bdg]4 .[Bdg]2 z2 | c3 B A2 G2 | FG/F/ EG D2 D2 | z .f.g.e z .g.a.f | z .a.b.g z .b.c’.a |
+[dd’][Bb][Gg][Bb] [cc’][Aa][Ff][Aa] | [fd’][Bb][Gg][Bb] [dd’][Aa][Ff][Aa] | bc’ba e2 f2 | [Gdg]6 Bc 😐
+|: [Gce]3 [GBd] [Gce]3 [Adf] | gdBc dBGB | !arpeggio![EBe]2 z2 !arpeggio![DBd]2 z2 | dcBA GFED |
+gdeB gdeB | !arpeggio![GBd]4 !arpeggio![GBe]4 | EFGA Bcde | [Gdg]6 Bc :|”ending” [GBd]4 [Adf]4 || [Gdg]8 |]
+V:5
+z8 |: [D,D]4 [G,,G,]4 | [D,D]4 [G,,G,]4 | !arpeggio![A,,D,A,]4 !arpeggio![G,,D,G,]4 | z8 | !arpeggio![C,G,C]4 !arpeggio![C,G,C]4 |
+!arpeggio![A,,D,A,]4 !arpeggio!.[G,,D,G,]2 z2 | E,2 D,2 C,2 B,,2 | A,,2 G,,2 F,,2 E,,2 | .[C,C] z z2 .[D,D] z z2 | .[G,,G,] z z2 .[D,D] z z2 |
+z8 | z8 | [G,,D,G,]4 [D,A,D]4 | [G,,G,]6 z2 😐
+|: [C,G,C]3 [B,D] [E,=C]3 [F,D] | [G,D]4 [G,,G,]4 | !arpeggio![E,,B,,E,]2 z2 !arpeggio![G,,D,G,]2 z2 | !arpeggio![D,A,D]8 |
+!arpeggio![G,,D,G,]4 !arpeggio![E,B,E]4 | [A,,G,]4 [E,,E,]4 | [E,E]4 [C,C]4 | [G,,G,]6 z2 :|2 [G,,G,]4 [D,D]4 || [G,,G,]8 |]
+W:Copyright Nigel Chivers 2022.
+W:Provided under a Creative Commons Attribution-Non Commercial-ShareAlike licence.
+W:All commercial rights reserved.
+
+X:11
+T:Bells Inn at Almeley (separated parts), The
+C:Nigel Chivers, 2022
+%%abc-copyright (C) Copyright Nigel Chivers 2022. Provided under a Creative Commons Attribution-Non Commercial-ShareAlike licence. All commercial rights reserved.
+L:1/8
+M:4/4
+K:G
+T:Flute
+z8 |: .d4 .g2 .a2 | .d’4 .a2 .d2 | g4 e’4 | d’e’d’^c’ d’4 | e4 g4 |
+B4 .d2 z2 | e2 g2 g2 g2 | f3 e d4 | z .f.g.e z .g.a.f | z .a.b.g z .b.c’.a |
+d2 g2 e4 | d2 f2 a4- | a4 b2 a2 | b6 z2 😐
+|: c3 B AB=cd | e3 f g4 | e2 g2 g2 a2 | ag f6 | g4 b4 |
+fgfe d4 | e2 e2- efga | b8 :|”ending”2 e2 z2 g2 z2 | b8 |]
+T:Main
+z6 Bc |: “G” .d2 .G2″D” .A2 .D2 | “G” .d.B.G.B”D” .A2 .D2 | “Em” EFGA B3 ^c | “D” ded^c d2 ef | “C” g3 e c2 de |
+“G” d2 B2 G2 AB | “C” c3 B A2 G2 | “D” FG/F/ EG D2 D2 | “C” EFGE FGAF | “G” GABG”D” ABcA |
+“G” .d2 .G2″C” c4 | “G” .B2 .d2″D” A2 Bc | “G” BA G2″C” e2 d2 | “G” G6 Bc 😐
+|: “C” e3 d edef | “G” g4 d4 | “Em” ef g2 g2 a2 | “D” fe d4 ef |
+“G” g2 d2″Em” e2 B2 | “D” dedc”G” B2 GF | “Em” EFGc”D” BGAF | “G” G6 Bc :|”ending” “G” c2 B2″D” c2 A2 || “G” G8 |]
+T:Rhythm
+z8 |: .G2 .[Bd]2 .D2 .[FA]2 | .G2 .[Bd]2 .D2 .[FA]2 | .E2 .[GB]2 .E2 .[GB]2 | .D2 .[FA]2 .D2 .[FA]2 | .C2 .[EG]2 .C2 .[EG]2 |
+.G2 .[Bd]2 .G2 .[Bd]2 | .C2 .[EG]2 .C2 .[EG]2 | .D2 .[FA]2 .D2 .[FA]2 | .C2 .[EG]2 .D2 .[FA]2 | .G2 .[Bd]2 .D2 .[FA]2 |
+.G2 .[Bd]2 C4 | .G2 .[Bd]2 D4 | .G2 .[Bd]2 .C2 .[EG]2 | .G2 .[Bd]2 .G2 .[Bd]2 😐
+|: .C2 .[EG]2 .C2 .[EG]2 | .G2 .[Bd]2 .G2 .[Bd]2 | .E2 .[GB]2 .G2 .[Bd]2 | .D2 .[FA]2 .D2 .[FA]2 |
+.G2 .[Bd]2 .E2 .[GB]2 | .D2 .[FA]2 .G2 .[Bd]2 | .E2 .[GB]2 .D2 .[FA]2 | .G2 .[Bd]2 .G2 .[Bd]2 :|2 .G2 .[Bd]2 .D2 .[FA]2 || [GBd]8 |]
+T:Harp, Mandolin, Hammer Dulcimer
+z8 |: dABF ADA^c | dABF ADA^c | !arpeggio![DFAd]4 !arpeggio![GBd]4 | !~(!G,4 z4 | !arpeggio!!~)![ceg]4 !arpeggio![ceg]4 |
+!arpeggio![Bdg]4 .[Bdg]2 z2 | c3 B A2 G2 | FG/F/ EG D2 D2 | z .f.g.e z .g.a.f | z .a.b.g z .b.c’.a |
+[dd’][Bb][Gg][Bb] [cc’][Aa][Ff][Aa] | [fd’][Bb][Gg][Bb] [dd’][Aa][Ff][Aa] | bc’ba e2 f2 | [Gdg]6 Bc 😐
+|: [Gce]3 [GBd] [Gce]3 [Adf] | gdBc dBGB | !arpeggio![EBe]2 z2 !arpeggio![DBd]2 z2 | dcBA GFED |
+gdeB gdeB | !arpeggio![GBd]4 !arpeggio![GBe]4 | EFGA Bcde | [Gdg]6 Bc :|”ending” [GBd]4 [Adf]4 || [Gdg]8 |]
+T:Bass
+z8 |: [D,D]4 [G,,G,]4 | [D,D]4 [G,,G,]4 | !arpeggio![A,,D,A,]4 !arpeggio![G,,D,G,]4 | z8 | !arpeggio![C,G,C]4 !arpeggio![C,G,C]4 |
+!arpeggio![A,,D,A,]4 !arpeggio!.[G,,D,G,]2 z2 | E,2 D,2 C,2 B,,2 | A,,2 G,,2 F,,2 E,,2 | .[C,C] z z2 .[D,D] z z2 | .[G,,G,] z z2 .[D,D] z z2 |
+z8 | z8 | [G,,D,G,]4 [D,A,D]4 | [G,,G,]6 z2 😐
+|: [C,G,C]3 [B,D] [E,=C]3 [F,D] | [G,D]4 [G,,G,]4 | !arpeggio![E,,B,,E,]2 z2 !arpeggio![G,,D,G,]2 z2 | !arpeggio![D,A,D]8 |
+!arpeggio![G,,D,G,]4 !arpeggio![E,B,E]4 | [A,,G,]4 [E,,E,]4 | [E,E]4 [C,C]4 | [G,,G,]6 z2 :|2 [G,,G,]4 [D,D]4 || [G,,G,]8 |]
+W:Copyright Nigel Chivers 2022.
+W:Provided under a Creative Commons Attribution-Non Commercial-ShareAlike licence.
+W:All commercial rights reserved.

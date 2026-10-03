@@ -1,0 +1,99 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Immer gm\"uetlig (Polka)  FCB
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.239 (pk00801) orig. F,C,Bb-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"AAAA c2c2 | "C7"B2B2G4 | BBBB d2d2 | "F"c2c2F4 | ffff f2f2 | "Gm/Bb"e2e2d4 | 
+"C7"cccc B2E2 | "F"F2A2 F2z2 :: [K:C] "C"edcB "F"dcBA | "C"G2^FG A2G2 | "G7"F2d2 edcd | "C"e2d2c4 | 
+"C"edcB "F"dcBA | "C"G2^FG A2G2 | "G7"F2GB e2d2 | "C"c2e2 c2"_>Teil A"z2 :| 
+[K:Bb] "Bb"d2d2 "F7"c2c2 | "Bb"B2B2 "Dm"A2A2 | "Eb"G2G2 GBAG | "Bb"F2d2B4 | "Cm"e2e2 "G7"d2d2 | "Cm"c2c2 "C7"B2B2 | 
+"F7"ABcd e2c2 | "Bb"B2d2"F7"c4 | "Bb"d2d2 "F7"c2c2 | "Bb"B2B2 A2A2 | "Eb"G^FGA BABc | 
+"Bb"d2g2f4 | "Cm"eee2 "F7"c2^c2 | "Bb"dcBG F2F2 | "F7"FGAB c2f2 | "Bb"B2d2 B2z2 |] 
+W:Parts: ABAC
+W:
+W: Immer gm\"uetlig - Immer gem\"utlich (Always cozy/comfortable)
+X:2
+T:Immer gm\"uetlig (Polka)  CGF 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"EEEE G2G2 | "G7"F2F2D4 | FFFF A2A2 | "C"G2G2C4 | cccc c2c2 | "Dm/F"B2B2A4 | \
+"G7"GGGG F2B,2 | "C"C2E2 C2z2 :: [K:G]
+ "G"BAGF "C"AGFE | "G"D2^CD E2D2 | "D7"C2A2 BAGA | "G"B2A2G4 | \
+"G"BAGF "C"AGFE | "G"D2^CD E2D2 | "D7"C2DF B2A2 |
+ "G"G2B2 G2"_>Teil A"z2 :| \
+[K:F] "F"A2A2 "C7"G2G2 | "F"F2F2 "Am"E2E2 | "Bb"D2D2 DFED | "F"C2A2F4 | "Gm"B2B2 "D7"A2A2 | "Gm"G2G2 "G7"F2F2 | \
+"C7"EFGA B2G2 |
+ "F"F2A2"C7"G4 | "F"A2A2 "C7"G2G2 | "F"F2F2 E2E2 | "Bb"D^CDE FEFG | \
+"F"A2d2c4 | "Gm"BBB2 "C7"G2^G2 | "F"AGFD C2C2 | "C7"CDEF G2c2 | "F"F2A2 F2z2 |] 
+W:Parts: ABAC
+% pk00801
+X:3
+T:Immer gm\"uetlig (Polka)  CGF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"EEEE G2G2 | "G7"F2F2D4 | FFFF A2A2 | "C"G2G2C4 | cccc c2c2 | "Dm/F"B2B2A4 | \
+"G7"GGGG F2B,2 | "C"C2E2 C2z2 :: [K:G]
+ "G"BAGF "C"AGFE | "G"D2^CD E2D2 | "D7"C2A2 BAGA | "G"B2A2G4 | \
+"G"BAGF "C"AGFE | "G"D2^CD E2D2 | "D7"C2DF B2A2 |
+ "G"G2B2 G2"_>Teil A"z2 :| \
+[K:F] "F"A2A2 "C7"G2G2 | "F"F2F2 "Am"E2E2 | "Bb"D2D2 DFED | "F"C2A2F4 | "Gm"B2B2 "D7"A2A2 | "Gm"G2G2 "G7"F2F2 | \
+"C7"EFGA B2G2 |
+ "F"F2A2"C7"G4 | "F"A2A2 "C7"G2G2 | "F"F2F2 E2E2 | "Bb"D^CDE FEFG | \
+"F"A2d2c4 | "Gm"BBB2 "C7"G2^G2 | "F"AGFD C2C2 | "C7"CDEF G2c2 | "F"F2A2 F2z2 |] 
+W:Parts: ABAC
+% pk00801
+X:4
+T:Immer gm\"uetlig (Polka) DA&G (tinwhistle in D)
+T:pk00801 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"FFFF A2A2 | "A7"G2G2E4 | GGGG B2B2 | "D"A2A2D4 | dddd d2d2 | "Em/G"c2c2B4 | \
+"A7"AAAA G2C2 | "D"D2F2 D2z2 :: [K:A]
+"A"cBAG "D"BAGF | "A"E2^DE F2E2 | "E7"D2B2 cBAB | "A"c2B2A4 | \
+"A"cBAG "D"BAGF | "A"E2^DE F2E2 | "E7"D2EG c2B2 |
+"A"A2c2 A2"_>Teil A"z2 :| \
+[K:G] "G"B2B2 "D7"A2A2 | "G"G2G2 "Bm"F2F2 | "C"E2E2 EGFE | "G"D2B2G4 | "Am"c2c2 "E7"B2B2 | "Am"A2A2 "A7"G2G2 | \
+"D7"FGAB c2A2 |
+"G"G2B2"D7"A4 | "G"B2B2 "D7"A2A2 | "G"G2G2 F2F2 | "C"E^DEF GFGA | \
+"G"B2e2d4 | "Am"ccc2 "D7"A2^A2 | "G"BAGE D2D2 | "D7"DEFG A2d2 | "G"G2B2 G2z2 |] 
+W:Parts: ABAC
+X:5
+T:Immer gm\"uetlig (Polka) DA&G (tinwhistle in D)
+T:pk00801 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+FFFF A2A2 | G2G2E4 | GGGG B2B2 | A2A2D4 | dddd d2d2 | "Em/G"c2c2B4 | \
+AAAA G2C2 | D2F2 D2z2 :: [K:A]
+cBA"_#"G BA"_#"GF | E2^DE F2E2 | D2B2 cBAB | c2B2A4 | \
+cBA"_#"G BA"_#"GF | E2^DE F2E2 | D2E"_#"G c2B2 |
+A2c2 A2"_>Teil A"z2 :| \
+[K:G] B2B2 A2A2 | G2G2 F2F2 | E2E2 EGFE | D2B2G4 | "_c"c2c2 B2B2 | A2A2 G2G2 | \
+FGAB "_c"c2A2 |
+G2B2A4 | B2B2 A2A2 | G2G2 F2F2 | E^DEF GFGA | \
+B2e2d4 | "_c"ccc2 A2^A2 | BAGE D2D2 | DEFG A2d2 | G2B2 G2z2 |]
+W:Parts: ABAC
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 4, 2016

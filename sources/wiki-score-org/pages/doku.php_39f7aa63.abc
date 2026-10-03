@@ -1,0 +1,24 @@
+X:1809
+T:Scena 4.a
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 9 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 9 )]
+%-----------------------
+Z16 | "^[sic]" z2 | Z9  "^Segue" || \
+[Q:"Allegro assai"] [K:Bb] Z10  "^Rondo" || \
+[M:2/4] [K:G] [Q:"Larghetto"] (g/d//)>b// b/g//>d'//| d'/c'/b/z/|d'e'/>c'/|ab/z/|Z|\
+z(a//b//c'//d'//)|bg/c'/|b3/4(c'/8b/8) a/z/ |Z|(d'/c'/) b/z/|Z3|\
+z(a//b//c'//d'//)|bz|zf//g//a//b//|z/d'/c'/b/|Z|z/d'/d'/c'/|z/b/ b/b//>c'//|\
+d'/>d'/ (d'//>b//) (e'//>c'//) | !f!((3a//c'//b//) (3a//a//a// a/z/|Z|\
+z//b//c'//d'// e'|Z|zz/z//d'//|b/z/z/ z//d'//|a/z/z/z// d'//|^c'/z/z/ z//e'//|^c'/z/z/z// e'//|\
+e'/d'/z|z(a/b/)|a(a/b/)|az|Z3|d//>a//a//>d'// d'/z/|z//>a//c'//>a//  b/!fermata!z/ | ^f!fermata!z||\
+[Q:"Allegro"] [M:C] g2ga|b2c'//b//a//g// f//g//a//b// | gzz2|ze'c'c'|zc'c'a|g2ga|b2 c'//b//a//g// f//g//a//b// |
+g z2 z| ze'c'c' | zc'c'a| gzz2| _b4| g4 | g4 | d'd'd'd'|d'd'd'!fermata!z| z2c'(3e'/c'/a/ | g>g a/>b/c'/>b/ | ag z2| Z3 |
+z/b/b/b/z2| z2 c'2 | z/b/b/b/ez | Z | g2b2| c'2d'=f | (ege)z| zbbb | c'zb2 | (c'ge)z | zbbb|e'2cz| Z5|
+abab | aaa!fermata!z | Z4 | z/b/c'/d'/e'^d'/e'/ | d'^c'/d'/c'2 | bbz2 | z2ba| z/g/g/g/gz | z/g/g/g/gz | Z |
+z/b/b/b/z/ b/b/b/ | z/a/a/a/z/ a/a/a/ | gzez | gzfz | g2c'2| b2a2 | gzga | bzbc' | d'zd'd'| e'e'd'f | gd'bz |]
+%-----------------------

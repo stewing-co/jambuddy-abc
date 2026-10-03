@@ -1,0 +1,52 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Schottisch  C
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.192 (st09336) orig. C
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"ceG2 ceG2 | ceG2 G^FG2 | "G7"BdG2 G^FG2 | "C"EGce g2g2 | ceG2 ceG2 | ceG2 G^FG2 | "G7"BdGB dggd | "C"c2e2 c2z2 || [L:1/8]
+"G7"f2d2 | B2A2 | "C"G>ce2 | zG A>G | "G7"GBd2 | zG A>G | "C"G>ce2 | ze de | 
+"G7"f2d2 | B2A2 | "C"G>ce2 | ze de | "G7"g>gd2 | "C"e>ec2 | "G7"d>d G>B | "C"ce cz || 
+"F"AC Fd | c3c | A2f2 | "C7"e>e_B2 | _BC Ed | c3c | _B2g2 | "F"f>fA2 | 
+AC Fd | c3c | A2f2 | "Bb"e>ed2 | "C7"_b>bg2 | "F"a>af2 | "C7"g>g c>e | "F"ff fz |]  
+% st09336
+X:2
+T: Schottisch  C (5letras transposed)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"ceG2 ceG2 | ceG2 G^FG2 | "G7"BdG2 G^FG2 | "C"EGce g2g2 | ceG2 ceG2 | ceG2 G^FG2 | "G7"BdGB dggd |
+ "C"c2e2 c2z2 || [L:1/8] \
+"G7"f2d2 | B2A2 | "C"G>ce2 | zG A>G | "G7"GBd2 | zG A>G | "C"G>ce2 | ze de | \
+"G7"f2d2 | B2A2 |
+ "C"G>ce2 | ze de | "G7"g>gd2 | "C"e>ec2 | "G7"d>d G>B | "C"ce cz || \
+"F"AC Fd | c3c | A2f2 | "C7"e>e_B2 |
+ _BC Ed | c3c | _B2g2 | "F"f>fA2 | \
+AC Fd | c3c | A2f2 | "Bb"e>ed2 | "C7"_b>bg2 | "F"a>af2 | "C7"g>g c>e | "F"ff fz |]  
+% st09336
+X:3
+T:Schottisch D (tinwhistle in D) solo
+T:st09336 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottische
+M:2/4
+L:1/16
+K:D transpose=12
+dfA2 dfA2 | dfA2 A^GA2 | ceA2 A^GA2 | FAdf a2a2 | dfA2 dfA2 | dfA2 A^GA2 | ceAc eaae |
+d2f2 d2z2 || [L:1/8] \
+g2e2 | c2B2 | A>df2 | zA B>A | Ace2 | zA B>A | A>df2 | zf ef | \
+g2e2 | c2B2 |
+A>df2 | zf ef | a>ae2 | f>fd2 | e>e A>c | df dz || \
+BD Ge | d3d | B2g2 | f>f=c2 |
+=cD Fe | d3d | =c2a2 | g>gB2 | \
+BD Ge | d3d | B2g2 | f>fe2 | =c'>c'a2 | b>bg2 | a>a d>f | gg gz |]
+% st09336
+% Sep. 15, 2016

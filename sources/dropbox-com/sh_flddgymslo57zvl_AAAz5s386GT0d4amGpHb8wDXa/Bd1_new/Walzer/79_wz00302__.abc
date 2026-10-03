@@ -1,0 +1,58 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Walzer FC chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.276 (wz00302) orig. FC-Dur
+T: Repertoire der <S\"achser Musig> 1880-1900, Weinigen ZH. S.275-296
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"F2A | "C7"czC | "F"FzF | CzF | AzA | FzF | "C7"B2A | GFE |1 B2A | "F"Fzz :|2 
+"F"F>FF | Fzz |: [K:C] "C"E F/E/ E/E/ | EF/E/ E/E/ | "G7"GAB | "C"c2G | E F/E/ E/E/ | EF/E/ E/E/ | 
+"G7"GAB | "C"czz :: [K:F] "F"AFC | "C7"B2C | G2C | "F"c2z | AFC | "Gm"Bzz | "C7"CDE | "F"Fzz :| 
+
+X:2
+T:Walzer CG 7+ chords
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+"C"c2e | "G7"gzG | "C"czc | Gzc | eze | czc | "G7"f2e | dcB |1 f2e | "C"czz :|2 
+"C"c>cc | czz |: [K:Gmaj] "G"B c/2B/2 B/2B/2 | Bc/2B/2 B/2B/2 | "D7"def | "G"g2d | B c/2B/2 B/2B/2 | Bc/2B/2 B/2B/2 | 
+"D7"def | "G"gzz :: [K:Cmaj] "C"ecG | "G7"f2G | d2G | "C"g2z | ecG | "Dm"fzz | "G7"GAB | "C"czz :| 
+
+X:3
+T:Walzer AbEb (5letras) cf. FC
+M:3/4
+L:1/4
+K:Abmaj%%MIDI gchordon
+"Ab"A2c | "Eb7"ezE | "Ab"AzA | EzA | czc | AzA | "Eb7"d2c | BAG |1 d2c | "Ab"Azz :|2 
+"Ab"A>AA | Azz |: [K:Ebmaj] "Eb"G A/2G/2 G/2G/2 | GA/2G/2 G/2G/2 | "Bb7"Bcd | "Eb"e2B | G A/2G/2 G/2G/2 | GA/2G/2 G/2G/2 | 
+"Bb7"Bcd | "Eb"ezz :: [K:Abmaj] "Ab"cAE | "Eb7"d2E | B2E | "Ab"e2z | cAE | "Bbm"dzz | "Eb7"EFG | "Ab"Azz :| 
+
+X:4
+T:Walzer EbBb (5letras) cf. CG
+M:3/4
+L:1/4
+K:Ebmaj%%MIDI gchordon
+"Eb"e2g | "Bb7"bzB | "Eb"eze | Bze | gzg | eze | "Bb7"a2g | fed |1 a2g | "Eb"ezz :|2 
+"Eb"e>ee | ezz |: [K:Bbmaj] "Bb"d e/2d/2 d/2d/2 | de/2d/2 d/2d/2 | "F7"fga | "Bb"b2f | d e/2d/2 d/2d/2 | de/2d/2 d/2d/2 | 
+"F7"fga | "Bb"bzz :: [K:Ebmaj] "Eb"geB | "Bb7"a2B | f2B | "Eb"b2z | geB | "Fm"azz | "Bb7"Bcd | "Eb"ezz :| 
+
+X:5
+T:Walzer GD (ADG) cf. FC
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+"G"G2B | "D7"dzD | "G"GzG | DzG | BzB | GzG | "D7"c2B | AGF |1 c2B | "G"Gzz :|2 
+"G"G>GG | Gzz |: [K:Dmaj] "D"F G/2F/2 F/2F/2 | FG/2F/2 F/2F/2 | "A7"ABc | "D"d2A | F G/2F/2 F/2F/2 | FG/2F/2 F/2F/2 | 
+"A7"ABc | "D"dzz :: [K:Gmaj] "G"BGD | "D7"c2D | A2D | "G"d2z | BGD | "Am"czz | "D7"DEF | "G"Gzz :| 
+
+X:6
+T:Walzer DA (ADG) cf. CG
+M:3/4
+L:1/4
+K:Dmaj%%MIDI gchordon
+"D"d2f | "A7"azA | "D"dzd | Azd | fzf | dzd | "A7"g2f | edc |1 g2f | "D"dzz :|2 
+"D"d>dd | dzz |: [K:Amaj] "A"c d/2c/2 c/2c/2 | cd/2c/2 c/2c/2 | "E7"efg | "A"a2e | c d/2c/2 c/2c/2 | cd/2c/2 c/2c/2 | 
+"E7"efg | "A"azz :: [K:Dmaj] "D"fdA | "A7"g2A | e2A | "D"a2z | fdA | "Em"gzz | "A7"ABc | "D"dzz :| 

@@ -1,0 +1,42 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka GDC (pk06472) ABACD
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.171 (pk06472) orig. G,D,C
+T: Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+T:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+%%partsbox
+% P:ABACD  %errror
+R:Polka
+M:4/4
+L:1/8
+K:G %%MIDI gchordon
+b>c' [P:A] |: "Am".b2.a2"D7".e2.f2 | {/f}"G".a2.g2 .B.c .^c.d | {/d}"D7".g2.f2 .A.B .c.e | {/^c}"G".d2 {/c}.d2 .B2 b>c' | "Am".b2.a2"D7".e2.f2 | {/f}"G".a2.g2 .a.g .f.e | 
+(^cd) .g.b "D7"=c'3f |1 "G".g2.b2.g2 b>c' :|2 "G".g2.b2.g2 (a>f || [P:B] [K:D] "D".d2) .f2"A7".e2 (a>f | "D"d)z .f2"A7".e2 .a.g | ("D"fa d'c') (e'd' af) | "A7"f2eze2 (a>f) | 
+"D"dz .f2"A7".e2 (a>f | "D"d)z.f2"A7".e2 .a.g | "D"fa e'd' "A7"c'b ge | (dc) fe"D"d2 "_>Teil A"b>=c' || [K:C] c>e || [P:C] ("C".g2.g2) gc' ba | (T"G7"a2B2)B2g>a | 
+Tg6g>a | T"C"g6c>e | (.g2.g2) gc' ba | T"G7"a2B2B2g>a | g6a>b | "C"c'2c'2c'2c'>b [P:D] |: "F"a2a2 ac' ba | "C"g2g2 (ea) .g.e | 
+"G7"f2f2 Bd fa | "C"g2g2e2c'>b | "F"a2a2 ac' ba | "C"g2g2 (ga) .g.e | "G7"g2d2 ba fd |1 "C"c2e2c2c'>b :|2 "C"c2e2c2z2 |]  
+% pk06472
+% Dez 23, 2016
+
+X:2
+T:Polka CGF 7- (pk06472)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.171 (pk06472) orig. G,D,C
+S:Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+S:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Polka
+M:4/4
+L:1/8
+K:C%%MIDI gchordon
+e>f |: "Dm".e2.d2"G7".A2.B2 | {/B}"C".d2.c2 .E.F .^F.G | {/G}"G7".c2.B2 .D.E .F.A | {/^F}"C".G2 {/F}.G2 .E2 e>f | "Dm".e2.d2"G7".A2.B2 | {/B}"C".d2.c2 .d.c .B.A | 
+(^FG) .c.e "G7"=f3B |1 "C".c2.e2.c2 e>f :|2 "C".c2.e2.c2 (d>B || [K:G] "G".G2) .B2"D7".A2 (d>B | "G"G)z .B2"D7".A2 .d.c | ("G"Bd gf) (ag dB) | "D7"B2AzA2 (d>B) | 
+"G"Gz .B2"D7".A2 (d>B | "G"G)z.B2"D7".A2 .d.c | "G"Bd ag "D7"fe cA | (GF) BA"G"G2 "_>Teil A"e>=f |] [K:F] F>A || ("F".c2.c2) cf ed | ("C7"d2E2)E2c>d | 
+Tc6c>d | "F"c6F>A | (.c2.c2) cf ed | "C7"d2E2E2c>d | c6d>e | "F"f2f2f2f>e |: "Bb"d2d2 df ed | "F"c2c2 (Ad) .c.A | 
+"C7"B2B2 EG Bd | "F"c2c2A2f>e | "Bb"d2d2 df ed | "F"c2c2 (cd) .c.A | "C7"c2G2 ed BG |1 "F"F2A2F2f>e :|2 "F"F2A2F2z2 |] 
+W:Parts: ABACD
+% pk06472
+% Dez 23, 2016

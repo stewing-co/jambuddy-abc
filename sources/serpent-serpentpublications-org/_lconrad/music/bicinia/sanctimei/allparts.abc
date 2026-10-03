@@ -1,0 +1,81 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+
+X:1
+T:7v. Sancti mei
+C:Orlando Lassusio
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:F treble8
+T:Tenor
+%%MIDI transpose -12
+N:Original clef, C on second line
+%1
+z4 F8 A4 G4 F4 z4 c3 B A G F4 E D C2 F3 E/ D/ E2 F G A B c4 A4
+w:San-  cti me- i San- - - - - - - - cti _ _ _ me- - - - - i
+%2
+z2 d3 c B A G2 G2 G4 A3 B c2 d3 c c4 B2 c4 z2 c2 A3 G A E F G A B c2
+w:qui _ _ _ _ in is- to _ _ se- - - cu- lo cer- ta- - - - - - - - -
+%3
+F2 c3 B A G A F B2 G2 A3 G/ F/ G2 "A"A4 z2 c2 c4 A2 D2 B A B4 G4 e4 d3 c/ B/ A/ B/ c B4 A4 B4 G4 c4
+w:men ha- - - - - - - bu- i- - - - stis, mer- ce- dem la- bo- - - rum ve- stro- - - - - - - rum e- go red-
+%4
+A3 G F E D2 d3 c =B c A2 G4 z2 A4 F4 B4 G4 A3 G F E D E F G A B c3 B/ A/ B2 c4 A4 F4
+w:dam _ _ _ _ vo- - - - - bis, e- go red- dam vo- - - - - - -- - - - - - - bis, e- go
+%5
+B6 G4 A3 G F E D E F3 E/ D/ E2 HF4 |]
+w:red- dam vo- - - - - - - - - - bis. *
+
+X:2
+T:7v. Sancti mei
+C:Orlando Lassusio
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:F bass
+T:Bassus
+%%MIDI transpose -24
+N:Original clef, Bass
+%1
+f3 e d c B4 A G F2 f3 e/ d/ e2 f e d c B2 A3 B c2 F8 A4 G4 F4
+w:San- - - - - - - - ti _ _ _ me- - - - - i, _ _ San-  cti me- i
+%2
+z2 f3 e d c B2 B2 B4 c3 d e f g3 f f e/ d/ e f B2 f2 e2 d4 z2 a2 f3 e
+w:qui _ _ _ _ in is- to _ _ _ _ _ _ _ _ _ _ _ se- co- lo cer- ta- -
+%3
+f c d e f g a2 d2 a3 g f e f3 e d2 G2 c2 B A B4 "A"A8 z2 f2 f4 d2 G2 _e d e2 c4 g4 f3 e/ f/ g d g2
+w:- - - - - - - men ha- - - - - - - bu- i-  - - - stis,  mer- ce- dem la- bo- - - rum ve- stro- - - - - -
+%4
+f2 d4 B4 e4 c4 d3 c B A G A B c d e f3 e/ d/ e2 f4 d4 B4 e4 c4 d4 a3 g ^f g e f d4 A2 a4 f2
+w:rum e- go red- dam vo- - - - - - - - - - - - - - bis, e- go red- dam _ vo- - - - - - - bis, e- go
+%5
+z2 d4 B2 e4 c4 d3 c =B c A B G4 HF4 |]
+w:e- go red- dam vo- - - - - - - bis. *
+W:Antiphon from an old breviary, cf. Wisdom, 10:17
+W:
+W: O my saints, who in this world have endured conflict, 
+W: To you will I give the reward of your labors.

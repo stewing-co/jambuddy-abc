@@ -1,0 +1,55 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:VII. Then sit thee downe,
+T:Second part.
+T: Canto.
+C: John Dowland
+O: From The Second Booke of songs or Ayres of 2/ 4/ amd 5/parts: with Tableture for the Lute or orpherian, with the Violl de Gamba.
+%%MIDI nobarlines
+M:C
+L:1/4
+N: Original clef, C on first line
+K:G mix
+z2 G2 G2 ^F > E D4 | z2 D2 ^F2 G2 A3 A G G3 | z2 D2
+w:Then sit thee _ downe, and say thy Nunc Di- mit- tis, with
+D > E ^F G A2 A2 | G2 c2 B3 B A2 A2 | z2 A2 B c d3 A c2 | B2 A G A A3 | z2 G2 A2
+w:De _ _ pro- fun- dis, Cre- do, and Te De- um, Chant Mi- se- re- re for what now so fit is, as that,
+c2 B3 B A G G4 ^F2 G2 G2  z2 G3 D F2 |: E2 A2 | G2 c2 B3 B A4
+w:or this, Pa- ra- tum est cor me- um, O that thy Saint would take in worth thy hart,
+z4 z2 d3 A c2 | B2 A2 A G G2 ^F G2 ^F |1 G4 z2 G3 D F2 :|2 HG4 |]
+w: thou canst not please hir with a bet- ter _ _ part. O that thy | part.
+
+X:2
+T:VII. Then sit thee downe,
+T:Second part.
+C: John Dowland
+O: From The Second Booke of songs or Ayres of 2/ 4/ amd 5/parts: with Tableture for the Lute or orpherian, with the Violl de Gamba.
+%%MIDI nobarlines
+M:C
+L:1/4
+K:G mix bass
+%%MIDI transpose -24
+g4 g6 ^f e d4 z d c B c A d2 G2 G2 d8 A B c d
+w:Then sit thee _ downe, and say thy Nunc Di- * mit- tis, with De pro- fun- dis,
+e2 A2 e3 e A2 A2 d3 e/ ^f/ g3 d ^f2 e2 g2 e2 d d2 c B4
+w: Cre- do, and Te De- um, Chant Mi- se- re- re for what now so fit is, as that,
+A4 G2 g2 c2 e2 d2 d2 G2 G2 c3 G B2 A2 |: c2 f2 e2 c A e3 e A4 d3 A
+w:or this, Pa- ra- tum est cor me- um, O that thy _ Saint would take in _ worth thy hart, thou canst
+c2 B2 A4 G2 ^F2 G4 d4 |1 G4 c3 G B2 A2 :|2 HG4 |]
+w:  not please hir with a bet- ter  part. O that thy _ part.
+

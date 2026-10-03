@@ -1,0 +1,15 @@
+X:1205
+T:Scena Sesta
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:D
+V: 5 clef=treble name="Flauta I" sname="Fl.I"
+%%MIDI program 1 73
+%%staves [( 5 )]
+%--------------------
+[Q:Allegro] Z23 |!fermata!Z ||\
+[Q:"Andante"] "^Flauto solo" d'3=c'|=c'bz/d'/c'/b/ | ^g//a//b//c'// d'//e'//c'//a// gPa|gzz2|Z5 || \
+[Q:Maestoso] [K:C]z//|Z20|!fermata!Z|| \
+[Q:Allegro] Z79|]
+%--------------------

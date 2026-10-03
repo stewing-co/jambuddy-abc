@@ -1,0 +1,68 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:40r. Dissi a l'amata mia lucida stella
+T:Superius.
+C:Cornelio Verdonchi
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+%%MIDI gchord off
+M:C
+L:1/4
+N:Original clef, C on first line
+K:F
+z4 F4 G2 z A2 G B A G2 c > B A d > c B/ A/ B/ A/ A/ G// F// G2 "A"F2 A2 A G F E D C D2 E2 A2
+w:Dis- sia l'a- ma- ta mi- a lu- ci- da stel- * * * * * * * * * la Che piu * d'o- gn'al- tra lu- * ce, Et
+G2 F2 E A G2 A2 z A B2 c2 "B"d4 A2 B4 A c > B A/ G/ F f e/ d/ c/ B/ A/ F/ B3/2 A G/ A3/2 G// F// E/ D/ E "C"D F > G A/ B/ c C
+w:al mio cor ad- du- ce, et al mio cor ad- du- ce fiam- * * * * me stra- * * * * * li et ca- te- * * * * * ne Fiam- * * * * me
+D/ E/ F/ G/ A D z B A B3/2 A// G// F/ G/ A3/2 G// F// E/ F/ G3/2 F// E// D/ E/ F F E F3/2 E// D// E/ F/ G/ A/ B "D"B A/ G/ A2 z F A2 d c2 B
+w:stra- * * * * li et ca- te *  * * * * * * * * * * * * * * ne ca- te * * * * * * * ne * * * Ch'o- gn'hor,  mi d\'a- no 
+A2 G c A2 z E F G A G3/2 ^F/ F/ E// F// G2 z c A2 z F D A, B, C D2 E4 |: A6  z A/ B/ c2 z c/ d/ =e d ^c2 "E"d2 d2
+w:pe- ne  Ch'o- gn'hor mi d\'a- no pe- ne * * * * *  Ch'o- gn'hor  Ch'o- gn'hor mi d\'a- no pe- ne De mo- ri- ro mo- ri- ro cor mi- o, si
+z d c B A2 z B/ c/ d2 z D/ E/ F2 z F/ G/ A2 z B B A B B/ c/ d2 z c c =B c2 G3 A2 B F G > F E/ D/ E F2 E/ D/ E2 F16 :|
+w:si mo- ri- rai mo- ri- ro mo- ri- ro mo- ri- ro si mo- ri- rai mo- ri- ro si mo- ri- rai, ma non per mi- o  de-  * * * si * * * o.
+
+X:2
+T:40r. Dissi a l'amata mia lucida stella
+T:Alto.
+C:Cornelio Verdonchi
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+%%MIDI gchord off
+M:C
+L:1/4
+N:Original clef, C on third line
+K:F -8va
+%%MIDI transpose -12
+c4 d2 z f2 e f d c2 d > c =B c2 A f > e d g > f f3/2 e// d// e "A"f2 z f f e d c =B c2 =B 
+w:Dis- si a l'a- ma- ra mia li- ci- da stel-  la, lu- ci- da stel- * * * * * la Che piu d'o- gn'al- tra lu- * *
+c2 z A B c d A c > d B2 A d e f g d _e2 "B"d B > c d/ e/ f F G/ A/ B/ c/ d/ G/ g3/2 f e/ f > e d/ c/ d c2 z d
+w:ce, Et al mio cor ad- du- * * ce, Et al mio cor ad- du- ce, Fiam- * * * * me stra- * * * * * * li et ca- te- * * * ne et
+c B A d ^c2 "C"d2 z f e2 f d > c B/ A/ G g f/ e/ d/ c/ B/ c/ d3/2 c =B/ c3/2 B// A// G/ A/ B3/2 A// G// F/ G/ A3/2 G// F//  G4 "D"F4 f d2 A
+w:al mio cor ad- du- ce ad- du- ce Fiam- * * * * me stra- * * * * * * li et ca- te- * * * * * * * * * * * * ne Ch'o- gn'hor mi
+B c d> c d/ e/ f3/2 e// d// e f F A2 d c2 B A2 G c A2 z f d A B c d c > =B B/ A// B// c4  |: f4  z d/ e/ f2 z f/ g/ a3 f e2
+w:dá- no pe- * * * * * * * ge, dá- no pe- * * * ne ch'o- gn'hor, ch'o- gn'hor mi dá- no pe- * * * * * ne deh mo- ri- ro  mo- ri- ro cor mi-
+"E"d2 z2 g2 z g g ^f g2 z G/ A/ B2 z B/ c/ d2 z d/ e/ f d c2 B4 f2 e d c4 c2 d3 _e B c > B A G4 F16 :|
+w:o, si si mo- ri- rai mo- ri- ro mo- ri- ro mo- ri- ro cor mi- o si mo- ri- rai, ma non per mio de- * *  si- o.

@@ -1,0 +1,62 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:An dich, mein Herz (Polka)  CGF (pk06802) ABAC
+T:Hanny Christen. Bd.V  Basel II, Jura. S.10  (pk06802) orig. C,G,F
+T: Basel II. Tänze aus Augst. S.6-42.
+T:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+%%partsbox
+P:ABAC
+R:Polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c'g c'2 | "Dm"{/e'}d'a d'2 | "G7"gg/^f/ g/a/b/c'/ | .d'z gz [P:A] |: "C"ge/g/ ga | gec2 | {/a}"G7"bf b2 | 
+{/b}"C"ae a2 | ge/f/ ga | gce2 | "Dm"da/c'/ "G7"bg | "C"c'c' c'z  :: [P:B]  [K:G] "G"d'2 c'b | "D7"a3b | 
+c'c'/b/ ad' | "G"d'c' b2 | d'2c'b | "D7"a3d' | d'c' b>a | "G"gg g"_>Teil A"z :: [P:C]  [K:F] "F"b2 d'c' | 
+"C7"bdc2 | b2 e'd' | "F"c'f f2 | a2 gf | "C7"e2dc | g^f ge |1 "F"fc' "C7"=b_b :|2 "F"ff f z |] 
+W:
+W:Anmerkung H.C.: Oberdorf, s.V.201, Laufenburg 21, Rünenberg 10
+% pk06802
+% Nov 29, 2017
+
+X:2
+T:An dich, mein Herz (Polka)  CGF (pk06802)
+S:Hanny Christen. Bd.V  Basel II, Jura. S.10  (pk06802) orig. C,G,F
+S: Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c'g c'2 | "Dm"{/e'}d'a d'2 | "G7"gg/^f/ g/a/b/c'/ | .d'z gz |: "C"ge/g/ ga | gec2 | {/a}"G7"bf b2 | 
+{/b}"C"ae a2 | ge/f/ ga | gce2 | "Dm"da/c'/ "G7"bg | "C"c'c' c'z  ::  [K:G] "G"d'2 c'b | "D7"a3b | 
+c'c'/b/ ad' | "G"d'c' b2 | d'2c'b | "D7"a3d' | d'c' b>a | "G"gg g"_>Teil A"z ::  [K:F] "F"b2 d'c' | 
+"C7"bdc2 | b2 e'd' | "F"c'f f2 | a2 gf | "C7"e2dc | g^f ge |1 "F"fc' "C7"=b_b :|2 "F"ff f z |] 
+W:Parts: ABAC
+%W:Anmerkung H.C.: Oberdorf, s.V.201, Laufenburg 21, Rünenberg 10
+% pk06802
+% Nov 29, 2017
+
+X:3
+T:An dich, mein Herz (Polka)  CGF+ (pk06802)
+S:Hanny Christen. Bd.V  Basel II, Jura. S.10  (pk06802) orig. C,G,F
+S:Basel II. Tänze aus Augst. S.6-42.
+S:Überliefert durch Erwin Baumgartner (*1878) und Hans Tschudin (*1886)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"cG c2 | "Dm"{/e}dA d2 | "G7"GG/2^F/2 G/2A/2B/2c/2 | .dz Gz |: "C"GE/2G/2 GA | GEC2 | {/A}"G7"BF B2 | 
+{/B}"C"AE A2 | GE/2F/2 GA | GCE2 | "Dm"DA/2c/2 "G7"BG | "C"cc cz :: [K:G] "G"d2 cB | "D7"A3B | 
+cc/2B/2 Ad | "G"dc B2 | d2cB | "D7"A3d | dc B>A | "G"GG G"_>Teil A"z :: [K:F] "F"B2 dc | 
+"C7"BDC2 | B2 ed | "F"cF F2 | A2 GF | "C7"E2DC | G^F GE |1 "F"Fc "C7"=B_B :|2 "F"FF F z |] 
+W:Parts: ABAC
+%W:Anmerkung H.C.: Oberdorf, s.V.201, Laufenburg 21, Rünenberg 10
+% pk06802
+% Nov 29, 2017

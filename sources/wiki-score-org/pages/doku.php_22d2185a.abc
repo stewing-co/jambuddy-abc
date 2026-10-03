@@ -1,0 +1,16 @@
+X:3313
+T:Marcia
+C:Pugnani, Gaetano (1731-1798)
+M:2/4
+L:1/4
+K:D
+V: 13 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 13 ]
+%----------------------
+"_NB: 2 bars empty;copying bass+8ve" z3/8 |: D/d/ c/c//>d// | B/c/d/D/ | \
+B,/B,//^D// E//>E//E//>E// | E//>E//E//>E// F//>A//F//>D// | \
+"_NB: remaining bars empty; copying bass+8ve"  A,/A/F/D/ | A,/A/F/D/ | A,//>A//A//>A// (A/G/8F/8E/8D/8) | A,/A/A,/z/ :: \
+A,/A,/A/G/ | F/A/F/D/ | G/G/G/^G/ | A/A/ A,//>A,//B,//>C// | D/d/ c/c//>d// | B/G/ F/z/ | F/D/A/A,/ | D/d/B/G/ | \
+F/d/B/G/ | F//A/8A/8  d//A/8A/8  F//F/8F/8  A//F/8F/8 | D//F//A//F// D//A,/8A,/8 D//A,/8A,/8 | D/D/D/z/ :| \
+%----------------------

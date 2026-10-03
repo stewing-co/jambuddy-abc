@@ -1,0 +1,113 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Browning
+T: Treble
+C:Elway Bevin
+%%MIDI gchordoff
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on second line
+M:3/2
+L:1/2
+K:F
+C F > E D3/4 E// F/ G/ A/ ^F/ G/ A/ B > A G G ^F G B > A G/ F// E// D3/4 E// F/ G/ A G > F F2 E F > G A G F2
+B > A G G ^F/ E/ ^F G G B > A G F E > F G A B2 A2 F B2 A G2 G B > G A
+G2 G B2 B c2 B A G/ F/ G F> D E D2 ^C D3/4 "f"=C// D/ E/ F/ G/ A2 G ^F > E D C A,/ B,/ C/D/
+%P 20
+E/ F/ G/ E/ F G A G/ F/ E A,3/4 =B,// C/ D/ E/ F/ G D > E F/ G/ A E > "f"^F ^G A/ c/ =B/ A/ G/ F/ E/ G/ F/ E/ D/ C/ =B,/ A,/ =B,/ =B/ A/ G/ G2 ^F
+G2 C F2 E D2 D F2 E D2 D F2 F G2 F E D/ C/ D C C F > E D C
+B, _E D > E F/ G ^F/ G B > c d3/4 c// B/ A/ G/ F/ E/ F/ G/ A/ B/ G/ A/ G// F// E/ F/ D/ E/ F C/ D A,/ D G,/ F E/ G C/ _E B,/
+D G,/ C C/ G C/ _E B,/ D G,/ B G/ A E/ G D/ F E/ F3/4 D// E/ F2 F B2 A G2 G
+B > G A G2 G B2 B c2 B A G/ F/ G F2 D G2 F E C/ D/ _E/ F/
+G/ A/ B/ c/ A/ =B/ c2 c B > A G/ B/ A G/ F/ G > F _E/ D/ C/ E/ D G2 G B2 A G2 G B > G A G2 G B2
+%P 21
+B c2 B A G/ F/ G F F B2 A G2 G B > G A G2 G B2 B c2 B A G/ F/ G
+F A G F3/4 G// A/ B/ c B/ A D/ F > G A/ B/ G ^F/ D// E// "f"=F/ G// A// B/ A F// G// A/ B// c// d/ c B// A// G// A// B// G// A > G F/ D// E// F// D// E// F// 
+E C F > E D C > D E3/4 D// E/ F/ G2 ^F G B > A G/ F/ G/ A/ B A G2 F2 E F D HC |]
+
+
+
+
+
+
+
+
+X:2
+T:Browning
+T:Tenor
+C:Elway Bevin
+%%MIDI gchordoff
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on fourth line
+M:3/2
+L:1/2
+K:F -8va
+z2 F B2 A G2 G B > G A G2 G B2 B c2 B A G/ F/ G F B c d2 c
+B3/4 A// G/ A/ B/ c/ d2 c B > A G F D3/4 E// F/ G/ A G2 F2 E F > G A G F2 B > A B/ c/ d > e f
+e/ d/ c/ d/ _e d > c B A/ F/ G/ A/ B/ G/ A/ B/ c/ d/ B A G/ F/ G A3/4 G// A/ B/ "f"=c B A F > G A/ B/ c d D3/4 E// F/ G/ A/ B/ c A 
+%p. 20
+B > c d c2 =B c2 G c2 =B A2 A c > A =B A2 A c2 c d2 c =B A/ G/ A
+G E A > G A/ B/ c =B3/4 A// =B/ c/ "f"_B A > B c d G/ A/ _B/ c/ d3/4 c// d/ e/ f/ d/ e > d c c =B/ A/ =B c G A D > E F
+G > A B > c d c _e d g f3/4 e// d/ c/ B/ A/ G/ F/ E z/ D/ E/ F/ G/A/ B/ G/ A2 F B2 A G2 G
+B > G A G2 G B2 B c2 B A G/ F/ G F > E D/ C/ G D/ E/ F/ G// A// B/ A/ G/ F/ _E
+D3/4 E// F/ G "f"^F/ G z/ B/ c/ _e/ d3/4 G// d/ f/ =e/ d/ e d/ c/ d c// B// c// d// _e/ d/ c/ B/ A3/2 B// c// d c B/ c/ d/ B/ c > =B G/ A/
+B/ c/ d/ =e/ f/ d/ e c/ d/ _e/ f/ g > f _e/ d/ c d c/ B/ B2 A B2 B _e2 d c2 c "f"_e > c d c2 c "f"_e2 "f"_e
+%p. 21
+f2 "f"_e d c/ B/ c B > c d > c B/ G/ A/ B/ c/ d/ _e/ d// c// B G z/ G/ c > B c/ d/ "f"_e d > c B A3/2 B// c// d > c _e/ d/ c/ B/
+A3/4 B// c/ d/ e d c3/2 d// e// f d/ f e/ d/ c d/ "f"=B/ "f"^c/ d/ F// G// A/ B// c// d c/ A// B// c/ c// e// f e/ d c// B// d/ c G// A// B// A// B// c// A/ B/
+c2 F B2 A G2 G B > G A G2 G B2 B c2 B A G/ F/ G HF3 |]
+
+
+
+
+
+
+
+
+X:3
+T:Browning
+T: Bass
+C:Elway Bevin
+%%MIDI gchordoff
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:3/2
+L:1/2
+K:F bass
+z3 z3 z3 z3 z3 z3 z3 z3 z z F B2 A
+G2 G B > G A G2 G B2 B c2 B A G/ F/ G F f3/4 _e//  d/ c/ B/ G/ B/ c/ d G/ g f/ _e/ d// c// B/ G/ d2
+G c2 B G2 F z/ c/ d/ e/ f/ d/ e/ f e/ f2 c f2 e d2 d f > d e d2 d f2 f
+%p. 20
+g2 f e d/ c/ d c f e/ d/ c3/4 d// e/ f/ g d > e f/ g/ a e2 A z/ f/ e3/4 d// c/ =B/ A/ c/ =B/ A/ G/ F/ G/ d/ e3/4 f// g/ G/ c/ e/ d
+G c f > e d c g G/ A/ B/ c/ d/ e/ f/ g/ a b > a g f > e d c3/2 d// e// f c G2 c2 F B2 A
+G2 G B > G A G2 G B2 B c2 B A G/ F/ G F f B/ d G/ B F/ c B/ c c/ g
+d/ _e f/ c B/ c G/ g d/ "f"_e B/ "f"_e f/ c G/ d A/ c/ d/ c F B > A G/ A/ B/ c/ d G/ A/ B/ G/ c
+G// A// B// c// d/ _e/  c/ d/ B/ c/ G c G z/ d/ g/ b/ a3/4 g// f/  =e/ d// c// d// e// f/ F/ c2 F2 B _e2 d c2 c
+_e d/ c/ d c2 c "f"_e2 "f"_e f2 "f"_e d c/ B/ c B "f"_e2 c g2 c "f"_e > d c B2 F c3/4 d// _e/ f/ g > f "f"_e
+%p. 21
+d c2 G c > d "f"_e d B > c d/ "f"_e/ f c2 "f"_e "f"_e2 f c2 c B > A G F3/2 G// A// B F c2
+F2 c f2 e d2 d f > d e d2 d f2 f g2 f e d/ c/ d
+c/ A// B// c// A// B// c// d B/ c/ d/ e/ f c c > B G d2 G g b > a g/ f/ g f c/ d/ _e/ c/ f c > B A/ F/ B HF |]
+
+
+
+
+
+
+

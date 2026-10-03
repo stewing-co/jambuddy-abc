@@ -1,0 +1,31 @@
+X:208
+T:Andantino
+C:Pugnani, Gaetano (1731-1798)
+M:3/4
+L:1/4
+K:D
+V: 8 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 8 ]
+%---------------
+[Q:"Andantino"] !p!D,(D,C,) | B,,(B,,A,,) | G,, G,F, | E,A,,D, | !f!^G,,3 | \
+%----
+A,,!p!=G,F, | E,C,D, | A,,>G,F,/E,/ | D,2C, | B,,B,,A,, | G,,G,F, | E,A,,E, | !f!^G,,3 | \
+%----
+A,,!p!=G,F, | G,A,A,, | D,3 | Z4 | "^tasto solo" !p!E,,3 | E,,3 | E,,3 | E,,3 | D,E,E,, | A,,3- | A,,3 | \
+%----
+D,2C, | B,,B,,A,, | G,,G,F, | E,A,,E, | !f!^G,,3 | A,,!p!=G,F, | \
+%----
+G,A,A,, | D,zz| Z13 | !p!A,>(=G,F,/E,/) | D,2C, | B,,(B,,A,,) | (G,,G,F, | E,A,,)E, | !f!^G,,3 | \
+%----
+A,,!p!=G,F, | G,A,A,,|D,z/!ff!D,/F,/D,/ | A,, z/A,,/C,/A,,/ | D,z/D,/F,/D,/ | \
+%----
+G,A,A,,| D, z/D,/F,/D,/ | A,, z/A,,/C,/A,,/ | D,zD, | G,A,G,, | D,B,,2 | !fermata!A,,3 |: \
+%----
+[Q:"Allegro ma non troppo"] !p!D,3- | D,3 | ^C,3 | D,>F,E,/D,/ | \
+!f! C,/A,,/C,/A,,/C,/A,,/ | C,/A,,/C,/A,,/C,/A,,/ | D,zD, | A,A,,2 :| \
+!/!A,,3 | !/!A,,3 | !/!A,,3 | !/!A,,3 | !p!D,3 | D,3 | C,3 | !/!D,3 | \
+G,/G,/A,/A,/A,,/A,,/ | !/!D,3 | G,/G,/A,/A,/A,,/A,,/ | \
+!/!D,3 | G,/G,/A,/A,/A,,/A,,/ | \
+D,//F,//A,//F,// D,//F,//A,//F,// D,//F,//A,//F,// | D,/D/D,/D/D,/D/ | D,3 |]\
+%---------------

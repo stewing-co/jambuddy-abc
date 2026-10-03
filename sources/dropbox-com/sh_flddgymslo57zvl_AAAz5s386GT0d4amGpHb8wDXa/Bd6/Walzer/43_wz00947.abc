@@ -1,0 +1,102 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Termer Walzer  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.269 (wz00947) orig. C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+cd |: "C"eG eG ce | "G7"dG dG de | fG fG df | "C"eG eG cd | eG eG ce | 
+"G7"dG dG de | fG fG Bd |1 "C"c2z2cd :|2 "C"c2z2ga |: "G"bd bd gb | "D7"ad ad ab | c'd c'd ac' | 
+"G"bd bd ga | bd bd gb | "D7"ad ad ab | c'a ^fd ef |1 "G"g2z2ga :|2 "G"g2z2z2 |]  
+W:
+W: cf. Termer Schottisch (st00934) Bd. VI, p256
+% wz00947
+X:2
+T:Termer Walzer  F 7-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+FG |: "F"AC AC FA | "C7"GC GC GA | BC BC GB | "F"AC AC FG | AC AC FA | 
+"C7"GC GC GA | BC BC EG |1 "F"F2z2FG :|2 "F"F2z2cd |: "C"eG eG ce | "G7"dG dG de | fG fG df | 
+"C"eG eG cd | eG eG ce | "G7"dG dG de | fd =BG AB |1 "C"c2z2cd :|2 "C"c2z2z2 |] 
+% wz00947
+X:3
+T:Termer Walzer  G 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+GA |: "G"BD BD GB | "D7"AD AD AB | cD cD Ac | "G"BD BD GA | BD BD GB | 
+"D7"AD AD AB | cD cD FA |1 "G"G2z2GA :|2 "G"G2z2de |: "D"fA fA df | "A7"eA eA ef | gA gA eg | 
+"D"fA fA de | fA fA df | "A7"eA eA ef | ge ^cA Bc |1 "D"d2z2de :|2 "D"d2z2z2 |] 
+% wz00947
+X:4
+T:Termer Walzer  C (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+cd |: "C"eG eG ce | "G7"dG dG de | fG fG df | "C"eG eG cd | eG eG ce | 
+"G7"dG dG de | fG fG Bd |1 "C"c2z2cd :|2 "C"c2z2ga |: "G"bd bd gb | "D7"ad ad ab | c'd c'd ac' | 
+"G"bd bd ga | bd bd gb | "D7"ad ad ab | c'a ^fd ef |1 "G"g2z2ga :|2 "G"g2z2z2 |]  
+% wz00947
+X:5
+T:Termer Walzer  F (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+FG |: "F"AC AC FA | "C7"GC GC GA | BC BC GB | "F"AC AC FG | AC AC FA | 
+"C7"GC GC GA | BC BC EG |1 "F"F2z2FG :|2 "F"F2z2cd |: "C"eG eG ce | "G7"dG dG de | fG fG df | 
+"C"eG eG cd | eG eG ce | "G7"dG dG de | fd =BG AB |1 "C"c2z2cd :|2 "C"c2z2z2 |] 
+% wz00947
+X:6
+T:Termer Walzer  G (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+GA |: "G"BD BD GB | "D7"AD AD AB | cD cD Ac | "G"BD BD GA | BD BD GB | 
+"D7"AD AD AB | cD cD FA |1 "G"G2z2GA :|2 "G"G2z2de |: "D"fA fA df | "A7"eA eA ef | gA gA eg | 
+"D"fA fA de | fA fA df | "A7"eA eA ef | ge ^cA Bc |1 "D"d2z2de :|2 "D"d2z2z2 |] 
+% wz00947
+X:7
+T:Termer Walzer  G (tinwhistle in D)
+T:wz00947 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+GA |: "G"BD BD GB | "D7"AD AD AB | cD cD Ac | "G"BD BD GA | BD BD GB | 
+"D7"AD AD AB | cD cD FA |1 "G"G2z2GA :|2 "G"G2z2de |: "D"fA fA df | "A7"eA eA ef | gA gA eg | 
+"D"fA fA de | fA fA df | "A7"eA eA ef | ge ^cA Bc |1 "D"d2z2de :|2 "D"d2z2z2 |] 
+X:8
+T:Termer Walzer  G (tinwhistle in D) solo
+T:wz00947 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/8
+K:G transpose=12
+GA |: BD BD GB | AD AD AB | "_c"cD cD Ac | BD BD GA | BD BD GB | 
+AD AD AB | "_c"cD cD FA |1 G2z2GA :|2 G2z2de |: fA fA df | eA eA ef | gA gA eg | 
+fA fA de | fA fA df | eA eA ef | ge ^cA Bc |1 d2z2de :|2 d2z2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 3, 2016
+

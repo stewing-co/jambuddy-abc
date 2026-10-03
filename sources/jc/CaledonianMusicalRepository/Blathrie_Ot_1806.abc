@@ -1,0 +1,39 @@
+X: 1
+T: the BLATH'RIE O'T
+O: 1806
+B: "Caledonian Musical Repository", 1806, p.39-40
+F: http://digital.nls.uk/special-collections-of-printed-music/pageturner.cfm?id=87661539
+Z: 2013 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+%%slurgraces no
+%%graceslurs no
+%%indent 50		% Kludge used to correct "too much shrunk" error in abcm2ps.
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+(D>E) | F2 (d<B) (A<F) (E>F) | D2 (A>B)
+w: When* I think* on* this* warld's**
+A2 D E | F2 d B (AF) E D | F2 B> c
+w: pelf, And the lit-tle wee share* I hae o't to my-
+B2 z d | A> B d> e f2 e d |
+w: self, And how the lass that wants it is
+e d e f A2 d> e | {de}f2 e d
+w: by the lads for-got: May the shame fa' the
+B2 {AB}d D | F2 (B>c) B2 |]
+w: gear and the blath'-rie* o't.
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+W:2. Jockie was the laddie that held the pleugh,
+W: But now he's got gowd and gear eneugh;
+W: He thinks nae mair o' me that wears the plaiden coat;
+W:         May the shame, &c,
+W:
+W:3. Jenny was the lassie that mucked the byre,
+W: But now she is clad in her silken attire;
+W: And Jockie says he loes her, and swears he's me forgot:
+W:         May the shame, &c.
+W:
+W:4. But a' this shall never daunton me,
+W: As lang as I keep my fancy free;
+W: For the lad that's sae inconstant, he is not worth a groat:
+W:         May the shame, &c;
+% %sep 2 8 500

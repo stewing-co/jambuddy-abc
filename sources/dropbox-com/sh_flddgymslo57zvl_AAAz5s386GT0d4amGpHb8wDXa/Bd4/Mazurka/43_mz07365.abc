@@ -1,0 +1,44 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka GDC (mz07365)  ABACA
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.309 (mz07365) orig. G,D,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACA
+R:Mazurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+[P:A] ("G"(3ddd) .d2.g2 | "D7".g2.f2.f2 | "C".f2.e2.e2 | "G".e2.d2.d2 | ((3ggg).b2.d'2 | "C".d'2.e2.e2 | ("D7"(3ddd).f2.a2 | "G".b2.g2.g2 | 
+((3ddd) .d2.g2 | "D7".g2.f2.f2 | "C".f2.e2.e2 | "G".e2.d2.d2 | "D7"d'2 c'>b c'>d' | "G".c'2b>^a b2 | "D7".b2a^g a>b | "G".g2!>!g2"_Fine"z2 :| [K:D] 
+[P:B] |: "A7".g2g2 f>e | "D"d>b a2a2 | ("A7"ac')c'2 (ba) | ("D"ad')d'2af | "A7".g2g2 f>e | "D"d>b a2a2 | ("A7"ac') (c'b) .g.e | "D".d2d2"_>Teil A"z2 :| [K:C] 
+[P:C] "C"Tg3c eg | "G7"z2(F/G/)B/d/ g2 | !>!b3a da | "C"z2(E/G/)c/e/g2 | e3c' ge | "Dm"d>b .a2!>!a2 | "G7"B>b .a2!>!a2 | "C"g>e .c2!>!c2 | 
+Tg3c eg | "G7"z2(F/G/)B/d/ g2 | !>!b3a da | "C"z2(E/G/)c/e/g2 | e3c' ge | "Dm"d>b .a2!>!a2 | ("G7"Bb)a2 fB | "C".c2!>!c2"_>Teil A"z2 |]  
+W:
+W:Anmerkung H.C.: Var. Arisdorf 7. Var. Bader, 525/27 19, Seltisberg 33  Oberiberg  St. Stefan, s.V. 525
+%% mz07365
+% July 9, 2017
+
+X:2
+T:Mazurka CGF 7- (mz07365)  
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.309 (mz07365) orig. G,D,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+("C"(3GGG) .G2.c2 | "G7".c2.B2.B2 | "F".B2.A2.A2 | "C".A2.G2.G2 | ((3ccc).e2.g2 | "F".g2.A2.A2 | ("G7"(3GGG).B2.d2 | "C".e2.c2.c2 | 
+((3GGG) .G2.c2 | "G7".c2.B2.B2 | "F".B2.A2.A2 | "C".A2.G2.G2 | "G7"g2 f>e f>g | "C".f2e>^d e2 | "G7".e2d^c d>e | "C".c2!>!c2"_Fine"z2 :| [K:G] 
+|: "D7".c2c2 B>A | "G"G>e d2d2 | ("D7"df)f2 (ed) | ("G"dg)g2dB | "D7".c2c2 B>A | "G"G>e d2d2 | ("D7"df) (fe) .c.A | "G".G2G2"_>Teil A"z2 :| [K:F] 
+"F"Tc3F Ac | "C7"z2(B,/2C/2)E/2G/2 c2 | !>!e3d Gd | "F"z2(A,/2C/2)F/2A/2c2 | A3f cA | "Gm"G>e .d2!>!d2 | "C7"E>e .d2!>!d2 | "F"c>A .F2!>!F2 | 
+Tc3F Ac | "C7"z2(B,/2C/2)E/2G/2 c2 | !>!e3d Gd | "F"z2(A,/2C/2)F/2A/2c2 | A3f cA | "Gm"G>e .d2!>!d2 | ("C7"Ee)d2 BE | "F".F2!>!F2"_>Teil A"z2 |] 
+%W:Anmerkung H.C.: Var. Arisdorf 7. Var. Bader, 525/27 19, Seltisberg 33  Oberiberg  St. Stefan, s.V. 525
+%% mz07365
+% July 9, 2017

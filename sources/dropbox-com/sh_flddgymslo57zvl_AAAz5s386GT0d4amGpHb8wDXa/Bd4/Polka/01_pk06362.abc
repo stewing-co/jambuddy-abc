@@ -1,0 +1,39 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Urgemütlich (Polka) GDC (pk06362)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.121 (pk06362) orig. G,D,C
+T: Basel - Repertoire der 'Holzmusig Allschwil'. S.118-139
+T:Überliefert durch Wihelm Lötscher-Schätzle (*1878, Uhrmacher)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+Bc |: ("G"^cdg).B (cdg).B |  "D7"=c2a2 a3g | (gfA).c (gfa).c | ("G"ed).^c.d .d2(B=c) | (^cdg).B (cdg).B |  
+"D7"=c2a2 a3g | fed^c ed=cA |1 "G"G2B2 G2Bc :|2 "G"G2B2 G2FG |: [K:D]  "D".A.A.A.A fced | ("Em"cB^AB) e3d | "A7"c2c2 c3B | 
+"D"B2A2 F2FG | .A.A.A.A fced | ("Em"cB^AB) a3g | ("D/A"fe).d2 ("A7"ed).c2 |1 "D"d2f2 d2FG :|2 "D"d2f2 d2B2 |: [K:G] "D7".d2.c2 B2A2  | 
+"G".e2!>!d4.B2 | ("D7"Bd)c2 (FA)f2 | "G"G2g2 d2B2 | "D7"d2c2 B2A2 | ("G"e2d2) f3e | "D7".d.e.c.d .B.c.A.B |1 "G"G2B2 G2B2 :|2 "G"G2B2 G2(gf) |: [K:C] "C"g6 (e^d) | 
+e6dc | ("G7"B2.a2) (B2.a2) | "C"agec .G2(g^f) | g6 (e^d) | e6dc | "G7"B2(a2 a)gde |1 "C"c2e2 c2g^f :|2 "C"c2e2 c2z2 |] 
+% pk06362 (Heft 218/TN 29)
+% Dez 7, 2016
+
+X:2
+T:Urgemütlich (Polka) CGF 7- (pk06362)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.121 (pk06362) orig. G,D,C
+S:Basel - Repertoire der 'Holzmusig Allschwil'. S.118-139
+S:Überliefert durch Wihelm Lötscher-Schätzle (*1878, Uhrmacher)
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+EF |: ("C"^FGc).E (FGc).E | "G7"=F2d2 d3c | (cBD).F (cBd).F | ("C"AG).^F.G .G2(E=F) | (^FGc).E (FGc).E | 
+"G7"=F2d2 d3c | BAG^F AG=FD |1 "C"C2E2 C2EF :|2 "C"C2E2 C2B,C |: [K:Gmaj] "G".D.D.D.D BFAG | ("Am"FE^DE) A3G | "D7"F2F2 F3E | 
+"G"E2D2 B,2B,C | .D.D.D.D BFAG | ("Am"FE^DE) d3c | ("G/D"BA).G2 ("D7"AG).F2 |1 "G"G2B2 G2B,C :|2 "G"G2B2 G2E2 |: [K:Cmaj] "G7".G2.F2 E2D2 | 
+"C".A2!>!G4.E2 | ("G7"EG)F2 (B,D)B2 | "C"C2c2 G2E2 | "G7"G2F2 E2D2 | ("C"A2G2) B3A | "G7".G.A.F.G .E.F.D.E |1 "C"C2E2 C2E2 :|2 "C"C2E2 C2(cB) |: [K:Fmaj] "F"c6 (A^G) | 
+A6GF | ("C7"E2.d2) (E2.d2) | "F"dcAF .C2(c=B) | c6 (A^G) | A6GF | "C7"E2(d2 d)cGA |1 "F"F2A2 F2c=B :|2 "F"F2A2 F2z2 |] 
+% pk06362 (Heft 218/TN 29)
+% Dez 7, 2016

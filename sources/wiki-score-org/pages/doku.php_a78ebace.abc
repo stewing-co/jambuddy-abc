@@ -1,0 +1,19 @@
+X:807
+T:N.11 Expressivo
+C:Antonio Thomaz de Lima
+M:C
+L:1/4
+K:A
+V: 7 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%----------- edit between the lines ------------
+[Q:"Expressivo"] Z2 | \
+"_Ped" A,, "_Ped" A,, "_Ped" A,,  F,, | (F,/B,,/) E,, [A,,,A,,]>x | Z5 || \
+[M:3/4] Z || [M:2/8] Z || \
+[M:2/4] [K:treble] z// !>![Acea]/.[Acea]//z// !>![DFAd]/.[DFAd]// | \
+z// !>![A,CEA]/.[A,CEA]// [K:bass] z// !>![F,^A,CF]/.[F,^A,CF]// | \
+z// !>![B,,D,F,B,]/.[B,,D,F,B,]// z// !>![E,G,DE]/.[E,G,DE]// | \
+z// [A,CE]/[DF]/[A,CE]// z/ | Z | Z | [K:treble] z/ [FAB]/ [EAc]/ z/ || \
+[M:2/8] Z ||
+%-----------------------------------------------

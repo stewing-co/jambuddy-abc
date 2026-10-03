@@ -1,0 +1,78 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Alla veglia (Schottisch)  F  (ABCA)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.305 (st02076) orig. F
+T: Graubünden. Gla Genua, Sent. S.299-329. T: Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+%%partsbox
+P:ABCA
+R:shottishe
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+cf [P:A] |: "F"a2af a2ab | c'2c'd' c'2c'a | "C7"b2bc' babg | "F"a2ac' a2f2 | a2ag agab | 
+c'2c'd' c'2c'c' | "C7"b2bc' b2bg | "F""_Fine"a4z2cf :| [P:B] a2ac' "C7"a2ag | "F"f2fg f2c2 | a2ac' "C7"a2ag | 
+"F"f4z2cf | a2ac' "C7"c'2a2 | "F"fefg f2c2 | a2ac' "C7"a2ag | "F"f4z2ac' [P:C] |: "C7"c'bab g2b2 | 
+"F"a2a2 f2a2 | "C7"c2eg gbge | "F"fefg a2ac' | "C7"c'bab g2b2 | "F"a2a2 f2a2 | "C7"c2eg gbge | "F"f4"_>Teil A"z4 :| 
+W:Parts: ABCA
+W: Alla veglia (it.) - The Vigil
+W:in Switzerland we have four languages spoken: Swiss German, Italian, French and Rumantsch
+% st02076  (Oct 4, 2016)
+
+X:2
+T:Alla veglia (Schottisch)  F  (st02076)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.305 (st02076) orig. F
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:shottishe
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+cf |: "F"a2af a2ab | c'2c'd' c'2c'a | "C7"b2bc' babg | "F"a2ac' a2f2 | a2ag agab | 
+c'2c'd' c'2c'c' | "C7"b2bc' b2bg | "F""_Fine"a4z2cf :| a2ac' "C7"a2ag | "F"f2fg f2c2 | a2ac' "C7"a2ag | 
+"F"f4z2cf | a2ac' "C7"c'2a2 | "F"fefg f2c2 | a2ac' "C7"a2ag | "F"f4z2ac' |: "C7"c'bab g2b2 | 
+"F"a2a2 f2a2 | "C7"c2eg gbge | "F"fefg a2ac' | "C7"c'bab g2b2 | "F"a2a2 f2a2 | "C7"c2eg gbge | "F"f4"_>Teil A"z4 :| 
+W:Parts: ABCA
+% st02076  (Oct 4, 2016)
+
+X:3
+T:Alla veglia (Schottisch)  C 5-  (st02076)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.305 (st02076) orig. F
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:shottishe
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+Gc |: "C"e2ec e2ef | g2ga g2ge | "G7"f2fg fefd | "C"e2eg e2c2 | e2ed edef | 
+g2ga g2gg | "G7"f2fg f2fd | "C""_Fine"e4z2Gc :| e2eg "G7"e2ed | "C"c2cd c2G2 | e2eg "G7"e2ed | 
+"C"c4z2Gc | e2eg "G7"g2e2 | "C"cBcd c2G2 | e2eg "G7"e2ed | "C"c4z2eg |: "G7"gfef d2f2 | 
+"C"e2e2 c2e2 | "G7"G2Bd dfdB | "C"cBcd e2eg | "G7"gfef d2f2 | "C"e2e2 c2e2 | "G7"G2Bd dfdB | "C"c4"_>Teil A"z4 :| 
+W:Parts: ABCA
+% st02076  (Oct 4, 2016)
+
+X:4
+T:Alla veglia (Schottisch)  G 10-  (st02076)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.305 (st02076) orig. F
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:shottishe
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+DG |: "G"B2BG B2Bc | d2de d2dB | "D7"c2cd cBcA | "G"B2Bd B2G2 | B2BA BABc | 
+d2de d2dd | "D7"c2cd c2cA | "G""_Fine"B4z2DG :| B2Bd "D7"B2BA | "G"G2GA G2D2 | B2Bd "D7"B2BA | 
+"G"G4z2DG | B2Bd "D7"d2B2 | "G"GFGA G2D2 | B2Bd "D7"B2BA | "G"G4z2Bd |: "D7"dcBc A2c2 | 
+"G"B2B2 G2B2 | "D7"D2FA AcAF | "G"GFGA B2Bd | "D7"dcBc A2c2 | "G"B2B2 G2B2 | "D7"D2FA AcAF | "G"G4"_>Teil A"z4 :| 
+W:Parts: ABCA
+% st02076  (Oct 4, 2016)
+
+

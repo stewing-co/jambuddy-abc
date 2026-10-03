@@ -1,0 +1,63 @@
+%%MIDI program 21
+X:1
+T: Laquiner Schottisch  D
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.269 (st01013) orig. D-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"D"FF/F/ FF | "A7"G2G2 | GG/G/ GB | "D"A2A2 | FF/F/ FF | DEF2 |1 "A7"AA/B/ AG | "D"FED2 :|2 "A7"AA/B/ A/G/F/E/ | "D"DD Dz |]  
+X:2
+T:Laquiner Schottisch  F 3+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F%%MIDI gchordon
+"F"AA/2A/2 AA | "C7"B2B2 | BB/2B/2 Bd | "F"c2c2 | AA/2A/2 AA | FGA2 |1 "C7"cc/2d/2 cB | "F"AGF2 :|2 "C7"cc/2d/2 c/2B/2A/2G/2 | "F"FF Fz |] 
+% st01013
+X:3
+T:Laquiner Schottisch  C 10+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+"C"ee/2e/2 ee | "G7"f2f2 | ff/2f/2 fa | "C"g2g2 | ee/2e/2 ee | cde2 |1 "G7"gg/2a/2 gf | "C"edc2 :|2 "G7"gg/2a/2 g/2f/2e/2d/2 | "C"cc cz |] 
+% st01013
+X:4
+T:Laquiner Schottisch  G 5+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+"G"BB/2B/2 BB | "D7"c2c2 | cc/2c/2 ce | "G"d2d2 | BB/2B/2 BB | GAB2 |1 "D7"dd/2e/2 dc | "G"BAG2 :|2 "D7"dd/2e/2 d/2c/2B/2A/2 | "G"GG Gz |] 
+% st01013
+X:5
+T: Laquiner Schottisch D (tinwhistle in D)
+T:st01013 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"D"FF/F/ FF | "A7"G2G2 | GG/G/ GB | "D"A2A2 | FF/F/ FF | DEF2 |1 "A7"AA/B/ AG | "D"FED2 :|2 "A7"AA/B/ A/G/F/E/ | "D"DD Dz |]  
+X:6
+T: Laquiner Schottisch D (tinwhistle in D) solo
+T:st01013 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D transpose=12
+"D"FF/F/ FF | "A7"G2G2 | GG/G/ GB | "D"A2A2 | FF/F/ FF | DEF2 |1 "A7"AA/B/ AG | "D"FED2 :|2 "A7"AA/B/ A/G/F/E/ | "D"DD Dz |]  
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 30, 2016

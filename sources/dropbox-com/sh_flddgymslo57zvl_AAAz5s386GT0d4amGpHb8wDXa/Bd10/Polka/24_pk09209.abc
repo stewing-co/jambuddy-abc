@@ -1,0 +1,102 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Polka  CF  (ABCDC)
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.131 (pk09209) orig. C,F
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+P:ABCDC
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+[P:A] gc' | "G7"bbb2 a2B2 | "C"c6 ((3cea) | "G7"g2f4 ((3Bdg) | "C".f2!>!e4 gc' | "G7"bbb2 a2B2 | "C"c6 ((3e^de) | "D7"a^gab c'2a2 | 
+"G"g2g2 g2e2 |] [P:B] "G7"f2Bc d^cd^d | "C"eBca g2e2 | "G7"gfef defg | "C"ag^fg e2e2 | "G7"f2Bc d^cd^d | 
+"C"eBca g2e2 | "G7"gfef defg  | "C"c2c'2 c2z2 |: [P:C] [K:F]  "F"c=bc'^g aefA | "C7"=Bc_BG e2d2 | dBEG C2ag | 
+"F"gfAc F2AB | c=bc'^g aefA | "Gm"=Bc_BG b2a2 | "C7"ag=Bc feag | "F"f2f2 f2"_Fine"z2 :| [P:D] [K:C] "G7"G2Bd b2a2 | 
+"tr""C"a2g2 eee2 | "G7"g2!>!f4B2 | "C"d2c2 cgec | "G7"G2Bd b2a2 | "tr""C"a2g2 eee2 | "G7"g2f2 Gfed | "C"c2c2 c2"_>Teil C"z2 |] 
+% pk09209
+X:2
+T: Polka  CF
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+gc' | "G7"bbb2 a2B2 | "C"c6 ((3cea) | "G7"g2f4 ((3Bdg) | "C".f2!>!e4 gc' | "G7"bbb2 a2B2 | "C"c6 ((3e^de) | "D7"a^gab c'2a2 | 
+"G"g2g2 g2e2 |] "G7"f2Bc d^cd^d | "C"eBca g2e2 | "G7"gfef defg | "C"ag^fg e2e2 | "G7"f2Bc d^cd^d | 
+"C"eBca g2e2 | "G7"gfef defg  | "C"c2c'2 c2z2 |: [K:F]  "F"c=bc'^g aefA | "C7"=Bc_BG e2d2 | dBEG C2ag | 
+"F"gfAc F2AB | c=bc'^g aefA | "Gm"=Bc_BG b2a2 | "C7"ag=Bc feag | "F"f2f2 f2"_Fine"z2 :| [K:C] "G7"G2Bd b2a2 | 
+"tr""C"a2g2 eee2 | "G7"g2!>!f4B2 | "C"d2c2 cgec | "G7"G2Bd b2a2 | "tr""C"a2g2 eee2 | "G7"g2f2 Gfed | "C"c2c2 c2"_>Teil C"z2 |] 
+% pk09209
+W:Parts ABCDC
+X:3
+T: Polka  CF (parts)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+gc' | "G7"bbb2 a2B2 | "C"c6 ((3cea) | "G7"g2f4 ((3Bdg) | "C".f2!>!e4 gc' | "G7"bbb2 a2B2 | "C"c6 ((3e^de) | "D7"a^gab c'2a2 | 
+"G"g2g2 g2e2 || "G7"f2Bc d^cd^d | "C"eBca g2e2 | "G7"gfef defg | "C"ag^fg e2e2 | "G7"f2Bc d^cd^d | 
+"C"eBca g2e2 | "G7"gfef defg  | "C"c2c'2 c2z2 |: [K:F]  "F"c=bc'^g aefA | "C7"=Bc_BG e2d2 | dBEG C2ag | 
+"F"gfAc F2AB | c=bc'^g aefA | "Gm"=Bc_BG b2a2 | "C7"ag=Bc feag | "F"f2f2 f2z2 :| [K:C] "G7"G2Bd b2a2 | 
+"tr""C"a2g2 eee2 | "G7"g2!>!f4B2 | "C"d2c2 cgec | "G7"G2Bd b2a2 | "tr""C"a2g2 eee2 | "G7"g2f2 Gfed | "C"c2c2 c2z2 |: \ 
+ [K:F]  "F"c=bc'^g aefA |
+ "C7"=Bc_BG e2d2 | dBEG C2ag | \
+"F"gfAc F2AB | c=bc'^g aefA | "Gm"=Bc_BG b2a2 | "C7"ag=Bc feag | "F"f2f2 f2z2 :|
+W:(Parts ABCDC)
+% pk09209
+X:4
+T:Polka  GC 5- (parts)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+dg | "D7"fff2 e2F2 | "G"G6 ((3GBe) | "D7"d2c4 ((3FAd) | "G".c2!>!B4 dg | "D7"fff2 e2F2 | "G"G6 ((3B^AB) | "A7"e^def g2e2 | 
+"D"d2d2 d2B2 || "D7"c2FG A^GA^A | "G"BFGe d2B2 | "D7"dcBc ABcd | "G"ed^cd B2B2 | "D7"c2FG A^GA^A | 
+"G"BFGe d2B2 | "D7"dcBc ABcd | "G"G2g2 G2z2 |: [K:C] "C"G^fg^d eBcE | "G7"^FG=FD B2A2 | AFB,D "_=G,"G2ed | 
+"C"dcEG C2EF | G^fg^d eBcE | "Dm"^FG=FD f2e2 | "G7"ed^FG cBed | "C"c2c2 c2z2 :| [K:G] "D7"D2FA f2e2 | 
+"tr""G"e2d2 BBB2 | "D7"d2!>!c4F2 | "G"A2G2 GdBG | "D7"D2FA f2e2 | "tr""G"e2d2 BBB2 | "D7"d2c2 DcBA | "G"G2G2 G2z2 |: \ 
+[K:C] "C"G^fg^d eBcE |
+"G7"^FG=FD B2A2 | AFB,D "_=G,"G2ed | \
+"C"dcEG C2EF | G^fg^d eBcE | "Dm"^FG=FD f2e2 | "G7"ed^FG cBed | "C"c2c2 c2z2 :|
+W:(Parts ABCDC)
+% pk09209
+X:5
+T: Polka  CF (parts) (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+gc' | "G7"bbb2 a2B2 | "C"c6 ((3cea) | "G7"g2f4 ((3Bdg) | "C".f2!>!e4 gc' | "G7"bbb2 a2B2 | "C"c6 ((3e^de) | "D7"a^gab c'2a2 | 
+"G"g2g2 g2e2 || "G7"f2Bc d^cd^d | "C"eBca g2e2 | "G7"gfef defg | "C"ag^fg e2e2 | "G7"f2Bc d^cd^d | 
+"C"eBca g2e2 | "G7"gfef defg  | "C"c2c'2 c2z2 |: [K:F]  "F"c=bc'^g aefA | "C7"=Bc_BG e2d2 | dBEG C2ag | 
+"F"gfAc F2AB | c=bc'^g aefA | "Gm"=Bc_BG b2a2 | "C7"ag=Bc feag | "F"f2f2 f2z2 :| [K:C] "G7"G2Bd b2a2 | 
+"tr""C"a2g2 eee2 | "G7"g2!>!f4B2 | "C"d2c2 cgec | "G7"G2Bd b2a2 | "tr""C"a2g2 eee2 | "G7"g2f2 Gfed | "C"c2c2 c2z2 |: \ 
+ [K:F]  "F"c=bc'^g aefA |
+ "C7"=Bc_BG e2d2 | dBEG C2ag | \
+"F"gfAc F2AB | c=bc'^g aefA | "Gm"=Bc_BG b2a2 | "C7"ag=Bc feag | "F"f2f2 f2z2 :|
+W:(Parts ABCDC)
+% pk09209
+X:6
+T:Polka  GC 5- (parts) (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+dg | "D7"fff2 e2F2 | "G"G6 ((3GBe) | "D7"d2c4 ((3FAd) | "G".c2!>!B4 dg | "D7"fff2 e2F2 | "G"G6 ((3B^AB) | "A7"e^def g2e2 | 
+"D"d2d2 d2B2 || "D7"c2FG A^GA^A | "G"BFGe d2B2 | "D7"dcBc ABcd | "G"ed^cd B2B2 | "D7"c2FG A^GA^A | 
+"G"BFGe d2B2 | "D7"dcBc ABcd | "G"G2g2 G2z2 |: [K:C] "C"G^fg^d eBcE | "G7"^FG=FD B2A2 | AFB,D "_=G,"G2ed | 
+"C"dcEG C2EF | G^fg^d eBcE | "Dm"^FG=FD f2e2 | "G7"ed^FG cBed | "C"c2c2 c2z2 :| [K:G] "D7"D2FA f2e2 | 
+"tr""G"e2d2 BBB2 | "D7"d2!>!c4F2 | "G"A2G2 GdBG | "D7"D2FA f2e2 | "tr""G"e2d2 BBB2 | "D7"d2c2 DcBA | "G"G2G2 G2z2 |: \ 
+[K:C] "C"G^fg^d eBcE |
+"G7"^FG=FD B2A2 | AFB,D "_=G,"G2ed | \
+"C"dcEG C2EF | G^fg^d eBcE | "Dm"^FG=FD f2e2 | "G7"ed^FG cBed | "C"c2c2 c2z2 :|
+W:(Parts ABCDC)
+% pk09209
+% Aug 22, 2016

@@ -1,0 +1,95 @@
+
+
+X:1
+T:Galop Nantais
+L:1/8
+M:6/8
+K:C major
+P:Sequence A2 B2 C2
+P:A (prepare to gallop)
+"C"G|:"F"(A3A2)A|"G"(B3B2)B|1"C"c3c dc|"G"B3B2B:|2"F"c2 cc BA|\
+M:3/8
+"G"d2z|
+P:B (gallop)
+M:6/8
+|:"G"dBGd2d|dBGd2G|"C"A2A"D"d2d|1B3"G"G3:|2G3 G3|
+M:2/4
+L:1/16
+P:C (slow polka)
+|:"C"e2c2 cBcd|1"G"c2B2 B3c|"F"B2A2 A3B|"G"A2G2G4|2"G"c2B2 B3G|"F"A2A2 "G"B2B2|"C"c4 c2 G2||
+
+X:2
+T:Derobee de Montcontour
+L:1/8
+M:6/8
+K:G major
+P: Sequence A2 B C2
+P:A
+|:BcBA2d|d2ed2d|BcBA2d|d2ed3:|
+P:B
+dcBA2A|dcBA2A|dcB ABc|dcBA3|
+P:C
+|:G3A2A|d2cB2G|A3B2c|B2AG3:|
+
+X:3
+T:Le Moulinet
+L:1/8
+M:6/8
+K:G major
+P: Sequence A2 B4 C2
+|:GAB GAB|GAB c2A|FGA FGA|1cBAB2G:|2cBAG3|A3G3|
+P:B (moulinet pour les filles, pour les hommes)
+|:GABd2d|BAGA2|(4ABcBA2B|1,3cBAB2G:|2,4cBAG3|A3G3|
+M:2/4
+P:C
+|:Bd gg|feA2|A/2c/2A/2c/2 ed/2c/2|1BA BG:|2BGG2|A2 G2||
+
+X:4
+T:Mains aux Genoux
+L:1/8
+M:2/4
+K:C major
+c|ec dc|ec dc|ec dc|ec dc|ecd2|d2d2|
+|:cB/2A/2 Gc|df ec|cB/2A/2 Gc|dBc2:|
+
+X:5
+T:Marche Nupitiale (Berry)
+L:1/8
+M:6/8
+K:G major
+P: Sequence A4 B4
+P:A
+|:DGB DGB|BAGA2F|1,3DFA DFA|cBAB2G:|2,4DFA cBA|DEFG3|
+P:B
+|:DGBd2^c|d2cA3|1,3DFAc2B|c2dB2G:|2,4DFA cBA|DEF G3||
+
+X:6
+T:Farandol Nicoise
+L:1/8
+M:6/4
+Q:180
+K:G major
+|:B3B3|d3dcB|ABc def|gfe ded|B3B3|d3dcB|ABc def|1g6:|2(g3g2)d|
+|:dBd dBd|e2ee3|f2f fef|gfed2d|dBd dBd|e2ee3|f2f fef|(g3g2)d:|
+
+X:7
+T:Pas du Loup
+L:1/8
+M:2/4
+K:C major
+P:sequence A2 B2 A2 B2
+P:A
+|:"C"G2ec|G2ec|G2e2|"G"e2d2|G2dB|G2dB|G2d2|"C"c4:|
+P:B
+|:"C"g2fe|"F"d2ef|g2a2|a2g2|1"C"g2fe|"G"d2ef|"C"g2a2|g4:|2"C"g2fe|"G"d2ef|e2d2|"C"c4||
+
+X:1
+T:Cochinchine
+C:Inconnu
+L:1/16
+M:2/4
+O:Douteuse
+K:C major
+V:1
+g2gg eceg |eceg gfdB| g2gg eceg| gfdB c4:||:
+e2ee cAAA|f2ff dBBB|g2gg eceg|gfdBc4:|

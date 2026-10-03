@@ -1,0 +1,50 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Galopp  CF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhause, St. Gallen I. S.187 (GL00370) orig. C,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G|: "C"G>e d>c | "G7"Bag2 | fG fG | "C"eG eG | G>e d>c | "G7"Bag2 | 
+f>G Bd |1 "C"c2zG :|2 "C"c2zg |: "Dm"af "G7"fd | "C"ce g/g/g | "G7"Bd f/f/f | "C"ce g/g/g | 
+"Dm"ag "G7"fd | "C"ce g/g/g | "G7"Bd g>B |1 "C"ce cg :|2 "C"ce cc |: [K:F] "F"a>g "Bb"f>d | "F"c2f2 | 
+"C7"e/e/eg2 | "F"a/a/af2 | a>g "Bb"f>d | "F"c2f2 | "C7"e/e/e g>e |1 "F"ff fc :|2 "F"ff fz |]   
+
+X:2
+T: Galopp  CF chords (Anm)
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G|: "C"G>e d>"_ ="c | "G7""_h"B"_a"ag2 | "_f"fG fG | "C"eG eG | G>e d>c | "G7"Bag2 | \
+f>G Bd |1 "C"c2zG :|2 "C"c2zg |:
+ "Dm""_a"af "G7""_f"f"_d"d | "C"ce g/g/g | "G7"Bd f/f/f | "C"ce g/g/g | \
+"Dm"ag "G7"fd | "C"ce g/g/g | "G7"Bd g>B |1 "C"ce cg :|2
+ "C"ce cc |: [K:F] "F"a>g "Bb"f>d | "F"c2"_ ="f2 | \
+"C7""_e"e/e/e"_ g ="g2 | "F"a/a/af2 | a>g "Bb"f>d | "F"c2"_ ="f2 | "C7"e/e/e g>e |1 "F"ff fc :|2 "F"ff fz |]   
+
+X:3
+T:Galopp  GC 5- chords
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+D|: "G"D>B A>G | "D7"Fed2 | cD cD | "G"BD BD | D>B A>G | "D7"Fed2 | 
+c>D FA |1 "G"G2zD :|2 "G"G2zd |: "Am"ec "D7"cA | "G"GB d/2d/2d | "D7"FA c/2c/2c | "G"GB d/2d/2d | 
+"Am"ed "D7"cA | "G"GB d/2d/2d | "D7"FA d>F |1 "G"GB Gd :|2 "G"GB GG |: [K:Cmaj] "C"e>d "F"c>A | "C"G2c2 | 
+"G7"B/2B/2Bd2 | "C"e/2e/2ec2 | e>d "F"c>A | "C"G2c2 | "G7"B/2B/2B d>B |1 "C"cc cG :|2 "C"cc cz |] 
+
+X:4
+T:Galopp  GC 5- chords (Anm)
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+D|: "G"D>B A>"_ ="G | "D7""_#"F"_e"ed2 | "_c"cD cD | "G"BD BD | D>B A>G | "D7""_#"F"_e"ed2 | \
+"_c"c>D "_#"F"_a"A |1 "G"G2zD :|2 "G"G2zd |:
+ "Am""_e"e"_c"c "D7"c"_a"A | "G"GB d/2d/2d | "D7"FA c/2c/2c | "G"GB d/2d/2d | \
+"Am"ed "D7"cA | "G"GB d/2d/2d | "D7"FA d>F |1 "G"GB Gd :|2
+ "G"GB GG |: [K:Cmaj] "C"e>d "F"c>A | "C"G2"_ ="c2 | \
+"G7"B/2B/2B"_ ="d2 | "C"e/2e/2ec2 | e>d "F"c>A | "C"G2c2 | "G7"B/2B/2B d>B |1 "C"cc cG :|2 "C"cc cz |] 
+
+

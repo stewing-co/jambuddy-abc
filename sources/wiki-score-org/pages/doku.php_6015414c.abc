@@ -1,0 +1,23 @@
+X:103
+T:[Kyrie]
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 3 clef=alto name="Alto" sname="A."
+%%MIDI program 1 41
+%%staves [ 3 ]
+%------------------
+[Q:"Largo"] C6-|C3A,3-|A,6-|A,3 F,2 F,- | F,2z z2z | !p! EEE DDD | CCC B,B,B, | \
+A,A,A, G,2z | !pp! A,2 C C2 C- | C2 !p! (F G2 F | G2 F E2 F | E2 F E2) E | F2 C C2 "_cresc" C | C2 G G2 A | \
+A2 !f! A G2c | c2z z2z | zz !p!F- F2F- | F2 G- G!p!E2- | E3- E2 !p!A | \
+.G.G.G G3- | G2z z2z | !p!(D6|C2)zz2z | !p!(D6|C)G,G, A,DD | !f!F2GA2F|!>!G3Fzz|zzz!p! (=B,2D) | \
+!f!EDC FG A | G2 =B cGF | !>!G3Fzz | z2z!p!(=B,2D|C2)z !p!(F,3 | G,3 A,3 | _B,2)B,-B,2B,-| !fermata!B,6 || "Segue;Christe" \
+[Q:"Allegretto"][M:3/8] !p!(A,B,C) | (D2C) | B,3 | !p!A,3| =B,2"_cresc."D| C3 | D3 | !f!E2 c-|c2E|G3 | \
+!f!GGG|G2z| !f!^GGG|^G2z | !f!AAA | A2z | !f!ccc| c2z | \
+!f! f,2e, | d,2c, | !f!D2G-|G2=B|c2!f!G|F2^F|!f!G2^G|A3| !f! FFF|F2F|G3 | !f! F3 | !f!E3| DDD | !f!D3|E2^C|D2 !f! F | \
+G3|F3 | !f! =B3| A3| !f!) =B3| czz | !f! E, E, E, | F, F, F, | !f!G, G, G, | F, F, F, | \
+!f!G, G, G, | A, A, A, | !f!G, z z | !f!G,zz | !p!(E,2F,)| (E,2F,)| (E,2F,) | !fermata!E,3 || \
+[Q:"Largo"][M:6/8]!pp! A,2CC2C-|C2!p!(FG2F) | G2(FE2F)|(E2!p!FE2)E|!p!F2CC2C-|C2"_cresc."GG2A|A2!f!AG2c|c2zz2z| \
+z2z!p!F3-|Fzz!p!C3-|C2z!p!F2(_A|=B3)G3|F2!p!F-F2_A|=A2z!p!G,2z|F,2z!>!B,3|A,2A,!>!B,3|A,3!p!A,3 | !fermata!A,6|]\
+%------------------

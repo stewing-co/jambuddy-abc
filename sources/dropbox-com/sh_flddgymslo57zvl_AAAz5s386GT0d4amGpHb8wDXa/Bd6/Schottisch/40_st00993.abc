@@ -1,0 +1,92 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Spys-Giger-Schottisch  G
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.262 (st00993) orig. G-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"d2ed B2cB | "D7"A2d2 f2a2 | d2ed c2dc | "G"B2d2 g2b2 | d2ed B2cB | "D7"A2d2 f2e2 | dddd c'3f | "G"a2gg .g4 :| 
+|: "D7"ABcd f2e2 | "G"dddd b2g2 | "D7"fgab c'2f2 | "G"agfed4 | "D7"ABcd f2e2 | "G"dddd b2g2 | "D7"fgab c'2f2 | "G"g2b2 g2z2 :| 
+W:
+W:Anmerkung H.C.: 14. Okt. Mutter Sepp, Naters
+X:2
+T:Spys-Giger-Schottisch  F 2-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F%%MIDI gchordon
+"F"c2dc A2BA | "C7"G2c2 e2g2 | c2dc B2cB | "F"A2c2 f2a2 | c2dc A2BA | "C7"G2c2 e2d2 | cccc b3e | "F"g2ff .f4 :| 
+|: "C7"GABc e2d2 | "F"cccc a2f2 | "C7"efga b2e2 | "F"gfedc4 | "C7"GABc e2d2 | "F"cccc a2f2 | "C7"efga b2e2 | "F"f2a2 f2z2 :| 
+% st00993
+X:3
+T:Spys-Giger-Schottisch  C 7-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+"C"G2AG E2FE | "G7"D2G2 B2d2 | G2AG F2GF | "C"E2G2 c2e2 | G2AG E2FE | "G7"D2G2 B2A2 | GGGG f3B | "C"d2cc .c4 :| 
+|: "G7"DEFG B2A2 | "C"GGGG e2c2 | "G7"Bcde f2B2 | "C"dcBAG4 | "G7"DEFG B2A2 | "C"GGGG e2c2 | "G7"Bcde f2B2 | "C"c2e2 c2z2 :| 
+% st00993
+X:4
+T: Spys-Giger-Schottisch  G (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"d2ed B2cB | "D7"A2d2 f2a2 | d2ed c2dc | "G"B2d2 g2b2 | d2ed B2cB | "D7"A2d2 f2e2 | dddd c'3f | "G"a2gg .g4 :| 
+|: "D7"ABcd f2e2 | "G"dddd b2g2 | "D7"fgab c'2f2 | "G"agfed4 | "D7"ABcd f2e2 | "G"dddd b2g2 | "D7"fgab c'2f2 | "G"g2b2 g2z2 :| 
+W:% st00993
+X:5
+T:Spys-Giger-Schottisch  F (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+"F"c2dc A2BA | "C7"G2c2 e2g2 | c2dc B2cB | "F"A2c2 f2a2 | c2dc A2BA | "C7"G2c2 e2d2 | cccc b3e | "F"g2ff .f4 :| 
+|: "C7"GABc e2d2 | "F"cccc a2f2 | "C7"efga b2e2 | "F"gfedc4 | "C7"GABc e2d2 | "F"cccc a2f2 | "C7"efga b2e2 | "F"f2a2 f2z2 :| 
+% st00993
+X:6
+T:Spys-Giger-Schottisch  C (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"G2AG E2FE | "G7"D2G2 B2d2 | G2AG F2GF | "C"E2G2 c2e2 | G2AG E2FE | "G7"D2G2 B2A2 | GGGG f3B | "C"d2cc .c4 :| 
+|: "G7"DEFG B2A2 | "C"GGGG e2c2 | "G7"Bcde f2B2 | "C"dcBAG4 | "G7"DEFG B2A2 | "C"GGGG e2c2 | "G7"Bcde f2B2 | "C"c2e2 c2z2 :| 
+% st00993
+X:7
+T:Spys-Giger-Schottisch D (tinwhistle in D)
+T:st00993 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"A2BA F2GF | "A7"E2A2 c2e2 | A2BA G2AG | "D"F2A2 d2f2 | A2BA F2GF | "A7"E2A2 c2B2 | AAAA g3c | "D"e2dd .d4 :| 
+|: "A7"EFGA c2B2 | "D"AAAA f2d2 | "A7"cdef g2c2 | "D"edcBA4 | "A7"EFGA c2B2 | "D"AAAA f2d2 | "A7"cdef g2c2 | "D"d2f2 d2z2 :| 
+X:8
+T:Spys-Giger-Schottisch D (tinwhistle in D) solo
+T:st00993 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D transpose=12
+"D"A2BA F2GF | "A7"E2A2 c2e2 | A2BA G2AG | "D"F2A2 d2f2 | A2BA F2GF | "A7"E2A2 c2B2 | AAAA g3c | "D"e2dd .d4 :| 
+|: "A7"EFGA c2B2 | "D"AAAA f2d2 | "A7"cdef g2c2 | "D"edcBA4 | "A7"EFGA c2B2 | "D"AAAA f2d2 | "A7"cdef g2c2 | "D"d2f2 d2z2 :| 
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 29, 2016

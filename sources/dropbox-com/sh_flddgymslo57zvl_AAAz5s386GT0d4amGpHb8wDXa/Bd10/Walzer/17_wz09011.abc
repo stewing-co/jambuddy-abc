@@ -1,0 +1,74 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Wann ich mal stirb (Walzer)  GC
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.52(wz09011) orig. G,C-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"bag | "D7"f2d' | e2c' | "G"d2b | za>g | "D7"f2c' | zb>a | "G"g2g' |  bag | "D7"f2d' | e2c' | "G"d2b | zg>f | "C"e2c' | 
+"D7"f2d' |1 "G"g>gg :|2 "G"gzz |: "G"g>f e/d/ | B>BB | g>f e/d/ | "C"c>cc | a>g f/e/ | "D7"d>ff | "C"c>ee |1 "G"B>dd :|2 
+"G"f/g/zz |: [K:C] "G7"GAB | "C"c2z | c2g | "G7"B3 | AG/G/ G | fB/B/B |1 GAB | "C"c/e/ d/c/ B/A/ :|2 "C"c>c c/e/ | czz |] 
+W:
+W: Wann ich mal stirb (Wenn ich mal sterbe) - (once) when I die.
+% wz09011
+X:2
+T:Wann ich mal stirb (Walzer)  CF 7-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"edc | "G7"B2g | A2f | "C"G2e | zd>c | "G7"B2f | ze>d | "C"c2c' | edc | "G7"B2g | A2f | "C"G2e | zc>B | "F"A2f | 
+"G7"B2g |1 "C"c>cc :|2 "C"czz |: "C"c>B A/2G/2 | E>EE | c>B A/2G/2 | "F"F>FF | d>c B/2A/2 | "G7"G>BB | "F"F>AA |1 "C"E>GG :|2 
+"C"B/2c/2zz |: [K:F] "C7"CDE | "F"F2z | F2c | "C7"E3 | DC/2C/2 C | BE/2E/2E |1 CDE | "F"F/2A/2 G/2F/2 E/2D/2 :|2 "F"F>F F/2A/2 | Fzz |] 
+% wz09011
+X:3
+T: Wann ich mal stirb (Walzer)  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"bag | "D7"f2d' | e2c' | "G"d2b | za>g | "D7"f2c' | zb>a | "G"g2g' |  bag | "D7"f2d' | e2c' | "G"d2b | zg>f | "C"e2c' | 
+"D7"f2d' |1 "G"g>gg :|2 "G"gzz |: "G"g>f e/d/ | B>BB | g>f e/d/ | "C"c>cc | a>g f/e/ | "D7"d>ff | "C"c>ee |1 "G"B>dd :|2 
+"G"f/g/zz |: [K:C] "G7"GAB | "C"c2z | c2g | "G7"B3 | AG/G/ G | fB/B/B |1 GAB | "C"c/e/ d/c/ B/A/ :|2 "C"c>c c/e/ | czz |] 
+% wz09011
+X:4
+T:Wann ich mal stirb (Walzer)  CF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"edc | "G7"B2g | A2f | "C"G2e | zd>c | "G7"B2f | ze>d | "C"c2c' | edc | "G7"B2g | A2f | "C"G2e | zc>B | "F"A2f | 
+"G7"B2g |1 "C"c>cc :|2 "C"czz |: "C"c>B A/2G/2 | E>EE | c>B A/2G/2 | "F"F>FF | d>c B/2A/2 | "G7"G>BB | "F"F>AA |1 "C"E>GG :|2 
+"C"B/2c/2zz |: [K:F] "C7"CDE | "F"F2z | F2c | "C7"E3 | DC/2C/2 C | BE/2E/2E |1 CDE | "F"F/2A/2 G/2F/2 E/2D/2 :|2 "F"F>F F/2A/2 | Fzz |] 
+% wz09011
+X:5
+T:Wann ich mal stirb A&G (tinwhistle in D) var.
+T:wz09011 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A %%MIDI gchordon
+"A"cBA | "E7"G2e | F2d | "A"E2c | zB>A | "E7"G2d | zc>B | "A"A2a | cBA | "E7"G2e | F2d | "A"E2c | zA>G | "D"F2d | 
+"E7"G2e |1 "A"A>AA :|2 "A"Azz |: "A"A>G F/2E/2 | C>CC | A>G F/2E/2 | "D"D>DD | B>A G/2F/2 | "E7"E>GG | "D"D>FF |1 "A"C>EE :|2 
+"A"G/2A/2zz |: [K:G] "D7"DEF | "G"G2z | G2d | "D7"F3 | ED/2D/2 D | cF/2F/2F |1 DEF | "G"G/2B/2 A/2G/2 F/2E/2 :|2 "G"G>G G/2B/2 | Gzz |] 
+X:6
+T:Wann ich mal stirb A&G (tinwhistle in D) var. solo
+T:wz09011 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A transpose=12
+cBA | "_#"G2e | F2d | E2c | zB>A | "_#"G2d | zc>B | A2a | cBA | "_#"G2e | F2d | E2c | zA>"_#"G | F2d | 
+"_#"G2e |1 A>AA :|2 Azz |: A>"_#"G F/2E/2 | "_=C"C>CC | A>"_#"G F/2E/2 | D>DD | B>A "_#"G/2F/2 | E>"_#"GG | D>FF |1 "_=C"C>EE :|2 
+"_#"G/2A/2zz |: [K:G] DEF | G2z | G2d | F3 | ED/2D/2 D | "_c"cF/2F/2F |1 DEF | G/2B/2 A/2G/2 F/2E/2 :|2 G>G G/2B/2 | Gzz |]
+% Aug 3, 2016

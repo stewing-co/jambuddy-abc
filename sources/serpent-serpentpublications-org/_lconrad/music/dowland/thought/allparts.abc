@@ -1,0 +1,181 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XIII. Oh what hath overwrought
+T:CANTUS.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+K:G dor
+z2 z |: d B d c B | A3
+w: Oh what hath o- ver- wrought
+w: Or where- to am I brought,
+f e d d ^c d3 :|
+w: My all a- ma- zed thought
+w: That thus in vaine have sought
+d c B e > e d3
+w: Till time and truth hath taught,
+d | c B A A G3 
+w: I la- bor all for nought.
+|: d B d c B A3
+w: The day I see is cleare,
+w: For griefe doth stil ap- peare
+f | e d d ^c d3 :|
+w: But I am nere the neere,
+w: To crosse out me- rie cheere,
+d c B _e > e d3 
+w: While I can no- thing heare, 
+d | c B A A G4
+w: But win- ter all the yeare,
+B z z z A z z2 | G A B G A3
+w: Cold, hold, the sun wil shine warme,
+ A/ A/ A A d2 ^c4 
+w: There- fore now feare no harme.
+|: A A/ A/ d2 
+w: O bless- ed beames, 
+A A/ A/ c2 |
+w: Where beau- tie streames
+B/ A/ G/ A/ B G ^F G2 F G4 :|
+w: Hap- pie hap- pie light to loves _ _ dreames.
+
+X:2
+T:XIII. Oh what hath overwrought
+T:ALTUS.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on second line
+K:G dor
+z2 z |: B G B A G ^F3
+w: Oh what hath o- ver- wrought
+w: Or where- to am I brought,
+A A A A > G ^F3 :|
+w: My all a- ma- zed thought
+w: That thus in vaine have sought
+F G/ A/ B "(1)"B A B3
+w: Till time _ and truth hath taught,
+N:(1) Looks like a half note in facsimile, but may be bad printing
+B A G G ^F G3
+w: I la- bor all for nought.
+|:B G B A G F3
+w: The day I see is cleare,
+w: For griefe doth stil ap- peare
+A A A A > G ^F3 :|
+w: But I am nere the neere,
+w: To crosse out me- rie cheere,
+F G/ A/ B B A B3
+w: While I _ can no- thing heare, 
+B A G G ^F G4 |
+w: But win- ter all the yeare,
+z G z2 z ^F z2 D D D E F3
+w: Cold, hold, the sun wil shine warme,
+F/ F/ E A2 G A4
+w: There- fore now feare no harme.
+|:F F/ F/ F2
+w: O bless- ed beames, 
+G G/ G/ G2 
+w: Where beau- tie streames
+G/ ^F/ G/ D/ D D D3 C =B,4 :|
+w: Hap- pie hap- pie light to loves _ dreames.
+
+X:3
+T:XIII. Oh what hath overwrought
+T:TENOR.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -12
+N:Original clef, C on fourth line
+K:G dor -8va
+z2 z |: d _e f f d d3
+w: Oh what hath o- ver- wrought
+w: Or where- to am I brought,
+ d e f e > e d3 :|
+w: My all a- ma- zed thought
+w: That thus in vaine have sought
+B _e d c > c  B > c 
+w: Till time and truth hath taught,
+d/ e/ f2 d d > c =B3
+w: I _ _ la- bor all for nought.
+|: d _e f f d d3
+w: The day I see is cleare,
+w: For griefe doth stil ap- peare
+d e f e > e d3 :|
+w: But I am nere the neere,
+w: To _ _ crosse out me- rie cheere,
+B e d c c B > c
+w: While I can no- thing heare, _
+d/ e/ f2  d d > c =B4 |
+w: But _ win- ter all the yeare,
+z2 d z z2 d "(2)"z B A G c c3
+w: Cold, hold, the sun wil shine warme,
+N:(2) looks like a half rest in facsimile
+e/ A/ A F > E D E4
+w: There- fore now feare _ no harme.
+|:D A/ A/ B2
+w: O bless- ed beames, 
+c c/ c/ c2
+w: Where beau- tie streames
+d3/4 c// B/ A/ G B/ B/ B > B A2 G4 :|
+w: Hap- pie hap- pie light, hap- pie light to loves dreames.
+
+X:4
+T:XIII. Oh what hath overwrought
+T:BASSUS.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -24
+K:G dor bass
+z2 z |: B e B f g d3
+w: Oh what hath o- ver- wrought
+w: Or where- to am I brought,
+d ^c d a A d3 :|
+w: My all a- ma- zed thought
+w: That thus in vaine have sought
+ z z z4 B > c d/ e/ f g d > d G3 
+w: I _ _ _ la- bor all for nought.
+|:B e B f g d3 
+w: The day I see is cleare,
+w: For griefe doth stil ap- peare
+d ^c d a A d3 :|
+w: But I am nere the neere,
+w: To crosse out me- rie cheere,
+z z4 z B > c d/ e/ f g d > d G4 |
+w: But _ _ _ win- ter all the yeare,
+z2 z g z2 z d g ^f g c f3
+w: Cold, hold, the sun wil shine warme,
+d/ d/ ^c d B2 A4
+w: There- fore now feare no harme.
+|:d d/ d/ B2 
+w: O bless- ed beames, 
+f f/ f/ c2
+w: Where beau- tie streames
+g/ d/ g/ ^f/ g G d4 G4 :|
+w: Hap- pie hap- pie light to loves dreames.

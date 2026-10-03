@@ -1,0 +1,32 @@
+X: 1
+T: Christmas
+T: V.2
+Z: Harmony party added by Anahata <anahata@treewind.co.uk>
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+V: 1 tune clef=treble
+V: 2 harmony clef=treble
+V: 3 clef=bass octave=-2
+V:1
+|: D/E/F |G2 D2 A2 D2 | cd/c/ BA G2 AB | c2 BA B2 AG | A2 F2 D2 dc |
+B2 G2 D4 | EF GE c2 BA | B2 AG D2 F2 | G6 ::
+Bc |d2 B2 G2 ed | c2 A2 F2 dc | B2 AG cB AG | FG EF D2 D/E/F |
+G2 D2 AD dB | cB AG d2- dB | cB AG D2 F2 |1 G6 :|2 G6 |
+V:2
+%%MIDI gchordoff
+|: dc | "G"B4 "D"c3d | "C"e2dc "G"B2d2 |"C"e2dc "G"d2cB | "D7"c2A2 F2A2 | 
+"G"G2Bd gfed | "C"cdec "Am"A2 Bc | "G"dgfe "D"d2c2 | "G"BcBA G2 ::
+d2 | "G"g2d2 B2cd | "Am"edcB "D"A4 |\
+ "G"d2cB "Am"AGFG | "A7"AB^cA "D"d2=c2 |
+"G"B2G2"D"F2"G"G2 | "Am"edcB "D"A2"G"G2 |\
+"C"AGFE "D"D2dc |1 "G"BcBA G2 :|2 "G"B6 |]
+V:3
+|: d2 | G4 d4 |c2d2 g4 |c2e2 g4 |d4 d2f2|
+g2d2B2G2| c4 A4 |G2de f2d2| g2d2 G2 :: 
+GA |B4 e2cB | A2c2 d2B2 |G2d2A4 | a2g2 f4 |
+g4 d2G2 |A2e2f2g2| c2e2 f2d2 |1g2d2G2 :|2 g2d2G2|]
+%% begintext
+V.2 (10-12-2019) has some harmony and bass line changes.
+%% endtext

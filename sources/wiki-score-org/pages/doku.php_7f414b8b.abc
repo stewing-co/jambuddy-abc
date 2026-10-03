@@ -1,0 +1,29 @@
+X:101
+T:[Orchestras]
+C:Giuseppe Totti (17__-1832)
+M:C
+L:1/4
+K:Bb
+V: 1 clef=bass name="Corno in Elafa [I]" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 1 )]
+%----- edit between the lines ----
+[Q:"Allegro com spirito"] [K:C]  !f! B,>F,B,>F,| B,B,B,z|Z12|z!f! F,F,F,|\
+F,zF,z|zF,F,F,|F,zF,z| F,zz2|\
+(!p!F,8/4 !f!F,8/4)|(!p!F,8/4 !f!F,8/4)| F,zz2|Z2|\
+!f! B,>F,B,>F,| B,zz2| G,zG,z| G,zz2| z G,G,G,|F, zz2|zG,G,G,|\
+F,zF,F,| F,zz2| F,zF,z|F, zz2|\
+Z5|z G,F,F,| G,G,F,F,|G,zz2|Z15|\
+F,F,F,8/4| F,zz2|Z2|z2/4G,2/4 G, z2/4 G,2/4 G,|\
+z2/4F,2/4 F, z2/4F,2/4F,| z2/4F,2/4F,z2/4F,2/4F,|F,2/4 z2/4zz2|z F,F,G,|F,16/4|\
+F,2/4z2/4zz2|Z| F,zF,G,|F,F,F,F,|\
+F,F,F,F,|F,zz2|Z5|zF,F,z|Z4|!f! F,zF,z|\
+F,F,F,z|Z| F,zF,z| F,zz2|Z15|\
+z!f!G,G,G,| G,zz2|z F,G,G,|F,zz2|z F,G,G,|\
+F,/G,/F,/G,/ A, G,/F,/|E,>B,, E,>B,,|G,,zE,z| B,>G, B,>G,|\
+E,zG,z| E,zz2| F,16/4|F,zF,z|F,16/4| F,zF,z|\
+G,zz2|Z6|zF,F,F,|F,F,F,F,|F,zz2|Z15|!f!F,F,F,8/4|F,zz2|B,B,/A,/G,8/4|G,zz2|\
+z2/4 G,2/4 G,z2/4 G,2/4 G,|z2/4F,2/4 F, z2/4F,2/4F,|F,zz2|F,F,F,F,|\
+F,zz2|Z2|F,F,F,F,|!p!B,,16/4|B,, zz2|z!f!G,F,z|\
+!p!F,16/4|F,zz2 |z!f!F,F,z  |zG, F,F,|F,G,F,F,|F,F,F,F,|F,B,,B,,B,,|B,,zF,z|F,zz2 |]
+%---------------------------------

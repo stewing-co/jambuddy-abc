@@ -1,0 +1,14 @@
+% demo-dacapo.abc
+
+%%abc-include dacapo.abh
+%%linebreak <EOL>
+
+X: 1
+T: D.S. al coda etc.
+L: 1/4
+M: none
+K: C
+%
+!segno!C4 | !D.S.!C !D.S.alcoda!C !D.S.alfine!C !D.C.!C |
+!D.C.alcoda!C !D.C.alfine!C !dacoda!C !dacapo!C | \
+!coda!C2 !fine!C2 ||

@@ -1,0 +1,21 @@
+X:2220
+T:Andante [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:3/4
+L:1/4
+K:Eb
+V: 20 clef=alto1 name="Euridice" sname="Eur."
+%%MIDI program 1 1
+%%staves [[ 20 ]]
+%-----
+[Q:"Andante"] e>g f/e/ | d/>c/ c z/B/ | B/>F/ B/>G/ B/>A/ | {B}AGz | \
+w: Dal-~ do--lo--re, oh Di---o, sen-~ muo-re
+f2 (e/c/) | {c}BBz | c/>g/ {e}f>e | {e}d2z | (3c/e/g/ {e}f>A | {c}B2z | \
+w: Eu ri--di-ce tu--a fe-del tu---a fe-del;
+da (3a/ f/d/ | eBz | B/e//B// {B}A>A | {A}GFz | \
+w: Deh---~ ri-tor-na, o--~ ca-ro'a-mo-re,
+e2 _d | {_d}czz/c/ | {c}B2d | e2 !fermata!z | e e//g//b//a// g//f// e//_d// | czz/ \
+w: Non fug-gir da me cru-del no------n fug--gir
+c/ | {c}B2d | e z/B/ a/> d/ | e z/B/ a/> d/ | e2z |] \
+w: da me cru-del, da me cru-del, da me cru-del.
+%-----

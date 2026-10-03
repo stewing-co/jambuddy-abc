@@ -1,0 +1,162 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Galopp  FBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.185 (GL00830) orig. F,Bb-Dur
+T:Gomser T\"anze. S.178-195.\"Uberliefert durch Theodor Franzen, 1870-1958, Fiesch.
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F".c2.c2 | .c2 .c2 | c>a g>f | "C7"f2.e2 | .c2.c2 | .c2 .c2 | c>b a>g | 
+"F"g2.f2 | c2c2 | c2c2 |  c>c' b>a | "Gm/Bb"a2g2 | B>b a>g | "F"gf cf | 
+"C7"ag de | "F"f2f2 || "C7".b2.b2 | .c'2.b2 | "F"!>!a4 | a>a b>a | "C7"g4 | 
+g>g a>g | "F"f4 | ff ga |  "Bb".b2.b2 | "C7".c'2.b2 | "F"!>!a4 | a>a b>a | 
+"C7"g4 | g>g a>g | "F"ff/f/ fa | f2z2 || [K:Bb] "Bb"f2b2 |  "F7"b2a2 | a2g2 |  
+"Bb"g2f2 |  zf g>f |  "F7"f2e2 | ze f>e | "Bb"(e2d2) | .f2.b2 | "F7".b2.a2 | 
+.a2.g2 | "Bb"(g2f2) | zf gf | "F7"(f2e2) | zfga | "Bb"b3z |]  
+X:2
+T:Galopp  CF 5-
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C".G2.G2 | .G2 .G2 | G>e d>c | "G7"c2.B2 | .G2.G2 | .G2 .G2 | G>f e>d | \
+"C"d2.c2 | G2G2 | G2G2 | G>g f>e | "Dm/F"e2d2 |
+ F>f e>d | "C"dc Gc | \
+"G7"ed AB | "C"c2c2 || "G7".f2.f2 | .g2.f2 | "C"!>!e4 | e>e f>e | "G7"d4 | \
+d>d e>d | "C"c4 |
+ cc de | "F".f2.f2 | "G7".g2.f2 | "C"!>!e4 | e>e f>e | \
+"G7"d4 | d>d e>d | "C"cc/2c/2 ce | c2z2 || [K:F] "F"c2f2 | "C7"f2e2 | e2d2 | 
+"F"d2c2 | zc d>c | "C7"c2B2 | zB c>B | "F"(B2A2) | .c2.f2 | "C7".f2.e2 | \
+.e2.d2 | "F"(d2c2) | zc dc | "C7"(c2B2) | zcde | "F"f3z |] 
+% GL00830
+X:3
+T:Galopp  GC 10-
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G".D2.D2 | .D2 .D2 | D>B A>G | "D7"G2.F2 | .D2.D2 | .D2 .D2 | D>c B>A | \
+"G"A2.G2 | D2D2 | D2D2 | D>d c>B | "Am/C"B2A2 |
+C>c B>A | "G"AG DG | \
+"D7"BA EF | "G"G2G2 || "D7".c2.c2 | .d2.c2 | "G"!>!B4 | B>B c>B | "D7"A4 | \
+A>A B>A | "G"G4 |
+GG AB | "C".c2.c2 | "D7".d2.c2 | "G"!>!B4 | B>B c>B | \
+"D7"A4 | A>A B>A | "G"GG/2G/2 GB | G2z2 || [K:C] "C"G2c2 | "G7"c2B2 | B2A2 | 
+"C"A2G2 | zG A>G | "G7"G2F2 | zF G>F | "C"(F2E2) | .G2.c2 | "G7".c2.B2 | \
+.B2.A2 | "C"(A2G2) | zG AG | "G7"(G2F2) | zGAB | "C"c3z |] 
+% GL00830
+X:4
+T:Galopp  GC 2+
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G".d2.d2 | .d2 .d2 | d>b a>g | "D7"g2.f2 | .d2.d2 | .d2 .d2 | d>c' b>a | \
+"G"a2.g2 | d2d2 | d2d2 | d>d' c'>b | "Am/C"b2a2 |
+c>c' b>a | "G"ag dg | \
+"D7"ba ef | "G"g2g2 || "D7".c'2.c'2 | .d'2.c'2 | "G"!>!b4 | b>b c'>b | "D7"a4 | \
+a>a b>a | "G"g4 |
+gg ab | "C".c'2.c'2 | "D7".d'2.c'2 | "G"!>!b4 | b>b c'>b | \
+"D7"a4 | a>a b>a | "G"gg/2g/2 gb | g2z2 || [K:C] "C"g2c'2 | "G7"c'2b2 | b2a2 | 
+"C"a2g2 | zg a>g | "G7"g2f2 | zf g>f | "C"(f2e2) | .g2.c'2 | "G7".c'2.b2 | \
+.b2.a2 | "C"(a2g2) | zg ag | "G7"(g2f2) | zgab | "C"c'3z |] 
+% GL00830
+X:5
+T:Galopp  CF (5letras transposed)
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:C transpose=12 %%MIDI gchordon
+"C".G2.G2 | .G2 .G2 | G>e d>c | "G7"c2.B2 | .G2.G2 | .G2 .G2 | G>f e>d | \
+"C"d2.c2 | G2G2 | G2G2 | G>g f>e | "Dm/F"e2d2 |
+ F>f e>d | "C"dc Gc | \
+"G7"ed AB | "C"c2c2 || "G7".f2.f2 | .g2.f2 | "C"!>!e4 | e>e f>e | "G7"d4 | \
+d>d e>d | "C"c4 |
+ cc de | "F".f2.f2 | "G7".g2.f2 | "C"!>!e4 | e>e f>e | \
+"G7"d4 | d>d e>d | "C"cc/2c/2 ce | c2z2 || [K:F] "F"c2f2 | "C7"f2e2 | e2d2 | 
+"F"d2c2 | zc d>c | "C7"c2B2 | zB c>B | "F"(B2A2) | .c2.f2 | "C7".f2.e2 | \
+.e2.d2 | "F"(d2c2) | zc dc | "C7"(c2B2) | zcde | "F"f3z |] 
+% GL00830
+X:6
+T:Galopp  GC (5letras transposed)
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:G transpose=12 %%MIDI gchordon
+"G".D2.D2 | .D2 .D2 | D>B A>G | "D7"G2.F2 | .D2.D2 | .D2 .D2 | D>c B>A | \
+"G"A2.G2 | D2D2 | D2D2 | D>d c>B | "Am/C"B2A2 |
+C>c B>A | "G"AG DG | \
+"D7"BA EF | "G"G2G2 || "D7".c2.c2 | .d2.c2 | "G"!>!B4 | B>B c>B | "D7"A4 | \
+A>A B>A | "G"G4 |
+GG AB | "C".c2.c2 | "D7".d2.c2 | "G"!>!B4 | B>B c>B | \
+"D7"A4 | A>A B>A | "G"GG/2G/2 GB | G2z2 || [K:C] "C"G2c2 | "G7"c2B2 | B2A2 | 
+"C"A2G2 | zG A>G | "G7"G2F2 | zF G>F | "C"(F2E2) | .G2.c2 | "G7".c2.B2 | \
+.B2.A2 | "C"(A2G2) | zG AG | "G7"(G2F2) | zGAB | "C"c3z |] 
+% GL00830
+X:7
+T:Galopp  GC (5letras transposed)
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:G transpose=12 %%MIDI gchordon
+"G".d2.d2 | .d2 .d2 | d>b a>g | "D7"g2.f2 | .d2.d2 | .d2 .d2 | d>c' b>a | \
+"G"a2.g2 | d2d2 | d2d2 | d>d' c'>b | "Am/C"b2a2 |
+c>c' b>a | "G"ag dg | \
+"D7"ba ef | "G"g2g2 || "D7".c'2.c'2 | .d'2.c'2 | "G"!>!b4 | b>b c'>b | "D7"a4 | \
+a>a b>a | "G"g4 |
+gg ab | "C".c'2.c'2 | "D7".d'2.c'2 | "G"!>!b4 | b>b c'>b | \
+"D7"a4 | a>a b>a | "G"gg/2g/2 gb | g2z2 || [K:C] "C"g2c'2 | "G7"c'2b2 | b2a2 | 
+"C"a2g2 | zg a>g | "G7"g2f2 | zf g>f | "C"(f2e2) | .g2.c'2 | "G7".c'2.b2 | \
+.b2.a2 | "C"(a2g2) | zg ag | "G7"(g2f2) | zgab | "C"c'3z |] 
+% GL00830
+X:8
+T:Galopp D&G (tinwhistle in D)
+T:GL00830 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:galopp
+M:2/4
+L:1/8
+K:D%%MIDI gchordon
+"D".A2.A2 | .A2 .A2 | A>f e>d | "A7"d2.c2 | .A2.A2 | .A2 .A2 | A>g f>e | \
+"D"e2.d2 | A2A2 | A2A2 | A>a g>f | "Em/G"f2e2 |
+G>g f>e | "D"ed Ad | \
+"A7"fe Bc | "D"d2d2 || "A7".g2.g2 | .a2.g2 | "D"!>!f4 | f>f g>f | "A7"e4 | \
+e>e f>e | "D"d4 |
+dd ef | "G".g2.g2 | "A7".a2.g2 | "D"!>!f4 | f>f g>f | \
+"A7"e4 | e>e f>e | "D"dd/2d/2 df | d2z2 || [K:G] "G"d2g2 | "D7"g2f2 | f2e2 | 
+"G"e2d2 | zd e>d | "D7"d2c2 | zc d>c | "G"(c2B2) | .d2.g2 | "D7".g2.f2 | \
+.f2.e2 | "G"(e2d2) | zd ed | "D7"(d2c2) | zdef | "G"g3z |] 
+X:9
+T:Galopp D&G (tinwhistle in D) solo
+T:GL00830 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:galopp
+M:2/4
+L:1/8
+K:D transpose=12
+.A2.A2 | .A2 .A2 | A>f e>d | d2.c2 | .A2.A2 | .A2 .A2 | A>g f>e | \
+e2.d2 | A2A2 | A2A2 | A>a g>f | f2e2 |
+G>g f>e | ed Ad | \
+fe Bc | d2d2 || .g2.g2 | .a2.g2 | !>!f4 | f>f g>f | e4 | \
+e>e f>e | d4 |
+dd ef | .g2.g2 | .a2.g2 | !>!f4 | f>f g>f | \
+e4 | e>e f>e | dd/2d/2 df | d2z2 || [K:G] d2g2 | g2f2 | f2e2 | 
+e2d2 | zd e>d | d2"_c"c2 | zc d>c | ("_c"c2B2) | .d2.g2 | .g2.f2 | \
+.f2.e2 | (e2d2) | zd ed | (d2"_c"c2) | zdef | g3z |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 22, 2016
+

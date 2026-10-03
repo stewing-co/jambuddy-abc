@@ -1,0 +1,15 @@
+X:307
+T:N.5 Lentamente
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 7 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%-------
+[M:6/8] [K:D] !ped![B,,,B,,] x/z F,,/ | (B,,3/2 B,,) F,,/ | (B,,3/2 B,,) C,/ |
+(D,3/2D,) F,,/ | (B,,3/2 B,,) F,,/ | (^A,,3/2A,,) C,/ | (B,,3/2 B,,) C,/ | (D,3/2D,) D,/ |
+(C,3/2C,) C,/ | A,,A,,/ D,/ z/ B,,/ | C,/ z/ F,/ ^E,/ z/ C,/ | A,,/ z/ ^A,,/ B,,/ z/ ^G,,/ |
+[A,,F,]3/2 !fermata![C,,C,]3/2||
+%-------

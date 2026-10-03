@@ -1,0 +1,31 @@
+X:710
+T:[Terceto]
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:G
+V: 10 clef=tenor name="Gloria" sname="Gl."
+%%MIDI program 1 1
+%%staves [ 10 ]
+%-------------------------------------------------------------------------------------------------------
+Z6 | z2 || z2 | Z2  || [L:1/8] E> B, B, C D D z D | E E z G D2 D2 | [L:1/4]!fermata!z4 || \
+w: E tal chie-de an-cora il mon-do, e Ro-ma.
+[Q: "Allegro"] z/ | Z11 | !fermata!zz3 | Z2 | z2zz/D/ | GEE//C//D3/2 | z2 z/ \
+w: Di ver-de al-loro
+D/ D/ D/  | D C B,/ D/ E/ D/ | E D C G, | D D/> D/ A,A, |  A,2-A,/^C//>B,// C/B,/ |  D A,/ F,/ B,/ A,//G,// A, | D, z3 | \
+w: no-bil co-ro--na an-dre tes-sen-do dell E-roe-*  l'au-gus-ta chia-------ma  l'au-gus-ta-* chia-ma
+Z5 | z2zz/A,/ | DB, B,//G,//{G,}A,3/2 | z/E/ E/ E/ (E D) | B2 A/ F/ G/ F/ | G F z2 |  \
+w: di ver-de al-lo-ro no-bil co-ro---na an-dre tes-sen-do
+z2 z/ B,/ B,/ B,/ | F2B,E | A,DA,2-|A,2-A,/G,/G,/E/|F,B,-B,/G,/ E,/F,/ | G,/B,//A,// B,/G,/ DD,|\
+w: no-bil co-ro-na an-drem tes-sen------------------do
+z/ ^C/D>^CD | z/ B,/C>B,C -| C/B,/ C z \
+w: tes-sen--do an-drem tes-sen---do
+G,/> G,/ | DD/> B,/ EG,| D2-D/C//B,// A,/G,/ |  F, G,D,2 | G,zz2| Z10 | z3 || z | z4 | \
+w: dell'-e-roe l'au--gus-ta chia---------ma
+z2zz/E/| (EF/) E/ ^D//^C// B,3/2 | z2 \
+w: co pre--gi su--oi
+z/ B,/ B,/ B,/ | C2B,E|A,D G,/B,//A,// B,//G,//B,//C// | D/> D,/ D,/ D/ B,/ G,/ G,//A,// B,//G,// | C \
+w: ei si se de-gno di tan-ta glo--------ri-a chei rag-gi span--de--ra
+z/ C/ A,/ F,/ F,//G,// A,//F,// | B,EA,2-|A,G,F,B,| E,2F,2| !fermata!B,4 |] \
+w: chei rag-gi span--de--ra dal Ta---go'a Ro---ma
+%----------------------------------------------------------------------------------------------------------

@@ -1,0 +1,71 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Monferine Vaudoise GDC chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.217 (mf05967) orig. G,D,C-Dur
+T: T\"anze aus Saanen (Bern) s. "Hanneli-Suite" by Evelyne Brunner
+% (http://www.gymseefeld.ch/fileadmin/gym/weg/maturaarbeiten/09/MA_Evelyn_Brunner.pdf)
+M:6/8
+L:1/8
+K:G %%MIDI gchordon
+"G"B3B3 | BAB d2B | "D7"A2Bc2d | "G"B3G2z | B3B3 | BAB d2B | "D7"ABc def | "G"(g3 "_fine"g)zd || "D7"cBc A2e |  
+"G"d^cd B2d | "D7"cBc A2e | "G"d3 Bzd | "D7"cBc A2e | "G"d^cd B2d | "D7"cBc def | "G"(g3g2)"_> Teil A"z || [K:D]  
+|: "D"A3f3 | "A7"fed c2B | "D"A3f3 | "A7"fed c2B | "D"ABc def | a2f "B7"agf | "Em"b2za3 | "A7".g2e gfe | "D".d2F"A7" GFE | 
+"D"(D3D2"_> Teil A")z :|[K:C] "C"G2cB2c | "G7"d2e"C"c2z | c3"Dm"d3 | "G7"g3G2z | "C"G2cB2c | "G7"d2e"C"c2z | "G7"g3G3 | "C"(c3c2)"_d.c."z :| 
+
+X: 2
+T: Monferine Vaudoise GDC chords Parts
+M:6/8
+L:1/8
+P:ABACADE
+K:G %%MIDI gchordon
+[P:A] "G"B3B3 | BAB d2B | "D7"A2Bc2d | "G"B3G2z | B3B3 | BAB d2B | "D7"ABc def | "G"(g3 "_fine"g)zd ||[P:B]  "D7"cBc A2e |  
+"G"d^cd B2d | "D7"cBc A2e | "G"d3 Bzd | "D7"cBc A2e | "G"d^cd B2d | "D7"cBc def | "G"(g3g2)"_> Teil A"z ||[P:C]  [K:D]  
+|: "D"A3f3 | "A7"fed c2B | "D"A3f3 | "A7"fed c2B | "D"ABc def | a2f "B7"agf | "Em"b2za3 | "A7".g2e gfe | "D".d2F"A7" GFE | 
+"D"(D3D2"_> Teil A")z :|[P:D] [K:C] "C"G2cB2c | "G7"d2e"C"c2z | c3"Dm"d3 | "G7"g3G2z | "C"G2cB2c | "G7"d2e"C"c2z | "G7"g3G3 | "C"(c3c2)"_d.c."z :| 
+[P:E][K:G] "G"B3B3 | BAB d2B | "D7"A2Bc2d | "G"B3G2z | B3B3 | BAB d2B | "D7"ABc def | "G"(g3 "_fine"g)zz |] 
+
+X:3
+T:Monferine Vaudoise CGF 7- chords
+M:6/8
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"E3E3 | EDE G2E | "G7"D2EF2G | "C"E3C2z | E3E3 | EDE G2E | "G7"DEF GAB | "C"(c3 "_fine"c)zG || "G7"FEF D2A | 
+"C"G^FG E2G | "G7"FEF D2A | "C"G3 EzG | "G7"FEF D2A | "C"G^FG E2G | "G7"FEF GAB | "C"(c3c2)"_> Teil A"z || [K:Gmaj] 
+|: "G"D3B3 | "D7"BAG F2E | "G"D3B3 | "D7"BAG F2E | "G"DEF GAB | d2B "E7"dcB | "Am"e2zd3 | "D7".c2A cBA | "G".G2B,"D7" CB,A, | 
+"G"(G,3G,2"_> Teil A")z :|[K:Fmaj] "F"C2FE2F | "C7"G2A"F"F2z | F3"Gm"G3 | "C7"c3C2z | "F"C2FE2F | "C7"G2A"F"F2z | "C7"c3C3 | "F"(F3F2)"_d.c."z :| 
+
+X:4
+T:Monferine Vaudoise CGF 7- chords Parts
+M:6/8
+L:1/8
+P:ABACADE
+K:Cmaj%%MIDI gchordon
+[P:A] "C"E3E3 | EDE G2E | "G7"D2EF2G | "C"E3C2z | E3E3 | EDE G2E | "G7"DEF GAB | "C"(c3 "_fine"c)zG ||[P:B] "G7"FEF D2A | 
+"C"G^FG E2G | "G7"FEF D2A | "C"G3 EzG | "G7"FEF D2A | "C"G^FG E2G | "G7"FEF GAB | "C"(c3c2)"_> Teil A"z ||[P:C] [K:Gmaj] 
+|: "G"D3B3 | "D7"BAG F2E | "G"D3B3 | "D7"BAG F2E | "G"DEF GAB | d2B "E7"dcB | "Am"e2zd3 | "D7".c2A cBA | "G".G2B,"D7" CB,A, | 
+"G"(G,3G,2"_> Teil A")z :|[P:D] [K:Fmaj] "F"C2FE2F | "C7"G2A"F"F2z | F3"Gm"G3 | "C7"c3C2z | "F"C2FE2F | "C7"G2A"F"F2z | "C7"c3C3 | "F"(F3F2)"_d.c."z :| 
+[P:E][K:Cmaj] "C"E3E3 | EDE G2E | "G7"D2EF2G | "C"E3C2z | E3E3 | EDE G2E | "G7"DEF GAB | "C"(c3 "_fine"c)zz |] 
+
+X:5
+T:Monferine Vaudoise CGF 5+ chords
+M:6/8
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"e3e3 | ede g2e | "G7"d2ef2g | "C"e3c2z | e3e3 | ede g2e | "G7"def gab | "C"(c'3 "_fine"c')zg || "G7"fef d2a | 
+"C"g^fg e2g | "G7"fef d2a | "C"g3 ezg | "G7"fef d2a | "C"g^fg e2g | "G7"fef gab | "C"(c'3c'2)"_> Teil A"z || [K:Gmaj] 
+|: "G"d3b3 | "D7"bag f2e | "G"d3b3 | "D7"bag f2e | "G"def gab | d'2b "E7"d'c'b | "Am"e'2zd'3 | "D7".c'2a c'ba | "G".g2B"D7" cBA | 
+"G"(G3G2"_> Teil A")z :|[K:Fmaj] "F"c2fe2f | "C7"g2a"F"f2z | f3"Gm"g3 | "C7"c'3c2z | "F"c2fe2f | "C7"g2a"F"f2z | "C7"c'3c3 | "F"(f3f2)"_d.c."z :| 
+
+X:6
+T:Monferine Vaudoise CGF 5+ chords Parts
+M:6/8
+L:1/8
+P:ABACADE
+K:Cmaj%%MIDI gchordon
+[P:A] "C"e3e3 | ede g2e | "G7"d2ef2g | "C"e3c2z | e3e3 | ede g2e | "G7"def gab | "C"(c'3 c')zg ||[P:B] "G7"fef d2a | 
+"C"g^fg e2g | "G7"fef d2a | "C"g3 ezg | "G7"fef d2a | "C"g^fg e2g | "G7"fef gab | "C"(c'3c'2)z ||[P:C] [K:Gmaj] 
+|: "G"d3b3 | "D7"bag f2e | "G"d3b3 | "D7"bag f2e | "G"def gab | d'2b "E7"d'c'b | "Am"e'2zd'3 | "D7".c'2a c'ba | "G".g2B"D7" cBA | 
+"G"(G3G2)z :|[P:D] [K:Fmaj] "F"c2fe2f | "C7"g2a"F"f2z | f3"Gm"g3 | "C7"c'3c2z | "F"c2fe2f | "C7"g2a"F"f2z | "C7"c'3c3 | "F"(f3f2)z :| 
+[P:E][K:Cmaj] "C"e3e3 | ede g2e | "G7"d2ef2g | "C"e3c2z | e3e3 | ede g2e | "G7"def gab | "C"(c'3 "_fine"c')zz |] 
+

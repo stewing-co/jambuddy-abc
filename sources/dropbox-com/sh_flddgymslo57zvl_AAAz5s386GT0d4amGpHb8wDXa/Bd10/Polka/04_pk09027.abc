@@ -1,0 +1,87 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Polka  F
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.59 (pk09027) orig. F-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+f2 |: "C"e2ec' d2da | "F"c2ca c3f | "C7"e2eb d3e | "F"f2fa c3f | "C7"e2ec' d2da | "F"c2ca f3f | "C7"e2eb d2e2 |1 "F"f2f2 f2f2 :|2 
+"F"f2f2 f2z2 |: "F"c2d2 e2f2 | "C7"ebebd4 | ebeb d3e | "F"fafac4 |  c2d2 e2f2 | "C7"ebebd4 | ebeb d3e | "F"f2f2 f2z2 :| 
+% pk09027
+X:2
+T:Polka  C 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+c2 |: "G"B2Bg A2Ae | "C"G2Ge G3c | "G7"B2Bf A3B | "C"c2ce G3c | "G7"B2Bg A2Ae | "C"G2Ge c3c | "G7"B2Bf A2B2 |1 "C"c2c2 c2c2 :|2 
+"C"c2c2 c2z2 |: "C"G2A2 B2c2 | "G7"BfBfA4 | BfBf A3B | "C"ceceG4 | G2A2 B2c2 | "G7"BfBfA4 | BfBf A3B | "C"c2c2 c2z2 :| 
+% pk09027
+X:3
+T:Polka  G 10-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+G2 |: "D"F2Fd E2EB | "G"D2DB D3G | "D7"F2Fc E3F | "G"G2GB D3G | "D7"F2Fd E2EB | "G"D2DB G3G | "D7"F2Fc E2F2 |1 "G"G2G2 G2G2 :|2 
+"G"G2G2 G2z2 |: "G"D2E2 F2G2 | "D7"FcFcE4 | FcFc E3F | "G"GBGBD4 | D2E2 F2G2 | "D7"FcFcE4 | FcFc E3F | "G"G2G2 G2z2 :| 
+% pk09027
+X:4
+T: Polka  F (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+f2 |: "C"e2ec' d2da | "F"c2ca c3f | "C7"e2eb d3e | "F"f2fa c3f | "C7"e2ec' d2da | "F"c2ca f3f | "C7"e2eb d2e2 |1 "F"f2f2 f2f2 :|2 
+"F"f2f2 f2z2 |: "F"c2d2 e2f2 | "C7"ebebd4 | ebeb d3e | "F"fafac4 |  c2d2 e2f2 | "C7"ebebd4 | ebeb d3e | "F"f2f2 f2z2 :| 
+% pk09027
+X:5
+T:Polka  C (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+c2 |: "G"B2Bg A2Ae | "C"G2Ge G3c | "G7"B2Bf A3B | "C"c2ce G3c | "G7"B2Bg A2Ae | "C"G2Ge c3c | "G7"B2Bf A2B2 |1 "C"c2c2 c2c2 :|2 
+"C"c2c2 c2z2 |: "C"G2A2 B2c2 | "G7"BfBfA4 | BfBf A3B | "C"ceceG4 | G2A2 B2c2 | "G7"BfBfA4 | BfBf A3B | "C"c2c2 c2z2 :| 
+% pk09027
+
+X:6
+T:Polka  G (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+G2 |: "D"F2Fd E2EB | "G"D2DB D3G | "D7"F2Fc E3F | "G"G2GB D3G | "D7"F2Fd E2EB | "G"D2DB G3G | "D7"F2Fc E2F2 |1 "G"G2G2 G2G2 :|2 
+"G"G2G2 G2z2 |: "G"D2E2 F2G2 | "D7"FcFcE4 | FcFc E3F | "G"GBGBD4 | D2E2 F2G2 | "D7"FcFcE4 | FcFc E3F | "G"G2G2 G2z2 :| 
+% pk09027
+X:7
+T:Polka G (tinwhistle in D)
+T:pk09027 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+G2 |: "D"F2Fd E2EB | "G"D2DB D3G | "D7"F2Fc E3F | "G"G2GB D3G | "D7"F2Fd E2EB | "G"D2DB G3G | "D7"F2Fc E2F2 |1 "G"G2G2 G2G2 :|2 
+"G"G2G2 G2z2 |: "G"D2E2 F2G2 | "D7"FcFcE4 | FcFc E3F | "G"GBGBD4 | D2E2 F2G2 | "D7"FcFcE4 | FcFc E3F | "G"G2G2 G2z2 :| 
+X:8
+T:Polka G (tinwhistle in D) solo
+T:pk09027 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:G transpose=12
+G2 |: F2Fd E2EB | D2DB D3G | F2F"_c"c E3F | G2GB D3G | F2Fd E2EB | D2DB G3G | F2F"_c"c E2F2 |1 G2G2 G2G2 :|2 
+G2G2 G2z2 |: D2E2 F2G2 | F"_c"cFcE4 | FcFc E3F | GBGBD4 | D2E2 F2G2 | F"_c"cFcE4 | FcFc E3F | G2G2 G2z2 :|
+% Aug 2, 2016

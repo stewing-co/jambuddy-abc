@@ -1,0 +1,18 @@
+X:901
+T:N.9 Duo de Josepha e Ambrosio
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:F
+V: 1 clef=treble name="Flauta" sname="Fl."
+%%MIDI program 1 73
+%%staves [ 1 ]
+%--
+[Q:"Andante"](agf e{g}fe | d3-d)z2 || \
+!p!z6| (ag/f/e-e3)| z6| (gf/e/d-d3)| z6| (ag/f/e-e3)| e^f^g- ga=b | (3=b/^c'/b/a-a a3| z6 | \
+zz (a/^c'/e'3) | z6 |zz (f/a/d'3) | z6 | zz (e/a/ ^c'2) =b | a=ba (3g/a/g/^fe|| \
+[K:D] (d3-d)zz |: aba bab | c'(b/a/)g-g3|gag aga | b(a/g/)f-f3| faf def | \
+a(g/f/)e-e3| fed egf | ((3e/f/e/ d2)-d3 :| \
+b^ab d'c'b | d'(c'/b/)a-a3| c'ba gab | ba/g/f-f3| \
+b^ab e'd'b | d'(c'/b/)a-a3| c'ba (3g/a/g/fe| da/d'/f'/d'/ c'3| d'2zf'2z| (d3-d)zz |] \
+%--

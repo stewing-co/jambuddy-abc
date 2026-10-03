@@ -1,0 +1,36 @@
+X:410
+T:N.4 Duo de Josepha e Ambrosio
+C:Fonseca, Eduardo da (1863-1938)
+M:3/4
+L:1/4
+K:D
+V: 10 clef=treble name="Josepha" sname="Jos."
+%%MIDI program 1 1
+%%staves [[ 10 ]]
+[V: 10]	[L:1/8][Q:"Andante"] \
+Z | !fermata!Z  || Z8 || \
+F A F D E F | E2 D4 | \
+w: E eu Am-bro-sio ado-ra-do
+B, D G F G E | F6 | \
+w: Meu bei-ci-nho de fu-nil
+F A F ^D E F | G6 | \
+w: Que-ro-te as-sim tal'e qual
+E G F D E C | D4 z2 ||
+w: Co-mo'ao meu qu'ri-do bar-ril.
+[Q:"Piu animato"][K:G] \
+Z8 || \
+D> D D> D G> A | F2c4 | \
+w: Eu c\'a se me en-ga-nas-ses
+c> B A> ^G A> ^A | B2 G4 | \
+w: ti-nha f\'u-ria ti-nha ga-na
+B> B B> B c> B | A2E4 | \
+w: de be-ber to-do o bar-ril
+A> c B> G A> F | A2 G2 z2 || \
+w: e'a-pa-nhar a car-ras-pa-na
+[K:D][Q:"I tempo"]"_A duo" \
+F A F D E F | (E2 D4) | \
+w: Por is-so n\~ao fa-\ccas ta-al
+B, D G F G E | F4 z2 | \
+w: N\~ao me dei-xes meu a-mor
+F A F ^D E F | G4 z2 | Z2 |]
+w: Co-mo n\~ao dei-xo'o bar-ril

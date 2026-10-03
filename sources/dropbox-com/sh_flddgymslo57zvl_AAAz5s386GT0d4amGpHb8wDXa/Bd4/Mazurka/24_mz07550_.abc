@@ -1,0 +1,77 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mazurka BbFEb (mz07550) ABACD
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.221 (mz07550) orig. B,F,Eb
+T: Aus dem Repertoire der Dorfmusik Oberwil.  S.201-221
+T:Überliefert durch Gotti Bannier (1876-1947)
+%%MIDI program 21
+%%partsbox
+P:ABACD
+R:Mazurka
+M:3/4
+L:1/8
+K:Bb %%MIDI gchordon
+[P:A] "Bb"F>dd2d2 | ("F7"de)c2c2 | F>Ac2c2 | ("Bb"cd)B2B2 | F>Bd2d2 | "Cm/Eb"G>ce2e2 | "F7"A>cf2A2 | "Bb"B2B2z2 :| [K:F] [P:B] 
+|: "C7"c2cc cc | ("F"f2c2)c2 | "Gm"B2BB BB | ("Dm/F"d2A2)A2 | "C7"G>AB2B2 | "F"A>Bc2c2 | "C7"B>cd2e2 | "F"f2z2"_>Teil A"z2 :| [K:Eb] [P:C] 
+|: "Eb"B3(c Gc) | "Bb7"B2A2A2 | f3e dc | "Eb"c>BB2B2 | B3(c Gc)  | ("Bb7"BA GA)f2 | (ed) .c.B .c.d | "Eb"e2e2z2 :| [P:D] 
+|: ("Bb7"BA) (Ad) d2 | ("Eb"AG) (Ge)e2 | "Ab"c>d e2c2 | "Eb"c2B2B2 | ("Bb7"BA) (Ad)d2 | ("Eb"AG) (Ge)e2 | "Bb7"FG AB cd | "Eb"e2e2z2 :| 
+%W:Parts: ABACD
+% mz07550
+% March 5, 2017
+
+X:2
+T:Mazurka CGF 2+ (mz07550)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.221 (mz07550) orig. B,F,Eb
+S:Aus dem Repertoire der Dorfmusik Oberwil.  S.201-221
+S:Überliefert durch Gotti Bannier (1876-1947)
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"G>ee2e2 | ("G7"ef)d2d2 | G>Bd2d2 | ("C"de)c2c2 | G>ce2e2 | "Dm/F"A>df2f2 | "G7"B>dg2B2 | "C"c2c2z2 :| [K:Gmaj] 
+|: "D7"d2dd dd | ("G"g2d2)d2 | "Am"c2cc cc | ("Em/G"e2B2)B2 | "D7"A>Bc2c2 | "G"B>cd2d2 | "D7"c>de2f2 | "G"g2z2"_>Teil A"z2 :| [K:Fmaj] 
+|: "F"c3(d Ad) | "C7"c2B2B2 | g3f ed | "F"d>cc2c2 | c3(d Ad) | ("C7"cB AB)g2 | (fe) .d.c .d.e | "F"f2f2z2 :| 
+|: ("C7"cB) (Be) e2 | ("F"BA) (Af)f2 | "Bb"d>e f2d2 | "F"d2c2c2 | ("C7"cB) (Be)e2 | ("F"BA) (Af)f2 | "C7"GA Bc de | "F"f2f2z2 :| 
+W:Parts: ABACD
+% mz07550
+% March 5, 2017
+
+X:3
+T:Mazurka DAG 4+ (mz07550) tinwhistle
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.221 (mz07550) orig. B,F,Eb
+S:Aus dem Repertoire der Dorfmusik Oberwil.  S.201-221
+S:Überliefert durch Gotti Bannier (1876-1947)
+%%MIDI program 72   % 111 / 74 / 79=whistle
+R:Mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon  transpose=12
+"D"A>ff2f2 | ("A7"fg)e2e2 | A>ce2e2 | ("D"ef)d2d2 | A>df2f2 | "Em/G"B>eg2g2 | "A7"c>ea2c2 | "D"d2d2z2 :| [K:Amaj] 
+|: "E7"e2ee ee | ("A"a2e2)e2 | "Bm"d2dd dd | ("F#m/A"f2c2)c2 | "E7"B>cd2d2 | "A"c>de2e2 | "E7"d>ef2"_#"g2 | "A"a2z2"_>Teil A"z2 :| [K:Gmaj] 
+|: "G"d3(e Be) | "D7"d2c2c2 | a3g fe | "G"e>dd2d2 | d3(e Be) | ("D7"dc Bc)a2 | (gf) .e.d .e.f | "G"g2g2z2 :| 
+|: ("D7"dc) (cf) f2 | ("G"cB) (Bg)g2 | "C"e>f g2e2 | "G"e2d2d2 | ("D7"dc) (cf)f2 | ("G"cB) (Bg)g2 | "D7"AB cd ef | "G"g2g2z2 :| 
+W:Parts: ABACD
+% mz07550
+% March 5, 2017
+
+X:4
+T:Mazurka GDC 3- (mz07550)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.221 (mz07550) orig. B,F,Eb
+S:Aus dem Repertoire der Dorfmusik Oberwil.  S.201-221
+S:Überliefert durch Gotti Bannier (1876-1947)
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"D>BB2B2 | ("D7"Bc)A2A2 | D>FA2A2 | ("G"AB)G2G2 | D>GB2B2 | "Am/C"E>Ac2c2 | "D7"F>Ad2F2 | "G"G2G2z2 :| [K:Dmaj] 
+|: "A7"A2AA AA | ("D"d2A2)A2 | "Em"G2GG GG | ("Bm/D"B2F2)F2 | "A7"E>FG2G2 | "D"F>GA2A2 | "A7"G>AB2c2 | "D"d2z2"_>Teil A"z2 :| [K:Cmaj] 
+|: "C"G3(A EA) | "G7"G2F2F2 | d3c BA | "C"A>GG2G2 | G3(A EA) | ("G7"GF EF)d2 | (cB) .A.G .A.B | "C"c2c2z2 :| 
+|: ("G7"GF) (FB) B2 | ("C"FE) (Ec)c2 | "F"A>B c2A2 | "C"A2G2G2 | ("G7"GF) (FB)B2 | ("C"FE) (Ec)c2 | "G7"DE FG AB | "C"c2c2z2 :| 
+W:Parts: ABACD
+% mz07550
+% March 5, 2017

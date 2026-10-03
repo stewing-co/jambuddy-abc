@@ -1,0 +1,40 @@
+X: 0000
+T: The Caledonian Musical Repository
+B: "Caledonian Musical Repository", published by Oliver & Co. 1806, 1811
+F: http://digital.nls.uk/special-collections-of-printed-music/pageturner.cfm?id=87661539
+F: http://digital.nls.uk/special-collections-of-printed-music/pageturner.cfm?id=87686121
+Z: 2013 John Chambers <jc:trillian.mit.edu>
+K:
+%%begintext align
+%% There are 114 distinct song tunes in this collection,
+%% of which 71 are duplicated in both editions.
+%% Some of the duplicates have significant differences;
+%% others are only trivially different.
+%% Many also have more than one set of lyrics, and are thus several "songs",
+%% but I haven't counted these separately.
+%% This directory contains all the songs in the 1806 and 1811 subdirectories.
+%% The year has been added to the file names to make it clear which edition they're from.
+%% I've tried to be as faithful to the book's notation as ABC and modern music software allow.
+%% In some cases, repeat signs don't match modern practice, and have been "modernized".
+%% In a few cases, it's not clear what was intended, and no modernizing was done.
+%% This may puzzle some software (and musicians), as it puzzled me.
+%% Sometimes dots and/or flags are wrong;
+%% they have been fixed to agree with similar bars in the song,
+%% and to make the measures the correct length.
+%% Numbers have been added to verses, since some ABC software formats such lyrics
+%% in a way that may not make the order of the verses obvious.
+%%endtext
+% - - - - - - - - - - - - - - - - - - - - - - - - -
+%%begintext center
+%% THE
+%% Caledonian
+%% Musical Repository;
+%% a Selection of esteemed
+%% SCOTTISH SONGS,
+%% adapted for the Voice, Violin,
+%% & German Flute.
+%%
+%% EDINBURGH
+%% Published by Oliver & Co.
+%%endtext
+% - - - - - - - - - - - - - - - - - - - - - - - - -

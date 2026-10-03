@@ -1,0 +1,86 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Schottisch  FC (ABCDC)
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.122 (st09194) orig. F,C
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+P:ABCDC
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A] "C7"c=B/c/ gc | "F"fc ac | "C7"gc bc | "F"af !>!a2 | "C7"c=B/c/ gc | "F"fc ac | "G7"=BG fB | "C"cc cz :| 
+[P:B] !>!"F"a2 "Bb"g/f/e/d/ | "F"ca/a/ af | "C7"ec be | "F"fc af | a2 "Bb"g/f/e/d/ | "F"ca/a/ af | "C7"ec be | "F"ff fz || [K:C]  
+[P:C] |: "C"eG!>!c2 | eG!>!c2 | g/g/g c'b | {/^g}"G7"a{/g}a B2 | fG!>!B2 |  fG!>!B2 |1 d/d/d ba | {/^f}"C"g{/f}gc2 :|2 
+d^c/d/ ag | "C"cc c"_Fine"z |][P:D]  "E7"ee/e/ ed | "Am"cc/c/ cB | "Dm"Af ed | "E7"e2ze/e/ | e2ze/e/ | e2ze/e/ | "G7"ef d"_>Teil C"g |]   
+% W:Parts: ABCDC
+% st09194
+X:2
+T:Schottisch  FC
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"C7"c=B/c/ gc | "F"fc ac | "C7"gc bc | "F"af !>!a2 | "C7"c=B/c/ gc | "F"fc ac | "G7"=BG fB | "C"cc cz :| 
+!>!"F"a2 "Bb"g/f/e/d/ | "F"ca/a/ af | "C7"ec be | "F"fc af | a2 "Bb"g/f/e/d/ | "F"ca/a/ af | "C7"ec be | "F"ff fz || [K:C]  
+|: "C"eG!>!c2 | eG!>!c2 | g/g/g c'b | {/^g}"G7"a{/g}a B2 | fG!>!B2 |  fG!>!B2 |1 d/d/d ba | {/^f}"C"g{/f}gc2 :|2 
+d^c/d/ ag | "C"cc c"_Fine"z |] "E7"ee/e/ ed | "Am"cc/c/ cB | "Dm"Af ed | "E7"e2ze/e/ | e2ze/e/ | e2ze/e/ | "G7"ef d"_>Teil C"g |]   
+W:Parts: ABCDC
+% st09194
+X:3
+T:Schottisch  CG 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"G7"G^F/2G/2 dG | "C"cG eG | "G7"dG fG | "C"ec !>!e2 | "G7"G^F/2G/2 dG | "C"cG eG | "D7"^FD cF | "G"GG Gz :| 
+!>!"C"e2 "F"d/2c/2B/2A/2 | "C"Ge/2e/2 ec | "G7"BG fB | "C"cG ec | e2 "F"d/2c/2B/2A/2 | "C"Ge/2e/2 ec | "G7"BG fB | "C"cc cz || [K:G] 
+|: "G"BD!>!G2 | BD!>!G2 | d/2d/2d gf | {/^d}"D7"e{/d}e F2 | cD!>!F2 | cD!>!F2 |1 A/2A/2A fe | {/^c}"G"d{/c}dG2 :|2 
+A^G/2A/2 ed | "G"GG G"_Fine"z |] "B7"BB/2B/2 BA | "Em"GG/2G/2 GF | "Am"Ec BA | "B7"B2zB/2B/2 | B2zB/2B/2 | B2zB/2B/2 | "D7"Bc A"_>Teil C"d |] 
+W:Parts: ABCDC
+% st09194
+X:4
+T:Schottisch  FC (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"C7"c=B/c/ gc | "F"fc ac | "C7"gc bc | "F"af !>!a2 | "C7"c=B/c/ gc | "F"fc ac | "G7"=BG fB | "C"cc cz :| 
+!>!"F"a2 "Bb"g/f/e/d/ | "F"ca/a/ af | "C7"ec be | "F"fc af | a2 "Bb"g/f/e/d/ | "F"ca/a/ af | "C7"ec be | "F"ff fz || [K:C]  
+|: "C"eG!>!c2 | eG!>!c2 | g/g/g c'b | {/^g}"G7"a{/g}a B2 | fG!>!B2 |  fG!>!B2 |1 d/d/d ba | {/^f}"C"g{/f}gc2 :|2 
+d^c/d/ ag | "C"cc c"_Fine"z |] "E7"ee/e/ ed | "Am"cc/c/ cB | "Dm"Af ed | "E7"e2ze/e/ | e2ze/e/ | e2ze/e/ | "G7"ef d"_>Teil C"g |]   
+W:Parts: ABCDC
+% st09194
+X:5
+T:Schottisch  CG (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"G7"G^F/2G/2 dG | "C"cG eG | "G7"dG fG | "C"ec !>!e2 | "G7"G^F/2G/2 dG | "C"cG eG | "D7"^FD cF | "G"GG Gz :| 
+!>!"C"e2 "F"d/2c/2B/2A/2 | "C"Ge/2e/2 ec | "G7"BG fB | "C"cG ec | e2 "F"d/2c/2B/2A/2 | "C"Ge/2e/2 ec | "G7"BG fB | "C"cc cz || [K:G] 
+|: "G"BD!>!G2 | BD!>!G2 | d/2d/2d gf | {/^d}"D7"e{/d}e F2 | cD!>!F2 | cD!>!F2 |1 A/2A/2A fe | {/^c}"G"d{/c}dG2 :|2 
+A^G/2A/2 ed | "G"GG G"_Fine"z |] "B7"BB/2B/2 BA | "Em"GG/2G/2 GF | "Am"Ec BA | "B7"B2zB/2B/2 | B2zB/2B/2 | B2zB/2B/2 | "D7"Bc A"_>Teil C"d |] 
+W:Parts: ABCDC
+% st09194
+X:6
+T:Schottisch D&G (tinwhistle in D) var. solo
+T:st09194 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D transpose=12
+A^G/2A/2 eA | dA fA | eA gA | fd !>!f2 | A^G/2A/2 eA | dA fA | ^GE dG | AA Az :| 
+!>!f2 e/2d/2c/2B/2 | Af/2f/2 fd | cA gc | dA fd | f2 e/2d/2c/2B/2 | Af/2f/2 fd | cA gc | dd dz || [K:G] 
+|: BD!>!G2 | BD!>!G2 | d/2d/2d gf | {/^d}e{/d}e F2 | cD!>!F2 | cD!>!F2 |1 A/2A/2A fe | {/^c}d{/c}dG2 :|2 
+A^G/2A/2 ed | GG Gz |] BB/2B/2 BA | GG/2G/2 GF | Ec BA | B2zB/2B/2 | B2zB/2B/2 | B2zB/2B/2 | Bc Ad |: 
+ BD!>!G2 | BD!>!G2 | d/2d/2d gf | {/^d}e{/d}e F2 | cD!>!F2 | cD!>!F2 |1 A/2A/2A fe | {/^c}d{/c}dG2 :|2 A^G/2A/2 ed | GG Gz |]
+W:(Parts: ABCDC)
+% Aug 21, 2016

@@ -1,0 +1,17 @@
+X:601
+T:Ns.8-9
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:D
+V: 1 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%----------- edit between the lines ------------
+[Q:"Moderadamente"]
+z z/ !p! .d'//.c'// | .d'/.c'/ .g/.e//.g// | .f/.d/  !downbow!!sfz!F1/2!downbow!!sfz!G1/2 | \
+!downbow!!sfz!A1/2!downbow!!sfz!B1/2!downbow!!sfz!c1/2!downbow!!sfz!d1/2 | \
+!downbow!!sfz!A1/2!downbow!!sfz!F1/2 z | X |   !f! z !downbow! !sfz! F/!downbow!!sfz!G1/2 | \
+!downbow!!sfz!A1/2.B1/4.c1/4 (e1/4d1/4).c1/4.B1/4 | !sfz! [DA] "^a tempo" z | X2 | \
+"^pizz"  !sfz! d'/z/ z | "_TBC" X \
+%-----------------------------------------------

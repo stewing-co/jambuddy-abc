@@ -1,0 +1,18 @@
+X:1101
+T:N.11 Raymundo
+C:Fonseca, Eduardo da (1863-1938)
+M:4/4
+L:1/4
+K:G
+V: 1 clef=treble name="Flauta" sname="Fl."
+%%MIDI program 1 73
+%%staves [ 1 ]
+%---
+[Q:"Marcial"]!f!!trill!d'2-(3d'/e'/d'/ (3c'/b/a/ | (3g/g/b/ (3d'/b/d'/ g'/z/z ||\
+z4 | (3z/G/B/ (3d/B/d/ (3g/d/B/ G/z/ | z4| (3z/d/f/ (3a/f/a/ d'/z/z | z4 | \
+(3z/d/g/ (3b/g/b/ (3d'/b/d'/ (3g'/d'/b/ | (3z/a/d'/ (3f'/d'/f'/ (3a'/e'/^c'/ (3a/g/e/ | \
+(3d/d/f/ (3a/f/a/ d'/z/ z | !trill!d'4 | (3d'/d/f/ (3a/f/a/ d'/z/ c' | \
+!trill!b4 |  (3b/B/^d/ (3f/d/f/ b/z/ _b | (3a/e/a/ (3c'/a/c'/ (3e'/c'/a/ e/z/ | \
+(3z/d/g/ (3b/g/b/ (3d'/b/g/ d/z/ | (3z/d/f/ (3a/f/a/ (3d'/e'/d'/ (3c'/b/g/ | \
+(3z/g/b/ (3d'/b/d'/ g'/z/ z |] \
+%---

@@ -1,0 +1,46 @@
+%%partsbox
+%%MIDI program 21
+X:9
+T:L\"andler CG (5letras transposed)
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+G2 |: "C".e2!>!e3c | .c2!>!E3A | "G7"AG FG, B,D | "C"AG EC EG | .e2!>!e3c | .c2!>!E3A | "G7"AG FG, B,D |1 "C"C2z2G2 :|2 "C"C2z2z2 || [K:G]
+|: "D7"D2EF GA | "G"Bcd3B | "D7"AB cD EF | "G"GBD4 | "D7"D2EF GA | "G"Bcd3B | "D7"AB cD EF |1 "G"G2z2z2 :|2 "G"G2"_>Teil A"z2G2 |] 
+W: P: ABA
+X:10
+T:L\"andler FC (5letras transposed)
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+c2 |: "F".a2!>!a3f | .f2!>!A3d | "C7"dc BC EG | "F"dc AF Ac | .a2!>!a3f | .f2!>!A3d | "C7"dc BC EG |1 "F"F2z2c2 :|2 "F"F2z2z2 || [K:C]
+|: "G7"G2AB cd | "C"efg3e | "G7"de fG AB | "C"ceG4 | "G7"G2AB cd | "C"efg3e | "G7"de fG AB |1 "C"c2z2z2 :|2 "C"c2"_>Teil A"z2c2 |] 
+W: P: ABA
+X:11
+T: L\"andler GD (tinwhistle in D)
+T:LD05066 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+d2 |: "G".b2!>!b3g | .g2!>!B3e | "D7"ed "_c"cD FA | "G"ed BG Bd | .b2!>!b3g | .g2!>!B3e | "D7"ed "_c"cD FA |1 "G"G2z2d2 :|2 "G"G2z2z2 || [K:D]
+|: "A7"A2Bc de | "D"fga3f | "A7"ef gA Bc | "D"dfA4 | "A7"A2Bc de | "D"fga3f | "A7"ef gA Bc |1 "D"d2z2z2 :|2 "D"d2"_>Teil A"z2d2 |] 
+W: P: ABA
+% June 12, 2016
+X:12
+T: L\"andler GD (tinwhistle in D) solo
+T:LD05066 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:G transpose=12
+d2 |: "G".b2!>!b3g | .g2!>!B3e | "D7"ed "_c"cD FA | "G"ed BG Bd | .b2!>!b3g | .g2!>!B3e | "D7"ed "_c"cD FA |1 "G"G2z2d2 :|2 "G"G2z2z2 || [K:D]
+|: "A7"A2Bc de | "D"fga3f | "A7"ef gA Bc | "D"dfA4 | "A7"A2Bc de | "D"fga3f | "A7"ef gA Bc |1 "D"d2z2z2 :|2 "D"d2"_>Teil A"z2d2 |] 
+W: P: ABA
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 15, 2016

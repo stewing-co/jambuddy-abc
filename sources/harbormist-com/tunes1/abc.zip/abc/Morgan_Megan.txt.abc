@@ -1,0 +1,33 @@
+X: 1
+T:Morgan Megan
+C:Turlough O'Carolan
+M:C|
+N: Q: 1/2=108
+L:1/8
+K:G
+P:A1
+%%MIDI chordname 4 12 4 7 12 % fundamental c, chord E G c
+D2 ||\ 
+N: %%measurebox true % measure numbers in a box
+N: %%measurenb 0 % measure numbers at first measure
+"G"D2G2 "D7"G2A2 | "G"cBAG "G/B"Bcd2 | "Am"e2A2  "Am/E"A2G2 | "D"GFEF "D7"D2EF |
+"G"G2G2 "D7"GFGA | "G"G2FE "G/B"D2G2 | "Am"FGA2  "Am/E"A2EG | "D"F2D2 "D7"DEFD ||
+P:A2
+"G"G2B2 "D"AGAF | "G"G3z "G/B"G2B2 | "Am"c3B   "D"A2Bc | "G"d2d2  "C4"e4    |
+"G"d2B2 "Am"cBAG | "C4"AGFE "D7"D2EF | "G"G2B2 "D7"AGAF | "G"G4  z2 "G/D" dc ||
+P:B1
+"G"B2d2 "D"d2ef | "G"g2G2  "G/D"Bcd2 | "G"g2G2 "G/B"Bcd2 | "Am"edcB "D7"A2 Bc |
+"G"BGBc "G/B"d2d2 | "C4" e2c2 "G/B"d2B2 | "Am"c2A2 "G"B2G2 | "D/A"F2D2  "D7"D2GF ||
+P:B2
+"C"E2C2 "C/G"C2-C D | "C"E2C2 "C6"C2AG | "D/A"F2D2 "D"D2-DE |"Am"FGEF "D7"D2Bc |
+"G"d2B2 "Am" edcB | "C4"cBAG "D7"AGFE | "G"D2G2 "D7"AGAF | "G"G6 |]
+
+%%textfont Helvetica 10
+%%begintext
+chord C4 indicates fundamental C should be higher rather than lower
+%%endtext
+
+%%textfont Helvetica 9
+%%begintext
+arranged by P. Palmer, version 1
+%%endtext

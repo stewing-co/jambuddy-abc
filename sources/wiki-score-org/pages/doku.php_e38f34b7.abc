@@ -1,0 +1,22 @@
+X:106
+T:Moderadamente
+C:Antonio Thomaz de Lima
+M:4/8
+L:1/4
+K:B
+V: 6 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 6 }]
+%----------- edit between the lines ------------
+[Q:"Moderadamente, e com grandiosidade (a 4 tempos)"] "_marcado"    \
+!>![Bdfb] > !>!!arpeggio![cfac'] & !ff!  !>! [B,DF] > x  | \
+!arpeggio![dfad']/!arpeggio![Bdgb]/ !arpeggio![cegc']/!arpeggio![Acfa]/ || \
+!arpeggio![dg] [eg] & [Bb]/[Aa]//[Bb]// !arpeggio![cc']//[Bb]//[Aa]/ || \
+!arpeggio![Bdfb]/ [DF]//[EG]// [DF]//[EC]//[DB,]/ |
+[cegc'] !arpeggio![dg^bd'] | !arpeggio![egc'e']/ !arpeggio![dd']//[cc']// !arpeggio![Bdgb]/!arpeggio![c^fac']/ ||\
+[fbd'f']/[dd']//[Bb]// !arpeggio![cegc'] || [Bdfb]/ [Ee]//[Dd]// [Cc]//[B,B]//[A,A]//[B,B]// |
+[F,B,] > !arpeggio![F,A,C] | !arpeggio![F,A,D]/!arpeggio![G,B,]/ !arpeggio![E,G,D]/!arpeggio![F,A,]/ ||\
+!arpeggio!A,/A,//B,// C//B,//A,/ & !arpeggio![D,F,] [E,G,] || [D,F,B,]/ [df]//[eg]// [df]//[Gce]//[FBd]/ |
+[E,G,C] > !arpeggio![G,^B,D] | !arpeggio![E,G,CE]/!arpeggio![^^F,A,D]//C// !arpeggio![G,B,]/!arpeggio![F,^A,D]/ || \
+F/D//B,// !>! B/!>!((5:2A//B//A//G//A//) & !arpeggio![F,B,] !arpeggio!C || \
+%-----------------------------------------------

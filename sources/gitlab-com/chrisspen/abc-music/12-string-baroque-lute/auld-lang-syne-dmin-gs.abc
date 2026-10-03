@@ -1,0 +1,18 @@
+X:1
+T:Auld Lang Syne
+C:Traditional Scottish Melody
+C:Arr. Bradford Werner
+L:1/8
+M:4/4
+K:F
+%%staves {V1 V2}
+V: V1 clef=treble-8
+V: V2 clef=bass
+[V: V1] "II"C2 | F3 E F2 A2 | G3 F G2 AG | F3 F A2 c2 | "I"d6 d2 |
+[V: V2] x2 | F,,4 F,,4 | G,,4 C,,4 | D,,4 F,,4 | B,,6 x2 |
+[V: V1] "II"c3 A A2 F2 | G3 F G2 AG | F3 D D2 x2 | F6 d2 |
+[V: V2] F,,4 F,,4 | G,,4 C,,4 | D,,6 C,,2 | [F,,A,,]6 z2 |
+[V: V1] c3 A A2 F2 | G3 F G2 d2 | c3 A A2 c2 | "I"d6 !fermata!f2 |
+[V: V2] F,,4 F,,4 | G,,4 C,,4 | F,,4 F,,4 | B,,6 x2 |
+[V: V1] "II"c3 A A2 F2 | G3 F G2 AG | F3 D D2 x2 | F6 |]
+[V: V2] F,,4 F,,4 | G,,4 C,,4 | D,,6 C,,2 | [F,,A,,]6 |]

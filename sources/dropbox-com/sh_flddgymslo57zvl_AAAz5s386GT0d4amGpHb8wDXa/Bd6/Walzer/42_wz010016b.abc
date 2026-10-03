@@ -1,0 +1,92 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Walserli zu Fahre  Bb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.266 (wz01016b) orig. Bb-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:Bb %%MIDI gchordon
+F|: "Bb"B>FF | DFB | "F7"A>FF | E2F | A>FF | EFA | "Bb"B>FF |1 D2F :|2 D2z |]  
+X:2
+T:Walserli zu Fahre  C 2+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G|: "C"c>GG | EGc | "G7"B>GG | F2G | B>GG | FGB | "C"c>GG |1 E2G :|2 E2z |] 
+% wz01016b
+X:3
+T:Walserli zu Fahre  F 7+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+c|: "F"f>cc | Acf | "C7"e>cc | B2c | e>cc | Bce | "F"f>cc |1 A2c :|2 A2z |] 
+% wz01016b
+X:4
+T:Walserli zu Fahre  G 9+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+d|: "G"g>dd | Bdg | "D7"f>dd | c2d | f>dd | cdf | "G"g>dd |1 B2d :|2 B2z |] 
+% wz01016b
+X:5
+T:Walserli zu Fahre  C (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+G|: "C"c>GG | EGc | "G7"B>GG | F2G | B>GG | FGB | "C"c>GG |1 E2G :|2 E2z |] 
+% wz01016b
+X:6
+T:Walserli zu Fahre  F (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+c|: "F"f>cc | Acf | "C7"e>cc | B2c | e>cc | Bce | "F"f>cc |1 A2c :|2 A2z |] 
+% wz01016b
+X:7
+T:Walserli zu Fahre  G (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+d|: "G"g>dd | Bdg | "D7"f>dd | c2d | f>dd | cdf | "G"g>dd |1 B2d :|2 B2z |] 
+% wz01016b
+X:8
+T:Walserli zu Fahre D (tinwhistle in D)
+T:wz01016b (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+A|: "D"d>AA | FAd | "A7"c>AA | G2A | c>AA | GAc | "D"d>AA |1 F2A :|2 F2z |] 
+X:9
+T:Walserli zu Fahre D (tinwhistle in D) solo
+T:wz01016b (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+A|: d>AA | FAd | c>AA | G2A | c>AA | GAc | d>AA |1 F2A :|2 F2z |] 
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 3, 2016
+

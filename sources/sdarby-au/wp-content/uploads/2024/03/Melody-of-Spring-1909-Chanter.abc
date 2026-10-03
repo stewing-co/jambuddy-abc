@@ -1,0 +1,92 @@
+
+X:1
+T:Melody of Spring
+T:Melodie Le Printemps
+C:Arthur Chanter
+C:Arturo Cantore
+S: National Library of Australia MUS N mba 786.20994 C232 
+Z:Stephen Hamish Darby - All Rights Waived
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=83.00
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 treble nm="Piano" snm="Pno."
+V:4 treble 
+V:1
+[I: MIDI=program 41]{/^g} a{/g}a{/g} a4 |{/^g} a{/g}a{/g} a4 |{/^g} [Aa]{/g}[Aa]{/g} [Aa]{/g}[Aa]{/g} [Aa]{/g}[Aa] | 
+{/^g} [Aa]6 | z6 | z6 |$ 
+!arpeggio![FAf]!arpeggio![EAe] !arpeggio![DAd]2 !arpeggio![CAc]!arpeggio![B,AB] | 
+!arpeggio![A,FA]4 [F,DF]2 | [A,CA][G,CG] [F,CF]2 [E,CE]2 | [F,DF]6 | 
+[FAf][EAe] [DAd]2 [CAc][B,AB] | [A,FA]4 [F,DF]2 | [A,CA][G,CG] [F,CF]2 [E,CE]2 |$ [D,A,D]6 | 
+[faf'][eae'] [dad']2 [cac'][Bab] | [Afa]4 [Fdf]2 | [Aca][Gcg] [Fcf]2 [Ece]2 | [Fdf]6 | 
+[faf'][eae'] [dad']2 [cac'][Bab] | [Afa]4 [Fdf]2 | [Aca][Gcg] [Fcf]2 [Ece]2 |$ [DAd]6 | 
+[d_bd'][da=c'] [dad']2 [Ada][Gdg] | [Ada]4 [=Fd=f]2 | [G_Bg][GB=f] [GBf]2 [GBg]2 | [A^ca]4 z2 | 
+[d_bd'][da=c'] [dad']2 [Ada][Gdg] | [Ada]4 [=Fd=f]2 |$ [G_Bg][GB=f] [GB_e]2 [GB][GB=c] | 
+[G=A^c]6 | [G,_B,G][G,B,=F] [G,B,_E]2 z2 | z6 | [^FA^f][EAe] [DAd]2 [CAc][B,AB] | 
+[A,FA]4 [F,DF]2 |$ [A,CA][G,CG] [F,CF]2 [E,CE]2 | [F,DF]6 | [FAf][EAe] [DAd]2 [CAc][B,AB] | 
+[A,FA]4 [F,DF]2 | [A,CA][G,CG] [F,CF]2 [E,CE]2 | [D,A,D]6- | [D,A,D]6 || 
+[K:Bb]!f! [Bfb][Bf]/[Bg]/ [Bg]4 |$ [Bf]>[Bd] [Ac]4 | [Bb][Bf]/[Bg]/ [Bg]4 | [Bf]>[Bd] [Ac]4 | 
+[Dd][DB]/[Dd]/ [Dd]4 | [Dd]>[DB] [DA]4 |$ [Dd][Dc]/[Dc]/ [Dd]4 | [Dd]>[DB] [^C=EA]4 | 
+!p! [A,^CEA][A,CEA] [A,CEA][A,CEA] [A,CEA][A,CEA] | 
+[A,^CEA][A,CEA] [A,CEA][A,CEA] [A,CEA][A,CEA] |$ [A,^CEA][A,CEA] [A,CEA][A,CEA] [A,CEA][A,CEA] | 
+[A,^CEA][A,CEA] [A,CEA][A,CEA] [A,CEA][A,CEA] |!mf! D z z4 | z6 |$ D z2 z [B,DG][DG=B] | 
+[G=Bd][GBdg] [GBdg=b]4 | z6 ||[K:D]{/^g} a{/g}a{/g} a4 |{/^g} a{/g}a{/g} a4 |$ 
+{/^g} [Aa]{/g}[Aa]{/g} [Aa]{/g}[Aa]{/g} [Aa]{/g}[Aa] |{/^g} [Aa]6 | z6 | z6 | 
+!arpeggio![FAf]!arpeggio![EAe] !arpeggio![DAd]2 !arpeggio![CAc]!arpeggio![B,AB] | 
+!arpeggio![A,FA]4 [F,DF]2 |$ [A,CA][G,CG] [F,CF]2 [E,CE]2 | [F,DF]6 | 
+[FAf][EAe] [DAd]2 [CAc][B,AB] | [A,FA]4 [F,DF]2 | [A,CA][G,CG] [F,CF]2 [E,CE]2 | [D,A,D]6 | 
+[faf'][eae'] [dad']2 [cac'][Bab] | [Afa]4 [Fdf]2 |$ [Aca][Gcg] [Fcf]2 [Ece]2 | [Fdf]6 | 
+[faf'][eae'] [dad']2 [cac'][Bab] | [Afa]4 [Fdf]2 | [Aca][Gcg] [Fcf]2 [Ece]2 | [DAd]6 | 
+[d_bd'][da=c'] [dad']2 [Ada][Gdg] | [Ada]4 [=Fd=f]2 |$ [G_Bg][GB=f] [GBf]2 [GBg]2 | [A^ca]4 z2 | 
+[d_bd'][da=c'] [dad']2 [Ada][Gdg] | [Ada]4 [=Fd=f]2 | [G_Bg][GB=f] [GB_e]2 [GB][GB=c] | 
+[G=A^c]6 |$ [G,_B,G][G,B,=F] [G,B,_E]2 z2 | z6 | [^FA^f][EAe] [DAd]2 [CAc][B,AB] | 
+[A,FA]4 [F,DF]2 | [A,CA][G,CG] [F,CF]2 [E,CE]2 | [F,DF]6 | [FAf][EAe] [DAd]2 [CAc][B,AB] |$ 
+[A,FA]4 [F,DF]2 | [A,CA][G,CG] [F,CF]2 [E,CE]2 | [D,A,D]6 | [F,DF]6 | [D,A,D]6 |] 
+V:2
+[I: MIDI=program 41]x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | 
+x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | 
+x6 | x6 | x6 ||[K:Bb] z6 |$ z6 | z6 | z2 z4 | z2 DD DD | z2 DD DD |$ z2 DD DD | x6 | x6 | x6 |$ 
+x6 | x6 | x6 | x6 |$ x6 | x6 | x6 ||[K:D] x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | 
+x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 |$ 
+x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |] 
+V:3
+[I: MIDI=program 43][ce][df] [ce]4 | [ce][df] [ce]4 | [ce][df] [ce][df] [ce][df] | [eg]6 |[K:bass] D,,A,, F,2 A,,2 | 
+D,,A,, F,2 A,,2 |$ D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | 
+D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 |$ D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | 
+D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | 
+E,,A,, F,2 A,,2 |$ D,,A,, F,2 A,,2 | G,,D, _B,2 D,2 | A,,=F, D2 F,2 | _B,,_B, _E2 B,E | 
+A,,A, =E2 A,2 | G,,D, _B,2 D,2 | A,,=F, D2 F,2 |$ _B,,_B, _E2 B,_E | =EA, A,,2 z2 | 
+_B,,,_B,, _E,2 [B,,G,_B,][E,G,A,=C] | [G,A,^C]6 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 |$ 
+E,,A,, G,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | 
+D,,A,, F,2 A,,2 | D,,6 ||[K:Bb]!p! z z/ z/ z4 |$ [D,F,][D,F,] F,F, F,F, | z z/ z/ z4 | 
+[D,F,][D,F,] F,F, F,F, | [G,B,][G,B,] [^F,A,][F,A,] [F,A,][F,A,] | 
+[G,B,][G,B,] [D,^F,A,][D,F,A,] [D,F,A,][D,F,A,] |$ [G,B,][G,B,] [^F,A,][F,A,] [F,A,][F,A,] | 
+[G,B,][G,B,] A,A, A,A, |!f! A,,,/=B,,,/^C,,/D,,/ =E,,/=F,,/G,,/A,,/ _B,,/A,,/G,,/F,,/ | 
+=E,,2 A,,,2 z2 |$ A,,,/=B,,,/^C,,/D,,/ =E,,/=F,,/G,,/A,,/ _B,,/A,,/G,,/F,,/ | =E,,2 A,,,4 | 
+!mf! [D,^F,A,][D,F,]/[G,=B,]/ [D,G,B,]4 | [^F,A,]>[D,F,] [^C,=E,]4 |$ 
+[D,^F,A,][D,F,A,]/[G,=B,]/ [D,G,B,][G,B,D] [D,G,][G,B,] | [=B,D]D z4 | [A,,=E,G,A,^C]6 || 
+[K:D][K:treble] [ce][df] [ce]4 | [ce][df] [ce]4 |$ [ce][df] [ce][df] [ce][df] | [eg]6 | 
+[K:bass] D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 |$ D,,A,, F,2 A,,2 | 
+D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | 
+D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 |$ D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | 
+D,,A,, F,2 A,,2 | E,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | G,,D, _B,2 D,2 | A,,=F, D2 F,2 |$ 
+_B,,_B, _E2 B,E | A,,A, =E2 A,2 | G,,D, _B,2 D,2 | A,,=F, D2 F,2 | _B,,_B, _E2 B,_E | 
+=EA, A,,2 z2 |$ _B,,,_B,, _E,2 [B,,G,_B,][E,G,A,=C] | [G,A,^C]6 | D,,A,, F,2 A,,2 | 
+D,,A,, F,2 A,,2 | E,,A,, G,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 |$ D,,A,, F,2 A,,2 | 
+D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | D,,A,, F,2 A,,2 | z6 |] 
+V:4
+[I: MIDI=program 43]x6 | x6 | x6 | x6 |[K:bass] x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | 
+x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | =E,A,, A,,,3 z | z6 | 
+z6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 ||[K:Bb] [D,F,][D,F,] [E,G,B,][E,G,B,] [E,G,B,][E,G,B,] |$ 
+x6 | [D,F,][D,F,] [E,G,B,][E,G,B,] [E,G,B,][E,G,B,] | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 |$ x6 | 
+x6 | [D,,A,,][D,,A,,] [G,,D,][G,,D,] [G,,D,][G,,D,] | [D,,D,][D,,D,] A,,A,, A,,A,, |$ 
+[D,,A,,][D,,A,,] G,,[=B,,D,] z2 | x6 | x6 ||[K:D][K:treble] x6 | x6 |$ x6 | x6 |[K:bass] x6 | x6 | 
+x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 |$ x6 | 
+x6 | x6 | x6 | x6 | x6 |$ x6 | =E,A,, A,,,3 z | z6 | z6 | x6 | x6 | x6 |$ x6 | x6 | [D,A,]6 | 
+F,6 | [D,,A,,F,]6 |] 
+
+

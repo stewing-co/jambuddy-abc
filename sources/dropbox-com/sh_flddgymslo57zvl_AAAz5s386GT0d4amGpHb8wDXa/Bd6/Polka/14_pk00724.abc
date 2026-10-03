@@ -1,0 +1,101 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Kreuzpolka  G
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.204 (pk00724) orig. G-Dur
+T:Walliser T\"anze. S.196-213. \"Uberliefert durch Josef Seewer und Marcel Tschopp, Leuk, 
+T: und Sepp Mutter, Ried/Brigerberg
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+|: "G"B>B cB | "D7".A2!>!d2 | d>d fe | "G".d2!>!g2 | B>B cB |1 "D7"BAA2 | A>A BA | "G"AGG2 :|2  
+"Am/C"BA d>e | "D7"dc BA | "G"G3z |: "G"d>d ed | "D7".f2!>!f2 | d>d ed | "G".g2!>!g2 | 
+gf ed | "D7"fed2 |1 fe dc | "G"edB2 :|2 "D7"fe df | "G"g3z |]  
+X:2
+T:Kreuzpolka  F 2-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:F%%MIDI gchordon
+|: "F"A>A BA | "C7".G2!>!c2 | c>c ed | "F".c2!>!f2 | A>A BA |1 "C7"AGG2 | G>G AG | "F"GFF2 :|2 
+"Gm/Bb"AG c>d | "C7"cB AG | "F"F3z |: "F"c>c dc | "C7".e2!>!e2 | c>c dc | "F".f2!>!f2 | 
+fe dc | "C7"edc2 |1 ed cB | "F"dcA2 :|2 "C7"ed ce | "F"f3z |] 
+% pk00724
+X:3
+T:Kreuzpolka  C 7-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+|: "C"E>E FE | "G7".D2!>!G2 | G>G BA | "C".G2!>!c2 | E>E FE |1 "G7"EDD2 | D>D ED | "C"DCC2 :|2 
+"Dm/F"ED G>A | "G7"GF ED | "C"C3z |: "C"G>G AG | "G7".B2!>!B2 | G>G AG | "C".c2!>!c2 | 
+cB AG | "G7"BAG2 |1 BA GF | "C"AGE2 :|2 "G7"BA GB | "C"c3z |] 
+% pk00724
+X:4
+T: Kreuzpolka  G (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+|: "G"B>B cB | "D7".A2!>!d2 | d>d fe | "G".d2!>!g2 | B>B cB |1 "D7"BAA2 | A>A BA | "G"AGG2 :|2  
+"Am/C"BA d>e | "D7"dc BA | "G"G3z |: "G"d>d ed | "D7".f2!>!f2 | d>d ed | "G".g2!>!g2 | 
+gf ed | "D7"fed2 |1 fe dc | "G"edB2 :|2 "D7"fe df | "G"g3z |]  
+% pk00724
+X:5
+T:Kreuzpolka  F (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+|: "F"A>A BA | "C7".G2!>!c2 | c>c ed | "F".c2!>!f2 | A>A BA |1 "C7"AGG2 | G>G AG | "F"GFF2 :|2 
+"Gm/Bb"AG c>d | "C7"cB AG | "F"F3z |: "F"c>c dc | "C7".e2!>!e2 | c>c dc | "F".f2!>!f2 | 
+fe dc | "C7"edc2 |1 ed cB | "F"dcA2 :|2 "C7"ed ce | "F"f3z |] 
+% pk00724
+X:6
+T:Kreuzpolka  C (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+|: "C"E>E FE | "G7".D2!>!G2 | G>G BA | "C".G2!>!c2 | E>E FE |1 "G7"EDD2 | D>D ED | "C"DCC2 :|2 
+"Dm/F"ED G>A | "G7"GF ED | "C"C3z |: "C"G>G AG | "G7".B2!>!B2 | G>G AG | "C".c2!>!c2 | 
+cB AG | "G7"BAG2 |1 BA GF | "C"AGE2 :|2 "G7"BA GB | "C"c3z |] 
+% pk00724
+
+
+X:7
+T:Kreuzpolka D (tinwhistle in D)
+T: pk00724 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+|: "D"F>F GF | "A7".E2!>!A2 | A>A cB | "D".A2!>!d2 | F>F GF |1 "A7"FEE2 | E>E FE | "D"EDD2 :|2 
+"Em/G"FE A>B | "A7"AG FE | "D"D3z |: "D"A>A BA | "A7".c2!>!c2 | A>A BA | "D".d2!>!d2 | 
+dc BA | "A7"cBA2 |1 cB AG | "D"BAF2 :|2 "A7"cB Ac | "D"d3z |] 
+X:8
+T:Kreuzpolka D (tinwhistle in D) solo
+T: pk00724 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D transpose=12
+|: F>F GF | .E2!>!A2 | A>A cB | .A2!>!d2 | F>F GF |1 FEE2 | E>E FE | EDD2 :|2 
+"Em/G"FE A>B | AG FE | D3z |: A>A BA | .c2!>!c2 | A>A BA | .d2!>!d2 | 
+dc BA | cBA2 |1 cB AG | BAF2 :|2 cB Ac | d3z |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 25, 2016

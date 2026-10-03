@@ -1,0 +1,95 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:5. Lachrim\ae Coact\ae
+T:Cantus
+C: John Dowland
+O: From Lachrim\ae, or Seaven Teares figured in Seaven Passionate Pavans, with divers other Pavans, Galiards, and Almands, set forth for the Lute, Viols or Violons, in five parts
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+L:1/4
+M:C
+N:Original clef,  C on first line
+N:Original has the clef on the last two of three lines of this part on the second line, but this seems to just be an error
+K:Amin
+A3 G/ F/ E3 e d2 B2 c3 B/ A/ B4 z A c3 B A G A3 E F D d4 c3 c _B2 A2 z A ^G2 A3 ^G/ F/ ^G2 A8 ||
+^F2 B3 A ^G2 ^A B2 ^A B2 z B ^G A2 ^G A B c B/ A/ G A B A2 G > G F2 E2 D2 ^C/ B,/ ^C2 D > d c3 A B G2 ^F E3 ^D/ "(1)"C/ ^D2 E8 ||
+N:(1) Original is a quarter note
+z e2 d2 c2 B2 A A3 ^G/ F/ ^G2 A2 E2 F2 G2 A > c B A ^G2 z e c > c f e d c c3 B/ A/ B2 c e > d c B ^G A B > A A2 ^G A8 |]
+
+X:2
+T:5. Lachrim\ae Coact\ae
+T:Altus.
+C: John Dowland
+O: From Lachrim\ae, or Seaven Teares figured in Seaven Passionate Pavans, with divers other Pavans, Galiards, and Almands, set forth for the Lute, Viols or Violons, in five parts
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+L:1/4
+M:C
+N:Original clef, C on second line
+K:Amin
+E6 A3 ^G/ F/ ^G2 A2 E2 E4 E3 G F3 C F2 E2 D4 E4 z A2 G2 F/ E/ F2 E6 E2 ^C8 ||
+^D2 B,3 C/ D/ E3 D ^C E ^D E > E ^D E A, B,/ C/ D C D E3 F G F2 E/ D/ A3 G F E/ D/ E2 z A ^F B > A G2 F2 "(2)"E ^D2 E2 ^F3 F ^G8 ||
+N:(2) Original has E sharp.
+E8 E4 z2 E3 A2 G F/ E/ C/ D/ E3 E D2 E > F G > G F > G A3 A G2 G3 G E c > B A ^G E2 D E3 E H^C8 |]
+
+X:3
+T:5. Lachrim\ae Coact\ae
+T:Quintus.
+C: John Dowland
+O: From Lachrim\ae, or Seaven Teares figured in Seaven Passionate Pavans, with divers other Pavans, Galiards, and Almands, set forth for the Lute, Viols or Violons, in five parts
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+L:1/4
+M:C
+N:Original clef, C on fourth line
+K:Amin -8va
+%%MIDI transpose -12
+z2 A3 G/ F/ E c B4 A4 E2 z E c >  B A G A > G F3 E/ D/ A3 F2 G2 E2 E ^F2 G2 A2 d3 c/ B/ c A e2 E2 E8 ||
+^F4 ^G2 E2 E4 B3 ^F ^c > d e3 E A G/ F/ E A D C/ C/ F G/ F/ e A > D E F G > F E/ D/ E2 D G > FE A2 G3 A2 G ^F4 E8 ||
+B c2 B/ A/ ^G A2 ^G z A c d e2 z E A > B c4 B2 A4 B3 G c2 A2 A c2 G G4 G2 c2 z B E ^F ^G A B E HE8 |]
+
+X:4
+T:5. Lachrim\ae Coact\ae
+T:Tenor.
+C: John Dowland
+O: From Lachrim\ae, or Seaven Teares figured in Seaven Passionate Pavans, with divers other Pavans, Galiards, and Almands, set forth for the Lute, Viols or Violons, in five parts
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+L:1/4
+M:C
+N: Original clef, C on third line
+K:Amin -8va
+%%MIDI transpose -12
+c3 B c d e2 f2 z e e > d c > c B4 A c2 c c4 A4 z A B2 G2 A4 d2 d3 c B e2 d/ c/ B A B2 A8 ||
+B4 B2 B2 ^c3 c ^F2 B2 E4 e2 c d e d/ c/ B c d2 c > B A e A2 A4 z d e2 d3 B B6 B2 B8 ||
+g2 f2 e2 d2 c3 B/ A/ B3 B c3 B A2 B2 c2 d3 c B2 A2 d e f e2 d/ c/ d2 d2 c > d e3 B c d2 c B2 HA8 |]
+
+X:5
+T:5. Lachrim\ae Coact\ae
+T:Bassus
+C: John Dowland
+O: From Lachrim\ae, or Seaven Teares figured in Seaven Passionate Pavans, with divers other Pavans, Galiards, and Almands, set forth for the Lute, Viols or Violons, in five parts
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+L:1/4
+M:C
+K:Amin bass
+%%MIDI transpose -24
+A4 A2 c2 d2 e2 z A a3 ^g/ f/ ^g2 a2 z e f3 e d2 ^c2 d2 B2 c2 A2 d6 d2 e8 A8 ||
+B4 e3 d ^c4 B2 B2 ^c3 B A3 B c B/ A/ G A _B =B c2 ^c2 d c/ B/ A3 A B2 c2 d2 G > A B8 e8 ||
+e8 e8 A2 a3 a g2 f4 e3 e f > e d ^c d A c2 G g > f g c2 A A e > d c B e4 HA8 |]

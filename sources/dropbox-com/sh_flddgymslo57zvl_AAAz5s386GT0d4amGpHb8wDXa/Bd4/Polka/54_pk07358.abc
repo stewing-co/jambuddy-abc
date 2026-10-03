@@ -1,0 +1,37 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka CF (pk07358)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.305 (pk07358) orig. C,F
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+("C"Ge).e2 (eg).g2 | (gc).c2 (ce).e2 | ("G7"ed).d2 d3G | ("C"Ge).e2 c2G2 |1 (Ge).e2 (eg).g2 | (gc).c2 (ce).e2 | ("D7"ed).d2 b3aa | {/b}"G"a2g2 g2G2 :|2 
+("C"Ge).e2 ("G7"ef).f2 | ("D7"f^f).f2 ("G"fg).g2 | ("G7"gd).d2 f2ed | {/e}"C"d2.c2 .c4 |: [L:1/8] "G7"g2f>B | ("C"dc) c>c | ("G7"cB) B>B | ("C"dc)c2 | "G7"g2 f>B | ("C"dc) c>c | 
+("G7"cB) e>d | ("C"dc)c2 :| [K:F]  "F"cc' cc' | {bc'}"C7"d'c'b2 | cb cb | {ab}"F"c'ba2 |  ca ca | {ga}"Gm"bag2 | "C7"e>d ce | ("F"gf)f2 || 
+!>!"F"f>f !>!f>f |  (f/e/).f/.a/ d'c' | ("C7"c/=B/).c/.e/ ag | ("F"f/e/).f/.a/c2 | !>!f>f !>!f>f |  (f/e/).f/.a/ d'c' | ("C7"c/=B/).c/.e/ a>g | "F"fa fz |] 
+%%% pk07358
+% July 6, 2017
+
+X:2
+T:Polka GC 5- (pk07358)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.305 (pk07358) orig. C,F
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+("G"DB).B2 (Bd).d2 | (dG).G2 (GB).B2 | ("D7"BA).A2 A3D | ("G"DB).B2 G2D2 |1 (DB).B2 (Bd).d2 | (dG).G2 (GB).B2 | ("A7"BA).A2 f3ee | {/f}"D"e2d2 d2D2 :|2 
+("G"DB).B2 ("D7"Bc).c2 | ("A7"c^c).c2 ("D"cd).d2 | ("D7"dA).A2 c2BA | {/B}"G"A2.G2 .G4 |: [L:1/8] "D7"d2c>F | ("G"AG) G>G | ("D7"GF) F>F | ("G"AG)G2 | "D7"d2 c>F | ("G"AG) G>G | 
+("D7"GF) B>A | ("G"AG)G2 :| [K:C] "C"Gg Gg | {fg}"G7"agf2 | Gf Gf | {ef}"C"gfe2 | Ge Ge | {de}"Dm"fed2 | "G7"B>A GB | ("C"dc)c2 || 
+!>!"C"c>c !>!c>c | (c/2B/2).c/2.e/2 ag | ("G7"G/2^F/2).G/2.B/2 ed | ("C"c/2B/2).c/2.e/2G2 | !>!c>c !>!c>c | (c/2B/2).c/2.e/2 ag | ("G7"G/2^F/2).G/2.B/2 e>d | "C"ce cz |] 
+%%% pk07358
+% July 6, 2017

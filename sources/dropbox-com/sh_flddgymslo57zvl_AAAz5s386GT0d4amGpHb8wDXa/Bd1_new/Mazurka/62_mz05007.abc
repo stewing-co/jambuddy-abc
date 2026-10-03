@@ -1,0 +1,34 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Mazurka FCBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.315 (mz05007) orig. F,C,Bb-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"c>c' =b>c' d'>c' | a>c' f>ac2 | "C7"eg c'3b | "F"ba ^gaf2 | c>c' =b>c' d'>c' | a>c' f>ac2 | "C7"eg c'3e | "F"f2f2z2 :: [K:C]
+"G7"((3g^fg)d2a2 | "C"((3gfg)e2c'2 | "G7"b>af2f2 | "C"a>ge2e2 | "G7"((3g^fg)d2a2 | "C"((3gfg)e2c'2 | "G7"b>a g>f e>d | "C"c2c2z2 :: [K:F]
+"F"caf4 | cc'a4 | "C7"c'b abg2 | "F"d'c' =bc'a2 |  caf4 | cc'a4 | "C7"c'b ab c>e | "F"f2f2z2 :: [K:Bb] 
+"Bb"f2b2d2 | "F7"f2edc2 | a2c'2e2 | "Bb"g2fed2 | f2b2d2 | "Cm/Eb".c2g4 | "F7"Ac f2a2 | "Bb"b2b2z2 :| 
+
+X:2
+T:Mazurka CGF 5- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"G>g ^f>g a>g | e>g c>eG2 | "G7"Bd g3f | "C"fe ^dec2 | G>g ^f>g a>g | e>g c>eG2 | "G7"Bd g3B | "C"c2c2z2 :: [K:Gmaj]
+"D7"((3d^cd)A2e2 | "G"((3dcd)B2g2 | "D7"f>ec2c2 | "G"e>dB2B2 | "D7"((3d^cd)A2e2 | "G"((3dcd)B2g2 | "D7"f>e d>c B>A | "G"G2G2z2 :: [K:Cmaj]
+"C"Gec4 | Gge4 | "G7"gf efd2 | "C"ag ^fge2 | Gec4 | Gge4 | "G7"gf ef G>B | "C"c2c2z2 :: [K:Fmaj] 
+"F"c2f2A2 | "C7"c2BAG2 | e2g2B2 | "F"d2cBA2 | c2f2A2 | "Gm/Bb".G2d4 | "C7"EG c2e2 | "F"f2f2z2 :| 
+
+X:3
+T:Mazurka EbBbAb (5letras) cf. CGF
+M:3/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+"Eb"B>b =a>b c'>b | g>b e>gB2 | "Bb7"df b3a | "Eb"ag ^fge2 | B>b =a>b c'>b | g>b e>gB2 | "Bb7"df b3d | "Eb"e2e2z2 :: [K:Bbmaj]
+"F7"((3f=ef)c2g2 | "Bb"((3fef)d2b2 | "F7"a>ge2e2 | "Bb"g>fd2d2 | "F7"((3f=ef)c2g2 | "Bb"((3fef)d2b2 | "F7"a>g f>e d>c | "Bb"B2B2z2 :: [K:Ebmaj]
+"Eb"Bge4 | Bbg4 | "Bb7"ba gaf2 | "Eb"c'b =abg2 | Bge4 | Bbg4 | "Bb7"ba ga B>d | "Eb"e2e2z2 :: [K:Abmaj] 
+"Ab"e2a2c2 | "Eb7"e2dcB2 | g2b2d2 | "Ab"f2edc2 | e2a2c2 | "Bbm/Db".B2f4 | "Eb7"GB e2g2 | "Ab"a2a2z2 :| 

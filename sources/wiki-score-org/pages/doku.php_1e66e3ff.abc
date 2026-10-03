@@ -1,0 +1,42 @@
+X:106
+T:I. Allegro assai
+C:Almeida, Francisco A. de (c.1702-?1755)
+M:2/4
+L:1/4
+K:F
+V: 6 clef=treble name="Violino Secondo" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 6 }]
+%---------
+[Q:"Allegro assai"] z//c//d//e// | fe | f/e//d// c/f/ | c/f/B/f/ | A//G//F/ z//c//d//e// | f/>c/a/>c/ | \
+g/>c/ e/d//c// | e/>c/g/>c/ | f/>=B/ d/c//B// | d/>=B/f/>d/ | e/>c/f/>d/ | g/>e/a/>f/ | \
+c'/z/8(g/8a/8=b/8) c'/z/8(g/8a/8b/8) | c'/z/8(g/8a/8=b/8) c'/z/8(g/8a/8b/8) | c'/c//d// e/c/ | \
+f/>e/d/>c/ | =B/>e/d/>c/ | =B/>d/B/>d/ | c/>d/=B/>d/ | c/>d/=B/>d/ | cz/z//c// | c=B | cz | cG|Cz| cG|Cz| \
+FC|Fz|FC|Fz| c'//c'//c'//c'// c'//c'//c'//c'// | d//d//d//d// d//d//d//d// | \
+b//b//b//b// b//b//b//b// | c//c//c//c// c//c//c//c// | a//a//a//a// a//a//a//a// | B//B//B//B// B//B//B//B// | \
+g//g//g//g// g//g//g//g// | A/>F/B/>G/| \
+c/>A/d/>B/|f/z/8(c/8d/8e/8) f/z/8(c/8d/8e/8) | f/z/8(c/8d/8e/8) f/z/8(c/8d/8e/8) | f/F//G// A/F/ | \
+b/>a/g/>f/ | e/>a/g/>f/ | e/>g/e/>c/ | f/>g/e/>g/ | f/>g/e/>g/ | f3/2z//f//|fe|fz| DA|Dz| DA|Dz| BF | \
+Bz|BF|Bz|GD|Gz|GD|Gz|CG|Cz|CG| g//g//g//g// g//g//g//g// | \
+A//A//A//A// A//A//A//A// | f//f//f//f// f//f//f//f// | G//G//G//G// G//G//G//G// | \
+e//e//e//e// e//e//e//e// | F//F//F//F// F//F//F//F// | d//d//d//d// d//d//d//d// | \
+E/>C/a/>g/ | f/>a/d'/>^f/ | g/>d/a/>d/ | b/>g/c'/>a/ | d'//d//d'//d// d'//d//d'//d// | \
+_e//d'//e//d'// e//d'//e//d'// | _e//c'//e//c'// e//c'//e//c'// | d//c'//d//c'//  d//c'//d//c'// | \
+d//b//d//b// d//b//d//b// | c//b//c//b// c//b//c//b// | c//a//c//a// c//a//c//a// | \
+B//a//B//a// B//a//B//a// | B//g//B//g// B//g//B//g// | A//g//A//g// A//g//A//g// | A//^f//A//f// A//f//A//f// | \
+g/G/ z//d//e//^f// | g^f| g/f//_e// d/g/ | d/g/c/g/ | B/A//G// z//c//d//e// | fe | f/e//d// c/f/ | \
+c/f/B/f/ | A//G//F/ z//c//d//e// | f/>c/a/>c/ | g/c//d// e/d//c// | e/>c/g/>c/ |f/=B//c// d/c//B// | d/>=B/f/>d/ | e/>c/f/>d/ | \
+g/>e/a/>f/ | c'/z/8(g/8a/8=b/8) c'/z/8(g/8a/8b/8) | c'/z/8(g/8a/8=b/8) c'/z/8(g/8a/8b/8) | c'/>c/e/>c/ | c'c | \
+a/>g/f/>e/ | =B//G//B//d// B//G//B//d// | \
+g/z/8(d/8e/8^f/8 g/)z/8(d/8e/8f/8 | g/)z/8(d/8e/8^f/8 g/)z/8(d/8e/8f/8 | g//)a//g//e// f//g//f//d// | e/>g/d/>g/ | cG | F/>F/F/>F/ | Fz | \
+A//G//A//F// B//A//B//d// | c//B//c//A// B//A//B//d// | A//G//A//c// B//A//B//d// | c//A//c//A// c//A//c//A// | d/(F/8_E/8D/8C/8) B, | \
+=B//A//B//d// c//B//c//e// | d//c//d//=B// c//B//c//e//| =B//A//B//d// c//B//c//e// | d//=B//d//B// d//B//d//B// | c/(G/8F/8E/8D/8) C |
+^c//B//c//A// d//c//d//f// | e//d//e//^c// d//c//d//f// | ^c//=B//c//A// \
+d//c//d//f// | e//^c//e//c// e//c//e//c// | d/(A/8G/8F/8E/8) D | =B//A//B//d// c//B//c//e// | d//c//d//=B// c//B//c//e// | =B//A//B//d// c//B//c//e// | d//=B//d//B// \
+d//B//d//B// | c/(G/8F/8E/8D/8) C |
+e//d//e//c// f//e//f//a// | g//f//g//e// f//e//f//d// | e//d//e//g// f//e//f//a// | g//e//g//e// g//e//g//e// | f/>a/f/>a/ | c'/>a/c'/>_e/ | \
+dz | d/>c/B/>A/ | G/>E/c/>G/ | e/>c/g/>e/ | c'/>c/g/>f/ | e/>d/c/>B/ | A/>F/c/>A/ | f/z/8(c/8d/8e/8 f/)z/8(c/8d/8e/8 | \
+f/)z/8(c/8d/8e/8 f/)z/8(c/8d/8e/8 | f/)>c/A/>f/ | fe | f/>c/A/>f/ | fe | fz || \
+[M:C] "_staccato" d/>d/d/>d/ d3/2z//d// | c/>c/c/>c/ c3/2z//c// | =B/>B/B/>B/ c3/2z//c// | G/>G/G/>G/ G3/2z//G// | c/>c/c/>c/ F3/2z//F// | \
+F/>F/F/>F/ EF | G_AGz |] \
+%----------

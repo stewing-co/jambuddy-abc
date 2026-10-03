@@ -1,0 +1,21 @@
+X:201
+T:Allegro
+C:Joao de Sousa Carvalho (1745-1798)
+M:C
+L:1/4
+K:F
+V: 1 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 1 )]
+%------
+[Q:"Allegro"] !f!fzz2 | gzz2 | Z8 | bzz2| bzz2| Z8 | \
+z2zz/!f!f//"_Solo"g///a///| b2-b/ {c'}(b//a// b/)b/| (=bc')z/c'//_b// a//g//f//_e// | dzz2| Z4 | \
+z2zz/g//a///=b///| c'2-c'/ {d'}(c'//=b//) c'/c'/| (^c'd')z/d'//=c'// =b//a//g//f// | \
+_ezz2| z2zz/g//a///=b///| c'2-c'/ {d'}(c'//=b//) c'/c'/| (^c'd')z/d'//=c'// =b//a//g//f// | \
+_ezz2| z/f/f/f/ f//a//c'//b// a//g//f//_e// | dzz2 |  z/f/f/f/ f//a//c'//b// a//g//f//_e// | dzz2 | \
+Z3 | z/(f//g//) f/f/ f z | z/(f//g//)f/f/ f z | z/(d//f//)b z2 | z/(f//a//)c' z2 | Z2 | !f!a2 b/g/ Pg | \
+z4 | a2 b/g/ g | z4 | z2zg | a2b2 | agag | a!fermata!zz2 | Z5 | z2(!p!_e2 | d2=e2) | f2g2 | \
+"_cresc." a2b2 | ac'bg | a4 - | aa2a | az!fermata!z2 | azz2|gzz2| \
+"_solo" zb2(a- | a/g/^f/g/ d/g/b/d'/) | (c'/a/) f-f/f/ {a}g/f//e// | \
+fzz2 | z z/f//g/8a/8 .b.^g | azz2 | Z2 |] \
+%------

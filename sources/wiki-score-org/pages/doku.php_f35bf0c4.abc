@@ -1,0 +1,34 @@
+X:602
+T:Ns.8-9
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:D
+V: 2 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+%----- edit between the lines ------
+[Q:"Moderadamente"] z z/ !p! "_brincando" .a1/4.^g1/4 | .a1/2.f1/2 .[ce]1/2.c1/2
+| !f!B "_com violncia"!downbow!!sfz!D1/2!downbow!!sfz!E1/2
+| !downbow!!sfz!F1/2!downbow!!sfz!G1/2!downbow!!sfz!A1/2!downbow!!sfz!B1/2
+| !downbow!!sfz!F1/2!downbow!!sfz!D1/2 z | Z
+| !f! z !downbow! !sfz! D1/2!downbow!!sfz!E1/2 | !downbow!!sfz!F1/2.G1/4.A1/4 (c1/4B1/4).A1/4.G1/4
+| !sfz! F z | z// .G1/4.d1/4.g1/4 z// .E1/4.B1/4.g1/4 | z// .F1/4.c1/4.a1/4 .d1/4.f1/4.a1/4 z//
+| "_pizz" [g_b]2/4 z/ z | "_arco" z !ff! d'2/4>d'/ | !>!"8Âº"g2/4>g/ !>!a2/4!>!g2/4 | !>!f2/4>f/ !>!g2/4!>!f2/4
+| !>!e2/4.e1/4.g1/4 !>!d2/4!>!c2/4 | (e'2/4d'2/4) !>!d2/4>.d/ | !>![dg]2/4>.g/ !>!a2/4!>!g2/4
+| !>![df]2/4>.f/ !>!g2/4!>!f2/4 | !>![Be]2/4.e1/4.g1/4 (d1/4B1/4).c1/4.A1/4
+| (d1/4c1/4)"_cresc".B1/4.A1/4 !mf! .F2/4.F2/4 | !>!F2/4.D1/4.E1/4 !>!F2/4.^D1/4.F1/4
+| !>!E2/4.B,1/4.^D1/4 !>!E2/4.C1/4.=D1/4 | !>!E2/4.C1/4.D1/4 .E2/4.C2/4 | .D2/4 .B1/4.c1/4 !>!B2/4 .d1/4.e1/4
+| !>!d2/4 "_cresc" .D1/4.E1/4 !>!F2/4!>![A,^D]2/4 | !>![G,E]2/4 z/ z/ .c1/4.d1/4
+| !>!e2/4 "_ret muito" z/ z/ !fff! !>![EAg]2/4
+|| "_animado" "_no talão,rudemente" !>![DAf]2/4 !f! [A,D]1/4[A,D]1/4 !//![A,D]
+| !//!C C2/4C2/4
+| D1/4D1/4D1/4C1/4 B,2/4D2/4
+| !//!C A,2/4A,2/4
+| A,2/4 !pp!D1/4D1/4 !//!D
+| !//!C C2/4C2/4
+| D1/4D1/4D1/4C1/4 B,2/4D2/4
+| !//!C !//!A, !f!
+| "_pizz" !>!E2/4!>!E2/4 E2/4E2/4| F2/4F2/4 F2/4F2/4 | E2/4E2/4 E2/4E2/4 | F2/4F2/4 F2/4F2/4
+| E2/4E2/4 E2/4E2/4 | F2/4F2/4 F2/4F2/4 | E2/4E2/4 E2/4E2/4 ||
+%-----------------------------------------------

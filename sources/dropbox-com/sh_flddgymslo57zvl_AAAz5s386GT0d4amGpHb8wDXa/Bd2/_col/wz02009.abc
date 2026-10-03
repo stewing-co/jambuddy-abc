@@ -1,0 +1,47 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Walzer  FBb
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.268 (wz02009) orig. F,Bb
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T:Überliefert vermutlich durch Joggi Stocker (1889-1956)
+%%MIDI program 21
+R:walzer
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"cA>B | c2.f | .a!>!g>f | "C7"e2.d | .d!>!G>A |1 B2e | .e!>!d>c | "F"c2A :|2 B2c | d/d/de | 
+"F"f3 |: [L:1/8] "C7"ba gf ed | "F"d3c AF | "C7"d3c BE | "F"d3c AF | "C7"ba gf ed | "F"d3c AF | "C7"ccd2e2 |1 
+"F"f4z2 :|2 "F"f4 d_e |: [K:Bb] "Bb"f6 | "G7"gf =ef gf | "Cm"e6 | c6 | "F"f6 | gf =ef gf | "Bb"d6 | 
+B6 | f6 | gf =ef gf | "Eb"g4g2 | c'4b2 | "F7"a3gf2 | f2g2a2 | "Bb"b3bb2 | b2z2z2 |] 
+% wz02009 (H 071/TN 7)
+
+X:2
+T:Walzer  CF 5-  (wz02009)
+%%MIDI program 21
+R:walzer
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+"C"GE>F | G2.c | .e!>!d>c | "G7"B2.A | .A!>!D>E |1 F2B | .B!>!A>G | "C"G2E :|2 F2G | A/2A/2AB | 
+"C"c3 |: [L:1/8] "G7"fe dc BA | "C"A3G EC | "G7"A3G FB, | "C"A3G EC | "G7"fe dc BA | "C"A3G EC | "G7"GGA2B2 |1 
+"C"c4z2 :|2 "C"c4 A_B |: [K:F] "F"c6 | "D7"dc =Bc dc | "Gm"B6 | G6 | "C"c6 | dc =Bc dc | "F"A6 | 
+F6 | c6 | dc =Bc dc | "Bb"d4d2 | g4f2 | "C7"e3dc2 | c2d2e2 | "F"f3ff2 | f2z2z2 |] 
+% wz02009
+
+X:3
+T:Walzer  GC 2+  (wz02009)
+%%MIDI program 21
+R:walzer
+M:3/4
+L:1/4
+K:G%%MIDI gchordon
+"G"dB>c | d2.g | .b!>!a>g | "D7"f2.e | .e!>!A>B |1 c2f | .f!>!e>d | "G"d2B :|2 c2d | e/2e/2ef | 
+"G"g3 |: [L:1/8] "D7"c'b ag fe | "G"e3d BG | "D7"e3d cF | "G"e3d BG | "D7"c'b ag fe | "G"e3d BG | "D7"dde2f2 |1 
+"G"g4z2 :|2 "G"g4 e=f |: [K:C] "C"g6 | "A7"ag ^fg ag | "Dm"f6 | d6 | "G"g6 | ag ^fg ag | "C"e6 | 
+c6 | g6 | ag ^fg ag | "F"a4a2 | d'4c'2 | "G7"b3ag2 | g2a2b2 | "C"c'3c'c'2 | c'2z2z2 |] 
+% wz02009
+% Sep 25, 2016

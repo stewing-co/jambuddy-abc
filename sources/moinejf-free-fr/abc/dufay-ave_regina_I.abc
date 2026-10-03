@@ -1,0 +1,113 @@
+% Ave_Regina_Coelorum.abc   -*- abc -*-
+%
+% Written for Jean-François Moine's abcm2ps, 
+% http://moinejf.free.fr, http://abcplus.sourceforge.net
+%
+% Edited by Guido Gonzato <ggonza@tin.it>, 14 May 2002
+% Process this file with: abcm2ps -O= -c Ave_Regina_Coelorum.abc
+%
+% Modified by Jean-François Moine (JFM) for keyboard
+%
+%%pagewidth      21cm
+%%pageheight     29.7cm
+%%topspace       0cm
+%%topmargin      1cm
+%%botmargin      0cm
+%%leftmargin     1cm
+%%rightmargin    1cm
+%%titlespace     0cm
+%%titlefont      Times-Bold 24
+%%subtitlefont   Times-Bold 16
+%%composerfont   Times 12
+%%vocalfont      Times-Roman 14
+%%gchordfont     Times-Italic 13
+%%staffsep       50pt
+%%sysstaffsep    30pt
+%%musicspace     0.2cm
+%%vocalspace     5pt
+%%measurebox     1
+%%measurenb      0
+%%scale          0.85
+X: 1
+T: Ave Regina Coelorum I
+C: Guillaume Dufay (1400 ca. - 1474)
+M: 3/4
+L: 1/4
+Q: 1/4 = 110
+%%MIDI program 73 % flute
+%%staves [1 2 3]
+V: 1 clef=treble name="Soprano" sname="S"
+V: 2 clef=treble name="Tenor" sname="T"
+V: 3 clef=bass   name="Bass"  sname="B" octave=-2
+% JFM - use "%%ss-pref K%" for keyboard
+%Kstaves {1 *2 3}
+%Kabc V:2 shift=cC
+%Kwritefields w 0
+%Kstaffsep       20pt
+%Ksysstaffsep    20pt
+K: C
+%
+% 1 - 5
+%
+[V: 1] (A3|B2)A|^G3|A2G|A B/A/ G/F/|
+w:     A__ ve re- gi- na * * coe -
+[V: 2] (D3|d3) |^c3|d2B|A2B        |
+w:     A_ ve re- gi- na coe-
+[V: 3] (a3|g2)f|e3 |d2e|f2e        |
+w:     A__ ve re- gi- na coe-
+%
+% 6 - 12
+%
+[V: 1] E/F/ D/ ^C B,/|D2z|E2A|(GF)E|(DF)G|A2G     |A2z|
+w:     lo - - - - rum, A- ve Do - mi- na * an- ge- lo- rum,
+[V: 2] (BA)^G        |A2z|c2c|d2A  |(Dd)c|(fe)d   |e3 |
+w:     lo - - rum, A- ve Do- mi na * an ge - lo- rum,
+[V: 3] (gf)e         |d2z|a2a|b2c' |d'2e'|(d'c')_b|a2z|
+w:     lo - - rum, A- ve Do- mi- na an- ge - lo- rum,
+%
+% 13 - 19
+%
+[V: 1] D3 |C2 _B,|A, _B,2|A,2z|DCD|E2F|D^C2|
+w:     Sal- ve ra- dix san- cta, Ex qua mun- do lux est or-
+[V: 2] zf2|F2G   |Dd2    |D2z |AGA|B2A|A^G2|
+w:     Sal- ve ra- dix san- cta, Ex qua mun- do lux est or-
+[V: 3] _b3|a2g   |fg2    |a2z |def|g2d|fe2 |
+w:     Sal- ve ra- dix san- cta, Ex qua mun- do lux est or-
+%
+% 20 - 26
+%
+[V: 1] D2z|F3 |E2D   |DE2  |D2z |AAG   |A2F|
+w:     ta. Gau- de glo- ri- o- sa su- per om- nes spe-
+[V: 2] A2z|D3 |A2D   |DA2  |D2z |ded   |c2c|
+w:     ta. Gau- de glo- ri- o- sa su- per om- nes spe-
+[V: 3] d2z|d'3|^c'2d'|b^c'2|d'2z|d'c'_b|a2a|
+w:     ta. Gau- de glo- ri- o- sa su- per om- nes spe-
+%
+% 27 - 32
+%
+[V: 1] ED2|E2z|A2G|F2E|(CF)E|F2z|
+w:     ci- o- sa, Va- le, val- de de - co- ra
+[V: 2] BA2|B2z|d2c|d2G|A2B  |c2z|
+w:     ci- o- sa, Va- le, val- de de- co- ra
+[V: 3] gf2|e2z|d2e|d2c|(fa)g|f2z|
+w:     ci- o- sa, Va- le, val- de de - co- ra
+%
+% 33 - 38
+%
+[V: 1] AAG|(FE)G|A3|_B/ A G/ F|E A/G/ F/E/|D A,/D/ ^C/B,/|
+w:     et pro no- bis_ sem- per Chri - - - stum__ ex - o - - - -
+[V: 2] ffd|c2d  |e3|fe/ d c/  |B2A        |(BA)^G        |
+w:     et pro no- bis sem- per Chri - - - stum ex- o - -
+[V: 3] ffg|a2_b|a3 |d3        |e2f        |(gf)e         |
+w:     et pro no- bis sem- per Chri- stum ex- o - -
+%
+% 39 - 46
+%
+[V: 1] D2z|E3    |F2G  |A2G     |A _B/A/ G/F/|(ED2)|(^C3|!fermata!D3)|]
+w:     ra. Al- le________ lu - ya._
+[V: 2] A2d|(cB)A |D2G  |D2d     |(ed)c       |B2A  |^G3 |!fermata!A3 |]
+w:     ra. Al___ le______ lu - ya._
+[V: 3] d2z|(ab)c'|d'2e'|(d'c')_b|a2a         |g2f  |e3  |!fermata!d3 |]
+w:     ra. Al__ le______ lu - ya._
+%
+% End of file Ave_Regina_Coelorum.abc.

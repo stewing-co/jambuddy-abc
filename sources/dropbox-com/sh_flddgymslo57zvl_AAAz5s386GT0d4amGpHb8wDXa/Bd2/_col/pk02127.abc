@@ -1,0 +1,75 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka FCBb (pk02127)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.325 (pk02127) orig. F,C,Bb
+T: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%partsbox
+P:ABAC
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+AB [P:A] |: "F"c2c2 cafd | c2c2a4 | a3g g3f | T"C7"f2e2 e2GA | B2B2 Bged | c2c2g4 | 
+fedc =Bcde |1 "F"f2a2 f2AB :|2 "F"f2a2 f2fg [P:B] [K:C] |: "G7"ag^fg d2=fg | "C"ag^fg c2=fg | "G7"b2b2 bagf | 
+"C"ag^fg e2=fg | "G7"ag^fg d2=fg | "C"ag^fg e2gc' | "G7"b3a gfed |1 "C"c2e2 c2fg :|2 "C"c2e2 c2"_>Teil A"z2 || 
+[P:C]  [K:Bb] F2 |("Bb"B4 B)dfb | g6f2 | dfcf BfdB | "F7"A6F2 | (A4A)cea | 
+g6f2 | efdf cfAc | "Bb"B2ba gfdF | (B4 B)dfb | g6f2 | =efef dfbf | 
+T"Eb"a2g2 g2cd | "F7"e2e2 agec | "Bb"d2d2 gfdB | "F7"ABcd eAfA |1 "Bb"B2b2 b2F2 :|2 "Bb"B2b2 b2z2 |] 
+W:Anmerkung H.C.: "Abschied von Airolo", Innerschwiizertänzli. Tschessi Krupski 26
+% pk02127  
+% Oct 30, 2016
+
+X:2
+T:Polka CGF 5- (pk02127)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.325 (pk02127) orig. F,C,Bb
+S:Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+EF |: "C"G2G2 GecA | G2G2e4 | e3d d3c | "G7"c2B2 B2DE | F2F2 FdBA | G2G2d4 | \
+cBAG ^FGAB |1
+ "C"c2e2 c2EF :|2 "C"c2e2 c2cd [K:G]|: "D7"ed^cd A2=cd | "G"ed^cd G2=cd | "D7"f2f2 fedc | \
+"G"ed^cd B2=cd |
+ "D7"ed^cd A2=cd | "G"ed^cd B2dg | "D7"f3e dcBA |1 "G"G2B2 G2cd :|2 "G"G2B2 G2"_>Teil A"z2 || \
+[K:F] C2 |("F"F4 F)Acf |
+ d6c2 | AcGc FcAF | "C7"E6C2 | (E4E)GBe | \
+d6c2 | BcAc GcEG | "F"F2fe dcAC | (F4 F)Acf |
+ d6c2 | =BcBc Acfc | \
+"Bb"e2d2 d2GA | "C7"B2B2 edBG | "F"A2A2 dcAF | "C7"EFGA BEcE |1 "F"F2f2 f2C2 :|2 "F"F2f2 f2z2 |] 
+W:Parts: ABAC
+% pk02127  
+% Oct 30, 2016
+
+X:3
+T:Polka DA&G (tinwhistle in D) solo
+T:pk02127 (Hanny Christen)
+%%MIDI program 72   % 111 / 74 / 79=whistle
+O:Switzerland
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+FG |: A2A2 AfdB | A2A2f4 | f3e e3d | d2c2 c2EF | G2G2 GecB | A2A2e4 | \
+dcBA ^GABc |1
+ d2f2 d2FG :|2 d2f2 d2de [K:Amaj]|: fe^de B2=de | fe^de A2=de | g2g2 gfed | \
+fe^de c2=de |
+ fe^de B2=de | fe^de c2ea | g3f edcB |1 A2c2 A2de :|2 A2c2 A2"_>Teil A"z2 || \
+[K:Gmaj] D2 |(G4 G)Bdg |
+ e6d2 | BdAd GdBG | F6D2 | (F4F)Acf | \
+e6d2 | cdBd AdFA | G2gf edBD | (G4 G)Bdg |
+ e6d2 | ^cdcd Bdgd | \
+f2e2 e2AB | c2c2 fecA | B2B2 edBG | FGAB cFdF |1 G2g2 g2D2 :|2 G2g2 g2z2 |]
+W:Parts: ABAC
+% pk02127  
+% Oct 30, 2016
+
+

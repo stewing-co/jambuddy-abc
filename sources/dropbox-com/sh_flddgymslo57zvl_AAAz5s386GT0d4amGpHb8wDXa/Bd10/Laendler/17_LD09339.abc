@@ -1,0 +1,50 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:L\"andler  GC
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.193 (LD09339) orig. G,C
+T: \"Uberliefert durch Lina Krupski-Herger (1946), Lehrer Leuthold (1945), Edy Lussy und Melk Rohrer (1949)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"GB Gd Bg | db gdB2 | "D7"Aa fd c2 | "G"Bb gdB2 | GB Gd Bg | db gdB2 | "D7"Aa fd cA | "G"G2z2z2 :| 
+|: "D7"c'2fd c'f | "G"gb dg Bd | "D7"dF Ad fa | "G"gb dg Bd | "D7"c'2fd c'f | "G"gb dg Bd | "D7"dF Ad fa | "G"g2z2z2 :| [K:C]
+|: {/e}"G7"f2 BG FD | "C"CE Gce2 | {/e}"G7"f2 Ba gB | "C"ce Gc EG | {/e}"G7"f2 BG FD | "C"CE Gc ee | "G7"f2 Ba gB | "C"c2z2z2 :| 
+% LD09339
+X:2
+T:L\"andler  GC (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"GB Gd Bg | db gdB2 | "D7"Aa fd c2 | "G"Bb gdB2 | GB Gd Bg | db gdB2 | "D7"Aa fd cA | "G"G2z2z2 :| 
+|: "D7"c'2fd c'f | "G"gb dg Bd | "D7"dF Ad fa | "G"gb dg Bd | "D7"c'2fd c'f | "G"gb dg Bd | "D7"dF Ad fa | "G"g2z2z2 :| [K:C]
+|: {/e}"G7"f2 BG FD | "C"CE Gce2 | {/e}"G7"f2 Ba gB | "C"ce Gc EG | {/e}"G7"f2 BG FD | "C"CE Gc ee | "G7"f2 Ba gB | "C"c2z2z2 :| 
+% LD09339
+X:3
+T:L\"andler A&D (tinwhistle in D)
+T:LD09339 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:A %%MIDI gchordon
+"A"Ac Ae ca | ec' aec2 | "E7"Bb ge d2 | "A"cc' aec2 | Ac Ae ca | ec' aec2 | "E7"Bb ge dB | "A"A2z2z2 :| 
+|: "E7"d'2ge d'g | "A"ac' ea ce | "E7"eG Be gb | "A"ac' ea ce | "E7"d'2ge d'g | "A"ac' ea ce | "E7"eG Be gb | "A"a2z2z2 :| [K:D]
+|: {/f}"A7"g2 cA GE | "D"DF Adf2 | {/f}"A7"g2 cb ac | "D"df Ad FA | {/f}"A7"g2 cA GE | "D"DF Ad ff | "A7"g2 cb ac | "D"d2z2z2 :| 
+X:4
+T:L\"andler D (tinwhistle in D) var. solo
+T:LD09339 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:D transpose=12
+DF DA Fd | Af dAF2 | Ee cA G2 | Ff dAF2 | DF DA Fd | Af dAF2 | Ee cA GE | D2z2z2 :| 
+|: g2cA gc | df Ad FA | A"_=C"G EA ce | df Ad FA | g2cA gc | df Ad FA | A"_=C"C EA ce | d2z2z2 :| 
+|: {/f}g2 cA GE | DF Adf2 | {/f}g2 cb ac | df Ad FA | {/f}g2 cA GE | DF Ad ff | g2 cb ac | d2z2z2 :|
+% Sep. 1, 2016

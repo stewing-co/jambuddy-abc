@@ -1,0 +1,58 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Schottisch  FCBb  (ABAC)
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.207 (st09370) orig. F,C,Bb
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+%%partsbox
+P:ABAC
+R:shottische
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A] "F"aa "G7"gg | "F"fc c/d/c | "Bb"dd "C7"ee | "F"f>c' "C7"c'>b | "F"aa "C7"gg | "F"fc c/d/c | "Bb"dd/f/ "C7"ee/g/ | "F"fa fz :: [P:B] [K:C] "C"e^d/e/ "G7"fe/f/ | 
+"C"g^f/g/ e'e' | "G7"z^f/g/ d'd' | "C"ze/g/ c'c' | e^d/e/ "G7"fe/f/ | "C"g^f/g/ e'e' | "G7"z^f/g/ d'd' | "C"c'e' c'"_>Teil A"z :| [P:C] [K:Bb] 
+|: "Bb"d3g/f/ | "Eb"ee zc'/b/ | "F7"aa ga | "Bb"bb "F7"ff | "Bb"d3g/f/ | "Eb"ee zc'/b/ | "F7"aa ga | "Bb"bd' bz :| 
+W:
+W:Anmerkung H.C.: Einsiedeln ... Kerns ... Zug ... Schwyz ... Baselbiet
+% st09370 (H 337/TN 3)
+X:2
+T:Schottisch  CGF 5-
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"ee "D7"dd | "C"cG G/2A/2G | "F"AA "G7"BB | "C"c>g "G7"g>f | "C"ee "G7"dd | "C"cG G/2A/2G | "F"AA/2c/2 "G7"BB/2d/2 | "C"ce cz :: [K:G] "G"B^A/2B/2 "D7"cB/2c/2 | 
+"G"d^c/2d/2 bb | "D7"z^c/2d/2 aa | "G"zB/2d/2 gg | B^A/2B/2 "D7"cB/2c/2 | "G"d^c/2d/2 bb | "D7"z^c/2d/2 aa | "G"gb g"_>Teil A"z :| [K:F] 
+|: "F"A3d/2c/2 | "Bb"BB zg/2f/2 | "C7"ee de | "F"ff "C7"cc | "F"A3d/2c/2 | "Bb"BB zg/2f/2 | "C7"ee de | "F"fa fz :| 
+W:Parts: ABAC
+% st09370
+X:3
+T:Schottisch  CGF  (5letras transposed)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"ee "D7"dd | "C"cG G/2A/2G | "F"AA "G7"BB | "C"c>g "G7"g>f | "C"ee "G7"dd | "C"cG G/2A/2G | "F"AA/2c/2 "G7"BB/2d/2 | "C"ce cz :: [K:G] "G"B^A/2B/2 "D7"cB/2c/2 | 
+"G"d^c/2d/2 bb | "D7"z^c/2d/2 aa | "G"zB/2d/2 gg | B^A/2B/2 "D7"cB/2c/2 | "G"d^c/2d/2 bb | "D7"z^c/2d/2 aa | "G"gb g"_>Teil A"z :| [K:F] 
+|: "F"A3d/2c/2 | "Bb"BB zg/2f/2 | "C7"ee de | "F"ff "C7"cc | "F"A3d/2c/2 | "Bb"BB zg/2f/2 | "C7"ee de | "F"fa fz :| 
+W:Parts: ABAC
+% st09370
+X:4
+T:Schottisch D&G (tinwhistle in D) var. solo
+T:st09370 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottische
+M:2/4
+L:1/8
+K:D transpose=12
+ff ee | dA A/2B/2A | BB cc | d>a a>g | ff ee | dA A/2B/2A | BB/2d/2 cc/2e/2 | df dz :: F^E/2F/2 GF/2G/2 | 
+A^G/2A/2 ff | z^G/2A/2 ee | zF/2A/2 dd | F^E/2F/2 GF/2G/2 | A^G/2A/2 ff | z^G/2A/2 ee | df d"_>Teil A"z :| [K:G] 
+|: B3e/2d/2 | cc za/2g/2 | ff ef | gg dd | B3e/2d/2 | cc za/2g/2 | ff ef | gb gz :|
+W:Parts: ABAC
+% st09370
+% Sep. 17, 2016

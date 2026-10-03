@@ -1,0 +1,23 @@
+X:2
+T:Apley House
+O:England
+M:C
+L:1/8
+Q:1/8=400
+K:G
+%%MIDI gchord off
+V:1
+V:2
+V:3 clef=bass octave=-2
+V:1
+"G"B2G2 Bcd2 | "Am"e2c2 A2c2 | "G"B2G2 g2G2 | "G"B4 d4 :: 
+"D"f2a2 bagf | "A"e2g2 g2fe | "D"f2a2 "G"bagf | "A"e4 "D"d4 :: 
+"C"e2c2 cdec | "G"d2B2 BcdB | "G"g2G2 G2"D"A2 | "G" B4 d4 :|
+V:2
+G4 GAB2|c2A2F2A2|G4E4|D2G2B4::
+d2f2 gfed|^c2A2B2c2|d2f2gfed|^cBAGF4::
+c2G2E2G2|B2G2D4|D4E2F2|G4B4:|
+V:3
+G4d2B2|A4d4|G4c4|g4G4::
+d2d2d4|A2A2A4|d4G2B2|A2^c2d4::
+c2e2g4|G2d2g4|B4c2A2|G4g4:|

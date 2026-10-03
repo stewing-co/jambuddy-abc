@@ -1,0 +1,67 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Engadiner Marsch (Schottisch)  FBb (st02283)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.341 (st02283) orig. F,Bb
+T: Bündner und Engadiner Tänze. S.330-349. Überliefert durch Giacomin Morell, Ardez.
+O:Switzerland
+%%MIDI program 21
+R:schottisch
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c/c/ | "F"c>d d>e | ef zg | "C7"f>e eb | b2zB/B/ | B>c c>d | de zd | "F"d>c ca | 
+a2 zc/c/ | c>d d>e | ef zg | "C"f>e eg | g3g | "G7"Pag Pag | Pfe Pdc | =B/c/d/e/ f/g/a/=b/ | 
+"C"c'c'/c'/ c'z |: "Gm".d2 d>d | "C7"b2 b>b | "F"a4 | za gf | "C7"e2B2 | e2d2 | "F"c4 | zc =Bc | 
+"Gm"d2d2 | "C7"b2b2 | "F"a4 | zf ed | "C7"cd/c/ =Bc | a3g | "F".f2 f>f |1 .f(c =Bc) :|2 .f2 z((3f/g/a/) | 
+"Bb".b2.b2 | .b2 f>e || [K:Bb] "Bb".f2 f>=e  | .g2 f>=e | f4 | z^f ga | b2a2 | g2d2 | ("F7"e4 | 
+e2) e>d  | e2 a>g | a2 g>^f | (g4 | g).f .=e.f | a2g2 | f2e2 | ("Bb"d4 | d2) f>=e | 
+.f2 f>=e | .g2 f>=e | f4 | z^f ga | b2a2 | "G7"g2d2 | ("Cm"g4 | g).g .^f.g | 
+d'>c' c'2 | z.g .^f.g | "Bb"c'>b b2 | z.b .a.g | "F7"fF Ae | d3c | "Bb"B2 b>b | b2z2 |] 
+W:
+W:Anmerkung H.C.: Heft Cla Genua, Sent 1924
+% st02283  (Nov 10, 2016)
+
+X:2
+T:Engadiner Marsch (Schottisch)  CF 5- (st02283)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.341 (st02283) orig. F,Bb
+S:Bündner und Engadiner Tänze. S.330-349. Überliefert durch Giacomin Morell, Ardez.
+O:Switzerland
+%%MIDI program 21
+R:schottisch
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G/2G/2 | "C"G>A A>B | Bc zd | "G7"c>B Bf | f2zF/2F/2 | F>G G>A | AB zA | "C"A>G Ge | 
+e2 zG/2G/2 | G>A A>B | Bc zd | "G"c>B Bd | d3d | "D7"Ped Ped | PcB PAG | ^F/2G/2A/2B/2 c/2d/2e/2^f/2 | 
+"G"gg/2g/2 gz |: "Dm".A2 A>A | "G7"f2 f>f | "C"e4 | ze dc | "G7"B2F2 | B2A2 | "C"G4 | zG ^FG | 
+"Dm"A2A2 | "G7"f2f2 | "C"e4 | zc BA | "G7"GA/2G/2 ^FG | e3d | "C".c2 c>c |1 .c(G ^FG) :|2 .c2 z((3c/2d/2e/2) | 
+"F".f2.f2 | .f2 c>B || [K:Fmaj] "F".c2 c>=B | .d2 c>=B | c4 | z^c de | f2e2 | d2A2 | ("C7"B4 | 
+B2) B>A | B2 e>d | e2 d>^c | (d4 | d).c .=B.c | e2d2 | c2B2 | ("F"A4 | A2) c>=B | 
+.c2 c>=B | .d2 c>=B | c4 | z^c de | f2e2 | "D7"d2A2 | ("Gm"d4 | d).d .^c.d | 
+a>g g2 | z.d .^c.d | "F"g>f f2 | z.f .e.d | "C7"cC EB | A3G | "F"F2 f>f | f2z2 |] 
+% st02283  (Nov 10, 2016)
+
+X:3
+T:Engadiner Marsch (Schottisch)  GC 2+ (st02283)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.341 (st02283) orig. F,Bb
+S:Bündner und Engadiner Tänze. S.330-349. Überliefert durch Giacomin Morell, Ardez.
+O:Switzerland
+%%MIDI program 21
+R:schottisch
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+d/2d/2 | "G"d>e e>f | fg za | "D7"g>f fc' | c'2zc/2c/2 | c>d d>e | ef ze | "G"e>d db | 
+b2 zd/2d/2 | d>e e>f | fg za | "D"g>f fa | a3a | "A7"Pba Pba | Pgf Ped | ^c/2d/2e/2f/2 g/2a/2b/2^c'/2 | 
+"D"d'd'/2d'/2 d'z |: "Am".e2 e>e | "D7"c'2 c'>c' | "G"b4 | zb ag | "D7"f2c2 | f2e2 | "G"d4 | zd ^cd | 
+"Am"e2e2 | "D7"c'2c'2 | "G"b4 | zg fe | "D7"de/2d/2 ^cd | b3a | "G".g2 g>g |1 .g(d ^cd) :|2 .g2 z((3g/2a/2b/2) | 
+"C".c'2.c'2 | .c'2 g>f || [K:Cmaj] "C".g2 g>^f | .a2 g>^f | g4 | z^g ab | c'2b2 | a2e2 | ("G7"f4 | 
+f2) f>e | f2 b>a | b2 a>^g | (a4 | a).g .^f.g | b2a2 | g2f2 | ("C"e4 | e2) g>^f | 
+.g2 g>^f | .a2 g>^f | g4 | z^g ab | c'2b2 | "A7"a2e2 | ("Dm"a4 | a).a .^g.a | 
+e'>d' d'2 | z.a .^g.a | "C"d'>c' c'2 | z.c' .b.a | "G7"gG Bf | e3d | "C"c2 c'>c' | c'2z2 |] 
+% st02283  (Nov 10, 2016)
+
+

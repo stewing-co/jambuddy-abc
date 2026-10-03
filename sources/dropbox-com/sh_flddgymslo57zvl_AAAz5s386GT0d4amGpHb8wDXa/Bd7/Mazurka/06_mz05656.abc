@@ -1,0 +1,53 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T:  Mazurka GDC  chords
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.136 (mz05656) orig. G,D,C-Dur
+T: Repertoire der Roesti-Musik (Bern) S.124ff
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G".b2.d2.g2 | "D7"f>e f2d2 | .c'2.e2.f2 | "G"g>a b2d2 | .b2.d2.g2 | "D7"f>e f2d2 | .c'2.e2.f2 | "G".g2g2z2 :| [K:D] 
+"A7"b>a e4 | "D"b>a f4 | "A7".g2.B2.c2 | "D"d>e f>g a2 | "A7"b>a e4 | "D"b>a f4 | "A7".g2.B2.c2 | "D".d2d2"_> Teil A"z2 :| [K:C]
+|: "C"g2 gg gg | .g2.e2.f2 | g2a3e | "G7"g2 f>e d2 | b2 bb bb | b2a2g2 | b2a3b | "C"d'2 c'>ag2 | 
+g2 gg gg | g2e2f2 | g2a3e | "G7"g2f>ed2 | d'2 d'd' d'd' | d'2d'3c' | (b2a2)b2 | "C".c'2c'2z2 :| 
+|: "Am"c>B A>c B>A | "E7"^G>B e4 | "Am"A>^G A>B c>d | "E7".e2+>+e4 | "D7"c>B A>c B>A | "G"G>B d4 | "D7"(d2e2^f2) | "G"g2g2g2 | 
+"G7"(f2e2d2) | "C".a2g4 | "G7"(c'2b>)ab2 | "C"d'2c'>ag2 | "G7"(f2e2d2) | "C".a2g4 | "G7"c'2 b>a g>b | "C".c'2c'2z2 :| 
+
+X: 2
+T:  Mazurka GDC  chords Parts
+M:3/4
+L:1/8
+P:ABACD
+K:G %%MIDI gchordon
+[P:A] "G".b2.d2.g2 | "D7"f>e f2d2 | .c'2.e2.f2 | "G"g>a b2d2 | .b2.d2.g2 | "D7"f>e f2d2 | .c'2.e2.f2 | "G".g2g2z2 :| [K:D] 
+[P:B] |: "A7"b>a e4 | "D"b>a f4 | "A7".g2.B2.c2 | "D"d>e f>g a2 | "A7"b>a e4 | "D"b>a f4 | "A7".g2.B2.c2 | "D".d2d2"_> Teil A"z2 :| [K:C]
+[P:C] |: "C"g2 gg gg | .g2.e2.f2 | g2a3e | "G7"g2 f>e d2 | b2 bb bb | b2a2g2 | b2a3b | "C"d'2 c'>ag2 | 
+g2 gg gg | g2e2f2 | g2a3e | "G7"g2f>ed2 | d'2 d'd' d'd' | d'2d'3c' | (b2a2)b2 | "C".c'2c'2z2 :| 
+[P:D] |: "Am"c>B A>c B>A | "E7"^G>B e4 | "Am"A>^G A>B c>d | "E7".e2+>+e4 | "D7"c>B A>c B>A | "G"G>B d4 | "D7"(d2e2^f2) | "G"g2g2g2 | 
+"G7"(f2e2d2) | "C".a2g4 | "G7"(c'2b>)ab2 | "C"d'2c'>ag2 | "G7"(f2e2d2) | "C".a2g4 | "G7"c'2 b>a g>b | "C".c'2c'2z2 :| 
+
+X:3
+T:Mazurka CGF 7-  chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C".e2.G2.c2 | "G7"B>A B2G2 | .f2.A2.B2 | "C"c>d e2G2 | .e2.G2.c2 | "G7"B>A B2G2 | .f2.A2.B2 | "C".c2c2z2 :| [K:Gmaj] 
+"D7"e>d A4 | "G"e>d B4 | "D7".c2.E2.F2 | "G"G>A B>c d2 | "D7"e>d A4 | "G"e>d B4 | "D7".c2.E2.F2 | "G".G2G2"_> Teil A"z2 :| [K:Fmaj]
+|: "F"c2 cc cc | .c2.A2.B2 | c2d3A | "C7"c2 B>A G2 | e2 ee ee | e2d2c2 | e2d3e | "F"g2 f>dc2 | 
+c2 cc cc | c2A2B2 | c2d3A | "C7"c2B>AG2 | g2 gg gg | g2g3f | (e2d2)e2 | "F".f2f2z2 :| 
+|: "Dm"F>E D>F E>D | "A7"^C>E A4 | "Dm"D>^C D>E F>G | "A7".A2!>!A4 | "G7"F>E D>F E>D | "C"C>E G4 | "G7"(G2A2=B2) | "C"c2c2c2 | 
+"C7"(B2A2G2) | "F".d2c4 | "C7"(f2e>)de2 | "F"g2f>dc2 | "C7"(B2A2G2) | "F".d2c4 | "C7"f2 e>d c>e | "F".f2f2z2 :| 
+
+X:4
+T:Mazurka CGF 7-  chords Parts
+M:3/4
+L:1/8
+P:ABACD
+K:Cmaj%%MIDI gchordon
+[P:A] "C".e2.G2.c2 | "G7"B>A B2G2 | .f2.A2.B2 | "C"c>d e2G2 | .e2.G2.c2 | "G7"B>A B2G2 | .f2.A2.B2 | "C".c2c2z2 :| [K:Gmaj] 
+[P:B] |: "D7"e>d A4 | "G"e>d B4 | "D7".c2.E2.F2 | "G"G>A B>c d2 | "D7"e>d A4 | "G"e>d B4 | "D7".c2.E2.F2 | "G".G2G2"_> Teil A"z2 :| [K:Fmaj]
+[P:C] |: "F"c2 cc cc | .c2.A2.B2 | c2d3A | "C7"c2 B>A G2 | e2 ee ee | e2d2c2 | e2d3e | "F"g2 f>dc2 | 
+c2 cc cc | c2A2B2 | c2d3A | "C7"c2B>AG2 | g2 gg gg | g2g3f | (e2d2)e2 | "F".f2f2z2 :| 
+[P:D] |: "Dm"F>E D>F E>D | "A7"^C>E A4 | "Dm"D>^C D>E F>G | "A7".A2!>!A4 | "G7"F>E D>F E>D | "C"C>E G4 | "G7"(G2A2=B2) | "C"c2c2c2 | 
+"C7"(B2A2G2) | "F".d2c4 | "C7"(f2e>)de2 | "F"g2f>dc2 | "C7"(B2A2G2) | "F".d2c4 | "C7"f2 e>d c>e | "F".f2f2z2 :| 

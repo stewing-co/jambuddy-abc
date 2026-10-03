@@ -1,0 +1,24 @@
+X:2902
+T:[Demetrio]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 2 clef=alto name="Corno II" sname="Cor. II"
+%%MIDI program 1 69
+%%staves [( 2 )]
+%------------------
+[Q:"Allegro assai"] [K:C] Z18 || [Q:"Adagio"] "^Dre"  \
+%
+% https://hornmatters.com/PDF/French-Horn-Transposition-Reference-Chart.pdf
+%
+D, D/2D/2 F F/2>E/2 | E A,/2D/2 E E/2>D/2 | D z z2 | D,4 | F,/2D/2E/2F/2 G/2F/2E/2D/2 | A,A,A,z | Z |\
+z D, D,z | D,4- | D,2 z2 | Z | z F/2E/2 D D/2A,/2 | F, F,/2>F,/2 F, z | Z4 | \
+"_[NB: interpreting '//' as 'the same as above']" !p! E4 | E4- | E4- | E4 | EEEz | Z6 | z A,A, !fermata! z || \
+[Q:"Allegro"] D2 A,2 | DEDA, | F,zz2 | Z | D,4 | D,zz2 | Z | D,2D,z | Z2 | zDA,F, | D,F,F,z | Z | \
+z/E/E/E/ E z | Z | z/E/E/E/ E z | Z | E2E2- | E4 | EEE !fermata! z | Z6 | \
+A,4- | A,4- | A,4- | A,4- | A,4- | A,4- | A,2 !fermata!z2 | !p! D,4 | z/F/F/D/ z/ E/E/A,/ | F,zz2 | \
+zDDz | Z2 | D2 A,2 | F,2 z2 | A,2 z2 | A,2 !fermata!z2 | A,2 !fermata!z2 |  D,4- | D,4 | \
+z/F/F/D/ z/E/E/A,/ | F,zz2 | zDDz | Z2 | D2 A,2 | F,z z2 | Z | D2 A,2 | F,z z2 | Z2 | \
+D2 A,2 | F,2z2 | D2 A,2 | F,/D/ D A,2 | DEDC | F,F,F,F,/>F,/ | F,zz2 |]
+%------------------

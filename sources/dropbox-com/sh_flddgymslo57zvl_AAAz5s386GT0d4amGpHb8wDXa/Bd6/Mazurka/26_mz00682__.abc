@@ -1,0 +1,121 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Waldv\"ogeli Mazurka (nach Xander Murmann)  FCBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.269 (mz00682) orig. F,C,Bb-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"c>BA2d>c | "C7"B2G2G2 | B2E2E2 | "F"G2F2F2 | c>BA2d>c | "C7"B2G2G2 | 
+B2E2EG | "F"F2F2z2 :: [K:C] "G7"G>G GG AB | "C"cde2e2 | "G7"efd2d2 | 
+"C"^dec2c2 | "G7"G>G GG AB | "C"c>de2e2 | "G7"ef dG AB | "C"c2c2"_>Teil A"z2 :: [K:Bb] [L:1/4]
+"Bb"dFF | G2F | dFF | "Cm"A2G | eGG | 
+"F7"B2A |1 d2c | "Bb"c2B :|2 dc>A | "Bb"BBz |] 
+W: Parts: ABAC
+X:2
+T:Waldv\"ogeli Mazurka (nach Xander Murmann)  CGF 7+
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"g>fe2a>g | "G7"f2d2d2 | f2B2B2 | "C"d2c2c2 | g>fe2a>g | "G7"f2d2d2 | \
+f2B2Bd | "C"c2c2z2 :: [K:G]
+"D7"d>d dd ef | "G"gab2b2 | "D7"bc'a2a2 | \
+"G"^abg2g2 | "D7"d>d dd ef | "G"g>ab2b2 | "D7"bc' ad ef |
+"G"g2g2"_>Teil A"z2 :: [K:F] [L:1/4] \
+"F"acc | d2c | acc | "Gm"e2d | bdd | \
+"C7"f2e |1 a2g | "F"g2f :|2 ag>e | "F"ffz |] 
+W:Parts: ABAC
+% mz00682
+X:3
+T:Waldv\"ogeli Mazurka (nach Xander Murmann)  CGF 5-
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"G>FE2A>G | "G7"F2D2D2 | F2B,2B,2 | "C"D2C2C2 | G>FE2A>G | "G7"F2D2D2 | \
+F2B,2B,D | "C"C2C2z2 :: [K:G]
+ "D7"D>D DD EF | "G"GAB2B2 | "D7"BcA2A2 | \
+"G"^ABG2G2 | "D7"D>D DD EF | "G"G>AB2B2 | "D7"Bc AD EF |
+ "G"G2G2"_>Teil A"z2 :: [K:F] [L:1/4] \
+"F"ACC | D2C | ACC | "Gm"E2D | BDD | \
+"C7"F2E |1 A2G | "F"G2F :|2 AG>E | "F"FFz |] 
+W:Parts: ABAC
+% mz00682
+X:4
+T:Waldv\"ogeli Mazurka (nach Xander Murmann)  CGF (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"g>fe2a>g | "G7"f2d2d2 | f2B2B2 | "C"d2c2c2 | g>fe2a>g | "G7"f2d2d2 | \
+f2B2Bd | "C"c2c2z2 :: [K:G]
+"D7"d>d dd ef | "G"gab2b2 | "D7"bc'a2a2 | \
+"G"^abg2g2 | "D7"d>d dd ef | "G"g>ab2b2 | "D7"bc' ad ef |
+"G"g2g2"_>Teil A"z2 :: [K:F] [L:1/4] \
+"F"acc | d2c | acc | "Gm"e2d | bdd | \
+"C7"f2e |1 a2g | "F"g2f :|2 ag>e | "F"ffz |] 
+W:Parts: ABAC
+% mz00682
+X:5
+T:Waldv\"ogeli Mazurka (nach Xander Murmann)  CGF (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"G>FE2A>G | "G7"F2D2D2 | F2B,2B,2 | "C"D2C2C2 | G>FE2A>G | "G7"F2D2D2 | \
+F2B,2B,D | "C"C2C2z2 :: [K:G]
+ "D7"D>D DD "_e"E"_#"F | "G"GAB2B2 | "D7"BcA2A2 | \
+"G"^ABG2G2 | "D7"D>D DD EF | "G"G>AB2B2 | "D7"Bc AD EF |
+ "G"G2G2"_>Teil A"z2 :: [K:F] [L:1/4] \
+"F"ACC | D2C | ACC | "Gm"E2D | BDD | \
+"C7"F2E |1 A2G | "F"G2F :|2 AG>E | "F"FFz |] 
+W:Parts: ABAC
+% mz00682
+X:6
+T:Waldv\"ogeli Mazurka (nach Xander Murmann) GD&C (tinwhistle in D) solo
+T:mz00682 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:G transpose=12
+d>"_c"cB2e>d | c2A2A2 | "_c"c2F2F2 | A2G2G2 | d>cB2e>d | c2A2A2 | \
+c2F2FA | G2G2z2 :: [K:D]
+A>A AA Bc | def2f2 | fge2e2 | \
+^efd2d2 | A>A AA Bc | d>ef2f2 | fg eA Bc |
+d2d2"_>Teil A"z2 :: [K:C] [L:1/4] \
+eGG | A2G | eGG | B2A | "_f"fAA | \
+c2B |1 e2d | d2c :|2 ed>B | ccz |]
+W:Parts: ABAC
+X:7
+T:Waldv\"ogeli Mazurka (nach Xander Murmann) DA&G (tinwhistle in D) solo
+T:mz00682 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+A>GF2B>A | G2E2E2 | G2C2C2 | E2D2D2 | A>GF2B>A | G2E2E2 | \
+G2C2CE | D2D2z2 :: [K:A]
+E>E EE F"_#"G | ABc2c2 | cdB2B2 | \
+"_c"^BcA2A2 | E>E EE F"_#"G | A>Bc2c2 | cd BE F"_#"G |
+A2A2"_>Teil A"z2 :: [K:G] [L:1/4] \
+BDD | E2D | BDD | F2E | "_c"cEE | \
+G2F |1 B2A | A2G :|2 BA>F | GGz |]
+W:Parts: ABAC
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 8, 2016
+

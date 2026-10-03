@@ -1,0 +1,33 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Mazurka GDC chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.414 (mz11544) orig. G,D,C-Dur
+T: T\"anze aus Altdorf (Uri)
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"d'2bg dB | G>ed2d2 | "D7"e>da2d2 | "G"e>db2g2 | d'2bg dB | G>ed2d2 | "A7"A>gf2e2 | "D"d2d2z2 :: [K:D]
+"A7"A2A>c e>g | "D"f>e d2d'2 | "A7"c'>ba2a2 | "D"b>af2d2 | "A7"A2A>c e>g | "D"f>e d2d'2 | "A7"c'>b a>g f>e | "D"d2d2z2 :: [K:G]
+"G"dee2e2 | edd2d2 | "D7"baa2a2 | "G"agg2g2 | fee2e2 | edd2d2 | "D7"baa2ba | "G"g2g2z2 :: [K:C] "C"g2ag ec | 
+"G7"B>dg2g2 | g2ag fd | "C"c>eg2g2 | c'3g ec | "Dm"d>fa2a2 |1 "G7"B>dg2g2 | "C"ceg4 :|2 "G7"gb ag fd | "C"c2c'2z2 |] 
+
+X:2
+T:Mazurka CGF 7- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"g2ec GE | C>AG2G2 | "G7"A>Gd2G2 | "C"A>Ge2c2 | g2ec GE | C>AG2G2 | "D7"D>cB2A2 | "G"G2G2z2 :: [K:Gmaj]
+"D7"D2D>F A>c | "G"B>A G2g2 | "D7"f>ed2d2 | "G"e>dB2G2 | "D7"D2D>F A>c | "G"B>A G2g2 | "D7"f>e d>c B>A | "G"G2G2z2 :: [K:Cmaj]
+"C"GAA2A2 | AGG2G2 | "G7"edd2d2 | "C"dcc2c2 | BAA2A2 | AGG2G2 | "G7"edd2ed | "C"c2c2z2 :: [K:Fmaj] "F"c2dc AF | 
+"C7"E>Gc2c2 | c2dc BG | "F"F>Ac2c2 | f3c AF | "Gm"G>Bd2d2 |1 "C7"E>Gc2c2 | "F"FAc4 :|2 "C7"ce dc BG | "F"F2f2z2 |] 
+
+X:3
+T:Mazurka CGF 7- chords Anm
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"g2ec GE | C>AG2"_ ="G2 | "G7"A>"_g"G"_d"d2G2 | "C"A>Ge2c2 | g2ec GE | C>AG2G2 | "D7""_d"D>c"_h"B2"_ a ="A2 | "G"G2G2z2 :: [K:Gmaj]
+"D7"D2D>"_#"F "_a"A>"_c"c | "G"B>A G2g2 | "D7""_#"f>"_e"ed2"_ ="d2 | "G"e>dB2G2 | "D7"D2D>F A>c | "G"B>A G2g2 | "D7"f>e "_d"d>c "_h"B>"_ a ="A | "G"G2G2z2 :: [K:Cmaj]
+"C"GAA2A2 | AGG2G2 | "G7"edd2d2 | "C"dcc2c2 | BAA2A2 | AGG2G2 | "G7"edd2ed | "C"c2c2z2 :: [K:Fmaj] "F"c2dc AF | 
+"C7"E>Gc2c2 | c2"_d"dc "_b"B"_ g ="G | "F"F>Ac2c2 | f3c A"_ ="F | "Gm""_g"G>"_b"B"_d"d2d2 |1 "C7"E>Gc2c2 | "F"FAc4 :|2 "C7"ce dc "_b"B"_  ="G | "F"F2f2z2 |] 

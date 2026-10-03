@@ -1,0 +1,27 @@
+X:108
+T:I. Allegro assai
+C:Almeida, Francisco A. de (c.1702-?1755)
+M:2/4
+L:1/4
+K:F
+V: 8 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 8 ]
+%--------------------
+[Q:"Allegro Assai"] \
+z | F,C,| F,z | A,G, | F,z | F,,F,| E,z | C,E,|D,z | =B,,G,,|C,D,| E,F, | C,C,| C,C,| \
+C,z | F,z | G,z | G,,z | C,G,, |C,G,, | C,3/2z//F,// | G,G,, | C,z | C,G,, | \
+C,z | C,G,, | C,z | F,C,|F,z| F,C,|F,z | F,A,| B,D | E,G,|A,C | D,F,|G,B, | \
+C,E, | F,F, | A,B, | F,F, |  F,F, | F,z | B,,z | C,z | C,E, | F,C, | F,C, | F,3/2z//B,// | \
+C C, | F,z | D,A,, | D,z |D,A,, | D,z | B,,F,, |B,,z |  B,,F,, | B,,z | G,D, | G,z | G,D, | \
+G,z | C,G,, |C,z | C,G,, | C,E, | F,A, | =B,,D, | E,G, | A,,C, | D,F, | G,,=B,,| C,z | C,z| B,,^F,, | G,,A,,| B,,G,, | \
+C_E|F,A,|B,D|_E,G,|A,C|D,^F,|G,z|G,,B,,|C,A,,|D,D,,|G,,z|G,D,|G,z|B,A,|G,z| \
+F,C,|F,z|A,G,|F,z|F,,F,|!fermata!E,z | C,E,|D,z|=B,,G,,|C,D,|E,F,| C,C,|C,C,|C,z|F,z| \
+D,F,|G,z|G,G,|G,G,|F,=B,|Cz|C,E,|F,/>F,/F,/>F,/|F,z|F,,2-|F,,2-|F,,2-|F,,2|B,,D,/B,,/ | \
+G,,2-| G,,2-| G,,2-| G,,2 | C,E,/C,/ |A,,2-|A,,2-|A,,2-|A,,2 | D,F,/D,/ | G,,2-| G,,2-| G,,2-| G,,2 | \
+C,/D,/E,/D,/ | C,2-|C,2-|C,2-|C,2|F,z|F,A,|B,z|G,B,|Cz|C,z| \
+C,z|CC,|F,z|F,F,|F,F,|F,3/2z//B,// | CC,| F,3/2z//B,// | CC, | F,z || \
+[M:C] =B,,/>B,,/B,,/>B,,/ B,,3/2z//B,,// | _B,,/>B,,/B,,/>B,,/ _A,,3/2z//A,,// | \
+G,,/>G,,/G,,/>G,,/ ^F,,3/2z//F,,// | _F,/>F,/F,/>F,/ _E,3/2z//E,// | \
+_E,/>E,/E,/>E,/ _D,3/2z//D,// | _D,/>D,/D,/>D,/ C,=B,, | C,=B,,C,"_Volti"z |] \
+%--------------------

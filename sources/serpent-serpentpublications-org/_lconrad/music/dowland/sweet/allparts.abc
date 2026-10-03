@@ -1,0 +1,183 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:II. Sweet stay a while,
+T:To my worthy friend Mr. William Jewel of Exceter Colledge in Oxford.
+T:CANTUS.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+N:Original clef, C on first line
+K:A min
+c6 A4 A2 ^F6 | z E A2 ^G2 | 
+w: Sweet stay a while, why will you 
+w: Deare let me dye in this faire 
+M:C
+L:1/4
+A2
+w:rise?
+w:breast,
+z B c > d B z/ c/ | A B/ A/ ^G2 |
+w: The light you see comes from your _ eyes:
+w: Farre sweet- er than the Phoe- nix _ nest.
+z2 z A2 G2 F | E > e d > d | c2
+w: The day breakes not, it is my heart, 
+w: Love raise de- sire by his sweete charmes
+z2 z A d > c | B c B > B A4 
+w: To thinke that you and I must part.
+w: With- in this cir- cle of thine armes:
+|: z2 z d4 c | z2 z e2 d/ A/ c > c | B G/ B ^F/ ^F3/4 ^E// | E4 
+w: O stay, O stay, or else my joyes, my joyes, my joyes must dye,
+w: And let, and let,  thy blisse- full kiss- es, kiss- es cher-  _ ish
+z c E > ^F | ^G2 A A2 ^G/ F/ ^G2 HA4 :|
+w: And pe- rish in their in- fan- * * cie.
+w: Mine in- fant joyes, that else must * per- ish.
+
+
+X:2
+T:II. Sweet stay a while,
+T:ALTUS.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+N:Original clef, C on third line
+K:A min
+E6 F4 D2 E6 G2 F2 E2
+w: Sweet stay a while, why will you 
+w: Deare let me dye in this faire 
+M:C
+L:1/4
+E2
+w: rise?
+w: breast,
+z ^G A > A G G F F E2
+w: The light you see comes from your eyes:
+w: Farre sweet- er than the Phoe- nix nest.
+E3 F2 E2 D/ C/ B,G A G/ F/ E4
+w: The day breakes, breakes * not, it is my * heart, 
+w: Love raise, raise de- * sire by his sweete * charmes
+z z/ C/ F > E E > E D B, ^C4
+w: To thinke that you and I must part.
+w: With- in this cir- cle of thine armes:
+|:D > C B, A, ^G,2 A,3 ^G,/ ^F,/ G,2 A, E A E/ F/ G E2 ^D z B, C A, ^G,
+w: O * *  stay, * O * * * stay,  or else my * joyes must dye, my joyes must dye,
+w: And * * let * thy * * blisse- * full kiss-  es * che- * rish,  kiss- es che- rish,
+E > D C B,/ A,/ "(1)"E E2 E3 E HE4 :|
+N:(1) Original has a half note.
+w: And pe- * rish in * their in- fan- cie.
+w: Mine in- * fant joyes, * that else must perish.
+
+X:3
+T:II. Sweet stay a while,
+T:TENOR.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on fourth line
+%%MIDI transpose -12
+K:A min -8va
+c6 d4 A2 B6 e2 d2 B2
+w: Sweet stay a while, why will you 
+w: Deare let me dye in this faire 
+M:C
+L:1/4
+^c2 
+w: rise?
+w: breast,
+z e e > f d e c d/ c/ B2 
+w: The light you see comes from your * eyes:
+w: Farre sweet- er than the Phoe- nix * nest.
+c4 c > B A2 G3/2 c c/ B c 
+w: The day breakes * not, it is my heart, 
+w: Love raise de- * sire by his sweete charmes
+G c > B A c B/ A/ A ^G A2 ^G A4
+w: To thinke that you, that you, that you and I must part.
+w: With- in this cir- cle, this * cir- cle of thine armes:
+|: B e2 d e B c A B4 z A > B c/ A/ B3 B B > E A > c B A > G (d >  d) c/ 
+w: O stay,  stay, stay, O stay, stay, stay, or else * my joyes,  my joyes must dye, must dye, dye, my joyes must dye,
+w: And let, let, let, And let, let, let thy blisse- * full kiss- es, kiss- es, kiss-es  che- rish, * cher- * ish,
+B/ c3/2 d// c// B A B > B HA4 :|
+w: And pe- rish * in their in- fan- cie.
+w: Mine in- fant * joyes, that else must perish.
+
+
+X:4
+T:II. Sweet stay a while,
+T:BASSUS.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -24
+K:A min bass
+a6 d4 f2 e6 c2 d2 e2
+w: Sweet stay a while, why will you 
+w: Deare let me dye in this faire 
+M:C
+L:1/4
+A2
+w: rise?
+w: breast,
+z e a > d g c f/ e/ d e2
+w: The light you see comes from your * eyes:
+w: Farre sweet- er than the Phoe- nix * nest.
+A4 c2 d2 e > c f/ d/ g/ G/ c2
+w: The day breakes not, it is my * * heart, 
+w: Love raise de- sire by his sweete * * charmes
+z c f > e d A  e d/ c/ d/ B/ e A4
+w: To thinke that you, that you and I * must * part.
+w: With- in this cir- cle, cir cle * of * thine armes:
+|: g3 f e6 e2 A2 z A e2 B2 ^G > G A3/4 B// c/ A/ e
+w: O * stay, O stay, or else my joyes,  my joyes * * must dye,
+w: And * let, and let,  thy blisse- full kiss- es, kiss- es   cher- * ish
+z/ A/ c d e3 A e3 e HA4 :|
+w: And pe- rish in their in- fan- cie.
+w: Mine in- fant joyes, that else must perish.
+

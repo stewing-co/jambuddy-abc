@@ -1,0 +1,21 @@
+X:1005
+T:N.13-14
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 5 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%----------- edit between the lines ------------
+"_[fol. 30]" !fff! A,,/ z/ z/ E,,/  | G,,/ z/ z/ E,,/ | B,,/ z/ z/ E,,/ | A,,/ z/ z|\
+"_[fol. 31]" !p! "_pizz." A,,/ z/ z | B,,/ z/ z | E,,/ z/ z |\
+A,,/ z/ z// !<(! !>!D,//!>!=C,//!>!B,,// !<)! | !f! A,,// z// z//  E,,// A,,/ z/ |\
+A,,// z// z//  E,,// A,,/ z/ | A,,/ z/ z | E,,/ z/ E,//D,//=C,//B,,// |\
+"_[fol. 32]" A,,// z// z// E,,// A,,/ z/ | A,,/ z/ F,,/ z/ | ^D,/ z/ B,,/ z/ |\
+(E,, E,,//) z// z/ | X | X | \
+"_[fol. 33]" X | X | !p! E,,/ z/ E,,/ z/ | E,,/ z/ E,,/ z/ | E,,/ z/ E,,/ z/ | \
+"_[fol. 34]" E,,/ z/ E,,/ z/ | X4 | \
+"_[fol. 35]" X2  | z !mf! "_pizz." B,/ E,/ | \
+"_[fol. 36]" !p! F, z | G, z ||
+%-----------------------------------------------

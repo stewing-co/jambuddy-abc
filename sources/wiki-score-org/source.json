@@ -1,0 +1,20 @@
+{
+  "name": "Wiki::Score, a platform similar to the Wikipedia for cooperative editing of large scale music scores - abc is the official notation chosen for this project",
+  "license": "Not stated; tunes believed traditional",
+  "origin": [
+    "http://wiki-score.org/doku.php"
+  ],
+  "found_via": "https://abcnotation.com/tunes",
+  "downloaded": "2026-10-02",
+  "files": 1006,
+  "pages_crawled": 3000,
+  "pages_unvisited": 266,
+  "failures": [
+    "http://wiki-score.org/doku.php?id=demetrio:s24p9: timed out",
+    "http://wiki-score.org/doku.php?id=totti:s1p14: timed out",
+    "http://wiki-score.org/lib/exe/fetch.php?media=plugin_abc:demetrio:1512_eumene.mid: timed out",
+    "http://wiki-score.org/lib/exe/fetch.php?media=plugin_abc:demetrio:2301_coro.mid: <urlopen error [Errno 50] Network is down>",
+    "http://wiki-score.org/lib/exe/fetch.php?media=plugin_abc:demetrio:523_eumene_e_detti_poi_emirena.mid: timed out",
+    "http://wiki-score.org/lib/exe/fetch.php?media=plugin_abc:nanetta:103_overture.mid: timed out"
+  ]
+}

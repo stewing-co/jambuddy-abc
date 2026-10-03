@@ -1,0 +1,41 @@
+X:1401
+T:N.18-19
+C:Antonio Thomaz de Lima
+M:C
+L:1/4
+K:B
+V: 1 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%----------- edit between the lines ------------
+!fff![bd] z/ c'//d'// e'//d'//c'//b// a//c'//b//g//                       |\
+F/F//G// A//B//c//d// e/!trill!g/!trill!f/!trill!^e/                      |\
+f//g//f//e// d/f/ ^e//f//g//f// =e//d//c//B//                             |\
+c/>d/ e//d//c//^B// d/>c/ =B/A/                                           |\
+!mf!z/.[E/C/].[E/C/] z/ z/ .C/.C/ z/                                      |\
+z/ .[=D/A,/].[D/A,/] z/ z/ .[E/B,/].[E/B,/] z/                            |\
+z/ .[=D/B,/].[D/B,/] z/z/ .[D/=A,/].[D/A,/] z/                            |\
+z/.[E/C/].[E/C/] z/ z/ z/.[E/A,/].[E/A,/] || [M:2/4] z2                   ||
+[M:C] !fff![b/d/F/] z/ z z [=a/e/E/] z/                                   |\
+[b/d/F/] z/ z z [f/=c/=D/] z/                                             |\
+[=c'/e/=G/] "^(4Ã‚Âª corda)" !downbow!E/!downbow!E/!downbow!E/ !>!=F/>E/ =D/F/ |\
+!>!E/>=D/ =C/E/ !>!D/=F//D// !>!C/!>!B,/                                  |\
+=C/ .B//.B// !//!B !>!c/>.B/ .A/.c/                                       |\
+!>!B/>.=A/ .=G/[=g/=c/E/] [g2B2=D2]                                       |\
+[=g2=c2E2] [f=A=D] [^gBE]                                                 |\
+[=c'/e/=G/] z/ z [=g/B/=D/] z/ z                                          |\
+"^(19)" "_arco" [e/=c/E/=G,/] z/ z [B/=DG,/] z/ z                         |\
+z/ !downbow! =C !downbow!=D/ !downbow!E/!downbow!C/ !downbow!D/!downbow!_B,/ |\
+!downbow! =C/ z/ z z2                                                     |\
+z2 z z/ !ff!!>![a/c/]                                                     ||
+[M:4/8] !//![bd]3/2] !//![c'/f/]                                          |\
+!//![d'/f/]!//![b/d/]!//![c'/e/]!//![a/c/]                                |\
+!//![d'/f/]!//![b/d/]!//![c'/e/]!//![a/c/]                                |\
+!//![d'/f/]!//![b/d/]!//![c'/e/]!//![a/c/]                                |\
+!//![f'/a/]!//![e'/f/]!//![c'/e/]!//![=d'/=d/]                            |\
+!//![a/c/]!//![b/B/]!//![c/E/]!//![=d/=D/]                                |\
+!//![A/C/]!//![B/F/]!//!C/!//!!>!D/                                       |\
+!//![c/F/]!//!!>![d/F/]!//![c'/f/]!//!!>![d'/f/]                          |\
+!crescendo(!!//![f'2f2]!crescendo)!                                       |\
+!>!!sfz!(B,2 | B,) z                                                      |]
+%-----------------------------------------------

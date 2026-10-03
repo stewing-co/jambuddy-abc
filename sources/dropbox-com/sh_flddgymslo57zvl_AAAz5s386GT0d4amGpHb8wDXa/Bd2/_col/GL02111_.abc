@@ -1,0 +1,66 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Leicht zu Fuss (Galopp)  CF (GL02111) ABCDA
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.320 (GL02111) orig. C,F
+T: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%partsbox
+P:ABCDA
+R:galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"G"[Bg]>[Bg] "C/F"[cg]>[cg] | "G7"[dg][cg] [Bg]2 [P:A] || "C"e2e2 | e>d c>A | G2ca | g4 | "G7"f2f2 | f>e d>^c | 
+(ed) (^cd) | Bg fd | "C"e2e2 | e>d c>A | G2 ea | g4 | "D7"d2a2 | "G"d2b2 | 
+"D7"ca ^fd | "G"gg g"_Fine"z [P:B] |: "G7"f2 (d>^c | e2)d2 | "C"e2 (c>B | d2)c2   |1 "G7"c2 B>a | a4 | 
+"C"d2c>g | g4 :|2 "F"A2a2 | "C"g3e | "G7"g2B2 |  "C"cc c"_Fine"z |] [P:C] [K:F] "F"c2a2 | g2f2 | 
+"Bb"d2d2 | "F"c4 | "C7"a>g ^f>g | e2g2 | "F"b>a ^g>a | f4 | c2a2 | g2f2 | 
+"Bb"d2d2 | "F"c4 | "G7"=ba g=B | "C"c2e2 | "Dm"a3"G7"g | "C"cc cz [P:D] |: "Gm"d2b2 | "C7"a2g2 | "F"c2a2 | 
+g2f2 | "C7"ce/e/ ee | e3d |1 "F"cf/f/ ff | f3c :|2 c2e2 | "F"ff/f/ f"_>Teil A"z |] 
+W: Leicht zu Fuss ('easy on foot') - Easy to walk
+ % (GL02111) Nov 3, 2016
+
+X:2
+T:Leicht zu Fuss (Galopp)  CF (GL02111) 
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.320 (GL02111) orig. C,F
+S: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"G"[Bg]>[Bg] "C/F"[cg]>[cg] | "G7"[dg][cg] [Bg]2 || "C"e2e2 | e>d c>A | G2ca | g4 | "G7"f2f2 | f>e d>^c | 
+(ed) (^cd) | Bg fd | "C"e2e2 | e>d c>A | G2 ea | g4 | "D7"d2a2 | "G"d2b2 | 
+"D7"ca ^fd | "G"gg g"_Fine"z |: "G7"f2 (d>^c | e2)d2 | "C"e2 (c>B | d2)c2   |1 "G7"c2 B>a | a4 | 
+"C"d2c>g | g4 :|2 "F"A2a2 | "C"g3e | "G7"g2B2 |  "C"cc c"_Fine"z |] [K:F] "F"c2a2 | g2f2 | 
+"Bb"d2d2 | "F"c4 | "C7"a>g ^f>g | e2g2 | "F"b>a ^g>a | f4 | c2a2 | g2f2 | 
+"Bb"d2d2 | "F"c4 | "G7"=ba g=B | "C"c2e2 | "Dm"a3"G7"g | "C"cc cz |: "Gm"d2b2 | "C7"a2g2 | "F"c2a2 | 
+g2f2 | "C7"ce/e/ ee | e3d |1 "F"cf/f/ ff | f3c :|2 c2e2 | "F"ff/f/ f"_>Teil A"z |] 
+W:Parts: ABCD-A 
+% (GL02111) Nov 3, 2016
+
+X:3
+T:Leicht zu Fuss (Galopp)  GC 5- (GL02111) 
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.320 (GL02111) orig. C,F
+S:Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"D"[Fd]>[Fd] "G/C"[Gd]>[Gd] | "D7"[Ad][Gd] [Fd]2 || "G"B2B2 | B>A G>E | D2Ge | d4 | "D7"c2c2 | c>B A>^G | 
+(BA) (^GA) | Fd cA | "G"B2B2 | B>A G>E | D2 Be | d4 | "A7"A2e2 | "D"A2f2 | 
+"A7"Ge ^cA | "D"dd d"_Fine"z |: "D7"c2 (A>^G | B2)A2 | "G"B2 (G>F | A2)G2 |1 "D7"G2 F>e | e4 | 
+"G"A2G>d | d4 :|2 "C"E2e2 | "G"d3B | "D7"d2F2 | "G"GG G"_Fine"z |] [K:Cmaj] "C"G2e2 | d2c2 | 
+"F"A2A2 | "C"G4 | "G7"e>d ^c>d | B2d2 | "C"f>e ^d>e | c4 | G2e2 | d2c2 | 
+"F"A2A2 | "C"G4 | "D7"^fe d^F | "G"G2B2 | "Am"e3"D7"d | "G"GG Gz |: "Dm"A2f2 | "G7"e2d2 | "C"G2e2 | 
+d2c2 | "G7"GB/2B/2 BB | B3A |1 "C"Gc/2c/2 cc | c3G :|2 G2B2 | "C"cc/2c/2 c"_>Teil A"z |] 
+W:Parts: ABCD-A 
+% (GL02111) Nov 3, 2016
+

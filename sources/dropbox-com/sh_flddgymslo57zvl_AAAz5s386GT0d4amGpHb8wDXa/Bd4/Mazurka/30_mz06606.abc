@@ -1,0 +1,54 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Varsovienne GC (mz06606)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.259 (mz06606) orig. G,C
+T: Repertoire der "Dorfmusig Aesch". S.255-269
+T:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Varsovienne  % Mazurka
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G" [Bd] [gb] z/[f/a/] | [fa] [eg] z/[c/e/] | "C"[df] [ce] z/ [c/e/]  | [c3e3]  | "D7"(dA)z/B/ | dcz/A/ | "G"[CA] [B,G] z/[B,G]/ | [B3g3] | ([Bd] [gb])z/ [fa]/  | 
+[af] [ge] z/[d/f/] | "C"[df] [ce]z/[c/e/] | [c3e3] | "D7"(d[Ac])z/[d/f/] | [db][ca]z/[A/f/] | "G"[Bg] [B/g/]>[A/f/] [B/g/]>[c/a/] | [BG][BG]z :: "D7"d d/f/ a/c'/ | 
+"G"!>!b2 a/b/ | "D7"c' [ce] [df] | "G"[B2g2] [d/f/][c/e/] | "D7"[Fd] d/f/ a/c'/ | "G"b2 a/b/ | "D7"c' [ce] [df] | "G"[B2g2]z :: [K:C] "C"e/g/ g/a/ b/c'/ | 
+"G7"bff/c'/ | bf f/b/ | "C"[ec'] g g/f/ | e/f/ g/a/ b/c'/ | "G7"bf f/c'/ | bf f/b/ | "C"[ec'][ec']z :| 
+%% mz06606
+% May 2, 2017
+
+X:2
+T:Varsovienne Cf 7- alt. (mz06606)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.259 (mz06606) orig. G,C
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Varsovienne  % Mazurka
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+"C" [EG] [ce] z/2[B/2d/2] | [Bd] [Ac] z/2[F/2A/2] | "F"[GB] [FA] z/2 [F/2A/2] | [F3A3] | "G7"(GD)z/2E/2 | GFz/2D/2 | "C"[FD] [EC] z/2[EC]/2 | [E3c3] | ([EG] [ce])z/2 [Bd]/2 | 
+[dB] [cA] z/2[G/2B/2] | "F"[GB] [FA]z/2[F/2A/2] | [F3A3] | "G7"(G[DF])z/2[G/2B/2] | [Ge][Fd]z/2[D/2B/2] | "C"[Ec] [E/2c/2]>[D/2B/2] [E/2c/2]>[F/2d/2] | [EC][EC]z :: "G7"G G/2B/2 d/2f/2 | 
+"C"!>!e2 d/2e/2 | "G7"f [FA] [GB] | "C"[E2c2] [G/2B/2][F/2A/2] | "G7"[B,G] G/2B/2 d/2f/2 | "C"e2 d/2e/2 | "G7"f [FA] [GB] | "C"[E2c2]z :: [K:Fmaj] "F"A/2c/2 c/2d/2 e/2f/2 | 
+"C7"eBB/2f/2 | eB B/2e/2 | "F"[Af] c c/2B/2 | A/2B/2 c/2d/2 e/2f/2 | "C7"eB B/2f/2 | eB B/2e/2 | "F"[Af][Af]z :| 
+%% mz06606
+% May 2, 2017
+
+X:3
+T:Varsovienne GC (mz06606) solo
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.259 (mz06606) orig. G,C
+S: Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+% %%MIDI program 21
+R:Varsovienne  % Mazurka
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+[Bd] [gb] z/[f/a/] | [fa] [eg] z/[c/e/] | [df] [ce] z/ [c/e/]  | [c3e3]  | (dA)z/B/ | dcz/A/ | [CA] [B,G] z/[B,G]/ | [B3g3] | ([Bd] [gb])z/ [fa]/  | 
+[af] [ge] z/[d/f/] | [df] [ce]z/[c/e/] | [c3e3] | (d[Ac])z/[d/f/] | [db][ca]z/[A/f/] | [Bg] [B/g/]>[A/f/] [B/g/]>[c/a/] | [BG][BG]z :: d d/f/ a/c'/ | 
+!>!b2 a/b/ | c' [ce] [df] | [B2g2] [d/f/][c/e/] | [Fd] d/f/ a/c'/ | b2 a/b/ | c' [ce] [df] | [B2g2]z :: [K:C] e/g/ g/a/ b/c'/ | 
+bff/c'/ | bf f/b/ | [ec'] g g/f/ | e/f/ g/a/ b/c'/ | bf f/c'/ | bf f/b/ | [ec'][ec']z :| 
+%% mz06606
+% May 2, 2017

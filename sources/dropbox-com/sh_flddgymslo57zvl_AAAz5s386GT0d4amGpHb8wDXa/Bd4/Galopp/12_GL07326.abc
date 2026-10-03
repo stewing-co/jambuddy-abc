@@ -1,0 +1,43 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Galopp  CF (GL07326) ABCDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.288 (GL07326) orig. C,F
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G/G/ |: "C"Ge ^de | g3G/G/ | Gc dc | ("G7"c2B)G/G/ | Gf ef | a3G | "F"a>^f ("G7"g2 | g)f ed | 
+"C" Ge ^de | g3G/G/ | Gc dc | "F"B2 AA/A/ | Af ed | "C"cc' ba |  "G7"ag fd  |1 "C"cc cG/G/ :|2 "C"cc c(^d/e/) || 
+|: "E7"e3(f/e/) | e3 (d/e/) | c'b a^g | "Am"a3 (^c/d/) | "D7"d3 (e/d/) | d3(^c/d/) | ba g^f | "G"g3(^f/g/) | "G7"g3(a/g/) | 
+"C"g3e | "G7"fd AB | "C"dc G(c/c'/) | !>!"F"c'3(b/c'/) | "C"c'3^f |  "G7"gG ed |1  "C"cc c^d/e/   :|2 "C"cc cz |: [K:F] [L:1/4] "F"c2 | 
+(fa) | "C7"c'2 | (bg) | (fe) | (de) | ("F"gf) | cc | c2 | (fa) | "C7"c'2 | (bg) | 
+(fe) | (de) | "F"ff | fz :: [L:1/8] ("F"a2f>)c | .d2.c2 | (a2f>)c | .d2.c2 | (!>!"C7"g2f>)e | (e2d>)c | 
+cc' c'c' | d'c' bg | ("F"a2f>)c | .d2.c2 | a2f>c | .d2.c2 |   (!>!"Bb"f2e>)d | !>!("F"c2f)>a | "C7"c'c ga | "F"ff fz :| 
+% GL07326
+% June 19, 2017
+
+X:2
+T:Galopp  GC 5- (GL07326) ABCDC
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.288 (GL07326) orig. C,F
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+D/2D/2 |: "G"DB ^AB | d3D/2D/2 | DG AG | ("D7"G2F)D/2D/2 | Dc Bc | e3D | "C"e>^c ("D7"d2 | d)c BA | 
+"G" DB ^AB | d3D/2D/2 | DG AG | "C"F2 EE/2E/2 | Ec BA | "G"Gg fe | "D7"ed cA |1 "G"GG GD/2D/2 :|2 "G"GG G(^A/2B/2) || 
+|: "B7"B3(c/2B/2) | B3 (A/2B/2) | gf e^d | "Em"e3 (^G/2A/2) | "A7"A3 (B/2A/2) | A3(^G/2A/2) | fe d^c | "D"d3(^c/2d/2) | "D7"d3(e/2d/2) | 
+"G"d3B | "D7"cA EF | "G"AG D(G/2g/2) | !>!"C"g3(f/2g/2) | "G"g3^c | "D7"dD BA |1 "G"GG G^A/2B/2 :|2 "G"GG Gz |: [K:Cmaj] [L:1/4] "C"G2 | 
+(ce) | "G7"g2 | (fd) | (cB) | (AB) | ("C"dc) | GG | G2 | (ce) | "G7"g2 | (fd) | 
+(cB) | (AB) | "C"cc | cz :: [L:1/8] ("C"e2c>)G | .A2.G2 | (e2c>)G | .A2.G2 | (!>!"G7"d2c>)B | (B2A>)G | 
+Gg gg | ag fd | ("C"e2c>)G | .A2.G2 | e2c>G | .A2.G2 | (!>!"F"c2B>)A | !>!("C"G2c)>e | "G7"gG de | "C"cc cz :| 
+% GL07326
+% June 19, 2017

@@ -1,0 +1,55 @@
+X:411
+T:Fama
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:C
+V: 11 clef=alto1 name="Fama" sname="Fa."
+%%MIDI program 1 1
+%%staves [ 11 ]
+%-------------------------------------------------------------------------------------
+"_NB: text needs revision" [L:1/8] z_e c/ c/ c/ B/ c2 c c/ d/ | =B B d G/ B/ d d z/ d/ f/ _e/ | c c z \
+w: An-cor La Trom-ba mia vi-le e ne-gle-tta gia-cque gran tem-po, I-llus-tre Dea
+G c c =e g | _B2 B2 B B/ B/ B A | A2 A2 z \
+w: ma poi che le belli ar-ci eb-ber(?) l'A-filo(?) al fian-co
+F c> B | c2 z \
+w: di si gran eroe
+c A2 _e e/ d/ | d d z/_B/ d/ _e/ f> f f/ f/ f/ g/ | _e e z \
+w: mi-rai so-ra-ne(?) ven-ture e cose ogni  or ma-ra-vi-glio-se,e nuo-ve...
+_B _e _B c _d | c c z \
+w: che sol la sua pos-san-za
+c d d z \
+w: in for-ma
+_e | _B B z B _e e _g e | c c c c/ _d/ _e e z \
+w: e muo-ve ond'io di gi-oi-a pie-na e di con-ten-to
+e | =A A z
+w: si las-cio,
+F c c c/ =d/ =e/ f/ | =d d z \
+w: e pre-sa la so-no-ra trom-ba
+d g2 G2 | f2 f2 f f/ f/ _e d | _e e z \
+w: n'an-dro lon-ta-na a ri-so-nar sue lo-di
+e c c c c/ d/ | =B B G G/ A/ B B
+w: sue chia-re in-cli-te ges-ta e de mor-ta-li
+z B | d> d d =e ^c c c c/ d/ | e2 G G/ A/ _B B z \
+w: des-tar sa-pro nel co-re quel bel de-sio che di vir-tu-de
+A | ^F F z A d2 d d/ _e/ | e e e c/ _B/ G2 G2 |  z8 || \
+w: e fi-glio e puo ren-der-gli et-erni ed im-mor-ta-li.
+[Q: "Allegretto"] [K:Bb] Z11 | e2e2!trill!e2-e>B | g>e f/g/f/d/ !trill!e2-e>B | g>e f/g/f/d/ e2B2 | GEGB  G/B/_A/G/ A/B/c/d/ | e/f/e/f/ e/f/e/f/ e!trill!e2 d/e/ | f\
+w: Ba-le-nar-------------------------------------------- con
+d/c/ B _A {B}"^check grace note"A2 G2 | \
+w: bel--* se-re-no
+e/d/(e2g) _A/G/A2A | f/e/ f2 _a B/A/ B2 B | g/f/(g2e) c/B/ c3 | \
+w:gia--ri--mi--ro in ogni----se--no in ogni----se--no
+f !trill!e3 d/c/ B2 e/c/ | f/e/ d2 g/e/ f/e/ d2 e/c/ | d/c/ B2 f/d/ .e2 .c2 | =AFAc !trill!e>d e/f/g/a/ | b>B g e B !trill!c3 | B2 \
+w: di cos-tan----------------------------------za, e di va-lor
+z2z4 | Z4 | B2B2!trill!B2-B>F| !trill!d>B c/d/c/A/ !trill!B2-B>F| !trill!d>B c/d/c/A/ B2 !trill!f//e//f3/2 | B c/d/ e d d c3 | f2F2 e/d/ e2c|  f,c2d/e/ d/c/ B z2 | \
+w: Ba-le-nar----------------------con--- bel se-re-no gia ri-mi--ro in ogni---se---no
+g2G2f/e/f2d | Gd2e/f/ e/d/ c3 | ^fg2G e/d/ c3 | ^f g2G _A !trill!A2 G/A/ | B!trill!B2_A/B/ c!trill!c2 B/c/ | de2d/e/ f/e/d/c/ B/_A/G/A/ | !trill!G2!trill!B2!trill!e2!trill!g2 | f2<B2 \
+w: Ba-le-nar---con bel se---re-----------------------------------------no
+e2G2 | _AA2B/c/ B2<!trill!e2 | c2<!trill!e2- e/g/f/e/ d/c/ B/_A/ | G GF>E e4- | e>B  g _A G/F/E !trill!f2 | e2z2z4 | \
+w:  di cos-tan------------za-* e-* di va---lor---e di---* va-lor.
+Z7 | g2c2{c}B2>G2 | d/f/ e2d e/d/ c3 | e2g2 _a/g/ a2 f | B2_a2 g/f/ g2 e | _A2g2 f/e/ f3 | \
+w: e se fia che in o--gni li--do giun-ga al-te-ro il suo bel gri--do il suo bel gri--do
+e2d2e d/c/  B _A | G B2 e _A c2 f | B d2 g c4- | cfed c4- | cfed g3/2f//e//d c | (c2e)> c c4- | ce2c ^f4 | g>d e G G2 A> G | G4 z4  |] \
+w: piu d'un cor sa'-* in-na-mo-rar---------------------* sa in-na-mo-rar------* sa in na--mo-rar.
+%-------------------------------------------------------------------------------------

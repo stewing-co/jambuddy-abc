@@ -1,0 +1,26 @@
+X:1307
+T:N.13 Solo e coro
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:C
+V: 7 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%------
+%%setfont-1 Arial-Bold 17
+[Q:"Allegretto"] !f![Gg][Aa][Gg] [Bb][Aa][Gg] | [Gg] [cec']2[cec']3 | [Bdb][Aca][GBg] [FAf][EGe][DFd] |\
+[CEc][G,CE]2 z [G,B,F]2 | z[G,CE]2 z[G,B,F]2 |  z[G,CE]2 z[G,CE]2 !segno!|| \
+(GAG) ([FB]A[FG]) | [EG] !>![Ec]2-[Ec]3 | ([FB]AG) (FED) | E/2F/2[EG]2-[EG]3 & E x5| \
+(GAG) [FB]A[FG] | [EG] [Ec]2-[Ec]3 | [B]AG AG^F | [B,G]3-[B,G]!>!G!>!G || \
+([Bd][Ac][GB]) ([AF][GB][Ac]) | ([E(c][G)E]2) (EGc) & x3 E3 | ([Bgb][Afa][Geg]) ([Fdf][Geg][Afa]) | \
+([Afa][Geg]2)-[Geg]([Ff][Ee]) | [Bd][Ac][GB] [FA][GB][Ac] | ([E(c][G)E]2) (EGc) & x3 (E3 | \
+BAG [Fd][Fc][FB] & F3) x3 || ([Ec][G,EC]2) [Q: "Lento"] z[G,EC]2 | \
+z[G,EC]2z[G,B,F]2 | z[G,EC]2z[G,B,F]2 | z[G,EC]2z[G,B,F]2 | z[G,EC]2 z[G,EC]2 [Q:"$1A"] |: \
+[Q: "1.o tempo"] (GAG) ([FB]A[FG]) | [EG] !>![Ec]2-[Ec]3 | ([FB]AG) (FED) | E/2F/2[EG]2-[EG]3 & E x5| \
+(GAG) [FB]A[FG] | [EG] [Ec]2-[Ec]3 | [B]AG AG^F | [B,G]3-[B,G]!>!G!>!G || \
+!f!([Bd][Ac][GB]) ([AF][GB][Ac]) | ([E(c][G)E]2) (EGc) & x3 E3 | (BAG) ([Fd][Fc][FB])& F3 x3 |\
+([Ec][ECG,]2) z[G,B,F]2 | z[ECG,]2 z[G,B,F]2 | z[ECG,]2 z[G,B,F]2 | z[ECG,]2 z[G,B,F]2 | z[ECG,]2 z[ECG,]2  \
+"_D.C. 3 vezes""_do A e para""_acabar""_do S ao O" :| X [Q:"A tempo"] !segno!|| "_Repete" X !coda!|| \
+[Ec]2z !ff![cec'][cec'][cec'] | [cec']2z z2z | Z|] \
+%------------

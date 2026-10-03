@@ -1,0 +1,84 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Galopp  GDC (GL07367)  ABACA
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.309 (GL07367) orig.G,D,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACA
+R:Galopp
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+[P:A] "G".g2 d>e | .d2 B>c | .B2 G>A | .G2 A>G | ("D7"GF) (Fe) | "A7"e4 | "D7"ed ^cd | ed ca | 
+"G".g2 d>e | .d2 B>c | .B2 G>A | .G2 A>G | ("D7"GF) (Fe) | "A7"e4 | ("D7"e/d/^c/d/) =ca | "G".g2"_Fine".g2 :| [K:D] 
+[P:B] |: "D"a2 b/a/f/d/ | "A7".c2.e2 | "G".g2.b2 | "D"a3A/A/ | Af gf | ("A7"f2e)G/G/ | Ge fe | "D"e2 (d/c/d/f/) | .a2 (b/a/f/d/) | 
+"A7".c2.e2 | "Em".g2.b2 | "D"a3A/A/ | Af gf | "Em"f2 e/(^d/e/g/) | "A7".b!>!a2c |1 "D".d2.d2 :|2 "D"dd "D7"e"_>Teil A"f || [K:C] 
+[P:C] "C".e2.e2 | {/f}e>d e>f | (g2c'2) | g4 | "Am".c2.c2 | {(d)}c>B  c>d | "C"((3.e.g.f) ((3.e.d.c) | "G7"B>d g2 | "C".e2.e2 |  {/f}e>d e>f | 
+(g2c'2)  | g3^g | ("F"ac' ba) | "C"g/g/g c'e | "Dm"f/f/f "G7"aB | ("C"ce) G2 | "F"ac' ba | g/g/g c'e | "Dm"f/f/f "G7"aB | "C"c2"_>Teil A"c2 || 
+% GL07367
+% July 10, 2017
+
+X:2
+T:Galopp  GDC (GL07367) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.309 (GL07367) orig.G,D,C
+S: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G".g2 d>e | .d2 B>c | .B2 G>A | .G2 A>G | ("D7"GF) (Fe) | "A7"e4 | "D7"ed ^cd | ed ca | 
+"G".g2 d>e | .d2 B>c | .B2 G>A | .G2 A>G | ("D7"GF) (Fe) | "A7"e4 | ("D7"e/d/^c/d/) =ca | "G".g2"_Fine".g2 :| [K:D] 
+|: "D"a2 b/a/f/d/ | "A7".c2.e2 | "G".g2.b2 | "D"a3A/A/ | Af gf | ("A7"f2e)G/G/ | Ge fe | "D"e2 (d/c/d/f/) | .a2 (b/a/f/d/) | 
+"A7".c2.e2 | "Em".g2.b2 | "D"a3A/A/ | Af gf | "Em"f2 e/(^d/e/g/) | "A7".b!>!a2c |1 "D".d2.d2 :|2 "D"dd "D7"e"_>Teil A"f || [K:C] 
+"C".e2.e2 | {/f}e>d e>f | (g2c'2) | g4 | "Am".c2.c2 | {(d)}c>B  c>d | "C"((3.e.g.f) ((3.e.d.c) | "G7"B>d g2 | "C".e2.e2 |  {/f}e>d e>f | 
+(g2c'2)  | g3^g | ("F"ac' ba) | "C"g/g/g c'e | "Dm"f/f/f "G7"aB | ("C"ce) G2 | "F"ac' ba | g/g/g c'e | "Dm"f/f/f "G7"aB | "C"c2"_>Teil A"c2 || 
+W: Parts: ABACA
+% GL07367
+% July 10, 2017
+
+X:3
+T:Galopp  CGF 5+ (GL07367) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.309 (GL07367) orig.G,D,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C".c'2 g>a | .g2 e>f | .e2 c>d | .c2 d>c | ("G7"cB) (Ba) | "D7"a4 | "G7"ag ^fg | ag fd' | 
+"C".c'2 g>a | .g2 e>f | .e2 c>d | .c2 d>c | ("G7"cB) (Ba) | "D7"a4 | ("G7"a/2g/2^f/2g/2) =fd' | "C".c'2"_Fine".c'2 :| [K:Gmaj] 
+|: "G"d'2 e'/2d'/2b/2g/2 | "D7".f2.a2 | "C".c'2.e'2 | "G"d'3d/2d/2 | db c'b | ("D7"b2a)c/2c/2 | ca ba | "G"a2 (g/2f/2g/2b/2) | .d'2 (e'/2d'/2b/2g/2) | 
+"D7".f2.a2 | "Am".c'2.e'2 | "G"d'3d/2d/2 | db c'b | "Am"b2 a/2(^g/2a/2c'/2) | "D7".e'!>!d'2f |1 "G".g2.g2 :|2 "G"gg "G7"a"_>Teil A"b || [K:Fmaj] 
+"F".a2.a2 | {/b}a>g a>b | (c'2f'2) | c'4 | "Dm".f2.f2 | {(g)}f>e f>g | "F"((3.a.c'.b) ((3.a.g.f) | "C7"e>g c'2 | "F".a2.a2 | {/b}a>g a>b | 
+(c'2f'2) | c'3^c' | ("Bb"d'f' e'd') | "F"c'/2c'/2c' f'a | "Gm"b/2b/2b "C7"d'e | ("F"fa) c2 | "Bb"d'f' e'd' | c'/2c'/2c' f'a | "Gm"b/2b/2b "C7"d'e | "F"f2"_>Teil A"f2 || 
+W:Parts: ABACA
+% GL07367
+% July 10, 2017
+
+X:4
+T:Galopp  CGF 7- (GL07367) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.309 (GL07367) orig.G,D,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C".c2 G>A | .G2 E>F | .E2 C>D | .C2 D>C | ("G7"CB,) (B,A) | "D7"A4 | "G7"AG ^FG | AG Fd | 
+"C".c2 G>A | .G2 E>F | .E2 C>D | .C2 D>C | ("G7"CB,) (B,A) | "D7"A4 | ("G7"A/2G/2^F/2G/2) =Fd | "C".c2"_Fine".c2 :| [K:Gmaj] 
+|: "G"d2 e/2d/2B/2G/2 | "D7".F2.A2 | "C".c2.e2 | "G"d3D/2D/2 | DB cB | ("D7"B2A)C/2C/2 | CA BA | "G"A2 (G/2F/2G/2B/2) | .d2 (e/2d/2B/2G/2) | 
+"D7".F2.A2 | "Am".c2.e2 | "G"d3D/2D/2 | DB cB | "Am"B2 A/2(^G/2A/2c/2) | "D7".e!>!d2F |1 "G".G2.G2 :|2 "G"GG "G7"A"_>Teil A"B || [K:Fmaj] 
+"F".A2.A2 | {/B}A>G A>B | (c2f2) | c4 | "Dm".F2.F2 | {(G)}F>E F>G | "F"((3.A.c.B) ((3.A.G.F) | "C7"E>G c2 | "F".A2.A2 | {/B}A>G A>B | 
+(c2f2) | c3^c | ("Bb"df ed) | "F"c/2c/2c fA | "Gm"B/2B/2B "C7"dE | ("F"FA) C2 | "Bb"df ed | c/2c/2c fA | "Gm"B/2B/2B "C7"dE | "F"F2"_>Teil A"F2 || 
+W:Parts: ABACA
+% GL07367
+% July 10, 2017

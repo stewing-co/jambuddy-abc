@@ -1,0 +1,133 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Und dass der Russ giget, das hani probiert (Walzer)  F
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.320 (wz06057b) orig. C,F-Dur
+T: "Riebg\"arteler, T\"anze aus Halisberg. S.319-338
+T: Aus dem Repertoire von Johann und Melchior Zenger.
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+c| "F"f>cc | AGF | "C7"E>cc | B2c | E>cc | BAG | "F"F>cc | Azc | 
+f>cc | AGF | "C7"E>cc | B2c | e>dc | BAG | "F"F>FF | Fzz |] 
+% wz06057b
+X:2
+T:Und dass der Russ giget (Walzer)  C 5-
+T: ... das hani probiert
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+G| "C"c>GG | EDC | "G7"B,>GG | F2G | B,>GG | FED | "C"C>GG | EzG | 
+c>GG | EDC | "G7"B,>GG | F2G | B>AG | FED | "C"C>CC | Czz |] 
+% wz06057b
+X:3
+T:Und dass der Russ giget (Walzer)  C 7+
+T: ... das hani probiert
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+g| "C"c'>gg | edc | "G7"B>gg | f2g | B>gg | fed | "C"c>gg | ezg | 
+c'>gg | edc | "G7"B>gg | f2g | b>ag | fed | "C"c>cc | czz |] 
+% wz06057b
+X:4
+T:Und dass der Russ giget (Walzer)  G 2+
+T: ... das hani probiert
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G%%MIDI gchordon
+d| "G"g>dd | BAG | "D7"F>dd | c2d | F>dd | cBA | "G"G>dd | Bzd | 
+g>dd | BAG | "D7"F>dd | c2d | f>ed | cBA | "G"G>GG | Gzz |] 
+% wz06057b
+X:5
+T:Und dass der Russ giget  F (5letras transposed)
+T: ... das hani probiert
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+c| "F"f>cc | AGF | "C7"E>cc | B2c | E>cc | BAG | "F"F>cc | Azc | 
+f>cc | AGF | "C7"E>cc | B2c | e>dc | BAG | "F"F>FF | Fzz |] 
+% wz06057b
+X:6
+T:Und dass der Russ giget  C (5letras transposed)
+T: ... das hani probiert
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+G| "C"c>GG | EDC | "G7"B,>GG | F2G | B,>GG | FED | "C"C>GG | EzG | 
+c>GG | EDC | "G7"B,>GG | F2G | B>AG | FED | "C"C>CC | Czz |] 
+% wz06057b
+X:7
+T:Und dass der Russ giget  C (5letras transposed)
+T: ... das hani probiert
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:Ctranspose=3 %%MIDI gchordon
+g| "C"c'>gg | edc | "G7"B>gg | f2g | B>gg | fed | "C"c>gg | ezg | 
+c'>gg | edc | "G7"B>gg | f2g | b>ag | fed | "C"c>cc | czz |] 
+% wz06057b
+X:8
+T:Und dass der Russ giget  G (5letras transposed)
+T: ... das hani probiert
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+d| "G"g>dd | BAG | "D7"F>dd | c2d | F>dd | cBA | "G"G>dd | Bzd | 
+g>dd | BAG | "D7"F>dd | c2d | f>ed | cBA | "G"G>GG | Gzz |] 
+% wz06057b
+X:9
+T:Und dass der Russ giget D (tinwhistle in D)
+T:wz06057b (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:Dmaj transpose=3%%MIDI gchordon
+A| "D"d>AA | FED | "A7"C>AA | G2A | C>AA | GFE | "D"D>AA | FzA | 
+d>AA | FED | "A7"C>AA | G2A | c>BA | GFE | "D"D>DD | Dzz |] 
+X:10
+T:Und dass der Russ giget G (tinwhistle in D)
+T:wz06057b (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+d| "G"g>dd | BAG | "D7"F>dd | c2d | F>dd | cBA | "G"G>dd | Bzd | 
+g>dd | BAG | "D7"F>dd | c2d | f>ed | cBA | "G"G>GG | Gzz |] 
+X:11
+T:Und dass der Russ giget D (tinwhistle in D) solo
+T:wz06057b (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:Dmaj transpose=12
+A| "D"d>AA | FED | "A7"C>AA | G2A | C>AA | GFE | "D"D>AA | FzA | 
+d>AA | FED | "A7"C>AA | G2A | c>BA | GFE | "D"D>DD | Dzz |] 
+X:12
+T:Und dass der Russ giget G (tinwhistle in D) solo
+T:wz06057b (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=12
+d| "G"g>dd | BAG | "D7"F>dd | c2d | F>dd | cBA | "G"G>dd | Bzd | 
+g>dd | BAG | "D7"F>dd | c2d | f>ed | cBA | "G"G>GG | Gzz |] 
+% July 21, 2016

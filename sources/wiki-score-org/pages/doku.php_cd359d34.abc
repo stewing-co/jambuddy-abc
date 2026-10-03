@@ -1,0 +1,19 @@
+X:2909
+T:[Demetrio]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 9 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 9 )]
+%------------------
+[Q:"Allegro assai"] Z18 || \
+[Q:"Adagio"] d (f/g/) a a/>g/ | (ge/f/) g g/>f/ | f/z/ z g2 | f2b2 | a/f/g/a/ b/a/g/f/ | eAAz | Z |\
+z(a//g//g//f//) fz|Z3|z2z(f//>g//e//>f//) | dddz| Z4| z2e2 | d2c2 | b2e2 | d2c2 | bbbz | Z6 | Ae//>f//e//>f//c!fermata!z || \
+[Q:"Allegro"] d2e2 |fgfe| dzz2 | Z | f2ga | bzz2 | Z | (f2f)z | Z2 | zdAF | Dff z | Z | z/e/e/e/ez | Z | \
+z/^g/g/g/gz| Z | zga2 | ^g2a2 | ^ggg!fermata!z | Z6 |(a4 |a4) | ^g4 | =g4 | f4 | e2f2 | g2!fermata!z2 | Z | \
+z/a/a/f/ z/g/g/e/ | dzz2 | zffz | Z2 | f2e2 | d2z2 | e2z2 | e2!fermata!z2 | A2 !fermata! z2 | D4 | Z | \
+z/a/a/f/ z/g/g/e/ | dzz2 | zffz | Z2 | f2e2 | dzz2 | Z    | f2e2 | dzz2   | Z2 |f2e2 | f2g2 |f2e2 | f2e2 | \
+fgfe | dddd | dzz2 |]
+%------------------

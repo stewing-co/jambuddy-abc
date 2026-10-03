@@ -1,0 +1,217 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XII. By a fountaine where I lay,
+T:CANTUS.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+K:G dor
+|:d3 c B A G B | A3/2
+w: 1.~By a foun- taine where I lay,
+w: By the glint- ing of the sun,
+w: 2.~Faire with gar- lands all ad- drest,
+w: Bless- ed in the highest de- gree,
+w: 3.~Then I forth- with tooke my pipe
+w: And u- pon a heav'n- ly ground,
+A/ B3/4 c// d3/4 e// | f3 e > d d2 ^c d4 :|
+w: Al bles- * sed * bee that * bless- ed day
+w: Oh ne- * ver * bee her * shin- ing done
+w: Was ne- * ver * Nymph more * faire- ly blest,
+w: So may * she * e- ver * bless- ed be,
+w: Which I * all * faire and * cleane did wipe
+w: All in * the * grace of * beau- tie found,
+d/ d/ d d e f4 |
+w: When I might see a- lone 
+w: Came to this foun- taine neere,
+w: Plaid * this round- e- lay,
+c c/ c/ c c d4 |
+w: My true loves fair- est one,
+w: With such a smil- ing cheere,
+w: Wel- come faire Queene of May,
+d/ d/ d
+w: Loves deer light,
+w: Such a face,
+w: Sing sweete aire,
+c/ c/ c |
+w: Loves cleare sight
+w: Such a grace,
+w: Wel- come faire.
+c/ c/ c/ c/ B/ B/ B |
+w: No worlds eyes can clear-er see 
+w: Hap- pie, hap- pie eyes that see
+w: Wel- come be the shep- heards Queene,
+A ^F/ G/ A B A3 A G4 |]
+w: A fair- er sight none none can be.
+w: Such a * heaven- ly sight as she.
+w: The glo- * rie of all our greene.
+
+X:2
+T:XII. By a fountaine where I lay,
+T:ALTUS.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on fourth line
+K:G dor
+|: B3 A G F _E D C2
+w: 1.~By a foun- taine where I lay,
+w: By the glint- ing of the sun,
+w: 2.~Faire with gar- lands all ad- drest,
+w: Bless- ed in the highest de- gree,
+w: 3.~Then I forth- with tooke my pipe
+w: And u- pon a heav'n- ly ground,
+z G F > G A > B c3 B A > G "(1)"^F2 :|
+w: Al bles- * sed * bee that bless- ed day
+w: Oh ne- *  ver * bee her shin- ing done
+w: Was ne- * ver * Nymph more faire- ly blest,
+w: So may *  she * e- ver bless- ed be,
+w: Which I *  all * faire and cleane did wipe
+w: All in *  the * grace of beau- tie found,
+N:(1) original has a whole note
+G/ G/ G G G A4
+w: When I might see a- lone 
+w: Came to this foun- taine neere,
+w: Plaid this round- * e- lay,
+A G/ F/ E F F4
+w: My true loves fair- est one,
+w: With such a smil- ing cheere,
+w: Wel- come faire Queene of May,
+B/ B/ B
+w: Loves deer light,
+w: Such a face,
+w: Sing sweete aire,
+A/ A/ A
+w: Loves cleare sight
+w: Such a grace,
+w: Wel- come faire.
+G/ A/ G/ G/ G/ G/ G/
+w: No worlds eyes can clear-er see 
+w: Hap- pie, hap- pie eyes that see
+w: Wel- come be the shep- heards Queene,
+G/ ^F/ F/ D z/ A,/ D/ E/ ^F/ ^F/ G2 ^F G4 |]
+w: A fair- er sight, a fair- er sight none none can be.
+w: Such a heaven- ly, such a heav- en- ly sight as she.
+w: The glo- rie of, the glo- rie of * all  our greene.
+
+X:3
+T:XII. By a fountaine where I lay,
+T:TENOR.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on third line
+K:G dor
+|: G G F2 D2 B, F F3/2
+w: 1.~By a foun- taine where I lay,
+w: By the glint- ing of the sun,
+w: 2.~Faire with gar- lands all ad- drest,
+w: Bless- ed in the high- est de- gree,
+w: 3.~Then I forth- with tooke my pipe
+w: And u- pon a heav'n- ly ground,
+E/ D/ C/ B, A,2 z A > A D/ G/ F E D4 :|
+w: Al bless- * * ed, bless- ed bee that bless- ed day
+w: Oh ne- * * ver, ne- ver bee her shin- ing done
+w: Was ne- * * ver, ne- ver Nymph more faire- ly blest,
+w: So * may   she, may she e- ver bless- ed be,
+w: Which I * all faire, all * faire and cleane did wipe
+w: All in * the grace, the * grace of beau- tie found,
+B,/ B,/ B, B, C C4
+w: When I might see a- lone 
+w: Came to this foun- taine neere,
+w: Plaid this round- * e- lay,
+C G,/ A,/ G, A, B,4
+w: My true loves fair- est one,
+w: With such a smil- ing cheere,
+w: Wel- come faire Queene of May,
+F/ F/ F 
+w: Loves deer light,
+w: Such a face,
+w: Sing sweete aire,
+F/ F/ C
+w: Loves cleare sight
+w: Such a grace,
+w: Wel- come faire.
+E/ F/ C/ E/ D/ D/ D D/ D 
+w: No worlds eyes can clear-er see 
+w: Hap- pie, hap- pie eyes that see
+w: Wel- come be the shep- heards Queene,
+C/ A,/ C/ B,/  C/ D3 D/ D/ D4 |]
+w: A fair- er sight, a fair- er sight none can be.
+w: Such a hea- ven- ly sight, heaven- ly sight as she.
+w: The glo- rie of, the glo- rie of all our greene.
+
+
+X:4
+T:XII. By a fountaine where I lay,
+T:BASSUS.
+C:John Dowland
+H: From The Third and Last Booke of Songs or Aires.
+M:C
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -24
+K:G dor bass
+|: g > a b f g d _e B f2
+w: 1.~By _ _ a foun- taine where I lay,
+w: By _ _ the glint- ing of the sun,
+w: 2.~Faire _ _ with gar- lands all ad- drest,
+w: Bless- * * ed in the highest de- gree,
+w: 3.~Then * * I forth- with tooke my pipe
+w: And * * u- pon a heav'n- ly ground,
+g2 d3/4 e// f3/4 g// a > g ^f g a A d4 :|
+w: Al bles- * * * * sed bee that bless- ed day
+w: Oh ne-  * * * * ver bee her shin- ing done
+w: Was ne- * * * * ver Nymph more faire- ly blest,
+w: So may * * * * she e- ver bless- ed be,
+w: Which I * * * * all faire and cleane did wipe
+w: All in * * * * the grace of beau- tie found,
+g/ g/ g g c f4
+w: When I might see a- lone 
+w: Came to this foun- taine neere,
+w: Plaid this round- * e- lay,
+f e/ f/ c f B4
+w: My true loves fair- est one,
+w: With such a smil- ing cheere,
+w: Wel- come faire Queene of May,
+B/ B/ B
+w: Loves deer light,
+w: Such a face,
+w: Sing sweete aire,
+f/ f/ f
+w: Loves cleare sight
+w: Such a grace,
+w: Wel- come faire.
+c/ f/ e/ c/ g/ G/ G
+w: No worlds eyes can clear-er see 
+w: Hap- pie, hap- pie eyes that see
+w: Wel- come be the shep- heards Queene,
+d d/ e/ ^f f d3 d G4 |]
+w: A fair- er sight none none can be.
+w: Such a hea- ven- ly sight as she.
+w: The glo- * rie of all our greene.
+

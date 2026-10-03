@@ -1,0 +1,86 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+
+X:1
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:XIIII. Fantasie: Il Lamento?
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/4
+K:F
+T:Cantus
+N:Original clef, treble
+L:1/4
+d4-d4-d4 ^c4 d4 e4 f d f2 e d g3 ^f/ e/ ^f2 g2 G3 ^F
+w:1
+G A B G A B c A B c d2 D d2 ^c/ B/ ^c2 "A"d4 z2 d2
+w:2
+d2 d2 c>B A c B G B2 A4 D G2 ^F G2 g2 g2 g2 f>e d f e d e2 "B"d2 z d
+w:3
+d2 d2 c>B A c B G B c d D/ E/ F/ G/ A/ =B/ ^c d2 ^c d f2 d2 _e2 d
+w:4
+c B c2 "C"B4 z2 d2 G3 A G2 G2 d2 g2 f2 e2 z d2 c f2 e2 d2 G2 c2 f2 e2 d g
+w:5
+^f g2 ^f "D"g2 d2 G3 A B2 G2 d D2 G>A B/ c/ d D G A B G A/ G/ F/ E/ D d
+w:6
+^c d2 ^c d G/ A/ B/ c/ d/ e/ f/ e/ d/ c/ B/ A/ G/ A/ B G c B A G A2 G4 z2 g2
+w:7
+d3 e f2 d2 g2 f2 e2 d2 c2 f2 e d e2 d2 G/ A/ B/ c/ d/ e/ f/ e/ d/ c/ B/ A/ G/ A/ B/ G/
+w:8
+A B c B B A/ G/ A4 HG4 |]
+w:9
+
+X:2 
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:XIIII. Fantasie: Il Lamento?
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/4
+K:F
+T:Tenor
+L:1/4
+N:Original clef, treble
+z2 G3 ^F G A B G B2 A E A > G F E D d2 c/ B/ ^c2
+w:1
+d2 D d c B B A/ G/ A4 G4 d3 c d e f d e f g2 f d f2 e4
+w:2
+"A"d2 G2 G2 G2 F > E D/ E/ F/ D/ E/ F/ G2 ^F G2 d3 ^c/ B/ ^c2 d B A2 G4 z G B c d > e
+w:3
+f d ^c d2 ^c "B"d G G G F > E D/ E/ F/ D/ E/ F/ G2 ^F G g g g f > e d f e d e2
+w:4
+d2 B2 G > F G/ A/ B/ G/ A B2 A "C"B2 d2 G3 A B2 G2 d2 z g2 f2 e2 d2 ^c d f e2 d A > B c
+w:5
+B G > A B A/ G/ F/ E/ D d2 ^c d c/ B/ A G A2 "D"G4 z2 g2 d3 e f2 d2 g2 f2 e2 d2
+w:6
+c2 f2 e d e2 d2 G/ A/ B/ c/ d/ e/ f/ e/ d/ c/ B/ A/ G/ A/ B A G ^F G2 ^F G2 d2 G3 A
+w:7
+B2 G2 d D2 G > A B/ c/ d D G A B G A/ G/ F/ E/ D d ^c d2 ^c d G/ A/ 
+w:8
+ B/ c/ d/ e/ f/ e/ d/ c/ B/ A/ G/ A/ B/ c/ d/ e/ f d e f g3 ^f/ e/ ^f2 Hg4 |]
+w:9
+
+

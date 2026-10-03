@@ -1,0 +1,22 @@
+X:1304
+T:N.13 Solo e coro
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:C
+V: 4 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 4 ]
+%---
+[Q:"Allegretto"] !f![DG,]2 [DG,] [DG,]2 [DG,] | [EG,]2 [EG,] [EG,]2 [EG,] | [DG,]2 [DG,] [DB,]2 [DB,] | \
+[EG,] [EG,] z z [DG,] z | z [EG,] z z [DG,] z | z [EC] z z [EC] z  !segno!|| \
+(F6 | (E6) | (D6) | C6) | (F6 | E6) | (!>!D3 !>!C3 | !>!B,3)-B,GG & x3 B,G,G,|| \
+z2[G,D][G,D]2[G,D] | z2[CE][CE]2[CE] | z2[G,D][G,D]2[G,D] | z2[CE][CE]2[CE] | z2[G,D][G,D]2[G,D] | z2[CE][CE]2[CE] | \
+z2[G,D][G,D]2[G,D]  !coda!|| [CE] [Q: "Lento"] z !p!G,D,2G, | (E,2G,) (D,2G,) | (C,2G,) !p!"^Piz."(D,2G,) | \
+(E,2G,) (D,2G,) | C,2G, C,C,z |: \
+(F6 | (E6) | (D6) | C6) | (F6 | E6) | (!>!D3 !>!C3 | !>!B,3)-B,GG & x3 B,G,G,|| \
+z2[G,D] [G,D]2[G,D] | z2[CE] [CE]2[CE] |  z2[G,D] [G,D]2[G,D] | C2G, D,2G, | \
+(E,2G,) (D,2G,) | (C,2G,) (D,2G,) |E,2G, D,2G, | C,2G, C,C,z \
+"_Esta""_repeti\cc\~ao""_faz-se""_3 vezes" :| X [Q:"A tempo"] !segno!|| "_Repete" X !coda!|| \
+[CE]zz !/![G,D]3 | [G,D]2z [G,D]2z | [G,D]2z z2z |] \
+%-----

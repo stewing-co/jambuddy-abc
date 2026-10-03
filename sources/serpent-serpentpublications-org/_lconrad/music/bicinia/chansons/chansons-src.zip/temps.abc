@@ -1,0 +1,70 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:37r. Ilz ont en mesme temps
+T:Seconde partie.
+T:Superius.
+C:André Pevernage
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+Z: Transcribed by Laura Conrad http://www.laymusic.org
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C
+L:1/4
+N:Original clef, C on first line
+K:F
+z4 F2 F G A B c2 z2 c2 c B A G F F A/ G/ A/ B/ c3 B/ A/ B c A G G2 z G B/ A/ B/ c/ d3 c/ B/ c d
+w:Ilz ont en mes- me temps, ilz ont en mes- me temps, \'e- gal * * * * * * * con- tent- e- ment, \'e- gal * * * * * * * con-
+B A A4 z2 c4 B2 B4 z2 "A"B4 A2 A4 z2 A4 G2 G4 z2 G4 F2 F4 z E F G z F G A z c2 G2 B2 A/ G/ F3 G A2 G G c B
+w:ten- te- ment, Mesme en- nuy, Mesme en- nuy, Mesme en- ny, Mesme en- nuy, d'un seul coup, d'un seul coup, leurs poi- tri- * * * * * * nes en- ta-
+A G F3 E/ D/ E2 F4 z2 "B"F2 z F D/ C/ D/ E/ F/ E/ F/ G/ A/ G/ A/ B/ A2 A4 G F G6 F2 E4 z4 z2 c2 c d c d c2 A2 c12
+w:* * * * * * m\'e: Bref leur vi- * * * * * * * * * * * * e et * * leur mort pend d'un- e seul- e tra- me pend
+G3 F G F G2 "C"F2 F2 G2 A2 B2 G2 A2 z c2 B2 A2 G2 B2 A2 G A2  =B2 c c d2 z c B A G G F D
+w:d'un- e seul- e tra- me Et comm' un sim- ple corps Et comm' un sim- ple corps ils n'ont qu'un mou- ve- ment ils n'ont qu'un mou- ve- ment ils 
+E2 ^F2 G G A2 z d c B A A G D E2 ^F2 G G A A2 G2 F  F E/ D/ E E F16 |]
+w:n'ont qu'un mou- ve- ment ils n'ont qu'un mou- ve- ment ils n'ont qu'un mou- ve- ment ils n'ont qu'un mou- * * * ve- ment.
+
+X:2
+T:37r. Ilz ont en mesme temps
+T:Seconde partie.
+T:Alto.
+C:André Pevernage
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+Z: Transcribed by Laura Conrad http://www.laymusic.org
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+%%MIDI ratio 2 1
+M:C
+L:1/4
+N:Original clef, C on third line
+K:F -8va
+%%MIDI transpose -12
+f2 z2 f e d c B2 z2 F2 F G A B c2 z c d/ c/ d/ e/ f3 e/ d/ e f d c c2 z c e/ d/ e/ f/
+w:Ilz ont en mes- me temps, ilz ont en mes- me temps, \'e- gal * * * * * * * con- ten- te ment, \'e- gal * * *
+g3 f/ e/ f g _e d d4 z2 f4 _e2 e4 z2 "A"e4 d2 d4 z2 d4 c2 c4 z2 c4 B2 B4 z A B c z B c d z f2 c2 _e2 d/ c/
+w:* * * * con- ten- te- ment, Mesme en- nuy, mesme en- nuy, Mesme en- nuy, mesme en- nuy,  d'un seul coup, d'un seul coup leurs poi- tri * *
+B3 c d2 c c c B A G F G A B A G/ F/ G2 F4 "B"f2 z f d/ c/ d/ e/ f/ e/ f/ g/ a2 d4 c B c6 B2 A8 z2 f12 z2 f3 e f e
+w:* * * nes en- ta- * * * * * * * * * * * m\'e: Bref leur vi-      * * * * * * * * e et * * leur mort pend d'un- e seul- e
+f2 c2 z c c d e f2 e "C"f2 z B2 c2 d2 _e2 c2 d2 f _e2 d2 c2 _e2 d d c B A A G g f e d d
+w:tra- me pend d'un- e seul- e tra- me Et comm' un sim- ple corps Et comm' un sim- ple corps  ils n'ont qu'un mou- ve-  ment, ils n'ont qu'un mou- ve- 
+c c d2 e2 f f g2 z d c B A A G2 z G A2 =B2 c c d2 z2 c2 B2 A2 G2 G2 F16 |]
+w:ment ils n'ont qu'un mou- ve- ment ils n'ont qu'un mou- ve- ment ils n'ont qu'un mou- ve- ment ils n'ont qu'un mou- ve- ment.

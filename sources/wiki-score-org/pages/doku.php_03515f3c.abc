@@ -1,0 +1,19 @@
+X:701
+T:N.7 Schottisch do 37
+C:Fonseca, Eduardo da (1863-1938)
+M:C|
+L:1/4
+K:G
+V: 1 clef=treble name="Flauta" sname="Fl."
+%%MIDI program 1 73
+%%staves [ 1 ]
+%--- edit between the lines
+!>!!f!(e' | d'/)(d/f/a/ d')(f | g)f' g'/!fermata!z/ (!p!e || d/)(d/f/a/ c') c'| b!>!b2(c| \
+b,/)(b,/^d/f/ b)(a|g)g2(f|e/)(e/a/b/ c'/)(c'/b/a/)|e'/(d'/b/g/d)(g|f/)(f/e/d/) (a/^g/a/b/) | \
+g2zb | (b/a/g/e/) (^c/e/g/e/) | (ba2) g | {ga}g/(f/^e/f/) (^c'd') | ^c'b2b | \
+{b^c'}b/2(^a/2b/2^c'/2) (e'd') | d'a-a/2a/2^g/2a/2 | (^c'/2b/2a/2g/2) (.f.e)| \
+ba2b| b/2a/2g/2e/2 ^c/2e/2g/2e/2 | ba2g | {ga}g/2f/2^e/2f/2 (=e'd') | \
+^c'b2b | {b^c'}b/2^a/2b/2^d'/2 e'd'| d'!>!a-a/2(a/2^g/2a/2) | \
+(^c'/b/a/g/) fe'| d'2z(e||d/)(e/f/a/ c')c'|bb2(c|B/)B/^d/g/ ba| gg2(f|e/)(e/a/b/ c'/)c'/b/a/ | \
+e'/(d'/b/g/)d(g|f/)f/e/d/ a/^g/a/b/ | g !>!g'!>!g'/z/ |] \
+%---

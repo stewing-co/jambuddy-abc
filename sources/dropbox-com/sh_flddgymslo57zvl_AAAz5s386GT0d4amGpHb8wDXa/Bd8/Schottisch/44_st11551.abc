@@ -1,0 +1,49 @@
+I:abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X: 1
+T: Ach, ich bin so m\"ude (Schottisch) CF chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.374 (st11504) orig. C,F-Dur
+T: Tänze aus Altdorf (Uri)
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+ee |: "C"e2G2 e2fe | "G7"d2G2d4 | f3e f2g2 | "C"e4 cGcd | e2G2 e2fe | "G7"d2G2d4 | g3f e2d2 |1 "C"c2cc c2ee :|2 "C"c2cc c2z2 || [K:F]
+|: 
+"F"c2ABc4 | c2Bcf4 | "C7"e2ed c2cB | "F"A2d2c4 | c2ABc4 | c2Bcf4 | "C7"e3d cBAG | "F"F2FF F2"_> Teil A"z2 ::
+"F"A2AA A2B2 | c4f4 | "Bb"d4 fed2 | "F"c8 | "C7"g2gg g2f2 | e2d2c4 | e2ee e2d2 | "F"c2B2A4 | 
+A2AA A2B2 | c4f4 | "Bb"d4 fed2 | "F"c8 | "C7"g2gg g2f2 | e2d2c4 | c4b3e | "F"f2f2 f2z2 :| 
+
+X: 2
+T: Ach, ich bin so m\"ude (Schottisch) CF chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+ee [P:A] |: "C"e2G2 e2fe | "G7"d2G2d4 | f3e f2g2 | "C"e4 cGcd | e2G2 e2fe | "G7"d2G2d4 | g3f e2d2 |1 "C"c2cc c2ee :|2 "C"c2cc c2z2 || [K:F] 
+[P:B] |: "F"c2ABc4 | c2Bcf4 | "C7"e2ed c2cB | "F"A2d2c4 | c2ABc4 | c2Bcf4 | "C7"e3d cBAG | "F"F2FF F2"_> Teil A"z2 ::
+[P:C] "F"A2AA A2B2 | c4f4 | "Bb"d4 fed2 | "F"c8 | "C7"g2gg g2f2 | e2d2c4 | e2ee e2d2 | "F"c2B2A4 | 
+A2AA A2B2 | c4f4 | "Bb"d4 fed2 | "F"c8 | "C7"g2gg g2f2 | e2d2c4 | c4b3e | "F"f2f2 f2z2 :| 
+
+X:3
+T:Ach, ich bin so m\"ude (Schottisch) GC 5- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+BB |: "G"B2D2 B2cB | "D7"A2D2A4 | c3B c2d2 | "G"B4 GDGA | B2D2 B2cB | "D7"A2D2A4 | d3c B2A2 |1 "G"G2GG G2BB :|2 "G"G2GG G2z2 || [K:Cmaj]  
+|: "C"G2EFG4 | G2FGc4 | "G7"B2BA G2GF | "C"E2A2G4 | G2EFG4 | G2FGc4 | "G7"B3A GFED | "C"C2CC C2"_> Teil A"z2 ::
+"C"E2EE E2F2 | G4c4 | "F"A4 cBA2 | "C"G8 | "G7"d2dd d2c2 | B2A2G4 | B2BB B2A2 | "C"G2F2E4 | 
+E2EE E2F2 | G4c4 | "F"A4 cBA2 | "C"G8 | "G7"d2dd d2c2 | B2A2G4 | G4f3B | "C"c2c2 c2z2 :| 
+
+X:4
+T:Ach, ich bin so m\"ude (Schottisch) GC 5- chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+BB [P:A] |: "G"B2D2 B2cB | "D7"A2D2A4 | c3B c2d2 | "G"B4 GDGA | B2D2 B2cB | "D7"A2D2A4 | d3c B2A2 |1 "G"G2GG G2BB :|2 "G"G2GG G2z2 || [K:Cmaj] 
+[P:B] |: "C"G2EFG4 | G2FGc4 | "G7"B2BA G2GF | "C"E2A2G4 | G2EFG4 | G2FGc4 | "G7"B3A GFED | "C"C2CC C2"_> Teil A"z2 ::
+[P:C] "C"E2EE E2F2 | G4c4 | "F"A4 cBA2 | "C"G8 | "G7"d2dd d2c2 | B2A2G4 | B2BB B2A2 | "C"G2F2E4 | 
+E2EE E2F2 | G4c4 | "F"A4 cBA2 | "C"G8 | "G7"d2dd d2c2 | B2A2G4 | G4f3B | "C"c2c2 c2z2 :| 
+

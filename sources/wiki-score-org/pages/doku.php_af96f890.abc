@@ -1,0 +1,25 @@
+X:503
+T:Agnus Dei
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 3 clef=alto name="Alto" sname="A."
+%%MIDI program 1 41
+%%staves [ 3 ]
+%------------------
+[Q:"Largetto"] !p! A,3 !>!B,3 | A,2 !p! A,-A,3- | A,2-A, A,2z | "_cres." ^C,/D,/E,/F,/G,/A,/ !>! (B,3 | \
+% fol.178
+A,2)A, !>!A,3 | (A,3B,2)G, | F,zz z2z | zz(_A G2)A | G2(_AG2)G- | G2!p!A-A2G-|Gzz !p! F/FFF/ | \
+G/EEE/ F/DDD/ | Ezz !p!F/FFF/ | E/EEE/ F3 | Ezz !p! (C2G, | C2G,D2^G,) |\
+!f! A,-A,/=B,/^C/D/ E-E/D/C/B,/ | A,-A,/=B,/^C/D/ E-E/D/C/B,/ | \
+!f! A/^ccc/- c/ccc/ | d/ddd/ ezz | !p! (^c2dc2d) | !fermata!^c6 || \
+% fol.182
+[Q:"Allegro"][K:F][M:C|][L:1/4|] !f! Azz2 | !>!E3z | Z2 | !f! GzAz | (!>(!G!>)!FE)z | Z2 | \
+z/AAAA/ | =B/DD/Dz | Z2 | z/ !f!BBBB/ | c/CC/Cz | !f! Fz_Az | !f! czcz | czcz | c!f!CCC | CCCC | Czz2 | Z3 | \
+!f! ^CC2C | DDDz | !f! DD2D | CG,G,z | \
+!p! FF2F- | FF2_A | !f!=Azz2 | Bzz2 | !f! CC2C- | CCCz | !f! ED^C=C | =B,2_B,2 | A,zz2 | Z3 | z2 !f! _AA | _Azz2 | \
+!f! =Azcz | czcz | czz2 | !p! .A,zz2 | !p! B,4- | (B,4 | A,)zz2 | !p! .A,zz2 | \
+!p! G,4- | (G,4 | .A,)zz2 | !p! .A,zz2 | !p! B,4- | (B,4 | A,)zz2 | !p! .A,zz2 | \
+!p! E4- | (E4 | F)zz !p! A, | A,A,A,A, | A,zz2 | !p! A,zz2 | A,zz2 | !p! A,zz2 |] \
+%------------------

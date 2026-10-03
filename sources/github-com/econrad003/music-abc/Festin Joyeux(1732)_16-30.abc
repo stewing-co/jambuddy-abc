@@ -1,0 +1,350 @@
+%abc-2.2
+
+B:Festin joyeux ou la cuisine en musique, en vers libres.  Paris, 1738.
+% From the Gallica collection of the Biblioth\`eque Nationale de France
+%(BnF - the French National Library)...  A PDF copy (roughly 150 MB) of
+% the book is available online, free of charge and without registration.
+
+% Transcriber's Statement:
+%    Given the age of the work, it is likely in the public domain.  To the best of
+% my knowledge, I cannot claim a copyright in this partial transcription, nor do I
+% wish to make any such claim.
+%     If you make changes to the transcrption of a tune, please include a note to that
+% effect. You can do so with a Z: header placed after mine -- something like:
+%          X:999
+%          T:Sample tune [FJ999]
+%          S:Festin Joyeux, page 555.
+%          Z:transcribed by Eric Conrad, 2021
+%          Z:chords added by John and Jane Doe, 2127
+% -- Eric Conrad, 2021.
+
+% A collection of banquet menus (in French) that have been set to music.  Each menu
+% is set to one of 49 tunes whose music appears in an appendix.  See #3 for a partial
+% example of the result -- I've only set one stanza of the course to the music...
+
+% General Notes:
+% Obsolete Meter Notation:
+%    2 transcribed as 2/2
+%    3 transcribed as 3/4
+% 
+% The tunes are used to announce courses of a meal.  Most sections have banguet menus
+% for a dozen or more guests.  Presumably someone on the serving staff sang the menu
+% for a course as it was served.  Each service indicates a tune.  For an example, see
+% #3 Que C\'esar pousse Pomp\'ee -- I've only transcribed one verse.
+% 
+% Some notes appear in almost every tune.  In the MS, Repeats are not marked at the beginning
+% or end of a tune, but I've inserted the implicit repeats in this transcription.  Plus signs
+% (above or below the staff in the MS depending on the placement of the note, and always above
+% the in this transcription) probably indicate an ornament such as a trill or a roll.  Other
+% notes may indicate difficulties in the manuscript, and places where I the transcriber have
+% taken liberties in interpreting the MS.
+
+% Specific notes
+
+% Tune #24 - Sortez de l'amoureux empire
+%       The version in the MS is problematic with its short measures.  I made a stab at a
+%       "reconstruction" (#24), but the result is hardly satisfactory.  #124 is essentially
+%       the original, including placement of the G clef (supported by abcm2ps, but not necessarily
+%       by other printing programs) and the time signature (ditto) -- but I'm not sure how to
+%       recreate the repeat marks.
+% Tune #124 - I haven't attempted to (a) find a menu set to "Sortez de l'amoureux empire" and
+%       (b) set it to the tune.  It's possible that the short measures will make more sense
+%       in that context.
+
+X:16
+T:Quand on a quitt\'e. [FJ16]
+S:Festin joyeux.  Music page 9.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "2"
+N:NB In the MS, the G is the bottom line of the staff
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:2/2
+L:1/4
+% K:Ddor clef=treble1 % MS has G on bottom line
+K:Ddor % no sharps or flats, ending on D, with raised seventh (C#), missing sixth (B)
+|: d>^cd"^+"e | f2g>a | "^+"e2e2 | d>^cde | f2g>a | "^+"e4 :|
+|: e>f"^+"f>e | d2e>f | "^+"^c2d2 | e>fe^c | d>ee>d | d4 :|
+
+
+X:17
+T:Quel plaisirs d'aimer. [FJ17]
+S:Festin joyeux.  Music page 9.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "2"
+N:NB In the MS, the G is the bottom line of the staff
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB1 The dot is missing in the MS.
+M:4/4
+L:1/4
+% K:C clef=treble1 % MS has G on line 1
+K:C % no sharps or flats, ending on C
+|: e>fed | c2c>B | "^+"A2A2 | f>gf>e | d>ec>d | "^+"B2B2 :|
+|: d>dg>g | ccf>f | "^+"e2e2 | d>d"_NB1"d>e | c>e"^+"d>c | "^+"B2c2 :|
+
+X:18
+T:La Musique est incommode. [FJ18]
+% "Musique" is capitalized in the MS, suggesting a personification.
+S:Festin joyeux.  Music page 9.
+Z:transcribed by Eric Conrad, 2021.
+N:NB This is the second 3/2 meter tune.  There are some short measures in the MS.
+N:NB In the MS, the G is the bottom line of the staff
+N:NB Repeat marks were added at beginning.  There is a repeat near the end, but this creates a long measure.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB1 Short measure.  MS has |"^+"c2-:| (trill half-note tied to note following)
+N:NB2 MS intent is uncertain.
+N:NB3 MS has |:-c2AB"^+"cc|, but this is inconsistent with the ending repeat.  I've omitted "c2" here.
+N:NB4 Repeat as in MS.  The MS has :|-A3||.  Changed here to :|-A4|| for consistency with pickup to A part.
+M:3/2
+L:1/4
+% K:C clef=treble1 % MS has G on line 1
+K:C % no sharps or flats, ending in C
+|: cd | e2 e2 eg | "^+"e2 e2 cd | e2 e2 eg |1 "_NB1""^+"e4 :|2 "_NB2""^+"e2 ||
+|: "_NB3"cd "^+"ee | eg "^+"d2 d2 | g>f ec dB | c2- :| "_NB4"c4 |]
+
+
+X:19
+T:Quand tes beaux yeux. [FJ19]
+S:Festin joyeux.  Music page 10.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "3"
+N:NB In the MS, the G is the bottom line of the staff
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB1 MS has the note with two stems, one up and one down.
+M:3/4
+L:1/4
+% K:C clef=treble1 % MS has G on line 1
+K:C % no sharps or flats, ending on C
+|: efg | "^+"f>ef | d>e d/4c/d/4 | "^+"d2d | efg | "^+"f>ef |
+e/4d/e/4 "^+"e>d | d3 :: d>ef | "^+"e>fg | e"^+"d>c |
+d2"_(sic!)"B | d>ef | "^+"e>fg | e"^+"d>c | "_NB1"c3 :|
+
+
+X:20
+T:Je vous avois cru belle. [FJ20]
+S:Festin joyeux.  Music page 10.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "3"
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB1 The MS has a dot in the fourth space (e). The intent is unclear.
+M:3/4
+L:1/4
+% K:C clef=treble1 % MS has G on line 1
+K:C
+|: e>de | f(d>e) | "^+"e>(dc) | e>de | f(d>e) | "^+"e3 :|
+|: e>de | fd2 | B2c | (d>c)d | e>(dc) |
+e>de | f"^+"(d>c) | "^+"B2c | "_NB1"e/d/"^+"d2 | c3 :|
+
+X:21
+T:Non jamais. [FJ21]
+S:Festin joyeux.  Music page 11.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "3"
+N:NB In the MS, the G is the bottom line of the staff
+N:NB There are no repeats in the MS.  There are two parts.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:3/4
+L:1/4
+% K:Am clef=treble1 % MS has G on line 1
+K:Am % no sharps or flats, ending on A
+ea2 | e>fg | fe^d | e2e | ea2 |
+e>fg | fe^d | e3 || e"^+"d2 | c>de | dcB |
+"^+"A2A | e"^+"d2 | c>de | dcB | A3 |]
+
+X:22
+T:Si-t\^ot qu'a table.  [FJ22]
+S:Festin joyeux.  Music page 11.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "3"
+N:NB In the MS, the G is the bottom line of the staff (lines: GBdfa)
+N:NB There are no repeats in the MS.  There are two parts.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:The D# in measure 16 is interesting...
+M:3/4
+L:1/4
+% K:Ddor clef=treble1 % MS has G on line 1, so third line is D
+K:Ddor % no accidentals in key signature, ending on D
+ddd | a2a | _b2a | "^+"g3 | aag | ^ffg | a"^+"e2 | d3 ||
+eee | f2f | c2c | f3 | fef | d2f | "^+"d2c | ^d2d |
+eee | f2f | c2c | f3 | fef | ^c2d | e"^+"e2 | d3 |]
+
+
+X:23
+T:Notre espoir. [FJ23]
+S:Festin joyeux.  Music page 12.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "3"
+N:NB G is the second line of the staff (lines: EGBdf), so back to normal?
+N:NB MS has a four-dot repeat in the middle, with no marks at start or end.
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:3/4
+L:1/4
+K:C % no sharps or flats ending on C.
+|: e2f | g>ag | fef | e/f/e/ (d/c) | e2f | g>ag |
+fdg | "^+"e3 :: "^+"B2c | d>ef | "^+"e>dc | d2G |
+"^+"B2c | d>ef | e f/e/d/c/ | dGc | d"^+"d>c | c3 :|
+
+
+X:24
+T:Sortez de l'amoureux empire. [FJ24]
+% "corrected" version
+S:Festin joyeux.  Music page 12.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "2"
+N:NB G is the first line of the staff (lines: GBdfa), so watch out!
+N:NB MS has a four-dot repeat in the middle, with no marks at start or end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB In MS, music is keyed in D Dorian, but each B is flatted.
+N:NB1 First note is D.  G is on line 1 in MS. Start of repeat is not in the MS. Assuming one note pickup here.
+N:NB2 All B notes are marked accidentally flat in MS. Accidental moved to key signature here.
+N:NB3 Short measure followed by a repeat mark (described above).
+N:NB4 Sharp C - raised seventh. (Harmonic minor.)
+N:NB5 Short measure with (as usual) no repeat indication.
+N:NB6 added repeat mark and shortened this note from dotted half (MS) to quarter (here)
+N:NB7 separated into first and second ending.  MS has |d2||.  Here: |1d2:|2d4|]
+M:2/2
+L:1/4
+% Key signature, B is marked flat throughout, so Dmin (here) instead of D Dorian (MS)
+% K:Dmin clef=treble1 % MS has G on line 1, so third line is D
+K:Dmin % Since Bb always
+"_NB1"zd |: f>f | ga "^+"ge | fd fg/a/ | "_NB2"b2 ba | "^+"g2 g/f/g |1 "_NB3"a2 :|2
+a2- |: "_NB6"ae | fg/a/ de/f/ | "^+"e2 fg/a/ | "_NB2"ba bg | a/> (g/ f) za |
+b>a "^+"g>f | ef g/f/e/d/ | "_NB4""^+"^c2 ze | a2 ee/f/ | (f2 "^+"e2) |1 "_NB5"d2 :|2 "_NB7"d4 |]
+
+X:124
+T:Sortez de l'amoureux empire. [FJ24]
+T:(essentially as it appears in the manuscript)
+S:Festin joyeux.  Music page 12.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "2"
+N:NB G is the first line of the staff (lines: GBdfa), so watch out!
+N:NB MS has a four-dot repeat in the middle, with no marks at start or end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB In MS, music is keyed in D Dorian, but each B is flatted.
+N:NB1 First note is D.  G is on line 1 in MS. No start of repeat in the MS.
+N:NB2 All B notes are marked accidentally flat in MS. Accidental moved to key signature here.
+N:NB3 Short measure followed by a repeat mark (described above).
+N:NB4 Sharp C - raised seventh. (Harmonic minor.)
+N:NB5 Short measure with (as usual) no repeat indication.
+N:NB6 sic!
+N:NB7 see NB7 in "corrected" version
+M:2
+L:1/4
+% Key signature, B is marked flat throughout, so Dmin (here) instead of D Dorian (MS)
+K:Ddor clef=treble1 % MS has G on line 1, so third line is D
+"_NB1"zd f>f | ga "^+"ge | fd fg/a/ | "_NB2"_b2 ba | "^+"g2 g/f/g | "_NB3"a2- ::
+ "_NB6"a3e | fg/a/ de/f/ | "^+"e2 fg/a/ | "_NB2"_ba bg | a/> (g/ f) za |
+b>a "^+"g>f | ef g/f/e/d/ | "_NB4""^+"^c2 ze | a2 ee/f/ | (f2 "^+"e2) | "_NB5,7"d2 ||
+
+
+
+X:25
+T:Je n'ai plus de ma\^itresse. [FJ25]
+S:Festin joyeux.  Music page 13.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "2"
+N:NB G is the second line of the staff (lines: usual EGBdf).
+N:NB MS has a four-dot repeat in the middle, with no marks at start or end.
+N:NB Repeat marks were added at beginning and end.
+N:NB The MS repeat mark is 4 vertical dots enclosed by bars on both sides.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:2/2
+L:1/4
+K:C % no sharps or flats, ending in C
+|: G | c>B c>d | f2 f>e | c>A d>d | d3 ::
+G | GE A>G | F2 E>A | A>G A>B | c2 G>e | "^+"dc "^+"c>B | c3 :|
+
+X:26
+T:Si l'amour. [FJ26]
+S:Festin joyeux.  Music page 13.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "2"
+N:NB In the MS, the G is the bottom line of the staff (lines: GBdfa)
+N:NB MS has a four-dot repeat in the middle, with no marks at start or end.
+N:NB Repeat marks were added at beginning and end.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:2/2
+L:1/4
+% K:C clef=treble1 % G is on bottom line of the staff
+K:C % no sharps or flats in MS signature, ending on C
+|: c | de fd | e>f e :: e | e>d ef | "^+"d2 de | dc Bc |
+d/c/d/e/ dc | d>e fe | "^+"d2 de | d>c "^+"c>B | c3 :|
+
+
+X:27
+T:Boire \`a la Capucine. [FJ27]
+S:Festin joyeux.  Music page 14.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "3"
+N:NB In the MS, the G is the second line as is usual today (lines: EGBdf)
+N:NB MS has a four-dot repeat in the middle, with no marks at start or end.
+N:NB Repeat marks were added at beginning and end.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:3/4
+L:1/4
+K:Am % no sharps or flats in signature, ending on A (some raised thirds and all raised sevenths)
+|: E | A2B | c2A | eeE | A2B | c3/2 B/A/B/ | "^+"B2 ::
+e | c2d | e2f | "^+"dce | A2B | "^+"^G2A |
+BEe | f2d | e^c2 | d2B | "^+"^G2A | B"^+"B2 | A2 :|
+
+X:28
+T:Que Bacchus. [FJ28]
+S:Festin joyeux.  Music page 14.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "3"
+N:NB In the MS, the G is the bottom line of the staff (lines: GBdfa)
+N:NB MS has a four-dot repeat in the middle, with no marks at start or end.
+N:NB Repeat marks were added at beginning and end.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:3/4
+L:1/4
+% K:Ddor clef=treble1 % G is on bottom line of the staff
+K:Ddor % no sharps or flats in signature, ending on D (with all sevenths raised -- sharped C)
+|: f>ef | de^c | d2A | f>ef | de^c | d3 ::
+a>gf | efd | ^c2d | e3/2 f/e/f/ | "^+"f2e | g>fe |
+f g/f/e/d/ | ^cd>e | "^+"e>d^c | d3 :|
+
+X:29
+T:Suivons la maxime. [FJ29]
+S:Festin joyeux.  Music page 15.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "2"
+N:NB In the MS, the G is the bottom line of the staff (lines: GBdfa)
+N:NB MS has a four-dot repeat in the middle, with no marks at start or end.
+N:NB Repeat marks were added at beginning and end.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+N:NB1 MS has a half note (C2), changed to whole note here (C4).
+M:2/2
+L:1/4
+% K:C clef=treble1 % Staff marked GBdfa as in MS
+K:C
+|: ccBc | dcde | edc2 :: cccB | A2d2 |
+"^+"B2G2 | ABcB | A2d2 | "_NB1"c4 :|
+
+X:30
+T:Entre cinq ou six. [FJ30]
+S:Festin joyeux.  Music page 15.
+Z:transcribed by Eric Conrad, 2021.
+N:NB The meter is given simply as "2"
+N:NB In the MS, the G is the bottom line of the staff (lines: GBdfa)
+N:NB MS has a four-dot repeat in the middle, with no marks at start or end.
+N:NB Repeat marks were added at beginning and end.
+N:NB The plus signs seem to indicate some kind of roll or trill.
+M:4/4
+L:1/4
+% K:C clef=treble1 % Staff marked GBdfa as in MS
+K:C
+|: e/d/e/f/ | ee/f/ gg | ec e/d/e/f/ | ee/f/ gg | "^+"e2 ::
+e2 | c2 fe | dB cc | e2 c2 | fe dB | c2 :|

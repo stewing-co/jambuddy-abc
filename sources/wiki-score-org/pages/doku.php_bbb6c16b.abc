@@ -1,0 +1,27 @@
+X:1113
+T:Aria Demetrio
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:Bb
+V: 13 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 13 ]
+%--------------------- edit between the lines ------
+[Q: "Allegro"]  z// | B,DF z | c e !fermata! A z | \
+z(A,/>C/) B,z|z(A,/>C/) B,z| z2z//B//d//c// B//A//G//F// | \
+Ez z//F//A//G// F//E//D//C// | B,zz2| !fermata!z4 | \
+"_[check]"B,zz2 | Fzz2|B,BB,z| !fermata!F4| !fermata!F4|B,zB,z| \
+B,zz2|!f!E/>E/E/>E/ Ez| !p!!/!F4| !f!B,2C2|!p!Dzz2| Ezz2| !/!F4| \
+!//!F2 !//!A2 & !//!D2 !//!E2 | [DB] zz2| z4 | "_[check]" x4 | \
+{d}D/4B,/4C/4D/4 E/4F/4G/4A/4 B/4c/4d/4c/4 B/4A/4G/4F/4 | =E/C/ "_[check]" !p!!/!C3 | \
+!/!C4 | !f!!/!C4 | !p! CzCz | !f!!/!C4 | D4 | !p! C/C/C/C/ C z | z/C/C/C/Cz | \
+!/!C4| Fzz2| Fzz2| !/!F2!/!A,2 | !/!B,4| B,z B,z | B,z B,z | !/! B,4| !/!C4| Fzz2 |\
+!f! C4| !p! C4| D2B,2 | A,2z2 | !f!C4 | !p!C4 | D2B,2 | A,2F2 | F2 !f!!p! D2 | \
+G B/B/ C/C/C/C/ | Fzz2 | Fzz2 | Bz/F/ Bz/F/ | BzBz | Azz2 | A,z A,z | !/!B,4 | \
+!/!B,4 | !f!!/!C4 | !/!C4 | !/!F4 | !/!F4 | !/!F4 | !/!F4 | FfcA | Fzz2 || \
+[Q:"Andante"][M:3/4] FFC | FFz | CCz | FFF | FFF | FFz | "_NB: check this later" F,=E,F, | \
+!/!G,3 | "cresc."!/!_A,3 | !/!B,3 | _A,3 | !fermata!G,zz | !p!F2z | !p!F2A | BcC | \
+!/!A3 | B/z/  B/z/  B/z/ | A/B/cC || \
+[Q:"Come prima"][M:C] !//!C4 | !//!C4 | !//!D4 | !//!CC/z/!//!DD/z/ | \
+%---------------------------------------------------

@@ -1,0 +1,84 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Polka 1870/75  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.44 (pk08989) orig. C,F-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"GAGF EGce | "G7"f2B2 {/c}BAB2 | GBde fagf | "C"egc2 ceG2 | GAGF EGce | "G7"f2B2 {/c}BAB2 | 
+Bcde fagB |1 "C"c2c2 c2z2 :|2 "C"c2c2 c2cB || "Am"A2AA A2E2 | A2E2 A2B2 | c2^c2 d2^d2 | "E7"e2ee e2e2 | "G7"a3g f2B2 | 
+"C"d2c2 cBc2 | "G7"A2F2 f2B2 | "C"d2c2 cBc2 | "G7"a3g f2B2 | "C"d2c2 cBc2 | "G7"A2G2 f2B2 | "C"c2c2"_Fine" c2A_B |] [K:F] "F"ccc2 a2g2 | 
+f2A2 c2f2 | "C7"e2G2 d2E2 | "F"c2F2 A2AA | c2cc a2g2 | "C7"f2A2 c2f2 | g2c2 e2c2 |1 "F"f2f2 f2AB :|2 "F"f2f2 f2ce || 
+"C"a2ge c2eg | "G7"f2^c2.d4 | f2G2 d2G2 | "C"e2G2 c2ce | a2ge c2eg | "F"f2a2f4 | "G7"=Bcde f2e2 | "C"c2e2 c2z2 |]  
+% pk08989
+X:2
+T:Polka 1870/75  GC 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"DEDC B,DGB | "D7"c2F2 {/G}FEF2 | DFAB cedc | "G"BdG2 GBD2 | DEDC B,DGB | "D7"c2F2 {/G}FEF2 | 
+FGAB cedF |1 "G"G2G2 G2z2 :|2 "G"G2G2 G2GF || "Em"E2EE E2B,2 | E2B,2 E2F2 | G2^G2 A2^A2 | "B7"B2BB B2B2 | "D7"e3d c2F2 | 
+"G"A2G2 GFG2 | "D7"E2C2 c2F2 | "G"A2G2 GFG2 | "D7"e3d c2F2 | "G"A2G2 GFG2 | "D7"E2D2 c2F2 | "G"G2G2"_Fine" G2E=F |] [K:C] "C"GGG2 e2d2 | 
+c2E2 G2c2 | "G7"B2D2 A2B,2 | "C"G2C2 E2EE | G2GG e2d2 | "G7"c2E2 G2c2 | d2G2 B2G2 |1 "C"c2c2 c2EF :|2 "C"c2c2 c2GB || 
+"G"e2dB G2Bd | "D7"c2^G2.A4 | c2D2 A2D2 | "G"B2D2 G2GB | e2dB G2Bd | "C"c2e2c4 | "D7"^FGAB c2B2 | "G"G2B2 "_>Teil ?"G2z2 |] 
+% pk08989
+X:3
+T: Polka 1870/75  CF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"GAGF EGce | "G7"f2B2 {/c}BAB2 | GBde fagf | "C"egc2 ceG2 | GAGF EGce | "G7"f2B2 {/c}BAB2 | 
+Bcde fagB |1 "C"c2c2 c2z2 :|2 "C"c2c2 c2cB || "Am"A2AA A2E2 | A2E2 A2B2 | c2^c2 d2^d2 | "E7"e2ee e2e2 | "G7"a3g f2B2 | 
+"C"d2c2 cBc2 | "G7"A2F2 f2B2 | "C"d2c2 cBc2 | "G7"a3g f2B2 | "C"d2c2 cBc2 | "G7"A2G2 f2B2 | "C"c2c2"_Fine" c2A_B |] [K:F] "F"ccc2 a2g2 | 
+f2A2 c2f2 | "C7"e2G2 d2E2 | "F"c2F2 A2AA | c2cc a2g2 | "C7"f2A2 c2f2 | g2c2 e2c2 |1 "F"f2f2 f2AB :|2 "F"f2f2 f2ce || 
+"C"a2ge c2eg | "G7"f2^c2.d4 | f2G2 d2G2 | "C"e2G2 c2ce | a2ge c2eg | "F"f2a2f4 | "G7"=Bcde f2e2 | "C"c2e2 c2z2 |]  
+% pk08989
+X:4
+T:Polka 1870/75  GC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"DEDC B,DGB | "D7"c2F2 {/G}FEF2 | DFAB cedc | "G"BdG2 GBD2 | DEDC B,DGB | "D7"c2F2 {/G}FEF2 | 
+FGAB cedF |1 "G"G2G2 G2z2 :|2 "G"G2G2 G2GF || "Em"E2EE E2B,2 | E2B,2 E2F2 | G2^G2 A2^A2 | "B7"B2BB B2B2 | "D7"e3d c2F2 | 
+"G"A2G2 GFG2 | "D7"E2C2 c2F2 | "G"A2G2 GFG2 | "D7"e3d c2F2 | "G"A2G2 GFG2 | "D7"E2D2 c2F2 | "G"G2G2"_Fine" G2E=F |] [K:C] "C"GGG2 e2d2 | 
+c2E2 G2c2 | "G7"B2D2 A2B,2 | "C"G2C2 E2EE | G2GG e2d2 | "G7"c2E2 G2c2 | d2G2 B2G2 |1 "C"c2c2 c2EF :|2 "C"c2c2 c2GB || 
+"G"e2dB G2Bd | "D7"c2^G2.A4 | c2D2 A2D2 | "G"B2D2 G2GB | e2dB G2Bd | "C"c2e2c4 | "D7"^FGAB c2B2 | "G"G2B2 "_>Teil ?"G2z2 |] 
+% pk08989
+X:5
+T:Polka 1870/75 D&G (tinwhistle in D)
+T:pk08989 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"ABAG FAdf | "A7"g2c2 {/d}cBc2 | Acef gbag | "D"fad2 dfA2 | ABAG FAdf | "A7"g2c2 {/d}cBc2 | 
+cdef gbac |1 "D"d2d2 d2z2 :|2 "D"d2d2 d2dc || "Bm"B2BB B2F2 | B2F2 B2c2 | d2^d2 e2^e2 | "F#7"f2ff f2f2 | "A7"b3a g2c2 | 
+"D"e2d2 dcd2 | "A7"B2G2 g2c2 | "D"e2d2 dcd2 | "A7"b3a g2c2 | "D"e2d2 dcd2 | "A7"B2A2 g2c2 | "D"d2d2"_Fine" d2B=c |] [K:G] "G"ddd2 b2a2 | 
+g2B2 d2g2 | "D7"f2A2 e2F2 | "G"d2G2 B2BB | d2dd b2a2 | "D7"g2B2 d2g2 | a2d2 f2d2 |1 "G"g2g2 g2Bc :|2 "G"g2g2 g2df || 
+"D"b2af d2fa | "A7"g2^d2.e4 | g2A2 e2A2 | "D"f2A2 d2df | b2af d2fa | "G"g2b2g4 | "A7"^cdef g2f2 | "D"d2f2 "_>Teil ?"d2z2 |] 
+X:6
+T:Polka 1870/75 D&G (tinwhistle in D) solo
+T:pk08989 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:D transpose=12
+ABAG FAdf | g2c2 {/d}cBc2 | Acef gbag | fad2 dfA2 | ABAG FAdf | g2c2 {/d}cBc2 | 
+cdef gbac |1 d2d2 d2z2 :|2 d2d2 d2dc || B2BB B2F2 | B2F2 B2c2 | d2^d2 e2^e2 | "F#7"f2ff f2f2 | b3a g2c2 | 
+e2d2 dcd2 | B2G2 g2c2 | e2d2 dcd2 | b3a g2c2 | e2d2 dcd2 | B2A2 g2c2 | d2d2"_Fine" d2B=c |] [K:G] ddd2 b2a2 | 
+g2B2 d2g2 | f2A2 e2F2 | d2G2 B2BB | d2dd b2a2 | g2B2 d2g2 | a2d2 f2d2 |1 g2g2 g2Bc :|2 g2g2 g2df || 
+b2af d2fa | g2^d2.e4 | g2A2 e2A2 | f2A2 d2df | b2af d2fa | g2b2g4 | ^cdef g2f2 | d2f2 "_>Teil ?"d2z2 |]
+% Aug 3, 2016

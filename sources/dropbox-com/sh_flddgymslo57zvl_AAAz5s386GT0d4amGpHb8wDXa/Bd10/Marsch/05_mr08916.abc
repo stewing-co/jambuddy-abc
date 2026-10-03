@@ -1,0 +1,112 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Luzerner Marsch  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.12 (mr08916) orig. C,F-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"g2 c'>e | g4 | "G7"g2 b>d | f4 | G2f>e | {/e}d^cd2 | {/d}"C"cBc2 | .G2 e>d | g2c'>e | g4 | "G7"g2b>d | f4 | 
+G2f>e | dc BA | g!>!e2d | "C"cc/c/ cz :| "C"e2e>f | "G7"g2d>e | f2 {g/f/}e>d | "C"c4 | "F"Ac BA | "C"Ge fe | 
+"G7"Gf gd | "C"cag2 | e2e>f | "G7"g2d>e | f2 {g/f/}e>d | "C"c4 | "F"Ac BA | "C"Gc ea | "G7"gd/e/ fB | "C"cc cz ||  
+{(cde)}"F"f2z2 | z2 c>f || [K:F]  "F"f2e2 | d2c2 | a4 | z2g>a | "C7"b2b2 | a2g2 | "F"d'>=b c'2 | z>f e>f | 
+"C7"b2b2 | b2b2 | "F"b>^ga2 | z2b2 | "C7"a>^fg2 | z2a2 | "F"g>ef2 | zf e>f | "C7"b2b2 | b2b2 | "F"b>^ga2 | 
+z2b2 | "C7"a>^fg2 | ga/g/ fe | "F"ff "C7"ee | "F"ff fz |:"C7"c>d e>f | a>g d>e | "F"f4 | c2c>A | "C7"B2g>e | "F"f2c>A | 
+"C7"c3B | G2c>c | c>d e>f | a>g d>e | "F"f4 | .c2 c>A | "C7".B2 g>e | "F".f2 c>A | "C7"c'>b g>a | "F"ff fz :|
+% mr08916
+X:2
+T:Luzerner Marsch  GC 5-
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"d2 g>B | d4 | "D7"d2 f>A | c4 | D2c>B | {/B}A^GA2 | {/A}"G"GFG2 | .D2 B>A | d2g>B | d4 | "D7"d2f>A | c4 | 
+D2c>B | AG FE | d!>!B2A | "G"GG/2G/2 Gz :| "G"B2B>c | "D7"d2A>B | c2 {d/2c/2}B>A | "G"G4 | "C"EG FE | "G"DB cB | 
+"D7"Dc dA | "G"Ged2 | B2B>c | "D7"d2A>B | c2 {d/2c/2}B>A | "G"G4 | "C"EG FE | "G"DG Be | "D7"dA/2B/2 cF | "G"GG Gz || 
+{(GAB)}"C"c2z2 | z2 G>c || [K:C] "C"c2B2 | A2G2 | e4 | z2d>e | "G7"f2f2 | e2d2 | "C"a>^f g2 | z>c B>c | 
+"G7"f2f2 | f2f2 | "C"f>^de2 | z2f2 | "G7"e>^cd2 | z2e2 | "C"d>Bc2 | zc B>c | "G7"f2f2 | f2f2 | "C"f>^de2 | 
+z2f2 | "G7"e>^cd2 | de/2d/2 cB | "C"cc "G7"BB | "C"cc cz |:"G7"G>A B>c | e>d A>B | "C"c4 | G2G>E | "G7"F2d>B | "C"c2G>E | 
+"G7"G3F | D2G>G | G>A B>c | e>d A>B | "C"c4 | .G2 G>E | "G7".F2 d>B | "C".c2 G>E | "G7"g>f d>e | "C"cc cz :|
+% mr08916
+X:3
+T: Luzerner Marsch  CF (5letras transposed)
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"g2 c'>e | g4 | "G7"g2 b>d | f4 | G2f>e | {/e}d^cd2 | {/d}"C"cBc2 | .G2 e>d | g2c'>e | g4 | "G7"g2b>d | f4 | 
+G2f>e | dc BA | g!>!e2d | "C"cc/c/ cz :| "C"e2e>f | "G7"g2d>e | f2 {g/f/}e>d | "C"c4 | "F"Ac BA | "C"Ge fe | 
+"G7"Gf gd | "C"cag2 | e2e>f | "G7"g2d>e | f2 {g/f/}e>d | "C"c4 | "F"Ac BA | "C"Gc ea | "G7"gd/e/ fB | "C"cc cz ||  
+{(cde)}"F"f2z2 | z2 c>f || [K:F]  "F"f2e2 | d2c2 | a4 | z2g>a | "C7"b2b2 | a2g2 | "F"d'>=b c'2 | z>f e>f | 
+"C7"b2b2 | b2b2 | "F"b>^ga2 | z2b2 | "C7"a>^fg2 | z2a2 | "F"g>ef2 | zf e>f | "C7"b2b2 | b2b2 | "F"b>^ga2 | 
+z2b2 | "C7"a>^fg2 | ga/g/ fe | "F"ff "C7"ee | "F"ff fz |:"C7"c>d e>f | a>g d>e | "F"f4 | c2c>A | "C7"B2g>e | "F"f2c>A | 
+"C7"c3B | G2c>c | c>d e>f | a>g d>e | "F"f4 | .c2 c>A | "C7".B2 g>e | "F".f2 c>A | "C7"c'>b g>a | "F"ff fz :|
+% mr08916
+X:4
+T:Luzerner Marsch  GC (5letras transposed)
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"d2 g>B | d4 | "D7"d2 f>A | c4 | D2c>B | {/B}A^GA2 | {/A}"G"GFG2 | .D2 B>A | d2g>B | d4 | "D7"d2f>A | c4 | 
+D2c>B | AG FE | d!>!B2A | "G"GG/2G/2 Gz :| "G"B2B>c | "D7"d2A>B | c2 {d/2c/2}B>A | "G"G4 | "C"EG FE | "G"DB cB | 
+"D7"Dc dA | "G"Ged2 | B2B>c | "D7"d2A>B | c2 {d/2c/2}B>A | "G"G4 | "C"EG FE | "G"DG Be | "D7"dA/2B/2 cF | "G"GG Gz || 
+{(GAB)}"C"c2z2 | z2 G>c || [K:C] "C"c2B2 | A2G2 | e4 | z2d>e | "G7"f2f2 | e2d2 | "C"a>^f g2 | z>c B>c | 
+"G7"f2f2 | f2f2 | "C"f>^de2 | z2f2 | "G7"e>^cd2 | z2e2 | "C"d>Bc2 | zc B>c | "G7"f2f2 | f2f2 | "C"f>^de2 | 
+z2f2 | "G7"e>^cd2 | de/2d/2 cB | "C"cc "G7"BB | "C"cc cz |:"G7"G>A B>c | e>d A>B | "C"c4 | G2G>E | "G7"F2d>B | "C"c2G>E | 
+"G7"G3F | D2G>G | G>A B>c | e>d A>B | "C"c4 | .G2 G>E | "G7".F2 d>B | "C".c2 G>E | "G7"g>f d>e | "C"cc cz :|
+% mr08916
+X:5
+T:Luzerner Marsch D&G (tinwhistle in D)
+T:mr08916 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:march
+M:2/4
+L:1/8
+K:D transpose=3%%MIDI gchordon
+"D"A2 d>F | A4 | "A7"A2 c>E | G4 | A,2G>F | {/F}E^DE2 | {/E}"D"DCD2 | .A,2 F>E | A2d>F | A4 | "A7"A2c>E | G4 | 
+A,2G>F | ED CB, | A!>!F2E | "D"DD/2D/2 Dz :| "D"F2F>G | "A7"A2E>F | G2 {A/2G/2}F>E | "D"D4 | "G"B,D CB, | "D"A,F GF | 
+"A7"A,G AE | "D"DBA2 | F2F>G | "A7"A2E>F | G2 {A/2G/2}F>E | "D"D4 | "G"B,D CB, | "D"A,D FB | "A7"AE/2F/2 GC | "D"DD Dz || 
+{(DEF)}"G"G2z2 | z2 D>G || [K:G] "G"G2F2 | E2D2 | B4 | z2A>B | "D7"c2c2 | B2A2 | "G"e>^c d2 | z>G F>G | 
+"D7"c2c2 | c2c2 | "G"c>^AB2 | z2c2 | "D7"B>^GA2 | z2B2 | "G"A>FG2 | zG F>G | "D7"c2c2 | c2c2 | "G"c>^AB2 | 
+z2c2 | "D7"B>^GA2 | AB/2A/2 GF | "G"GG "D7"FF | "G"GG Gz |:"D7"D>E F>G | B>A E>F | "G"G4 | D2D>B, | "D7"C2A>F | "G"G2D>B, | 
+"D7"D3C | A,2D>D | D>E F>G | B>A E>F | "G"G4 | .D2 D>B, | "D7".C2 A>F | "G".G2 D>B, | "D7"d>c A>B | "G"GG Gz :|
+X:6
+T:Luzerner Marsch A&D (tinwhistle in D)
+T:mr08916 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:march
+M:2/4
+L:1/8
+K:A transpose=3%%MIDI gchordon
+"A"e2 a>c | e4 | "E7"e2 g>B | d4 | E2d>c | {/c}B^AB2 | {/B}"A"AGA2 | .E2 c>B | e2a>c | e4 | "E7"e2g>B | d4 | 
+E2d>c | BA GF | e!>!c2B | "A"AA/2A/2 Az :| "A"c2c>d | "E7"e2B>c | d2 {e/2d/2}c>B | "A"A4 | "D"FA GF | "A"Ec dc | 
+"E7"Ed eB | "A"Afe2 | c2c>d | "E7"e2B>c | d2 {e/2d/2}c>B | "A"A4 | "D"FA GF | "A"EA cf | "E7"eB/2c/2 dG | "A"AA Az || 
+{(ABc)}"D"d2z2 | z2 A>d || [K:D] "D"d2c2 | B2A2 | f4 | z2e>f | "A7"g2g2 | f2e2 | "D"b>^g a2 | z>d c>d | 
+"A7"g2g2 | g2g2 | "D"g>^ef2 | z2g2 | "A7"f>^de2 | z2f2 | "D"e>cd2 | zd c>d | "A7"g2g2 | g2g2 | "D"g>^ef2 | 
+z2g2 | "A7"f>^de2 | ef/2e/2 dc | "D"dd "A7"cc | "D"dd dz |:"A7"A>B c>d | f>e B>c | "D"d4 | A2A>F | "A7"G2e>c | "D"d2A>F | 
+"A7"A3G | E2A>A | A>B c>d | f>e B>c | "D"d4 | .A2 A>F | "A7".G2 e>c | "D".d2 A>F | "A7"a>g e>f | "D"dd dz :|
+X:7
+T:Luzerner Marsch A&D (tinwhistle in D) solo
+T:mr08916 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:march
+M:2/4
+L:1/8
+K:A transpose=12
+e2 a>c | e4 | e2 "_#"g>B | d4 | E2d>c | {/c}B^AB2 | {/B}A"_#"GA2 | .E2 c>B | e2a>c | e4 | e2"_#"g>B | d4 | 
+E2d>c | BA "_#"GF | e!>!c2B | AA/2A/2 Az :| c2c>d | e2B>c | d2 {e/2d/2}c>B | A4 | FA "_#"GF | Ec dc | 
+Ed eB | Afe2 | c2c>d | e2B>c | d2 {e/2d/2}c>B | A4 | FA "_#"GF | EA cf | eB/2c/2 d"_#"G | AA Az || 
+{(ABc)}d2z2 | z2 A>d || [K:D] d2c2 | B2A2 | f4 | z2e>f | g2g2 | f2e2 | b>^g a2 | z>d c>d | 
+g2g2 | g2g2 | g>^ef2 | z2g2 | f>^de2 | z2f2 | e>cd2 | zd c>d | g2g2 | g2g2 | g>^ef2 | 
+z2g2 | f>^de2 | ef/2e/2 dc | dd cc | dd dz |:A>B c>d | f>e B>c | d4 | A2A>F | G2e>c | d2A>F | 
+A3G | E2A>A | A>B c>d | f>e B>c | d4 | .A2 A>F | .G2 e>c | .d2 A>F | a>g e>f | dd dz :|
+% Aug 9, 2016

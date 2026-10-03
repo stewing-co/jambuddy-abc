@@ -1,0 +1,18 @@
+X:703
+T:N.7 Schottisch do 37
+C:Fonseca, Eduardo da (1863-1938)
+M:C|
+L:1/4
+K:G
+V: 3 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 3 }]
+%---
++>+(E | F/2)D/2F/2A/2 d([CD] | [B,D])[CD] [B,D]/2+fermata+z/2 z|| \
+zD !<(!(D/^D/E/F/) !<)!|G G2z | zB, !<(!(B,/C/^C/^D/) !<)!| E!>!E2z| z[CE] z[CE] | \
+z[B,D][B,D]z| z[CD][C]D | B,zz2| z[A,G]z[A,G]| F[FA]2z|z^CEF| ED2z | zG(.B.B) | \
+zF-Fz | z^CzC | DD2z | z[A,G]z[A,G] | F[FA]2z| z(^CEF|E)[DF]2z| zG(.B.B) | [FA]!>![FA]2z| \
+z^Cz!/![A,G] | [A,F]2zz || \
+zD (D/^D/E/F/ |G) !>!G2z | zB, (B,/C/^C/^D/) | E!>!E2z| z[CE]z[CE]| z[B,D][B,D]z| \
+zCCD|B,[CD][B,D]/z/ |] \
+%---

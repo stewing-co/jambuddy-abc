@@ -1,0 +1,71 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:L\"andler  G
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.109 (LD09161) orig. G
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+(DG) |:("D7"GF) (DF Ad) | ("G"ed) (BG Bd) | ("D7"gf) (cd fa) | ("G"c'b) (fg) (dB) | ("D7"GF) (DF Ac) | 
+("G"ed).B(G Bd) | ("D7"gf) (cd fa) |1 "G"g2z2DG :|2 "G"g2z2fg |: "D7"a>(g f>)(e d>)(c | "G"B3) (b gB) | 
+"D7"c3(a f).d | ("G"gf) .g.b (dg) | "D7"a>(g f>)(e d>)(c | "G"B3) (b gB) | "D7"c3(a f).d |1 "G"g2z2fg :|2 "G"g2z2z2 |] 
+% LD09161 (H 329/TN 1)
+% Aug.19, 2016
+X:2
+T:L\"andler  F 2-
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+(CF) |:("C7"FE) (CE Gc) | ("F"dc) (AF Ac) | ("C7"fe) (Bc eg) | ("F"ba) (ef) (cA) | ("C7"FE) (CE GB) | 
+("F"dc).A(F Ac) | ("C7"fe) (Bc eg) |1 "F"f2z2CF :|2 "F"f2z2ef |: "C7"g>(f e>)(d c>)(B | "F"A3) (a fA) | 
+"C7"B3(g e).c | ("F"fe) .f.a (cf) | "C7"g>(f e>)(d c>)(B | "F"A3) (a fA) | "C7"B3(g e).c |1 "F"f2z2ef :|2 "F"f2z2z2 |] 
+% LD09161
+X:3
+T:L\"andler  G (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+(DG) |:("D7"GF) (DF Ad) | ("G"ed) (BG Bd) | ("D7"gf) (cd fa) | ("G"c'b) (fg) (dB) | ("D7"GF) (DF Ac) | 
+("G"ed).B(G Bd) | ("D7"gf) (cd fa) |1 "G"g2z2DG :|2 "G"g2z2fg |: "D7"a>(g f>)(e d>)(c | "G"B3) (b gB) | 
+"D7"c3(a f).d | ("G"gf) .g.b (dg) | "D7"a>(g f>)(e d>)(c | "G"B3) (b gB) | "D7"c3(a f).d |1 "G"g2z2fg :|2 "G"g2z2z2 |] 
+% LD09161
+X:4
+T:L\"andler  F (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+(CF) |:("C7"FE) (CE Gc) | ("F"dc) (AF Ac) | ("C7"fe) (Bc eg) | ("F"ba) (ef) (cA) | ("C7"FE) (CE GB) | 
+("F"dc).A(F Ac) | ("C7"fe) (Bc eg) |1 "F"f2z2CF :|2 "F"f2z2ef |: "C7"g>(f e>)(d c>)(B | "F"A3) (a fA) | 
+"C7"B3(g e).c | ("F"fe) .f.a (cf) | "C7"g>(f e>)(d c>)(B | "F"A3) (a fA) | "C7"B3(g e).c |1 "F"f2z2ef :|2 "F"f2z2z2 |] 
+% LD09161
+X:5
+T:L\"andler G (tinwhistle in D)
+T:LD09161 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+(DG) |:("D7"GF) (DF Ad) | ("G"ed) (BG Bd) | ("D7"gf) (cd fa) | ("G"c'b) (fg) (dB) | ("D7"GF) (DF Ac) | 
+("G"ed).B(G Bd) | ("D7"gf) (cd fa) |1 "G"g2z2DG :|2 "G"g2z2fg |: "D7"a>(g f>)(e d>)(c | "G"B3) (b gB) | 
+"D7"c3(a f).d | ("G"gf) .g.b (dg) | "D7"a>(g f>)(e d>)(c | "G"B3) (b gB) | "D7"c3(a f).d |1 "G"g2z2fg :|2 "G"g2z2z2 |] 
+X:6
+T:L\"andler G (tinwhistle in D) solo
+T:LD09161 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:G transpose=12
+(DG) |:(GF) (DF Ad) | (ed) (BG Bd) | (gf) ("_c"cd fa) | (c'b) (fg) (dB) | (GF) (DF A"_c"c) | 
+(ed).B(G Bd) | (gf) ("_c"cd fa) |1 g2z2DG :|2 g2z2fg |: a>(g f>)(e d>)("_c"c | B3) (b gB) | 
+"_c"c3(a f).d | (gf) .g.b (dg) | a>(g f>)(e d>)("_c"c | B3) (b gB) | "_c"c3(a f).d |1 g2z2fg :|2 g2z2z2 |]
+% Aug 19, 2016

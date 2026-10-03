@@ -1,0 +1,240 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:III. To aske for all thy love,
+T:CANTUS.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:G dor
+G2 A > A B c d d/ e/ | f c2 c B2 A2 
+w: 1.~To aske for all thy love, and thy whole heart t'were mad- nesse,
+w: 2.~He that re- cei- veth all, can have no more than see- ing.
+w: 3.~You can- not e- very day give me your heart for mer- it:
+w: 4.~Yet if you please, Ile finde a bet- ter way, than change them:
+|: z z/ f e d/ g3/2
+w: I doe not sue, 
+w: My Love by length 
+w: Yet if you will
+w: For so a- lone
+ f/ _e e | d B/ c/ d/ e/ 
+w: nor can ad- mit (fai- * * rest) 
+w: of e- very houre, 
+w: when yours doth goe, 
+w: dear- est we shall 
+f e > d c/ B/ c |
+w: from you to have * all,
+w: ga- * thers  new  strength, 
+w: You shall have * still
+w: Be * one  and  one,
+B d2 (c > c) B 
+w: yet who giv- eth all 
+w: new * growth, new flower
+w: one * to be- stow:
+w: an- * oth- ers all.
+e d/ c/ | B c d3
+w: hath no- thing to im- part,
+w: You must have * dai- ly new re- wards in store
+w: For you shall * mine when * * yours doth part 
+w: Let us to * joyne our hearts that no- thing may
+z/ G/ ^F3/2 E// F// | G4 :|
+w: but sad- * * nesse.
+w: still be-  * * ing.
+w: in- her- * * it.
+w: es- trange * *  them.
+
+
+
+X:2
+T:III. To aske for all thy love,
+T:ALTUS.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on second line
+K:G dor
+D2 D > D D/ D/ G2 F/ G/ A2 G G G2 ^F2 
+w: 1.~O aske for all thy love, and thy whole heart t'were mad- nesse,
+w: 2.~He that re- cei- veth all, can have no more than see- ing.
+w: 3.~You can- not e- very day give me your heart for mer- it:
+w: 4.~Yet if you please, Ile finde a bet- ter way, than change them:
+|:A A > A A/ 
+w: I doe not sue, 
+w: My Love by length 
+w: Yet if you will
+w: For so a- lone
+A/ G2 G c2
+w: nor can ad- mit 
+w: of e- very houre, 
+w: when yours doth goe, 
+w: dear- est we shall 
+B > A F/ G/ A/ 
+w: (fay- rest, fay- rest) from 
+w: ga- thers new * strength, 
+w: You shall have * still
+w: Be one and * one,
+B/ c/ B/ "(1)"B
+N:(1) Original is a half note
+w: you to have all,
+w: new growth, new flower
+w: one to be- stow:
+w: an- oth- ers all.
+A z B2 A/ A/ G > B A/ G/ ^F z/ G/ F/ _E/ D F D 
+w: yet who giv- eth all, gi- * veth all hath no- thing to im- part,
+w: You must have dai- ly, have dai- ly new re- wards in store, re- wards
+w: For you shall mine when yours doth * part, when yours doth part, doth part,
+w: Let us to joyne our hearts that no- thing, that no- thing, no- thing may
+D D2 D4 :|
+w: but sad- nesse.
+w: still be- ing.
+w: in- her- it.
+w: es- trange them.
+
+
+
+X:3
+T:III. To aske for all thy love,
+T:TENOR.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -12
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on third line
+K:G dor -8va
+B c2 A G G A2 F/ G/ A/ B/ c/ d/ _e d2 d2
+w: 1.~O aske for all thy love, and thy whole heart * t'were * mad- nesse:
+w: 2.~He that re- cei- veth all, can have no more * than * see- ing.
+w: 3.~You can- not e- very day give me your heart * for * mer- it:
+w: 4.~Yet if you please, Ile finde a bet- ter way, * than * change them:
+|:f f/ d/ e 
+w: I doe not sue, 
+w: My Love by length 
+w: Yet if you will
+w: For so a- lone
+f d > d c/
+w: nor can ad- mit 
+w: of e- very houre, 
+w: when yours doth goe, 
+w: dear- est we shall 
+B/ G/ A/ B3/4 c// d/ e/ f3/2
+w: (Fay- * rest, Fay- * * rest) from 
+w: ga- * thers, ga- * * thers new strength, 
+w: You * shall, you * * shall have still
+w: Be * one, be * * one and one,
+ d/ g2 c f/ _e/ 
+w: you to have all, *
+w: new growth, new flower 
+w: one to be- stow: 
+w: an- oth- ers all. 
+d2 z f _e/ e/ d c/ B/ A/ A/ G A B c/ B/ A 
+w: yet who giv- eth all, giv- eth all hath no- thing to im- * part,
+w: You must have dai- ly, have dai- ly new re- wards in  store * *
+w: For you shall * mine, shall * mine when yours doth * part * * 
+w: Let us to joyne our * hearts, our * hearts that no- thing * may
+B A > G G4 :|
+w: but sad- * nesse.
+w: still be- * ing.
+w: in- her- * it.
+w: es- trange * them.
+
+
+
+X:4
+T:III. To aske for all thy love,
+T:BASSUS.
+C: John Dowland
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, F on third line
+K:G dor bass
+g3 ^f/ ^f/ g _e d2 d/ e/ f c c g G d2
+w: 1.~O aske for all thy love, and thy whole heart t'were mad- * nesse,
+w: 2.~He that re- cei- veth all, can have no more than see- * ing.
+w: 3.~You can- not e- very day give me your heart for mer- * it:
+w: 4.~Yet if you please, Ile finde a bet- ter way, than change * them:
+|: d d/ d/ ^c 
+w: I doe not sue, 
+w: My Love by length 
+w: Yet if you will
+w: For so a- lone
+d =B G c3/4 d// e/ f/ 
+w: nor can ad- mit * * * 
+w: of e- very houre,  * * *
+w: when yours doth goe,  * * *
+w: dear- est we shall  * * *
+g > f d 
+w: (fai- rest) from 
+w: ga- thers new strength, 
+w: You shall have still
+w: Be one and one,
+d e e f2
+w: you to have all,
+w: new growth, new flower
+w: one to be- stow:
+w: an- oth- ers all.
+B B f > f g2 c d (e3/4 e//) d/ c/ B3/4 b// a/ g/ ^f
+w: yet who giv- eth all hath no- * thing, no- thing to im- * part, *
+w: You must have dai- ly new re- * wards, re- wards in store * * 
+w: For you shall mine when yours doth * part, when yours doth part * * 
+w: Let us to joyne our hearts that * no- thing, no- thing may * *
+g/ G/ d2 G4 :|
+w: but * sad- nesse.
+w: still * be- ing.
+w: in- * her- it.
+w: es- * trange them.
+
+

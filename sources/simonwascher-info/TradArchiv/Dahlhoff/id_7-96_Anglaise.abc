@@ -1,0 +1,98 @@
+X:0710961
+T:[ID 7-96]
+T:Bezeichnung standardisiert: Anglaise
+T:Angeloise
+C:Urheber unbekannt
+C:Datum in der hier transkribierten schriftlichen Quelle: 1776 - 1791
+O:Deutschland; Westfalen; Dinker
+S:"Tanzsammlung Dahlhoff" Staatsbibliothek zu Berlin, Musiksammlung, Mus. ms. 40182, Buch 07, 096/1, PDF Nr: 823
+S:Scan online: http://resolver.staatsbibliothek-berlin.de/SBB0000969000000823
+F:http://simonwascher.info/TradArchiv/Dahlhoff/ file-version 2017-11-21
+Z:Erfassung in Capella Richmud Rollenbeck, Konversion nach MusicXML Joergen Lang, Konversion nach abc und abc Lektorat Simon Wascher
+L:1/16
+M:3/8
+K:D
+A,2 | (D2F2A,2) | (D2F2A,2) | D2DEFG | A4af | gegege | fdfdfd | ececec | d6 ::
+ge |\ %auftakt
+{d}c2BAa2 | f2d2A2 | gegege | f4ge | {d}c2BAa2 | f2d2A2 | gegecA | d4 ::
+"1)"dc |\ %auftakt
+B2B2c2 | d2g2 dc | B2BGcA | d6 ::
+D2 |\ %auftakt
+DFAcAF | DGBdBG | D2a2f2 | g6 H:|
+%%text 1) Vorzeichen weiterhin zwei Kreuz. In Buch 7, Seite 147 mit einem Aufl\"oser.
+%%text Aus Simon Waschers TradArchiv
+
+X:0711471
+T:[ID 7-96]
+T:2. Angeloise [mit Trio] V. Primo von 6 Tour
+C:Urheber unbekannt
+C:Datum in der hier transkribierten schriftlichen Quelle: 1776 - 1791
+O:Deutschland; Westfalen; Dinker
+S:"Tanzsammlung Dahlhoff" Staatsbibliothek zu Berlin, Musiksammlung, Mus. ms. 40182, Buch 07, 147/1, PDF Nr: 874
+S:Scan online: http://resolver.staatsbibliothek-berlin.de/SBB0000969000000874
+%Bezeichnung standardisiert: Anglaise [mit Trio]
+F:http://simonwascher.info/TradArchiv/Dahlhoff/ file-version 2017-11-21
+Z:Erfassung in Capella Richmud Rollenbeck, Konversion nach MusicXML Joergen Lang, Konversion nach abc und abc Lektorat Simon Wascher
+L:1/16
+M:3/8
+K:D
+%%tuplets 1 0 1
+V:1 name="Primo"
+A,2 | (D2F2A,2) | (D2F2A,2) | D2DEFG | A4af | gegege | fdfdfd | ececec | (3:2:1d6 ::
+ge |\ %auftakt
+{d}c2BAa2 | f2d2A2 | gegege | f4ge | {d}c2BAa2 | f2d2A2 | gegecA | d4 ::
+K:G
+dc |\ %auftakt
+B2B2c2 | d2g2 dc | B2BGcA | (3:2:1d6 ::
+D2 |\ %auftakt
+DFAcAF | DGBdBG | D2a2f2 | g4 H:|
+V:2 name="Secondo"
+z2 |\ %auftakt
+A2A2A2&F2F2F2 | A2A2A2&F2F2F2 | D2DEFG | A4f2 | e2e2e2 | d2A2F2 | A2A2A2 | F4 ::
+z2 |\ %auftakt
+AAAAAA&FFFFFF | !//!A6 | !//!A6 | A6 | !//!A6 | !//!A6 | !//!A6 | A4 ::
+K:G
+BA |\ %auftakt
+G2G2A2 | B2d2 BG | G2G2A2 | B4 ::
+D2 |\ %auftakt
+D2D2D2 | D2D2D2 | D2D2D2 | D4 !invertedfermata!:|
+%%text Diese beiden Stimmen stehen direkt beieinander und geh\"oren offenbar zusammen.
+%%text Aus Simon Waschers TradArchiv
+
+X:1010381
+T:[ID 7-96]
+T:Bezeichnung standardisiert: Anglaise [mit Trio];
+T:Angeloise [mit Trio]
+C:Urheber unbekannt
+C:Erstbeleg: 1776-1791 (Datum in der schriftlichen Quelle)
+C:Datum in der hier transkribierten schriftlichen Quelle: 1799
+O:Deutschland; Westfalen; Dinker
+S:"Tanzsammlung Dahlhoff" Staatsbibliothek zu Berlin, Musiksammlung, Mus. ms. 40182, Buch 10, 038/1, PDF Nr: 1254
+S:Scan online: http://resolver.staatsbibliothek-berlin.de/SBB0000969000001254
+F:http://simonwascher.info/TradArchiv/Dahlhoff/ file-version 2017-11-21
+Z:Erfassung in Capella Richmud Rollenbeck, Konversion nach MusicXML Joergen Lang, Konversion nach abc und abc Lektorat Simon Wascher
+L:1/16
+M:3/8
+K:D
+V:1
+A,2 | (D2F2A,2) | (D2F2A,2) | D2DEFG | A6af | gegege | fdfdfd | ececec | d4 ::
+ge |\ %auftakt
+{d}c2BAa2 | f2d2A2 | gegege | f4ge | {d}c2BAa2 | f2d2A2 | gegecA | d4 H:|
+P:Trio
+K:G
+dc |\ %auftakt
+B2B2c2 | d2g2 dc | B2BGcA | d6 ::
+D2 |\ %auftakt
+DFAcAF | DGBdBG | D2a2f2 | g4x H:|!D.C.!y
+V:2 name="Secondo"
+%%staffnonote 2
+XXXXXXXX
+XXXXXXXX
+P:Trio
+K:G
+XXXX
+XX
+%%text 2. Stimme keine Notation, nur leere Notenzeilen.
+%%text Diese beiden Stimmen stehen direkt beieinander und geh\"oren offenbar zusammen.
+%%text Aus Simon Waschers TradArchiv
+

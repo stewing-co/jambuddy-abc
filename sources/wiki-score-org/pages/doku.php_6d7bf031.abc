@@ -1,0 +1,64 @@
+X:302
+T:Credo
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 2 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+%------------------
+[Q:"Andante"] !p! [EB] [EB]/>[EB]/ [EB] [EB] | [DB]AG_G | [=Ge]z!f![Be]z | \
+[Fd]z[Fd]z | [GB]z!f!(E2 |D/)F/G/A/ G/ee/ | [EBg]z!f![Ge][Ge] | [Fd]z  [Fd]z  | [Ge] !p!(GAB) | (cB) A2 | \
+[G] !p!(GAB) | cB2B| !f![Fd]z [=Af]z | [Bf]/D/E/F/ G/F/G/F/ | E2 D2 | C2 B,C | B,/!f!FF/ !>!_G2 | \
+F/!f!FF/ =G_G | F/ !f!FF/_G=A| B/FF/!>!_G2 | Fzz2 | !p!_D2 !>!E2 | _D2 !>!E2 | !p!_E/eeee/- | e/_GGGG/ | \
+=G/GG/ F/FF/ | !f!G//E//D//E// A//E//D//E// G//E//D//E// c//E//D//E// | B//E//D//E// GFA | \
+!f!G//E//D//E// A//E//D//E// G//E//D//E// c//E//D//E// | !f!B//E//D//E// G2 =B | c/CCCC/ | !f!A,/A,A,/A, z | \
+!f!G/GGGG/ | !/!F2Fz | !f! [B,F]/[B,F][B,F][B,F][B,F]/ | !/![G,E]2[G,E]z | !f![B,F]/[B,F][B,F][B,F][B,F]/ | \
+!/![G,E]2[G,E] !p!E- | EE2!p!E- | E3 !p!E- | EE2E- | EE2E- | E!p!E2F- | FF2F-|Fzz!p!G-|GG2G-|GG2!p!G-| \
+GG2z | z !p!(c2A | _d)zz2 | z !p!c2A | _dd2!p!d | B!p!B2B-|Bzz2 | !p!(B4 | B)zz2 | \
+!p!_G3z | _G3z | (_G4 | !fermata!F4) || [Q:"Largo"][K:Gb][M:6/8]!pp!(B,B,/B,B,/ | B,B,/ _GG/) | \
+B!p![B,F]/[B,F][B,F]/ | !>![B,F]3 | [B,_G]!pp!(B,/B,B,/ | C!p!C/CC/ | =DD/DD/| E)-E//>F//{E/F/}Gz/ | \
+!p!C/8B,/8C/8B,/8 C/8B,/8C/8B,/8 C/ C/8B,/8C/8B,/8 C/8B,/8C/8B,/8 C/ | !>!(GG/)(FF/) | Z | \
+!f!!>(!(E3/2 G)!>)!z/ | Z2 | !p!(G3/2 G/)z/z/ |  !p!(F3/2 G3/2) | !pp!(FG/ FG/) | Fz/ !p!E3/2 | \
+(FG/ FG/ | F)z/ !p!(=A3/2 | B)z/zz/ | Z | !fermata!z3 || \
+[Q:"Andante"][K:Eb][M:C]"Legato"!pp!(E/^F/G/D/) (E/=A,/B,/G,/) | A,/(G/A/=E/) (F/^C/D/A,/) | \
+G,/z/zzz/ !p![G,G]/- | G,/A,/ G,2-G,/=A,/ | G,zz2 | !p![B,G]zzz/!p!G,/- | G,/(A,/G,/=B,/) (C/B,/ C) | \
+=B,zzz/!p!B,/ | (E/^F/G/D/) E/(=A,/B,/E/) | (D/G/A/=E/) (F/^C/D/A/) | G/!p!GGGG/- | \
+G=A2G- | G^FG(^C|D/)=AA/-A2 | !f!(B2=A)z | !>!(G2^F)z | (!>!B2=A)z | !>!!p!(=A2G2) | =E4 | DzCz || \
+[Q:"Allegro Moderato"][K:G][M:C] !p! B,/D/D/D/ D/ !f![Gd]/ [Bg] | !p!!/!D2 D/ [Fd]/ [Af] | !p!B,/B,/C/C/ B,/B,/C/C/ | \
+!f!!//!E2!//!E!//!F | G/[DB]/[Gd]/[Bg]/ [db]/D/ D/z/ | !f![Fd]/[DA]/ [DA]/[Fd]/ d/D/ D/z/ | G/GG/G!f![Gd] | G/GG/G[Gd] | \
+"_cresc." A/AAAA/ | G/GGGG/| !f! A/D/D/D/ D!>!_E | !/!D2 D!>!_E | !p!D/DDDD/ | ^C/EE/Ez | \
+!p![A,E]/[A,E][A,E][A,E][A,E]/ | D/DD/Dz | !p!F/FFFF/ | G/GGGG/ | !p!A/FFFF/ | G/DD/D!f![Gd] | \
+[Ge][Ec][Gd][Gd] | [Ge] !f![ce][A=f][Gd] | [Ge][Ec][Gd][Gd] | [Ge]!f![ca][Aa][EBg] | [Ecg]/ [Ec][Ec]/[Ec]z | \
+!f!c'/c'c'c'c'/ | a/aaaa/ | g/!f!DDDD/ | _E/EE/ =F/FF/ | !f!G/GG/ =F/fg/ | _a/aaa!f!a/- | !fermata!_a4 |\
+!f![CG][CG][EB][EB] | [EB]/(3:C//C//C// (6:4E//E//E//G//G//G// cz | Z2 | \
+!p!(_B,2C2 | _B,)zz2 | !p!B,4 | .=B,z.A,z | B,/!f![DB]/ [Gd]/[Bg]/ [db]/D/ D/z/ | [Fd]/[DA]/[DA]/[Fd]/ [da]/D/ D/z/ | \
+!f! G/GG/G[Gd] | G/GG/G[Gd] | "_cresc." A/AAAA/ | !f!G/GGGG/ | A/D/D/D/ D _E | !f!D/D/D/D/ D _E | !/!D2 A/AA/ | \
+!f!A/AAAA/- | A/AAAA/- | A/!f![Fd]/[Fd]/[Fd]/ [Fd]z | !p!F/FFFF/ | G/GGGG/ | A/FFFF/ | G/GG/G!f![Gd] | \
+[Ec]!f![Ec][Gd][Gd] | [Ge]!f![ca][da][dg] | [cg][cg]^g/gg/ | !f!a/aaaa/ | ^g/gggg/ | !f!^f/ff/ ^g/gg/ | a/aa/ba | \
+!fermata!^g4 | !f!A/A,/B,/^C/ D/B,/E/D/ | ^C/A,/B,/C/ D/B,/E/D/ | ^C/E/A/^G/ F/c/B/A/ | ^G!>!E2 E- | \
+E/!p!.^C/.C/.C/ !/!.C2 | !/!B,2 B,/B,B,/ | !p!!/!B,2!/!B,2 | !/!B,2 B,/B,/ B, | !p!!/!^G2!/!G2 | !/!A2 A/A/ A | \
+!/!^G2!/!G2 | !/!A2 A/A/ A | E^GA2 | ^G/B,B,B,B,/ | !p!=F//F//D//D// B,//B,//G,//G,// F//F//D//D// B,//B,//G,//G,// | E/C/B,/C/ E/C/B,/C/ | \
+!p!=F/D/B,/G,/ F/D/B,/G,/ |  E/C/B,/C/ E/C/B,/C/ | !f!A,B,CD | [CG]/[Ec][Ec]/[Ec]z | !f! [Ae]/!p![A,E]/!/![A,E]!/![A,E]2 | \
+!/![A,=F]2[A,F]/[A,F]/[A,F] | !f! [Gd]/!p![B,G]/!/![B,G][B,G]/[B,G]/[B,G]/G/ | !f! g2 a/aa/ | g/gg/ b/bb/ | \
+!f! c'//c//B//c// d//c//B//c// [c=f][cf] | [ce]//c//B//c// d//c//B//c// [Gd][Gd] | \
+!f! [Ge]//c//B//c// d//c//B//c// [c=f][cf] | [ce]//c//B//c// d//c//B//c// !p![fd]/[fd][fd]/ - | !p! d4 || \
+[Q:"Allegro"][K:Eb][M:C] z/ | !f! [CG][CG]D[D=B] | [Ec]z[CG]z | !f!A A2 =A | G !f! [=B,G][B,G]z | \
+!f! [Gd]/D/D/D/ D/D/D/D/ | E/E/E/E/ !/!E2 | !f! !/!D2!/!D2 | !/!E2E!f![B,G] | !/![B,F]2!/![B,F]2 | \
+!f! !/![G,E]2!/![G,E]2 | !/![B,F]2!/![B,F]2 | !f! !/![G,E]2[G,E]G | A2=A2 | \
+!p! G/D/D/D/ !/!D2 | !/!E2!/!E2 | !p!!/!D2!/!D2 | !/!E2!/!E2 | \
+!p!E/A,A,A,A,/- | A,/A,A,A, !p! A,/- | A,/A,A,A,A,/-|A,/A,A,"_cresc"A,A,/ | \
+!p!B,/B,B,B,B,/- | B,/B,B,B,B,/- | B,/B,B,B,B,/- | B,/B,B,/B,!f!B | A/G/F/B/ A/G/F/B/ | A!f!fee | [G_e]zz2 | Z | \
+!f!C/C//C// !/!D/!/!E/ !/!F/!/!D/!/!G/!/!E/ | !/!A/!/!F/!/!B/!/!G/ !/!c/!/!A/!/!d/!/!B/ || \
+[Q:"Sostenuto"][K:Eb][M:C] !f![EB][EB][EB]z/!f!z//[D=B]// | [Ec]/z/zz!p!C- | CC2C | !p!!fermata!D4 || \
+[Q:"Moderato"][K:Eb][M:2/4] z/ | !p!G,2 | (A,2 | G,) !p!(B, | C) (E | D)!p!D | E (F | E) !p! G | A2 | (G/A/G/F/) | \
+E !p!G | A2 | G B- | B=A | (B2 | =A_A | G) !p!G | A2 | !f!GA/B/ | A/c/ B- | B !p!A | (G2 | F) "_NB: check ms" z | \
+F !f![Fd] | [Ge][Ec] | [Dd]!f![Gd] | [Ee]/!p!E/E/E/ | !p!!/!E2 | !/!F2 | !/!F2 | !/!G2 | !f!A/G/F/E/ | D !f! [Gd] | \
+[Ge]z/!f!G/ | A/G/F/E/ | D!f![Gd] | [Ge] !f!f- | f e- | e !f! d- | d c- | c c- | c2 | =Bz | !f!=B/BB/ | =A/AA/ | \
+!f!=B/BB/ | c!f!f- | f e- | e d- | d !f! c | Af | e [D=Bg] | !f! [Ecg]/C//D/8C/8 =B,/C/ | A/D//E/8D/8 ^C/D/ | !p!GB | \
+!p! (A2 | G) G |!p! (F2 | G) !p!G | (F2 | G/) !f! ee/ | ez | !f!Az | Az | !p! G (B | A2 | G2 | F2 | E) z | Z | \
+z !f! [Gd] | [Gd][D=Bg] | [Ecg] !f! !//!e | d!//!e | d/dd/- | d/dd/ | !f! e/ee/| f/df/ | !f!ez | \
+[Ge][Ge] | [Fd]z | !f! [Fd]z | [GB]z | Z | !p!(C2 | B,)(C | B,) z | !p!(A2 | G)z | Z | !p!(C2 | B,)(C | B,) z | \
+!p!A,2- | A,2 | .G,z | !p!.G,z | !p!.G,z |] \
+%------------------

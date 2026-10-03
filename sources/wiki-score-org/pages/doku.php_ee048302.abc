@@ -1,0 +1,18 @@
+X:304
+T:Virtu
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:F
+V: 4 clef=treble name="Corno da Caccia II" sname="Cor.II"
+%%MIDI program 1 69
+%%staves [( 4 )]
+% -------------------------------------------------------------------------------------
+[Q:"Andante"] z | Z16 | \
+[Q:"Allegro"] Z10|| \
+[Q:"Afettuoso"][M:3/8][K:tenor2][L:1/8] Z7| zzA,|  A,3-|A,3-|A,3-|A,3-|A,3-|A,3 | \
+zzF | G/>A/ GA | B/>c/ BA | G/>A/ GF | CC/C/C/C/ | C2z | Z8 | zA,A, | A,2z | Z20 | \
+zzC | C3- |C3- |C3- |C3- | C3 |  F/>G/ AG | F2z | z3 | zCC | C2z | Z7 | \
+zzA, | A,3- |A,3- |A,3 |A,A,A, | F,2z | Z27 | \
+zA,A, | F,2 || z | Z21 |]
+% -------------------------------------------------------------------------------------

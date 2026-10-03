@@ -1,0 +1,21 @@
+X:3602
+T:Scena ultima [Aria Apolline]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 2 clef=alto name="Corno II" sname="Cor. II"
+%%MIDI program 1 69
+%%staves [( 2 )]
+%---------------------------------------
+Z2 | \
+[Q:"Allegretto"] Z12 | F,/2F,/4F,/4 F,/2A,/2 F,/2F,/2D/2F,/2 | D/2D//D// D/2D/2 D/2F/2A/2F/2 | \
+D/2F,/4F,/4 F,/2D/4D/4 D/2F/4F/4 F/2F/4F/4 | D/A,/D/A,/ D/A,/D/A,/ | Ezz2 |  D,/2D,/4D,/4 D,/D,/ D, z | Z11 || \
+[Q:"Andantino"] [M:2/4] "^Aria" [K:treble] E/ E G/ | E/ E//>E// E/z/ | C2- | C/C/ C- |  C2 |  Cz | Z |\
+G,/z/ G,/G,/ | G,/z/ d/c/ | G/z/ G,/G,/ | G,/z/ d/c/ | G/G/G/z/ |  Z2 | C2 | Cz | \
+Z3 | !p! C2- | C2- | Cz | Z |  !p! C/z/ C/z/ | C/E/E/z/ | Z5 | \
+D2- | D/z/ D/D/ | D/z/ D- | D D/D/ | Dz | Z5 | !f!d2 | G//G,// G,/G, | G,//G,// G,/G, | \
+G,//G,// G,/z | z d  | G z | Z2 | C2- | Cz | Z3 | G,2 | G/z/ d/c/ | G/z/ G, | G d/c/ | G/z/ z | Z | \
+z C- | C2 | Cz | Z | C2- | C2 | C/z/z | Z7 | c2 | G2 | C2- | C2 | C/z/ C/z/ | \
+z c/G/ | E/E/E/z/ |]
+%---------------------------------------

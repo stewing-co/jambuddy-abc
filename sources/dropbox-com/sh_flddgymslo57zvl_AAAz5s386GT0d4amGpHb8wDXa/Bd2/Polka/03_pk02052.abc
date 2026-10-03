@@ -1,0 +1,53 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Marionetten Polka FBb
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.291 (pk02052) orig. F,Bb
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T: Überliefert vermutlich durch Joggi Stocker (1889-1956)
+O:Switzerland
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"AA A/c/c | "C7"BB B/c/c/b/ | aa g>c | "F"ggf2 | AA A/c/c | "C"GG G/e/e/g/ | "G7"gg d/f/f/=B/ | 
+"C"ce cz :: "F"c'>a f>c | "Gm"eed2 | "C7"=B/c/d/c/ bb | "F"=B/c/d/c/ aa | c'>a f>c | "Gm"eed2 | 
+"C7"c/d/e/f/ ag |1 "F"fa fz :|2 "F"fa ff || [K:Bb] "Bb"b/b/b ag | b>d db | b>d gd | "F7"e3f | 
+b/b/b ag | a>e ea | a>e gf | "Bb"d2zf | b/b/b ag | b>d db | ba c'b | "Cm"c2zB | 
+"F7"AA A/c/e/a/ | "Bb"gg g/B/d/g/ | "F7"ff e>A | "Bb"cBF2 | "F7"AA A/c/e/a/ | "Bb"gg g/B/d/g/ | "F7"ff e>A | "Bb"Bd Bz |] 
+% pk02052 (H 072/Tn 52)
+
+X:2
+T:Marionetten Polka  CF 5-
+O:Switzerland
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"EE E/2G/2G | "G7"FF F/2G/2G/2f/2 | ee d>G | "C"ddc2 | EE E/2G/2G | "G"DD D/2B/2B/2d/2 | "D7"dd A/2c/2c/2^F/2 | 
+"G"GB Gz :: "C"g>e c>G | "Dm"BBA2 | "G7"^F/2G/2A/2G/2 ff | "C"^F/2G/2A/2G/2 ee | g>e c>G | "Dm"BBA2 | 
+"G7"G/2A/2B/2c/2 ed |1 "C"ce cz :|2 "C"ce cc || [K:F] "F"f/2f/2f ed | f>A Af | f>A dA | "C7"B3c | 
+f/2f/2f ed | e>B Be | e>B dc | "F"A2zc | f/2f/2f ed | f>A Af | fe gf | "Gm"G2zF | 
+"C7"EE E/2G/2B/2e/2 | "F"dd d/2F/2A/2d/2 | "C7"cc B>E | "F"GFC2 | "C7"EE E/2G/2B/2e/2 | "F"dd d/2F/2A/2d/2 | "C7"cc B>E | "F"FA Fz |] 
+% pk02052
+
+X:3
+T:Marionetten Polka  GC 2+
+O:Switzerland
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"BB B/2d/2d | "D7"cc c/2d/2d/2c'/2 | bb a>d | "G"aag2 | BB B/2d/2d | "D"AA A/2f/2f/2a/2 | "A7"aa e/2g/2g/2^c/2 | 
+"D"df dz :: "G"d'>b g>d | "Am"ffe2 | "D7"^c/2d/2e/2d/2 c'c' | "G"^c/2d/2e/2d/2 bb | d'>b g>d | "Am"ffe2 | 
+"D7"d/2e/2f/2g/2 ba |1 "G"gb gz :|2 "G"gb gg || [K:C] "C"c'/2c'/2c' ba | c'>e ec' | c'>e ae | "G7"f3g | 
+c'/2c'/2c' ba | b>f fb | b>f ag | "C"e2zg | c'/2c'/2c' ba | c'>e ec' | c'b d'c' | "Dm"d2zc | 
+"G7"BB B/2d/2f/2b/2 | "C"aa a/2c/2e/2a/2 | "G7"gg f>B | "C"dcG2 | "G7"BB B/2d/2f/2b/2 | "C"aa a/2c/2e/2a/2 | "G7"gg f>B | "C"ce cz |] 
+% pk02052
+% Sep 26, 2016

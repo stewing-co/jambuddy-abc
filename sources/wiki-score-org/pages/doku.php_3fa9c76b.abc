@@ -1,0 +1,23 @@
+X:502
+T:N.5 Marcha e coro militar
+C:Fonseca, Eduardo da (1863-1938)
+M:2/4
+L:1/8
+K:A
+V: 2 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+%----
+{efg}aece | ([Aa]e)ab| !>!c'2  !>!e'2| !>!c'2 !>!b2  |{efg}aece |\
+aeac'|!>![bB]2!>![aB]2| !>![gB]3 (3(e/f/g/) |\
+([aA]ece) | ([aA]e)ab |!>!c'2  !>!e'2 | (!>!c'2 !>!b2) | \
+{bc'}(!>!d'c')ba| gf'e'd'|!>!c'2!>!b2| [Aa]zz2 !segno!|: \
+!p!(c2e2 | [Aa]2) [Aa]2 | gabg | (b2a2) | (c2e2) | (a2>g2) | (fgab) | !>! (agfe) | \
+(c2e2) | [Aa]2[Aa]2| gabg | (b2a2) \
+||1 f2a2|c'2b2|agaf|ezz2 \
+:|2 g2f2|ecea| c'2b2||[aA](^Bcd) "A"  || \
+czz2|   !p!z(cfa|gf^ec)| z3/2!f![A,F]//[A,F]// [A,F]z | \
+!p! [DF]z/[DF]/ [DF]z |[FA]z/[AF]/ [AF]z | Bz ^Bz | c!f!z/c//c// cz | \
+!p! Czz2| !p!z(cfa|gf^ec)| zdfa |(g2f2 | e)cea | c'z bz | [Aa]zz2 "B" || \
+"DC ao segno" "ate ao fim" X ||"^Para acabar" [Aa]z {efg}!>![Aa]z |] \
+%----

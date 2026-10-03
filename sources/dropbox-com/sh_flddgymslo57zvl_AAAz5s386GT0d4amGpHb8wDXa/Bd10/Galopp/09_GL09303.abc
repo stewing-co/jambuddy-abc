@@ -1,0 +1,96 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Galopp  FC
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.172 (GL09303) orig. F,C
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"f2z2 | "C7"e2z2 | g2z2 | "F"f2z2 | "C7"c'b ag | "F"d'2c'a | "C7"c'2 be | "F"f2z2 :| "C7"g>a b>c' | "F"d'2 c'>a | "C7"c'2 b>g | 
+("F"b2a2) | "C7"ga bc' | "F"d'2 c'>a | "C7"c'2 b>e | "F"f2z2 |: [K:C] "C"g2z2 | "F"a2z2 | "G7"b2z2 | "C"c'2z2 | c'>g fe | "Dm"ed a2 | 
+"G7"g>g f>B | "C"c2z2 ::  "G7"d>e f>g | "C"eg c'2 | "G7"d'>c' b>a | "C"agg2 | "G7"d>e f>g | "C"eg c'2 | "G7"b>a f>B | "C"c2z2 :| 
+% GL09303
+X:2
+T:Galopp  CG 5-
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c2z2 | "G7"B2z2 | d2z2 | "C"c2z2 | "G7"gf ed | "C"a2ge | "G7"g2 fB | "C"c2z2 :| "G7"d>e f>g | "C"a2 g>e | "G7"g2 f>d | 
+("C"f2e2) | "G7"de fg | "C"a2 g>e | "G7"g2 f>B | "C"c2z2 |: [K:G] "G"d2z2 | "C"e2z2 | "D7"f2z2 | "G"g2z2 | g>d cB | "Am"BA e2 | 
+"D7"d>d c>F | "G"G2z2 :: "D7"A>B c>d | "G"Bd g2 | "D7"a>g f>e | "G"edd2 | "D7"A>B c>d | "G"Bd g2 | "D7"f>e c>F | "G"G2z2 :| 
+% GL09303
+X:3
+T:Galopp  FC (5letras transposed)
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"f2z2 | "C7"e2z2 | g2z2 | "F"f2z2 | "C7"c'b ag | "F"d'2c'a | "C7"c'2 be | "F"f2z2 :| "C7"g>a b>c' | "F"d'2 c'>a | "C7"c'2 b>g | 
+("F"b2a2) | "C7"ga bc' | "F"d'2 c'>a | "C7"c'2 b>e | "F"f2z2 |: [K:C] "C"g2z2 | "F"a2z2 | "G7"b2z2 | "C"c'2z2 | c'>g fe | "Dm"ed a2 | 
+"G7"g>g f>B | "C"c2z2 ::  "G7"d>e f>g | "C"eg c'2 | "G7"d'>c' b>a | "C"agg2 | "G7"d>e f>g | "C"eg c'2 | "G7"b>a f>B | "C"c2z2 :| 
+% GL09303
+X:4
+T:Galopp  CG (5letras transposed)
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"c2z2 | "G7"B2z2 | d2z2 | "C"c2z2 | "G7"gf ed | "C"a2ge | "G7"g2 fB | "C"c2z2 :| "G7"d>e f>g | "C"a2 g>e | "G7"g2 f>d | 
+("C"f2e2) | "G7"de fg | "C"a2 g>e | "G7"g2 f>B | "C"c2z2 |: [K:G] "G"d2z2 | "C"e2z2 | "D7"f2z2 | "G"g2z2 | g>d cB | "Am"BA e2 | 
+"D7"d>d c>F | "G"G2z2 :: "D7"A>B c>d | "G"Bd g2 | "D7"a>g f>e | "G"edd2 | "D7"A>B c>d | "G"Bd g2 | "D7"f>e c>F | "G"G2z2 :| 
+% GL09303
+X:5
+T:Galopp G&D (tinwhistle in D)
+T:GL09303 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:galopp
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"G2z2 | "D7"F2z2 | A2z2 | "G"G2z2 | "D7"dc BA | "G"e2dB | "D7"d2 cF | "G"G2z2 :| "D7"A>B c>d | "G"e2 d>B | "D7"d2 c>A | 
+("G"c2B2) | "D7"AB cd | "G"e2 d>B | "D7"d2 c>F | "G"G2z2 |: [K:D] "D"A2z2 | "G"B2z2 | "A7"c2z2 | "D"d2z2 | d>A GF | "Em"FE B2 | 
+"A7"A>A G>C | "D"D2z2 :: "A7"E>F G>A | "D"FA d2 | "A7"e>d c>B | "D"BAA2 | "A7"E>F G>A | "D"FA d2 | "A7"c>B G>C | "D"D2z2 :| 
+% GL09303
+
+X:6
+T:Galopp D&A (tinwhistle in D)
+T:GL09303 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:galopp
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"D"d2z2 | "A7"c2z2 | e2z2 | "D"d2z2 | "A7"ag fe | "D"b2af | "A7"a2 gc | "D"d2z2 :| "A7"e>f g>a | "D"b2 a>f | "A7"a2 g>e | 
+("D"g2f2) | "A7"ef ga | "D"b2 a>f | "A7"a2 g>c | "D"d2z2 |: [K:A] "A"e2z2 | "D"f2z2 | "E7"g2z2 | "A"a2z2 | a>e dc | "Bm"cB f2 | 
+"E7"e>e d>G | "A"A2z2 :: "E7"B>c d>e | "A"ce a2 | "E7"b>a g>f | "A"fee2 | "E7"B>c d>e | "A"ce a2 | "E7"g>f d>G | "A"A2z2 :| 
+X:7
+T:Galopp G&D (tinwhistle in D) solo
+T:GL09303 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:galopp
+M:2/4
+L:1/8
+K:G transpose=12
+G2z2 | F2z2 | A2z2 | G2z2 | d"_c"c BA | e2dB | d2 "_c"cF | G2z2 :| A>B "_c"c>d | e2 d>B | d2 "_c"c>A | 
+("_c"c2B2) | AB "_c"cd | e2 d>B | d2 "_c"c>F | G2z2 |: [K:D] A2z2 | B2z2 | c2z2 | d2z2 | d>A GF | FE B2 | 
+A>A G>"_=C"C | D2z2 :: E>F G>A | FA d2 | e>d c>B | BAA2 | E>F G>A | FA d2 | c>B G>"_=C"C | D2z2 :|
+X:8
+T:Galopp D&A (tinwhistle in D) solo
+T:GL09303 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:galopp
+M:2/4
+L:1/8
+K:D transpose=12
+d2z2 | c2z2 | e2z2 | d2z2 | ag fe | b2af | a2 gc | d2z2 :| e>f g>a | b2 a>f | a2 g>e | 
+(g2f2) | ef ga | b2 a>f | a2 g>c | d2z2 |: [K:A] e2z2 | f2z2 | "_#"g2z2 | a2z2 | a>e dc | cB f2 | 
+e>e d>"_#"G | A2z2 :: B>c d>e | ce a2 | b>a "_#"g>f | fee2 | B>c d>e | ce a2 | "_#"g>f d>"_#"G | A2z2 :|
+% Aug 30, 2016

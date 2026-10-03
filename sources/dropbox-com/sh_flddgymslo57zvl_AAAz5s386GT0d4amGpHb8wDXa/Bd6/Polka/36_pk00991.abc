@@ -1,0 +1,77 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Toni-Polka  CF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.261 (pk00991) orig. C,F-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"Gceg c2e2 | "G7"GBdg B2f2 | GBdg gfed | "C"cecAG4 | Gceg c2e2 | "G7"GBdg B2f2 | 
+GBdg gfed |1 "C"c2e2 c2z2 :|2 "C"c2e2 c2((3A_B=B) |: [K:F] "F"caac "C7"BggB | "F"AffA dcA2 | "C7"Geec dcB2 | 
+"F"AffA  dcAB | caac "C7"BggB | "F"Affc dcA2 | "C7"Geec dcBe |1 "F"f2a2 f2((3AB=B) :|2 "F"f2a2 f2z2 |]  
+W:Anmerkung H.C.: 14. Okt. Mutter Sepp, Naters
+X:2
+T:Toni-Polka  GC 5-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+"G"DGBd G2B2 | "D7"DFAd F2c2 | DFAd dcBA | "G"GBGED4 | DGBd G2B2 | "D7"DFAd F2c2 | 
+DFAd dcBA |1 "G"G2B2 G2z2 :|2 "G"G2B2 G2((3E=F^F) |: [K:C] "C"GeeG "G7"FddF | "C"EccE AGE2 | "G7"DBBG AGF2 | 
+"C"EccE AGEF | GeeG "G7"FddF | "C"EccG AGE2 | "G7"DBBG AGFB |1 "C"c2e2 c2((3EF^F) :|2 "C"c2e2 c2z2 |] 
+% pk00991
+X:3
+T:Toni-Polka  CF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"Gceg c2e2 | "G7"GBdg B2f2 | GBdg gfed | "C"cecAG4 | Gceg c2e2 | "G7"GBdg B2f2 | 
+GBdg gfed |1 "C"c2e2 c2z2 :|2 "C"c2e2 c2((3A_B=B) |: [K:F] "F"caac "C7"BggB | "F"AffA dcA2 | "C7"Geec dcB2 | 
+"F"AffA  dcAB | caac "C7"BggB | "F"Affc dcA2 | "C7"Geec dcBe |1 "F"f2a2 f2((3AB=B) :|2 "F"f2a2 f2z2 |]  
+% pk00991
+X:4
+T:Toni-Polka  GC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"DGBd G2B2 | "D7"DFAd F2c2 | DFAd dcBA | "G"GBGED4 | DGBd G2B2 | "D7"DFAd F2c2 | 
+DFAd dcBA |1 "G"G2B2 G2z2 :|2 "G"G2B2 G2((3E=F^F) |: [K:C] "C"GeeG "G7"FddF | "C"EccE AGE2 | "G7"DBBG AGF2 | 
+"C"EccE AGEF | GeeG "G7"FddF | "C"EccG AGE2 | "G7"DBBG AGFB |1 "C"c2e2 c2((3EF^F) :|2 "C"c2e2 c2z2 |] 
+% pk00991
+X:6
+T:Toni-Polka A&D (tinwhistle in D)
+T:pk00991 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:A %%MIDI gchordon
+"A"EAce A2c2 | "E7"EGBe G2d2 | EGBe edcB | "A"AcAFE4 | EAce A2c2 | "E7"EGBe G2d2 | 
+EGBe edcB |1 "A"A2c2 A2z2 :|2 "A"A2c2 A2((3F=G^G) |: [K:D] "D"AffA "A7"GeeG | "D"FddF BAF2 | "A7"EccA BAG2 | 
+"D"FddF BAFG | AffA "A7"GeeG | "D"FddA BAF2 | "A7"EccA BAGc |1 "D"d2f2 d2((3FG^G) :|2 "D"d2f2 d2z2 |] 
+X:7
+T:Toni-Polka A&D (tinwhistle in D) solo
+T:pk00991 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/16
+K:A transpose=12
+EAce A2c2 | E"_#"GBe G2d2 | E"_#"GBe edcB | AcAFE4 | EAce A2c2 | E"_#"GBe G2d2 | 
+E"_#"GBe edcB |1 A2c2 A2z2 :|2 A2c2 A2((3F=G^G) |: [K:D] AffA GeeG | FddF BAF2 | EccA BAG2 | 
+FddF BAFG | AffA GeeG | FddA BAF2 | EccA BAGc |1 d2f2 d2((3FG^G) :|2 d2f2 d2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 4, 2016

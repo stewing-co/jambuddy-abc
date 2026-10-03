@@ -1,0 +1,43 @@
+X: 0
+T: A Select Collection of Airs, Jigs, Marches and Reels
+C: Publisher: N. Stewart
+Z: 2017 John Chambers <jc:trillian.mit.edu>
+B: N. Stewart "A Select Collection of Airs, Jigs, Marches and Reels" ca. 1784
+F: http://imslp.org/wiki/A_Select_Collection_of_Airs,_Jigs,_Marches_and_Reels_%28Various%29
+K:
+%%center A
+%%center Select Collection
+%%center of
+%%center SCOTS ENGLISH IRISH
+%%center And
+%%center Foreign Airs Jiggs & Marches
+%%center With some of the Newst & most Fashionable REELS &c.
+%%center _____ Adapted for the _____
+%%center GERMAN FLUTE VIOLIN & FIFE
+%%center Vol 1.
+%%center EDINBURGH Printed & Sold by N. STEWART at his Musical Circulating Library Parliament Square
+%%sep 5 1 500
+%%sep 1 5 500
+%%begintext align
+%% Transcription notes:
+%% Each tune is in a file with a name of the form NNN_Title.abc,
+%% where NNN is the 2-digit page number, Title is the tune's title with underscores
+%% for spaces, K is the key, B is the number of bars in one playing of the tune,
+%% and S is the number of staffs in the transcription.
+%%endtext
+%%begintext align
+%% The staffs have sometimes been reformatted to fit A4/US-letter pages, usually with
+%% a multiple of 4 bars per staff to go with a relatively small scale for proofreading.
+%% You should reformat the staffs to match your needs.
+%%endtext
+%%begintext align
+%% A few tunes use voice overlays (2 voices on one staff) that much ABC software can't handle.
+%% Two versions of these are provided: a NNN-Title-V1.abc file that's arranged to work with
+%% such software, and a NNN=Title-V2.abc file that contains the voice overlays.
+%% This is also used for the cases of "chord" appogiaturas and some other features
+%% that aren't widely implemented yet.
+%% The '-' vs '=' after the page number is to make it easier for makefiles to tell them apart.
+%%endtext
+
+%%slurgraces 0
+%%graceslurs 0

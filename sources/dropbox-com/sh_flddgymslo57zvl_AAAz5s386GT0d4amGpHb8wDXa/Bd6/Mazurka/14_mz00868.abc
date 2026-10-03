@@ -1,0 +1,109 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Bei guter Laune (Mazurka)  CF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.220f (mz00868) orig. C,F-Dur
+T:L\"otschental. S.214-233. Repertoire von Xander Murmann, Weissenried, 1874-1948
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"G"GGG2A2 | BBB2c2 | d>^c d>c d>e | "G7"f2!>!G4 |: "C"e2e2e>d | c2c2c>B | 
+"F"A>^GA2c2 | "C"G2G2z2 | EG AG AG | "G7"F2F2z2 | FA BA BA | "C"G2G2z2 | 
+e2e2e>d | c2c2c>B | "F"A>^GA2c2 | "C"G2G2z2 | EG AG AG | "G"B2B2d>g | 
+"D7"^f2f2e>f | "G"g2g2z2 :: [K:F] "F"A>Bc4 | A>Bc4 | A>Bc2d2 | "C7"d>cB4 | 
+E>FG4 | E>FG4 | G>AB2c2 | "F"B>AF4 | A>Bc4 | A>Bc4 | 
+A>Bc2^c2 | "Bb"d2d2z2 | d>e f2d2 | "F"d>cA2A2 | "C7"c>BG2G>A | "F"F2F2z2 :| 
+X:2
+T:Bei guter Laune (Mazurka)  GC 5-
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G%%MIDI gchordon
+"D"DDD2E2 | FFF2G2 | A>^G A>G A>B | "D7"c2!>!D4 |: "G"B2B2B>A | G2G2G>F | 
+"C"E>^DE2G2 | "G"D2D2z2 | B,D ED ED | "D7"C2C2z2 | CE FE FE | "G"D2D2z2 | 
+B2B2B>A | G2G2G>F | "C"E>^DE2G2 | "G"D2D2z2 | B,D ED ED | "D"F2F2A>d | 
+"A7"^c2c2B>c | "D"d2d2z2 :: [K:C] "C"E>FG4 | E>FG4 | E>FG2A2 | "G7"A>GF4 | 
+B,>CD4 | B,>CD4 | D>EF2G2 | "C"F>EC4 | E>FG4 | E>FG4 | 
+E>FG2^G2 | "F"A2A2z2 | A>B c2A2 | "C"A>GE2E2 | "G7"G>FD2D>E | "C"C2C2z2 :| 
+% mz00868
+X:3
+T:Bei guter Laune (Mazurka)  CF (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"G"GGG2A2 | BBB2c2 | d>^c d>c d>e | "G7"f2!>!G4 |: "C"e2e2e>d | c2c2c>B | \
+"F"A>^GA2c2 | "C"G2G2z2 |
+ EG AG AG | "G7"F2F2z2 | FA BA BA | "C"G2G2z2 | \
+e2e2e>d | c2c2c>B |
+ "F"A>^GA2c2 | "C"G2G2z2 | EG AG AG | "G"B2B2d>g | \
+"D7"^f2f2e>f | "G"g2g2z2 :: [K:F]
+ "F"A>Bc4 | A>Bc4 | A>Bc2d2 | "C7"d>cB4 | \
+E>FG4 | E>FG4 | G>AB2c2 | "F"B>AF4 |
+ A>Bc4 | A>Bc4 | \
+A>Bc2^c2 | "Bb"d2d2z2 | d>e f2d2 | "F"d>cA2A2 | "C7"c>BG2G>A | "F"F2F2z2 :| 
+% mz00868
+X:4
+T:Bei guter Laune (Mazurka)  GC (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"D"DDD2E2 | FFF2G2 | A>^G A>G A>B | "D7"c2!>!D4 |: "G"B2B2B>A | G2G2G>F | 
+"C"E>^DE2G2 | "G"D2D2z2 | B,D ED ED | "D7"C2C2z2 | CE FE FE | "G"D2D2z2 | \
+B2B2B>A |
+ G2G2G>F | "C"E>^DE2G2 | "G"D2D2z2 | B,D ED ED | "D"F2F2A>d | \
+"A7"^c2c2B>c | "D"d2d2z2 :: [K:C]
+ "C"E>FG4 | E>FG4 | E>FG2A2 | "G7"A>GF4 | \
+B,>CD4 | B,>CD4 | D>EF2G2 | "C"F>EC4 |
+ E>FG4 | E>FG4 | \
+E>FG2^G2 | "F"A2A2z2 | A>B c2A2 | "C"A>GE2E2 | "G7"G>FD2D>E | "C"C2C2z2 :| 
+% mz00868
+
+
+X:5
+T:Bei guter Laune (Mazurka) D&G (tinwhistle in D)
+T: mz00868 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"A"AAA2B2 | ccc2d2 | e>^d e>d e>f | "A7"g2!>!A4 |: "D"f2f2f>e | d2d2d>c | 
+"G"B>^AB2d2 | "D"A2A2z2 | FA BA BA | "A7"G2G2z2 | GB cB cB | "D"A2A2z2 | \
+f2f2f>e |
+d2d2d>c | "G"B>^AB2d2 | "D"A2A2z2 | FA BA BA | "A"c2c2e>a | \
+"E7"^g2g2f>g | "A"a2a2z2 :: [K:Gmaj]
+"G"B>cd4 | B>cd4 | B>cd2e2 | "D7"e>dc4 | \
+F>GA4 | F>GA4 | A>Bc2d2 | "G"c>BG4 |
+B>cd4 | B>cd4 | \
+B>cd2^d2 | "C"e2e2z2 | e>f g2e2 | "G"e>dB2B2 | "D7"d>cA2A>B | "G"G2G2z2 :| 
+X:6
+T:Bei guter Laune (Mazurka) D&G (tinwhistle in D)
+T: mz00868 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+AAA2B2 | ccc2d2 | e>^d e>^d e>f | g2!>!A4 |: f2f2f>e | d2d2d>c | 
+B>^AB2d2 | A2A2z2 | FA BA BA | G2G2z2 | GB cB cB | A2A2z2 | \
+f2f2f>e |
+d2d2d>c | B>^AB2d2 | A2A2z2 | FA BA BA | c2c2e>a | \
+^g2^g2f>^g | a2a2z2 :: [K:Gmaj]
+B>"_c"cd4 | B>cd4 | B>cd2e2 | e>d"_c"c4 | \
+F>GA4 | F>GA4 | A>B"_c"c2d2 | "_c"c>BG4 |
+B>"_c"cd4 | B>cd4 | \
+B>cd2^d2 | e2e2z2 | e>f g2e2 | e>dB2B2 | d>"_c"cA2A>B | G2G2z2 :|
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 26, 2016

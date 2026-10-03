@@ -1,0 +1,27 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka CFBb chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.383 (pk11474) orig. C,F,Bb-Dur
+T: T\"anze aus Altdorf (Uri)
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+g2 |: "C"c'2b2 a2gb | "Dm"a2f2 d2de | "G7"fGBd f2b2 | "C"c'ec'b agfg | c'2b2 a2gb | "Dm"a2f2 d2de | fGBd f2b2 |1 
+"C"c'2c'2 c'2g2 :|2 "C"c'2c'2 c'2bc' |: "G7"d'c'ba gagf | "C"efga g2e'2 | "G7"defg f2d'2 | "C"cdef e2c'2 | "G7"d'c'ba gagf |  
+"C"efga g2e'2 | "G7"defg f2d'b |1 "C"c'2c'2 c'2bc' :|2 "C"c'2c'2 c'2e2 |: [K:F] "F"f2{/e}f2 a2gf | "Bb"e2dd d2b2 | "C7"c'2ee e2b2 | 
+"F"a2ff fcde | f2{/e}f2 a2gf | "Bb"e2dd d2d'2 | "C7"b2e2 c'2e2 |1 "F"f2a2 f2e2 :|2 "F"f2a2 f2z2 |: [K:Bb] "Bb"d^cde fed2 | 
+"F7"e2AA A2a2 | e2AA A2a2 | "Bb"f2e2 d4 | "G7"g^fga g=fed | "Cm"c2GG G2g2 | "F7"A2FF F2f2 | "Bb"B2d2 B2z2 :| 
+
+X:2
+T:Polka GCF 5- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+d2 |: "G"g2f2 e2df | "Am"e2c2 A2AB | "D7"cDFA c2f2 | "G"gBgf edcd | g2f2 e2df | "Am"e2c2 A2AB | cDFA c2f2 |1 
+"G"g2g2 g2d2 :|2 "G"g2g2 g2fg |: "D7"agfe dedc | "G"Bcde d2b2 | "D7"ABcd c2a2 | "G"GABc B2g2 | "D7"agfe dedc | 
+"G"Bcde d2b2 | "D7"ABcd c2af |1 "G"g2g2 g2fg :|2 "G"g2g2 g2B2 |: [K:Cmaj] "C"c2{/B}c2 e2dc | "F"B2AA A2f2 | "G7"g2BB B2f2 | 
+"C"e2cc cGAB | c2{/B}c2 e2dc | "F"B2AA A2a2 | "G7"f2B2 g2B2 |1 "C"c2e2 c2B2 :|2 "C"c2e2 c2z2 |: [K:Fmaj] "F"A^GAB cBA2 | 
+"C7"B2EE E2e2 | B2EE E2e2 | "F"c2B2 A4 | "D7"d^cde d=cBA | "Gm"G2DD D2d2 | "C7"E2CC C2c2 | "F"F2A2 F2z2 :| 
+

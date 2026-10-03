@@ -1,0 +1,108 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Amor-Walzer  GC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.219 (wz00861) orig. G,C-Dur
+T:L\"otschental. S.214-233. Repertoire von Xander Murmann, Weissenried, 1874-1948
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"B2d | e2d | ("D7"c3 | A)zz | c2e | f2e | ("G"d3 | B)zz | g2B | 
+B2c | "Am"B2A | A2z | "D7"e2d | d2f | "G"g>gg |1 gzz :|2 gdd || 
+|: "D7"c>BA | zee | "G"d>cB | zgg | "C"g2e | g2e | "G"d3 | zdd | "D7"c>BA | 
+zee | "G"d>c B | zBd | g2B | "D7"A2d | "G"G>GG |1 Gdd :|2 Gzz || [K:C] 
+|: "G7"GBB | Bdd | "C".f!>!e2 | ze>f | "G7".e!>!d2 | zd>e | "C".d!>!c2 | zee | 
+"Dm"d2f | zAB | "C"c2e | zf>e | "G7"dd>c | Bdg | "C"c>cc | czz :|
+X:2
+T:Amor-Walzer  CF 7-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+"C"E2G | A2G | ("G7"F3 | D)zz | F2A | B2A | ("C"G3 | E)zz | c2E | 
+E2F | "Dm"E2D | D2z | "G7"A2G | G2B | "C"c>cc |1 czz :|2 cGG || 
+|: "G7"F>ED | zAA | "C"G>FE | zcc | "F"c2A | c2A | "C"G3 | zGG | "G7"F>ED | 
+zAA | "C"G>F E | zEG | c2E | "G7"D2G | "C"C>CC |1 CGG :|2 Czz || [K:F] 
+|: "C7"CEE | EGG | "F".B!>!A2 | zA>B | "C7".A!>!G2 | zG>A | "F".G!>!F2 | zAA | 
+"Gm"G2B | zDE | "F"F2A | zB>A | "C7"GG>F | EGc | "F"F>FF | Fzz :|
+% wz00861
+
+
+X:3
+T: Amor-Walzer  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"B2d | e2d | ("D7"c3 | A)zz | c2e | f2e | ("G"d3 | B)zz | g2B | \
+B2c | "Am"B2A |
+ A2z | "D7"e2d | d2f | "G"g>gg |1 gzz :|2 gdd \
+|: "D7"c>BA | zee | "G"d>cB |
+ zgg | "C"g2e | g2e | "G"d3 | zdd | "D7"c>BA | \
+zee | "G"d>c B | zBd | g2B |
+ "D7"A2d | "G"G>GG |1 Gdd :|2 Gzz  \
+|: [K:C] "G7"GBB | Bdd | "C".f!>!e2 | ze>f | "G7".e!>!d2 |
+ zd>e | "C".d!>!c2 | zee | \
+"Dm"d2f | zAB | "C"c2e | zf>e | "G7"dd>c | Bdg | "C"c>cc | czz :|
+% wz00861
+X:4
+T:Amor-Walzer  CF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"E2G | A2G | ("G7"F3 | D)zz | F2A | B2A | ("C"G3 | E)zz | c2E | \
+E2F | "Dm"E2D |
+ D2z | "G7"A2G | G2B | "C"c>cc |1 czz :|2 cGG \ 
+|: "G7"F>ED | zAA | "C"G>FE |
+ zcc | "F"c2A | c2A | "C"G3 | zGG | "G7"F>ED | \
+zAA | "C"G>F E | zEG | c2E |
+ "G7"D2G | "C"C>CC |1 CGG :|2 Czz \
+[K:F] |: "C7"CEE | EGG | "F".B!>!A2 | zA>B | "C7".A!>!G2 |
+ zG>A | "F".G!>!F2 | zAA | \
+"Gm"G2B | zDE | "F"F2A | zB>A | "C7"GG>F | EGc | "F"F>FF | Fzz :|
+% wz00861
+X:5
+T:Amor-Walzer D&G (tinwhistle in D)
+T:wz00861 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+"D"F2A | B2A | ("A7"G3 | E)zz | G2B | c2B | ("D"A3 | F)zz | d2F | 
+F2G | "Em"F2E | E2z | "A7"B2A | A2c | "D"d>dd |1 dzz :|2 dAA || 
+|: "A7"G>FE | zBB | "D"A>GF | zdd | "G"d2B | d2B | "D"A3 | zAA | "A7"G>FE | 
+zBB | "D"A>G F | zFA | d2F | "A7"E2A | "D"D>DD |1 DAA :|2 Dzz || [K:G] 
+|: "D7"DFF | FAA | "G".c!>!B2 | zB>c | "D7".B!>!A2 | zA>B | "G".A!>!G2 | zBB | 
+"Am"A2c | zEF | "G"G2B | zc>B | "D7"AA>G | FAd | "G"G>GG | Gzz :|
+X:6
+T:Amor-Walzer D&G (tinwhistle in D) solo
+T:wz00861 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+F2A | B2A | (G3 | E)zz | G2B | c2B | (A3 | F)zz | d2F | \
+F2G | F2E |
+ E2z | B2A | A2c | d>dd |1 dzz :|2 dAA \ 
+|: G>FE | zBB | A>GF |
+ zdd | d2B | d2B | A3 | zAA | G>FE | \
+zBB | A>G F | zFA | d2F |
+ E2A | D>DD |1 DAA :|2 Dzz \ 
+[K:G] |: DFF | FAA | "_c".c!>!B2 | zB>"_c"c | .B!>!A2 |
+ zA>B | .A!>!G2 | zBB | \
+A2"_c"c | zEF | G2B | z"_c"c>B | AA>G | FAd | G>GG | Gzz :|
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 26, 2016

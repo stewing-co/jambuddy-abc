@@ -1,0 +1,17 @@
+X:1105
+T:N.15 Mais lento
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 5 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%----------- edit between the lines ------------
+[Q:"Mais lento, tranquilo"] \
+"_[fol. 36]" Z3 || !p! A,, > A, | =G, > G, | =F, > F, | \
+"_[fol. 37]" E, _E,  | D, "_Ret." (C,/ !<(!/!<)!B,,/) ||\
+[M:4/8] [K:D]  !>(!/!>)!A,,2) | X | X | X | \
+"_[fol. 38]" X6 | \
+"_[fol. 39]" X5 | !fermata! Z ||
+%-----------------------------------------------

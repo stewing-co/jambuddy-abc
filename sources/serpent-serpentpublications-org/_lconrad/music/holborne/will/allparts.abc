@@ -1,0 +1,106 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:53. [Pavan:] Last will and testament
+T:Cantus
+C: Anthony Holborne
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+L:1/4
+M:C|
+K:D min
+|: d4 d2 c2 B4 A > G F/ E/ F E A A4 G2 A8 
+e3 d c d e3 d d2 c > d c/ B/ A B c d4 ^c2 d8 :|
+|: e3 g f > e d/ c/ d 
+e3 d c > =B A/ ^G/ A B2 A =B c3 _B A4 A2 d2 e3 e ^c2 d2 e3 d ^c =B A2
+d2 e2 f4 e8 :|
+|: f3 e d c B A d4 d4 e3 d c B A G
+A3 B c A B c B2 A2 d4 c d e c f2 e f e d d4 ^c2 d8 :|
+
+X:2
+T:53. [Pavan:] Last will and testament
+T:Altus
+C: Anthony Holborne
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+L:1/4
+M:C|
+N:Original clef, C on first line
+K:D min
+|: A4 B2 F2 G4 C c2 =B c4  F2 D2 E4 z2 A2
+c3 B A2 G c A2 B2 A3 A G2 F G E2 A2 A8 :|
+|: A3 e d > c A =B
+c2 =B2 A > G E2 F3 F G4 C2 F3 G A4 A3 E F2 E2 A2 A2 A3
+ =B ^c2 d c/ B/ A =B ^c8 :|
+|: A4 A2 F2 B3 A G F E D C2 C3 D E2
+F3 G A F G A G2 E A2 G/ F/ G2 A4 A B c A B2 G2 A4 A8  :|
+
+X:3
+T:53. [Pavan:] Last will and testament
+T:Quintus
+C: Anthony Holborne
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -12
+L:1/4
+M:C|
+N:Original clef, C on third line
+K:D min -8va
+|: f3 e d e f4 e2 f c d2 e2 c2 d4 ^c4 e3 d
+c A c d e4 f2 g2 e2 f2 d4 a4 ^f8 :|
+|: e4 A2 d2 
+z2 e2 e4 d e f d e f e2 f2 c2 d e f2 e2 c2 A2 A3 =B ^c d e4
+f2 g2 f g a2 a8 :|
+|: z2 f3 e d c B F B c d2 B2 G g2 f e d c B
+A B c B A2 z f d2 c f2 e d2 e f e2 c d e c g4 e4 ^f8 :|
+
+X:4
+T:53. [Pavan:] Last will and testament
+T: Tenor
+C: Anthony Holborne
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -12
+L:1/4
+M:C|
+N:Original clef, C on fourth line
+K:D min -8va
+|: d2 d3 B c A B2 G2 A A2 F G E A2 D4 A2 A2 c3 B 
+A4 z4 z2 B2 c > B A/ B/ c z2 d2 e4 d8  :|
+|: A6 A4
+^G2 A3 A F G A F c2 G2 A2 A3 G F D A2 e2 e2 d2 e2 e3 d ^c =B
+A2 G2 A4 e8 :|
+|: A4 z2 f2 d3 c B A G F E3 F G2 c3 
+B A G F2 z2 z8 z2 c2 c2 c2 B > c d2 ^c d e2 d8 :|
+
+X:5
+T:53. [Pavan:] Last will and testament
+T:Bassus
+C: Anthony Holborne
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -24
+L:1/4
+M:C|
+K:D min bass
+|: d'3 c' b2 a2 g4 f2 d2 c2 A2 B4 A8
+A2 a3 b c'2 d'2 g2 a2 f2 g a b2 a2 A2 d8  :|
+|: ^c4 d2 f2
+e4 A2 c2 d4 c4 f4 f e d2 ^c2 A2 a2 d2 ^c2 A2 a3 g
+f2 e2 d e f g a8 :|
+|: f4 f4 B4 B4 c4 c4
+f4 f4 g2 a2 b4 a4 a4 g2 b2 a2 A2 d8 :|

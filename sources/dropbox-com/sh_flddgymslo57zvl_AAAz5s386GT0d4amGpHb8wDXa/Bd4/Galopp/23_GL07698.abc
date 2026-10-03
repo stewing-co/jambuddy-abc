@@ -1,0 +1,39 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Nur flott. Galopp  CF (GL07698) 
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.357 (GL07698) orig. C,F
+T: Alte Seltisberger Musik. S.354-377
+T:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"G7"G3G/G/ | G3G/G/ | GA Bc | .d2.g2 |: "C"G>c B>A | .A2.G2 | G>c B>A | .A2.G2 | "G7"G>d d>c | c>B B>A | 
+A>G GG | GF EF | "C"G>c B>A | .A2.G2  | G>c B>A | .A2.G2 | "G"BD BD | Bc ^cd | "D7"AD AB/A/ | "G"GG Gz :| 
+|: "G7"BB2B | AG ^FG | "C"cc2A | AG ^FG | "G7"d>c c>B | B>G G>F |  ("C"EG) "F".c.A | "C"G4 | "G7"BB2B | AG ^FG | 
+"C"cc2A | AG ^FG | "F#0"c2^F2 | "C/G"G>A Bc | "G7"dA BG | "C"cc cz :: [K:F] "F"A4 | ^G2A2 | "Bb"B2D2 |  ^C2D2 | ("C7"EG d>c) | 
+c4 | ("F"FA d>c) | c4 | A4 | ^G2A2 | "Bb"B2D2 | ^C2D2 | "F"FE FG | A>B =Bc | "C7"dc GA | "F"FF Fz :| 
+% GL07698
+% Sep 20, 2017 (Fakes as alternatives)
+
+X:2
+T:Nur flott. Galopp  GC 7+ (GL07698) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.357 (GL07698) orig. C,F
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"D7"d3d/2d/2 | d3d/2d/2 | de fg | .a2.d'2 |: "G"d>g f>e | .e2.d2 | d>g f>e | .e2.d2 | "D7"d>a a>g | g>f f>e | 
+e>d dd | dc Bc | "G"d>g f>e | .e2.d2 | d>g f>e | .e2.d2 | "D"fA fA | fg ^ga | "A7"eA ef/2e/2 | "D"dd dz :| 
+|: "D7"ff2f | ed ^cd | "G"gg2e | ed ^cd | "D7"a>g g>f | f>d d>c | ("G"Bd) "C".g.e | "G"d4 | "D7"ff2f | ed ^cd | 
+"G"gg2e | ed ^cd | "C#0"g2^c2 | "G/D"d>e fg | "D7"ae fd | "G"gg gz :: [K:C] "C"e4 | ^d2e2 | "F"f2A2 | ^G2A2 | ("G7"Bd a>g) | 
+g4 | ("C"ce a>g) | g4 | e4 | ^d2e2 | "F"f2A2 | ^G2A2 | "C"cB cd | e>f ^fg | "G7"ag de | "C"cc cz :| 
+% GL07698
+% Sep 20, 2017 (Fakes as alternatives)

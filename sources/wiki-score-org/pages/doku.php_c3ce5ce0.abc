@@ -1,0 +1,33 @@
+X:106
+T:Overtura
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 6 clef=treble name="Flauta II" sname="Fl.II"
+%%MIDI program 1 73
+%%staves [( 6 )]
+%--------------------------------------
+[Q: "Allegro" 1/2=70] d// | d z/> f/ f z/> a/ | a a z z/> d/ | d z/> f/ f z/> a/ | a a z f | \
+efef| a a z f | efef | e2 z2 | Z3 | d f a z |Z3| z z/d'/ a/d'/a/d'/ | a z/d'/ a/d'/a/d'/ | \
+ac'e'c' | ac'e'c' | aaaa | a2 !fermata!z2 | Z8 | \
+d'2 af'|d'2 af'|b2c'2|d'>c'd'f|g4|fd'/c'/ b/a/g/f/|g2 f2|eeez|a4|az1z2|d/e//f//
+^g//a//b//c'//d'z | ^g4 -| g zz2 |eeez|a4|ac'az|a4|ac'az|a4|azz/(a/b/c'/)|c'2ba | e z e ^g | b4 | \
+a z a a | a4 | b z e ^g  | b4 | (a !p!e c) z | c'4 | \
+zd'd'z|b4|zc'az|e4|f4|^g4|!f!c' c' a c' | a c' a c' | (a c' a) z |c'4| \
+zd'd'z|b4 | zc'az|e4|f4|^g4|(a4 | (a4) | (a4) | a4) | "^obo\`e" A z c z | c z e z | e A A A | \
+A e d B | c f d f | A e d B | c e c e | c c c c | c2 !fermata!z2 || \
+%89%
+[M:2/4] [K:C] [L:1/8] [Q: "Andantino" 1/2=30] z|ze ez|ze ee | \
+f3 (3a/g/f/| fe "_con VVni 8a alta"(3c'/b/a/ (3g/f/e/|((3e/c/d/) d (3b/a/g/ (3f/e/d/ | (3c/B/c/ c (3c/g/f/ (3e/e/g/ | (3f/g/a/ (3a/g/f/ (3e/f/e/ (3d/c/B/ | \
+c e e z | z e e z | z e e z | \
+"_8va alta con VVni" ((3c/c/B/) A (3z/d/e/ (3^f/g/a/ | (3g/b/a/ g (3z/g/g/ ((3g/a/g/) | e ((3c'/a/^f/) ((3g/b/B/) ((3c/A/c/) | ((3B/d/c/) B z ((3e/f/^c/) | ((3d/f/e/) d z (3B/f/d/| ((3c/e/d/) c z (3c/d/e/ | (3e/e/e/ (3e/f/g/ (3a/g/f/ (3e/d/c/ | (3c/e/c/ (3B/B/B/ B ((3g/c/e/) | (d3/4e///f///) e z (3g/e/c'/ | (b3/4c'///d'///)c' ((3e/d/c/) ((3a/g/e/) | ((3f/g/a/) {b}((3a/g/f/) (3e/f/e/ (3d/c/B/ | (3c/d/e/ (3e/e/e/ ((3f/g/a/ (3a/a/a/) | ((3g/f/e/) (3e/e/e/ (3d/f/e/ (3d/c/B/ || \
+[M:C] [L:1/4] [Q:1/2=70] "_[TBC these nrs (3,5)]" c'2> d2 | e f g a |  _b3 g | e g e ^c | \
+"^con oboe" A z e =f | e z e =f | e ^c c c| c2 !fermata!z2 || \
+[K:D] Z8| !f!d'2 a f' | d'2 a f' | b2c'2 | d'>c' d' f | g4 | f z z2 | f2 f/e/d/c/ | dzz2 | a4 | gzz2 | \
+g4 | f z/d'/ d'/a/f/d/ | A z/ f/ e/f/e/f/ | e e e z | d' z z2 | \
+"^Oboe" Z | z B B z | z4 | z (f d) z | z (f a) z | z g g z | z c c z | d z z2 | Z3 | \
+z2d'2-|d'4-|d'4 | d'4 |d'4-| d'4 |d'zz2|z4|d'4-|d'4|d4|d2ec|dzz2|z4| \
+d'zz2|z4|zd'd'd'|d'd'd'd'|d'zd'z|d'zz2 || \
+[Q: "Allegro Maestoso" 1/2=60] [K:F] x3/8 | Z100 | Z13 |]
+%--------------------------------------

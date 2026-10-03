@@ -1,0 +1,48 @@
+X:606
+T:Tantum Ergo
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 6 clef=alto1 name="Soprano" sname="S."
+%%MIDI program 1 1
+%%staves [[ 6 ]]
+%------------------
+[Q:"Andante"] !p! c2c2| d2 d2 | e3e | f4 | gzz2 | Z |\
+w:Tan-tum Er-go Sa-cra-men-tum
+!p!eAAG | Z | \
+w: Ve-ne-re-mur
+!p! _d=EGF | Z | \
+w: Ve-ne-re-mur
+"^cres." c3(d/c/) | =Bzz2 | \
+w:  cer-nu--i
+!>!e3(d/c/) | d>G Gz | \
+w: Et an--ti-qu-um
+!p!c3 (d/e/) | d2Gz | \
+w: do-cu--men-tum
+!p!ecBA | B>EEz | \
+w: No-vo ce-dat ri-tu-i
+!p!AGcB | AGcB | !p! d2f2 | e2e2 | d3d | czz2 | \
+w: Praes-tet fi-des sup-ple-men-tum Sen-su-um de-fe-ctu-i
+!p!cccc | e2d2 | cz \
+w: Sen-su-um de-fe-ctu-i
+!p!e2 | e2 =d2 | czz2 | Z | !fermata!Z"^Segue;genitori" || \
+w: de-fe-ctu-i
+%"_[fol.197]"
+[Q:"Moderato"][M:2/4] ee | ed | !p! ff | fe | !p!Be | ec | e_d | cz | \
+w: Ge-ni-to-ri ge-ni-to-que Laus et ju-bi-la-ti-o.
+!p! e_d | cc | e_d | cz | \
+w: Laus et ju-bi-la-ti-o
+!f! f>e | _dB | !p!cc | _dB | !f!g>f | ec | !p!=df | ec | !p!=Bc | df | ed | cz | \
+w: Sa-lus, ho-nor, vir-tus quo-que Sa-lus, ho-nor, vir-tus quo-que Sit et be-ne-dic-ti-o
+!f!_dd | !>!e2 | _d !f!d/ d/ | !>!e2 | _d!f!d/ d/ | _dd | f>_d | _dz | Z4 | \
+w: Pro-ce-den-ti ab u-tro-que Com-par sit lau-da-ti-o
+!f!ee | !>(!e(=d/!>)!c/) | !p!=B2 | d2 | cz | Z | z \
+w: Com-par sit lau--da-ti-o
+!p! e | f2 | f2 | d2 | f2 | ez | Z | z \
+w: A-men A-men A-men
+!p!e | d2 | d2 | =B2 | d2 | cz | Z7 | \
+w: A-men A-men A-men
+!p! c2- | c2 | cz ||  Z3 | "_finis" !fermata! Z |] \
+w: A--men.
+%------------------

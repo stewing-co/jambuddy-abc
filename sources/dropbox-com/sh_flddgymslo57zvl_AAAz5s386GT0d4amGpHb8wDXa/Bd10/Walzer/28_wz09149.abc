@@ -1,0 +1,97 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walzer  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: Das Repertoire der B\"abi-Musig, Alpnach. S.62-108. S.108 (wz09149) orig. C,F
+T: \"Uberliefert durch Josef B\"abi, Alpnach, 1880
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"czc/c/ | czc/c/ | cc'c' | "G7"gzz |: "C"ga>e | ga>e | "G7"fB>d |  G3 | "F"fA>c | 
+"G7"Bgg |1 "C"ec>a | "G7"g2z :|2 "G7"gf>d | "C"czB/c/ ||  ("C"d'3 | d') c'e | "Dm/F"d3 | "G7"dba | 
+B3 | "C"cag | e/f/ g/a/ b/c'/ | d'3 | d'c'e | "Dm"d2c' | c'2a | "G7"a2g | g2d | 
+"C"c>c' c' | c'zz |] [K:F] "Bb"dcd | "C7"eag | "F"g2f | zd'c' | "C7"c'2b | zed | "F"d2c | 
+zaa | "Bb"d^cd | "C7"eag | "D7"g^fd' | "Gm"c'2b | "C7/Bb"a/a/gf | "F/A"c'3 | "C7"c/b/ag | "F"fzz |] 
+% wz09149
+X:2
+T:Walzer  GC 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"GzG/2G/2 | GzG/2G/2 | Ggg | "D7"dzz |: "G"de>B | de>B | "D7"cF>A | D3 | "C"cE>G | 
+"D7"Fdd |1 "G"BG>e | "D7"d2z :|2 "D7"dc>A | "G"GzF/2G/2 || ("G"a3 | a) gB | "Am/C"A3 | "D7"Afe | 
+F3 | "G"Ged | B/2c/2 d/2e/2 f/2g/2 | a3 | agB | "Am"A2g | g2e | "D7"e2d | d2A | 
+"G"G>g g | gzz |] [K:C] "F"AGA | "G7"Bed | "C"d2c | zag | "G7"g2f | zBA | "C"A2G | 
+zee | "F"A^GA | "G7"Bed | "A7"d^ca | "Dm"g2f | "G7/F"e/2e/2dc | "C/E"g3 | "G7"G/2f/2ed | "C"czz |] 
+% wz09149
+X:3
+T: Walzer  CF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"czc/c/ | czc/c/ | cc'c' | "G7"gzz |: "C"ga>e | ga>e | "G7"fB>d |  G3 | "F"fA>c | 
+"G7"Bgg |1 "C"ec>a | "G7"g2z :|2 "G7"gf>d | "C"czB/c/ ||  ("C"d'3 | d') c'e | "Dm/F"d3 | "G7"dba | 
+B3 | "C"cag | e/f/ g/a/ b/c'/ | d'3 | d'c'e | "Dm"d2c' | c'2a | "G7"a2g | g2d | 
+"C"c>c' c' | c'zz |] [K:F] "Bb"dcd | "C7"eag | "F"g2f | zd'c' | "C7"c'2b | zed | "F"d2c | 
+zaa | "Bb"d^cd | "C7"eag | "D7"g^fd' | "Gm"c'2b | "C7/Bb"a/a/gf | "F/A"c'3 | "C7"c/b/ag | "F"fzz |] 
+% wz09149
+X:4
+T:Walzer  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"GzG/2G/2 | GzG/2G/2 | Ggg | "D7"dzz |: "G"de>B | de>B | "D7"cF>A | D3 | "C"cE>G | 
+"D7"Fdd |1 "G"BG>e | "D7"d2z :|2 "D7"dc>A | "G"GzF/2G/2 || ("G"a3 | a) gB | "Am/C"A3 | "D7"Afe | 
+F3 | "G"Ged | B/2c/2 d/2e/2 f/2g/2 | a3 | agB | "Am"A2g | g2e | "D7"e2d | d2A | 
+"G"G>g g | gzz |] [K:C] "F"AGA | "G7"Bed | "C"d2c | zag | "G7"g2f | zBA | "C"A2G | 
+zee | "F"A^GA | "G7"Bed | "A7"d^ca | "Dm"g2f | "G7/F"e/2e/2dc | "C/E"g3 | "G7"G/2f/2ed | "C"czz |] 
+% wz09149
+X:5
+T:Walzer A&D (tinwhistle in D)
+T:wz09149 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A %%MIDI gchordon
+"A"AzA/2A/2 | AzA/2A/2 | Aaa | "E7"ezz |: "A"ef>c | ef>c | "E7"dG>B | E3 | "D"dF>A | 
+"E7"Gee |1 "A"cA>f | "E7"e2z :|2 "E7"ed>B | "A"AzG/2A/2 || ("A"b3 | b) ac | "Bm/D"B3 | "E7"Bgf | 
+G3 | "A"Afe | c/2d/2 e/2f/2 g/2a/2 | b3 | bac | "Bm"B2a | a2f | "E7"f2e | e2B | 
+"A"A>a a | azz |] [K:D] "G"BAB | "A7"cfe | "D"e2d | zba | "A7"a2g | zcB | "D"B2A | 
+zff | "G"B^AB | "A7"cfe | "B7"e^db | "Em"a2g | "A7/G"f/2f/2ed | "D/F#"a3 | "A7"A/2g/2fe | "D"dzz |] 
+X:6
+T:Walzer A&D (tinwhistle in D) solo
+T:wz09149 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A transpose=12
+AzA/2A/2 | AzA/2A/2 | Aaa | ezz |: ef>c | ef>c | d"_#"G>B | E3 | dF>A | 
+"_#"Gee |1 cA>f | e2z :|2 ed>B | Az"_#"G/2A/2 || (b3 | b) ac | B3 | B"_#"gf | 
+"_#"G3 | Afe | c/2d/2 e/2f/2 "_#"g/2a/2 | b3 | bac | B2a | a2f | f2e | e2B | 
+A>a a | azz |] [K:D] BAB | cfe | e2d | zba | a2g | zcB | B2A | 
+zff | B^AB | cfe | e^db | a2g | f/2f/2ed | a3 | A/2g/2fe | dzz |]
+X:7
+T:Walzer G&D (tinwhistle in D) var. solo
+T:wz09149 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=12
+GzG/2G/2 | GzG/2G/2 | Ggg | dzz |: de>B | de>B | "_c"cF>A | D3 | "_c"cE>G | 
+Fdd |1 BG>e | d2z :|2 d"_c"c>A | GzF/2G/2 || (a3 | a) gB | A3 | Afe | 
+F3 | Ged | B/2"_c"c/2 d/2e/2 f/2g/2 | a3 | agB | A2g | g2e | e2d | d2A | 
+G>g g | gzz |]  [K:D] BAB | cfe | e2d | zba | a2g | zcB | B2A | 
+zff | B^AB | cfe | e^db | a2g | f/2f/2ed | a3 | A/2g/2fe | dzz |]
+% Aug 12, 2016

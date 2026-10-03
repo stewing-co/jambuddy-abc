@@ -1,0 +1,50 @@
+I:abc-charset utf-8
+
+X:1932
+T:All My Heart 1932 
+C:Dr. Edwin Wesley Howard Fowles  (1871–1945)
+S:https://nla.gov.au/nla.obj-174350398 
+Z:Stephen Hamish Darby
+Z:Creative Commons attribution only 4.0 unported https://creativecommons.org/licenses/by/4.0/deed.en
+O:Australia
+%%score 1 2 3 4
+L:1/4
+M:6/4
+Q:1/2=50
+I:linebreak $
+K:C
+V:1 treble nm="Soprano" snm="S."
+V:2 treble nm="Alto" snm="A."
+V:3 bass nm="Tenor" snm="T."
+V:4 bass nm="Bass" snm="B."
+V:1
+[I: MIDI=program 41]F2 C G2 G | (G A) B d2 c | B2 A (A2 G) |
+w: All my  heart this| night * re- joi- ces|as I hear
+(F G) F E3 |  (D E) ^F (G c) B | G3 G2 z | 
+w:far * and near|Sweet- * est An * gel|Voi- ces.|
+G2 G e2 c |B c d c2 G | _B2 B A3 | 
+w: Christ is born!|choirs . are sing- ing|Till the air|
+ c2 c B3 |(c d) e d2 A |
+w: Ever- y- where|Now . with joy is|
+ B3 c2 z :| c6 | c6 |] 
+w:ring- ing|A-|men|
+V:2
+[I: MIDI=program 42]C2 C C D E | F2 F F2 E | G2 F F2 E | 
+D E D C3 | B, C D D E D | E D C B,2 z | 
+F2 F E2 G | F2 F E2 G | E F G F2 G | 
+^F G A G3 | G G G F2 F | 
+D G F E2 z :| F6 | E6 |] 
+V:3
+[I: MIDI=program 43]G,2 G, C B, C | B, C B, C2 C | C2 C C3 | 
+B,2 G, G,3 | G,2 A, G,2 G, | G,2 F, G,2 z | 
+B,2 B, C2 C | D C B, C2 C | C2 C C2 ^C |  
+D2 D D2 z |C B, C A,2 D | 
+C3 C2 z :| A,6 | G,6 |] 
+V:4
+[I: MIDI=program 44]C,2 E, E, D, C, | G,2 G, A,2 A, | E,2 F, C,3 | 
+G,2 G,, G,3 | G,2 C, B,, A,, B,, | C,2 D, G,,2 z | 
+G,2 G, C,2 E, | G,2 G, A,2 E, | C, D, E, F,2 E, | 
+D, E, ^F, G,2 =F, | E, D, C, F,2 F, | 
+G,3 C,2 z :| F,6 | C,2 z4 |] 
+
+

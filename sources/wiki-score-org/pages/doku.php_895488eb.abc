@@ -1,0 +1,18 @@
+X:402
+T:N.4 Duo de Josepha e Ambrosio
+C:Fonseca, Eduardo da (1863-1938)
+M:3/4
+L:1/4
+K:D
+V: 2 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+% -------------------------------------------------------------------------------------
+[Q:"Andante molto"] (f/a/) (f/d/) e | d2 !fermata!z || (F/A/ F/D/) (E/F/) | ED2 | (B,/D/G/F/) (G/E/)| F3 | \
+(A/E/) (E/^D/E/F/) | (ED2) |(C/D/ E/F/^G/E/|A2) z || \
+F/A/ F/D/ E/F/ | ED2 | B,/D/G/F/ G/E/| F3 | (F/A/ F/)(^D/E/F/)| G3 | (E/G/) (F/D/)(E/C/)| D [Fd]z || \
+[K:G] d/>(B/ d/)>(B/ g/)>a/ | (fc'2) | c'/>b/ a/>^g/ a/>^a/ | (bg2) | d/>B/ d/>B/ g/>a/ | (f a2) | \
+a/>b/ a/>g/ f/>e/ | f [dD][dD] || d/>B/ d/>B/ g/>a/ | f c'2 | c'/>b/ a/>^g/ a/>^a/ | b g2 | b b/>d/ c'/>b/ | a e2 | \
+"Pizz." "Rit." A/z/ G/z/ F/z/ | "arco"G/z/ [B/g/]z/z|| "A tempo" [K:D] F/A/ F/D/ E/F/ | ED2 | B,/D/ G/F/ G/E/ | F3 | \
+F/A/ F/^D/E/F/ | G3 | (E/G/) F/D/E/C/ | "_Segue subito" "_para Marcha e Coro Militar" D [dF]z |]
+% -------------------------------------------------------------------------------------

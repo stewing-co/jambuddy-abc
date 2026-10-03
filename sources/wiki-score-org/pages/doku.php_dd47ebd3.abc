@@ -1,0 +1,17 @@
+X:2913
+T:[Demetrio]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 13 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 13 ]
+%------------------
+[Q:"Allegro assai"] Z9 | "_[previous bars empty; in manuscript]" \
+[G,E]4 | [G,D]4 | [G,E]4 | [A,E]4 | [A,F]zz2 | Z4 || \
+[Q:"Adagio"] Z2 | \
+!p! D2 "_cresc." DC | !p! D2 !f! C2 | Dzz2 | z A,/>A,/A,z | "_[staff empty 23 bars]" X23 || \
+[Q:"Allegro"] Z2 | \
+D D D D | D4 | "_[staff empty for 60 bars]" X60 |]
+%------------------

@@ -1,0 +1,293 @@
+%%topmargin .5in
+%%leftmargin .75in
+%%staffwidth 6.5in
+%%gchordfont Helvetica 14
+%%footer SPUDs Tune Swap #16 - Light  December 10, 2020
+%%
+%%
+X:0
+T:SPUDS Tune Swap #16 
+T:Light   December 10, 2020
+K:
+%%text 
+%%text 1. Light & Shadow Waltz [G] Kathryn
+%%text 2. La Rosa Enflorece [Dm ] Lenora
+%%text 3. Candles in the Dark [Bm] Craig
+%%text 4. Star of Bethlehem [D] Enid
+%%text 5. Ecumenical Quodlibet [G] Steve
+%%text or Ecumenical Quodlibet 2 [G] Steve
+%%text 6. Noel nouvelet [Em] Kirsten
+%%text 7. O Chanukah [Em] Judy K
+%%text 8. Ocho Candelas [G] Carol W 
+%%text 9. Yoshke [Am] Bob Pollack
+%%text 10. Fire Jig [Dmix] Sarah and Bill
+%%text 11. Turtle in the Grass [D] Laura
+%%text 12. Lamplighter's Hornpipe [A] Adlai
+%%text 13. Da Slockit Light [D] any 
+%%text Extras:
+%%text 14. Old Wife Behind the Fire
+%%text 15. Round About Our Coal Fire
+%%text 16. Epstanbul
+
+%%newpage
+
+X:1
+T:Light & Shadow Waltz
+C:George Wilson (1992)
+M:3/4
+L:1/4
+K:G
+d/|: "G"g>f g/a/|gdB|"C" c>de|"G" dBG|"C"E<cE|"G"DGB|"A7" A3/ E//E//G|"D"FED|
+"G"g>f g/a/|gdB|"C" c>de|"G" dBG|"C" E<cE|"D"DdF|1"G"G3-|G2d:|2"G"G3-|G2d/c/|
+|:"G"B>AG|G>AB|"D"Ad"A7" ^c|"D"d2 e/f/|"Em"g (3f/g/f/ e|"G"B>AG|"D"AdA|"Bm"F>ED|
+"Em"G>FE|E>FG|"D"Fd"A7"^c|"Bm"d2e/f/|"G"g>dB|"D"A<dF|1"Em"E3|E/D/ E/F/ G/A/:|2"Em(G)"G3-|G2d|]
+W:(c) Copyright 1992, George Wilson
+W:"This tune has light and dark places, and it was inspired by feelings 
+W:brought up by the temporary absence of a very dear loved one." George Wilson
+
+
+X:2
+T:La Rosa Enflorece
+N:Sephardic song from Istanbul c.1800
+Z:Jack Campin, http://www.campin.me.uk/
+F:Jack Campin's Nine-Note Tunebook
+% last edit 03-02-2013
+M:4/4
+L:1/8
+K:Dm
+D|G3A B>A GB|A>G^F_E D3 D|G3A B>A GB|A4z2||
+AB|c>A Ac B>A GB|AG^F_E D3D|^F _E2 D CD EF| [1D>_E^FG A2:| [2D4z3|]
+
+X: 3
+T: Candles in the Dark
+C: Jonathan Jensen 1999
+Z: ssg
+M:3/4
+L:1/8
+Q: 1/2=66
+R:waltz
+K: Bm
+  |:"Bm"Bb af "Em/B"ec | "Bm"d2 B4 | Bb af "Em/B"ec | "Bm"f6 |\
+  "Bm"Bb af "Em"ed | "A"c2 A2 Bc | "G"d3 c BA | "Bm"F2 B4 :|
+  "G"d3 B "A/G"ec | "G"d3 B "A/G" cA | "G"BA Bc de | "D"f3 a fd |\
+  "A"c3 f "Bm"dB | "F#m"A3 d "G"BG | "Em"EF GA Bc | "Bm"d2 B4 |
+  "G"d3 B "A/G"ec | "G"d3 B "A/G" cA | "G"BA Bc de | "D"f3 a fd |\
+  "A"ec Af "Bm"dB | "F#m"cA Fd "G"BG | "Em"EF GA Bc | "Bm"d2 B4 |]
+
+X:4
+T:Star of Bethlehem
+M:C
+L:1/8
+K:D
+DF|"D"ABAF A2de|fgfef2ed|"G"BAdB "D"AFED|"A"E3FE2FG|
+"D"ABAF A2de|fgfef2ed|"G"BAdB "A"AFEF|"D"D3ED2:|
+fg|"D"a2afa2fe|dcdef4|fefa bafd|"A"de2fe2df|
+"D"a2afa2fe|"G"dedc "D"d2cB|AFdB "A"AFEF|"D"D3ED2:|
+
+X:5
+T:Ecumenical Quodlibet
+T:"Deck the Halls" with "Ma'oz Tzur" (Rock of Ages)
+M:C
+L:1/4
+%%MIDI ratio 3 1
+N: "Deck the halls", first set of lyrics, traditional;
+N: second set of lyrics from Walt Kelly, "Pogo".
+N: "Ma'oz Tzur", words: By ìMordecai,î 14th Century;
+N: translated from Hebrew to German by Leopold Stein (1810-1882);
+N: translated from German to English by Marcus Jastrow (1829-1903) and Gustav Gottheil (1827-1903).
+N: "Ma'oz Tzur", music: German Ashkenazic melody
+% (Ma'Oz Tzur info from http://www.cyberhymnal.org/htm/r/o/rockalos.htm accessed 8-Dec-2008)
+K:G
+V:1
+%%MIDI program 72
+%%MIDI transpose 12
+d>c B A | G A B G | A/B/c/A/ B>A | G F G2 |
+w: Deck the halls with boughs of hol-ly, Fa la la la la, la la la la.
+w: Deck us all with Bos-ton Char-lie, Wal-la Wal-la, Wash., and Kala-ma-zoo!
+d>c B A | G A B G | A/B/c/A/ B>A | G F G2 |
+w: 'Tis the sea-son to be jol-ly, Fa la la la la, la la la la.
+w: No-ra's free-zin' on the trol-ley, Swal-ler dol-lar cauliflow-er Alley-ga-roo!
+A>B c A | B>c d A | B/c/d e/f/g | f e d2 |
+w: Don we now our gay ap-pa-rel, Fa la la, la la la, la la la.
+w: Don't we know ar-cha-ic bar-rel, Lul-la-by Lil-la Boy, Louis-ville Lou.
+d>c B A | G A B G | e/e/e/e/ d>c | B A G2 |]
+w: Troll the an-cient Yule-tide car-ol, Fa la la la la, la la la la.
+w: Trol-ley Mol-ly don't love Har-old, Boo-la Boo-la Pensacoo-la hulla-ba-loo!
+V:2
+G D G c | B A G>d | d e A B/c/ | B A G2 |
+w: Rock of A-ges, let our song_ praise thy sa-ving_ pow--er.
+G D G c | B A G>d | d e A B/c/ | B A G>d |
+w: Thou a-midst the ra-ging storm_ wast our shel-ter-ing tow--er.
+d>d e f | g2 d2 | g f e d | d/c/B/c/ A2 |
+w: Fur-ious they as-sailed us, but Thine arm a-vailed___ us,
+B>c d2 | "_(this meas. alt.)"e>f g2 | B G e d/c/ | B A G2 |]
+w: And Thy word broke their sword when our own strength_ failed_ us.
+
+X:5
+T:Ecumenical Quodlibet 2
+T:"Good King Wenceslas" with first part of "Mi Y'mallel" (Who Can Retell)
+M:C
+L:1/4
+%%MIDI gchordoff
+%%MIDI ratio 3 1
+K:G
+V:1
+%%MIDI program 72
+%%MIDI transpose 12
+"G"GG "C"GA | "G"GGD2 | "C"ED"D7"EF | "G"G2G2 | "Em"GG "C"GA | "G"GG"D"D2 | "C"ED"D7"EF | "G"G2G2 |
+"G"dcBA | "D7"BA"Em"G2 | "C"ED"D7"EF | "G"G2G2 | "D"DDEF | "Em"GG"D7"A2 | "G"dcBA | "Em"G2"C"c2 |]
+V: 2
+"G"GG/2D/2 GA|BB/2G/2 Ac|B2 d2|B2 d2|GG/2D/2 GA|BB/2G/2 AB|"G"G2 "C"E2|"G"G4 |
+"G"GG/2D/2 GA|BB/2G/2 Ac|B2 d2|B2 d2|GG/2D/2 GA|BB/2G/2 AB|"G"G2 "C"E2|"G"G4 |]
+
+X:6
+T:No\"el nouvelet
+C:medieval French carol
+Z:AW; chords by Clare Maher and AW
+M:2/4
+L:1/8
+K:Edor
+"Em"E B "(A)"c A | "Em"B2 G2 | "A"A A/B/ " Bm"G F | "Em"E4 | \
+"Em"E B "(A)"c A | "Em"B2 G2 | "A"A A/B/ "Bm"G F | "Em"E4 | 
+"C (Em)"G2 F E | "Bm"F3 B, | "C (Em)"G G F E | "Bm"F4 | \
+"Em"E B "(A)"c A | "Em"B2 G2 | "A"A A/B/ "Bm"G F | "Em"E4 |] 
+% 2018 chord tweaks: B5 becomes Bm; G becomes C(Em) - "mistake proofing" for AW
+% %%text * Bm can occasionally substitute for B5
+%%text (E5 and B5 can substitute for Em and Bm)
+% 
+
+
+X:7
+T:O Chanukah
+K:Em
+M:C
+L:1 / 8
+%%staffsep 2.5cm
+B | "Em" BB BB ee BB | B2 AG A2 G2 |
+w:O Cha-nu-kah O Cha-nu-kah come light the me-no-rah
+B2 BB e2 BB | "D7" B2 AG A2 "G" G2 | GABA G2 GG |
+w:Let's have a par-ty we'll all dance the ho-ra Ga-ther round the ta-ble we'll
+"D7" A2 GF "G" G2 z2 | "Em" GABA G2 GG | "B7" A2 GF "Em" E2 E2 |
+w:give you a treat Shi-ny tops to play with and lat-kes to eat And
+B2 B4 E2 | B2 B4 E2 | "G" B2 BB "D7" c2 (BA) | "G" B4 "B7" z4 |
+w:while we are play-ing the can-dles are burn-ing_ low
+"Em" B2 BB "Am" c2 BA | "Em" B2 BB "Am" (c2B) A | "Em" G2 GG "B7" A2 GA | "B7" B8 |
+w:One for each night they_ shed a sweet light to re-mind us of days long a-go
+"Em" B2 BB "Am" c2 BA | "Em" B2 BB "Am" (c2B) A | "Em" G2 GG "B7" A2 GF | "Em" E6 z2 ||
+w:One for each night they_ shed a sweet light to re-mind us of days long a-go
+
+X:8
+T:Ocho Kandelikas
+C:Flory Jagoda
+M:C
+L:1/8
+K:G
+"Em"zB BB cB FG|"B7"A8|z^d dc BA FG|"Em"E8|
+"Em"zB BB cB FG|"B7"A8|z^d dc BA FG|"Em"E2z2"B7"B4|
+"B7"B,B, ^DF .c2.B2|"Em"E2GB .c2.B2|"B7"B,2 ^DF .c2.B2|"Em"EE EG .c2.B2|
+"B7"B,B, ^DF .c2.B2|"Em"E2GB .c2.B2|"B7"B,B, ^DF .c2.B2|zB ^AB cB FG|"Em"E8|]
+
+X:9
+T:Yoshke (Tantz, Tantz, Yidelekh)
+O:klezmer
+M:C|
+L:1/8
+K:Am
+|  "E"EF^GA BcBA | ^G2GE "Am"A4 | "E"B2B2 dcBA | ^G2GE "Am"A4 \
+|  "E"EF^GA BcBA | ^G2GE "Am"A4 | "E"^G2G2 "Dm"FEFD | "E"E4 z2 |]
+[| "G"[G2B] \
+|  "C"cde4 e2 | "G"dedB G4 | "G7"GABc defd | "C"e3f "E"edcB \
+|  "Am"ABc4 c2 | "E"BcB^G E4 | EF^GA Bc^GB | "Am"A4 z2 |]
+[| ^GF \
+|  "E"E2^G2 E2G2 | "Am"A2A2 dcBA | "E"^G2G2 "Am"AGAc | "E"B2e2 ~e4 \
+|  "E"E2^G2 E2G2 | "Am"A2A2 dcBA | "E"^G2G2 "Dm"FEFD | "E"E4 z2 |]
+[| "G"[G2B] \
+|  "C"cde4 e2 | "G"dedB G4 | "G7"GABc defd | "C"e3f "E"edcB \
+|  "Am"ABc4 c2 | "E"BcB^G E4 | EF^GA Bc^GB | "Am"A4 z2 |]
+
+X:10
+T:Fire Jig
+C:Bill Quern 
+M:6/8
+R:Jig
+L:1/8
+K:Dmix
+|:"D"AdcA2G|"Am"FGA FGA|"D"AdcA2G|"D"FDB,"C"C3|\
+"D"AdcA2G|FGA FGA|"D"FGA "C"cAG|"Am"FDC"D"D3:|
+|:"G"B,G,B,"C"C3|"D"FGFA3|"G"B,G,B,"C"C3|"D"FGF FDA,|\
+"G"B,G,B,"C"C3|"D"FGFA3|"Am"Adc "C"AGF|"Am"FDC"D"D3:| 
+W: © 2003 Bill Quern. All rights reserved. Used by permission.
+
+X:11
+T:Turtle in the Grass 
+C:©Ariel Friedman)
+M:C|
+L:1/8
+K:D
+dc|:"D"B2 A2F3A|"D"E2D4 dc|"D" B2 A2 FA-A2|"G"B6 dc|
+"D" B2 A2 F3 A|"D" E2 D2"Bm" B,2 A,B,|"G"DA,DF"A"E2 E2|1"D"D6 dc:|2"D"D4-DDEF||
+|:"G"G2 A2 "A"B3A|"D"E2 D2-DDEF|"G"G2A2"Em" Bd-d2|"A"c3d cAEF|
+"G"G2 A2 "A"B3A|"D"E2 D2"Bm" B,2 A,B,|"G"DA,DF"A"E2 E2|1"D"D4-DDEF:|2"D"D6|]
+
+X:12
+T:Lamplighter's Hornpipe
+M:C|
+R:hornpipe
+K:A
+cd|"A"ecec eagf| ecec eagf| ecec"F#m" fedc| "Bm"d2B2 "E7"B2cd|
+   "A"ecec eagf| ecec eagf| efde "E7"cdBc| "A"A2A2 A2 :|
+|:cd|"A"edcd e2fe| "E7"dcBc d2ed| "A"cAcA "F#m"dcBA| "Bm"GABc "E7"B2cd|
+    "A"edcd e2fe| "E"dcBc d2ed| "A"cagf "E"edcB| "A"A2c2 A2 :|
+
+X:13
+T:Slockit Light, Da
+C:Tom Anderson
+O:Shetland
+R:air
+M:C
+L:1/16
+K:D
+"(A7)"FE \
+| "D"D3F A2d2 "A7"fedc "D"d2A2 | "G"B2d2 "D"A2d2 "Em"BAGF "A7"EGFE \
+| "D"D3F A2d2 "A7"fedc "D"d2A2 | "G"B2G2 "A7"AGFE "D"D4 D2 :|
+"(A7)"g2 \
+| "D"f2a2 "A"e3c "D"d3e dcBA | "D"f2a2 "E7"e2^g2 "A"a6 =g2 \
+| "D"f2a2 "A"e3c "D"d3e dcBA | "G"B2G2 "A7"AGFE "D"D4 D2 |]
+"(A7)"g2 \
+| "D"f2a2 "A"e3c "Bm"d3e dcBA | "G"B2d2 "D"A2d2 "Em"BAGF "A7"EGFE \
+| "D"D3F A2d2 "F#"fedc "Bm"d2A2 | "Em"B2G2 "A7"AGFE "D"D4 D2 |]
+
+
+X:14
+T:Old Wife Behind the Fire
+Z:ssg
+M:C|
+L:1/4
+K:Gmix
+|:c|"G"B2 GB|"F"AF cA|"G"B2 GB|"G/b"AG "C"gd|\
+"G"B2 GB|"F"AF cA|"G"B/c/d "D"AB|"G"G2 G:|
+|:c|"G"Bd2d/e/|"F"fF cA|"G"Bd2e/f/|gd gd|\
+"G"Bd2d/e/|"F"fF cA|"G"B/c/d "D"AB|"G"G2 G:|
+
+X:15
+T:Round About Our Coal Fire
+Z:ssg
+L:1/8
+M:9/8
+K:Gmix
+|:G|"F"A3/2B/c c3/2d/c "C"c2G|"F"A3/2B/c c>BA "G"B2B|\
+"F"cAA A>GF A>Bc|"G"d2c B2A G2:|
+|:a|"C"g2f e2d c2a|gec c>de "Dm"f2 e|\
+"F"f2A A>GF A>Bc|"G"d2c B2A G2:|]
+
+X:16
+T:Epstanbul
+C:Sarah Gowan 2014 
+M:4/4
+Q:1/4=120
+L:1/4
+K:Dm
+"A"^cdeg |fed^c| ed^cd|e3 ^c|"Bb"Bd^cB |d^cBd |"A"^cBAG |A3 A|
+"A"^cdeg |fed^c| ed^cd|e3 ^c|"Bb"BAGB |"A"AGFE|"Dm"D4|D4||
+"Gm"D Bz ^c |ed^cd|ed^cd |"A"e4|"Gm"D Bz ^c |ed^cd|ed^cB  |"A"A2A2|
+"Gm"D Bz ^c |ed^cd|ed^cd |"A"e3^c|"Bb"Bd^cB |"A"AGFE|"Dm"D4 |D4|]

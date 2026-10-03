@@ -1,0 +1,18 @@
+X:204
+T:O Magnum Misterium
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 4 clef=bass name="Guyao" sname="Gu."
+%%MIDI program 1 43
+%%staves [ 4 ]
+%------------
+Z19 !segno!|| [M:3/2] Z15 !fine!|] \
+[M:2/2] E,2|E,D,|C,>C,|C,A,,|E,2-|E,2|A,,/ A,, B,,/ | C,/>D,/  E,/D,/ | G,,G,, | \
+C,C,|A,,A,,| D,/^C,//B,,// C,/D,/ | G,,/ G,/>F,/E,//D,// | \
+C,/>D,/ E,/F,/ | E,A,,|E,2| A,,/A,B,/ | C/C,D,/ | E,/E,F,/ | G,/G,A,/ | D,/> C,/ B,,| A,,A,-| A,/F,/ G, | \
+D,2-|D,2|G,,C,-|C,/C,/ D, | A,,A,,|E,A,,| E,2 | E,>F, | G,/C,D,/| E,/A,A,/ | G,>E, | D,>B,, | A,,2 | \
+A,,C, | D,E, | D,D,| G,,/G,C,/ | z/F,C,/ | z/F,C,/ | z/D,A,,/ | z/A,A,/ | \
+E,F,| C,D,| A,,A,, | E,2- | !fermata!E,2 !segno! |]\
+%------------

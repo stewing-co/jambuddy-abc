@@ -1,0 +1,36 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Hansel und Gretel (Polka) CGF chords Parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.348 (pk04917) orig. C,G,F-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+P:ABACD
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+GG [P:A] |: "C"Gee2 c2GG | Ggg2 e2c'2 | "G7"b2b2 d2ba | "C"g2g2 e2GG | Gee2 c2GG |  Ggg2 e2c'2 | "G7"bag2 fed2 |1 "C"c2c2 c2GG :|2 "C"c2c2 c2z2 || [P:B] [K:G] 
+|: "D7"D2c2 cBA2 | "G"D2B2 BAG2 | "D7"DEF2 FGA2 | "G"GAB2"D7"A4 | D2c2 cBA2 | "G"D2B2 BAG2 | "D7"FFF2 d2d2 | "G"G2GF"_>Teil A"G4 :| [P:C] [K:F]
+|: "F"ABcd c2c2 | FGABA4 | "C7"e2e2 Bcd2 | "F"c2c2 A4 | ABcd c2c2 | FGABA4 | "C7"e2Bd c3E | "F"F2F2 F2z2 :| [P:D] 
+|: "C7"c2bb a2g2 | "F"f2a2 c3f | "C7"e2g2 B3d | "F"c2f2A4 | "C7"c2bb a2g2 | "F"f2a2 c3f | "C7"f2e2 c'bag | "F"f2f2 f2z2 :| 
+
+X:2
+T: Hansel und Gretel (Polka) CGF chords
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+GG |: "C"Gee2 c2GG | Ggg2 e2c'2 | "G7"b2b2 d2ba | "C"g2g2 e2GG | Gee2 c2GG |  Ggg2 e2c'2 | "G7"bag2 fed2 |1 "C"c2c2 c2GG :|2 "C"c2c2 c2z2 || [K:G] 
+|: "D7"D2c2 cBA2 | "G"D2B2 BAG2 | "D7"DEF2 FGA2 | "G"GAB2"D7"A4 | D2c2 cBA2 | "G"D2B2 BAG2 | "D7"FFF2 d2d2 | "G"G2GF"_>Teil A"G4 :| [K:F]
+|: "F"ABcd c2c2 | FGABA4 | "C7"e2e2 Bcd2 | "F"c2c2 A4 | ABcd c2c2 | FGABA4 | "C7"e2Bd c3E | "F"F2F2 F2z2 :|  
+|: "C7"c2bb a2g2 | "F"f2a2 c3f | "C7"e2g2 B3d | "F"c2f2A4 | "C7"c2bb a2g2 | "F"f2a2 c3f | "C7"f2e2 c'bag | "F"f2f2 f2z2 :| 
+
+X:3
+T:Hansel und Gretel (Polka)  EbBbAb (5letras) cf. CGF Parts
+P:ABACD
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+BB [P:A] |: "Eb"Bgg2 e2BB | Bbb2 g2e'2 | "Bb7"d'2d'2 f2d'c' | "Eb"b2b2 g2BB | Bgg2 e2BB | Bbb2 g2e'2 | "Bb7"d'c'b2 agf2 |1 "Eb"e2e2 e2BB :|2 "Eb"e2e2 e2z2 || [P:B] [K:Bbmaj] 
+|: "F7"F2e2 edc2 | "Bb"F2d2 dcB2 | "F7"FGA2 ABc2 | "Bb"Bcd2"F7"c4 | F2e2 edc2 | "Bb"F2d2 dcB2 | "F7"AAA2 f2f2 | "Bb"B2BA"_>Teil A"B4 :| [P:C] [K:Abmaj]
+|: "Ab"cdef e2e2 | ABcdc4 | "Eb7"g2g2 def2 | "Ab"e2e2 c4 | cdef e2e2 | ABcdc4 | "Eb7"g2df e3G | "Ab"A2A2 A2z2 :| [P:D] 
+|: "Eb7"e2d'd' c'2b2 | "Ab"a2c'2 e3a | "Eb7"g2b2 d3f | "Ab"e2a2c4 | "Eb7"e2d'd' c'2b2 | "Ab"a2c'2 e3a | "Eb7"a2g2 e'd'c'b | "Ab"a2a2 a2z2 :| 

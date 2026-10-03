@@ -1,0 +1,23 @@
+X:302
+T:N.3 Josepha, Ambrosio e Raimundo
+C:Fonseca, Eduardo da (1863-1938)
+M:2/4
+L:1/4
+K:C
+V: 2 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+%---------------------
+z/g//g// g/g/ | a !trill!b | c'/[G,E]/ z/[G,E]/ | z/ [G,E]/ z/ [G,E]/ !p! !segno! || \
+z/ [G,E]/ z/ [G,E]/ | z/ [G,E]/ z/ [G,E]/ | z/ [G,F]/ z/ [G,F]/ | z/ [G,F]/ z/ [G,F]/ | z/ [G,F]/ z/ [G,F]/ | \
+z/ [G,F]/ z/ [G,F]/ | z/ [G,E]/ z/ [G,E]/ | z/ [G,E]/ z/ [G,E]/ | \
+g a/b/ | c' a | (b2 | b) z | {c'}b a/^g/ | ^f ^g/a/ | (b2 | b/)(a/=g/{b/}a/) || \
+g a/b/ | c' a | b2 | b z | b a/g/ | a b | (a2 | g) z | g a/b/ | c'c' | (c'2 | c'/)(c'/b/c'/) | \
+g g/c'/ | d' b/g/ !coda!| c'/c'//c'// c' | c'c'|| \
+[K:F] !p! z/[AF]/ z/[AF]/ | z/[AF]/ z/[AF]/ | z/[BE]/ z/[BE]/ | z/(B/!>!d/c/) | z/[BE]/ z/[BE]/ | z/[BE]/ z/[BE]/ | \
+z/[AF]/ z/[AF]/ | z/(A/!>!d/c/) | z/[AF]/ z/[AF]/  | z/[AF]/ z/[AF]/  | z/[cE]/ z/[cE]/  | z/(e/!>!f/e/) | \
+z/[=BD]/ z/[BD]/ | z/[BD]/ z/^G/ | z/[AE]/ z/[AE]/ | [AE]/(c/_B/G/) || z/[AF]/ z/[AF]/ | z/[AF]/ z/[AF]/ | z/[BE]/ z/[BE]/ | z/(B/!>!d/B/) | \
+z/[BE]/ z/[BE]/ | z/[BE]/ z/[BE]/ | z/[AF]/ z/[AF]/ | z/(A/!>!d/c/) | z/[AF]/ z/[AF]/ | z/[AF]/ z/[AF]/ | \
+z/[BF]/ z/[BF]/ | z/(f/e/d/) | z/[fA]/ z/c/ | z/[cE]/ z/[BE]/ | [AF]/z/ (!>!c/d//e//) | f/g//g//g "D.S. al coda" || \
+[K:C] !coda! c'/g//g// a/b/ | c'/z/ c'/z/ |] \
+%---------------------

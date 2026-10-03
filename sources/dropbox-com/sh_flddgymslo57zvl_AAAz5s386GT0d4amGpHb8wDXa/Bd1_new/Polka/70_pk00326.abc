@@ -1,0 +1,45 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Kleine Königin (Polka) CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.294 (pk00326) orig. C,G,F-Dur
+T: Repertoire der <S\"achser Musig> 1880-1900, Weinigen ZH. S.275-296
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"e>e ed | cGc2 | ec/e/ ec/f/ | "G7"edd2 | d>d dc | BGB2 | BA/c/ BA/c/ | 
+B2g2 :: "C"GE G>c | "G7"cBB2 | "Dm"FD "G7"F>A | "C"AGG2 | E/F/G/A/ Ge | "Dm"edA2 |1 
+"G7"cBF2 | "C"AGE2 :|2 "F"AB/A/ "G7"Gd | "C"cc cz |: [K:G] "G"Bd GB | "D7"AFd2 | dc c/B/A | 
+"G"cB B/A/G | Bd GB | "D7"AFd2 | dc c/B/A | "G"GG Gz :| [K:C] "C"e>e fe | "Dm"dAd2 | 
+"G7"d>d ed | "C"cGc2 | "F"AA/B/ cA | "C"Gce2 | "Dm"dd/e/ "G7"fB | "C"cc cz || [K:F] "F"Ac d>c | 
+"C7"B3E | GB e>d | "F"c3F | Ac f>A | "Gm"GB d>F | "C7"EG c>E | "F"FF Fz |] 
+
+X:2
+T: Kleine Königin (Polka) CGF chords (align)
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"e>e ed | cGc2 | ec/e/ ec/f/ | "G7"edd2 | d>d dc | BGB2 | BA/c/ BA/c/ | \
+B2g2 ::
+ "C"GE G>c | "G7"cBB2 | "Dm"FD "G7"F>A | "C"AGG2 | E/F/G/A/ Ge | "Dm"edA2 |1 \
+"G7"cBF2 | "C"AGE2 :|2
+ "F"AB/A/ "G7"Gd | "C"cc cz |: [K:G] "G"Bd GB | "D7"AFd2 | dc c/B/A | \
+"G"cB B/A/G | Bd GB | "D7"AFd2 |
+ dc c/B/A | "G"GG Gz :| [K:C] "C"e>e fe | "Dm"dAd2 | \
+"G7"d>d ed | "C"cGc2 | "F"AA/B/ cA | "C"Gce2 |
+ "Dm"dd/e/ "G7"fB | "C"cc cz || [K:F] "F"Ac d>c | \
+"C7"B3E | GB e>d | "F"c3F | Ac f>A | "Gm"GB d>F | "C7"EG c>E | "F"FF Fz |] 
+
+X:3
+T:Kleine Königin (Polka) EbBbAb (5letras) cf. CGF
+M:2/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+"Eb"g>g gf | eBe2 | ge/2g/2 ge/2a/2 | "Bb7"gff2 | f>f fe | dBd2 | dc/2e/2 dc/2e/2 | 
+d2b2 :: "Eb"BG B>e | "Bb7"edd2 | "Fm"AF "Bb7"A>c | "Eb"cBB2 | G/2A/2B/2c/2 Bg | "Fm"gfc2 |1 
+"Bb7"edA2 | "Eb"cBG2 :|2 "Ab"cd/2c/2 "Bb7"Bf | "Eb"ee ez |: [K:Bbmaj] "Bb"df Bd | "F7"cAf2 | fe e/2d/2c | 
+"Bb"ed d/2c/2B | df Bd | "F7"cAf2 | fe e/2d/2c | "Bb"BB Bz :| [K:Ebmaj] "Eb"g>g ag | "Fm"fcf2 | 
+"Bb7"f>f gf | "Eb"eBe2 | "Ab"cc/2d/2 ec | "Eb"Beg2 | "Fm"ff/2g/2 "Bb7"ad | "Eb"ee ez || [K:Abmaj] "Ab"ce f>e | 
+"Eb7"d3G | Bd g>f | "Ab"e3A | ce a>c | "Bbm"Bd f>A | "Eb7"GB e>G | "Ab"AA Az |] 
+

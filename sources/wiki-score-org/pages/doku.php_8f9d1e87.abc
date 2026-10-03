@@ -1,0 +1,29 @@
+X:206
+T:Ns.1-4
+C:Antonio Thomaz de Lima
+M:4/8
+L:1/4
+K:B
+V: 6 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 6 }]
+%----- edit between the lines ---
+|| [B,B]/ z/ z |
+!p!z [I:staff +1] [F,A,C] | z/ [F,B,]/ z/ [F,C]/ | z/ [F,^^C]/ z/ [F,A,]/ | [F,B,]/ z/z/ [F,B,]/ | [I:staff -1] z/ !8va(![dd']//[^e'^e'']// [f'f'']//[d'd'']//[e'e'']//[^^c'^^c'']// |\
+[d'd'']/!8va)! z/ !fff! z/ !8va(! !arpeggio![d'f'a'd'']/ !8va)! |
+!mf! z/ C//D// E//C//D//^B,// | C/ z/z/ !8va(!!arpeggio![e'g'c''e'']/!8va)! | z/ [F,A,C]//[G,B,D]// [A,CE]/ z/ | z/ [F,G,B,]/ [Dd] ||
+[M:3/4] [ce] !arpeggio![FBdf]/.[Fd]//.[DB]// z/ z/ || [M:4/8] !mf! X | X | X |
+Z || [M:2/4] z3/4 (F,// [F,B,D]/).[F,B,D]/ | z3/4 (F,// [F,B,D]/).[F,B,D]/ |
+z3/4 (F,// [F,B,D]/).[G,B,CE]/ | z3/4 (F,// [F,CE]/).[F,CE]/ | \
+z/ [F,B,E]/ !f! !>![Dd]/!>![Ff]/ | [Bb]/ z/ !mf! [G,B,CE]/[G,B,CE]/ | !p! z3/4 (F,// [F,B,D]/).[F,B,D]/ |
+z3/4(F,// [B,CE]/).[F,A,CE]/ | z3/4(F,// [F,CE]/).[F,CE]/ | z/ [F,G,B,D]/ !f! !>![Dd]/!>![Ff]/ | !>![Bb]/ z/ z | z !mf! !ped! ((3/2 D,//F,//G,//!>!B,/) |
+z !ped! ((3/2G,//A,//D//!>!F/) | z !ped! ((3/2 C//E//F//!>!G/) | z z//!>![D,D]//z//!>![F,F]// | !>![B,DFB]/ z/ z | ((3/2 B,//D//F//!>!G/) z |
+z ((3/2 A,//C//E//!>!G/) | z ((3/2 E//F//A//!>!c/) | z [FAc] | [FBd]/ z/ z |
+z/z// (=A,// [A,CD]/).[A,CD]/ | z/z// (=A,// [A,DF]/).[A,DF]/ | z/z// (G,// [G,B,E]/).[G,B,]/ | z/z// (=G,// [G,B,E]/).[G,B,E]/ | \
+z/z// (^G,// [G,B,CE]/).[G,B,CE]/ | z/z// (F,// [F,B,D]/).[F,B,D]/ |
+[F,B,D]/ z/ z | X | z// !ped! b//=a//d// B// z3/4 | z/ [B,D=A]/ z/ [B,AB]/ | X |
+X | z/>[I:staff +1](G,/ [G,B,CE]/).[G,B,CE]/ | z/>(F,/ [B,D]/).[B,D]/ | [F,B,D]/ z/ z | z ([F,B,D] |
+[F,B,D]/) [I:staff -1]z/z// F//[A^^cf]//F// | z// F//[Adf]//F// z// =A//[ef=a]//A// | z// !8va(! =A'//[e'f'=a']//A'// !8va)! z// A//[efa]//A// | \
+z/ (3a//[e'f'a']//a// !>!g//!>!e// (3A//[efa]//A// |
+!>!G//!>!E// (3A,//[EFA]//A,// !>!G,//!>!E,// z/ | z [F,A,C] | z/ [F,B,]/ z/ [F,C]/ | z/ [F,^^C]/ z/ [F,A,]/ | [F,G,B,]/ z/z/ !fermata![E,A,C]/ ||
+%---------------------------------

@@ -1,0 +1,86 @@
+X:113
+T:[Kyrie]
+C:Carvalho, Jo\~ao de Sousa (1745-1798)
+M:C
+L:1/4
+K:C
+V: 13 clef=tenor name="Tenore" sname="T."
+%%MIDI program 1 1
+%%staves [[ 13 ]]
+%---------------------------
+% p.4 (fol.1v)
+z/2| z4 |z4 |z4 |z4 |z4 |
+% p.5 (fol.2r)
+z4 |z4 |z4 |z4 |z4 |z4 |
+% p.6 (fol.2v)
+z4 |z4 |z4 |z4 |z4 |z4 |z4 |
+% p.7 (fol.3r)
+z4 |z4 |z4 |z4 |z4 |"^p" E2 D2 | E z z2|
+w: Ky-ri-e
+% p.8 (fol.3v)
+"^solo" E>E D>D|E/2> E/2 E z2 | z2 E2 | F2 B,2| C2 E2 | F2 C E|
+w:Kyrie---e-Le i son e-le - - - - -
+% p.9 (fol.4r)
+D D C z| z2 "^solo" (E2| (F2) B,2)| C2 E2 | F2 C2 | E4 |
+w: -i-son e-le-------
+% p.10 (fol.4v)
+C3/2 D/4E/4 F E| D z E3/2 C/2| D2 C3/2 C/2| D G2 E |D2 C3/2 C/2 | D z G3/2 G,/2|
+w: ----i-son Ky-ri-e Ky-ri-e  e--le--i son Ky-ri
+% p.11 (fol.5r)
+G, G/2D/2 E E | D z z2 | z4 | z4 | z4 | z4 | z4 |
+w: e--ele---ison
+% p.12 (fol.5v)
+z ^F G G, | (D4| D2) D2| D G/2=F/2 E/G/2E/2C/2| B,/2D/2 B,/2G,/2 C z | D2 E2| =F2 E2|
+w: ele------ison ele---------ison -e--lei-
+% p.13 (fol.6r)
+D z/2 D/2 E ^F| G D E D | D z z2| z4| D/2 >D/2 D z2| z4| D/2 >D/2 D z2|
+w: son ele-------ison  ky-ri-e ky-ri-e
+% p.14 (fol.6v)
+z4 | D2 E2 | E2 D2| D z z2 | z2 D2 | D2 (E2 | E2) D2 | D z =F>F|
+w: e--le--ison e-le----ison ky-ri
+% p.15 (fol.7r)
+E2 G> G | ^F D E D | D2 E2 | E2 D2 | D D D D | DDDD| D z z2|
+w: e-ky-ri-e e-lei--son  e-lei - son elei---son eleison--
+% p.16 (fol.7v)
+z4 | z4 | z4 | z4 | z4 | D2 D2| D z z2|
+w: Kyri--e
+% p.17 (fol.8r)
+D>D D3/2 D/2 | D/2>D/2 D z2 | z2 "^solo" (B,2 | C2) ^F,2 | G,2 B, D | E D E D | D z D>D|
+w: ky-ri-e - eleison__ele---ison- e--le----ison ky-ri
+% p.18 (fol.8v)
+E2 B,>B,| C z z2| z2 "^solo" E2| F2 B,2 | C2 E2 | F2 C2|
+w: e Kyri--e ele---ison-e-le--
+% p.19 (fol.9r)
+E2 F E| D2 D2| D D C E| D D C E| D z !fermata!z2 || [K:Bb][M:2/4] Z2 |
+w: ---- -ison e-lei--son e--lei-son
+% p.20 (fol.9v)
+Z2| "^solo" E/4>C/4 E/2 z/2 E/2 | E/4> D/4 D/2 z | D/4>=B,/4 D/2 z/4 D/4F/4D/4 | D/2 >C/2 C/2 z/2 | z z/2 C/2|
+w: Christe  --e leison --Christe ---e -leison --chris
+% p.21 (fol.10r)
+_A,/2 F,/2 C/2 B,/2 | _A, z | z/2 F/2 D/2 =B,/2 | C/2>E/2 E/4D/4 C/4=B,/4| C z| z2| z2|
+w: te-e-ele--ison chris-te e- le--i----son
+% p.22 (fol.10v)
+z2|z2|z2| z/2 B,/2 D/4F/4 D/4B,/4| E/2> B,/2 B,/2 z/2 | z/2 A,/2 C/2 A,/2 | F, z |
+w: chris-te -e--leison -- elei-- -son
+% p.23 (fol.11r)
+z/2 E/2 D/2 =A,/2 | B,/2> B,/2 B,/2 z/2| F/2 E/2 z| F/2 E/2 z| z2| E/4>C/4 E/2 z/4C/4D/4=E/4| F/4D/4F/4D/4 C/2 =B,/2| C/2 z/2 z/4 =E/4F/4E/4|
+w: ch-ris-te ele-i-son christe--christe-- christe e- ----le-----i-son e-
+% p.24 (fol.11v)
+F/4D/4F/4D/4 C/2 =B,/2 || [K:C][M:4/4] C z z2|z4|z4|z4| E2 D2 | E z z2|
+w: le-----i-son Ky-ri-e
+% p.25 (fol.12r)
+E>E D>D | E/2> C/2 C z2 |z E F F,| C z C2| C2 z C| G,2 z2|
+w: Kyrie-- -e--lei-son e-le-i-son e-lei--son
+%  p.26 (fol.12v)
+z G/2F/2 E/2D/2E/2C/2| D E D>E | C "^solo" z F D/2F/2|E C/2E/2 {F4}D C/2 B,/2| C z F D/2F/2|E C/2E/2 {F4}D C/2 B,/2|
+w: e-- le-------ison -e-- -le------ison e--le------i
+% p.27 (fol.13r)
+C/2> C/2 C z2|z4|"^p" E4| D2 D2| E z z2| z2 D2| C z C z| C z B, z|
+w:-i-son -e-- lei-son   ele---i
+% p.28 (fol.13v)
+C z "^f" C> C| C2 D> D| D E D D| E2 E2 | D> C B, D| E E D> E | E E D D | \
+w:son Ky-ri-e Ky-ri-e -elei- --- ele---ison -- elei--son--ele-i-
+% p.29 (fol.14r)
+C z z2| z4 | z4 |]
+w: son
+%----------------

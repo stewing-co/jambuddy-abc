@@ -1,0 +1,77 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Schottisch  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.190 (st09334) orig. C,F
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+gab |: "C"c'2e2 ef^fg | "Dm"a2d2 d^cd2 | "G7"B2Ba g^fg2 | "C"c2ca g^fg2 |  c'2e2 ef^fg | "Dm"a2d2 d^cd2 | 
+"G7"Bcde fgab |1 "C"c'2c'2 c'gab :|2 "C"c'2c'2 c'2gg |: "G7"gfdB GBdf | "C"ecGE CEGe | "G7"dBGB gfdB | "C"cegc' e2gg | 
+"G7"gfdB GBdf | "C"ecGE CEGe | "G7"dBGB gfdB |1 "C"cegc' c2gg :|2 "C"cegc' c4 |: [K:F] "F"a2fc A2d2 | "tr""Gm"c2B2 BAB2 | 
+"C7"b2ge cegc' | "F"a2f2 fef2 | a2fc A2d2 | "tr""Gm"c2B2 BAB2 | "C7"baec a3e |1 "F"f2a2 f2z2 :|2 "F"f2a2 f2bb |: [L:1/8] "Bb"bd fb | 
+d3 b/b/ | "F"ac fa | c3c/c/ | "C7"Bc e>d | "tr"dc b>B | "F"Ac f>d | "tr"dc a>a | "Bb"bd fb | 
+d3b/b/ | "F"ac fa | c3d/d/ | "Bb"db a>g | "F"gfc2 | "Bb"d^c/d/ "C7"ed/e/ |1 "F"fa fb/b/ :|2 "F"fa fz |] 
+% st09334
+X:2
+T:Schottisch  GC 5-
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+def |: "G"g2B2 Bc^cd | "Am"e2A2 A^GA2 | "D7"F2Fe d^cd2 | "G"G2Ge d^cd2 | g2B2 Bc^cd | "Am"e2A2 A^GA2 | 
+"D7"FGAB cdef |1 "G"g2g2 gdef :|2 "G"g2g2 g2dd |: "D7"dcAF DFAc | "G"BGDB, G,B,DB | "D7"AFDF dcAF | "G"GBdg B2dd | 
+"D7"dcAF DFAc | "G"BGDB, G,B,DB | "D7"AFDF dcAF |1 "G"GBdg G2dd :|2 "G"GBdg G4 |: [K:C] "C"e2cG E2A2 | "tr""Dm"G2F2 FEF2 | 
+"G7"f2dB GBdg | "C"e2c2 cBc2 | e2cG E2A2 | "tr""Dm"G2F2 FEF2 | "G7"feBG e3B |1 "C"c2e2 c2z2 :|2 "C"c2e2 c2ff |: [L:1/8] "F"fA cf | 
+A3 f/2f/2 | "C"eG ce | G3G/2G/2 | "G7"FG B>A | "tr"AG f>F | "C"EG c>A | "tr"AG e>e | "F"fA cf | 
+A3f/2f/2 | "C"eG ce | G3A/2A/2 | "F"Af e>d | "C"dcG2 | "F"A^G/2A/2 "G7"BA/2B/2 |1 "C"ce cf/2f/2 :|2 "C"ce cz |] 
+% st09334
+X:3
+T:Schottisch  CF (5letras transposed)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+gab |: "C"c'2e2 ef^fg | "Dm"a2d2 d^cd2 | "G7"B2Ba g^fg2 | "C"c2ca g^fg2 |  c'2e2 ef^fg | "Dm"a2d2 d^cd2 | 
+"G7"Bcde fgab |1 "C"c'2c'2 c'gab :|2 "C"c'2c'2 c'2gg |: "G7"gfdB GBdf | "C"ecGE CEGe | "G7"dBGB gfdB | "C"cegc' e2gg | 
+"G7"gfdB GBdf | "C"ecGE CEGe | "G7"dBGB gfdB |1 "C"cegc' c2gg :|2 "C"cegc' c4 |: [K:F] "F"a2fc A2d2 | "tr""Gm"c2B2 BAB2 | 
+"C7"b2ge cegc' | "F"a2f2 fef2 | a2fc A2d2 | "tr""Gm"c2B2 BAB2 | "C7"baec a3e |1 "F"f2a2 f2z2 :|2 "F"f2a2 f2bb |: [L:1/8] "Bb"bd fb | 
+d3 b/b/ | "F"ac fa | c3c/c/ | "C7"Bc e>d | "tr"dc b>B | "F"Ac f>d | "tr"dc a>a | "Bb"bd fb | 
+d3b/b/ | "F"ac fa | c3d/d/ | "Bb"db a>g | "F"gfc2 | "Bb"d^c/d/ "C7"ed/e/ |1 "F"fa fb/b/ :|2 "F"fa fz |] 
+% st09334
+X:4
+T:Schottisch  GC (5letras transposed)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+def |: "G"g2B2 Bc^cd | "Am"e2A2 A^GA2 | "D7"F2Fe d^cd2 | "G"G2Ge d^cd2 | g2B2 Bc^cd | "Am"e2A2 A^GA2 | 
+"D7"FGAB cdef |1 "G"g2g2 gdef :|2 "G"g2g2 g2dd |: "D7"dcAF DFAc | "G"BGDB, G,B,DB | "D7"AFDF dcAF | "G"GBdg B2dd | 
+"D7"dcAF DFAc | "G"BGDB, G,B,DB | "D7"AFDF dcAF |1 "G"GBdg G2dd :|2 "G"GBdg G4 |: [K:C] "C"e2cG E2A2 | "tr""Dm"G2F2 FEF2 | 
+"G7"f2dB GBdg | "C"e2c2 cBc2 | e2cG E2A2 | "tr""Dm"G2F2 FEF2 | "G7"feBG e3B |1 "C"c2e2 c2z2 :|2 "C"c2e2 c2ff |: [L:1/8] "F"fA cf | 
+A3 f/2f/2 | "C"eG ce | G3G/2G/2 | "G7"FG B>A | "tr"AG f>F | "C"EG c>A | "tr"AG e>e | "F"fA cf | 
+A3f/2f/2 | "C"eG ce | G3A/2A/2 | "F"Af e>d | "C"dcG2 | "F"A^G/2A/2 "G7"BA/2B/2 |1 "C"ce cf/2f/2 :|2 "C"ce cz |] 
+% st09334
+X:5
+T:Schottisch G&D  (tinwhistle in D) var. solo
+T:st09334 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottische
+M:2/4
+L:1/16
+K:G transpose=12
+def |: g2B2 Bc^cd | e2A2 A^GA2 | F2Fe d^cd2 | G2Ge d^cd2 | g2B2 Bc^cd | e2A2 A^GA2 | 
+FGAB cdef |1 g2g2 gdef :|2 g2g2 g2dd |: dcAF DFAc | BGDB, G,B,DB | AFDF dcAF | GBdg B2dd | 
+dcAF DFAc | BGDB, G,B,DB | AFDF dcAF |1 GBdg G2dd :|2 GBdg G4 |: [K:D] f2dA F2B2 | TA2G2 GFG2 | 
+g2ec Acea | f2d2 dcd2 | f2dA F2B2 | TA2G2 GFG2 | gfcA f3c |1 d2f2 d2z2 :|2 d2f2 d2gg |: [L:1/8] gB dg | 
+B3 g/2g/2 | fA df | A3A/2A/2 | GA c>B | TBA g>G | FA d>B | TBA f>f | gB dg | 
+B3g/2g/2 | fA df | A3B/2B/2 | Bg f>e | edA2 | B^A/2B/2 cB/2c/2 |1 df dg/2g/2 :|2 df dz |]
+% st09334
+% Sep. 6 2016

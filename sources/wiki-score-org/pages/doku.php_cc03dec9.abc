@@ -1,0 +1,22 @@
+X:102
+T:Allegro [assai]
+C:Davide Perez (1711-1778)
+M:C|
+L:1/4
+K:D
+V: 2 clef=treble name="Cornu Secondo  [in D.]" sname="Cor.2"
+%%MIDI program 1 69
+%%staves [( 2 )]
+%---------------
+[K:C] [Q:"Allegro"] czcz |  czcz | czcc/e/ | czcc/e/ | c c/e/ c/c/ c/e/ | c/c/c/e/cz |czcz | \
+G G/G/ cz | czcz | G G/G/ "_[sic]"c/ed/ | d/e/d/c/ G/ed/ | c/e/d/c/ G/c/G/c/ | G/c/G/c/ G z |  Z2 | G/z/ d/d/ G G/G/ | \
+G/G//G// G/G/ G G/G/ | G/G//G// G/G/ G z | Z2 | z2 z/G//G// G/G/ | c2 G/G//G// G/G/ | \
+c2 G/G//G// G/G/ | ddGz | GzGz |GzGz | GG/G/Gz | z2ez | \
+z2dz | z2Gz | z2 cc/G/ | c/d/e/c/ G c/G/ | c/d/e/c/ G z | czcz | c c/e/cz | czcc/e/ | \
+czz2 | Z | G/cG/ c/z/ G/G/ | c/c//c// c/c/ c2- | c/c//c// c/c/ c2- | c/c/G/c/ G/z/ G/c/ | G/z/ G/c/  G/z/ G/G/ | \
+c/z/ G/E/ G/z/ G/c/ | dGcz |  czcz | c c/e/ c z | c/c//c// c/c/  c/c//c// c/c/ | c/c//c// c/c/ c/c//c// c/c/ | \
+c/c//c// c/c/ c/z/ c/z/ | \
+G/z/ E/z/ z2 | G/z/ E/z/ z2 | G/z/ c/z/ c G/G/ | c c/e/ c/c/ G/G/ | c c/e/ c/c/ G/G/ | czz2 | G/c/ G/G/ c z | \
+z2 G/c/ G/z/ |  G/c/ G/z/ G/c/ G/z/ | c z c c/e/ | c z c c/e/ | c c/e/c c/e/ | c/e/ c/e/ c !fermata!z ||  \
+[Q:"Dolci assai"] [M:C|] G>c G G/c/ | G>c G>c | G (G/c/) G !fermata!z |] \
+%---------------

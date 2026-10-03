@@ -1,0 +1,50 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka FCBb chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.357 (pk11427) orig. F,C,Bb-Dur
+T: T\"anze aus Altdorf (Uri)
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"(cf)ac' f2a2 | "C7"(ce)gc' e2b2 | (ce)gc' (bc)de | "F"(fa)c'(d' c')afd | (cf)ac' f2a2 | "C7"(ce)gc' e2b2 |
+cega b3e | "F"f2ag .f4 :: [K:C] "G7"gbb2 faa2 | "C"efga g2g2 | "G7"defa g2g2 | "C"e'd'c'b d'c'ba | 
+"G7"gbb2 faa2 | "C"efga g2g2 | "G7"fgab gagb | "C"c'2ge c2"_> Teil A"z2 :: [K:Bb] "Bb"B4 dcde | f2f2 d4 | 
+bac'b agfd | "F7"e2e2 A4 | F4 FAce | a2a2g4 | agba gfag | "Bb"f2f2 dedc | B4 dcde | 
+f2f2 d4 | b2df bab=b | "Cm"c'2c'2 g4 | gc'c'2 egg2 | "Bb"fbb2 dff2 | "F7"ggg2 f3a | "Bb"b2fd .B4 :| 
+
+X:2
+T:Polka FCBb chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+[P:A] "F"(cf)ac' f2a2 | "C7"(ce)gc' e2b2 | (ce)gc' (bc)de | "F"(fa)c'(d' c')afd | (cf)ac' f2a2 | "C7"(ce)gc' e2b2 |
+cega b3e | "F"f2ag .f4 :: [P:B] [K:C] "G7"gbb2 faa2 | "C"efga g2g2 | "G7"defa g2g2 | "C"e'd'c'b d'c'ba | 
+"G7"gbb2 faa2 | "C"efga g2g2 | "G7"fgab gagb | "C"c'2ge c2"_> Teil A"z2 :: [P:C] [K:Bb] "Bb"B4 dcde | f2f2 d4 | 
+bac'b agfd | "F7"e2e2 A4 | F4 FAce | a2a2g4 | agba gfag | "Bb"f2f2 dedc | B4 dcde | 
+f2f2 d4 | b2df bab=b | "Cm"c'2c'2 g4 | gc'c'2 egg2 | "Bb"fbb2 dff2 | "F7"ggg2 f3a | "Bb"b2fd .B4 :| 
+
+X:3
+T:Polka CGF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"(Gc)eg c2e2 | "G7"(GB)dg B2f2 | (GB)dg (fG)AB | "C"(ce)g(a g)ecA | (Gc)eg c2e2 | "G7"(GB)dg B2f2 |
+GBde f3B | "C"c2ed .c4 :: [K:Gmaj] "D7"dff2 cee2 | "G"Bcde d2d2 | "D7"ABce d2d2 | "G"bagf agfe | 
+"D7"dff2 cee2 | "G"Bcde d2d2 | "D7"cdef dedf | "G"g2dB G2"_> Teil A"z2 :: [K:Fmaj] "F"F4 AGAB | c2c2 A4 | 
+fegf edcA | "C7"B2B2 E4 | C4 CEGB | e2e2d4 | edfe dced | "F"c2c2 ABAG | F4 AGAB | 
+c2c2 A4 | f2Ac fef^f | "Gm"g2g2 d4 | dgg2 Bdd2 | "F"cff2 Acc2 | "C7"ddd2 c3e | "F"f2cA .F4 :| 
+
+X:4
+T:Polka CGF 5- chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+[P:A] "C"(Gc)eg c2e2 | "G7"(GB)dg B2f2 | (GB)dg (fG)AB | "C"(ce)g(a g)ecA | (Gc)eg c2e2 | "G7"(GB)dg B2f2 |
+GBde f3B | "C"c2ed .c4 :: [P:B] [K:Gmaj] "D7"dff2 cee2 | "G"Bcde d2d2 | "D7"ABce d2d2 | "G"bagf agfe | 
+"D7"dff2 cee2 | "G"Bcde d2d2 | "D7"cdef dedf | "G"g2dB G2"_> Teil A"z2 :: [P:C] [K:Fmaj] "F"F4 AGAB | c2c2 A4 | 
+fegf edcA | "C7"B2B2 E4 | C4 CEGB | e2e2d4 | edfe dced | "F"c2c2 ABAG | F4 AGAB | 
+c2c2 A4 | f2Ac fef^f | "Gm"g2g2 d4 | dgg2 Bdd2 | "F"cff2 Acc2 | "C7"ddd2 c3e | "F"f2cA .F4 :| 

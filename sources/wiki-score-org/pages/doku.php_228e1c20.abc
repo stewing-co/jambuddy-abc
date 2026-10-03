@@ -1,0 +1,24 @@
+X:910
+T:N.9 Duo de Josepha e Ambrosio
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:F
+V: 10 clef=treble name="Josepha" sname="Jos."
+%%MIDI program 1 1
+%%staves [[ 10 ]]
+%--------------------
+[Q:"Andante"]
+Z2 || A G F F G A | (AG/F/E)-E3 | G F (E E/) E/ F G | (GF/E/D)-D3 | \
+w: S\~ao pe-nas do meu pe-nar____ Es-tas l\'a--gri-mas sen-ti---das_
+F E D D F G  | (AG/F/E)-E3 | E ^F ^G G A =B | ((3=B/^c/B/)A-A-A3 | \
+w: Que'a mi-nha'al-ma cho-ra'as ve---zes_ Em mui-tas ho-ras per-di---das.__
+Z7 || [K:D] [Q:"Piu mosso"] Z |: "^(1a vez)" A B A B A B | (cB/A/G)-G3 | G A G A G A | (BA/G/F)-F3 | \
+w: U-ma can-\cc\~ao bem can-ta---da,_ Re-pas-sa-di-nha d'a-mor...____
+F A F D E F | (AG/F/E)-E3 | F E D E G F | ((3E/F/E/) D2-D3 :| \
+w: E co-mo'um b\'al-sa-mo san---to_ Di-vi-no re-pa-ra-dor.____
+B ^A B d c B | d(c/2B/2)A-A3  | c B A G A B  |  BA/2G/2F-F3 | \
+w: Tam-b\'em eu te que-ro mui---to_ E mui-to de c\'a de den---tro_
+B ^A B e d B  | d(c/2B/2)A-A3 | c B A ((3G/2A/2G/) F E  | D/ D/ zzz2z | Z2 |] \
+w: Pois \'es tu quem mais me'a-gra---da_ C\'a no nos-so__ re-gi-men-to.
+%--------------------

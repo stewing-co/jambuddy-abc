@@ -1,0 +1,49 @@
+X:401
+T:Verso Miserere
+C:Antonio da Silva Leite (1759-1833)
+M:C|
+L:1/4
+K:Bb
+V: 1 clef=treble name="Violino 1" sname="Vl.1"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%--------------------------
+[L:1/8]
+"_fp" d2 d4 !f!e>d | "_fp"d2 d4 !f!e>d | d2 g4 f2 | e2 d2 ^c4 | d6 =c2 | B>G g4 B2 | \
+A2 (A/B/A/B/) ce{e}d{d}c | {A}B2- B/c/B/c/ dd{d}c{c}B | B2 (A/B/A/B/) A2 z2  || \
+"_fp" d2 d4 !f!e>d | !p!d2 d4 !f!e>d | \
+d2 g4 f2 | (e2 d2 ^c4) | (d4 d2 =c2) | !p!B2 A2 G2 !f!c2 | Bd g4 f2 | \
+%16
+e2 d2 ^c4 | [dD]4 z4 | D2 (d4 c2) | B2 g4 a2 | ba d4 c2 | =B2 d2 g2 f2 | ecgg ggff | \
+%23
+!/!e4 eedd | cegg ggff | eedd ccBB | AD (d4 ^f2) | !p!gg^ff gg!f!aa | \
+%28
+!p!gg^ff gg!f!aa | !/!g4 !/!^f4 | [gBD]2 [gBD]>b [gBD]2 z2 | !f![BD]4 z4 | !f![BD]2 !p!d>e (fd)(fd) | \
+%33
+f2 (e/f/g/f/) e2 z2 | !f![cEG,]2 !p!=e>f (ge)(ge) | g>f (f/g/a/g/) f2 z2 | \
+%36
+(FA)(Ac) (BBdf) | (e2 c2 d2 B2) |AFAc Bdfb | !/!e4 dfff | !/!f4!/!=e4 | \
+%41
+[I:staff -1] [fA]2 [fA]>a [fA]2 z2 | c2- c/d/c/d/ e{!/!a}g{!/!g}f{!/!f}e | \
+%43
+[ d2- d/e/d/e/ ff{f}e{e}d | ce _d2 ce d2 | !/!c4 _d b2 d  | c!f!fff !/!f4 | !/!f8 | fd dc/d/ eecc | \
+%48
+dbbb !/!a4 | bfdd eecc | dffb gbbb | !/!b4 !/!a4 | [dbF]4 z4 | \
+%53
+[c=EG,]2 c/d/=e/f/ g/f/e/d/ c/B/A/G/ | B2 _Ac fedc | =B8 |$ c2 G2 cBAG | ^FA d4 ^f2 | !p!gg^ff gg!f!aa | \
+%59
+!p!gg^ff gg!f!aa | g2 d4 ^c2 | [dD]2 (A/B/A/B/) A2 z2 | !p!A2- A/B/A/B/ c{!/!f}e{!/!e}d{!/!d}c | \
+%63
+B2- B/c/B/c/ dd{!/!d}c{!/!c}B | Ac B2 Ac B2 | !/!A4 B g2 B |Addd !/!d4 | !/!d8 | dB B/A/B ccAA | BG G^F/G/ !/!F4 | \
+%70
+GBdg ^f4 | !/!g8 | !//!g8 | !//!g4 !//!^f4 | [gBD]2 (d2 e4) | d2 "_decr."(G2 A4) | \
+%76
+G4 !p![GB,]2 [GB,]2 | [GB,]4 z4 :| \
+%78
+W:
+W:
+W: Verso Miserere a 4 vozes, dous Violinos e Basso,
+W: composto por mandado da Ill.ma e Ex.ma Snr.a D. Thereza Rita,
+W: pello R.do An.to da Sylva Leyte.
+W: anno de 1784
+%--------------------------

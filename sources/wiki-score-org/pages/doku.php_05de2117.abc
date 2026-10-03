@@ -1,0 +1,15 @@
+X:701
+T:N.10 Moderado
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:D
+V: 1 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%----------- edit between the lines ------------
+[Q:"Moderado"]!mf! ((7:4d//e//f//g//a//b//c'//) !<(!!trill! d' - !<)!| (d'2 {c'd'}|!f!e'/) \
+(!>!e'///d'///c'///b/// a/) (a///b///c'///d'/// | !ff! e'-)e'/ ((3d'//c'//b// | \
+(6:4a//b//a//g//f//e//) !trill! d {cd} | ((6:4e//f//e//d//c//B// A/)!sfz!!>!G/ | \
+"_TBC" X \
+%-----------------------------------------------

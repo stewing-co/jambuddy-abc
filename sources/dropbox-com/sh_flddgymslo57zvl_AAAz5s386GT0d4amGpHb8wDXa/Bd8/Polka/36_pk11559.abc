@@ -1,0 +1,38 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Polka  FBb chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.418 (pk11559) orig. F,Bb-Dur
+T: T\"anze aus Altdorf (Uri)
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"c2dc A2F2 | "C7"E2Gc e2e2 | c2dc B2E2 | "F"F2Ac f2f2 | c2dc A2F2 | "C7"E2Gc e2e2 | c2dc B2E2 | "F"F2F2 F2z2 ::
+"C7"e2f2 e2g2 | "F"f2A2 A2Bc | "C7"e2d2 B2AB | "F"d2c2 A2GA | c2f2 "C7"e2g2 | "F"f2A2 A2Bc | "C7"f2e2 B2G2 | "F"F2F2 F2z2 :: [K:Bb]  
+"Bb"Fdd2 FBB2 | "F7"BAAB c4 | Fee2 Fcc2 | "Bb"cBBcd4 | Fdd2 FBB2 | "F7"BAAB c4 | Fee2 Fcc2 |1 "Bb"B2B2 B2z2 :|2 "Bb"B2B2 B2cd || 
+|: "F7"e2A2 G2F2 | "Bb"GFF2 d2d2 | "F7"F2E2 c3A | "Bb"Bcde g3f | "F7"e2A2 G2F2 | "Bb"GFFd d4 | "F7"F2E2 c3A |1 "Bb"B2B2 B2cd :|2 "Bb"B2B2 B2z2 ||  
+|: "F7"F2FF G2A2 |  "Bb"B2d2 g2f2 | "F7"e2FB A2Fe | "Bb"d2F2 B2F2 | "F7"F2FF G2A2 | "Bb"B2d2 g2f2 | "F7"e2F2 d3A | "Bb"B2B2 B2z2 :| 
+
+X:2
+T:Polka  CF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"G2AG E2C2 | "G7"B,2DG B2B2 | G2AG F2B,2 | "C"C2EG c2c2 | G2AG E2C2 | "G7"B,2DG B2B2 | G2AG F2B,2 | "C"C2C2 C2z2 ::
+"G7"B2c2 B2d2 | "C"c2E2 E2FG | "G7"B2A2 F2EF | "C"A2G2 E2DE | G2c2 "G7"B2d2 | "C"c2E2 E2FG | "G7"c2B2 F2D2 | "C"C2C2 C2z2 :: [K:Fmaj] 
+"F"CAA2 CFF2 | "C7"FEEF G4 | CBB2 CGG2 | "F"GFFGA4 | CAA2 CFF2 | "C7"FEEF G4 | CBB2 CGG2 |1 "F"F2F2 F2z2 :|2 "F"F2F2 F2GA || 
+|: "C7"B2E2 D2C2 | "F"DCC2 A2A2 | "C7"C2B,2 G3E | "F"FGAB d3c | "C7"B2E2 D2C2 | "F"DCCA A4 | "C7"C2B,2 G3E |1 "F"F2F2 F2GA :|2 "F"F2F2 F2z2 || 
+|: "C7"C2CC D2E2 | "F"F2A2 d2c2 | "C7"B2CF E2CB | "F"A2C2 F2C2 | "C7"C2CC D2E2 | "F"F2A2 d2c2 | "C7"B2C2 A3E | "F"F2F2 F2z2 :| 
+
+X:3
+T:Polka  GC 2+ chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"d2ed B2G2 | "D7"F2Ad f2f2 | d2ed c2F2 | "G"G2Bd g2g2 | d2ed B2G2 | "D7"F2Ad f2f2 | d2ed c2F2 | "G"G2G2 G2z2 ::
+"D7"f2g2 f2a2 | "G"g2B2 B2cd | "D7"f2e2 c2Bc | "G"e2d2 B2AB | d2g2 "D7"f2a2 | "G"g2B2 B2cd | "D7"g2f2 c2A2 | "G"G2G2 G2z2 :: [K:Cmaj] 
+"C"Gee2 Gcc2 | "G7"cBBc d4 | Gff2 Gdd2 | "C"dccde4 | Gee2 Gcc2 | "G7"cBBc d4 | Gff2 Gdd2 |1 "C"c2c2 c2z2 :|2 "C"c2c2 c2de || 
+|: "G7"f2B2 A2G2 | "C"AGG2 e2e2 | "G7"G2F2 d3B | "C"cdef a3g | "G7"f2B2 A2G2 | "C"AGGe e4 | "G7"G2F2 d3B |1 "C"c2c2 c2de :|2 "C"c2c2 c2z2 || 
+|: "G7"G2GG A2B2 | "C"c2e2 a2g2 | "G7"f2Gc B2Gf | "C"e2G2 c2G2 | "G7"G2GG A2B2 | "C"c2e2 a2g2 | "G7"f2G2 e3B | "C"c2c2 c2z2 :| 
+

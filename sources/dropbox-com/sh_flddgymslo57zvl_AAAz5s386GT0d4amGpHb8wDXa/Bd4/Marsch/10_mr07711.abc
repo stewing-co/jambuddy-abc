@@ -1,0 +1,59 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Der kleine Postillion (Marsch)  C (mr07711) 
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.360 (mr07711) orig. C
+T: Alte Seltisberger Musik. S.354-377
+T:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+R:Marsch
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+E/G/ |: "C"c3G/e/ | c3e/g/ | "G7"GG/G/ Gd/g/ | "C"GG/G/ GE/G/ | c3G/e/ | c3c/a/ | "G7"gg/g/ gg |1 
+gg gD/g/ :|2 gg gc/e/ |: "C"GG/G/ GG | G3c/e/ | "F"AA/A/ AA | A3d | "Dm"a>d d>c | ("G7"c2B).B | 
+g>B B>A | "C"A2Gc/e/ | GG/G/ GG | G3c/f/ | "F"AA/A/ AA | A2ze | "D7"d>d d>d | "G"d2(ed)  | 
+gd/B/ gd/B/ |1 "G7"GG Gc/e/ :|2 "G7"G2 gf |: "C"e2G2 | c2 (BA) | "G7"B2f2 | A3A | B2f2 | A2 (GF) | "C"E2A2 | 
+G3c | g3e | g2(fe) | "Dm"d2a2 | d3c | "G7"B2f2 | e2d2 |1 ("C"c4 | c2) gf :|2 "C"cc/c/ cc | c2z2 |] 
+W:
+W:Anmerkung H.C.: Var. Titterten 92, Eptingen, Boeckten 13, Var. Lausen 67, s.V.92 
+% mr07711
+% Sep 27, 2017 ("s-e-h-r perfekt")
+
+X:2
+T:Der kleine Postillion (Marsch)  G 5- (mr07711) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.360 (mr07711) orig. C
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+R:Marsch
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+B,/2D/2 |: "G"G3D/2B/2 | G3B/2d/2 | "D7"DD/2D/2 DA/2d/2 | "G"DD/2D/2 DB,/2D/2 | G3D/2B/2 | G3G/2e/2 | "D7"dd/2d/2 dd |1 
+dd dA,/2d/2 :|2 dd dG/2B/2 |: "G"DD/2D/2 DD | D3G/2B/2 | "C"EE/2E/2 EE | E3A | "Am"e>A A>G | ("D7"G2F).F | 
+d>F F>E | "G"E2DG/2B/2 | DD/2D/2 DD | D3G/2c/2 | "C"EE/2E/2 EE | E2zB | "A7"A>A A>A | "D"A2(BA) | 
+dA/2F/2 dA/2F/2 |1 "D7"DD DG/2B/2 :|2 "D7"D2 dc |: "G"B2D2 | G2 (FE) | "D7"F2c2 | E3E | F2c2 | E2 (DC) | "G"B,2E2 | 
+D3G | d3B | d2(cB) | "Am"A2e2 | A3G | "D7"F2c2 | B2A2 |1 ("G"G4 | G2) dc :|2 "G"GG/2G/2 GG | G2z2 |] 
+%W:Anmerkung H.C.: Var. Titterten 92, Eptingen, Boeckten 13, Var. Lausen 67, s.V.92 
+% mr07711
+% Sep 27, 2017 ("s-e-h-r perfekt")
+
+X:3
+T:Der kleine Postillion (Marsch)  D (mr07711)  tinwhistle in D
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.360 (mr07711) orig. C
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Marsch
+M:2/4
+L:1/8
+K:D transpose=12 %%MIDI gchordon
+F/2A/2 |: "D"d3A/2f/2 | d3f/2a/2 | "A7"AA/2A/2 Ae/2a/2 | "D"AA/2A/2 AF/2A/2 | d3A/2f/2 | d3d/2b/2 | "A7"aa/2a/2 aa |1 
+aa aE/2a/2 :|2 aa ad/2f/2 |: "D"AA/2A/2 AA | A3d/2f/2 | "G"BB/2B/2 BB | B3e | "Em"b>e e>d | ("A7"d2c).c | 
+a>c c>B | "D"B2Ad/2f/2 | AA/2A/2 AA | A3d/2g/2 | "G"BB/2B/2 BB | B2zf | "E7"e>e e>e | "A"e2(fe) | 
+ae/2c/2 ae/2c/2 |1 "A7"AA Ad/2f/2 :|2 "A7"A2 ag |: "D"f2A2 | d2 (cB) | "A7"c2g2 | B3B | c2g2 | B2 (AG) | "D"F2B2 | 
+A3d | a3f | a2(gf) | "Em"e2b2 | e3d | "A7"c2g2 | f2e2 |1 ("D"d4 | d2) ag :|2 "D"dd/2d/2 dd | d2z2 |] 
+%W:Anmerkung H.C.: Var. Titterten 92, Eptingen, Boeckten 13, Var. Lausen 67, s.V.92 
+% mr07711
+% Sep 27, 2017 ("s-e-h-r perfekt")

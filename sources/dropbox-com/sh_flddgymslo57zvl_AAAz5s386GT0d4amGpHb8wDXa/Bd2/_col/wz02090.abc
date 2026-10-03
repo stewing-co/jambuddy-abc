@@ -1,0 +1,78 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Walzer  FBb
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.309 (wz02090) orig. F,Bb
+T: Graubünden. Gla Genua, Sent. S.299-329. T: Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:Walzer
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+c | "F"a3 | "Bb"f/e/ g/f/ e/d/ | "F"d2c | za>b | "C7"a2g | zg>a | "F"g2f | zc>f | a3 | 
+"Bb"f/e/ g/f/ e/d/ | "F"d2c | za>b | "C7"a2g | g/f/ e/d/ c/e/ | "F"f>ff | fzf/e/ |] "Bb"d/b/ b/b/ b/b/ | "C7"bag | 
+"F"c/a/ a/a/ a/a/ | agf | "C7"ezd | czB | "F"A2d | c2^c |  "Bb"d/b/ b/b/ b/b/ | "C7"bag | "F"c/a/ a/a/ a/a/ | 
+agf | "C7"ezd | cze | "F"f>ff | fzd/_e/ || [K:Bb] "Bb"f2d | f2b | (f3 | f)zd/e/ | f2d | f2b | 
+(d'3 | d')zc'/b/ | "F7"azg | fze | "Bb"d2g | f2=e/f/ | "Cm"g2c' | "F7"f2a | "Bb"b>bb | bzz |]  
+W:Anmerkung H.C.: Rosa Walzer Innerschwyz (Gassmann)
+% wz02090  (Oct 9, 2016)
+
+X:2
+T:Walzer  CF 5-  (wz02090)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S309 (wz02090) orig. F,Bb
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:Walzer
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G | "C"e3 | "F"c/2B/2 d/2c/2 B/2A/2 | "C"A2G | ze>f | "G7"e2d | zd>e | "C"d2c | zG>c | e3 | 
+"F"c/2B/2 d/2c/2 B/2A/2 | "C"A2G | ze>f | "G7"e2d | d/2c/2 B/2A/2 G/2B/2 | "C"c>cc | czc/2B/2 |] "F"A/2f/2 f/2f/2 f/2f/2 | "G7"fed | 
+"C"G/2e/2 e/2e/2 e/2e/2 | edc | "G7"BzA | GzF | "C"E2A | G2^G | "F"A/2f/2 f/2f/2 f/2f/2 | "G7"fed | "C"G/2e/2 e/2e/2 e/2e/2 | 
+edc | "G7"BzA | GzB | "C"c>cc | czA/2_B/2 || [K:F] "F"c2A | c2f | (c3 | c)zA/2B/2 | c2A | c2f | 
+(a3 | a)zg/2f/2 | "C7"ezd | czB | "F"A2d | c2=B/2c/2 | "Gm"d2g | "C7"c2e | "F"f>ff | fzz |] 
+% wz02090
+
+X:3
+T:Walzer  GC 10-  (wz02090)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S309 (wz02090) orig. F,Bb
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:Walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+D | "G"B3 | "C"G/2F/2 A/2G/2 F/2E/2 | "G"E2D | zB>c | "D7"B2A | zA>B | "G"A2G | zD>G | B3 | 
+"C"G/2F/2 A/2G/2 F/2E/2 | "G"E2D | zB>c | "D7"B2A | A/2G/2 F/2E/2 D/2F/2 | "G"G>GG | GzG/2F/2 |] "C"E/2c/2 c/2c/2 c/2c/2 | "D7"cBA | 
+"G"D/2B/2 B/2B/2 B/2B/2 | BAG | "D7"FzE | DzC | "G"B,2E | D2^D | "C"E/2c/2 c/2c/2 c/2c/2 | "D7"cBA | "G"D/2B/2 B/2B/2 B/2B/2 | 
+BAG | "D7"FzE | DzF | "G"G>GG | GzE/2=F/2 || [K:C] "C"G2E | G2c | (G3 | G)zE/2F/2 | G2E | G2c | 
+(e3 | e)zd/2c/2 | "G7"BzA | GzF | "C"E2A | G2^F/2G/2 | "Dm"A2d | "G7"G2B | "C"c>cc | czz |] 
+% wz02090
+
+X:4
+T:Walzer D&G (tinwhistle in D) solo
+T:wz02090 (Hanny Christen)
+%%MIDI program 72   % 111 / 74 / 79=whistle
+O:Switzerland
+R:Walzer
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+A | f3 | d/2c/2 e/2d/2 c/2B/2 | B2A | zf>g | f2e | ze>f | e2d | zA>d | f3 | 
+d/2c/2 e/2d/2 c/2B/2 | B2A | zf>g | f2e | e/2d/2 c/2B/2 A/2c/2 | d>dd | dzd/2c/2 |] B/2g/2 g/2g/2 g/2g/2 | gfe | 
+A/2f/2 f/2f/2 f/2f/2 | fed | czB | AzG | F2B | A2^A | B/2g/2 g/2g/2 g/2g/2 | gfe | A/2f/2 f/2f/2 f/2f/2 | 
+fed | czB | Azc | d>dd | dzB/2=c/2 || [K:G] d2B | d2g | (d3 | d)zB/2"_c"c/2 | d2B | d2g | 
+(b3 | b)za/2g/2 | fze | dz"_c"c | B2e | d2^c/2d/2 | e2a | d2f | g>gg | gzz |]
+% wz02090
+% Oct 8, 2016
+
+
+
+
+

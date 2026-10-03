@@ -1,0 +1,20 @@
+X:102
+T:Andante
+C:Joao de Sousa Carvalho (1745-1798)
+M:3/8
+L:1/8
+K:F
+V: 2 clef=treble name="Oboe II" sname="Ob.II"
+%%MIDI program 1 68
+%%staves [( 2 )]
+%------
+[Q:"Andante a comodo"] z/2 | z/>f/fz | z/>c/cz | z3 | zd2 | AGz | \
+z/>f/fz | z/>a/az | !p!(^f2g) | c2z| Z10| zge|z3|zge|z.f.f| Z4 | \
+z/>!f!f/fz| z/>c/cz | Z3 |  z/>!f!f/fz | z/>c/cz | Z2 | zz(c//d//e//e//) | e/{g}(f/e/){g}(f/.e/)e/ | \
+(e/d/f/e/d/c/) | c/=B/zz | zz(c//d//e//e//) | e/{g}f/e/{g}f/e/e/ | (e/d/f/e/d/c/) | \
+c/=B/zz | z z//!sfz!(c//d//e//) !p!c | z z//!sfz!(d//e//f//) !p!d | z z//!sfz!(e//f//g//) !p!e |  \
+Z7| zz!fermata!z | Z8 | z/(c/A)z | z3 | z/(g/e)z | z3 | z/c/Az | z3 | z/g/ez | \
+%----?  z/(c/A)z | z3 | z/(g/e)z | z3 | z/(c/A)z | z3 | z/(g/e)z | Z2 | \
+Z2 | f3- | f3- | f3- | f3 |ez/ (e/g/e/) | fzz | z(c/e/g/e/) | fzz| z!p!.e.e | e z!fermata!z/z/ \
+|| "_[Allegro;follows]"  X | \
+%------

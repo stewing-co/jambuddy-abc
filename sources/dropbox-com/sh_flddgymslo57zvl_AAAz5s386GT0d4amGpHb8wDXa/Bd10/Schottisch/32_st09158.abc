@@ -1,0 +1,78 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Schottisch  C
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.168 (st09158) orig. C
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+ef |: "C"g2c'2 b2a2 | g2ea g2ag | "G7"f2df b2gb | "C"d'c'ba g2ef | g2c'2 "F"b2a2 | "C"g2ea g2ag | "G7"f2de fgab | "C"c'2c'2 c'2ef :: 
+"C"g2e2 a3g | "G7"fGBdG4 | f3B b3a | "C"gcegG4 | g3e c'3b | "F"aefa d3c | "G7"Bcde fgab |1 "C"c'2c2 c2ef :|2 "C"c'2c2 c2z2 |]  
+% https://www.youtube.com/watch?v=5yZTWsc9gAM (Kaushiki Chakarbarty at MERU) 
+% st09158
+X:2
+T:Schottisch  F 7-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+AB |: "F"c2f2 e2d2 | c2Ad c2dc | "C7"B2GB e2ce | "F"gfed c2AB | c2f2 "Bb"e2d2 | "F"c2Ad c2dc | "C7"B2GA Bcde | "F"f2f2 f2AB :: 
+"F"c2A2 d3c | "C7"BCEGC4 | B3E e3d | "F"cFAcC4 | c3A f3e | "Bb"dABd G3F | "C7"EFGA Bcde |1 "F"f2F2 F2AB :|2 "F"f2F2 F2z2 |] 
+% st09158
+X:3
+T:Schottisch  G 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+Bc |: "G"d2g2 f2e2 | d2Be d2ed | "D7"c2Ac f2df | "G"agfe d2Bc | d2g2 "C"f2e2 | "G"d2Be d2ed | "D7"c2AB cdef | "G"g2g2 g2Bc :: 
+"G"d2B2 e3d | "D7"cDFAD4 | c3F f3e | "G"dGBdD4 | d3B g3f | "C"eBce A3G | "D7"FGAB cdef |1 "G"g2G2 G2Bc :|2 "G"g2G2 G2z2 |] 
+% st09158
+X:4
+T:Schottisch  C (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+ef |: "C"g2c'2 b2a2 | g2ea g2ag | "G7"f2df b2gb | "C"d'c'ba g2ef | g2c'2 "F"b2a2 | "C"g2ea g2ag | "G7"f2de fgab | "C"c'2c'2 c'2ef :: 
+"C"g2e2 a3g | "G7"fGBdG4 | f3B b3a | "C"gcegG4 | g3e c'3b | "F"aefa d3c | "G7"Bcde fgab |1 "C"c'2c2 c2ef :|2 "C"c'2c2 c2z2 |]    
+% st09158
+X:5
+T:Schottisch  F (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+AB |: "F"c2f2 e2d2 | c2Ad c2dc | "C7"B2GB e2ce | "F"gfed c2AB | c2f2 "Bb"e2d2 | "F"c2Ad c2dc | "C7"B2GA Bcde | "F"f2f2 f2AB :: 
+"F"c2A2 d3c | "C7"BCEGC4 | B3E e3d | "F"cFAcC4 | c3A f3e | "Bb"dABd G3F | "C7"EFGA Bcde |1 "F"f2F2 F2AB :|2 "F"f2F2 F2z2 |] 
+% st09158
+X:6
+T:Schottisch  G (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+Bc |: "G"d2g2 f2e2 | d2Be d2ed | "D7"c2Ac f2df | "G"agfe d2Bc | d2g2 "C"f2e2 | "G"d2Be d2ed | "D7"c2AB cdef | "G"g2g2 g2Bc :: 
+"G"d2B2 e3d | "D7"cDFAD4 | c3F f3e | "G"dGBdD4 | d3B g3f | "C"eBce A3G | "D7"FGAB cdef |1 "G"g2G2 G2Bc :|2 "G"g2G2 G2z2 |] 
+% st09158
+X:7
+T:Schottisch G (tinwhistle in D) solo
+T:st09158 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=12
+B"_c"c |: d2g2 f2e2 | d2Be d2ed | "_c"c2Ac f2df | agfe d2"_c"Bc | d2g2 f2e2 | d2Be d2ed | "_c"c2AB "_c"cdef | g2g2 g2B"_c"c :: 
+d2B2 e3d | "_c"cDFAD4 | "_c"c3F f3e | dGBdD4 | d3B g3f | eB"_c"ce A3G | FGAB "_c"cdef |1 g2G2 G2B"_c"c :|2 g2G2 G2z2 |]
+% st09158
+% Aug 30, 2016

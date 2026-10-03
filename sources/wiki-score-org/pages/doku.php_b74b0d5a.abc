@@ -1,0 +1,17 @@
+X:704
+T:Velum templi
+C:Frei Manuel Cardoso
+M:C|
+L:1/4
+K:F
+V: 4 clef=bass name="Bassus" sname="B."
+%%MIDI program 1 1
+%%staves [ 4 ]
+F,3 D, | D,2- G,2 | C, F,2 B,, | B,,2 z F, | G, ^F, G,2 | D,2 B,,3/2 B,,/ | \
+w: Ve- lum | tem- | pli scis- sum | est et | om- nis ter- | ra tre- mu- | \
+%
+F,2 z F, | F, D, A,2 | A, F, G, B, | A,2 A,2 |  \
+w: it la- | tro de cru- | ce cla-ma-bat | di-cens
+%
+!segno!z F, F,2 | C, G,2 ^F, | G,3 D, | D, B,, B,,2- | B,, C, D, B,, | F,2 F,2 | G,4 | !fine!C,4 || x4 x4 x4 x3 ||
+w: Me-men- | to me-i Do-mi- | ne dum ve- | - ne-ris in | re-gnum | tu- | um

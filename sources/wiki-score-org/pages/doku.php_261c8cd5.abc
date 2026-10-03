@@ -1,0 +1,20 @@
+X:106
+T:N.1 Rataplan (Ambrosio)
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:D
+V: 6 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 6 ]
+%--------------------
+[Q:"Marcial"]
+D,zz D,zz  | D,zz D,zz | D,zz D,zz | D,zz D,zz | A,,zz A,,zz | D,zz D,zz | D,zz =Czz | B,zz ^G,zz | \
+A,zz A,,zz | D,zz D,zz !segno!|| D,zz D,zz | zz(.D,/.D,/) D,zz | zz(.A,/.A,/) .A,zz | \
+zz(.D,/.D,/) D,zz | D,zz D,zz  | zz(.E,/.E,/) E,zz | E,zz E,zz | zz(.A,,/.A,,/) .A,,zz | \
+D,zz D,zz  | zz(.D,/.D,/) D,zz | zz(.A,/.A,/) .A,zz | zz(.D,/.D,/) D,zz | Dzz =Czz  | \
+B,zz ^G,zz | A,zz A,,zz | D,!f!z (.A,,/.A,,/) D,zz !fine!|: \
+[K:A] [Q: "un poco menos"] G,2zz2z | E,2zz2z |A,2zz2z |E,2zz2z |B,2zz2z |E,2zz2z | A,2zz2z | E,2zz2z | \
+B,,2zz2z | E,2zz2z |[1 A,,2zz2z | F,2zz2z | G,2zz2z | G,2zz2z | C,2zz2z |B,,2zz2z \
+:|2 F,2zz2z | =F,2zz2z | E,2zz2z | E,2zz2z | A,2z!>!E,2z | A,,2zz2z !D.S.!|]
+%----

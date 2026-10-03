@@ -1,0 +1,110 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Br\"amiser Schottisch (Brama)  F
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.203 (st00713) orig. C-Dur
+T:Walliser T\"anze. S.196-213.\"Uberliefert durch Josef Seewer und Marcel Tschopp, Leuk, 
+T: und Sepp Mutter, Ried/Brigerberg
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c|: "F"f>g fc | f>g fc | fg ab | "C7"g3c | c'2b2 | "F"a2"Gm/Bb"g2 | 
+"C7"fe de |1 "F"f2z2 :|2 "F"f2 (3cfg |: "F"a2 a>a | a2 (3fga | "C7"b2 b>b | 
+b2 (3cec'  | c'2c'>c' | c'2 (3bag |1 "F"f2f>f |  f2 (3cfg :|2 "F"f2f2 | f2z2 |] 
+X:2
+T:Br\"amiser Schottisch (Brama)  C 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+G|: "C"c>d cG | c>d cG | cd ef | "G7"d3G | g2f2 | "C"e2"Dm/F"d2 | 
+"G7"cB AB |1 "C"c2z2 :|2 "C"c2 (3Gcd |: "C"e2 e>e | e2 (3cde | "G7"f2 f>f | 
+f2 (3GBg | g2g>g | g2 (3fed |1 "C"c2c>c | c2 (3Gcd :|2 "C"c2c2 | c2z2 |] 
+% st00713
+X:3
+T:Br\"amiser Schottisch (Brama)  G 10-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G%%MIDI gchordon
+D|: "G"G>A GD | G>A GD | GA Bc | "D7"A3D | d2c2 | "G"B2"Am/C"A2 | 
+"D7"GF EF |1 "G"G2z2 :|2 "G"G2 (3DGA |: "G"B2 B>B | B2 (3GAB | "D7"c2 c>c | 
+c2 (3DFd | d2d>d | d2 (3cBA |1 "G"G2G>G | G2 (3DGA :|2 "G"G2G2 | G2z2 |] 
+% st00713
+X:4
+T:Br\"amiser Schottisch (Brama)  F (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+c|: "F"f>g fc | f>g fc | fg ab | "C7"g3c | c'2b2 | "F"a2"Gm/Bb"g2 | 
+"C7"fe de |1 "F"f2z2 :|2 "F"f2 (3cfg |: "F"a2 a>a | a2 (3fga | "C7"b2 b>b | 
+b2 (3cec'  | c'2c'>c' | c'2 (3bag |1 "F"f2f>f |  f2 (3cfg :|2 "F"f2f2 | f2z2 |] 
+% st00713
+X:5
+T:Br\"amiser Schottisch (Brama)  C (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+G|: "C"c>d cG | c>d cG | cd ef | "G7"d3G | g2f2 | "C"e2"Dm/F"d2 | 
+"G7"cB AB |1 "C"c2z2 :|2 "C"c2 (3Gcd |: "C"e2 e>e | e2 (3cde | "G7"f2 f>f | 
+f2 (3GBg | g2g>g | g2 (3fed |1 "C"c2c>c | c2 (3Gcd :|2 "C"c2c2 | c2z2 |] 
+% st00713
+X:6
+T:Br\"amiser Schottisch (Brama)  G (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+D|: "G"G>A GD | G>A GD | GA Bc | "D7"A3D | d2c2 | "G"B2"Am/C"A2 | 
+"D7"GF EF |1 "G"G2z2 :|2 "G"G2 (3DGA |: "G"B2 B>B | B2 (3GAB | "D7"c2 c>c | 
+c2 (3DFd | d2d>d | d2 (3cBA |1 "G"G2G>G | G2 (3DGA :|2 "G"G2G2 | G2z2 |] 
+% st00713
+X:7
+T:Br\"amiser Schottisch (Brama) D (tinwhistle in D)
+T: st00713 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D%%MIDI gchordon
+A|: "D"d>e dA | d>e dA | de fg | "A7"e3A | a2g2 | "D"f2"Em/G"e2 | 
+"A7"dc Bc |1 "D"d2z2 :|2 "D"d2 (3Ade |: "D"f2 f>f | f2 (3def | "A7"g2 g>g | 
+g2 (3Aca | a2a>a | a2 (3gfe |1 "D"d2d>d | d2 (3Ade :|2 "D"d2d2 | d2z2 |] 
+X:8
+T:Br\"amiser Schottisch (Brama) D (tinwhistle in D) solo
+T: st00713 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D transpose=12
+A|: "D"d>e dA | d>e dA | de fg | "A7"e3A | a2g2 | "D"f2"Em/G"e2 | 
+"A7"dc Bc |1 "D"d2z2 :|2 "D"d2 (3Ade |: "D"f2 f>f | f2 (3def | "A7"g2 g>g | 
+g2 (3Aca | a2a>a | a2 (3gfe |1 "D"d2d>d | d2 (3Ade :|2 "D"d2d2 | d2z2 |] 
+X:9
+T:Br\"amiser Schottisch (Brama) G (tinwhistle in D) solo
+T: st00713 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:G transpose=12
+D|: G>A GD | G>A GD | GA Bc | A3D | d2c2 | "GAm/C"A2 | 
+GF EF |1 G2z2 :|2 G2 (3DGA |: B2 B>B | B2 (3GAB | c2 c>c | 
+c2 (3DFd | d2d>d | d2 (3cBA |1 G2G>G | G2 (3DGA :|2 G2G2 | G2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 24, 2016

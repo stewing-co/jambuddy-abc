@@ -1,0 +1,29 @@
+X:1
+T:Gills Brudpolska
+T:Gill's Wedding Polska
+L:1/8
+M:3/4
+C:© 2002 Ben Paley
+N:I wrote this tune for the wedding of Tab Hunter and Gill Emerson in 2002.
+N:I managed to work around what I thought was a bug in either abcm2ps or abc2midi to do with
+N:first and second time bars in harmony parts. Turns out I needed to add "%%score M|H" at the top
+N:of the tune (where I'd labelled the voices "M" and "H").
+R:Polska
+Z:Ben Paley <ben.paley@benpaley.com>
+K:D Dorian
+%%score M|H
+V:M
+P:A
+%
+A2 d>c A>c | e2 dc A2 | B>G D<^F G>A | B>A A<c (A2 |
+A2) d>c A>c | e2 dc A2 | A>F D<E F>G |1 A>F G3^F :|2 A>F G3E |
+P:B
+|: F>G A<c _BA/2G/2 | A>F ED/2C/2 D2 | d>e f<a ga/2g/2 | fe/2d/2 e2 A2 |
+f>d e<c d2 | _BA/2G/2 A>F E2 | A>F D<E F>G | A<F G4 :|
+V:H
+P:A
+D2 A>^F D>^F | A2 G^F (D2 | D)>C B,<A, (B,2 | B,)>A, B,<C (D2 |
+D2) ^F>E D>^F | A2 G^F (D2 | D)>C A,<G, A,>B, |1 C<D  B,3(A, :|2 C<D B,4 |
+P:B
+|: D>E F<A G>E | F>D ED/2C/2 A,2 | F>G A<c (d2 | d)>B ^c2 A2 |
+d>A _B<G A2 | D>F A>F E2 | D>C A,2 A,>B, | C<D B,4 :|

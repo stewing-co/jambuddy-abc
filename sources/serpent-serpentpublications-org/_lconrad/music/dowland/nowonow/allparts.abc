@@ -1,0 +1,150 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:VI. Now, O now, I needs must part,
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+T:Cantus
+M:3/2
+L:1/2
+N:Original clef, C on first line
+K:Gmix
+%%MIDI nobarlines
+%1
+|:  B2   A | G2 ^F | E2   G |  A2 z | B2   d | c2  B | A2 B
+w:While I live I needs must love, love lives not when hope is
+w:And al- though your sight I leave,  Sight where in my joyes doe 
+w:Part we must though now I die, Die I do to part with 
+%2
+A2 z |    B2 A |    G2 ^F | E2 G | A2 z | B d c > c B A | G6 :|
+w:mourn.  Ab- sence can no joy im- part: joy once fled can- not re- turne.
+w:gone.  Now at last de- spaire doth prove, love di- vi- ded lov- eth none.
+w:once. I loved thee and thee a- lone, In whose love I joy- ed once.
+w:lie, Till that death doth sence be- reave, Ne- ver shall af- fec- tion die.
+w:gether. For my ab- sence ne- ver mourne, Whom you might have joy- ed ever:
+w:you.  Him des- paire doth cause to lie, Who both lived and di- eth true.
+%3
+|:c2 c | c2 e | d2 e | d2 z | c > c B | A c B | A6 | B2 A |
+w:Sad de- spair doth drive me hence, this des- paire un- kind- nes sends. If that
+%4
+G2 ^F | E2 G | A2 z | B d c > c B A G6 :|
+w:part- ing bee of- fence, it is shee which then of- fends.
+
+X:2
+T:VI. Now, O now, I needs must part,
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+T:Altus
+%%MIDI nobarlines
+M:3/2
+L:1/2
+N:Original clef, C on fourth line
+K:Gmix
+%1
+|:G2 ^F E2 D C2 B, D3 D2 G G2 G ^F2 G^F2 z G2 ^F E2 D
+w:1.~Now, O now, I needs must part, part- ing though I ab- sent mourn.  Ab- sence can no  
+w:While I live I needs must love, love lives not when hope is gone.  Now at last des-
+w:2.~Deare, when I from thee am gone, Gone are all my joyes at once. I loved thee 
+w:And al- though your sight I leave, Sight where in my joyes doe lie, Till that death doth 
+w:3.~Deare, If I do not re- turne, Love and I shall die to- gether. For my ab- sence 
+w:Part we must though now I die, Die I do to part with you. Him de- spaire doth 
+%2
+C2 B, D3 D G E z/ E/ D > C B,6 :| |: E2 E E2 E G2 G G3 E A G D
+w:joy im- part: joy once fled can- not re- turne.  Sad de- spair doth drive me hence, this des- paire un- 
+w:paire doth prove, love di- vi- ded lov- eth none.
+w:and thee a- lone, In whose love I joy- ed once.
+w:sence be- reave, Ne- ver shall af- fec- tion die.
+w:ne- ver mourne, Whom you might have joy- ed ever:
+w:cause to lie, Who both lived and di- eth true.
+%3
+   E > D    ^C6    G2 ^F  E2    D   C2 B, D3 D G E > E D > C B,6 :|
+w:kind- nes sends.  If that part- ing bee of- fence, it is shee which then of- fends.
+
+X:3
+T:VI. Now, O now, I needs must part,
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+T:Tenor
+M:3/2
+L:1/2
+N: Original clef, C on third line
+K:Gmix -8va
+%%MIDI transpose -12
+%%MIDI nobarlines
+%1
+|:d2 d B2 B G  G > g ^f3 g2 B e2 d d2 d d3 d2 d B2 B G G > g
+w:1.~Now, O now, I needs must _ part, part- ing though I ab- sent mourn.  Ab- sence can no joy im-  *
+w:While I live I needs must _ love, love lives not when hope is gone.  Now at last de- spaire doth _
+w:2.~Deare, when I from thee  am _ gone, Gone are all my joyes at once. I loved thee and thee a- * 
+w:And al- though your sight I _ leave, Sight where in my joyes doe lie, Till that death doth sence be- *
+w:3.~Deare, If I do not re- * turne, Love and I shall die to- gether. For my ab- sence ne- ver _
+w:Part we must though now I _ die, Die I do to part with you. Him des- paire doth cause to _
+%2
+^f3 g B A/ G/ G2 ^F G6 :| |: G2 G G2 G G B G G2 B A e e A A 
+w:part: joy once fled can- not re- turne.  Sad de- spair doth drive me hence, this des- paire des- paire un- kind-
+w: prove, love di- vi- ded lov- eth none.
+w: lone, In whose love I joy- ed once.
+w: reave, Ne- ver shall af- fec- tion die.
+w:  mourne, Whom you might have joy- ed  ever. 
+w: lie, Who both lived and di- eth true.
+%3
+^G A3-A2 z d2 d B2 B G G > g ^f3 g B A/ G/ G2 ^F G6 :|
+w: nes sends. * If that part- ing bee of - fence, it is shee which then of- fends.
+
+X:4
+T:VI. Now, O now, I needs must part,
+C: John Dowland
+O: From The First Booke of songs or Ayres of foure parts, with Tableture for the Lute
+T:Bassus
+M:3/2
+L:1/2
+K:Gmix bass
+%%MIDI transpose -24
+%%MIDI nobarlines
+%1
+|:g2 d e2 B c2 e d3 g2 g
+w:1.Now, O now, I needs must part, part- ing 
+w:While I live I needs must love, love lives 
+w:2.Deare, when I from thee am gone, Gone are 
+w:And al- though your sight I leave, Sight where 
+w:3.Deare, If I do not re- turne, Love and 
+w:Part we must though now I die, Die I 
+%2
+c2 g d2 G d3 g2 d e2 B c2 e
+w:though I ab- sent mourn.  Ab- sence can no joy im- 
+w:not when hope is gone.  Now at last de- spaire doth 
+w:all my joyes at once. I loved thee and thee a- 
+w:in my joyes doe lie, Till that death doth sence be-
+w:I shall die to- gether. For my ab- sence ne- ver 
+w:do to part with you.  Him de- spaire doth cause to 
+%3
+d3 G G c c d d G6 :| |: c2 c c2
+w:part: joy once fled can- not re- turne.  Sad de- spair 
+w:prove, love di- vi- ded lov- eth none.
+w:lone, In whose love I joy- ed once.
+w:reave, Ne- ver shall af- fec- tion die.
+w:mourne, Whom you might have joy- ed ever:
+w:lie, Who both lived and di- eth true.
+%4
+c B G c B G2 A > A e f e
+w:doth drive me hence, me hence; this des- paire un- kind- 
+%5
+  e A6      g2 d    e2     B  c2  e   d3 g g c > c 
+w:nes sends.  If that part- ing bee of- fence, it is shee which 
+%6
+d d G6 :|
+w:then of- fends.

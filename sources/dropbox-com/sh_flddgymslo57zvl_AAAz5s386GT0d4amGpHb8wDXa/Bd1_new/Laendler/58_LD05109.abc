@@ -1,0 +1,96 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: L\"andler F chords parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.368 (LD05109) orig. F-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+[P:A] F/G/ | "F"A3 | AGA | F3 | Adc | "C7"B3 | BAB | G2F | EFG | 
+"F"A3 | AGA | F2G | Adc | "C7"B3 | BAB | G2B | "F"AzA/B/ || 
+[P:B] "C7"c>cc |  d/c/  B/c/ d/e/ | "F"f>ff | g/f/ e/f/ g/a/ | "C7"b2g | z g/f/ g/b/ | "F"a2f | zAB | 
+"C7"c>cc | d/c/ B/c/ d/e/ | "F"f>ff | g/f/ e/f/ g/a/ | "C7"b2g | zf/f/ f/g/ | f2e | "F"fzz |] 
+% June 8, 2016
+X:2
+T: L\"andler F chords
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+F/G/ | "F"A3 | AGA | F3 | Adc | "C7"B3 | BAB | G2F | EFG | 
+"F"A3 | AGA | F2G | Adc | "C7"B3 | BAB | G2B | "F"AzA/B/ || 
+ "C7"c>cc |  d/c/  B/c/ d/e/ | "F"f>ff | g/f/ e/f/ g/a/ | "C7"b2g | z g/f/ g/b/ | "F"a2f | zAB | 
+"C7"c>cc | d/c/ B/c/ d/e/ | "F"f>ff | g/f/ e/f/ g/a/ | "C7"b2g | zf/f/ f/g/ | f2e | "F"fzz |] 
+X:3
+T:L\"andler C 5- chords
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+C/2D/2 | "C"E3 | EDE | C3 | EAG | "G7"F3 | FEF | D2C | B,CD | 
+"C"E3 | EDE | C2D | EAG | "G7"F3 | FEF | D2F | "C"EzE/2F/2 || 
+"G7"G>GG | A/2G/2 F/2G/2 A/2B/2 | "C"c>cc | d/2c/2 B/2c/2 d/2e/2 | "G7"f2d | z d/2c/2 d/2f/2 | "C"e2c | zEF | 
+"G7"G>GG | A/2G/2 F/2G/2 A/2B/2 | "C"c>cc | d/2c/2 B/2c/2 d/2e/2 | "G7"f2d | zc/2c/2 c/2d/2 | c2B | "C"czz |] 
+X:4
+T:L\"andler G 2- chords
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+G/2A/2 | "G"B3 | BAB | G3 | Bed | "D7"c3 | cBc | A2G | FGA | 
+"G"B3 | BAB | G2A | Bed | "D7"c3 | cBc | A2c | "G"BzB/2c/2 || 
+"D7"d>dd | e/2d/2 c/2d/2 e/2f/2 | "G"g>gg | a/2g/2 f/2g/2 a/2b/2 | "D7"c'2a | z a/2g/2 a/2c'/2 | "G"b2g | zBc | 
+"D7"d>dd | e/2d/2 c/2d/2 e/2f/2 | "G"g>gg | a/2g/2 f/2g/2 a/2b/2 | "D7"c'2a | zg/2g/2 g/2a/2 | g2f | "G"gzz |] 
+X:5
+T: L\"andler F (5letras transposed)
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+F/G/ | "F"A3 | AGA | F3 | Adc | "C7"B3 | BAB | G2F | EFG | 
+"F"A3 | AGA | F2G | Adc | "C7"B3 | BAB | G2B | "F"AzA/B/ || 
+ "C7"c>cc |  d/c/  B/c/ d/e/ | "F"f>ff | g/f/ e/f/ g/a/ | "C7"b2g | z g/f/ g/b/ | "F"a2f | zAB | 
+"C7"c>cc | d/c/ B/c/ d/e/ | "F"f>ff | g/f/ e/f/ g/a/ | "C7"b2g | zf/f/ f/g/ | f2e | "F"fzz |] 
+X:6
+T:L\"andler C (5letras transposed)
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+C/2D/2 | "C"E3 | EDE | C3 | EAG | "G7"F3 | FEF | D2C | B,CD | 
+"C"E3 | EDE | C2D | EAG | "G7"F3 | FEF | D2F | "C"EzE/2F/2 || 
+"G7"G>GG | A/2G/2 F/2G/2 A/2B/2 | "C"c>cc | d/2c/2 B/2c/2 d/2e/2 | "G7"f2d | z d/2c/2 d/2f/2 | "C"e2c | zEF | 
+"G7"G>GG | A/2G/2 F/2G/2 A/2B/2 | "C"c>cc | d/2c/2 B/2c/2 d/2e/2 | "G7"f2d | zc/2c/2 c/2d/2 | c2B | "C"czz |] 
+X:7
+T:L\"andler G (5letras transposed)
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+G/2A/2 | "G"B3 | BAB | G3 | Bed | "D7"c3 | cBc | A2G | FGA | 
+"G"B3 | BAB | G2A | Bed | "D7"c3 | cBc | A2c | "G"BzB/2c/2 || 
+"D7"d>dd | e/2d/2 c/2d/2 e/2f/2 | "G"g>gg | a/2g/2 f/2g/2 a/2b/2 | "D7"c'2a | z a/2g/2 a/2c'/2 | "G"b2g | zBc | 
+"D7"d>dd | e/2d/2 c/2d/2 e/2f/2 | "G"g>gg | a/2g/2 f/2g/2 a/2b/2 | "D7"c'2a | zg/2g/2 g/2a/2 | g2f | "G"gzz |] 
+X:8
+T:L\"andler D (tinwhistle in D)
+T:LD05109 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+D/2E/2 | "D"F3 | FEF | D3 | FBA | "A7"G3 | GFG | E2D | "_C"EDE | 
+"D"F3 | FEF | D2E | FBA | "A7"G3 | GFG | E2G | "D"FzF/2G/2 || 
+"A7"A>AA | B/2A/2 G/2A/2 B/2c/2 | "D"d>dd | e/2d/2 c/2d/2 e/2f/2 | "A7"g2e | z e/2d/2 e/2g/2 | "D"f2d | zFG | 
+"A7"A>AA | B/2A/2 G/2A/2 B/2c/2 | "D"d>dd | e/2d/2 c/2d/2 e/2f/2 | "A7"g2e | zd/2d/2 d/2e/2 | d2c | "D"dzz |] 
+X:9
+T:L\"andler D (tinwhistle in D) solo
+T:LD05109 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/4
+K:D transpose=12
+D/2E/2 | "D"F3 | FEF | D3 | FBA | "A7"G3 | GFG | E2D | "_C"EDE | 
+"D"F3 | FEF | D2E | FBA | "A7"G3 | GFG | E2G | "D"FzF/2G/2 || 
+"A7"A>AA | B/2A/2 G/2A/2 B/2c/2 | "D"d>dd | e/2d/2 c/2d/2 e/2f/2 | "A7"g2e | z e/2d/2 e/2g/2 | "D"f2d | zFG | 
+"A7"A>AA | B/2A/2 G/2A/2 B/2c/2 | "D"d>dd | e/2d/2 c/2d/2 e/2f/2 | "A7"g2e | zd/2d/2 d/2e/2 | d2c | "D"dzz |] 
+W:
+W: for tin whistle TABs go to: 
+W: http://www.mandolintab.net/abcconverter.php
+W: Tablatur: Whistle - key: D
+% June 15, 2016

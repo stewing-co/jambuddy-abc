@@ -1,0 +1,19 @@
+X:1201
+T:N.12 Cancao do soldado
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:D
+V: 1 clef=treble name="Flauta" sname="Fl."
+%%MIDI program 1 73
+%%staves [ 1 ]
+%--------
+[Q:"Marcial"] z6 | z2z z(fa) |: dzz z2(f|a2)z z2z | z6 | z2 z z (fa) |\
+d zz z2 z | (a3 (a)^gf | e2) (ee'2^g | a2) z z2 z | z2 z z z (f |\
+a2) z z2 z | z6 | z2 z z (fa | d2) (df2a | d'3)- d'c'b | a2 f e2 f  |\
+d z .a/.a/ d' z  !fermata! z"un poco meno" !coda!|| \
+Z7 | !fermata!z4"a tempo"fa || dzz z2(f|a2)z z2z | z6 | z2 z z (fa) |\
+d zz z2 z | (a3 (a)^gf | e2) (ee'2^g | a2) z z2 z | z2 z z z (f |\
+a2) z z2 z | z6 | z2 z z (fa | d2) (df2a | d'3)- d'c'b | a2 f e2 f  |\
+d z .a/.a/ d' z z |] \
+%--------

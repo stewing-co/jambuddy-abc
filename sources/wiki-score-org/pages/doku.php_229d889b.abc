@@ -1,0 +1,20 @@
+X:303
+T:Beata Dei Genitrix
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 3 clef=bass name="Bayxao" sname="Bx."
+%%MIDI program 1 1
+%%staves [ 3 ]
+%-----------
+Z14 !segno!|| [M:3/2] Z11 | !fermata!z3 !fine!|] \
+[M:2/2] A,,>A,,| D,D,| C,A,,| E,2 | A,,E,| A,F,-|F,G,|C,2-| C,F,|E,2|F,2|E,2-|E,2| \
+z/A,/ E,//D,//E,//F,// | G,/ G,,/ B,,//A,,//B,,//C,// | D,/A,,/ C,//B,,//C,//D,// | \
+E,//D,//E,//^F,// G,/A,/ | E,/A,,/ E, | A,,2-|A,,2| D,/ D,/> D,/ A,,/ | C,//B,,//A,,//G,,// A,, | \
+G,,/ G,/> F,/E,//D,// | C,//D,//E,//C,// D, | A,,A,,| \
+E,2|A,,/ A, E,/-|E,/F,C,/-|C,/D,A,,/-|A,,/ A,,/E,/E,/| A,,A,- | A,A,| E,E, | A,,>B,,| \
+C,G,,|D,2| A,,/G,,/A,,/B,,/ | C,/D,/E,/F,/| G,/A,/ G, | \
+C,/CG,/-|G,/A,E,/-|E,/F,C,/-|C,/D,A,,/-|A,,/ A,,/ E,/ E,/ | A,,A,|A,A,|E,E,|A,,/B,,/C,/D,/ | \
+E,C,|D,D,|E,>E,|A,,/D,^C,/|D,A,,|D,2|A,,2-|A,,2 !segno! |] \
+%-----------

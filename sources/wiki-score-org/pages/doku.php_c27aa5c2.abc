@@ -1,0 +1,23 @@
+X:806
+T:N.11 Expressivo
+C:Antonio Thomaz de Lima
+M:C
+L:1/4
+K:A
+V: 6 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 6 }]
+%----------- edit between the lines ------------
+[Q:"Expressivo"] Z2 | [K: bass] \
+z// (E,// E/) z// (F,// B,/) z// (E,// E/) z \
+& z// (E,// E,/) z// (F,// F,/) z// (E,// E,/) z  |
+"^[K=Bass from now on? check!]" x2 z// [I:staff +1] E,// [I:staff -1] .G,,/ C/ z/ | Z5 || \
+[M:3/4] Z || \
+[M:2/8] z/  "^alegremente"  "^8va......." .[C,E,]//.[D,F,]// || \
+[M:2/4] !>! [E,G,]/!>![C/E/]!>![A,/C/]!>![F,/A,/] | \
+G, .A,//.G,//.F,//.E,// & .E,//.F,//.E,//.D,// .^C,//.B,,//.A,,//.G,,// | \
+"^ .....8va"  !>![D,/F,,/] [A,/F/] [G,/E/][F,/D/] | \
+[E,/C/][G,//B,//][F,//A,//] [E,/G,/] z/ | [K:treble] "^[cf check before...]" Z2 | \
+z/b//d'// c'/z/ & z/ [d/a/] [ea]/ z/ || \
+[M:2/8] z/ !f! A//G// ||
+%-----------------------------------------------

@@ -1,0 +1,3143 @@
+
+X: 2000
+T: Gow's COMPLETE REPOSITORY (Second Part)
+%%musicspace  0
+%% partsspace 0
+B: Niel Gow & Sons "Complete Repository"
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+K:
+%%center Part Second
+%%center of the
+%%center COMPLETE REPOSITORY
+%%center of
+%%center Original Scots Tunes
+%%center Strathspeys Jigs and Dances
+%%center (The Dances arranged as Medleys in their Respective Keys.)
+%%center for the
+%%center HARP
+%%center or
+%%center Piano-forte Violin and Violoncello &c.
+%%center Humbly Dedicated to Her Grace the
+%%center Dutchess of Buccleugh
+%%center by
+%%center NIEL GOW & SONS
+%%center Entered at Stationers Hall.
+%%center --------------------------------
+%%center Edinburgh.
+
+
+X: 2011
+T: Hei Tuti Teti
+%R: air, strathspey
+N: This is version 2, for ABC software that implements the crescendo symbols and voice overlays.
+B: Niel Gow & Sons "Complete Repository" v.2 p.1 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+U: p=!crescendo(!
+U: P=!crescendo)!
+U: Q=!diminuendo(!
+U: q=!diminuendo)!
+M: C
+L: 1/8
+Q: "VERY SLOW WITH EXPR.n"
+K: Bb
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+F2 F>D (F2 B)z | {A}G2 GF p.G(ABc)P | Q{Bc}d2 c>B ~B>cd>cq | (B<G) ~G>F F4 :| d2 ~d>c (d2 .f)z | c2 ~c>B c2 (de) |
+(f<d) ~c>B B>c {Bc}d>c | (B<G) ~G>F F4 | d2 d>c (d2 .f)z | c2 cB ~c>d(eg) | (f<d) c>B B>c {c}Hd>c | (B<G) ~G>F F4 |]
+% - - - - - - - - - -
+V: 2 clef=bass middle=d
+|:\
+B2b2 (B2d)z | e2 ed efga | b2f2 df ba | [g2e2] ed d4 & x2 B2B4 :| B2df (b2d')z | F2Ac f2bc' |
+[d2b2][c2f2] d>f ba | [g2e2][b2e2] [b4d4] | B2df (b2.d')z | F2f2 abc'e' | [d'2b2][c'2f2] df Hb>a | [g2e2][b2e2] [b4d4] |]
+
+
+X: 2012
+T: Honest Duncan, a Strathspey
+R: strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.1 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+Q: "SLOWISH"
+K: Bb	% and Gm
+% - - - - - - - - - -
+% Voice 1 formatted for compactness and proofreading.
+V: 1 staves=2
+dc |\
+B2.B,2.B,2 DE {DE}F2B,2B,2 dc | B2.B,2.B,2 DE {DE}F4 F2Fd |\
+B2B,2B,2B2 FB,3F3D | (.C2.C2) TE3F {EF}G4 G2dc |
+B2.B,2.B,2 DE (FE)DC B,2dc | B2.B,2.B,2 DE ~F4 F2dc |\
+B3FB2d2 B3F GF.E.D | (.C2.C2) E3F {EF}G4G2 |]
+dc |\
+.B3f (ed)(cB) F2B2D2B2 | B,3f (ed)(cB) g4- Tg2ab |\
+TB3cB2f2 {e}d3c B2B,2 | (.C2.C2) TE3F {F}G4 G2dc |
+B3f (ed)(cB) F2B2D2B2 | B,3f (ed)(cB) {EB}g6 ab |\
+(f2.b2) (d2.f2) (B2.d2) (D2B2) | (.C2.C2) TE3F G4 G2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the book's staff layout.
+V: 2 clef=bass middle=d
+z2 |\
+B4B2z2 B4B2z2 | B4B2z2 d4B4 | B4B4 B4B4 | A4 c2d2 e4 E4 | D4B2z2 B2B2 B4 |
+B4B2z2 d2f2B4 | B4B4 B4B4 | A4B4 e4e2 |] z2 | b4b4 b4b4 | d4B4 e4e4 | d4B4 B4B4 |
+A4B2d2 e4e2z2 | b4b4 b4b4 | d4B4 e4e4 | d4B4 B4B4 | A4B4 E4e2 |]
+
+
+X: 2021
+T: Johnny in the Nether Mains
+%R: march, reel
+N: This is version 2, for ABC software that implements crescendo symbols.
+B: Niel Gow & Sons "Complete Repository" v.2 p.2 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+U: Q=!diminuendo(!
+U: q=!diminuendo)!
+M: C
+L: 1/8
+Q: "SLOW"
+K: F
+% - - - - - - - - - -
+% Voice 1 formatted for compactness and proofreading.
+V: 1 staves=2
+C2 |\
+F4 ~F2A>c | (dc)(Ac) d2f2 | c2A2 {B}A2GF | (A2G2) F2D2 |\
+F4 ~F2Ac  | (dc)(Ac) d2e2 | Tf3g (fg)(ab) | a2Tg2 f3 :: c |
+Tf3g fedc | d2c2 {B}A4 | Tf3g (af)(ga) | ~d4 c2de |\
+(fd)(gf) (ec)(fe) | (dc)(Ac) Q(de)(fg)q | Ha3A (BA).G.F | A2TG2 [F3C3A,3] :|
+% - - - - - - - - - -
+% Voice 2 preserves the book's staff layout.
+V: 2 clef=bass middle=d
+z2 |\
+F2f2 F2f2 | F2f2 B2d2 | A2F2 B2=B2 | c2^c2 d2_B2 |\
+A2F2 f2F2 | B2f2 b2g2 | a2g2 f2b2 | c'2C2 f3 :: z |
+F2f2 F4 | (Bc)(de) f2F2 | a2f'2 a2f'2 | b2f'2 a2bc' | d'2=b2 c'2a2 | _b2f2 bc'd'e' | f'3^f gab=b | c'2c2 f3 |]
+
+
+X: 2022
+T: Saw ye Johnny Coming
+%R: march, reel
+N: This is version 2, for ABC software that understands voice overlays.
+B: Niel Gow & Sons "Complete Repository" v.2 p.2 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+Q: "SLOWISH"
+L: 1/16
+K: F
+% - - - - - - - - - -
+% Voice 1 formatted for compactness and proofreading.
+V: 1 staves=2
+z2 |\
+~F4G3A c2A2A2f2 | ~F4G3A .c2.A2z2 :: c2 | f3e d2c2 d2c2 A3c |
+~f3e d2c2 d2A2 z2e2 | f2e2 d2c2 d2e2 Hf3g/a/ | TF4G3A c2A2A2f2 | F4~G3A c2A2z2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the book's staff layout.
+V: 2 clef=bass middle=d
+z2 |\
+f4e4 f4f4 & fc'ac' ec'gc' fc'ac' fc'ac' |\
+f4e4 f4x2 & fc'ac' ec'gc' fc'ac' f2 :: z2 |\
+d'2c'2 b2a2 b2a2 c'2a2 & d'fc'f bfaf bfaf c'faf |
+d'2c'2 b2a2 b2c'2a2^c'2 & d'fc'f bfaf bfc'f af^c'f |\
+d'2=c'2 b2a2 b4 x4 & d'f=c'f bfaf bgc'b Ha2z2 |\
+z2f2e2c2 d4F4 | z2d'2c'2f2 .[c'2e2].[c'2f2]z2 :|
+
+
+X: 2023
+T: MacGriogair a Ruaro
+T: Lamentation for McGrigor of Roro
+%R: air, lament
+N: This is version 2, for ABC software that understands voice overlays.
+B: Niel Gow & Sons "Complete Repository" v.2 p.2 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/16
+Q: "VERY SHOW WITH MUCH EXPR.n"
+K: A
+% - - - - - - - - - -
+% Voice 1 formatted for compactness and proofreading.
+V: 1 staves=2
+E3F |\
+A4A4 TB2(AB) | (c4.E2)z2 E3F | A4 ~A4 {c}B2(AB) | (c4 .E4) (A,CE2) |\
+c4 ~c4 "_sf"e3c | B4 A4 F4 | E4 C3B,C2E2 | F4 A,2z2 TE3F |
+A4 A4 TB3(A/B/) | (c4 E4) ~E3F | A4 A4 TB3(A/B/) | (c4 .E4) (A,CE)A |\
+c4 ~c4 "_sf"{c}e3c | {c}B4 A4 A3F | (E4 C4) E3C | TB,4 A,4 |]
+% - - - - - - - - -
+% Voice 2 preserves the book's staff layout.
+V: 2 clef=bass middle=d
+z4 |\
+e12 & c4 A4 G4 | A4 a2z2 c2d2 | c4 A4 e4 | a4 A4 z4 |\
+A4 a4 g4 | f8 d4 | c4 A6 c2 | d4 c2z2 z4 & A8 x4 |
+(c'2e'2)(c'2a2)(e'2e2) | a4 A4 c2d2 | (c2e2)(c2A2)(e2E2) | A4 A4 z4 |\
+(A2.e2)(A2.e2)(G2.e2) | F4 f4 d4 | c4 A4 A4 | d4 c4 & E8 |]
+
+
+X: 2024
+T: the Original Highland Laddie
+T: the Quick Step of the Galland 42d Regiment
+%R: quick-step, polka
+B: Niel Gow & Sons "Complete Repository" v.2 p.2 #4 (and top of p.3)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/16
+Q: "SLOWISH"
+K: A
+% - - - - - - - - - -
+% Voice 1 formatted for compactness and proofreading.
+V: 1 staves=2
+E2 |\
+A3B(.c2.c2) | d2B2~c4 | c2B2B2 AB | c2B2B2 AF |\
+A3B (.c2.c2) | d2B2 ~c3B | A2F2~F2 EF | A2F2~F2 :|
+|: e2 |\
+(f2.a2) (e2.f2) | (dc).B.A {AB}c4 | c2B2B2 AB | c2B2 B3e |\
+f2a2 e2a2 | (dc)BA c3B | A2F2~F2 EF | A2F2~F2 :|\
+|: e2 |\
+Ta3b (.c'2.c'2) |
+d'2b2 c'4 | c'2b2~b2 ab | c'2b2~b2 af |\
+Ta3b(.c'2.c'2) | d'2b2 c'3b | a2f2~f2 ef | a2f2~f2 :|
+|: ag |\
+.f2.a2 e2a2 | (dc).B.A {AB}c4 | c2B2~B2 AB | c2B2 ~B3e |\
+f2a2 e2f2 | (dc).B.A c3B | A2F2~F2 EF | A2F2~F2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the book's staff layout.
+V: 2 clef=bass middle=d
+z2 |\
+A2e2 A2e2 | G2e2 A2e2 | E2e2 E2e2 | E2e2 E2d2 |\
+c2e2 A2e2 | G2e2 A2G2 | F2f2 F4 | D2d2D2 :|
+|: c'2 |\
+d'2.a2 c'2.a2 | e'2a2 e'2a2 | e2e'2 e4 | e2e'2 e3c |\
+d2A2c2A2 | a2A2 a3g | f2F2 F4 | D2d2D2 :|
+|: z2 |\
+ae'c'e' ae'c'e' | ge'be' ae'c'e' | ee'be' ee'be' | ee'be' ee'be' |\
+ae'c'e' ae'c'e' | ge'be' ae'ge' | fc'ac' f4 | dafa d2 :|
+|: z2 |\
+d'2b2 c'2a2 | e'2a2 e'2a2 | e2e'2 e4 | e2e'2 e4 |\
+d'2a2 c'2a2 | e'2a2 a3g | f2F2 F4 | D2d2D2 :|
+
+
+X: 2031
+T: Lord Aboyne
+%R: strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.3 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+Q: "SLOW"
+K: D
+% - - - - - - - - - -
+% Voice 1 formatted for compactness and proofreading.
+V: 1 staves=2
+DE |\
+F2 F>E F3 d | A2 {B}A>F [E2C2] D>E |\
+F2 F2 d2 F>E | (F4 B2) :| ~d>e |\
+f2 f>e d2 TB>A | A>BdF [E2C2] ~d>e |
+(dc) (BA) d2 TF>E | F4 B2 ~d>e |\
+[f2A2] [fA]>[eG] [d2F2] [BG]>[AF] | A>BdF [E2C2] !p!~d>e |\
+(dc) (B>A) d2 (TF>E) | F4 B2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the book's staff layout.
+V: 2 clef=bass middle=d
+z2 |\
+d2A2 D2d2 | f2d2 a2fa | d'2d2 b2c'2 | d'2B2 B2 :| z2 | d'3c' b2g2 | f2d2 a2z2 |
+D2d2 B2c2 | d2D2 G2z2 | d2d'2 d2g2 | fgfd a2z2 | d2d'2 b2c'2 | d'2d2 [g2d2] |]
+
+
+X: 2032
+T: McLauchlanes Scotish Measure
+N: Yes, it's "Scotish" with one 't'.
+%R: Scotch measure, reel, march
+B: Niel Gow & Sons "Complete Repository" v.2 p.3 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+Q: "SLOWISH"
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+TF>E |\
+D3F (TEDE).F | A2E2- E2F>E | D3F (TEDE).F | (AF).E.D ~d3e |
+Tf>edf ~edBe | (dB)(AF) TE3F | (DE)(FG) ABdA | F2D2 D2 :|
+|: Tf>e |\
+d2a2 (fg).a.f | {f}.b2e2- e2Tf>e | d2a2 fgab | (agfe) ~d3e |
+Tf>edf Te>dBe | dBAF TE3F | (DE).F.G (AB)dA | F2D2 D2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the book's staff layout.
+V: 2 clef=bass middle=d
+z2 |\
+D2d2 d2d2 | A2A2 A4 | D2d2 d2d2 | d4 f2a2 |\
+d'4 g4 | f2d2 a2g2 | f2d2 a2A2 d4 D2 :|
+|: z2 |\
+d2d'2 d2f2 | g2b2 a2c'2 | d'4 c'4 | d'4 f2a2 |\
+d'4 g4 |f2d2 a2g2 | f2d2 a2A2 | d4 D2 :|
+
+% %newpage
+% %vskip 3.2cm
+% %center --- 2039 spacer ---
+% %sep 1 1 500
+
+
+X: 2041
+T: Gin a body meet a body.   a Strathspey.
+%R: strathspey, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.4 #1
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+Q: "VERY SLOW"
+K: Bb
+% - - - - - - - - - -
+V: 1 staves=2
+B |\
+F<F F>d {d}c>Bcd | F<F ~G>F {F}B3 G |\
+F<F f>d (e/d/).c/.B/ cd | F<F ~G>F {F}B3 :|\
+(d/e/) |\
+f>dBd {d}c>B cd | f>dBd ({e}g3 a/b/) |
+f>de>c d>B cd | F<F ~G>F {F}B3 (d/e/) ||\
+f>dBd Tc>B c(d/e/) | (f/e/)(d/c/) Bd/f/ H[g3B3E3G,3] (a/b/) |\
+Tf>g (g/f/)(e/d/) gc Tc>d | F<F ~G>F {F}B3 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+d2B2 f2e2 | d2e2 d2B2 | d2B2 f2ab | d2e2 d2B :| z | B2b2 f2f2 | b2[b2d2] [b2e2][b2e2] |
+d>b c>a B>g f2 | d2e2 d2B2 || b2B2 f2ed/c/ | B2b2 H[e3E3]z | d2B2 e2f2 | d2e2 d2B |]
+
+
+X: 2042
+T: Miss Gibsons Jig
+%R: jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.4 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: Note the 3-bar phrases.
+M: 6/8
+L: 1/8
+Q: "SLOWISH"
+K: Bb
+% - - - - - - - - - -
+V: 1 staves=2
+F |\
+(D/E/F).F B2F | (G/A/B).G FDB, | D(.C.C) TC2E |\
+(D/E/F).F TB2g | fdB cAF | G(.B.B) TB2 :|
+|: f |\
+dBd fga | bfg fdB | (A/B/c).c Tc2e |\
+dBd fbg | fdB cAF | G(.B.B) TB2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+B3 B3 | e3 d3 | f3 F3 | B3 B3 | B3 F3 | B3 B2 :||: z |
+b3 b3 | b3 b3 | f3 f3 | b3 e3 | d3 f3 | B3 B2 :|
+
+
+X: 2043
+T: a Cold Frosty Morning
+%R: waltz
+B: Niel Gow & Sons "Complete Repository" v.2 p.4 #3
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+Q: "SLOW WITH EXPR.n"
+K: F
+% - - - - - - - - - -
+% Voice 1 reformatted for 3 8-bar lines, to match the phrasing and for easier proofreading.
+% (The book has only 2 staves, with compressed spacing that some formatting software won't accept.)
+V: 1 staves=2
+C2 |\
+C>D F2 F2 | ~F4 F2 | (GA)(BA)(GF) | {E2}D4 C2 |\
+~C>D F2 ~F2 | AB c2 f2 | {A}G3 FGA | [F4C4A,4] :|
+cd |\
+~_e3 gfe | {e2}d4 c2 | c2 d2 fg | (f2 d2) c>d |\
+(_ed)(eg)(fe) | d4 (d=e/f/) | c>dcA (GA) | (F2 D2) .C2 ||
+(_ede)gfe | (dc)(Ac)(df) | ~c>d cAGA | (F2 D2) .C2 |\
+!p!C>D F2 ~F2 | A>B c2 f2 | G3 FGA | [F4C4A,4] |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z2 |\
+F2 f2 F2 | a2 f2 a2 | ef g2 a2 | b2 B2 a2 |\
+ab a2 f2 | fg a2 b2 | c'2 c4 | [f4F4] :| z2 |\
+c'2 a2 f2 | b4 a2 | a2 b2 ag |
+(f2 b2) ab |\
+c'2 a2 f2 | b2 B2 b2 | a>b c'2 c2 | f2 B2 A>B ||\
+c4 F2 | B4 b2 | ab c'2 c2 | (f2 b2) a2 |\
+!p!a>b a2 f2 | f>g a2 b2 | c'2 c4 | [f4F4] |]
+
+
+X: 2044
+T: the Blue Ribbon Scotish Measure
+%R: march, reel, Scots measure
+B: Niel Gow & Sons "Complete Repository" v.2 p.4 #4 (and top 2 staves of p.5)
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+N: The 2nd strain has 3 16th-notes as the pickup; transcribed to match the (c/d/e) in bar 10.
+M: C
+L: 1/8
+Q: "SLOWISH"
+K: F
+% - - - - - - - - - -
+V: 1 staves=2
+cB |\
+A2F2 F2GA | {A}c2G2 G2cB | A2G>F F2ag | Tf4 c2fg ||\
+(ag)fd (fd)cA | {A}d2G2 G2cB | BAGF a2ga | Tf4 f2 :|
+|: (c/d/e) |\
+(fe).d.c defg | {fg}a2g2 g2(c/d/e) | (fe).d.c defc | {B2}A4 Tf3g ||\
+(ag).f.e (fd).c.A | {A}d2G2 G2cB | (BA)GF {F}a2ga | Tf4 f2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z2 |\
+F2f2 F2z2 | C2c2 C2z2 | F2f2 F2z2 | FAcf F2z2 ||\
+a2b2 a2f2 | b2=b2 c'2z2 | a2b2 c'2c2 | f4 F2 :|
+|: z2 |\
+[a4f8] b2ab | c'4 c2z2 | [f4A4] [f4B4] | FAcf F2z2 ||\
+a2b2 a2f2 | b2=b2 c'2z2 | a2_b2 c'2c2 | f4 F2 :|
+
+
+X: 2051
+T: Sweet is the Lass that dwells among Heather.   a Strathspey.
+%R: strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.5 #1 (top 2 staves continued from p.4)
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+Q: "SLOW"
+K: A
+% - - - - - - - - - -
+% Voice 1 reformatted for 3 4-bar lines, for compactness and proofreading.
+V: 1 staves=2
+E2 |\
+(CE3) TE3F (EC)EF A3c | e(cTBA) (TBABc) A2F2F2{G}A2 |\
+CE3 T[E3B,3]F (EC)EF A3c | e(cTB.A) (TBABc) [A4E4C4][A2E2C2] :|
+c2 | Td3e {de}f2ed ~c3d (fe)(dc) | TB3c (dc)(BA) B2F2F3c |\
+~d3e {de}f2ed ~c3d (fe)(dc) | e(cBA) (TBABc) A4 A2
+Bc |\
+~d3e {de}f2ed ~c3d (fe)(dc) | d(cB)A (TBABc) A2F2F2d2 |\
+(c2e2)(d2f2) e2fg Ha3c | e(cBA) (TBABc) [A4E4C4][A2E2C2] |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z2 |\
+A4a4 A4c2e2 | a4 g2a2 d4 d'4 | a4g4 a4c2e2 | c2d2 e2E2 A4 A2 :| z2 | b4 g4 a4 A4 | G2A2 B2c2
+d4 D2z2 |\
+b4g4 a4A4 | c2d2 e2E2 A4 A2z2 | B4g4 a4A4 | G2A2 B2c2 d4 D2z2 | A4B4 c2de Hf4 | e4E4 A4A2 |]
+
+
+X: 2052
+T: Joy gae wi my Love
+O: A very Old Highland Tune
+%R: jig, march
+B: Niel Gow & Sons "Complete Repository" v.2 p.5 #2
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+Q: "SLOWISH"
+K: A
+% - - - - - - - - - -
+V: 1 staves=2
+=g |\
+(g<f).A (Ae).A | (ed).B Bd=g | (g<f).A (Ae).A | (e<d)A (Ae).=g ||\
+(g<f).A (A<e).A | (ed).B Bd=g | (g<f).d (fe).B | d2A A2 :|
+|: =g |\
+Tf>=ga aeg | Tf>ed Bd=g | Tf>=ga aeg | Tf>=ga aAg ||\
+Tf>=ga aeg | Tf>ed Bd=g | (gf).d (fe).B | d2A A2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+[a3A3] [a3A3] | [b3B3] [b3B3] | [a3A3] [a3A3] | [a3A3] [a3A3] ||\
+[a3A3] [a3A3] | [b3B3] [b3B3] | [a3A3] [a3A3] | [a3A3] [a2A2] :|
+[K:A clef=treble]|: z |\
+[F3D3] [E3C3] | [F3D3] [=G3D3] | [F3D3] [E3C3] | [F3d3] [E3A,3] ||\
+[F3D3] [E3C3] | [F3D3] [=G3C3] [K:A clef=bass middle=d]| [a3A3] [a3A3] | [a3A3] [a2A2] :|
+
+
+X: 2053
+T: the Highlanders Farewell to Ireland.   a Strathspey.
+%R: strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.5 #3
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+N: Unnecessary natural signs ignored on some bass G notes.
+N: Using K:Ador will make the sharps on F notes unnecessary.
+M: C
+L: 1/8
+Q: "SLOWLY"
+K: Am
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+~A,3B, A,/A,/A, A,2 | {^F}G>E D>B, G,/G,/G, G,>G |\
+{^F}TE>DEG A>BAG | E<G {E}D>B, A,/A,/A, A,2 :|\
+Ta3b a/a/a a2 | Tg>age d/c/B/A/ Gg |
+{^f}e>d eg Ta>bag | eg d>B A/A/A A2 ||\
+Ta3b a/a/a a2 | gbeg d/c/B/A/ G>g |\
+{^f}Te>d eg Ta>bag | e<g d>B A/A/A A2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+A2A2 A2A2 | G2G2 G2G2 | A2A2 A2A2 | E2E2 A2A2 :| a2a2 a2a2 | g2g2 g2g2 |
+a2a2 a2a2 | e2e2 A2A2 || a2a2 a2a2 | b2c'2 g2g2 | a2a2 a2a2 | e2e2 A2A2 |]
+
+
+X: 2061
+T: Fingal's Cave.   a Strathspey.
+C: by John Gow.
+%R: air, strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.6 #_
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+Q: "SLOW"
+K: E
+% - - - - - - - - - -
+% Voice 1 reformatted for 5 4-bar lines, for readability and proofreading.
+% The book has 4 staffs, with very tight spacing of notes in parts of this tune.
+V: 1 staves=2
+B,2 |\
+TE3FG2G2 (FAG)F E3B, | TE3FG2B2 (cB)(AG) (FA)(GF) |\
+TE3F G2G2 (FA).G.F E3B, | TC3B, TC3B, C2E2E2 :|
+|: B2 |\
+e4- eBcd e4- egbg | (e4 g)ebg c'2f2 (fa).g.f |\
+e4- eBcd e4- efge | {c}a3g {g}fefd {d}Te4 E2 :|
+|: GF |\
+(EF).G.F (EG).B.e (cB).A.G (AG).F.E | (Ee)(Bc) (GB)(B,A) [G2E2][F2D2] [F4D4] |\
+.E(ed).c (BA)(GF) .G(cBA GFED) | (CE)(B,E) (CE)(B,E) C2E2[E2B,2G,2] :|
+B2 |\
+(ed)(ed) (eB)cd (ed)(ed) (eg)(bg) | e4 (3gfe (3bag c'2f2 fagf |\
+e2gf .e(Bcd) e4- efge | {c}a3g {g}fefd Te4 E2B2 |
+(ed)(ed) (eB)(cd) (ed)(ed) (eg)(bg) | (eB)(ge) (bg)(e'b) c'2f2 (fa)gf |\
+.e(ede) (ce)(Be) (ce)(df) (eg)(fa) | (gb)(ac') (bg)(fa) g2e2e2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z2 |\
+e4 e4 B4 e4 | g4 e2g2 a4 b4 |\
+g2b2 e2b2 d2b2 c2G2 | [A2e2][G2e2] [A2e2][G2e2] [A2e2]G2E2 :||: z2 | egbe' e2a2 gbe'b g3e |
+egbe' e2g2 a2c'2 b2d'2 | e'bgb e2a2 gbe'b g2e2 | c'2a2 b2B2 eBGB E2 :||: z2 | g2e2 b2g2 a2e2 c'bag | g2e2 e2d2
+efga bBba | g4 e4 .e(e'd'c' bagf) | [e2a2][e2g2] [e2a2][e2g2] [e2a2][e2g2] [E2e2] :|\
+z2 | e2e'2 e2e'2 e2e'2 e2e'2 | gbe'b e2g2 a2c'2 b2d'2 |
+e'2b2 g2af egbe' e4 | c'2a2 b2B2 zEGB e4 |\
+e2e'2 e2e'2 e2e'2 e2e'2 | e2e'2 e2g2 a2c'2 b2d'2 |\
+c'2b2 a2g2 a2f2 g2d2 | e2A2 B2[B,2B2] E2e2E2 |]
+% - - - - - - - - - -
+%%begintext align
+%% Bars 10,12 have parallel "voices" for the 2-note "chords", but this wasn't transcribed, because the
+%% written-out the chord notation is just as easy to read and is understood by the earliest ABC software.
+%%endtext
+
+
+X: 2062
+T: Auld wife ayont the Fire.   a Strathspey.
+%R: air, strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.6 #2
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+Q: "VERY SLOW"
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+d |\
+{c}B2~A>G T.FGA{B}c | {c}B2~A>G Gg g>d |\
+(cB) ~AB TF>GAc | (B<d) A>B {F}[G2D2B,2][GDB,] :| c |\
+TB>cde ~c>dcA | (Bcd)e de/f/ gd |
+TB>cde c>dcA | (B<d) TA>B {F}[G2D2B,2][GDB,]>c ||\
+TB>cde ~c>dcA | TB>c de/f/ (g/f/).g/.a/ g>d |\
+TB>cde ~c>d cA | (B<d) TA>B [G2D2B,2][GDB,] |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+g2fg d2f2 | g2d2 G4 | G2e^c d2f2 | g2d2 G2G :| z | gab2 a2f2 | gabc' b2g2 |
+gab^g a2f2 | g2d2 G2Gz || gab^g a2f2 | gabc' b2g2 | gab^g a2f2 | g2d2 G2G |]
+
+
+X: 2063
+T: Lassie I'll come near you.   a Strathspey.
+%R: air, strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.6 #3 (and top 2 staves of p.7)
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+Q: "VERY SLOW"
+K: Gm
+% - - - - - - - - - -
+% Voice 1 reformatted for 3 4-bar lines, to fit well with most ABC formatter.
+V: 1 staves=2
+D |\
+~G>A ~B>c A2FA | G2Tg>a g2d>=e | (3f>gf (3f>=ed (3c>BA F>D | (3G>AB (A/B/)(c/d/) TA2 G :|
+(d//=e//^f/) | gd (_e/d/c/d/) TA2F (d//=e//^f/) |\
+gG ga {ga}b2a>g | Tf>g fd c/B/A/G/ F>[AD] | TG>A B>c TA2 G (d//=e//^f/) ||
+gd (_e/d/c/d/) TA2G (d//=e//^f/) | gG ga {ga}b2 ag |\
+(3f>gf (3f>=ed (3cBA F>D | G,3z/A,/ B,3z/C/ | TA,4 G,3 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | g3=e f2f2 | b3a g3c' | a2b2 a2f2 | g2d2 G3 :| z | g2ab =f2fz |
+g3d g2ab | a3b ac'fz | g^f ge d2Gz || g2ab =f2fz | g3^f g2ab | [a2c'2][b2c'2] [f2c'2][ac']z | G4 D4 | d4 G3 |]
+
+
+X: 2071
+T: the Princess Royal
+%R: air, reel
+B: Niel Gow & Sons "Complete Repository" v.1 p.7 #1 (top 2 staves continued from p.6)
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+Q: "SLOWISH"
+K: Gm
+% - - - - - - - - - -
+V: 1 staves=2
+G/A/ |\
+B2AB G2dc | (Bc)(AB) G3~d | {d}e3d c2fe | (de)(cd) B4 || TB2gB TA2fA | (GA)(BG) D2dc | T(BA)(BG) (DG)(^FA) |
+G2[G2D2B,2] [G3D3B,3] :: d | (Tg^fg).a (Tg^fg).a | b2B2 B2ga | (ba~gf) (ed~cB) | (ABc).A F4 || B2AB c2Bc | d2~d2 g4 |
+f2~B2 e4 | d2~G2 c4 || (Bc)BA (GA)BG | (^FG)AF D2dc | (BA)BG (DG)(^FA) | G2[G2D2B,2] [G3D3B,3] :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+G2d2 g2^f2 | g2d2 B2G2 | c2B2 A2F2 | B2f2 b4 || [g4b4d'4] [f4c'4] | e4 d2^f2 | g2e2 d2D2 |
+G2g2 G3 :: z | g2g'2 g2g'2 | d'e'f'e' d'2e'2 | d'2d2 e2=e2 | f4 fgf_e || d2cB A2F2 | B2b2 e'2c'2 |
+d'4 c'2~a2 | b4 a2~^f2 || g4 e4 | d4 D2^f2 | g2e2 d2d2 | G2g2 G3 :|
+
+
+X: 2072
+T: Widow are ye waking
+O: Adapted for the Harp & Piano Forte.
+%R: air, march
+B: Niel Gow & Sons "Complete Repository" v.2 p.7 #2
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+N: The 1st 3 bass notes of the 2nd strain were transcribed as a triplet to fix the rhythm;
+N: They might have been meant as a 2:1:1 ratio. Play whichever you prefer; it's clearly a typo.
+M: C
+L: 1/16
+Q: "SLOW"
+K: Eb
+% - - - - - - - - - -
+% Voice 1 reformatted for 4 4-bar lines, to satisfy several formatting programs.
+V: 1 staves=2
+B,2 |\
+[E6B,6G,6]F2 ~G3FG2B2 | c4 [F3C4]G (G2F2) E2C2 | E6F2 (G2B2) ~F3G | TE8 B,8 ||
+~A6B2 .G3FG2B2 | c4 [F3C3]G (G2F2)E2C2 | E4 e3c (BG3)~F3G |[1 E8 B,6 :|[2 E8 B,8 |]
+|: ~e6f2 (e2f2)g2e2 | (f2e2)f2g2 {g}f4e2c2 | ~B3c~e3f (e2f2g2)f2 | {d2}e8 B4e2f2 ||
+(g2f2e2)c2 (e2c2B2)[G2=E2] | (A2G2)F2E2 {G}F4E2C2 | ~e3fe2c2 BG3~F3G |[1 E8 B,8 :|[2 E8 B,6 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z2 |
+E4e4 E8 | a4=a4 b4c'2_a2 | (g2a2)g2f2 e2z2 [d2B2]z2 | (GB)(eB) (ge)(Be) (EG)(Be) (Ee)(Dd) |
+C2c2d2B2 E8 | a4=a4 b4c'2_a2 | g2e2 c2A2 G2E2 A4 |[1 (GB)(eB) (ge)(Be) EGBe E2 :|[2 (GB)(eB) geBe (EG)(Be) EeDd |] |:\
+(3C2c2=B2 cdef g2a2_b2g2 | a4 f4 b4 g2a2 | g2a2g2f2 g2z2 [d2B2]z2 |
+gbe'b g'e'be' egbe' g2a2 || b2a2g2a2 b2d2e2c'2 | f2g2a2=a2 b4c'2_a2 | g2a2 g2a2 b4 b4 |\
+[1 (GB)(eB) (ge)(Be) (EG)Be (Ee)(Dd) :|[2 (GB)(eB) (ge)(Be) (EG)(Be) E2 |]
+
+
+X: 2081
+T: Kitty Tyrrel
+O: Irish
+%R: air, waltz
+B: Niel Gow & Sons "Complete Repository" v.2 p.8 #1
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+M: 3/4
+L: 1/8
+Q: "SLOW"
+K: Eb
+% - - - - - - - - - -
+V: 1 staves=2
+E>C |\
+(B,2 C2) E2 | ~E4 EF | (G2 e2) d2 | {d}c4 (de) ||\
+(cB) (AG) (FE) | E4 EF | ~G2 (AG)(FE) | C4 E>C ||\
+B,2 C2 E2 | E4 EF | (G2 e2) d2 | {d}c4 (de) ||
+(cB) (AG) (FE) | (E2 C2) (E/F/G) | {G}F2 E2 E2 | [E4B,4G,4] :: (B/c/d) |\
+(e2 d2) e2 | c2 d2 e2 | f2 (ed) Tc>B | B4 (B/c/d) ||\
+(e2 d2) e2 | B2 (cB) (AG) |
+G2 (3(EFG) (3(GFE) | C4 E>C ||\
+(B,2 C2) E2 | TE4 EF | (G2 e2) d2 | {d2}c4 (de) ||\
+(cB) (AG) (~F>E) | E2 C2 (E/F/G) | {G}F2 E2 E2 | [E4B,4G,4] :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z2 |\
+E2 e4 | g2 e2 ga | b4 b2 | a2 A2 z2 ||\
+e2 e2 e2 | g2 e2 ga | b2 c'bag | a2A2 z2 ||\
+E2 e2 e2 | g2 e2 z2 | e2 c'2 b2 | a2 A2 z2 ||
+e4 e2 | a2 A2 GA | B2 e2 E2 | [e4E4] :: z2 |\
+(e2 f2 g2 | a2) .A2 z2 | (f2 g2 =a2 | b2) .B2 _a2 ||\
+g2 f2 e2 | g2 ag fe |
+e4 z2 | A2 a2 z2 ||\
+E2 e4 | e4 ga | b4 =b2 | c'2 c2 a2 ||\
+g2 e2 e2 | a2 A2 GA | B2 e2 E2 | [e4E4] :|
+
+
+X: 2082
+T: the Royal Recovery.   a Strathspey.
+%R: strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.8 #2
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+Q: "SLOW"
+K: A
+% - - - - - - - - - -
+V: 1 staves=2
+[|\
+TA,>B, TC>D TE>FEC | A,>CE>C EA-A>c | A,>B, C>D E>F (F/E/).D/.C/ | B,B/c/ (d/c/)B/A/ GB-B>c || TA,>B, TC>D TE>FEC |
+TA,>C EC EA-A c/d/ | {cd}e>c AE (Fd) Tf>e | d>c {c}B>A GB-B |]| c | A<A {AB}c>A eAcA | E>A c>A (f/e/)d/c/ TB>c | (.A.A) cA eAcA |
+(F3/G//A//) (F/E/).D/.C/ .B,BTB>c || A<A {AB}c>A eAcA | ~E>AcA (f/e/).d/.c/ B>c | !p!~A>cAE ~F>AFD | {F}E>D {D}C>B, A,A-Ac |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+[|\
+A2A2 A2A2 | A2A2 a2A2 | AG AB c2A2 | dc B>^d e2E2 || AG AB cdc2 |
+A2A2 c2Az | a2c2 d3c | Bc d^d e2E |]| z | A2a2 A2a2 | c2A2 d2e2 | c2A2 a2A2 |
+d2cA G2E2 || A2a2 A2a2 | c2A2 d2e2 | !p!c2c2 d2d2 | cd eE A2A2 |]
+
+
+X: 2083
+T: New Market, or John Paterson's Mare goes Foremost.
+%R: jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.8 #3 (continued on p.9)
+Z: 2022 John Chambers <jc:trillian.mit.edu>
+N: The !segno! symbols don't make much sense, with the D.C. in the last measure and a missing 8th note.
+N: This implies that the 2 pickup notes should be played to repeat the 1st strain.
+N: So you should probably delete the !segno! symbols entirely.
+N: Note that double thin bars have been added every 4 measures; this is for proofreading,
+N: but they'd also be useful for musicians, so you might want to leave them as double bars.
+M: 6/8
+L: 1/16
+Q: "BRISK"
+P: In Imitation of a Horse Race.
+K: F
+% - - - - - - - - - -
+% Voice 1 reformatted for _ _-bar lines, for compactness and proofreading.
+V: 1 staves=2
+cB !segno!|\
+A2F2A2 f4c2 | A2F2A2 f4c2 | A2F2A2 f2c2B2 | TA6 F4A2 ||\
+G2B2G2 g4d2 | B2G2B2 g4d2 | B2G2B2 g2d2c2 | TB6 G4cB || A2F2A2 f4c2 | A2F2A2 f4c2 |
+% 2
+A2F2A2 f2c2B2 | A6 F2G2A2 || "_exp.ro"TB3AB2 Tc3Bc2 | Td3Bd2 Te3de2 | f3ed2 g2d2c2 | TB6 "_Fine."G4 |]\
+c2 | .A.B.c2.F2 .A.B.c2.F2 | ABc2F2 ABc2F2 | ABc2F2 f2c2B2 |
+% 3
+TA6 F4c2 || Bcd2G2 Bcd2G2 | Bcd2G2 Bcd2G2 | Bcd2G2 g2d2c2 | TB6 G4B2 ||\
+.A.B.c2.F2 ABc2F2 | ABc2F2 ABc2F2 | ABc2F2 f2c2B2 | TA6 F2G2A2 ||
+% 4
+TB3AB2 Tc3Bc2 | Td3Bd2 Te3de2 | f3ed2 g2d2c2 | TB6 G4 |]\
+c2 | A2F2A2 f4c2 | .f.g.a.g.f.e f4c2 | .f.g.a.g.f.e f2c2d2 | ~A6 F4A2 ||
+% 5
+B2G2B2 g4d2 | .=e.f.g.f.e.d g4d2 | .=e.f.g.f.e.d g2d2c2 | TB6 G4c2 ||\
+A2F2A2 f4c2 | .f.g.a.g.f.e Tf4c2 | .f.g.a.g.f.e f2c2f2 | ~A6 F2G2A2 ||
+% 6
+"_exp.ro"TB3AB2 Tc3Bc2 | Td3Bd2 Te3de2 | f3ed2 g2d2c2 | TB6 G4 |] c2 |\
+.f.g.a.g.f.e .f.g.a.g.f.e | fgagfe fgagfe | fgagfe f2c2d2 |
+% 7
+TA6 F2d4 || ga_bag^f gabagf | ga_bag^f gabagf | ga_bag^f g2d2c2 | TB6 G4c2 || fgagfe fgagfe |
+% 8
+fgagfe fgagfe | fgagfe f2c2f2 | TA6 F2G2A2 ||\
+"_exp.ro"TB3AB2 Tc3Bc2 | Td3Bd2 Te3de2 | f3ed2 g2d2c2 | TB6 G4 !segno!|]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z2 !segno!|\
+[f6F6][f6F6] | [f6F6][f6F6] | [f6F6][f6F6] | [f6F6][f6F6] ||\
+[g6G6][g6G6] | [g6G6][g6G6] | [g6G6][g6G6] | [g6G6][g6G6] || [f6F6][f6F6] | [f6F6][f6F6] |
+[f6F6][f6F6] | [f6F6][f6F6] || "^exp.ro"[g6G6][a6A6] | [b6B6][c'6c6] | [d'6d6][d'6d6] |
+[g6G6]"^Fine."[g4G4] |] z2 | [f6F6][f6F6] | [f6F6][f6F6] | [f6F6][f6F6] |
+[f6F6][f6F6] || [g6G6][g6G6] | [g6G6][g6G6] | [g6G6][g6G6] | [g6G6][g6G6] ||
+"^g?"[f6F6][f6F6] | [f6F6][f6F6] | [f6F6][f6F6] | [f6F6][f6F6] ||
+[g6G6][a6A6] | [b6B6][c'6c6] | [d'6d6][d'6d6] | [g6G6][g4G4] |] z2 |\
+[f6F6][f6F6] | [f6F6][f6F6] | [f6F6][f6F6] | [f6F6][f6F6] ||
+[g6G6][g6G6] | [g6G6][g6G6] | [g6G6][g6G6] | [g6G6][g6G6] ||\
+[f6F6][f6F6] | [f6F6][f6F6] | [f6F6][f6F6] | [f6F6][f6F6] ||
+"^exp.ro"[g6G6][a6A6] | [b6B6][c'6c6] | [d'6d6][d'6d6] |  [g6G6][g4G4] |] z2 |\
+[f6F6][f6F6] | [f6F6][f6F6] | [f6F6][f6F6] |
+[f6F6][f6F6] || [g6G6][g6G6] | [g6G6][g6G6] | [g6G6][g6G6] | [g6G6][g6G6] || [f6F6][f6F6] |
+[f6F6][f6F6] | [f6F6][f6F6] | [f6F6][f6F6] ||\
+"exp.ro"[g6G6][a6A6] | [b6B6][c'6c6] | [d'6d6][d'6d6] | [g6G6]"D.C.al Signo."[g4G4] |]
+
+% Page 9 is a continuation of New Market jig on p.9.
+
+
+X: 2101
+T: Coolun
+O: Irish
+%R: air, strathspey, reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.10 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: V:2 has no repeats; copied from V:1.
+M: 3/4
+L: 1/8
+Q: "SLOW"
+K: D
+% - - - - - - - - - -
+V: 1 staves=2 clef=treble
+(3ABc) |\
+d2 ~d>f (f/e/).d/.c/ | ~d2 A2 (3DFA | d2 (de/f/) {f}e>d | (d2 c)z ~d>c |\
+~B2- Bc/d/ (e/d/)(c/B/) | A2 (FA)(d>A) | (c/B/).A/.G/ F2 TE2 | [D4A,4F,4] :|
+|: A>G |\
+~F>E(DE)(FG) | A>^G ABcA | ~d>c (de/f/) {f}e>d | (d2 c2) d>c |\
+~B2 (B/c/d/c/) (e/d/)(c/B/) | A2 (FA)d>A | (c/B/)(A/G/) F2 TE2 | [D4A,4F,4] :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z2 |\
+d4 A2 | D2 d2 z2 | d2 b2 ^g2 | a4 f2 |\
+g2 G2 z2 | f2 d2 F2 | g2 A2 A2 | [d4D4] :|
+|: z2 |\
+[d4a4] [d2a2] | [c4a4] [c2a2] | [B4^g4] [B2g2] | a2 A2 f2 |\
+g2 G2 z2 | f2 d2 F2 | G2 A2 A2 | D4 :|
+
+
+X: 2102
+T: Isle of Sky.   Scotish Measure.
+%R: reel, march, Scotch measure
+B: Niel Gow & Sons "Complete Repository" v.2 p.10 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+Q: "SLOWISH"
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+dB |\
+A2D2 (GF).E.D | A2D2 (GF).E.D |  B2E2 (EF).G.A | B2E2 (EFG)A ||\
+A2GF d2cB | {B}A2GF TE2DE | FE.D.B, (A,B,).D.E | F2D2 D2 :|
+ag |\
+f2d2 (fg)ag | f2d2 (fg)af | g2e2 (ef)ga | b2e2 e2ag ||\
+f2d2 fgag | f2d2 fgag | (fg)ab afeg | f2d2- d2 |]
+de |\
+f2df {f}e2Be | d2Ad B2FA | (BE)(dE) (EF)(GA) | (BE)(dE) .E(cde) ||\
+.f2df .e2Be | d2Ad B2FB | A2A,2 (A,B,).D.E | {DE}F2D2 D2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z2 |\
+D2d2 D4 | D2d2 D4 | [e4E4] [e4E4] | [e4E4] [e4E4] ||\
+[d4D4] [d4D4] | [A4A,4] [B4B,4] | F2G2 A2A2 | D2d2 D2 :| z2 |
+d4 d'4 | d4 d'4 | e4 e'4| e4 e'4 || d4 d'4 | d4 d'4 | f2g2 a2A2 | d4 D2 |] z2 |
+d'4 c'4 | b4 f4 | [e4E4] [e4E4] | [e4E4] [a4A4] || d4 c4 | B4 G4 | F4 A4 | D2d2 D2 |]
+
+
+X: 2103
+T: He's Dear to me tho' he's far frae me.
+%R: air
+N: This is version 2, for ABC software that understands voice overlays.
+B: Niel Gow & Sons "Complete Repository" v.2 p.10 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+Q: "VERY SLOW"
+K: F
+% - - - - - - - - - -
+V: 1 staves=2 clef=treble
+TF/>G/ |\
+{F}A2 (A/G/F/G/) ~F2GA | x4 {A}G2TF>G & f>dcA E2x2 |\
+{F}A>B (A/G/F/G/) F2GA | c>df>e {e}d2c :|\
+A |\
+B>AB>c d>cf>d | c2BA {A}G2F>G |
+A2 (A/G/F/G/) ~F2GA | (cd)(f>e) {e}d2c A ||\
+(TB>A)(Bc) dcfd | {d}c2BA {A2}G2 TF>G & x2GF x4 |\
+A>B (A/G/F/G/) ~F2GA | (cd)f>e {e}d2c |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+f2c2 d2ef | a>baf c'2ab | c'2c2 d2ef | a4 b2[af] :| z | g3a bad'>b | a2f2 c'2z2 |
+f2c2 d2ef | a4 b2[af]z || c'8 & gfga b2ab | a2ef c'2!p!ab | c'2c2 d2ef | a3a b2[af] |]
+
+
+X: 2111
+T: Hey Jenny come down to Jock
+%R: air, jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.11 #1
+N: This is version 2, for ABC software that understands crescendo symbols.
+U: p=!crescendo(!
+U: P=!crescendo)!
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+Q: "SLOWISH"
+K: F	% and Dm
+% - - - - - - - - - -
+% Voice 1 reformatted for 2 8-bar lines.
+V: 1 staves=2 clef=treble
+f |\
+F2F GAc | d>cA G2f | F2F GAc | ~d>^cd D2f ||\
+F2F GAc | d>cA G2f | F2F GAc | ~d>^cd D2 |]
+d/e/ |\
+p(fe).d (gf).e P| fed cde | pf>edP "_sf"g>fe | a>^ga d2!p!d/e/ ||\
+(fe).d (gf).e | fed cde | Hfg{f/g/}Ha cA>F | [G2E2][A^C] [D2A,2F,2] |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+f2F c2A | B3 c3 | agf e3 | d2A D2z ||\
+f2F c2A | B3 c3 | agf e3 | d2A D2 |] z |
+p(DE).F (EF).G P| A2=B c2^c | pdefP "_sf"g3 | a2A d2!p!z ||\
+def efg | a2=b c'2_b | Ha3 f3 | e2A [d2D2] |]
+
+
+X: 2112
+T: Old Dumbarton Drum's Scotish Measure
+%R: air, Scots measure, march
+N: This is version 2, for ABC software that understands diminuendo symbols.
+U: Q=!diminuendo(!
+U: q=!diminuendo)!
+B: Niel Gow & Sons "Complete Repository" v.2 p.11 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: The unneeded flats before some B notes are "not even wrong", and transcribed as published.
+M: C
+L: 1/8
+Q: "SLOWISH"
+K: F	% and Dm
+% - - - - - - - - - -
+% Voice 1 reformatted slightly for 2 8-bar lines, for phrasing and proofreading.
+V: 1 staves=2
+c>B |\
+A3B (ABG)A | F2c2 ~c2BA | (TGF).G.A (BA)(GF) | D2d2 d2cB ||\
+A3B (Ac)(GA) | F2c2 ~c2BA | (GB)Ac (BG)(AF) | D2d2 d2 :|
+|:\
+(c/d/e) |\
+Tf3g fg(ag) | .f2.d2 .c2A2 | Tf3g (fg).a.g | ~f2 d4 (f>g) ||\
+(ag).f.a {a}g2fe | (df).e.g (gf).e.d | Q(dc)(BA) AGFE | D2qd2 d2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+e2 |\
+f4 f2c2 | A4 F2f2 | e2f2 g2a2 | d4 e4 ||\
+f4 f2c2 | A4 F4 | G4 A2A2 | D2d2 D2 :||: z2 |
+f2f'2 f2f'2 | a2_b2 a2f2 | f2e2 d2aA | d2A2 D2d2 ||\
+f4 c'2^c'2 | d'2_b2 a2b2 | Qa4 A4 | d2qD2 D2 :|
+
+
+X: 2113
+T: Ailen a Roon
+O: Irish
+%R: air, waltz
+B: Niel Gow & Sons "Complete Repository" v.2 p.11 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: The bass notation in bar 5 is a bit odd; it's transcribed similarly to bar 1, to make sense in modern notation.
+M: 3/4
+L: 1/8
+Q: "SLOW"
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+(A2B2).c2 | ~d3e{e}f2 | A2.B2~.c2 | d6 || A2 B2 c2 | d3e{de}f2 | (A2B2)c2 | d6 :: gf(ga)(ga) | (g2B2)B2 |
+Tfe(fg)(fe) | .d2(B2A2) || Tgfgag2 | Tfefgf2 | ~ed(eg)(fe) | (d2B2).A2 || Ha3gfe | ~d3e{de}f2 | (A2B2)c2 | [d6A6F6] :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+f2g2e2 | f2a2d'2 | f2g2c2 | d6 || [f2d2]g2[a2e2] | f2a2d'2 | f2g2e2 | d2D2z2 :: e'4b2 | efg2e2 |
+d'4a2 | f2g2f2 || e4c'2 | d4d'2 | a6 | f2g2d2 || Tf3edA | F2A2d2 | f2g2e2 | d2D2z2 :|
+
+
+X: 2114
+T: Auld Springs (Tunes) gees nae Price
+%R: march, strathspey
+N: This is version 2, for ABC software that understands voice overlays.
+B: Niel Gow & Sons "Complete Repository" v.2 p.11 #4
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: The sustained G bass in bars 7,9 might also be in bar 8; the PDF image is a bit fuzzy there (and in bars 9,11).
+N: The ABC1 version may be slightly more readable in bass bars 7,9, but this is closer to the book's 2-voice notation.
+M: C
+L: 1/8
+Q: "SLOW"
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+G2 {G}g>e (e/d/)c/B/ d2 | GA/B/ gB TA>GAB | G2 {f}g>e e/d/c/B/ d2 | (g3/a//b//) ag Te>deg :| (gb)(eg) de {c}TB2 | de/f/ gB TA>GAB |
+gbeg de{c}TB2 | de/f/ gd Te>deg || (gb)(eg) de/d/ (c<B) | de/f/ gB TA>GAB | G2 {G}g>e (e/d/)c/B/ d2 | (g3/a//b//) ag Te>deg |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+G2G2 G2G2 | G2g2 d2D2 | G2g2 G2G2 | G2B2 c2G2 :| b2c'2 bc'g2 | g2G2 d2D2 |
+b2c'2 x4 & g4 bc'g2 | b2g2 c'2c2 || b2c'2 x4 & g4 bc'g2 | b2g2 d'2d2 | G2Bc B2G2 | b2g2 c'2g2 |]
+
+
+X: 2121
+T: the Maid that tends the Goats
+O: Supposed very ancient
+%R: air, strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.12 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+Q: "SLOW"
+K: Am
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+(.E<.E) (.A<.A) c>[EC] [D2B,2] | [EC][EC] ~c>d TB>A Bd | e<e d>e GA c2 | d>B {B}e>d TB>A [A2E2C2] :: (g<e) ~e>d cd E2 |
+c<c d<d g>e e>d | eA cG TE>D [D2B,2] | E<E c>d TB>A Bd | (.e<.e) d>e G>A c2 | d>B {B}e>d TB>A [A2E2C2] :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+A2A2 ceg2 | a2[^f2A2] g2A2 | c2Bc G2c2 | d2e2 E2A2 :: c2c'2 c2c'2 |
+e2g2 c'3b | a3b c'>gg2 | c2a^f g2=f2 | ec Bc A2c2 | d2e2 E2A2 :|
+
+
+X: 2122
+T: the Humours of Glen
+O: Supposed Irish
+%R: air, jig, waltz
+B: Niel Gow & Sons "Complete Repository" v.2 p.12 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/16
+Q: "SLOWISH"
+K: Am
+% - - - - - - - - - -
+V: 1 staves=2
+E2 |\
+A2(cB)A^G A2E2E2 | (E2c2)B2 c2E2E2 | A2(cB.A).^G A2E2c2 | (D2E2).^G2 A4E2 ||\
+(A2cBA)^G A2E2E2 | E2c2TB2 c2E2E2 |
+~F2GFED ~E2FEDC | (D2E2).G2 [A4E4C4] :: !f!cA |\
+GAc2c2 Tc4ed | (cB)(cd)(ef) (g2e2.c2) | ~f2gfed e2c2A2 | (G2E2).^G2 [A4E4C4] :: cA |
+G2E2E2 c2E2E2 | G2E2E2 A2B2.c2 | G2E2.c2 (AG)(FE)(DC) | (D2E2).^G2 A4cA ||\
+(G2E2).E2 (A2F2).F2 | G2E2c2 (AG)(FE)(DC) | ~f2gfed e2c2A2 | (G2E2).^G2 [A4E4C4] :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z2 |\
+A2e2E2 A4z2 | c2e2E2 A4z2 | A2e2E2 A4e2 | (f2e2).E2 A6 ||\
+A2e2E2 A4B2 | cde2E2 A4^c2 |
+d2"_sf"B4 c2"_sf"A4 | B4E2 A4 :: z2 |\
+C2c2c2 C2c2z2 | C2c2c2 C2c2z2 | d4B2 c4f2 | e4E2 A4 :: z2 |
+c2c'2c'2 c2c'2c'2 | e2c'2c'2 f2c'2c'2 | c2c'2c'2 c6 | (f2e2)E2 A4z2 ||\
+E4c2 F4c2 | E4c2 C6 | d2B4 c4f2 | e4E2 A4 :|
+
+
+X: 2123
+T: He's aye Kissing me.
+%R: air, march
+N: This is version 2, for ABC software that understands voice overlays.
+B: Niel Gow & Sons "Complete Repository" v.2 p.12 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/8
+Q: "SLOWISH"
+K: D
+% - - - - - - - - - -
+V: 1 staves=2 clef=treble
+D |\
+([A2F2] [B2G2]) | ([AF]D)Dd | AF TE>D | [E3C3] D |\
+(F.A) (G.B) |A>F Dd/B/ | AF TE>F | D3 :: B/c/ |\
+{c}d>c BA | TB>A F>c |
+(dc) BA | (B2 F)c |\
+.d.c .B.A | B>c Hd>B | .A.F.G.E | D2 (D/E/F/G/) ||\
+!p!([A2F2] [B2G2]) | A>F Dd | AF TED | [E3C3] D |\
+(FA) (.[AE].[AE]) | [AF][ge] HT[fd]>e | {c}d>B AF | D3 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+D2 d2 | D3 f | dfg^g | a2 Az |\
+d2 g2 | f3 g | a2 A2 | [a2f2] D & d2 x :: z |\
+b>a g>f & d4 | g>f x2 & d2 d2 |
+ba gf & d4  | g2 f^a & d4 |\
+b=a gf & d4 | ge Hf>g | a2 A2 | d4 ||\
+D2 d2 | D3 f | d2 g^g | a2 Az |\
+d2 c2 | dc Hd>g | fg aA | [a2f2] D & d2 x :|
+
+%%sep 1 1 400
+%%begintext align
+%% The following are a choice Collection of the best original Scotch Dances, arranged as Medleys ___ A
+%% Strathspey (or Jig) and Reel following alternately in their respective Keys __  as the frequent changing the
+%% Key, more or less has been found to offend the Ear.
+%%endtext
+%%begintext align
+%% The Publishers thought it proper to keep the Slow Tunes by themselves that they might not interrupt the Medley.
+%%endtext
+%%sep 1 1 400
+
+
+X: 2131
+T: Niel Gows Wife.   a Strathspey.
+%R: strathspey, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.13 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Gm
+% - - - - - - - - - -
+V: 1 staves=2
+d |\
+B<G TG>B A<FTF>A | B<GTG>A (TBAB)<g | B<GTG>B A<FTF>A | B<BTc>B FBB :| d | B<BdB f<BdB | F<FA>F c>FA>c |
+B<Bd>B f>Bd<f | g<g{ga}bg dgga/b/ || f<dTd>f e<cTc>e | d<BB>d (TBAB).F | G<GB<B cc{Bc}dc | B<G {B}A.G/.^F/ DG-G |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+[g2G2][g2G2] [f2F2][f2F2] | [g2G2][g2G2] [g2G2][g2G2] |\
+[g2G2][g2G2] [f2F2][e2E2] | [d2D2][f2F2] [B2B,2][BB,] :| z |\
+[b2B2][b2B2] [b2B2][b2B2] | [f2F2][f2F2] [f2F2][f2F2] |
+[b2B2][b2B2] [b2B2][b2B2] | [e'2e2][d'2d2] [g2G2][g2G2] ||\
+[d'2d2][b2B2] [c'2c2][a2A2] | [b2B2][g2G2] [f2F2][f2F2] |\
+[g2G2][g2G2] [e2E2][d2D2]  | [d2D2][d2D2] [g2G2][gG] |]
+
+
+X: 2132
+T: John Cheap the Chapman,   a Reel.
+C: by Nath. Gow
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.13 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Gm
+% - - - - - - - - - -
+V: 1 staves=2
+A !segno!|\
+G2(.d.G) BGBg | G2(.d.B) AFFA | G2(.d.G) TB>cdB | Afcf AFF :| A | Ggg>B TB>cdB | Ggg>B AFFA |
+Gg-g>d TBcdB | Acfc AFFA || Gg-g>d TB>cdB | Gg-g>B AFFA | Ggbg ^fdg=e | =fcdB AFcA !segno!|]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z !segno!|\
+g2g2 g2g2 | g2g2 f2f2 | g2g2 g2g2 | f2c2 [f2F2][fF] :| z | g2g2 g2g2 | g2g2 f2f2 |
+g2g2 g2g2 | f2c2 F2F2 || g2g2 g2g2 | g2g2 f2f2 | g2g2 a2b2 | c'2d'2 f2f2 !segno!|]
+
+
+X: 2133
+T: the Craig of Barns.   a Strathspey.
+%R: strathspey, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.13 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Gm
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+(d2c)>A G<G TG>G | c<F c>A c<F Ac | {A}d2 {d}c>A G<G TG>A | c>F Tc>A {A}G2G :| A | F>Acd c<ATc2 | d=efa {a}g>f d>e |
+f<a d<f ~F>GAc | d<F {d}c>A {A}G2GA || F>Acd c<ATc2 | d=efa {a}g>f d>e | f<a d<f ~F>GAc | d<f {d}c>A {A}G2G |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+g2g2 g2g2 | f2f2 f2f2 | g2g2 g2g2 | f2f2 g2g :| z | f2f2 f2f2 | g2g2 a2b2 |
+a2b2 f2f2 | d2d2 G2G2 || f2f2 f2f2 | g2g2 a2b2 | a2b2 f2f2 | d2d2 G2G |]
+
+%%begintext align
+%% N.B. The Octave of the Bass may be taken throughout the Medleys as in the first Tune.
+%%endtext
+% %sep 1 1 500
+%%vskip 0.5cm
+
+
+X: 2141
+T: Sir John Lockhart Ross's Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.14 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Gm
+% - - - - - - - - - -
+V: 1 staves=2
+D |\
+(GAB)c (B/c/d) TcB | AfcB AFcA |\
+GABc (B/c/d) Tc>B | AFc>A G/G/G G :|\
+A |\
+Gg-ga (g/a/b) .a.g | Tf=efg afcf |
+Tdcdg bagf | cAfA G/G/G GA ||\
+Ggga (g/a/b) ag | Tf=ef.g afcf |\
+(b/a/g) (a/g/^f) (g/=f/=e) fd | c<Af>A G/G/G G |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+[g2G2][g2G2] [g2G2][g2G2] | [f2F2][f2F2] [f2F2][f2F2] |\
+[g2G2][g2G2] [g2G2][g2G2] | [d2D2][^f2^F2] [g2G2][gG] :|\
+z |\
+[g2G2][g2G2] [g2G2][g2G2] | [f2F2][f2F2] [f2F2][f2F2] |
+[g2G2][g2G2] [b2B2][d'2d2] | [d'2d2][d'2d2] [g2G2][g2G2] ||\
+[g2G2][g2G2] [g2G2][g2G2] | [f2F2][f2F2] [f2F2][f2F2] |\
+[g2G2][a2A2] [b2B2][b2B2] | [d'2d2][d'2d2] [g2G2][gG] |]
+
+
+X: 2142
+T: My Mither's aye glowren o'er me. a Jig.
+%R: jig, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.14 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: The {g} grace note in bar 1 has a sharp in the book, an obvious error not repeated in later measures.
+N: (But you can play it that way if you like, and most people might not notice.)
+M: 6/8
+L: 1/8
+K: Gm
+% - - - - - - - - - -
+% Voice 1 reformatted for 3 8-bar lines, for readability and proofreading.
+V: 1 staves=2
+D |\
+GAG {G}^F2D | BcB ABc | d>ed {d}Tc2B | Tf3 d2g |\
+fdB Bfd | Tc>AF Fdc | .B>AG AFD | B3 A2 :|
+e |\
+g>ag {g}^f2d | .g>ab a2g | fdb {d}c2B | Tf3 g>ab |\
+fdB Bfd | TcAF F>dc | TB>AG A>FD | TB3 A2d ||
+g>ag {g}^f2d | .g>ab a2g | fdb {d}c2B | Tf3 g>ab |\
+fdB Bfd | TcAF Fdc | B>AG AFD | TB3 A2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+g3 d3 | g3 a3 | b3 c'3 | d'3 e'3 |\
+d'3 b3 | f3 f3 | g3 d3 | G3 d2 :| z |\
+G3 A3 | B3 c3 | d3 e3 |
+d3 e3 | d3 B3 | f3 F3 | g3 d3 | G3 d3 ||\
+G3 A3 | B3 c3 | d3 e3 | d3 e3 |\
+d3 B3 | f3 F3 | g3 d3 | G3 d2 |]
+
+
+X: 2143
+T: Lady Wallace.   a Reel.
+C: by R. Mackintosh
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.14 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: Several of the slurs have ambiguous endings, so play them as you like.
+N: The slurs transcribed here may not be what was intended.
+N: The final G notes in the bass part's strains are converted to 8th-notes, to match the melody's endings.
+M: C
+L: 1/8
+K: Gm
+% - - - - - - - - - -
+V: 1 staves=2
+d | (B/A/)G (.G,.GB,)G G,d | cfdB AFfc | B/A/G (.G,.GB,)G G,d | cD (d/c/B/A/) BGG :| g | (b/a/g) (.G.d) gdbg | afTc>B AFaf |
+T(g^fg).d Bdgb | a^fdf g/g/g Tg>a || bgda gecg | fBgB AFfc | .d(TBAG) .e(TcBA) | dD (d/c/B/A/) BGG |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+[g2G2]G2 G2G2 | [f2F2]F2 F2F2 | G2G2 G2G2 | D2D2 G2G :| z | [g2G2]g2 g2g2 | f2f2 f2f2 |
+g2g2 g2e2 | d2d2 G2G2 || g2f2 e2e2 | d2e2 f2f2 | g2B2 c2c2 | d2d2 G2G |]
+
+
+X: 2144
+T: Hon.ble Cap.n Maitland's Strathspey.
+C: by Nath. Gow
+%R: straathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.14 #4 (and top 2 staves of p.14)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+D |\
+G<GB>G c>AFD | G<GB>G dGBG | c<a B<g ADFD | G<GB>A G2G :| B/c/ | dgBg ADFD | .d.g .B.g .d.g .B.g |
+ca Bg AD FD |G<GTB>A G2 GB/c/ || dg Bg AD FD | dg Bg dg Bg | ca Bg AD FD | G<GTB>A G2G |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | g2g2 d2d2 | g2g2 g2g2 | f2g2 d2d2 | g2d2 G2G :| z | g2g2 d2d2 | g2g2 g2g2 |
+f2g2 d2d2 | g2d2 G2G2 || g2g2 d2d2 | g2g2 g2g2 | f2g2 d2d2 | g2d2 G2G |]
+
+
+X: 2151
+T: Torry Burn.  a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.15 #1 (top 2 staves continued from p.14)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+D |\
+~G2(BG) Bdd2 | ~c2ec egg2 | G2(BG) TBcdg | edcB A2G :| d | Tg2bg afed | Te>def gdBG |
+Tg2bg afgd | Tedef g2ga || bagf gfed | {f}edef gdBG | (TcBc).d efge | dBGB TA2G |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+g2g2 g2g2 | c2c2 c2c2 | g2g2 B2B2 | c2c2 d2G :| z | g2g2 B2G2 | c2d2 g2G2 |
+g2g2 d2B2 | c2d2 G2G2 || g2d2 e2B2 | c2d2 g2g2 |\
+[a2A2][b2B2] [c'2c2][c'2c2] | [d'2d2][d'2d2] [d'2d2][gG] |]
+
+
+X: 2152
+T: the Parson in Boots.   a Jig.
+%R: jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.15 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+~G3 G2c | B2G (B/c/d).B | TG3 Bcd | EFG AFD ||\
+~G3 G2c | B2G (B/c/d).B | gfe dcB | ABG FED :|
+|:\
+TB>cd ded | ded dcB | Tc>de efe | efe edc ||\
+TB>cd ded | ded def |  gfe  dcB | ABG FED :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+g3 g3 | g3 g3 | g3 g3 | c3 d3  ||\
+g3 g3 | g3 g3 | B3 G3 | d3 D3 :||:
+[g3G3] [g3G3] | [g3G3] [g3G3] | [c3C3] [c3C3] | [c3C3] [c3C3] ||\
+[g3G3] [g3G3] | [g3G3] [g3G3] | [b3B3] [g3G3] | [d3D3] [d3D3] :|
+
+
+X: 2153
+T: the Old man will never die.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.15 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+G>BdB {B}e2eg | (d/c/B/A/) GB A/A/A A>B | GBdB {B}e2ef | Tg(ag).e B/B/B TB2 :| .g(aTg).e dedB | .g(ag).e ~agab |
+gaTge degb | afgd B/B/B TB2 || .g(ag).e dedB | gage ~agab | .g.b.e.g ~d>egb | a>fg>d B/B/B B2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+g2g2 c2c2 | B2G2 d2D2 | G2G2 c2c2 | B2d2 g2G2 :|\
+[b2B2][c'2c2] [b2B2][g2G2] | [b2B2][c'2c2] [d'2d2][d'2d2] |
+[b2B2][c'2c2] [b2B2][g2G2] | [f2F2][g2G2] [g2G2][g2G2] ||\
+[b2B2][c'2c2] [b2B2][g2G2] | [b2B2][c'2c2] [d'2d2][d'2d2] |\
+[b2B2][c'2c2] [b2B2][g2G2] | [f2F2][g2G2] [g2G2][g2G2] |]
+
+
+X: 2161
+T: Open the Door to three.   a Jig.
+%R: slip-jig
+B: Niel Gow & Sons "Complete Repository" v.1 p.16 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 9/8
+L: 1/8
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+D | TG3 B2G cAF | G3 B2G ~c2d | efg dcB AFD | G2c TB>AB G2 ::
+e/f/ | Tgfe dcB AFD | [g3B3D3G,3] dBd g2d | efg dcB cAF | G2G TBAB G2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | G3 g3 d3 | g3 g3 c3 | c3 g3 d3 | g3 d3 G2 :: z |
+g3  g3 d3 | G3 g3 g3 | c3 g3 d3 | g3 d3 G2 :|
+
+
+X: 2162
+T: New Christmas. or Bass Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.16 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+c |\
+TB2GB dgdB | Tg2 (b/a/)g aA-Ac |\
+TB2GB dgdB | cAdB G/G/G G :| D |\
+(B,/A,/)G, (.D.G,) EG,DG, | (B,/A,/)G, (.D.B,) EA,A,D |
+(B,/A,/)G,   DG,   EG,DG, | EGFA GG,G,D ||\
+(B,/A,/)G, (.D.G,) EG,DG, | (B,/A,/)G, (.D.B,) EA,A,D |\
+(B,/A,/G,)   DG,   EG,DG, | (E/F/G) (F/G/)A GG,G, |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+g2g2 g2g2 | g2g2 a2a2 | g2g2 g2B2 | c2d2 G2G :| z | G2G2 G2G2 | G2G2 A2A2 |
+G2G2 c2B2 | c2d2 G2G2 || G2G2 G2G2 | G2G2 A2A2 | G2G2 c2B2 | c2d2 G2G |]
+
+
+X: 2163
+T: the Pipers Maggot.   a Jig.
+%R: slip-jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.16 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 9/8
+L: 1/8
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+d !segno!|:\
+TB2G- GAG dBG | B/c/dB gdB deg | B2G- GAG dBG | A/B/cA =fcA ~c2d ::
+TB2d gdB gdc | TB2d gdB deg | TB2d gdB gdB | A/B/cA =fcA ~c2d !segno!:|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z !segno!|:\
+g3 g3 g3 | g3 g3 g3 | g3 g3 g3 | =f3 f3 f3 ::
+g3 g3 g3 | g3 g3 g3 | g3 g3 g3 | =f3 f3 f3 !segno!:|
+
+
+X: 2164
+T: the Perrie Werrie.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.16 #4 (and top 2 staffs on p.17)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+c | BG-G>A TG>AGc | BG-G>B gdec | BGGA TG>AGB | A=FFA c3 :| A | Bd-d>e ~d>edc | Bd-d>e gdec |
+Bd-d>e ~d>edB | A=FFA c3A || Bd-d>e dedc | Bdde g3d | gbeg dgBd | A=FFA c3 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | g2g2 g2g2 | g2g2 g2f2 | g2g2 g2g2 | =f2f2 f3 :| z | g2g2 g2f2 | g2g2 g2d2 |
+g2g2 g2g2 | =f2f2 f2^f2 || g2g2 g2f2 | g2g2 G2g2 | g2c2 B2G2 | =F2F2 F2F |]
+
+
+X: 2171
+T: Merrily Danced the Quakers Wife.   a Jig.
+%R: jig, air
+B: Niel Gow & Sons "Complete Repository" v.1 p.17 #1 (top 2 staffs continued from p.16)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+~G>AB D2B | {B}A2G E2D | TG>AB D2D | E3 G3 || ~G>AB D2B | {B}A2G TE2D | TG>AB D2D | TE3 G3 ::
+dcB edc | dcB ABc | dcB efg | TB3 d3- || dcB gfe | dcB {B}HA2G | G>AB D2D | TE3 G3 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+G3 g3 | d3 c3 | B3 G3 | c3 B3 || G3 g3 | d3 c3 | B3 G3 | c3 [B3G3] :: [g3B3] [g3c3] |
+[g3B3] [f3A3] | [g3B3] [g3c3] | GBd g3 || [g3B3] [g3c3] | [g3B3] H[d3D3] | [g3B3] [g3B3] | [g3c3] [g3B3] :|
+
+
+X: 2172
+T: Sucky bids me.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.17 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+G2DE .G2.e2 | dBGB .A(FTE).D | TG2DE .G2(.e2 | d)BcA G2G2 :| d2Bc d2g2 | fafd ege^c |
+d2B=c d2g2 | (fg)e^c d3e || .d(gf).e dcBG | B2BG AFTE>D | G2DE .G2.e2 | dBcA G4 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+g2G2 B2c2 | B2G2 d2d2 | g2G2 B2c2 | d2D2 G2G2 :| g2g2 b2g2 | d'2d2 a2A2 |
+G2g2 f2e2 | d2A2 d2D2 || G2g2 g2g2 | g2g2 d2d2 | g2G2 B2c2 | d2d2 G2G2 |]
+
+
+X: 2173
+T: the Malt-man.   a Jig.
+%R: slip-jig, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.17 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 9/8
+L: 1/8
+K: G
+% - - - - - - - - - -
+% Voice 1 reformatted for _ _-bar lines, for compactness and proofreading.
+V: 1 staves=2
+D | .E/.F/.G.G .G2g dBG | F2A- AEA TF2D | .E/.F/.G.G G2g def | g2G- G>AG G2 :: c | Bcd efg dBG | TF2A- AEA TF2D |
+dBd ece def | g2G GAG G2 :: (d//e//f/) | g3 Tf2e dBG | TF2A- AEA TF2D | gag Tf2e def | g2G- GAG G2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | G3 g3 g3 | d3 ^c3 d3 | g3 g3 g3 | g3 d3 G2 :: z | G3 c3 B3 | d3 ^c3 d3 |
+B3 c3 B2A | G3 d3 G2 :: z | g3 d3 B3 | d3 ^c3 d3 | e3 d3 =c3 | B3 d3 G2 :|
+
+
+X: 2181
+T: the Braes of Athol.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.18 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: G
+% - - - - - - - - - -
+% Voice 1 reformatted for _ _-bar lines, for compactness and proofreading.
+V: 1 staves=2
+d |\
+{c}B2(.A.G) (B/c/d) (e/f/g) | TB>AGB A/A/A A>d | {c}B2AG (B/c/d) (e/f/g) | D3B G/G/G G :: f | gdBg dgdB |
+gdBg Tf2 Ae/f/ | gdBg dgdB | (c/B/A/G/) F>A G/G/G G :: c | BGBG BG (B/c/d) | BG (B/c/d) (e/f/g) A>c | BG (B/c/d) (e/f/g) (f/g/a) |
+D3B G/G/G G :: f | gdBg dgdB | (g/f/e/d/) Bg Tf2 Ae/f/ | gdBg dgdB | (c/B/A/G/) F>A G/G/G G :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+g2g2 g2g2 | g2G2 d2d2 | g2g2 g2c2 | d2d2 G2G :: z | g2g2 g2g2 |
+g2g2 d2c2 | B2G2 G2G2 | c2d2 G2G :: z | G2G2 G2G2 | G2G2 c2d2 | g2g2 c2d2 |
+d2d2 G2G :: z | g2g2 g2g2 | g2g2 d2c2 | B2G2 G2B2 | c2d2 G2G :|
+
+
+X: 2182
+T: New Claret.   a Jig.
+%R: slip-jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.18 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: Some of the slurs aren't clear whether they include 2 or 3 notes.
+M: 9/8
+L: 1/8
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+G2G B2G (B/c/d)B | G>AG B2G (B/c/d)B | .E2.E .C2.C (E/F/G)E | D>ED TF2D (F/G/A)F :: G2G g2d (B/c/d)B | G>AG g2d (B/c/d)B |
+.c2.c e2c (e/f/)ge | d>ed f2d (f/g/)af :: !f!gdB GAB gdB | gdB GAB gdB | ece ece (e/f/)g.e | fdf fdf (f/g/)af :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+g3 g3 g3 | g3 g3 g3 | c3 c3 c3 | d3 d3 d3 :: g3 g3 g3 | g3 g3 g3 |
+[c'3c3] [c'3c3] [c'3c3] | [d'3d3] [d'3d3] [d'3d3] ::\
+[g3G3] [g3G3] [g3G3] | [g3G3] [g3G3] [g3G3] |\
+[c3C3] [c3C3] [c3C3] | [d3D3] [d3D3] [d3D3] |]
+
+
+X: 2183
+T: Kincaldrum's Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.18 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+d |\
+g2dc {c}B2AG | F>GAB cAAf | gdec {c}B2AG | D>F Ac BGG :| B | (DG)(.B.G) A>GBG | (DG)(.B.G) cAAc |
+Bdef gedc | BdAc BGGB || (DG)(.B.G) A>GBG | (DG)(.B.G) cAAc | Bdef gedc | BdAc BGG |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | g2g2 g2g2 | d2d2 d2d2 | g2g2 g2g2 | d2d2 G2G :| z | G2g2 d2G2 | G2g2 d2f2 |
+g2c2 B2c2 | d2D2 G2G2 || G2g2 d2G2 | G2g2 d2f2 | g2c2 B2c2 | d2D2 G2G |]
+
+
+X: 2191
+T: the White Cockade.   Strathspey Time.
+%R: strathspey, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.19 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/8
+K: G
+% - - - - - - - - - -
+% Voice 1 reformatted for 2 8-bar lines, for compactness and proofreading.
+V: 1 staves=2
+G/A/ |\
+BB {c}B.A/.G/ | BBBg | dB c/B/A/G/ | FA AG/A/ |\
+.B.B c/B/A/G/ | ABTga | {b}ag/f/ e/f/g/e/ | dBB :|
+|: B/c/ |\
+dB gB | dd~d>e | {e}d{c}Bgf/g/ | aAAG/A/ |\
+(B.B) (c/B/)A/G/ | ABg>a | {b}ag/f/ {a}g.f/.e/ | dBB :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | G2g2 | g2g2 | G2g2 | d2d2 | G2g2 | d2ef | g2d2 | G2G :||: z |
+g2G2 | B2c2 | B2G2 | D2d2 | G2g2 | d2ef | g2d2 | G2G |]
+
+
+X: 2192
+T: If I had a bonny Lass little sleep wou'd sair.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.19 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: G
+% - - - - - - - - - -
+V: 1 staves=2
+d |\
+BGdG TB>cd=f | A=FcF {_B}A2FA | BGd.G TB>cdg | BGcA G3 :| f | ~g>agd g>agd | =f>gfc {B}A2FA |
+~gagd gagd | B>dgd TB2Gd || ~gagd gagd | =fgfc {_B}A2FA | BGcA dBge | dcBA G3 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+g2g2 g2g2 | =f2f2 f2f2 | g2g2 g2g2 | d2d2 G2G :| z | g2g2 g2g2 | =f2f2 f2f2 |
+g2g2 g2g2 | g2g2 G2G2 || g2g2 g2g2 | =f2f2 f2f2 | g2f2 g2c2 | d2d2 G2G |]
+
+
+X: 2193
+T: Hey to the Camp.   a Jig.
+%R: jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.19 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: C
+% - - - - - - - - - -
+% Voice 1 reformatted for 3 8-bar lines, for clarity and proofreading.
+V: 1 staves=2
+G |\
+Tc2e d(.B.G) | A/B/cD TD2C | E/F/GG c2c | ege d3 ||\
+~c2e d(.B.G) | (A/B/)c.E TD2C | (E/F/)GG c2G | ECC C2 :|
+f |\
+efg gec | eaa ~a2c | TB>cd dBG | (B/c/d)d ~d2f ||\
+efg gec | eaa a2f | edc BAG | (A/B/c).c c2f ||
+efg gec | eaa a2c | TB>cd dcB | (B/c/d).d d2f ||\
+efg gec | efg gag | ~edc ~BAG | (A/B/c).c c2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | c3 g3 | a3 g3 | c3 e3 | c3 G3 || c3 g3 | a3 b3 | c'3 g3 | c3 c2 :| z |
+c3 c'3 | c'3 c'3 | G3 g3 | g3 g3 || c3 c'3 | c'3 c'3 | c'3 g3 | c3 c3 || c3 c'3 |
+c'3 c'3 | g3 g3 | g3 g3 || c3 c'3 | c'3 c'3 | c'3 g3 | c3 c2 |]
+
+
+X: 2201
+T: Browns Reel
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.20 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: C
+% - - - - - - - - - -
+V: 1 staves=2
+e |\
+Tc2ec dBAG | (A/B/c) TB>A GEE2 |\
+(c/d/e/f/) ge dBAG | (A/B/c) TB>A GEE :|\
+(f |\
+e)>cgc dBgB | cAfA BG-G_B |
+AFcF GEcE | FD (G/F/E/D/) ECC>f ||\
+egcg dgBg | caAc BG-G_B |\
+AcFc GcEc | AaTg>f ec-c |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+[c'2c2][c'2c2] [g2G2][g2G2] | [a2A2][b2B2] [c'2c2][c'2c2] |\
+[e'2e2][c'2c2] [b2B2][e2E2] | [f2F2][g2G2] [c2C2][cC] :|\
+z |\
+[c'2c2][c'2c2] [b2B2][b2B2] | [a2A2][a2A2] [g2G2][e2E2] |
+[f2F2][f2F2] [e2E2][e2E2] | [d2D2][B2B,2] [c2C2][c2C2] ||\
+[c'2c2][c'2c2] [b2B2][b2B2] | [a2A2][^f2^F2] [g2G2][e2E2] |\
+[=f2=F2][f2F2] [e2E2][e2E2] | [f2F2][g2G2] [c2C2][cC] |]
+
+
+X: 2202
+T: Mc Vicars Strathspey
+C: by Nath.Gow
+%R: strathspey, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.20 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: C
+% - - - - - - - - - -
+V: 1 staves=2
+c |\
+G<ETE>c G<ETE>c | G<Ec>E {E}D2Dc | GEE>G Tc>(d {cd}e)>d | {B}Tc>A GE {E}D2D :| e | ce/f/ ge c<ge<a |g<cTg>e {e}d2de |
+ce/f/ ge c<gTe>d | {B}c>A cE {E}D2De || ce/f/ ge c<ge<a | g<cTg>e {e}Td2de/f/ | g>ef>d e>c d>B | c>A GE {E}D2D |: E |
+C>GEc GcEc | C>GEc {E}D2DE | C>GEG Tc>(d {cd}e)>d | {B}c>A cE {E}D2D :| e/f/ | g<cTe>c g<cTf<a | g<cTg>e {e}d2de/f/ |
+g<cTe>d Tc>d {cd}e>d | {B}c>A GE {E}D2De/f/ || g<cTe>c g<cTf>a | g<cTg>e {e}d2dc/d/ | e>cd>B {B}Tc>A GE | F<dE<c {E}D2D |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+c2c2 c2c2 | c2c2 G2G2 | c2c2 c2c2 | c2c2 G2G :| z | c'2c'2 c'2c'2 | c'2c'2 g2g2 |
+c'2c'2 c'2g2 | f2c2 G2G2 || c'2c'2 c'2c'2 | c'2c'2 g2g2 | e2g2 a2g2 | f2c2 G2G |: z |
+[c2C2][c2C2] [c2C2][c2C2] | [c2C2][c2C2] [g2G2][g2G2] |\
+[c2C2][c2C2] [c2C2][c2C2] | [f2F2][c2C2] [g2G2][gG] :| z |\
+[c'2c2][c'2c2] [c'2c2][f2F2] | [e2E2][c2C2] [g2G2][g2G2] |
+[c'2c2][c'2c2] [e2E2][g2G2] | [f2F2][c2C2] [g2G2][g2G2] ||\
+[c'2c2][c'2c2] [c'2c2][f2F2] | [e2E2][c2C2] [g2G2][g2G2] |\
+[e2E2][g2G2] [f2F2][e2E2] | [d2D2][c2C2] [g2G2][gG] |]
+
+
+X: 2203
+T: the Chace.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.1 p.20 #3 (and top 2 staves of p.21)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: C
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+Tc2ec GcEG | Tc2ec GEDC | Tc2ec TB2dB | AcBA G2G2 :| ~G2cG .e(GF)E | ~F2BF d(FTE)D |
+EFGE cE DC | G,2TB,2 CDEF || ~G2cG e(GTFE) | ~F2BF d(TFED) | TE>FGE cE DC | G,CB,D C2C2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+c2c2 c2c2 | c2c2 G2G2 | c2c2 G2B2 | c2d2 G2G2 :| e2e2 c2c2 | d2d2 B2B2 |
+c2c2 E2F2 | G2G2 C2C2 || e2e2 c2^c2 | d2d2 B2B2 | c2c2 E2F2 | G2G2 C2C2 |]
+
+
+X: 2211
+T: Go to the Devil & shake yourself.   a Jig.
+O: Irish.
+%R: jig, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.21 #1 (top 2 staffs continued from p.20)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: C
+% - - - - - - - - - -
+V: 1 staves=2
+G |\
+Gcc ~c>BA | G>AG GEF | Gcc Tc2e | ecA A2G |\
+Gcc ~c>BA | G>AG GEF | Gcc (Bd).f | ecc ~c2 :|
+|: e/f/ |\
+gec ~cBc | AFF ~F2f/g/ | afd dec | BGG G2G |\
+Gcc ~c>BA | G>AG GEF | Gcc (Bd).f | ecc ~c2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+c3 c3 | c3 c3 | c3 c2B | A3- A2B |\
+c3 c3 | c3 c3 | c3 G3 | C3 C2 :|
+|: z |\
+[c3C3] [c3C3] | [f3F3] [f3F3] | [d3D3] [d3D3] | [g3G3] [g3G3] |\
+c3 c3 | c3 c3 | c3 G3 | C3 C2 :|
+%%text This Tune may be played Slow.
+
+
+X: 2212
+T: O'er Bogie wi' my Love.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.21 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: There's a fuzzy "emphatic mark" on the first (g) note in bar 4 that may be a printing error.
+M: C
+L: 1/8
+K: C
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+.c(dc).A cGGA | cdcA ~G3c | Ad-d>c defa | gedc A2GA :| ~c2eg c2eg | cdTcA ~G3c |
+Ad-d>c defa | gedc A3B || c2(e/f/g) c2(e/f/g) | cdcA GAcG | .Ad-d>c defa | gedc AcGA |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+c2c2 c2c2 | c2f2 e2c2 | f2e2 d2d2 | e2e2 f4 :|\
+[c2C2][c2C2] [c2C2][c2C2] | [e'2e2][f'2f2] [e'2e2][c'2c2] |
+[f'2f2][e'2e2] [d'2d2][d'2d2] | [c'2c2][c'2c2] [f'2f2][f'2f2] ||\
+[e'2e2][c'2c2] [c'2c2][c'2c2] | [e2E2][f2F2] [e2E2][c2C2] |\
+[f2F2][e2E2] [d2D2][d2D2] | [c2C2][e2E2] [f2F2][c2C2] |]
+
+
+X: 2213
+T: Gowd in Goupins.   a Jig.
+%R: jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.21 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: C	% mixed with Am and G
+% - - - - - - - - - -
+% Voice 1 staff break moved for more evenly-spaced notes.
+V: 1 staves=2
+f |\
+.e/.f/.g.e c2e | ~c2e dBG | c2A (B/c/d)c | {c}TB3 B2f |\
+e/f/ge c2e | ~c2e dBG | cBA BA^G | A3 A2 :: g |\
+a2e g2d | (e/^f/g).e dBG |
+c2A (B/c/d).c | {c}TB3 B2g |\
+[1 a2e g2d | (e/^f/g).e dBG | cBA BA^G | A3 A2 :|\
+[2 ag^f gfe | dgd dBG | cBA BA^G | A3 A2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+% A few missing dots added to get correct measure lengths.
+V: 2 clef=bass middle=d
+z |
+c3 c'3 | c3 g3 | a3 ^f3 | g3 G3 | c3 c'3 | c3 g3 | a3 e3 | A3 A2 :: z | a3 b3 |
+c'3 g3 | a3 ^f3 | g3 G2z |[1 a3 b3 | c'3 g3 | a3 e3 | A3 A2 :|[2 A3 B3 | c3 d3 | e3 E3 | A3 A2 |]
+
+
+X: 2221
+T: Sandy is my Darling.   a Reel.
+%R: reel, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.22 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Am
+% - - - - - - - - - -
+V: 1 staves=2
+c |\
+A/A/A {A}a2 Tg>ede | cG-G>E G>AcG | A/A/A {A}a2 g>ede | c[AC]B[^GC] [A3E3C3] :| c | (ABc).d egde | c(GGE) G>AcG |
+(ABc).d egde | c>A B^G A3B || (ABc).d egde | cG-G>E GAce/^g/ | aegd {f}e>d ca | gedB [A3E3C3] |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | a2a2 b2c'2 | g2g2 g2g2 | a2a2 b2c'2 | e'2e2 a2A :| z | A3B c2B2 | G2G2 g2G2 |
+A3B c2d2 | e2E2 A2Az || A3B c2B2 | G2G2 g2gz | a2b2 c'2c'2 | e'2e2 a2A |]
+
+
+X: 2222
+T: O as I was kiss'd yestreen.   a Jig.
+%R: jig, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.22 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: Am
+% - - - - - - - - - -
+V: 1 staves=2
+E |\
+A>BA ABd | (e/^f/g).B A2c | (TBAB) GAG | (BAB) GAB ||\
+~cBc dcd | ede a2g | edB ABd | e2A A2 ::
+^g |\
+a2A ABA | a2A A2^f | g2G GAG | TBAB GAB ||\
+~cBc dcd | ede a2g | edB ABd | e2A A2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+a3 a3 | a3 a3 | g3 g3 | g3 g3 ||\
+a3 b3 | c'3 d'3 | e'3 e3 | a3 a2 :: z |
+a3 a3 | a3 a3 | g3 g3 | g3 g3 ||\
+a3 b3 | c'3 d'3 | e'3 e3 | a3 a2 :|
+
+
+X: 2223
+T: Rise ye Lazy Lubber.   a Reel.
+O: Very Old.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 P.22 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Am
+% - - - - - - - - - -
+V: 1 staves=2
+c |\
+A2AB G3A | ~cdec A2A,2 | A2Ac G2-G>B | Tc>dec A3 :| g | aegd edca | gedc A3g |
+aegd Tedce | dega A3g || aegd edca | gedc A3g | aegd Tedce | dega A3 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | A2A2 G2G2 | A2E2 A2A2 | A2A2 G2G2 | A2E2 A3 :| z | a2b2 c'2c'2 | e'2e2 a2A2 |
+a2b2 c'2c'2 | d'2e'2 a3z || a2b2 c'2d'2 | e'2e2 a2A2 | a2b2 c'2c'2 | d'2e'2 a3 |]
+
+
+X: 2224
+T: Bobin John
+%R:
+N: This is version 2, for ABC software that understands voice overlays.
+B: Niel Gow & Sons "Complete Repository" v.2 p.22 #4 (and top 2 staffs on p.23)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: A simpler version of the bass voice is in the ABC1 version, which has simple ABC chords and bass cleff everywhere.
+M: 3/2
+L: 1/8
+K: Am
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+e2A2- A2c2 TB4 | e2A2- A2c2 BcdB | e2A2- A2c2 TB3c | d2G2 G2d2 BcdB :| c2ef g2c2 e4 | c2ef g2c2 e2g2 |
+a3f g3f Te4 | d2G2 G2d2 BcdB || c2ef g2c2 e4 | c2ef g2c2 e2g2 | a3f g3f ~e4 | d2G2 G2d2 BcdB |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=D
+|:\
+[c4e4] [c4e4] [B4e4] & A4 A4 E4 | [c4e4] [c4e4] [B4e4] & A4 A4 ^G4 |\
+[c4e4] [c4e4] [c4e4] & A4 A4 A4 | [B4d4] [B4d4] [B4d4] & G4 G4 G4 :|\
+[K:Am clef=treble]\
+[E4G4] [E4G4] [E4G4] & C4 C4 C4 | [E4G4] [E4G4] [E4G4] & C4 C4 C4 |
+[F4A4] [E4G4] [E4G4] & C4 C4 C4 |\
+[K:Am clef=bass middle=D]\
+[B4d4] [B4d4] [B4d4] & G4 G4 G4 ||\
+[K:Am clef=treble]\
+[E4G4] [E4G4] [E4G4] & C4 C4 C4 | [E4G4] [E4G4] [E4G4] & C4 C4 C4 |\
+[F4A4] [E4G4] [E4G4] & C4 C4 C4 |\
+[K:Am clef=bass middle=D] [B4d4] [B4d4] [B4d4] & G4 G4 G4 :|
+
+
+X: 2231
+T: Donald Quaich.   a Reel.
+O: Very Old.
+%R: reel
+N: This is version 2, for ABC software that understands voice overlays
+B: Niel Gow & Sons "Complete Repository" v.2 p.23 #1 (top 2 staves continued from previous page)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Am
+% - - - - - - - - - -
+V: 1 staves=2
+|: ~c2(.e.A) B/B/B dG | ~c2eA aAeA | c2eA TB>cdG | Tc>deA B^GA2 :| ~c3g B/B/B dG | c3g c/c/c ge |
+faeg dgBG | Tc>deA B^GA2 ||~c3g B/B/B dG | c3g c/c/c ge | faeg dgBG | ~c>deA B^GA2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+% Voice 2 also has many shifts between bass and treble staf in the 2nd strain, only bass clef used here.
+% It's not clear how to reliably change clefs in measures with two voices (with up- and down-stems).
+V: 2 clef=bass middle=d
+|:\
+[c'2e'2][c'2e'2] [d'2][d'2] & a2a2 g2g2 | [c'2e'2][c'2e'2] [c'2e'2][c'2e'2] & a2a2 a2a2 |\
+[c'2e'2][c'2e'2] [b2d'2][b2d'2] & a2a2 g2g2 | [c'2e'2][c'2e'2] [b2e'2][c'2e'2] & a2a2 e2a2 :|\
+[e'2g'2][e'2g'2] [b2d'2][b2d'2] & c'2c'2 g2g2 | [e'2g'2][e'2g'2] [e'2g'2][e'2g'2] & c'2c'2 c'2c'2 |
+[f'2a'2][e'2g'2] [b2d'2][b2d'2] & c'2c'2 g2g2 | [c'2e'2][c'2e'2] [b2e'2]x2 & a2a2 e2[A2a2] ||\
+[e'2g'2][e'2g'2] [b2d'2][b2d'2] & c'2c'2 g2g2 | [e'2g'2][e'2g'2] [e'2g'2][e'2g'2] & c'2c'2 c'2c'2 |\
+[f'2a'2][e'2g'2] [b2d'2][b2d'2] & c'2c'2 g2g2 | [c'2e'2][c'2e'2] [b2e'2]x2 & a2a2 e2[A2a2] |]
+
+
+X: 2232
+T: I love my love for she love's me.  a Jig.
+N: Yes, the apostrophe is there in "love's".
+%R: slip-jig, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.23 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 9/8
+L: 1/8
+K: Am
+% - - - - - - - - - -
+V: 1 staves=2
+E | A>BA ~c2A cde | G2G Gge dBG | A>BA c2~A cde | dBd gdB A2 :| f | ege ece Tg2e | dge dBG g2d |
+eag edB deg | ~ede geB A2f || ege ece Tg2e | dge dBG g2d | eag edB deg | ede gdB A2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | a3 a3 a3 | g3 g3 g3 | a3 a3 a3 | e3 e3 A2 :| z |\
+[c'3c3] [c'3c3] [c'3c3] | [g3G3] [g3G3] [g3G3] |
+[a3A3] [b3B3] [c'3c3] | [d'3d3] [e'3e3] [a3A3] ||\
+[c'3c3] [c'3c3] [c'3c3] | [g3G3] [g3G3] [g3G3] |\
+[a3A3] [b3B3] [c'3c3] | [d'3d3] [e'3e3] [a2A2] |]
+
+
+X: 2233
+T: the Drummer.   a Reel.
+O: Very Old
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.23 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Am
+% - - - - - - - - - -
+V: 1 staves=2
+B | (ABc)A E2E^F | GABc dBGB | ABcA E2-Ef | edcB A2A :| B | c2(.c.e) d2(.d.e) | c2ce (d/c/B/A/) GB |
+c2ce d2df | edcB A3B || c2ce d2de | c2ce (d/c/B/A/) GB | ccce dddf | edcB A2A |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+[a2A2][a2A2] [a2A2][a2A2] | [g2G2][g2G2] [g2G2][g2G2] |\
+[a2A2][a2A2] [a2A2][a2A2] | [e2E2][e2E2] A2A :| z |\
+[c'2c2][c'2c2] [d'2d2][d'2d2] | [c'2c2][c'2c2] [g2G2][g2G2] |
+[c'2c2][c'2c2] [d'2d2][d'2d2] | [e'2e2][e'2e2] [a3A3]z ||\
+c2c'2 d2d'2 | c2c'2 g2G2 |\
+[a2A2][c'2c2] [b2B2][d'2d2] | [e'2e2][e'2e2] [a2A2][aA] |]
+
+
+X: 2241
+T: Niel_Gows_Strathspey.
+C: by Mr McIntyre
+%R: strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.24 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: C
+% - - - - - - - - - -
+V: 1 staves=2
+f |\
+e<c {c}a>e fBTB>f | e<c {c}a>e Tf3g |\
+a/g/f/e/ {g}ae fBBg | {fg}a>f ec A2A ::
+E |\
+[AC]>[AC] {AB}c>A BFTF>B | [AC]<[AC] [AC]<[AC] {g}a>efa |\
+eaca BF TFf/g/ | a/g/f/e/ {g}ac A3 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | a2a2 b2b2 | a2a2 d'2d'2 | c'2a2 b2b2 | a2e2 A2A :: z | A2A2 B2B2 |
+A2A2 c2d2 | c2A2 B2B2 | A2E2 A2A :|
+
+
+X: 2242
+T: the High Road to Linton,   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.24 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: Many versions of this tune have 2 more strains.
+M: C|
+L: 1/8
+K: A
+% - - - - - - - - - -
+V: 1 staves=2
+d | ce-e>f a2ae | Tf2fe a2aB | ce-e>f a2ae | faec TB2A ::
+d | ce-e>=g fddf | ecce fBBd | ce-e>=g fddf | ecac TB2A :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | a2a2 a2a2 | a2a2 a2a2 | a2a2 c2c2 |
+d2e2 E2A :: z | a2c'2 d'2b2 | c'2a2 b2e2 | a2c'2 d'2b2 | c'2a2 e2a :|
+
+
+X: 2243
+T: the_Bog_of_Gight.   a Strathspey.
+%R: strathspey, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.24 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: A
+% - - - - - - - - - -
+V: 1 staves=2
+[|\
+e>fe>c A>cA>E | (TF>E)FA B/B/B Bc | e>fe>c A<cA>E | F<AE>C A,/A,/A, A,2 || e>fec A>cA>E |
+TF>EFA B/B/B TB>c | (c<e)(Tfe) (dc)(BA) | ~G>A~B>c A/A/A A2 |]| Ta>ba>e Ta>ba>e | (Tfef)a b/b/b b2 | (a>b)(a<e) f<ac<a |
+(TB>A)Bc A/A/A A2 || Ta>ba>e a>ba>e | (f>efa) b/b/b b2 | a<ef<a e<fc<e | TB>ABc A/A/A A2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+[|\
+a2a2 c2c2 | d2d2 e2e2 | a2a2 c2c2 | d2e2 c2c2 || a2a2 c2c2 |
+d2d2 e2e2 | a2a2 d2d2 | e2e2 A2A2 |]| a2a2 a2c2 | d2d2 e2e2 | a2c2 d2A2 |
+e2E2 A2A2 || a2a2 c2c2 | d2d2 e2e2 | c2d2 c2A2 | e2E2 A2A2 |]
+
+
+X: 2244
+T: the_Masons_Apron,   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.24 #4 (and top 2 staffs of p.25)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: A
+% - - - - - - - - - -
+V: 1 staves=2
+e |\
+c<A A>B A>BAF | EFAB {AB}c2TBA | dB- B>c BcBA | BAde {g}f2ed || c<A A>B A>BAF |
+EFAB {AB}c2TBA | Bcde Tfefa | A/A/A Tc>B A2A |]| e | cAeA fAeA | cAeA (fed)c | dBfB aBfB |
+dBfB {g}f2ed || cAeA fAeA | cAeA (fe)dc | Bcde Tfefa | A/A/A Tc>B A2A |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |
+a2a2 a2a2 | a2a2 a2a2 | b2b2 b2b2 | b2b2 b2b2 || a2a2 a2a2 |
+a2a2 a2a2 | b2c'2 d'2d'2 | e'2e2 a2a |]| z | a2a2 a2a2 | a2a2 a2a2 | b2b2 b2b2 |
+b2b2 b2b2 || a2a2 a2a2 | a2a2 a2a2 | b2c'2 d'2d'2 | e'2e2 a2a |]
+
+
+X: 2251
+T: the_Miller_of_Drone,   a Strathspey.
+C: by Nath.Gow.
+%R: strathspey, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.25 #1 (top 2 staffs continued from p.24)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: A
+% - - - - - - - - - -
+% Voice 1 reformatted for _ _-bar lines, for compactness and proofreading.
+V: 1 staves=2
+c/B/ |\
+A<F-F>A TE>FEC A,A,A,>c {c}B2 Bc/B/ | AFFA TE>FEC | DFEG A2Ac/B/ || AFF>A TE>FEC |
+A,A, d>c {c}B2Bc/d/ | e>Bc>G A>EF>C | E<E E>F A2A |]| c/d/ | ecca (.e.e) (f/e/).d/.c/ | ecca Tf2f>a | ecca .e.e f/e/.d/.c/ |
+d>Bc>A ~F2 Fc/d/ || ecca ee (f/e/).d/.c/ | ecca Tf2f>g | (3agf (3efg (3aed (3cBA | d>B c>A ~F2F |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | A2A2 A2A2 | A2A2 E2E2 | A2d2 c2A2 | d2e2 A2A2 || A2A2 A2A2 |
+A2A2 E2E2 | A2E2 A2D2 | E2E2 A2A |]| z | a2a2 a2a2 | a2A2 d2d2 | a2a2 A2A2 |
+G2A2 d2D2 || A2a2 a2a2 | a2A2 d2d2 | A2c2 A2A2 | G2A2 D2D |]
+
+
+X: 2252
+T: Keep the Country Bonny Lassie.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.25 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: A
+% - - - - - - - - - -
+V: 1 staves=2
+f |\
+eA cA TB>cdf | eA cA eAcA | dfce TB>cdf | ecac {f}e2A :| g | (a/g/f/e/) c.e TB>cdf | (a/g/f/e/) ce ae ce |
+(a/g/f/e/) c.e TB>cdf | ecac Te2Ag || (a/g/f/e/) c.e TB>cdf | (a/g/f/e/) c.e (a/g/f/e/) c.e | df ce TB>cdf | eaca Te2A |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+a2a2 b2b2 | a2a2 a2c'2 | d'2c'2 b2b2 | a2a2 a2A :| z | a2a2 b2b2 | a2a2 a2a2 |
+a2a2 b2b2 | a2a2 e2A2 || a2a2  b2b2 | a2a2 a2c'2 | d'2c'2 b2b2 | a2a2 a2A |]
+
+
+X: 2261
+T: Cut & Dry,   a Strathspey.
+%R: strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.26 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: A
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+Tc>BAe cAe=g | B=Gd>B G/G/G TB2 | Tc>BAe cAe=g | dB=g>B A/A/A Te2 :| c>BAg aba=g | e=gdB G/G/G TB2 |
+Tc>BAg aba=g | Te>d=g>B  A/A/A e2 || c>BAg a>bae | =gaeg BGdB | c<Ae>c d<Ba>=g | Te>d=g>B A/A/A Te2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+a2a2 a2a2 | =g2g2 g2g2 | a2a2 a2a2 | e2e2 A2A2 :| a2a2 a2b2 | =c'2d'2 =g2g2 |
+a2a2 a2c'2 | e'2e2 a2a2 || a2a2 a2a2 | b2=c'2 =g2g2 | a2a2 b2c'2 | e'2e2 a2a2 |]
+
+
+X: 2262
+T: Lick the Ladle Sandy,   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.26 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: A
+% - - - - - - - - - -
+V: 1 staves=2
+f !segno!|:\
+eAcA eAcA | =G/G/G gB d2Tf2 | eAcA eAcA | A/A/A ac e2Tf2 :| (ef/g/) ae fdec | B/B/B =gB d2Tf2 |
+(ef/g/) ae fdec | e/e/e ac e2Tf2 || (ef/g/) ae fdec | B=gdB GABG | ABcd ef=ge | fd=gB A2Tf2 !segno!y:|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z !segno!|:\
+a2a2 a2a2 | =g2g2 g2g2 | a2a2 a2a2 | a2a2 [c2a2][d2a2] :| a2c'2 d'2a2 | =g2g2 g2g2 |
+a2c'2 d'2c'2 | a2a2 [c2a2][d2a2] || a2c'2 d'2a2 | =g2g2 g2g2 | a2a2 A2c2 | d2e2 [c2a2][d2a2] !segno!y|]
+%%begintext align
+%% NB. The Sets we have seen formerly of this Tune begins with the 2d Strain
+%% (published we suppose by mistake) in place of the first as now given.
+%%endtext
+
+
+X: 2263
+T: Allan Ramsay,   a Jig.
+%R: jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.26 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: A
+% - - - - - - - - - -
+% Voice 1 reformatted for 3 8-bar lines, to correct for the overly-compact version in the book.
+V: 1 staves=2
+f | e2A ~c2A | c/d/eA Tc2A | dB=G GBd | =gdB G2f | e2A ~c2A | c/d/eA Tc2A | ece eca | ecA A2 :|
+B | Ace ae=g | fdf edc | (B/c/d)B =GBd | =gdB G2B | Ace ae=g | fdf ecA | cde eca | ecA A2
+B | Ace ae=g | fdf edc | (B/c/d)B =GBd | =gdB G2f | e2A ~c2A | c/d/eA Tc2A | c/d/ee eca | ecA A2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+[a3A3] [a3A3] | [a3A3] [a3A3] | =g3 g3 | =g3 g3 | a3 a3 | a3 a3 | a3 e3 | a3 a2 :| z | a3 c'3 | d'3a3 | =g3 g3 |
+=g3 g3 | a3 c'3 | d'3 c'3 | a3 e3 | a3 a3 | a3 c'3 | d'3 a3 | =g3 g3 | =g3 g3 | a3 a3 | a3 a3 | a3 e3 | A3 A2 :|
+
+
+X: 2264
+T: Cuttymun & Treeladle,*   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.26 #4 (and top 2 staffs of p.27)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: A
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+{c}e2ea e2cA | {c}e2e=g d2BG | {c}e2ea ceae | =gbeg d2BG :| e2TcA eAcA | e2~cA d=GBG |
+e2~cA eAcA | =gbeg d2BG || e2~cA eAcA | e2~cA d=GBG | e2cA ceae | =gbeg d2BG |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+a2a2 a2a2 | a2a2 =g2g2 | a2a2 a2a2 | b2=c'2 b2=g2 :| a2a2 a2a2 | a2a2 =g2g2 |
+a2a2 a2a2 | b2=c'2 =g2g2 || a2a2 a2a2 | a2a2 =g2g2 | a2a2 a2a2 | b2=c'2 =g2g2 |]
+% - - - - - - - - - -
+%%begintext align
+%% *This is the Tune mentioned in the old Poem entitled Christs Kirk on the Green, Canto 2d line 96.
+%%endtext
+
+
+X: 2271
+T: the Far awa' Wedding,   a Jig.
+%R: slip-jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.27 #1 (top 2 staffs continued from p.26)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 9/8
+L: 1/8
+K: A
+% - - - - - - - - - -
+V: 1 staves=2
+e !segno!|:\
+Tc2A- AEA AEA | Tc2A- AEA B=GB | c2A AEA AEA | B=GB Bge dBG :| cAA a2e c(.A.A) | cAA a2f =g(.B.B) |
+cAA a2e cAc | B=GB Bge gdB || cAA a2e c(.A.A) | cAA T=g3 {fg}gBB | cAA a2e cAc | B=GB Bge gdB !segno!y|]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z !segno!|:\
+a3 a3 a3 | a3 a3 =g3 | a3 a3 a3 | =g3 g3 g3 :| a3 a3 a3 | a3 a3 =g3 |
+a3 a3 a3 | =g3 g3 g3 || a3 a3 a3 | a3 e3 =g3 | a3 a3 a3 | =g3 g3 g3 !segno!y|]
+
+
+X: 2272
+T: the Haggies o' Dunbar.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.27 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: The extra naturals in bar 6 were due to the book's staff break in the middle of the bar.
+N: They were left as-is but may be deleted if you prefer.
+M: C|
+L: 1/8
+K: A
+% - - - - - - - - - -
+% Voice 1 reformatted for 2 6-bar lines, eliminating the staff bread in the middle of a bar.
+V: 1 staves=2
+e |\
+{d}c>B Ac E/E/E =G2- | GB/c/ d=G {=c}B2GB |\
+{d}c>B Ac E/E/E A2- | A/c/d ed Tc2A :| c |\
+Ac/d/ eA cAeA | =GB/c/ dG {=c}TB2=GB |
+Ac/d/ eA cAeA | Ac/d/ ed Tc2Ac ||\
+Ac/d/ eA cAeA | =GB/c/ dG {=c}TB2GB |\
+c>BAc E/E/E A2 | (a/g/f/e/) a>c Tc2A |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+a2a2 e2c2 | B2=G2 G2G2 |\
+A2A2 a2a2 | [a2A2][a2A2] [a2A2][aA] :| z |\
+[a2A2][a2A2] [a2A2][a2A2] | [=g2=G2][g2G2]
+[=g2=G2][g2G2] |\
+[a2A2][a2A2] [a2A2][a2A2] | [a2A2][a2A2] [a2A2][a2A2] ||\
+[a2A2][a2A2] [a2A2][a2A2] | [=g2=G2][g2G2] [g2G2][g2G2] |\
+[a2A2][a2A2] [a2A2][a2A2] | [e2E2][e2E2] [a2A2][aA] |]
+
+
+X: 2273
+T: the High way to Dublin.   a Jig.
+%R: jig, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.27 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: A key of Amix would work better, and you'd only need to mark the two ^g notes.
+M: 5/8
+L: 1/8
+K: A
+% - - - - - - - - - -
+V: 1 staves=2
+=g |\
+~f>ed ~c>BA | ecA A2=g | ~f>ed TcBc | dB=G G2g ||\
+~f>ed ~c>BA | def ef^g | a=gf Tg2e | dB=G G2 :|
+|: =g |\
+(f/=g/a).f =g2f | ecA A2=g | (f/=g/a).f =g2e | dB=G G2g ||\
+(f/=g/a)f geg | fdf ef^g | a=gf gfe | dB=G G2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+a3 a3 | a3 a3 | a3 a3 | =g3 g3 || a3 a3 | a3 a3 | b3 =c'3 | =g3 g2 :|
+|: z |\
+a3 a3 | a3 a3 | a3 b2=c' | =g3 g3 || a3 c'3 | d'3 e'3 | a3 e3 | =g3 [g2G2] :|
+
+
+X: 2281
+T: Balendalochs Dream.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.28 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: A
+% - - - - - - - - - -
+V: 1 staves=2
+e |\
+Tc2A>c (ef/g/ a)f | =g2gB GB/c/ dB | Tc2Ac (ef/g/ a).f | =gefd ~e2A :| ^g | a2ea cAaf | =g2dg BGdB |
+a2ea cAaf | =gefd Te2A^g || a2ea cAaf | =g2dg BGdB | cedf e=gfa | =gefd ~e2A |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+a2a2 a2a2 | =g2g2 g2g2 | a2a2 a2a2 | e2e2 a2a :| z | a2a2 a2a2 | =g2g2 g2g2 |
+a2a2 a2a2 | e2e2 A2A2 || a2a2 a2a2 | =g2g2 g2g2 | a2b2 c'2d'2 | e'2e2 a2a |]
+
+
+X: 2282
+T: the Humours of Kelkenny.   a Jig
+O: Irish
+%R: jig, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.28 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: A
+%%slurgraces 1
+%%graceslurs 1
+% - - - - - - - - - -
+% Voice 1 reformatted for 3 8-bar lines, for compactness and proofreading.
+V: 1 staves=2
+e |:\
+cAA A2c | e>fe Te2d |cAA Ace | Tf3 a3 || Ace agf | fed {d}c2B | cAF TF>GF | d3 Tc2B :|
+cAF TF3 | AFE E2d | cAF TF3 |{F}d3 dfd || cAF TF3 | AFE E2d | cBA BAF | A3 A2d ||
+cAF F3 | AFE E2d | cAF TF3 | {F}d3 dfd || cAF TF3 | AFE E2d | cBA BAF | A3 A2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |:\
+a3 a3 | a3 a3 | a3 a3 | d3 c3 || A3 a3 | A3 a3 | A3 a3 | g3 a2b :|
+[f3c'3] f3 | e3 e3 | f3 f3 | g3 a2b || [f3c'3] f3 | e3 e3 | a3 e3 | A3 A3 || [f3F3] [f3F3] |
+[e3E3] [e3E3] | [f3F3] [f3F3] | [g3G3] a2b || [f3c'3] f3 | e3 e3 | a3 e3 | A3 A2 |]
+
+
+X: 2283
+T: the Carle he came o'er the Craft, wee his beard new shaven.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.28 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: In bars 6,10, the low G notes should probably have naturals added.
+M: C|
+L: 1/8
+K: A
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+A3 e c<A ce | =g2d2 (B/=c/d) BG | A3 e cAce | aefd (c/d/e) TcA :| aA-A>B ~c>def | =gG-G=c B/c/d BG |
+Aa ^gb a2 ef/g/ | aefe (c/d/e) Tc>A || aA-A>B Tc>def | =gG-G=c (B/c/d) BG | Aa ^gb aefg | aefd cecA |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+a2a2 a2a2 | =g2g2 g2g2 | a2a2 a2a2 | c2d2 a2a2 :| a2a2 a2a2 | =g2g2 g2g2 |
+a2e2 a2a2 | e2e2 A2A2 || a2a2 a2a2 | =g2g2 g2g2 |
+[a2A2][b2B2] [c'2c2][d'2d2] | [e'2e2][e'2e2] [a2A2][a2A2] |]
+
+
+X: 2291
+T: Willie Winkie's Testament.   a Strathspey.
+%R: strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.29 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: The last V:1 note in the 2nd bar is fuzzy, and may be g or f.
+M: C|
+L: 1/16
+K: F
+% - - - - - - - - - -
+% Voice 1 reformatted for 2 4-bar lines, for compactness and proofreading.
+V: 1 staves=2
+f2 |\
+c2F2 ABcA c2F2F2f2 | c2F2 ABcA G3DD2g2 |\
+c2F2 ABcA c2F2A2F2 | G2G2 TA3G F2D2D2 :|
+|: e2 |\
+Tf4 (agfe) f2F2F2c2 | Tf4 (fga2) g2G2G2e2 |\
+(fef2) (gfg2) (agf2) (gfe2) | (def2) Tc3A G2D2D2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+   z2 | f4f4 f4f4 | f4f4 d4d4 | f4f4 f4f4 | c4^c4 d4d2 :|
+|: z2 | f4f4 f4f4 | f4f4 g4g4 | f4g4 a4f4 | B4f4  d4d2 :|
+
+
+X: 2292
+T: Thro' the Wood she ran.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.29 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: F
+% - - - - - - - - - -
+% Voice 1 reformatted for 2 4-bar lines, for compactness and proofreading.
+V: 1 staves=2
+c | Tf>gag fddf | cFcA G2Gc | Tf>gag fddf | cAfc A/A/A A :|
+|: B | Tc>dcA TF>GAB | cdcA G2GA | TcdcA TF>GAB | cAfc A/A/A A :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | f2f2 B2B2 | f2f2 g2g2 | f2f2 B2B2 | [f2F2][f2F2] [f2F2][fF] :|
+|: z |\
+[f2F2][f2F2] [f2F2][f2F2] | [f2F2][f2F2] [g2G2][g2G2] |\
+[f2F2][f2F2] [f2F2][f2F2] | [f2F2][c2C2] [f2F2][fF] :|
+
+
+X: 2293
+T: New year's day
+%R: jig, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.29 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: F
+% - - - - - - - - - -
+V: 1 staves=2
+A |\
+TF>GF (f/g/ag) | fFF TF2A | F>GF Tf>ga | gGG G2A ||\
+FGA fed | c2b {b}a2g | Tf>ed cAf | cAF F2 :|
+|: A/B/ |\
+c>dc AcA | cdc A2B | cde f>ga | gGG G2A ||\
+c>dc AcA | c2b a2g | Tf>ed cAf | cAF F2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+f3 f3 | f3 f3 | f3 f3 | g3 g3 ||\
+f3 f3 | e3 f2e | d2B A3 | F3 f2 :|
+|: z |\
+[f3a3c'3] [f3a3c'3] | [f3a3c'3] [f3a3c'3] | [f3a3c'3] [f3a3c'3] | [c3e3g3c'3] [c3e3g3c'3] ||\
+[f3a3c'3] [f3a3c'3] | e3 f2e | d2B A3 | F3 f2 :|
+
+
+X: 2294
+T: Capt Kennedy's Reel.
+%R: reel
+N: This is version 2, for ABC software that understands voice overlays.
+B: Niel Gow & Sons "Complete Repository" v.2 p.29 #4
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: F
+% - - - - - - - - - -
+V: 1 staves=2
+A | (F/G/A/B/) cF dFcF | fdTc>A BGGA | (F/G/A/B/) cF dFcF | BG (A/B/c/B/) AFF :| A | (F/G/A/B/) cf dfAf | BfAf gGGA |
+(F/G/A/B/) cf dfcA | BGTc>B AFFA || (F/G/A/B/) cf dfcf | BfAf gGGA | (F/G/A/B/) cf dfcA | BGTc>B AFF |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | f2f2 f2f2 | f2f2 g2g2 | f2f2 f2a2 | b2c'2 f2f :|\
+z | f8 & x2a2 b2a2 | g2f2 e2c2 |
+f8 & x2a2 b2a2 | b2c'2 f2f2 || f8 & x2a2 b2a2 | g2f2 e2c2 | f8 & x2 a2 b2a2 | b2c'2 f2f |]
+
+
+X: 2301
+T: Cary Owen.   a Jig.
+T: Garryowen
+O: Irish
+%R: jig, air
+B: Niel Gow & Sons "Complete Repository" v.2 p.30 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: F
+% - - - - - - - - - -
+% Voice 1 reformatted for 3 8-bar lines, for compactness and proofreading.
+V: 1 staves=2
+f | ~dcB ~AGF | A>BA A2f | ~dcB ~AGF | [GE][AF][GE] [G2E2]f | ~dcB AGF | ABA A2d | c>de f2A | [GE][AF][GE] [G2E2] :|
+A/B/ | (A/B/c).A ~c2A | c2A c2f | d2B d2B | d2B d2e | f2(g {fg}a2)g | f2d c2A | cde f2A | [GE][AF][GE] G2 ||
+A/B/ | {AB}c2A {AB}c2A | {AB}c2A c2f | d2B d2B | d2B d2e | f2(g {fg}a2)g | f2d c2A | cde f2A | [GE][AF][GE] [G2E2] |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book, which is a bit odd at bars 16,17.
+V: 2 clef=bass middle=d
+z | [f3F3] [f3F3] | [f3F3] [f3F3] | [f3F3] [f3F3] | [c3C3] [c3C3] | [f3F3] [f3F3] | [f3F3] [f2F2][bB] | [a3A3] [f3F3] | [c'3c3] [c'2c2] :|
+z | [f3F3] [f3F3] | [f3F3] [f3F3] | [b3B3] [b3B3] | [b3B3] [b3B3] | [a3A3] [f3F3] | [f3F3] [f3F3] | [a3A3] [f3F3] | [c'3c3] [c'3c3] | [f3F3] [f3F3] |
+[f3F3] [f3F3] | [b3B3] [b3B3] | [b3B3] [b3B3] | [a2A2][bB] [c'2c2][bB] | [a2A2][bB] [a2A2][fF] | [a3A3] [f3F3] | [c'3c3] [c'2c2] |]
+
+
+X: 2302
+T: Lady Dumfries's Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.30 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: F
+% - - - - - - - - - -
+% Voice 1 reformatted for _ _-bar lines, for compactness and proofreading.
+V: 1 staves=2
+A |\
+F2-FA/B/ cAag | fdcA TGFGA | F2-FA/B/ cAag |fcba Tg2f :| g | (f/g/a) .a.f gef(d | {d}Tc)AFA TGFDg |
+(f/g/a) .a.f gefd | cAba Tg2f>g || (fg/a/) (.a.f) gefd | {d}TcAFA TGFDg | (f/g/a) (.a.f) gefd | cAba Tg2f |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | f2f2 f2f2 | b2a2 c'2c2 | f2f2 f2f2 | A2B2 c2F :| z | f2f2 c2d2 | f2f2 c'2b2 |
+a2f2 c2B2 | A2f2 d2[f2F2] || f2f2 c'2b2 | a2f2 c'2b2 | a2f2 c2B2 | A2F2 [c2C2][fF] |]
+
+
+X: 2303
+T: Go to Berwick Johnny.   Jig Time.
+%R: jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.30 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 3/2	% unusual "jig" time
+L: 1/8
+K: F
+% - - - - - - - - - -
+% Voice 1 may be reformatted.
+V: 1 staves=2
+|:\
+c2F2 F2c2 dcBA | c2F2 F2c2 A2f2 |  c2F2 F2c2 dcBA | B2G2 G2A2 B2d2 :| Tf3g f2F2 ABcA | Tf3g f2F2 A2c2 |
+Tf3g f2F2 ABcA | Tg3a g2G2 B2d2 || Tf3g f2F2 ABcA | Tf3g f2F2 A2c2  | Tf3g fgag agfe | d2g2 g2G2 B2d2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+|:\
+f4 f4 f4 | f4 f4 f4 |  f4 f4 f4 | g4 e4 c4 :| f4 f4 f4 | f4 f4 f4 |
+f4 f4 f4 | g4 e4 c4 || f4 f4 f4 | f4 f4 f4  | f4 f4 f4 | g4 e4 c4 |]
+
+
+X: 2311
+T: Lady Charlotte Campbell's Medley.   the Reel.
+C: by R.MacIntosh
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.31 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Bb
+% - - - - - - - - - -
+V: 1 staves=2
+F |\
+B3f dBfd | edcB AFcA | B2bf dBfB | AFec dBB :| d | f2d>b g2E>e | c2A>a f2D>d |
+B2Gg edcB | AcFe dBBf || dBba gfed | cAag fedc | BGgf edcB | AFec dBB |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | B2d2 b2B2 | c2=e2 f2F2 | B2d2 b2B2 | f2F2 B2B, :| z | [b2B2][b2B2] [e2E2][e2E2] | [a2A2][a2A2] [d2D2][d2D2] |
+[g2G2][e2E2] [c2C2][=e2=E2] | [f2F2][f2F2] [B2B,2] z2 || b2g2 e2c2 | a2f2 d2B2 | g2e2 c2=e2 | f2F2 B2B, |]
+
+
+X: 2312
+T: the Strathspey
+C: by R.MacIntosh
+%R: strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.31 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Bb
+% - - - - - - - - - -
+V: 1 staves=2
+F/E/ |\
+D(FFB)  EG-Gc/B/ | Acfe dbBf | DF-FB EG-Gc/B/ | (A/B/c)Fe dBB :| a | b>BA>a g>GF>f | ec (e/d/).c/.B/ A(cca) |
+b>Ba>B g>Bf>B | (A/B/c) (.F.e) dBBa || b>BA>ag>GF>f | ec (e/d/)c/B/ Ac-cB/A/ | GBFB EBDF | (E/F/G) TF>E DB,B, |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | B2d2 e2=e2 | f2a2 b2d2 | B2d2 e2=e2 | f2F2 B2B, :| z | g2f2 e2d2 | [a2A2][b2B2] f2F2 |
+d2f2 e2d2 | f2F2 B2d2 || g2f2 e2d2 | [a2A2][b2B2] F2f2 | [e2E2][d2D2] [c2C2][B2B,2] | c2F2 B2B, |]
+
+
+X: 2313
+T: Miss Gibson.s (or the Cumberland) Reel
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.31 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Bb
+% - - - - - - - - - -
+% Voice 1 reformatted for 2 4-bar staffs, to get similar spacing in both.
+V: 1 staves=2
+   F | TB2b>g   f(dcB) | AFcF  dFcF | TB2b>g   fdTcB | FBAc  dBB :|
+|: c | (BGTF)>E (DEF)D | ECC=B cGGA | (BGTF)>E D>EFD | B,BAc dBB :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | B2[g2e2] b2e2 | f2a2 b2f2 | g2e2 d2e2 | f2F2 B2B, :||: z | e2a2 b2B2 |
+c2f2 e2c2 | e2a2 b2B2 | B2F2 [B2B,2][BB,] :|
+
+
+X: 2314
+T: Ms McDonald of Claranald's Strathspey
+C: by Nath.Gow
+%R: strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.31 #4
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Bb
+% - - - - - - - - - -
+% Voice 1 reformatted for 2 5-bar staffs, to get similar spacing in both.
+V: 1 staves=2
+F/E/ |\
+.D.F.D.F TB2{G}F>E | D>FB>F (G/F/).E/.D/ C>E |\
+DFDF B2-Bg | (fd e/)d/c/B/ FBB ::  f/e/ |\
+dBdf g3{a}b |
+fB (e/d/).c/.B/ Accd/e/ |\
+[1 fBdf G3{a}b | fd Tc>B FBB :|\
+[2 dffb eggb | fd {d}c>B dBB |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | B2B2 B2B2 | B2B2 c2c2 | B2B2 d2e2 |
+f2F2 B2B :: z | b2b2 e2e2 | b2b2 f2f2 |\
+[1 b2b2 e2e2 | f2F2 B2B :|[2 B2B2 e2e2 | f2F2 B2B |]
+
+
+X: 2321
+T: Sally Kelly.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.32 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: Dm
+% - - - - - - - - - -
+V: 1 staves=2
+E |\
+Ddd^c ~d3f | {f}edcd efga | fde^c d2AF | GBAG FDD :| E | TF>GAc F/F/F A2 | TF>GAc BGGg |
+fde^c d2AF | G/A/B 	A>G FD-DF || F>GAc F/F/F A2 | TF>GAc BGGg | fde^c d2AF | (G/A/B) ~A>G FD-D |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | d2A2 d2d2 | c2c2 c2c2 |\
+d2A2 d2F2 | G2A2 D2D :| z |\
+[f2F2][f2F2] [f2F2][f2F2] | [f2F2][f2F2] [g2G2][g2G2] |
+d2A2 d2F2 | G2A2 D2Dz ||\
+[f2F2][f2F2] [f2F2][f2F2] | [f2F2][f2F2] [g2G2][g2G2] |\
+d2A2 d2F2 | G2A2 D2D |]
+
+
+X: 2322
+T: Sanders Brane.   a Strathspey.
+C: by Mr. Duncan
+%R: strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.32 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+A |\
+~FADA ~FADE/F/ | GCEG CGEG | FADA FADg | f>d f/e/d/^c/ dDD :| f/g/ | adfa daf>a | gceg cgef/g/ |
+adfa dafa | gc (a/g/f/e/) fddf/g/ || adfa daf>a | gceg cgef/g/ | a>fg>e f>de>c | A>c (A/G/F/E/) FDD |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+d2d2 d2d2 | c2c2 c2c2 | d2d2 d2d2 | G2A2 d2[dD] :| z | d'2d'2 d'2d'2  | c'2c'2 c'2c'2 |
+d'2d'2 d'2d'2 | g2a2 d2d2 || d'2d'2 d'2d'2 | c'2c'2 c2c2 | d2e2 f2g2 | a2A2 d2d |]
+
+
+X: 2323
+T: the Weapon Shaw.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.32 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: Dm
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+(DEF).D F3c | GFTED CDEC | D>EFD F2Fc | (d/c/=B/A/) cE D/D/D D2 :| d>edA d/d/d Tf2 | g>fed cdec |
+d>edA d/d/d Tf2 | ed^ce d2D2 || d>edA d/d/d Tf2 | g>fed cdec | decd AcFA | G<Ec>E D/D/D D2 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=D
+|:\
+D2D2 D2D2 | C2C2 C2C2 | D2D2 D2D2 | G,2A,2 D2D,2 :| d2d2 d2d2 | c2c2 c2c2 |
+d2d2 d2d2 | A2A2 D2D2 || d2d2 d2d2 | c2c2 C2C2 | D2E2 F2F2 | G2A2 D2D2 |]
+
+
+X: 2324
+T: Sailors Wife.   a Jig.
+%R: jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.32 #4 (and top 2 staves of p.33)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+N: The {c} grace note in bar 8 is missing its sharp; fixed.
+N: The 2nd strain has initial repeat but no final repeat; fixed.
+M: 6/8
+L: 1/8
+K: Dm
+% - - - - - - - - - -
+% Voice 1 reformatted to 2 8-bar staffs.
+V: 1 staves=2
+E |\
+DEF TE2D | ~d2e ~f2g | agf edc | AcA GEC ||\
+DEF ~E2D | d2e f2g | agf ed^c | {^c}d3 D2 :|
+|: e |\
+~f>ga fga | fga- a.g.f | ecg ecg | ecg gfe ||\
+Tf>ga agf | efg gfe | def ed^c | d3 D2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+d3 A3 | d3 d3 | d3 e3 | f3 c3 || d3 A3 | d3 f3 | g3 a3 | d3 d2 :||: z | f3 f3 |
+f3 f3 | c3 c3 | c3 ^c3 || d3 d3 | A3 A3 | d3 A3 | d3 [d2D2] :|
+
+
+X: 2331
+T: Ratha Fair.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.33 #1 (with top 2 staves continued from p.32)
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: Dm
+% - - - - - - - - - -
+% Voice 1 reformatted for _ _-bar lines, for compactness and proofreading.
+V: 1 staves=2
+!p!f/g/ |\
+adaf ecge | adag adag | adaf ecge | afge d2df/g/ || adaf ecge | adag adfa |
+gbfa gceg |a<fg>e d2-d |: e | (cAA)>c GAcG | (cAA)>=B Tc>ded | (cAA)>c GAcG | (A/=B/c) (.E.c) D3 :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z |\
+d'2d'2 c'2c'2 | d'2d'2 d'2d'2 |\
+d'2d'2 c'2c'2 | d'2a2 d2d2 ||\
+d'2d'2 c'2c'2 | d'2d'2 d2d2 |
+e2f2 c2c2 | d2A2 d2D |: z |\
+[a2A2][a2A2] [g2G2][g2G2] | [a2A2][a2A2] [a2A2][a2A2] |\
+[f2F2][f2F2] [g2G2][g2G2] | [a2A2][a2A2] [d3D3] :|
+
+
+X: 2332
+T: Bargenny Bowling Green.   a Jig.
+C: by Jo. Riddell
+%R: jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.33 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: Dm
+% - - - - - - - - - -
+V: 1 staves=2
+A, | (DE).D D2c | GEC ~C2E | DED D2e | f2d ecA | fgf {f}e2d | cAc ~C2E | DED D2f | (e/f/g)e d2 :|
+|: A | de.d d2a | gec ~c2e | ded d2a | g2e fdA | fgf {f}e2d cAc ~C2E | D>ED D2f | (e/f/g).e d2 :|
+|: A | dAd cAc | GEC ~C2c | dAd cAc | dAd cAc | fed cAF | GEC ~C2E | D>ED D2f | (e/f/g).e d2 :|
+|: f/g/ | afd afd | gec efg | afd afd | afd ~d2e | fgf {f}e2d | cAc ~C2E | DE.D D2f | (e/f/g).e d2 :|
+% - - - - - - - - - -
+V: 2 clef=bass middle=d
+z | d3 d3 | c3 c3 | d3 d3 | d3 A3 | d3 d3 | c3 c3 | d3 d3 | A3 D2 :|
+|: z | d'3 d'3 | c'3 c'3 | d'3 d'3 | a3 d3 | d3 e3 | f3 c3 | d3 d3 | A3 d2 :|
+|: z | [d3D3][d3D3] | [c3C3] [c3C3] | [d3D3] [d3D3] | [d3D3] [d3D3] |\
+       [d3D3][d3D3] | [c3C3] [c3C3] | [d3D3] [d3D3] | [a3A3] [d2D2] :|
+|: z | d'3 d'3 | c'3 c'3 | d'3 d'3 | d'3 d'3 | d3 e3 | f3 c3 | d3 d3 | A3 d2 :|
+
+
+X: 2341
+T: the Geen Tree.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.34 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: D
+% - - - - - - - - - -
+% Voice 1 reformatted for _ _-bar lines, for compactness and proofreading.
+V: 1 staves=2
+f | dD-D>F TE>DEf | gefd TedBe | dD-D>F TEDEg | fdef d/d/d d :| f | afdf abaf | gefd TedBf |
+afdf abaf | Tedef d/d/d df || afdf abaf | gbfa TedBe | dD-D>F TE>DEg | fdef d/d/d d |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | d2d2 A2A2 | c2d2 a2g2 | f2d2 a2A2 | d2A2 D2D :| z | d'2d'2 d'2d'2 | c'2d'2 a2g2 |
+f2d2 d'2f2 | g2a2 d2d2 || d'2d'2 d'2d'2 | c'2d'2 a2g2 | f2d2 a2A2 | d2A2 [d2D2][dD] |]
+
+
+X: 2342
+T: the Rocks of Cashel.   a Strathspey.
+O: Irish
+%R: strathspey, air
+N: This is version 2, for ABC software that understands voice overlays.
+B: Niel Gow & Sons "Complete Repository" v.2 p.34 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D	% ending on Em
+% - - - - - - - - - -
+V: 1 staves=2
+F |\
+D>FAB (B/A/).G/.F/ A2 | D>FA>F GETE>F | D>FA>B {B}AG/F/ A>c | {c}d>B AF GEE :: F | DF d>f (f/e/).d/.c/ d2 |
+DA d>f Te>de<f | (DA) dg (f/e/).d/.c/ d2 | d>B AF GEE :: !p!F | ((3DEF (3~FEF) ((3~FEF (3~FEF) & A8 | ((3DEF) ((3~FEF) GEEF & A8 |
+((3DEF) ((3~FEF) FABc | {Bc}d>B AF GEE :: !f!F/E/ | DA df (f/e/d/c/) d2 | DA df ge~e>f | DA df f/e/d/c/ {c}d2- | d>B AF GEE :|
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | d2d2 d2d2 | d2d2 e2e2 | d2d2 d2d2 | d2d2 e2e :: z | d2d2 A2d2 |
+d2d2 e2e2 | e2e2 A2d2 | d2d2 e2e :: !p!z |\
+[d2D2][d2D2] [d2D2][d2D2] | [d2D2][d2D2] [e2E2][e2E2] |
+[d2D2][d2D2] [d2D2][d2D2] | [d2D2][d2D2] [e2E2][eE] :: !f!z |\
+[d2D2][d2D2] [a2A2][d2D2] | [d2D2][d2D2] [e2E2][e2E2] |\
+[d2D2][d2D2] [a2A2][d2D2] | [d2D2][d2D2] [e2E2][eE] :|
+
+
+X: 2343
+T: I winna gae do bed, untill I'm Married.   a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.34 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+g | (f/g/a) A>B ABd.F | TE>DEF {F}B3g | (f/g/a) A>B ABdF | E>DEF [A3D3] :| e | f2fd g2ge | f2fd TB2de |
+f2fd g2ge | (f/g/a) e>f d3e || f2fd g2ge | f2fd B2de | (.f.f) fd (.g.g) ge | (f/g/a) ef d3 |]
+% - - - - - - - - - -
+% Voice 2 preserves the staff layout in the book.
+V: 2 clef=bass middle=d
+z | d2d2 d2d2 | e2f2 g2g2 | f2d2 d2d2 | A2A2 d3 :| z | d2d2 e2c2 | d2f2 g2G2 |
+d2d2 e2c2 | d2A2 D2d2 || d2d2 e2c2 | d2f2 g2G2 | d2d2 e2c2 | d2A2 D2D |]
+
+
+X: 2351
+T: Hey to Cupar.  a Jig.
+%R: jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.35 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+A, |\
+D>ED TF2G | A2c AFD | G2e F2d | EFD C>B,A, |\
+D>ED TF2G | A2B AFD | FdF Edc | d3 d2 :: A |\
+d>ed Tf2g |
+       {fg}a2g Tfed | BcB Tc2d | efd cBA |\
+ded Tf2g | {fg}a2g fed |[1 B/c/dB c/d/ec | {c}d3 D2 :|\
+                        [2 Bgf edc | {c}d3 D2 |]
+% - - - - - - - - - -
+V: 2 clef=bass middle=d
+z | d3 d3 | [f3d3] d3 | e3 d3 | a3 A3 | d3 d3 | [f3d3] d3 | d3 A3 | d3 d2 :: z | d'3 d'3 |
+d'3 f3 | g3 f3 | e3 a3 | d'3 d'3 | d'3 f3 |[1 g3 a3 | d3 d2 :|[2 g3 a3 | d3 d2 |]
+
+
+X: 2352
+T: the Braes of Marr.  a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.35 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+f |\
+~d3f d/d/d f2 | E2TB>A BEEc |\
+~d(cde) defg | aAAF TE2D :|\
+G |\
+FA-AB/c/ dB AF | GBAF E/E/E (.B.E) |
+FA-A>B ABde | fdgf Te2dA |\
+FA-AB/c/ dBAF | GBFd (EFG).E |\
+(FAA>)B ABde | (f/g/a) g>f Te2d |]
+% - - - - - - - - - -
+V: 2 clef=bass middle=d
+z | d2d2 d2d2 | e2e2 e2e2 | d2d2 d2d2 | a2A2 A2d :| z | d2d2 d2d2 | g2f2 e2e2 |
+d2d2 d2d2 | a2A2 d2D2 | d2d2 d2f2 | g2f2 e2e2 | d2d2 d2d2 | a2A2 d2d |]
+
+
+X: 2353
+T: the Chorus Jig
+O: Irish
+%R: jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.35 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+A |\
+F2D- D>ED | AFD DED | (F2D) DED | A3 BAG |\
+F2D- D>ED | AFD DED | [E2=C2]=c cGE | G3 E2 :|
+|: A |\
+F2d- dcd | ABG {G}FED | F2d- dcd | A3 BAG |\
+F2d- dcd | ABG FED | E2=c- cBc | ~G3 G2 :|
+|: g |\
+Tf2d- ded | afd ded | Tf2d- ded | Ta3 bag |\
+f2d- ded | afd de=f | e2=c- cec | Tg3 e2 :|
+|: g |\
+fdf ece | dBd AFA | D2d dcd | A3 ABc |\
+dBd cAc | BGB AGF | E2=c- cGE | G3 G2 :|
+% - - - - - - - - - -
+V: 2 clef=bass middle=d
+   z | d3 d3 | d3 d3 | d3 d3 | d3 d3 | d3 d3 | d3 d3 | =c3 c3 | c3 c2 :|
+|: z | d3 d3 | d3 d3 | d3 d3 | d3 d3 | d3 d3 | d3 d3 | =c3 c3 | c3 c2 :|
+|: z | d'3 d'3 | d'3 d'3 | d'3 d'3 | d'3 d'3 | d'3 d'3 | d'3 d'3 | =c'3 c'3 | c'3 c'2 :|
+|: z | d'3 c'3 | b3 f3 | d3 d3 | d3 d3 | b3 a3 | g3 f3 | e3 =c3 | c3 c2 :|
+%%begintext align
+%% The unmarked C notes in the bass line's final bars of all 4 strains are
+%% probably meant as C sharps. This is most obvious in the first strain,
+%% giving an A(7) chord to lead into the D chord in the next strain. The
+%% progression C-A7-D also works for the other strains. The bass also has
+%% C natural notes in the last bar (24) of strain 3, but the C sharps in the previous
+%% bar (23) disagree with the notes in the melody and likely should be C naturals there,
+%% too. I've made the change here. [JC]
+%%endtext
+
+
+X: 2361
+T: Steer the Gill.  a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.36 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/16
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+d4- d3e (dcBA) (GFED) | d4 d2f2 (efg2) (fga2) |\
+d4 d2e2 (dcBA) (GFED) | E2=C2-C2E2 c4 .c3e :|
+|:\
+d2D2-D2B2 A2F2(TE2D2) | d2D2-D2f2 (efg2) (fga2) |\
+d2D2D2B2 A2F2(TE2D2) |E2=C2C2E2 c4- c3e :|
+% - - - - - - - - - -
+V: 2 clef=bass middle=d
+|: d4d4 d4d4 | d4d4 A4d4 | d4d4 d4d4 | =c4c4 c4c4 :|
+|: d4d4 d4A4 | d4d4 c4d4 | d4d4 d4A4 | =c4c4 c4c4 :|
+
+
+X: 2362
+T: the Marquis of Huntlys Highland Fling  (a Strathspey)
+C: by the late Mr Geo. Jenkins
+%R: strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.36 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+A |\
+d<df>d g>ef>d | B<Be>B c>AA>c |\
+d<df>d g>ef>d | B>e (d/c/B/A/) d2D :|
+|: B |\
+A>D F/E/D A>Bd>f | g>ef>d {f}e>dB>d |\
+A>D (F/E/D)  A>Bd>b | a>fTe>f d2D :|
+% - - - - - - - - - -
+V: 2 clef=bass middle=d
+   z | d2d2 A2d2 | G2^G2 A2A2 | d2d2 c2d2 | G2A2 d2d :|
+|: z | D2d2 d2d2 | c2d2  a2g2 | f2d2 d2g2 | a2A2 d2d :|
+
+
+X: 2363
+T: Lady Mackintosh's Reel
+T: For a' that and a' that
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.36 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+f |\
+d/d/d dA B>def | d/d/d gd B2-Bf | d/d/d dA B>def- | f>edB A2A :| g | Tf>gaf gee(g | f)dgd B2-Bg |
+f>gaf geeg | fedB A2Ag | Tf>gaf geeg | fgad B2Bg | Tf>gaf geag | Tf>edB A3 |]
+% - - - - - - - - - -
+V: 2 clef=bass middle=d
+z |\
+[d2F2][d2F2] [d2G2][d2A2] | [d2F2]d2 g2g2 | f2d2 g2a2 | a2g2 f2d :| z | d2d'2 c'2a2 | f2d2 g2g2 |
+f2d2 e2c'2 | d'2g2 f2d2 | d2d'2 c'2a2 | f2d2 g2g2 | f2d2 e2c'2 | d'2g2 d3 |]
+
+
+X: 2364
+T: the Duke of Cumberland's Strathspey
+%R: strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.36 #4
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+E |\
+D<D B2 TA>F {F}A2 | GE =c2 ECCE |\
+D<D B2 TA>F {F}A2 | A,<A, A,>B, D2D :| E |\
+D<D d>D TF>D dD | =C<C c>E c>E c>E |
+D<D d>D TF>D dD | A,<A, A,>B, {B,}D3 E |\
+D<D d>F d>F d>F | E<E =c>E c>E c>E |\
+{D}d>efd efga | A,<A, A,>B, D3 |]
+% - - - - - - - - - -
+V: 2 clef=bass middle=d
+z | d2d2 d2d2 | =c2c2 c2c2 | d2d2 d2d2 A2A2 d2d :| z | d2d2 d2d2 | =c2c2 c2c2 |
+d2d2 d2d2 | A2A2 d2d2 | d2d2 d2d2 | =c2c2 c2c2 | f2d2 c2A2 | d2A2 d3 |]
+
+
+X: 2371
+T: the Auld Stewart's back again.  a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.37 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+(=c |\
+B)GAG TF>GA=c | BGAF BEE=c |\
+BGAF TF>GAg | fdec dDD :| g |\
+Tf>gaf gabg | Tf>gaf beeg |
+(fga).f (ga).b.g | fdec dDD g |\
+Tf>gaf gabg | Tf>gaf beeg |\
+fgaf gabg | faef dDD |]
+% - - - - - - - - - -
+V: 2 clef=bass middle=d
+z | d2d2 d2f2 | g2d2 e2e2 | d2d2 d2a2 | d'2a2 d2d :| z | d2d2 e2c2 | d2d2 e2e2 |
+d2d'2 e'2c'2 | d'2a2 d2dz | d2d2 e2c2 | d2d2 e2c'2 | d'2d'2 e'2c'2 | d'2a2 d2d |]
+
+
+X: 2372
+T: Kiss me fast my Minnie's coming.  a Jig.
+%R: jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.37 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+|:\
+D2A F2A | E2=c GEC  | D2A   F2A | D2A AFD |\
+GBG FAF | TE2F GE=C | Td>cB AFd | D2A AFD :|
+|:\
+d2g (f/g/a).f | e2f ge=c | d2g (f/g/a).f | d2a- afd |\
+gbg faf | e2f ge=c | ~dcB AFd | D2A- AFD :|
+% - - - - - - - - - -
+V: 2 clef=bass middle=d
+|: d3  d3  | =c3  c3  | d3  d3  | d3  d3  |\
+   e3  d3  | =c3  c3  | d3  A3  | d3  d3 :|
+|: d'3 d'3 | =c'3 c'3 | d'3 d'3 | d'3 d'3 |\
+   g3  d3  | =c3  c3  | d3  A3  | d3  d3 :|
+
+
+X: 2373
+T: the Swallow.  a Reel
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.37 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+A |\
+(F/E/D) (F/E/D) d2dg | Tf2df eE-EA |\
+(F/E/D) (F/E/D) d2-dg | faef dDD :| g |\
+fdfg aeeg | fdgf eEEg |
+fdfg aeeg | fdec dDDg |\
+fdfg aeeg | fdgf eEEg |\
+fdfg abag | fdec dDD |]
+% - - - - - - - - - -
+V: 2 clef=bass middle=d
+z | d2d2 d2d2 | d2d2 e2e2 | d2d2 f2g2 | a2A2 d2d :| z |
+d'2d'2 c'2c'2 | b2b2 a2a2 | d'2d'2 c'2c'2 | d'2a2 d2d2 |\
+d'2d'2 c'2c'2 | b2b2 a2a2 | d'2d'2 c'2c'2 | d'2a2 d2d |]
+
+
+X: 2374
+T: Look before you.  a Strathspey.
+%R: strathspey
+B: Niel Gow & Sons "Complete Repository" v.2 p.37 #4
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: D
+% - - - - - - - - - -
+V: 1 staves=2
+F | D>AF>A D>AF>A | E=cc>G TE2CE | D>AF>A D>AF>A | Ddd>A F2D :| f | d>fA>f d>fA>B | ~=c>d~e>f g2 (a/g/f/e/) |
+d>fA>f dfAf | ~d>e~f>g a2 (a/g/f/e/) | d>fA>f d>fA>B | ~=c>d~e>f g2 ef/g/ | a>fg>e f>de>c | d>AB>G TF2D |]
+% - - - - - - - - - -
+V: 2 clef=bass middle=d
+z | d2d2 d2d2 | =c2c2 c2c2 | d2d2 d2d2 | d2A2 D2D :| z | d2d2 d2d2 | =c2c2 c2^c2 |
+d2d2 d2d2 | d2A2 d2d2 | d2d2 d2d2 | =c2c2 c2c2 | d2e2 f2g2 | a2A2 d2d |]
+
+
+X: 2381
+T: Look Behind You. a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.38 #1
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+% - - - - - - - - - -
+% Voice 1 formatted for regularity.
+V: 1 staves=2
+(B |\
+A).DF>D EB,B,B | ADF>E d2df |\
+gfed eBBd | FD F/G/A d2-d :|
+|: f |\
+dg (f/g/a) be-e>f | dg f/g/a fde(c |\
+d)BAF E>FGB | FD F/G/A d2-d :|
+% - - - - - - - - - -
+% Voice 2 preserves the book's staff layout.
+V: 2 clef=bass middle=d
+z |\
+d2d2 e2e2 | d2d2 d2d2 |\
+d2d2 e2e2 | d2A2 d2d :|\
+|: z |\
+d2d2 e2e2 | d2d2 d2a2 |
+g2f2 e2e2 | d2A2 D2D :|
+
+
+X: 2382
+T: the Banks of Allan. a Jig.
+%R: jig
+B: Niel Gow & Sons "Complete Repository" v.2 p.38 #2
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: D
+% - - - - - - - - - -
+% Voice 1 formatted for regularity.
+V: 1 staves=2
+A |\
+(FGF) FED | (F.A.A) A2d | B(.d.d) A(.d.d) | Bdd Add |\
+(FG)F- FED | (FA)A- A2d | BdB {B}AGF | GEE E2 :|
+|: g |\
+fgf {g}fed | faa a2g | fgf {g}fed | fbb bag |\
+f>ga efg | def- fed | BdB {B}AGF | (GE).E E2 :|
+% - - - - - - - - - -
+% Voice 2 preserves the book's staff layout.
+V: 2 clef=bass middle=d
+z |\
+d3 d3 | d3 d3 | [g3d3] [f3d3] | [g3d3] [f3d3] |\
+d3 d3 | d3 f3 | g3 f3 | e3 e2 :|
+| z |\
+d'3 d'3 | d'3 d'3 | d'3 f3 | g3 g3 |\
+d'3 c'3 | b3  f3  | g3  f3 | e3 e2 :|
+
+
+X: 2383
+T: Thro' the warl'd wou'd I gae we the Lad I Like. a Reel.
+%R: reel
+B: Niel Gow & Sons "Complete Repository" v.2 p.38 #3
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: D
+% - - - - - - - - - -
+% Voice 1 formatted for regularity.
+V: 1 staves=2
+f |\
+~d3f B/B/B e2 | d3g f/f/f Tf2 | gfed cdef | dgfe d2D :: f | dDAF BEEe | dDAF dDAf |
+dDAF BEEe | d>B AF D2- Df || dDAF BEEe | dDAF AgTf>e | dBAF E/E/E (.B.E) | dgTf>e d2-d |]
+% - - - - - - - - - -
+% Voice 2 preserves the book's staff layout.
+V: 2 clef=bass middle=d
+z | d2d2 e2e2 | d2d2 d2d2 | g2f2 e2e2 | d2A2 D2D :: z | d2d2 e2e2 | d2d2 d2d2 |
+d2d2 e2e2 | d2A2 D2D2 || d2d2 e2e2 | d2d2 c2d2 | g2f2 e2e2 | d2A2 D2D |]
+
+
+X: 2384
+T: Good Night and Joy be wi' ye a'
+%R: reel, march
+B: Niel Gow & Sons "Complete Repository" v.2 p.38 #4
+Z: 2021 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+Q: "SLOWISH"
+K: C	% and Am
+% - - - - - - - - - -
+% Voice 1 formatted for regularity.
+V: 1 staves=2
+ed |\
+c2~c2 G3c | A2A2 a3g |\
+(eg).a.g egag | e2c2 c2 :| ze |\
+{e}dcde {e}d2cA | GAcd {cd}e2dc |
+~dcde ~fefg | {fg}a2d2 d3e ||\
+f>efg {fg}a2gf | edef {ef}g2fe |\
+(de).f.a (g<e)d>e | c2[A2E2C2] [A2E2C2] |]
+% - - - - - - - - - -
+% Voice 2 preserves the book's staff layout.
+V: 2 clef=bass middle=d
+z2 |\
+c2c'2 c2e2 | f2F2 f2e2 | c2z2 c2z2 | c2e>g c'2 :| z2 |\
+[g4G4] [f4F4] | [e2E2][d2D2] [c4C4] |
+[B3B,3][cC] [d3D3][eE] | [f2F2][a2A2] [g2G2]z2 ||\
+[d2D2][e2E2] [f2F2][b2B2] | [c'2c2][d'2d2] [e'2e2][c'2c2] |\
+[d'4d4] e'2e2 | a2e2 A2 |]

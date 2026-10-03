@@ -1,0 +1,71 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Elselein
+C:Glogauer Liederbuch, No. 250
+O:Germany
+B:Glogauer ms.
+Z:Transcribed by Laura Conrad http://www.laymusic.org
+M:3/2
+L:1/2
+N:Original clef, C on first line
+K:D dor
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+"(1)" D D2 F E2 D E > F G A2 A D2 E G > F E/ D/ C3
+N: (1) Pickup D is editorial
+w:Ach Els'- lein, lie- bes El- * se- lein, wie gern war ich _ bei _ dir!
+w:Das bringt mir gro- ße Schmer- * * zen, herz- a- ller- lib- * ster _ G'sell,
+w:Hoff, zeit werd es wohl en- * * den. Hoff, Glück wird kom- *  men * drein,
+z z C E > F G F2 E D > E F E2 D C2 A, B, > ^C
+w:So rin- nen zwei tie- fe Was- * * ser wohl Zwis- chen dir _ 
+w:red' ich _ von gan- zen Her- * * zen  hab's für groß Un- * 
+w:sich in * all's Guts ge- wen- * * den,  herz- lie- bes El- *
+B, D8 |]
+w:und mir.
+w:ge- fäll
+w:se- lein.
+
+X:2
+T:Elselein
+C:Glogauer Liederbuch, No. 250
+O:Germany
+B:Glogauer ms.
+Z:Transcribed by Laura Conrad http://www.laymusic.org
+M:3/2
+L:1/2
+N:Original clef, C on fourth line
+K:D dor -8va
+%%MIDI transpose -12
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+"(1)"D D3 A2 B c > A B A3 B2 c B G2 A2 G/ F/ E3 C3 D2 E F D2 C2 G A2 F G E2 D8 |]
+
+X:3
+T:Elselein
+C:Glogauer Liederbuch, No. 250
+O:Germany
+B:Glogauer ms.
+Z:Transcribed by Laura Conrad http://www.laymusic.org
+M:3/2
+L:1/2
+N: original clef, C on fifth line
+K:D dor bass
+%%MIDI transpose -24
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+"(1)"a a2 a A c B A2 e A2 a g2 c e3/2 d// c// B A6 z2 z a2 g a2 b c' c B A2 d G A2 a8 |]

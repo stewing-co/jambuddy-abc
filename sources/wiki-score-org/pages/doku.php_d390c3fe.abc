@@ -1,0 +1,50 @@
+X:510
+T:Gloria
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:C
+V: 10 clef=tenor name="Gloria" sname="Gl."
+%%MIDI program 1 1
+%%staves [ 10 ]
+%----------------------------------------------------------------------------------------------------
+[L:1/8] z2 D B,/ B,/ B, D G,2 | E E z \
+w: Van-ne fas-to-sa pur van-ne
+G E z/ E/ C/ C/ D/ E/ | D2 D2 z \
+w: ne mai si stran-chi la tua trom-ba
+A, C B, | B,2 B,2 G, G, D E/ F/ | E2 z \
+w: O Don-na illus-tre for-se sor-ger ve-drai
+E E B, B, C | D> D D E {D}^C2 C> D | E E E F F> F D C | A,2 A,2 z2 \
+w: al dol-ce ri-suo-nar de pre-gui suoi Bel de-sio di vir-tu ne pet-ti al-tru-i
+z C | F> C A, A,/ _B,/ C C C> D | _E E/ G/ E/ E/ E/ D/ _B,2 B,2 | z2 \
+w: da ques-ta nas-ce sol glo-ria ed o-nore su-bli-me ed im-mor-ta-le
+F,> F, _B, B,/ C/ _D D | D2 B,> A, _B, B, z/ B,/ B,/ C/ | =B,2 B,2 z \
+w: ques-ta allor che-ria mor-te as-pra e su-perba al mon-do in-vola
+C/ C/ F C | F, F, C D _E2 E D | _B,2 B,2 z \
+w: d'al-la tom-ba os-cu-ra trae l'uom glo-ri-o-so
+D D D | D ^C z D A,2 A,2 | z8 || \
+w: e'a mi-glior vi-ta il ser-ba.
+[Q:"Allegro"][K:D][L:1/4] Z9 | \
+A, E///D///C3/4 {B,}A,>C | D//B,// F E//D// C//B,// A,/ z | \
+w: Las-ce---ran-no l'A--pi i-- fio--ri
+C E/8D/8C3/4 {B,}A,>C | D//B,// F E//D// C//B,// A,/ z | \
+w: Il bel---can-to'i dol--ci au--gel--li
+EB, E,//F,// ^G,//A,// B,/ C/ | {C}D C E/E D//C// | D/ D C//B,// C/ A C/ | C<B, \
+w: L'om-bra ca--ra-- gl'ar-bos-cel-li ma non--- fia-- che-- non- si--ono-ri
+E^D | ^G/F//E// ^D//C// B,//A,// ^G,/ G,/F,/>E,/ | B, !trill!E/8^D/8E3/4 z/F//E// ^D/F/ | ^G, !trill!E/8^D/8E3/4 z/^G//F// E/G/ | A, !trill!A/8^G/8A3/4- A//^G//F//E//^D/ E/ | ^G,/ (G,/F,)E,z | Z3 | \
+w: di vir-tu--de l'al----to splen---dor------------------------* L'al-to splen--dor.
+A, E/8D/8C3/4 {B,}A,>C | D//B,// F E//D// C//B,//A,/ z | \
+w: Las-ce---ran-no l'A--pi i-- fio--ri
+B, F/8E/8D3/4 {C}B,>D | E//C// G F//E// D//C//B,/ z | \
+w: Il bel---can-to'i dol--ci au--gel--li
+E E E/ C//D// E/ E/ | G/FE/ D//C// D3/2 | D DD/ B,//C// D/ D/ | F/ED/ C/8D/8E3/4 E/8F/8E3/4 |  A/CB,//A,// B,/8C/8D3/4 D/8E/8D3/4 | B/!trill!D C//B,// C/8D/8E3/4 E/8F/8E3/4 | A/ !trill!C B,//A,// B,//C// D E/ | E/F/F/^G/ !trill!A3/4^G/8F/8 E/D/ | {D}!trill!C2 B, z | \
+w: L'om-bra ca-ra-- gl'ar-bos-cel-----li L'om-bra ca-ra-- gl'ar-bos-cel-----------------------------------------------li
+z2 C/CB,//A,// | B,/B,A,//^G,// (A,/F)A,/ | A,<^G, D/(CB,/) |  C//D// EA/ CB, | A, !trill!C/8B,/8C3/4 z/E//>D// C/E/ | F, D/8C/8D3/4 z/F//E// ^D/F/ | ^G,/B,C//D// E//^G//F//E// A/ A,/ | C !trill!B,A,z| Z3 | z3 || z || \
+w: ma non--- fia-- che-- non- si--ono-ri di vir--tu--- L'al-to splen-dor------------------------ L'al--to splen-dor
+C A///^G///F3/4 {F}^E>=D | C/^GB,/ A,//^G,//F,3/2  | F^A,B,2- | B,/ D/ D/ F,/ F,<^E, | \
+w: Ai se---re-ni rag-gi-- su--ori om-bra far-- non puo la mor-te
+C^E{E}F2- | F/ C/ E//D// C/ D//C// D3/2 | B, ^D {D}E2- | E/ B,/ D//C// B,/ C//B,// C3/2 | AC{C}^B,2 | \
+w: sor-ge al-lor piu chia-ro e for--te sor-ge al-lor piu chia--ro, e'for--te de-gli Eroi
+^D^G, E/>C/ A/ C/ | (E^D/)> C/ C2| ^D/8E/8F3/4 ^B,/8C/8^D3/4 E/8F/8^G3/4 A/ C/ | "^Da capo" ^G, ^D/> C/ Cz |]
+w: il gran no-me e il bel-- va-lor----------- il bel-- va-lor
+%----------------------------------------------------------------- end of V: 10 --

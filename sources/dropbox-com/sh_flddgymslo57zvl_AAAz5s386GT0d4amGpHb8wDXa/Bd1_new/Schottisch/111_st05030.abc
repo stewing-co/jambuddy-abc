@@ -1,0 +1,38 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.327 (st05030) orig. C,G,F-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"g2g2 c2c2 | "G7"Bcde f2f2 | a2a2 B2B2 | "C"cdef g2g2 | c'2c'2 c2c2 | "Dm/F"a2a2 d2d2 | "G7"f2B2 e3d |1 "G7"dcBA "C"G4 :|2 "C"c2e2 c2z2 || [K:G] 
+"G"d^cd^d e2d2 | dBcd e2d2 | "D7"agfe d2c2 | "G"Bgfed4 | d^cd^d e2d2 | dBcd e2d2 | "D7"c'bag fdef | "G".g4"_>Teil A"z4 || [K:F] 
+|: "F"c6dc | c6dc | c2a2 f2d2 | c4 z2fg | "C7"T(f2e2) e2e2 | g3f edcB | "F"A2fg a2fa | "C7"c'4c'4 | 
+"F"c6dc | c6dc | c2ag "Bb"fefd | "F"c6c2 | "Bb"d6bd | "F"c6f2 | "C7"fede a3g | "F"f2f2 f2z2 :|
+
+X:2
+T: Schottisch CGF chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+[P:A] "C"g2g2 c2c2 | "G7"Bcde f2f2 | a2a2 B2B2 | "C"cdef g2g2 | c'2c'2 c2c2 | "Dm/F"a2a2 d2d2 | "G7"f2B2 e3d |1 "G7"dcBA "C"G4 :|2 "C"c2e2 c2z2 || [P:B] [K:G] 
+"G"d^cd^d e2d2 | dBcd e2d2 | "D7"agfe d2c2 | "G"Bgfed4 | d^cd^d e2d2 | dBcd e2d2 | "D7"c'bag fdef | "G".g4"_>Teil A"z4 || [P:C] [K:F] 
+|: "F"c6dc | c6dc | c2a2 f2d2 | c4 z2fg | "C7"T(f2e2) e2e2 | g3f edcB | "F"A2fg a2fa | "C7"c'4c'4 | 
+"F"c6dc | c6dc | c2ag "Bb"fefd | "F"c6c2 | "Bb"d6bd | "F"c6f2 | "C7"fede a3g | "F"f2f2 f2z2 :|
+
+X:3
+T:Schottisch EbBbAb (5letras) cf. CGF
+P:ABAC
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+[P:A] "Eb"b2b2 e2e2 | "Bb7"defg a2a2 | c'2c'2 d2d2 | "Eb"efga b2b2 | e'2e'2 e2e2 | "Fm/Ab"c'2c'2 f2f2 | "Bb7"a2d2 g3f |1 "Bb7"fedc "Eb"B4 :|2 "Eb"e2g2 e2z2 || [P:B] [K:Bbmaj] 
+"Bb"f=ef^f g2f2 | fdef g2f2 | "F7"c'bag f2e2 | "Bb"dbagf4 | f=ef^f g2f2 | fdef g2f2 | "F7"e'd'c'b afga | "Bb".b4"_>Teil A"z4 || [P:C] [K:Abmaj] 
+|: "Ab"e6fe | e6fe | e2c'2 a2f2 | e4 z2ab | "Eb7"(a2g2) g2g2 | b3a gfed | "Ab"c2ab c'2ac' | "Eb7"e'4e'4 | 
+"Ab"e6fe | e6fe | e2c'b "Db"agaf | "Ab"e6e2 | "Db"f6d'f | "Ab"e6a2 | "Eb7"agfg c'3b | "Ab"a2a2 a2z2 :|
+
+% Nov 24, 2015

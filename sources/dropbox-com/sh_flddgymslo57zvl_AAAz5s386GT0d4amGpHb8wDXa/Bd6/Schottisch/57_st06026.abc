@@ -1,0 +1,68 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Schottisch  CGF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.308 (st06026) orig. C,G,F-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"c'bag agfe | "G7"f2f2B4 | GABc defg | "C"ag^fg e2c2 | c'bag agfe | "G7"f2f2 B2GA | 
+Bcde fgab | "C"c'2c'2 c'2z2:: [K:G] "G"Bd^cd edgb | Bd^cd  edgb | "D7"c'bag fedf | "G"gfgb d'4 | 
+"C"e'd'c'b "F"a2a2 | "G7"d'c'ba "C"g2g2 | "D7"c'bag f2ef | "G7"g2g2 g2"_>Teil A"z2 :: [K:F] ("F"a4 a)c'=bc' | (f4 f)a^ga | 
+(c4 c)fef | A4 A2c2 | "C7"bagf e2c2 | g2g2 g2c2 | "F"agfe d2c2 | f2f2f4 | "Bb"fdd2 dfed | dcc2 caa2 | 
+"C7"abe2 egc2 | "F"^gaf2 f2ff | "Bb"fdd2 dfed | "F"dcc2 caa2 | "C7"abeg cege | "F"f2f2 f2z2 |] 
+W: Parts: ABAC
+% st06026
+X:2
+T: Schottisch  CGF (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"c'bag agfe | "G7"f2f2B4 | GABc defg | "C"ag^fg e2c2 | c'bag agfe | "G7"f2f2 B2GA | 
+Bcde fgab | "C"c'2c'2 c'2z2:: [K:G] "G"Bd^cd edgb | Bd^cd  edgb | "D7"c'bag fedf | "G"gfgb d'4 | 
+"C"e'd'c'b "F"a2a2 | "G7"d'c'ba "C"g2g2 | "D7"c'bag f2ef | "G7"g2g2 g2"_>Teil A"z2 :: [K:F] ("F"a4 a)c'=bc' | (f4 f)a^ga | 
+(c4 c)fef | A4 A2c2 | "C7"bagf e2c2 | g2g2 g2c2 | "F"agfe d2c2 | f2f2f4 | "Bb"fdd2 dfed | dcc2 caa2 | 
+"C7"abe2 egc2 | "F"^gaf2 f2ff | "Bb"fdd2 dfed | "F"dcc2 caa2 | "C7"abeg cege | "F"f2f2 f2z2 |] 
+W: Parts: ABAC
+% st06026
+X:3
+T:Schottisch DA&G (tinwhistle in D)
+T:st06026 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"dcBA BAGF | "A7"G2G2C4 | A,B,CD EFGA | "D"BA^GA F2D2 | dcBA BAGF | "A7"G2G2 C2A,B, | 
+CDEF GABc | "D"d2d2 d2z2:: [K:A] "A"CE^DE FEAc | CE^DE FEAc | "E7"dcBA GFEG | "A"AGAc e4 | 
+"D"fedc "G"B2B2 | "A7"edcB "D"A2A2 | "E7"dcBA G2FG | "A7"A2A2 A2"_>Teil A"z2 :: [K:G] ("G"B4 B)d^cd | (G4 G)B^AB | 
+(D4 D)GFG | B,4 B,2D2 | "D7"cBAG F2D2 | A2A2 A2D2 | "G"BAGF E2D2 | G2G2G4 | "C"GEE2 EGFE | EDD2 DBB2 | 
+"D7"BcF2 FAD2 | "G"^ABG2 G2GG | "C"GEE2 EGFE | "G"EDD2 DBB2 | "D7"BcFA DFAF | "G"G2G2 G2z2 |] 
+W:Parts: ABAC
+X:4
+T:Schottisch DA&G (tinwhistle in D) solo
+T:st06026 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D transpose=12
+dcBA BAGF | G2G2C4 | A,B,CD EFGA | BA^GA F2D2 | dcBA BAGF | G2G2 C2A,B, | 
+CDEF GABc | d2d2 d2z2:: [K:A] CE^DE FEAc | CE^DE FEAc | dcBA GFEG | AGAc e4 | 
+fedc B2B2 | edcB A2A2 | dcBA G2FG | A2A2 A2"_>Teil A"z2 :: [K:G] (B4 B)d^cd | (G4 G)B^AB | 
+(D4 D)GFG | B,4 B,2D2 | cBAG F2D2 | A2A2 A2D2 | BAGF E2D2 | G2G2G4 | GEE2 EGFE | EDD2 DBB2 | 
+BcF2 FAD2 | ^ABG2 G2GG | GEE2 EGFE | EDD2 DBB2 | BcFA DFAF | G2G2 G2z2 |]
+W:Parts: ABAC
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 9, 2016

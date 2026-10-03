@@ -1,0 +1,59 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka-Mazurka (Mazurka) DAG (mz06359) ABAC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.122 (mz06359) orig. D,A,G
+T: Basel - Repertoire der 'Holzmusig Allschwil'. S.118-139
+T:Überliefert durch Wihelm Lötscher-Schätzle (*1878, Uhrmacher)
+%%MIDI program 21
+%%partsbox
+P:ABAC
+R:Mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+[P:A] "D".d2.f2.a2 | "A7"g>f g>ab2 | .c2.e2.g2 | "D"f>e f>ga2 | .A2.d2.f2 | "Em"e>^d e>fg2 | ("A7"g.b)c2c2 | 
+"D"d2d2z2 :: [P:B] [K:A] "A"c>d!>!e4 | c>e.!>!a4 | ("E7"ce d>)^AB2 | ("A"df e>)^Bc2 | c>d!>!e4 | c>e.!>!a4 | 
+("E7"ce d).F .GB | "A"A2"_>Teil A"A4 :: [P:C] [K:G] "G"B>d g3d | ("C"df).e2.e2 | "D7"A>cf3c | ("G"Be) .d2.d2 | 
+("Am"ed .c).A .A.A | ("G"ed B).G .G.G |1 ("D7"FG A).D .E.F | "G"GA Bcd2 :|2 "D7"AB cd ef | "G"g2"_Fine"g4 |] 
+W:
+W:Anmerkung H.C.: Schulze
+% mz06359
+% Dez 7, 2016
+
+X:2
+T:Polka-Mazurka (Mazurka) DAG (mz06359) ABAC
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.122 (mz06359) orig. D,A,G
+S:Überliefert durch Wihelm Lötscher-Schätzle (*1878, Uhrmacher)
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D".d2.f2.a2 | "A7"g>f g>ab2 | .c2.e2.g2 | "D"f>e f>ga2 | .A2.d2.f2 | "Em"e>^d e>fg2 | ("A7"g.b)c2c2 | 
+"D"d2d2z2:: [K:A] "A"c>d!>!e4 | c>e.!>!a4 | ("E7"ce d>)^AB2 | ("A"df e>)^Bc2 | c>d!>!e4 | c>e.!>!a4 | 
+("E7"ce d).F .GB | "A"A2"_>Teil A"A4 :: [K:G] "G"B>d g3d | ("C"df).e2.e2 | "D7"A>cf3c | ("G"Be) .d2.d2 | 
+("Am"ed .c).A .A.A | ("G"ed B).G .G.G |1 ("D7"FG A).D .E.F | "G"GA Bcd2 :|2 "D7"AB cd ef | "G"g2"_Fine"g4 |] 
+W:Parts: ABAC
+W:Anmerkung H.C.: Schulze
+% mz06359
+% Dez 7, 2016
+
+X:3
+T:Polka-Mazurka (Mazurka) CGF 2- (mz06359) ABAC
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.122 (mz06359) orig. D,A,G
+S:Überliefert durch Wihelm Lötscher-Schätzle (*1878, Uhrmacher)
+%%MIDI program 21
+R:Mazurka
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C".c2.e2.g2 | "G7"f>e f>ga2 | .B2.d2.f2 | "C"e>d e>fg2 | .G2.c2.e2 | "Dm"d>^c d>ef2 | ("G7"f.a)B2B2 | 
+"C"c2c2z2:: [K:Gmaj] "G"B>c!>!d4 | B>d!>!g4 | ("D7"Bd c>)^GA2 | ("G"ce d>)^AB2 | B>c!>!d4 | B>d!>!g4 | 
+("D7"Bd c).E .FA | "G"G2"_>Teil A"G4 :: [K:Fmaj] "F"A>c f3c | ("Bb"ce).d2.d2 | "C7"G>Be3B | ("F"Ad) .c2.c2 | 
+("Gm"dc .B).G .G.G | ("F"dc A).F .F.F |1 ("C7"EF G).C .D.E | "F"FG ABc2 :|2 "C7"GA Bc de | "F"f2"_Fine"f4 |] 
+W:Parts: ABAC
+% mz06359
+% Dez 7, 2016

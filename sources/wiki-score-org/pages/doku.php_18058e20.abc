@@ -1,0 +1,17 @@
+X:407
+T:N.6 Mais lentamente
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 7 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%---- edit between the lines -----
+[L:1/8] [F,,F,,,]2 [C,C,,] [F,,F,,,] z/ [K:treble] ((3A,//C//^E//A) | \
+[K:bass] C,,//A,,//D,//F,// z [K:treble] d [K:bass] E,,//A,,//E,//G,// z [K:treble] A |\
+[K:bass] !ped! F,,//A,,//D,//F,// z2 z3 | (C,3C,2) ((3A,/C,/F,/) | !ped!(D,2C,) !ped!(B,,2A,,) | \
+G,,3 z3 | ((3F,/B,/D/) ((3F,,/B,,/D,/) z z3 | Z | z [D,,D,][E,,E,] [B,,,2B,,2] [A,,,A,,] | \
+!ff! [G,,,3G,,3] [G,3B,3C3E3]| !ped! ((3F,,/B,,/D,/) ((3F,/B,/D/) z z3 | z z ((3E,/C,/^A,,/) F,,3 || \
+[M:3/8] !arpeggio![B,,F,B,] [B,,D,F,B,] !arpeggio![A,,E,A,C] ||
+%---------------------------------

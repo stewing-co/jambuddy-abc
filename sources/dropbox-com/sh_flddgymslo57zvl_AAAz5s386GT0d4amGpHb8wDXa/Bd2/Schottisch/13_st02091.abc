@@ -1,0 +1,71 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Schottisch  CF (st02091)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.310 (st02091) orig. C,F
+T: Graubünden. Gla Genua, Sent. S.299-329. T: Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:schottisch
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"efed e2f2 | g2c'2c'4 | efed e2a2 | "G7"g2f2d4 |  "C"efed e2f2 | g2c'2c'4 | "G"b2g2 "D7"a2^f2 | "G"g2g2 g2z2::
+"G7"g2fd B2df | "C"a2ge c2e2 | "G7"eff2 ^cdd2 | "C"^dee2 c2e2 | "G7"g2fd B2df | "C"a2ge c2e2 | "G7"f2B2 e3d | "C"c2e2 c2z2:: [K:F]
+"F"ffff f2e2 | dddd d2c2 |  "C7"B2b2 c2b2 | e4 gfed | c2b2 c2b2 | e4 gfed | "F"c2a2 c2a2 | f6c2 | 
+ffff f2e2 | dddd d2c2 |  "C7"B2b2 c2b2 | e4 z2d2 | c2cc b2bb | "F"a2gf e2d2 | "C7"c2e2 a3g | "F"f2a2 f2z2 :| 
+% st02091  (Oct 29, 2016)
+
+X:2
+T:Schottisch  CF (5letras) (st02091)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.310 (st02091) orig. C,F
+S: Graubünden. Gla Genua, Sent. S.299-329. T: Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:schottisch
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"efed e2f2 | g2c'2c'4 | efed e2a2 | "G7"g2f2d4 |  "C"efed e2f2 | g2c'2c'4 | "G"b2g2 "D7"a2^f2 | "G"g2g2 g2z2::
+"G7"g2fd B2df | "C"a2ge c2e2 | "G7"eff2 ^cdd2 | "C"^dee2 c2e2 | "G7"g2fd B2df | "C"a2ge c2e2 | "G7"f2B2 e3d | "C"c2e2 c2z2:: [K:F]
+"F"ffff f2e2 | dddd d2c2 |  "C7"B2b2 c2b2 | e4 gfed | c2b2 c2b2 | e4 gfed | "F"c2a2 c2a2 | f6c2 | 
+ffff f2e2 | dddd d2c2 |  "C7"B2b2 c2b2 | e4 z2d2 | c2cc b2bb | "F"a2gf e2d2 | "C7"c2e2 a3g | "F"f2a2 f2z2 :| 
+% st02091  (Oct 29, 2016)
+
+X:3
+T:Schottisch  GC 5- (st02091)
+S:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.310 (st02091) orig. C,F
+S:Graubünden. Gla Genua, Sent. S.299-329. T: Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:schottisch
+M:2/4
+L:1/16
+K:G transpose=3%%MIDI gchordon
+"G"BcBA B2c2 | d2g2g4 | BcBA B2e2 | "D7"d2c2A4 | "G"BcBA B2c2 | d2g2g4 | "D"f2d2 "A7"e2^c2 | "D"d2d2 d2z2::
+"D7"d2cA F2Ac | "G"e2dB G2B2 | "D7"Bcc2 ^GAA2 | "G"^ABB2 G2B2 | "D7"d2cA F2Ac | "G"e2dB G2B2 | "D7"c2F2 B3A | "G"G2B2 G2z2:: [K:Cmaj]
+"C"cccc c2B2 | AAAA A2G2 | "G7"F2f2 G2f2 | B4 dcBA | G2f2 G2f2 | B4 dcBA | "C"G2e2 G2e2 | c6G2 | 
+cccc c2B2 | AAAA A2G2 | "G7"F2f2 G2f2 | B4 z2A2 | G2GG f2ff | "C"e2dc B2A2 | "G7"G2B2 e3d | "C"c2e2 c2z2 :| 
+% st02091  (Oct 29, 2016)
+
+X:4
+T:Schottisch A&D (tinwhistle in D) solo
+T:GL02013 (Hanny Christen)
+%%MIDI program 72   % 111 / 74 / 79=whistle
+O:Switzerland
+%abc-charset utf-8
+R:schottisch
+M:2/4
+L:1/16
+K:A transpose=12
+cdcB c2d2 | e2a2a4 | cdcB c2f2 | e2d2B4 | cdcB c2d2 | e2a2a4 | "_#"g2e2 f2^d2 | e2e2 e2z2::
+e2dB "_#"G2Bd | f2ec A2c2 | cdd2 ^ABB2 | "_c"^Bcc2 A2c2 | e2dB "_#"G2Bd | f2ec A2c2 | d2"_#"G2 c3B | A2c2 A2z2:: [K:Dmaj]
+dddd d2c2 | BBBB B2A2 | G2g2 A2g2 | c4 edcB | A2g2 A2g2 | c4 edcB | A2f2 A2f2 | d6A2 | 
+dddd d2c2 | BBBB B2A2 | G2g2 A2g2 | c4 z2B2 | A2AA g2gg | f2ed c2B2 | A2c2 f3e | d2f2 d2z2 :|
+% st02091  (Oct 29, 2016)
+

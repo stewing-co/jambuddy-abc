@@ -1,0 +1,50 @@
+%%partsbox
+%%MIDI program 21
+
+X:10
+T:L\"andler C (5letras transposed)
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"Ge Ge Ge | "G7"eg fdB2 | Gd Gd Gd | "C"df ecG2 | Ge Ge Ge | "Dm"eg fdA2 | "F"Af Af "G7"Bd | "C"c2z2z2 :: 
+"G7"de fe dc | Bc dc BA | GA BA GF | "C"EG ceg2 | "G7"de fe dc | Bc dc BA | GA BG AB | "C"c2z2z2 :| 
+X:11
+T:L\"andler F (5letras transposed)
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"ca ca ca | "C7"ac' bge2 | cg cg cg | "F"gb afc2 | ca ca ca | "Gm"ac' bgd2 | "Bb"db db "C7"eg | "F"f2z2z2 :: 
+"C7"ga ba gf | ef gf ed | cd ed cB | "F"Ac fac'2 | "C7"ga ba gf | ef gf ed | cd ec de | "F"f2z2z2 :| 
+X:12
+T:L\"andler F (5letras transposed)
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"CA CA CA | "C7"Ac BGE2 | CG CG CG | "F"GB AFC2 | CA CA CA | "Gm"Ac BGD2 | "Bb"DB DB "C7"EG | "F"F2z2z2 :: 
+"C7"GA BA GF | EF GF ED | CD ED CB, | "F"A,C FAc2 | "C7"GA BA GF | EF GF ED | CD EC DE | "F"F2z2z2 :| 
+X:13
+T:L\"andler G (5letras transposed)
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"DB DB DB | "D7"Bd cAF2 | DA DA DA | "G"Ac BGD2 | DB DB DB | "Am"Bd cAE2 | "C"Ec Ec "D7"FA | "G"G2z2z2 :: 
+"D7"AB cB AG | FG AG FE | DE FE DC | "G"B,D GBd2 | "D7"AB cB AG | FG AG FE | DE FD EF | "G"G2z2z2 :| 
+X:14
+T:L\"andler D (tinwthistle in D)
+T:LD05067 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"Af Af Af | "A7"fa gec2 | Ae Ae Ae | "D"eg fdA2 | Af Af Af | "Em"fa geB2 | "G"Bg Bg "A7"ce | "D"d2z2z2 :: 
+"A7"ef gf ed | cd ed cB | AB cB AG | "D"FA dfa2 | "A7"ef gf ed | cd ed cB | AB cA Bc | "D"d2z2z2 :| 
+% June 12, 2016
+X:15
+T:L\"andler D (tinwthistle in D) solo
+T:LD05067 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:D transpose=12
+"D"Af Af Af | "A7"fa gec2 | Ae Ae Ae | "D"eg fdA2 | Af Af Af | "Em"fa geB2 | "G"Bg Bg "A7"ce | "D"d2z2z2 :: 
+"A7"ef gf ed | cd ed cB | AB cB AG | "D"FA dfa2 | "A7"ef gf ed | cd ed cB | AB cA Bc | "D"d2z2z2 :| 

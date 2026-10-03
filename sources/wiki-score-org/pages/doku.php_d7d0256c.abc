@@ -1,0 +1,15 @@
+X:315
+T:Te Deum
+C:Giuseppe Totti (17__-1832)
+M:C
+L:1/4
+K:D
+V: 15 clef=bass name="Fagotto [II]" sname="Fg. II"
+%%MIDI program 1 68
+%%staves [( 15 )]
+%----- edit between the lines ----
+[Q:"Allegro non tanto"] !f! -D2 A,2 | F, D, z2 | Z2 | z2 z/ B,/A,/G,/ | \
+F,/E,/D,2C,|D,z, D,z,|E,z, C,z,|D,z1 z1 G,|F,G,F,E,|D,z1 z1 G,|F,G,F,E,|\
+D,A,/>A,/ F,/>F,/D,/>D,/|A,z3|D,2 E,2|F,2 G,2|A,2 z2|D,2 E,2|F,2 G,2|\
+A,A,A,A,,|D,z3|D,z3|D,z3|D,z3 | D, zz2 | D,z,D,z | D,4 | D,/D,/E,/F,/ G,/!sfz!F,/G,/A,/ | \
+%----------------------------------

@@ -1,0 +1,64 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Rheinländer CF (RL07754)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.377 (RL07754) orig. C,F
+T: Alte Seltisberger Musik. S.354-377
+T:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Rheinländer
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+(E/F/) |: ("C"Ge) .e(d/c/) | "G7"(PBA) A(D/E/) | .F(E/F/) BA | "C"(PAG) .G(E/F/) | (Ge) .e(d/c/) | "F"(PBA) g>f | "C"e/G/c/e/ "G7"d/G/B/d/ |1 
+"C"cc cE/F/ :|2 "C"cc ce/e/ |: "E7"e>B e/d/c/B/ | "Am"cc A>c | "E7"BB e>d | "Am"c/d/c/B/ Ag/g/ | "G7"g>d g/f/_e/d/ | "Cm"_ee c>e | 
+"G7"dB "D7"Ad | "G"GG G(G/^G/)  | ("F"Af) e>d | "C"(Pdc) G>c | "G7"BB/A/ Gd/f/ | "C"(Pec) c(G/^G/) | ("F"Af) e>d | 
+("C"ge) c>e | ("G7"d/f/).e/.d/ (c/B/).A/.B/ |1 "C"cc ce/e/ :|2 "C"cc cF/G/ |: [K:F] "F"A2d>c | A3(F/G/) | AA BA | 
+"C7"G3(G/A/) | B2e>d | B3(G/A/) | Bc dB | "F"A3(F/G/) | A2d>c | A3(A/B/) | 
+cc fe | "Bb"d3(d/c/) | "C7"(PBG) G(d/c/) | "F"(AF) F(F/A/) | ("C7"G/d/).c/.B/ (A/G/).D/.E/ |1 "F"FF FF/G/ :|2 "F"FF Fz |] 
+W:
+W:Anmerkung H.C.: Binningen 31/461, s.V.461
+% RL07754
+% 21 Oct, 2017 (Your Majesty's Court Jester h.c., Ordo Geyßiensis)
+
+X:2
+T:Rheinländer GC 7+ (RL07754)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.377 (RL07754) orig. C,F
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Rheinländer
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+(B/2c/2) |: ("G"db) .b(a/2g/2) | "D7"(Pfe) e(A/2B/2) | .c(B/2c/2) fe | "G"(Ped) .d(B/2c/2) | (db) .b(a/2g/2) | "C"(Pfe) d'>c' | "G"b/2d/2g/2b/2 "D7"a/2d/2f/2a/2 |1 
+"G"gg gB/2c/2 :|2 "G"gg gb/2b/2 |: "B7"b>f b/2a/2g/2f/2 | "Em"gg e>g | "B7"ff b>a | "Em"g/2a/2g/2f/2 ed'/2d'/2 | "D7"d'>a d'/2c'/2_b/2a/2 | "Gm"_bb g>b | 
+"D7"af "A7"ea | "D"dd d(d/2^d/2) | ("C"ec') b>a | "G"(Pag) d>g | "D7"ff/2e/2 da/2c'/2 | "G"(Pbg) g(d/2^d/2) | ("C"ec') b>a | 
+("G"d'b) g>b | ("D7"a/2c'/2).b/2.a/2 (g/2f/2).e/2.f/2 |1 "G"gg gb/2b/2 :|2 "G"gg gc/2d/2 |: [K:Cmaj] "C"e2a>g | e3(c/2d/2) | ee fe | 
+"G7"d3(d/2e/2) | f2b>a | f3(d/2e/2) | fg af | "C"e3(c/2d/2) | e2a>g | e3(e/2f/2) | 
+gg c'b | "F"a3(a/2g/2) | "G7"(Pfd) d(a/2g/2) | "C"(ec) c(c/2e/2) | ("G7"d/2a/2).g/2.f/2 (e/2d/2).A/2.B/2 |1 "C"cc cc/2d/2 :|2 "C"cc cz |] 
+%W:Anmerkung H.C.: Binningen 31/461, s.V.461
+% RL07754
+% 21 Oct, 2017 
+
+X:3
+T:Rheinländer GC 5- (RL07754)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.377 (RL07754) orig. C,F
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 21
+R:Rheinländer
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+(B,/2C/2) |: ("G"DB) .B(A/2G/2) | "D7"(PFE) E(A,/2B,/2) | .C(B,/2C/2) FE | "G"(PED) .D(B,/2C/2) | (DB) .B(A/2G/2) | "C"(PFE) d>c | "G"B/2D/2G/2B/2 "D7"A/2D/2F/2A/2 |1 
+"G"GG GB,/2C/2 :|2 "G"GG GB/2B/2 |: "B7"B>F B/2A/2G/2F/2 | "Em"GG E>G | "B7"FF B>A | "Em"G/2A/2G/2F/2 Ed/2d/2 | "D7"d>A d/2c/2_B/2A/2 | "Gm"_BB G>B | 
+"D7"AF "A7"EA | "D"DD D(D/2^D/2) | ("C"Ec) B>A | "G"(PAG) D>G | "D7"FF/2E/2 DA/2c/2 | "G"(PBG) G(D/2^D/2) | ("C"Ec) B>A | 
+("G"dB) G>B | ("D7"A/2c/2).B/2.A/2 (G/2F/2).E/2.F/2 |1 "G"GG GB/2B/2 :|2 "G"GG GC/2D/2 |: [K:Cmaj] "C"E2A>G | E3(C/2D/2) | EE FE | 
+"G7"D3(D/2E/2) | F2B>A | F3(D/2E/2) | FG AF | "C"E3(C/2D/2) | E2A>G | E3(E/2F/2) | 
+GG cB | "F"A3(A/2G/2) | "G7"(PFD) D(A/2G/2) | "C"(EC) C(C/2E/2) | ("G7"D/2A/2).G/2.F/2 (E/2D/2).A,/2.B,/2 |1 "C"CC CC/2D/2 :|2 "C"CC Cz |] 
+%W:Anmerkung H.C.: Binningen 31/461, s.V.461
+% RL07754
+% 21 Oct, 2017 

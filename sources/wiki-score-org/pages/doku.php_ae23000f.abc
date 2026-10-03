@@ -1,0 +1,20 @@
+X:207
+T:O Magnum Misterium
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 7 clef=tenor name="Tenor" sname="T."
+%%MIDI program 1 1
+%%staves [ 7 ]
+%--------------------
+G,2 | C2 | C C | A,2 -|A, ^G,/2^F,/2 | ^G, > G, | A,2 | \
+w:O ma-gnum mis-te-----ri-um
+z/2 C/2 C/2 C/2 | D/2"^(1)" > C/2 A,/2 B,/2-|B,/2 C/2 B, | A,/2 \
+w: et ad-mi-ra-bi-le sa--cra-men-tum
+D/2 E/2 F/2 | D/2 > D/2 E/2 C/2 | C C/2 C/2 -| C/4 B,/4 G,/2 A, | B, D | E D| C B, | C > C| B,2 +segno+||
+w: ut a-ni-ma-li-a vi-de-runt Do--mi-num na-tum ja-cen-tem in prae-se-pi-o
+[M:3/2] B,B,B,| C2C| zA,A,| B,>B,B,|CCC-|CB,2|CEE-|EDD-|DCC| B,3|A,C2-|CB,B,|C3|B,3-| B,3 !fine!|] \
+w: Be-a-ta Vir-go cu-jus vis-ce-ra me-ru-e---runt por-ta--re Do--mi-num Chris-tum Do--mi-num Chris-tum
+[M:2/2] Z49 +segno+|] \
+%--------------------

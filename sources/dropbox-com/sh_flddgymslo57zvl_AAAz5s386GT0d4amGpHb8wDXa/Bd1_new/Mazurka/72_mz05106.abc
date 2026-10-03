@@ -1,0 +1,37 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Mazurka CF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.369 (mz05106) orig. C,F-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c>B c>G e2 | "G7"d>d d>B F2 | B>B B>G d2 | "C"Ge cG E2 | c>B c>G e2 | "G7"d>d d>B F2 | B>B BG fB | "C"c2c2z2 ::
+"F"a>g f>ef2 | "C"g>f e>de2 | "G7"d>c B>G f>B | "C"ceg4 | "F"a>g f>ef2 | "C"g>f e>de2 | "G7"d>c Ba gB | "C"c2c2z2:: [K:F]
+"F"c>B ca gf | "C7"f2e>de2 | GB e3G | "F"d2 c>dc2 | c>B ca gf | "Gm"f2e>de2 | "Bb"b2d2"C7"e2 | "F"f2f2z2 :| 
+X:2
+T:Mazurka GC 5- chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"G>F G>D B2 | "D7"A>A A>F C2 | F>F F>D A2 | "G"DB GD B,2 | G>F G>D B2 | "D7"A>A A>F C2 | F>F FD cF | "G"G2G2z2 ::
+"C"e>d c>Bc2 | "G"d>c B>AB2 | "D7"A>G F>D c>F | "G"GBd4 | "C"e>d c>Bc2 | "G"d>c B>AB2 | "D7"A>G Fe dF | "G"G2G2z2:: [K:Cmaj]
+"C"G>F Ge dc | "G7"c2B>AB2 | DF B3D | "C"A2 G>AG2 | G>F Ge dc | "Dm"c2B>AB2 | "F"f2A2"G7"B2 | "C"c2c2z2 :| 
+X:3
+T: Mazurka CF (5letras transposed)
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"c>B c>G e2 | "G7"d>d d>B F2 | B>B B>G d2 | "C"Ge cG E2 | c>B c>G e2 | "G7"d>d d>B F2 | B>B BG fB | "C"c2c2z2 ::
+"F"a>g f>ef2 | "C"g>f e>de2 | "G7"d>c B>G f>B | "C"ceg4 | "F"a>g f>ef2 | "C"g>f e>de2 | "G7"d>c Ba gB | "C"c2c2z2:: [K:F]
+"F"c>B ca gf | "C7"f2e>de2 | GB e3G | "F"d2 c>dc2 | c>B ca gf | "Gm"f2e>de2 | "Bb"b2d2"C7"e2 | "F"f2f2z2 :| 
+X:4
+T:Mazurka GC (5letras transposed)
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"G>F G>D B2 | "D7"A>A A>F C2 | F>F F>D A2 | "G"DB GD B,2 | G>F G>D B2 | "D7"A>A A>F C2 | F>F FD cF | "G"G2G2z2 ::
+"C"e>d c>Bc2 | "G"d>c B>AB2 | "D7"A>G F>D c>F | "G"GBd4 | "C"e>d c>Bc2 | "G"d>c B>AB2 | "D7"A>G Fe dF | "G"G2G2z2:: [K:Cmaj]
+"C"G>F Ge dc | "G7"c2B>AB2 | DF B3D | "C"A2 G>AG2 | G>F Ge dc | "Dm"c2B>AB2 | "F"f2A2"G7"B2 | "C"c2c2z2 :| 

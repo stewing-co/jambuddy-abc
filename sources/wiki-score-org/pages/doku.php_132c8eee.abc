@@ -1,0 +1,26 @@
+X:408
+T:N.4 Duo de Josepha e Ambrosio
+C:Fonseca, Eduardo da (1863-1938)
+M:3/4
+L:1/4
+K:D
+V: 8 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 8 }]
+%-----------------------
+([DF]/[EC]/) [B,D][A,C] | [DA,D,]2 !fermata!z || A, A,/F,/ G,/A,/ & [D,,A,,] D,2 | \
+G,/A,/ F,A, & (D,3 | x3 & G,,) [D,G,B,] [E,G,B,] | D,, "_[NB:incomplete bar]" x2 | \
+z [G,A,][G,A,] & C,3 | z [F,B,][F,B,] & B,,3 | E,, [E,A,C][E,G,D] | (A,,A,/)A,/A,/A,/ & A,,-[A,,E,] z || \
+A,A,/F,/ G,/A,/ & [D,,A,,]D,2- | (G,F,A,) & D,3 | G,,[D,G,B,][G,,G,] | F,,[C,F,][C,F,] | \
+B,,,[B,,A,]B,,,| E,,[E,G,][E,G,] | (G,/E,/) (A,/F,/) (G,/E,/) & [G,,G,] [A,,A,] A,, | \
+[D,F,][D,A,]z || \
+[Q:"Piu animato"][K:G] G,,[D,G,]B,,| A,,[D,F,][D,F,] | D,,[D,F,C][D,F,C]| \
+G,,[D,G,B,][D,G,B,]|G,,[D,G,]B,,| A,,[D,F,][D,F,] | ^C,[E,A,] [A,G,] & x2A,, | \
+[F,A,]x2 & D,,D,/>=C,/B,,/>A,,/ || \
+G,,[D,G,]B,,|  A,,[D,F,][D,F,] | D,,[D,F,C][D,F,C]| G,,[D,G,B,][D,G,B,]| \
+^G,,[E,^G,B,D][E,G,B,D] | A,,[E,A,C][E,A,C] | [C,,C,]/z/ [D,,D,]/z/ [D,,D,]/z/ | \
+[G,,G,]/z/ [G,,G,]/z/ z || \
+[K:D] "_I Tempo" A, A,/F,/ G,/A,/ & !arpeggio![D,,A,,] D,2 | G,F,A, & (D,3 | x3 & G,,) [D,G,B,][G,,G,] | \
+F,,[C,F,][C,F,] | B,,,[B,,A,]B,,, | E,,[E,G,][E,G,] | ([G,,G,]/E,/) (A,/F,/) (G,/E,/) & x A,,A,, | \
+[D,F,]/z/ !>![D,,A,,D,]/z/z |]
+%-----------------------------

@@ -1,0 +1,47 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Walzer  FBb chords
+T:Hanny Christen. Bd.I  Z\"urich, Schaffhausen, St. Gallen I. S.148f (wz00223) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+c| "F"a2c | "C7"g2c | "F"f2c | Acf | "C7"g2c | Bce | "F"f>dc | A2c | 
+"F"a2c | "C7"g2c | "F"f2c | Aca | "C7"g2c | Bce | "F"f>ca | fzc |: "C7"gbc | 
+g2c | "F"fac | f3 | "C7"egb |  e'2d' | "F"d'c'a | f2c | "C7"gbc | g2c | 
+"F"fac | f3 | "C7"egd' | c'2e | "F"f/c/ag |1 fzc :|2 "F"fzf |:  [K:Bb]  [L:1/8] "Bb"fbb3f | "F7"faa3f | 
+"Bb"fgg3f | d2fb ag | "F7"fa a3f | e2fb ag | "Bb"fb b3f | d4ff | fbb3f | "F7"faa3f | 
+"Bb"fgg3f | d2 fb ag | "F7"faa3f | cd ef ga | "Bb"b3bb2 |1 b2z2f2 :|2 "Bb"b2z2z2 || [K:F] "C7"ag ba gf | 
+fe gf ed | "F"d2cf cf | A3f ed | "C7"d2 ce ce | B3f ed | "F"d2 cf cf | A4aa | "C7"ag ba gf | 
+fe gf ed | "F" cf cf | A4cf | "C7"e2 gc eg |  c'4e2 | "F"f2 ef ag | f2z2z2 |]  
+
+X:2
+T:Walzer  CF 5- chords
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+G| "C"e2G | "G7"d2G | "C"c2G | EGc | "G7"d2G | FGB | "C"c>AG | E2G | 
+"C"e2G | "G7"d2G | "C"c2G | EGe | "G7"d2G | FGB | "C"c>Ge | czG |: "G7"dfG | 
+d2G | "C"ceG | c3 | "G7"Bdf | b2a | "C"age | c2G | "G7"dfG | d2G | 
+"C"ceG | c3 | "G7"Bda | g2B | "C"c/2G/2ed |1 czG :|2 "C"czc |: [K:Fmaj] [L:1/8] "F"cff3c | "C7"cee3c | 
+"F"cdd3c | A2cf ed | "C7"ce e3c | B2cf ed | "F"cf f3c | A4cc | cff3c | "C7"cee3c | 
+"F"cdd3c | A2 cf ed | "C7"cee3c | GA Bc de | "F"f3ff2 |1 f2z2c2 :|2 "F"f2z2z2 || [K:Cmaj] "G7"ed fe dc | 
+cB dc BA | "C"A2Gc Gc | E3c BA | "G7"A2 GB GB | F3c BA | "C"A2 Gc Gc | E4ee | "G7"ed fe dc | 
+cB dc BA | "C" Gc Gc | E4Gc | "G7"B2 dG Bd | g4B2 | "C"c2 Bc ed | c2z2z2 |] 
+
+X:3
+T:Walzer GC 10- chords
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+D| "G"B2D | "D7"A2D | "G"G2D | B,DG | "D7"A2D | CDF | "G"G>ED | B,2D | 
+"G"B2D | "D7"A2D | "G"G2D | B,DB | "D7"A2D | CDF | "G"G>DB | GzD |: "D7"AcD | 
+A2D | "G"GBD | G3 | "D7"FAc | f2e | "G"edB | G2D | "D7"AcD | A2D | 
+"G"GBD | G3 | "D7"FAe | d2F | "G"G/2D/2BA |1 GzD :|2 "G"GzG |: [K:Cmaj] [L:1/8] "C"Gcc3G | "G7"GBB3G | 
+"C"GAA3G | E2Gc BA | "G7"GB B3G | F2Gc BA | "C"Gc c3G | E4GG | Gcc3G | "G7"GBB3G | 
+"C"GAA3G | E2 Gc BA | "G7"GBB3G | DE FG AB | "C"c3cc2 |1 c2z2G2 :|2 "C"c2z2z2 || [K:Gmaj] "D7"BA cB AG | 
+GF AG FE | "G"E2DG DG | B,3G FE | "D7"E2 DF DF | C3G FE | "G"E2 DG DG | B,4BB | "D7"BA cB AG | 
+GF AG FE | "G" DG DG | B,4DG | "D7"F2 AD FA | d4F2 | "G"G2 FG BA | G2z2z2 |] 
+

@@ -1,0 +1,64 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Ich bin ein Kind vom Rhein (Walzer) GC
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.292 (wz02053) orig. G,C
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T:Überliefert vermutlich durch Joggi Stocker (1889-1956)
+%%MIDI program 21
+%%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"d^c>d | d2B | BG>B | D3 | DGA | B2B |  Be>B | "D7"c3 | cB>c | c2A | AF>A | 
+D3 | DFG | A2A | Ad>A | "G"B3 | d^c>d | d2B | BG>B | D3 | gf>g | "C"g2e | 
+ec>e | "G"d3 | d^c>d | "D7"ezd | d^c>d | "G"azg | gf>g | "Am"Aze | "D7"Fzd | "G"G3 | zFG | 
+|: "D7"F/A/A2 | A/c/c2 | "G"G/B/B2 | B/g/g2 | "Am"g/A/A>e | e2d |1 "D7"c/D/ D>c | "G"c2B :|2 "D7"F/F/ Fd | "G"GzG || [K:C] "C"e3 | 
+ e^d>e | g3 | g^fg | azg | czg | "G7"B2g | zG>B | f3 | fef | b3 | d^cd | 
+a2g | d2^d | "C"e3 | zGc | e3 | e^de | g3 | g^fg | azg | czg | 
+"G7"B2g | zg>g | "F"c'3 | "G7"df>a | "C"g3 | Gc>e | "G7"e2d | e2d | ("C"c3 | c)zz |] 
+% wz02072 (H 073/TN 53)
+
+X:2
+T:Ich bin ein Kind vom Rhein (Walzer) GC  (wz02053)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.292 (wz02053) orig. G,C
+%%MIDI program 21
+%%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"d^c>d | d2B | BG>B | D3 | DGA | B2B |  Be>B | "D7"c3 | cB>c | c2A | AF>A | 
+D3 | DFG | A2A | Ad>A | "G"B3 | d^c>d | d2B | BG>B | D3 | gf>g | "C"g2e | 
+ec>e | "G"d3 | d^c>d | "D7"ezd | d^c>d | "G"azg | gf>g | "Am"Aze | "D7"Fzd | "G"G3 | zFG | 
+|: "D7"F/A/A2 | A/c/c2 | "G"G/B/B2 | B/g/g2 | "Am"g/A/A>e | e2d |1 "D7"c/D/ D>c | "G"c2B :|2 "D7"F/F/ Fd | "G"GzG || [K:C] "C"e3 | 
+ e^d>e | g3 | g^fg | azg | czg | "G7"B2g | zG>B | f3 | fef | b3 | d^cd | 
+a2g | d2^d | "C"e3 | zGc | e3 | e^de | g3 | g^fg | azg | czg | 
+"G7"B2g | zg>g | "F"c'3 | "G7"df>a | "C"g3 | Gc>e | "G7"e2d | e2d | ("C"c3 | c)zz |] 
+% wz02072
+
+X:3
+T:Ich bin ein Kind vom Rhein (Walzer) G (tinwhistle in D) var. solo
+T:GL02013 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+%%abc-charset utf-8
+O:Switzerland
+R:walzer
+M:3/4
+L:1/4
+K:G transpose=12
+"G"d^c>d | d2B | BG>B | D3 | DGA | B2B |  Be>B | "D7"c3 | cB>c | c2A | AF>A | 
+D3 | DFG | A2A | Ad>A | "G"B3 | d^c>d | d2B | BG>B | D3 | gf>g | "C"g2e | 
+ec>e | "G"d3 | d^c>d | "D7"ezd | d^c>d | "G"azg | gf>g | "Am"Aze | "D7"Fzd | "G"G3 | zFG | 
+|: "D7"F/A/A2 | A/c/c2 | "G"G/B/B2 | B/g/g2 | "Am"g/A/A>e | e2d |1 "D7"c/D/ D>c | "G"c2B :|2 "D7"F/F/ Fd | "G"GzG || "G"B3 | 
+B^A>B | d3 | d^cd | ezd | Gzd | "D7"F2d | zD>F | c3 | cBc | f3 | A^GA | 
+e2d | A2^A | "G"B3 | zDG | B3 | B^AB | d3 | d^cd | ezd | Gzd | 
+"D7"F2d | zd>d | "C"g3 | "D7"Ac>e | "G"d3 | DG>B | "D7"B2A | B2A | ("G"G3 | G)zz |]
+% wz02072
+% Sep 29, 2016

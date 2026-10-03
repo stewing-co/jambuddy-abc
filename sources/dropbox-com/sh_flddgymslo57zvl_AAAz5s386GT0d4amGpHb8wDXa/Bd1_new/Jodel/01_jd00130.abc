@@ -1,0 +1,32 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Felder Jodel  F chords
+T:Hanny Christen. Bd.I Zürich, Schaffhause, St. Gallen I. S.103 (jd00130) orig. F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"fA cf Af | "C7"eB ceB2 | eB ce Bg | "F"fA cfA2 | fA cf Af | "C7"eB ceB2 | 
+eB ce Bg |  "F"!fermata!f4 z2 || "C7"eB eg Bg | "F"fA cf Af | "C7"eB ce Be | "F"fA cfA2 | 
+"C7"eB eg Bg | "F"fA cf Af | "C7"(eB c).e cg | "F"!fermata!f2 z"_langsam".f.e.d | !fermata!c3zf2 | "C7"e4g2 | "F"!fermata!f4z2 |] 
+
+X:2
+T:Felder Jodel  C 5- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"cE Gc Ec | "G7"BF GBF2 | BF GB Fd | "C"cE GcE2 | cE Gc Ec | "G7"BF GBF2 | 
+BF GB Fd | "C"!fermata!c4 z2 || "G7"BF Bd Fd | "C"cE Gc Ec | "G7"BF GB FB | "C"cE GcE2 | 
+"G7"BF Bd Fd | "C"cE Gc Ec | "G7"(BF G).B Gd | "C"!fermata!c2 z"_langsam".c.B.A | !fermata!G3zc2 | "G7"B4d2 | "C"!fermata!c4z2 |] 
+
+X:3
+T:Felder Jodel  G 10- chords
+M:3/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"GB, DG B,G | "D7"FC DFC2 | FC DF CA | "G"GB, DGB,2 | GB, DG B,G | "D7"FC DFC2 | 
+FC DF CA | "G"!fermata!G4 z2 || "D7"FC FA CA | "G"GB, DG B,G | "D7"FC DF CF | "G"GB, DGB,2 | 
+"D7"FC FA CA | "G"GB, DG B,G | "D7"(FC D).F DA | "G"!fermata!G2 z"_langsam".G.F.E | !fermata!D3zG2 | "D7"F4A2 | "G"!fermata!G4z2 |] 
+

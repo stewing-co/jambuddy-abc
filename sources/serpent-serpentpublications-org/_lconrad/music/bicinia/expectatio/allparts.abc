@@ -1,0 +1,77 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:5r. Expectatio justorum laetitia,
+C:Orlando Lassusio
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:A phrygian
+T: Superius
+N: Original clef, treble
+%1
+z8 z4 d6 d2 d2 d2 f2 d2 f3 e d c d2 A4 z2 F2 F E F G A B c d
+w: Ex- pe- cta- ti- o ju- sto- - - - - rum lae- ti - - - - - - -
+%2
+e d e f g2 g2 c4 z2 A2 c d e c d c d e f c d4 A2 z2 B2 A2 B c
+w:- - - - - ti- a, spes au- - - - - - - - - - - tem im- pi- o- -
+%3
+d e f2 d4 f3 e f d f2 e d d3 c/ B/ c2 "A"d4 z2 f4 f2 f4 e4 z2 g3 f f3 e e4 d2 e4 g4 d4 f3 e
+w:- - rum pe-  - - - - ri- - - - - - - bit, for- ti- tu- do sim- - - - - pli- cis v- as Do- -
+%4
+d2 c2 B4 z2 A2 c d e c f4 c4 d2 G2 A2 c2 B3 A/ B/ c2 B2 z2 c2 B2 A2 d4 c2 B3 A B c
+w:- mi- ni et pa- - - - - vor his qui o- per- an- - - - tur qui o- pe- ran- tur  ma- - - -
+%5
+d e f3 e e3 d d3 c c3 B B3 A A3 G/ F/ G2 HA4 |]
+w:- - - - - - - - - - - - - - - - lum.
+
+X:2
+T:5r. Expectatio justorum laetitia,
+C:Orlando Lassusio
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:A phrygian 
+T: Altus
+N: Original clef, C on second line
+%1
+A6 A2 A2 A2 B2 G2 B3 A G F G2 D4 z2 B,2 B, A, B, C D E F G A G A B 
+w: Ex- pe- cta- ti- o ju- sto- - - - - rum lae- ti- - - - - - - - - - - -
+%2
+c2 c2 F4 z2 C2 E F G E F E F G A E F4 C2 z2 B,2 A,2 B, C D E F2 D8 B3 A
+w: - ti- a, spes au- - - - - - - - - - - tem im- pi- o- - - - - rum  pe- -
+%3
+B G B3 A F G A B A3 F G2 E4 "A"D8 z2 A4 A2 A4 G4 B3 A A3 G F2 F2 E2 C3 D E F G A B G
+w:- - - - - - - - - - - ri- bit,  for- ti- tu- do sim- - - - - pli- cis vi- - - - - - - - 
+%4
+A2 B4 A4 G2 A8 z2 D2 F G A F B4 F4 G2 D2 E2 G2 F3 E/ F/ G2 F2 z2 F2 E2 D2 G4 F4 G3 A F3 G E3 F
+w:- as Do- mi- ni  et pa- - - - - vor his qui o- per- an- - - - tur qui o- per- an- tur ma- - - - - -
+%5
+D3 _E C3 D B,4 HA,4 |]
+w:- - - - - lum. *
+W:Liber Proverbiorum 10:28,28
+W:
+W:The expectation of the just is joy; But the hope of the wicked shall perish.
+W:The strength of the upright is the way of the Lord: And fear to them that work evil.

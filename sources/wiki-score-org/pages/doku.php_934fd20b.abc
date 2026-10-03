@@ -1,0 +1,16 @@
+X:308
+T:Minuetto
+C:Davide Perez (1711-1778)
+M:3/4
+L:1/4
+K:D
+V: 8 clef=bass name="Basso" sname="B."
+%%MIDI program 1 43
+%%staves [8]
+%-------
+D,D,D, | D,D,D, | D,D,D, | D,D,D, | G,G,G, | F,F,F, | E,C,D, | A,,2z | A,,2z | A,,2z | \
+D,E,E,, | A,,3 :: A,,2z | A,,2z | ^D,E,B,, | E,2z |  A,,2z | A,,2z | C,D,A,, | D,2z | \
+G,G,G, | F,F,F, | E,C,D, |  A,,2z | D,D,D, | D,D,D, | D,D,D, | A,,2z | D,2z | D,2z | \
+G,A,A,, | D,3 :| \
+[Q:"Presto"] [M:C|] D,zD,/D,/D,/D,/ | D,D,/D/ D,D,/D/ | D,/D/ D,/D/ D,!fermata!z |]
+%---------------

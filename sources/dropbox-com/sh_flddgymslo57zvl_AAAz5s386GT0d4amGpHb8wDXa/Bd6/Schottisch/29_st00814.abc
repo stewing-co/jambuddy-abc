@@ -1,0 +1,104 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Schottisch  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.242 (st00814) orig. C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"GGG2 EEE2 | "G7"FFF2 B2A2 | GGG2 FFF2 | "C"EEE2 c2A2 | "G7"GGG2 FFF2 | 
+"C"EEE2 c2A2 | "G7"G2GG A2B2 | "C"c6z2 :: "F"FFF2 FAA2 | "C"EEE2 EGG2 | 
+"G7"DDD2 DFFD | "C"C2E2 G2GG | "F"FFF2 FAA2 | "C"EEE2 EGG2 | "G7"DDD2 DFFD | "C"C6z2 :| 
+% st00814
+X:2
+T:Schottisch  F 5+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F%%MIDI gchordon
+"F"ccc2 AAA2 | "C7"BBB2 e2d2 | ccc2 BBB2 | "F"AAA2 f2d2 | "C7"ccc2 BBB2 | 
+"F"AAA2 f2d2 | "C7"c2cc d2e2 | "F"f6z2 :: "Bb"BBB2 Bdd2 | "F"AAA2 Acc2 | 
+"C7"GGG2 GBBG | "F"F2A2 c2cc | "Bb"BBB2 Bdd2 | "F"AAA2 Acc2 | "C7"GGG2 GBBG | "F"F6z2 :| 
+% st00814
+X:3
+T:Schottisch  G 7+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+"G"ddd2 BBB2 | "D7"ccc2 f2e2 | ddd2 ccc2 | "G"BBB2 g2e2 | "D7"ddd2 ccc2 | 
+"G"BBB2 g2e2 | "D7"d2dd e2f2 | "G"g6z2 :: "C"ccc2 cee2 | "G"BBB2 Bdd2 | 
+"D7"AAA2 AccA | "G"G2B2 d2dd | "C"ccc2 cee2 | "G"BBB2 Bdd2 | "D7"AAA2 AccA | "G"G6z2 :| 
+% st00814
+X:4
+T: Schottisch  C (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"GGG2 EEE2 | "G7"FFF2 B2A2 | GGG2 FFF2 | "C"EEE2 c2A2 | "G7"GGG2 FFF2 | \
+"C"EEE2 c2A2 | "G7"G2GG A2B2 | "C"c6z2 ::
+ "F"FFF2 FAA2 | "C"EEE2 EGG2 | \
+"G7"DDD2 DFFD | "C"C2E2 G2GG | "F"FFF2 FAA2 | "C"EEE2 EGG2 | "G7"DDD2 DFFD | "C"C6z2 :| 
+% st00814
+X:5
+T:Schottisch  F (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+"F"ccc2 AAA2 | "C7"BBB2 e2d2 | ccc2 BBB2 | "F"AAA2 f2d2 | "C7"ccc2 BBB2 | \
+"F"AAA2 f2d2 | "C7"c2cc d2e2 | "F"f6z2 ::
+ "Bb"BBB2 Bdd2 | "F"AAA2 Acc2 | \
+"C7"GGG2 GBBG | "F"F2A2 c2cc | "Bb"BBB2 Bdd2 | "F"AAA2 Acc2 | "C7"GGG2 GBBG | "F"F6z2 :| 
+% st00814
+X:6
+T:Schottisch  G (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"ddd2 BBB2 | "D7"ccc2 f2e2 | ddd2 ccc2 | "G"BBB2 g2e2 | "D7"ddd2 ccc2 | \
+"G"BBB2 g2e2 | "D7"d2dd e2f2 | "G"g6z2 ::
+ "C"ccc2 cee2 | "G"BBB2 Bdd2 | \
+"D7"AAA2 AccA | "G"G2B2 d2dd | "C"ccc2 cee2 | "G"BBB2 Bdd2 | "D7"AAA2 AccA | "G"G6z2 :| 
+% st00814
+X:7
+T:Schottisch D (tinwhistle in D)
+T:st00814 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"AAA2 FFF2 | "A7"GGG2 c2B2 | AAA2 GGG2 | "D"FFF2 d2B2 | "A7"AAA2 GGG2 | \
+"D"FFF2 d2B2 | "A7"A2AA B2c2 | "D"d6z2 ::
+"G"GGG2 GBB2 | "D"FFF2 FAA2 | \
+"A7"EEE2 EGGE | "D"D2F2 A2AA | "G"GGG2 GBB2 | "D"FFF2 FAA2 | "A7"EEE2 EGGE | "D"D6z2 :| 
+X:8
+T:Schottisch D (tinwhistle in D) solo
+T:st00814 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D transpose=12
+AAA2 FFF2 | GGG2 c2B2 | AAA2 GGG2 | FFF2 d2B2 | AAA2 GGG2 | \
+FFF2 d2B2 | A2AA B2c2 | d6z2 ::
+GGG2 GBB2 | FFF2 FAA2 | \
+EEE2 EGGE | D2F2 A2AA | GGG2 GBB2 | FFF2 FAA2 | EEE2 EGGE | D6z2 :|
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 28, 2016

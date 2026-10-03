@@ -1,0 +1,67 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+%abctab2ps format
+%
+%%titlefont Times-Roman 18
+T:Es leit ein schloß
+T:Cantus
+C:Glogauer Liederbuch, Number 50
+M:C|
+L:1/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+N:Original clef, C on first line
+K:F
+F F2 A2 A2 F A2 B c2 F c2 c c2 A B2 c HA4 F 
+w:Es leit ein schloß in Ö- ster- reich, das ist gar wol er- bau- * et von
+B2 B B2 c G2 G HG2 z G c2 c2 A G A2 c3/2 B// A// G2 G A > G F3/2 E/ E/ D/ HF4 |]
+w:zim- met und von nä- ge lein, wo findt man sol- che mau- * * * ren, ja mau- * * * * * ren.
+
+X:2
+%abctab2ps format
+%
+%%titlefont Times-Roman 18
+T:Es leit ein schloß
+T:Contratenores
+C:Glogauer Liederbuch, Number 50
+M:C|
+L:1/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI transpose -12
+K:F -8va
+f f2 f > e f c d2 c d e2 f f2 f e2 f d2 e f3/2 e// d// Hc2 f
+d2 d d2 e e2 e He2 z e e2 f c2 d c f3/2 e/ d e c3/2 B/ c > B A G2 HF4 |]
+
+
+
+X:3
+%abctab2ps format
+%
+%%titlefont Times-Roman 18
+T:Es leit ein schloß
+T:Tenores
+C:Glogauer Liederbuch, Number 50
+M:C|
+L:1/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1 -8va
+%%MIDI transpose -24
+K:F bass
+f f2 f2 f2 d f2 d c2 f f2 f a2 f g2 c Hf4 f
+g2 g g2 c c'2 c' Hc'2 z c' a2 f2 f b a f2 g c2 c f > e f c2 Hc'4 |]

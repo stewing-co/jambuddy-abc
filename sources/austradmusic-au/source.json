@@ -1,0 +1,34 @@
+{
+  "name": "A repository for collected Australian Traditional Music",
+  "license": "Not stated; tunes believed traditional",
+  "origin": [
+    "http://austradmusic.au/",
+    "https://austradmusic.au/"
+  ],
+  "found_via": "https://abcnotation.com/tunes",
+  "downloaded": "2026-10-02",
+  "files": 7686,
+  "pages_crawled": 3000,
+  "pages_unvisited": 14354,
+  "failures": [
+    "http://austradmusic.au/abc/Wally_Febeys_Set_Tune.abc: <urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "http://austradmusic.au/abc/Gervasoni_Waltz_No_5.abc: <urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "http://austradmusic.au/tunes/view_tune.php?name=Charlie_Kyles_No_16_Polka: timed out",
+    "http://austradmusic.au/tunes/view_tune.php?name=Phillips_Dog: timed out",
+    "http://austradmusic.au/people/view_people.php?name=Harvest_Moon_Band: <urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "http://austradmusic.au/people/view_people.php?name=Mark_Schuster: [Errno 54] Connection reset by peer",
+    "http://austradmusic.au/tunes/find_tunes.php?case=i&any=Helen Jonah: URL can't contain control characters. '/tunes/find_tunes.php?case=i&any=Helen Jonah' (found at least ' ')",
+    "http://austradmusic.au/people/find_people.php?case=i&any=Helen Jonah: URL can't contain control characters. '/people/find_people.php?case=i&any=Helen Jonah' (found at least ' ')",
+    "http://austradmusic.au/doc/some_URL: HTTP Error 404: Not Found",
+    "http://austradmusic.au/maint/index.html: HTTP Error 403: Forbidden",
+    "https://austradmusic.au/tunes/view_tune.php?name=Cheer_Boys_Cheer: <urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "https://austradmusic.au/tunes/view_tune.php?name=Percy_Spanns_Schottese_Medley_Tune_No_3: <urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "https://austradmusic.au/people/Harry_Venn.txt: <urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "https://austradmusic.au/tunes/find_tunes.php?case=i&any=Frank Creenaune: URL can't contain control characters. '/tunes/find_tunes.php?case=i&any=Frank Creenaune' (found at least ' ')",
+    "https://austradmusic.au/people/find_people.php?case=i&any=Frank Creenaune: URL can't contain control characters. '/people/find_people.php?case=i&any=Frank Creenaune' (found at least ' ')",
+    "https://austradmusic.au/doc/some_URL: HTTP Error 404: Not Found",
+    "https://austradmusic.au/maint/index.html: HTTP Error 403: Forbidden",
+    "http://austradmusic.au/tunes/tune2svg.php?name=Bill_Coopers_Polka: <urlopen error timed out>",
+    "http://austradmusic.au/tunes/tune2svg.php?name=Bill_Coopers_Waltz: timed out"
+  ]
+}

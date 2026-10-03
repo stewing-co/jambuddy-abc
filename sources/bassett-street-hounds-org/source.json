@@ -1,0 +1,20 @@
+{
+  "name": "The Bassett Street Hounds Tunebook",
+  "license": "Not stated; tunes believed traditional",
+  "origin": [
+    "http://bassett-street-hounds.org/",
+    "http://bassett-street-hounds.org/hounds/dances"
+  ],
+  "found_via": "https://abcnotation.com/tunes",
+  "downloaded": "2026-10-02",
+  "files": 37,
+  "pages_crawled": 816,
+  "pages_unvisited": 0,
+  "failures": [
+    "https://bassett-street-hounds.org/members: HTTP Error 401: Unauthorized",
+    "http://bassett-street-hounds.org/contact/contact.php?id=137: HTTP Error 500: Internal Server Error",
+    "http://bassett-street-hounds.org/contact/contact.php?id=1: HTTP Error 500: Internal Server Error",
+    "http://bassett-street-hounds.org/hounds/ale/2020/bingo?do=login&sectok=: [Errno 60] Operation timed out",
+    "https://bassett-street-hounds.org/hounds/videos/gypsy_prisoner: <urlopen error [Errno 60] Operation timed out>"
+  ]
+}

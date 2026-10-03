@@ -1,0 +1,23 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Schottisch FCBb  chords  
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.256 (st05409) orig. F,C,Bb-Dur
+T: "Pl\"otsch Musig" Guggisberg (Bern) S.186ff
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"Acfa g2f2 | "C7"e2GB e2d2 | c2g2 bag2 | "F"c2f2 agf2 | Acfa g2f2 | "C7"e2GB e2d2 | c2eg bag2 | "F"f2a2 f2z2:: [K:C]
+"G7"g2gg g2a2 | "C"g2gg g2c'2 | "G7"bag2 bag2 | "C"e2fg a2g2 | "G7"g2gg g2a2 | "C"g2gg g2c'2 | "G7"bag2 fed2 | "C"c2c2 c2z2 :: [K:F] [L:1/8]
+"F"ca gf | "C7"ee ec/c/ | cb ag | "F"f2zc/c/ | ca "F7"gf | "Bb"e{/e}d db | "C7"d{/d}c c>e | "F"ff fz :: [K:Bb]
+"Bb"d/e/f f/g/b | "Cm/Eb"ag c2 | g>f "F7"ed | "Bb"ed +>+B2 | d/e/f f/g/b | "Cm/Eb"ag c>f | "F7"fe d>c | "Bb"BB Bz |] 
+
+X:2
+T:Schottisch CGF 5-  chords  
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"EGce d2c2 | "G7"B2DF B2A2 | G2d2 fed2 | "C"G2c2 edc2 | EGce d2c2 | "G7"B2DF B2A2 | G2Bd fed2 | "C"c2e2 c2z2:: [K:Gmaj]
+"D7"d2dd d2e2 | "G"d2dd d2g2 | "D7"fed2 fed2 | "G"B2cd e2d2 | "D7"d2dd d2e2 | "G"d2dd d2g2 | "D7"fed2 cBA2 | "G"G2G2 G2z2 :: [K:Cmaj] [L:1/8]
+"C"Ge dc | "G7"BB BG/2G/2 | Gf ed | "C"c2zG/2G/2 | Ge "C7"dc | "F"B{/B}A Af | "G7"A{/A}G G>B | "C"cc cz :: [K:Fmaj]
+"F"A/2B/2c c/2d/2f | "Gm/Bb"ed G2 | d>c "C7"BA | "F"BA !>!F2 | A/2B/2c c/2d/2f | "Gm/Bb"ed G>c | "C7"cB A>G | "F"FF Fz |] 

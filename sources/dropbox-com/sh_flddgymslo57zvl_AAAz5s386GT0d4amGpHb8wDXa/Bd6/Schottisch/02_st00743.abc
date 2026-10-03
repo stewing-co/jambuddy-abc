@@ -1,0 +1,100 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Landm\"us  G
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.168 (st00743) orig. G-Dur
+T: Zermatter T\"anze. S.166-177.\"Uberliefert durch Moritz Perren, "Hofmuri", 1874-1952.
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"!fermata!g3z | "D"!fermata!f3z | "C"!fermata!e3z | "G"!fermata!d3z | [L:1/8] "Am"ce Ac | "G"Bd GB | "D7"Ac FA | "G"G2z2 :| 
+|: "G"BdG2 | BdG2 | Bd e>d | "D7"cdF2 | cdF2 | cdF2 | cd e>d | "G"BdG2 :| 
+W: "Landm\"us" (schweizerdt. f\"ur Landm\"ause - country mice)
+X:2
+T:Landm\"us  F 2-
+%%MIDI program 21
+M:2/4
+L:1/8
+R:shottishe
+K:F %%MIDI gchordon
+"F"!fermata!f3z | "C"!fermata!e3z | "Bb"!fermata!d3z | "F"!fermata!c3z | [L:1/8] "Gm"Bd GB | "F"Ac FA | "C7"GB EG | "F"F2z2 :| 
+|: "F"AcF2 | AcF2 | Ac d>c | "C7"BcE2 | BcE2 | BcE2 | Bc d>c | "F"AcF2 :| 
+% st00743
+X:3
+T:Landm\"us  C 7-
+%%MIDI program 21
+M:2/4
+L:1/8
+R:shottishe
+K:C %%MIDI gchordon
+"C"!fermata!c3z | "G"!fermata!B3z | "F"!fermata!A3z | "C"!fermata!G3z | [L:1/8] "Dm"FA DF | "C"EG CE | "G7"DF B,D | "C"C2z2 :| 
+|: "C"EGC2 | EGC2 | EG A>G | "G7"FGB,2 | FGB,2 | FGB,2 | FG A>G | "C"EGC2 :| 
+% st00743
+X: 4
+T: Landm\"us  G (5letras transposed)
+%%MIDI program 21
+M:2/4
+L:1/8
+R:shottishe
+K:G transpose=3 %%MIDI gchordon
+"G"!fermata!g3z | "D"!fermata!f3z | "C"!fermata!e3z | "G"!fermata!d3z | [L:1/8] "Am"ce Ac | "G"Bd GB | "D7"Ac FA | "G"G2z2 :| 
+|: "G"BdG2 | BdG2 | Bd e>d | "D7"cdF2 | cdF2 | cdF2 | cd e>d | "G"BdG2 :| 
+X:5
+T:Landm\"us  F (5letras transposed)
+%%MIDI program 21
+M:2/4
+L:1/8
+R:shottishe
+K:F transpose=3 %%MIDI gchordon
+"F"!fermata!f3z | "C"!fermata!e3z | "Bb"!fermata!d3z | "F"!fermata!c3z | [L:1/8] "Gm"Bd GB | "F"Ac FA | "C7"GB EG | "F"F2z2 :| 
+|: "F"AcF2 | AcF2 | Ac d>c | "C7"BcE2 | BcE2 | BcE2 | Bc d>c | "F"AcF2 :| 
+% st00743
+X:6
+T:Landm\"us  C (5letras transposed)
+%%MIDI program 21
+M:2/4
+L:1/8
+R:shottishe
+K:C transpose=3 %%MIDI gchordon
+"C"!fermata!c3z | "G"!fermata!B3z | "F"!fermata!A3z | "C"!fermata!G3z | [L:1/8] "Dm"FA DF | "C"EG CE | "G7"DF B,D | "C"C2z2 :| 
+|: "C"EGC2 | EGC2 | EG A>G | "G7"FGB,2 | FGB,2 | FGB,2 | FG A>G | "C"EGC2 :| 
+% st00743
+X:7
+T:Landm\"us  F (5letras transposed)
+%%MIDI program 21
+M:2/4
+L:1/8
+R:shottishe
+K:F transpose=3 %%MIDI gchordon
+"F"!fermata!f3z | "C"!fermata!e3z | "Bb"!fermata!d3z | "F"!fermata!c3z | [L:1/8] "Gm"Bd GB | "F"Ac FA | "C7"GB EG | "F"F2z2 :| 
+|: "F"AcF2 | AcF2 | Ac d>c | "C7"BcE2 | BcE2 | BcE2 | Bc d>c | "F"AcF2 :| 
+X: 8
+T: Landm\"us  G (tinwhistle in D)
+T: st00743 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:2/4
+L:1/8
+R:shottishe
+K:G %%MIDI gchordon
+"G"!fermata!g3z | "D"!fermata!f3z | "C"!fermata!e3z | "G"!fermata!d3z | [L:1/8] "Am""_c"ce Ac | "G"Bd GB | "D7"A"_c"c FA | "G"G2z2 :| 
+|: "G"BdG2 | BdG2 | Bd e>d | "D7""_c"cdF2 | cdF2 | cdF2 | cd e>d | "G"BdG2 :| 
+W: 
+X: 9
+T: Landm\"us  G (tinwhistle in D) solo
+T: st00743 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:2/4
+L:1/8
+R:shottishe
+K:G transpose=12
+"G"!fermata!g3z | "D"!fermata!f3z | "C"!fermata!e3z | "G"!fermata!d3z | [L:1/8] "Am""_c"ce Ac | "G"Bd GB | "D7"A"_c"c FA | "G"G2z2 :| 
+|: BdG2 | BdG2 | Bd e>d | "_c"cdF2 | cdF2 | cdF2 | cd e>d | BdG2 :| 
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 18, 2016

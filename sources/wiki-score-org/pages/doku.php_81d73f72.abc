@@ -1,0 +1,20 @@
+X:107
+T:Hodie Nobis
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 7 clef=tenor name="Tenor" sname="T."
+%%MIDI program 1 1
+%%staves [ 7 ]
+%----------
+C2|CC|B,2|CA,|A,2| A,C|C C/ C/ | B,2|CE|D D/ D/ | DA,| C2| B,2 !segno! || \
+%
+w: Ho-di-e no-bis de coe-lo pax ve-ra des-cen-dit pax ve-ra des-cen---dit
+%
+[M:3/2] B,>B,B, | CCC | B,3 | CC2| B,>B,B, | C>B,A,| A,^G,2 | A,2C|B,>A,B,|C>CA,|B,3| CC2-|CA,A,|^G,A,2|^G,3-|^G,3 !fine!|] \
+%
+w: Ho-di-e per to-tum mun-dum mel-li-flu-i fa-ct sunt coe--li mel-li-flu-i fa-cti sunt coe-li fa--cti sunt coe--li
+%
+[M:2/2] Z57 !segno!|] \
+%----------

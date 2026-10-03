@@ -1,0 +1,17 @@
+X:1207
+T:N.16 No movimento do Fado
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 7 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%---- edit between the lines -----
+[D,,/D,/] [F,A,D] [A,,,/F,,/] | \
+[C,,/C,/] [G,E] [A,,/A,,,]    | \
+[E,,E,]> [A,,A,,,]            | \
+[D,,D,]< [F,A,DF]            || \
+[M:4/8] !ped.! X11 | F,,F,,  || \
+[M:2/4] F,,2- | F,,2 | Z4 | X2 ||
+%---------------------------------

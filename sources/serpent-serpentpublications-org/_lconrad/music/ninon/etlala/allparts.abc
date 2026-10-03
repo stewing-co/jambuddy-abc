@@ -1,0 +1,157 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+
+X:1
+T:Cantus
+T:Et la la la
+C:Ninot le Petit
+M:C|
+L:1/4
+%%MIDI nobarlines
+K:C
+N: Original clef, C on first line
+z2 z G c > B A A G > F E G F > E D C2 B, C2
+w: Et la la la la la la la, Feic- tez luy bon- ne chie- re:
+w:1
+z4 z4 z4 c c B B c c G > B A A G2
+w: Mi le- vay par ung ma- tin, par ung ma- tin,
+w:2
+z2 z G c c B B c B/ A/ G2 c > B A A G > F E G F > E D C
+w:La fre- schi ma- ti- né- e, m'en en- tray en no jar- din Pour coeul- lier gi- rou-
+w:3
+E > F G2 c > B A A G > F E G F > E D C2 B, C G F > E D C2
+w: flé- _ e: La la la la la la la, Faic- tez luy bon- ne chie- re: A la bel- le ber-
+w:4
+B, C2 z2 c c B B d/ c/ B/ A/ G2 z4 z E
+w:gie- re m'en en- tray en no _ jar- _ din Pour
+w:5
+E E E/ F/ G/ A/ B/ c/d2 c2 B c B/ A/ G2 z2 z4
+w:coeul- lier gi- _ _ _ _ _ _ rou- _ flé _ _ e:
+w:6
+z4 c > B A A G > F E G F > E D C E > F G G
+w:La trou- vay ly mien a- my, Qui l'a- voit a- mas- sé- _  e, Et
+w:7
+c > B A A G > F E G F > E D C2 B, C G F > E D C C B, HC2 ||
+w: la la la la la la la Feic- tes luy bon- ne chie- re, A la bel- le ber- gie- _ re.
+w:8
+
+X:2
+T:Altus
+T:Et la la la
+C:Ninot le Petit
+M:C|
+L:1/4
+%%MIDI nobarlines
+K:C
+N: Original clef, C on third line, so this is a tenor G clef, sounding an octave lower than written
+%%MIDI transpose -12
+z4 z c f > f e e c2 z4 z2 z e
+w: Et la la la la la faic-
+w:1
+f > e d c2 B c2 z4 z4 z2 g g f f g g
+w: tes luy bon- ne chie- re: Mi le- vay par ung ma- 
+w:2
+d d g g f > e g2 e4 e e f f e > f g e d > c A > B
+w:tin, La fre- sche ma- ti- né- e, m'en en- tray en no jar- din Pour coeul- lier gi- rou-
+w:3
+c2 c2 e > e e e e e c c A A _B A G2 G c A A _B A
+w: flé- e: La la la la la la la, Faic- tez luy bon- ne chie- re: A la bel- le ber-
+w:4
+G2 G2 z4 g g f f g/ f/ e/ d/ f f f e/ d/ e g
+w:gie- re m'en en- tray en no _ jar- _ din Pour coeul- _ _ lier, pour
+w:5
+g g g3/2 f/4 e/4 d g e d/ c/ d2 c > d e/ f/ e f/ e/ d/ c/ B2 z4
+w:coeul- lier gi- _ _ _ rou- flé _ _ e: coeul- lier gi _ rou- flé _ _ _ e:
+w:6
+g > f e e d > c B B  c e d3/2 c/4 B/4 A A c4
+w:La trou- vay ly mien a- my, Qui l'a- voit a- _ _ mas- sé- e,
+w:7
+e > e e e e e c2 A A _B A G2 G c A A _B A G2 HG2 ||
+w: la la la la la la Feic- tes luy bon- ne chie- re, A la bel- le ber- gie- re.
+w:8
+
+X:3
+T:Tenor
+T:Et la la la
+C:Ninot le Petit
+M:C|
+L:1/4
+%%MIDI nobarlines
+K:C
+N: Original clef, C on fourth line, so this is a tenor G clef, sounding an octave lower than written
+%%MIDI transpose -12
+z4 z4 z3 G A > G F E D2 C2
+w: Faic- tes luy bon- ne chie- re: 
+w:1
+z4 z4 c c B B c c G2 z4 z d e d/ c/
+w: Mi le- vay par ung ma- tin, La fre- _ _ 
+w:2
+B4 c2 d2 c3 B/ A/ G2 d > c B B c c A A A A
+w: sche ma- ti- né- _ _ e, m'en en- tray en no jar- din Pour coeul- lier 
+w:3
+G G G2 G2 E > F G G G E F F F E D2 E E F F F E
+w: gi- rou- flé- e: La la la la la, Faic- tez luy bon- ne chie- re: A la bel- le ber-
+w:4
+D2 C4 z4 z4 c c B B c c
+w:gie- re m'en en- tray en no jar- 
+w:5
+G G c c B B c B/ A/ G2 z2 c > B A A G/ F/ E/ D/ C2
+w:din Pour coeul- lier gi- rou- flé _ _ e: La trou- vay ly mien a- my, Qui 
+w:6
+z c B B c d/ e/ f f e e e/ d/ c/ B/ A > G A2 G6
+w:Qui l'a- voit a- _ _ mas- sé- e, a- mas- _ _ _ sé _ _ e,
+w:7
+E > F G G G E F F F E D2 E E F F F E D2 HC2 ||
+w: la la la la la Faic- tes luy bon- ne chie- re, A la bel- le ber- gie-  re.
+w:8
+
+X:4
+T:Bassus
+T:Et la la la
+C:Ninot le Petit
+M:C|
+L:1/4
+%%MIDI nobarlines
+K:C
+N: Original clef, F on third line
+%%MIDI transpose -24
+K:C bass
+g2 c' > b a > g f f c4 z4 z2 z g
+w: Et la la la la la la la, Faic- 
+w:1
+a > g f e d2 c4 z4 g g f f g g d2 z g
+w: tes luy bon- ne chie- re: Mi le- vay par ung ma- tin, La 
+w:2
+g g g g a2 g2 c4 c c d d e e c c d > e f f 
+w:fre-  sche ma- ti- né- _  e, m'en en- tray en no jar- din Pour coeul- lier gi- rou-
+w:3
+c2 c c c > c c c c c c c d d _B c G2 c c d > c _B c
+w: flé- e: Et la la la la la la la, Faic- tez luy bon- ne chie- re: A la bel- le ber-
+w:4
+G2 c2 g g f f g g d d g g f/ e/ d/ c/ d2 c6 
+w:gie- re m'en en- tray en no  jar- din Pour coeul- lier gi- _  rou- _ flé-  e:
+w:5
+z4 z4 z4 z2 c' > b
+w:La trou-
+w:6
+a a g/ f/ e/ d/ c c d d e e c2 d > e f2 c4
+w:vay ly mien _  a- _ my, Qui l'a- voit a- mas- sé- _ _ _ e, 
+w:7
+c > c c c c c c c d d _B c G2 c c d > c _B c G2 Hc2 ||
+w: la la la la la la la Feic- tes luy bon- ne chie- re, A la bel- le ber- gie- re.
+w:8
+

@@ -1,0 +1,18 @@
+X:103
+T:Andante
+C:Joao de Sousa Carvalho (1745-1798)
+M:3/8
+L:1/8
+K:F
+V: 3 clef=bass name="Corno I" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 3 )]
+%------
+[Q:"Andante a comodo"] z/2 | z/>A,/A,z | z/>G,/G,z | Z3 | z/>A,/A,z | z/>C/Cz | Z11 | \
+!p!zF,F,| F,3 | -F, F,F, | F,3 -|F, zz | Z4 |  z/>A,/A,z | z/>G,/G,z | Z3 | z/>A,/A,z | z/>G,/G,z | Z4  | \
+!p!G,3- | G,zz | Z2 |G,3- | G,zz | !sfz!!p!C,3 |!sfz!!p!C,3 |C,3 |Z4|\
+Z3 | zz!fermata!z | Z7 | z!p!F,F,| !sfz!!p!F,3- |F, !p!F,F,| !sfz!!p!F,3- |F, !p!F,F, |\
+!sfz!!p!F,3- |F, !p!F,F,| !sfz!!p! F,3- | F,3- | F,3- | F,zz | Z3 |\
+!sfz!!p!C,3-|C,zz|!sfz!!p!C,3-|C,zz|!p!C,3-|C,z!fermata!z/z/ \
+|| "_[Allegro;follows]"  X | \
+%------

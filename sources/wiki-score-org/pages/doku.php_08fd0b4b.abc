@@ -1,0 +1,44 @@
+X:209
+T:Allegro
+C:Joao de Sousa Carvalho (1745-1798)
+M:C
+L:1/4
+K:F
+V: 9 clef=bass name="Basso" sname="B."
+%%MIDI program 1 43
+%%staves [ 9 ]
+%------
+W: Fiat Misericordia
+W: Solo de Contralto
+W: Con Violini, Obo\'e,
+W: Corni, Viole, Fagotti,
+W: e
+W: Bassi.
+W: Feito
+W: Para Se cantar Na Real
+W: Capela de N. Sra. da Ajuda
+W: em dia de S. Silvestre em
+W: lugar do Cheio que esta na
+W: Partitura grande.
+W: Pelo
+W: S.or Jo\~ao de Sousa Carvalho.
+W: em o anno de 1794.
+%--------------------------------
+"_[fol. 9a]" [Q:"Allegro"] F, z/>F,/ A,- A,/z//C// | E, z/>E,/ G,-G,/z//C// | !sfz! _E,4 | D,zD,z | D,zD,z | \
+"_[fol. 9b]"  D,zD,z |  D,zD,z |  D,zD,z | D,zD,z |  zD,D, z/!f!(D,//E,/8^F,/8) |  \
+"_[fol.10a]" G, z/>G,/ B,- B,/z//D// | E, z/>E,/ G,-G,/z//B,// | _D,4| C,zC,z | C,zC,z | \
+"_[fol.10b]" C,zC,z | C,zC,z | C,zC,z | C,zC,z | zC,C, z/!f!(C,//D,/8E,/8) | \
+"_[fol.11a]" F,4 | B,,zz2 | Z | B,,zz2 | B,,zz2 | \
+"_[fol.11b]" B,,zB,,z | B,,zz2 | =B,,zz2 | C,zG,,z | C,zz2 | Z | \
+"_[fol.12a]" C,zC,z| C,4 | C,zz2 | Z2 | \
+"_[fol.12b]" F,zF,z| F,,zF,,z| F,zF,,z | F,,zF,,z| \
+"_[fol.13a]" F,zz2 | E,zz2 | _E,zz2 | D,zz2 | A,,zz2 | \
+"_[fol.13b]" B,,z(B,,2|A,,)z(C,2|.B,,).B,,.B,,.B,,| C,C,C,C,| !f!F,/F,/F,/F,/ F,/F,/F,/F,/ | \
+"_[fol.14a]" F,.F,.F,.F, | !f!F,/F,/F,/F,/ F,/F,/F,/F,/ | !p!F,F,F,F,| F,F,F,F, | !f!F,/F,/F,/F,/ F,/F,/F,/F,/ | \
+"_[fol.14b]" F, (3C,/D,/E,/ (3F,/A,/F,/ (3C,/D,/E,/ | F, !fermata!zz2| \
+z(D,G,)z | z(B,,.A,,).B,, | !p!C,/C,/C,/C,/ C,/C,/C,/C,/ | \
+"_[fol.15a]" F,,z/.F,/.F,,z/.F,/ | .F,,z/.F,/.F,,z/.F,/ | F,,z/F,/F,,z/F,/ | F,,z/F,/F,,z/F,/ | F,,z/F,/F,,z/F,/ | \
+"_[fol.15b]" F,,z/F,/F,,z/F,/ | F,,z/F,/F,,z/F,/ | F,, A,,/C,/ F,/A,/F,/E,/ | D,/F,/A,/F,/ D,/F,/D,/=B,,/ | C,z!fermata!z2 | \
+"_[fol.16a]" F, z/>F,/ A, z/>C/ | E, z/>E,/ G, z/>C/ | D,z(D,C,) | B,,2>B,,2 | C,zC,z | \
+"_[fol.16b]" F,, z/!f!(C,//D,/8E,/8) F,/>F,/^C,/>C,/ | D,zz2 | z2 !p!B,,C,| F,,zF,,z | F,,zz2 |] \
+%------

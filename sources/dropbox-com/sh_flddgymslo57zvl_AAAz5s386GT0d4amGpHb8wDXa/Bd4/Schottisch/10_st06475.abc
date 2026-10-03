@@ -1,0 +1,41 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Schottisch GC (st06475)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.173 (st06475) orig. G,C
+T: Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+T:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G".g2.g2 .g.g.g2 | (b2g2)g4 | .d2.d2 .d.^c.d2 | (g2d2)d4 | "D7"f2f2 fed2 | "G"b2b2 bag2 | "D"f2df "A7"e2^ce | "D"d2d2 d2z2 :| 
+"D7"d2dd d2d2 | .d.e.f.g a2f2 | "G"gfg2 b^ab2 | d^cd2 gfg2 | "D7"d2dd d2d2 | defg a2f2 | ("G"gd).g.b "D7"a2f2 | "G"g2g2 g2z2 || [K:C] [L:1/8] 
+("C"e3c) | (Gc) ce | ("F"f3a) | ("C"g2e)z | "G7"ff ff | f/e/dd2 | "C7"ec g>e | "G7"dz!>!G2 | 
+("C"e3c) | (Gc) ce | ("F"f3a) | ("C"g2e)z | "F"fa/a/ aa | ("C"g/a/).g/.e/ "F"cf | "C/G"eg/z/ "G7"dg/z/ | "C"c{/d}c/B/ cz || 
+ "G7"GG/A/ B/c/d/e/ | fd G>d | "C"ec/c/ ce | ("G7"d/e/d/B/) Gz | GG/A/ B/c/d/e/ | fd G>f | "C"ec/c/ ce | "G7"dz !>!g>f | 
+("C"e3c) | (Gc) .c.e | ("F"f3a) | ("C"g2e)z | "F"fa/a/ aa | ("C"g/a/).g/.e/ "F"cf | ("C/G"eg/)z/ "G7"dg/z/ | "C"c{/d}c/B/ cz |] 
+ % st06475
+% Dez 26, 2016
+
+X:2
+T:Schottisch CF 7- (st06475)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.173 (st06475) orig. G,C
+S:Basel - Repertoire der 'Dorfmusik Binningen'. S.140-201
+S:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C".c2.c2 .c.c.c2 | (e2c2)c4 | .G2.G2 .G.^F.G2 | (c2G2)G4 | "G7"B2B2 BAG2 | "C"e2e2 edc2 | "G"B2GB "D7"A2^FA | "G"G2G2 G2z2 :| 
+"G7"G2GG G2G2 | .G.A.B.c d2B2 | "C"cBc2 e^de2 | G^FG2 cBc2 | "G7"G2GG G2G2 | GABc d2B2 | ("C"cG).c.e "G7"d2B2 | "C"c2c2 c2z2 || [K:F] [L:1/8] 
+("F"A3F) | (CF) FA | ("Bb"B3d) | ("F"c2A)z | "C7"BB BB | B/2A/2GG2 | "F7"AF c>A | "C7"Gz!>!C2 | 
+("F"A3F) | (CF) FA | ("Bb"B3d) | ("F"c2A)z | "Bb"Bd/2d/2 dd | ("F"c/2d/2).c/2.A/2 "Bb"FB | "F/C"Ac/2z/2 "C7"Gc/2z/2 | "F"F{/G}F/2E/2 Fz || 
+"C7"CC/2D/2 E/2F/2G/2A/2 | BG C>G | "F"AF/2F/2 FA | ("C7"G/2A/2G/2E/2) Cz | CC/2D/2 E/2F/2G/2A/2 | BG C>B | "F"AF/2F/2 FA | "C7"Gz !>!c>B | 
+("F"A3F) | (CF) .F.A | ("Bb"B3d) | ("F"c2A)z | "Bb"Bd/2d/2 dd | ("F"c/2d/2).c/2.A/2 "Bb"FB | ("F/C"Ac/2)z/2 "C7"Gc/2z/2 | "F"F{/G}F/2E/2 Fz |] 
+% st06475
+% Dez 26, 2016

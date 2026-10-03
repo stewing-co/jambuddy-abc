@@ -1,0 +1,103 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walzer  C
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: Das Repertoire der B\"abi-Musig, Alpnach. S.62-108. S.108 (wz09150) orig. C
+T: \"Uberliefert durch Josef B\"abi, Alpnach, 1880
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"e2c | G2c | "F"A2c | "C"G2z | e2c | G2c | "G7"B2f | "C"e2G | 
+e2c | G2c | "F"A2c | "C"G2e | e2c | G2c | "G7"B2d | "C"czz || 
+ "G7"f>dd | b2a | "C"g>cc | e2g | "G7"a>dd | B/c/ d/e/ f/g/  | "C"g>cc | c/d/ e/f/g | 
+"G7"f>dd | b2a | "C"g>cc | e2g | "G7"a>BB | G/A/ B/c/ d/e/ | f>BB | "C"czz |] 
+% wz09150
+X:2
+T:Walzer  F 7-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"A2F | C2F | "Bb"D2F | "F"C2z | A2F | C2F | "C7"E2B | "F"A2C | 
+A2F | C2F | "Bb"D2F | "F"C2A | A2F | C2F | "C7"E2G | "F"Fzz || 
+"C7"B>GG | e2d | "F"c>FF | A2c | "C7"d>GG | E/2F/2 G/2A/2 B/2c/2 | "F"c>FF | F/2G/2 A/2B/2c | 
+"C7"B>GG | e2d | "F"c>FF | A2c | "C7"d>EE | C/2D/2 E/2F/2 G/2A/2 | B>EE | "F"Fzz |] 
+% wz09150
+
+X:3
+T:Walzer  G 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"B2G | D2G | "C"E2G | "G"D2z | B2G | D2G | "D7"F2c | "G"B2D | 
+B2G | D2G | "C"E2G | "G"D2B | B2G | D2G | "D7"F2A | "G"Gzz || 
+"D7"c>AA | f2e | "G"d>GG | B2d | "D7"e>AA | F/2G/2 A/2B/2 c/2d/2 | "G"d>GG | G/2A/2 B/2c/2d | 
+"D7"c>AA | f2e | "G"d>GG | B2d | "D7"e>FF | D/2E/2 F/2G/2 A/2B/2 | c>FF | "G"Gzz |] 
+% wz09150
+X:4
+T: Walzer  C (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"e2c | G2c | "F"A2c | "C"G2z | e2c | G2c | "G7"B2f | "C"e2G | 
+e2c | G2c | "F"A2c | "C"G2e | e2c | G2c | "G7"B2d | "C"czz || 
+ "G7"f>dd | b2a | "C"g>cc | e2g | "G7"a>dd | B/c/ d/e/ f/g/  | "C"g>cc | c/d/ e/f/g | 
+"G7"f>dd | b2a | "C"g>cc | e2g | "G7"a>BB | G/A/ B/c/ d/e/ | f>BB | "C"czz |] 
+% wz09150
+X:5
+T:Walzer  F (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+"F"A2F | C2F | "Bb"D2F | "F"C2z | A2F | C2F | "C7"E2B | "F"A2C | 
+A2F | C2F | "Bb"D2F | "F"C2A | A2F | C2F | "C7"E2G | "F"Fzz || 
+"C7"B>GG | e2d | "F"c>FF | A2c | "C7"d>GG | E/2F/2 G/2A/2 B/2c/2 | "F"c>FF | F/2G/2 A/2B/2c | 
+"C7"B>GG | e2d | "F"c>FF | A2c | "C7"d>EE | C/2D/2 E/2F/2 G/2A/2 | B>EE | "F"Fzz |] 
+% wz09150
+X:6
+T:Walzer  G (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"B2G | D2G | "C"E2G | "G"D2z | B2G | D2G | "D7"F2c | "G"B2D | 
+B2G | D2G | "C"E2G | "G"D2B | B2G | D2G | "D7"F2A | "G"Gzz || 
+"D7"c>AA | f2e | "G"d>GG | B2d | "D7"e>AA | F/2G/2 A/2B/2 c/2d/2 | "G"d>GG | G/2A/2 B/2c/2d | 
+"D7"c>AA | f2e | "G"d>GG | B2d | "D7"e>FF | D/2E/2 F/2G/2 A/2B/2 | c>FF | "G"Gzz |] 
+% wz09150
+X:7
+T:Walzer D (tinwhistle in D)
+T:wz09150 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+"D"f2d | A2d | "G"B2d | "D"A2z | f2d | A2d | "A7"c2g | "D"f2A | 
+f2d | A2d | "G"B2d | "D"A2f | f2d | A2d | "A7"c2e | "D"dzz || 
+"A7"g>ee | c'2b | "D"a>dd | f2a | "A7"b>ee | c/2d/2 e/2f/2 g/2a/2 | "D"a>dd | d/2e/2 f/2g/2a | 
+"A7"g>ee | c'2b | "D"a>dd | f2a | "A7"b>cc | A/2B/2 c/2d/2 e/2f/2 | g>cc | "D"dzz |] 
+X:8
+T:Walzer A (tinwhistle in D)
+T:wz09150 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A %%MIDI gchordon
+"A"c2A | E2A | "D"F2A | "A"E2z | c2A | E2A | "E7"G2d | "A"c2E | 
+c2A | E2A | "D"F2A | "A"E2c | c2A | E2A | "E7"G2B | "A"Azz || 
+"E7"d>BB | g2f | "A"e>AA | c2e | "E7"f>BB | G/2A/2 B/2c/2 d/2e/2 | "A"e>AA | A/2B/2 c/2d/2e | 
+"E7"d>BB | g2f | "A"e>AA | c2e | "E7"f>GG | E/2F/2 G/2A/2 B/2c/2 | d>GG | "A"Azz |] 
+% Aug 12, 2016 (capre in Ticino)

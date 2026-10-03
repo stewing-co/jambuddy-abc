@@ -1,0 +1,61 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.125 (st00182) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"c2de "Bb"f2ed | "F"d2c2A4 | "C7"c2B2+>+G4 | "F"A2d2+>+c4 | c2cd "Bb"f2ed | d2c2 +>+a4 | "G7"gfe2 fed2 | 
+"C7"c2c2 c2z2 || "C7"c2b2 bag2 | "F"a2c2 agf2 | "C7"efg2 c2eg | "F"f2a2c'4 | "C7"c2b2 bag2 | "F"a2c2 agf2 | 
+"C7"efg2 c2eg | "F"f2f2 f2z2 || [K:Bb] "Bb"f4"Bb0"g4 | "Bb"f6de | f2d2 f2b2 | "F7"a6cd | e4"F0"f4 | 
+"F7"e6cd | e2f2 g2a2 | "Bb"b2agf4 | "Bb"f4"Bb0"g4 | "Bb"f6df | b2b2 b3a | 
+"Eb"g6z2 | e2g2 gfe2 | "Bb"d2f2 fed2 | "C7"c2cd "F7"efga | "Bb"b2b2 b2z2 |] 
+
+X:2
+T:Schottisch CF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"G2AB "F"c2BA | "C"A2G2E4 | "G7"G2F2!>!D4 | "C"E2A2!>!G4 | G2GA "F"c2BA | A2G2 !>!e4 | "D7"dcB2 cBA2 | 
+"G7"G2G2 G2z2 || "G7"G2f2 fed2 | "C"e2G2 edc2 | "G7"Bcd2 G2Bd | "C"c2e2g4 | "G7"G2f2 fed2 | "C"e2G2 edc2 | 
+"G7"Bcd2 G2Bd | "C"c2c2 c2z2 || [K:Fmaj] "F"c4"F0"d4 | "F"c6AB | c2A2 c2f2 | "C7"e6GA | B4"C0"c4 | 
+"C7"B6GA | B2c2 d2e2 | "F"f2edc4 | "F"c4"F0"d4 | "F"c6Ac | f2f2 f3e | 
+"Bb"d6z2 | B2d2 dcB2 | "F"A2c2 cBA2 | "G7"G2GA "C7"Bcde | "F"f2f2 f2z2 |] 
+
+X:3
+T:Schottisch CF 5- chords (align)
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"G2AB "F"c2BA | "C"A2G2E4 | "G7"G2F2!>!D4 | "C"E2A2!>!G4 | G2GA "F"c2BA | A2G2 !>!e4 | "D7"dcB2 cBA2 | 
+"G7"G2G2 G2z2 || "G7"G2f2 fed2 | "C"e2G2 edc2 | "G7"Bcd2 G2Bd | "C"c2e2g4 | "G7"G2f2 fed2 | "C"e2G2 edc2 | 
+"G7"Bcd2 G2Bd | "C"c2c2 c2z2 || [K:Fmaj] "F"c4"F0"d4 | "F"c6AB | c2A2 c2f2 | "C7"e6GA | B4"C0"c4 | \
+"C7"B6GA | B2c2 d2e2 |
+ "F"f2edc4 | "F"c4"F0"d4 | "F"c6Ac | f2f2 f3e | \
+"Bb"d6z2 | B2d2 dcB2 | "F"A2c2 cBA2 | "G7"G2GA "C7"Bcde | "F"f2f2 f2z2 |] 
+
+X:4
+T:Schottisch GC 10- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"D2EF "C"G2FE | "G"E2D2B,4 | "D7"D2C2!>!A,4 | "G"B,2E2!>!D4 | D2DE "C"G2FE | E2D2 !>!B4 | "A7"AGF2 GFE2 | 
+"D7"D2D2 D2z2 || "D7"D2c2 cBA2 | "G"B2D2 BAG2 | "D7"FGA2 D2FA | "G"G2B2d4 | "D7"D2c2 cBA2 | "G"B2D2 BAG2 | 
+"D7"FGA2 D2FA | "G"G2G2 G2z2 || [K:Cmaj] "C"G4"C0"A4 | "C"G6EF | G2E2 G2c2 | "G7"B6DE | F4"G0"G4 | 
+"G7"F6DE | F2G2 A2B2 | "C"c2BAG4 | "C"G4"C0"A4 | "C"G6EG | c2c2 c3B | 
+"F"A6z2 | F2A2 AGF2 | "C"E2G2 GFE2 | "D7"D2DE "G7"FGAB | "C"c2c2 c2z2 |] 
+
+X:5
+T:Schottisch GC 10- chords (align/
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"D2EF "C"G2FE | "G"E2D2B,4 | "D7"D2C2!>!A,4 | "G"B,2E2!>!D4 | D2DE "C"G2FE | E2D2 !>!B4 | "A7"AGF2 GFE2 | 
+"D7"D2D2 D2z2 || "D7"D2c2 cBA2 | "G"B2D2 BAG2 | "D7"FGA2 D2FA | "G"G2B2d4 | "D7"D2c2 cBA2 | "G"B2D2 BAG2 | 
+"D7"FGA2 D2FA | "G"G2G2 G2z2 || [K:Cmaj] "C"G4"C0"A4 | "C"G6EF | G2E2 G2c2 | "G7"B6DE | F4"G0"G4 | \
+"G7"F6DE | F2G2 A2B2 |
+ "C"c2BAG4 | "C"G4"C0"A4 | "C"G6EG | c2c2 c3B | \
+"F"A6z2 | F2A2 AGF2 | "C"E2G2 GFE2 | "D7"D2DE "G7"FGAB | "C"c2c2 c2z2 |] 

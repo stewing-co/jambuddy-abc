@@ -1,0 +1,20 @@
+X:205
+T:Alla Francese
+C:Davide Perez (1711-1778)
+M:3/8
+L:1/8
+K:F
+V: 5 clef=treble name="Violino Primo" sname="Vl.1"
+%%MIDI program 1 40
+%%staves [{ 5 }]
+%---------------
+[Q:"Grave"]
+!p!f/>e/ dd | d z/>d/^c/>e/ | d z/>f/e/>e/ | d z/>f/!f!e/>g/ | {g}f/>e/ f/>a/ ^c/>e/ | {e}dDz | \
+!p!{g}f/>e/ dd | d z/>d/^c/>e/ | d z/>d/^c/>e/ | d z/>f/!f!e/>g/ |  {g}f/>e/ f/>a/ ^c/>e/ | {e}dDz | \
+!p!B/>B/B/>B/B | B/>A/A/>^G/A | f/>d/ c/>=B/ A/>^G/ | AA,z | !p!c/>c/c/>c/!f!c/>_e/ | \
+^FGz | !p!d/>d/d/>d/!f!d/>f/ | ^GAz | !p!A/>B/ A/>E/ !f!F/>G/ | {G}F(E/D/)E & A,2x | \
+!p!A/>B/ A/>E/ !f!F/>G/ | {G}F(E/D/)E & A,2x | !p!f/>e/ !wedge!d!wedge!d | d z/>d/^c/>e/ | \
+d z/>d/^c/>e/ | d z/>f/!f!e/>g/ | {g}f/>e/ f/>a/ ^c/>e/ | dDz | !p!_e/>e/e/>e/ e | e/d/d/^c/ d | \
+!f!=e/>g/ g/>e/ d/>^c/ | dDz | !p!_e/>e/e/>e/ e | e/d/d/^c/ d | !f!=e/>g/ g/>e/ d/>^c/ | dD!fermata!z \
+|| [Q:"Doce assai"] [M:C|] [L:1/4] e>f e/a/ e/f/ & A4 | e>F E/A/E/F/ & x>A, A,2 | E2z2 & A,2x2|]  \
+%---------------

@@ -1,0 +1,47 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch CGF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.154 (st00254) orig. C,G,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+G,G, |: "C"G,B,CE Gceg | e2e2 e2eg | e2eg e2eg | "G7"gfdB G4 | AG^FG Bdfg | 
+b2b2 b2ag | b2ag f2ed |1 "C"agec G2G,G, :|2 "C"c2eg c'2 z2 || [K:G] "D7"ded^c ded=c | "G"Bdgb d'3b | 
+"D7"c'bag fedf | "G"gbdg B3d | "D7"ded^c ded=c | "G"Bdgb "E7"d'3b | "Am"c'bag "D7"fedf | 
+"G"g2g2 g2 G,"_> Teil A"G, || [K:F] c2 | "F"(a4a)gfd | c4z4 | A,CFC A,CFC | "C7"B,CEC B,2C2 | 
+(g4g)fed | c6z2 | B,CEC B,CEC | "F"A,CFC A,2C2 | (a4a)gfd | c6z2 | 
+A,CFC A,CFC | "C7"B,CEC B,2C2 | "G7"(g4g)fed | "C7"c4z4 | dc=Bc feag | "F"f2a2 f2z2 |] 
+W:
+W: Anmerkung HC: Steinen 46, Flums 137, Saanen 1, Sch\"anis 28, Hottinger
+
+X:2
+T: Schottisch CGF chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+G,G,[P:A] |: "C"G,B,CE Gceg | e2e2 e2eg | e2eg e2eg | "G7"gfdB G4 | AG^FG Bdfg | 
+b2b2 b2ag | b2ag f2ed |1 "C"agec G2G,G, :|2 "C"c2eg c'2 z2 || [P:B] [K:G] "D7"ded^c ded=c | "G"Bdgb d'3b | 
+"D7"c'bag fedf | "G"gbdg B3d | "D7"ded^c ded=c | "G"Bdgb "E7"d'3b | "Am"c'bag "D7"fedf | 
+"G"g2g2 g2 G,"_> Teil A"G, || [P:C] [K:F] c2 | "F"(a4a)gfd | c4z4 | A,CFC A,CFC | "C7"B,CEC B,2C2 | 
+(g4g)fed | c6z2 | B,CEC B,CEC | "F"A,CFC A,2C2 | (a4a)gfd | c6z2 | 
+A,CFC A,CFC | "C7"B,CEC B,2C2 | "G7"(g4g)fed | "C7"c4z4 | dc=Bc feag | "F"f2a2 f2z2 |] 
+
+X:3
+T: Schottisch CGF chords Parts (align)
+P:ABAC
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+G,G,[P:A] |: "C"G,B,CE Gceg | e2e2 e2eg | e2eg e2eg | "G7"gfdB G4 | AG^FG Bdfg | \
+b2b2 b2ag |
+ b2ag f2ed |1 "C"agec G2G,G, :|2 "C"c2eg c'2 z2 || [P:B] [K:G] "D7"ded^c ded=c | "G"Bdgb d'3b | 
+"D7"c'bag fedf | "G"gbdg B3d | "D7"ded^c ded=c | "G"Bdgb "E7"d'3b | "Am"c'bag "D7"fedf | \
+"G"g2g2 g2 G,G, || [P:C] [K:F] c2 |
+ "F"(a4a)gfd | c4z4 | A,CFC A,CFC | "C7"B,CEC B,2C2 | \
+(g4g)fed | c6z2 | B,CEC B,CEC |
+ "F"A,CFC A,2C2 | (a4a)gfd | c6z2 | \
+A,CFC A,CFC | "C7"B,CEC B,2C2 | "G7"(g4g)fed | "C7"c4z4 | dc=Bc feag | "F"f2a2 f2z2 |] 

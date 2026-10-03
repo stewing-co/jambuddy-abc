@@ -1,0 +1,16 @@
+X:203
+T:Alla Francese
+C:Davide Perez (1711-1778)
+M:3/8
+L:1/8
+K:F
+V: 3 clef=treble name="Flauto Primo" sname="Fl.1"
+%%MIDI program 1 73
+%%staves [( 3 )]
+%---------------
+[Q:"Grave"] fzz | dzz | dzz | d z/>f/e/>g/ | {g}f/>e/ f/>a/ ^c/>e/ | {e}dDz | dzz | dzz | dzz | \
+d z/>f/e/>g/ |  {g}f/>e/ f/>a/ ^c/>e/ | {e}dDz |Z2 | f/>d/ c/>=B/ A/>^G/ | A2z | Z | ^FGz | Z | \
+^GAz | zz^c| A2z | zz^c| A2z | dzz | dzz | dzz | d z/>f/e/>g/ | f/>e/ f/>a/ ^c/>e/ | dDz | Z2 | \
+e/>g/ g/>e/ d/>^c/ | dDz | Z2 | e/>g/ g/>e/ d/>^c/ | dD!fermata!z || \
+[Q:"Doce assai"] [M:C|] [L:1/4] e>f e/a/e/f/ | e>F E/A/E/F/ | E2z2 |] \
+%---------------

@@ -1,0 +1,54 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Polka FCBb chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.349 (pk11397) orig. F,C,Bb-Dur
+T: T\"anze aus Altdorf (Uri)
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+c=Bc |: "C7"d2dB e2ec | "F"f2f2 fedc | "C7"e2e2 edcB |"_*?*" "F"Acfa c'2=Bc | "C7"d2dB e2ec | "F"f2f2 fedc | 
+"C7"=Bceg c'3e |1 "F"f2a2 fc=Bc :|2 "F"f2a2 f2ce |: [K:C] "C"gfg2 e^de2 | EGce a2g2 | "G7"g2g2 fGBd | "C"g2g2 eEGc | 
+gfg2 e^de2 | EGce a2g2 | "G7"g2ba gfed |1 "C"c2e2 c2ce :|2 "C"c2e2 c2"_> Teil A"z2 |: [K:Bb] "Bb"b3d a3d | 
+gfdB F2Bd | ffdf cfBf | "F7"Aceg f2ef | b3e a3e | gfec A2ff | fgag fedc | "Bb"Bdfb dfga | 
+b3d a3d | gfdB Bfga | b2a2 c'2b2 | "Cm"agec G4 | G=Bce a2g2 | "Bb"FBdf g2f2 | "F7"fgag fedc | "Bb"B2b2 b2z2 :| 
+W:
+W: *?* the orig. has "C7" here
+
+X:2
+T:Polka FCBb chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+c=Bc[P:A] |: "C7"d2dB e2ec | "F"f2f2 fedc | "C7"e2e2 edcB |"F"Acfa c'2=Bc | "C7"d2dB e2ec | "F"f2f2 fedc | 
+"C7"=Bceg c'3e |1 "F"f2a2 fc=Bc :|2 "F"f2a2 f2ce [P:B] |: [K:C] "C"gfg2 e^de2 | EGce a2g2 | "G7"g2g2 fGBd | "C"g2g2 eEGc | 
+gfg2 e^de2 | EGce a2g2 | "G7"g2ba gfed |1 "C"c2e2 c2ce :|2 "C"c2e2 c2"_> Teil A"z2 [P:C] |: [K:Bb] "Bb"b3d a3d | 
+gfdB F2Bd | ffdf cfBf | "F7"Aceg f2ef | b3e a3e | gfec A2ff | fgag fedc | "Bb"Bdfb dfga | 
+b3d a3d | gfdB Bfga | b2a2 c'2b2 | "Cm"agec G4 | G=Bce a2g2 | "Bb"FBdf g2f2 | "F7"fgag fedc | "Bb"B2b2 b2z2 :| 
+
+X:3
+T:Polka CGF 5- chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.349 (pk11397) orig. F,C,Bb-Dur
+T:T\"anze aus Altdorf (Uri)
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+G^FG |: "G7"A2AF B2BG | "C"c2c2 cBAG | "G7"B2B2 BAGF |"C"EGce g2^FG | "G7"A2AF B2BG | "C"c2c2 cBAG | 
+"G7"^FGBd g3B |1 "C"c2e2 cG^FG :|2 "C"c2e2 c2GB |: [K:Gmaj] "G"dcd2 B^AB2 | B,DGB e2d2 | "D7"d2d2 cDFA | "G"d2d2 BB,DG | 
+dcd2 B^AB2 | B,DGB e2d2 | "D7"d2fe dcBA |1 "G"G2B2 G2GB :|2 "G"G2B2 G2"_> Teil A"z2 |: [K:Fmaj] "F"f3A e3A | 
+dcAF C2FA | ccAc GcFc | "C7"EGBd c2Bc | f3B e3B | dcBG E2cc | cded cBAG | "F"FAcf Acde | 
+f3A e3A | dcAF Fcde | f2e2 g2f2 | "Gm"edBG D4 | D^FGB e2d2 | "F"CFAc d2c2 | "C7"cded cBAG | "F"F2f2 f2z2 :| 
+
+
+X:4
+T:Polka CGF 5- chords Parts
+P:ABAC
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+G^FG[P:A] |: "G7"A2AF B2BG | "C"c2c2 cBAG | "G7"B2B2 BAGF |"C"EGce g2^FG | "G7"A2AF B2BG | "C"c2c2 cBAG | 
+"G7"^FGBd g3B |1 "C"c2e2 cG^FG :|2 "C"c2e2 c2GB [P:B] |: [K:Gmaj] "G"dcd2 B^AB2 | B,DGB e2d2 | "D7"d2d2 cDFA | "G"d2d2 BB,DG | 
+dcd2 B^AB2 | B,DGB e2d2 | "D7"d2fe dcBA |1 "G"G2B2 G2GB :|2 "G"G2B2 G2"_> Teil A"z2 [P:C] |: [K:Fmaj] "F"f3A e3A | 
+dcAF C2FA | ccAc GcFc | "C7"EGBd c2Bc | f3B e3B | dcBG E2cc | cded cBAG | "F"FAcf Acde | 
+f3A e3A | dcAF Fcde | f2e2 g2f2 | "Gm"edBG D4 | D^FGB e2d2 | "F"CFAc d2c2 | "C7"cded cBAG | "F"F2f2 f2z2 :| 

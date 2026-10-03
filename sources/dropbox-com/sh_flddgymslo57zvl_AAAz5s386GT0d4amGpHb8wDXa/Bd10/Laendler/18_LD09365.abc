@@ -1,0 +1,84 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:L\"andler  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.199 (LD09365) orig. C,F
+T: \"Uberliefert durch Lina Krupski-Herger (1946), Lehrer Leuthold (1945), Edy Lussy und Melk Rohrer (1949)
+%%MIDI program 21
+R:
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+(e/d/) |: "C"c2e | a2g | (c'3 | c'>)g e/c/ | ("G7"B2d ) | (a2B) | (g3 | f)z"tr"f |  (B2d) | (a2B) | 
+(g3 | g) (b/a/ f/B/) | ("C"c2e) | (a2g) |1 (e3 | e)z e/d/ :|2 "C"c>c'c' | c'zc'/c'/ |: "F"c'a>f | "C"c'g>e | 
+c2g/g/ | "G7".g (a/g/ ^f/g/) | (a/g/ ^f/g/) .b | "C".g (a/g/ e/g/) |  (a/g/ e/g/) .c' | "F"c'a>f | c'a>f | "C"c'g>e | c2g/g/ | 
+"G7".g (a/g/ ^f/g/) | f2B | "C"c>c'c' |1 c'zc'/c'/ :|2 "C"c'z "tr"c |: [K:F] "F"aza | gzf | ("tr""C7"fe>)g | B3 | fzf | ezd | 
+("tr""F"dc>)f | A3 | aza | "F7"gzg | ("tr""Gm/Bb"ed>)b | d'3 | "C7"c'cb | acg | "F"f>ff |1 fzc :|2 fzz |] 
+% LD09365
+X:2
+T:L\"andler  GC 5-
+%%MIDI program 21
+R:
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+(B/2A/2) |: "G"G2B | e2d | (g3 | g>)d B/2G/2 | ("D7"F2A ) | (e2F) | (d3 | c)z"tr"c | (F2A) | (e2F) | 
+(d3 | d) (f/2e/2 c/2F/2) | ("G"G2B) | (e2d) |1 (B3 | B)z B/2A/2 :|2 "G"G>gg | gzg/2g/2 |: "C"ge>c | "G"gd>B | 
+G2d/2d/2 | "D7".d (e/2d/2 ^c/2d/2) | (e/2d/2 ^c/2d/2) .f | "G".d (e/2d/2 B/2d/2) | (e/2d/2 B/2d/2) .g | "C"ge>c | ge>c | "G"gd>B | G2d/2d/2 | 
+"D7".d (e/2d/2 ^c/2d/2) | c2F | "G"G>gg |1 gzg/2g/2 :|2 "G"gz "tr"G |: [K:C] "C"eze | dzc | ("tr""G7"cB>)d | F3 | czc | BzA | 
+("tr""C"AG>)c | E3 | eze | "C7"dzd | ("tr""Dm/F"BA>)f | a3 | "G7"gGf | eGd | "C"c>cc |1 czG :|2 czz |] 
+% LD09365
+X:3
+T:L\"andler  CF (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+(e/d/) |: "C"c2e | a2g | (c'3 | c'>)g e/c/ | ("G7"B2d ) | (a2B) | (g3 | f)z"tr"f |  (B2d) | (a2B) | 
+(g3 | g) (b/a/ f/B/) | ("C"c2e) | (a2g) |1 (e3 | e)z e/d/ :|2 "C"c>c'c' | c'zc'/c'/ |: "F"c'a>f | "C"c'g>e | 
+c2g/g/ | "G7".g (a/g/ ^f/g/) | (a/g/ ^f/g/) .b | "C".g (a/g/ e/g/) |  (a/g/ e/g/) .c' | "F"c'a>f | c'a>f | "C"c'g>e | c2g/g/ | 
+"G7".g (a/g/ ^f/g/) | f2B | "C"c>c'c' |1 c'zc'/c'/ :|2 "C"c'z "tr"c |: [K:F] "F"aza | gzf | ("tr""C7"fe>)g | B3 | fzf | ezd | 
+("tr""F"dc>)f | A3 | aza | "F7"gzg | ("tr""Gm/Bb"ed>)b | d'3 | "C7"c'cb | acg | "F"f>ff |1 fzc :|2 fzz |] 
+% LD09365
+X:4
+T:L\"andler  GC (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+(B/2A/2) |: "G"G2B | e2d | (g3 | g>)d B/2G/2 | ("D7"F2A ) | (e2F) | (d3 | c)z"tr"c | (F2A) | (e2F) | 
+(d3 | d) (f/2e/2 c/2F/2) | ("G"G2B) | (e2d) |1 (B3 | B)z B/2A/2 :|2 "G"G>gg | gzg/2g/2 |: "C"ge>c | "G"gd>B | 
+G2d/2d/2 | "D7".d (e/2d/2 ^c/2d/2) | (e/2d/2 ^c/2d/2) .f | "G".d (e/2d/2 B/2d/2) | (e/2d/2 B/2d/2) .g | "C"ge>c | ge>c | "G"gd>B | G2d/2d/2 | 
+"D7".d (e/2d/2 ^c/2d/2) | c2F | "G"G>gg |1 gzg/2g/2 :|2 "G"gz "tr"G |: [K:C] "C"eze | dzc | ("tr""G7"cB>)d | F3 | czc | BzA | 
+("tr""C"AG>)c | E3 | eze | "C7"dzd | ("tr""Dm/F"BA>)f | a3 | "G7"gGf | eGd | "C"c>cc |1 czG :|2 czz |] 
+% LD09365
+X:5
+T:L\"andler A&D (tinwhistle in D)
+T:LD09365 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/4
+K:A %%MIDI gchordon
+(c/2B/2) |: "A"A2c | f2e | (a3 | a>)e c/2A/2 | ("E7"G2B ) | (f2G) | (e3 | d)z"tr"d | (G2B) | (f2G) | 
+(e3 | e) (g/2f/2 d/2G/2) | ("A"A2c) | (f2e) |1 (c3 | c)z c/2B/2 :|2 "A"A>aa | aza/2a/2 |: "D"af>d | "A"ae>c | 
+A2e/2e/2 | "E7".e (f/2e/2 ^d/2e/2) | (f/2e/2 ^d/2e/2) .g | "A".e (f/2e/2 c/2e/2) | (f/2e/2 c/2e/2) .a | "D"af>d | af>d | "A"ae>c | A2e/2e/2 | 
+"E7".e (f/2e/2 ^d/2e/2) | d2G | "A"A>aa |1 aza/2a/2 :|2 "A"az "tr"A |: [K:D] "D"fzf | ezd | ("tr""A7"dc>)e | G3 | dzd | czB | 
+("tr""D"BA>)d | F3 | fzf | "D7"eze | ("tr""Em/G"cB>)g | b3 | "A7"aAg | fAe | "D"d>dd |1 dzA :|2 dzz |] 
+X:6
+T:L\"andler G&D (tinwhistle in D) var. solo
+T:LD09365 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/4
+K:G transpose=12
+(B/2A/2) |: G2B | e2d | (g3 | g>)d B/2G/2 | (F2A ) | (e2F) | (d3 | c)zTc | (F2A) | (e2F) | 
+(d3 | d) (f/2e/2 c/2F/2) | (G2B) | (e2d) |1 (B3 | B)z B/2A/2 :|2 G>gg | gzg/2g/2 |: ge>c | gd>B | 
+G2d/2d/2 | .d (e/2d/2 ^c/2d/2) | (e/2d/2 ^c/2d/2) .f | .d (e/2d/2 B/2d/2) | (e/2d/2 B/2d/2) .g | ge>c | ge>c | gd>B | G2d/2d/2 | 
+.d (e/2d/2 ^c/2d/2) | c2F | G>gg |1 gzg/2g/2 :|2 gz TG |: [K:D] fzf | ezd | (Tdc>)e | G3 | dzd | czB | 
+(TBA>)d | F3 | fzf | eze | (TcB>)g | b3 | aAg | fAe | d>dd |1 dzA :|2 dzz |]
+% Sep. 1, 2016 (Kaushiki Chakrabarty - Bhajan)

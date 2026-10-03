@@ -1,0 +1,23 @@
+X:801
+T:N.8 Conto do Sargento
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:G
+V: 1 clef=treble name="Flauta" sname="Fl."
+%%MIDI program 1 73
+%%staves [ 1 ]
+%---
+[Q: "Andantino"] Z | z2z(^d3|e2)zz2z|z6|| \
+z6         | z(de fga | b)z2 z3  | z(cd efg | a)zz z3   | zAB cde   | azz z3 | \
+z2z d{f}ed | z6       | z(de fga | b)zzz2z  | c (ef gab | c')zz z2z | (g3d3) | \
+z2z z(ab)| !>!(a3g2)z || \
+z6 | (c'3b)zz|z6| (d3c)zz|Z3| "_rit."z6| z6| \
+z(c/e/g/b/) a/g/(B/=f/g/a/) |\
+a/g/c/(g/c'/e'/) g'/(d'/b/g/f/B/)| d/c/(c/e/a/g/) c'!fermata!z"^A tempo"z || \
+[M:3/4] "^Recitativo" Z5 | !fermata!Z || [M:6/8] Z7 || [M:3/4] "^Recitado" Z7 || \
+[M:6/8] "^1o tempo" \
+z6         | z(de fga | b)z2 z3  | z(cd efg | a)zz z3   | zAB cde   | azz z3 | \
+z2z d{f}ed | z6       | z(de fga | b)zzz2z  | c (ef gab | c')zz z2z | (g3d3) | \
+(fed) g!fermata!ab| g3-gzz |] \
+%---

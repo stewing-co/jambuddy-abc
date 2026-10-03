@@ -1,0 +1,27 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch FC chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.379 (st05174) orig. F,C-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"A>c fa | "C7"gbe2 | c/b/b !>!e2 | "F"fa !>!A2 | A>c fa | "C7"gbe2 | c>b be | "F"ff fz :| [K:C] 
+|: "C"G,/C/E/G/ e>c | "G7"BGf2 | BG f>B | "C"c/a/g/e/ c'2 | G,/C/E/G/ e>c | "G7"BGf2 | BG f>B | "C"ce cz :| 
+X:2
+T: Schottisch FC chords (var.)
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"A>c fa | "C7"gbe2 | c/b/b !>!e2 | "F"fa !>!A2 | A>c fa | "C7"gbe2 | c>b be | "F"ff fz :| [K:C] 
+|: "C"G/c/e/g/ a>c | "G7"BGf2 | BG f>B | "C"c/a/g/e/ c'2 | G/c/e/g/ a>c | "G7"BGf2 | BG f>B | "C"ce cz :| 
+X:3
+T:Schottisch CG chords (var.)
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"E>G ce | "G7"dfB2 | G/2f/2f !>!B2 | "C"ce !>!E2 | E>G ce | "G7"dfB2 | G>f fB | "C"cc cz :| [K:G] 
+|: "G"D/2G/2B/2d/2 e>G | "D7"FDc2 | FD c>F | "G"G/2e/2d/2B/2 g2 | D/2G/2B/2d/2 e>G | "D7"FDc2 | FD c>F | "G"GB Gz :| 
+

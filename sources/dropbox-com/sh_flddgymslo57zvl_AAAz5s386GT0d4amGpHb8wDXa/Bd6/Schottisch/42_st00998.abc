@@ -1,0 +1,112 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Der alt \"Urner (Schottisch)  F
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.264 (st00998) orig. F-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"F2CF A2FA | c6CC | C2A2 G2F2 | "C7"F2E2E4 | E2CE G2EG | c6CC | B2B2 A2G2 | "F"G2F2F4 | 
+F2CF A2FA | c6 CC | C2A2 G2F2 | "Bb"E2D2D4 |  B2AG F2ED | "F"C2FAc4 | "C7"B2EG c2E2 | "F"F2A2 F2z2 |] 
+W:
+W:Anmerkung H.C.: 12. Okt. 1952, Spielma Hans u. Adolf Kreuzer
+X:2
+T:Der alt \"Urner (Schottisch)  G 2+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"G2DG B2GB | d6DD | D2B2 A2G2 | "D7"G2F2F4 | F2DF A2FA | d6DD | c2c2 B2A2 | "G"A2G2G4 | 
+G2DG B2GB | d6 DD | D2B2 A2G2 | "C"F2E2E4 | c2BA G2FE | "G"D2GBd4 | "D7"c2FA d2F2 | "G"G2B2 G2z2 |] 
+% st00998
+X:3
+T:Der alt \"Urner (Schottisch)  C 7+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"c2Gc e2ce | g6GG | G2e2 d2c2 | "G7"c2B2B4 | B2GB d2Bd | g6GG | f2f2 e2d2 | "C"d2c2c4 | 
+c2Gc e2ce | g6 GG | G2e2 d2c2 | "F"B2A2A4 | f2ed c2BA | "C"G2ceg4 | "G7"f2Bd g2B2 | "C"c2e2 c2z2 |] 
+% st00998
+X:4
+T: Der alt \"Urner (Schottisch)  F (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+"F"F2CF A2FA | c6CC | C2A2 G2F2 | "C7"F2E2E4 | E2CE G2EG | c6CC | B2B2 A2G2 | "F"G2F2F4 | 
+F2CF A2FA | c6 CC | C2A2 G2F2 | "Bb"E2D2D4 |  B2AG F2ED | "F"C2FAc4 | "C7"B2EG c2E2 | "F"F2A2 F2z2 |] 
+% st00998
+X:5
+T:Der alt \"Urner (Schottisch)  G (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"G2DG B2GB | d6DD | D2B2 A2G2 | "D7"G2F2F4 | F2DF A2FA | d6DD | c2c2 B2A2 | "G"A2G2G4 | 
+G2DG B2GB | d6 DD | D2B2 A2G2 | "C"F2E2E4 | c2BA G2FE | "G"D2GBd4 | "D7"c2FA d2F2 | "G"G2B2 G2z2 |] 
+% st00998
+X:6
+T:Der alt \"Urner (Schottisch)  C (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"c2Gc e2ce | g6GG | G2e2 d2c2 | "G7"c2B2B4 | B2GB d2Bd | g6GG | f2f2 e2d2 | "C"d2c2c4 | 
+c2Gc e2ce | g6 GG | G2e2 d2c2 | "F"B2A2A4 | f2ed c2BA | "C"G2ceg4 | "G7"f2Bd g2B2 | "C"c2e2 c2z2 |] 
+% st00998
+X:7
+T:Der alt \"Urner (Schottisch) G (tinwhistle in D)
+T:st00998 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"G2DG B2GB | d6DD | D2B2 A2G2 | "D7"G2F2F4 | F2DF A2FA | d6DD | c2c2 B2A2 | "G"A2G2G4 | 
+G2DG B2GB | d6 DD | D2B2 A2G2 | "C"F2E2E4 | c2BA G2FE | "G"D2GBd4 | "D7"c2FA d2F2 | "G"G2B2 G2z2 |] 
+X:8
+T:Der alt \"Urner (Schottisch)  D (tinwhistle in D)
+T:st00998 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"d2Ad f2df | a6AA | A2f2 e2d2 | "A7"d2c2c4 | c2Ac e2ce | a6AA | g2g2 f2e2 | "D"e2d2d4 | 
+d2Ad f2df | a6 AA | A2f2 e2d2 | "G"c2B2B4 | g2fe d2cB | "D"A2dfa4 | "A7"g2ce a2c2 | "D"d2f2 d2z2 |] 
+X:9
+T:Der alt \"Urner (Schottisch) G (tinwhistle in D) solo
+T:st00998 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=12
+G2DG B2GB | d6DD | D2B2 A2G2 | G2F2F4 | F2DF A2FA | d6DD | "_c"c2c2 B2A2 | A2G2G4 | 
+G2DG B2GB | d6 DD | D2B2 A2G2 | F2E2E4 | "_c"c2BA G2FE | D2GBd4 | "_c"c2FA d2F2 | G2B2 G2z2 |]
+X:10
+T:Der alt \"Urner (Schottisch)  D (tinwhistle in D) solo
+T:st00998 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D transpose=12
+d2Ad f2df | a6AA | A2f2 e2d2 | d2c2c4 | c2Ac e2ce | a6AA | g2g2 f2e2 | e2d2d4 | 
+d2Ad f2df | a6 AA | A2f2 e2d2 | c2B2B4 | g2fe d2cB | A2dfa4 | g2ce a2c2 | d2f2 d2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 30, 2016

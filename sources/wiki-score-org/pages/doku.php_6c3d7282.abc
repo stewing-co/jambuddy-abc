@@ -1,0 +1,18 @@
+X:1902
+T:Scena 5.a [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:Eb
+V: 2 clef=alto name="Corno II" sname="Cor. II"
+%%MIDI program 1 69
+%%staves [( 2 )]
+%--- edit between the lines ----------
+[K:bass][Q:"Allegro"] E,>B,, E,/B,,/E,/G,/ | E,/B,,/E,/G,/  E,/B,,/E,/G,/ | F,/F,//F,// F,/F,/F,!fermata!z | \
+F,>B,, F,/B,,/F,/A,/ | F,/B,,/F,/A,/ F,/B,,/F,/A,/ | G,/G,//G,// G,/G,/G, !fermata!z | Z3 | \
+B,,4- | B,,4 | E,B,,G,,z | E,4 | B,, zF,/  z/ E,/z/ | B,, z F,/z/ G,/z/ | B,,F,E,B,, | G,,2z2 | Z | \
+F,/B,,/F,/A,/ F,/B,,/F,/A,/ | F,/F,//F,// F,/F,/ F, z | Z | z2 z/ B,,//B,,// B,,/z/ || \
+[Q:"Adagio"] !f! G,,4 | G,, zz2 | !f!!p! G,,4 - | G,, zz2 || \
+[Q:"Presto"] Z |  F,2 z2 | F,/F,//F,// F,/F,/F, z | B,,/B,,//B,,// B,,/B,,/ B,, z || \
+[Q:"Adagio"] Z | !fermata!Z | Z | !p! z B,, G,, z ||
+%---------------------------------------------

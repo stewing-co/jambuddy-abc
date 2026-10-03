@@ -1,0 +1,183 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:VIII. Blow, Shepherds, blow
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+N: original clef: C on first line
+K:C
+T: Cantus
+M:C
+L:1/4
+%1
+z16 z8 d4 B3 c d2 e3 d c2 B2\
+w:Blow, She- pherds, blow, blow your pipes with
+%2
+c3 B B A/ G/ A4 G G d3 c B2 c4 B4 A4\
+w:glee re- soun _ _ _ ding, with glad - some glee re- soun-
+%3
+"A"B4 G2 B d2 A c2 B2 A2 G2 D F2 A2 G ^F G2 ^F G G B d2\
+w:ding? See, lo wher the faire E- li- za, faire E- li- za, E- li - za,  see shee comes
+%4
+A2 c2 G > A B A d2 ^c d D ^F A > G G2 ^F "B"G\
+w:with love, love and heaven- ly, heaven- ly grace, heaven- ly grace a- boun - ding,
+%5
+D G > G E A A2 A2 z A A A d4 B2 c2 c\
+w: runne Nimphes a pace, goe meet hir? with flowers and gar- lands good- ly
+%6
+B3 A2 z d d d e2 c2 d2 B2 A4 "C"B4 z4 z e c > c\
+w:greet hir, with flowers and gar- lands good- ly greet hir.  All haile E-
+%7
+B > B A G A B A > G ^F2 z A c B/ A/ B c d B\
+w:li- za faire, the coun- tries god - desse, long, long maist thou live the she- pherds
+%8
+A d e d2 ^c "D"d4 z2 z G c B/ A/ B G A2 B c A\
+w:queene and love- ly Mis- tresse, long, long maist thou live the shep- herds love- ly
+%1r
+B2 ^c d A c B/ A/ B G A2 B d e d/ c/\
+w:Mi - stresse? long, long maist thou live their Mi- stresse, long, long maist thou
+%2r
+  d    B     A2   "E"B4 z4 z d c > c B > B A G A B A > G ^F2\
+w:live their mi- stresse.  All haile E- li- za faire, the coun- tries god - desse:
+%3r
+z A c B/ A/ B c d B A d e d2 ^c "F"d4\
+w:long, long maist thou live the shep- herds queene and love- ly Mis- tresse.
+%4r
+z2 z G c B/ A/ B G A2 B c A B2 ^c d A c\
+w:Long, long maist thou live the shep-herds love- ly Mi - stresse, long, long
+%5r
+B/ A/ B G A2 B d e d/ c/ d2 B2 A4 HB4 |]\
+w:maist thou live their Mis- tresse, long, long maist thou live their Mis- tresse.
+
+X:2
+T:VIII. Blow, Shepherds, blow
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+N: original clef: C on third line
+K:C -8va
+%%MIDI transpose -12
+%K:C
+T: Altus
+M:C
+L:1/4
+%1
+d4 B3 c d2 e3 d c2 B2\
+w:Blow, She- pherds, blow, blow your pipes with
+%2
+c3 B B A/ G/ A4 G2 z2 g4 e3 f g g\
+w:glee re- soun - _ _ ding, Blow Shep- herds, blow with
+%3
+a3 g g3 ^f/ e/ ^f2 g2 d e ^f f g3 e a3 g g3 ^f/ e/ ^f2\
+w:glee re- soun - _ _ ding? blow your pipes, with glad- some glee re- soun - _ _
+%4
+"A"g2 d2 e g2 d f2 e a > g g2 ^f g G B d2 A2 c2 B A2 B4\
+w:ding? See, see where the faire, the faire E- li - za, faire E- li- za, faire E- li- za
+%5
+d f2 a2 e > f g2 f e2 d2 z A c B A2 "B"B2\
+w:comes with Love, heven- ly love a- bound- ing, and grace a- bound- ing
+%6
+d e > e c f2 e f e2 ^f2 z d d d\
+w:Runne, Nimphes a pace, Nimphes runne goe meet hir? with flowers and
+%7
+g2 e2 e g2 g ^f2 g2 z g g g a3 g g4 ^f2 "C"g2\
+w:gar- lands gay good- ly greet hir, with flowers and gar- lands greet _ hir,
+%8
+g2 f > f e > e d g2 ^f g2 f d ^c d2 ^c d d f\
+w:All haile E- li- za faire, all, all hayle the coun- tries god - desse, long, long
+%1r
+e/ d/ e ^f g e d g f2 e a g2 "D"^f2 z d\
+w:mayst thou live the shep- herds queene and love- ly sweet Mis- tresse, long,
+%2r
+e d/ c/ d e e ^f g g2 ^f g2 z d g f/ e/\
+w:long maist thou live the shep- herds queene and Mis- tresse? long, long maist thou
+%3r
+f d e ^f g g2 ^f g2 e a > g g2 ^f "E"g2 z g\
+w:live the shep- herds fayre Mi - stresse, their love- ly Mi - stresse? All
+%4r
+f > f e > e d g2 ^f g2 f d ^c d2 ^c d d f\
+w:haile E- li- za faire, all, all haile the coun- tries god - desse: long, long
+%5r
+e/ d/ e ^f g e d g f2 e a g2 "F"^f2 z d\
+w:maist thou live the shep- herds queene and love- ly sweet Mi- stresse.  Long,
+%6r
+e d/ c/ d e e ^f g g2 ^f g2 z d g f/ e/\
+w:long maist thou live the shep- herds queene and Mi- stresse, long, long maist thou
+%7r
+f d e ^f g g2 ^f g2 e a2 g g3 ^f/ e/ ^f2 Hg4 |]\
+w:live the shep- herds faire Mi - stresse, their love- ly Mi - _ _ stresse.
+
+X:3
+T:VIII. Blow, Shepherds, blow
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the Performers' Facsimiles print of the London, 1593 edition
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+N: original clef: C on fourth line
+K:C -8va
+%K:C 
+%%MIDI transpose -12
+T: Bassus
+M:C
+L:1/4
+%1
+z8 G4 E3 F G2 A3 G G3 ^F/ E/ ^F2\
+w:Blow, She- pherds, blow, blow re- soun - _ _
+%2
+G4 z16 d4 B3 c d2 e2 c2 A A\
+w:ding, Blow shep- herds, your pipes, with glad- some
+%3
+B3 c d4 "A"G4 z8 z2 z D E G2 D2         F E2 D4 G2 z G B d2 A2 c2 G\
+w:glee re- soun- ding; fayre E- li- za, fayre E- li- za, see she comes with love and 
+%4
+d2 A2 D2 z D E G D2 "B"G2 G c > c A d > d\
+w:heaven- ly grace, and grace  a- boun- ding. Runne, runne a pace, runne a
+%5
+^c d A2 d3 d z "(1)"G G G c2 A e > f g d2 z G\
+w: pace, Nimphes, go meet hir; with flowers and gar- lands greet _ _ hir, with
+N: (1) Original has G2 (half note)
+%6
+G G c2 A2 B3 c d4 "C"G2 z G A > B c > c B > c\
+w:flowers and gar- lands good- ly greet hir.  All haile E- li- za fayre, all
+%7
+A A G/ A/ B/ c/ d B A G A2 D4 z4 z G d c/ B/\
+w:haile the coun - _ _ _ tries pride and god- desse, long, long mayst thou 
+%8
+c d e2 "D(2)"d2 z G c B/ A/ B c A2 G2 z D\
+w:live our Mis- tresse, long, long maist thou live our Mis- tresse; long,
+N:(2) Original has d (quarter note)
+%1r
+G F/ E/ F D E2 D2 A2 G2 d2 G G c B/ A/\
+w:long maist thou live the shep- herds love- ly Mis- tresse, long, long maist thou
+%2r
+B > c d2 "E"G2 z           G   A >   B  c > c  B >    c A A G/ A/ B/ c/\
+w:live their Mi- stresse.  All haile E- li- za faire, all hayle the coun - _ _ 
+%3r
+d B A G A2 D4 z4 z G d c/ B/ c d e2 "F"d2\
+w:tries pride and god - desse: long, long maist thou live our Mis- tresse;
+%4r
+z G c B/ A/ B c A2 G2 z D G F/ E/ F D\
+w:Long, long maist thou live our Mi- stresse, long, long maist thou live the
+%5r
+E2 D2 A2 G2 d2 G G c B/ A/ B3 c d4 HG4 |]\
+w:shep- herds love- ly Mis- tresse; long, long maist thou live their Mis- tresse.

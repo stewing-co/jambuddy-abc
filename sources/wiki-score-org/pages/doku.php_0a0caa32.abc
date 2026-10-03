@@ -1,0 +1,43 @@
+X:1002
+T:N.13-14
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 2 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+%----------- edit between the lines ------------
+!fff! "_Expressivo" !>!A2 | \
+!>!B2 | \
+({c//,d//,e//}!>!e>d) | \
+(c/>B/) A | \
+Z3 | \
+!mf! (C/C///)!<(!.E///.A///.B///!<)! "_[check ms]" !sfz!c// !>!E//!>!F//!<(!!>!G// | \
+!f! !<)!!>!A//[Ae]///[Ae]///[Ae]//[Ae]// [Ae]//e//c//e// | \
+!>!A//[Ae]///[Ae]///[Ae]//[Ae]// [Ae]//e//c//e// | \
+A//e//c//e// A//e//d//c// | \
+d//c//(B/ B//)E//F//G// | \
+!>!A//[Ae]///[Ae]///[Ae]//[Ae]// [Ae]//e//c//e// | \
+A//[Ae]///[Ae]///[Ae]//[Ae]// [Af]//A//B//c// |
+B//[Ba]///[aB]///[aB]//[aB]// [aB]//F//G//A//| \
+G//[GE]///[GE]/// [EG]//[gb]///[gb]/// [gb]// z// z/ | \
+!p! z// (.f///.f///.f//)(.f///.f/// .f//) z// z/ | \
+z// (.[fa]///.[fa]///.[fa]//)(.[fa]///.[fa]/// .[fa]//) z// z/ | \
+Z | \
+z !sfz![A^c] | \
+!p!z// (.[FB]///.[FB]///.[FB]//)(.[FB]///.[FB]/// .[FB]//) z// z/  | \
+z// (.[FB]///.[FB]///.[FB]//)(.[FB]///.[FB]/// .[FB]//) z// z/  | \
+Z | \
+z// (.[FB]///.[FB]///.[FB]//)(.[FB]///.[FB]/// .[FB]//) z// z/  | \
+"pizz"!mf!!>!a<z |\
+Z |\
+!>!a/ z/ !>!f/ z/ | \
+!>!d/ z/ !>!B/!>!E/ | \
+!>!A/ z/ !>!F/ z/ | \
+D/ z/ B,/ z/ |\
+Z |\
+"rit" !p! A [AE] |\
+[EB] [FB]!>(! ||
+!<)!
+%-----------------------------------------------

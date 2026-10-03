@@ -1,0 +1,103 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Galopp  FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.109 (GL00148) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"!>!F4!>!c4 | !>!a4 !>!f4 | "C7"c'6eg | "F"f4z4 |: "F"c4a4 | f3A c4 | "C7"B3g e3c | "F"a2e2f4 | c4a4 | 
+f3Ac4 | "C7"B2g2 e3c | "F"f4z4 :: "C7"e3G c2d2 | "F"!>!c4 Acfa | "C7"c'3e g2c2 | "F"a4g2f2 | "C7"e3G B2d2 | 
+"F"!>!c4 Acfa | "C7"g3e c'3e | "F"f2f2 f2z2 :: [K:Bb] "F7"f6e2 | "Bb"d2e2f4 | "F7"e2d2 e2f2 | 
+"Bb"d2e2 f2g2 | "F"f6e2 | "Bb"d2e2f4 | "Cm"e3d "F7"e2f2 | "Bb"d4z4 :|  [K:F] "C7"!>!c4!>!b4 | "F"!>!a4 gfef | 
+"C7"g3c e3c3 | "F"f2c2 B2A2 | "C7"!>!c4!>!b4 | "F"!>!a4 "Bb"gfef | "F"f3c "C7"e3c | "F"f2f2 f2"_>Teil C"z2 |] 
+
+X:2
+T: Galopp  FBb chords Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"!>!F4!>!c4 | !>!a4 !>!f4 | "C7"c'6eg | "F"f4z4 [P:A] |: "F"c4a4 | f3A c4 | "C7"B3g e3c | "F"a2e2f4 | c4a4 | 
+f3Ac4 | "C7"B2g2 e3c | "F"f4z4 :: [P:B]  "C7"e3G c2d2 | "F"!>!c4 Acfa | "C7"c'3e g2c2 | "F"a4g2f2 | "C7"e3G B2d2 | 
+"F"!>!c4 Acfa | "C7"g3e c'3e | "F"f2f2 f2z2 :: [P:C] [K:Bb] "F7"f6e2 | "Bb"d2e2f4 | "F7"e2d2 e2f2 | 
+"Bb"d2e2 f2g2 | "F"f6e2 | "Bb"d2e2f4 | "Cm"e3d "F7"e2f2 | "Bb"d4"_fine"z4 :|  [P:D] [K:F] "C7"!>!c4!>!b4 | "F"!>!a4 gfef | 
+"C7"g3c e3c | "F"f2c2 B2A2 | "C7"!>!c4!>!b4 | "F"!>!a4 "Bb"gfef | "F"f3c "C7"e3c | "F"f2f2 f2"_>Teil C"z2 |] 
+
+X:3
+T:Galopp  CF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"!>!C4!>!G4 | !>!e4 !>!c4 | "G7"g6Bd | "C"c4z4 |: "C"G4e4 | c3E G4 | "G7"F3d B3G | "C"e2B2c4 | G4e4 | 
+c3EG4 | "G7"F2d2 B3G | "C"c4z4 :: "G7"B3D G2A2 | "C"!>!G4 EGce | "G7"g3B d2G2 | "C"e4d2c2 | "G7"B3D F2A2 | 
+"C"!>!G4 EGce | "G7"d3B g3B | "C"c2c2 c2z2 :: [K:Fmaj] "C7"c6B2 | "F"A2B2c4 | "C7"B2A2 B2c2 | 
+"F"A2B2 c2d2 | "C"c6B2 | "F"A2B2c4 | "Gm"B3A "C7"B2c2 | "F"A4z4 :| [K:Cmaj] "G7"!>!G4!>!f4 | "C"!>!e4 dcBc | 
+"G7"d3G B3G3 | "C"c2G2 F2E2 | "G7"!>!G4!>!f4 | "C"!>!e4 "F"dcBc | "C"c3G "G7"B3G | "C"c2c2 c2"_>Teil C"z2 |] 
+
+X:4
+T:Galopp  CF 5- chords (align)
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"!>!C4!>!G4 | !>!e4 !>!c4 | "G7"g6Bd | "C"c4z4 |: "C"G4e4 | c3E G4 | "G7"F3d B3G | "C"e2B2c4 | G4e4 | \
+c3EG4 |
+ "G7"F2d2 B3G | "C"c4z4 :: "G7"B3D G2A2 | "C"!>!G4 EGce | "G7"g3B d2G2 | "C"e4d2c2 | "G7"B3D F2A2 | \
+"C"!>!G4 EGce |
+ "G7"d3B g3B | "C"c2c2 c2z2 :: [K:Fmaj] "C7"c6B2 | "F"A2B2c4 | "C7"B2A2 B2c2 | \
+"F"A2B2 c2d2 | "C"c6B2 | "F"A2B2c4 | "Gm"B3A "C7"B2c2 |
+ "F"A4z4 :| [K:Cmaj] "G7"!>!G4!>!f4 | "C"!>!e4 dcBc | \
+"G7"d3G B3G3 | "C"c2G2 F2E2 | "G7"!>!G4!>!f4 | "C"!>!e4 "F"dcBc | "C"c3G "G7"B3G | "C"c2c2 c2"_>Teil C"z2 |] 
+
+X:5
+T:Galopp  CF 5- chords Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"!>!C4!>!G4 | !>!e4 !>!c4 | "G7"g6Bd | "C"c4z4 [P:A] |: "C"G4e4 | c3E G4 | "G7"F3d B3G | "C"e2B2c4 | G4e4 | 
+c3EG4 | "G7"F2d2 B3G | "C"c4z4 :: [P:B] "G7"B3D G2A2 | "C"!>!G4 EGce | "G7"g3B d2G2 | "C"e4d2c2 | "G7"B3D F2A2 | 
+"C"!>!G4 EGce | "G7"d3B g3B | "C"c2c2 c2z2 :: [P:C] [K:Fmaj] "C7"c6B2 | "F"A2B2c4 | "C7"B2A2 B2c2 | 
+"F"A2B2 c2d2 | "C"c6B2 | "F"A2B2c4 | "Gm"B3A "C7"B2c2 | "F"A4"_fine"z4 :| [P:D] [K:Cmaj] "G7"!>!G4!>!f4 | "C"!>!e4 dcBc | 
+"G7"d3G B3G | "C"c2G2 F2E2 | "G7"!>!G4!>!f4 | "C"!>!e4 "F"dcBc | "C"c3G "G7"B3G | "C"c2c2 c2"_>Teil C"z2 |] 
+
+X:6
+T:Galopp  GC 10- chords (align)
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"!>!G,4!>!D4 | !>!B4 !>!G4 | "D7"d6FA | "G"G4z4 |: "G"D4B4 | G3B, D4 | "D7"C3A F3D | "G"B2F2G4 | D4B4 | \
+G3B,D4 |
+"D7"C2A2 F3D | "G"G4z4 :: "D7"F3A, D2E2 | "G"!>!D4 B,DGB | "D7"d3F A2D2 | "G"B4A2G2 | "D7"F3A, C2E2 | \
+"G"!>!D4 B,DGB |
+"D7"A3F d3F | "G"G2G2 G2z2 :: [K:Cmaj] "G7"G6F2 | "C"E2F2G4 | "G7"F2E2 F2G2 | \
+"C"E2F2 G2A2 | "G"G6F2 | "C"E2F2G4 | "Dm"F3E "G7"F2G2 |
+"C"E4z4 :| [K:Gmaj] "D7"!>!D4!>!c4 | "G"!>!B4 AGFG | \
+"D7"A3D F3D3 | "G"G2D2 C2B,2 | "D7"!>!D4!>!c4 | "G"!>!B4 "C"AGFG | "G"G3D "D7"F3D | "G"G2G2 G2"_>Teil C"z2 |] 
+
+X:7
+T:Galopp  GC 10- chords Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"!>!G,4!>!D4 | !>!B4 !>!G4 | "D7"d6FA | "G"G4z4 [P:A] |: "G"D4B4 | G3B, D4 | "D7"C3A F3D | "G"B2F2G4 | D4B4 | 
+G3B,D4 | "D7"C2A2 F3D | "G"G4z4 :: [P:B] "D7"F3A, D2E2 | "G"!>!D4 B,DGB | "D7"d3F A2D2 | "G"B4A2G2 | "D7"F3A, C2E2 | 
+"G"!>!D4 B,DGB | "D7"A3F d3F | "G"G2G2 G2z2 :: [P:C] [K:Cmaj] "G7"G6F2 | "C"E2F2G4 | "G7"F2E2 F2G2 | 
+"C"E2F2 G2A2 | "G"G6F2 | "C"E2F2G4 | "Dm"F3E "G7"F2G2 | "C"E4"_fine"z4 :| [P:D] [K:Gmaj] "D7"!>!D4!>!c4 | "G"!>!B4 AGFG | 
+"D7"A3D F3D | "G"G2D2 C2B,2 | "D7"!>!D4!>!c4 | "G"!>!B4 "C"AGFG | "G"G3D "D7"F3D | "G"G2G2 G2"_>Teil C"z2 |] 
+
+X:8
+T:Galopp  EbAb (5letras) cf. CF Parts
+P:ABCDC
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+"Eb"!>!E4!>!B4 | !>!g4 !>!e4 | "Bb7"b6df | "Eb"e4z4 [P:A] |: "Eb"B4g4 | e3G B4 | "Bb7"A3f d3B | "Eb"g2d2e4 | B4g4 | 
+e3GB4 | "Bb7"A2f2 d3B | "Eb"e4z4 :: [P:B] "Bb7"d3F B2c2 | "Eb"!>!B4 GBeg | "Bb7"b3d f2B2 | "Eb"g4f2e2 | "Bb7"d3F A2c2 | 
+"Eb"!>!B4 GBeg | "Bb7"f3d b3d | "Eb"e2e2 e2z2 :: [P:C] [K:Abmaj] "Eb7"e6d2 | "Ab"c2d2e4 | "Eb7"d2c2 d2e2 | 
+"Ab"c2d2 e2f2 | "Eb"e6d2 | "Ab"c2d2e4 | "Bbm"d3c "Eb7"d2e2 | "Ab"c4"_fine"z4 :| [P:D] [K:Ebmaj] "Bb7"!>!B4!>!a4 | "Eb"!>!g4 fede | 
+"Bb7"f3B d3B | "Eb"e2B2 A2G2 | "Bb7"!>!B4!>!a4 | "Eb"!>!g4 "Ab"fede | "Eb"e3B "Bb7"d3B | "Eb"e2e2 e2"_>Teil C"z2 |] 
+

@@ -1,0 +1,49 @@
+X:227
+T:O Salutaris
+C:Giuseppe Totti (17__-1832)
+M:3/4
+L:1/4
+K:Eb
+V: 27 clef=alto1 name="Canto" sname="C."
+%%MIDI program 1 1
+%%staves [[ 27 ]]
+%----- edit between the lines ----
+[Q:"Largo com molto"]
+z3|z3| z3|\
+z3| "^soli" ccc|d2f| e/2> B/2 B z|\
+w: O sa-lu-ta-ris Hos-ti-a
+"^tutti" !f! e !p!f d| !f!(B!p!d) f | !f!e>BB|\
+w: O sa-lu-ta--ris Hos-ti-a
+z3|z3|z3| BBB | B2 c| d/2 >d/2dz|\
+w: Quae cae-li pan-dis os-ti-um
+z3|z3| z3 |z3 | ccc| c2 c |\
+w: quae cae-li pan-dis
+d/2 >c/2 B z|z3|z3|z3|z3|z3|\
+w: os-ti-um
+z3 |z3 | z3 | z3| !f!d!p!cc| !f!(d!p!c)c|\
+w: O sa-lu-ta--ris
+!f!d/2 >d/2dz| z3 |z3 | z3 | !f!c!p!dd| !f!(c!p!d)d|
+w:os-ti-a O sa-lu-ta--ris
+!f!c/2 >c/2c z| z3 |z3 | =BBB |c2c| =B/2 B/2Bz |\
+w: os-ti-a Quae cae-li pan-dis os-ti-um
+z3 | zdc|=B2G| =B3| z3 | z3 |\
+w:pan-dis os-ti-um
+e3|d3|(ef)g|ccB|B/2 B/2Bz|z3 | z3| z3|\
+w:Bel-la pre--munt pre-munt os-ti-li-a
+z(fd)|c=Az|z(ge)|d=Bz|zc2|z3| zcc| =B/ B/ B z|\
+w:Da_ro-bur da_ro-bur fer fer au-xi-li-um
+z3|z_B2| BBz|z3| c2c| c/2 c/2cz|z3| zc2|\
+w:da ro-bur fer au-xi-li-um da
+ccz|z3| B2c| B/2 B/2 B z|z3|(g>d) =B/2G/2| (g>e) c/2G/2| (g>d) =B/2f/2|
+w:ro-bur fer au-xi-li-um bel--la_ pre--munt_ pre--munt os
+e/2 d/2cz| z3 |z3|z3|z3| zzB | B2B| czc|
+w:ti-li-a Da ro-bur fer Da
+c2c|Bzz|z3|z3|z3|z3|z3|!p!B3| A3| G2F|Gzz|z3|z3|z3|z3|z3|\
+w:ro-bur_ fer au-xi-li-um
+z3|z3|z3|z3|z3|(B3|B2)A|Gzz|
+w: A---men
+z3|z3|z3|z3|z3|zzB|Bzz|zzB|\
+w: A-men a
+Bzz | z3|z3|z3|z3|z3|]
+w:men
+%---------------------------------

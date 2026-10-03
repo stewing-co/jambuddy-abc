@@ -1,0 +1,145 @@
+%abc-2.2
+%%linebreak $
+
+X:113
+T:Méditation
+C:C. Gounod
+M:C
+L:1/4
+Q:"Andante"
+%%staves {(1 2)(3 4)}
+%%MIDI program 75	% Pan Flute
+K:Cm
+V:1
+zCDE|F/E/DEF|G/F/EFG|
+V:2
+zC-C/B,/A,/G,/|A,D-D/C/=B,/=A,/|=B,E-E/D/C/B,/|
+V:3 shift=cC
+C4-|C4-|C4-|
+V:4 shift=cC
+C,4-|C,4-|C,4-|
+V:1
+A/G/FG=A|=B/=A/GAB|cedc|
+V:2
+CF-F/E/D/C/|DG-G/F/E/D/|E/F/G2D-|
+V:3
+C4-|C4-|C>c- c/B=A/|
+V:4
+C,4-|C,4|C2D/=E/^F|
+V:1
+Bgfe|db=ag|f>^f f/_a/g/=f/|
+V:2
+DB2F-|Fd2=A-|Ad2G-|
+V:3
+B/_A/G/e/- e/dc/|d/c/B/g/- g/f=e/|f/_e/d/c/=B2|
+V:4
+G/=F/EF/G/=A|B/=A/GA/=B/^c|d/c/B/_A/ G/F/E/D/|
+V:1
+e/d/c/B/ =A/G/^F/A/|G/=F/=E/G/ G/_E/D/F/|E/F/G/E/ D/C/=B,/D/|
+V:2
+GE2D-|D/_D/C-C/_C/B,-|B,2A,2|
+V:3
+c/_B/=A/G/ ^F/G/A/F/|G>=EF>D|EB,=B,/C/D/B,/|
+V:4
+C4|B,2A,2|G,2F,2|
+V:1
+C/E/D/C/- C/D/E/F/|G/A=A=Bc/|D2GB,|C4-|
+V:2
+G,2A,2|CEDC-|C/=B,/=A,/C/B,[I:staff +1]F,-|F,/D,/E,/F,/E,F,|
+V:3
+C2-C/=B,/C/D/|EGFE|D2G,2|G,2-G,/C/B,/A,/|
+V:4
+E,/C,/D,/E,/F,E,/D,/|G,4|G,2-G,/F,/E,/D,/|C,4|
+%96
+V:1
+[E,G,C]2-[E,G,C]/Hz/[Q:"Recitativo"]G|c2z/e/d/c/|\
+	=Bc/d/AG/^F/|A2G/z/c-|c/G/F/A/GE/D/|
+V:2
+x2x/x/x[I:staff -1]|X4|
+V:3
+x2x/x/x|X4|
+V:4
+[C,G,C]2[C,G,C]/z/z|Z4|
+V:1
+zCDE|F/E/DEF|G/F/EFG|A/G/FG=A|
+V:2
+zC-C/B,/A,/G,/|A,D-D/C/=B,/=A,/|=B,E-E/D/C/B,/|CF-F/E/D/C/|
+V:3
+C4-|C4-|C4-|C4-|
+V:4
+C,4-|C,4-|C,4-|C,4-|
+V:1
+=B/=A/GAB|c/z/EGc|z/e/d/c/ =B/f/e/d/|c/e/g-g/f/g/a/|
+V:2
+DG-G/F/E/D/|E/z/x3|E2F2|Gc/B/A2|
+V:3
+C4-|C/z/zz2|x4|c4|
+V:4
+C,4|C,/z/zz2|[CG-]2[DG-=B]2|[EG]2F2|
+V:1
+b/d/e-e/f/g/a/|g/=B/c-c/d/e/f/|z/e/d/c/ =B/f/e/d/|
+V:2
+B2A2|G2F2|E2F2|
+V:3
+Be2d-|dc2=B|x4|
+V:4
+[GB]2[FA]2|[EG]2[DF]2[CG-]2[DG-=B]2|
+V:1
+c/e/g-g/f/g/a/|g/e/c-c/=B/=A/B/|c2-cz|
+V:2
+Gc/B/AB/c/-|cGF2|E/G/F/A/ G/E/D/C/|
+V:3
+c2-cd|e2d2|c/E/D/F/ E/G/F/E/|
+V:4
+[EG]2F2|G4|C4|
+%97
+V:1
+z/=B/=A/G/ ^F/=E/D-|D/G/=A/=B/ c/d/_e-|e/d/=B/c/d=A|
+V:2
+=B,2C2|=B,2_EG-|G2-G/^F/=E/F/|
+V:3
+G2=A2|G2-G=A|=B2[CD]2|
+V:4
+[G,D]4-|[G,D]2C2|D4|
+V:1
+=B/g/^f/=e/ d/=A/B/c/|z/=B/=A/G/ ^F/=E/D-|D/G/=B/G/ =A/c/e/g/-|
+V:2
+G2^F/=A/G/F/|=B,2C2|=B,2_EG-|
+V:3
+=B2=A/c/B/A/|G2=A2|G2-G=A|
+V:4
+[Gd]4|[G,D]4-|[G,D]2C2|
+V:1
+g/d/=B/=e/d^F|G4|[C-_A]2[C=A]2|
+V:2
+G2CC|[G,=B,]/C/^C/D/ E/=E/F/B,/|E2-E/=E/F/_G/|
+V:3
+=B2=AA|G,/A,/=A,/B,/ =B,/C/^C/D/|x4|
+V:4
+D4|G,4|_G,/C/E/_G/ F/C/F,/E/|
+V:1
+[D-B]2[D=B]2|[=Ec]2^c2|[=Ad-]2[Gd][^Fc]|
+V:2
+F2-F/^F/G/A/|G2G/^G/=A/B/|z^FD2-|
+V:3
+X3|
+V:4
+_A,/D/F/_A/ G/D/G,/F/|_B,/=E/G/B/ =A/E/=A,/G/|^F/d/^c/=c/ =B/_B/=A/_A/|
+V:1
+[G=B][Bd][cg][Bf]|_e=ef^f&
+		  c4-	|g/^f/=f/e/ d/c/_B/_A/&
+			c2x2|
+V:2
+DG3-|G2F^F|G2[EG][C-E]|
+V:3
+X3|
+V:4
+z/G/^F/=F/ =E/_E/D/_D/|C/c/=B/_B/ =A/c/_A/c/|[Gce]2[G,-G]2|
+V:1
+G/A/G/A/G[F,G,=B,]|C3=B,|C3=B,|x4|]
+V:2
+[CD-]2[=B,D]x|E,/G,/F,/A,/ G,/E,/D,/F,/|E,/G,/F,/A,/ G,/E,/D,/F,/|[E,C]2-[E,C]z|]
+V:3
+F2-Fx|C4-|C4|x4|]
+V:4
+G,2-|G,/F,/E,/D,/|C,/E,/D,/F,/ E,/G,/F,/A,/|C,/E,/D,/F,/ E,/G,/F,/A,/|[C,G,]2-[C,G,]z|]

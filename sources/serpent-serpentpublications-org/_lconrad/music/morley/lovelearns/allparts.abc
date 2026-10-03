@@ -1,0 +1,118 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XXI. Love learns by laughing
+T:Cantus
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the LPM edition
+N: This one does not appear in the 1593 edition, and is taken from the 1606 edition.
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+L:1/4
+M:C
+K:G mix
+G4 d3 B c B A A B B G B A G2 ^F
+w:Love learns by laugh- ing first to speak, by laugh- ing first _ to
+"A"G2 z d g e d2 c2 B B ^c A c3 B A A "B"G4
+w:speak, Then sly- ly gains cares pas- sing great.  Fa la la la la la
+G4 d3 B c B A A B B G B A G2 ^F
+w:Love learns by laugh- ing first to speak, by laugh- ing first _ to
+"C"G2 z d g e d2 c2 B B "D"^c A c3 B A A 
+w:speak, Then sly- ly gains cares pas- sing great.  Fa la la la la 
+G d d d e4 z d d d f3 f e c B e
+w:la. But I will laugh, but I will laugh, will laugh, but I will
+e c B B ^c e d c/ B/ A G ^F G "E"^F2 G4 d c/ B/
+w:laugh with- out that care, and bid love _ touch me if he _  dare. Fa la la 
+A G ^F E D d c4 B2 A2 A2 B d d d
+w:la la la la la, Fa la la la la la, But I will
+ "F"e4 z d d d f3 f e c B e
+w: laugh, but I will laugh, will laugh, but I will
+e c B B ^c e d c/ B/ A G ^F G "G"^F2 G4 d c/ B/
+w:laugh with- out that care, and bid love _ touch me if he _ dare. Fa la la 
+A G ^F E D d c4 B2 A2 A2 HB4 |]
+w:la la la la la, Fa la la la la la.
+
+X:2
+T:XXI. Love learns by laughing
+T:Altus
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the LPM edition
+N: This one does not appear in the 1593 printing, and is taken from the 1606 printing.
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+L:1/4
+M:C
+N:Original clef, C on first line
+K:G mix
+z8 z2 D2 d3 B c B A A 
+w:Love learns by laugh- ing first to 
+"A"B2 d B G c2 B2 A2 ^G A2 E A > G G G ^F "B"G4
+w:speak,  Then sly- ly gains cares pas- sing great.  Fa la la la la la la.
+z8 z2 D2 d3 B c B A A 
+w:Love learns by laugh- ing first to 
+"C"B2 d B G c2 B2 "D"A2 ^G A2 E A > G G G ^F 
+w:speak,  Then sly- ly gains cares pas- sing great.  Fa la la la la la 
+G B B B c4 z B B B d D A > B c A ^G > A
+w:la. But I will laugh, but I will laugh,  but I will laugh, but I will
+B A A ^G A c B A/ G/ ^F G A G "E"A A/ B/ c/ d/ e d c/ B/ A G
+w:laugh with- out that care, and bid love _ touch me if he dare. Fa la la la la la la la la la
+^F G A c B2 A3 G G3 ^F/ E/ F2 G B B B
+w:la la la la la,  la la la la la la  la, But I will
+"F"c4 z B B B d D A > B c A ^G > A
+w:laugh, but I will laugh,  but I will laugh, but I will
+B A A ^G A c B A/ G/ ^F G A G "G"A A/ B/ c/ d/ e d c/ B/ A G
+w:laugh with- out that care, and bid love _ touch me if he dare. Fa la la la la la la la la la
+^F G A c B2 A3 G G3 ^F/ E/ F2 HG4 |]
+w:la la la la la,  la la la la la la la.
+
+
+X:3
+T:XXI. Love learns by laughing
+O: Canzonets, or Little Short songs to three voyces, 
+H: transcribed from the LPM edition
+N: This one does not appear in the 1593 edition, and is taken from the 1606 edition.
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+L:1/4
+M:C
+N: Original clef C on third line
+K:G mix -8va
+%%MIDI transpose -12
+z2 G4 g > f e g g ^f g3 g ^f g d d
+w:Love learns by laugh- ing first to speak, by laugh- ing first to
+"A"G2 z g e c g G A2 e2 A3 A e g d2 "B"G4
+w:speak, Then sly- ly gains cares pas- sing great.  Fa la la la la.
+z2 G4 g > f e g g ^f g3 g ^f g d d
+w:Love learns by laugh- ing first to speak, by laugh- ing first  to
+"C"G2 z g e c g G A2 e2 "D"A3 A e g d2 
+w:speak, Then sly- ly gains cares pas- sing great.  Fa la la la
+G4 z c c c g3 g f2 d2 a A e > ^f
+w:la. But I will laugh, but I will laugh,  but I will
+^g a e e A A B c d G d e "E"d2 c2 B A/ G/ ^F G
+w:laugh with- out that care, and bid love touch me if he  dare. Fa la la la la la
+d e d A B2 c2 d8 G4
+w:la la la Fa la la la la.
+ "F"z c c c g3 g f2 d2 a A e > ^f
+w:But I will laugh, but I will laugh,  but I will
+^g a e e A A B c d G d e "G"d2 c2 B A/ G/ ^F G
+w:laugh with- out that care, and bid love touch me if he  dare. Fa la la la la la
+d e d A B2 c2 d8 HG4 |]
+w:la la la Fa la la la la.
+

@@ -1,0 +1,16 @@
+X:604
+T:N.6 Impedido
+C:Fonseca, Eduardo da (1863-1938)
+M:3/4
+L:1/4
+K:D
+V: 4 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 4 ]
+%--------------------
+[Q:"Andantino Moderato"]
+(DA,F,) || D,/F,/ A,/B,/A,/F,/ | G,!>!G,2 | E,/G,/ B,/C/B,/G,/ | A,!>!A,2 | D,/F,/ A,/B,/A,/F,/ | E,!>!A,2| \
+B,/^A,/ B,/C/B,/F,/ | A, !crescendo(! !>!A,2 !crescendo)! | !p! D,/F,/ A,/B,/A,/F,/ | G, !>!G,2 | \
+E,/G,/ B,/C/B,/G,/ | A, !>!A,2 |  D,/F,/ A,/B,/A,/F,/ | E,2 !>!B, | A, A,/F,/E,/F,/ | D,2 !>!F, | \
+E,-E,/F,/E,/!>!A,/ | !>!A,2F,| E,-E,/F,/E,/F,/ | D,/z/ [A,D]/z/ z |]
+%------------------

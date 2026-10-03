@@ -1,0 +1,32 @@
+X: 1
+T:Morgan Magan
+C:Turlough O'Carolan
+M:C|
+N: Q: 1/2=108
+L:1/8
+K:G
+P:A1
+D2 ||\ 
+N: %%measurebox true % measure numbers in a box
+N: %%measurenb 0 % measure numbers at first measure
+"G"D2G2 G2A2 | "D7"cBAG "G"Bcd2 | "Am"e2A2  A2G2 | "D7"FGFE D2EF |
+"G"G2G2 "D7"GFGA | "G"G2FE D2G2 | "A7"FGA2  A2EG | "D7"F2D2 DEFD ||
+P:A2
+"G"G2G2 "D7"AGAF | "G"G2G2 G2B2 | "C"c3B   A2Bc | "G"d2d2  "C4"e4    |
+"G"d2B2 cBAG | "Am"AGFE "D7"D2EF | "G"G2G2 "D7"AGAF | "G"G4  G2  dc ||
+P:B1
+"G"B2d2 d2ef | g2G2  Bcd2 | g2G2 Bcd2 | "Am"edcB "D7"A2 Bc |
+"G"BGBc d2d2 | "C" e2c2 "G"d2B2 | "Am"c2A2 B2G2 | "D7"F2D2  D2GF ||
+P:B2
+"C"E2C2 C2-C D | E2C2 C2AG | "D7"F2D2 D2-DE |FGEF D2Bc |
+"G"d2B2 "C"edcB | "Am"cBAG "D7"AGFE | "G"D2G2 "D7"AGAF | "G"G2G2G2 |]
+
+%%textfont Helvetica 10
+%%begintext
+R&0 2011, version 1
+%%endtext
+
+%%textfont Helvetica 9
+%%begintext
+Bob Pasquarello's arrangement
+%%endtext

@@ -1,0 +1,82 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Schieber  CF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.169 (st00747) orig. C,F-Dur
+T: Zermatter T\"anze. S.166-177.\"Uberliefert durch Moritz Perren, "Hofmuri", 1874-1952.
+%%MIDI program 21
+M:2/4
+L:1/8
+R:shottishe
+K:C %%MIDI gchordon
+"C"g2"A7"f>e | "Dm"ed d/^c/d | "G7"a2 g>f | "C"fe e/d/e | g2 ab | "F"c'2 ba | 
+"G7"gd/e/ fe/d/ |1 "C"ce cz :|2 "C"ce cc || [K:F] "F"fe/f/ "C7"gf/g/ | "F"ab ac | fe/f/ "C7"gf/g/ | 
+"F"aba2 | "Bb"bd' c'b | "F"a/^g/a/b/a2 | "Bb"bd' c'b | "F"a/^g/a/b/ ac | fe/f/ "C7"gf/g/ | 
+"F"ab ac | fe/f/ "C7"gf/g/ | "F"aba2 | "Bb"Bd cB | "F"Af cA | AB/A/ "C7"GA/G/ | "F"FA Fz |]   
+X:2
+T:Schieber  GC 5-
+%%MIDI program 21
+M:2/4
+L:1/8
+R:shottishe
+K:G%%MIDI gchordon
+"G"d2"E7"c>B | "Am"BA A/2^G/2A | "D7"e2 d>c | "G"cB B/2A/2B | d2 ef | "C"g2 fe | 
+"D7"dA/2B/2 cB/2A/2 |1 "G"GB Gz :|2 "G"GB GG || [K:C] "C"cB/2c/2 "G7"dc/2d/2 | "C"ef eG | cB/2c/2 "G7"dc/2d/2 | 
+"C"efe2 | "F"fa gf | "C"e/2^d/2e/2f/2e2 | "F"fa gf | "C"e/2^d/2e/2f/2 eG | cB/2c/2 "G7"dc/2d/2 | 
+"C"ef eG | cB/2c/2 "G7"dc/2d/2 | "C"efe2 | "F"FA GF | "C"Ec GE | EF/2E/2 "G7"DE/2D/2 | "C"CE Cz |] 
+% st00747
+X: 3
+T: Schieber  CF (5letras transposed)
+%%MIDI program 21
+M:2/4
+L:1/8
+R:shottishe
+K:C transpose=3 %%MIDI gchordon
+"C"g2"A7"f>e | "Dm"ed d/^c/d | "G7"a2 g>f | "C"fe e/d/e | g2 ab | "F"c'2 ba | 
+"G7"gd/e/ fe/d/ |1 "C"ce cz :|2 "C"ce cc || [K:F] "F"fe/f/ "C7"gf/g/ | "F"ab ac | fe/f/ "C7"gf/g/ | 
+"F"aba2 | "Bb"bd' c'b | "F"a/^g/a/b/a2 | "Bb"bd' c'b | "F"a/^g/a/b/ ac | fe/f/ "C7"gf/g/ | 
+"F"ab ac | fe/f/ "C7"gf/g/ | "F"aba2 | "Bb"Bd cB | "F"Af cA | AB/A/ "C7"GA/G/ | "F"FA Fz |] 
+% st00747
+X:4
+T:Schieber  GC (5letras transposed)
+%%MIDI program 21
+M:2/4
+L:1/8
+R:shottishe
+K:G transpose=3 %%MIDI gchordon
+"G"d2"E7"c>B | "Am"BA A/2^G/2A | "D7"e2 d>c | "G"cB B/2A/2B | d2 ef | "C"g2 fe | 
+"D7"dA/2B/2 cB/2A/2 |1 "G"GB Gz :|2 "G"GB GG || [K:C] "C"cB/2c/2 "G7"dc/2d/2 | "C"ef eG | cB/2c/2 "G7"dc/2d/2 | 
+"C"efe2 | "F"fa gf | "C"e/2^d/2e/2f/2e2 | "F"fa gf | "C"e/2^d/2e/2f/2 eG | cB/2c/2 "G7"dc/2d/2 | 
+"C"ef eG | cB/2c/2 "G7"dc/2d/2 | "C"efe2 | "F"FA GF | "C"Ec GE | EF/2E/2 "G7"DE/2D/2 | "C"CE Cz |] 
+% st00747
+X:5
+T:Schieber  GC (tinwhistle in D)
+T: st00747 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:2/4
+L:1/8
+R:shottishe
+K:G %%MIDI gchordon
+"G"d2"E7"c>B | "Am"BA A/2^G/2A | "D7"e2 d>c | "G"cB B/2A/2B | d2 ef | "C"g2 fe | 
+"D7"dA/2B/2 cB/2A/2 |1 "G"GB Gz :|2 "G"GB GG || [K:C] "C"cB/2c/2 "G7"dc/2d/2 | "C"ef eG | cB/2c/2 "G7"dc/2d/2 | 
+"C"efe2 | "F"fa gf | "C"e/2^d/2e/2f/2e2 | "F"fa gf | "C"e/2^d/2e/2f/2 eG | cB/2c/2 "G7"dc/2d/2 | 
+"C"ef eG | cB/2c/2 "G7"dc/2d/2 | "C"efe2 | "F"FA GF | "C"Ec GE | EF/2E/2 "G7"DE/2D/2 | "C"CE Cz |] 
+X:6
+T:Schieber  GC (tinwhistle in D) solo
+T: st00747 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:2/4
+L:1/8
+R:shottishe
+K:G transpose=12
+d2"_c"c>B | "Am"BA A/2^G/2A | e2 d>"_c"c | cB B/2A/2B | d2 ef | g2 fe | 
+dA/2B/2 "_c"cB/2A/2 |1 GB Gz :|2 GB GG || [K:C] "_c"cB/2c/2 dc/2d/2 | e"_f"f eG | "_c"cB/2c/2 dc/2d/2 | 
+e"_f"fe2 | "_f"fa gf | e/2^d/2e/2f/2e2 | fa gf | e/2^d/2e/2f/2 eG | "_c"cB/2c/2 dc/2d/2 | 
+ef eG | "_c"cB/2c/2 dc/2d/2 | efe2 | FA GF | E"_c"c GE | EF/2E/2 DE/2D/2 | "_c"CE Cz |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 18, 2016

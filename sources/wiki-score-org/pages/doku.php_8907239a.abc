@@ -1,0 +1,27 @@
+X:1308
+T:N.13 Solo e coro
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:C
+V: 8 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 8 }]
+%---------
+[B,,D,G,][B,,D,G,]2 [G,,D,G,][G,,D,G,]2 | [C,E,G,][C,E,G,]2 [C,E,G,][C,E,G,]2 | \
+[G,,]2[D,G,B,] [D,G,B,]2[G,,] | (!>!C,2 G,,) (!>!D,2 G,,) | (!>!E,2 G,,) (!>!D,2 G,,) | \
+(!>!C,2 G,,) (!>!C,2 G,,) !segno!|| \
+C,G,G,, D,G,G,, | C,G,G,, C,G,E, | D,G,G,, D,G,G,, | C,G,G,, D,G,G,, | B,,G,G,, D,G,G,, | \
+C,G,G,, (A,,E,A,) | (D, [G,B,]2)(D, [A,C]2) | G,D,B,, G,,!>!G,!>!G, || \
+z[D,G,B,] [D,G,B,] [D,G,B,]2 [D,G,B,] & G,,2G,,G,,2G,, | z2[E,G,C] [E,G,C]2 [E,G,C] & C,2C, C,2C, | \
+.G,2[D,G,B,][D,G,B,]2 [D,G,B,] & G,,2G,, G,,2G,, | x2[E,G,C] [E,G,C]2 [E,G,C] & C,2C, C,2C, | \
+x2[G,B,] [D,G,B,]2[D,G,B,]& D,2D, G,,2G,, | x2[E,G,C] [E,G,C]2 [E,G,C] & C,2C, C,2C, | \
+x2[G,B,] [D,G,B,]2[D,G,B,]& D,2D, G,,2G,, || \
+(C,2G,,)(D,2G,,) | (E,2G,,) (D,2G,,) | (C,2G,,)(D,2G,,) | (E,2G,,) (D,2G,,) | (C,2G,,) (C,2G,,) |: \
+C,G,G,, D,G,G,, | C,G,G,, C,G,E, | D,G,G,, D,G,G,, | C,G,G,, D,G,G,, | B,,G,G,, D,G,G,, | \
+C,G,G,, (A,,E,A,) | (D, [G,B,]2)(D, [A,C]2) | G,D,B,, G,,!>!G,!>!G, || \
+G,,2G,, G,,2G,, | C,2C, C,2C, | D,2D, G,,2G,, | C,2G,, D,2G,, | E,2G,, D,2G,, | E,2G,, D,2G,, | \
+E,2G,, D,2G,, |  C,2G,, C,2G,, \
+"_D.C. 3 vezes""_do A e para""_acabar""_do S ao O" :| X [Q:"A tempo"] !segno!|| "_Repete" X !coda!|| \
+[C,G,C]2z !ff!{G,A,B,}[CC,][G,,G,][E,,E,] | [C,,C,]2z z2z | Z|] \
+%---------

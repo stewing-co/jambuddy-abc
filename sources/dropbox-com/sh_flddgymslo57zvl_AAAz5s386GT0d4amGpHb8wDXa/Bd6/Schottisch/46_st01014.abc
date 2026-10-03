@@ -1,0 +1,55 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Immer sch\"on de W\"ande no  G
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.266 (st01014) orig. G-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"D"AA A>G | FAD2 | "A7"AB/A/ GA/G/ | "D"FF/A/D2 |]  
+X:2
+T:Immer sch\"on de W\"ande no  F 2-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"C"GG G>F | EGC2 | "G7"GA/2G/2 FG/2F/2 | "C"EE/2G/2C2 |] 
+% st01014
+X:3
+T:Immer sch\"on de W\"ande no  C 5+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"G"dd d>c | BdG2 | "D7"de/2d/2 cd/2c/2 | "G"BB/2d/2G2 |] 
+% st01014
+X:4
+T:Immer sch\"on de W\"ande no D (tinwhistle in D)
+T:st01014 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"A"ee e>d | ceA2 | "E7"ef/2e/2 de/2d/2 | "A"cc/2e/2A2 |] 
+X:5
+T:Immer sch\"on de W\"ande no D (tinwhistle in D) solo
+T:st01014 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/8
+K:D transpose=12
+"A"ee e>d | ceA2 | "E7"ef/2e/2 de/2d/2 | "A"cc/2e/2A2 |] 
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 30, 2016

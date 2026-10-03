@@ -1,0 +1,87 @@
+X:208
+T:Gloria
+C:Carvalho, Jo\~ao de Sousa (1745-1798)
+M:C
+L:1/4
+K:G
+V: 8 clef=treble name="Violini II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 8 }]
+%-------------------
+% PDF 30 --------
+[DBg] z/G/ B/{c/}B//A// B/g/ | [DAf] z/d/ f/{g/}f//e// f/a/ | [DBg] z/ g/ {a/}g//f//g//a// g/g/ |
+e//f//g//a// g/ z/ e//f//g//a// g/ z/ | d//e//f//g// d/ z/ d//e//f//g// d/ z/ | e//e//g//g// f//f//e//e// | \
+d//d//c//c// B//B//A//A// | G z z2 | Z | z [DBg] [Ddb] [Ddb] | [DAf] z z2 | Z | z [DAf] [DAa] [DAa]| [Ddb] z z2 | Z | \
+[B,D] z z2 | z .G/.G/ (G//A//B//)z// c/A/ | G/ z/ z z2 | [Ece] [Ecg] D [DAf] | [DBg] D/D/ B, [DBg]| \
+[DBg]D/D/ B, [DBg] | [DBg] [DBg] [DBg] z | [DBg]z/ G/ B/{c}B//A// B/d/ | [GB] z/ G/ B/{c/}B//A// B/g/ | \
+[DAf] z/ d/ f/{g/}f//e// f/a/ | [DAf] z/ d/ f/{g/}f//e// f/a/ | \
+[Bg] z B/ z/A/ z/ | G z z2 | z/.B,/.D/.G/ B/ z/ A/ z/ | G z B//B//d//d// B//B//d//d// |  \
+c//c//e//e// c//c//G//G// c//c//e//e// c//c//G//G// | B//B//G//G// B//B//d//d// B//B//G//G// B//B//d//d// | \
+c//c//e//e// c//c//e//e// d//d//f//f// a//a//f//f// | [Bg] z/ G/ B/{c}B//A// B/g/ | [DAf] z/ d/ f/{g}f//e// f/a/ | \
+[Bg] z/ d/ g//a//b//a// g//f//e//d// | c//c//B//B// A//A//G//G// F//F//D//D// F//F//A//A// | \
+c//c//B//B// A//A//G//G// F//F//A//A// d//d//c//c// | B//B//d//d// g//g//d//d// [Ece] [DAf] | \
+[DBg]z z2 | Z | z2 z/ (B/c/B/) | z/ (B/c/B/) z/ (B/G/B/) | {c/}AG z2 |B G D B,| B, z z2 | f d A F | D z z2 | \
+[DAf] [DAf] [DBg] [DBg] | [DAeg] [DAf] [DBg] [DBg]| f/ f f f f/ | e//d//^c//d// e//f//g//e// e//d//f//a// f/f/ | e//f//e//d// ^c//d//e//d// c z | e//e//g//g// f//f//d//d// ^c//c//e//e// d//d//f//f// | e//e//g//g// f//f//d//d// ^c//c//c//c// c | d e f g | f//e//d//e// f//g//a//f// [DBg] z | [DAf] z z2 | Z | [DAf] [DAa] z2 | Z | [DAf] [DBg] d//d//d//d// ^c | \
+f f f f | e e e e | [DAf] z z2 | (F//E//D//E//) .F z2 | (F//E//D//E//) .F z2 | _E C _B, A, || \
+[Q:"Largetto"] [K: Bb] [M: 3/4] \
+(B,/B,/D/F/B/D/) | C/ (A/F/A/F/A/) |  (c/A/F/A,/C/A,/) | B,/ (B/D/B/F/D/) | \
+z/ (C/B,/D/D/A,/) | (A,/D/ A,) z | z/ (B/_A/F/G/E/) | \
+(D/F/_A/F/G/E/) | (E/>D/ D) z | (e/B/G/E/)(B,/_A,/) | G,/>B,/ z/> B,/ z/> B,/ | _A,/ z/ z2 | \
+F- F//=E//F//E// .F/.F/ | z/ .F/ z/ .E/ z/ .C/ | z//(G//D//=B,//) G, z  | z/ (C/E/G/c/E/) | \
+D/ (=B,/D/B,/D/B,/) | C/ (G,/C/E/E/c/) | c//A//(c/- c//A//c//A//) (c//B//c//B//) | \
+(G/^F/) z//(^c//D//A// B//^F//G//D//) | (E//^F//F//).F// F//A//A//A// B//B//c//c// | \
+B//(d//c//A//) z// G//G//G// z// ^F//F//F// | G/D/ z/ B/ z/ ^c/ | z/ d/ z/ B/ z/ ^C/ | \
+z/ D/ z/ ^F/ z/ A/ | z/ ^F/ z/ D/ z/ A,/ | z/(A,/D/^F/D/A,/)| D !fermata!z2 || \
+[Q:"Allegro"] [K:G] [M:C] [DBg]z/ G/ B/{c/}B//A// B/g/ | [DAf] z/ d/ f/{g/}f//e// f/a/| \
+[DBg] z/ d/ B//B//d//d// B//B//d//d// | e d e f | g//g//d//d// B//B//d//d// G//G//B//B// d//d//B//B// | \
+c//c//e//e// c//c//G//G// c//c//f//e// c//c//G//B// | B//B//G//G// B//B//d//d// B//B//G//G// B//B//d//d// | \
+c//c//e//e// c//c//e//e// d//d//f//f// a//a//f//f// | [DBg] z/ G/ B/{c/}B//A// B/g/ | \
+[DAf] z/ d/ f/{g/}f//e// f/a/ | [DBg] [G,Dd] [Ece] [DAf] | \
+[DBg] g//a//b//a// g//a//b//a// g//a//b//a// | g [DBb] [DBg] z | z (D E C) | B, z z2 | Z | \
+z2 z [EB^g] | [E^ca] z/(=E/ F D ) | ^C z z2 | Z | z2 z [DAf] | [DAa] z z2 | Z | \
+f//a//f//a// f//a//f//a// f//a//f//a// f//a//f//a// | [DAf] [DAa] [DAf] [DAf] | \
+[DBg] z z2 | Z | B//g//B//g// [Bg] [Bg] [Bg] | [Bg] [Bg] [Bg] [Bg] | [Ag] [Ag] [Ag] [Ag] |\
+f//d//d//d// d a g | g g f f | g g g f | g z (E/D/C/B,/) | B, z (E/D/C/B,/) | B, z (E/D/^C/D/) |\
+D/ (D/=F/D/) z/ (C/E/C/) | z/ (C/A,/C/) z/ (B,/D/B,/) | z .B,/.G,/ .D/ z/ .E/.C/ | .B,/ .B/.B/.B/ (G///A///B//) z/ c/A/ | \
+G z z2 | [Ece] [Ece] [DAf][DAf] | f//d//d//d// d  d//B//B//B// B | A A B//G//B//d// B//d//g//g// | \
+g g g g | f g g f | [DBg] [DBg] [Ece] [DAf] | [DBg] [DBg] [Ece] [DAf] | \
+g//a//b//a// g//f//e//d// g//a//b//a// g//f//e//d// | [DBg] D/D/ B, [DBb] | [DBg] [DBb] [DBg] z || \
+[Q:"Andantino"] [K:D] [M:3/4] \
+%FOL 26v
+z// .F//.A//.F// .D//.F//.A//.F// d/ z/ | z//.B//.d//.B// .G//.B//.d//.B// G/ z/ | z//.A//.F//.A// .F//.A//.d//.A// d/ z/ | \
+z//.d//.B//.d// .B//.G//.B//.d// B/ z/ | z//.E//.G//.E// .C//(c//e//d// {g/}e/)d//c// | .d/D/-  D//{E/ }(D///C///D//.E//) .F//.D//.B,//.D// | .A,/(D/ D//)({E/}D///C///D//.E//) .F//.D//.A,//.D// | G,/(D/ D//)({E/}D///C///D//.E//) .F//.D//.A,//.D// |\
+^G,//  .d//.d//.d// d//.c//.B//.A// .^G//.A//.B//.c// | d2- d//.d//.c//.B// | \
+A3- | .A/ (c//<d//) (^G//<A//) ( ^A//<B//) (^D//<E//) (F//<G//) | ^A,//</B,// ^D//</E// z//(G//B//G//) (G//E//)(E//C//) | \
+D/(D/ D//)({E/}D///C///D// .E//).F//.D//.B,//.D// | (G,/[DBg]/) z//{a/}(g///f///g//b//) c//e//A//c//  | \
+(d//=c//B//A// B//A//G//A// B/G/)| F/(F///G///F///E///) D/(F///G///F///E///) D/ z/ | \
+z//(F//A//F// F//D//F//D//) A,/ z/ | (z//B//G//D// A,//D//G//B//) G/ z/ | z//(A//F//D// A,//D//F//A//) D/ z/ | \
+(z//D//A,//D// G//D//G//B//) B,/ z/ | z//(E//G//E// .C//)(c//e//d// {g/}) e/d//c// | \
+(z//D//F//D//) z//(D//G//D//) z//D//F//A// | z//(D//B,//D// G//D//G//B//) B,/ z/ | \
+(z//E//G//E//) (.C//c//e//d// {g/} e/d//c//) | d/ [DAf]/[DAa]/  D//>C// D/ z/ | z/ .f/.d/.A/(F/^G/)  | \
+A/.E/.A/.c/ (e/c/) |  [A/(c] B) B B/ | F/ F (F/^G/A/)  | (A/^G/)z// (E//G//B//)z// (^G//E//G//) | \
+(A/.E/) (E/.C/) .A/.A/ | (^G/.E/) (G/.E/) .c/.B/ | .A/.c/.e/E/E/E/ | (F/A/A/F/) D | (A/E/A/E/) A, |  \
+z/ (F/B/)B/^G/G/ | (A/c/) z//A//c//e// a//e//a//e// | (f//d//d//B//) A/A/^G/G/ | A z z | \
+z//.b//.b//.b// .b//.a//.^g//.f// .e//.d//.d//.B// |A z z | z//.b//.b//.b// .b//.a//.^g//.f// .e//.d//.d//.B// | \
+A/ (^g///a3/8) (^d///e3/8) (^e///f3/8) (^A///B3/8) (c///e3/8) | (^E//<F//) (^A///B3/8) z//(D//F//D// F//D//A//D//) | C/ !f!^g///a3/8 ^d///e3/8 ^e///f3/8 ^A///B3/8 ^c///d3/8 | ^E///F3/8 ^A///F3/8// \
+// z//(D//F//D// F//D//A//D//) | .A,/(A/ A//) .A///^G///A//B// .c//.A//.F//.A// |  D/ (d//B//) A/A/^G/G/ | \
+z//(A//A//c//) z//(c//c//e//) z//(c//e//a//) | (a//>e//a/) z//a//^g//f// (e//e//d//B//) | A//c//c//c// B B | \
+z//.c//.e//.c// .e//.c//.A//.E// c/ z/| z// .d//.f//.d// .f//.d//.A//.F// D/ z/ | z// .A//.c//.A// E/ (c//A//) (e//c//a//e//) | \
+(f//d//d//B//) {B/} A//^G//A//c// {c/} B/A//G// | A/ (C///D///C///B,///) .A,/(C///D///C///B,///) A,/ z/ | \
+z//(c//c//A//) (A//E//E//C//) C/ z/ | z//(D//F//D// d//A//B//A//) (F/D/) | z//(d//c//A//) (c//A//E//C//) E/ z/ | \
+z// (c//e//e// c//A//E//C//) A,/ z/ | z//(d//f//e// d//A//F//D//) A,/ z/ | z//(B//d//B//) (G//D//G//B//) B,/ z/ | \
+z//(E//G//E//) .C//(c//e//d// {f/} e/d//c//) | d/ [DAf/a/] (F///G///F///E///) D/ z/ | z/ .f/.d/.A/.F/.D/ | B3 |  \
+e3 | B/ f f d/ | (d/c/) z//(A//c//e//) z//(c//A//c//) | (d/A/) z/ .A/.d/.f/ | c/c/ z/ .G/G/.e/ | .A/.f/ f .e/.e/ | \
+.A/.f/ f e/e/ | A/ A A A/ | d/ d d/d/d/| {f/} (e/d//c//) {f/} (e/d//c//) z//(c//c//e//) | d/ d d/c/c/ | \
+.d/ (c//<d//) (^G//<A//) (^A//<B//) (^D//<E//) (F//<G//) | (^A//<B//) (^D//<E//) z//(B,//E//G//) {F/} E/D//C// | \
+D/ (c//<d//) (^G//<A//) (^A//<B//) (^D//<E//) (F//<G//) | ^A//<B// ^D//<E// z// (B,//E//G//) {F/} E/D//C// | \
+D/(D/ D//)({E//}(D///C///D//.E//) .F//.D//.B,//.D// | [^G,G]// .d//.d//.d// .d//.c//.B//.A// .^G//.A//.B//.c// | \
+d2 -d//.d//.c//B// | A3 -| A/(A/d/A/d/A/) | B/B/e/e/c/c/ |  d/ f f/d/d/- | (d//d//g//e//) d/d/c/c/ | \
+(d//=c//B//^A//) (B//=A//G//A// B//G//G//E//) | F//(=c//B//^A//) (B//=A//G//A// B//G//G//E//) | \
+F// (=c//B//^A//) (B//=A//G//A// B//G//G//E//) | F/(D/ D//)({E//}(D///C///D//.E//) .F//.D//.B,//.D// | \
+A,/(D/ D//)({E//}(D///C///D//.E//) F//D//B,//^G,// | A, z z | z//.F//.A//.F// .D//.F//.A//.F// .d/.A/ | \
+z//.B//.d//.B// .G//.B//.d//.B// G/B/ | z//.A//.d//.A// .F//.A//.d//.f// (e//d//c//d//) | \
+(B//B//d//g//) (g//f//d//f//) {f/} e/d//c// | d/(D/ D//)({E//}(D///C///D//.E//) .F//.D//.B,//.D// | \
+(G,/[DBg]/) {a/} (g//f//g//b//) c//e//A//c// | d/ (F///G///F///E///) D z || \
+[Q:"Allegro"] [K: Bb][M:C] !f! B,//C//D//E//
+F//E//D//C// B,//C//D//E// F//G//A//B// | X |
+%-----------------

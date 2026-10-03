@@ -1,0 +1,16 @@
+X:204
+T:Alla Francese
+C:Davide Perez (1711-1778)
+M:3/8
+L:1/8
+K:F
+V: 4 clef=treble name="Flauto Secondo" sname="Fl.2"
+%%MIDI program 1 73
+%%staves [( 4 )]
+%---------------
+[Q:"Grave"] dzz | dzz | dzz | d z/>f/e/>g/ | {g}f/>e/ f/>a/ ^c/>e/ | {e}dDz | fzz | dzz | dzz | \
+d z/>f/e/>g/ |  {g}f/>e/ f/>a/ ^c/>e/ | dDz |Z2 | f/>d/ c/>=B/ A/>^G/ | Acz | Z | ^FGz | Z | \
+d^cz | zzF/>G/ | {G}F2z | !p!zzF/>G/ | {G}F2z | fzz |dzz | dzz | d z/>f/!f!e/>g/ | \
+f/>e/ f/>a/ ^c/>e/ | dDz | Z2 | e/>g/ g/>e/ d/>^c/ | dDz | Z2 | e/>g/ g/>e/ d/>^c/ | dDz || \
+[Q:"Doce assai"] [M:C|] [L:1/4] ^c>d (c/A/c/d/) | ^c>D (c/A/c/e/) | ^c2z2 |] \
+%---------------

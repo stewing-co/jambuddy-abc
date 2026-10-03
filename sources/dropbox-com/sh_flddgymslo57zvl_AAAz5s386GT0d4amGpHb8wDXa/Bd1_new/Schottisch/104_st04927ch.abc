@@ -1,0 +1,100 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Marsch/Schottisch GDC chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.304 (st04927) orig. G,D,C-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"g2B2 d2dg | "D7"f2A2 c2cf | a2A2 d2fa | "G"g2B2 d2dg | g2B2 d2dg | "D7"f2A2 c2cf | a2A2 d2fa | "G"g2g2 g2z2 :: [K:D]
+"A7"A2g2 A3e | "D"A2f2 dcd2 | "A7"A2e2 cBc2 | "D"A2f2 dcd2 | "A7"A2g2 A3e | "D"A2f2 dcd2 | "A7"A2e2 dcBc | "D"d2d2 d2"_>Teil A"z2 :: [K:C] 
+"C"G4ABcd | e4c2ea | "G7"g4d2fa | "C"g4e4 | G4ABcd | e4c2ea | "G7"g4 gfde | "C"c2c2 c2z2 :: [K:G] 
+"D7"d2^cd ed=cA | "G"G2Bd gfg2 | "D7"a2ag f2d2 | "G"b2ba g2Bc | "D7"d2^cd ed=cA | "G"G2Bd gfg2 | "D7"a2ag fdef | "G"g2g2 "_>Teil C"g2z2 :| 
+
+X:2
+T: Marsch/Schottisch GDC chords Parts
+P:ABACDC
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+[P:A] "G"g2B2 d2dg | "D7"f2A2 c2cf | a2A2 d2fa | "G"g2B2 d2dg | g2B2 d2dg | "D7"f2A2 c2cf | a2A2 d2fa | "G"g2g2 g2z2 :: [P:B] [K:D]
+"A7"A2g2 A3e | "D"A2f2 dcd2 | "A7"A2e2 cBc2 | "D"A2f2 dcd2 | "A7"A2g2 A3e | "D"A2f2 dcd2 | "A7"A2e2 dcBc | "D"d2d2 d2"_>Teil A"z2 :: [P:C] [K:C] 
+"C"G4ABcd | e4c2ea | "G7"g4d2fa | "C"g4e4 | G4ABcd | e4c2ea | "G7"g4 gfde | "C"c2c2 c2"_fine"z2 :: [P:D] [K:G] 
+"D7"d2^cd ed=cA | "G"G2Bd gfg2 | "D7"a2ag f2d2 | "G"b2ba g2Bc | "D7"d2^cd ed=cA | "G"G2Bd gfg2 | "D7"a2ag fdef | "G"g2g2 "_>Teil C"g2z2 :| 
+
+X:3
+T:Marsch/Schottisch CGF 7- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"c2E2 G2Gc | "G7"B2D2 F2FB | d2D2 G2Bd | "C"c2E2 G2Gc | c2E2 G2Gc | "G7"B2D2 F2FB | d2D2 G2Bd | "C"c2c2 c2z2 :: [K:Gmaj]
+"D7"D2c2 D3A | "G"D2B2 GFG2 | "D7"D2A2 FEF2 | "G"D2B2 GFG2 | "D7"D2c2 D3A | "G"D2B2 GFG2 | "D7"D2A2 GFEF | "G"G2G2 G2"_>Teil A"z2 :: [K:Fmaj] 
+"F"C4DEFG | A4F2Ad | "C7"c4G2Bd | "F"c4A4 | C4DEFG | A4F2Ad | "C7"c4 cBGA | "F"F2F2 F2z2 :: [K:Cmaj] 
+"G7"G2^FG AG=FD | "C"C2EG cBc2 | "G7"d2dc B2G2 | "C"e2ed c2EF | "G7"G2^FG AG=FD | "C"C2EG cBc2 | "G7"d2dc BGAB | "C"c2c2 "_>Teil C"c2z2 :| 
+
+X:4
+T:Marsch/Schottisch CGF 7- chords Parts
+P:ABACDC
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+[P:A] "C"c2E2 G2Gc | "G7"B2D2 F2FB | d2D2 G2Bd | "C"c2E2 G2Gc | c2E2 G2Gc | "G7"B2D2 F2FB | d2D2 G2Bd | "C"c2c2 c2z2 :: [P:B] [K:Gmaj]
+"D7"D2c2 D3A | "G"D2B2 GFG2 | "D7"D2A2 FEF2 | "G"D2B2 GFG2 | "D7"D2c2 D3A | "G"D2B2 GFG2 | "D7"D2A2 GFEF | "G"G2G2 G2"_>Teil A"z2 :: [P:C] [K:Fmaj] 
+"F"C4DEFG | A4F2Ad | "C7"c4G2Bd | "F"c4A4 | C4DEFG | A4F2Ad | "C7"c4 cBGA | "F"F2F2 F2"_fine"z2 :: [P:D] [K:Cmaj] 
+"G7"G2^FG AG=FD | "C"C2EG cBc2 | "G7"d2dc B2G2 | "C"e2ed c2EF | "G7"G2^FG AG=FD | "C"C2EG cBc2 | "G7"d2dc BGAB | "C"c2c2 "_>Teil C"c2z2 :| 
+
+X:3
+T:Marsch/Schottisch CGF 7- (Anm)
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"c2E2 G2G"_ ="c | "G7""H"B2"_d"D2 "_f"F2F"_h"B | "_d"d2"_d"D2 G2"_h"B"_d"d | "C"c2E2 G2Gc | c2E2 G2Gc | "G7"B2D2 F2FB | d2D2 G2Bd | "C"c2c2 c2z2 :: [K:Gmaj]
+"D7"D2"_c"c2 D3"_a"A | "G""_(d"D2"_h"B2 "_g"GF"_)"G2 | "D7"D2"_a"A2 "_#"F"_e"EF2 | "G"D2B2 GFG2 | "D7"D2c2 D3A | "G"D2B2 GFG2 | "D7"D2A2 GFE"_ ="F | "G"G2G2 G2"_>Teil A"z2 :: [K:Fmaj] 
+"F"C4DEFG | A4F2Ad | "C7"c4"_g"G2"_b"B"_d"d | "F"c4A4 | C4DEFG | A4F2Ad | "C7"c4 c"_b"B"_g"GA | "F"F2F2 F2z2 :: [K:Cmaj] 
+"G7"G2"_#"^FG "_a"AG"_(f"=F"_ d="D | "C"C2EG cBc2 | "G7""_d"d2d"_h"c B2G2 | "C"e2ed c2EF | "G7"G2^FG AG=F"_ ="D | "C"C2EG cBc2 | "G7""_d"d2dc "_h"BG"_a"A"_ h ="B | "C"c2c2 "_>Teil C"c2z2 :| 
+
+
+X:5
+T:Marsch/Schottisch EbBbAb (5letras) cf. CGF
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+"Eb"e2G2 B2Be | "Bb7"d2F2 A2Ad | f2F2 B2df | "Eb"e2G2 B2Be | e2G2 B2Be | "Bb7"d2F2 A2Ad | f2F2 B2df | "Eb"e2e2 e2z2 :: [K:Bbmaj]
+"F7"F2e2 F3c | "Bb"F2d2 BAB2 | "F7"F2c2 AGA2 | "Bb"F2d2 BAB2 | "F7"F2e2 F3c | "Bb"F2d2 BAB2 | "F7"F2c2 BAGA | "Bb"B2B2 B2"_>Teil A"z2 :: [K:Abmaj] 
+"Ab"E4FGAB | c4A2cf | "Eb7"e4B2df | "Ab"e4c4 | E4FGAB | c4A2cf | "Eb7"e4 edBc | "Ab"A2A2 A2z2 :: [K:Ebmaj] 
+"Bb7"B2=AB cB_AF | "Eb"E2GB ede2 | "Bb7"f2fe d2B2 | "Eb"g2gf e2GA | "Bb7"B2=AB cB_AF | "Eb"E2GB ede2 | "Bb7"f2fe dBcd | "Eb"e2e2 "_>Teil C"e2z2 :| 
+
+X:6
+T:Marsch/Schottisch EbBbAb (5letras) cf. CGF Parts
+P:ABACDC
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+[P:A] "Eb"e2G2 B2Be | "Bb7"d2F2 A2Ad | f2F2 B2df | "Eb"e2G2 B2Be | e2G2 B2Be | "Bb7"d2F2 A2Ad | f2F2 B2df | "Eb"e2e2 e2z2 :: [P:B] [K:Bbmaj]
+"F7"F2e2 F3c | "Bb"F2d2 BAB2 | "F7"F2c2 AGA2 | "Bb"F2d2 BAB2 | "F7"F2e2 F3c | "Bb"F2d2 BAB2 | "F7"F2c2 BAGA | "Bb"B2B2 B2"_>Teil A"z2 :: [P:C] [K:Abmaj] 
+"Ab"E4FGAB | c4A2cf | "Eb7"e4B2df | "Ab"e4c4 | E4FGAB | c4A2cf | "Eb7"e4 edBc | "Ab"A2A2 A2"_fine"z2 :: [P:D] [K:Ebmaj] 
+"Bb7"B2=AB cB_AF | "Eb"E2GB ede2 | "Bb7"f2fe d2B2 | "Eb"g2gf e2GA | "Bb7"B2=AB cB_AF | "Eb"E2GB ede2 | "Bb7"f2fe dBcd | "Eb"e2e2 "_>Teil C"e2z2 :| 
+
+X:7
+T:Marsch/Schottisch AbEbDb cf. GDC 1+
+M:2/4
+L:1/16
+K:Abmaj%%MIDI gchordon
+"Ab"a2c2 e2ea | "Eb7"g2B2 d2dg | b2B2 e2gb | "Ab"a2c2 e2ea | a2c2 e2ea | "Eb7"g2B2 d2dg | b2B2 e2gb | "Ab"a2a2 a2z2 :: [K:Ebmaj]
+"Bb7"B2a2 B3f | "Eb"B2g2 ede2 | "Bb7"B2f2 dcd2 | "Eb"B2g2 ede2 | "Bb7"B2a2 B3f | "Eb"B2g2 ede2 | "Bb7"B2f2 edcd | "Eb"e2e2 e2"_>Teil A"z2 :: [K:Dbmaj] 
+"Db"A4Bcde | f4d2fb | "Ab7"a4e2gb | "Db"a4f4 | A4Bcde | f4d2fb | "Ab7"a4 agef | "Db"d2d2 d2z2 :: [K:Abmaj] 
+"Eb7"e2=de fe_dB | "Ab"A2ce aga2 | "Eb7"b2ba g2e2 | "Ab"c'2c'b a2cd | "Eb7"e2=de fe_dB | "Ab"A2ce aga2 | "Eb7"b2ba gefg | "Ab"a2a2 "_>Teil C"a2z2 :| 
+
+X:8
+T:Marsch/Schottisch AbEbDb cf. GDC 1+ Parts
+P:ABACDC
+M:2/4
+L:1/16
+K:Abmaj%%MIDI gchordon
+[P:A] "Ab"a2c2 e2ea | "Eb7"g2B2 d2dg | b2B2 e2gb | "Ab"a2c2 e2ea | a2c2 e2ea | "Eb7"g2B2 d2dg | b2B2 e2gb | "Ab"a2a2 a2z2 :: [P:B] [K:Ebmaj]
+"Bb7"B2a2 B3f | "Eb"B2g2 ede2 | "Bb7"B2f2 dcd2 | "Eb"B2g2 ede2 | "Bb7"B2a2 B3f | "Eb"B2g2 ede2 | "Bb7"B2f2 edcd | "Eb"e2e2 e2"_>Teil A"z2 :: [P:C] [K:Dbmaj] 
+"Db"A4Bcde | f4d2fb | "Ab7"a4e2gb | "Db"a4f4 | A4Bcde | f4d2fb | "Ab7"a4 agef | "Db"d2d2 d2"_fine"z2 :: [P:D] [K:Abmaj] 
+"Eb7"e2=de fe_dB | "Ab"A2ce aga2 | "Eb7"b2ba g2e2 | "Ab"c'2c'b a2cd | "Eb7"e2=de fe_dB | "Ab"A2ce aga2 | "Eb7"b2ba gefg | "Ab"a2a2 "_>Teil C"a2z2 :| 
+

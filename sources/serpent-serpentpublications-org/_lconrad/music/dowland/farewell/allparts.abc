@@ -1,0 +1,56 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:I. Farewell too faire,
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+M:C
+L:1/4
+N: Original clef, C on first line
+K:A min
+A4 A2 A2 A2 z2 | z2 A c2 B A > A ^G2 G2 |
+w: Fare- well too faire, too chast but too too cru- ell,
+w:Fare- well too deare, and too too much de- sir- ed,
+z B d2 B c2 G | A2 A2 A3 c B4 | z2 B3 B2 ^G A3 A | _B3 B A3 A
+w:dis- cre- tion ne- ver quench- ed fire with swords: Why has thou made my heart thine an- gers 
+w:Un- less com- pas- sion dwelt more neere they heart: Love by ne- glect (though con- stant) oft is 
+G2 G2  | z c B2 z e2 d2 ^c | d3 c B > B A4 |: z2 B3 G G2 | c2 B > c d c B A ^G4 |
+w:fu- ell, and now would kill my pas- sions with thy words.  This is prowd beau- ties _ true a- na- ra- my,
+w:ti- red, And forc't from blisse un- will- ing- ly to part.
+z2 B2 c2 d2 e3 d c2 A2 | B3 B A2 z A A2 z A A8 :|
+w:if that se- cure se- vere in se- cre sie, fare- well, fare- well.
+
+X:2
+T:I. Farewell too faire,
+T:Bassus
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI transpose -24
+M:C
+L:1/4
+K:A min bass
+A3 B ^c A d2 A f2 e c d A a2 g f2 e6 B2
+e A2 c F3 G A4 E4 e4 B2 e2 A2 d > c _B
+A G2 d4 G c > B c A a2 ^g a c' g2
+a2 z ^f ^g a e2 A4 |: G4 G2 c2 A2 e2 f4 e4 e6 d2
+c2 B2 A3 G/ F/ E e > e e A2 d2 ^c2 d2 A8 :|

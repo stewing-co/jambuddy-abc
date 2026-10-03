@@ -1,0 +1,32 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:L\"andler  CGF
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.327 (LD05860) orig. C,G,F-Dur
+T: "Riebg\"arteler", T\"anze aus Halisberg. S.319-338
+T: Aus dem Repertoire von Johann und Melchior Zenger.
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"EG ce dc | "G7"Bd fba2 | g2 Bg fB | "C"ce GcE2 | EG ce dc | "G7"Bd fba2 | g2 Bg fB | 
+"C"c2z2z2 :: [K:G] "G"dG Bd gb | "D7"ad' c'b ag | fa eg df | "C"ce "G"Bd GB | dG Bd gb | "D7"ad' c'b ag | 
+fa "C"eg "D7"fa |1 "G"g2z2z2 :|2 "G"g2z2b2 |: [K:C] "tr""G7"a2 gB fB | "C"cE Gc ec | "G7"BD GB fB | "C"cE Gc ec' | 
+"tr""G7"a2gB fB | "C"cE Gc ec | "G7"BD GB fB |1 "C"c2z2b2 :|2 "C"c2z2F2 |: [K:F] "F"FA d3c | "C7"cB GEC2 | 
+CE GB eg | "F"fa cfA2 | FA d3c | "C7"cB GEC2 | CE GB eg |1 "F"f2z2F2 :|2 "F"f2z2z2 |]  
+% LD05860
+X:2
+T:L\"andler  CGF (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"EG ce dc | "G7"Bd fba2 | g2 Bg fB | "C"ce GcE2 | EG ce dc | "G7"Bd fba2 | g2 Bg fB | 
+"C"c2z2z2 :: [K:G] "G"dG Bd gb | "D7"ad' c'b ag | fa eg df | "C"ce "G"Bd GB | dG Bd gb | "D7"ad' c'b ag | 
+fa "C"eg "D7"fa |1 "G"g2z2z2 :|2 "G"g2z2b2 |: [K:C] "tr""G7"a2 gB fB | "C"cE Gc ec | "G7"BD GB fB | "C"cE Gc e"_ ="c' | 
+"tr""G7"a2gB fB | "C"cE Gc ec | "G7"BD GB fB |1 "C"c2z2b2 :|2 "C"c2z2F2 |: [K:F] "F"FA d3c | "C7"cB GEC2 | 
+CE GB eg | "F"fa cfA2 | FA d3c | "C7"cB GEC2 | CE GB eg |1 "F"f2z2F2 :|2 "F"f2z2z2 |]  
+% LD05860
+% July 23, 2016

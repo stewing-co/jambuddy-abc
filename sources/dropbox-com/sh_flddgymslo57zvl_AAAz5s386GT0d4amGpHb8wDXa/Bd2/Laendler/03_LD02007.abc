@@ -1,0 +1,55 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:L\"andler CF
+T:Hanny Christen. Bd.II  St. Gallen II, Graub\"unden, Tessin. S.268 (LD02007) orig. C,F
+T: Graub\"unden. Repertoire von Peter Davoli, Davos/Samedan
+T:\"Uberliefert vermutlich durch Joggi Stocker (1889-1956)
+O:Switzerland
+%%MIDI program 21
+R:L\"andler
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"G3e dc | "G7"Bf fG AG | G3f ed | "C"ce eG AG | G2e3c | "G7"Bf fG AG | G3f ed | "C"c2z2z2 :: [K:F] 
+"F"c3a gf | "C7"e2b3c | c2b3e | "F"fa ac dc | c3a f2 | "C7"eb bc dc | c2b3e | "F"f2z2z2 |] 
+% LD02007
+
+X:2
+T:L\"andler CF  (5letras transposed)  (LD02007)
+%%MIDI program 21
+O:Switzerland
+R:L\"andler
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"G3e dc | "G7"Bf fG AG | G3f ed | "C"ce eG AG | G2e3c | "G7"Bf fG AG | G3f ed | "C"c2z2z2 :: [K:F] 
+"F"c3a gf | "C7"e2b3c | c2b3e | "F"fa ac dc | c3a f2 | "C7"eb bc dc | c2b3e | "F"f2z2z2 |] 
+% LD02007
+
+X:3
+T:L\"andler GC 5-  (LD02007)
+%%MIDI program 21
+O:Switzerland
+R:L\"andler
+M:3/4
+L:1/8
+K:G%%MIDI gchordon
+"G"D3B AG | "D7"Fc cD ED | D3c BA | "G"GB BD ED | D2B3G | "D7"Fc cD ED | D3c BA | "G"G2z2z2 :: [K:C] 
+"C"G3e dc | "G7"B2f3G | G2f3B | "C"ce eG AG | G3e c2 | "G7"Bf fG AG | G2f3B | "C"c2z2z2 |] 
+% LD02007
+
+X:4
+T:L\"andler A&D (tinwhistle in D) var. solo
+T:LD09365 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+O:Switzerland
+R:L\"andler
+M:3/4
+L:1/8
+K:A transpose=12
+E3c BA | Gd dE FE | E3d cB | Ac cE FE | E2c3A | Gd dE FE | E3d cB | A2z2z2 :: [K:D] 
+A3f ed | c2g3A | A2g3c | df fA BA | A3f d2 | cg gA BA | A2g3c | d2z2z2 |]
+% LD02007
+% Sep 26, 2016

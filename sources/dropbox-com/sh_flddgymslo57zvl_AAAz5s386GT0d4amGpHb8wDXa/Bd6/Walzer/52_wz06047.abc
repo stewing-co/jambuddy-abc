@@ -1,0 +1,146 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Waldm\"archen-Walzer  CFBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.316f (wz06047) orig. C,F,Bb-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+Gc | "C"e3 | "F"dcA | ("C"G3 | G)ce | "G7"g3 | dfa | ("C"g3 | g)Gc | 
+e3 | "F"dcA | ("C"G3 | G)ce | "G"d2g | "D7"^fba | "G"g>gg | "G7"z^f/g/ a/b/ | 
+"C".c'!>!e>g | .c'!>!e>g | "G7"b/b/ba | f3 |  .b !>!d>f |  .b !>!d>f | "C"a/a/ag | e^f/g/ a/b/ | 
+.c'!>!e>g | .c'!>!e>g | "C7"d'/d'/d'c' | "F"a3 | "G7"b/b/ba | "C"g/e/ a/g/ f/e/ | "G7"dzg | "C"czz || [K:F] 
+"F"C2F | F2A, | (C3 | C)zC | C2D | D2C | ("C7"C3 | B,2)E | G2F | E2D | (B,3 | 
+B,)zF | E2D | E2D | ("F"C3 | C)zz|| "F"c2f | f2A | (c3 | c)zc | "A7"^c2e | a2g | 
+("Dm"f3 | f)e/f/ g/f/ | "C7"e2d | c/e/ gb | "F"a2c | f2a | "Gm"g2b | "C7"a2g | ("F"f3 | f)e/f/ g/"_Fine"a/ || [K:Bb]  
+"Bb"b2d | d2e | "F7"d2c | c2g | f2A | ceg | ("Bb"f3 | f)=e/f/ g/a/ | 
+b2a | "Bb7"c'2b | "Eb"a2g | gab | "Bb"f2d | "F7"d2c | "Bb"B3 | B =e/f/ g/"_>Teil C"a/ |] 
+W: Parts: ABCDC
+W:Waldm\"archen (forest fairy tale)
+X:2
+T:Waldm\"archen-Walzer  CGF 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G%%MIDI gchordon
+DG | "G"B3 | "C"AGE | ("G"D3 | D)GB | "D7"d3 | Ace | ("G"d3 | d)DG | 
+B3 | "C"AGE | ("G"D3 | D)GB | "D"A2d | "A7"^cfe | "D"d>dd | "D7"z^c/2d/2 e/2f/2 | 
+"G".g!>!B>d | .g!>!B>d | "D7"f/2f/2fe | c3 | .f !>!A>c | .f !>!A>c | "G"e/2e/2ed | B^c/2d/2 e/2f/2 | 
+.g!>!B>d | .g!>!B>d | "G7"a/2a/2ag | "C"e3 | "D7"f/2f/2fe | "G"d/2B/2 e/2d/2 c/2B/2 | "D7"Azd | "G"Gzz || [K:C] 
+"C"G,2C | C2E, | (G,3 | G,)zG, | G,2A, | A,2G, | ("G7"G,3 | F,2)B, | D2C | B,2A, | (F,3 | 
+F,)zC | B,2A, | B,2A, | ("C"G,3 | G,)zz|| "C"G2c | c2E | (G3 | G)zG | "E7"^G2B | e2d | 
+("Am"c3 | c)B/2c/2 d/2c/2 | "G7"B2A | G/2B/2 df | "C"e2G | c2e | "Dm"d2f | "G7"e2d | ("C"c3 | c)B/2c/2 d/2"_Fine"e/2 || [K:F] 
+"F"f2A | A2B | "C7"A2G | G2d | c2E | GBd | ("F"c3 | c)=B/2c/2 d/2e/2 | 
+f2e | "F7"g2f | "Bb"e2d | def | "F"c2A | "C7"A2G | "F"F3 | F =B/2c/2 d/2"_>Teil C"e/2 |] 
+W:Parts: ABCDC
+% wz06047
+X:3
+T:Waldm\"archen-Walzer  CGF 5- (var.)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+DG | "G"B3 | "C"AGE | ("G"D3 | D)GB | "D7"d3 | Ace | ("G"d3 | d)DG | 
+B3 | "C"AGE | ("G"D3 | D)GB | "D"A2d | "A7"^cfe | "D"d>dd | "D7"z^c/2d/2 e/2f/2 | 
+"G".g!>!B>d | .g!>!B>d | "D7"f/2f/2fe | c3 | .f !>!A>c | .f !>!A>c | "G"e/2e/2ed | B^c/2d/2 e/2f/2 | 
+.g!>!B>d | .g!>!B>d | "G7"a/2a/2ag | "C"e3 | "D7"f/2f/2fe | "G"d/2B/2 e/2d/2 c/2B/2 | "D7"Azd | "G"Gzz || [K:C] 
+"C"G2c | c2E | (G3 | G)zG | G2A | A2G | ("G7"G3 | F2)B | d2c | B2A | (F3 | 
+F)zc | B2A | B2A | ("C"G3 | G)zz||  "C"G2c | c2E | (G3 | G)zG | "E7"^G2B | e2d | 
+("Am"c3 | c)B/2c/2 d/2c/2 | "G7"B2A | G/2B/2 df | "C"e2G | c2e | "Dm"d2f | "G7"e2d | ("C"c3 | "_Fine"c)B/2c/2 d/2e/2 || [K:F] 
+"F"f2A | A2B | "C7"A2G | G2d | c2E | GBd | ("F"c3 | c)=B/2c/2 d/2e/2 | 
+f2e | "F7"g2f | "Bb"e2d | def | "F"c2A | "C7"A2G | "F"F3 | F =B/2c/2 d/2"_>Teil C"e/2 |] 
+W:Parts: ABCDC
+% Parts C = 12 semitones up
+% wz06047
+X:4
+T:Waldm\"archen-Walzer  CGF 5- (parts, var.)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G%%MIDI gchordon
+DG | "G"B3 | "C"AGE | ("G"D3 | D)GB | "D7"d3 | Ace | ("G"d3 | d)DG | 
+B3 | "C"AGE | ("G"D3 | D)GB | "D"A2d | "A7"^cfe | "D"d>dd | "D7"z^c/2d/2 e/2f/2 | 
+"G".g!>!B>d | .g!>!B>d | "D7"f/2f/2fe | c3 | .f !>!A>c | .f !>!A>c | "G"e/2e/2ed | B^c/2d/2 e/2f/2 | 
+.g!>!B>d | .g!>!B>d | "G7"a/2a/2ag | "C"e3 | "D7"f/2f/2fe | "G"d/2B/2 e/2d/2 c/2B/2 | "D7"Azd | "G"Gzz || [K:C] 
+"C"G2c | c2E | (G3 | G)zG | G2A | A2G | ("G7"G3 | F2)B | d2c | B2A | (F3 | 
+F)zc | B2A | B2A | ("C"G3 | G)zz||  "C"G2c | c2E | (G3 | G)zG | "E7"^G2B | e2d | 
+("Am"c3 | c)B/2c/2 d/2c/2 | "G7"B2A | G/2B/2 df | "C"e2G | c2e | "Dm"d2f | "G7"e2d | ("C"c3 | "_Fine"c)B/2c/2 d/2e/2 || [K:F] 
+"F"f2A | A2B | "C7"A2G | G2d | c2E | GBd | ("F"c3 | c)=B/2c/2 d/2e/2 | 
+f2e | "F7"g2f | "Bb"e2d | def | "F"c2A | "C7"A2G | "F"F3 | F =B/2c/2 d/2"_>Teil C"e/2 |] [K:C] 
+"C"G2c | c2E | (G3 | G)zG | G2A | A2G | ("G7"G3 | F2)B | d2c | B2A | (F3 | 
+F)zc | B2A | B2A | ("C"G3 | G)zz||  "C"G2c | c2E | (G3 | G)zG | "E7"^G2B | e2d | 
+("Am"c3 | c)B/2c/2 d/2c/2 | "G7"B2A | G/2B/2 df | "C"e2G | c2e | "Dm"d2f | "G7"e2d | ("C"c3 | "_Fine"c)zz |] 
+W:Parts: ABCDC
+% wz06047
+X:4
+T:Waldm\"archen-Walzer  CGF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+DG | "G"B3 | "C"AGE | ("G"D3 | D)GB | "D7"d3 | Ace | ("G"d3 | d)DG | 
+B3 | "C"AGE | ("G"D3 | D)GB | "D"A2d | "A7"^cfe | "D"d>dd | "D7"z^c/2d/2 e/2f/2 | 
+"G".g!>!B>d | .g!>!B>d | "D7"f/2f/2fe | c3 | .f !>!A>c | .f !>!A>c | "G"e/2e/2ed | B^c/2d/2 e/2f/2 | 
+.g!>!B>d | .g!>!B>d | "G7"a/2a/2ag | "C"e3 | "D7"f/2f/2fe | "G"d/2B/2 e/2d/2 c/2B/2 | "D7"Azd | "G"Gzz || [K:C] 
+"C"G2c | c2E | (G3 | G)zG | G2A | A2G | ("G7"G3 | F2)B | d2c | B2A | (F3 | 
+F)zc | B2A | B2A | ("C"G3 | G)zz||  "C"G2c | c2E | (G3 | G)zG | "E7"^G2B | e2d | 
+("Am"c3 | c)B/2c/2 d/2c/2 | "G7"B2A | G/2B/2 df | "C"e2G | c2e | "Dm"d2f | "G7"e2d | ("C"c3 | "_Fine"c)B/2c/2 d/2e/2 || [K:F] 
+"F"f2A | A2B | "C7"A2G | G2d | c2E | GBd | ("F"c3 | c)=B/2c/2 d/2e/2 | 
+f2e | "F7"g2f | "Bb"e2d | def | "F"c2A | "C7"A2G | "F"F3 | F =B/2c/2 d/2"_>Teil C"e/2 |] [K:C] 
+"C"G2c | c2E | (G3 | G)zG | G2A | A2G | ("G7"G3 | F2)B | d2c | B2A | (F3 | 
+F)zc | B2A | B2A | ("C"G3 | G)zz||  "C"G2c | c2E | (G3 | G)zG | "E7"^G2B | e2d | 
+("Am"c3 | c)B/2c/2 d/2c/2 | "G7"B2A | G/2B/2 df | "C"e2G | c2e | "Dm"d2f | "G7"e2d | ("C"c3 | "_Fine"c)zz |] 
+W:Parts: ABCDC
+% wz06047
+X:5
+T:Waldm\"archen-Walzer AD&G (tinwhistle in D)
+T:wz06047 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A%%MIDI gchordon
+EA | "A"c3 | "D"BAF | ("A"E3 | E)Ac | "E7"e3 | Bdf | ("A"e3 | e)EA | 
+c3 | "D"BAF | ("A"E3 | E)Ac | "E"B2e | "B7"^dgf | "E"e>ee | "E7"z^d/2e/2 f/2g/2 | 
+"A".a!>!c>e | .a!>!c>e | "E7"g/2g/2gf | d3 | .g !>!B>d | .g !>!B>d | "A"f/2f/2fe | c^d/2e/2 f/2g/2 | 
+.a!>!c>e | .a!>!c>e | "A7"b/2b/2ba | "D"f3 | "E7"g/2g/2gf | "A"e/2c/2 f/2e/2 d/2c/2 | "E7"Bze | "A"Azz || [K:D] 
+"D"A2d | d2F | (A3 | A)zA | A2B | B2A | ("A7"A3 | G2)c | e2d | c2B | (G3 | 
+G)zd | c2B | c2B | ("D"A3 | A)zz|| "D"A2d | d2F | (A3 | A)zA | "F#7"^A2c | f2e | 
+("Bm"d3 | d)c/2d/2 e/2d/2 | "A7"c2B | A/2c/2 eg | "D"f2A | d2f | "Em"e2g | "A7"f2e | ("D"d3 | "_Fine"d)c/2d/2 e/2f/2 || [K:G] 
+"G"g2B | B2c | "D7"B2A | A2e | d2F | Ace | ("G"d3 | d)^c/2d/2 e/2f/2 | 
+g2f | "G7"a2g | "C"f2e | efg | "G"d2B | "D7"B2A | "G"G3 | G ^c/2d/2 e/2"_>Teil C"f/2 |] [K:D] 
+"D"A2d | d2F | (A3 | A)zA | A2B | B2A | ("A7"A3 | G2)c | e2d | c2B | (G3 | 
+G)zd | c2B | c2B | ("D"A3 | A)zz|| "D"A2d | d2F | (A3 | A)zA | "F#7"^A2c | f2e | 
+("Bm"d3 | d)c/2d/2 e/2d/2 | "A7"c2B | A/2c/2 eg | "D"f2A | d2f | "Em"e2g | "A7"f2e | ("D"d3 | "_Fine"d)zz |] 
+W:Parts: ABCDC
+X:6
+T:Waldm\"archen-Walzer AD&G (tinwhistle in D) solo
+T:wz06047 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:A transpose=12
+EA | c3 | BAF | (E3 | E)Ac | e3 | Bdf | (e3 | e)EA | 
+c3 | BAF | (E3 | E)Ac | B2e | ^d"_#"gf | e>ee | z^d/2e/2 f/2"_#"g/2 | 
+.a!>!c>e | .a!>!c>e | "_#"g/2g/2gf | d3 | "_#".g !>!B>d | "_#".g !>!B>d | f/2f/2fe | c^d/2e/2 f/2"_#"g/2 | 
+.a!>!c>e | .a!>!c>e | b/2b/2ba | f3 | "_#"g/2g/2gf | e/2c/2 f/2e/2 d/2c/2 | Bze | Azz || [K:D] 
+A2d | d2F | (A3 | A)zA | A2B | B2A | (A3 | G2)c | e2d | c2B | (G3 | 
+G)zd | c2B | c2B | (A3 | A)zz|| A2d | d2F | (A3 | A)zA | ^A2c | f2e | 
+(d3 | d)c/2d/2 e/2d/2 | c2B | A/2c/2 eg | f2A | d2f | e2g | f2e | (d3 | "_Fine"d)c/2d/2 e/2f/2 || [K:G] 
+g2B | B2"_c"c | B2A | A2e | d2F | A"_c"ce | (d3 | d)^c/2d/2 e/2f/2 | 
+g2f | a2g | f2e | efg | d2B | B2A | G3 | G ^c/2d/2 e/2"_>Teil C"f/2 |] [K:D] 
+A2d | d2F | (A3 | A)zA | A2B | B2A | (A3 | G2)c | e2d | c2B | (G3 | 
+G)zd | c2B | c2B | (A3 | A)zz|| A2d | d2F | (A3 | A)zA | ^A2c | f2e | 
+(d3 | d)c/2d/2 e/2d/2 | c2B | A/2c/2 eg | f2A | d2f | e2g | f2e | (d3 | "_Fine"d)zz |]
+W:Parts: ABCDC
+% July 13, 2016
+

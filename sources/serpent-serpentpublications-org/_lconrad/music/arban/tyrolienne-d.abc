@@ -1,0 +1,309 @@
+%%partsfont Helvetica 12 
+X: 1
+T:Variations on a Tyrolienne
+T:Introduction
+M:9/8
+L:1/8
+C:Joseph Jean Baptiste Laurent Arban (1825-1889)
+O:From "Method for the Cornet"
+K:D bass
+%1
+"Andante moderato" d6 cf^A | c3 B2 z FBd | f3-fdB gec | B3 ^A2 z z2 z |
+%2
+d5 d ^d3 | {cd}e2 B g3-g2 f | f^eB d3 ^E3 | F3-F2 z z2 z | A3-Afe d{ed}c/2d/2g/2f/2 |
+%3
+^d3 e3 g3/4f/4e3/4d/4c3/4B/4 | B2 A A3 {BA^G}A/2c/2e/2g/2b/2a 
+%Error : Bar 10 is 19/16 not 9/8
+| g3 f3 z2 z | A {B/2A/2}^G/2A/2B/2A/2 d/2A/2f/2d/2"rall."a-a/2g/2f/2e/2d/2c/2 | 
+%4
+^A-A/4B/4c/4B/4 f/4g/4a/4g/4 ^d/4e/4f/4e/4 B/4c/4B/4^A/4 B/4c/4d/4^d/4 e/4d/4c/4d/4 e/2f/2g/2^g/2 | (3aa~^a (3Hb/2=a/2^g/2 (3=g/2f/2e/2 (3d/2c/2B/2 {B}(3~AHf>e 
+%Error : Bar 14 is 7/8 not 9/8
+| d3 
+%Error : Bar 15 is 3/8 not 9/8
+|]
+
+X: 2
+T:
+T:Theme
+M:3/4
+L:1/8
+K:G bass
+%1
+"Andante"z2 d > c Bd b3-a | g-B d3 g | fAcdfa | gB d3-c |
+%2
+Bd b3-a | gB d3 g | fAcdfa | g4 z b | ag e3 ^c | df a3 a | bagA^ce |
+%3
+df d'3b | ag e3 ^c | df a3 a | bagA^ce | d4 d>=c | Bd b3 a | gB d3 g |
+%4
+fAcdfa | gBd3 c | Bd b3 a | gBd3 g | fac'dfa | g4 
+%Error : Bar 23 is 1/2 not 3/4
+|]
+
+X: 3
+T:
+T:Variation I.
+M:3/4
+L:1/8
+K:G bass
+%1
+d>c | (3B-dg b>g (3fge | (3d^ce (3dBG D>G | (3FAc f2 (3aAc |
+%2
+(3Bdg b2 d>c | (3Bdg b>g (3fge | (3d^ce (3dBG D>G | (3FAc (3dfa (3c'fa |
+%3
+g4 
+%Error : Bar 8 is 1/2 not 3/4
+|| b2 
+%Error : Bar 9 is 1/4 not 3/4
+| {B}(3age ^cAc e>c 
+%Error : Bar 10 is 7/8 not 3/4
+| d~f a > a 
+%Error : Bar 11 is 1/2 not 3/4
+| (3bag (3eA^c e>c |
+%4
+(3dfa d' > b 
+%Error : Bar 13 is 1/2 not 3/4
+| {B}(3age (3^cAc e>c | d~f a3 a | (3bag eA^c e>c 
+%Error : Bar 16 is 7/8 not 3/4
+|
+%5
+d4 d>=c | (3Bdg b>g (3 fge | (3d^ce (3dBG D>G | (3FAc f2 (3aAc |
+%6
+(3Bdg 
+%Error : Bar 21 is 1/4 not 3/4
+| b2 d>c 
+%Error : Bar 22 is 1/2 not 3/4
+| (3Bdg "(1)"b3 g2 (3fge 
+%Error : Bar 23 is 9/8 not 3/4
+| (3d^ce (3dBG D>G | (3FAc (3dfa (3c'fa | g4 
+%Error : Bar 26 is 1/2 not 3/4
+|]
+
+%Error : Field not allowed in tune body
+N:sic.  In other words, this one measure is in 4/4 instead of 3/4, but not notated that way.  
+
+X: 4
+T:
+T:Variation II.
+M:3/4
+L:1/8
+K:G bass
+%1
+L:1/16
+d3 c | Bdba gBBd gbe'd' | ^c'd'd'^a abbf fggd |
+cddf fdda addf | gdBc dbca Bgdc | Bdba gBBd gbe'd'
+^c'd'd'^a abbf fggd 
+%Error : Bar 5 is 3/2 not 3/4
+| cddf fdda addf | fgdB G4 
+%Error : Bar 7 is 1/2 not 3/4
+|| b3a 
+%Error : Bar 8 is 1/4 not 3/4
+| a^c' eg ^c4 b3a |
+ad'fa d4 f3 a | a^ccb bcca a3g | fd'd'f faad b3a | a^c'eg ^c4 b3a |
+ad'fa d4 f3a | a^ccb bccb {ab}"rall."a3c | d8 "Tempo I"d3 =c | Bdba gBBd gbe'd' |
+^c'd'd'^a abbf fggd | cddf fdda addf | gdBc dbca Bgdc |
+Bdba gBBd gbe'd' | ^c'd'd'^a abbf fggd | cddf fdda addf | fgdB G4 
+%Error : Bar 24 is 1/2 not 3/4
+|]
+
+X: 5
+T:
+T:Variation III.
+M:3/4
+L:1/16
+K:G bass
+%1
+d3c | BGB dBd gBd gdg bdd add 
+%Error : Bar 1 is 9/8 not 3/4
+| gbagfe dgfedc BdcBAG 
+%Error : Bar 2 is 9/8 not 3/4
+|
+w:l1p238
+%2
+Fddddd cddddd fdd add 
+%Error : Bar 3 is 9/8 not 3/4
+| gfg b^ab d'^c'=c' b=ag fed d^c=c 
+%Error : Bar 4 is 9/8 not 3/4
+| BGB dBd gBd gdg bdd add 
+%Error : Bar 5 is 9/8 not 3/4
+|
+w:l2p238
+%3
+gbagfe dgfedc BdcBAG 
+%Error : Bar 6 is 9/8 not 3/4
+| Fdd ddd cdd ddd fdd add 
+%Error : Bar 7 is 9/8 not 3/4
+| gdd bdd g2 z2 
+%Error : Bar 8 is 5/8 not 3/4
+||
+w:l3p238
+%4
+b3a 
+%Error : Bar 9 is 1/4 not 3/4
+| aaa ad' ^c'c'c' c'>e g4 
+%Error : Bar 10 is 7/8 not 3/4
+| fff fd' aaa a>d f4 
+%Error : Bar 11 is 7/8 not 3/4
+| bbb be ggg g^c eee eA 
+%Error : Bar 12 is 15/16 not 3/4
+|
+w:l4p238
+%5
+d^de =f^fg ^ga^a bc'^c' d'3b 
+%Error : Bar 13 is 1/1 not 3/4
+| aaa ad' ^c'c'c' c'>e g4 
+%Error : Bar 14 is 7/8 not 3/4
+| fff fd' aaa a>d f4 
+%Error : Bar 15 is 7/8 not 3/4
+|
+w:l5p238
+%6
+bbb be ggg g^c eee "rall."ea 
+%Error : Bar 16 is 15/16 not 3/4
+| d8 "tempo I"d3=c || BGB dBd gBd gdg bdd add 
+%Error : Bar 18 is 9/8 not 3/4
+|
+w:l6p238
+%7
+gbagfe dgfedc BdcBAG 
+%Error : Bar 19 is 9/8 not 3/4
+| Fddddd cddddd fdd add 
+%Error : Bar 20 is 9/8 not 3/4
+|
+w:l7p238
+%8
+gfg b^ab d'^c'=c' b=ag fed d^c=c 
+%Error : Bar 21 is 9/8 not 3/4
+| BGB dBd gBd gdg bdd add 
+%Error : Bar 22 is 9/8 not 3/4
+|
+w:l8p238
+%9
+gba gfe dgf edc Bdc BAG 
+%Error : Bar 23 is 9/8 not 3/4
+| Fddddd cddddd fdd add 
+%Error : Bar 24 is 9/8 not 3/4
+| gdd bdd g2 z2 
+%Error : Bar 25 is 5/8 not 3/4
+|]
+w:l9p238
+
+X: 6
+T:
+T:Variation IV.
+M:3/4
+L:1/16
+%%MIDI transpose -24
+K:G bass
+%1
+z4 | GBdgbd' bgdBdB GBdgbd' 
+%Error : Bar 1 is 9/8 not 3/4
+| GBdgbd' bgdBdB GBdgbd' 
+%Error : Bar 2 is 9/8 not 3/4
+|
+w:l
+%2
+c'd'c'bc'b abagag fgfedc 
+%Error : Bar 3 is 9/8 not 3/4
+| BGBdgb d'bgdBG Dddddd 
+%Error : Bar 4 is 9/8 not 3/4
+|
+w:2
+%3
+GBdgbd' bgdBdB GBdgbd' 
+%Error : Bar 5 is 9/8 not 3/4
+| GBdgbd' bgdBdB GBdgbd' 
+%Error : Bar 6 is 9/8 not 3/4
+|
+w:3
+%4
+c'd'c'bc'b abagag fedcBA 
+%Error : Bar 7 is 9/8 not 3/4
+| GBdgbd' G4 
+%Error : Bar 8 is 5/8 not 3/4
+|| z4 
+%Error : Bar 9 is 1/4 not 3/4
+| ^ccc eee ggg aaa ^c'c'c' e'e'e'
+%Error : Bar 10 is 9/8 not 3/4
+|
+w:4
+%5
+d'2 aaa fdd ddd fff aaa 
+%Error : Bar 11 is 17/16 not 3/4
+| gaaaaa eaaaaa ^caaaaa 
+%Error : Bar 12 is 9/8 not 3/4
+|
+w:5
+%6
+daaaaa fddddd fff ddd 
+%Error : Bar 13 is 9/8 not 3/4
+| ^ccc eee ggg aaa ^c'c'c' e'e'e' 
+%Error : Bar 14 is 9/8 not 3/4
+|
+w:6
+%7
+d'2 aaa fdd ddd fff aaa 
+%Error : Bar 15 is 17/16 not 3/4
+| gaaaaa eaaaaa ^caaaaa 
+%Error : Bar 16 is 9/8 not 3/4
+|
+w:7
+%8
+dfffffd4 z4 
+%Error : Bar 17 is 7/8 not 3/4
+| GBdgbd' bgdBdB GBdgbd' 
+%Error : Bar 18 is 9/8 not 3/4
+| GBdgbd' bgdBdB GBdgbd' 
+%Error : Bar 19 is 9/8 not 3/4
+|
+w:8
+%9
+c'd'c'bc'b abagag fgfedc 
+%Error : Bar 20 is 9/8 not 3/4
+| BGBdgb d'bgdBG Dddddd 
+%Error : Bar 21 is 9/8 not 3/4
+| GBdgbd' bgdBdB GBdgbd' 
+%Error : Bar 22 is 9/8 not 3/4
+|
+w:9
+%10
+GBdgbd' bgdBdB GBdgbd' 
+%Error : Bar 23 is 9/8 not 3/4
+| c'd'c'bc'b abagag fedcBA 
+%Error : Bar 24 is 9/8 not 3/4
+| GBdgbd' G4 z4 
+%Error : Bar 25 is 7/8 not 3/4
+|]
+w:10
+
+X: 7
+T:
+T:Rondo
+M:2/4
+L:1/16
+K:G bass
+%1
+"Allegro"d3c | B2d2b2a2 | .g2.B2 d4 | e2d2.A2.f2 | a2g2d3c | B2d2b2a2 | g2B2 d4 | A2c2d2f2 |
+w:l1p239
+%2
+g4 z2 b2 | a2g2e2^c2 | d2f2 a4 | b2a2g2e2 | b2a2f2d2| a2g2e2^c2|d2f2 a4 | {b/2a/2}^g2a2=g2^c2 | d4 z4 | z16 
+%Error : Bar 17 is 1/1 not 2/4
+|
+w:l2p239
+%3
+z4 dedc | Bdgb agfa | gbe'd' c'bag | fdfa gdgb | ad'af dedc | Bdgb agfa |
+w:l3p239
+%4
+gbe'd' c'bag | abc'a gfef | g4 z2 b2 | c'e'd'c' bd'c'b | ac'ba gbag |fdfA gdgb |
+w:l4p239
+%5
+a2de fgab | c'e'd'c' bd'c'b | ac'ba gbag | eac'a gfef | gddd bddd | ad^cd edfd |
+w:l5p239
+%6
+gddd eddd | ^cd=cd BdAd | Gddd bddd | c'd^cd edfd | gddd eddd | ^cd=cd BdAd |
+w:l6p239
+%7
+G2Bd gBdg | bBdg bdgb | d'bgd bgdB | gdBG gdBG | D2dd dddd |
+w:l7p239
+%8
+dddd dddd | g2dd dddd | dddd dddd | g4 z2 a2 | b2a2b2a2 | b4 z4 | d'4 z4 | G8 |]
+

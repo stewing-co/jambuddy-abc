@@ -1,0 +1,70 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Immer lustig (Polka) FBb (pk07294) ABACD
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.278 (pk07294) orig. F,Bb
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACD
+R:Polka
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A] "F"c'/c'/c'/c'/ d'c' | "Bb"b/b/b/d/ ag | ("C7"f/e/).e (b/d/).d | ("F"d/c/).c (a/c/).c | c'/c'/c'/c'/ d'c' | "Bb"b/b/b/d/ ag | 
+("F"f/a/).f/.d/ ("C7"c/d/).B/.G/ | "F"F/A/c/f/ .F2 :| [P:B] "Dm"A/A/A/A/ df | "A7"{/f}ee B2 | A/B/A/c/ eg | "Dm"f/e/d/^c/ dB | A/A/A/A/ df | 
+"C"e/=B/c/A/ G2 |  "F"(^G/A/).A "G7"(^A/=B/)B | "C"c/c/c/c/ cC | c/c/c/c/ cC | c/c/c/c/ cC | c/=B/c/B/ c/B/c/B/ | 
+"C7"c/=B/c/A/ c/B/c/"_>Teil A"A/ || F [K:Bb] [P:C] |:  "Bb"d/d/d/d/ BF | d/d/d/d/ BF | {/F}BD {/D}G>F | "F7"FE EG | 
+e/e/e/e/ cF | "D#0"^F/F/F/F/ "F7"=FA/B/ | c/B/A/G/ F/E/D/C/ |1 "Bb"G^F =FF :|2 "Bb"G^F =FG [P:D] |: "Bb"BA c>B | 
+"F7"AG/^F/  GB | BA d>c | "Bb"cB/A/ BB/c/ | "D7"dA "Gm"B/A/G | "D7"dA "Gm"B/A/G | BG/A/ B/A/B/G/ | 
+{^F}"D7"dd dd | d/d/d/d/ dD | "Bb"d/d/d/d/ dF | d/d/d/d/ BF | d/d/d/d/ BF/F/ | {/F}BD {/D}G>F | 
+"F7"FE EG | "Cm"e/e/e/e/ Ge | "Bb"d/d/d/d/ FB | "F7"(TAF) (TcA) |1 "Bb"BB/A/ BB :|2 "Bb"BB/A/ B2 |]  
+% pk07294
+% May 31, 2017
+
+X:2
+T:Immer lustig (Polka) CF 5- (pk07294) ABACD
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.278 (pk07294) orig. F,Bb
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"g/2g/2g/2g/2 ag | "F"f/2f/2f/2A/2 ed | ("G7"c/2B/2).B (f/2A/2).A | ("C"A/2G/2).G (e/2G/2).G | g/2g/2g/2g/2 ag | "F"f/2f/2f/2A/2 ed | 
+("C"c/2e/2).c/2.A/2 ("G7"G/2A/2).F/2.D/2 | "C"C/2E/2G/2c/2 .C2 :| "Am"E/2E/2E/2E/2 Ac | "E7"{/c}BB F2 | E/2F/2E/2G/2 Bd | "Am"c/2B/2A/2^G/2 AF | E/2E/2E/2E/2 Ac | 
+"G"B/2^F/2G/2E/2 D2 | "C"(^D/2E/2).E "D7"(^E/2^F/2)F | "G"G/2G/2G/2G/2 GG, | G/2G/2G/2G/2 GG, | G/2G/2G/2G/2 GG, | G/2^F/2G/2F/2 G/2F/2G/2F/2 | 
+"G7"G/2^F/2G/2E/2 G/2F/2G/2"_>Teil A"E/2 || C [K:Fmaj] |: "F"A/2A/2A/2A/2 FC | A/2A/2A/2A/2 FC | {/C}FA, {/A,}D>C | "C7"CB, B,D | 
+B/2B/2B/2B/2 GC | "A#0"^C/2C/2C/2C/2 "C7"=CE/2F/2 | G/2F/2E/2D/2 C/2B,/2A,/2G,/2 |1 "F"D^C =CC :|2 "F"D^C =CD |: "F"FE G>F | 
+"C7"ED/2^C/2 DF | FE A>G | "F"GF/2E/2 FF/2G/2 | "A7"AE "Dm"F/2E/2D | "A7"AE "Dm"F/2E/2D | FD/2E/2 F/2E/2F/2D/2 | 
+{^C}"A7"AA AA | A/2A/2A/2A/2 AA, | "F"A/2A/2A/2A/2 AC | A/2A/2A/2A/2 FC | A/2A/2A/2A/2 FC/2C/2 | {/C}FA, {/A,}D>C | 
+"C7"CB, B,D | "Gm"B/2B/2B/2B/2 DB | "F"A/2A/2A/2A/2 CF | "C7"(TEC) (TGE) |1 "F"FF/2E/2 FF :|2 "F"FF/2E/2 "_Fine"F2 |] 
+W:Parts: ABACD
+% pk07294
+% May 31, 2017
+
+X:3
+T:Immer lustig (Polka) GC 2+ (pk07294) ABACD
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.278 (pk07294) orig. F,Bb
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Polka
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"d'/2d'/2d'/2d'/2 e'd' | "C"c'/2c'/2c'/2e/2 ba | ("D7"g/2f/2).f (c'/2e/2).e | ("G"e/2d/2).d (b/2d/2).d | d'/2d'/2d'/2d'/2 e'd' | "C"c'/2c'/2c'/2e/2 ba | 
+("G"g/2b/2).g/2.e/2 ("D7"d/2e/2).c/2.A/2 | "G"G/2B/2d/2g/2 .G2 :| "Em"B/2B/2B/2B/2 eg | "B7"{/g}ff c2 | B/2c/2B/2d/2 fa | "Em"g/2f/2e/2^d/2 ec | B/2B/2B/2B/2 eg | 
+"D"f/2^c/2d/2B/2 A2 | "G"(^A/2B/2).B "A7"(^B/2^c/2)c | "D"d/2d/2d/2d/2 dD | d/2d/2d/2d/2 dD | d/2d/2d/2d/2 dD | d/2^c/2d/2c/2 d/2c/2d/2c/2 | 
+"D7"d/2^c/2d/2B/2 d/2c/2d/2"_>Teil A"B/2 || G [K:Cmaj] |: "C"e/2e/2e/2e/2 cG | e/2e/2e/2e/2 cG | {/G}cE {/E}A>G | "G7"GF FA | 
+f/2f/2f/2f/2 dG | "E#0"^G/2G/2G/2G/2 "G7"=GB/2c/2 | d/2c/2B/2A/2 G/2F/2E/2D/2 |1 "C"A^G =GG :|2 "C"A^G =GA |: "C"cB d>c | 
+"G7"BA/2^G/2 Ac | cB e>d | "C"dc/2B/2 cc/2d/2 | "E7"eB "Am"c/2B/2A | "E7"eB "Am"c/2B/2A | cA/2B/2 c/2B/2c/2A/2 | 
+{^G}"E7"ee ee | e/2e/2e/2e/2 eE | "C"e/2e/2e/2e/2 eG | e/2e/2e/2e/2 cG | e/2e/2e/2e/2 cG/2G/2 | {/G}cE {/E}A>G | 
+"G7"GF FA | "Dm"f/2f/2f/2f/2 Af | "C"e/2e/2e/2e/2 Gc | "G7"(TBG) (TdB) |1 "C"cc/2B/2 cc :|2 "C"cc/2B/2 "_Fine"c2 |] 
+W:Parts: ABACD
+% pk07294
+% May 31, 2017

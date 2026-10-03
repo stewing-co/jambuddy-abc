@@ -1,0 +1,20 @@
+X:907
+T:N.9 Duo de Josepha e Ambrosio
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:F
+V: 7 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%--------------------
+[Q:"Andante"]
+[^CF]GF E{G}FE | D2zz2z || AGF- FGA | (AG/F/E-E3) |  GFE- EFG | GF/E/D-D3 | \
+FED- DFG | AG/F/E-E3 | E^F^G- GA=B | ((3=B/^c/B/)A-A-A3| AGF- FGA | AG/F/E-E3|  GFE- E(FG) | \
+GF/E/D-D3 | FED- DFG | AG/F/E- E3 | A=BA (3A/B/A/^FE || \
+[K:D] [Q:"Piu mosso"] z!>![A,DF]2z[A,DF]2 |: z!>![A,DF]2z!>![A,DF]2 | z!>![A,CG]2z!>![A,CG]2 | \
+z!>![A,CG]2z!>![A,CG]2 | z!>![A,DF]2z!>![A,DF]2 | z!>![A,DF]2z!>![A,DF]2 | z!>![A,CG]2z!>![A,CG]2 | \
+z!>![A,CG]2z!>![A,CG]2 | z!>![A,DF]2z!>![A,DF]2 :| \
+B^AB dcB & (G6| d(c/2B/2)A-A3 & (F6) | cBA GAB & (G6) | BA/2G/2F-F3 & (F6)| B^AB edB & (G6) | d(c/2B/2)A-A2B & (F6)| \
+cBA ((3G/2A/2G/)FE & (G6) | D !ff! A/d/f/d/ [Aca][Aca][Aca] & x6)| [FAd]2zz[fdA]2 | D3-Dzz |] \
+%---

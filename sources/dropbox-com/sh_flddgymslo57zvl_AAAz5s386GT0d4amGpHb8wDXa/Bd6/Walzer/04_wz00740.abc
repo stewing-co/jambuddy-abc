@@ -1,0 +1,98 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Adam-und-Eva-Walzer  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.167 (wz00740) orig. C-Dur
+T: Zermatter T\"anze. S.166-177.\"Uberliefert durch Moritz Perren, "Hofmuri", 1874-1952.
+%%MIDI program 21
+M:3/4
+L:1/4
+R:waltz
+K:C %%MIDI gchordon
+G|: "C"EFG | EFG | "F"A>AA | AzA | A>AA | cBA | 
+"C"AG/^F/ G/A/ | GzG/A/ | "G7"GFF | d2F/"_ ="G/ | "C"FEE | c2E | "G7"DB>A | [L:1/8]
+GA GF ED |1 "C"CE DC B,A, | "G7"G,2z2G2 :|2 "C"CE GC EG | c2zGAB |: "C"c2EG E"_ ="G | "G7"AG FG FG | 
+AG FG FG | "C"cG EG EG | c2EG EG | "G7"AG FG FG | AG FG AB |1 "C"c2zGAB :|2 c2z2z2 |]  
+% wz00740
+X:2
+T:Adam-und-Eva-Walzer  F 5+
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+c|: "F"ABc | AB"_ ="c | "Bb"d>dd | dzd | d>dd | fed | 
+"F"dc/2=B/2 c/2d/2 | czc/2"_ ="d/2 | "C7"cBB | g2B/2c/2 | "F"BAA | f2A | "C7"Ge>d | [L:1/8]
+cd cB AG |1 "F"FA GF ED | "C7"C2z2c2 :|2 "F"FA cF Ac | f2zcde |: "F"f2Ac A"_ ="c | "C7"dc Bc Bc | 
+dc Bc Bc | "F"fc Ac Ac | f2Ac A"_ ="c | "C7"dc Bc Bc | dc Bc de |1 "F"f2zcde :|2 f2z2z2 |] 
+% wz00740
+X:3
+T:Adam-und-Eva-Walzer  G 7+
+%%MIDI program 21
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+d|: "G"Bcd | Bcd | "C"e>ee | eze | e>ee | g"_#"fe | 
+"G"ed/2^c/2 d/2e/2 | dzd/2e/2 | "D7"dcc | a2c/2d/2 | "G"cBB | g2"_ ="B | "D7"Af>e | [L:1/8]
+de dc BA |1 "G"GB AG FE | "D7"D2z2d2 :|2 "G"GB dG Bd | g2zdef |: "G"g2Bd Bd | "D7"ed cd cd | 
+ed cd cd | "G"gd Bd Bd | g2Bd Bd | "D7"ed cd cd | ed cd ef |1 "G"g2zdef :|2 g2z2z2 |] 
+% wz00740
+X: 4
+T: Adam-und-Eva-Walzer  C (5letras transposed)
+%%MIDI program 21
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+G|: "C"EFG | EFG | "F"A>AA | AzA | A>AA | cBA | 
+"C"AG/^F/ G/A/ | GzG/A/ | "G7"GFF | d2F/G/ | "C"FEE | c2E | "G7"DB>A | [L:1/8]
+GA GF ED |1 "C"CE DC B,A, | "G7"G,2z2G2 :|2 "C"CE GC EG | c2zGAB |: "C"c2EG EG | "G7"AG FG FG | 
+AG FG FG | "C"cG EG EG | c2EG EG | "G7"AG FG FG | AG FG AB |1 "C"c2zGAB :|2 c2z2z2 |]  
+% wz00740
+X:5
+T:Adam-und-Eva-Walzer  F (5letras transposed)
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+c|: "F"ABc | ABc | "Bb"d>dd | dzd | d>dd | fed | 
+"F"dc/2=B/2 c/2d/2 | czc/2d/2 | "C7"cBB | g2B/2c/2 | "F"BAA | f2A | "C7"Ge>d | [L:1/8]
+cd cB AG |1 "F"FA GF ED | "C7"C2z2c2 :|2 "F"FA cF Ac | f2zcde |: "F"f2Ac Ac | "C7"dc Bc Bc | 
+dc Bc Bc | "F"fc Ac Ac | f2Ac Ac | "C7"dc Bc Bc | dc Bc de |1 "F"f2zcde :|2 f2z2z2 |] 
+% wz00740
+X:6
+T:Adam-und-Eva-Walzer  G (5letras transposed)
+%%MIDI program 21
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+d|: "G"Bcd | Bcd | "C"e>ee | eze | e>ee | gfe | 
+"G"ed/2^c/2 d/2e/2 | dzd/2e/2 | "D7"dcc | a2c/2d/2 | "G"cBB | g2B | "D7"Af>e | [L:1/8]
+de dc BA |1 "G"GB AG FE | "D7"D2z2d2 :|2 "G"GB dG Bd | g2zdef |: "G"g2Bd Bd | "D7"ed cd cd | 
+ed cd cd | "G"gd Bd Bd | g2Bd Bd | "D7"ed cd cd | ed cd ef |1 "G"g2zdef :|2 g2z2z2 |] 
+% wz00740
+X:7
+T:Adam-und-Eva-Walzer D (tinwhistle in D)
+T:wz00740 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/4
+K:Dmaj%%MIDI gchordon
+A|: "D"FGA | FGA | "G"B>BB | BzB | B>BB | dcB | 
+"D"BA/2^G/2 A/2B/2 | AzA/2B/2 | "A7"AGG | e2G/2A/2 | "D"GFF | d2F | "A7"Ec>B | [L:1/8]
+AB AG FE |1 "D"DF ED CB, | "A7"A,2z2A2 :|2 "D"DF AD FA | d2zABc |: "D"d2FA FA | "A7"BA GA GA | 
+BA GA GA | "D"dA FA FA | d2FA FA | "A7"BA GA GA | BA GA Bc |1 "D"d2zABc :|2 d2z2z2 |] 
+X:8
+T:Adam-und-Eva-Walzer D (tinwhistle in D) solo
+T:wz00740 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/4
+K:D transpose=12
+A|: "D"FGA | FGA | "G"B>BB | BzB | B>BB | dcB | 
+"D"BA/2^G/2 A/2B/2 | AzA/2B/2 | "A7"AGG | e2G/2A/2 | "D"GFF | d2F | "A7"Ec>B | [L:1/8]
+AB AG FE |1 "D"DF ED "_?"CB, | "A7"A,2z2A2 :|2 "D"DF AD FA | d2zABc |: "D"d2FA FA | "A7"BA GA GA | 
+BA GA GA | "D"dA FA FA | d2FA FA | "A7"BA GA GA | BA GA Bc |1 "D"d2zABc :|2 d2z2z2 |] 
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 17, 2016

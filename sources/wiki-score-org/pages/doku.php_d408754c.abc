@@ -1,0 +1,33 @@
+X:2509
+T:Aria Euridice
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:A
+V: 9 clef=treble name="Oboe I" sname="Ob.I"
+%%MIDI program 1 68
+%%staves [( 9 )]
+%-----------------------
+[Q:"Maestoso"]e2(^d/e/f/e/) | (e>^d) (=d>c) | \
+{e}dc2B | c/d/ez/c/e/a/ | ga3//c'//az | f4 | \
+e4 | ga3//b// d'/c'b/ | za3//c'//a2| (f4 | e4) | a4 | ggez | \
+Z3 | z/a/a/a/az | Z2 | f3/b/ag | \
+a2=g2 | f2^g2 | az/g/ .a/.g/.a/.g/ | az/g/ a/g/a/g/ | aaaz | \
+Z3 | z/a/a/a/az | za3//c'//az | Z2 | \
+Z | z/a/(c/d/ e/)(a/g/=g/) | f z z2 | Z2 | z/a/ez2 | \
+Z | z/a/ez2 | z4 | !fermata! z4 | b/b/ z/a/ g/g/a/c'/ | bagz | \
+Z2 |  b/b/ z/a/ g/g/a/c'/ | bagz |
+Z8 | z/a/f/e/^d z | Z6 | \
+Z | Z |g4 | f4 | e/b/b2b| a/a/a2a | g/z/(e^dc) | \
+B(cBA) | Ge2f | g2f2 | egez | \
+Z | (B4 | B2)z2 | B4 | \
+=c4 -| c4 | BEEE| E4 | Z11|\
+^c4 | d4 | ^d4 | e/b/g/b/ e z | Z | g/a/ b z2 | Z | geez | \
+Z3 | z/a/a/a/ az| z a/>c'/ az| Z3 | (c/a/c/d/) (e/a/g/=g/) | \
+f z z2 | Z3 | z/a/a/a/ az| d2 f a | fffz | f4 | g4- | g4 | \
+zffz | Z3 | z/g/g z/g/g | z/a/ (adc) | B z z/g/g |\
+z/a/ a d c | Z | e4 | f z z2 | !f! a2 =g2 | f ^g2 b | a2 =g2 |f ^g2 b | a4 | a4 | !fermata! g2 z2 | \
+Z7 | e4- | e4 | e z =g2 | f z z2 | c2 B2 | A/a/a/a/ a2 | z/b/b/b/ b2 | \
+z/c'/c'/c'/ c'2 | f2 ^g2 | a4 | e !fermata! z z2 | a2 g2 | a2 g2 | ac'ac' |aaaz |]\
+%????? z/C//C// C/C/ C2 | z/C//C// C/C/ C2 | EGEG | EEE z ||
+%-----------------------

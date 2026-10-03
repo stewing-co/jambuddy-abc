@@ -1,0 +1,68 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Schottisch  FC
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.209 (st09378) orig. F,C
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"C7"b>g ee | "F"f>c AA | "Bb"B/d/d "C7"c/e/e | "F"f/c/f/a/ c'>a | "C7"b>g ee |  "F"f>c AA | "Bb"B/d/d "C7"c/e/e | "F"fa fz :: [K:C] 
+"C"ge/g/ ge | "tr""Dm/F"ed d/^c/d | "G7"d'g ab | "C"c'b/a/ ge | ge/f/ ge | "tr""Dm/F"ed d/^c/d | "G7"d'g ^f/g/a/b/ | "C"c'g/e/ cz :| 
+% st09378
+X:2
+T:Schottisch  CG 5-
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"G7"f>d BB | "C"c>G EE | "F"F/2A/2A "G7"G/2B/2B | "C"c/2G/2c/2e/2 g>e | "G7"f>d BB | "C"c>G EE | "F"F/2A/2A "G7"G/2B/2B | "C"ce cz :: [K:G] 
+"G"dB/2d/2 dB | "tr""Am/C"BA A/2^G/2A | "D7"ad ef | "G"gf/2e/2 dB | dB/2c/2 dB | "tr""Am/C"BA A/2^G/2A | "D7"ad ^c/2d/2e/2f/2 | "G"gd/2B/2 Gz :| 
+% st09378
+X:3
+T:Schottisch  FC (5letras transposed)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"C7"b>g ee | "F"f>c AA | "Bb"B/d/d "C7"c/e/e | "F"f/c/f/a/ c'>a | "C7"b>g ee |  "F"f>c AA | "Bb"B/d/d "C7"c/e/e | "F"fa fz :: [K:C] 
+"C"ge/g/ ge | "tr""Dm/F"ed d/^c/d | "G7"d'g ab | "C"c'b/a/ ge | ge/f/ ge | "tr""Dm/F"ed d/^c/d | "G7"d'g ^f/g/a/b/ | "C"c'g/e/ cz :| 
+% st09378
+X:4
+T:Schottisch  CG (5letras transposed)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"G7"f>d BB | "C"c>G EE | "F"F/2A/2A "G7"G/2B/2B | "C"c/2G/2c/2e/2 g>e | "G7"f>d BB | "C"c>G EE | "F"F/2A/2A "G7"G/2B/2B | "C"ce cz :: [K:G] 
+"G"dB/2d/2 dB | "tr""Am/C"BA A/2^G/2A | "D7"ad ef | "G"gf/2e/2 dB | dB/2c/2 dB | "tr""Am/C"BA A/2^G/2A | "D7"ad ^c/2d/2e/2f/2 | "G"gd/2B/2 Gz :| 
+% st09378
+X:5
+T:Schottisch D&A (tinwhistle in D)
+T:st09378 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottische
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"A7"g>e cc | "D"d>A FF | "G"G/2B/2B "A7"A/2c/2c | "D"d/2A/2d/2f/2 a>f | "A7"g>e cc | "D"d>A FF | "G"G/2B/2B "A7"A/2c/2c | "D"df dz :: [K:A] 
+"A"ec/2e/2 ec | "tr""Bm/D"cB B/2^A/2B | "E7"be fg | "A"ag/2f/2 ec | ec/2d/2 ec | "tr""Bm/D"cB B/2^A/2B | "E7"be ^d/2e/2f/2g/2 | "A"ae/2c/2 Az :| 
+% st09378
+X:6
+T:Schottisch D&A (tinwhistle in D) solo
+T:st09378 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottische
+M:2/4
+L:1/8
+K:D transpose=12
+g>e cc | d>A FF | G/2B/2B A/2c/2c | d/2A/2d/2f/2 a>f | g>e cc | d>A FF | G/2B/2B A/2c/2c | df dz :: [K:A] 
+ec/2e/2 ec | TcB B/2^A/2B | be f"_#"g | a"_#"g/2f/2 ec | ec/2d/2 ec | TcB B/2^A/2B | be ^d/2e/2f/2"_#"g/2 | ae/2c/2 Az :|
+% st09378
+% Sep. 5, 2016

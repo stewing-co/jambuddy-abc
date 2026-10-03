@@ -1,0 +1,67 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Walzer FC
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.185 (wz09312) orig. F,C
+T: \"Uberliefert durch Lina Krupski-Herger (1946), Lehrer Leuthold (1945), Edy Lussy und Melk Rohrer (1949)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+c |: "F"f/f/ fg | azc | a/a/ab | "C7"gzc | e/e/ef | gzc | g/g/ga | "F"fzc | f/f/fg | azc | a/a/ab | 
+"C7"gzc | g/g/gb | "F"f/f/fa | "C7"e/e/eg |1 "F"fzc :|2 "F"fzz |: [K:C] "C"c3 | (egc') | "tr""Dm"bza | d3 | "G7"b2a | g2f | 
+"C"a2g | e3 | c3 | egc' | "Dm"bza | d3 | "G7"b2a | f2B | ("C"c3 | c)zz :: [K:F] "C7"c2a | a2g | "F"g2f | 
+f2c' | "C7"c'2e | e2c' | "F"c'2f | f2a | "C7"c2a | a2g | "F"g2f | f2c' | "C7"c'2e | a2g | ("F"f3 | f)zz :| 
+% wz09312 (H 335/TN 8)
+X:2
+T:Walzer CG 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G |: "C"c/2c/2 cd | ezG | e/2e/2ef | "G7"dzG | B/2B/2Bc | dzG | d/2d/2de | "C"czG | c/2c/2cd | ezG | e/2e/2ef | 
+"G7"dzG | d/2d/2df | "C"c/2c/2ce | "G7"B/2B/2Bd |1 "C"czG :|2 "C"czz |: [K:G] "G"G3 | (Bdg) | "tr""Am"fze | A3 | "D7"f2e | d2c | 
+"G"e2d | B3 | G3 | Bdg | "Am"fze | A3 | "D7"f2e | c2F | ("G"G3 | G)zz :: [K:C] "G7"G2e | e2d | "C"d2c | 
+c2g | "G7"g2B | B2g | "C"g2c | c2e | "G7"G2e | e2d | "C"d2c | c2g | "G7"g2B | e2d | ("C"c3 | c)zz :| 
+% wz09312
+X:3
+T:Walzer FC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+c |: "F"f/f/ fg | azc | a/a/ab | "C7"gzc | e/e/ef | gzc | g/g/ga | "F"fzc | f/f/fg | azc | a/a/ab | 
+"C7"gzc | g/g/gb | "F"f/f/fa | "C7"e/e/eg |1 "F"fzc :|2 "F"fzz |: [K:C] "C"c3 | (egc') | "tr""Dm"bza | d3 | "G7"b2a | g2f | 
+"C"a2g | e3 | c3 | egc' | "Dm"bza | d3 | "G7"b2a | f2B | ("C"c3 | c)zz :: [K:F] "C7"c2a | a2g | "F"g2f | 
+f2c' | "C7"c'2e | e2c' | "F"c'2f | f2a | "C7"c2a | a2g | "F"g2f | f2c' | "C7"c'2e | a2g | ("F"f3 | f)zz :| 
+% wz09312 (H 335/TN 8)
+X:4
+T:Walzer CG (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+G |: "C"c/2c/2 cd | ezG | e/2e/2ef | "G7"dzG | B/2B/2Bc | dzG | d/2d/2de | "C"czG | c/2c/2cd | ezG | e/2e/2ef | 
+"G7"dzG | d/2d/2df | "C"c/2c/2ce | "G7"B/2B/2Bd |1 "C"czG :|2 "C"czz |: [K:G] "G"G3 | (Bdg) | "tr""Am"fze | A3 | "D7"f2e | d2c | 
+"G"e2d | B3 | G3 | Bdg | "Am"fze | A3 | "D7"f2e | c2F | ("G"G3 | G)zz :: [K:C] "G7"G2e | e2d | "C"d2c | 
+c2g | "G7"g2B | B2g | "C"g2c | c2e | "G7"G2e | e2d | "C"d2c | c2g | "G7"g2B | e2d | ("C"c3 | c)zz :| 
+% wz09312
+X:5
+T:Walzer G&D (tinwhistle in D) solo
+T:wz09312 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=12
+D |: G/2G/2 GA | BzD | B/2B/2Bc | AzD | F/2F/2FG | AzD | A/2A/2AB | GzD | G/2G/2GA | BzD | B/2B/2Bc | 
+AzD | A/2A/2Ac | G/2G/2GB | F/2F/2FA |1 GzD :|2 Gzz |: [K:D] D3 | (FAd) | czB | E3 | c2B | A2G | 
+B2A | F3 | D3 | FAd | czB | E3 | c2B | G2C | (D3 | D)zz :: [K:G] D2B | B2A | A2G | 
+G2d | d2F | F2d | d2G | G2B | D2B | B2A | A2G | G2d | d2F | B2A | (G3 | G)zz :|
+% wz09312
+% Sep 10, 2016

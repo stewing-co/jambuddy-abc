@@ -1,0 +1,225 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XVII. Where Sinne sore wounding,
+T:CANTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:G dor
+z8 | z8 | d4 d6 d2 | c3 d _e4 d8 |
+w: Where Sinne sore woun- * * ding,
+w: Though Sinne of- fend- * * ing 
+w: The wound Sinne gave * * me
+w: sinnes stripe is heal- * * ed
+f2 f > f e d c2 | =B2
+w: dai- ly doth * op- presse me,
+w: dai- ly doth * tor- ment me,
+w: was of Death * as- sur- ed,
+w: and his sting * a- ba- ted,
+z2 "?"z2 d2 d3 d | g4 f f2 g a3 e z2 f4 d2 | z2 g4 d2 | f3 d c B2 A B4
+w: There Grace a-  bound- ing, Grace a- bound- ing, free- ly, free- ly  doth re- * dresse * mee:
+w: Yet Grace a- mend- ing, Grace a- mend- ing, since I, since I doe re- * pent * mee,
+w: Did not Grace save mee, Grace * save mee, where- by, where- by it is * cur- * ed:
+w: Deaths mouth is seal- ed, mouth is seal- ed, and the, and the Grave a- * ma- * ted,
+|:A2 B3 c2 A2 B z A/ A/ | B c d2 ^c4 |
+w: So that re- sound- ing still I shall con- fesse thee,
+w:At my lives end- ing will I hope pre- sent mee
+w:So thou wilt have mee to thy love in- ur- red
+w:Thy Love re- veal- ed, and they Grace re- lat- ed
+z f2 e z d > ^c d B2 A2 |
+w: Fa- ther, Fa- ther of mer- cy, 
+w: Cleare to, cleare to thy mer- cy,
+w:free, * free with- out me- rit,
+w:Gives me, gives me this spi- rit,
+z g > g d _e > e d =B | 
+w: Fa- ther  of mer- cy, mer- cy, 
+w: Cleare to thy mer- cy, mer- cy,
+w:free with- out me- rit, me- rit,
+w:Gives me this spi- rit, spi- rit,
+c/ c/ d e > f | Hd8 :|
+w: Fa- ther of mer- * cy.
+w: Cleare to thy mer- * cy.
+w:free with- out me- * it
+w:Gives me this spi- * rit.
+
+
+
+
+
+
+
+X:2
+T:XVII. Where Sinne sore wounding,
+T:ALTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on fourth line
+K:G dor
+G4 G2 G2 ^F3 G A ^F B2 A4 G6
+w: Where Sinne sore woun- * * ding, sore woun- ding,
+w: Though Sinne of- fend- * * ing, of- fend- ing 
+w: The wound Sinne gave * * me, Sinne gave me
+w: sinnes stripe is heal- * * ed, is heal- ed
+z D _E3 F G4 G8 A2 A A > G G2 ^F G2
+w: sinne sore woun- * ding dai- ly doth op- presse * me,
+w: sinne of- fend- * ing dai- ly doth tor- ment * me,
+w: wound sinne gave * me was of Death as- sur- * ed,
+w: stripe is heal- * ed and his sting a- ba- * ted,
+D2 D D2 B2 A/ c/ B/ G/ B2 A G F/ E/ A3 G F2 E G F2 D2 z2 B4 G2 z B2 G A/ B/ c G B A F G F/ _E/ D4
+w: There Grace a-  bound- ing, a- bound- ing, Grace a- bound- * ing Grace a- bound- ing, a- bound- ing, free- ly, free- ly doth * * re- * dresse, re- dresse * * mee:
+w: Yet Grace a- mend- ing, a- mend- ing, Grace a- mend- * ing, Grace a- mend- ing, a- mend- ing since I, since I  doe * * re- * pent, re- pent * * mee,
+w: Did not Grace save mee, Grace save me, Grace save * * mee, Grace save * mee, Grace save me where- by, where- by  it is * * cur- * ed, cur- ed: * *
+w: Deaths mouth is seal- ed, is seal- ed, Deaths mouth is seal- ed, mouth is seal- ed, is seal- ed and the, and the  Grave * * a- * ma- ted, a- mat-  * ed,
+|:D4 G2 G ^F2 G z ^F/ ^F/ G A A G A2
+w: So that re- sound- ing still I shall con- fesse * thee,
+w:At my lives end- ing will I hope pre- sent * mee
+w:So thou wilt have mee to thy love in- ur- * red
+w:Thy Love re- veal- ed, and they Grace re- la- * ted
+z A2 A > B c F > G A2 D G > G "(2)"F B, _E "(1)"D
+N:(1) facsimile has a half note
+N:(2) facsimile has a half note
+w: Fa- ther of * mer- cy, mer- cy, 
+w: cleare  to thy * mer- cy,  mer- cy,
+w:free with- out * me- rit, me- rit,
+w:Gives me this * spi- rit,  spi- rit,
+z C =B,/ G,/ G > G G2 c3 - c/ c/ =B A H=B4 :|
+w: Fa- ther of mer- * cy, Fa- ther of mer-  cy, of mer- cy, mer- * * cy.
+w: Cleare to thy mer- * cy, Cleare to thy mer-  cy, thy mer- cy, mer- * * cy.
+w:free with- out me- * rit, free with- out mer- it, mer- * it, mer- * * it.
+w:Gives me this spi- * rit, Gives me this spi-  rit, this spi- rit, spi- * * rit.
+
+X:3
+T:XVII. Where Sinne sore wounding,
+T:TENOR.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -12
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on third line
+K:G dor -8va
+z8 z4 z2 g4 ^f2 z =B2 c2 =B/ A/ =B2 c > d _e3 d c3 c =B A =B4
+w: Where Sinne, where Sinne  sore * * woun- * * ding, sore woun- * * ding
+w: Though Sinne, though Sinne of- * * fend- * * ing, of- fend- * * ding
+w: The wound, the wound Sinne * * gave * * me,  Sinne gave * * me
+w: sinnes stripe, sinnes stripe  is * * heal- * * ed,  is heal- * * ed
+d3 d c B A2 G2
+w: dai- ly doth op- presse me,
+w: dai- ly doth tor- ment me,
+w: was of Death as- sur- ed,
+w: and his sting a- ba- ted,
+B2 B2 G d2 d d3 ^c/ =B/ ^c2 d2 A2 z2 A2 A B2 A d d > e f/ d/ g2 _e2 d > c B B c A d f > c d _e c B4
+w: There Grace a-  bound- ing, Grace a- * * bound- ing, free- ly, free- ly doth re- * * * dresse mee, free- ly, free- ly doth re- dresse, doth re- * dresse * mee:
+w: Yet Grace a- mend- ing, Grace a- * * mend- ing,  since I, since I doe re- * * * pent mee, since I, since I doe re- pent, do re- * pent * mee,
+w: Did not Grace save mee, Grace not * * save me,  where- by, where- by it is * * * cur- ed, where- by, where- by it is cured, it is cur- * * ed:
+w: Deaths mouth is seal- ed, mouth is * * seal- ed, and the, and the Grave a- * * * ma- ted, and the, and the Grave,  * the Grave * a- * ma- ted,
+|:f4 _e2 c d2 G z d/ d/ d f > e d e4
+w: So that re- sound- ing still I shall con- fesse * thee,
+w:At my lives end- ing will I hope pre- sent * mee
+w:So thou wilt have mee to thy love in- ur- * red
+w:Thy Love re- veal- ed, and they Grace re- lat- * ed
+d2 d/ d/ A B > B "?"^A F G > G 
+w:  Fa- * ther of mer- cy, mer- * * cy,
+w: Cleare * to thy mer- cy, mer- * * cy,
+w:free * with- out me- rit, mer- * * it,
+w:Gives * me this spi- rit, spir- * * it,
+z d > c c c =B c g > g d _e d g2 Hg8 :|
+w: Fa- ther of mer- * cy, Fa- ther of mer- cy, mer- cy.
+w: Cleare to thy mer- * cy, cleare to thy mer- cy, mer- cy.
+w:free with- out me- * rit, free with- out mer- it, mer- it.
+w:Gives me this spi- * rit, gives me this spi- rit, spi- rit.
+
+X:4
+T:XVII. Where Sinne sore wounding,
+T:BASSUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:C
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%MIDI transpose -24
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, F on third line
+K:G dor bass
+z8 d'4 d'4 d'4 a6 a2 c8 g8
+w: Where Sinne sore woun- ding, woun- ding
+w: Though Sinne of- fend- ing, fend- ing
+w: The wound Sinne gave me, gave me
+w: sinnes stripe is heal- ed, heal- ed
+z4 z4 z2 z g g3 g ^f2 g > f e4 d4 d2 ^c2 d3 c B3 B _e3 f g4 f > e d c/ B/ f d c f B4
+w: There Grace a-  bound- ing, a- bound- ing,  free- ly, free- ly doth re- dresse * mee, free- ly, free- * ly doth re- dresse * mee:
+w: Yet Grace a- mend- ing, a- mend- ing, since I, since I doe re- pent * mee, since I, since * I doe re- pent * mee:
+w: Did not Grace save mee, Grace save mee, where- by, where- by it is cur- *  ed, where- by, where- * by it is cur- * ed:
+w: Deaths mouth is seal- ed, is seal- ed, and the, and the Grave a- ma- * ted, and the, and * the Grave a- mat- * ed,
+|: z8 z2 z d/ d/ g f b2 a4
+w: still I shall con- fesse thee,
+w:will I hope pre- sent mee
+w: to thy love in- ur- red
+w:and thy Grace re- lat- ed
+z4 z4 z g  > g d _e c g2 c2 
+w: Fa- ther of mer- cy, mer- cy,
+w:  Cleare to thy mer- cy, mer- cy,
+w:free with- out me- rit, me- rit,
+w:Gives me this spi- rit, me- rit
+g g/ g/ c' =b c' c Hg8 :|
+w: Fa- ther of mer- cy, mer- * cy.
+w: Cleare to thy mer- cy, mer- * cy.
+w:free with- out me- rit, mer- * it.
+w:Gives me this spi- rit, spi- * it.
+ 

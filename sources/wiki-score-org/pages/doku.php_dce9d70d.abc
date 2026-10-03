@@ -1,0 +1,26 @@
+X:2501
+T:Aria Euridice
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:A
+V: 1 clef=alto name="Corno I" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 1 )]
+%-----------------------
+"^Lamire"[Q:"Maestoso"][K:alto1][K:C] z/A/A/A/ Az | A4 | z c2B | !/! A2 A z | z A/>c/ Az | z/A/A/A/ A z | \
+z/A/A/A/ A z | B c/>d/ z/e d/ | z A/>c/ A z | z/A/A/A/ A z | z/A/A/A/ A z | A4 | EEEz | Z3 | \
+z/A/A/A/ A z | Z2 |  z2 cB | "_[check]" A/A/ A z/A/ A | z/A/ AA2 | "_[check]" A/c/A/c/ c/B/c/B/ | \
+A/c/A/c/ c/B/c/B/ | !p! AAAz | Z3 | z/!f!A/E/C/ A, z | z A/>c/ Az | Z3 | !f! A4 | Z3 | z/c/Az2 | Z | z/c/Az2 | Z2 | \
+"^Cor Elami" [K:bass] B,/B,/ z/A,/ G,/G,/A,/C/ | B,A,G,z | Z2 | B,/B,/ z/A,/ G,/G,/A,/C/ | B,A,G,z | Z8 | \
+z/E,/E,/E,/ E, z | z2 F,2 | E,zz2 | Z | E,4- |  E,4- |  E,4 | \
+F,2 E, z | Z | !p! G,4 | F,4 | !f! E,/E,/ E,3 | F,4 | E,4- | E,4 | E,zz2 | G,2 F,2 | E,E,E,z | \
+Z | !p! E,4- | E,4- | E,4 | Z2 | E,E,E,E, | E,4 | \
+[K:treble] "_Solo" "^Corni Cut" C4 | G,4 | CEGz | C4- | C4- | C4 | G4- | G4 | CCz2 | Z5 | \
+"^alamire" [K:alto1] !f!z/E/E/E/ E2 | E z/E/E2 | z/E/E/E/ E2 | E z/E/E2 | EEEz | Z3 | \
+z/A/E/C/ A,z | z A/>c/ A z | Z3 | A/A//A// A/A/ A2 | Azz2 | Z2 | \
+z/A/E/C/ A,z | A2AA | AAAz | Z12 | A4 | Z2 | !f! z/ A//A// A/A/ A2 | Z | !f! z/ A//A// A/A/ A2 | \
+Z | A z/A/ A/c/A/c/ | A zz2 | !fermata!E2z2 | Z12 | z/A//A// A/A/ A2 | \
+z/A//A// A/A/ A2 | z/A//A// A/A/ A2 | A4 | A zz2 | E !fermata! z z2 | \
+z/A//A// A/A/ A2 | `z/A//A// A/A/ A2 | AcAc | AAAz |]
+%-----------------------

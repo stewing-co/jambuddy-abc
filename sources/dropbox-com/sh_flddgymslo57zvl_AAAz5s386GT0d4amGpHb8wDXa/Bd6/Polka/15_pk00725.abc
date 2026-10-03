@@ -1,0 +1,100 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Reinl\"ander Polka  GD
+%T: Rheinl\"ander Polka
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.205 (pk00725) orig. G,D-Dur
+T:Walliser T\"anze. S.196-213. \"Uberliefert durch Josef Seewer und Marcel Tschopp, Leuk, 
+T: und Sepp Mutter, Ried/Brigerberg
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"dg Bg | "D7"fA/B/ c/B/A | ca Af | "G"gB/c/ d/c/B | dg Bg | "D7"fA/B/ c/B/A | 
+ca Af | "G"g3z :: [K:D] "D"ff/f/ ff | "A7"gce2 | gg/g/ gg | "D"adf2 | 
+ff/f/ ff | "A7"gce2 | gg/g/ gc | "D"dfdz :: [K:G] "D7"A>B ce | "G"ed d/e/d | 
+"D7"dc c/d/c | "G"cBB2 | "Am/C"A>B ce | "G/D"ed d/e/d | "D7"dc c/B/A | "G"GBGz :| 
+X:2
+T:Reinl\"ander Polka  CG 7-
+%T: Rheinl\"ander Polka
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+"C"Gc Ec | "G7"BD/2E/2 F/2E/2D | Fd DB | "C"cE/2F/2 G/2F/2E | Gc Ec | "G7"BD/2E/2 F/2E/2D | 
+Fd DB | "C"c3z :: [K:G] "G"BB/2B/2 BB | "D7"cFA2 | cc/2c/2 cc | "G"dGB2 | 
+BB/2B/2 BB | "D7"cFA2 | cc/2c/2 cF | "G"GBGz :: [K:C] "G7"D>E FA | "C"AG G/2A/2G | 
+"G7"GF F/2G/2F | "C"FEE2 | "Dm/F"D>E FA | "C/G"AG G/2A/2G | "G7"GF F/2E/2D | "C"CECz :| 
+% pk00725
+X:3
+T:Reinl\"ander Polka  FC 2-
+%T: Rheinl\"ander Polka
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:F%%MIDI gchordon
+"F"cf Af | "C7"eG/2A/2 B/2A/2G | Bg Ge | "F"fA/2B/2 c/2B/2A | cf Af | "C7"eG/2A/2 B/2A/2G | 
+Bg Ge | "F"f3z :: [K:C] "C"ee/2e/2 ee | "G7"fBd2 | ff/2f/2 ff | "C"gce2 | 
+ee/2e/2 ee | "G7"fBd2 | ff/2f/2 fB | "C"cecz :: [K:F] "C7"G>A Bd | "F"dc c/2d/2c | 
+"C7"cB B/2c/2B | "F"BAA2 | "Gm/Bb"G>A Bd | "F/C"dc c/2d/2c | "C7"cB B/2A/2G | "F"FAFz :| 
+% pk00725
+X:4
+T:Reinl\"ander Polka  CG (5letras transposed)
+%T: Rheinl\"ander Polka
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"Gc Ec | "G7"BD/2E/2 F/2E/2D | Fd DB | "C"cE/2F/2 G/2F/2E | Gc Ec | "G7"BD/2E/2 F/2E/2D | 
+Fd DB | "C"c3z :: [K:G] "G"BB/2B/2 BB | "D7"cFA2 | cc/2c/2 cc | "G"dGB2 | 
+BB/2B/2 BB | "D7"cFA2 | cc/2c/2 cF | "G"GBGz :: [K:C] "G7"D>E FA | "C"AG G/2A/2G | 
+"G7"GF F/2G/2F | "C"FEE2 | "Dm/F"D>E FA | "C/G"AG G/2A/2G | "G7"GF F/2E/2D | "C"CECz :| 
+% pk00725
+X:5
+T:Reinl\"ander Polka  FC (5letras transposed)
+%T: Rheinl\"ander Polka
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"cf Af | "C7"eG/2A/2 B/2A/2G | Bg Ge | "F"fA/2B/2 c/2B/2A | cf Af | "C7"eG/2A/2 B/2A/2G | 
+Bg Ge | "F"f3z :: [K:C] "C"ee/2e/2 ee | "G7"fBd2 | ff/2f/2 ff | "C"gce2 | 
+ee/2e/2 ee | "G7"fBd2 | ff/2f/2 fB | "C"cecz :: [K:F] "C7"G>A Bd | "F"dc c/2d/2c | 
+"C7"cB B/2c/2B | "F"BAA2 | "Gm/Bb"G>A Bd | "F/C"dc c/2d/2c | "C7"cB B/2A/2G | "F"FAFz :| 
+% pk00725
+X:6
+T: Reinl\"ander Polka G&G (tinwhistle in D)
+T: pk00725 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"dg Bg | "D7"fA/B/ c/B/A | ca Af | "G"gB/c/ d/c/B | dg Bg | "D7"fA/B/ c/B/A | 
+ca Af | "G"g3z :: [K:D] "D"ff/f/ ff | "A7"gce2 | gg/g/ gg | "D"adf2 | 
+ff/f/ ff | "A7"gce2 | gg/g/ gc | "D"dfdz :: [K:G] "D7"A>B ce | "G"ed d/e/d | 
+"D7"dc c/d/c | "G"cBB2 | "Am/C"A>B ce | "G/D"ed d/e/d | "D7"dc c/B/A | "G"GBGz :| 
+X:7
+T: Reinl\"ander Polka G&G (tinwhistle in D) solo
+T: pk00725 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:G transpose=12
+dg Bg | fA/B/ "_c"c/B/A | "_c"ca Af | gB/"_c"c/ d/c/B | dg Bg | fA/B/ "_c"c/B/A | 
+"_c"ca Af | g3z :: [K:D] ff/f/ ff | gce2 | gg/g/ gg | adf2 | 
+ff/f/ ff | gce2 | gg/g/ gc | dfdz :: [K:G] A>B "_c"ce | ed d/e/d | 
+d"_c"c c/d/c | "_c"cBB2 | "Am/C"A>B "_c"ce | "G/D"ed d/e/d | d"_c"c c/B/A | GBGz :|
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 25, 2016

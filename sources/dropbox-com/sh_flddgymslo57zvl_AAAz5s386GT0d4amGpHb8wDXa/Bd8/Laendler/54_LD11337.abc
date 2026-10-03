@@ -1,0 +1,61 @@
+%%partsbox
+X: 1
+T: L\"andler  EbBb chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.324 (wz11337) orig. Eb,Bb-Dur
+T: T\"anze aus Altdorf (Uri)
+% I suppose the orig. Bb7 for bar 4 should be Eb instead (please tell me if not)
+M:3/4
+L:1/8
+K:Eb %%MIDI gchordon
+"Eb"ee eB GB | gg ge Gc | "Bb7"B=A Bd gf | "Eb"ed ef g2 | ee eB GB | gg ge Gc | "Bb7"B=A Bd gf | "Eb"e2z2z2 :: [K:Bb]
+"Bb"df eg df | "F7"c2 eF A2 | cd ef Af | "Bb"B2 dF B2 | df eg df | "F7"c2 eF A2 | cd ef Af | "Bb"b2z2z2 :|   
+
+X: 2
+T: L\"andler  EbBb 
+M:3/4
+L:1/8
+K:Eb 
+"Eb"ee eB GB | gg ge Gc | "Bb7"B=A Bd gf | "Eb"ed ef g2 | ee eB GB | gg ge Gc | "Bb7"B=A Bd gf | "Eb"e2z2z2 :: [K:Bb]
+"Bb"df eg df | "F7"c2 eF A2 | cd ef Af | "Bb"B2 dF B2 | df eg df | "F7"c2 eF A2 | cd ef Af | "Bb"b2z2z2 :| 
+
+X:3
+T:L\"andler  CG 3- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"cc cG EG | ee ec EA | "G7"G^F GB ed | "C"cB cd e2 | cc cG EG | ee ec EA | "G7"G^F GB ed | "C"c2z2z2 :: [K:Gmaj]
+"G"Bd ce Bd | "D7"A2 cD F2 | AB cd Fd | "G"G2 BD G2 | Bd ce Bd | "D7"A2 cD F2 | AB cd Fd | "G"g2z2z2 :| 
+
+X:4
+T:L\"andler  CG 3- 
+M:3/4
+L:1/8
+K:C
+"C"cc cG EG | ee ec EA | "G7"G^F GB ed | "C"cB cd e2 | cc cG EG | ee ec EA | "G7"G^F GB ed | "C"c2z2z2 :: [K:Gmaj]
+"G"Bd ce Bd | "D7"A2 cD F2 | AB cd Fd | "G"G2 BD G2 | Bd ce Bd | "D7"A2 cD F2 | AB cd Fd | "G"g2z2z2 :| 
+
+X:5
+T:L\"andler  CG 3- Anm
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"cc cG EG | ee ec EA | "G7"G^F GB ed | "C"cB cd e2 |\
+   cc cG EG | ee ec EA | "G7"G^F GB ed | "C"c2z2z2 :: [K:Gmaj]
+"" "G"Bd ce Bd | "D7""_a"A2 "_c"cD "_""_f#"F2 | "_a"A"_h"B c"_d"d "_""_f#"F"_d"d | "G"G2 BD G2 |\
+      Bd ce Bd | "D7""_a"A2 "_c"cD "_""_f#"F2 | "_a"A"_h"B c"_d"d "_""_f#"F"_d"d | "G"g2z2z2 :| 
+
+X:6
+T:L\"andler  FC 2+ chords
+M:3/4
+L:1/8
+K:Fmaj%%MIDI gchordon
+"F"ff fc Ac | aa af Ad | "C7"c=B ce ag | "F"fe fg a2 | ff fc Ac | aa af Ad | "C7"c=B ce ag | "F"f2z2z2 :: [K:Cmaj]
+"C"eg fa eg | "G7"d2 fG B2 | de fg Bg | "C"c2 eG c2 | eg fa eg | "G7"d2 fG B2 | de fg Bg | "C"c'2z2z2 :| 
+
+X:7
+T:L\"andler  FC 2+ 
+M:3/4
+L:1/8
+K:F
+"F"ff fc Ac | aa af Ad | "C7"c=B ce ag | "F"fe fg a2 | ff fc Ac | aa af Ad | "C7"c=B ce ag | "F"f2z2z2 :: [K:Cmaj]
+"C"eg fa eg | "G7"d2 fG B2 | de fg Bg | "C"c2 eG c2 | eg fa eg | "G7"d2 fG B2 | de fg Bg | "C"c'2z2z2 :| 

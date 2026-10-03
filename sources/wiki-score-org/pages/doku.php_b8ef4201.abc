@@ -1,0 +1,28 @@
+X:803
+T:N.8 Conto do Sargento
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:G
+V: 3 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 3 }]
+%---
+[Q: "Andantino"](BAG FGB, | D2)z !>!(A,3 | G,2)z C3|!pp!B,zB, !pp!B,zB, || \
+"_NB: or c? " B2z B2z |  B2z B2z |  B2z B2z |  B2z B2z | z2C CzC | \
+z2C CzC |z2C CzC  | z(^A,^C B,)zz| z2B, B,zB, |z2B, B,zB, |z2B, B,zB, |\
+z2A, A,zA, | z2A, z2C| z2B, z2B, | z2[CD] z(CD|!>!(C3)B,2)z || \
+!pp! g3!trem3!e3 | g3/2!trem3!e3/2g3/2!trem3!e3/2 | g3/2!trem3!e3/2g3/2!trem3!e3/2 | \
+e3!trem3!A3 | e3!trem3!A3 | e3!trem3!B3 | (e3/2!trem3!^c3/2) (^d3/2!trem3!B3/2) |  \
+(d3/2!trem3!B3/2) !//!=f!//!e!//!d | (=f3!trem3!B3) | [ce]zz zB,z | \
+zCz zB,z | zCz !fermata!z2"^A tempo"B,|| \
+[M:3/4] "^Recitativo" B,z2 z[B,^D] z| z.B,/.B,/ .E.F Gz | [B,=D]zz2[CD]z | \
+z.D/.D/ .G.A Bz | !///!F4 !///!E2 | !p! zF/F/ B(F !fermata!B2) || \
+[M:6/8] !pp! (g3!trem3!e3) | (g3!trem3!e3) | (g3!trem3!e3) | (e3!trem3!A3) | \
+(e3!trem3!A3) | (e3!trem3!B3) | (e3/2!trem3!^c3/2) (^d3/2!trem3!B3/2) || \
+[M:3/4] "^Recitado" !///!F6 | !///!G6 | !///!A6 | !///![CE]6 | !///!^D4-Dz | ^C4-Cz | \
+(3zB,B, B,2B,2 || [M:6/8] "^1o tempo" "_NB: or c? " B2z B2z |  B2z B2z |  B2z B2z |  B2z B2z | z2C CzC | \
+z2C CzC |z2C CzC  | z(^A,^C B,)zz| z2B, B,zB, |z2B, B,zB, |z2B, B,zB, |\
+z2A, A,zA, | z2A, z2C| z2B, z2B, | \
+z2[CD] z!fermata!CD | [B,D]3-[B,D]zz |] \
+%---

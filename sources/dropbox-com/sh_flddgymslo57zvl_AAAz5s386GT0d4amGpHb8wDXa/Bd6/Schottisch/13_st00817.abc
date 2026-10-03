@@ -1,0 +1,133 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Schottisch  FBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.178 (st00817) orig. F,Bb-Dur
+T: Gomser T\"anze. S.178-195.\"Uberliefert durch Theodor Franzen, 1870-1958, Fiesch.
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"FGA2 "Bb"Bcd2 | "F"c2a2f4 | "C7"eeee G2B2 | "F"dddd c2A2 | "F"FGA2 "Bb"Bcd2 | "F"c2a2f4 | 
+"C7"eeee d2e2 | "F"f6z2 :: "C7"b3a b3a | bagf edcB | "F"A2d2!>!c4 | c2a2!>!f4 | "C7"b3a b3a | 
+bagf edcB | "F"Acfa "C7"agfe | "F"f6z2 :: [K:Bb] "Bb"dddd d2f2 | b3a g2f2 | "F7"a3g f2e2 |  
+"Bb"g3f  d2B2 | dddd d2f2 | b3a gf=ef | "F7"a3g fedc | "Bb"B2d2 "_Fine"B4 :| [K:F] "F"cccc c2f2 | a4 z2ga |  
+"C7"bag2 g^fg2 | "F"agf2 {/g}fef2 | cccc c2f2 | a4z2ga | "C7"bag2 gfe2 | "F".f4 "_> Teil C"!>!_e4 |] 
+X:2
+T:Schottisch  CF 5-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+"C"CDE2 "F"FGA2 | "C"G2e2c4 | "G7"BBBB D2F2 | "C"AAAA G2E2 | "C"CDE2 "F"FGA2 | "C"G2e2c4 | 
+"G7"BBBB A2B2 | "C"c6z2 :: "G7"f3e f3e | fedc BAGF | "C"E2A2!>!G4 | G2e2!>!c4 | "G7"f3e f3e | 
+fedc BAGF | "C"EGce "G7"edcB | "C"c6z2 :: [K:F] "F"AAAA A2c2 | f3e d2c2 | "C7"e3d c2B2 | 
+"F"d3c A2F2 | AAAA A2c2 | f3e dc=Bc | "C7"e3d cBAG | "F"F2A2 "_Fine"F4 :| [K:C] "C"GGGG G2c2 | e4 z2de | 
+"G7"fed2 d^cd2 | "C"edc2 {/d}cBc2 | GGGG G2c2 | e4z2de | "G7"fed2 dcB2 | "C".c4 "_> Teil C"!>!_B4 |] 
+% st00817
+X:3
+T:Schottisch  GC 2+
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+"G"GAB2 "C"cde2 | "G"d2b2g4 | "D7"ffff A2c2 | "G"eeee d2B2 | GAB2 "C"cde2 | "G"d2b2g4 | 
+"D7"ffff e2f2 | "G"g6z2 :: "D7"c'3b c'3b | c'bag fedc | "G"B2e2!>!d4 | d2b2!>!g4 | "D7"c'3b c'3b | 
+c'bag fedc | "G"Bdgb "D7"bagf | "G"g6z2 :: [K:C] "C"eeee e2g2 | c'3b a2g2 | "G7"b3a g2f2 | 
+"C"a3g e2c2 | eeee e2g2 | c'3b ag^fg | "G7"b3a gfed | "C"c2e2 "_Fine"c4 :| [K:G] "G"dddd d2g2 | b4 z2ab | 
+"D7"c'ba2 a^ga2 | "G"bag2 {/a}gfg2 | dddd d2g2 | b4z2ab | "D7"c'ba2 agf2 | "G".g4 "_>Teil C"!>!=f4 |] 
+% st00817
+
+X:4
+T:Schottisch  GC 10-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+"G"G,A,B,2 "C"CDE2 | "G"D2B2G4 | "D7"FFFF A,2C2 | "G"EEEE D2B,2 | "G"G,A,B,2 "C"CDE2 | "G"D2B2G4 | 
+"D7"FFFF E2F2 | "G"G6z2 :: "D7"c3B c3B | cBAG FEDC | "G"B,2E2!>!D4 | D2B2!>!G4 | "D7"c3B c3B | 
+cBAG FEDC | "G"B,DGB "D7"BAGF | "G"G6z2 :: [K:C] "C"EEEE E2G2 | c3B A2G2 | "G7"B3A G2F2 | 
+"C"A3G E2C2 | EEEE E2G2 | c3B AG^FG | "G7"B3A GFED | "C"C2E2 "_Fine"C4 :| [K:G] "G"DDDD D2G2 | B4 z2AB | 
+"D7"cBA2 A^GA2 | "G"BAG2 {/A}GFG2 | DDDD D2G2 | B4z2AB | "D7"cBA2 AGF2 | "G".G4 "_> Teil C"!>!=F4 |] 
+% st00817
+X:5
+T:Schottisch  CF (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"CDE2 "F"FGA2 | "C"G2e2c4 | "G7"BBBB D2F2 | "C"AAAA G2E2 | "C"CDE2 "F"FGA2 | "C"G2e2c4 | 
+"G7"BBBB A2B2 | "C"c6z2 :: "G7"f3e f3e | fedc BAGF | "C"E2A2!>!G4 | G2e2!>!c4 | "G7"f3e f3e | 
+fedc BAGF | "C"EGce "G7"edcB | "C"c6z2 :: [K:F] "F"AAAA A2c2 | f3e d2c2 | "C7"e3d c2B2 | 
+"F"d3c A2F2 | AAAA A2c2 | f3e dc=Bc | "C7"e3d cBAG | "F"F2A2 "_Fine"F4 :| [K:C] "C"GGGG G2c2 | e4 z2de | 
+"G7"fed2 d^cd2 | "C"edc2 {/d}cBc2 | GGGG G2c2 | e4z2de | "G7"fed2 dcB2 | "C".c4 "_> Teil C"!>!_B4 |] 
+% st00817
+X:6
+T:Schottisch  GC (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"GAB2 "C"cde2 | "G"d2b2g4 | "D7"ffff A2c2 | "G"eeee d2B2 | "G"GAB2 "C"cde2 | "G"d2b2g4 | 
+"D7"ffff e2f2 | "G"g6z2 :: "D7"c'3b c'3b | c'bag fedc | "G"B2e2!>!d4 | d2b2!>!g4 | "D7"c'3b c'3b | 
+c'bag fedc | "G"Bdgb "D7"bagf | "G"g6z2 :: [K:C] "C"eeee e2g2 | c'3b a2g2 | "G7"b3a g2f2 | 
+"C"a3g e2c2 | eeee e2g2 | c'3b ag^fg | "G7"b3a gfed | "C"c2e2 "_Fine"c4 :| [K:G] "G"dddd d2g2 | b4 z2ab | 
+"D7"c'ba2 a^ga2 | "G"bag2 {/a}gfg2 | dddd d2g2 | b4z2ab | "D7"c'ba2 agf2 | "G".g4 "_> Teil C"!>!=f4 |] 
+% st00817
+X:7
+T:Schottisch  GC (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"G,A,B,2 "C"CDE2 | "G"D2B2G4 | "D7"FFFF A,2C2 | "G"EEEE D2B,2 | "G"G,A,B,2 "C"CDE2 | "G"D2B2G4 | 
+"D7"FFFF E2F2 | "G"G6z2 :: "D7"c3B c3B | cBAG FEDC | "G"B,2E2!>!D4 | D2B2!>!G4 | "D7"c3B c3B | 
+cBAG FEDC | "G"B,DGB "D7"BAGF | "G"G6z2 :: [K:C] "C"EEEE E2G2 | c3B A2G2 | "G7"B3A G2F2 | 
+"C"A3G E2C2 | EEEE E2G2 | c3B AG^FG | "G7"B3A GFED | "C"C2E2 "_Fine"C4 :| [K:G] "G"DDDD D2G2 | B4 z2AB | 
+"D7"cBA2 A^GA2 | "G"BAG2 {/A}GFG2 | DDDD D2G2 | B4z2AB | "D7"cBA2 AGF2 | "G".G4 "_> Teil C"!>!=F4 |] 
+% st00817
+X:8
+T:Schottisch  D&G (tinwhistle in D)
+T: st00817 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D%%MIDI gchordon
+"D"DEF2 "G"GAB2 | "D"A2f2d4 | "A7"cccc E2G2 | "D"BBBB A2F2 | "D"DEF2 "G"GAB2 | "D"A2f2d4 | 
+"A7"cccc B2c2 | "D"d6z2 :: "A7"g3f g3f | gfed cBAG | "D"F2B2!>!A4 | A2f2!>!d4 | "A7"g3f g3f | 
+gfed cBAG | "D"FAdf "A7"fedc | "D"d6z2 :: [K:G] "G"BBBB B2d2 | g3f e2d2 | "D7"f3e d2c2 | 
+"G"e3d B2G2 | BBBB B2d2 | g3f ed^cd | "D7"f3e dcBA | "G"G2B2 "_Fine"G4 :| [K:D] "D"AAAA A2d2 | f4 z2ef | 
+"A7"gfe2 e^de2 | "D"fed2 {/e}dcd2 | AAAA A2d2 | f4z2ef | "A7"gfe2 edc2 | "D".d4 "_> Teil C"!>!=c4 |] 
+W:
+W: "Theodor Franzen begann als Knabe mit einer sog. 'Sturzpfife' [-pfeife] zu musizieren,
+W: einer Bleckflöte [tin whistle] mit sechs L\"ochern ... " Bd.VI,  p 178 (M\"ulirad Verlag 2002).
+W: PS 'Sturzpfife' - a word without a single result when googled (June 2016)
+X:9
+T:Schottisch  D&G (tinwhistle in D) solo
+T: st00817 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D transpose=12
+DEF2 GAB2 | A2f2d4 | cccc E2G2 | BBBB A2F2 | DEF2 GAB2 | A2f2d4 | 
+cccc B2c2 | d6z2 :: g3f g3f | gfed cBAG | F2B2!>!A4 | A2f2!>!d4 | g3f g3f | 
+gfed cBAG | FAdf fedc | d6z2 :: [K:G] BBBB B2d2 | g3f e2d2 | f3e d2"_c"c2 | 
+e3d B2G2 | BBBB B2d2 | g3f ed^cd | f3e d"_c"cBA | G2B2 "_Fine"G4 :| [K:D] AAAA A2d2 | f4 z2ef | 
+gfe2 e^de2 | fed2 {/e}dcd2 | AAAA A2d2 | f4z2ef | gfe2 edc2 | .d4 "_> Teil C"!>!=c4 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 19, 2016
+

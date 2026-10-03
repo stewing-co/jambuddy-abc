@@ -1,0 +1,45 @@
+X:1
+T:Tr\onderpolsk
+O:Norsk
+C:Trad.
+D:"Spillemands lauget Tramp", Sonet/Dansk SLPS 1279
+Z:http://voluntocracy.org/Music
+P:I(AB)
+Q:1/4=120
+M:3/4
+L:1/8
+K:Am
+%%MIDI channel 1
+%%MIDI program 1 15
+%%MIDI beat 120 110 95 1
+%%MIDI chordprog 24
+%
+%%MIDI bassprog 24
+%
+P:I
+a2 |: a>g e>f g>e | f/g/f/e/ d>e f>d \
+ | e>^c A>c e>c |1 d>e f>g a>_b :|2 d2 [D2d2]
+K:D
+ ((3ABA) |: D>F A>d f>a | g2 f2 e>d | e>c A>c e>c |1 d>A F>G A>F :|2 d2 d2
+P:A
+K:Am
+L:1/16
+[A4a4] |: "A"[A3a3]g [A3e3]f [A3g3]e | "Dm"[Af]gfe [D3d3]e [A3f3]d \
+ | "A"[A3e3][E^c] [A,3A3][Ec] [A3e3][Ec] | "Dm"[D3d3]e [A3f3]g [A3a3]_b |
+ "A"[A3a3]g [A3e3]f [A3g3]e | "Dm"[Af]gfe [D3d3]e [A3f3]d \
+ | "A"[A3e3][E^c] [A,3A3][Ec] [A3e3][Ec] |1 "D"[D4d4] [^F4d4] [A4a4] \
+:|2 "D"[D4d4] [^F4d4]
+P:B
+K:D
+((3[D2A2]B2A2) |: "D"[A,3D3]F [D3A3]d [A3f3]a | "G"[A4g4] [f4A4] [A3e3]d \
+ | "A"[A3e3][Ec] [A,3A3][Ec] [A3e3][Ec] | "D"[D3d3]A [A,3F3]G [D3A3]F |
+   "D"[A,3D3]F [D3A3]d [A3f3]a | "G"[A4g4] [f4A4] [A3e3]d \
+ | "A"[A3e3][Ec] [A,3A3][Ec] [A3e3][Ec] |1 "D"[D4d4] [F4d4] ((3[D2A2]B2A2) \
+  :|2 "D"[D4d4] [F4d4]
+W:
+W:
+W:Arrangement Copyright (C) 1999 Voluntocracy.
+W:
+W:Permission is granted to copy and distribute modified or unmodified versions of this music
+W:provided the copyright notice and this permission notice are preserved on all copies and the
+W:entire such work is distributed under the terms of a permission notice identical to this one.

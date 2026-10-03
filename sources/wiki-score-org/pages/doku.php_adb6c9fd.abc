@@ -1,0 +1,24 @@
+X:512
+T:N.5 Marcha e coro militar
+C:Fonseca, Eduardo da (1863-1938)
+M:2/4
+L:1/8
+K:A
+V: 12 clef=treble name="Canto" sname="Can."
+%%MIDI program 1 1
+%%staves [[ 12 ]]
+%---
+Z16 !segno!|: \
+C2E2 | A2A2| G A B G | (B2A2) | \
+w: Mei-a vol-ta di-rei-ta vol-ver-~|
+C2E2| A2 A G |F G A B | B B z2 |\
+w: dis-se'a-go-ra o pri-mei-ro sar-gen-to
+C2E2| A2 A A | GA B G | (B2 A2) ||1 \
+w: e'a ma-no-bra n\'os va--mos fa-zer-~
+F2A2 | c2B2 | A G A F | E E z2 :|2 \
+w: a-qui j\'a com mui-to'a-ca-ta-men-to
+G2F2 | E C E A | c2B2 || A A z2 "^A" || \
+w: -qui j\'a com mui-to'a-ca-ta-men-to
+"^Do A ao B""^16 comp" Z16  "_B" || "DC ao segno" "ate ao fim" X ||"^Final" Azz2 |]
+w: mento
+%----

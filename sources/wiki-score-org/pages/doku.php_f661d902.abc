@@ -1,0 +1,17 @@
+X:303
+T:III. Allegro
+C:Almeida, Francisco A. de (c.1702-?1755)
+M:3/8
+L:1/8
+K:F
+V: 3 clef=treble name="Cornu di Caccia Primo [in F.]" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 3 )]
+%---------
+[Q:"Allegro assai"][K:C] g2z | (e/>f/g)f | e2z| (e/>f/g)f | e2z|gzz|fzz|gzz|dzz| \
+d2z|z3| f2z|d2z|f2z|gzz|"[*]"gzz|gdd|gdd|add|d3::d2z|d2z|d2z|d2z|Z4|ddd|e3-|ezz|Z| \
+eee|d2z|d2z|efd|efd|ef"[**]"d|cGG|GEE|E3:|\
+%---------
+W: [*] One extra bar "gzz" removed.
+W: [**] This 'd' should be 'c', cf. Cor.II.
+%---------

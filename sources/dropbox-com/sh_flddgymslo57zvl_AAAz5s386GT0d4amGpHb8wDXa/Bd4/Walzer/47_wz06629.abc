@@ -1,0 +1,102 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Walzer FBbEbAb  (wz06629)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.266f (wz06629) orig. F,Bb,Eb,Ab
+T: Repertoire der "Dorfmusig Aesch". S.255-269
+T:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"(CF)A | cz^c | dzc | "C7"E3 | CEG | cz^c | {/^c}dz=c | "F"F3 | FAc | fzf | "C"fe>^d | e3 | 
+"G7"gd>d | d2e | "C"dc>B | "C7"c3 | ("F7"CF)A | cz^c | {/^c}dz=c | "C7"E3 | (CE)G | cz^c | {/^c}dz=c | "F"F3 | 
+"C"gg>^f | g3 | ee>^d | e3 | "G7"G^FG | =BG>d | ("C"c3 | c)zz :: "F"{/e}fzA | {/e}fzA | "C7"AG>^F | G3 | 
+{/^d}ezG | {/^d}ezG | "F"GF>G | A3 | {/e}fzA | {/e}fzA | AB>c | "Bb"d3 | "C7"{/^f}gzc | {/^f}gzA | Gd>c | 
+"F"F2z ::  "F"cfe | dcB | ("Gm"B3 | "C7"B2)z | "F"Adc | "Bb"BAG | ("C7"G3 | G)zz | GEF | "G7"Gd>f | ("C7"e3 | 
+c)zz | "F"cfe | dcB | ("Gm"B3 | "C7"B2)z | Bed | cBA | ("F"A3 | A)zz | AB=B | cd_e | ("Bb"d3 | 
+d)fB | "F/C"czA | "C7"BG>A | ("F"F3 | F)zz :| [K:Bb] "Bb"f3 | f/f/fg | f3 | zg>f | ("F7"f3 | f)ed | e3 | 
+A3 | e3 | e/e/ef | e3 | zf>e | (e3 | e)dc | "Bb"d3 | B2z | f3 | f/f/fg | f3 | 
+zB>A | "F7"A3 | AGF | (E3 | E)cd | ec>A | zBc | "Bb"d>BF | zDE | "F7"FGA | Bd>c | ("Bb"B3 | 
+B)zz |: [K:Eb] "Eb"G3 | GA>G  | G3 | GAG |  "Bb7"G2F | FG>F | "Eb"E3 | B,3 | B3 | Bc>B | (B3 | 
+B)cB | "Bb7"B2A | AB>A | ("Eb"G3 |1 G)zz :|2 G F/=A/ B/c/ |: [K:Bb] "Bb"d>dd | dcB | "F7"A>GF | zF/A/ c/e/ | 
+g>ec |  zF/A/ c/e/ | "Bb"g>fd | zF/A/ B/c/ | d>dd | dcB | "F7"A>Ge | zF/A/ c/e/ | gfe | cF>d | 
+("Bb"B3 |1 B)F/A/ B/c/ :|2 Bzz || [K:Eb] "Eb"EGB | eze | ed>c | "Bb7"A3 | DFB | dzd | dc>B | "Eb"G3 | 
+EGB | eze | ed>c | "F7"f3 | F2B | =Ad>c | "Bb"B3 | Bzz || "Eb"E3 | G2B | e3 | 
+ezz | "Ab"ede | cBA | "Eb"Gzz | Bzz | (e3 | e)dc | "Bb7"Bcd | A3 | (d3 | d)(cB) | 
+ABc | "Eb"G3 | B(ef) | (gf)e | "Ab"dc>B | (c3 | "Bb7"c)B=A | _AG>F | ("Eb"E3 | E)zz | [K:Ab]  
+|: ("Ab"e2c) | (e2c) | (e3 | e)B/c/ d/e/ | ("Db"f2d) | (f2d) | (f3 | f)fa | "Eb7"gzg | fzf | (d3 | 
+d)fa | "Ab"gzg | fzf | (c3 | c)A/B/ c/d/ | (e2c) | (e2c) | (e3 | e) B/c/ d/e/ | ("Db"f2d) | (f2d) | 
+f3 | fg>f | "Eb7"f2e | e(d>c) | ("Ab"c3 | c)d>c | "Eb7"c2B | BB>c | "Ab"(A3 |1 A)zz :|2 AAA || 
+("Ab"A3 | A)AA | (c3 | c)cc | ee/e/e | eee | czz | ezz | (c3 | c3 | c)zc | cz"_Fine"z |]  
+% wz06629
+% May 13, 2017
+
+X:2
+T:Walzer D#GCF 3- (wz06629)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.266f (wz06629) orig. F,Bb,Eb,Ab
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Dmaj%%MIDI gchordon
+"D"(A,D)F | Az^A | BzA | "A7"C3 | A,CE | Az^A | {/^A}Bz=A | "D"D3 | DFA | dzd | "A"dc>^B | c3 | 
+"E7"eB>B | B2c | "A"BA>G | "A7"A3 | ("D7"A,D)F | Az^A | {/^A}Bz=A | "A7"C3 | (A,C)E | Az^A | {/^A}Bz=A | "D"D3 | 
+"A"ee>^d | e3 | cc>^B | c3 | "E7"E^DE | ^GE>B | ("A"A3 | A)zz :: "D"{/c}dzF | {/c}dzF | "A7"FE>^D | E3 | 
+{/^B}czE | {/^B}czE | "D"ED>E | F3 | {/c}dzF | {/c}dzF | FG>A | "G"B3 | "A7"{/^d}ezA | {/^d}ezF | EB>A | 
+"D"D2z :: "D"Adc | BAG | ("Em"G3 | "A7"G2)z | "D"FBA | "G"GFE | ("A7"E3 | E)zz | ECD | "E7"EB>d | ("A7"c3 | 
+A)zz | "D"Adc | BAG | ("Em"G3 | "A7"G2)z | GcB | AGF | ("D"F3 | F)zz | FG^G | AB=c | ("G"B3 | 
+B)dG | "D/A"AzF | "A7"GE>F | ("D"D3 | D)zz :| [K:Gmaj] "G"d3 | d/2d/2de | d3 | ze>d | ("D7"d3 | d)cB | c3 | 
+F3 | c3 | c/2c/2cd | c3 | zd>c | (c3 | c)BA | "G"B3 | G2z | d3 | d/2d/2de | d3 | 
+zG>F | "D7"F3 | FED | (C3 | C)AB | cA>F | zGA | "G"B>GD | zB,C | "D7"DEF | GB>A | ("G"G3 | 
+G)zz |: [K:Cmaj] "C"E3 | EF>E | E3 | EFE | "G7"E2D | DE>D | "C"C3 | G,3 | G3 | GA>G | (G3 | 
+G)AG | "G7"G2F | FG>F | ("C"E3 |1 E)zz :|2 E D/2^F/2 G/2A/2 |: [K:Gmaj] "G"B>BB | BAG | "D7"F>ED | zD/2F/2 A/2c/2 | 
+e>cA | zD/2F/2 A/2c/2 | "G"e>dB | zD/2F/2 G/2A/2 | B>BB | BAG | "D7"F>Ec | zD/2F/2 A/2c/2 | edc | AD>B | 
+("G"G3 |1 G)D/2F/2 G/2A/2 :|2 Gzz || [K:Cmaj] "C"CEG | czc | cB>A | "G7"F3 | B,DG | BzB | BA>G | "C"E3 | 
+CEG | czc | cB>A | "D7"d3 | D2G | ^FB>A | "G"G3 | Gzz || "C"C3 | E2G | c3 | 
+czz | "F"cBc | AGF | "C"Ezz | Gzz | (c3 | c)BA | "G7"GAB | F3 | (B3 | B)(AG) | 
+FGA | "C"E3 | G(cd) | (ed)c | "F"BA>G | (A3 | "G7"A)G^F | =FE>D | ("C"C3 | C)zz | [K:Fmaj] 
+|: ("F"c2A) | (c2A) | (c3 | c)G/2A/2 B/2c/2 | ("Bb"d2B) | (d2B) | (d3 | d)df | "C7"eze | dzd | (B3 | 
+B)df | "F"eze | dzd | (A3 | A)F/2G/2 A/2B/2 | (c2A) | (c2A) | (c3 | c) G/2A/2 B/2c/2 | ("Bb"d2B) | (d2B) | 
+d3 | de>d | "C7"d2c | c(B>A) | ("F"A3 | A)B>A | "C7"A2G | GG>A | "F"(F3 |1 F)zz :|2 FFF || 
+("F"F3 | F)FF | (A3 | A)AA | cc/2c/2c | ccc | Azz | czz | (A3 | A3 | A)zA | Az"_Fine"z |] 
+% wz06629
+% May 13, 2017
+
+X:3
+T:Walzer GCFBb  2+ (wz06629)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.266f (wz06629) orig. F,Bb,Eb,Ab
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Walzer
+M:3/4
+L:1/4
+K:Gmaj%%MIDI gchordon
+"G"(DG)B | dz^d | ezd | "D7"F3 | DFA | dz^d | {/^d}ez=d | "G"G3 | GBd | gzg | "D"gf>^e | f3 | 
+"A7"ae>e | e2f | "D"ed>c | "D7"d3 | ("G7"DG)B | dz^d | {/^d}ez=d | "D7"F3 | (DF)A | dz^d | {/^d}ez=d | "G"G3 | 
+"D"aa>^g | a3 | ff>^e | f3 | "A7"A^GA | ^cA>e | ("D"d3 | d)zz :: "G"{/f}gzB | {/f}gzB | "D7"BA>^G | A3 | 
+{/^e}fzA | {/^e}fzA | "G"AG>A | B3 | {/f}gzB | {/f}gzB | Bc>d | "C"e3 | "D7"{/^g}azd | {/^g}azB | Ae>d | 
+"G"G2z :: "G"dgf | edc | ("Am"c3 | "D7"c2)z | "G"Bed | "C"cBA | ("D7"A3 | A)zz | AFG | "A7"Ae>g | ("D7"f3 | 
+d)zz | "G"dgf | edc | ("Am"c3 | "D7"c2)z | cfe | dcB | ("G"B3 | B)zz | Bc^c | de=f | ("C"e3 | 
+e)gc | "G/D"dzB | "D7"cA>B | ("G"G3 | G)zz :| [K:Cmaj] "C"g3 | g/2g/2ga | g3 | za>g | ("G7"g3 | g)fe | f3 | 
+B3 | f3 | f/2f/2fg | f3 | zg>f | (f3 | f)ed | "C"e3 | c2z | g3 | g/2g/2ga | g3 | 
+zc>B | "G7"B3 | BAG | (F3 | F)de | fd>B | zcd | "C"e>cG | zEF | "G7"GAB | ce>d | ("C"c3 | 
+c)zz |: [K:Fmaj] "F"A3 | AB>A | A3 | ABA | "C7"A2G | GA>G | "F"F3 | C3 | c3 | cd>c | (c3 | 
+c)dc | "C7"c2B | Bc>B | ("F"A3 |1 A)zz :|2 A G/2=B/2 c/2d/2 |: [K:Cmaj] "C"e>ee | edc | "G7"B>AG | zG/2B/2 d/2f/2 | 
+a>fd | zG/2B/2 d/2f/2 | "C"a>ge | zG/2B/2 c/2d/2 | e>ee | edc | "G7"B>Af | zG/2B/2 d/2f/2 | agf | dG>e | 
+("C"c3 |1 c)G/2B/2 c/2d/2 :|2 czz || [K:Fmaj] "F"FAc | fzf | fe>d | "C7"B3 | EGc | eze | ed>c | "F"A3 | 
+FAc | fzf | fe>d | "G7"g3 | G2c | =Be>d | "C"c3 | czz || "F"F3 | A2c | f3 | 
+fzz | "Bb"fef | dcB | "F"Azz | czz | (f3 | f)ed | "C7"cde | B3 | (e3 | e)(dc) | 
+Bcd | "F"A3 | c(fg) | (ag)f | "Bb"ed>c | (d3 | "C7"d)c=B | _BA>G | ("F"F3 | F)zz | [K:Bbmaj] 
+|: ("Bb"f2d) | (f2d) | (f3 | f)c/2d/2 e/2f/2 | ("Eb"g2e) | (g2e) | (g3 | g)gb | "F7"aza | gzg | (e3 | 
+e)gb | "Bb"aza | gzg | (d3 | d)B/2c/2 d/2e/2 | (f2d) | (f2d) | (f3 | f) c/2d/2 e/2f/2 | ("Eb"g2e) | (g2e) | 
+g3 | ga>g | "F7"g2f | f(e>d) | ("Bb"d3 | d)e>d | "F7"d2c | cc>d | "Bb"(B3 |1 B)zz :|2 BBB || 
+("Bb"B3 | B)BB | (d3 | d)dd | ff/2f/2f | fff | dzz | fzz | (d3 | d3 | d)zd | dz"_Fine"z |] 
+% wz06629
+% May 13, 2017

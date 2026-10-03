@@ -1,0 +1,62 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Havanna-Polka FBb chords Parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.378 (pk05136) orig. F,Bb-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+[P:A] "F"A2c2 c2c2 | cff2f4 | Accc c2f2 | "C7"e4z4 | G2B2 B2B2 |  Bdd2d4 |1 e3d e3d | "F"c4z4 :|2 c3c d2e2 | "F"f2f2 f2z2 || 
+[P:B] |: "Bb"!>!f4 edcB | "F"A6BA | "C7"G2B2 BBB2 | "F"A2c2 ccc2 | "Bb"!>!f4 "C7"edcB | "F"A6BA | "C7"G2B2 B3e | "F"f2f2 f2z2 :| [K:Bb]
+[P:C] |: "Bb"d4f3d | "F7"e2e2f4 | a2a2e4 | "Bb"defg f4 | d4f3d | "F7"e2e2f4 | a3g f2A2 | "Bb"B2d2 B2z2 :| 
+% May28, 2016
+X:2
+T:Havanna-Polka CF 5- chords
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"E2G2 G2G2 | Gcc2c4 | EGGG G2c2 | "G7"B4z4 | D2F2 F2F2 | FAA2A4 |1 B3A B3A | "C"G4z4 :|2 G3G A2B2 | "C"c2c2 c2z2 || 
+ |: "F"!>!c4 BAGF | "C"E6FE | "G7"D2F2 FFF2 | "C"E2G2 GGG2 | "F"!>!c4 "G7"BAGF | "C"E6FE | "G7"D2F2 F3B | "C"c2c2 c2z2 :| [K:Fmaj]
+ |: "F"A4c3A | "C7"B2B2c4 | e2e2B4 | "F"ABcd c4 | A4c3A | "C7"B2B2c4 | e3d c2E2 | "F"F2A2 F2z2 :| 
+X:3
+T:Havanna-Polka GC 10- chords
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"B,2D2 D2D2 | DGG2G4 | B,DDD D2G2 | "D7"F4z4 | A,2C2 C2C2 | CEE2E4 |1 F3E F3E | "G"D4z4 :|2 D3D E2F2 | "G"G2G2 G2z2 || 
+|: "C"!>!G4 FEDC | "G"B,6CB, | "D7"A,2C2 CCC2 | "G"B,2D2 DDD2 | "C"!>!G4 "D7"FEDC | "G"B,6CB, | "D7"A,2C2 C3F | "G"G2G2 G2z2 :| [K:Cmaj]
+|: "C"E4G3E | "G7"F2F2G4 | B2B2F4 | "C"EFGA G4 | E4G3E | "G7"F2F2G4 | B3A G2B,2 | "C"C2E2 C2z2 :| 
+X:4
+T:Havanna-Polka GC 2+ chords
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"B2d2 d2d2 | dgg2g4 | Bddd d2g2 | "D7"f4z4 | A2c2 c2c2 | cee2e4 |1 f3e f3e | "G"d4z4 :|2 d3d e2f2 | "G"g2g2 g2z2 || 
+|: "C"!>!g4 fedc | "G"B6cB | "D7"A2c2 ccc2 | "G"B2d2 ddd2 | "C"!>!g4 "D7"fedc | "G"B6cB | "D7"A2c2 c3f | "G"g2g2 g2z2 :| [K:Cmaj]
+|: "C"e4g3e | "G7"f2f2g4 | b2b2f4 | "C"efga g4 | e4g3e | "G7"f2f2g4 | b3a g2B2 | "C"c2e2 c2z2 :| 
+X:5
+T:Havanna-Polka CF (5letras transposed)
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"E2G2 G2G2 | Gcc2c4 | EGGG G2c2 | "G7"B4z4 | D2F2 F2F2 | FAA2A4 |1 B3A B3A | "C"G4z4 :|2 G3G A2B2 | "C"c2c2 c2z2 || 
+ |: "F"!>!c4 BAGF | "C"E6FE | "G7"D2F2 FFF2 | "C"E2G2 GGG2 | "F"!>!c4 "G7"BAGF | "C"E6FE | "G7"D2F2 F3B | "C"c2c2 c2z2 :| [K:Fmaj]
+ |: "F"A4c3A | "C7"B2B2c4 | e2e2B4 | "F"ABcd c4 | A4c3A | "C7"B2B2c4 | e3d c2E2 | "F"F2A2 F2z2 :| 
+X:6
+T:Havanna-Polka GC (5letras transposed)
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"B,2D2 D2D2 | DGG2G4 | B,DDD D2G2 | "D7"F4z4 | A,2C2 C2C2 | CEE2E4 |1 F3E F3E | "G"D4z4 :|2 D3D E2F2 | "G"G2G2 G2z2 || 
+|: "C"!>!G4 FEDC | "G"B,6CB, | "D7"A,2C2 CCC2 | "G"B,2D2 DDD2 | "C"!>!G4 "D7"FEDC | "G"B,6CB, | "D7"A,2C2 C3F | "G"G2G2 G2z2 :| [K:Cmaj]
+|: "C"E4G3E | "G7"F2F2G4 | B2B2F4 | "C"EFGA G4 | E4G3E | "G7"F2F2G4 | B3A G2B,2 | "C"C2E2 C2z2 :| 
+X:7
+T:Havanna-Polka GC (5letras transposed)
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"B2d2 d2d2 | dgg2g4 | Bddd d2g2 | "D7"f4z4 | A2c2 c2c2 | cee2e4 |1 f3e f3e | "G"d4z4 :|2 d3d e2f2 | "G"g2g2 g2z2 || 
+|: "C"!>!g4 fedc | "G"B6cB | "D7"A2c2 ccc2 | "G"B2d2 ddd2 | "C"!>!g4 "D7"fedc | "G"B6cB | "D7"A2c2 c3f | "G"g2g2 g2z2 :| [K:Cmaj]
+|: "C"e4g3e | "G7"f2f2g4 | b2b2f4 | "C"efga g4 | e4g3e | "G7"f2f2g4 | b3a g2B2 | "C"c2e2 c2z2 :| 

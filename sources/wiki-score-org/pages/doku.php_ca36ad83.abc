@@ -1,0 +1,71 @@
+X:102
+T:Overtura
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 2 clef=alto name="Corno II" sname="Cor. II"
+%%MIDI program 1 69
+%%staves [( 2 )]
+%--------------------------------------
+[Q: "Allegro" 1/2=70] D// | D z/>F/ F z/>A/| A A z z/>D/ | D z/>F/ F z/>A/| A A z D | \
+A, D A, D | A, A, z D | A, D A, D | A,2 z2 | Z3 | DFAz | D2A,2 | \
+D2A,2 | D2A,2 | D z/D/ A,/D/A,/D/ | A, z/D/ A,/D/A,/D/ | \
+A,A,A,A, | A,A,A,A, | A,A,A,A, | A,2 !fermata! z2 | \
+Z7 | A,A, F/E/D/A,/ | A,2 A,A, | A,2 A,A, | \
+D,4 | D, D, D, z | D,4 | D z z2 | \
+E2 D2 | A, A, A, z | A,4 | A, z z2 | \
+z/D/D/D/ D z | E4 | E z z2 | A, A, A, z | \
+Z | A, A, A, A, | A, z z2 | A, A, A, A, | \
+A, z z2 | A, A, A, z | Z | E z E E | \
+E4 | E z E E | E4 | E z E E | \
+E4 | A, A, A, z | Z | z D D z | \
+Z | z A, A, z | z A, A, z | z D C z | \
+A,4 | A, A, A, A, | A, A, A, A, | A, A, A, z | \
+Z | z D D z | Z | z A, A, z | \
+z A, A, z | z D D z | "_[error in ms?]" A,4 | A, A, A, z | \
+A,4 | A, A, A, z | A,4 | A, z A, z | A, z A, z | A, z D2 | A,2 E E | A,2 D2 | \
+A,2 E E | A, A, A, A, | A, A, A, A, | A,2 !fermata!z2 || \
+[M:2/4] [K:C] [L:1/8] [Q: "Andantino" 1/2=30] z | Z23|| \
+[M:C] [L:1/4] [Q:"Allegro(?)" 1/2=70]  Z | X | X | X | \
+A, z A, A,| A,z A, A, | A, A, A, A, | A,2 z2 || [K:D] z4 | \
+Z | z4 | z4 | z4 | \
+Z | A,4 | A, A, A, F, | A,2 A, A,|A,2 A, A,|D,4 | \
+D,4 | D,4 | D, z z2 | F2 F/E/D/C/ | \
+D D D D | A,4 | Z | z4| D z/D/ D/A,/F,/D,/ | \
+A, z/A,/ A, A, | A, A, A, z | D, z z2 | X | \
+z D D z | X | z D D z | z D D z | \
+z D D z | z A, A, z | D, z z2 | D, z z2 | \
+D,4 | D,4 | D,4 | D,4 | \
+D,4 | D,4 | D,4 | D,4 | \
+D,/D,/ D, z2 | D, z z2 | D,4 | D,4 | \
+D, z D z | C2 A,2 | F, z/E//E// F E/>D/ | D z/D/ D A,/>F,/ | \
+F, z/F/ F E/>D/ | D z/D/ D A,/>F,/ | F,/A,/F,/A,/ D/A,/D/A,/| D D D D/>D/ | D z D z | \
+D z z2 || \
+[K: F bass] [L:1/4] [Q: "Allegro Maestoso" 1/2=60] "^Corni in F" x3/8 | \
+A,,2 F,2 | A, C,2 G, | G, F,/>F,/ F, z | z A,2 G,| G, F,/>F,/ F, z | C, A,, C, A,, | \
+C, A,,/>A,,/ A,, A,, | C, A,, C, A,, | C, A,, A,, z | X | C,2 F,2 | C,2 F,2 | \
+C,2 z2 | C,4 | C,4 | C,4 | F,, F,, F,, z | F,,4 | F,,2  z2 | F,,4 | \
+F,,2  z2 | z2 F, E, | A,, F,/>G,/ A,/>F,/ B,/>A,/ | A, G, F, C, | \
+A,, F,/>G,/ A,/>F,/ B,/>A,/ | A, G, F, C, | A,, A,, A,, z | A,,2 F,2 | \
+C,, A,2 G, | G, F,/>F,/ F, F, | C, A,, C, A,, | C, A,,/>A,,/ A,, F, | \
+C, A,, C, A,, | C, A,, F,2 | F, z F,> C,| A,, A,,/>A,,/ A,, z | C,4 | \
+C,4 | C,4 | C,4 | C,4 | C, z C, z | F,2 z2 | G,2>G,2 | G,4 | \
+G,4 | G,4 | G,4 | z/ C,//C,// C,/C,/ C, z | \
+z/ C,//C,// C,/C,/ C, z | z/ C,//C,// C,/C,/ C, z | F,, F,, F,, z | C, z G,2 | \
+C, C, C, C, | C, G, G, G, | C, C, C, C, | C, G, G, G, | \
+C, z C,/C,/ C,/C,/ | C, z C,/C,/ C,/C,/ | C, z z2 | Z | \
+G,,/G,,//G,,// G,, B,,/B,,//B,,// B,, | E,/E,/F,/F,/ E,/E,/B,,/B,,/ | G,,/G,,//G,,//G,,/G,,/ G,,2| \
+G,,/G,,//G,,//G,,/G,,/ G,,2| G,,/E,//E,// E,/E,/ E,2 | E,/G,/E,/B,,/ G,, G, | \
+A, G, F, G, | B,, B,, z B,,/ z/ | B,,/z/ B,,/z/ B,,/z/ B,,/z/ | B,,4- | \
+B,,4- | B,,2 z B,,/ z/ | B,,/z/ B,,/z/ B,,/z/ B,,/z/| X | x4|  x4|  x4|  X | X | \
+A,, A,, A,, A,, | A,, A,, A,, z | A,,2 F,2 | \
+C, A,2 G, | G, F,/>F,/ F, F, | C,A,,C,A,,|C,F,/>F,/F,F,| \
+C, A,, C, A,, | C, A,, A,, F, | F, z z2 | C, C, C, z | \
+C,4 | C,4 | C,4 | F, F, F, F, | \
+F, z z C, | A,, E, C, z | z F,2 D, | C, C, C, z | \
+z F,2 D, | C, C, C, E, | G, A, G, A, | C, F, F,2 | \
+F, z z C, | F,, z F,, z | F,2 C,2 | A,,2 C,2 | \
+F,2 C,2 |  F, z F, C, | F,, z F, C, | A,,/A,,//A,,// A,,/C,/  A,,/F,//F,// F,/A,/ | \
+F, A,,/C,/ A,,/C,/ A,,/C,/ | A,, A,, A,, z |]
+%--------------------------------------

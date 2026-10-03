@@ -1,0 +1,92 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walzer  G
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.56 (wz09022) orig. G-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+g |"D7"fAc | f2e | "G"dGB | e2d | "D7"cFA | d2d | de/f/ g/a/ | "G"b2g | "D7"fAc | f2e | 
+"G"dGB | e2d | "C"e2a | "G"d2g | "D7"fef | "G"gzz || "G"B g/g/ g/g/ | .g.f.e | BAB | "D7"d2c | Af/f/ f/f/ | 
+fdf | dcA | d2c | "G"Bd/d/ d/d/ | .d.c.B | BAB | "D7"d2c | Ac/c/ c/c/ | cBA | dcA | "G"Bzz |] 
+% wz09022
+X:2
+T:Walzer  C 7-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+c |"G7"BDF | B2A | "C"GCE | A2G | "G7"FB,D | G2G | GA/2B/2 c/2d/2 | "C"e2c | "G7"BDF | B2A | 
+"C"GCE | A2G | "F"A2d | "C"G2c | "G7"BAB | "C"czz || "C"E c/2c/2 c/2c/2 | .c.B.A | EDE | "G7"G2F | DB/2B/2 B/2B/2 | 
+BGB | GFD | G2F | "C"EG/2G/2 G/2G/2 | .G.F.E | EDE | "G7"G2F | DF/2F/2 F/2F/2 | FED | GFD | "C"Ezz |] 
+% wz09022
+X:3
+T:Walzer  F 2-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F%%MIDI gchordon
+f |"C7"eGB | e2d | "F"cFA | d2c | "C7"BEG | c2c | cd/2e/2 f/2g/2 | "F"a2f | "C7"eGB | e2d | 
+"F"cFA | d2c | "Bb"d2g | "F"c2f | "C7"ede | "F"fzz || "F"A f/2f/2 f/2f/2 | .f.e.d | AGA | "C7"c2B | Ge/2e/2 e/2e/2 | 
+ece | cBG | c2B | "F"Ac/2c/2 c/2c/2 | .c.B.A | AGA | "C7"c2B | GB/2B/2 B/2B/2 | BAG | cBG | "F"Azz |] 
+% wz09022
+X:4
+T: Walzer  G (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+g |"D7"fAc | f2e | "G"dGB | e2d | "D7"cFA | d2d | de/f/ g/a/ | "G"b2g | "D7"fAc | f2e | 
+"G"dGB | e2d | "C"e2a | "G"d2g | "D7"fef | "G"gzz || "G"B g/g/ g/g/ | .g.f.e | BAB | "D7"d2c | Af/f/ f/f/ | 
+fdf | dcA | d2c | "G"Bd/d/ d/d/ | .d.c.B | BAB | "D7"d2c | Ac/c/ c/c/ | cBA | dcA | "G"Bzz |] 
+% wz09022
+X:5
+T:Walzer  C (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+c |"G7"BDF | B2A | "C"GCE | A2G | "G7"FB,D | G2G | GA/2B/2 c/2d/2 | "C"e2c | "G7"BDF | B2A | 
+"C"GCE | A2G | "F"A2d | "C"G2c | "G7"BAB | "C"czz || "C"E c/2c/2 c/2c/2 | .c.B.A | EDE | "G7"G2F | DB/2B/2 B/2B/2 | 
+BGB | GFD | G2F | "C"EG/2G/2 G/2G/2 | .G.F.E | EDE | "G7"G2F | DF/2F/2 F/2F/2 | FED | GFD | "C"Ezz |] 
+% wz09022
+X:6
+T:Walzer  F (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+f |"C7"eGB | e2d | "F"cFA | d2c | "C7"BEG | c2c | cd/2e/2 f/2g/2 | "F"a2f | "C7"eGB | e2d | 
+"F"cFA | d2c | "Bb"d2g | "F"c2f | "C7"ede | "F"fzz || "F"A f/2f/2 f/2f/2 | .f.e.d | AGA | "C7"c2B | Ge/2e/2 e/2e/2 | 
+ece | cBG | c2B | "F"Ac/2c/2 c/2c/2 | .c.B.A | AGA | "C7"c2B | GB/2B/2 B/2B/2 | BAG | cBG | "F"Azz |] 
+% wz09022
+X:7
+T:Walzer D (tinwhistle in D)
+T:wz09022 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+d |"A7"cEG | c2B | "D"ADF | B2A | "A7"GCE | A2A | AB/2c/2 d/2e/2 | "D"f2d | "A7"cEG | c2B | 
+"D"ADF | B2A | "G"B2e | "D"A2d | "A7"cBc | "D"dzz || "D"F d/2d/2 d/2d/2 | .d.c.B | FEF | "A7"A2G | Ec/2c/2 c/2c/2 | 
+cAc | AGE | A2G | "D"FA/2A/2 A/2A/2 | .A.G.F | FEF | "A7"A2G | EG/2G/2 G/2G/2 | GFE | AGE | "D"Fzz |] 
+X:8
+T:Walzer D (tinwhistle in D) solo
+T:wz09022 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/4
+K:D transpose=12
+d |cEG | c2B | ADF | B2A | G"_=C"CE | A2A | AB/2c/2 d/2e/2 | f2d | cEG | c2B | 
+ADF | B2A | B2e | A2d | cBc | dzz || F d/2d/2 d/2d/2 | .d.c.B | FEF | A2G | Ec/2c/2 c/2c/2 | 
+cAc | AGE | A2G | FA/2A/2 A/2A/2 | .A.G.F | FEF | A2G | EG/2G/2 G/2G/2 | GFE | AGE | Fzz |]
+% Aug 1st, 2016 (Happy Birthday Switzerland)

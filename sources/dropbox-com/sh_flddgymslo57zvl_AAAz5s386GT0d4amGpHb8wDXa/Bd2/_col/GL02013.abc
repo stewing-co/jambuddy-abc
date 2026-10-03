@@ -1,0 +1,69 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Galopp FC
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.270f (GL02013) orig. F,C
+T: Graubünden. Repertoire von Peter Davoli, Davos/Samedan
+T: Überliefert vermutlich durch Joggi Stocker (1889-1956)
+O:Switzerland
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c/c/ | "F"f>e e>d | "C7"d>c c>B | "F"d>c cf | A3c | "C7"d>c c>e | B3c | "F"d>c c>f | A3c | f>e e>d | 
+"Bb"d>c c>B | "F"d>c cf | A3c | "Bb"dd/d/ dd | "C7"ef/e/ de | "F"f2"C7"e2 | "F"ff fc/c/ |] "C7"cbe2 | cbe2 | "F"ca fA | 
+c2zc | "C7"cg ec | cg ec |  "F"fe fg | a2zc | "C7"cbe2 | cbe2 | "F"ca fA | c2zc | "Bb"de fg |
+"F"a3c | "C7"b3e | "F"ff fz || [K:C] "C"c3e | g3g | ^f>g a>e | "G7"f3d | d>e f>g | b3a | g>f e>d | 
+"C"c>a g2 | c3e | g3g | "F"f3g | a3a | "G7"g>a gf | "C"ed ce | "G7"g>g ab | "C"c'c' c'z |] 
+% GL02013 (H 071/Tn 9)
+
+X:2
+T:Galopp FC  (GL02013) (5letras transposed)
+O:Switzerland
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+c/c/ | "F"f>e e>d | "C7"d>c c>B | "F"d>c cf | A3c | "C7"d>c c>e | B3c | "F"d>c c>f | A3c | f>e e>d | 
+"Bb"d>c c>B | "F"d>c cf | A3c | "Bb"dd/d/ dd | "C7"ef/e/ de | "F"f2"C7"e2 | "F"ff fc/c/ |] "C7"cbe2 | cbe2 | "F"ca fA | 
+c2zc | "C7"cg ec | cg ec |  "F"fe fg | a2zc | "C7"cbe2 | cbe2 | "F"ca fA | c2zc | "Bb"de fg |
+"F"a3c | "C7"b3e | "F"ff fz || [K:C] "C"c3e | g3g | ^f>g a>e | "G7"f3d | d>e f>g | b3a | g>f e>d | 
+"C"c>a g2 | c3e | g3g | "F"f3g | a3a | "G7"g>a gf | "C"ed ce | "G7"g>g ab | "C"c'c' c'z |] 
+% GL02013 
+
+X:3
+T:Galopp CG 5-  (GL02013)
+O:Switzerland
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G/2G/2 | "C"c>B B>A | "G7"A>G G>F | "C"A>G Gc | E3G | "G7"A>G G>B | F3G | "C"A>G G>c | E3G | c>B B>A | 
+"F"A>G G>F | "C"A>G Gc | E3G | "F"AA/2A/2 AA | "G7"Bc/2B/2 AB | "C"c2"G7"B2 | "C"cc cG/2G/2 |] "G7"GfB2 | GfB2 | "C"Ge cE | 
+G2zG | "G7"Gd BG | Gd BG | "C"cB cd | e2zG | "G7"GfB2 | GfB2 | "C"Ge cE | G2zG | "F"AB cd |
+"C"e3G | "G7"f3B | "C"cc cz || [K:Gmaj] "G"G3B | d3d | ^c>d e>B | "D7"c3A | A>B c>d | f3e | d>c B>A | 
+"G"G>e d2 | G3B | d3d | "C"c3d | e3e | "D7"d>e dc | "G"BA GB | "D7"d>d ef | "G"gg gz |] 
+% GL02013 
+
+X:4
+T:Galopp D&A (tinwhistle in D) var. solo
+T:GL02013 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+O:Switzerland
+R:galopp
+M:2/4
+L:1/8
+K:D transpose=12
+A/2A/2 | d>c c>B | B>A A>G | B>A Ad | F3A | B>A A>c | G3A | B>A A>d | F3A | d>c c>B | 
+B>A A>G | B>A Ad | F3A | BB/2B/2 BB | cd/2c/2 Bc | d2c2 | dd dA/2A/2 |] Agc2 | Agc2 | Af dF | 
+A2zA | Ae cA | Ae cA | dc de | f2zA | Agc2 | Agc2 | Af dF | A2zA | Bc de |
+f3A | g3c | dd dz || [K:Amaj] A3c | e3e | ^d>e f>c | d3B | B>c d>e | "_#"g3f | e>d c>B | 
+A>f e2 | A3c | e3e | d3e | f3f | e>f ed | cB Ac | e>e f"_#"g | aa az |]
+% GL02013 
+% Sep 26, 2016

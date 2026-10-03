@@ -1,0 +1,97 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Mir gan no lang nit hei (Walzer ) FC
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.183 (wz09314) orig. F,C
+T: \"Uberliefert durch Lina Krupski-Herger (1946), Lehrer Leuthold (1945), Edy Lussy und Melk Rohrer (1949)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+c |: "C7"c'3 | c'g>a | "F"f3 | agf | "C7"c'zb | az"tr" g | "F"f2b | azc | "C7"c'3 | c'g>a | 
+"F"f3 | "tr"agf | "C7"c'zb | az"tr" g | ("F"f3 | f)zc :: [K:C] ("C"g2c') | (c'2e) | "G7"d/b/bb | b3 | f2a | 
+a2f | "C"e/g/gg | g3 | (g2c') | c'2e | "Dm"d/a/aa | a3 | "G7"g2f | d2g | ("C"c3 | c)zc :| [K:F] 
+|: "F"d2e | f2e | ("C7"B3 | B)zB | c2d | e2d | ("F"A3 | A)zc | a2a | "D7"b2a | "Gm"a2g | 
+d3 | "C7"g2g | a2g | "F"gfd | c2c | d2e | f2e | ("C7"B3 | B)zB | c2d | e2d | 
+("F"A3 | A)zc | a2a | "D7"b2a | "Gm"agf | efd | "C7"c2e | a2g | ("F"f3 |1  f)zc :|2 fzz |] 
+W: Anmerkung H.C.: Var. Gassmann op. 42/26
+W: Mir gan no lang nit hei (Wir gehen noch lange nicht heim / nach Hause)
+% wz09314 (H 335/TN 13)
+X:2
+T:Mir gan no lang nit hei (Walzer ) CG 5-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G |: "G7"g3 | gd>e | "C"c3 | edc | "G7"gzf | ez"tr" d | "C"c2f | ezG | "G7"g3 | gd>e | 
+"C"c3 | "tr"edc | "G7"gzf | ez"tr" d | ("C"c3 | c)zG :: [K:G] ("G"d2g) | (g2B) | "D7"A/2f/2ff | f3 | c2e | 
+e2c | "G"B/2d/2dd | d3 | (d2g) | g2B | "Am"A/2e/2ee | e3 | "D7"d2c | A2d | ("G"G3 | G)zG :| [K:C] 
+|: "C"A2B | c2B | ("G7"F3 | F)zF | G2A | B2A | ("C"E3 | E)zG | e2e | "A7"f2e | "Dm"e2d | 
+A3 | "G7"d2d | e2d | "C"dcA | G2G | A2B | c2B | ("G7"F3 | F)zF | G2A | B2A | 
+("C"E3 | E)zG | e2e | "A7"f2e | "Dm"edc | BcA | "G7"G2B | e2d | ("C"c3 |1 c)zG :|2 czz |] 
+% wz09314 (H 335/TN 13)
+X:3
+T:Mir gan no lang nit hei (Walzer ) FC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+c |: "C7"c'3 | c'g>a | "F"f3 | agf | "C7"c'zb | az"tr" g | "F"f2b | azc | "C7"c'3 | c'g>a | 
+"F"f3 | "tr"agf | "C7"c'zb | az"tr" g | ("F"f3 | f)zc :: [K:C] ("C"g2c') | (c'2e) | "G7"d/b/bb | b3 | f2a | 
+a2f | "C"e/g/gg | g3 | (g2c') | c'2e | "Dm"d/a/aa | a3 | "G7"g2f | d2g | ("C"c3 | c)zc :| [K:F] 
+|: "F"d2e | f2e | ("C7"B3 | B)zB | c2d | e2d | ("F"A3 | A)zc | a2a | "D7"b2a | "Gm"a2g | 
+d3 | "C7"g2g | a2g | "F"gfd | c2c | d2e | f2e | ("C7"B3 | B)zB | c2d | e2d | 
+("F"A3 | A)zc | a2a | "D7"b2a | "Gm"agf | efd | "C7"c2e | a2g | ("F"f3 |1  f)zc :|2 fzz |] 
+W: Anmerkung H.C.: Var. Gassmann op. 42/26
+W: Mir gan no lang nit hei (Wir gehen noch lange nicht heim / nach Hause)
+% wz09314 (H 335/TN 13)
+X:4
+T:Mir gan no lang nit hei (Walzer ) CG (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+G |: "G7"g3 | gd>e | "C"c3 | edc | "G7"gzf | ez"tr" d | "C"c2f | ezG | "G7"g3 | gd>e | 
+"C"c3 | "tr"edc | "G7"gzf | ez"tr" d | ("C"c3 | c)zG :: [K:G] ("G"d2g) | (g2B) | "D7"A/2f/2ff | f3 | c2e | 
+e2c | "G"B/2d/2dd | d3 | (d2g) | g2B | "Am"A/2e/2ee | e3 | "D7"d2c | A2d | ("G"G3 | G)zG :| [K:C] 
+|: "C"A2B | c2B | ("G7"F3 | F)zF | G2A | B2A | ("C"E3 | E)zG | e2e | "A7"f2e | "Dm"e2d | 
+A3 | "G7"d2d | e2d | "C"dcA | G2G | A2B | c2B | ("G7"F3 | F)zF | G2A | B2A | 
+("C"E3 | E)zG | e2e | "A7"f2e | "Dm"edc | BcA | "G7"G2B | e2d | ("C"c3 |1 c)zG :|2 czz |] 
+% wz09314 (H 335/TN 13)
+X:5
+T:Mir gan no lang nit hei G&D (tinwhistle in D) var. solo
+T:wz09314 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=12
+D |: d3 | dA>B | G3 | BAG | dz"_c"c | BzT A | G2c | BzD | d3 | dA>B | 
+G3 | TBAG | dzc | BzT A | (G3 | G)zD :: [K:D] (A2d) | (d2F) | E/2"_#"c/2cc | c3 | G2B | 
+B2G | F/2A/2AA | A3 | (A2d) | d2F | E/2B/2BB | B3 | A2G | E2A | (D3 | D)zD :| [K:G] 
+|: e2f | g2f | ("_c"c3 | c)zc | d2e | f2e | (B3 | B)zd | b2b | c'2b | b2a | 
+e3 | a2a | b2a | age | d2d | e2f | g2f | (c3 | c)zc | d2e | f2e | 
+(B3 | B)zd | b2b | c'2b | bag | fge | d2f | b2a | (g3 |1 g)zd :|2 gzz |]
+
+X:6
+T:Mir gan no lang nit hei D&A (tinwhistle in D) solo
+T:wz09314 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+A |: a3 | ae>f | d3 | fed | azg | fzT e | d2g | fzA | a3 | ae>f | 
+d3 | Tfed | azg | fzT e | (d3 | d)zA :: [K:A] (e2a) | (a2c) | B/2"_#"g/2gg | g3 | d2f | 
+f2d | c/2e/2ee | e3 | (e2a) | a2c | B/2f/2ff | f3 | e2d | B2e | (A3 | A)zA :| [K:D] 
+|: B2c | d2c | (G3 | G)zG | A2B | c2B | (F3 | F)zA | f2f | g2f | f2e | 
+B3 | e2e | f2e | edB | A2A | B2c | d2c | (G3 | G)zG | A2B | c2B | 
+(F3 | F)zA | f2f | g2f | fed | cdB | A2c | f2e | (d3 |1 d)zA :|2 dzz |]
+
+% wz09314 (H 335/TN 13)
+% Aug.31, 2016

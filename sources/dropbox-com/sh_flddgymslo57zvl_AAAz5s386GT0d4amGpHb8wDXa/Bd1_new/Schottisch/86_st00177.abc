@@ -1,0 +1,56 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.126 (st00177) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c/c/ |: "F"ac "C7"gc | "F"ff/c/ ec | "C7"dc e>c | B3c/d/ | dc e>c |1 
+B3c/d/ | "F"dc f>c | A2z2 :|2 a3g | "F"ff/f/ "Bb"ff | "F"ff fg/f/ ||  
+|: 
+ "C7"+>+e2 +>+c'2 | b3e | "F"ff/g/ af | c3c | "C7"dc cb |1 c2zc | "F"dc ca | 
+"F"f2zg/f/ :|2 e2 c'>b | "F"f2"Bb"f>f | "F7"f2z2 |: [L:1/16] [K:Bb] "Bb"b2f2 dfdf | "F7"a2f2 efef | a2f2 efef | 
+"Bb"b2f2 dfdf | b2f2 dfdf | "F7"a2f2 efef |  a2e2 d'3c' | "Bb"b2b2 b2z2 :|   
+
+X:2
+T: Schottisch FBb chords (align)
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c/c/ |: "F"ac "C7"gc | "F"ff/c/ ec | "C7"dc e>c | B3c/d/ | dc e>c |1 \
+B3c/d/ | "F"dc f>c |
+ A2z2 :|2 a3g | "F"ff/f/ "Bb"ff | "F"ff fg/f/  \
+|:  "C7"+>+e2 +>+c'2 | b3e | "F"ff/g/ af | c3c |
+ "C7"dc cb |1 c2zc | "F"dc ca | \
+f2zg/f/ :|2 e2 c'>b | "F"f2"Bb"f>f | "F7"f2z2 |: [L:1/16] [K:Bb] "Bb"b2f2 dfdf |
+ "F7"a2f2 efef | a2f2 efef | \
+"Bb"b2f2 dfdf | b2f2 dfdf | "F7"a2f2 efef |  a2e2 d'3c' | "Bb"b2b2 b2z2 :|   
+
+X:3
+T:Schottisch CF 5- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G/2G/2 |: "C"eG "G7"dG | "C"cc/2G/2 BG | "G7"AG B>G | F3G/2A/2 | AG B>G |1 
+F3G/2A/2 | "C"AG c>G | E2z2 :|2 e3d | "C"cc/2c/2 "F"cc | "C"cc cd/2c/2 || 
+|: 
+"G7"!>!B2 !>!g2 | f3B | "C"cc/2d/2 ec | G3G | "G7"AG Gf |1 G2zG | "C"AG Ge | 
+"C"c2zd/2c/2 :|2 B2 g>f | "C"c2"F"c>c | "C7"c2z2 |: [L:1/16] [K:Fmaj] "F"f2c2 AcAc | "C7"e2c2 BcBc | e2c2 BcBc | 
+"F"f2c2 AcAc | f2c2 AcAc | "C7"e2c2 BcBc | e2B2 a3g | "F"f2f2 f2z2 :| 
+
+X:4
+T:Schottisch CF 5- chords (Anm)
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+G/2G/2 |: "C"eG "G7""_d"dG | "C"cc/2G/2 B"_ ="G | "G7""_a"AG "_h"B>G | "_f"F3G/2A/2 | "_a"AG "_h"B>G |1 \
+"_f"F3G/2"_a"A/2 | "C"AG c>G |
+E2z2 :|2 "G7"e3"_d"d | "C"cc/2c/2 "F"cc | "C"cc cd/2"_ ="c/2 \
+|: "G7"!>!"_h"B2 !>!g2 | "_f"f3"_ ="B | "C"cc/2d/2 ec | G3"_ ="G |
+"G7"AG Gf |1 G2zG | "C"AG Ge | \
+c2zd/2c/2 :|2 B2 g>f | "C"c2"F"c>c | "C7"c2z2 |: [L:1/16] [K:Fmaj] "F"f2c2 AcAc |
+"C7""_e"e2"_c"c2 BcBc | e2c2 BcBc | \
+"F"f2c2 AcAc | f2c2 AcAc | "C7""_e"e2"_c"c2 BcBc | "_e"e2B2 "_a"a3g | "F"f2f2 f2z2 :| 

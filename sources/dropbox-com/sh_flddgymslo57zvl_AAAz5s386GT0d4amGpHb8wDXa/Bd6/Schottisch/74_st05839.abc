@@ -1,0 +1,67 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:'s Chillevogl Eggers Sohn (Schottisch)  G
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.321 (st05839) orig. G-Dur
+T: "Riebg\"arteler", T\"anze aus Halisberg. S.319-338
+T: Aus dem Repertoire von Johann und Melchior Zenger.
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"D7"fed2 fed2 | "G"d'2g2b4 | "D7"fed2 fed2 | d'2f2c'4 | fed2 fed2 | d'2f2c'4 | f2e2 d2ef | "G"g2b2 g2z2 :| 
+|: "G"B4 "C"AGFE | "G"D4B,2DG | "D7"F2A2 D2EF | "G"G2B2G4 | B4 "C"AGFE | "G"D4B,2DG | "D7"F2A2 D2EF | "G"G2B2 G2z2 :| 
+% st05839
+X:2
+T:'s Chillevogl Eggers Sohn (Schottisch)  F 2-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"C7"edc2 edc2 | "F"c'2f2a4 | "C7"edc2 edc2 | c'2e2b4 | edc2 edc2 | c'2e2b4 | e2d2 c2de | "F"f2a2 f2z2 :| 
+|: "F"A4 "Bb"GFED | "F"C4A,2CF | "C7"E2G2 C2DE | "F"F2A2F4 | A4 "Bb"GFED | "F"C4A,2CF | "C7"E2G2 C2DE | "F"F2A2 F2z2 :| 
+% st05839
+X:3
+T:'s Chillevogl Eggers Sohn (Schottisch)  G (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"D7"fed2 fed2 | "G"d'2g2b4 | "D7"fed2 fed2 | d'2f2c'4 | fed2 fed2 | d'2f2c'4 | f2e2 d2ef | "G"g2b2 g2z2 :| 
+|: "G"B4 "C"AGFE | "G"D4B,2DG | "D7"F2A2 D2EF | "G"G2B2G4 | B4 "C"AGFE | "G"D4B,2DG | "D7"F2A2 D2EF | "G"G2B2 G2z2 :| 
+% st05839
+X:4
+T:'s Chillevogl Eggers Sohn (Schottisch)  F (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:F transpose=3 %%MIDI gchordon
+"C7"edc2 edc2 | "F"c'2f2a4 | "C7"edc2 edc2 | c'2e2b4 | edc2 edc2 | c'2e2b4 | e2d2 c2de | "F"f2a2 f2z2 :| 
+|: "F"A4 "Bb"GFED | "F"C4A,2CF | "C7"E2G2 C2DE | "F"F2A2F4 | A4 "Bb"GFED | "F"C4A,2CF | "C7"E2G2 C2DE | "F"F2A2 F2z2 :| 
+% st05839
+X:5
+T:'s Chillevogl Eggers Sohn D (tinwhistle in D) var.
+T:st05839 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"A7"cBA2 cBA2 | "D"a2d2f4 | "A7"cBA2 cBA2 | a2c2g4 | cBA2 cBA2 | a2c2g4 | c2B2 A2Bc | "D"d2f2 d2z2 :| 
+|: "D"f4 "G"edcB | "D"A4F2Ad | "A7"c2e2 A2Bc | "D"d2f2d4 | f4 "G"edcB | "D"A4F2Ad | "A7"c2e2 A2Bc | "D"d2f2 d2z2 :| 
+% July 21, 2016
+X:6
+T:'s Chillevogl Eggers Sohn D (tinwhistle in D) var. (solo)
+T:st05839 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D transpose=12
+cBA2 cBA2 | a2d2f4 | cBA2 cBA2 | a2c2g4 | cBA2 cBA2 | a2c2g4 | c2B2 A2Bc | d2f2 d2z2 :| 
+|: f4 edcB | A4F2Ad | c2e2 A2Bc | d2f2d4 | f4 edcB | A4F2Ad | c2e2 A2Bc | d2f2 d2z2 :|
+% July 21, 2016

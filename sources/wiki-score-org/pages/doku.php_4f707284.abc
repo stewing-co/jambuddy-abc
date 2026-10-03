@@ -1,0 +1,29 @@
+X:4014
+T:Coro [Antandro, Demetrio, Euridice, Emirena, Eumene]
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:D
+V: 14 clef=bass name="[Basso]" sname="B."
+%%MIDI program 1 42
+%%staves [ 14 ]
+%-------------------
+"_[fol.396]" [Q:"Allegro"] z | D,zD,z | D,/A,/D/A,/ A,/F,/A,/F,/ | !/![A,D]2 !/![A,C]2 | D,/A,/D/A,/ !/!D,2 |  !/!D,4 | D,/A,/D/A,/ !/!D,2 |\
+"_[fol.397]" !/!D,4 |  D,/A,/D/A,/ !/!D,2 | G,/G,/F,/F,/ C,/C,/D,/D,/ | G,/G,/F,/F,/ C,/C,/D,/D,/ | A,,/A,/A,/C/ A,/A,/A,/C/ | !/!A,2 A,/C/E/C/ | A,A,A,z !segno!|| \
+"_[fol.398]" D,zD,z | D,/A,,/D,/A,,/ A,,!trem2!C, | A,,!trem2!D, A,,!trem2!C, | D,/D/A,/F,/ !/!D,2 | !/!D,4 |  D,/D/A,/F,/ !/!D,2 | \
+"_[fol.399]" !/!E,4 | !/!E,4 | G,3F, |  G,3F, | !/!G,2 !/!A,2 | D,zz2 | !/!A,,4 | \
+"_[fol.400]" D,zz2 | !/!A,,4 | D,z D/A,/F,/D,/ | G,3F, |  G,3F, | !/!G,2 !/!A,2 | \
+"_[fol.401]" !/!D,2 !/!B,2 | !/!G,2 !/!A,2 | !/!D,2 !/!B,2 | !/!G,2 !/!A,2 | D,/D,/F,/A,/  F,/D,/F,/A,/ | D D,/>D,/ D, !fine!z |] \
+%--- "^Questo Coro" "^si replica" "^p.due volte(...)"
+"_[fol.402]" [Q:"Allegretto"][K:G]  G,zD,z | z/!f!G,/G,/G,/ G, z | z/G,/G,/!p!G,/ !/!G,2  | D,2G,z| !/!A,4 | !/!A,4 |\
+"_[fol.403]" !p!!/!A,4 | D,zG,z | A,zA,,z | !p!!/!D,4 | !/!D,4 | \
+"_[fol.404]" !/!D,4 |  !/!D,4 | D,D,D,z | B,,zB,,z | C,zC,z | D,zD,z | \
+"_[fol.405]" G,z !/!B,2 | !/!C4 | DzD,z | G,/D,/G,/B,/ A,/G,/F,/E,/ || "^NB: check" "^DC al segno" X | \
+"_[fol.406]" !p!!/!A,4 | !/!A,4 | !f!!p!!/!A,4 | !/!A,4 | !/!A,2 C,z | \
+"_[fol.407]" D,z!/!E,2 | A,,A,A,,z | ^G,z^D,z | !/!E,4 |  !/!E,4 | E,zA,z| !/!B,2 \
+"_[fol.408]" !/!B,,2 !p!|  !/!E,4 | !/!E,4 | !/!E,4 | E,zE,z | !/!E,2  \
+"_[fol.409]" !/!E,2 | !/!E,4 | !/!E,4 |  E,zE,z |  E,E,E,z | A,,z !p!A,,2 | A,,z \
+"_[fol.410]" A,,z | A,,zA,,z | A,,z !/!A,,2 | D,zE,z | !f!A,,ECA, | !p!!/!E,4 | \
+"_[fol.411]" !/!E,4 | !/!E,4 | !/!E,4 | E,E,E,z | A,,zC,z | \
+"_[fol.412]" D,D,D,z | !f! !/!E,4 | !p!A,,zC,z | D,z !/!D,2 | !/!E,4 | A,,/A,/D/B,/ A,/F,/=G,/E,/ || "_NB: check" "_DC al segno" X | \
+%-------------

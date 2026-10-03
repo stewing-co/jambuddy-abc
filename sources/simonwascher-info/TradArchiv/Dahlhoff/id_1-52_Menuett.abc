@@ -1,0 +1,56 @@
+X:0110521
+T:[ID 1-52]
+T:Bezeichnung standardisiert: Menuett
+T:Men:
+C:Urheber unbekannt
+C:Datum in der hier transkribierten schriftlichen Quelle: vermutlich vor 1767
+O:Deutschland; Westfalen; Dinker
+S:"Tanzsammlung Dahlhoff" Staatsbibliothek zu Berlin, Musiksammlung, Mus. ms. 40182, Buch 01, 052/1, PDF Nr: 58
+S:Scan online: http://resolver.staatsbibliothek-berlin.de/SBB0000969000000058
+F:http://simonwascher.info/TradArchiv/Dahlhoff/ file-version 2017-11-21
+Z:Erfassung in Capella Richmud Rollenbeck, Konversion nach MusicXML Joergen Lang, Konversion nach abc und abc Lektorat Simon Wascher
+L:1/8
+M:3/4
+K:A
+V:1 name="1mo"
+ag |\ %auftakt
+a2e2ef | e4d2 | cde2G2 | A4a2 | \
+gabgaf | \
+gabgaf | gfe2^d2 | e4 ::
+e^d |\ %auftakt
+e2B2Bc | B4d2 | cdeABG | A4B2 | \
+cdecdB | \
+cdecdB | cBA2G2 | A4 H:|
+V: name="2do"
+fe |\ %auftakt
+f2c2cd | c4B2 | ABc2E2 | C4f2 | \
+efgefd | \
+efgefd | ecB2A2 | G4 ::
+GF |\ %auftakt
+G2G2GA | G4B2 | ABcFGE | C4G2 | \
+ABcABG | \
+ABcABG | AGF2E2 | C4 !invertedfermata!:|
+%%text Diese beiden Stimmen stehen direkt beieinander und geh\"oren offenbar zusammen.
+%%text Aus Simon Waschers TradArchiv
+
+X:0610681
+T:[ID 1-52]
+T:Bezeichnung standardisiert: Menuett
+T:Menuet 9.
+C:Urheber unbekannt
+C:Erstbeleg: vor 1767 (Datum in der schriftlichen Quelle)
+C:Datum in der hier transkribierten schriftlichen Quelle: 1775
+O:Deutschland; Westfalen; Dinker
+S:"Tanzsammlung Dahlhoff" Staatsbibliothek zu Berlin, Musiksammlung, Mus. ms. 40182, Buch 06, 068/1, PDF Nr: 682
+S:Scan online: http://resolver.staatsbibliothek-berlin.de/SBB0000969000000682
+F:http://simonwascher.info/TradArchiv/Dahlhoff/ file-version 2017-11-21
+Z:Erfassung in Capella Richmud Rollenbeck, Konversion nach MusicXML Joergen Lang, Konversion nach abc und abc Lektorat Simon Wascher
+L:1/8
+M:3/4
+K:A
+fe |\ %auftakt
+f2c2cd | c4B2 | ABc2E2 | C4f2 | efgefd | efgefd | ecB2A2 | G4 ::
+GF |\ %auftakt
+G2G2GA | G4B2 | ABcFGE | C4G2 | ABcABG | ABcABG | AGF2E2 | C4 H:|
+%%text Aus Simon Waschers TradArchiv
+

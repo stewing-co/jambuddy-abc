@@ -1,0 +1,501 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+
+Misleading Final Notes
+======================
+
+In most European art music, the final note of a tune is its tonal centre.
+In many Scottish tunes, it isn't; this is very often the case with dance
+tunes intended to be repeated indefinitely in a circular pattern, but it
+often occurs with songs as well.  Probably the commonest type are those
+ending on the third:
+
+X:0
+T:The Campbells are Comin'
+G:song or jig
+S:222 Popular Scottish Songs with Music (1868)
+N:this tune has probably the most complicated history and the most
+N:alternate titles of anything in Scottish musical tradition
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+D|FAB  AFD |F2F  F2E|FAB AFD |E2E E2D|
+  FAB  AFD |F>GF def|dBd AFD |F2F F2||
+A|d2d  d>ef|A2A  AFD|d2d d>ef|B2B B2A|
+  A>Bc d>cB|A>Bc def|dBd AFD |F2F F2|]
+
+X:0
+T:The Shepherd's Dochter
+S:Kinsley, The Oxford Book of Ballads
+M:C
+L:1/8
+Q:1/4=100
+K:D
+ A   |d>e f(e/f/) af          e(d/B/)|d>e  f(e/f/)   a3
+ z/A/|d>e f(e/f/) ae          e(f/e/)|dB  (B/c/d/e/) f3||
+ z/e/|dB  Bd     (e/d/)(e/f/) e(f/e/)|dB  (B/c/d/e/) f2
+fe   |dB  Bd     (e/d/)(e/f/) e(f/e/)|dB  (B/c/d/e/) f3|]
+
+It's sometimes said that you don't want to end a lullaby on the tonal
+centre because the finality of that might wake the baby up:
+
+X:0
+T:The Highland Balou
+B:Ewan MacColl, Personal Choice
+M:C
+L:1/8
+Q:1/4=80
+K:D
+F>D F>D F>D F<A|G>F G>A B>A B<d|
+D>E DF  G>A F2 |G>G AA  E>G F2|]
+
+The fifth is also common.  This tune is in mixolydian/major hexatonic
+ending on the fifth above the tonal centre:
+
+X:0
+T:The Deil's Awa wi th' Exciseman
+G:song or jig
+M:6/8
+L:1/8
+Q:3/8=120
+K:G
+G|G2d d>ed|c2B A2c|d2G G2A|B3 d2:|
+d|B2B G2B |A2A D2B|d2G G2A|B3 d2:|
+
+This is mixolydian/dorian hexatonic but ends on the fifth:
+
+X:0
+T:Besuthian
+G:New Year guising song from Banff
+S:Katherine Campbell, The Fiddle in Scottish Culture, 2007
+M:6/8
+L:1/8
+Q:3/8=92
+K:EDor
+c|d2c BBA|Bcd F2
+F|E3  D2E|F3  A2
+A|A2d F2E|D2E FF
+A|E2E FEA|B3- B2|]
+
+This tune is in mixolydian/major hexatonic but ends on the fourth
+below the tonal centre:
+
+X:0
+T:Mairi's Wedding
+G:dance song
+M:4/4
+L:1/8
+Q:1/4=120
+K:G
+D>DDE GAB2|AGEG BAB2 |
+D>DDE GAB2|AGEC D2D2||
+d>dde dcB2|AGEG BAB2 |
+d>dde dcB2|AGEC D2D2|]
+
+This ancient Shetland ballad tune is mixolydian/minor/dorian hexatonic
+and ends on the fifth:
+
+X:0
+T:King Orfeo
+G:ballad air
+S:Kinsley, Oxford Book of Ballads
+M:C
+L:1/8
+Q:1/4=80
+K:DDor
+G2|AG Ac d<e d2   |cA GE D3
+ C|CC cA AG  A/GE/|DC DE G A3|]
+
+This Shetland fiddle march is really in D major, but ends on A:
+
+X:0
+T:Da Mill
+G:march, sort of
+S:Tom Anderson, Haand me Doon Da Fiddle
+M:4/4
+L:1/8
+Q:1/4=112
+K:AMix
+ABcd e2f2|d2d>d d2fe|dcBA   ABcA  |B2E>E E2ec|
+dcBA ABcA|d2d>d d2fe|dcBA (3Bcd cB|A2A<B A4 :|
+ecAc ecAc|fdBd  fdBd|AFDF   AFDF  |BGEG  BGE2|
+ecAB ecef|d2dd  d2fe|dcBA (3Bcd cB|A2A<B A4 :|
+
+And this Shetland wedding march song tune is minor/dorian hexatonic
+ending on the fifth:
+
+X:0
+T:Noo Mun I Lave Faither an Mither
+G:Shetland wedding march
+S:Katherine Campbell, The Fiddle in Scottish Culture, 2007
+M:6/8
+L:1/8
+Q:3/8=80
+K:GMin
+  G2A B2B|BcB AG
+F|G2A B2B|BcB BA
+z|G2A B2B|c2c d2
+B|BAG GFD|F2F D3|]
+
+From the other end of Scotland, this hexatonic Border tune ends on
+the fifth:
+
+X:0
+T:Braw, Braw Lads o Galla Water
+G:song
+M:4/4
+L:1/8
+Q:1/4=124
+K:D
+% lydian/major hexatonic
+F2 E>D D3F|A3  B A<FE>D|F2 E2  E2 F>A|B>Ad>c B2 AA |
+A2 Bc  d3e|f>edB d3   F|F2 E>F E2 F>A|d3   c B2 A2|]
+
+This major/mixolydian hexatonic song ends on the fifth below:
+
+X:0
+T:Macpherson's Rant
+M:C
+L:1/8
+Q:1/4=100
+K:F
+CD|F3C F2 A2|GF GA G2 CD|F3A BA GF|D6
+CD|F3C F2 GF|A2 G2 G2 CD|F3A GF D2|C6||
+AB|c3A BA GF|A2 G2 G2 AB|c3c BA GF|D6
+d2|c3A BA GF|A2 G2 G2 CD|F3A GF D2|C6|]
+
+This ballad tune (one of the oldest known) is centred on D at the
+start of each line and through most of the central part, but ends
+with a bar in A major.  It's hexatonic, and the missing G adds to
+the ambiguity.
+
+X:0
+T:Greysteil
+S:Straloch lute MS, 1627; probably as sung to James IV in 1497
+B:Robert Chambers, Book of Days, volume 1, for April 17
+M:C
+L:1/4
+Q:1/4=120
+K:D
+F>F F d    |c>B A F|E>E E d    |c B A2 |
+F>F F d    |c>B A F|E>E E d    |c B A2 |
+d D A(B/c/)|d c B A|d D A(B/c/)|d c B A|
+f>f f f    |f f f f|e>e e d    |c B A2 |
+d D A B/c/ |d c B A|d D A(B/c/)|d c B A|
+F>F F d    |c>B A F|E>E E d    |c B A2 |
+F>F F d    |c>B A F|E>E E d    |c B A2|]
+
+This tune is in the minor mode with tonal centre D but ends on A:
+
+X:0
+T:Bat' an Aisig
+T:The Ferry Boat
+G:rowing song
+S:Angus Fraser Collection
+M:3/4
+L:1/4
+Q:1/4=150
+K:DMin
+A2 G|   A<D z|F2 G|A2  A/z/ |\
+A f2|   e2  c|d2 e|f<A z    |
+A2 G|   A<D z|F2 G|A2  A/z/||\
+A2 A|   A2  G|A2 c|d2  c/z/ |
+B2 A|{A}G2  F|F2 A|G<B z    |\
+A2 G|   A<D z|F2 G|A2  A/z/ |
+A f2|   e2  c|d2 e|f<A z    |\
+A2 G|   A<D z|F2 G|A2  A/z/|]
+
+Another minor-mode tune from the Western Isles with a phrygian final:
+ 
+X:0
+T:Lament for Macleod
+G:song
+S:Frances Tolmie: 105 Songs of Occupation from the Western Isles of Scotland
+M:C
+L:1/8
+Q:1/4=80
+K:EMin
+ gf |e2 (ed)     B2  Be|(ed) (3(BAG)  G2  GA|B2 (AB) E2 E2|    B,6||
+(dc)|B2 (AG) ({G}F2) GE|(ED)    B,A,  B,2 Bd|e2 (ed) B2 A2|({A}B6)|]
+
+This ballad was probably based on a real incident from the Scottish
+Lowlands, but is now best known in English versions, including this
+one, which Vaughan Williams thought was Phrygian.  I can't imagine
+why.  It's really in C minor with a dominant ending.
+
+X:0
+T:The Trees They Grow So High
+S:Penguin Book of English Folk Songs
+M:6/8
+L:1/8
+Q:3/8=60
+K:CMin
+ c   | B2G  E2G|(B2c) c2 c|(FG)A (GF)E|C3  z2
+ E   | E2E  E2F| G2G (GF)E| F2 G (FE)D|C3  z2
+ c/c/|(B2G) E2G| B2c  c2 c|(FG)A (GF)E|C3  z
+CD   | E2F  E2D| C3   C2 C| C3    G3- |G3- G2|]
+
+This unusual tune from the Western Isles (a song with words from a
+poetic tradition common to Gaelic Scotland and Ireland) seems to be
+centred on F, but never really cadences on it and ends on the dominant
+as if in C phrygian:
+
+X:0
+T:Deirdre's Farewell to Scotland
+M:3/4
+L:1/4
+Q:1/4=100
+K:FMin
+(e> c) B|A2 A|B2 A|G A> z|(F> G) B|c2 c| c2   B|c2 z|
+(F A)  d|f2 f|e2 c|B A> z|(f e)  c|B2 A|(B A) B|c3 |]
+
+The Highland sword dance tune is in A mixolydian, but ends on E:
+
+X:0
+T:Ghillie Callum
+G:set dance
+M:C|
+L:1/8
+Q:1/4=120
+K:AMix
+A<Ac>A d2B<G|A<Ac>A e2 c<A|e2c<A  d2 B<G|A<Ac>A d<Be2:|
+A<Ac>A g2B<G|A<Ac>e a>ba>f|g>ag>e d<gB<G|A<Ac>A d<Be2 |
+A<Ac>A g2B<G|A<Ac>e a>ba>f|g<be<g d<gB<G|A<ag>e d<Be2|]
+
+This Lowland ballad tune (in an over-complicated 19th century transcription)
+does the same:
+
+X:0
+T:Sir Patrick Spens
+S:Christie's Traditional Ballad Airs
+M:C
+L:1/8
+Q:1/4=80
+K:AMix
+(E>F)|     G2  G2      G2   (GA/B/)|    (AF) (FE/F/) ({F}A2)\
+ A>F |({G} F2) E2      E2   (EF)   |(({F}A3)   F)        E2
+(E>F)|({EF}G2) G>A     B2   (G/A/B)|     AF  (FE/F/) ({F}A2)\
+ A>F |({G} F2) E2      E2   (cB)   |    (A3    F)        F2||
+zc |   c2      c2      d3     c    |     B2 B>c      ({c}e3)\
+ d |  (dc)    (BA) ({F}E3)    F    |(({F}A3    F))       E2
+zc |   c2      c2      d2    dc    |     d2  (de/f/) ({f}e3)\
+ d |  (dc)    (BA) ({F}E2)  (cB)   |    (A3    F)        E2|]
+
+This basically hexatonic pipe tune ends on E but is really A-final:
+
+X:0
+T:Jock Wilson's Ball
+G:reel
+M:C|
+L:1/8
+Q:1/2=100
+K:AMix
+% mixolydian/dorian hexatonic, A-final G-gap (one inconspicuous g)
+B|d2c2 B2f2 |Bcde  f>BB>c|d2 c2  B2f2 |A2e>A c<AA :|
+B|d2a2 f2e<f|d2f>e f>BB>c|d2 a2  f2e<f|A2e>A c<AA>B|
+  d2a2 f2e<f|d2f>e f>BB>c|d>ef>g a2a>f|e2e>d c<ee |]
+
+An E-final dorian mode pipe march ending on B:
+
+X:0
+T:Duntroon
+S:Scots Guards pipe tune book
+M:C
+L:1/8
+Q:1/2=92
+% slower than many people play it, but the tune gets lost at high speed
+K:EDor
+e2c<e  f2 d<f|e2 c<e A<Ac2|e2 c<e f2 c<e|d2 G<d B<GB2 |
+e2c<e  f2 d<f|f>ec<e A<Ac2|d>ef>d c2 e>c|B>cd>B G<GB2||
+e>Ae>c A>Bc>d|e>fe>c A<Ac2|e>Ae>c A>Bc>A|B>cd>B G<GB2 |
+e>Ae>c A>Bc>d|e<ae>c A<Ac2|d>ef>d c2 e>c|B>cd>B G<GB2||
+A<Ac<A c<Ac<A|A<Ac<A c<Ac2|A<Ac<A c<Ac<A|B<GG<G B<GB2 |
+A<Ac<A c<Ac<A|A<Ac<e e>Ac2|d>ef>d c2 e>c|B>cd>B G<GB2||
+e<ag<a e>Ac<A|e<ag<a e>Ac2|e<ag<a e>AB<A|B<GG<G B<GB2 |
+e<ag<a e>Ac<A|e<ag>f e>Ac2|d>ef>d c2 e>c|B>cd>B G<GB2|]
+
+One of the most-sung tunes of the early 18th century, a Baroque-influenced
+drinking song in G dorian but ending on A as if it were in D minor:
+
+X:0
+T:A health to Beattie
+S:NLS MS.5778
+M:6/4 % "3|" in original
+L:1/4
+K:G Dor
+G|G(AG) F2D|B2B A2F|Bcd   cdB | f3   d2
+f|fd2   B2B|cA2 F2F|G(AG) F>ED|(B2c) A2|]
+
+The most disconcerting of all would appear from the final note to be in the
+Locrian mode, but is obviously in G major:
+
+X:0
+T:Souters of Selkirk
+G:jig
+M:9/8
+L:1/8
+Q:3/8=132
+K:G
+A|Bde dBg  dBG|Bde dBg  f2
+A|Bde dBg  dBG|cde dBg  f2:|
+A|GBd g>fe dcB|GBd g>fe f2
+A|GBd g>fe dcB|cde dBg  f2:|
+
+This Shetland tune appears to be centred on G, but begins with the tonal
+centre on E and ends on the dominant:
+
+X:0
+T:Da Shaalds o Foula
+G:jig
+M:6/8
+L:1/8
+Q:3/8=120
+K:GMix
+% lydian/major/mixolydian pentatonic
+D|E2G G2e|edB BAG|G2B A2B|G2A GED|
+  E2G G2e|edB BAG|G2B A2B|d3  D2:|
+D|edB ABd|edB ABd|g2B A2B|G2A GED|
+  edB ABd|edB ABd|g2B A2B|d3  D2:|
+
+Pibroch can have a greater degree of ambiguity.  While the pipes always
+provide an A on the drones, this is not always the tonal centre of the
+melody played over them, and this piece seems to have no tonal centre at
+all, floating from one to the next in a repetitive pattern like that of
+English bellringing.  The "words" at the right are in canntaireachd, the
+syllabic notation used to record and transmit pipe music until about 1800;
+they describe the pitches and the gracenotes, but not the exact rhythm of
+the piece.
+
+X:0
+T:Cha Till Mac Cruimein
+T:Mac Crimmon Will Never Return
+G:piobaireachd
+C:attr. Donald Ban Mac Crimmon, 1745; certainly not by him
+B:Logan's Bagpipe Tutor
+M:6/8
+L:1/16
+Q:6/16=40
+R:pibroch
+K:AMix
+% C-gap hexatonic pitch set
+P:Ground
+e{AfA}e3f2 {g}B4f2|  {g}e4f2 {g}eA3{d}B2 |  % edreve hiove, cheve cheento,
+e{AfA}e3f2 {g}B4f2|  {g}e4f2 {g}eG3{d}B2 |  % edreve hiove, cheve cheemto,
+e{AfA}e3f2 {g}B4e2|{Adc}d4e2 {g}dA3{d}B2||  % edreve hiode, trae  haento;
+e{AfA}e3f2 {g}B4f2|  {g}e4f2 {g}eG3{d}B2 |  % edreve hiove, cheve cheemto,
+e{AfA}e3f2 {g}B4e2|{Adc}d4e2 {g}dG3{d}B2 |  % edreve hiode, trae  haemto,
+e{AfA}e3f2 {g}B4e2|{Adc}d4e2 {g}dA3{d}B2||  % edreve hiode, trae  haento;
+e{AfA}e3f2 {g}B4f2|  {g}e4f2 {g}eG3{d}B2 |  % edreve hiove, cheve cheemto,
+e{AfA}e3f2 {g}B4e2|{Adc}d4e2 {g}dA3{d}B2|]  % edreve hiode, trae  haento.
+P:Variation 1
+e{AfA}e3a2    B4f2|  {g}e4a2    eA3{d}B2 |  % edreI  hiove, cheI  deento,
+e{AfA}e3a2    B4f2|  {g}e4a2    eG3{d}B2 |  % edreI  hiove, cheI  deemto,
+e{AfA}e3a2    B4e2|{Adc}d4a2    dA3{d}B2||  % edreI  hiode, traI  aento;
+e{AfA}e3a2    B4f2|  {g}e4a2    eG3{d}B2 |  % edreI  hiove, cheI  deemto;
+e{AfA}e3a2    B4e2|{Adc}d4a2    dG3{d}B2 |  % edreI  hiode, traI  aemto,
+e{AfA}e3a2    B4e2|{Adc}d4a2    dA3{d}B2||  % edreI  hiode, traI  aento;
+e{AfA}e3a2    B4f2|  {g}e4a2    eG3{d}B2 |  % edreI  hiove, cheI  deemto,
+e{AfA}e3a2    B4e2|{Adc}d4a2    dA3{d}B2|]  % edreI  hiode, traI  aento.
+P:Variation 2
+{g}e4f2    {g}B4f2|  {g}e4f2 {g}eA3{d}B2 |  % cheve  hiove, cheve cheento,
+{g}e4f2    {g}B4f2|  {g}e4f2 {g}eG3{d}B2 |  % cheve  hiove, cheve cheemto,
+{g}e4f2    {g}B4e2|{Adc}d4e2 {g}dA3{d}B2||  % cheve  hiode, trae  haento;
+{g}e4f2    {g}B4f2|  {g}e4f2 {g}eG3{d}B2 |  % cheve  hiove, cheve cheemto,
+{g}e4f2    {g}B4e2|{Adc}d4e2 {g}dG3{d}B2 |  % cheve  hiode, trae  haemto,
+{g}e4f2    {g}B4e2|{Adc}d4e2 {g}dA3{d}B2||  % cheve  hiode, trae  haento;
+{g}e4f2    {g}B4f2|  {g}e4f2 {g}eG3{d}B2 |  % cheve  hiove, cheve cheemto,
+{g}e4f2    {g}B4e2|{Adc}d4e2 {g}dA3{d}B2|]  % cheve  hiode, trae  haento.
+P:Doubling of Var 2
+{g}e4d2    {g}e4B2|  {g}e4f2 {g}eA3{d}B2 |  % chea   cheo,  cheve cheento,
+{g}e4d2    {g}e4B2|  {g}e4f2 {g}eG3{d}B2 |  % chea   cheo,  cheve cheemto,
+{g}e4d2    {g}e4B2|{Adc}d4e2 {g}dA3{d}B2||  % chea   cheo,  trae  haento;
+{g}e4d2    {g}e4B2|  {g}e4f2 {g}dG3{d}B2 |  % chea   cheo,  cheve cheemto,
+{g}e4d2    {g}e4B2|{Adc}d4e2 {g}dG3{d}B2 |  % chea   cheo,  trae  haemto,
+{g}e4d2    {g}e4B2|{Adc}d4e2 {g}dA3{d}B2||  % chea   cheo,  trae  haento;
+{g}e4d2    {g}e4B2|  {g}e4f2 {g}eG3{d}B2 |  % chea   cheo,  cheve cheemto,
+{g}e4d2    {g}e4B2|{Adc}d4e2 {g}dA3{d}B2|]  % chea   cheo,  trae  haento.
+P:Ground
+e{AfA}e3f2 {g}B4f2|  {g}e4f2 {g}eA3{d}B2 |  % edreve hiove, cheve cheento,
+e{AfA}e3f2 {g}B4f2|  {g}e4f2 {g}eG3{d}B2 |  % edreve hiove, cheve cheemto,
+e{AfA}e3f2 {g}B4e2|{Adc}d4e2 {g}dA3{d}B2||  % edreve hiode, trae  haento;
+e{AfA}e3f2 {g}B4f2|  {g}e4f2 {g}eG3{d}B2 |  % edreve hiove, cheve cheemto,
+e{AfA}e3f2 {g}B4e2|{Adc}d4e2 {g}dG3{d}B2 |  % edreve hiode, trae  haemto,
+e{AfA}e3f2 {g}B4e2|{Adc}d4e2 {g}dA3{d}B2||  % edreve hiode, trae  haento;
+e{AfA}e3f2 {g}B4f2|  {g}e4f2 {g}eG3{d}B2 |  % edreve hiove, cheve cheemto,
+e{AfA}e3f2 {g}B4e2|{Adc}d4e2 {g}dA3{d}B2|]  % edreve hiode, trae  haento.
+
+An outlaw ballad from the Hungarian "Csango" minority in Romanian
+Moldavia.  The centre on C (with G as a dominant) is set up in the
+first three lines, then the last line ends on the third:
+
+X:0
+T:Elment a madarka
+S:Csango Hungarian singers from Fundu Racaciuni, Romania
+N:not the usual tune found elsewhere for this song
+Z:Jack Campin
+M:3/2
+L:1/4
+Q:1/2=80
+K:CMix
+C2 DE FG|DC2- C2z |
+G2 AG BA|G2 G2 z2 |
+c2 BA BA|GA E D2z |
+A2 GF GF|E2 E2 z2||
+
+A tune from ancient Greece, inscribed on a stone pillar in what is now
+western Turkey about 100AD:
+
+X:0
+T:Scholion of Seikilos
+M:6/8
+L:1/8
+Q:3/8=44
+K:AMix
+Ae2 e3   |(cde)  d3  |c2d e(dc)|cA2 (BG2)  |
+Ace d(cd)| cA2  (BG2)|AcB dec  |AA2  A(FE)|]
+
+And here's what may be the oldest known example of a misleading final, in
+a dorian/minor/phrygian pentatonic tune from ancient China (the tonal
+centre is obviously D):
+
+X:0
+T:Entrance Hymn for the Emperor
+C:anon, Chinese, possibly 1000 BC
+S:Davidson and Apel, Historical Anthology of Music
+M:4/4
+L:1/4
+Q:1/2=60
+K:DDor
+D D A C|D2  D C|A c d c|A4    |\
+G F D C|A2  D C|A c d c|A4    |
+G F D C|A2  D C|A c d c|A2 G F|\
+D2  C A|C D C A|G4    |]
+
+This Slovenian tune shows clearly how a misleading final can develop.
+The last line has been cut off short (a common feature of Slovenian
+songs) before it can descend to the B flat as it does in the second
+line, leaving a tune which at first sight looks as if it's G phrygian:
+
+X:0
+T:Je bela cesta vglajena
+S:Zbrala Dusica Kunaver, Slovenian Customs and Songs
+M:3/4
+L:1/4
+Q:3/4=60
+K:BbMix
+G|B2 B|(B A) G|F2 B|A2
+B|d2 d|(d c) A|G2 c|B2
+G|B2 B|(B A) G|F2 B|A2
+B|d2 d|(d c) A|G2 |]
+
+=============================================================================
+==  (c) Jack Campin         http://www.campin.me.uk/          August 2013  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

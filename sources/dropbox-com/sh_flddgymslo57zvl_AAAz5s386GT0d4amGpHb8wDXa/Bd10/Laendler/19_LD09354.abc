@@ -1,0 +1,78 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Schwabenstreiche  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.201 (LD09354) orig. C,F
+T: \"Uberliefert durch Lina Krupski-Herger (1946), Lehrer Leuthold (1945), Edy Lussy und Melk Rohrer (1949)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"ge cG EF | A2G2G2 | GA Bc de | "G7"f>g f>g f2 | ge dB G^G | A2G2G2 | 
+GA Bc d^d | "C"e>f e>fe2 | ge cG EF | A2G2G2 | Gc eg c'b | "F"a>b a>b a2 | 
+"G7"g>a g2f2 | "C"e>f e2c2 | "G7"d>e d2B2 |1 "C"c2z2G2 :|2 "C"c2z2z2 |: [K:F] "F"cd cA cf | "C7"cd cG c2 | 
+dd E2d2 | "F"c2F2F2 | cd cA Bc | "Bb"de dB d2 | "C7"bg ec BG |1 "F"F2zG AB :|2 "F"F2z2z2 |]  
+% LD09354
+X:2
+T:Schwabenstreiche  GC 5-
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"dB GD B,C | E2D2D2 | DE FG AB | "D7"c>d c>d c2 | dB AF D^D | E2D2D2 | 
+DE FG A^A | "G"B>c B>cB2 | dB GD B,C | E2D2D2 | DG Bd gf | "C"e>f e>f e2 | 
+"D7"d>e d2c2 | "G"B>c B2G2 | "D7"A>B A2F2 |1 "G"G2z2D2 :|2 "G"G2z2z2 |: [K:C] "C"GA GE Gc | "G7"GA GD G2 | 
+AA B,2A2 | "C"G2C2C2 | GA GE FG | "F"AB AF A2 | "G7"fd BG FD |1 "C"C2zD EF :|2 "C"C2z2z2 |] 
+% LD09354
+X:3
+T:Schwabenstreiche  CF (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"ge cG EF | A2G2G2 | GA Bc de | "G7"f>g f>g f2 | ge dB G^G | A2G2G2 | 
+GA Bc d^d | "C"e>f e>fe2 | ge cG EF | A2G2G2 | Gc eg c'b | "F"a>b a>b a2 | 
+"G7"g>a g2f2 | "C"e>f e2c2 | "G7"d>e d2B2 |1 "C"c2z2G2 :|2 "C"c2z2z2 |: [K:F] "F"cd cA cf | "C7"cd cG c2 | 
+dd E2d2 | "F"c2F2F2 | cd cA Bc | "Bb"de dB d2 | "C7"bg ec BG |1 "F"F2zG AB :|2 "F"F2z2z2 |]  
+% LD09354
+X:4
+T:Schwabenstreiche  GC (5letras transposed)
+%%MIDI program 21
+R:
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"dB GD B,C | E2D2D2 | DE FG AB | "D7"c>d c>d c2 | dB AF D^D | E2D2D2 | 
+DE FG A^A | "G"B>c B>cB2 | dB GD B,C | E2D2D2 | DG Bd gf | "C"e>f e>f e2 | 
+"D7"d>e d2c2 | "G"B>c B2G2 | "D7"A>B A2F2 |1 "G"G2z2D2 :|2 "G"G2z2z2 |: [K:C] "C"GA GE Gc | "G7"GA GD G2 | 
+AA B,2A2 | "C"G2C2C2 | GA GE FG | "F"AB AF A2 | "G7"fd BG FD |1 "C"C2zD EF :|2 "C"C2z2z2 |] 
+% LD09354
+X:5
+T:Schwabenstreiche A&D (tinwhistle in D)
+T:LD09354 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:A %%MIDI gchordon
+"A"ec AE CD | F2E2E2 | EF GA Bc | "E7"d>e d>e d2 | ec BG E^E | F2E2E2 | 
+EF GA B^B | "A"c>d c>dc2 | ec AE CD | F2E2E2 | EA ce ag | "D"f>g f>g f2 | 
+"E7"e>f e2d2 | "A"c>d c2A2 | "E7"B>c B2G2 |1 "A"A2z2E2 :|2 "A"A2z2z2 |: [K:D] "D"AB AF Ad | "A7"AB AE A2 | 
+BB C2B2 | "D"A2D2D2 | AB AF GA | "G"Bc BG B2 | "A7"ge cA GE |1 "D"D2zE FG :|2 "D"D2z2z2 |] 
+X:6
+T:Schwabenstreiche A&D (tinwhistle in D) solo
+T:LD09354 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:
+M:3/4
+L:1/8
+K:A transpose=12
+ec AE "_=C"CD | F2E2E2 | EF "_#"GA Bc | d>e d>e d2 | ec B"_#"G E^E | F2E2E2 | 
+EF "_#"GA B"_c"^B | c>d c>dc2 | ec AE "_=C"CD | F2E2E2 | EA ce a"_#"g | f>"_#"g f>g f2 | 
+e>f e2d2 | c>d c2A2 | B>c B2"_#"G2 |1 A2z2E2 :|2 A2z2z2 |: [K:D] AB AF Ad | AB AE A2 | 
+BB "_=C"C2B2 | A2D2D2 | AB AF GA | Bc BG B2 | ge cA GE |1 D2zE FG :|2 D2z2z2 |]
+% Sep. 2, 2016

@@ -1,0 +1,90 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Kreuzpolka  GC
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.182 (kp09313) orig. G,C
+T: \"Uberliefert durch Lina Krupski-Herger (1946), Lehrer Leuthold (1945), Edy Lussy und Melk Rohrer (1949)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"d^c/d/ ed | .B2!>!g2 | d^c/d/ ed | "D7".c2!>!f2 | d/d/d ed | c'c'f2 | d/d/d ed | "G"bbg2 | d^c/d/ ed | 
+.B2!>!g2 | d^c/d/ ed | "D7".c2!>!f2 | d/d/d ed | c'c'f2 | de/d/ ^c/d/e/f/ |1 "G"gb gz :|2 "G"gb gg |: "D7"f/f/f e/e/e | 
+f/f/f e/e/e | "G"ed Be | d/d/d db/b/ | "D7"ba cb | a/a/a aa/a/ | "G"ag Ba | g/g/g gg | 
+"D7"f/f/f e/e/e | f/f/f e/e/e | "G"ed Be | d/d/d dd/d/ | "C"ec' b>a | "G"agd2 | "D7"e/e/e f/f/f |1 
+"G"gg gg :|2 "G"gg gz |: [K:C] "C"ee/e/ gc' | "G7".b2!>!b2 | BB/B/ fa | "C".g2!>!g2 | "G7"c'b fc' | b>df2 | "C"ag ea | 
+g>c e2 | ee/e/ gc' | "G7".b2!>!b2 | bb/b/ bd' | "C".c'2!>!c'2 | "G7"c'b fc' |  "F"c'>df2 | "G7"ag f>B | "C"ce cz :| 
+% kp09313 (H 335/TN 0)
+X:2
+T:Kreuzpolka  CF 7-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"G^F/2G/2 AG | .E2!>!c2 | G^F/2G/2 AG | "G7".F2!>!B2 | G/2G/2G AG | ffB2 | G/2G/2G AG | "C"eec2 | G^F/2G/2 AG | 
+.E2!>!c2 | G^F/2G/2 AG | "G7".F2!>!B2 | G/2G/2G AG | ffB2 | GA/2G/2 ^F/2G/2A/2B/2 |1 "C"ce cz :|2 "C"ce cc |: "G7"B/2B/2B A/2A/2A | 
+B/2B/2B A/2A/2A | "C"AG EA | G/2G/2G Ge/2e/2 | "G7"ed Fe | d/2d/2d dd/2d/2 | "C"dc Ed | c/2c/2c cc | 
+"G7"B/2B/2B A/2A/2A | B/2B/2B A/2A/2A | "C"AG EA | G/2G/2G GG/2G/2 | "F"Af e>d | "C"dcG2 | "G7"A/2A/2A B/2B/2B |1 
+"C"cc cc :|2 "C"cc cz |: [K:F] "F"AA/2A/2 cf | "C7".e2!>!e2 | EE/2E/2 Bd | "F".c2!>!c2 | "C7"fe Bf | e>GB2 | "F"dc Ad | 
+c>F A2 | AA/2A/2 cf | "C7".e2!>!e2 | ee/2e/2 eg | "F".f2!>!f2 | "C7"fe Bf | "Bb"f>GB2 | "C7"dc B>E | "F"FA Fz :| 
+% kp09313 (H 335/TN 0)
+X:3
+T:Kreuzpolka  GC (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"d^c/d/ ed | .B2!>!g2 | d^c/d/ ed | "D7".c2!>!f2 | d/d/d ed | c'c'f2 | d/d/d ed | "G"bbg2 | d^c/d/ ed | 
+.B2!>!g2 | d^c/d/ ed | "D7".c2!>!f2 | d/d/d ed | c'c'f2 | de/d/ ^c/d/e/f/ |1 "G"gb gz :|2 "G"gb gg |: "D7"f/f/f e/e/e | 
+f/f/f e/e/e | "G"ed Be | d/d/d db/b/ | "D7"ba cb | a/a/a aa/a/ | "G"ag Ba | g/g/g gg | 
+"D7"f/f/f e/e/e | f/f/f e/e/e | "G"ed Be | d/d/d dd/d/ | "C"ec' b>a | "G"agd2 | "D7"e/e/e f/f/f |1 
+"G"gg gg :|2 "G"gg gz |: [K:C] "C"ee/e/ gc' | "G7".b2!>!b2 | BB/B/ fa | "C".g2!>!g2 | "G7"c'b fc' | b>df2 | "C"ag ea | 
+g>c e2 | ee/e/ gc' | "G7".b2!>!b2 | bb/b/ bd' | "C".c'2!>!c'2 | "G7"c'b fc' |  "F"c'>df2 | "G7"ag f>B | "C"ce cz :| 
+% kp09313 (H 335/TN 0)
+X:4
+T:Kreuzpolka  CF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"G^F/2G/2 AG | .E2!>!c2 | G^F/2G/2 AG | "G7".F2!>!B2 | G/2G/2G AG | ffB2 | G/2G/2G AG | "C"eec2 | G^F/2G/2 AG | 
+.E2!>!c2 | G^F/2G/2 AG | "G7".F2!>!B2 | G/2G/2G AG | ffB2 | GA/2G/2 ^F/2G/2A/2B/2 |1 "C"ce cz :|2 "C"ce cc |: "G7"B/2B/2B A/2A/2A | 
+B/2B/2B A/2A/2A | "C"AG EA | G/2G/2G Ge/2e/2 | "G7"ed Fe | d/2d/2d dd/2d/2 | "C"dc Ed | c/2c/2c cc | 
+"G7"B/2B/2B A/2A/2A | B/2B/2B A/2A/2A | "C"AG EA | G/2G/2G GG/2G/2 | "F"Af e>d | "C"dcG2 | "G7"A/2A/2A B/2B/2B |1 
+"C"cc cc :|2 "C"cc cz |: [K:F] "F"AA/2A/2 cf | "C7".e2!>!e2 | EE/2E/2 Bd | "F".c2!>!c2 | "C7"fe Bf | e>GB2 | "F"dc Ad | 
+c>F A2 | AA/2A/2 cf | "C7".e2!>!e2 | ee/2e/2 eg | "F".f2!>!f2 | "C7"fe Bf | "Bb"f>GB2 | "C7"dc B>E | "F"FA Fz :| 
+% kp09313 (H 335/TN 0)
+X:5
+T:Kreuzpolka D&G (tinwhistle in D)
+T:kp09313 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+"D"A^G/2A/2 BA | .F2!>!d2 | A^G/2A/2 BA | "A7".G2!>!c2 | A/2A/2A BA | ggc2 | A/2A/2A BA | "D"ffd2 | A^G/2A/2 BA | 
+.F2!>!d2 | A^G/2A/2 BA | "A7".G2!>!c2 | A/2A/2A BA | ggc2 | AB/2A/2 ^G/2A/2B/2c/2 |1 "D"df dz :|2 "D"df dd |: "A7"c/2c/2c B/2B/2B | 
+c/2c/2c B/2B/2B | "D"BA FB | A/2A/2A Af/2f/2 | "A7"fe Gf | e/2e/2e ee/2e/2 | "D"ed Fe | d/2d/2d dd | 
+"A7"c/2c/2c B/2B/2B | c/2c/2c B/2B/2B | "D"BA FB | A/2A/2A AA/2A/2 | "G"Bg f>e | "D"edA2 | "A7"B/2B/2B c/2c/2c |1 
+"D"dd dd :|2 "D"dd dz |: [K:Gmaj] "G"BB/2B/2 dg | "D7".f2!>!f2 | FF/2F/2 ce | "G".d2!>!d2 | "D7"gf cg | f>Ac2 | "G"ed Be | 
+d>G B2 | BB/2B/2 dg | "D7".f2!>!f2 | ff/2f/2 fa | "G".g2!>!g2 | "D7"gf cg | "C"g>Ac2 | "D7"ed c>F | "G"GB Gz :| 
+X:6
+T:Kreuzpolka D&G (tinwhistle in D) solo
+T:kp09313 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:polka
+M:2/4
+L:1/8
+K:D transpose=12
+A^G/2A/2 BA | .F2!>!d2 | A^G/2A/2 BA | .G2!>!c2 | A/2A/2A BA | ggc2 | A/2A/2A BA | ffd2 | A^G/2A/2 BA | 
+.F2!>!d2 | A^G/2A/2 BA | .G2!>!c2 | A/2A/2A BA | ggc2 | AB/2A/2 ^G/2A/2B/2c/2 |1 df dz :|2 df dd |: c/2c/2c B/2B/2B | 
+c/2c/2c B/2B/2B | BA FB | A/2A/2A Af/2f/2 | fe Gf | e/2e/2e ee/2e/2 | ed Fe | d/2d/2d dd | 
+c/2c/2c B/2B/2B | c/2c/2c B/2B/2B | BA FB | A/2A/2A AA/2A/2 | Bg f>e | edA2 | B/2B/2B c/2c/2c |1 
+dd dd :|2 dd dz |: [K:Gmaj] BB/2B/2 dg | .f2!>!f2 | FF/2F/2 "_c"ce | .d2!>!d2 | gf "_c"cg | f>A"_c"c2 | ed Be | 
+d>G B2 | BB/2B/2 dg | .f2!>!f2 | ff/2f/2 fa | .g2!>!g2 | gf "_c"cg | g>A"_c"c2 | ed "_c"c>F | GB Gz :|
+% Aug.31, 2016

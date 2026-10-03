@@ -1,0 +1,96 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Leigger-Walzer (nach Seewer Seppi)  GC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.245 (wz00680) orig. G,C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"dBg | "D7"f3 | cAe | "G"d3 | BAB | "D7"c>dd |1 
+cBc | "G"B>GG :|2 def | "G"gzz |: "D7"f/a/ a>g | ffe | 
+"G"d2g | B2g | "D7"f2a |1 c2f | "G"g2b | d3 :|2 
+db>a | "G"g>gg | gzz |: [K:C] "C"G3 | Gc>e | "F"A3 | Ad>c | 
+"G7"Bza |1 Bgf | "C"gce | g2z :|2 Bed | "C"c>cc | czz |]  
+X:2
+T:Leigger-Walzer (nach Seewer Seppi)  CF 7-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+"C"GEc | "G7"B3 | FDA | "C"G3 | EDE | "G7"F>GG |1 
+FEF | "C"E>CC :|2 GAB | "C"czz |: "G7"B/2d/2 d>c | BBA | 
+"C"G2c | E2c | "G7"B2d |1 F2B | "C"c2e | G3 :|2 
+Ge>d | "C"c>cc | czz |: [K:F] "F"C3 | CF>A | "Bb"D3 | DG>F | 
+"C7"Ezd |1 EcB | "F"cFA | c2z :|2 EAG | "F"F>FF | Fzz |] 
+% wz00680
+X:3
+T: Leigger-Walzer (nach Seewer Seppi)  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"dBg | "D7"f3 | cAe | "G"d3 | BAB | "D7"c>dd |1 \
+cBc | "G"B>GG :|2 def | "G"gzz ||  
+|: "D7"f/a/ a>g | ffe | \
+"G"d2g | B2g | "D7"f2a |1 c2f | "G"g2b | d3 :|2 \
+db>a | "G"g>gg | gzz || [K:C]
+|:  "C"G3 | Gc>e | "F"A3 | Ad>c | \
+"G7"Bza |1 Bgf | "C"gce | g2z :|2 Bed | "C"c>cc | czz |]  
+% wz00680
+X:4
+T:Leigger-Walzer (nach Seewer Seppi)  CF (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"GEc | "G7"B3 | FDA | "C"G3 | EDE | "G7"F>GG |1 \
+FEF | "C"E>CC :|2 GAB | "C"czz ||  
+|: "G7"B/2d/2 d>c | BBA | \
+"C"G2c | E2c | "G7"B2d |1 F2B | "C"c2e | G3 :|2 \
+Ge>d | "C"c>cc | czz ||  
+|: [K:F] "F"C3 | CF>A | "Bb"D3 | DG>F | \
+"C7"Ezd |1 EcB | "F"cFA | c2z :|2 EAG | "F"F>FF | Fzz |] 
+% wz00680
+X:5
+T:Leigger-Walzer (nach Seewer) D&G (tinwhistle in D)
+T:wz00680 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+"D"AFd | "A7"c3 | GEB | "D"A3 | FEF | "A7"G>AA |1 \
+GFG | "D"F>DD :|2 ABc | "D"dzz || 
+|: "A7"c/2e/2 e>d | ccB | \
+"D"A2d | F2d | "A7"c2e |1 G2c | "D"d2f | A3 :|2 \
+Af>e | "D"d>dd | dzz || [K:G] 
+|:  "G"D3 | DG>B | "C"E3 | EA>G | \
+"D7"Fze |1 Fdc | "G"dGB | d2z :|2 FBA | "G"G>GG | Gzz |] 
+% wz00680
+X:6
+T:Leigger-Walzer (nach Seewer) D&G (tinwhistle in D) solo
+T:wz00680 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+AFd | c3 | GEB | A3 | FEF | G>AA |1 \
+GFG | F>DD :|2 ABc | dzz || 
+|: c/2e/2 e>d | ccB | \
+A2d | F2d | c2e |1 G2c | d2f | A3 :|2 \
+Af>e | d>dd | dzz || [K:G] 
+|: D3 | DG>B | E3 | EA>G | \
+Fze |1 Fd"_c"c | dGB | d2z :|2 FBA | G>GG | Gzz |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 1, 2016

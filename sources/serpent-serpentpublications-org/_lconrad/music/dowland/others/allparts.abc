@@ -1,0 +1,62 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:VIII. When others sings Venite exaltemus,
+T:Third part.
+T:Canto.
+C: John Dowland
+O: From The Second Booke of songs or Ayres of 2/ 4/ amd 5/parts: with Tableture for the Lute or orpherian, with the Violl de Gamba.
+%%MIDI nobarlines
+%%font Times-Italic 13.0
+M:C
+L:1/4
+N:Original clef C on first line
+K:G mix
+z2 D2 D2 D2 D4 \
+w:When o- thers sings \
+%%vocalfont Times-Italic 13.0
+D2 G4 B2 A3 A G2 G2 | 
+w:Ve- ni- te ex- al- te- mus, \
+%%vocalfont Times-Bold 13.0
+z2 E2 E2 \
+w:stand by
+E2 E4 E2 A4 c2 B3 B A2 A2 | z2 ^F2 ^F > F ^F ^F ^F2 ^F2 G2 B4 A4 A2 | z2 d3 c
+w:and turne to No- li e- mu- la- ri, For qua- re fre- mu- e- runt use o- re- mus Vi- vat
+B2 A2 A2 | z4 z2 d3 c B2 A2 A2 | z2 G A B G A2 G2 G2 |: z2 E2 D2 G2 ^F2 G2 |
+w:E- li- za, Vi- vat E- li- za, For an a- ve _ ma- ri, and teach those swains that 
+A2 B2 c2 B2 A4 | z2 A2 B2 d3 A c2 | B2 e3 B d2 c2 B2 | A2 D2 E ^F G A B2 A2 HG4 :|
+w:lives a- bout thy cell, to say A- * * men A- * * * * men when thou _ dost _ pray so well.
+
+X:2
+T:VIII. When others sings Venite exaltemus,
+T:Third part.
+T:Basso.
+C: John Dowland
+O: From The Second Booke of songs or Ayres of 2/ 4/ amd 5/parts: with Tableture for the Lute or orpherian, with the Violl de Gamba.
+%%MIDI nobarlines
+M:C
+L:1/4
+K:G mix bass
+%%MIDI transpose -24
+g4 ^f2 g2 d3 c B A G2 c2 B2 c2 d2 G2 G2 a4 ^g2 a2 e3 d c B
+w:When o- thers sings Ve- ni- te ve- ni- te ex- al- te- mus, stand by and turne to No- li
+A2 d2 c2 d2 e2 A2 A2 d4 d > d d d d2 d2 G3 G d4 d4 d3 e ^f2 g2 d4 g4 d3 e
+w:to no- li e- mu- la- ri, For qua- re fre- mu- e- runt use o- re- mus, Vi- * vat E- li- za, Vi- *
+^f2 g2 d2 d2 G2 G2 G2 d2 G2 G2 |: c4 B2 A G d2 c B A2 G2 c2 G2 d3 d e2 ^f2
+w: vat E- li- za, For an a- ve ma- ri, and teach those _ swains that _ lives a- bout thy cell, to sing _
+g3 d ^f2 e2 g2 c3 G B2 E2 G2 D2 B2 c2 e2 d3 d HG4 :|
+w:A- * * men _ A- * * * * men when thou dost pray so well.

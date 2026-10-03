@@ -1,0 +1,74 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Marsch  GDC (mr07742)  ABAC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.369 (mr07742) orig. G,D,C
+T: Alte Seltisberger Musik. S.354-377
+T:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+R:Marsch
+%%partsbox
+P:ABAC
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+d/ | "G"d>d d>d | (3gdB (3dBG | "D7"d>d d>d | d2 g>g [P:A] |: "D7"gf/f/ ag/g/ | gf/f/ fe/e/ | "G"ed/d/ dB | 
+.d2zz/d/ | "D7"dF/F/ Fg | .f2 c>e | "G"dd/d/ dc' | b2gg/g/ | "D7"gf/f/ ag/g/ | gf/f/  fe/e/ | "G"ed/d/ dB | 
+d2zz/g/  | "C"ga/g/ fe | "G"dd/B/ GB | "D7"ed/d/ df |1 "G"g2g>g :|2 "G"g2z2 |: [P:B]  [K:D] "D"f2f2 | fg/f/ e>d | 
+cd b>f | "A7"a2g2 | g2g2 | ga/g/ fe | ^de c'>b | "D"a2ag | f2f2 | fg/f/ ed | 
+cd d'>c' | "G"c'2b2 | d'2c'>b | "D"aa/f/ df | "A7"b>a ac |1 "D"d2z2 :|2 "D"d2"_>Teil A"g>g |]  
+[P:C] [K:C] |: "C"G2A>G | c4 | G2A>G | e4 | G2A>G | e2g2 | "G7"g3B | B4 | G2A>G |  B4 | G2A>G | 
+d4 | G2A>G | B2d2 | "C"a3g | e4 | G2A>G |   c4 | G2A>G | e4 | "E7"e2f>e | ^g2b2 | 
+"Am"d'3c' | a4 | "F"a2b>a | c'2a2 | "C"a3g | e2c2 | g2a>g | "G7"e3d | "C"c2c2 | c2"_Fine"z2 :| 
+% mr07742
+% Oct 7, 2017 (BurgFrieden)
+
+X:2
+T:Marsch  CGF 7- (mr07742) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.369 (mr07742) orig. G,D,C
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+R:Marsch
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G/2 | "C"G>G G>G | (3cGE (3GEC | "G7"G>G G>G | G2 c>c |: "G7"cB/2B/2 dc/2c/2 | cB/2B/2 BA/2A/2 | "C"AG/2G/2 GE | 
+.G2zz/2G/2 | "G7"GB,/2B,/2 B,c | .B2 F>A | "C"GG/2G/2 Gf | e2cc/2c/2 | "G7"cB/2B/2 dc/2c/2 | cB/2B/2 BA/2A/2 | "C"AG/2G/2 GE | 
+G2zz/2c/2 | "F"cd/2c/2 BA | "C"GG/2E/2 CE | "G7"AG/2G/2 GB |1 "C"c2c>c :|2 "C"c2z2 |: [K:G] "G"B2B2 | Bc/2B/2 A>G | 
+FG e>B | "D7"d2c2 | c2c2 | cd/2c/2 BA | ^GA f>e | "G"d2dc | B2B2 | Bc/2B/2 AG | \
+FG g>f | "C"f2e2 |
+ g2f>e | "G"dd/2B/2 GB | "D7"e>d dF |1 "G"G2z2 :|2 "G"G2"_>Teil A"c>c |] \
+[K:F] |: "F"C2D>C | F4 | C2D>C | A4 | C2D>C |
+ A2c2 | "C7"c3E | E4 | C2D>C | E4 | C2D>C | \
+G4 | C2D>C | E2G2 | "F"d3c | A4 | C2D>C | F4 |
+ C2D>C | A4 | "A7"A2B>A | ^c2e2 | \
+"Dm"g3f | d4 | "Bb"d2e>d | f2d2 | "F"d3c | A2F2 | c2d>c | "C7"A3G | "F"F2F2 | F2"_Fine"z2 :| 
+W:Parts: ABAC
+% mr07742
+% Oct 7, 2017 
+
+X:3
+T:Marsch  DAG 5- (mr07742)  tinwhistle D (g#)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.369 (mr07742) orig. G,D,C
+S:Alte Seltisberger Musik. S.354-377
+S:Überliefert durch Erwin Schàfer-Spinnler, Liestal, Oktober 1941
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Marsch
+M:2/4
+L:1/8
+K:D transpose=12 %%MIDI gchordon
+A/2 | "D"A>A A>A | (3dAF (3AFD | "A7"A>A A>A | A2 d>d |: "A7"dc/2c/2 ed/2d/2 | dc/2c/2 cB/2B/2 | "D"BA/2A/2 AF | 
+.A2zz/2A/2 | "A7"AC/2C/2 Cd | .c2 G>B | "D"AA/2A/2 Ag | f2dd/2d/2 | "A7"dc/2c/2 ed/2d/2 | dc/2c/2 cB/2B/2 | "D"BA/2A/2 AF | 
+A2zz/2d/2 | "G"de/2d/2 cB | "D"AA/2F/2 DF | "A7"BA/2A/2 Ac |1 "D"d2d>d :|2 "D"d2z2 |: [K:Amaj] "A"c2c2 | cd/2c/2 B>A | 
+"_+"GA f>c | "E7"e2d2 | d2d2 | de/2d/2 cB | ^AB "_+"g>f | "A"e2ed | c2c2 | cd/2c/2 BA | \
+"_+"GA a>"_+"g | "D""_+"g2f2 |
+a2"_+"g>f | "A"ee/2c/2 Ac | "E7"f>e e"_+"G |1 "A"A2z2 :|2 "A"A2"_>Teil A"d>d |] \
+[K:Gmaj] |: "G"D2E>D | G4 | D2E>D | B4 | D2E>D |
+B2d2 | "D7"d3F | F4 | D2E>D | F4 | D2E>D | \
+A4 | D2E>D | F2A2 | "G"e3d | B4 | D2E>D | G4 |
+D2E>D | B4 | "B7"B2"_+"c>B | "_++"^d2f2 | \
+"Em"a3g | e4 | "C"e2f>e | g2e2 | "G"e3d | B2G2 | d2e>d | "D7"B3A | "G"G2G2 | G2"_Fine"z2 :| 
+W:Parts: ABAC
+% mr07742
+% Oct 7, 2017 

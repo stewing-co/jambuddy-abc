@@ -1,0 +1,57 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Immer fidel (Polka)  FCBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.95 (pk00122) orig. F,C,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"C7"c3f e2f2 | "F"f2cc "C7"c2c2 |: "F"cBAd cAfc | "C7"ecBe d2c2 | ecBe d2c2 | "F"fcAa f2A2 | cBAd cAfc | 
+"C7"ecBe d2c2 | =Bceg c'3e | "F"f2a2 f2z2 :: [K:C] "C"G2ce G2ce | "G7"g2fd B2B2 | G2g2 fGBd | "C"G2g2 eGce | 
+G2ce G2ce | "G7"g2fd B2B2 | B2g2 fGBd | "C"c2e2 c2z2 :: [K:F] "F"AB=Bc A_B=Bc | a6cc | 
+dcAc dcfc | "C7"e2e2B4 | G2A2 B2c2 | e6d2 | c3d e2d2 | "F"d2cA F2AA | A2B2 =B2c2 | a6c2 | "F"f3e "F7"g3f | 
+"Gm/Bb"e2e2d4 | "Bb"Bdg2 a2g2 | "F"Acf2 g2f2 | "C7"e2c2 a3g | "F"f2a2 f2z2 :| [K:Bb] "F7"a2a2 "Cm"g2g2 | "Bb"f2f2 def2 | 
+"F7"e2e2 cde2 | "Bb"defg f4 | "F7"a2a2 "Cm"g2g2 | "Bb"f2f2 def2 | "F7"edcd efga | "Bb"b2fd B2z2 |] 
+W:
+W: Anmerkung HC: 121. Baselbiet, Fricktal, Elm, Glarus
+
+X:2
+T:Immer fidel (Polka)  CGF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"G7"G3c B2c2 | "C"c2GG "G7"G2G2 |: "C"GFEA GEcG | "G7"BGFB A2G2 | BGFB A2G2 | "C"cGEe c2E2 | GFEA GEcG | 
+"G7"BGFB A2G2 | ^FGBd g3B | "C"c2e2 c2z2 :: [K:Gmaj] "G"D2GB D2GB | "D7"d2cA F2F2 | D2d2 cDFA | "G"D2d2 BDGB | 
+D2GB D2GB | "D7"d2cA F2F2 | F2d2 cDFA | "G"G2B2 G2z2 :: [K:Cmaj] "C"EF^FG E=F^FG | e6GG | 
+AGEG AGcG | "G7"B2B2F4 | D2E2 F2G2 | B6A2 | G3A B2A2 | "C"A2GE C2EE | E2F2 ^F2G2 | e6G2 | "C"c3B "C7"d3c | 
+"Dm/F"B2B2A4 | "F"FAd2 e2d2 | "C"EGc2 d2c2 | "G7"B2G2 e3d | "C"c2e2 c2z2 :| [K:Fmaj] "C7"e2e2 "Gm"d2d2 | "F"c2c2 ABc2 | 
+"C7"B2B2 GAB2 | "F"ABcd c4 | "C7"e2e2 "Gm"d2d2 | "F"c2c2 ABc2 | "C7"BAGA Bcde | "F"f2cA F2z2 |] 
+
+X:3
+T:Immer fidel (Polka)  CGF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon (align)
+"G7"G3c B2c2 | "C"c2GG "G7"G2G2 |: "C"GFEA GEcG | "G7"BGFB A2G2 | BGFB A2G2 | "C"cGEe c2E2 | GFEA GEcG | 
+"G7"BGFB A2G2 | ^FGBd g3B | "C"c2e2 c2z2 :: [K:Gmaj] "G"D2GB D2GB | "D7"d2cA F2F2 | D2d2 cDFA | "G"D2d2 BDGB | \
+D2GB D2GB |
+ "D7"d2cA F2F2 | F2d2 cDFA | "G"G2B2 G2z2 :: [K:Cmaj] "C"EF^FG E=F^FG | e6GG | \
+AGEG AGcG | "G7"B2B2F4 | D2E2 F2G2 |
+ B6A2 | G3A B2A2 | "C"A2GE C2EE | E2F2 ^F2G2 | e6G2 | "C"c3B "C7"d3c | \
+"Dm/F"B2B2A4 | "F"FAd2 e2d2 | "C"EGc2 d2c2 | "G7"B2G2 e3d | "C"c2e2 c2z2 :| [K:Fmaj] 
+"C7"e2e2 "Gm"d2d2 | "F"c2c2 ABc2 | \
+"C7"B2B2 GAB2 | "F"ABcd c4 | "C7"e2e2 "Gm"d2d2 | "F"c2c2 ABc2 | "C7"BAGA Bcde | "F"f2cA F2z2 |] 
+
+X:4
+T:Immer fidel (Polka) EbBbAb (5letras) cf. CGF
+M:2/4
+L:1/16
+K:Ebmaj%%MIDI gchordon
+"Bb7"B3e d2e2 | "Eb"e2BB "Bb7"B2B2 |: "Eb"BAGc BGeB | "Bb7"dBAd c2B2 | dBAd c2B2 | "Eb"eBGg e2G2 | BAGc BGeB | 
+"Bb7"dBAd c2B2 | =ABdf b3d | "Eb"e2g2 e2z2 :: [K:Bbmaj] "Bb"F2Bd F2Bd | "F7"f2ec A2A2 | F2f2 eFAc | "Bb"F2f2 dFBd | 
+F2Bd F2Bd | "F7"f2ec A2A2 | A2f2 eFAc | "Bb"B2d2 B2z2 :: [K:Ebmaj] "Eb"GA=AB G_A=AB | g6BB | 
+cBGB cBeB | "Bb7"d2d2A4 | F2G2 A2B2 | d6c2 | B3c d2c2 | "Eb"c2BG E2GG | G2A2 =A2B2 | g6B2 | "Eb"e3d "Eb7"f3e | 
+"Fm/Ab"d2d2c4 | "Ab"Acf2 g2f2 | "Eb"GBe2 f2e2 | "Bb7"d2B2 g3f | "Eb"e2g2 e2z2 :| [K:Abmaj] "Eb7"g2g2 "Bbm"f2f2 | "Ab"e2e2 cde2 | 
+"Eb7"d2d2 Bcd2 | "Ab"cdef e4 | "Eb7"g2g2 "Bbm"f2f2 | "Ab"e2e2 cde2 | "Eb7"dcBc defg | "Ab"a2ec A2z2 |] 

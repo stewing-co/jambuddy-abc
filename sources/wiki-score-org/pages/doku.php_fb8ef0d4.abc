@@ -1,0 +1,82 @@
+X:107
+T:Overtura
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 7 clef=treble name="Clarinete I" sname="Cl. I"
+%%MIDI program 1 71
+%%staves [( 7 )]
+[Q: "Allegro" 1/2=70] d/4 | d z/2> f/2 f z/2> a/2 | a a z z/2> d/2 | d z/2> f/2 f z/2> a/2 | a a z f | \
+e f e f | e e z f | e f e f | e2 z2 | \
+z4 | z4 | z4 | d/>d/f/>f/ a z | \
+z4 | z4 | z4 | z z/f/ e/f/e/f/ | \
+e z/f/ e/f/e/f/ | e c e c | A c e c | A a a a | \
+a2 !fermata!z2 | x4 | x4 | x4 | \
+x4 | x4 | x4 | x4 | \
+x4 | d2 A f | d2 A f | g g {a} g f/>e/ | \
+f>g a d' | b4 | a f/e/ d/c/B/A/ | g2 f2 | \
+e e e z | a4 | a z z2 | b b b z | \
+^g4 | b z z2 | c' c' c' g | f>^g {b} a g/>f/ | \
+e c' a e | f>^g {b} a (g/>f/) | e c' a e | f>^g {b} a g/>f/ | \
+(e2 e/)(a/b/c'/) | (c'2 b a) | ^g z ^g b | d'4 | \
+c' z c' c' | c'4 | d' z ^g b | d'4 | \
+(c' c' a) z | z4 | z (f a) z | z4 | \
+z (a e) z | z e e z | z f f z | z ^g ^g z | \
+a c' a c' | a c' a c' | (a c' a) z | z4 | \
+z f a z | z4 | z a e z | z e e z | \
+z f f z | z ^g ^g z | (a4 | (a4) | \
+(a4) | a4) | a z a z | a z c' z | \
+c' a f a | e a b ^g | a a f a | e a b ^g | \
+a c' a c' | a a a a | a2 !fermata!z2||\
+[M:2/4] [K:C] [L:1/8] [Q: "Andantino" 1/2=30] e/>f/ | (3g/c'/a/ g z e/>f/ | \
+(3g/c'/a/ g z z | z a z a | z g z g | z f z f | \
+z e z _b | z a z =b | c'c' c' e/>f/ | (3g/c'/a/ g z e/>f/ | \
+(3g/c'/a/ g z z | z a z c' | z b z b | z a z ^f | \
+gb g z | z f z f | z e z e | z e z e | \
+z b g z | z e e z | z eg_b | z a z =b | \
+z g z a | z g z =b ||
+[M:C][L:1/4][Q:1/2=70] c' c2 d | e f g a | _b3 g | e g e ^c | \
+a z ^c' d' | ^c' z c' d' | ^c' a a a | a2 !fermata!z2 || \
+[K:D] z4 | x4 | x4 | x4 | \
+x4 | x4 | x4 | x4 | \
+d2 A f | d2 A f | g g {a} g f/>e/ | f>g a a | \
+b4 | a z z2 | a2 a/g/f/e/ | d f a a | \
+=c'4 | b g g g | b4 | a d' d'/a/f/d/ | \
+A z/ f/ e/f/e/f/ | e e e z | e z z2 | z4 | \
+z g g z | z4 | z (a f) z | z (a =c') z | \
+z b b z | z e e z | d z z/f/f/e/ | (e/d/d/) z/z/ f/f/e/ | \
+(e/d/) d z/ a/a/g/ | (g/f/) f z/ a/a/g/ | g/f/ f/d/ x2 | x4 | \
+x4 | x4 | (g/f/)(f/f/) (f/a/)(a/a/) | (g/f/)(f/e/) (e/g/)(g/f/) | \
+f d2 d | (d4 | (d4) | d4) | \
+f2 g2 | f f g e | d z z2 | x4 | \
+x4 | x4 | x4 | x4 | x4 | x4 || \
+[K:F] [L:1/4] [Q: "Coro - Allegro Maestoso" 1/2=60] x3/8 | f2 a2 | c' c'2 b | b a/>a/ a z | \
+a a2 g | g f/>f/ f z | c'4 | b a/>a/ a c' | \
+c'4 | b a f f/>^f/ | g/>b/d'/>c'/ b/>a/g/>f/ | g2 a2 | \
+g2 a2 | g2 z a | _b4 | a4 | \
+b4 | a g/>f/ f z | z b2 d | c3 c | \
+d b2 d | c3 f/>a/ | g b//a//b//g// f e | f f//>g//f//>g// c'/>a/d'/>c'/ | \
+c' b a g | a a//b//a//b// c'/>a/d'/>c'/ | c' b a g | f a f z | \
+f2 a a/>f/ | c c'2 b | b a/>a/ a c | c3 c' | \
+b a/>a/ a c | c3 c' | b a f2 | f e/>d/ c/>B/A/>G/ | \
+F a f z | c4 | =B4 | e4 | \
+f4 | =b4 | c'4 | a4 | \
+g2 f2 | e2 c'2 | =b2 f2 | e2 c'2 | \
+=b2 f2 | e4 | f4 | e z z2 | \
+a4 | g a c' =b | c' e//f//e//f// g/>e/a/>g/ | g c' =b b | \
+c' e//f//e//f// g/>e/a/>g/ | g c' =b b | c' z e/g/e/g/ | e z e/g/e/g/ | \
+e c c2 | d4 | _e z z2 | x4 | \
+(g4 | (g4) | g4) | g _b g z | \
+B4 | B3 _b | c'/>=a/ b _a g | f3 (_B | \
+B4) | B3 b | c'/>a/ _b a g | f2 f z | \
+=a4 | g4 | g4 | f4 | \
+^g4 | a4 | a a a z | f2 a a/>f/ | \
+f c'2 b | b a/>a/ a f | c3 c' | b a/>a/ a c | \
+c3 c' | b a f2 | g4 | g g g z | \
+g4 | f4 | g4 | f f2 f | \
+d/>f/e/>d/ c/>B/A/>G/ | x4 | x4 | x4 | \
+x4 | x3 c | c3 c' | b a f2 | \
+d/>f/e/>d/ c/>B/A/>G/ | A a b2 | a f g e | f a b2 | \
+a f g e | f f f e | f f2 e | f/f//f// f/a/ f/a//a// a/c'/ | \
+a f/a/ f/a/f/a/ | f f f z |]

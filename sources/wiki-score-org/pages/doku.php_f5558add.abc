@@ -1,0 +1,99 @@
+X:301
+T:Credo
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 1 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%------------------
+[Q:"Allegro Moderato"] !f![Ee][Ee]/>[Ee]/[Ee][Ee] | !>![Fd]2!f![Ee]/[Ee][Ee]/ | [EBg]z!f![EBg]z | \
+[DBf]z[DBf]z | [Ge]z/!f!{E/F/E/D/}E/ A/G/c | de/f/ga/=a/ | \
+bz!f![EBg][EBg] | [DBf]z[DBf]z | [EBg]!p!e2e- | ee2d | e!p!e2e- | ede=e | !f![DBf]z[e=a]z | \
+!f![db]/B/B/B/B"8tva sopra"B- | B=A2G- | G^FG=F/E/ | Dz"loco"!f!(ed/c/) | Bz!f!(c2 | !f!B/)(3f//g//f// e/d/e_g- | \
+f/(3f//g//f// e/d/ c=A | Bzz2 | !>!(_G3F) | !>!(_G3F) | !p!_G/"8ta"GGGG/- | _G/"loco"eee!p!e/- | e/ee/ d/dd/ | \
+e!f![ea][eg][ec'] | [eb]!f![Ge][Bf][Bf] | [Bg][ea][eg][ec'] | b!f![Bg][=Bg]f | \
+e//c//=B//c// c//G//^F//G// G//E//D//E// E//C//B,//C// | D/DD/Dz | \
+!f!b-b//g//=e//c// _d//B//G//E// D/C/ | A,//C//F//A// c/f/az | \
+!f!a//g//f//e// d//c//B//A// G//F//E//D// C//B,//=A,//_A,// | \
+G,//B,//E//G// B/e/gz | !f!a//g//f//e// d//c//B//=A// _A//G//F//E// D//C//B,//A,// | \
+G,//B,//E//G// B/e/g!p!(G | AGcB) | !>!=A2Bz | (AGcB) | !>!(=A2B2) | !p!cc2c | _d2(c2 | _d)z!p!(Gg | \
+e2=d2 | e2)(dg) | e2cz | z!p!e2(e | f)zz2 | z!p!e2(e | f)f2!p!f- | f!p!f2(f | _g)zz2 | !p!(f4 | \
+_g)zz2 | !p!e3z | e3z | !p!(e4 | !fermata!=d4) || \
+[Q:"Largo"][K:Gb][M:6/8]!p!E(3G//F//E//BB/ | g(3a//g//f// e/-(3e//e//d// (3c//B//=A// | \
+B/-(6:4B//=A//B//!>!f//A//B// !>!f/-(6:4f//A//B//!>!f//A//B// | \
+!f!!diminuendo(!a/-(6:4a//a//_g//f//f//!diminuendo)!e// !p!=d/-(6:4d//_c//B//A//G//F// | \
+E!p!(E/EE/) | (E!p!E/EE/ | FF/FF/ | G)-G//>A//!f!{G/A/}Bz/ | !>!(c3/2B)z/ | \
+!p!c/8B/8c/8B/8 c/8B/8c/8B/8 c/ B/8=A/8B/8A/8 B/8A/8B/8A/8 B/ | Z | \
+!f!!>(!(g/8f/8g/8f/8)!>)! (e/8=d/8e/8_d/8) (c/8B/8c/8B/8) =Az/ | Z | \
+!p!(B,///=A,///B,///A,///) (B,///A,///B,///A,///) B,/ (B,///A,///B,///A,///) (B,///A,///B,///A,///) B,/ | \
+!p!e>-ez/z/ | !p!(B///c///B///c///) (B///c///B///c///) B/ (B///c///B///c///) (B///c///B///c///) B/ | \
+!pp!(B///c///B///c///)B(B///c///B///c///)B | (B///c///B///c///) B/z/!p!=A> | \
+(B//c///B///c///)B(B///c///B///c///)B | (B///c///B///c///) B/z/!p!(e3/2 | =d)z/zz/ | Z | !fermata!z3 || \
+[Q:"Andante"][K:Eb][M:C]"Legato"!pp!(E/^F/G/D/) (E/=A,/B,/E/) | \
+(D/G/A/=E/) (F/^C/D/A/) | !p!(G/d/f/=B/ d/)(F/A/C/) | (=B,/A/G/F/) (E/D/C/D/) | \
+=B,zz2 | !p!z/(d/ f/=B/) (d/F/A/C/) | =B,/(A/G/F/) (E/D/C/D/) | (=B,/!p!d/f/B/) (d/F/A/_B,/) | \
+(E/^F/G/D/) (E/=A,/B,/E/) | (D/G/A/=E/) (F/^C/D/A/) | G/!p!gggf/ | (e2d2 | c2)(_B=A/G/) | \
+^F/dd/-d2 | !f!!>!(=e2d)z | !>!(^c2d)z | !>!(=e2d)z | !p!(=c2=B2) | =A4 | \
+!p!Gz^Fz ||[Q:"Allegro Moderato"][K:G][M:C]!p!G//D//^C//D// F//G//^A//B// !f!d/[Bg]/[db] | \
+!p!A//D//^C//D// ^E//F//^G//A// !f!d/[Af]/[da] | \
+!p!G//E//^D//E// !diminuendo(!c//A//!diminuendo)!^E//F// !p!G//=E//D//E// !diminuendo(!c//A//!diminuendo)!^E//F// | \
+!f!!//!G2!//!c2 | B/[Gd]/[Bg]/[db]/[dd']z/!f!c'///b///a///g/// | \
+a/[Fd]/[Af]/[da]/[dd']z/d'///c'///b///a/// | g/c/ B/e/d!f![DBg] | cB/e/d[DBg] | \
+"_cresc."(6:4E//E//E//A//A//A// (6:4c//c//c//e//e//e// (6:4a//a//a//c'//c'//c'//e' | \
+(6:4D//D//D//G//G//G// (6:4B//B//B//d//d//d// (6:4g//g//g//b//b//b//d' | \
+!f!(6:4c//D//E//D//E//D// (6:4c//D//E//D//E//D//c!>!_e | !f!(6:4d//D//=E//D//E//D// (6:4c//D//E//D//E//D//c!>!_e | \
+!p!d//D//^C//D// ^E//F//^G//A// c//d//e//f//a | z//!p!(A//^G//A//) (^c//A//e//c// (g//)f//e//d//c) | \
+z//(A//^G//A//) (^c//A//e//c// (=g//)e//e'//c'//) a/g/ | !p!(f//D//^C//D//) (^E//F//^G//A//) (c//d//e//f//)a | \
+z//(D//^C//D//) (^E//F//^G//A//) (c//d//e//f//)a | !p!(g//F//G//^A//) (B//^c//d//f//) (g//a//b//c'//d') | \
+(=c'//a//f//d//) (^c//d//e//d//)(d'c' | b/)[B,G][B,G]/[B,G]!f![Bg] | [cg][Ec][Gd][DBg] | [Ecg]!f![ec'][=fd'][db] | \
+[ec'][Ec][Gd][DBg] | [Ecg]!f![ec'][=fd'][db] | \
+[ec']/ "_check ms"(3C//C//C// (6:4E//E//E//G//G//G// (6:4c//c//c//e//e//e// (6:4g//g//g//c'//c'//c'// | !f!e'/e'e'e'e'/ | \
+d'/d'd'd'c'/ | !f!b/>g/ a//g//^f//g// b/>g/ a//g//^f//g// | a/>a/ b//a//^g//a// b/b/ c'//b//^a//b// | \
+!f!c'/c'/ d'//c'//b//c'//!//!d'!//!_e' | =f'/f'f'f'!f!f'/- | !fermata!=f'4 | !f![Ec][Ec][Gd][Gd] | \
+(6:4e//e//e//c//c//c// (6:4G//G//G//E//E//E//Cz | z4 | z4 | !p!(G2_A2 | G)zz2 | !p!GG2G | .Gz.^Fz | \
+G/!f![Gd]/ [Bg]/[db]/[dd']z/c'///b///a///g/// | a/[Fd]/[Af]/[da]/[dd']z/d'///c'///b///a/// | \
+!f!g/c/ B/e/ d!f![DBg] | cB/e/d[DBg] | \
+"_cresc."(6:4E//E//E//A//A//A// (6:4c//c//c//e//e//e// (6:4a//a//a//c'//c'//c'//e' | \
+!f!(6:4D//D//D//G//G//G// (6:4B//B//B//d//d//d// (6:4g//g//g//b//b//b//d' | \
+(6:4c//D//E//D//E//D// (6:4c//D//E//D//E//D//c!>!_e | !f!(6:4d//D//=E//D//E//D// (6:4c//D//E//D//E//D//c_e | \
+!f!(6:4d//D//=E//D//E//D// (6:4d//D//E//D//E//D// d/dd/ | e/eeee/- | \
+!f!(6:4e//A//B//A//B//A// (6:4e//A//B//A//B//A// e/ee/ | \
+(6:4f//f//f//d//d//d// (6:4d'//d'//d'//a//a//a// (6:4f//f//f//d//d//d// (6:4A//A//A//F//F//F// | \
+!p!(D//^C//D//^E//) (F//^G//A//c//) d//e//f//g//a | (g//F//G//^A//) (B//^c//d//f//) (g//a//b//c'//d') | \
+=c'//a//f//d// ^c//d//e//d//d'=c' | b/[B,G][B,G]/[B,G]!f![Bg] | [cg]!f![Ec][Gd][DBg] | [Ecg]!f![ec'][=fd'][db] | \
+[ec'][ec'][ee'][ed'] | [ec']!f!!//!^c'!//!d'!//!^d' | e'/e'e'e'e'/ | !f!^d'/d'd'/ =d'/d'd'/ | \
+c'/c'c'/d'c' | !fermata!b4 | !f!A/A,/B,/^C/ D/B,/E/D/ | ^C/A,/B,/C/ D/B,/E/D/ | ^C/E/A/^G/ F/c/B/A/ | \
+^G!>![Ee]2(e/d/) | c/!p!.E/.E/.E/ .E/.E/.F/.F/ | .E/.E/.E/.E/ .E/EE/ | !p!!/!^D2!/!D2 | \
+!/!E2E/E/E | !p!!/!B2!/!B2 | !/!A2A/A/A | !p!!/!B2!/!B2 | !/!A2A/A/A | e/E/d2^c | B/!p!EEEE/ | \
+!p!=F//F//D//D// B,//B,//G,//G,// F//F//D//D// B,//B,//G,//G,// | E/C/B,/C/ E/C/B,/C/ | \
+!p!=F/D/B,/G,/ F/D/B,/G,/ |  E/C/B,/C/ E/C/B,/C/ | !f!(3A/^C/D/ (3B/^D/E/ (3=c/E/=F/ (3=d/^F/G/ | \
+[Ee]/[Ee][Ee]/[Ee]z | !f![EAa]zz/!p!a/ b/^c'/ | d'/e'/=f'z2 | !f![DBg]zz/!p!g/ a/b/ | \
+c'/!f!c'c'/!//!d'!//!^d' | e'/e'e'/ =d'/d'd'/ | xxaa&!f!c'//c//B//c// d//c//B//c// c//c//c//c// d//c//B//c// | \
+gx=ff& c//c//B//c// d//c//B//c// c//c//c//c// d//c//B//c// | \
+ex[=fa]a& !f!c//c//B//c// d//c//B//c// c//c//c//c// d//c//B//c// | \
+[ceg]//c//B//c// d//c//B//c// !p!=f/ff/- | !fermata!!p!=f4 || \
+[Q:"Allegro"][K:Eb][M:C] z/ | !f![Ec][Ec][Gd][Gd] | [Ge]z[Ec]z | !f!d/d'd'd'c'/ | =b/g//g// d//d//B//B// Gz | \
+!f![Gf]/A//G// A//G//A//G// G!f![Gf] | !f![Ge]/A//G// A//G//A//G// G!f![Ge] | \
+!f![Gf]/A//G// A//G//A//G// G!f![Gf] | !f![Ge]/A//G// A//G//A//G// G!f![Ge] | \
+!f![Bf]/c//B// c//B//c//B// B [Bf] | [Bg]/c//B// c//B//c//B// B !f![Bg] | [Bf]/c//B// c//B//c//B// B !f![Bf] | \
+[Bg]/c//B// c//B//c//B// B/ee/ | d/dd/ c/cc/ | !p!=B/A//G// A//G//A//G// G [Gd] | [Ge]/A//G// A//G//A//G// G [Ge] | \
+[Gd]/A//G// A//G//A//G// G!p! [Gd] | [Ge]/A//G// A//G//A//G// G [e] | e/B//A// B//A//B//A// !p!Ae | \
+f/B//A// B//A//B//A// Af | e/B//A// B//A//B//A// A!p!e | f/B//A// B//A//"_cresc."B//A// Af | \
+f/_c//B// c//B//c//B// B [Bf] | [B_g]/_c//B// c//B//c//B// B [Bg] | [Bf]/_c//B// c//B//c//B// B [Bf] | \
+[B_g]/_c//B// c//B//c//B// B !f![=c=g] | [ca]/[c=e]/[cf]/[cg]/  [ca]/[c=e]/[cf]/[cg]/ | !f![ca][ca] [c=a] [ca] | \
+[cg]zz2 | Z | \
+!f!C/C//C// !/!D/!/!E/ !/!F/!/!D/!/!G/!/!E/ | !/!A/!/!F/!/!B/!/!G/ !/!c/!/!A/!/!d/!/!B/ || \
+[Q:"Sostenuto"][K:Eb][M:C] !f![Ge][Ge][Ge]z/!f!z//[Gf]// | [Ge]/z/zz !p!E- | EE2^F | !p!!fermata!G4 || \
+[Q:"Moderato"][K:Eb][M:2/4] z/ | !p!E2 | (F2 | E) !p!E- | EF- | F !p!(B | =A_A | G) !p! e- | ed | e/(c/B/A/) | \
+G!p!e|(d2|e/)(g/f/e/) | !p!dc | d(b/d/) | ef|g!p!e-|ed/f/ | !f!e/E/e-|e/f//e// d//B//c//d// | \
+!p! (e/f//e//) (_d/e//d//) | (c/_d//c//) (B/c//B//) | A/F/ _c- | c !f![DBf] | [EBg][Ge] | [Gd]!f![D=Bg] | [Ecg]z | \
+z !p!c'-|c'=b| z !p!d'- | d'c' | Z | !f![D=Bg][DBg] | [Ecg][Ecg] | Z | !f![E=Bg][EBg] | \
+[Ecg]!f!a- | a/b//a// g- | g/a//g// !f!f- | f/g//f//e | d/dd/-|d/dd/-|d/!f!G//G// !/!=B/!/!d/ | \
+g/gg/ | ^f/ff/ | =f/ff/ | e !f!a-|a/b//a//!f!g-|g/a//g// f-|f/g//f//!f!e|da|g[d=b] | \
+!f! [ec']/C//D/8C/8 =B,/C/ | A/D//E/8D/8 ^C/D/ | !p!Be-|ed|ec-|c=B|c!p!c'|(b/c'/b/a/) | \
+g/!f!gg/|gz|!f![cf]z|[Fd]z|!p!Be-|ed|e!>!c-|c=B|cz|Z|z!f![D=Bg]| [D=Bg][db]|[ec']!f![Gg]|[Gg][Gg]|[Gg]!f!^g| =a_b| \
+!f!b/bb/ | _a/aa/|!f![EBg]z|!f![EBg][EBg]|[EBf]z|!f![EBf]z|[Ge]z|Z|!p!E2-|E2-|Ez|!p!(d2|e)z|Z|!p!E2-|E2-|Ez| \
+!p!D2-|D2 |.Ez|!p!.Ez|!p!.Ez|]\
+%------------------

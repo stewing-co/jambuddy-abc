@@ -1,0 +1,1553 @@
+%abc-2.2
+% XIX-2.abc 
+%%pagescale 1.2
+%%MIDI program 73
+
+%%deco - 0 emb 6 4 3
+
+X:10
+T:Offertoire
+C:César Franck (1832 - 1890)
+M:C
+L:1/4
+Q:Andantino
+%%incipit %G-2@c ''2E4DC/1D/2E4DC/1G/
+%%staves {(1 2)(3 4)}
+%%maxshrink .9
+K:C
+V:1
+%%writefields Q 0
+Q:1/4=80
+e2dc|d4|e2dc|g4|_a_e2f|gd2=e|
+V:2
+E4|F2G2|E2F>^F|G4|_A4|G4-|
+V:3 shift=cC
+G2c2-|c2B2|G2c2-|c2_d2|c2_e2|d2B2|
+V:4 shift=cC
+C2A2|A2G2|CEA2|E4|_E2c2|B2G2|
+V:1
+c>dB>c|c4|e2B>c|^A4|e2=A>B|G4|
+V:2
+G^F=F2|E4|E4-|E4|E3^D|E4|
+V:3
+c2dG-|G2A^A|B^ABc|^c4-|c=cB2-|B4|
+V:4
+A2G2|CEF^F|G4-|G^FGF|^F3B,|EBG^F|
+V:1
+G2^F2|G>G^F2|^GB/A/G^F|Bd/^c/BA|^d^f2A|^d/e/^f2A|
+V:2
+E4-|E4|E4-|E4|A4-|A4|
+V:3
+zBcA|zBdc|X2|^c2=c2|B2c2|
+V:4
+E4-|E4|[EB]2[A^c]2|[^Gd]2[^ce]2|^F4-|^F4|
+V:1
+^d/^f/a2=g|c/^d/^f2e|A/B/d3/e/d/c/|A/B/d/f/ =a/g/e/c/|
+V:2
+z=cB2|zAG2|A_AG2|A_AG2|
+V:3
+X4|
+V:4
+z[^F^d][=Ge]2|z[^Dc-][Ec]2|z[FB][Ec]2|z[FB][Ec]2|
+V:1
+B/A/c/e/ G/^F/A/c/|B/A/c/_e/ G/^F/A/c/|z/G/A/c/ e/c/A-|A/G/A/c/ A/G/E|
+V:2
+X2|=EFGF|EFEC|
+V:3
+ze3|z_e3|c4-|c4|
+V:4
+zcA^F|zcA^F|G4-|G4|
+%11
+V:1
+z/G/A/c/ e/c/c/A/-|A/G/A/c/ A/G/G/E/|z/B/^c/e/ ^g/e/c-|c/B/^c/e/ c/B/^G|
+V:2
+EFGF|EFEC|^GABA|^GAGE|
+V:3
+X4|
+V:4
+[G-c]2[CG]2|[G-c]2[CG]2|[Be]4-|[Be]4|
+V:1
+z/B/^c/e/ ^g/e/e/c/-|c/B/^c/e/ c/B/B/^G/|^F^GEG|^F=GEG|
+V:2
+^GABA|^GAGE|E4-|E4|
+V:3
+X4|
+V:4
+[B-e]2[EB]2|[B-e]2[EB]2|z/A/B-B/^G/B|z/A/B-B/=G/B|
+V:1
+^FGAB/G/|^FGAB/G/|c2B2|A2G2|GAFA|
+V:2
+E4-|E4|E4|C4-|C4-|
+V:3
+X4|z/E/F>DF|
+V:4
+z/A/B/G/ z/^F/G/E/|z/A/B/G/ z/^F/G/E/|z/E/A2G|z/C/F2E/C/|G,4-|
+V:1
+GAFG|e2dc|d4|e2dc|
+V:2
+C2B,2|E4|A2GF|E2F>^F|
+V:3
+z/E/F>DE|X3|
+V:4
+G,4|z/C/G/C/ z/A/c/A/|z/F/c/F/ z/G/B/G/|z/C/G/C/ z/A/c/A/|
+V:1
+g4|_a_e2f|gd2e|c>dB>c||[K:Cm]
+V:2
+GA_B2|_A2_BA|G2=AG-|G^F=F2||[K:Cm]
+V:3
+X4||[K:Cm]
+V:4
+z/E/c/E/ z/E/_d/E/|z/_E/c/E/ z/c/_e/c/|\
+	z/B/d/B/ z/G/B/G/|z/A/c/A/ z/G/d/G/||[K:Cm]
+V:1
+[Ec]/z/zz2|z4|z4|z4|
+V:2
+X4|
+V:3
+X4|
+V:4
+[CE]/e/d/c/b2-|b/a/g/f/c'2-|c'/g/e/c/ c/=B/c/d/|d/c/e-e/d/e/f/|
+%12
+V:1
+z/B/=A/G/f2-|f/e/d/c/g2-|g/d/B/G/ G/^F/G/=A/|\
+	=A/G/B/G/ B/A/B/c/|c/B/^d/B/ B/_A/f/A/|
+V:2
+X5|
+V:3
+X5|
+V:4
+gzz/=a/=b/g/|c'zz/d'/e'/c'/|_b/=a/gz/d/e/c/|B=ez/f/_g/_e/|d=efd|
+V:1
+z/e/d/c/b2-|b/a/g/f/c'2-|c'/g/e/c/ c/=B/c/d/|\
+	d/c/d/e/ e/d/e/f/|f/e/g/b/- b/a/f/_d/-|
+V:2
+X5|
+V:3
+X5|
+V:4
+[eg][fa][df][=eg]|[fa][gb][ac'][fd']|\
+	[c'e']z/[eg]/[df]z/[=Ba]/|[eg]z/[gb]/[fa]z/[d_c']/|\
+		[gb]z/[=e_d']/[fd']z/[fa]/|
+V:1
+_d/c/d/e/- e/d/B/_G/-|G/F/A/F/- F/=E/D/E/|\
+	Fzz.[=Ac_g]|.[B_df]zz.[Bd=e=g]|.[fa].[ac']z.[bc']|
+V:2
+X4|c4-|
+V:3
+X5|
+V:4
+[e=a]z/[A_g]/[Bg]z/[B_d]/|[Ac]/z/ [A=B]/z/ [CGc]/z/z|\
+	z/A,/G,/F,/ E2-|E/_D/C/B,/F2-|F/C/A,/F,/ F,/=E,/F,/G,/|
+V:1
+z.[ac']z/=e/f/g/|g/f/g/a/ a/g/a/b/|\
+	b/a/b/c'/ c'/b/a/g/|b/a/g/f/ a/g/f/_e/|
+V:2
+c4-|c4|cf=d=e|c=dB=B|
+V:3
+X4|
+V:4
+G,/F,/G,/A,/ A,/G,/A,/B,/|\
+	B,/A,/B,/C/ C/B,/C/_D/|CABc|ABEG|
+V:1
+g/f/f/g/ f/e/e/f/|[F=Bd]zz.[_Gce]|.[F=Bd]zz.[_Gce]|\
+	.[F=Bd].[_Gce].[DFB].[EGc]|.[F=Bd].[_Gce].[DFB].[EGc]||[K:C]
+V:2
+c4|X4||[K:C]
+V:3
+za2g|X4||[K:C]
+V:4
+A4-|A/F/E/D/A2-|A/F/E/D/A2-|A4-|A4||[K:C]
+V:1
+z/G/A/c/ e/c/A-|A/G/A/c/ A/G/E|z/G/A/c/ e/c/c/A/-|A/G/A/c/ A/G/G/E/|
+V:2
+EFGF|EFEC|EFGF|EFEC|
+V:3
+X4|
+V:4
+[Gc]4-|[Gc]4|[G-c]2[CG-]2|[G-c]2[CG]2|
+%13
+V:1
+z/_E/F/_A/ c/A/F-|F/_E/F/_A/ F/E/C|\
+	z/_E/F/_A/ c/A/A/F/-|F/_E/F/_A/ F/E/E/C/|
+V:2
+C_D_ED|C_DC_A,|C_D_ED|C_DC_A,
+V:3
+X4|
+V:4
+[_E_A]4-|[_E_A]4|[_E-_A]2[_A,E-]2|[_E-_A]2[_A,E]2|
+V:1
+F2_G2|F2_G2|=G=e=dc|d4-|dedc|
+V:2
+_D2C2|_D2C_E|=E4|F^FAG|E2F>^F|
+V:3
+_A4|_A4|G2c2-|c2B2|G2c2-|
+V:4
+_D2_E2|_D2A,2|C2=A2-|A2G2|C2A2|
+V:1
+g4|_a_e2f|gd2=e|c>dB>c|c4|
+V:2
+G_A=A_B|_A4|G4|G^F=F2|EC3|
+V:3
+c2_d2|c2_e2|d2B2|c2dG-|GEF^F|
+V:4
+E4|_E2c2|B2G2|A2G2|C2_D=D|
+V:1
+c2G>_A|^F4|c2=F>G|_E4|_E2D2|
+V:2
+C4-|C4|C3=B,|C4|C4-|
+V:3
+G^FG_A|=A4-|A_AG2-|G4|zG_AF|
+V:4
+_E4-|ED_ED|D3G,|CG_ED|C4-|
+V:1
+_E2D2|=EG/F/ED|G_B/A/ G/F/A/c/|ed/c/d2|ed/c/d2|
+V:2
+C4|C4-|C2D2|G2^G2|A4|
+V:3
+zG_B_A|X3|c4-|
+V:4
+C4|[CG]2[F=A]2|[E_B]2[Ac]2|[Gc]2[FB]2|E2^F2|
+V:1
+ed/c/d>e|c2zG|czz2|\
+%%writefields Q 1
+Q:"Più lento"
+%%writefields Q 0
+Q:1/4=60
+	z.[ceg].[cda].[cdf]|zg3-|g4|]
+V:2
+G3F|E2x2|X2|zed2&zc2B|[ce]4|]
+V:3
+cefB|zGcz|zGcz|X3|]
+V:4
+G4|C2z2|z2zG,|C2-C/F,/G,/A,/|E,/F,/G,3|C,4|]
+
+X:22
+T:Méditation
+C:A. Guilmant (1837 - ?)
+M:6/8
+L:1/8
+Q:"Andante quasi Adagio" 3/8=50
+%%incipit %G-2$xFC@6/8 {'8B''CD+}{DCD}/{C'B''C}{'BAB}/{AGF}{EFG}/
+%%staves {(1 2)(3 4)}
+% %maxshrink .9
+K:Bm
+V:1
+Bcd- dcd|cBc BAB|AGF EFG|F3-F2B-|
+V:2
+D3E3|D3C3|B,6-|B,2CD2F|
+V:3 shift=cC
+F3G3|F3E3|D3CDE-|EDE FBd|
+V:4 shift=cC
+B,6-|B,6-|B,6-|B,3B,2z|
+V:1
+B^AB cde-|edc Bdf|[Aa][B^g][cf-] f^eg|f3-f2f|ged cde|
+V:2
+F6-|F3F2B|F^GAB3-&x3G2C|B^A^GA3|B2AG3|
+V:3
+c2B ^ABc|B2ed3|c6|c3-cFf|egf eBc|
+V:4
+F6|x6|x6|F3-Fzz|z2zA3|
+V:1
+fdc Bcd|^G^ABA2c|B3-Bzz|Bcd- dcd|cBc BAB|
+V:2
+F6|^E3=E3-|EFC D^A,B,|D3E3|D3C3|
+V:3
+dA^AB3-|B^A^G FGA|F3-Fzz|F3G3|F3G3|
+V:4
+D3-DCB,|C3F3|B,3-B,zz|B,6-|B,3E3|
+V:1
+AGF EFG|F2Ad2f|b2a gfe|dcd efg|a2g fed|
+V:2
+D3C3|D2zz2z|z2zB3|A6-|A6|
+V:3
+A3GFE|DA,G, F,E,D,|x3B3|e6-|e3A3|
+V:4
+F3A,3|D2xx3|G,2zG3-|G3c3|F6-|
+V:1
+cBc def|g2f edc|B3A2A|dcB ABG|F3-FGA|
+V:2
+G6-|G6|G2F EDC|D3C3|D6-|
+V:3
+d6-|d3B2e|d3czz|A6-|A6-|
+V:4
+F3B3|E6|A3G3|F3E3|zDC DEF|
+%23
+V:1
+_B6-|BAG d=c_B|A=B^c def|F3E3|D3-D2C|D3-D2C|
+V:2
+D6-|D6-|D3A,3|B,3C3|A,3_B,3|A,3_B,3|
+V:3
+AGF GA_B|G,2_B- BAG|^F6|G6|F3E3|F3E3|
+V:4
+G,x2x3|x6|A,6-|A,6|D,E,F,G,3|D,E,F,G,3|
+V:1
+E2D- DE^E|F3-F^G^A|Bxxx3|
+V:2
+A,2xx3|=E6|D3x3|
+V:3
+F2xx3|^A3-ABc|F3x3|
+V:4
+D,2zD3|C3F,3|B,6-|
+
+X:45-2
+T:Trois antiennes II
+C:E. Gigout
+M:3/4
+L:1/4
+Q:"Moderato e sustenuto"
+%%incipit %G-2$xFC@3/4 '4FAG/{8FE}2D+/4D{8EFDE}/2F4-/
+%%staves {(1 2)(3 4)}
+% %maxshrink .9
+K:D
+V:1
+%%writefields Q 0
+Q:1/4=72
+FAG|F/E/D2-|DE/F/D/E/|F2z|
+V:2
+D3|CD2|B,3|A,B,/C/A,/B,/|
+V:3 shift=cC
+[I:staff -1]dcB|[I:staff +1]GF2|zD2-|D2z|
+V:4 shift=cC
+DF,G,|A,B,/C/A,/B,/|G,3|D,2z|
+%46
+V:1
+[CE][GB][FA]|[EG][DF][CE-]|EB/c/A/B/|c3|
+V:2
+X2|E2D|G/E/CF-|
+V:3
+EA2-|A3|B3-|B^A2|
+V:4
+A,CD|EF/G/E/F/|G2F|E/G/F/G/E/F/|
+V:1
+dBA|G/A/B2-|BGF|E/F/G2|FAG|
+V:2
+FGD|D2G-|[E-G]E=C|B,2E/D/|CDE|
+V:3
+Bd>=c|B3|xB>A|G3|zF=A|
+V:4
+DEF|G-G/F/E/D/|^C2^D|E-E/D/^C/B,/|^A,B,C|
+V:1
+F/E/D2-|D[^CE]/[DF]/[B,D]/[CE]/|H[DF]3|]
+V:2
+=C3|B,A,G,|A,3|]
+V:3
+A/G/F/E/F|X2|]
+V:4
+D3|[G,G][F,F][E,E]|[D,D]3|]
+
+X:46-3
+T:Trois antiennes III
+C:E. Gigout
+M:3/4
+L:1/8
+Q:"Moderato semplice"
+%%incipit %G-2$xFC@3/4 {8-''C'AFGA}/2.B+/{8BA''DC'AnB}/''2.C+/
+%%staves {(1 2)(3 4)}
+% %maxshrink .9
+K:F
+V:1
+%%writefields Q 0
+Q:1/4=72
+zcAFGA|
+V:2
+X|
+V:3 shift=cC
+A2c2F2|
+V:4 shift=cC
+X|
+V:1
+B6-|BAdcA=B|c6-|cA_Bcde|
+V:2
+zGECDE|F6-|FEAGEF|G6-|
+V:3
+E2G2C2|D2D,2G,2|C, CFDGF|E2c2B2|
+V:4
+X4|
+V:1
+c2f4-|fd_egfe|d2g2=e2|c2f2d2|
+V:2
+GEFGAB|G2c4-|cABdcB|A2d2B2|
+V:3
+A2d2D2|_E2C2A2|B2G2c2-|cfdBcd|
+V:4
+X4|
+V:1
+Bcd4-|dGcBA2-|ABG4|HF6|]
+V:2
+GAB2GF|E4FE|D2-DG,CB,|A,6|]
+V:3
+CdBGAB-|BcAGF2-|F3DE2|F6|]
+V:4
+X|C4DC|B,G,C4-|[F,C]6|]
+
+X:52-2
+T:Rentrée de procession
+T:Part 2
+C:L. Jacob
+M:2/4
+L:1/8
+Q:"Bene marcato"
+%%incipit %G-2$xFC@2/4 {8-,AB'C}/{DC,B'E}/4C{8-A}/4.xG8B/
+%%staves {(1 2) 3}
+% %maxshrink .9
+K:D
+V:1
+%%writefields Q 0
+Q:1/4=72
+z4|z4|zA,B,C|DCB,E|
+V:2
+X4|
+V:3 shift=cC
+zDEF|GEAG|F2G2|F2^GE|
+V:1
+C2zA|^G3B|Acea-|a^g=ge|fzd2-|d2c2|dD/E/ FB|GEAG|
+V:2
+X8|
+V:3
+AEAc|BEBd|CzA2|B2c2|dDEF|GEAG|FzD2-|D2C2|
+V:1
+AG/A/ BA|GA/B/ cB|^A2B2-|B2^A2|B!^!Bcd|ecfe|dzf2-|
+V:2
+X7|
+V:3
+Dz dc/d/|ez ed/e/|fedB|cdef|dzb2-|b2^a2|ba^gf|
+%53
+V:1
+f2^e2|fc^g^e|fz Bc|AB/c/d2-|d2c2|dc/d/ef|z^d/e/fg|
+V:2
+X5|A4-|A4-|
+V:3
+^ga/b/ c'b|azb2|ac^g^e|f3=e/d/|ef/g/ ag|f4|c4|
+V:1
+f4|e4|d4|c3d-|d4-|d2c2||d
+V:2
+A3B|G3A|F3G|EAGF|BAGF|E3A/G/||[DFA]
+V:3
+z=d/e/fg|zc/d/ef|zB/c/de|A3B/A/|GFEF|GF/G/A2||x
+
+X:54
+T:Communion
+C:L. Jacob
+M:C
+L:1/4
+Q:"Lento"
+%%incipit %G-2$xFC@c ,4.B'8C4DxD/2.E4nD/AGFG+/2.G4F+/
+%%staves {(1 2)(3 4)}
+% %maxshrink .9
+K:G
+V:1
+%%writefields Q 0
+Q:1/4=60
+B4-|B!tie(!A3-|d4|c>def-|fB3-|
+V:2
+B,>CD^D|E3=D|!tie)!AGFG-|G3F-|F>E^DE-|
+V:3 shift=cC
+G,DG2-|G2F2-|FGAB|c2-c2|[G-B]4|
+V:4 shift=cC
+G,DG2|C4|B,4|A,>B,CD|x4|
+V:1
+B!tie2(!A3-|d4-|d>cBA|B4-|B!tie3(!A3-|d4|
+V:2
+E2_ED|!tie2)!AGFG|E2DC|B,>CD^D|E3D|!tie3)!AGFG-|
+V:3
+G2F2-|FGAG-|G3F|GDG,G-|G2F2-|FGAB|
+V:4
+C4|B,4|A,B,/C/D2|X|C4|B,4|
+%55
+V:1
+c>def-|fB3-|BA3|d2^c2-|c>BA^G|F4-|
+V:2
+G3F-|F>E^DE-|E2_ED-|DE-E^E|^F-F-F^E|x4|
+V:3
+c4|B4|!tie4)!G2F2-|FG-G^G|Ad^cB|A>^GA^A|
+V:4
+A,>B,CD|!tie4(!G4|C4|B,4|A,B,^C2|!tie4(!D4-|
+V:1
+F!tie5(!E3-'|A4|A!tie6(!^G3-'|^c4|dA=GF|BG^DE|
+V:2
+B,3A,|!tie5)!E>D^CD-|D3^C|!tie6)!^G>F^EF|D2ED|B,2=CB,|
+V:3
+!tie4)!D2^C2-|CDEF-|F2^E2-|EF^GA-|A4|^DEFG|
+V:4
+G,4|F,4|B,4|A,4|B,2CD|G,4|
+V:1
+E=D2^C|D>zz2|
+V:2
+x4|x4|
+V:3
+[FA-]2[EGA-]2|[DFA]>FAd|
+V:4
+A,4|x4|
+
+X:56
+T:Andantino
+C:L. Jacob
+M:2/4
+L:1/8
+Q:Andantino
+%%incipit %G-2@2/4 {'8GAB''C}/{'B''C}'4A/{8GAB''C}/{xCD+DxD}/
+%%staves {(1 2)(3 4)}
+% %maxshrink .9
+K:C
+V:1
+%%writefields Q 0
+Q:1/4=80
+GABc|BcA2|GABc|^cd-d^d|eB-B2|^c^GB2-|B^cB=d-|dedG|
+V:2
+E4|F4|E4|F4|E2^F^D|E2^D^F|E4|=F4|
+V:3 shift=cC
+G4-|G4-|G4-|G4|^G2A^F|^G2A^F|^G4|=G4-|
+V:4 shift=cC
+C4|D3B,|C4|B,4-|B,4-|B,4|B,4-|B,4|
+V:1
+GABc|(3cBcA2|Gcde-|(3edec2-|ceAc|e>dc2-|c2d2|c2-cHz||[K:F]
+V:2
+E4|F4E2FG|G2-[I:tuplets 0 0 0 1](3GFE[I:tuplets 0 0 0 0]|F4-|F2-(3FGF|E2F2|E2-Ez||[K:F]
+V:3
+G4-|G4-|G2A_B-|B2[I:tuplets 0 0 0 2](3_BAG[I:tuplets 0 0 0 0]|\
+	[Ac-]4|[_Ac-]4|c=AB2|c2-cz||[K:F]
+V:4
+C4|D2-(3DCB,|C4|F4|D4-|D4|G4-|[CG]2[CG]z||[K:F]
+V:1
+cdef|ecd2|cdef|^fg-g^g|ae-e2|^f^ce2-|e^fef-|fgde-|
+V:2
+A4|B4|c4|B4|A2=B^c|A2^G=B|A4-|A=BG2|
+V:3
+c4-|c4|f4|c4|^c2d2|^c2=Bd|^c2=c2|=B2_B2|
+V:4
+F4|G4|A4|E4-|E4-|E4-|E2A2|E2G2|
+V:1
+efcd|edcd|ec-cd|ec-ce|agec|AGce-|ecAe|Hd4||[K:C]
+V:2
+A2F2|E2F2|E2F2|E2-Ez|z4|z4|F4-|F4||[K:C]
+V:3
+c2_A2|G2_A2|G2_A2|G2-Gz|z4|z4|A2cA|c2=B2||[K:C]
+V:4
+F4|C2F2|C2F2|C2-Cz|z4|z4|D4|G4||[K:C]
+V:1
+c2A2|A2Gz|c2BA-|Ac/A/G2-|GABc|ABcd|Bcde-|[ce]2-[ce]Hz||
+V:2
+E4|F2-Fz|E4|F4|E4-|E4-|E4-|E2-Ez||
+V:3
+GABc-|cA Bz|GABc-|cAB2|G4-|G4|A4|[Gc]2[Gc]z||
+V:4
+C4|D2-Dz|C4|D4|C4-|C4-|C4-|C2-Cz||
+
+X:58
+T:Bénédiction
+C:H. Dallier
+M:3/4
+L:1/8
+Q:Andantino
+%%incipit %G-2$xF@3/4 {'6D''D'BD}/2G4G/2F{6G''GE'G}/''2C4C/
+%%staves {(1 2)(3 4)}
+%%pagescale 1.1
+K:G
+V:1
+%%writefields Q 0
+Q:1/4=72
+D/d/B/D/|G4G2|F4G/g/e/G/|c4c2|B4eB|
+V:2
+D2|^C2D2E2|E2D2G2|F2G2A2|A2G2E2|
+V:3 shift=cC
+G2|G4B>=A|A4c2|c4e>=d|d4B2|
+V:4 shift=cC
+B,2|^A,2B,2^C2|D4E2|^D2E2F2|G4G2|
+V:1
+A3B ^cd|f2e2B2-|B^cBAe2|e2dz =F/=f/d/F/|_B4B2|
+V:2
+E2F4|G4G2|G4G2|G2Fz=F2|E2=F2G2|
+V:3
+^c2d4|B2^AB ^cd|fed^cBc|AB/^c/ dz_B2|_B4d>=c|
+V:4
+G2F2B2|E6|A6|D2-DzD2|^C2D2E2|
+V:1
+A4A/a/=f/A/|!>!d4d2|^c4=ca|a2c2B2|e2-eEFG|B2A3B|
+V:2
+G2=F2A2|^G2A2B2|B2A2A=c|c2A2GF|E6|C6|
+V:3
+c4d2|d4=f>e|e4_e2|d4d2-|d2cBAG|F3G EF|
+V:4
+=F4F2|E2=F2^G2|A4G2|F4G2|C6|D6|
+V:1
+G4-Gz|G6-|GFGABc|B6-|BABcde|
+V:2
+B,[B,D][B,D][B,D][B,^D][B,D]|[B,E][B,E]2[B,E]2[B,E-]|[A,E][CE]2[CE]2[CE-]|\
+	[B,E][B,E]2[B,E]2[B,E]|[CG][EG]2[EG]2[EG-]|
+V:3
+G2G2F2|X4|
+V:4
+G,2z2z2|E E,G,B,ED|C2A,2F,2|G,G,B,EGF|E2C2A,2|
+V:1
+d6-|d^cd2e2|f3dB2|B4^A2|^c2Bzd2-|d^cdefg|
+V:2
+[DG][DG]2[DG]2[DG]|[EB][EB-] [FB][FB-] [GB][GB-]|\
+	[FB][FB]2[FB] z[DF]|[EG] [EG-] [DG] [DG][^CF] [CF-]|\
+	[EF] [EF-][DF][DF]2[DF]|[EB][GB]2[GB]2[GB-]|
+V:3
+X6|
+V:4
+B,B,DGBA|G2F2E2|D6|^C2E2F2|zB,DFBA|G2E2^C2|
+%59
+V:1
+f6-|fefgab|a6-|a2g2f2|a3gf2|
+V:2
+[FB][FB]2[FB]2[FB]|[Gd][Bd]2[Bd]2[Bd-]|\
+	[Ad][Ad]2[Ad]2[A-d]|[A^d][Ad]2[Ad]2[A-d]|[A^d][Ad]2[Ad]2[Ad]|
+V:3
+X5|
+V:4
+DDFBd^c|B2G2E2|FAdAfd|=c6|B2B,^DFB|
+V:1
+g2=f2_e2|d2^c4|g2=f2_e2|d2^c4|z2d2^cz|
+V:2
+z[G_e] z[G_B] z[GB]|z[G_B]2[GB]2[GB]|\
+	z[G_B]2[GB]2[GB]|z[G_B]2[GB]2[GB]-|[G_B][GB]2[GB]2[GB]-|
+V:3
+X5|
+V:4
+_B6|z2_E,_B,_EG|_B3AG2|z2_E,_B,_EG|_B3A Gz|
+V:1
+z2d2^cz|z6|z2z2^C/^c/_B/!tie(!C/-|G4G2|F4G/g/e/G/|
+V:2
+[GB][G_B]2[GB]2[GB]|z6|z2z2^C2|!tie)!^C2D2E2|E2D2G2|
+V:3
+X3|E2D2B>=A|A4c2|
+V:4
+_B3A Gz|_BAGBAG|!>!_B,2!>!A,2!>!G,2|^A,2=B,2^C2|D4E2|
+V:1
+c4c2|B4gd|d^de2eB|B2c2E2|DEFGAB|
+V:2
+F2G2A2|A2G2=F2|=F2E2=D2|D2C2C2|C3[B,D] [CE][DF]|
+V:3
+A2G2e>=d|d4B2|B2c2^G2|^G2A2=G2|FG Ax3|
+V:4
+^D2E2F2|G4G2|C4E2|A,4A,2|D4D,2|
+V:1
+[CA]2[B,G]z =F/=f/d/F/|=F2_E2^C2|D4D/d/B/D/|\
+	[B,D]2[^A,^C]2[=A,=C]2|B,4B,/B/G/B,/|
+V:2
+EFx2=F2|B,2_B,4|=B,4D2|X|A,2G,2z2|
+V:3
+X5|
+V:4
+G,DG,DG,D|G,DG,_EG,G|G,DG,DG,D|G,EG,^EG,F|G,DG,DG,D|
+V:1
+^A,2B,2B,/B/G/B,/|^A,2B,2B,/B/G/B,/|^A,B,A,B,A,B,|D6|[CD]6|HG6|]
+V:2
+G,4z2|G,4z2|G,6|G,6|F,6|[G,B,]6|]
+V:3
+X2|^CDCDCD|D6|D6|D6|]
+V:4
+G,^CG,DG,D|G,^CG,DG,D|G,6|B,6|A,6|G,6|]
+
+%X:72
+
+X:79
+T:Prière
+C:A. Georges
+M:C
+L:1/4
+Q:Lento
+%%incipit %G-2$xF@c '2D4GF/2D4BA/AGD,B/'2D4C-/
+%%staves {(1 2)(3 4)}
+K:G
+V:1
+%%writefields Q 0
+Q:1/4=72
+D2GF|D2BA|AGDB,|[B,D]2[A,C]z|E2A^G|E2cB|
+V:2
+B,2^A,2|B,2C2|B,4|X|C2B,2|C2D2|
+V:3 shift=cC
+D2^C2|D2_E2|D4|[^G,=F]2[A,E]z|E2^D2|E2=F2|
+V:4 shift=cC
+G,4|G,4|G,4|X|A,4|A,4|
+V:1
+BAEC|[^EB]2[FA]2|[CFA]2[B,G][B,DF]|[B,DE][Dd]2[Ec]-|[Ec]B2A|[FA][EG]FE|
+V:2
+C4|C4|X2|z^DEF|X|
+V:3
+E4|[D,D]3[^D,^D]|[E,E]3[F,F]|[G,G][^G,E][A,=F]2|[B,^F]2[^CG][^DB]|B2-B2|
+V:4
+A,4|X4|E2FG|
+V:1
+E[d=f][ce][Bd]|[Bd][Ac]BA|A2-AD|[B,D]2GF|D2BA|AGDB,|
+V:2
+E4|x2G2|G2Fx|x2^A,2|B,2C2|B,4|
+V:3
+[^GB]2[Ac][Bd]|[ce]2[^ce]2|d2-dz|D/G/E/D/^C2|D/B,/C/D/_E2|D3=F|
+V:4
+X3|G,4|G,4|G,3^G,|
+V:1
+BAEC|cBAF|FEFG|GFGA|AGA^A|Bdge|
+V:2
+C4|^D4|X3|G4|
+V:3
+E3G|F3A|AGA^A|BABc|cBc^c|d3^c|
+V:4
+A,4|B,4|C3^C|D4-|D4-|D4|
+V:1
+e3/f//e//dG|d3/e//d//c[EG]|B2F^G|_B2=FG|A4|A2G2|G2-Gz|]
+V:2
+F2G2|G2x2|[^DF]4|=F4-|F2^F2|X2|]
+V:3
+=c2B2|B2cx|B4|[_Bd]4|[A^c]2[D=c]2|B4|B2-Bz|]
+V:4
+D3^D|E2Ac|X3|[G,D]4|[G,D]2-[G,D]z|]
+
+X:95
+T:Offertoire
+C:Léon Boëllmann (1862 - ?)
+M:3/4
+L:1/4
+Q:"Andantino"
+%%incipit %G-2$xF@3/4 ''4D'BG/{8FE}4D{8DE}/{FE}4F{8DE}/{FE}4FA/
+%%staves {(1 2)(3 4)}
+K:G
+V:1
+%%writefields Q 0
+Q:1/4=80
+dBG|F/E/DD/E/|F/E/FD/E/|F/E/FA|
+V:2
+D2^C|=C2B,|^A,2B,|C2E|
+V:3 shift=cC
+G2D-|D3-|D3-|D2F|
+V:4 shift=cC
+B,2^A,|=A,2G,|F,2G,|^G,A,C|
+V:1
+dBG|F/E/DD/E/|EGF|!breath!G2B|gec|
+V:2
+D2^C|=C2B,|A,C2-|CB,z|G3-|
+V:3
+G2D-|D2G-|GED-|DG>F|B2c|
+V:4
+B,2^A,|=A,2G,|CA,2|G,2z|E3-|
+V:1
+B/A/!tie(!GB|gec|_B/A/Gz|_bg_e|d/c/_BB/c/|
+V:2
+G/z/z!tie)!G-|G3-|G/z/zB-|B3-|B/z/z_B|
+V:3
+d2-d/c/|B2c|^c3-|cd_e|=e3|
+V:4
+E3-|E3-|E2-E/F/|G3-|G2_G|
+V:1
+d/c/d_B/c/|d2D|dBG|F/E/DD/E/|F/E/FD/E/|
+V:2
+A_AG|F2D-|D2^C|=C2B,|^A,2B,|
+V:3
+=f_B2-|^A2F|G2D-|D3-|D3-|
+V:4
+=F2_E|D^C=C|B,2^A,|=A,2G,|F,2G,|
+V:1
+F/E/FA|dBG|F/E/DD/E/|EGF|G2-G/z/||[K:C]
+V:2
+C2E|D2^C|=C2B,|A,C2-|CB,-B,/z/||[K:C]
+V:3
+D2F|G2D-|D2G-|GED-|D2-D/z/||[K:C]
+V:4
+^G,A,C|B,2^A,|=A,2G,|CA,2|G,2-G,/z/||[K:C]
+%96
+V:1
+%%writefields Q 1
+Q:"Poco animato"
+%%writefields Q 0
+Q:1/4=90
+G/A/c/e/d/c/|dAc/B/|AGF|G3|
+V:2
+E3|F2D|E2D|E2D|
+V:3
+G2^G|A2F|G2c/B/|cGF|
+V:4
+C3-|C3-|C3-|C3|
+V:1
+G/A/c/e/d/c/|dAc/B/|cGF|G3|G/A/_B/A/^c/e/|
+V:2
+E3|D2_E-|E3-|EDF|=Ezz|
+V:3
+G3|^F2G-|G2_A|G3|Azz|
+V:4
+C3|A,3|_B,3|=B,2D|^Czz|
+V:1
+gf/e/f|G/A/_B/A/^c/e/|dB/A/B|E/^G/A/G/A/c/|
+V:2
+Gzz|Gzz|Gzz|x3|
+V:3
+X4|
+V:4
+[DB]zz|[E^c]zz|[FBd]zz|[^Fc]zz|
+V:1
+[EAe]3|C/E/^F/E/F/A/|B2!tie2(!B,|BG^F|E/D/Cz|
+V:2
+X|C3|B,2z|!tie2)!B,3|G,2z|
+V:3
+X5|
+V:4
+C/E/^F/E/F/A/|[A,-D^F-]3|[A,^DF]2z|[G,E]3|[_B,C]2z|
+V:1
+bg^f|e/d/cz|B/^c/e/^g/^f/e/|^f^ce/^d/|eBA|
+V:2
+B3|X|^G3|A3|^G2^F|
+V:3
+X5|
+V:4
+[Ge]3|[Ac^f]2z|[Be]3-|[Be]3-|[Be]2e/^d/|
+V:1
+B3|B/=c/e/g/^f/e/|^fce/d/|e_Bd/c/|d^Ad/c/|
+V:2
+^G2^F|=G3|^F3|E3|D3|
+V:3
+X2|d2c-|c2_B-|^A3-|
+V:4
+eBA|[Be]3|A3|G3|^F3|
+%97
+V:1
+d_Bd/c/|d^Ad/c/|d_Bd-||[K:G]\
+%%writefields Q 1
+Q:"Tempo I."
+%%writefields Q 0
+Q:1/4=80
+d=BG|F/E/DD/E/|
+V:2
+E3|D3|E2D-||[K:G]D2^C|=C2B,|
+V:3
+_B3-|^A3-|_B2^F||[K:G]G2D-|D3-|
+V:4
+C3^F3|C3||[K:G]=B,2^A,|=A,2G,|
+V:1
+F/E/FD/E/|F/E/FA|dBG|F/E/DD/E/|EGF|
+V:2
+^A,2B,|C2E|D2^C|=C2B,|A,C2-|
+V:3
+D3-|D2F|G2D-|D2G-|GED-|
+V:4
+F,2G,|^G,A,C|B,2^A,|=A,2G,|CA,2|
+V:1
+G2-G/z/|G/A/_B/A/^c/e/|g=f/e/f|G/A/_B/A/^c/e/|
+V:2
+CB,-B,/z/|X2|G3-|
+V:3
+D2x|[^ce]3|[d=f]3|e3|
+V:4
+G,2G-|G3-|G3-|G3-|
+V:1
+dB/A/B|E/G/A/G/A/c/|B/c/e/d/e/g/|age/c/|
+V:2
+G3|X3|
+V:3
+=f3|X3|
+V:4
+G3|[Ge]3-|[Ge]3-|[Ge]2z|
+V:1
+AGE/C/|z3|z3|D3-|D3-|D/E/G/B/A/G/|
+V:2
+X3|D3|C3|B,3|
+V:3
+z3|A2G-|GE2|D3-|D3-|D3|
+V:4
+X3|D3|A,3|G,3-|
+V:1
+AEG/F/|GDC|[B,D]3-|[B,D]3-|[B,D]zz|]
+V:2
+C2A,-|A,B,C|X3|]
+V:3
+E2C-|CDE|X3|]
+V:4
+G,3-|G,3-|[G,D]3-|[G,D]3-|[G,D]zz|]
+
+X:102
+T:Communion
+C:J. Guy Ropartz
+M:4/4
+L:1/4
+Q:"Andante mesto"
+%%incipit %G-2$bBEA@4/4 {8-}'4G8G2F+/8F4E8D2G+/8G4A8G4GF+/
+%%staves {(1 2)(3 4)}
+K:Cm
+V:1
+%%writefields Q 0
+Q:1/4=80
+z/GG/F2-|F/ED/G2-|G/AG/GF-|
+V:2
+E3C/D/|=B,2-B,/CB,/|EDC>_C|
+V:3 shift=cC
+X3|
+V:4 shift=cC
+cBA2|GFED|C_B,A,A|
+V:1
+F/D/E/F/G2-|G/_E/F/c/- c/B/A/G/|z/=E/F/c/- c/B/A/G/|_e>=dcB/c/|
+V:2
+B,2-B,/=C/_D|C2_D/_E/=E|C2_D/_E/=E|^F2G>=F|
+V:3
+X4|
+V:4
+GF=E2|A2GB|A2GB|=A/B/ce>d|
+V:1
+d/B/=A-A/d/G|B=A/G/ =F/G/E|D>D- D/C/F-|F/G/F/E/ z/EF/|
+V:2
+=E^F2G|_E2C2|X2|
+V:3
+zd3|G2=A-(3A/G/A/|B=AGA|=BGc_B|
+V:4
+cdcB|z2zC|GFED-|DC_AG|
+V:1
+E/D/G-G/A/G/F/|B?c B/AG/|zg/e/A>_d|=Bg/e/A>_d|
+V:2
+X2|G3F|G3F-|
+V:3
+_ABdc|d=ecd|=Bc_d2|=dc_d2|
+V:4
+FEBA|G2F2-|FEF2-|FEF2|
+V:1
+c/=B/=d!breath!cF/G/|_BA-A/z/ f/g/|ba-a/z/ d/e/|g/f/=B/c/e>d|c4|
+V:2
+FE2E-|E2-E/z/e-|e2-e/z/=B|cA3|G4|
+V:3
+=d!breath!c2c|_c2-c/z/=c'|_c'2-c'/z/a-|af3|e4|
+V:4
+GA2A|F2-F/z/a|f2-f/z/f|d2c=B|c4|
+
+X:111
+T:Angelus
+C:P. Wachs
+M:3=3/4
+L:1/8
+Q:"Moderato"
+%%incipit %G-2$bBE@3/4 '4BGA/4({8BAB)}4GA/4({8B''CD)}{'G''EDC}/
+%%staves {(1 2)(3 4)}
+K:Bb
+V:1
+%%writefields Q 0
+Q:1/4=80
+Z4|D2E4|D2E4||
+V:2
+Z6||
+V:3 shift=cC
+X2|F6-|F6-|F6-|F6-||
+V:4 shift=cC
+B,2C2F,2|B,2C2F,2|B,2C2F,2|B,2C2F,2|B,2C2F,2|B,2C2F,2||
+V:1
+B2G2A2|(3BABG2A2|(3Bcd Gedc|dBGBAF|B2G2A2|(3BABG2A2|
+V:2
+D2E4|D2E4|D2E4|D2E4|D2E4|D2E4|
+V:3
+F6-|F6-|F6-|F6-|F6-|F6-|
+V:4
+B,2C2F,2|B,2C2F,2|B,2C2F,2|B,2C2F,2|B,2C2F,2|B,2C2F,2|
+V:1
+(3Bcd Gedc|dcB4|B2G2A2|(3BABG2A2|(3Bcd GABc|
+V:2
+D2E4|D2E2D2|D2E4|D2E4|D4G2|
+V:3
+F6-|F6|G4^F2|G4^F2|G4-G2|
+V:4
+B,2C2F,2|B,2C2B,2|G,2C4|G,2C4|G,2B,2E2|
+V:1
+^cd_ed!tie(!A2|f2d2=e2|(3f=efd2e2|(3f=ef defg|^ga_ba=e2|a6-|
+V:2
+^F4z2|!tie)!A2B4|A2B4|A4d2|^c4z2|[c^f]6|
+V:3
+A4z2|d4^c2|d4^c2|d4-d2|=e4z2|X|
+V:4
+D4z2|D2G4|D2G4|D2F2B2|A4z2|d_e=fed2|
+V:1
+agdag2-|g6-|gfcgf2|=gf^G=gf2|gfAgf2|gfBgf2|
+V:2
+=B6|[_B=e]6|A6|^G6|A6|=B6|
+V:3
+X3|=B6|c6|d6|
+V:4
+[Gf]6|c_d_edc2|[F-_e]6|F6-|F6-|F6-|
+V:1
+gfcgfg|fgf^fga|b2g2a2|(3babg2a2|(3bc'd' ge'd'c'|
+V:2
+c2z2z2|X|d2e4|d2e4|d2e4|
+V:3
+e2z2z2|Z|F6-|F6-|F6-|
+V:4
+F2z2z2|Z|B,2C2F,2|B,2C2F,2|B,2C2F,2|
+%112
+V:1
+d'bgbaf|b2g2a2|(3babg2a2|(3bc'd' ge'd'c'|\
+%	d'c'Hb4||
+	d'c'b4-|b6-|b6-|Hb6|]
+V:2
+d2e4|d2e4|d2e4|d2e4|\
+%	d2e2d2||
+	d2e4|d2e4|d2e4|d6|]
+V:3
+F6-|F6-|F6-|F6|\
+%	F4-F2||
+	F6-|F6-|F6-|F6|]
+V:4
+B,2C2F,2|B,2C2F,2|B,2C2F,2|B,2C2F,2|\
+%	B,2C2B,2||
+	B,2C2F,2|B,2C2F,2|B,2C2F,2|B,6|]
+
+X:114
+T:Offertoire
+C:L. Raffy
+M:2/4
+L:1/8
+Q:"Andante con moto" 1/4=60
+%%incipit %G-2$bBEA@2/4 {,8B'E}/{DFEB}/{''C'B''E'B}/{A6B''C}{'8BA}/
+%%staves {(1 2)(3 4)}
+K:Eb
+V:1
+B,E|DFEB|cBeB|AB/c/ BA|G2GB|
+V:2
+x2|z2E2|D2E2-|ECD2|E2E2|
+V:3 shift=cC
+G2|A2B2-|B4|cAGF|EFGB-|
+V:4 shift=cC
+E2F2G2|A2G2|F2B,2|E2E2|
+V:1
+FG/A/ BG|Fedf-|fed>c|B2B,E|DE/F/ EB|cBeB|
+V:2
+D2E2-|EF3|G2=A2|B2x2|z2E2|D2E2-|
+V:3
+B3B|c2d2-|dcfe|d2G2|A2B2-|B3B|
+V:4
+A2G2|=A2BD|E2F2|B2E2|F2G2|A2G2|
+V:1
+AB/c/ BA|G2Ge|d>cBA-|AG Bg|f>edc-|c=B Bg-|
+V:2
+ECD2-|D2E2|A2F2|E2G2|c2BF-|F2G2-|
+V:3
+cAGF-|FG2c-|cedc-|cB Be-|egfd-|d2d=B|
+V:4
+F2B,2|=B,2C2|F2B,2|E2E2|A4|G2F2|
+V:1
+ge cd/e/|fd Bc/d/|ec/B/ =AB/c/|d2-dB/c/|dB G=A/B/|c=A G/F/G/A/|
+V:2
+G4|F4|E4|D2-Dz|D4|C4|
+V:3
+c_B=A2-|ABG2-|G=A^F2-|F2G2-|G=F=E2-|EFD2-|
+V:4
+E4|D4|C4|B,4-|B,4|=A,4|
+V:1
+BG/F/ =EF/G/|=A2A,A|=A>GF=E-|ED Dd|=c>G=AB-|B=A cf|
+V:2
+B,4|=A,2A,2|B,2^C2-|CD D2|G2=E2|F2F2|
+V:3
+D=E/D/^C2-|C2D2-|D2G2-|GFF2|=c4|dc =Ac|
+V:4
+G,4|F,4|G,2=A,2|D2D2|=E2C2|F2F2-|
+%115
+V:1
+ed cB/f/|ed cB|cB =AG/d/|cB=A>G-|G=F2E|D2C2|
+V:2
+B2=AB-|B2=AG|G2^FG-|G2^FD|C2B,2|=A,2A,2-|
+V:3
+gfed|gfed|edcB|edcB|=A2G2|^F2[EG]2|
+V:4
+F4-|F2^FG-|G4-|G2z2|X2|
+V:1
+D2(3CB,A,|D4-|HD4-|Dzz2|z4|z2=A,/D/=E/F/|
+V:2
+=A,2G,2|^F,3=E,|^F,4-|F,zz2|z4|x4|
+V:3
+[D^F]2[=A,E]2|=A,2G,2|=A,4-|A,zx2|X2|
+V:4
+X|[D,D]4-|[D,D]4-|[D,D]zD/G/=A/B/|=AA/B/ .c.d|BG=FD|
+V:1
+=EE/F/ .G.=A|z2D/G/=A/B/|=AA/B/ .c.d|BG =Ad|[Bd]3[Bd]|
+V:2
+X|FDx2|X|x2F2|GG/F/ =EE|
+V:3
+X|x2zd|c/B/=A/G/ ^FA|B2x2|X|
+V:4
+B/=A/G/F/ =E^C|D4-|D3^F|G2=A,/D/=E/F/|=EE/F/ G!>![G,G]|
+V:1
+!>![=E=A^c]2=A/d/f/=a/-|ag2f/=e/|gf F/B/d/f/-|f=e2d/^c/|=ed D/F/B/d/-|
+V:2
+x2=A2|d2B2-|B2F2|B2=A2-|A2D2|
+V:3
+x2f2-|f2=e2|d2d2-|d2^c2|d2B2-|
+V:4
+[=A,=A]2dc|B2c2|d2B=A|G4|F4|
+V:1
+dc =A/c/f/g/-|gf D/F/B/d/-|dc {/c}B=A|G2D/G/=A/B/|=AA/B/ .c.d|
+V:2
+G2=A2|B2D2|G2^F2|G2x2|X|
+V:3
+B2c=A|d2B2-|B2c2|B2z2|z4|
+V:4
+E4|D4|E2D2|G2z2|z4|
+%116
+V:1
+BG ec|=BB/c/ dB|c/e/d/c/ _BG|^FF/G/ =Ac|cB [eg][ce]|
+V:2
+z2G,/C/D/E/|DD/E/ .F.G|ECD2-|D3^F|G2GG|
+V:3
+X5|
+V:4
+z4|z4|z2D/G/=A/B/|=AA/B/ .c.d|G2G,/C/D/E/|
+V:1
+_af/e/ d[Aa]|[Gg]2G/c/e/g/-|gf2e/d/|fe E/A/c/e/-|ed2c/=B/|dc C/E/A/c/-|
+V:2
+[_Ac]3[cd]|[=Bd]2G2|c2A2-|A2E2|A2G2-|G2C2|
+V:3
+X|x2e2-|e2d2|c2c2-|c2=B2|c2A2-|
+V:4
+DD/E/ F[F,F]|[G,DG]2c_B|A2B2|C2AG|F4|E4|
+V:1
+cB G/B/e/f/-|fe C/E/A/c/-|cB {/B}AG|A2C/F/G/A/|GF B,/_D/F/G/|
+V:2
+F2G2|A2C2|F2_D2|C2C2-|C2B,2|
+V:3
+A2BG|c2A2-|A2B2|A4-|A2G2-|
+V:4
+_D4|C4|_D2=E2|F2F_E|=D2_D2|
+V:1
+FE A,/C/E/F/|E_D/E/ FA|B>A A/_d/A/B/|BA A/_d/A/B/|c>A F/G/A/c/|
+V:2
+B,2A,2-|A,4|_D4-|D4|C4|
+V:3
+G2F2-|F4-|F4-|F4|X|
+V:4
+C4|B,4|A,4-|A,4|[A,=DF]4-|
+V:1
+cA F/G/A/c/|cG C/=E/G/=A/|=AG =E/G/c/d/|dc G/c/=e/f/|f=e c/e/g/=a/|
+V:2
+C4-|C2z2|X3|
+V:3
+X5|
+V:4
+[A,DF]4|[G,C=EG]4-|[G,CEG]4-|[G,CEG]4-|[G,CEG]4-|
+V:1
+g/c'/g/=a/ g/=e/c/d/|=e/c/G/=A/ G/=E/C/D/|\
+	=E/C/G,/=A,/ G,/=E,/C,/D,/|=E,/C,/G,,/=A,,/G,,2-|G,,2x2||[M:C]
+V:2
+X5||[M:C]
+V:3
+X5||[M:C]
+V:4
+[G,C=EG]zz2|Z3|x2G,=A,||[M:C]
+%117
+V:1
+%%writefields Q 1
+Q:"Lento molto"
+%%writefields Q 0
+Q:1/4=40
+L:1/4
+z2[^F=A]2|[G_B]2dc-|cB3-|B>Bdc-|cB2=c-|cB2B-|
+V:2
+L:1/4
+z2^D2-|_E2-[E^F]2|[D=F]2[CE][DF]|[EG]2[E=A]2|[D_A]2[^CG]2|[D_A]2[^C=E]2|
+V:3
+L:1/4
+x4|z_B=A2|_A4|G2^F2|=F2=E2|F2G2|
+V:4
+L:1/4
+H=B,2-B,2|_B,4-|B,4-|B,4-|B,4-|B,4-|
+V:1
+HBB/z/zB,/E/||[M:2/4][L:1/8]\
+%%writefields Q 1
+Q:"Andante"
+%%writefields Q 0
+Q:1/4=60
+	DFEB|cBeB|AB/c/ BA|G2BG|FG/A/ BG|
+V:2
+[DF]-[DF]/z/x2||[M:2/4][L:1/8]z2E2|D2E2-|ECD2|E2E2|D2E2-|
+V:3
+A-A/z/zG||[M:2/4][L:1/8]A2B2-|B4|cAGF|EFGB-|B3B|
+V:4
+B,-B,/z/zE||[M:2/4][L:1/8]F2G2|A2G2|F2B,2|E2E2|A2G2|
+V:1
+Fedf-|fed>c|B2B,E|DE/F/ EB|cBeB|AB/c/ BA|G2Ge|
+V:2
+EF3|G2=A2|B2x2|x2E2|D2E2-|ECD2-|D2E2|
+V:3
+c2d2-|dcfe|d2G2|A2B2-|B3B|cAGF-|FG2c-|
+V:4
+=A2BD|E2F2|B2E2|F2G2|A2G2|F2B,2|=B,2C2|
+V:1
+d>cBA-|AG Bg|f>edc-|c=B Ba-|ae_dc|Bc/_d/ ec|
+V:2
+A2F2|E2G2|c2BF-|F2A2-|A4|G2A2|
+V:3
+cedc-|cB Be-|egfd-|d2d=B|c>efe|_d2ce|
+V:4
+F2B,2|E2E2A4|G2F2|E4-|E4-|
+V:1
+Bc/_d/ eG|FG/A/ BD|CD/E/ FF/G/|A2G2|F4|E2E2-|
+V:2
+G2AE|=D2Ez|z4|zB,2C-|C3D|x2G,B,|
+V:3
+_d2cB-|B2-BA|G2FE-|EDE2-|EF/G/A2|G2x2|
+V:4
+E4|A2GF|E2DE|F,2G,A,|B,4|E2E,G,|
+V:1
+E4-|E2GF|EEGF-|F2E2-|E2E2-|E4-|E2z2|]
+V:2
+A,CB,_D|C2=B,2|C2=B,2|C4|_C4|B,4-|B,2z2|]
+V:3
+X|zE=D2|E2D2|E4|F4|G4-|G2z2|]
+V:4
+F,A,G,B,|A,4-|A,4-|A,4-|A,4|E,4-|E,2z2|]
+
+X:121
+T:Communion
+C:Louis Vierne (1870 - 1937)
+M:C
+L:1/8
+Q:"Andante" 1/4=92
+%%incipit %G-2$xF@c ''4BA+{8AGFE}/4GF+{8FEFG}/{CD}4C{8-EFG}/
+%%staves {(1 2)(3 4)}
+K:G
+V:1
+z8|b2a2-agfe|g2f2-fefg|
+V:2
+X2|c4B4|
+V:3 shift=cC
+d4-d4-|d8-|d8-|
+V:4 shift=cC
+d4^c4|=c3DB3D|A3DG3D|
+V:1
+cdc2zefg|ded2zefg|b2a2-agfe|
+V:2
+A4G4|A4B4|zdefd3^c-|
+V:3
+d8-|d8-|d8-|
+V:4
+F3DE3D|F3DG3D|c3DB3D|
+V:1
+g2f2-fefg|a2c2-cB^A=A-|AFG2-G^d ef/e/|
+V:2
+c=ced cB-B_B|A6F2|E4-EG-G2-|
+V:3
+d8-|d^de[I:staff -1]gf2[I:staff +1]B2-|B4_B4|
+V:4
+A3DG3D|F3E^D4|E3D^C4|
+V:1
+ABc4BA|G2z2z4|
+V:2
+G2EGF4|x8|
+V:3
+A4-A[I:staff -1]e[I:staff +1]dc|[GB]2z2z4|
+V:4
+D8|zDEF DB,CD|
+
+X:124
+T:Offertoire
+C:H. Letocart
+M:C
+L:1/4
+Q:"Andantino"
+%%incipit %G-2$bBEA@3/4 ''4.G8G{FEFG}/1C+/4CA{8GFEF}/
+%%staves {(1 2)(3 4)}
+K:Eb
+V:1
+%%writefields Q 0
+Q:1/4=80
+g>g f/e/f/g/|c4-|cag/f/e/f/|
+V:2
+G4-|GB2A/G/|A4|
+V:3 shift=cC
+B2=B2|c4-|c2x2|
+V:4 shift=cC
+E4-|E2=E2|F2[Bd]2|
+V:1
+ge/c/e2|BB3/A/B/c/|B/f/d/c/ B/F/G/A/|
+V:2
+GAG2|F2E2|Fzz2|
+V:3
+ecB2|B4-|Bzz2|
+V:4
+E4|D2C2|Dzz2|
+V:1
+BB3/A/B/c/|[DG]zx2|z2zF|F3^F|
+V:2
+F2E2|x2=B,/C/D/F/|E4-|ECDz|
+V:3
+B2cE|G/^F/G/=A/x2|X2|
+V:4
+D2C2|=B,zz2|zG[C=A]2|[B,B]3z|
+V:1
+z2z=A|=A3A|BdcB|A/B/c2A-|
+V:2
+G4-|G=E^Fz|X2|
+V:3
+X2|d2=e2|f2e2|
+V:4
+zB[Ec]2|[Dd]3z|G4|F4|
+V:1
+AcBA|g>g f/e/f/g/|c4-|cag/f/e/f/|
+V:2
+X|G4-|GB2A/G/|A4|
+V:3
+d2cd|B2=B2|c4-|c2x2|
+V:4
+B4|E4-|E2=E2|F2[Bd]2|
+%125
+V:1
+ge/c/e2|BB3/A/B/c/|[DG]zx2|GG3/F/G/A/|
+V:2
+GAG2|F2E2|x2=B,/C/D/F/|ED/_D/Cz|
+V:3
+ecB2|B2cE|G/^F/G/=A/x2|G>=EFz|
+V:4
+E4|D2C2|=B,zx2|C=B,/_B,/A,z|
+V:1
+C[DG]E2|
+V:2
+x4|
+V:3
+A2G2|
+V:4
+B,2E2|
+
+X:129
+T:Choral
+C:H. Letocart
+M:3/4
+L:1/4
+Q:"Andante sostenuto e legato"
+%%incipit %G-2$xFCGD@3/4 '4BGA/B''C'B+/B{8AG}4A/A2G/4B''CD/
+%%staves {(1 2)(3 4)}
+% %maxshrink .9
+K:E
+V:1
+%%writefields Q 0
+Q:1/4=60
+BGA|BcB-|BA/G/A|AG2|Bcd|
+V:2
+GEF|GF2|E2D|E3|F3|
+V:3 shift=cC
+ed[ce]|e2d|BcB|B3|B2F|
+V:4 shift=cC
+X|BA2|GF2|E3|D3|
+V:1
+e2d-|dc/B/c|B3|eB^B|c3|
+V:2
+EF2|GE2-|ECD|E3-|EAG|
+V:3
+G^AB|B2^A|B3|B2=d|c3|
+V:4
+C2D|EGF|B,3|G2E|A3|
+V:1
+fec-|cBd|eBG-|GFA|GDE/F/|
+V:2
+F3-|F2x|E3-|E2D-|D2E|
+V:3
+c2e|d2B-|Bc=d|c3|^B2c/^A/|
+V:4
+^A3|=A3|G2E|A2F|G3-|
+V:1
+Gzz|BGA|BcB-|BA/G/A-|AGz|
+V:2
+Dzz|[EG]E[EF]|[EG][EF][DF]|E2^D|[B,E]2z|
+V:3
+^Bx2|X2|BcB|X|
+V:4
+G=GF|EDC|B,A,A|GFB,|E2=D|
+V:1
+GeF-|FcB|AGF|EFG-|GFE|G3|]
+V:2
+E3|D2=D|C2[A,D]|A,3-|A,3|G,3|]
+V:3
+B2^A|=A2^E|FBx|C3|=C3|B,3|]
+V:4
+C3|B,3-|B,3|E,3-|E,3-|E,3|]
+
+X:135
+T:Deux pièces brèves
+T:II Communion
+C:Ch. Tournemire
+M:C
+L:1/8
+Q:"Lentement"
+%%incipit %G-2$xF@3/4 '4B/ABEG/{8FG}2E4B/{''8D'B}''4xC+{8CC'A''C}/
+%%staves {(1 2)(3 4)}
+% %maxshrink .9
+K:Em
+V:1
+%%writefields Q 0
+Q:1/4=60
+B2|A2B2E2G2|FGE4B2|dB^c2-ccAc|B6B2|
+V:2
+x2|x8|C4E4-|E4-E4-|E8|
+V:3 shift=cC
+z2|B4-B4|X|[A,A-]4[^CA-]4|A4G4|
+V:4 shift=cC
+z2|[EG-]4[DG-]4|[CG-]4[B,G]4|X|E4-E4|
+V:1
+A2B2E2G2-|GA=F4c2|ecd2-ddBd|c4-c2d2|=fde2-eece|
+V:2
+z2B,2C4-|C4=F4-|F8-|F2E2=F4-|F4-F4|
+V:3
+z2[DG-]2[CG]2E2|[=FA-]4[EA-]4|A4B2dB|A8|^G4A4|
+V:4
+X2|D4-D4-|D2C2D4-|D8|
+V:1
+d4-d2e2|gef2-ff^df|gaf2-ff^df|b4-[gb]2!tie)!B2|A2B2E2G2|
+V:2
+^G2^^F2G2AB|c8-|c2^c2F2^d2-|d2efx2[B,E]2-|[B,E]6D2-|
+V:3
+B6c2-|c2-cde2[I:staff -1]a2|e4^d2b2-b4-!tie(!b2x2|[I:staff +1]x4G2x2|
+V:4
+=F2E2^E2^FG|A8-|A2^A2B2B,2|A,2B,2E,2G,2|F,G,E,4B,2|
+V:1
+FGx4B2|dB^c2-ccAc|BBGB AA=FA|BBGB A-A=FA|
+V:2
+D2E6-|E8|F2E2=F4|^F2E2=Fzz2|
+V:3
+x2A6-|A8|X|B4x4|
+V:4
+DB,^C2=C2B,2|A,4^C4|[^DF]2[EB]2[Ac]4|^D2E2[A-c]A=FA|
+V:1
+GAc2=F2A2|ABG2-GAF2-|F2^F4^G2|F4-F4|E8-|HE8|]
+V:2
+z4z2D2|E4C4|^C4B,4|X3|]
+V:3
+GAc2=F2-F2|[CE-]4[A,E-]4|E8|[^CE-A]8|[E^G]8-|[EG]8|]
+V:4
+z4z2B,2|X|^A,4B,4|z4E,4-|[E,B,]8-|[E,B,]8|]
+
+X:139
+T:Prélude
+C:Hedwige Chrétien
+M:12/8
+L:1/8
+Q:"Andante"
+%%incipit %G-2$xF@12/8 4-{8-'xABE}{AB''E}4D8C/4-{8-'EFG}4A8F4G8E/
+%%staves {(1 2)(3 4)}
+%%maxshrink .9
+K:Em
+V:1
+%%writefields Q 0
+Q:1/4=60
+z2z^ABE ABed2c|B12-|
+V:2
+x12|z2zEFGA2FG2E|
+V:3 shift=cC
+z2z^ABE ABed2c|B12-|
+V:4 shift=cC
+x12|z2zGFE^D3E2G|
+V:1
+HB3^ABE ABeg2f|c12-|Hc3c=deg2ed2c|
+V:2
+[^DF]3x3x6|z2zE=FGA2FG2E|[^D^F]3G6-G3-|
+V:3
+B3^ABE ABeg2f|c12-|c3e3-e2cd2^d|
+V:4
+x12|z2z_BAG=F2AB2G|A3^A6-A3-|
+V:1
+g3c3d3e3|G6[GB]2[FA][GB]2[FA]|G6G3B2A-|
+V:2
+G12|E6C6|B,6CB,2C3|
+V:3
+e6=d3c3|X2|
+V:4
+^A12|B3^ABE^D6|E3^DEB, ^A,B,E,^D,3|
+V:1
+AGF^D2E=F6|E6-E3^D3|E6^A,B,EG2E|G3F3G3A3|
+V:2
+B,6C6|^C6B,6|[G,B,]3z2zx6|[A,^D]12|
+V:3
+X|G6^F6|!tie)!B,3^A,B,E CB,A,B,3|C12|
+V:4
+E,2F,G,3A,6|^A,6!tie(!B,6|E,12-|E,12|
+V:1
+B,12|X|G12|^A12-|
+V:2
+A,3x3x6|D6=B,3C3|_B,12|E6^D3E3|
+V:3
+x3GFE^D2EF2G|E12|D6=B,3C3|^F,6-F,3C3|
+V:4
+[E,B,]12|[C,-_B,]12|C,12-|C,12|
+%140
+V:1
+A2B^d2ef2g fe=d|B12|G6=F3A3|GA=F_E2CG,3A,3|
+V:2
+G12-|G12|[A,^D]12|X|
+V:3
+B,6-B,3^A,3|B,2^C^D2EF2E DEB,|C12-|C12|
+V:4
+E,12-|E,12|=F,12-|F,12|
+V:1
+z6z2z[GB]2z|[GB]12-|[GB]zz^d2ef3g3|]
+V:2
+^D12-|DEB,F2G^D3-DEB,|FGB-B3-H[Bb]6|]
+V:3
+X3|]
+V:4
+z6z2z[B,A]2z|[E,B,]12-|[E,B,]12|]
+
+X:140
+T:Recueillement
+C:Hedwige Chrétien
+M:3/4
+L:1/8
+Q:"Adagio"
+%%incipit %G-2$bBEA@3/4 '2.E+/{8EDCDE6DC}/2.E/{8DE}2F/{8GFGAB''6CD}/
+%%staves {(1 2)(3 4)}
+% %maxshrink .9
+K:Cm
+V:1
+%%writefields Q 0
+Q:1/4=50
+z6|z6|Hz6||E6-|
+V:2
+z6|z6|z6||G,A, B,A, G,A,/B,/|
+V:3 shift=cC
+G2A4|B2A3G|HG6||C6-|
+V:4 shift=cC
+X3||C,2z2z2|
+V:1
+EDCDED/C/|E6|DEF4|GFGABc/d/|
+V:2
+A,6|G,A, B,A, G,A,/B,/|A,2CD ED/C/|DCD4|
+V:3
+C6|C6-|C4-CD/E/|A4GF|
+V:4
+F,6|A,2z2z2|F,2A,4|B,6-|
+V:1
+cBdeAG|GF2G/A/ GF|D2A3G|^F6|
+V:2
+E4DE|C6-|C=B,2C/D/ CB,|C6|
+V:3
+G2AGFE|E2D2EF|G2F2ED-|DE2=F ED|
+V:4
+B,4=B,C|A,6|G,6|A,6|
+%141
+V:1
+G6-|G^FGAG=F|E6|EDCDED/C/|
+V:2
+C=B,=A,B,CB,/A,/|=B,6|G,A, B,A, G,A,/B,/|A,6|
+V:3
+D6-|D6|C6-|C6-|
+V:4
+G,6-|G,6|C,2z2C,2|F,6|
+V:1
+E6|EDF4|GF_c4|B=A=cBdc|
+V:2
+G,A,B,A,G,A,/B,/|A,2CDED/C/|DC DE FG/A/|E6-|
+V:3
+C6-|C4-CD/E/|A4-AG/F/|G4_G2|
+V:4
+C,2z2C,2|D,2A,4|B,6-|B,6-|
+V:1
+A6|G6-|G6|.[EG]2.[DF]2.[CE]2|
+V:2
+EDCDED/C/|D2C2=B,2|DC=B,CDE|A,6|
+V:3
+F6-|F6|G6|X|
+V:4
+B,6|=B,2C2D2|E4DC|F,4^F2|
+V:1
+[=B,E]6-|[B,E]6|C6-|.!-!C2.!-!D2.!-!C2|
+V:2
+X4|
+V:3
+G^FGA_BA|G2^F2=F2|[EA]6-|[EA]6-|
+V:4
+G,6-|G,6-|G,2A,2G,2|_G,6-|
+V:1
+.!-!B,2.!-!C2.!-!A,2[A,C]6|=B,6|[_A,=B,]6|H[G,C]6|]
+V:2
+X2|G,2[I:staff +1].!-!^F,2.!-!=F,2|[I:staff -1]X2|]
+V:3
+[EA]6|D2E4-|E4D2|[DF]6|E6|]
+V:4
+G,6|F,6|G,6|[C,G,]6-|[C,G,]6|]

@@ -1,0 +1,24 @@
+X:107
+T:I. Allegro assai
+C:Almeida, Francisco A. de (c.1702-?1755)
+M:2/4
+L:1/4
+K:F
+V: 7 clef=alto name="Violetta" sname="Va"
+%%MIDI program 1 41
+%%staves [ 7 ]
+%----------
+[Q:"Allegro assai"] z |CC|Cz|CG|Cz|cc|cz|CC|Dz|DG|Gz|cc|cc|cc|cz|cz|Gz|Gz|GG|GG|\
+G3/2z//C//|GF|Ez|CG|Cz|CG|Cz|FC|Fz|FC|Fz| \
+Ac|Fz|GB|Ez|FA|Dz|EG|AG|FF|FF|FF|\
+Fz|Fz|cz|cG|FG/E/|C/F/G/E/|C3/2z//D//|CC|A,z|DA,| \
+Dz|DA,|Dz|B,F|B,z|B,F|B,z|GD|Gz|GD| \
+Gz|CG,|Cz|CG,|CG|Cz|DF|=B,z|CE|A,z|=B,D| \
+G,z|Dz|DD|DA|DG-|GG|Cc|FF|FB|_EE|DD|Dz|DD|CC|DD|B,z|BA|Gz|DA|Dz|CC|Cz|CG|Cz|cc|cz|CC|Dz|DG| \
+Gz|cc|cc|cz|cz|AD|Gz|GG|GG|GG|GG|Gz|GG|C/>C/C/>C/| Cz| \
+z/F/D/B,/| A,/F,/B/B,/ | F,/F/D/B,/ | A,F,|B,z| z/G/E/C/ | =B,/G,/c/C/|G,/G/E/C/|=B,G,|Cz| z/A/F/D/ | "^??"_C/A,/d/D/ | A,/A/F/D/ | \
+^CA,|Dz| z/G/E/C/ | ^B,/G,/c/C/|G,/G/E/C/|^B,/G,/B,/G,/|Cz| z/2c/2A/2F/2 | E/2C/2F/2F,/2|C/2c/2A/2F/2 |E/C/E/C/|Fz| \
+AA|Dz|GG|Gz|cz|Ez|GG|Fz|FF|FF|F3/2z//D//|CC|C3/2z//D//|CE|Cz || \
+[M:C] "_staccato"_A/>A/A/>A/ A3/2z// A// | G/>G/G/>G/ C3/2z// C// | D/>D/D/>D/ A3/2z// A// | =B/>B/B/>B/ c3/2z// G// | F/>F/F/>F/ F3/2z// F// | \
+D/>D/D/>D/ CD|CDC!fermata!z |] \
+%----------

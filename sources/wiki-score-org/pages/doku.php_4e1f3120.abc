@@ -1,0 +1,38 @@
+X:312
+T:Virtu
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:F
+V: 12 clef=alto name="Virtu" sname="Vi."
+%%MIDI program 1 1
+%%staves [ 12 ]
+%-----------------------------------------------------------------------------------------------
+[L:1/8] [Q:"Andante"] "_NB: text to be reviewed" z2 | z8| z7z/c/ | A A z F A2 A B | B B/ F/ _A G G2G2 | z G G _A F F2 G | =E E z2 F2  A c|\
+w: Fer-ma-te o Don-ne au-gus-te io son Vir-tu-de che ab-ban-do-nata e vi-le la del-le
+_E2 E2 C D _E E/ D/ | D2D2z2zF | B B B G =E2E2 |GG2 G B2BB | B B A G ^F F  \
+w: sel-ve ne piu seu-ri(?) or-ro-ri gran tem-po'er-rai pian-gen-do l'as-pra e du-ra-- a-cerba mia sven-tu-ra
+D D/ D/ | A A A> c ^F2 A A/ B/ | G2G2 zD G> _A | _AA2G_E2E2| \
+w: e de   mor-ta-li il de-sir fol-le e cie-co cui sol vil o-zio im bel-le
+z"^[flat missing in mss]"_E E D =B, B, z D | G G _A  F/ _E/ C C z2| z8 | \
+w: e bas-so affe-cto in gom-bra il mol-le pet-to
+z3_E _A2 A c | =A2 A2 A> B _E D | D2 D2 F> F B B/ A/ | B2 B F/ G/ =E E z ^C | E E E F G2 B B/ A/ | F F \
+w: ai sor-te in-gius-ta rio des-tin cru: de-le or che si grand-- Eroe ve-gna sul Ta-go gl'an-ti-chi a-ran-vi-var miei pre-gi'il-lustri(??)
+zD ^F> G A A | A> c _E E/ D/ D D G G | B2 G _E ^C C G G/ F/ | D2z6 ||  \
+w: La-sciai le sel-ve e qua venni an-cor io mos-sa da dol-ce spe-me e da--de-sio (?)
+[M:3/8][Q:"Afettuoso"] Z30| AB ^C| {^C}D2A, | {EF}G F E | (3A/G/F/{E}D2 | F F3/2G//A// | G G3/2A//B// | A A>=B | cC2 | _AA2|(3A/G/F/ F2 | =B B B | cC _B-|B A G | c/<A/G F | dF E | {E}F2B| (3A/G/F/ G2| F2z| \
+w: La-- nei bos-chi, e nel-le sel---ve di so---spir cin---ta e d'af-fan-no Sor-te ria---* des-tin ti-ran-no a--per--tar--- mi con--dan-no mi con---dan-no
+Z13 | \
+cd E | {E}F2C | B A/<G/ F/<E/ | (3A/G/F/ {E}D2 | D !trill!D3/2E//F// | E E3/2F//G// | F F>^G  | {^G}A2A, | z3 | \
+w: La-- nei bos-chi e nel--le-- sel---ve di so---spir cin--ta e d'af--fan-no
+BB2 | A/^G/ {G}A2 | G F E | F/<D/ F2 | A/<^F/ A2 | cB,A | B/ (B/A2) | B G F | E/<C/E2 | G/<E/G2 | BCG | A/ (G/ F2)  | \
+w: Sor-te ria--* des-tin ti-ran-----------no des-tin ti-ran-----------no
+c_D2 | (3E/D/^C/ D2 | d F F | (3F/=E/D/ EG-|GFE |(3A/G/F/ ED |(3A/G/F/ ED | (3A/G/F/ D^G | {^G}!fermata!A2B | (3F/E/D/ !trill!E2 | D2z | Z9 | z2 || z | \
+w: a pe-nar---- mi con-dan-no------------------------ mi con---dan-no
+zD E | F/>E/D A- | A G F | (3E/D/C/ C2 | CE G |CE G | B A/<G/ F/<E/ | (3F/E/D/ D2 | \
+w: Or con voi--* com--pa-gne ca---re do--po mil-le af-fan-ni-* e-* mil---le
+D^F A | D^F A | c B A | B/^F/ {F}G2 | \
+w: lie--ti gior--ni au-re tran-quil--le
+z B A | ^GA F | E !trill!^G>A | E!trill!A>=B | E=B>c | !fermata!D2F | E3- | E/c/ {A}^G2 | A2z |]
+w: a-go-der-* ri-tor-ne--ro------* ri-tor---ne-ro.
+% -- end of V12

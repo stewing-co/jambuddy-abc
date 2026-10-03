@@ -1,0 +1,90 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Rigoletto-Schottisch.  FC (st06619) ABCDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.262 (st06619) orig. F,C
+T: Repertoire der "Dorfmusig Aesch". S.255-269
+T:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+%%partsbox
+P:ABCDC
+R:Schottisch
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A] "F".c(c/d/) "C7"cB | "F"AFA2 | .A(A/B/) "C7"AG | "F"FCF2 | "C7"Gc Gc | "F"Adc2 | "E7"e>f ed | "Am".c=BA2 | "C7".c(c/d/) cB | "F"AFA2 | 
+.A(A/B/) "C7"AG |  "F"FCF2 | "C7"G>A BG | "F"ABc2 | "C7"c>c de | "F"ff fz :: [P:B] [K:C] "C"GG G/A/G | GAG2 | EG ce | "G7"fed2 | 
+GG G/A/G | GAB2 | Bc dc | BAG2 | "C"GG G/A/G | GAG2 | EG ce | "F"dcA2 | "G7"fG fG | "C"eG eG | 
+"G7"dG BG | "C"cc cz :: [P:C] [K:F] ("F"A3c) | (dc BA) | (A3c) | "C7"G2z2 | (G3A) | .B(c/B/) AG | ("F"F3G) | A2z2 | 
+(A3B) | (dc BA) | ("Bb"G3B) | d2z2 | "C7"d>d ed | "F"cAc2 | "C7"BG .B(c/d/) | "F"edc2 | "C7"d>d ed | "F"cAc2 | 
+{/^c}"Gm"dG {/A}"C7"BE | "F"FF F"_Fine"z :: [P:D]  "Am"c3 (c/d/) | c3 c/d/ | "E7"ee dd | "Am"c=BA2 | c3 (c/d/) | c3 (c/d/) | "E7"ee dd |  "Am".c2"_>Teil C"!>!"C7"B2 :| 
+W:
+W: Anmerkung H.C.: Cornet in B (=Bb), Zunzgen 10, Ormalingen 7, s.V. 736
+% st06619
+% May 7, 2017
+
+
+X:2
+T:Rigoletto-Schottisch.  FC (st06619) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.262 (st06619) orig. F,C
+S: Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F".c(c/d/) "C7"cB | "F"AFA2 | .A(A/B/) "C7"AG | "F"FCF2 | "C7"Gc Gc | "F"Adc2 | "E7"e>f ed | "Am".c=BA2 | "C7".c(c/d/) cB | "F"AFA2 | 
+.A(A/B/) "C7"AG |  "F"FCF2 | "C7"G>A BG | "F"ABc2 | "C7"c>c de | "F"ff fz :: [K:C] "C"GG G/A/G | GAG2 | EG ce | "G7"fed2 | 
+GG G/A/G | GAB2 | Bc dc | BAG2 | "C"GG G/A/G | GAG2 | EG ce | "F"dcA2 | "G7"fG fG | "C"eG eG | 
+"G7"dG BG | "C"cc c"_Fine"z :: [K:F] ("F"A3c) | (dc BA) | (A3c) | "C7"G2z2 | (G3A) | .B(c/B/) AG | ("F"F3G) | A2z2 | 
+(A3B) | (dc BA) | ("Bb"G3B) | d2z2 | "C7"d>d ed | "F"cAc2 | "C7"BG .B(c/d/) | "F"edc2 | "C7"d>d ed | "F"cAc2 | 
+{/^c}"Gm"dG {/A}"C7"BE | "F"FF Fz :: "Am"c3 (c/d/) | c3 c/d/ | "E7"ee dd | "Am"c=BA2 | c3 (c/d/) | c3 (c/d/) | "E7"ee dd |  "Am".c2"_>Teil C"!>!"C7"B2 :| 
+W:Parts: ABCDC
+%W: Anmerkung H.C.: Cornet in B (i.e. Bb), Zunzgen 10, Ormalingen 7, s.V. 736
+% st06619
+% May 7, 2017
+
+X:3
+T:Rigoletto-Schottisch.  CG 5- (st06619) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.262 (st06619) orig. F,C
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C".G(G/2A/2) "G7"GF | "C"ECE2 | .E(E/2F/2) "G7"ED | "C"CG,C2 | "G7"DG DG | "C"EAG2 | "B7"B>c BA | "Em".G^FE2 | "G7".G(G/2A/2) GF | "C"ECE2 | 
+.E(E/2F/2) "G7"ED | "C"CG,C2 | "G7"D>E FD | "C"EFG2 | "G7"G>G AB | "C"cc cz :: [K:G] "G"DD D/2E/2D | DED2 | B,D GB | "D7"cBA2 | 
+DD D/2E/2D | DEF2 | FG AG | FED2 | "G"DD D/2E/2D | DED2 | B,D GB | "C"AGE2 | "D7"cD cD | "G"BD BD | 
+"D7"AD FD | "G"GG G"_Fine"z :: [K:C] ("C"E3G) | (AG FE) | (E3G) | "G7"D2z2 | (D3E) | .F(G/2F/2) ED | ("C"C3D) | E2z2 | 
+(E3F) | (AG FE) | ("F"D3F) | A2z2 | "G7"A>A BA | "C"GEG2 | "G7"FD .F(G/2A/2) | "C"BAG2 | "G7"A>A BA | "C"GEG2 | 
+{/^G}"Dm"AD {/E}"G7"FB, | "C"CC Cz :: "Em"G3 (G/2A/2) | G3 G/2A/2 | "B7"BB AA | "Em"G^FE2 | G3 (G/2A/2) | G3 (G/2A/2) | "B7"BB AA | "Em".G2"_>Teil C"!>!"G7"F2 :| 
+W:Parts: ABCDC
+%W: Anmerkung H.C.: Cornet in B (i.e. Bb), Zunzgen 10, Ormalingen 7, s.V. 736
+% st06619
+% May 7, 2017
+
+X:4
+T:Rigoletto-Schottisch.  CG 7+ (st06619) 
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.262 (st06619) orig. F,C
+S:Repertoire der "Dorfmusig Aesch". S.255-269
+S:Überliefert durch Eduard Häring, Aesch.
+%%MIDI program 21
+R:Schottisch
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C".g(g/2a/2) "G7"gf | "C"ece2 | .e(e/2f/2) "G7"ed | "C"cGc2 | "G7"dg dg | "C"eag2 | "B7"b>c' ba | "Em".g^fe2 | "G7".g(g/2a/2) gf | "C"ece2 | 
+.e(e/2f/2) "G7"ed | "C"cGc2 | "G7"d>e fd | "C"efg2 | "G7"g>g ab | "C"c'c' c'z :: [K:G] "G"dd d/2e/2d | ded2 | Bd gb | "D7"c'ba2 | 
+dd d/2e/2d | def2 | fg ag | fed2 | "G"dd d/2e/2d | ded2 | Bd gb | "C"age2 | "D7"c'd c'd | "G"bd bd | 
+"D7"ad fd | "G"gg g"_Fine"z :: [K:C] ("C"e3g) | (ag fe) | (e3g) | "G7"d2z2 | (d3e) | .f(g/2f/2) ed | ("C"c3d) | e2z2 | 
+(e3f) | (ag fe) | ("F"d3f) | a2z2 | "G7"a>a ba | "C"geg2 | "G7"fd .f(g/2a/2) | "C"bag2 | "G7"a>a ba | "C"geg2 | 
+{/^g}"Dm"ad {/e}"G7"fB | "C"cc cz :: "Em"g3 (g/2a/2) | g3 g/2a/2 | "B7"bb aa | "Em"g^fe2 | g3 (g/2a/2) | g3 (g/2a/2) | "B7"bb aa | "Em".g2"_>Teil C"!>!"G7"f2 :| 
+W:Parts: ABCDC
+%W: Anmerkung H.C.: Cornet in B (i.e. Bb), Zunzgen 10, Ormalingen 7, s.V. 736
+% st06619
+% May 7, 2017

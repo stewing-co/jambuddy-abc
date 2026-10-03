@@ -1,0 +1,16 @@
+X:201
+T:Andante
+C:Giuseppe Tartini (1692-1770)
+M:3/4
+L:1/4
+K:C
+V: 1 clef=treble name="Violino" sname="Vl."
+%%MIDI program 1 40
+%%staves  1
+%----- edit between the lines ----
+[Q:"Andante"] ecA | (f e/)z/ z & ^d e/x/ x | ecA | [Ee^g] [Eca] z | c'af | ([fB]/e/) e z & ^G x2 | bge | (e/d/) d z & ^F x2 | (a/f/e/d/^c/d/) | [Ed^g]3/2 (a//b//) a |
+[ac][ac][ac] & FE^D | [EBa]3/2 (^g//f// e) | [ec][eB][eAE] & AEA, | z x2 & E/(^G//B// e//^g//b//g// e//B//E/) | (A/c'/) (e/b/) (B/a/) | x2 f/>e/ & c/g/ A/g/ ^d/>e/  | !trill! e3- | e/(E//B// ^F//B//G//B// A//B//)E/ | e3- | e/E//B// ^F//B//G//B// A//B//E/ |
+(c'/b/)(b/a/)(a/g/) & Aec| (g/f/)(f/e/) f/>e/ & cA ^d/>e/| e3- | e/((c//e//) (B//e//)(^A//e//)  (B//e//)(A//e//)) | (B/e/) !trill! g3/2 (^f//e//) | e3 :|  b^ge | (f e/)z/ z & ^d e/x/ x | d' (c'/<b/) !trill! a/>^g/ | b/a/ a2 & dc2 | f [ce] z & [dD]A | \
+[EBe][A,EA]z | (F//A//^d//f//) (a//c'//a//f//) (d//A//F//^D//) | (A3/2^G//F// E) & E x2 |  !trill! e3- | e/(E//B// ^F//B//^G//B// A//B//E/) | a3- | a/(A//e// B//e//c//e// d//e//A/) | f [ce] [EBe] & [dD]A | [A,EeA] [EBe] z | \
+(D/f/) (A/e/) (E/d/) | (F/c/) (D/_B/) B/>A/ & x2 ^G/>A/ | A3- | A/(F//A// E//A//^D//A// E//A//^D//A//) | (E/A/) !trill! c3/2 (B//A//) | !fermata! A3 |]\
+%---------------------------------

@@ -1,0 +1,29 @@
+X:2020
+T:Cavatina
+C:Pugnani, Gaetano (1731-1798)
+M:2/4
+L:1/4
+K:Bb
+V: 20 clef=alto1 name="Euridice" sname="Eur."
+%%MIDI program 1 1
+%%staves [ 20 ]
+%--------------
+[L:1/16] Z10 | f6 (e/f/g/e/) | ^c2d2 z2 F2 | d4- df ec | Ac B2 z2 f3/2 B/ | \
+w: Do- ve _ _ _|sei _ mio|ca- * * ro a-|mo- * re per- che|
+B2 =A2 c{f} e2 c | B4 z2 c3/2 f/ | f2 !fermata!=e2 z"^ad lib." B A B |"^a tempo" c8 | c6 ec |
+w: fu- ggi oh * da|me per- che|fu- ggi oh Dio da|me|de- le ri-|
+Ac B2 z2 f>d |$ c2 c>d e>f g>f |{f} e2 d2 =ef gf | f>d f>d f>d f>c |{e} d4 =e>f g>f | \
+w: tor- * na, ri- *|tor- na a ques- * to _|_ re, che _ sos- *|pi- * ra _ sol _ per- *|* che _ sos- *|
+f>d B>c d>e c>d | B2 B/c/d/c/ B/c/d/e/ f/g/a/b/ | a2 z2 z4 | z2 B/c/d/c/ B/c/d/e/ f/g/a/b/ | \
+w: pi- * ra _ sol _ per- *|te _ _ _ _ _ _ _ _ _ _ _ _|_||
+a2 z2 z4 | B/c/d/e/ f/g/a/b/ a/g/f/g/ f/e/d/c/ | B/c/d/e/ f/g/a/b/ a/g/f/g/ f/e/d/c/ | \
+w: |||
+d/e/d/c/ d/B/e/c/ f/d/b/g/ f/d/b/g/ | f/d/b/g/ f/d/b/g/ f/d/b/g/ f/d/b/g/ | \
+w: ||
+f>d !fermata!f2 d3 d |$ d3 d e>d e>c | f2 f/g/f/e/ d2 d3/2 d/ | d3 d Pc>B c>d | B4 z2 d3/2 d/ | \
+w: * * * ah ri-|tor- na'a ques- * to _|_ cuo- * * * re che sos-|pi- ra sol _ per _|te ah ri-|
+d3 d e>d e>c | f2 f/g/f/e/ d2 d3/2 d/ | d3 d c>B c>d |$ Bbag (f=e) (_ec) | (Bbag) (f=e) (_ec) | \
+w: tor- na'a ques- * to _|cuo- * * * * re che sos-|pi- ra sol _ per- *|te _ _ _ sol _ per _|te _ _ _ sol _ per _|
+B4 z4 |]
+w: te.|]
+%--------------

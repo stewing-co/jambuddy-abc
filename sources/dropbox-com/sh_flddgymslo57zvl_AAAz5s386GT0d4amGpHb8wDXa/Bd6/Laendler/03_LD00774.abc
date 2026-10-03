@@ -1,0 +1,94 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walliser L\"andler  CG
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.276 (LD00774) orig. C,G-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:Laendler
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"ce eGc2 | "G7"Bd dGf2 | Gd dGB2 | "C"ce eGg2 | ce eGc2 | "G7"Bd dGf2 | 
+Bd dG AB |1 "C"c4z2 :|2 "C"c4d2 |: [K:G] "G"db bd g2 | "D7"da adc'2 | da adf2 | 
+"G"gb bdd'2 | db bdg2 | "D7"da ad c'2 |  da ad ef |1 "G"g4d2 :|2 "G"g4cd || [K:C] 
+|: "C"eG eG ce | "G7"dG dG de | fG fG df | "C"eG eG cd | eG eG ce | "G7"dG dG de | 
+fG fG Bd |1 "C"c2z2cd :|2 "C"c2z2 ga |: [K:G] "G"bd bd gb | "D7"ad ad ab | c'd c'd ac' | 
+"G"bd bd ga | bd bd gb | "D7"ad ad ab | c'a fd ef |1 "G"g2z2ga :|2 "G"g2z2z2 |]  
+X:2
+T:Walliser L\"andler  FC 7-
+%%MIDI program 21
+R:Laendler
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+"F"FA ACF2 | "C7"EG GCB2 | CG GCE2 | "F"FA ACc2 | FA ACF2 | "C7"EG GCB2 | 
+EG GC DE |1 "F"F4z2 :|2 "F"F4G2 |: [K:C] "C"Ge eG c2 | "G7"Gd dGf2 | Gd dGB2 | 
+"C"ce eGg2 | Ge eGc2 | "G7"Gd dG f2 | Gd dG AB |1 "C"c4G2 :|2 "C"c4FG || [K:F] 
+|: "F"AC AC FA | "C7"GC GC GA | BC BC GB | "F"AC AC FG | AC AC FA | "C7"GC GC GA | 
+BC BC EG |1 "F"F2z2FG :|2 "F"F2z2 cd |: [K:C] "C"eG eG ce | "G7"dG dG de | fG fG df | 
+"C"eG eG cd | eG eG ce | "G7"dG dG de | fd BG AB |1 "C"c2z2cd :|2 "C"c2z2z2 |] 
+% LD00774
+X:3
+T: Walliser L\"andler  CG (5letras transposed)
+%%MIDI program 21
+R:Laendler
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"ce eGc2 | "G7"Bd dGf2 | Gd dGB2 | "C"ce eGg2 | ce eGc2 | "G7"Bd dGf2 | 
+Bd dG AB |1 "C"c4z2 :|2 "C"c4d2 |: [K:G] "G"db bd g2 | "D7"da adc'2 | da adf2 | 
+"G"gb bdd'2 | db bdg2 | "D7"da ad c'2 |  da ad ef |1 "G"g4d2 :|2 "G"g4cd || [K:C] 
+|: "C"eG eG ce | "G7"dG dG de | fG fG df | "C"eG eG cd | eG eG ce | "G7"dG dG de | 
+fG fG Bd |1 "C"c2z2cd :|2 "C"c2z2 ga |: [K:G] "G"bd bd gb | "D7"ad ad ab | c'd c'd ac' | 
+"G"bd bd ga | bd bd gb | "D7"ad ad ab | c'a fd ef |1 "G"g2z2ga :|2 "G"g2z2z2 |]  
+% LD00774
+X:4
+T:Walliser L\"andler  FC (5letras transposed)
+%%MIDI program 21
+R:Laendler
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"FA ACF2 | "C7"EG GCB2 | CG GCE2 | "F"FA ACc2 | FA ACF2 | "C7"EG GCB2 | 
+EG GC DE |1 "F"F4z2 :|2 "F"F4G2 |: [K:C] "C"Ge eG c2 | "G7"Gd dGf2 | Gd dGB2 | 
+"C"ce eGg2 | Ge eGc2 | "G7"Gd dG f2 | Gd dG AB |1 "C"c4G2 :|2 "C"c4FG || [K:F] 
+|: "F"AC AC FA | "C7"GC GC GA | BC BC GB | "F"AC AC FG | AC AC FA | "C7"GC GC GA | 
+BC BC EG |1 "F"F2z2FG :|2 "F"F2z2 cd |: [K:C] "C"eG eG ce | "G7"dG dG de | fG fG df | 
+"C"eG eG cd | eG eG ce | "G7"dG dG de | fd BG AB |1 "C"c2z2cd :|2 "C"c2z2z2 |] 
+% LD00774
+X:5
+T:Walliser L\"andler G&D (tinwhistle in D)
+T:LD00774 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Laendler
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"GB BDG2 | "D7"FA ADc2 | DA ADF2 | "G"GB BDd2 | GB BDG2 | "D7"FA ADc2 | 
+FA AD EF |1 "G"G4z2 :|2 "G"G4A2 |: [K:D] "D"Af fA d2 | "A7"Ae eAg2 | Ae eAc2 | 
+"D"df fAa2 | Af fAd2 | "A7"Ae eA g2 | Ae eA Bc |1 "D"d4A2 :|2 "D"d4GA || [K:G] 
+|: "G"BD BD GB | "D7"AD AD AB | cD cD Ac | "G"BD BD GA | BD BD GB | "D7"AD AD AB | 
+cD cD FA |1 "G"G2z2GA :|2 "G"G2z2 de |: [K:D] "D"fA fA df | "A7"eA eA ef | gA gA eg | 
+"D"fA fA de | fA fA df | "A7"eA eA ef | ge cA Bc |1 "D"d2z2de :|2 "D"d2z2z2 |] 
+X:6
+T:Walliser L\"andler G&D (tinwhistle in D) solo
+T:LD00774 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Laendler
+M:3/4
+L:1/8
+K:G transpose=12
+GB BDG2 | FA AD"_c"c2 | DA ADF2 | GB BDd2 | GB BDG2 | FA AD"_c"c2 | 
+FA AD EF |1 G4z2 :|2 G4A2 |: [K:D] Af fA d2 | Ae eAg2 | Ae eAc2 | 
+df fAa2 | Af fAd2 | Ae eA g2 | Ae eA Bc |1 d4A2 :|2 d4GA || [K:G] 
+|: BD BD GB | AD AD AB | "_c"cD "_c"cD A"_c"c | BD BD GA | BD BD GB | AD AD AB | 
+"_c"cD cD FA |1 G2z2GA :|2 G2z2 de |: [K:D] fA fA df | eA eA ef | gA gA eg | 
+fA fA de | fA fA df | eA eA ef | ge cA Bc |1 d2z2de :|2 d2z2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 1, 2016

@@ -1,0 +1,15 @@
+X:208
+T:Alla Francese
+C:Davide Perez (1711-1778)
+M:3/8
+L:1/8
+K:F
+V: 8 clef=bass name="Basso" sname="B."
+%%MIDI program 1 43
+%%staves [8]
+%---------------
+"_fol.7" [Q:"Grave"]
+D,zz | F,G,A, | B,G,A, | B,F,G, | A,2A,, | D,2z | D,zz | F,G,A, | B,G,A, | B,F,G, | A,2A,, |D,2z | D,D,D, | D,E,F, | D,E,E,, | A,,2z | _E, z C, | C,B,,z | \
+"_fol.8" F, z D, | D,^C,z | ^C,C,D, | A,,2z | ^C,C,D, | A,,3 | D,zz | F,G,A, | B,G,A, | B,F,G, | A,2 A,, | D,2z | G,G,G, | G,A,B, | G,A,A,, | D,2z |  G,G,G, | G,A,B, | \
+"_fol.9" G,A,A,, | D,2!fermata!z || [M:C|] [L:1/4] A,,2-A,, A,,/D,/ | A,,2-A,, A,,/D,/ |  A,,2z2 |]
+%---------------

@@ -1,0 +1,67 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Garibaldi-Marsch  GDC
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Kerns. S.6-61. S.46 (mr08962) orig. G,D,C-Dur
+T: \"Uberliefert durch Josef P\"untener (1870-1950) und Isidor Bucher
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+((3d/e/f/) |: "G"gB BB | "D7"dc {/d}c/B/c | f>e f>e | "G"d2 B((3d/e/f/) | gB BB | "D7"dc {/d}c/B/c | f>e df |1 "G"g2z((3d/e/f/)  :|2 
+"G"g2fg || [K:D] "D"ab/a/ fg | a2 dd | "A7"cd/c/ BB | "D"A2 fg | ab/a/ fg | a2 dd | "A7"cB/c/ fe | "D"dd/d/ dd || [K:G]
+|: "G"d2 g>f | e2d2 | B2 e>d | "D7"d2c2 | AA/A/ AB | cA zd |1 f>e f>e | "G"d2B2 :|2 fg/f/ ed | "G"g2zg |: [K:C] "C"e3g | 
+e3g | ef/e/ de | ("G7"g2f)f | d3f | d3f |1 bb aa | "C"g2e2 :|2 bc'/b/ ab | "C"c'2z2 |] 
+W: Anmerkung H.C.: Baselbiet, Aargau, Zermatt
+% mr08962
+X:2
+T:Garibaldi-Marsch  CGF 7-
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+((3G/2A/2B/2) |: "C"cE EE | "G7"GF {/G}F/2E/2F | B>A B>A | "C"G2 E((3G/2A/2B/2) | cE EE | "G7"GF {/G}F/2E/2F | B>A GB |1 "C"c2z((3G/2A/2B/2) :|2 
+"C"c2Bc || [K:G] "G"de/2d/2 Bc | d2 GG | "D7"FG/2F/2 EE | "G"D2 Bc | de/2d/2 Bc | d2 GG | "D7"FE/2F/2 BA | "G"GG/2G/2 GG || [K:C]
+|: "C"G2 c>B | A2G2 | E2 A>G | "G7"G2F2 | DD/2D/2 DE | FD zG |1 B>A B>A | "C"G2E2 :|2 Bc/2B/2 AG | "C"c2zc |: [K:F] "F"A3c | 
+A3c | AB/2A/2 GA | ("C7"c2B)B | G3B | G3B |1 ee dd | "F"c2A2 :|2 ef/2e/2 de | "F"f2z2 |] 
+% mr08962
+X:3
+T:Garibaldi-Marsch  CGF (5letras transposed)
+%%MIDI program 21
+R:march
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+((3G/2A/2B/2) |: "C"cE EE | "G7"GF {/G}F/2E/2F | B>A B>A | "C"G2 E((3G/2A/2B/2) | cE EE | "G7"GF {/G}F/2E/2F | B>A GB |1 "C"c2z((3G/2A/2B/2) :|2 
+"C"c2Bc || [K:G] "G"de/2d/2 Bc | d2 GG | "D7"FG/2F/2 EE | "G"D2 Bc | de/2d/2 Bc | d2 GG | "D7"FE/2F/2 BA | "G"GG/2G/2 GG || [K:C]
+|: "C"G2 c>B | A2G2 | E2 A>G | "G7"G2F2 | DD/2D/2 DE | FD zG |1 B>A B>A | "C"G2E2 :|2 Bc/2B/2 AG | "C"c2zc |: [K:F] "F"A3c | 
+A3c | AB/2A/2 GA | ("C7"c2B)B | G3B | G3B |1 ee dd | "F"c2A2 :|2 ef/2e/2 de | "F"f2z2 |] 
+% mr08962
+X:4
+T:Garibaldi-Marsch DA&G (tinwhistle in D)
+T:mr08962 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:march
+M:2/4
+L:1/8
+K:D %%MIDI gchordon
+((3A/2B/2c/2) |: "D"dF FF | "A7"AG {/A}G/2F/2G | c>B c>B | "D"A2 F((3A/2B/2c/2) | dF FF | "A7"AG {/A}G/2F/2G | c>B Ac |1 "D"d2z((3A/2B/2c/2) :|2 
+"D"d2cd || [K:A] "A"ef/2e/2 cd | e2 AA | "E7"GA/2G/2 FF | "A"E2 cd | ef/2e/2 cd | e2 AA | "E7"GF/2G/2 cB | "A"AA/2A/2 AA || [K:D]
+|: "D"A2 d>c | B2A2 | F2 B>A | "A7"A2G2 | EE/2E/2 EF | GE zA |1 c>B c>B | "D"A2F2 :|2 cd/2c/2 BA | "D"d2zd |: [K:G] "G"B3d | 
+B3d | Bc/2B/2 AB | ("D7"d2c)c | A3c | A3c |1 ff ee | "G"d2B2 :|2 fg/2f/2 ef | "G"g2z2 |] 
+X:5
+T:Garibaldi-Marsch DA&G (tinwhistle in D)
+T:mr08962 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:march
+M:2/4
+L:1/8
+K:D transpose=12
+((3A/2B/2c/2) |: dF FF | AG {/A}G/2F/2G | c>B c>B | A2 F((3A/2B/2c/2) | dF FF | AG {/A}G/2F/2G | c>B Ac |1 d2z((3A/2B/2c/2) :|2 
+d2cd || [K:A] ef/2e/2 cd | e2 AA | "_#"GA/2G/2 FF | E2 cd | ef/2e/2 cd | e2 AA | "_#"GF/2G/2 cB | AA/2A/2 AA || [K:D]
+|: A2 d>c | B2A2 | F2 B>A | A2G2 | EE/2E/2 EF | GE zA |1 c>B c>B | A2F2 :|2 cd/2c/2 BA | d2zd |: [K:G] B3d | 
+B3d | B"_c"c/2B/2 AB | (d2"_c"c)c | A3"_c"c | A3"_c"c |1 ff ee | d2B2 :|2 fg/2f/2 ef | g2z2 |]
+% July 30, 2016

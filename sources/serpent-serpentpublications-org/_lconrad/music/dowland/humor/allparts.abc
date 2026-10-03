@@ -1,0 +1,228 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XXII. Humor say what mak'st thou heere
+T:Canto.
+C:John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:3/2
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:G mix
+B4 B2 A4 B2 c4 B2 A4 
+w:Hu- mor say what mak'st thou heere,
+w:O, I am as heavy as earth,
+w:Mirth~then is drownde in sor- rowes brim,
+A A | B6 d2 d2 c2 d4 z2 | %z2 z2 z2 z2 z2 z2 | z2 z2 z2 z2 z2 z2 z2 z2 z2 z2 z2 z2 |
+%%LY voices \property Score.skipBars = ##t R1.*6
+w:In the pre- sence of a Queene,
+w:Say then who is Hu- mor now.
+w:Oh, in sor- row all things sleepe,
+A2 A2 B2 c6 A2 B2 B2 A4 z2 | %z2 z2 z2 z2 z2 z2 z2 z2 z2
+w:Thou art a hea- vy lead- en moode,
+w:Why then tis I am drownde in woe,
+w:In hir pre- sence all things * smile,
+%%LY voices \property Score.skipBars = ##t R1.*3
+|: "Chorus:" B2 A2 B2 
+w:But ne- ver 
+M:C
+L:1/4
+c3/4 d// e2 A B B A2 
+w:Hu- * mor * yet was true, 
+z A d2 | z B d2 z   B d z | d z d z 
+w:but that but that but that that that 
+M:3/2
+L:1/4
+d d d |
+w:that that that 
+M:C
+L:1/4
+d B c > c B > B A > A |
+w:that which on- ly on- ly pleas- eth 
+M:3/2
+L:1/2
+G3 :|
+w:you.
+
+X:2
+T:XXII. Humor say what mak'st thou heere
+T:ALTO.
+C:John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:3/2
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef C on third line
+K:G mix 
+G4 G2 ^F4 G2 E4 D > E F4 F F G3 F E D D2 E2 G2 F4 G G G4 E4 E3 D ^C4 D D D G2 F E D
+w:Hu- mor: * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+D4 ^C2 D6 ^F2 F2 G2 A6 E2 E3 D ^C4 D D D4 G2 G2 A3 G ^F6
+w:* * * * * * * * * * * * * * * * * * *
+|:G2 ^F2 G2
+w:But ne- ver 
+M:C|
+L:1/4
+G2 A2 A ^G A 
+w:Hu- mor yet was true, 
+E ^F2 z ^F G2 z A G2 z A z Bz A
+w:but that but that but that that that  that
+M:3/2
+L:1/4
+G D D 
+w:that that that 
+M:C
+L:1/4
+D D C/ C/ G, > G, G,2 ^F, 
+w:that which on- ly one- ly pleas- eth 
+M:3/2
+L:1/4
+G,6 :|
+w:you.
+
+
+X:3
+T:XXII. Humor say what mak'st thou heere
+T:Quinto. (1)
+C:John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:3/2
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:(1) This part is untexted in the original, but it looks like that may have been because there wasn't room on the page for the text, and the singer or viol player was expected to sing the words of the Basso part.
+K:G mix
+%%LY voices \property Score.skipBars = ##t R1.*6 
+z2 z2 d d e6 d c B A B2  A3 e f > e d3 d e2 ^f2 g4 ^f6
+%%LY voices \property Score.skipBars = ##t R1.*3
+z2 z2 f f g3 f e d d4 ^c2 d6
+|:d2 d2 d2
+M:C
+L:1/4
+e c > d e e > d ^c/ B/ c d2
+z d B2 z d B2 z d z d z d 
+M:3/2
+L:1/4
+B A G/ g/
+M:C
+L:1/4
+^f d e > e d > d d > A 
+M:3/2
+L:1/4
+B6 :| 
+
+X:4
+T:XXII. Humor say what mak'st thou heere
+T:Tenore.
+C:John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:3/2
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on fourth line
+K:G mix -8va
+%%MIDI transpose -12
+d4 d2 d4 d2 c2 G > A B c d4 d2 d4 G2 A2 B2 e2 A4 B B c3 B A ^G A4 ^G2 A4 A A B6 A2 B2 G2 A6
+w:Hu- mor: * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+d2 d2 d2 f4 e2 A2 A2 G2 A4 A A B3 A B > c d2 e2 e2 d6
+w: * * * * * * * * * * * * * * * * * * * *
+|: "Chorus:"d2 d2 d2 
+w:But ne- ver 
+M:C|
+L:1/4
+c2 c2 B E E 
+w:Hu- mor yet was true, 
+A A2 z d d2 z d d2 z d z d z d 
+w:but that but that but that 
+M:3/4
+L:1/4
+G A B
+w:that that that 
+M:C
+L:1/4
+A G G > A B/ c/ d2 D D6 :|
+w:that that that that which on- ly _ _ pleas- eth you.
+
+X:5
+T:XXII. Humor say what mak'st thou heere
+T:Basso.
+C:John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+M:3/2
+L:1/4
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+K:G mix bass 
+%%MIDI transpose -24
+g4 g2 d4 g2 c4 G2 d4 d d g6 ^f2 e4 d4
+w:Hu- mor: * * * * * * * * * * *
+w:* * * * * * * * * * * * *
+w:* * * * * * * * * * * * *
+g g c6 A2 e2 e2 A4
+w:Prin- ces hould con- ceit most deere,
+w:I am now in- clind to mirth,
+w:No no foole the light's things swim,
+d d g6 ^f2 e2 e2 d6
+w:all con- ceit in hu- mor seene:
+w:hu- mor I as well as thou.
+w:hea- vie things sinck to the deepe:
+d2 d2 g2 f4 a4 e2 e2 A4
+w:* * * * * * * * 
+w:* * * * * * * * 
+w:* * * * * * * * 
+dd g6 b2 a2 a2 d6 
+w:Hu- more is in- ven- cion's foode:
+w:No no wit is cher- isht so,
+w:Hu- mor fro- like then a while.
+|: g2 d2 g2
+w:But ne- ver 
+M:C
+L:1/4
+c2 A2 e e A 
+w:Hu- mor yet was true, 
+A d2  z d g2 z ^f g2 z ^f z ^f z ^g
+w:but that but that but that that that that 
+M:3/2
+L:1/4
+g ^f g
+w:that that that
+M:C
+L:1/4
+d g c/ d/ e/ f/ g G d > d
+w:that which one- * * * * ly pleas- eth 
+M:3/2
+L:1/4
+G6 :|
+w:you.
+

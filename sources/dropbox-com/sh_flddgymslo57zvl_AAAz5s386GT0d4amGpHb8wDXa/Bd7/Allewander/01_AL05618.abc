@@ -1,0 +1,57 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Allewander 1880 chords CF
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.63 (AL05618) orig. C,F-Dur
+T: T\"anze aus Beateberg  (Bern)
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+g |: "C"^fg ag | eg cg | "G7"dg Bg | "C"eg cg | ^fg ag | ee' d'c' | "G7"ba fd |1 "C"c2zg :|2 "C"c2zd ||  
+|: "D7"^cd e^f | "G"gd bd | "D7"ad d'c' | "G7"ba gf | "C"eg ag | gc' ea | "G7"gf dg |1 "C"c2zd :|2 "C"c2zc || [K:F] 
+"F"cf gf | "C7"Tfe c'2 | "Bb"ed b2 | "F"dca2 | a>c a>f | "C7"fee2 | b>c b>e | "F"gff2 | 
+cf gf | "C7"Tfe c'2 | "Bb"ed b2 | "F"dc a2 | a>c a>b | "Gm/Bb"ag d'>c' | "C7"c'b de | "F"ff fz |] 
+
+X: 2
+T: Allewander 1880 CF
+M:2/4
+L:1/8
+K:C
+g |: "C"^fg ag | eg cg | "G7"dg Bg | "C"eg cg | ^fg ag | ee' d'c' | "G7"ba fd |1 "C"c2zg :|2 "C"c2zd ||  
+|: "D7"^cd e^f | "G"gd bd | "D7"ad d'c' | "G7"ba gf | "C"eg ag | gc' ea | "G7"gf dg |1 "C"c2zd :|2 "C"c2zc || [K:F] 
+"F"cf gf | "C7"Tfe c'2 | "Bb"ed b2 | "F"dca2 | a>c a>f | "C7"fee2 | b>c b>e | "F"gff2 | 
+cf gf | "C7"Tfe c'2 | "Bb"ed b2 | "F"dc a2 | a>c a>b | "Gm/Bb"ag d'>c' | "C7"c'b de | "F"ff fz |] 
+
+X:3
+T:Allewander 1880 chords GC 5-
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+d |: "G"^cd ed | Bd Gd | "D7"Ad Fd | "G"Bd Gd | ^cd ed | Bb ag | "D7"fe cA |1 "G"G2zd :|2 "G"G2zA || 
+|: "A7"^GA B^c | "D"dA fA | "A7"eA ag | "D7"fe dc | "G"Bd ed | dg Be | "D7"dc Ad |1 "G"G2zA :|2 "G"G2zG || [K:Cmaj] 
+"C"Gc dc | "G7"TcB g2 | "F"BA f2 | "C"AGe2 | e>G e>c | "G7"cBB2 | f>G f>B | "C"dcc2 | 
+Gc dc | "G7"TcB g2 | "F"BA f2 | "C"AG e2 | e>G e>f | "Dm/F"ed a>g | "G7"gf AB | "C"cc cz |] 
+
+X:4
+T:Allewander 1880 chords GC 5- Anm
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+d |: "G""_c#"^c"_d"d "_e"e"_d"d | "G"Bd Gd | "D7""_a"A"_d"d "_#"F"_d"d | "G"Bd Gd | "G""_c#"^c"_d"d "_e"e"_d"d | Bb ag | "D7""_f#"f"_e"e "_c"c"_a"A |1 "G"G2zd :|2
+ "G"G2zA |:"" "A7""_g#"^G"_a"A "_h"B^c | "D""_d"d"_a"A "_#"f"_a"A | "A7"eA ag | "D7"fe dc | "G"Bd ed | dg Be | "D7"dc Ad |1
+ "G"G2zA :|2 "G"G2zG || [K:Cmaj] \
+"" "C"Gc dc | "G7"TcB g2 | "F"BA f2 | "C"AGe2 | e>G e>c | "G7"cBB2 |
+ f>G f>B |"" "C"dcc2 | \
+Gc dc | "G7"TcB g2 | "F"BA f2 | "C"AG e2 | e>G e>f | "Dm/F"ed a>g | "G7"gf AB | "C"cc cz |] 
+
+X:5
+T:Allewander 1880 GC 5-
+M:2/4
+L:1/8
+K:Gmaj
+d |: "G"^cd ed | Bd Gd | "D7"Ad Fd | "G"Bd Gd | ^cd ed | Bb ag | "D7"fe cA |1 "G"G2zd :|2 "G"G2zA || 
+|: "A7"^GA B^c | "D"dA fA | "A7"eA ag | "D7"fe dc | "G"Bd ed | dg Be | "D7"dc Ad |1 "G"G2zA :|2 "G"G2zG || [K:Cmaj] 
+"C"Gc dc | "G7"TcB g2 | "F"BA f2 | "C"AGe2 | e>G e>c | "G7"cBB2 | f>G f>B | "C"dcc2 | 
+Gc dc | "G7"TcB g2 | "F"BA f2 | "C"AG e2 | e>G e>f | "Dm/F"ed a>g | "G7"gf AB | "C"cc cz |] 
+
+

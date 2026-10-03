@@ -1,0 +1,36 @@
+X:408
+T:Verso Miserere
+C:Antonio da Silva Leite (1759-1833)
+M:C|
+L:1/4
+K:Bb
+V: 8 clef=treble name="Tiple 1" sname="T.1"
+%%MIDI program 1 1
+%%staves [[ 8 ]]
+%--------------------
+[L:1/8] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 || z8 | z8 |
+z8 | z8 | "cresc."!p!d6 e>d | {^cde}!p!d6 !f!e>d | !p!d2g4f2 | (e2d2^c4) |
+w:Mi-se--re-re*me--i De-
+d2z4z2 | z2d4c2 | (B6A2) | G2d4c2 | =B2d2g2f2 | e6d2 |
+w:us mi-se-re--re me-i De-us mi-se-re--
+c2g4f2 | e6d2 | c2B2A2G2 | ^F4z4 | "cresc."!p!d6 !f!e>d |
+w:re me-i De****-us Mi-se--
+d6 e>d | d2d2d4 | d4z4 | "p a meza voce"B4B2B2 | {ABc}B8- |
+w:re-re_ me-i De-us Se-cun-dum ma-
+B2B2ed c=B | "cresc."c6c2 | c4z4 | z4z2f2 | e2c2d2B2 |
+w:gnam mi-se--ri--cor-di-am mi-se--ri--
+A2>A2B4 | c4B4 | B8 | A4z2!p!A2 | c/d/c/d/ {f}e2zg {g}f {f}e |
+w:cor-di-am tu-am tu-am Se-cun**-dum Se-cun-dum
+d/e/d/e/ {g}f2zf {f}e {e}d | ce_d2ce d> d | c4_d4 | c4z4 | z8 |
+w:ma**-gnam mi-se-ri-cor****-di-am tu-am
+z2d2e2c2 | (d2B2A4) | B2d2e2c2 | d2>d2e4 | d4c4 |
+w:Se-cun-dum ma*-gnam mi-se-ri-cor-di-am tu--
+d4z4 | !p!c6c2 | c2c2fe dc | =B8 |
+w:am mi-se-re-re me--i*De-
+c4z4 | z8 | !p!d6 !f!e>d | !p!d6 !f!e>d | d2d2(^d2^c2) | d4z4 |
+w:us Mi-se--re-re_ me-i De--us
+z8 | z8 | z8 | z8 | z2d2d2d2 | d8- | d8 | d2d2d2d2 | d6d2 |
+w:Se-cun-dum ma--gnam mi-se-ri-cor-di-
+(d4e4) | d8- | d8 | d4z4 | z8 | z8 | z8 :|
+w:am_ tu--am
+%--------------------

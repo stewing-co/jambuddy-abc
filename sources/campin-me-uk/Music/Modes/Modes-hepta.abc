@@ -1,0 +1,1725 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+Seven-Note Modes
+================
+
+1. Pitch Sets
+== ==========
+
+Nearly all Scottish tunes are based on the usual Western 7-note scale, or
+on scales that leave one or two notes out of it.  These scales are made by
+selecting seven notes from the 12 in an octave according to the pattern
+of the white notes on a keyboard.  The white notes also have names in
+tonic sol-fa.  This table describes this pitch set adding the intervals
+between successive notes (T for tone, S for semitone):
+
+   1  2  3  4  5  6  7  8  9 10 11 12
+   C     D     E  F     G     A     B
+  do    re    mi fa    so    la    ti
+      T     T   S    T     T     T    S
+
+I'm going to use some slightly unusual terminology to avoid unnecessary
+confusion; the usual language of music theory makes for muddle when used
+to discuss Scottish folk music.  This will make the next few paragraphs
+into a bizarre exercise in saying obvious things in a very eccentric way,
+but it gets clearer later on.
+
+(Note to sol-fa users: British (Curwen) sol-fa allows the pitches to be
+transposed for different keys, whereas some Continental systems don't.
+Here, do will always be C, which fits both systems). 
+
+An ABSOLUTE PITCH SET is a collection of notes chosen from the 12 available
+that may be used in some order or other to make tunes.  I'm deliberately
+not calling these "scales".
+
+X:0
+T:The Chromatic Pitch Set and the Diatonic White-Note Pitch Set
+M:12/4
+L:1/4
+K:C
+     C ^C      D ^D      E      F ^F      G ^G      A ^A     B ||
+"_do"C  z "_re"D  z "_mi"E "_fa"F  z "_so"G  z "_la"A  z "_ti"B|]
+
+The intervals between the white notes of the piano follow a sequence, in
+ascending order: tone, tone, semitone, tone, tone, tone, semitone.  This
+pattern is a RELATIVE PITCH SET.  The pattern can be started at (transposed
+to) any point of the 12-note chromatic scale: since the pattern is
+asymmetrical, it gives 12 different absolute pitch sets.  I'll name them
+after the number of sharps or flats in each, with sharps as positive numbers
+and flats as negative:
+ 
+X:0
+T:The 12 Diatonic Pitch Sets
+M:7/4
+L:1/4
+K:C
+"^-5"_A _B  c _d _e  f _g||\
+"^-4"_A _B  c _d _e  f  g||\
+"^-3"_A _B  c  d _e  f  g||
+"^-2" A _B  c  d _e  f  g||\
+"^-1" A _B  c  d  e  f  g||\
+"^0"  A  B  c  d  e  f  g||
+"^+1" A  B  c  d  e ^f  g||\     
+"^+2" A  B ^c  d  e ^f  g||\
+"^+3" A  B ^c  d  e ^f ^g||
+"^+4" A  B ^c ^d  e ^f ^g||\
+"^+5"^A  B ^c ^d  e ^f ^g||\
+"^+6"^A  B ^c ^d ^e ^f ^g|]
+
+Usually these are written by putting the sharps and flats at the start
+of each line, as they won't change:
+
+X:0
+T:The 12 Diatonic Pitch Sets (as key signatures)
+M:7/4
+L:1/4
+K:Db
+"^-5"A B c d e f g||\
+K:Ab
+"^-4"A B c d e f g||\
+K:Eb
+"^-3"A B c d e f g||
+K:Bb
+"^-2"A B c d e f g||\
+K:F
+"^-1"A B c d e f g||\
+K:C
+"^0 "A B c d e f g||
+K:G
+"^+1"A B c d e f g||\
+K:D     
+"^+2"A B c d e f g||\
+K:A
+"^+3"A B c d e f g||
+K:E
+"^+4"A B c d e f g||\
+K:B
+"^+5"A B c d e f g||\
+K:F#
+"^+6"A B c d e f g|]
+
+The first one and last two are never used in Scottish music except by solo
+singer/guitarists with capos.  Since the music is never written that way,
+I won't use them in this document - all key signatures will range between
+four flats and four sharps.
+
+An important pitch set in Scottish music is that of the Highland bagpipe
+chanter, which has nine notes using two sharps:
+
+X:0
+T:Notes of the Bagpipe Chanter
+M:9/4
+L:1/4
+K:C
+G AB^cd e^fga|]
+
+A pitch set is just a selection of notes you can use in a tune; any real
+tune will not just have an absolute pitch set, but also a TONAL CENTRE,
+FINAL, or HOME NOTE, which is the pitch in the set that the tune wants to
+end on (and usually does, except for some oddities like circular dance
+tunes).  "Wants to end on" is vague, and there is no good way to make it
+fully precise.  Guitar accompanists and other people thinking in terms of
+"common practice" harmony, where every part of a melody is seen as having
+an associated underlying chord, will decide the tonal centre by figuring
+out what chord sounds best as a close for the tune, or if it doesn't close
+in a straightforward way, the one that seems most important to accompanying
+it.  But not all Scottish tunes have reasonable chordal accompaniments.
+
+The combination of an absolute pitch set and a tonal centre make up a KEY
+(this is an unusually narrow way to use the word, but I'm going to stick
+to it here).  This is the same notion of key that ABC uses; what you write
+on the "K:" line in the header.
+
+Other musical idioms use different relative pitch sets; it's worth giving
+an example.  A scale commonly found in Middle Eastern music is called
+HIJAZ in Arabic, Persian and Turkish (named after a region of Arabia, but
+for no good reason).
+
+X:0
+T:The Hijaz Scale
+M:10/4
+L:1/4
+K:DMix
+D2 _E ^F G A _B c d2|d2 c _B A G ^F _E D2|]
+
+There is no way to get that from the Western choice of seven notes.
+
+X:0
+T:The Chromatic Pitch Set and the Hijaz Scale
+M:none
+L:1/4
+K:C
+D2 _E =E  F ^F  G ^G  A _B =B  c d2||
+D2 _E  z  z ^F  G  z  A _B  z  c d2|]
+
+If you were to make a piano that let you play the hijaz scale on the
+white keys, you'd end up with a pair of black keys side by side for
+E natural and F natural, and with F sharp and B flat on white keys,
+with no black key separating each from the G above and A below.  The
+piano keyboard wasn't designed in the eastern Mediterranean.  It was
+designed culturally near enough to Scotland to work for Scottish music.
+
+Here's a tune example, an Egyptian love song often used for dancing:
+
+X:0
+T:Ah Ya Zayn
+M:2/4
+L:1/16
+Q:1/4=100
+K:DMix % hijaz
+ FG|A6 FG|A6       FG|A_BAG ABAG|F6
+ A2|G6 FG|A_BAG F_ED2|AGGF F_EED|D_EFG A2
+_BA|G6 FG|A_BAG F_ED2|AGGF F_EED|D2 z4 |]
+
+In Arabic notation, the key signature would have both one sharp and two
+flats; not many ABC implementations can do that at present, so I've used
+accidentals.
+
+A Sephardic Jewish song in the same mode, probably from Istanbul around
+1800, with Judeo-Spanish words.
+
+X:0
+T:La Rosa Enflorece
+M:4/4
+L:1/8
+Q:1/4=100
+K:APhr
+ A| d3   e f>e df |   e>d^cB A3
+ A| d3   e fe  df |   e4     z2||
+ef| g>e eg f>e df |   ed^cB  A3
+ A|^c B2 A GA  B^c|[1 AB^cd  e2:|\
+                   [2 A4     z3|]
+
+An Armenian example (I don't know the title - I got it from a collection
+of songs in Armenian script, which I don't read):
+
+X:0
+T:Armenian Song
+M:2/4
+L:1/8
+Q:1/4=100
+K:DPhr
+A>c  BA |A>c  BA  | c>B  BA |(B2  d2)|
+c>B  BA |A>G  G>^F|^F>G  AA | A4    :|
+D>E ^F>G|A>G ^FE  | D>E ^F>G| A>G A2 |
+A3    B |A>G ^F2  | A>G ^FE | D4    :|
+
+A Bosnian "sevdah" love song.  I've included Zero's chords, which show
+a typical "three-chord trick" for the hijaz scale.
+
+X:0
+T:Moj Dilbere
+S:Muhamed Zero, Sevdah Bosnjaka, Sarajevo 1995
+M:4/4
+L:1/8
+Q:1/4=90
+K:DPhr
+    "D" ^F2 G2 A2 (3BAG|"D"A8         |       \
+    "Gm" B3  A B2   c2 |"D"A3 B A2  G2|       \
+    "Cm"^F3  A GF   E2 |"D"D8        ||
+  |:"D"  A3  B c2   B2 |"D"A3 B A2 G^F|"Cm"E6 \
+D2|      C3  D ED  ^FE |"D"D8        :|
+
+Another example from outside Scottish music is the six-note WHOLE-TONE
+relative pitch set.  This is used in some folk music from Eastern Europe,
+but is most familiar as used by French composers of the early 20th century,
+who were imitating the tonal effects of Indonesian gamelan music.  Unlike
+the white-note scale, it's symmetric.  There are only two whole-tone
+absolute pitch sets, each taking half of the notes of the chromatic scale:
+
+X:0
+T:The Two Whole-Tone Scales
+M:9/4
+L:1/4
+K:C
+ C2  D  E ^F ^G ^A  c2| c2 ^A ^G ^F  E  D  C2||
+^C2 ^D  F  G  A  B ^c2|^c2  B  A  G  F ^D ^C2|]
+
+The symmetry means that none of the six notes has a distinctive position
+in these scales.  The result is that there is no tonal centre; whole-tone
+melodies wander around randomly and could stop anywhere in the scale.  By
+contrast, Scottish music nearly always has a single tonal centre, and the
+pitch sets it uses make it easy to locate.  It isn't easy to write real
+tunes in the whole-tone scale.  This is a scale study by the ocarina maker
+Giorgio Pacchioni, meant for a whole-tone ocarina of his own design, which
+makes it very easy to play.
+
+X:0
+T:Pacchioni's Whole-Tone Etude
+M:4/4
+L:1/8
+K:C
+z2  G4  A2| B2 ^c2 ^d2  f2 | \
+z2  A4  B2|^c2 ^d2  f2  g2 |
+z2  B4 ^c2|^d2  f2  g2  a2 | \
+z2 ^c4 ^d2| f2  g2  a2  b2 | \
+z2 ^d4  f2| g2  a2  b2 ^c'2|
+ GB^dB  GBdB | GB^dB  GBdB | \
+ A^cfc  Acfc | A^cfc  Acfc |
+ B^dgd  Bdgd | B^dgd  Bdgd | \
+^cfaf   cfaf |^cfaf   cfaf |
+^dgbg   dgbg |^dgbg   dgbg | \
+ fa^c'a fac'a| fa^c'a fac'a|a4 z2|]
+
+Because the diatonic pitch set has an asymmetric pattern, you can always
+tell where the tonal centre goes if you transpose it.  A relative pitch
+set and a tonal centre together make up a MODE (sort of - see later, in
+the section on melodic contours).  Only four of the seven notes in the
+relative pitch set are often used as a tonal centre for a mode used in
+Scottish music; in the white-note absolute pitch set, these are C, D, G
+and A (do, re, so and la).  Two more (E and F, or mi and fa) are not
+often used to base modes on, but their modes are worth knowing about to
+build a clear and simple system describing the whole Scottish repertoire.
+
+The names given to these modes in Western music theory are about 1000 years
+old and make no sense at all.  They are named after places in Greece; this
+is because ancient Greek music theorists had an idea (mostly wrong) that
+each part of the country had its own special mode.  The mediaeval European
+theorists then confused things even further; they thought they were writing
+about the same modes as the ancient Greeks but systematically misinterpreted
+what the Greek theory said.  After 1000 years it's a bit too late to think
+about changing this, so I'm going with the flow.
+
+
+2. The Major Mode
+== ==============
+
+The commonest mode in all the traditional musics of the British Isles is
+the MAJOR mode ("ionian" to the mediaeval theorists, "chargah" in Turkish
+music theory, "mahur" in Persian, "bilaval" in the music of North India,
+"sankarabharana" in Carnatic music).  In this scale the "1" pitch (C in
+the white-note scale) is the home note.
+
+One common way of describing a scale is by the sequence of intervals that
+occur in it as you ascend it for an octave; in the major scale, this sequence
+is tone-tone-semitone-tone-tone-tone-semitone, or TTS TTTS in the abbreviated
+form I'll use from now on.  Using the sol-fa "do re mi" system, it's sometimes
+called the "do-mode" and goes like this:
+
+X:0
+T:The Major (do) Scale
+M:10/4
+L:1/4
+K:C
+"_do"C2 "_re"D "_mi"E "_fa"F "_so"G "_la"A "_ti"B "_do"c2 |\
+"_do"c2 "_ti"B "_la"A "_so"G "_fa"F "_mi"E "_re"D "_do"C2|]
+
+Here's an old song, adapted by Burns, where the home note is G, so there is
+one sharp:
+
+X:0
+T:Duncan Gray
+G:song
+M:C
+L:1/8
+Q:1/4=120
+K:G
+DG FG    AB F2|G2    A>c BG G2:|
+Bd dc/B/ cc c2|Bc/B/ AG  FE D2 |
+DG FG    AB F2|G2    A>c BG G2:|
+
+Another tune popularized by Burns:
+
+X:0
+T:Corn Rigs
+G:song or reel
+M:C|
+L:1/8
+Q:1/2=108
+K:A
+E2|A3 B c2BA|G3 A B2E2|A3 B cdBc|A2 e4    E2|
+   A2e2 fedc|dcBA GABG|FGAF BAGF|E2 A>B A2 ||
+E2|A2e2 cde2|G3 A B2E2|A2ed cdBc|AB cd  e2A2|
+   A2e2 fedc|dcBA GABG|FGAF BAGF|E2 A>B A2 |]
+
+Here's a jig from around 1800 where the home note is D in the scale with
+two sharps:
+
+X:0
+T:Miss Sally Hunter of Thurston
+S:The Beauties of Niel Gow
+C:Nathaniel Gow
+M:6/8
+L:1/8
+Q:3/8=120
+K:D
+A|DFA d2A|B2A d2A|Bcd efg|efd cBA |
+  DFA d2A|B2A Bcd|egf edc|d3  D2 :|
+g|fed g2e|a2f b2g|fef def|efd c>BA|
+  fed g2e|a2f g2B|fga Adc|d3  d2g |
+  fdf geg|afa bgb|afd Bcd|efd cBA |
+  DFA d2A|B2A Bcd|egf edc|d3  D2 |]
+
+A reel from the Borders:
+
+X:0
+T:The Randy Wife of Greenlaw
+G:reel
+S:Sarah Northcott
+M:C|
+L:1/8
+Q:1/2=100
+K:D
+c|d2AG F2Dc|d2fd eBBc|d2AG F2DF|GBAG FDD    :|
+c|d2df abaf|gefd eBBc|d2df abaf|geaf (3ddd dA|
+  d2df abaf|gefd eBBc|dfce BdAF|GBAG FDD    |]
+
+A children's song, originally from Newcastle, which has been widely used
+as a Scottish dance tune:
+
+X:0
+T:Weel May The Keel Row
+G:song
+S:Gall and Inglis, Select Songs of Scotland
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+D|B>B GB |c2 Ac |B>B GB |AF DD|BB  GB |c2 Ac |B>G A>F|G3:|
+c|B>d dg |e2 dc |B>G GB |AF Dc|B>d d<g|e2 dc |B>G AF |G3:|
+z|B2  G>B|c2 A>c|B2  G>B|AF D2|B2  G>B|c2 A>c|B>G A>F|G3:|
+
+And a pipe march, which during World War 1 was adapted for the familiar
+(and awful) song "The Road to the Isles":
+
+X:0
+T:The Bens of Jura
+C:John McLellan
+B:8th (The Argyllshire) Battalion Argyll and Sutherland Highlanders: A
+B:Collection of Pipe Tunes (Paterson's Publications Limited, July 1933)
+N:I suspect that more dotted figures were intended than were printed
+M:2/4
+L:1/16
+Q:1/4=80
+K:D
+   A>d|f4   agef|d2A2 A2dc|BGBc defa|e4 e2Ad    |
+       f4   agef|dedc B2ag|fafd Acec|d4 d2     :|
+   f>g|aAAA fAAA|dedc B2dc|BGBc defa|e4 e2 [1 fg|
+       aAAA fAAA|dedc B2ag|fafd Acec|d4 d2     :|
+[2 A>d|f4   agef|dedc B2ag|fafd Acec|d4 d2     |]
+
+This is one of the oddest major-mode tunes from Scotland.  James Hogg
+claimed to have collected it as a song in the Highlands, but it's very
+similar to the slightly earlier Continental waltz tune "Ach du lieber
+Augustin", and it has far more wide leaps than any normal vocal tune.
+
+X:0
+T:Come O'er the Stream, Charlie
+M:3/4
+L:1/4
+Q:1/4=144
+K:F
+C|F> A c|c  A d|c  A f|c A \
+G|F> A c|c  A F|C> A G|F2:|
+c|f  e f|d  e f|d  g f|e d \
+c|f  e f|d  c B|A  G F|c2
+c|B  d B|A  c f|c  A F|A G \
+e|f> d B|c> A F|C> A G|F2|]
+
+There is a cliche that tunes in the major sound happy.  To disprove
+that, here is a Shetland lament for drowned fishermen - the title
+refers to the unique black sweater that identified the dead body.
+
+X:0
+T:Auld Swaara
+S:Tom Anderson, Haand Me Doon Da Fiddle
+M:2/4
+L:1/8
+Q:1/4=56
+K:G
+D| GG        (3D(B,G,)| (3D(GD)  ((3B,A,B,    |G,2) {c}((3BAF)|
+   GG        (3D(B,G,)| (3D(GD)  (3(B,A,)B,   |DG         G  :|
+A|(G/F/E/D/) (3(CEC)  |((3B,DB,)   (A,>B,)    |G,2  {c}((3BAF)|
+  (G/F/E/D/) (3(CEC)  |((3B,DB,)   (A,>B,)    |DG         G  :|
+D|(G/F/E/D/)    Gg    |   e(d/B/)   d/(e/f/g/)|a2   ({A}(3B)AF|
+  (G/F/E/D/)    Gg    |   e(d/B/) (3d(gd)     |BG         G  :|
+
+And another sea song about a dead lover, maybe English (this is
+the way I hear it sung in Scotland):
+
+X:0
+T:Lowlands Away
+M:3/4
+L:1/8
+Q:1/4=72
+K:G
+G|Bc d3    e |     dB G3
+z|g2 d2 (3gab|(3:: g2 f2 d2- d
+d|fg a3    f |     gd c4|
+  [M:4/4]d4 c B2A|[M:3/4]G4z|]
+
+And of course the same mode is found in most of Europe.  An Irish
+example originally from the 18th century:
+
+X:0
+T:The Minstrel Boy
+M:C|
+L:1/8
+Q:1/2=75
+K:D
+A|D3 E GFED|F2A2 d2cd|B2A2 FGAF|E4       D3:|
+A|d2c2 B2cd|c2B2 A3 A|B2F2 F2A2|Bc/B/ Ac d3
+A|D3 E GFED|F2A2 d2cd|B2A2 FGAF|E4       D3|]
+
+a Gypsy folksong from Hungary:
+
+X:0
+T:Harom Krumpli A Tuzbe
+S:Csenki & Paszti: Baszarozsa - 99 Cigany Nepdal, 1955
+M:2/4
+L:1/8
+Q:1/4=144
+K:C
+cc cc|cc  c2|ed cB|AB G2 |
+dd dd|c B2 A|G2 G2|G2 z2 |
+FF FF|FG  F2|ED DD|DE C2 |
+GG GG|GF  ED|C2 C2|C2 z2|]
+
+a Swedish polska:
+
+X:3
+T:Eklundapolska no.3
+M:3/4
+L:1/16
+Q:1/4=100
+P:AABB
+K:G
+P:A
+g2fg b2g2 d2B2|cBcd egec A2c2|   B2AB cdcA BcBG|[1 A2d2 d8:|\
+                                                [2 ABAF G8||
+P:B
+B3B  c2c2 B2B2|A2d2 d6     D2|[1 B3B  c2c2 B2B2|   ABAF D8:|\
+                              [2 G2AB cdcA BcBG|   ABAF G8|]
+
+and a tune now played all over the British Isles but originally from
+Elizabethan England (one of the few tunes in British folk repertoire
+where the major seventh is an essential note at the bottom of the
+range).
+
+X:0
+T:The Cuckoo's Nest
+M:C|
+L:1/8
+Q:1/2=88
+K:D
+B2 |A>dd>c d>ef>d|e>dc>B A2 A>B|c>BA>B c>de>d|c>AG>F G2
+A>G|F>DF>A d>fe>d|c>AG>F G2 A>G|F2 F>D C>DE>G|F2 D2  D2:|
+B2 |A>FD>F A>FD>F|A>GF>E D2 E>F|G>EC>E G>EC>E|G>FE>D C2
+D>E|F>EF>D d>fe>d|c>AG>F G2 A>G|F2 F>D C>DE>G|F2 D2  D2:|
+
+A tune doesn't have to be very long to have an unmistakable mode.
+This is probably the most-played tune in present-day Scotland:
+
+X:0
+T:Nokia tune
+T:Gran Vals for guitar, bars 13-16
+C:Francisco Tarrega 
+M:3/4
+L:1/8
+Q:3/4=68
+K:A
+ed F2 G2|cB D2 E2|BA C2 E2|A6|]
+
+Transposed forms of this mode are:
+
+X:0
+T:Major (do) Scales
+L:1/4
+M:10/4
+K:Ab
+"^A flat" A2 Bc de fg a2|a2 gf ed cB A2||
+M:10/4
+K:Eb
+"^E flat" E2 FG AB cd e2|e2 dc BA GF E2||
+M:10/4
+K:Bb
+"^B flat" B2 cd ef ga b2|b2 ag fe dc B2||
+M:10/4
+K:F
+"^F"      F2 GA Bc de f2|f2 ed cB AG F2||
+M:10/4
+K:C
+"^C"      C2 DE FG AB c2|c2 BA GF ED C2||
+M:10/4
+K:G
+"^G"      G2 AB cd ef g2|g2 fe dc BA G2||
+M:10/4
+K:D
+"^D"      D2 EF GA Bc d2|d2 cB AG FE D2||
+M:10/4
+K:A
+"^A"      A2 Bc de fg a2|a2 gf ed cB A2||
+M:10/4
+K:E
+"^E"      E2 FG AB cd e2|e2 dc BA GF E2|]
+
+For comparison, it may be useful to describe these modes by the sequence
+of pitches occurring in each one when the home note is fixed: I'll use A,
+since this is one of the commonest tonal centres in Scottish music and is
+the home note of the pipe chanter.  The major scale for A is AB^cde^f^ga.
+
+Another way to compare different scales is to pick a fixed absolute pitch
+set and say which note in it becomes the tonal centre; I'll use the pitch
+set of the pipe chanter.  "The Bens of Jura" uses every note it has,
+centring on D, and pipers sometimes call the major mode the "D mode".
+Because the word "mode" is used in other ways in this document, I'll say
+the D major scale is the "D-final" seven-note mode on the chanter.
+
+X:0
+T:The Major Scale (D-final) on the Pipe Chanter
+M:none
+L:1/4
+K:Hp
+d2 efgagfe d4 x d2 cBAGABc d4|]
+
+
+3. The Dorian Mode
+== ===============
+
+The DORIAN mode has pitch 3 (D in the white-note scale) as its home note,
+with interval sequence TST T TST.  In A, it's ABcde^fga.  In sol-fa parlance
+it's the re-mode.
+
+X:0
+T:The Dorian (re) Scale
+M:10/4
+L:1/4
+K:DDor
+"_re"D2 "_mi"E "_fa"F "_so"G "_la"A "_ti"B "_do"c "_re"d2 |\
+"_re"d2 "_do"c "_ti"B "_la"A "_so"G "_fa"F "_mi"E "_re"D2|]
+
+It's found in song tunes throughout the British Isles.  The most
+often cited example is a sea shanty which could have come from
+anywhere:
+
+X:0
+T:What Shall We Do With the Drunken Sailor
+G:shanty
+M:C|
+L:1/4
+Q:1/2=140
+K:ADor
+ee/e/ ee/e/|eAce |
+dd/d/ dd/d/|dGBd |
+ee/e/ ee/e/|efga |
+ge    dB   |A2A2|]
+
+but there are many Scottish examples:
+
+X:0
+T:Canan nan Gaidheal
+M:12/8
+L:1/8
+Q:3/8=54
+K:DDor
+  D/D/|DAG  ADF  E/D/C2- C2 D/E/|AAG  E>DC D3- D2
+  A/A/|A>Bc B>AG A3-     A2 A/A/|A>Bc B>AG A3- A2
+  G   |A>DD E>DC C3-     C2 G   |A>AG E>DC D3- D2
+|:c   |d<dc ADF  E/D/C2- C2 D/E/|AAG  E>DC D3- D2:|
+
+X:0
+T:Andro wi his Cutty Gun
+G:drinking song
+S:MacColl, Folk Songs and Ballads of Scotland
+M:3/4
+L:1/4
+Q:3/4=72
+K:D Dorian
+  A3  |(D2 E)|(F<G) E|C3 |\
+  A3  | D2 E | F<E- E|D2
+A|A2 D| D2 E | F  E2 |D2  \
+A|A2 D| D2 E | F  E2 |D2||
+G|A2 d| d2 e | c2   B|A2  \
+G|A2 d| d2 e | c  B2 |A2
+G|A d2| d2 e | c2   B|A2  \
+D|D2 A| G2 E |(F  E2)|D2|]
+
+In this tune the Dorian sixth only occurs once, but at a climactic point:
+
+X:0
+T:The House of Gray
+S:Kerr's Merry Melodies
+G:jig
+M:6/8
+L:1/8
+Q:3/8=108
+K:ADor
+e|AAA c2e|dBG dBG|AAA c2d|ece ecA|
+  gag f2e|dBg dBG|AAA cde|dBG A2:|
+B|ccc g2c|ece dBG|ccc g2c|ece geg|
+  aga g2e|dBg dBG|AAA cde|dBG A2:|
+
+X:0
+T:The Burning of Auchindoun
+G:song
+S:the way I sing it, mostly from Ewan MacColl
+M:4/4
+L:1/4
+Q:1/2=66
+K:EDor
+E/|E>B B>A|B<B E2 |G>G  F2  |(ED)  B,>E|
+   E2  B<B|AA  B>A|G>E  F>D | E2   E2  |
+   B>B d2 |c>c B2 |E>B  B>B |(A<F) D>E |
+   E2  B2 |A<A B2 |G>E  F>D | E2   E2 ||
+   B2  d>d|c<A B2 |E>B  B<B |(A<F) D2  |
+   E2  B2 |A<A B>A|G>E (F<D)| E2   E3/|]
+
+X:0
+T:May Margaret
+S:Blaikie MS via Motherwell
+B:Bronson v3 p163
+N:tune for Child ballad #162
+M:2/4
+L:1/8
+Q:1/4=56
+K:DDor
+G   |cB/c/ dd|edc||\
+A   |ccdd    |edc||\
+d/c/|BAGD    |EGA||
+d/c/|BAGD    |EDD||\
+d/c/|BAGD    |EGA||\
+d/c/|BAGD    |EDD|]
+
+X:0
+T:Bonnie Lass Amongst the Heather
+G:song
+S:Scottish Folksinger
+M:5/4
+L:1/8
+N:metre re-notated to avoid fermatas
+Q:1/4=88
+K:DDor
+ FG |        A3 D D4 (EG)| G3   E   G4
+(EG)|[M:4/4] A3 A D3   D | c2 (BA) (Bc) d2-|d6
+(cd)|[M:5/4] e3 d d4 (AB)|(cB)(AG)  G4
+(AB)|[M:4/4] c2d2 A3   G | F2 (ED)  C2  D2-|D6|]
+
+X:0
+T:To Daunton Me
+G:strathspey
+N:based on a Lowland song from the early 18th century (see the
+N:tunes from Mitchell's "The Highland Fair" of 1731 on my website)
+M:C
+L:1/8
+Q:1/4=120
+K:EDor
+G>A|B2   E2  E2   A>G|F>GE>F D2d>e|f>ed>B d<BA>F|B2 E2  E2:|
+F>E|D2   d2  d2   B>c|d>ed>B A2d>c|B2 e2  e2 e>f|g>fe>d B2
+d>e|f2 (3agf e2 (3gfe|d>ed>B A2d>e|f>ed>B d<BA>F|B2 E2  E2|]
+
+X:0
+T:My Daughter Shilo
+S:James Thomson's MS for the treble recorder, 1702
+B:David Johnson, 21 Scots Tunes for the Treble Recorder
+N:extensive ornamentation omitted, see Johnson's edition
+N:I think I've come across this tune from
+N:an American source, anybody recognize it?
+M:3/4
+L:1/8
+Q:1/4=80
+K:GDor
+Ac|d2 d2 cA |f2 e2 d2   |cd cA GA   |F3  G A2|
+   d2 fd cA |f3  g a2   |F3  G A/G/F|G4
+Ac|d2 d2 c>A|f2 f2 ef   |g2 g2 fg   |a2 ba gf|
+   d2 fd cA |fg g2 f/g/a|F3  G A/G/F|G4     |]
+
+X:0
+T:Da Scallowa Lasses
+G:Shetland reel
+M:C|
+L:1/8
+Q:1/2=104
+K:ADor
+Aa-af    efed|cdef gagd|Aa-af efed|cABG A2BG |
+Aa-af    efed|cdef gagd|Aa-af efed|cABG A2A2||
+BE (3EEE c2cA|dedB gfed|ea-ag efed|cABG A2A2:|
+
+This French tune is probably not Scottish in any way, but the Dorian
+mode used to be thought of abroad as a characteristic of Scottish
+music, as in all the "Scotch" or "Northern" tunes found in 17th
+century English song books:
+
+X:0
+T:Branle d'Ecosse
+S:Arbeau, Orchesography
+M:C|
+L:1/4
+Q:1/2=116
+P:AABB
+K:GDor
+P:A
+  G A B G|A B c2 |c B A G|B c d2|[1 d f e d|c B A G:|\
+                                 [2 c B A G|A F G2 ||
+P:B
+|:d2  d e|f g f e|d2  d2 |c B A2|[1 d2  c B|A2  G2 :|\
+                                 [2 c B A G|A F G2 |]
+
+These are fairly typical examples from early music, but not from chant:
+
+X:0
+T:Worldes Blis
+G:English song about how miserable earthly life is, c.1250
+S:a music history book (Oxford History of Music?) I read around 1976
+N:Pauses added at line ends because that's the way everybody sings it
+M:none % sorta 3/4
+L:1/4
+Q:1/4=120
+K:GDor
+  G (F/E/ D)    F  G2         A (B/A/   G)     (G/F/)(F/G/)   z2
+G A (G    F)    G (F/E/ D)    F (G      A)     (A     G)      z2
+G A  B2         A (B/A/ G)    A (B/A/   G)      A    (G/F/)   z2
+G A (G    F)    G (F/E/ D)    F (G      A)     (A     G)      z2
+B B (c/d/ c)    d (c    B)    c (B      A)      B    (A/G/)   z2
+B B  B    c     B (A    G)    A (B/A/   G)      A    (G/F/)   z2
+G A  B2         A  G2         A  A     (G/F/)   G  (3(F/E/D/) z2
+F G  A2         B  A2         B  A   (3(G/F/G/) A2            z2
+  B  c2         B  B   (A/G/) A  B     (A/G/)   A    (G/F/)   z2
+G A  A   (G/F/) G (F/E/ D)    F (G/A/ (3B/A/G/) F     G4      |]
+
+X:0
+T:Palestine Song
+T:Nu alrest leb ich mir werde
+C:Walther von der Vogelweide, 1204
+G:recruiting song for the Fourth Crusade
+S:S.S. Prawer, Penguin Book of Lieder
+N:the rhythm is often interpreted differently
+M:3/4
+L:1/8
+Q:1/4=120
+K:DDor
+   D2 D4   |F2 F2 E2|D2 DE FE|  D2  D2 C2|
+   E2 G4   |A2 AG F2|F2 DC D2|(3EFE D2
+D2|D2 D4   |F2 F4   |D2 DE FE|  D2  D2 C2|
+   E2 G4   |A2 AG F2|F2 DC D2|(3EFE D2
+A2|A2 c4   |c2 A2 G2|A2 c2 B2|  A6       |
+   A2 cB A2|G2 GF ED|E2 FE D2|  C6       |
+   E2 G4   |A2 AG F2|E2 DC D2|(3EFE D4  |]
+
+X:0
+T:L'Homme Arme
+G:French political song, late 14th century
+M:3/4
+L:1/4
+Q:3/4=60
+K:DDor
+  D2D|G2G|FE2|D3 | \
+  AAD|zAA|AG2|FE2|D3 |AAA|D3|
+  d2d|c2c|d2d|A3 | \
+  d2d|c2c|d2d|A2   \
+d|e2d|cB2|A3 |z3 |
+  D2D|G2G|FE2|D3 |\
+  AAD|zAA|AG2|FE2|D3|]
+
+
+X:0
+T:Douce dame jolie
+G:French love song
+C:Guillaume de Machaut, c.1340
+M:C|
+L:1/4
+Q:1/4=150
+K:GDor
+d|d G F G|B/AG/ AA   |G d d/c   B/|B/AG/ Ad   |
+  G G F G|B/AG/ Ac   |B>A G   F   |G3        ||
+e|g g f e|d2    d/cB/|d2  e/d/c/B/|AG    Bc   |d3
+e|g g f e|d2    d/cB/|d2  e/d/c/B/|AG    A/GF/|G3||
+d|d G F G|B/AG/ AA   |G d d/c   B/|B/AG/ Ad   |
+  G G F G|B/AG/ Ac   |B>A G   F   |G3        |]
+
+It was always one of the commonest modes for religious music, and not
+just in Catholic Europe, as in this 16th century Scottish psalm tune,
+which must be a good candidate to be the most-sung tune in Scottish
+history:
+
+X:0
+T:Martyrs
+S:Scottish Psalter 1615
+G:psalm tune
+M:none
+L:1/2
+Q:1/2=80
+K:DDor
+D2 FD AF ED A2 z2||A2 cA Bd A2 z2||
+A2 cG AF ED A2 z2||c2 BG BA D4   |]
+
+Dorian has probably been the most common heptatonic mode in folk
+music in the whole of Europe throughout its history.  Some
+examples:
+
+X:0
+T:Viem ja jeden hajicek
+G:Slovak song
+S:Rudolf Vig, Nepek Dalai, Budapest c.1960
+M:4/4
+L:1/8
+K:DDor
+DD AA BAG2|BA       Bc d2 A2|
+d2 c2 A2G2|A/G/F/E/ D2 z4   |
+FE FG A3 G|A/G/F/E/ D2 z4  |]
+
+
+The transposed versions of Dorian are:
+
+X:0
+T:Dorian (re) Scales
+L:1/4
+M:10/4
+K:BbDor
+"^B flat"  B2 cd ef ga b2|b2 ag fe dc B2||
+M:10/4
+K:FDor
+"^F"       F2 GA Bc de f2|f2 ed cB AG F2||
+M:10/4
+K:CDor
+"^C"       C2 DE FG AB c2|c2 BA GF ED C2||
+M:10/4
+K:GDor
+"^G"       G2 AB cd ef g2|g2 fe dc BA G2||
+M:10/4
+K:DDor
+"^D"       D2 EF GA Bc d2|d2 cB AG FE D2||
+M:10/4
+K:ADor
+"^A"       A2 Bc de fg a2|a2 gf ed cB A2||
+M:10/4
+K:EDor
+"^E"       E2 FG AB cd e2|e2 dc BA GF E2||
+M:10/4
+K:BDor
+"^B"       B2 cd ef ga b2|b2 ag fe dc B2||
+M:10/4
+K:F#Dor
+"^F sharp" F2 GA Bc de f2|f2 ed cB AG F2|]
+
+On the chanter, it's the E-final seven-note mode, but is not very
+common in pipe music:
+
+X:0
+T:The Dorian Scale (E-final) on the Pipe Chanter
+M:18/4
+L:1/4
+K:Hp
+e2 fgf e2 dcBAGABcd e2|]
+
+X:0
+T:Donald Blue
+G:march
+S:Scots Guards pipe tune book
+M:2/4
+L:1/8
+Q:1/4=88
+K:EDor
+   d>B G>B|dB cA|d>B G>B|AB e2 |
+   d>B G>B|dB cA|B>A G>B|AB e2:|
+   B>B g>e|dB cA|B>B g>e|dB e2 |
+[1 B>B g>e|dB cA|B>A G>B|AB e2:|
+[2 e>f g>e|dB cA|B>A G>B|AB e2|]
+
+
+4. The Mixolydian Mode
+== ===================
+
+The MIXOLYDIAN mode has semitone 6 as its home note (G in the white-note
+scale); interval sequence TTS T TST.  In A, it's AB^cde^fga.  In sol-fa,
+it's the so-mode.
+
+X:0
+T:The Mixolydian (so) Scale
+M:10/4
+L:1/4
+K:GMix
+"_so"G2 "_la"A "_ti"B "_do"c "_re"d "_mi"e "_fa"f "_so"g2 |\
+"_so"g2 "_fa"f "_mi"e "_re"d "_do"c "_ti"B "_la"A "_so"G2|]
+
+X:0
+T:The Gallowa Hills
+M:4/4
+L:1/8
+Q:1/4=100
+K:BMix
+FD |B,3   C  D2  EE|F2  B>B F3 \
+ E |D2  B,B, B,B,CD|E3   C  A,2
+F>F|B,3   C  D3   E|F2  B2  D2 \
+CB,|E>D EG   F3   E|C3   B, B,2||
+DE |F>F B2   D3   E|F<F B2  F3 \
+ D |E2  C2   A,3  C|E2  A>G F2
+FD |B,3   C  D3   E|F2  B2  D2 \
+CB,|E>D EG   F3   E|C3   B, B,2|]
+
+Mixolydian tunes often make the seventh at the lower end
+of the tune's range prominent by using it as a cadence at
+the end of a phrase.  This pipe reel version of the same
+tune does that more consistently:
+
+X:0
+T:Campbell's Farewell to Redcastle
+M:2/4
+L:1/16
+Q:1/4=112
+K:AMix
+   e2 |A3B  c3d |e2a2 e3d|c2A2 A2Bc|d2B2 G2
+   B2 |A3B  c3d |e2a2 e3d|c2BA G2B2|A4   A2:|
+   g>f|e2a2 a2gf|e2a2 e3d|c2A2 A2Bc|d2B2 G2
+[1 gf |e2a2 a2gf|e2a2 e3d|c2BA G2B2|A4   A2:|
+[2 B2 |ABcd cdef|efga e3d|c2BA G2B2|A4   A2|]
+
+This tune completely avoids that cadence.  The mixolydian seventh
+occurs only near the top of the range, with the melody descending
+after it (in many modal systems it would be considered to be in a
+different mode sharing the same pitch set and tonal centre):
+
+X:0
+T:Lochaber No More
+B:Kerr's Merry Melodies Bk.3, p47
+Z:Nigel Gatherer
+M:3/4
+L:1/8
+Q:1/4=90
+K:GMix
+GA|B2 B2 Bc|B2 A2 Bd|e2 A2   AB |B2 A2 
+GA|Bd cB AG|E2 D2 GA|B2 G2   GA |G4  :|
+GA|B2 B2 Bc|d2 cB AB|G2 g2   ga |a2 g2 
+GA|B2 B2 Bc|d2 cB AB|G2 g2   ga |g4 
+de|f2 f2 ed|e4    EG|A2 A2 (3GAB|B2 A2 
+GA|Bd cB AG|E2 D2 GA|B2 G2   GA |G4  |]
+
+X:0
+T:Miss Montgomery
+G:strathspey
+M:4/4
+L:1/8
+Q:1/4=120
+K:AMix
+f|e<Ae>c e<Ag>e|d<Gd>B d<Gf>d|e<Ae>c e<Ag>e|d>Bg>B A<A A:|
+f|e>ac>a e>fg>e|d>gB>g d>gf>d|e>ac>a e>fg>e|d>Bg>B A<A A:|
+
+X:0
+T:The Tailor and his Shirt
+G:jig
+S:MacFarlan MS
+M:6/8
+L:1/8
+Q:3/8=120
+K:AMix
+B>cd ded|g2d B2G|c>de efe|a2e c2A |
+B>cd ded|g2d B2G|c>de efe|a2e c2A:|
+a2e  c2A|g2d B2G|a2e  f2e|a2e c2A |
+gag  gfe|d2d B2G|cde  ece|a2e c2A:|
+
+X:0
+T:The High Road to Linton
+G:reel
+S:Kerr's Merry Melodies v1
+N:the old two-part version
+M:C|
+L:1/8
+Q:1/2=112
+K:AMix
+d|ceef a2ae|f2fe a2ae|ceef a2ae|faec B2A:|
+d|ceeg fddf|ecce fBBd|ceeg fddf|ecac B2A:|
+
+X:0
+T:Tullochgorum
+G:strathspey
+M:4/4
+L:1/8
+Q:1/4=108
+K:DMix
+G|F>DA>D G>CE>G|F>DA>D F>GA>d|F>DA>D       G>CE>G|F>DA>G F2E||
+F|D>dA>B c>CE2 |D>dA>d F>dA>d|D>dA>B       c>CE>F|D>dA>B F2E||
+F|D>dA>B c>CE>F|D>dA>B c>de>c|e/d/c/B/ c>A G>CE>F|D>dA>G F2E|]
+
+X:0
+T:Elizabeth's Big Coat
+G:children's song or reel
+S:Kenny Fraser
+M:C|
+L:1/8
+Q:1/2=120
+K:AMix
+f|edc2 dcBd|cA A/A/A g2fa|edc2 dcBd|egdB A2A:|
+B|c2ce dBBd|cAAf     g2fa|c2ce dBBd|egdB A2A:|
+
+X:0
+T:Rattling Roaring Willie
+G:jig
+M:9/8
+L:1/8
+Q:3/8=120
+K:GMix
+d|B2G GAG Bde|f2c AFA c2d|\
+  B2G GAG Bde|gfg B2c d2e|
+  gfg dBG Bde|f2c AFA c2e|\
+  dBd e2d Bdg|BGB AFA G2|]
+
+A mixolydian mediaeval carol:
+
+X:0
+T:Orientis Partibus
+M:6/8
+L:1/8
+Q:3/8=72
+K:DMix
+D2E F2D|E2C D3 |\
+A2A B2G|A2A F3 |
+F2E G2F|E2D F3 |\
+A2G F2D|E2C D3||
+D2E F2E|D6    |]
+
+
+Transpositions of mixolydian-mode scales:
+
+X:0
+T:Mixolydian (so) Scales
+L:1/4
+M:10/4
+K:EbMix
+"^E flat"  E2 FG AB cd e2|e2 dc BA GF E2||
+M:10/4
+K:BbMix
+"^B flat"  B2 cd ef ga b2|b2 ag fe dc B2||
+M:10/4
+K:FMix
+"^F"       F2 GA Bc de f2|f2 ed cB AG F2||
+M:10/4
+K:CMix
+"^C"       C2 DE FG AB c2|c2 BA GF ED C2||
+M:10/4
+K:GMix
+"^G"       G2 AB cd ef g2|g2 fe dc BA G2||
+M:10/4
+K:DMix
+"^D"       D2 EF GA Bc d2|d2 cB AG FE D2||
+M:10/4
+K:AMix2 
+"^A"       A2 Bc de fg a2|a2 gf ed cB A2||
+M:10/4
+K:EMix
+"^E"       E2 FG AB cd e2|e2 dc BA GF E2||
+M:10/4
+K:BMix
+"^B"       B2 cd ef ga b2|b2 ag fe dc B2|]
+
+On the chanter, it's the A-final mode, allowing tonal centres at both
+ends of the range:
+
+X:0
+T:The Mixolydian Scale (A-final) on the Pipe Chanter
+M:21/4
+L:1/4
+K:Hp
+A2 Bcdefg a2 gfedcB A2 G A2|]
+
+
+5. The Minor Mode
+== ==============
+
+The MINOR mode (sometimes called the AEOLIAN mode) is less used in
+Scottish music than any of the modes above; it occurs rather more
+often in the Highlands, but in the Lowlands it usually takes a
+different form described later.  Its home note is semitone 8, or A
+in the white-note scale; interval sequence TSTT STT.  In A, it's
+ABcdefga.  In sol-fa it's the la-mode.
+
+X:0
+T:The Minor (la) Scale
+M:10/4
+L:1/4
+K:AMin
+"_la"A2 "_ti"B "_do"c "_re"d "_mi"e "_fa"f "_so"g "_la"a2 |\
+"_la"a2 "_so"g "_fa"f "_mi"e "_re"d "_do"c "_ti"B "_la"A2|]
+
+X:0
+T:O Wha is She that Lo'es Me
+T:Morag
+G:Gaelic song, later used by Burns
+S:G.F. Graham, Popular Songs and Melodies of Scotland
+M:C
+L:1/8
+Q:1/8=100
+K:CMin
+G   |c>de>c d2 G>G|c>ed>c B>AG>G|
+     c>de>f d2 e>c|B>GF>E e2 e>f|g>ed>B c>de||
+e   |c>BG>F E>EF>G|A>FG>E C2 e
+e/c/|c>BG>F E>DF>G|A>FG>E C2 C |]
+
+X:0
+T:Logan Water
+G:Lowland ballad tune
+M:C
+L:1/8
+Q:1/4=80
+K:GMin
+d2|B2AG G3 B|FDCD F4 |B2G2  GBFG|BABc d4 |
+   e2dc d2cB|cBAG F3B|GABc  decd|B2AG G2|]
+
+X:0
+T:Chi mi na feidh air a bhealach
+T:I see the deer in the mountain pass
+G:song
+S:Angus Fraser Collection
+M:6/8
+L:1/8
+Q:3/8=80
+K:DMin
+A   |d2D    A2G|F2E D2z/A/|d2D A2G|F2G A2
+z/e/|f2e {e}d2c|A2G FGA   |d2D A2G|F2E D2||
+A   |D2D    F2G|A2A f2g   |a2g f2e|d2c ABc|
+     d2D    A2G|F2E D2z/A/|d2D A2G|F2G A2
+z/e/|f2e    d2c|A2G FGA   |d2D A2G|F2E D2|]
+
+X:0
+T:Rowing from Islay to Uist
+G:rowing song
+M:6/8
+L:1/8
+Q:3/8=88
+K:BMin
+F|B2B d2e|c2B c2e|B2B f2f|   gfe f2c|
+  d2d e2d|c2B c2e|gfe f2c|[1 d2B AB:|\
+                          [2 B2c d2||
+A|F2F F2E|F2F d2e|c2B A2F|   E2D E2G|
+  F2F F2E|F2F d2e|c2B A2c|   B3- B2:|
+
+X:0
+T:John Bain's Sister's Wedding
+N:originally an 18th century Gaelic song, often used as a jig
+M:6/8
+L:1/8
+K:AMin
+e|c2A AAA|agf e2d|c2A AAA|d2c B2d|
+  c2A AAA|agf e2d|c2A BGB|A3  A2:|
+e|A2B c2c|d2c cBc|d2c Bcd|e2A A2e|
+  f2g agf|e2d c2a|c2A BGB|A3  A2:|
+
+X:0
+T:The Inverness Fiddler
+G:strathspey
+N:Named by GS's son George MacLennan; possibly derived
+N:from a tune played by A.A. Cameron on the fiddle
+C:Pipe Major George S. McLennan
+S:Gordon Highlanders Pipe Music Collection volume II
+B:NLS Mus.D.s.19
+M:C
+L:1/8
+Q:1/4=112
+K:BMin
+B2 B>c d>e f>g|a>f e>d c>B A>c|B2 B>c d>e f>g|a>f e>c B2 f2:|
+B2 B>c d>e f>d|c>B A>B c>d e>c|B2 B>c d>e f>g|a>f e>c B2 f2:|
+
+X:0
+T:John Roy Stuart
+G:strathspey
+S:Kerr's Merry Melodies book 2
+M:C
+L:1/8
+Q:1/4=124
+K:DMin
+ f|c>BA>G F>GA>B|c<FA>F       c<FA<f|
+   c>BA>G F>GA>F|D<dd>c       d2d  :|
+ f|c>df>g a>fg>a|f<c d/c/B/A/ f<cc>f|
+[1 c>df>g a>fg>a|d<ag>f       d2d  :|
+[2 a>fg>e f>de>c|A<dd>c       d2d  |]
+
+X:0
+T:Miss Gordon of Gight
+G:reel
+C:Isaac Cooper
+G:fiddle reel, early 1780s
+M:C|
+L:1/8
+Q:1/2=100
+N:often played much slower these days; there's nothing
+N:in the original published version to suggest that
+K:CMin
+G,CEG cgec|BdBG FDB,D|CEGE DFBG|FDB,D C/C/C C2:|
+egbg  agfe|defg fdBf |egbg agfe|dBfd  c/c/c c2 |
+egbg  agfe|defg fdBf |gfed cdec|BGFD  EC    C2|]
+
+This is a very old example, a chant-like Gaelic harp tune first printed
+in the 18th century but possibly 200 years older:
+
+X:0
+T:the Terror of Death
+S:Daniel Dow, Ancient Scottish Music
+T:s eagal leam a mbas
+C:by Rorie Dall
+M:3/4
+L:1/8
+Q:1/4=100
+K:AMin
+d|d>c (d/c/d/e/) f2|eAAA A2|dGGG  G2| cFFF          F2|
+  GFEE           E2|DEFG A2|G3   EDC|(C/D/E/F/) A A,3 |
+  d>c (d/c/d/e/) f2|adaa a2|gcgg  g2| agff          f2|
+  gfee           e2|defg a2|g3   edc|(c/d/e/g/) a A2 ||
+A-| AG        A/B/c/B/ A2|GAcA             G2             |(FGAG)           F2|
+({F}E2)   ({G}F2)      A2|G2F2             E2             | DA,           D3 E|
+   (F/D/E/C/) D3        A|A2   (A/G/F/E/) (D/E/F/G/)      | A2            E2E2|
+   (E/F/G/F/) E2       E2|F>GFE          (3D/E/F/ (3G/A/B/| c2            G2G2|
+    GAcA               G2|FGAB             c2             | GFEE            E2|
+    DEFG               A2|G3              EDC             | C/D/ (3E/G/A/ A,3|]
+
+A familiar hymn tune (possibly mediaeval words, but the tune
+can't be traced to before 1853, so it's not as old as it seems):
+
+X:0
+T:Veni, Veni, Emmanuel
+M:4/4
+L:1/4
+Q:1/4=120
+K:AMin
+A|c e e e|d f e d|c3 \
+d|e c A c|d B A G|A3
+d|d A A B|c c B A|G3 \
+c|d e e e|d f e d|c3    ||
+g|g3    e|e3    e|d f e d|[M:6/4] c d e c A c|[M:4/4] d B A G|A3 |]
+
+Transpositions of minor-mode scales:
+
+X:0
+T:Minor (la) Scales
+L:1/4
+M:10/4
+K:FMin
+"^F"       F2 GA Bc de f2|f2 ed cB AG F2||
+M:10/4
+K:CMin
+"^C"       C2 DE FG AB c2|c2 BA GF ED C2||
+M:10/4
+K:GMin
+"^G"       G2 AB cd ef g2|g2 fe dc BA G2||
+M:10/4
+K:DMin
+"^D"       D2 EF GA Bc d2|d2 cB AG FE D2||
+M:10/4
+K:AMin
+"^A"       A2 Bc de fg a2|a2 gf ed cB A2||
+M:10/4
+K:EMin
+"^E"       E2 FG AB cd e2|e2 dc BA GF E2||
+M:10/4
+K:BMin
+"^B"       B2 cd ef ga b2|b2 ag fe dc B2||
+M:10/4
+K:F#Min
+"^F sharp" F2 GA Bc de f2|f2 ed cB AG F2||
+M:10/4
+K:C#Min
+"^C sharp" C2 DE FG AB c2|c2 BA GF ED C2|]
+
+The minor mode is the B-final mode on the pipes.
+
+X:0
+T:The Minor Scale (B-final) on the Pipe Chanter
+M:20/4
+L:1/4
+K:AMix
+B2 cdefgagfedc B2 AGA B2|]
+
+Pipe tunes that use all seven notes of the minor scale are unusual,
+and not many pipe tunes sound like this one, an adaptation of a
+Lowland lament from the 18th century, "Frenet Ha":
+
+X:0
+T:Dark Lowers the Night
+C:P.-M. J. Mackay
+S:Scots Guards pipe tune book
+G:retreat march
+M:3/4
+L:1/8
+Q:1/4=76
+K:BMin
+d>c B2 B>c|d>e f2 f2|ga  f2 e>d|cB c4     |
+d>c B2 B>c|d>e f2 f2|ga  f2 f>e|dc c<B B2:|
+a>g f2 f2 |g2  a2 a2|a>g f2 e>d|cB c4     |
+d>c B2 B>c|d>e f2 f2|ga  f2 f>e|dc c<B B2:|
+
+while this one is a pipe adaptation of a Gaelic song adaptation of
+a Northumbrian tune:
+
+X:0
+T:The Mist-Covered Mountains
+T:Chi Mi na Mor-Bheanna
+T:Hush, Hush
+N:based on the English song "Oh dear what can the matter be"
+G:slow march
+M:6/8
+L:1/8
+Q:3/8=50
+K:BMin
+B3 B3|f2f  f>ec|A3   A3  |c>Bc B>AB|
+d3 e3|f>ga c>BA|B>cf e>dc|B3   B3 :|
+f3 f3|e>fa f>ec|A2A  e2c |f2f  e>dc|
+d3 e3|f>ga c>BA|B>cf e>dc|B3   B3 :|
+
+
+6. The Phrygian Mode
+== =================
+
+The PHRYGIAN mode is the white-note scale starting on E; interval sequence
+STTT STT.  In A it's A_Bcdefga.  It is very rare in Scottish music, mainly
+occurring in street cries and work songs.  In sol-fa it's the mi-mode.
+
+X:0
+T:The Phrygian (mi) Scale
+M:10/4
+L:1/4
+K:EPhr
+"_mi"E2 "_fa"F "_so"G "_la"A "_ti"B "_do"c "_re"d "_mi"e2 |\
+"_mi"e2 "_re"d "_do"c "_ti"B "_la"A "_so"G "_fa"F "_mi"E2|]
+
+Here are the only examples I can find from Scotland that are not
+primitive chants:
+
+X:0
+T:The Dhu Hill
+S:Kerr's Merry Melodies
+G:jig, sometimes played slowly
+M:6/8
+L:1/8
+Q:3/8=104
+K:F#Phr
+F2A cdc|BAG Bcd|c2c fed|   cBc F3 :|
+cBc ABc|dcd B3 |cBc f2f|   cAF F3 :|
+f2d dcB|ABG FGA|B2B cBc|[1 d3  A2A:|\
+                        [2 dcB ABG|]
+
+X:0
+T:Haud Awa Hame
+S:Kerr's Merry Melodies
+G:jig
+M:6/8
+L:1/8
+K:F#Phr
+f|cfg f2e|faf ecA|cfe f2e|cBA f3 |
+  cfg f2e|faf ecA|ABA Bcd|cBA f2:|
+d|cBA ABA|cBA Bcd|cBA ABc|cBc f3 |
+  cBA ABA|cBA Bcd|cfa fed|cBA f2:|
+
+It is fairly common in Spanish music, like this Sephardic song from
+Andalusia:
+
+X:0
+T:Tres morillas me enamoran
+N:15th century Spanish
+B:Cancionero Musical, Madrid 1928
+M:2/4
+L:1/8
+Q:1/4=100
+K:BPhr
+  Be|dB GA|BA GF |E2 EF|G A<B A|B4-   |B2||
+  Be|dB GA|Bc B2-|B2 Be|dB   GA|Bc B2-|B2
+|:Be|dB GA|BA GF |E2 EF|G A<B A|B4-   |B2:|
+
+This is an example from Giresun, on the Black Sea coast of Turkey:
+
+X:0
+T:Karsilama
+S:T. Hakki Karahasan, Yoresel Turk Halk Oyunlari, 2003
+M:9/8
+L:1/8
+K:BPhr
+BA Bc de ddc|de dc BA B3:|
+B2 e2 eg e2d|de dc BA B3:|
+Bd cB A2 cBA|GF G2 BA B3 |
+Bd cB A2 cBA|GF G2 BA B3:|
+
+This is part of a piece of Turkish art music from the early 20th century:
+
+X:0
+T:Kurdilihijazkar Saz Semaisi (intro and refrain)
+N:next section is in saba makam, not representable in ABC
+C:Tatyos Efendi
+N:there are many versions of this on YouTube
+M:10/8
+L:1/16
+Q:5/8=44
+K:DPhr
+D4  d2 dedc BABc  d4  z2|d2e2g2 f3e  d3c     cBBA B2 |
+F3B Ac B3d  cBce  d2c2B2|B3g fe d3c  BABc    d4   z2||
+e2d2c2 B3A  GFGA  B4  z2|A2B2d2 c3A  BABG    A4   z2 |
+D4  B2 A3G  G>BAG G4  z2|FGABAG FAGF FEED [1 FGABcd :|\
+                                          [2 D4   z2|]
+
+And a Lebanese song, originally from a film score, which has become a
+nostalgic anthem for Palestinians and other Arab refugees everywhere:
+
+X:0
+T:Nassam 'alayna al-Hawa
+T:ABCDACDAB
+C:Fayruz
+M:2/4
+L:1/8
+Q:1/4=120
+P:ABCDACDAB
+K:A Phrygian
+P:A
+GA BA |A4       |GA BA |A4      |cd ec |Bc  dB  |AB   cB  |A4      |
+BA GF |E3   F/G/|AG FE |D3  E/F/|GF ED |CB, A,G,|A,B, CB, |A,4    ||
+P:B
+A2 B2 |A2 G2    |A2 B2 |A2 G2   |A2 B2 |cd  dc  |cB   BA  |A4      |
+AG AB |G2 F2    |G2 A2 |FE D2   |GF FE |ED  DC  |CB,  B,A,|A,4    ||
+P:C
+A4    |A2 D2    |BG AF |G4      |G2 G2 |G2  D2  |AF   GE  |F4      |
+EF GF |FE ED    |DE FE |ED DC   |CD ED |DC  CB, |CB,  B,G,|A,4    ||
+P:D
+E2 E2 |E2 ED    |E2 DC |B,A, A,2|F2 FE |FE  FE  |G2   FE  |DC  B,A,|
+G2 G^F|G2 G^F   |G4    |FE   D2 |A2 A2-|A4      |G4       |c4      |
+Bc B2 |A4       |A2 A2-|A4      |AG GF |FE  ED  |DC   CB, |CB, A,2|]
+
+This is a folk hymn from Hungary, originally a folk song in
+a different mode, but perhaps modified under the influence
+of Catholic chant:
+
+X:0
+T:Holy Virgin Mary, lovely lily stalk
+B:Balint Sarosi, Gypsy Music
+M:none
+L:1/8
+Q:1/4=50
+K:EPhr
+AA  Bc   BA (AG3)|BA GF      E4 |
+AA  Bc   BA (AG) |BA GF      E4 |
+ED (AB)  G4      |ED A(A/B/) G4 |
+AB (cB) (Ac)     |BA G6         |\
+                  BA GF      E4|]
+
+
+Transpositions of Phrygian mode scales:
+
+X:0
+T:Phrygian (mi) Scales
+L:1/4
+M:10/4
+K:CPhr
+"^C"       C2 DE FG AB c2|c2 BA GF ED C2||
+M:10/4
+K:GPhr
+"^G"       G2 AB cd ef g2|g2 fe dc BA G2||
+M:10/4
+K:DPhr
+"^D"       D2 EF GA Bc d2|d2 cB AG FE D2||
+M:10/4
+K:APhr
+"^A"       A2 Bc de fg a2|a2 gf ed cB A2||
+M:10/4
+K:EPhr
+"^E"       E2 FG AB cd e2|e2 dc BA GF E2||
+M:10/4
+K:BPhr
+"^B"       B2 cd ef ga b2|b2 ag fe dc B2||
+M:10/4
+K:F#Phr
+"^F sharp" F2 GA Bc de f2|f2 ed cB AG F2||
+M:10/4
+K:C#Phr
+"^C sharp" C2 DE FG AB c2|c2 BA GF ED C2||
+M:10/4
+K:G#Phr
+"^G sharp" G2 AB cd ef g2|g2 fe dc BA G2|]
+
+On the pipe chanter this would be the F mode, but no pipe music uses it.
+
+
+7. The Lydian and Locrian Modes
+== ============================
+
+Two other modes named by theorists are the LYDIAN and LOCRIAN modes (the
+white-note scales beginning on F and B respectively).  The Locrian mode
+was never used in practice (or even mentioned in theory) in the Middle
+Ages, and has no relevance at all to Scottish music - it seems to have been
+a 19th century invention by somebody with an engineer's mentality who saw
+you could do it on the piano.  The Lydian mode was used in some Gregorian
+chant (perhaps less than the written sources suggest, as some of it might
+have become major in performance) and occurs in some Scandinavian music.
+It has a sort of theoretical existence in Scottish music, as it helps
+describe other, much more common, modes.  Its interval pattern is TTTS TTS;
+in A it's AB^c^de^f^ga.  In sol-fa it's the fa-mode.
+
+X:0
+T:The Lydian (fa) Scale
+M:10/4
+L:1/4
+K:FLyd
+"_fa"F2 "_so"G "_la"A "_ti"B "_do"c "_re"d "_mi"e "_fa"f2 |\
+"_fa"f2 "_mi"e "_re"d "_do"c "_ti"B "_la"A "_so"G "_fa"F2|]
+
+The next tune is the *only* traditional Scottish Lydian tune I know of
+(though its ending suggests E dorian).
+
+X:0
+T:The Bob of Fettercairn
+G:reel
+S:Kerr's MM v1 p24
+M:C
+L:1/8
+Q:1/2=104
+K:GLyd
+Bc||dBGB dBGB|dBdg f2df|ecAc ecAc|edef gage |
+    dBGB dBGB|dBdg f2df|afge fdgB|AABd e2eg||
+    dgBg dgBg|dgBg f2df|eaca eaca|edef gage |
+    dgBg dgBg|dgBg f2df|afge fdgB|AABd e2eg|]
+
+though it has a relative which seems to be partially derived from it as
+the result of a fiddler's memory lapse mixing two tunes up:
+
+X:0
+T:The Braes of Glenorchy
+G:reel
+S:McGlashan, A Collection of Strathspey Reels
+N:(pencil note) The Mason's Apron
+M:C|
+L:1/8
+Q:1/2=104
+K:GMix
+(c|B>A)GA GAGE  |D>EG>A  B2(A>G)| c(AA>B) ABAG | AGAB      c2Ad|
+   BGGA   G>AGE |DEGA    B2 AG  | ABcd    e>deg| G/G/G B>A G3 ||
+(c|B>G)dG B>Gd>G|BGdG    B2 Gd  |^cAeA   ^fAeA |^cAeA     Tc2Ad|
+   BGdG   eGdG  |D>EG>A TB2 AG  | ABcd    edeg | G/G/G BG  G2 |]
+
+This pipe march is possibly Lydian, but the fourth only occurs in
+inconspicuous places:
+
+X:0
+T:Morair Sim
+T:Lord Simon
+N:regimental march of the Lovat Scouts, believed to date from 1715
+M:2/4
+L:1/8
+K:GLyd
+G>G GB|AG  AB|G>G GB |dB g2 |
+G>G GB|AG  AB|e>d B>c|dB g2:|
+d>e ge|ae  ge|d>e ge |ae g2 |
+d>e ge|ae  gf|e>d B>c|dB g2 |
+d>e ge|ae  gf|d>e ge |ae g2 |
+d>e ge|a>g fa|e>d B>c|dB g2|]
+
+This mediaeval Latin hymn from the then-Norse culture of Orkney is in
+the Lydian mode.  It's famous as one of the earliest known tunes to be
+harmonized in thirds.
+
+X:0
+T:Hymn to Saint Magnus
+T:Nobilis, humilis
+S:Davidson & Apel, Historical Anthology of Music
+M:C
+L:1/4
+Q:1/4=84
+V:1
+V:2
+K:FLyd
+[V:1] A c B2    |A c  B2  |A c B    d|A c     B2   |
+[V:2] F A G2    |F A  G2  |F A G    B|F A     G2   |
+%
+[V:1] A c B2    |A c  B2  |A c B    d|c d/e/ (e d)||
+[V:2] F A G2    |F A  G2  |F A G    B|A c    (c d)||
+%
+[V:1] e c B c   |A F (G A)|G A A    G|F3        z  |
+[V:2] c A G A   |F F (E F)|G F E/D/ E|F3        z  |
+%
+[V:1] A c c B/c/|A F (G A)|G A A    G|F4          |]
+[V:2] F A A G/A/|F F (E F)|G F E/D/ E|F4          |]
+
+Lydian mode would be the G-mode on the pipes, but it's impractical; the G's
+are not tuned so as to have any sort of reasonable harmonic relationship
+with other notes on the chanter, and are not even exactly an octave apart,
+so the G-mode is only used for a few desperate efforts at arranging non-pipe
+music which is actually in the major with an essential melody note above the
+octave.  Locrian mode would be the C-final mode, but the C on the chanter is
+the most strangely tuned of all, with no other note having any detectable
+harmonic relationship to it, so even if the Locrian mode had any musical
+reality in Scottish music, the Highland pipes couldn't play it.
+
+This Bosnian tune may just possibly be considered as Locrian, apart from
+the sixth (D) occasionally being sharpened:
+
+X:0
+T:U lijepom starom gradu Visegradu
+S:Huws Jones & Velagic, Sevdah: Traditional Music from Bosnia, 1997
+M:2/4
+L:1/8
+Q:1/4=104
+K:F#Loc
+P:Intro
+{D^D}EB     c/B/A/G/|   FG    A2   |\
+     B,A    B/A/G/F/|   EE/F/ G>B, |
+     E^D/E/ FE/F/   |   GF/G/ AG/F/|\
+     AG/F/  EF/G/   |[1 F2    z2  :|\
+                     [2 F4-        |F2 z2||
+P:Verse
+EB BB|c2    B2|[M:3/4] AG  GA GA/G/|[M:2/4] F4-|F2z2|
+EB BB|c2    B2|[M:3/4] A>B cd c2   |[M:2/4] B4-|B2z2|
+EB BB|c2    B2|[M:3/4] AG  GA GA/G/|[M:2/4] F4-|F2z2|
+AA AA|B/A/G G2|[M:3/4] GA  AG F2   |[M:2/4] F4-|F2z2|
+AA AA|B/A/G G2|[M:3/4] GA  AG F2   |[M:2/4] F4-|F4 |]
+
+X:0
+T:Lydian (fa) Scales
+L:1/4
+M:10/4
+K:DbLyd
+"^D flat"  D2 EF GA Bc d2|d2 cB AG FE D2||
+M:10/4
+K:AbLyd
+"^A flat"  A2 Bc de fg a2|a2 gf ed cB A2||
+M:10/4
+K:EbLyd
+"^E flat"  E2 FG AB cd e2|e2 dc BA GF E2||
+M:10/4
+K:BbLyd
+"^B flat"  B2 cd ef ga b2|b2 ag fe dc B2||
+M:10/4
+K:FLyd
+"^F"       F2 GA Bc de f2|f2 ed cB AG F2||
+M:10/4
+K:CLyd
+"^C"       C2 DE FG AB c2|c2 BA GF ED C2||
+M:10/4
+K:GLyd
+"^G"       G2 AB cd ef g2|g2 fe dc BA G2||
+M:10/4
+K:DLyd
+"^D"       D2 EF GA Bc d2|d2 cB AG FE D2||
+M:10/4
+K:ALyd
+"^A"       A2 Bc de fg a2|a2 gf ed cB A2|]
+
+
+8. Summary of the Heptatonic Modes
+== ===============================
+
+It may help to hear all these modes together, sharing a common tonal
+centre.  Listen for which note changes on each line.
+
+X:0
+T:Heptatonic Modes on A
+L:1/4
+M:10/4
+K:ALyd
+"^Lydian"     A2 Bc de fg a2|a2 gf ed cB A2||
+M:10/4
+K:A
+"^Major"      A2 Bc de fg a2|a2 gf ed cB A2||
+M:10/4
+K:AMix
+"^Mixolydian" A2 Bc de fg a2|a2 gf ed cB A2||
+M:10/4
+K:ADor
+"^Dorian"     A2 Bc de fg a2|a2 gf ed cB A2||
+M:10/4
+K:AMin
+"^Minor"      A2 Bc de fg a2|a2 gf ed cB A2||
+M:10/4
+K:APhr
+"^Phrygian"   A2 Bc de fg a2|a2 gf ed cB A2|]
+
+=============================================================================
+==  (c) Jack Campin          http://www.campin.me.uk/        October 2016  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

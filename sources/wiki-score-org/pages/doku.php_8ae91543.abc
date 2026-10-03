@@ -1,0 +1,20 @@
+X:203
+T:O Magnum Misterium
+C:D. Pedro da Esperança (?-1660)
+M:2/2
+L:1/2
+K:C
+V: 3 clef=bass name="Bayxao" sname="Bx."
+%%MIDI program 1 1
+%%staves [ 3 ]
+%------------
+Z19 !segno!|| [M:3/2] Z15 !fine!|] \
+[M:2/2] E,2|E,D,|C,>C,|C,A,,|E,2-|E,2|A,,/ A,,/> A,,/ B,,/ | C,//B,,//C,//D,// E,/ D,/ | G,,G,, | \
+C,//B,,//C,//D,//E,//D,//C,//B,,//|A,,/ A,/>G,/F,//E,// | D,/ ^C,//B,,// C,/ D,/ |  G,,/ G,/>F,/E,//D,// | \
+C,//B,,//C,//D,// E,/F,/ | E,//C,//D,//E,// A,,//B,,//C,//D,// | E,2| A,,/ A,/> A,/ B,/ | \
+C/ C,/> C,/ D,/ | E,/ E,/> E,/ F,/ | G,/ G,/> G,/ A,/ | D,/> C,/B,,//A,,// B,,/| A,,A,-| A,/F,/ G, | \
+D,2-|D,2|G,,C,-|C,/C,/ D, | A,,/B,,/C,/D,/ | E,A,,| E,2 | z/E,/> E,/ F,/ | G,/ C,/> C,/ D,/| \
+E,/ A,/>A,/A,/ | G,/>F,/E,//D,//E,/ | D,/>C,/B,,//A,,// B,,/ | A,,2 | \
+zC,/C,/ | D,/>D,/ E,/E,/ | D,D,| G,,/G,C,/ | z/F,C,/ | z/F,C,/ | z/D,A,,/ | z/ A,/>A,/A,/ | \
+E,/E,/ F,/>F,/| C,/>C,/ D,/>D,/| A,,A,, | E,2- | !fermata!E,2 !segno! |]\
+%------------

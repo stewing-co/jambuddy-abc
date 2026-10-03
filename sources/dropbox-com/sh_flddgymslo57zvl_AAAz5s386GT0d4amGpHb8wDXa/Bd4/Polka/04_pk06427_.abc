@@ -1,0 +1,44 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Polka FBb (pk06427) ABCDC
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.147 (pk06427) orig. F,Bb
+T: Basel - Repertoire der 'Dorfmusik Binningen. S.118-139
+T:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+%%partsbox
+P:ABCDC
+R:Polka
+M:4/4
+L:1/8
+K:F %%MIDI gchordon
+[P:A] {/d}"F"c>=B c2.f2.a2 | "C7".a2.g2!>!b4 | {/d}c>=B c2 .e2.g2 | "F".g2.f2 !>!a4 | {/B}A>GA2 .c2.f2 | {/e}"Dm"d>^cd2 .f2.a2 | 
+("C"gc')e2"G7"fa=B2 | "C"c2c2c2z2 || [P:B] "C7"cd ef ga bg | "F".d'2!>!c'4 ba | ("C7"ab)e2 {/f}e>^de2 | ("F"fa)c2 {/d}c>=Bc2 | 
+"C7"cd ef ga bg | "F".d'2!>!c'4 ba | ("C7"bd')!>!e2cde2 | "F"f2f2f2z2 || [P:C] [K:Bb] "Bb"dd dd dd cd | "Cm".f2.e2!>!e3d | 
+"F7"d2cB.A2.c2 | "Bb"c'2 (bg)f3e | dd dd dd cd |  "Cm"f2.e2!>!e3d | "F7"d2(cB) Ae dc | "Bb"B2B2B2"_Fine"z2 |] [P:D] [K:F] "F"a2gfe2f2 | 
+c6(dc) | ("C7"cB Ge)c2cc | "F"dc Afc2cc | a2gfe2f2 | c6(dc) | ("C7"cB Ge) (cb ag) | "F"f2f2e2"_>Teil C""F7"_e2 || 
+W:
+W:Anmerkung H.C.: Benken 3, Muttenz kl. 10
+% pk06427
+% Dez 9, 2016
+
+X:2
+T:Polka CF 5- (pk06427)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.147 (pk06427) orig. F,Bb
+S:Basel - Repertoire der 'Dorfmusik Binningen. S.118-139
+S:Überliefert durch Jakob Lüscher-Müller
+%%MIDI program 21
+R:Polka
+M:4/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+{/A}"C"G>^F G2.c2.e2 | "G7".e2.d2!>!f4 | {/A}G>^F G2 .B2.d2 | "C".d2.c2 !>!e4 | {/F}E>DE2 .G2.c2 | {/B}"Am"A>^GA2 .c2.e2 | 
+("G"dg)B2"D7"ce^F2 | "G"G2G2G2z2 || "G7"GA Bc de fd | "C".a2!>!g4 fe | ("G7"ef)B2 {/c}B>^AB2 | ("C"ce)G2 {/A}G>^FG2 | 
+"G7"GA Bc de fd | "C".a2!>!g4 fe | ("G7"fa)!>!B2GAB2 | "C"c2c2c2z2 || [K:Fmaj] "F"AA AA AA GA | "Gm".c2.B2!>!B3A | 
+"C7"A2GF.E2.G2 | "F"g2 (fd)c3B | AA AA AA GA | "Gm"c2.B2!>!B3A | "C7"A2(GF) EB AG | "F"F2F2F2"_Fine"z2 |] [K:Cmaj] "C"e2dcB2c2 | 
+G6(AG) | ("G7"GF DB)G2GG | "C"AG EcG2GG | e2dcB2c2 | G6(AG) | ("G7"GF DB) (Gf ed) | "C"c2c2B2"_>Teil C""C7"_B2 || 
+W:Parts: ABCDC
+% pk06427
+% Dez 9, 2016

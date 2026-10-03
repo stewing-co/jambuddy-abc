@@ -1,0 +1,85 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Mazurka  CF
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: Das Repertoire der B\"abi-Musig, Alpnach. S.62-108. S.77 (mz09070) orig. C,F
+T: \"Uberliefert durch Josef B\"abi, Alpnach, 1880
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+"C"E>Gc2G>c | "G7"B2B>ag2 | F>GB2Gd | "C"c2cag2 | E>Gc2Gc | "F"A2Aba2 | "G7"g>^f =f>d A>B | "C"c2c2z2 :| 
+"Am"e>e c>e A>e | "E7"B>eE4 | e>e d>e B>e | "Am"c>eE4 | e>e c>eA2 | "G#0"f>f d>fB2 | "Am"a^g ac' "E7"e'g | "Am"a2^g2"_>Teil A""G7"=g2 || [K:F] 
+|: "F"f2f2f2 | "C7"fe GB (!>!e2 | e)d GB (!>!d2 | "F"d)c FA c2 | "Fm/Ab"f2f2f2 | "C/G"fe Gc!>!e2 | "G7"ed G=B (d2 | "C"d)c EGc2 |  
+"Dm"f2f2f2 | "Gm"fe GB (!>!e2 | "C7"e)d GB (!>!d2 | "F"d)c FA c2 | f2f2f2 | "Bb"ed GB (d2 | "C7"d)^c =cB AG | "F"F2f2z2 :| 
+W: Parts: ABAC
+% mz09070
+X:2
+T:Mazurka  GC 5-
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"B,>DG2D>G | "D7"F2F>ed2 | C>DF2DA | "G"G2Ged2 | B,>DG2DG | "C"E2Efe2 | "D7"d>^c =c>A E>F | "G"G2G2z2 :| 
+"Em"B>B G>B E>B | "B7"F>BB,4 | B>B A>B F>B | "Em"G>BB,4 | B>B G>BE2 | "D#0"c>c A>cF2 | "Em"e^d eg "B7"bd | "Em"e2^d2"_>Teil A""D7"=d2 || [K:C] 
+|: "C"c2c2c2 | "G7"cB DF (!>!B2 | B)A DF (!>!A2 | "C"A)G CE G2 | "Cm/Eb"c2c2c2 | "G/D"cB DG!>!B2 | "D7"BA D^F (A2 | "G"A)G B,DG2 | 
+"Am"c2c2c2 | "Dm"cB DF (!>!B2 | "G7"B)A DF (!>!A2 | "C"A)G CE G2 | c2c2c2 | "F"BA DF (A2 | "G7"A)^G =GF ED | "C"C2c2z2 :| 
+W: Parts: ABAC
+% mz09070
+X:3
+T:Mazurka  CF (5letras transposed)
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"E>Gc2G>c | "G7"B2B>ag2 | F>GB2Gd | "C"c2cag2 | E>Gc2Gc | "F"A2Aba2 | "G7"g>^f =f>d A>B | "C"c2c2z2 :| 
+"Am"e>e c>e A>e | "E7"B>eE4 | e>e d>e B>e | "Am"c>eE4 | e>e c>eA2 | "G#0"f>f d>fB2 | "Am"a^g ac' "E7"e'g | "Am"a2^g2"_>Teil A""G7"=g2 || [K:F] 
+|: "F"f2f2f2 | "C7"fe GB (!>!e2 | e)d GB (!>!d2 | "F"d)c FA c2 | "Fm/Ab"f2f2f2 | "C/G"fe Gc!>!e2 | "G7"ed G=B (d2 | "C"d)c EGc2 |  
+"Dm"f2f2f2 | "Gm"fe GB (!>!e2 | "C7"e)d GB (!>!d2 | "F"d)c FA c2 | f2f2f2 | "Bb"ed GB (d2 | "C7"d)^c =cB AG | "F"F2f2z2 :| 
+W: Parts: ABAC
+% mz09070
+X:4
+T:Mazurka  GC (5letras transposed)
+%%MIDI program 21
+R:marzurka
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"B,>DG2D>G | "D7"F2F>ed2 | C>DF2DA | "G"G2Ged2 | B,>DG2DG | "C"E2Efe2 | "D7"d>^c =c>A E>F | "G"G2G2z2 :| 
+"Em"B>B G>B E>B | "B7"F>BB,4 | B>B A>B F>B | "Em"G>BB,4 | B>B G>BE2 | "D#0"c>c A>cF2 | "Em"e^d eg "B7"bd | "Em"e2^d2"_>Teil A""D7"=d2 || [K:C] 
+|: "C"c2c2c2 | "G7"cB DF (!>!B2 | B)A DF (!>!A2 | "C"A)G CE G2 | "Cm/Eb"c2c2c2 | "G/D"cB DG!>!B2 | "D7"BA D^F (A2 | "G"A)G B,DG2 | 
+"Am"c2c2c2 | "Dm"cB DF (!>!B2 | "G7"B)A DF (!>!A2 | "C"A)G CE G2 | c2c2c2 | "F"BA DF (A2 | "G7"A)^G =GF ED | "C"C2c2z2 :| 
+W: Parts: ABAC
+% mz09070
+X:5
+T:Mazurka A&D (tinwhistle in D)
+T:mz09070 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:marzurka
+M:3/4
+L:1/8
+K:A %%MIDI gchordon
+"A"C>EA2E>A | "E7"G2G>fe2 | D>EG2EB | "A"A2Afe2 | C>EA2EA | "D"F2Fgf2 | "E7"e>^d =d>B F>G | "A"A2A2z2 :| 
+"F#m"c>c A>c F>c | "C#7"G>cC4 | c>c B>c G>c | "F#m"A>cC4 | c>c A>cF2 | "E#0"d>d B>dG2 | "F#m"f^e fa "C#7"c'e | "F#m"f2^e2"_>Teil A""E7"=e2 || [K:D] 
+|: "D"d2d2d2 | "A7"dc EG (!>!c2 | c)B EG (!>!B2 | "D"B)A DF A2 | "Dm/F"d2d2d2 | "A/E"dc EA!>!c2 | "E7"cB E^G (B2 | "A"B)A CEA2 | 
+"Bm"d2d2d2 | "Em"dc EG (!>!c2 | "A7"c)B EG (!>!B2 | "D"B)A DF A2 | d2d2d2 | "G"cB EG (B2 | "A7"B)^A =AG FE | "D"D2d2z2 :| 
+W:Parts: ABAC
+X:6
+T:Mazurka A&D (tinwhistle in D) solo
+T:mz09070 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:marzurka
+M:3/4
+L:1/8
+K:A transpose=12
+"_=C"C>EA2E>A | "_#"G2G>fe2 | D>E"_#"G2EB | A2Afe2 | "_=C"C>EA2EA | F2F"_#"gf2 | e>^d =d>B F>"_#"G | A2A2z2 :| 
+c>c A>c F>c | "_#"G>c"_=C"C4 | c>c B>c "_#"G>c | A>c"_=C"C4 | c>c A>cF2 | d>d B>d"_#"G2 | f"_f"^e fa c'e | f2"_(>Teil A)"^e2=e2 ||
+"_=C"C>EA2E>A | "_#"G2G>fe2 | D>E"_#"G2EB | A2Afe2 | "_=C"C>EA2EA | F2F"_#"gf2 | e>^d =d>B F>"_#"G | A2A2z2 :|  [K:D] 
+|: d2d2d2 | dc EG (!>!c2 | c)B EG (!>!B2 | B)A DF A2 | d2d2d2 | dc EA!>!c2 | cB E^G (B2 | B)A "_=C"CEA2 | 
+d2d2d2 | dc EG (!>!c2 | c)B EG (!>!B2 | B)A DF A2 | d2d2d2 | cB EG (B2 | B)^A =AG FE | D2d2z2 :|
+W:(Parts: ABAC)
+% Aug. 12, 2016

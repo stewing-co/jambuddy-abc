@@ -1,0 +1,250 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:V. Shall I strive with wordes to move,
+T:CANTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on first line
+K:E min
+|:G > F E  F G > A | B4
+w: Shall I strive with wordes to move, 
+w: Griefe a- las though all in vaine,
+z d | ^c > B A G F E | B6 |
+w: when deedes re- ceive not due re- gard?
+w: her rest- lesse an- guish must re- veale:
+B > ^c d3 A | B3 A G2 |
+w: Shall I speake, and ney- ther please, 
+w: Shee a- lone my wound shall know,
+A > G F E F2 | E6 :|
+w: nor be free- ly * heard?
+w: Though she will not * heale.
+|: F4 G2 | G2 E2 
+w: All woes have end, 
+w: Stormes calme at last, 
+A2 | A A2 G F E F6 |
+w: though a while  de- * laid, *
+w: and why may not * shee  * 
+G4 A2 | B2 c4 | "(1)"B8 - B4 ||
+w: our pa- tience pro- ving. *
+w: leave  off her frow- ning? *
+B6 - | B B A4 | G4
+w: O * that times strange ef- fects 
+w: O * sweet Love, help her hands
+ G2 | G4 B B | d3 d c B | B4 A2 B8-B4 :|
+w: could but make, but make her lo- * ving. *
+w: my af- fe- cti- * on crown- * ing. *
+|:z B d2 A2 | 
+w: I woo'd her, 
+z A c2 G2 |
+w: I lov'd her,
+z B A G G F | G6 |
+w: and non but her ad- mire.
+B2 A2 G2 | F2 
+w: O come deare joy, 
+z B ( c > B | A ) G F E F2 HE6 :|
+w: and an- * * swere my de- * sire.
+
+X:2
+T:V. Shall I strive with wordes to move,
+T:ALTUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on second line
+K:E min
+|:E > E E E E E ^D4
+w: Shall I strive with wordes to move, 
+w: Griefe a- las though all in vaine,
+z B A > G F E ^D E ^D6
+w: when deedes re- ceive not due re- gard?
+w: her rest- lesse an- guish must re- veale:
+F2 F G2 F G3 F E2 
+w: Shall I speake, and ney- ther please, 
+w: Shee a- lone my wound shall know,
+E E ^D E2 ^D E6 :|
+w: nor be free- * ly heard?
+w: Though she will * not heale.
+|:D2 B,4 D2 D2 
+w: All woes have end, 
+w: Stormes calme at last, 
+^C C D4 D2 D6
+w: though a while de- laid,
+w: and why may not shee leave
+E4 E2 D2 A4 D8-D4
+w: our pa- tience pro- ving. *
+w:  off her frow- ning? *
+G3 F E D E2 E2 ^D2 E3 E D > C B, > A, G,2
+w: O * * that * times, * strange  times, strange ef- fects, ef- fects
+w: O * * sweet * Love, * help Love, help her hands, her hands
+z D2 G2 B A2 G3 F E2 ^D8-D4 :|
+w: could but make, her lo- * * ving. *
+w: my af- fe- ction crown- * * ing. *
+|:F2 F2 F2 
+w: I woo'd her, 
+E2 D2 E 
+w: I lov'd her,
+E G > F E D E D2 C B, A, B,2
+w: and none * * but * her ad- * mire. *
+z G2 F2 E ^D2
+w: O come deare joy, 
+z D A > G F > E ^D E2 ^D HE6 :|
+w: and an- swere, an- swere my de- * sire.
+
+
+
+X:3
+T:V. Shall I strive with wordes to move,
+T:TENOR.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+% %%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+N:Original clef, C on fourth line
+%%MIDI transpose -12
+K:E min -8va
+|:B > A G A B G F4
+w: Shall I strive with wordes to move, 
+w: Griefe a- las though all in vaine,
+z F F > G A B B G F6
+w: when deedes re- ceive not due re- gard?
+w: her rest- lesse an- guish must re- veale:
+d > c B G d3 d D2
+w: Shall I speake, and ney- ther please, 
+w: Shee a- lone my wound shall know,
+z E2 A2 G F B ^G6 :|
+w: nor be free- * ly heard?
+w: Though she will * not heale.
+|:B2 ^d2 B4 A2 
+w: All woes have end, 
+w: Stormes calme at last, 
+E E F > G A B A2 A6
+w: though a while, a while de- * laid, 
+w: and why may, why may not * shee  leave
+B c2 B A G G4 F2 G8 - G4
+w: our pa- tience, pa- tience pro- * ving. *
+w:  off, leave off  her frow- * ning? *
+D2 G A B3 G A2 F2 B4 z e2 B2 c d2 
+w: O, O that times, that times strange, strange times, strange ef- fects 
+w: O, O sweet Love, sweet Love help, help Love, help her hands
+F B2 G E A "(2)"D2 E4 F8 - F4 :|
+w: could make her, could make her lo- ving. *
+w: my, my af- fe- cti- on crown- ing. *
+N:(2) Original is a quarter note.
+|:d2 B d2 A2
+w: I, I woo'd her, 
+z A c2 G
+w: I lov'd her,
+ B  d c B A > G G6
+w: and none but her ad- * mire.
+d2 d2 B3 F 
+w: O come deare joy, 
+G2 F E z E B G A F H^G6 :|
+w: and an- swere, and an- swere my de- sire.
+
+
+
+X:4
+T:V. Shall I strive with wordes to move,
+T:BASSUS.
+C: John Dowland
+B: db: -c 4 -b 13
+H: From A Pilgrimes Solace.
+H: Wherein is contained Musicall 
+H: Harmonie of 3. 4. and 5. parts,
+H: To be sung and plaid with the Lute and Viols.
+H: First published in 1612
+L:1/4
+M:3/2
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+%%MIDI gchordoff
+%%LY voices \property Voice.Slur \set #'dashed = #1
+%%LY voices \property Staff.automaticMelismata = ##f
+%%MIDI transpose -24
+K:E min bass
+|: e > e e e e e B4
+w: Shall I strive with wordes to move, 
+w: Griefe a- las though all in vaine,
+z B B >B B B B B B6
+w: when deedes re- ceive not due re- gard?
+w: her rest- lesse an- guish must re- veale:
+B B B > c d2 G3 G c3/2
+w: Shall I speake, and * ney- ther please, 
+w: Shee a- lone my * wound shall know,
+B/ A A B3 B E6 :|
+w: nor * be free- ly heard?
+w: Though * she will not heale.
+|:B4 G2 G2 A2 
+w: All woes have end, 
+w: Stormes calme at last, 
+A A D4 D2 D6
+w: though a while de- laid,
+w: and why may not shee 
+e3 d c2 B2 A4 G8 - G4
+w: our pa- ti- ence pro- ving. *
+w: leave  off * her frow- ning? *
+G6 g2 f4 e4 e2 e3
+w: O that times strange ef- fects 
+w: O sweet Love, help her hands
+e d c B2 G2 A2 "(2)"B2 c4 B8 - B4 :|
+w: could * but make her,  make her lo- ving. *
+w: my * af- fe- ction crown- ing, crown- ing. *
+N:(2) Original is a quarter note.
+|: B2 z B d2 A2
+w: I, I woo'd her, 
+z A c2 G3/2 
+w: I lov'd her,
+G/ A B c d G6
+w: and none but her ad- mire.
+G2 d2 e2 B2
+w: O come deare joy, 
+G2 A2 A2 B2 B2 E6 :|
+w: and an- swere my de- sire.

@@ -1,0 +1,53 @@
+X:508
+T:Agnus Dei
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:6/8
+L:1/8
+K:F
+V: 8 clef=tenor name="Tenore" sname="T."
+%%MIDI program 1 1
+%%staves [[ 8 ]]
+%------------------
+[Q:"Largetto"] !p! A,2A, !>!B,3 | A,2A, A, A, A, | B, B, B, B,2 D | E ^C z \
+w: A-gnus De-i qui tol-lis pec-ca-ta pec-ca-ta mun-di
+!>!B,2B, | A,2A,!>!B,3 | A,2zz2z | \
+!p! F,2A,(C2^C) | D2=C =B, B, C | =B,2C B, B, B, | C2C(A,2G,) | G,2zz2z | z \
+!p! C C A,2=B, | C C z z2z | Z3 | \
+!f! ^C2C C C C | ^C C C C2C | ^C C !f! C C2 C | D D D ^C2D | ^C C D C2 D | ^C3!fermata!C3 || \
+w: A-gnus De-i qui tol-lis  pec-ca-ta mun-di pec-ca-ta mun-di pec-ca-ta mun-di pec-ca-ta mun-di
+% fol.182
+[Q:"Allegro"][K:F][M:C|][L:1/4|] !f! F,> G, (A,/B,/) (C/D/) | E2Ez | \
+w: do-na no--bis_ pa-cem
+!p! DDCB, | A,2A,z | \
+w: do-na no-bis pa-cem
+!f! G,G,F,F | ED^Cz | \
+w: do-na no-bis pa--cem
+!>!=C2C2 | D2Dz | \
+w: do-na no-bis
+!f!CCCC | D2Dz | \
+w: do-na no-bis pa-cem
+!>!B,2B,2 | C2Cz | \
+w: do-na no-bis
+!f! B,B,B,B, | D2Dz | \
+w: do-na no-bis pa-cem
+!f! FFDD | F4 | E4 | Fzz2 | Z | z\
+w: do-na no-bis pa--cemw
+!f! D2C | B,2A,2 | A,G,ED | C2B,2 | A,A,!f!A,A, | A,2A,z | z2\
+w: do-na no-bis pa-cem do-na no-bis pa-cem do-na no-bis
+!f! G,G, | G,G,G,2 | G,zz2 | Z |\
+w: do-na no-bis pa-cem
+!p! FFFF | E4 | Fzz2 | Z3 | \
+w: do-na no-bis pa-cem
+!p! C2^C2 | D2=B,2 | C4 | ^C4 | Dzz2 | \
+w: do-na no-bis pa--cem
+!f! DDDD | F4 | E4 | Fz \
+w: do-na no-bis pa--cem
+!p! A,A, | A,2 A,2| B,4- | B,4 | A,z \
+w: do-na no-bis pa--cem
+!p! A,A, | A,2 A,2| B,4- | B,4 | A,z \
+w: do-na no-bis pa--cem
+!p! A,A, | A,2 A,2| _B,4- | _B,4 | A,z \
+w: do-na no-bis pa--cem
+!p! A,A, | A,2 A,2| B,4- | B,4 | A,zz2 | Z5 |] \
+w: do-na no-bis pa--cem
+%------------------

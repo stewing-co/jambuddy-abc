@@ -1,0 +1,95 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+
+X:1
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:XIX. I should for griefe & anguish.
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/4
+K: C
+T:Cantus
+N:Original clef, C on first line
+   C2 G >   G   A      B   c2  B2 z A > G G2 ^F G2 z C F > F \\
+w: I should for greife and an- guish dye re- cure - les, I should for
+w:1
+  G      _B  A2 G F > E E/ D1/4 C1/4 D2 E C G > G A B c2 \\
+w:greife and an- guish dye re- cure - *  _ les, I should for greife and an-
+w:2
+   B2 z  \
+w:guish 
+w:3
+A > G  G2 ^F   G2 z C F > F G _B A2 G F > E E/ D/4 C/4 D2 "A"E2 z c B A d > c B/ A/ B/ G/ \
+w:dye re- cure - les, I should for greif and an- guish dye re- cure - * _ less. that day I mist my Flo -  ra _
+A c2 B A2 B B > A B A2 G2 ^F A c2 B A2 ^G A2 z d > c d c A \
+w:faire and _ sight- ly, cleer- er then is the Sunne, that shines so bright - ly. Cleer- er than is the
+w:4
+B/ A/ B/ G/ A C B G A2 G2 z c B G2 A > G G2 ^F G2 z F E C D2 "B"C2 z c B A d > c \
+w:sunne _ that _ shines _ so _ bright- ly, that shines so bright -  _ _ ly. that shines so bright- ly.  That day I mist my
+w:5
+  B/  A/ B/ G/ A    c2  B A2 B       B > A      B   A2 G2 ^F      A    c2     B A2 ^G      A2 z d >    c  d    c  A \
+w:Flo -  ra _ faire and _ sight- ly, cleer- er then is the sunne, that shines so bright -  ly.  Cleer- er then is the
+w:6
+B/ A/ B/ G/ A c B G A2 G2 z c B G2 A > G  G2 ^F G2 z F E C D2 HE4 |]
+w:Sunne _ _ _ _ that shines so bright- ly.  that shines so bright -  _ _ ly. that shines so bright- ly.
+w:7
+
+
+X:2 
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:XIX. I should for griefe & anguish.
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/4
+K: C
+T:Tenor
+%%MIDI transpose -12
+N:Original clef, C on third line, so this is a tenor G clef, sounding an octave lower than written
+K:C -8va
+z2 G2 d > d e ^f g2 d f e c d2 G G c > c \
+w: I should for greife and an- guish dye re -  cure- les, I should for
+w:1
+  d      f   e   d     c   A    B/   c/ d > c c2 B c2 z G d > d e ^f g2 \
+w:greife and an- guish dye re-  cure _  _   _ _  _ les, I should for greife and an-
+w:2
+  d     f   e    c d2   G    G c > c      d     f   e   d     c   A   B/ c/ d > c c2 B "A"c     c    B   A d > c   B    A \
+w:guish dye re- _  cure les, I should for greif and an- guish dye re- cure _ _  _ _  _ less, that day I mist my Flo-  ra 
+w:3
+G g ^f/ g/ a > g g2 ^f g g > ^f g d f e2 d2 z A d f e2 A d > c d \
+w:faire  my Flo- ra faire and  sight -  ly, cleer- er then is the Sunne, _ that shines so bright- ly. Cleer- er than 
+w:4
+K:C -8va
+   B G   A2      G    g2     ^f  g2      d    d   B      G  A2      G2 z c   B      G  A2      G2   G   d >     c c2      B "B"c    c    B   A \
+w:is the sunne  that  shines so  bright- ly, that shines so bright- ly. That shines so bright- ly. That shines so bright - ly.  That day I 
+w:5
+  d > c   B    A    G    g  ^f/ g/  a >   g   g2 ^f    g   g >   ^f  g    d  f   e2 d2 z   A   d      f \
+w:mist my Flo- ra faire  my Flo- ra faire and sight - ly, cleer- er then is the sunne, _ that shines so 
+w:6
+e2 A d > c d B G A2 G g2 ^f g2 d d B G A2 G2 z c B G A2 G2 G \
+w:bright- ly.  Cleer- er then is the Sunne that shines so bright- ly.  that shines so bright- ly. that shines so bright- ly. That
+w:7
+d > c c2 B Hc4 |]
+w:shines so bright -  ly.
+w:8
+
+

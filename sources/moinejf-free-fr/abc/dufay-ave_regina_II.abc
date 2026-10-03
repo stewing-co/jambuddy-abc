@@ -1,0 +1,203 @@
+% Ave_Regina_Coelorum.abc   -*- abc -*-
+
+% Rewritten in ABC by Jean-François Moine (http://moinejf.free.fr)
+
+%%topspace       0cm
+%%topmargin      1cm
+%%botmargin      0cm
+%%leftmargin     1cm
+%%rightmargin    1cm
+%%titlespace     0cm
+%%titlefont      Times-Bold 24
+%%musicspace     0.2cm
+%%measurenb      0
+X:2
+T:Ave Regina Coelorum II
+C:Guillaume Dufay (1400 ca. - 1474)
+M:none
+L:1/4
+Q:1/4=110
+%%MIDI program 73 % flute
+V:2 treble-8
+V:3 treble-8
+%%staves [1 2 3]
+% use "%%ss-pref K%" for keyboard
+%Kstaves {1 *2 3}
+%Kabc V:2 shift=cC
+%Kabc V:3 bass shift=cC,
+%Kwritefields w 0
+%Kstaffsep       20pt
+%Ksysstaffsep    20pt
+K:C
+% M0
+V:1
+!stemless!G!stemless!F!stemless!E!stemless!F!stemless!D!stemless!E!stemless!G\
+%%setbarnb 1
+|\
+w:A---ve**
+V:2
+"^Tenor"x6x|\
+w:
+V:3
+"^Contra"x6x|\
+w:
+% M1
+V:1
+[M:o]G3|AB>A|B/c/d/BA/|B3|zB2|AB>A|cz/B/c/d/-|
+w:Re-gi--------na cae-lo-------
+V:2
+[M:o]g2e|fg>f|g/e/d/gf/|g2z|g>fd|cd2|ce>d|
+w:Re--gi--------na cae---lo-----
+V:3
+[M:o]G2c|AGz/d/|G/A/B/G/d|G3-|G2G|AG2|z/AG/A/B/|
+w:Re--gi--------na_*******
+% M8
+V:1
+d/B/G/A/>F/G/|A/c/B/G/E/^F/|G3|zzG|FE2|DE/DG/|F/B/A/GF/|GzG|
+w:------------rum, A-ve*********** Do-
+V:2
+ge/c/d/B/|cd/B/A|G3-|G3|A2c|BGB/c/|dc/B/A|G2c-|
+w:---------rum,** A--------ve Do--
+V:3
+Gc/A/B/G/|F/A/G/d^c/|d2z|ed2|c2A|z/f/gf/e/|d/Gdc/|d2e-|
+w:**********rum, A------------ve*
+%M16
+V:1
+A>Bc/d/|BA>G|B3-|BB2|A2B-|Bc2|BA>G|G/F//G//A/E/F/>D/|
+w:mi-------na* an-ge----lo---------
+V:2
+cd2|dc>B|G3-|Gg2|f2g-|ge2|d2c|BA2|
+w:--mi---na* an-ge----lo---rum,
+V:3
+ef2|fe>d|dz/gf/|dG2|d2G|GA2|z/fd/e|dc>B|
+w:-- Do--mi-na an--ge----lo--------
+%M24
+V:1
+G3|z3|GA/BA/|B/cd/B/G/|AB2|zd>c|BA>G|
+w:rum, Sal----------ve Ra--dix**
+V:2
+G3-|G3|z3|z3|z3|z3|z3|
+w:**
+V:3
+dze/>d/|g>fd|c/e/f/g/>e/f/|d/c/B//A//Gc/-|c/f/e/d/g/>f/|dzG/A/|GF2|
+w:rum, Sal---------------ve******** Ra--dix*
+%M31
+V:1
+GF/A/B/c/-|c/d/>c/B/A|G3|zzG|E>DF|G/AF/E|DzD-|D/EF/G|
+w:san----------cta, Ex qua*******mun-----
+V:2
+z3|z3|G3|c2e/f/|g>fd|cA/d/c/>B/|dG>B-|B/c/AG/B/|
+w:Ex-- qua****mun-------------
+V:3
+G/BA/d/e/|f/d/g/gf/|gd2|e>cc|z3|z3|z3|z3|
+w:***san-------ta.****
+%M:39
+V:1
+A/c/B/G/A|G2z|G2A-|AB2|c>Bc/A/|B/c/dG/A//B//-|B//A//c/B/G/>F/E/|D/F/G/A/G//c/d//|
+w:-----do lux est** or------------------------
+V:2
+A/F/G/E/^F|G3|c3-|cd2|ce>f|g>fe/d/-|d/c/ec|z/d/c/A/c/B/|
+w:-----do lux** est** or-------------
+V:3
+z3|zd2|e2c|AG2|AzA|G2G|z/gc/e/g/|f/>d/e/f/e/>d/|
+w:lux** est** or-------------
+%M:47
+V:1
+B/A/>G/GF/|G4|[M:C|]G4B2AB|cd2c|d4|z2c2-|c2B2|
+w:-----ta. Gau-------de Glo---
+V:2
+G/F/G/B/A|G4|[M:C|]g4|g2fg|afe2|d4|f3e|c2d2-|
+w:-----ta. Gaude******* Glo-ri-o--
+V:3
+d2c|d4|[M:C|]G4-|G2d2|zdA2|B2G2|d2A2-|A2G2|
+w:--ta. Gaude********* Glo-
+%M:55
+V:1
+A2cB|G2FG|AB>Ac-|c/A/Bcd|BD>^FF/E/|G4|z4|G3A-|
+w:ri-o-------------------sa Super*
+V:2
+dcA2|BcAG|zg2a|fged-|dBA2|G4|A2B2|c4-|
+w:---------------sa* Super**
+V:3
+F4|G2cd-|dG2F|AGAB|Gdc>B|d4|c2G2|e4|
+w:-ri------------o--sa Su---
+%M:63
+V:1
+AGE2|FDFE|GA2F|E2D2|z2DE-|EFG2|AB2A|
+w:*********** om--------
+V:2
+c4|d3c|e>fd2|c2d2|GB2c|A2Gc-|cgef-|
+w:******** om-------nes**
+V:3
+e2g2|zfde|c2d2|A2BG|d2fe|c2dc/e/-|e/f/eg/f/d|
+w:--------per** om------------
+%M:70
+V:1
+cBG2|z2G2|ABcd-|dGAB|c2FG|ABGA-|A/G/G2^F|G4|
+w:nes** spe-ci-----------------o--sa,
+V:2
+fg2e|c4|zdef|g2cd|ef2B|cdec|dBA2|G4|
+w:**** spe-ci---o------------sa,
+V:3
+AG2g|age2|d2z2|z4|z4|z4|z4|d4|
+w:---nes.*** Va-
+%M:78
+V:1
+z4|z4|z4|z4|z4|z4|z4|
+w:
+V:2
+dedg-|gfge-|ed2c|d2cA|B2A2-|A2G2|AGBc|
+w:Va-----------------le****
+V:3
+G2B2|A2G2|AFE2|D2z2|G2F2-|F2GB|cd2e|
+w:----------------
+%M:85
+V:1
+z4|z4|z4|z4|G4|A2B2|c2Bc|
+w:va------
+V:2
+d2ed|Bcd2|GBA2|G4|c4|c2d2|e4|
+w:********** val----
+V:3
+dBcd-|defd-|dgf/fe/|g4|e2c2|A2G2|zAGA|
+w:-------------le val-------
+%M:92
+V:1
+dB2A|B4|z2d2-|dcB2|A4|G2A2|G4|
+w:---le val---de de-co--
+V:2
+d2ef|g3f|d4|g3d-|dc2A|B2G2|cde2|
+w:de**** de------co-----
+V:3
+BG2d|G4-|G4|z2G2|de2f|d>ce2|e2c2|
+w:---de* de--co-------
+%M:99
+V:1
+A2BcA>G|B4|[M:o]B3|AG/c/B/A/|c2B/d/-|d/c/Ac/B/|G3|zAG/A/|
+w:-----ra. Et pro no------------bis sem---
+V:2
+fd2c2B|G4|[M:o]dg2|fed|c2g-|gf2|e3-|ez/d/e/f/|
+w:----ra. Et pro** nobis****** sem---
+V:3
+zf2e2d|g>fd2|[M:o]G2G|def|g2G|GdA/B/|c3-|cd/f/e/d/-|
+w:-----ra. Et pro nobis********** sem----
+%M:107
+V:1
+B/cB/c/d/-|d/cGF/|G/AF/G|D/E/F/G/>F/D/|ED>G|
+w:-------per*********** Chri---
+V:2
+g/e/dc/B/|dGB/A/|B/c/AG/B/-|B/c/d/e/c/d/-|d/c/dB/A/|
+w:-----per* Chri------------------
+V:3
+d/c/GA/G/-|GdG/c/|d/e/c/>B/d|f/e/d/cB/|AB/Gd/-|
+w:-------------per Chri---------
+%M:112
+V:1
+F/E/G2|AB>A|c2B|GA2|GH^F2|G4|]
+w:--stum ex** o------ra.
+V:2
+AGc-|cd2|ced|Bc2|BA2|G4|]
+w:stum**** ex* o-----ra.
+V:3
+d/c/de|zf>e|g2G-|GF2|GD2|d4|]
+w:--stum* ex* o------ra.

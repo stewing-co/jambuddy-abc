@@ -1,0 +1,72 @@
+I:abc-charset utf-8
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Mastralia alla veglia (Polka)  F  (ABA)
+T:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.304 (pk02078) orig. F
+T: Graubünden. Gla Genua, Sent. S.299-329. Überliefert vermutlich durch Nott Caviezel
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+%%partsbox
+P:ABA
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+C2 [P:A] |: ("F"FEFG AGAB) | (c=Bcd cdc_B) | (AGAB ABAF) | ("C7"GAGF) E2DC | ("F"FEFG AGAB) | 
+(c=Bcd cdc_B) | AGAB ABAF |1 "C7"G4z2C2  :|2 "C7"G4z2EF [P:B] |: G2c2 B2G2 | "F"AcAG FAFG | 
+FEFG AcAF | "C7"GAGE C2EF | G2c2 B2G2 | "F"AcAG FEFG | AcAF "C7"GBGE |1 "F"F4 z2EF :|2 "F"F4"_>Teil A"z4 |] 
+W:Parts: ABA
+W:mastralia - Landsgemeinde; alla veglia - altmodisch, auf alte Art und Weise (old-fashioned, in old fashion)
+% pk02078  (Oct 4, 2016)
+
+X:2
+T:Mastralia alla veglia (Polka)  F  (pk02078)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.304 (pk02078) orig. F
+O:Switzerland
+%%MIDI program 21
+%%abc-charset utf-8
+R:polka
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+C2 |: ("F"FEFG AGAB) | (c=Bcd cdc_B) | (AGAB ABAF) | ("C7"GAGF) E2DC | ("F"FEFG AGAB) | 
+(c=Bcd cdc_B) | AGAB ABAF |1 "C7"G4z2C2  :|2 "C7""_Fine"G4z2EF |: G2c2 B2G2 | "F"AcAG FAFG | 
+FEFG AcAF | "C7"GAGE C2EF | G2c2 B2G2 | "F"AcAG FEFG | AcAF "C7"GBGE |1 "F"F4 z2EF :|2 "F"F4"_>Teil A"z4 |] 
+W:Parts: ABA
+% pk02078  (Oct 4, 2016)
+
+X:3
+T:Mastralia alla veglia (Polka)  C 7+  (pk02078)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.304 (pk02078) orig. F
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:polka
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+G2 |: ("C"cBcd edef) | (g^fga gag=f) | (edef efec) | ("G7"dedc) B2AG | ("C"cBcd edef) | 
+(g^fga gag=f) | edef efec |1 "G7"d4z2G2 :|2 "G7""_Fine"d4z2Bc |: d2g2 f2d2 | "C"eged cecd | 
+cBcd egec | "G7"dedB G2Bc | d2g2 f2d2 | "C"eged cBcd | egec "G7"dfdB |1 "C"c4 z2Bc :|2 "C"c4"_>Teil A"z4 |] 
+W:Parts: ABA
+% pk02078  (Oct 4, 2016)
+
+X:4
+T:Mastralia alla veglia (Polka)  G 2+  (pk02078)
+B:Hanny Christen. Bd.II  St. Gallen II, Graubünden, Tessin. S.304 (pk02078) orig. F
+O:Switzerland
+%%MIDI program 21
+%abc-charset utf-8
+R:polka
+M:2/4
+L:1/16
+K:G%%MIDI gchordon
+D2 |: ("G"GFGA BABc) | (d^cde ded=c) | (BABc BcBG) | ("D7"ABAG) F2ED | ("G"GFGA BABc) | 
+(d^cde ded=c) | BABc BcBG |1 "D7"A4z2D2 :|2 "D7""_Fine"A4z2FG |: A2d2 c2A2 | "G"BdBA GBGA | 
+GFGA BdBG | "D7"ABAF D2FG | A2d2 c2A2 | "G"BdBA GFGA | BdBG "D7"AcAF |1 "G"G4 z2FG :|2 "G"G4"_>Teil A"z4 |] 
+W:Parts: ABA
+% pk02078  (Oct 4, 2016)

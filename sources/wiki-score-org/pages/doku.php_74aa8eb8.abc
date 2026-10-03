@@ -1,0 +1,22 @@
+X:1913
+T:Scena 5.a [Euridice]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:Eb
+V: 13 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 13 ]
+%---------------------------------------------
+[Q:"Allegro"] "^[Assuming 'C=' bass, pls check]"E>B, E/B,/E/G/ | E/B,/E/G/  E/B,/E/G/ | \
+!/!F,2F,!fermata!z | F>B, F/B,/F/A/ | F/B,/F/A/ F/B,/F/A/ | !/!G,2G,!fermata!z | \
+"^[Ve = ok hereupon]" z2z G & !//! C4 | FBAG & !//! C4 | GBAx & !//! C2Cz | \
+z2z F & !//! B,4 | EAGF & !//! B,4 | EFEz & !//! B,2 B,z | !//!=A4 | \
+"_['C=' again]" B/B,/B,/B,/!/!B,2 | !/!B,4|(B,DEB,) | E2 z2 | Z | F/B,/F/A/ F/B,/F/B/ | \
+!/! F2 F z | D z z2 | z2  !///!E E/z/ || \
+[Q:"Adagio"] "^[Andantino? ;Check]" !f! !p! G4 | G zz2 | !f!!p! G4- | G zz2 || \
+[Q:"Presto"] C/c/G/=E/ C z | F,/F/C/=A,/ D, z | _E,/E/C/=A,/ E, z | \
+D,/D/_B,/F,/ D, z || [Q:"Adagio"] z2 z/E,//G,// =B,/C/ | \
+z/E,//G,// =B,/C/ !fermata! "_Cantabile (?)" z D | \
+E z A, z | !p! G,2-G, "^Cavatina" z ||
+%---------------------------------------------

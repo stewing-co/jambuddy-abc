@@ -1,0 +1,20 @@
+X:1107
+T:N.15 Mais lento
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 7 clef=bass name="" sname=""
+%%MIDI program 1 1
+%%staves [{ 7 }]
+%----------- edit between the lines ------------
+[Q:"Mais lento, tranquilo"] \
+!p! [A,,,A,,] > E,, | [A,,,A,,] > E,, | [B,,,B,,] > E,, || \
+!p! "^m.s." z// [I:staff -1]  (C/8E/8 A//) (c/8e/8 a/)  z/ | z//(C/8E/8 A//) (c/8e/8 a/)  z/ | \
+z// (D///F/// _B//) (d///f/// a/) x/ | z// (c///e/// a//) z// x | [I:staff +1] Z || \
+[K:D] [M:4/8] z// "_[check ms] "(D,,///F,,/// A,,//) (F,,///A,,/// B,,//) (A,,///B,,/// D,//) (B,,///D,/// | \
+F,//) z// z/ z/ A,,/ | A,,,> A,, | C, !fermata! A,, | A,,> F,, | A,,,> A,,| A,,,>A,, | \
+C, !fermata! A,,| A,,> A,, | D,, (!>!F,,/>F,,/) | \
+E,, > A,, | A,,, C,, | D,,>  A,,| D,, (F,,/>F,,/) | \
+E,, > !fermata! z | A,,, !fermata! z ||
+%-----------------------------------------------

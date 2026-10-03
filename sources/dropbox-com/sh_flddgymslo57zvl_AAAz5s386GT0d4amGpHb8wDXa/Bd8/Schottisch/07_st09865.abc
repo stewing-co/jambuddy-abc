@@ -1,0 +1,92 @@
+%%partsbox
+X: 1
+T: Schottisch FCBb chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.193 (wz09881) orig. F,C,Bb-Dur
+T: Tänze aus Hasle (Luzern)
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"a2gf "Bb"egfd | "F"c2A2 F3d | "C7"c2B2 G3d | "F"c2A2 F3c |\
+ a2gf "Bb"egfd | "F"c2A2 F3d | "C7"c2B2 G3e | "F"f2f2 f2z2 :| 
+[K:C] "G7"g2gg agfd | "C"e2c'2 g3e | "G7"f2d'2 b2a2 | "C"g2e'2 d'c'ba |\
+ "G7"g2gg agfd | "C"e2c'2 g3e | "F"a2c'2 "G7"b2d'2 | "C"c'4"_> Teil A"_B'4 |]
+[K:Bb] |:  "Bb"d2d2 BFBd | f2f2 d2ed | "F7"c2FA c2dc | "Bb"B2BG F4 |\
+ d2d2 BFBd | f2f2 d2ed | "F7"c2FA c2d2 |1 "Bb"B2B2 B2z2 :|2 
+"Bb"B2B2 B2cc |: [K:F] "C7"c2b2 a2g2 | "F"f2cd c2f2 | "C7"e2cd c2g2 | "F"f2cd c2c2 |\
+ "C7"c2b2 a2g2 | "F"f2cd c2f2 | "C7"e2cd c2g2 | "F"f4"_> Teil C"_e4 |] 
+
+X: 2
+T: Schottisch FCBb chords parts
+P:ABACDC  % Fine?
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+[P:A] "F"a2gf "Bb"egfd | "F"c2A2 F3d | "C7"c2B2 G3d | "F"c2A2 F3c |\
+ a2gf "Bb"egfd | "F"c2A2 F3d | "C7"c2B2 G3e | "F"f2f2 f2z2 :| 
+[P:B] [K:C] "G7"g2gg agfd | "C"e2c'2 g3e | "G7"f2d'2 b2a2 | "C"g2e'2 d'c'ba |\
+ "G7"g2gg agfd | "C"e2c'2 g3e | "F"a2c'2 "G7"b2d'2 | "C"c'4"_> Teil A"_B'4 |]
+[P:C] [K:Bb] |:  "Bb"d2d2 BFBd | f2f2 d2ed | "F7"c2FA c2dc | "Bb"B2BG F4 |\
+ d2d2 BFBd | f2f2 d2ed | "F7"c2FA c2d2 |1 "Bb"B2B2 B2z2 :|2 
+"Bb"B2B2 B2cc |: [P:D] [K:F] "C7"c2b2 a2g2 | "F"f2cd c2f2 | "C7"e2cd c2g2 | "F"f2cd c2c2 |\
+ "C7"c2b2 a2g2 | "F"f2cd c2f2 | "C7"e2cd c2g2 | "F"f4"_> Teil C"_e4 |] 
+
+X: 3
+T: Schottisch FCBb parts
+P:ABACDC  % Fine?
+M:2/4
+L:1/16
+K:F 
+[P:A] "F"a2gf "Bb"egfd | "F"c2A2 F3d | "C7"c2B2 G3d | "F"c2A2 F3c |\
+ a2gf "Bb"egfd | "F"c2A2 F3d | "C7"c2B2 G3e | "F"f2f2 f2z2 :| 
+[P:B] [K:C] "G7"g2gg agfd | "C"e2c'2 g3e | "G7"f2d'2 b2a2 | "C"g2e'2 d'c'ba |\
+ "G7"g2gg agfd | "C"e2c'2 g3e | "F"a2c'2 "G7"b2d'2 | "C"c'4"_> Teil A"_B'4 |]
+[P:C] [K:Bb] |:  "Bb"d2d2 BFBd | f2f2 d2ed | "F7"c2FA c2dc | "Bb"B2BG F4 |\
+ d2d2 BFBd | f2f2 d2ed | "F7"c2FA c2d2 |1 "Bb"B2B2 B2z2 :|2 
+"Bb"B2B2 B2cc |: [P:D] [K:F] "C7"c2b2 a2g2 | "F"f2cd c2f2 | "C7"e2cd c2g2 | "F"f2cd c2c2 |\
+ "C7"c2b2 a2g2 | "F"f2cd c2f2 | "C7"e2cd c2g2 | "F"f4"_> Teil C"_e4 |] 
+
+X:4
+T:Schottisch CGF 5- chords
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.193 (wz09881) orig. F,C,Bb-Dur
+T:Tänze aus Hasle (Luzern)
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"e2dc "F"BdcA | "C"G2E2 C3A | "G7"G2F2 D3A | "C"G2E2 C3G |\
+e2dc "F"BdcA | "C"G2E2 C3A | "G7"G2F2 D3B | "C"c2c2 c2z2 :| 
+[K:Gmaj] "D7"d2dd edcA | "G"B2g2 d3B | "D7"c2a2 f2e2 | "G"d2b2 agfe |\
+"D7"d2dd edcA | "G"B2g2 d3B | "C"e2g2 "D7"f2a2 | "G"g4"_> Teil A"=f4 |]
+[K:Fmaj] |: "F"A2A2 FCFA | c2c2 A2BA | "C7"G2CE G2AG | "F"F2FD C4 |\
+A2A2 FCFA | c2c2 A2BA | "C7"G2CE G2A2 |1 "F"F2F2 F2z2 :|2 
+"F"F2F2 F2GG |: [K:Cmaj] "G7"G2f2 e2d2 | "C"c2GA G2c2 | "G7"B2GA G2d2 | "C"c2GA G2G2 |\
+"G7"G2f2 e2d2 | "C"c2GA G2c2 | "G7"B2GA G2d2 | "C"c4"_> Teil C"_B4 |] 
+
+X:5
+T:Schottisch CGF chords parts
+P:ABACDC  % Fine?
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+[P:A] "C"e2dc "F"BdcA | "C"G2E2 C3A | "G7"G2F2 D3A | "C"G2E2 C3G |\
+e2dc "F"BdcA | "C"G2E2 C3A | "G7"G2F2 D3B | "C"c2c2 c2z2 :| 
+[P:B] [K:Gmaj] "D7"d2dd edcA | "G"B2g2 d3B | "D7"c2a2 f2e2 | "G"d2b2 agfe |\
+"D7"d2dd edcA | "G"B2g2 d3B | "C"e2g2 "D7"f2a2 | "G"g4"_> Teil A"=f4 |]
+[P:C] [K:Fmaj] |: "F"A2A2 FCFA | c2c2 A2BA | "C7"G2CE G2AG | "F"F2FD C4 |\
+A2A2 FCFA | c2c2 A2BA | "C7"G2CE G2A2 |1 "F"F2F2 F2z2 :|2 
+"F"F2F2 F2GG |: [P:D] [K:Cmaj] "G7"G2f2 e2d2 | "C"c2GA G2c2 | "G7"B2GA G2d2 | "C"c2GA G2G2 |\
+"G7"G2f2 e2d2 | "C"c2GA G2c2 | "G7"B2GA G2d2 | "C"c4"_> Teil C"_B4 |] 
+
+X:6
+T:Schottisch CGF 5- Anm
+% P:ABACDC  % Fine?
+M:2/4
+L:1/16
+K:Cmaj
+"C"e2dc "F"BdcA | "C"G2E2 C3A | "G7"G2F2 D3A | "C"G2E2 C3G |\
+e2dc "F"BdcA | "C"G2E2 C3A | "G7"G2F2 D3B | "C"c2c2 c2z2 :| 
+[K:Gmaj] "D7""_d"d2dd "_e"e"_d"d"_c"c"_ a ="A | "G"B2g2 d3B | "D7""_c"c2"_a"a2 "_#"f2"_e"e2 | "G""_d"d2"_h"b2 ag"_#"f"_e"e |\
+"D7""_d"d2dd "_e"ed"_c"c"_ a ="A | "G"B2g2 d3B | "C"e2g2 "D7""_#"f2"_a"a2 | "G"g4"_> Teil A"=f4 |]
+[K:Fmaj] |: "F"A2A2 FCFA | c2c2 A2"_b""_?"BA | "C7"G2CE G2AG | "F"F2FD C4 |\
+A2A2 FCFA | c2c2 A2"_b"BA | "C7"G2CE G2A2 |1 "F"F2F2 F2z2 :|2 
+"F"F2F2 F2GG |: [K:Cmaj] "G7"G2f2 e2d2 | "C"c2GA G2c2 | "G7"B2GA G2d2 | "C"c2GA G2G2 |\
+"G7"G2f2 e2d2 | "C"c2GA G2c2 | "G7"B2GA G2d2 | "C"c4"_> Teil C"_B4 |] 

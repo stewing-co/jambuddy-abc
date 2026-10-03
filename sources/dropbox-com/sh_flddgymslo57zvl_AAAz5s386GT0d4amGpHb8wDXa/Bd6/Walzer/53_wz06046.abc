@@ -1,0 +1,110 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Liebeslieder-Walzer  GC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.317 (wz06046) orig. G,C-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+"G"d3 | e2B | (d3 | d)DB | "D7"A3 | d2A | "G"B2G | DGB | d3 | "A7"e2g | 
+("D"f3 | f) df | "A7"e2g | f2e | "D"d>dd |1 "D7"zdd :|2 "D"dzd/e/ || "D7"d.c'.c' | c'/b/ a/g/ f/e/ | "tr""G"e.d.d | 
+"G".d!>!e>B | "D7"c.f.f | f/g/ f/e/ d/c/ | "G"B.g.g | g G/B/ d/e/ | "D7"d.c'.c' | c'/b/ a/g/ f/e/ | "tr""G"e.d.d | 
+d2 d/^d/ | "C"e2 a/g/ | f(ef) | "G"g>gg | gza/g/ |: [K:C] !>!"G7"f!>!f f/e/ | !>!d!>!d d/c/ | B/c/ dB | 
+GzG ||"C"e3 | e2e | ("G7"d3 | d)de | "F"f2a | "G7"a2g | ("C"e3 | e)eg | c'3 | 
+c'2c' | ("G7"b3 | b)df | "F"a3 | "G7"b2a |1 "C"g3 | gGc :|2 "G7"g/g/gB | "C"czz |]    
+W:Liebeslieder (love songs)
+X:3
+T:Liebeslieder-Walzer  CF 7-
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+"C"G3 | A2E | (G3 | G)G,E | "G7"D3 | G2D | "C"E2C | G,CE | G3 | "D7"A2c | \
+("G"B3 |
+B) GB | "D7"A2c | B2A | "G"G>GG |1 "G7"zGG :|2 "G"GzG/2A/2 || "G7"G.f.f | f/2e/2 d/2c/2 B/2A/2 |
+"tr""C"A.G.G | \
+"C".G!>!A>E | "G7"F.B.B | B/2c/2 B/2A/2 G/2F/2 | "C"E.c.c | c C/2E/2 G/2A/2 | "G7"G.f.f |
+f/2e/2 d/2c/2 B/2A/2 | "tr""C"A.G.G | \
+G2 G/2^G/2 | "F"A2 d/2c/2 | B(AB) | "C"c>cc | czd/2c/2 |: [K:F] !>!"C7"B!>!B B/2A/2 |
+!>!G!>!G G/2F/2 | E/2F/2 GE | \
+CzC ||"F"A3 | A2A | ("C7"G3 | G)GA | "Bb"B2d | "C7"d2c | ("F"A3 |
+A)Ac | f3 | \
+f2f | ("C7"e3 | e)GB | "Bb"d3 | "C7"e2d |1 "F"c3 | cCF :|2 "C7"c/2c/2cE | "F"Fzz |] 
+% wz06046
+X:2
+T:Liebeslieder-Walzer  GC (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"d3 | e2B | (d3 | d)DB | "D7"A3 | d2A | "G"B2G | DGB | d3 | "A7"e2g | \
+("D"f3 |
+ f) df | "A7"e2g | f2e | "D"d>dd |1 "D7"zdd :|2 "D"dzd/e/ || "D7"d.c'.c' | c'/b/ a/g/ f/e/ |
+ "tr""G"e.d.d | \
+.d!>!e>B | "D7"c.f.f | f/g/ f/e/ d/c/ | "G"B.g.g | g G/B/ d/e/ | "D7"d.c'.c' |
+ c'/b/ a/g/ f/e/ | "tr""G"e.d.d | \
+d2 d/^d/ | "C"e2 a/g/ | f(ef) | "G"g>gg | gza/g/ |: [K:C] !>!"G7"f!>!f f/e/ |
+ !>!d!>!d d/c/ | B/c/ dB | \
+GzG ||"C"e3 | e2e | ("G7"d3 | d)de | "F"f2a | "G7"a2g | ("C"e3 |
+ e)eg | c'3 | \
+c'2c' | ("G7"b3 | b)df | "F"a3 | "G7"b2a |1 "C"g3 | gGc :|2 "G7"g/g/gB | "C"czz |]    
+% wz06046
+X:3
+T:Liebeslieder-Walzer  CF (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"G3 | A2E | (G3 | G)G,E | "G7"D3 | G2D | "C"E2C | G,CE | G3 | "D7"A2c | \
+("G"B3 |
+B) GB | "D7"A2c | B2A | "G"G>GG |1 "G7"zGG :|2 "G"GzG/2A/2 || "G7"G.f.f | f/2e/2 d/2c/2 B/2A/2 |
+"tr""C"A.G.G | \
+.G!>!A>E | "G7"F.B.B | B/2c/2 B/2A/2 G/2F/2 | "C"E.c.c | c C/2E/2 G/2A/2 | "G7"G.f.f |
+f/2e/2 d/2c/2 B/2A/2 | "tr""C"A.G.G | \
+G2 G/2^G/2 | "F"A2 d/2c/2 | B(AB) | "C"c>cc | czd/2c/2 |: [K:F] !>!"C7"B!>!B B/2A/2 |
+!>!G!>!G G/2F/2 | E/2F/2 GE | \
+CzC ||"F"A3 | A2A | ("C7"G3 | G)GA | "Bb"B2d | "C7"d2c | ("F"A3 |
+A)Ac | f3 | \
+f2f | ("C7"e3 | e)GB | "Bb"d3 | "C7"e2d |1 "F"c3 | cCF :|2 "C7"c/2c/2cE | "F"Fzz |] 
+% wz06046
+
+X:4
+T:Liebeslieder-Walzer D&G (tinwhistle in D)
+T:wz06046 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D%%MIDI gchordon
+"D"A3 | B2F | (A3 | A)A,F | "A7"E3 | A2E | "D"F2D | A,DF | A3 | "E7"B2d | 
+("A"c3 | c) Ac | "E7"B2d | c2B | "A"A>AA |1 "A7"zAA :|2 "A"AzA/2B/2 || "A7"A.g.g | g/2f/2 e/2d/2 c/2B/2 | "tr""D"B.A.A | 
+"D".A!>!B>F | "A7"G.c.c | c/2d/2 c/2B/2 A/2G/2 | "D"F.d.d | d D/2F/2 A/2B/2 | "A7"A.g.g | g/2f/2 e/2d/2 c/2B/2 | "tr""D"B.A.A | 
+A2 A/2^A/2 | "G"B2 e/2d/2 | c(Bc) | "D"d>dd | dze/2d/2 |: [K:G] !>!"D7"c!>!c c/2B/2 | !>!A!>!A A/2G/2 | F/2G/2 AF | 
+DzD ||"G"B3 | B2B | ("D7"A3 | A)AB | "C"c2e | "D7"e2d | ("G"B3 | B)Bd | g3 | 
+g2g | ("D7"f3 | f)Ac | "C"e3 | "D7"f2e |1 "G"d3 | dDG :|2 "D7"d/2d/2dF | "G"Gzz |] 
+X:5
+T:Liebeslieder-Walzer D&G (tinwhistle in D) solo
+T:wz06046 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+A3 | B2F | (A3 | A)"_=A,"BF | E3 | A2E | F2D | "_=A,"ADF | A3 | B2d | \
+(c3 | c) Ac | B2d |
+ c2B | A>AA |1 zAA :|2 AzA/2B/2 || A.g.g | g/2f/2 e/2d/2 c/2B/2 | B.A.A | \
+.A!>!B>F | G.c.c |
+ c/2d/2 c/2B/2 A/2G/2 | F.d.d | d D/2F/2 A/2B/2 | A.g.g | g/2f/2 e/2d/2 c/2B/2 | B.A.A | 
+A2 A/2^A/2 | B2 e/2d/2 | c(Bc) | d>dd | dze/2d/2 |: [K:G] "_c"cc c/2B/2 | !>!A!>!A A/2G/2 |
+ F/2G/2 AF | \
+DzD ||B3 | B2B | (A3 | A)AB | "_c"c2e | e2d | (B3 | B)Bd | g3 | 
+g2g | (f3 | f)A"_c"c | e3 | f2e |1 d3 | dDG :|2 d/2d/2dF | Gzz |]
+% July 13, 2016
+

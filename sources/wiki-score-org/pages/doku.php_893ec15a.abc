@@ -1,0 +1,23 @@
+X:1305
+T:N.13 Solo e coro
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:C
+V: 5 clef=bass name="Cello" sname="Vc."
+%%MIDI program 1 1
+%%staves [ 5 ]
+%----------------
+[Q:"Allegretto"] !f!B,,2B,, G,,2G,, | C,2C, C,2C, | G,,2G,, G,,2G,, | (C,2G,,) (D,2G,,) | \
+(E,2G,,) (D,2G,,) | (C,2G,,) (C,2G,,) !segno!||\
+!p! "_Pizz." B,,zG,, D,zG,, | C,zG,, C,zE, | D,zG,, D,zG,, | C,zG,, C,zG,,| \
+B,,zG,, D,zG,, | C,zG,, A,,zE, | D,zD, D,zD, | (G,D,B,, G,,)zz || \
+"Arco" !f! G,,2G, G,,2G, | (C,2G,)C2G, | (D,2G,)(G,,2G,) | C,2G,C2G, | G,,2G, G,,2G, | C,2G,C2G, | \
+D,2G, G,,2G, || !p! C,2z z2z | Z4 |: \
+[Q: "1.o tempo"] !p! "_Pizz." B,,zG,, D,zG,, | C,zG,, C,zE, | D,zG,, D,zG,, | C,zG,, C,zG,,| \
+B,,zG,, D,zG,, | C,zG,, A,,zE, | D,zD, D,zD, | (G,D,B,, G,,)zz || \
+"Arco" !f! G,,2G, G,,2G, | C,2G, C2G, | D,2G, G,,2G, | C,2G,, [Q: "Lento"] D,2G,, | E,2G,, D,2G,, | C,2G,,D,2G,, | \
+E,2G,, D,2G,, | C,2G,, C,C,, z \
+"_Esta""_repeti\cc\~ao""_faz-se""_3 vezes" :| X [Q:"A tempo"] !segno!|| "_Repete" X !coda!|| \
+C,zz C,G,,E,, | C,,2z C,2z | C,,2z z2z |] \
+%----------------

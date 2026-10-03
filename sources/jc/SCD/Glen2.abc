@@ -1,0 +1,4852 @@
+%%textfont Times-Roman 24
+%%center -------------------------------
+%%center THE
+%%center GLEN COLLECTION
+%%center OF
+%%center SCOTTISH DANCE MUSIC
+%%textfont Times-Roman 18
+%%center -------------------------------
+%%center Strathspeys, Reels, and Jigs,
+%%center SELECTED from the EARLIEST PRINTED SOURCES,
+%%center or from the COMPOSER'S WORKS
+%%center -------------------------------
+%%center Arranged, with New Accompaniments for the PIANOFORTE,
+%%center by
+%%center JOHN GLEN.
+%%center Containing Biographical Sketches of Musicians and Musicsellers,
+%%center with Portraits, and a Chronological List of Works.
+%%center BOOK II ----------------------------------- ENT. STA. HALL
+%%center Edinburgh: Published at 2 North Bank Street
+%%center 1895
+%%sep 1 1 500
+%%sep 1 1 500
+
+X: 0
+T: The GLEN COLLECTION of Scottish Dance Music
+P: Book 2
+C: John Glen 1895
+N: The above text is from the frontis of the original document (in much fancier fonts).
+B: Glen Collection
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+K:
+
+%%slurgraces
+
+%%newpage
+
+%%sep 1 1 500
+
+X: 1
+T: MISS C. ELPHINSTONE
+C: DUNCAN MACINTYRE
+R: Strathepsy
+B: Glen Collection p.1 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+c2 |\
+{G}A4 E2FG AGFE A2C2 | DF3 E3C B,B,B,2 B,3d | (cde2) A2c2 defd B2d2 | ce3 B3c AAA2 A2 :|
+fg |\
+agfe c2a2 d2b2 c2a2 | A2a2 c2a2 BBB2 B2fg | agfe c2a2 d2b2 c2a2 | f2dc B2ed c2A2A2 fg |
+agfe c2a2 d2b2 c2a2 | A2a2 c2a2 fedc Bcdf | edcB A2E2 F2A2 D2f2 | ec3 a3c AAA2 A2 |]
+%
+V: 2
+z2 |\
+A4 [c'4a4e4] [c'4a4e4] [c'4a4e4] | [a4f4d4] [a4e4A4] [g4e4] [b4g4e4] |\
+A4 [c'4a4e4] B4 [b4f4d4] | e4 [d'4g4e4] [c'4a4] [a2e2A2] :|
+z2 |\
+A4 [c'4a4e4] [b4g4e4] [c'4a4e4] | A4 [c'4a4e4] E4 [b4g4e4] |\
+A4 [c'4a4e4] [b4g4e4] [c'4a4e4] | [b4f4d4] [d'4g4e4] A4 [c'4a4e4] |
+A4 [c'4a4e4] [b4g4e4] [c'4a4e4] | A4 [c'4a4e4] d4 [b4f4d4] |\
+c4 [a4e4c4] d4 [a4f4d4] | e4 [c'4a4e4] [c'4a4e4] [a2e2A2] |]
+
+%%sep 1 1 500
+
+X: 2
+T: Mrs LEITH OF GLENKENDYS
+C: R. PETRIE 2nd Coll.
+R: Reel
+B: Glen Collection p.1 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+e |\
+c/B/A EA EAcA | (d/c/B) FB FBdB | (c/B/A) EA EAcA | e/f/g ae cAA :|
+f |\
+eATc>A eAAa | fBTd>B fBBa | eATc>A eAAa | faea cAAf |
+eATc>A eAAa | fBTd>B fBBg | afge fdec | dBEe cAA |]
+%
+V: 2
+z |\
+A2 [c'2a2e2] [c'2a2e2] [c'2a2e2] | B2 [d'2b2f2] [d'2b2f2] [d'2b2f2] |\
+A2 [c'2a2e2] [c'2a2e2] [c'2a2e2] | e2 [d'2g2e2] A2 [c'ae] :| z |\
+A2 [c'2a2e2] [c'2a2e2] [c'2a2e2] | B2 [b2f2d2] [b2f2d2] [b2f2d2] |\
+A2 [c'2a2e2] [c'2a2e2] [c'2a2e2] | [d'2a2d2] [c'2a2e2] A2 [c'2a2e2] |
+A2 [c'2a2e2] [c'2a2e2] [c'2a2e2] | B2 [d'2b2f2] [d'2b2f2] [d'2b2f2] |\
+f2 c2 d2 A2 | e2 [b2g2e2] [c'2a2e2] [aeA] |]
+
+%%sep 1 1 500
+
+X: 3
+T: Mrs JAMES DUFF
+C: ISAAC COOPER
+R: Strathspey
+B: Glen Collection p.2 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: 2nd part had inital repeat symbol, but no final repeat symbol.
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+|:\
+A,>CE>A (c>d)(e>c) | (d/f/).B Tc>A B/B/B B2 |\
+A,>CE>A c>d e/f/g/a/ | e<cd>B [A2C2][A2C2] :|
+|:\
+e>ae>c d>fc>A | (B/f/).d c>A B/B/B B2 |\
+e>ae>c d>fTc>A | E>GB>G A/A/A A2 |
+e>ae>c d>fc>A | (d/f/)d c>A (B>e)(g>b) |\
+!f!(3.a.g.f !p!(3.e.d.c !f!(3.f.e.d !p!(3.c.B.A | !f!E>GB>G A/A/A [A2C2] :|
+%
+V: 2
+|:\
+A2[c'2a2] [c'2a2e2][c'2a2] | [a2f2d2][a2e2] [d'2b2e2][b2g2e2] |\
+A2[c'2a2] [c'2a2e2][c'2a2e2] | e2[b2g2e2] [a2A2][a2e2A2] :|
+|:\
+A2[c'2a2e2] [a2f2][c'2a2e2] | [a2f2d2][c'2a2e2] [d'2b2e2][b2g2e2] |\
+A2[c'2a2e2] [a2f2][a2e2] | e2[d'2g2e2] A2[c'2a2e2] |
+A2[c'2a2e2] [a2f2][c'2a2e2] | [a2f2d2][c'2a2e2] [d'2b2e2][b2g2e2] |\
+c2[a2e2] d2[b2f2] | e2[d'2g2e2] [c'2a2][a2e2A2] :|
+
+%%sep 1 1 500
+
+X: 4
+T: MISS MARGARET CAMPBELL. (of Saddell's.)
+C: R. MACKINTOSH
+R: Reel
+B: Glen Collection p.2 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+c |\
+AEcA ecae | fdec d(BBc) | AEcA ecae | fdBe cAA :|
+e |\
+(aga)e cAec | B(bba) bffg | (aga)e cAec | dfed c(AAe) |
+(aga)e cAec | B(bba) bffg | afbg afed | ceBd cAA |]
+%
+V: 2
+z |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [d'2a2d2][c'2a2e2] [b2g2e2][b2g2e2] |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [d'2a2d2][d'2g2e2] [a2e2][c'ae] :|
+e |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | B2[d'2b2f2] [d'2g2e2][d'2b2e2] |\
+[c'2a2e2][c'2a2e2] [c'2a2e2][c'2a2e2] | e2[d'2g2] A2[c'2a2] |
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | B2[d'2b2f2] [d'2g2e2][d'2b2e2] |\
+[c'2a2e2][d'2b2e2] [c'2a2e2][c'2a2e2] | [a2e2][g2e2] [a2e2A2][aeA] |]
+
+%%sep 1 1 500
+
+X: 5
+T: CROWHILLOCK.
+C: ARCHd DUFF
+R: Strathspey
+B: Glen Collection p.2 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+E2 |\
+A3BA2a2 e2c2c2e2 | E3FE2c2 dcBA G2B2 |\
+A3BA2a2 ec3c2e2 | dcBA G3B AAA2 A2 :|
+f2 |\
+a3ba2e2 c3de2c2 | d3ed2c2 B3cd2B2 |\
+a3ba2e2 c3de2c2 | dcBA G2B2 AAA2 A2f2 |
+a3ba2e2 c3de2c2 | d3ed2c2 B3cd2B2 |\
+AE3cA3 ec3ac3 | dcBA G3B AAA2 A2 |]
+%
+V: 2
+z2 |\
+A4[c'4a4e4] [c'4a4e4][c'4a4e4] | [c'4a4e4][c'4a4e4] [b4g4e4][d'4b4e4] |\
+A4[c'4a4e4] [c'4a4e4][c'4a4e4] | [b4g4e4][d'4b4e4] A4 [c'2a2e2] :|
+z2 |\
+A4[c'4a4e4] [c'4a4e4][c'4a4e4] | [b4g4e4][b4g4e4] [d'4g4e4][b4g4e4] |\
+A4[c'4a4e4] [c'4a4e4][c'4a4e4] | e4[d'4b4e4] A4[c'4a4e4] |
+A4[c'4a4e4] [c'4a4e4][c'4a4e4] | [b4g4e4][b4g4e4] [g4e4][b4g4e4] |\
+A4[a4e4] [c'4a4e4][a4e4] | e4 [d'4b4e4] [c'4a4e4][a2A2] |]
+
+%%sep 1 1 500
+
+X: 6
+T: GOODEN WELL
+C: JAMES WALKER
+R: Reel
+B: Glen Collection p.3 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+c |\
+cA A/A/A EAAc | dBcA BGGe | cA A/A/A EAAg | aefd cAA :|
+g |\
+aefd ceAc | dBcA GBBg | aefd ceAc | aefd cAAg |
+aefd ceAc | dBcA GBBe | ceAc dfeg | aefd cAA |]
+%
+V: 2
+z |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [b2g2e2][c'2a2e2] [d'2b2e2][d'2b2e2] |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [c'2a2e2][b2g2e2] [c'2a2e2][c'ae] :|
+z |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [b2g2e2][c'2a2e2] [d'2b2e2][b2g2e2] |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [c'2a2e2][b2g2e2] [c'2a2e2][c'2a2e2] |
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [b2g2e2][c'2a2e2] [d'2b2e2][b2g2e2] |\
+A2[e'2c'2a2] [d'2a2f2][d'2b2e2] | [c'2a2e2][b2g2e2] [a2e2A2-][aeA] |]
+
+%%sep 1 1 500
+
+X: 7
+T: Mr JAMES RAMSAY
+C: J. ANDERSON
+R: Strathspey
+B: Glen Collection p.3 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+|:\
+A,3Ac3A (d2B2)(c2A2) | E3A dcBA G3B TB4 | A,3Ac3A (d2B2)c2a2 | e3c BcdB (c2A2) A4 :|
+(a2g2)(a2e2) c3AE3e | (a2g2)(a2c2) (G3B) TB4 | (a2g2)(a2e2) c3ec3A | d3c Bfed (c2A2) A4 |
+{efg}a3ga3e (c2B2)(c2A2) | A,3A dcBA (G3B) TB4 | A3EC3E D3FE3c | d3c Bfed (c2A2) A4 |]
+%
+V: 2
+|:\
+[A4A,4][c'4a4e4] [b4g4e4][c'4a4e4] | [A4A,4][c'4a4e4] [e4E4][d'4g4e4] |\
+[A4A,4][c'4a4e4] [b4g4e4][c'4a4e4] | [e4E4][d'4g4e4] [a4A4] [c'4a4e4] :|
+A4[c'4a4e4] [c'4a4e4][c'4a4e4] | [a4A4][c'4a4e4] [e4E4][b4g3e4] |\
+A4[c'4a4e4] [c'4a4e4][c'4a4e4] | e4[d'4g4] A4[c'4a4] |
+A4[c'4a4e4] [a4e4][a4e4] | [e4c4][a4e4] [b4e4][g4e4] |\
+A4[a4e4] [a4f4d4][a4e4c4] | A4[g4e4] [a4e4A4][a4e4A4] |]
+
+%%sep 1 1 500
+
+X: 8
+T: THE FOX
+C: Abr: MACKINTOSH, JOHN WATLEN'S 2nd Coll.
+R: Reel
+B: Glen Collection p.3 #_
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+e |\
+cA A/A/A eAcA | eagf fedc | dB B/B/B fBdB | fefg bagf |
+eA A/A/A aAcA | efga fedc | defg abaf | ecaf e2A ||
+f |\
+eAcA cecA | aAgA fAeA | fBdB dfdB | bBaB gBfB |
+eAcA aAcA | efga fedc | defg abaf | ecaf e2[AC] |]
+%
+V: 2
+z |\
+[a2A2][c'2a2e2] [c'2a2e2][c'2a2e2] | c2[c'2a2e2] d2[b2f2d2] |\
+B2[b2f2d2] [b2f2d2][b2f2d2] | d2[a2f2] e2[d'2b2] |
+[c'2a2e2][c'2a2e2] [c'2a2e2][c'2a2e2] | a2[c'2a2e2] d2[a2f2] |\
+B2[b2f2d2] c2d2 | e2[c'2a2] A2[c'ae] ||
+z |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | A2[c'2a2e2] [c'2a2e2][c'2a2e2] |\
+[d2D2][b2f2d2] [b2f2d2][b2f2d2] | [e2E2][d'2g2e2] [d'2g2e2][d'2g2e2] |
+[a2A2][c'2a2e2] [c'2a2e2][c'2a2e2] | a2[e'2c'2] d2[a2f2] |\
+B2[b2f2d2] c2d2 | e2[c'2a2] [c'2a2][aeA] |]
+
+%%sep 1 1 500
+
+X: 9
+T: MISS JEAN STEWART
+C: Wm MARSHALL
+R: Strathspey
+B: Glen Collection p.4 #_
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+|: CA,3 Ac3 B3A F4 | AE3Ac3 e3f ec3 | d3e fedc dcBA F4 |1 AE3FE3 A2E2A2c2 :|2 (A3B)c3B AE3Ac3 ||
+|: e3fe2c2 dcBA F4 | (e3f)e2c2 ea3ec3 | d3e fedc dcBA TF4 |1 (AE3)FE3 A2E2c2A2 :|2 (A3B)c3B AE3Ac3 |]
+%
+V: 2
+|:\
+A4[c'4a4e4] [d'4a4f4][d'4a4f4] | [c'4a4e4][c'4a4e4] [c'4a4e4][c'4a4e4] |\
+B4[b4f4] d4[a4f4] |1 c4[c'4a4e4] A4[c'4a4e4] :|2 c4[a4e4] A4[c'4a4e4] ||
+|:\
+A4[c'4a4e4] [d'4a4f4][d'4a4f4] | [c'4a4][c'4a4] [c'4a4][c'4a4] |\
+B4[b4f4] d4[a4f4] |1 c4[c'4a4e4] A4[c'4a4e4] :|2 c4[a4e4] "_Ped."A4[c'4a4e4] |]
+
+%%sep 1 1 500
+
+X: 10
+T: Mrs GRAY OF QUEBEC
+C: JOHN CLARK
+R: Reel
+B: Glen Collection p.4 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+E |\
+a2(ed) c2(Ac) | dcBA GBBe | a2ed c2Ac | BAGB A/A/A A :|
+B |\
+cAea dBgb | ceac BGFE | (CE).A.c (df).B.A | GA B/c/d/B/ cAAB |
+cAea dBgb | ceac BGFE | CEAc DFBF | dBGB A/A/A A |]
+%
+V: 2
+z |\
+[a2A2][c'2a2e2] [c'2a2e2][c'2a2e2] | d2[b2f2] e2[b2g2e2] |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | e2[d'2g2e2] A2[c'ae] :|
+z |\
+A2[c'2a2e2] e2[d'2b2] | A2[a2e2] e2[b2g2d2] |\
+A2[a2e2c2] d2^d2 | e2[b2g2e2] A2[c'2a2e2] |
+A2[c'2a2e2] e2[d'2b2] | A2[a2e2] E2[b2g2e2] |\
+A2 [a2e2c2] d2[b2f2]  | e2[b2g2e2] [c'2a2][acA] |]
+
+%%sep 1 1 500
+
+X: 11
+T: LADY GLASGOW
+C: EARL of EGLINTON
+R: Strathspey
+B: Glen Collection p.4 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+|: A2cd e3c f3de3c | A2cd e2d2 (c2A2) e4 | A2cd e3c f3de3c | df3ce3 (TB3c) d4 :|
+a3ec2e2 (ag).f.e (c3e) | a3ec2e2 (A3c) e4 | a3ec2e2 (ag).f.e (c2e2) | df3ce3 (TB3c) d4 |
+a3ec2e2 (ag).f.e (c3e) | a3ec2e2 A2Tc2 e4 | fa3ef3 df3ce3 | B3cB3c d3e f4 |]
+%
+V: 2
+|:\
+A4[c'4a4e4] [a4f4d4][c'4a4e4] | [c'4a4e4][c'4a4e4] [c'4a4e4][c'4a4e4] |\
+A4[c'4a4e4] [a4f4d4][c'4a4e4] | [a4f4][c'4a4e4] [d'4b4e4][b4g4e4] :|
+A4[c'4a4e4] [c'4a4e4][c'4a4e4] | [c'4a4e4][c'4a4e4] [c'4a4e4][c'4a4e4] |\
+A4[c'4a4e4] [c'4a4e4][c'4a4e4] | [a4f4][c'4a4e4] [d'4b4e4][b4g4e4] |
+A4[c'4a4e4] [c'4a4e4][c'4a4e4] | [c'4a4e4][c'4a4e4] [c'4a4e4][c'4a4e4] |\
+A4[c'4a4e4] [d'4a4f4][c'4a4] | e4[d'4b4e4] [d'4b4e4][b4g4e4] |]
+
+%%sep 1 1 500
+
+X: 12
+T: MISS STEWART
+C: NIEL GOW
+R: Reel
+B: Glen Collection p.5 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+e |\
+A<AcA eAcA | =G<GBG dGBg | A<AcA eAcA | Eaef cAA :|
+B |\
+Aaga eaca | B=gdg BGGB | Aaga eaca | faef cAAB |
+Aaga eaca | B=gdg BGGB | A<AcA dBcA | Eaef cAA :|
+%
+V: 2
+z |\
+[a2A2][c'2a2e2] [c'2a2e2][c'2a2e2] | [=g2=G2][b2g2d2] [b2g2d2][b2g2d2] |\
+[a2A2][c'2a2e2] [c'2a2e2][c'2a2e2] | [c'2a2e2][d'2g2e2] A2[c'ae] :|
+z |\
+[a2A2][c'2a2e2] [c'2a2e2][c'2a2e2] | [=g2=G2][b2g2d2] [b2g2d2][b2g2d2] |\
+a2[c'2a2e2] c2[a2e2] | [a2f2d2][d'2g2e2] A2[c'2a2e2] |
+[a2A2][c'2a2e2] [c'2a2e2][c'2a2e2] | [=g2=G2][b2g2d2] [b2g2d2][b2g2d2] |\
+[a2A2][c'2a2e2] [b2g2e2][c'2a2e2] | [c'2a2e2][b2g2e2] [a2e2A2-] [aeA] |]
+
+%%sep 1 1 500
+
+X: 13
+T: LADY CHARLOTTE BRUCE
+C: Wm SHEPHERD
+R: Strathspey
+B: Glen Collection p.5 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: 2nd part had open repeat but no close repeat at end.
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+E |\
+AB {AB}cA e>cA>E | FB/c/ (d/c/).B/.A/ G>BB>c | AB {AB}cA e>cA>E | FB/c/ (B/A/).G/.F/ EAA :|
+|: c |\
+A>Tce>c a>cTe>c | fdeA GBTBc | A>Tce>c a>cTe>c | f>de>E F>AA>c |
+A>ce>a (a/g/).f/.g/ ae | f>dcA B/A/G/F/ E/D/C/B,/ | .C.A.D.B .E.c.F.d | d/c/B/A/ G/F/E/D/ CA,A, :|
+%
+V: 2
+z |
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [b2f2d2][b2f2d2] [b2g2e2][b2g2e2] |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [b2f2d2][b2g2e2] A2[c'ae] |]
+|: z |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [d'2g2e2][c'2a2e2] [d'2b2e2][d'2g2e2] |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [b2g2][c'2a2] [c'2a2f2][c'2a2e2] |
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [b2g2e2][c'2a2e2] e2A2 |\
+[e2A2][e2B2] [a2c2][a2d2] | [g2e2][b2g2d2] [e2A2][eA] :|
+
+%%sep 1 1 500
+
+X: 14
+T: PERTH-SHIRE HUNT
+C: By MISS STIRLING OF ARDOCH
+R: Reel
+B: Glen Collection p.5 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: Added missing flag to pickup to 2nd part.
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+F |\
+E2CE A,ECE | A,ECE FB,B,F | E2CE A,AcA | ceBd cAA :|
+e |\
+(c/B/A) eA fAeA | (c/B/A) ec fBBe | (c/B/A) eA fAeA | E>FAB cAAe |
+(c/B/A) eA fAeA | (c/B/A) ec fBBe | ceAc dfB>c | EFAB cA[AC] |]
+%
+V: 2
+z |\
+A2[a2e2] [e2c2][a2e2] | [e2c2][a2e2] [g2e2][g2e2] |\
+A2[a2e2] [e2c2][a2e2] | [a2e2][g2e2] [a2A2][c'ae] :|
+z |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [c'2a2e2][c'2a2e2] [b2g2e2][b2g2e2] |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [c'2a2e2][c'2a2e2] [c'2a2e2][c'2a2e2] |
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [c'2a2e2][c'2a2e2] [b2g2e2][b2g2e2] |\
+a2[e'2c'2] d2[b2f2] | e2[d'2b2] [c'2a2][aeA] |]
+
+%%sep 1 1 500
+
+X: 15
+T: THE LOCH OF FORFAR
+C: Wm ALLAN
+R: Strathspey
+B: Glen Collection p.6 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+B2 |\
+{G}A3E EEE2 C2~E2 E3F | A3E EEE2 c3d {d}c2B2 | {G}A3E EEE2 C3E E3F | DDD2 D3E {F}[=G4B,4] [G2B,2] :|
+B2 |\
+AAA2 c3A e3A    c3A | AAA2 c3A {c}e4 (Tf4{ef}) | e2A2 c2A2 a3e c2A2 | EEE2 E3F {F}=G4 G3B |
+AAA2 c3A e3A {d}c3A | AAA2 c3A {c}e4 (Tf4{ef}) | (e2fg) (ag).f.e (fe).d.c dcBA | EE3 E3F {F}=G4 G2 |]
+%
+V: 2
+z2 |\
+A4 [a4e4] [a4e4] [c'4a4e4] | [c'4a4e4] [c'4a4e4] [a4e4] [g4e4] |\
+[a4A4] [c'4a4e4] [a4e4] [c'4a4e4] | [a4f4d4] [a4f4d4] [=g4d4=G4] [g2d2G2] :|
+z2 |\
+A4 [a4e4] [c'4a4e4] [a4e4] | [c'4a4e4] [c'4a4e4] [c'4a4e4] [d'4g4e4] |\
+[c'4a4e4] [a4e4] [c'4a4e4] [a4e4] | [b4g4e4] [b4g4e4] [b4=g4e4] [b4g4e4] |
+A4 [a4e4] [c'4a4e4] [a4e4] | [c'4a4e4] [c'4a4e4] [c'4a4e4] [d'4g4e4] |\
+[c'4a4e4] [a4e4] [c'4a4e4] [a4e4] | [b4g4e4] [b4g4e4] [b4=g4e4] [b2g2e2] |]
+
+%%sep 1 1 500
+
+X: 16
+T: MISS MONCRIEFF OF PITLOWER
+C: ALEXr LEBURN
+R: Reel
+B: Glen Collection p.6 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+F |\
+E2Ed {d}cBAc | ecec fBBF | E2Ed {d}cBAc | dfBd cAA :|
+g |\
+a2ed cBAc | dfBd BGEg | a2ed cBAc | dfBd cAAg |
+a2ed {d}cBAc | dfBc BGEB | EBFBGBAc | dfed cA[AC] |]
+%
+V: 2
+z |\
+e2[b2g2e2] [c'2a2e2][c'2a2e2] | [c'2a2e2][c'2a2e2] [b2f2d2][b2f2d2] |\
+[b2g2e2][b2g2e2] [c'2a2e2][c'2a2e2] | [b2g2e2][b2g2e2] [c'2a2][aA] :|
+z |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | B2[f2d2] e2[d'2b2] |\
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | [b2g2e2][b2g2e2] [a2e2][c'2a2e2] |
+A2[c'2a2e2] [c'2a2e2][c'2a2e2] | B2[f2d2] e2[d'2b2g2] |\
+[d'2b2g2][d'2a2] [d'2b2][c'2a2] | [b2g2e2][b2g2e2] [a2e2][aeA] |]
+
+%%sep 1 1 500
+
+X: 17
+T: PERTHSHIRE VOLUNTEERS
+C: GOW. Coll.
+R: Strathspey
+B: Glen Collection p.6 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: Added dot to 2nd a in last bar.
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+A2 |\
+E2A2 cde2 Tc4A2c2 | d3B (dc).B.A G2B2-B2d2 | c2A2 cde2 c4A2c2 | dB3e3d c2A2A2 :|
+g2 |\
+a3e (ag).f.e a4e2c2 | d2B2 (dc).B.A G2B2-B3g | a2e2 (ag).f.e a4e2c2 | d2B2 (dc).B.A E2A2-A2d2 |
+c2e2G2e2 F2d2E2c2 | d3B (dc)BA G2B2-B2d2 | c2e2d2f2 e2a2g2b2 | (ag)fe a3e c2A2A2 |]
+%
+V: 2
+z2 |\
+[a4e4A4][a4e4A4] [a4e4A4][a4e4A4] | E4[b4g4e4] [d'4b4e4][b4g4e4] |\
+[a4e4A4][a4e4A4] [a4e4A4][a4e4A4] | [g4e4][g4e4] [a4e4A4][a2e2A2] :|
+z2 |\
+[a4e4A4][a4e4A4] [a4e4A4][a4e4A4] | E4[b4g4e4] [d'4b4e4][b4g4e4] |\
+[a4e4A4][a4e4A4] [a4e4A4][a4e4A4] | [g4e4][b4g4e4] [c'4a4e4][c'4a2e2] |
+A4[b4e4] [a4f4][c'4a4] | e4[b4g4e4] [d'4b4e4][b4g4e4] |\
+[a4e4][b4g4e4] [c'4a4e4][d'4b4e4] | [c'4a4][c'4a4] [a4e4A4][a2e2A2] |]
+
+%%sep 1 1 500
+
+X: 18
+T: MISS ROBERTSON
+C: R. MACKINTOSH
+R: Reel
+B: Glen Collection p.7 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+%
+V: 1
+F |\
+E2CA FDFA | GEGB AecA | E2CA FDFA | GBEd cAA :|
+e |\
+aAgA fAeA | dcBA BGEg | aAgA fAeA | (Bcd)B (cAA)g |
+aAgA fAeA | dcBA GFE=G | FDFA GEdB | ceBd cA-A |]
+%
+V: 2
+z |\
+A2[a2e2] d2[a2f2] | B2[b2e2] c2[a2e2] |\
+A2[a2e2] d2[a2f2] | [b2e2][g2e2] [a2e2][aeA] :|
+z |\
+A2[e'2a2] [d'2a2][c'2a2] | [b2g2e2][c'2a2e2] [d'2b2e2][b2g2e2] |\
+A2[e'2a2] [d'2a2][c'2a2] | e2[b2g2] A2[c'2a2e2] |
+A2[e'2a2] [d'2a2][c'2a2] | [b2g2e2][c'2a2e2] [d'2b2e2][c'2a2e2]
+d2[d'2a2] e2[b2g2] | [a2e2][g2e2] [a2e2A2][aeA] |]
+
+%%sep 1 1 500
+
+X: 19
+T: MISS JESSY CUMING
+C: R. MACKINTOSH
+R: Strathspey
+B: Glen Collection p.7 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+d |\
+A>F D<d A>F D<B | A>F G/F/E/D/ Ee- ef/g/ | a<f g<e f<d e<c | d>B A<F A<d d :|
+g |\
+f<a d<a c<a A<a | f<a d<f ge- ef/g/ | f<a d<a c<a A<g | f<d f/e/d/c/ d<D- Dg |
+f<a d<a c<a A<a | f<a d<f ge- ef/g/ | f<d e<c d<B A<F | G>B A<F D<d- d |]
+%
+V: 2
+z |\
+d2[a2f2] [a2f2][a2f2] | [d'2a2f2][d'2a2f2] [c'2a2][c'2a2] |\
+[d'2a2f2][e'2c'2a2] [f'2d'2a2][g'2e'2a2] | d2[d'2a2f2] [d'2a2f2][daf] :|
+z |\
+d2[f'2d'2a2] [g'2e'2a2][g'2c'2a2] | [f'2d'2a2][f'2d'2a2] [e'2c'2a2][e'2c'2a2] |\
+d2[d'2a2f2] [c'2a2e2][c'2a2e2] | [d'2a2f2][c'2a2g2] d2[a2f2d2] |
+d2[f'2d'2a2] [g'2e'2a2][g'2c'2a2] | [f'2d'2a2][f'2d'2a2] [e'2c'2a2][e'2c'2a2] |\
+[d'2a2d2][c'2a2e2] [d'2a2f2][d'2a2d2] | A2[c'2a2g2] d2[d'af] |]
+
+%%sep 1 1 500
+
+X: 20
+T: GLASSA HOUSE
+C: I. COOPER
+R: Reel
+B: Glen Collection p.7 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+|: d>fe>c d>BA>F | G>BA>F E/E/EE2 |\
+d>fe>c d>AF>A | B>dc>e d/d/dd2 :|\
+|: d>fa>f g>ec>A |
+d>BA>F E/E/EE2 |\
+[1 d/e/f/g/ a>f g>ec>A | B>dc>e d/d/dd2 :|\
+[2 F>AG>B A>dc>e | d>BA>F D/D/DD2 |]
+%
+V: 2
+|:\
+[d'2f2d2][c'2a2e2] [d'2a2f2][d'2a2d2] | [d'2b2g2][d'2a2f2] [c'2a2][c'2a2] |\
+[d'2a2d2][c'2a2e2] [d'2a2f2][d'2a2d2] | [d'2g2][c'2a2] [d'2f2d2][d'2f2d2] :|\
+|:\
+d2[f'2d'2a2] [e'2c'2a2][e'2c'2a2] |
+[d'2a2f2][d'2a2] [c'2a2][c'2a2] |\
+[1 d2[f'2d'2a2] [e'2c'2a2][e'2c'2a2] | [f'2d'2a2][g'2e'2a2] [f'2d'2][f'2d'2] :|\
+[2 [a2d2][a2e2] [a2f2][a2A2] | [f2d2][g2e2A2] [f2d2][a2f2d2] |]
+
+%%sep 1 1 500
+
+X: 21
+T: THE BIRTHDAY 1790
+C: LORD MACDONALS. NATH GOW'S Coll.
+R: Strathspey
+B: Glen Collection p.8 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+A,2 |\
+DD3 F3A | d3A (BAGF) | E2e2 e3d | (cdec) A2d2 |\
+B3A B2d2 | AF3 E3D | A,3B, D3E | {DE}F2D2 D2A,2 |
+(DEFD) F3A | defg afdf | {fga}g3f {f}e2d2 | cdec A2d2 |\
+B2A2 B2d2 | BAGF GFED | EAce gecA | {c}d2D2D2 :|
+|: f2 |\
+defg a3b | afdf a3b | abag fgaf | g2E2 E2(ed) |\
+cdef Tg3a | gece g3a | gfed cdec | d2D2D2 (AB/c/) |
+d3D BAGF | B2E2 E2g2 | fa3 e3f | d2D2 D2A,2 |\
+D3A dcBA | BAGF E3g | fgaf efge | d2D2D2 :|
+%
+V: 2
+z2 |\
+d4 [d'4a4] | f4 [d'4a4] | g4 [e'4b4] | a4 [e'4c'4] |\
+g4 [d'4b4] | f4 [d'4a4] | [f4d4A4] [g4e4A4] | [f4d4] [f4d4] |
+d4 [d'4a4] | [d'4a4f4] [d'4a4f4] | [c'4a4e4] [c'4a4e4] | [a4e4] [a4f4] |\
+A4 [g4d4] | d4 [b4g4] | A4 [c'4a4] | [d'4a4f4d4] [a2f2d2] :|
+|: z2 |\
+d4 [f'4d'4a4] | d4 [f'4d'4a4] | d4 [f'4d'4a4] | A4 [c'4a4] |\
+A4 [g'4e'4a4] | A4 [g'4e'4a4] | A4 [g'4e'4a4] | [f'4d'4] d4 |
+d4 [d'4a4] | G4 [e4B4] | [f4d4A4] [g4e4A4] | [f4d4] [f4d4] |
+d4 [a4f4] | [b4g4] [b4g4] | [d'4a4] [c'4a4] | [d'4a4d4] [a2f2d2] :|
+
+%%sep 1 1 500
+
+X: 22
+T: Mrs GORDON UVIE
+C: Wm MARSHALL
+R: Reel
+B: Glen Collection p.8 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: The final g sharp in the bass of bar 8 should probably be g natural.
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+|:\
+{c}d2(Ad) cdAd | cdef gecA | {c}d2(Ad) cdAd | BAGF EDCA, :|
+dDFA fDFA | dDFA dcBA | eE^GB ^gEGB | eE^GB edce |
+dDFA fDFA | dDFA dcBA | GABc defg | (fa)(Be) dcBA |]
+%
+V: 2
+|:\
+D2[d'2f2] [d'2a2][d'2f2] | e2[c'2a2] A2[g2e2] |\
+[a2f2d2][d'2f2] [d'2a2][d'2f2] | g2a2 A2[g2e2] :|
+D2[f2d2] [a2d2][f2d2] | [a2f2d2][a2f2d2] [a2f2d2][a2f2d2] |\
+[^g2e2][g2e2] [b2g2e2][b2g2e2] | [d'2^g2e2][d'2g2e2] [c'2a2][c'2a2g2] |
+[d'2a2f2][a2d2] [a2d2][a2d2] | d2[d'2a2] f2[d'2a2] |\
+g2[b2g2] f2[d'2a2] | d2G2 A2[g2e2A2] |]
+
+%%sep 1 1 500
+
+X: 23
+T: MISS URCUHART OF MELDRUM
+T: re-named Miss Gordon of Nethermuir
+C: I. COOPER
+R: Strathspey
+B: Glen Collection p.8 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+|:\
+D3A F3A (TBABc) d3B | AF3 TF3D E3A, C3A, |\
+D3A F3A (TBABc) d3B | AF3 G3E {E}D4 D4 :|
+(d3c) (c3B) (B3A) (A3F) | G3e F3d E3A, C3A, |\
+(d3c) (c3B) (TB3A) A3g | (3f2a2f2 (3e2c2e2 d4 d4 |
+(d3c) (c3B) (B3A) (A3F) | G3e F3d E3A, C3A, |\
+D3A F3A (BABc) d3B | AF3 G3E {E}D4 D4 |]
+%
+V: 2
+|:\
+[f4d4][a4d4] [g4d4][b4d4] | [f4d4][a4d4] [g4c4A4][g4c4A4] |\
+[f4d4][a4d4] [g4d4][b4d4] | [f4d4][a4e4A4] [a4f4d4][a4f4d4] :|
+[d'4a4d4][d'4a4d4] [d'4a4d4][d'4a4d4] | [a4c4][a4d4] [g4e4A4][g4e4A4] |\
+[f4d4][d'4a4d4] [d'4a4d4][c'4a4] | [d'4a4][g'4e'4a4] [f'4d'4][d'4d4] |
+[d'4a4d4][d'4a4d4] [d'4a4d4][d'4a4d4] | [a4c4][a4d4] [g4e4A4][g4e4A4] |\
+[f4d4][a4d4] [g4d4][b4d4] | [d'4a4d4][c'4a4] [a4f4d4][a4f4d4] |]
+
+%%sep 1 1 500
+
+X: 24
+T: THE JOCKEY CLUB
+C: R. MACKINTOSH
+R: Reel
+B: Glen Collection p.9 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+g |\
+f2(df) ecAc | dBAF G(EEg) | f2(df) ecAc | dBAG F(DDg) |
+f2(df) ecAc | (d/c/B/A/ d)F G(EEG) | FABG Acdf | geag fdd ||
+A |\
+FADF GBEG | FADF E(A,A,G) | FADF GBEg | fdec d(DDA) |
+FADF GBEG | FADF E(A,A,G) | FABG Acdf | gbag fdd |]
+%
+V: 2
+z |\
+d2[f'2d'2a2] [g'2e'2a2][g'2e'2a2] | [f'2d'2a2][d'2a2] A2[c'2a2] |\
+d2[f'2d'2a2] [g'2e'2a2][g'2e'2a2] | [f'2d'2a2][e'2c'2a2] [d'2a2][a2d2] |\
+d2[f'2d'2a2] [g'2e'2a2][g'2e'2a2] | [f'2d'2a2][d'2a2] A2[c'2a2] |\
+[d'2a2d2][c'2a2e2] [d'2a2f2][d'2a2f2] | e2[c'2a2] d2[da] ||
+z |\
+d2[a2f2] c2[a2g2] | d2[a2f2] A2[g2e2] |\
+d2[a2f2] A2[b2g2] | [d'2a2][c'2a2] [a2f2d2][a2f2d2] |
+d2[a2f2] c2[a2g2] | d2[a2f2] A2[g2e2] |\
+[d'2a2d2][c'2a2e2] [d'2a2f2][d'2a2f2] | e2[c'2a2] d2[d'afd] |]
+
+%%sep 1 1 500
+
+X: 25
+T: Mr MACINTYRE OF GLENOE
+C: D. MACINTYRE
+R: Strathspey
+B: Glen Collection p.9 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+E |\
+D<dd>B {B}A>FD>F | G>EF>D E>DB,E |\
+[1 D<dd>B {B}A>FD>F | B,<EC>A, D2D :|\
+[2 D<A,F<D A<Fd<f | B<ec>A d2d ||
+|: f/g/ |\
+a>fb>g a>fd>f | e/f/g/e/ a>f e<fg>b |\
+[1 a<fb<g a<fg<e | f<da>f d2d :|\
+[2 a<fg<e f<de<c | {c}d>BA>F D2D |]
+%
+V: 2
+z |\
+d2[d'2a2f2] [d'2a2f2][a2f2] | [c'2a2e2][a2f2d2] [a2g2][a2g2] |\
+[1 [a2f2][a2f2] [a2f2d2][a2f2d2] | [g2e2A2][g2e2A2] [f2d2][fd] :|\
+[2 [a2f2][a2f2] [a2f2d2][a2f2d2] | [g2e2A2][g2e2A2] [f2d2][fd] ||
+|: z |\
+[d'2a2d2][c'2a2e2] [d'2a2d2][d'2a2d2] | [c'2a2e2][d'2a2f2] [c'2a2g2][c'2a2g2] |\
+[1 [d'2a2f2][c'2a2e2] [d'2a2f2][b2g2] | [d'2a2][c'2a2] [d'2a2d2][d'ad] :|\
+[2 [d'2a2f2][c'2a2e2] [d'2a2f2][a2g2] | [a2f2][a2f2d2] [a2f2d2][afd] |]
+
+%%sep 1 1 500
+
+X: 26
+T: MISS ROBERTSON
+C: CHARLES STEWART
+R: Reel
+B: Glen Collection p.9 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+B |\
+ADFA BdAF | GeFd eEEB | ADFA BdAg | faeg fdd :|
+g |\
+fadf (d/e/f/g/) af | gefd ceeg | fadf (d/e/f/g/) af | ge{b}ag fddg |
+fadf (d/e/f/g/) af | gefd ceeg | fadf gbeg | fdeg fdd |]
+%
+V: 2
+z |
+d2[d'2a2] [d'2b2g2][d'2a2] | [c'2a2e2][d'2a2f2] [c'2a2][c'2a2] |\
+[a2f2][d'2a2f2] [d'2b2g2][c'2a2] | [f'2d'2][c'2a2] [d'2a2d2][d'ad] :|
+z |\
+[d'2a2d2][d'2a2d2] [d'2a2d2][d'2a2d2] | [c'2a2e2][d'2a2f2] [e'2a2][c'2a2] |\
+[d'2a2d2][d'2a2d2] [d'2a2d2][d'2a2d2] | [c'2a2][c'2a2] [d'2a2d2][d'2a2d2] |
+[d'2a2d2][d'2a2d2] [d'2a2d2][d'2a2d2] | [c'2a2e2][d'2a2f2] [e'2a2][c'2a2] |\
+[d'2a2d2][d'2a2d2] G2[b2g2] | [d'2a2][c'2a2] [d'2a2d2][d'ad] |]
+
+%%sep 1 1 500
+
+X: 27
+T: Mrs GREGORY
+C: WHITE
+R: Strathspey
+B: Glen Collection p.10 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+D2 |\
+FA3A3B A3Bd3g | fd3g3e B4B3d | FA3A3B A3Bd2B2 | AF3E3F D4D2 :|
+fg |\
+a2d2f2d2 defga4 | B3Bg3f e4e2fg | a2d2Tf2e2 defg a2f2 | dB3A3F {F}A4A2fg |
+a2d2Tf3e defga4 | B3Bg3f e4e2fg | a2d2Tf3e d2A2B2d2 | A2d2 AGFE {E}D4D2 |]
+%
+V: 2
+z2 |\
+d4[a4f4] [a4f4][a4f4] | [d'4a4][e'4b4g4] [e'4b4g4][b4g4] |\
+d4[a4f4] [a4f4][a4f4] | [a4f4][g4e4A4] [f4d4][f2d2] :|
+z2 |\
+d4[d'4a4] [d'4a4][d'4a4] | e4[b4g4] [c'4a4][c'4a4] |\
+d4[d'4a4] [d'4a4][d'4a4] | d4[d'4a4] A4[e4c4] |
+d4[d'4a4] [d'4a4][d'4a4] | e4[b4g4] [c'4a4][c'4a4] |\
+d4[d'4a4] [d'4a4f4][d'4b4g4] | [d'4a4f4][c'4a4e4] [a4f4d4][a2f2d2] |]
+
+%%sep 1 1 500
+
+X: 28
+T: MISS STEWART OF GARTH
+C: M. McDONALD
+R: Reel
+B: Glen Collection p.10 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+|:\
+D2DA FDdF | E2(Ee) GEeg | fdec dBAF | GBAF D/D/DD2 :|
+abaf dfaf | gebe gebe | abaf dfaf | geaf d/d/dd2 |
+abaf dfaf | gebe gebe | dfeg fbec | dBAF D/D/DD2 |]
+%
+V: 2
+|:\
+d2[a2f2] [a2d2][a2d2] | [c'2a2][c'2a2] [c'2a2e2][c'2a2e2] |\
+[d'2a2d2][c'2a2e2] [d'2a2f2][d'2a2d2] | [g2d2][f2d2] [a2f2d2][a2f2d2] :|
+d2[d'2a2] [d'2a2][d'2a2] | [c'2a2][c'2a2] [c'2a2][c'2a2] |\
+d2[d'2a2] [d'2a2][d'2a2] | [c'2a2][c'2a2] [d'2a2d2][d'2a2d2] |
+d2[d'2a2] [d'2a2][d'2a2] | [c'2a2][c'2a2] [c'2a2][c'2a2] |\
+[d'2a2f2][c'2a2e2] [d'2a2d2][c'2a2e2] | [d'2a2f2][d'2a2d2] [a2f2d2][a2f2d2] |]
+
+%%sep 1 1 500
+
+X: 29
+T: MISS MILLER OF DALSWINTON
+C: R. RIDDELL
+R: Reel
+B: Glen Collection p.10 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+f |\
+D/D/D TAF AD Af | D/D/D TAF TE2 Ef | D/D/D AF AD fe | dB d/B/A/F/ D3 :|
+f/e/ |\
+dAFA DAA,A | FDAF E3f/e/ | dAFA DAA,A | GEAF D3f/e/ |
+dAFA DAA,A | FDAF E3f/e/ | dfeg faeg | fdaf d3 |]
+%
+V: 2
+z |\
+d2[f2d2] [a2f2][f2d2] | d2[f2d2] A2[e2c2] |\
+d2[f2d2] [a2f2][a2d2] | [g2d2][f2d2] [f3d3] :|
+z |\
+d2[f2d2] [a2f2][f2d2] | d2[f2d2] A2[e2c2] |\
+d2[f2d2] [a2f2][f2d2] | [e2A2][e2A2] [f2d2][f2d2] |
+d2[f2d2] [a2f2][f2d2] | d2[f2d2] A2[c'2a2e2] |\
+[d'2a2f2][c'2a2e2] [d'2a2d2][b2g2] | [d'2a2][c'2a2] [d'3a3d3] |]
+
+%%sep 1 1 500
+
+X: 30
+T: DUNNICHEN HOUSE
+C: ARCHd DUFF
+R: Reel
+B: Glen Collection p.10 #4
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: The first d in bar 5 should probably be c.
+N: The second f in bar 10 should probably be g.
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+A |\
+F2DF ABAG | A2DF GEEA | F2DF ABAF |1 A,CEG FDD :|2 Adeg fdd ||
+|: f |\
+(Ad)fd (ge)fd | (Ad)fd ceef |[1 (Ad)fd gefd Adeg fdd :|[2 faef dfBd | Ad (e/f/g) fdd |]
+%
+V: 2
+z |\
+d2[a2f2] [a2f2][a2f2] | [d'2a2][d'2a2] [c'2a2][c'2a2] |\
+d2[a2f2] [a2f2][a2f2] |[1 [g2e2][e2c2] [f2d2][afd] :|2 [g2e2][e2c2] [f2d2][afd] ||
+|: z |\
+d2[d'2a2] [c'2a2][d'2a2] | [d'2a2][d'2a2] [g'2e'2a2][c'2a2] |\
+[1 d2[d'2a2] [c'2a2][d'2a2] | [d'2a2][c'2a2] [d'2a2d2][d'ad] :|\
+[2 [d'2a2d2][c'2a2e2] [d'2a2f2][d'2b2g2] | [d'2a2][c'2a2] [d'2a2d2][d'ad] |]
+
+%%sep 1 1 500
+
+X: 31
+T: MISS EDMONDSTONE OF NEWTON
+C: Wm SHEPHERD
+R: Strathspey
+B: Glen Collection p.11 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+F2 |\
+D3FA3F d3FA3F | A3d (gf).e.d c2e2e2f2 |\
+D3FA3F d3FA3F | E3g (fg).a.g f2d2d2 :|
+fg |\
+a3df3d a3d (ba).g.f | A3d (gf).e.d c2e2 e2fg |\
+a3df3d a3d A3F | G3B (AG)FE D2d2 d2fg |
+a3df3d a3d (ba).g.f | A3d (gf).e.d c2e2 e2fg |\
+a3fd3A B2cd A2F2 | G3B efge f2d2d2 |]
+%
+V: 2
+z2 |\
+d4[d'4a4] [d'4a4][d'4a4] | d4[f'4d'4a4] A4[e'4c'4a4] |\
+d4[d'4a4] [d'4a4][d'4a4] | [c'4a4][c'4a4] [d'4a4d4][d'2a2f2d2] :|
+z2 |\
+d4[f'4d'4a4] [f'4d'4a4][f'4d'4a4] | [f'4d'4a4][f'4d'4a4] [g'4e'4a4][e'4c'4a4] |\
+d4[d'4a4] [d'4f4][d'4a4] | A4[c'4a4g4] d4[d'4a4f4] |
+d4[f'4d'4a4] [f'4d'4a4][f'4d'4a4] | [f'4d'4a4][f'4d'4a4] [g'4e'4a4][e'4c'4a4] |\
+[d'4a4f4][d'4f4] [d'4g4][d'4f4] | e4[c'4a4] d4[d'2a2f2d2] |]
+
+%%sep 1 1 500
+
+X: 32
+T: THE ROAD TO BERWICK
+T: re-named The Buck of the Cabrach
+C: Wm MARSHALL
+R: Reel
+B: Glen Collection p.11 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+|:\
+F<DAF BGAF | DAdf e2E2 | F<DAF BGAF | Adce d2D2 :|
+(f/g/a) (fd) bgag | (f/g/a) (fd) b2(eg) | (f/g/a) (fd) bgag | fdec d2D2 |
+(f/g/a) (fd) bgag | (f/g/a) (fd) b2(eg) | fdge afbg | fdec d2D2 |]
+%
+V: 2
+|:\
+d2[d'2a2] [c'2a2][d'2a2] | d2[d'2a2] A2[c'2a2] |\
+d2[d'2a2] [c'2a2][d'2a2] | a2[g2A2] [f2d2][f2d2] :|
+d2[d'2a2] c2[c'2a2] | d2[d'2a2] A2[c'2a2] |\
+d2[d'2a2] c2[c'2a2] | a2[g2A2] [f2d2][f2d2] |
+d2[d'2a2] c2[c'2a2] | d2[d'2a2] A2[c'2a2] |\
+[d'2a2][c'2a2] [d'2a2][c'2a2] |  a2[g2A2] [f2d2][f2d2] |]
+
+%%sep 1 1 500
+
+X: 33
+T: Mrs MORAY OF ABERCARNEY
+C: N. GOW
+R: Strahspey
+B: Glen Collection p.11 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+|:\
+D/D/D F2  A<D F<D |  E<=c  G<c E<C E2 | D/D/D F2  A<D F<D | D<d F<d F<D TF2 :|
+d/d/d f>d A>d f>d | =c/c/c e<c g<c e2 | d/d/d f>d a<d f<d | A<d F<d F<D F2 |
+d/d/d f>d A>d f>d | =c/c/c e<c g>c e2 | d>f   e>g f>a e<g | f>d e>c d<A F2 |]
+%
+V: 2
+|:\
+[a2f2d2] [a2f2d2] [a2f2d2] [a2f2d2] | [g2e2=c2] [g2e2c2] [g2e2c2] [g2e2c2] |\
+[a2f2d2] [a2f2d2] [a2f2d2] [a2f2d2] | [a2d2] [a2d2] [a2d2] [a2d2] :|
+d2 [a'2d'2] [f'2d'2] [a'2d'2] | =c2 [g'2=c'2] [f'2d'2] [g'2c'2] |\
+d2 [a'2d'2] [f'2d'2] [a'2d'2] | d2 [a2d2] [a2d2] [a2d2] |
+d2 [a'2d'2] [f'2d'2] [a'2d'2] | =c2 [g'2=c'2] [f'2d'2] [g'2c'2] |\
+d2 [c'2a2] [d'2a2] [c'2a2] | a2 [g2A2] [f2d2] [a2d2] |]
+
+%%sep 1 1 500
+
+X: 34
+T: MISS KINLOCH OF GILMERTON
+C: Wm SHEPHERD
+R: Reel
+B: Glen Collection p.12 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: D
+%
+V: 1
+G |\
+(FE/D/) AF BGAG | FDAF GEEG | FE/D/ AF BGAF |1Aceg fdd :|2 Egec dDD ||
+g |\
+fdad bdad | fd (b/a/g/)f/ geeg | fdad bdad | ~ceag fdda |
+fdad bdad | fd (b/a/g/)f/ geeg | fdcd Bc/d/ AF | Gbag fdd |]
+%
+V: 2
+z |\
+d2[d'2a2] [c'2a2][c'2a2] | d2[d'2a2] [c'2a2][c'2a2] |\
+d2[d'2a2] [c'2a2][d'2a2] |1 A2[c'2a2] d2[d'afd] :|2 A2[g2e2] [f2d2][fd] ||
+z |\
+d2[d'2a2f2] [d'2a2f2][d'2a2f2] | d2[d'2a2] A2[c'2a2] |\
+d2[d'2a2f2] [d'2a2f2][d'2a2f2] | A2[c'2a2] d2[d'2a2f2] |
+d2[d'2a2f2] [d'2a2f2][d'2a2f2] | d2[d'2a2] A2[c'2a2] |\
+d2[d'2a2] [d'2g2][d'2f2] | [c'2a2e2][c'2a2e2] [d'2a2d2][d'afd] |]
+
+%%sep 1 1 500
+
+X: 35
+T: MISS INNES OF EDINGIGHT
+C: I. COOPER
+R: Strathspey
+B: Glen Collection p.12 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+%
+V: 1
+|:\
+G3B G3B d3B d3B | G3G B3G A3D F3D | (GABc) d3B e3f g3e | (d3c) (B3A) (BG3) G4 :|
+g3b f3d e3d c3B | (cec2) (BdB2) A3D F3D | g3b f3d e3f g3e | (d3c) (B3A) BG3 G4 |
+g3b f3d e3d c3B | (cec2) (BdB2) A3D F3D | (GABc) d3B e3f g3e | d3c B3A BG3 [G4B,4] |]
+%
+V: 2
+|:\
+[g4G4] [b4g4d4] [b4g4d4] [b4g4d4] | G4 [g4d4] D4 [a4f4d4] |\
+[g4G4] [b4g4d4] c4 [c'4g4e4] | d4 [c'4f4] G4 [b4g4d4] :|
+G4 [b4g4d4] c4 [g4e4] | A4 B4 d4 [a4f4d4] |\
+B4 [b4g4d4] c4 [c'4g4e4] | d4 [c'4f4] G4 [b4g4d4] |
+G4 [b4g4d4] c4 [g4e4] | A4 B4 d4 [a4f4d4] |\
+B4 [b4g4d4] c4 [c'4g4e4] | d4 [a4f4] G4 [g4d4G4] |]
+
+%%sep 1 1 500
+
+X: 36
+T: HONble MISS SEMPILL
+C: R. MACKINTOSH
+R: Reel
+B: Glen Collection p.12 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+%
+V: 1
+f |\
+g2(dB) GBdB | a2(ec) Acea | g2(dB) GBdB | cedc (BGG)f |
+g2(dB) GBdB | a2(ec) Acea | g2(eg) dgBg | cA (d/c/B/A/ B)GG ||
+D |\
+(B,D)(GD) CEAE | DFAB cABG | (B,D)(GD) CEAE | DFAc B(GGD) |
+B,DGD CEAE | DFAB cedc | BdgB ceag | fdaf gGG |]
+%
+V: 2
+z |\
+g2[d'2b2] [d'2b2][d'2b2] | c2[c'2a2] [c'2a2][c'2a2] |\
+g2[d'2b2] [d'2b2][d'2b2] | d2[a2f2d2] G2[b2g2d2] |
+g2[d'2b2] [d'2b2][d'2b2] | c2[c'2a2] [c'2a2][c'2a2] |\
+G2[b2g2d2] [b2g2d2][b2g2d2] | d2[a2f2d2] G2[bgd] ||
+z |\
+[g2d2G2][g2d2G2] [g2e2G2][g2e2G2] | d2[f2d2] [a2f2d2][b2g2d2] |\
+[g2d2G2][g2d2G2] [g2d2G2][g2d2G2] | d2[f2d2] [g2d2][b2g2e2] |
+[g2d2G2][g2d2G2] [g2e2G2][g2e2G2] | d2[f2d2] [a2f2d2][a2f2d2] |\
+G2[b2g2d2] A2c2 | d2[c'2f2] [b2g2][gdG] |]
+
+%%sep 1 1 500
+
+X: 37
+T: MISS LAMONT OF LAMONT
+C: Wm SHEPHERD
+R: Strathspey
+B: Glen Collection p.13 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+%
+V: 1
+D2 |\
+G3A B2G2 c3d e2c2 | B3c edcB AGFE F2D2 | G3B E2FG A3c B,3C | A,3c (BA)GF G2D2 G,2D2 |
+G3A B2G2 c3d e2c2 | B3c edcB AGFE F2D2 | B,3G C3A D3B E3c | A,cAF GDEC B,2G,2G,2 ||
+d2 |\
+g3a b3g f3g a3d | e2(3efg B2gf edcB c3A | g3a b3g f3g a3d | B2ge fde^c d4 d2=cB |
+c3a A2Bc B3g G2AB | c3E A3G F3E F3D | G3B E2FG A3c B,3C | A,cAF GDEC B,2G,2G,2 |]
+%
+V: 2
+z2 |\
+[g4d4G4] [g4d4G4] [f4d4G4] [f4d4G4] | [g4d4G4] [g4d4G4] d4 [a4f4] |\
+[g4d4G4] [g4d4G4] c4 [a4e4] | d4 [a4f4] [b4g4] G4 |
+[g4d4G4] [g4d4G4] [f4d4G4] [f4d4G4] | [g4d4G4] [g4d4G4] d4 [a4f4] |\
+[g4d4] [f4d4] [g4d4] [g4c4] | [f4d4] d4 G4 [d2B2G2] ||
+z2 |\
+[d'4b4g4] [d'4b4g4] [d'4a4d4] [d'4f4d4] | [b4g4] [b4g4e4] [c'4g4c4] [a4f4d4] |\
+G4 [d'4b4g4] [d'4a4d4] [d'4f4d4] | [b4g4] a2g2 [f4d4] [a4d4] |
+f4 [d'4a4] g4 [d'4b4] | c4 [a4e4] d4 [a4f4] |\
+[g4d4G4] [g4d4G4] c4 [g4e4] | [f4d4] d4 G4 [d2B2G2] |]
+
+%%sep 1 1 500
+
+X: 38
+T: MISS SUSAN ELLIOT
+C: D. MACINTYRE
+R: Reel
+B: Glen Collection p.13 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+%
+V: 1
+d |\
+g2bg afge | dBgB aAAf | g2bg afge | dBcA G/G/G G :|
+|: B |\
+DGB,D G,B,DG | BdgB A/A/A Af | gdbg afge | dBcA G/G/G G :|
+%
+V: 2
+z |\
+G2[b2g2d2] [c'2a2d2][b2g2d2] | [b2g2d2][b2g2d2] [a2f2d2][a2f2d2] |\
+G2[b2g2d2] [c'2a2d2][b2g2d2] | [b2g2d2][b2g2e2] [b2g2][bg] :|
+|: z |\
+G2[g2d2] B2[b2g2d2] | [b2g2d2][b2g2d2] [c'2a2d2][c'2a2d2] |\
+[b2g2d2][b2g2d2] [c'2a2d2][b2g2d2] | [b2g2d2][a2f2d2] [b2g2][gdG] :|
+
+%%sep 1 1 500
+
+X: 39
+T: MISS MARIANE OLIPHANT (Rossie)
+C: R. MACKINTOSH
+R: Strathspey
+B: Glen Collection p.13 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+%
+V: 1
+D2 |\
+G,3B, D2=F2 E2C2 (C3B,/C/) | D3F A3c B2G2 (B3F/G/) |\
+G,3B, D=F3 E2C2 ce3 | {e}d2cB {d}c2BA [G4B,4] [G2B,2] :|
+ga |\
+b3g g2b2 ad3 fa3 | g2f2 agfe f2(B2 B2cd) |\
+c3e gc3 B3d gB3 | A2e2 d2F2 G4 G,2ga |
+(bag2) (gab2) ad3 fa3 | g3f agfe f(B3 B3d) |\
+c3c' ac3 B3d gB3 | ca3 d3f g4 g2 |]
+%
+V: 2
+z2 |\
+G4[=f4d4] c4[g4e4] | d4[c'4a4] g4 [d'4b4] |\
+G4[=f4d4] c4[g4e4] | [g4d4][f4d4] [g4d4G4][g2d2G2] :|
+z2 |\
+g4[d'4b4] d4[c'4a4] | e4[b4g4] B4[b4f4d4] |\
+[g4e4][g4e4] [g4d4][g4d4] | [f4d4][a4d4] [b4g4]G4 |
+g4[d'4b4] d4[c'4a4] | e4[b4g4] B4[b4f4d4] |\
+[g4e4][g4e4] [g4d4][g4d4] | [f4d4][c'4d4] [b4g4][g2d2G2] |]
+
+%%sep 1 1 500
+
+X: 40
+T: Mr A. McWHINNIE
+C: D. MACINTYRE
+R: Reel
+B: Glen Collection p.13 #4
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+%
+V: 1
+c |\
+BGdB cABG | A=fcf A=FFc | BGBd cABG | Agdg BGG :|
+g |\
+bgaf gdeB | cA=fc A=FFg | bgfa gdeB | cAgd BGGg |
+bgaf gdeB | cA=fc A=FFc | BGcA dBec | fdaf gGG |]
+%
+V: 2
+z |\
+G2[b2g2d2] [a2f2d2][b2g2d2] | [c'2a2=f2][c'2a2f2] [c'2a2f2][c'2a2f2] |\
+G2[b2g2d2] [a2f2d2][b2g2d2] | d'2d2 g2[gdG] :|
+z |\
+[b2g2d2][c'2a2d2] [b2g2d2][b2g2d2] | [c'2a2=f2][c'2a2f2] [c'2a2f2][c'2a2f2] |\
+[b2g2d2][c'2a2d2] [b2g2d2][b2g2d2] | [a2f2d2][a2f2d2] [b2g2d2][b2g2d2] |
+[b2g2d2][c'2a2d2] [b2g2d2][b2g2d2] | [c'2a2=f2][c'2a2f2] [c'2a2f2][c'2a2f2] |\
+G2A2 B2c2 | d2[c'2a2d2] [b2g2][gG] |]
+
+%%sep 1 1 500
+
+X: 41
+T: MISS ELIZA FORSYTH
+C: JOHN MORISON
+R: Strathspey
+B: Glen Collection p.14 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+%
+V: 1
+g |\
+dB GA/B/ AFAB | cedB GABg | dB GA/B/ AFAB | cedB G2Gg |
+dB GA/B/ AFAB | cedB GABg | dBGD EFGA | {c}BA/G/ {B}AG/F/ | G2G ||
+d |\
+gage dBGg | edeg abaf | gage dBGB |ce d/c/B/A/ G2Gd |
+gage dBGg | edeg abag | ba/g/ ag/f/ gf/e/ dB | cedB G2[GB,] |]
+%
+V: 2
+z |\
+G2[b2g2d2] d2[c'2a2f2] | [a2f2][b2g2] [b2g2d2][b2g2d2] |\
+G2[b2g2d2] d2[c'2a2f2] | [a2f2][b2g2] [b2g2][b2g2] |
+G2[b2g2d2] d2[c'2a2f2] | [a2f2][b2g2] [b2g2d2][b2g2d2] |\
+B2[b2g2] c2[g2e2] | [b2g2d2][c'2a2d2] [b2g2][bg] ||
+z |\
+G2[b2g2d2] [b2g2d2][b2g2d2] | c2[c'2g2] d2[c'2a2] |\
+B2[b2g2d2] [b2g2d2][b2g2d2] | d2[a2f2] [b2g2][b2g2] |
+G2[b2g2d2] [b2g2d2][b2g2d2] | c2[c'2g2] d2[c'2a2] |\
+[b2g2d2][c'2a2d2] [b2g2d2][b2g2d2] | [a2f2d2][a2f2d2] [b2g2][gdG] |]
+
+%%sep 1 1 500
+
+X: 42
+T: LORD ELCHO
+C: R. MACKINTOSH
+R: Reel
+B: Glen Collection p.14 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: The MS has the last 3 notes of part 1 beamed, but the same notes in the last bar are not beamed.
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+%
+V: 1
+d |\
+[g2B2D2G,2](dB) cgec | BgdB cAFD | [g2B2D2G,2](dB) cgec | BdAc BGG :|
+c |\
+BdGB egce | BdGB A(DDc) | BdGB egce | dBcA B(GGc) |
+BdGB egce | BdGB FADC | B,DGD EGce | dBcA BG G |]
+%
+V: 2
+z |\
+G2[b2g2d2] [g2e2][g2e2] | [g2d2][g2d2] [f2d2][f2d2] |\
+G2[b2g2d2] [g2e2][g2e2] | [g2d2][f2d2] [g2d2][gdG] :]
+z |\
+G2[g2d2] c2[g2e2] | G2[g2d2] D2[f2d2] |\
+G2[g2d2] c2[c'2g2] | [b2g2d2][a2f2d2] [b2g2d2][b2g2d2] |
+G2[g2d2] c2[g2e2] | G2[g2d2] D2[f2d2] |\
+G2[b2g2] [c'2g2e2][c'2g2e2] | [b2g2d2][a2f2d2] [g2d2G2][gdG] |]
+
+%%sep 1 1 500
+
+X: 43
+T: Sir JAs G. BAIRD Bart.
+C: R. MACKINTOSH
+N: What does the title mean?
+R: Strathspey
+B: Glen Collection p.14 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+%
+V: 1
+B |\
+(G>F G)<D (G>F G)<D | E<C A>G F<(A A>B) | (G>F G)<D E<D E<e | d>c B>A B<G G>B |
+(G>F G)<D (G>F G)<D | E<C A>G F<A A>B | (G>F G)<D (E>D E)<B, | C<A, D>C B,G,G, ||
+d |\
+g<d g<B g<d g<B | c<A d>B F(A AB/c/) | d<B g<d e<c d<D | E<(c B>A) B<G G>d |
+g<d g<B g<d g<B | c<A d>G F<(A A>B) | G>B d<D EG c>e | d>c B>A BGG |]
+%
+V: 2
+z ||
+G2[b2g2d2] [b2g2d2][b2g2d2] | c2[a2e2] d2[c'2f2] |\
+G2[b2g2] c2[c'2g2] | d2[a2f2] G2[b2g2d2] |
+G2[b2g2d2] [b2g2d2][b2g2d2] | c2[a2e2] d2[c'2f2] |\
+[b2g2][b2g2] [c'2g2][g2e2] | d2[a2f2] g2G ||
+z |\
+[b2g2][d'2g2] [b2g2][d'2g2] | [d'2f2][d'2g2] d2[c'2a2] |\
+[b2g2][b2g2] [c'2g2][b2g2] | [g2c2][f2d2] [g2d2][b2g2d2] |\
+[b2g2][d'2g2] [b2g2][b2g2] | [a2f2d2][b2g2d2] [c'2a2d2][a2f2d2] |\
+G2[b2g2] c2[g2e2] | d2D2 G2[gdG] |]
+
+%%sep 1 1 500
+
+X: 44
+T: LOCH EARN
+C: NATH. GOW
+R: Reel
+B: Glen Collection p.15 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+V: 1
+d |\
+[g2B2D2G,2]dB G2BG | E2(AE) FDDd | g2dB G2BG | (EA)FD G2G :|
+d |\
+(ef).g.e (fg).a.b | (Tgfg).e fddf | (ef)ge (fg)ag | (Tfe)fd g2Bd |
+efge dBgB | ceBd .A(FTED) | GABG EGce | (dB)cA G2G |]
+V: 2
+z |\
+G2[b2g2d2] [b2g2d2][b2g2d2] | c2[c'2a2e2] d2[c'2a2d2] |\
+[b2g2][b2g2d2] [b2g2d2][b2g2d2] | c2d2 g2[bg] :|
+z |\
+c2[c'2g2] d2[c'2a2] | [b2g2][b2g2] [a2f2d2][a2d2] |\
+c2[c'2g2] d2[c'2a2] | [c'2a2d2][c'2a2d2] [b2g2][b2g2] |
+c2[g2e2] [G2][g2d2] | [g2c2][g2d2] [f2d2][f2d2c2] |\
+[g2B2][g2B2] [g2c2][g2c2] | [b2g2d2][a2f2d2] [b2g2][gdG] |]
+
+%%sep 1 1 500
+
+X: 45
+T: MISS BARBARA CUNNINGHAM
+C: R. MACKINTOSH
+R: Strathspey
+B: Glen Collection p.15 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+V: 1
+B2 |\
+G3g dB3 Gd3 BG3 | (E2FG A3)G F(D3 D3B) | G3g dB3 Gd3 BG3 | E2c2 BAGF [G4B,4] G,2 :|
+ga |\
+bg3 dg3 eg3 dB3 | ca3 Bg3 a2(A2 A2ga) | bg3 dg3 eg3 dB3 | ea3 df3 g4 G2ga |
+bg3 af3 ge3 fd3 | ec3 dB3 a(A3 A3B) | G3D BG3 dB3 gc3 | Bd3 D3F [G4B,4] G,2 |]
+V: 2
+z2 |\
+G4 [b4g4d4] [b4g4d4] [b4g4d4] | [a4c4] [a4^c4] [a4d4] [f4d4] |\
+[g4G4] [b4g4d4] [b4g4d4] [g4d4] | [a4c4] [f4d4] [g4d4G4] [d2G2] :|
+z2 |\
+g4 [b4g4] [c'4g4] [b4g4] | [d'4f4] [d'4g4] [d'4f4] [d'4f4] |\
+g4 [b4g4] [c'4g4] [b4g4] | [c'4d4] [c'4d4] [b4g4] [b4g4] |
+[d'4g4] [d'4d4] [b4e4] [b4B4] | [g4c4] [g4G4] F4 [f4d4] |\
+[g4G4] [d'4g4] [b4g4] [c'4g4e4] | g4 [c'4a4d4] [g4d4] [d2B2G2] |]
+
+%%sep 1 1 500
+
+X: 46
+T: MISS CATHRINE CHALMERS
+C: NATH. GOW
+R: Reel
+B: Glen Collection p.15 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+%
+V: 1
+[|\
+(B/c/d) cB (c/d/e) dc | BEAG {G}F2(ED) | BGDB, CEAc | BGAF G2(Gc) |
+(B/c/d) cA (c/d/e) dc | BEAG {G}F2(ED) | BGDB, CEAc | BGAF G2(Gd) ||
+||\
+gbge ^dfbd | eged ^ceac | d>efd Bgeg | fde^c d2D2 |
+{e}dc/B/ bB caAc | BgGB .A(FED) | (dB).B.d (cA).A.c | BGAF G2G2 |]
+%
+V: 2
+[|\
+G2[g2d2] [f2d2][f2d2] | G2c2 d2[a2f2] |\
+[g2d2][g2d2] [a2e2c2][a2e2c2] | [b2g2d2][c'2a2d2] [b2g2d2][b2g2d2] |
+G2[g2d2] [f2d2][f2d2] | G2c2 d2[a2f2] |\
+[g2d2][g2d2] [a2e2c2][a2e2c2] | [b2g2d2][c'2a2d2] [b2g2][b2g2] ||
+||\
+e2[b2g2] B2[a2f2] | [g2e2][g2e2] [a2e2A2][a2e2A2] |\
+d2[a2f2] G2[e2B2] | A2[g2e2] [f2d2][f2d2] ||
+[g2d2G2][g2d2G2] [f2d2][f2d2] | [g2G2][b2g2d2] [c'2a2d2][c'2a2d2] |\
+[b2g2d2][b2g2d2] [a2f2d2][a2f2d2] | g2[c'2d2] [b2g2][g2d2G2] |]
+
+%%sep 1 1 500
+
+X: 47
+T: Col. H. F. CAMPBELL
+C: WHITE
+R: Strathspey
+B: Glen Collection p.16 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: The last bass note was an A; this is almost certainly a typo.
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+%
+V: 1
+|:\
+G2d2 d>Bdg | egdg AFDF | G2d2 d>Bdg | egfa g2g2 :|
+g>ab>a gddg | egdg AFDF | g>ab>a gddg | egfa g2g2 |
+g>ab>a gddg | egdg AFDF | G2d2 d>Bdg | egfa g2g2 |]
+%
+V: 2
+|:\
+G2[b2g2] [d'2g2][b2g2] | [c'2g2][b2g2] [c'2d2][c'2d2] |\
+G2[b2g2] [d'2g2][b2g2] | [c'2g2][c'2d2] [b2g2][b2g2] :|
+G2[d'2g2] [b2g2][b2g2] | [c'2g2][b2g2] [c'2d2][c'2d2] |\
+[b2g2][d'2g2] [b2g2][b2g2] | [c'2g2][c'2d2] [b2g2][b2g2] |
+G2[d'2g2] [b2g2][b2g2] | [c'2g2][b2g2] [c'2d2][c'2d2] |\
+[b2g2][b2g2] [d'2g2][b2g2] | [c'2g2][c'2d2] [b2g2][g2G2] |]
+
+%%sep 1 1 500
+
+X: 48
+T: MISS MARGARET GORDON OF LESSMORE
+C: JOHN MACGLASHAN
+R: Reel
+B: Glen Collection p.16 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+%
+V: 1
+c |\
+BG B/c/d (cB)(AG) | FDAG FDDc | BG B/c/d gfed | e/f/g df gGG :|
+g |\
+bgba gfed | {f}edgB cAAc | dbba gfed | e/f/g f/g/a bgga |
+bgba gfed | {f}edgB cAAc | B/c/d Ac BGDB, | CEDF G2[GB,] |]
+%
+V: 2
+z |\
+G2[g2d2] [g2d2][g2d2] | [a2d2][f2d2] [a2d2][f2d2] |\
+[g2G2][b2g2] [c'2g2][b2g2] | [c'2g2][c'2a2d2] [b2g2][bg] :|
+z |\
+[g2d2G2][g2d2G2] [g2d2G2][g2d2G2] | [g2d2G2][g2d2G2] [f2d2A2][f2d2A2] |\
+[g2d2G2][g2d2G2] [g2d2G2][g2d2G2] | [c'2g2][c'2d2] [b2g2][b2g2] |
+[g2d2G2][g2d2G2] [g2d2G2][g2d2G2] | [g2d2G2][g2d2G2] [f2d2A2][f2d2A2] |\
+[g2d2G2][f2d2] [g2d2][g2d2] | g2[c'2d2] [b2g2][bdG] |]
+
+%%sep 1 1 500
+
+X: 49
+T: LADY CHARLOTTE CAMPBELL
+C: NATH. GOW
+R: Strathspey
+B: Glen Collection p.16 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: Alternate runs at end of bar 12 rewritten to get more readable result from ABC software.
+N: Original was all 16th notes with 2nd set of stems and beams on the notes GABc.
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+%
+V: 1
+c !segno!| {Bc}d>cBG AcB>c | {Bc}d>cBG EAFD | {Bc}d>cBG Ac Bc/d/ | ecAF G2G :|
+d | g/f/g/a/ gd Bgdg | {a}gf/e/ f>g aAAf | g/f/g/a/ gd BgdB | e>cAF {F}G2 G, ||
+d | g/f/g/a/ gd Bgdg | {a}gf/e/ f>g aAAf | gdbf gdec | BdDF G{FG}A B{AB}c  !segno!|]
+%
+V: 2
+z |\
+[g2d2G2][g2d2G2] [f2d2A2][f2d2A2] | [g2d2G2][g2d2G2] [f2d2][f2d2] |\
+[g2d2G2][g2d2G2] [f2d2][g2d2] | [g2c2][c'2d2] [b2g2][bg] :|
+z |\
+[g2G2][b2g2] [d'2g2][b2g2] | [c'2a2d2][c'2a2d2] [c'2a2d2][c'2a2d2] |\
+[g2G2][b2g2] [d'2g2][b2g2] | [c'2a2d2][c'2a2d2] [b2g2]z ||
+z |\
+[g2G2][b2g2] [d'2g2][b2g2] | [c'2a2d2][c'2a2d2] [c'2a2d2][c'2a2d2] |\
+[g2G2][d'2g2] [b2g2][c'2g2] | [d'2g2][c'2d2] [b2g2]gz |]
+
+%%sep 1 1 500
+
+X: 50
+T: BRECHIN LASSES
+C: C. STEWART, J. WALKER, Coll.
+R: Reel
+B: Glen Collection p.17 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+%
+V: 1
+B |\
+DGGA BGcA | BGcB AGFA | DGGA BGcA | (B/c/d) DF G2G :|
+(e/f/) |\
+gdBd cedc | BGdB AGFA | gdBd cedc | Bdef g2(de/f/) |
+gdBd cedc | BdGB cBAF | GBAc Bdce | FADF G2G |]
+%
+V: 2
+z |\
+G2[g2d2] [g2d2][f2d2] | [g2d2][g2d2] [f2d2][a2d2] |\
+[b2g2][b2g2] [g2d2][f2d2]  | [g2d2][c'2d2] [b2g2][bg2] :|
+z |\
+g2[d'2b2] d2[a2f2] | g2[d'2b2] d2[c'2a2] |\
+g2[d'2b2] d2[a2f2] | [b2g2][c'2d2] [b2g2][b2g2] |
+g2[d'2b2] d2[a2f2] | G2[g2d2] [f2d2][c'2d2] |\
+[b2g2][d'2f2] [d'2g2][a2c2] | [c'2d2][c'2d2] [b2g2][gdG] |]
+
+%%sep 1 1 500
+
+X: 51
+T: THE BRIDGE OF BALLATER
+C: N. GOW
+R: Strathspey
+B: Glen Collection p.17 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: C
+%
+V: 1
+E |\
+C>EG>A c>GA<a | g<cg>e {e}d2d>e | C>EG>A c>GA<a | g<cg>e c2c :|
+e/f/ |\
+g>ce>c g>cf<a | g<c~g>e {e}d2Tde/f/ | g>ce>c g>cf<a | g>c {cd}e>d {d}c2ce/f/ |
+g>ce>c g>cf<a | g>c (a/g/)(f/e/) {e}d2Td>e | C>EG>A c>GA<a | g<cTg>e {e}c2c |]
+%
+V: 2
+z |\
+c2[c'2e2] [c'2e2][c'2f2] | [c'2e2][c'2c2] [b2g2][b2g2] |\
+c2[c'2e2] [c'2e2][c'2f2] | [c'2e2][b2g2] [c'2g2e2c2][c'gec] :|
+z |\
+c2[c'2g2] [c'2e2][c'2f2] | [c'2e2][c'2g2] [b2g2][b2g2] |\
+c2[c'2g2] [c'2e2][c'2f2] | [c'2e2][b2g2] [c'2c2][c'2c2] |
+c2[c'2g2] [c'2e2][c'2f2] | [c'2e2][c'2f2] [b2g2][b2g2] |\
+e2[c'2e2] [c'2e2][c'2f2] | [e'2c'2g2][d'2b2g2] [e'2c'2][c'c] |]
+
+%%sep 1 1 500
+
+X: 52
+T: HONble Mrs CAMPBELL. (of Lochnell.)
+C: . MACKINTOSH
+R: Reel
+B: Glen Collection p.17 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: C
+%
+V: 1
+G |\
+c2(Gc) ECGE | c2(ec) d(DDB) | c2(AF) EGCE | FDG,G E(CCG) |
+c2(Gc) EDGE | c2(ec) d(DDB) | c2(Ac) GcEc | defd ecc ||
+G |\
+ECEG AFAc | ECFE D(G,G,F) | ECEG AFAc | BdGf e(ccG) |
+ECEG AFAc | ECFE D(G,G,F) | EGFA GBAc | Bag>f ecc |]
+%
+V: 2
+z |\
+c2[g2e2] [g2e2][g2e2] | c2[c'2g2] G2[b2g2] |\
+c2[a2f2] c2[g2e2] | G2d2 c2[g2e2] |
+c2[g2e2] [g2e2][g2e2] | c2[c'2g2] G2[b2g2] |\
+c2[c'2f2] [c'2e2][c'2g2] | [b2g2][b2g2] [c'2g2c2][c'gc] ||
+z |\
+c2[c'2g2] f2[c'2a2] | c2[c'2g2] G2[d2B2] |\
+c2[c'2g2] f2[c'2a2] | g2[d'2b2] c2[c'2g2e2] |
+c2[c'2g2] f2[c'2a2] | c2[c'2g2] G2[d2B2] |\
+[c'2c2][c'2d2] [c'2e2][c'2f2] | [b2g2][b2g2] [c'2g2c2][c'gc] |]
+
+%%sep 1 1 500
+
+X: 53
+T: THE TWEEDDALE CLUB
+C: NATH. GOW
+R: Strathspey
+B: Glen Collection p.18 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: C
+%
+V: 1
+c |\
+G<Ec>G A>GEc | G<EcE dDDc |[1 GEcG A>BcA GeEc D2C :|[2 GEcG A>Bca | gcfe d2c ||
+|: e/f/ |\
+gcg>e cgeg | ada>f d>ef>a |[1 gcge cgeg | (3faf (3ege d2c :|[2 geaf ecBG | AcEc TD2C |]
+%
+V: 2
+z |\
+c2[c'2g2] [c'2e2][c'2g2] | c2[c'2g2] G2[b2g2] |\
+[1 c2[g2e2] F2[f2c2] | [e2c2] [g2c2] [f2G2][ec] :|\
+[2 c2[g2e2] f2[c'2a2] | [e'2c'2g2][e'2c'2g2] [f'2d'2g2][e'c'] ||
+|: z |\
+c2[c'2g2] e2[c'2g2] | f2[f'2c'2] g2[d'2b2] |\
+[1 c2[c'2g2] e2[c'2g2] | [c'2f2][c'2g2] [b2g2][c'c] :|\
+[2 e2f2 g2G2 | [f2c2][g2c2] [f2G2][ec] |]
+
+%%sep 1 1 500
+
+X: 54
+T: Mrs MUIR MACKENZIE
+C: Wm GOW
+R: Reel
+B: Glen Collection p.18 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: C
+%
+V: 1
+E |\
+Cc2G ECC_E | D_B2F D_B,B,D | Cc2G E>FGf | ecde c/c/c c2 |
+Gc2G ECC_E | D_B2F D_B,B,D | C~c2G E>FGf | ecde c/c/c c ||
+e |\
+gece .g(aTg>e) | fd_Bd .f(gTf>d) | gece .g(aTg>e) | fdg>e c/c/c ce |
+gece .g(aTg>e) | fd_Bd .f(gTf>d) | cedf egfa | gefd c/c/c c |]
+%
+V: 2
+z |
+c2[c'2g2] c2[g2_e2] | _B2[_b2f2] B2[f2d2] |\
+c2[c'2g2] [c'2g2][c'2g2] | [e'2c'2g2][f'2b2g2] [e'2c'2][e'2c'2] |
+c2[c'2g2] c2[b2_e2] | _B2[_b2f2] B2[f2d2] |\
+c2[c'2g2] [c'2g2][c'2g2] | [e'2c'2g2] [f'2b2g2] [e'2c'2][e'c'] ||
+z |\
+c2[c'2g2] e2[c'2g2] | _B2[_b2f2] d2[b2f2] |\
+c2[c'2g2] e2[c'2g2] | [b2g2][b2g2] [c'2c2][c'2c2] |
+c2[c'2g2] e2[c'2g2] | _B2[_b2f2] d2[b2f2] |\
+c2[b2g2] [c'2g2][d'2g2] | [e'2g2][b2g2] [c'2c2][c'gec] |]
+
+%%sep 1 1 500
+
+X: 55
+T: Mrs WILLS
+C: GEORGE JENKINS
+R: Strathspey
+B: Glen Collection p.18 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: C
+%
+V: 1
+f |\
+(e/f/g) c>g e>cg>e | (f/g/a) Tg>e f>dd>f | (e/f/g) c>g e>cg>e | f>dg>e c/c/c c :|
+F |\
+(E/F/G) c>G e>Gc>G | F>dE>c d>DD>F | (E/F/G) c>G e>Gc>G | (F/G/A) D>F E>CC>F |
+(E/F/G) c>G e>Gc>G | F>cE>c dDDF | E>CF>D G>cf>a | g>ef>d c/c/c c |]
+%
+V: 2
+z |\
+[c'2c2][c'2e2] [c'2g2][c'2g2] | [c'2f2][c'2e2] [b2g2][b2g2] |\
+[c'2c2][c'2e2] [c'2g2][c'2g2] | [b2g2][b2g2] [c'2g2c2][c'gc] :|
+z |\
+c2[g2e2] [c'2e2][g2e2] | [g2d2][g2c2] G2[b2g2] |\
+[c'2c2][g2e2] [c'2e2][g2e2] | f2g2 c2[g2e2] |
+c2[g2e2] [c'2e2][g2e2] | [g2d2][g2c2] G2[g2e2] |\
+[g2c2][g2d2] [g2e2][b2d2] | [c'2e2][b2g2] [c'2g2e2c2][c'gec] |]
+
+%%sep 1 1 500
+
+X: 56
+T: ANDERSON'S RANT
+C: Wm MARSHALL
+R: Reel
+B: Glen Collection p.19 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: C
+%
+V: 1
+|:\
+CEGE c2(ce) | GECE D2(DE) | CEGE cdfa | gede c/c/cc2 :|
+gecg ecge | gece d2d2 | gecg ecge fdge c/c/cc2 |
+gecg ecge gece d2d2 | GcFc Ec fa | gede c/c/cc2 |]
+%
+V: 2
+|:\
+c2[c'2e2] [c'2e2][c'2e2] | [c'2e2][g2e2] [b2g2][b2g2] |\
+c2[c'2e2] [c'2f2][c'2f2] | c'2[b2g2] [c'2c2][c'2c2] :|
+[c'2c2][c'2e2] [c'2g2][c'2e2] | [c'2c2][c'2e2] [b2g2][b2g2] |\
+[c'2c2][c'2e2] [c'2g2][c'2e2] | [b2g2][b2g2] [c'2c2][c'2c2] |\
+[c'2c2][c'2e2] [c'2g2][c'2e2] | [c'2c2][c'2e2] [b2g2][b2g2] |\
+[c'2e2][c'2f2] [c'2g2][c'2a2] | c'2[b2g2] [c'2g2c2][c'2g2c2] |]
+
+%%sep 1 1 500
+
+X: 57
+T: HILTON LODGE
+C: N. GOW
+R: Strathspey
+B: Glen Collection p.19 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: C
+%
+V: 1
+e/f/ |\
+g<cg>e fdTde/f/ | gcg>e c>ege | f>de>c dD-D.E | C>Ec>E G2G :|
+E |\
+CEcE FD-D.E | C>EcE G>cEc | G<cE<c dD-D.E | C>EcE {E}G2GE |
+C>EcE FDD.E | C>Ec>E G<cE<c | FdEc Dd-de/f/ | ecdB {B}c2c |]
+%
+V: 2
+z |\
+[c'2c2][c'2e2] [b2g2][b2g2] | [c'2c2][c'2e2] [c'2g2][c'2e2] |\
+[b2d2][c'2e2] [b2g2][b2g2] | [g2e2][c'2e2] [b2g2][bg] :|
+z |\
+c2[g2e2] G2[f2d2] | c2[g2e2] [c'2e2][g2e2] |\
+c2[g2e2] G2[f2d2] | c2[g2e2] G2[g2c2] |
+c2[g2e2] G2[f2d2] c2[g2e2] [c'2e2][g2e2] |\
+[b2g2][c'2g2] [b2g2][b2g2] | c'2[f'2d'2g2] [e'2c'2][c'c] |]
+
+%%sep 1 1 500
+
+X: 58
+T: MISS CAMPBELL OF MONZIE
+C: Anon, GOW'S 3rd Coll.
+R: Reel
+B: Glen Collection p.19 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: C
+%
+V: 1
+e |\
+Tc2Gc ecGE | FdEc dDDB | c2Gc EcGE | FADF ECC :|
+f |\
+ecgc acgc | ec a/g/f/e/ fddf | gcac gcec | Bcdf eccf |
+ecgc acgc | egce fddf | gecf afdc | Bcdf ecc |]
+%
+V: 2
+z |\
+c2[c'2g2] [c'2g2][c'2g2] | [b2g2][c'2g2] [b2g2][b2g2] |\
+c2[c'2g2] [c'2g2][c'2g2] | [c'2f2][b2g2] c'2c :|
+z |\
+c2[c'2e2] [c'2f2][c'2e2] | c2[c'2g2] [b2g2][b2g2] |\
+[c'2e2][c'2f2] [c'2e2][c'2g2] | g2G2 c2[g2e2] |
+c2[c'2e2] [c'2f2][c'2e2] | c2[c'2g2] [b2g2][b2g2] |\
+[c'2e2][c'2e2] [c'2f2][d'2^f2] | g2G2 c2[c'gec] |]
+
+%%sep 1 1 500
+
+X: 59
+T: MISS HENRIETTA ABERNETHIE
+C: I. COOPER
+R: Strathspey
+B: Glen Collection p.20 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: C
+%
+V: 1
+|:\
+(c>d) e<c d<B d>A | G>c E>C D/D/D D2 |(c>d) e<c d<B d>A |   G>E  F>D C/C/C C2 :|
+ C>E  G>E c>e d>B | c>A G>E D/D/D D2 | C>E  G>E c>e d>c |(B/c/B) G>B c/c/c c2 |
+ C>E  G>E c>e d>B | c>A G>E D/D/D D2 | g>e  f>d e>c d>B |   G>B  d>B c/c/c c2 |]
+%
+V: 2
+|:\
+c2[g2c2] [f2c2][e2c2] | c2[c'2g2] G2[b2g2] |\
+c2[g2c2] [f2c2][e2c2] | c2[b2g2] [g2e2c2][g2e2c2] :|
+c2[c'2g2] [c'2g2][b2g2] | c2[g2e2] G2[b2g2d2] |\
+c2[c'2g2] [c'2g2][c'2g2] | G2[f2d2] [e2c2][g2e2c2] |
+c2[c'2g2] [c'2g2][b2g2] | c2[g2e2] G2[b2g2d2] |\
+c2[b2g2] [c'2g2][b2g2] | g2[f2G2] [e2c2][c'2g2e2c2] |]
+
+%%sep 1 1 500
+
+X: 60
+T: Mrs GENERAL MAXWELL OF PARKHILL
+C: M. McDONALD
+R: Reel
+B: Glen Collection p.20 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: C
+%
+V: 1
+G |\
+c2(ec) dGBG | c2(ec) dAAB | c2(ec) dGBG | cAGc ECC :|
+e |\
+gagf ecce | gage fdde | gagf ecaf | ecGB c2-ce |
+gagf ecce | gage fddf | eceg fagf | ecdB c2c |]
+%
+V: 2
+z |\
+c2[c'2g2] g2[d'2b2] | c2[c'2g2] g2[f'2d'2] |\
+[e'2c'2][c'2g2] [b2g2][d'2g2] | f2e2 c2[gec] :|
+z |\
+c2[c'2g2] [c'2g2][c'2g2] | c2[c'2g2] G2[b2g2] |\
+c2[c'2g2] [c'2g2][c'2f2] | [c'2g2][d'2g2] [e'2c'2]c'2 |
+c2[c'2g2] [c'2g2][c'2g2] | c2[c'2g2] G2[b2g2] |\
+c2[c'2g2] [c'2a2][d'2b2] | c'2g2 c2[c'gec] |]
+
+%%sep 1 1 500
+
+X: 61
+T: MISS HALDANE OF GLENEAGLES
+C: Wm SHEPHERD
+R: Strathspey
+B: Glen Collection p.20 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: C
+%
+V: 1
+GF |\
+E3C C2DE F3E D2GF | E2C2 C2E2 DCB,A, G,2GF | E3C C2DE F3E D2G2 | ABcA Bcdf e2c2c2 :|
+{a}gf |\
+e3c c2de f3e  d2gf | e2c2 c2A2 BcdB G2gf | e3c  c2de f3e  d2gf | e2c2 Gagf e2c2c2 gf |
+e3c c2de fgaf d2gf | e2c2 c2A2 BcdB G2cB | A2c2 G2c2 F2d2 E2c2 | DEFD EAGF E2C2C2 |]
+%
+V: 2
+z2 |\
+c4[g4e4] G4[f4d4] | c4[g4e4] G4[d4B4] |\
+c4[g4e4] G4[b4g4] | f4g4 c4[c'2g2e2c2] :|
+z2 |\
+[c'4g4c4][c'4g4c4] [b4g4c4][b4g4c4] | c4[c'4g4] G4[b4g4] |\
+[c'4g4c4][c'4g4c4] [b4g4c4][b4g4c4] | [c'4g4c4][b4g4] [c'4g4][c'4g4] |
+[c'4g4c4][c'4g4c4] [b4g4c4][b4g4c4] | c4[c'4g4] G4[b4g4] |\
+[c'4f4][c'4e4] [b4d4][c'4c4] | [b4g4][b4g4] [c'4c4][g2e2c2] |]
+
+%%sep 1 1 500
+
+X: 62
+T: MISS CHRISTIE OF DURRIE
+C: J. WALKER
+R: Reel
+B: Glen Collection p.21 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: C
+%
+V: 1
+B |\
+c2Bc GcBc | defd cBAG | c2Bc defd ecdB c2c :|
+f |\
+g2eg f2df | afed cBAG | c2Bc defd ecdB d2df |
+g2eg f2df | afed cBAG | cedf egfa | gefd c2c |]
+%
+V: 2
+z |\
+c2[c'2g2] e2[c'2g2] | d2[d'2a2] g2[f'2d'2] |\
+[e'2c'2][e'2c'2] f2[d'2a2] | g2G2 c2[gec] :|
+z |\
+e2[c'2g2] d2[b2g2] | d2[a2f2] g2[f'2d'2] |\
+[e'2c'2][e'2c'2] f2[d'2a2] | g2G2 c2[g2e2c2] |
+e2[c'2g2] d2[b2g2] | d2[a2f2] g2[f'2d'2] |\
+[e'2c'2][b2g2] [c'2g2][d'2g2] | [e'2c'2][b2g2] [c'2c2][c'gec] |]
+
+%%sep 1 1 500
+
+X: 63
+T: MISS JEANY ABERNETHIE
+C: I. COOPER
+R: Strathspey
+B: Glen Collection p.21 #_
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: C
+V: 1
+|:\
+c3G E3G c3d e3c | d3f e3g fd3 d4 | (c3d e3)c G3c e3a | (Tg3f) (e3d) ec3 c4 :|
+g3e c3g ec3 g3e | f3g (agfe) fd3 d4 | Tg3e c3g ec3 g3e | f3a Tg3f ec3 c4 ||
+Tg3e c3g ec3 g3e | f3g (agfe) (fd3) d4 | c3G c3e d3f e3g | f3a Tg3f (ec3) c4 |]
+V: 2
+|:\
+c4[c'4g4] e4[c'4g4] | [b4g4][c'4g4] [b4g4][b4g4] |\
+c4[c'4g4] e4[c'4g4] | [b4g4][b4g4] [c'4c4][c'4c4] :|
+e4[c'4g4] c4[c'4g4] | d4[d'4a4] g4[d'4b4] |\
+e4[c'4g4] c4[c'4g4] | [b4g4][b4g4] [c'4c4][c'4c4] ||
+e4[c'4g4] c4[c'4g4] | d4[d'4a4] g4[d'4b4] |\
+e4[c'4g4] [b4g4][c'4g4] | [b4g4][b4g4] [c'4c4][c'4g4e4c4] |]
+
+%%sep 1 1 500
+
+X: 64
+T: MISS SCOTT OF BELVUE
+C: Wm SHEPHERD
+R: Reel
+B: Glen Collection p.21 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: C
+%
+V: 1
+g !segno!|: ecTc2 {Bc}GcEc | ecTc2 {Bc}defa | ecTc2 {Bc}GcEc | FdEc DEFD :|
+|: CE/F/ GE cEGE | CE/F/ GE DEFD | CE/F/ GE cEGE | FdEc DEFD !segno!:|
+%
+V: 2
+z |:\
+c2[c'2g2] [c'2e2][c'2g2] | [c'2g2c2][c'2g2c2] [b2g2c2][b2g2c2] |\
+c2[c'2g2] [c'2e2][c'2g2] | [b2g2][c'2g2] [b2g2][b2g2] :|
+|:\
+c2[c'2g2] [c'2g2][c'2g2] | e2[c'2g2] [b2g2][b2g2] |\
+c2[c'2g2] [c'2g2][c'2g2] | e2[c'2g2] [b2g2][b2g2] |]
+
+%%sep 1 1 500
+
+X: 65
+T: THE DUTCHESS OF ATHOLE'S SLIPPER
+C: NIEL GOW
+R: Strathspey
+B: Glen Collection p.21 #4
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: F
+%
+V: 1
+|: CFAF c<FA<F | CFAF D<GTG2 | CFAF cFA<f | {d}Tc>BAG F<FTF2 :|
+c<fTf2 cfaf | Tgfaf dgTg2 | c<fTf2 cfaf | gfaf cfTf2 ||
+c<fTf2 cfaf | Tgfaf dgTg2 | f<ad<f c<fA<f | {d}Tc>B AG F<FTF2 |]
+%
+V: 2
+|:\
+[f2F2][a2f2c2] [a2f2c2][a2f2c2] | [f2F2][a2f2c2] [B2B,2][g2d2B2] |\
+[f2F2][f2c2] [a2f2c2][f2c2] | [c2C2][b2e2c2] [f2F2][a2f2c2] :|
+[f2F2][f'2c'2a2] [f'2c'2a2][f'2c'2a2] | [f2F2][f'2c'2a2] [b2B2][d'2b2] |\
+[f2F2][f'2c'2a2] [f'2c'2a2][f'2c'2a2] | [f2F2][f'2c'2a2] [f'2c'2a2][f'2c'2a2] ||
+[f2F2][f'2c'2a2] [f'2c'2a2][f'2c'2a2] | [f2F2][f'2c'2a2] [b2B2][d'2b2] |\
+[d'2d2][f'2d'2a2] [a2A2][f'2c'2a2] | [c2C2][b2e2c2] [a2f2][f2F2] |]
+
+%%sep 1 1 500
+
+X: 66
+T: MISS BARTLET
+C: J. MACGLASHAN
+R: Reel
+B: Glen Collection p.22 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: F
+%
+V: 1
+B |\
+AFEF (DF)(CF) | AFEF BGGB | AFEF (D/E/F) CB | (A/B/c) (GB) AFF :|
+~B |\
+Acfa (ba)(gf) | ecfA BGGB | Acfa bagb | afce fFFB |
+Acfa (ba)(gf) | {f}ecfA BGGB | (A/B/c) (GB) AFEF | DdcB AFF |]
+%
+V: 2
+z |\
+F2[a2f2] [b2f2][a2f2] | F2[f2A2] [e2c2][e2c2] |\
+F2[a2f2] [b2f2][g2e2] | [a2f2c2][g2e2c2] f2F :|
+z |\
+[f2F2][c'2a2] c2[g2e2] | [b2c2][a2f2] [g2e2c2][g2e2c2] |\
+f2[c'2a2] c2[g2e2] | [a2f2][b2g2c2] [a2f2]f2 |
+[f2F2][c'2a2] c2[g2e2] | [b2c2][a2f2] [g2e2c2][g2e2c2] |\
+[f2c2][e2c2] [f2c2][f2A2] | [f2B2][g2e2c2] [f2F2][fF] |]
+
+%%sep 1 1 500
+
+X: 67
+T: MISS GORDON OF LESMORE
+C: DANIEL McLAREN
+R: Strathspey
+B: Glen Collection p.22 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: F
+%
+V: 1
+C2 |\
+F3G A2B2 c3A F2A2 | GABc dcBA G3F D2E2 | F3G A2B2 c2A2 f2c2 | d2Bd cf{d}cB A2F2F2 :|
+c2 |\
+f3c a2f2 b3g a3f | (ec)(bg) a2f2 g3f d3e | f3g a2f2 (cA)(af) c2A2 | d2f2 c3B A2F2 F2c2 |
+(f2c2) A2F2 (d2B2) G2E2 | (FAcf) (afcA) B2G2 G2A2 | F2A,2 B,2C2 [D2B,2]E2 F2d2 | c2f2 ({A}G2{F}E2) F4 F2 |]
+%
+V: 2
+z2 |\
+[f4F4] [a4f4c4] [a4f4c4] [a4f4c4] | [B4B,4] [b4g4d4] [c4C4] [b4g4c4] |\
+[f4F4] [a4f4c4] [a4f4c4] [a4f4c4] | [B4B,4] [c4C4]   [f4F4] [a2f2c2] :|
+z2 |\
+[f4F4]  [f'4c'4a4] [e'4c'4g4] [f'4c'4a4] | [g'4e'4c'4] [f'4c'4a4] [c4C4]   [b4g4c4] |\
+[f4F4]  [a4f4c4]   [a4f4c4]   [a4f4c4]   | [f4F4]      [a4f4c4]   [a4f4c4] [a4f4c4] |
+[f4F4]  [a4f4c4]   [c4C4]     [b4g4c4]   | [f4F4]      [a4f4c4]   [c4C4]   [e4c4]   |\
+[F4F,4] [f4c4]     [B4B,4]    [b4f4d4]   | [c4C4]      [b4e4c4]   [a4f4]   [f2F2]   |]
+
+%%sep 1 1 500
+
+X: 68
+T: Mrs McLEOD OF COLBECK
+C: CHARLES STEWART
+R: Reel
+B: Glen Collection p.22 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: F
+%
+V: 1
+C |\
+F/F/F FA (cA)(dB) | (Ac)fa gG-GA | F/F/F (FA) (cA).d.B | AcGB AF-F :|
+b |\
+agfc (df)cA | (Bd).c.A BG-Gb | agfc (df)Af | (d/e/f) (g/a/b) affg |
+agfc (db)(ca) | (Bg)(Af) gG-GB | Acfa gcdf | (Bd).G.B AF-[FA,] |]
+%
+V: 2
+z |\
+[f2F2][a2f2c2] [a2f2c2][b2f2c2] | F2[a2f2] [b2e2c2][b2e2c2] |\
+[a2f2][a2f2] [a2f2][b2f2] | c2[g2e2] F2[af] :|
+z |\
+F2[a2f2] [b2f2][a2f2] | [g2e2c2][a2f2c2] [g2e2c2][g2e2c2] |\
+F2[a2f2] [b2f2][a2f2] | [f2B2][e2c2] [f2c2][a2f2c2] |
+F2[a2f2c2] [b2f2d2][a2f2] | [g2e2c2][a2f2c2] [b2g2c2][g2e2c2] |\
+F2[f2c2] [b2g2c2][a2f2] | c2[g2e2] f2[fF] |]
+
+%%sep 1 1 500
+
+X: 69
+T: Mrs OSWALD. (of Auchincruives.) New.
+C: R. MACKINTOSH
+R: Strathspey
+B: Glen Collection p.23 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: F
+%
+V: 1
+AB |\
+cF3A3G F4F2AB | cF3A3c dcBA Gd3 | cF3A3F DF3CF3 | (EFG2) C3B AF3F2 :|
+c2 |\
+fc3a3g f4{g}f2ed | cF3A3f dcBA G3e | fc3af3 df3cf3 | (Bcd2) c3B A2F2F2c2 |
+fc3a3g f4{g}f2ed | cF3A3c dcBA G3B | Af3Bf3 cf3df3 | e2g2c2e2 f4{g}f2ed |]
+%
+V: 2
+z2 |\
+F4 [a4f4c4] [a4f4c4][a4f4c4] | A4[c'4f4] c4[b4e4] |\
+[a4f4][c'4f4] [b4f4][a4f4] | c4[g4e4c4] F4[a2f2c2] :|
+z2 |\
+[f4F4][f'4c'4a4] [f'4c'4a4][f'4c'4a4] | f4[c'4a4] c4[b4g4] |\
+[a4f4][a4f4c4] [b4f4d4][a4f4] | c4[g4e4] f4[a4f4] |\
+[f4F4][f'4c'4a4] [f'4c'4a4][f'4c'4a4] | f4[c'4a4] c4[b4g4] |\
+[f4F4][f'4g4] [f'4a4][f'4b4] | c'4c4 [a4f4][f4c4F4] |]
+
+%%sep 1 1 500
+
+X: 70
+T: LORD JOHN CAMPBELL
+C: D. MACINTYRE
+R: Reel
+B: Glen Collection p.23 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: F
+%
+V: 1
+|:\
+F2Ac f2fa | gfga gGGA | F/F/F Ac f2fa | gfga f/f/f f2 :|
+FGAB cAfc | dBcF EGGA | F/F/F Ac dBGF | ECGA F/F/F F2 |
+FGAB cAfc | dBcF EFGA | FfcA dBGF | ECga f/f/f f2 |]
+%
+V: 2
+|:\
+[f2F2] [f'2c'2a2] [f'2c'2a2][f'2c'2a2] | b2[g'2d'2b2] c'2[e'2c'2b2] |\
+[f2F2] [f'2c'2] [f'2c'2a2][f'2c'2a2] | c'2[e'2c'2b2] a2[f'2c'2f2] :|
+F2[a2f2c2] [a2f2c2][a2f2c2] | [g2e2c2][a2f2c2] [b2g2c2][g2e2c2] |\
+F2[a2f2] [b2f2][=b2d2] | [c'2c2][b2e2c2] [a2f2][a2f2] |
+F2[a2f2c2] [a2f2c2][a2f2c2] | [g2e2c2][a2f2c2] [b2g2c2][g2e2c2] |\
+[a2f2][a2f2] [b2f2][=b2d2] | [c'2c2][b2e2c2] [a2f2][f2F2] |]
+
+%%sep 1 1 500
+
+X: 71
+T: COUNTESS OF ROTHES
+C: R. MACKINTOSH
+R: Strathspey
+B: Glen Collection p.23 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: F
+%
+V: 1
+A |\
+F>(cTc>B) A<(ff>c) | G<(dd>c) B<(dd>g) | F<(cc>B) A<(fTf>c) | d>eTf>g {fg}aff :|
+F |\
+C>FA<F c<Fd<F | c<FA<F B<(GG>A) | (F/E/F/G/) A<F c<Fd<F | c<FTA>G A<(FF>A) |
+C>FA<F c<Fd<F | c<FA<F B<(GG>A) | A<fc<A B<fd<B | (e/f/g) c>b a(ff) |]
+%
+V: 2
+z |\
+F2[a2f2] [c'2f2][a2f2] | B2[g2d2] G2[b2g2] |\
+[a2f2][a2f2] [c'2f2][a2f2] | B2[b2f2d2] F2[afc] :|
+z |\
+A2[f2c2] [a2f2][b2g2] | [a2f2][c'2f2] c2[g2e2] |\
+F2[f2c2] [a2f2][b2f2] | [a2f2][c'2f2] [c'2f2][a2f2] |
+A2[f2c2] [a2f2][b2f2] | [a2f2][c'2f2] c2[g2e2] |\
+f2[c'2a2] B2[b2f2] | [g2c2][e2c2] [f2F2][fF] |]
+
+%%sep 1 1 500
+
+X: 72
+T: MISS TINKER
+C: ARCHd DUFF
+R: Reel
+B: Glen Collection p.23 #4
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: F
+%
+V: 1
+a |\
+f2cf dfcA | BdcA Ggga | f2cf dfcA | BdcA F/F/F F :|
+B |\
+A/B/c Fc AFcA | BdcA G/G/G GB | A/B/c Fc AFcA | BdcA F/F/F FB |
+A/B/c Fc fdcA | BGcA Gggb | afgb afge | fdcA F/F/F F |]
+%
+V: 2
+z |\
+[f2F2][a2f2] [b2f2][a2f2] | [g2e2c2][a2f2c2] [b2e2c2][b2e2c2] |\
+[a2f2][a2f2] [b2f2][a2f2] | [g2e2c2][a2f2c2] [a2f2][fF] :|
+z |\
+f2[c'2a2] [c'2f2][c'2f2] | [c'2e2][c'2f2] [c'2e2][c'2e2] |\
+F2[c'2a2] [c'2f2][c'2f2] | [c'2e2][c'2e2] [a2f2][f2F2] |
+F2[a2f2] [b2f2][a2f2] | [c'2e2][c'2f2] [c'2e2][c'2e2] |\
+[f2F2][e2c2] [f2c2] [b2c2] | [a2f2][g2e2c2] [a2f2][fcAF] |]
+
+%%sep 1 1 500
+
+X: 73
+T: Mrs GARDEN OF TROUP
+C: R. PETRIE
+R: Strathspey
+B: Glen Collection p.24 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: F
+%
+V: 1
+C |\
+F>GFd cFdF | ECCF E/F/G/E/ CE | F>GFd cFAf | c>f a/g/f/e/ f2f :|
+c |\
+fcac bcac | Af b/a/g/f/ egga | fcac bcac | Af a/g/f/e/ f2fc |
+fcac bcac | Af b/a/g/f/ e(gga) | dBdf cAcf | Af a/g/f/e/ f2f |]
+%
+V: 2
+z |\
+[f2F2][a2f2c2] [a2f2c2][a2f2c2] | [c2C2][b2g2c2] [b2g2c2][b2e2c2] |\
+[f2F2][a2f2c2] [a2f2c2][a2f2c2] | [a2f2c2][b2e2c2] [f2F2][afc] :|
+z |\
+[f2F2][f'2c'2a2] [e'2c'2g2][f'2c'2a2] | [f2F2][f'2c'2a2] [c2C2][e'2c'2g2] |\
+[f2F2][f'2c'2a2] [e'2c'2g2][f'2c'2a2] | [f2F2][b2e2c2] [f2F2][a2f2c2] |
+[f2F2][f'2c'2a2] [e'2c'2g2][f'2c'2a2] | f2[f'2c'2a2] [c2C2][b2e2c2] |\
+[B2B,2][b2f2d2] [c2C2][a2f2c2] | [c2C2][b2e2c2] [a2f2][fcF] |]
+
+%%sep 1 1 500
+
+X: 74
+T: Mrs GARDEN OF TROUP
+C: R. PETRIE
+R: Reel
+B: Glen Collection p.24 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: F
+%
+V: 1
+B |\
+Acf2 af (Tfe/f/) | dfcA B(GGB) | Ac Tf(e/f/) af Tf(e/f/) | dfcf AFFB |
+Ac Tf(e/f/) af f(e/f/) | dfcA BGGB | Acfa gafc | dfcB AFF ||
+A/B/ |\
+cAFc AFcA | B(dTcA) BG-GA/B/ | cAFc AFcA | Bdce f/f/ff2 |
+cAFc AFcA B(dTcA) BGGB | Acfa Bdgb | afge fFF |]
+%
+V: 2
+z |\
+f2[f'2c'2a2] [f'2c'2a2][f'2c'2a2] | f2[f'2c'2a2] c2[e'2c'2b2] |\
+f2[f'2c'2a2] [f'2c'2a2][f'2c'2a2] | B2c2 F2[f2c2] |
+f2[f'2c'2a2] [f'2c'2a2][f'2c'2a2] | f2[f'2c'2a2] c2[e'2c'2b2] |\
+f2[f'2c'2a2] [f'2c'2a2][f'2c'2a2] | B2c2 F2[af] ||
+z |\
+F2[a2f2c2] [a2f2c2][a2f2c2] | [g2e2c2][a2f2c2] [g2e2c2][g2e2c2] |\
+F2[a2f2c2] [a2f2c2][a2f2c2] | [g2e2c2][b2g2c2] [a2f2][a2f2] |
+F2[a2f2c2] [a2f2c2][a2f2c2] | [g2e2c2][a2f2c2] [g2e2c2][g2e2c2] |\
+F2[f2c2] B2[g2d2] | [a2f2][b2c2] [a2f2][fF] |]
+
+%%sep 1 1 500
+
+X: 75
+T: HONble Mrs F. GRAY
+C: NATH GOW
+R: Strathspey
+B: Glen Collection p.24 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: F
+V: 1
+f !segno!|:\
+c>d f>g (a/g/).f/.e/ Tf2 | c>d f>a gG B<d |\
+c>d f>g (a/g/).f/.e/ (.f>.d) |1 c<A f>d c>F A<f :|2 c<A fd cF A<d ||
+(cA) (.f.A) aAT cA | (cA) (.f>.d) cG Bd | (cA) (.f>c) a>f ge | f>c d<f AF A<f |
+(cA) (.f.A) aAT cA | .c(f e).f (g>G) B<d | (cA) (.a>f) g>e f>d | c>f e/f/g/e/ f>F A<f !segno!|]
+%
+V: 2
+z |:\
+f2[c'2a2] [c'2a2][c'2a2] | f2[c'2a2] c2[g2e2] |\
+f2[c'2a2] [c'2a2][a2f2] |1 [a2f2][b2f2] [a2f2][f2F2] :|2 [a2f2][b2f2] [a2f2][f2F2] ||
+[f2F2][a2f2] [c'2f2][a2f2] | [a2f2][a2f2] [g2e2c2][g2e2c2] |\
+[f2F2][a2f2] [c'2f2][a2f2] | [a2f2][b2f2] [a2f2]f2 |
+[f2F2][a2f2] [c'2f2][a2f2] | f2[c'2a2] c2[g2e2] |\
+f2[c'2f2] [b2f2][a2f2] | [a2f2][b2g2c2] [a2f2][f2F2] |]
+
+%%sep 1 1 500
+
+X: 76
+T: ATHOLE HOUSE
+C: D. DOW
+R: Reel
+B: Glen Collection p.25 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: F
+%
+V: 1
+f |\
+cFAF cF d/c/B/A/ | cFAF E(G2f) | cFAF cAfc | d/c/B/A/ cC DF F :|
+c |\
+f2 a/g/f/e/ fcAc | Fc d/c/B/A/ BGGc | f2 a/g/f cfAc | dfeg c(f2c) |
+fcaf ecbg | afcf eggb | afcf dBGB | AFcC DF [FA,] |]
+%
+V: 2
+z |\
+F2[f2c2] A2[f2c2] | F2[f2c2] c2[g2e2] |\
+F2[f2c2] A2[a2f2] | [b2f2][a2f2] [b2f2][af] :|
+z |\
+F2[f2c2] A2[f2c2] | F2[a2f2c2] [g2e2c2][g2e2c2] |\
+F2[f2c2] A2[f2c2] | [f2B2][b2c2] [a2f2][a2f2] |
+f2[c'2a2] c2[g2e2] | f2[c'2a2] c2[g2e2] |\
+F2[a2f2] [b2f2][c'2c2] | f2[f2A2] [f2B2][fF] |]
+
+%%sep 1 1 500
+
+X: 77
+T: LORD ELPHINSTONE
+C: D. MACINTYRE
+R: Strathspey
+B: Glen Collection p.25 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: This really does start with the high a.
+M: C
+L: 1/16
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: F
+%
+V: 1
+a2 |\
+F3G A2f2 cF3 c3A | F3G A3B cf3 fa3 | F3G Af3 cF3 c3A | G3A B3c dg3 ga3 |
+F3G A2f2 cF3 c3A | F3G A3B cf3 fa3 | f3c fa3 f3c dcBA | G3A B3c d2g2g2 ||
+ag |\
+f3F A3F c3F A2ag | f3F dcBA G2g2 g2ag | f3d efge fd3 c3A | G3A B3c dg3g2 ag |
+f3F A3F c3F A2ag | f3F dcBA Gg3 g2ag | f3g {fg}a3g f2d2 {d}c3A | G3A B3c dg3g2 |]
+%
+V: 2
+z2 |\
+[f4F4][a4f4c4] [a4f4c4][a4f4c4] | [f4F4][a4f4c4] [a4f4c4][a4f4c4] |\
+[f4F4][a4f4c4] [a4f4c4][a4f4c4] | [g4G4][d'4b4g4] [c4C4][b4e4c4] |
+[f4F4][a4f4c4] [a4f4c4][a4f4c4] | [f4F4][a4f4c4] [a4f4c4][a4f4c4] |\
+[f4F4][a4f4c4] [a4f4c4][a4f4c4] | [g4G4][d'4b4g4] [c4C4][b2e2c2] ||
+z2 |\
+[f4F4][a4f4c4] [a4f4c4][a4f4c4] | [f4F4][a4f4c4] [c4C4][b4e4c4] |\
+[f4F4][a4f4c4] [a4f4c4][a4f4c4] | [g4G4][d'4b4g4] [c4C4][b4e4c4] |
+[f4F4][a4f4c4] [a4f4c4][a4f4c4] | [f4F4][a4f4c4] [c4C4][b4e4c4] |\
+[a4f4][c'4a4f4] [c'4a4f4][c'4a4f4] | [g4G4][d'4b4g4] [c4C4] [c'2e2c2] |]
+
+%%sep 1 1 500
+
+X: 78
+T: Mrs JAMES CAMPBELL
+C: M. Mc DONALD 4th Coll.
+R: Reel
+B: Glen Collection p.25 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: F
+%
+V: 1
+e |\
+f2ce AFcA | dBcA Ggga | fcfa gefd | cABG F/F/F F :|
+B |\
+AFAc defd | cAAF EFGc | AFAc defd | cABG F/F/F FB |
+AFAc defd | cAAF EFGc | AcFc defd | cABG F/F/F F |]
+%
+V: 2
+z |\
+[f2F2][a2f2c2] [a2f2c2][a2f2c2] | [g2e2c2][a2f2c2] [b2e2c2][b2e2c2] |\
+[a2f2][a2f2] [b2e2c2][a2f2d2] | [a2f2][g2e2c2] [a2f2][fF] :|
+z |\
+f2[c'2a2] B2[b2f2] | f2[c'2a2] c2[e2g2] |\
+f2[c'2a2] B2[b2f2] | [a2f2][g2e2c2] [a2f2]f2 |
+f2[c'2a2] B2[b2f2] | f2[c'2a2] c2[g2e2] |\
+f2[f2A2] [f2B2][f2B2] | [a2f2c2][g2e2c2] [a2f2][fF] |]
+
+%%sep 1 1 500
+
+X: 79
+T: LADY CHARLOTTE CAMPBELL
+C: R. MACKINTOSH
+R: Strathspey
+B: Glen Collection p.26 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: Bar 9 has both a dot and a 2nd flag on the 2nd (B) note; fixed to match bar 5.
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+V: 1
+F/E/ | D<(FF)>B E(GG)c/B/ | A<cf>e d<bB<f | D<(FF)<B E(GG)c/B/ | A<cF<e | d<BB :|
+a | b<BA<a g<GF<f | e>c e/d/c/B/ A<(c-c)a | b<Ba<B g<Bf<B | (A/B/c) Fe d<BB<a |
+    b<BA<a g<GF<f | ec e/d/c/B/ A(c-c)B/A/ | G>BF>B E>BD>B | (EF/G/) F>E DB,B, |]
+V: 2
+z |\
+B2[d'2b2] e2[c'2g2] | f2[c'2a2] B2[d'2b2] |\
+B2[b2f2] e2[c'2g2] | f2[a2f2] [b2B2][bB] :|
+z |\
+[f'2d'2][e'2c'2] [d'2b2][c'2a2] | [a2f2][b2f2] [c'2f2][c'2f2] |\
+[d'2b2][f'2b2] [e'2b2][d'2b2] | f2[a2f2] [b2B2][b2B2] |
+[f'2d'2][e'2c'2] [d'2b2][c'2a2] | [a2f2][b2f2] [c'2f2][a2f2] |\
+[b2e2][b2d2] [b2c2][b2B2] | c2[a2f2] [b2B2][fdB] |]
+
+%%sep 1 1 500
+
+X: 80
+T: LADY CHARLOTTE CAMPBELL
+C: R. MACKINTOSH
+R: Reel
+B: Glen Collection p.26 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: A
+V: 1
+F |\
+B3f dBfd | edcB AFcA | B2bf dBfB | AFec dBB :|
+d |\
+f2(db) g2(Ee) | c2(Aa) f2(Dd) | B2(Gg) edcB | AFec dBBf |
+dBba gfed | cAag fedc | BGgf edcB | AFec dBB |]
+V: 2
+z |\
+B2[b2d2] [b2f2][b2d2] | [a2f2][a2f2] [c'2f2][c'2f2] |\
+B2[b2d2] [b2f2][b2d2] | [c'2f2][a2f2] [b2B2][bB] :|
+z |\
+d2[b2f2] e2[b2g2] | f2[c'2a2] B2[b2f2] |\
+e2[b2g2] [a2c2][b2d2] | [c'2f2][a2f2] [b2B2][b2B2] |
+d2[b2f2] e2[b2g2] | f2[c'2a2] B2[b2f2] |\
+e2[b2g2] c2e2 | f2[a2f2] [b2f2B2][bfdB] |]
+
+%%sep 1 1 500
+
+X: 81
+T: MISS CAMPBELL. (of Saddell.)
+C: R. MACKINTOSH
+R: Strathspey
+B: Glen Collection p.26 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: There's a missing 8th-note at the beginning/end of the first part.
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: Bb
+V: 1
+|: Bd3d3c B2A2 B4 | G2ed c3B AF3F3c | d3edc3 B3ABF3 | GE3C3F D2B,2B,2 :|
+Bc |\
+dB3ge3 c2de f4 |  BG3 edcB AF3F3B | GE3cE3 F2GA B4 | E2FG F3E D2B,2B,2 ||
+Bc |\
+dB3ge3 cA3fd3 | BG3c3B AF3F3B | GE3ge3 f2A2BF3 | GE3C3F DB,3B,2 |]
+V: 2
+%
+|:\
+B4 [b4f4] d4 [b4f4] | e4 [c'4g4] f4 [c'4a4] |\
+B4 [b4f4] d4 [b4f4] | [b4e4] [a4f4] [b4B4] B2 :|
+z2 |\
+[b4f4d4] [b4g4e4] [a4f4] [a4f4] | e4 [c'4g4] f4 [c'4a4] |\
+e4 [c'4g4] d4 [b4f4] | c4 [a4f4] B4 [f2d2] ||
+z2 |\
+[b4f4d4] [b4g4e4] [a4f4] [b4f4] | e4 [c'4g4] f4 d4 |\
+e4 [c'4g4] d4 [b4f4] | [b4e4] [a4f4] [b4B4] [f2d2B2] |]
+
+%%sep 1 1 500
+
+X: 82
+T: LADY FRANCES SOMERSET
+C: D. MACINTYRE
+R: Reel
+B: Glen Collection p.27 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: The beaming in bars 2, 4 and 6 were unusual.
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Bb
+%
+V: 1
+d/e/ |\
+f2dB b2fd | e2dB Ac cd/e/ | f2dB b2fd | e2cf dB Bd/e/ |
+f2dB b2fd | e2dB Ac cd/e/ | f2dB g2Ta2 | b2cf dBB ||
+F |\
+DFBd fdbd | e2dB Accd | Bdfa bfdB | e2cf dBBF |
+DFBd fdbd | ecdB ABcd | Bbfd Egec | Cecf | dBB |]
+%
+V: 2
+z |\
+B2[b2f2] [b2d2][b2f2] | [a2f2][b2f2] [c'2f2][a2f2] |\
+B2[b2f2] [b2d2][b2f2] | [a2f2][a2f2] [b2B2][b2B2] |
+B2[b2f2] [b2d2][b2f2] | [a2f2][b2f2] [c'2f2][a2f2] |\
+d2[b2f2] e2c2 | d2[a2f2] [b2B2][bB] ||
+z |\
+B2[b2f2] d2[b2f2] | [a2f2][b2f2] [c'2f2][a2f2] |\
+d2[b2f2] [b2d2][b2f2] | [a2f2][a2f2] [b2f2][b2d2] |
+B2[b2f2] d2[b2f2] | [a2f2][b2f2] [c'2f2][a2f2] |\
+d2[b2f2] e2[c'2g2] | f2[a2f2] [b2f2B2][bfdB] |]
+
+%%sep 1 1 500
+
+X: 83
+T: Mrs FLEMING OF MONESS
+C: N. GOW
+R: Strathspey
+B: Glen Collection p.27 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Bb
+%
+V: 1
+   F | DB,DF B2AG | FB, (G/F/E/D/ E)CCF | DB,DF {c}B2AG | (A/B/c) FA BB,B, :|
+|: B | B<fd<f B<fd<f | F<cA<c F<cA<c | B<fd<f B<fd<f | b/a/g/f/ ge dBB :|
+|: F | D<B,F<B, G<B,F<B, | D<B, (G/F/E/D/ E)CC>F | D<B,F<B, G<B,F<A | BGFE DB,B, :|
+|: g | f<B d/c/B f<Bb<B | f<B e/d/c/B/ c<GG<e | f<B e/d/c/B/ f<Bb<B | AGFE DB,B, :|
+%
+V: 2
+   z | B2[b2f2] d2[b2f2] | d2[b2f2] c2[a2f2] | B2[b2f2] d2[b2f2] | [a2f2][c'2f2] b2B :|
+|: z | B2[b2f2] [b2d2][b2f2] | [a2f2][c'2f2] [a2f2]f2 | B2[b2f2] [b2d2][b2f2] | [b2d2][b2e2] [b2B2][bB] :|
+|: z | B2d2 e2d2 | B2[b2f2] [a2f2][a2f2] | B2d2 e2d2 | c2[a2f2] B2[fdB] :|
+|: z | B2[b2f2] [b2d2][b2d2] | d2[b2f2] [g2e2][g2e2] | d2[b2f2] d2[b2f2] | c2[a2f2] [b2B2][fdB] :|
+
+%%sep 1 1 500
+
+X: 84
+T: MISS WEMYSS OF DUNDEE
+C: J. WALKER
+R: Reel
+B: Glen Collection p.28 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Bb
+%
+V: 1
+A |\
+BFDF EGFA | BFDF ECCA | BADF EGFB | AcFA BB,B, :|
+d |\
+BfdB AcBA | BfdB Ac-Tc2 |BfdB AcBA | BGFE DB,B,A |
+BfdB AcBA | BfdB AccA | BcdB cdec | dgfe dBB |]
+%
+V: 2
+z |\
+B2[b2f2] [a2f2][e'2f2] | [d'2b2][b2f2] [a2f2]f2 |\
+B2[b2f2] [a2f2][b2d2]  | f2[e'2c'2] [d'2b2]B :|
+z |\
+b2[f'2d'2] f2[e'2c'2] | [d'2b2f2][d'2b2f2] [e'2c'2f2][c'2a2f2] |\
+[d'2b2][d'2b2] f2[e'2c'2] | [d'2b2][c'2a2] b2B2 |
+b2[f'2d'2] f2[e'2c'2] | [d'2b2f2][d'2b2f2] [e'2c'2f2][c'2a2f2] |\
+d2[b2f2] e2[c'2g2] | b2[a2f2] [b2B2][bfdB] |]
+
+%%sep 1 1 500
+
+X: 85
+T: MASTER F. SITWELL
+C: NATH. GOW
+R: Strathspey
+B: Glen Collection p.28 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Bb
+%
+V: 1
+DE |\
+F3B D3B G4 E2G2 | ~F3f edcB A2c2 c2de | d2B2 F2D2 G4 E3G | ~F3B A3c {Bc}d2B2B2 :|
+ef |\
+f3d g3e Tf4 {=ef}d2g2 | fd3 g3B A2c2 c2de | f3d g3e f3d b3d | (ed).c.B A2f2 d2B2 B2de |
+f3d g3e Tf4 {=ef}d2g2 | fd3 g3B A2c2 c2de | .f2.d2 .B2.F2 G3A/B/ E3G | F3B A3c {Bc}d2B2B2 |]
+%
+V: 2
+z2 |\
+B4[b4f4] e4[b4g4] | d4[b4f4] [c'4f4][a4f4] |\
+[b4B4][b4B4] [b4e4][b4e4] | [f4d4][f4c4] [f4B4][f2B2] :|
+z2 |\
+[b4f4B4][a4f4c4] [b4f4d4][b4f4B4] | B4b4 [c'4f4][a4f4] |\
+[b4f4B4][a4f4c4] [b4f4d4][b4f4B4] | [a4f4][c'4f4] b4B4 |
+[b4f4B4][a4f4c4] [b4f4d4][b4f4B4] | B4b4 [c'4f4][a4f4] |\
+[b4f4B4][b4f4d4] [b4e4][b4e4] | [b4d4]f4 [f4B4][f2d2B2] |]
+
+%%sep 1 1 500
+
+X: 86
+T: Lieut. ABERCROMBY
+C: I. COOPER
+R: Reel
+B: Glen Collection p.28 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: Bb
+%
+V: 1
+|: B>df>b g>bf>d | e>gd>f c>FA>F  | B>df>b g>bf>d | (e/d/c/B/) A>c B/B/BB2 :|
+|: D>FB>d E>Gc>e | e>df>d c/c/cc2 | D>FB>d E>Gc>e | (e/d/c/B/) A>c B/B/BB2 :|
+%
+V: 2
+|: B2[b2d2] [b2e2][b2d2] | [a2f2][b2f2] [a2f2][c'2f2] |\
+   B2[b2d2] [b2e2][b2d2] | [a2f2][c'2f2] [d'2b2][d'2b2] :|
+|: B2[b2f2] [b2g2][a2f2] | [b2f2][b2f2] [a2f2][a2f2] |\
+   B2[b2f2] [b2g2][a2f2] | [b2f2][e'2f2] [d'2b2][b2f2d2B2] :|
+
+%%sep 1 1 500
+
+X: 87
+T: Mr J Rose
+C: Mrs MACINTYRE
+R: Strathspey
+B: Glen Collection p.29 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: Bb
+%
+V: 1
+B |\
+FB/c/ d>B c>AB>G | FB/c/ d>B A<cTc2 |\
+FB/c/ d>B c>AB>G | {G}F>E{E}D>C DB,B, :|
+f |\
+d<f fg/a/ b>fg>e | f>d{d}c>B A<cc<e |\
+d<f fg/a/ b>fg>e | f<d{d}c>B {A}f2 zf |
+d<f fg/a/ b<fg<e | f<d{d}cB A<Bc<d |\
+DEFG ABcd | efTg>a bBB |]
+%
+V: 2
+z |\
+B2[d'2b2f2] [e'2c'2f2][d'2b2f2] | B2[b2f2] [a2f2][a2f2] |\
+B2[d'2b2f2] [e'2c'2f2][d'2b2f2] | [a2f2][a2f2] [b2f2d2B2][fdB] :|
+z |\
+B2[d'2b2] [d'2b2][e'2b2] | B2[b2f2] [c'2f2][a2f2] |\
+B2[d'2b2] [d'2b2][e'2b2] | [d'2b2][d'2b2] [c'2f2][c'2f2] |
+[b2B2][d'2b2] [d'2b2][e'2c'2a2] | B2[b2f2] [c'2f2][a2f2] |\
+B2[b2f2] d2[b2f2] | c2f2 B2[bfdB] |]
+
+%%sep 1 1 500
+
+X: 88
+T: LADY HAMILTON
+T: Countess of Sutherland
+N: re-named Countess of Sutherland
+C: R. MACKINTOSH
+R: Reel
+B: Glen Collection p.29 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: Bb
+%
+V: 1
+d |\
+B2FB GBFB | EBDB C(.c2.d) | B2FB Ggfe | dfcf dBB :|
+((3f/g/a/) |\
+bfdf egce | dfBd cFF ((3f/g/a/) | bfdf egce | Bgfc dB B((3f/g/a/) |
+bfdf egce | dfBd cFFf | gfga bgfe | dfcf dBB |]
+%
+V: 2
+z |\
+B2[b2d2] [b2e2][b2d2] | [b2g2][b2f2] F2[a2f2] |\
+B2[b2d2] [b2e2][b2e2] | [b2f2][a2f2] [b2f2B2][bfB] :|
+z |\
+b2[d'2b2f2] [c'2a2f2][a2f2] | B2[b2f2] [a2f2][a2f2] |\
+B2[d'2b2f2] [c'2a2f2][a2f2] | [b2f2][a2f2] [b2B2][b2B2] |
+B2[b2f2][a2f2][a2f2] | B2[b2f2] [a2f2][a2f2] |\
+e2[b2g2] d2[b2f2] | f2[a2f2] [b2f2d2B2][bfdB] |]
+
+%%sep 1 1 500
+
+X: 89
+T: MISS CAMPBELL OF MONZIE
+C: R. MACKINTOSH
+R: Jig
+B: Glen Collection p.29 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: Bb
+%
+V: 1
+F |\
+(D/E/F).F F2B | (E/F/G).G G2B | (A/B/c).c c2e | dfb fdB |\
+(D/E/F).F F2B | (E/F/G).G G2B | A>Bc FGA | B3 B2 :|
+B |\
+d>ef fdB | egb bge | d>ef fdB | A>Bc cAF |\
+d>ef fdB | egbbge | def edc | B3 B2e |
+d>ef fdB | egb bge | def fdB | ABc cAF |\
+GAB ABc | Bcd efg | fed cBA | B3 B2 |]
+%
+V: 2
+z |\
+B3 [b3f3d3] | e3 [b3g3] | f3 [a3f3] | B3 [d'3b3f3] |\
+B3 [b3f3d3] | e3 [b3g3] | f3 [a3f3] | [b3f3B3] [b2f2B2] :|
+z |\
+b3 [f'3d'3] | e3 [e'3b3] | B3 [f3d3] | F3 [f3c3] |\
+b3 [d'3b3] | e3 [e'3b3] | b3 [c'3a3f3] | [d'3b3] B3 |
+b3 [f'3d'3] | e3 [e'3b3] | B3 [f3d3] | F3 [f3c3] |\
+e3[e'3f3] | [d'3f3] [a3f3] | b3 [e'3f3] | [d'3b3] [b2f2d2B2] |]
+
+%%sep 1 1 500
+
+X: 90
+T: COUNTESS OF BREADALBANE
+C: M. Mc DONALD
+R: Reel
+B: Glen Collection p.30 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Bb
+%
+V: 1
+d |\
+B2BF DB,FD | EC c=B cGGc | B2BF DB,FD | ECFE DB,B, :|
+f |\
+dBfB bgfB | dBfB Acce | dBfB bgfB | Fcec dBBf |
+dBfB bgfB | dBfB Acce | dBcA BGFE | Dgfe dBB |]
+%
+V: 2
+z |\
+B2[b2d2] [f2d2][b2d2] | c2[g2e2] [g2e2][g2e2] |\
+B2[b2d2] [f2d2][b2d2] | [a2f2][a2f2] [b2B2][fdB] :|
+z |\
+B2[d'2b2] [e'2b2][d'2b2] | B2[d'2b2] [c'2f2][a2f2] |\
+B2[d'2b2] [e'2b2][d'2b2] | f2F2 B2[d'2b2] |
+B2[d'2b2] [e'2b2][d'2b2] | B2[d'2b2] [c'2f2][a2f2] |\
+[b2f2][e'2f2] [d'2b2][c'2a2] | b2[a2f2] [b2B2][bfdB] |]
+
+%%sep 1 1 500
+
+X: 91
+T: MISS CHARLOTTE DUNDAS
+C: Wm SHEPHERD
+R: Strathspey
+B: Glen Collection p.30 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: Added missing dot in bar 12.
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Bb
+%
+V: 1
+B |\
+B,>B e/d/c/B/ A>cc>f | B,>Bd>B f>Bd>B | e>c e/d/c/B/ A>cc>g | f>de>c d>BB>F |
+B,>B e/d/c/B/ A>cc>f | B,>Bd>B f>Bd>B | E>cD>B C>DE>G | F>A cd/e/ dBB ||
+g |\
+f>B e/d/c/B/ FA/B/ c>A | f>Bd>B f>Bd>f | e>gd>f FA/B/ cA | E>GF>D B,BBg |
+f>B e/d/c/B/ FA/B/ c>A | f>Bd>B f>Bd>f | eg/e/ df/d/ FA/B/ c>A | E>C D/E/F/E/ D<B, B, |]
+%
+V: 2
+z |\
+[b2f2B2][b2f2B2] [c'2f2][a2f2] | [b2f2B2][b2f2B2] [b2f2B2][b2f2B2] |\
+f2[c'2a2] f2[c'2a2] | b2[a2f2] [b2f2][d'2f2] |
+[b2f2B2][b2f2B2] [c'2f2][a2f2] | [b2f2B2][b2f2B2] [b2f2B2][b2f2B2] |\
+[a2f2][b2f2] [a2f2][a2f2] | f2F2 B2[bfdB] ||
+z |\
+d2[b2f2] c2[a2f2] | B2[b2f2]d2[b2f2] |\
+[a2f2][b2f2] [a2f2][a2f2] | [a2f2][a2f2] [b2B2][b2B2] |
+d2[b2f2] c2[a2f2] | B2[b2f2]d2[b2f2] |\
+[b2B2][b2B2] [a2f2][a2f2] | [a2f2][a2f2] [b2B2][bfdB] |]
+
+%%sep 1 1 500
+
+X: 92
+T: MISS HANBURY'S FANCY
+C: D. MACINTYRE
+R: Reel
+B: Glen Collection p.30 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Bb
+%
+V: 1
+G |\
+FDFB {e}d2cB | ABcd edcd | dbfd gecB | A/B/c Fe dBB :|
+g |\
+fgaf bfdf | egce dfBg | fgaf bg=eb | afg=e f2fg |
+fdgf ecfe | dBed cAFE | Dbfd gecB | (A/B/c) FA BB,B, |]
+%
+V: 2
+z |\
+B2[b2d2] [b2f2][b2f2] | [a2f2][a2f2] [a2f2][a2f2] |\
+[b2B2][b2d2] [b2e2][g2e2] | [c'2f2][a2f2] [b2f2B2][bfdB] :|
+z |\
+f2e2 d2[b2f2] | [a2f2][a2f2] [b2f2][b2f2] |\
+f2e2 d2c2 | f2[b2c2] [a2f2][a2f2] |
+b2[b2f2] c2[a2f2] | d2[b2f2] [b2f2][a2f2] |\
+[b2B2][b2B2] e2[c'2g2] | f2[e'2f2] [d'2b2][bfdB] |]
+
+%%sep 1 1 500
+
+X: 93
+T: SIR JAMES GRANT
+C: J. ANDERSON
+R: Strathspey
+B: Glen Collection p.31 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: Eb
+%
+V: 1
+BA |\
+(G3E)(B,3E) (G,3E)(B,3E) | (G3E)(B,3E) D3F F2(BA) |\
+(G3E)(B3G) (e3B) Hg4{ab}y| (A3c)(B3A) G2E2 E2 :|
+((3Bcd) |\
+e3BG3B .E2.B2.e2.g2 | e2E2 (cB)(AG) (A2F2) TF4 |\
+e3BG3B .E2.e2.g2.b2 | a3gf3a g3ee4 |
+{Bcd}.e2.B2.G2.E2 .G2.E2.B,2.G,2 | (B,E)(FG) (AG)(FE) (D2F2) TF4 |\
+.E2.B2.G2.e2 .B2.g2.e2.b2 | (AG)(AG) (Fc)(BA) G2E2 E2 |]
+%
+V: 2
+z2 |\
+E4[g4e4] e4[g4e4] | E4[g4e4] [a4f4][f4d4] |\
+e4[e'4b4] [e'4g4][e'4b4]y| [d'4b4][d'4b4] e'4e2 :|
+z2 |\
+e4[e'4b4] [b4g4][b4g4] | e4[g4e4] [f4B4][d4B4] |\
+e4[e'4b4] [b4g4][e'4b4] | [d'4b4][d'4b4] [e'4e4][e'4b4g4e4] |
+e4[b4g4] B4[g4e4] | B4[g4e4] [a4f4][f4d4] |\
+[g4e4][b4e4] [b4e4][g4e4] | [f4d4][f4d4] [g4e4][b2g2e2] |]
+
+%%sep 1 1 500
+
+X: 94
+T: THE BONNY LINKS OF ABERDEEN
+C: J. ANDERSON
+R: Reel
+B: Glen Collection p.31 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: Eb
+%
+V: 1
+B |\
+e2(BA) GEBG | F(f2e) fccd | eBGB AcBg | agfa ge e :|
+g |\
+bgeg egbg | afge d(f2g) | bgeg gebg | agfa g(e2g) |
+bgeB eBGE | GEB,E (DF)F2 | EB,EB GeBg | agfa ge2 |]
+%
+V: 2
+z |\
+e2[e'2b2] [e'2b2][e'2b2] | A2[f2c2] B2[a2f2] |\
+[g2e2][b2e2] [b2d2][b2e2] | [d'2b2][d'2b2] [e'2e2][e'e] :|
+z |\
+e2[e'2b2] g2[e'2b2] | [d'2b2][e'2b2] [f'2b2][d'2b2] |\
+[e'2b2][e'2b2] [e'2b2][e'2b2] | [d'2b2][d'2b2] [e'2e2][e'2e2] |
+e2[b2g2] [b2g2][b2g2] | e2E2 B2[a2f2] |\
+[g2e2][g2e2] [b2e2][e'2e2] | [d'2b2][d'2b2] [e'2e2][e'e] |]
+
+%%sep 1 1 500
+
+X: 95
+T: CAPt HUGH MUNRO
+C: D. MACINTYRE
+R: Strathspey
+B: Glen Collection p.31 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: Corrected beaming of pickups to bars 1, 3, and 5.
+N: Corrected beaming in the last half of bar 14, to agree with bar 6.
+M: C
+L: 1/16
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: Eb
+%
+V: 1
+B/c/d |\
+e3EC3E B,3EG,3E | B,3E AGFE D2F2F2 B/c/d |\
+e3EC3E B,3EG,3E | DEF2 B,3A G2E2E2 B/c/d |
+e3EC3E B,3E G,3E | B,3E AGFE D2F2 F2GA |\
+B2G2E2e2 c2A2D2c2 | BG3F3A G2E2E2 ||
+g2 |\
+e3Be3g e3cB2G2 | A2F2{A}G2{F}E2 D2F2F2A2 |\
+GB3Ee3 df3Ba3 | gb3fa3 ge3ea3 |
+{a}g3ed2f2 ec3BG3 | AF3BE3 DF3 F2GA |\
+G3EB,3_D {D}C4 A,c3 | BG3F3A G2E2[E2G,2] |]
+%
+V: 2
+z2 |\
+E4[a4e4] [g4e4]e4 | [g4e4][b4e4] [a4B4][a4B4] |\
+[g4e4][a4e4] [g4e4]e4 | [f4d4B4][f4d4B4] [g4e4][g4e4] |
+E4[a4e4] [g4e4]e4 | [g4e4][b4e4] [a4B4][a4B4] |\
+[g4e4][g4e4] [a4B4][a4B4] | [g4e4]B4 E4[g2e2] ||
+z2 |\
+e4[e'4b4] [e'4b4][e'4b4] | [d4B4][e4B4] [a4B4][f4B4] |\
+e4[b4e4] b4[f'4d'4] | [g'4e'4][f'4d'4b4] [g'4e'4]e'4 |
+[e'4e4][f'4b4] [g'4e'4]e'4 | b4g4 b4B4 |\
+e4g4 a4A4 | [e4B4][d4B4] e4[e2E2] |]
+
+%%sep 1 1 500
+
+X: 96
+T: MISS H. HUNTER OF BLACKNESS
+C: NATH. GOW
+R: Reel
+B: Glen Collection p.32 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Eb
+%
+V: 1
+a |\
+gafg e/e/e e2 | cf-fe dBBa | gafg e/e/e ge | cffd {d}e2e :|
+B |\
+(G/F/E) BG AFcA | (G/F/E) BG FCCA | (G/F/E) BG AFcA | GEFD TE2EB |
+(G/F/E) BG AFcA | (G/F/E) BG FCCA | GEBG ABcd | ecBG E2E |]
+%
+V: 2
+z |\
+[e'2e2][d'2b2] [e'2b2][e'2b2] | a2[f'2c'2] b2[f'2d'2] |\
+[e'2e2][d'2b2] [e'2b2][e'2b2] | a2b2 e2[bge] :|
+z |\
+[b2e2][b2e2] [b2d2][b2d2] | [b2e2][g2e2] [a2B2][f2B2] |\
+e2[b2e2] [b2d2][b2d2] | [b2e2][a2B2] [g2e2][g2e2] |
+[b2e2][b2e2] [b2d2][b2d2] | [b2e2][g2e2] [a2B2][f2B2] |\
+e2[e'2b2] [e'2c'2][e'2a2] | [e'2a2][d'2b2] [e'2b2g2e2][bge] |]
+
+%%sep 1 1 500
+
+X: 97
+T: Mr MOORE
+C: D. MACINTYRE
+R: Strathspey
+B: Glen Collection p.32 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Cm
+%
+V: 1
+c |\
+G<CC>D E>FGB | F>G{G}F>E DB,B,c | G<CC>D E>FG>B | F>B, G/F/E/D/ ECCc |
+G<CC>D E>FGB | F>G{G}F>E DB,B,c | G>ce>c g>ce>c | d>B G/F/E/D/ ECC ||
+G |\
+c>deg c<ceg | B<Bd>c B/c/d/e/ f/g/=a/b/ | Tc>deg cgeg | B>d{g}f>{e}d eccG |
+c>ge>g c>ge>g | B>bd>f B>dF>B | G>=Bc>d e>cg>e | d>B G/F/E/D/ ECC |]
+%
+V: 2
+z |\
+c2[g2e2] [c'2e2][b2e2] | B2[b2d2] [f2d2][f2d2] |\
+c2[g2e2] [c'2e2][b2e2] | B2=B2 c2[g2e2c2] |
+c2[g2e2] [c'2e2][b2e2] | B2[b2d2] [f2d2][f2d2] |\
+c2[c'2g2] e2[c'2g2] | B2=B2 c2[gec] ||
+z |\
+c2[c'2g2] e2[c'2g2] | b2[f'2b2] [f'2b2][d'2b2] |\
+[c'2c2][c'2g2] [c'2e2][c'2g2] | b2=b2 c'2c2 |
+c2[c'2g2] e2[c'2g2] | b2[b2f2] [b2f2][b2d2] |\
+e2d2 c2[c'2g2] | B2=B2 c2[gec] |]
+
+%%sep 1 1 500
+
+X: 98
+T: LADY MARY HAY
+C: C. STEWART
+R: Reel
+B: Glen Collection p.32 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Cm
+%
+V: 1
+a |\
+Tg2(eg) (cg)(eg) | f2(df) (bf)(dB) | g2(eg) (cg)(eg) | (fb)(df) gcc :|
+c |\
+GcEc gcec | .B(b=ab) fbdB | GcEc (gc)(ec) | (fb)(df) gcce |
+GcEc gcec | .B(b=ab) fbdB | (ce)(Gc) (EG)(Cg) | (fb)(df) (gc)c |]
+%
+V: 2
+z |\
+c2[c'2g2] [c'2e2][c'2g2] | d2[b2f2] B2[b2f2] |\
+c2[c'2g2] [c'2e2][c'2g2] | B2[b2f2] c2[gec] :|
+z |\
+e2[c'2g2] c2[c'2g2] | b2[f'2b2] [d'2b2]b2 |\
+e2[c'2g2] c2[c'2g2] | B2[b2f2] c2[g2e2c2] |
+e2[c'2g2] c2[c'2g2] | b2[f'2b2] [d'2b2]b2 |\
+e2[c'2g2] c2[c'2g2] | B2[b2f2] c2[gec] |]
+
+%%sep 1 1 500
+
+X: 99
+T: HONble MISS JESSIE A RUTHVEN
+C: A. LEBURN
+R: Strathspey
+B: Glen Collection p.33 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Cm
+%
+V: 1
+E/D/ |\
+CccG E>F {E}GF/E/ | B,BBF (D/E/F/E/) {F}DC/B,/ | CccG E>FGg | {f}ed/c/ {e}dc/=B/ cCC :|
+c |\
+Gcec gcec | FBdB fBdB | Gcec gceg | g/f/e/d/ =B/c/d/f/ eccA |
+(Gce).c gcec | (FBd).B fBdB | c>ed>f e>gf>a | g/f/e/d/ =B/c/d/f/ ecc |]
+%
+V: 2
+z |\
+c2[g2e2] c2[g2e2] | d2[b2f2] B2[f2d2] |\
+c2[g2e2] c2e2 | g2G2 c2[gec] :|
+z |\
+c2[c'2g2] [c'2e2][c'2g2] | B2[b2f2] [d'2f2][b2f2] |\
+c2[c'2g2] [c'2e2][c'2g2] | [e'2g2][=b2g2] [c'2g2][c'2a2] |
+c2[c'2g2] [c'2e2][c'2g2] | B2[b2f2] [d'2f2][b2f2] |\
+g2f2 e2=B2 | c2G2 c2[gec] |]
+
+%%sep 1 1 500
+
+X: 100
+T: Mrs LINLEY
+C: MACINTYRE
+R: Reel
+B: Glen Collection p.33 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Cm
+%
+V: 1
+G |\
+c2GE CEGe | dBFD B,DF=B | cGAF GEFD | ECFD ECC :|
+d |\
+ecgc Gceg | fBdB dfBd | ecgc Gceg | dBfd eccd |
+ecGE CEGe | dBFD B,DF=B | cGAF GEFD | ECFD ECC |]
+%
+V: 2
+z |
+c2[c'2e2] [g2e2][c'2e2] | B2[b2d2] [f2d2][f2d2] |\
+[e2c2][f2d2] [g2e2][a2f2] | g2[=b2d2] [c'2c2][gec] :|
+z |\
+c2[c'2e2] [c'2e2][g2e2] | B2[b2f2] [b2f2][b2f2] |\
+c2[c'2e2] [c'2e2][g2e2] | b2B2 c2[g2e2] |
+c2[c'2e2] [g2e2][c'2e2] | c2[b2d2] [f2d2][f2d2] |\
+[e2c2][f2d2] [g2e2][a2f2] | g2[=b2g2] [c'2c2][gec] |]
+
+%%sep 1 1 500
+
+X: 101
+T: MISS STEWART OF ALLANBANK
+C: Wm SHEPHERD
+R: Strathspey
+B: Glen Collection p.33 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: There is no repeat at the end of the first part.
+N: Added missing dot to e in bar 5.
+M: C
+L: 1/16
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Cm
+%
+V: 1
+GF |\
+E3CC3D E3F {EF}G3E | [D3B,3]F B2GE (DE).F.D B,2GF |\
+E3CC3D E3F {EF}G3E | G2cd edc=B c2C2C2 |]
+cd |\
+{cd}e3dc2=B2 Tc4 G3E | D3F B2GE (DE).F.D. B,2cd |\
+{cd}e3dc2=B2 Tc4 G3E | DEFD {G}F2.E.D E2TC2C2cd |
+{cd}e3dc3=B Tc4 G3E | D3F B2GE DEFD B,AGF |\
+E3CC3D ({F}ED).E.F EFGE | TG2cd edc=B c2C2C2 |]
+%
+V: 2
+z2 |\
+c4[g4e4] [g4e4][g4e4] | B4[b4f4] [b4f4][f4d4] |\
+c4[g4e4] [g4e4][g4e4] | [g4e4][f4d4] [e4c4][e2c2] |]
+z2 |\
+c4[c'4g4] e4[c'4g4] | f4[d'4b4] B4[f4d4] |\
+c4[g4e4] [g4e4][g4e4] | B4=B4 c4[g4e4c4] |
+c4[c'4g4] e4[c'4g4] | f4[d'4b4] B4[f4d4] |\
+c4[g4e4] [g4e4][g4e4] | [g4e4][f4d4] [e4c4][g2e2c2] |]
+
+%%sep 1 1 500
+
+X: 102
+T: MISS GORDON OF GIGHT
+C: I. COOPER
+R: Reel
+B: Glen Collection p.34 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Cm
+%
+V: 1
+|: (G,C)(EG) cgec | BdBG FDB,D | CEGE DFBG | TFDB,D C/C/CC2 :|
+egbg (ag)(fe) | defg fdBf | egbg (ag)(fe) dBfd c/c/cc2 |
+egbg (ag)(fe) | defg fdBf | (Tgf)(ed) (cd)(ec) | (BG)(TFD) (EC)C2 |]
+%
+V: 2
+|: c2[b2e2] [g2e2][g2e2] | [b2d2][b2d2] [b2B2][f2B2] |\
+[e2c2][e2c2] [b2d2][b2d2] | [b2B2][f2B2] [e2c2][g2e2c2] :|
+e2[e'2b2] [d'2b2][d'2b2] | B2[d'2b2] [d'2b2][d'2b2] |\
+e2[e'2b2] [d'2b2][d'2b2] | b2B2 c2[g2e2] |
+e2[e'2b2] [d'2b2][d'2b2] | B2[d'2b2] [d'2b2][d'2b2] |\
+e'2g2 a2a2 | g2G2 [g2c2][g2e2c2] |]
+
+%%sep 1 1 500
+
+X: 103
+T: Mrs A. MACGLASHAN
+C: JOHN MACGLASHAN
+R: Jig
+B: Glen Collection p.34 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+D |\
+G2G GB,G, | G,B,D BAG | F2c A2f | cdB {B}AGF |\
+G2G GB,G, | G,B,D BAG | F2f Tc2A | dBG G2 :|
+d |\
+g/a/ba gdB | GBd gab | f/g/ag fcA | FAc fga |\
+g/a/ba gdB | GBd gab | agf cAc | dBG G2d |
+g/a/ba gdB | GBd gab | f/g/ag fcA | FAc fga |\
+bgb a^fa | gdg fcf | dfd TcAc | dBG G2 |]
+%
+V: 2
+z |\
+G3 [g3d3] | B3 [g3d3] | F3 [f3c3] | A3 [f3c3] |\
+G3 [g3d3] | B3 [g3d3] | F3 [c'2a2] | [b3g3] [b3g3] :|
+z |\
+g3 [g'3d'3] | b3 [g'3d'3] | f3 [f'3c'3] | a3 [f'3c'3] |\
+g3 [g'3d'3] | b3 [g'3d'3] | f3 [c'3a3] | [g3G3] [d'3b3g3] |
+g3 [g'3d'3] | b3 [g'3d'3] | f3 [f'3c'3] | a3 [f'3c'3] |\
+g'3 d'3 | b3 a3 | b3 a3 | g3 [d'2b2g2] |]
+
+%%sep 1 1 500
+
+X: 104
+T: MISS JOHNSON PITWORTH
+C: J. WALTER 2nd Coll.
+R: Reel
+B: Glen Collection p.34 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+A |\
+B2dB AFFA | B2dB fBdB | Afcf AFFA | dDA^F G2G :|
+d |\
+g2bg dgbg | f2af cfaf | g2bg dgbg | ^fgaf Tg2gd |
+gbdb caBg | Afcf AFFA | GABc dcBg | dDA^F G2G |]
+%
+V: 2
+z |\
+B2[b2f2] [c'2f2][c'2f2] | B2[b2f2] [d'2f2][b2f2] |\
+[c'2f2][a2f2] [c'2f2]f2 | d2[c'2a2] [b2g2][bg] :|
+z |\
+G2[g2d2] B2[g2d2] | F2[f2c2] A2[f2c2] |\
+G2[g2d2] B2[g2d2] | d2[c'2a2] [b2g2][b2g2] |
+d2f2 e2d2 | c2A2 F2[f2c2] | g2[d'2b2] d2[d'2b2] | a2[a2d2] [b2g2][gG] |]
+
+%%sep 1 1 500
+
+X: 105
+T: Sir ALEXANDER DON
+C: R. MACKINTOSH
+R: Strathspey
+B: Glen Collection p.35 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+d2 |\
+BG3 G3D B,2A,2 G,2B2 | AGF2 cBA2 f2c2 A2f2 | BG3 G3D B,A,3 G,g3 | fedc dcBA B2G2G2 :|
+d2 |\
+gd3 BG3 bg3 dB3 | fc3 AF3 af3 cA3 | gd3 BG3 bg3 dB3 | c3e dcBA B2G2 G2d2 |
+gd3 BG3 bg3 dB3 | fc3 AF3 af3 cA3 | db3 ca3 Bg3 A^f3 | ge3 dcBA B2G2G2 ||
+D2 |\
+G,D3 B,G3 Dd3 BG3 | A,F3 CF3 A,c3 AF3 | G,D3 B,G3 Dd3 BG3 | c3e dcBA BG3 G2D2 |
+B,D3 B,G3 Dd3 BG3 | A,F3 CF3 A,c3 {B}A{G}F3 | GB3 DG3 B,3D C3E | D3C B,3A, B,2G,2G,2 ||
+d2 |\
+BAG2 dcB2 b3g dB3 | AGF2 cBA2 a3f cA3 | BAG2 dcB2 b3g dB3 | ABc2 dcBA B2G2 G2d2 |
+BAG2 dcB2 b3g dB3 | AGF2 cBA2 a3f cA3 | db3 ca3 Bg3 A^f3 | g3e (dcBA) B2G2G2 |]
+%
+V: 2
+z2 |\
+G4[d4B4] [g4B4][d4B4] | F4[a4f4] [a4f4][c'4f4] |\
+G4[d4B4] [g4B4][d4B4] | d4^f4 g4[g2G2] :|
+z2 |\
+g4[d'4b4] d4[b4g4] | F4[c'4f4] c4[c'4f4] |\
+G4[d'4b4g4] [d'4b4g4][d'4b4g4] | f4^f4 g4[b4g4] |
+g4[d'4b4] d4[b4g4] | F4[c'4f4] c4[c'4f4] |\
+g4^f4 g4d4 | c4[^f4d4] [g4G4][g2G2] ||
+z2 |\
+G4[g4d4] [b4d4][g4d4] | F4[f4A4] [f4c4][f4c4] |\
+G4[g4d4] [b4d4][g4d4] | f4^f4 g4G4 |
+G4[g4d4] [b4d4][g4d4] | F4[f4A4] [f4c4][f4c4] |\
+G4B4 d4g4 | [^f4d4][f4d4] [g4G4][d2G2] ||
+z2 |\
+g4[b4g4] [d'4g4][b4g4] | f4[a4f4] [c'4f4][a4f4] |\
+g4[b4g4] [d'4g4][b4g4] | f4^f4 g4G4 |
+g4[b4g4] [d'4g4][b4g4] | f4[a4f4] [c'4f4][a4f4] |\
+g4^f4 g4d4 | c4[^f4d4] [g4d4G4][g2d2G2] |]
+
+%%sep 1 1 500
+
+X: 106
+T: Mr GEORGE GORDON
+T: re-named the Strathbogie Toast
+C:  Wm MARSHALL
+R: Reel
+B: Glen Collection p.35 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+dg a/g/^f g2d=f | cdfg dfcf | dg a/g/^f g2dg | f<dc>A {A}G2G2 |
+dg a/g/^f g2d=f | cdfg dfcf | dfga bagf | d<fTc>A {A}G2Gg ||
+BGdG BGdG | fdcf AFcA | BGdG BGdG | f<dTc>A {A}G2Gg |
+BGdG BGdG | fdcf AFcA | GABc d=efTg | f<dTc>A {A}G2G2 |]
+%
+V: 2
+g2[d'2b2] d2[d'2b2] | f2[c'2a2] c2[c'2a2] |\
+g2[d'2b2] d2[d'2b2] | d2[a2f2] [b2g2][b2g2] |
+g2[d'2b2] d2[d'2b2] | f2[c'2a2] c2[c'2a2] |\
+g2[d'2b2] d2[d'2b2] | f2[a2f2] [b2g2][b2g2] ||
+g2[d'2b2] d2[d'2b2] | f2[c'2a2] c2[c'2a2] |\
+g2[d'2b2] d2[d'2b2] | f2[c'2a2] [d'2b2][b2g2] |
+g2[d'2b2] d2[d'2b2] | f2[c'2a2] c2[c'2a2] |\
+g2[d'2b2] d2[d'2a2] | f2[a2f2] [b2g2][g2G2] |]
+
+%%sep 1 1 500
+
+X: 107
+T: LADY DALRYMPLE. (North Berwick.)
+C: R. MACKINTOSH
+R: Strathspey
+B: Glen Collection p.36 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+d2 |\
+BG3 G3F DG3 G3B | AF3 cF3 dF3 A3c | BG3 G3F D(G3 G3A) | B3A B3c d(g3 g3a) |
+bg3 a3^f gd3 =fc3 | edcB f2B2 AF3 c3d | BG3 G3F DG3 G3A | BABc dcBA B2G2G2 ||
+B2 |\
+Bg3 g3^f/g/ Gg3 Bg3 | Ff3 df3 cf3 AF3 | Gg3 g3^f/g/ Bg3 dg3 | ba3 g3^f ggg2 g3a |
+bg3 fd3 ge3 fB3 | ec3 dG3 ^Fd3 D3c | BG3 G3F DG3 G3g | fedc dcBA B2G2G2 |]
+%
+V: 2
+z2 |\
+G4[b4g4] [b4g4][b4g4] | f4[c'4a4] c4[a4f4] |\
+G4[b4g4] [b4g4][b4g4] | G4[d'4b4g4] [d'4b4g4][d'4b4g4] |
+d4[c'4a4] [d'4b4][c'4a4] | B4[d'4b4] f4[c'4a4] |\
+g4[d'4b4] g4[d'4b4] | d4[^f4d4] [g4G4][g2G2] ||
+z2 |\
+[d'4b4g4][d'4b4g4] [d'4b4]d4 | f4[a4f4] [a4f4][c'4a4] |\
+[d'4b4g4][d'4b4g4] [d'4b4g4][d'4b4g4] | [d'4b4g4][c'4a4d4] [b4g4][b4g4] |
+g4[d'4b4] [c'4a4][d'4b4] | [c'4a4][d'4b4] [d'4a4d4][^f4d4] |\
+G4[g4d4] B4[b4g4] | d4[^f4d4] [g4G4][g2d2B2G2] |]
+
+%%sep 1 1 500
+
+X: 108
+T: Lieut. Col. LUMSDEN
+C: D. MACINTYRE
+R: Reel
+B: Glen Collection p.36 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+B/A/ |\
+GDB,D GABc | AFAc f2Ad/c/ | BGAD Gdgb | afcA Bdce |
+dcTBA GABc | AFAc fcA^F | GBAc Bedc | BdcA GG,G, ||
+d |\
+gabg dgBd | cf (d/c/B) (A/B/c) FA | GdBe dg^fa | gba^f g/g/g ga |
+bgfe dfBd | cf (d/c/B) (A/B/c) A^F | GBAc Bedc | BdcA GG,G, |]
+%
+V: 2
+z |\
+G2[g2d2] B2[g2d2] | F2[f2c2] A2[f2c2] |\
+G2[a2^f2] [b2g2][b2g2] | f2[e'2c'2] [d'2b2][c'2a2] |
+g2[d'2b2] d2[d'2b2] | f2[c'2a2] [c'2a2][c'2a2] |\
+[b2g2][a2^f2] [b2g2][a2f2] | g2[^f2d2] g2G ||
+z |\
+G2[g2d2] B2[g2d2] | F2f2 [c'2f2][c'2f2] |\
+G2[g2d2] d2[c'2a2] | [b2g2][c'2d2] [b2g2][b2g2] |
+B2[b2d2] [b2f2][b2d2] | F2f2 [c'2f2][c'2a2] |\
+[b2g2][a2^f2] [b2g2][a2f2] | g2[^f2d2] [g2G2][dG] |]
+
+%%sep 1 1 500
+
+X: 109
+T: Mr MACDONALD OF STAFFA
+T: known as Niel Gow's wife
+C: D. Mc LAREN
+R: Strathspey
+B: Glen Collection p.36 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+d |\
+B<GG>B A>FD>d | B<GG>A B>AB<g | B<GG>B A>FD>d | B<Bc>A FBB :|
+d/c/ |\
+B<Bd>B f>Bd>B | F<FAF/A/ c>FA<c | B<BdB f>Bd<f | g<g{ga}b>g d<gg>b |
+f<dd>f e<cc>e | d>BG>c B>AB<F | G/G/G B/B/B c/c/c d>c | B>G {B}AG/^F/ DGG |]
+%
+V: 2
+z |\
+G2[g2d2] d2[a2f2] | G2[g2d2] [g2d2][g2d2] |\
+G2[g2d2] d2[a2f2] | [b2g2][a2f2] B2[d'bf] :|
+z |\
+B2[b2f2] d2[b2f2] | F2[f2c2] A2[f2c2] |\
+B2[b2f2] d2[b2f2] | G2[g2d2] [g2d2][g2d2] |
+b2[f'2d'2] f2[c'2a2] | g2g2 d2d2 |\
+e2[b2g2] [b2g2][a2^f2] | d2[c'2a2] [b2g2][gdBG] |]
+
+%%sep 1 1 500
+
+X: 110
+T: Mr MACDONALD OF STAFFA
+C: D. Mc Laren
+R: Reel
+B: Glen Collection p.37 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+A |\
+B2Gd cBAG | Ffcf AFcA | B2Gd cBAG | FAcA {A}G2GA |
+B2Gd cBAG | Ffcf AFcA | BGcA dBec | dBcA {A}G2G ||
+g |\
+Ggg2 {^fg}dgbg | fadf cfAF | Ggg2 {^fg}dgbg | fdcA {A}G2Gg |
+Ggg2 {^fg}dgbg | fadf cfAF | GBAc Bdce | dBcA {A}G2G |]
+%
+V: 2
+z |\
+G2[g2d2] B2[g2d2] | F2[a2f2] [c'2f2][a2f2] |\
+G2[g2d2] B2[g2d2] | F2[a2f2] G2[b2g2] |
+G2[g2d2] B2[g2d2] | F2[a2f2] [c'2f2][a2f2] |\
+g2e2 d2c2 | d2[a2^f2] [b2g2][bg] ||
+z |\
+G2[g2d2] B2[g2d2] | F2[f2c2] A2[f2c2] |\
+G2[g2d2] B2[g2d2] | d2[a2f2] [b2g2][b2g2] |
+G2[g2d2] B2[g2d2] | F2[f2c2] A2[f2c2] |\
+g2e2 d2c2 | d2[a2^f2] [b2g2][bg] |]
+
+%%sep 1 1 500
+
+X: 111
+T: MISS SOPHIA CAMPBELL
+C: R. MACKINTOSH
+R: Jig
+B: Glen Collection p.37 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+B/c/ |\
+d3 (Tg^fg) | dBG Bcd | c3 (Tf=ef) | cAF ABc |\
+d3 b3 | ag^f g=fe | dcB AG^F | G3 G2 :|
+|: B/c/ |\
+d3 dBG | dBG Bcd | c3 cAF | cAF ABc |\
+d3 dBG | dBG gfe | dcB AG^F | GGG G2B/c/ |
+d3 dBG | dBG Bcd | c3 cAF | cAF ABc |\
+d3 bag | ag^f g=fe | dcB AG^F | G3 G2 |]
+%
+V: 2
+z |\
+g3 [d'3b3] | d3 [b3g3] | f3 [c'3a3] | c3 [c'3a3] |\
+[b3g3][b3g3] | [c'3d3] [b3e3] | [b3g3] [c'3d3] | [b3g3] [b2g2] :|
+z |\
+g3 [d'3b3] | d3 [d'3b3] | f3 [c'3a3] | c3[c'3a3] |\
+g3 [d'3b3] | d3 c3 | d3 [c'3a3] | [b3g3] [b2g2]z |
+G3 [g3d3] | B3[g3d3] | F3 f3 | [a3f3] [c'3a3] |\
+[b3g3] [b3g3] | [c'3d3] [b3e3] | [b3g3] [c'3d3] | [b3g3] [b2g2] |]
+
+%%sep 1 1 500
+
+X: 112
+T: MISS McLEAN OF INVERSCADLE
+C: M. Mc DONALD 4th Coll.
+R: Reel
+B: Glen Collection p.38 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+c |\
+BGDG BGdB | AFCF AFcA | BGDG BGdB | cAFA BGG :|
+d |\
+gabg dgBg | fgfc AFcA | gabg dgBg | cAdc BGGd |
+gabg dgBg | fgfc AFcA | GABc dBfd | cAFA BGG |]
+%
+V: 2
+z |\
+G2[b2g2] [b2g2][b2g2] | F2[a2f2] [a2f2] [a2f2] |\
+G2[b2g2] [b2g2][b2g2] | d2[c'2a2] [b2g2][bg] :|
+z |\
+G2[g2d2] B2[g2d2] | f2[c'2a2] c2[a2f2] |\
+G2[g2d2] B2[g2d2] | F2^F2 G2[g2d2] |
+G2[g2d2] B2[g2d2] | f2[c'2a2] c2[a2f2] |\
+d2[b2g2] B2[g2d2] | d2[c'2a2] [b2g2][gG] |]
+
+%%sep 1 1 500
+
+X: 113
+T: Mrs WALTER BIGGAR
+T: re-named Miss Alicia Heggie
+C: D. Mc LAREN
+R: Strathspey
+B: Glen Collection p.38 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+B/c/ |\
+d<B B<G d<B TB2 | A<c c>B A<F FB/c/ | d<B B<G [1 d<B B2 | c<f F>A BG G :|[2 G,>g Tg2 | f<d c>d B<G G ||
+|: d |\
+g>d d>c B<G Tg2 | f>d c>B A<F Tf2 |[1 g>d d>c B<d g2 | A<c cd/A/ BG G :|[2 g>d B<g f<c A<f | D<d c>d BG G, |]
+%
+V: 2
+z |\
+G2[g2d2]    B2[g2d2] | F2[a2f2] [c'2f2][a2f2] |\
+G2[g2d2] [1 B2[g2d2] | F2[c'2a2] [b2g2][bg] :|\
+         [2 B2[b2g2] | d2[a2f2] [b2g2][bg] ||
+|: z |\
+   g2[d'2b2] g2[d'2b2] | c2[a2f2] f2[c'2a2] |\
+[1 G2[b2g2] [b2g2][b2g2] | a2d2 [g2G2][gG] :|\
+[2 G2[b2g2] A2[f2c2] | [f2d2][a2f2] [b2g2][gdG] |]
+
+%%sep 1 1 500
+
+X: 114
+T: Mrs DAVID PATRICK'S FAVOURITE
+C: J. CLARK
+R: Reel
+B: Glen Collection p.38 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+D |\
+GABc (B/c/d) (cB) | AcFc dfAF | GABc dgbg | afdf g/g/g g :|
+(g/a/) |\
+bafd fdcB | Acfd cA F(g/a/) | bgfd fdcA | afdf g/g/g gg/a/ |
+bgfd fdcB | Acfd cAFA | GBAc Bdfd | cAFA G/G/G G |]
+%
+V: 2
+z |\
+G2[g2d2] [b2d2][a2f2] | F2[a2f2] [b2f2][a2f2] |\
+d2[b2g2] G2[b2g2] | d2d'2 [b2g2][bg] :|
+z |\
+B2[b2f2] d2[b2f2] | f2[a2f2] [a2f2][a2f2] |\
+B2[b2f2] d2[a2f2] | d2d'2 [b2g2][b2g2] |
+B2[b2f2] d2[b2f2] | f2[a2f2] [a2f2][a2f2] |\
+g2^f2 g2B2 | c2d2 [b2g2][gdG] |]
+
+%%sep 1 1 500
+
+X: 115
+T: LORD DOWN
+C: M. McDonald 4th Coll.
+R: Strathspey
+B: Glen Collection p.39 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: Added missing dot in bar 9.
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+g |\
+G<G d>B d<G G>f | F<F c>A c<F F>g | G<G d>B d<G G>g | f<d {d}c>A {A}G2 G :|
+d |\
+g>a b>g d>g b>g | f>g a>f c>f a>f | g>a  b>g d<g A<f | A<F c>A {A}G2 Gd |
+g>a {ga}b>g d>g b>g | f>g {fg}a>f c>f a>f | G>A B>c d<g bg | f<d {d}c>A G2 G |]
+%
+V: 2
+z |\
+G2[g2d2] B2[g2d2] | f2[a2f2] A2[f2c2] |\
+G2[g2d2] B2[g2d2] | f2[a2f2] [b2g2][bg] :|
+z |\
+g2[g'2d'2] b2[g'2d'2] | f2[c'2a2] a2[f'2c'2] |\
+g2[g'2d'2] b2[f'2d'2] | f2[a2f2] [b2g2][b2g2] |
+g2[g'2d'2] b2[g'2d'2] | f2[c'2a2] a2[f'2c'2] |\
+b2g2 d2G2 | d2[a2f2] [b2g2][bg] |]
+
+%%sep 1 1 500
+
+X: 116
+T: THE NEW BRIDGE DUMFRIES
+C: J. ANDERSON
+R: Reel
+B: Glen Collection p.39 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+D |\
+G2(BG) dGBG | F2(AF) cFAF | GABc dGBG | AFcA A2G :|
+g |\
+(bg).d.B (Gd).g.b | (af)cA (Fc).f.a | (bg).d.B (Gd).g.b | agfa b(g2a) |
+bgdB GDB,G, | fcAG FCA,F | GDBG dBgB | cAFA A2G |]
+%
+V: 2
+z |\
+G2[g2d2] B2[g2d2] | f2[c'2f2] A2[f2c2] |\
+G2[g2d2] B2[g2d2] | F2[a2f2] [b2g2][bg] :|
+z |\
+G2[g2d2] B2[g2d2] | F2[a2f2] [c'2f2][a2f2] |\
+G2[g2d2] B2[g2d2] | d2[c'2a2] [b2g2][b2g2] |
+G2[g2d2] B2[g2d2] | F2[f2c2] A2c2 |\
+G2[g2d2] [b2d2][g2d2] | d2[c'2a2] [b2g2][bg] |]
+
+%%sep 1 1 500
+
+X: 117
+T: MISS GRACE STEWART
+C: EARL OF EGLINTON
+R: Strathspey
+B: Glen Collection p.39 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+F |\
+(D<G) G>A B>c df | AF c>A {A}F2 FA | (D<G) G>A B>c dg | f>d Tc>A {A}d2 G :|
+d |\
+Tg>a g>f Td>c d>=e | f>g fd c>A FA | Tg>a gf Td>c d=e | f>d Tc>A {A}d2 Gd |
+Tg>a g>f Td>c d=e | f>g fd cA FA | G>B A>c B>d c>g | f>d Tc>A {A}d2 G |]
+%
+V: 2
+z |\
+[d'2b2g2][d'2b2d2] [d'2b2g2][d'2b2d2] | [c'2a2f2][c'2a2c2]  [c'2a2f2][c'2a2c2] |\
+[d'2b2g2][d'2b2d2] [d'2b2g2][d'2b2d2] | c2a2 [b2g2][bg] :|
+z |\
+g2[d'2b2] d2[d'2b2] | f2[c'2a2] c2[c'2a2] |\
+g2[d'2b2] d2[d'2b2] | f2a2 [b2g2][b2g2] |
+g2[d'2b2] d2[d'2b2] | f2[c'2a2] c2[c'2a2] |\
+[d2D2][^f2^F2] [g2G2][e2E2] | [d2D2][f2F2] [g2G2][d'bg] |]
+
+%%sep 1 1 500
+
+X: 118
+T: Mrs JAMES ERSKINE OF KIRKWALL
+C: D. MACINTYRE
+R: Reel
+B: Glen Collection p.40 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Gm
+%
+V: 1
+d |\
+BGdG DGGB | AFcF {B}A2FA | BGdG DGB,D | ECA,^F GG,G,d |
+BGdG DGGB | AFcF {B}A2FA | BGcA dBec | dBA^f gGG ||
+a |\
+bga^f g=fdg | fdcd fgaf | db^fg egce | dBA^f gGGa |
+bgdg egce | dfBd caAc | B<Gc>A dBec | dBA^f gGG |]
+%
+V: 2
+z |\
+G2[g2d2] B2[g2d2] | f2[c'2a2] c2[c'2a2] |\
+G2[g2d2] B2[g2d2] | c2d2 G2[g2d2] |
+G2[g2d2] B2[g2d2] | f2[c'2a2] c2[c'2a2] |\
+d'2[e'2c'2] [d'2b2][c'2a2] | [b2g2][c'2a2] [b2g2][bg] ||
+z |\
+[d'2b2g2][e'2c'2g2] [d'2b2][d'2b2] | [d'2b2f2][d'2b2f2] [c'2a2f2][c'2a2f2] |\
+[b2g2][d'2b2g2] [e'2c'2g2][c'2a2g2] | [b2g2][c'2d2] [b2g2][b2g2] |
+g2[d'2b2] c2[c'2g2] | b2[f'2d'2] f2[a2f2] |\
+g2^f2 g2ce | d2[c'2a2] [b2g2][gdG] |]
+
+%%sep 1 1 500
+
+X: 119
+T: Mrs J. ROSE
+C: D. MACINTYRE
+R: Strathspey
+B: Glen Collection p.40 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Dm
+%
+V: 1
+a |\
+f<d d>c A<d d<f | e>c g>c e/f/g/e/ c<a | f<d d>c A<d d<f | {f}e>c a/g/f/e/ f<dd :|
+A |\
+d>e f>e d<A A<F | E<c G<c E<C C<A | d>e f/g/e/f/ d<A A<F | E>c A/=B/^c/A/ {d}d<D D<A |
+d>e f>e d<A A<F | E<c G<c E<C C<A | DFEg FaGb | a>A a/g/f/e/ f<dd |]
+%
+V: 2
+z |\
+d2[d'2a2] f2[d'2a2] | c2[c'2g2] e2[c'2g2] |\
+d2[d'2a2] f2[d'2a2] | [c'2a2][^c'2a2] [d'2d2][afd] :|
+z |\
+d2[d'2a2] f2[d'2a2] | c2[c'2e2] [c'2g2][c'2e2] |\
+d2[d'2a2] f2[d'2a2] | a2fe d2[a2f2d2] |
+d2[d'2a2] f2[d'2a2] | c2[g2e2] [g2c2][g2c2] |\
+d2B2 A2G2 | d2[^c'2a2] [d'2d2][afd] |]
+
+%%sep 1 1 500
+
+X: 120
+T: MISS CAMPBELL OF SADDELL
+C: R. MACKINTOSH
+R: Reel
+B: Glen Collection p.40 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Dm
+%
+V: 1
+A |\
+FDdD F(AAc) | ECcG E(GGA) | FDfd e^cdA | BGA^c d/d/d (dA) |
+FDdD F(AAc) | ECcG E(GGE) | FDGE AFBG | Ad^ce d/d/d d ||
+a |\
+bgaf gefd | egcg ecgc | bgaf gefd | ^ceAa f(dda) |
+bgaf gefd | egcg ecgc | dfeg fagb | agfe fdd |]
+%
+V: 2
+z |\
+d2[d'2a2] A2[a2f2] | c2[g2e2] c2[g2e2] |\
+d2[d'2a2] e2f2 | g2a2 d2[a2f2] |
+d2[a2f2] A2[a2f2] | c2[g2e2] c2[g2e2] |\
+[f2d2][e2^c2] d2B2 | A2[g2e2] [f2d2][fd] ||
+z |\
+[e2^c2][f2d2] [g2e2][a2f2] | c2[c'2g2] [c'2g2][c'2g2] |\
+[e2^c2][f2d2] [g2e2][a2f2] | A2[^c'2a2] [d'2d2]d2 |
+[e2^c2][f2d2] [g2e2][a2f2] | c2[c'2g2] [c'2g2][c'2g2] |\
+d2^c2 d2G2 | d2[^c'2a2] [d'2d2][afd] |]
+
+%%sep 1 1 500
+
+X: 121
+T: MAJOR JAMES MONRO
+C: R. MACKINTOSH
+R: Strathspey
+B: Glen Collection p.41 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Dm
+%
+V: 1
+A |\
+F<D A,>D FD AF | E>c G>c E<C A>G | F<D A,>D B,<D G,>B | A>G F>E F(D DA) |
+A<D A,>D FD AF | E>c G>c E<C A>G | F>A D>d ^c>e A<a | bg (a/g/f/e/ f)dd ||
+g |\
+(a/g/f/e/ f)>d A>d f>d | c>e g>e c'>g e<c | (a/g/f/e/ f)>d A>d f>d | A>G F<E F<D D>g |
+(a/g/f/e/ f)>d A>d f>d | c>e g>e c'g ec |a<f g<e f<d e<^c | d<B A>G FDD |]
+%
+V: 2
+z |\
+d2f2 A2[f2d2] | c2[g2e2] c2^c2 |\
+d2f2 g2G2 | A2[^c'2a2] [d'2d2]d2 |
+d2f2 A2[f2d2] | c2[g2e2] c2^c2 |\
+d2[a2f2] A2[e2^c2] | G2A2 d2[afd] ||
+z |\
+d2[d'2a2] f2[d'2a2] | e2[c'2g2] c2[c'2g2] |\
+d2[d'2a2] f2[d'2a2] | g2a2 d2[a2f2] |
+d2[d'2a2] f2[d'2a2] | e2[c'2g2] c2[c'2g2] |\
+d'2^c'2 d'2b2 | g2[c'2a2] [d'2d2][afd] |]
+
+%%sep 1 1 500
+
+X: 122
+T: IT WINNA DO
+C: D. Mc LAREN
+R: Reel
+B: Glen Collection p.41 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Dm
+%
+V: 1
+A, |\
+(D/E/F) (E>D) (d/e/f) (ed) | cAGF ECCE | (D/E/F) (E>D) (d/e/f) e>d | c>AGE ADD :|
+e |\
+f>ede fagf | egcg ecge | f>ede fage | fdB^c dDDe |
+f>ede fagf | egcg ecge | f<ae<g decd | AcEG ADD |]
+%
+V: 2
+z |\
+d2[a2f2] d2[d'2a2] | f2[c'2a2] c2[g2e2] |\
+d2[a2f2] d2[d'2a2] | A2[^c'2a2] [d'2d2][ad] :|
+z |\
+d2[a2f2] A2[a2f2] | c2[g2e2] G2[g2e2] |\
+d2[a2f2] d2B2 | A2[g2e2] [f2d2][f2d2] |
+d2[a2f2] A2[a2f2] | c2[g2e2] G2[g2e2] |\
+d'2a2 b2f2 | [a2f2][g2e2] [f2d2][afd] |]
+
+%%sep 1 1 500
+
+X: 123
+T: BUCKINGHAM HOUSE
+T: or Athole Brose
+C: ABR. MACKINTOSH
+O: R. MACKINTOSH Coll.
+R: Strathspey
+B: Glen Collection p.41 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Dm
+%
+V: 1
+A !segno!|\
+FD D/D/D A,(DDE) | FD D/D/D (G/A/B) AG | FD D/D/D A,DDF | (E/F/G) (CG) cGEG |
+FD D/D/D A,(DDE) | FD D/D/D (G/A/B) AG | FD D/D/D A,DDF | (E/F/G) (CE) cGEC ||
+D(Tdd>c) dedc | A(dde) fde^c | ddfd ecfd | (c>dc)G ECGE !segno!:|
+%
+V: 2
+z |\
+d2[a2f2] d2[a2f2] | d2[a2f2] ^c2[a2g2] |\
+d2[a2f2] d2[a2f2] | c2[g2e2]  G2[g2e2] |
+d2[a2f2] d2[a2f2] | d2[a2f2] ^c2[a2g2] |\
+d2[a2f2] d2[a2f2] | c2[g2e2]  G2[g2e2] ||
+d2[d'2a2] d2[d'2a2] | d2[a2f2] [a2f2d2] [b2g2d2] |\
+d2[a2f2] A2G2 | c2[g2e2] [g2e2c2][g2e2c2] :|
+
+%%sep 1 1 500
+
+X: 124
+T: MISS MARY MACDONALD OF CLANRANALD
+C: R. MACKINTOSH
+R: Reel
+B: Glen Collection p.42 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Dm
+%
+V: 1
+A | d/d/d Ad FDD^c | dfA=c ECC^c | ~d2Ad FAdf | egAa fdd :|
+e |\
+fdad Aafd | ecgc Gceg | fdad Aafd | egAa f(dde) |
+fdad Aafd | ecgc Gceg | fdge afbg | afge fd-d |]
+%
+V: 2
+z |\
+d2[a2f2] A2[a2f2] | d2[a2f2] c2[g2e2] |\
+d2[a2f2] A2[a2f2] | c2^c2 d2[afd] :|
+z |\
+d2[d'2a2] f2[d'2a2] | c2[c'2g2] e2[c'2g2] |\
+d2[d'2a2] f2[d'2a2] | c2^c2 d2[a2f2d2] |
+d2[d'2a2] f2[d'2a2] | c2[c'2g2] e2[c'2g2] |\
+d2[b2g2] [a2f2][g2e2] | A2[^c'2a2] [d'2d2] [afd] |]
+
+%%sep 1 1 500
+
+X: 125
+T: MISS NAPIER OF MERCHISTON HALL
+C: R. MACKINTOSH
+R: Jig
+B: Glen Collection p.42 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Dm
+%
+V: 1
+A |\
+d3 {f}ed^c | dAG FED | d3 =c=BA | GAF EDC |\
+f3 ed^c | d=cB AGF | (GFG) EAG | FDD D2 :|
+a |\
+bag afd | bag afd | ecg efg | efd gec |\
+bag afd | bag afd | ^cde Aae | fdd d2a |
+bag afd | bag afd | ecg efg | efd gec |\
+def efg | fga gab | agf gfe | fdd d2 |]
+%
+V: 2
+z |\
+d3 [b3g3d3] | [a3f3d3] [a3f3d3] | d3 [a3f3] | c3 g3 |\
+d3 [b3g3d3] | [a3f3d3] [a3f3d3] | c3 ^c3 | d3 [a2f2d2] :|
+z [K: clef=treble]|\
+[G3E3D3] [A3F3D3] | [G3E3D3] [A3F3D3] | C3 [G3E3] | G,3 [G3E3] |\
+[G3E3D3] [A3F3D3] | [G3E3D3] [A3F3D3] | A,3 [E3^C3] | D3 [A3F3] |
+[G3E3D3] [A3F3D3] | [G3E3D3] [A3F3D3] | C3 [G3E3] | G,3 [G3E3] [K: clef=bass middle=d]|\
+d'3 ^c'3 | d'3 b3 | a3 [^c'3a3] | [d'3d3] [a2f2d2] |]
+
+%%sep 1 1 500
+
+X: 126
+T: LADY GEORGINA
+C: R. MACKINTOSH
+R: Reel
+B: Glen Collection p.42 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Dm
+%
+V: 1
+a |\
+f(ddA) FDdf | e(ccG) ECce | f(ddA) FDAd | cAGE A(DDe) |
+f(ddA) FDdf | e(ccG) ECcE | FDEG AFGB | Ad^ce dD-D ||
+a |\
+fada bgaf | egcg acgc | fada bgad | ^ceAa f(dde) |
+fada bgaf | egcg acgc | dAeA fAgA | afge fd-d |]
+%
+V: 2
+z |\
+[a2d2][a2f2] A2[a2f2] | c2[g2e2] G2[g2e2] |\
+d2[a2f2] A2[a2f2] | c2^c2 d2[a2f2] |
+d2[a2f2] A2[a2f2] | c2[g2e2] G2[g2e2] |\
+d2[b2g2] [a2f2][g2e2] | a2A2 d2[afd] ||
+z |\
+d2[a2f2] [g2e2][a2f2] | c2[c'2g2] e2[c'2g2] |\
+d2[a2f2] [g2e2][a2f2] | A2^c2 d2[a2f2] |
+d2[a2f2] [g2e2][a2f2] | c2[c'2g2] e2[c'2g2] |\
+d2[a2f2] f2e2 | d2[^c'2a2] [d'2d2] [afd] |]
+
+%%sep 1 1 500
+
+X: 127
+T: MISS ERSKINE OF TORRY
+C: J. WALKER
+R: Strathspey
+B: Glen Collection p.43 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Am
+%
+V: 1
+B |\
+c<A A>B c<A A>c | B<d d>c BG GB | c>A d>B e>c d>B | e/d/c/B/ e>B cAA :|
+^g |\
+a>e e>d c>A A>c | B>g dg BG G^g | a>e e>d c>A a>g | f/e/d/c/ B/c/d/B/ cA A^g |
+a>e e>d c>A A>c | B>g dg BG GB | (3ABc (3Bcd (3cde (3def | e>a ^g>b aAA |]
+%
+V: 2
+z |\
+a2[e'2c'2] e2[e'2c'2] | g2[d'2b2] d2[d'2b2] |\
+a2^g2 a2f2 | e2[^g2e2] [a2A2][aecA] :|
+z |\
+a2[e'2c'2] e2[e'2c'2] | g2[d'2b2] d2[d'2b2] |\
+a2[e'2c'2] e2[e'2c'2] | d2[^g2e2] [a2A2][a2A2] |
+a2[e'2c'2] e2[e'2c'2] | g2[d'2b2] d2[d'2b2] |\
+[e'2c'2][f'2d'2] [e'2c'2][d'2b2] | c'2e2 [a2A2][aecA] |]
+
+%%sep 1 1 500
+
+X: 128
+T: MISS JANE WEDDERBURN
+C: R. MACKINTOSH
+R: Rell
+B: Glen Collection p.43 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Am
+%
+V: 1
+e |\
+c<Aa>^g a(ee=g) | B<Gg>^f g(ddB) |c<Aa>^g aeaf | ecdB cAA :|
+c |\
+AEcA ecae | ^fdgd ecBG | AEcA ecaf | edcB c(AAc) |
+AEcA ecae | ^fdgd ecBG | (ABc)A Bcdf | edcB cAA |]
+%
+V: 2
+z |\
+a2[e'2c'2] e2[e'2c'2] | g2[d'2b2] d2[d'2b2] |\
+a2[e'2c'2] e2d2 | e2[^g2e2] [a2A2][aA] :|
+z |\
+c2[a2e2] c2[a2e2] | d2[b2g2] [a2^f2][b2g2] |\
+c2[a2e2] c2d2 | e2[^g2e2] [a2A2][a2A2] |
+c2[a2e2] c2[a2e2] | d2[b2g2] [a2^f2][b2g2] |\
+A2[a2e2] f2d2 | e2[^g2e2] [a2A2][aecA] |]
+
+%%sep 1 1 500
+
+X: 129
+T: MISS SARAH DRUMMOND OF PERTH
+C: M. Mc Donald. 2nd Coll.
+R: Strathspey
+B: Glen Collection p.43 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Am
+%
+V: 1
+a |\
+A<A e>d B<d e2 | d<g B<g d<g B<G | A<A d<d B<d e<(g | a)>e g>B {B}A2 A :|
+g |\
+a<a e<a c<a e2 | g<g d<g Bg d2 | a<a e<a c<a e<g | a<e g<B {B}A2 Ag |
+a<a e<a c<a e2 | g<g d<g Bg d2 | a<a e<a g<b e<g | a<e g<B {B}A2 A |]
+%
+V: 2
+z |\
+a2[e'2c'2] e2[e'2c'2] | g2[d'2b2] [d'2b2][d'2b2] |\
+a2[e'2c'2] e2[e'2c'2] | e2[b2g2] [c'2a2][aA] :|
+z |\
+a2[e'2c'2] e2[e'2c'2] | g2[d'2b2] d2[b2g2] |\
+a2[e'2c'2] e2[e'2c'2] | e2[b2g2] [c'2a2][c'2a2] |
+a2[e'2c'2] e2[e'2c'2] | g2[d'2b2] d2[b2g2] |\
+a2[e'2c'2] g2[e'2b2] | e2[b2g2] [c'2a2][aecA] |]
+
+%%sep 1 1 500
+
+X: 130
+T: LADY ERSKINE
+C: J. WALKER
+R: Reel
+B: Glen Collection p.44 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Am
+%
+V: 1
+E |\
+A2AB c2BA | Bdgd BGGB | A2AB (cd)ea | gegB A2-A :|
+g |\
+abag ega2 | gage deg2 | abag e^fge | dBgB A2Ag |
+abag ega2 | gage deg2 | aabg a^fge | dBgB A2-A |]
+%
+V: 2
+z |\
+[a2e2A2][a2e2A2] [a2e2A2][a2e2A2] | [g2d2G2][g2d2G2] [g2d2G2][g2d2G2] |\
+A2[a2e2] A2[a2e2] | e2e2 A2[aA] :|
+z |\
+a2[e'2c'2] e2[e'2c'2] | g2[d'2b2] d2[d'2b2] |\
+a2[e'2c'2] e2[e'2b2] | g2[b2g2] [c'2a2][a2A2] |
+a2[e'2c'2] e2[e'2c'2] | g2[d'2b2] d2[d'2b2] |\
+c'2b2 B2e2 | g2[b2g2] [c'2a2][aeA] |]
+
+%%sep 1 1 500
+
+X: 131
+T: Mrs WRIGHT OF LAWTON
+C: N. GOW
+R: Strathspey
+B: Glen Collection p.44 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Em
+%
+V: 1
+e |\
+B<E B>A B<E B<e | dD {B}AG/F/ dD {B}AG/F/ | B<E BA BE B>e | d<B d>F {F}E2 E :|
+B |\
+e<B e<g B<e g<e | d<f B<d F<D A>F | e<B e<g B>e g>e | d<B d>F {F}E2 E>B |
+e<B e<g B<e g>e | d<f B<d F>D A<F | G<B E>B e<B g>e | d<B d>F {F}E2 E |]
+%
+V: 2
+z |\
+e2[e'2b2] g2[e'2b2] | d2[a2f2] A2[a2f2] |\
+e2[e'2b2] g2[e'2b2] | B2d2 e2[bge] :|
+B |\
+[b2g2e2][b2g2e2] [b2g2e2][b2g2e2] | B2[b2g2] d2[a2f2] |\
+[b2g2e2][b2g2e2] [b2g2e2][b2g2e2] | B2[f2d2] [g2e2][g2e2] |
+[b2g2e2][b2g2e2] [b2g2e2][b2g2e2] | B2[b2f2] d2[a2f2] |\
+e2[b2g2] B2[b2g2] | B2[f2d2] [g2e2][eE] |]
+
+%%sep 1 1 500
+
+X: 132
+T: Mr LINDSAY
+C: D. Mc LAREN
+R: Reel
+B: Glen Collection p.44 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Em
+%
+V: 1
+F |\
+EBGB E/E/EB2 | FDAF DEFD |1 EBGB E/E/EB2 | DFAF BEE :|2 EB,GE FDAF | GBAF {F}E2E ||
+f |\
+efge bgfd | Bgfg afdf | efge bgfd | Bagf {f}e2(ef) |
+efge bgfd | Bgfg afdg | bfge f^deB | GBAF {F}E2E |]
+%
+V: 2
+z |\
+e2[b2g2] B2[g2e2] | d2[a2f2] A2[a2f2] |\
+[1 e2[b2g2] B2[g2e2] | [a2f2][a2f2] e2[bge] :|\
+[2 e2[b2g2] d2[a2f2] | B2d2 e2[bge] ||
+z |\
+g2f2 e2[b2g2] | g2[d'2b2] d2[d'2a2] |\
+g2f2 e2[b2g2] | e2^d2 e2[b2g2] |
+g2f2 e2[b2g2] | g2[d'2b2] d2[d'2a2] |\
+e2[b2g2] [c'2a2][b2g2] | B2^d2 e2[bge] |]
+
+%%sep 1 1 500
+
+X: 133
+T: Mr BAILLIE OF MELLERSTON
+C: NATH. GOW
+R: Strathspey
+B: Glen Collection p.45 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Em
+%
+V: 1
+e |\
+B<E B>d D>E Fd | B<E B>F E>F GA | B<d F<d d>e Fd | B<E B>F {F}E2 E :|
+g/a/ |\
+be- e>.f d>e fa | be- e>g e>g e^c | d<f B<d D>E Fd | B<E B>f {F}E2 Eg/a/ |
+be- e>.f d>e f/e/f/a/ | be- e>.f e>g e^c | d<f B<d D>E Fd | Ee (B/A/)G/F/ {F}E2 E |]
+%
+V: 2
+z |\
+e2[b2g2] f2[d'2a2] | e2^d2 e2[b2g2] |\
+[b2g2][a2d2] d2[d'2a2] | e2^d2 e2[bge] :|
+z |\
+e2[b2g2] f2[d'2a2] | e2[b2g2] g2g2 |\
+f2[b2f2] d2[a2f2] | e2^d2 e2[b2g2e2] |
+e2[b2g2] f2[d'2a2] | e2[b2g2] g2g2 |\
+f2[b2f2] d2[a2f2] | e2^d2 e2[bge] |]
+
+%%sep 1 1 500
+
+X: 134
+T: MISS BISSET. LOGIERAIT
+C: M. Mc DONALD
+R: Reel
+B: Glen Collection p.45 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Em
+%
+V: 1
+|:\
+egfd egB2  | dBAG FAFD | egfd egBd | AFdF E/E/E E :|
+GBEB GBe^c | dBAG FAFD | GBEB GBeB | AFdF E/E/E E2 |
+GBEB GBe^c | dBAG FAFD | GBEB GBeg | fdgf e/e/e e2 |]
+%
+V: 2
+|:\
+e2[b2g2] B2[b2g2] | d2[a2f2] A2[a2f2] |\
+e2[b2g2] B2[b2g2] | d2[f2d2] [g2e2][ge] :|
+e2[b2g2] e2A2 | d2[a2f2] A2[a2f2] |\
+e2[b2g2] B2[b2g2] | d2[f2d2] [g2e2][g2e2] |
+e2[b2g2] e2A2 | d2[a2f2] A2[a2f2] |\
+e2[b2g2] B2[b2g2] | d2^d2 e2[b2g2e2] |]
+
+%%sep 1 1 500
+
+X: 135
+T: MISS GRANT
+C: D. Mc LAREN
+R: Strathspey
+B: Glen Collection p.45 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+N: Is the bass e2 in bar 2 a typo?
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Em
+%
+V: 1
+d |\
+B>G E/E/E (E>G) BG | {B}A>F D/D/D (D>E) F<A |\
+[1 B>G E/E/E EG B>G | A<F F>A BEE :|\
+[2 G<B A<c B<G A<F | G<B A>F GEE ||
+f |\
+e>f g>f e<b g<e | f>e d>a f<d d>f |\
+e>f g>f e<b g<e | f>e d>f e<E E>f |
+g>f e<b B<b g<e | f>e d<a A<a f<d |\
+E<G F<A G<B A<c | B>G B/A/G/F/ GEE |]
+%
+V: 2
+z |\
+e2[b2g2] B2[b2g2] | e2[a2f2] A2[a2f2] |\
+[1 e2[b2g2] B2[b2g2] | d2^d2 e2E :|\
+[2 e2^d2 e2A2 | B2^d2 e2[bge] ||
+z |\
+e2[e'2b2] g2[e'2b2] | d2[d'2a2] A2a2 |\
+e2[e'2b2] g2[e'2b2] | d2B2 e2[b2g2e2] |
+e2[e'2b2] g2[e'2b2] | d2[a2f2] d2[a2f2] |\
+e2^d2 e2A2 | B2^d2 e2[bge] |]
+
+%%sep 1 1 500
+
+X: 136
+T: Mrs MELVILL. DYSART
+C: J. WALKER
+R: Reel
+B: Glen Collection p.46 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: Em
+V: 1
+F |: GFEF GAB^c | dDDE FGAF |[1 GFEF GABe | dBAF E2EF :|
+[2 GBGE FAFD | dBAF E2 E || B | edBd efge | dBAB defd | edBd efge |
+dBAF E2Ed | edBd efge | dBAB defe | gefd edBe | dBAF E2E |]
+V: 2
+z |: e2b2 g2e2 | d2[a2f2] A2[a2f2] |[1 e2b2 g2e2 | f2B2 e2[b2g2e2] :|
+[2 e2g2 d2f2 | d2B2 e2[bge] || z | e2 [b2g2] B2[b2g2] | g2[d'2b2] d2[d'2a2] | e2[b2g2] B2[b2g2] |
+d2^d2 e2[b2g2e2] | [g2e2][b2g2] B2[b2g2] | g2[d'2b2] d2[d'2a2] | e2B2 e2[b2g2] | B2^d2 e2[bge] |]
+
+%%sep 1 1 500
+
+X: 137
+T: MISS BUCHANAN OF CAMBUSMORE
+C: Wm SHEPHERD
+R: Jig
+B: Glen Collection p.46 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: G
+V: 1
+B, |\
+{EF}GFE EGE | EB,E E2F | GAB cAd | BGE AFD |\
+{EF}GFE EGE | EB,E E2F | GAB cAF | BGE E2 :|
+B |\
+e2f gfe | eBe e2f | g2a bge | afd def |\
+e2f gfe | eBe e2F | GAB cAF | BGE E2B |
+e2f gfe | eBe e2f | g2a bge | afd d2g/a/ |\
+bgb af^d | {a}gfe dBG | ABc BAF | BGE E2 |]
+V: 2
+z | e3 [b3g3] | B3 [b3g3] | [b3g3] [a3f3] | [b3g3] [c'3a3] | e3 [b3g3] | B3 [b3g3] |
+[b3g3] [a3d3] | [g3e3] [b2g2e2] :| z | e3 [b3g3] | B3 [b3g3] | [g3e3] [b3g3e3] | f3 d3 |
+e3 [b3g3] | e3 [c'3a3] | [b3g3] [a3d3] | [g3e3]  [b3g3e3] | e3 [b3g3] | B3 [b3g3] |
+e3 [b3g3e3] | f3 [d'3a3] | e3 [c'3a3] | [b3g3] [g3B3] | d3 ^d3 | e3 [b2g2e2] |]
+
+%%sep 1 1 500
+
+X: 138
+T: MISS FORDYCE AYTON
+C: R. MACKINTOSH
+R: Reel
+B: Glen Collection p.47 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Em
+%
+V: 1
+B |\
+E/E/E (BG) EB,GE | FDAF dAFD | GEBG EB,GE | ABGF G(EEB) |
+E/E/E (BG) EB,GE | FDAF dAFD | EGFA GBAc | BAGF GEE ||
+f |\
+ebge Bege | (d/e/f/g/ a).f defd | ebge Bege | ^dfBa g(eef) |
+ebge Bege | (d/e/f/g/ a).f defd | egfa gbfa | gef^d eEE |]
+%
+V: 2
+z |\
+e2[b2g2] B2[b2g2] | d2[a2f2] A2[a2f2] |\
+e2[b2g2] B2[b2g2] | d2^d2 e2E2 |
+e2[b2g2] B2[b2g2] | d2[a2f2] A2[a2f2] |\
+e2^d2 e2A2 | B2^d2 e2[bge] ||
+z |\
+e2[e'2b2] g2[e'2b2] | d2[d'2a2] f2[d'2a2] |\
+e2[e'2b2] g2[e'2b2] | d2^d2 e2[b2g2] |
+e2[e'2b2] g2[e'2b2] | d2[d'2a2] f2[d'2a2] |\
+e2^d2 e2A2 | B2B2 e2[bge] |]
+
+%%sep 1 1 500
+
+X: 139
+T: MISS DRUMMOND OF LOGIEALMOND
+C: Wm SHEPHERD
+R: Strathspey
+B: Glen Collection p.47 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Em
+%
+V: 1
+EF |\
+{F}G3E GFE^D E3B B3F | G3B d3B FAdB AFDF |\
+{F}G3E GFE^D E2B2 B2ef | {f}g3e fbB^d e2E2E2 :|
+B2 |\
+e3f {ef}g2fe TB2e^d e2B2 | e3f {a}g2.f.e dfba gfe^d |\
+e3f {a}g2.f.e B2e^d e2c2 | B2B,2 BAGF G2E2 E2B2 |
+e3f {ef}g2fe  B2e^d e2B2 | e3f {a}g2fe dfba gfe^d |\
+b3g a3f g3e B3G | ABcA Be^df e2E2E2 |]
+%
+V: 2
+z2 |\
+E4[c'4a4e4] [b4g4e4]e4 | g4[d'4b4] d4[a4f4] |\
+e4[c'4a4e4] [b4g4e4][b4g4e4] | e4B4 E4[b2g2e2] :|
+z2 |\
+e4[e'4b4] g4[e'4b4] | [b4g4e4][b4e4B4] [a4f4d4][a4A4] |\
+e4[e'4b4] e4E4 | B4^d4 e4[b4g4e4] |
+e4[e'4b4] g4[e'4b4] | [b4g4e4][b4B4] [a4f4d4][a4A4] |\
+[g4e4][c'4e4] [b4e4][b4g4e4] | c'4b4 e4[b2g2e2] |]
+
+%%sep 1 1 500
+
+X: 140
+T: DUNKELD HERMITAGE
+C: N. GOW
+R: Reel
+B: Glen Collection p.48 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Em
+%
+V: 1
+e |\
+E/E/ETB2 GEBG | FdAd FDAF | E/E/E TB2 GEBG | AFdF E/E/E E :|
+g |\
+e/e/eTg2 bege | d/d/d fd adfd | e/e/e Tg2 bege | dBdF E/E/E ETg |
+e/e/e g2 bege | d/d/d fd adfd | gbfa efde | BFdF E/E/E E |]
+%
+V: 2
+z |\
+e2[e'2b2] B2[e'2b2] | d2[a2f2] A2[f2d2] |\
+e2[e'2b2] B2[e'2b2] | d2[a2f2] e2[bge] :|
+z |\
+e2[b2g2] B2[b2g2] | d2[a2f2] A2[a2f2] |\
+e2[b2g2] B2[b2g2] | B2d2 e2[b2g2e2] |
+e2[b2g2] B2[b2g2] | d2[a2f2] A2[a2f2] |\
+e2^d2 e2G2 | B2B2 e2[bge] |]
+
+%%sep 1 1 500
+
+X: 141
+T: BELLADRUM
+C: CAPt FRASER
+R: Strathspey (S.F.)
+N: What does "(S.F.)" mean here?
+B: Glen Collection p.48 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Em
+%
+V: 1
+B |\
+E/E/E E>F G>A B<d | D/D/D AD FD AF | E/E/E E>F G>A BG |B,E E>^D E2 E :|
+e/f/ |\
+g>e f<^d e<B e2 | {^c}~d>B Ad FD AF | e>f ed B^d ef | g>e B^d {d}e2 Be/f/ |
+g<e f<d e<B e2 | f<^c d>A F>D Af | gd eB dG AB | G<E B,>^D E2 E |]
+%
+V: 2
+z |\
+e2[b2g2] G2[g2d2] | d2[a2f2] A2[f2d2] |\
+e2[b2g2] G2[g2d2] | [g2e2][a2f2] [b2g2e2][bge] :|
+z |\
+e2[c'2a2] [b2g2][g2e2] | f2f2 a2f2 |\
+e2[b2g2] g2f2 | e2[a2f2] e2[b2g2] |
+e2[c'2a2] [b2g2][g2e2] | d2[a2f2] A2[a2f2] |\
+G2[b2g2] B2[g2d2] | g2f2 e2[bge] |]
+
+%%sep 1 1 500
+
+X: 142
+T: MISS JOHNSTON OF HILTON
+C: N. GOW
+R: Reel
+B: Glen Collection p.48 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Em
+%
+V: 1
+f |\
+eEEF B2B^c | dBAd FDAF | EFGA B2Bg | f^dBd e/e/e e :|
+f |\
+eBef gbeg | fada fdaf | eBef gbeg | f^dBd e/e/e ef |
+eBge gbeg | fdad fadf | gbeg bgeg | f^dBd e/e/e e |]
+%
+V: 2
+z |\
+e2[b2g2] g2[e'2b2] | d2[a2f2] A2[f2d2] |\
+e2[b2g2] g2[e'2b2] | b2B2 e2[bge] :|
+z |\
+e2[b2g2] B2[b2g2] | d2[a2f2] A2[f2d2] |\
+e2[b2g2] B2[b2g2] | b2B2 e2[b2g2e2] |
+e2[b2g2] B2[b2g2] | d2[a2f2] A2[a2f2] |\
+e2[b2g2] g2[e'2b2] | b2B2 e2[bge] |]
+
+%%sep 1 1 500
+
+X: 143
+T: MISS WATSON
+T: re-named Belhelvie House
+C: Wm MARSHALL
+R: Strathspey
+B: Glen Collection p.49 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Bm
+%
+V: 1
+|:\
+B,<B B>F B/B/B d2 | c>B A<c e/d/c/B/ Ac | B,<B B>F B/B/B d2 | TcB Ac B2 B,2 :|
+d2- df d/d/d Td2 | cB Ac e/d/c/B/ Ac | d2- df d/d/d (fd) | cA ec B2 B,2 |
+d2- df d/d/d Td2 | cB Ac e/d/c/B/ Ac | d2- df cA ec | dB cA B2 B,2 |]
+%
+V: 2
+|:\
+B2[b2f2] d2[b2f2] | A2[a2e2] c2[a2e2] |\
+B2[b2f2] d2[b2f2] | A2[a2e2] B2[b2f2d2] :|
+b2[f'2d'2] f2[f'2d'2] | a2[e'2c'2] e2[e'2c'2] |\
+b2[f'2d'2] f2[f'2d'2] | a2a2 [b2B2][f2d2B2] |
+b2[f'2d'2] f2[f'2d'2] | a2[e'2c'2] e2[e'2c'2] |\
+[b2B2][d'2d2] [a2A2][a2A2] | [b2B2]f2 B2[b2f2d2B2] |]
+
+%%sep 1 1 500
+
+X: 144
+T: LADY BAIRD'S NEW REEL
+C: R. MACKINTOSH
+R: Reel
+B: Glen Collection p.49 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Bm
+%
+V: 1
+(f |\
+fd)ec dBB(g | f)aea cAA(g | f)dec dBbg | fedc dBB :|
+(g |\
+fg)af ebag | fded cAA(g | fg)af ea^ga | fdec dB-B(g |
+f)gaf ebag | fded c(AAc) | dBec fdbg | fedc (dBB) |]
+%
+V: 2
+z |\
+B2[^a2f2] [b2f2][b2f2] | a2[e'2c'2] e2[c'2a2] |\
+[d'2b2][e'2c'2] [f'2d'2]e2 | f2[^a2f2] [b2B2][bB2] :|
+z |\
+d2[d'2a2] d2[c'2a2] | d2[d'2a2] A2[c'2a2] |\
+d2[d'2a2] a2[e'2c'2] | f2^a2 b2[b2B2] |
+d2[d'2a2] d2[c'2a2] | d2[d'2a2] A2a2 |\
+b2g2 f2e2 | f2[^a2f2] [b2B2][bfB] |]
+
+%%sep 1 1 500
+
+X: 145
+T: LADY GRACE STEWART
+C: NATH. GOW
+R: Strathspey
+B: Glen Collection p.49 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+V: 1 clef=treble middle=B
+V: 2 clef=bass middle=d
+%%score {1 | 2}
+K: Bm
+%
+V: 1
+|:\
+B,BB>c {Bc}dBA2 | B,BB>c dBdf | ef/^g/ af eAc2 | B,BB>c dBdf :|
+(d/e/f/g/) af eATc2 | (d/e/f/g/) (ag) fdfa | gb/g/ fa/f/ dATc2 | B,BB>c dBdf |
+(d/e/f/g/) af eATc2 | (d/e/f/g/) ag fdfa | (3gbg (3faf (3efd {d}(3cB^A | ~B>c~d>e fBdf |]
+%
+V: 2
+|:\
+B2[f2d2] [f2d2][f2d2] | B2[f2d2] F2[f2d2] |\
+A2[a2e2] c2[a2e2] | B2[b2f2d2] [b2f2d2][b2f2d2] :|
+d2[a2f2] A2[a2e2] | d2[a2f2] [a2f2][a2f2] |\
+B2d2 A2[a2e2] | B2[b2f2d2] [b2f2d2][b2f2d2] |
+d2[a2f2] A2[a2e2] | d2[a2f2] [a2f2][a2f2] |\
+B2d2 A2[g2e2] | [f2d2][e2c2] [d2B2][f2d2B2] |]
+
+%%sep 1 1 500
+
+X: 146
+T: HONble Mr FRASER. (of Lovat)
+C: R. MACKINTOSH
+R: Reel
+B: Glen Collection p.50 #1
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: Bm
+%
+V: 1
+g |\
+f2(ef) dfBd | cAec aecA | f2(ef) dfBd | efdc d(BBg) |
+f2(ef) dfBd | cAec aecA | (Bcd)B cdeg | fdec dBB ||
+f |\
+{B}b2(fd) {B}b2(fd) | (cea)^g aecA | {B}b2(fd) {B}b2(fd) | efdc dBBf |
+{B}b2(fd) {B}b2(fd) | (cea)^g aecA | Bb^ab gbeg | fedc dBB |]
+%
+V: 2
+z |\
+b2[f'2d'2] f2[f'2d'2] | a2[e'2c'2] e2[e'2c'2] |\
+b2[f'2d'2] f2[f'2d'2] | a2^a2 b2B2 ||
+b2[f'2d'2] f2[f'2d'2] | a2[e'2c'2] e2[e'2c'2] |\
+b2[f'2d'2] f2[f'2d'2] | a2^a2 b2[fdB] ||
+z |\
+b2[f'2d'2] f2[f'2d'2] | a2[e'2c'2] e2[e'2c'2] |\
+b2[f'2d'2] f2[f'2d'2] | a2^a2 b2B2 |
+b2[f'2d'2] f2[f'2d'2] | a2[e'2c'2] e2[e'2c'2] |\
+b2[f'2d'2] e2[e'2c'2b2] | f2^a2 b2[fdB] |]
+
+%%sep 1 1 500
+
+X: 147
+T: MISS ANN MONRO
+C: R. MACKINTOSH
+R: Jig
+B: Glen Collection p.50 #2
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: Bm
+%
+V: 1
+F |\
+B3 f3  | edc dcB | Acd edc | aed cBA |\
+B3 fgf | edc dcB | efd edc | dBB B2 :|
+c |\
+dfB dbB | dcB fdB | ceA caA | cBA edc |\
+dfB dbB | dcB fdB | efd edc | dBB B2c |
+dfB dbB | dfB dbB | ceA caA | ceA caA |\
+BdB cec | dfd ege | fgf edc | dBB B2 |]
+%
+V: 2
+z |\
+b3 [f'3d'3] | f3 [f'3d'3] | a3 [e'3c'3] | e3 [e'3c'3] |
+b3 [d'3b3]  | f3 [f'3d'3] | f3 ^a3 | b3 [b2f2d2B2] :|
+z |\
+b3 [f'3d'3] | f3 [f'3d'3] | a3 [e'3c'3] | e3 [e'3c'3] |
+b3 [f'3d'3] | f3 [f'3d'3] | f3 ^a3 | b3 B3 |
+b3 [f'3d'3] | f3 [f'3d'3] | a3 [e'3c'3] | e3 [e'3c'3] |
+b3 ^a3 | b3 [e'3b3g3] | [d'3f3] ^a3 | b3 [b2f2d2B2] |]
+
+%%sep 1 1 500
+
+X: 148
+T: MAJOR MOLLE
+C: ANDw GOW
+R: Reel
+B: Glen Collection p.50 #3
+Z: 2011 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+V: 1 middle=B clef=treble
+V: 2 middle=d clef=bass
+%%score {1 | 2}
+K: Bm
+%
+V: 1
+|:\
+Bf-f>e dcB^A | Bf-f>e Td2c2 | Bf-f>^g (a/g/f/g/) af | ecAc {f}e2dc :|
+B>F F/F/F dBc^A | B>F F/F/F ~d2cd | B>F F/F/F dBce | (cAA)>e {f}e2dc |
+B>F F/F/F dBc^A | B>F F/F/F ~d2cd | Bf-f>^g (a/g/f/g/) af | ecAc {f}e2dc |]
+%
+V: 2
+|:\
+b2[f'2d'2] f2[d'2b2] | b2[f'2d'2] f2[f'2d'2] |
+b2[d'2b2] [c'2a2][c'2a2] | a2[e'2c'2] e2[e'2c'2] :|
+[d'2b2][d'2b2] [d'2b2][e'2f2] | b2d'2 f2[f'2d'2] |
+b2[d'2b2] [d'2b2]f2 | a2[e'2c'2] e2[c'2a2] |
+[d'2b2][d'2b2] [d'2b2][e'2f2] | b2d'2 f2[f'2d'2] |
+b2[d'2b2] [c'2a2][c'2a2] | a2[e'2c'2] e2[e'2c'2] |]

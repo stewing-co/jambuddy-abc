@@ -1,0 +1,109 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XV. In nets of goulden wyer.
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/4
+K:C
+T:Cantus
+L:1/4
+%1
+z4 z4 z4 G4 F2 E2 G2 D2 E > D E/ F/ G/ E/ ^F G2 ^F G4 z2 c2 \
+w: In nets of gol- den wy - * _ _ _ _ _ _  ers, in
+%2 
+B2 A3 c2 B c A G2 z C E > F G D F2 E2 z G \
+w: nets of gol- den wy -  ers, With Pearle and Reu- bie span- gled, with
+%3 
+   B > c d A c2 B2 z              d d A c2 G2 z           G G      D   F/ E/ F/ G/ A/ B/ c B A2 ^G "A"A2 \
+w:Pearle and Reu- bie span- gled, My heart en- tan- gled, My heart en- tan - * _ _ _ _ _ _ _  gled,
+%4
+z  e2    e   d    A    c2  B2 z d2 d c A c2 G2 z G2 G F D F2 E2 z E > ^F G ^F G2 ^F \
+w: Cries and help re- qui- ers, cries and help re- qui- ers, Cries and help re- qui- ers, Cries and help re- qui -   
+%5
+G2 z G c2 z A d d B2 A2 c2 B B A c B A > G E > ^F G2 ^F "B"G2 
+w:ers Sweet love, from out those bry- ers, But thou vouch- safe to free _ _ _ _ _ _ mee,
+L:1/4
+%6
+    D    E ^F G2 G A B c z \
+w:Ere long a- live, Ere long a- live
+z G2 A    ^F   G2    E 
+w: a- las thou shalt not 
+F E/ D/ E ^F G d2 e ^c d2 B \
+w: see _ _ _ _ mee.  a- las thou shalt not
+%7
+  c B A2  B    G2 A   ^F   G2    E2  F2 E D  C D2 "C"E2 D E ^F G2 G A B c z z G2 A \
+w:see _ _ mee, A- las thou shalt not see _ _ _ _  mee. Ere long a- live, Ere long a- live a- las
+%8
+^F G2 E F E/ D/ E ^F G d2 e ^c d2 B c B A2 B G2 A ^F G2 E2 F2 E D C D2 HE4 |]
+w:thou shalt not see _ _ _ _ mee.  A- las thou shalt not see _ _ mee a- las thou shalt not see _ _ _ _ mee.
+
+
+X:2 
+T:XV. In nets of goulden wyer.
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/4
+K:C
+T:Tenor
+L:1/8
+K:C -8va
+%1
+c8 B4 A4 c4 G2 c3 B c d e c e4 d4 c4 B A B4 c2 c4 B2 \
+w: IN nets of gol- den wy - * _ _ _ _ _ _ _ _ _ ers, gol- den
+%2 
+A2 G2 A4 G4 z2 g4 f4 e4 g4 d2 f2 e2 d4 c4 z2 G2 A3 B c2 c2 \
+w: wy - * ers, In nets of gol- den wy - * ers, With Pearle and Reu- bie 
+%3 
+B4 A4 z2 c2 e3 f g2 d2 f4 e4 z2 g2 g2 d2 f4 c4 z2 c2 c2 G2 _B A B c d c d e f2 e2 d2 c2 \
+w:span- gled, with Pearle and Reu- bie span- gled, My heart en- tan- gled, My heart en- tan - * _ _ _ _ _ _ _ _ _ 
+%4
+B4 "A"A2 A4 A2 G2 E2 F4 E4 z2 G4 G2 F2 D2 F4 C4 z2 c4 c2 B2 G2 d4 A4 z2 A3 B c4 B2 \
+w: _  gled, Cries and help re- qui- ers, cries and help re- qui- ers, Cries and help re- qui- ers, Cries and help re- 
+L:1/8
+K:C -8va
+%5
+A2 G2 A4 G2 G2 c4 z2 A2 d2 d2 B4 G2 g4 f4 e2 d c d e f2 e2 d3 c \
+w:qui - *  ers Sweet love, from out those bry- ers, But thou vouch- safe _ _ _ _ to free _ 
+%6
+ A B c4 B2 A4 "B"G4 z2 G2 A2 B2 c4 z2 G2 A2 B2 c4 c4 d2 B2 \
+w: _ _ _ _ _ mee, Ere long a- live, Ere long a- live a- las thou 
+c3 B A G A B c2 A2 G4 g4 a2 ^f2 \
+w:shalt not see _ _ _ _ _ mee.  a- las thou 
+%w:6
+%7
+  g3    f   e   f g4 ^f2 g4  c4 d2  B2   c3    B   A3 G A B c A B2 c4 B2 "C"c4 z2 G2 A2 B2 c4 z2 G2 A2 B2 \
+w:shalt not see _ _  _  mee. a- las thou shalt not see _ _ _ _ _ _ _ _     mee.  Ere long a- live, Ere long a- 
+%w:7
+%8
+c4 c4 d2 B2 c3 B A G A B c2 A2 G4 g4 a2 ^f2 g3 f e f g4 ^f2 g4 c4 d2 B2 \
+w:live, a- las thou shalt not see _ _ _ _ _  mee, A- las thou shalt not see _ _ _  mee. a- las thou
+%w:8
+%9
+c3 B A3 G A B c A B2 c4 B2 Hc8 |]
+w:shalt not see _ _ _ _ _ _ _ _ mee.
+%w:9
+
+

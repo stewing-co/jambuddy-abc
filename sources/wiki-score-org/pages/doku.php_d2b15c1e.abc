@@ -1,0 +1,33 @@
+X:902
+T:N.12
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 2 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+%----------- edit between the lines ------------
+z/ F/^E/F/ | \
+(F/^E) F//E// | \
+!/!F^E/F/ | \
+F/^E/ !<(! =E !<)! | \
+[DF] [DF] | \
+[CG] F/^E//F// | \
+[DF] ^E | \
+[FC]>z | \
+z// C//A//C// z/ c/ | \
+z// C//B//C// z/ c/ | z//C//A//C// z/ c/ | \
+z/ [^E/B/] z/  [=E/^A/] !<(!  | \
+z/ !<)![D/B] z/ [A/B/] | \
+z/ c/ (.c/.[FA]/) | \
+z/ [DB]/ z/ [C/B/] | \
+z/ [Ac] z/ | \
+Z3 | \
+z !ff! z// E//D//C// | \
+!>!B/!>![D/B/]!>![F/A/]!>!B/ | \
+!>![CA]>z | \
+"_ret.Sempre" !>!E/!>!^D!>!=D/ | \
+!>!C/ !>!E//!>!F// !>!G//!>!F//!>!E//!>!^D// | \
+!>!C/ z/ z ||
+%-----------------------------------------------

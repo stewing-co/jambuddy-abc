@@ -1,0 +1,67 @@
+X:12
+T:Blowzabella Jig (G Major)
+R:Jig
+C:Trad. 18thC (Blowzabella version)
+O:England
+M:6/8
+L:1/8
+K:Gmaj
+%%annotationfont Palatino-Roman 16
+%%indent 120
+"@-170,0 Introduction"\
+B|d2c B>AG|c2A B2G|d2c/B/ AGF | G4zB]
+%%text Tune
+|:"G"d2c B>AG|"C"c2A "G"B2G|"G"d2c B>AG|"D"[FA2][Fd] "G"G3:|
+|:"G"g2d BGB|"C"cAc "G"B>AG|"G"g2d BGB|1"D"[Ac]>[BD][FA]"G"G3 :|2"D"cBA"G"G2A |
+|:"G"BAB "C"cBc|"G"d3 d2c|"G"B>cB "D"A>BA|"G"G3 G2A:|
+|:"G"[B2g2]G [B2g2]G|"D"A>GA "G"B2G|"G"[B2g2]G [B2g2]G|"D"A>BA "G"G2A:|
+|:"G"BAB "C"cBc|"G"d3 d2c|"G"B>cB "D"A>BA|1"G"G3 G2A:|2"G"G3 G2g:|
+|:"G"g=fd "F/Dm"=f2d | "C"cBc "G"dcB | "Em"BAB "G"GAB |"C"cB"D"A "G"B2G :||
+
+X:13
+T:Blowzabella Jig (G Dorian)
+R:Jig
+C:Trad. 18thC (Blowzabella version)
+O:England
+M:6/8
+L:1/8
+K:Gdor
+%%annotationfont Palatino-Roman 16
+%%indent 120
+"@-170,0 Introduction"\
+B|d2c B>AG|c2A B2G|d2c/B/ AGF | G4zB]
+%%text Tune
+|:"Gm"d2c BAG|"F"c2A "Gm"B2G|"Gm"d2c BAG|"Dm"A2[dF] "Gm"G3:|
+|:"Gm"g2d BGB|"F"cAc "Gm"B>AG|"Gm"g2d BGB|1"Dm"cBA"Gm"G3 :|2"Dm"cBA"Gm"G2A |
+|:"Gm"BAB "F"cBc|"Bb"d3 d2c|"Bb"B>cB "F"A>BA|"Gm"G3 G2A:|
+|:"Gm"[B2g2]G [B2g2]G| "F"AGA "Eb"B2G| "Eb"[B2g2]G [B2g2]G| "F"ABA "Gm"G2A:|
+|:"Gm"BAB "F"cBc|"Bb"d3 d2c|"Bb"B>cB "F"A>BA|1"Gm"G3 G2 A:|2"Gm"(G3 G2)g:|
+|:"Gm"gfd "Dm"f2d |"Cm" cBc "Bb"dcB |"Gm" BAB "Eb"GAB |"F"cBA "Gm"B2G :|]
+
+X:135
+%%maxstaffsep 35
+T:Set 29: Blowzabella Jig (G Major - G Dorian)
+R:Jig
+M:6/8
+L:1/8
+K:Gmaj
+%%annotationfont Palatino-Roman 16
+%%indent 120
+"@-170,0 Introduction"\
+B|d2c B>AG|c2A B2G|d2c/B/ AGF | G4zB]
+%%text G Major
+|:"G"d2c B>AG|"C"c2A "G"B2G|"G"d2c B>AG|"D"A2[dF] "G"G3:|
+|:"G"g2d BGB|"C"cAc "G"B>AG|"G"g2d BGB|1"D"c[BD]A"G"G3 :|2"D"cBA"G"G2A |
+|:"G"BAB "C"cBc|"G"d3 d2c|"G"B>cB "D"A>BA|"G"G3 G2A:|
+|:"G"[B2g2]G [B2g2]G|"D"A>GA "G"B2G|"G"[B2g2]G [B2g2]G|"D"A>BA "G"G2A:|
+|:"G"BAB "C"cBc|"G"d3 d2c|"G"B>cB "D"A>BA|1"G"G3 G2A:|2"G"G3 G2g:|
+|:"G"g=fd "F/Dm"=f2d | "C"cBc "G"dcB | "Em"BAB "G"GAB |1,2"C"cB"D"A "G"B2G :||5 "Going on" cBA G_Bc |
+%%
+%%text G Dorian
+K:Gdor
+|:"Gm"d2c BAG|"F"c2A "Gm"B2G|"Gm"d2c BAG|"Dm"A2[dF] "Gm"G3:|
+|:"Gm"g2d BGB|"F"cAc "Gm"B>AG|"Gm"g2d BGB|1"Dm"cBA"Gm"G3 :|2"Dm"cBA"Gm"G2A |
+|:"Gm"BAB "F"cBc|"Bb"d3 d2c|"Bb"B>cB "F"A>BA|"Gm"G3 G2A:|
+|:"Gm"[B2g2]G [B2g2]G| "F"AGA "Eb"B2G| "Eb"[B2g2]G [B2g2]G| "F"ABA "Gm"G2A:|
+|:"Gm"BAB "F"cBc|"Bb"d3 d2c|"Bb"B>cB "F"A>BA|1"Gm"G3 G2 A:|2"Gm"(G3 G2)g:|
+|:"Gm"gfd "Dm"f2d |"Cm" cBc "Bb"dcB |"Gm" BAB "Eb"GAB |1,2 "F"cBA "Gm"B2G :|5 "Going back to GMaj"cBA G=Bc y|]

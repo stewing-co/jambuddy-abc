@@ -1,0 +1,18 @@
+X:101
+T:Moderadamente
+C:Antonio Thomaz de Lima
+M:4/8
+L:1/4
+K:B
+V: 1 clef=treble name="Violino I" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 1 }]
+%----------- edit between the lines ------------
+[Q:"Moderadamente, e com grandiosidade (a 4 tempos)"] !ff! "_marcado" !>!
+[db]>!>!c'|!>!d'/!>![db]/"mais lento"[ec']/[ca]/ || \
+[db]/a//b// c'//b//a/ || \
+[db]/ z/z|[ec']>d'| e'/d'//c'// b/c'/ || \
+"mais lento"f'/d'//b//[ec'] || \
+"no mov.inicial"[db]/ z/z | B,>C|D/B,/ C/A,/|| B,/A,//B,// C//B,//A,/||B,/ z/ z// "_pizz." e// d/ |\
+C>D|E/D//C// B,/C/|| "mais lento" F/D//B,// C||
+%-----------------------------------------------

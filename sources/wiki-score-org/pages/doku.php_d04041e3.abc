@@ -1,0 +1,20 @@
+X:703
+T:Velum templi
+C:Frei Manuel Cardoso
+M:C|
+L:1/4
+K:F
+V: 3 clef=tenor name="Tenor" sname="T."
+%%MIDI program 1 1
+%%staves [ 3 ]
+C3 D | D4 | C C2 D | D2 z C | B, A, B,2 | A,2 d,3/2 d,/ | \
+w: Ve- lum | tem- | pli scis- sum | est et | om- nis ter- | ra tre- mu- |
+%
+C2 z C | C D C2 | C C B,/B,/ D- | D ^C/=B,/ ^C2 | \
+w: it la- | tro de cru- | ce cla-ma-bat di-|---cens
+%
+!segno!z F F2 | E D2 D | D3 D | D D D2- | D C A, D | C C C2- | C =B,/A,/ =B,2 | !fine!C4 || \
+w: Me-men- | to me-i Do-mi- | ne dum ve- | - ne-ris in | re-gnum tu- | - | um
+%
+F,/ F,/ G,/B,/ A,/ B,/G,/ F, z2 C-D/ C/ C/ B,/C/ A,/ B,/ G,/ B, G,/ F,/ G,/ !segno!F, || \
+w: A-men di-- co ti-- bi ho--di-e me--cum e-ris in pa-ra-di-so

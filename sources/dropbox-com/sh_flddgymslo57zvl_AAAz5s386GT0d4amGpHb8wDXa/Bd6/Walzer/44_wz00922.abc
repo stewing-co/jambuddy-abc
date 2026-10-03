@@ -1,0 +1,112 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walzer  E
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.270 (wz00922) orig. E-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:E %%MIDI gchordon
+B, |: "E"B,zG | GzF | (E3 | E)zB, | B,zE | FzE | ("B7"D3 | D)zB, | B,zA | AzG | (F3 | 
+F)zz | B,DF | czB |1 ("E"E3 | E)zB, :|2 "E"E>EE | Ezz || "E"GzG | GzG/G/ | "B7"AzD | D3 | AzD | 
+DzC/D/ | "E"EzF | G3 | GzG | GzG/G/ | "B7"AzD | D3 | AzC | DzC/D/ | "E"E>EE | Ezz |]  
+W:
+W: Swiss notation has "H7" for "B7" (and "B" for "Bb")
+X:2
+T:Walzer  F 1+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+C |: "F"CzA | AzG | (F3 | F)zC | CzF | GzF | ("C7"E3 | E)zC | CzB | BzA | (G3 | 
+G)zz | CEG | dzc |1 ("F"F3 | F)zC :|2 "F"F>FF | Fzz || "F"AzA | AzA/2A/2 | "C7"BzE | E3 | BzE | 
+EzD/2E/2 | "F"FzG | A3 | AzA | AzA/2A/2 | "C7"BzE | E3 | BzD | EzD/2E/2 | "F"F>FF | Fzz |] 
+% wz00922
+X:3
+T:Walzer  G 3+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+D |: "G"DzB | BzA | (G3 | G)zD | DzG | AzG | ("D7"F3 | F)zD | Dzc | czB | (A3 | 
+A)zz | DFA | ezd |1 ("G"G3 | G)zD :|2 "G"G>GG | Gzz || "G"BzB | BzB/2B/2 | "D7"czF | F3 | czF | 
+FzE/2F/2 | "G"GzA | B3 | BzB | BzB/2B/2 | "D7"czF | F3 | czE | FzE/2F/2 | "G"G>GG | Gzz |] 
+% wz00922
+X:4
+T:Walzer  C 8+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G |: "C"Gze | ezd | (c3 | c)zG | Gzc | dzc | ("G7"B3 | B)zG | Gzf | fze | (d3 | 
+d)zz | GBd | azg |1 ("C"c3 | c)zG :|2 "C"c>cc | czz || "C"eze | eze/2e/2 | "G7"fzB | B3 | fzB | 
+BzA/2B/2 | "C"czd | e3 | eze | eze/2e/2 | "G7"fzB | B3 | fzA | BzA/2B/2 | "C"c>cc | czz |] 
+% wz00922
+X:5
+T:Walzer  F (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+C |: "F"CzA | AzG | (F3 | F)zC | CzF | GzF | ("C7"E3 | E)zC | CzB | BzA | (G3 | 
+G)zz | CEG | dzc |1 ("F"F3 | F)zC :|2 "F"F>FF | Fzz || "F"AzA | AzA/2A/2 | "C7"BzE | E3 | BzE | 
+EzD/2E/2 | "F"FzG | A3 | AzA | AzA/2A/2 | "C7"BzE | E3 | BzD | EzD/2E/2 | "F"F>FF | Fzz |] 
+% wz00922
+X:6
+T:Walzer  G (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+D |: "G"DzB | BzA | (G3 | G)zD | DzG | AzG | ("D7"F3 | F)zD | Dzc | czB | (A3 | 
+A)zz | DFA | ezd |1 ("G"G3 | G)zD :|2 "G"G>GG | Gzz || "G"BzB | BzB/2B/2 | "D7"czF | F3 | czF | 
+FzE/2F/2 | "G"GzA | B3 | BzB | BzB/2B/2 | "D7"czF | F3 | czE | FzE/2F/2 | "G"G>GG | Gzz |] 
+% wz00922
+X:7
+T:Walzer  C (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+G |: "C"Gze | ezd | (c3 | c)zG | Gzc | dzc | ("G7"B3 | B)zG | Gzf | fze | (d3 | 
+d)zz | GBd | azg |1 ("C"c3 | c)zG :|2 "C"c>cc | czz || "C"eze | eze/2e/2 | "G7"fzB | B3 | fzB | 
+BzA/2B/2 | "C"czd | e3 | eze | eze/2e/2 | "G7"fzB | B3 | fzA | BzA/2B/2 | "C"c>cc | czz |] 
+% wz00922
+X:8
+T:Walzer D (tinwhistle in D)
+T:wz00922 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+A |: "D"Azf | fze | (d3 | d)zA | Azd | ezd | ("A7"c3 | c)zA | Azg | gzf | (e3 | 
+e)zz | Ace | bza |1 ("D"d3 | d)zA :|2 "D"d>dd | dzz || "D"fzf | fzf/2f/2 | "A7"gzc | c3 | gzc | 
+czB/2c/2 | "D"dze | f3 | fzf | fzf/2f/2 | "A7"gzc | c3 | gzB | czB/2c/2 | "D"d>dd | dzz |] 
+X:9
+T:Walzer D (tinwhistle in D) solo
+T:wz00922 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+A |: "D"Azf | fze | (d3 | d)zA | Azd | ezd | ("A7"c3 | c)zA | Azg | gzf | (e3 | 
+e)zz | Ace | bza |1 ("D"d3 | d)zA :|2 "D"d>dd | dzz || "D"fzf | fzf/2f/2 | "A7"gzc | c3 | gzc | 
+czB/2c/2 | "D"dze | f3 | fzf | fzf/2f/2 | "A7"gzc | c3 | gzB | czB/2c/2 | "D"d>dd | dzz |] 
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 3, 2016
+

@@ -1,0 +1,61 @@
+X:105
+T:Overture
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 5 clef=treble name="Violino Primo" sname="Vl.I"
+%%MIDI program 1 40
+%%staves [{ 5 }]
+%-------------------------
+[Q: "Allegro con spirito"] D z/z/8(A,/8B,/8C/8) D z/z/8(A,/8B,/8C/8) & D x D x | \
+!wedge!D/!wedge!F/!wedge!A/!wedge!F/ !wedge!G/!wedge!E/!wedge!B,/!wedge!C/ |\
+D z/z/8(A,/8B,/8C/8) D z/z/8(A,/8B,/8C/8) & D x D x | \
+!wedge!D/!wedge!F/!wedge!A/!wedge!F/ !wedge!G/!wedge!E/!wedge!B,/!wedge!C/ |\
+!wedge!D/!wedge!F/!wedge!A/!wedge!F/ !wedge!G/!wedge!E/!wedge!B,/!wedge!C/ |\
+!wedge!D/!wedge!f/!wedge!a/!wedge!f/ !wedge!g/!wedge!e/!wedge!B/!wedge!c/ |\
+(d//c//d//e//) [Dd] (e//d//e//f//) [Ae] | f/a/d'/a/ {a}g f/e/ | \
+(d//c//d//e//) [Dd] (e//d//e//f//) [Ae] | f/a/d'/a/ {a}g f/e/ | \
+(f//e//d//e//) [Dd] z/D/A/=c/ | {c}B//A//B//=c// B/>d/ g/>f/ (g//f//)(g//f//) | \
+(g//f//)(g//f//) (g//f//)(g//f//) g//f//e//d// c//B//A//G// | (A//^G//A//B//) A/>d/ f/>e/ (f//e//)(f//e//) |\
+(f//e//)(f//e//) (f//e//)(f//e//) f//e//d//c// B//A//G//F// | {A}G//F//G//A// G/>c/ e/>^d/ (e//d//)(e//d//) | \
+(e//^d//)(e//d//) (e//d//)(e//d//) e//=d//c//B// A//G//F//E// | \
+!p!F//F//F//F// D//D//D//D// C//C//C//C// E//E//E//E// | D//D//D//D// F//F//F//F// E//E//E//E// G//G//G//G// | \
+F//F//F//F// !f! A//A//A//A// B//B//B//B// c//c//c//c// | d//d//d//d// c//c//c//c// B//B//B//B// A//A//A//A// | \
+^G//A//B//G// G z !wedge!e | !wedge!^g !wedge!e !wedge!b !wedge!d | (c//d//e//d//) c z c | B/A/ A/>A/ !trill!A2 | \
+^G//A//B//G// G z !wedge!e | !wedge!^g !wedge!e !wedge!b !wedge!d | (c//d//e//d//) c z c | B/A/ A/>A/ !trill!A2 | \
+^G//F//E//F// E//F//^G//A// B//A//^G//A// G//A//B//c// | d//c//B//c// B//c//d//e// f//e//d//c// d//e//f//^g// | \
+!wedge!a!wedge!c'!wedge!a!wedge!e | !wedge!f!wedge!a!wedge!f!wedge!B | \
+(c/e/) !wedge!e z/(e/f/e/) | (^d/e/f/e/) (d/e/f/e/) | (c/d/) d z/(d/e/d/) | (c/d/e/d/) (c/d/e/d/) | \
+c//A//B//c// d//e//f//^g// a//g//f//e// d//c//B//A// | f//^g//a//g// f//e//d//c// B//c//d//c// B//A//^G//F// | \
+E/e/ d//c//B//A// E/d/ c//B//A//^G// | [A,Eca][A,Eca][A,Eca]z | Z1 | \
+!p!z2E2- | E D/C/ DD | !f!A/E/A/E/ A/c/B/^G/ | Azz2 | \
+!p!z2E2- | E D/C/ DD | !f!A/E/A/E/ A/=G/F/E/ | Dzz2 | z2A2- | AG/F/GG | \
+!wedge!D/!wedge!A,/!wedge!D/!wedge!A,/ !wedge!D/!wedge!F/!wedge!E/!wedge!C/ | Dzz2 | z2A2- | AAGF | \
+E/(a/b/f/) !wedge!g/(g/a/e/) | !wedge!f/(f/g/a/) !wedge!g/!wedge!f/!wedge!e/!wedge!d/ | \
+A/(a/b/f/) !wedge!g/(g/a/e/) | !wedge!f/(f/g/a/) !wedge!g/!wedge!f/!wedge!e/!wedge!d/ | \
+!wedge!e/!wedge!a/!wedge!b/!wedge!f/ !wedge!g/!wedge!(g/a/e/) | \
+!wedge!f/(a/g/f/) !wedge!g/!wedge!e/!wedge!d/!wedge!c/ | \
+D z/z/8(A,/8B,/8C/8) D z/z/8(A,/8B,/8C/8) |
+!wedge!D/!wedge!F/!wedge!A/!wedge!F/ !wedge!G/!wedge!E/!wedge!B,/!wedge!C/ |\
+D z/z/8(A,/8B,/8C/8) D z/z/8(A,/8B,/8C/8) | D/F/A/G/ F/E/^D/=C/ | \
+B, f//f//f//f// !//!g !//!a | g//g//b//b// e//e//g//g// f//f//=c'//c'// b//b//a//a// | \
+g//g//b//b// e//e//g//g// f//f//=c'//c'// b//b//a//a// | g//g//^f//f// e//e//^d//d// e//e//=d//d// c//c//B//B// | \
+A e//e//e//e// f//f//f//f// g//g//g//g// | f//f//a//a// d//d//f//f// e//e//b//b// a//a//g//g// | \
+f//f//a//a// d//d//f//f// e//e//b//b// a//a//g//g// | \
+f//d//e//f// g//a//b//c'// d'//c'//b//a// g//f//e//d// | \
+F//a//(c'//a//) (c'//a//)(c'//a//) (d'//c'//)(d'//a//) g//f//e//d// | \
+F//a//(c'//a//) (c'//a//)(c'//a//) (d'//c'//)(d'//a//) g//f//e//d// | \
+A//A//A//A// A//A//A//A// !p!A//A//A//A// A//A//A//A// | \
+B//B//B//B// B//B//B//B// c//c//c//c// c//c//c//c// | d//d//d//d// e//e//e//e// f//f//f//f// g//g//g//g// | \
+a//a//a//a// b//b//b//b// c'//c'//c'//c'// d'//d'//d'//d'// | (d'/b/) b z/ d'//c'// d'/d'/ | \
+(d'/a/) a z/d'//c'// d'/d'/ | e/g/f/a/ {a}g f/e/ & A4 | \
+d'/a/ a z/d'//c'// d'/d'/ | e/g/f/a/ {a}g f/e/ & A4 | f/>a/ d'//a//f//d// b//c'//d'//c'// d'//b//a//g// & [AD] x3 |\
+f/a/ g//f//e//d// e/g/ f//e//d//c// | d d-d/e//f// g/g/ | (g/f/) d-d/d//f// a/=c'/ | \
+b/>^a/ (b//a//b//a//) b/>^a/ (b//a//b//a//) | \
+b//c'//(d'//c'//) (d'//c'//)(d'//c'//) (d'//c'//)(d'//c'//) d'//b//a//g// | \
+f//f//f//f// f//f//f//f// e//e//e//e// e//e//e//e// & A//A//A//A// A//A//A//A// A//A//A//A// A//A//A//A// | \
+dzz2 | z4 | _B/BBBB/ | _B/BB/ A/AA/ | A/AAAA/ | A/AA/ G/GG/ | ^G/GGGG/ | \
+!wedge!Az!wedge!az | !wedge!gz!wedge!=fz | !wedge!ez!wedge!=fz | !wedge!cz!wedge!dz | \
+!p!E3=F | E3=F | !fermata!E4 |] "^NB: extra bar; manuscripted" X {d4 [DAf]2>a2 [DAf]4z4}z || \
+%----------------------

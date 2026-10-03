@@ -1,0 +1,20 @@
+X:1510
+T:Eumene
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:D
+V: 10 clef=treble name="Oboe II" sname="Ob.II"
+%%MIDI program 1 68
+%%staves [( 10 )]
+%-------------------------------
+[Q:"Allegro"] z |  d4 | c4 | d/d/d/f/ d z | z/f/f/f/ fz | z/f/f/f/ fz | B3 c/d/ | d/c/ B/>A/ (f/e/d/c/) | \
+d f2 f | e4 | f4 | e4 | d2 =c2 | B2 z2 |d2c2 | dAFz | d4 | c4 | !/!d2 dz | z/f/f/f/ f z |z/f/f/f/ f z | \
+z2A2 | Bzz2 | z4 | d4 | c4 | FAFz | Z5|e2=d2 | c ^gab |{b}a ^g z2 | z4 | z2e =d | c ^g a b | {b}a ^g z2 | z4 | e2 =d2 | \
+c2 ^d2 | e ^g ez | z4 | d4 | Azz2 |A2B2 |czz2 | zz/A/Az/d/ | c2B2 | zz/A/Az/d/ | c2B2 | A2A2 |A4 | c4 | B4 | c4 | d4 | c4 | \
+d4 | c2 B2 | c3 B | ccc!fermata!z || \
+[M:3/4]!/!c/ | c3/2 B/A/B/ | c2z |B (c/d/e/d/) |  dcz | Fz/d/c/B/ | AAz | Z7 || \
+[M:C]A4 | A2c2 | d3 z | c3z |  z/d/d/d/ dz |z/ f/f/f/ fz | z/ f/f/f/ fz |z2A2 | Bzz2 | z4 | A4- | \
+A4 | =G2 d2 |=c4 | B4 | B2 d2 | c2 =g2 | fcde | dccz | z4 | c2g2 | fcde | {e}dccz | z4 | c4 | d4 | c4 | cecz | z4 | c4 |\
+=czz2 | B4 | A3/2 f/ (f/e/d/c/) | c z/d/ d z/d/ |f3/2d/ e3/2c/ | d4 | d4 | d4 | c4 | d4 | c4 | d4 | c4 | d4- | d d2 c | dAAz |]
+%-------------------------------

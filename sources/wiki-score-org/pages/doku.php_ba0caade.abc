@@ -1,0 +1,23 @@
+X:411
+T:Sanctus
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 11 clef=treble name="Corno in F/Eb (Fa/Eb) II" sname="Cor.II"
+%%MIDI program 1 69
+%%staves [( 11 )]
+%-----------------
+%  fol.164
+[Q:"Allegro Maestoso"] "^Corni in Eb" [K:C][K:bass] !ff! C,2-C,/C,/C,/C,/ | C,2-C,/C,/C,/C,/ | \
+!f!G,zG,z | C,C,C,z | Z2 | !f! G,2-G,/G,/G, | G,2-G,/G,/G, | G,2-G,/G,/G, | G,,2-G,,/G,,/G,, | \
+!f! B,,2B,,B,, | E,2-E,/E,/!/!E, | !f! B,,2B,,B,, | E,B,,B,,z | Z2 | !f! B,,B,,E,E, | Z | !p! !fermata! E,,4 || \
+[Q:"Allegro Moderato"][M:6/8][L:1/8][K:] z | Z4 | !p! B,,6 | G,,2zz2z | Z | \
+!f! E,,E,,E,, E,,E,,E,, | E,,E,,E,, E,,E,,E,, | E,,E,,E,, E,,2z | Z2 | !f! E,,E,,E,, E,,E,,E,, | \
+!f! E,,E,,E,, E,,E,,E,, | E,,E,,E,, E,,2z | Z3 | !p! B,,6 | G,,2zz2z | Z3 | !f! C,2C,C,2C, | G,,2zG,,2z | C,2zz2z | Z | \
+!p! C,2C, C,C,C, | C,6- | C,2C, C,C,C, | C,6- | C,2zz2z | !p! G,,6 | !p! C,6- | C,6- | !fermata! "_[ sic ]" C,4 || \
+[Q:"Largetto"][M:6/8][L:1/8][K:] "^Benedictus" Z9 | z2z !fermata!z2 || \
+[Q:"Allegro Moderato"][K:treble][M:6/8][L:1/8][K:] "^Corni in F" z | !f! C2C CCC | C2zz2z | \
+!f! C2C !/!C2C | C2G,C2z | z2 !f!CC2C | C2zz2z | z2!f!CC2C | C2G,C2z | Z | z2z !f!G,G,G, | C2zz2z | \
+z2z !p!C3- | C3G,3 | C2zz2z | z2z z2!f!G, | C2z z2!f!G, | C2zz2z | !p! C6- | C6 | C2zz2!fermata!z |] \
+%-----------------

@@ -1,0 +1,672 @@
+%abc-2.2
+% Léon  Manière - Près de l'autel - 30 pièces pour orgue ou harmonium
+C:Léon Manière (1885 - 1954)
+%%MIDI program 72	% Piccolo
+%%pagescale 1.2
+
+X:1
+T:Trois entrées - I
+M:6/4
+L:1/4
+Q:"Poco lento"
+%%staves {(1 2)(3 4)}
+K:A
+%%writefields Q 0
+Q:3/4=72
+%%incipit %F-4$xFCG@6/4 '4C,G'EC,G'8{CF}/2E4C,2.A/%G-2'4AB''CDC'B+/BAG2.(A)/
+V:1
+X2|[EA][FB][Gc][Ad][Gc][FB-]|BAGH[CA]3|
+V:2
+X3|D2Ex3|
+V:3 shift=cC
+AEcAEc/f/|e2c!tie(!A3-|cdeA3|GABx3|
+V:4 shift=cC
+A,E,CA,E,C/F/|E2CA,3|!tie)!A2GFED|E3-[A,E]3|
+V:1
+X2|[Gc][A^d][Be][cf][Be][Ad-]|dc[G^B]H[Ec]3|z3=g2f/e/|
+V:2
+X2|EFGx3|F2xx3|z3c=dc|
+V:3
+[I:staff -1]cGecGc/e/|g/a/gec3-|c2Bc3|^Bc^dx3|X|
+V:4
+CG,ECG,C/E/|G/A/GEC3|x3AGF|G3-[CG]3|cec^A3|
+V:1
+[Fd]zz=f2e/d/|[E^c]zz[A-c]3|[Ad]zz[F-A]3|[FB]zzdcB-|
+V:2
+x3B=cB|X2|x3F3|
+V:3
+X4|
+V:4
+BdB^G3|AcA-AGF-|FAF-FED-|DFDB,CD|
+V:1
+BAEFG>A|AEcAEc/f/|e2[Gc]A2B/c/|dBGE2F/G/|
+V:2
+x3D2E|X|GFxx3|zzB,-B,CD|
+V:3
+c3-cB2|[I:staff +1]x3^Bc-c/z/|[I:staff -1]d2e[ce]3|\
+	[I:staff +1]zzE/F/GAB|
+V:4
+E6|[Ac]2-[Ac]/z/A2-A/z/|x3xAE|zzE-E3|
+%2
+V:1
+ABcB/G/E/G/B/e/|fecA/c/F/A/c/f/|eB2-Bcf|eBc/f/e3|
+V:2
+x3zE2|A3x3|x3A3|G2AGE/F/=G/^G/|
+V:3
+[I:staff -1]c2zd3|c/^B/c/e/A/c/e3|g2e[I:staff +1]^d3|B2AB2^B|
+V:4
+A2zx3|x3F2A|B6|E6|
+V:1
+AEcAEc/f/|e2[Gc]A2B/c/|dBGE2F/G/|ABcB/G/E/G/B/e/|
+V:2
+X|GFEE3|zzB,-B,CD|C2zzE2|
+V:3
+x3^Bc-c/z/|[I:staff -1]d2xc3|[I:staff +1]zzE/F/GAB|x3d3|
+V:4
+[Ac]2-[Ac]/z/A2-A/z/|x3xA/F/E|zzE-E3|A2zx3|
+V:1
+fec^A/c/F/A/c/f/|=gfdB/d/=G/B/d/g/|a=gefec-|cdB-BAG|
+V:2
+A3E3|B3x3|[D=GB]3[EAc]3|F3D2E|
+V:3
+[I:staff -1]c/^B/c/e/A/c/zf2|d/c/d/f/B/d/=gfe|X|[I:staff +1]A3GAB|
+V:4
+X3|E6|
+V:1
+A3E/^E/F/=G/^G/A/|A3E/^E/F/=G/^G/A/|A2zx3|X|
+V:2
+C3D3|C3D3|C2zA,B,C|DCB,-B,A,G,|
+V:3
+X2|x3^F3|=F3E3|
+V:4
+AEcB3|AEcB3|A/^G/=G/F/=F/E/^D3|=D3-DCB,|
+V:1
+Q:"Un peu plus lent"
+C/D/^D/E/=F/^F/ =G/F/=F/E/D/=D/|\
+	C/^B,/C/D/^D/E/ =F/=G/_A/G/^F/=F/|E/^D/E/F/G/A/ G/=G/F2|HE6|]
+V:2
+A,6-|A,3=C3|^C3-C3/B,/A,/B,/|C6|]
+V:3
+X3|E6|]
+V:4
+A,E,CA,E,C/F/|E2CA,3-|A,CFE2C|A,6|]
+
+X:3
+T:Trois entrées - II
+M:C
+L:1/4
+Q:"Modéré"
+%%incipit %G-2$bB@c ''2D'A/''4DC'2A/''D'A/''4C'nB2G/
+%%staves {(1 2)(3 4)}
+K:Dm
+%%writefields Q 0
+Q:1/4=72
+V:1
+Z2|d2A2|[Fd][Gc][CFA]2|d2A2|
+V:2
+Z2F4|X|F4|
+V:3 shift=cC
+X2|A4|X|A4|
+V:4 shift=cC
+DEFE|DEFE|DEFE|[DA][EG]FE|DEFD|
+V:1
+[Ec][D=B][EG]2|A2c2|A2c2|AA/G/FG|[^CEA]2-[CEA]/ a/=b/^c'/|
+V:2
+X|DEFE|DEFE|_E3[B,D]|X|
+V:3
+X5|
+V:4
+A=BcC|FGAG|FGAG|FGAB,|A,=B,^CA,|
+V:1
+d'2a2|d'c'a2|d'2a2|c'=bg2|
+V:2
+f2-f/z/z|f/d/ g/c/ f/A/ c/A/|\
+	f2-f/z/z|e/c/ f/d/ e/G/ e/c/|
+V:3
+A2-A/z/z|X|A2-A/z/z|X|
+V:4
+D/^C/D/E/ F/G/A/d/|D/z/ E/z/ F/z/ E/z/|\
+	D/^C/D/E/ F/G/A/d/|A/z/ =B/z/ c/z/ C/z/|
+V:1
+a2c'2|a2c'2|aa/g/fg|[c_efa]2-[cefa]/z/z|
+V:2
+d2f/c/ e/c/|d2f/c/ e/c/|_e3d|X|
+V:3
+X4|
+V:4
+F/E/F/G/ A/z/ G/z/|F/E/F/G/ A/z/ G/z/|\
+	F/C/F/G/ A/F/B/B,/|F/G/A/B/ [I:staff -1]c/d/_e/f/[I:staff +1]|
+V:1
+B2F2|BAF2|B2F2|[CF_A][=B,=DG][G,C=E]2|[_DF]2[_A,=E_A]2|[_DF]2[_A,=E_A]2|
+V:2
+D4|D_E3|_D4|X3|
+V:3
+F4|F4|F4|X3|
+V:4
+B,CDC|B,CDC|B,C_DB,|F,G,CB,|_A,B,CB,|_A,B,CA,|
+%4
+V:1
+FF/_E/_D[_G,B,E]|[=A,CF]2-[A,CF]/ f/g/a/|b2f2|baf2|b2f2|
+V:2
+_C3x|X|d2-d/z/z|d/B/ _e/c/ e/A/ e/F/|_d2-d/z/z|
+V:3
+X2|F2-F/z/z|X|F2-F/z/z|
+V:4
+[_D,_D][_E,_E][F,F]_G,|F,=G,=A,F,|B,/A,/B,/C/ D/_E/F/B/|\
+	B,/z/ C/z/ D/z/ C/z/|B,/A,/B,/C/ _D/_E/F/B/|
+V:1
+_ag=e2|f2[_A_a]2|f2[_A_a]2|ff/e/_d=c|
+V:2
+c/_A/ =B/G/ c/G/ c/=E/|_d2=e/c/e/c/|_d2=e/c/e/c/|_c2_A2|
+V:3
+X4|
+V:4
+F,/z/ G,/z/ C/z/ B,/z/|_A,/G,/A,/B,/ C/z/ B,/z/|\
+	_A,/G,/A,/B,/ C/z/ A,/z/|_D/A,/D/_E/ F/=E/F/F,/|
+V:1
+=B2G2|c=BG2|A2F2|BAF2|
+V:2
+F4|E/G/ D/G/ C/D/E/C/|_E4|D/F/ C/F/ B,/C/D/B,/|
+V:3
+X4|
+V:4
+G,/=D,/G,/A,/ =B,/D/G/B,/|C/z/ D/z/ E/z/ C/z/|\
+	F,/C,/F,/G,/ A,/C/F/A,/|B,/z/ C/z/ D/z/ B,/z/|
+V:1
+G2E2|AGE2|AGE2-|[!tie)!^CE]zz2|
+V:2
+^C3D|^C3D|!tie(!^C4-|X|
+V:3
+X4|
+V:4
+A,/E,/A,/=B,/ ^C/E/B,/E/|A,/E,/A,/=B,/ ^C/E/B,/E/|\
+	A,/E,/A,/=B,/ ^C/D/E/=F/|G/A/_B/A/ G/E/^C/A,/|
+V:1
+d2A2|[Fd][Gc][CFA]2|d2A2|[Ed][D=B][EG]2|\
+	A2c2|A2c2|AG/F/F[^CE]|
+V:2
+F4|X|F4|X|DEFE|DEFE|[A,_E]2[=B,D]x|
+V:3
+A4|X|A4|X4|
+V:4
+DEFE|[DA][EG]FE|DEFD|A=BcC|FGAG|FGAG|FF,G,[A,G]|
+V:1
+D4-|Dzz2|D4-|Dzz2|D2-D/z/z|D2-D/z/z|HD4|]
+V:2
+[I:staff +1]^F,4-|F,zz2|=F,4-|F,zz2|F,2F,/z/z|F,2F,/z/z|F,4|]
+V:3
+X4|A4-|A4-|A4|]
+V:4
+D,E,^F,E,|D,E,^F,E,|D,E,=F,E,|D,E,F,E,|D,2-D,/z/z|D,2-D,/z/z|D,4|]
+
+X:5
+T:Trois entrées - III
+M:3/4
+L:1/4
+Q:"Andante poco maestroso"
+%%incipit %G-2@3/4 ''{8.C6'B}''2C/{8.D6xC}4D'G/''{8.E6D}4CD/2C/
+%%staves {(1 2)(3 4)}
+K:C
+%%writefields Q 0
+Q:1/4=72
+V:1
+c/>B/c2|d/>^c/dG|e/>d/cd|c3|c/>B/c2|d/>^c/d^G|
+V:2
+.Ez.G|.Fz.D|.B.E.F|.E.[EG].[EG]|.Ez.E|.Ez.E|
+V:3 shift=cC
+X6|
+V:4 shift=cC
+[CG]z.[Ec]|.[GB]z.[FB]|.[E^G].A.[=GB]|\
+	.[CG].c.B|.Az.[Ac]|.[E^G]z.[DB]|
+V:1
+e/>c/AB/>c/|A3|B/>^A/Bc|B/>^G/E2|A/>^G/AB|A/>^F/D2|
+V:2
+.E.C.D|.C.D.E|.Fz.^F|.B,z.B,|.Ez.E|.A,z.A,|
+V:3
+X|A3|X4|
+V:4
+.[CA].[FA].[E^G]|A,B,C|.[DA]z.[^DA]|.[E^G]z.[=DG]|.[CA]z.[^CG]|.[D^F]z.[=CF]|
+V:1
+=F/>E/FE/G/|F/>E/F>E|D/C/B,/A,/B,/D/|C/B,/A,/G,/A,/C/|\
+	[I:pos stem up]B,/^A,/B,/[I:staff +1]=A,/G,/^F,/|D,xx[I:pos stem auto]|
+V:2
+.Dz.C|.Dz.C|X4|
+V:3
+X2|.Fz.F|.Fz.F|.Fzz|[I:pos stem up]G/^F/G/ [I:pos stem auto]=F/E/D/|
+V:4
+.[B,G]z.[CG]|.[B,G]z.[CG]|.[G,B,]z.[G,D]|\
+	.[G,A,]z.[G,C]|.[G,D]zz|[G,B,]zz|
+V:1
+[I:staff -1]c/>B/c2|d/>^c/dG|e/>d/[Ec][FBd]|[Ec]3|c/>B/c2|d/>^c/d^G|
+V:2
+E3|F3Bxx|X|E3B2E|
+V:3
+X6|
+V:4
+C/E/G/E/D/C/|B,/D/G/D/B,/G,/|^G,/E,/A,/A/=G/=G,/|\
+	C/D/E/D/C/B,/|A,/C/E/C/B,/A,/|^G,/B,/E/F/E/D/|
+V:1
+e/>c/AB/>c/|A3|B/>^A/Bc|B/>^G/E2|A/>^G/AB|A/>^F/D2|
+V:2
+EF[D^G]|C3/C/D/E/|F3/E/F/^F/|^G/B,/E/D/C/B,/|\
+	E>=FE|^F/A,/D/C/B,/A,/|
+V:3
+X6|
+V:4
+C/A,/F,/F/E/E,/|A,/E/A/A,/B,/C/|D/^C/D>^D|E3/B,/E/D/|C/B,/C>^C|D3/A,/D/C/|
+V:1
+=F/>E/FE/G/|F/>E/F>E|D/E/F/G/A/B/|c/>B/cG|C/>B,/C2-|HC3|]
+V:2
+X6|]
+V:3
+G3-|G3|A2G-|G3|A3|[EG]3|]
+V:4
+B,/^A,/B,/G,/C|B,/^A,/B,/G,/C|F,3|E,3|C2D&F,3|C,3|]
+
+X:11
+T:Trois offertoires - III
+M:2/4
+L:1/8
+Q:Andante
+%%incipit %G-2$bBEAD@2/4 ''4CF//:GA/4({8B'''C''A};3)8{GF}/2E/
+%%staves {(1 *2) 3}
+K:Fm
+%%writefields Q 0
+Q:1/4=72
+V:1
+c2f2|:g2a2|(3bc'a gf|[ce]4|(3fge dc|
+V:2
+ABcA|:B2ec|(3:2:2d2c BA&[I:pos stem up]d4|G4|A4|
+V:3 shift=cC
+FGAF|:EDCA,|F,2B,2|(3CDE CB,|C3D|
+V:1
+B2F2|(3BcB AB|A2G2|c2f2|g2a2|(3bc'a gf|
+V:2
+G2C2|F4-|(3F=E=DE2|F2cA|B2ec|(3:2:2d2cBA&d2=d2|
+V:3
+EFGA|D3G,|C2cB|AGAF|ED CA,|F,2B,2|
+V:1
+e4|(3fge =dc|B2G2-|(3GAB c>=B|[Gc]4|!tie(!c2-f2:|
+V:2
+G2-(3GFG|A4|GFE_D|C2[=D2A]|=E4|F2!tie)!cA:|
+V:3
+E,B,ED|C3=D|E3=E|F2F,2|CGcB|AGAF:|
+V:1
+|:g2a2-|(3aba gf|g4|!tie(!c2f2|g2a2-|(3aba gf|
+V:2
+|:B2ec|B2d2|B4|F2!tie)!cA|B2ec|f2ed|
+V:3
+|:EDCA,|D2B,2|EF (3GFE|AGAF|EDCA,|D4|
+V:1
+[ec']4|!tie(!f2b2|c'2d'2-|(3d'e'd' c'b|c'4-|(3c'd'c' ba|
+V:2
+X|B2!tie)!fd|e2af|_g4-|g4|f4-|
+V:3
+AB (3cBA|dcdB|A_GFD|E4|AB (3cBA|d4|
+%12
+V:1
+b4-|(3bc'b ag|fga2-|a2gf|=e cdc|=dcec|
+V:2
+f4|=e4|c4|dcBA|Gz=E2|F2_G2|
+V:3
+=FA (3BAG|c2B2|AGFf|B3=B|c4-|c3C|
+V:1
+zc_dc|=dc=ec|c2f2|g2a2|(3bc'a gf|[ce]4|(3fge dc|
+V:2
+x2=E2|F2=G2|AB (3cBA|B2(3edc|(3:2:2d2c BA&d4|G4|A4|
+V:3
+c4-|c3C|FG (3AGF|ED (3CB,A,|F,2B,2|(3CDE CB,|C3D|
+V:1
+B2F2|(3BcB FB|A2G2|c2f2|g2a2|(3bc'a gf|[ce-]4|
+V:2
+G2C2|F4-|(3F=E=DE2|F2(3cBA|B2(3edc|(3:2:2d2cB2-&d4|B2A2-|
+V:3
+EFGA|D3G,|C2cB|AG (3AGF|ED (3CB,A,|F,3G,|A,G, (3F,G,A,|
+V:1
+(3efd cB|[FA]2[A,F-]2|(3FGA =E>F|1[A,CF]4|!tie(!c2f2:|2[A,CF]4|z2C2|
+V:2
+A2_G2|X|B,2[B,C]2|1X|F2!tie)!cA:|2X2|
+V:3
+B,3C|DC (3DEF|D2C2|1F,CFG|AGAF:|2F,CFG|(3ABG AC|
+V:1
+[FAc]4-|[FAc]2F2|[Acf]4-|[Acf]4-|[Acf]2z2|z4|z4|]
+V:2
+X7|]
+V:3
+zCFG|(3ABG AC|zCFG|(3ABG AC|(3FG=E FA,|(3CD=B, CA,|F,2z2|]
+
+X:24
+T:Trois sorties - I
+M:C|
+L:1/4
+Q:"Moderato poco maestroso"
+%%incipit %G-2$bB@c ''8{DxC4}/D8{DxC}4D8{DC}/4D'2.A8{BA}/
+%%staves {1 *2 3}
+K:F
+%%writefields Q 0
+Q:1/2=72
+V:1
+d/^c/|dd/^c/dd/c/|dA2B/A/|BB/A/Bc|A3D|E>GFD|
+V:2
+x|X4|^C2Dz|
+V:3 shift=cC
+z|[DF]z[EG]z|[FA]z[EG]z|[DF]z[G,E]z|[DF][EG][FA]z|[A,A]2[DA]z|
+V:1
+E>GFD-|D/F/E/G/ F/A/G/B/|A/^c/=B/d/ c/e/z|[FAd]z[EGd]z|[FAd]z[EGd]z|
+V:2
+^C2Dz|z2zD|^Cx3|X2|
+V:3
+[A,A]2[DF]z|B3E|Azzd/^c/|dd/^c/dd/c/|dA2B/A/|
+V:1
+[DFd]z[EGd]z|d3D|E>GFD|E>GFD-|D/^C/D/E/ G/F/E/D/|^CA/^G/AA/G/|
+V:2
+x4|[DF][EG][FA]z|^C2Dz|^C2Dz|x4|A,4-|
+V:3
+BB/A/Bc|A3z|[A,A]2[DF]z|[A,A]2[DF]z|B2E2|A,z=B,z|
+V:1
+AA/^G/AA/=G/|F/A/D/A/ d/A/B/G/|E/G/C/G/ c/G/A/F/|\
+	D/F/B,/F/ B/F/G/E/|^C/E/A,/E/ D/F/A,/F/|
+V:2
+A,3z|X4|
+V:3
+=Cz^Cz|.D.E.F.G|.C.D.E.F|.B,.C.D.E|.A,.G,.F,.D,|
+V:1
+=B,G/^F/GG/F/|GG/^F/GG/=F/|E/G/C/G/ c/G/A/F/|\
+	D/F/B,/F/ B/F/G/E/|^C/E/A,/E/ A/G/F/G/|
+V:2
+G,4-|G,3z|X3|
+V:3
+G,zA,z|_B,z=B,z|.C.D.E.F|.B,.C.D.E|.Azz2|
+V:1
+E/D/^C/=B,/zd/^c/|dd/^c/dd/c/|dA2B/A/|BB/A/Bc|A3D|E>GFD|
+V:2
+X4|D3z|^C2Dz|
+V:3
+z2A/G/F/E/|[DFd]z[EGd]z|[FAd]z[EGd]z|[DFd]z[G,EG]z|[DF][EG][FA]z|[A,A]2[DA]z|
+%25
+V:1
+E>GFD-|D/E/F/G/Ad/^c/|d2-dz|
+V:2
+^C2Dz|x3G-|GF/E/Fz|
+V:3
+[A,A]2[DA]z|B2A2-|[DA]2-[DA]z|
+
+X:32
+T:Quinze versets - I
+M:C
+L:1/8
+Q:"Lent"
+%%incipit %G-2@c '2E,4.A8B/1G/'2E,4.G8A/1F/
+%%staves {1 *2 3}
+K:C
+V:1
+[eg]8-|[eg]8-|[eg]8-|[eg]8|
+V:2
+cABA cABA|cABA cABA|cABA cABA|cABA cABA|
+V:3 shift=cC
+z8|e4A3B|G8|e4G3A|
+V:1
+[da]8|[fg]8-|[fg]8|g4a4&e8|
+V:2
+cABA cABA|cABA cABA|cABA cABA|cABA cABA|
+V:3
+F8|d4F3G|A4-AAGA|c4E3F|
+V:1
+[dg-]8|[!tie)!Gg]8|[eg]8-|[eg]8|
+V:2
+cABA cAB!tie(!G-|fded fded|cABA cABA|cABA cABA|
+V:3
+G8|z8|e4A3B|G8|
+V:1
+g8-&d4f4|[eg-]8|[fg-]8|[eg]4z4|g8-&d4f4|
+V:2
+cABA cABA|cABA cABA|cABA cABA|cABAz4|cABA cABA|
+V:3
+f4A3B|c3BA4|G4D3E|C4B,2A,2|G,8|
+V:1
+[eg]4z4|G4F4&D8|[G,CE]8-|[G,C-E]4[CG]4|H[Ge]8|]
+V:2
+cABAz4|CA,B,A, CA,B,A,|x8|x8|x8|]
+V:3
+C4B,2A,2|G,8|CA,B,A, CA,B,A,|G,4E,4|C,8|]
+
+X:36
+T:Quinze versets - IV
+M:C
+L:1/4
+Q:"Moderato"
+%%incipit %G-2$bB@c '8{A''C}/2D+8{D'A}''4({8CDE};3)/2D+8{D'A}''4({8CDE};3)/4FED8{'A''C}/
+%%staves {1 *2 3}
+K:F
+%%writefields Q 0
+Q:1/4=80
+V:1
+A/c/|d2-d/A/ (3c/d/e/|d2-d/A/ (3c/d/e/|fedc/d/|ec2A/c/|
+V:2 shift=cC
+z|A4-|A4-|A3B|!tie)!G3c|
+V:3 shift=cC
+z|FEDE|FEDA,|DCF!tie(!G-|CD_E=E|
+V:1
+d2-d/A/ (3c/d/e/|d2-d/A/ (3c/d/e/|fedc/d/|ec2B/A/|G2-G/D/ (3F/G/A/|
+V:2
+A4-|A4-|A3B|!tie)!G2^F>A|D4-|
+V:3
+FEDE|FEDA,|DCF!tie(!G-|CD_ED/C/|B,A,G,A,|
+V:1
+G2-G/D/ (3F/G/A/|GFDC/D/|FED/C/A,/B,/|C2D2|E2-E/F/D/E/|F2G2|
+V:2
+D4-|DCFG|B2AF|zxz[FA]|GA/B/G2|zxzx|
+V:3
+B,A,G,A,|B,A,B,2|G,C,F,D|z[CEG]zF,|zC,CB,|z[DFA]z[B,F]|
+V:1
+[^CEA]>=B ^c/d/e/c/|d2-d/A/ (3c/d/e/|d2-d/A/ (3c/d/e/|\
+	fedc/d/|ec2A/c/|d2-d/A/ (3c/d/e/|
+V:2
+z2A2-|A4-|A4|A3B|!tie)!G3c|A4-|
+V:3
+zA,AG|FEDE|FEDA,|DCF!tie(!G-|CD_E=E|FEDE|
+V:1
+d2-d/A/ (3c/d/e/|fedc/d/|ec2B/A/|G2-G/D/ (3F/G/A/|G2-G/D/ (3F/G/A/|GFDC/D/|
+V:2
+A4-|A3B|!tie)!G2^F>A|D4-|D4-|DCFG|
+V:3
+FEDA,|DCF!tie(!G-|CD_ED/C/|B,A,G,A,|B,A,G,A,|B,A,B,2|
+V:1
+FED/C/A,/B,/|C/D/E3/F/D/E/|F/G/A3/c/A/B/|c/d/e/f/ d/e/f/g/|f/e/d2^c|Hd4|]
+V:2
+B2AF|zG/A/BG|c3f|a2d2-|dfg2|[fa]4|]
+V:3
+G,A,F,D|zC2B,|A,FED|CcBG|A2A,2|D4|]
+
+X:41
+T:Quinze versets - IX
+M:C
+L:1/4
+Q:"Allegro moderato"
+%%incipit %G-2$xF@c ''4G/2D+8{D'B''CE}/'2.A8{B''C}/4D'BG''C/
+%%staves {1 *2 3}
+K:G
+V:1
+%%writefields Q 0
+Q:1/4=80
+V:1
+g|d2-d/B/c/e/|A3B/c/|dBEc|BAzg|d2d/B/c/e/|A3B|
+V:2
+x|BAG2-|GF/E/FD-|D2G2-|G/E/Fz2|BAG2-|GF/E/FG,-|
+V:3 shift=cC
+z|gfeA|d3c|BGEA|D2z2|gfeA|d3=F|
+V:1
+cG2A/d/|cG2A|B/d/c/e/EG/F/|G3A|E3B/A/|E3[!tie(!DF]|GABd|
+V:2
+G,4-|G,4-|G,A,C/B,/A,|B,3z|CB,Cz|CB,/D/C2|!tie)!D3B,|
+V:3
+E2=F2|E2_E2|D4|GDG,z|[DA]3z|[DA]3z|BAG2|
+V:1
+e/f/b/a/ f/e/A|E2-E/F/B/A/|E3[!tie(!DF]|GABd&!tie)!D4|g3=f&_B3z|\
+	_e_BGc|_B3G&_E/D/E/=F/Ez|
+V:2
+x4|CB,Cz|C/B,/C/D/C2|x4|_B,/A,/B,/C/B,z|x4|x4|
+V:3
+[DAc]3z|[DA]3z|[DA]3z|BAG=F|_E3z|z4|[G_B]3z|
+V:1
+_E_B,G,=A,|=B,/C/A,/B,/CD|E3F|D3E|CDB,C|A,/B,/C/D/ E/F/G/A/|d4-|
+V:2
+x4|G,2A,B,-|B,CA,2-|A,B,G,2-|G,F,G,E,|x4|z2zG|
+V:3
+z4|D4-|D4-|D4-|D4-|[DF]2z2|z4|
+V:1
+d4-|d4-&z2zc|d4-&x[I: pos stem up]G3|d2zg&G/E/Fz2|d2-d/B/c/e/|A3B|cG2A/d/|
+V:2
+BcBG-|GF/E/F2|BGEC|B,A,z2|BAG2-|GF/E/FG,-|G,4-|
+V:3
+d2-d/B/c/e/|A3B/c/|dBGA|D2z2|gfeA|d3=F|E2=F2|
+V:1
+cG2A|B/d/c/e/EG/F/|G3x|d4-|d3D|d4-|d4-|Hd4|]
+V:2
+G,4|G,A,C/B,/A,|B,3D-|D2EF|GEFD-|D2EF|GAB2-|B4|]
+V:3
+E2_E2|D4|GDG,z|zc/B/cA|BGDz|zc/B/cA|Bcd2-|d4&D2G,2|]
+
+X:42
+T:Quinze versets - X
+M:3/4
+L:1/4
+Q:"Poco allegro"
+%%incipit %G-2$bBE@3/4 ''4D8{CDCD}/4E2D/8{CD}4'BA/2.G/
+%%staves {(1 2) (3 4)}
+K:Gm
+V:1
+%%writefields Q 0
+Q:1/4=72
+dc/d/c/d/|ed2|c/d/BA|G3|dc/d/c/d/|
+V:2
+X5
+V:3 shift=cC
+BA/B/A/B/|c/A/B/G/D/=E/|^F/D/G/B,/C/D/|\
+	B,/A,/G,/D/G/A/|BA/B/A/B/|
+V:4 shift=cC
+G3|X3|G3|
+V:1
+ef2|e/f/de/c/|d2f|bag|fc/d/e/f/|
+V:2
+X4|zzF-|
+V:3
+c/B/A/F/B/G/|c/C/F/B/G/A/|B/F/B,/F/B/c/|\
+	d/f/c/f/B/f/|A/f/ A/B/c/A/|
+V:4
+X5|
+V:1
+d/e/dB/c/|d2B/c/|AG/A/B/c/|AG/A/B/c/|[^FA][DG]2|
+V:2
+FG2-|GFC-|C2-C-|C2G|x3|
+V:3
+BE/F/G|[DA]2=E|F2=E|F_ED|C/D/B,/A,/B,/G,/|
+V:4
+X5|
+V:1
+dc/d/c/d/|ed2|c/d/BA|G3|dc/d/c/d/|
+V:2
+G3-|G2F|EDC-|C/D/B,A,|G3-|
+V:3
+BA2|B2z|!tie)!G2^F|x3|=BA2|
+V:4
+G3-|!tie(!G3|G,D2|[G,D]3|G3-|
+V:1
+=ed2|c/d/=BA|G3-|G/A/F_E|[=B,D-]3|D/=E/C_B,|
+%		      ^-?
+V:2
+G2^F|=EDC-|C/D/=B,A,|_E>DC|x3|_B,>A,G,|
+V:3
+=B2z|!tie)!G2^F|X4|
+V:4
+!tie(!G3-|A,D2|=E3|[FA]3|GG,A,/=B,/|C2^C|
+V:1
+A,/B,/C/E/G/^F/|D/=E/^F/G/A/B/|c/d/e/g/c/g/|d/B/G/D/E/C/|B,>CA,|HG,3|]
+V:2
+X6|]
+V:3
+D3-|D3|G3-|G3|zG^F|[G,B,]3|]
+V:4
+[D^F]zC|B,A,G,|EzA,|B,zC|D2[D,C]|x3|]
+
+X:43
+T:Quinze versets - XI
+M:C
+L:1/4
+Q:"Moderato"
+%%incipit %G-2$bBEAD@c '8{EF}4.E8F4E//%F-4 ,4A2E4F/1E/4B2E4F/1E/
+%%staves {(1 2) (3 4)}
+K:Ab
+V:1
+%%writefields Q 0
+Q:1/4=72
+e/f/e>fe-|e/f/e>fe-|e/f/e>fe-|e/f/e>fe-|
+V:2
+c>Ac>A|c>Ac>A|c>Ac>A|d>Gd>G|
+V:3 shift=cC
+X4|
+V:4 shift=cC
+z4|AE2F|E4|BE2F|
+V:1
+e/f/e>fe-|e/f/e>fe-|e/f/e>fe|=d/e/d>ed|
+V:2
+d>Gd>B|c>Ac>A|c>Gc>F|c>G=B>G|
+V:3
+X4|
+V:4
+E4|AE2F|G3A|G3F|
+V:1
+e/f/e>fe-|e/f/e>fe-|e/f/e>fe-|e/f/e>fe-|e/f/e>fe-|
+V:2
+G>^FG>_d|c>Ac>A|c>Ac>A|d>Bd>B|d>Bd>B|
+V:3
+x4|AE2F|E4|BE2F|E4|
+V:4
+E4|A,4-|A,4|G,4-|G,4|
+V:1
+e/f/e>fe|d/e/d>ed-|d/c/B/A/ B/A/F/E/|X2|
+V:2
+c>Ac>A-|A>FA>_F|Azz2|[I:staff +1]F/E/C/A,/F,2-|F,2G,2[I:staff -1]|
+V:3
+EA,2B,|A,4-|A,zz2|z4|E4|
+V:4
+_G,4|F,2_F,2|E,zz2|z4|DCB,2|
+V:1
+z2z/F/G/E/|F/E/zz/F/B/G/|F/E/zzx|z2c2-|Hc4|]
+V:2
+z2z<D|Czz<D|CzzA,|F4|E4|]
+V:3
+[CEA]zz2|X4|]
+V:4
+A,E,B,2|A,E,B,2|A,E,C2-|CE[Ac]2-|[Ac]4|]
+
+X:45
+T:Quinze versets - XIII
+M:3/4
+L:1/4
+Q:"Allegretto moderato"
+%%incipit %G-2@3/4 ''8-F4E'A/4(8{B''DC};3)'2A/8-''A4E'A/
+%%staves {1 2* 3}
+K:C
+%%writefields Q 0
+Q:1/4=80
+V:1
+z/f/eA|(3B/d/c/A2|z/a/eA|(3B/d/c/B^A|B/f/e/c/A/E/|
+V:2
+E2F|^F2=F|E2F-|F3|DCz|
+V:3 shift=cC
+A3-|A3-|A3|d3|^GAz|
+V:1
+F/d/c/A/E/!tie(!C/-|FE>D|G/F/E2|z/f/eA|(3B/d/c/A2|
+V:2
+A,3-|[A,!tie)!C]3|B,3|E2F|^F2=F|
+V:3
+DEC|DEF|G^GE|A3-|A3-|
+V:1
+z/a/eA|(3B/d/c/B_B|_B/f/d/B/F/E/|F/d/_B/F/E/D/|FE>D|\
+Q:1/4=60
+E/C/HA,2|
+V:2
+E2F|E3X3|x[D,F,]H[C,E,]|
+V:3
+A3|G3|[F_Bd]z[GB^c]|[F_Bd]z[D^G]|[CA]2[B,^G]|zA,2|

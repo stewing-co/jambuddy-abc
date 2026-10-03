@@ -1,0 +1,104 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Drytritt (Mazurka)  C
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.265 (mz01003) orig. C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+C>E  |: "C"G2G2A>G | G2E2G>G | "G7"F2D2G>G |  "C"E4C>E | G2G2A>G | G2E2 G>G | "G7"F2D2GF |1 "C"E2z2C>E :|2 
+"C"E2z2c>B |: "F"A2F2B>A | "C"G2E2G>G | "G7"F2D2G>F | "C"E2z2c>B | "F"A2F2B>A | "C"G2E2 A>G | "G7"F2D2 GG |1 "C"E2z2c>B :|2 "C"E2z2z2 |] 
+W:
+W: Anmerkung H.C.: Hackbr\"att Gregor Jost, 73 jh, 10. Okt. 1952, M\"unster
+W: cf. Dryschrittler (Mazurka) mz01008. Bd.VI, p266
+X:2
+T:Drytritt (Mazurka)  F 5+
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:F%%MIDI gchordon
+F>A |: "F"c2c2d>c | c2A2c>c | "C7"B2G2c>c | "F"A4F>A | c2c2d>c | c2A2 c>c | "C7"B2G2cB |1 "F"A2z2F>A :|2 
+"F"A2z2f>e |: "Bb"d2B2e>d | "F"c2A2c>c | "C7"B2G2c>B | "F"A2z2f>e | "Bb"d2B2e>d | "F"c2A2 d>c | "C7"B2G2 cc |1 "F"A2z2f>e :|2 "F"A2z2z2 |] 
+% mz01003
+X:3
+T:Drytritt (Mazurka)  G 7+
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G%%MIDI gchordon
+G>B |: "G"d2d2e>d | d2B2d>d | "D7"c2A2d>d | "G"B4G>B | d2d2e>d | d2B2 d>d | "D7"c2A2dc |1 "G"B2z2G>B :|2 
+"G"B2z2g>f |: "C"e2c2f>e | "G"d2B2d>d | "D7"c2A2d>c | "G"B2z2g>f | "C"e2c2f>e | "G"d2B2 e>d | "D7"c2A2 dd |1 "G"B2z2g>f :|2 "G"B2z2z2 |] 
+% mz01003
+X:4
+T: Drytritt (Mazurka)  C (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+C>E  |: "C"G2G2A>G | G2E2G>G | "G7"F2D2G>G |  "C"E4C>E | G2G2A>G | G2E2 G>G | "G7"F2D2GF |1 "C"E2z2C>E :|2 
+"C"E2z2c>B |: "F"A2F2B>A | "C"G2E2G>G | "G7"F2D2G>F | "C"E2z2c>B | "F"A2F2B>A | "C"G2E2 A>G | "G7"F2D2 GG |1 "C"E2z2c>B :|2 "C"E2z2z2 |] 
+% mz01003
+X:5
+T:Drytritt (Mazurka)  F (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+F>A |: "F"c2c2d>c | c2A2c>c | "C7"B2G2c>c | "F"A4F>A | c2c2d>c | c2A2 c>c | "C7"B2G2cB |1 "F"A2z2F>A :|2 
+"F"A2z2f>e |: "Bb"d2B2e>d | "F"c2A2c>c | "C7"B2G2c>B | "F"A2z2f>e | "Bb"d2B2e>d | "F"c2A2 d>c | "C7"B2G2 cc |1 "F"A2z2f>e :|2 "F"A2z2z2 |] 
+% mz01003
+X:6
+T:Drytritt (Mazurka)  G (5letras transposed)
+%%MIDI program 21
+R:mazurka
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+G>B |: "G"d2d2e>d | d2B2d>d | "D7"c2A2d>d | "G"B4G>B | d2d2e>d | d2B2 d>d | "D7"c2A2dc |1 "G"B2z2G>B :|2 
+"G"B2z2g>f |: "C"e2c2f>e | "G"d2B2d>d | "D7"c2A2d>c | "G"B2z2g>f | "C"e2c2f>e | "G"d2B2 e>d | "D7"c2A2 dd |1 "G"B2z2g>f :|2 "G"B2z2z2 |] 
+% mz01003
+X:7
+T:Drytritt (Mazurka) D (tinwhistle in D)
+T:mz01003 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D%%MIDI gchordon
+D>F |: "D"A2A2B>A | A2F2A>A | "A7"G2E2A>A | "D"F4D>F | A2A2B>A | A2F2 A>A | "A7"G2E2AG |1 "D"F2z2D>F :|2 
+"D"F2z2d>c |: "G"B2G2c>B | "D"A2F2A>A | "A7"G2E2A>G | "D"F2z2d>c | "G"B2G2c>B | "D"A2F2 B>A | "A7"G2E2 AA |1 "D"F2z2d>c :|2 "D"F2z2z2 |] 
+X:8
+T:Drytritt (Mazurka) D (tinwhistle in D) solo
+T:mz01003 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:D transpose=12
+D>F |: A2A2B>A | A2F2A>A | G2E2A>A | F4D>F | A2A2B>A | A2F2 A>A | G2E2AG |1 F2z2D>F :|2 
+F2z2d>c |: B2G2c>B | A2F2A>A | G2E2A>G | F2z2d>c | B2G2c>B | A2F2 B>A | G2E2 AA |1 F2z2d>c :|2 F2z2z2 |]
+X:9
+T:Drytritt (Mazurka) G (tinwhistle in D) solo
+T:mz01003 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:mazurka
+M:3/4
+L:1/8
+K:G transpose=12
+G>B |: d2d2e>d | d2B2d>d | "_c"c2A2d>d | B4G>B | d2d2e>d | d2B2 d>d | "_c"c2A2dc |1 B2z2G>B :|2 
+B2z2g>f |: e2"_c"c2f>e | d2B2d>d | "_c"c2A2d>c | B2z2g>f | e2"_c"c2f>e | d2B2 e>d | "_c"c2A2 dd |1 B2z2g>f :|2 B2z2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 7, 2016
+

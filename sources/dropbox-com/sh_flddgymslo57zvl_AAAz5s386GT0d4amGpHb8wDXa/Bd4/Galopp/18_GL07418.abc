@@ -1,0 +1,45 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Galopp  CF (GL07418)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.323 (GL07418) orig.C,F
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G>c |: "C".e2.e2 | .e2e>f | (^fa) .g.e | .c2e>f | .g2.a2 | .b2.c'2 |  ("Dm"^ga) .f.d | .d'2 d'>c' | 
+"G7".b2.a2 | .g2.f2 | "C"e/e/e !>!g2 | zg ag | "G7"f/f/f !>!b2 | za gf | "C"e>g "G7"f>d |1 "C".c2G>c :|2 "C".c2e>e || 
+|: ("Am"fe) c'>b | (ba) .a.a | {/^a}"E7"be  {/a}be | "Am"c'2 "*"e>e | ("D7"ed) b>a | ("G"ag) .g.g | {/^g}"D7"ad  {/g}ad | 
+"G"b2b>a | (ag) b>a | ag b>a | (!>!ag) (!>!ag) | "G7".b.a .g.f | ("C"e2a2) | (g2c2) | ("G7"B2b2) | agB2 | 
+(d2b2) | (a2f2) |  ("C"e2d'2) | c'g g2 | (e2a2) | (g2c2) | ("G7"d2b2) | "Dm"af d>c | "G7"Bc de | fg ab | 
+"C"c'g "G7"b>g |1 "C".c'2e>e :|2 "C".c'2 c>f || [K:F] "F"a2g2 | f2a2 | c'3a | f2c>f | a2g2 | f2a2 | 
+"Gm"g4 | z2d>g | b2a2 | g2b2 | "C7"d'3c' | ba gf | e2c2 | a3g | "F".f2.f2 | f2z2 |]  
+W:* Anmerkung Hrsg.: Teil B, Takt 4, HC: d-d
+% GL07418
+% Aug 14, 2017
+
+X:2
+T:Galopp  GC 5- (GL07418)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.323 (GL07418) orig.C,F
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+D>G |: "G".B2.B2 | .B2B>c | (^ce) .d.B | .G2B>c | .d2.e2 | .f2.g2 | ("Am"^de) .c.A | .a2 a>g | 
+"D7".f2.e2 | .d2.c2 | "G"B/2B/2B !>!d2 | zd ed | "D7"c/2c/2c !>!f2 | ze dc | "G"B>d "D7"c>A |1 "G".G2D>G :|2 "G".G2B>B || 
+|: ("Em"cB) g>f | (fe) .e.e | {/^e}"B7"fB {/e}fB | "Em"g2 B>B | ("A7"BA) f>e | ("D"ed) .d.d | {/^d}"A7"eA {/d}eA | 
+"D"f2f>e | (ed) f>e | ed f>e | (!>!ed) (!>!ed) | "D7".f.e .d.c | ("G"B2e2) | (d2G2) | ("D7"F2f2) | edF2 | 
+(A2f2) | (e2c2) | ("G"B2a2) | gd d2 | (B2e2) | (d2G2) | ("D7"A2f2) | "Am"ec A>G | "D7"FG AB | cd ef | 
+"G"gd "D7"f>d |1 "G".g2B>B :|2 "G".g2 G>c || [K:Cmaj] "C"e2d2 | c2e2 | g3e | c2G>c | e2d2 | c2e2 | 
+"Dm"d4 | z2A>d | f2e2 | d2f2 | "G7"a3g | fe dc | B2G2 | e3d | "C".c2.c2 | c2z2 |] 
+%W:* Anmerkung Hrsg.: Teil B, Takt 4, HC: d-d
+% GL07418
+% Aug 14, 2017

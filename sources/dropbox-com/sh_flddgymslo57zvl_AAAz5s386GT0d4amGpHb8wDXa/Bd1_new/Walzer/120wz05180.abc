@@ -1,0 +1,82 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Walzer G chords parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.391 (wz05180) orig. C-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+R: waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+[P:A] d | "G"d3 | dBd | g3 | gfe | "D7"d>cc | {d/}cBc | "G"e2d | GBc | d3 | 
+dBd | g3 | gfe | "D7"d>cc | ce>d | "G"G>GG | GzB |: [P:B] "Am/C"A2c | e2 .d/.c/ | 
+"G"B2d | g2 .f/.e/ | "D7"d>cc | c/B/ c/e/  d/c/ |1 "G"B>BB |  B/A/ B/d/ c/B/ :|2 "G"B>gg | gzz |] 
+% June 7, 2016
+X:2
+T: Walzer G chords
+R: waltz
+M:3/4
+L:1/4
+K:G %%MIDI gchordon
+ d | "G"d3 | dBd | g3 | gfe | "D7"d>cc | {d/}cBc | "G"e2d | GBc | d3 | 
+dBd | g3 | gfe | "D7"d>cc | ce>d | "G"G>GG | GzB |: "Am/C"A2c | e2 .d/.c/ | 
+"G"B2d | g2 .f/.e/ | "D7"d>cc | c/B/ c/e/  d/c/ |1 "G"B>BB |  B/A/ B/d/ c/B/ :|2 "G"B>gg | gzz |] 
+X:3
+T:Walzer F 2- chords
+R:waltz
+M:3/4
+L:1/4
+K:Fmaj%%MIDI gchordon
+c | "F"c3 | cAc | f3 | fed | "C7"c>BB | {c/2}BAB | "F"d2c | FAB | c3 | 
+cAc | f3 | fed | "C7"c>BB | Bd>c | "F"F>FF | FzA |: "Gm/Bb"G2B | d2 .c/2.B/2 | 
+"F"A2c | f2 .e/2.d/2 | "C7"c>BB | B/2A/2 B/2d/2 c/2B/2 |1 "F"A>AA | A/2G/2 A/2c/2 B/2A/2 :|2 "F"A>ff | fzz |] 
+X:4
+T:Walzer C 5- chords
+R:waltz
+M:3/4
+L:1/4
+K:C %%MIDI gchordon
+G | "C"G3 | GEG | c3 | cBA | "G7"G>FF | {G/2}FEF | "C"A2G | CEF | G3 | 
+GEG | c3 | cBA | "G7"G>FF | FA>G | "C"C>CC | CzE |: "Dm/F"D2F | A2 .G/2.F/2 | 
+"C"E2G | c2 .B/2.A/2 | "G7"G>FF | F/2E/2 F/2A/2 G/2F/2 |1 "C"E>EE | E/2D/2 E/2G/2 F/2E/2 :|2 "C"E>cc | czz |] 
+X:5
+T: Walzer G (5letras transposed)
+R: waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+ d | "G"d3 | dBd | g3 | gfe | "D7"d>cc | {d/}cBc | "G"e2d | GBc | d3 | 
+dBd | g3 | gfe | "D7"d>cc | ce>d | "G"G>GG | GzB |: "Am/C"A2c | e2 .d/.c/ | 
+"G"B2d | g2 .f/.e/ | "D7"d>cc | c/B/ c/e/  d/c/ |1 "G"B>BB |  B/A/ B/d/ c/B/ :|2 "G"B>gg | gzz |] 
+X:6
+T:Walzer F (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+c | "F"c3 | cAc | f3 | fed | "C7"c>BB | {c/2}BAB | "F"d2c | FAB | c3 | 
+cAc | f3 | fed | "C7"c>BB | Bd>c | "F"F>FF | FzA |: "Gm/Bb"G2B | d2 .c/2.B/2 | 
+"F"A2c | f2 .e/2.d/2 | "C7"c>BB | B/2A/2 B/2d/2 c/2B/2 |1 "F"A>AA | A/2G/2 A/2c/2 B/2A/2 :|2 "F"A>ff | fzz |] 
+X:7
+T:Walzer C (5letras transposed)
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+G | "C"G3 | GEG | c3 | cBA | "G7"G>FF | {G/2}FEF | "C"A2G | CEF | G3 | 
+GEG | c3 | cBA | "G7"G>FF | FA>G | "C"C>CC | CzE |: "Dm/F"D2F | A2 .G/2.F/2 | 
+"C"E2G | c2 .B/2.A/2 | "G7"G>FF | F/2E/2 F/2A/2 G/2F/2 |1 "C"E>EE | E/2D/2 E/2G/2 F/2E/2 :|2 "C"E>cc | czz |] 
+X:8
+T:Walzer G (tinwhistle in D)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D %%MIDI gchordon
+A | "D"A3 | AFA | d3 | dcB | "A7"A>GG | {A/2}GFG | "D"B2A | DFG | A3 | 
+AFA | d3 | dcB | "A7"A>GG | GB>A | "D"D>DD | DzF |: "Em/G"E2G | B2 .A/2.G/2 | 
+"D"F2A | d2 .c/2.B/2 | "A7"A>GG | G/2F/2 G/2B/2 A/2G/2 |1 "D"F>FF | F/2E/2 F/2A/2 G/2F/2 :|2 "D"F>dd | dzz |] 
+W:
+W: for tin whistle TABs go to: 
+W: http://www.mandolintab.net/abcconverter.php
+W: Tablatur: Whistle - key: D

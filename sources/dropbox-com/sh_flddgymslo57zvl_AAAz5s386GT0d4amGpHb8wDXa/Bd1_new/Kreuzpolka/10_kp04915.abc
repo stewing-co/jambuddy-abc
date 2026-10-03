@@ -1,0 +1,52 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Kreuzpolka ussim Klettgau  GDC chords Parts
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.347 (kp04915) orig. G,D,C-Dur
+T: Schaffhauser T\"anze (Hans Stamm, Schleitheim, und Hrch. B\"achtold, Stein am Rhein). S.298-362.
+P:ABACA
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+[P:A] "G"gb/a/ gf | "C"!>!e2.c'2 | "D7"df/e/ dc | "G"!>!B2.b2 | b^c/d/ ag | "D7"g>f c2 |1 c'^c/d/ ba |  "G"a>gd2 :|2 "D7"c'>c' ba | "G"gg g"_fine"z |] 
+[P:B] [K:D] |: "D"af/f/ db | "A7"!>!a2.g2 | ag/g/ ec' | "D"!>!b2.a2 | af/d/ b>a |1 "A7"abc'2 | ag/c/ b>a | ac"D"f2 :|2 "G"bbb2 | "A7"ag/c/ b>a | "D"dd d"_>Teil A"z |] 
+[P:C] [K:C] |: "G7"d>e fa | "C"!>!g2.e'2 | e>e ag | "G7"!>!f2.b2 | bb/b/ bc' | d'e f>^f |1 "D7"g^f/g/ ba | "G"gg gz :|2 "G7"gg/^g/ a>b | "C"c'c' c'z |] 
+
+X:2
+T: Kreuzpolka ussim Klettgau  GDC chords
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"gb/a/ gf | "C"!>!e2.c'2 | "D7"df/e/ dc | "G"!>!B2.b2 | b^c/d/ ag | "D7"g>f c2 |1 c'^c/d/ ba |  "G"a>gd2 :|2 "D7"c'>c' ba | "G"gg g"_fine"z |] 
+[K:D] |: "D"af/f/ db | "A7"!>!a2.g2 | ag/g/ ec' | "D"!>!b2.a2 | af/d/ b>a |1 "A7"abc'2 | ag/c/ b>a | ac"D"f2 :|2 "G"bbb2 | "A7"ag/c/ b>a | "D"dd d"_>Teil A"z |] 
+[K:C] |: "G7"d>e fa | "C"!>!g2.e'2 | e>e ag | "G7"!>!f2.b2 | bb/b/ bc' | d'e f>^f |1 "D7"g^f/g/ ba | "G"gg gz :|2 "G7"gg/^g/ a>b | "C"c'c' c'z |] 
+
+X:3
+T:Kreuzpolka ussim Klettgau  CGF 7- chords Parts
+P:ABACA
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+[P:A] "C"ce/2d/2 cB | "F"!>!A2.f2 | "G7"GB/2A/2 GF | "C"!>!E2.e2 | e^F/2G/2 dc | "G7"c>B F2 |1 f^F/2G/2 ed | "C"d>cG2 :|2 "G7"f>f ed | "C"cc c"_fine"z |] 
+[P:B] [K:Gmaj] |: "G"dB/2B/2 Ge | "D7"!>!d2.c2 | dc/2c/2 Af | "G"!>!e2.d2 | dB/2G/2 e>d |1 "D7"def2 | dc/2F/2 e>d | dF"G"B2 :|2 "C"eee2 | "D7"dc/2F/2 e>d | "G"GG G"_>Teil A"z |] 
+[P:C] [K:Fmaj] |: "C7"G>A Bd | "F"!>!c2.a2 | A>A dc | "C7"!>!B2.e2 | ee/2e/2 ef | gA B>=B |1 "G7"c=B/2c/2 ed | "C"cc cz :|2 "C7"cc/2^c/2 d>e | "F"ff fz |] 
+
+X:4
+T:Kreuzpolka ussim Klettgau  CGF 7- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"ce/2d/2 cB | "F"!>!A2.f2 | "G7"GB/2A/2 GF | "C"!>!E2.e2 | e^F/2G/2 dc | "G7"c>B F2 |1 f^F/2G/2 ed | "C"d>cG2 :|2 "G7"f>f ed | "C"cc c"_fine"z |] 
+[K:Gmaj] |: "G"dB/2B/2 Ge | "D7"!>!d2.c2 | dc/2c/2 Af | "G"!>!e2.d2 | dB/2G/2 e>d |1 "D7"def2 | dc/2F/2 e>d | dF"G"B2 :|2 "C"eee2 | "D7"dc/2F/2 e>d | "G"GG G"_>Teil A"z |] 
+[K:Fmaj] |: "C7"G>A Bd | "F"!>!c2.a2 | A>A dc | "C7"!>!B2.e2 | ee/2e/2 ef | gA B>=B |1 "G7"c=B/2c/2 ed | "C"cc cz :|2 "C7"cc/2^c/2 d>e | "F"ff fz |] 
+
+X:3
+T:Kreuzpolka ussim Klettgau  EbBbAb (5letras) cf. CGF
+P:ABACA
+M:2/4
+L:1/8
+K:Ebmaj%%MIDI gchordon
+[P:A] "Eb"eg/2f/2 ed | "Ab"!>!c2.a2 | "Bb7"Bd/2c/2 BA | "Eb"!>!G2.g2 | g=A/2B/2 fe | "Bb7"e>d A2 |1 a=A/2B/2 gf | "Eb"f>eB2 :|2 "Bb7"a>a gf | "Eb"ee e"_fine"z |] 
+[P:B] [K:Bbmaj] |: "Bb"fd/2d/2 Bg | "F7"!>!f2.e2 | fe/2e/2 ca | "Bb"!>!g2.f2 | fd/2B/2 g>f |1 "F7"fga2 | fe/2A/2 g>f | fA"Bb"d2 :|2 "Eb"ggg2 | "F7"fe/2A/2 g>f | "Bb"BB B"_>Teil A"z |] 
+[P:C] [K:Abmaj] |: "Eb7"B>c df | "Ab"!>!e2.c'2 | c>c fe | "Eb7"!>!d2.g2 | gg/2g/2 ga | bc d>=d |1 "Bb7"e=d/2e/2 gf | "Eb"ee ez :|2 "Eb7"ee/2=e/2 f>g | "Ab"aa az |] 

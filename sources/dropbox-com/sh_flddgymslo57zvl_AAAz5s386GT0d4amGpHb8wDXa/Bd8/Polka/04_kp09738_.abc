@@ -1,0 +1,39 @@
+%%partsbox
+X:1
+T:Kreuzpolka CGF
+T:Hanny Christen. Bd.VIII Zug, Luzern, Uri I. S.137 (wz09738) orig. C,G,F-Dur
+T: Tänze auch Escholzmatt (Luzern)
+M:2/4
+L:1/16
+K:C 
+"C"EGce a2g2 | "G7".f4B4 | GBdf b2a2 | "C".g4c4 | Gceg c'2b2 | "Dm"a2a2 d4 |1 "G7"f2f2 B4 | "C"e2e2 c4 :|2 "G7"f2B2 f2B2 | "C"c2e2 c2z2 ||  
+|:[K:G]  
+"G"Bdgb a2g2 | "D7".f4c4 | Aceg f2e2 | "G".d4B4 | DGBd e3d | "D7"d2c2 f4 |1 d2c2 a4 | "G"b2g2 d4 :|2 d2f2 b3a | "G"g2g2 g2z2 ||
+K:F 
+[L:1/8]|: "F"a>a gf | "C7".b2e2 | b>b ag | "F".c'2f2 | A/c/f/a/ gf | "Bb"dd b2 |1 "C7"cc e2 | "F"cc f2 :|2 "C7"c/d/e/f/ ga | "F"ff fz2 |] 
+
+X:2
+T:Kreuzpolka CGF chords
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"EGce a2g2 | "G7".f4B4 | GBdf b2a2 | "C".g4c4 | Gceg c'2b2 | "Dm"a2a2 d4 |1 "G7"f2f2 B4 | "C"e2e2 c4 :|2 "G7"f2B2 f2B2 | "C"c2e2 c2z2 ||  
+|:[K:G]  
+"G"Bdgb a2g2 | "D7".f4c4 | Aceg f2e2 | "G".d4B4 | DGBd e3d | "D7"d2c2 f4 |1 d2c2 a4 | "G"b2g2 d4 :|2 d2f2 b3a | "G"g2g2 g2z2 ||
+K:F 
+[L:1/8]|: "F"a>a gf | "C7".b2e2 | b>b ag | "F".c'2f2 | A/c/f/a/ gf | "Bb"dd b2 |1 "C7"cc e2 | "F"cc f2 :|2 "C7"c/d/e/f/ ga | "F"ff fz2 |] 
+
+X:3
+T:Kreuzpolka CGF parts
+M:2/4
+L:1/16
+P:ABAC
+K:C %%MIDI gchordon
+[P:A]"C"EGce a2g2 | "G7".f4B4 | GBdf b2a2 | "C".g4c4 | Gceg "_c""_^"c'2b2 | "Dm""_a""_^"a2a2 "_d"d4\
+ |1 "G7""_f"f2f2 "_h"B4 | "C"e2e2 c4 :|2 "G7""_f"f2"_h"B2 f2"_ h ="B2 | "C"c2e2 c2z2 ||  
+|:[K:G]  
+[P:B]"G"Bdgb a2g2 | "D7""_f#".f4"_c"c4 | "_a"A"_c"c"_e"eg "_f#"f2"_e"e2 | "G".d4B4 | DGBd "_^""_^"e3d | "D7""_^""_^"d2"_c"c2 "_f#"f4\
+ |1 d2"_c"c2 "_a"a4 | "G"b2g2 d4 :|2 d2"_f#"f2 b3"_a"a | "G"g2g2 g2z2 ||
+K:F 
+[P:C][L:1/8]|: "F"a>a gf | "C7""_b".b2"_e"e2 | "_b"b>b a"_g"g | "F".c'2f2 | A/c/f/a/ gf | "Bb""_d"dd "_b"b2\
+ |1 "C7"cc e2 | "F"cc f2 :|2 "C7"c/d/e/f/ ga | "F"ff fz2 |] 

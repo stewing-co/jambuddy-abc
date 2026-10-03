@@ -1,0 +1,130 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+
+X:1
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:XIII. Flora wilt thou torment mee
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/4
+K:C
+T:Cantus
+N: Original clef, treble
+G2 G A B G c2 B d c B > c d ^c2 d4 \
+w:Flo- ra wilt thou tor- ment mee, And yet must I con- tent mee,
+w:1
+B2 B c d B e2 d D E G > A B A2 "A"D G \
+w:Flo- ra wilt thou to- ment mee, And yet must I con- tent mee, And
+w:2
+D F E G G ^F G g c e d f e2 d B c > B A G ^F2 G2 z B d2 z d \
+w:shall I have no plea- _ sure, And shall I have no plea- sure, Of that thy beau- ties trea- sure Lo then, Lo
+w:3
+B > A G d g > f e d ^c d2 ^c d2 z d B > A G G c > B A G ^F G A2 B4 \
+w:then I dye and dy- ing thus com- plaine _ _ mee, Lo then I dye and dy- ing thus com- plaine _ _ mee
+M:3/2
+L:1/2
+d2 c \
+w:Flo- ra
+w:4
+B > B A G2 z \
+w:gen- tile and faire, 
+M:C
+L:1/4
+z B c    G    A d2 ^c    d2 z e  f   d    ^c2    d2 z A _B   G2 ^F G2 \
+w:A- las hath slaine _ _ mee, A- las hath slaine mee, a- las hath slaine mee,
+w:5
+z B  c   G    A2     D2  A  c2  B    A2     B4 \
+w:a- las hath slaine mee a- las hath slaine mee,
+M:3/2
+L:1/2
+d2 c B > B A G2 z \
+w: Flo- ra gen- tile and faire,
+M:C
+L:1/4
+z B c G A d2 ^c \
+w: a- las hath slaine _ _
+w:6
+d2 z e f d ^c2 d2 z A _B G2 ^F G2 z B c G A2 D2 A c2 B A2 HB4 |]
+w:mee, a- las hath slaine mee, a- las hath slaine mee, a- las hath slaine mee, a- las hath slaine mee.
+w:7
+
+X:2 
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+T:XIII. Flora wilt thou torment mee
+O: The First Booke of Canzonets to two voyces, 
+H: transcribed from the Performers' Facsimiles print
+C: Thomas Morley
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C
+L:1/4
+K:C
+T:Tenor
+N: Original clef, treble
+z4 z4 z D E G > A B A2 D4 G2 G A B G c2 \
+w: And yet must I con- tent mee, Flo- ra wilt thou tor- ment
+w:1
+B d c B > c d ^c2 "A"d2 z d G B A c B > G A/ B/ \
+w:mee, And yet must I con- tent mee, And shall I have no plea - * _ 
+w:2
+c2 B c2 z d e > d c B A2 B B d2 z B d2 z d B > A G G 
+w: _ _ sure, Of that thy beau- ties trea- sure Lo then, Lo then, Lo then I dye and
+c > B \
+w:dy- ing
+w:3
+A G A2 D d B> A G d g > f e G c > B A G G ^F G4	\
+w: thus com- plaine  mee, Lo then I dye Lo then I dye and dy- ing thus com- plaine _  mee
+M:3/2
+L:1/2
+"(1)"z3 d2 c \
+w:Flo- ra
+w:4
+N:(1) Original has meter of 3.
+B > B A \
+w:gen- tile and 
+M:C
+L:1/4
+  G2 z   B c    G    A2 
+w:faire, A- las hath slaine 
+D F E2 D2 z e f d ^c2 d _B A2 \
+w:mee, hath slaine mee, a- las hath slaine mee hath slaine
+w:5
+  =B   B  c   G      A    d2 ^c d    D   F A > G  G2 ^F G4 \
+w:mee, a- las hath slaine _  _ mee, a- las hath _ slaine _ mee,
+M:3/2
+L:1/2
+z3 d2 c B > B A \
+w: Flo- ra gen- tile and 
+M:C
+L:1/4
+G2 z B c G \
+w: faire, a- las hath
+w:6
+A2 D F E2 D2 z e f d ^c2 d _B A2 =B B c G A d2 ^c d D \
+w:slaine mee,  hath slaine mee, a- las hath slaine mee, hath slaine mee, a- las hath slaine _ _ mee, a-
+w:7
+F A > G G2 ^F HG4 |]
+w:las hath _ slaine _ mee.
+w:8
+
+

@@ -1,0 +1,133 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:Una Canzon Francese doulce memoire
+C: Francis I
+O: From Diego Ortiz, El Primo Libro
+L:1/2
+M:C|
+%%MIDI nobarlines
+K:D dorian
+T: Cantus
+N: Original clef C on first line
+%1
+F4 F E D2 ^C2 z D F > G A F E A2 ^G A2 F2 F F G G E2 F2 "A"E2 z2 A2 A A A3 ^G A c B A2 ^G A4
+w:Doul-  ce me- moir- e en plai- sir con- su- mé - - e en plai- sir con- su- mé -  e O siecl' heu- reulx qui cau- se tel _ sca- voir 
+%2
+F4 F E D2 "B"^C2 z D F > G A F E A2 ^G A2 F2 F F G G E2 F2 "C"E2 z2 A2 A A A3 ^G A c B A2 ^G
+w:la  fer- me tés _ de nous deulx tant ai mé - - e de nous deulx tant ai- mé - e qui a nous maulx a seun si bien * pour-
+%3
+A4 F2 G G F3 F E C D D ^C2 E4 E F G G G =B > A A2 ^G
+w:voir  Or main- te nent a per- du son poo- ír rom-  pant le bruict de ma seuil * es- per- ance
+%4
+A2 A2 A A A2 F A G E F F "D"E2 z E F/G/A/B/^c d2 c d2 z D E > F G G
+w: ser- vant d'ex- am- ple a tous pi- teuls a- voir fi- nir _ _ _  __ le bien le mal sou- dain com-
+%5
+F/E/A2 ^G A c > B A/G/F/E/D/C/B,/A,/D2 ^C D2 z E F/G/A/B/^c d2 c d2 z D
+w:men- - - - ce co - - - - - - - - - man - ce fi- nir _ _ _ _ _ le bien les
+%6
+E > F G G F/E/A2 ^G A c > B A/G/F/E/D/C/B,/ A,/ D2 ^C HD2 z2 z2 z2 z2 z2 z2|]
+w:mal sou- dain com- men - - - ce com- - - - - - - - - -  man - ce.
+
+X:2
+T:Una Canzon Francese doulce memoire
+C: Francis I
+O: From Diego Ortiz, El Primo Libro
+L:1/2
+M:C|
+%%MIDI nobarlines
+%%MIDI transpose -12
+K:D dorian -8va
+T:Altus
+N:Original clef, C on third line
+%1
+d2-d2 c c A2 A2-A2 z2 A2 c > d e e c2 d d2 d d e > d c2 B "A"c2 e2 f f f2-f2 e2 e e e2 e2 c2-c2
+w:Doul- * ce me- moir- e * en plai- sir con- su- mé- e en plai- sir con- su- mé -  e O siecl' heu- reulx * qui cau- se tel sca- voir *
+%2
+d2-d2 c c A2 "B"A2-A2 z2 A2 c > d e e c2 d d2 d d e > d c2 B "C"c2 e2 f f f2-f2 e2 e e e2 e2 c2-c2
+w:la * fer- me tés _ * de nous deulx tant ai mé- e de nous deulx tant ai- mé - e qui  a nous maulx * a scen si bien pour- voir *
+%3
+d2 d d d3/2 c// B// A B B A A G A2-A2 G2 G d B e d e f f e2
+w:Or main- te nent _ _ _ a per- du son poo- ír * rom-  pant le bruict de ma seuil  es- per- an-
+%4
+c2 f2 e f e e f > e d c c B "D"c2 G2 A2 a3 a f f f f g > f e/ d/ c/ B/ A f
+w:ce ser- vant de ex- am- ple a tous pi- teuls a- voir _ fi- nir le bien le mal sou- dain com- man - - - ce com-
+%5
+e2 c > B A/ G/ F/ E/ F2 D _B A2 A2-A2 A2 a3 a f f f f g > f e/ d/ c/ B/ A f e2
+w:men - - - - - - ce co- man - ce * fi- nir le bien le mal sou- dain com- 
+%6
+c > B A/ G/ F/ E/ F2 D _B A2 A2 z A B B A A B2-B2 HA2 |]
+w:man - - - - ce com- man - - ce le mal sou- dain com- men- * ce 
+
+X:3
+T:Una Canzon Francese doulce memoire
+C: Francis I
+O: From Diego Ortiz, El Primo Libro
+L:1/2
+M:C|
+%%MIDI nobarlines
+%%MIDI transpose -12
+K:D dorian -8va
+T:Tenor
+N:Original clef, C on fourth line
+%1
+A2-A2 A G F2 E2 D2 d3 d c B/A/ B2 A2 A2 A A _B/ A/ G/ F/ G2 F2 "A"G2 c2 c c c2 d2 c B A2 G A B2 A2-A2
+w:Doul- * ce me- moir- e en plai- sir con- su - mé-  e en plai- sir con- - - -  su- mé-  e O siecl' heu- reulx qui cau- se tel sca- - - voir *
+%2
+A2-A2 A G F2 "B"E2 D2 d3 d c B/ A/ B2 A2 A2 A A _B/ A/ G/ F/ G2 F2 "C"G2 c2 c c c2 d2 c B A2 G A
+w:la * fer- me tés _ de nous deulx tant ai- - mé- - e de nous deulx _ tant ai- mé- - e qui a nous maulx a seun si bien pour-
+%3
+B2 A2-A2 A2 _B B A2 F2 G A D D E2 c2-c2 c A G B B B c d B2
+w:voir _ * Or main- te nent a per- du son poo- ír rom- * pant le bruict de ma seuil   es- per- an-
+%4
+a2 a2 ^c d2 c d c B G G F "D"G2 c2-c2 f2 e2 d A A A c3 e d > c B2 A A
+w:ce ser- vant d'ex- am- ple a tous pi- teuls a- voir fi- * nir le bien le mal sou- dain com- men- - ce le mal
+%5
+c > B A/ G/ A G > F E2 D2 c2-c2 f2 e2 d A A A c3 e d > c B2 A A c > B A/ G/ A
+w: sou- - - - dain  co- - man-  ce  fi- * nir le bien le mal sou- dain co- man- - - ce le mal _ _ _ sou- 
+%6
+G > F E2 D2 z ^F G G F F G3 ^F/ E/ HF2 |]
+w:dain com- men- ce le mal sou- dain co- man- - - ce.
+
+X:4
+T:Una Canzon Francese doulce memoire
+C: Francis I
+O: From Diego Ortiz, El Primo Libro
+L:1/2
+M:C|
+%%MIDI nobarlines
+%%MIDI transpose -24
+K:D dorian bass
+T: Bassus
+%1
+d2-d2 f c d2 A2 z2 d2 f > g a f e2 A2 d2 d d g/ f/ e/ d/ c e d2 "A"c2-c2 f2 f f d/ e/ f/ g/ a e c A e2 e2 A2-A2
+w:Doul- * ce me- moir- e en plai- sir con- su- mé- e en plai- sir con- - - - - su- mé-  e * O siecl' heu- reulx _ _ _ _ qui cau- se tel sca- voir *
+%2
+d2-d2 f c d2 "B"A2 z2 d2 f > g a f e2 A2 d2 d d g/ f/ e/ d/ c e d2 "C"c2-c2 f2 f f d/ e/ f/ g/ a e c A e2 e2 A2-A2
+w:la * fer- me tés _ de nous deulx tant ai mé- - e de nous deulx _ _ _ tant ai- mé- e * qui a nous maulx _ _ _ _ a scun si bien pour- voir *
+%3
+d2 G G d3 d c A B B A2-A2 c2 c d e e g g f d e2
+w: Or main- te nent a per- du son poo- ír * rom-  pant le bruict de ma seuil  es- per- an-
+%4
+A2 d2 a d a2 d f g c d d "D"c2 c2 f3 e/ d/ a2 d2-d2 z c c c d d e2 A2 z F F F 
+w:ce ser- vant d'ex- am- ple a tous pi- teuls a- voir fi- nir _ _ le bien  * le mal sou- dain com- men- ce le mal sou-
+%5
+G G A2 d2 z2 f3 e/ d/ a2 d2-d2 z c c c d d e2 A2 z F F F G G A2 d2 z d
+w: dain com- men- ce fi- nir _  le bien * le mal sou- dain com- men- ce le mal sou- dain com- men- ce le
+%6
+G G d d G2-G2 Hd2 |]
+w:mal sou- dain com- men- * ce.

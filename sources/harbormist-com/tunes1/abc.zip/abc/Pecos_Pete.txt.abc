@@ -1,0 +1,36 @@
+X: 1
+T: Pecos Pete
+C: ©2006 Amy Zakar
+M: C|
+N: Q: 1/2=120
+L: 1/8
+Z: Transcribed by Pat Palmer
+R: reel
+K: A
+P:A melody
+|: "A" ({B}^c3) ({B}^c2)dcB | AcBA "D".F2.E2 | "A"({B}^c3) ({B}^c2-) c e2 | afec "D".B2.A2 |
+   "A" ({B}^c3) ({B}^c2)dcB | AcBA "D".F2.E2 | "A"EFAB "D"cfe=c |1  "E"BAFE "A"A2 "E"B2  :|2 "E"BAFE "A"A2 "C#/G#"G2 |
+P:B
+|: "F#m"FFcF FcFF| AcBA "E"GFEG | "F#m"FFcF FcAc | "C#7"!accent!=f3 ({e}f3) ^f2- |"F#m"f2 fa fec=c |
+    BAFE ^F2 "F"=F2| "E7"EEBE EBE!coda!=c |1  BAFE "A"A4  :|2  BAFE "A"A2 B2 |]\ 
+%%staffbreak 0.2cm
+P:Coda
+!coda! BAFE "A"A2 z2 | !fermata![A4E4A,4] 
+
+%%textfont Helvetica 10
+%%begintext
+R&O 2009, version 3
+%%endtext
+
+X: 2
+T: A with double stops (advanced fiddle)
+M: C|
+N: Q: 1/2=120
+L: 1/8
+R: reel
+K: A
+|: "A" ( {[eB]}[e3^c3] ) ( {[eB]}[e2^c2] ) [ed][ec][eB] | [eA][ec][eB][eA] "D".[A2F2].[A2E2] |\
+   "A"({[eB]}[e3^c3]) ({[eB]}[e2^c2]-) [ec] e2 | afec "D".[e2B2].[e2A2] |
+   "A" ( {[eB]}[e3^c3] ) ( {[eB]}[e2^c2] ) [ed][ec][eB] | [eA][ec][eB][eA] "D".[A2F2].[A2E2] |\
+   "A"EFAB "D"cfe=c |1  "E"BAFE "A"A2 "E"B2  :|2 "E"BAFE "A"A2 "C#/G#"G2 |]
+

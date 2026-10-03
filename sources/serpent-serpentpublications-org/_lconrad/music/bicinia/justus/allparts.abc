@@ -1,0 +1,75 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:5v. Justus cor suum,
+C:Orlando Lassusio
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:D dorian 
+T:Superius
+N:Original clef treble
+%1
+d8 f6 e d c2 A2 c3 d e2 A2 z2 A B c F f2 e4 z2 d2 c2 e2 f4
+w:Jus-  tus _ _ _ cor su- - - um tra- - - - - det ad vi- gi- lan-
+%2
+e2 c4 B A c B e2 g3 f e d e3 d c B c A d4 c2 "A"d4 z2 f2 e3 d/ c/
+w:dum di- - - - - - lu- - - - - - - - - - - cu- lo ad Do- - -
+%3
+B c d e f2 d2 c4 z2 e2 d3 c/ B/ A B c d e2 c2 B2 G2 A2 d2 e2 A2 z2 e2 d2 c2 f2 e d c3 d e2 c2
+w:- - - - - mi- num, ad Do- - - - - - - - mi- num qui fe- cit il- lum in con- spe- - - - - - - ctu
+%4
+G3 A B c d3 e f d e2 g3 f f4 e2 f4 "B"d8 d4 c3 B/ A/ B2 B2 A2 c4 c2 A B c A d c c B/ A/
+w:al- - - - - - - - - tis- - - si- mi de- * pre- ca- - - - bi- tur, de- pre- ca- - - - - - - -
+%5
+G C c4 B2 c4 z2 e4 d2 B c d B e d d c/ B/ A D d4 c2 Hd4 |]
+w:- - - bi- tur, de- pre- ca- - - - - - - - - - - - bi- tur. *
+
+X:2
+T:5v. Justus cor suum,
+C:Orlando Lassusio
+O: Bicinia, sive Cantionis
+H: transcribed from the Musica Alamire facsimile of the original 
+H: printed in Antwerp by Petrum Phalesium, 1609
+%%gchordfont Helvetica 12 box
+%%MIDI nobarlines
+M:C|
+L:1/4
+K:D dorian 
+T:Altus
+N:Original clef C on second line
+%1
+z8 D8 F6 E D C2 D2 F3 G A2 D2 z2 A B c F B2 A4 z2 D2 C2 E2 F4 E2 c4 B A
+w:Jus-  tus _ _ _ cor su- - - um tra- - - - - det ad vi- gi- lan- dum di- - -
+%2
+c B c2 A3 G F2 E D E3 E "A"D8 z2 c2 B3 A/ G/ F G A B c2 A2 G4 z2 B2
+w: - - - lu- - - - - - cu- lo  ad Do- - - - - - - - mi- num, ad
+%3
+F3 E/ D/ C D E F G2 E2 D2 B,2 C2 F2 G2 C2 z2 E2 D2 C2 F2 E D C3 D E2 C2 G3 A B c d2 c3 B A2 _B2
+w: Do- - - - - - - - mi- num qui fe- cit il- lum in con- spe- - - - - - -  ctu al- - - - - tis- - - si-
+%4
+G4 z2 "B"D3 E F D G F B2 G2 F3 E A4 G2 A4 F8 F4 E3 D/ C/ D2 D2 C8 G8 G4 F3 E/ D/ E2 E2 HD4 |]
+w:mi de- - - - - - - pre- ca- - -  bi- tur,  de-  pre- ca-  - - - bi- tur,  de-  pre- ca- - - - bi- tur. *
+W:Ecclesiasticus 39:6
+W:
+W:The just man will give his heart to resort early
+W:To the Lord that hath made him, and he will pray
+W:In the sight of the most high.

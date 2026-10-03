@@ -1,0 +1,27 @@
+X: 0
+T: Ciel d'Automne
+C: André Brunet
+M: 4/4
+L: 1/8
+Q: 1/4=90
+K: D
+V:1
+V:2
+V:3 clef=bass octave=-2
+V:1
+%%MIDI gchord off
+A/c/d/e/| "D"{e}fedc d2AF | "G"{F}G2 A>B "A"A2-A/G/F/E/| "D"D2dc "Bm"B3A |\
+"G"GF GB "A"A2 c/d/e/f/|
+"G"g3f "A"e2de| "D"{e}fdAF "G"G3A/B/ | "D"Addc "A"efge | "A"eddc "D"d2 ::
+dA |"G"B3 c/d/ "D"AF2A |"G"BGdc "D"A3A |"G"B3c/d/ "D"AFd2 | "Em"efg>f "A"e3f |
+"G"g2gf "A"e2de | "D"fdAF "G"G3A/B/| "D"Add>c "Em"efg>e | "A"ed{e}dc "D"d2 :|
+V:2
+z2 | AGFE F2D2 |B,2D2 C4 | D2FE D4 | B,2D2 E2A2 | B2G2 A2FG | A2FDB,2DE|
+F2G2 A4 | G2FEF2 ::
+z2 | G4 F2D2 | D2E2 F4 |G4F4 |GABG A4 | 
+B4 c2B2 | A2FD B,2DE | F4 GABA | G2FE F2:|
+V:3
+z2 | d'2a2 d4 | g2f>g a2ag | f2d2B4 | G2B2 A4 |
+G4 A4 | D2d2 G4 | d2B2 c4 |A4 d2 ::
+d2 | d8 | G4 D4 | G4 d4 | e4 c2A2 |
+G4 A4 | D4 G4 | d4  e4 |A4 d2:|

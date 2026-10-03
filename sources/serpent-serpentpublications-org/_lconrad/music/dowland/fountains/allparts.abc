@@ -1,0 +1,176 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:XV. Weepe you no more sad fountaines,
+T:CANTUS.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+M:C
+L:1/4
+K:F
+z2 d3 c/ c/ d B A A 
+w: 1.~Weepe you no more sad foun- taines,
+w: 2.~Sleepe is a re- con- cil- ing,
+z d | d2 c B e2 d2 |
+w: What need you flowe so fast,
+w: A rest that peace be- gets:
+z2 c3 =B/ B/ c G A F 
+w: Looke how the snow- ie moun- taines,
+w: Doth not the sunne rise smil- ing,
+z2 | B d2 B A > A G2 
+w: Heav'ns sunne doth gent- ly wast.
+w: When faire at ev'n he sets,
+|:A A B3 A/ G/ B c d4 |
+w: But my sunnes heav'n- * * ly eyes
+w: Rest you, then rest * * sad eyes,
+z2 z =B c d e2 d4 |
+w: View not your weep- ing.
+w: Melt not in weep- ing,
+z4 z2 g3 d | d f2 c e3 B B d2
+w: That nowe lie sleep- ing, sleep- * ing, 
+w: While she lies sleep- ing,  sleep- * ing, 
+A c3 G B3 F
+w: soft- ly, soft- ly sleep-  ing
+w: soft- ly, soft- ly sleep- ing
+ F A2 D G4 ^F E ^F2 F2
+w: Now soft- ly lies * * sleep- ing.
+w: Now soft- ly lies * * sleep- ing.
+
+X:2
+T:XV. Weepe you no more sad fountaines,
+T:ALTUS.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+N:Original clef, C on first line
+K:F
+B3 A > G G ^F G2 F G3/2
+w: 1.~Weepe, weepe you no more sad foun- taines,
+w: 2.~Sleepe, sleepe is a re- con- cil- ing,
+G/ B > A G/ G/ B2 A B2
+w: What need, what need you flowe so fast,
+w: A rest, a rest that peace be- gets:
+A3 G/ G/ A/ A/ F2 E 
+w: Looke how the snow- ie moun- taines,
+w: Doth not the sunne rise smil- ing,
+F2 D E/ F/ G/ A/ B > A G2 ^F G2
+w: Heav'ns sunne doth * * * gent- * * ly wast.
+w: When faire at * * * ev'n * * he sets,
+|:F F D2 G2 G G2 ^F/ E/ F2
+w: But my sunnes, my sunnes heav'n- ly * eyes
+w: Rest you, rest you, then rest sad * eyes,
+z2 z D G > F _E/ C/ G G2
+w: View not your weep- * * ing.
+w: Melt not in weep- * * ing,
+z d2 A A c2 G G  B2 F B2  G2
+w: That now lie sleep- ing, that now ly sleep- ing, 
+w: While she lies sleep- ing, while she lies sleep- ing, 
+z G2 D2 F2 C C > D E2 D2
+w: soft- ly soft- ly soft- * * ly 
+w: soft- ly soft- ly soft- * * ly 
+z D > C F2 F D2 D4 D4 :|
+w: that now soft- ly lies sleep- ing.
+w: that now soft- ly lies sleep- ing.
+
+X:3
+T:XV. Weepe you no more sad fountaines,
+T:TENOR.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+N:Original clef, C on third line
+%%MIDI transpose -12
+K:F -8va
+d2 G A B G A G d2 d2
+w: 1.~Weepe you no more, no more sad foun- taines,
+w: 2.~Sleepe is a re- con,- re- con- cil- ing,
+z d _e f e c f2
+w: What need you flowe so fast,
+w: A rest that peace be- gets:
+c4 c d G/ G/ c2 d
+w: Looke how the snow- ie moun- taines,
+w: Doth not the sunne rise smil- ing,
+B c d/ c/ B/ A/ G d d > d d2
+w: Heav'ns * * * * * sunne doth gent- ly wast.
+w: When * * * * * faire at ev'n he sets,
+|: z A2 G/ F/ B/ c/ d2 c B2 A2
+w: But my * sunnes * heav'n- * ly eyes
+w: Rest you, * then * rest * sad eyes,
+z d g > f _e d c2 =B2
+w: View not, view not your weep- ing.
+w: Melt not, melt not in weep- ing,
+z f2 c c _e2 B B > c d2 d2
+w: That nowe lie sleep- ing, sleep- * * ing, 
+w: While she lies sleep- ing,  sleep- * * ing, 
+z c2 G G B2 F A4 G g2 d2 
+w: that now ly sleep- ing soft- ly soft- ly
+w: that now ly sleep- ing soft- ly soft- ly
+f2 c d2 B2 A4 A4 :|
+w: Now soft- ly lie sleep- ing.
+w: Now soft- ly lie sleep- ing.
+
+X:4
+T:XV. Weepe you no more sad fountaines,
+T:BASSUS.
+C: John Dowland
+O: From The Third and Last Booke of Songs or Aires.
+O: Newly composed to sing to the Lute, Orpharion, or viols, 
+O: and a dialogue for a base and meane Lute with five voices to sing thereto.
+%%MIDI nobarlines
+%%MIDI ratio 3 1
+M:C
+L:1/4
+%%MIDI transpose -24
+K:D phr bass
+g3 ^f/ f/ g e d d 
+w: 1.~Weepe you no more sad foun- taines,
+w: 2.~Sleepe is a re- con- cil- ing,
+z d B G g f e d c > c B2
+w: What need you flowe, what need you flowe so fast,
+w: A rest that peace, a rest that peace be- gets:
+f3 e/ e/ f d c2 F
+w: Looke how the snow- ie moun- taines,
+w: Doth not the sunne rise smil- ing,
+B2 A G > A B > c d d  G2
+w: Heav'ns sunne doth _ gent- * * ly wast.
+w: When faire at _  ev'n * * he sets,
+|: d d d2 e3 e d2 
+w: But my sunnes heav'n- ly eyes
+w: Rest you, then rest sad eyes,
+d g > f e d c =B B c2 G
+w: View not, view now your weep- ing, your weep- ing.
+w: Melt not, melt not in weep- ing, in weep- ing,
+g2 d d f2 c e4 B4 c4 G2 B2 F4 G2
+w: That nowe lie sleep- ing,  soft- ly soft- ly now soft-ly 
+w: While she lies sleep- ing,  soft- ly soft- ly now soft-ly 
+ g2 d2 f2 B3 c d4 d4 :|
+w: Now soft- ly lies * sleep- ing.
+w: Now soft- ly lies * sleep- ing.
+

@@ -1,0 +1,15 @@
+X:308
+T:III. Allegro
+C:Almeida, Francisco A. de (c.1702-?1755)
+M:3/8
+L:1/8
+K:F
+V: 8 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 8 ]
+%---------
+[Q:"Allegro"] F,2z|F,2C,| F,2z|F,2C,| F,F,,F, | E,E,,E, | D,D,,D, | C,2z| C,2F,, | \
+C,2z|E,D,C,|G,,2z|=B,,2z|G,,2z|C,F,G,|C,F,G,|C,E,G,|CC,C,|C,C,C,| \
+C,3::C,2z|C,2G,,|C,2G,,|C,2z|CC,C|_B,B,,B,|A,A,,A,|G,2z| CC,B,| \
+A,=B,^C| D,E,F,| G,A,A,,| D,2z | G,,=B,,G,, | C,2z | F,B,C | F,B,C | F,F,,F,, | F,F,,F,, | F,F,,F,, | F,,3 :|\
+%---------

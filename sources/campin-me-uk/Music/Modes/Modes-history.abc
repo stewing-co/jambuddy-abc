@@ -1,0 +1,370 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+
+History of Mode Concepts: from the Renaissance to Ancient Sumeria
+=================================================================
+
+The modal system best known to folk musicians was described by Glarean
+(or Glareanus) in the Renaissance, adapted by the English folksong scholar
+Lucy Broadwood late in the 19th century.  It's one of hundreds of modal
+systems intended to describe dozens of different kinds of music and with
+several fundamentally different purposes.
+
+Glarean's system was built on the Gregorian modal system, which was first
+defined in the 9th century.  There were rival forms of Christian chant
+that it didn't apply to - the Ambrosian chant of the early Western church
+that still continued in use (it was a chaotic mixture of older liturgical
+and folk music that defied any theoretical explanation), the Mozarabic
+chant of Spain, the Byzantine system (with its own theory that mixed
+Greek, Hebrew and Arabic ideas) and the chants of Armenia, the Syriac
+church and Ethiopia.
+
+The modal system even oversimplified Gregorian chant to some extent, and
+was continually revised and adapted to local practices all over Europe
+for centuries.  Perhaps music theory was seen as something you could argue
+about without the risk of being condemned as a heretic, so it turned into
+an intellectual boxing ring for 1000 years.
+
+The Gregorian system recognized only four authentic and four plagal modes.
+Its main target was classifying only a part of the chant repertoire, the
+"psalm tones", melodies used for singing psalms to.  In Cistercian
+monasteries there were only nine psalm tones, one for each of the modes
+and one extra.  (Other orders could use as many as 13).  The modal system
+described more than the scale and final note, with each mode having
+
+ - a RANGE or AMBITUS, which varied according to the theorist; it was
+   usually a ninth like the bagpipes, but could be just an octave or as
+   much as an octave and a fifth,
+ - an INTONATION (opening cadence)
+ - a RECITING TONE (a repeated monotone in the middle)
+ - an ENDING
+ - and (for some psalms) a FLEX or SECOND INTONATION (a linking note or
+   cadence between two phrases sung on the reciting tone).
+
+The reciting tone is sometimes called the "dominant" or "modal dominant";
+it doesn't have an associated chord like the "dominant" of later music,
+and isn't always a fifth away from the tonal centre.  It was chosen to
+be near the middle of the range, so the authentic and plagal forms of
+a mode had different reciting tones.  For some modes it changed over
+the centuries.  Ambrosian chant had too wide a variety of reciting tones
+to classify.
+
+Here are the modes with their ranges and reciting tones, as described in
+the ninth century.  First a "vertical" presentation of the system used
+in the anonymous treatise "Alia Musica":
+
+X:0
+T:Plagal modes
+N:The upper number is the octave species, the lower number the mode
+N:the top and bottom notes are the limits of the range
+N:the middle note is the mediant final
+M:none
+L:1/1
+K:C
+"^1" "_II"   [A,DA]\
+"^2" "_IV"   [B,EB]\
+"^3" "_VI"   [CFc]\
+"^4" "_VIII" [DGd]||
+
+X:0
+T:Authentic modes
+N:The upper number is octave species, the lower number is the mode
+N:the top and bottom notes are the limits of the range
+N:the middle note is the mediant reciting tone
+N:the bottom note is the final
+M:none
+L:1/1
+K:C
+"^4" "_I"   [DAd]\
+"^5" "_III" [EBe]\
+"^6" "_V"   [Fcf]\
+"^7" "_VII" [Gdg]||
+
+And here is a horizontal presentation of the system of Odo of Cluny,
+which was less formally sophisticated but described a wider range
+of tunes.  I've split the authentic ones into rising and falling forms
+and the plagal ones into notes below the tonal centre and those above.
+The reciting tones are stated at the beginning and in the middle.
+
+X:0
+T:Mode I, Dorian
+M:none
+L:1/4
+K:DDor
+A8|D2 C D E F G A B c d4|A8|d2 c B A G F E D C D4|]
+
+X:0
+T:Mode II, Hypodorian
+M:none
+L:1/4
+K:DDor
+F8|D2 C D E F G A B c d4|F8|d2 c B A G F E D C D4|]
+
+X:0
+T:Mode III, Phrygian
+M:none
+L:1/4
+K:EPhr
+c8|E2 D E F G A B c d e4|c8|e2 d c B A G F E D E4|]
+
+X:0
+T:Mode IV, Hypophrygian
+M:none
+L:1/4
+K:EPhr
+A8|E2 D C B, A, B, C D E4|A8|E2 F G A B c B A G F E4|]
+
+X:0
+T:Mode V, Lydian
+M:none
+L:1/4
+K:FLyd
+c8|F2 E F G A B c d e f4|c8|f2 e d c B A G F E F4|]
+
+X:0
+T:Mode VI, Hypolydian
+M:none
+L:1/4
+K:FLyd
+A8|F2 E D C D E F4|A8|F2 G A B c d c B A G F4|]
+
+X:0
+T:Mode VII, Mixolydian
+M:none
+L:1/4
+K:GMix
+d8|G2 F G A B c d e f g a g4|d8|g2 a g f e d c B A G F G4|]
+
+X:0
+T:Mode VIII, Hypomixolydian
+M:none
+L:1/4
+K:GMix
+c8|G2 F E D C D E F G4|c8|G2 A B c d e d c B A G4|]
+
+One psalm tone, used only for psalm 113, "In exitu Israel",
+didn't fit the system.  It had two parts with different
+reciting tones.  It was not given any mode, and was named
+the "tonus peregrinus" (pilgrim's tune).  It may have come
+from Byzantine chant or some other Middle Eastern tradition
+older than Gregorian chant.  A very similar tune is used
+for the same psalm in Yemenite Jewish liturgy, and the fall
+of a tone between the two reciting tones is still current
+in the music of the Syrian Orthodox Church.  And there are
+several variants of the Gregorian Tonus Peregrinus from
+different parts of Europe.  Its sequence of pitches is D minor
+authentic.  A variant of it (with a rising ending) is the
+chant of the Teutonic Knights in Prokofiev's music for
+Eisenstein's film "Alexander Nevsky" - this has now found an
+even wider audience on soundtracks for computer games.
+
+X:0
+T:Tonus Peregrinus
+S:Oxford History of Music
+M:none
+L:1/4
+Q:1/4=120
+K:DMin
+ABAAAAAGBAGFAAAAAAADFFED||
+A4 AGA4GBAGFFG4G4DFFED|]
+
+X:0
+T:Tonus peregrinus
+S:Commemoratio brevis, via New Grove Encyclopaedia
+M:none
+L:1/4
+Q:1/4=120
+K:DDor
+A(BA)A AAA AAG AG||AAA AGG GG GGF DFF(ED)||
+
+Glarean added four more modes, the authentic and plagal
+forms of the minor and major modes.
+
+X:0
+T:Mode IX, Aeolian
+M:none
+L:1/4
+K:AMin
+e8|A2 G A B c d e f g a4|e8|a2 g f e d c B A G A4|]
+
+X:0
+T:Mode X, Hypoaeolian
+M:none
+L:1/4
+K:AMin
+c8|A2 G F E D E F G A4|A8|A2 B c d e d c B A4|]
+
+X:0
+T:Mode XI, Ionian
+M:none
+L:1/4
+K:C
+g8|c2 B c d e f g a b c'4|g8|c'2 b a g f e d c B c4|]
+
+X:0
+T:Mode XII, Hypoionian
+M:none
+L:1/4
+K:C
+e8|c2 B A G F G A B c4|e8|c2 d e f g f e d c4|]
+
+Glarean idealized the modes to one-octave ranges and paired
+modes that had a range in common:
+
+A, to A: aeolian & hypodorian
+B, to B: hypophrygian
+C  to c: ionian & hypolydian
+D  to d: dorian & hypomixolydian
+E  to e: phrygian & hypoaeolian
+F  to f: lydian
+G  to g: mixolydian & hypoionian
+
+This is much like what you have to do when fitting modes to the
+bagpipe.
+
+The Gregorian system's main antecedent was the version of Greek
+music theory due to Boethius in the fourth century.  Boethius's
+idea of mode contained no concept of tonal centre or melodic
+structure - it was simply a way of fitting the seven different
+octave species (sequences of tones and semitones) into a single
+octave, the "characteristic octave" selected from the two octaves
+of the usefully describable music of his time.  This two-octave
+scale was modified by accidentals.  There was no implication that
+E was the final.  The system was a calculational aid to help you
+transpose melodies to fit your instrument while retaining their
+relative intervals, it wasn't intended to say anything about the
+internal structure of the melodies.
+
+He used the ancient Greek names for the modes.  None of them have
+the same meanings as in mediaeval or Renaissance theory, and I'll
+leave it as an exercise to work out which is which.
+
+X:0
+T:Boethius's system
+N:Double octave with changing key sig, shifted around a static
+N:characteristic octave E-e
+M:none
+L:1/1
+K:EMin
+P:Hypodorian
+E,F,G,A,B,CD|EFGABcde| ||
+K:EMix
+P:Hypophrygian
+F,G,A,B,CD|EFGABcde|f||
+K:ELyd
+P:Hypolydian
+G,A,B,CD|EFGABcde|fg||
+K:EPhr
+P:Dorian
+A,B,CD|EFGABcde|fga||
+K:EDor
+P:Phrygian
+B,CD|EFGABcde|fgab||
+K:E
+P:Lydian
+CD|EFGABcde|fgabc'||
+K:ELoc
+P:Mixolydian
+D|EFGABcde|fgabc'd'|]
+
+The Greek system ultimately derived from the modes of ancient
+Mesopotamia.  These are described on Akkadian cuneiform tablets
+which give tuning procedures for the lyre, up and down from
+string to string in fourths and fifths.  The names of the modes
+derive from the names of intervals between pairs of strings on
+the lyre.
+
+Akkadian name    Translation              Greek name     Modern name
+
+isartu           normal                   dorian         phrygian
+kitmu            closed                   hypodorian     minor
+embubu           reed pipe                phrygian       dorian
+putu             open                     hypophrygian   mixolydian
+nid qabli        fall of the middle       lydian         major
+nis gabari       rise of the duplicate    hypolydian     lydian
+
+The name of the third mode suggests that, even 3000 years ago on the
+banks of the Euphrates, pipers had their own scale and the string
+players had to consciously emulate it to nick their tunes.
+
+There are a few examples of Scottish tunes that to some extent
+fit the more elaborated Gregorian modal system with its fixed
+cadences and reciting tones, but it's not clear whether they're
+any more than flukes.  This song does recite on a single note
+for a long time, but it's the tonal centre:
+
+X:0
+T:Maggie Lauder
+S:Scots Musical Museum 98
+M:4/4
+L:1/8
+Q:1/4=100
+K:A
+E|AA  Ac AA  Ac|B>c BA {A}G2B>d  |cA AA A>B Ac|e>f ed {d}c2e>c|
+  d>e df c>d ce|B>c BA    G2BF/G/|AA Ac B>c Bd|ce  B>c   A2A2|]
+
+And this very old song recites on the tonal centre in its first half
+and inverts the form of the Tonus Peregrinus by reciting a tone higher
+in the second half, before wandering up to finish indefinitely on the
+fifth above in a way no chant ever did:
+
+X:0
+T:Clout the Cauldron
+S:Orpheus Caledonius 1733
+M:4/4
+L:1/8
+Q:1/2=80
+K:C
+cccc ccce|dcBA B2AG|Gccc ccce|dcBA B2AG |
+ddde agec|ddde a2ge|edde agec|edde a2g2|]
+
+The first half (the verse) of this Northumbrian song is more like
+the chant model, in the aeolian authentic mode reciting on e:
+
+X:0
+T:Bonny at Morn
+M:3/4
+L:1/8
+Q:1/4=120
+K:AMin
+B2|e3  f ed|e2 A2 Bc|d3  c BA|G2A2
+B2|e3  f ed|e2 A2 Bc|d2 B2 G2|A4:|
+z2|A2 a2 a2|A4    Bc|B2 g2 g2|G4
+B2|AG AB cd|e2 a2 g2|e2 g2 B2|A4:|
+
+This pipe reel in A mixolydian/dorian hexatonic reiterates the fifth
+as determinedly as any psalm singer:
+
+X:0
+T:Lexie McAskill
+C:Dr John McAskill
+M:C|
+L:1/8
+Q:1/2=108
+K:Hp
+e>a|e2e2   d>ee>d|e2d>B  G>BB>d|e2e2   d>ee>d|e>gf>d e2:|
+e>f|g2f2   e2d>B |A2d>B  G>BB>e|g2f2   e2d>B |e>gf>d e2:|
+e>a|e2e2   e2d>B |A>AA>B G>AB<d|e2e2   e2d>B |e>gf>d e2:|
+g2 |a>ee>a e<ed>B|A2d>B  G>BB>e|a>ee>a e<ed>B|e>gf>d e2:|
+
+but it's a 20th century tune written by someone who probably knew
+Gregorian chant firsthand, rather than any kind of folk survival
+of similar music.
+
+Folk music and chant are more different than lumping them both
+together as "modal" would suggest.  The theorist Grocheio had
+already considered using the church mode system to describe folk
+music in the 13th century and decided it wouldn't work.  In the
+form he knew it, he was right.
+
+
+=============================================================================
+==  (c) Jack Campin         http://www.campin.me.uk/         October 2012  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

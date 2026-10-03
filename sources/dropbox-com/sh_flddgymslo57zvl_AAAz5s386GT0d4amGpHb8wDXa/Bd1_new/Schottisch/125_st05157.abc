@@ -1,0 +1,53 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch GC chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.383 (st05157) orig. G,C-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+((3d/e/d/) |: "G"BB d>B | "D7"cc d>c | ff c2 | "G"B/c/d/e/ d((3d/e/d/) | BB d>B | "D7"cc d>c | ff e>f |1 "G"gg g((3d/e/d/) :|2 
+"G"gg gd |:  "D7"f>d a>d |  "G"b2 b/a/g/f/ | "D7"e!>!d2f | "G"g/f/g/a/ bd |  "D7"f>d a>d |  "G"b2 b/a/g/f/ | "D7"ed b>a |1 "G"gg gd :|2 
+"G"gg gz [K:C] |:  "C"c>d ec | a3e | "G7"g>f d>c | B4 | de fd | b3a | g>f e>d |1 "C"cag2 :|2 "C"cc' c'z |]  
+%June 9, 2016
+X:2
+T:Schottisch CF 7- chords
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+((3G/2A/2G/2) |: "C"EE G>E | "G7"FF G>F | BB F2 | "C"E/2F/2G/2A/2 G((3G/2A/2G/2) | EE G>E | "G7"FF G>F | BB A>B |1 "C"cc c((3G/2A/2G/2) :|2 
+"C"cc cG |: "G7"B>G d>G | "C"e2 e/2d/2c/2B/2 | "G7"A!>!G2B | "C"c/2B/2c/2d/2 eG | "G7"B>G d>G | "C"e2 e/2d/2c/2B/2 | "G7"AG e>d |1 "C"cc cG :|2 
+"C"cc cz [K:F] |: "F"F>G AF | d3A | "C7"c>B G>F | E4 | GA BG | e3d | c>B A>G |1 "F"Fdc2 :|2 "F"Ff fz |] 
+X:3
+T: Schottisch GC (5letras transposed)
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+((3d/e/d/) |: "G"BB d>B | "D7"cc d>c | ff c2 | "G"B/c/d/e/ d((3d/e/d/) | BB d>B | "D7"cc d>c | ff e>f |1 "G"gg g((3d/e/d/) :|2 
+"G"gg gd |:  "D7"f>d a>d |  "G"b2 b/a/g/f/ | "D7"e!>!d2f | "G"g/f/g/a/ bd |  "D7"f>d a>d |  "G"b2 b/a/g/f/ | "D7"ed b>a |1 "G"gg gd :|2 
+"G"gg gz [K:C] |:  "C"c>d ec | a3e | "G7"g>f d>c | B4 | de fd | b3a | g>f e>d |1 "C"cag2 :|2 "C"cc' c'z |]  
+%June 9, 2016
+X:4
+T:Schottisch CF (5letras transposed)
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+((3G/2A/2G/2) |: "C"EE G>E | "G7"FF G>F | BB F2 | "C"E/2F/2G/2A/2 G((3G/2A/2G/2) | EE G>E | "G7"FF G>F | BB A>B |1 "C"cc c((3G/2A/2G/2) :|2 
+"C"cc cG |: "G7"B>G d>G | "C"e2 e/2d/2c/2B/2 | "G7"A!>!G2B | "C"c/2B/2c/2d/2 eG | "G7"B>G d>G | "C"e2 e/2d/2c/2B/2 | "G7"AG e>d |1 "C"cc cG :|2 
+"C"cc cz [K:F] |: "F"F>G AF | d3A | "C7"c>B G>F | E4 | GA BG | e3d | c>B A>G |1 "F"Fdc2 :|2 "F"Ff fz |] 
+X:5
+T:Schottisch D&G (tinwhistle in D)
+T: st05157 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:2/4
+L:1/8
+K:D transpose=12 %%MIDI gchordon
+((3A/2B/2A/2) |: "D"FF A>F | "A7"GG A>G | cc G2 | "D"F/2G/2A/2B/2 A((3A/2B/2A/2) | FF A>F | "A7"GG A>G | cc B>c |1 "D"dd d((3A/2B/2A/2) :|2 
+"D"dd dA |: "A7"c>A e>A | "D"f2 f/2e/2d/2c/2 | "A7"B!>!A2c | "D"d/2c/2d/2e/2 fA | "A7"c>A e>A | "D"f2 f/2e/2d/2c/2 | "A7"BA f>e |1 "D"dd dA :|2 
+"D"dd dz [K:Gmaj] |: "G"G>A BG | e3B | "D7"d>"_c"c A>G | F4 | AB "_c"cA | f3e | d>"_c"c B>A |1 "G"Ged2 :|2 "G"Gg gz |] 
+W:
+W: for tin whistle TABs go to: 
+W: http://www.mandolintab.net/abcconverter.php
+W: " Tablatur: Whistle - key: D "

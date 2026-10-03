@@ -1,0 +1,62 @@
+X:409
+T:Sanctus
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 9 clef=bass name="Basso" sname="B."
+%%MIDI program 1 1
+%%staves [[ 9 ]]
+%-----------------
+%  fol.164
+[Q:"Allegro Maestoso"] !ff!C,2C,z | \
+w: San-ctus
+!f!C,2C,z | \
+w: San-ctus
+!f!=B,3G, |  \
+w: San-ctus
+%  fol.165
+C2Cz | Z2 | \
+w: San-ctus
+!f! G,2G,G, | G,2G,G, |  G,2G,G, |  G,2G,z | \
+w: Ple-ni sunt Coe-li sunt Coe-li et ter-ra
+!f! B,2B,B, | B,2B,z | \
+w: Glo-ri-a tu-a
+B,2B,B, | B,2B,z | Z |\
+w: Glo-ri-a tu-a
+%  fol.167
+!f!(_A,G,)F,E, | D,2E,z | Z | !fermata! Z || [Q:"Allegro Moderato"][M:6/8][L:1/8][K:Eb] z | Z3 | z2z \
+w: Glo--ri-a tu-a
+%  fol.168
+!p! G,3 | F,3 B,,3 | E,3 !p! A,3 | D,3 G,3 | C,2zz2z | Z | z2zz2 \
+w: Ho-san-na in ex-cel--sis
+!f! =D, | E,2=E,F,2^F, | G,6 | C,2zz2z | z2zz2 \
+w: Ho-san-na in ex-cel-sis
+!f! C | _D3 !f!C2=D | E2_D C2=A, | G,6 | C2zz2z | z2z \
+w: Ho-san-na Ho-san-na in ex-cel-sis
+%  fol.170
+!p! B,,3 | E,2E, A,,2A,, | D,3 G,3 | C,2z \
+w: Ho-san-na in ex-cel--sis
+!p! C,2 ^F, | G,6 | C,2z \
+w: in ex-cel-sis
+!f! C2C | G,6 | C,2zz2z | Z3 | \
+w: in ex-cel-sis
+!p! C,3C,3 | C,3C,2z | Z2 | \
+w: Hn ex-cel-sis
+!p! C,3C,3 | C,3C,2z | !fermata! "_[ sic ]" z4 || \
+w: in ex-cel-sis
+%  fol.172]
+[Q:"Largetto"][M:6/8][L:1/8][K:Ab] "^Benedictus"!p! Z | z2zz2 \
+!p!A,, | D, D, D, D,2D, | A,zzz2z | Z2 | \
+w: in no-mi-ne Do-mi-ni
+!p! A,,2A,, D, D, D, | C, C, C,  !p! D, D, D, | C,/> C,/ C, C, D, D, D, | !p! C,2C,!fermata!C,2 || [Q:"Allegro Moderato"][M:6/8][L:1/8][K:F] z | z2zz2\
+w: Be-ne-di-ctus qui ve-nit in no-mi-ne Do-mi-ni in no-mi-ne Do-mi-ni
+!f! C | B,3A,2z | z2zz2 \
+w: ex-cel-sis
+!f! B, | A,2G,F,2!f!F, | F,2F,F,2F, | F,3F,2!f!F, | F,2F,F,2F, | F,2C, F,2z | Z | \
+w: ex-cel--sis Ho-san-na in ex-cel--sis Ho-san-na in ex-cel-sis
+DC =B,C3 | F,2zz2z | z2z \
+w: in ex-cel--sis
+!p! _D,2D, | C,6 | F,2zz2z | Z6 |]\
+w: in ex-cel-sis
+%-----------------

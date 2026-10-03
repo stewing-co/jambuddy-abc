@@ -1,0 +1,72 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Termer Schottisch  GC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.256 (st00943) orig. G,C-Dur
+T:Walliser (Volks-)T\"anze. S.234-276
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G %%MIDI gchordon
+"G"BBB2 "D7"ccc2 | "G"ddd2 b2b2 | "D7"ccc2 a2a2 | "G"BBB2 g2g2 | BBB2 "D7"ccc2 | "G"ddd2 b2b2 | "D7"ccc2 g3f | "G"g2g2 g2z2 :: [K:C]
+"C"e4G4 | "G7"f2B2 BBB2 | f4B4 | "C"a2g2 ggg2 | c'4b4 | "Dm/F"a2d2 ddd2 |1 "G7"b4a4 | "C"g2c2 c2cc :|2 "G7"b3a gfed | "C"c2c2 c2z2 |] 
+W:
+W: s. "Termer Walzer" (wz00947) Bd.VI, p269
+X:2
+T:Termer Schottisch  CF 7-
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C%%MIDI gchordon
+"C"EEE2 "G7"FFF2 | "C"GGG2 e2e2 | "G7"FFF2 d2d2 | "C"EEE2 c2c2 | EEE2 "G7"FFF2 | "C"GGG2 e2e2 | "G7"FFF2 c3B | "C"c2c2 c2z2 :: [K:F]
+"F"A4C4 | "C7"B2E2 EEE2 | B4E4 | "F"d2c2 ccc2 | f4e4 | "Gm/Bb"d2G2 GGG2 |1 "C7"e4d4 | "F"c2F2 F2FF :|2 "C7"e3d cBAG | "F"F2F2 F2z2 |] 
+% st00943
+X:3
+T: Termer Schottisch  GC (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:G transpose=3 %%MIDI gchordon
+"G"BBB2 "D7"ccc2 | "G"ddd2 b2b2 | "D7"ccc2 a2a2 | "G"BBB2 g2g2 | BBB2 "D7"ccc2 | "G"ddd2 b2b2 | "D7"ccc2 g3f | "G"g2g2 g2z2 :: [K:C]
+"C"e4G4 | "G7"f2B2 BBB2 | f4B4 | "C"a2g2 ggg2 | c'4b4 | "Dm/F"a2d2 ddd2 |1 "G7"b4a4 | "C"g2c2 c2cc :|2 "G7"b3a gfed | "C"c2c2 c2z2 |] 
+% st00943
+X:4
+T:Termer Schottisch  CF (5letras transposed)
+%%MIDI program 21
+R:shottishe
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"EEE2 "G7"FFF2 | "C"GGG2 e2e2 | "G7"FFF2 d2d2 | "C"EEE2 c2c2 | EEE2 "G7"FFF2 | "C"GGG2 e2e2 | "G7"FFF2 c3B | "C"c2c2 c2z2 :: [K:F]
+"F"A4C4 | "C7"B2E2 EEE2 | B4E4 | "F"d2c2 ccc2 | f4e4 | "Gm/Bb"d2G2 GGG2 |1 "C7"e4d4 | "F"c2F2 F2FF :|2 "C7"e3d cBAG | "F"F2F2 F2z2 |] 
+% st00943
+X:5
+T:Termer Schottisch D&G (tinwhistle in D)
+T:st00943 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:Dmaj%%MIDI gchordon
+"D"FFF2 "A7"GGG2 | "D"AAA2 f2f2 | "A7"GGG2 e2e2 | "D"FFF2 d2d2 | FFF2 "A7"GGG2 | "D"AAA2 f2f2 | "A7"GGG2 d3c | "D"d2d2 d2z2 :: [K:Gmaj]
+"G"B4D4 | "D7"c2F2 FFF2 | c4F4 | "G"e2d2 ddd2 | g4f4 | "Am/C"e2A2 AAA2 |1 "D7"f4e4 | "G"d2G2 G2GG :|2 "D7"f3e dcBA | "G"G2G2 G2z2 |] 
+X:6
+T:Termer Schottisch D&G (tinwhistle in D) solo
+T:st00943 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottishe
+M:2/4
+L:1/16
+K:D transpose=12
+FFF2 GGG2 | AAA2 f2f2 | GGG2 e2e2 | FFF2 d2d2 | FFF2 GGG2 | AAA2 f2f2 | GGG2 d3c | d2d2 d2z2 :: [K:Gmaj]
+B4D4 | "_c"c2F2 FFF2 | "_c"c4F4 | e2d2 ddd2 | g4f4 | e2A2 AAA2 |1 f4e4 | d2G2 G2GG :|2 f3e d"_c"cBA | G2G2 G2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 29, 2016

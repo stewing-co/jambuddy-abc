@@ -1,0 +1,120 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: L\"andler  EbBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.300 (LD06010) orig. Eb,Bb-Dur
+T: Berner Oberland. T\"anze aus Brienzwiler und Halisberg. S.278-338
+T: Aus dem Repertoire von Peter Alplanalp und Hans Th\"oni, 2. Oktober 1949
+%%MIDI program 21
+R:Laendler
+M:3/4
+L:1/8
+K:Eb %%MIDI gchordon
+EE | ("Eb"EG) Be Ge | "Bb7"dF BdA2 | (dF) Bd Ad | ("Eb"eG) Beg2 | EG Be Ge | "Bb7"dF BdA2 | dF Bd Ad | 
+"Eb"e2z2BB || "Bb7"B3AA2 | "Eb"G2B4 | "Bb7"D2A3D | "Eb"EG Be dc | "Bb7"cB A3D | "Eb"E2G3e | "Bb7"Bd Ad Ad | "Eb"e2z2z2 || [K:Bb]
+"Bb"=EF FB df | "Eb"^FG GC E2 | "F7"=EF fF _e2 | "Bb"dA BdF2 | =EF EF EF | "Eb"^FG FG FG | "F7"^GA GA GA | "Bb"B2z2 ((3fef) || 
+"F7"gf eA cF | "Bb"dA BDF2 | "F7"CA GF EA | "Bb"BD FdB2 | "F7"gf eA cF | "Bb"dA BDF2 | "F7"EE cF eA | "Bb"B2z2z2 |] 
+X:2
+T:L\"andler  FC 2+
+%%MIDI program 21
+R:Laendler
+M:3/4
+L:1/8
+K:F %%MIDI gchordon
+FF | ("F"FA) cf Af | "C7"eG ceB2 | (eG) ce Be | ("F"fA) cfa2 | FA cf Af | "C7"eG ceB2 | eG ce Be | 
+"F"f2z2cc || "C7"c3BB2 | "F"A2c4 | "C7"E2B3E | "F"FA cf ed | "C7"dc B3E | "F"F2A3f | "C7"ce Be Be | "F"f2z2z2 || [K:C]
+"C"^FG Gc eg | "F"^GA AD F2 | "G7"^FG gG =f2 | "C"eB ceG2 | ^FG FG FG | "F"^GA GA GA | "G7"^AB AB AB | "C"c2z2 ((3gfg) || 
+"G7"ag fB dG | "C"eB cEG2 | "G7"DB AG FB | "C"cE Gec2 | "G7"ag fB dG | "C"eB cEG2 | "G7"FF dG fB | "C"c2z2z2 |] 
+% LD06010
+X:3
+T:L\"andler  CG 3-
+%%MIDI program 21
+R:Laendler
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+CC | ("C"CE) Gc Ec | "G7"BD GBF2 | (BD) GB FB | ("C"cE) Gce2 | CE Gc Ec | "G7"BD GBF2 | BD GB FB | 
+"C"c2z2GG || "G7"G3FF2 | "C"E2G4 | "G7"B,2F3B, | "C"CE Gc BA | "G7"AG F3B, | "C"C2E3c | "G7"GB FB FB | "C"c2z2z2 || [K:G]
+"G"^CD DG Bd | "C"^DE EA, C2 | "D7"^CD dD =c2 | "G"BF GBD2 | ^CD CD CD | "C"^DE DE DE | "D7"^EF EF EF | "G"G2z2 ((3dcd) || 
+"D7"ed cF AD | "G"BF GB,D2 | "D7"A,F ED CF | "G"GB, DBG2 | "D7"ed cF AD | "G"BF GB,D2 | "D7"CC AD cF | "G"G2z2z2 |] 
+% LD06010
+X:4
+T:L\"andler  CG 9+
+%%MIDI program 21
+R:Laendler
+M:3/4
+L:1/8
+K:C %%MIDI gchordon
+cc | ("C"ce) gc' ec' | "G7"bd gbf2 | (bd) gb fb | ("C"c'e) gc'e'2 | ce gc' ec' | "G7"bd gbf2 | bd gb fb | 
+"C"c'2z2gg || "G7"g3ff2 | "C"e2g4 | "G7"B2f3B | "C"ce gc' ba | "G7"ag f3B | "C"c2e3c' | "G7"gb fb fb | "C"c'2z2z2 || [K:G]
+"G"^cd dg bd' | "C"^de eA c2 | "D7"^cd d'd =c'2 | "G"bf gbd2 | ^cd cd cd | "C"^de de de | "D7"^ef ef ef | "G"g2z2 ((3d'c'd') || 
+"D7"e'd' c'f ad | "G"bf gBd2 | "D7"Af ed cf | "G"gB dbg2 | "D7"e'd' c'f ad | "G"bf gBd2 | "D7"cc ad c'f | "G"g2z2z2 |] 
+% LD06010
+X:5
+T:L\"andler  FC (5letras transposed)
+%%MIDI program 21
+R:Laendler
+M:3/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+FF | ("F"FA) cf Af | "C7"eG ceB2 | (eG) ce Be | ("F"fA) cfa2 | FA cf Af | "C7"eG ceB2 | eG ce Be | 
+"F"f2z2cc || "C7"c3BB2 | "F"A2c4 | "C7"E2B3E | "F"FA cf ed | "C7"dc B3E | "F"F2A3f | "C7"ce Be Be | "F"f2z2z2 || [K:C]
+"C"^FG Gc eg | "F"^GA AD F2 | "G7"^FG gG =f2 | "C"eB ceG2 | ^FG FG FG | "F"^GA GA GA | "G7"^AB AB AB | "C"c2z2 ((3gfg) || 
+"G7"ag fB dG | "C"eB cEG2 | "G7"DB AG FB | "C"cE Gec2 | "G7"ag fB dG | "C"eB cEG2 | "G7"FF dG fB | "C"c2z2z2 |] 
+% LD06010
+X:6
+T:L\"andler  CG (5letras transposed)
+%%MIDI program 21
+R:Laendler
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+CC | ("C"CE) Gc Ec | "G7"BD GBF2 | (BD) GB FB | ("C"cE) Gce2 | CE Gc Ec | "G7"BD GBF2 | BD GB FB | 
+"C"c2z2GG || "G7"G3FF2 | "C"E2G4 | "G7"B,2F3B, | "C"CE Gc BA | "G7"AG F3B, | "C"C2E3c | "G7"GB FB FB | "C"c2z2z2 || [K:G]
+"G"^CD DG Bd | "C"^DE EA, C2 | "D7"^CD dD =c2 | "G"BF GBD2 | ^CD CD CD | "C"^DE DE DE | "D7"^EF EF EF | "G"G2z2 ((3dcd) || 
+"D7"ed cF AD | "G"BF GB,D2 | "D7"A,F ED CF | "G"GB, DBG2 | "D7"ed cF AD | "G"BF GB,D2 | "D7"CC AD cF | "G"G2z2z2 |] 
+% LD06010
+X:7
+T:L\"andler  CG (5letras transposed)
+%%MIDI program 21
+R:Laendler
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+cc | ("C"ce) gc' ec' | "G7"bd gbf2 | (bd) gb fb | ("C"c'e) gc'e'2 | ce gc' ec' | "G7"bd gbf2 | bd gb fb | 
+"C"c'2z2gg || "G7"g3ff2 | "C"e2g4 | "G7"B2f3B | "C"ce gc' ba | "G7"ag f3B | "C"c2e3c' | "G7"gb fb fb | "C"c'2z2z2 || [K:G]
+"G"^cd dg bd' | "C"^de eA c2 | "D7"^cd d'd =c'2 | "G"bf gbd2 | ^cd cd cd | "C"^de de de | "D7"^ef ef ef | "G"g2z2 ((3d'c'd') || 
+"D7"e'd' c'f ad | "G"bf gBd2 | "D7"Af ed cf | "G"gB dbg2 | "D7"e'd' c'f ad | "G"bf gBd2 | "D7"cc ad c'f | "G"g2z2z2 |] 
+% LD06010
+X:8
+T:L\"andler G&D (tinwhistle in D)
+T:LD06010 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Laendler
+M:3/4
+L:1/8
+K:G%%MIDI gchordon
+GG | ("G"GB) dg Bg | "D7"fA dfc2 | (fA) df cf | ("G"gB) dgb2 | GB dg Bg | "D7"fA dfc2 | fA df cf | 
+"G"g2z2dd || "D7"d3cc2 | "G"B2d4 | "D7"F2c3F | "G"GB dg fe | "D7"ed c3F | "G"G2B3g | "D7"df cf cf | "G"g2z2z2 || [K:D]
+"D"^GA Ad fa | "G"^AB BE G2 | "A7"^GA aA =g2 | "D"fc dfA2 | ^GA GA GA | "G"^AB AB AB | "A7"^Bc Bc Bc | "D"d2z2 ((3aga) || 
+"A7"ba gc eA | "D"fc dFA2 | "A7"Ec BA Gc | "D"dF Afd2 | "A7"ba gc eA | "D"fc dFA2 | "A7"GG eA gc | "D"d2z2z2 |] 
+X:9
+T:L\"andler G&D (tinwhistle in D) solo
+T:LD06010 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:Laendler
+M:3/4
+L:1/8
+K:G transpose=12
+GG | (GB) dg Bg | fA df"_c"c2 | (fA) df "_c"cf | (gB) dgb2 | GB dg Bg | fA df"_c"c2 | fA df "_c"cf | 
+g2z2dd || d3"_c"cc2 | B2d4 | F2"_c"c3F | GB dg fe | ed "_c"c3F | G2B3g | df "_c"cf "_c"cf | g2z2z2 || [K:D]
+^GA Ad fa | ^AB BE G2 | ^GA aA =g2 | fc dfA2 | ^GA GA GA | ^AB AB AB | "_c"^Bc "_c"Bc "_c"Bc | d2z2 
+((3aga) || \
+ba gc eA | fc dFA2 | Ec BA Gc | dF Afd2 | ba gc eA | fc dFA2 | GG eA gc | d2z2z2 |]
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% July 8, 2016

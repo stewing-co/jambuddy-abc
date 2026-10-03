@@ -1,0 +1,90 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.155 (st00251) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"c3A F2A2 | cdcd c3c | "C7"a2a2 g3e | "F"g2g2f4 | c3A F2A2 | cdcd c3c | 
+"C7"a2a2 g3e |1 "F"f2a2 f2z2 :|2 "F"f2a2 f2cc |: "C7"c4 e3c | g6cc | "F"c4f3c | 
+a6c'c' | "Gm"c'2b2 b2a2 | "C7"a2g2 g2f2 |1 "G7"f2e2 "C7"d2e2 | "F"gfed c4 :|2 "C7"fedc a3g |  
+"F"f2f2 "F7"f2d_e || [K:Bb] "Bb"f4"Eb"g4 | "Bb"f4 d'4 | "Bb7"c'4b4 | "Eb"a4g4 | "F7"c3d e2f2 | a6g2 | "Bb"B3c d2f2 | g6de | 
+f4"Eb"g4 | "Bb"f4 d'4 | "Bb7"c'4b4 | "Eb"a4g4 | "F7"cdef a2g2 | "Bb"Bcde g2f2 | "F7"gf=ef d'3c' | "Bb"b2b2 b2z2 |] 
+
+X:2
+T:Schottisch CF 5- chords
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"G3E C2E2 | GAGA G3G | "G7"e2e2 d3B | "C"d2d2c4 | G3E C2E2 | GAGA G3G | 
+"G7"e2e2 d3B |1 "C"c2e2 c2z2 :|2 "C"c2e2 c2GG |: "G7"G4 B3G | d6GG | "C"G4c3G | 
+e6gg | "Dm"g2f2 f2e2 | "G7"e2d2 d2c2 |1 "D7"c2B2 "G7"A2B2 | "C"dcBA G4 :|2 "G7"cBAG e3d | 
+"C"c2c2 "C7"c2A_B || [K:Fmaj] "F"c4"Bb"d4 | "F"c4 a4 | "F7"g4f4 | "Bb"e4d4 | "C7"G3A B2c2 | e6d2 | "F"F3G A2c2 | d6AB | 
+c4"Bb"d4 | "F"c4 a4 | "F7"g4f4 | "Bb"e4d4 | "C7"GABc e2d2 | "F"FGAB d2c2 | "C7"dc=Bc a3g | "F"f2f2 f2z2 |] 
+
+X:3
+T:Schottisch CF 5- chords (align)
+M:2/4
+L:1/16
+K:Cmaj%%MIDI gchordon
+"C"G3E C2E2 | GAGA G3G | "G7"e2e2 d3B | "C"d2d2c4 | G3E C2E2 | GAGA G3G | \
+"G7"e2e2 d3B |1 "C"c2e2 c2z2 :|2
+ "C"c2e2 c2GG |: "G7"G4 B3G | d6GG | "C"G4c3G | \
+e6gg | "Dm"g2f2 f2e2 | "G7"e2d2 d2c2 |1 "D7"c2B2 "G7"A2B2 |
+ "C"dcBA G4 :|2 "G7"cBAG e3d | \
+"C"c2c2 "C7"c2A_B || [K:Fmaj] "F"c4"Bb"d4 | "F"c4 a4 | "F7"g4f4 | "Bb"e4d4 | "C7"G3A B2c2 | e6d2 |
+ "F"F3G A2c2 | d6AB | \
+c4"Bb"d4 | "F"c4 a4 | "F7"g4f4 | "Bb"e4d4 | "C7"GABc e2d2 | "F"FGAB d2c2 | "C7"dc=Bc a3g | "F"f2f2 f2z2 |] 
+
+X:4
+T:Schottisch GC 2+ chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"d3B G2B2 | dede d3d | "D7"b2b2 a3f | "G"a2a2g4 | d3B G2B2 | dede d3d | 
+"D7"b2b2 a3f |1 "G"g2b2 g2z2 :|2 "G"g2b2 g2dd |: "D7"d4 f3d | a6dd | "G"d4g3d | 
+b6d'd' | "Am"d'2c'2 c'2b2 | "D7"b2a2 a2g2 |1 "A7"g2f2 "D7"e2f2 | "G"agfe d4 :|2 "D7"gfed b3a | 
+"G"g2g2 "G7"g2e=f || [K:Cmaj] "C"g4"F"a4 | "C"g4 e'4 | "C7"d'4c'4 | "F"b4a4 | "G7"d3e f2g2 | b6a2 | "C"c3d e2g2 | a6ef | 
+g4"F"a4 | "C"g4 e'4 | "C7"d'4c'4 | "F"b4a4 | "G7"defg b2a2 | "C"cdef a2g2 | "G7"ag^fg e'3d' | "C"c'2c'2 c'2z2 |] 
+
+X:5
+T:Schottisch GC 2+ chords (align)
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"d3B G2B2 | dede d3d | "D7"b2b2 a3f | "G"a2a2g4 | d3B G2B2 | dede d3d | \
+"D7"b2b2 a3f |1 "G"g2b2 g2z2 :|2
+"G"g2b2 g2dd |: "D7"d4 f3d | a6dd | "G"d4g3d | \
+b6d'd' | "Am"d'2c'2 c'2b2 | "D7"b2a2 a2g2 |1 "A7"g2f2 "D7"e2f2 |
+"G"agfe d4 :|2 "D7"gfed b3a | \
+"G"g2g2 "G7"g2e=f || [K:Cmaj] "C"g4"F"a4 | "C"g4 e'4 | "C7"d'4c'4 | "F"b4a4 | "G7"d3e f2g2 | b6a2 |
+"C"c3d e2g2 | a6ef | \
+g4"F"a4 | "C"g4 e'4 | "C7"d'4c'4 | "F"b4a4 | "G7"defg b2a2 | "C"cdef a2g2 | "G7"ag^fg e'3d' | "C"c'2c'2 c'2z2 |] 
+
+X:6
+T:Schottisch GC 10- chords
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"D3B, G,2B,2 | DEDE D3D | "D7"B2B2 A3F | "G"A2A2G4 | D3B, G,2B,2 | DEDE D3D | 
+"D7"B2B2 A3F |1 "G"G2B2 G2z2 :|2 "G"G2B2 G2DD |: "D7"D4 F3D | A6DD | "G"D4G3D | 
+B6dd | "Am"d2c2 c2B2 | "D7"B2A2 A2G2 |1 "A7"G2F2 "D7"E2F2 | "G"AGFE D4 :|2 "D7"GFED B3A | 
+"G"G2G2 "G7"G2E=F || [K:Cmaj] "C"G4"F"A4 | "C"G4 e4 | "C7"d4c4 | "F"B4A4 | "G7"D3E F2G2 | B6A2 | "C"C3D E2G2 | A6EF | 
+G4"F"A4 | "C"G4 e4 | "C7"d4c4 | "F"B4A4 | "G7"DEFG B2A2 | "C"CDEF A2G2 | "G7"AG^FG e3d | "C"c2c2 c2z2 |] 
+
+X:7
+T:Schottisch GC 10- chords (align)
+M:2/4
+L:1/16
+K:Gmaj%%MIDI gchordon
+"G"D3B, G,2B,2 | DEDE D3D | "D7"B2B2 A3F | "G"A2A2G4 | D3B, G,2B,2 | DEDE D3D | \
+"D7"B2B2 A3F |1 "G"G2B2 G2z2 :|2
+"G"G2B2 G2DD |: "D7"D4 F3D | A6DD | "G"D4G3D | \
+B6dd | "Am"d2c2 c2B2 | "D7"B2A2 A2G2 |1 "A7"G2F2 "D7"E2F2 |
+"G"AGFE D4 :|2 "D7"GFED B3A | \
+"G"G2G2 "G7"G2E=F || [K:Cmaj] "C"G4"F"A4 | "C"G4 e4 | "C7"d4c4 | "F"B4A4 | "G7"D3E F2G2 | B6A2 |
+"C"C3D E2G2 | A6EF | \
+G4"F"A4 | "C"G4 e4 | "C7"d4c4 | "F"B4A4 | "G7"DEFG B2A2 | "C"CDEF A2G2 | "G7"AG^FG e3d | "C"c2c2 c2z2 |] 

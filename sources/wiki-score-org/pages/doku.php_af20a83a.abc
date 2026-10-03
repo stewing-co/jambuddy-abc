@@ -1,0 +1,25 @@
+X:1313
+T:N.13 Solo e coro
+C:Fonseca, Eduardo da (1863-1938)
+M:6/8
+L:1/8
+K:C
+V: 13 clef=treble name="Coro" sname="Cor."
+%%MIDI program 1 1
+%%staves [[ 13 ]]
+%----------------
+[Q:"Allegretto"] Z6 !segno! || Z8 || \
+d c B A B c | c-G2-G3 | B A G F G A | (AG2-)G3 | \
+w: 1.~Vi-va'a me-ni-na Jo-se-fa_ que'[\'e] mes-mo'u-ma per-fei-c\~ao__ |
+w: 2.~Vi-va'a me-ni-na Jo-se-fa_ que'[\'e] mes-mo'u-ma per-fei-c\~ao__ | |
+d c B A B c | c G2-G3 | B A G d c B || !coda!cz [Q: "Lento"] "_Boca fechada" (G,D2G,|E2 G,D2 G, | E2 G,D2 G, | E2 G,D2 G, | C3-C)z2 |: [Q: "1.o tempo"] Z8 || \
+w: e vem \`a ti-a Ma-ri-a_ | dar gran-de con-so-la-\cc\~ao
+w: e vem \`a ti-a Ma-ri-a_ | dar gran-de con-so-la-\cc\~ao.
+!f! d c B A B c | (c(G2)G3) | B A G d c B | cz !pp! "_Boca fechada" (G,D2G,|E2 G,D2 G, | E2 G,D2 G, | E2 G,D2 G, | C3-C)z2 \
+w: 1.~Vos fe-li-ci-te por ter-des_    | en-con-tra-do'o vos-so amor |
+w: 2.~E'has de q'rer fi-car com el-es_ | mi-nha gran-de fei-ti-ceira |
+w: 3.~Ao en-con-trar seus a-v\'o-\'os_ | n'es-ta lin-da po-voa-\cc\~ao |
+w: 4.~Em-bo-ra fi-que n'al-dei-a_      | em ca-sa dos seus a-v\'os |
+"_D.C. 3 vezes""_do A e para""_acabar""_do S ao O" :| X [Q:"A tempo"] !segno!|| "_Repete" X !coda!|| \
+Z3 |] \
+%----------------

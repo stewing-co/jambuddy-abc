@@ -1,0 +1,24 @@
+{
+  "name": "Briezh Partitions - free Celtic sheet music",
+  "license": "Not stated; tunes believed traditional",
+  "origin": [
+    "http://www.celticscores.com/"
+  ],
+  "found_via": "https://abcnotation.com/tunes",
+  "downloaded": "2026-10-02",
+  "files": 114,
+  "pages_crawled": 3000,
+  "pages_unvisited": 118455,
+  "failures": [
+    "https://www.celticscores.com/\u4e2d\u6587/\u6a02\u8b5c/1862_La_Balade_du_cirque_ancien: <urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "https://www.celticscores.com/\u7b80\u4f53\u4e2d\u6587/\u4e50\u5668/\u4f4e\u97f3\u5587\u53ed/: <urlopen error [Errno 50] Network is down>",
+    "https://www.celticscores.com/sheet-music/500_Elle_est_o\u00f9_ma_valise_: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently",
+    "https://www.celticscores.com/instrument/Flute/page/4/: <urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "https://www.celticscores.com/sheet-music/1512_Branle_gay_23: <urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "https://www.celticscores.com/sheet-music/322_Pelec\u2019h_ema\u00f1_an_heol_: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently",
+    "https://www.celticscores.com/sheet-music/474_Soldier\u2019s_Joy: <urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "https://www.celticscores.com/type/Baleu_Loud\u00e9ac/: <urlopen error _ssl.c:1015: The handshake operation timed out>",
+    "https://www.celticscores.com/\u4e2d\u6587/\u6a02\u8b5c/500_Elle_est_o\u00f9_ma_valise_: HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently",
+    "https://www.celticscores.com/\u4e2d\u6587/\u6a02\u5668/\u5c0f\u63d0\u7434/\u9801/29/: <urlopen error _ssl.c:1015: The handshake operation timed out>"
+  ]
+}

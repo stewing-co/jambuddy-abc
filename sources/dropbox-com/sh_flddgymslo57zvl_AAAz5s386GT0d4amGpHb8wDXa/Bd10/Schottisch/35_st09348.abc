@@ -1,0 +1,116 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Schottisch  FCBb  (ABAC)
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus dem Kanton Nidwalden. S.178-219. S.198 (st09348) orig. F,C,Bb
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:F %%MIDI gchordon
+"F"agfe "Bb"gfed | "F"dc=Bc Acfa | "C7"ag^fg c2gg | "F"gfef c2aa | agfe "Bb"gfed | 
+ "F"dc=Bc Acfa | "C7"ag^fg c'3e | "F"f2a2 f2z2 :: [K:C] "tr""C"g2^fg a2g2 | "tr"e2de f2e2 | "Dm"d2"tr"a2 "G7"gfed | "C"c2c'2 g2ef | 
+"tr"g2^fg a2g2 | "tr"e2de f2e2 | "Dm"d2a2 "G7"gfed | "C"c2eg c'2"_>Teil A"z2 :: [K:Bb] "Bb"B6df | B6df | 
+B2df B2df | g2g2f4 | "F7"A2cf A2cf | g2g2f4 | "Bb"B2df B2df | b2ag f=egf | B6df | 
+B6df | B2df B2df | g2g2f4 | "F7"cdef g2c'2 | "Bb"b2d2 g3f | "F7"f2ag fedc | "Bb"B2dfb4 :| 
+W: (Parts: ABAC)
+% st09348
+X:2
+T:Schottisch  CGF 5-
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"edcB "F"dcBA | "C"AG^FG EGce | "G7"ed^cd G2dd | "C"dcBc G2ee | edcB "F"dcBA | 
+"C"AG^FG EGce | "G7"ed^cd g3B | "C"c2e2 c2z2 :: [K:G] "tr""G"d2^cd e2d2 | "tr"B2AB c2B2 | "Am"A2"tr"e2 "D7"dcBA | "G"G2g2 d2Bc | 
+"tr"d2^cd e2d2 | "tr"B2AB c2B2 | "Am"A2e2 "D7"dcBA | "G"G2Bd g2"_>Teil A"z2 :: [K:F] "F"F6Ac | F6Ac | 
+F2Ac F2Ac | d2d2c4 | "C7"E2Gc E2Gc | d2d2c4 | "F"F2Ac F2Ac | f2ed c=Bdc | F6Ac | 
+F6Ac | F2Ac F2Ac | d2d2c4 | "C7"GABc d2g2 | "F"f2A2 d3c | "C7"c2ed cBAG | "F"F2Acf4 :| 
+W:Parts: ABAC
+% st09348
+X:3
+T:Schottisch  CGF 5- (parts)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:C %%MIDI gchordon
+"C"edcB "F"dcBA | "C"AG^FG EGce | "G7"ed^cd G2dd | "C"dcBc G2ee | edcB "F"dcBA | \
+"C"AG^FG EGce |
+ "G7"ed^cd g3B | "C"c2e2 c2z2 :: [K:G] "tr""G"d2^cd e2d2 | "tr"B2AB c2B2 | "Am"A2"tr"e2 "D7"dcBA | "G"G2g2 d2Bc | 
+"tr"d2^cd e2d2 | "tr"B2AB c2B2 | "Am"A2e2 "D7"dcBA | "G"G2Bd g2"_>Teil A"z2 :: [K:C] \
+"C"edcB "F"dcBA | "C"AG^FG EGce |
+ "G7"ed^cd G2dd | "C"dcBc G2ee | edcB "F"dcBA | \
+"C"AG^FG EGce | "G7"ed^cd g3B | "C"c2e2 c2z2 :: [K:F]
+ "F"F6Ac | F6Ac | \
+F2Ac F2Ac | d2d2c4 | "C7"E2Gc E2Gc | d2d2c4 | "F"F2Ac F2Ac | f2ed c=Bdc |
+ F6Ac | \
+F6Ac | F2Ac F2Ac | d2d2c4 | "C7"GABc d2g2 | "F"f2A2 d3c | "C7"c2ed cBAG | "F"F2Acf4 :| 
+W:(Parts: ABAC)
+% st09348
+X:4
+T:Schottisch  CGF (5letras transposed)
+%%MIDI program 21
+R:shottische
+M:2/4
+L:1/16
+K:C transpose=3 %%MIDI gchordon
+"C"edcB "F"dcBA | "C"AG^FG EGce | "G7"ed^cd G2dd | "C"dcBc G2ee | edcB "F"dcBA | \
+"C"AG^FG EGce |
+ "G7"ed^cd g3B | "C"c2e2 c2z2 :: [K:G] "tr""G"d2^cd e2d2 | "tr"B2AB c2B2 | "Am"A2"tr"e2 "D7"dcBA | "G"G2g2 d2Bc | 
+"tr"d2^cd e2d2 | "tr"B2AB c2B2 | "Am"A2e2 "D7"dcBA | "G"G2Bd g2"_>Teil A"z2 :: [K:C] \
+"C"edcB "F"dcBA | "C"AG^FG EGce |
+ "G7"ed^cd G2dd | "C"dcBc G2ee | edcB "F"dcBA | \
+"C"AG^FG EGce | "G7"ed^cd g3B | "C"c2e2 c2z2 :: [K:F]
+ "F"F6Ac | F6Ac | \
+F2Ac F2Ac | d2d2c4 | "C7"E2Gc E2Gc | d2d2c4 | "F"F2Ac F2Ac | f2ed c=Bdc |
+ F6Ac | \
+F6Ac | F2Ac F2Ac | d2d2c4 | "C7"GABc d2g2 | "F"f2A2 d3c | "C7"c2ed cBAG | "F"F2Acf4 :| 
+W:(Parts: ABAC)
+% st09348
+X:5
+T:Schottisch DA&G (tinwhistle in D)
+T:st09348 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottische
+M:2/4
+L:1/16
+K:D %%MIDI gchordon
+"D"fedc "G"edcB | "D"BA^GA FAdf | "A7"fe^de A2ee | "D"edcd A2ff | fedc "G"edcB | \
+"D"BA^GA FAdf |
+"A7"fe^de a3c | "D"d2f2 d2z2 :: [K:A] "tr""A"e2^de f2e2 | "tr"c2Bc d2c2 | "Bm"B2"tr"f2 "E7"edcB | "A"A2a2 e2cd | 
+"tr"e2^de f2e2 | "tr"c2Bc d2c2 | "Bm"B2f2 "E7"edcB | "A"A2ce a2"_>Teil A"z2 :: [K:D] \
+"D"fedc "G"edcB | "D"BA^GA FAdf |
+"A7"fe^de A2ee | "D"edcd A2ff | fedc "G"edcB | \
+"D"BA^GA FAdf | "A7"fe^de a3c | "D"d2f2 d2z2 :: [K:G]
+"G"G6Bd | G6Bd | \
+G2Bd G2Bd | e2e2d4 | "D7"F2Ad F2Ad | e2e2d4 | "G"G2Bd G2Bd | g2fe d^ced |
+G6Bd | \
+G6Bd | G2Bd G2Bd | e2e2d4 | "D7"ABcd e2a2 | "G"g2B2 e3d | "D7"d2fe dcBA | "G"G2Bdg4 :| 
+W:(Parts: ABAC)
+% st09348
+X:6
+T:Schottisch DA&G (tinwhistle in D) solo
+T:st09348 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:shottische
+M:2/4
+L:1/16
+K:D transpose=12
+fedc edcB | BA^GA FAdf | fe^de A2ee | edcd A2ff | fedc edcB | \
+BA^GA FAdf |
+fe^de a3c | d2f2 d2z2 :: [K:A] Te2^de f2e2 | Tc2Bc d2c2 | B2Tf2 edcB | A2a2 e2cd | 
+Te2^de f2e2 | Tc2Bc d2c2 | B2f2 edcB | A2ce a2"_>Teil A"z2 :: [K:D] \
+fedc edcB | BA^GA FAdf |
+fe^de A2ee | edcd A2ff | fedc edcB | \
+BA^GA FAdf | fe^de a3c | d2f2 d2z2 :: [K:G]
+G6Bd | G6Bd | \
+G2Bd G2Bd | e2e2d4 | F2Ad F2Ad | e2e2d4 | G2Bd G2Bd | g2fe d^ced |
+G6Bd | \
+G6Bd | G2Bd G2Bd | e2e2d4 | AB"_c"cd e2a2 | g2B2 e3d | d2fe d"_c"cBA | G2Bdg4 :|
+W:(Parts: ABAC)
+% st09348
+% Sep. 5, 2016

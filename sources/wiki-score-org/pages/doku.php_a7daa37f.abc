@@ -1,0 +1,15 @@
+X:406
+T:N.4 Duo de Josepha e Ambrosio
+C:Fonseca, Eduardo da (1863-1938)
+M:3/4
+L:1/4
+K:D
+V: 6 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 6 ]
+[Q:"Andante"] zz(A, | D,) "_Pizz.".D, !fermata!z || .D,zz | .D,zz | G,zz | D,zz | C,zz | B,,zz | \
+E,zE, | A,,zz || D,zz | D,zz | G,zz | F,zz | B,,zB,, | E,zz | G,A,A,, | D,D,z || \
+[Q:"Piu animato"][K:G] "_Arco" A,,D,B,, | A,zz | D,zz | G,zz | G,zB, | A,zz | ^C,zA, | \
+D, D,/>^C,/B,,/>A,,/ || G,zB,, | A,,zz | D,zz|G,zz| ^G,zz | A,zz| \
+"_Pizz. rit." C,/z/ D,/z/ D,/z/ | G,/z/ "_arco" G,/z/ z || \
+[K:D][Q:"A tempo"] "_Pizz." D,zz |D,zz | G,zz | F,zz | B,,zz | E,zz | G,A,A,, | D,D,z |]\

@@ -1,0 +1,123 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Galopp  FC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.182 (GL00825) orig. F,C-Dur
+T:Gomser T\"anze. S.178-195.\"Uberliefert durch Theodor Franzen, 1870-1958, Fiesch.
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"f2e2 | "Gm/Bb"d2g2 | "C7"c=B/c/ de | "F".f2z2 || "F"a2 d'>c' | "Bb"c'2.b2 | "C7"e2a>g | 
+"F"g2.f2 | c=B/c/ d>c | "C7"cbe2 | c=B/c/ d>c | "F"caf2 | a2 d'>c' | 
+"Bb"c'2 .b2 | "C7"e2ag | "F"g2.f2 | "Bb"d^c/d/ g>b | "F"ba ef | "C7"ag de | "F"f3z || 
+"F"Ac a>g | gff2 | Ac f>g | "C7"fee2 | "Bb"Bd b>a | "Gm"agg2 | 
+"C7"c'b ag | "F"g2f2 | Ac ag | g>ff2 | Ac f>g | "C7"fee2 | 
+"Bb"db bb | "F"ba gf | "C7"ag fe | "F"f3z |: [K:C] "C"eg gc' | "G7"c'bb2 | 
+gb ba | "C"agg2 | "F"af/f/ f>a | "C"ge/e/ e>g | "G7"f/e/d/e/ f/g/a/b/ |  "C7"c'3 z :|
+X:2
+T:Galopp  CG 5-
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"c2B2 | "Dm/F"A2d2 | "G7"G^F/2G/2 AB | "C".c2z2 || "C"e2 a>g | "F"g2.f2 | "G7"B2e>d | \
+"C"d2.c2 | G^F/2G/2 A>G |
+ "G7"GfB2 | G^F/2G/2 A>G | "C"Gec2 | e2 a>g | \
+"F"g2 .f2 | "G7"B2ed | "C"d2.c2 | "F"A^G/2A/2 d>f | "C"fe Bc |
+ "G7"ed AB | "C"c3z || \
+"C"EG e>d | dcc2 | EG c>d | "G7"cBB2 | "F"FA f>e | "Dm"edd2 | \
+"G7"gf ed |
+ "C"d2c2 | EG ed | d>cc2 | EG c>d | "G7"cBB2 | \
+"F"Af ff | "C"fe dc | "G7"ed cB | "C"c3z |: [K:G]
+ "G"Bd dg | "D7"gff2 | \
+df fe | "G"edd2 | "C"ec/2c/2 c>e | "G"dB/2B/2 B>d | "D7"c/2B/2A/2B/2 c/2d/2e/2f/2 | "G7"g3 z :|
+% GL00825
+X:3
+T:Galopp  FC (5letras transposed)
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:F transpose=3 %%MIDI gchordon
+"F"f2e2 | "Gm/Bb"d2g2 | "C7"c=B/c/ de | "F".f2z2 || "F"a2 d'>c' | "Bb"c'2.b2 | "C7"e2a>g | \
+"F"g2.f2 | c=B/c/ d>c |
+ "C7"cbe2 | c=B/c/ d>c | "F"caf2 | a2 d'>c' | \
+"Bb"c'2 .b2 | "C7"e2ag | "F"g2.f2 | "Bb"d^c/d/ g>b | "F"ba ef |
+ "C7"ag de | "F"f3z || \
+"F"Ac a>g | gff2 | Ac f>g | "C7"fee2 | "Bb"Bd b>a | "Gm"agg2 | \
+"C7"c'b ag |
+ "F"g2f2 | Ac ag | g>ff2 | Ac f>g | "C7"fee2 | \
+"Bb"db bb | "F"ba gf | "C7"ag fe | "F"f3z |: [K:C]
+ "C"eg gc' | "G7"c'bb2 | \
+gb ba | "C"agg2 | "F"af/f/ f>a | "C"ge/e/ e>g | "G7"f/e/d/e/ f/g/a/b/ |  "C7"c'3 z :|
+% GL00825
+X:4
+T:Galopp  CG (5letras transposed)
+%%MIDI program 21
+R:galopp
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"c2B2 | "Dm/F"A2d2 | "G7"G^F/2G/2 AB | "C".c2z2 || "C"e2 a>g | "F"g2.f2 | "G7"B2e>d | \
+"C"d2.c2 | G^F/2G/2 A>G |
+ "G7"GfB2 | G^F/2G/2 A>G | "C"Gec2 | e2 a>g | \
+"F"g2 .f2 | "G7"B2ed | "C"d2.c2 | "F"A^G/2A/2 d>f | "C"fe Bc |
+ "G7"ed AB | "C"c3z || \
+"C"EG e>d | dcc2 | EG c>d | "G7"cBB2 | "F"FA f>e | "Dm"edd2 | \
+"G7"gf ed |
+ "C"d2c2 | EG ed | d>cc2 | EG c>d | "G7"cBB2 | \
+"F"Af ff | "C"fe dc | "G7"ed cB | "C"c3z |: [K:G] 
+"G"Bd dg | "D7"gff2 | \
+df fe | "G"edd2 | "C"ec/2c/2 c>e | "G"dB/2B/2 B>d | "D7"c/2B/2A/2B/2 c/2d/2e/2f/2 | "G7"g3 z :|
+% GL00825
+X:5
+T:Galopp D&A (tinwhistle in D)
+T:GL00825 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:galopp
+M:2/4
+L:1/8
+K:D%%MIDI gchordon
+"D"d2c2 | "Em/G"B2e2 | "A7"A^G/2A/2 Bc | "D".d2z2 || "D"f2 b>a | "G"a2.g2 | "A7"c2f>e | 
+"D"e2.d2 | A^G/2A/2 B>A | "A7"Agc2 | A^G/2A/2 B>A | "D"Afd2 | f2 b>a | 
+"G"a2 .g2 | "A7"c2fe | "D"e2.d2 | "G"B^A/2B/2 e>g | "D"gf cd | "A7"fe Bc | "D"d3z || 
+"D"FA f>e | edd2 | FA d>e | "A7"dcc2 | "G"GB g>f | "Em"fee2 | 
+"A7"ag fe | "D"e2d2 | FA fe | e>dd2 | FA d>e | "A7"dcc2 | 
+"G"Bg gg | "D"gf ed | "A7"fe dc | "D"d3z |: [K:A] "A"ce ea | "E7"agg2 | 
+eg gf | "A"fee2 | "D"fd/2d/2 d>f | "A"ec/2c/2 c>e | "E7"d/2c/2B/2c/2 d/2e/2f/2g/2 | "A7"a3 z :|
+X:5
+T:Galopp D&A (tinwhistle in D) solo
+T:GL00825 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:galopp
+M:2/4
+L:1/8
+K:D transpose=12
+d2c2 | B2e2 | A^G/2A/2 Bc | .d2z2 || f2 b>a | a2.g2 | c2f>e | \
+e2.d2 | A^G/2A/2 B>A |
+ Agc2 | A^G/2A/2 B>A | Afd2 | f2 b>a | \
+a2 .g2 | c2fe | e2.d2 | B^A/2B/2 e>g | gf cd |
+ fe Bc | d3z || \
+FA f>e | edd2 | FA d>e | dcc2 | GB g>f | fee2 | \
+ag fe |
+ e2d2 | FA fe | e>dd2 | FA d>e | dcc2 | \
+Bg gg | gf ed | fe dc | d3z |: [K:A]
+ ce ea | a"_#"gg2 | \
+e"_#"g gf | fee2 | fd/2d/2 d>f | ec/2c/2 c>e | d/2c/2B/2c/2 d/2e/2f/2"_#"g/2 | a3 z :|
+
+
+
+% GL00825
+
+
+W:
+W:for tin whistle TABs go to: 
+W:http://www.mandolintab.net/abcconverter.php
+W:" Tablatur: Whistle - key: D "
+W:a fingering chart (advanced) you can download from:
+W:http://fullbodyburn.com/wp-content/uploads/2011/07/01-D1.jpg
+% June 22, 2016
+

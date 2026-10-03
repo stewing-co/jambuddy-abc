@@ -1,0 +1,57 @@
+X:1024
+T:Scena 5.a Antandro e Demetrio
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 24 clef=alto1 name="Antandro" sname="Ant."
+%%MIDI program 1 1
+%%staves [[ 24 ]]
+%---------------------------
+[L:1/8] Z9 | z6 _B _e | _B2 B _e e B G G/ _A/ | _B B B _d/ c/ _A2 z  \
+w: Si-gnor, quan-to gen-ti-le, gius-to, al-tre-tan-to'\`e tuo par-lar.
+c | _A A B c _B B f _A/ B/ | G G z \
+w: Io nac-qui'all o-pre'il-lus-tri, ed al-la glo-ria.
+_e/ e/ _e _d/ d/ d d/ _e/ | c/ c/ c/ c/ c _B/ _A/  d d d d/ _e/ | _e _B z2z/ \
+w: A ques-ta gi\`a mi se-gn\`o la stra-da l'in-tre-pi-de-za mi-a, e la mia spa-da.
+c/ c/ F/ F F/ G/ | A A c d/ _e/ d/ d/ d/ d/ d d/ _e/ | c/ c/ c/ c/  c c/ d/  "^[2]" z2  z2 | \
+w: De-me-trio, for-se il so-lo de-gno tu sei nel-le su-bli-mi'im-pre-se di con-tras-tar com-me.
+W: [2] Bar 18: 5 lines of libretto omitted ("Nel dolce ... e il vinto.")
+z2 _B B/ c/ A A c d/ _e/ | d d  z\
+w: Io ti pre-ven-go: pa-ce non chie-do,
+A c/ c/ c/ c/ c c/ d/ | B B z2\
+w: e pa-ce non chie-de-r\`o giam-ma-i.
+d d B A | ^G G B ^c d2 d e | ^c2 z/ \
+w: Pri-a, che di Ro-di la di-fe-sa las-ciar,
+A/ A/ A/  _B B/ g/ g/ _B/ B/ c/ | A2 c _B/ c/ A/ A/ F// F// F// F// "^NB: check ms"G/ A/ A// c// d// "^[3]" _e// | d2 "^[4]"d d/ d/ d A z  \
+w: l'ul-ti-ma stil-la del san-gue ver-se-r\`o. Tre-gua bra-mai per-ch\`e sa-cro ad A-pol-lo \'E ques-to d\`i. [L\`a]pres-so al por-to
+W: [3] Bar 24: "in" im ms score and not "\`E"
+W: [4] Bar 25: "L\`a" omitted.
+A | ^F F A A/ B/ =c/ c/ c/ c/ c A/ G/ | ^F F z \
+w: io vo-glio sul-l'a-ra su-a dell'an-nuo Sa-cri-fi-zi-o
+A c c c d | B2z6 | Z4 |\
+w: il ri-to ce-le-brar.
+z4 d2 ^G A | A E z6 | z6 \
+w: Chie-do'Eu-ri-di-ce.
+B B/ A/ | ^G G "^[5]" G G/ A/ B B/ d/ d B/ A/ | ^G G z \
+w: Dell' e-t\`a mia sul pri-mo fior d'A-te-ne in-fra le mu-ra
+W: [5] Bar 36: text different from the libretto, which has more words.
+B/ ^c/ d d d >e | ^c c c c/ B/ ^A/ A/ ^c/ c/ c c/ ^d/ | B B B A/ B/ ^G g e ^c | ^A A z \
+w: Io la vi-di, e l'a-mai. Di pa-ri af-fet-to el-la per me s'ac-ce-se, e l'u-no, all'al-tro fe-de'e-ter-na
+B ^F2 z2 | Z3 | z6z \
+w: giu-r\`o.
+e | ^c> c c B/ A/ d d z/ \
+w: De-me-tri-o, non ris-pon-di?
+d/ d/ e/ | c/ c/ c/ c/ c c/ B/ B2 B "^NB: wrong note durations in ms?" B/ ^c/ | ^d/ d/ ^f/ A/ A A/ B/ | ^G2 z6 | Z2 | \
+w: Ah che con-fu-so vo-gli lo sguar-do'al suol? Ah d'Eu-ri-di-ce vi-vi tu'a-man-te'an-cor?
+z e e d ^c c e e/ ^f/ | d2 z2 \
+w: D'o-gni'al-ma bel-la Quel-lo'\`e il dover;
+d d d d/ e/ | c/ c/ c/ c/ c c/ d/ B B B c/ d/ | d/ G/ G/ G/ G G/ A/ B B z \
+w: ma quel do-ve-re is-tes-so Guis-to ti vuo-le an-co-ra, e'ti con-si-glia Di due bell'al-me'a-man-ti
+B | d d d e c2 z2 | Z4 | \
+w: La pa-ce'a non tur-bar.
+z2 A2 d/ d/ d/ d/ d d/ e/ | c/ c/ z/ \
+w: Ah Pren-ce la vir-t\'u d'Eu-ri-di-ce
+A/ c/ c/ c/ d/ B2 z2 | Z7 |] \
+w: Non al-trag-giar co-si.
+%---------------------------

@@ -1,0 +1,46 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Alte Brienzer Walzer FBb  chords
+% or: Alter Brienzer Walzer ?
+T:Hanny Christen. Bd.VII. Bern II, Solothurn. S.288 (wz05423) orig. F,Bb-Dur
+T: T\"anze aus Guggisberg, Sch\"upfen und Plaffeien (Bern) S.257ff
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+C | "F"F2G | A2B | c2d | e2f | "C7"e2B | e2B | (e3 | e)zC | E2F | G2A | B2c | e2d | 
+"F"c2A | c2A | (c3 | c)zC | F2G | A2B | c2d | e2f | "C"e2G | e2G | (e3 | e)g>a | 
+"G7"g2f | zf>g | "C"f2e | ze>f | "G7"ezd | azg | "C"c>cc | cza/c'/ || "F"(f3 | f)za/c'/ | "C7"(e3 | e)za/c'/ | 
+gzg | azg | "F"(f3 | f)zc/c/ | cde | fga | "G7"gzg | gzc/c/ | "C7"cde | efg | "F"fzf | fz a/c'/ | 
+(f3 | f)za/c'/ | "C7"(e3 | e)za/c'/ | gzg | azg | "F"(f3 | f)zc/c/ | cde | fga | "Bb"c'zb | azg | 
+"F/C"fzc' | "C7"ezc' | "F"f>ff | fzf || [K:Bb] "Bb"g2a | b2a | "F7"(e3 | e)ze | f2g | a2g | "Bb"(d3 | d)zf | 
+f3 | g2f | "F7"fed | (e3 | e)zd/e/ | f2e | "Bb"edB | Fzf | g2a | b2a | "F7"(e3 | e)ze | 
+f2g | a2g | "Bb"(d3 | d)zz | "F7"f2a | g2f | fec | "Bb"edB | FBe | "F7"d2c | "Bb"B>BB | Bzz |] 
+
+X:2
+T:Alte Brienzer Walzer CF 5- chords
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+G, | "C"C2D | E2F | G2A | B2c | "G7"B2F | B2F | (B3 | B)zG, | B,2C | D2E | F2G | B2A | 
+"C"G2E | G2E | (G3 | G)zG, | C2D | E2F | G2A | B2c | "G"B2D | B2D | (B3 | B)d>e | 
+"D7"d2c | zc>d | "G"c2B | zB>c | "D7"BzA | ezd | "G"G>GG | Gze/2g/2 || "C"(c3 | c)ze/2g/2 | "G7"(B3 | B)ze/2g/2 | 
+dzd | ezd | "C"(c3 | c)zG/2G/2 | GAB | cde | "D7"dzd | dzG/2G/2 | "G7"GAB | Bcd | "C"czc | cz e/2g/2 | 
+(c3 | c)ze/2g/2 | "G7"(B3 | B)ze/2g/2 | dzd | ezd | "C"(c3 | c)zG/2G/2 | GAB | cde | "F"gzf | ezd | 
+"C/G"czg | "G7"Bzg | "C"c>cc | czc || [K:Fmaj] "F"d2e | f2e | "C7"(B3 | B)zB | c2d | e2d | "F"(A3 | A)zc | 
+c3 | d2c | "C7"cBA | (B3 | B)zA/2B/2 | c2B | "F"BAF | Czc | d2e | f2e | "C7"(B3 | B)zB | 
+c2d | e2d | "F"(A3 | A)zz | "C7"c2e | d2c | cBG | "F"BAF | CFB | "C7"A2G | "F"F>FF | Fzz |] 
+
+X:3
+T:Alte Brienzer Walzer CF 5- chords Anm
+M:3/4
+L:1/4
+K:Cmaj%%MIDI gchordon
+G, | "C"C2D | E2F | G2A | B2"_ ="c | "G7""_h"B2"_f"F | B2F | (B3 | B)zG, | B,2C | D2E | F2G | B2A | 
+"C"G2E | G2E | (G3 | G)zG, | C2D | E2F | G2A | B2c | "G"B2D | B2D | (B3 | B)d>"_ ="e | 
+"D7""_d"d2c | zc>d | "G"c2B | zB>"_ ="c | "D7""_h"Bz"_a"A | "_e"ez"_d"d | "G"G>GG | Gze/2g/2 || "C"(c3 | c)ze/2g/2 | "G7"(B3 | B)ze/2g/2 | 
+dzd | ezd | "C"(c3 | c)zG/2G/2 | GAB | cd"_ ="e | "D7""_d"dzd | dzG/2G/2 | "G7"GAB | Bcd | "C"czc | cz e/2g/2 | 
+(c3 | c)ze/2g/2 | "G7"(B3 | B)ze/2g/2 | dzd | ezd | "C"(c3 | c)zG/2G/2 | GAB | cde | "F"gzf | ezd | 
+"C/G"czg | "G7"Bzg | "C"c>cc | czc || [K:Fmaj] "F"d2e | f2e | "C7""_b"(B3 | B)zB | c2d | e2d | "F"(A3 | A)zc | 
+c3 | d2c | "C7"c"_b"BA | "_b"(B3 | B)zA/2"_b"B/2 | c2"_b"B | "F""_b""_?"BAF | Czc | d2e | f2e | "C7""_b"(B3 | B)zB | 
+c2d | e2d | "F"(A3 | A)zz | "C7""_c"c2"_e"e | d2c | c"_b"B"_g"G | "F""_b""_?"BAF | CF"_b""_?"B | "C7"A2G | "F"F>FF | Fzz |] 

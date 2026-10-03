@@ -1,0 +1,29 @@
+X:2513
+T:Aria Euridice
+C:Pugnani, Gaetano (1731-1798)
+M:4/4
+L:1/4
+K:A
+V: 13 clef=alto name="Viole" sname="Ve"
+%%MIDI program 1 41
+%%staves [ 13 ]
+%-----------------------
+[Q:"Maestoso"] E2(^D/E/F/E/) & C2(B,/C/D/C/) | (E>^D) (=D>C) & E,F,G,A,| {E} D C2 B, & {C} B, A,2 G, | \
+!/! A,4 | G, A,/>A,/ A,z | F4 & D4 | C4&E4 | B, C/>D/ F/ED/ & G, A,/>B,/ D/CB,/ | \
+!//! [CE]4 | !//! [DF]4 | !//! [CE]4 | !//! [^DA,]4 |  [G,E] [G,E] [G,E] A,/>B,/ | \
+"^[empty staff]" Z7 | A,//B,//C//D// "_2.o =" E//D//C//B,// C//D//E//F// E//F//=G//E// | \
+F//=G//F//E// D//E//F//D// B,//C//D//B,// G,//A,//B,//G,// | \
+A,z/D/ C/D/C/D/ | C z/D/ C/D/C/D/ | CCC z| z/c/c/c/ c z | EFGA | {/E}D C2 B, | \
+"^[Still 2ndo? check]" X13 | !fermata! Z | E,4 | E,E,E,z | B,4- | B,4 |  E,4- | E,2E,z | B,4 | \
+"^C: =" E,/G,/B,/G,/ E,/G,/E,/^D,/ | C4 |  !/!B,4 | !/!B,4 | E z/B,/ B, z/E/ | F z/ ^D/ F z/ F/ | \
+Ezz2 | X4 | E/z/ E/z/ E/z/ E/z/ | E,4 -| E,4 | X4 | !//! G4 | !//! F4 | \
+E/z/ CB,A, | G,A,G,F, | E,/E/E/E/ E/E/F/A/ | "^C: ="  !/!B2!/!B,2 | E,E,E,z | Z | \
+E,1/2E,1E,1E,1E,1/2-|E,1/2E,1E,1E,1E,1/2-|E,1/2E,1E,1E,1E,1/2-|E,1/2E,1E,1E,1E,1/2 | \
+F,/F,F,F,F,/ |E,1E,1E,1E,1 | E,4 | "^[staff empty]" X34 | A,4- | A,4- | A,4- | A,4 | \
+!/!D4 | "^C:" D4 | !/!D2!/!^D2 | E/E/ E z/E/ E | z/E/ Ez2 | z/E/ E z/E/ E | z/E/E z2 | \
+!/!D2!/!D2 | CzCz | !/!D4 | !/!E4 | !f!!//!C4 | !//!D4 | !f!!//!C4 |  !//!D4 | !//!C4 | \
+!/!A2 !/!F2 |  !fermata!E2z2 | Z3 | A, z z/ A/A/A/ | G z z/G/G/G/ | A z z/A/A/A/ | \
+A, z D z/G,/ | A,2 G,2 | A,2 G,2 | A,/A,/ A, "^C: ="  !f! !/!C2 | !p!!/! D4 | !/!E4 | \
+!f!!/!A4 |!/!A4 |!/!A4 |!/!A4 | A/A,/B,/C/ D/F/A/^D/ | !fermata! E4 | \
+C//E//C//E// C/!trem2!E/ C!trem2!E | C!trem2!EC!trem2!E | CECE | CCCz |]
+%-----------------------

@@ -1,0 +1,25 @@
+X:1006
+T:N.13-14
+C:Antonio Thomaz de Lima
+M:2/4
+L:1/4
+K:A
+V: 6 clef=treble name="Piano" sname="P."
+%%MIDI program 1 1
+%%staves [{ 6 }]
+%----- edit between the lines ------------
+!fff! (A//c//e//(a// a//)e//f//e//) | (B//d//f//(g// g//)e//f//e//) | ([ee']3/2 [dfd']/) | \
+([cec']3/4[Bdb]//) [Aca] | Z | z B//A//G//E// | Z | [CA] z//B//=A//G// | [Aa]//[Acea]3/4 [Acea]/ z/ | \
+Z | z/[Acea]/ z | z/[dfa]/ z//e//f//g// | [Acea]//[Acea]3/4 [Acea]/ z/ | z/ [Acea]/ z/ [Acea]/ | \
+z/ [Bfa]/ z/ [FA^d]/ | z/ [EGBe]/[egbe']// e'//f'//g'// | \
+(b b//)e'//^d'//c'//  | (^d' d'//)c'//b//a// | g//b//e//g// f//a//^d//f// | \
+e/ ((3e'//f'//g'//) ((13a'///g'///f'///e'///^d'///c'///b///a///g///f///e///^d///c///) z3/4 | \
+z/ [Bb]/ [bb']/ z/ | Z | z/ [bb']/ z/ [bb']/ | z "^8.va" z//.e//.f//.g//. | \
+!>!a///(a///b///c'///d'///e'///f'///g'///) a'//.e'//.c'//.e'// | \
+!>!a///(a'///g'///f'///e'///d'///c'///b/// a//).e'//.^d'//.e'// | \
+((3f'//e'//d'//) ((3c'//^b//c'//) ((3d'//c'//=b//) ((3a//g//a//) | \
+"^TBC" X  | ((3c'//b//a//) ((3g//f//d//) ((3g//f//e//) ((3d//c//B//) | \
+((3f//e//d// (3{cd}c//^B//c// (3d//c//=B// (3{AB}A//G//A// | \
+(3c//B//A// (3{GA}G//F//D// (3{GA}G//F//E// (3E//C//B,//)| \
+x/ ((3A,//D//A//) x/ ((3A//d//a//) | x/ ((3B,//E//B//) x/ ((3B//e//b//) || \
+%-----------------------------------------

@@ -1,0 +1,131 @@
+% Copyright (C) 1999  Laura E. Conrad lconrad@world.std.com
+% 233 Broadway, Cambridge, MA 02139, USA
+%
+%    This information is free; you can redistribute it and/or modify it
+%    under the terms of the GNU General Public License as published by
+%    the Free Software Foundation; either version 2 of the License, or
+%    (at your option) any later version.
+
+%    This work is distributed in the hope that it will be useful,
+%    but WITHOUT ANY WARRANTY; without even the implied warranty of
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%    GNU General Public License for more details.
+
+%    You should have received a copy of the GNU General Public License
+%    along with this work; if not, write to the Free Software
+%    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+X:1
+T:April is in my Mistress's face
+T:Cantus
+C:Thomas Morley (1557-1603)
+M:C
+L:1/4
+K:Gdor
+%%MIDI nobarlines
+d c/ B/ c d  B c A2  z2 d d/ d/  
+d d e c  d2 A2  (B2 G)B  A2 d c/ B/  
+w:in my Mis-tress'  face, my  Mis_tress'  face, A-pril is  
+c A B c  A2 z A  B/ A/ B/ c/ (d B)  
+w:in my Mis-tress'  face, And  Ju-ly  in her eyes_
+A2 G2  z B d/ c/ d/ e/  
+w:hath place,  and Ju-ly in her  
+f2 d _e > d c/ B/ c2
+w:eyes, her eyes hath _ _ _
+B2 z d c d _e2 d2 z d B d c2 B2 d2
+w:place, With- in her bo- som, with- in her bo- som is
+c2 d3 c B A B4 A d d d f4
+w:Sep- tem- * * * * ber, but in her heart,
+z c c c _e2 e2 B G B c d8
+w:but in her heart, her heart a cold De- cem
+B4 z d d d f4 z c c c
+w:ber, but in her heart, but in her
+_e2 e2 B G B c d8 H=B4 |]
+w:heart, her heart a cold De- cem- ber.
+
+X:2
+T:April is in my Mistress's face
+T:Altus
+C:Thomas Morley (1557-1603)
+M:C
+L:1/4
+K:Gdor
+%%MIDI nobarlines
+B A/ G/ A D (G A/G/ ^F/=E/) F G2 z2 
+w:1.A-pril is in my Mis___tress's face, 
+D D/ D/ G G G2 ^F2 G2 z2 z2 B A/ G/ 
+w:A-pril is in my Mis-tress' face, A-pril is 
+A ^F G G ^F2 z F G/ ^F/ G/ A/ (B G) 
+w:in my Mis-tress' face, And Ju-ly  in her eyes_
+^F2 G2 zF B B 
+w:hath place, and Ju-ly 
+A/ B/ c/ A/ B G F3 F
+w:in her _ _ eyes, her eyes hath
+F2 z B A B2 A B2 F2 G F F2 F2 B2
+w:place, With- in her bo- som, with- in her bo- som is
+A2 B3 A G F G4 ^F4 z4
+w:Sep- tem- * * * * ber.
+z A A A c2 G2 G2 G2 F D G3 ^F/ E/ F2
+w:But in her heart, her heart a cold De- cem- * * *
+G G G G B2 B2 A4 z A A A 
+w:ber, but in her heart, her heart, but in her
+c2 G2 G2 G2 F D G3 ^F/ E/ F2 HG4 |]
+w:heart, her heart a cold De- cem- _ _ _ ber.
+
+X:3
+T:April is in my Mistress's face
+T:Tenor
+C:Thomas Morley (1557-1603)
+M:4/4
+L:1/4
+K:Gdor
+%%MIDI transpose -12
+%%MIDI nobarlines
+z4 z4 z2 B A/ G/
+w:A-pril is 
+A B c G A4 G2 d c/ B/ c d B B
+w:in my Mis- tress' face, A-pril is in my Mis-tress' 
+A d d _e d4 z4 z2 z B
+w:face, my Mis-tress' face.  And
+d/ c/ d/ e/ f B c2 B c > B B2 A
+w: Ju-ly  in her eyes hath place, her eyes _ hath _
+B2 z B f d c2 B2 B2 G B2 A B2 F4
+w:place, With- in her bo- som, with- in her bo- som is 
+f2 d8 d2 z d d d f4
+w:Sep- tem- ber, But in her heart,
+f2 c4 z2 G2 B2 B2 A4
+w:her heart a cold De- cem
+G2 z G G G d2 d2 f4 f2
+w:ber, but in her heart, but in her
+c4 z2 G2 B2 B2 A4 HG4 |]
+w:heart a cold De- cem- ber.
+
+
+X:4
+T:April is in my Mistress's face
+T:Bassus
+C:Thomas Morley (1557-1603)
+M:C
+L:1/4
+K:Gdor bass
+%%MIDI nobarlines
+%%MIDI transpose -24
+z4 z4 z2 g ^f/ e/
+w:  A-pril is 
+^f g c _e d4 z2 b a/ g/ a ^f g g 
+w:in my Mis-tress' face, A-pril is in my Mis-tress' 
+c d g c d4 z4 z d _e/ f/ g/ a/ 
+w:face, my Mis-tress' face And Ju-ly in her 
+b2 b2 f2 g _e f4
+w:eyes hath place, her eyes hath
+B4 z4 z2 B2 _e B f2 B4
+w:place.  With- in her bo- som
+f2 d2 g8 d4 z d d d
+w:is Sep- tem- ber, But in her
+F4 z c c c _e3 e B3 c d4
+w:heart, but in her heart a cold De- cem-
+G8 z d d d f4
+w:ber, but in her heart,
+z c c c _e3 e B3 c d4 HG4 |]
+w:but in her heart a cold De- cem- ber.
+
+

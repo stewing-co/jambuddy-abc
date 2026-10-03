@@ -1,0 +1,80 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Riebg\"arteler (Walzer)  F
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.319 (wz05845) orig. C,F-Dur
+T: "Riebg\"arteler", T\"anze aus Halisberg. S.319-338
+T: Aus dem Repertoire von Johann und Melchior Zenger.
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F %%MIDI gchordon
+"F"F>Ac | "C7"E>GB | E>GB | D2C | E>GB | D2C | "F"F>Ac |1 A2F | "C7"C2E :|2 "F"F>FF | Fzz |] 
+W:
+W: "Riebg\"artli" - eine Region bei Weissenfluh am Hasliberg.
+% wz05845
+X:2
+T:Riebg\"arteler (Walzer)  C 7+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C%%MIDI gchordon
+"C"c>eg | "G7"B>df | B>df | A2G | B>df | A2G | "C"c>eg |1 e2c | "G7"G2B :|2 "C"c>cc | czz |] 
+% wz05845
+X:3
+T:Riebg\"arteler (Walzer)  G 2+
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G%%MIDI gchordon
+"G"G>Bd | "D7"F>Ac | F>Ac | E2D | F>Ac | E2D | "G"G>Bd |1 B2G | "D7"D2F :|2 "G"G>GG | Gzz |] 
+% wz05845
+X:4
+T: Riebg\"arteler (Walzer)  F (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:F transpose=3 %%MIDI gchordon
+"F"F>Ac | "C7"E>GB | E>GB | D2C | E>GB | D2C | "F"F>Ac |1 A2F | "C7"C2E :|2 "F"F>FF | Fzz |] 
+% wz05845
+X:5
+T:Riebg\"arteler (Walzer)  C (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:C transpose=3 %%MIDI gchordon
+"C"c>eg | "G7"B>df | B>df | A2G | B>df | A2G | "C"c>eg |1 e2c | "G7"G2B :|2 "C"c>cc | czz |] 
+% wz05845
+X:6
+T:Riebg\"arteler (Walzer)  G (5letras transposed)
+%%MIDI program 21
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=3 %%MIDI gchordon
+"G"G>Bd | "D7"F>Ac | F>Ac | E2D | F>Ac | E2D | "G"G>Bd |1 B2G | "D7"D2F :|2 "G"G>GG | Gzz |] 
+% wz05845
+X:7
+T:Riebg\"arteler (Walzer) D (tinwhistle in D) solo
+T:wz05845 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:D transpose=12
+"D"d>fa | "A7"c>eg | c>eg | B2A | c>eg | B2A | "D"d>fa |1 f2d | "A7"A2c :|2 "D"d>dd | dzz |] 
+X:8
+T:Riebg\"arteler (Walzer) G (tinwhistle in D) solo
+T:wz05845 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:waltz
+M:3/4
+L:1/4
+K:G transpose=12
+"G"G>Bd | "D7"F>Ac | F>Ac | E2D | F>Ac | E2D | "G"G>Bd |1 B2G | "D7"D2F :|2 "G"G>GG | Gzz |] 
+% July 19, 2016

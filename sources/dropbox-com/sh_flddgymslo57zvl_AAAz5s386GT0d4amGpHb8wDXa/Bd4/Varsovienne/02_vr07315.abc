@@ -1,0 +1,72 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Varsovienne GC  (vr07315)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.287 (mz07310) orig. G,C
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+P:ABACDEDFA
+R:Varsovienne
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+B>c [P:A] |: "G"d>^c .d2.g2 | !>!"D7"f4 F>G | A>^G .A2.d2 | !>!"G"B4 B>c | d>^c .d2.B2 | "C"c3B AG | "D7"F>G .A2.F2 |1 "G"G4 B>c :|2 
+"G"G4 F>G || [P:B] "D"A(^G/A/) .f2.d2 | A(^G/A/) .f2.d2 | A(^G/A/) FA dF | B4A2 | "A7"A(^G/A/) .g2.e2 | A(^G/A/) .g2.e2 |   ^c>E B>A G>E | 
+"D"D4 B>"_>Teil A"c || G>G [P:C] |: "Em"G>F .G2.E2 | B>^A .B2.G2 | e>^d .e2.B2 | "Am"c4 c>c | "B7"B>^A .B2.F2 |1 "Em"G>F .G2.E2 | 
+"C"E>^D E>F G>A | "B7"B4G>G :|2 "Em".A2.G2 FE | "D7"D>B B>D B>A | "G"G4 G>G || [P:D] [K:C] "C"Ge cG EC | G,4G>G | "G7"fd BG AF | 
+"C"E4 G>G | (Gg) .g.g .g.g | "F"g3f Ad | ("C"dc Bc) ("G7"ed) | "C"c4 B>c || [P:E] [K:G] "G"d>^c .d2.e2 | d>^c .d2.B2 | "D7"A>G .F2.E2 | (!>!E4D2)  | 
+"G"d>^c .d2.e2 | d>^c .d2."C"=c2 | "D7"B>A .E2.F2 | "G"G4"_>Teil D"z2 || c>c  [P:F] |: [K:C]"F"c>B .c2.A2 | "C".G2 EG ce | 
+"G7"g3d ^cd | "C"e4 c>c | "F"dc Bc AF | "C"EG c2 e>e | "G7"a3g fd |1 "C"c4 c>c :|2 "C"c4 "_>Teil A"B>c |] 
+% vr07315
+% June 12, 2017
+
+X:2
+T:Varsovienne CF 5+  (vr07315)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.287 (mz07310) orig. G,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+%P:ABACDEDFA
+R:Varsovienne
+M:3/4
+L:1/8
+K:C%%MIDI gchordon
+e>f [P:A] |: "C"g>^f .g2.c'2 | !>!"G7"b4 B>c | d>^c .d2.g2 | !>!"C"e4 e>f | g>^f .g2.e2 | "F"f3e dc | "G7"B>c .d2.B2 |1 "C"c4 e>f :|2 
+"C""_Fine"c4 B>c || [P:B] "G"d(^c/2d/2) .b2.g2 | d(^c/2d/2) .b2.g2 | d(^c/2d/2) Bd gB | e4d2 | "D7"d(^c/2d/2) .c'2.a2 | d(^c/2d/2) .c'2.a2 | ^f>A e>d c>A | 
+"G"G4 e>"_>Teil A"f || c>c [P:C] |: "Am"c>B .c2.A2 | e>^d .e2.c2 | a>^g .a2.e2 | "Dm"f4 f>f | "E7"e>^d .e2.B2 |1 "Am"c>B .c2.A2 | 
+"F"A>^G A>B c>d | "E7"e4c>c :|2 "Am".d2.c2 BA | "G7"G>e e>G e>d | "C"c4 c>c || [P:D] [K:F] "F"ca fc AF | C4c>c | "C7"bg ec dB | 
+"F"A4 c>c | (cc') .c'.c' .c'.c' | "Bb"c'3b dg | ("F"gf ef) ("C7"ag) | "F"f4 e>f || [P:E] [K:C] "C"g>^f .g2.a2 | g>^f .g2.e2 | "G7"d>c .B2.A2 | (!>!A4G2) | 
+"C"g>^f .g2.a2 | g>^f .g2"F"=f2 | "G7"e>d .A2.B2 | "C"c4"_>Teil D"z2 || f>f [P:F] |: [K:F]"Bb"f>e .f2.d2 | "F".c2 Ac fa | 
+"C7"c'3g ^fg | "F"a4 f>f | "Bb"gf ef dB | "F"Ac f2 a>a | "C7"d'3c' bg |1 "F"f4 f>f :|2 "F"f4 "_>Teil A"e>f |] 
+W:Parts: ABA CDED FA
+% vr07315
+% June 12, 2017
+
+X:3
+T:Varsovienne CF 7+  (vr07315)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.287 (mz07310) orig. G,C
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+%%partsbox
+%P:ABACDEDFA
+R:Varsovienne
+M:3/4
+L:1/8
+K:C%%MIDI gchordon
+E>F [P:A] |: "C"G>^F .G2.c2 | !>!"G7"B4 B,>C | D>^C .D2.G2 | !>!"C"E4 E>F | G>^F .G2.E2 | "F"F3E DC | "G7"B,>C .D2.B,2 |1 "C"C4 E>F :|2 
+"C""_Fine"C4 B,>C || [P:B] "G"D(^C/2D/2) .B2.G2 | D(^C/2D/2) .B2.G2 | D(^C/2D/2) B,D GB, | E4D2 | "D7"D(^C/2D/2) .c2.A2 | D(^C/2D/2) .c2.A2 | ^F>A, E>D C>A, | 
+"G"G,4 E>"_>Teil A"F || C>C [P:C] |: "Am"C>B, .C2.A,2 | E>^D .E2.C2 | A>^G .A2.E2 | "Dm"F4 F>F | "E7"E>^D .E2.B,2 |1 "Am"C>B, .C2.A,2 | 
+"F"A,>^G, A,>B, C>D | "E7"E4C>C :|2 "Am".D2.C2 B,A, | "G7"G,>E E>G, E>D | "C"C4 C>C || [P:D] [K:F] "F"CA FC A,F | C4C>C | "C7"BG EC DB, | 
+"F"A,4 C>C | (Cc) .c.c .c.c | "Bb"c3B DG | ("F"GF EF) ("C7"AG) | "F"F4 E>F || [P:E] [K:C] "C"G>^F .G2.A2 | G>^F .G2.E2 | "G7"D>C .B,2.A,2 | (!>!A,4G,2) | 
+"C"G>^F .G2.A2 | G>^F .G2"F"=F2 | "G7"E>D .A,2.B,2 | "C"C4"_>Teil D"z2 || F>F [P:F] |: [K:F]"Bb"F>E .F2.D2 | "F".C2 A,C FA | 
+"C7"c3G ^FG | "F"A4 F>F | "Bb"GF EF DB, | "F"A,C F2 A>A | "C7"d3c BG |1 "F"F4 F>F :|2 "F"F4 "_>Teil A"E>F |] 
+W:Parts: ABA CDED FA
+% vr07315
+% June 12, 2017
+

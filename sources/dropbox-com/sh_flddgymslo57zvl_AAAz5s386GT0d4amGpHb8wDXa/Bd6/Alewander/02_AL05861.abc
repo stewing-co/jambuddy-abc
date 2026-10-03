@@ -1,0 +1,81 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Allewander (Alewander)  FCBb
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.326 (AL05861) orig. F,C,Bb-Dur
+T: "Riebg\"arteler", T\"anze aus Halisberg. S.319-338
+T: Aus dem Repertoire von Johann und Melchior Zenger.
+%%MIDI program 21
+R:alewander
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+c|: "F"a>g "Bb"f>d | "F"cdc2 | "C7"cbg2 | "F"ca fc | a>g "Bb"f>d | "F"cdc2 | "C7"cb ge |1 "F"f2zc :|2 "F"f2z2 || [K:C] 
+"G7"g>a g>a | "C"gag2 | "G7"gg ab | "C7"c'_b ag | "F"a>g "Bb"f>d | "F"cdc2 | "C7"c_b ge | "F"f2z2 || [K:F] 
+"F"c>f f>a | a>c'c'2 | "C7"c'>b b>d' | "F"d'>c'c'2 | c>f f>a | a>c'c'2 | "C7"c'>b be | "F"f2z2 || [K:Bb] 
+|: "Bb"d3f | "F7"feg2 | c3e | "Bb"edf2 | "Gm"B3d | "Cm"dce2 | "F7"f>f ga |1 "Bb"ba gf :|2 "Bb"b2z2 |] 
+% AL05861
+X:2
+T:Allewander (Alewander)  CGF 5-
+%%MIDI program 21
+R:alewander
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+G|: "C"e>d "F"c>A | "C"GAG2 | "G7"Gfd2 | "C"Ge cG | e>d "F"c>A | "C"GAG2 | "G7"Gf dB |1 "C"c2zG :|2 "C"c2z2 || [K:G] 
+"D7"d>e d>e | "G"ded2 | "D7"dd ef | "G7"g=f ed | "C"e>d "F"c>A | "C"GAG2 | "G7"G=f dB | "C"c2z2 || [K:C] 
+"C"G>c c>e | e>gg2 | "G7"g>f f>a | "C"a>gg2 | G>c c>e | e>gg2 | "G7"g>f fB | "C"c2z2 || [K:F] 
+|: "F"A3c | "C7"cBd2 | G3B | "F"BAc2 | "Dm"F3A | "Gm"AGB2 | "C7"c>c de |1 "F"fe dc :|2 "F"f2z2 |] 
+% AL05861
+X:3
+T:Allewander (Alewander)  CGF (5letras transposed)
+%%MIDI program 21
+R:alewander
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+G|: "C"e>d "F"c>A | "C"GAG2 | "G7"Gfd2 | "C"Ge cG | e>d "F"c>A | "C"GAG2 | "G7"Gf dB |1 "C"c2zG :|2 "C"c2z2 || [K:G] 
+"D7"d>e d>e | "G"ded2 | "D7"dd ef | "G7"g=f ed | "C"e>d "F"c>A | "C"GAG2 | "G7"G=f dB | "C"c2z2 || [K:C] 
+"C"G>c c>e | e>gg2 | "G7"g>f f>a | "C"a>gg2 | G>c c>e | e>gg2 | "G7"g>f fB | "C"c2z2 || [K:F] 
+|: "F"A3c | "C7"cBd2 | G3B | "F"BAc2 | "Dm"F3A | "Gm"AGB2 | "C7"c>c de |1 "F"fe dc :|2 "F"f2z2 |] 
+% AL05861
+X:4
+T:Allewander (Alewander) GD&C (tinwhistle in D)
+T:AL05861 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:alewander
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+D|: "G"B>A "C"G>E | "G"DED2 | "D7"DcA2 | "G"DB GD | B>A "C"G>E | "G"DED2 | "D7"Dc AF |1 "G"G2zD :|2 "G"G2z2 || [K:D] 
+"A7"A>B A>B | "D"ABA2 | "A7"AA Bc | "D7"d=c BA | "G"B>A "C"G>E | "G"DED2 | "D7"D=c AF | "G"G2z2 || [K:G] 
+"G"D>G G>B | B>dd2 | "D7"d>c c>e | "G"e>dd2 | D>G G>B | B>dd2 | "D7"d>c cF | "G"G2z2 || [K:C] 
+|: "C"E3G | "G7"GFA2 | D3F | "C"FEG2 | "Am"C3E | "Dm"EDF2 | "G7"G>G AB |1 "C"cB AG :|2 "C"c2z2 |] 
+% AL05861
+X:5
+T:Allewander (Alewander) GD&C (tinwhistle in D) var.
+T:AL05861 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:alewander
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+D|: "G"B>A "C"G>E | "G"DED2 | "D7"DcA2 | "G"DB GD | B>A "C"G>E | "G"DED2 | "D7"Dc AF |1 "G"G2zD :|2 "G"G2z2 || [K:D] 
+"A7"A>B A>B | "D"ABA2 | "A7"AA Bc | "D7"d=c BA | "G"B>A "C"G>E | "G"DED2 | "D7"D=c AF | "G"G2z2 || [K:G] 
+"G"D>G G>B | B>dd2 | "D7"d>c c>e | "G"e>dd2 | D>G G>B | B>dd2 | "D7"d>c cF | "G"G2z2 || [K:G] 
+|: "G"B3d | "D7"dce2 | A3c | "G"cBd2 | "Em"G3B | "Am"BAc2 | "D7"d>d ef |1 "G"gf ed :|2 "G"g2z2 |] 
+% AL05861
+X:6
+T:Allewander (Alewander) GD&C (tinwhistle in D) var. solo
+T:AL05861 (Hanny Christen)
+%%MIDI program 72   % 111 /74 / 79=whistle
+R:alewander
+M:2/4
+L:1/8
+K:G transpose=12
+D|: B>A G>E | DED2 | D"_c"cA2 | DB GD | B>A G>E | DED2 | D"_c"c AF |1 G2zD :|2 G2z2 || [K:D] 
+A>B A>B | ABA2 | AA B"_#"c | d"_c"=c BA | B>A G>E | DED2 | D=c AF | G2z2 || [K:G] 
+D>G G>B | B>dd2 | d>"_c"c c>e | e>dd2 | D>G G>B | B>dd2 | d>"_c"c cF | G2z2 || [K:G] 
+|: B3d | d"_c"ce2 | A3"_c"c | cBd2 | G3B | BA"_c"c2 | d>d ef |1 gf ed :|2 g2z2 |]
+% AL05861
+% July 23, 2016

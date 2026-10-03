@@ -1,0 +1,171 @@
+%abc-2.1
+%%partsfont "Sans-Bold" 20 box
+%
+
+X:0
+T:background information
+C:Eric Conrad
+K:
+W:This ABC file makes use of a purely experimental piece that I wrote purely as an exercise in composing
+W:a fiddle tune in 11/8 time.  Here I use it as an illustration of how to play around with odd rhythms in ABC,
+W:especially if you are using abc2midi in order to render ABC into sound.  (The program abc2midi is the sound
+W:generator for a lot of ABC editors, including EasyABC, ABCexplorer, and MCmusicEditor.  It can also be used
+W:as a standalone program to generate MIDI files from ABC files.  If you are using some other sound generator,
+W:the examples will probably not work as well for you.)
+W:
+W:The underlying piece, entitled "Who can count to eleven", is a 44-bar AABB Dorian mode tune (with each\
+W:part being exactly 11 bars in length) scored in (you guessed it), 11/8 meter. The three versions differ
+W:in how a single 11-beat measure is divided and accented.  In version 1, the measure is divided much like a slip
+W:jig, with three 3/8 segments, and the extra two beats tags a 2/8 segment for a total of eleven eighth notes.
+W:The rhythm is essentially "bum-diddy bum-diddy bum-diddy bum-dee" with accent on the bums, and primary accent
+W:on the first bum.  (Version 1 is the intended version of the tune)
+W:
+W:The second version is somewhat smoother, more reel-like in feel, but with a slightly jarring break.  The
+W:rhythm there is "bum-diddydiddy bum-diddydiddy bum", again with accents on the bums and primary accent on the
+W:first bum.  Thats 1-2-3-4-5 1-2-3-4-5 1.
+W:
+W:The third version is smoother still with a bum-adiddy bum-adiddy bum-diddy feel or two 4-beat segments followed by
+W:a 3-beat segment.
+W:
+W:Rhythm is enforced in two ways:
+W:
+W:(1) with the abc2midi beatstring option... In the first piece, the beatstring is "fppmppmppmp" which puts
+W:the primary stress (forte) on the first beat, secondary stress (mezzo) on the fourth, seventh and tenth beats,
+W:and the tertiary stress (piano) on the remaining seven beats.
+W:
+W:(2) with the abc2midi gchord option... In the first piece, the gchord string is "Ghicigcigc" which, for a typical
+W:major or minor chord, plays the fundamental on beat 1, the third an octave higher on beat two, the fifth also
+W:an octave higher on beat 3, strumming the chord on beat 4, etc.
+W:
+W:The chords have been adjusted in the second and third versions so that chord changes happen only on accented beats.
+W:If you have adequate midi playback, what you hear should be reminiscent of the sound of a fiddle accompanied by
+W:a banjo.
+W:
+W:The melody notes in the second and third versions have also been adjusted to emphasize the different rhythms.
+
+
+X:1
+T:Who can count to eleven? [FPP MPP MPP MP]
+T:Somewhat bouncy like a jig: 11/8=(3+3+3+2)/8
+C:Eric Conrad
+M:11/8
+L:1/8
+Q:3/8=100
+K:Ador
+% Simple i-IV-v-i Dorian mode progression
+% Chords and relatives: i=Am (III=C); IV=D (ii=Bm); v=Em (VII=G); [vi0=F#dim]
+%%text A Dorian
+% Play with the next four lines (comment out/modify) to see how things work
+%%MIDI beatstring fppmppmppmp   % rhythm: "xx 'xx 'xx '' = bum-dee-dee bum-dee-dee bum-dee-dee bum-dee
+%%MIDI gchord Ghicigcigcg       % chord vamp
+%%MIDI program 40               % violin/fiddle for melody
+%%MIDI chordprog 105            % banjo for chords
+P:A
+|: z (3B/c/B/ \
+| "Am"A3 Ace "Asus2"ABA AB/e/ | "G"d3 BdB GBd Bc | "D"d3 dfd "Am"cec A2 |
+A3 Ace "Asus2"ABA AB/e/ | "G"d3 BdB BBd Bc | "D"d3 dfd "Am"cec A2 |
+A3 ecA "G"GBd Gd | "Em"e3 ede "Bm"BdB Bd | "D"fdf d3 "Am"AcA AG |
+"Em"B3 BGE "D"DFA FA | "Asus2"A2B A3 z3 :|
+P:B
+|: z2 | "Am"A3 A3 "Asus2"ABe a2 | "Em"e3 ebg ebg B2 | "Bm"d3 BdB "Asus2"ABA A2 |
+"Am"A3 Ace "Asus2"ABe a2 | "Em"e3 ebg ebg B2 | "D"d3 fdf "Am"ecA A2 |
+A3 Ace "G"dgB gB | "Em"egb egb "D"afd fd | "Bm"fdB fdB "Am"AcA AE |
+"Em"GBE GBE "D"DFA DF | "Asus2"A3 ABA A3 :|
+%%center \u00a9 2019 by Eric Conrad
+%%text Licensed for general use under Creative Commons Attribution-ShareAlike 4.0 International Public License.
+%%text License details are available on the web at "https://creativecommons.org/licenses/by-sa/4.0/legalcode".
+
+
+X:2
+T:Who can count to eleven? [FPPPP MPPPP M]
+T:Smoother like a reel, but with a quick bounce 11/8=(5+5+1)/8
+C:Eric Conrad
+M:11/8
+L:1/8
+Q:3/8=100
+K:Ador
+% Simple i-IV-v-i Dorian mode progression
+% Chords and relatives: i=Am (III=C); IV=D (ii=Bm); v=Em (VII=G); [vi0=F#dim]
+%%text A Dorian
+% Play with the next four lines (comment out/modify) to see how things work
+%%MIDI beatstring fppppmppppm   % rhythm: bum-dee-dee-dee-dee bum-dee-dee-dee-dee bum
+%%MIDI gchord Ghigichigic       % chord vamp
+%%MIDI program 40               % violin/fiddle for melody
+%%MIDI chordprog 105            % banjo for chords
+P:A
+|: z (3B/c/B/ \
+| "Am"AceAc "Asus2"eABA2 B/e/ | "G"d3Bd BGBdB "C"c | "D"d3df "Dm7"dcecA "Am"A |
+AceAc "Asus2"eABA2 "Em"B/e/ | "G"d3Bd BBBdB "C"c | "D"d3df "D7"dcecA "Am"A |
+A3ec "G9"AGBdG "G"d | "Em"e3ed "Bm"eBdB2 "D"d | fdfd2 "D7"dAcA2 "G"G |
+"Em"B3BG "D"D2FAF "Am"A | "Asus2"A2BA2 "Am"Az3 :|
+P:B
+|: z2 | "Am"A3A2 "Asus2"AABea "D"a | "Em"e3eb gebgB "Bm"B | d3Bd "Asus2"BABA2 A |
+"Am"A3Ac "Asus2"eABea "D"a | "Em"e3eb "G"gebgB "Bm"B | "D"d3fd "D7"fecA2 A |
+"Am"A3Ac "G"edgBg "Bm"B | "Em"egbeg "Bm"bafdf "D"d | "Bm"fdBfd "Asus2"BAcA2 "Em"E |
+"G"GBEGB "D"D2FAD "D"F | "Asus2"A3AB "Am"AA3 :|
+%%center \u00a9 2019 by Eric Conrad
+%%text Licensed for general use under Creative Commons Attribution-ShareAlike 4.0 International Public License.
+%%text License details are available on the web at "https://creativecommons.org/licenses/by-sa/4.0/legalcode".
+
+X:3
+T:Who can count to eleven? [FPPP MPPP MPP]
+T:Smoother still, but still quirky: 11/8=(4+4+3)/8
+C:Eric Conrad
+M:11/8
+L:1/8
+Q:3/8=100
+K:Ador
+% Simple i-IV-v-i Dorian mode progression
+% Chords and relatives: i=Am (III=C); IV=D (ii=Bm); v=Em (VII=G); [vi0=F#dim]
+%%text A Dorian
+% Play with the next four lines (comment out/modify) to see how things work
+%%MIDI beatstring fpppmpppmpp   % rhythm: bum-dee-dee-dee bum-dee-dee-dee bum-dee-dee
+%%MIDI gchord Ghigchigcig       % chord vamp
+%%MIDI program 40               % violin/fiddle for melody
+%%MIDI chordprog 105            % banjo for chords
+P:A
+|: z (3B/c/B/ \
+| "Am"AceA "C"ceAB "Asus2"AAB/e/ | "G"d3B dBGB dBc | "D"dfad "D7"fdce "Am"cA2 |
+AEcA ceAB "Asus2"AAB/e/ | "G"d3B dBBB dBc | "D"dfad "D7"fdce "Am"cA2 |
+A3e "C"cAGB "G"dGd | "Em"egBe "Bm"deBd BBd | "D"fdfd d2Ac "Am"AAG |
+"Em"BGBG "G"GEDF "D"AFA | "Asus2"ABBA BAA2 z :|
+P:B
+|: z2 | "Am"AcEA "Asus2"A2AB ea2 | "Em"egfe bgeb "G"gB2 | "Bm"d3B dBAB "D"AA2 |
+"Am"AceA ceAB ea2 | "Em"egfe bgeb "G"gB2 | "D"d3f "D7"dfec "Am"AA2 |
+AEcA "C"cedg "G"BgB | "Em"egbe "G"gbaf "D"dfd | "Bm"fdBf "D"dBAc "Am"AAE |
+"Em"GBEG "Bm"BEDF "D"ADF | "Asus2"ABBA BAA2 z :|
+%%center \u00a9 2019 by Eric Conrad
+%%text Licensed for general use under Creative Commons Attribution-ShareAlike 4.0 International Public License.
+%%text License details are available on the web at "https://creativecommons.org/licenses/by-sa/4.0/legalcode".
+
+X:4
+T:Who can count to eleven? [MPPPP MPPPP F]
+T:Smoother like a reel, but with a quick bounce 11/8=(5+5+1)/8 and ending primary stress
+C:Eric Conrad
+M:11/8
+L:1/8
+Q:3/8=100
+K:Ador
+% Simple i-IV-v-i Dorian mode progression
+% Chords and relatives: i=Am (III=C); IV=D (ii=Bm); v=Em (VII=G); [vi0=F#dim]
+%%text A Dorian
+% Play with the next four lines (comment out/modify) to see how things work
+%%MIDI beatstring mppppmppppf   % rhythm: bum-dee-dee-dee-dee bum-dee-dee-dee-dee bum'
+%%MIDI gchord Ghigichigic       % chord vamp
+%%MIDI program 40               % violin/fiddle for melody
+%%MIDI chordprog 105            % banjo for chords
+P:A
+|: z (3B/c/B/ \
+| "Am"AceAc "Asus2"eABA2 B/e/ | "G"d3Bd BGBdB "C"c | "D"d3df "Dm7"dcecA "Am"A |
+AceAc "Asus2"eABA2 "Em"B/e/ | "G"d3Bd BBBdB "C"c | "D"d3df "D7"dcecA "Am"A |
+A3ec "G9"AGBdG "G"d | "Em"e3ed "Bm"eBdB2 "D"d | fdfd2 "D7"dAcA2 "G"G |
+"Em"B3BG "D"D2FAF "Am"A | "Asus2"A2BA2 "Am"Az3 :|
+P:B
+|: z2 | "Am"A3A2 "Asus2"AABea "D"a | "Em"e3eb gebgB "Bm"B | d3Bd "Asus2"BABA2 A |
+"Am"A3Ac "Asus2"eABea "D"a | "Em"e3eb "G"gebgB "Bm"B | "D"d3fd "D7"fecA2 A |
+"Am"A3Ac "G"edgBg "Bm"B | "Em"egbeg "Bm"bafdf "D"d | "Bm"fdBfd "Asus2"BAcA2 "Em"E |
+"G"GBEGB "D"D2FAD F | "Asus2"A3AB "Am"AA3 :|
+%%center \u00a9 2019 by Eric Conrad
+%%text Licensed for general use under Creative Commons Attribution-ShareAlike 4.0 International Public License.
+%%text License details are available on the web at "https://creativecommons.org/licenses/by-sa/4.0/legalcode".
+

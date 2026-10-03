@@ -1,0 +1,14 @@
+X:405
+T:N.6 Mais lentamente
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 5 clef=bass name="Basso" sname="B."
+%%MIDI program 1 42
+%%staves [ 5 ]
+%----------- edit between the lines ------------
+"_[fol.12]" F,, !>!C,/ !>!F,,/ z/ z/ | !f! !>!D,3/2 !>!E,3/2 | F,3/2- F,/ z/ z/ | "_[fol.13]" X | X | X | X |\
+"_[fol.14]"    z z/ "_pizz" !p! F,,/z/z/ | z/ "^[m.cresc.molto]" D,/C,/ B,, A,,/ | !ff! G,,3/2 z z  | <F,, z z/ |\
+"_[fol.15]" X || \
+[M:3/8] z/ !ff! B,/A,/ ||

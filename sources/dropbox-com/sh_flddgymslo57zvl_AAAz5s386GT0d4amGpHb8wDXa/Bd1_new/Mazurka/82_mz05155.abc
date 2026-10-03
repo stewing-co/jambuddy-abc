@@ -1,0 +1,49 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Polka-Mazurka GDC chords
+T:Hanny Christen. Bd.I  Zürich, Schaffhausen, St. Gallen I. S.384 (mz05155) orig. G,D,C-Dur
+T: Aus dem Repertoire von Joh. Heeb, Sax, St. Galler Rheintal, 1952. S.362-393.
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"B>c d2e2 | "D7"d2c2c2 | A>Bc2d2 | "G"c2B2B2 | g>ga2g2 | "D7"g2f2f2 |1 "C"e>ef2e2 | "G"e2d2d2 :|2    "C"e>dc2"D7"f2 | "G"g2g2z2 || [K:D] 
+|: "D"FA dAf2 | "Em/G"feB2B2 | "A7"Ac ecg2 | "D"gfd2d2 | FA dA f2 |  "Em"eB eBg2 | "A7"fg fe Bc |1 "D"ed cBA2 :|2 "D"d2d2z2 || [K:C]
+|: "C"GGG2e2 | "F"f2A2A2 | "G7"GGB2d2 | "C"e2c2c2 | c2d3c | "G7".B2 !>!f4 |1 "F"A2B3A | "C".G2!>!e4 :|2 "G7"AB e2d2 | "C"c2c2z2 || 
+|: "F"cB AB cA | "C"A2G2G2 | "G7"FG B2A2 | "C"A2G2G2 | "F"cB AB cA | "C"A2G2G2 | "G7"GA BG AB | "C"c2c2z2 :| 
+X:2
+T:Polka-Mazurka CGF 5+ chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"e>f g2a2 | "G7"g2f2f2 | d>ef2g2 | "C"f2e2e2 | c'>c'd'2c'2 | "G7"c'2b2b2 |1 "F"a>ab2a2 | "C"a2g2g2 :|2 "F"a>gf2"G7"b2 | "C"c'2c'2z2 || [K:Gmaj] 
+|: "G"Bd gdb2 | "Am/C"bae2e2 | "D7"df afc'2 | "G"c'bg2g2 | Bd gd b2 | "Am"ae aec'2 | "D7"bc' ba ef |1 "G"ag fed2 :|2 "G"g2g2z2 || [K:Fmaj]
+|: "F"ccc2a2 | "Bb"b2d2d2 | "C7"cce2g2 | "F"a2f2f2 | f2g3f | "C7".e2 !>!b4 |1 "Bb"d2e3d | "F".c2!>!a4 :|2 "C7"de a2g2 | "F"f2f2z2 || 
+|: "Bb"fe de fd | "F"d2c2c2 | "C7"Bc e2d2 | "F"d2c2c2 | "Bb"fe de fd | "F"d2c2c2 | "C7"cd ec de | "F"f2f2z2 :| 
+X:3
+T:Polka-Mazurka CGF 7- chords
+M:3/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"E>F G2A2 | "G7"G2F2F2 | D>EF2G2 | "C"F2E2E2 | c>cd2c2 | "G7"c2B2B2 |1 "F"A>AB2A2 | "C"A2G2G2 :|2 "F"A>GF2"G7"B2 | "C"c2c2z2 || [K:Gmaj] 
+|: "G"B,D GDB2 | "Am/C"BAE2E2 | "D7"DF AFc2 | "G"cBG2G2 | B,D GD B2 | "Am"AE AEc2 | "D7"Bc BA EF |1 "G"AG FED2 :|2 "G"G2G2z2 || [K:Fmaj]
+|: "F"CCC2A2 | "Bb"B2D2D2 | "C7"CCE2G2 | "F"A2F2F2 | F2G3F | "C7".E2 !>!B4 |1 "Bb"D2E3D | "F".C2!>!A4 :|2 "C7"DE A2G2 | "F"F2F2z2 || 
+|: "Bb"FE DE FD | "F"D2C2C2 | "C7"B,C E2D2 | "F"D2C2C2 | "Bb"FE DE FD | "F"D2C2C2 | "C7"CD EC DE | "F"F2F2z2 :| 
+X:4
+T:Polka-Mazurka CGF (5letras transposed)
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"e>f g2a2 | "G7"g2f2f2 | d>ef2g2 | "C"f2e2e2 | c'>c'd'2c'2 | "G7"c'2b2b2 |1 "F"a>ab2a2 | "C"a2g2g2 :|2 "F"a>gf2"G7"b2 | "C"c'2c'2z2 || [K:Gmaj] 
+|: "G"Bd gdb2 | "Am/C"bae2e2 | "D7"df afc'2 | "G"c'bg2g2 | Bd gd b2 | "Am"ae aec'2 | "D7"bc' ba ef |1 "G"ag fed2 :|2 "G"g2g2z2 || [K:Fmaj]
+|: "F"ccc2a2 | "Bb"b2d2d2 | "C7"cce2g2 | "F"a2f2f2 | f2g3f | "C7".e2 !>!b4 |1 "Bb"d2e3d | "F".c2!>!a4 :|2 "C7"de a2g2 | "F"f2f2z2 || 
+|: "Bb"fe de fd | "F"d2c2c2 | "C7"Bc e2d2 | "F"d2c2c2 | "Bb"fe de fd | "F"d2c2c2 | "C7"cd ec de | "F"f2f2z2 :| 
+X:5
+T:Polka-Mazurka CGF oct (5letras transposed)
+M:3/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"E>F G2A2 | "G7"G2F2F2 | D>EF2G2 | "C"F2E2E2 | c>cd2c2 | "G7"c2B2B2 |1 "F"A>AB2A2 | "C"A2G2G2 :|2 "F"A>GF2"G7"B2 | "C"c2c2z2 || [K:Gmaj] 
+|: "G"B,D GDB2 | "Am/C"BAE2E2 | "D7"DF AFc2 | "G"cBG2G2 | B,D GD B2 | "Am"AE AEc2 | "D7"Bc BA EF |1 "G"AG FED2 :|2 "G"G2G2z2 || [K:Fmaj]
+|: "F"CCC2A2 | "Bb"B2D2D2 | "C7"CCE2G2 | "F"A2F2F2 | F2G3F | "C7".E2 !>!B4 |1 "Bb"D2E3D | "F".C2!>!A4 :|2 "C7"DE A2G2 | "F"F2F2z2 || 
+|: "Bb"FE DE FD | "F"D2C2C2 | "C7"B,C E2D2 | "F"D2C2C2 | "Bb"FE DE FD | "F"D2C2C2 | "C7"CD EC DE | "F"F2F2z2 :| 

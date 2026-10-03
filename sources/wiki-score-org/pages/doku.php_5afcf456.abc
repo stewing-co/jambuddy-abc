@@ -1,0 +1,33 @@
+X:711
+T:[Terceto]
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:G
+V: 11 clef=alto1 name="Fama" sname="Fa."
+%%MIDI program 1 1
+%%staves [ 11 ]
+%-------------------------------------------------------------------------------------------------------
+Z6 | z2 || [L:1/8] z2zB | d d d e c c z e | ^d d z e B2 B2 [L:1/4] || Z2 | !fermata!z4  || \
+w: Tal chieg-gon l'o-pre su-e tal che-de il mer-to
+[Q: "Allegro"] z/ | Z11 | !fermata!zz3 | z4| z2zz/A/ | dcB//A//G3/2 | z4 | z/A/ A/ A/  A-G| e2 d/ B/ c/ B/ | cBcB| A A/ \
+w: Di Bian-chi gi--gli no-bil-- co-ro-na an--dre tes-sen-do dell' E-ro-e
+d/^cf| e//d// ^c d/ e/ A/ z/ e/ | f e/> d/ g/ f//e// !trill!e | dzz2|Z4| z2zz/ \
+w: L'au-gus-ta chia-----ma l'au-gus-ta l'au-gus-ta-- chia-ma
+A/| df f//d//{d}e3/2 | z2 z/ \
+w: Di Bian-chi gi--gli
+d/ d/ d/ | d^c f2| dddd| d2-d/^c/c/a/| Be-e/dB/ | ^c2Bz/ \
+w: no-bil co-ro---no an-drem te(?)-----------ssen(?)-do ...
+B/ | ^cd^c//d// ef/ | e//d//^cA/Be-|e/d//^c// d-d/=c/c/a/ | !trill!B/>c/ dz \
+w: an-drem tes-sen--------------------do
+z/B/ | A>G{G}F>B |  Az/ \
+w: an-drem tes-send--do
+A/{A}G>"_(grace note?)"F | {F}E>A GB/> B/|AA/> d/ GB| A/F//G// A/B/ A//G// AB/ | cB/G/ A2|G zz2| \
+w: tes-send----do dell e-roe l'au--gus-ta chia-------------ma
+Z10 | z3 || z | z2zz/B/ | edc//B//A3/2 | \
+w: Col bel va-lo--re
+z2 z/ f/ f/ f/ | fe2^d | e/ e/ e/ e/ ^dB| c/B/ A B/d//c// d/B/ | A/> A/ A/ A/ d/ B/ B//c// d//B// | e \
+w:ei si se de---gno di tan-ta glo-----------ria-a chei rag-gi span--de--ra
+z/ e/ c/ A/ A//B// c//A// | FG c/B/A/G/| FB ^Ad-|d ^c/B/ B ^A | !fermata!B4 |]  \
+w: chei rag-gi span--de--ra dal Ta----go a Ro-------ma.
+%----------------------------------------------------------------------------------

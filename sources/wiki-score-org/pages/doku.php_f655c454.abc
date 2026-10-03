@@ -1,0 +1,23 @@
+X:202
+T:Trio IV (Allegro assai)
+C:Costa, Abade António da (1714-c1780)
+M:12/8
+L:1/8
+K:F
+V: 2 clef=treble name="Violino II.do" sname="Vl.II"
+%%MIDI program 1 40
+%%staves [ 2 ]
+%----- edit between the lines
+[Q:"Allegro assai"] "_[fol.10v (25)]" z z2z | zz(e fa).g (bab a).f.e | (gf).e .f.d.f f6- | f(G=B d).c.e
+.g(GB d).c.e | .g(G=B d).c.e g6- | g3 =B3-B2 .d2.g.=B | (dc).e (_B3 BA).=e (B3 |
+BA) .c2 .fA (cB) z (c3 | d3 _e6 c3 | _d3) (c3=B6 | B3) (c3 c6 |
+c6 c3 =B3 | c3) (_B3 B3 A3 | B3) (_A3 G2) (=B d).c.e | .d(G=B d).c.e
+.g(GB d).c.e | .fzz (=B3 c)z :|: "_check" zz2 z | z2(=B ce).d (fef e).c.G |
+(dc).=B .c.A.c c6- | c(D^F A).G=B  .d(D^F A).G.=B |  .d(D^F A).G.=B d6- | d3 ^F6 (d3 |
+d6 _e3 d3 | ^c3) (d3=B6) | (c6=B6) | (c6_B6 | B3) (_c3 B6 |
+"_[fol.26]"  _c3)(B3=A6) | (B6 _A6 | =G3) (_A6 =F3 |=G3) (_A6F3 | _G3) (F3
+=E6- | E2).=e (B4=A) .c2 .f.A | (cB)z (c3d3_e3- | e3c3_d3) (c3 |
+=B6) .=D2.d2.g.=B | (dc).=e (_B4 A).f (A3 | B3) (=B3 c3) E3- | E3 (F3
+F6 | F6 F3 =E3 | F3) (_E6 =D3 | _E3) (_D3 C2) (=E G).F.=A |
+.c(CE G).F.A .c(CE G).F.A | .Bzz E3 Fz :|] \
+%---------------------------------

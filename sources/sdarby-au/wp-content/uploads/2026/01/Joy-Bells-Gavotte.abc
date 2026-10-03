@@ -1,0 +1,75 @@
+X:1
+T:Joy Bells Gavotte
+O:1900 Sydney Australia
+S:https://search.sl.nsw.gov.au/permalink/f/lg5tom/SLNSW_ALMA21120624580002626
+Z:Stephen Hamish Darby
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=110
+M:4/4
+K:Bb
+%%stretchlast true
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:2 treble 
+%%MIDI program 0
+V:3 bass nm="Piano" snm="Pno."
+%%MIDI program 0
+V:4 bass 
+%%MIDI program 0
+V:1
+F{EF} | f2 z2 | f2 z2 | f4 |  [FAcf]{/F} f{/F} f{/F} f |:
+{/^c} [df] [df]{/c} [df] [df] | F2- F z | F2- F z |  [Ac]3/2 [ce]/4[Bd]/4 [Ac] z |{/^c} [df] [df]{/^c} [df] [df] |
+F2- F z | F2- F z |  [EAc]2 [DFB] z | !arpeggio![FAcf]/ z/ [Af] [B=e] [c_e] | [ce]/[Ac]/[Bd]/[ce]/ [df]2 | [ce]/[=Bd]/[ce]/[df]/ [eg]2 |
+[df]/[^c=e]/[df]/[_eg]/ [df]2 | [FAcf]/ z/ [Af] [B=e] [c_e] | [ce]/[Ac]/[Bd]/[ce]/ [df]2- | [df]/f/d/B/ G/B/d/g/ |  =e{fe^de} a/g/ f/f'/ f |
+[K:treble+8] f/4f'/4e'/4d'/4 c'/4b/4a/4g/4 f/4f'/4e'/4d'/4 c'/4b/4a/4g/4 | f'/g'/e'/c'/ a/4b/4a/4g/4 f/4e/4d/4c/4 |
+B/c/d/e/ f/4g/4a/4b/4 c'/4d'/4e'/4f'/4 |  c'3/2 e'/4d'/4 c' z |[K:treble+8] f/4f'/4e'/4d'/4 c'/4b/4a/4g/4 f/4f'/4e'/4d'/4 c'/4b/4a/4g/4 |
+f'/g'/e'/c'/ a/4b/4a/4g/4 f/4e/4d/4c/4 | B/4c/4d/4e/4 f/4g/4a/4b/4[K:treble+8] c/4d/4e/4f/4 g/4a/4b/4c'/4 |  c2- c z ||
+[K:Eb] [EG]2 [GB]2 | e/d/e/f/ z2 |[K:treble+8]{FGB} A/a/.g/f/ .g/b/ B | {EFG} =A/g/.f/e/ .d/f/ [_Ac]/>B/ | [EG]2 [GB]2 |
+A2 G2 |{=ef} b/a/4 z/4 z{=Bc} f/e/4 z/4 z | {^FG} [Ac]/[DB]/ [CA]/>[A,F]/ [G,B,E] z | C/D/ E D/=B,/ G, | C B,/A,/ G, z |
+F/G/A/B/ c/d/e/f/ |  g/ z/ ^f g z | B/c/ _d B/A/ G | A G/F/ =B,2 | A,/C/E/^F/ =A/c/e/^f/ |
+g/ z/ b c' z | [EG]2 [GB]2 | e/d/e/f/ z2 |[K:treble+8]{FGB} A/a/.g/f/ .g/b/ B | {EFG} =A/g/.f/e/ .d/f/ [_Ac]/>B/ |
+[EG]2 [GB]2 | A2 G2 |{=ef} b/a/4 z/4 z{=Bc} f/e/4 z/4 z |1 {^FG} [Ac]/[DB]/ [CA]/>[A,F]/ [G,B,E] z :|2
+{^FG} [Ac]/[DB]/ [CA]/>[A,F]/ [G,B,E]2 |]
+V:2
+x | z [F^G] [FA]/ z/ F{EF} | z [FA] [FB]/ z/ F{EF} | [FB] z3/4 [FB]/4 [F=B] z3/4 [FB]/4 |  x4 |:
+F2 F2 | f/g/e/c/ A z | B/c/d/e/ f [Geg] |  E2- E z | F2 F2 |
+f/g/e/c/ A z | B/c/d/e/ f [Geg] |  x4 | x4 | x4 | x4 |
+x4 | x4 | x4 | x4 |  x4 |
+[K:treble+8] x4 | x4 |
+x4 |  x4 |[K:treble+8] x4 |
+x4 | x2[K:treble+8] x2 |  z [FG] [DF] z ||
+[K:Eb] x4 | A2 [GB]2 |[K:treble+8] x4 |  x3 x | x4 |
+e/d/e/f/ g2 | x4 |  x4 | x4 | x4 |
+x4 |  x4 | x4 | x4 | x4 |
+x4 | x4 | A2 [GB]2 |[K:treble+8] x4 |  x3 x |
+x4 | e/d/e/f/ g2 | x4 |1  x4 :|2
+x4 |]
+V:3
+z | z [F,=B,] [F,C]/ z/ z | z [F,C] [F,_D]/ z/ z | [F,_D] z3/4 [F,D]/4 [F,=D] z3/4 [F,D]/4 |  [F,E] z z2 |:
+B,, [F,B,D] F,, [F,B,D] | C, [F,A,E] F,, [F,A,E] | B,, [F,B,D] [D,,D,] [E,,E,] |  [F,,F,] [F,A,C] [F,,F,] [F,A,C] | B,, [F,B,D] F,, [F,B,D] |
+C, [F,A,E] F,, [F,A,E] | B,, [F,B,D] [D,,D,] [E,,E,] |  [F,,F,]2 [B,,,B,,] z | [F,,F,]/ z/ [F,A,C] G,, A,, | B,, [F,B,D] F,, [F,B,D] | A,, [F,CE] F,, [F,CE] |
+B,, [F,B,D] F,, [F,B,D] | [F,,F,]/ z/ [F,A,C] G,, A,, | B,, [F,B,D] F,, [F,B,D] | G,, [G,B,DF]2 [G,B,DF] |  C, [G,B,C=E] F,, [F,A,_E] |
+B,, [F,B,D] F,, [F,B,D] | C, [F,A,E] F,, [F,A,E] |
+B,, [F,B,] F,, [F,B,D] |  A,, [F,A,E] F,, [E,A,C] | B,, [F,B,D] F,, [F,B,D] |
+C, [F,A,E] F,, [F,A,E] | B,, [F,B,D] F,, [F,B,D] |  F, F,, B,, z ||
+[K:Eb] E,2 E,2 | E,2 E,2 | B,, [A,B,D] E,, [G,B,E] |  F,, [A,CEF] B,, E/>D/ | E,2 E,2 |
+[E,C] [CE] [=B,D]2 | A,, [A,CF] B,, [G,B,E] |  B,, B,,, E, z | [C,,C,]/[D,,D,]/ [E,,E,] [D,,D,]/[=B,,,=B,,]/ [G,,,G,,] | [C,,C,] [B,,,B,,]/[A,,,A,,]/ [G,,,G,,] z |
+A,, [A,CF] F, [A,CF] |  [G,=B,D]/ z/ [C^EF] [=B,DG] z | [B,,B,]/[C,C]/ [_D,_D] [B,,B,]/[A,,A,]/ [G,,G,] | [A,,A,] [G,,G,]/[F,,F,]/ [=B,,,=B,,]2 | =A,,/C,/E,/^F,/ =A,/C/E/^F/ |
+G/ z/ [G,=B,F] [C,E,G,C] z | E,2 E,2 | E,2 E,2 | B,, [A,B,D] E,, [G,B,E] |  F,, [=A,CEF] B,, E/>D/ |
+E,2 E,2 | [E,C] [CE] [=B,D]2 | A,, [A,CF] B,, [G,B,E] |1  B,, B,,, E, E,, :|2
+B,, B,,, E, E,, |]
+V:4
+x | x4 | x4 | x4 |  x4 |:
+x4 | x4 | x4 |  x4 | x4 |
+x4 | x4 |  x4 | x4 | x4 | x4 |
+x4 | x4 | x4 | x4 |  x4 |
+x4 | x4 |
+x4 |  x4 | x4 |
+x4 | x4 |  x4 ||
+[K:Eb] B, E D _D | C _C B,2 | x4 |  x4 | B, E D _D |
+x4 | x4 |  x4 | x4 | x4 |
+x4 |  x4 | x4 | x4 | x4 |
+x4 | B, E D _D | C _C B,2 | x4 |  x4 |
+B, E D _D | x4 | x4 |1  x4 :|2
+x4 |]

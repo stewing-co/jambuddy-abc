@@ -1,0 +1,14 @@
+X:302
+T:N.5 Lentamente
+C:Antonio Thomaz de Lima
+M:6/8
+L:1/4
+K:D
+V: 2 clef=treble name="Violino II" sname="Vl. II"
+%%MIDI program 1 40
+%%staves [{ 2 }]
+%----------- edit between the lines ------------
+(!>(!A>!>)!  A) z/ z/ | Z8 | z z/ z/ !<(!(^G//A//B/)!<)! | \
+(A/>^G/F/) C3/2 | "_ret. muito" (F > F/^G//)A//B//(c//B//) | \
+A/ "_cresc" C !fermata! !>(!D3/2!>)! ||
+%-----------------------------------------------

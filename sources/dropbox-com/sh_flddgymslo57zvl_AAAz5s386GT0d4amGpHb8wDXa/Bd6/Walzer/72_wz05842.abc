@@ -1,0 +1,71 @@
+%%partsbox
+%%MIDI program 21
+X: 1
+T: Geissb\"ockler (Walzer) G (tinwhistle in D)
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.321 (wz05842) orig. G-Dur
+T: "Riebg\"arteler", T\"anze aus Halisberg. S.319-338
+T: Aus dem Repertoire von Johann und Melchior Zenger.
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:G %%MIDI gchordon
+"G"G2 Bc de | "D7"d2c2A2 | "G"B2D2D2 | "D7"A2D2D2 | "G"G2 Bc de | "D7"d2c2A2 | "G"B2D2"D7"A2 |1 "G"G2z2z2 :|2 "G"G2z2B2 ||  
+|: "G"B2 BG Bd |  "D7"c2A2d2 | c2Ac Ac | "G"B2 GB GB | B2 BG Bd | "D7"c2A2d2 | "G"GB BG "D7"AF | "G"G2z2z2 :|
+% wz05842
+W:
+W: Anmerkungen H.C.: 3. Okt. 1949, 17. Aug. 1953
+% cf. https://dl.dropboxusercontent.com/sh/flddgymslo57zvl/AADU_oXg091nSk8ycyZnWOmia/Bd6/Walzer/01%20wz05842.abc
+X:2
+T:Geissb\"ockler (Walzer) D (tinwhistle in D)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:Dmaj%%MIDI gchordon
+"D"d2 fg ab | "A7"a2g2e2 | "D"f2A2A2 | "A7"e2A2A2 | "D"d2 fg ab | "A7"a2g2e2 | "D"f2A2"A7"e2 |1 "D"d2z2z2 :|2 "D"d2z2f2 || 
+|: "D"f2 fd fa | "A7"g2e2a2 | g2eg eg | "D"f2 df df | f2 fd fa | "A7"g2e2a2 | "D"df fd "A7"ec | "D"d2z2z2 :|
+% wz05842
+X:3
+T:Geissb\"ockler (Walzer) D (tinwhistle in D)
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:D %%MIDI gchordon
+"D"D2 FG AB | "A7"A2G2E2 | "D"F2A,2A,2 | "A7"E2A,2A,2 | "D"D2 FG AB | "A7"A2G2E2 | "D"F2A,2"A7"E2 |1 "D"D2z2z2 :|2 "D"D2z2F2 || 
+|: "D"F2 FD FA | "A7"G2E2A2 | G2EG EG | "D"F2 DF DF | F2 FD FA | "A7"G2E2A2 | "D"DF FD "A7"EC | "D"D2z2z2 :|
+% wz05842
+X: 4
+T: Geissb\"ockler (Walzer) G (tinwhistle in D) solo
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:G transpose=12
+G2 B"_c"c de | d2"_c"c2A2 | B2D2D2 | A2D2D2 | G2 B"_c"c de | d2"_c"c2A2 | B2D2A2 |1 G2z2z2 :|2 G2z2B2 ||  
+|: B2 BG Bd |  "_c"c2A2d2 | c2A"_c"c Ac | B2 GB GB | B2 BG Bd | "_c"c2A2d2 | GB BG AF | G2z2z2 :|
+% wz05842
+X:5
+T:Geissb\"ockler (Walzer) D (tinwhistle in D) solo
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:D transpose=12
+d2 fg ab | a2g2e2 | f2A2A2 | e2A2A2 | d2 fg ab | a2g2e2 | f2A2e2 |1 d2z2z2 :|2 d2z2f2 || 
+|: f2 fd fa | g2e2a2 | g2eg eg | f2 df df | f2 fd fa | g2e2a2 | df fd ec | d2z2z2 :|
+% wz05842
+X:6
+T:Geissb\"ockler (Walzer) D (tinwhistle in D) solo
+%%MIDI program 72   % 111 /74 / 79=whistle
+M:3/4
+L:1/8
+K:D transpose=12
+D2 FG AB | A2G2E2 | F2"_=A,"A,2A,2 | E2A,2A,2 | D2 FG AB | A2G2E2 | F2A,2E2 |1 D2z2z2 :|2 D2z2F2 || 
+|: F2 FD FA | G2E2A2 | G2EG EG | F2 DF DF | F2 FD FA | G2E2A2 | DF FD E"_=C"C | D2z2z2 :|
+% wz05842
+X: 7
+T: Geissb\"ockler (Walzer) G (5letras transposed)
+M:3/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+"G"G2 Bc de | "D7"d2c2A2 | "G"B2D2D2 | "D7"A2D2D2 | "G"G2 Bc de | "D7"d2c2A2 | "G"B2D2"D7"A2 |1 "G"G2z2z2 :|2 "G"G2z2B2 ||  
+|: "G"B2 BG Bd |  "D7"c2A2d2 | c2Ac Ac | "G"B2 GB GB | B2 BG Bd | "D7"c2A2d2 | "G"GB BG "D7"AF | "G"G2z2z2 :|
+% wz05842
+% July 22, 2016

@@ -1,0 +1,34 @@
+X:712
+T:[Terceto]
+C:Antonio Teixeira (1707-1774)
+M:C
+L:1/4
+K:G
+V: 12 clef=alto name="Virtu" sname="Vi."
+%%MIDI program 1 1
+%%staves [ 12 ]
+%-------------------------------------------------------------------------------------------------------
+[L:1/8] ^F2 B B B ^F z \
+w: Or, Don-ne Illus-tri,
+F | "^NB: no # in ms"^F G A ^F G G z/E/ E/ ^F/ | ^G> G G/ A/ B/ c/ A2 A2 | A E E E/ ^F/ G> G G ^F | ^F2 F2 A D/ D/ A c | B2 B2 z B ^A B | ^F2 F2 || \
+w: all o-no-ra-te chio-ma d'un si gran eroi che di ben mil-le'in-tor-no chia-ri pre-gi sen va su-blime a-dor-no ten-ner(?) o mai con-vie-ne a-gus-to ser-to
+[L:1/4] z2 | Z2 || Z2 | !fermata!z4  || \
+[Q: "Allegro"] z/ | Z11 | !fermata!zz3 | z2zz/ D/| G BB//G// {G}A3/2| z4 | z2 z/G/ G/ G/ | GFB2 | GGGG|GGGG| F F/ F/ ED | \
+w: Di fior ver-mi--gli no-bil co-ro---na an-drem te-ssen-do dell'E--roe l'au--gus-ta
+^C//D// E F/ ^C/>D/ E | zz/A/ D/ ^C//B,// C | Dzz2| Z3 | \
+w:chio------ma l'aug-usta
+z2zz/D/ | AG F//E//D3/2 | Z2 | \
+w: Di fior ver-mi--gli
+z2 z/ A/ A/ A/ | (A G) F/ A/ B/ A/ | B A/ D/ E A -| A/G/G/e/FB-| B/AF/GG/ G/ | EF E//D//^CD/|!trill!^C/>D/Ez2| z4 |
+w: no-bil co-ro-na an-drem tes-sen-do tes-sen------------do an-drem tes-sen-------do
+z/ G/ G/ G/ G F/ G/ | {G}F>BA>G| F
+w: no-bil co-ro-na an-drem tes-sen--do
+z/{G}F/ {F}E>A | {A}G>{G}FED/> G/ | ^FF/> G/ EG | F/D//E// F/G/ F//E// F G/ | AG2F| Gz3| Z10 | z3|| \
+w: tes-sen----do dell'-* e-roe l'au-gus-ta chia------------ma
+z/B/| EGG//E//{E}F3/2 | Z2 | z/ E/ E/ E/ DB-|BABG|EFG2-|G/ F//E// Fzz/
+w: Col suo gran co--re ei si se de----gno di tan-ta glo---ria-a
+B/ | G/ E/ E//F// G//E// A \
+w: chei rag-gi span--de--ra
+z/F/ | ^D/ D/ E//F// G//F// EF | ^DEF2| G/F/E/D/ ^C2 | !fermata!B,4 |] \
+w: chei rag-gi span--de--ra dal Ta-go'a Ro------ma
+%--------------------------------------------------------------------------

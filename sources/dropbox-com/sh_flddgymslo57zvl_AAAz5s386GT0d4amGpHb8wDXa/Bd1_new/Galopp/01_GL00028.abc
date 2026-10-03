@@ -1,0 +1,49 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Galopp  FBb chords
+T:Hanny Christen. Bd.I Zürich, Schaffhause, St. Gallen I. S.54 (GL00028) orig. F,Bb-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"f>ff2 | a>aa2 | "C7"c'2e2 | "F"f2z2 |: "F"c>d c2 | c>dc2 | c>d e>f | 
+"C7"f2e2 | c>d c2 | c>d c2 | c>d e>f | "F"g2f2 | c>dc2 | c>dc2 | 
+"F7"fa b>c' | "Bb"d'4 | "C7"c'>bb2 | a>gg2 | f>e a>g | "F"f2z2 :: "C7".c2.b2 | 
+"G7".d2 "C7"+>+e2 | "F"g2f2 | +>+c4 | "C7"d2c2 | e2c2 | "F"f2a2 | c'4 | "C7"c2b2 | "G7"d2"C7"+>+e2 | 
+"F"g2f2 | +>+c4 | "Bb"d>dd2 | "C7"e>ee2 | "F"f>A "C7"c>a | "F"f2z2 :: [K:Bb] "Bb"f4 | "Eb"b2"F7"a>g | 
+"Bb"f2B2 | B>A B>g | "F7"f2+>+A2 | a>c e>g | "Bb"f2+>+B2 | B>c d>e | 
+f4 | "Bb0"b2 a>g | "Bb""_(1)"f2B2 | B>A B>g | "F7"f2+>+A2 | e2A2 | "Bb"B2b>b | b2z2 :| 
+W:
+W:(1) Anmerkung Hrsg.: Takt 47: HC: a
+W:
+X:2
+T:Galopp  CF 5- chords
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"c>cc2 | e>ee2 | "G7"g2B2 | "C"c2z2 |: "C"G>A G2 | G>AG2 | G>A B>c | 
+"G7"c2B2 | G>A G2 | G>A G2 | G>A B>c | "C"d2c2 | G>AG2 | G>AG2 | 
+"C7"ce f>g | "F"a4 | "G7"g>ff2 | e>dd2 | c>B e>d | "C"c2z2 :: "G7".G2.f2 | 
+"D7".A2 "G7"!>!B2 | "C"d2c2 | !>!G4 | "G7"A2G2 | B2G2 | "C"c2e2 | g4 | "G7"G2f2 | "D7"A2"G7"!>!B2 | 
+"C"d2c2 | !>!G4 | "F"A>AA2 | "G7"B>BB2 | "C"c>E "G7"G>e | "C"c2z2 :: [K:Fmaj] "F"c4 | "Bb"f2"C7"e>d | 
+"F"c2F2 | F>E F>d | "C7"c2!>!E2 | e>G B>d | "F"c2!>!F2 | F>G A>B | 
+c4 | "F0"f2 e>d | "F"c2F2 | F>E F>d | "C7"c2!>!E2 | B2E2 | "F"F2f>f | f2z2 :| 
+
+X:3
+T:Galopp  CF 5- chords (ANM)
+M:2/4
+L:1/8
+K:Cmaj%%MIDI gchordon
+"C"c>cc2 | e>ee2 | "G7"g2"_ ="B2 | "C"c2z2 |: "C"G>A G2 | G>AG2 | G>A B>c | \
+"G7"c2"_h"B2 | G>"_a"A G2 |
+ G>"_a"A G2 | G>"_a"A "_h"B>"_ ="c | "C"d2c2 | G>AG2 | G>AG2 | \
+ce f>g | "F""_ ="a4 | "G7"g>ff2 | e>dd2 |
+ "_c"c>B "_e"e>d | "C"c2z2 :: "G7".G2.f2 | \
+"D7".A2 "G7"!>!B2 | "C"d2c2 | !>!"_ ="G4 | "G7""_a"A2G2 | "_h"B2G2 | "C"c2e2 | g4 | "G7"G2f2 | "D7"A2"G7"!>!B2 | 
+"C"d2c2 | !>!G4 | "F"A>AA2 | "G7"B>BB2 | "C"c>E "G7"G>e | "C"c2z2 :: [K:Fmaj] "F"c4 | "Bb""_ ="f2"C7""_e"e>"_d"d | \
+"F"c2F2 | F>E F>"_ ="d | "C7"c2!>!E2 |
+ "_e"e>"_g"G "_b"B>"_ d ="d | "F"c2!>!F2 | F>G A>B | \
+c4 | "F0"f2 e>d | "F"c2F2 | F>E F>"_ ="d | "C7"c2!>!"_e"E2 | "_b"B2E2 | "F"F2f>f | f2z2 :| 
+

@@ -1,0 +1,51 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T: Adele Polka  GDC
+T:Hanny Christen. Bd.VI  Fribourg, Welschland, Wallis, Bern I. S.206 (pk00727) orig. G,D,C-Dur
+T:Walliser T\"anze. S.196-213. \"Uberliefert durch Josef Seewer und Marcel Tschopp, Leuk, 
+T: und Sepp Mutter, Ried/Brigerberg
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+[P:A] "G"dd/B/ gd | "Am/C"ee/c/ ae | "D7"ff ee | "G"ed {/e}d/^c/d | dd/B/ gd | "Am/C"ee/c/ ae | 
+"D7"ff f/e/c/A/ | "G"GB G"_Fine"z ::  [K:D] [P:B] "A7"g/a/g/e/ aa | "D"f/g/f/d/ aa | "A7"bc gc | 
+"D"ad fA | "A7"g/a/g/e/ aa | "D"f/g/f/A/ df | "A7"gc f>e | "D"df d"_>Teil A"z :: [P:C] [K:C]
+"C"{/e}ggc2 | "G7"{/f}ggB2 | bB aB | "C"ca g/a/g | {/e}ggc2 | "G7"{/f}ggB2 | 
+ba g/f/e/d/ | "C"ce cz ::  [K:G][P:D] "D7"df/g/ ad | "G"ba/b/ gd | "D7"cf/f/ ce/e/ | 
+"G"Bd/d/B2 | "D7"df/g/ ad | "G"ba/b/ gd | "Am/C"ea/a/ "D7"d/f/f |1 "G"gb gz :|2 "G"gg/g/ g"_d.C."z |] 
+W: Parts: ABACDA
+% some unknown error midi-output together with P:/ parts 
+X:2
+T:Adele Polka  CGF 7-
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C%%MIDI gchordon
+"C"GG/2E/2 cG | "Dm/F"AA/2F/2 dA | "G7"BB AA | "C"AG {/A}G/2^F/2G | GG/2E/2 cG | "Dm/F"AA/2F/2 dA | 
+"G7"BB B/2A/2F/2D/2 | "C"CE C"_Fine"z :: [K:G] "D7"c/2d/2c/2A/2 dd | "G"B/2c/2B/2G/2 dd | "D7"eF cF | 
+"G"dG BD | "D7"c/2d/2c/2A/2 dd | "G"B/2c/2B/2D/2 GB | "D7"cF B>A | "G"GB G"_>Teil A"z ::  [K:F]
+"F"{/A}ccF2 | "C7"{/B}ccE2 | eE dE | "F"Fd c/2d/2c | {/A}ccF2 | "C7"{/B}ccE2 | 
+ed c/2B/2A/2G/2 | "F"FA Fz :: [K:C]"G7"GB/2c/2 dG | "C"ed/2e/2 cG | "G7"FB/2B/2 FA/2A/2 | 
+"C"EG/2G/2E2 | "G7"GB/2c/2 dG | "C"ed/2e/2 cG | "Dm/F"Ad/2d/2 "G7"G/2B/2B |1 "C"ce cz :|2 "C"cc/2c/2 c"_d.C."z |] 
+W:Parts: ABACDA
+% pk00727
+X:3
+T:Adele Polka  CGF (5letras transposed)
+%%MIDI program 21
+R:polka
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+"C"GG/2E/2 cG | "Dm/F"AA/2F/2 dA | "G7"BB AA | "C"AG {/A}G/2^F/2G | GG/2E/2 cG | "Dm/F"AA/2F/2 dA | 
+"G7"BB B/2A/2F/2D/2 | "C"CE C"_Fine"z :: [K:G] "D7"c/2d/2c/2A/2 dd | "G"B/2c/2B/2G/2 dd | "D7"eF cF | 
+"G"dG BD | "D7"c/2d/2c/2A/2 dd | "G"B/2c/2B/2D/2 GB | "D7"cF B>A | "G"GB G"_>Teil A"z ::  [K:F]
+"F"{/A}ccF2 | "C7"{/B}ccE2 | eE dE | "F"Fd c/2d/2c | {/A}ccF2 | "C7"{/B}ccE2 | 
+ed c/2B/2A/2G/2 | "F"FA Fz :: [K:C]"G7"GB/2c/2 dG | "C"ed/2e/2 cG | "G7"FB/2B/2 FA/2A/2 | 
+"C"EG/2G/2E2 | "G7"GB/2c/2 dG | "C"ed/2e/2 cG | "Dm/F"Ad/2d/2 "G7"G/2B/2B |1 "C"ce cz :|2 "C"cc/2c/2 c"_d.C."z |] 
+W:Parts: ABACDA
+% pk00727
+% June 25, 2016

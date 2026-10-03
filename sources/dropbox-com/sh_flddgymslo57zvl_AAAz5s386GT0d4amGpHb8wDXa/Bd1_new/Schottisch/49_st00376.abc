@@ -1,0 +1,54 @@
+%%partsbox
+%%MIDI program 21
+
+X:1
+T: Schottisch CF chords
+T:Hanny Christen. Bd.I Zürich, Schaffhausen, St. Gallen I. S.191 (st00376) orig. C,F-Dur
+T: Z\"urcher Oberland, L\"andlermusig am Bachtel. S.40-274
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"g>g ag | e>ce2 | g>g ag | "G7"f>df2 | ga bc' | .f2+>+b2 | ga ba | 
+"C".e2+>+c'2 | g>g ag | e>ce2 | g>g ag | "G7"f>df2 | ga bc' | "Dm".d'2 +>+a2 | 
+"G7".b2 +>+g2 | "C"c'c' c'z |: [K:F] "F"c>c dc | .a2 +>+a2 | c>c dc | "C7".b2+>+b2 | c>c dc | eee2 |1 "Gm"ba "C7"d'd' | 
+"F"a>f a2 :|2 "C7"ec a>g | "F"ff fz |: "F"cA cf | "C7"e>ee2 | "Bb"d>dd2 | "F"c>cc2 |  
+a^g/a/ d'>a | "C7".c'2+>+b2 |1 g^f/g/ c'>g | "F".b2+>+a2 :|2 "C7"c'=b/c'/ d'e | "F"ff fz |] 
+
+X:2
+T: Schottisch CF chords (align)
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"g>g ag | e>ce2 | g>g ag | "G7"f>df2 | ga bc' | .f2+>+b2 | ga ba | \
+"C".e2+>+c'2 | g>g ag |
+ e>ce2 | g>g ag | "G7"f>df2 | ga bc' | "Dm".d'2 +>+a2 | \
+"G7".b2 +>+g2 | "C"c'c' c'z |: [K:F] "F"c>c dc | .a2 +>+a2 |
+ c>c dc | "C7".b2+>+b2 | c>c dc | eee2 |1 "Gm"ba "C7"d'd' | \
+"F"a>f a2 :|2 "C7"ec a>g | "F"ff fz |: "F"cA cf |
+ "C7"e>ee2 | "Bb"d>dd2 | "F"c>cc2 | \
+a^g/a/ d'>a | "C7".c'2+>+b2 |1 g^f/g/ c'>g | "F".b2+>+a2 :|2 "C7"c'=b/c'/ d'e | "F"ff fz |] 
+
+X:3
+T:Schottisch GC 5- chords
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"d>d ed | B>GB2 | d>d ed | "D7"c>Ac2 | de fg | .c2!>!f2 | de fe | 
+"G".B2!>!g2 | d>d ed | B>GB2 | d>d ed | "D7"c>Ac2 | de fg | "Am".a2 !>!e2 | 
+"D7".f2 !>!d2 | "G"gg gz |: [K:Cmaj] "C"G>G AG | .e2 !>!e2 | G>G AG | "G7".f2!>!f2 | G>G AG | BBB2 |1 "Dm"fe "G7"aa | 
+"C"e>c e2 :|2 "G7"BG e>d | "C"cc cz |: "C"GE Gc | "G7"B>BB2 | "F"A>AA2 | "C"G>GG2 | 
+e^d/2e/2 a>e | "G7".g2!>!f2 |1 d^c/2d/2 g>d | "C".f2!>!e2 :|2 "G7"g^f/2g/2 aB | "C"cc cz |] 
+
+X:4
+T:Schottisch GC 5- chords (align)
+M:2/4
+L:1/8
+K:Gmaj%%MIDI gchordon
+"G"d>d ed | B>GB2 | d>d ed | "D7"c>Ac2 | de fg | .c2!>!f2 | de fe | \
+"G".B2!>!g2 | d>d ed |
+ B>GB2 | d>d ed | "D7"c>Ac2 | de fg | "Am".a2 !>!e2 | \
+"D7".f2 !>!d2 | "G"gg gz |: [K:Cmaj] "C"G>G AG | .e2 !>!e2 |
+ G>G AG | "G7".f2!>!f2 | G>G AG | BBB2 |1 "Dm"fe "G7"aa | \
+"C"e>c e2 :|2 "G7"BG e>d | "C"cc cz |: "C"GE Gc |
+ "G7"B>BB2 | "F"A>AA2 | "C"G>GG2 | \
+e^d/2e/2 a>e | "G7".g2!>!f2 |1 d^c/2d/2 g>d | "C".f2!>!e2 :|2 "G7"g^f/2g/2 aB | "C"cc cz |] 

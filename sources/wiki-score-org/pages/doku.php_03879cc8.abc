@@ -1,0 +1,22 @@
+X:802
+T:Trio VI (Allegretto)
+C:Costa, Abade António da (1714-c1780)
+M:C
+L:1/4
+K:C
+V: 2 clef=treble name="Violino II.do" sname="Vl.II"
+%%MIDI program 1 40
+%%staves [ 2 ]
+%----- edit between the lines
+[Q:"Allegretto"] "_[fol.15v (35)]" (c/>d/ | e2A) (e | d4 | d c A) (d | d2B) (c | B2 d) (c | B2d) (c |
+B2 _B) (=e | A3) (e | ^c d3 | d) .E (d2 | d c B) (^f | ^d) (b =g) (e | e ^d e) (g |
+^f2) B2- | B (b g) (e | e ^d) (=d2 | d ^c) (=c2 | B3) .^A | (^c B ^d) (=a | a =g)
+^c') (a | a g =c') (a | a g ^f) (b | b g) z :|: (G/>A/ | B2 E) (B | A4 | A G
+E) (A | A2 ^F) (G | ^F2 A) (G | ^F2 A) (G | =F2) (E2 | E2 =F) (E | E2 =F) (E |
+E2) (=F2 | _E2) E2- | D3 (d | d g ^f) (d | d g ^f) d- | d2 (=f/<_e/ d | ^c) (=e/<d/
+"_[fol.16 (36)]" d2 | =B) (d/<=c/ c2 | c2) (=B2 | c) (=e d2) | (=f2 =B) (g | e f ^d) (e | ^c =dB) (=c |
+A c ^G) (A | (^F) "_check note missing" =G2)  (E | ^D) .B .E (B, | =C) (=c B2 | B) (=d2 =c | c) (B c) (A |
+^G) .e .A (E | =F) (=f e2 | e) (=g2 =f | f) (e f) a- | a (e ^c) a- | a .^c d2- | d (B
+=c) (^f | ^d) B3- | B3 (A | A4 | A4 | A3) (^G | ^G B2) (d | d c =f) (d |
+d c =f) (d | d c B) (e | e c) z :|]
+%---------------------------------

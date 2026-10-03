@@ -1,0 +1,923 @@
+=============================================================================
+=               Scales and Modes in Scottish Traditional Music              =
+=                                  Jack Campin                              =
+=============================================================================
+
+
+Pentatonic Modes
+================
+
+1. The Pentatonic Pitch Set
+== ========================
+
+The PENTATONIC pitch set omits pitches 5 and 12 from the diatonic pitch
+set to leave five notes, 1 3 6 8 12 (or C D F G A in white notes, or only
+the black notes).  Its intervals are three whole tones and two minor thirds,
+no semitones.  There are three ways of getting transpositions of it from
+the white notes of a piano:
+
+   -mi -ti:   1  2  3  4  5  6  7  8  9 10 11 12
+              C     D        F     G     A
+             do    re       fa    so    la
+                 T      m       T     T      m
+
+   -fa -ti:   1  2  3  4  5  6  7  8  9 10 11 12
+              C     D     E        G     A
+             do    re    mi       so    la
+                 T     T      m       T      m
+
+   -do -fa:   1  2  3  4  5  6  7  8  9 10 11 12
+                    D     E        G     A     B
+                   re    mi       so    la    ti
+                       T      m       T     T     m
+
+It has different modes like the seven-note and six-note pitch sets. There
+are three pentatonic modes used in Scottish music, and a fourth which has a
+sort of theoretical existence.  There are countless other ways of selecting
+five notes; none of them seem to have much place in Scottish tradition.  In
+particular, the pentatonic pitch sets of African music typically don't fit
+any Scottish tunes.
+
+On the pipes, with their two-sharp scale, there are also three alternate
+ways to get this pitch set.  One is the CF-gap set, GAB-de-ga.  Another is
+the GC-gap set, AB-def-a.  The third possibility is the DG-gap pitch set,
+ABc-ef-a.  Each of these can be used with a variety of tonal centres to get
+different modes: and because of the limited range and non-uniform tuning of
+the pipe chanter, each has a different effect.
+
+
+2. The Mixolydian/Dorian/Minor Pentatonic Mode
+== ===========================================
+
+The MIXOLYDIAN/DORIAN/MINOR PENTATONIC mode has pitch 8 (G in this white-
+note scale) as its home note.  That is, it's what you get from the black-note
+scale by taking G sharp/A flat as the home note, or from the white-note
+minor, dorian or mixolydian scales by leaving out the third and sixth.
+Its interval sequence is TmT mT.  In Bronson's scheme it's pi-3.  In A, it's
+ABdega.  This is a very common scale in Highland pipe music.  There are
+three ways of looking at it in sol-fa.
+
+X:0
+T:The Mixolydian/Dorian/Minor (so/re/la. pi-3) Pentatonic Scale
+L:1/4
+M:8/4
+K:GMix
+P:so -ti -mi
+"_so"G2 "_la"A "_do"c "_re"d "_fa"f "_so"g2 |\
+"_so"g2 "_fa"f "_re"d "_do"c "_la"A "_so"G2||
+M:8/4
+P:re -fa -ti
+K:DDor
+"_re"D2 "_mi"E "_so"G "_la"A "_do"c "_re"d2 |\
+"_re"d2 "_do"c "_la"A "_so"G "_mi"E "_re"D2||
+M:8/4
+P:la -do -fa
+K:AMin
+"_la"A2 "_ti"B "_re"d "_mi"e "_so"g "_la"a2 |\
+"_la"a2 "_so"g "_mi"e "_re"d "_ti"B "_la"A2|]
+
+Hungarian musicologists simplify the naming of pentatonic modes by only
+considering the pitch set do, re, mi, so, la.  (But "sol" rather than
+"so", as in most European languages other than English).  So they call
+this scale "re-pentatonic".
+
+X:0
+T:Glen Lyon
+T:Haughs of Cromdale
+S:Kerr's Merry Melodies
+M:4/4
+L:1/8
+Q:1/2=100
+K:AMin
+% A mixolydian/dorian/minor pentatonic
+g|eA A/A/A edBd|BG G/G/G BABd|eA A/A/A edBd|edgB A3:|
+g|edeg     abag|dgBg     dgBg|edeg     abag|edgB A3:|
+
+Since both the C and F are missing, you might equally well find that tune
+written with one or two sharps; they make no difference.  You could look at
+this a different way by saying the tune could equally well be minor, dorian
+or mixolydian; a pentatonic mode is ambiguous three ways if you see it as
+a reduced form of a seven-note mode.
+
+A bothy ballad from the north-east of Scotland:
+
+X:0
+T:Lamachree and Megrum
+S:Rymour Club Miscellanea v1 via McColl, Folk Songs and Ballads of Scotland
+M:4/4
+L:1/4
+R:bothy ballad
+Q:1/4=96
+K:EMin
+% E mixolydian/dorian/minor pentatonic
+E|B,E   E>F    |E>F       B2 ||\
+  A>B   E(E/F/)|E<D       B, ||
+D|A,>B, DE     |DE        F2 ||\
+  A2    D2     |(F<E) ({D}E2)|]
+
+An example from the far south of Scotland:
+
+X:0
+T:Hollin, green Hollin
+S:C.K. Sharpe/Lady John Scott, NLS MS.843
+M:3/4
+L:1/8
+Q:1/4=100
+G:ballad
+K:EMin
+% mixolydian/dorian/minor pentatonic
+D2|B,E E2 FE|DE F4|E2 E2 (EF)|A2 B2 dB|
+   AB  d2 e2|dB e4|d2 B2 (BA)|F2 E2  |]
+
+And a long example:
+
+X:0
+T:Pipe Major Donald Maclean of Lewis
+C:Pipe Major Donald Macleod
+M:6/8
+L:1/8
+R:march
+Q:3/8=84
+K:AMix
+% mixolydian/dorian/minor pentatonic, CF-gap A-final
+e |A>BG A3  |e>dg e>dB|A>BA G2B |d2e  e>dB |
+   A>BG A3  |e>dg e>dB|G>Bg e>dB|A3   A2  :|
+g |a2e  e2g |a>ee e>dB|A>BA G2B |d2e  e>dB |
+[1 a2e  e2g |a>ee e>dB|G>Bg e>dB|A3   A2  :|
+[2 A>BG A3  |e>dg e>dB|G>Bg e>dB|A3   A2  ||
+e |A>ee d>ee|A>ee e>dB|A>BA G>GG|B<de e>dB |
+   A>ee d>ee|A>ee e>dB|G>Bg e>dB|A3   A2  :|
+e |A2a  a>ga|g>ee e>dB|A>BA G2B |d2e  e>dB |
+[1 A2a  a>ga|g>ee e>dB|G>Bg e>dB|A3   A2  :|
+[2 A>BG A3  |e>dg e>dB|G>Bg e>dB|A3   A2  |]
+
+An example from Cambodia:
+
+X:0
+T:Prom Kut
+G:song
+B:Charles Haywood, Folk Songs of the World
+M:C
+L:1/8
+Q:1/4=108
+K:GMix
+(D>F)|G2 G2 A>G (F>G)|A2 A2 D2  G2  | F2   F2 (D2 A2)|G2 G>G G>F D2 |
+      F2 F2 F>G  F2  |D2 D2 D2 (F>G)|(F>G) A2  d2 c2 |A2 G2  G>G G2|]
+
+from Transylvania around 1910:
+
+X:0
+T:no title (number 96)
+G:dance song
+S:Bartok & Kodaly, Transylvanian Hungarian Folksongs
+N:used by Dohnanyi in his suite "Ruralia Hungarica"
+M:4/4
+L:1/4
+Q:1/2=120
+K:GDor
+% dorian/minor/phrygian pentatonic
+g>gfg|fdcd|g>fdc|cdBB |
+g>fdc|dcBd|d>dcd|GGGG|]
+
+from 20th century America (well known in the British folk revival after
+it was adopted for the ballad "Matty Groves"):
+
+X:0
+T:Shady Grove
+S:Singing Family of the Cumberlands, 1955
+L:1/8
+M:2/4
+K:EMin
+EE EE/E/|FE    D2|EE/E/ FA|B3B|d>d BB|A(F/E/) D2|EF/F/ AF|E4||
+EE E2   |FE/E/ D2|E>E   FA|B4 |d>d B2|AF/E/   D2|EF/F/ AF|E4|]
+
+and in another familiar American song (but the chorus changes mode):
+
+X:0
+T:900 Miles
+G:song
+B:Reprints from "Sing Out" v4 (1962)
+N:a bit different from the version I know orally, but in the same mode
+M:C
+L:1/8
+Q:1/4=80
+K:GDor
+% dorian/minor/phrygian pentatonic
+DF|AA GF A2 DF|A2 (3AGF D4   |d>d dc AG   Ac |d6 Ac|
+   d2 dc A2 GF|A2 (3AGF D2 DF|A2  GF G2 (3AGF|D6  ||
+|:DD|E>E E^C A,A, =B,C|D6:|
+
+
+The transpositions of the mixolydian/dorian/minor pentatonic mode are:
+
+X:0
+T:Mixolydian/Dorian/Minor (3,6-gap, so/re/la, pi-3) Pentatonic Scales
+L:1/4
+M:8/4
+K:EbMix
+"^E flat"  E2 FA Bd e2|e2 dB AF E2||
+M:8/4
+K:BbMix
+"^B flat"  B2 ce fa b2|b2 af ec B2||
+M:8/4
+K:FMix
+"^F"       F2 GB ce f2|f2 ec BG F2||
+M:8/4
+K:CMix
+"^C"       C2 DF GB c2|c2 BG FD C2||
+M:8/4
+K:GMix
+"^G"       G2 Ac df g2|g2 fd cA G2||
+M:8/4
+K:DDor
+"^D"       D2 EG Ac d2|d2 cA GE D2||
+M:8/4
+K:AMin
+"^A"       A2 Bd eg a2|a2 ge dB A2||
+M:8/4
+K:EMin
+"^E"       E2 FA Bd e2|e2 dB AF E2||
+M:8/4
+K:BMin
+"^B"       B2 ce fa b2|b2 af ec B2||
+M:8/4
+K:F#Min
+"^F sharp" F2 GB ce f2|f2 ec BG F2||
+M:8/4
+K:C#Min
+"^C sharp" C2 DF GB c2|c2 BG FD C2|]
+
+One oddity of the piano keyboard layout may explain why the piano accordion
+works so well for Highland pipe tunes.  The mixolydian/dorian/minor
+pentatonic scale fits on the white notes no matter whether you use G, D or A
+as the home note; this is one of the commonest scales in Highland music and
+these are by far the commonest home notes any Scottish music uses.  Watch an
+accordionist's fingers: when playing Highland music like pipe marches, the
+black notes are rarely touched, despite frequent key changes.
+
+In principle, there are three ways to get this mode on the pipes: by far the
+commonest uses the A-mode with the CF-gap pitch set, but in principle it can
+be fitted to the E-mode on the GC-gap set or the B-mode on the DG-gap set.
+
+Tunes in this mode could often have the gap filled or created.  It is not
+clear which of these (the same tune in two different rhythms) came first:
+
+X:0
+T:Tha Mi Sgith
+T:Cutting Bracken
+G:strathspey
+M:4/4
+L:1/8
+Q:1/4=120
+K:AMin
+% A mixolydian/dorian/minor pentatonic
+A2 a2  g<eg2 |e>dB>A G>AB<G|
+A2 a2  g<eg2 |e>dB<e A2 A2:|
+e>dB>A G>AB<G|e>dB<A B<dd2 |
+e>dB<A G>AB<G|e>dB<e A2 A2:|
+
+X:0
+T:Drummond Castle
+G:jig
+M:6/8
+L:1/8
+Q:3/8=120
+K:AMin
+% dorian/minor hexatonic
+E|ABA a3 |age g3 |c2c  edc|Bdg dBG|
+  ABA a3 |age g3 |e>ge deg|edB A2:|
+B|c2c cec|d2d ded|c2c  edc|Bdg dBG|
+  c2c edc|deg a2g|ege  deg|edB A2:|
+
+
+3. The Dorian/Minor/Phrygian Pentatonic Mode
+== =========================================
+
+The DORIAN/MINOR/PHRYGIAN PENTATONIC mode is what you get by playing on the
+black notes of a piano taking E flat/D sharp as the home note.  Tunes in
+this mode could be seen as being dorian, minor or phrygian; the second and
+sixth are omitted.  Its interval sequence is mTTmT.  In A, it's Acdega.  It
+is sometimes called "pentatonic minor".  On the pipes it can be played as
+the E-mode in the CF-gap pitch set or as the B-mode in the GC-gap pitch set.
+In sol-fa it can start on re, la or mi.  In Bronson's scheme it's pi-4.  In
+the Hungarian system it's la-pentatonic.
+
+X:0
+T:The Dorian/Minor/Phrygian Pentatonic (re/la/mi, pi-4) Scale
+L:1/4
+M:8/4
+K:DDor
+P:re -mi -ti
+"_re"D2 "_fa"F "_so"G "_la"A "_do"c "_re"d2 |\
+"_re"d2 "_do"c "_la"A "_so"G "_fa"F "_re"D2||
+M:8/4
+P:la -ti -fa
+K:AMin
+"_la"A2 "_do"c "_re"d "_mi"e "_so"g "_la"a2 |\
+"_la"a2 "_so"g "_mi"e "_re"d "_do"c "_la"A2||
+M:8/4
+P:mi -fa -do
+K:EPhr
+"_mi"E2 "_so"G "_la"A "_ti"B "_re"d "_mi"e2 |\
+"_mi"e2 "_re"d "_ti"B "_la"A "_so"G "_mi"E2|]
+
+The second of these examples fits the chanter, though I haven't seen a pipe
+setting of it.
+
+X:0
+T:My Tocher's The Jewel
+T:The Highway to Edinburgh
+T:Thro' the Lang Muir
+T:Here Awa There Awa Willie
+T:The Collier's Rant
+T:Lord Elcho
+G:jig
+M:6/8
+L:1/8
+Q:3/8=108
+K:F#Min
+% dorian/minor/phrygian pentatonic
+F/E/|CFF  F2E|FAB cfe|c<cB A/B/cB|AEE E2E|
+     CFF  F2E|FAB cfe|c<cf ecB   |AFF F2||
+e   |e>fe ecA|Bce f2f|e>cB AcB   |AEE E2E|
+     FAE  FAE|FAB cfe|c<cf ecB   |AFF F2|]
+
+X:0
+T:Gentle Dark Eyed Mary
+G:song
+S:Kerr's Merry Melodies volume 1
+M:C
+L:1/8
+Q:1/4=100
+K:BMin
+% dorian/minor/phrygian pentatonic
+B>A f2 f>e f>a|f>d (3fed d2 ef|FA  B2 B>A Bd|e>d f>e dB Bd:|
+B>A AA f2  ef |a>f (3fed d2 FA|B>B BB A2  Bd|e>d f>d B2 B2:|
+
+X:0
+T:Lamentation for McDonald of Keppoch
+S:Logan's Inverness Collection
+M:9/8
+L:1/8
+Q:3/8=60
+K:AMin
+% dorian/minor/phrygian pentatonic
+A3 A>GA c2c |    c2A A>GA G3|e3 e>de a2g|    e2d c>AG    A3 |
+g3 age  g>ed|{cd}e2d c>AG G3|A3 A>GA c2d|{cd}e2d c>AG {G}A3|]
+
+X:0
+T:Saw you my Love Migey Linken over the Lee
+S:James Thomson's MS for the treble recorder, 1702
+B:David Johnson, 21 Scots Tunes for the Treble Recorder
+N:extensive ornamentation omitted, see Johnson's edition
+M:3/4
+L:1/8
+Q:1/4=72
+K:AMin
+% dorian/minor/phrygian pentatonic
+a>c'ag    ed/c/|g>age    dc       |a>c'ag     ed/c/   |d/c/d/e/ g/e/d/c/ A2||
+Ac  cc/d/ ed/c/|Ad de/g/ a/g/a/c'/|Ac  cc'/a/ g/e/d/c/|d/c/d/e/ g/e/d/c/ A2|]
+
+X:0
+T:Dorian/Minor/Phrygian (2,7-gap, re/la/mi, pi-4) Pentatonic Scales
+L:1/4
+M:8/4
+K:BbDor
+"^B flat"  B2 de fa b2|b2 af ed B2||
+M:8/4
+K:FDor
+"^F"       F2 AB ce f2|f2 ec BA F2||
+M:8/4
+K:CDor
+"^C"       C2 EF GB c2|c2 BG FE C2||
+M:8/4
+K:GDor
+"^G"       G2 Bc df g2|g2 fd cB G2||
+M:8/4
+K:DDor
+"^D"       D2 FG Ac d2|d2 cA GF D2||
+M:8/4
+K:AMin
+"^A"       A2 cd eg a2|a2 ge dc A2||
+M:8/4
+K:EPhr
+"^E"       E2 GA Bd e2|e2 dB AG E2||
+M:8/4
+K:BPhr
+"^B"       B2 de fa b2|b2 af ed B2||
+M:8/4
+K:F#Phr
+"^F sharp" F2 AB ce f2|f2 ec BA F2||
+M:8/4
+K:C#Phr
+"^C sharp" C2 EF GB c2|c2 BG FE C2||
+M:8/4
+K:G#Phr
+"^G sharp" G2 Bc df g2|g2 fd cB G2|]
+
+
+4. The Lydian/Major/Mixolydian Pentatonic Mode
+== ===========================================
+
+The LYDIAN/MAJOR/MIXOLYDIAN pentatonic scale (with gaps at the 4th and 7th)
+occurs frequently in pipe music.  Its interval sequence is TTmTm; in A it's
+AB^ce^fa.  That's its usual form on the pipe chanter: A-mode in the DG-gap
+pitch set.  It can also be D-mode in the GC-gap set.  In sol-fa it can begin
+on so, do or la.  In Bronson's scheme it's pi-1.  In the Hungarian system
+it's do-pentatonic.
+
+X:0
+T:The Lydian/Major/Mixolydian (fa/do/so, pi-1) Pentatonic Scale
+L:1/4
+M:8/4
+K:FLyd
+P:fa -ti -mi
+"_fa"F2 "_so"G "_la"A "_do"c "_re"d "_fa"f2 |\
+"_fa"f2 "_re"d "_do"c "_la"A "_so"G "_fa"F2||
+M:8/4
+K:C
+P:do -fa -ti
+"_do"C2 "_re"D "_mi"E "_so"G "_la"A "_do"c2 |\
+"_do"c2 "_la"A "_so"G "_mi"E "_re"D "_do"C2||
+M:8/4
+K:GMix
+P:so -do -fa
+"_so"G2 "_la"A "_ti"B "_re"d "_mi"e "_so"g2 |\
+"_so"g2 "_mi"e "_re"d "_ti"B "_la"A "_so"G2|]
+
+This is the classic example:
+
+X:0
+T:Auld Lang Syne
+M:2/4
+L:1/8
+Q:1/4=72
+K:F
+C|F>F FA|G>F GA|F>F Ac|d3
+f|c>A AF|G>F GA|F>D DC|F3||
+d|c>A AF|G>F GA|c>A Ac|d3
+f|c>A AF|G>F GA|F>D DC|F3|]
+
+And this is another of the best-known Scottish tunes in this mode, though
+it may originally be English ("Lost is my quiet for ever"):
+
+X:0
+T:Ye Banks and Braes of Bonnie Doon
+G:song
+S:G.F. Graham, Popular Songs and Melodies of Scotland
+N:this book also gives the story of how Burns got it
+M:6/8
+L:1/8
+Q:1/8=100
+K:G
+% lydian/major/mixolydian pentatonic
+D   |G2G A>GA|BdB AGA |B>AG G<ED|DEG  A2
+B/A/|G2G A>GA|BdB AGA |B>AG G<ED|DEG  G2||
+B   |d2e dBG |d2e dBG |dBG  dBG |e>dB A2
+B/A/|G2G A>GA|BdB A>GA|B>AG G<ED|DEG  G2|]
+
+Here it is in a Highland song tune:
+
+X:0
+T:Och! mar tha mi
+T:How sad am I
+S:Jane Fraser Morison's Book 1, c. 1882
+M:3/4
+L:1/8
+Q:1/4=90
+K:F
+C>D F2 F2|GA d2 c2|FG A2 cA|GF {F}D2 F2 |
+FC  D2 F2|GA c2 cc|df d2 Ac|A>G   F2 F2|]
+
+This is a pipe march very popular on the Scottish session scene:
+
+X:0
+T:Corriechoille's Farewell
+G:march
+M:2/4
+L:1/8
+Q:1/4=96
+K:D
+% lydian/major/mixolydian pentatonic, D-mode GC-gap
+e|A>B Ad|e>d BA|d>e fa|fe ef|A>B Ad|e>d BA|d>e fa|fd d:|
+f|a>f df|e>d BA|d>e fa|fe ef|A>B Ad|e>d BA|d>e fa|fd d:|
+
+X:0
+T:Kenny Gillies of Portnalong, Skye
+G:jig
+S:Rory Campbell
+M:6/8
+L:1/8
+Q:3/8=120
+K:Amix
+% lydian/major/mixolydian pentatonic, A-mode DG-gap
+e||AAA e2c|efa f2e|faa AAA|fec cBB |
+   AAA e2c|efa f2e|eff fec|BAA A3 :|
+   a3  AAA|cea fee|faa AAA|fec cBB |
+[1 a3  AAA|cea fee|eff fec|BAA A2e:|
+[2 AAA e2c|efa f2e|eff fec|BAA A3 ||
+   AAA cBc|AeA fee|faa AAA|fec cBB |
+   AAA cBc|AeA fee|eff fec|BAA A2e:|
+   c2e afa|Ace fee|faa AAA|fec cBB |
+[1 c2e afa|Ace fee|eff fec|BAA A3 :|
+[2 AAA cBc|AeA fee|eff fec|BAA A3 |]
+
+The first three parts of this tune use the same mode:
+
+X:0
+T:Father John MacMillan of Barra
+G:march
+M:2/4
+L:1/16
+Q:1/4=80
+K:AMix
+% lydian/major/mixolydian pentatonic, A-final DG-gap
+   A>B|c2B<A  A2c<e |f2e<c e3f|e2c<A  A2f>e |c2B<A  B2A>B  |
+       c2B<A  A2c<e |f2e<c e3f|e2c<A  B2c>B |A4     A2    :|
+   c<e|f2e<e  e2f<a |f2e<c e3f|e2c<A  A2f>e |c2B<A  B2[1c<e|
+       f2e<e  e2f<a |f2e<c e3f|e2c<A  B2c>B |A4     A2    :|
+[2 A>B|c2B<A  c<ec<A|f2e<c e3f|e2c<A  B2c>B |A4     A2    ||
+   A>B|c<Ac<e c2A>c |f2e<c e3f|a>fe<f c2f>e |c2B<A  B2A>B  |
+       c<Ac<e c2A>c |f2e<c e3f|e2c<A  B2c>B |A4     A2    :|
+% major/mixolydian hexatonic, A-final G-gap
+   c<e|f2e>f  a>fe<f|f2A>c e3f|f2e>f  a>fe<f|c2B<A  B2c<e  |
+       f2e>f  a>fe<f|f2e<c e3f|e2c<A  B2c>B |A4     A2c<e  |
+       f2e>f  a>fe<f|f2A>c e3f|f2e>f  e>fa>e|c>de>c B2A>B  |
+       c2B<A  c<ec<A|f2e<c e3f|e2c<A  B2c>B |A4     A2    |]
+
+Other A-final tunes have the D and G in such inconspicuous places that nobody
+but a piping contest judge would notice if you left them out and covered
+their absence by holding the previous note, putting them entirely into the
+same pentatonic mode.  In this tune they only occur as the second note of a
+two-note upbeat:
+
+X:0
+T:Old Toasty
+G:hornpipe
+S:Gordon Highlanders book 1
+C:Angus Lawrie, Strathclyde Police
+M:2/4
+L:1/16
+Q:1/4=92
+K:AMix
+   a2 |A2A2   c>BA>c|e2c<e  f2e>f|a2a2 f2e>f|a>fe>c B2
+   a2 |A2A2   c>BA>c|e2c<e  f2e>f|a2a2 f2e>c|B2A2   A2:|
+   f>g|a2a2   f2e>c |e>fa>e f2e>f|a2a2 f2e>f|a>fe>c B2
+[1 f>g|a2a2   f2e>c |e>fa>e f2e>f|a2a2 f2e>c|B2A2   A2:|
+[2 f>g|A2A2   c>BA>c|e2c<e  f2e>f|a2a2 f2e>c|B2A2   A2||
+   a2 |c>cc>B A>AA>c|e2c<e  f2e>f|a2a2 f2e>f|a>fe>c B2
+   a2 |c>cc>B A>AA>c|e2c<e  f2e>f|a2a2 f2e>c|B2A2   A2:|
+   c>d|e>fe>c a2e2  |f>ga>f e2f>g|a2a2 f2e>f|a>fe>c B2
+[1 c>d|e>fe>c a2e2  |f>ga>f e2f>g|a2a2 f2e>c|B2A2   A2:|
+[2 c>d|A2A2   c>BA>c|e2c<e  f2e>f|a2a2 f2e>c|B2A2   A2|]
+
+Some people call this "pentatonic major".  It is a strong enough feature
+of Scottish music that tunes originally in seven-note modes have been
+adapted to it in folk transmission.  "Miss Cruickshank's Reel", by William
+Marshall (first published as "Miss Hopkins Reel" in 1781), was in the major
+mode (originally in B flat - I've transposed it for easier comparison) the
+way he wrote it:
+
+X:0
+T:Miss Cruickshank's Reel
+T:Miss Hopkins Reel (1781)
+G:reel
+S:William Marshall, 1822
+M:C|
+L:1/8
+Q:1/2=108
+K:A
+EFAc d2df|ecBA BAFA|EFAc d2df|ecBc A/A/A A2:|
+fgag fedc|BABc AFFe|fgag fedc|BABc A/A/A A2 |
+fgag fedc|BABc AFFA|EFAB cdef|ecBc A/A/A A2|]
+
+But as collected in Cape Breton in the twentieth century, it was changed
+into the lydian/major/mixolydian pentatonic mode and transposed to A:
+
+X:0
+T:Put Me in the Big Chest
+T:Cuir a Chiste Mhoir Mi
+G:reel
+S:Dunlay & Reich, Traditional Celtic Fiddle Music of Cape Breton
+M:C|
+L:1/8
+Q:1/2=108
+K:AMix
+% A lydian/major/mixolydian pentatonic, DG-gap
+F|EFAB c2cf|ecBA F/F/F AF|EFAB c/c/c cf|ecBc A/A/A AF|
+  EFAB c2cf|ecBA F/F/F AF|EFAB cB    cf|ecBc A/A/A A||
+c|efec eAAc|efec BABc    |efec efaf    |ecBc A/A/A A:|
+
+Here is the same mode in early 20th century America:
+
+X:0
+T:Sourwood Mountain
+G:dance song
+B:Richard Chase: American Folk Tales and Songs
+M:C
+L:1/4
+Q:1/2=120
+K:Eb
+% lydian/major/mixolydian pentatonic
+G<B B/B/B|c e    BG |B>B Bc/c/|G/G/ F/F/ E2 |
+GG  G   E|F E/E/ CB,|E>E Ec/c/|B/B/ G/F/ E2|]
+
+and in Aboriginal Australia:
+
+X:0
+T:Honey-Ant Song of Ljaba
+O:Central Australia
+G:song
+B:Charles Haywood, Folk Songs of the World
+M:6/8
+L:1/8
+Q:3/8=108
+K:C
+% lydian/major/mixolydian pentatonic
+e|(2(ed) (dc)c|c2c c3| c2 c c2:|
+e|(2(ed) (dc)c|c2c c3| c2 c c2c|
+  (2(AG) (GE)E|E2E E3|(ED)D C2E|
+     E3   E2 E|E2E E3|(ED)C C2C|
+     C3   C2 C|C2C C3| C2 C C2E|
+     E3   E2 E|E2E E3|(ED)C C2C|
+     C3   C2 C|C2C C3| C2 C C3|]
+
+Here's a bagpipe tune intended to sound Chinese.  It works since the pentatonic
+scale used is one also found in Chinese music.
+
+X:0
+T:The Chow Man
+S:Scots Guards Standard Settings of Pipe Tunes book 2
+C:Pipe Sergeant E. MacDonald
+H:Composed at Lo Wu Camp, South China during the tour
+H:of duty of 2nd Battalion Scots Guards 1927-29
+M:2/4
+L:1/16
+Q:1/4=88
+K:D
+% lydian/major/mixolydian pentatonic
+ e2|A2B<d B2A2 |B2d2  e4   |f2e>f a3f  |e2`d2     e2f2|
+    A2B<d B2A2 |B2d2  e2d<e|f2e>d B2A>B|d4        d2 :|
+ e2|f2a2  f2e<d|e2a2  f4   |e2a2  f2e<d|e>dB<d [1 A3e |
+    f2a2  f2e<d|e2d<B A2d<e|f2e>d B2A>B|d4        d2 :|
+                                               [2 A2f2|\
+    A2B<d B2A2 |B2d2  e2d<e|f2e>d B2A>B|d4        d2 |]
+
+X:0
+T:Lydian/Major/Mixolydian (4,7-gap, fa/do/so, pi-1) Pentatonic Scales
+L:1/4
+M:8/4
+K:DbLyd
+"^D flat"  D2 EF AB d2|d2 BA FE D2||
+M:8/4
+K:AbLyd
+"^A flat"  A2 Bc ef a2|a2 fe cB A2||
+M:8/4
+K:EbLyd
+"^E flat"  E2 FG Bc e2|e2 cB GF E2||
+M:8/4
+K:BbLyd
+"^B flat"  B2 cd fg b2|b2 gf dc B2||
+M:8/4
+K:FLyd
+"^F"       F2 GA cd f2|f2 dc AG F2||
+M:8/4
+K:C
+"^C"       C2 DE GA c2|c2 AG ED C2||
+M:8/4
+K:GMix
+"^G"       G2 AB de g2|g2 ed BA G2||
+M:8/4
+K:DMix
+"^D"       D2 EF AB d2|d2 BA FE D2||
+M:8/4
+K:AMix
+"^A"       A2 Bc ef a2|a2 fe cB A2||
+M:8/4
+K:EMix
+"^E"       E2 FG Bc e2|e2 cB GF E2||
+M:8/4
+K:BMix
+"^B"       B2 cd fg b2|b2 gf dc B2|]
+
+
+5. The Major/Mixolydian/Dorian Pentatonic Mode
+== ===========================================
+
+The MAJOR/MIXOLYDIAN/DORIAN PENTATONIC mode is what you get by playing on
+the black notes of the piano, taking C sharp as the home note.  It could
+be taken as being major, mixolydian or dorian; the third and seventh are
+missing.  Its interval sequence is TmTTm; in A it's ABde^fa.  It could be
+done on the pipes as the A-mode with the GC-gap pitch set, or the D-mode
+with the CF-gap set.  It's the rarest of all modes in Scottish music; some
+pipe tunes come close for long stretches, but where there are notes that
+bridge the gaps, they matter.  In sol-fa, it can start on do, so or re.  In
+Bronson's scheme it's pi-2.  In the Hungarian system it's sol-pentatonic.
+
+X:0
+T:The Major/Mixolydian/Dorian (do/so/re, pi-2) Pentatonic Scale
+L:1/4
+M:8/4
+K:C
+P:do -mi -ti
+"_do"C2 "_re"D "_fa"F "_so"G "_la"A "_do"c2 |\
+"_do"c2 "_la"A "_so"G "_fa"F "_re"D "_do"C2||
+M:8/4
+K:GMix
+P:so -ti -fa
+"_so"G2 "_la"A "_do"c "_re"d "_mi"e "_so"g2 |\
+"_so"g2 "_mi"e "_re"d "_do"c "_la"A "_so"G2||
+M:8/4
+K:DDor
+P:re -fa -do
+"_re"D2 "_mi"E "_so"G "_la"A "_ti"B "_re"d2 |\
+"_re"d2 "_ti"B "_la"A "_so"G "_mi"E "_re"D2|]
+
+In the Carnatic music theory of south India this is the secondary
+raga "Arabhi" (associated with the morning and a mood of mystery).
+The only Scottish example I could find was this ballad tune from
+the North-East:
+
+X:0
+T:The Baron o' Brackley
+S:Christie via "101 Scottish Songs"
+M:3/4
+L:1/8
+Q:1/4=120
+K:DMix
+D2 |G2 A2 B>A|G>A B2 B>A|G2 D2 G>D|E4
+D>E|G2 A2 B>A|G>A B2 B>A|G2 E2 E>D|D4
+B<d|e2 A2 G<E|G>A B2 B<d|e2 A2 A>G|BA3
+B>d|e2 A2 BA |G>E G2 B>A|G2 E2 E<D|D4|]
+
+which seems to be related to this American song in the same mode:
+
+X:0
+T:Pretty Saro
+M:3/4
+L:1/8
+Q:1/4=90
+K:D
+DE|G2 DE DE|G2 A2 AG |E2 D2 GG|D4
+DE|G2 D2 DE|G2 A2 dd |B2 G2 B2|A4
+G2|A2 d2 dB|A2 G2 A>B|AA G2 E2|D4
+D2|E2 A3  B|A2 G2 AG |E2 D2 G2|D4|]
+
+though it could be argued that both are really in G lydian/major/
+mixolydian pentatonic but end on the fifth.
+
+This might be a better example, in that the seventh is not essential
+to the tune, only occurring as a passing note on descending phrases:
+
+X:0
+T:Milking Croon
+S:Kennedy-Fraser, Songs of the Hebrides
+G:milking song from South Uist
+M:7/4
+L:1/8
+Q:1/2=80
+K:F Mixolydian
+DF|B2 cd F2 F2 F2 F2 de|f2 ed   cB    c2 dc B2
+fe|d2 fB BF F2 F2 F2 DF|B2 cc (3dcB   GF F2 F2||
+DF|B2 cd F2 F2 F2 F2 de|f2 ed   cB    c2 dc B2
+fe|d2 fF F2 F2 F2 F2 DF|B2 cc (3dcB   GF F2 F2||
+DF|B2 cd F2 F2 F2 F2 de|f2 ed   cB    c2 dc B2
+fe|d2 fB BF F2 F2 F2 DF|B2 cc   d/c/B GF F2 F2|]
+
+It slightly resembles this unmistakable example from the Chuvash, a Turkic
+people of the southern Volga:
+
+X:0
+T:Chuvash song
+S:Lajos Vargjas, Folk Music of the Hungarians
+M:C|
+L:1/8
+Q:1/4=120
+K:F
+df f(f/d/) cc c2|Bd dd/B/ BB B2 |
+Bc cc/B/   GG G2|GB BB/G/ FF F2|]
+
+There may be some association between this mode and the "selchie" legends
+of the northern islands.  This is the original tune for a famous ballad,
+now usually sung to a tune composed by James Waters in the US in the 1950s:
+
+X:0
+T:The Grey Selchie of Sule Skerrie
+S:David Thomson, The People of the Sea
+N:sung in 1938 by John Sinclair of Flotta, Orkney, to Otto Andersson
+M:none
+L:1/8
+Q:1/4=80
+K:DMix
+ A2  G>E D2>> B,2 B,>D E4
+ A2  G>E D (E/F/) G> A B4
+ d2  dc  B3     A G D  E4
+(EA) AA  B3     A G E  D4|]
+
+The third and seventh only occur as unimportant passing notes.
+
+Kennedy-Fraser recorded this tune in Uist, used for a story/song in which
+a seal-woman escapes back to sea after being trapped in marriage for years
+on land.  It's in the dorian/minor/phrygian pentatonic mode, but you could
+see the middle phrase as going into the major/mixolydian/dorian:
+
+X:0
+T:The Seal-Woman's Sea-Joy
+S:David Thomson, The People of the Sea
+N:from Marjorie Kennedy-Fraser; collected in Uist
+M:3/4
+L:1/4
+Q:3/4=70
+K:DDor
+|: (A3    |D3)|   (A3    |G3)|({d}A3    |D3)|C C2|D3:|
+%
+({A}G F) G|A3 |({A}G F) G|A3 |({A}G F) G|A3 |C C2|C3||
+%
+|: (A3    |D3) |  (A3    |G3)|({d}A3    |D3)|C C2|D3:|
+
+Kennedy-Fraser claimed that she sang that to a seal once, and the seal
+sang back to her, a narrow-range melody in the sol-pentatonic mode:
+
+X:0
+T:the seal's reply
+S:David Thomson, The People of the Sea
+N:from Marjorie Kennedy-Fraser; sung by a seal
+M:C|
+L:1/4
+Q:1/2=50
+K:CMix
+G3 A/G/|F2 d2|c4-|c4|]
+
+X:0
+T:Major/Mixolydian/Dorian (3,7-gap, do/so/re, pi-2) Pentatonic Scales
+L:1/4
+M:8/4
+K:Ab
+"^A flat"  A2 Bd ef a2|a2 fe dB A2||
+M:8/4
+K:Eb
+"^E flat"  E2 FA Bc e2|e2 cB AF E2||
+M:8/4
+K:Bb
+"^B flat"  B2 ce fg b2|b2 gf ec B2||
+M:8/4
+K:F
+"^F"       F2 GB cd f2|f2 dc BG F2||
+M:8/4
+K:C
+"^C"       C2 DF GA c2|c2 AG FD C2||
+M:8/4
+K:GMix
+"^G"       G2 Ac de g2|g2 ed cA G2||
+M:8/4
+K:DDor
+"^D"       D2 EG AB d2|d2 BA GE D2||
+M:8/4
+K:ADor
+"^A"       A2 Bd ef a2|a2 fe dB A2||
+M:8/4
+K:EDor
+"^E"       E2 FA Bc e2|e2 cB AF E2||
+M:8/4
+K:BDor
+"^B"       B2 ce fg b2|b2 gf ec B2||
+M:8/4
+K:F#Dor
+"^F sharp" F2 GB cd f2|f2 dc BG F2|]
+
+
+7. Summary of the Pentatonic Modes
+== ===============================
+
+X:0
+T:The Pentatonic Modes based on A
+L:1/4
+M:8/4
+K:A
+"^Lydian/Major/Mixolydian Pentatonic"  A2 Bc ef a2|a2 fe cB A2||
+M:9/4
+K:AMix
+"^Major/Mixolydian/Dorian Pentatonic"  A2 Bd ef a2|a2 fe dB A2||
+M:9/4
+K:ADor
+"^Mixolydian/Dorian/Minor Pentatonic"  A2 Bd eg a2|a2 ge dB A2||
+M:9/4
+K:AMin
+"^Dorian/Minor/Phrygian Pentatonic"    A2 cd eg a2|a2 ge dc A2|]
+
+One trick that harpists can use for some pentatonic modes: for the
+lydian/major/mixolydian mode, the unused 4th and 7th strings can be
+retuned upwards by a tone, and for the dorian/minor/phrygian mode,
+the unused 2nd and 6th strings can be retuned downwards by a tone.
+This duplicates the tonal centre and the fifth, which can give added
+resonance to the sound in the most important places.  This can't be
+done with sharpening levers, so you probably wouldn't want to do it
+in live performance, but it might be worth trying for a recording.
+
+=============================================================================
+==  (c) Jack Campin         http://www.campin.me.uk/        November 2010  ==
+==        11 Third Street, Newtongrange, Midlothian EH22 4PU, Scotland     ==
+==                                                                         ==
+==              these pages: http://tinyurl.com/scottishmodes              ==
+=============================================================================
+

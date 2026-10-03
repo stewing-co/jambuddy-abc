@@ -1,0 +1,2184 @@
+%%writehistory 1
+%% $Id: cam-french.abc,v 1.118 2022/08/07 15:10:30 dave Exp $
+
+%% Each tune must have an R: field to make the index come out nicely.
+%% choose from:
+%% Bourree Hanter-dro An-dro Hanter-Andro Jig Mazurka Polka Schottische Waltz
+
+%% Try to keep each type of tune together in the file!
+%% And use "abcrenumber.pl" to get the X: numbers right again!
+
+%% This works best with abcm2ps.
+
+%% NOTE: to get accidentals in chord symbols, escape them: \b \# \=
+%%freegchord 1
+%%stretchlast 1
+%%partsfont * box
+
+%%footerfont Helvetica 10
+%%footer "	$Id: cam-french.abc,v 1.118 2022/08/07 15:10:30 dave Exp $	$P"
+
+%%textfont Helvetica-Bold 18
+%%center The Cam-French Tune Collection
+%%vskip 1cm
+%%textfont Helvetica 14
+%%begintext center
+- being a collection of tunes which we play, enjoy, would like to play,
+can't play, need to learn, can't stand playing any more, and sundry
+others which have crossed our path -
+%%endtext
+%%vskip 1cm
+%%begintext center
+(and as always, a work in progress! comments to dave@biff.org.uk, please)
+%%endtext
+
+%%vskip 3cm
+
+%%textfont Helvetica-Bold 18
+
+%%center Schottisches
+
+X:1
+T:MaDe Schottische
+C:Tilman Teuscher
+R:Schottische
+B:"Here's one we made earlier" MADE 1997 tune book
+N:reproduced with permission
+M:4/4
+L:1/8
+K:Cm
+"Cm"c3d e2dc|"B\b"BdB=A "Gm"GABG|"Cm"c2c2 "B\b"d2fd|"G7"e3d edc=B|
+"Cm(A\b maj7)"c3d e2dc|"B\b"BdB=A "Gm"GABG|"Cm(Fm)"c2c2 "B\b(Dm dim7)"d2fd|"G7"e3d "Cm"c2 z2:|
+|:"Cm"e3f g2g2|"E\b"edef g4|"Fm"g2fg a2g2|"Gm"f2e2 d2c2|
+"Cm"e3f g2g2|"E\b"edef g4|"Fm"g2fg agfe|"G7"dfed "Cm"c2z2:|
+
+X:2
+T:The Duellists
+C:Nigel Eaton
+R:Schottische
+B:"Here's one we made earlier" MADE 1997 tune book
+M:2/4
+L:1/16
+K:D
+"D"A2A^G ABG2|"Dmaj7"A^GAB F4|"E"A^GAB FBAG|"Gmaj7"E2E2 F4|
+"F#m7"A2A^G ABAB|"Am7"=c2BA "D"F4|"E7"FA^G2 E=GF2|"G"D8:|
+|:"D"d2dc dec2|dcde A2ce|"A"cBA2 FA^G2|EGF2 E4|
+"Bm7"d2dc dede|f2ed A4|"E7"FA^G2 E=GF2|"G/A(G)"D8:|
+
+X:3
+T:Pas de loup
+Z:midi2abc/Dave Holland
+M:2/4
+L:1/16
+R:Schottische
+Q:1/4=100
+K:C
+c4 d2e2|c4 d2e2|f2g2 f2e2|d2e2 d2B2|\
+c4 d2e2|c4 d2e2|f2g2 f2e2|1d8:|2d6 e2||
+f2d2 e2c2|B4 c2B2|G2B2 d2B2|c2B2 d2e2|\
+f2d2 e2c2|B4 c2B2|G2B2 d2B2|1c4 d2e2:|2c8||
+g4 e2f2|g4- gz g2|a2g2 f2e2|d2e2 f2d2|\
+g4 e2f2|g4- gz g2|a2g2 f2e2|1d8:|2d6e2||
+f2d2 e2c2|B4 c2B2|G2B2 d2B2|c2B2 d2e2|\
+f2d2 e2c2|B4 c2B2|G2B2 d2B2|1c4 d2e2:|2c8|]
+
+X:4
+T:Laigo
+Z:midi2abc
+M:2/2
+L:1/8
+R:Schottische
+Q:1/4=100
+K:C
+c2 de f2 d2|gf ga gf ed|c2 de f2 d2|gf ga g4:|
+de fd g2 fe|de dc B2 G2|de fd g2 fe|de dB c4:|
+
+X:15
+T:Le Jeamber (J. Blanchard, B. Blanc)
+M:2/4
+L:1/16
+K:G
+D2EF G2AB|cBAG Adcd|D2EF GFAB|cBAG FAEA|D2EF G2AB|cBAG Adcd|
+D2EF GFAB|cBAF G4:| |:d2d2 c2AB|cBAG FDFA|c2c2 B2AG|FGAG FDGB|
+d2d2 c2AB|cBAG FDFA|c2c2 B2AG|FGAF G4:| |:A2AB c2cB|AGAc B2G2|
+A2AB c2cB|AGAF G4:| |:d2de d2cB|AGAc B2G2|d2de d2cB|AGAF G4:|
+
+X:16
+T:L'\'Emeraude
+C:St\'ephane Durand
+D:"Tapage"
+N:originally in D minor
+M:2/4
+L:1/8
+Q:1/4=175
+K:Gm
+BA Gd|e2d2|BA Gd|e2d2|BA Bd|g2d2|dg fe|d4|ef ed|
+e2c2|ef ed|A4|ef ed|1c2 =Bc-|c=B c^c|dB AG:|2c2 ^cd-|dB A2|G4||
+gb af|g2d2|cf =ec|d4|ed cf|ec ce|dc de|d4|
+gb af|g2d2|cf =ec|d4|ed cf|ec ce|fe f^f|g4:|
+
+X:17
+T:Scottish \`a Kerbeuf
+R:Schottische
+O:France
+D:voir La Mirlitantouille
+Z:Dave Holland <dave@biff.org.uk>
+M:2/4
+L:1/8
+K:Cm
+ce ge | d/e/d/c/ d2 | d/e/f/e/ d/c/B/c/ | de dc |\
+ce ge | d/e/d/c/ d2 | d/e/f/e/ d/c/B/c/ | dB c2 :|
+K:C
+Gc ec | B/c/B/A/ G2 | B/c/d/e/ d/c/B/c/ | d/e/f/d/ ec |\
+Gc ec | B/c/B/A/ G2 | B/c/d/e/ d/c/B/c/ | dB c2  :|
+
+X:1
+T:Double-Jeu
+R:Schottische
+Z:Dave Holland <dave@biff.org.uk>
+M:2/4
+L:1/8
+K:C
+G|AG BG|c>c cg|f>e df|e/f/e/d/ cG|AG BG|
+c>c ce|d>c de|1c3:|2c3 d|:ee fd|e>d cg|
+ag ge|f/g/f/e/ dg|ee fd|e>d cG|Ac ed|1c3 d:|2c3|]
+
+X:1
+T:Ad\`ele
+R:Schottische
+Z:Dave Holland <dave@biff.org.uk>
+M:2/4
+L:1/8
+K:G
+B>A GA|B2 d2|e>d ef|gf ed|B/c/B/A/ GA|B2 d2|
+eg fa|dg2d::e2 cg-|g2 ge|de/f/ gd|Bc de|
+c2 eA-|AB cd|1Bc/B/ AB/A/|GB cd:|2ed ef|g2 g2|]
+
+X:1
+T:Longwater
+C:XiM
+D:"989", XiM
+R:Schottische
+Z:Dave Holland <dave@biff.org.uk>
+M:2/4
+L:1/8
+K:Dm
+"Dm"F>E D/E/D/E/|F/E/F/G/ AG/A/|"B\b"B>A GF | "C"{GA}GF "Am"E2|
+"Dm"F>E D/E/D/E/|F/E/F/G/ "(F)"AG/A/|"B\b"BA {GA}GF | "C"E4:|
+"B\b"DF "C"EF/G/|"F"A>G A/G/F/E/|"B\b"D/E/F/A/ "C"GF/G/|"Dm"A/F/c/A/ "Am"G2|
+"B\b"DF "C"EF/G/|"F"A>G A/G/F/E/|"B\b"D/E/F/A/ "C"GF/E/|"Dm"FF "Am"E2:|
+
+X:4
+T:The Dining Table
+C:Matthew Szostak 2002
+N:For Nina
+R:Schottische
+Q:1/4=160
+Z:Dave Holland <dave@biff.org.uk>
+M:C
+L:1/4
+K:C
+.cgzg|f/g/ f/e/ d e/d/|cc/d/ ec|d (3_B/d/B/ AG|\
+.cgzg|f/g/ f/e/ d e/d/|cd/e/ d/c/_B|c d//c//_B/ c2:|
+.ge.c_B-|Bc/d/ ed/e/|f>g ag/a/|_b/a/ g/f/ ag|\
+.ge.c_B-|Bc/d/ ed/e/|f/e/ d/c/ e/d/ c/_B/|c d//c//_B/ c2:|
+
+X:1
+T:Schottische: Sorbet Shuffle
+C:Andrew Swaine
+M:2/2
+L:1/8
+N:originally in G
+K:C
+cd|"C"e3d cedc|"G"dedc B2"/e"G2|"F"A3B "C/e"c2ee|"Dm7"fedc "G7"d2cd|
+"C"e3d cedc|"G"dedc B2"/e"G2|"F"A3B "Dm7"c2ee|"G7"dcBd "C"c2:|
+K:Cm
+cd|"Cm"e3d cedc|"Gm/b\b"dcde f2"/d"^f2|"E\b"g3f egfe|"Dm7"fffe "G7"dfed|
+"Cm"e3d cedc|"Gm/b\b"dcde f2"/d"^f2|"E\b"g3f egfe|"G7"f=ed=B "C"c2:|
+
+X:1
+T:Scottish \`a Virmoux
+C:Trad arr. F. Paris
+R:Schottische
+M:C|
+L:1/8
+K:G
+"G"GdcB d3B|"C"cBcd "D"e2d2|"G"dgdB "C"c2BA|"G"BdBG "D"A4|
+"G"GdcB d3B|"C"cBcd "D"e2d2|"G"dgdB "C"c2BA|"D"GdcB "G"G4:|
+"G"g2d2 g3f|"C"edef "D"gage|"G"d2G2 d2cB|"D"ABcd edef|
+"G"g2d2 g3f|"C"edef "D"gage|"G"d2G2 d2cB|"D"ABcd "G"G4:|
+
+X:1
+T:La Grand'B\^ete
+C:Gilles CHABENAT
+R:Schottische
+M:2/4
+L:1/8
+K:Dm
+"Dm"D/E/F/G/ AA|G/A/B/G/ A2|"Dm"F/A/G/F/ E/G/F/E/|D/E/F/G/ "A"A2| \
+"Dm"D/E/F/G/ AA|G/A/B/G/ A2|c=B AG|"A"E/G/F/E/ "Dm"D2:|
+"Dm"A2 d2|"A"^c/d/e/c/ "Dm"d2|"Dm"A/B/=c/A/ "C"c/B/A/G/|"Bb"F/E/F/G/ "A"A2| \
+"Dm"A2 d2|"A"^c/d/e/c/ "Dm"d2|"Dm"A/B/=c/A/ c/B/A/G/|"A"F/G/F/E/ "Dm"D2:|
+
+X:1
+T:New French Schottische
+R:Schottische
+M:2/4
+L:1/8
+K:Gm
+GB/d/ GB/d/|ed/c/ d2|e/f/g/f/ ed/c/|Bc A2| \
+GB/d/ GB/d/|ed/c/ d2|e/f/g/f/ e/d/c/B/|A/G/B/A/ G2:|
+ga/b/ ag|f/g/f/g/ d2|e/f/g/f/ ed/c/|Bc d2| \
+ga/b/ ag|f/g/f/e/ d2|e/f/g/f/ e/d/c/B/|A/G/B/A/ G2:|
+
+X:1
+T:La Sansonnette
+T:La Sansonette
+C:Dominique Forges
+C:2. H\"alfte des 20. Jahrhunderts
+R:Schottische
+A:France
+S:hg@hurdygurdy.com Sun, 18 Mar 2007 21:59:42
+Z:abc-transkription: Simon Wascher
+M:2/4
+L:1/16
+K:D aeolisch
+A2^GA =G2F2 | EGFE D4 | DEFG A2GA | c2=B2 A4 |
+A2^GA =G2F2 | EGFE D4 | DEFG A2GF | EGFE D4 :|
+|:\
+A2FA BFAB | A2FA BFAB | A2EA BEAB | A2EA BEAB |
+A2FA BFAB | A2FA BFAB | ABAG FGFE | DEFE D4 :|
+% aus Simon Waschers TradArchiv
+
+X:2
+T:Derri\`ere les carreaux
+M:4/4
+L:1/4
+C:Fr\'ed\'eric PARIS
+S:La Chavann\'ee - "Rage de danse"
+R:Scottish
+K:Gm
+ddd>c|B/c/d/e/ c2|A c B/d/B/G/|A/c/B/A/ B G|
+ddd>c|B/c/d/e/c2|A c B/d/B/G/|A/c/B/A/ G2:|
+|:dd g/f/g/a/|f =e/d/c2|ddG/A/B/d/|c B/A/ B/A/ G|
+dd g/f/g/a/|f =e/d/c2|dd G/A/B/d/|c B/A/ G2:|
+
+X:5
+T:Les Beaux Jours
+C:Gilles Chabenat
+R:Schottische
+I:Airs nouveaux pour danses anciennes
+M:C
+L:1/16
+K:Dmin
+dcBA B2G2 g2ag f2d2|fedc d2ef gfed c4|
+dcBA B2G2 g2ag f2d2|fedc d2ef gfea d4:|
+g2a2b2g2 ^fgaf d4|gdga bagf e2d2 c4|
+g2a2b2g2 ^fgaf d4|bagf edcA cdec d4:|
+
+X: 1
+T:Ka-Foo-Zalum
+C:trad
+M:4/4
+L:1/8
+%F:http://trillian.mit.edu/~jc/music/abc/mirror/kirby98.fsnet.co.uk/ka/Ka_Foo_Zalum_1.abc 2008-11-04 15:20:24 UT
+K:G
+|:d2d3/2c/2 B3/2c/2 d2 | A3/2B/2c3/2B/2 A3/2B/2 c2 | \
+d3/2e/2d3/2c/2 B3/2c/2 d2 | G3/2A/2B3/2G/2 A2G2:|
+|:B3/2G/2D3/2G/2 B3/2G/2 B2 | c3/2A/2F3/2A/2 c3/2A/2 c2 | \
+B3/2G/2D3/2G/2 B3/2G/2 B2 | G3/2A/2B3/2G/2 A2G2:|
+
+X: 1
+T:En Flandres
+C:F. Paris
+D:Rue de l'oiseau; Live en Flandre
+M:2/4
+L:1/16
+K:C
+c|:"C"cBcd c3d|"G"dcde d3e|"F"edef ~e2dc|"G"Bcde e2dc|"C"cBcd c3d|
+"G"dcde d3e|"F"edef ~e2dc|1 "G"BcdB "C"cGEG:|2 "G"BcdB "C"c3c||
+|:"C"cdef "Em"g3A|"F"ABcd "C/E"G3G|"F"ABcd e2de|1"Dm"fedc "G"e2dc \
+   :|2"G"fedc ~B2AB|]
+
+X:1
+T:Serpentiner och Konfetti
+C:Mats Eden
+Z:Jacob Steel
+S:From the playing of Ian Dedic
+M:4/4
+L:1/8
+K:G
+dc|"G"BddB "Amin"cdec|Acec "G"B2Gg|"Amin"fgag "D"f2f (e|"Amin"e) cef e2"G"dc|
+"G"BddB "Amin"cdec|Acec "G"B2Gg|"Amin"fgag "d"fdfg|1 a2"G"gf g2:|2a2"G"gf g2 ga|
+|:"G"b2 b(c'"Amin"c'2) "G"bc'|"G"d'c'bc' d'gbd'|"Amin"e'2e'd' "D"c'2c'b|afac' "G"b2ga|
+"G"b2 b(c' "Amin"c'2) "G"bc'|"G"d'c'bc' d'gbd'|"Amin"e'2 e'd' "D"c'baf|1 "D"a2"G"gf g2 ga:|2"D"a2 "G"gf g2|]
+
+X: 1
+T:Le Petit Bossu
+T:The Little Hunchback
+R:Schottische
+C:Trad.
+O:France
+M:C
+L:1/4
+Q:1/4=180
+K:G
+DEDE|DG/A/BG|DEDE|DB/A/G2:|
+B/A/B/c/BA|A/G/A/B/A2|D/D/E/F/ G/B/D|D/D/E/F/G2:|
+
+X:1
+T:Sunshine
+R:Schottische
+C:Gregory Jolivet
+S:http://www.youtube.com/watch?v=fuSGZIqqW88
+D:La Machine "Il est encore temps"
+O:France
+M:2/4
+L:1/8
+Q:1/4=180
+K:G
+|:b2 ag|d3e|eccB|AGAB|cedc|d2 Bd|cBAc|B2G2|
+  b2 ag|d3e|eccB|AGAB|cedc|d2 Bd|cBAB|G4:|
+|:d2 gf|g3 d-|dedc|BGAB|c2 gf|g3 c-|cdcB|AABc|
+  d2 gf|g3 d-|dedc|BGAB|c2 gf|1g3 c-|cdcB|AABc:|2g a2 f-|f4-|f4|]
+
+X:1
+T:Simply
+C:Simon Gielen
+S:http://www.youtube.com/watch?v=HX2sryJ48Ts
+Z:Dave Holland <dave@biff.org.uk>
+M:2/2
+L:1/8
+K:F
+Q:1/2=100
+"F"A2BA G2c2|"Bb"A2F2 G2E2|"C"F2D2 E2F2|G2E2 FEFG|
+"F"A2BA G2c2|"Bb"A2F2 G2E2|"C"F2D2 E2F2|1 G2AG "F"FAAA:|2 G2AG "F"F2F2||
+"Bb"F2D2 E2F2|"C"G6 FG|"F"A2F2 "C"G2E2|"Bb"F2D2 "Am"E2C2|
+"Bb"F2D2 E2F2|"C"G6 FG|"F"A2F2 "C"GFE2|1 "F"F6 F2:|2 "F"F4 A4||
+T:Simply (minor)
+K:Fm
+"Fm"A2F2 G2A2|G2E2 D2C2|E2C2 D2E2|D2C2 B,2G,2|
+"Fm"A2F2 G2A2|G2E2 D2C2|E2C2 D2E2|1 F6 A2:|2 F8 ||
+E2C2 D2E2|D2C2 B,2G,2|"Fm"A2F2 G2A2|G2E2 D2C2|
+E2C2 D2E2|D2C2 B,2G,2|E2C2 D2E2|1 "Fm"F6 F2:|"Fm"F8 ||
+
+%%newpage
+%%textfont Helvetica-Bold 18
+
+%%center Bourr\'ees (2-time)
+
+X:5
+T:French Stick
+C:Paddy Butcher
+R:Bourree
+S:Paddy Butcher
+Z:Dave Holland
+M:2/4
+L:1/8
+K:G
+G2 A2|:"G"B>c BA|G>A Bc|B>c BG|"D"A3 B|"D7"c>d cB|
+A>B cd|"G"B>c "D"AB|1"G"G3 A:|2"G"G4|:"G"d>e dc|B>c de|"C"c>d "G"Bc|
+"D"A3 B|"D7"c>d cB|A>B cd|1"G"B>c "D"AB|"G"G4:|2"G"B2 "D"A2|"G"G4|]
+
+X:3
+T:Bourree?
+Z:Dave Holland <dave@biff.org.uk>
+S:St Chartier festival 2002
+N:marks = claps
+M:2/4
+R:Bourree
+L:1/8
+Q:1/4=140
+K:Am
+"Am"c2 Bc|A3 c|"G"B>c dB|"Am"c2 A2|\
+c2 Bc|A4|"G"G2 B2|"Am"A4:|
+"Am"MA2 "F"Mf2|"C"Me4|"G"B>d cB|"Am"c2 A2|\
+"Am"MA2 "F"Mf2|"C"Me4|"G"B>d cB|"Am"A4:|
+
+X:1
+T:La Corne
+M:4/4
+R:Bourree
+L:1/8
+Z:midi file from Ruth Bramley -> midi2abc -> Dave Holland <dave@biff.org.uk>
+D:"Transept", Patrick Bouffard
+%Q:1/4=100
+K:G
+d2 Be d>c B2|A>B cd A>B ce|d2 Be d>c B2|AB/c/ BA G3z|
+d2 Be d/e/d/c/ B2|A>B cd A>B c/A/c/e/|d2 Be d/e/d/c/ B2|AB/c/ BA G3z|
+A/B/c/d/ ed Bz/A/ B2|A/B/c/d/ ed B3z|A/B/c/d/ ed Bz/A/ Bd|dc/B/ AB G3z|
+A/B/c/d/ ed B/c/B/A/ B2|A/B/c/d/ ed B3z|A/B/c/d/ ed B/c/B/A/ Bd|dc/B/ AB G3z|]
+
+X:60
+T:Beanfield
+M:2/4
+L:1/8
+Q:1/4=170
+C:Jon Swayne
+R:Bourree
+%F:http://homepage.ntlworld.com/goldfrog/lester/tunes/session.abc 2003-07-02 09:35:44 UT
+K:C
+GddG | eeGf | g>fe_B | a>gf_B | GddG | eeGf | g>fe_B | A4 :|
+K:G
+dBBe | ccfd | dgee | a>gfA | dBBe | ccfd | dge>d | c4 :|
+
+X:5
+T:Draailieraroma
+C:Mart Heijmans
+A:Niederlande
+Z:abc transcription Simon Wascher, chords added by Andrew Swaine
+D:"Panic at the Cafe", Eaton/Cutting (as "Bourrees")
+M:2/4
+R:Bourree
+L:1/8
+%F:http://members.chello.at/simon.wascher/tradarchiv/bourree_2/bourree.A2BA^G3A.abc 2003-08-29 10:33:53 UT
+K:Dm
+"Dm"A2 BA | "E7"^G3A | "Dm"d3/2f/2 ed | "Gm"BG cB |\
+"Dm"AF BA | "E7"^G3A | "Gm"G3/2F/2 ED |1 "A7"EF2G :|2 "A7"E4 ||
+K:G
+|:"D"F3/2G/2 AF | "C"c3/2B/2 AG | "Em7"ed cB | "A7"AG FE |\
+"D"F3/2G/2 AF | "C"c3/2B/2 AG | "Em7"e3/2d/2 cB | "A7"A4 :|
+
+X:1
+T:Bourr\'ee d'Aurore Sand
+Z:Dave Holland <dave@biff.org.uk>
+B:On Bouge tune book vol 1
+M:2/4
+R:Bourree
+L:1/8
+K:Dm
+D>E FG|A3 A|Ad ^cd|A3 A|B>A GE|F>E DE/F/|GA FE|D4:|
+A>G FG|A>G FG|A>G AB|A>G FG|A>G FG|A>G FG|AG FE|D4:|
+
+X:1
+T:La Bourr\'ee Carr\'ee de St Chartier
+R:Bourree
+B:Massif Central Tune Book no 1 number 88
+M:2/4
+L:1/8
+N:originally in G
+K:C
+G2 AB|c3 e|d>c Bc|de d2|G2 AB|c3 e|d>c BA|G4:|
+cd ed/e/|fe d2|ec Bc|dB AG|cd ed/e/|fe d2|ed/c/ Bd|c4:|
+
+X:1
+T:Le Ruban Bleu
+R:Bourree
+B:Massif Central Tune Book no 1 number 90
+M:2/4
+L:1/8
+N:originally in G
+K:C
+"C"g2 ec|"G"B>c de|f2 dB|"C"c>d ef|g2 ec|"G"B>c de|f2 dB|"C"c4:|
+"G"B>d Bd|"C"c>e ce|"G"d>f df|"C"e2 c2|"G"B>d Bd|"C"c>e ce| \
+"G"g>f ed|1g4:|2"C"c4|]
+
+X:3
+T:Le Dromadaire
+C:Patrick Bouffard
+R:Bourree
+I:Centre France
+Z:edited by Dave Holland <dave@biff.org.uk>
+Q:1/4=150
+M:2/4
+L:1/8
+K:Gm
+D2 CD-|D^F DF|G3/2^F/2 G/2A/2B-|BA G/A/B/c/|
+d2 ^cA-|A=c BA|1B>A G^F-|FG A^F:|2B>A G/^F/G-|G4||
+d2 ^cA-|A=c BA|B>A G^F-|F/G/F/G/ A^F|
+D2 CD-|D^F DF|1G>^F G/A/B-|BA G/A/B/c/:|2G>A G/^F/G|G4:|
+
+X: 4
+T:La Charge
+C:Manu Paris
+R:Bourree
+I:Centre France
+Z:edited by Dave Holland <dave@biff.org.uk>
+Q:1/4=150
+M:2/4
+L:1/8
+K:Dm
+D2F(E| E)GAG|D3/2E/2 F(E|E)F EC|\
+D3/2E/2 F(E|E)GAG|D3/2E/2F(G |G4):|
+A3(B|B2)GF|E3/2F/2 G(F|F4)|D3/2F/2 EG|FFED|E2D(G|G)E FG|
+A3/2B/2 cB-|B2GF|E3/2F/2 G(F|F4)|D3/2F/2 EG|A2GF|E3(D|D4)|]
+
+X:1
+T:Jupes Fendues
+R:Bourree
+C:Ph. PRIEUR / F. PARIS
+M:2/4
+L:1/8
+K:D
+D>E FD|A>G FE|D>E FD|A2 B=c| \
+D>E FD|A>G FE|D>E FD|E4:|
+A>F GA|B>G AB|=c>A Bc|d>=c BA| \
+A>F GA|B>G AB|=cB AG|F4:|
+
+X: 1
+T:Le Funambule
+R:Bourree
+M: 4/4
+L: 1/8
+Q:1/4=120
+C:Neil Brook
+Z:Neil Brook -> NoteWorthy Composer -> MIDI -> midi2abc -> Dave Holland
+K:Dm
+A2 GA2d ^cA| B3/2A/2 G_E2F GB| \
+A2 GA2d ^cA| =c3/2=B/2 G_B AF GF:|\
+|:d3/2e/2 fA2A BA|
+d3/2e/2 fB2^c de| \
+f3/2e/2 d^c dA BG|1 FG/2F/2 E2 FG/2F/2 ED:|2 FG/2F/2 EF/E/ D2 D2 |]
+
+X: 1
+T:Avant de s'en Aller
+C:Pierre Imbert
+B:Massif Central Tune Book nr.2, compilation Mel Stevens, publisher Dragonfly Music, Newbiggin by the Sea,  2nd edition, 1992
+Z:abc transcription Simon Wascher
+N:please mail errors to: simon.wascher@chello.at
+R:Bourree
+M:2/4
+L:1/8
+%F:http://www.novosaires.com/Partituras%20y%20midis/abc/a.abc 2007-10-19 13:42:14 UT
+K:G
+F3/2A/2 GF|A3A/2B/2|c3B|A/2B/2A/2G/2 AG|
+F3/2A/2 GF|A3A/2B/2|c3/2B/2 cd|A4:|
+|:F/2A/2d/2F/2 Ad|cB A/2B/2A/2G/2|F/2A/2d/2F/2 Ad|cA B2|
+F/2A/2d/2F/2 Ad|cB AG|F/2A/2d/2F/2 AF|G4:|
+
+X: 1
+T:Mon habit
+T:(Mon habit n'a qu'un bouton)
+C:traditionell
+A:France
+R:Bourree
+Z:abc transcription Simon Wascher
+M:2/4
+L:1/8
+%F:http://simonwascher.info/TradArchiv_bourree_2/mon_habit.abc 2008-01-02 13:52:04 UT
+K:Ddor
+D |\
+D3/2E/2 FG | AG A/2G/2A/2B/2 | c3/2c/2 AG |\
+A3F | D3/2E/2 FG | AG A2 | c2 AG | A3 :|
+K:Dm
+|: A |\
+B3/2B/2 GF | E2 GG | A3/2A/2 FE | F2 DA |\
+B3/2B/2 GF | E2 GG | A3/2A/2 FE | D3 :|
+
+X: 1
+T:Ou sont donc ces amants
+C:traditionell
+A:France
+R:Bourree
+Z:abc transcription Simon Wascher
+M:2/4
+L:1/8
+%F:http://simonwascher.info/TradArchiv_bourree_2/ou_sont_donc_ces_amants.abc 2008-01-02 13:57:07 UT
+K:Dm
+D2 (A2 | A)G AG/2F/2 | E3/2F/2 GA | F2 E2 |\
+D2 (A2 | A)G AG/2F/2 | E3/2F/2 GA | F2 E2 :|
+|:\
+DF EF/2E/2 | DF EF | G3/2F/2 ED | F2 E2 |\
+DF EF/2E/2 | DF EF | G3/2F/2 ED | FE D2 :|
+
+X: 70
+T:Last Chance Bourree
+T:Il n'est plus temps
+D:"Dance", Blowzabella
+C:Michel Pichon
+R:Bourree
+M:2/4
+L:1/8
+K:Dm
+"Dm"F2A2|d3f|"Gm"e>d cB|"Am"dc BA|"Dm"F2A2|dA2f|"Bb"e>d Bd|"C"A4:|
+"Dm"dc2d|"Gm"d3A|"C"G>A GA|"F"GA GF|"Bb"dc2d|"Dm"F3B|"F"AF BA|"Am"FB A2:|
+T:(alternative chords)
+"Dm"F2A2|d3f|"C"e>d cB|"Am"dc BA|"Dm"F2A2|dA2f|"C"e>d Bd|"A7"A4:|
+"Dm"dc2d|"Gm"d3A|"C"G>A GA|"F"GA GF|"Bb"dc2d|"Dm"F3B|"Bb"AF BA|"C"FB A2:|
+
+X: 1
+T:Bouree de Concours
+C:Serge Durin
+M:2/4
+L:1/8
+Q:1/4=100
+S:Blowzabella
+R:Bourree
+%F:http://jc.tzo.net/~jc/music/abc/mirror/kirby98.fsnet.co.uk/bo/Bouree_de_Concours_1.abc 2008-02-12 11:45:05 UT
+K:Gm
+d2 ^cd|B3 A|G>A BG|AD ED|d2 ^cd|B3 A|G>A BG|A4:|
+D>E ^FD|G>A BG|^F>G AF|G>B A^F|D>E ^FD|G>A BG|^F>G AF|G2 G2:|
+
+X: 1
+T:Les Trois Canards
+C:Bernard Blanc
+A:France
+Z:abc transcription Simon Wascher
+M:2/4
+L:1/8
+%F:http://simonwascher.info/TradArchiv_bourree_2/les_trois_canards.abc 2008-04-28 10:57:53 UT
+K:Gm
+dc2B | A3/2G/2 ^FG | A/2B/2A/2G/2 AB | A/2B/2A/2G/2 ^FD |\
+dc2B | A3/2G/2 ^FG | A/2B/2A/2G/2 ^FD | G4 :|
+|:\
+BA2B | G2 ^FG | A/2B/2A/2G/2 AB | A/2B/2A/2G/2 ^FD |\
+BA2B | G2 ^FG | A/2B/2A/2G/2 ^FD | G4 :|
+
+X:4
+T:Carree de Vouvray
+M:2/4
+L:1/8
+C:Gilles Chabenat
+R:Bourree
+K:G
+G>A Bc|d3_e/d/|c>d _ec|d>c BA|G>A Bc|d3_e/d/|c>d cB|A4:|
+|:g>B cd|=f>e dc|B>A Bc|d2d2|g>B cd|=f>e dc|Bg BA|G4:|
+
+X: 1
+T:Chypre
+O:Classe de vielle de Dominique Forges
+O:ENM Nevers
+M:2/4
+R:bourree 2 temps
+Q:250
+L:1/8
+K:Gm
+^f/g/|:"D"a2b2|a>g ^fg|1a2b2|a3^f/g/:|2"Cm"ag "D"^fe|d4:|
+|:"Cm"gg2^f|ag2^f|a>g ^fe|"D"d4|"Eb"bb2a|c'b2a|c'>b ag|"D"^f4:|
+
+X: 1
+T:Chypre
+O:Classe de vielle de Dominique Forges
+O:ENM Nevers
+M:2/4
+R:bourree 2 temps
+Q:1/4=250
+L:1/8
+K:Cm
+=B/2c/2|:"G"d2e2|d>c =Bc|1d2e2|d3=B/2c/2:|2"Fm"dc "G"=BA|G4:|
+|:"Fm"cc2=B|dc2=B|d>c =BA|"G"G4|"Ab"ee2d|fe2d|f>e dc|"G"=B4:|
+
+X:16
+T:Beltane (Bourr\'ee)
+C:Andrew Swaine
+Q:1/4=126
+M:2/4
+L:1/8
+K:Am
+%%MIDI gchord b2zb
+P:A
+|:"Am"ae/e/ fe|^de cB|"Fmaj7"AA/B/ c"Dm7"A|B^d "E7"e2|\                         
+"Am"ae/e/ fe|^de cB|"Fmaj7"AA/B/ cA|"E7"^G2 E2:|
+P:B
+|:"Am"AA/B/ cA|cc/e/ cA|"Em/a"Be/e/ ^de|=dc BG|\                                
+"Am"AA/B/ cA|cc/e/ cA|"Em/a"BB/c/ BA|"E/a"^G2 E2:|
+T:Tune 2
+P:A
+|:"A drone"eE/E/ eE|eE/E/ eE|eE/E/ dE|cE dE|\                                   
+eE/E/ eE|eE/E/ eE|"Fmaj7"[fF][fF] z[fF]|"B7"[^d^D]2 [e2E2]:|
+P:B
+|:"Am"AA/B/ cA|cc/e/ cA|"Em/a"BB/c/ BA|"E/a"^G2 E2|\                            
+"Am"AA/B/ cA|cc/e/ cA|"Em/a"BB/c/ BA|"E/a"[^G4e4]:|
+T:Tune 1 change chords (A)
+P:A
+|:"Dm"ae/e/ fe|^de cB|"Dm6"AA/B/ cA|B"E7"^d e2|"Dm"ae/e/ fe|                    
+[1 "Dm"^de cB|"Bm7b5"AA/B/ cA|"E7"^G2 E2:|2 "Dm"^de cA|"E"eE "/d"dE|\
+"/c"cE "/b"BE||
+T:Tune 2 change chords (B)
+P:B
+|:"Dm"AA/B/ cA|cc/e/ cA|"E7"BB/c/ BA|^G2 E2|\                                   
+"Dm"AA/B/ cA|cc/e/ cA|"E7"BB/c/ BA|[^G4e4]|
+"Dm"AA/B/ cA|cc/e/ cA|"E7"BB/c/ BA|^G2 E2|\
+"Fmaj7"AA/B/ cA|cc/e/ cA|"G6"BB/c/ BA|"E7/g#"^G2 e2:|
+
+
+%%newpage
+%%textfont Helvetica-Bold 18
+
+%%center Bourr\'ees (3-time)
+
+X:6
+T:Dans Les Caves
+Z:midi2abc
+M:3/8
+L:1/16
+R:Bourree
+Q:1/4=100
+K:C
+"C"G2A2B2|"C"c2d2e2|"Dm"f2d2ef|"G"g2d2B2| \
+"C"G2A2B2|"C"c2d2e2|"F"fed2c2|"G"d6:|
+"F"f3gf2|"C"e2d2c2|"G"Bcd2B2|"C"c2d2e2| \
+"F"f3gf2|"C"e2d2c2|"G"Bcd2B2|"C"c6:|
+
+X:1
+T:Fil et Bobine
+C:\'Evelyne Girardon
+R:Bourree
+B:Les Panards Dansants tune book
+N:originally in D
+M:3/8
+L:1/8
+K:G
+B/c/|dgf|d3/2c/d/e/|=fec|d/e/d/c/B/c/| \
+dgf|d3/2c/d/e/|=fec|d2:|
+B/c/|dBG|A3/2G/A/B/|cBG|A/B/c/A/B/c/| \
+dBG|A3/2G/A/B/|1cBG|A2:|2cB/c/B/A/|G2|]
+
+
+X:1
+T:Bourr\'ee
+C:Trad. Auvergne
+Z:Dave Holland <dave@biff.org.uk> / Jack Campin
+M:3/8
+L:1/16
+R:Bourree
+Q:3/8=69
+K:G
+% nasty hack to prevent "line underfull" errors
+%%rightmargin 8cm
+P:Intro
+  G4  F2|G4  F2|G6   ||
+%%rightmargin 1.8cm
+P:A
+  ABAGFA|G2GABc|d2cdcB|   ABA2G2|
+  ABAGFA|G2GABc|ddcdcB|[1 A2d4 :|\
+                       [2 A6   ||
+P:B
+|:ABcBAB|G2ABAG|F2EDEF|   G2A4  |
+  ABcBAB|G2ABAG|F2EDEF|   G6   :|
+P:Fin
+  G2Bcde|d2BcBA|G4  F2|   G6   |]
+
+X:1
+T:Bourr\'ee Tournante du Val de Loire
+M:3/8
+R:Bourree
+B:On Bouge tune book vol 1 number 57
+L:1/8
+Z:Dave Holland <dave@biff.org.uk>
+N:originally in G
+K:C
+GAB|c2d|c/B/AG|c3|ABc|d2e|d/c/BA|G3:|
+e2d|cBA|d2c|BAG|B2A|GAB|1cd^d|e3:|2ced|c3|]
+
+X:17
+T:Bourr\'ee Tournante des Grandes Poteries
+R:Bourree
+A:Massif Central
+O:France
+M:3/8
+L:1/8
+Q:200
+K:C
+e/f/|:geg |g/e/ce/f/|geg|g2 d/e/|fdd|d2 c/d/|ecc|1 c2 e/f/:|2 cBA|
+|:G2A|G2A|Gcd|e3|dcd|cBA|1 GAG|e2c:|2 Ged|c2|]
+
+X:1
+T:Cochinelle
+T:La Coccinelle
+R:Bourree
+C:Jean Blanchard
+B:Les Panards Dansants tune book
+M:3/8
+L:1/8
+K:G
+B/c/|dgf|edc|d/e/d/c/A/c/|BG/A/B/c/|dgf|edc|d/e/d/c/A/B/|G2:|
+B/c/|:d/B/G/e/c/A/|d/B/G/e/c/A/|\
+d/e/d/c/A/c/|BG/A/B/c/|
+d/B/G/e/c/A/|d/B/G/e/c/A/|d/e/d/c/A/B/|1GG/A/B/c/:|2G2|]
+
+X:1
+T:Bourr\'ee d'Aragon
+R:Bourree
+B:Les Panards Dansants tune book
+M:3/8
+L:1/8
+K:Gdor
+GBc|dfe|cBG|d>ef|gfe|d>ef|gfe|c3:|
+gfd|fdc|dcB|cBG|GBd|c>Bc|1def|ecd:|2dcB|G3|]
+
+X:1
+T:Bourr\'ee Croiss\'ee du Morvan
+R:Bourree
+B:Massif Central Tune Book no 1 number 31
+M:3/8
+L:1/8
+K:C
+Gcd|ed/e/f|cde|d3|Gcd|ed/e/f|dcB|c3:|
+gf/g/a/g/|fd/e/f/e/|cde|d3|gf/g/a/g/|fd/e/f/e/|dcB|c3:|
+
+X:1
+T:La Bourr\'ee \`a Huit
+R:Bourree
+B:Massif Central Tune Book no 2 number 17
+M:3/8
+L:1/8
+K:G
+d2^c|d2 A/B/|cBA|BGG|d2^c|d2 A/B/|cBA|1G3:|2G2||
+D|GFG|D2G|F/G/Ad|BGG|GFG|D2G|F/G/AF|1G2:|2G3|]
+
+X:1
+T:Bourr\'ee \`a Dechaux
+C:Trad
+R:Bourree
+B:Massif Central Tune Book no 2 number 18
+M:3/8
+L:1/8
+K:G
+DEF|GAB|GA/B/A/G/|F3|DEF|GAB|GA/B/A/F/|G3:|
+ABA|d3|cBA|c3|BAG|AcB|1GA/B/A/G/|F3:|2GA/B/A/F/|G3|]
+
+X: 1
+T:Le crocodile
+C:Maxou Heintzen
+R:Bourree
+A:France
+Z:abc transcription Simon Wascher
+N:originally in D?
+M:3/8
+L:1/16
+%F:http://simonwascher.info/TradArchiv_bourree_3/le_crocodile.abc 2006-09-26 23:14:43 UT
+K:G
+GA |\
+BABd^cA | B4de | =f2e2d2 | =f2e2d2 | \
+BABd^cA | B4de | =f2e2d2 | B4 :|
+|: d2 |\
+g4fe | d4cB | ABcdef | e2d2B2 | \
+g4fe | d4cB | ABcdef | g4 :|
+
+X: 1
+T:Montagnarde de Sainte-Anne
+C:Eric Elsener
+N:abc transcription Simon Wascher
+N:if you find an error in this transcription please inform simon.wascher@chello.at
+R:Bourree
+M:3/8
+L:1/16
+%F:http://trillian.mit.edu/~jc/music/abc/mirror/kirby98.fsnet.co.uk/mo/Montagnarde_de_Sainte_Anne_1.abc 2007-04-24 09:01:07 UT
+K:G
+FG|A2c2B2|A4G2|FGAFDF|B2G2FG| A2c2B2|A4G2|FGAFDF|G4:|
+|:A2|_B2ABAG|F4E2|DEF2G2|_B2A2GA| _B2ABAG|F4E2|DEF2A2|G4:|
+
+X: 1
+T:Passade 1
+C:Gilles Chabenat
+N:abc transcription Simon Wascher
+N:if you find an error in this transcription please inform simon.wascher@chello.at
+R:Bourree
+M:3/8
+L:1/16
+%F:http://www.novosaires.com/Partituras%20y%20midis/abc/p-q.abc 2007-04-27 14:53:30 UT
+K:Dmixo
+G2EFGE|A3GAB|cBAGAB|A2GFEF| G2EFGE|A3GAB|cBAGAB|1D6:|2D2EFGA||
+|:B2GABd|A2F2d2|G2EFGB|A2GFED| B2GABd|A2F2d2|G2EFGB|1A4GA:|2A6||
+
+X: 1
+T:Qu'il est doux de ne rien faire
+C:V. Leutreau
+B:Trad 1, 104
+M:3/8
+R:Bourree
+L:1/16
+%F:http://members.yline.com/~zeiler1/abc/czb3.abc	 2007-05-02 21:23:45 UT
+K:C
+G2|:cBcdec|fedcBc|dGABcd|B2 (3GGG GG|\
+cBcdec|fedcBc|dGABcd|1 c4G2:|2 c4c2||
+|:ABcAdc|B2 (3GGG GG|ABcdef|e2d2c2|\
+ABcAdc|B2 (3GGG GG|ABcdef|1 g4B2:|2 g6||
+
+X: 1
+T:Tricotada
+R:Bourree
+C:trad.
+A:Massif Central
+O:France
+M:3/8
+L:1/16
+Q:1/4=105
+%F:http://www.novosaires.com/Partituras%20y%20midis/abc/t.abc 2007-10-03 13:12:58 UT
+K:C
+e2g2f2|e4d2|cdedef|efedc2|e2g2f2|e4d2|1cdedef|g6:|2cde2d2|c4ed||
+|:c2B2c2|d4d2|cdedef|e2d2c2|c2B2c2|d4d2|cde2d2|c6:|
+
+X:101
+T:Bourree du Marc
+C:Trad
+R:Bourree
+D:"Hurdy Gurdy Mandrohne" (Drohne)
+Z:Dave Holland <dave@biff.org.uk>
+N:played with "in C minor"
+M:3/8
+L:1/16
+K:C
+ef|gagfef|g2dcde|f2defd|edc2ef|gagfef|g2dcde|f2efdB|c4:|
+|:d2|e3fed|c2d2e2|f3gfe|d2e2f2|e3fed|c4c2|Bcd2B2|c4:|
+
+X:102
+T:"In C Minor"
+C:P.G.Martin
+N:reproduced with permission
+R:Bourree
+D:"Hurdy Gurdy Mandrohne" (Drohne)
+Z:Dave Holland <dave@biff.org.uk>
+M:3/8
+L:1/8
+K:Cm
+ecd|ecc|g>fe|dcB|ecd|ecc|B>cd|c3:|
+|:cgf|edc|Bcd|edc|cgf|edc|G/=A/B=B|c3:|
+
+X: 5
+T:Les Poules Hupp\'ees
+M:3/8
+L:1/16
+C:Gilles Chabenat
+R:Bourree
+K:GMin
+"Gm" G2GBAG | d4 d=e | "Dm" f=edgfe | f=ed=edc |
+"Gm" G2GBAG | d4 d=e | "Dm" f=edgfg |1 d6 :|2 d4 ga ||
+|: "Gm" b2dbda | "Cm" e4 ga | "Gm"  bg"Cm"c'bag | "D" ^f2g2a2 |
+ "Gm" b2dbda | "Cm" e4 ga | "Gm"  bg"Cm"c'b"D"a^f |1 "Gm" g4 ga :|2 "Gm"g6 |]
+
+X:35
+T:Bourr\'ee - Lo Crosado
+T:La Crouzada, Bourr\'ee crois\'ee
+M:3/8
+L:1/16
+K:C
+g4 ef| g4 ef| g2f2e2|d6|\
+d2e2f2|g3ag2|f2e2d2|1e2c4:|2c4c2||
+|:def2g2|d4g2|agf2e2|d2e2c2|\
+def2g2|d4g2|agf2e2|1 d4c2:|2 d4 G2||
+|:c2defe|d2d2e2|c2dedc|B2G2AB|\
+c2Bcde|def2e2|c2dedB|c6:|
+%%textfont Helvetica 14
+%%begintext
+A: carousel: couples form a line, men in centre link left arms and
+extend to hold hands with other woman; hold remaining hand with
+partner.
+B: face partner (men back out, women do extra half turn);
+left (women in front) and return (men in front) with "bell-ringing"
+arm movements; repeat
+C: right & left through, x2
+%%endtext
+
+X:1
+T:Boldwood Bourree
+S:2011 hurdy-gurdy festival tune swap
+Z:Dave Holland <dave@biff.org.uk>
+R:Bourree
+M:3/8
+L:1/8
+K:C
+Gcd | ed/e/f/d/ | cde | ed_B | Gcd | ed/e/f/e/ | cd_B | c3 :|
+g2g | fd/e/f/e/ | cde | ed/e/f | g2g | fd/e/f/e/ | cd_B | c3 :|
+
+X: 1
+T: La laine des moutons
+O: Qu\'ebec
+Z: 2009 John Chambers <jc:trillian.mit.edu>
+S: printed MS "transcribed by TP 9/01", probably Tom Pixton
+N: presented by France Bourque, Oktoberfest 2001
+M: 3/4
+L: 1/8
+K: Dm
+%%indent 200
+P:instrumental
+AAA | "Dm"AG FA GF | "C"GF EG FE | "Bb"FE DC DE | "Dm"D2 z2 |]
+P:vocal
+A,2 | "Dm"DD D2 E2 | "Gm"F4 F2 | "A7"EF G2 E2 | "Dm"F2 D2 |
+w:1.~La Lai-ne des Mou-tons, c'est nous qui la ton-dai-nes,
+A,2 | "Dm"DD D2 E2 | "Bb"F4 A2 | "A7"AG F2 E2 | "Dm"D4 |]
+w:   la lai-ne des mou-tons, c'est nous qui la ton-dons.
+P:chorus
+[A2D2] | "A"[E4^C4] [A2E2] | "Dm"[F4D4] [A2F2] | "A7"[AF][GE] [F2D2] [E2^C2] | "Dm"[F2D2] [D2A,2] |
+w: Ton-dons, ton-dons, la Lai-ne des mou-tai-nes,
+[A2D2] | "A"[E4^C4] [A2E2] | "Bb"[F4D4] [A2F2] | "Gm"[AF][GE] [F2D2] "A7"[E2^C2] |"Dm"[D3D3] |]
+w: ton-dons, ton-dons, la lai-ne des mou-tons.
+%
+W:1. tondons, tondaines
+W:2. lavons, lavaines
+W:3. cardons, cardaines
+W:4. filons, filaines
+W:5. tissons, tissaines
+W:6. vendons, vendaines
+
+X:1
+T:Bourree a Chirol
+C:Mike Gilpin 2011
+N:chords by Dave Holland/Andrew Swaine
+M:3/8
+L:1/8
+K:G
+"G"g>fg|d2B|"C6"c/B/A/c/B/A/|"D7"B/c/d2| \
+"G"g>fg|d2B|"C6"c/B/A/c/"D7"B/A/|1"G"G3:|2"G"G2A/B/||
+|:"Am"c>Bc|"Adim"A2B/c/|"D9"e>dc|"G6"dB2| \
+"Am"c>Bc|"Adim"A2B/c/|1"D9"edc|"G"B2A/B/:|2"D9"ed/e/"D7"f/d/|"G"g2d|]
+
+X: 1
+T:Bourr\'ee du P\`ere Duret
+C:Trad
+%F:http://richardrobinson.tunebook.org.uk/tune/5173
+L:1/8
+M:3/8
+O:France
+Q:90
+R:Bourrée à Trois Temps
+%%TBL:{"version":"beta","type":"tune","id":"5173"}
+K:G
+B/2c/2|ddc/2d/2|eed/2e/2|ffe/2f/2|gdB/2c/2|ddc/2d/2|eed/2e/2|ffe/2f/2|g2:|
+|:B/2c/2|ded|c2A/2B/2|cdc|B2G/2A/2|BcB|1A2A/2B/2|c/2B/2c/2d/2e/2c/2|ed:|2ABc|d/2e/2d/2c/2B/2A/2|G2||
+
+
+X:1
+T:Bourree
+C:unknown
+S:middle of http://www.youtube.com/watch?v=5cBxnGGCvLU
+Z:Dave Holland <dave@biff.org.uk>
+M:3/8
+L:1/16
+K:G
+DEF | G2B2d2 | d4cB | AGABcA | B2GDEF |
+       G2B2d2 | d4cB | AGAcBA | G3 :|
+GAB | cAcAcA | BGBGBG | AFAFAF | B2GABd |
+      cAcAcA | BGBGBG | ABcAFA | G3 :|
+
+X: 1
+T:Bour\'ee de la Chapelotte
+C:Trad.
+R:B2
+M:3/8
+K:G
+B4 c2|d4 d2|e2edef|e2d2d2|g4g2|f4e2|[1 d2dedc|B4 G2:|[2 d2a2f2|g6||
+|: bbb2b2|e6|aaa2a2|d6|g4g2|f4e2|[1 ded2c2|B6:|[2 d2a2f2|g6|]
+
+
+
+%%newpage
+%%textfont Helvetica-Bold 18
+
+%%center Waltzes
+
+X: 8
+T:Prunelle
+C:Bernard Kerboeuf
+Z:Simon Wascher
+Z:Dave Holland <dave@biff.org.uk>
+D:Attendez jusqu'a demain (Les Chiens Jaunes)
+N:originally in D minor
+R:Waltz
+M:3/4
+L:1/4
+K:Bb
+bad|bad|agd|agd|\
+gfc|gfc|f2e|d3:|
+|:b/2a/2d/2b/2a/2d/2|b/2a/2d/2b/2a/2d/2|a/2g/2d/2a/2g/2d/2|a/2g/2d/2a/2g/2d/2|\
+g/2f/2c/2g/2f/2c/2|g/2f/2c/2g/2f/2c/2|f2e|d3:|
+|:GBc|dd/2c/2d/2e/2|d>cB|d3|\
+dga|ba/2b/2a/2g/2|b>ag|d3|
+d/2e/2f/2g/2f/2e/2|d/2e/2f/2g/2f/2e/2|d>ed|c3|1ceg|\
+dcB|dcB|AB/2c/2B/2A/2:|2ced|Bdc|AA/2B/2c/2d/2|G3|]
+
+X: 9
+T:Les Chevaux de Bois
+C:Bernard Kerboeuf
+Z:Dave Holland <dave@biff.org.uk>
+% there are probably some mistakes in this transcription
+D:Attendez jusqu'a demain (Les Chiens Jaunes)
+N:originally in D minor
+R:Waltz
+M:3/4
+L:1/8
+K:Bb
+d3dd2|d2c2B2|d2c2B2|A6|e3ee2|e2d2c2|g2f2e2|d2c2B2|
+d3dd2|d2c2B2|d2c2B2|A6|edcedc|dcBdcB|A2B2A2|G6:|
+K:G
+dBdBdB|eBeBeB|dBdBdB|eBeBeB|dBeBfB|gBfBeB|dBeBgB|f2c4|
+ececec|fcfcfc|ececec|fcfcfc|ecfcgc|fcecgc|fcecdc|B6:|
+
+X:7
+T:Robin's Waltz
+C:Jon Swayne
+R:Waltz
+B:"Here's one we made earlier" MADE 1997 tune book
+N:reproduced with permission
+M:3/4
+L:1/4
+K:Em
+"Em"B3|"B7"Ad3/2c/|"Em"B3|"B7"AG3/2F/|"Cmaj7"G3|
+"D"FE3/2D/|1"Em"E3|"B7"D3:|2"Em"E3-|E3||
+|:"Em7"BA/G/A/B/|"Am7"c2G|"D7"FGA|"Gmaj7"B2F|"Cmaj7"EFG|
+"F#m7(b5)"A2G|1"B7"Fd3/2c/|"Em"B3:|2"B7"FAG|"Em"E3-|E3|]
+
+X:6
+T:Waltz?
+Z:Dave Holland <dave@biff.org.uk>
+S:St Chartier festival 2002
+M:3/4
+L:1/4
+Q:1/4=225
+K:C
+P:A
+"C"ege|"G"dfd|"C"cec|"G"dBG|"C"ege|"G"dfd|"Am"cec|"Em"B3|
+"F"AcA|"C"GcG|"G"B/d/ BA|"C"G3|"F"AcA|"C"GcG|"G"B/d/ BG|"C"c3||
+P:B
+"C"e c/e/ c/e/|"G"dBG|"C"ece|"F"f2f|"C"ece|"G"dBd|"C"ece|"G"d2e|
+"F"faf|"C"ege|"G".d.c.d|"C"e3|"F"faf|"C"ege|"G"dBc|"G"d3||
+P:C
+|:"Am"Ace|"Am"e>ce|"E"dcB|"Am"A3|"Am"Acd|"Am"e>ce|"G"dg^f|"C"e3|
+"F"=fab|"C"c'>e'c'|"G"g2d|"C"e3|"F"faf|"C"e3|"E"d/e/ d/B/ c/B/|"Am"A3:|
+
+X:8
+T:La Belle Berg\`ere
+M:3/4
+L:1/4
+K:C
+G|:c3|dcd|ecd|e3|1 dfe|d3-|d2e:|2 fde|c3-|c2||
+|:e/f/|g3|gag|fde|f3|fgf|ecd|e3|1 dfe|d3-|d2:|2 fde|c3-|c2|]
+
+X:9
+T:Valse du D\'epart
+C:Thierry LAPLAUD
+B:Diatonisch Nieuwsblad No 11 (Mars 1987)
+Z:Dave Holland <dave@biff.org.uk> / Jack Campin
+M:5/4
+L:1/4
+Q:1/4=212
+K:Am
+E|"Am"AB    c2c|"G"dB "Am"c2e   |"F"dc    "E" B2E|"E"cB "Am"A2:|
+a|"G" gf "C"e2B|   cd "E" e2d/c/|   B/c/d "Am"ece|"G"dg "Am"e2 a|
+  "G" gf "C"e2B|   cd "E" e2d/c/|"E"B/c/d "Am"ecA|"G"BG "Am"A2:|
+
+X:19
+T:Callipyge (E. Elsener) "Cafe Waltz "
+M:3/4
+L:1/4
+R:Waltz
+%F:http://www.8ung.at/diatonica/abc/czvals.abc	 2003-07-02 09:41:27 UT
+K:G
+B2G|EFG|AGF|DEF|GFG|A^GA|B^AB|A2G|
+B2G|EFG|AGF|DEF|GFG|A^GA|B_BA|G3:|
+|:D2F|EcB|Adc|B2G|D2F|EcB|AGF|1G3:|2G2A||
+L:1/8
+|:BG EG BG|BG EG BG|cA FD FA|cA FD FA|
+BG EG BG|BG EG BG|cA FD FA|1G4A2:|2G6|]
+
+X:3
+T:In Continental Mood
+C:Andy Cutting
+R:Mazurka (or waltz)
+Z:Steve Mansfield
+Z:chords added by Moshe Braner
+M:3/4
+L:1/8
+Q:1/4=150
+%F:http://trillian.mit.edu/~jc/music/abc/mirror/MosheBraner/InContinentalMood.abc 2003-07-02 09:44:19 UT
+K:G
+ga |\
+"G"b2 bb ab |    g2 gb ab | "(Em)"g2 gb ab |     ga ba gf |
+"C"e2 ee fg | "G"d2 dd fg |    "C"c2 ce fg | "D7"a2 aa ga |
+"G"b2 bb ab |    g2 gb ab | "(Em)"g2 gb ab |     ga ba gf |
+"C"e2 ee fg | "G"d2 de fg |   "D7"a2 ba gf |  "G"g3 dBA   ||
+"G"G2 BG Bd | "Bm"F2 BF Bd | "Em"E2 GE GB | "D7"AA BA GF |
+"G"G2 BG Bd | "Bm"F2 BF Bd | "Em"E2 GE GB | "D7"A4    GA |
+"B7"B2 ^dB ^df| "Em"ga gf ef | "D"d2 fd fa | "B7"bc' ba gf |
+"C"e2 ee fg | "G"d2 de fg |   "D7"a2 ba gf | "G"g4 ||
+
+
+X:2
+T:Flatworld
+C:Andy Cutting
+D:Vanilla, Blowzabella
+M:3/4
+L:1/8
+%F:http://members.yline.com/~zeiler1/abc/czfranz.abc	 2003-08-13 12:02:58 UT
+K:Am
+e de|"Am"ce Be Ac|"F"F2AB cA|"Dm"f2 fe dc|"Em"B3 e de|"Am"ce Be Ac|
+"F"F2 fe dc|"G"BA Bd cB|1"Am"A3:|2"Am"A4E2 |:"Am"AB cA ag|"F"f2 fe dc|"G"Bc dB gf|
+"C"e2 ed cB|"F"AB cA fe|"Dm"d2 dc BA|1 "Em"B2 Bd ^cd|"E"B2 BB =cB:|2 "G"BA Bd cB|"Am"A3|]
+
+X:1
+T:Ritournelles de Belleville
+C:Richard Lewis
+Z:Dave Holland <dave@biff.org.uk> from a PDF from Mike Gilpin
+M:3/4
+L:1/4
+K:D
+DFA|df/z/d|c3|B3|\
+A^GA|BA^G|=G3-|G3|
+GFG|A2B/c/|B3-|B3|\
+GFG|A2B/c/|B3-|B3|
+DFA|df/z/d|c3|B3|\
+A^GA|BA^A|B3-|B3|
+B^AB|dcB|A^GA|BAF|\
+EFG|ABc|d3-|d3:|
+L:1/8
+K:Dm
+A^G AB AG|AB =Bc ^cd|_ed ^c=c =B_B|A6|
+A^G AB AG|AB =Bc ^cd|e6-|e6|
+ef gf ef|gf ef gf|ef gf ef|e6|
+ef gf ed|^cd ed cd|^c6-|c6|
+A^G AB AG|AB =Bc ^cd|_ed ^c=c =B_B|A6|
+A^G AB AG|AB =Bc ^cd|e6-|e6|
+d^c de fe|d^c de fe|d^c de fe|d6|
+ba _ag ^f=f|e_e d^c =c^c|d6|d2 z2 z2|]
+
+X:1
+T:Valse \`a Bouffard
+C:Patrick Bouffard
+R:Waltz
+M:3/4
+L:1/4
+%F:http://members.yline.com/~zeiler1/abc/czvals.abc   2005-10-23 20:24:43 UT
+K:D
+F2E|D2F|A3|A3|B2c|dcB|ABA|GFE|F2E|D2F|A3|A3|
+B2c|dec|d3|d3:| |:FAd|FAd|GBd|GBd|Ace|Ace|
+d>c d/2e/2|f2d|FAd|FAd|GBd|GBd|Ace|Ace|dc/2d/2 e/2c/2|d3:|
+
+X:1
+T:La mal-aimable (Jean-Christophe Lequerr\'e)
+R:Waltz
+C:Trad 1, 103
+M:3/4
+L:1/8
+% F:http://members.yline.com/~zeiler1/abc/czvals.abc  2005-10-23 21:54:23 UT
+K:C
+e2c2B2|A2 FA Bc|B2 GB cd|e2 Be Be|\
+e2 (3cdc (3BcB|A2 FA Bc|B2 GB cd|B6:|
+c2 Ac Ac|f2 cf cf|B2 GB GB|e2 Be Be|\
+A2 FA FA|d2 Ad Ad|B2 eB eB|d2 (3cdc (3BcB|
+cA Ac Ac|fc cf cf|BG GB GB|eB Be Be|\
+A2 FA FA|d2 Ad Ad|B2 EB cB|A6|]
+
+X:1
+T:Septembre (S. Delicq)
+R:Waltz
+C:Trad 1, 81
+M:3/4
+L:1/8
+% F:http://members.yline.com/~zeiler1/abc/czmaz.abc 2005-10-23 22:03:36 UT
+K:C
+Ac|e2e2 af|e4A2|B2 Bd cB|c2A2 Ac|\
+e2 ea fa|e4 A2|B2 Bd cB|A4:|
+A2|B2 Bd cB|c2 A2 e2|a4 gf|e4 A2|\
+B2 Bd cB|c2 A2 e2|fe dc B2|A4:|
+
+X:1
+T:La Bo\^ite \`a Frissons
+C:Jean Blanchard
+M:3/4
+L:1/8
+S:Lusignac CD Chris Wood and Andy Cutting via uk.music.folk
+Z:Robin Beech robin.beech@mcgill.ca, edited by Dave Holland
+Z:chords added by Andrew Swaine and from http://www.thesession.org/tunes/display/7873 by "Mario"
+K:Dm
+|: "Dm"DE FD AF | "Dm"E2 DEFD | "Dm"AF ED EF | "Bb"B4 BA | "Gm"GA BA BG | "C"E2 DEFG |
+"F"AG FA GF | "A7"E2 GEFE | "Dm"DE FD AF | "Dm"E2 DEFD | "Dm"AF ED EF | "Bb"B4 BA |
+"Gm"GA Bd BG | "F"FE FA GF | "A7"ED EG EF |1 "Dm"D2 A,4 :|2 "Dm"D2 A,DEF ||
+|: "C"E6 | "F"FE FG AF| "G"GF GA Bc| "Am"A2 A2 A2| "Bb"BF DF BF| "F"AF CF AF| "G"GD =B,D GD | "C"E2 EDCD | "C"ED EF GE |
+"F"FE FG AF | "G"GF GA Bc | "Am"A2 A2 A2 | "Bb"BA Bd BG | "F"FE FA GF| "A7"ED EG EF|1 "Dm"D2 A,DEF :|2 "Dm"D2 A,4 |]
+
+X:1
+T:Yes
+C:Bruno Friedmann
+N:1997
+Z:Dave Holland <dave@biff.org.uk>
+R:Waltz (8-time)
+M:8/4
+L:1/4
+K:G
+DGA|:"G"B2B B2B AG | dddB2G GA |\
+B2B "Em"B2B "A7"AG | "D"A3-A3 zz | "C"c2c c2c BA |
+"G"dddB2G GA | B2 "D"cB2BA2 |1 "G"G3-G z DGA :|2 "G"G3-G zz "Em"GF |\
+|:"Em"E2F "C"G2G "D"FA | "G"G2G B2B "Am"Ac |
+"Bm"B2AG2FGF |1 "Em"E3-E z2 GF :|2 "Em"E3-E z [dg][dg][ce]|\
+|:"G"[Bd][Bd][GB][d2g2][ce][Bd][Ac] | [Bd][Bd][GB]"Em"[G2B2][FA][GB][Ac]|
+[G2B2][FA][GB][Ac][G2B2][Ac] | "G"[B3-d3-][B3-d3-][Bd]z |\
+[dg][dg][ce][B2d2][GB]"D"[FA][Ac] |1 "G"[G3-B3-][GB]z[dg][dg][ce] :|2 "G"[G3-B3-][GB]z|]
+
+
+X:120
+T:Valse a 5 temps
+D:Trio Bouffard: Rabaterie
+R:Waltz (5-time)
+M:5/4
+L:1/4
+K:G
+d|cABGd|cABGd|cABGG|FAG2:|
+D|FAGBd|cABGD|FAGBd|cAG2:|
+
+X:1
+T:Valse Judet
+C:Traditionnel Berry
+I:France
+S:Dominique Renaudin <d140557@club-internet.fr>
+M:3/4
+R:Waltz
+L:1/4
+P:ABBCC
+%F:http://jc.tzo.net/~jc/music/abc/waltz/ValseJudet.abc	 2007-07-19 14:25:19 UT
+K:D
+A/d/  \
+|: F2 F/A/ | D2 F/A/ | d c =c| B2 G/B/ \
+|  E2 E/G/ | C2 E/F/ | G E A |  F D A/d/ |
+   F2 F/A/ | D2 F/A/ | d c B |  e2 c/A/ \
+|  E2 E/A/ | ^G2 E/B/ | A ^G/A/ c/B/ |1 A2 A/d/ :|2 A2 A/A/ ||
+|: A ^G/A/ B/A/ | d2 F |  F E/F/ G/F/ | A2 D \
+|  C/D/ E/F/ G/A/ | B/A/ ^G/A/ B/A/ \
+|1,3 c/B/ A/^G/ B/A/ | F D A \
+:|2,4 c3/2 A/ G/E/ | D2 A :|
+|: B/A/ F/A/ ^G/A/ | B/A/ F/A/ ^G/A/ | d/c/ B/A/ G/F/ | A/G/ E/G/ F/G/ \
+|  A/G/ E/G/ F/G/ | A/G/ E/G/ F/G/ | c/B/ A/G/ F/E/ |1 F D A :|2 D3 |]
+
+X: 1
+T:Quand on fait le meme chemin (V. Scotto)
+O:England
+C:Esbelin/Pauvert
+M:3/4
+R:Waltz
+L:1/4
+%F:http://home.quicknet.nl/qn/prive/j.coolegem/abcfolder/england.abc	 2007-08-21 12:10:17 UT
+K:C
+G|e>de|fdf|ede|d2e|c2c|\
+cBc|dec|d3|ggg|a3|fff|
+e2e|ed>e|dcB|c3-|c2:|\
+g|fdg|ecg|fdg|ecd/e/|f2f|ede|
+d3-|d2G|g2g|fga|g3|ecd|\
+e2e|gfe|d3-|d2G|d2^c|
+def|e2d|c2B|ABc|ABc|\
+d3-|d2g|g2g|fga|g3|ecd|
+e2e|gfe|d3-|d2d/e/|f2g|\
+a2a|g3|e2c|e2c|dcB|c3-|c2|]
+
+X:1
+T:Biesenwals
+C:Leo Rutten
+Z:Transcribed by Andrew Swaine
+D:Vingerspel en voetenwerk (Het Limburgs Dansorkest)
+R:Waltz
+M:3/4
+L:1/4
+K:C
+P:A
+ef|"C"g2g|"Em"g>fe|"F"f2f|"G"f>ed|"C"edc|"Em"gec|"F"B2c|"G"def|
+"C"g2g|"Em"g>fe|"F"f2f|"G"f>ed|"C"edc|"G"fdB|"C"ce>d|c||
+P:B
+de|"F"fd/f/d/f/|"G"GBf|"C"ec/e/c/e/|"Em"Gce|"F"fdB|"G"fda|"C"g3|"Em"age|
+"F"fd/f/d/f/|"G"GBf|"C"ec/e/c/e/|"Em"Gce|"F"fdB|"G"fdB|"C"ce>d|c|]
+
+X:1
+T: Crue d'Amour
+C: Philippe Prieur
+O: France
+Z: abc transcription Anahata <anahata@treewind.co.uk>
+Z: slightly modified per Mike Gilpin's version
+N: From PDF supplied by Jean Blanchard
+N: http://forum.melodeon.net/index.php?topic=4607.0
+L: 1/4
+M: 3/4
+Q: 186
+K: C
+e>d | c3 | -ce>d |c3 | -cBA | Bcd | GAB | c/B/ c/d/ e/f/| ge>d | 
+c3 |-c e>d |c3 |-cBA | Bcd | GAB | c3- |1 c :|2 c B/c/ d/e/ ||
+fdB | ABd | cec |G2 c | B>c d/e/| fg a/b/ | c'ba | g2 d/e/ |
+fdB | ABd | cec | G2 c | B/A/ B/c/ d/e/ |fdB | c3 |1 -c B/c/ d/e/:|2 c |]
+
+
+%%newpage
+%%textfont Helvetica-Bold 18
+
+%%center Polkas
+
+X:1
+T:La Petite Polka, Sancerrois
+Z:Dave Holland <dave@biff.org.uk>
+S:St Chartier festival 2002
+R:Polka
+M:2/4
+L:1/8
+Q:1/8=132
+K:C
+Gc c>d|cB d2|Ad d>e|dc ec|\
+Gc c>d|cB d2|d>e dc|1 BA Gc:|2 BA c2||
+g2 eg|gg fd|f2 df|ff ec|\
+e2 ce|ee dB|d2 Bd|dd c2:|
+
+X:1
+T:"French tune whose name completely escapes me"
+M:2/4
+L:1/8
+R:Polka
+D:Jabadaw?
+Z:Steve Mansfield 29 January 2003
+K:Ador
+AA/B/ AG | FG A2 | AB/c/ d>c | BA BG | AA/B/ AG | FG A2 |
+AB/c/ d>c | BA G2 :: dd e>d | cB A2 | AB/c/ dc |
+BA BG | dd e>d | cB A2 | AB/c/ dc | BA G2 :|
+
+X:1
+T:C Polka (1)
+M:2/4
+L:1/8
+R:Polka
+D:Panic at the Caf\'e
+Z:Dave Holland <dave@biff.org.uk>
+K:C
+Gc cB/c/|dB cd/e/|fd/f/ ec|d>c B/A/G|\
+Gc cB/c/|dB cd/e/|fd/f/ ec|d/c/B c2:|
+ef/g/ ef/g/|ec B>c|dd/e/ f/e/d/c/|AB AG|\
+ef/g/ ef/g/|ec B>c|dd/e/ f/e/d/c/|AB c2:|
+
+X:1
+T:C Polka (2)
+M:2/4
+L:1/8
+R:Polka
+D:Panic at the Caf\'e
+Z:Dave Holland <dave@biff.org.uk>
+K:C
+c2 ec/e/|g3 a/b/|c'/b/a/g/ f/e/d/c/|B/A/B- BG|\
+BG/B/ dB/d/|f3 a|
+g>f ed|1e/f/e/d/ c/B/A/B/:|2ce e/e/d/e/||\
+ge cd/e/|fd Bf|ec Ac|
+B/c/d/c/ B/A/G|\
+ge cd/e/|fd Bf|ec d/c/B|1ce e/e/d/e/:|2c2 c2|]
+
+X:1
+T:Polka Piqu\'ee
+R:Polka
+B:Massif Central Tune Book no 1 number 110
+M:2/4
+L:1/8
+N:originally in G
+K:C
+Gc cB/A/|Ge e2|fe dc|d/e/f ec|Gc cB/A/|Ge e2|fe dc|d/e/d/B/ c2:|
+g2 f2|d/e/f/d/ ec|e2 d2|B/c/d/B/ c2|g2 f2|d/e/f/d/ ec|e2 d2|B/c/d/B/ c2:|
+
+X:1
+T:Polka
+R:Polka
+B:Massif Central Tune Book no 1 number 111
+M:2/4
+L:1/8
+N:originally in G
+K:C
+Gc BA|Ge e2|fd dc/d/|ef g2|Gc BA|Ge e2|fd dc/d/|ed c2:|
+ge e2|ge e2|fd dc/d/|ef g2|ge e2|ge e2|fd dc/d/|ed c2:|
+
+X: 1
+T:Polka du P\`ere Plumet
+T:The 48 Bar Polka
+M:2/2
+L:1/8
+Q:1/2=120
+C:Trad
+S:Blowzabella
+% F:http://www.inference.phy.cam.ac.uk/dasher/download/training/training_abc_XX.txt 2005-10-27 15:14:13 UT
+K:G
+Bc|d2 g2 f2 e2|dedc B2 AB|c2 A2 A2 GA|BcBA GBc^c|\
+d2 g2 f2 e2|dedc B2 AB|c2 A2 f2 ef| [1a2 g2 g2:| [2a2 g2 g4||
+|:d2 d2 BdBd|g2 f2 e2 d2|c2 c2 AcAc|e2 _e2 d4|\
+d2 d2 BdBd|g2 fg a2 ab|agfe dcBA|G2 Bd g4:|
+|:c2 Gc e4|e2 ce g4|gage =f2 d2|d=fed e2 c2|\
+c2 Gc e4|e2 ce g4|gage =f2 ed| [1c2 e2 c4:| [2c2 e2 c2|]
+
+X:1
+T:Pas d'\^Ete
+T:Auvergne Polka
+B:Massif Central Tune Book no 1 number 125
+M:2/4
+L:1/8
+K:G
+dd BB|GG EA/B/|cA AB/A/|G/F/G/A/ BG| \
+dd BB|GG EA/B/|
+cA AB/A/|G/F/G/A/ G2:| |:\
+[L:1/16] DGBG DFAF|DGBG DFAF| DFAB cBAG|
+FGAc B2G2| \
+DGBG DFAF|DGBG DFAF|DFAB cBAG|FGAF G4:|
+
+X: 1
+T:Polka de Ch\^ateau Chervix
+R:Polka
+C:Gilles Chabenat?
+M:C|
+O:France
+%F:http://trillian.mit.edu/~jc/music/abc/mirror/kirby98.fsnet.co.uk/po/Polka_de_Chateau_Chervix_1.abc 2007-06-29 10:01:31 UT
+K:D
+DEFG A2Bc|d2cBA4|\
+BGEF G2A2-|AFDEF2E2|\
+DEFG A2Bc|d2cBA4|BGEFG2A2|F2E2D4:|
+|:d2cBA2Bc|d2FBA4|\
+BGEF G2A2-|AFDEF2E2|\
+DEFG A2Bc|d2cBA4|BGEFG2A2|F2E2D4:|
+
+X:199
+T:La Marche des Cornards
+D:"Berry/Bourbonnais", Les Fr\`eres Guillemain
+Z:Dave Holland <dave@biff.org.uk> (draft)
+M:2/4
+L:1/8
+Q:1/4=124
+K:G
+B/c/B/A/ GB | d2 d2 | B/c/B/A/ Gg | f=f e2 |
+c/d/c/A/ FA | c3 A |1 fd/^d/ e=d/c/ | B2 G2 :|2 fe/d/ cB/A/ | GB/d/ G2 ||
+%
+|:B/c/B/A/ G/B/G/B/ | d/^c/d/e/ d2 | B/c/B/A/ Gg | f=f e2 |
+c/d/c/A/ FA | c3 A |1 fe/^d/ e=d/c/ | B2 G2 :|2 fe/d/ cB/A/ | GB/d/ g2 ||
+%
+|:d/B/d/g/ b2 | g/f/g/e/ d/e/d/B/ | G/A/B/c/ d/e/f/g/ | a/^g/a/b/ c'2 |
+a/^g/a/b/ c'/b/c'/b/ | a/b/a/g/ f2 | f/g/f/e/ d/e/d/c/ |1 B/c/A/c/ BG \
+:|2 B/c/A/B/ G/A/G/F/ ||
+%
+|:G/B/d/g/ b2 | g/f/g/e/ d/e/d/B/ | G/A/B/c/ d/e/f/g/ | a/^g/a/b/ c'2 |
+a/^g/a/b/ c'/b/c'/b/ | a/b/a/g/ f2 | f/g/f/e/ d/e/d/c/ |1 B/c/A/c/ BG \
+:|2 B/c/A/B/ G2 |]
+
+
+%%newpage
+%%textfont Helvetica-Bold 18
+
+%%center Mazurkas
+
+X:10
+T:Motorway Mazurka
+C:Jon Swayne
+R:Mazurka
+B:"Here's one we made earlier" MADE 1997 tune book
+N:reproduced with permission
+M:3/4
+L:1/8
+K:C
+DE ED|:"D"^F2 DE ED|"F#m7"A2 DE ED|"G(G6)"^cd cA GB|"D(A7)"A^F DE ED|
+"D"^F2 DE ED|"F#m7"A2 DE ED|"G"^cd cA "A"GB|1"D"A2 DE ED:|2"D"A4 D2||
+|:"G"AB BA Bd|"A7"B2 A2 G2|"D"GA AG "Dmaj7"Ad|"Bm"A2 G2 ^F2|"Em7"^FG GF Gd|
+"A"G2 ^F2 E2|1"D"D^C D"Em7"E DE|"F#m7"^FE F"A"G FG:|2"D"DE E"G"^F FG|"A"E2|]
+
+X:11
+T:Grandmother's Birthday
+C:Anne Marie Summers
+R:Mazurka
+B:"Here's one we made earlier" MADE 1997 tune book
+N:reproduced with permission
+M:9/8
+L:1/8
+N:Drone G
+K:Am
+B3 {cBA}B2A B2c|d2c B2A B2G|A3 {BAG}A2G A2f|e2d c2A B2c|
+B3 {cBA}B2A B2c|d2c B2A BAG|1 F2e e2d c2A|B3 G2A B2c:|2
+G2f e2d c2A|B3 G6|:_B2A G3 g2f|e2d e2f _B2A|
+_B2d f3-f2e|d2c d2e A2G|A2d g3-g2f|e2d e2f _B2A|1
+_B2d f2e d2c|_B2A B3 G2A:|2 _B2d f2e d2c|=B2A B3 G3|]
+
+X:12
+T:Mazurka Grand Fris\'e
+C:Trad.
+R:Mazurka
+S:Hurdy Gurdy workshop with Eric Raillard at Norwich02
+Z:Dave Holland
+M:3/4
+L:1/8
+K:G
+G>A|B2 B>A G>B|d4 e>d|A2 A>B c>d|B2 G2 G>A|
+B2 B>A G>B|d4 e>d|A2 A>c B>A|G4:|
+B>d|g2 g>f e>d|f4 A>B|c2 c>d e>f|e2d2 B>d|
+g2 g>f e>d|f4 A>B|c2 d>c B>A|G4:|
+
+X:13
+T:L'inconnu de Limoise
+C:J.F. Heintzen
+R:Mazurka
+M:3/4
+L:1/8
+K:C
+G/ c>d|:"C"e2-e>c f>d|e2-e>e f>g|"F"f2-f>e d>c|"G"G2-G>G c>d|
+"C"e2-e>c f>d|e2-e>e f>g|"F"f2-f>e d>c|1 "G"d2-d>G c>d:|2 "G"d2-d>e f>g||
+|:"F"a2 c'>b a>b|"G"g2-g>f e>d|"C"c>B c>d (3edc|G2-G>c c>B|
+"F"A2-A>B c>d|"Am"c2B2A2|1 "G"B2-B>A B>c|d2-d>e f>g:|2 "G"B>A B>c d>e|"C"c3|]
+
+X:4
+T:Mazurka? Waltz?
+Z:Dave Holland <dave@biff.org.uk>
+S:St Chartier festival 2002
+R:Mazurka
+M:3/4
+L:1/8
+Q:1/4=150
+K:C
+g3f eg|c'3g ag|fe fa gf|eg dg ce|
+g3f eg|c'3g ag|1 fe fa gb|c'4 ce:|2 a3f ed|c4 Gc||
+e2 eg fe|d2 df ed|cB ce dc|Bd Ad Gc|
+e2 eg fe|d2 df ed|cB ce dB|1 c4 Gc:|2 c6|]
+
+X:8
+T:Mazurka
+C:Gilles Chabenat
+Z:Dave Holland <dave@biff.org.uk>
+S:St Chartier festival 2002
+R:Mazurka
+Q:1/4=160
+M:3/4
+L:1/8
+K:Am
+A BA|e2 ef ga|e3 e fe|d2 ed cB|c2 B2 A2|
+e2 ef ga|e3 e fe|1 d2 ed cd|B3:|2 d2 ed cB|A4||
+ag|f2 fe fg|a4 gf|e2 ed ef|e2 c2 ag|
+f2 fe fg|a4 gf|e2 dc Bc|1B4:|2A3|]
+
+X:1
+T:Mazurka
+T:Mazurka Gentiane
+B:On Bouge tune book vol 1 no 3
+M:3/4
+L:1/8
+N:originally in G
+K:C
+G2cBc2|G2ede2|fedcBc|dcBAG2|G2cBc2|G2ede2|fedcBd|1c2c2BA:|2c2c2ef||
+g2gagf|e2c2de|f2fgfe|d4ef|g2gagf|e2c2de|fedcBd|1c2cdef:|2c6|]
+
+X: 1
+T:Town End
+C:David Faulkner
+R:Mazurka
+A:England
+N:after a live transcription by Matthias Loibner
+N:aus Simon Waschers TradArchiv
+Z:abc trancription Simon Wascher
+M:3/4
+L:1/8
+%F:http://simonwascher.info/TradArchiv_mazurka/town_end.abc 2006-09-26 22:13:58 UT
+K:G
+B2BA Bd | B2BA Bd | A2AG AB | ed cB AG |
+B2BA Bd | B2BA Bd | ed cB AB |1 G6 :|\
+                             [2G3 ABd ||
+e2ed (3cde | d2dc Bd | fe dc BA | B2G2Bd |
+e2ed (3cde | d2dc Bd | fe dc BA | G6 :|
+
+X:1
+T:Mazurka de Lapleau
+R:Mazurka
+B:On Bouge tune book vol 1
+M:3/4
+L:1/8
+N:originally in G
+K:C
+Gc|e2 egec|e2 egec|d2 dfed|e2 c2 Gc| \
+e2 egec|e2 egec|d2 dfed|c4:|
+ge|cGcege|f2d2fd|BGBdfd|e2c2ge| \
+cGcege|f2d2fd|BGBdfd|c4:|
+
+X:1
+T:La Chapka
+R:Mazurka
+C:Vincent Leutreau
+B:Les Panards Dansants
+M:3/4
+L:1/8
+K:G
+"G"B2 BA AB|"Em"B3G GA|"C"A3B cB|"D"BA AG GA|\
+"G"B2 BA AB|"Em"B3G GA|"C"A2 AB cB|1"D"A6:|2"D"A3d BA|
+|:"G"G3A BD|"C"E3d BA|"G"G3B "Am"ce|"D"dF Ad BA|\
+"Em"G3A BD|"C"E3d BA|"Am"GF GB ce|1"D"d3d BA:|2"D"d6|]
+
+X: 1
+T:Mazurka de Servant
+R:Mazurka
+M:3/4
+C:Trad
+S:Stephen Kellett http://sprezzaturra.com/abc/MazurkaDeServant.abc
+O:France
+K:G
+ded|\
+G2GdcB| A2A2 Bc| d2dcBA| B2Gded|\
+G2GdcB| A2A2 Bc| d2dcBA| G3 :|
+|: Bcd|\
+e2edcB| A2A2 Bc| d2 dcBA| B2GBcd|\
+e2edcB| A2A2 Bc| d2 dcBA| G3 :|
+
+X:9
+T:Mazurka a Rigal
+C:Traditional
+Q:1/4=130
+M:3/4
+L:1/8
+S:Rondez Vous Session Tunes
+R:Mazurka
+K:Em
+EG|:"Em"B3B cB|"Em"G3B cB|"D"F2FG AF|"B"G2F2EG|
+"Em"B2^AB cB|"Em"G3B cB|"D"F2FA "Bm"FG|1"Em"E4EG:|2"Em"E4EF||
+|:"G"GF GA "D"FG|"Em"E3F ED|"B"^CB, FG AF|"C"G2F2EF|
+"C"GF GA "D"FG|"C"E3F ED|"B"^CB, FA GF|1"Em"E3B, EF:|2"Em"E4||
+
+
+%%newpage
+%%textfont Helvetica-Bold 18
+
+%%center Jigs (for e.g. Chappelloise)
+
+X:16
+T:Stiffkey
+C:Duncan Churchill-Moss
+Z:chords by Dave Holland <dave@biff.org.uk>
+M:6/8
+L:1/8
+R:Jig
+Q:1/4=200
+K:C
+G|:"C"c2d edc|"C"e2g "G"d3|"F"efe "Dm"d2d|"F"c2A "G"G2G|
+"C"c2d edc|"C"e2g "G"d3|"F"efe "G"d2d|1"C"c3-c2G:|2"C"c6||
+"G"d2e fed|"C"e2g "G"d3|"F"efe "Dm"d2d|"F"c2A "G"d3|
+"G"d2e fed|"C"e2g "G"d3|1"F"efe c2A|"G"d3-d3:|2"F"efe "G"d2d|"C"c3-c2|]
+
+X:17
+T:The Porcupine
+C:Jean-Pierre Rasle?
+Z:chords by Dave Holland <dave@biff.org.uk>
+M:6/8
+L:1/8
+R:Jig
+K:C
+G|"C"c2c ege|"G"dcB "C"c2G|"F"A2A cAG|"F"A2A cAG|
+"C"c2c ege|"G"dcB "C"c2G|"F"AGA "G"BAB|1"C"c3c2:|2"C"c3 ceg||
+|: "F"f2f fed|"C"e2e edc|"G"d2d dcB|"C"c2c ceg|
+"F"f2f fed|"C"e2e edc|"G"d2d dcB|1"C"c2c ceg:|2"C"c3c2|]
+
+X:20
+T:The Money Tree
+C:Cliff Stapleton
+Z:midi2abc/Dave Holland
+M:6/8
+R:Jig
+L:1/8
+Q:1/4=100
+K:Dm % almost
+d|:g2a bag|f2g d2e|fed c2g|edc d2d|
+g2a bag|f2g d2e|fef cdc|1A2G G2d:|2A2G Acd||
+K:C % almost
+=B2d BAG|c2c Bcd|f2f g2g|edc d2d|
+B2d BAG|c2c Bcd|gec fdB|1c3 d2d:|2c3 d2|]
+
+X:5
+T:Rondeau? Chapelloise?
+Z:Dave Holland <dave@biff.org.uk>
+S:St Chartier festival 2002
+M:6/8
+L:1/8
+Q:3/8=130
+K:C
+g|:e2c e2g|fef d2g|e2c e2g|f3 d3:|
+ggg g3|agf e3|c2d e2g|1 fed e2c:|2 fed c2|]
+
+X: 1
+T:Lass O' Dallogill
+% Nottingham Music Database
+A:English
+S:Trad, arr Phil Rowe
+M:6/8
+%F:http://www.guitarnut.com/nmd/jigs.txt	 2005-12-13 09:23:22 UT
+K:C
+|:d|"C"ede G2G|"F"A2A "G7"G2G|"C"ede G2G|"G7"A2B "C"c2:|\
+d|"C"e2c "G"d2B|"C"c2c "G"BAG|
+"C"e2c "G"d2d|"C"e2f g3|"F"a2f "C"g2e|\
+"G7"f2d "C"e3|"C"ede G2G|"G7"A2B "C"c2|]
+
+X:103
+T:Rondo Hatton
+C:P.G.Martin
+N:reproduced with permission
+D:"Hurdy Gurdy Mandrohne" (Drohne)
+N:played with "Moll in the wood" in G
+Z:Dave Holland <dave@biff.org.uk>
+R:Jig
+M:6/8
+L:1/8
+Q:3/8=112
+K:Dm
+F2G|AFD AFD|A2F D2F|G2G F2E|D2E F2G| \
+    AFD AFD|A2F D2F|1G2G A2B|A3:|2
+    G2G F2E|D2E F2G|| \
+A3 d3|c3 d2c|B2B c2B|A6| \
+GAG G2G|FGF F2F|EFE EFG|A3 F2G||
+A3 d3|c3 d2e|f2f e2d|A6| \
+BcB B2d|ABA A2A|GAG F2E|D3 |]
+
+X:1
+T:The RSB
+C:Andy Cutting
+D:Blowzabella "Vanilla"
+Z:Dave Holland <dave@biff.org.uk>
+M:6/8
+L:1/8
+K:Em
+"Em"E2E EFG|GFE EFG|GFE EFG|GFE ~E2D|
+"C"EFG GFE|"D"F2A-A2G|1"D"F2A AGF|"B"BcB AGF:|2"B"BcB AGF|"Em"E6||
+"Em"e3 "D"d3|"G"B2B BAB|"Am"A2A AGA|"C"G2F EGB|
+"Em"e3 "D"d3|"G"B2B BcB|1"Am"~A3 "C"G2F|E3 EGB:|2"Am"ABA G2F|"C"E6|]
+
+
+%%newpage
+%%textfont Helvetica-Bold 18
+
+%%center Breton
+
+X:14
+T:Paddy's Tricot
+C:Paddy Butcher
+R:Hanter-Andro
+B:"Here's one we made earlier" MADE 1997 tune book
+N:reproduced with permission
+M:4/4
+L:1/8
+K:Am
+cBcB A2A2|E4 D2G2|E8|cBcB A2A2|E4 D2G2|E8|
+EDED C2C2|A,3C B,2G,2|A,8|E2E2 D2D2|C4 C2C2|B,2B,2 A,4 :|
+M:2/4
+L:1/8
+|:A,CEA,|CEA,E|DB,G,D|E2A,2|A,CEA,|CEA,E|DB,G,D|E4|
+A,CEA,|CEA,E|DB,G,D|E2A,2|A,CEA,|CEA,E|D2B,2|A,4:|
+
+X:1
+T:Y'a dix marins sur mer
+M:3/4
+L:1/8
+%F:http://termen.free.fr/danses/chants/ChantYadixmarinssurmer.abc 2005-09-06 15:24:36 UT
+K:Am
+|: "Am"EA/B/ cB "C"cB | "Am"EA/B/ cB "C"c2 | "Am"EA/B/ cB "C"c2 :|
+|: "F"cd/e/ "Am"cA cB | "G"EA/B/ cB/A/ "Em"B2 | "F"cd/e/ cA "Am"cB | "G"EA/B/ c>B "Am"A2 :|
+
+X:19
+T:Hanter-dro
+Z:midi2abc
+M:2/4
+L:1/8
+R:Hanter-dro
+Q:1/4=200
+K:G
+G2 Bc|d2 e2|d4|g2 fe|d2 B2|c2 d2|
+G2 Bc|d2 e2|d4|g2 fe|d2 B2|d4|
+|:d2 ed|G2 A2|B2 G2|AB c2|
+B2 G2|A2 A2|d2 ed|G2 A2|
+B2 G2|AB c2|B2 A2|G4:|
+
+X:20
+T:An dro
+C:trad
+A:Bretagne
+O:France
+M:2/2
+L:1/4
+Q:1/4=180
+R:An-dro
+K:Gm
+Gdd d/2e/2|cc/2d/2B2|A/2B/2c/2A/2 BG|G/2F/2G/2A/2 BA|
+Gddd/2e/2|cc/2d/2B2|A/2B/2c/2A/2 BG|B/2G/2A/2F/2 G2:|
+|:A/2B/2c/2A/2 BG|G/2F/2G/2A/2 BA|A/2B/2c/2A/2 BG|B/2G/2A/2F/2 G2:|
+
+X: 1
+T: Andro
+C: Trad (fluxus)
+M: 4/4
+L: 1/8
+R:An-dro
+%F:http://www.boombaltunes.be/tunes/abc/an-trad_flxs.abc	 2008-02-12 11:50:05 UT
+K: Cmin
+|:cded c2g2|e2c2 d2g2|fgfe d2c2|e2c2 d2z2|\
+|cded c2g2|e2c2 d2g2|fgfe d2c2|ecdB c2z2:|
+|:cdef g2g2|f2b2 g2e2|cdeg f3g|fgfe d2z2|\
+|cdef g2g2|f2b2 g2e2|cdeg f2d2|ecdB c2z2:|
+
+X: 3
+T:An Dro #906
+M:4/4
+L:1/16
+C:Traditional Breton
+S:Ray Price
+R:An Dro
+N:Play entire tune 2x then 907 2x and back to 90
+K:C
+"G" GABc d3c B2G2 d2d2 | GABc d3c B2G2d4 :|
+"G" B2cd B3d "C" cBA2 "G" B2G2 | B2cd B3d "C" cBA2 "G" G4 :|
+
+X: 4
+T:An Dro #907
+M:4/4
+L:1/8
+C:Tradition Breton
+S:Ray Price
+R:An Dro
+K:C
+"G" GG d2 "F" cd c/2B/2A | "G" GG d2 "F" cd/2c/2A2 :|
+"F" cd/2c/2 "G" BG "F" AB"G"Gd | GA/2B/2 "F" c>d c/2B/2A "G" G2 :|
+
+X:1
+T:Le Roi (the King)
+O:France
+M:C|
+L:1/8
+%F:http://trillian.mit.edu/~jc/music/abc/England/tune/LeRoi_D2.abc	 2008-11-04 11:28:25 UT
+K:D
+V:1
+"Intro"\
+| "D"agf2 "Bm"agf2 | "Em"bagf "A7"edcB \
+"A"\
+|: "D"A2d2 "Bm"Bcd2 | "Em"e3f "A7"e2e2 | "D"A2d2 "Bm"Bcd2 | "A7"e3d "D"Hd4 :|
+"B"\
+[| "D"f2ed "A7"e2e2 | "D"ffed "A7"e2e2 | "G"gfed "A7"e2e2 | "G"gfed "A7"e2e2 | "D"fed2 "Bm"fed2 | "Em"gfed "A7"a4 |]
+V: 2
+"A"\
+|fed2 fed2 | gfed cBAG |: [A4F4] F4 | G4 ABcA | F2A2 FGA2-| A2G2 F4 :|
+"B"\
+[| f2ed e2e2 | ddcB A4 | ABcB c2c2 | Bdfg a4- | agf2 agf2 | bagf edcB |]
+
+X:1
+T:Larid\'e
+R:Larid\'e
+M:C
+L:1/8
+Q:240
+C:Breton
+B:Encyclopedia Blowzabellica
+K:Gm
+G4 d4|c2 e2 d4|c3 d c2 A2|B2 c2 d4| \
+G4 d4|c2 e2 d4|c3 d c2 A2|B2 A2 G4:|
+|:G4 B4|B2 G2 A4|A3 B c2 A2|B2 c2 d4| \
+G4 B4|B2 G2 A4|A3 B c2 d2|B2 A2 G4:|
+
+X:1
+T:An Dro St Patrick
+M:2/4
+L:1/8
+R:An-dro
+S:2011 hurdy-gurdy festival tune swap
+Z:Dave Holland <dave@biff.org.uk>
+K:Em
+E/F/G/F/ EB | GE FB | A/B/A/G/ FE/F/ |1 GE/G/ F2 :|2 G/E/F/D/ E2 ||
+E/F/G/A/ BB | Ad BG | A/B/A/G/ FE/F/ |1 GE/G/ F2 :|2 GF E2 |]
+
+X:1
+T:Hanter Dro de Languidig
+C:Traditional
+S:Rondez Vous Session Tunes
+M:3/2
+L:1/8
+Q:1/4=180
+R:Hanter Dro
+K:Am
+"Am" e2ed c2e2 A4 | "G" e2ed c2d2 e2g2 | \
+"F" e2ed c2e2 A4 | "Dm" d2ed "Em" c2B2 "Am" A4 :|
+"Am" e2ee f2e2 "Em" B2c2 | "F" d2ed c2A2 "G" B4 | \
+"Am" e2ee f2e2 "Em" B2c2 | "F" d2ed "G" c2B2 "Am" A4 :|
+
+%%newpage
+%%textfont Helvetica-Bold 18
+
+%%center Branles
+
+X:151
+T:Branle de L'Officiel
+T:Officials Branle
+S:"Orchesography", Arbeau
+M:C|
+N:A circle for as many couples as will, woman on the man's right.
+N:A1,A2: double to the left, double to the right
+N:B1,B2: 6 singles to the left, man lifts partner from RH side to LH side
+L:1/4
+K:C
+P:A
+"C"cc "F"d/c/B/A/ | "G"G3G | "F"Ac"G"cB | "C"c2c2 :|
+P:B
+"C"g>f e/f/g/e/ | "G"f>e d/e/f/d/  | "Am"e>d c/d/e/c/ | "E"d>c B/c/d/B/ |
+"F"c>B A/B/c/A/ | "G"B>A "C"GG | "F"Ac "G"cB | "C"c2c2 :|
+T:Harmony part
+ee f/e/d/c/ | B/c/B/A/ GG | FA GA/B/ | c/d/c/B/ c2:|
+e>d c/d/e/c/ | d>c B/c/d/B/ | c>B A/B/c/A/ | B>A ^G/A/B/G/ |
+A>=G F/G/A/F/ | G/A/G/F/ EE | F/G/A GF | E2 E2:|
+
+X:1
+T:Washerwoman's Branle
+M:C|
+L:1/4
+R:Branle
+B:Thoinot Arbeau: Orchesographie, 1589
+Z:Steve Mansfield March 2001
+%F:http://www.lesession.co.uk/music/Orchesography.abc	 2007-04-27 10:26:43 UT
+K:GDor
+GG GG | FF B2 | cB AG | GF G2 :: Gd Bd | cB AG ::
+GG F2 | G2 A2 | AA AB | cB AG | GG F2 | G2 A2 | cB AG | GF G2 :|
+
+%%newpage
+%%textfont Helvetica-Bold 18
+
+%%center Miscellaneous
+
+X:18
+T:Capriole
+C:Cliff Stapleton
+Z:midi2abc
+M:6/8
+L:1/8
+R:Jig
+Q:1/4=100
+K:F % 1 flat
+G2A BdB|c2d cBA|G2A BdB|e2c d3|
+G2A BdB|c2d cBA|G2A BdB|e2c d3|
+G2B dfd|e2d cdf|g2d a2a|cdc A2z|
+G2B dfd|e2d cdf|g2d a2a|edc d3|
+G2B dfd|e2d cdf|g2d a2a|cdc A2z|
+G2B dfd|e2d cdf|g2d a2a|edc d3|]
+
+X:9
+T:Tarantella
+Z:Dave Holland <dave@biff.org.uk>
+S:St Chartier festival 2002
+M:6/8
+L:1/8
+Q:3/8=146
+K:Am
+a2a|e2e a2a|e3 ede|f2f fgf|e3 efe|d2d ded|c2c ABc|B3 dcB|1c2A:|2 A3||
+A2B|c2c dcB|c2A ABc|B2B dcB|c2A A2B|c2c dcB|c2c ABc|B2B dcB|A3:|
+
+X:1
+T:Bourree Valse
+C:Traditionnel
+D:"Musiques pour vielle \`a roue en Auvergne et Bourbonnais", Patrick Bouffard
+Z:Dave Holland <dave@biff.org.uk>
+M:3/4
+L:1/8
+K:G
+GFGABc|dGdGeG|cFcFdF|TB2GBGD|
+GFGABc|d2DEFG|AGFGAF|1G2GDEF:|2G2GDEG||
+B3AG2|TB2G2B2|BAGABc|d2G2Bd|c2ABcA|TB2GABc|AGFAGF|E3 F/E/ D2|
+B3AG2|TB2G2B2|BAGABc|d2G2Bd|c2ABcA|TB2GABc|AGFAGF|1G2GDEG:|2GDEFGA||
+
+X:10
+T:Sept Sauts
+O:B\'earn
+D:"Sauts biarn\'es de l'arrib\'era"
+Z:Dave Holland <dave@biff.org.uk>
+M:2/4
+L:1/8
+P:Intro AB1 AB2 AB3 ... AB7
+Q:1/4=90
+K:G
+P:Intro
+d2g2 \
+P:A
+|:"G"dd/c/ BB|"D"A/B/c/A/ "G"BG|"G"dd/c/ BB|"D"A/B/c/A/ "G"G2:|
+P:B
+|:"Am"AA/A/ "D"AA|d/c/B/A/ "G"BG|"Am"AA/A/ "D"AA|d/c/B/A/ "G"G2:|
+[|]1"G"d2g2||2"G"d2B2|d2g2||3"G"d2B2|d2B2|d2g2||4"G"d2B2|d2B2|d2B2|d2g2||5 \
+"G"d2B2|d2B2|d2B2|
+d2B2|d2g2||6"G"d2B2|d2B2|d2B2|d2B2|d2B2|d2g2||7"G"d2B2|d2B2|d2B2|d2B2|d2B2|d2B2|d2g2|]
+
+X:11
+T:Ronde de Land\'eda
+O:North-West Brittany
+Z:Dave Holland <dave@biff.org.uk>
+M:3/2
+L:1/8
+Q:1/2=60
+K:D
+f|fedd d>def f2ef|1fedA d>def f2e:|2fedA d>def f2e2||
+f2fe ede>f fefd|1f2fe ede>f fed2:|2f2fe ede>f fe d|]
+
+X:12
+T:Zwiefacher
+T:G\"oger, wennst net krahst
+Z:Dave Holland <dave@biff.org.uk>
+A:Alsace
+M:none
+L:1/8
+Q:1/4=180
+K:C
+|:\
+M:2/4
+L:1/8
+g2e2|g2e2|\
+M:3/4
+g4e2|d2 dfed|e2gec2|\
+M:2/4
+L:1/8
+g2e2|g2e2|\
+M:3/4
+g4e2|d2 dfed|c6:|
+|:d2 dfdf|e2 gege|d2 dfdf|e2 gege|\
+g2z2z2|g2z2z2|\
+M:2/4
+L:1/8
+g2e2|g2e2|\
+M:3/4
+g4e2|d2 dfed|c6:|
+
+X:12
+T:Zwiefacher
+T:Le Porchet
+Z:Dave Holland <dave@biff.org.uk>, corrections by Andrew Swaine
+A:Alsace
+M:2/4
+L:1/4
+Q:1/4=120
+K:C
+|: g d | d/c/ B | g d | d/c/ B | (3ABc | (3Bcd :|
+A c | B d | (3edc | (3dcB | A c | B d | (3edc |1 B2 :|2 e f ||
+
+
+X:12
+T:fandango
+C:appris de Patxi, Pantxo et Bruno \`a Gennetines, fichier abc : Bernard Loffet
+L:1/8
+M:3/4
+%F:http://diato.org/tablat/133.abc	 2003-06-26 12:23:56 UT
+Z:Created with TablEdit http://www.tabledit.com/ by Bernard Loffet
+Z:modified by Dave Holland
+K:C
+|: "C"C2 EG EG | ez ed c2 | C2 ce ce | "G"dz dc B2 |\
+G2 df df | "C"ez ce ce | "G"dz Bd Bd | "C"cz cd e2 |
+"C"C2 EG EG | ez ed c2 | C2 ce ce | "G"dz dc B2 |\
+G2 df df | "C"ez ce ce | "G"dz Bd Bd | "C"c2 C2 C2 :|
+|: "C"C2 Ez "G7"Fz | "C"Gz "G"^Fz "C"Gz | ez dz cz | "G"B2 G2 G2 |\
+G2 Dz Ez | "F"Fz Ez Fz | "G"Az "C"Gz "G"Fz | "C"E2 C2 C2 |
+"C"C2 Ez "G"Fz | "C"Gz "G"^Fz "C"Gz | cz Bz _Bz | "F"A2 F2 F2 |\
+F2 gz fz | "C"ez cz ez | "G"dz Bd Bd | "C"c2 C2 C2 :|
+
+X:1
+T:Mara\^ichine (Vend\'ee)
+M:2/4
+L:1/8
+N:originally in G
+K:C
+cg ge|gf/e/ d/f/e/d/|cg ge|g2 d2:|
+d>e fe|de/d/ c2|dg fe|d2 c2:|
+c2 BA|Bc d2|cd/e/ dc|1 AB AG:|2 AB c2||
+cd/e/ fe|dc d2|de/f/ g>f|1ed ec:|2 ed c2|]
+
+X:358
+M:3/4
+O:France
+T:La Redova
+T:Mazurka-schottische
+C:trad.
+A:Gers
+O:France
+Z:S. Piron, Dave Holland
+S:Kerry Fletcher / Cam-French 23/2/2011
+S:http://www.dailymotion.com/video/xhzlf_redova-bal-folk-avr06_music
+M:3/4
+L:1/8
+Q:1/4=150
+K:G
+"^mazurka"BAG2F2 | EFE2D2 |[M:2/4]"^schottische"DEDC|B,4|CB,CD|
+E2EF|"^single steps"G2F2|E2D2|CB,CD|E2EF|G2F2|E4|]
+
+
+X:359
+T:Brume
+T:(Scottish impaire)
+C:Gérard Godon
+S:http://vitrifolk.be/partitions-2/partitions-france.html
+S:Trad magazine no 118 (mars/avril 2008)
+M:3/4
+L:1/8
+K:Cm
+|:"Cm"(3GGG (3AAA G2|"G7"(3GGG (3AAA G2|(3FFF (3GGG F2|E2D2"Cm"G2|
+  (3GGG (3AAA G2|(3GGG (3AAA G2|"G7"(3FFF (3GGG F2|E2D2"Cm"C2:|
+"Fm"(3ccc (3ddd c2|"Cm"(3ccc (3ddd c2|"G7"(3=BBB (3ddd B2|c2d2"Cm"e2|
+"Fm"(3fff (3ggg f2|"Cm"(3eee (3fff e2|"G7"(3ddd (3fff d2|e2d2"Cm"c2|]
+

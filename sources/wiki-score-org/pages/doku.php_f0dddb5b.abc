@@ -1,0 +1,15 @@
+X:307
+T:Minuetto
+C:Davide Perez (1711-1778)
+M:3/4
+L:1/4
+K:D
+V: 7 clef=alto name="Viola" sname="Va"
+%%MIDI program 1 41
+%%staves [ 7 ]
+%-------
+DDD | DDD | DDD | DDD | GGG | FFF | ECD | A,2z | A,2z | A,2z | \
+DEE, | A,3 :: A,2z | A,2z | ^DEB, | E2z |  A,2z | A,2z | CDA, | D2z | \
+GGG | FFF | ECD |  A,2z | DDD | DDD | DDD | A,2z | D2z | D2z | \
+GAA, | D3 :| \
+[Q:"Presto"] [M:C|] DzD/D/D/D/ | D D/d/ D D/d/| D/d/ D/d/ D !fermata!z |]

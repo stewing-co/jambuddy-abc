@@ -1,0 +1,56 @@
+X:1
+T:XVII. A shepheard in a shade
+C: John Dowland
+H: From The Second Booke of Songs or Ayres of 2. 4. and 5. parts: 
+H: with Tableture for the Lute or Orpherian, with the Violl de Gamba.
+L:1/4
+M:C
+%%MIDI nobarlines
+%%pageheight 11in
+%%tabaddflags 1
+T:Cantus
+N: Original clef, C on first line
+K:G mixolydian
+V:C clef=treble    name=Canto
+V:L clef=frenchtab name=Lute
+%1
+[V:C]G2 G G G2 G2 | G2 A2 B3 c A2 z A | d3 c B2 d2 A4
+w:A Shep- heard in a shade, his plain- ing made, Of love and lo- vers wrong,
+w:Since love and For- tune will, I hon- our still, your faire and love- ly eye,
+[V:L] [M:C|][aa,c,a1][,,a][,,c][,,d,,c][,a,,,e][,,,,,a][,c,,a2] | \
+[,ac,,a2][,aa,,,e][,ac,,a][a,,,,,c][,cf,c1]>[,c][,c1][,,,,a] | \
+[aa,c,e2][c,,b,c][,ac,,a1]>[,,,,,c][a,,,,e1][,,,,,a][,cf,c2][,a1][,c]
+w:1v
+%2
+[V:C]D2 D E ^F2 G2 | A2 B2 c2 B2 A2 z B | A G G3 ^F/ E/ ^F2 G4 :: \
+w:Un- to the fair- est lasse, that trode on grasse, and thus bee- gan his _ _ song, | 
+w:What con- quest will it bee, Sweet Nimph for thee, If I for sor- row _ _ dye.
+[V:L][,efec2]>[a][caa,c,a2][,a1][,,,,,,c] | \
+[,aa,,,e2][,,c,,a1][a][,cde,c],e[a,,c,e][,c,,a][,efec2][,,,c,e1][,a] | \
+[,cd,a][,,c,c][,,,,c][,,a/][,,,e][,aa,c2][,,,,,,a1][,,d][,,ccca4] :: \
+w:2v
+[V:C][K:G dorian][M:C]B B2 B B2 d2
+w:re- store, re- store my
+[V:L][M:C|][,db,,d2][,,,,,d1][,b][,ab,,d2][,db,,d1][a] 
+%3
+[V:C]c2 B2 A3 F | A3 G F2 G F E D E2 D4 | D2 E2 F2 E G2 F B2 A2 G2 | ^F2
+w:hart a- gaine, Which love by thy sweet _ lookes hath _ slaine, least that in- forst by your dis- daine, I sing,
+[V:L][cdda2][aabc][,efec2]>[,a] | \
+[,da,c2][,,,,b1][,c][,aa,c2][,cbc,a1][,a][,,e,,c][,,f][,,,e][,,e][,aa,c4] | \
+[,,,a,d1][,,,c][,,,,a][,,a][,,,,c][,,b][,,,ca][,,d][,,b,c][,,a][,a,,,a/][,,,c][a1][,da,c][,a][,,b,d][,,d] | \
+[,aa,c2]
+w:3v
+%4
+[V:C]  d3 c B2 A2 d3 c B2 | A2 z D F2 B2 A3 A G4 :|
+w:Fye fye on love Fye fye on love, it is a fool- ish thing.
+[V:L] [,,b1][,,,,c][,aab2][,,,c1][,c][,ea,c2][a1][,,,,e][,aab2][,,,c1][,c] | \
+[,e,,c][,,a][a,b,,d][,,,c][c,d,,c2][,a,,,a1][,,,c][,a,bc][,b,ca][,a,,c][,,,b/][,,d][,,cc,a4] :|
+w:4v
+W:My hart where have you laid O cruell maide,
+W:  To kill when you might save,
+W:Why have yee cast it forth as nothing worth,
+W:  Without a tombe or grave.
+W:O let it bee intombed and lye,
+W:  In your sweet minde and memorie,
+W:Least I resound on every warbling string,
+W:  Fye fye on love that is a foolish thing.

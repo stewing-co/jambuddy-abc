@@ -1,0 +1,58 @@
+%%abc-charset utf-8
+%%partsbox
+%%MIDI program 21
+
+X:1
+T:Galopp  GD (GL07391)
+T:Hanny Christen. Bd.IV  Aargau, Basel I. S.320 (GL07391) orig.G,D
+T: Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+T:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+"G"b2 ^a>b | .c'2.b2 | "A7".^g2.a2 | .^d2.e2 | "D7"a2 ^g>a | .b2.a2 | "G".f2.g2 | .e2.d2 | b2 ^a>b | 
+.c'2.b2 | "A7".^g2.a2 | .^d2.e2 | "D7"a2 ^g>a | .b2.a2 | "G".g2.g2 | g2z2 |: [K:D] "A7"a2ce | gg fe | 
+"D"f>b b>a | a>f f>d | "A7"A2 ce | gg fe | "D"f>g "A7"e>f |1 "D".d2d2 :|2 "D"d>d d>d || [K:G] 
+|: ("D7"c2a2) | .a2.a2 | ("G"g2B2) | z>d  d>d  | ("D7"c2a2) | .a2.a2 | ("G"g2B2) | z>f g>a | (b4 | b).a .g.f | 
+"Am/C"e4 | z>a a>a | "G"g2 g>g | "D7"fg/f/ .e.d |1 ("G"g4 | g>)d d>d :|2 "G".g2.g2 | g2z2 |] 
+W:Anmerkung H.C.: Tenniken 40, s.V. 188
+% GL07391
+% July 28, 2017
+
+X:2
+T:Galopp  CG 7- (GL07391)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.320 (GL07391) orig.G,D
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+"C"e2 ^d>e | .f2.e2 | "D7".^c2.d2 | .^G2.A2 | "G7"d2 ^c>d | .e2.d2 | "C".B2.c2 | .A2.G2 | e2 ^d>e | 
+.f2.e2 | "D7".^c2.d2 | .^G2.A2 | "G7"d2 ^c>d | .e2.d2 | "C".c2.c2 | c2z2 |: [K:G] "D7"d2FA | cc BA | 
+"G"B>e e>d | d>B B>G | "D7"D2 FA | cc BA | "G"B>c "D7"A>B |1 "G".G2G2 :|2 "G"G>G G>G || [K:C] 
+|: ("G7"F2d2) | .d2.d2 | ("C"c2E2) | z>G G>G | ("G7"F2d2) | .d2.d2 | ("C"c2E2) | z>B c>d | (e4 | e).d .c.B | 
+"Dm/F"A4 | z>d d>d | "C"c2 c>c | "G7"Bc/2B/2 .A.G |1 ("C"c4 | c>)G G>G :|2 "C".c2.c2 | c2z2 |] 
+% GL07391
+% July 28, 2017
+
+X:3
+T:Galopp  FC 2- (GL07391)
+S:Hanny Christen. Bd.IV  Aargau, Basel I. S.320 (GL07391) orig.G,D
+S:Repertoire der "Jourdan-Musig", Muttenz.  S.270-353
+S:Überliefert durch Herrn Mesmer, Mai 1941
+%%MIDI program 21
+R:Galopp
+M:2/4
+L:1/8
+K:F %%MIDI gchordon
+"F"a2 ^g>a | .b2.a2 | "G7".^f2.g2 | .^c2.d2 | "C7"g2 ^f>g | .a2.g2 | "F".e2.f2 | .d2.c2 | a2 ^g>a | 
+.b2.a2 | "G7".^f2.g2 | .^c2.d2 | "C7"g2 ^f>g | .a2.g2 | "F".f2.f2 | f2z2 |: [K:C] "G7"g2Bd | ff ed | 
+"C"e>a a>g | g>e e>c | "G7"G2 Bd | ff ed | "C"e>f "G7"d>e |1 "C".c2c2 :|2 "C"c>c c>c || [K:F] 
+|: ("C7"B2g2) | .g2.g2 | ("F"f2A2) | z>c c>c | ("C7"B2g2) | .g2.g2 | ("F"f2A2) | z>e f>g | (a4 | a).g .f.e | 
+"Gm/Bb"d4 | z>g g>g | "F"f2 f>f | "C7"ef/2e/2 .d.c |1 ("F"f4 | f>)c c>c :|2 "F".f2.f2 | f2z2 |] 
+% GL07391
+% July 28, 2017

@@ -1,0 +1,21 @@
+X:1801
+T:Scena 4.a
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 1 clef=alto name="Corno I" sname="Cor.I"
+%%MIDI program 1 69
+%%staves [( 1 )]
+%-----------------------
+Z16 | "_[sic]" z2 | Z9 "^Segue" || \
+[Q:"Allegro assai"] [K:Bb] Z10  "^Rondo" || \
+[M:2/4] [K:C treble] [Q:"Larghetto"] c2 | (cc/)z/ | c2 | (cc/)z/ | z2 | z d| ez | (dd/)z/ | \
+c2|c2-|c2|c-c/z/|Z|z(d|e)z|zG|G/z/z|Z3|c2|Z2|z//c//c//c// c|c/z/z| \
+zz/z//c//|c/ z/x/z//c//|g/ z/z/z//g//|d/ z/z/z//d//|d/ z/z/z//d//|d/z/z| Z6| \
+z//>G//G//>G// G/z/ | z//>G//G//>G// G/!fermata!z/|G!fermata!z|| \
+[Q:"Allegro"] [M:C] c2cc|c2cc|czz2|zccc|zccc|c2cc|c2cc|czz2| \
+zccc|zccc|czz2|czz2|czz2|Z|GGGG|GGG!fermata!z|c4|c4|ccc2|czz2|Z2|z/c/c/c/z2|Z3|c2z2|c2cc|czz2|Z10| \
+GGGG|GGG!fermata!z|c4|czz2|Z2|z/c/c/c/ cz|Z2|z2ed|z/c/c/c/ cz|z/c/c/c/ cz|Z|czcz|dzdz|czz2|Z2| \
+e2d2|czcd|ezcc|cc/>c/cc|ccdd|cccz |]
+%-----------------------

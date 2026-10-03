@@ -1,0 +1,75 @@
+X:3625
+T:Scena ultima [Aria Apolline]
+C:Pugnani, Gaetano (1731-1798)
+M:C
+L:1/4
+K:C
+V: 25 clef=alto1 name="Apolline" sname="Apo."
+%%MIDI program 1 1
+%%staves [[ 25 ]]
+%---------------------------------------
+[L:1/8] d A A A/ d/ ^c/ c/ c/ e/ e G/ A/ | ^F F F F/ G/ A/ A/ A/ B/ c c/ d/ | [Q:"Allegretto"] B2z2z4| Z | \
+w: Ro-di, so-no'a-me gra-te Ques-te vit-ti-me tu-e, e il'mio fa-vo-re Ve-glia so-pra di te.
+z4 d2 B A | ^G/ G/ G/ G/ G G/ A/ B B \
+w:  Tra l'ar-mi'os-ti-li, On-de sei cin-ta'in-tor-no,
+z/B/ d/ ^c/ | A2 z2 e2  e/ e/ ^c/ B/ | ^A A z \
+w: Non pa-ven-tar; che le rac-col-te schie-re
+^c/ ^d/ e2 e  ^d | B2 z2z4 | z \
+w: Ti mi-nac-ciano in-van.
+^F B ^A B B B B/ ^c/ | A/ A/ A/ A/ A ^G/ A/ ^F/ F/ ^d/ ^f/ f A/ B/ | ^G G z3/2  \
+w: N\`e ques-ta fia l'es-tre-ma vol-ta, che al ne-mi-co in-sul-to in-vin-ci-bil tu si-a.
+B/ B/ A/ ^G/ "^(*)" G/ G/ G/ G/ G// A// | B B B ^c/ d/ d ^G z \
+w: Bar-ba-re squa-dre col vol-ge-re degl' an-ni in-fier ci-men-to
+W: (*) The original is: 'Barbare squadre Ti porranno in periglio'
+E | B B B> ^c A2 z2 | Z4 |\
+w: por-ran-no'il tuo va-lor
+%----------------
+% Libretto: page 40 (not exactly as in the original...)
+%----------------
+z A A A/ d/ d/ A/ A/ A/ A G/ A/ | ^F F z2 \
+w: Ma in-fin dell'al-pi fi-gli-o d'au-gus-ta stir-pe
+F2 F G | A A A B/ c/ c/ ^F/ A/ A/ A A/ B/ | =c/ c/ c/ c/ c/ c/ A/ G/ ^F F F G | A A c c/ d/ B2 B A/ G/ | ^c3d d A z2 | z2 \
+w: ai pi\`u su-bli-mi Tro-ni d'Eu-ro-pa in i-me-nei con-giun-ta, un'E-ro-e sor-ge-r\`a del fie-ro Tra-ce de-bel-la-tor, que a te da-r\`a la pa-ce.
+B A/ B/ ^G G G/ G/ G/ A/ | B B z \
+w: In au-ree no-te l'im-mor-tal vit-to-ria
+B e> d d e | ^c c z2 z \
+w: ne ser-be-r\`a la glo-ria,
+E A ^G | A/ A/ A/ A/ A A/ B/ ^c c e c/ A/ | d d z2 z2 \
+w: e'in o-gni la-to vo-le-r\`a del-la fa-ma in sul-le pen-ne
+A A | d2 B A ^G2 z/G/ G/ A/ | A E z2 "_aria" z4  || \
+w: La for-tez-za di lui, che te sos-ten-ne.
+[M:2/4] [Q:"Andantino"] Z12 | \
+c3d/>B/ | c>G Gz | A3 B/c/ | {B}A G z2 |\
+w: Il bel-~ no--me del-la-~ pa-ce
+c c2 (e/c/) | (B/A/) A2 f/d/ | c3 {e}d | c2z2 | z4 | \
+w: di-a la_ cal--ma ai_ vos-tri cor
+z2 (c/e/) (d/c/) | (B/A/) A/> A/ {A}G> B | c2z2 | z4 | \
+w: di-a la_ cal--ma ai vos-tri cor
+d3 c/B/ | (B3c/d/) | {d}c3B/A/ | ((3B/c/d/) d (d/B/) A/^G/ | (^G/A/) c/> B/ {B}A> G | ^F2z2 | \
+w: Ed ac--cen-da_ a-mor_ la__ fa-ce_ D'o-gni be--ne ap-por-ta-tor
+z2c> B | {B}A A z2| \
+w: Ed ac-cen-da
+z> D c> B | {B}A A (G/B/) (B/d/) | (d/c/) (B/A/) (A/G/) (G/^F/) | Gz \
+w: a-mor la fa-ce D'o--gni_ be--ne'ap--por--ta--tor
+G/B/ B/d/ | d/c/ B/A/ A/G/ G/^F/ | G z \
+w: D'o--gni_ be--ne'ap--por--ta--tor
+(d/B/) (A/G/) | (e2 e/g/) e/c/ | B2A2 | G2z2 |  Z4 | \
+w: D'o--gni_ be-ne_ ap--por-ta-tor
+c3 d/>B/ | (c>G) Gz | \
+w: il bel_ no--me
+A3(B/c/) | {B}A G z2 | \
+w: del-la_pa-ce
+c c2 e/c/ | B/A/ A2 A/d/ | d3c | B2z2 | \
+w: di-a la_ cal--ma ai_ vos-tri cor
+z2 f> e | {e}d d z2 | \
+w: Ed ac-cen-da_
+z>G f> e | {e}d d z d/> f/ | {f}e d/c/ c ^F | G2z2 | z4 | \
+w: a-mor la fa-ce D'o-gni bene'ap--por-ta-tor
+z2 c> c | (c/B/) (B/A/) (A/G/) (G/F/) | F E z2 | z4 | \
+w: il bel no--me_ del--a_ pa-ce
+z2 c> c | (c/B/) (B/A/) (A/G/) (G/F/) | Ez \
+w: dia la cal--ma'ai_ vos--tri_ cor
+(G/c/) (e/g/)| (g/f/) (e/d/) (d/c/) (c/B/) | c c G/c/ e/g/ | g/f/ e/d/ d/c/ c/B/ | c2 _B> B | A3f/d/ | c4 | {e}d4 | c2 \
+w: Ed_ ac--cen--da'a--mor_ la_ fa-ce D'o--gni_ be--ne'ap--por--ta--tor D'o-gni be-ne'ap--por-ta-tor.
+z2 | Z4 |] \
+%---------------------------------------

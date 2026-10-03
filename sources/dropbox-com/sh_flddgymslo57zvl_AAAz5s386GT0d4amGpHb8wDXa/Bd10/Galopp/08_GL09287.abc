@@ -1,0 +1,140 @@
+%%partsbox
+%%MIDI program 21
+X:1
+T:Galopp  CF  (ABCDC)
+T:Hanny Christen. Bd.X Unterwalden II. Glarus.
+T: T\"anze aus Engelberg (1949). S.109-177. S.167 (GL09287) orig. C,F
+T: \"Uberliefert durch Karl Feierabend und Sepp Linder (*1883)
+%%MIDI program 21
+P:ABCDC
+R:galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+a [P:A] |: "G7"ge fd | "C"eG Ge | "G7"dF/F/ Fd | "C"cE Ea | "G7"ge fd | "C"eG Ge | "B7"^fB/B/ fB | 
+"Em"g^f ea | "G7"ge fd | "C"eG Ge | "G7"dF/F/ Fd | "C"cE Ec | "G"BG/G/ GB | dB/B/ Bd | 
+"D7"^de f^f/f/ |1 "G"gg ga :|2 "G".g2G>G [P:B] |: !>!"C"e2 e/c/G/E/ | A3E | "G7"GG/G/ GG | F2 f>f |  !>!f2  f/d/B/F/  | 
+B3F | "C"AA/A/ AA | G2 G>G | e2 e/c/G/E/ | A3E | "Dm"B>B B>B | .A2 f>f | "G7"f2 f/d/B/G/ | 
+e3d |1 "C"cG ^FG | "G7"AB cd :|2 "C"c2 c>c | c2z2 [P:C] |: [K:F] "F"A2 A>A | ^GA BA | "Gm"^FGd2 | 
+^FGd2 | "C7"c3d/c/ |1 =Bc ag | "F"gf Ad | "C7"c3B :|2 =Bc ba | ag de | "F"f2"_Fine"z2 |] [P:D] "Dm"f/e/d/f/ "A7"ae | 
+ae ae | "Dm"f/e/d/f/ d'c' | "Gm"ba g^g | "A7"ae ae | "Dm"fed2 | fA/A/ AA | "A7"A2"_>Teil C"A2 |]   
+W:Parts: ABCDC
+% GL09287
+X:2
+T:Galopp  CF  (parts)
+%%MIDI program 21
+%P:ABCDC
+R:galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+a |: "G7"ge fd | "C"eG Ge | "G7"dF/F/ Fd | "C"cE Ea | "G7"ge fd | "C"eG Ge | "B7"^fB/B/ fB | \
+"Em"g^f ea |
+ "G7"ge fd | "C"eG Ge | "G7"dF/F/ Fd | "C"cE Ec | "G"BG/G/ GB | dB/B/ Bd | \
+"D7"^de f^f/f/ |1 "G"gg ga :|2
+ "G".g2G>G |: !>!"C"e2 e/c/G/E/ | A3E | "G7"GG/G/ GG | F2 f>f |  !>!f2  f/d/B/F/  | \
+B3F | "C"AA/A/ AA | G2 G>G |
+ e2 e/c/G/E/ | A3E | "Dm"B>B B>B | .A2 f>f | "G7"f2 f/d/B/G/ | \
+e3d |1 "C"cG ^FG | "G7"AB cd :|2 "C"c2 c>c | c2z2 || 
+|: [K:F] "F"A2 A>A | ^GA BA | "Gm"^FGd2 | \
+^FGd2 | "C7"c3d/c/ |1 =Bc ag | "F"gf Ad | "C7"c3B :|2 =Bc ba |
+ ag de | "F"f2z2 |] "Dm"f/e/d/f/ "A7"ae | \
+ae ae | "Dm"f/e/d/f/ d'c' | "Gm"ba g^g |
+ "A7"ae ae | "Dm"fed2 | fA/A/ AA | "A7"A2A2 \
+|: [K:F] "F"A2 A>A | ^GA BA | "Gm"^FGd2 | 
+^FGd2 | "C7"c3d/c/ |1 =Bc ag | "F"gf Ad | "C7"c3B :|2 =Bc ba | ag de | "F"f2z2 |] 
+W:(Parts: ABCDC)
+% GL09287
+X:3
+T:Galopp  CF
+%%MIDI program 21
+%P:ABCDC
+R:galopp
+M:2/4
+L:1/8
+K:C %%MIDI gchordon
+a |: "G7"ge fd | "C"eG Ge | "G7"dF/F/ Fd | "C"cE Ea | "G7"ge fd | "C"eG Ge | "B7"^fB/B/ fB | 
+"Em"g^f ea | "G7"ge fd | "C"eG Ge | "G7"dF/F/ Fd | "C"cE Ec | "G"BG/G/ GB | dB/B/ Bd | 
+"D7"^de f^f/f/ |1 "G"gg ga :|2 "G".g2G>G |: !>!"C"e2 e/c/G/E/ | A3E | "G7"GG/G/ GG | F2 f>f |  !>!f2  f/d/B/F/  | 
+B3F | "C"AA/A/ AA | G2 G>G | e2 e/c/G/E/ | A3E | "Dm"B>B B>B | .A2 f>f | "G7"f2 f/d/B/G/ | 
+e3d |1 "C"cG ^FG | "G7"AB cd :|2 "C"c2 c>c | c2z2 |: [K:F] "F"A2 A>A | ^GA BA | "Gm"^FGd2 | 
+^FGd2 | "C7"c3d/c/ |1 =Bc ag | "F"gf Ad | "C7"c3B :|2 =Bc ba | ag de | "F"f2"_Fine"z2 |] "Dm"f/e/d/f/ "A7"ae | 
+ae ae | "Dm"f/e/d/f/ d'c' | "Gm"ba g^g | "A7"ae ae | "Dm"fed2 | fA/A/ AA | "A7"A2"_>Teil C"A2 |]   
+W:Parts: ABCDC
+% GL09287
+X:4
+T:Galopp  GC 5-  (parts)
+%%MIDI program 21
+%P:ABCDC
+R:galopp
+M:2/4
+L:1/8
+K:G %%MIDI gchordon
+e |: "D7"dB cA | "G"BD DB | "D7"AC/2C/2 CA | "G"GB, B,e | "D7"dB cA | "G"BD DB | "F#7"^cF/2F/2 cF | \
+"Bm"d^c Be |
+"D7"dB cA | "G"BD DB | "D7"AC/2C/2 CA | "G"GB, B,G | "D"FD/2D/2 DF | AF/2F/2 FA | \
+"A7"^AB c^c/2c/2 |1 "D"dd de :|2
+"D".d2D>D |: !>!"G"B2 B/2G/2D/2B,/2 | E3B, | "D7"DD/2D/2 DD | C2 c>c | !>!c2 c/2A/2F/2C/2 | \
+F3C | "G"EE/2E/2 EE | D2 D>D |
+B2 B/2G/2D/2B,/2 | E3B, | "Am"F>F F>F | .E2 c>c | "D7"c2 c/2A/2F/2D/2 | \
+B3A |1 "G"GD ^CD | "D7"EF GA :|2 "G"G2 G>G | G2z2 || 
+|: [K:C] "C"E2 E>E | ^DE FE | "Dm"^CDA2 | \
+^CDA2 | "G7"G3A/2G/2 |1 ^FG ed | "C"dc EA | "G7"G3F :|2 ^FG fe |
+ed AB | "C"c2z2 |] "Am"c/2B/2A/2c/2 "E7"eB | \
+eB eB | "Am"c/2B/2A/2c/2 ag | "Dm"fe d^d |
+"E7"eB eB | "Am"cBA2 | cE/2E/2 EE | "E7"E2E2 \
+|: [K:C] "C"E2 E>E | ^DE FE | "Dm"^CDA2 | 
+^CDA2 | "G7"G3A/2G/2 |1 ^FG ed | "C"dc EA | "G7"G3F :|2 ^FG fe | ed AB | "C"c2z2 |] 
+W:(Parts: ABCDC)
+% GL09287
+X:5
+T:Galopp  CF (parts) (5letras transposed)
+%%MIDI program 21
+%P:ABCDC
+R:galopp
+M:2/4
+L:1/8
+K:C transpose=3 %%MIDI gchordon
+a |: "G7"ge fd | "C"eG Ge | "G7"dF/F/ Fd | "C"cE Ea | "G7"ge fd | "C"eG Ge | "B7"^fB/B/ fB | \
+"Em"g^f ea |
+ "G7"ge fd | "C"eG Ge | "G7"dF/F/ Fd | "C"cE Ec | "G"BG/G/ GB | dB/B/ Bd | \
+"D7"^de f^f/f/ |1 "G"gg ga :|2
+ "G".g2G>G |: !>!"C"e2 e/c/G/E/ | A3E | "G7"GG/G/ GG | F2 f>f |  !>!f2  f/d/B/F/  | \
+B3F | "C"AA/A/ AA | G2 G>G |
+ e2 e/c/G/E/ | A3E | "Dm"B>B B>B | .A2 f>f | "G7"f2 f/d/B/G/ | \
+e3d |1 "C"cG ^FG | "G7"AB cd :|2 "C"c2 c>c | c2z2 || 
+|: [K:F] "F"A2 A>A | ^GA BA | "Gm"^FGd2 | \
+^FGd2 | "C7"c3d/c/ |1 =Bc ag | "F"gf Ad | "C7"c3B :|2 =Bc ba |
+ ag de | "F"f2z2 |] "Dm"f/e/d/f/ "A7"ae | \
+ae ae | "Dm"f/e/d/f/ d'c' | "Gm"ba g^g |
+ "A7"ae ae | "Dm"fed2 | fA/A/ AA | "A7"A2A2 \
+|: [K:F] "F"A2 A>A | ^GA BA | "Gm"^FGd2 | 
+^FGd2 | "C7"c3d/c/ |1 =Bc ag | "F"gf Ad | "C7"c3B :|2 =Bc ba | ag de | "F"f2z2 |] 
+W:(Parts: ABCDC)
+% GL09287
+X:6
+T:Galopp  GC (parts) (5letras transposed)
+%%MIDI program 21
+%P:ABCDC
+R:galopp
+M:2/4
+L:1/8
+K:G transpose=3 %%MIDI gchordon
+e |: "D7"dB cA | "G"BD DB | "D7"AC/2C/2 CA | "G"GB, B,e | "D7"dB cA | "G"BD DB | "F#7"^cF/2F/2 cF | \
+"Bm"d^c Be |
+"D7"dB cA | "G"BD DB | "D7"AC/2C/2 CA | "G"GB, B,G | "D"FD/2D/2 DF | AF/2F/2 FA | \
+"A7"^AB c^c/2c/2 |1 "D"dd de :|2
+"D".d2D>D |: !>!"G"B2 B/2G/2D/2B,/2 | E3B, | "D7"DD/2D/2 DD | C2 c>c | !>!c2 c/2A/2F/2C/2 | \
+F3C | "G"EE/2E/2 EE | D2 D>D |
+B2 B/2G/2D/2B,/2 | E3B, | "Am"F>F F>F | .E2 c>c | "D7"c2 c/2A/2F/2D/2 | \
+B3A |1 "G"GD ^CD | "D7"EF GA :|2 "G"G2 G>G | G2z2 || 
+|: [K:C] "C"E2 E>E | ^DE FE | "Dm"^CDA2 | \
+^CDA2 | "G7"G3A/2G/2 |1 ^FG ed | "C"dc EA | "G7"G3F :|2 ^FG fe |
+ed AB | "C"c2z2 |] "Am"c/2B/2A/2c/2 "E7"eB | \
+eB eB | "Am"c/2B/2A/2c/2 ag | "Dm"fe d^d |
+"E7"eB eB | "Am"cBA2 | cE/2E/2 EE | "E7"E2E2 \
+|: [K:C] "C"E2 E>E | ^DE FE | "Dm"^CDA2 | 
+^CDA2 | "G7"G3A/2G/2 |1 ^FG ed | "C"dc EA | "G7"G3F :|2 ^FG fe | ed AB | "C"c2z2 |] 
+W:(Parts: ABCDC)
+% GL09287
+% Aug 28, 2016

@@ -1,0 +1,179 @@
+X:307
+T:Credo
+C:Bomtempo, Jo\~ao Domingues (1771-1842)
+M:C
+L:1/4
+K:Eb
+V: 7 clef=alto name="Contralto" sname="C."
+%%MIDI program 1 1
+%%staves [[ 7 ]]
+%------------------
+[Q:"Andante"] !p! G G/> G/ G G | FAGz | \
+w: Cre-do in u-num De--um
+!f!B B/ B/ B B | (B2 A2) | Gzz2 | Z | \
+w: Pa-trem o-mni-po-ten--tem
+!f!G G/> G/ B (A/G/) | A4 | G !p!G A B | c B/ B/ A2 | G !p! GAB | c B/ B/ B2- | B2 =A2 | Bzz2 |\
+w: Pa-trem o-mni-po--ten-tem fa-cto-rem coe-li et ter-ra fa-cto-rem coe-li et ter---ra
+!f! B =A A G/ G/ | G^FGz | \
+w: vi-si-bi-li-um o-mni-um
+!f! F/ F/ F/ F/ _GG | F/ F/ F/ F/  =G_G | Fzz2 | Z2 |\
+w: et in-vi-si-bi-li um in-vi-si-bi-li-um
+_DD!>!E2 | _Dz E2 | _DDDD | EE_GG | =G2F2 | G A/ A/ Gc | BGz2 | z \
+w: Je-sum Chris-tum Je-sum Chris-tum Filium De-i u-ni-ge-ni-tum et ex Pa-tre na-tum
+!f!A/ A/ Gc/ c/ | B2 =B2 | czz2 | Z | \
+w: an-te o-mni-a sae-cu-la
+!f! G G/> G/ B > B | Azz2 | \
+w: lu-men de lu-mi-ne
+!f!B2A2 | G2Gz/ \
+w: De-um ve-rum
+G/ | A2D2 | E2Gz | \
+w: de De-o ve-ro
+!p!EEEE | E2Ez | \
+w: Ge-ni-tum non fac-tum
+!p!EEE/ E/ E/ E/ | E2Ez | Z5 | z2z \
+w: con-subs-tan-ti-a-lem Pa-tri
+!p!E| A2AA | A>F _D z/ \
+w: qui pro-pter nos ho-mi-nes
+D/ | AAA B/> _G/ | F2 _D z | Z3 | z2zz/ \
+w: et pro-pter nos-tram sa-lu-tem
+!p!E/ | E2Ez/ \
+w: des-cen-dit
+!p!E/ | E2Ez/ \
+w: des-cen-dit
+!p!E/ | _G4 | !fermata!F4 || \
+w: de coe-lis
+[Q:"Largo"][K:Gb][M:6/8] Z8 | zz/z \
+w: de Spi--ri-tu San-cto
+!p!F/ | GG/ F/> F/ F/ | Z | zz/z \
+w: Ma-ri-a Vir-gi-ne
+!p!E/ | EE/FE/ | =Dz/ zz/ | Z2 | \
+w: et ho-mo fa-ctus est
+!p! =DE/DE/ | Fz/zz/ | \
+w: fa-ctus fa-ctus est
+!p! =DE/DE/ | Fz/ \
+w: fa-ctus fa-ctus est
+!p!EE/ | =Dz/zz/ | Z | !fermata!Z ||\
+w: fa-ctus est
+[Q:"Andante"][K:Eb][M:C] Z4 |!p!DD^F2 | Gzz2 | \
+w: Cru-xi-fi-xus
+!p!=B,/ A/ G/ B/ c>=B | Gzz2 | \
+w: e-tiam pro_no--bis
+!p!B,2B,2 | B,B,z2 | z2 \
+w: Cru-xi-fi-xus
+!p!G/ =A/ =B/ d/ | !>!c2_B!p!B | =A/> A/ A/ A/ G2 | ^F z \
+w: e-ti-am pro no-bis sub Pon-ti-o Pi-la-to
+"^cresc." F/ F/ F/ F/ | AG^F!p!F/ F/ | AG^F!f!F/ F/ | AG^F!p!F/ F/ | ^FFGG/ G/ | =E2EE | G2 ^F2 || [Q:"Allegro Moderato"][K:G][M:C] !p! Gzz2 | Z3 | \
+w: pas-sus est se-pul-tus est et se-pul-tus est et se-pul-tus est et se-pul-tus est et se-pul-tus se-pul-tus est
+!f!B2BB | A2Az |\
+w: Et re-sur-re-xit
+!f!GG/ G/ G G/ G/ | GG/ G/ G G | z2z \
+w: ter-ti-a di-e se-cun-dum scri-ptu-ras
+!f!E | G2GG | A2F_E | D2Dz | \
+w: se-cun-dum se-cun-dum scri-ptu-ras
+!p!A2A2 | A2Az | Z2 | \
+w: Et as-cen-dit
+!p!F2FF | G2GG | F4 | Gzz\
+w: se-det ad dex-te-ram Pa-tris
+!f!G | G/ G/ G/ G/ G G | GAAG/=F/ | E !f! GGG | GAAG | G !f!G/ G/ GG | A2 A2 | !f!A2AA | G>D D D/ D/ | _EE/ E/ =FF | G!f!G/ G/ =FG| _A4 | !fermata!_A4 |\
+w: Et i-te-rum ven-tu-rus est ve-tu-us_ est cum glo-ri-a cum glo-ri-a ju-di-ca-re vi-vos vi-vos et mor-tu-os cu-jus re-gni non e-rit fi-nis non e-rit fi-nis
+!f!GG/ G/ GG | G2Gz | Z | z2zz/ \
+w: Cre-do in u-num De-um
+!p! _B,/ | _B,B, CC/ C/ | _B,2B,z/ \
+w: fa-cto-rem coe-li et ter-ra
+!p! B,/ | _B,B, ^CC/ C/ | D4 | Dz/ \
+w: fa-cto-rem coe-li et ter-ra
+!f!B/ BB | A2Az | \
+w: Et re-sur-re-xit
+!f!GG/ G/GG/ G/ | GG/ G/GG | z2z \
+w: ter-ti-a di-e se-cun-dum scri-ptu-ras
+!f! E | G2GG | A2G_E|D2Dz | \
+w: se-cun-dum se-cun-dum scri-ptu-ras
+!f!D2F2 | A2Az/ \
+w: et as-cen-dit
+!f! A/ | A2AA | F2Fz | \
+w: as-cen-dit in coe-lum
+!p!F2FF | G2GG | F4 | Gzz \
+w: se-det ad dex-ter-am Pa-tris
+!f! G | G/ G/ G/ G/ GG | G!f!AA(G/=F/) | E G/ G/ ^GG | A A/ A/ AA | ^Gz \
+w: Et i-te-rum ven-tu-rus est cum glo-ri--a ju-di-ca-re vi-vos et mor-tu-os
+!f!GG | ^F F/ F/ ^GG | A2BA | !fermata!^G4 | Z5 | z2 \
+w: cu-jus re-gni non-ve-rit fi---nis
+"^Solo" !p!EE | ^D3D | Ezzz/ \
+w: San-ctum Do-mi-num
+^G/ | ^G2 GG | A2Az | \
+w: et vi-vi-fi-can-tem
+!p!^G3G | A2Az | Z | z2z \
+w: qui ex Pa-tre
+!p!B,/ B,/ | B,2B,B, | C>CCz | \
+w: Qui-cum Pa-tre et Fi-li-o
+!p!B,>B,B,B, | C2Cz | Z | z2z \
+w: si-mul a-do-ra-tur
+!f!G/ G/ | !>!A3A | A z \
+w: Gui-lo cu-tus est
+A>A | G4 | G z \
+w: per pro-phe-tas
+!f!AA | G3=F| Ez \
+w: per pro-phe--tas
+!f!C2 | Cz \
+w: Cre-do
+B2 | cz \
+w: Cre-do
+C2 | Cz \
+w: Cre-do
+!p! D2 | !fermata!D4 || \
+w: Cre-do
+[Q:"Allegro"][K:Eb][M:C] !f!G/ | GGGG/ G/ | G G/ G/ G/ G/ G/ G/ | !f!A>A A=A | G>D D z/ \
+w: Et u-nam_ san-ctam Ca-tho-li-cam et A-pos-to-li-cam Ec-cle-si-am
+G/ | d>d d/ d/ d/ d/ | c2cz/\
+w: con-fi-te-or u-num Bap-tis-ma
+c/ | d>d d/ d/ d/ d/ | c2c c/ c/ | d2B2 | B2G !f!G/ G/ | B2B2 | BG!f!GG | A2=A2 | Gz \
+w: con-fi-te-or u-num Bap-tis-ma in re-mis-si-o-nem in re-mis-si-o-nem pec-ca-to--rum
+!p!GG | G4 | Gzz2 | Z | \
+w: pec-ca-to-rum
+!p!A>AAA | A2Fz | \
+w: in re-mis-si-o-nem
+!p!E3_G | F2_Dz | \
+w: pec-ca-to-rum
+!p!F>FFB | B2_Gz |
+w: in re-mis-si-o-nem
+!p!B3A | _G2Ez | Z2 |
+w: pec-ca-to-rum
+!f! G/ G/ G/ G/ A/ G/ F/ E/ | (D2F2) | Ezz2 | Z ||
+w: in re-mis-si-o-nem pec-ca-to--rum
+[Q:"Sostenuto"][K:Eb][M:C] !f!GGBG/z/ | \
+w: Et ex-pe-cto
+!p!G/ G/ G/ G/ GE | E>EE^F | !p!!fermata!G4 || \
+w: re-sur-re-cti o-nem mor-tu-o--rum
+[Q:"Moderato"][K:Eb][M:2/4] B,/ | EE/ E/ | FF | !p!G2 | FE | D2 | EF | DG | AA| Gz | \
+w: Et vi-tam ven-tu-ri sae-cu-li A-mem A-mem A-mem A-men A-men
+!p!E2 |DD | E!p!B, | DC | B,z | \
+w: A-men A-men A-men A-men
+z!p!F | Gz | Z | z/ \
+w: A-men
+!f!E/ E/ E/ | FF | G!p!A | GG | Fz | \
+w: A-men A-men A-men A-men A-men
+z !f! B | Bc | A=B | c z | Z3 | zz/ \
+w: A-men A-men A-men
+!f! G/ | (A/G/) (F/E/) | =DF | Gz/ \
+w: A-men_ A--men A-men
+!f!G/ | (A/G/) (F/E/) | D!f!=B | c!f!c | _BB | A!f!A | GG | A2 | =A2 | Gz/\
+w: A-men_ A--men A-men A-men A-men A-men  A-men  A-men
+!f! G/ | =BB/ B/ | =AA | =B>B | c!f!c | BB | cc | G!f!G | AA | GG | Gz | Z5 | \
+w: Et vi-tam ven-tu-ri sae-cu-li A-men A-men A-men A-men A-men A-men
+!p!F2 | ED | Cz | \
+w: A-men A-men
+!f!A2 |B2 | G2 | Gz | Z3 | \
+w: A-men A-men
+!p!G2 | FE | D !f! G | GG | Gz | Z2 | z\
+w: A-men A-men A-men A-men
+!f!F | G2 | A2 | G2 |!f!B2 | B2 | A2 | Gz | Z | z \
+w: A-men A-men A-men A-men
+!p! C | B,C | B,z | \
+w: A-men A-men
+!p!D2 | Ez | Z | z \
+w: A-men
+!p! C | B,C | B,z | \
+w: A-men A-men
+!p!D2- | D2 | Ez | Z2 |] \
+w: A--men
+%------------------
