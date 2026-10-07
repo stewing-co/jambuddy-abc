@@ -9,8 +9,8 @@ books/<genre>/<source>[-N].abc gather each source's tunes that aren't in a singl
 tunebook file of their own (single-tune files, mixed compilations), renumbered X:1..n, and
 index/books.json lists every genre's tunebooks for the jambuddy.live collection picker.
 index/collections.json lists, per genre, each source and its files with tune counts (for
-browsing on jambuddy.live). index/search/<genre>.json holds the same tunes with only the fields the app reads, so the
-app can download every genre cheaply; genres.json records each file's sha256.
+browsing on jambuddy.live). index/search/<genre>.json holds the same tunes with only the fields the app and the website's search read,
+so they can download every genre cheaply; genres.json records each file's sha256.
   genre      musical tradition (irish, scottish, nordic, ...); see genres.py
   tune       group id shared by settings with the same normalized title and category
   duplicates other copies of an identical setting, which are omitted from `tunes`
@@ -36,8 +36,8 @@ BOOKS = ROOT / 'books'
 BOOK_MIN_TUNES = 10
 BOOK_PURITY = 0.8
 BOOK_MAX_TUNES = 2000
-# The fields AbcTuneCatalog on Android reads.
-SEARCH_FIELDS = ('id', 'titles', 'url', 'x', 'ordinal', 'source', 'setting', 'encoding')
+# The fields AbcTuneCatalog on Android reads, plus key and category for filtering on jambuddy.live.
+SEARCH_FIELDS = ('id', 'titles', 'url', 'x', 'ordinal', 'source', 'setting', 'encoding', 'key', 'category')
 MAX_DUPLICATES = 3  # Fallback copies listed per tune; some sites repeat a tune dozens of times.
 DEFAULT_BASE = 'https://raw.githubusercontent.com/stewing-co/jambuddy-abc/main/'
 
