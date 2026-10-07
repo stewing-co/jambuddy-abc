@@ -9,7 +9,8 @@ books/<genre>/<source>[-N].abc gather each source's tunes that aren't in a singl
 tunebook file of their own (single-tune files, mixed compilations), renumbered X:1..n, and
 index/books.json lists every genre's tunebooks for the jambuddy.live collection picker.
 index/collections.json lists, per genre, each source and its files with tune counts (for
-browsing on jambuddy.live). index/search/<genre>.json holds the same tunes with only the fields the app and the website's search read,
+browsing on jambuddy.live). index/tunes/<genre>.json lists every tune of a genre once, with its
+settings (versions) and the sources they come from, for jambuddy.live's all-tunes collections. index/search/<genre>.json holds the same tunes with only the fields the app and the website's search read,
 so they can download every genre cheaply; genres.json records each file's sha256.
   genre      musical tradition (irish, scottish, nordic, ...); see genres.py
   tune       group id shared by settings with the same normalized title and category
@@ -36,10 +37,12 @@ BOOKS = ROOT / 'books'
 BOOK_MIN_TUNES = 10
 BOOK_PURITY = 0.8
 BOOK_MAX_TUNES = 2000
-# The fields AbcTuneCatalog on Android reads, plus key and category for filtering on jambuddy.live.
-SEARCH_FIELDS = ('id', 'titles', 'url', 'x', 'ordinal', 'source', 'setting', 'encoding', 'key', 'category')
+# The fields AbcTuneCatalog on Android reads, plus key, category and tune (group) for jambuddy.live's search.
+SEARCH_FIELDS = ('id', 'titles', 'url', 'x', 'ordinal', 'source', 'setting', 'encoding', 'key', 'category', 'tune')
 MAX_DUPLICATES = 3  # Fallback copies listed per tune; some sites repeat a tune dozens of times.
 DEFAULT_BASE = 'https://raw.githubusercontent.com/stewing-co/jambuddy-abc/main/'
+# A trailing number marking one of several settings of a tune ("2", "No. 2", "ii").
+VARIANT_NUMBER = r' (?:no )?(?:\d+|i{1,3}|iv|v|vi)$'
 
 # Most specific names first: "slip jig" must not match "jig".
 CATEGORIES = [
@@ -137,6 +140,98 @@ def parse_file(path, source, base, sources=SOURCES):
     return tunes
 
 
+def group_keys(tunes):
+    """Each setting's tune group: its normalized title and category. Untyped settings join the typed
+    group holding most (2/3) of their title's typed settings, and numbered variants ("Drowsy Maggie 2") join the group of the
+    plain title when there is one; numbers that name different tunes ("Polka No. 2") stay apart."""
+    titles = [normalize_title(tune['titles'][0]) for tune in tunes]
+    pairs = set(zip(titles, (tune['category'] for tune in tunes)))
+    typed = {}
+    for title, tune in zip(titles, tunes):
+        if tune['category'] != 'other':
+            counts = typed.setdefault(title, {})
+            counts[tune['category']] = counts.get(tune['category'], 0) + 1
+    dominant = {title: max(counts, key=counts.get) for title, counts in typed.items()
+                if max(counts.values()) * 3 >= sum(counts.values()) * 2}
+    keys = []
+    for title, tune in zip(titles, tunes):
+        kind = tune['category']
+        stem = re.sub(VARIANT_NUMBER, '', title)
+        if stem != title and len(stem.split()) >= 2 and ((stem, kind) in pairs or (kind == 'other' and stem in typed)):
+            title = stem
+        if kind == 'other' and title in dominant:
+            kind = dominant[title]
+        keys.append(title + '|' + kind)
+    return keys
+
+
+def shouting(title):
+    """Mostly capital letters, like "SLIABH NA mBAN"."""
+    letters = [char for char in title if char.isalpha()]
+    return sum(char.isupper() for char in letters) > 0.8 * len(letters)
+
+
+def display_title(titles):
+    """The title most sources use, without notes in brackets, in mixed case and with "The" first."""
+    counts = {}
+    for title in titles:
+        clean = re.sub(r'\s+', ' ', re.sub(r'\(.*?\)|\[.*?\]|"', ' ', title)).strip(' -,;:') or title.strip()
+        match = re.match(r'^(.*),\s*(the|an|a)$', clean, re.I)
+        if match:
+            clean = f'{match.group(2).capitalize()} {match.group(1)}'
+        counts[clean] = counts.get(clean, 0) + 1
+    # Mixed case beats ALL CAPS, then the most common spelling wins.
+    best = max(counts, key=lambda title: (not shouting(title), counts[title], -len(title)))
+    if shouting(best):
+        best = re.sub(r"[A-Za-z][A-Za-z']*", lambda word: word.group(0).capitalize(), best.lower())
+    return best
+
+
+def tune_list(name, tunes, base, catalog):
+    """index/tunes/<genre>.json: every tune once, with each setting (version) and the sources it's from."""
+    files, file_index, groups = [], {}, {}
+    for tune in tunes:
+        groups.setdefault(tune['tune'], []).append(tune)
+    source_names = {source['id']: source['name'] for source in catalog['sources']}
+    result = []
+    for group_id, settings in groups.items():
+        settings.sort(key=lambda t: (source_names.get(t['source'], t['source']).lower(), t['url'], t['ordinal']))
+        versions = []
+        for tune in settings:
+            path = urllib.parse.unquote(tune['url'][len(base):])
+            if path not in file_index:
+                file_index[path] = len(files)
+                files.append(path)
+            also = [urllib.parse.unquote(copy['url'][len(base):]).split('/')[1] for copy in tune.get('duplicates', [])]
+            version = {'id': tune['id'][:8], 'file': file_index[path], 'n': tune['ordinal'], 'x': tune['x'],
+                       'key': tune['key'], 'source': tune['source'], 'fp': catalog['fingerprints'][tune['id']]}
+            also = list(dict.fromkeys(source for source in also if source != tune['source']))
+            if also:
+                version['also'] = also
+            if tune.get('encoding'):
+                version['encoding'] = tune['encoding']
+            versions.append(version)
+        all_titles = [title for tune in settings for title in tune['titles']]
+        title = display_title([tune['titles'][0] for tune in settings])
+        seen, others = {normalize_title(title)}, []
+        for other in all_titles:
+            if normalize_title(other) not in seen:
+                seen.add(normalize_title(other))
+                others.append(other)
+        types = [tune['category'] for tune in settings if tune['category'] != 'other']
+        kind = max(set(types), key=types.count) if types else 'other'
+        # match: the normalized title and type grouping these settings, for adding other collections' settings.
+        entry = {'id': group_id, 'match': catalog['groups'][group_id], 'title': title, 'type': kind, 'versions': versions}
+        if others:
+            entry['titles'] = others[:5]
+        result.append(entry)
+    result.sort(key=lambda entry: (normalize_title(entry['title']), entry['type'], entry['id']))
+    return {'version': 1, 'genre': name, 'name': GENRES[name], 'base_url': base,
+            'sources': {source: source_names.get(source, source) for source in sorted(
+                {t['source'] for t in tunes} | {source for entry in result for v in entry['versions'] for source in v.get('also', [])})},
+            'files': files, 'tunes': result}
+
+
 def build(base=DEFAULT_BASE, sources=SOURCES):
     settings, reports = [], []
     # Folders without source.json are still downloading (or found nothing).
@@ -169,10 +264,11 @@ def build(base=DEFAULT_BASE, sources=SOURCES):
             continue
         by_print[tune['fingerprint']] = tune
         kept.append(tune)
-    for tune in kept:
-        group = normalize_title(tune['titles'][0]) + '|' + tune['category']
+    fingerprints = {tune['id']: tune.pop('fingerprint') for tune in kept}
+    groups = {}
+    for tune, group in zip(kept, group_keys(kept)):
         tune['tune'] = hashlib.sha256(group.encode()).hexdigest()[:16]
-        del tune['fingerprint']
+        groups[tune['tune']] = group
     # Unclassified tunes take the genre other sources clearly agree on for the same title.
     votes = {}
     for tune in kept:
@@ -189,7 +285,8 @@ def build(base=DEFAULT_BASE, sources=SOURCES):
     by_genre = {name: [] for name in GENRES}
     for tune in sorted(kept, key=lambda tune: tune['id']):
         by_genre[tune['genre']].append(tune)
-    return {'sources': reports, 'duplicates_removed': len(settings) - len(kept), 'genres': by_genre}
+    return {'sources': reports, 'duplicates_removed': len(settings) - len(kept), 'genres': by_genre,
+            'fingerprints': fingerprints, 'groups': groups}
 
 
 def collections(catalog, base):
@@ -318,6 +415,9 @@ def main():
             ensure_ascii=False, separators=(',', ':')).encode() + b'\n'
         (OUTPUT / 'search').mkdir(exist_ok=True)
         (OUTPUT / 'search' / f'{name}.json').write_bytes(search)
+        (OUTPUT / 'tunes').mkdir(exist_ok=True)
+        (OUTPUT / 'tunes' / f'{name}.json').write_text(json.dumps(
+            tune_list(name, tunes, args.base_url, catalog), ensure_ascii=False, separators=(',', ':')) + '\n')
         manifest.append({'genre': name, 'name': GENRES[name], 'file': f'{name}.json', 'tunes': len(tunes),
                          'bytes': path.stat().st_size, 'search_file': f'search/{name}.json',
                          'search_bytes': len(search), 'search_sha256': hashlib.sha256(search).hexdigest(),

@@ -5,7 +5,7 @@ from pathlib import Path
 from unittest.mock import patch
 
 import build_index
-from build_index import category, normalize_key, normalize_title
+from build_index import category, display_title, normalize_key, normalize_title
 from genres import genre
 
 REEL = 'X:1\nT:The Morning Dew\nR:reel\nM:4/4\nL:1/8\nK:Edor\n|:"Em"EB B2 ~e2 dB|AD FD AD FA:|\n'
@@ -49,6 +49,32 @@ class IndexTests(unittest.TestCase):
         catalog = self.build({'a/one.abc': REEL + '\n' + variant})
         self.assertEqual(0, catalog['duplicates_removed'])
         self.assertEqual(1, len({tune['tune'] for tune in catalog['tunes']}))
+
+    def test_groups_untyped_and_numbered_settings_with_their_tune(self):
+        untyped = REEL.replace('X:1', 'X:3').replace('R:reel\n', '').replace('AD FA', 'AF dF')
+        numbered = REEL.replace('X:1', 'X:4').replace('Morning Dew', 'Morning Dew 2').replace('AD FA', 'AB cB')
+        other_polka = 'X:5\nT:Polka No. 2\nR:polka\nM:2/4\nK:G\nGABc dBGB|cAFA G2G2|\n'
+        catalog = self.build({'a/one.abc': '\n'.join([REEL, untyped, numbered, other_polka])})
+        groups = {}
+        for tune in catalog['tunes']:
+            groups.setdefault(tune['tune'], []).append(tune['titles'][0])
+        self.assertEqual(sorted([['Polka No. 2'], ['The Morning Dew', 'The Morning Dew', 'The Morning Dew 2']]),
+                         sorted(sorted(titles) for titles in groups.values()))
+
+    def test_tune_list_lists_each_tune_once_with_its_versions(self):
+        variant = REEL.replace('X:1', 'X:3').replace('AD FA', 'AF dF').replace('The Morning Dew', 'MORNING DEW (reel)')
+        catalog = self.build({'a/one.abc': REEL, 'b/two.abc': variant + '\n' + REEL_COPY})
+        listing = build_index.tune_list('irish', catalog['tunes'], 'https://example.test/', catalog)
+        self.assertEqual(1, len(listing['tunes']))
+        tune = listing['tunes'][0]
+        self.assertEqual(('The Morning Dew', 'reel'), (tune['title'], tune['type']))
+        self.assertEqual([('a', 0, ['b']), ('b', 0, None)],
+                         [(v['source'], v['n'], v.get('also')) for v in tune['versions']])
+        self.assertEqual(['sources/a/one.abc', 'sources/b/two.abc'], listing['files'])
+
+    def test_display_title(self):
+        self.assertEqual('The Morning Dew', display_title(['Morning Dew, The', 'MORNING DEW (reel)', 'The Morning Dew', 'Morning Dew, The']))
+        self.assertEqual("Joe Bane's Reel", display_title(["JOE BANE'S REEL (FS3)"]))
 
     def test_windows_1252_files_keep_an_encoding_the_app_accepts(self):
         catalog = self.build({'a/one.abc': JIG.replace('Untitled', 'Caf\u00e9').encode('windows-1252') + b'% \x9d\n'})
